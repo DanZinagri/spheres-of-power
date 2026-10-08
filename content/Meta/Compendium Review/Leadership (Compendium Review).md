@@ -23,7 +23,7 @@ What the compendium extractor takes from the Leadership pages (70 entries; **not
 | [[Leadership#professional-undertakings-utility\|Professional Undertakings]] | Leadership Talents | [utility] | — | — | Polished Leadership |
 | [[Leadership#village-of-mentors-utility\|Village Of Mentors]] | Leadership Talents | [utility] | — | Leadership sphere ((follower) package, at least 1 (follower) talent). | Polished Leadership |
 | [[Leadership#aiding-coordination-cohort\|Aiding Coordination]] | Cohort and Recruit Talents | (cohort) | Collaborative Aid (cohort), Leader’s Instruction (cohort) [stance] | — | Polished Leadership |
-| [[Leadership#battlefield-coordination-cohort\|Battlefield Coordination]] | Cohort and Recruit Talents | (cohort) | Cohort Attack (cohort) [SAA], Cohort Bolster (cohort), Cohort Defense (cohort) | — | Polished Leadership |
+| [[Leadership#battlefield-coordination-cohort\|Battlefield Coordination]] | Cohort and Recruit Talents | (cohort) | Cohort Attack (cohort), Cohort Bolster (cohort), Cohort Defense (cohort) | — | Polished Leadership |
 | [[Leadership#hunting-coordination-cohort\|Hunting Coordination]] | Cohort and Recruit Talents | (cohort) | Safe Passage (cohort), Watch Together (cohort) | — | Polished Leadership |
 | [[Leadership#logistics-coordination-cohort-recruit\|Logistics Coordination]] | Cohort and Recruit Talents | (cohort), (recruit) | New and Old Friends (cohort) [utility], Quartermaster’s Skill (cohort) | — | Polished Leadership |
 | [[Leadership#mystic-coordination-cohort\|Mystic Coordination]] | Cohort and Recruit Talents | (cohort) | Cohort Conduit (cohort), Cohort Delivery (cohort), Safeguarded Cohorts (cohort) | casting class feature. | Polished Leadership |
@@ -94,14 +94,14 @@ What the compendium extractor takes from the Leadership pages (70 entries; **not
 
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
-| [[Practitioner-Feats#camp-of-operations-drs\|Camp of Operations]] | General | [DRS] | — | Leadership 3 associated skill ranks; Leadership sphere ((follower) package); base of operations class feature. | Polished Commander & Warleader |
-| [[Practitioner-Feats#emergency-reserves-plan-drs\|Emergency Reserves]] | General | [plan], [DRS] | — | Leadership 5 associated skill ranks; Leadership ((cohort) package). | Polished Commander & Warleader |
-| [[Practitioner-Feats#friends-in-close-places-plan-drs\|Friends In Close Places]] | General | [plan], [DRS] | — | Leadership sphere 10 associated skill ranks; Leadership sphere (2 (follower) talents). | Polished Commander & Warleader |
-| [[Practitioner-Feats#journeyman-cohorts-drs\|Journeyman Cohorts]] | General | [DRS] | — | Leadership sphere 3 associated skill ranks; Leadership sphere ((cohort) package). | Polished Commander & Warleader |
-| [[Practitioner-Feats#mixed-conscription-drs\|Mixed Conscription]] | General | [DRS] | — | Leadership sphere 5 associated skill ranks; ability to control one or more non-Leadership sphere subordinates (see text) | Polished Commander & Warleader |
+| [[Practitioner-Feats#camp-of-operations\|Camp of Operations]] | General |  | — | Leadership 3 associated skill ranks; Leadership sphere ((follower) package); base of operations class feature. | Polished Commander & Warleader |
+| [[Practitioner-Feats#emergency-reserves-plan\|Emergency Reserves]] | General | [plan] | — | Leadership 5 associated skill ranks; Leadership ((cohort) package). | Polished Commander & Warleader |
+| [[Practitioner-Feats#friends-in-close-places-plan\|Friends In Close Places]] | General | [plan] | — | Leadership sphere 10 associated skill ranks; Leadership sphere (2 (follower) talents). | Polished Commander & Warleader |
+| [[Practitioner-Feats#journeyman-cohorts\|Journeyman Cohorts]] | General |  | — | Leadership sphere 3 associated skill ranks; Leadership sphere ((cohort) package). | Polished Commander & Warleader |
+| [[Practitioner-Feats#mixed-conscription\|Mixed Conscription]] | General |  | — | Leadership sphere 5 associated skill ranks; ability to control one or more non-Leadership sphere subordinates (see text) | Polished Commander & Warleader |
 | [[Practitioner-Feats#mixed-coordinator-combat\|Mixed Coordinator]] | General | (combat) | — | Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package. | Polished Leadership |
-| [[Practitioner-Feats#radiant-quests-drs\|Radiant Quests]] | General | [DRS] | — | Leadership associated skill 5 ranks. | Spheres Apocrypha: Dipsomania |
-| [[Practitioner-Feats#shared-harmonies-drs\|Shared Harmonies]] | General | [DRS] | — | Leadership sphere ((cohort) package); bardic performance or raging song class feature. | Polished Leadership |
-| [[Practitioner-Feats#shared-rage-combat-drs\|Shared Rage]] | General | (Combat), [DRS] | — | Leadership sphere ((cohort) package); rage or bloodrage class feature, or other ability to rage (see text). | Polished Leadership |
-| [[Practitioner-Feats#talented-followers-improved-drs\|Talented Followers, Improved]] | General | [DRS] | — | Leadership sphere 5 associated skill ranks; Leadership ((follower) package, Good Help). | Polished Commander & Warleader |
-| [[Practitioner-Feats#theurgical-disciples-drs\|Theurgical Disciples]] | General | [DRS] | — | Leadership ((cohort) package); domain or inquisition class feature, cohort same alignment as you (see text). | Polished Leadership |
+| [[Practitioner-Feats#radiant-quests\|Radiant Quests]] | General |  | — | Leadership associated skill 5 ranks. | Spheres Apocrypha: Dipsomania |
+| [[Practitioner-Feats#shared-harmonies\|Shared Harmonies]] | General |  | — | Leadership sphere ((cohort) package); bardic performance or raging song class feature. | Polished Leadership |
+| [[Practitioner-Feats#shared-rage-combat\|Shared Rage]] | General | (Combat) | — | Leadership sphere ((cohort) package); rage or bloodrage class feature, or other ability to rage (see text). | Polished Leadership |
+| [[Practitioner-Feats#talented-followers-improved\|Talented Followers, Improved]] | General |  | — | Leadership sphere 5 associated skill ranks; Leadership ((follower) package, Good Help). | Polished Commander & Warleader |
+| [[Practitioner-Feats#theurgical-disciples\|Theurgical Disciples]] | General |  | — | Leadership ((cohort) package); domain or inquisition class feature, cohort same alignment as you (see text). | Polished Leadership |

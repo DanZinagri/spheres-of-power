@@ -190,7 +190,7 @@ Note: This refers only to the targeting range, not the effect range.
 
 **Cost:** +2 spell points
 
-#### Finishing Spell (Metamagic) [DbH]
+#### Finishing Spell (Metamagic)
 
 Your magic is not troubled by the endeavors of the weak.
 
@@ -224,7 +224,7 @@ Your magic is not troubled by the endeavors of the weak.
 
 **Cost:** +1 spell point
 
-#### Habit Forming (Drawback, Metamagic) [Apoc]
+#### Habit Forming (Drawback, Metamagic)
 
 *Source: [Spheres Apocrypha: Casting Traditions 2](https://www.drivethrurpg.com/product/286903/Spheres-Apocrypha-Casting-Traditions-2?affiliate_id=549120)*
 
@@ -240,7 +240,7 @@ Your magic is not troubled by the endeavors of the weak.
 
 **Cost:** +1 or +2 spell points
 
-#### Impossible Spell (Metamagic) [Alienist HB]
+#### Impossible Spell (Metamagic)
 
 **Benefit:** Impossible spells can be applied to any magic effect which allows a Will save. Creatures that fail their Will saving throw against the effect take 1d3 strain damage. This die sizes increases by 1 (1d3->1d4->1d6->1d8->1d10->2d6) for every 4 caster levels you possess.
 
@@ -278,7 +278,7 @@ Your magic is not troubled by the endeavors of the weak.
 
 **Cost:** +0 spell points
 
-#### Opportune Spell (Metamagic) [DbH]
+#### Opportune Spell (Metamagic)
 
 Incredible power waits to strike any who would cross you.
 
@@ -392,7 +392,7 @@ Note: This refers only to the targeting range, not the effect range.
 
 **Cost:** +2 spell points
 
-#### Tempest-Tossed Spell (Metamagic) [Alienist HB]
+#### Tempest-Tossed Spell (Metamagic)
 
 **Benefit:** A tempest-tossed spell does not require one to attempt a concentration check for casting in vigorous motion, violent motion, or violent weather.
 

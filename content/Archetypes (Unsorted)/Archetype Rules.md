@@ -20,7 +20,7 @@ updated: 2026-01-03
 
 **Sphere Archetypes:** Many core classes include a base archetype, which usually includes the name of the class and the word ‘sphere’. This archetype converts the class to using spheres. If an archetype says it requires a sphere archetype, it means you cannot use that second archetype unless you also select the sphere archetype, as it depends on the use of spheres.
 
-## Specialized Talent Progression [3PP]
+## Specialized Talent Progression
 
 *Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 

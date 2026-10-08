@@ -37,7 +37,7 @@ As a standard action, you may choose an area with a 5-ft. radius. This area must
 
 You may regain martial focus whenever you use a move, standard, or full-round action to reload a weapon you are wielding (including nocking an arrow to a bow). If you can normally reload your weapon faster than a move action, you may choose to reload as a move action to gain this benefit.
 
-#### Lethal Precision [Conq. HB]
+#### Lethal Precision
 
 After performing a deadly shot made while hiding, you may use the Stealth skill’s sniping function as a swift action. You may expend martial focus to reduce this to a free action. In addition, when making a deadly shot, you can deal Fencing sphere precision damage, sneak attack damage, or damage from other similar effects and abilities at any distance.
 
@@ -47,7 +47,7 @@ After performing a deadly shot made while hiding, you may use the Stealth skill�
 
 As long as you have martial focus, whenever you would suffer a miss chance due to concealment, roll the miss chance twice and take the most favorable result. In addition, as long as you have martial focus, you no longer automatically miss when rolling a natural 1 on a ranged attack roll; your attack must still hit the target’s AC as normal. At +10 base attack bonus, you can reroll a result of 1 on a ranged attack roll once per round.
 
-#### Retaliating Fire (stance) [Youxia HB]
+#### Retaliating Fire (stance)
 
 While in this stance, whenever a creature misses you with a ranged attack, you may make a ranged attack against that creature as an attack of opportunity. You may not use this talent in conjunction with (deflect) talents or any other ability that would grant you an attack or combat maneuver due to a missed attack against you.
 
@@ -105,7 +105,7 @@ If you hit a shield-using creature with your deadly shot, the target loses the A
 
 When performing a deadly shot, you may ignore the cover bonus to AC granted to targets by anything less than total cover, and the miss chance granted to targets by anything less than total concealment. Total cover and total concealment provide their normal benefits against your ranged attacks. At +10 base attack bonus, you also ignore total concealment.
 
-#### Tactile Shot (snipe) [utility] [Conq. HB]
+#### Tactile Shot (snipe) [utility]
 
 When performing a deadly shot with this talent, you may choose to deal no damage. Your attacks allow you to manipulate objects in precise ways. An unattended object has an AC equal to 3 + the object’s size modifier (minimum +0) + its hardness. If the object is attended, the deadly shot resolves against the possessing creature’s AC as normal. You may use the following options with this deadly shot:
 
@@ -140,7 +140,7 @@ On a successful deadly shot, you may make a free ranged disarm attempt against t
 
 # Legendary Talents
 
-#### Eviscerating Shot (snipe) [Conq. HB]
+#### Eviscerating Shot (snipe)
 
 **Prerequisites:** Sniper sphere, base attack bonus +15.
 
@@ -154,7 +154,7 @@ You fire your weapon in such a way that it shreds through the hard plate and sca
 
 If you attack a creature or object with a deadly shot and reduce it to 0 or fewer hit points, it is instantly killed as its head (or equivalent body part) explodes in a shower of gore. Each creature within 10 ft. of the target takes an amount of bludgeoning and piercing damage equal to your weapon’s base damage die plus your base attack bonus (Reflex half).
 
-#### I Miss You My Darling [Jester's HB]
+#### I Miss You My Darling
 
 **Prerequisites:** Stealth ranks 10, Scout sphere (Track The Scene), Sniper sphere.
 
@@ -168,7 +168,7 @@ You may not have more than one creature designated as your prey at any time, and
 
 Your shot is fired with such force and deadly accuracy that it cuts through the very bonds of reality, bypassing any obstacle between it and its target. Targets gain no benefit from cover, even total cover, against your attacks. If you possess the Star Scraper legendary talent, you may attack a target anywhere within its advanced range, even if they are completely enclosed by protective surfaces, though you must still have a reliable means of ascertaining your target’s exact location. This is a supernatural effect.
 
-#### Precise Marksmanship (snipe) [EO3]
+#### Precise Marksmanship (snipe)
 
 **Prerequisites:** Sniper sphere, base attack bonus +5.
 

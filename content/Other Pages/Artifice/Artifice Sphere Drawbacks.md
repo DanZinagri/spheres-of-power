@@ -17,7 +17,7 @@ Whenever you create a flourish, you must pay a further material cost based on th
 
 **Note:** This drawback grants an exceptional talent, and should be used at the GM's discretion. This alternate start gives GMs a clear method for NPCs to provide flourishes, or to simply remove the maintenance requirements from PCs that might not fit the style of the game. The GM might simultaneously rule that certain flourishes require a higher price when applied to certain items indefinitely.
 
-#### Fixer [DRS]
+#### Fixer
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -29,7 +29,7 @@ You lose the trinket ability and cobbled creation approach, as well as the bonus
 
 You can only create a trinket using the cobbled creation approach, and you gain the Greater Trinkets talent.
 
-#### Writer [DRS]
+#### Writer
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 

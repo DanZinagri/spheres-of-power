@@ -153,7 +153,7 @@ At 3rd level, and every 3 levels thereafter, the dissident's struggles gain more
 
 If a nuance requires a saving throw, it is equal to 10 + 1/2 her dissident level + her casting ability modifier. The dissident can also choose from the following nuances, regardless of her chosen strife:
 
-#### Alternate Form (requires dissident 6) [DRS]
+#### Alternate Form (requires dissident 6)
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -163,7 +163,7 @@ Whenever the dissident becomes moderately attuned to the chosen side of her stru
 
 Whenever the dissident becomes strongly attuned to the chosen side of her struggle, she gains the benefits of the Improved Transformation feat.
 
-#### Balanced Armament (requires manifest equilibrium) [DRS]
+#### Balanced Armament (requires manifest equilibrium)
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -342,7 +342,7 @@ When the dissident gains this nuance, she chooses a single unchained monk ki pow
 
 The dissident can choose this nuance an additional time at 12th level, choosing an additional ki power and the major blessing associated with the chosen blessing.
 
-#### Decisive Focus (requires dissident 6) (Ex) [DRS]
+#### Decisive Focus (requires dissident 6) (Ex)
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -356,7 +356,7 @@ If the dissident is attuned to harmony, this can be used to heal a creature (inc
 
 While moderately attuned to a side of her struggle, she can spend an additional spell point to have the energy surge out in a 30-foot radius, affecting all creatures of her choice with the appropriate ability. If the dissident is completely attuned to either side of her struggle, the die size increases to d10s.
 
-#### Still Mind, Swift Blade (Ex) [DRS]
+#### Still Mind, Swift Blade (Ex)
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -526,7 +526,7 @@ In place of the normal bonus granted by the manifest equilibrium nuance, she can
 
 Additionally, the bonus granted to an imbued object that she summons using manifest equilibrium increases to a +1 enhancement bonus, +1 per 5 dissident levels she possesses.
 
-#### Murky Morality (requires dissident 9) [DRS]
+#### Murky Morality (requires dissident 9)
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -736,7 +736,7 @@ In place of the normal bonus granted by the manifest equilibrium nuance, she can
 
 Additionally, the bonus granted to an imbued object that she summons using manifest equilibrium increases to a +1 enhancement bonus, +1 per 5 dissident levels she possesses.
 
-#### Dichotomous Togetherness [DRS]
+#### Dichotomous Togetherness
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -768,7 +768,7 @@ Also, the dissident can declare an isolated duel between an ally within 30 feet 
 
 # Class Feats
 
-#### Extra Nuance [LotS]
+#### Extra Nuance
 
 **Prerequisite:** 5th-level dissident.
 
@@ -780,7 +780,7 @@ Also, the dissident can declare an isolated duel between an ally within 30 feet 
 
 # Alternate Class Features
 
-#### Dichotomous Strife [DRS]
+#### Dichotomous Strife
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 

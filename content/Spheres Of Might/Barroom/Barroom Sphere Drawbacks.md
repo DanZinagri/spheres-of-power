@@ -18,27 +18,27 @@ The [utility start] tag is described in Spheres of Guile. It is only possible to
 
 You do not gain the brutal breaker ability. You cannot possess both this and the Teetotaler drawback. You gain Double Chug with this drawback.
 
-#### Bar Regular (Utility Start) [LotS]
+#### Bar Regular (Utility Start)
 
 You do not gain the brutal breaker ability. You gain one of Boozehound, Charming Drunk, or Drunken Insight as a bonus talent.
 
-#### Broken Arms [SA:MD]
+#### Broken Arms
 
 You do not gain the hard drinker ability, and cannot gain the drunk status or select (drunk) talents. You gain Perfect Break with this drawback.
 
 **Incompatible:** Alcoholic, Gourmand, Perpetual Drunk, Teetotaler.
 
-#### Gourmand [High. HB]
+#### Gourmand
 
 You do not gain the brutal breaker ability. You cannot possess this drawback if you have already traded away your brutal breaker or hard drinker abilities with other sphere-specific drawbacks. You gain Postprandial Maudlin with this drawback.
 
-#### Guarded Brawler [SA:MD2]
+#### Guarded Brawler
 
 You do not gain the hard drinker ability, and cannot gain the drunk status or select (drunk) talents. You gain Improvised Shield with this drawback.
 
 **Incompatible:** Alcoholic, Broken Arms, Gourmand, Perpetual Drunk, Teetotaler.
 
-#### Perpetual Drunk [SA:MD]
+#### Perpetual Drunk
 
 You do not gain the brutal breaker ability. You gain High On Fumes with this drawback.
 

@@ -279,7 +279,7 @@ At 10th level, a successful save only reduces the duration of the sickened condi
 
 At 16th level, on a failed save, the creature is also nauseated for 1 round. Also, the sickened condition lasts twice as long (even on a successful save), and the penalties associated with the condition increase by +2.
 
-#### Unabated Pursuit [DRS]
+#### Unabated Pursuit
 
 Whenever the courser uses their determined stalker or distant advance class features, they add their vigilant bonus to Acrobatics, Climb, Fly, Stealth, or Swim checks made to pursue the creature, and ignore up to 10 feet of difficult terrain when doing so. Additionally, they can choose to move twice their base speed when using such a class feature, although doing so subtracts from their total movement on their following turn.
 
@@ -287,7 +287,7 @@ Whenever the courser uses their determined stalker or distant advance class feat
 
 The following ventures require you to be 6th level in the courser class.
 
-#### Head Smash* [DRS]
+#### Head Smash*
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -299,7 +299,7 @@ On a failed save, whenever the creature suffers damage, they must succeed at a F
 
 When using their forage ability, the courser may spend a Herbalism sphere herb per target to increase any numerical benefits of their forage ability by 1.
 
-#### Opportunistic Harry [DRS]
+#### Opportunistic Harry
 
 Once per round, whenever the courser makes an attack of opportunity against a creature and the attack is a successful hit, they can apply their harrying assault class feature to the attack. This ignores the normal once per round limit on harrying assault.
 
@@ -359,7 +359,7 @@ The courser can attempt to gain a rough idea of the location of a creature who h
 
 If the courser is successful, they learn the direction of the creature's destination, and whether or not it is within 25 feet, 100 feet, 1,000 feet, or further than 1,000 feet from them. This venture must be used within 1 minute of the teleportation attempt.
 
-#### Perpetual Acclimation [DRS]
+#### Perpetual Acclimation
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -383,7 +383,7 @@ The following ventures require you to be 12th level in the courser class.
 
 When the courser successfully uses their astral tracking courser venture, they instead learn the exact location of the creature's destination, as long as it is on the same plane as the courser. Additionally, the courser can attempt to track this way within 1 hour of a teleportation attempt.
 
-#### Pin Down [DRS]
+#### Pin Down
 
 The courser gains Pin Down (*Ultimate Combat*) as a bonus feat, even if they do not meet the prerequisites.
 
@@ -391,7 +391,7 @@ The courser gains Pin Down (*Ultimate Combat*) as a bonus feat, even if they do 
 
 # Alternate Class Features
 
-#### Cook [DRS]
+#### Cook
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 

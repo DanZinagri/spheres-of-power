@@ -37,7 +37,7 @@ Whenever you make a melee attack using the attack action, you may choose to take
 
 You can take this talent a second time, allowing you to take a single 5-ft. step as a free action after making an attack when using this ability. If doing so places a creature within your threatened area, that creature becomes a legal target for your additional attack(s) as long as it meets all the other prerequisites. Your movement with this talent cannot exceed your move speed. **Associated Feats:** Cleave, Great Cleave, Cleave Through when taken twice.
 
-#### Barbaric Throw [Apoc]
+#### Barbaric Throw
 
 You can use brutal strike with thrown weapons. Additionally, throwing two-handed weapons no longer takes a full-round action, instead taking the same time as any other thrown weapon attack. When you expend your martial focus as part of a brutal strike, you can treat any melee weapon wielded by you that you’re proficient with as a thrown weapon with a range increment of 10 feet for that action. **Associated Feats:** Throw Anything, Two-Handed Thrower
 
@@ -49,7 +49,7 @@ When you inflict the battered condition with a brutal strike, the condition last
 
 As an immediate action, when a creature targets you with a melee attack, before the attack roll is made you may allow the attack to automatically strike you (although the roll is still made to determine if the attack threatens a critical hit). After the damage is determined, you may make a brutal strike targeting that creature as a free action that may be taken even when it isn’t your turn, if it is in range. If the creature attacking you is battered, you may resolve your attack action prior to their attack being resolved.
 
-#### Break Dancing [Jester's HB]
+#### Break Dancing
 
 After making a sunder attempt, you may attempt an Acrobatics or Perform (dance) check as a swift action with a DC equal to the target of your sunder’s CMD. If you succeed, you may move up to half your speed. This movement does not provoke attacks of opportunity. If you succeed at this check by 10 or more, your sweet moves restore your martial focus.
 
@@ -71,7 +71,7 @@ You may increase the time required to use brutal strike to a full-round action t
 
 You gain a +1 competence bonus to your sunder combat maneuver checks, as well as to your CMD vs. that maneuver. For every 4 points of base attack bonus you have, this bonus increases by +1. This bonus does not stack with the bonus to this maneuver provided by the Improved or Greater Sunder feats. **Associated Feat:** Improved Sunder.
 
-#### Monumental Might (utility) [LotS]
+#### Monumental Might (utility)
 
 Add your base attack bonus to the Appraise and Sense Motive DCs required to evaluate your prowess or sense your emotions (new universal skill use from Spheres of Guile) and to opposed Bluff and Intimidate checks made to resist such attempts.
 
@@ -95,7 +95,7 @@ Creatures within the affected area become battered for 1 round. If a creature is
 
 If your attack is enough to destroy the floor, you may activate the Shrapnel talent, if you possess it. If the floor has a set thickness (for example, attacking the floor on a building’s second story), destroying the floor eliminates the targeted area, opening a hole. If attacking a floor with no set thickness (for example, the ground outside), treat the floor as being 1 ft. thick when determining its hp, and if destroyed, the difficult terrain cannot be cleared away unless the ground is repaired. You may choose to leave the floor at 1 hit point instead of destroying it.
 
-#### Sword Eater (stance) [Youxia HB]
+#### Sword Eater (stance)
 
 While in this stance, when a creature targets you with a manufactured melee weapon attack, you may attempt to sunder the weapon used to make the attack as an attack of opportunity after it resolves. If the creature attacking you is battered, you may resolve your sunder attempt prior to their attack being resolved.
 
@@ -105,37 +105,37 @@ While in this stance, when a creature targets you with a manufactured melee weap
 
 While berserking, instead of gaining temporary hit points, you may choose to benefit from one (adrenaline) talent. You must choose which (adrenaline) talent to use at the start of each turn, if any, and may only use one (adrenaline) talent each round. You still take a -2 penalty to AC as normal and any benefits you gain end at the start of your next turn. Some (adrenaline) talents require you to expend martial focus as part of the same action as berserking and must be expended each round you choose to use it. (*Note:* You may retain the temporary hit points if you take the True Rage (combat) feat. See [[Practitioner Feats]] for this option.)
 
-#### Absolute Determination (adrenaline) [Alienist HB]
+#### Absolute Determination (adrenaline)
 
 No doubt stops your onslaught. You gain a +1 bonus on saving throws against mind-affecting effects and the DC to Intimidate you, increasing by +1 for every 6 base attack bonus you possess. Whenever you would attempt a save against a mind-affecting effect, you may roll twice, taking the better result.
 
 In addition, you may expend martial focus as an immediate action to attempt a save against a mind-affecting effect (using the effect’s original DC) or reduce your current level of fear by 1 step (panicked to frightened, frightened to shaken, shaken to not affected by a fear effect). You may only attempt a new save against a specific mind-affecting effect (for example, a specific instance of charm) once per day.
 
-#### Dreadnought (adrenaline) [Conq. HB]
+#### Dreadnought (adrenaline)
 
 You are inevitable. You gain a +1 bonus on saving throws and to your CMD against effects that would slow or impair your movement (such as entangled, grappled, paralyzed, staggered, or other similar effects), increasing by +1 for every 4 base attack bonus you possess. Whenever you would attempt a save against an effect that would slow or immobilize you, you may roll twice, taking the better result.
 
 In addition, once per round, you may expend martial focus as an immediate action to attempt a save against an effect which has slowed or impaired your movement, or make a combat maneuver or other appropriate check to escape a grapple, Lancer impale, or other similar effect.
 
-#### Executioner (adrenaline) [Conq. HB]
+#### Executioner (adrenaline)
 
 You must expend martial focus each round you start berserking to use this talent. Once per round, you may choose to roll an attack roll twice, taking the better result. You must decide to use this before the roll is made. You may use this talent an additional time each round for every 10 base attack bonus you possess.
 
-#### Juggernaut (adrenaline) [Conq. HB]
+#### Juggernaut (adrenaline)
 
 You barrel across the cluttered battlefield more easily than others. You ignore difficult terrain when you charge, run, or withdraw. You can also charge through squares that contain allies. When using the charge action, you do not take a penalty to your AC and increase the bonus on attack rolls and bull rush combat maneuvers at the end of a charge by 1, increasing by +1 for every 10 base attack bonus you possess.
 
-#### Marauder (adrenaline) [Conq. HB]
+#### Marauder (adrenaline)
 
 Your body pushes itself further, allowing you to move faster than you normally could. You gain a +5 feet circumstance bonus on all forms of movement (such as land, climb, burrow, fly, or swim), increasing by +5 feet for every 4 points of base attack bonus you have. In addition, you gain a competence bonus on all Acrobatics, Climb, Fly, and Swim checks equal to half your base attack bonus (minimum 1).
 
-#### Promethean (adrenaline) [RW HB]
+#### Promethean (adrenaline)
 
 You are no stranger to the elements you walk through. Each time you use this adrenaline, choose acid, cold, electricity, fire, or sonic. You gain energy resistance equal to 5 + 1/2 your base attack bonus against the chosen energy type. This energy resistance stacks with other forms of energy resistance. If you expend your martial focus when you start berserking using this talent, increase the energy resistance granted to 10 + your base attack bonus.
 
 Whenever the energy resistance granted by this (adrenaline) would prevent or reduce energy damage you take, you may spend an immediate action to regain martial focus.
 
-#### Specter (adrenaline) [Conq. HB]
+#### Specter (adrenaline)
 
 You close in on foes with an unnerving alacrity. You must expend martial focus each round you start berserking to use this talent. At the start of your turn, you may designate one foe within 20 feet that is not adjacent to you, increasing by +5 feet for every 4 points of base attack bonus you possess. Your movement does not provoke attacks of opportunity from that foe as long as you end your movement adjacent to that foe. In addition, you gain a +2 dodge bonus to your AC against all attacks of opportunity that you provoke, not just against those that are caused when you move out of or within a threatened area, increasing by +1 for every 4 points of base attack bonus you possess.
 
@@ -143,7 +143,7 @@ You close in on foes with an unnerving alacrity. You must expend martial focus e
 
 # Exertion Talents
 
-#### Agonizing Bruise (exertion) [DRS]
+#### Agonizing Bruise (exertion)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -166,7 +166,7 @@ Creature damaged by your brutal strike take a -1 penalty on concentration checks
 
 The creature damaged by your brutal strike takes a -1 penalty on all attack and damage rolls for as long as it is battered. This penalty increases by -1 for every 4 points of base attack bonus you possess. Multiple uses of this talent do not stack.
 
-#### Flesh Carver (exertion) [Conq. HB]
+#### Flesh Carver (exertion)
 
 Your weapons rend through flesh, sinew, and bone alike. The creature damaged by your brutal strike has their damage reduction reduced by an amount equal to 1/2 your base attack bonus (minimum 1). This reduction lasts for as long as the target has the battered condition. This reduction does not stack with itself.
 
@@ -174,7 +174,7 @@ The benefits of this talent are halved (minimum 1) when applied to damage reduct
 
 **Special:** If you possess mythic ranks, the benefits of this talent are no longer halved against DR/epic.
 
-#### Heart Crusher (exertion) [CrimDan]
+#### Heart Crusher (exertion)
 
 The creature damaged by your brutal strike suffers a -1 penalty on all Fortitude saves for as long as the creature is battered. This penalty increases by -1 for every 4 points of base attack bonus you possess. This penalty does not stack with other uses of the same talent. If the target was battered when struck, they additionally reduce all temporary hit points and healing they receive by 50% for as long as they are battered (Will negates). This does not affect healing gained from fast healing or regeneration.
 
@@ -208,7 +208,7 @@ When you attack an unattended object with a brutal strike, if you destroy the ob
 
 When using the Shatter Earth talent, if you deal enough damage to reduce the ground to 0 hp, you may create a 5 ft. deep hole in the ground in the affected squares. If you so choose, you may also raise the terrain by 5 ft. in all squares adjacent to the affected squares. Targets standing in spaces that become a 5 ft hole must pass a Reflex save or fall prone.
 
-#### Atavism (adrenaline) [Apoc]
+#### Atavism (adrenaline)
 
 *Source: [Spheres Apocrypha: The Inheritor and Improved Atavism Heritages](https://www.drivethrurpg.com/product/347553/Spheres-Apocrypha-The-Inheritor-and-Improved-Atavism-Heritages?affiliate_id=549120)*
 
@@ -242,13 +242,13 @@ See Table: Atavism Heritages for more details. When you stop using this talent, 
 | Undead | Intimidate or Sense Motive | Ghoul, vampire, wight |
 | Vermin | Acrobatics or Stealth | Ant, crab, rat |
 
-#### Flaming Ríastrad [High. HB]
+#### Flaming Ríastrad
 
 **Prerequisite:** Berserker sphere.
 
 You are not subject to fatigue or exhaustion that is the result of taking damage from environmental heat. In addition, while berserking or using the rage class feature, your body puts off an aura of heat affecting all creatures and objects within reach (including yourself). Each round that you continue berserking or raging, the heat severity level in the affected area increases by 1 step (maximum heat severity 4 + 1 step per 7 points of base attack bonus). Any round that you are not berserking or raging, the heat severity level in the affected area decreases by 1 step, until it has reached normal heat levels. For the purpose of control weather, you are considered to have a magic skill bonus equal to your base attack bonus.
 
-#### Genie’s Wrath (exertion) [RW HB]
+#### Genie’s Wrath (exertion)
 
 **Prerequisites:** Berserker sphere, Elemental Might, base attack bonus +5.
 
@@ -269,7 +269,7 @@ You unleash a powerful roar and swing a weapon with such extreme ferocity that y
 
 You are exhausted for 1 hour after using this ability, and are fatigued as normal thereafter. You incur these penalties even if you are immune to the exhausted and fatigued conditions, and the exhausted condition cannot be removed before its duration is up. You may attempt to use this ability while exhausted or fatigued, but doing so incurs a 50% chance that the ability fails to work; regardless of whether you succeed at this attempt, you suffer 1d6 points of Constitution damage and the duration of the exhausted condition caused by using this ability is doubled. This is a supernatural effect.
 
-#### Rift Strike, Universal [RW HB]
+#### Rift Strike, Universal
 
 **Prerequisites:** Berserker sphere (Rift Strike (legendary)), base attack bonus +17.
 
@@ -293,7 +293,7 @@ You may choose to break the ground as you move. Whenever you leave a square, you
 
 You may attempt to sunder an ongoing spell effect by succeeding at a special sunder combat maneuver attempt. For any effect that is not already on a creature, you must make a sunder combat maneuver attempt against a CMD of 15 plus the effect’s caster level. To sunder an effect on a creature, you must succeed at a normal sunder combat maneuver against the creature’s CMD +5, ignoring any miss chance caused by a spell or spell-like ability. If successful, you suppress the effect for 1 round, or 2 rounds if you exceeded the CMD by 5 to 9. If you exceed the CMD by 10 or more, the effect is dispelled.
 
-#### Warp Spasm [High. HB]
+#### Warp Spasm
 
 **Prerequisites:** Berserker sphere, base attack bonus +5.
 

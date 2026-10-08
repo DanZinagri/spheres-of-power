@@ -60,7 +60,7 @@ You isolate the advantages of your casting and transfer them across disciplines.
 
 **Benefit:** When you create a magic effect with one casting tradition, you may spend an additional spell point to apply a single boon from another casting tradition to the magic effect. You may spend multiple additional spell points to apply multiple boons using this feat.
 
-#### Theurgic Virtuoso (Theurge) [3PP]
+#### Theurgic Virtuoso (Theurge)
 
 *Source: Baron’s Glorious Arena*
 

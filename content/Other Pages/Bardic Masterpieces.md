@@ -16,7 +16,7 @@ A character with spherecasting may use their casting ability modifier instead of
 
 ## New Bardic Masterpieces
 
-#### Wildfriend Pastorale (Percussion, Wind) [BTH]
+#### Wildfriend Pastorale (Percussion, Wind)
 
 Your gentle song reaches out to the wilderness, enthralling the beasts that slumber in far away lands.
 

@@ -166,7 +166,7 @@ Your power enables you to achieve even greater effects while in Aristeia.
 
 **Special:** This feat counts as Hero’s Fortune for the purpose of meeting prerequisites.
 
-#### Ultimate Form (Aristeia) [Alienist HB]
+#### Ultimate Form (Aristeia)
 
 **Prerequisite:** Alteration sphere.
 
@@ -184,7 +184,7 @@ When you enter Aristeia, you gain temporary hit points equal to your character l
 
 **Special:** This feat counts as Toughness for the purpose of meeting prerequisites.
 
-#### Veiled Horror (Aristeia) [Alienist HB]
+#### Veiled Horror (Aristeia)
 
 **Benefit:** You gain a +1 bonus to Intimidate checks for every Aristeia feat you possess. When you enter aristeia, you gain the frightful presence universal monster ability with a range of 30 feet and a DC of 10 + 1/2 your Hit Dice + your Charisma modifier. This range increases to 100 feet if you possess at least three aristeia feats and 300 feet if you possess at least 5 aristeia feats.
 

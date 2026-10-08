@@ -23,11 +23,11 @@ A fencer may apply the effects of a single (exploit) talent to any fatal thrust.
 
 # Fencing Talents
 
-#### Darting Crane (stance) [Youxia HB]
+#### Darting Crane (stance)
 
 While in this stance, whenever a creature within reach misses you with a melee attack, you may expend an attack of opportunity to perform a feint against that creature as a free action that can be taken outside of your normal turn. You may not use this talent in conjunction with (deflect) talents or any other ability that would grant you an attack or combat maneuver due to a missed attack against you.
 
-#### Death From Afar [Apoc]
+#### Death From Afar
 
 You may use fatal thrust on a ranged attack action out to your first range increment.
 
@@ -35,7 +35,7 @@ You may use fatal thrust on a ranged attack action out to your first range incre
 
 When you succeed at a feint check against a target, that target also loses its Dexterity bonus to its armor class against all attacks until the beginning of your next turn, in addition to your next attack. **Associated Feat:** Greater Feint.
 
-#### Expert Fence [Jester's HB]
+#### Expert Fence
 
 As a swift action, you may choose one edge of your space and create a metaphorical fence for 1 round. That edge is treated as partial cover for attacks targeting you only. At +10 base attack bonus, you may expend martial focus to reduce this to an immediate action. Partial cover provided by this talent does not block line of effect and cannot be used to attempt a Stealth check.
 
@@ -69,7 +69,7 @@ Your quick movements allow you to temporarily use one enemy as cover against ano
 
 When you take the total defense action, you still may make attacks of opportunity. If you possess the Lunge talent, you may increase your threatened area by 5 ft. when determining the range at which you may make attacks of opportunity while using the total defense action, but suffer a -2 penalty to attacks made at this extended range, as detailed under the Lunge talent.
 
-#### Isolating Repartee (utility) [LotS]
+#### Isolating Repartee (utility)
 
 When you are the only creature within 10 feet of a target which the target perceives, that target takes a penalty on Bluff, Diplomacy, Intimidate, and Perform checks equal to your practitioner modifier. If you possess at least 10 ranks in either Bluff or Sense Motive, this penalty increases to twice your practitioner modifier.
 
@@ -101,7 +101,7 @@ You have learned to read the subtle cues of your enemy, and to see through enemy
 
 When dealing your Fencing sphere precision damage to a creature, you may expend your martial focus to increase the bonus precision damage to become +1d6, +1d6 at +3 base attack bonus and every +2 thereafter. In addition, you may apply two different (exploit) talents to this attack.
 
-#### Substituting Feint [DRS]
+#### Substituting Feint
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -189,13 +189,13 @@ You are a master of all forms of communication. Whenever you make a Bluff, Diplo
 
 You may use your Parry and Riposte talent against ranged attacks and spells which require attack rolls as well as melee attacks. You still cannot make a retaliatory attack against the target unless it is within your reach. In addition, you may use Parry and Riposte in place of making a Reflex save against a spell, supernatural, or extraordinary ability you are aware of. If you succeed on this check, the effect is reduced as if you had the evasion rogue class feature.
 
-#### Parry Intent [EO3]
+#### Parry Intent
 
 **Prerequisites:** Bluff ranks 10, Fencing sphere (Parry And Riposte), base attack bonus +10.
 
 Whenever you would use your Parry And Riposte talent against an appropriate attack (including the expanded options granted by Parry Anything, except area-based effects), you may attempt a Bluff check instead of an attack roll. If your Bluff check is greater than the attack, the creature must succeed at a Will saving throw (using your ranks in Bluff instead of your base attack bonus) or change the target of the relevant attack from you to another creature of your choice, even if it is one of their allies. On a successful save, the attack targets you as normal. This is a supernatural mind-affecting compulsion effect.
 
-#### Reaving Strike [Alienist HB]
+#### Reaving Strike
 
 **Prerequisites:** Fencing sphere, base attack bonus +5.
 
@@ -203,7 +203,7 @@ As long as you have martial focus, when you strike an opponent that has a chance
 
 When you use this effect, you may expend martial focus to treat creatures that are normally immune to critical hits and precision damage as having a 150% chance to negate the critical hit or precision damage, reduced as normal by this talent’s effect. Treat creatures with a 100% fortification chance or greater as if they were immune to critical hits and precision damage (thus having an effective 150% chance to negate such effects) for the purposes of this talent. **Associated Feat:** Anatomical Savant.
 
-#### Sequestering Facade (stance) [EO3]
+#### Sequestering Facade (stance)
 
 **Prerequisites:** Bluff 10 ranks, Fencing sphere (Expert Feint, Master Of Deception), base attack bonus +10.
 

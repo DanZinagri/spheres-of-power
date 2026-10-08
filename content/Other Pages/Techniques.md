@@ -11,7 +11,7 @@ In its simplest form, a technique is a sphere effect that has been augmented and
 
 While the rules presented below are designed to aid in creating techniques, in the end, these rules are purposely left vague to encourage creativity, mystery, and wonder.
 
-#### Optional Rule: Skill Spheres and Techniques [LotS]
+#### Optional Rule: Skill Spheres and Techniques
 
 Skill spheres and skill talents can be used in the creation of techniques in a manner similar to combat or magic talents. Skill spheres or talents applied to a technique increase the technique’s complexity as normal and a character who applies any exceptional talents to a technique must apply any prerequisite talents to the technique as well.
 
@@ -73,7 +73,7 @@ Once a character has set their technique’s function and complexity, they must 
 
 If a character possesses talents that would modify all uses of a specific sphere ability (such as Extended Range from the Destruction sphere or Greater Shove from the Brute sphere), they may apply these talents’ effects to a technique as normal without having to modify the technique.
 
-### Complexity Modifiers [3PP]
+### Complexity Modifiers
 
 The Technique rules introduced in Champions of the Spheres: Study and Practice provide a powerful set of tools for creating potent and unique magic effect cards, allowing characters to compose high-cost singular abilities which can shift the tide of battle. The following section presents additional modifiers which can be applied to techniques. Some require the use of Card Casting rules.
 
@@ -159,7 +159,7 @@ If a character possesses all of a technique’s prerequisite spheres and talents
 
 ## Sample Techniques
 
-### Agonizing Draw [3PP]
+### Agonizing Draw
 
 **Magic Sphere** Destruction
 **Complexity** 6 (1 base talents, 2 talents total, 4 drawpower x4, 1 extra spell point expenditure) (crafting time 8 days)
@@ -226,7 +226,7 @@ If the charge or shove strikes its target, the target takes additional fire dama
 **Description**
 You prepare an attack that will blow your target away. You ready an action to perform a counterpunch, and may perform a shove in place of the counterpunch when the counterpunch is triggered. This shove deals additional damage as your counterpunch would. If the shove is successful, you may perform a bull rush, drag, or reposition combat maneuver as part of the shove.
 
-### Obliterate [3PP]
+### Obliterate
 
 **Magic Spheres** Death, Mind
 **Complexity** 6 (2 base talents, 1 advanced talent, 6 talents total, 5 extra spell point expenditure)
@@ -263,7 +263,7 @@ You slip in an immensely deadly shot amidst a flurry of projectiles. You make a 
 **Description**
 You teleport around the battlefield rapidly, delivering strikes to multiple creatures. You teleport into melee attacking range of a creature within close range and make a single melee attack against it, taking a -2 penalty to the attack roll. If you are successful, you may teleport to another creature which is within close range of your new position and make a melee attack against it at the same -2 penalty. You may teleport and attack again every time you hit a target, to a maximum number of attacks beyond the first equal to 1/2 your caster level or 1/2 your base attack bonus (whichever is higher). You cannot attack the same creature multiple times with this ability.
 
-### Wondrous Play [3PP]
+### Wondrous Play
 
 **Magic Spheres** none
 **Complexity** 6 (Tutored Magic 6)
@@ -347,7 +347,7 @@ When one of your allies primes a technique, you respond immediately.
 
 **Benefit:** When multiple characters with this feat work together to initiate a multi-character technique, the technique is performed on the highest of the participants’ initiative counts rather than the lowest. All participants have their actions for the turn moved up to the initiative count where the technique is performed.
 
-#### Signature Technique [3PP]
+#### Signature Technique
 
 *Source: Baron’s Glorious Arena*
 
@@ -371,7 +371,7 @@ Your martial skills enable incredible technique usage.
 
 **Benefit:** When you expend martial focus to pay for the complexity cost of a technique that uses no magical spheres, the amount of the complexity cost paid by expending martial focus increases by 1 for every five points of base attack bonus you possess.
 
-#### Technique Skimmer (Combat) [3PP]
+#### Technique Skimmer (Combat)
 
 *Source: Baron’s Glorious Arena*
 

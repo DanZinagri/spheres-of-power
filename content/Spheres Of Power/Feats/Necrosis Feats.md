@@ -16,7 +16,7 @@ Necrosis feats represent ongoing necromantic modification, corruption, or experi
 
 ***Note:*** Characters use their Death sphere caster level when determining the effects of any necrosis feats they possess (such as when determining range) unless otherwise stated.
 
-#### Banshee’s Sotto Voce (Necrosis) [Gravecaller's HB]
+#### Banshee’s Sotto Voce (Necrosis)
 
 Whisper your lamentations to the world.
 
@@ -58,7 +58,7 @@ Your nerves fail, increasing your pain tolerance and general resilience.
 
 **Four Necrosis Feats:** You gain half the normal benefit of this feat at all times (increasing to the full benefit when you spend a spell point).
 
-#### Deathknight’s Purchase (Combat, Necrosis) [Gravecaller's HB]
+#### Deathknight’s Purchase (Combat, Necrosis)
 
 Their suffering is your salvation. Break their souls across the iron that is your will.
 
@@ -76,7 +76,7 @@ Their suffering is your salvation. Break their souls across the iron that is you
 
 **Four Necrosis Feats:** When you spend 1 spell point as a swift action to activate this feat, you can affect bleeding creatures within the blindsense range granted by this feat with any talent that requires a touch attack, Fortitude save, or Will save regardless of distance, line of sight, or line of effect.
 
-#### Inhuman Defiler (Defiler, Drawback, Necrosis) [Cata. HB]
+#### Inhuman Defiler (Defiler, Drawback, Necrosis)
 
 Your destructive powers and undead ambitions feed into each other.
 
@@ -86,7 +86,7 @@ Your destructive powers and undead ambitions feed into each other.
 
 **Four Defiler/Necrosis Feats:** You gain one bonus spell point for every 2 Defiler or Necrosis feats you possess.
 
-#### Necrotic Heart (Necrosis) [Cata. HB]
+#### Necrotic Heart (Necrosis)
 
 Your body is sustained by necromantic power.
 
@@ -106,7 +106,7 @@ Your emotional and reflex responses fade, allowing you to shrug off distracting 
 
 **Four Necrosis Feats:** When you use this feat, you also gain a new saving throw against one of the above effects currently affecting you (your choice).
 
-#### Rotten Hordes (Necrosis, Plague) [CrimDan]
+#### Rotten Hordes (Necrosis, Plague)
 
 **Prerequisites:** Blood sphere and 5th caster level; or Death sphere and 5th caster level; or Duelist sphere and base attack bonus +5; or Alchemy sphere and base attack bonus +5; Death sphere (Shroud), Virulent Ailment (plague).
 

@@ -137,7 +137,7 @@ At 20th level, the frostweaver may spend 1 minute and 3 frost motes to summon a 
 
 At 2nd level, and every 4 levels thereafter, the frostweaver gains one blessing of winter, a powerful development of their mastery of the cold, chosen from the following. Unless otherwise stated, a blessing of winter cannot be selected more than once.
 
-#### Alone in the Cold (spellrime) (requires frostweaver 6, Weather sphere) [DRS]
+#### Alone in the Cold (spellrime) (requires frostweaver 6, Weather sphere)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -149,7 +149,7 @@ The frostweaver may use this spellrime when casting a sphere effect that affects
 
 The frostweaver gains Extra Frost Motes as a bonus feat. The frostweaver may select this blessing of winter multiple times.
 
-#### Frigid Tempering (spellrime) [DRS]
+#### Frigid Tempering (spellrime)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -168,13 +168,13 @@ The range of the frostweaver’s wintry reclamation and any ice charm with a lis
 The frostweaver gains one oracle revelation from the winter mystery, using his frostweaver level as his effective oracle level and his casting ability modifier in place of Charisma when meeting its prerequisites and determining its effects. The frostweaver never qualifies for the Extra Revelation feat. At 10th level, the frostweaver may select this blessing of winter a second time. If he does, he gains a second revelation from the winter mystery.
 Winter mystery published in Pathfinder Player Companion: People of the North, © 2015, Paizo Inc.
 
-#### Glaciate Arcana (requires frostweaver 6) [DRS]
+#### Glaciate Arcana (requires frostweaver 6)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 Whenever you successfully freeze a magical sphere effect using freeze magic, the effect becomes solid, as per the Substantial Magic drawback—if the effect would already be subject to the drawback, it has a hardness of 0.
 
-#### Heimal Squall (spellrime) (requires frostweaver 6) [DRS]
+#### Heimal Squall (spellrime) (requires frostweaver 6)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 

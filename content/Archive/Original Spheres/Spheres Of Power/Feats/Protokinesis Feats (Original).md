@@ -43,7 +43,7 @@ The classes in the following table may select a protokinesis feat as one of the 
 
 ## Feats
 
-#### Aggressive Mind Limb (combat, Protokinesis) [Apoc]
+#### Aggressive Mind Limb (combat, Protokinesis)
 
 **Prerequisites:** Telekinesis sphere, Mind Limb, base attack bonus +5.
 
@@ -55,7 +55,7 @@ The classes in the following table may select a protokinesis feat as one of the 
 
 **Benefit:** By applying your telekinetic powers to your own body you can stand on surfaces that could not normally support your weight, allowing you to balance on a single thread or walk across liquid, though you must still make Acrobatics checks to balance on narrow or difficult surfaces. You cannot walk on normal gaseous substances such as air or clouds, though you could balance on a solid fog spell. In addition, you may add your casting ability modifier as a bonus to Acrobatics checks.
 
-#### Equal and Opposite (combat, Protokinesis) [Apoc]
+#### Equal and Opposite (combat, Protokinesis)
 
 **Prerequisites:** Telekinesis sphere, character level 5th.
 
@@ -73,7 +73,7 @@ The classes in the following table may select a protokinesis feat as one of the 
 
 **Benefit:** Due to your control over your personal gravity, you can move on walls and ceilings and other surfaces as if they were the ground. If you are tripped or fall prone, the area’s normal gravity reasserts itself and you fall to the ground, taking falling damage as appropriate for your distance above the ground.
 
-#### Improved Force Shield (combat, Protokinesis) [Apoc]
+#### Improved Force Shield (combat, Protokinesis)
 
 **Prerequisites:** Telekinesis sphere, Force Shield, character level 5th.
 
@@ -85,7 +85,7 @@ The classes in the following table may select a protokinesis feat as one of the 
 
 **Benefit:** You can float above the ground instead of walking. You can hover up to 1 ft above the ground, allowing you to ignore difficult terrain. When falling you may choose to descend at a slower rate to control your fall and to negate all falling damage you would take. Each round you descend 30 ft, and may move in another direction for 30 ft. You may choose to drift sideways, gliding forwards while descending, or down, safely increasing your rate of descent. You may even choose to drift ‘upwards’ to reduce your rate of descent, even allowing you to negate it entirely and hover midair.
 
-#### Kinetic Juggler (Protokinesis) [Apoc]
+#### Kinetic Juggler (Protokinesis)
 
 **Prerequisites:** Telekinesis sphere, base attack bonus +1.
 
@@ -99,7 +99,7 @@ The classes in the following table may select a protokinesis feat as one of the 
 
 **Benefit:** Your telekinetic powers give you an additional arm made of telekinetic force. Your telekinetic limb functions much as a normal arm can, but to an extent can also act independently. As a swift action you can use it to draw a sheathed or hidden weapon, ready a shield, retrieve a stored item, load a crossbow, open a door, pick up an unattended item, sheathe or store an item, or take other non-offensive actions involving manipulating objects. Your telekinetic limb cannot effectively wield weapons or shields or activate magic items, but can pass such items to another hand as part of any other action it takes.
 
-#### Poltergeist’s Fingers (Protokinesis) [Apoc]
+#### Poltergeist’s Fingers (Protokinesis)
 
 **Prerequisites:** Sleight of Hand 3 ranks, Telekinesis sphere, Mind Limb.
 
@@ -107,7 +107,7 @@ The classes in the following table may select a protokinesis feat as one of the 
 
 **Special:** If you have the Aggressive Mind Limb feat, you may use your additional attack of opportunity with your mind limb to attempt a steal combat maneuver.
 
-#### Remote Jostle (Combat, Protokinesis) [Apoc]
+#### Remote Jostle (Combat, Protokinesis)
 
 **Prerequisite:** Telekinesis sphere.
 
@@ -129,13 +129,13 @@ The classes in the following table may select a protokinesis feat as one of the 
 
 These benefits lasts indefinitely. If you activate one of these benefits while a previous benefit is still in effect, the first benefit ends immediately.
 
-#### Telekinetic Fist (Combat, Protokinesis) [Apoc]
+#### Telekinetic Fist (Combat, Protokinesis)
 
 **Prerequisites:** Telekinesis sphere, Improved Unarmed Strike, base attack bonus +5.
 
 **Benefit:** On your turn, your reach with your unarmed strikes is increased by 5 feet.
 
-#### Telekinetic Trigger (Protokinesis) [Apoc]
+#### Telekinetic Trigger (Protokinesis)
 
 **Prerequisites:** Use Magic Device 3 ranks, Telekinesis sphere, Mind Limb.
 

@@ -50,7 +50,7 @@ You adopt this approach as a swift action. As long as you are not a known enemy,
 
 In addition, your orders are hard to refuse. If you fail an Intimidate check to demand cooperation by 4 or less, the target gives unnecessarily detailed reasons for refusing, which typically includes a clue as to how else the request might be fulfilled or which of the target’s motivations is most relevant to them refusing. A creature’s first refused demand does not increase the DC of subsequent demands you make of the creature.
 
-#### Bully [utility] [DRS]
+#### Bully [utility]
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -60,7 +60,7 @@ When you successfully demand cooperation or coerce a creature, they must succeed
 
 **Associated Feats:** Nerve-Racking Negotiator and Threatening Negotiator (*Ultimate Intrigue*).
 
-#### Deadly Repartee [DRS]
+#### Deadly Repartee
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -84,7 +84,7 @@ You can spread an impressive-sounding rumor about your capabilities with 1 hour 
 
 You attempt an Intimidate check to pose a menace when you spread the rumor and apply the result to the first time you encounter each creature from that group or settlement who has not encountered you before or since you last gained a level. The creature gains the impressed condition for 1 hour upon meeting you, plus an additional hour for every 5 points that you exceed the DC (this impressed condition is applied before any change to the creature’s attitude).
 
-#### Manipulate Hostility [DRS]
+#### Manipulate Hostility
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -136,7 +136,7 @@ You are skilled at convincing creatures to change their priorities. You can sugg
 
 When you successfully use either Intimidate to pose a menace or Bluff to feint or create a diversion, you can trick your target into changing tactics by outwitting the target as a cost. The target must succeed at a Will saving throw or it cannot take the same action again on its next turn that it took on its previous turn. For this purpose, attacking the same target is the same action, but attacking a different target or using a special ability that does not involve an attack would both be different actions. If your target can understand you, you can imply that you fear a particular tactic as part of your action in an effort to trick the target into adopting that tactic. If you do, your skill check takes a penalty according to how plausible it is to the target that you truly fear that tactic, using the modifiers for a Bluff check to lie.
 
-#### Threatening Persona [approach] [DRS]
+#### Threatening Persona [approach]
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -222,7 +222,7 @@ They also get a morale bonus on attack rolls equal to the damage bonus from the 
 
 If you invoke your ally’s major motivation, you can choose to make them enraged and they get a morale bonus to Will saving throws equal to the damage bonus from the anger condition you chose. An ally you enrage this way ends any fear condition they have from the focus of their anger as long as it didn’t have a save DC higher than your Intimidate check result.
 
-#### Inflating Flattery (quip) [utility] [DRS]
+#### Inflating Flattery (quip) [utility]
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -240,7 +240,7 @@ If your skill check fails but the target’s Will save also fails, the target st
 
 If you succeed and the target’s Will save fails, its anger condition worsens by two steps (frenzied if you invoke a motivation, or enraged otherwise) until the start of your next turn and by one step for the rest of the duration (enraged if you invoke a motivation, or livid otherwise); a target that has fewer Hit Dice than the number of ranks you possess in Intimidate has its anger condition increased by two steps for the full duration.
 
-#### Macerating Remark (quip) [DRS]
+#### Macerating Remark (quip)
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -250,7 +250,7 @@ Additionally, for 1 round, +1 round per 4 ranks in the associated skill, after y
 
 You can outwit a creature as a cost as part of using any other quip as a standard action (or longer) to also apply the effects of this quip as part of it.
 
-#### Perturbing Fable (quip) [DRS]
+#### Perturbing Fable (quip)
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 

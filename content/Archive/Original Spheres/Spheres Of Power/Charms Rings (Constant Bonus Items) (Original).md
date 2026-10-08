@@ -147,7 +147,7 @@ This golden whistle is finely crafted and includes a chain for wearing it around
 **Construction Requirements**
 Forge Ring, Mind sphere and Project Thoughts; **Cost** 2,500 gp
 
-#### Moorland Runner Ghillies [High. HB]
+#### Moorland Runner Ghillies
 
 **Price** 150 gp; **Slot** feet; **CL** 2nd; **Weight** 2 lbs.; **Aura** moderate Nature; **Scaling** prize
 
@@ -325,7 +325,7 @@ Forge Ring, Light sphere, Beacon of Hope; Cost 12,000 gp
 
 The following items were created by the Wiki or by members of the community using the item creation rules in Spheres of Power. They are intended to serve both as an example of item creation and as a collection of items you can use in your game.
 
-#### Aegis Ring [Wiki]
+#### Aegis Ring
 
 **Aura** faint (+1), moderate (+2/+3), or strong (+4/+5) Protection; **CL** 3rd (+1), 6th (+2), 9th (+3), 12th (+4), or 15th (+5)
 **Slot** ring; **Price** 2,000 gp (+1), 8,000gp (+2), 18,000 (+3), 32,000 (+4), or 50,000 (+5); **Weight** -
@@ -334,7 +334,7 @@ Extremely popular among adventurers for its protective qualities, this smooth ir
 **Construction Requirements**
 Forge Ring, Protection Sphere, **Cost** 1,000 gp (+1), 4,000 gp (+2), 9,000 gp (+3), 16,000 gp (+4), or 25,000 gp (+5)
 
-#### Belt of Avian Speed +2 [Wiki]
+#### Belt of Avian Speed +2
 
 **Aura** weak Enhancement; **CL** 4th
 **Slot** belt; **Price** 4,000; **Weight** 2 lbs.
@@ -343,7 +343,7 @@ This leather belt is decorated with symbols of swift birds. While worn, it grant
 **Construction Requirements**
 Forge Ring, Enhancement Sphere, Physical Enhancement (enhance) **Cost** 2,000 gp
 
-#### Belt of Avian Speed +4 [Wiki]
+#### Belt of Avian Speed +4
 
 **Aura** moderate Enhancement; **CL** 8th
 **Slot** belt; **Price** 16,000; **Weight** 2 lbs.
@@ -352,7 +352,7 @@ This iron chain belt is decorated with symbols of swift birds. While worn, it gr
 **Construction Requirements**
 Forge Ring, Enhancement Sphere, Physical Enhancement (enhance) **Cost** 8,000 gp
 
-#### Belt of Avian Speed +6 [Wiki]
+#### Belt of Avian Speed +6
 
 **Aura** strong Enhancement; **CL** 12th
 **Slot** belt; **Price** 36,000; **Weight** 2 lbs.
@@ -361,7 +361,7 @@ This belt made of woven threads of starmetal is decorated with symbols of swift 
 **Construction Requirements**
 Forge Ring, Enhancement Sphere, Physical Enhancement (enhance) **Cost** 18,000 gp
 
-#### Belt of Mountains +2 [Wiki]
+#### Belt of Mountains +2
 
 **Aura** weak Enhancement; **CL** 4th
 **Slot** belt; **Price** 4,000; **Weight** 2 lbs.
@@ -370,7 +370,7 @@ This leather belt is decorated with symbols of mountains. While worn, it grants 
 **Construction Requirements**
 Forge Ring, Enhancement Sphere, Physical Enhancement (enhance) **Cost** 2,000 gp
 
-#### Belt of Mountains +4 [Wiki]
+#### Belt of Mountains +4
 
 **Aura** moderate Enhancement; **CL** 8th
 **Slot** belt; **Price** 16,000; **Weight** 2 lbs.
@@ -379,7 +379,7 @@ This iron chain belt is decorated with symbols of city walls. While worn, it gra
 **Construction Requirements**
 Forge Ring, Enhancement Sphere, Physical Enhancement (enhance) **Cost** 8,000 gp
 
-#### Belt of Mountains +6 [Wiki]
+#### Belt of Mountains +6
 
 **Aura** strong Enhancement; **CL** 12th
 **Slot** belt; **Price** 36,000; **Weight** 2 lbs.
@@ -388,7 +388,7 @@ This belt made of woven threads of starmetal is decorated with symbols of mounta
 **Construction Requirements**
 Forge Ring, Enhancement Sphere, Physical Enhancement (enhance) **Cost** 18,000 gp
 
-#### Belt of Wild Might +2 [Wiki]
+#### Belt of Wild Might +2
 
 **Aura** weak Enhancement; **CL** 4th
 **Slot** belt; **Price** 4,000; **Weight** 2 lbs.
@@ -397,7 +397,7 @@ This leather belt is decorated with symbols of powerful beasts. While worn, it g
 **Construction Requirements**
 Forge Ring, Enhancement Sphere, Physical Enhancement (enhance) **Cost** 2,000 gp
 
-#### Belt of Wild Might +4 [Wiki]
+#### Belt of Wild Might +4
 
 **Aura** moderate Enhancement; **CL** 8th
 **Slot** belt; **Price** 16,000; **Weight** 2 lbs.
@@ -406,7 +406,7 @@ This iron chain belt is decorated with symbols of powerful beasts. While worn, i
 **Construction Requirements**
 Forge Ring, Enhancement Sphere, Physical Enhancement (enhance) **Cost** 8,000 gp
 
-#### Belt of Wild Might +6 [Wiki]
+#### Belt of Wild Might +6
 
 **Aura** strong Enhancement; **CL** 12th
 **Slot** belt; **Price** 36,000; **Weight** 2 lbs.
@@ -415,7 +415,7 @@ This belt made of woven threads of starmetal is decorated with symbols of powerf
 **Construction Requirements**
 Forge Ring, Enhancement Sphere, Physical Enhancement (enhance) **Cost** 18,000 gp
 
-#### Cape of Resistance [Wiki]
+#### Cape of Resistance
 
 **Aura** faint Protection (+1), moderate Protection (+2/+3), or strong Protection (+4/+5) ; **CL** 3rd (+1), 6th (+2), 9th (+3), 12th (+4), or 15th (+5)
 **Slot** shoulders; **Price** 1,000 gp (+1), 4,000 gp (+2), 9,000 gp (+3), 16,000 gp (+4), or 25,000 gp (+5); **Weight** 1 lb.
@@ -424,7 +424,7 @@ This well-made cape offers a +1 to +5 Resistance Bonus to all saving throws, cho
 **Construction Requirements**
 Forge Ring, Protection Sphere, Resistance (aegis) **Cost** 500 gp (+1), 2,000 gp (+2), 4,500 gp (+3), 8,000 gp (+4), or 12,500 gp (+5)
 
-#### Energy Resisting Ring, Minor [Wiki]
+#### Energy Resisting Ring, Minor
 
 **Aura** faint Protection; **CL** 1st
 **Slot** ring; **Price** 5,000 gp; **Weight** -
@@ -433,7 +433,7 @@ Despite their simplicity, these iron rings are favored by people traveling into 
 **Construction Requirements**
 Forge Ring, Protection Sphere, Energy Resistance (ward, aegis) **Cost** 2,500 gp
 
-#### Energy Resisting Ring, Moderate [Wiki]
+#### Energy Resisting Ring, Moderate
 
 **Aura** moderate Protection; **CL** 10th
 **Slot** ring; **Price** 20,000; **Weight** -
@@ -442,7 +442,7 @@ Somewhat rarer than the Minor Energy Resisting Ring, this decorated iron ring fa
 **Construction Requirements**
 Forge Ring, Protection Sphere, Energy Resistance (ward, aegis) **Cost** 10,000 gp
 
-#### Energy Resisting Ring, Major [Wiki]
+#### Energy Resisting Ring, Major
 
 **Aura** strong Protection; **CL** 20th
 **Slot** ring; **Price** 45,000; **Weight** -
@@ -451,7 +451,7 @@ These ornate, exquisitely decorated metal rings offer protection from all but th
 **Construction Requirements**
 Forge Ring, Protection Sphere, Energy Resistance (ward, aegis) **Cost** 22,500 gp
 
-#### Headband of Alluring Magnetism +2 [Wiki]
+#### Headband of Alluring Magnetism +2
 
 **Aura** weak Enhancement; **CL** 4th
 **Slot** headband; **Price** 4,000; **Weight** 2 lbs.
@@ -460,7 +460,7 @@ This cloth headband is designed to rest comfortably around the head. While worn,
 **Construction Requirements**
 Forge Ring, Enhancement Sphere, Mental Enhancement (enhance) **Cost** 2,000 gp
 
-#### Headband of Alluring Magnetism +4 [Wiki]
+#### Headband of Alluring Magnetism +4
 
 **Aura** moderate Enhancement; **CL** 8th
 **Slot** headband; **Price** 16,000; **Weight** 2 lbs.
@@ -469,7 +469,7 @@ This silver circlet is exquisitely made. While worn, it grants a +4 enhancement 
 **Construction Requirements**
 Forge Ring, Enhancement Sphere, Mental Enhancement (enhance) **Cost** 8,000 gp
 
-#### Headband of Alluring Magnetism +6 [Wiki]
+#### Headband of Alluring Magnetism +6
 
 **Aura** strong Enhancement; **CL** 12th
 **Slot** headband; **Price** 36,000; **Weight** 2 lbs.
@@ -478,7 +478,7 @@ This golden circlet is a work of art in its own right. While worn, it grants a +
 **Construction Requirements**
 Forge Ring, Enhancement Sphere, Mental Enhancement (enhance) **Cost** 18,000 gp
 
-#### Headband of Genius +2 [Wiki]
+#### Headband of Genius +2
 
 **Aura** weak Enhancement; **CL** 4th
 **Slot** headband; **Price** 4,000; **Weight** 2 lbs.
@@ -487,7 +487,7 @@ This cloth headband is designed to rest comfortably around the head. While worn,
 **Construction Requirements**
 Forge Ring, Enhancement Sphere, Mental Enhancement (enhance) **Cost** 2,000 gp
 
-#### Headband of Genius +4 [Wiki]
+#### Headband of Genius +4
 
 **Aura** moderate Enhancement; **CL** 8th
 **Slot** headband; **Price** 16,000; **Weight** 2 lbs.
@@ -496,7 +496,7 @@ This silver circlet fits well on any head, seeming to adjust itself to the weare
 **Construction Requirements**
 Forge Ring, Enhancement Sphere, Mental Enhancement (enhance) **Cost** 8,000 gp
 
-#### Headband of Genius +6 [Wiki]
+#### Headband of Genius +6
 
 **Aura** strong Enhancement; **CL** 12th
 **Slot** headband; **Price** 36,000; **Weight** 2 lbs.
@@ -505,7 +505,7 @@ This golden circlet is decorated with gems that help to channel its power. While
 **Construction Requirements**
 Forge Ring, Enhancement Sphere, Mental Enhancement (enhance) **Cost** 18,000 gp
 
-#### Headband of Sages +2 [Wiki]
+#### Headband of Sages +2
 
 **Aura** weak Enhancement; **CL** 4th
 **Slot** headband; **Price** 4,000; **Weight** 2 lbs.
@@ -514,7 +514,7 @@ This cloth headband is designed to rest comfortably around the head. While worn,
 **Construction Requirements**
 Forge Ring, Enhancement Sphere, Mental Enhancement (enhance) **Cost** 2,000 gp
 
-#### Headband of Sages +4 [Wiki]
+#### Headband of Sages +4
 
 **Aura** moderate Enhancement; **CL** 8th
 **Slot** headband; **Price** 16,000; **Weight** 2 lbs.
@@ -523,7 +523,7 @@ This cloth headband is woven of finer thread than its lesser version. While worn
 **Construction Requirements**
 Forge Ring, Enhancement Sphere, Mental Enhancement (enhance) **Cost** 8,000 gp
 
-#### Headband of Sages +6 [Wiki]
+#### Headband of Sages +6
 
 **Aura** strong Enhancement; **CL** 12th
 **Slot** headband; **Price** 36,000; **Weight** 2 lbs.
@@ -532,7 +532,7 @@ This headband is woven with golden threads and rests comfortably on any head. Wh
 **Construction Requirements**
 Forge Ring, Enhancement Sphere, Mental Enhancement (enhance) **Cost** 18,000 gp
 
-#### Talisman of Spell Resistance [Wiki]
+#### Talisman of Spell Resistance
 
 **Aura** faint Protection; **CL** 5th
 **Slot** neck; **Price** 30,000; **Weight** 2 lbs.

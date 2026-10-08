@@ -29,7 +29,7 @@ Note that the [[Admixture Feats|Admixture feats]] do something similar, but emph
 
 **Benefit:** In place of an Alteration trait you may apply the effects of your illusionary disguise to your form and become able to assume the guise of a specific individual creature. Your total bonus to Disguise checks becomes 20 + any class features, feats or sphere effects that modify Illusionary Disguise or the Alteration sphere. Further, your illusionary disguise no longer allows for a Will save to negate upon interaction. This effect can be treated as either a polymorph effect, an illusion effect, or both, whatever is most advantageous.
 
-#### Spirit Form (Dual Sphere) [Apoc]
+#### Spirit Form (Dual Sphere)
 
 **Prerequisites:** Alteration sphere, Nature sphere.
 
@@ -115,7 +115,7 @@ If your floating creation is a 5 ft. cube of solid matter as hard as stone or ha
 
 **Benefit:** When creating a figment, you may, as part of the same action, create darkness as the base Dark sphere ability. Even if you do not choose to do so, the area occupied by your figments and those under the effects of your glamers counts as being within your darkness.
 
-#### Shadow Cage (Dual Sphere) [Abj. HB]
+#### Shadow Cage (Dual Sphere)
 
 **Prerequisites:** Dark sphere, Protection sphere.
 
@@ -265,7 +265,7 @@ You can make ghost strikes in a variety of configurations.
 
 **Special:** If you possess the Shadow Magic feat and selected Destruction as one of your spheres, you may spend a spell point and have your destructive blast deal damage as normal but still gain the other benefits of this feat.
 
-#### Primal Blast (Dual Sphere) [Apoc]
+#### Primal Blast (Dual Sphere)
 
 **Prerequisites:** Nature sphere (any geomancing package), at least one (blast type) talent.
 
@@ -349,7 +349,7 @@ Any enhancement that would increase attack or damage also increases the attack r
 
 If your floating creation is a 5 ft. cube of solid matter as hard as stone or harder, each floating cube can support approximately 1,000 pounds of weight. Lighter materials can only support half as much weight, and some materials may not be able to support any, at the GM’s discretion.
 
-#### March of the Treants (Dual Sphere) [Apoc]
+#### March of the Treants (Dual Sphere)
 
 **Prerequisites:** Enhancement sphere, Nature sphere (plantlife geomancing).
 
@@ -363,7 +363,7 @@ When you reanimate a body, you can grant it magical enhancements for a short tim
 
 **Benefit:** When you reanimate a corpse or corpses, you can apply an enhancement to them as part of the same action. Enhancements that require additional spell points must have that cost paid as well. This enhancement remains in effect as long as the undead is not destroyed, and cannot be dispelled separately, though neither Permanent Undead nor Lingering Necromancy can extend the duration of these enhancements past the base duration of reanimate.
 
-#### Natural Enhancement (Dual Sphere) [Apoc]
+#### Natural Enhancement (Dual Sphere)
 
 **Prerequisites:** Enhancement sphere, Nature sphere.
 
@@ -471,7 +471,7 @@ As a free action, you may spend a spell point to allow your shadow companion to 
 
 ## Life
 
-#### Benevolence (Dual Sphere) [Abj. HB]
+#### Benevolence (Dual Sphere)
 
 **Prerequisites:** Life sphere, Fount of Life, Protection sphere.
 
@@ -547,13 +547,13 @@ This glow does not persist beyond a moment, and ends immediately after its effec
 
 **Benefit:** While an ally is within 30 ft. of any object that you have caused to glow, you may rally them.
 
-#### Luminous Aegis (Dual Sphere) [Abj. HB]
+#### Luminous Aegis (Dual Sphere)
 
 **Prerequisites:** Light sphere, Protection sphere.
 
 **Benefit:** As a swift action, you may make an ally glow if they are bearing an aegis you created. You must use a separate action to make them grow brightly, and the duration of the glow does not change.
 
-#### Luminous Flame (Dual Sphere) [Apoc]
+#### Luminous Flame (Dual Sphere)
 
 **Prerequisites:** Light sphere, Nature sphere (fire geomancing).
 
@@ -597,25 +597,25 @@ The illusionary mind added to glamers modified by this feat constantly broadcast
 
 ## Nature
 
-#### Luminous Flame (Dual Sphere) [Apoc]
+#### Luminous Flame (Dual Sphere)
 
 **Prerequisites:** Light sphere, Nature sphere (fire geomancing).
 
 **Benefit:** Whenever you use the create fire geomancing ability, you may also cause the fire to glow. In addition, you may maintain concentration of any fire geomancy and the bright light of the glow with a single action.
 
-#### March of the Treants (Dual Sphere) [Apoc]
+#### March of the Treants (Dual Sphere)
 
 **Prerequisites:** Enhancement sphere, Nature sphere (plantlife geomancing).
 
 **Benefit:** Whenever you cast pummel, you may choose to spend an additional spell point to enhance the target, allowing the tree to uproot itself (or break free from the tree if targeting a branch) and gain a ground movement speed of 10 + 10 ft. per 5 caster levels for the duration of pummel (or enhance if you spend an additional spellpoint). On the last round of the target’s duration, the tree or branch will plant itself (as best it could upon the space it is located), becoming once again immobile.
 
-#### Natural Enhancement (Dual Sphere) [Apoc]
+#### Natural Enhancement (Dual Sphere)
 
 **Prerequisites:** Enhancement sphere, Nature sphere.
 
 **Benefit:** Whenever you enhance a creature, you may also imbue the target with a (spirit) talent. In addition, you may maintain concentration on the enhancement and the (spirit) talent with a single action.
 
-#### Primal Blast (Dual Sphere) [Apoc]
+#### Primal Blast (Dual Sphere)
 
 **Prerequisites:** Nature sphere (any geomancing package), at least one (blast type) talent.
 
@@ -633,7 +633,7 @@ Other blast types or categories may be used in conjunction with each geomancing 
 
 **Author's Note:** If a destructive blast is applied to a natural or weapon attack (such as with Energy Blade), Primal Blast applies instead to the natural or weapon attack, removing any other ability modifier bonus to attack or damage rolls.
 
-#### Spirit Form (Dual Sphere) [Apoc]
+#### Spirit Form (Dual Sphere)
 
 **Prerequisites:** Alteration sphere, Nature sphere.
 
@@ -649,7 +649,7 @@ Plant and animal matter are equally suitable focuses for your magic.
 
 ## Protection
 
-#### Benevolence (Dual Sphere) [Abj. HB]
+#### Benevolence (Dual Sphere)
 
 **Prerequisites:** Life sphere, Fount of Life, Protection sphere.
 
@@ -667,37 +667,37 @@ Plant and animal matter are equally suitable focuses for your magic.
 
 **Benefit:** While an ally is within the area of one of your wards, you may rally that ally. When you rally an ally who has an aegis you created attached to them, you may sacrifice an aegis to reduce the spell point cost of the rally by 1 spell point.
 
-#### Dimensional Aegis (Dual Sphere) [Abj. HB]
+#### Dimensional Aegis (Dual Sphere)
 
 **Prerequisites:** Protection sphere, Warp sphere.
 
 **Benefit:** You gain a (succor) talent that lets you sacrifice an aegis borne by an ally other than yourself to swap places with them by teleporting. They must be within range of your teleport ability, but you do not need to be normally able to teleport others. The ally must be willing or unconscious. This may be done in response to an attack before the results of the attack are determined. If so, the attack changes target to whomever is now occupying the space now occupied by the original target. The attack is not rerolled.
 
-#### Forceful Hand (Dual Sphere) [Abj. HB]
+#### Forceful Hand (Dual Sphere)
 
 **Prerequisites:** Protection sphere, Telekinesis sphere.
 
 **Benefit:** You gain a (succor) talent that lets you sacrifice an aegis to use a telekinetic effect to defend the creature that bore the aegis. You may make a telekinetic catch on an attack made on the creature, or, if you possess the Telekinetic Push talent, you may perform a push on an enemy that is adjacent to the creature.
 
-#### Guarded Step (Dual Sphere) [Abj. HB]
+#### Guarded Step (Dual Sphere)
 
 **Prerequisites:** Protection sphere, Warp sphere.
 
 **Benefit:** When teleporting yourself or a group that includes yourself to a location within a ward you created, you may reduce the action required by one step, from a standard action to a move action or from a move action to a swift action, but not to an immediate action or free action.
 
-#### Luminous Aegis (Dual Sphere) [Abj. HB]
+#### Luminous Aegis (Dual Sphere)
 
 **Prerequisites:** Light sphere, Protection sphere.
 
 **Benefit:** As a swift action, you may make an ally glow if they are bearing an aegis you created. You must use a separate action to make them grow brightly, and the duration of the glow does not change.
 
-#### Shadow Cage (Dual Sphere) [Abj. HB]
+#### Shadow Cage (Dual Sphere)
 
 **Prerequisites:** Dark sphere, Protection sphere.
 
 **Benefit:** When you create a ward, you may spend a spell point to add the effects of a darkness ability you have to it. If you do, the entire area of your ward is a darkness, and your melds work within this ward as if it’s bearer were within any other darkness that you created.
 
-#### Tribal Fortification (Dual Sphere) [Abj. HB]
+#### Tribal Fortification (Dual Sphere)
 
 **Prerequisites:** Protection sphere, War sphere.
 
@@ -715,7 +715,7 @@ If combined with Mass Reanimate, each aegis must be paid for separately.
 
 Neither Permanent Undead nor Lingering Necromancy can extend the duration of these aegis past the base duration of reanimate.
 
-#### Warning Sign (Dual Sphere) [Abj. HB]
+#### Warning Sign (Dual Sphere)
 
 **Prerequisites:** Protection sphere, War sphere.
 
@@ -741,7 +741,7 @@ Neither Permanent Undead nor Lingering Necromancy can extend the duration of the
 
 **Benefit:** When you create an object, as long as you maintain concentration you may initiate and maintain the sustained force or bludgeon Telekinesis abilities as part of creating the object, so long as the object is within the normal limitations of those abilities. Additionally, if you possess Lengthened Creation, by spending a spell point to maintain the item without concentration for 1 hour per caster level, you may choose to maintain sustained force on the object for the same duration without spending an additional spell point.
 
-#### Forceful Hand (Dual Sphere) [Abj. HB]
+#### Forceful Hand (Dual Sphere)
 
 **Prerequisites:** Protection sphere, Telekinesis sphere.
 
@@ -817,7 +817,7 @@ If the undead creatures are maintained through concentration (such as through th
 
 **Benefit:** You may use rallies on allies within the area of your consecrations even if you do not share a mandate with them and they are not within range of one of your totems.
 
-#### Tribal Fortification (Dual Sphere) [Abj. HB]
+#### Tribal Fortification (Dual Sphere)
 
 **Prerequisites:** Protection sphere, War sphere.
 
@@ -837,7 +837,7 @@ You can rally the hearts of your people - even after they have stopped beating.
 
 **Benefit:** As a free action, you can shift concentration of a single active totem to an undead you control (using your concentration modifier); if its concentration is broken, the totem is ended as normal. In addition, undead you control can benefit from morale bonuses granted by your totems and rallies.
 
-#### Warning Sign (Dual Sphere) [Abj. HB]
+#### Warning Sign (Dual Sphere)
 
 **Prerequisites:** Protection sphere, War sphere.
 
@@ -845,7 +845,7 @@ You can rally the hearts of your people - even after they have stopped beating.
 
 ## Warp
 
-#### Dimensional Aegis (Dual Sphere) [Abj. HB]
+#### Dimensional Aegis (Dual Sphere)
 
 **Prerequisites:** Protection sphere, Warp sphere.
 
@@ -881,7 +881,7 @@ Otherwise, actions have their normal effects in the dreamspace. Regardless of ho
 
 This glow does not persist beyond a moment, and ends immediately after its effects have been applied.
 
-#### Guarded Step (Dual Sphere) [Abj. HB]
+#### Guarded Step (Dual Sphere)
 
 **Prerequisites:** Protection sphere, Warp sphere.
 

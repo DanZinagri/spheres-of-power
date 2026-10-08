@@ -78,7 +78,7 @@ If a *routine* would store information (such as a storage routine, as granted by
 
 *Modifications* can be directly attached to a creature’s body, provided it is attached to a relevant body part (i.e. a *modification* for weapons being attached to the body, improving unarmed strikes, or a *modification* for armor being attached to the skin, improving natural armor).
 
-#### Modified Object [DRS]
+#### Modified Object
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 

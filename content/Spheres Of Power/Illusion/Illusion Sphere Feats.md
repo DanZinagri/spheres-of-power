@@ -25,7 +25,7 @@ parent: "[[Illusion]]"
 
 When creating a non-trick glamer you may also grant the effects of a single aegis you possess to the target. The aegis effect added this way uses the duration of the glamer instead of its normal duration. This is not an actual aegis and does not provide any other benefits, such as those granted by the Status talent of the Protection sphere.
 
-#### Concealed Command [DbH]
+#### Concealed Command
 
 Your agents are abnormally difficult to shake from your grip.
 
@@ -39,7 +39,7 @@ Your agents are abnormally difficult to shake from your grip.
 
 **Benefit:** In place of an Alteration trait you may apply the effects of your illusionary disguise to your form. This use of illusionary disguise no longer allows for a Will save to negate upon interaction, and lasts as long as the shapeshift does, requiring no additional spell points or concentration to maintain. This stacks with the Disguise bonus of the shapeshift and allows the shapeshift to attempt to assume the form of specific individuals.
 
-#### Explanatory Illusion (Dual Sphere) [3PP]
+#### Explanatory Illusion (Dual Sphere)
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 

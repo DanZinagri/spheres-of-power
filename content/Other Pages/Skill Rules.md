@@ -427,18 +427,18 @@ The Disable Device skill can be used to sabotage many common items.
 
 1 At +5 DC, your check opposes Perception to examine the item and to notice the effect.
 
-#### Disable Device: Gizmos [SUE]
+#### Disable Device: Gizmos
 
 | Task | Time | DC |
 | --- | --- | --- |
 | Disable gizmo | 2d4 rounds | 15 + 1/2 gizmo level |
 
-**Disable Gizmo** [SUE]
+**Disable Gizmo**
 Gizmos may be disabled with a successful check. Gizmos that are disabled this way require 1 minute of work to ‘unjam’ with a DC 10 proficiency check (using the gizmo’s associated skill) before they can be activated again (or can be restored as part of the crafter maintaining their gizmos). *Routines* can be disabled as though they were a gizmo but require specific tools (such as an ICE-pick or other similar means).
 
 A character without the Tinker sphere, Technologist feat, a sphere which grants ranks in a Craft skill, or other similar ability (subject to GM discretion) takes a -5 penalty to their check.
 
-**Sabotage Gizmo** [SUE]
+**Sabotage Gizmo**
 As an extension of disable gizmo, the character may adjust which signals the gizmo is capable of receiving (as though they were the crafter), as well as adjust other parameters of the gizmo (such as its voice control activations or other parameters subject to GM discretion).
 
 Note that the character can adjust parameters that are included with the gizmo, but cannot add or remove those parameters (i.e. voice control activations cannot be added to a gizmo that were not initially crafted with them).
@@ -477,7 +477,7 @@ The Disguise skill can be used to disguise objects and other creatures as well a
 1: Allows opposed Heal instead of Perception only to recognize this element of the disguise
 2: The steps are: young (younger than adulthood), adulthood, middle age, old, and venerable.
 
-**Table: Object Disguise DCs and Modifiers [SUE]**
+**Table: Object Disguise DCs and Modifiers**
 
 | Disguise | Disguise Check Modifier |
 | --- | --- |
@@ -490,7 +490,7 @@ The Disguise skill can be used to disguise objects and other creatures as well a
 
 1 These modifiers are cumulative; use any that apply.
 
-**Table: Object Disguise Time by Size [SUE]**
+**Table: Object Disguise Time by Size**
 
 | Object | Size Disguise Time |
 | --- | --- |
@@ -501,7 +501,7 @@ The Disguise skill can be used to disguise objects and other creatures as well a
 
 **Variant Disguise Modifiers:** The modifiers above can replace those in the Pathfinder Roleplaying Game Core Rulebook. They are cumulative; add all that apply.
 
-**Disguise an Object [[SUE]]:** You can disguise an object as another object, disguise an object as a creature (generally a stationary creature), or disguise a creature as an object (which also requires Stealth to remain still if not helpless). Objects can use some modifiers for creatures (such as minor details only).
+**Disguise an Object:** You can disguise an object as another object, disguise an object as a creature (generally a stationary creature), or disguise a creature as an object (which also requires Stealth to remain still if not helpless). Objects can use some modifiers for creatures (such as minor details only).
 
 If you rebuild, paint, or otherwise modify an object to disguise it and it is larger than you, the length of time to disguise it increases from a multiple of 10 minutes to a multiple of 1 hour (if one category larger), 1 day (if two categories larger), or 1 week (if three or more categories larger); see **Table: Object Disguise Time by Size**. You do not change the object’s function, so using it will often spoil the disguise. If the discrepancy is minor, using the item merely allows observers a new chance to attempt a Perception check against the disguise.
 
@@ -651,7 +651,7 @@ If the creature is undead or alive and disguised as the other, your Heal check o
 
 The trauma of clinical death deals 1d4 points of ability damage to the patient’s Constitution, Dexterity, and Intelligence. This does not reduce their hit points further, but if a creature’s Constitution damage would equal or exceed their Constitution they are not resuscitated and cannot be resuscitated by this skill again until revived by magic. This ability damage cannot be healed except by rest. The DC to resuscitate the target is increased by 10 per previous time they have died and been resuscitated by this skill until their Constitution damage is all healed.
 
-#### Heal: Surgery [SUE]
+#### Heal: Surgery
 
 | Task | DC | Time |
 | --- | --- | --- |
@@ -798,7 +798,7 @@ Roll a single Knowledge check and compare the result to the DC for each opponent
 | Identify functioning of a mechanical trap | Perception DC |
 | Recognize function of alchemical or mundane item | As the Craft skill |
 
-##### Knowledge (engineering): Gizmos [SUE]
+##### Knowledge (engineering): Gizmos
 
 **Special:** While Knowledge (engineering) is assumed to be the default skill for mechanical knowledge, in settings where the mechanisms are created through other means, the Knowledge skill may be substituted. Such as using Knowledge (nature) where mechanisms are grown, not engineered.
 
@@ -969,7 +969,7 @@ If the check fails by 4 or less, you cannot read the speaker’s lips. If the ch
 
 **Learning Sign Language and Lip Reading:** You can also learn to read lips fluently or use a sign language like learning a spoken and written language. Fluency removes the need for a Linguistics check within a comfortable distance (typically 15 feet to read lips or 60 feet to sign), although you might need a Perception or Linguistics check to make out lip movements or gestures at a greater distance with DC equal to half the distance in feet beyond a comfortable distance. A signed version of a language that is also spoken does not cost an additional language or rank in Linguistics if you also learn the other versions of the language, but you only learn all the versions of a language at once if trained for them. If you were not, you can learn a version you missed previously any time you gain a level or by retraining with the same cost as if you were changing 1 skill rank.
 
-#### Linguistics: Virtual Forgeries [SUE]
+#### Linguistics: Virtual Forgeries
 
 **Table: Virtual Forgery Timetable**
 

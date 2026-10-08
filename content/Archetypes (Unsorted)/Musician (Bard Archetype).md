@@ -54,7 +54,7 @@ This replaces bardic performance.
 
 ## Musician’s Muses
 
-### Improvisation [H&B]
+### Improvisation
 
 **Associated Package:** Any
 

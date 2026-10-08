@@ -64,7 +64,7 @@ Take a penalty to concentration checks equal to twice your spirit bonus.
 
 When channeling the trickster spirit, a medium may choose to benefit from the following ability in place of trickster’s edge.
 
-#### Talented (Base, Su) [Spheres of Guile]
+#### Talented (Base, Su)
 
 You gain two skill talents of your choice that you meet the prerequisites for, plus an additional skill talent at 6th, 11th, and 17th levels. You may choose different talents each time you channel a trickster spirit.
 

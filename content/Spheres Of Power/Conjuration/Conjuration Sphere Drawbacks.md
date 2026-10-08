@@ -33,11 +33,11 @@ Summoning a creature requires 1 minute of concentrated effort, rather than only 
 
 Your companions are only semi-real projections. The first time each round a creature is affected by an effect originating from your companions, such as attacks or sphere effects, it may attempt a Will save versus your Conjuration sphere DC to negate the effect and any others originating from your companion before the start of the creature’s next turn. Succeeding on this save grants a +2 bonus on future saves made against that same companion for the next 24 hours. (As usual, this bonus does not stack with itself.)
 
-#### Life Merger [Alienist HB]
+#### Life Merger
 
 Your companions are tied directly to your own life force. Whenever one of your Conjuration companions would take damage, you suffer an equal amount of damage. This damage cannot be reduced or redirected.
 
-#### Limited Range [Apoc]
+#### Limited Range
 
 *Source: [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)*
 

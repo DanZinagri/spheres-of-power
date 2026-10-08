@@ -164,7 +164,7 @@ This replaces armor training 1, 2, 3, 4, and armor mastery.
 
 # Kobolds
 
-## Zethian Kobolds [WoP]
+## Zethian Kobolds
 
 Kobolds are one of the countless examples of servitor races surviving within the Zethian Empire as slaves to the humans, who take advantage of the speed at which they breed and their natural talent for mining. Years of careful and selective breeding have made them hardier and more clever than the average kobolds of other lands, and has granted them several improved abilities.
 

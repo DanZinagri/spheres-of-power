@@ -14,45 +14,45 @@ For the full rules on associated feats and associated skills, see [[Using Sphere
 
 | Feat | Sphere or Talent |
 | --- | --- |
-| Armor Focus | [[Equipment Sphere\|Equipment]] (Armor Expert talent) [High. HB] |
-| Armored Athlete | [[Athletics]] (Armored Athlete talent) [High. HB] |
+| Armor Focus | [[Equipment Sphere\|Equipment]] (Armor Expert talent) |
+| Armored Athlete | [[Athletics]] (Armored Athlete talent) |
 | Bodyguard | [[Guardian]] (Assist talent) |
 | Branch Pounce | [[Athletics]] (Diving Strike talent) |
-| Burn! Burn! Burn! | [[Equipment Sphere\|Equipment]] (Goblin Heritage (discipline) talent) [Apoc] |
-| Butterfly's Sting | [[Open Hand]] (Lotus Touch talent) [Youxia HB] |
-| Canny Tumble | [[Athletics]] (Blustering Hustle (motion) talent or Slippery Weasel's Tumble) [Youxia HB/BTH] |
+| Burn! Burn! Burn! | [[Equipment Sphere\|Equipment]] (Goblin Heritage (discipline) talent) |
+| Butterfly's Sting | [[Open Hand]] (Lotus Touch talent) |
+| Canny Tumble | [[Athletics]] (Blustering Hustle (motion) talent or Slippery Weasel's Tumble) |
 | Catch Off-Guard | [[Barroom]] (Surprise talent) |
 | Chairbreaker | [[Barroom]] (Shatter talent) |
 | Charge Through | [[Brute]] (Unstoppable talent) |
 | Charging Hurler | [[Athletics]] (Skillful Charge talent) |
-| Circling Mongoose | [[Open Hand]] (Featherlight Positioning (stance) talent [Youxia HB] |
+| Circling Mongoose | [[Open Hand]] (Featherlight Positioning (stance) talent |
 | Cleave | [[Berserker]] (Advancing Carnage talent) |
 | Cleave Through | [[Berserker]] (Advancing Carnage talent x2) |
 | Cleaving Finish | [[Berserker]] (Reaper's Momentum talent) |
-| Combat Expertise | [[Equipment Sphere\|Equipment]] (Versatile Fighter (stance) talent) [Youxia HB] |
+| Combat Expertise | [[Equipment Sphere\|Equipment]] (Versatile Fighter (stance) talent) |
 | Combat Patrol | [[Guardian]] (Patrol package) |
 | Crane Style | [[Fencing]] (Masterful Defense talent) |
-| Critical Focus | [[Equipment Sphere\|Equipment]] (Dagger Dancer talent) [Youxia HB] |
-| Critical Focus | [[Gladiator]] (Dullahan's Call (demoralization) talent) [Gravecaller's HB] |
+| Critical Focus | [[Equipment Sphere\|Equipment]] (Dagger Dancer talent) |
+| Critical Focus | [[Gladiator]] (Dullahan's Call (demoralization) talent) |
 | Cushioning Armor | [[Athletics]] Armored Drop (leap) talent |
 | Cut From The Air | [[Duelist]] (Defensive Slice talent) |
 | Dazzling Display | [[Barroom]] (Menacing Belch talent) |
 | Dazzling Display | [[Gladiator]] (Base) |
-| Deadly Aim | [[Equipment Sphere\|Equipment]] (Versatile Fighter (stance) talent) [Youxia HB] |
-| Death From Above | [[Athletics]] (Elevation Mastery talent) [Youxia HB] |
-| Deflect Arrows | [[Athletics]] (Compact Frame talent) [Conq. HB] |
-| Demoralizing Lash | [[Gladiator]] (Punish the Meek talent) [Apoc] |
+| Deadly Aim | [[Equipment Sphere\|Equipment]] (Versatile Fighter (stance) talent) |
+| Death From Above | [[Athletics]] (Elevation Mastery talent) |
+| Deflect Arrows | [[Athletics]] (Compact Frame talent) |
+| Demoralizing Lash | [[Gladiator]] (Punish the Meek talent) |
 | Diehard | [[Berserker]] (Deathless talent) |
-| Dirty Trick Master | [[Scoundrel]] (Savage Tricks (trick) talent) [Apoc] |
-| Disarm Partner | [[Duelist]] (Tandem Disarm talent) [Apoc] |
+| Dirty Trick Master | [[Scoundrel]] (Savage Tricks (trick) talent) |
+| Disarm Partner | [[Duelist]] (Tandem Disarm talent) |
 | Disposable Weapon | [[Equipment Sphere\|Equipment]] (Tribal Training talent) |
-| Distracting Charge | [[Brute]] (Destabilizing Charge talent) [Apoc] |
+| Distracting Charge | [[Brute]] (Destabilizing Charge talent) |
 | Double Slice | [[Dual Wielding]] (Mercurial Flow talent) |
-| Duck and Cover | [[Athletics]] (Desperate Dive talent) [Apoc] |
+| Duck and Cover | [[Athletics]] (Desperate Dive talent) |
 | Escape Route | [[Guardian]] (Clear Path talent) |
 | Far Shot | [[Equipment Sphere\|Equipment]] (Huntsman Training talent) |
-| Fire Hand | [[Equipment Sphere\|Equipment]] (Goblin Heritage (discipline) talent) [Apoc] |
-| Flagbearer | [[Warleader (warleader-sphere)\|Warleader]] (Heraldry talent) [Conq. HB] |
+| Fire Hand | [[Equipment Sphere\|Equipment]] (Goblin Heritage (discipline) talent) |
+| Flagbearer | [[Warleader (warleader-sphere)\|Warleader]] (Heraldry talent) |
 | Following Step | [[Fencing]] (Footwork talent x2) |
 | Great Cleave | [[Berserker]] (Advancing Carnage talent) |
 | Greater Bull Rush | [[Brute]] (Break Defenses talent) |
@@ -63,8 +63,8 @@ For the full rules on associated feats and associated skills, see [[Using Sphere
 | Greater Grapple | [[Wrestling]] (Greater Grapple talent) |
 | Greater Overrun | [[Brute]] (Break Defenses talent) |
 | Greater Reposition | [[Brute]] (Break Defenses talent) |
-| Grenade Expert | [[Alchemy]] (Fuse Master talent) [Apoc] |
-| Heroic Resolve | [[Equipment Sphere\|Equipment]] (Versatile Fighter (stance) talent) [Youxia HB] |
+| Grenade Expert | [[Alchemy]] (Fuse Master talent) |
+| Heroic Resolve | [[Equipment Sphere\|Equipment]] (Versatile Fighter (stance) talent) |
 | Hover | [[Athletics]] (Powerful Wings talent) |
 | Improved Bull Rush | [[Brute]] (Greater Brute talent) |
 | Improved Disarm | [[Duelist]] (Finger Cutter and Greater Disarm talents) |
@@ -85,56 +85,56 @@ For the full rules on associated feats and associated skills, see [[Using Sphere
 | Improved Unarmed Strike | [[Wrestling]] (Base) |
 | Improved Whip Mastery | [[Equipment Sphere\|Equipment]] (Whip Fiend talent) |
 | Improvised Weapon Mastery | [[Barroom]] (Barroom Expert talent) |
-| Lead From The Back | [[Warleader (warleader-sphere)\|Warleader]] (Strategically Distant Examination talent) [Apoc] |
+| Lead From The Back | [[Warleader (warleader-sphere)\|Warleader]] (Strategically Distant Examination talent) |
 | Leadership | [[Leadership]] (Base) |
-| Let Them Come | [[Equipment Sphere\|Equipment]] (Cavalry Ready talent) [Apoc] |
-| Low Profile | [[Athletics]] (Compact Frame talent) [Conq. HB] |
+| Let Them Come | [[Equipment Sphere\|Equipment]] (Cavalry Ready talent) |
+| Low Profile | [[Athletics]] (Compact Frame talent) |
 | Lunge | [[Fencing]] (Lunge talent) |
 | Mobility | [[Athletics]] (Mobility talent) |
 | Mounted Archery | [[Equipment Sphere\|Equipment]] (Outrider Training talent) |
 | Mounted Combat | [[Beastmastery]] (Ride package) |
-| Multi-attack | [[Practitioner Bestiary]] (Dual Wielding: Multi-Limbed Combat talent) [Apoc] |
-| Multiweapon Fighting | [[Practitioner Bestiary]] (Dual Wielding: Multi-Limbed Combat talent) [Apoc] |
+| Multi-attack | [[Practitioner Bestiary]] (Dual Wielding: Multi-Limbed Combat talent) |
+| Multiweapon Fighting | [[Practitioner Bestiary]] (Dual Wielding: Multi-Limbed Combat talent) |
 | Nimble Moves | [[Warleader (warleader-sphere)\|Warleader]] (Courier’s Dash (tactic) talent x2) |
 | Outflank | [[Beastmastery]] (Pack Attack talent) or [[Leadership]] (Pack tactics talent) |
-| Pinpoint Targeting | [[Sniper]] (Eviscerating Shot (snipe) talent [Conq. HB] |
+| Pinpoint Targeting | [[Sniper]] (Eviscerating Shot (snipe) talent |
 | Point-Blank Shot | [[Barrage]] (Base) |
-| Power Attack | [[Equipment Sphere\|Equipment]] (Versatile Fighter (stance) talent) [Youxia HB] |
+| Power Attack | [[Equipment Sphere\|Equipment]] (Versatile Fighter (stance) talent) |
 | Precise Shot | [[Sniper]] (Base) |
 | Quarterstaff Master | [[Equipment Sphere\|Equipment]] (Staff Mastery talent) |
 | Quick Draw | [[Equipment Sphere\|Equipment]] (Fast Draw talent) |
-| Quick Stow | [[Duelist]] (Defiant Focus talent) [Youxia HB] |
+| Quick Stow | [[Duelist]] (Defiant Focus talent) |
 | Rapid Reload | [[Equipment Sphere\|Equipment]] (Expert Reloading talent) |
 | Rapid Shot | [[Barrage]] (Base) |
 | Rhino Charge | [[Boxing]] (Raging Bull talent) |
 | Run | [[Athletics]] (Run package) |
 | Saddle Shrieker | [[Beastmastery]] (Frenzy Rider talent) |
-| Sea Hunter | [[Open Hand]] (Aquatic Stalker talent) [Apoc] |
-| Sharp Senses | [[Scout]] (Honed Sense talent) [Apoc] |
+| Sea Hunter | [[Open Hand]] (Aquatic Stalker talent) |
+| Sharp Senses | [[Scout]] (Honed Sense talent) |
 | Shield Focus | [[Equipment Sphere\|Equipment]] (Shield Expert talent) |
 | Shield Master | [[Equipment Sphere\|Equipment]] (Versatile Shield talent) |
 | Shield Proficiency | [[Equipment Sphere\|Equipment]] (Shield Training talent) |
-| Shielded Caster | [[Shield]] (Reassuring Imposition talent) [Apoc] |
+| Shielded Caster | [[Shield]] (Reassuring Imposition talent) |
 | Sling Flail | [[Equipment Sphere\|Equipment]] (Sling Combatant talent) |
-| Sly Draw | [[Scoundrel]] (Steal Confidence talent) [High. HB] |
-| Smell Fear | [[Scout]] (Honed Sense talent) [Apoc] |
+| Sly Draw | [[Scoundrel]] (Steal Confidence talent) |
+| Smell Fear | [[Scout]] (Honed Sense talent) |
 | Snap Shot | [[Barrage]] (Vigilant Sharpshooter talent) |
 | Snatch Arrows | [[Equipment Sphere\|Equipment]] (Thrower's Reflexes talent) |
 | Splintering Weapon | [[Barroom]] (Jagged Edge talent) |
 | Spring Attack | [[Athletics]] (Mobile Striker talent) |
-| Stabbing Shot | [[Barrage]] (Shove and Shoot talent) [Apoc] |
+| Stabbing Shot | [[Barrage]] (Shove and Shoot talent) |
 | Stand Still | [[Guardian]] (Stand Still talent) |
 | Step Up | [[Fencing]] (Footwork talent) |
-| Subtle Poisoner | [[Scoundrel]] (Subtle Poisoner talent) [High. HB] |
-| Tangle Feet | [[Athletics]] (Knockdown Tumble (motion) talent) [Apoc] |
+| Subtle Poisoner | [[Scoundrel]] (Subtle Poisoner talent) |
+| Tangle Feet | [[Athletics]] (Knockdown Tumble (motion) talent) |
 | Technologist | [[Tech]] (Tech Savvy talent) |
 | Throw Anything | [[Barroom]] (Brutal Breaker ability) |
-| Throw Anything | [[Berserker]] (Barbaric Throw talent) [Apoc] |
+| Throw Anything | [[Berserker]] (Barbaric Throw talent) |
 | Tower Shield Proficiency | [[Equipment Sphere\|Equipment]] (Shield Training talent) |
-| Two-Handed Thrower | [[Berserker]] (Barbaric Throw talent) [Apoc] |
+| Two-Handed Thrower | [[Berserker]] (Barbaric Throw talent) |
 | Two-Weapon Fighting | [[Dual Wielding]] (Base) |
 | Weapon Finesse | [[Equipment Sphere\|Equipment]] (Finesse Fighting talent) |
-| Weapon Focus (dagger) | [[Equipment Sphere\|Equipment]] (Dagger Bravo talent) [Youxia HB] |
+| Weapon Focus (dagger) | [[Equipment Sphere\|Equipment]] (Dagger Bravo talent) |
 | Weapon Versatility | [[Equipment Sphere\|Equipment]] (Weaponmaster talent) |
 | Whip Mastery | [[Equipment Sphere\|Equipment]] (Whip Fiend talent) |
 | Wind Stance | [[Athletics]] (Moving Target talent) |

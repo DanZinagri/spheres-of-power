@@ -33,7 +33,7 @@ You may only enhance yourself and your own equipment. You cannot take the Ranged
 
 **Incompatible:** Constructor
 
-#### Power Leech [Alienist HB]
+#### Power Leech
 
 You must select Power Parasitism with this talent. You can only use your Enhancement sphere abilities when Power Parasitism is triggered.
 

@@ -9,7 +9,7 @@ parent: "[[Original Spheres]]"
 > [!note] Archived
 > The original version of [[Warpriest Blessings|Warpriest Blessings]], from before *Ultimate Spheres of Power*. Not part of the current rules.
 
-## Fey Blessings [Fey HB]
+## Fey Blessings
 
 **Blessing of the Sidhe (lesser):** You can touch a willing creature, giving it a blessing. For the next round, any time the target rolls a d20, he may roll twice and take the more favorable result.
 

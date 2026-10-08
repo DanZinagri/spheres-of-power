@@ -45,7 +45,7 @@ A druid's resist nature's lure class feature grants its bonus to saving throws a
 
 ---
 
-## Druid Animal and Terrain Domains [BTH]
+## Druid Animal and Terrain Domains
 
 Just like a sphere cleric, sphere druids can choose to gain a domain along with talents aligning with those domains. A druid has access to the air, animal, earth, fire, plant, water, or weather cleric domains as well as the animal and terrain domains. Some druids which serve patrons or deities may access their patron or deity’s portfolio of domains, subject to GM discretion.
 

@@ -14,7 +14,7 @@ Bloodlines that grant a bloodline sphere replace the bloodline spells ability, b
 
 A sphere sorcerer who chooses a bloodline with a bloodline sphere may choose to keep the bloodline sphere or keep the bonus spell points of the sphere sorcerer.
 
-## Kaiju Bloodline [Woodfaring Adventures]
+## Kaiju Bloodline
 
 **Class Skill:** Handle Animal.
 
@@ -36,7 +36,7 @@ A sphere sorcerer who chooses a bloodline with a bloodline sphere may choose to 
 
 **King of Monsters (Ex):** At 20th level, you have become one with the monsters you command. You are forevermore treated as a magical beast rather than as a humanoid (or whatever your original type was) for the purpose of spells and other magical effects.You gain regeneration 1 (fire or acid).
 
-## Phoenix Bloodline [AoP2]
+## Phoenix Bloodline
 
 Within your family’s ancestry, the warmth of a phoenix helped save your ancestors’ life. Whether this help was in the form of guidance, support, or resurrection, this phoenix’s warmth radiated throughout your bloodline, driving you towards empathy and kindness.
 
@@ -60,7 +60,7 @@ Within your family’s ancestry, the warmth of a phoenix helped save your ancest
 
 **Rise from the Ashes (Su):** At 20th level, the essence of the phoenix allows you to rise from the ashes, even from deadly injuries. You become immune to fire damage. Additionally, whenever you die, you instead return back to life after 1d4 rounds (unless your body is completely destroyed), becoming fully healed, as if brought back by the True Resurrection Advanced Life sphere talent. You may only use this ability once per week.
 
-## Vampiric Bloodline [AoP2]
+## Vampiric Bloodline
 
 At some point within your family’s ancestry, a member was most likely the source of sustenance for a vampire, or some other creature that relies on blood to survive. No matter the source, it commonly manifests in similar abilities to that of a vampire, though whether or not these powers are embraced or forced back for another generation is up to the will of the individual.
 

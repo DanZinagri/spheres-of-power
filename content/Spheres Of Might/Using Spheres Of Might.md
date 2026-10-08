@@ -150,7 +150,7 @@ Offering new benefits and advantages, only a single stance can be active at a ti
 
 # Rules Clarifications, Additions, and Interactions
 
-## Catfolk and Felines [Catgirl HB]
+## Catfolk and Felines
 
 The Catgirl Handbook makes a number of references to the catfolk race (Pathfinder Roleplaying Game Advanced Race Guide). For the purposes of this book and much of the content inside of it, any cat, catfolk, creature treated as catfolk, or other being with notable feline heritage, including certain cat-like outsiders such as some azata and rakshasa, are considered “felines”.
 
@@ -160,7 +160,7 @@ When using an attack action to attack with both barrels of a double-barreled wea
 
 **Note:** This means bonus damage applies one time to one of the bullets, and effects from talents apply one time to the same bullet as any bonus damage, unless an ability specifically says otherwise.
 
-## Identifying Practitioners [WtD]
+## Identifying Practitioners
 
 Characters who wish to determine the martial tradition of a practitioner or champion utilize Knowledge (local), which is detailed below:
 
@@ -196,7 +196,7 @@ A creature may use an improvised weapon two sizes smaller than they are as a lig
 | Large | 2d6 | table |
 | Huge | 3d6 | wagon |
 
-## Light Body Technique (optional rule) [Youxia HB]
+## Light Body Technique (optional rule)
 
 For wuxia-themed games where every notable warrior has a basic understanding of certain martial arts, the Light Body Technique optional rule gives the ability for any important character to fight unarmed and perform acrobatic stunts without sacrificing any resources. Anyone with class levels (not NPC classes) gains bonus talents and feats as they gain Hit Dice. If the character would gain a sphere or talent they already possess, they may instead gain another talent from the Athletics sphere as a bonus talent.
 
@@ -205,7 +205,7 @@ For wuxia-themed games where every notable warrior has a basic understanding of 
 - At 5th level, the character gains the Air Stunt legendary talent as a bonus talent.
 - At 7th level and every two levels after, the character gains a bonus talent from the Athletics sphere.
 
-## Martial Contracts (optional rule) [Youxia HB]
+## Martial Contracts (optional rule)
 
 In the world, there are certain great practitioners who wish for more than to just fight. Destined to pass on their legacies to others, these grandmasters seek to see their talents spread to the next generations… or that is what the less benevolent would like people to believe. In truth, grandmasters have a wide variety of reasons for taking on pupils, and yet they continue to be highly sought after individuals for their ability to enhance the abilities of their students to unheard of levels, making legends out of even the most hopeless of individuals.
 
@@ -250,7 +250,7 @@ When using an attack action to attack with a scatter weapon or another weapon th
 
 Some effects allow you to select more talents than you could normally apply to what you're doing. For example, the Sniper sphere's Sniper Shot talent allows you to apply two (snipe) talents, when you can normally apply one. In these cases, you cannot select the same talent more than once unless an option specifically allows that.
 
-## Subordinates [BTH]
+## Subordinates
 
 A subordinate is any controlled character gained by class features, talents, feats, or other effects. This is a specific term to be used for when an ability or effect applies to all creatures under an individual character’s control, rather than all allies or a specific type of controlled character.
 
@@ -278,7 +278,7 @@ A uniquely powerful Conjuration sphere companion gaining the Death sphere for gh
 
 This includes the Blood sphere Extract Blood Construct, Death sphere’s reanimate, and Enhancement sphere’s Animate Objects (enhance), and the Tech sphere’s Drone and Artificial Intelligence gadgets. While a subordinate with access to the Enhancement sphere to cast enhancing effects on its master is not unreasonable, allowing a subordinate to create a large number of additional bodies through Animate Object might be.
 
-## Tethered Combat [SUE]
+## Tethered Combat
 
 Combat where one creature is tethered to another is a surprisingly common staple of fantasy combat - from hanging off a flying dragon, to playing tug of war with strong foes. This ruleset attempts to add some structure to tethered combat, keeping it simple where possible. In the event that an interaction occurs that is not covered by these rules, the GM should make a reasonable determination at that time to maintain the flow of the game; Pathfinder is not a physics simulator.
 
@@ -331,7 +331,7 @@ Practitioners who train in certain spheres focused on unarmed combat, such as Bo
 
 ---
 
-# Ultimate Engineering [SUE]
+# Ultimate Engineering
 
 Due to the size of Ultimate Engineering and the Tinker sphere, its rules and content are available on their own [[Ultimate Engineering|hub page]].
 

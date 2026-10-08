@@ -1,5 +1,5 @@
 ---
-title: "Primal Elementals (CR Varies) [Warden]"
+title: "Primal Elementals (CR Varies)"
 source: https://spheresofpower.wikidot.com/sphere-bestiary
 parent: "[[Sphere Bestiary]]"
 ---

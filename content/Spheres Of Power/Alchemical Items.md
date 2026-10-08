@@ -41,7 +41,7 @@ Sulfur) / fermentation))
 **Type** fuel (explosive)
 **Special** Unlike other recipes, this recipe produces not 1, but 20 doses of black powder; sufficient enough to fill 2 powder horns.
 
-### Boomstone [TS]
+### Boomstone
 
 **Type** stable formulae; **Ranks** 10; **Slot** none
 **Price** 200 gp; **Weight** 1 lb.
@@ -51,7 +51,7 @@ This rock can be thrown as a ranged attack with an increment of 10 feet. Wheneve
 **Construction Requirements**
 Brew Stable Formulae, Alchemy sphere (Improved Thunderstone (formulae)); **Cost** 100 gp
 
-### Cordial of Mother’s Endurance [Jester's HB]
+### Cordial of Mother’s Endurance
 
 This soothing drink warms the coldest nights.
 **Price** 10 gp; **Weight** —
@@ -62,7 +62,7 @@ This pungent drink warms the body and dull’s the mind. Commonly made from dist
 **Construction**
 Craft (alchemy) DC 15
 
-### Delayed Fireball [TS]
+### Delayed Fireball
 
 **Type** stable formulae; **Ranks** 9; **Slot** none
 **Price** 360 gp; **Weight** 2 lbs.
@@ -97,7 +97,7 @@ No one knows who thought trying to make a fermented beverage from fish guts was 
 **Type** alchemical remedy
 *Spontaneous Alchemy:* Those utilizing the spontaneous alchemy variant crafting system may utilize the recipe and crafting time listed above. Players otherwise craft Fish Liver Grog using the crafting rules found in the Core Rulebook pg 91-93.
 
-### Holy Flask [TS]
+### Holy Flask
 
 **Type** stable formulae; **Ranks** 6; **Slot** none
 **Price** 120 gp; **Weight** 1 lb.
@@ -107,7 +107,7 @@ This glass vial can be thrown as a ranged touch attack with an increment of 10 f
 **Construction Requirements**
 Brew Stable Formulae, Alchemy sphere (Aligned Liquid (formulae)); **Cost** 60 gp
 
-### Kahvi [TS]
+### Kahvi
 
 **Type** stable formulae; **Ranks** 1; **Slot** none
 **Price** 20 gp; **Weight** 0.5 lbs.
@@ -175,7 +175,7 @@ Essentially harmless to those who are not shapechangers, this oily substance wil
 **Tools** retort
 **Type** poison
 
-### Trapped Lightning [TS]
+### Trapped Lightning
 
 **Type** stable formulae; Ranks 10; Slot none
 **Price** 200 gp; **Weight** 2 lbs.
@@ -220,7 +220,7 @@ The shredded leaves of this plant can be added to any dish to give a slight swee
 
 ---
 
-# Recreational Substances for Cats [Catgirl HB]
+# Recreational Substances for Cats
 
 The great Meowlin and his owner Jennifer adventured far and wide, and found many great things on their journeys. One of these great things was catnip, a pleasing substance for Meowlin to pack into his churchwarden pipe after long days, or when lounging in fields on a warm spring afternoon. Meowlin took a strong liking to catnip as it had many pleasing properties, but was not fond of the sluggishness that came afterwards.
 

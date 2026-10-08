@@ -99,15 +99,15 @@ The armiger gains Armor Training from the Equipment sphere as a bonus talent. If
 
 The armiger may choose unarmed strikes or a natural weapon as a customized weapon, training to quickly switch away from her other weapons. She may make unarmed strikes or a natural attack her active weapon as a free action or any time she stows her active weapon. Additionally, the armiger gains her choice of the Open Hand sphere or the Boxing sphere (or a talent from either of those spheres if she already possesses the base sphere) as a bonus talent. The armiger’s unarmed strike counts as a single weapon for the purpose of customization and thus can only be part of a single weapon set.
 
-#### Champion [CS]
+#### Champion
 
 The armiger gains a Champion feat of her choice as a bonus feat. She must meet the prerequisites of the feat. This prowess can be gained multiple times.
 
-#### Clockwork Custom Weapons (Su) [CS]
+#### Clockwork Custom Weapons (Su)
 
 You learn how to outfit your weapons with clockwork dials and mechanisms that also act as minor supernatural ritual charms. Whenever you successfully damage an opponent with one of your customized weapons while using a melee attack action, you may expend your martial focus to force the opponent to succeed on a Will saving throw (DC 10 + 1/2 your class level + your practitioner modifier) or be slowed (as the [[Time]] sphere alter time effect) for 1 round.
 
-#### Costumed Combatant [LotS]
+#### Costumed Combatant
 
 The armiger gains the Subterfuge sphere as a bonus sphere. Whenever she stows an active weapon and draws another customized weapon, she may spend martial focus to use fast disguise as part of the action to draw a new weapon.
 
@@ -119,7 +119,7 @@ The armiger gains the Customized Bond feat as a bonus feat. She must meet the fe
 
 The armiger gains Deadly Aim, Piranha Strike, or Power Attack as a bonus feat. She may take this prowess up to three times, selecting a different feat each time. She does not need to meet the prerequisites for the selected feat.
 
-#### Dynamic Engagement [LotS]
+#### Dynamic Engagement
 
 Whenever the armiger stows an active weapon and draws another customized weapon, she may change her approach as part of the same action.
 
@@ -147,7 +147,7 @@ The armiger may choose improvised weapons as a customized weapon set, grabbing o
 
 When spending a move action to move as part of rapid assault, the armiger’s movement does not provoke attacks of opportunity from a single creature of her choice that was affected by the attack action that triggered the rapid assault.
 
-#### Menagerie Trainer (Ex) [BTH]
+#### Menagerie Trainer (Ex)
 
 The armiger gains the Beastmastery sphere as a bonus talent. The armiger can attune her customized weapons to her animal allies by training and working with her animal allies. As part of customizing a weapon, the armiger can attune that customized weapon to one animal ally. Each customized weapon can only be attuned to a single animal ally, but an animal ally can be attuned to more than one customized weapon.
 
@@ -159,7 +159,7 @@ If the animal ally would benefit from a sphere or talent that allows them to mai
 
 When spending a move action to move as part of rapid assault, the armiger may divide her movement up between the triggering action and the granted bonus attacks. This movement provokes attacks of opportunity as normal. Additionally, if she does not have a move action available, the armiger may still move up to her speed as if she spent a move action. Doing so makes the armiger staggered on her next turn even if she would normally be immune to the staggered condition.
 
-#### Mode Switching (requires Tinker sphere) [DRS]
+#### Mode Switching (requires Tinker sphere)
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds)*
 
@@ -203,15 +203,15 @@ Any feat the armiger possesses that specifies a particular weapon or weapon grou
 
 The armiger may choose one customized weapon. This weapon grants an additional talent. This prowess may be taken more than once; each time it applies to a different customized weapon.
 
-#### Skillful Armaments [LotS]
+#### Skillful Armaments
 
 The armiger’s customized weapons may grant skill talents in place of combat talents. For each of the armiger’s customized weapons, she selects a single skill. While wielding that customized weapon, the armiger adds her enhanced customization bonus to skill checks attempted with that skill. This prowess may be selected a second time, in which case the armiger also gains the skill unlock with the selected skill while wielding her corresponding customized weapon. The armiger may use her operative modifier as her practitioner ability modifier, or vice versa.
 
-#### Spell Dabbler [CS]
+#### Spell Dabbler
 
 Choose one of the following feats: Advanced Magical Training, Basic Magical Training, or Extra Magic Talent. The armiger gains the chosen feat as a bonus feat. The armiger must meet all the prerequisites of the chosen feat. This prowess may be taken up to three times.
 
-#### Transfigurative Construction [Conq. HB]
+#### Transfigurative Construction
 
 By studying ancient magic and crafting techniques, the armiger learns to customize his arsenal in more fantastic and unusual ways. The armiger gains the ability to apply modifications to his customized weapons. Applying a modification can be done in the same time it takes the armiger to customize a weapon, and each customized weapon can only have one modification applied to it at any given time. The armiger can apply any modification he meets the minimum level for. A modification applied to a custom weapon with the double weapon quality applies to both ends. The armiger must have the customized weapons class feature to gain this prowess.
 
@@ -309,7 +309,7 @@ At 20th level, the armiger is no longer required to expend martial focus to acti
 
 The following magical items are especially appropriate for armigers.
 
-#### Ring Of Flexibility [TS:WAT]
+#### Ring Of Flexibility
 
 **Aura** faint Enhancement; **CL** 5th
 **Slot** ring; **Price** 18,000 gp; **Weight** 1 lb.
@@ -319,7 +319,7 @@ This silvery-white ring is etched with elemental symbols. A character with the e
 **Construction Requirements**
 Craft Apparatus, Enhancement sphere (Energy Enhancement (enhance), Greater Enhance Equipment); **Cost** 9,000 gp
 
-#### Shadow Armory [TS:WAT]
+#### Shadow Armory
 
 **Aura** faint Dark; **CL** 3rd
 **Slot** wrists; **Price** 18,000 gp; **Weight** 1 lb.
@@ -329,7 +329,7 @@ This pair of bracelets is dull and unassuming. While worn, they allow the bearer
 **Construction Requirements**
 Craft Apparatus, Dark sphere (Shadow Stash); **Cost** 9,000 gp
 
-#### Thousand Blades [TS:WAT]
+#### Thousand Blades
 
 **Aura** faint Creation and Illusion; **CL** 3rd
 **Slot** hands; **Price** 18,000 gp; **Weight** 2 lbs.

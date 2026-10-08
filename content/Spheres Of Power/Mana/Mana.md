@@ -113,7 +113,7 @@ Whenever you are the target of a magical sphere effect or supernatural effect, y
 
 When using the Spellburn expunge, you may cause the initial spell point damage to be treated as if the caster had spent them normally (using your caster level if one is required), causing it to trigger effects that occur when they spend spell points.
 
-#### Enlarged Shuffle [Archmagi's HB]
+#### Enlarged Shuffle
 
 You may spend an additional spell point as part of using Shuffle to increase its radius to a close-range radius. If you possess the Flexible Shuffle talent, you can instead spend an additional spell point to shape your shuffle in the form of 10 contiguous 5-foot squares, plus an additional square for every caster level you possess.
 
@@ -123,7 +123,7 @@ When using expunge, you may spend an additional 2 spell points to instead affect
 
 Even if you affect multiple creatures, you may only create a manabond with a single creature. If you possess the Magical Conduit talent, you can create a manabond with all creatures affected by this talent.
 
-#### Flexible Shuffle [Archmagi's HB]
+#### Flexible Shuffle
 
 When using Shuffle, you may instead shape the shuffle in the form of contiguous 5-foot squares, up to a maximum of 3 squares + 1 square per 2 caster levels. Additionally, you gain the following options:
 
@@ -136,7 +136,7 @@ When creating a manabond, you may spend a spell point to allow your manabond to 
 
 When creating one, they can be as short as 5 feet, or as long as your normal maximum range, but they must be measured in 5 feet increments. You can shorten or lengthen them as part of the action made to concentrate on them, although if the cord is not long enough to reach the target creature after shrinking it will break and end the effect.
 
-#### Heavy Expunge [Archmagi's HB]
+#### Heavy Expunge
 
 Whenever a creature fails their saving throw against your expunge or you succeed a magic skill check against a target using expunge, you can spend an additional spell point to further burden the caster for a number of rounds equal to your casting ability modifier. During this time, the target must spend 1 additional spell point whenever they cast a sphere effect or have the effect fail. For every 10 caster levels you possess, the amount of additional spell points the target must spend increases by 1.
 
@@ -176,7 +176,7 @@ Whenever the recipient of the Mystical Bond (manabond) would cast an instantaneo
 
 When used in this way, your Mystical Bond can reduce the caster level of a sphere effect to below 1. If this reduces the sphere effect's caster level to 0 or below, it automatically fails, and any spell points are wasted.
 
-#### Swap Bond [Archmagi's HB]
+#### Swap Bond
 
 As part of concentrating on your manabonds, you may choose to instead reform that manabond, swapping the (manabond) talent it was created with to any other you possess. Doing so does not extend the maximum duration of the manabond. If the (manabond) talent you chose requires spell points to be created, you must spend any spell points required.
 
@@ -204,7 +204,7 @@ You may spend a spell point to have the target's magical reservoir become danger
 
 The target may voluntarily release 1 spell point, + 1 additional spellpoint at 5th caster level and every 5 levels thereafter, as a standard action (which does not damage them) to end this effect, otherwise lasting for 1 minute per caster level.
 
-#### Melt Power (expunge) [Archmagi's HB]
+#### Melt Power (expunge)
 
 You can destabilize a spherecaster’s magic, rather than burn it away. This functions as per the base Spellburn expunge, save that the initial damage dealt increases to 1d4 + 1d4 per 10 caster levels you possess, and the spell point damage taken at the start of each turn increases by two steps (1d4, 1d6, 1d8, 2d6, 2d8, 3d6, etc.). Spell point damage from this effect always results in the loss of real spell points, and for each spell point lost due to this effect, the creature gains a temporary spell point that stacks with other spell points gained from this effect.
 
@@ -214,7 +214,7 @@ At 10th caster level, the target only converts half of all temporary spell point
 
 **Note:** A creature can suffer from the spellburned effect from both this talent and the base Spellburn expunge. If a creature succeeds at a Will save to end the spellburned effect, they also end it for the other effect. This talent cannot be modified by the Deep Spellburn feat.
 
-#### Oversaturation Surge (expunge) [Archmagi's HB]
+#### Oversaturation Surge (expunge)
 
 Your target’s magic begins to destabilize unless they succeed at a Fortitude save. At the end of the target’s next turn, they suffer 1 spell point damage for each temporary spell point they possess, and suffer 1d8 untyped damage for every spell point damage suffered (maximum 1d8 per caster level). If the target possessed temporary spell points that brought them above their normal maximum spell point total, the spell point damage and maximum amount of damage dealt by this talent are doubled (to a maximum of 2d8 per caster level). A creature affected by this talent is always aware of its effects.
 
@@ -228,7 +228,7 @@ Alternatively, you may spend a spell point to destabilize a creature’s heighte
 
 As a manabond, you form a connection that attempts to bolster a creature’s spell resistance. If the recipient of this manabond has spell resistance, you can raise it up to 11 + your caster level. If the recipient does not have spell resistance, you can spend a spell point to grant them spell resistance equal to 11 + your caster level for as long as the manabond holds.
 
-#### Empowering (Manabond) [Archmagi's HB]
+#### Empowering (Manabond)
 
 You create a manabond that allows you to easily empower or alter your ally’s magical abilities. You can use an (amp) on a willing recipient of your manabond as part of the action used to concentrate on your manabond each round.
 
@@ -243,7 +243,7 @@ As a manabond, you can create a magical stream between yourself and the recipien
 
 You may choose to pay any spell point costs that the recipient may incur from using their abilities with your own spell points, either partially or in whole. Any spell points granted from this talent stack with themselves. This type of (manabond) cannot be placed on a creature that cannot possess the Mana sphere, such as subordinates.
 
-#### Focusing (Manabond) [Archmagi's HB]
+#### Focusing (Manabond)
 
 Your manabond allows you to directly force power into the bond, creating an opening for your magical abilities for both you and your recipient. Whenever your recipient attempts a saving throw against one of your supernatural effects or magic sphere effects, the DC of that saving throw increases by 2. This bonus also affects any saving throws you attempt against sphere effects or supernatural abilities created by your recipient.
 
@@ -253,7 +253,7 @@ You form a manabond that confounds targeted magical effects. Any time you or the
 
 If you or a willing recipient is targeted by a single-targeted harmless effect, you may redirect the effect to yourself or the recipient as a free action that can be taken outside of your turn. A sphere effect can be redirected multiple times across multiple willing recipients, as long as all creatures have a suitable manabond linking them.
 
-#### Manabond Channeling (Manabond) [DbH]
+#### Manabond Channeling (Manabond)
 
 As a manabond, you may create a magical conduit between yourself and the recipient. As long as the manabond holds, you may target the creature with any magic sphere effects with a range of touch or greater as if the creature was in range and you had line of sight and line of effect to the creature. You may not use this ability to channel effects that require an attack roll.
 
@@ -263,7 +263,7 @@ As a manabond, you can create a warm bond between yourself and a willing creatur
 
 Additionally, whenever you are magically healed any amount of hit points (except from sources such as fast healing, regeneration, etc.), you can redirect any amount of that healing to the recipient as a free action that can be taken outside of your turn. Due to the healing being redirected, the healing is still limited by effects that would limit the original healing (such as not being able to heal creatures above half health, or used to damage creatures that are usually damaged by the received healing.
 
-#### Vortex (Manabond) [Archmagi's HB]
+#### Vortex (Manabond)
 
 You manifest a manabond that creates a void of magical energy within the host, forcing all magic from the recipient in their direction. The recipient of this manabond cannot target any creature except the host of this manabond or themselves when utilizing targeted sphere effects, and any sphere effects that target an area must include the host of this bond in that area. The recipient may attempt a Will save when creating a sphere effect to ignore the effects of this manabond.
 
@@ -271,7 +271,7 @@ You manifest a manabond that creates a void of magical energy within the host, f
 
 ## Manipulation Talents
 
-#### Arcanodynamics (Manipulation, Amp) [Archmagi's HB]
+#### Arcanodynamics (Manipulation, Amp)
 
 By stretching and reshaping magic, you can reconfigure how magical effects take shape.
 
@@ -289,7 +289,7 @@ You can manipulate magic into a magical or physical barrier by spending a spell 
 
 Whenever a barrier deflects an attack or prevents a magical effect from affecting the target, the barrier loses that layer. Layers from multiple castings do not stack, and each layer lasts for 1 minute per caster level.
 
-#### Elemental Enhancement (Manipulation, Amp) [Archmagi's HB]
+#### Elemental Enhancement (Manipulation, Amp)
 
 Your elemental magic further burdens creatures. The following (amp) effects affect creatures when they suffer damage from an amplified sphere effect; only the first instance of damage from any sphere effect applies their effects, even if the sphere effect deals continuous damage.
 
@@ -298,7 +298,7 @@ Your elemental magic further burdens creatures. The following (amp) effects affe
 - **Frigid Spell (amp):** You may amplify a sphere effect that deals cold damage. Creatures that are hit by an attack or fail their saving throw against the amplified sphere effect have their body become coated in ice, reducing all of their movement speeds by half for 1 round. The duration increases by 1 round for every 8 caster levels you possess.
 - **Thundering Spell (amp):** You may amplify a sphere effect that deals electric or sonic damage. Creatures that are hit by an attack or fail their saving throw against the amplified sphere effect become deafened for 1 minute per caster level.
 
-#### Energy Modification (Manipulation, Amp) [Archmagi's HB]
+#### Energy Modification (Manipulation, Amp)
 
 You can alter the energy of your magic directly into other forms. Any time you use an (amp) talent on a sphere effect that deals damage, you may choose for that damage to become nonlethal damage.
 
@@ -318,7 +318,7 @@ You can target yourself with this ability as a swift action. Attempting to targe
 
 You may manipulate your magical essence, granting a target access to your own magical knowledge by spending a spell point. Choose a single base sphere or talent you possess that the target does not. The target may use this talent or base sphere ability once, using your caster level at the time this ability is cast (not including temporary bonuses or bonuses gained from items) and related sphere-specific and general drawbacks. The target must use this ability within 1 minute per caster level, and must pay any spell point costs as normal. You may not grant advanced talents with this talent, and the target must qualify for the sphere or talent in order to use it (including qualifying for it due to other instances of Gift of Knowledge).
 
-#### Heightened Magic (Manipulation, Amp) [Archmagi's HB]
+#### Heightened Magic (Manipulation, Amp)
 
 You can push your magical talents to new levels of power.
 
@@ -326,7 +326,7 @@ You can push your magical talents to new levels of power.
 - **Splashing Spell (amp):** You may amplify an instantaneous sphere effect that targets one or more creatures and deals energy damage. Any creatures that were not a target of that sphere effect and are adjacent to at least one of the creatures targeted by the sphere effect must succeed at a Reflex save or suffer damage equal to half your caster level. The damage dealt is of the same type(s) as the amplified sphere effect.
 - **Forceful Spell (amp):** You may spend a spell point to amplify a sphere effect that deals force damage. For each creature that suffers damage, make a trip attempt as a free action. You are not knocked prone if you fail this trip attempt by 10 or more. Your CMB for this check is your caster level + your casting ability modifier.
 
-#### Imbued Vessel (Manipulation) [Archmagi's HB]
+#### Imbued Vessel (Manipulation)
 
 You may manipulate your own well of magic and transfer your capacity partially into a targeted creature. If the target is unwilling, they may attempt a Will save to resist this effect.
 
@@ -334,14 +334,14 @@ For a number of rounds equal to your caster level, that creature acts as a vesse
 
 While utilizing a sphere effect through a willing vessel, both you and the target of this talent provoke attacks of opportunity due to casting if any, and you must attempt concentration checks as normal if either you or the target is struck (attempt two concentration checks if both are struck). If the target is willing, you may allow them to make any melee touch attacks (unless it is a weapon attack) required to cast your sphere effect in your stead. You may spend a spell point to allow this talent to remain for one hour per caster level when using this talent on a willing target.
 
-#### Initiate’s Training (Manipulation, Amp) [Archmagi's HB]
+#### Initiate’s Training (Manipulation, Amp)
 
 Subtle magics can allow a mage to utilize their powers more easily.
 
 - **Apprentice’s Spell (amp):** You can spend a spell point to allow a spherecaster to ignore one general drawback they possess when creating their next sphere effect, treating the sphere effect as if they did not possess it. For every 5 caster levels, you can pay 1 additional spell point to ignore an additional drawback. You may only allow the following general drawbacks to be ignored: Emotional Casting, Magical Signs, Material Casting, Mental Focus, Rigorous Concentration, Skilled Casting, Somatic Casting, Terrain Casting and Verbal Casting. *Note:* If you ignore a drawback that a drawback feat requires you to possess, you cannot apply the effects of that drawback feat to a sphere effect. Drawbacks that can be taken twice only ignore once instance, unless selected twice.
 - **Delayed Spell (amp):** You may spend a spell point to cause a sphere effect to be paused before it is initially activated. The amplified sphere effect does not immediately take effect, although it still emanates an aura as normal and you must still determine any targets or locations at the time of initially creating the effect. At any time within 1 minute per Mana caster level of creating the amplified sphere effect, the spherecaster who created it can spend a standard action to immediately trigger the effect. Otherwise, at the end of this time, the sphere effect activates normally. Only one sphere effect can be triggered with a standard action at a time, but a spherecaster may have as many delayed sphere effects as they can cast. You may tie the method of activation to a non-magical method (such as a specific lever being pulled, a specific keyword being spoken or a symbol being gestured) to allow other creatures to activate the magic, but such a method must be simple and be able to be purposefully activated by any creature, and still must require at least a standard action to perform, and may only cause one delayed effect to activate at a time.
 
-#### Intelligent Interactions (Manipulation, Amp) [Archmagi's HB]
+#### Intelligent Interactions (Manipulation, Amp)
 
 You can infuse your magic with a sense of intelligence, allowing it to react in special ways.
 
@@ -349,7 +349,7 @@ You can infuse your magic with a sense of intelligence, allowing it to react in 
 - **Avoidant Spell (amp):** You can spend a spell point to modify a sphere effect that affects an area. Choose one creature, plus an additional creature for every 5 caster levels. These creatures automatically succeed any saving throws they must attempt against the amplified sphere effect, and do not suffer any damage, ability damage, ability drain or negative levels the effect may bestow.
 - **Dismissable Spell (amp):** You can amplify a sphere effect with a duration longer than instantaneous to allow it to be easily dismissed. The spherecaster who creates the amplified sphere effect can dismiss the sphere effect as an immediate action. You may tie the method of dismissal to a non-magical method (such as a specific lever being pulled, a specific keyword being spoken or a symbol being gestured) to allow other creatures to dismiss the magic, but such a method must be simple and be able to be purposefully activated by any creature and still requires at least an immediate action to perform. If the method chosen requires more than an immediate action, the creature must spend the appropriate amount of time to perform the action in order to dismiss the sphere effect.
 
-#### Power Dynamics (Manipulation, Amp) [Archmagi's HB]
+#### Power Dynamics (Manipulation, Amp)
 
 You can alter the intensity of magic.
 
@@ -367,7 +367,7 @@ If you possess Ranged Mana, you may grant the effects of the manipulated magic t
 
 **Note:** Similar to Essentialize, Relinquish must completely end an ongoing effect as it was created in order to function. If the sphere ability provides an ongoing effect to multiple creatures, Relinquish cannot be used to divide it up further. Likewise, effects that can be partially used such as the Mystic Shell aegis of the Protection sphere can only function with Relinquish if it has not been used (i.e all layers must still be remaining). Sphere effects created through Relinquish must be able to affect their target to be granted, and cannot be used on abilities that could only target the sphere caster that created them.
 
-#### Spell Mastery (Manipulation, Amp) [Archmagi's HB]
+#### Spell Mastery (Manipulation, Amp)
 
 You can empower and bolster your magic as you create it.
 
@@ -383,7 +383,7 @@ Alternatively, you may spend a spell point as a standard action to grant your ta
 
 **Note:** Occasionally, a setting might have different sources of magic that are mutually incompatible, or a GM might wish to seperate how magic can be transferred across characters. In games like this, the GM may be encouraged to add restrictions to how the Transfer and Flow talents can be used. For example, they might rule that an arcane caster cannot grant spell points to a divine caster, or that spherecasters of a specific tradition cannot grant spell points to any other tradition. GMs are encouraged to examine how magic works in their games and arbitrate what, if any, limits on transferring magic might exist.
 
-#### Visual Dynamics (Manipulation, Amp) [Archmagi's HB]
+#### Visual Dynamics (Manipulation, Amp)
 
 You can manipulate how easy it is to witness your magic.
 
@@ -398,7 +398,7 @@ You can manipulate how easy it is to witness your magic.
 
 Advanced talents are part of an optional rule and are only available with GM permission.
 
-#### Archmagi’s Methods (Manipulation, Amp) [Archmagi's HB]
+#### Archmagi’s Methods (Manipulation, Amp)
 
 **Prerequisites:** Mana sphere (Initiate’s Training), caster level 5th.
 
@@ -408,14 +408,14 @@ Through mastery, even the most complex of rites can be accomplished.
 - **Stubborn Spell (amp):** You may spend a spell point to amplify a sphere effect that targets a single creature. If the sphere effect fails to affect its target (but not due to being dispelled or countered), the sphere effect redirects itself. The spherecaster who created the effect chooses another eligible target in range. The amplified sphere effect behaves in all ways as if the new target was the original target, although the effect’s caster level is reduced by 4 against the new target. An amplified sphere effect can only redirect itself once.
 - **Vindictive Spell (amp):** You may spend a spell point to reinforce a non-harmless sphere effect. If a creature attempts and fails a magic skill check to dispel or otherwise suppress the sphere effect, they suffer 1 damage per caster level and 2 ability damage to their casting ability modifier (or Charisma, if they do not have one). If the creature fails by 5 or more, the sphere effect duplicates itself and affects the creature as if that effect was cast upon them again (targeting them or only their square, if it was an area effect), including the effects of this (amp).
 
-#### Boosted Shuffle (Manipulation, Amp) [Archmagi's HB]
+#### Boosted Shuffle (Manipulation, Amp)
 
 **Prerequisites:** Mana sphere, caster level 1st.
 
 You gain the following (amp):
 **Shuffled Spell (amp):** You may spend a spell point to amplify any sphere effect. You may utilize your shuffle as part of the sphere effect, allowing your shuffle to remain for the duration of the sphere effect. The chosen shuffle only affects the amplified sphere effect, although you must still select an area for it to affect. The shuffle takes place before the sphere effect is created, potentially granting bonuses as part of creating the sphere effect (such as a bonus to concentration checks due to Focus Rewiring).
 
-#### Conquer (Manipulation) [Archmagi's HB]
+#### Conquer (Manipulation)
 
 **Prerequisites:** Mana sphere (Imbued Vessel), caster level 10th.
 
@@ -441,13 +441,13 @@ When using the Vassalize advanced talent, you may target creatures that do not n
 
 When you use a ‘Mark’ expunge talent, you can spend an additional 3 spell points to have the effect's duration be increased to permanent. Marks that grant additional consecutive saving throws no longer grant them. This is a curse effect. This can be only be dispelled using the Break Enchantment Life talent, break enchantment, miracle, remove curse, wish, or similar effects.
 
-#### Eternal Shackles [DbH]
+#### Eternal Shackles
 
 **Prerequisites:** Mana sphere (Infinite Bond (advanced), Ranged Mana x2), caster level 15th.
 
 Your manabonds no longer have a maximum range when used on willing or unwilling targets and stay activated even when a creature is on a different plane from you. If a creature is beyond close range for your manabond, they may only attempt a magic skill check against your MSD to end the manabond once per day rather than at the end of every turn.
 
-#### Flexible Knowledge (Manipulation) [Archmagi's HB]
+#### Flexible Knowledge (Manipulation)
 
 **Prerequisites:** Mana sphere (Gift Of Knowledge, Transfer), caster level 5th.
 
@@ -455,19 +455,19 @@ When using the Gift Of Knowledge manipulation, you may grant up to 2 magic talen
 
 Additionally, you may spend any number of spell points to additionally grant that creature an amount of temporary spell points equal to the spell points you spent that last for 1 hour per caster level. Temporary spell points granted by this talent can only be spent on sphere effects that utilize at least 1 talent granted by this effect. When the target utilizes a sphere effect that uses at least one of the talents you granted them, they lose any unused temporary spell points granted as part of this talent and this effect ends. At the GM’s discretion, you may grant your target advanced talents.
 
-#### Forced Conversion (Expunge) [Archmagi's HB]
+#### Forced Conversion (Expunge)
 
 **Prerequisites:** Mana sphere (Oversaturation Surge), caster level 1st.
 
 You forcefully convert your target’s body into temporary magical power. The target suffers 1d8 untyped damage for every 2 caster levels you possess. Unwilling creatures may attempt a Fortitude save to negate this. For each die of damage suffered, the target gains a temporary spell point. This damage cannot be healed by any means except rest (a full night’s rest heals all damage caused by this ability), and automatically bypasses any temporary hit points, damage reduction or other effects that may reduce, redirect or delay the damage. When utilizing this expunge on yourself, you may do so as a move action by increasing the damage dealt by an amount equal to 1/2 your caster level. This expunge cannot be used on creatures that do not possess a spell pool.
 
-#### Great Amplification [Archmagi's HB]
+#### Great Amplification
 
 **Prerequisites:** Mana sphere (at least one (amp) talent), caster level 5th.
 
 You can merge the power of two amplifications together. After you rest and regain spell points, you can select two (amp) effects you can create to be combined into a new combined (amp) effect, applying the effects of both as if it were a singular (amp) effect. You cannot use a combined (amp) effect as part of another. When utilizing a combined (amp) effect, both original (amp) effects must be able to be applied to the amplified sphere effect, you must pay the spell point cost for both effects, and you must spend an additional spell point. You retain the ability to create the combined (amp) effect until you rest and regain spell points again. You may create up to one combined (amp) effect at a time. You can take this talent multiple times, each time increasing the amount of combined (amp) effects you can create at a time by 2.
 
-#### Harness Ambient Knowledge [DbH]
+#### Harness Ambient Knowledge
 
 **Prerequisites:** Mana sphere (Gift Of Knowledge (manipulation)), Counterspell, caster level 5th, magic skill bonus +5.
 
@@ -479,7 +479,7 @@ When you successfully counterspell an effect, you may spend an additional spell 
 
 Your manabonds no longer have a maximum range when used on willing targets, and stays activated so long as the creature is on the same plane as you. If the creature you are bonded to leaves the plane you are on or vice-versa, the effect expires after 1 minute unless they or you return to the same plane within this time limit and you cannot activate or use the effects of your manabond unless they or you return to the same plane before it expires. If you applied Permanent Bond, the manabond does not expire, but still can only be used if you and the recipient are on the same plane.
 
-#### Intrinsic Shuffle [Archmagi's HB]
+#### Intrinsic Shuffle
 
 **Prerequisites:** Mana sphere (Flexible Shuffle), caster level 10th.
 
@@ -494,13 +494,13 @@ You can finely alter the very essences of your magic. You can use the following 
 
 Your knowledge and experience in stealing the mana from others has pushed you to a new discovery; stealing their prowess in the magical arts. Whenever you successfully drain spell points from a target using Manathief, they must attempt an additional Will saving throw with a penalty equal to the amount of spell points lost from Manathief. On a failure, you steal a single magic talent you are aware they possess (or base sphere if they possess no other talents within the sphere), gaining access to it. The target cannot use the stolen sphere or talent until they rest to regain spell points. The stolen talent lasts for 24 hours, but you may spend a spell point to retain it for an additional 24 hours; each time you do so, the spell point cost increases by 1. You may only retain one talent or sphere gained this way at one time, although you may choose to replace the talent if you use this talent again. You may retain one additional talent at a time for every 10 caster levels you possess.
 
-#### Laws Of Absolute Power [Archmagi's HB]
+#### Laws Of Absolute Power
 
 **Prerequisites:** Mana sphere (Enlarged Shuffle, Flexible Shuffle), caster level 20th.
 
 Creatures may no longer attempt a saving throw to resist the effects of your shuffle. This talent cannot be combined with Reactive Shuffle.
 
-#### Limited Manifestation [Archmagi's HB]
+#### Limited Manifestation
 
 **Prerequisites:** Mana sphere (Gift Of Knowledge), at least 3 other spheres known, caster level 15th.
 
@@ -520,7 +520,7 @@ You may attempt to drain the target’s spell points rather than damage it, but 
 
 **Note:** Manathief is considered an advanced talent for its implications in worlds it exists in, but also its mechanical powers. As Manathief costs no spell points to use, and grants spell points to the caster, it’s important to understand that this talent allows spherecasters to effectively replenish their reserves (for example, by capturing spherecasters and draining them of all the magic they can). A GM is advised to create limitations in what creatures they can drain spell points from, as well as how often they can from the same creature. For example, a spherecaster with the Conjuration sphere can create a Mage companion of which they can drain spell points from to fuel their power. Each GM should understand the possibilities of this ability, and limit it in such a way that it fits their world, and the power level they desire for their game.
 
-#### Manifestation [Archmagi's HB]
+#### Manifestation
 
 **Prerequisites:** Mana sphere (Gift Of Knowledge, Limited Manifestation), at least 3 other spheres known, caster level 20th.
 
@@ -559,7 +559,7 @@ If a bonded creature moves outside of the range of your manabond, the effect dea
 
 You may use the shuffle ability as an immediate action by spending 2 additional spell points. A shuffle ability used this way has a duration of 1 round and cannot be concentrated on.
 
-#### Runic Magic (Manipulation, Amp) [Archmagi's HB]
+#### Runic Magic (Manipulation, Amp)
 
 **Prerequisites:** Mana sphere, caster level 5th.
 
@@ -569,13 +569,13 @@ You can modify magic in such a way that it understands language, and becomes mor
 - **Contracted Spell (amp):** You can spend two spell points to modify a harmless sphere effect that targets one creature so that its benefits are tied to an agreement. As part of casting the amplified sphere effect, the spherecaster who created the sphere effect must strike a written or verbal agreement between themselves and the target of the amplified sphere effect must accept the conditions. This agreement can be a promise, a goal that must be achieved before the amplified sphere effect ends or a task to be repeated intermittently, or a warning to not commit a certain prohibited behavior. If the agreement is violated (or not completed in time), the amplified sphere effect immediately ends and all of its effects are reversed (even instantaneous effects; afflictions removed will return, hit points healed will be undone and so forth). This amplification understands the spirit of the agreement, and will not consider it a violation if the target unwillingly or unknowingly violates the agreement. The target always knows if a specific action they take will trigger a violation of the agreement. The magical agreement lasts for as long as the amplified sphere effect, or up to 1 day per caster level if the sphere effect had a duration of instantaneous. At 15th caster level, the magical agreement may last for as long as the spherecaster desires, even indefinitely.
 - **Written Spell (amp):** You can spend a spell point to convert an instantaneous sphere effect that targets either one creature or an area and allows for a saving throw to avoid its effects into magical writing. The sphere effect remains dormant and does not trigger until a creature approaches its range and reads the magical writing, where it then activates, targeting the creature that read it or their square. Only one piece of magical writing can be written on a surface or parchment, and a creature can only trigger one magical writing each turn. You can instruct creatures on how to read the magical writing without triggering it as a standard action. The magical writing remains for 1 day per caster level but the spherecaster who created the sphere effect cannot regain any spell points spent on the sphere effect until it triggers. The writing is treated as a magical trap and may be disabled with Disable Device check (DC = 10 + the spherecaster’s caster level + the spherecaster’s casting ability modifier). Both you and the spherecaster who created the effect can remove and dispel the writing as a standard action without a check. At 15th caster level, the magical writing remains indefinitely or until removed.
 
-#### Ties That Bind [DbH]
+#### Ties That Bind
 
 **Prerequisite:** Mana sphere (Infinite Bond (advanced), Magical Conduit, Ranged Mana x2), caster level 10th.
 
 Any creature that swears an Oath of Loyalty to you is considered to have a permanent manabond on them that cannot be dispelled so long as the oath remains. You do not need to concentrate on this manabond.
 
-#### Unbind Spell [DbH]
+#### Unbind Spell
 
 **Prerequisites:** Mana sphere (Essentialize (manipulation)), caster level 10th.
 
@@ -587,7 +587,7 @@ By spending an additional spell point, you may use Essentialize as an immediate 
 
 Whenever you cast a sphere effect while you have the Flow manabond active, you can attempt to utilize the recipient’s spell pool to cast your own magic. The recipient must succeed at a Will saving throw or they must pay any spell point costs you would have spent otherwise. If the recipient does not have enough spell points, they take ability damage to their casting ability modifier equal to the difference in spell point cost, and you must spend your own spell points to pay the difference. If you lack the spell points to cast the sphere effect, any spell points you have spent are wasted and the sphere effect fails. Willing creatures may automatically fail this save, and this talent does not drain temporary spell points. The recipient must possess a spell pool in order for this ability to be used on them.
 
-#### What’s Yours Is Ours [Jester's HB]
+#### What’s Yours Is Ours
 
 **Prerequisites:** Mana sphere (Soulmate (manabond)), caster level 1st.
 

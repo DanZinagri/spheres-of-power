@@ -34,7 +34,7 @@ The **Troubadour** is a master of change, switching roles like an actor might sw
 
 # Optional Rules
 
-## Utility Talents in Non-Skill Spheres [LotS]
+## Utility Talents in Non-Skill Spheres
 
 The following talents can be treated as having the [utility] tag, allowing them to be selected as utility talents for any character that meets the prerequisites and can gain a utility talent of that kind (such as through the blended training class feature or the Utilitarian Talent Progression variant listed below).
 

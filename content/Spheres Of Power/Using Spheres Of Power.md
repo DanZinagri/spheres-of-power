@@ -445,11 +445,11 @@ Battered is a condition introduced in Spheres of Might. Certain options included
 
 **Battered (condition):** Heavy blows have left a creature with this condition vulnerable to further attacks, imposing a -2 penalty to the creature’s CMD and preventing them from taking attacks of opportunity provoked by a creature performing a combat maneuver. Some talents have different effects or activation times against battered creatures. The battered condition can be removed by taking the total defense action, or through the restore ability of the Life sphere, the lesser restoration spell, or similar effects. When inflicting the battered condition on a target that is already battered, the rounds stack when determining duration.
 
-## Buying Casting Services [TS]
+## Buying Casting Services
 
 Sometimes, you may want to buy spellcasting services from NPCs, either as one-time transactions (such as for curing otherwise-permanent ailments) or repeated support (for item crafting or other long-term projects). The price for casting services is 10 gp * the caster level of the effect * the effective spell level. The effective spell level of an ability starts at 0 for caster level 1, then goes up by one at every even caster level. For example, getting an NPC to cast a caster level 6 effect costs 10 * 6 * 3, or 180 gp. Payments per-day for crafting include all of the talents an NPC knows, so player characters do not have to purchase them separately if only hiring one NPC.
 
-## Catfolk and Felines [Catgirl HB]
+## Catfolk and Felines
 
 The Catgirl Handbook makes a number of references to the catfolk race (Pathfinder Roleplaying Game Advanced Race Guide). For the purposes of this book and much of the content inside of it, any cat, catfolk, creature treated as catfolk, or other being with notable feline heritage, including certain cat-like outsiders such as some azata and rakshasa, are considered “felines”.
 
@@ -467,7 +467,7 @@ If using the hero points optional system from the Advanced Player’s Guide, add
 
 **Recover:** You may spend a hero point to regain a spent spell point, kismet point, shadow point, or hypnotism use.
 
-## Identifying Spherecasters [WtD]
+## Identifying Spherecasters
 
 Prior to attempting the Knowledge check, attempt a free Spellcraft check DC 10. Succeeding at this check will allow you to determine the casting tradition category, as well as the necessary Knowledge skill required to identify the specific casting tradition of the creature (DC is equal to 10 + the challenge rating of the target). Refer to the table below:
 
@@ -482,7 +482,7 @@ Prior to attempting the Knowledge check, attempt a free Spellcraft check DC 10. 
 2: GMs may allow a different Knowledge skill be used for a specific casting tradition. For example, a player may use Knowledge (nature) with Beast Charming, Druidism, or Fey Magic casting traditions; or use Knowledge (psionics) with Hypnotism or Mind casting traditions.
 3: Knowledge (psionics) is a new skill introduced in Ultimate Psionics by Dreamscarred Press.
 
-## Not Just Cats [Catgirl HB]
+## Not Just Cats
 
 This section contains the “non-cat pun” names for content as well as some additional notes for transparency, listed in the same order they are presented in the handbook. If a piece of content is not listed in this section, the name is unchanged.
 
@@ -566,7 +566,7 @@ Damage added by [strike] talents is extra damage, not part of a weapon's damage 
 
 A [strike] talent is (intended to be) delivered through a successful, damaging weapon attack, much like a magus's spellstrike. Replacing the granted attack of a [strike] talent with a combat maneuver, or other action, is generally no longer able to deliver the spell effect, subject to GM discretion (i.e. a [strike] talent used as a sunder could instead target equipment). In other cases, non-damaging maneuvers cannot deliver a [strike] talent's effects (either normally, using the Spell Attack feat, etc.). Speak with your GM otherwise regarding this interaction.
 
-## Subordinates [BTH]
+## Subordinates
 
 A subordinate is any controlled character gained by class features, talents, feats, or other effects. This is a specific term to be used for when an ability or effect applies to all creatures under an individual character’s control, rather than all allies or a specific type of controlled character.
 
@@ -610,7 +610,7 @@ However, in a low-magic game where players have few magic items, or a game that 
 
 Some older products were not part of USoP and may have slight differences, such as referring to talents that got renamed. These older products are still generally compatible, and if there are small issues like that, the GM should simply substitute the new option(s) as needed.
 
-## Wish to Duplicate Sphere Effects [FotC]
+## Wish to Duplicate Sphere Effects
 
 The wish, miracle, and limited wish spells may be used to replicate magic sphere effects. The limited wish spell allows the character to create a single sphere effect they could create as if they possessed three additional magic talents for which they meet the prerequisites. The wish and miracle spells operate the same way, save that they effectively grant 5 talents rather than 3. Limited wish may not be used to gain advanced talents, although wish or miracle may at GM discretion.
 

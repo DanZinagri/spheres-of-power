@@ -24,7 +24,7 @@ Drawbacks represent restrictions and methodologies used by a casting tradition, 
 
 While casting traditions are a great way to customize a world, it is possible to use Spheres of Power with no tradition at all, either as a specific choice, or simply because a player or GM does not wish to include them. In that instance, magic is considered to be innate, and is treated the same as spell-like abilities. In these cases, the magic has no restrictions on its use, no benefits associated with it, and defaults to using Charisma as the casting ability modifier (the ability score used to govern spell-like abilities). If a character gains a casting ability modifier without gaining casting (such as through a class feature) then later gains a casting tradition, the casting tradition’s casting ability modifier takes precedence.
 
-### Technology-Related Casting Drawbacks in Low Technology Settings [SUE]
+### Technology-Related Casting Drawbacks in Low Technology Settings
 
 GMs are strongly recommended against using the casting tradition drawbacks in this section [printed in *Ultimate Engineering*] in a setting where gizmos, mechanical machinery, or the progress of science are not common enough to cause one of these drawbacks to be relevant. If trying to use these casting tradition drawbacks where technology is infrequent, a GM could determine that masterwork metal objects (such as tools, weapons, etc.) and alchemical items (such as an alchemist’s fire) are treated as active Tinker sphere gizmos.
 
@@ -68,7 +68,7 @@ Each day you do not use a spell point, you may attempt a Fortitude save against 
 
 This counts as 2 drawbacks when determining boons and bonus spell points.
 
-#### Age of Reason [SUE]
+#### Age of Reason
 
 *The presence of science and technology interrupts your flow of magic.*
 
@@ -76,7 +76,7 @@ When within close range (25 feet + 5 feet per 2 MSB) of an active Tinker sphere 
 
 **Incompatible:** Clarke Compliance
 
-#### Anemic [Apoc]
+#### Anemic
 
 *Source: [Spheres Apocrypha: Casting Traditions 2](https://www.drivethrurpg.com/product/286903/Spheres-Apocrypha-Casting-Traditions-2?affiliate_id=549120)*
 
@@ -86,7 +86,7 @@ Your magic interferes with your natural circulation. If you are immune to bleed 
 
 You are mystically bonded to a single notable location such as a cave, large tree, spring, a magical laboratory or prominent stone formation and draw your magic from it. You must remain within a number of miles equal to your MSB to use your magic normally. Using magic outside this area requires you to attempt a concentration check (DC 20 + 1/2 the caster level) to produce the desired effect. Failure means time (and any spell points) are spent, but no effect happens. You may bond to a new site of the same general type with an 8 hour ritual.
 
-#### Burdened Magic [Archmagi's HB]
+#### Burdened Magic
 
 Without expending proper energy, it becomes difficult for you to utilize your magic. Whenever you attempt to create a sphere effect that costs less than 2 spell points, you must succeed at a concentration check (DC 15 + your caster level if the effect costs no spell points, or DC 10 + your caster level if it costs 1 spell point) or else the sphere effect fails to manifest and any actions and spell points spent on it are wasted. As part of creating a sphere effect, you may raise the spell point cost of the sphere effect to 2 if it would be lower.
 
@@ -106,7 +106,7 @@ At the GM’s discretion, certain kinds of physical restraint might also make sp
 
 You may not select this drawback if you possess the Focus Casting or Galvanized drawbacks.
 
-#### Charged Spells [Apoc]
+#### Charged Spells
 
 *Source: [Spheres Apocrypha: Casting Traditions](https://www.drivethrurpg.com/product/286411/Spheres-Apocrypha-Casting-Traditions?affiliate_id=549120)*
 
@@ -127,7 +127,7 @@ This drawback counts as 2 drawbacks for the purposes of determining boons. Tempo
 **Sequenced Magic: [Baron’s Imposing Mausoleum]** Your charges must be used in the order they are prepared. Whenever you prepare a charge, you may not use that charge unless you have used or dismissed every charge that you have prepared prior to that charge. You may prepare a single charge at a time as a “priority charge”, in which case you can use the priority charge freely but cannot use any other charges until you have spent the priority charge.
 **Incompatible:** Extended Casting
 
-#### Clarke Compliance [SUE]
+#### Clarke Compliance
 
 *Your magic is created or assisted through an external advanced mechanism, and as such is subject to many of the same limitations.*
 
@@ -145,9 +145,9 @@ Your effects are linked to you even after you spend a spell point to have them c
 
 Your magic is a fickle thing, or perhaps you are simply possessed of performance anxiety. If you attempt to use magic while you know you are being observed, you must attempt a concentration check (DC 15 + 1/2 the caster level) to produce the desired effect. Failure means time (and any spell points) are spent, but no effect happens. If you believe you are hidden or alone, even if you are not, you may use magic normally.
 
-**Addendum:** You may take this drawback a second time. If you do, observation of your magic by any creature other than yourself or a creature created by the effect negates its effects (as if they were inside a dead magic plane) for the duration that the effect or area of the effect is observed. If it has any remaining duration, the effect resumes as soon as nobody else is looking. A magic effect is considered to be observed if creatures can discern an overt effect as it is taking place (for example, a shapeshift or glamer would be suppressed if somebody is looking at it, but observing an active aegis or enhancement with no visible component would require some method of divination in order to be suppressed). [Alienist HB]
+**Addendum:** You may take this drawback a second time. If you do, observation of your magic by any creature other than yourself or a creature created by the effect negates its effects (as if they were inside a dead magic plane) for the duration that the effect or area of the effect is observed. If it has any remaining duration, the effect resumes as soon as nobody else is looking. A magic effect is considered to be observed if creatures can discern an overt effect as it is taking place (for example, a shapeshift or glamer would be suppressed if somebody is looking at it, but observing an active aegis or enhancement with no visible component would require some method of divination in order to be suppressed).
 
-#### Decrepit Casting [CrimDan]
+#### Decrepit Casting
 
 Your magic uses your own body as fuel, rapidly withering your form the more you utilize it. The first time each round you spend one or more spell points, you must succeed at a Fortitude save against a DC of 10 + 1/2 your caster level or have your body temporarily age. When you age, you suffer the penalties (but not the benefits) as if you had aged one age category.
 
@@ -169,7 +169,7 @@ Using magic saps your lifeforce. Whenever you spend one or more spell points you
 
 Your magic requires heightened emotional states of mind to use. When subject to a non-harmless effect that invokes an emotion (such as fear effects, demoralization, spells with the emotion descriptor, or (charms) such as Fear or Hostility) you are unable to use magic. You may use the metamagic feat Logical Spell to overcome this drawback.
 
-#### Expensive Locus [Apoc]
+#### Expensive Locus
 
 *Source: [Spheres Apocrypha: Casting Traditions](https://www.drivethrurpg.com/product/286411/Spheres-Apocrypha-Casting-Traditions?affiliate_id=549120)*
 
@@ -205,11 +205,11 @@ Being disarmed or having the weapon sundered counters any sphere abilities you a
 
 You may not select this drawback if you possess the Center Of Power or Focus Casting drawbacks.
 
-#### Incompatible Energies [S&P]
+#### Incompatible Energies
 
 The magic of your foes adversely affects yours to an extreme degree. When calculating your MSD, you use half your casting class levels instead of your full casting class levels. Whenever a spell you create is successfully dispelled, you cannot spend spell points for 1 round. In addition, if you possess the Alien Source boon, this drawback does not apply against other casters who draw from the same Alien Source as you.
 
-#### Innate Curse [Apoc]
+#### Innate Curse
 
 *Source: [Spheres Apocrypha: Casting Traditions 2](https://www.drivethrurpg.com/product/286903/Spheres-Apocrypha-Casting-Traditions-2?affiliate_id=549120)*
 
@@ -219,7 +219,7 @@ Not all curses are appropriate for this drawback, and the GM is the ultimate arb
 
 **Special:** If you already possess an oracle’s curse (or gain one later), then you retain this curse in addition to the other curse, but each curse must be a different type of curse and provide different kinds of benefits (even if you don’t possess the curse mastery feat).
 
-#### Madness Mantra [Apoc]
+#### Madness Mantra
 
 *Source: [Spheres Apocrypha: Casting Traditions](https://www.drivethrurpg.com/product/286411/Spheres-Apocrypha-Casting-Traditions?affiliate_id=549120)*
 
@@ -257,7 +257,7 @@ Your magic has a pacifying effect that can lull you to sleep. At the end of any 
 
 This counts as 2 drawbacks when determining the number of spell points gained.
 
-#### Oathbound Casting [DbH]
+#### Oathbound Casting
 
 Your magic derives from a covenant created with yourself or some other powerful entity. Select an Oath you have sworn. In the event that you break that Oath, forsake it, or have no Oaths to upkeep, you lose your spellcasting abilities until you atone, or select a new Oath to be the focus for your spellcasting in a ritual that takes 8 hours to complete.
 
@@ -295,13 +295,13 @@ You may select this drawback twice. If taken a second time, you cannot wear any 
 
 **Note:** With GM permission, it is possible to modify this drawback so that, when taken once, the caster may wear either light or medium armor but cannot use a shield without incurring a chance of arcane spell failure, mimicking the core bloodrager.
 
-#### Spell Stand-In [Apoc]
+#### Spell Stand-In
 
 *Source: [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)*
 
 In place of being able to cast spells directly, you must channel them through a summoned companion. You lose the ability to cast any sphere effect through yourself outside of summoning your companions. You gain the Conjuration sphere and the Spell Conduit talent as bonus talents, and the Spell Channel feat as a bonus feat.
 
-#### Substantial Magic [EO3]
+#### Substantial Magic
 
 Your magic manifests into tangible, corporeal substances, leaving them open to disruption. Any magic sphere effect you cast that has a duration longer than instantaneous manifests as a solid magic object that lasts for as long as the effect does.
 
@@ -321,11 +321,11 @@ Magic objects can be identified as being the source of a magic sphere effect (bu
 
 Your magic draws upon the primal energy and nutrients of the terrain. Whenever you use a sphere talent or ability you must either spend an additional spell point or increase your casting time by one step, else your magic drains and corrupts your space and all adjacent squares. Terrain that has been blighted in such a manner prevents those who possess the Terrain Casting drawback from using sphere talents or abilities as if it were a dead magic zone. Areas that have had its nutrients drained are affected in different ways depending upon location (water may turn brackish or stagnant, while soil may become barren or salted); regardless of location, blighted areas will generally heal naturally after a year.
 
-#### Unsettling Casting [Cata. HB]
+#### Unsettling Casting
 
 You take 1 point of strain damage every time you cast a spell, plus an additional point of strain damage for every spell point beyond the first that you spend. This strain damage cannot be removed until at least 24 hours after it is taken. Strain damage gained from effects created within 1 minute of each other is cumulative for the purpose of determining if a character gains a severance.
 
-#### Unstable Storage [Mana HB]
+#### Unstable Storage
 
 The methods you have developed to store your magical potency are improperly practiced, dangerous, or otherwise fragile to others. You have some sort of obvious indicator of the levels of your magical reserves that alert any creature who can see you of how many spell points you have in reserve. The exact indicator varies across different casters, ranging from crystalline growths on their body that fade after magical use, to their skin color and tone draining the lower their spell point pool is.
 
@@ -333,7 +333,7 @@ Additionally, your spell point pool also serves as a bridge to your vitality. Wh
 
 **Author's Note:** The exhausted, fatigued, and sleep conditions caused by this drawback bypass any immunity to those conditions. You can be woken up from sleep normally unless some other effect prevents that.
 
-#### Vampiric Casting [CrimDan]
+#### Vampiric Casting
 
 Your magic is conjured through the lifeforce of creatures you have consumed. After you rest and regain spell points, your caster level with all spheres you possess is reduced to 1 (after any bonuses, but before penalties are applied). If your caster level with a sphere was already 1 or lower, it instead becomes 0.
 
@@ -351,7 +351,7 @@ This drawback counts as 2 drawbacks when determining the number of spell points 
 
 You must speak in a loud, clear voice to cast spells. Using magic alerts all nearby hearing creatures to your presence and location, effectively breaking stealth. You cannot cast in an area of magical silence, or in any other situation where you are unable to speak clearly.
 
-#### Vulnerable Spellcaster [Mana HB]
+#### Vulnerable Spellcaster
 
 Your magical capabilities are directly linked to your physical state. When suffering from a condition or effect that bestows an attack penalty (or penalty, ability damage or ability drain to any physical ability score), you apply the largest penalty (counting ability damage or drain as a penalty) to your caster level. These penalties stack if you have multiple conditions, although they may not reduce your caster level below 1. Other penalties to your caster level may reduce your caster level to below 1, in which case any attempt to cast a sphere effect automatically fails, and the spell points are wasted. Additionally, you may not utilize magic while suffering from the frightened or panicked conditions.
 
@@ -395,7 +395,7 @@ Boons are ‘purchased’ through general drawbacks; a caster must possess 2 gen
 | 4 | +1, +1 per 1.5 levels in a casting class (2, 3, 5, 6, etc.) |
 | 5 | +1 per level in a casting class |
 
-#### Alien Source [S&P]
+#### Alien Source
 
 You draw your magic from an unusual location, such as technology or an alternate matrix of magic (the specifics of this source should be determined by the player and GM together). Those who do not understand the mechanics of your powers struggle to resist them. Casters take a -2 penalty on any attempts to counterspell your abilities. Spell resistance against your abilities is reduced by 2. In addition, you gain a bonus to MSD equal to half your character level against effects which would suppress your magic (such as the Spell Ward talent of the Protection sphere) and do not take the penalty to MSD from Incompatible Energies when resisting such effects. These abilities can be ignored by a caster if they possess the same Alien Source as you from this boon, the Harmonic Counter feat, or a certain magic sphere that you possess (the magic sphere is chosen by you at the time you select this boon).
 
@@ -451,7 +451,7 @@ Your sphere abilities are cast with a +1 competence bonus to caster level whenev
 
 You may overcharge your magic, giving yourself great power at the cost of your own strength. Whenever you use a sphere ability, you may give yourself a +2 competence bonus to your caster level for that ability, but you become fatigued afterward. If you are already fatigued, you become exhausted. If you are exhausted, you collapse to the ground unconscious for 1d4 rounds. Creatures immune to fatigue cannot benefit from this boon.
 
-#### Overconsumption [CrimDan]
+#### Overconsumption
 
 If you have fully removed your penalty from your Vampiric Casting drawback and drain a creature’s blood, instead of having the blood drain count towards how many creatures you have drained blood from in the next day, you can choose to instead gain a +1 competence bonus to your caster level, or +2 if you have the Vampiric Casting drawback twice, on the next sphere effect you create in the next minute. This bonus stacks with itself, up to a maximum of a +2 competence bonus. You must have the Vampiric Casting drawback to select this boon.
 
@@ -463,7 +463,7 @@ Creatures under the effects of at least 1 of your sphere abilities suffer a -1 p
 
 At the beginning of your turn when you take damage from an ongoing bleed effect, you gain a +1 competence bonus to your caster level until the start of your next turn.
 
-#### Unbound Magic [DRS]
+#### Unbound Magic
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -477,7 +477,7 @@ If you create a magical effect that is an area of effect and can be moved during
 
 Your magic is blended into your performance making it more difficult to identify. Observers must attempt a Perception or Sense Motive check opposed by your Skilled Casting check to realize that you are even invoking magic. You must possess the Skilled Casting drawback to select this boon, and cannot possess drawbacks such as Center of Power, Magical Signs, or Witchmarked that specifically reveal the nature of your casting.
 
-#### Wild Surge [WM]
+#### Wild Surge
 
 As a free action, you may gain a +2 competence bonus to caster level to the next sphere effect you cast before the start of your next turn by increasing your wild magic chance by 100% for the same period.
 
@@ -729,7 +729,7 @@ It is often said that music can soothe the savage beasts of the world, but the k
 **Drawbacks:** Skilled Casting (Perform (any)), Somatic Casting x2; Animal Shaman (Mind)
 **Boon:** +1 spell point per odd level in casting classes.
 
-#### Blighter [Cata. HB]
+#### Blighter
 
 Drawing power from the destruction of life, blighters are twisted divine casters who reduce the land around them to a desiccated echo of its former virility. Be they worshipers of blight gods or thieves of natural magics, blighters are a hazard to living things wherever they tread.
 
@@ -763,7 +763,7 @@ The fast-talking and wild gesticulating arm movements are similar enough to the 
 **Drawbacks:** Draining Casting, Somatic Casting, Verbal Casting; Lost In Translation (Mind)
 **Boon:** +1 spell point per odd level in casting classes.
 
-#### Caffiend [Jester's HB]
+#### Caffiend
 
 Caffiends are an odd blend of addicts and savants who draw strength from their love of coffee, tea, or other caffeine-laden drinks.
 **Casting Ability Modifier:** Intelligence
@@ -802,7 +802,7 @@ Somewhere in the bowels of the criminal underworld, an alchemist cracked the cod
 **Drawbacks:** Addictive Casting, Material Casting, Wild Magic
 **Boon:** +1 spell point per odd level in casting classes.
 
-#### Corrupted Apostle [Cata. HB]
+#### Corrupted Apostle
 
 Sometimes, those who delve into the arts of magic find themselves drawn towards dark paths, paths which lead them to sacrifice their very humanity for promises of greater power. As their condition progresses, these corrupted apostles take on ever more alien forms.
 
@@ -810,7 +810,7 @@ Sometimes, those who delve into the arts of magic find themselves drawn towards 
 **Drawbacks:** Addictive Casting, Innate Curse, Unsettling Casting, Witchmarked
 **Boons:** Drawback Feat (Witchwarped), +1 spell point, +1 per 1.5 levels in a casting class.
 
-#### Defiler [Cata. HB]
+#### Defiler
 
 Defilers are a distinct type of arcanist who have discovered how to draw magic from the environment around them. However, such incredible power destroys the caster’s surroundings, making any defiler a serious danger regardless of their intentions.
 
@@ -818,7 +818,7 @@ Defilers are a distinct type of arcanist who have discovered how to draw magic f
 **Drawbacks:** Magical Signs, Material Casting, Prepared Caster, Somatic Casting (2), Terrain Casting, Verbal Casting
 **Boons:** Drawback Feat (any one Defiler feat), +1 spell point level in a casting class.
 
-#### Demonology [SB:DE]
+#### Demonology
 
 This arcane casting tradition is a subdivision of the Blood Magic casting tradition. Not surprising, the demonology casting tradition is found almost exclusively among demonologists, evil outsiders, and fiend-worshiping casters.
 
@@ -838,13 +838,13 @@ A divine petitioner gains their magic through service and prayer to a divine sou
 **Drawbacks:** Focus Casting, Prepared Caster, Verbal Casting; Aligned Combatant (Destruction), Aligned Protection (Protection)
 **Boon:** +1 spell point per odd level they gain in casting classes.
 
-##### Divine Crusader [PGtS]
+##### Divine Crusader
 
 While paladins and antipaladins have much in common with clerics, they gain their power directly from the Algod or Ungod rather than through a single divinity, and as such it is their zeal for their alignment that determines their power, rather than priestly devotion. These beings are called divine crusaders, and use Charisma instead of Wisdom as their casting ability modifier.
 
 While divine crusaders do not answer to any one particular divinity, they are allies of either the Gods (if Good) or the Fiends (if Evil). A divine crusader can fall (or ascend), changing their alignment and allegiance (and often class), but a divine crusader loses all access to their powers if they are Neutral.
 
-##### Inquisitor [PGtS]
+##### Inquisitor
 
 There are those who are directly empowered by their deity but exist outside the general priesthood; inquisitors, who are trusted by their deity to act in ways a usual divine petitioner cannot. These casters are trusted with direct divine power and do not need to pray for their magic nor hold their liege’s holy symbol, but as a countermeasure, often possess a more limited measure of their deity’s power. Inquisitors only possess the Verbal Casting drawback, and only gain +1 spell point +1 per 6 levels.
 
@@ -864,11 +864,11 @@ A druid gains their magic through communion with nature and the spirits containe
 **Drawbacks:** Focus Casting, Prepared Caster, Verbal Casting; Animal Shaman (Mind)
 **Boon:** +1 spell point, +1 per odd level in casting classes.
 
-##### Hunter [PGtS]
+##### Hunter
 
 Sometimes, a creature, known as a hunter, gains their powers specifically through their connection to animals, taking on animalistic components themselves. While a normal druid must meditate on druidic ever morning to determine which powers he will hold within himself, a hunter gains a more limited power, but calls upon that power without the need for preparation. A hunter loses the Prepared Caster drawback and adjust their spell points accordingly.
 
-#### Elemental Shaman [Cata. HB]
+#### Elemental Shaman
 
 Scattered across the world are emissaries of the elemental planes, shamans of immense power who serve the primordial denizens of the elemental and paraelemental planes. These elemental shamans rely upon landmarks such as canyons, volcanoes, or oases for their power, and oftentimes become lost in the mighty forces from which they draw their magic.
 
@@ -876,7 +876,7 @@ Scattered across the world are emissaries of the elemental planes, shamans of im
 **Drawbacks:** Area Bound, Charged Spells, Material Casting, Material Focus (Creation, chosen element), Unsettling Casting, Verbal Casting, Witchmarked
 **Boons:** Atmoturgy, Drawback Feat (Environment Charge), +1 spell point, +1 per 2 levels in a casting class.
 
-#### Entropic Conduit [EO3]
+#### Entropic Conduit
 
 Beholden to an entity of pure destructive chaos, these cursed individuals (by choice or not) withstand great physical and mental agony to stop themselves from being overwhelmed by this entity, even for a moment. Thought to stabilize their magic even further, these entropic conduits use objects of great power or significance to ground them, and even then their magic manifests in strange, physical ways, as if to anchor itself further.
 
@@ -925,7 +925,7 @@ For some, the source of divine power does not come from without, but from within
 **Boon:** Easy Focus
 **Note:** Every creature with inherent divinity expressed their divinity in a unique fashion, often associated with whatever domains they or their parent is associated with. A caster with this tradition can select and gain up to 2 sphere-specific drawbacks of their choice.
 
-#### Keeper [Cata. HB]
+#### Keeper
 
 Keepers have pledged themselves to protecting a certain domain from devastation, be it a grove, an oasis, a religious landmark, or some other important location. They draw their power directly from this place, which can unfortunately work against its preservation in dire times.
 
@@ -949,7 +949,7 @@ Curses are terrible things and lycanthropy more so than most. For some casters, 
 **Drawbacks:** Wild Magic; Lycanthropic (Alteration)
 **Boon:** +1 spell point, +1 per six levels in casting classes.
 
-#### Material Transmuter [Cata. HB]
+#### Material Transmuter
 
 Oftentimes viewing themselves more as scientists than mages, material transmuters use advanced diagrams and a tremendous understanding of the physical world to reshape reality around them in myriad ways.
 
@@ -973,7 +973,7 @@ When the power of the spirit is properly cultivated through physical discipline 
 **Drawbacks:** Somatic Casting x2; Lycanthropic (Alteration), Meld Into Dark (Dark), Deathful Touch (Death), Destructive Touch (Destruction), Bodily Enhancement and Personal Magics (Enhancement), Personal Fate (Fate), Personal Illusion (Illusion), Touch Of Light (Light), Regenerate (Life), Limited Nature x2, Protected Soul (Protection), Personal Time (Time), Solo Combatant (War), Personal Warp (Warp)
 **Boon:** Easy Focus
 
-#### Morose Essentialist [Gravecaller's HB]
+#### Morose Essentialist
 
 A morose essentialist possesses a grim, pensive mindset to their applications of magic, often using undead they create or the treated, preserved bones of those they respect.
 
@@ -1030,7 +1030,7 @@ In a small Western kingdom, the princes and princesses are taught a unique casti
 **Drawbacks:** Extended Casting, Focus Casting (crown or coronet), Skilled Casting (Knowledge (nobility)), Verbal Casting
 **Boons:** Drawback feat (Careful Magic, Magical Focus), +1 spell point per six levels in casting classes.
 
-#### Shadow Tapper [Cata. HB]
+#### Shadow Tapper
 
 Shadow tappers draw upon a parallel field of magic which lies beneath the one commonly known, paying for knowledge of this arcane matrix with their willpower and humanity.
 
@@ -1038,7 +1038,7 @@ Shadow tappers draw upon a parallel field of magic which lies beneath the one co
 **Drawbacks:** Incompatible Energies, Somatic Casting x2, Unsettling Casting, Verbal Casting
 **Boons:** Alien Source (Dark), +1 spell point, +1 per 2 levels in casting classes.
 
-#### Shardbound [EO3]
+#### Shardbound
 
 There are some casters, known typically as shardbound, who fuse artistic expression and magic into their way of casting. Manifesting as floating shards of glass, shardbound must manifest their spells into these ‘shards’ before they can cast them, leaving them open to interruption and meddling.
 
@@ -1046,7 +1046,7 @@ There are some casters, known typically as shardbound, who fuse artistic express
 **Drawbacks:** Center Of Power, Charged Spells, Consciousness Linked, Somatic Casting, Substantial Magic, Unstable Storage.
 **Boons:** Drawback Feat (Combat Recharge), Easy Focus, +1 spell point, +1 per 1.5 levels in a casting class.
 
-#### Sin Wizard [Cata. HB]
+#### Sin Wizard
 
 Scattered among ancient tomes and strange relics are archives of an arcane tradition known as sin magic, a dangerous tradition which allows a wizard to unleash their unbridled vice upon the world. Sin magic comes in seven varieties, each tied to a deadly sin that serves as a foundation for their unique magic.
 
@@ -1087,11 +1087,11 @@ For some individuals, magic is truly in the blood, and all it takes to use it is
 **Drawbacks:** Somatic Casting x2, Verbal Casting
 **Boon:** +1 spell point per odd level in casting classes.
 
-##### Combat Sorcery [PGtS]
+##### Combat Sorcery
 
 Sometimes, a creature with sorcerous blood is so used to physical combat that their magic manifests in ways that are easier to control while encumbered. These casters only possess the somatic casting drawback once, and may not use shields while casting, but can wear light or medium armor. These creatures only gain +1 spell point at 1st level, +1 per 3 levels gained in casting classes.
 
-#### Spellscourged [EO3]
+#### Spellscourged
 
 Those that are spellscourged often carry a strange mutation of magic that causes it to manifest physically on the caster’s body, often leading to physical exhaustion. A side effect of this mutation that is seen as both a boon and a curse is that the physical manifestation on the caster’s body grows larger with each expenditure of magical energy, leaving them physically drained, but more magically potent as the mutation grows.
 
@@ -1099,7 +1099,7 @@ Those that are spellscourged often carry a strange mutation of magic that causes
 **Drawbacks:** Center Of Power, Draining Casting, Substantial Magic, Unstable Storage, Witchmarked.
 **Boons:** Empowered Abilities or Fortified Casting, +1 spell point, +1 per 1.5 levels in a casting class.
 
-#### Strange Mentalist [Cata. HB]
+#### Strange Mentalist
 
 Certain varieties of psychic power defy normal conventions of magic, resulting in unusual mages with a distinctive presence to their abilities. Utilizing esoteric energies of this sort requires a great deal of mental stability, a vulnerability foes are quick to exploit.
 
@@ -1123,7 +1123,7 @@ Traditional magic is the study of the natural world, astronomy, alchemy, and anc
 **Drawbacks:** Material Casting, Prepared Caster, Somatic Casting x2, Verbal Casting
 **Boon:** +1 spell point per level in casting classes.
 
-#### Ur-Priest [Cata. HB]
+#### Ur-Priest
 
 Many spellcasters gather divine power through a communion with their god, but there are some who steal the might of the gods without giving anything in return. These ur-priests channel immense amounts of divine magic through their forms, magic they sometimes struggle to contain.
 
@@ -1139,7 +1139,7 @@ Where some spellcasters learn their magical talents through their blood or throu
 **Drawbacks:** Magical Signs, Unstable Storage, Vulnerable Spellcaster.
 **Boon:** +1 spell point per odd level.
 
-#### Void Priest [Cata. HB]
+#### Void Priest
 
 Sometimes, clerics extend their devotion to gods who will not listen, either because their gods are dead, unwilling to answer prayers, or in truth have never existed at all. Nonetheless, the faith of these void priests is sometimes strong enough to draw divine energies from other, unknown sources.
 
@@ -1163,7 +1163,7 @@ A wild-born is someone who was raised by magical creatures: the adopted children
 **Drawbacks:** Focus Casting, Verbal Casting
 **Boon:** Bound Creature
 
-#### Wilder [Cata. HB]
+#### Wilder
 
 Similar to strange mentalists, wilders tap into warped energies within their mind to fuel their powers. However, a wilder’s powers operate on emotion rather than logic, becoming much more volatile as a result.
 
@@ -1179,11 +1179,11 @@ Considered a subset of traditional magic, wizardry takes a lot of study, using m
 **Drawbacks:** Focus Casting, Magical Signs, Material Casting, Prepared Caster, Somatic Casting x2, Verbal Casting
 **Boons:** Metamagic Expert, +1 spell point per level in casting classes.
 
-##### Combat Wizardry [PGtS]
+##### Combat Wizardry
 
 Sometimes, such as with the magus, a practitioner of wizardry focuses on its application in combat to such an extent that they become extremely proficient at using magic in armor. These casters may use magic in light armor or when using a shield without invoking a chance of arcane spell failure, but only gain +1 spell point, +1 per 1.5 levels (2, 3, 5, 6, etc.) from their tradition.
 
-##### Witchcraft [PGtS]
+##### Witchcraft
 
 A witch is very similar to a wizard, except where a wizard studies out of books, a witch studies by communing with otherworldly forces via a guiding intelligent animal called a familiar. They use their familiar as their focus instead of a book or wand. The character has no problem casting magic so long as their familiar is alive and within Long range (400 ft. + 40 ft. per caster level). If the character doesn’t belong to the witch class (or another class that grants a familiar), they gain a familiar for this purpose, but only gain +1 spell point, +1 per 1.5 levels (2, 3, 5, 6, etc.) from their tradition. This can be combined with the combat wizardry sub-division, but this only grants +1 spell point at every odd level if using a class that doesn’t grant a familiar.
 

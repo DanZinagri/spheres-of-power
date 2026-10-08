@@ -406,28 +406,28 @@ You can always act in a surprise round. In addition, when a creature uses a read
 
 Add your mythic tier on Knowledge checks to learn the abilities of creatures you observe, and you learn a number of creature abilities equal to your mythic tier. If a creature you identify with a Knowledge check has damage reduction or energy resistance, you can spend one use of your mythic power as a free action to ignore one type of damage reduction (other than damage reduction/epic) or one type of energy resistance until the beginning of your next turn.
 
-### Magic Awareness (Sp) [3PP]
+### Magic Awareness (Sp)
 
 You gain arcane sight as a constant spell-like ability. This improves to *greater arcane sight* at mythic rank 6. In addition, you may spend a point of mythic power to cast *dispel magic* as a spell-like ability with a caster level equal to your character level. This improves to *greater dispel magic* at mythic rank 6.
 
 *Source: Card Casting 3: Volatile Variance*
 
-### Mythic Aristeia [HMH]
+### Mythic Aristeia
 
 This option makes use of the optional [[Aristeia]] rules and may be replaced by a 3rd-tier version presented below.
 You may spend two points of mythic power as a free action to enter Aristeia even when a trigger does not occur. When your Aristeia ends, you may negate any number of negative levels by spending 2 points of mythic power per negative level you wish to negate. This path ability counts as an Aristeia feat for the purpose of determining the level of Aristeia that a character can reach.
 
-### Mythic Execution [HMH]
+### Mythic Execution
 
 When performing a technique or casting a spell or ritual that would take longer than a standard action to cast, you may spend mythic power to reduce the time needed to use the ability. Each point of mythic power spent reduces the time needed to use the spell or technique by 1 round. If this would reduce the time below 1 round, the ability is reduced to a full-round action or a standard action if one additional point of mythic power is spent. You cannot spend more points of mythic power on a spell, technique, or ritual than your mythic tier.
 
-### Mythic Ritual Knowledge [HMH] [Utility]
+### Mythic Ritual Knowledge [Utility]
 
 For every mythic tier the character possesses, they select one mythic spell. They are capable of using that spell as a mythic ritual so long as they know or have created such a ritual (see Mythic Rituals for more information).
 
 This path ability may be selected multiple times, each time allowing for the selection of new mythic spells.
 
-### Transcorporeal Emissary (Sp) [3PP]
+### Transcorporeal Emissary (Sp)
 
 You gain *see invisibility* as a constant spell-like ability. In addition, you may spend a point of mythic power as a free action to interact with incorporeal targets as if they were corporeal and grant your weapons and armor the ghost touch property for 1 minute.
 
@@ -437,7 +437,7 @@ You gain *see invisibility* as a constant spell-like ability. In addition, you m
 
 ## 3rd-Tier Universal Path Abilities
 
-### Eternal Soul [Gravecaller's HB]
+### Eternal Soul
 
 Your soul has reached a level of immortality that transcends your body. You are immune to energy drain and negative levels from non-mythic sources. You may expend one use of mythic power to remove a number of negative levels from yourself equal to your mythic tier as a free action that can be taken even when it is not your turn.
 
@@ -449,7 +449,7 @@ You look youthful and ignore aging penalties to Strength, Dexterity, and Constit
 
 In addition, as a full-round action you can spend one use of your mythic power to change your appearance to match any age you wish. Your appearance is still your own; only your apparent age is changed. This change in your appearance is permanent until you spend another use of your mythic power to adopt a different apparent age. This is a supernatural polymorph effect that is suppressed whenever you use another polymorph effect.
 
-### Mythic Aristeia [3PP]
+### Mythic Aristeia
 
 This option makes use of the optional [[Aristeia]] rules.
 You may spend two points of mythic power as a free action to enter Aristeia up to a level equal to half your mythic tier even when an Activation is not applicable. When your Aristeia ends, you may negate any amount of ability burn from Aristeia by spending 2 points of mythic power per point of ability burn to all ability scores you wish to negate. This path ability counts as an Aristeia feat for the purpose of determining the level of Aristeia that a character can reach.
@@ -3516,7 +3516,7 @@ You gain two investigator talents that use your inspiration pool. You must meet 
 
 Once per day as a full-round action, you may change one investigator talent you know. In essence, you lose the investigator talent, and gain a new investigator talent to replace it, as if you had retrained the class feature. You may not swap out any investigator talent you are using as a prerequisite. You must meet any prerequisites of the new investigator talent.
 
-#### Mythic Fortuneteller Path [3PP]
+#### Mythic Fortuneteller Path
 
 Whenever you spend a fortune die, you may spend a point of mythic power to retain that specific roll for future use. Add your mythic tier to your hedgewitch level for determining your number of fortune dice.
 
@@ -5284,7 +5284,7 @@ When you successfully outwit a creature by tricking it when it has a disorientat
 
 You gain a second base sphere and gain a bonus mythic sphere mastery for a single base sphere you have. If you exchange Basic Magic Training for Extra Magic Talent, exchange this mythic feat for an additional mythic sphere mastery.
 
-#### Cautious Incantation (Mythic) [HMH]
+#### Cautious Incantation (Mythic)
 
 If you fail an incantation for which you may use the Cautious Incantation feat, you may spend a number of points of mythic power equal to the level of the incantation (to a maximum of your mythic tier) to negate the failure effect upon yourself (other creatures are affected normally). You cannot negate the failure effect of an incantation greater than your mythic tier.
 
@@ -5330,7 +5330,7 @@ You do not provoke attacks of opportunity for spellcasting when using Dual Wield
 
 When using Dual Wielding Mystic Strike, your sphere ability may use your weapon’s threat range (to a maximum of 18-20) instead of its own.
 
-#### Expedited Incantation (Mythic) [HMH]
+#### Expedited Incantation (Mythic)
 
 You do not need to increase the DCs of an incantation to perform it in half the time. If you spend a number of points of mythic power equal to the level of the incantation, you may reduce the casting time to 1/10th of the original casting time (minimum 1 minute).
 
@@ -5374,13 +5374,13 @@ Subtract your tier from the minimum CR of creatures when determining which creat
 
 You can make any number of additional attacks of opportunity per round. As a swift action, you can expend one use of mythic power to, until the start of your next turn, make attacks of opportunity against foes you have already made attacks of opportunity against this round if they provoke attacks of opportunity from you by moving. (This mythic feat does not allow you to make more than one attack of opportunity per triggering event.)
 
-#### Mythic Crafting Expertise (Item Creation, Mythic) [HMH]
+#### Mythic Crafting Expertise (Item Creation, Mythic)
 
 **Prerequisites:** Any item creation feat.
 
 **Benefit:** At the beginning of each day when you regain your uses of mythic power, you can expend one use of mythic power to accomplish eight hours of work on one magic item you are crafting. You can only do this once per day per item you are crafting, though you may also add an actual eight-hour work day toward the crafting of such an item. Unlike normal magic item crafting, work accomplished by expending a use of mythic power does not require any special work space or quiet (though the cost of making magic items created this way is normal). Additionally, by expending two uses of mythic power as a fullround action, you can change the magic properties of any item in your possession you are capable of crafting. For one hour the item loses one or more abilities of your choice and gains other magic properties of your choice. The total cost of the item with the new properties cannot exceed its total cost with its normal magic properties, and you must meet all the prerequisites of each magic property you temporarily grant the item.
 
-#### Mythic Play (Mythic) [3PP]
+#### Mythic Play (Mythic)
 
 **Prerequisites:** Card Casting (mana pool, stagnant pool)
 **Benefit:** as a free action, you may spend one point of mythic power to refund all spell points you have spent since the start of your turn. This free action may be taken outside of your turn. This does not cause Mana Point Cards you have spent to be turned to their original position, and they still no longer count towards the number of spell points you may spend.
@@ -5391,7 +5391,7 @@ You can make any number of additional attacks of opportunity per round. As a swi
 
 You may expend one use of mythic power to use Mystic Focus as a free action instead of a swift action. This does not allow you to regain martial focus more than once per round.
 
-#### Oneiric Assault (Mythic) [Alienist HB]
+#### Oneiric Assault (Mythic)
 
 **Prerequisite:** Dreamspace, Oneiric Assault, caster level 10th.
 
@@ -5417,7 +5417,7 @@ When you increase the damage dice from sneak attack using single strike mastery,
 
 Choose a sphere you have Skill Sphere Focus in. You gain an additional +1 to saving throw DCs for all abilities from that sphere; this stacks with all other increases to saving throw DCs. You may take this mythic feat more than once; each time you do, apply its effects to a different sphere you have Skill Sphere Focus in. The first time you take this mythic feat, you gain the mythic sphere mastery for the base sphere this mythic feat applies to.
 
-#### Solitary Incantation (Mythic) [HMH]
+#### Solitary Incantation (Mythic)
 
 **Prerequisites:** 5 ranks in any 1 skill, Solitary Incantation.
 
@@ -5473,25 +5473,25 @@ Outlined below are several mythic universal monster abilities designed to be use
 
 **Wiki Note:** These abilities are not intended for player characters. GMs should not allow players to take them, even if they are playing monstrous characters.
 
-#### Flexible Sphere Mastery [Cata. HB]
+#### Flexible Sphere Mastery
 
 Three times per day as a free action, the monster may gain the benefits of a mythic sphere mastery path ability which they do not have for 1 round.
 
-#### Imbued Incantation [Cata. HB]
+#### Imbued Incantation
 
 Select an incantation with a level no greater than the monster’s mythic rank - 1. The monster can perform that incantation in a process that takes 1 hour, treating all skill checks as if they had rolled the exact value needed to succeed. The monster must still provide any material or focus components for the incantation, although they may spend a point of mythic power to avoid the backlash.
 
 This ability can be selected multiple times. If this ability is selected a second time and is used to select an incantation already chosen, the incantation’s effects constantly emanate out from the monster to the incantation’s normal range (not any escalated form).
 
-#### Immunities [Cata. HB]
+#### Immunities
 
 The monster becomes immune to two of the following: ability damage, ability drain, aging, banishment, death effects, disease, divinations (as the Mind Blank advanced talent), energy drain, mind-affecting effects, paralysis, petrification, poison, polymorph, sleep, and stunning. Alternatively, the monster can become immune to a single energy type. These immunities can be bypassed by talents or similar effects as normal. This ability can be selected multiple times.
 
-#### Path Ability [Cata. HB]
+#### Path Ability
 
 The monster gains a single mythic path ability, be it a universal path ability or an ability from a specific path. The monster uses its mythic rank as its effective mythic tier for the purpose of effects and for meeting prerequisites. This ability can be selected multiple times.
 
-#### Talent Progression [Cata. HB]
+#### Talent Progression
 
 The monster gains a number of magic or combat talents equal to half their Hit Dice. If the monster does not already possess a caster level, they gain Advanced Magic Training as a bonus feat even if they do not meet the prerequisites. The monster also gains a casting tradition (if any of the selected talents are magic talents). This ability can be selected multiple times.
 

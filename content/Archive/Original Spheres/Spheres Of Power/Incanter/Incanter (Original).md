@@ -91,13 +91,13 @@ At 1st level, an incanter may choose a series of specializations, gaining additi
 **Admixture Adept (2 specialization points)**
 You gain the Admixture talent as a bonus magic talent. If you already possess the Admixture talent, you may instead select any talent from the Destruction sphere as a bonus talent. You also gain an admixture pool as an admixture savant of half your incanter level. These levels stack with admixture savant level for determining the size of your admixture pool.
 
-**Channel Energy (2 specialization points) [Core]**
+**Channel Energy (2 specialization points)**
 You may channel energy as the Cleric class feature a total number of times per day equal to 3 + your casting ability modifier, using your casting ability modifier in place of Charisma when determining its associated saving throw. You must choose whether to channel positive or negative energy when you gain this ability. Once this choice is made, it cannot be changed.
 
-**Cleric Domains (1 specialization point) [Core]**
+**Cleric Domains (1 specialization point)**
 You gain the powers and abilities associated with one cleric domain of your choice. This does not grant domain spells. Use your casting ability modifier in place of Wisdom when determining the power of your domains. You may take this specialization multiple times. Each time it is taken, gain a different domain.
 
-**Fey Servant (2 Specialization Points) [Fey HB]**
+**Fey Servant (2 Specialization Points)**
 You gain a familiar, as the wizard’s arcane bond option, using your incanter level in place of your wizard level to determine its bonuses. This stacks with levels gained from other sources. This familiar must be an animal. Its type becomes fey (granting low-light vision if not already possessed) and its fey nature is obvious from its unusual coloring and features.
 
 At 4th level, this familiar gains DR/cold iron equal to half your class level.
@@ -147,18 +147,18 @@ You gain mercies as a paladin of equal level. These mercies trigger whenever you
 **Omnimental Familiar (2 specialization points)**
 You gain a small [[Sphere Bestiary|omnimental familiar]] as the wizard’s arcane bond class feature. The omnimental never gains the speak with animals of its kind ability. At 6th level, you may determine range and line of sight for your destructive blasts from your familiar’s position instead of your own.
 
-**Sorcerer Bloodline (2 specialization points) [Core]**
+**Sorcerer Bloodline (2 specialization points)**
 You gain the bloodline powers (but not the bloodline spells, feats, or arcana) of one sorcerer bloodline of your choice. If you already gain a sorcerer bloodline from another class, this instead allows levels of that class and your incanter levels to stack when gaining and determining the powers and abilities of your sorcerer bloodline. Use your casting ability modifier in place of Charisma when determining the power of your bloodline, if it is higher.
 
 **Sword Birth (3 specialization points)**
 You gain armory arena at 1st level and enhanced armory at 3rd level as a [[Lingchi Warrior|lingchi warrior]] of your incanter level. You gain 1 arsenal trick at 5th level and every 5 levels thereafter. You may select arsenal tricks as if you were a lingchi warrior of your incanter level.
 
-**Sphere Specialization (3 specialization points) [Core]**
+**Sphere Specialization (3 specialization points)**
 You specialize in a sphere of your choice. When specializing in a sphere, you gain that sphere as a bonus sphere (or a magic talent belonging to that sphere if you already possess the base sphere) and gain a +1 bonus to your caster level with that sphere.
 
 In addition, you also gain a series of abilities associated with that sphere, as detailed below.
 
-#### [[Alteration]] [Core]
+#### [[Alteration]]
 
 **Shapeshifter’s Renewal (Su):** Whenever you apply a shapeshift to yourself and spend a spell point to maintain it without concentration, you heal 1 hit point per 2 incanter levels (minimum: 1) and may make a new saving throw against any poison or non-magical disease you are suffering from. At 11th level, you may choose to grant these bonuses to your allies when you place a shapeshift on them and spend a spell point to maintain it without concentration. At 20th level, you remove any poison and non-magical disease without the need for a roll and heal 1 hit point per incanter level when using this ability.
 
@@ -197,7 +197,7 @@ A slain blood construct may be replaced with an 8 hour ritual and sufficient blo
 
 **Hemorrhagic Aura (Su):** At 8th level, you can emit a 30-ft. aura that intensifies any bleed effects for a number of rounds per day equal to your incanter level. Hostile creatures within this area that are suffering from ongoing bleed effects must make a Fortitude save each round or suffer 1d2 points of Constitution damage that round. These rounds do not need to be consecutive.
 
-#### [[Conjuration]] [Core]
+#### [[Conjuration]]
 
 **Summoner’s Charm (Su):** Whenever you summon a companion from the conjuration sphere and maintain its presence through concentration, the companion remains for a number of rounds after you cease concentrating equal to 1/2 your incanter level (minimum 1) before disappearing. At 20th level, you may maintain one companion’s presence permanently, without concentration or needing to spend spell points. Only one companion may be maintained in this fashion at a time. You may designate another companion as permanent at any time, but doing so causes the previously-designated permanent companion to disappear.
 
@@ -205,7 +205,7 @@ A slain blood construct may be replaced with an 8 hour ritual and sufficient blo
 
 **Aura of Banishment (Su):** At 8th level, you can emit a 30-foot aura of banishment for a number of rounds per day equal to your incanter level. These rounds do not need to be consecutive. Any summoned or called creature in the area must make a Will save each round. Once the creature fails a Will saving throw, it is staggered as long as it remains inside the aura. If it fails a second Will saving throw, it is immediately sent back to its home plane and the spell or effect that summoned it immediately ends. If that spell or effect summoned more than one creature, only the creature that failed its saving throws is affected. If the summoned creature was a companion, it cannot be summoned again for 1 minute.
 
-#### [[Creation]] [Core]
+#### [[Creation]]
 
 **Creator’s Focus (Su):** Whenever you maintain an object you have created with the Creation sphere through concentration, that creation remains a number of additional rounds equal to 1/2 your incanter level after you stop maintaining concentration (minimum +1 round). At 20th level, you can make one creation permanent without concentrating or spending additional spell points. You can have no more than one creation made permanent in this way at one time. If you designate another creation as permanent, the previous permanent creation ends.
 
@@ -213,7 +213,7 @@ A slain blood construct may be replaced with an 8 hour ritual and sufficient blo
 
 **Forceful Alteration (Sp):** At 8th level, once per day when using an alter ability from the Creation sphere, you can alter an object at a range of Close instead of Touch. You may use this an additional time per day for every 6 levels beyond 8th.
 
-#### [[Dark]] [Core]
+#### [[Dark]]
 
 **Home in the Dark (Su):** You gain Blindsense 10 ft when within an area of dim light or darkness. This bonus increases by 5 ft per 5 incanter levels you possess, to a maximum 30 ft at 20th level. At 20th level, this becomes Blindsight.
 
@@ -221,7 +221,7 @@ A slain blood construct may be replaced with an 8 hour ritual and sufficient blo
 
 **Shadow Step (Sp):** At 8th level, you can use this ability to walk through the Shadow Plane and reappear as a standard action. You can travel up to 30 feet per incanter level per day in this fashion, either in a single round or broken up across multiple shadow steps. This movement must be used in 5 foot increments and does not provoke an attack of opportunity. Travel through the Shadow Plane is imprecise; when you arrive, you re-enter 1 square off target, as per the rules for thrown splash weapons. If this would place you in an occupied square, you instead arrive in the nearest safe location. When you arrive, you are cloaked in shadow and gain concealment for 1 round. You may bring other willing creatures with you, but you must expend an equal amount of distance for each additional creature brought with you. They likewise re-enter off target (roll location for each creature) and are cloaked in shadow for 1 round.
 
-#### [[Death]] [Core]
+#### [[Death]]
 
 **Power over Undead (Su):** You receive command undead or turn undead as a bonus feat. You can channel energy a number of times per day equal to 3 + your casting ability modifier, but only to use the selected feat. You can take other feats to add to this ability, such as Extra Channel and Improved Channel, but not feats that alter this ability, such as Elemental Channel and Alignment Channel. The DC to save against these feats is equal to 10 + 1/2 your incanter level + your casting ability modifier. At 20th level, undead cannot add their channel resistance to the save against this ability.
 
@@ -231,7 +231,7 @@ The bonus on attack rolls and saving throws increases by +1 for every 5 incanter
 
 **Spirit Touch (Sp):** At 8th level, you may grant yourself the ability to touch incorporeal creatures, as if your body, natural weapons, and wielded weapons were all under the effects of the ghost touch weapon special ability. While this ability is active, you are immune to the touch attacks of shadows, ghosts, and other incorporeal creatures. You can use this power a number of rounds per day equal to your incanter level. These rounds need not be consecutive.
 
-#### [[Destruction]] [Core]
+#### [[Destruction]]
 
 **Intense Magic (Su):** Whenever you create a destructive blast that deals hit point damage, add 1/2 your incanter level to the damage dealt (minimum: +1). This bonus damage is not increased by Empower Spell or similar effects. This damage is of the same type as the destructive blast. At 20th level, whenever you create a destructive blast you can roll twice to penetrate a creature’s spell resistance and take the better result.
 
@@ -243,7 +243,7 @@ One side of the wall, selected by you, sends forth waves of energy, dealing 2d4 
 
 If you evoke the wall so that it appears where creatures are, each creature takes damage as if passing through the wall. If any 5 ft length of wall takes 20 points or more of damage by its inverse element (acid for lightning, fire for cold, etc.) that length disappears.
 
-#### [[Divination]] [Core]
+#### [[Divination]]
 
 **Forewarned (Su):** You can always act in the surprise round even if you fail to make a Perception roll to notice a foe, but you are still considered flat-footed until you take an action. In addition, you receive a bonus on initiative checks equal to 1/2 your incanter level (minimum +1). At 20th level, anytime you roll initiative, assume the roll resulted in a natural 20.
 
@@ -261,7 +261,7 @@ The tactician divination sphere specialist focuses in protecting and relaying in
 
 **Share Information (Su):** When you use a (divine) talent, you can choose a number of creatures equal to your casting ability modifier within 60 feet. Those creatures gain the exact same information you gain from the (divine) talent for as long as you maintain concentration on it, although this is not enough to distract them or impose penalties in any way. You can use this ability a number of times per day equal to 3 + your casting ability modifier. This replaces the Divination sphere specialization, Diviner’s Fortune.
 
-#### [[Enhancement]] [Core]
+#### [[Enhancement]]
 
 **Physical Enhancement:** You gain a +1 enhancement bonus to one physical ability score (Strength, Dexterity, or Constitution). This bonus increases by +1 for every five incanter levels you possess to a maximum of +5 at 20th level. You can change this bonus to a new ability score when you rest to regain spell points. At 20th level, this bonus applies to two physical ability scores of your choice.
 
@@ -269,7 +269,7 @@ The tactician divination sphere specialist focuses in protecting and relaying in
 
 **Perfection of Self (Su):** At 8th level, as a swift action you can grant yourself an enhancement bonus to a single ability score equal to 1/2 your incanter level (maximum +10) for one round. You may use this ability for a number of times per day equal to your incanter level.
 
-#### [[Fallen Fey]] [Fey HB]
+#### [[Fallen Fey]]
 
 **Fey Skin (Ex):** While under the effects of your fey-link, you gain DR/cold iron equal to half your class level (minimum 1).
 
@@ -277,7 +277,7 @@ The tactician divination sphere specialist focuses in protecting and relaying in
 
 **Resist Fey Lures (Ex):** At 8th level, you may roll twice and take the better result on saves against mind-affecting abilities originating from creatures of the fey type.
 
-#### [[Fate]] [Core]
+#### [[Fate]]
 
 **Fated Protection (Su):** Your ability to see the strands of fate allows you to react to magic before it happens. You gain a +2 insight bonus on saving throws against sphere effects, spells, and spell-like abilities. This bonus increases by +1 for every five incanter levels you possess. At 20th level, whenever you would be affected by a sphere effect, spell, or spell-like ability that allows a saving throw, you can roll twice to save against the effect and take the better result.
 
@@ -285,7 +285,7 @@ The tactician divination sphere specialist focuses in protecting and relaying in
 
 **Tugging Strands (Su):** At 8th level, you can force a creature within line of sight to reroll any one roll that it has just made before the result of the roll is revealed. The result of the reroll must be taken, even if it is worse than the original roll. You can use this ability once per day at 8th level, and one additional time per day for every 6 levels beyond 8th.
 
-#### [[Illusion]] [Core]
+#### [[Illusion]]
 
 **Extended Illusions (Su):** Any illusion you create and maintain through concentration lasts a number of additional rounds equal to 1/2 your incanter level after you stop maintaining concentration (minimum +1 round). At 20th level, you can make one illusion permanent. You can have no more than one illusion made permanent in this way at one time. If you designate another illusion as permanent, the previous permanent illusion ends.
 
@@ -293,7 +293,7 @@ The tactician divination sphere specialist focuses in protecting and relaying in
 
 **Invisibility Field (Sp):** At 8th level, you can make yourself Invisible as the Invisibility Illusion talent (except with a +20 to your Stealth modifier) as a swift action for a number of rounds per day equal to your incanter level. These rounds do not need to be consecutive.
 
-#### [[Life]] [Core]
+#### [[Life]]
 
 **Life Essence (Su):** Add half your incanter level (minimum: 1) to your hit points, Fortitude saves to stabilize when dying, and to saving throws against Death effects. At 20th level, you become immune to death effects and gain Fast Healing 1.
 
@@ -301,7 +301,7 @@ The tactician divination sphere specialist focuses in protecting and relaying in
 
 **Life Sight (Su):** At 8th level, you gain Blindsight to a range of 10 feet for a number of rounds per day equal to your incanter level. This ability only allows you to detect living creatures and undead creatures. This sight also tells you whether a creature is living or undead. Constructs and other creatures that are neither living nor undead cannot be seen with this ability. The range of this ability increases by 10 feet at 12th level, and by an additional 10 feet for every four levels beyond 12th. These rounds do not need to be consecutive.
 
-#### [[Light]] [Core]
+#### [[Light]]
 
 **Lighteyes (Su):** Perception is always considered a class skill for you, and you gain a bonus equal to 1/2 your incanter level on all Perception checks. This bonus increases to being equal to your incanter level when detecting invisible or incorporeal creatures. At 20th level, you can see any objects or beings that are invisible within your range of vision, as well as any that are ethereal, as if they were normally visible. Such creatures are visible to you as translucent shapes, allowing you easily to discern the difference between visible, invisible, and ethereal creatures.
 
@@ -309,7 +309,7 @@ The tactician divination sphere specialist focuses in protecting and relaying in
 
 **Revelation Aura (Sp):** At 8th level, you can emit an aura of revelation for a number of rounds equal to your casting ability modifier, revealing all invisible creatures, illusions, and other magical means of disguising or obscuring within 30 ft of you. You may use this ability once per day, plus an additional time per day for every 6 levels beyond 8th.
 
-#### [[Mind]] [Core]
+#### [[Mind]]
 
 **Enchanting Smile (Su):** You gain a +2 enhancement bonus on Bluff, Diplomacy, and Intimidate skill checks. This bonus increases by +1 for every five incanter levels you possess, up to a maximum of +6 at 20th level. At 20th level, whenever you succeed at a saving throw against a spell of the enchantment school or an effect from the Mind sphere, that spell or effect does not affect you, and is instead reflected back at its caster.
 
@@ -317,7 +317,7 @@ The tactician divination sphere specialist focuses in protecting and relaying in
 
 **Aura of Despair (Su):** At 8th level, you can emit a 30-foot aura of despair for a number of rounds per day equal to your incanter level. Enemies within this aura take a –2 penalty on ability checks, attack rolls, damage rolls, saving throws, and skill checks. These rounds do not need to be consecutive. This is a mind-affecting effect.
 
-#### [[Nature]] [Core]
+#### [[Nature]]
 
 **Animal Companion (Su):** You gain an animal companion, as the druid class feature, treating your incanter levels as druid levels for this purpose.
 
@@ -327,7 +327,7 @@ The tactician divination sphere specialist focuses in protecting and relaying in
 
 During this time, the animal’s primal instincts take hold for the duration of this spell—if the animal knows tricks granted by the Handle Animal skill, it loses access to all of those tricks save for “attack.” Animals that already have the advanced creature template are unaffected by this ability. You may use this ability once per day, plus an additional time per day for every 6 levels beyond 8th.
 
-#### [[Protection]] [Core]
+#### [[Protection]]
 
 **Resistance (Ex):** You gain resistance 5 to an energy type of your choice, chosen when you rest to regain spell points. This resistance can be changed each day. At 11th level, this resistance increases to 10. At 20th level, this resistance changes to immunity to the chosen energy type.
 
@@ -355,7 +355,7 @@ At 15th level, the incanter may seed a ward with lattice blades, causing all squ
 
 At 20th level, the incanter may spend a standard action to wrap himself in a mobile sphere of lattice crystals. While encased, he gains improved cover against all attacks, has a fly speed of 30 with perfect maneuverability, and ignores difficult terrain. Whenever he moves, he can move through enemy squares, and when he does so the enemy must make a Reflex save with a DC of 10 + 1/2 the level of the incanter + his casting ability modifier or take 1d6 force damage for every level the incanter has gained. A successful save halves this damage. He may carry others with him inside the sphere, if he can physically pick them up but they are effectively unable to act while within.
 
-#### [[Telekinesis]] [Core]
+#### [[Telekinesis]]
 
 **Telekinetic Stability (Su):** You gain a +2 bonus to Fly checks, Acrobatics checks, and CMD. These bonuses increases by 1 for every 5 incanter levels you possess. At 20th level, whenever you make a Fly or Acrobatics check, assume the roll resulted in a natural 20.
 
@@ -363,7 +363,7 @@ At 20th level, the incanter may spend a standard action to wrap himself in a mob
 
 **Great Flight (Su):** Starting at 8th level, as a free action you may grant yourself a flight speed of 50 ft with perfect maneuverability for a number of minutes per day equal to your incanter level. This duration does not need to be consecutive, but it must be used in 1 minute increments.
 
-#### [[Time]] [Core]
+#### [[Time]]
 
 **Fast (Su):** You gain a +10 bonus to your base movement speed. This bonus increases by 5 ft for every 5 incanter levels you possess. At 20th level, you may spend a swift action to take an extra move action, but this move action may only be used to move.
 
@@ -371,7 +371,7 @@ At 20th level, the incanter may spend a standard action to wrap himself in a mob
 
 **Retry (Su):** At 8th level, as an immediate action, you may force a target within 30 ft of you to reroll a saving throw, skill check, attack roll, or ability check they just made, taking the second result regardless of whether it is worse or better. You must decide to use this ability after the roll is made but before the results are revealed. You may use this ability once per day at 8th level, plus an additional time for every 6 levels beyond 8th.
 
-#### [[War]] [Core]
+#### [[War]]
 
 **War Mage (Ex):** You gain proficiency and Weapon Focus with one martial weapon of your choice. At 5th level, you gain Weapon Specialization with that weapon. At 10th level, you gain Greater Weapon Focus with that weapon. At 15th level you gain Greater Weapon Specialization with that weapon. At 20th level, you may roll all your attack rolls with that weapon twice, taking the higher result.
 
@@ -379,7 +379,7 @@ At 20th level, the incanter may spend a standard action to wrap himself in a mob
 
 **Cooperative Defense:** At 8th level, whenever a spell or effect targets you and one or more allies within 30 feet, you can use this ability to allow your allies to use your saving throw against the effect in place of their own. Each ally must make this choice individually before the rolls are made. Using this ability is an immediate action. You can use this ability once per day at 8th level, and one additional time per day for every four incanter levels beyond 8th.
 
-#### [[Warp]] [Core]
+#### [[Warp]]
 
 **Warp Mastery (Su):** Whenever you use the teleport ability from the Warp sphere, increase the distance you may teleport by 5 ft per incanter level. At 20th level, double the distance you may teleport, including this bonus.
 
@@ -387,7 +387,7 @@ At 20th level, the incanter may spend a standard action to wrap himself in a mob
 
 **Dimensional Lord (Sp):** At 8th level, whenever a creature attempts to use a teleportation effect or summon a creature within 30 feet of you, you may attempt to block the effect. Make a magic skill check as an immediate action. If the check succeeds, the effect or spell fails and is wasted; otherwise, it is unaffected. You can use this ability once per day plus one additional time for every 6 incanter levels you possess beyond 8th.
 
-#### [[Weather]] [Core]
+#### [[Weather]]
 
 **Untouched (Su):** Treat all weather effects as being 1 step lesser in severity. This improves to 2 steps at 11th level, and 3 steps at 20th level.
 
@@ -427,7 +427,7 @@ If the (blast type) talent chosen has additional spell point costs, an additiona
 
 **Benefit:** When you channel energy, instead of its normal effects, you may instead grant those within range a single attack. These attacks are made immediately in initiative order. Each attack receives a bonus to damage equal to the number of dice you would have rolled for your channel energy.
 
-#### Contingency [Core]
+#### Contingency
 
 **Prerequisites:** Casting class feature, 10th caster level or higher.
 
@@ -450,19 +450,19 @@ If a contingency remains unused when a caster rests to regain spell points, they
 
 You may only target your own contingencies, as well as any other contingencies that you know the trigger condition for.
 
-#### Create Spell Book [Core]
+#### Create Spell Book
 
 **Prerequisites:** Casting class feature, Spellcrafting.
 
 **Benefit:** You may write down your spells in a magic book, allowing you access to more spells than the usual limit. See the Advanced Magic section for more information on spellcrafting and spellbooks.
 
-#### Extra Magic Talent [Core]
+#### Extra Magic Talent
 
 **Prerequisite:** Basic Magic Training or Casting class feature.
 
 **Benefit:** Gain an additional sphere or a talent from a sphere you possess. You may take this feat multiple times. The effects stack.
 
-#### Extra Spell Points [Core]
+#### Extra Spell Points
 
 **Prerequisite:** Spell Pool.
 
@@ -474,7 +474,7 @@ You may only target your own contingencies, as well as any other contingencies t
 
 **Benefit:** Whenever you use your lay on hands or fervor ability to heal a creature, you may invigorate or restore the same creature as part of the same action. You must pay the normal spell point cost of the ability.
 
-#### Ritual Caster [Core]
+#### Ritual Caster
 
 **Prerequisite:** Casting class feature.
 
@@ -488,19 +488,19 @@ You have learned much of ritual magic, and can call upon a wider variety as your
 
 **Benefit:** You may use any ritual under your magic type (arcane, divine, psychic), not only those tied to your specific tradition.
 
-#### Ritual Master [Core]
+#### Ritual Master
 
 **Prerequisites:** Casting class feature, Ritual Caster.
 
 **Benefit:** You may use your MSB in place of your caster level when using rituals.
 
-#### Spellcrafting [Core]
+#### Spellcrafting
 
 **Prerequisite:** Casting class feature.
 
 **Benefit:** You may mix and match powers from various spheres into spells of your own creation. See the Spellcrafting page for more information.
 
-#### Sphere Focus [Core]
+#### Sphere Focus
 
 **Prerequisite:** Casting class feature.
 

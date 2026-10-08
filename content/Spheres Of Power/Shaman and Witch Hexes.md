@@ -13,11 +13,11 @@ The following are new shaman and witch hexes.
 
 ## Regular Hexes
 
-#### Blind Eye [DbH]
+#### Blind Eye
 
 Whenever a creature fails a saving throw against one of the witch's hexes, the witch is considered to have partial concealment against that creature for 1 round. This improves to total concealment at 16th level. If the cackle hex is used while blind eye is active, the duration of blind eye increases by 1 round.
 
-#### Contagious Fervor (Su) [BaP]
+#### Contagious Fervor (Su)
 
 The witch may bestow visions of battle onto the target, granting them the benefits of a War sphere totem. When the witch first gains this hex, the witch chooses one basic (totem) talent from the War sphere (including Totem Of War) that does not require a spell point. The witch can grant the effects of that (totem) talent to one willing target within 30 feet for 2 rounds, using her witch level as her War sphere caster level when determining the effects of that totem. Once per round as a free action, the target of this hex can target one other willing creature within 30 feet to gain the effects of the chosen (totem) talent for the duration of this hex. Creatures granted the benefits of the (totem) talent this way do not gain the ability to share it with other creatures. When the duration of this hex ends, all affected creatures lose any bonuses granted by this hex.
 
@@ -25,11 +25,11 @@ At 5th level and every 5 levels thereafter, the duration of this hex is extended
 
 **Special:** If the witch possesses the War sphere, this hex counts as possessing the chosen (totem) talent for all purposes, but does not grant the ability to create totems if the witch possesses a drawback that removes her ability to create totems. If the witch chooses Totem Of War as the (totem) for this hex, she instead counts as possessing any other one (totem) talent of her choice.
 
-#### Copious Corruption (requires withering witch) [DbH]
+#### Copious Corruption (requires withering witch)
 
 The witch gains 2 additional uses per day of her corrupted magic class feature.
 
-#### Destructive Curse (Su) [BaP]
+#### Destructive Curse (Su)
 
 The witch afflicts the target with a curse that wracks the target’s body with destructive energy. When the witch first gains this hex, the witch chooses one basic (blast type) talent from the Destruction sphere that does not require a spell point. The witch can cause a creature within 30 feet to be afflicted by a curse that carries the chosen blast type. The creature receives a Will save to negate the effect. If the creature fails its saving throw, the cursed creature takes 1 point of damage per witch level, plus any additional effects that (blast type) inflicts. The damage dealt by this hex is the same damage type as the chosen (blast type) talent. A creature cursed by this hex continues to suffer for a number of rounds equal to the witch’s casting ability modifier, suffering the curse’s damage and additional effects again at the end of its turn unless the creature succeeds at a Will saving throw. A successful saving throw negates the curse’s effect and ends this effect. Whether or not the save is successful, a creature cannot be the target of this hex again for 1 day. This hex is a curse effect.
 
@@ -47,14 +47,14 @@ A witch can use this hex to curse a creature within 30 feet, causing their wound
 
 You may spend a spell point as a swift action to create a frightening illusion that lasts momentarily. You may attempt an Intimidate check to demoralize all foes within 30 feet of the illusion.
 
-#### Grasped Conduit (Su) [DRS]
+#### Grasped Conduit (Su)
 *Source: Diamond Spheres: Magical Organizations*
 
 The witch selects a single implement special ability with the grasped quality (as found later in this book) and designates an object to function as the implement (such as a fetish, an existing wand or spellcasting object, or similar), referred to here as the "**grasped conduit**". The witch may reselect the implement special ability and the designated object for their grasped conduit each day when they rest and regain their resources. The grasped conduit must be wielded to confer its "grasped" bonuses, but otherwise may be used for its normal effects so long as the grasped conduit is on the witch's person.
 
 When determining the effects of the selected implement special ability, the witch's grasped conduit has an effective enhancement level equal to 1 + 1 per 3 witch levels (minimum 1; this effective bonus can exceed +5).
 
-#### Moldable Magics (Ex) [BaP]
+#### Moldable Magics (Ex)
 
 The witch receives one moldable magic talent, as the sphere arcanist moldable talents class feature. The witch must possess spherecasting to select this hex.
 
@@ -62,7 +62,7 @@ The witch receives one moldable magic talent, as the sphere arcanist moldable ta
 
 While in any area that has only dim light or is darker you have fast healing 1. This ability can only heal you up to half your normal maximum hit points; any excess healing is lost. In addition, any melds you create work on yourself in the same areas without needing to be within an area of your darkness.
 
-#### Sight Beyond Sight (Sp) [BaP]
+#### Sight Beyond Sight (Sp)
 
 The witch may spend 1 minute to glimpse her own fate. This hex functions as the Divination sphere Divine Future talent, using her witch level as her Divination sphere caster level when determining the effects and duration. The witch may use this hex once per day, plus one additional time for every 4 witch levels she possesses. A witch may only have one sight beyond sight effect active at a time.
 
@@ -74,11 +74,11 @@ Choose any eliciter emotion. You may use the first ability of the emotion using 
 
 ## Major Hexes
 
-#### Coven Casting [DbH]
+#### Coven Casting
 
 The witch gains Circle Casting or a single proxy feat as a bonus feat. She must meet the prerequisites for the feat to select this major hex. This major hex may be selected multiple times. Each time, the witch selects another feat.
 
-#### Empowered Familiar [DRS]
+#### Empowered Familiar
 *Source: Diamond Spheres: Magical Organizations*
 
 **Prerequisite:** Familiar.
@@ -96,7 +96,7 @@ This section contains new witch hexes, available to both witches and shamans, as
 
 Major hexes and grand hexes in this section may only be selected by classes which regularly access hexes of these kinds, primarily witches, but potentially archetypes and other sources.
 
-#### Three Crones Aspect (Su) [DRS]
+#### Three Crones Aspect (Su)
 *Source: Diamond Spheres: Magical Organizations*
 
 The witch has mastered the aspects of the Maiden, the Mother, and the Crone, the three aspects of the great crone. The witch becomes immune to magical aging and may no longer die of old age.

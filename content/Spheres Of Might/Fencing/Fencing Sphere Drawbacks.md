@@ -14,13 +14,13 @@ The [utility start] tag is described in Spheres of Guile. It is only possible to
 
 **Piecemeal Utility Starts:** If you have a progression or optional replacement that grants a [utility] combat talent or a [utility] magic talent, you can use it to gain a base sphere if you apply a drawback or combination of drawbacks that removes all of that base sphere’s benefits other than skill ranks and [utility] talents (and actions necessary to use such talents).
 
-#### Active Defense [SA:MD]
+#### Active Defense
 
 You do not gain the fatal thrust ability and cannot select (exploit) talents or talents that rely on the sphere’s precision damage. You gain Impassable Defense with this drawback.
 
 **Incompatible:** Distracting, Defensive Style.
 
-#### Defensive Style [SA:MD]
+#### Defensive Style
 
 You do not gain the fatal thrust ability and cannot select (exploit) talents or talents that rely on the sphere’s precision damage. You gain Masterful Defense with this drawback.
 
@@ -30,17 +30,17 @@ You do not gain the fatal thrust ability and cannot select (exploit) talents or 
 
 You do not gain the bonus precision damage from the Fencing sphere. You may not take (exploit) talents, and must take Expert Feint with the bonus talent you receive from this drawback.
 
-#### Interrogator (Utility Start) [LotS]
+#### Interrogator (Utility Start)
 
 You do not gain the fatal thrust ability. You gain Isolating Repartee as a bonus talent.
 
-#### Menacing Feint [SA:MD2]
+#### Menacing Feint
 
 You do not gain the fatal thrust ability and cannot select (exploit) talents or talents that rely on the sphere’s precision damage. You gain Open Guard with this drawback.
 
 **Incompatible:** Active Defense, Distracting, Defensive Style.
 
-#### Virtuous [Apoc]
+#### Virtuous
 
 *Source: [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)*
 

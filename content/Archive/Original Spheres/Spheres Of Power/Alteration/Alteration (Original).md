@@ -13,7 +13,7 @@ parent: "[[Original Spheres]]"
 
 You have the ability to change the physical makeup of creatures.
 
-# Shapeshift [Core]
+# Shapeshift
 
 As a standard action you may shapeshift yourself or a touched creature, changing their form for as long as you concentrate. If the target is unwilling, this costs a spell point, and they are allowed a Fortitude save to negate. You may spend a spell point to allow a shapeshift to remain for 1 minute per caster level without concentration. You may dismiss your shapeshift as a free action.
 
@@ -31,7 +31,7 @@ This cannot be used to assume the guise of a specific individual creature, but o
 
 When a caster first gains the Alteration sphere, they may grant creatures the Blank Form and the traits listed below. Additional forms and traits may be gained by taking Alteration talents. Any trait may be granted to any form.
 
-#### Blank Form [Core]
+#### Blank Form
 
 Unlike other forms, the Blank Form does not change the creature’s basic makeup. They do not gain the +10 bonus to Disguise checks, nor do they lose their abilities, equipment, natural attacks, or any other aspect of their unaltered form. The Blank Form allows a caster to add traits to a creature without fundamentally changing the target first. A caster may grant the following traits to a creature affected by their shapeshift. A target must possess the appropriate limb where listed, and cannot grant a natural attack to a limb that already possesses a natural attack.
 
@@ -60,7 +60,7 @@ You may add the following additional traits to your forms:
 - **Mucus:** The target gains the ability to release a mucus cloud with a radius of 5 ft. +5 ft. per 5 caster levels that persists for 1 round per caster level unless dispersed by a strong wind. Once this ability is used, it cannot be used again for 1d4 rounds. Any creature that comes in contact with the cloud must make a Fortitude save with a DC of 10 + 1/2 HD + Constitution modifier or become unable to breathe air but can breath underwater for 1 round per caster level or until they spend a standard action removing the mucus. A creature unable to breathe air that remains out of water begins to suffocate.
 - **Roper Strands:** The target gains a roper strand. This trait may be granted multiple times, granting an additional roper strand per additional trait. As a standard action, (or full-round action if using multiple strands), the target may launch their strands, making one ranged touch attack per strand at a target within Close range. Each strands clings to the target, causing 1 Strength damage each round they remain attached (increasing by 1 die size per 5 caster levels; i.e. 1, 1d2, 1d3, 1d4, 1d6, etc.). A Fortitude save (10 + 1/2 HD + Con modifier) negates this damage for the round. A creature cannot be affected more than once per round. Strands have an HP, and Hardness equal to the effect’s caster level, and a break DC, escape artist DC, and AC equal to 10 + the effect’s caster level. However, strands are instantly severed by any slashing damage, which bypasses its hardness automatically. Creatures connected by roper strands may not move away from each other, though may choose to move closer or laterally. Moving farther requires severing the strand with an attack, breaking it with a strength check, or removing it with an escape artist check, or succeeding on a drag combat maneuver against the target they are connected to. When two targets are connected by a strand, they may make drag combat maneuver checks against each other at range without provoking attacks of opportunity. If a strand is broken, the target instantly regrows the strand, and may still make strand attacks.
 
-#### Additional Limbs [Core]
+#### Additional Limbs
 
 You may apply the following traits to any form. You may grant each trait multiple times.
 
@@ -88,7 +88,7 @@ You may add the following additional traits to your forms:
 - **Initiative:** The target gains quickened reactions, granting a +4 competence bonus to initiative.
 - **Uncanny Dodge:** The target gains extraordinary reactions, granting Uncanny Dodge as the rogue ability. The target is no longer flat-footed at the start of combat nor loses Dexterity to AC against invisible attackers. If the target is granted this trait a second time or already has the Uncanny Dodge ability from another source, they instead gain Improved Uncanny Dodge as the rogue ability. The target can no longer be flanked. This defense denies a rogue the ability to sneak attack the target by flanking, unless the attacker has at least four more rogue levels than the target has hit dice.
 
-#### Animal Mind [Core]
+#### Animal Mind
 
 You may apply the following trait to your shapeshifts:
 
@@ -102,7 +102,7 @@ You may add the following additional traits to your forms:
 - **Keen Scent:** The target can notice other creatures by scent in a 180-ft. radius underwater and can detect blood in the water at ranges of up to a mile.
 - **Ink Jet:** Once per minute, the target may shoot a jet of ink. In water, this creates a 10 ft. radius sphere that provides total concealment and persists for 1 minute. On land, this is a ranged touch attack with a 10 ft. range increment and a maximum range of 50 ft. that forces a struck creature to make a Reflex save (DC 10 + 1/2 HD + Constitution modifier) or be blinded for 1d6 rounds or until they spend a standard action removing the ink from their eyes.
 
-#### Bestial Reflexes [Core]
+#### Bestial Reflexes
 
 You may add the following traits to your forms:
 
@@ -111,7 +111,7 @@ You may add the following traits to your forms:
 - **Pounce:** You may make a full-attack after a charge.
 - **Trample:** As a full-round action, you may move up to your move speed, moving over and dealing slam damage (1d6+1-1/2 Str modifier, 1d4+1-1/2 Str modifier small) to any creatures smaller than yourself. Targets of a trample can make an attack of opportunity, but at a –4 penalty. If targets forgo an attack of opportunity, they may attempt to avoid you, making a Reflex save for half damage (DC 10 +1/2 your HD + your Str modifier). A trampling creature can only deal trampling damage to each target once per round, no matter how many times it moves over that creature.
 
-#### Bestial Spirit [Core]
+#### Bestial Spirit
 
 You may add the following traits to your forms:
 
@@ -137,14 +137,14 @@ You may add the following additional traits to your forms:
 - **Endure Weather:** The target suffers no harm from being in a hot or cold environment and can exist comfortably in conditions between -50 and 140 degrees Fahrenheit (-45 and 60 degrees Celsius) without having to make Fortitude saves. The creature’s equipment is likewise protected. This trait doesn’t provide any protection from fire or cold damage, nor does it protect against other environmental hazards such as smoke, lack of air, and so forth.
 - **Pressure Immunity:** The target is immune to the pressures of the ocean and takes no damage from water pressure.
 
-#### Giant Traits [Core]
+#### Giant Traits
 
 You may add the following additional traits to your forms:
 
 - **Rock catching**.
 - **Rock throwing** (2d6, 2d4 small): this deals 1.5 times Strength damage, and has a range of 20 ft, + 10 ft per 2 caster levels.
 
-#### Greater Transformation [Core]
+#### Greater Transformation
 
 Increase the number of traits you may apply with your shapeshift by 1.
 
@@ -152,7 +152,7 @@ Increase the number of traits you may apply with your shapeshift by 1.
 
 Your shapeshift effects linger for 2 additional rounds after you stop concentrating. Additionally, when you spend a spell point to continue your shapeshift without concentration, the duration is doubled. This increase stacks with the Extend Spell metamagic feat and other similar effects.
 
-#### Mass Alteration [Core]
+#### Mass Alteration
 
 When bestowing a shapeshift, you may spend an additional spell point to shapeshift an additional 1 creature per 2 caster levels at the same time. Each target must be within range and must gain the same shapeshift form and traits.
 
@@ -209,7 +209,7 @@ You may add the following traits to your forms:
 - **Piercing Tail:** Choose one tail slap attack. You may choose to have this tail slap count as a primary natural attack. This attack deals piercing damage (2d6 Medium, 1d8 Small). (Requires Tail Slap)
 - **Razor Claws:** Choose one type of natural attack that does piercing or slashing damage (bite, claw, etc.). This type of natural attack deal 1 point of bleed damage plus 1 per 5 caster levels. This bleed damage stacks with itself but not other sources of bleed damage.
 
-#### Ranged Alteration [Core]
+#### Ranged Alteration
 
 You may shapeshift creatures at Close range instead of Touch range. You may take this talent multiple times. Each time it is selected, increase the range by 1 step (Close to Medium, Medium to Long).
 
@@ -217,7 +217,7 @@ You may shapeshift creatures at Close range instead of Touch range. You may take
 
 Choose one extraordinary or supernatural ability dependent on your target’s base form (darkvision, scent, racial breath weapon, etc.). You may choose to allow the target to retain this ability in place of a trait you would normally grant them as part of your shapeshift.
 
-#### Size Change [Core]
+#### Size Change
 
 As a trait, you may change a creature’s size. You may enlarge or reduce a creature’s size by one category, plus an additional size category per 5 caster levels. You cannot enlarge beyond Huge size, nor reduce a creature beyond Diminutive size. Creatures gain a +1 bonus to attack rolls and to AC, as well as a +2 bonus to Fly checks and a +4 bonus to Stealth checks for every size category they are reduced, and suffer a -1 penalty to attack rolls and AC, as well as a -2 penalty to Fly checks and a -4 to Stealth checks for every size category they are enlarged. (These numbers are doubled when moving to or from Diminutive size.) Ability scores are also adjusted according to the charts below; these increases and decreases are cumulative for each category increased or decreased (thus, moving from Medium to Huge would cumulate in a +8 bonus to Strength and a -4 to Dexterity).
 
@@ -256,7 +256,7 @@ As a trait, you may change a creature’s size. You may enlarge or reduce a crea
 | Large | -4 | +2 | -2 |
 | Huge | -4 | - | -2 |
 
-#### Tentacles [Core]
+#### Tentacles
 
 You may add the following traits to your forms:
 
@@ -275,7 +275,7 @@ You may add the following traits to your forms:
 - **Twist Legs:** The target must pass a Fortitude save or have one movement speed reduced by 10 ft. plus 5 ft. per 5 caster levels, to a minimum of 5 ft.
 - **Wrench Stomach:** The target must pass a Fortitude save or be sickened while the shapeshift lasts or for a number of rounds equal to your caster level, whichever is shorter. If you spend an additional spell point, the target is instead nauseated on a failed save and sickened for one round on a successful save.
 
-#### Undead Traits [Core]
+#### Undead Traits
 
 You may grant the following traits to your forms:
 
@@ -320,7 +320,7 @@ You may also grant the following traits to your forms:
 - **Resist Elements:** Elemental resistance to acid, electricity, and sonic equal to your half your caster level (minimum 1).
 - **Chaotic Skin:** The target gains DR 2/lawful. This improves by 1 per 5 caster levels.
 
-#### Animalistic Transformation [Core]
+#### Animalistic Transformation
 
 You may grant **the form of a land animal or magical beast** with your shapeshift. The form has a head and 4 legs with all the benefits of being a quadruped. The target gains a 40 ft land speed, which increases by 20 ft per 5 caster levels. The target also gains the Scent ability, a bite attack (Primary, 1d6, 1d4 small) and a +2 natural armor bonus which increases by 1 per 5 caster levels.
 
@@ -330,13 +330,13 @@ In addition, you may grant the following traits to any form:
 - **Scent**.
 - **2 hoof attacks** (Secondary, 1d4, 1d3 small). This may be granted once per pair of legs beyond the first.
 
-#### Anthropomorphic Transformation [Core]
+#### Anthropomorphic Transformation
 
 You may grant **a humanoid form** with your shapeshift. The humanoid form has 2 legs and 2 arms with hands that can manipulate objects as a human’s can. The target can speak and gains knowledge of one language you also speak. It gains a land speed of 30 ft, and if the target’s Intelligence is lower than 6 it is increased to 6.
 
 If you so choose, you may forgo applying additional traits to the target to instead allow the target to retain its natural attacks, special abilities, and movement types that were dependent on its previous form, in essence making the target a hybrid between a humanoid and its previous form.
 
-#### Aquan Transformation [Core]
+#### Aquan Transformation
 
 You may grant **the form of a swimming animal or magical beast** with your shapeshift. The form has a head, fins, and no arms or legs. The target gains low-light vision and a 20 ft Swim speed which improves by 20 ft for every 5 caster levels. The target gains the Amphibious subtype and the ability to breathe underwater. The target also gains a bite attack (Primary, 1d6, 1d4 small), Blindsense 30 ft (which only functions in water), and a +2 natural AC bonus, which increases by 1 for every 5 caster levels.
 
@@ -346,7 +346,7 @@ In addition, you may add the following traits to any form:
 - A **swim speed** as that granted by the Aquan form.
 - **Blindsense** 30 ft (only in water)
 
-#### Avian Transformation [Core]
+#### Avian Transformation
 
 You may grant **the form of a flying animal or magical beast** with your shapeshift. The target gains a head, 2 legs, 2 wings, and a 30 ft land speed. The target gains low-light vision and 2 talon attacks (Primary, 1d4, 1d3 small) and a +2 natural AC bonus, which increases by 1 for every 5 caster levels. The target takes no damage when falling and may glide, moving with a speed of 30 ft with maneuverability (poor), but falling 1 ft for every 5 ft traveled. At 5th caster level, the target gains a fly speed of 30 ft with maneuverability (poor). This improves by 20 ft for each 5 additional caster levels.
 
@@ -386,7 +386,7 @@ You may also grant the following traits to your forms:
 - **Construct Plating:** The target gains DR 2/adamantine. This improves by 1 per 5 caster levels.
 - **Spell Resistance:** The target gains spell resistance equal to 10 + caster level. This trait costs an additional spell point.
 
-#### Dragon Transformation [Core]
+#### Dragon Transformation
 
 You may grant **the form of a dragon** with your shapeshift. The target gains a head, 4 legs with all the benefits of being a quadruped, a 40 ft move speed and a tail. The target gains a +2 natural armor bonus which increases by 1 per 5 caster levels, Darkvision 60 ft, a bite attack (Primary, 1d6, 1d4 small) and a breath weapon. This breath weapon is either a 60 ft line or a 30 ft cone, and deals either fire, electricity, acid, or cold damage as chosen at the time it is gained. The breath weapon deals 1d8 damage per 2 caster levels, and allows a Reflex save for half damage. The target must wait at least 1d4 rounds between uses of their breath weapon. A target may only possess one breath weapon at a time.
 
@@ -395,7 +395,7 @@ In addition, you may grant the following traits to your forms:
 - A **breath weapon**, as that given by the dragon base form.
 - **Double the size of a breath weapon** (must possess a breath weapon to gain this trait).
 
-#### Elemental Transformation [Core]
+#### Elemental Transformation
 
 You may spend an additional spell point to grant **the form of an elemental** with your shapeshift. As an elemental’s body is mutable, additional limbs or natural attacks cannot be added to this form through traits. The target gains a 30 ft move speed and a 25% ability to ignore critical hits and precision damage, which increases by 25% per 5 caster levels to a maximum of 100%. The target gains 2 slam attacks (Primary, 1d6, 1d4 small), natural armor equal to 2 +1 per 5 caster levels, and one of the following packages depending on which elemental is being mimicked:
 
@@ -415,7 +415,7 @@ You may also grant the following traits to your forms:
 
 - **Elemental Resistance** to either cold, electricity, fire, or acid equal to your caster level. You can take this trait multiple times, but Resistance to the same element does not stack with itself.
 
-#### Elemental Transformation, Dedicated (transformation) [Apoc]
+#### Elemental Transformation, Dedicated (transformation)
 
 You may grant the form of a specific elemental with your shapeshift (air, earth, fire, or water), chosen at the time this talent is gained.
 
@@ -516,7 +516,7 @@ You may add the following traits to your forms:
 
 - **Float:** The target may float up to 5 ft. plus 5 ft. per 5 caster levels above the ground, moving at 30 ft. This improves by 5 ft. for each 5 additional caster levels. When falling the target may choose to descend at a slower rate to control its fall and to negate all falling damage it would take. Each round it descends 30 ft., and may move in another direction for 30 ft. It may choose to drift sideways, gliding forwards while descending, or down, safely increasing its rate of descent. It may even choose to drift ‘upwards’ to reduce its rate of descent, even allowing it to negate it entirely and hover midair.
 
-#### Plant Transformation [Core]
+#### Plant Transformation
 
 You may grant **the form of a plant creature** with your shapeshift. The creature has 2 ‘arms’, which may be tree limbs or vines (adding limbs to a plant creature adds more appendages), has a move speed of 20 ft, 2 Slam attacks (Primary, 1d6, 1d4 small), and a +4 natural armor bonus that increases by 1 for every 5 caster levels.
 
@@ -539,7 +539,7 @@ You may add the following trait to your forms:
 - **Strangle:** An opponent grappled by the target cannot speak or cast spells with verbal components.
 - **Swallow Whole:** The target gains the swallow whole ability, dealing 1d6 bludgeoning damage plus an additional 1d6 acid damage per 3 caster levels. The target may swallow creatures up to one size smaller than themselves. This trait may be taken twice; the second time allows the target to swallow creatures up to their own size and grants a bonus to CMB and CMD equal to 1 plus 1 per 3 caster levels on grapple checks made to swallow creatures or to prevent them from escaping once swallowed. More than one creature may be swallowed at a time, but may not exceed the maximum total size that can be swallowed, counting two tiny creatures as one small creature, two small creatures as one medium creature, etc. A swallowed creature can try to cut its way free with any light slashing or piercing weapon, or it can just try to escape the grapple. The amount of cutting damage required to get free is equal to 1/10 the creature’s total hit points. This damage is inflicted on the swallowing creature as normal. The Armor Class of the interior of a creature that swallows whole is 10 + 1/2 its natural armor bonus, with no modifiers for size or Dexterity. If a swallowed creature cuts its way out, the swallowing creature cannot use swallow whole again until the damage is healed. If the swallowed creature escapes the grapple, success puts it back in the attacker’s mouth, where it may be bitten or swallowed again. (You must possess a bite attack with the grab ability to gain this trait.)
 
-#### Subterranean Transformation [Core]
+#### Subterranean Transformation
 
 You may grant **the form of a subterranean animal or magical beast** with your shapeshift. The form has a head, 4 legs, a 30 ft land speed, and a 15 ft burrow speed that increases by 15 ft per 5 caster levels. The target also gains Darkvision 60 ft, Tremorsense 20 ft, a bite attack (Primary, 1d6, 1d4 small), and a +2 natural armor bonus that increases by 1 per 5 caster levels.
 
@@ -562,7 +562,7 @@ You may add the following traits to your forms:
 
 - **Divided Self:** The target gains a +4 bonus on saves against effects that target individual creatures. (Must have the form of a swarm)
 
-#### Vermin Transformation [Core]
+#### Vermin Transformation
 
 You may grant **the form of a spider, insect, or other such creature** with your shapeshift. The form has a head and either 6 or 8 legs, and a bite attack (Primary, 1d6, 1d4 small). You gain Darkvision 60 ft, a +2 natural armor bonus that increases by 1 per 5 caster levels, and a 30 ft Climb speed and land speed that improve by 15 ft per 5 caster levels.
 

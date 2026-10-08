@@ -33,7 +33,7 @@ The dread crusader adds half her level to the damage dealt by her Cryptic Strike
 
 **Author's Note:** This mystic combat functions whenever the dread crusader uses a [strike] talent with a ghost strike. This is primarily Cryptic Strike, but can also function with the Ghostly Admixture feat, using the Destruction sphere Energy Strike admixtured with a ghost strike or other similar effects.
 
-#### Precipice Of Mortality [Gravecaller's HB]
+#### Precipice Of Mortality
 
 The dread crusader is healed by both positive and negative energy and does not take damage from positive or negative energy effects.
 

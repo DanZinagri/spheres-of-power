@@ -31,7 +31,7 @@ Talents with the (zone) tag grant additional effects to this ability. Each patro
 
 # Guardian Talents
 
-#### Braggadocious Repartee [utility] [DRS]
+#### Braggadocious Repartee [utility]
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -61,7 +61,7 @@ When an ally within your threatened area is the target of an attack roll, you ma
 
 If you possess the (patrol) package, when using this talent you may move to put the ally within your reach (with the normal limits for moving as part of your patrol) as part of activating this talent.
 
-#### Defiant Boar (stance) [Youxia HB]
+#### Defiant Boar (stance)
 
 While in this stance, whenever you damage a creature with an attack action, you may remove an amount of damage from your delayed damage pool equal to the damage dealt by your attack, up to a maximum of your base attack bonus.
 
@@ -89,7 +89,7 @@ You gain one Guardian package you do not possess.
 
 When a creature affected by your challenge is reduced to 0 or fewer hit points, you gain temporary hit points equal to your base attack bonus. These temporary hit points expire after 1 round + 1 round per 2 points of base attack bonus you possess. The creature must have a CR of at least half your character level (rounded down, minimum 0).
 
-#### Glutton For Punishment [Jester's HB]
+#### Glutton For Punishment
 
 As long as your delayed damage pool is at maximum capacity, you gain DR/– equal to 1/2 your base attack bonus.
 
@@ -123,7 +123,7 @@ If you possess the (challenge) package, if the creature is under the effects of 
 
 When using your challenge ability, you may increase the required time by one step (move to standard or swift to move if expending martial focus) to issue your challenge to one additional creature, + 1 additional creature per 2 points of base attack bonus you possess (minimum 1).
 
-#### Roaming Patrol [DRS]
+#### Roaming Patrol
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -131,7 +131,7 @@ While patrolling, your base movement speed is treated as being 10 feet higher fo
 
 If you possess the (challenge) package, this movement does not provoke attacks of opportunity from creatures under the effects of your challenge.
 
-#### Seeking Challenge [Apoc]
+#### Seeking Challenge
 
 *Source: [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)*
 
@@ -171,7 +171,7 @@ When an ally within the area of your patrol makes an attack, is targeted by an a
 
 Allies do not provoke attacks of opportunity from enemies for moving through the area of your patrol. **Associated Feat:** Escape Route.
 
-#### Mage Warden (zone) [DRS]
+#### Mage Warden (zone)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -199,13 +199,13 @@ All hostile creatures treat your threatened area as difficult terrain until the 
 
 # Legendary Talents
 
-#### Challenge The Masses [EO3]
+#### Challenge The Masses
 
 **Prerequisites:** Guardian sphere (Mass Challenge), base attack bonus +7.
 
 When using the Mass Challenge talent to affect multiple creatures, you can instead issue your challenge to all hostile creatures (including swarms) within close range (25 feet + 5 feet per 2 points of base attack bonus). You can expend your martial focus when using this talent to increase this to medium range (100 feet + 10 feet per point of base attack bonus).
 
-#### Cruel Worg’s Challenge [BTH]
+#### Cruel Worg’s Challenge
 
 You channel the wicked cruelty of the worg, demanding the attention of the mighty and cowing the meek.
 
@@ -263,7 +263,7 @@ A successful Fortitude save reduces the amount of damage inflicted by this talen
 
 **Wiki Note:** Adjusted for clarity.
 
-#### Push The Limit [Alienist HB]
+#### Push The Limit
 
 **Prerequisite:** Guardian sphere.
 
@@ -275,7 +275,7 @@ As an immediate action while you have martial focus, you may take 2 points of Co
 
 At the start of their turns, hostile creatures within the area of your patrol must succeed on a Fortitude save or be moved 5 ft. closer to you, though stop when they become adjacent. This movement does not provoke attacks of opportunity. Hostile creatures within the area of your patrol count every square of movement directed away from you as two squares when determining their movement for the round. This stacks with the effects of difficult terrain. At +10 base attack bonus, the distance moved toward you and the additional cost of movement away from you increases by 5 ft. This is a supernatural effect.
 
-#### Turbo Sweep [Youxia HB]
+#### Turbo Sweep
 
 **Prerequisites:** Athletics sphere (Mobile Striker), Guardian sphere (Sweeping Defense), base attack bonus +10.
 

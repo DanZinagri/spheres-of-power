@@ -79,7 +79,7 @@ Otherwise, actions have their normal effects in the dreamspace. Regardless of ho
 
 **Benefit:** When you use your Whirlwind Assembly talent you may access and swap items in and out of your extradimensional storage freely, without the need to use a second action or spend a spell point.
 
-#### Extradimensional Gullet (Combat) [Alienist HB]
+#### Extradimensional Gullet (Combat)
 
 **Prerequisites:** Swallow whole, Alteration sphere (Serpentine Transformation (transformation)), or Death sphere (Tomb Of Flesh); Warp sphere (Extradimensional Room (space)).
 
@@ -89,7 +89,7 @@ You can continue to use swallow whole even after a creature cuts its way out. Wh
 
 If you die, the extradimensional space contracts, disgorging any swallowed creature into your corpse’s space.
 
-#### Extradimensional Pouch [Origin]
+#### Extradimensional Pouch
 
 **Prerequisites:** Form sphere (Hidden Storage [auxiliary]), Warp sphere (Extradimensional Storage x2).
 
@@ -113,13 +113,13 @@ If you die, the extradimensional space contracts, disgorging any swallowed creat
 
 **Benefit:** You can teleport suddenly and in an ominous burst of magic, leaping forward in an unexpected and terrifying display. After you appear, you can attempt an Intimidate check to demoralize an opponent in range (demoralize normally has a range of 30 feet) as a free action.
 
-#### Locked Bond (Dual Sphere) [Archmagi's HB]
+#### Locked Bond (Dual Sphere)
 
 **Prerequisites:** Mana sphere, Warp sphere (Plane Manipulator).
 
 **Benefit:** When creating any manabond, you may spend an additional spell point to lock the dimensional properties of the bond. As long as the manabond holds, both the host and recipient of the manabond are affected by a dimensional anchor, as per the Plane Manipulator talent.
 
-#### Never Really There (Dual Sphere) [DbH]
+#### Never Really There (Dual Sphere)
 
 Your escape masks any memory of your presence.
 
@@ -127,7 +127,7 @@ Your escape masks any memory of your presence.
 
 **Benefit:** When you use the Amnesia charm from the Mind sphere, you may extend the casting time by 1 step or spend an additional spell point to teleport yourself as part of the same action. You may teleport other creatures as part of this action but must include yourself among the targets.
 
-#### Portal Combat (Combat) [DbH]
+#### Portal Combat (Combat)
 
 Magical gateways are tools you can weaponize.
 
@@ -152,7 +152,7 @@ Magical gateways are tools you can weaponize.
 - **Make Them Flinch (Intimidate 5 ranks):** Immediately before you teleport you may attempt an Intimidate check against an opponent as a free action, as if making a demoralize check. If you succeed, casting teleport does not provoke an attack of opportunity from that opponent.
 - **Without a Trace (Stealth 3 ranks):** You take advantage of even the briefest windows of opportunity to disappear without being noticed. Immediately before teleporting you may attempt a Stealth check, opposed by a Perception check from any onlookers. Onlookers who fail their check do not see where you have gone or how you left, though they may still find out through other means.
 
-#### Spacetime Drift (Dual Sphere) [Apoc]
+#### Spacetime Drift (Dual Sphere)
 
 *Source: [Spheres Apocrypha: Battlefield Manipulation Talents](https://www.drivethrurpg.com/product/350940/Spheres-Apocrypha-Battlefield-Manipulation-Talents?affiliate_id=549120)*
 
@@ -172,7 +172,7 @@ Magical gateways are tools you can weaponize.
 
 **Benefit:** While under the effects of the Suppression talent, you may use the Warp sphere teleporting only yourself and carried gear as a move action rather than a standard action. Whenever you use a Warp sphere effect on yourself, you may leave behind or appear with a copy of yourself that lasts until the start of your next turn as the Decoy trick.
 
-#### Survey of your Realm (Dual Sphere) [DbH]
+#### Survey of your Realm (Dual Sphere)
 
 When you create a realm, you are sure to keep a close eye on it.
 
@@ -182,7 +182,7 @@ When you create a realm, you are sure to keep a close eye on it.
 
 As a free action once per round, you may have this sensor touch an unattended object or willing creature it is adjacent to. Until the end of your next turn, you are considered to be touching (but not wielding) that object or creature.
 
-#### Transpatial Reconstitution (Dual Sphere) [DbH]
+#### Transpatial Reconstitution (Dual Sphere)
 
 Your form in this particular world is one of many. Material from beyond can replace any damaged components.
 

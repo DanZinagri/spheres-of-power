@@ -29,7 +29,7 @@ Increase your gizmo limit by +2 (in addition to the normal increase from gaining
 
 Choose and gain two Tinker packages you do not already possess. You may select this talent multiple times; you gain two new packages each time.
 
-#### Lock In [DRS]
+#### Lock In
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds)*
 
@@ -93,7 +93,7 @@ AI you craft gain +1 skill rank per gizmo level. Your AI classifications that wo
 
 - **Transforming Parts (upgrade):** You grant the *mechanoid* two upgrades (other than this upgrade); the *mechanoid* may only use one of these two upgrades at any given time, but may switch between these two upgrades as part of a 1 minute uninterrupted period. The *mechanoid* also gains the following battery use:
 
-  **Note - Multiple Upgrades of the Same Kind:** An individual transforming parts upgrade may select the same upgrade multiple times, provided that each selection is a different option. For example, transforming parts could be crafted with Alternate Size for Large, Small, and an extra head. While the extra head is active, the *mechanoid* would be its original crafted size (generally Medium), and would change sizes when transforming. A *mechanoid* capable of changing sizes has its project cost determined by its most expensive project cost. Transforming parts upgrades cannot change into an upgrade that would be incompatible with an already active upgrade. [DRS]
+  **Note - Multiple Upgrades of the Same Kind:** An individual transforming parts upgrade may select the same upgrade multiple times, provided that each selection is a different option. For example, transforming parts could be crafted with Alternate Size for Large, Small, and an extra head. While the extra head is active, the *mechanoid* would be its original crafted size (generally Medium), and would change sizes when transforming. A *mechanoid* capable of changing sizes has its project cost determined by its most expensive project cost. Transforming parts upgrades cannot change into an upgrade that would be incompatible with an already active upgrade.
   - **Battery Use:** The user may deplete 1 battery as a swift action to change between the two granted upgrades.
 
 You may grant the transforming parts upgrade 1 additional time per 7 ranks in the associated skill you possess.
@@ -157,7 +157,7 @@ You may expend your martial focus to “take 13” when attempting a skill check
 
 ## Gizmo Talents
 
-#### Alcohol Set (gizmo, synergy) [utility] [DRS]
+#### Alcohol Set (gizmo, synergy) [utility]
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds)*
 
@@ -200,7 +200,7 @@ The user adds twice the physical augmentor’s bonus to the number of drinks the
 
 **Special - Excavation Set (Internal Pump):** If the *mechanoid* possesses both this upgrade and the Excavation Set’s internal pump upgrade, the *mechanoid* may dispense alcohol directly from its internal storage containers as though it were an ordinary liquid.
 
-#### Animal Set (gizmo, synergy) [utility] [DRS]
+#### Animal Set (gizmo, synergy) [utility]
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds)*
 
@@ -534,7 +534,7 @@ Any gizmo receiving a distress signal can display the distress signal’s messag
 **Transportation:** You learn to craft *mechanoids* with the following upgrades:
 • **Emergency Vehicle (upgrade)**: The *mechanoid* is crafted with each minor gizmo granted by this talent as an innate gizmo, +1 additional minor gizmo (of the crafter’s choice) per 2 gizmo levels (such as a second flashlight or emergency breather, etc.). Innate gizmos granted by this upgrade can be activated and used by other creatures when the *mechanoid* is within their natural reach (such as a creature using an innate emergency breather belonging to a *mechanoid* designed for fire rescue).
 
-#### Emotion Set (gizmo, synergy) [DRS]
+#### Emotion Set (gizmo, synergy)
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds)*
 
@@ -1101,7 +1101,7 @@ You learn to craft the following repair kit gizmos:
 - **Bolster:** The target gains a number of temporary hit points equal to 1d4 per 2 gizmo levels + 1/2 your practitioner modifier (minimum 1). These temporary hit points last for 1 minute per gizmo level. Unlike other temporary hit points, these temporary hit points are always lost first.
 - **Repair:** The target regains a number of hit points equal to 1d6 per 2 gizmo levels + your practitioner modifier.
 
-#### Scholarly Set (gizmo, computation, synergy) [utility] [DRS]
+#### Scholarly Set (gizmo, computation, synergy) [utility]
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds)*
 
@@ -1251,7 +1251,7 @@ The following blaster shapes may be selected:
 
 - **Innate Blaster (upgrade):** The *mechanoid* gains an innate blaster gizmo. If the blaster shape’s area of effect would include the *mechanoid* (such as the shaped charge option), the *mechanoid* and its passengers are excluded from the area of effect.
 
-#### Tool Set (gizmo, synergy) [DRS]
+#### Tool Set (gizmo, synergy)
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds)*
 

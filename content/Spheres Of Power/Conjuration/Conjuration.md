@@ -143,7 +143,7 @@ Your companion reduces one of its speeds by 20 feet and gains a 20 feet swim spe
 
 Your companion has an animal intellect, with its starting Intelligence reduced to 2. A bestial companion may not have its Intelligence raised by any (form) talent (though may still receive other benefits from such talents). Bestial companions count as possessing the animal creature type in addition to the outsider creature type for all skills and effects and require the use of the Handle Animal skill to direct. Without direction, they are friendly to the creature that summoned them but otherwise act according to their nature. A bestial companion gains an additional free (form) talent. A companion that has this companion archetype may not also possess the mindless or puppet companion archetypes. A bestial companion begins play trained for one purpose (see the Handle Animal skill) plus gains 1 bonus trick, +1 at 3 Hit Dice and every 3 Hit Dice thereafter. If using Spheres of Might, your bestial companion counts as an animal ally, though is not a valid target for the tame ability (per the rules in the Beastmastery sphere).
 
-#### Distinct Kin [DbH]
+#### Distinct Kin
 
 Any companions you gain from the Conjuration sphere may be treated as having a single subtype of your choice corresponding to a specific family of creatures that share their alignment (such as angel, demon, or devil). This does not grant the companion the abilities of that subtype, but they count as creatures of that subtype for the purpose of determining how abilities affect them. In addition, they learn one language spoken by creatures of their subtype.
 
@@ -151,7 +151,7 @@ Any companions you gain from the Conjuration sphere may be treated as having a s
 
 Your companion only gains half its normal Hit Dice (rounded down), effectively treating your caster level as half what it is when determining its abilities, but has the spell point cost to summon it reduced by 2 (minimum 0). If the companion would normally only have 1 Hit Die, it still has 1 Hit Die, but receives half its normal hit points (rounded down, minimum 1).
 
-#### Guileful Companion [LotS]
+#### Guileful Companion
 
 A guileful companion may combine skill spheres and talents to perform unique actions. A guileful companion gains Trade Expertise as a bonus talent.
 
@@ -181,7 +181,7 @@ Your Conjuration sphere companion is incapable of action without your direct con
 
 As a standard action, you may order a puppet companion to follow. Doing so causes the puppet to take move actions on its turn (including trading its standard action for a move action) to attempt to move adjacent to you (or as close as it is able) to the best of its ability. Should the companion be unable to find you (such as in a complex maze when you are out of sight for too long, if you are teleported out of view, etc.), the companion will remain in its current position. Taking any other action through the companion ends this ability. The spell point cost of summoning a puppet companion is reduced by 1 (minimum 0).
 
-#### Unwilling [Apoc]
+#### Unwilling
 
 *Source: [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)*
 
@@ -233,7 +233,7 @@ When you summon a companion, you may spend an additional spell point to summon a
 
 Additional costs to summon each companion must be paid separately, as well as spell points spent to allow the companions to endure without concentration. However, if you choose to maintain these summoned companions via concentration, you may maintain all companions summoned through Mass Summon as part of the same concentration action.
 
-#### Otherworldly Audience [utility] [DbH]
+#### Otherworldly Audience [utility]
 
 When it is not summoned, you may have any of your companions sense anything you sense and may communicate with them telepathically. The companions may attempt Wisdom- or Intelligence-based non-physical skill checks when observing through you. You may obstruct the perceptions of certain companions if you wish.
 
@@ -335,7 +335,7 @@ Your companion is a creature used to living in the ground. It gains a 15 feet bu
 
 Your companion is a being attuned to a particular element. Choose either acid, cold, electricity, or fire. Your companion deals 1d3 damage of that element’s type with all of its natural attacks. This damage increases by one die size per 5 Hit Dice.
 
-#### Empower Familiar (form) [Alienist HB]
+#### Empower Familiar (form)
 
 If your companion possesses the familiar companion archetype, you may spend 1 spell point as a standard action to increase its Hit Dice to the amount it would normally have without this archetype. These additional Hit Dice remain for as long as you concentrate (using the same action normally used to concentrate on a companion) and any decisions about feats or ability score increases from these additional Hit Dice are made when this talent is selected.
 
@@ -377,7 +377,7 @@ When you spend a spell point to allow this companion to remain for 1 minute per 
 
 Your companion’s natural attacks are treated as magic weapons for the purpose of overcoming damage reduction. At 7 Hit Dice they are treated as cold iron and silver for this purpose, and at 14 Hit Dice they are treated as adamantine.
 
-#### Magic Vessel (form) [Alienist HB]
+#### Magic Vessel (form)
 
 As a free action, your companion may telepathically request magical aid from you. You may then transfer any number of your own spell points to your companion. These spell points last until you rest to regain spell points.
 
@@ -399,7 +399,7 @@ Your companion always acts on your initiative while you are mounted upon it and 
 
 If your companion possesses a burrow speed or the earth glide ability, you may travel with it while mounted. This does not grant any ability to perceive your surroundings or any ability to breathe while underground.
 
-#### Muensterous Companion (form) [Jester's HB]
+#### Muensterous Companion (form)
 
 The target gains one of the following traits from the Muensterous Traits talent from the [[Alteration]] sphere: Cheese Body, Dangerously Cheesy, Spray Fondue.
 
@@ -477,7 +477,7 @@ Your companion gains the shield proficiency feat, and when summoned, appears car
 
 Your companion can shock others, like an electric eel. As a standard action, your companion may make a melee touch attack that deals 1d8 plus 1d8 per 2 Hit Dice electricity damage. This touch attack does not provoke attacks of opportunity. If a creature successfully grapples this companion, the companion may use this ability as an immediate action, inflicting the damage with no attack roll, but allowing a Fortitude saving throw for half damage. If this companion is in water, this ability instead functions as a 10-foot radius burst centered on the companion; affected creatures are allowed a Fortitude saving throw for half damage. Creatures beyond 10-foot but within a 30-foot radius takes half damage, with a Fortitude save for half damage. Once used, this ability cannot be used again for 1d4 rounds.
 
-#### Skill Mimic (form) [utility] [DbH]
+#### Skill Mimic (form) [utility]
 
 When you take this talent, choose 2 skills that you have ranks in. When it is summoned, your companion can apply your total skill ranks and class skill bonuses in place of its own when attempting these skill checks. This cannot grant the companion more ranks in a skill than its number of Hit Dice.
 
@@ -529,7 +529,7 @@ A companion may gain this talent multiple times. Each time it gains this talent,
 
 The companion grows spines, quills, or thorns. These may be treated as armor spikes of their size (1d6 Medium, 1d4 Small, 20x2, piercing) but may be enhanced as natural weapons and may be wielded as a secondary natural weapon if beneficial. The companion is automatically proficient with these spikes. This talent may be taken a second time, allowing the companion to launch spines as a thrown weapon (1d6 Medium, 1d4 Small, 20x2, piercing) with a range increment of 20 feet. The companion may draw the spines as a free action and throw them for any attacks it is entitled to normally. Launched spines regenerate at the end of its turn.
 
-#### Trade Expertise (form) [LotS]
+#### Trade Expertise (form)
 
 The companion may select a trade tradition and has a trade rank of adroit. This replaces the companion’s normal class skills. When first summoned, they may choose either Charisma, Intelligence or Wisdom as their operative modifier. The companion may select skill talents in place of feats and combat talents gained from the Martial Companion archetype.
 
@@ -565,7 +565,7 @@ Your companion’s Wisdom increases by 2, +1 per 2 Hit Dice. In addition, whenev
 
 ## Type Talents
 
-#### Aberrant Companion (type) [Alienist HB]
+#### Aberrant Companion (type)
 
 Your companion is of this plane but not of this world. The companion gains the aberration creature type. The companion gains darkvision out to 60 feet and low-light vision. The companion gains a +1 bonus to saves vs. divination and compulsion effects, +1 per 5 Hit Dice as well as a +1 bonus to CMB and CMD +1 per 5 Hit Dice.
 
@@ -667,7 +667,7 @@ Once the requested service is completed, the creature need only to inform you to
 
 Note that a clever recipient can subvert some instructions. At the end of its task, or when the bargained duration expires, a called ally returns to its home plane (after reporting back to you, if appropriate and possible).
 
-#### Channel Companion [DbH]
+#### Channel Companion
 
 **Prerequisites:** Conjuration sphere, caster level 5th.
 
@@ -681,13 +681,13 @@ When using the Call Planar Creature advanced talent to call hostile creatures, y
 
 If your check is successful, the called creature cannot use its spell resistance to attempt to escape its prison, nor use any dimensional or teleportation effects, nor can any of its abilities or attacks cross the prison’s border. When pitting its Charisma against your trap, the DC increases by 5. While a creature cannot disturb the summoning circle, if any outside force disturbs the circle (even a hair falling across it), the called creature is immediately freed.
 
-#### Entrapping Circle [DbH]
+#### Entrapping Circle
 
 **Prerequisites:** Conjuration sphere (Call Planar Creature (advanced)).
 
 By spending 2 spell points as a standard action, you may select a creature within close range which you could call using Call Planar Creature. That creature must succeed at a Will save or become trapped as if it had been called using Call Planar Creature. Creatures trapped in this way are always considered hostile and may be contained or bargained with as normal. If you possess the Diagram advanced talent, you may spend an additional spell point to apply its effects to a trap created using this talent without spending any additional time.
 
-#### Expendable Summons [Alienist HB]
+#### Expendable Summons
 
 **Prerequisites:** Conjuration sphere (Call The Departed), caster level 5th.
 
@@ -705,7 +705,7 @@ You may increase the size of a Huge companion to Gargantuan or a Gargantuan comp
 
 Your companion’s fast healing increases by +1 per 3 Hit Dice.
 
-#### Incursion Link [3PP]
+#### Incursion Link
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -713,7 +713,7 @@ Your companion’s fast healing increases by +1 per 3 Hit Dice.
 
 You may use Ability Channel, Link, Spell Conduit, Spell Channel, and Spell-Linked Companion abilities through your companion at any distance (even across planar boundaries) and without line of sight or effect.
 
-#### Possessive Companion [DbH]
+#### Possessive Companion
 
 **Prerequisites:** Conjuration sphere (Channel Companion), caster level 10th.
 

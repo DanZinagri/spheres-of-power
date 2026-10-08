@@ -27,7 +27,7 @@ The jailer gains a number of reinforcements that are unique to the jailer archet
 
 As a standard action, the jailer may make a single weapon attack in conjunction with using his detain ability. The use of this ability does not provoke attacks of opportunity, unless as usual if making a ranged attack. If the target is struck by the attack, it is also affected by his detain ability. This ability counts as having the strike descriptor for the purposes of meeting the prerequisites for, and interacting with the Spell Attack feat.
 
-#### Drain Confidence (requires confidence, detain class feature) [AoP2]
+#### Drain Confidence (requires confidence, detain class feature)
 
 Whenever the jailer would use his detain ability, on a failed save, the creature’s natural charisma and confidence begins to drain from them. As long as the creature is detained, at the start of their turn, they suffer 2 points of Charisma damage.
 

@@ -40,69 +40,69 @@ If you want to make talent crystals more common in your world, consider allowing
 
 The following are samples of talent crystals you could add to your world.
 
-### Armored Warrior’s Crystal [TS]
+### Armored Warrior’s Crystal
 
 **BAB** 1; **Sphere** Equipment
 **Effect:** You gain proficiency with light, medium, and heavy armor. You also gain proficiency with all shields, including tower shields, and are proficient in all shield bashes.
 
-### Aura of Good Crystal [TS]
+### Aura of Good Crystal
 
 **CL** 5th; **Sphere** Fate; **SP Cost** 0; **Save** Fort DC 18 negates
 **Effect:** You may fill a 25-foot radius with an influence of good, as the effects of the Divine Force (consecration) of the Fate sphere.
 
-### Berserker’s Crystal [TS]
+### Berserker’s Crystal
 
 **BAB** 8; **Sphere** Berserker
 **Effect:** You may use the berserking ability of the Berserker sphere with an effective base attack bonus of 8 for determining its effects. You may also make a brutal strike with the effects of the Bone-Breaker (exertion) talent using the same effective base attack bonus, inflicting a -3 penalty on their attack and damage rolls for as long as they are battered by your brutal strike and dealing 16 additional damage if you choose to expend your martial focus while making the brutal strike.
 
-### Cantrips Crystal [TS]
+### Cantrips Crystal
 
 **CL** 1st; **Sphere** All; **SP Cost** 0
 **Effect:** You gain the CantripsUSoP feat. This is the only talent crystal in relatively common circulation, much-prized for its ability to grant even the most magically-inept individual some basic magical ability.
 
-### Deadly Draining Crystal [TS]
+### Deadly Draining Crystal
 
 **CL** 20th; **Sphere** Death; **SP Cost** 2; **Save** Fort DC 34 negates permanent negative levels
 **Effect:** You may inflict 1d6 negative levels (or other effects, as the drain ghost strike) on all creatures within a 75- foot cone.
 
-### Fireball Crystal [TS]
+### Fireball Crystal
 
 **CL** 10th; **Sphere** Destruction; **SP Cost** 2; **Save** Reflex DC 24 halves
 **Effect:** You may deal 10d8 fire damage in up to a 20-foot radius burst, centered within 50 feet.
 
-### Grand Healer Crystal [TS]
+### Grand Healer Crystal
 
 **CL** 20th; **Sphere** Life; **SP Cost** 0; **Save DC** 34 (when needed)
 **Effect:** You gain access to all Life talents available within your setting and may use them at no spell point cost.
 
-### Intimidation Crystal [TS]
+### Intimidation Crystal
 
 **CL** 20th; **Sphere** Enhancement; **SP Cost** 1
 **Effect:** You may gain a +10 enhancement bonus to Intimidate for 20 minutes. You may dismiss this effect at any time to end it early.
 
-### Magic Breaker Crystal [TS]
+### Magic Breaker Crystal
 
 **CL** 20th; **Sphere** Life, **SP Cost** 2
 **Effect:** You may make a Clarified Strike with the effects of the Break Enchantment talent (rolling 1d20+20 for your magic skill check against the MSD of each effect).
 
-### Martial Tradition Crystal [TS]
+### Martial Tradition Crystal
 
 **BAB** 10; **Sphere** Equipment
 **Effect:** You gain all talents and/or feats of a specific martial tradition, chosen when this talent crystal is created. Treat your base attack bonus as 10 for the purpose of any talent effects dependent on level (such as increases to your armor class from the Unarmored Training talent). This does not affect non-talent effects, such as your base attack bonus when using weapons this crystal gave you proficiency in.
 
-### Time Splitter Crystal [TS]
+### Time Splitter Crystal
 
 **CL** 10th; **Sphere** Time; **SP Cost** 1; **Save** Will DC 24 negates
 **Effect:** You may make a Time Strike with the effects of the Broken Time (time) talent, inflicting a -5 penalty on the target’s attack rolls and skill checks for up to 10 rounds.
 
-### Wall Crystal [TS]
+### Wall Crystal
 
 **CL** 5th; **Sphere** Protection; **SP Cost** 1
 **Effect:** You may create a flat, wall-like barrier (as the ward, with the Greater Barrier talent) that covers up to five 10-foot squares, starting adjacent to you and extending up to 35 feet away. This barrier has 50 hit points and a Break DC of 27.
 
 ---
 
-# Proxy Talent Crystals [3PP]
+# Proxy Talent Crystals
 
 Proxy Talent Crystals are a special variety of talent crystal which can only be used by characters with the Card Casting drawback. Unlike normal talent crystals, proxy talent crystals grant the characters full use of any feats or talents contained within the talent crystal, but only allow for the use of these feats or talents as part of magic effect cards that the character plays. Some proxy talent crystals also grant drawbacks, which they impose on any creature who gains talents from the crystal unless the creature spends talents to buy off the drawback.
 

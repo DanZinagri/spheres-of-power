@@ -16,7 +16,7 @@ The following feats are mainly designed for characters made using the rules from
 
 **Benefit:** Whenever you would use the change tactics skill leverage use to add 1d4 to the result of a roll, you may instead roll 1d6 and add the result to the roll. If such a check fails, the use of skill leverage is not expended, whereas if the check succeeds, there is a 50% chance that the use of skill leverage is not expended.
 
-#### Awesome Stunt (Combat) [DRS]
+#### Awesome Stunt (Combat)
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -31,7 +31,7 @@ The following feats are mainly designed for characters made using the rules from
 
 At any point during this time, the target may trigger its effects as a swift action, beginning the effects of the lyric. A target can only be under the effects of one delayed lyric at a time, but may benefit from another lyric during this time, as long as they are only benefiting from one lyric as normal (unless you possess an ability that allows otherwise). The delayed lyric cannot be triggered if the creature is already affected by a lyric.
 
-#### Cunning Accuracy (Combat) [DRS]
+#### Cunning Accuracy (Combat)
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -40,7 +40,7 @@ At any point during this time, the target may trigger its effects as a swift act
 
 If you also possess the dynamic dodge class feature, you can expend your martial focus as a free action and expend any amount from your dodge pool to have your attacks ignore half as much miss chance until the beginning of your next turn.
 
-#### Deific Icon [DRS]
+#### Deific Icon
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -56,7 +56,7 @@ If you possess the Deific Obedience feat (or a similar 'Obedience' feat, such as
 
 **Benefit:** As a standard action, you may analyze an area or target in that area while also applying your pathing to a location in that area. The targeted area, creature, or object must be within range of both your analyze and pathing abilities.
 
-#### Dual Hack [DRS]
+#### Dual Hack
 
 *Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
@@ -102,7 +102,7 @@ You have mastered your body so completely that you can control its processes wit
 
 **Benefit:** Choose one (control) talent you have. You have its effects permanently, as if constantly meditating on it. While you maintain the meditate approach, the chosen (control) talent does not count towards the maximum number of (control) talents you can have applied at one time. You can spend a free action to suppress (or reactivate) the effects of the chosen (control) talent.
 
-#### Extra Advisor Lesson [DRS]
+#### Extra Advisor Lesson
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -118,7 +118,7 @@ You have mastered your body so completely that you can control its processes wit
 
 **Benefit:** Gain the features of a conspiracy for your class that you do not have but already possess the base sphere for. You must have access to the web of secrets, coordinated combat, put off-guard, or stratagem abilities to use features that depend on those abilities.
 
-#### Extra Conduit Wonder [DRS]
+#### Extra Conduit Wonder
 
 *Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
@@ -152,7 +152,7 @@ You have mastered your body so completely that you can control its processes wit
 
 **Special:** This feat may be taken a second time starting at 15th level.
 
-#### Extra Model [LotS]
+#### Extra Model
 
 **Prerequisite:** Model class feature or Theoretical Initiate.
 
@@ -160,7 +160,7 @@ You have mastered your body so completely that you can control its processes wit
 
 **Special:** You may select this feat an additional time for every 5 character levels you possess, each time selecting a new model.
 
-#### Extra Nuance [LotS]
+#### Extra Nuance
 
 **Prerequisite:** 5th-level dissident.
 
@@ -182,7 +182,7 @@ Your acumen and expertise are easily expanded.
 
 **Special:** You may take this feat multiple times. The effects stack.
 
-#### Fane of Power (Su) [DRS]
+#### Fane of Power (Su)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -206,7 +206,7 @@ You can only have one fane of power active at a time; if you attempt to create a
 
 Additionally, an ally that is affected by one of your lyrics can spend a swift action to harmonize with the lyric, imparting its benefits to another creature within your lyric range to the ally (Will negates if unwilling). A lyric imparted this way cannot be expended, only lasts for 1 round, but can still be harmonized as normal.
 
-#### Hex-woven Rite [DRS]
+#### Hex-woven Rite
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -214,7 +214,7 @@ Additionally, an ally that is affected by one of your lyrics can spend a swift a
 
 **Benefit:** Whenever you perform a rite that targets 1 or more creatures, you can use a hex on one of the targets as a swift action. You can choose to use such a hex before or after performing the rite.
 
-#### Hymnal Verse (Dual Sphere) [DRS]
+#### Hymnal Verse (Dual Sphere)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -288,7 +288,7 @@ You know how to prepare spells or extracts most of the way, and then finish the 
 
 This is considered to be a plan talent for the purposes of determining the number of plans you can prepare in a day.
 
-#### Omen-bound Strike (Su) [DRS]
+#### Omen-bound Strike (Su)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -312,13 +312,13 @@ If using a scatter weapon, the rite only applies to a single target, chosen at t
 
 You can hack the effect as part of its casting or activation if you cast the effect or produce the effect from an item you wear or wield. If you target another creature's effect or an item or trap, you may hack the effect as an immediate action (after spending the move action to ready yourself).
 
-#### Public Renown [LotS]
+#### Public Renown
 
 **Prerequisite:** Diplomacy 7 ranks.
 
 **Benefit:** You gain the influence and rapid persuasion abilities of the envoy class, but cannot use the deep discouragement ability. The DC of trusted words is equal to 10 + 1/2 your ranks in Diplomacy + your Charisma modifier. If you already possess either of these class features, you gain the uses of influence and rapid persuasion provided by an envoy with no archetype in addition to any abilities granted by your archetype.
 
-#### Ritual Specialization [DRS]
+#### Ritual Specialization
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -338,7 +338,7 @@ You can hack the effect as part of its casting or activation if you cast the eff
 
 **Benefit:** Once per round, when you use sneak attack on a standard attack action, you may increase the damage dice from sneak attack by one size (usually from d6s to d8s).
 
-#### Skill Sphere Focus (Combat) [LotS]
+#### Skill Sphere Focus (Combat)
 
 **Benefit:** Choose a skill sphere. You gain a +1 bonus to saving throw and target’s skill check DCs for all abilities from that sphere.
 
@@ -364,7 +364,7 @@ You add the following breakthrough to your theories:
 
 - **Breakthrough:** You can spend 1 notion to learn a minor motivation from the chosen creature, or a minor motivation that may be typically shared by those who attend the chosen event. You can spend an additional 2 notions (3 notions in total) to instead learn a major motivation.
 
-#### Song In Your Soul [DRS]
+#### Song In Your Soul
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -384,7 +384,7 @@ You can spend 1 hour to change the chosen (instrumental) or (lyric) talent to a 
 
 Additionally, you gain a +1 insight bonus to analyze skill checks made against the subject of your theory for every notion the theory possesses.
 
-#### Spring In Your Step [DRS]
+#### Spring In Your Step
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -402,7 +402,7 @@ You can spend 1 hour to change the chosen (dance) talent to a different talent t
 
 **Benefit:** You may treat an area which you analyze as being your favored terrain for the purpose of providing bonuses from the favored terrain class feature. You may only have one analyzed area treated as your favored terrain at any given time. You receive the maximum bonuses in this area that your favored terrain feature can grant.
 
-#### Thaumic Retention [DRS]
+#### Thaumic Retention
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -416,13 +416,13 @@ Whenever a creature engages with the artwork (and takes at least a standard acti
 
 This artwork requires special maintenance to function.
 
-#### Theoretical Initiate [LotS]
+#### Theoretical Initiate
 
 **Benefit:** You gain the hypothesis dice and theory bonus class features of a 1st-level theorist, gaining 2 additional hypothesis dice for every 4 levels you possess in classes other than theorist and increasing your theory bonus by 1 for every 6 levels you possess in classes other than theorist. If you already possess the hypothesis dice class feature, this feat grants 2 additional hypothesis dice. If you do not already possess the model class feature, you may select a single theorist model, allowing you to assign hypothesis dice to that model and use them to apply that model’s theory bonus. This feat does not grant you the magical underpinning of a selected model.
 
 You may spend a plan or martial focus in place of spending a spell point to reroll your hypothesis dice, although such methods only allow you to reroll hypothesis dice granted by this feat.
 
-#### Totemic Effigy (Su) [DRS]
+#### Totemic Effigy (Su)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 

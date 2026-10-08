@@ -25,7 +25,7 @@ Drawback feats present a way of taking advantage of a specific drawback in a man
 
 **Benefit:** Whenever you use a sphere ability, you can unleash a powerful battlecry as part of your verbal casting. Until the end of your next turn, you receive a bonus to your intimidate checks equal to half your caster level.
 
-#### Bottled Spells (Drawback) [Apoc]
+#### Bottled Spells (Drawback)
 
 **Prerequisites:** Charged Spells.
 
@@ -37,7 +37,7 @@ Any creature, not just yourself, can use the charge by using the item (eating th
 
 The user is considered the creator of the spell, and can do whatever the creator can with the spell, including dismissing it, moving it (if it can be moved), or any other effect that can take place after the ability has been created. However, the charge still uses your caster level, spell DC, casting ability modifier, concentration and magical skill bonus (determined at the time of the charge’s creation).
 
-#### Burst of Concentration (Drawback) [Apoc]
+#### Burst of Concentration (Drawback)
 
 **Prerequisites:** Mental Focus.
 
@@ -49,7 +49,7 @@ The user is considered the creator of the spell, and can do whatever the creator
 
 **Benefit:** Your slow casting style results in more firmly constructed sphere effects. You add your casting ability score modifier as a bonus to your MSD (minimum +1) for the purposes of countering or dispelling your sphere effects. You may spend an additional spell point when enhancing a creature or object to force any creature attempting to dispel or counter that effect to roll twice and take the worse result.
 
-#### Combatant Caster (Drawback) [Apoc]
+#### Combatant Caster (Drawback)
 
 **Prerequisites:** Galvanized.
 
@@ -61,7 +61,7 @@ While wielding a weapon appropriate for your drawback, you gain a +4 bonus on co
 
 **Special:** This feat counts as Combat Casting for the purposes of meeting other prerequisites that depend on it. This feat benefits to concentration checks do not stack with Combat Casting.
 
-#### Curse Mastery (Drawback) [Apoc]
+#### Curse Mastery (Drawback)
 
 **Prerequisites:** Innate Curse.
 
@@ -69,7 +69,7 @@ You gain all the benefits of your oracle curse; both the base benefit as well as
 
 **Special:** If your curse provides you with spells known, instead of normally granting bonus spells (for example, Haunted), you do not gain spells or talents. Instead, you gain a bonus spell point at the levels you would normally gain the spells.
 
-#### Fast Focus (Drawback) [Apoc]
+#### Fast Focus (Drawback)
 
 **Prerequisites:** Mental Focus.
 
@@ -77,7 +77,7 @@ You gain all the benefits of your oracle curse; both the base benefit as well as
 
 **Normal:** A character without this feat must take a full-round action to regain mental focus.
 
-#### Habit Forming (Drawback, Metamagic) [Apoc]
+#### Habit Forming (Drawback, Metamagic)
 
 **Benefit:** Creatures affected by your sphere effects can develop an addiction to receiving your magic. Whenever a creature fails a saving throw (or accepts an effect willingly) against a sphere effect that is also affected by this feat, it must make a Fortitude saving throw (DC is identical to the saving throw for the sphere effect itself), or develop dependance to your magic, as if they possessed the Addictive Casting drawback, except instead of having to make Fortitude saves against addiction whenever they spend a spell point (or do not spend a spell point), they instead must make Fortitude saves whenever they are affected by one of your sphere effects that spends one or more spell points. This dependance may be cured as dependance is cured, the addiction DC resets itself to 10 once more if they are subjected to this feat again.
 
@@ -91,7 +91,7 @@ You gain all the benefits of your oracle curse; both the base benefit as well as
 
 **Benefit:** As a full-round action, you may conceal your witchmark for 24 hours while simultaneously hampering your magic. Using magic while your witchmark is concealed requires you to make a concentration check (DC 20 + 1/2 the caster level) to produce the desired effect. Failure means either your witchmark manifests and the effect happens as normal or you may instead choose to have any time (and any spell points) are spent, but no effect happens and your witchmark remains concealed. You may choose to re-manifest your witchmark as a full-round action.
 
-#### Insidious Magic (Drawback) [S&P]
+#### Insidious Magic (Drawback)
 
 Your magic is subtle and difficult to detect.
 
@@ -99,7 +99,7 @@ Your magic is subtle and difficult to detect.
 
 **Benefits:** The divine ability of the Divination sphere has a 50% chance of not detecting any magic effects you create unless the Divination effect uses the same Alien Source that you do. Even if the effects are detected, their aura is one step weaker than it would normally be (meaning faint effects would have no aura).
 
-#### Instinctual Skittishness (Drawback) [Apoc]
+#### Instinctual Skittishness (Drawback)
 
 **Prerequisites:** Coy Caster.
 
@@ -107,7 +107,7 @@ Your magic is subtle and difficult to detect.
 
 In addition you receive a +2 circumstance bonus to Stealth checks.
 
-#### Magic Runes (Drawback) [Apoc]
+#### Magic Runes (Drawback)
 
 **Prerequisites:** Diagram Magic.
 
@@ -131,7 +131,7 @@ A hidden diagram can be seen by effects that detect or sense magic, and is detec
 
 See the [[Proxy Feats|Proxy]] section.
 
-#### Power of Friendship (Drawback) [Apoc]
+#### Power of Friendship (Drawback)
 
 **Prerequisites:** Emotional Casting.
 
@@ -139,13 +139,13 @@ See the [[Proxy Feats|Proxy]] section.
 
 When under a magical effect that invokes an emotion (spells with the (emotion) descriptor, or charms such as Inspiration or Hostility), and the source of the effect is an ally, you may choose to roll concentration checks twice and take the higher result.
 
-#### Powerful Focus (Drawback) [Apoc]
+#### Powerful Focus (Drawback)
 
 **Prerequisites:** Mental Focus.
 
 **Benefit:** You can expend your mental focus as part of casting a sphere effect to increase the saving throw DC by a +1 competence bonus. A sphere effect that does not require a saving throw to resist or lessen the effect cannot be used with this feat.
 
-#### Prepared Diagram (Drawback) [Apoc]
+#### Prepared Diagram (Drawback)
 
 **Prerequisites:** Diagram Magic.
 
@@ -155,7 +155,7 @@ When casting spells through your prepared diagram, you receive a +1 competence b
 
 **Special:** You may select this feat multiple times. Each time you do select another sphere. You may create a separate prepared diagram for that sphere.
 
-#### Resistant Veins (Drawback) [Apoc]
+#### Resistant Veins (Drawback)
 
 **Prerequisites:** Anemic.
 
@@ -165,7 +165,7 @@ When casting spells through your prepared diagram, you receive a +1 competence b
 
 See the [[Proxy Feats|Proxy]] section.
 
-#### Terrain Defiler (Drawback) [Apoc]
+#### Terrain Defiler (Drawback)
 
 **Prerequisites:** Non-good alignment, Terrain Casting.
 
@@ -173,7 +173,7 @@ See the [[Proxy Feats|Proxy]] section.
 
 **Special:** You cannot gain this feat if you possess the Terrain Focus feat.
 
-#### Terrain Focus (Drawback) [Apoc]
+#### Terrain Focus (Drawback)
 
 **Prerequisites:** Nature sphere, Terrain Casting.
 
@@ -189,13 +189,13 @@ By interweaving illusions with all of your spells you change their sensory manif
 
 This feat can only affect spells that have an obvious auditory or visual manifestation.
 
-#### Unified Focus (Champion, Drawback) [Apoc]
+#### Unified Focus (Champion, Drawback)
 
 **Prerequisites:** Fast Focus, ability to gain martial focus.
 
 **Benefits:** You can take a standard action to regain both your mental focus and your martial focus.
 
-#### Witchwarped (Drawback) [Apoc]
+#### Witchwarped (Drawback)
 
 **Benefit:** You are infused with the traits of something else other than just your being.
 

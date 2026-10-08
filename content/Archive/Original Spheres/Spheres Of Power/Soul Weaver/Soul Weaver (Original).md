@@ -204,13 +204,13 @@ At 20th level, a soul weaver has become so adept at walking the paths of life an
 
 The following feats are particularly appropriate or helpful for Soul Weavers.
 
-#### Blessing/Blight Mastery [Core]
+#### Blessing/Blight Mastery
 
 **Prerequisites:** Blessing/Blight class feature, Channel Energy class feature
 
 **Benefit:** When you channel energy, you may spend an additional use of channel energy to apply a blessing or blight to one creature that was affected by your channeling. This creature is allowed a saving throw as usual, if they would normally be granted one.
 
-#### Blessing/Blight Versatility [Core]
+#### Blessing/Blight Versatility
 
 **Prerequisites:** Blessing/Blight class feature, Channel Energy class feature, Versatile Channeler.
 
@@ -250,19 +250,19 @@ If the (blast type) talent chosen has additional spell point costs, an additiona
 
 **Benefit:** You may expend a soul from your bound nexus to create a bound totemic soul. A totemic soul works as a normal totem, but it can move as it were a soul (they normally orbit the character, but the soul weaver can move any number of them as a move action and they have a fly speed of 40 ft), and it has a radius of only 30 ft. A totemic soul continues to exist for 10 minutes per level in the class that grants you the bound nexus class feature without needing concentration. You must still pay the normal spell point cost for creating the totem.
 
-#### Extra Magic Talent [Core]
+#### Extra Magic Talent
 
 **Prerequisite:** Basic Magic Training or Casting class feature.
 
 **Benefit:** Gain an additional sphere or a talent from a sphere you possess. You may take this feat multiple times. The effects stack.
 
-#### Extra Nexus Powers [Core]
+#### Extra Nexus Powers
 
 **Prerequisite:** Bound Nexus class feature.
 
 **Benefit:** Increase the number of souls in your bound nexus by 2. You may gain this feat multiple times. The effects stack.
 
-#### Extra Spell Points [Core]
+#### Extra Spell Points
 
 **Prerequisite:** Spell Pool.
 

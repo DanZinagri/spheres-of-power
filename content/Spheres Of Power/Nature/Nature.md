@@ -214,13 +214,13 @@ If a (spirit) talent uses your geomancing range or references a geomancing abili
 
 When you use a geomancing or spirit ability that requires concentration, the ability continues to maintain itself for 2 rounds after you stop concentrating. When you spend a spell point to make a geomancing or spirit ability endure without concentration, its duration increases by one step (1 round per caster level becomes 1 minute per caster level, while 1 minute per caster level becomes 10 minutes per caster level).
 
-#### Elemental Strike [Strike] [3PP]
+#### Elemental Strike [Strike]
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 As a standard action, you may make a single weapon attack in conjunction with using a geomancing effect which can target a creature or object. This casting cannot be reduced below a standard action, and does not provoke attacks of opportunity, unless as usual if making a ranged attack. If the target is struck by the attack, it is also affected by the geomancing. If using a scatter weapon, the geomancing only applies to a single target, chosen at the time of attack. If you possess the Grant Spirit talent, you may affect the target with a spirit effect which requires an attack roll or combat maneuver (such as destroy element) in place of a geomancing effect.
 
-#### Environmental Presence [Mass] [3PP]
+#### Environmental Presence [Mass]
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -268,7 +268,7 @@ If the cloud has a duration, the time the cloud is contained within you counts t
 
 **Feather Fall:** Concentration, requires air. You cause all falling creatures or objects within a 5 feet + 5 feet per 5 caster levels radius to fall slowly, changing the rate at which they fall to a mere 60 feet per round (equivalent to the end of a fall from a few feet). The targets take no damage upon landing while this talent is in effect. Once applied, this effect stays with the individually affected targets until the duration expires. You may use this ability as an immediate action by spending a spell point.
 
-#### Aquatic Adept (water, geomancing, spirit) [Alienist HB]
+#### Aquatic Adept (water, geomancing, spirit)
 
 You gain several abilities which improve your capacity to operate underwater.
 
@@ -282,7 +282,7 @@ You gain several abilities which improve your capacity to operate underwater.
 
 **Echoes of the Sea (spirit):** You may spend 1 spell point to gain the ability to track creatures through the water as if across soft ground as long as they passed through the area less than 1 week ago (this lets you notice trails that are much older than normal underwater trails). You retain this benefit for 1 hour per caster level.
 
-#### Breeze Mastery (air, geomancing) [EO3]
+#### Breeze Mastery (air, geomancing)
 
 When using Breeze, you may spend a spell point to have it affect an area, granting its benefits to all creatures within a 15-foot radius + 5 feet per 5 caster levels. Additionally, when you use Breeze, you may add any of the following additional effects depending on what other packages you possess.
 
@@ -451,7 +451,7 @@ When using Pummel, you may spend an additional spell point. If you do, you may a
 
 When using Harvest, you may produce 2 magical berries per caster level, along with the usual food. Any creature who consumes one of these berries is healed 1 hit point. These berries lose their magical potency after 24 hours.
 
-#### Primordial Branches (plant, geomancing) [DRS]
+#### Primordial Branches (plant, geomancing)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -487,7 +487,7 @@ On each round after the first, an antagonized creature may attempt a Sense Motiv
 
 **Sap Conglutination:** Instead of a regular attack, you may instruct the vegetation to excrete a rubbery resin and attempt to coat the target with it. Targets hit by the attack become coated with this sap and gain the fatigued condition until they remove it as a full-round action. If a fatigued creature becomes coated with sap a second time, they gain the exhausted condition until the sap is removed as a full-round action.
 
-#### Purify Nature (geomancing) [Warden]
+#### Purify Nature (geomancing)
 
 You may purify the nature around you, making brackish water drinkable, poisonous plants edible, and hazardous air breathable.
 
@@ -517,7 +517,7 @@ As a concentration effect, you may use a limited form of Reforge that can even a
 
 **Heat Metal:** If you possess the (fire) package, you may heat metal. This functions the same as chill metal, except dealing fire damage instead of cold damage, and moving parts cease functionality due to being slightly welded rather than frozen.
 
-#### Repress Element (geomancing) [Apoc]
+#### Repress Element (geomancing)
 
 *Source: [Spheres Apocrypha: Battlefield Manipulation Talents](https://www.drivethrurpg.com/product/350940/Spheres-Apocrypha-Battlefield-Manipulation-Talents?affiliate_id=549120)*
 
@@ -532,7 +532,7 @@ Any effect with a descriptor corresponding to the repressed element does not man
 - **Plant: Disintegrate Flora:** As Disintegrate Earth, save that the effects apply to creatures and equipment made of wood, vines, or other plant-based materials rather than stone or crystal.
 - **Water: Evaporation:** The area becomes immensely dry, causing all unattended liquid in the area to evaporate (although it may return to liquid state when the effect ends). Living creatures in the area take a -2 penalty on Fortitude saves. This penalty increases by 1 per 5 caster levels. At caster level 10th, even attended liquids like potions dry up temporarily in the area, although owners are allowed a Fortitude save to negate this effect for as long as they remain in the area (although they must save again if they leave and re-enter the area).
 
-#### Riding Fog (water, geomancing) [Alienist HB]
+#### Riding Fog (water, geomancing)
 
 You may create clouds of fog attached to yourself or to other creatures. A fog cloud attached to a creature is called a riding fog. This functions as a regular fog and can be dispersed by wind, except that it moves with the creature it is attached to, becomes inactive if that creature is knocked unconscious and is dispelled if they are killed. The fog continues to function if it goes beyond the range of its creator.
 
@@ -574,7 +574,7 @@ In addition, you gain the following geomancing abilities:
 
 ## Spirit Talents
 
-#### Aquatic Adept (water, geomancing, spirit) [Alienist HB]
+#### Aquatic Adept (water, geomancing, spirit)
 
 You gain several abilities which improve your capacity to operate underwater.
 
@@ -827,7 +827,7 @@ You may spend 2 additional spell points when using your Recover Ore ability, if 
 
 As an instantaneous effect, you may, as a standard action, spend 3 spell points to call a specific fey, magical beast, plant or vermin of a type you designate (provided the creature’s CR is equal to or less than 1/2 your caster level) which then appears in a place within range at the start of your next turn, and remains for up to 1 hour per caster level. Unlike Friend To Wildlife, this advanced talent does not require that there are creatures of those types in the area. The creature will aid the caster to the best of its ability, but unless the caster speaks the creature’s language, only basic communication is possible (attacking an enemy, defending the caster, etc.) The creature must also be treated fairly and will not give aid that is obviously suicidal. If treated poorly, they may turn on and attack the caster. A caster may not use Natural Ally more than once per day.
 
-#### Peace And Love (spirit) [Jester's HB]
+#### Peace And Love (spirit)
 
 **Prerequisites:** Nature sphere, Mind sphere.
 

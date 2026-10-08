@@ -13,7 +13,7 @@ parent: "[[Original Spheres]]"
 
 You may create and alter physical materials.
 
-# Alter [Core]
+# Alter
 
 Altering an object is a standard action and requires you to be touching the object to be altered. You cannot alter an animate target (such as a golem or animated object) and the object must be non-magical and unattended (not held, worn, or part of a creature’s equipment).
 
@@ -33,7 +33,7 @@ You deal damage to the object equal to 1d4 + 1/2 your caster level. This bypasse
 
 Talents marked (alter) grant you new ways to alter objects.
 
-# Create [Core]
+# Create
 
 As a standard action, you may spend a spell point to create a non-magical, unattended object out of vegetable matter such as wood, hemp, or cotton in either your hand or an adjacent square. The object may be of equivalent size to one Small object per caster level (see chart below) and lasts as long as you continue to concentrate, to a maximum of 1 minute per caster level. When creating an object you may spend an additional spell point to allow that object to persist for 1 minute per caster level without concentration.
 
@@ -106,15 +106,15 @@ When creating an object and dropping it on a target at the same time, the fallin
 
 You gain the ability to alter objects at range. When using alter you may instead make a ranged touch attack at a valid target within close range instead of a touch attack. You may select this talent multiple times. Each time it is taken, increase the range by 1 step (close to medium, medium to long).
 
-#### Distant Creation [Core]
+#### Distant Creation
 
 When you create an object, the object may appear anywhere within Close range. Objects that take up large areas must be completely contained within range. You may select this talent multiple times. Each time it is taken, increase the range by 1 step (Close to Medium, Medium to Long).
 
-#### Divided Creation [Core]
+#### Divided Creation
 
 When creating an object, you may create multiple objects within range. Each created object must be of the same general type (suits of armor, wall sections, catapults, etc.), and the object’s total size cannot exceed your maximum creation size. Alternately, you may create a single ‘object’ that would normally consist of a multitude of parts (i.e., if creating a tavern with this talent, it would appear with chairs, beds, barrels, etc.).
 
-#### Expanded Materials [Core]
+#### Expanded Materials
 
 When you take this talent, you may choose one of the following options. You may take this talent multiple times. Each time, choose another option you haven’t taken yet.
 
@@ -176,23 +176,23 @@ Repairing a plasma restores it to the size (for fire) or stored energy (for elec
 
 If you use Change Material to turn an object into a plasma which dissipates entirely before the duration expires, then the object is destroyed when it regains its normal form. Otherwise, when the duration expires, the object reverts to its previous form with no apparent difference or damage that wasn’t preexisting.
 
-#### Exquisite Detail [Core]
+#### Exquisite Detail
 
 Items you create are more intricate, and much harder to identify as fakes. You may add your caster level to any Craft checks made to create detailed or complicated objects and to the Appraise DC required to detect objects you create as magical fakes. Those attempting to detect magic on your created objects must pass a magic skill check to detect any lingering creation auras.
 
-#### Greater Destroy [Core]
+#### Greater Destroy
 
 Increase the amount of damage dealt when you use your destroy ability to 1d6 + your caster level.
 
-#### Greater Repair [Core]
+#### Greater Repair
 
 Increase the amount of damage healed when you use your repair ability to 1d6 + your caster level.
 
-#### Larger Creation [Core]
+#### Larger Creation
 
 You may spend an additional spell point when creating or altering an object to double the size, letting you create or alter up to the equivalent of 2 Small objects (1 Medium object) per caster level.
 
-#### Lengthened Creation [Core]
+#### Lengthened Creation
 
 When you create or alter an object, you may spend a spell point to make the object or effect remain for 1 hour per caster level without concentration.
 
@@ -220,7 +220,7 @@ When attempting to create a liquid, you can treat 5 cubic ft. as a Small object.
 
 You may create objects made of solid force energy. Force objects have no weight and prevent incorporeal creatures from passing through them. Force objects have hardness equal to two times your caster level and hp equal to 10 times your caster level per inch. A wall 5 ft. by 5 ft., 1 in. thick of force is treated as a Small object. If you possess Wall Master you may instead treat a 10 ft. by 10 ft., 1 in. or a 5 ft. by 5 ft., 4 in. thick wall of force as a Small object. Objects of force are translucent but easily noticeable and require no Perception check to see while imparting a -2 penalty to Perception checks to see through them. If you possess Transparency you may make the object invisible (as Illusion sphere’s Invisibility using your Creation caster level) or entirely opaque without spending an additional spell point, chosen at the time of its creation.
 
-#### Potent Alteration [Core]
+#### Potent Alteration
 
 When altering an object, you may spend an additional spell point to affect magical objects, attended objects, or animate targets such as golems. While this means you may repair broken magical items with your repair ability, you cannot restore the magic to such an object unless your caster level is at least equal to the item’s caster level. Items with charges (such as wands) and single-use items (such as potions and scrolls) cannot be repaired in this way.
 
@@ -250,7 +250,7 @@ Additionally, you may create non-harmful objects directly on a creature. An unwi
 
 # Alter Talents
 
-#### Change Material (alter) [Core]
+#### Change Material (alter)
 
 You may spend a spell point to alter an object, changing its composition from one material to another for 1 round per caster level. Both the material you are affecting and the material you are changing it into must be materials you can create (i.e., you must possess the Expanded Materials talent to work with objects other than vegetable matter) and the object cannot exceed your maximum creation size, although you may target part of an object (such as a section of wall). When the duration expires, the object returns to its normal material, although any damage sustained while altered remains after it returns to its original material. You cannot change a liquid into a solid or a solid into a liquid, and you cannot create or affect gases.
 

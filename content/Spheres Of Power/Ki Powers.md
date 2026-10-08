@@ -23,17 +23,17 @@ Whenever the monk hits an enemy with an unarmed strike, he may spend a ki point 
 
 The monk gains the extra magic talent feat. He must meet the feat’s prerequisites. He may take this ki power multiple times, each time granting an additional talent.
 
-#### Fuel Stance [Youxia HB]
+#### Fuel Stance
 
 You may spend a ki point as a free action to extend the duration of an active (stance) talent by 1 round. For every 5 monk levels you possess, increase the duration by an additional round.
 
-#### Guiding Ki Mark (Su) [BTH]
+#### Guiding Ki Mark (Su)
 
 As long as the monk has 1 ki point, whenever the monk hits an enemy with an attack, the monk may mark that enemy with ki which guides his subordinates’ strikes towards the target. Until the start of the monk’s next turn, the monk’s subordinates gain a +1 circumstance bonus on attack rolls against the marked enemy.
 
 For every 6 monk levels, this bonus increases by +1. If the monk would use this ability to mark a creature while another creature is marked, the previous mark immediately ends. If one of the monk’s subordinates deals damage to an enemy marked by this ki power, the monk may spend 1 ki point as an immediate action to allow that subordinate to move up to half its base speed, provided it moves into a space adjacent to the monk. This movement does not provoke attacks of opportunity. A subordinate serving as the monk’s mount cannot be granted movement this way.
 
-#### Sagazoic (Su) [BTH]
+#### Sagazoic (Su)
 
 “We can learn much from the creatures who call this place home.” -Master of the Timeworn Hand
 
@@ -43,7 +43,7 @@ A linked animal ally gains the benefits of the following class features: AC bonu
 
 The monk must possess the appropriate class feature in order to grant it to his animal ally with this ability. The animal ally’s effective monk level is equal to the monk’s class level when determining the effects of abilities shared this way; for the ki strike ability, the animal ally treats their natural attacks as unarmed strikes and may perform a ki strike as long as the monk has at least 1 point in his ki pool.
 
-#### Stance Dancer [Youxia HB]
+#### Stance Dancer
 
 Gain a single talent of your choice with the (stance) tag that you qualify for. You cannot select this ki power if you do not qualify for any (stance) talents. You may select this ki power more than once. Each time it is selected, gain another (stance) talent.
 

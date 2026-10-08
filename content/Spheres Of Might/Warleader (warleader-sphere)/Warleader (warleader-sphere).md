@@ -18,7 +18,7 @@ When you first gain the Warleader sphere, you gain both the shout and tactic pac
 
 The Warleader sphere uses its associated skill in place of the practitioner’s base attack bonus to determine its effects.
 
-## Battlecry [SAA]
+## Battlecry
 
 **Action:** 1 melee or ranged special attack action
 

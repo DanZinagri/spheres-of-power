@@ -13,7 +13,7 @@ parent: "[[Original Spheres]]"
 
 You can predict the future and gain information not available to the usual 5 senses.
 
-# Divine [Core]
+# Divine
 
 You may divine to gain information. To divine, you must spend 10 minutes meditating, although you may spend a spell point to decrease this time to a single standard action. Divining always has a duration of concentration, but you must spend a full-round action concentrating (you can take no other action, not even walking); you are flat-footed while divining.
 
@@ -75,7 +75,7 @@ If you possess the Blood sphere, you may divine the location of any creature tha
 
 ### Conjuration
 
-#### Divine Unnaturals [Core]
+#### Divine Unnaturals
 
 If you possess the Conjuration Sphere, you may divine the presence of outsiders and aberrations. In all other ways, this functions as divining for undead.
 
@@ -97,7 +97,7 @@ If you possess the Dark sphere, you may divine the presence of creatures or obje
 
 ### Death
 
-#### Divine Undead [Core]
+#### Divine Undead
 
 If you possess the Death sphere, you may divine for undead creatures. The strength of an undead aura is determined according to Chart: Undead.
 
@@ -134,7 +134,7 @@ If you possess the Fallen Fey sphere, you may divine the location of any creatur
 
 If you possess the Fate sphere, you may divine the top three general things matter most to the creatures you can see within range. Examples of base loyalties may include but are not limited to: Country, Faith, Family, Power, and Self. Subcategories for base loyalties may also exist where appropriate such as Self (survival) or Self (perfection). While you do not learn specific details such as proper names of the associated loyalties, you do acquire the order in which the loyalties stand. Mindless creatures might have only 1 loyalty such as Self (survival), whereas creatures with low animal-like intelligence might only have 2 loyalties such as Family (pack) and Self (survival). Only the top three loyalties are revealed, even if they have more.
 
-#### Divine Alignment [Core]
+#### Divine Alignment
 
 If you possess the Fate sphere, you may divine for a specific part of the alignment spectrum: evil, good, lawful, or chaotic. The strength of these auras are determined according to Chart: Alignment.
 
@@ -167,13 +167,13 @@ If you possess the Fate sphere, you may divine the alignment auras of creatures 
 
 ### Illusion
 
-#### Divine Illusions [Core]
+#### Divine Illusions
 
 If you possess the Illusion Sphere, you may divine for illusions. This grants you a free Will save or Perception check (in the case of illusionary disguises or invisibility) against any illusions or invisibility within the area.
 
 ### Life
 
-#### Divine Life [Core]
+#### Divine Life
 
 If you possess the Life sphere, you may divine the location of nearby living creatures. These creatures do not have auras; you instead determine their condition according to the list below:
 
@@ -190,13 +190,13 @@ If you possess the Light sphere, you may divine with an added level of perceptio
 
 ### Mind
 
-#### Divine Charm [Core]
+#### Divine Charm
 
 If you possess the Mind sphere, you may divine for the presence of charm, compulsion, possession, and mind sphere effects. You do not need to make a Knowledge (arcana) check to identify the school or sphere of these abilities.
 
 ### Nature
 
-#### Divine Elements [Core]
+#### Divine Elements
 
 If you possess the Nature sphere, you may divine for the elements.
 
@@ -264,7 +264,7 @@ If you possess the Warp sphere, you may divine the presence of portals, rifts (i
 
 ### Weather
 
-#### Divine Weather [Core]
+#### Divine Weather
 
 If you possess the Weather sphere, you may divine the weather at your location for the next 24 hours, providing you with advance warning of storms, tornadoes, and so on. This reveals only the weather that would arise naturally and does not take into account any magical occurrences that might change the weather.
 
@@ -282,11 +282,11 @@ Some talents are marked (divine). These talents give you additional things you m
 
 ---
 
-# Sense [Core]
+# Sense
 
 As a standard action, you may grant yourself paranormal senses for 1 hour/level. When you gain the Divination sphere, you gain the following sense.
 
-#### Read Magic [Core]
+#### Read Magic
 
 You may spend a spell point to gain a sense that allows you to decipher all magical writings, such as those found in books, scrolls, on weapons, or in other places intelligible to you. This does not invoke the magic contained in the writing, although it may do so in the case of a cursed or trapped scroll. Furthermore, once you have read a magical inscription through this ability, you are thereafter able to read that particular writing even without this sense. You can read at the rate of one page (250 words) per minute. You can identify glyphs, runes, and symbol spells with a Spellcraft check (DC 10 + 1/2 caster level).
 
@@ -300,17 +300,17 @@ Some talents are marked (sense). These talents grant you additional senses you m
 
 Pick any three alternate divinations which you do not currently possess. You gain access to those alternate divinations as if you possessed the requisite spheres. If the alternate divination has an additional prerequisite such as the Nature sphere’s Divine Elements, you pick which one you gain access to upon acquiring it. This talent may be taken multiple times, each time you may pick three alternate divinations which you do not possess.
 
-#### Fast Divinations [Core]
+#### Fast Divinations
 
 Divining takes 1 minute instead of 10 minutes (without a spell point). You may take this talent two times decreasing the time it takes to divine down to 1 round instead. This is an alteration of the Fast Divinations talent found in Spheres of Power, pg 28.
 
 **Wiki Note:** The original version of this had the following text: Divining takes 1 minute instead of 10 minutes.
 
-#### Grant Sense [Core]
+#### Grant Sense
 
 You may grant your senses to a touched target instead of only yourself.
 
-#### Greater Divine [Core]
+#### Greater Divine
 
 Your divine ability works out to Long range instead of Medium range.
 
@@ -347,7 +347,7 @@ If the check fails, you get the “nothing” result. A caster who gets the “n
 
 The augury can see into the future up to one hour per caster level, so anything that might happen after that does not affect the result. Thus, the result might not take into account the long-term consequences of a contemplated action. All auguries cast by the same person, in the same day about the same topic, use the same die result as the first casting.
 
-#### Detect Secrets (divine) [Core]
+#### Detect Secrets (divine)
 
 You may spend a spell point to divine for things expressly designed to be hidden. This includes secret doors, hidden caches, and secret compartments. Not only does this detect the presence of such secrets, but it also gives you knowledge of their trigger mechanisms. This only detects doors, passages, and openings specifically designed to avoid detection.
 
@@ -388,15 +388,15 @@ You may divine the emotions of creatures you can see within range (Will save neg
 | Shame |
 | Love |
 
-#### Divine Future (divine) [Core]
+#### Divine Future (divine)
 
 You may divine for a glimpse of the future, giving yourself insight into the happenings of that day. At any time during that day, you may add an insight bonus equal to 1d4 +1 per 5 caster levels to one attack roll, skill check, saving throw, ability check, or combat maneuver roll you are about to make. It can also apply to initiative rolls. As an immediate action, you may grant this benefit to an ally who can both see and hear you. You can only have one use of this ability waiting to be used at a time. You may take this talent multiple times, to a maximum of 5 times. Every time you gain this talent beyond the first, you may use this ability an additional time during that day. Every time you divine for the future, you regain all your uses of this ability for that day.
 
-#### Divine Information (divine) [Core]
+#### Divine Information (divine)
 
 You may spend a spell point to divine for information. This grants you the ability to reroll a failed Knowledge check (or to make a Knowledge check untrained), with an insight bonus equal to 1/2 your caster level. You may only divine for information once per Knowledge check.
 
-#### Dowsing (divine) [Core]
+#### Dowsing (divine)
 
 You may spend a spell point to divine the location of a creature or object within range. This may be a specific creature or object or a kind of creature or object, but either way you must have a clear mental image of the creature or object to divine for it (thus, you could not divine broadly for traps, creatures of a broad creature type, etc.). If divining for a kind of creature or object, you only locate the closest item of that kind. This method of using divine is not blocked by wood or stone, but is still blocked by lead.
 
@@ -404,7 +404,7 @@ You may spend a spell point to divine the location of a creature or object withi
 
 You may perform psychometry on a target object you touch gaining information about its history or previous owners. In addition to the information you acquire below, you gain a circumstance bonus to appraise checks with that object equal to 1/2 your caster level for as long as you continue to divine the object. For every 1 minute you divine the object you gain one additional piece of information found in the following order: Last owner’s race, last owner’s gender, last owner’s age, last owner’s alignment, how the last owner lost or gained the object. Upon learning this last piece of information, you may spend a spell point, if you do you begin to learn information on the owner before the last at the same rate in the same order. Should object reading be interrupted for 2 or more consecutive rounds, you must start again at the beginning unless you spend 1 spell point per past owner.
 
-#### Viewing (divine) [Core]
+#### Viewing (divine)
 
 You may spend a spell point to divine, transferring your point of view to any point within range. You may see and hear from this location. You do not need line of sight or line of effect, but the locale must be known—a place familiar to you, or an obvious one such as a distance and direction. Once you have selected the locale, the sensor doesn’t move, but you can rotate it in all directions to view the area as desired, in all ways as if you were standing where your sensor is located. This ability creates a scrying sensor, which can be detected (Perception DC 20 + caster level) and dispelled.
 
@@ -418,15 +418,15 @@ You may spend a spell point to see, hear, smell, feel, and even taste a torrent 
 
 # Sense Talents
 
-#### Battlefield Sense (sense) [Core]
+#### Battlefield Sense (sense)
 
 You may spend a spell point to grant yourself greater perception. You can no longer be flanked, except by a creature with 4 more rogue levels than your caster level.
 
-#### Blindfolded Oracle (sense) [Core]
+#### Blindfolded Oracle (sense)
 
 You may spend a spell point to grant yourself Blindsense 30 ft. You must close your eyes to use this ability. For the purpose of this ability, opening and closing your eyes is a free action you may take once per round. You may spend an additional spell point to upgrade this ability to Blindsight.
 
-#### Detect Scrying (sense) [Core]
+#### Detect Scrying (sense)
 
 You may spend a spell point to detect the scryings of others. Any attempt to scry or divine on a location or creature within 30 ft of you (unless you purposefully lower this defense) becomes impossible unless the caster succeeds in a magic skill check against you. In addition, you sense if any creature within range is using the divine ability or a divination spell, as well as the location of any sensors in the area (such as with the viewing talent or the clairaudience/clairvoyance spell). You become aware of any attempt to scry on you, such as with a divination (scrying) school spell or the scrying advanced divination talent. If these spells and effects originate within your sense’s area, you immediately know their location. Otherwise, if you match or exceed the other caster in an opposed magic skill check, you gain a visual image of the diviner and know their direction and distance from you. You may suppress or resume this sense as a free action.
 
@@ -434,15 +434,15 @@ You may spend a spell point to detect the scryings of others. Any attempt to scr
 
 You may spend a spell point to gain a sense granting an insight bonus to Monster Lore checks equal to 1/2 your caster level (minimum 1). You may make Monster Lore checks untrained.
 
-#### Foreshadow (sense) [Core]
+#### Foreshadow (sense)
 
 You may spend a spell point to gain a sense that warns you of impending danger. You are not flat-footed during the surprise round, and gain a +1 dodge bonus to AC, and a +2 bonus to Reflex saves and Initiative checks. These bonuses increase by 1 for every 10 caster levels possessed.
 
-#### Ghost Sight (sense) [Core]
+#### Ghost Sight (sense)
 
 You may spend a spell point to gain a sense that adds your caster level to Perception checks made to notice invisible or ethereal creatures. If you succeed at this check, the creature’s outline becomes visible to you. This negates both the usual penalties you would suffer attacking an invisible creature, and the bonuses the creature would normally gain against you. This continues until you lose line of sight to the creature, in which case you must succeed at a new Perception check to see them.
 
-#### Logos (sense) [Core]
+#### Logos (sense)
 
 You may spend a spell point to understand all spoken and written words, regardless of language. You may spend an additional spell point to also be understood by any creature with a language. You do not learn the creature’s language, but instead every creature hears you speak in whatever language is most comfortable for it.
 
@@ -458,11 +458,11 @@ You may spend a spell point to gain a special sense granting a +1 insight bonus 
 
 You may spend a spell point to gain the scent sense with a range of 30 ft. You may spend an additional spell point to upgrade this ability to keen scent (except that they both function in or outside of water); While using keen scent, you can notice other creatures by scent at a range of 180 ft and can detect blood at ranges of up to a mile. The ranges of both scent and keen scent half against creatures downwind or downstream of you, and double while upwind or upstream of you.
 
-#### See Hazard (sense) [Core]
+#### See Hazard (sense)
 
 You may spend a spell point to gain a free Perception check to notice traps and hazards when you are within 10 ft of them, be they mechanical (trip wires, dart throwers, etc.) magical (rune spells, sigils, etc.) or natural (quick sand, pit falls, etc.). This does not give you insight into disabling such traps or hazards.
 
-#### Sense Magic (sense) [Core]
+#### Sense Magic (sense)
 
 You may spend 2 spell points to grant yourself the ability to sense magic, as if using your basic divine ability as a constant ability, but only to a distance of 30 ft.
 
@@ -480,7 +480,7 @@ While this sense is active, you also reduce environmental- and range increment-b
 
 You may spend a spell point to gain the tremorsense ability with a range of 30 ft. You gain sensitivity to vibrations in the ground allowing you to automatically pinpoint the location of anything that is in contact with the ground; or if underwater, you can instead pinpoint the location of creatures moving through the water.
 
-#### True Sight (sense) [Core]
+#### True Sight (sense)
 
 You may spend a spell point to gain a sense that grants you a bonus equal to 1/2 your caster level (minimum: 1) to all Will saves against illusions.
 

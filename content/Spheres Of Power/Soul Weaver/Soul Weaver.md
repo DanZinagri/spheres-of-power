@@ -243,7 +243,7 @@ At 20th level, a soul weaver has become so adept at walking the paths of life an
 
 The following feats are particularly appropriate or useful for soul weavers.
 
-#### Ensouled Illuminations [Gravecaller's HB]
+#### Ensouled Illuminations
 
 They linger, float and dance like lanterns in the evening sky.
 
@@ -259,7 +259,7 @@ As a standard action, you may choose one of your souls to instead glow, as thoug
 
 **Benefit:** You may expend a soul from your bound nexus to create a bound totemic soul. A totemic soul works as a normal totem, but it can move as if it were a soul (they normally orbit the character, but the soul weaver can move any number of them as a free action once per round and they have a fly speed of 40 feet), and it has a radius of only 30 feet. A totemic soul continues to exist for 10 minutes per level in the class that grants you the bound nexus class feature without needing concentration. You must still pay the normal spell point cost for creating the totem.
 
-#### Ensouled Vision [Gravecaller's HB]
+#### Ensouled Vision
 
 **Prerequisites:** Divination sphere, bound nexus class feature.
 
@@ -375,7 +375,7 @@ If the (blast type) talent chosen has additional spell point costs, an additiona
 
 **Benefit:** When you channel energy, instead of its normal effects, you may instead grant those within range a single attack. These attacks are made immediately in initiative order. Each attack receives a bonus to damage equal to the number of dice you would have rolled for your channel energy.
 
-#### Channeled Detonation (Channeling) [Gravecaller's HB]
+#### Channeled Detonation (Channeling)
 
 You can overcharge your connection with your undead using your channel energy ability.
 
@@ -385,7 +385,7 @@ You can overcharge your connection with your undead using your channel energy ab
 
 If you possess the Master’s Presence (dominion) talent, you may use your dominion range when determining if an undead you control is within range for this feat.
 
-#### Energized Appeasement (Channeling) [DbH]
+#### Energized Appeasement (Channeling)
 
 The powers of the beyond are sufficient to appease the bound force within.
 
@@ -405,7 +405,7 @@ The powers of the beyond are sufficient to appease the bound force within.
 
 The following magical items are especially appropriate for soul weavers.
 
-#### Blessing Of The Departed [TS:WAT]
+#### Blessing Of The Departed
 
 **Aura** moderate Fate; **CL** 8th
 **Slot** none; **Price** 15,000 gp; **Weight** 3 lbs.
@@ -415,7 +415,7 @@ This holy symbol is traditionally carved from the bones of the creator’s ances
 **Construction Requirements**
 Craft Marvelous Item, Fate sphere (Bless (word)), creator must have the blessing class feature; **Cost** 7,500 gp
 
-#### Blighted Destiny [TS:WAT]
+#### Blighted Destiny
 
 **Aura** moderate Fate; **CL** 8th
 **Slot** none; **Price** 15,000 gp; **Weight** 3 lbs.
@@ -425,7 +425,7 @@ This cruel-looking symbol pulses slightly, as if anticipating its next use. When
 **Construction Requirements**
 Craft Marvelous Item, Fate sphere (Curse (word)), creator must have the blight class feature; **Cost** 7,500 gp
 
-#### Soulcage [TS:WAT]
+#### Soulcage
 
 **Aura** moderate Death; **CL** 6th
 **Slot** none; **Price** 7,000 gp; **Weight** 1 lb.

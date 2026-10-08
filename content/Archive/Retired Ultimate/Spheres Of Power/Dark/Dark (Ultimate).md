@@ -160,7 +160,7 @@ If your shadow dons armor, you gain its bonuses, though also suffer any armor ch
 
 Your shadow can only don items in slots that your physical body possesses. If you are subject to a polymorph effect that would normally remove your armor and equipment, armor donned by your shadow mannequin does not provide any benefits and you may not activate magic items that would otherwise meld with your body.
 
-#### Shadow Strike [strike] [3PP]
+#### Shadow Strike [strike]
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -218,7 +218,7 @@ You may take this talent a total of three times. If taken twice, you gain a port
 
 If taken three times, you gain even more influence over your victims. When a creature that has failed its save against your disorienting darkness makes an attack, casts a targeted spell or spell-like ability, or uses a supernatural or extraordinary ability with a specified target, the attack or ability is randomly directed to another legal target within range (excluding the attacker itself). If there is no other legal target within range, the attack or ability is not affected. If the affected spell or ability has more than one target, all its targets are randomly chosen from among the legal targets within range. Alternatively, you may select the new target or targets as an immediate action instead of determining them randomly. Chosen targets must be legal and you must be able to perceive them.
 
-#### Edge Of Night (darkness) [Jester's HB]
+#### Edge Of Night (darkness)
 
 You may create a darkness that is unnaturally edgy. Any creature inside the darkness must succeed at a Reflex save or take 1d6 slashing damage per 3 caster levels (minimum 1d6). Creatures who remain within this area of darkness must save at the end of your subsequent turns or take additional slashing damage. If a creature enters this area of darkness after it is created, they must immediately save or also suffer this damage. A creature may only be affected by Edge Of Night once per round, regardless of how many times they enter or exit the area that round.
 
@@ -328,7 +328,7 @@ You may gain this talent a total of twice. If gained a second time, you may choo
 
 You may spend a spell point to grant the target the ability to make precision strikes for 1 hour per caster level. Whenever the target attacks a creature it is flanking, that is denied its Dexterity bonus to AC, or that is not able to perceive the creature (such as through a successful Stealth check), it deals an additional 1d6 points of precision damage to the target, +1d6 per 10 caster levels. This damage is not multiplied on a critical hit, but it does stack with a rogue’s sneak attack. This only functions while within an area of your darkness.
 
-#### Edgelord (meld) [Jester's HB]
+#### Edgelord (meld)
 
 When the target is shrouded in an area of your darkness, their natural coolness is tastefully amplified. They gain a +1 bonus to Intimidate checks +1 per 5 caster levels, and may make Intimidate checks to demoralize an opponent as a move action instead of a standard action. At 10 caster levels, the target may make an Intimidate check to demoralize as a swift action instead. This meld lasts for 1 hour per caster level and costs 1 spell point.
 
@@ -344,7 +344,7 @@ You may spend a spell point to grant the target the ability to attempt Stealth c
 
 You may spend a spell point to grant the target and up to a heavy load of carried equipment the ability to step into one patch of dim light or darkness and emerge in another. As a move action, the target may teleport up to 30 feet, +10 feet per 5 caster levels. This lasts for 1 hour per caster level. Both the location they are in and the location they are teleporting to must be within an area of your darkness.
 
-#### Voidwatcher (meld) [BaP]
+#### Voidwatcher (meld)
 
 You may spend a spell point to grant a target a heightened awareness of things lurking in darkness for 1 hour per caster level. The target gains blindsense with a range of close, except only allowing the target to detect anything that casts a shadow. The target may also detect anything inside of or in contact with an area of your darkness as though it were within range of this blindsense. In addition, the target rolls twice and takes the highest roll on any Perception checks made to notice someone or something in an area of dim light or darkness.
 

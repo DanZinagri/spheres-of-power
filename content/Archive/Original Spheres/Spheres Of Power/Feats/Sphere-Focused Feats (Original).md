@@ -713,7 +713,7 @@ At caster level 9th the wall can also affect weapons with a +1 enhancement bonus
 
 **Benefit:** Whenever you create an animated object, you may spend a spell point to grant it a single use of one of your sphere abilities; if the sphere ability costs spell points to use, you must pay for that cost when granting it. It may use that sphere ability as if you had cast it yourself.
 
-#### Mounted Magician [Core]
+#### Mounted Magician
 
 **Prerequisites:** Casting class feature, Enhancement sphere, Handle Animal 3 ranks, Ride 3 ranks.
 
@@ -751,31 +751,31 @@ At caster level 9th the wall can also affect weapons with a +1 enhancement bonus
 
 ## Fallen Fey
 
-#### Enchanting Performance [Fey HB]
+#### Enchanting Performance
 
 **Prerequisites:** Fallen Fey sphere, Enchanting Music or Beckoning Call, Bardic performance or raging song class feature.
 
 **Benefit:** You may use your Beckoning Call or any of your Enchanting Music options in place of a bardic performance or raging song, starting and maintaining the effects as if it was a performance or raging song by spending performance or raging song rounds. Feats such as Lingering Performance apply to your Beckoning Call and Enchanting Music when used in this way.
 
-#### Fairy Alchemy [Fey HB]
+#### Fairy Alchemy
 
 **Prerequisites:** Fallen Fey sphere, Fairy Dust, Alchemy sphere.
 
 **Benefit:** If you possess the (poison) package of the Alchemy sphere, you may use fairy dust from the Fairy Dust talent as if it was a poison. If you possess the (formulae) package of the Alchemy sphere, you may throw fairy dust from the Fairy Dust talent as if it was a splash weapon in place of a formulae, with a 5-ft. splash radius. You may use the higher of your Alchemy sphere and Fallen Fey sphere DCs to determine the effects of this dust.
 
-#### Master of Faerie [Fey HB]
+#### Master of Faerie
 
 **Prerequisites:** Fallen Fey sphere, Summon Fairy, forbidden lore class feature.
 
 **Benefit:** Add your forbidden lore bonus to your caster level when determining the total Hit Dice of fey creatures you may have summoned at one time.
 
-#### Unseelie Trapper [Fey HB]
+#### Unseelie Trapper
 
 **Prerequisites:** Fallen Fey sphere, Snare Setter, Trap Sphere.
 
 **Benefit:** In place of the snare from your Snare Setter fey-blessing, you may place any snare from the Trap sphere that you possess. You do not require a trap bag to set such snares. You may use your ranks in Craft (traps) in place of your caster level when determining the effects of the Snare Setter talent.
 
-#### Water Manipulator [Fey HB]
+#### Water Manipulator
 
 **Prerequisites:** Fallen Fey sphere, Water Mastery, Nature Sphere (water geomancing).
 
@@ -889,13 +889,13 @@ In addition, you may deal lethal damage with your illusions instead of nonlethal
 
 ## Light
 
-#### Afterglow [Apoc]
+#### Afterglow
 
 **Prerequisites:** Light sphere.
 
 **Benefits:** When you affect a creature with a positive energy ability (such as with Channel Energy, Fervor, Lay on Hands, or most Life sphere abilities), you may cause them to glow. You must spend a separate action to cause them to glow brightly.
 
-#### Crimson Flash [Apoc]
+#### Crimson Flash
 
 **Prerequisites:** Light sphere.
 
@@ -907,7 +907,7 @@ In addition, you may deal lethal damage with your illusions instead of nonlethal
 
 **Benefit:** You add +2 to your MSB and MSD for the purposes of Light sphere effects. Double this bonus when making an opposed magic skill check against magical darkness effects.
 
-#### Lightshow [Apoc]
+#### Lightshow
 
 **Prerequisites:** Bardic Performance class ability, Light sphere.
 
@@ -1027,19 +1027,19 @@ In addition, failure means that the target is treated as one stage friendlier to
 
 **Benefit:** You may read and use an alchemist’s formulae book, creating extracts for use during the day as an alchemist does. You must have a caster level with the entire Nature sphere equal to 3x the level of the extract, and must spend 1 spell point per level of the created extract, and only you can drink the extract to gain its effects.
 
-#### Group Spirit [Apoc]
+#### Group Spirit
 
 **Prerequisites:** Nature sphere, Grant Spirit, 1st caster level or higher.
 
 **Benefit:** You may spend a spell point when using a Grant Spirit to affect up to 1 additional creature per 2 caster levels (minimum: 1). Each target must be within range and must be affected by the same (spirit) talent.
 
-#### Heat Absorption [Apoc]
+#### Heat Absorption
 
 **Prerequisites:** Nature Sphere, Feed on Fire, 1st caster level or higher.
 
 **Benefit:** When using Feed on Fire, whenever you would take damage from fire, you are instead healed an amount equal to the fire damage dealt, to a maximum amount equal to your caster level. Any healing that would put the caster’s hit points over your maximum instead become temporary hit points which last for 1 hour.
 
-#### Phoenix Flight [Apoc]
+#### Phoenix Flight
 
 **Prerequisites:** Nature Sphere, Ride the Flames, 5th caster level or higher.
 
@@ -1057,7 +1057,7 @@ In addition, failure means that the target is treated as one stage friendlier to
 
 **Benefit:** When using any Nature sphere ability that deals Fire or Cold damage, you may spend 1 additional spell point to split the damage in half, dealing half Fire damage and half Cold damage.
 
-#### Terrain Strider [Apoc]
+#### Terrain Strider
 
 **Prerequisites:** Nature sphere.
 
@@ -1067,55 +1067,55 @@ In addition, failure means that the target is treated as one stage friendlier to
 
 ## Protection
 
-#### Companionship [Abj. HB]
+#### Companionship
 
 **Prerequisites:** Paladin 3rd level, Protection sphere.
 
 **Benefit:** When you use an aegis on an ally, they are considered physically closer to you. Any supernatural class ability you gain as a paladin treats the ally as being within 5 ft. of you, provided you have line of sight to them and are not required to physically touch them.
 
-#### Confining Circle [Abj. HB]
+#### Confining Circle
 
 **Prerequisites:** Repel Evil/Good/Law/Chaos Ward.
 
 **Benefit:** When you create a repel ward, you may invert it, so that creatures of the repelled alignment can enter freely, but must make a Will saving throw to leave the warded area.
 
-#### Energy Reflection [Abj. HB]
+#### Energy Reflection
 
 **Prerequisites:** Energy Resistance.
 
 **Benefit:** Whenever a creature attacks the bearer of your Energy Resistance aegis, and the damage is reduced by that aegis, that creature suffers damage equal to the amount of damage reduced by the Energy Resistance aegis. The damage is of the same type as it was originally inflicted.
 
-#### Enmity [Abj. HB]
+#### Enmity
 
 **Prerequisites:** Protection sphere, favored enemy class feature.
 
 **Benefit:** You may create a ward that repels all your favored enemies, as the repel ward. You may apply your bonus to hit your favored enemies to the DC of this ward.
 
-#### Graphomancy [Abj. HB]
+#### Graphomancy
 
 **Prerequisites:** Protection sphere, Craft (calligraphy) 1 rank.
 
 **Benefit:** You have learned to use ancient writings and symbols to enhance your Protection sphere abilities. When you create a ward, you gain a bonus to your caster level equal to half the number of ranks you have in the Craft (calligraphy) skill, rounded up. This can not increase your caster level above your Hit Dice.
 
-#### Immutable Protection [Abj. HB]
+#### Immutable Protection
 
 **Prerequisites:** Protection sphere.
 
 **Benefit:** You receive a +4 insight bonus to MSB and MSD for any magical skill check made by your wards. This includes casting the ward and any checks made to dispel or repress magical effects because of a ward ability.
 
-#### Martial Aegis [Abj. HB]
+#### Martial Aegis
 
 **Prerequisites:** Base attack bonus +1, Protection sphere.
 
 **Benefit:** When you create an aegis on yourself, you may use your base attack bonus as your caster level. If you use a (succor) talent on this aegis, you may also use your base attack bonus as your caster level for the succor.
 
-#### Protective Reserve [Abj. HB]
+#### Protective Reserve
 
 **Prerequisites:** Sentinel’s reserve class feature.
 
 **Benefit:** Choose an (aegis) talent from the [[Protection]] sphere. You may create that aegis as a supernatural ability, but only on yourself, using points from your reserve in place of spell points. For the purpose of this aegis, your caster level is equal to your sentinel level, and your casting ability is the ability used to determine your reserve points. You may acquire this feat multiple times; choosing a different (aegis) talent each time.
 
-#### Shrouding Aegis [Abj. HB]
+#### Shrouding Aegis
 
 **Prerequisites:** Protection sphere, shadowstuff class feature.
 

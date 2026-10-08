@@ -1,6 +1,6 @@
 ---
-title: "Champion Alchemist [3PP]"
-aliases: ["Champion Alchemist [3PP]"]
+title: "Champion Alchemist"
+aliases: ["Champion Alchemist"]
 source: https://spheresofpower.wikidot.com/champion-alchemist
 updated: 2022-10-26
 searchtype: Archetypes

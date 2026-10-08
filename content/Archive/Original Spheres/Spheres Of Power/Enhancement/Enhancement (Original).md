@@ -13,11 +13,11 @@ parent: "[[Original Spheres]]"
 
 You may place enhancements on creatures and objects, altering their properties.
 
-# Enhance [Core]
+# Enhance
 
 As a standard action, you may enhance a creature or object within Close range for as long as you concentrate. You may always spend a spell point to allow an enhancement to continue for 1 minute per caster level without concentration. If targeting a creature or intelligent item that doesn’t want to be enhanced (or an item in a creature’s possession that doesn’t want their item enhanced), the target is allowed a Will save (DC 10 + 1/2 caster level + casting ability modifier) to negate the effect. When you gain the enhancement sphere, you gain the following enhancement:
 
-#### Enhance Equipment [Core]
+#### Enhance Equipment
 
 *Source: [The Enhancer's Handbook](https://www.drivethrurpg.com/product/184708/The-Enhancers-Handbook?affiliate_id=549120)*
 
@@ -29,7 +29,7 @@ Talents marked as (enhance) grant you new enhancements you may bestow.
 
 # Enhancement Talents
 
-#### Deep Enhancement [Core]
+#### Deep Enhancement
 
 When you spend a spell point to make an enhancement last 1 minute per caster level without concentration, it lasts for 10 minutes per caster level instead.
 
@@ -37,15 +37,15 @@ When you spend a spell point to make an enhancement last 1 minute per caster lev
 
 Whenever you use an enhancement that gives you multiple options, you may spend a spell point to select two options. For example, you could use Physical Enhancement to provide a bonus to Strength and Constitution simultaneously.
 
-#### Greater Enhancement [Core]
+#### Greater Enhancement
 
 When using the Enhance Equipment enhancement, increase the enhancement bonus granted by 1. This means you can grant an item a +6 enhancement bonus if your caster level is high enough.
 
-#### Lingering Enhancement [Core]
+#### Lingering Enhancement
 
 When you enhance an object or creature, the enhancement remains for 2 rounds after you stop concentrating.
 
-#### Mass Enhancement [Core]
+#### Mass Enhancement
 
 When bestowing an enhancement, you may spend an additional spell point to enhance an additional target per 2 caster levels (minimum: 1 additional). All targets must be within range and must receive the same enhancement (thus, if using the Deadly Weapon talent, you could only target weapons with this ability).
 
@@ -53,7 +53,7 @@ When bestowing an enhancement, you may spend an additional spell point to enhanc
 
 You may enhance a creature with enhancements that normally only apply to weapons or armor. If it applies to weapons, it applies to one of the creature’s natural weapons, as well as its unarmed strikes; if it applies to armor, it applies to any natural armor bonus that the creature possesses (creatures without natural armor are considered to have a natural armor bonus of +0).
 
-#### Ranged Enhancement [Core]
+#### Ranged Enhancement
 
 You may enhance targets within Medium range. You may take this talent multiple times. Each time it is taken, increase the range by an additional step (Close to Medium, Medium to Long).
 
@@ -61,7 +61,7 @@ You may enhance targets within Medium range. You may take this talent multiple t
 
 # Enhance Talents
 
-#### Animate Object (enhance) [Core]
+#### Animate Object (enhance)
 
 You may spend a spell point to enhance an object, bestowing movement and a semblance of life. The object obeys your command and understands your language, but as it is not intelligent, it can only obey simple commands such as ‘move’, ‘fight’, ‘guard’, ‘stop’, etc.
 
@@ -179,7 +179,7 @@ Animated objects are constructs, and gain Hit Dice according to their size. The 
 >
 > If the material the animated object is created from has a hardness less than 5, use the Fragile flaw instead.
 
-#### Bestow Intelligence (enhance) [Core]
+#### Bestow Intelligence (enhance)
 
 You may spend a spell point to enhance an animal, plant, or object, granting it temporary intelligence. The target becomes a magical creature (or intelligent item if an object), and gains an Intelligence, Charisma, and Wisdom score of 3d6 each (or its original score, whichever is higher), as well as an alignment equal to your own, and the ability to speak and understand one language of your choice which you also speak and understand, +1 language you know per point of Intelligence bonus. It also gains normal senses to 60 ft if it did not previously possess any. The creature or object has a beginning disposition of Friendly towards you, but does not gain greater insight into its surroundings before it gained intelligence (thus, an intelligent rock could not tell you who passed by it before it gained sentience, nor an intelligent tree describe a creature who climbed it the day before), nor does it automatically obey your commands, although it will usually provide favors and aid that is not too dangerous. This does not grant the target extra abilities nor the ability to move. You may bestow intelligence on an animated object under your control, in which case the object still continues to obey you explicitly even though it is now intelligent.
 
@@ -187,7 +187,7 @@ You may spend a spell point to enhance an animal, plant, or object, granting it 
 
 You may enhance a dose of poison, rendering it corrosive. Whenever a creature fails a saving throw against that poison, it also takes acid damage equal to your caster level.
 
-#### Cripple (enhance) [Core]
+#### Cripple (enhance)
 
 You may apply an enhancement to a creature, giving it a -1 penalty to all of the creature’s d20 rolls (attack rolls, saving throws, ability checks and skill checks). This penalty increases by 1 for every 5 caster levels you possess.
 
@@ -195,7 +195,7 @@ You may apply an enhancement to a creature, giving it a -1 penalty to all of the
 
 You may enhance creatures, halving their base land speed. Alternatively, you may use this talent to remove one of a creature’s special movement speeds, such as flight or burrow; if the creature in question has a natural flight speed, they glide safely to the ground.
 
-#### Deadly Weapon (enhance) [Core]
+#### Deadly Weapon (enhance)
 
 You may enhance a weapon, granting it the keen special quality if it does not already possess it and a +1 bonus to critical hit confirmation rolls for every 3 caster levels possessed (to a maximum of +6 at 18th caster level).
 
@@ -207,7 +207,7 @@ You may enhance creatures, granting them alignment subtypes corresponding to the
 
 You may enhance a dose of poison, increasing the number of successful saving throws necessary to cure the poison by 1.
 
-#### Energy Weapon (enhance) [Core]
+#### Energy Weapon (enhance)
 
 You may enhance a weapon, granting it the corrosive, flaming, frost, or shock special weapon qualities. The weapons deal an extra point of damage for every 2 caster levels possessed.
 
@@ -219,7 +219,7 @@ You may enhance creatures, allowing them a higher standard of consistency. Whene
 
 You may apply an enhancement to a creature, either suppressing a pre-existing fatigued condition or to reduce the exhausted condition to fatigued for the duration; alternatively, you may spend a spell point to suppress a pre-existing exhausted condition entirely. You are still considered to be suffering those conditions for the purposes of effects that render you fatigued or exhausted. Either way, the creature adds your caster level to their Constitution score for the purpose of how long it may hold its breath or run before making Constitution checks. As a side effect, applying this enhancement to a sleeping creature causes it to immediately wake up.
 
-#### Harden (enhance) [Core]
+#### Harden (enhance)
 
 You may enhance an item to increase its hardness, or enhance a creature to grant it DR/adamantine. The bonus is equal to your half your caster level (minimum: 1).
 
@@ -235,7 +235,7 @@ You may enhance creatures, letting them calculate their carrying capacity, as we
 
 You may enhance creatures, granting them a +10 ft. enhancement bonus to one movement speed, as well as a +2 enhancement bonus to any Acrobatics, Climb, Fly, or Swim checks they might make while using that movement speed. These bonuses increases by +10 and +2, respectively, at 5th caster level, and every 5 caster levels thereafter (maximum of +50 ft. and a +10 bonus at 20th caster level).
 
-#### Lighten (enhance) [Core]
+#### Lighten (enhance)
 
 You may enhance an item or creature, reducing its weight or even making it weightless. The maximum sized object you can affect is given on Table: Lighten Object. An enhanced object weighs half as much as normal, but if you choose, you may make objects up to one size category smaller than your limit completely weightless, or up to 2 size categories smaller float up or down as you choose at a rate of 20 ft per round. While you cannot make an object or creature move any direction other than up or down, this can easily be combined with telekinesis, wind power, or pushing off a wall (at half the target’s usual speed) to create flight-like effects. Unwilling creatures are allowed a new saving throw each round to negate this effect, but they may suffer falling damage if successful. 1/2-weight creatures suffer a -2 penalty to their CMD vs bull rush, drag, and reposition combat maneuvers. This penalty is doubled for weightless or floating creatures.
 
@@ -260,7 +260,7 @@ You may enhance creatures or objects, protecting any other magic they might be s
 
 You may apply an enhancement to an item, giving it the fragile quality if it doesn’t already have it. In addition, it takes a penalty to its Hardness equal to 1/3 of your caster level (minimum -1; to a maximum of -6 at 18th caster level).
 
-#### Mental Enhancement (enhance) [Core]
+#### Mental Enhancement (enhance)
 
 You may enhance creatures, granting them a +2 enhancement bonus to either their Intelligence, Wisdom, or Charisma scores. This increases to +4 at 7th caster level and +6 at 14th caster level.
 
@@ -268,7 +268,7 @@ You may enhance creatures, granting them a +2 enhancement bonus to either their 
 
 You may enhance a creature or object, muffling any sound it creates. Perception checks made to hear any sounds it makes suffer a penalty equal to your caster level (to a maximum of -20 at 20th level).
 
-#### Physical Enhancement (enhance) [Core]
+#### Physical Enhancement (enhance)
 
 You may enhance creatures, granting them a +2 enhancement bonus to either their Strength, Dexterity, or Constitution scores. This increases to +4 at 7th caster level and +6 at 14th caster level.
 
@@ -288,7 +288,7 @@ You may enhance creatures, forcing them to suffer a -4 penalty on all attack rol
 
 You may enhance creatures, granting them a +2 bonus to one saving throw. This bonus increases by +1 at 5th caster level, and every 5 caster level thereafter (to a maximum of +5 at 20th level).
 
-#### Steal Senses (enhance) [Core]
+#### Steal Senses (enhance)
 
 You may apply an enhancement to a creature, causing it to become either blind or deaf (your choice), or to lose one special sense such as the scent ability, Tremorsense, Blindsense, Blindsight, etc.
 
@@ -306,7 +306,7 @@ At 5th caster level, and every 4 levels thereafter, increase to bonus to initiat
 
 You may enhance creatures, allowing them to ignore 2 points of ability damage, drain, or penalty they have suffered to one of their ability scores (chosen when using this talent), and reducing any such damage or drain they would suffer by half this amount. This reduction does not affect any ability damage or drain taken as part of a cost. This increases to 4 points at 7th caster level, and to 6 points at 14th caster level.
 
-#### Versatile Weapon (enhance) [Core]
+#### Versatile Weapon (enhance)
 
 You may enhance a weapon, causing it to ignore an amount of damage reduction equal to your caster level. This only works against damage reduction that can be bypassed (thus, it would work against DR 5/cold iron, but not against DR 5/-).
 

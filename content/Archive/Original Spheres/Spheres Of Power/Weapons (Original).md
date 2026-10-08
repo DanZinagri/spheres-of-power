@@ -48,7 +48,7 @@ Smith Magical Weapons and Armor, Enhancement sphere, Destruction sphere, Fire Bl
 **Description**
 When activated, an energy sword’s ornate handle projects a quantum field that contains energized plasma in a 2- to 3-ft.-long “blade.” Attacks made with an energy blade resolve as touch attacks. Half the damage it deals is electricity and the other half is fire. This damage bypasses resistance to fire and electricity, but not immunity. Creatures which are immune to fire or electricity take half damage from an energy sword and creatures immune to both take no damage. When the wielder attacks an object, damage from an energy sword ignores the first 20 points of hardness and its damage is not halved (even though energy damage is usually halved when applied to objects). Thanks to its quantum containment, an energy sword deals half damage against incorporeal creatures, despite not being a magical weapon.
 
-### Eternal Blade [High. HB]
+### Eternal Blade
 
 **Price** 450 gp; **Slot** none; **CL** 3rd; **Weight** varies; see text; **Aura** moderate Creation and Nature; **Scaling** prize
 
@@ -64,7 +64,7 @@ Whenever you would score a critical threat against an opponent using the eternal
 
 **Cost** 4,650 gp; **Feats** Smith Magical Weapons and Armor; Spells Creation sphere (Expanded Materials), or Nature sphere (Living Steel).
 
-### Gáe Bulg [High. HB]
+### Gáe Bulg
 
 **Price** 2360 gp; **Slot** none; **CL** 4th; **Weight** 9 lbs.; **Aura** moderate Blood and Death; **Scaling** wonder
 
@@ -212,7 +212,7 @@ Any creature that wields the weapon becomes aware of the creature type and age o
 **Construction Requirements**
 Smith Magical Weapons and Armor, Divination sphere (Dowsing (divine)); **Cost** +3,000 gp
 
-#### Bloodsong [High. HB]
+#### Bloodsong
 
 This special ability can be placed only on slashing or piercing melee weapons. While the wielder benefits from a raging song performance (whether her own or from an ally), this weapon gains the keen weapon special ability. If the wearer confirms a critical hit while under the effects of a raging song, she gains 1d10 temporary hit points until the raging song ends. If the weapon's critical multiplier is x3, add 2d10 temporary hit points instead; if the multiplier is x4, add 3d10 temporary hit points instead. While its powers are active, the weapon vibrates and makes a barely audible hum that rises to a shriek of triumph when it confirms a critical hit.
 **Construction Requirements**
@@ -305,7 +305,7 @@ This special ability can be placed only on melee weapons. A fortuitous weapon gr
 
 Moderate transmutation; CL: 8th; Craft Magic Arms And Armor, haste; Price: +1 bonus
 
-#### Heartseeker [High. HB]
+#### Heartseeker
 
 This special ability can only be placed on melee weapons. A heartseeker weapon is drawn unerringly toward beating hearts. A heartseeker weapon ignores the miss chance for concealment against most living targets, though the attack must still target the proper square. This special ability does not apply against aberrations, oozes, outsiders with the elemental subtype, plants, or any creature specifically noted to lack a heart.
 **Construction Requirements**

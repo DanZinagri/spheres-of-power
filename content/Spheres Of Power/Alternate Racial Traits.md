@@ -12,7 +12,7 @@ parent: "[[Spheres Of Power]]"
 
 **Magical Training:** If a character receives the Basic Magic Training feat as a racial feature, they may exchange that feat for the Extra Magic Talent feat (as normal) if and when they gain the casting class feature. The provided Extra Magic Talent feat is spent on the same sphere as was originally granted.
 
-**Primordial Performer:** Any race with an elemental affinity (fire affinity, water affinity, etc.) and spell-like ability racial trait (mainly ifrits, oread, undine, or sylphs) may replace these traits to gain the Performance sphere as a bonus skill sphere at 1st level. [SoG]
+**Primordial Performer:** Any race with an elemental affinity (fire affinity, water affinity, etc.) and spell-like ability racial trait (mainly ifrits, oread, undine, or sylphs) may replace these traits to gain the Performance sphere as a bonus skill sphere at 1st level.
 
 ### Aasimar
 
@@ -24,23 +24,23 @@ parent: "[[Spheres Of Power]]"
 
 **Celestial Petitioner:** Some aasimar better know how to call upon the upper planes for aid. Good creatures of the outsider type are always considered as allied when called by a caster of nonevil alignment. Whenever bargaining for the services of a called good creature of the outsider type, they gain a 25% discount on the required payment for any services. This replaces celestial resistance.
 
-**Choral Heritage:** Aasimars are angelic singers, with some even descending from choral angels themselves. These aasimar gain the Performance sphere as a bonus skill talent at 1st level, but must choose the (lyric) package. This replaces spell-like ability. [SoG]
+**Choral Heritage:** Aasimars are angelic singers, with some even descending from choral angels themselves. These aasimar gain the Performance sphere as a bonus skill talent at 1st level, but must choose the (lyric) package. This replaces spell-like ability.
 
 **Creative Nature:** Gain Basic Magic Training with the Creation sphere as a bonus feat with the Limited Creation (create) drawback. They do not gain a bonus talent as is normal for having a sphere-specific drawback, but if they create a holy symbol sized for themselves it lasts for 3 rounds after they stop concentrating. This replaces spell-like ability.
 
 **Divine Mysticism [DRS]:** Aasimars with this racial trait gain the Occultism sphere as a bonus skill talent with the Community Mystic drawback (and must choose the Alleviate and Anoint (ritual) talents from the granted bonus talents). This replaces spell-like ability.
 
-**Good-Natured:** These aasimar are more vocal with their kind acts, and tend to be very talkative and upfront. These aasimar gain the Communication sphere as a bonus skill talent at 1st level. This replaces skilled. [SoG]
+**Good-Natured:** These aasimar are more vocal with their kind acts, and tend to be very talkative and upfront. These aasimar gain the Communication sphere as a bonus skill talent at 1st level. This replaces skilled.
 
 **Guardian Angel:** Some aasimar follow the path of their ancestors, dedicating themselves to the protection of others. They gain the Guardian sphere as a bonus talent at 1st level. This replaces skilled and spell-like ability.
 
 **Light Attuned:** Occasionally an aasimar is more attuned to the magic and power of light. They gain Basic Magic Training in the Light sphere as a bonus feat. This racial trait replaces the darkvision and spell-like ability racial traits.
 
-**Mortal Disdain (Ex):** Those of celestial descent often feel themselves better than mortals, thinking little of harming them. Aasimars with this racial trait gain a +1 racial bonus on attack rolls against humanoids with the human subtype (or, if they were not descended from humans, whatever type or subtype corresponds to the aasimar’s mortal ancestry). This replaces celestial resistance and counts as the hatred racial trait for the purpose of meeting prerequisites. [DbH]
+**Mortal Disdain (Ex):** Those of celestial descent often feel themselves better than mortals, thinking little of harming them. Aasimars with this racial trait gain a +1 racial bonus on attack rolls against humanoids with the human subtype (or, if they were not descended from humans, whatever type or subtype corresponds to the aasimar’s mortal ancestry). This replaces celestial resistance and counts as the hatred racial trait for the purpose of meeting prerequisites.
 
 **Shining Captain:** Many aasimar are looked on by others favorably due to their celestial nature. Some learn to capitalize on this tendency, easily gathering others to their cause. They gain the Leadership sphere as a bonus combat talent. This replaces skilled and spell-like ability.
 
-#### Alternate Heritage: Titanspawn (Aasimar) [DbH]
+#### Alternate Heritage: Titanspawn (Aasimar)
 
 Born of the rare crossing between a mortal and titan, titanspawn possess the insight and power of their immense forebearers. This is not often seen as beautiful in the style of angels or nightmarish in the style of devils. Rather, titanspawn seem like beings from a bygone age who exist at odds with the present reality and its structures. Titanspawn themselves feel this same call to a primordial age, a nostalgia for something they cannot possibly experience.
 
@@ -54,9 +54,9 @@ Born of the rare crossing between a mortal and titan, titanspawn possess the ins
 
 ### Android
 
-**Analytic Savant:** Many androids are able to better inspect and determine the meaning of a piece of technology, whether one made contemporarily or one from a timeworn era. Androids with this racial trait gain a +2 racial bonus on Knowledge (engineering) checks; this bonus increases to +4 when being used to examine or determine the functions of timeworn technology (*Technology Guide*) or other similarly ancient or defunct technology. This alters exceptional senses, removing the racial +2 bonus to Perception. [SUE]
+**Analytic Savant:** Many androids are able to better inspect and determine the meaning of a piece of technology, whether one made contemporarily or one from a timeworn era. Androids with this racial trait gain a +2 racial bonus on Knowledge (engineering) checks; this bonus increases to +4 when being used to examine or determine the functions of timeworn technology (*Technology Guide*) or other similarly ancient or defunct technology. This alters exceptional senses, removing the racial +2 bonus to Perception.
 
-**Pattern Refabrication:** Most androids are built and “born” into their bodies, a template from a bygone era. Some androids can remember more of this technology, making use of highly precise crafting methods to produce sleek, efficient pieces of technology. Androids with this racial trait gain the Tinker sphere as a bonus talent. This replaces nanite surge. [SUE]
+**Pattern Refabrication:** Most androids are built and “born” into their bodies, a template from a bygone era. Some androids can remember more of this technology, making use of highly precise crafting methods to produce sleek, efficient pieces of technology. Androids with this racial trait gain the Tinker sphere as a bonus talent. This replaces nanite surge.
 
 **Tech Proficiency:** Sometimes the artificial protective plating of these creatures were fabricated including compartments where tools or weapons may be stored. They gain Extra Combat Talent in the Tech sphere as a bonus feat at 1st level. The free gadget must be the Internal Tool (augment, gadget) talent. For androids, this replaces nanite surge.
 
@@ -64,35 +64,35 @@ Born of the rare crossing between a mortal and titan, titanspawn possess the ins
 
 **Black Cat:** Few catfolk sport coats of pure, black fur. A catfolk with this racial trait gains Black Cat as a bonus feat and may use that feat to reroll any d20 roll made within 30 feet, not just a melee attack roll made against the catfolk. This racial trait replaces cat’s luck.
 
-*Special:* If the catfolk gains the Fate sphere, they treat this racial trait as possessing the Fate sphere Curse (word) talent for all purposes. [Catgirl HB]
+*Special:* If the catfolk gains the Fate sphere, they treat this racial trait as possessing the Fate sphere Curse (word) talent for all purposes.
 
-**Casual Catnip Enthusiast:** Some catfolk are avid consumers of the many strains of catnip, spending much of their time tasting and indulging in the finer things. A catfolk with this racial trait gains Catnip Connoisseur as a bonus feat, even if the catfolk does not meet the prerequisites. This racial trait replaces natural hunter. [Catgirl HB]
+**Casual Catnip Enthusiast:** Some catfolk are avid consumers of the many strains of catnip, spending much of their time tasting and indulging in the finer things. A catfolk with this racial trait gains Catnip Connoisseur as a bonus feat, even if the catfolk does not meet the prerequisites. This racial trait replaces natural hunter.
 
 **Eccentric [DRS]:** More than normal, these catfolk embrace their quirks and eccentricities, commonly allowing them to relate to others easier. Catfolk with this racial trait gain the Communication sphere as a bonus skill talent. Additionally, when the catfolk bares their soul (as the Diplomacy skill use) to a creature, the modifier granted by doing so is doubled (+4 for a minor motivation, or +10 for a major motivation). This replaces natural hunter.
 
 **Explorer [DRS]:** Certain catfolk are natural wayfarers of many different terrains. Catfolk with this racial trait gain the Navigation sphere as a bonus skill talent, taking the (wilderness) package. This replaces natural hunter.
 
-**Improving Touch:** Catfolk have a strong eye for value, and for bringing latent potential of objects. A catfolk with this racial trait gains Basic Magic Training for the Enhancement sphere as a bonus feat and a +1 racial bonus on their caster level when determining the duration of enhance sphere effects they cast. This racial trait replaces natural hunter. [SA:BRV]
+**Improving Touch:** Catfolk have a strong eye for value, and for bringing latent potential of objects. A catfolk with this racial trait gains Basic Magic Training for the Enhancement sphere as a bonus feat and a +1 racial bonus on their caster level when determining the duration of enhance sphere effects they cast. This racial trait replaces natural hunter.
 
 **Medicine Cat [DRS]:** Catfolk culture places an emphasis on providing for their community in the way of remedy or food. Catfolk with this racial trait gain the Herbalism sphere as a bonus skill talent and a +2 racial bonus to Profession (herbalism) checks. This replaces natural hunter.
 
-**Nyanspeaker:** Some catfolk simply cannot communicate without using a dialect of Nyanspeak. A catfolk with this racial trait does not receive Common as a starting language and instead begins play speaking Nyanspeak (common) in addition to standard Catfolk. If the catfolk has a high Intelligence score, the catfolk must select bonus languages as dialects of Nyanspeak and may select any dialect of Nyanspeak (e.g. Nyanspeak (elven) or Nyanspeak (sylvan). In addition, whenever the catfolk would learn a new language, the catfolk may select any dialect of Nyanspeak without requiring the parent language. This racial trait alters the catfolk’s starting and bonus languages. [Catgirl HB]
+**Nyanspeaker:** Some catfolk simply cannot communicate without using a dialect of Nyanspeak. A catfolk with this racial trait does not receive Common as a starting language and instead begins play speaking Nyanspeak (common) in addition to standard Catfolk. If the catfolk has a high Intelligence score, the catfolk must select bonus languages as dialects of Nyanspeak and may select any dialect of Nyanspeak (e.g. Nyanspeak (elven) or Nyanspeak (sylvan). In addition, whenever the catfolk would learn a new language, the catfolk may select any dialect of Nyanspeak without requiring the parent language. This racial trait alters the catfolk’s starting and bonus languages.
 
-**Precise Hunter:** Catfolk are agile skirmishers and hunters, taking down prey with lethal strikes. A catfolk with this racial trait gains Extra Combat Talent in the Fencing sphere as a bonus feat. This racial trait replaces sprinter. [SA:BRV]
+**Precise Hunter:** Catfolk are agile skirmishers and hunters, taking down prey with lethal strikes. A catfolk with this racial trait gains Extra Combat Talent in the Fencing sphere as a bonus feat. This racial trait replaces sprinter.
 
 **Purring:** Amongst catfolk, the act of purring is seen as a primitive reaction, and as such, many catfolk try to suppress this habit. Catfolk who embrace this primitive mannerism are able to easily display their content and comfort, as well as empathize with those who are hurt. A catfolk with this racial trait gains a +1 racial bonus on Heal and Sense Motive checks.
 
-In addition, whenever a catfolk with this racial trait uses the Heal skill to help a creature recover hit points (such as to provide long-term care or to treat deadly wounds), the target recovers an additional number of hit points equal to 2 + 1/2 the catfolk’s Hit Dice (minimum 1). This racial trait replaces cat’s luck. [SA:BRV]
+In addition, whenever a catfolk with this racial trait uses the Heal skill to help a creature recover hit points (such as to provide long-term care or to treat deadly wounds), the target recovers an additional number of hit points equal to 2 + 1/2 the catfolk’s Hit Dice (minimum 1). This racial trait replaces cat’s luck.
 
-**Roar of Invention:** Catfolk, through continued innovation to survive desert climates, discovered oil and its use as high grade fuel. By harnessing oil, Catfolk inventorship has taken to loud whirring engines of progress. Catfolk with this racial trait gain the Tinker sphere as a bonus talent. This replaces cat’s luck. [SUE]
+**Roar of Invention:** Catfolk, through continued innovation to survive desert climates, discovered oil and its use as high grade fuel. By harnessing oil, Catfolk inventorship has taken to loud whirring engines of progress. Catfolk with this racial trait gain the Tinker sphere as a bonus talent. This replaces cat’s luck.
 
-**Second Chances:** Catfolk have an uncanny, almost supernatural ability to avoid harm and land on their feet in difficult scenarios. Catfolk with this racial trait gain a +1 racial bonus on any reroll of a d20 roll (such as the Fate sphere Bless or Curse (word) talents). This racial trait replaces cat’s luck. [SA:BRV]
+**Second Chances:** Catfolk have an uncanny, almost supernatural ability to avoid harm and land on their feet in difficult scenarios. Catfolk with this racial trait gain a +1 racial bonus on any reroll of a d20 roll (such as the Fate sphere Bless or Curse (word) talents). This racial trait replaces cat’s luck.
 
-**Soft Style Proficiency:** Agile catfolk often have a strong sense of balance, which means they can better exploit their opponents’ weight against them. They gain Open Hand as a bonus talent at 1st level. This replaces sprinter. [Youxia HB]
+**Soft Style Proficiency:** Agile catfolk often have a strong sense of balance, which means they can better exploit their opponents’ weight against them. They gain Open Hand as a bonus talent at 1st level. This replaces sprinter.
 
-**Unabashed Purrer:** When a catfolk is good at purring they let everyone else know. A catfolk with this racial trait gains a bonus purring feat at 1st level. This racial trait replaces cat’s luck. [Catgirl HB]
+**Unabashed Purrer:** When a catfolk is good at purring they let everyone else know. A catfolk with this racial trait gains a bonus purring feat at 1st level. This racial trait replaces cat’s luck.
 
-#### Small-Paw (Catfolk) [SA:BRV]
+#### Small-Paw (Catfolk)
 
 While smaller than the average catfolk, the small-paw are not disadvantaged by their size. The small-paw are renowned for their assassin-like efficiency, having some of the highest lethality rates amongst catfolk hunter clans. Rarely found outside their families, small-paw adventurers are curious learners and are often found exploring distant lands.
 
@@ -102,7 +102,7 @@ While smaller than the average catfolk, the small-paw are not disadvantaged by t
 
 **Skirmisher:** A small-paw gains a +2 racial bonus on Acrobatics checks made to move through a threatened area. In addition, a small-paw gains a +1 racial bonus on attack rolls against targets denied a Dexterity bonus to AC or when the small-paw flanks their target. This racial trait replaces sprinter, but can still be traded for other racial traits which would replace sprinter.
 
-#### Panteran (Catfolk) [SA:BRV]
+#### Panteran (Catfolk)
 
 Muscular and sleek, the panteran take after big cats, lions, jaguars, and panthers alike. Panteran are a competitive species of catfolk, forming hierarchies based on competency and achievements. The upper council of a panteran pride can consist of mighty warriors, skilled craftsmen, and great inventors.
 
@@ -120,7 +120,7 @@ Muscular and sleek, the panteran take after big cats, lions, jaguars, and panthe
 
 ### Created
 
-**Note [[DRS](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)]:** If multiple alternate racial traits would reduce the created’s creation points, it cannot be reduced to below 0.
+**Note:** If multiple alternate racial traits would reduce the created’s creation points, it cannot be reduced to below 0.
 
 **Combat Purposed:** Secret programs developed created to lack the autonomy of a facsimile humanoid, and instead directly pilot weapons of war. A created with this racial trait gains 3 fewer creation points, and instead gains the Tinker sphere, choosing the (transportation) package. As a full-round action, the created may attach themselves directly to a *mechanoid* they crafted.
 
@@ -140,11 +140,11 @@ This modifies the created’s creation points (reducing it by 2).
 
 **Bloodshaper:** Gain Basic Magic Training with the Creation sphere as a bonus feat with the Fission and Material Focus (blood) drawbacks, but do not gain bonus talents as normal. You may create blood in solid or liquid form, and it reacts to positive and negative energy as if it were an undead creature rather than an object. Regardless of form, it has no nutritional value unless you possess Sustenance. In addition you may alter (Destroy) creatures with blood as if they were objects, though they are entitled to a Fortitude save for half damage. This replaces spell-like ability. (Blood in a solid form has the same hardness and hit points as ice and may be used to create weapons that possess the fragile quality unless they are created at 1/4 caster level or otherwise enhanced.)
 
-**Conduit Crafting:** Dhampir and intelligent undead society, through their long-lived existence, have always taken a liking to greater architectural works. As their technology began to progress, dhampir began making use of electrical currents, such as those harnessed through lightning rods affixed to the tops of cathedrals and other grand structures. Dhampir with this racial trait gain the Tinker sphere as a bonus talent. This replaces spell-like ability. [SUE]
+**Conduit Crafting:** Dhampir and intelligent undead society, through their long-lived existence, have always taken a liking to greater architectural works. As their technology began to progress, dhampir began making use of electrical currents, such as those harnessed through lightning rods affixed to the tops of cathedrals and other grand structures. Dhampir with this racial trait gain the Tinker sphere as a bonus talent. This replaces spell-like ability.
 
 **Fell Master:** Embracing their affinity for the control of mindless undead servitors, some dhampir becomes fearsome generals of reanimated legions, either for their own ends or in the service of their vampiric forebears. They gain the Leadership sphere as a bonus combat talent, taking the (cohort) package. They gain the Undead Servants drawback, granting the Master of the Dead legendary talent normally. This replaces manipulative and spell-like abilities.
 
-**Morose Manipulator:** Your venerable house and clan, opulent and imperial, would address their fellow clans with a warm smile. A dhampir with this racial trait gains Basic Magic Training, selecting the Mind sphere, as a bonus feat at 1st level. In addition, the dhampir may attempt a Diplomacy check with a DC equal 10 + the target’s CR as part of using the Mind sphere Suggestion (charm) talent. If successful, the sphere effect’s DC increases by 1. The target must be able to see, hear, and understand the dhampir when attempting this check. This replaces manipulative and the spell-like ability racial traits. [Gravecaller's HB]
+**Morose Manipulator:** Your venerable house and clan, opulent and imperial, would address their fellow clans with a warm smile. A dhampir with this racial trait gains Basic Magic Training, selecting the Mind sphere, as a bonus feat at 1st level. In addition, the dhampir may attempt a Diplomacy check with a DC equal 10 + the target’s CR as part of using the Mind sphere Suggestion (charm) talent. If successful, the sphere effect’s DC increases by 1. The target must be able to see, hear, and understand the dhampir when attempting this check. This replaces manipulative and the spell-like ability racial traits.
 
 **Personable [DRS]:** Some dhampir retain their charismatic allure from their vampiric nature, or are simply more relatable due to their own triumphs or struggles. Dhampir with this racial trait gain the Communication sphere as a bonus skill talent and can maintain a rapport with one additional creature. This replaces manipulative and spell-like abilities.
 
@@ -154,27 +154,27 @@ This modifies the created’s creation points (reducing it by 2).
 
 ### Drow
 
-**Dreamless Sleep:** Some elves resist all sleep rather than only magical sleep, sleeping lightly and without any dreams to disturb them, remaining vaguely aware of the world around them. They gain the Somnambulance talent as a bonus talent at 1st level even if they do not possess the Scout sphere, and may select it a second time without possessing the Scout sphere. For drow this replaces immunities. [SA:MRT]
+**Dreamless Sleep:** Some elves resist all sleep rather than only magical sleep, sleeping lightly and without any dreams to disturb them, remaining vaguely aware of the world around them. They gain the Somnambulance talent as a bonus talent at 1st level even if they do not possess the Scout sphere, and may select it a second time without possessing the Scout sphere. For drow this replaces immunities.
 
-**Drow Weapon Training:** Drow raised in their own culture often learn how to use weapons associated with subterfuge. Drow with this racial trait gain the Equipment sphere choosing Rogue Weapon Training as bonus talent at first level. If they already possess the Equipment sphere, they gain Rogue Weapon Training as a bonus talent instead. This replaces keen senses and weapon familiarity. [Youxia HB]
+**Drow Weapon Training:** Drow raised in their own culture often learn how to use weapons associated with subterfuge. Drow with this racial trait gain the Equipment sphere choosing Rogue Weapon Training as bonus talent at first level. If they already possess the Equipment sphere, they gain Rogue Weapon Training as a bonus talent instead. This replaces keen senses and weapon familiarity.
 
-**Infiltrator:** Discrete out of necessity or enjoyment, these drow gain the Infiltration sphere as a bonus skill talent at 1st level, in addition to the Confident Sniper talent. This replaces spell-like abilities. [SoG]
+**Infiltrator:** Discrete out of necessity or enjoyment, these drow gain the Infiltration sphere as a bonus skill talent at 1st level, in addition to the Confident Sniper talent. This replaces spell-like abilities.
 
-**Influential:** Commanding and authoritative, most drow prefer to lead and govern. These drow gain the Faction sphere as a bonus skill talent at 1st level, in addition to the Assured Lifestyle [utility] talent. This replaces spell-like abilities. [SoG]
+**Influential:** Commanding and authoritative, most drow prefer to lead and govern. These drow gain the Faction sphere as a bonus skill talent at 1st level, in addition to the Assured Lifestyle [utility] talent. This replaces spell-like abilities.
 
-**Subtle Shadow:** Certain drow, often those trained as assassins and spies, forego training their magical abilities and instead hone more basic skills of stealth and perception. They gain the Scout sphere as a bonus talent at 1st level. This replaces spell-like abilities. [SA:MRT]
+**Subtle Shadow:** Certain drow, often those trained as assassins and spies, forego training their magical abilities and instead hone more basic skills of stealth and perception. They gain the Scout sphere as a bonus talent at 1st level. This replaces spell-like abilities.
 
 ### Duergar
 
-**Assumed Aberration:** Some duergar are more deeply touched by their experiences with aberrations than their fellows. A duergar with this trait is treated as an aberration rather than a humanoid whenever it would be beneficial (for example, harmful spells which target only humanoids such as charm person or hold person will automatically fail unless the duergar specifically chooses otherwise; rangers will not be able to use favored enemy against him unless they have both humanoids (dwarves) and aberrations as favored enemies, in which case the duergar suffers the lesser bonus of the two). In addition, the duergar gains Iron Will as a bonus feat. This trait replaces the duergar immunities trait. [Alienist HB]
+**Assumed Aberration:** Some duergar are more deeply touched by their experiences with aberrations than their fellows. A duergar with this trait is treated as an aberration rather than a humanoid whenever it would be beneficial (for example, harmful spells which target only humanoids such as charm person or hold person will automatically fail unless the duergar specifically chooses otherwise; rangers will not be able to use favored enemy against him unless they have both humanoids (dwarves) and aberrations as favored enemies, in which case the duergar suffers the lesser bonus of the two). In addition, the duergar gains Iron Will as a bonus feat. This trait replaces the duergar immunities trait.
 
 **Cavern Dweller [DRS]:** Duergar with this racial trait gain the Adept Gatherer talent from the Vocation sphere as a bonus skill talent, although must choose Profession (miner) as the chosen specialty skill. Such a duergar also treat their Profession (miner) ranks as being 2 higher while underground. This replaces spell-like abilities.
 
 **Cruel [DRS]:** Duergar with this racial trait gain the Bluster or Gladiator sphere as a bonus talent, as well as gaining a +2 racial bonus to Intimidate checks. This replaces spell-like abilities
 
-**Duergar Weapon Training:** Duergar are often trained in incapacitating or slaying foes deep underground. Duergar with this racial trait gain the Equipment sphere choosing Deep Weapon Training or Dwarven Weapon Training as bonus talent at first level. If they already possess the Equipment sphere, they gain one of these talents as a bonus talent instead. This replaces the enlarge person spell-like ability. [Alienist HB]
+**Duergar Weapon Training:** Duergar are often trained in incapacitating or slaying foes deep underground. Duergar with this racial trait gain the Equipment sphere choosing Deep Weapon Training or Dwarven Weapon Training as bonus talent at first level. If they already possess the Equipment sphere, they gain one of these talents as a bonus talent instead. This replaces the enlarge person spell-like ability.
 
-**Mindbender:** Some duergar have acquired a variety of mental abilities. Duergar with this racial trait gain Basic Magic Training in the Illusion or Mind sphere as a bonus feat at 1st level. This replaces the invisibility spell-like ability. [Alienist HB]
+**Mindbender:** Some duergar have acquired a variety of mental abilities. Duergar with this racial trait gain Basic Magic Training in the Illusion or Mind sphere as a bonus feat at 1st level. This replaces the invisibility spell-like ability.
 
 **Stone Soul [DRS]:** Duergar with this racial trait gain the Body Control sphere as a bonus skill talent. This replaces the invisibility spell-like ability.
 
@@ -184,21 +184,21 @@ This modifies the created’s creation points (reducing it by 2).
 
 **Dwarven Battle Training:** Many dwarves go beyond the weapon training common to their culture, mastering all their people’s weapons. They gain the Dwarven Heritage Equipment talent as a bonus talent at 1st level. This replaces defensive training, hatred and weapon familiarity.
 
-**Gearcunning:** Dwarves raised or having spent time mastering forms of craftsmanship that go beyond stonework have an eye for unusual constructions. Dwarves with this racial trait gain a +2 bonus on Perception checks to potentially notice unusual mechanisms, such as hidden switches or boobytrapped technological items (this applies to items of both high technological complexity and even low-technological items, such as a hidden lever for a wooden door, but would not notice a floor plate or tripwire that is not part of a larger, more complicated structure). Dwarves receive a check to notice any such features that they pass within 10 feet of, whether or not they are actively looking. This racial trait is otherwise treated as the stonecunning alternate racial trait for the purposes of other effects and abilities. This replaces stonecunning. [SUE]
+**Gearcunning:** Dwarves raised or having spent time mastering forms of craftsmanship that go beyond stonework have an eye for unusual constructions. Dwarves with this racial trait gain a +2 bonus on Perception checks to potentially notice unusual mechanisms, such as hidden switches or boobytrapped technological items (this applies to items of both high technological complexity and even low-technological items, such as a hidden lever for a wooden door, but would not notice a floor plate or tripwire that is not part of a larger, more complicated structure). Dwarves receive a check to notice any such features that they pass within 10 feet of, whether or not they are actively looking. This racial trait is otherwise treated as the stonecunning alternate racial trait for the purposes of other effects and abilities. This replaces stonecunning.
 
 **Geomystic [DRS]:** Dwarves with this racial trait gain the Occultism sphere as a bonus skill talent, but must use Knowledge (nature) as its associated skill or take the Sacred Geometry alternate start. This replaces defensive training, greed, and stonecunning.
 
-**Habitual Maintenance:** The innate thrift and craftsmanship of many dwarven cultures can become ingrained, to the point that they repair, sharpen, and maintain their equipment without even thinking about it. They gain a limited version of blacksmith maintenance class feature. They may apply one of the following maintenances to themself with an effective blacksmith level of 1: armor maintenance, cobbling, heavy-duty reinforcement, or pack straps. They may perform this maintenance in addition to any others they can perform. This replaces greed, stonecunning, and weapon familiarity. [SA:MRT]
+**Habitual Maintenance:** The innate thrift and craftsmanship of many dwarven cultures can become ingrained, to the point that they repair, sharpen, and maintain their equipment without even thinking about it. They gain a limited version of blacksmith maintenance class feature. They may apply one of the following maintenances to themself with an effective blacksmith level of 1: armor maintenance, cobbling, heavy-duty reinforcement, or pack straps. They may perform this maintenance in addition to any others they can perform. This replaces greed, stonecunning, and weapon familiarity.
 
-**Miner:** Passionate miners of the underground, a lot of dwarves are adept at manipulating stone and metal. These dwarves gain the Survivalism sphere as a bonus skill talent at 1st level, but must choose the (dredge) package. Additionally, whenever they would use their dredge ability, as long as all squares are placed on a stone or metal material, they may choose an additional square to place. This replaces defensive training, greed, and stonecunning. [SoG]
+**Miner:** Passionate miners of the underground, a lot of dwarves are adept at manipulating stone and metal. These dwarves gain the Survivalism sphere as a bonus skill talent at 1st level, but must choose the (dredge) package. Additionally, whenever they would use their dredge ability, as long as all squares are placed on a stone or metal material, they may choose an additional square to place. This replaces defensive training, greed, and stonecunning.
 
 **Minion Builder:** Obsessive tinkering with artificial servants leaves little time for stoking the fires or old enmities in some dwarves and gnomes. They gain the Leadership sphere as a bonus combat talent, taking the (cohort) package. They gain the Construct Controller drawback, granting the Constructor legendary talent normally. For dwarves, this replaces defensive training, greed, and hatred.
 
-**Scrutinizing:** Due to suspicions in their past or a distrust of those around them, these dwarves gain the Investigation sphere as a bonus skill talent at 1st level. This replaces defensive training, greed, and stonecunning. [SoG]
+**Scrutinizing:** Due to suspicions in their past or a distrust of those around them, these dwarves gain the Investigation sphere as a bonus skill talent at 1st level. This replaces defensive training, greed, and stonecunning.
 
-**Superior Dwarven Make:** There is much pride to be had in creating marvels, whether that be weapons and armor to complex machinery and marvels of technology. Dwarves which have made the technological leaps beyond the forge to the machine shop often enjoy piecing together perfectly fit gears into tight, interlocked patterns beneath fitted steel and iron casings. Dwarves with this racial trait gain the Tinker sphere as a bonus talent. This replaces weapon familiarity. [SUE]
+**Superior Dwarven Make:** There is much pride to be had in creating marvels, whether that be weapons and armor to complex machinery and marvels of technology. Dwarves which have made the technological leaps beyond the forge to the machine shop often enjoy piecing together perfectly fit gears into tight, interlocked patterns beneath fitted steel and iron casings. Dwarves with this racial trait gain the Tinker sphere as a bonus talent. This replaces weapon familiarity.
 
-**Tinkerer:** Whereas most dwarves are known for their blacksmithing and grand creations, some prefer the crude or simple nature of creation. These dwarves gain the Artifice sphere as a bonus skill talent at 1st level, and a +2 racial bonus on all Craft and Profession checks related to metal or stone. This replaces defensive training, greed, and hatred. [SoG]
+**Tinkerer:** Whereas most dwarves are known for their blacksmithing and grand creations, some prefer the crude or simple nature of creation. These dwarves gain the Artifice sphere as a bonus skill talent at 1st level, and a +2 racial bonus on all Craft and Profession checks related to metal or stone. This replaces defensive training, greed, and hatred.
 
 ### Elan
 
@@ -206,15 +206,15 @@ This modifies the created’s creation points (reducing it by 2).
 
 ### Elf
 
-**Arcane Scholar:** Adept with utilizing magic, some elves have delved into the intricacies of the primal nature of magic. These elves gain the Spellhacking sphere as a bonus skill talent at 1st level. This replaces elven magic. [SoG]
+**Arcane Scholar:** Adept with utilizing magic, some elves have delved into the intricacies of the primal nature of magic. These elves gain the Spellhacking sphere as a bonus skill talent at 1st level. This replaces elven magic.
 
 **Doppelganger-spawn:** Due to the incredible skill of their imitations, the blood of doppelgangers can easily mingle with that of other races. This blood sometimes asserts itself strongly, creating the doppelganger spawn. They gain the Basic Magic Training feat for the Alteration sphere and the Lycanthropic drawback, gaining the Shifting Disguise feat in place of a bonus talent. This replaces elven magic and keen senses.
 
-**Dreamless Sleep:** Some elves resist all sleep rather than only magical sleep, sleeping lightly and without any dreams to disturb them, remaining vaguely aware of the world around them. They gain the Somnambulance talent as a bonus talent at 1st level even if they do not possess the Scout sphere, and may select it a second time without possessing the Scout sphere. For elves and half-elves, this replaces elven immunities. [SA:MRT]
+**Dreamless Sleep:** Some elves resist all sleep rather than only magical sleep, sleeping lightly and without any dreams to disturb them, remaining vaguely aware of the world around them. They gain the Somnambulance talent as a bonus talent at 1st level even if they do not possess the Scout sphere, and may select it a second time without possessing the Scout sphere. For elves and half-elves, this replaces elven immunities.
 
 **Elven Ancestral Master:** Some elves chose to undergo a more rigorous study of their people’s armaments. They gain the Elven Heritage Equipment talent as a bonus talent at 1st level. This replaces keen senses and weapon familiarity.
 
-**Elven Performer:** Elves are known for their love of the creative arts, so much so that it sometimes supersedes their own arcane studies. These elves gain the Performance sphere as a bonus skill talent at 1st level. This replaces elven magic. [SoG]
+**Elven Performer:** Elves are known for their love of the creative arts, so much so that it sometimes supersedes their own arcane studies. These elves gain the Performance sphere as a bonus skill talent at 1st level. This replaces elven magic.
 
 **Faerie Born:** True children of Faerie, not the exiles born in another world and corrupted by its influence. Faerie born change their type from humanoid to fey, though do not change any subtypes. This modifies type and replaces keen senses.
 
@@ -228,11 +228,11 @@ This modifies the created’s creation points (reducing it by 2).
 
 This replaces elven magic.
 
-**Wild Soul:** Some elves possess a wanderlust for the world, and a natural curiosity for adventure and exploration. These elves gain the Navigation sphere as a bonus skill talent at 1st level. This replaces elven magic. [SoG]
+**Wild Soul:** Some elves possess a wanderlust for the world, and a natural curiosity for adventure and exploration. These elves gain the Navigation sphere as a bonus skill talent at 1st level. This replaces elven magic.
 
 ### Fenghuang
 
-**Aerial Acrobat:** While all fenghaung can fly, some let the joy of the skies consume them to the detriment of their social skills. You gain the Athletics sphere as a bonus talent, but must select the (fly) package. This replaces curiosity and natural envoy. [PGtS]
+**Aerial Acrobat:** While all fenghaung can fly, some let the joy of the skies consume them to the detriment of their social skills. You gain the Athletics sphere as a bonus talent, but must select the (fly) package. This replaces curiosity and natural envoy.
 
 **Fey Bargainer:** Lingering ties to the fey realms allow those of fey blood to better deal with their distant relations. Creatures of the fey type are always considered as allied when called. Whenever bargaining for the services of a called creature of the fey type, they gain a 25% discount on the required payment for any services. This replaces curiosity.
 
@@ -260,21 +260,21 @@ This replaces elven magic.
 
 ### Gillmen
 
-**Deep Reverence:** It is common for gillmen in certain regions to make strange pacts with their aquatic masters, learning some of their otherworldly secrets. They gain a +2 bonus to Intelligence and Wisdom and take a -2 penalty to Charisma instead of the normal bonuses and penalties. This racial trait alters the gillmen’s racial ability score modifiers. [Alienist HB]
+**Deep Reverence:** It is common for gillmen in certain regions to make strange pacts with their aquatic masters, learning some of their otherworldly secrets. They gain a +2 bonus to Intelligence and Wisdom and take a -2 penalty to Charisma instead of the normal bonuses and penalties. This racial trait alters the gillmen’s racial ability score modifiers.
 
-**Odd Origin:** Not all gillmen are created by the aboleths. Rather than aboleths, gillmen with this racial trait suffer a penalty to saving throws against enchantment effects (or illusion effects, if they possess the truthseer racial trait) created by one of the following types of creatures: deep ones, merfolk, or another type of aberration selected at GM discretion. This alters either enchantment resistance or truthseer. [Alienist HB]
+**Odd Origin:** Not all gillmen are created by the aboleths. Rather than aboleths, gillmen with this racial trait suffer a penalty to saving throws against enchantment effects (or illusion effects, if they possess the truthseer racial trait) created by one of the following types of creatures: deep ones, merfolk, or another type of aberration selected at GM discretion. This alters either enchantment resistance or truthseer.
 
-**Slippery:** Gillmen sometimes secrete oils which make them difficult to entrap or physically manipulate. Gillmen with this racial trait gain a +2 racial bonus to Escape Artist checks and to their CMD against grapple, reposition, or trip combat maneuvers. This replaces enchantment resistance. [Alienist HB]
+**Slippery:** Gillmen sometimes secrete oils which make them difficult to entrap or physically manipulate. Gillmen with this racial trait gain a +2 racial bonus to Escape Artist checks and to their CMD against grapple, reposition, or trip combat maneuvers. This replaces enchantment resistance.
 
 ### Gnome
 
 **Adventurer [DRS]:** Gnomes are naturally known for their love of adventure and exploration, although some are definitely more cut out than others. Gnomes with this racial trait gain the Navigation sphere as a bonus skill talent. This replaces gnome magic.
 
-**Alchemical Training:** Gnomish schools and universities commonly teach the art of alchemy, and many gnomes are fortunate enough to receive such an education. They gain the Alchemy sphere as a bonus talent at 1st level. This replaces gnome magic. [SA:MRT]
+**Alchemical Training:** Gnomish schools and universities commonly teach the art of alchemy, and many gnomes are fortunate enough to receive such an education. They gain the Alchemy sphere as a bonus talent at 1st level. This replaces gnome magic.
 
 **Arcane Engineer:** Gain the Basic Magic Training feat, selecting either the Creation, Illusion or Nature sphere. This replaces gnome magic.
 
-**Eccentric:** More than normal, these gnomes embrace their quirks and eccentricities, making them supremely at ease and approachably sincere in the eyes of others. These gnomes gain the Communication sphere as a bonus skill talent at 1st level. Additionally, if the gnome shares a motivation with a creature (even if the gnome does not know it), they reduce the DC required to increase their attitude by 4, as long as the target is aware that the gnome shares a motivation. This replaces gnome magic and obsessive. [SoG]
+**Eccentric:** More than normal, these gnomes embrace their quirks and eccentricities, making them supremely at ease and approachably sincere in the eyes of others. These gnomes gain the Communication sphere as a bonus skill talent at 1st level. Additionally, if the gnome shares a motivation with a creature (even if the gnome does not know it), they reduce the DC required to increase their attitude by 4, as long as the target is aware that the gnome shares a motivation. This replaces gnome magic and obsessive.
 
 **Faerie Born:** True children of Faerie, not the exiles born in another world and corrupted by its influence. Faerie born change their type from humanoid to fey, though do not change any subtypes. This modifies type and replaces defensive training.
 
@@ -286,15 +286,15 @@ This replaces elven magic.
 
 **Fey Motes:** Through natural talent or by training one aspect of their magic to the exclusion of other magics, some gnomes master their ability to create roving, trickster lights. They gain Basic Magic Training in the Light sphere as a bonus feat, with the Roving Glow drawback and Dancing Lights as their bonus talent. This replaces the obsessive and gnome magic racial traits.
 
-**Gnomish Tinkering:** Gnomes often take their pursuit of interest and excitement to the technological level, finding great purpose and joy in making things both useful and useless by leveraging a variety of solutions to a singular problem. Gnomes with this racial trait gain the Tinker sphere as a bonus talent. This replaces keen senses. [SUE]
+**Gnomish Tinkering:** Gnomes often take their pursuit of interest and excitement to the technological level, finding great purpose and joy in making things both useful and useless by leveraging a variety of solutions to a singular problem. Gnomes with this racial trait gain the Tinker sphere as a bonus talent. This replaces keen senses.
 
 **Gnomish War School:** The gnomes are known for their unique weapons; some gnomes fully embrace this tendency. They gain the Gnomish Heritage Equipment talent as a bonus talent at 1st level. This replaces defensive training, hatred, and weapon familiarity.
 
-**Hobbyist Concoctions:** Sampling ingredients and experimenting with compounds is but one of many common gnomish pastimes. This wide array of knowledge lends itself to preparing concoctions on the fly, with whatever is on hand. If they possess the Alchemy sphere and the (formulae) package they may prepare formulae in an hour even while performing other activities as long as they are awake and unrestrained. In addition, they may prepare one additional formulae at one time. This replaces defensive training, hatred, and weapon familiarity. [SA:MRT]
+**Hobbyist Concoctions:** Sampling ingredients and experimenting with compounds is but one of many common gnomish pastimes. This wide array of knowledge lends itself to preparing concoctions on the fly, with whatever is on hand. If they possess the Alchemy sphere and the (formulae) package they may prepare formulae in an hour even while performing other activities as long as they are awake and unrestrained. In addition, they may prepare one additional formulae at one time. This replaces defensive training, hatred, and weapon familiarity.
 
 **Minion Builder:** Obsessive tinkering with artificial servants leaves little time for stoking the fires or old enmities in some dwarves and gnomes. They gain the Leadership sphere as a bonus combat talent, taking the (cohort) package. They gain the Construct Controller drawback, granting the Constructor legendary talent normally. For gnomes, this replaces defensive training, hatred, and obsessive.
 
-**Performer:** Finding all facets of performance the best way to express themselves properly, these gnomes gain the Performance sphere as a bonus skill talent at 1st level. This replaces gnome magic. [SoG]
+**Performer:** Finding all facets of performance the best way to express themselves properly, these gnomes gain the Performance sphere as a bonus skill talent at 1st level. This replaces gnome magic.
 
 **Quick-Thinking [DRS]:** Quick to move and process information, some gnomes just simply process information more efficiently. These gnomes gain the Study sphere as a bonus skill talent. This replaces gnome magic.
 
@@ -306,9 +306,9 @@ This replaces elven magic.
 
 **Hemo Goblin Straggler:** A goblin who came into being through a Hemo Goblin sphere effect, yet for some inexplicable reason never disappeared (such as their target never dying, a mishap, etc.), is left with a small fragment of the magic that brought them into being. The goblin gains Basic Magic Training in the Blood sphere as a bonus feat at 1st level. This replaces skilled.
 
-**Pressurized Tinkering:** Taking advantage of geothermal vents and other high pressure systems in caves and badlands, goblin inventors have found ways to leverage pressure and heat to spur their mechanisms. Goblins with this racial trait gain Tinker sphere as a bonus talent and gain a +2 racial bonus to their Tinker sphere associated skill. This replaces skilled. [SUE]
+**Pressurized Tinkering:** Taking advantage of geothermal vents and other high pressure systems in caves and badlands, goblin inventors have found ways to leverage pressure and heat to spur their mechanisms. Goblins with this racial trait gain Tinker sphere as a bonus talent and gain a +2 racial bonus to their Tinker sphere associated skill. This replaces skilled.
 
-**Pyromania Specialist:** Most goblins have an affinity for burning things down, a few specialize in it to the point of mania. They gain the Goblin Heritage Equipment talent as a bonus talent at 1st level. This replaces skilled. [Apoc]
+**Pyromania Specialist:** Most goblins have an affinity for burning things down, a few specialize in it to the point of mania. They gain the Goblin Heritage Equipment talent as a bonus talent at 1st level. This replaces skilled.
 
 **Resourceful [DRS]:** A harsh life results in a number of goblins needing to use what they can to survive. Goblins with this racial trait gain the Survivalism sphere as a bonus skill talent. This replaces skilled.
 
@@ -316,7 +316,7 @@ This replaces elven magic.
 
 ### Half-Elf
 
-**Craftsman’s Upbringing [[DRS](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)]**
+**Craftsman’s Upbringing**
 
 Half elves are children of two worlds, and sometimes this world is one of rich industry and innovation. Half-elves with this racial trait gain their choice of either the Artifice sphere or Tinker sphere at 1st level.
 
@@ -324,21 +324,21 @@ This replaces adaptability
 
 **Doppelganger-spawn:** Due to the incredible skill of their imitations, the blood of doppelgangers can easily mingle with that of other races. This blood sometimes asserts itself strongly, creating the doppelganger spawn. They gain the Basic Magic Training feat for the Alteration sphere and the Lycanthropic drawback, gaining the Shifting Disguise feat in place of a bonus talent. This replaces elven immunities and keen senses.
 
-**Dreamless Sleep:** Some elves resist all sleep rather than only magical sleep, sleeping lightly and without any dreams to disturb them, remaining vaguely aware of the world around them. They gain the Somnambulance talent as a bonus talent at 1st level even if they do not possess the Scout sphere, and may select it a second time without possessing the Scout sphere. For elves and half-elves, this replaces elven immunities. [SA:MRT]
+**Dreamless Sleep:** Some elves resist all sleep rather than only magical sleep, sleeping lightly and without any dreams to disturb them, remaining vaguely aware of the world around them. They gain the Somnambulance talent as a bonus talent at 1st level even if they do not possess the Scout sphere, and may select it a second time without possessing the Scout sphere. For elves and half-elves, this replaces elven immunities.
 
 **Fey Heart:** The power of the fey runs stronger in some faebloods, whether by practice of their innate skill, stronger traces of the blood of the upper echelons of the courts, or some other cause. They gain the Basic Magic Training feat for the Fallen Fey sphere as a bonus feat. This replaces keen senses.
 
 ### Halfling
 
-**Clever Combatant:** In a world full of people larger and stronger, many a halfling learns that quick and clever action is the best method of self-defense. They gain the Scoundrel sphere as a bonus talent at 1st level. This replaces fearless and halfling luck. [SA:MRT]
+**Clever Combatant:** In a world full of people larger and stronger, many a halfling learns that quick and clever action is the best method of self-defense. They gain the Scoundrel sphere as a bonus talent at 1st level. This replaces fearless and halfling luck.
 
-**Comedian:** Endlessly humorous (at least to themselves), some halflings thrive off of laughter and humor, and rarely miss a moment to slip in a joke or euphemism. These halflings gain the Communication sphere as a bonus skill talent at 1st level, and may use Perform (comedy) instead of Diplomacy for Communication sphere’s associated skill. This replaces fearless and sure-footed. [SoG]
+**Comedian:** Endlessly humorous (at least to themselves), some halflings thrive off of laughter and humor, and rarely miss a moment to slip in a joke or euphemism. These halflings gain the Communication sphere as a bonus skill talent at 1st level, and may use Perform (comedy) instead of Diplomacy for Communication sphere’s associated skill. This replaces fearless and sure-footed.
 
 **Doppelganger-spawn:** Due to the incredible skill of their imitations, the blood of doppelgangers can easily mingle with that of other races. This blood sometimes asserts itself strongly, creating the doppelganger spawn. They gain the Basic Magic Training feat for the Alteration sphere and the Lycanthropic drawback, gaining the Shifting Disguise feat in place of a bonus talent. This replaces halfling luck and fearless.
 
-**Inconspicuous:** Relying on their size to remain unseen by others, these halflings gain the Subterfuge sphere and the Effortless Theft talent as bonus skill talents at 1st level. This replaces fearless and sure-footed. [SoG]
+**Inconspicuous:** Relying on their size to remain unseen by others, these halflings gain the Subterfuge sphere and the Effortless Theft talent as bonus skill talents at 1st level. This replaces fearless and sure-footed.
 
-**Infiltrator’s Talent [[DRS](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)]**
+**Infiltrator’s Talent**
 Many halflings are forced to blend into society, which has created a culture of talents and tools to make such effort easier. Halflings with this racial trait gain the Tinker sphere as a bonus talent at 1st level and their choice of either Disguised Gizmos or Infiltration Set as an additional bonus talent.
 
 This replaces fearless, sure-footed, and weapon familiarity.
@@ -365,13 +365,13 @@ This replaces fearless, sure-footed, and weapon familiarity.
 
 **Shamanistic Practices [DRS]:** Orcs or half-orcs with this racial trait gain the Occultism sphere as a bonus skill talent, but must choose Knowledge (nature) or Knowledge (religion) as its associated skill. For half-orcs this replaces orc ferocity, whereas for orcs this replaces ferocity.
 
-**Trained Berserk:** Those of orcish descent sometimes learn to ignore lesser wounds, focusing on aggressive tactics while trusting in their own endurance. They gain the Berserker sphere as a bonus talent at 1st level. For half-orcs this replaces orc ferocity. [SA:MRT]
+**Trained Berserk:** Those of orcish descent sometimes learn to ignore lesser wounds, focusing on aggressive tactics while trusting in their own endurance. They gain the Berserker sphere as a bonus talent at 1st level. For half-orcs this replaces orc ferocity.
 
 ### Hobgoblin
 
 **Cunning Commander [DRS]:** Hobgoblins with this racial trait gain the Communication (Aggressive alternate start) or Warleader sphere as a bonus talent. This replaces sneaky.
 
-**Imperious Demeanor:** The militaristic culture of hobgoblins encourages strong personalities, and some hobgoblins take this to heart. Hobgoblins with this racial trait gain Gladiator as a bonus talent at 1st level, but suffer a -2 penalty to Wisdom. [Youxia HB]
+**Imperious Demeanor:** The militaristic culture of hobgoblins encourages strong personalities, and some hobgoblins take this to heart. Hobgoblins with this racial trait gain Gladiator as a bonus talent at 1st level, but suffer a -2 penalty to Wisdom.
 
 **Natural Leader:** Some hobgoblins show leadership ability from a young age, becoming leaders of warbands and tribes as naturally as breathing. They gain the Leadership sphere as a bonus combat talent. This replaces sneaky.
 
@@ -383,32 +383,32 @@ This replaces fearless, sure-footed, and weapon familiarity.
 
 **Doppelganger-spawn:** Due to the incredible skill of their imitations, the blood of doppelgangers can easily mingle with that of other races. This blood sometimes asserts itself strongly, creating the doppelganger spawn. They gain the Basic Magic Training feat for the Alteration sphere and the Lycanthropic drawback, gaining the Shifting Disguise feat in place of a bonus talent. This replaces the bonus feat trait.
 
-**End State:** Texts have long written of a next stage of humanity, an age where their ambitions make way for greater connections. Humans with this racial trait gain the ability to communicate telepathically with any creature within 60 feet with which they share a language. Humans with this racial trait sleep but they do not dream. As such, they have immunity to the dream and nightmare spells, as well as any other effect that relies on the target’s ability to dream. This replaces skilled. [Alienist HB]
+**End State:** Texts have long written of a next stage of humanity, an age where their ambitions make way for greater connections. Humans with this racial trait gain the ability to communicate telepathically with any creature within 60 feet with which they share a language. Humans with this racial trait sleep but they do not dream. As such, they have immunity to the dream and nightmare spells, as well as any other effect that relies on the target’s ability to dream. This replaces skilled.
 
-**Multiskilled:** Multifaceted and understanding a wide range of skills, some humans strive to learn as much as they can. These humans gain a talent from the Vocation sphere as a bonus skill talent at 1st level, 8th level, and 16th level. This replaces skilled. [SoG]
+**Multiskilled:** Multifaceted and understanding a wide range of skills, some humans strive to learn as much as they can. These humans gain a talent from the Vocation sphere as a bonus skill talent at 1st level, 8th level, and 16th level. This replaces skilled.
 
-**Othered:** As the most adaptable race, it is possible for humans to become something otherworldly through prolonged exposure to or interaction with alien forces. Humans with this racial trait change their type from humanoid to either aberration, monstrous humanoid, or outsider (native). This type change does not grant additional abilities such as darkvision or weapon proficiencies. This replaces skilled. [Alienist HB]
+**Othered:** As the most adaptable race, it is possible for humans to become something otherworldly through prolonged exposure to or interaction with alien forces. Humans with this racial trait change their type from humanoid to either aberration, monstrous humanoid, or outsider (native). This type change does not grant additional abilities such as darkvision or weapon proficiencies. This replaces skilled.
 
-**Studious:** Either hermetic or simply a lover of knowledge, some humans find knowledge and books just as powerful (if not more so) than a sword and shield. These humans gain the Study sphere as a bonus skill talent at 1st level. This replaces skilled. [SoG]
+**Studious:** Either hermetic or simply a lover of knowledge, some humans find knowledge and books just as powerful (if not more so) than a sword and shield. These humans gain the Study sphere as a bonus skill talent at 1st level. This replaces skilled.
 
-**Titan of Industry [[DRS](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)]**
+**Titan of Industry**
 Human cities are breeding grounds for innovation, and as a result, certain humans become further inspired as inventors. Humans with this racial trait gain the Tinker sphere as a bonus talent at 1st level.
 
 This replaces bonus feat. **Special:** A human that selects this alternate racial trait may choose to also gain a single Tinker sphere [utility] talent at 1st, 8th, and 16th level. This optionally replaces skilled.
 
 ### Ifrit
 
-**Burning Focus:** Ifrit with martial training often learn to channel their natural fire into their weaponry, catching them afire or turning the metal red hot. They can achieve martial focus as a practitioner. When they have martial focus they may convert up to their practitioner modifier in weapon damage they deal to fire damage. In addition, they may expend martial focus to convert all weapon damage they deal to to fire damage until the beginning of their next turn. This replaces fire affinity and spell-like ability. [SA:MRT]
+**Burning Focus:** Ifrit with martial training often learn to channel their natural fire into their weaponry, catching them afire or turning the metal red hot. They can achieve martial focus as a practitioner. When they have martial focus they may convert up to their practitioner modifier in weapon damage they deal to fire damage. In addition, they may expend martial focus to convert all weapon damage they deal to to fire damage until the beginning of their next turn. This replaces fire affinity and spell-like ability.
 
 **Elemental Call:** Scions of powerful genies can claim a servitor as their inheritance. They gain Basic Magic Training in the Conjuration sphere as a bonus feat at 1st level. The companion must take Elemental Creature (form) as its first talent, selecting fire as its element. This replaces fire affinity and the spell-like ability racial traits.
 
-**Extravagant:** Some ifrits possess a volatile, explosive nature that is more endearing or attractive than dangerous or abrasive. These ifrits gain the Subterfuge sphere as a bonus skill talent at 1st level, gaining the Fashionista drawback, but must choose the Flashy Outfit (disguise) talent. This replaces the ifrit’s spell-like ability. [SoG]
+**Extravagant:** Some ifrits possess a volatile, explosive nature that is more endearing or attractive than dangerous or abrasive. These ifrits gain the Subterfuge sphere as a bonus skill talent at 1st level, gaining the Fashionista drawback, but must choose the Flashy Outfit (disguise) talent. This replaces the ifrit’s spell-like ability.
 
 **Flame Form:** Some ifrit have a stronger connection to their elemental forebears than others. They gain Basic Magic Training in the Alteration sphere as a bonus feat at 1st level with the Beast Soul drawback for Elemental Transformation (fire elemental only), receiving Elemental Transformation as a bonus talent as normal. Once per day, they may use this talent without paying the additional spell point cost. This replaces fire affinity and the spell-like ability racial traits.
 
 **Flame Touch:** Some ifrit are more adept than others at channeling their native connection to the plane of fire. They gain Basic Magic Training in the Destruction sphere as a bonus feat at 1st level with the Energy Focus drawback for the fire blast group, receiving a bonus talent as normal. This replaces fire affinity and the spell-like ability racial traits.
 
-**Forgeborn:** Some ifrit never know darkness, mesmerized as they are by the glow of coal and molten metal. They gain the Equipment sphere as a bonus talent at 1st level, and must select the Craftsman talent as their free talent. This replaces darkvision. [SA:MRT]
+**Forgeborn:** Some ifrit never know darkness, mesmerized as they are by the glow of coal and molten metal. They gain the Equipment sphere as a bonus talent at 1st level, and must select the Craftsman talent as their free talent. This replaces darkvision.
 
 **Inflammatory [DRS]:** Some ifrits just want to see the world burn–metaphorically of course. Ifrits with this racial trait gain the Bluster sphere as a bonus skill talent, gaining the Instigator alternate start. This replaces fire affinity and spell-like ability.
 
@@ -420,23 +420,23 @@ This replaces bonus feat. **Special:** A human that selects this alternate racia
 
 ### Kasatha
 
-**Climber:** Kasatha who move beyond the desert can use their extra limbs to climb skillfully. Kasatha with this racial trait gain a climb speed of 20 feet. This replaces desert runner and desert stride. [Alienist HB]
+**Climber:** Kasatha who move beyond the desert can use their extra limbs to climb skillfully. Kasatha with this racial trait gain a climb speed of 20 feet. This replaces desert runner and desert stride.
 
-**Compact:** Smaller kasatha sometimes emerge in sparser regions, using their low profile and diminished consumption for survival. Kasatha with this racial trait are Small-sized rather than Medium-sized and gain a +2 racial bonus to Acrobatics and Escape Artist checks. [Alienist HB]
+**Compact:** Smaller kasatha sometimes emerge in sparser regions, using their low profile and diminished consumption for survival. Kasatha with this racial trait are Small-sized rather than Medium-sized and gain a +2 racial bonus to Acrobatics and Escape Artist checks.
 
-**Intense Grip:** Small “palm claws” intensify a kasatha’s gripping ability, an adaptation that prevents them from losing their weapons in a dangerous bout. Kasatha with this racial trait gain a +2 racial bonus to CMD to resist disarm and steal maneuvers and gain a +2 racial bonus to checks made to grapple. This replaces jumper. [Alienist HB]
+**Intense Grip:** Small “palm claws” intensify a kasatha’s gripping ability, an adaptation that prevents them from losing their weapons in a dangerous bout. Kasatha with this racial trait gain a +2 racial bonus to CMD to resist disarm and steal maneuvers and gain a +2 racial bonus to checks made to grapple. This replaces jumper.
 
-**Nocturnal:** Kasatha sometimes develop an affinity for hunting at night, learning to avoid foes rather than fight them. Kasatha with this racial trait gain darkvision out to 60 feet. This replaces defensive training. [Alienist HB]
+**Nocturnal:** Kasatha sometimes develop an affinity for hunting at night, learning to avoid foes rather than fight them. Kasatha with this racial trait gain darkvision out to 60 feet. This replaces defensive training.
 
 ### Kitsune
 
-**Fox Guise:** Some kitsune are able to take on the unassuming form of their bloodline. A kitsune with this alternate racial trait receives Transformation as a bonus feat at 1st level, choosing the form of a Tiny or Small fox with the Animalistic Transformation (transformation) talent, even if this size would be smaller than normally permitted. This replaces either change shape or kitsune magic. [BTH]
+**Fox Guise:** Some kitsune are able to take on the unassuming form of their bloodline. A kitsune with this alternate racial trait receives Transformation as a bonus feat at 1st level, choosing the form of a Tiny or Small fox with the Animalistic Transformation (transformation) talent, even if this size would be smaller than normally permitted. This replaces either change shape or kitsune magic.
 
 **Fox Trickster:** Gain the Basic Magic Training as a bonus feat, selecting either the Illusion, Light, or Mind sphere. This replaces the kitsune magic racial trait.
 
 **Fox’s Wedding:** Some kitsune possess an affinity for weather magic instead of enchantments. They gain Basic Magic Training in the Weather sphere as a bonus feat. This replaces kitsune magic.
 
-**Human Guise:** Kitsune often take on a humanoid visage to better blend with society. A kitsune with this alternate racial trait receives Transformation as a bonus feat at 1st level, choosing the the Anthropomorphic Transformation (transformation) talent to take the form of a single human (or other suitable humanoid at the GM’s discretion). The kitsune does not choose another (form) or (body) talent to emulate and does not gain the additional +2 traits normally granted by Anthropomorphic Transformation. The kitsune must undergo cosmetic changes to disguise as their chosen humanoid form, gaining a +10 bonus on Disguise checks to appear as that humanoid race. This replaces change shape. [BTH]
+**Human Guise:** Kitsune often take on a humanoid visage to better blend with society. A kitsune with this alternate racial trait receives Transformation as a bonus feat at 1st level, choosing the the Anthropomorphic Transformation (transformation) talent to take the form of a single human (or other suitable humanoid at the GM’s discretion). The kitsune does not choose another (form) or (body) talent to emulate and does not gain the additional +2 traits normally granted by Anthropomorphic Transformation. The kitsune must undergo cosmetic changes to disguise as their chosen humanoid form, gaining a +10 bonus on Disguise checks to appear as that humanoid race. This replaces change shape.
 
 **Magical Tails:** Some kitsune are naturally gifted in magic and grow additional tails as their innate power increases. Legend says that the fur of such gifted kitsune will change to snow white upon growing their 9th and final tail.
 
@@ -454,21 +454,21 @@ Gain the Witchmarked general drawback and use your character level in place of c
 
 **Special:** If you also take the dragon-scaled alternate racial trait, your chosen energy resistance must match that of your blast type.
 
-**Instinctual Trapper:** All kobolds must deal with the reality that they are vulnerable to attack by much stronger creatures, but the especially vulnerable kobolds compensate by not fighting fair. They gain the Trap sphere, and one talent of their choice from the Trap sphere as a bonus talents at 1st level. This replaces armor. [Apoc]
+**Instinctual Trapper:** All kobolds must deal with the reality that they are vulnerable to attack by much stronger creatures, but the especially vulnerable kobolds compensate by not fighting fair. They gain the Trap sphere, and one talent of their choice from the Trap sphere as a bonus talents at 1st level. This replaces armor.
 
 ### Lizardfolk
 
 *Note:* The lizardfolk race was originally printed as an example race using the race builder included in Pathfinder Roleplaying Game Advanced Race Guide. The variant races provided here are intended to normalize them against other race options commonly used in Pathfinder.
 
-**Diplomat:** Lizardfolk are tribal and often isolate themselves against outside contact. When lizardfolk tribes are forced to interact with the outside, they will frequently designate a family or clan of diplomats. Lizardfolk ostracize those placed into the role of a diplomat, and as such it is not considered an honor or wanted position. Lizardfolk with this racial trait gain one additional language of their choice, in addition to their racial language. This trait replaces xenophobic. [SA:BRV]
+**Diplomat:** Lizardfolk are tribal and often isolate themselves against outside contact. When lizardfolk tribes are forced to interact with the outside, they will frequently designate a family or clan of diplomats. Lizardfolk ostracize those placed into the role of a diplomat, and as such it is not considered an honor or wanted position. Lizardfolk with this racial trait gain one additional language of their choice, in addition to their racial language. This trait replaces xenophobic.
 
-**Hunter-Gatherers:** Lizardfolk often divide their roles into those who hunt to provide prey for the tribe and those who gather to provide medicine and crafts. Lizardfolk with this racial trait are the hunters, gaining Extra Combat talent for the Scout sphere as a bonus feat. This racial trait replaces the lizardfolk’s bite natural attack. [SA:BRV]
+**Hunter-Gatherers:** Lizardfolk often divide their roles into those who hunt to provide prey for the tribe and those who gather to provide medicine and crafts. Lizardfolk with this racial trait are the hunters, gaining Extra Combat talent for the Scout sphere as a bonus feat. This racial trait replaces the lizardfolk’s bite natural attack.
 
-**Scrabbling Claws:** Lizardfolk tribes who dwell in arid or cave-like environments developed more appropriate claws from scaling difficult or slippery surfaces. Lizardfolk with this racial trait have a climb speed of 20 feet (along with the +8 racial bonus on Climb checks a climb speed affords). This racial trait replaces the lizardfolk’s swim speed. [SA:BRV]
+**Scrabbling Claws:** Lizardfolk tribes who dwell in arid or cave-like environments developed more appropriate claws from scaling difficult or slippery surfaces. Lizardfolk with this racial trait have a climb speed of 20 feet (along with the +8 racial bonus on Climb checks a climb speed affords). This racial trait replaces the lizardfolk’s swim speed.
 
-**Venomous:** Some lizardfolk adapted to hunt larger prey, making use of virulent toxins secreted by their skin or other parts of their body. Lizardfolk with this racial trait gain Extra Combat Talent for the Alchemy sphere as a bonus feat and must choose the (poison) package. This racial trait replaces the lizardfolk’s natural armor bonus. [SA:BRV]
+**Venomous:** Some lizardfolk adapted to hunt larger prey, making use of virulent toxins secreted by their skin or other parts of their body. Lizardfolk with this racial trait gain Extra Combat Talent for the Alchemy sphere as a bonus feat and must choose the (poison) package. This racial trait replaces the lizardfolk’s natural armor bonus.
 
-#### Basili (Lizardfolk) [SA:BRV]
+#### Basili (Lizardfolk)
 
 Basili lizardfolk are swift and intelligent compared to the physical prowess of their more brutish brethren. Naturalists and experimenters, the basili get along well with those who respect or research nature.
 
@@ -482,7 +482,7 @@ Basili lizardfolk are swift and intelligent compared to the physical prowess of 
 
 **Observant:** Basili are exceptionally aware of their surroundings. Basili gain a +1 racial bonus on Perception checks and Perception is always a class skill for a basili.
 
-#### Hydrakin (Lizardfolk) [SA:BRV]
+#### Hydrakin (Lizardfolk)
 
 Hydrakin lizardfolk are tenacious and quick to recover, but their miraculous healing capabilities often scar their figure if not tended to carefully. Hydrakin are strong and canny, but often slow to warm up to others.
 
@@ -498,33 +498,33 @@ Hydrakin lizardfolk are tenacious and quick to recover, but their miraculous hea
 
 ### Locathah
 
-**Adhesive Coating:** Locathah often survive on land through a coating of adhesive mucus, mucus which can be weaponized in certain circumstances. Locathah with this racial trait gain a +4 racial bonus to their CMD to resist dirty trick, disarm, steal, and trip combat maneuvers. This replaces natural armor. [Alienist HB]
+**Adhesive Coating:** Locathah often survive on land through a coating of adhesive mucus, mucus which can be weaponized in certain circumstances. Locathah with this racial trait gain a +4 racial bonus to their CMD to resist dirty trick, disarm, steal, and trip combat maneuvers. This replaces natural armor.
 
-**Weather the Elements:** Locathah with this racial trait adapt to a variety of extreme climates. They gain resistance 5 against cold, electricity, and fire. This replaces natural armor. [Alienist HB]
+**Weather the Elements:** Locathah with this racial trait adapt to a variety of extreme climates. They gain resistance 5 against cold, electricity, and fire. This replaces natural armor.
 
 ### Merfolk
 
-**Underwater Warrior:** While all merfolk are adept at underwater working environments for underwater living, it surprises landwalkers that those same tools make some merfolk quite adept at underwater combat as well. They gain the Peasant Training Equipment talent as a bonus talent at 1st level. This replaces low-light vision. [Apoc]
+**Underwater Warrior:** While all merfolk are adept at underwater working environments for underwater living, it surprises landwalkers that those same tools make some merfolk quite adept at underwater combat as well. They gain the Peasant Training Equipment talent as a bonus talent at 1st level. This replaces low-light vision.
 
 **Water Mastery:** Some merfolk find that they possess a natural mastery of water, both above and below the waves. They gain Basic Magic Training in the Weather sphere as a bonus feat, with the Limited Weather (Precipitation) drawback and Rain Lord as their bonus talent. This replaces natural armor.
 
 ### Nagaji
 
-**Aberration Hunter:** Nagaji versed in the fighting techniques of aberrations often develop an affinity for fighting them. Nagaji with this racial trait gain a +1 bonus to attack and damage rolls against aberrations. This replaces armored scales. [Alienist HB]
+**Aberration Hunter:** Nagaji versed in the fighting techniques of aberrations often develop an affinity for fighting them. Nagaji with this racial trait gain a +1 bonus to attack and damage rolls against aberrations. This replaces armored scales.
 
-**Altered Physiology:** A nagaji with this trait is treated as an aberration rather than a humanoid whenever it would be beneficial (for example, harmful spells which target only humanoids such as charm person or hold person will automatically fail unless the nagaji specifically chooses otherwise; rangers will not be able to use favored enemy against him unless they have both humanoids (reptilian) and aberrations as favored enemies, in which case the nagaji suffers the lesser bonus of the two). This replaces resistant. [Alienist HB]
+**Altered Physiology:** A nagaji with this trait is treated as an aberration rather than a humanoid whenever it would be beneficial (for example, harmful spells which target only humanoids such as charm person or hold person will automatically fail unless the nagaji specifically chooses otherwise; rangers will not be able to use favored enemy against him unless they have both humanoids (reptilian) and aberrations as favored enemies, in which case the nagaji suffers the lesser bonus of the two). This replaces resistant.
 
-**Darkvision:** Nagaji with this racial trait gain Darkvision out to 60 feet. This replaces serpent’s sense. [Alienist HB]
+**Darkvision:** Nagaji with this racial trait gain Darkvision out to 60 feet. This replaces serpent’s sense.
 
-**Inured to Magic:** Nagaji with this racial trait possess spell resistance (SR) equal to 6 plus their total number of class levels. This replaces armored scales. [Alienist HB]
+**Inured to Magic:** Nagaji with this racial trait possess spell resistance (SR) equal to 6 plus their total number of class levels. This replaces armored scales.
 
-**Magician:** A rare few noble nagaji are trained in the ancient magical ways of their progenitors. They gain a +2 bonus to Intelligence and Charisma and take a -2 penalty to Strength instead of the normal bonuses and penalties. This racial trait alters the nagaji’s racial ability score modifiers. [Alienist HB]
+**Magician:** A rare few noble nagaji are trained in the ancient magical ways of their progenitors. They gain a +2 bonus to Intelligence and Charisma and take a -2 penalty to Strength instead of the normal bonuses and penalties. This racial trait alters the nagaji’s racial ability score modifiers.
 
-**Marauder:** Nagaji may be trained for durability and agility in place of strength, although these are often conditioned to amplify their loyalty. They gain a +2 bonus to Dexterity and Constitution and take a -2 penalty to Wisdom instead of the normal bonuses and penalties. This racial trait alters the nagaji’s racial ability score modifiers. [Alienist HB]
+**Marauder:** Nagaji may be trained for durability and agility in place of strength, although these are often conditioned to amplify their loyalty. They gain a +2 bonus to Dexterity and Constitution and take a -2 penalty to Wisdom instead of the normal bonuses and penalties. This racial trait alters the nagaji’s racial ability score modifiers.
 
-**Monastic:** Some nagaji have studied monastic arts to hone their bodies, drawing inspiration from their naga predecessors. They gain a +2 bonus to Dexterity and Wisdom and take a -2 penalty to Intelligence instead of the normal bonuses and penalties. This racial trait alters the nagaji’s racial ability score modifiers. [Alienist HB]
+**Monastic:** Some nagaji have studied monastic arts to hone their bodies, drawing inspiration from their naga predecessors. They gain a +2 bonus to Dexterity and Wisdom and take a -2 penalty to Intelligence instead of the normal bonuses and penalties. This racial trait alters the nagaji’s racial ability score modifiers.
 
-**Serpentine Transformation:** Certain nagaji can take on other forms, most often those of snakes. They gain Transformation as a bonus feat, selecting a serpent as per the Serpentine Transformation talent or a humanoid race of their choice as per the Anthropomorphic Transformation talent. This replaces resistant. [Alienist HB]
+**Serpentine Transformation:** Certain nagaji can take on other forms, most often those of snakes. They gain Transformation as a bonus feat, selecting a serpent as per the Serpentine Transformation talent or a humanoid race of their choice as per the Anthropomorphic Transformation talent. This replaces resistant.
 
 **Serpent’s Body:** Some reptilian races are born with a great affinity for the serpents they resemble. They gain Transformation, selecting the form of a serpent per the Serpentine Transformation talent, as a bonus feat at 1st level, even if they do not meet its prerequisites. This replaces resistant and serpent sense.
 
@@ -542,13 +542,13 @@ Hydrakin lizardfolk are tenacious and quick to recover, but their miraculous hea
 
 **Shamanistic Practices [DRS]:** Orcs or half-orcs with this racial trait gain the Occultism sphere as a bonus skill talent, but must choose Knowledge (nature) or Knowledge (religion) as its associated skill. For half-orcs this replaces orc ferocity, whereas for orcs this replaces ferocity.
 
-**Trained Berserk:** Those of orcish descent sometimes learn to ignore lesser wounds, focusing on aggressive tactics while trusting in their own endurance. They gain the Berserker sphere as a bonus talent at 1st level. For orcs, this replaces ferocity. [SA:MRT]
+**Trained Berserk:** Those of orcish descent sometimes learn to ignore lesser wounds, focusing on aggressive tactics while trusting in their own endurance. They gain the Berserker sphere as a bonus talent at 1st level. For orcs, this replaces ferocity.
 
 ### Oread
 
 **Elemental Call:** Scions of powerful genies can claim a servitor as their inheritance. They gain Basic Magic Training in the Conjuration sphere as a bonus feat at 1st level. The companion must take Elemental Creature (form) as its first talent, selecting acid as its element. This replaces earth affinity and the spell-like ability racial traits.
 
-**Fleshgem Style:** Oreads with this racial trait gain Extra Combat Talent as a bonus feat for the Equipment sphere Spiked Defense talent and can treat fleshgem spikes as armor equipped with armor spikes for the purpose of the Spiked Defense talent. Oreads with this racial trait gain a +1 bonus on attack rolls with fleshgem spikes. This racial trait replaces energy resistance. [SA:AT2]
+**Fleshgem Style:** Oreads with this racial trait gain Extra Combat Talent as a bonus feat for the Equipment sphere Spiked Defense talent and can treat fleshgem spikes as armor equipped with armor spikes for the purpose of the Spiked Defense talent. Oreads with this racial trait gain a +1 bonus on attack rolls with fleshgem spikes. This racial trait replaces energy resistance.
 
 **Gem Crafter:** Some oreads have learned how to condense magical energy into stones for later use. They gain Basic Magic Training in the Destruction sphere as a bonus feat at 1st level with the Shape Focus drawback for the Energy Bomb shape, receiving a bonus talent as normal. In addition, the oread has a limited ability to reclaim power from these stones and put it to other uses. As a move action an oread may destroy an Energy Bomb he created without discharging it to gain 1 temporary spell point until the start of his next turn. This replaces the earth affinity and spell-like ability racial traits.
 
@@ -562,25 +562,25 @@ Hydrakin lizardfolk are tenacious and quick to recover, but their miraculous hea
 
 **Stone-Faced:** Oreads with this racial trait gain the Body Control sphere as a bonus skill talent at 1st level. This replaces earth affinity and the oread’s spell-like ability.
 
-These oreads can choose to replace energy resistance as well when choosing this racial trait, gaining the Stony Demeanor Body Control talent if they do. [SoG]
+These oreads can choose to replace energy resistance as well when choosing this racial trait, gaining the Stony Demeanor Body Control talent if they do.
 
-**Stone Strength:** Oread who learn the parable of stone know that stone’s nature is patience and passivity, its unstoppable might showing only in rare moments. They gain the Brute sphere as a bonus talent at 1st level, as well as the Burly drawback (which grants the Muscular Surge talent as normal). This replaces spell-like ability. [SA:MRT]
+**Stone Strength:** Oread who learn the parable of stone know that stone’s nature is patience and passivity, its unstoppable might showing only in rare moments. They gain the Brute sphere as a bonus talent at 1st level, as well as the Burly drawback (which grants the Muscular Surge talent as normal). This replaces spell-like ability.
 
 **Stone Thrower:** Some oreads have mastered conjuring and manipulating stone, crystal, or metal. They gain Basic Magic Training in the Destruction sphere as a bonus feat at 1st level with the Energy Focus drawback for the crystal, electric or stone blast type group, receiving a bonus talent as normal. This replaces earth affinity and the spell-like ability racial traits.
 
 ### Ratfolk
 
-**Alchemical Dabbler:** Many ratfolk are skilled experimenters, growing up in filthy environments where chemicals and reagents were dangerously present. A ratfolk with this racial trait gains Extra Combat Talent as a bonus feat for the Alchemy sphere. This racial trait replaces tinker. [SA:BRV]
+**Alchemical Dabbler:** Many ratfolk are skilled experimenters, growing up in filthy environments where chemicals and reagents were dangerously present. A ratfolk with this racial trait gains Extra Combat Talent as a bonus feat for the Alchemy sphere. This racial trait replaces tinker.
 
-**Familial Ties:** Ratfolk often grow up in close-knit colonies and are quick to form strong bonds with other ratfolk. A ratfolk with this racial trait gains Extra Combat Talent for the Leadership sphere as a bonus feat. A ratfolk with this racial trait may choose ratfolk cohorts or followers regardless of the races normally available in the settlement. This racial trait replaces swarming. Ratfolk cohorts and followers cannot gain this alternate racial trait. [SA:BRV]
+**Familial Ties:** Ratfolk often grow up in close-knit colonies and are quick to form strong bonds with other ratfolk. A ratfolk with this racial trait gains Extra Combat Talent for the Leadership sphere as a bonus feat. A ratfolk with this racial trait may choose ratfolk cohorts or followers regardless of the races normally available in the settlement. This racial trait replaces swarming. Ratfolk cohorts and followers cannot gain this alternate racial trait.
 
-**Gourmand:** Some ratfolk take up cooking and cuisine, enjoying eating well and living well even while on the road. A ratfolk with this racial trait learns a single recipe, choosing a single entree and flavor. This functions as the iron chef blacksmith recipes class feature, treating their effective blacksmith level as level 1. This racial trait replaces rodent empathy. If the ratfolk ever gains the recipes class feature, the ratfolk gains Extra Smithing Insight as a bonus feat and must choose a smithing insight that grants additional options for their recipes class feature (such as the fruits or starching smithing insights). The Extra Smithing Insight feat gained this way does not count against the number of times the ratfolk may gain the feat normally. [SA:BRV]
+**Gourmand:** Some ratfolk take up cooking and cuisine, enjoying eating well and living well even while on the road. A ratfolk with this racial trait learns a single recipe, choosing a single entree and flavor. This functions as the iron chef blacksmith recipes class feature, treating their effective blacksmith level as level 1. This racial trait replaces rodent empathy. If the ratfolk ever gains the recipes class feature, the ratfolk gains Extra Smithing Insight as a bonus feat and must choose a smithing insight that grants additional options for their recipes class feature (such as the fruits or starching smithing insights). The Extra Smithing Insight feat gained this way does not count against the number of times the ratfolk may gain the feat normally.
 
-**Hop and Jump:** Growing up in open spaces or mountainous terrain, many ratfolk are adept at leaping, hopping, and jumping, often imitating kangaroo or other marsupials when doing so. A ratfolk with this racial trait gains Extra Combat Talent for the Athletics sphere as a bonus feat and must choose the (leap) package. In addition, a ratfolk gains a +4 racial bonus on Acrobatics checks made to jump, despite their normally slow speed. This racial trait replaces tinker. [SA:BRV]
+**Hop and Jump:** Growing up in open spaces or mountainous terrain, many ratfolk are adept at leaping, hopping, and jumping, often imitating kangaroo or other marsupials when doing so. A ratfolk with this racial trait gains Extra Combat Talent for the Athletics sphere as a bonus feat and must choose the (leap) package. In addition, a ratfolk gains a +4 racial bonus on Acrobatics checks made to jump, despite their normally slow speed. This racial trait replaces tinker.
 
-**Riverside Innovation:** Growing their small colonies by the eddies and bends of rivers, ratfolk leveraged their love of cleanliness and waterways to create hydraulics backing their innovations. Ratfolk with this racial trait gain the Tinker sphere as a bonus talent. This replaces rodent empathy. [SUE]
+**Riverside Innovation:** Growing their small colonies by the eddies and bends of rivers, ratfolk leveraged their love of cleanliness and waterways to create hydraulics backing their innovations. Ratfolk with this racial trait gain the Tinker sphere as a bonus talent. This replaces rodent empathy.
 
-#### Bosavian (Ratfolk) [SA:BRV]
+#### Bosavian (Ratfolk)
 
 Bosavian are a divergent ratfolk subspecies which grew larger due to developing in remote and isolated regions where there was little competition to hinder their growth. The larger, fuzzier bosavian ratfolk are athletic, intelligent, but socially clumsy. Bosavian are competitive, arrogant, and rough, tending to get into fights and scraps frequently.
 
@@ -592,7 +592,7 @@ Bosavian are a divergent ratfolk subspecies which grew larger due to developing 
 
 **Special:** If the bosavion possesses an ability which normally grants bonuses against a single target, they may use bravado as part of that ability so long as the bosavion spends at least a swift action to do so. Such abilities include cavalier’s challenge, Guardian sphere challenge, paladin’s smite, Scout sphere’s scout, investigator’s studied combat, slayer’s studied target, and any other similar ability subject to GM discretion.
 
-#### Mousegard (Ratfolk) [SA:BRV]
+#### Mousegard (Ratfolk)
 
 Mousegard are hearty, brave and adventurous ratfolk that make their homes in the vast woods, dry deserts, and rocky mountains far away from larger cities. Mousegard are often called the “fuzzier halfling” for having many cultural similarities, including a love of extravagant meals and boundless curiosity and courage.
 
@@ -606,19 +606,19 @@ Mousegard are hearty, brave and adventurous ratfolk that make their homes in the
 
 **Author’s Note:** The rougarou race from Bestiary 6 only has three racial traits. This handbook includes a generic racial trait option (lycan hunter) which may be taken by any rougarou at no cost. The variant heritage rougarou presented in this book assume the rougarou have access to this racial trait. All spheres rougarou gain the following racial trait:
 
-***Lycan Hunter:*** Rougarou are adept hunters of shapechangers and those afflicted with lycanthropy. Rougarou gain a +2 racial bonus on Perception, Sense Motive, and Survival checks made against non-rougarou creatures with the shapechanger subtype (such as werewolves). [SA:BRV]
+***Lycan Hunter:*** Rougarou are adept hunters of shapechangers and those afflicted with lycanthropy. Rougarou gain a +2 racial bonus on Perception, Sense Motive, and Survival checks made against non-rougarou creatures with the shapechanger subtype (such as werewolves).
 
-**Bestial Shift:** Rougarou can shapeshift between their normal form and their bestial form at will. A rougarou with this racial trait gains Transformation as a bonus feat and must choose a bestial form or other appropriate form to their heritage (such as a wolf, jackal, hyena, etc.). In addition, a rougarou can revert to its normal form from its transformed state as a swift action rather than a full-round action. This racial trait replaces change shape. [SA:BRV]
+**Bestial Shift:** Rougarou can shapeshift between their normal form and their bestial form at will. A rougarou with this racial trait gains Transformation as a bonus feat and must choose a bestial form or other appropriate form to their heritage (such as a wolf, jackal, hyena, etc.). In addition, a rougarou can revert to its normal form from its transformed state as a swift action rather than a full-round action. This racial trait replaces change shape.
 
-**Darkvision:** As a separation of a pack’s needs to be alert during the day or night, some rougarou developed more keen nocturnal senses. Rougarou with this racial trait gain darkvision with a range of 60 feet. This racial trait replaces low-light vision. [SA:BRV]
+**Darkvision:** As a separation of a pack’s needs to be alert during the day or night, some rougarou developed more keen nocturnal senses. Rougarou with this racial trait gain darkvision with a range of 60 feet. This racial trait replaces low-light vision.
 
-**Handler:** The rare few rougarou who lack the transformative qualities of their kind make up for exceptional skills in rearing and handling beasts. Rougarou with this racial trait gain Extra Combat Talent for the Beastmastery sphere as a bonus feat. In addition, rougarou gain a +3 bonus on Handle Animal and Ride checks made with wolves (or other appropriate canine-like creatures). This racial trait replaces change shape. [SA:BRV]
+**Handler:** The rare few rougarou who lack the transformative qualities of their kind make up for exceptional skills in rearing and handling beasts. Rougarou with this racial trait gain Extra Combat Talent for the Beastmastery sphere as a bonus feat. In addition, rougarou gain a +3 bonus on Handle Animal and Ride checks made with wolves (or other appropriate canine-like creatures). This racial trait replaces change shape.
 
-**Pack Leader:** Rougarou form hunting parties and social hierarchies, much like wolves, leading to some rougarou to develop minor magical prowess for war magics. A rougarou with this racial trait gains either Basic Magic Training for the War sphere or Extra Combat Talent for the Warleader sphere as a bonus feat. This racial trait replaces natural weapon. [SA:BRV]
+**Pack Leader:** Rougarou form hunting parties and social hierarchies, much like wolves, leading to some rougarou to develop minor magical prowess for war magics. A rougarou with this racial trait gains either Basic Magic Training for the War sphere or Extra Combat Talent for the Warleader sphere as a bonus feat. This racial trait replaces natural weapon.
 
-**Red Hunter:** Rougarou that do not rely on their bite take up other ways to combat their foes. Rougarou with this racial trait gain Extra Combat Talent for the Duelist sphere as a bonus feat. In addition, rougarou gain a +2 racial bonus on Survival checks made to follow tracks from a creature who was bleeding. This racial trait replaces natural weapon. [SA:BRV]
+**Red Hunter:** Rougarou that do not rely on their bite take up other ways to combat their foes. Rougarou with this racial trait gain Extra Combat Talent for the Duelist sphere as a bonus feat. In addition, rougarou gain a +2 racial bonus on Survival checks made to follow tracks from a creature who was bleeding. This racial trait replaces natural weapon.
 
-#### Aureal (Rougarou) [SA:BRV]
+#### Aureal (Rougarou)
 
 The aureal rougarou are hunters, opportunists, scavengers, and trappers most frequently presenting with jackal-like features, with longer ears and faces than a more regularly appearing wolflike rougarou. While intelligent and strong, aureal are slow to cooperate with outsiders and make friends. Aureal frequently take on the shape of a jackal with their bestial shift racial trait.
 
@@ -626,7 +626,7 @@ The aureal rougarou are hunters, opportunists, scavengers, and trappers most fre
 
 **Great Scavengers:** Aureal are gifted survivalists. Aureal gain a +1 racial bonus on Survival checks and may use their Intelligence modifier when attempting Survival checks instead of their Wisdom modifier. This racial trait replaces lycan hunter, but can still be traded for other racial traits which would replace lycan hunter.
 
-#### Vulpine (Rougarou) [SA:BRV]
+#### Vulpine (Rougarou)
 
 Vulpine rougarou are socialite journeymen, performers, and tradesmen, being more culturally outgoing compared to most rougarou clans. Vulpine present with fox-like features, with bright orange, red, and dark brown coats and sharp ears. Socially skilled and quick on their feet, vulpine are often found in trade cities but are frail, struggling with the disease and filth of the city. While vulpine share many similarities with kitsune, the vulpine see the kitsune’s fey origins as taint. Vulpine frequently take on the shape of a fox with their bestial shift racial trait.
 
@@ -664,15 +664,15 @@ While under the effects of the Transformation feat, they gain a +2 racial bonus 
 
 ### Strix
 
-**Aerial Proficiency:** The winged strix naturally take to the sky, and some are so enamored with this ability that they become detached from their cultural struggles. Strix with this racial trait gain the Athletics sphere as a bonus talent at 1st level, but must select the (fly) package. This replaces hatred and suspicious. [Youxia HB]
+**Aerial Proficiency:** The winged strix naturally take to the sky, and some are so enamored with this ability that they become detached from their cultural struggles. Strix with this racial trait gain the Athletics sphere as a bonus talent at 1st level, but must select the (fly) package. This replaces hatred and suspicious.
 
-**Dayhunter:** The strix abandons its ability to hunt at night in order to greatly enhance their capabilities during the day. A strix with this racial trait gains Basic Magic Training for the Light sphere as a bonus feat. In addition, once per day, a strix with this racial trait can reduce the spell point cost of a (lens) talent they cast by 1 (minimum 0). This racial trait replaces darkvision and nocturnal. [SA:BRV]
+**Dayhunter:** The strix abandons its ability to hunt at night in order to greatly enhance their capabilities during the day. A strix with this racial trait gains Basic Magic Training for the Light sphere as a bonus feat. In addition, once per day, a strix with this racial trait can reduce the spell point cost of a (lens) talent they cast by 1 (minimum 0). This racial trait replaces darkvision and nocturnal.
 
-**Skyborn Acrobat:** The strix’s feathers carry the wind and allow the strix to gracefully navigate the skies. A strix with this racial trait automatically succeeds at Fly checks made to hover and gains a +2 racial bonus on Acrobatics checks made while flying, but reduces their fly speed to 40 feet. This racial trait alters the strix’s fly speed. A strix with the Athletics sphere Powerful Wings talent gains a +2 racial bonus on Fly checks. [SA:BRV]
+**Skyborn Acrobat:** The strix’s feathers carry the wind and allow the strix to gracefully navigate the skies. A strix with this racial trait automatically succeeds at Fly checks made to hover and gains a +2 racial bonus on Acrobatics checks made while flying, but reduces their fly speed to 40 feet. This racial trait alters the strix’s fly speed. A strix with the Athletics sphere Powerful Wings talent gains a +2 racial bonus on Fly checks.
 
 **Stormwing:** Accustomed to performing daredevil stunts in poor weather, these strix treat Wind as one step less severe for purposes of determining whether they would be checked or blown away and their penalty to Fly checks. This replaces nocturnal and hatred.
 
-#### Owl-Plumed (Strix) [SA:BRV]
+#### Owl-Plumed (Strix)
 
 Owl-plumed strix are robed in white, banded feathers. Forgoing the strix’s regular hatred for humanoid tribes who would ostracize them, the owl-plumed are superstitious soothsayers and thaumaturges who live in the snowy north.
 
@@ -684,7 +684,7 @@ Owl-plumed strix are robed in white, banded feathers. Forgoing the strix’s reg
 
 **Weather Adapted (Cold):** The owl-plumed thrives in colder environments. Owl-plumed treat any Cold weather as being 1 step lesser in severity. Weather sphere (mantle) talents still function according to the true severity level.
 
-#### Strongwing (Strix) [SA:BRV]
+#### Strongwing (Strix)
 
 Strongwing strix hold many similar qualities to roc, eagles, and vultures, with large and powerful wings that help them soar across wide open skies. Strongwing strix are boisterous and confident, but also frequently misjudge others.
 
@@ -710,7 +710,7 @@ Strongwing strix hold many similar qualities to roc, eagles, and vultures, with 
 
 ### Sylph
 
-**Aerial Pilot:** At one with the sky and clouds, some sylphs try to remain in the air as much as they can in their life. These sylphs gain the Navigation sphere as a bonus skill talent at 1st level, taking the (aerial) package, and gaining the Focused Wayfaring drawback. These sylphs must take the Experienced Navigator Navigation talent as the talent they receive from taking the drawback. This replaces air affinity and the sylph’s spell-like ability. [SoG]
+**Aerial Pilot:** At one with the sky and clouds, some sylphs try to remain in the air as much as they can in their life. These sylphs gain the Navigation sphere as a bonus skill talent at 1st level, taking the (aerial) package, and gaining the Focused Wayfaring drawback. These sylphs must take the Experienced Navigator Navigation talent as the talent they receive from taking the drawback. This replaces air affinity and the sylph’s spell-like ability.
 
 **Air Blooded:** Some sylph are particularly skilled at the offensive application of their natural talents. They gain Basic Magic Training in the Destruction sphere as a bonus feat at 1st level with the Energy Focus drawback for the air, electric, or sonic group, receiving a bonus talent as normal. This replaces air affinity and the spell-like ability racial traits.
 
@@ -724,13 +724,13 @@ Strongwing strix hold many similar qualities to roc, eagles, and vultures, with 
 
 **Gusts And Gales:** Some sylph are more adept at controlling wind than their own movement through the air. They gain Basic Magic Training in the Weather sphere as a bonus feat, with the Limited Weather (Wind) drawback and Wind Lord as their bonus talent. This replaces the spell-like ability and air affinity racial traits.
 
-**Instinctive Flight:** Many sylphs can trace their lineage back to flying ancestors, even if they cannot fly themselves. In some this ancestry manifests as an instinctive knack for flight. They gain the Athletics sphere as a bonus talent at 1st level, but must select the (fly) package. This replaces spell-like ability. [SA:MRT]
+**Instinctive Flight:** Many sylphs can trace their lineage back to flying ancestors, even if they cannot fly themselves. In some this ancestry manifests as an instinctive knack for flight. They gain the Athletics sphere as a bonus talent at 1st level, but must select the (fly) package. This replaces spell-like ability.
 
 **Planar Bargainer:** The blood of genies calls to its kind as well as honing one’s sense for a deal. Creatures of the outsider type with the air subtype are always considered as allied when called. Whenever bargaining for the services of a called creature of the outsider type with matching subtype, they gain a 25% discount on the required payment for any services. This replaces energy resistance.
 
 **Quiet Soul:** Some sylphs try to embrace the clouds, wind and air that their race is so connected to, creating an almost monastic training for their mind. These sylphs gain the Body Control sphere as a bonus skill talent at 1st level. This replaces air affinity and the sylph’s spell-like ability.
 
-These sylphs can choose to replace energy resistance as well when choosing this racial trait, gaining the Breath Control Body Control talent if they do. [SoG]
+These sylphs can choose to replace energy resistance as well when choosing this racial trait, gaining the Breath Control Body Control talent if they do.
 
 ### Tatulani
 
@@ -752,7 +752,7 @@ These sylphs can choose to replace energy resistance as well when choosing this 
 
 **Deceiver:** Gain the Basic Magic Training feat as a bonus feat, selecting either Destruction, Illusion or Mind sphere. This replaces the spell-like ability trait.
 
-**Demonic Mien:** A tiefling that leverages their fiendish appearance can become a truly terrifying adversary. They gain the Gladiator sphere as a bonus talent at 1st level. This replaces fiendish sorcery and spell-like ability. [SA:MRT]
+**Demonic Mien:** A tiefling that leverages their fiendish appearance can become a truly terrifying adversary. They gain the Gladiator sphere as a bonus talent at 1st level. This replaces fiendish sorcery and spell-like ability.
 
 **Destructive Nature:** Gain Basic Magic Training with the Creation sphere as a bonus feat with the Limited Creation (alter) drawback and gain Potent Alteration as the bonus talent for having a sphere-specific drawback. As part of altering an object a tiefling may choose to brand it with the mark of their deity, allowing it to function as a holy or unholy symbol. This replaces spell-like ability.
 
@@ -774,9 +774,9 @@ These sylphs can choose to replace energy resistance as well when choosing this 
 
 Gain a bonus spell point at first level and an additional bonus spell point for every 3 character levels you possess. The bonus spell points granted by this racial trait may only be used for Destruction, Illusion or Mind sphere effects. You cannot select the Witchmarked general drawback if you ever gain a casting tradition. This replaces fiendish sorcery.
 
-**Vicious Voice:** Occasionally a tiefling’s voice has unnatural qualities, such as the rasp of brimstone or a hollow echo. They only need to be heard clearly to demoralize an enemy, rather than seen and heard. This replaces skilled. [SA:MRT]
+**Vicious Voice:** Occasionally a tiefling’s voice has unnatural qualities, such as the rasp of brimstone or a hollow echo. They only need to be heard clearly to demoralize an enemy, rather than seen and heard. This replaces skilled.
 
-#### Alternate Heritage: Dreadspawn [DbH]
+#### Alternate Heritage: Dreadspawn
 
 Sired by the fearmongering abominations known as sakhil, dreadspawn tieflings are typically the products of loveless and desperate relationships in which a mortal drowns their anxieties with the embrace of an ethereal horror. Dreadspawn typically possess pale complexions and emaciated frames, with more than a few having fanged mouths strewn erratically across their body.
 
@@ -784,7 +784,7 @@ Sired by the fearmongering abominations known as sakhil, dreadspawn tieflings ar
 - **Alternate Skill Modifiers:** Intimidate, Sense Motive
 - **Alternate Spell-Like Ability:** heckle
 
-#### Alternate Heritage: Reachspawn [DbH]
+#### Alternate Heritage: Reachspawn
 
 Reachspawn are tieflings born out of contact with rifts in reality, entities created from the vergence of incompatible universal laws. Some may be sired from incomprehensible alien beings, but reachspawn more typically emerge from parental interactions with pseudonatural powers from beyond existence. Reachspawn often display erratic colors, patterns, and growths across their body, as if they were compressed into a roughly humanoid shape.
 
@@ -792,7 +792,7 @@ Reachspawn are tieflings born out of contact with rifts in reality, entities cre
 - **Alternate Skill Modifiers:** Knowledge (planes), Spellcraft
 - **Alternate Spell-Like Ability:** time shudder
 
-#### Alternate Heritage: Screamspawn [DbH]
+#### Alternate Heritage: Screamspawn
 
 Born out of neurological or spiritual contamination by unmakers*, Screamspawn mostly resemble their mortal parents. However, strange magical patterns flow beneath their skin and telepathic whispers follow them like a cloud. Screamspawn often manifest powerful magical abilities and seem to know things that they should not, although the otherworldly mutterings of countless agonized souls tend to isolate them from the outside world.
 
@@ -802,7 +802,7 @@ Born out of neurological or spiritual contamination by unmakers*, Screamspawn mo
 
 Unmakers are a category of chaotic evil native outsiders covered in Arcforge Campaign Setting: What Lies Beyond.
 
-#### Alternate Heritage: Titanspawn (Tiefling) [DbH]
+#### Alternate Heritage: Titanspawn (Tiefling)
 
 Born of the rare crossing between a mortal and titan, titanspawn possess the insight and power of their immense forebearers. This is not often seen as beautiful in the style of angels or nightmarish in the style of devils. Rather, titanspawn seem like beings from a bygone age who exist at odds with the present reality and its structures. Titanspawn themselves feel this same call to a primordial age, a nostalgia for something they cannot possibly experience.
 
@@ -814,7 +814,7 @@ Born of the rare crossing between a mortal and titan, titanspawn possess the ins
 
 **Elemental Call:** Scions of powerful genies can claim a servitor as their inheritance. They gain Basic Magic Training in the Conjuration sphere as a bonus feat at 1st level. The companion must take Elemental Creature (form) as its first talent, selecting cold as its element. This replaces water affinity and the spell-like ability racial traits.
 
-**Natural Swimmer:** Undine naturally take to the water, and can become expert swimmers with only minimal practice. Those that dedicate themselves to it gain skill that others envy. They gain the Athletics sphere as a bonus talent at 1st level, but must select the (swim) package. This replaces energy resistance and water affinity. [SA:MRT]
+**Natural Swimmer:** Undine naturally take to the water, and can become expert swimmers with only minimal practice. Those that dedicate themselves to it gain skill that others envy. They gain the Athletics sphere as a bonus talent at 1st level, but must select the (swim) package. This replaces energy resistance and water affinity.
 
 **Ocean Born:** Some undine have a stronger connection to their elemental forebears than others. They gain Basic Magic Training in the Alteration sphere as a bonus feat at 1st level with the Beast Soul drawback for Elemental Transformation (water elemental only), receiving Elemental Transformation as a bonus talent as normal. Once per day, they may use this talent without paying the additional spell point cost. This replaces water affinity and the spell-like ability racial traits.
 
@@ -822,7 +822,7 @@ Born of the rare crossing between a mortal and titan, titanspawn possess the ins
 
 **Planar Bargainer:** The blood of genies calls to its kind as well as honing one’s sense for a deal. Creatures of the outsider type with the water subtype are always considered as allied when called. Whenever bargaining for the services of a called creature of the outsider type with matching subtype, they gain a 25% discount on the required payment for any services. This replaces energy resistance.
 
-**Seafarer:** At one with the sea and water, some undine try to remain within the water as much as they can in their life. These undines gain the Navigation sphere as a bonus skill talent at 1st level, taking the (nautical) package, and gaining the Focused Wayfaring drawback. These undine must take the Experienced Navigator Navigation talent as the talent they receive from taking the drawback. This replaces water affinity. [SoG]
+**Seafarer:** At one with the sea and water, some undine try to remain within the water as much as they can in their life. These undines gain the Navigation sphere as a bonus skill talent at 1st level, taking the (nautical) package, and gaining the Focused Wayfaring drawback. These undine must take the Experienced Navigator Navigation talent as the talent they receive from taking the drawback. This replaces water affinity.
 
 **Watery Heritage:** Gain Basic Magic Training with the Creation sphere as a bonus feat with the Water Wizard drawback. This replaces spell-like ability.
 
@@ -832,7 +832,7 @@ Born of the rare crossing between a mortal and titan, titanspawn possess the ins
 
 **Pilfering Tail [DRS]:** Vanaras with this racial trait gain the Subterfuge sphere as a bonus skill talent with the Deft alternate start, and may use your tail in all purposes as though it were a free hand (excluding the ability to wield weapons or shields with it). Such vanaras also gain a +2 racial bonus to Sleight of Hand checks made when using their tail. This replaces nimble and climb speed.
 
-**Treebourne Agility:** The monkey-like vanara have an affinity for climbing, and the craftier among them attempt to integrate this skill into their combat training. Vanara with this racial trait gain the Athletics sphere as a bonus talent at 1st level, but must select the (climb) package. Additionally, they may use their Dexterity modifier for Climb checks instead of their Strength modifier. This replaces nimble. [Youxia HB]
+**Treebourne Agility:** The monkey-like vanara have an affinity for climbing, and the craftier among them attempt to integrate this skill into their combat training. Vanara with this racial trait gain the Athletics sphere as a bonus talent at 1st level, but must select the (climb) package. Additionally, they may use their Dexterity modifier for Climb checks instead of their Strength modifier. This replaces nimble.
 
 **Vertical Navigator [DRS]:** Vanaras with this racial trait gain the Navigation sphere as a bonus skill talent, taking the (urban) or (wilderness) package, although you must choose Climb as the package’s associated skill. This replaces nimble.
 

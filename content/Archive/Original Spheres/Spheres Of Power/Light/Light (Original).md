@@ -13,7 +13,7 @@ parent: "[[Original Spheres]]"
 
 You may create and manipulate light.
 
-# Glow [Core]
+# Glow
 
 As a standard action, you may cause an object or creature in Medium range to glow for 1 minute per caster level, outlining it with light as a candle, which may be of any color you wish. This requires a touch attack or ranged touch attack. The object or creature becomes outlined with light, giving it a -20 penalty on Stealth checks and negating all bonuses usually bestowed by invisibility, blink effects, darkness, or similar effects.
 
@@ -37,7 +37,7 @@ Some Light talents are designated **(nimbus)**, which notes a talent that alters
 
 # Light Sphere Talents
 
-#### Area Glow [Core]
+#### Area Glow
 
 You may spend a spell point to create an eruption of light, causing all creatures and objects within a 10 ft +5 ft per 5 caster levels radius centered within range to glow. You needn’t make a ranged touch attack against any creature within this area. Making targets glow brightly must still be done individually.
 
@@ -51,7 +51,7 @@ As a free action you may cause any glow within your range to shed non-visible li
 
 A glow shedding non-visible light functions normally in even magical darkness and does not hinder the function of magical darkness in the same area. No magical skill check is made when a glow under the effects of Black Light interacts with magical darkness.
 
-#### Dancing Lights [Core]
+#### Dancing Lights
 
 You may create a glow effect without the need for a creature or object. This allows you to create a floating ball of light that may fly up to 60 ft per round and may be directed as a free action. You may give these lights simple commands, such as following a creature you can see or traveling in a specified pattern.
 
@@ -87,11 +87,11 @@ Alternatively, so long as you do not apply any (light) talents to your glow, you
 
 You may not alter the area of bright light shed by the Glory talent with Intensity Control.
 
-#### Lasting Light [Core]
+#### Lasting Light
 
 When you produce a glow, it lasts for 10 minutes per caster level instead of 1 minute per caster level. Spending a spell point to make bright light self-sustaining still only lasts for 1 minute per caster level.
 
-#### Light Link [Core]
+#### Light Link
 
 You always know the direction and distance to any creature or object under the effect of your glow. This has no effect if the creature or object is on another plane.
 
@@ -99,11 +99,11 @@ You always know the direction and distance to any creature or object under the e
 
 When you cause one of your glow effects to shed bright light by concentrating on it, you may choose for it to continue shedding bright light for two rounds even after you stop concentrating.
 
-#### Ranged Light [Core]
+#### Ranged Light
 
 You may target creatures and objects within Long range rather than Medium range when applying a glow, and when causing a glowing object to shed normal or bright light.
 
-#### Solar Strike [Apoc]
+#### Solar Strike
 
 When you hit a creature with an attack, you may use a swift action to make it glow. As part of this action, you may spend a spell point to make the creature glow brightly instead.
 
@@ -133,7 +133,7 @@ You can cause light and color to shift around a target, granting it the ability 
 
 You cause a target to suffer no ill effects from light. The target of this (lens) talent is immune to the negative effects of your glows, including the effects of any (light) talents applied to them. It also gains no visibility related penalties from your glows, acting as if they did not exist in the area.
 
-#### Halo Effect (lens) [Apoc]
+#### Halo Effect (lens)
 
 You may place a lens upon a creature that subtly controls light around them. This is a powerful aid to communication, and can be used to communicate basic ideas and emotions to anyone who can see the creature. In addition, the creature gains a +2 circumstance bonus to bluff and diplomacy checks against creatures that can see them with conventional or low-light vision, with a +1 increase every 4 caster levels. At the GM’s discretion, this bonus may also apply to certain types of performance checks as well.
 
@@ -161,17 +161,17 @@ In addition, the target may focus on a specific sight as a full-round action, ma
 
 # Light Talents
 
-#### Beacon of Hope (light) [Core]
+#### Beacon of Hope (light)
 
 When you place a glow effect on a creature, you may choose to grant that creature a +1 morale bonus on saves against fear. This bonus increases by 1 for every 5 caster levels possessed. You may spend a spell point to create bright light that empowers those within it. All creatures within the area of bright light gain a +1 morale bonus on saves against fear, +1 per 5 caster levels.
 
-#### Blinding Light (light) [Core]
+#### Blinding Light (light)
 
 When you cause a creature to glow, you may choose to make that target dazzled, giving it a -1 penalty to attack rolls and Perception checks.
 
 You may spend a spell point to create bright light that blinds the glowing target and all creatures within the area of bright light. All creatures must make a Fortitude save or be blinded for 1 round. They must make this saving throw each round they are within this area. Creatures who succeed at their saving throw are still dazzled for that round.
 
-#### Bound Light (light) [Core]
+#### Bound Light (light)
 
 You may spend a spell point to create a bright light that binds the glowing target inside a prison of light. The target is entangled and must pass a Fortitude save each round or also be staggered for that round. In addition, the target must pass a magic skill check to use any form of dimensional travel, such as the dimension door spell or the teleport ability from the Warp sphere.
 
@@ -183,11 +183,11 @@ By spending a spell point you can make the patterns of the bright light even mor
 
 Blind creatures (or creatures that have closed their eyes) and creatures that do not rely on sight are immune to the effects of this talent.
 
-#### Encompassing Light (light) [Core]
+#### Encompassing Light (light)
 
 You may create bright light that encompasses the glowing creature, allowing it to function as if it were larger than it is. The glowing creature deals damage and gains reach as if it were 1 size category larger than it is. This improves to 2 size categories at 10th caster level, and 3 size categories at 20th caster level.
 
-#### Fenestrate (light) [Apoc]
+#### Fenestrate (light)
 
 You can create bright light that makes everything and everyone within the area of the bright light translucent enough that they can be seen through. This includes creatures, objects, structures, and even the ground itself. Objects are not invisible, however, and seeing through them is difficult. Objects that grant cover still grant concealment, but any creature using such an object to hide receives a -10 penalty to their Stealth. Magical fog effects are countered by this Light talent the way magical darkness can be countered by Light talents. Effects based on light (such as most Light sphere abilities) can pass through to affect other objects, but other effects are still stopped by solid objects.
 
@@ -197,15 +197,15 @@ This light can be placed on a single structure to make it translucent. If the st
 
 You may create bright light that partially assimilates a glowing creature, allowing them to momentarily shed their physical form. A creature under this effect can choose to move through solid objects as long as there are no factors that block normal sight (such as concealment from darkness or fog). This allows them to pass through transparent barriers like glass or through impossibly small gaps (such as a keyhole).
 
-#### Guiding Light (light) [Core]
+#### Guiding Light (light)
 
 When you cause a creature to glow, you may choose to grant all creatures a +1 circumstance bonus to attack rolls against that target. When causing that creature to shed bright light, you may increase this bonus by 1, +1 per 5 caster levels. This has no effect on other creatures within the area of bright light.
 
-#### Hypnotic Pattern (light) [Core]
+#### Hypnotic Pattern (light)
 
 You may spend a spell point when creating bright light to fascinate creatures. All creatures within this area of bright light that can see become fascinated (Will negates) for as long as they remain within this area of bright light. These targets take no action on their turn but to stare into the light, and suffer a -4 penalty to all Perception checks. A target is allowed a new saving throw each round to throw off the effect, and on a successful save, may make their actions as normal. Once a target has saved against this effect, they are immune to the effect for the rest of its duration. Hostile action taken against a hypnotized target automatically breaks the effect, as if the target had succeeded at their saving throw. If the target was already in combat when this ability is used, they gain a +2 bonus to their initial saving throw.
 
-#### Inner Sun (light) [Apoc]
+#### Inner Sun (light)
 
 You grant a creature that you have caused to glow brightly a weapon of light they may wield as a weapon. The weapon can be shaped into any melee weapon the holder is proficient with as a swift action, and initially appears as whatever weapon they choose. On a hit, does an additional 1d4 fire damage + 1d4 damage for every 4 caster levels that you possess.
 
@@ -223,7 +223,7 @@ You may create an area of bright light that lures creatures towards it. All crea
 
 The effect of this (light) talent is considered a mind-affecting effect.
 
-#### Precious (light) [Apoc]
+#### Precious (light)
 
 You may spend a spell point to create bright light on an object 2 or more sizes smaller than yourself, that compels those who see it to try and acquire it. Those who see the targeted object spend their turn frantically trying to acquire the precious object.
 
@@ -237,17 +237,17 @@ Each creature gets a Will save to negate the effect when they first see the prec
 
 This is a mind-affecting compulsion effect.
 
-#### Repelling Light (light) [Core]
+#### Repelling Light (light)
 
 You may spend a spell point to create light that repels unwanted creatures. Choose one creature type. In the case of humanoids and outsiders, you must instead choose one subtype. Any creature of this type or subtype within the area of bright light must pass a Fortitude save or be unable to move closer to the source of the light. Affected creatures may move sideways or backwards, but cannot move closer, although the source of the light may move closer to them. Creatures who make their saving throw but remain within the area of bright light must make a new saving throw every round to avoid being affected.
 
 If a creature enters this area of bright light (or if the source of bright light moves close to them), they must immediately save or be affected.
 
-#### Revealing Light (light) [Core]
+#### Revealing Light (light)
 
 You may spend a spell point to create bright light that reveals all invisible creatures and objects. These creatures and objects lose all the benefits of invisibility for as long as they are within the area of bright light.
 
-#### Revelation (light) [Apoc]
+#### Revelation (light)
 
 You may place a glow on a source of written information, such as a book, to cause it to reveal any information deliberately recorded in it. Anyone who takes even a moment to examine the light (a free action) can read the entire body of work, regardless of length, damage to the text or language barriers - the observer does not even need to be able to read. Even erased text can be read.
 
@@ -255,11 +255,11 @@ If information is recorded with a magical protection that prevents detection or 
 
 This ability may be used on objects with no visible writing, in order to reveal hidden messages. The light can allow a person to read a magical scroll, but does not necessarily allow them to cast or copy it. Observing the light does not trigger magical effects that occur in response to an object being read.
 
-#### Searing Light (light) [Core]
+#### Searing Light (light)
 
 You may create bright light that burns creatures in its area. All creatures in the area suffer 1 point of fire damage per caster level per round they are within this area of bright light. Undead, oozes, and creatures harmed by daylight take 2 points of fire damage per caster level.
 
-#### Shining Arsenal (light) [Apoc]
+#### Shining Arsenal (light)
 
 You may place a glow on a weapon, a piece of armor or a shield. When placed on a weapon, it does full damage to incorporeal creatures. If placed on a shield or piece of armor, you may apply its full bonus to AC against the melee attacks of incorporeal creatures.
 
@@ -285,7 +285,7 @@ Two consecutive successful Will saves against the glow ends the effect.
 
 When you cause a glow effect to shed normal or bright light, you can focus this light into a line as a free action, quadrupling the affected distance. For normal light this creates a 10 ft. wide, 80 ft. long line, while bright light creates a 10 ft. wide line with a length of 120 ft. + 10 ft. per caster level. This also quadruples the distance to which light is increased one step to a maximum of normal light, creating a 20 ft. wide and 160 ft. long line of increased light for normal light, and a line of increased light for bright light that is 20 ft. wide and has a length of 240 ft. + 20 ft. per caster level. You may change the direction the line projects from the glow as a free action.
 
-#### Illuminate (nimbus) [Core]
+#### Illuminate (nimbus)
 
 When causing an object to shed normal light or bright light, you may focus this light into a cone as a free action, doubling the affected distance. For normal light this creates a 40 ft cone, while bright light creates a 60 ft cone + 5 ft per caster level. This also doubles the distance to which light is increased one step to a maximum of normal light. Returning the effect to normal is also a free action. You may change the light’s direction as a free action, but for the purpose of (light) talents you may only affect one area per round.
 

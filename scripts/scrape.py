@@ -102,8 +102,10 @@ EXCLUDED_PAGES = {
     "chase-challenges", "contests", "influence-challenges", "verbal-duels",
     # Legendary Games' mass combat books:
     "ultimate-battle", "ultimate-war",
-    # ...and the Other Options page itself (its last prestige class moved: FOLDER_OVERRIDES)
-    "other-options",
+    # ...and the Other Options page itself, and the wiki-made Alternate Justicar it held
+    "other-options", "alternate-justicar",
+    # the citation tags are stripped site-wide (strip_citation_tags), so their guide goes too
+    "citations-guide",
     # the home page's House Rules section: the wiki's own house rules (Deific Talents and its
     # subpages, Recharge Sphere Magic, Virtues) and its newsletters / change log
     "divine-talents", "recharge-sphere-magic", "virtues", "newsletters", "recent-changes",
@@ -127,9 +129,7 @@ NAV_PAGES = {"start", "nav:side"}
 HUB_PAGES = {"diamond-recreational-studios"}
 
 # Pages filed somewhere other than where the wiki's parent chain puts them: slug -> folder
-FOLDER_OVERRIDES = {
-    "alternate-justicar": "Champions",  # was under Other Options (now excluded)
-}
+FOLDER_OVERRIDES: dict[str, str] = {}
 
 # Pages merged into another page as an extra tab, placed first so it's what opens by default:
 # target slug -> [(source slug, tab label)]. The source page goes away and links to it point at
@@ -261,7 +261,7 @@ PAGE_REPLACE = {
 
 # Home Classes tables: extra archetypes added to a class's row (cell markdown, placed alphabetically)
 HOME_ARCHETYPE_ADDS = {
-    "Sorcerer": [r"[[Dual-Blooded Sorcerer (Sorcerer Archetype)\|Dual-Blooded]] [OG]"],
+    "Sorcerer": [r"[[Dual-Blooded Sorcerer (Sorcerer Archetype)\|Dual-Blooded]]"],
     # Diamond Polished Spheres: Leadership Sphere (pages from extras/)
     "Alchemist": [r"[[Doppelchymist (Alchemist Archetype)\|Doppelchymist]] [DRS]"],
     "Cavalier": [r"[[Knight Captain (Cavalier Archetype)\|Knight Captain]] [DRS]"],
@@ -1274,7 +1274,7 @@ def tidy_home(md: str) -> str:
     after(r"\[\[Alternate Racial Traits\]\]", ["[[Alternate Racial Traits (DRS)|Alternate Racial Traits]] [DRS]"])
     after(r"\[\[Traits\]\]", ["[[Traits (DRS)|Traits]] [DRS]"])
     after(r"\[\[Champion Feats\]\]", ["[[Feats (DRS)|DRS Feats]]"])
-    # the Citations Guide is linked from the citations note at the top instead of Other Resources
+    # the Citations Guide is excluded (the citation tags are stripped)
     lines = [l for l in lines if not l.startswith("- [[Citations Guide]]")]
     # the House Rules section's pages are excluded (EXCLUDED_PAGES); drop its heading and intro too
     hr = next((i for i, l in enumerate(lines) if l.strip() == "# House Rules"), None)
@@ -1294,9 +1294,8 @@ def tidy_home(md: str) -> str:
                                   "Studios' Polished Spheres releases (Polished Dark, Leadership, Commander and "
                                   "Warleader).", ""]
     md = "\n".join(lines)
-    md = re.sub(r"(\*\*Citations Guide:\*\*[^\n]*?)(\[Wiki\] means)",
-                r"\1[OG] marks original Spheres content that was not included in Ultimate Spheres of Power. \2", md, count=1)
-    md = md.replace("**Citations Guide:**", "**[[Citations Guide]]:**", 1)
+    # the citation tags are stripped site-wide (strip_citation_tags), so the note explaining them goes
+    md = re.sub(r"\n\*\*Citations Guide:\*\*[^\n]*\n\n?", "\n", md, count=1)
     # Studio M— content is excluded (EXCLUDED_TAGS), so its tag no longer appears
     md = md.replace("such as Diamond Recreational Studios [DRS] and Studio M— [SM—] have their own tags",
                     "such as Diamond Recreational Studios [DRS] have their own tag")
@@ -2745,26 +2744,60 @@ CLASS_OPTION_PAGES: set[str] = set()
 CLASS_OPTION_FOLDERS: set[str] = set()
 
 
-def trim_citations() -> list[str]:
-    """Drop Citations Guide rows whose citation no longer appears anywhere on the site, either as a
-    tag ("[APG]") or glued to a name the way the wiki prints them ("Extra GritUC")."""
-    guide = next((f for f in CONTENT.rglob("Citations Guide.md") if ARCHIVE not in f.relative_to(CONTENT).parts), None)
-    if not guide:
-        return []
-    text = "\n".join(f.read_text(encoding="utf-8") for f in CONTENT.rglob("*.md")
-                     if ARCHIVE not in f.relative_to(CONTENT).parts and f != guide)
-    lines, dropped = guide.read_text(encoding="utf-8").split("\n"), []
-    for i, l in enumerate(lines):
-        m = re.match(r"^\| (\S[^|]*?) \| ([^|]+?) \|$", l)
-        if not m or m.group(1) in ("Citation", "---"):
-            continue
-        c = re.escape(m.group(1).replace("#", ""))
-        used = re.search(r"\[" + c + r"[#\d]*\]", text) or re.search(r"(?<=[a-z\)\]’'])" + c + r"(?![A-Za-z])", text)
-        if not used:
-            dropped.append(m.group(1))
-            lines[i] = None
-    guide.write_text("\n".join(l for l in lines if l is not None), encoding="utf-8")
-    return dropped
+# Citation tags: the wiki's source/publisher markers ("[DRS]", "[Apoc]", "[3PP]", "[Wiki]", "[CS]",
+# "[Alienist HB]", "[SA:MD]", "[TS:WAT]", ...). Rules tags ([utility], [Tension], [Policy], [Dual
+# Sphere], racial-feat races, Mythic Spheres 3's [HR] "highly recommended" rules) are not citations.
+CITATION_CODES = (
+    r"DRS|Apoc|APOC|3PP|3pp|Wiki|CS|OG|NS|Core|TS|TS:WAT|LotS|LotS addition|DbH|DBH|CoP|EO2|EO3|MCS"
+    r"|BaP|SUE|BTH|CrimDan|SoG|Warden|AoP2|HMH|HMH Variant|Origin|S&P|USOP|WtD|WM|CotS|IHB2|PGtS|PGtSB"
+    r"|LSP|FotC|WoP|SAA|H&B|DS:TP|VoS|UC|CC2|SA:[\w&()]+|SB:[\w&()]+|Apoc: [^\]/,]+"
+    r"|Woodfaring Adventures|Spheres of Guile|Jester's Handbook|[\w.'’ ]+ HB(?: addendum)?"
+    r"|Errata'd (?:in|by) [^\]/,]+"
+)
+CITATION_TAG_RE = re.compile(
+    r"[ \t]*(?:(?<!\[)\[(?:" + CITATION_CODES + r")(?:\s*[,/]\s*(?:" + CITATION_CODES + r"))*\](?![\[(\]:])"
+    # ...and the few the wiki linked to the product: "[[DRS](https://...)]", "[[SUE]]"
+    r"|\[\[(?:" + CITATION_CODES + r")\](?:\([^)\s]*\))?\])")
+
+
+def strip_citation_tags() -> tuple[int, int]:
+    """Drop citation tags everywhere (the site no longer explains or uses them), and point links at
+    the heading ids that changed with them ("#camp-of-operations-drs" -> "#camp-of-operations").
+    Returns (tags removed, links rewritten)."""
+    files = sorted(CONTENT.rglob("*.md"))
+    moved: dict[str, dict[str, str]] = {}  # page key -> {old heading id: new id}
+    key = lambda name: name.strip().lower().replace(" ", "-")
+    removed = 0
+    texts: dict[Path, str] = {}
+    for f in files:
+        text = f.read_text(encoding="utf-8")
+        new, n = CITATION_TAG_RE.subn("", text)
+        if n:
+            removed += n
+            old_slug, new_slug, ids = _slugger(), _slugger(), {}
+            for a, b in zip(text.split("\n"), new.split("\n")):
+                if (m := re.match(r"#{1,6} (.+)$", a)):
+                    o, nw = old_slug(m.group(1)), new_slug(re.match(r"#{1,6} (.+)$", b).group(1))
+                    if o != nw:
+                        ids[o] = nw
+            if ids:
+                moved[key(f.stem)] = ids
+        texts[f] = new
+    relinked = 0
+
+    def fix(m: re.Match, here: str) -> str:
+        nonlocal relinked
+        target, frag = m.group(1), m.group(2)
+        ids = moved.get(key(target.split("/")[-1]) if target else here, {})
+        if frag in ids:
+            relinked += 1
+            return f"[[{target}#{ids[frag]}"
+        return m.group(0)
+    for f, text in texts.items():
+        new = re.sub(r"\[\[([^\]|#\n]*)#([^\]|\\n]+)", lambda m: fix(m, key(f.stem)), text)
+        if new != f.read_text(encoding="utf-8"):
+            f.write_text(new, encoding="utf-8")
+    return removed, relinked
 
 
 def tag_search_types() -> dict[str, int]:
@@ -3875,11 +3908,10 @@ def convert(with_images: bool) -> None:
                                   f"({len(retired)} pages so far).\n", encoding="utf-8")
     write_link_families(pages, derived_notes)
     print(f"Retired Ultimate: {len(retired)} pages")
+    print("Citation tags removed, links re-pointed: %d, %d" % strip_citation_tags())
     print(f"Search types: {tag_search_types()}")
     print(f"Compendium entries: {build_compendium()}")
     print(f"Compendium classes: {build_class_compendium()}")
-    dropped = trim_citations()
-    print(f"Citations Guide: dropped {len(dropped)} unused citations")
 
     # folders emptied by exclusions or renames
     for d in sorted((d for d in CONTENT.rglob("*") if d.is_dir()), key=lambda d: -len(d.parts)):

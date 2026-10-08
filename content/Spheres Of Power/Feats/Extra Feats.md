@@ -80,7 +80,7 @@ Most of these feats are available on the appropriate class pages, but they are a
 
 **Benefit:** Increase the number of souls in your bound nexus by 2. You may gain this feat multiple times. The effects stack.
 
-#### Extra Origin Talent [Origin]
+#### Extra Origin Talent
 
 **Benefit:** You gain an additional origin talent.
 

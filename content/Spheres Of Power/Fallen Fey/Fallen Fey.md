@@ -47,13 +47,13 @@ Some talents are marked (fey-blessing). These talents grant additional fey-bless
 
 ## Fallen Fey Talents
 
-#### Bounty of the Fey [mass] [3PP]
+#### Bounty of the Fey [mass]
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 When you spend a spell point to apply a fey-blessing to yourself, you may do so as a swift action to apply two fey-blessings rather than just one. If you possess the Share Link talent twice, you may spend an additional spell point when granting a fey-blessing to grant that fey-blessing to all creatures within close range under the effects of your fey-link. You must choose the same fey-blessing for all targets.
 
-#### Feytouch Strike [strike] [3PP]
+#### Feytouch Strike [strike]
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -203,7 +203,7 @@ You may activate the following abilities as fey-blessings:
 
 **Unspoil:** This fey-blessing has no duration and is considered an instantaneous effect. You may cause an amount of spoiled food sufficient to feed 1 Medium creature per caster level to return to a palatable state. This does not remove other changes made to the food, such as adding poison or magical effects unless you spend a spell point and succeed on a magic skill check against the poison or effect’s DC. Restoring the food does not prevent future spoilage.
 
-#### Feline Omens (fey-blessing) [Catgirl HB]
+#### Feline Omens (fey-blessing)
 
 You may activate the following as fey-blessings:
 
@@ -328,7 +328,7 @@ You may activate the following abilities as fey-blessings:
 
 **Wild Empathy:** You gain wild empathy as the druid class feature, treating your caster levels as druid levels for this purpose. This ability treats swarms of the animal type as if they were one creature possessing a single mind.
 
-#### Pixie Sticks (fey-blessing) [Jester's HB]
+#### Pixie Sticks (fey-blessing)
 
 You may activate the following abilities as fey-blessings:
 

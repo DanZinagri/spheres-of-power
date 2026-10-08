@@ -15,7 +15,7 @@ The following are new investigator talents. In addition, see the [[Rogue Talents
 
 When the investigator makes attacks with telekinetically manipulated objects, he can use his studied combat and studied strike abilities with the attack, as long as he has line of sight to the target.
 
-#### Established Foundations [DRS]
+#### Established Foundations
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -29,7 +29,7 @@ Whenever the investigator uses a magic talent, he may spend 1 point of inspirati
 
 The investigator gains the alchemist discovery hallucinogen, using his investigator levels as alchemist levels. This stacks with any alchemist levels he possesses.
 
-#### Inspired Leverage (Ex) [Spheres of Guile]
+#### Inspired Leverage (Ex)
 
 Whenever the investigator would use his inspiration to augment a skill check or ability check, he may spend 1 use of skill leverage to maximize the result, treating the roll as if it had rolled its highest possible result (a 6 on a 1d6 for example). The investigator must have a pool of skill leverage and be at least 6th level to select this talent.
 
@@ -37,7 +37,7 @@ Whenever the investigator would use his inspiration to augment a skill check or 
 
 The investigator may use his class level as his caster level with the Mind sphere. This stacks normally with caster levels gained from other sources. In addition, when the investigator uses a single target charm from the Mind sphere on his studied target, he may spend 1 inspiration. If he does and the target succeeds on its saving throw, it must then save against the next lower version of the charm (if there is one) or have it take effect instead. If the target successfully saves against the charm again, it must save against the next lower version (if there is one) or have it take effect.
 
-#### Mind Palace (Su) (requires Mind sphere (Mental Archive (cognition))) [AoP2]
+#### Mind Palace (Su) (requires Mind sphere (Mental Archive (cognition)))
 
 Whenever the investigator uses the Mental Archive (cognition) talent, he may archive an additional amount of memories equal to 1/2 his class level. Additionally, the investigator may spend 1 point of inspiration instead of a spell point when permanently archiving a memory.
 
@@ -45,7 +45,7 @@ Whenever the investigator uses the Mental Archive (cognition) talent, he may arc
 
 When the investigator uses an Enhancement sphere ability that targets himself or his equipment exclusively, he may use his investigator class level as his caster level. This stacks normally with caster levels gained from other sources. In addition, he may spend a point of inspiration to use the ability as a swift action.
 
-#### Shared Inspiration (requires Study sphere) [DRS]
+#### Shared Inspiration (requires Study sphere)
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -55,11 +55,11 @@ Whenever an ally the investigator can perceive attempts an attack roll, skill ch
 
 The investigator may use his investigator class level as his caster level with the Divination sphere. This stacks normally with caster levels gained from other sources. When he uses the base divine ability of the sphere, he may spend an inspiration point to use an alternate divination of his choice (even if he does not possess the sphere it is associated with).
 
-#### Skilled Investigator (Ex) [Spheres of Guile]
+#### Skilled Investigator (Ex)
 
 The investigator gains a bonus skill talent from the following list of spheres: Bluster, Communication. Faction, Infiltration, Investigation, Study, or Subterfuge. The investigator must have a pool of skill leverage to select this talent. This investigator talent may be taken multiple times, granting an additional talent from a sphere on the list each time.
 
-#### Tamer’s Inspiration (Ex) [BTH]
+#### Tamer’s Inspiration (Ex)
 
 An investigator can use his inspiration on Acrobatics, Climb, Fly, Handle Animal, Ride, Survival, and Swim checks without expending uses of inspiration, provided he is trained in the skill.
 
@@ -67,7 +67,7 @@ If the investigator possesses the Beastmastery sphere or an animal companion or 
 
 **Special:** By GM permission, other appropriate subordinates may benefit from the investigator’s inspiration using this ability.
 
-#### Tinker Co-Investigation (requires Tinker sphere) [SUE]
+#### Tinker Co-Investigation (requires Tinker sphere)
 
 The investigator’s gizmo limit increases by +1.
 

@@ -13,7 +13,7 @@ General feats have no tags and do not belong in any other category. They mostly 
 
 ---
 
-#### Advanced Magical Training [Core]
+#### Advanced Magical Training
 
 **Prerequisites:** Basic Magical Training or 1 level in a casting class.
 
@@ -25,7 +25,7 @@ General feats have no tags and do not belong in any other category. They mostly 
 
 **Benefit:** When you use Perform (wind) to produce a bardic performance in an area of wind, treat your bard level and ranks in Perform (wind) as 1 higher for each category above severity level 1.
 
-#### Arcane Empowerment [Core]
+#### Arcane Empowerment
 
 **Prerequisites:** Spell pool, the ability to cast arcane or divine spells.
 
@@ -49,19 +49,19 @@ General feats have no tags and do not belong in any other category. They mostly 
 
 **Benefit:** You may choose an armorist’s arsenal trick that allows you to add special abilities to the list of special abilities your weapons or armor may possess. Treat your class level as your armorist level when meeting the prerequisites for this armorist trick. When you add weapon special abilities to a weapon using your arcane pool, divine bond, or sacred weapon ability, you may choose from the special abilities provided by the trick. Similarly, when you add special abilities to armor using your sacred armor ability, you may choose armor special abilities provided by the trick. You may take this feat more than once. Each time you do, choose a different arsenal trick, or an arsenal trick that can be taken more than once.
 
-#### Artificery [Core]
+#### Artificery
 
 **Prerequisite:** Any Craft or Profession skill (5 ranks).
 
 **Benefit:** Select one Craft or Profession skill in which you have at least 5 ranks. You gain a +2 bonus on your chosen Craft or Profession skill. You may use your ranks in this Craft or Profession skill as if it were your caster level when qualifying for Item Creation feats, and when determining how powerful of an enchantment you may place upon an item. Possessing this feat does not, however, grant you access to any magic spheres when determining which enchantments you may place upon an item. You must use your chosen Craft or Profession skill when creating a magic item, and cannot work with any item or material not related to your chosen skill.
 
-#### Artificery, Improved [Core]
+#### Artificery, Improved
 
 **Prerequisites:** Any Craft or Profession skill (10 ranks), Artificery
 
 **Benefit:** When using the skill chosen with the Artificery feat to create a magic item, you may craft that magic item whether or not you possess its prerequisite base sphere. Crafting a magic item in this fashion increases the skill check required to make the item by +5.
 
-#### Basic Magical Training [Core]
+#### Basic Magical Training
 
 **Prerequisite:** No levels in any spellcasting class.
 
@@ -69,13 +69,13 @@ General feats have no tags and do not belong in any other category. They mostly 
 
 If you later gain levels in a spellcasting class, exchange this feat for the Extra Magical Talent feat.
 
-#### Blessing/Blight Mastery [Core]
+#### Blessing/Blight Mastery
 
 **Prerequisites:** Blessing/Blight class feature, Channel Energy class feature
 
 **Benefit:** When you channel energy, you may spend an additional use of channel energy to apply a blessing or blight to one creature that was affected by your channeling. This creature is allowed a saving throw as usual, if they would normally be granted one.
 
-#### Blessing/Blight Versatility [Core]
+#### Blessing/Blight Versatility
 
 **Prerequisites:** Blessing/Blight class feature, Channel Energy class feature, Versatile Channeler.
 
@@ -83,7 +83,7 @@ If you later gain levels in a spellcasting class, exchange this feat for the Ext
 
 If you can apply Blights to targets, you may now also apply Blessings, treating your soul weaver level as being effectively 2 levels lower for this purpose.
 
-#### Cantrips [Core]
+#### Cantrips
 
 **Prerequisite:** Casting class feature or Basic Magic Training.
 
@@ -129,7 +129,7 @@ If the (blast type) talent chosen has additional spell point costs, an additiona
 
 **Benefit:** When you channel energy, instead of its normal effects, you may instead grant those within range a single attack. These attacks are made immediately in initiative order. Each attack receives a bonus to damage equal to the number of dice you would have rolled for your channel energy.
 
-#### Circle Casting [Core]
+#### Circle Casting
 
 **Prerequisites:** Casting class feature, 10th caster level or higher
 
@@ -151,7 +151,7 @@ A target may be aided by multiple casters at once in this manner, but all involv
 
 This ability does not stack with any other method of maintaining simultaneous bardic performances.
 
-#### Contingency [Core]
+#### Contingency
 
 **Prerequisites:** Casting class feature, 10th caster level or higher.
 
@@ -174,13 +174,13 @@ If a contingency remains unused when a caster rests to regain spell points, they
 
 You may only target your own contingencies, as well as any other contingencies that you know the trigger condition for.
 
-#### Create Spell Book [Core]
+#### Create Spell Book
 
 **Prerequisites:** Casting class feature, Spellcrafting.
 
 **Benefit:** You may write down your spells in a magic book, allowing you access to more spells than the usual limit. See the Advanced Magic section for more information on spellcrafting and spellbooks.
 
-#### Elicit Strike [Core]
+#### Elicit Strike
 
 **Prerequisites:** Improved Unarmed Strike, Emotion class feature.
 
@@ -200,13 +200,13 @@ Desperate times call for desperate measures. A working device can save your life
 
 **Benefit:** You may enhance a contingency effect. If the contingency creates or summons a valid target for that enhancement, the enhancement is transferred to that target. Otherwise, the enhancement is transferred to the sphere effect once it takes effect. You may spend an additional spell point when applying the enhancement to tie it into the Contingency; if you do so, time spent prior to the Contingency triggering does not count towards the enhancement’s duration.
 
-#### Fool Magic [Core]
+#### Fool Magic
 
 **Prerequisites:** Deceitful, Iron Will, Bluff 7 ranks, Disguise 7 ranks
 
 **Benefit:** When you succeed at a Will saving throw made against any magical effect, the caster of that effect does not automatically know you have succeeded at your saving throw. This allows you to attempt a Bluff check against their Sense Motive check to convince them that you failed your saving throw and are under the effects of the magic. You can choose to allow supplementary effects of the magic (such as the telepathic link provided by the dominate person spell or the Dominate advanced Mind talent) to function as if you had failed your saving throw, to aid in the deception. You may dismiss the supplementary effect early as a standard action.
 
-#### Greater Hypnosis [Core]
+#### Greater Hypnosis
 
 **Prerequisite:** Hypnotism class feature.
 
@@ -214,7 +214,7 @@ Desperate times call for desperate measures. A working device can save your life
 
 **Normal:** You may only affect targets with your hypnotism at Close range.
 
-#### Greater Shadowmark [Core]
+#### Greater Shadowmark
 
 **Prerequisite:** Shadowmark class feature.
 
@@ -224,7 +224,7 @@ Desperate times call for desperate measures. A working device can save your life
 
 **Benefit:** When determining the save DC of an explosive or splash weapons such as a potion, oil, alchemical weapon, or dust you are activating, you may add your casting ability modifier (or Intelligence modifier, if you do not possess the casting class feature) to the save DC. This only applies to explosives and splash weapons that do not already add an ability modifier to the DC (so while it would apply to alchemical weapons, it would not apply to an Alchemist’s bomb class feature).
 
-#### Harmonic Resilience [S&P]
+#### Harmonic Resilience
 
 Miracles of any shape fail to penetrate your defenses.
 
@@ -250,19 +250,19 @@ The general placement of your organs often baffles your foes, making you even mo
 
 **Benefit:** Your natural fortification improves by 10%.
 
-#### Lingering Link [Core]
+#### Lingering Link
 
 **Prerequisites:** Psionics class feature, mind link psionic effect.
 
 **Benefit:** When affecting targets with your mind link psionic effect, you only need to spend 1 round of psionic power per minute the effect is maintained, rather than every round.
 
-#### Lingering Link, Greater [Core]
+#### Lingering Link, Greater
 
 **Prerequisites:** Psionics class feature, mind link psionic effect, Lingering Link.
 
 **Benefit:** You may use your mind link psionic effect jointly with other psionic effects. You must start each psionic effects individually and must spend the cost for each effect while maintaining them. Ending one effect does not necessitate ending the other.
 
-#### Lingering Psionics [Core]
+#### Lingering Psionics
 
 **Prerequisite:** Psionics class feature.
 
@@ -276,7 +276,7 @@ The general placement of your organs often baffles your foes, making you even mo
 
 *Note:* This feat was previously published in the Psionic Bestiary, by Dreamscarred Press. It has been modified to work with Spheres of Power.
 
-#### Master Artisan [Core]
+#### Master Artisan
 
 **Prerequisites:** Forbidden lore class feature, at least 1 item creation feat.
 
@@ -296,13 +296,13 @@ When you learn the ins and outs of an engine, you can coax more from it than ano
 
 **Benefit:** Add your forbidden lore bonus to your caster level when determining the number of Hit Dice of blood constructs you may control at any one time through the Extract Blood Construct talent. Blood constructs created this way gain a bonus to natural attack damage equal to your forbidden lore bonus.
 
-#### Master of Cosmos [Core]
+#### Master of Cosmos
 
 **Prerequisites:** Forbidden lore class feature, Conjuration sphere.
 
 **Benefit:** Your companions gain a circumstance bonus to attack rolls and skill checks equal to your forbidden lore bonus.
 
-#### Master of Death [Core]
+#### Master of Death
 
 **Prerequisites:** Forbidden lore class feature, Death sphere.
 
@@ -314,7 +314,7 @@ When you learn the ins and outs of an engine, you can coax more from it than ano
 
 **Benefit:** You may use leaked magic from your enhancements to improve your Cantrips. Whenever you use Cantrips while under the effects of one of your own enhancements, you may either increase the range to Medium, double the duration, or double the amount of matter you can affect at one time. In addition, you may choose to use any creature or object within 30 ft. that is under the effects of one of your enhancements as the origin for any Cantrip you use.
 
-#### Mind Opener [Core]
+#### Mind Opener
 
 **Prerequisites:** Psionics class feature, battlefield relay psionic effect.
 
@@ -340,7 +340,7 @@ Using the sphere or supernatural ability can provoke an attack of opportunity (i
 
 **Benefit:** You may use your circle casting to aid other spellcasters within totems you control or whom you share a mandate with as if they had the Circle Casting feat.
 
-#### Occult Savant [Core]
+#### Occult Savant
 
 **Prerequisites:** Occult Knowledge class feature, Spellcraft, Use Magic Device, or any Knowledge skill 10 ranks.
 
@@ -354,7 +354,7 @@ Using the sphere or supernatural ability can provoke an attack of opportunity (i
 
 **Wiki Note:** See the [[Mind]] sphere for more information on Dreamscapes.
 
-#### Perceptive Psionics [Core]
+#### Perceptive Psionics
 
 **Prerequisites:** Psionics class feature, battlefield relay psionic effect, Perception 7 ranks, Sense Motive 7 ranks.
 
@@ -384,7 +384,7 @@ This is an extraordinary ability.
 
 **Benefit:** Whenever you are the target of a sphere ability or supernatural ability that allows you to regain hit points that does not grant fast healing, you heal additional hit points equal to your Hit Dice. The increase in healing can not be greater than the original amount of healing granted. When you are granted fast healing, the fast healing heals 1 additional hit point per round.
 
-#### Shadowblast [Core]
+#### Shadowblast
 
 **Prerequisite:** Shadowmark class feature.
 
@@ -412,13 +412,13 @@ If at least one enemy fails their saving throw, you may choose one enemy that fa
 
 When using Soul-Piercing Gaze, it is difficult for observers to detect the use of any supernatural ability. You may make a Bluff check vs the passive perception of any observers to disguise what you are doing.
 
-#### Spellcrafting [Core]
+#### Spellcrafting
 
 **Prerequisite:** Casting class feature.
 
 **Benefit:** You may mix and match powers from various spheres into spells of your own creation. See the [[Spellcrafting]] page for more information.
 
-#### Sphere Focus [Core]
+#### Sphere Focus
 
 **Prerequisite:** Casting class feature.
 
@@ -456,7 +456,7 @@ When using Soul-Piercing Gaze, it is difficult for observers to detect the use o
 
 **Benefit:** When you spend a point of your grit, luck, or panache, you gain temporary hit points equal to your character level. These last 1 minute.
 
-#### Trance [Core]
+#### Trance
 
 **Prerequisite:** Emotion class feature.
 
@@ -468,7 +468,7 @@ When using Soul-Piercing Gaze, it is difficult for observers to detect the use o
 
 **Benefit:** You may spend a spell point or ki point to treat deadly wounds on a creature as a full-round action as per the Heal skill. You may do this even if the creature that has already received such treatment that day.
 
-#### Trinity Warrior [3PP]
+#### Trinity Warrior
 
 Source: City of 7 Seraphs
 
@@ -488,7 +488,7 @@ Spherecasters taking this feat may apply it to a single Sphere for determining e
 
 **Benefit:** When you have more than one head and are the target of a mind-affecting ability that allows a Will save, you may spend a spell point as a free action, even if it is not your turn, to reroll the save after the die is rolled but before the result is revealed.
 
-#### Versed Student [S&P]
+#### Versed Student
 
 You have acquired many varied skills, enabling you to pick up more advanced tactics.
 
@@ -510,7 +510,7 @@ You have acquired many varied skills, enabling you to pick up more advanced tact
 
 **Benefit:** You may spend 1 spell point as a free action to regain 1 use of your fervor or lay on hands ability.
 
-#### Wand Wielder [Core]
+#### Wand Wielder
 
 **Prerequisite:** 10th caster level or higher.
 

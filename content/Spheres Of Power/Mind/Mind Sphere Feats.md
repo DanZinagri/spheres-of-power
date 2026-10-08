@@ -19,7 +19,7 @@ parent: "[[Mind]]"
 
 In addition, failure means that the target is treated as one stage friendlier to you for the purposes of shifting his or her attitude by one step (for instance, changing the attitude of a creature from unfriendly to indifferent normally requires a DC equal to 20 + the creature’s Charisma modifier, but would now only require a DC equal to 15 + the creature’s Charisma modifier). These effects last a number of hours equal to your casting ability modifier, but the normal rules for the frequency with which a creature may be influenced by Bluff or Diplomacy are still in effect. This is a mind-affecting, language-dependent effect.
 
-#### Doublespeak (Dual Sphere) [DbH]
+#### Doublespeak (Dual Sphere)
 
 What might spell doom for one listener brings the greatest of joy to another.
 
@@ -47,7 +47,7 @@ Otherwise, actions have their normal effects in the dreamspace. Regardless of ho
 
 **Benefit:** When you successfully counter a spell, the caster must succeed at a Will save equal to your Illusion sphere DC or Mind sphere DC (whichever is greater), or believe the spell had its intended effect, even if they would otherwise be aware of its failure. Treat this effect as a figment with a duration equal to the countered spell, and use the rules for interacting with and investigating figments.
 
-#### Hypochondriac’s Terror (Dual Sphere) [CrimDan]
+#### Hypochondriac’s Terror (Dual Sphere)
 
 When you take over a creature’s bodily functions, you may also blend in your mental manipulation to torture them from the inside out.
 
@@ -78,7 +78,7 @@ The illusionary mind added to glamers modified by this feat constantly broadcast
 
 **Special:** If you possess the persuasive class feature you may add the bonus to save DC’s to Illusion sphere abilities. This feat counts as a talent with the (Sensory: Mind) tag.
 
-#### Mental Aura [DbH]
+#### Mental Aura
 
 Your very presence can be enough to exert your inhuman will on others.
 
@@ -106,13 +106,13 @@ In addition, by spending a spell point as a standard action, you may will your m
 
 This is treated as a supernatural ability. Any delayed damage can be taken at a point prior to the expiration of the delay by dismissing the effect, as if dismissing a spell. Healing received while damage is delayed can preemptively negate the damage before the effect ends if you wish. If an attack’s damage is negated entirely, secondary effects of the damage are also negated if the secondary effect would be negated through damage reduction.
 
-#### Minor Charm Specialist [Warden]
+#### Minor Charm Specialist
 
 **Prerequisite:** Mind sphere.
 
 **Benefit:** You may target an individual creature with a lesser charm an additional amount of times per day equal to your casting ability modifier (minimum 1). Additionally, if a creature would successfully save against your lesser charms, it does not count towards the maximum amount of times you may target an individual creature in a day.
 
-#### Never Really There (Dual Sphere) [DbH]
+#### Never Really There (Dual Sphere)
 
 Your escape masks any memory of your presence.
 
@@ -162,7 +162,7 @@ A target may naturally notice or remember objects in their possession being misp
 
 **Benefit:** As an immediate action, you may spend a spell point to reroll a single Bluff, Diplomacy, or Intimidate check with a +2 enhancement bonus. You may make the decision to use this ability after rolling the check, and you must keep the result of the second roll even if it is lower. This bonus increases by +1 per 3 Mind caster levels.
 
-#### Vampire’s Guile (Dual Sphere) [CrimDan]
+#### Vampire’s Guile (Dual Sphere)
 
 **Prerequisites:** Blood sphere, Mind sphere.
 

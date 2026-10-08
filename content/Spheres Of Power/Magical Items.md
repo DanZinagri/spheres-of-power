@@ -94,15 +94,15 @@ At the end of the crafting period, the caster must attempt a single skill check 
 
 If you need another character or a magic item (such as a wand or spell engine, implement, or scroll) to supply one of an item’s requirements, both you and the other character or the magic item must be present for the entire duration of the crafting process.
 
-### Awakening [TS:WAT]
+### Awakening
 
 Some items are capable of undergoing a process known as Awakening. When a piece of equipment Awakens, it becomes a minor artifact with a caster level of 20 and gains improved effects. When or how equipment Awakens should be set by the GM to match the campaign, but it should typically involve something like completing a great quest or receiving the blessing of a deity before a particularly important battle. Awakened items usually have powers suitable for high-level characters, so regardless of other factors, GMs should not set Awakening conditions that allow these items to display their true power too early in the game. Awakened equipment does not have a predetermined value because artifacts have no cost, but are worth approximately 250,000 gp (for weapons and implements, or half that for armor/shields and other equipment) if GMs need to know how much of a character’s wealth they should treat it as.
 
 Items with Awakening effects can still be upgraded normally before that happens, but cannot be upgraded further once awakening occurs. The GM may adjust the effects of the Awakening based on previous upgrades.
 
-### Construction Requirements [TS:WAT]
+### Construction Requirements
 
-Creatures cannot ignore any class feature requirements for crafting items from Treasures of the Spheres: Weapons and Tools (items marked [TS:WAT]) by increasing the DC of the skill check to make the item. The creature crafting these items (or an ally helping them craft) must have the actual class feature being used for such items. This rule includes mythic options that might normally let creatures bypass such requirements.
+Creatures cannot ignore any class feature requirements for crafting items from Treasures of the Spheres: Weapons and Tools (items marked) by increasing the DC of the skill check to make the item. The creature crafting these items (or an ally helping them craft) must have the actual class feature being used for such items. This rule includes mythic options that might normally let creatures bypass such requirements.
 
 A character cannot use the Use Magic Device skill, or a similar effect, to emulate having class features for items from Treasures of the Spheres: Weapons and Tools. These items are limited to characters who actually possess the class feature.
 
@@ -143,7 +143,7 @@ When creating a magic item that uses the talent-based creation system, its base 
 
 All items created through the talent-based creation system must choose a base sphere and ability from the list presented below, and begin with a complexity of 1. The crafter may increase or decrease the item’s complexity through any of the following alterations, but an effect’s complexity always has a minimum of 1. When combining multiple talent-based effects or spell engine/wand effects, they all must be crafted with the same caster level, though each may have its own complexity (charms, implements, and magical weapons and armor do not follow this rule, as their prices are not calculated depending on caster level). An effect’s caster level must be equal to or greater than its complexity.
 
-**Activation Time:** You may increase or decrease the time needed to activate the item, increasing or decreasing its complexity as follows. [DbH]
+**Activation Time:** You may increase or decrease the time needed to activate the item, increasing or decreasing its complexity as follows.
 
 **Table: Activation Time changes**
 
@@ -157,7 +157,7 @@ All items created through the talent-based creation system must choose a base sp
 
 *Note:* If adding an advanced talent, the complexity increase becomes +2, +1 per spell point required for its use. All talents listed as prerequisites for that advanced talent must have already been added to the effect, and the item must have a caster level equal to or higher than the talent’s prerequisites. A crafter must have access to an advanced talent to add it to an item; advanced talents cannot be bypassed by increasing the Spellcraft check DC.
 
-**Feat Integration:** You may apply non-metamagic feats you possess (such as Frozen To The Bone or any Dual Sphere feat) to any sphere effects created by the item at the cost of +1 complexity per feat. The item’s caster level must be equal to or higher than the minimum caster level or MSB needed to take the feat. [DbH]
+**Feat Integration:** You may apply non-metamagic feats you possess (such as Frozen To The Bone or any Dual Sphere feat) to any sphere effects created by the item at the cost of +1 complexity per feat. The item’s caster level must be equal to or higher than the minimum caster level or MSB needed to take the feat.
 
 **Increased Range:** You may increase or decrease the range of an effect by 1 step at a cost of +1 complexity per increase, or -1 complexity per decrease.
 
@@ -182,9 +182,9 @@ All items created through the talent-based creation system must choose a base sp
 | 10 minutes/caster level |
 | 1 hour/caster level |
 
-**Metamagic Integration:** You may apply metamagic feats to any sphere effects created by the item at the cost of +1 complexity per feat +1 complexity for each additional spell point spent to use the metamagic feat (for example, applying the Maximize Spell feat to an item would increase its complexity by +4). The item’s caster level must exceed the minimum caster level or MSB needed to take the feat. [DbH]
+**Metamagic Integration:** You may apply metamagic feats to any sphere effects created by the item at the cost of +1 complexity per feat +1 complexity for each additional spell point spent to use the metamagic feat (for example, applying the Maximize Spell feat to an item would increase its complexity by +4). The item’s caster level must exceed the minimum caster level or MSB needed to take the feat.
 
-**Simultaneous Triggers:** If an item has the ability to trigger multiple different effects, you may construct the item so that two or more of these effects may be activated as part of the same action. This increases the complexity of the item by 3 for every effect beyond the first that can be triggered as part of the same action. [DbH]
+**Simultaneous Triggers:** If an item has the ability to trigger multiple different effects, you may construct the item so that two or more of these effects may be activated as part of the same action. This increases the complexity of the item by 3 for every effect beyond the first that can be triggered as part of the same action.
 
 **Unique Changes:** Because magic items are at their best when they are unique and original, there is technically no limitation to what alterations you may make to a magic item. When making a unique change to a magic item’s abilities that is of equal power to adding a magic talent or an additional spell point, increase the complexity by +1. If adding a unique limitation that would be the equivalent of a drawback, decrease the complexity by 1.
 
@@ -574,7 +574,7 @@ When creating a magic item, the following options are also available.
 
 ---
 
-# Crafting Traditions [TS]
+# Crafting Traditions
 
 Casting traditions in Spheres of Power are a way to thematically and mechanically distinguish spellcasters from each other. In the same way, crafting traditions represent a way to uniquely modify magic items in order to better represent the personality and style of each crafter or culture. Characters gain their first crafting tradition the first time they become able to craft magic items.
 
@@ -630,7 +630,7 @@ Clingy items stay attached to their users once they are first held or worn (as a
 
 This drawback can only be applied to items that you can reasonably hold, wear, or carry.
 
-#### Clumsy [3PP]
+#### Clumsy
 
 The item is unwieldy, with misuse producing disastrous results. Whenever the character rolls a natural 1 on an attack roll made with the item, the attack is considered to be a critical fumble threat. Use the Critical Fumble Deck/Table to determine the effects of this critical fumble.
 
@@ -648,11 +648,11 @@ If a tradition requires a Collective of two items, this counts as one drawback. 
 
 Complex items require a specific skill to use, with a DC of 5 + the item’s caster level. For example, users may need to Intimidate the item and threaten it into working, attempt a Heal check to pour a potion on the right part of the body, or use Perform (comedy) to tell a joke that amuses the item. The skill check is made as part of attempting to use the item and does not require any additional actions. This drawback may be taken multiple times. Each time it is, it adds another skill roll that a character must make each time they try to use the item. The crafter must be trained in the skill required, but may select a different skill (or skills) they are trained in each time they craft an item.
 
-#### Cumbersome [Alienist HB]
+#### Cumbersome
 
 Cumbersome items are awkward to utilize, requiring that an additional hand be used to gain their benefits. For example, Cumbersome armor could require that a character constantly hold it in place using one hand while a Cumbersome implement may require two hands to use.
 
-#### Deckbound [3PP]
+#### Deckbound
 
 This magic item only functions when its effect is played as an item card by a character with the Custom Cards feat. This drawback may only be applied to compounds, marvelous items, scrolls, spell engines, and summoning orbs.
 
@@ -688,7 +688,7 @@ Heretical items have a 15% chance of causing backlash when activated. When this 
 
 Penalties from this effect reset after both the user and the item get eight hours of rest.
 
-#### Inhuman Use [Alienist HB]
+#### Inhuman Use
 
 Items with the Inhuman Use drawback are designed to be used by creatures with abnormal physiology. A creature must possess and use one of the following natural attacks to wear or operate the item, chosen at the time the item is created: a bite attack, a claw attack, a tentacle attack, a tail attack, or some other specific type of natural attack at GM discretion.
 
@@ -718,7 +718,7 @@ The user must attempt a concentration check in order to use the item when applic
 
 If this drawback is taken a second time, using the item always provokes attacks of opportunity and requires concentration checks to activate defensively. Treat this as casting defensively for all other mechanical purposes.
 
-#### Unsalvageable [DbH]
+#### Unsalvageable
 
 The item does not change hands easily, eliminating itself should it come into the wrong hands. When a creature wielding or wearing this item is reduced to 0 hit points, the item disintegrates into dust and is no longer usable for any purposes. Certain other conditions (such as being picked up by a creature that the User-Bound quality would not permit or when the wielder utters a certain command word) may also cause the item to disintegrate in this way.
 
@@ -776,7 +776,7 @@ The item has erratic and deadly effects when it strikes true. Whenever the chara
 
 Reduce the crafting cost of the item by 10% of its original crafting cost (to 45% of the full price of the item). This stacks with other cost reductions and is applied at the same time, but cannot reduce the crafting cost below 40% of the full price. This reduction affects both the crafting and selling price of the item (normally to 90% of the original selling price).
 
-#### Graft [DbH]
+#### Graft
 
 This item is not a wielded item but rather a component integrated into the user’s body, perhaps replacing a limb or organ.
 
@@ -816,7 +816,7 @@ Living items regain 1 hit point per day as long as they are continually exposed 
 | Wood | Damp soil or sunlight |
 | Metal | Raw ore or a metal ingot (this can be any metal) |
 
-#### Maker’s Mark [DbH]
+#### Maker’s Mark
 
 The creator of this item has programmed a failsafe into the item to prevent their enemies from using it. Whoever is carrying or using the item takes a -5 penalty on all saving throws against effects created by the item’s original creator or beings which serve the creator.
 
@@ -831,7 +831,7 @@ Self-contained items contain all the energies they need to activate within thems
 
 Items crafted with this boon, but without varying costs based on their caster level, cannot count more of their caster level towards the special spell resistance than the crafter's character level at the time they crafted the item. For example, if the crafter is level 5 but the item is caster level 10, they could only add five levels for the purpose of calculating spell resistance (giving the item a total SR of 15 against anti-magic effects).
 
-#### Self-Destruct Protocol [DbH]
+#### Self-Destruct Protocol
 
 When the item would be destroyed (including when it disintegrates as a result of the Unsalvageable drawback), it explodes violently. This functions as a destructive blast with the Explosive Blast (blast shape) centered on the item with an increased radius (as if a spell point was spent on the effect) but without the enhanced damage from spending a spell point on the blast. The caster level of this blast is equal to the caster level of the item (to a maximum caster level equal to yours at the time of crafting). For example, an item with a caster level of 5 exploding would deal 3d6 damage. The damage type of this blast is usually piercing, bludgeoning, and slashing, although certain items may deal other types of damage depending on their nature (for example, a flaming weapon may deal fire damage when it self-destructs). If multiple items worn by a creature would all be destroyed within the same turn, use only the range and damage of the item with the highest caster level.
 
@@ -839,11 +839,11 @@ When the item would be destroyed (including when it disintegrates as a result of
 
 Simple items have their complexity reduced by 1 (to a minimum of 1). This boon is only applicable to items created with the talent-based system. This counts as two boons, and requires at least four drawbacks to take.
 
-#### Singular Target [DbH]
+#### Singular Target
 
 An item is tailored to harm a singular specific creature decided when the item is crafted. The singular target could be a specific named individual or a unique individual that the creator is capable of identifying based on a certain condition (for example, “the person who killed my brother” is acceptable even if the crafter does not know the identity of this person). Against the singular target, any abilities used by the item increase their saving throw DCs by 1, ignore miss chances from concealment, and automatically confirm threatened critical hits.
 
-#### Unified Power [DbH]
+#### Unified Power
 
 These items are created in a group and grant additional properties when utilized together. When multiple items with this boon are used by the same creature, they also provide the effects of a single other slotless magic item the creator is capable of making (chosen at the time of creation). The value of this additional item cannot be more than 10% of the total gp value of all of the items currently being wielded. The creator may assign different magic item effects with this ability based on the number of magic items being wielded (for example, a character may be able to use a lesser effect when using 2-4 items with this boon and a greater effect when using 5 or more items with this boon).
 
@@ -1099,7 +1099,7 @@ A spell engine’s pricing is determined by comparing it to Table: Spell Engine 
 
 A compound has a base cost of 50 gp x caster level x complexity. If a compound requires a saving throw, the DC is equal to 10 + 1/2 its caster level.
 
-### Eldritch Craft (Item Creation) [Cata. HB]
+### Eldritch Craft (Item Creation)
 
 Your strange magics bleed into the devices you forge.
 
@@ -1171,7 +1171,7 @@ Magical weapons and armor use the crafter’s MSB rather than their caster level
 
 **Wiki Note:** Versatile Crafter is on this page because it is about creating magic items. However, it is not a true item creation feat, and does not count as such for any purpose. This feat does not allow you to bypass talent prerequisites for creating compounds, spell completion items, or spell trigger items.
 
-#### Weapons With Talent-Like Powers [TS]
+#### Weapons With Talent-Like Powers
 
 If you want to make your own equipment that can unleash talent-based powers, you do not have to make it too complicated! There are just a few pointers to keep in mind.
 

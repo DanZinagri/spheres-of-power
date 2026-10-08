@@ -15,7 +15,7 @@ You can command the weather to do your bidding.
 
 **Wiki Note:** This page represents the Weather Sphere as expanded by The Tempestarian's Handbook. The following core talents were changed into Advanced Talents with this update: Boiling Lord, Cold Lord, Heat Lord, Rain Lord, and Wind Lord.
 
-# Control Weather [Core]
+# Control Weather
 
 As a standard action, you may control all weather within Medium range, adjusting either the wind, temperature, or precipitation levels. If you are in a confined area such as inside a building, your control only extends to the edge of that space. This change in weather lasts as long as you concentrate, but you may always spend a spell point as a free action to allow this change to continue for 1 minute per caster level without concentration. When using control weather to change the weather’s severity, the change happens 1 level change per category per round until the desired severity is reached. When the effect ends, the severity of the altered weather categories returns to normal by 1 step per round.
 
@@ -43,7 +43,7 @@ If two casters are controlling weather in the same location and affecting differ
 
 The following is a description of all the different effects one can create with the Weather sphere. See the Pathfinder Core rulebook for more details on weather and environmental effects. Depending on the terrain, a GM could rule additional effects happen; rain can cause rivers or enclosed spaces to flood, cold can create ice sheets on flat terrain, etc. Generally, weather conditions from different categories stack. (Thus, if Wind, Cold, and Precipitation were all increased to Severity level 5, the area would be under the effects of the appropriate Wind, Cold, and Snow effects, all at the same time.)
 
-## Wind [Core]
+## Wind
 
 You cannot change the direction of the wind, but you may overpower it. If you wish to change the direction of the wind, you must create a new wind of the direction you desire. If the wind is the same severity as the natural wind, the winds negate (if they oppose) or join to create a wind with a direction halfway between the two. If one wind is smaller than the other, the smaller wind is negated in favor of the stronger one.
 
@@ -86,10 +86,10 @@ All flames are extinguished. All ranged attacks are impossible (even with siege 
 
 ### Other Wind Effects
 
-**Duststorm [Core]**
+**Duststorm**
 When severity level 4 winds are created in a desert, it can create a duststorm, blowing fine grains of sand that obscure vision, smother unprotected flames, and can even choke protected flames (50% chance). At severity level 5, a duststorm deals 1d3 points of nonlethal damage each round to anyone caught out in the open without shelter and also poses a choking hazard (see Drowning, except that a character with a scarf or similar protection across her mouth and nose does not begin to choke until after a number of rounds equal to 10 + her Constitution score).
 
-## Cold [Core]
+## Cold
 
 Cold environments can deal either lethal cold damage or nonlethal damage to a creature. A creature dealt damage in this manner becomes fatigued (frostbitten), and cannot recover from fatigue or damage until warmed up. If a character takes an amount of nonlethal damage equal to her total hit points, any further damage from a cold environment is lethal damage.
 
@@ -105,7 +105,7 @@ Characters wearing a cold weather suit treat the cold as if it were 1 level lowe
 | 6 (below -60° F) | Same as severity level 5, but damage and Fortitude saves happen each round. |
 | 7 (below -120° F) | 3d6 cold damage each round (no save). Being encased in ice increases this to 10d6. |
 
-## Precipitation [Core]
+## Precipitation
 
 Precipitation has the most severe interaction with the other weather categories, as the conditions change depending on the temperature and wind.
 
@@ -125,24 +125,24 @@ When combined with Cold severity 4 or higher, snow effects are added to rain eff
 
 (Note: While water freezes at Cold severity 3, magic cannot cause rain to become snow as it falls until severity level 4, since the magical water/cold is only augmenting the natural process, not replacing it.)
 
-**Rain Effects [Core]**
+**Rain Effects**
 
-*Mist [Core]*
+*Mist*
 Mist grants all creatures concealment from any creatures over 100 ft away (all attacks suffer a 20% miss chance).
 
-*Fog [Core]*
+*Fog*
 The caster may create light rain or fog. If fog is chosen, it obscures all sight beyond 5 feet, including Darkvision. Creatures 5 feet away have concealment.
 
-**Other rain effects [Core]**
+**Other rain effects**
 Beginning at severity level 4, rain has the same effect on fires, ranged attacks, and Perception checks as wind of equal severity level. This does not stack with the penalties provided by wind. The rain also cuts visibility ranges by half, resulting in an additional –4 penalty on Perception checks due to poor visibility.
 
-**Snow Effects [Core]**
+**Snow Effects**
 Snow causes squares to count as difficult terrain. This requires 24 hours of snow at severity level 1, 8 hours at severity level 2, 1 hour at severity level 3, and happens immediately at severity level 4. At severity level 5, snow obscures vision as fog does. It costs 4 squares of movement to enter a square covered with heavy snow (about 2 feet). This requires 24 hours at severity level 4, 8 hours at severity level 5, 1 hour at severity level 6, and happens immediately at severity level 7. Heavy snow accompanied by strong or severe winds might also result in snowdrifts 1d4 × 5 feet deep, especially in and around objects big enough to deflect the wind—a cabin or a large tent, for instance.
 
-**Storm Effects [Core]**
+**Storm Effects**
 Beginning at severity level 4, storms will randomly strike a square with lightning, dealing 4d8 electricity damage (Reflex half) to everything in or above that square. This happens once per minute. This damage increases by 2d8 for every severity level above 4, to a maximum of 10d8 at severity level 7.
 
-## Heat [Core]
+## Heat
 
 Heat works very similarly to Cold. Hot environments can deal fire damage or nonlethal damage to a creature. A creature dealt damage in this manner becomes fatigued (heatstroke), and cannot recover from fatigue or damage until cooled off (reaches shade, survives until nightfall, gets doused in water, and so forth). If a character takes an amount of nonlethal damage equal to her total hit points, any further damage from a hot environment is lethal damage.
 
@@ -220,7 +220,7 @@ When you are using control weather to create Wind of severity level 4 or above i
 
 When using a shroud, you may spend an additional spell point to affect additional creatures, up to 1 extra creature per 2 caster levels (minimum 1). Every target must be affected by the same shroud.
 
-#### Focused Weather [Core]
+#### Focused Weather
 
 When controlling weather, you may reduce the size of the effect down to a radius of 25 ft and may center the effect anywhere within Medium range.
 
@@ -228,11 +228,11 @@ When controlling weather, you may reduce the size of the effect down to a radius
 
 When you are using control weather to create Wind, the DC to avoid being blown away in the area or to move against the wind while checked, and the penalty to Perception checks are increased by your casting ability modifier (minimum 1). The penalty to ranged attack rolls increases by half this amount (minimum 1).
 
-#### Greater Size [Core]
+#### Greater Size
 
 When controlling weather, you may affect all weather within Long range of you. If you possess the Focused Weather talent, you may center that effect anywhere within Long range.
 
-#### Greater Weather [Core]
+#### Greater Weather
 
 When you use control weather, you may spend an extra spell point to affect 2 weather categories instead of 1, or two extra spell points to affect 3 weather categories instead of 2. You do not need to change these categories in the same way, or make them the same severity level (i.e., you may make one category more severe, while making another less severe).
 
@@ -240,21 +240,21 @@ When you use control weather, you may spend an extra spell point to affect 2 wea
 
 You can concentrate on two shroud effects as part of the same action. This talent may be taken more than once, each time increasing the number of shroud effects you can concentrate on as part of the same action by one.
 
-#### Lengthened Weather [Core]
+#### Lengthened Weather
 
 When you spend a spell point to allow your create weather effect to persist without concentration, you may cause the effect to persist for 1 hour per caster level instead of 1 minute per caster level.
 
-#### Severe Weather [Core]
+#### Severe Weather
 
 When you control weather, you may spend an extra spell point to raise the severity you can create or alter with your control weather by 1 level, to a maximum of severity level 7.
 
-#### Snow Lord [Core]
+#### Snow Lord
 
 When you are using control weather to create a Precipitation severity level 4 or above in an area of Cold severity level 4 or above, you can choose to change the snow to hail. Hail has the same effect on movement as snow, but it also deals 1 point of bludgeoning damage per severity level of Precipitation to everything within the affected area.
 
 At severity level 4, the visibility penalty of rain does not apply to hail, and the -4 penalty to Perception only applies to Perception checks based on sound.
 
-#### Storm Lord [Core]
+#### Storm Lord
 
 When you are using control weather to create Precipitation of severity level 4 or above in an area of Wind severity level 4 or above, you can control where the lightning bolts strike. You may take this talent a total of twice. If taken twice, you may increase the frequency of lightning strikes to 1 per round.
 

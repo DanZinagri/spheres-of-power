@@ -37,7 +37,7 @@ Whenever a creature within your threatened area attempts to take a 5-foot step a
 
 Whenever you ready an action to intercept a charge, you can also impale the charging creature without taking a -2 on the attack roll; readying an action in this fashion does not alter your place in the initiative order. Once per round while you have an action readied in this fashion, you may move up to half your base speed as a free action even when it is not your turn; if this movement would place you in the path of a charging creature, you can make your readied attack against them. At +10 base attack bonus, if a creature provokes an attack of opportunity from you due to moving towards you, they are treated as a charging creature for the purpose of triggering your readied action.
 
-#### Defensive Leverage (stance) [Youxia HB]
+#### Defensive Leverage (stance)
 
 While in this stance, as long as you are impaling an adjacent creature and controlling the weapon used to impale them, you gain a 20% miss chance against all attack rolls made against you. If this talent causes an attack made against you to miss, you may spend an attack of opportunity to redirect the attack against an adjacent creature you are currently impaling this way as a free action that can be taken even outside of your turn.
 
@@ -49,7 +49,7 @@ If you successfully impale a creature with a weapon wielded with two hands, you 
 
 Whenever you remove your weapon from an impaled creature, you may regain your martial focus.
 
-#### Lancealot [Jester's HB]
+#### Lancealot
 
 When an impaled creature loses the impaled condition and suffers bleed damage, they treat the weapon’s damage dice as though it were 1 size category larger. At +10 base attack bonus, this increases to 2 size categories larger.
 
@@ -105,7 +105,7 @@ Whenever you are the target of an attack, you may perform a reposition combat ma
 
 You may perform a dirty trick combat maneuver as a move action that does not provoke attacks of opportunity against an impaled creature. At +10 base attack bonus, you may perform this dirty trick combat maneuver as a swift action.
 
-#### Piercing Heft (impale) [Alienist HB]
+#### Piercing Heft (impale)
 
 You may perform a grapple combat maneuver or maintain a grapple as a move action that does not provoke attacks of opportunity against an impaled creature.
 
@@ -131,13 +131,13 @@ As long as you have martial focus, you can cause an impaled creature to provoke 
 
 Creatures impaled by you are affected as though by a dimensional lock spell as long as you control a weapon impaling that creature. This means that the target cannot use teleportation effects, turn ethereal, or otherwise travel from the spot they are at except through mundane means. This is a supernatural effect.
 
-#### Esoteric Link (impale) [EO3]
+#### Esoteric Link (impale)
 
 **Prerequisites:** Lancer sphere, base attack bonus +7.
 
 Whenever you control a weapon that is impaling a creature and either you or the impaled creature are targeted by a single-targeted magic sphere effect that requires a Fortitude or Will save, or any harmless effect, you can choose to redirect the effect to either yourself or the impaled creature as an immediate action (before any saving throw is made). The impaled creature must succeed at a Will saving throw to negate an effect being redirected this way. You may only redirect an effect using this talent if the impaled creature has at least half as much Hit Dice as your character level.
 
-#### Pierce Vitals (impale) [EO3]
+#### Pierce Vitals (impale)
 
 **Prerequisites:** Lancer sphere, base attack bonus +10.
 
@@ -157,7 +157,7 @@ At +10 base attack bonus, the target instead suffers 1/2 the damage you would on
 
 Whenever you pierce a creature, the creature gains 1 negative level at the beginning of each round they are impaled. These negative levels last for a number of hours equal to your base attack bonus. This is a supernatural effect.
 
-#### Turbo Knockdown [Youxia HB]
+#### Turbo Knockdown
 
 **Prerequisites:** Athletics sphere (Mobile Striker), Lancer sphere (Whirlwind Knockdown), base attack bonus +10.
 

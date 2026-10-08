@@ -10,13 +10,13 @@ Ritual feats focus on the use of [[Rituals]], an optional subsystem. These feats
 
 ---
 
-#### Ritual Caster [Core]
+#### Ritual Caster
 
 **Prerequisite:** Casting class feature.
 
 **Benefit:** You may use a ritual, even if you do not possess that ritual’s base sphere (see [[Rituals]]). If you also possess the Craft Rituals item creation feat, you still cannot research a ritual unless you meet all of its prerequisites.
 
-#### Ritual Master [Core]
+#### Ritual Master
 
 **Prerequisites:** Casting class feature, Ritual Caster.
 

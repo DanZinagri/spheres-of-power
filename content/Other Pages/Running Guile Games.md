@@ -78,7 +78,7 @@ Neither a puzzle nor a challenge is necessarily bad, but each is useful for diff
 | 19 | 20 | 38 | 43 | 48 | 53 |
 | 20 | 21 | 40 | 45 | 50 | 55 |
 
-#### Note: Setting Difficulty [Wiki]
+#### Note: Setting Difficulty
 
 You should not necessarily use the numbers for the party's current level. Instead, you should also consider the overall CR of the challenge or puzzle when it would affect immersion. For example, let's say the party is 15th level, but for adventure reasons they happen to be in a typical peasant village. It's unlikely the village will have locks on the doors that match a Level 15 party's capabilities. You can simply hand-wave any attempt to break in to a simple house (because let's be honest, the party shouldn't have difficulty with this) - but if you do need to use numbers, it might be best to use the difficulty ratings that reflect the village's consideration of what's difficult, rather than the party's.
 

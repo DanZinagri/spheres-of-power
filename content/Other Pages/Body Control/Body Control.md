@@ -46,7 +46,7 @@ You can move through a space as narrow as half yours without squeezing, as narro
 
 Some talents are marked (clarity), allowing you to trigger an effect whenever you abandon a meditate approach that has lasted at least 1 round. You may only apply one (clarity) talent at a time. You can apply the clarity talent even if the approach was ended by something outside your control (such as you losing consciousness).
 
-#### Contemplation [DRS]
+#### Contemplation
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -86,7 +86,7 @@ You may sleep in medium armor without becoming fatigued. If you sleep without ar
 
 **Associated Feat:** Endurance.
 
-#### Feign Weakness [DRS]
+#### Feign Weakness
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -94,7 +94,7 @@ Whenever you succeed a saving throw against an effect originating from a hostile
 
 For as long as you appear to be affected by the effect (or are feigning a condition separate to this effect), you can outwit a creature by revealing the truth of your condition—once a creature has been outwitted this way, they cannot be outwitted again using this talent for 1 minute.
 
-#### Flexible Contemplation [DRS]
+#### Flexible Contemplation
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -102,7 +102,7 @@ Whenever you have at least 8 hours of rest (or the equivalent of such), the firs
 
 Alternatively, you can choose to contemplate as a standard action—if you do, you lose all contemplation benefits and instead contemplate at the end of each of your turns for 1 minute. After this minute, these contemplation benefits last for 1 round. Once you contemplate this way, you cannot contemplate again until your next 8 hours of rest.
 
-#### Guided Meditation [DRS]
+#### Guided Meditation
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -156,7 +156,7 @@ You can meditate as an immediate action to preempt the action of another creatur
 
 You can reveal and spend a plan as part of this action to ignore this restriction on duration and treat the meditation as having lasted since you last prepared plans so long as you have not adopted an approach since doing so. This enables the use of (contemplation) talents.
 
-#### Still Form [utility] [DRS]
+#### Still Form [utility]
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -164,7 +164,7 @@ While meditating, you gain a circumstance bonus equal to 1/2 your associated ran
 
 You can also choose to use your associated skill modifier in place of the normal skill modifier for such checks.
 
-#### Transcendent Meditation [DRS]
+#### Transcendent Meditation
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -204,7 +204,7 @@ While sleepwalking, you are effectively oblivious (see alertness rules)—you ca
 
 If you have the Physiological Mastery talent, your effective level of alertness is raised to distracted, and you can sleepwalk for the entirety of your sleep duration. While sleepwalking for the entire duration of your sleep this way, skill uses which are measured in days or weeks such as Craft and Profession can be counted as progressing twice as fast if you dedicate the normal amount of effort during waking hours and the entirety of your sleepwalking.
 
-#### Detached (contemplation) [DRS]
+#### Detached (contemplation)
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -226,7 +226,7 @@ While meditating with Staunch Wounds, you are not staggered while disabled or ha
 
 As a (clarity) talent, you can abandon your meditate approach in response to being reduced below 0 hit points, knocked unconscious from nonlethal damage, or killed by hit point damage, to gain the benefits of the Diehard feat as well as enough temporary hit points to remain at 0 hit points and conscious, to a maximum amount of temporary hit points equal to twice your associated ranks. These benefits last for 1 minute per associated rank.
 
-#### Inexorable (clarity, control) [DRS]
+#### Inexorable (clarity, control)
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -244,7 +244,7 @@ In addition, as a (clarity) talent, until the start of your next turn you can ou
 
 **Utility Option:** This talent can be taken as a utility talent or used as a utility talent if it doesn't enable you to take 10 on skills in combat and loses the (clarity) benefit.
 
-#### Introspective (contemplation) [DRS]
+#### Introspective (contemplation)
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -266,7 +266,7 @@ In addition, as a (clarity) talent, you can use your associated skill modifier i
 
 You can endure any failed ability check, skill check, or saving throw to avoid the exhausted, fatigued, nauseated, paralyzed, or sickened conditions. You can also ignore up to 2 total points of ability penalties and ability damage to each physical ability score, which increases by 2 for every 5 ranks in the associated skill you possess.
 
-#### Physiological Suspension (clarity) [DRS]
+#### Physiological Suspension (clarity)
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -318,7 +318,7 @@ If you fail to resist a mind-affecting effect, creatures observing you must succ
 
 In addition, as a (clarity) talent you may outwit a creature who you successfully mislead into believing that you weren't affected by their mind-affecting effect by revealing the extent of your affected psyche.
 
-#### Tune Out (clarity, contemplation, control) [DRS]
+#### Tune Out (clarity, contemplation, control)
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -328,7 +328,7 @@ As a (contemplation) talent, you gain a +1 bonus to Perception checks, a +1 comp
 
 As a (clarity) talent, you can abandon your meditate approach as an immediate action, as a free action on your turn, or as part of successfully enduring an effect, to roll a new save against one of the previously listed effects against the original effect’s save DC, gaining a +1 insight bonus to the attempt per 4 associated ranks. Once you attempt a new save against this effect, you cannot do so again against this effect.
 
-#### Unnerving Revelation (clarity, contemplation, control) [DRS]
+#### Unnerving Revelation (clarity, contemplation, control)
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -456,7 +456,7 @@ If suspended in midair, you fall in a straight line 150 feet in the first round 
 
 You can choose this talent a second time if you possess at least 10 ranks in the associated skill or Fly. When you do, you gain a supernatural fly speed of 30 feet with poor maneuverability while meditating, and you can change your effective direction of gravity to any direction with this talent regardless of proximity to surfaces which could support your weight.
 
-#### Vacuous Respiration [DRS]
+#### Vacuous Respiration
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 

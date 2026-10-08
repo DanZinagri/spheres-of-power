@@ -237,7 +237,7 @@ In addition, he may create the following gadgets:
 
 The technician chooses a number of skills equal to his Intelligence modifier. He may take 10 on these skills, even when stress or other circumstances would normally impede him from doing so. A technician must be at least level 10 to select this insight. This insight may be gained multiple times, choosing additional skills each time.
 
-#### Gadgeteer [SUE]
+#### Gadgeteer
 
 The technician gains the Tinker sphere as a bonus talent. In addition, the technician’s gadgets class feature may use their ranks in their Tinker sphere associated skill instead of their technician class level to determine its effects.
 
@@ -345,7 +345,7 @@ A technician must possess the luck technical insight to gain this insight.
 
 The technician gains the Master Craftsman feat and either the Craft Wondrous Items or Craft Magical Arms and Armor feat (player’s choice). The technician may use his ranks in any relevant Craft or Profession skill as his caster level and when making checks with either feat, not just the skill selected with Master Craftsman. This insight may be gained twice. If gained a second time, the technician gains the feat not chosen the first time. The technician must be at least level 6 to gain this insight.
 
-#### Mechanical Best Friends (Ex) [BTH]
+#### Mechanical Best Friends (Ex)
 
 The technician gains either the Beastmastery sphere Animal Companion or Pet talent as a bonus talent, even if he does not possess the Beastmastery base sphere. The technician may use his ranks in Craft (mechanical) or Knowledge (engineering) in place of his base attack bonus when determining his effective druid level for the Animal Companion talent (not his base attack bonus -3) and his arcane caster level for the Pet talent. If the technician gains this technical insight a second time, he gains whichever talent he did not choose the first time (between Animal Companion and Pet).
 
@@ -1114,13 +1114,13 @@ While in the pilot seat, the pilot and the independent invention are essentially
 
 # Technician Alternate Class Features
 
-#### Tinker Specialist (Ex) [SUE]
+#### Tinker Specialist (Ex)
 
 At 1st level, the technician gains the Tinker sphere as a bonus sphere.
 
 This ability alters trap specialist.
 
-#### Battery Gadget (requires Tinker sphere) [SUE]
+#### Battery Gadget (requires Tinker sphere)
 
 The technician adds the following gadget to their list of options:
 
@@ -1164,7 +1164,7 @@ This ability alters gadgets.
 
 # Class Equipment
 
-#### Gadget Guide [TS:WAT]
+#### Gadget Guide
 
 **Aura** moderate Creation; **CL** 8th
 **Slot** none; **Price** 14,000 gp; **Weight** 2 lbs.
@@ -1174,7 +1174,7 @@ This book contains detailed schematics for creating a specific invention. A crea
 **Construction Requirements**
 Craft Apparatus, Creation sphere, creator must have the inventions class feature; **Cost** 7,000 gp
 
-#### Tinker’s Manual [TS:WAT]
+#### Tinker’s Manual
 
 **Aura** strong Creation; **CL** 12th
 **Slot** none; **Price** 15,000 gp; **Weight** 8 lbs.
@@ -1184,7 +1184,7 @@ This heavy tome is sometimes used as a reference for higher education, particula
 **Construction Requirements**
 Craft Apparatus, Creation sphere, creator must have the technical insights class feature, creator must know the technical insight added to this manual; **Cost** 7,500 gp
 
-#### Trapspotter [TS:WAT]
+#### Trapspotter
 
 **Aura** weak Divination; **CL** 1st
 **Slot** eyes; **Price** 2,000 gp; **Weight** 1/8 lbs.

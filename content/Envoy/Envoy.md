@@ -200,7 +200,7 @@ The envoy can spend 1 minute speaking with a creature, expending his influence o
 
 An envoy can choose one of the following fortes at 1st level. It grants a skill sphere and a special ability. The forte grants an additional ability at 4th level, 6th level, and every four levels thereafter. Once chosen, the envoy’s forte cannot be changed (without retraining).
 
-### Allure [DRS]
+### Allure
 
 *Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
@@ -235,7 +235,7 @@ The target is allowed a new saving throw with a +2 bonus if asked to do somethin
 
 The envoy can only have one target beguiled in this way at one time; if the envoy successfully uses this ability to beguile a second creature, the first creature is no longer beguiled.
 
-### Authority [LotS]
+### Authority
 
 These envoys utilize respect, honor, force, or some other form of visible strength to exert authority and leadership with those around them.
 
@@ -630,7 +630,7 @@ The following flairs require you to be 5th level in the envoy class.
 
 The envoy chooses a single Charisma-, Intelligence-, or Wisdom-based skill when he gains this flair. He gains the skill unlock powers for the chosen skill as appropriate for his number of ranks in that skill. The envoy can choose this flair an additional time for every 5 envoy levels beyond 5th level he possesses, choosing an additional skill and gaining skill unlock powers for that skill as well.
 
-#### Fragment Consciousness (Su) [3PP]
+#### Fragment Consciousness (Su)
 
 *Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
@@ -662,7 +662,7 @@ The following flairs require you to be 7th level in the envoy class.
 
 The envoy can spend a standard action to allow a single creature within 60 feet of the envoy to draw and drink a potion (or similar alchemical consumable) as an immediate action, as long as the potion is usually drinkable as a standard action or quicker. If the creature does not take this action immediately, this effect is wasted.
 
-#### Established Fragment (requires fragment consciousness) (Su) [3PP]
+#### Established Fragment (requires fragment consciousness) (Su)
 
 *Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
@@ -692,7 +692,7 @@ Whenever the envoy uses dispiriting words, he can increase the action cost by on
 
 The envoy can spend 1 use of skill leverage when gaining influence over a creature to target two additional creatures, plus an additional creature for every 4 envoy levels beyond 9th.
 
-#### Razor-Sharp Wit (requires the Rapid Retort flair) [DRS]
+#### Razor-Sharp Wit (requires the Rapid Retort flair)
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -732,7 +732,7 @@ Whenever the envoy communicates (such as by speaking or signing), he can choose 
 
 The following flairs require you to be 15th level in the envoy class.
 
-#### Echo Made Reality (requires established fragment, fragment consciousness) (Su) [3PP]
+#### Echo Made Reality (requires established fragment, fragment consciousness) (Su)
 
 *Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
@@ -742,7 +742,7 @@ Whenever the envoy has a visible construct active within a creature’s mind, th
 
 # Alternate Class Features
 
-#### Inspiriting Words [DRS]
+#### Inspiriting Words
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 

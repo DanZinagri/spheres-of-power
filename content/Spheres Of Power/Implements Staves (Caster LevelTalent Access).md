@@ -64,7 +64,7 @@ Yes, but this is an inefficient use of both gold and magic item slots. While spe
 
 The following are sample implements that you can use in your games. Players with the appropriate crafting options can also create other implements.
 
-### The Balladeer [TS:WAT]
+### The Balladeer
 
 **Aura** moderate Mind; **CL** 6th
 **Slot** none; **Price** 56,000 gp; **Weight** 12 lbs.
@@ -76,7 +76,7 @@ This ornate, handheld harp is decorated with carvings of fey creatures singing, 
 **Construction Requirements**
 Craft Implement Of Power, Craft Marvelous Item, Mind sphere (Inspiration (charm), Recommend (charm)); **Cost** 28,000 gp
 
-### Battle Banner [TS]
+### Battle Banner
 
 **Aura** faint War; **CL** 3rd
 **Slot** chest; **Price** 18,000 gp; **Weight** 1 lb.
@@ -97,7 +97,7 @@ Each pair of blaster’s bracers are a +1 Destruction implement and are imbued w
 **Construction Requirements**
 Craft Implement Of Power, Destruction sphere, creator must possess the talent to be granted; **Cost** 4,000 gp
 
-### Cleric’s Ward [TS]
+### Cleric’s Ward
 
 **Aura** faint Fate; **CL** 3rd
 **Slot** none; **Price** 18,000 gp; **Weight** 1 lb.
@@ -107,7 +107,7 @@ Cleric’s wards are sacred relics often used by churches in dangerous regions. 
 **Construction Requirements**
 Craft Implement Of Power, Fate sphere (Undo Harm (consecration)); **Cost** 9,000 gp
 
-### Cursebreaker [TS]
+### Cursebreaker
 
 **Aura** faint Life; **CL** 3rd
 **Slot** varies; **Price** 18,000 gp; **Weight** 1 lb.
@@ -117,7 +117,7 @@ Cursebreakers take many forms, including holy books, bells, and the favored weap
 **Construction Requirements**
 Craft Implement Of Power, Life sphere (Break Enchantment); **Cost** 9,000 gp
 
-### Dimensional Blocker [TS]
+### Dimensional Blocker
 
 **Aura** faint Warp; **CL** 3rd
 **Slot** neck; **Price** 18,000 gp; **Weight** 1 lb.
@@ -138,7 +138,7 @@ This doublet is crafted from brown/grey wool, with mountain scenery embroidered 
 **Construction Requirements**
 Craft Implement Of Power, Craft Marvelous Item, Destruction sphere, Nature sphere; **Cost** 19,200 gp
 
-### Elemental Attuners [TS]
+### Elemental Attuners
 
 **Aura** faint Destruction; **CL** 3rd
 **Slot** hands; **Price** 18,000 gp; **Weight** 1 lb.
@@ -148,7 +148,7 @@ Elemental attuners are +1 Destruction implements imbued with a single blast type
 **Construction Requirements**
 Craft Implement Of Power, Destruction sphere (the talent to be granted); **Cost** 9,000 gp
 
-### Ejector [TS]
+### Ejector
 
 **Aura** moderate Time; **CL** 12th
 **Slot** none; **Price** 128,000 gp; **Weight** 3 lbs.
@@ -193,7 +193,7 @@ These fingerless white leather gloves are usually form fitting, and slip on with
 **Construction Requirements**
 Craft Implement Of Power, Illusion sphere, Telekinesis sphere; **Cost** 10,000 gp
 
-### Grimoire Of The Tentacult [TS:WAT]
+### Grimoire Of The Tentacult
 
 **Aura** moderate Alteration; **CL** 6th; **SP** 1
 **Slot** none; **Price** 17,000 gp; **Weight** 2 lbs.
@@ -205,7 +205,7 @@ This dark indigo book is covered in a strange, somewhat squishy material. This g
 **Construction Requirements**
 Craft Implement Of Power, Craft Spell Engine, Alteration sphere, Telekinesis sphere (Divided Mind [mass], Powerful Telekinesis); **Cost** 8,500 gp
 
-### Healer’s Staff [TS]
+### Healer’s Staff
 
 **Aura** faint Life; **CL** 3rd
 **Slot** none; **Price** 7,800 gp; **Weight** 4 lbs.
@@ -226,7 +226,7 @@ This +3 glamered longsword also functions as a +3 Illusion implement.
 **Construction Requirements**
 Craft Implement Of Power, Smith Magical Weapons and Armor, Craft Apparatus, Illusion sphere, masterwork longsword; **Cost** 24,500 gp
 
-### Liquid Courage [TS]
+### Liquid Courage
 
 **Aura** faint Mind; **CL** 5th
 **Slot** none; **Price** 50,000 gp; **Weight** 3 lbs.
@@ -236,7 +236,7 @@ This clear glass-like container is suspiciously sturdy and is filled with what l
 **Construction Requirements**
 Craft Implement Of Power, Mind sphere (Courage (charm)); **Cost** 25,000 gp
 
-### Mass Appeal [TS]
+### Mass Appeal
 
 **Aura** faint variable; **CL** 3rd
 **Slot** any; **Price** 18,000 gp; **Weight** 2 lbs.
@@ -278,7 +278,7 @@ A trilithon’s base price is equal to the total cost of the three menhir that m
 **Construction Requirements**
 Craft Implement Of Power, any base sphere; **Cost** 2,500 gp (+1), 10,000 gp (+2), 22,500 gp (+3), 40,000 gp (+4), 62,500 gp (+5) gp
 
-### Murderer’s Wand [TS]
+### Murderer’s Wand
 
 **Aura** strong Death; **CL** 15th
 **Slot** slotless; **Price** 98,000 gp; **Weight** 1 lb.
@@ -288,7 +288,7 @@ The murderer’s wand is a slender stick usually made of bone and must be held t
 **Construction Requirements**
 Craft Implement Of Power, Death sphere (Killing Curse); **Cost** 49,000 gp
 
-### Negater [TS]
+### Negater
 
 **Aura** faint Protection; **CL** 3rd
 **Slot** slotless; **Price** 18,000 gp; **Weight** 3 lbs.
@@ -298,7 +298,7 @@ Negaters are usually simple black spheres carved with runes that help repel magi
 **Construction Requirements**
 Craft Implement Of Power, Protection sphere (Spell Ward (aegis, ward)); **Cost** 9,000 gp
 
-### Rainbows Bright [TS]
+### Rainbows Bright
 
 **Aura** faint Light; **CL** 3rd
 **Slot** slotless; **Price** 18,000 gp; **Weight** 3 lbs.
@@ -308,7 +308,7 @@ Rainbow’s bright are long cylinders, usually made of wood or metal, with a cir
 **Construction Requirements**
 Craft Implement Of Power, Light sphere (Disorienting Patterns (light)); **Cost** 9,000 gp
 
-### Reanimator’s Shawl [TS]
+### Reanimator’s Shawl
 
 **Aura** faint Death; **CL** 3rd
 **Slot** shoulders; **Price** 18,000 gp; **Weight** 3 lbs.
@@ -318,7 +318,7 @@ Reanimator’s shawls often take the form of torn or ragged cloaks designed to b
 **Construction Requirements**
 Craft Implement Of Power, Death sphere (Greater Reanimate); **Cost** 9,000 gp
 
-### Runewrap [TS]
+### Runewrap
 
 **Aura** faint Enhancement; **CL** 6th
 **Slot** wrists; **Price** 32,000 gp; **Weight** 1 lb.
@@ -328,7 +328,7 @@ Runewraps are +2 Enhancement implements with the Energy Weapon (enhance) talent,
 **Construction Requirements**
 Craft Implement Of Power, Enhancement sphere (Energy Weapon (enhance)); **Cost** 16,000 gp
 
-### Searchglobe [TS]
+### Searchglobe
 
 **Aura** faint Divination; **CL** 3rd
 **Slot** slotless; **Price** 18,000 gp; **Weight** 1 lb.
@@ -338,7 +338,7 @@ Searchglobes are +1 Divination implements that look much like crystal balls, but
 **Construction Requirements**
 Craft Implement Of Power, Divination sphere (Expanded Divinations); **Cost** 9,000 gp
 
-### Staff of Annihilation [TS]
+### Staff of Annihilation
 
 **Aura** moderate Destruction and strong All; **CL** 9th (Destruction), 15th (All)
 **Slot** none; **Price** 135,000 gp; **Weight** 5 lbs.
@@ -348,7 +348,7 @@ This +3 Destruction implement contains the Sculpt Blast (blast shape) talent, al
 **Construction Requirements**
 Craft Implement Of Power, Craft Apparatus, Maximize Spell, Destruction sphere (Sculpt Blast (blast shape)); **Cost** 67,500 gp
 
-### Staff of Boldness [TS]
+### Staff of Boldness
 
 **Aura** moderate Mind and Untyped; **CL** 10th
 **Slot** none; **Price** 33,000 gp; **Weight** 4 lbs.
@@ -369,7 +369,7 @@ The staff of great control is carved from cherrywood and is adorned with a perfe
 **Construction Requirements**
 Craft Implement Of Power, Conjuration sphere, Death sphere; **Cost** 16,000 gp
 
-### Staff Of Prismatic Light [TS:WAT]
+### Staff Of Prismatic Light
 
 **Aura** moderate Illusion and Light; **CL** 6th
 **Slot** none; **Price** 37,000 gp; **Weight** 3 lbs.
@@ -411,7 +411,7 @@ Additionally, the invisible servant has a terrible attitude, and will subtly moc
 **Construction Requirements**
 Craft Implement Of Power, Conjuration sphere, Illusion sphere (Suppression (glamer)); **Cost** 9,000 gp
 
-### Unseen Reacher [TS]
+### Unseen Reacher
 
 **Aura** faint Telekinesis; **CL** 3rd
 **Slot** ring; **Price** 18,000 gp; **Weight** 1 lb.
@@ -421,7 +421,7 @@ Unseen reachers are +1 Telekinesis implements with the Increased Range talent, o
 **Construction Requirements**
 Craft Implement Of Power, Telekinesis sphere (Increased Range [range]); **Cost** 9,000 gp
 
-### Warmage’s Staff [TS]
+### Warmage’s Staff
 
 **Aura** strong War; **CL** 12th
 **Slot** none; **Price** 98,000 gp; **Weight** 8 lbs.
@@ -431,7 +431,7 @@ The warmage’s staff is a long, heavy metal pole suitable for use as a club. Wh
 **Construction Requirements**
 Craft Implement Of Power, War sphere; **Cost** 49,000 gp
 
-### Weather Vane, Greater [TS]
+### Weather Vane, Greater
 
 **Aura** faint Weather; **CL** 3rd
 **Slot** slotless; **Price** 18,000 gp; **Weight** 1 lb.
@@ -441,7 +441,7 @@ Originally created as a joke with the form of a weather vane indicating the dire
 **Construction Requirements**
 Craft Implement Of Power, Weather sphere (Greater Size [range]); **Cost** 9,000 gp
 
-### Windowmakers [TS]
+### Windowmakers
 
 **Aura** faint Creation; **CL** 3rd
 **Slot** ring; **Price** 18,000 gp; **Weight** 1 lb.
@@ -451,7 +451,7 @@ Windowmakers are +1 Creation implements with the Transparency (alter) talent, of
 **Construction Requirements**
 Craft Implement Of Power, Creation sphere (Transparency (alter)); **Cost** 9,000 gp
 
-### Wizard’s Foe [TS]
+### Wizard’s Foe
 
 **Aura** strong Mana; **CL** 9th
 **Slot** none; **Price** 50,000 gp; **Weight** 2 lbs.
@@ -461,7 +461,7 @@ Wizard’s foes are +3 Mana implements with the Ignition (expunge) talent, which
 **Construction Requirements**
 Craft Implement Of Power, Mana sphere (Ignition (expunge)); **Cost** 25,000 gp
 
-### Wizard’s Foe, Greater [TS]
+### Wizard’s Foe, Greater
 
 **Aura** strong Mana and Untyped; **CL** 15th
 **Slot** none; **Price** 218,000 gp; **Weight** 2 lbs.
@@ -475,7 +475,7 @@ Craft Implement Of Power, Mana sphere (Ignition (expunge)); **Cost** 109,000 gp
 
 # Artifact Implements
 
-### Cantonyan Spring (Major Artifact) [Catgirl HB]
+### Cantonyan Spring (Major Artifact)
 
 Long ago, a powerful demon forged this staff with a portion of its being, hoping to convert their servants in their image. The staff worked too well, as the demon found themselves placed under the staff ’s own magics before the staff was lost to great wars and strife. The legend of the staff warns that the four-legged fiend stalks the shadows in search of this item, seeking to break its influence.
 
@@ -498,7 +498,7 @@ If reunited with the staff, the demon will speak an ancient word of power, causi
 
 # Mythic Implements
 
-### Paradoxes For Commoners [MCS]
+### Paradoxes For Commoners
 
 **Aura** moderate Mind; **CL** 12th
 **Slot** none; **Price** 128,000 gp; **Weight** 4 lbs.
@@ -506,7 +506,7 @@ This brightly-covered, friendly-looking book contains a series of mind-shatterin
 **Construction Requirements**
 Craft Implement Of Power, Mythic Crafter, Mind sphere (Confusion (charm), Insanity (advanced, mind)); **Cost** 64,000 gp
 
-### Rules Of Mana [MCS]
+### Rules Of Mana
 
 **Aura** strong Mana; **CL** 20th
 **Slot** none; **Price** 200,000 gp; **Weight** 6 lbs.
@@ -554,7 +554,7 @@ This special ability may only be applied to any handheld magic item, including w
 
 **Aura** faint Telekinesis; **CL** 5th; Craft Implement Of Power or Smith Magical Weapons And Armor, Telekinesis sphere (Whirlwind Assembly); **Cost** +500 gp
 
-### Bloodhound [Gravecaller's HB]
+### Bloodhound
 
 This special ability may only be applied to a Blood sphere implement.
 
@@ -638,7 +638,7 @@ This Protection implement gives its wielder a circumstance bonus to AC equal to 
 
 **Aura** faint Protection; **CL** 10th; Craft Implement Of Power, Protection sphere; **Cost** +2 bonus
 
-### Informing [DRS]
+### Informing
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -656,7 +656,7 @@ An item can gain this enhancement multiple times, choosing an additional sphere 
 **Construction**
 Requirements Craft Implement Of Power or Smith Magical Weapons And Armor, Divination or Enhancement sphere
 
-### Macabre [Gravecaller's HB]
+### Macabre
 
 This special ability may only be applied to a Death sphere implement.
 
@@ -690,7 +690,7 @@ Shifting the gaze attack to a greater charm costs 1 spell point, and the effect 
 
 **Aura** faint Mind; **CL** 9th; Craft Implement Of Power, Mind sphere (Mass Charm, Project Thoughts (charm)); **Cost** +3 bonus
 
-### Reaving [Gravecaller's HB]
+### Reaving
 
 This special ability may only be applied to a Death sphere implement.
 
@@ -700,7 +700,7 @@ The negative energy damage caused by a greater reaving implement festers as curs
 
 **Aura** faint Death; **CL** 6th (normal), 11th (greater); Craft Implement Of Power, Death sphere (Killing Curse); **Cost** +1 bonus (normal), +3 bonus (greater)
 
-### Sanguine [Gravecaller's HB]
+### Sanguine
 
 This special ability may only be applied to a Blood sphere implement.
 
@@ -710,7 +710,7 @@ In addition, whenever the wielder of a sanguine implement fails a Diplomacy chec
 
 **Aura** moderate Blood; **CL** 10th; Craft Implement Of Power, Blood sphere; **Cost** +1 bonus
 
-### Specialized [Alienist HB]
+### Specialized
 
 A specialized implement is more powerful against a specific category of targets. Choose either objects or a single creature type from the ranger’s favored enemy list. Against targets of the chosen type, the saving throw DCs of any effect whose caster level is improved by the implement’s caster level bonus increases by 1.
 

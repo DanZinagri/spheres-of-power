@@ -33,7 +33,7 @@ You may only make a destructive blast of a single shape. You must select a (blas
 
 **Incompatible:** Destructive Touch
 
-#### Uncontrolled Blaster [Alienist HB]
+#### Uncontrolled Blaster
 
 You gain the Erratic Blast (blast type) talent. You can only use the Erratic Blast (blast type) talent. Note that this drawback uses an advanced talent and should be used at GM discretion.
 

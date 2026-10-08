@@ -25,7 +25,7 @@ Some War talents do not provide a static benefit to allies, but instead provide 
 
 A War caster can concentrate to maintain a mandate, or can spend a spell point to make it last 1 minute per level. A mandate only works while the two sharing the mandate are within medium range of each other, and both are conscious and able to act. A creature can be part of multiple mandates with the same or different creatures, but can not be a member of the same mandate type talent multiple times.
 
-# Totem [Core]
+# Totem
 
 As a standard action, you may place a totem. A totem is an effect on a 50 ft + 5 ft per 2 caster level radius area, centered on you, but does not move as you do. Creatures who leave this area lose the effects of your totem. You must concentrate to maintain a totem, but may always spend a spell point as a free action to allow a totem to remain for 1 round per caster level without concentration.
 
@@ -33,7 +33,7 @@ You must remain within Long range of the center of your totems when maintaining 
 
 When you gain the war sphere, you gain the following totem:
 
-#### Totem of War [Core]
+#### Totem of War
 
 You and your allies gain a +2 circumstance bonus to all weapon damage rolls. This bonus increases by 1 for every 5 caster levels.
 
@@ -47,7 +47,7 @@ Some talents are marked (mandate) and grant you ways of creating mandates, as de
 
 Some talents are marked (momentum) and grant you methods of using a momentum pool, as described above.
 
-# Rally [Core]
+# Rally
 
 Some talents are marked (rally) and grant you methods of rallying targets. Rallying a target is an immediate action, and may only be used on a target within the area of effect of one of your totems. You must be within Long range of a target to rally that target.
 
@@ -83,7 +83,7 @@ When you create a totem, you may designate a type or subtype of creature (using 
 
 You may rally any ally within 30 ft. of you even without a totem in place, and you can always rally yourself.
 
-#### Greater Rally [Core]
+#### Greater Rally
 
 When rallying a target, you may spend an extra spell point to rally up to 1 additional creature per 2 caster levels (minimum: 1). You must affect every selected creature with the same rally.
 
@@ -99,7 +99,7 @@ When you cease concentrating on a totem or mandate effect, you may choose to hav
 
 When you use a mind-affecting ability against an enemy that is within the area of one of your totems, the DC to resist increases by +2. This includes sphere abilities, but not the abilities of the totem itself or any other totem it might overlap areas with.
 
-#### Ranged Totem [Core]
+#### Ranged Totem
 
 When placing a totem, you may center it anywhere within Close range. You may select this talent multiple times. Each time it is taken, increase the range by one range increment (Close to Medium, Medium to Long).
 
@@ -219,7 +219,7 @@ When an ally hits an enemy with a weapon attack with a natural roll of 16 or gre
 
 # Rally Talents
 
-#### Absorb (rally) [Core]
+#### Absorb (rally)
 
 When an enemy deals damage to an ally within the area of effect of one of your totems, you may spend a spell point to transfer half of this damage to another ally within the area of effect of one of your totems. This damage cannot be reduced or divided further.
 
@@ -243,19 +243,19 @@ You may spend a spell point to rally an ally, allowing them to reroll an attack 
 
 You may spend a spell point to rally a target, allowing them to swap positions with an adjacent ally. This does not draw attacks of opportunity. Both allies must be capable of movement for this to work, even if they can only crawl. If this is done in response to an attack, then the target of the attack changes to the other ally.
 
-#### Position (rally) [Core]
+#### Position (rally)
 
 You may spend a spell point to rally a target, allowing it to immediately move up to 5 ft per 2 caster levels (minimum: 5 ft). This movement does not provoke attacks of opportunity and must end within the area of effect of one of your totems.
 
-#### Retribution (rally) [Core]
+#### Retribution (rally)
 
 When an enemy deals damage to an ally and both ally and enemy are within the area of effect of one of your totems, you may spend a spell point to deal 1d6 damage to the attacker for every 2 caster levels you possess (minimum: 1d6). This damage may be either acid, electricity, cold, or fire.
 
-#### Revitalize (rally) [Core]
+#### Revitalize (rally)
 
 You may spend a spell point to rally a target, allowing them to reroll a saving throw they just failed. They must take the second result, even if it is worse.
 
-#### Safety (rally) [Core]
+#### Safety (rally)
 
 When a target confirms a critical hit against a target within one of your totems, you may spend a spell point to cause that critical hit to resolve as a normal hit instead.
 
@@ -271,7 +271,7 @@ You may spend a spell point to rally an ally, allowing them to use a combat mane
 
 You must spend a spell point to create an absolute totem. Within this totem, the weapons, armor and equipment allies are wearing or carrying receive a bonus to their hardness equal to your caster level. While using these weapons, allies receive a +1 competence bonus to sunder attempts. This increases by +1 for every 5 caster levels, and whenever an enemy strikes them with a melee attack using a manufactured weapon, they may attempt to sunder their opponent’s weapon as an immediate action.
 
-#### Blood Totem (totem) [Core]
+#### Blood Totem (totem)
 
 You may spend a spell point to create a blood totem. Whenever an enemy within this totem’s area deals damage to an ally within this totem’s area, the damage roll is reduced by 1 (to a minimum of 0), and the attacker takes 1 damage that bypasses all damage resistance. The damage reduced and the damage dealt by this totem increases by 1 for every 5 caster levels you possess.
 
@@ -291,7 +291,7 @@ You must spend a spell point to create a gyroscopic totem. Gravitational fluctua
 
 In addition, at the end of any movement with a total distance greater than 5 ft., the creature must make a Reflex save or fall prone. If the creature has more than 2 legs, it gains a +1 bonus to this saving throw for each additional leg, and creatures that are flying, crawling, swimming, or burrowing are unaffected, as are creatures that are not affected by gravity, such as incorporeal creatures. Teleporting creatures do not draw attacks of opportunity because of this totem.
 
-#### Hallowed Totem (totem) [Core]
+#### Hallowed Totem (totem)
 
 All creatures within the area of this totem suffer a -1 penalty to saving throws made to resist channeled positive energy and positive energy effects such as cure spells and Life sphere effects. This penalty increases by 1 for every 10 caster levels. If you place an hallowed totem in a location that already has a unhallowed totem present, you must succeed at a magic skill check to place your totem. On a success, the two totems cancel each other, leaving neither hallowing totem nor unhallowed totem in place.
 
@@ -299,7 +299,7 @@ All creatures within the area of this totem suffer a -1 penalty to saving throws
 
 Enemies within this totem must make a Will save, or become distracted by hallucinations at the edge of their perception. If they fail, any of the caster’s allies threatening them are considered to be flanking them. This lasts as long as are in the totem, ends if they leave the totem, and resumes if they reenter the totem. They do not get a new saving throw if the leave and then reenter the totem area. This is a mind-affecting illusion (phantasm) effect, and creatures with blindsense or blindsight automatically pass their saving throw.
 
-#### Invigorating Totem (totem) [Core]
+#### Invigorating Totem (totem)
 
 You and your allies gain 1 temporary hit point, +1 temporary hit point every subsequent round at the end of your turn. These temporary hit points stack with themselves, to a maximum number of temporary hit points equal to your caster level. These temporary hit points only remain as long as you remain within the area of effect of this totem.
 
@@ -315,7 +315,7 @@ This totem’s effects apply to summoned (but not called) creatures, mindless cr
 
 This totem ignores spell resistance, spell immunity or any other effect that would render a creature invulnerable, as it is the interaction that is affected by the totem, not the creature itself.
 
-#### Scourging Totem (totem) [Core]
+#### Scourging Totem (totem)
 
 This totem emits pulses of energy, damaging every enemy within your totem’s range for an amount per round equal to 1/2 your caster level (minimum: 1). This damage may be acid, electricity, cold, or fire, as chosen when the totem is created. Creatures who enter the area of effect of this totem suffer damage immediately. Creatures who remain within the area of this totem suffer damage each round at the end of your turn.
 
@@ -327,13 +327,13 @@ When you activate this totem, choose a teamwork feat you possess. Allies within 
 
 You must spend a spell point in order to create a taking totem. Whenever a creature is subjected to a negative energy effect that causes them to regain or lose hit points (but not temporary hit points granted or ability damage dealt) the number of hit points gained or lost increases by your caster level or the original value, whichever is less.
 
-#### Totem of Allegiance (totem) [Core]
+#### Totem of Allegiance (totem)
 
 You may spend a spell point to create a totem that aids creatures of a particular alignment. Choose an end of the alignment spectrum (good, evil, lawful, or chaotic) when you create this totem. Creatures within the area of this totem who possess that alignment gain a +1 bonus to all saving throws and attack rolls. This bonus increases by 1 per 10 caster levels.
 
 You must select an alignment that you possess. If you are True Neutral, you may select neutrality with this totem. This only benefits True Neutral creatures; Neutral Good, Neutral Evil, Lawful Neutral, and Chaotic Neutral creatures are unaffected.
 
-#### Totem of Courage (totem) [Core]
+#### Totem of Courage (totem)
 
 You must spend a spell point to create a totem of courage. You and your allies gain a +1 morale bonus to attack rolls and saves vs fear. The bonus to attack rolls increases by 1 for every 10 caster levels you possess, and the bonus to saves vs fear increases by 1 for every 5 caster levels you possess.
 
@@ -341,13 +341,13 @@ You must spend a spell point to create a totem of courage. You and your allies g
 
 Your allies gain a +4 competence bonus to concentration. This increases by +1 for every 5 caster levels you possess. When you create this totem, you may spend a spell point. If you do, the bonus applies not only to concentration rolls, but spell penetration rolls as well.
 
-#### Totem of Doom (totem) [Core]
+#### Totem of Doom (totem)
 
 You must spend a spell point to place a totem that causes all enemies in the area to become shaken (no save). This effect lasts as long as they remain within the totem’s effect area. The effects of this totem are not cumulative with itself or other sources of fear.
 
 You may take this talent a total of three times. If taken twice, your totem of doom becomes cumulative; if a creature comes into contact with your totem of doom who is already shaken from another effect, the effect of your totem of doom is changed to frightened for that specific creature. If you gain this talent three times, a creature who comes into contact with your totem of doom who is already frightened from another effect becomes panicked. Multiple totems of doom do not stack with each other for this purpose.
 
-#### Totem of Enemies (totem) [Core]
+#### Totem of Enemies (totem)
 
 You may spend a spell point to create a totem that hinders creatures of a particular alignment. Choose an end of the alignment spectrum (good, evil, lawful, or chaotic) when you create the totem. Creatures within the area of this totem who possess that alignment suffer a -1 penalty to all saving throws and attack rolls. This penalty increases by 1 per 10 caster levels. You must select an alignment that you do not possess. If you are Lawful Good, Lawful Evil, Chaotic Good, or Chaotic Evil, you may select True Neutral with this totem.
 
@@ -365,15 +365,15 @@ You must spend a spell point to create a totem of insanity. Enemies within this 
 
 Leaving the totem causes the effect to end for a creature, but re-entering it causes the effect to resume if they have not yet made a successful saving throw. The effects of this totem are a mind-affecting, compulsion effect.
 
-#### Totem of Iron (totem) [Core]
+#### Totem of Iron (totem)
 
 You may spend a spell point to create a totem of iron. This grants you and your allies a +1 natural armor bonus. This bonus increases by +1 for every 10 caster levels you possess.
 
-#### Totem of Liberation (totem) [Core]
+#### Totem of Liberation (totem)
 
 You may spend a spell point to create a totem of liberation. You and your allies gain a +1 insight bonus against all mind-altering effects, enchantment (charm) effects, enchantment (compulsion) effects, and Mind sphere abilities. This bonus increases by 1 for every 5 caster levels you possess.
 
-#### Totem of Mobility (totem) [Core]
+#### Totem of Mobility (totem)
 
 You may spend a spell point to create a totem of mobility. As a swift action, allies within this area may make a 5 ft step. This is in all ways similar to a normal 5 ft step, except this does not prohibit them from taking their usual 5 ft step, nor using a move action to move normally.
 
@@ -385,15 +385,15 @@ You must spend a spell point to create a totem of screaming skin. Enemies within
 
 You and your allies can share perception, seeing through each other’s eyes and hearing through each other ears. Anything visible or noticed by one is also perceived by everyone else, including with special senses such as blindsense or scent. This can prevent a character from being surprised. If any ally within the totem successfully saves versus an illusion effect, then everyone else automatically passes their saving throw as well, even if they previously failed. This totem does not prevent allies from being flanked.
 
-#### Totem of Speed (totem) [Core]
+#### Totem of Speed (totem)
 
 You and your allies gain a +5 bonus to all movement speeds, + 5 ft per 5 caster levels.
 
-#### Totem of Stability (totem) [Core]
+#### Totem of Stability (totem)
 
 You and your allies gain a +2 bonus to CMD. This bonus increases by +1 for every 5 caster levels you possess.
 
-#### Totem of Stumbling (totem) [Core]
+#### Totem of Stumbling (totem)
 
 All enemies suffer a -2 penalty to their CMD. This penalty increases by 1 for every 5 caster levels.
 
@@ -401,7 +401,7 @@ All enemies suffer a -2 penalty to their CMD. This penalty increases by 1 for ev
 
 Allies within this totem do not take hit point damage from attacks, spells, or abilities of other allies within this totem, and may choose to automatically pass any saving throws vs the abilities of allies within the totem.
 
-#### Totem of Tactical Prowess (totem) [Core]
+#### Totem of Tactical Prowess (totem)
 
 Whenever you or your allies would gain a bonus to attack rolls or to AC due to battlefield positioning, such as flanking, higher ground, or cover, that bonus is increased by 1, +1 per 5 caster levels.
 
@@ -421,7 +421,7 @@ You must spend a spell point to create a totem of the war dance. You and your al
 
 The area of your totem is filled with quiet voices that distract and unnerve your enemies. Enemies take a -1 penalty to their concentration checks and Perception checks involving listening. This increases by -1 for every 2 caster levels you possess. This does not work against deaf enemies, or enemies in an environment where it is difficult to hear. The whispers also interfere with using abilities that require speaking - such an ability has a 20% chance of failing when used, even if the user is deaf. Whenever a creature uses such an ability, they can attempt a Perform (oratory) or similar Perform check with a DC of 20 to negate this effect.
 
-#### Unhallowed Totem (totem) [Core]
+#### Unhallowed Totem (totem)
 
 All creatures within the area of this totem suffer a -1 penalty to saving throws made to resist channeled negative energy and negative energy effects such as inflict spells and Death sphere effects. This penalty increases by 1 for every 10 caster levels. If you place an unhallowed totem in a location that already has a hallowed totem present, you must succeed at a magic skill check to place your totem. On a success, the two totems cancel each other, leaving neither hallowed totem nor unhallowed totem in place.
 

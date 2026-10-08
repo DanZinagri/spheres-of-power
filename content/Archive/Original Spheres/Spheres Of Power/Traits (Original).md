@@ -31,7 +31,7 @@ parent: "[[Original Spheres]]"
 
 **Benefit:** You may always use an immediate action to rally yourself, if you have one.
 
-#### Strangely Resistant (Combat) [Abj. HB]
+#### Strangely Resistant (Combat)
 
 **Benefit:** Choose a sphere. You gain a +2 trait bonus to all saving throws vs the effects of that sphere.
 
@@ -69,7 +69,7 @@ You can use a hint of teleportation magic to instantly change clothes. As a swif
 
 **Benefit:** Gain a +1 trait bonus to CL when using talents and abilities from the Divination, Mind and Telekinesis spheres. This increase in caster level may not raise your caster level over your hit dice. In addition, as a member of good standing with the psychic community, you may attend, if not participate in occult rituals or incantations as a secondary caster or performer.
 
-#### Defender of the Faith (Faith) [Abj. HB]
+#### Defender of the Faith (Faith)
 
 **Prerequisite:** You must openly belong to a publicly known religious organization.
 
@@ -327,7 +327,7 @@ You have traces of fey blood in your veins, granting you an affinity for fey mag
 
 **Benefit:** You may use Charisma in place of Wisdom when you use your Heal skill, and Heal is always a class skill for you.
 
-#### Guardian of the Real (Social) [Abj. HB]
+#### Guardian of the Real (Social)
 
 **Benefit:** You gain a +2 trait bonus to Knowledge (planes) to identify monsters. The Knowledge (planes) skill is always a class skill for you.
 

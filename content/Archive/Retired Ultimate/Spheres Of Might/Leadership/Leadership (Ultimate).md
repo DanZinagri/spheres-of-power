@@ -228,7 +228,7 @@ You may recruit 1 Hit Die cohorts from your followers. You may recruit a number 
 
 Increase the total Hit Dice of creatures you may have recruited at once by an additional 1 per rank of Diplomacy you possess. This has no effect on the maximum Hit Dice of a given cohort. You may select this talent up to 3 times.
 
-#### Master’s Instruction (cohort, stance) [Youxia HB]
+#### Master’s Instruction (cohort, stance)
 
 While in this stance, whenever you damage a creature with an attack action or attack of opportunity, you may expend an attack of opportunity to use the aid another action targeting a cohort with close range (25 feet + 5 feet per 2 ranks in Diplomacy) as a free action that can be taken even outside of your turn. The aid another action increases the attack roll of their next attack directed at the creature damaged by you as long as that attack comes before the beginning of your next turn.
 
@@ -520,7 +520,7 @@ Your caravan is equipped with flying beasts, airships, arcane levitation, or oth
 
 **Special:** The prerequisite ranks in Diplomacy may be reduced based on how common flight is in the setting. In the Skybourne setting, for example, flight is common and airships are ubiquitous, so the Diplomacy prerequisite can be ignored entirely.
 
-#### Alien Connections [Alienist HB]
+#### Alien Connections
 
 **Prerequisite:** Leadership sphere.
 
@@ -568,7 +568,7 @@ Attempting to make the creature perform an obviously suicidal action automatical
 
 Once per kingdom turn, you may form an army. This army has an ACR equal to your ranks in Diplomacy - 2 and has a racial composition similar to your followers. Forming this army costs 0 build points and it has a consumption of 0. This army gains a +4 bonus on morale checks when your are acting as its commander. This talent may only grant you a single army at a time; using it again causes any previously raised armies to disperse. The army comes equipped with basic melee weapons; other resources may be purchased normally.
 
-#### Friends In High Places (Cohort) [Apoc]
+#### Friends In High Places (Cohort)
 
 *Source: [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)*
 
@@ -621,7 +621,7 @@ Your caravan can meet you in any location on any plane within 1d4 days. This doe
 
 If you possess the Messengers talent, your messengers can reach any location on any plane and return within 1d4 days. If you possess both Messengers and Merchants, your messengers can be sent to obtain items from anywhere in the planes. You do not need to roll for availability; if it is available for purchase anywhere in the planes it will be bought and brought to you.
 
-#### Strange Bedfellows (Cohort) [Apoc]
+#### Strange Bedfellows (Cohort)
 
 *Source: [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)*
 
@@ -637,7 +637,7 @@ Your followers are capable of performing rituals, borrowing spell-casting servic
 
 If you possess the Messengers talent, your messengers can reach any location on the same plane and return within 1d4 days. If you possess both Messengers and Merchants, your messengers can be sent to obtain items from anywhere on the plane. You do not need to roll for availability; if it is available for purchase anywhere on the plane it will be bought and brought to you.
 
-#### Two Day Shipping [utility] [Jester's HB]
+#### Two Day Shipping [utility]
 
 **Prerequisites:** Leadership sphere (Messengers (followers)).
 

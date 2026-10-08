@@ -41,7 +41,7 @@ Several abilities are usable once per term or once per level, with the character
 
 **Prestige Awards:** Prestige Awards are benefits supplied by the organization that may be purchased using Prestige Points. Prestige Awards may be permanent benefits or one-time actions.
 
-Additional statistics from below may be incorporated [DRS]
+Additional statistics from below may be incorporated
 
 **Creed and Focus:** Each magical organization has a creed or focus, usually its statement of purpose, a philosophical decree, or its general goals, such as defeating a certain foe, researching a topic, protecting and serving an organization or county, and so on. A magical organization’s creed and focus may also be similar to a code of honor or service, similar to a paladin’s oath.
 
@@ -53,7 +53,7 @@ Additional statistics from below may be incorporated [DRS]
 
 **Promotions:** Some magical organizations may require a task to be completed to exceed a Fame threshold. Succeeding on this task may come with a minor title to indicate the additional benefits associated with the Fame threshold (i.e. slaying a dragon that is an adult or older to become a respected member of a dragonslayer cult, or completing a ritual to join the inner circle of a coven). Not all organizations require promotions.
 
-# Organization Membership [DRS]
+# Organization Membership
 
 ## Joining an Organization
 
@@ -75,7 +75,7 @@ Once a character leaves an organization, they can no longer spend Prestige Point
 
 Certain other penalties or dangers may fall upon those who repeatedly fail the organization. Evil organizations might send out agents to eliminate failed members.
 
-## Rejoining a Magical Organization [DRS]
+## Rejoining a Magical Organization
 
 Rejoining a magical organization requires a Diplomacy check, with a DC initially set to 20 + the character’s current Fame with the organization (maximum 20 + 2-times character level). This Diplomacy check DC may be modified (up or down by GM discretion) depending on the circumstances the character left the organization, potentially even waiving this check, see examples below. The check to rejoin a magical organization may only be attempted as frequently as the organization recruits.
 
@@ -124,7 +124,7 @@ Though far from universal, it is common for organizations to provide training fo
 
 Sometimes situations should take into account the Fame values of multiple characters. This usually occurs when all the PCs continually operate as a single entity, such as King Arthur’s Knights of the Round Table, Robin Hood’s Merry Men, or Captain Kidd’s pirate crew. Instead of the Fame of individuals contributing to the Fame of a group, a group like this develops its own Fame; if you are a member of that group, you use its Fame instead of your own. If you and your allies are part of such a group, the Fame rules work the same, except the GM only tracks one Fame value for the entire group instead of individual values for each PC; each character’s actions that would increase or decrease the Fame contribute to that score. You still gain and spend your own Prestige Points, but use the group’s Fame for everything else. Actions that earn Prestige Points for multiple members only contribute once toward the group’s Fame.
 
-### Game Pacing and Granting Fame [DRS]
+### Game Pacing and Granting Fame
 
 The rules for gaining Fame are generally intended for a “grand scale” campaign where there is time to join and gradually participate between tasks. Many games may have different or faster pacing (starting at a higher level, being on a shorter timetable, and so on). The following are suggestions in these cases:
 
@@ -218,7 +218,7 @@ The following types of Prestige Awards can be provided by any type of organizati
 - **Unexpected Reciprocation (1 PP):** Your time with the organization has provided you insight through overheard conversations or local rumors You gain a +4 luck bonus on a single skill check. You must use this award before you attempt the check in question.
 - **Well-Connected (2 PP):** For 24 hours, the character gains the benefits of a single Faction sphere talent they do not possess. A character must possess the Faction sphere to use this Prestige Award. The talents that can be granted depend on the organization. Typically, there are between two and five distinct bonus talents that an organization is capable of granting.
 
-#### Spellcasting Award Statistics [DRS]
+#### Spellcasting Award Statistics
 
 - **Spell Level and Caster Level:** If an award emulates a spell, it's spell level is the same for a normal spell of its kind (i.e. protection from evil would still be a 1st level spell), but the caster level of the spell is equal to 1/2 your Fame with the organization (minimum equal to the minimum caster level normally required for the spell, to a maximum caster level of 20).
 - **Saving Throws:** If an award would require a saving throw (such as by creating a spell effect that has a saving throw), the saving throw DC is equal to 10 + 1/2 your Fame with the organization, maximum DC 30.
@@ -248,7 +248,7 @@ Presented below are several other custom Prestige Award options that organizatio
 - **Quiet Passage (10 Fame, 5 PP):** You secure anonymous passage between any two locations friendly to the organization. This takes the same amount of time as normal travel.
 - **Virtuoso (50 Fame, 10 PP):** You have become a diva, idol, or star performer, or otherwise achieved a level of fame that even your fellow performers are jealous of. Your self-confidence gives you a permanent +2 morale bonus on all Will saving throws against mind-affecting effects. Your reputation has the effect of the Social Clout talent of the Faction sphere on NPCs you meet who live in or frequent a settlement where you have performed in the past year. At the GM’s discretion, a character with a special interest in your manner of performance is automatically two steps friendlier to you.
 
-# Organizations and Other Options [DRS]
+# Organizations and Other Options
 
 This section contains a number of new options to synergize
 with other subsystems, feats, and rules.
@@ -267,7 +267,7 @@ Members with the Faction sphere can more easily use some of the features of the 
 
 ---
 
-# Sample Magical Organizations [DRS]
+# Sample Magical Organizations
 
 *Source: Diamond Spheres: Magical Organizations*
 

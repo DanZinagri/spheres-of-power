@@ -177,7 +177,7 @@ Gizmos you craft require a free hand to activate or use their functions (or othe
 
 **Normal:** Activating or using a gizmo is a physical action (unless otherwise stated) requiring the user to be capable of physical actions (i.e. not paralyzed, stunned, etc.), but does not require a free or empty hand.
 
-### Highest Quality Materials [DRS]
+### Highest Quality Materials
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 **Prerequisite:** Expensive Craft
@@ -186,7 +186,7 @@ Instead of the normal effects of expensive craft, gizmos you craft require 1 gol
 
 Projects still require 25% increased material costs that must be paid for normally (and cannot be gathered over time like project materials ordinarily can be).
 
-### Implant Requisite [DRS]
+### Implant Requisite
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 Your non-project, non-battery gizmos must be implanted to be activated or use their effects.
@@ -251,7 +251,7 @@ Your activated gizmos automatically break a creature’s stealth (and prevent th
 
 Choose one of the following conditions: darkness or bright light, a specific terrain (see the ranger’s favored terrain class feature), a suitable body of water, a certain altitude or depth, or with other conditions available at GM discretion. The Tinker practitioner may only craft their gizmos while in the chosen condition, and the chosen condition must be present for the entire crafting process.
 
-### Passive Draw [DRS]
+### Passive Draw
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
@@ -309,7 +309,7 @@ This ability does not allow your gizmos to be awakened, modified like a normal c
 
 **Example:** A practitioner with Adapted Biology (plant) would have gizmos that possess the immunities of the plant creature type, but are now also susceptible to effects that harm such creatures (such as the horrid wilting spell, and similar).
 
-### Bionic Expert [DRS]
+### Bionic Expert
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
@@ -353,7 +353,7 @@ Your gizmos are immune to any harmful effects of their environmental dependency 
 
 The nature of the mechanism lends itself to faster production. A Tinker practitioner with this boon crafts 1 additional gizmo, +1 per 4 ranks in the associated skill whenever they craft and maintain their gizmos.
 
-### Graduated With Honors [DRS]
+### Graduated With Honors
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 *You worked hard for your double major in civil engineering and applied psychology.*
@@ -459,7 +459,7 @@ The Tinker tradition subsystem is a tool that is meant to be used by GMs to crea
 
 A so-called “exotic” Tinker tradition is a design space to break rules, in either a minor of major way. This can include creating entirely new Tinker drawbacks, unusually high requirements, or conditions or restrictions that were not normally offered, such as the good-aligned vulnerability of the Daemon Ex Machina tradition, but can offer extreme variances such as requiring class resources (such as ki or panache), unique focuses, consuming magic items, animating all gizmos as lesser *mechanoids*, and so on - as the GM desires.
 
-#### Cybernetic Punk [DRS]
+#### Cybernetic Punk
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
@@ -496,7 +496,7 @@ Characters can maintain their gizmos and do not need the Particular Workspace to
 **Associated Skill:** Craft (technological).
 **Suggested Package Bans:** None. Mad science creations cover a massive scope of inventions and technological purpose. While it might be dangerous to use, or pose risks to the user, mad science creations are dangerously competent.
 
-#### Planar Attuned [DRS]
+#### Planar Attuned
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
@@ -519,7 +519,7 @@ Characters can maintain their gizmos and do not need the Particular Workspace to
 | Fire (Ignitech) | Fire (Cold) | Cold Weather, Fog and Mist, Water |
 | Water (Aquatech) | Cold (Fire) | Heat, Hot Weather, Smoke |
 
-#### Technologic Wonder [DRS]
+#### Technologic Wonder
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 

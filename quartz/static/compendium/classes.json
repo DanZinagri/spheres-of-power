@@ -1602,40 +1602,6 @@
    "caster": "none",
    "levels": 5,
    "complete": true
-  },
-  {
-   "name": "Alternate Justicar (Prestige Class) [3PP]",
-   "system": "Spheres",
-   "group": "Prestige Classes",
-   "prestige": true,
-   "url": "Champions/Alternate-Justicar-(Prestige-Class)-3PP",
-   "source": "",
-   "hd": 10,
-   "skills": 4,
-   "classSkills": [
-    "kno",
-    "kre",
-    "blf",
-    "crf",
-    "dip",
-    "dis",
-    "han",
-    "hea",
-    "pro",
-    "rid",
-    "sen",
-    "slt",
-    "spl",
-    "ste"
-   ],
-   "classSkillsText": "The Justicar’s class skills (and the key ability for each skill) are Craft (Int), Diplomacy (Cha), Handle Animal (Cha), Heal (Wis), Knowledge (nobility) (Int), Knowledge (religion) (Int), Profession (Wis), Ride (Dex), Sense Motive (Wis), and Spellcraft (Int). The following skills are prohibited to the Justicar: Bluff, Disguise, Sleight of Hand, and Stealth.",
-   "bab": "high",
-   "fort": "high",
-   "ref": "low",
-   "will": "high",
-   "caster": "low",
-   "levels": 10,
-   "complete": true
   }
  ]
 }

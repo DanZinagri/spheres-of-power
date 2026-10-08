@@ -16,7 +16,7 @@ Feats related to Obediences are also listed here due to them interfacing with so
 
 **Alternate Damnation Feats:** Although they are not officially listed as Damnation feats, the following feats are nonetheless indicative of powerful connections with fiends and may at GM discretion be counted as Damnation feats: Apocalyptic Spell, Damned Disciple, Damned Soldier, Deific Obedience, Diverse Obedience, Fiendish Obedience, Greater Planar Infusion, Improved Planar Fusion, Mind over Manners, Planar Infusion, Stygian Spell.
 
-##### Optional Rules for Obedience Feats [3PP]
+##### Optional Rules for Obedience Feats
 
 *Source: Baron's Hallowed Archive*
 
@@ -29,7 +29,7 @@ Additionally, the Deific Obedience and Fey Obedience feats may be used in place 
 
 ---
 
-#### Eldritch Exultation [3PP]
+#### Eldritch Exultation
 
 *Source: Baron's Hallowed Archive*
 
@@ -39,7 +39,7 @@ Additionally, the Deific Obedience and Fey Obedience feats may be used in place 
 
 **Special:** At GM discretion, this feat may count as a Damnation feat.
 
-#### Exarch Of The Pit (Damnation) [DbH]
+#### Exarch Of The Pit (Damnation)
 
 You are the will of your fiendish patron made manifest.
 
@@ -53,7 +53,7 @@ You are the will of your fiendish patron made manifest.
 
 **Four Damnation Feats:** If you possess the Fiendish Obedience or Deific Obedience feat, you receive the boons of these feats 2 Hit Dice earlier than you normally would (at 10, 14, and 18 Hit Dice rather than 12, 16, and 20). This does not affect the level at which you gain these abilities if you take a prestige class that causes you to receive them at earlier levels but does stack with the Diverse Obedience feat.
 
-#### Fiendish Dealer (Damnation) [DbH]
+#### Fiendish Dealer (Damnation)
 
 The lower planes have methods and loopholes which you can exploit.
 
@@ -69,7 +69,7 @@ The lower planes have methods and loopholes which you can exploit.
 
 **Four Damnation Feats:** When you use Call Planar Creature to call an evil outsider whose name you know, the casting time is reduced from 10 minutes to 1 minute. You may spend two extra spell points when summoning a Companion to summon them as a swift action.
 
-#### Fiendish Transformation (Damnation) [DbH]
+#### Fiendish Transformation (Damnation)
 
 Your form is molded by the dark powers which you serve.
 

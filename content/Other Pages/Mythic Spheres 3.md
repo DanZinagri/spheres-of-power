@@ -179,7 +179,7 @@ When you successfully outwit a creature by tricking it when it has a disorientat
 
 You gain a second base sphere and gain a bonus mythic sphere mastery for a single base sphere you have. If you exchange Basic Magic Training for Extra Magic Talent, exchange this mythic feat for an additional mythic sphere mastery.
 
-#### Cautious Incantation (Mythic) [HMH]
+#### Cautious Incantation (Mythic)
 
 If you fail an incantation for which you may use the Cautious Incantation feat, you may spend a number of points of mythic power equal to the level of the incantation (to a maximum of your mythic tier) to negate the failure effect upon yourself (other creatures are affected normally). You cannot negate the failure effect of an incantation greater than your mythic tier.
 
@@ -225,7 +225,7 @@ You do not provoke attacks of opportunity for spellcasting when using Dual Wield
 
 When using Dual Wielding Mystic Strike, your sphere ability may use your weapon’s threat range (to a maximum of 18-20) instead of its own.
 
-#### Expedited Incantation (Mythic) [HMH]
+#### Expedited Incantation (Mythic)
 
 You do not need to increase the DCs of an incantation to perform it in half the time. If you spend a number of points of mythic power equal to the level of the incantation, you may reduce the casting time to 1/10th of the original casting time (minimum 1 minute).
 
@@ -269,13 +269,13 @@ Subtract your tier from the minimum CR of creatures when determining which creat
 
 You can make any number of additional attacks of opportunity per round. As a swift action, you can expend one use of mythic power to, until the start of your next turn, make attacks of opportunity against foes you have already made attacks of opportunity against this round if they provoke attacks of opportunity from you by moving. (This mythic feat does not allow you to make more than one attack of opportunity per triggering event.)
 
-#### Mythic Crafting Expertise (Item Creation, Mythic) [HMH]
+#### Mythic Crafting Expertise (Item Creation, Mythic)
 
 **Prerequisites:** Any item creation feat.
 
 **Benefit:** At the beginning of each day when you regain your uses of mythic power, you can expend one use of mythic power to accomplish eight hours of work on one magic item you are crafting. You can only do this once per day per item you are crafting, though you may also add an actual eight-hour work day toward the crafting of such an item. Unlike normal magic item crafting, work accomplished by expending a use of mythic power does not require any special work space or quiet (though the cost of making magic items created this way is normal). Additionally, by expending two uses of mythic power as a fullround action, you can change the magic properties of any item in your possession you are capable of crafting. For one hour the item loses one or more abilities of your choice and gains other magic properties of your choice. The total cost of the item with the new properties cannot exceed its total cost with its normal magic properties, and you must meet all the prerequisites of each magic property you temporarily grant the item.
 
-#### Mythic Play (Mythic) [3PP]
+#### Mythic Play (Mythic)
 
 **Prerequisites:** Card Casting (mana pool, stagnant pool)
 **Benefit:** as a free action, you may spend one point of mythic power to refund all spell points you have spent since the start of your turn. This free action may be taken outside of your turn. This does not cause Mana Point Cards you have spent to be turned to their original position, and they still no longer count towards the number of spell points you may spend.
@@ -286,7 +286,7 @@ You can make any number of additional attacks of opportunity per round. As a swi
 
 You may expend one use of mythic power to use Mystic Focus as a free action instead of a swift action. This does not allow you to regain martial focus more than once per round.
 
-#### Oneiric Assault (Mythic) [Alienist HB]
+#### Oneiric Assault (Mythic)
 
 **Prerequisite:** Dreamspace, Oneiric Assault, caster level 10th.
 
@@ -312,7 +312,7 @@ When you increase the damage dice from sneak attack using single strike mastery,
 
 Choose a sphere you have Skill Sphere Focus in. You gain an additional +1 to saving throw DCs for all abilities from that sphere; this stacks with all other increases to saving throw DCs. You may take this mythic feat more than once; each time you do, apply its effects to a different sphere you have Skill Sphere Focus in. The first time you take this mythic feat, you gain the mythic sphere mastery for the base sphere this mythic feat applies to.
 
-#### Solitary Incantation (Mythic) [HMH]
+#### Solitary Incantation (Mythic)
 
 **Prerequisites:** 5 ranks in any 1 skill, Solitary Incantation.
 
@@ -368,25 +368,25 @@ Outlined below are several mythic universal monster abilities designed to be use
 
 **Wiki Note:** These abilities are not intended for player characters. GMs should not allow players to take them, even if they are playing monstrous characters.
 
-#### Flexible Sphere Mastery [Cata. HB]
+#### Flexible Sphere Mastery
 
 Three times per day as a free action, the monster may gain the benefits of a mythic sphere mastery path ability which they do not have for 1 round.
 
-#### Imbued Incantation [Cata. HB]
+#### Imbued Incantation
 
 Select an incantation with a level no greater than the monster’s mythic rank - 1. The monster can perform that incantation in a process that takes 1 hour, treating all skill checks as if they had rolled the exact value needed to succeed. The monster must still provide any material or focus components for the incantation, although they may spend a point of mythic power to avoid the backlash.
 
 This ability can be selected multiple times. If this ability is selected a second time and is used to select an incantation already chosen, the incantation’s effects constantly emanate out from the monster to the incantation’s normal range (not any escalated form).
 
-#### Immunities [Cata. HB]
+#### Immunities
 
 The monster becomes immune to two of the following: ability damage, ability drain, aging, banishment, death effects, disease, divinations (as the Mind Blank advanced talent), energy drain, mind-affecting effects, paralysis, petrification, poison, polymorph, sleep, and stunning. Alternatively, the monster can become immune to a single energy type. These immunities can be bypassed by talents or similar effects as normal. This ability can be selected multiple times.
 
-#### Path Ability [Cata. HB]
+#### Path Ability
 
 The monster gains a single mythic path ability, be it a universal path ability or an ability from a specific path. The monster uses its mythic rank as its effective mythic tier for the purpose of effects and for meeting prerequisites. This ability can be selected multiple times.
 
-#### Talent Progression [Cata. HB]
+#### Talent Progression
 
 The monster gains a number of magic or combat talents equal to half their Hit Dice. If the monster does not already possess a caster level, they gain Advanced Magic Training as a bonus feat even if they do not meet the prerequisites. The monster also gains a casting tradition (if any of the selected talents are magic talents). This ability can be selected multiple times.
 

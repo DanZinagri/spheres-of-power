@@ -93,7 +93,7 @@ At 6th level, the scholar and any ally given a glider are able to fly with a spe
 
 If the scholar is at least 10th level, her gliders instead grant a fly speed of 60 ft. with good maneuverability, and may now stay aloft during a single use for a number of hours equal to 1/2 the scholar’s class level (rounded down).
 
-#### Amateur Arcanist [CS]
+#### Amateur Arcanist
 
 The scholar gains the Basic Magical Training and Advanced Magical Training feats, using her Intelligence modifier as her casting ability modifier.
 
@@ -107,7 +107,7 @@ The scholar must have the small animal training knack to select this knack.
 
 The scholar gains a familiar, treating her class level as her arcane spellcaster level. The scholar is unable to utilize the share spells, deliver touch spells, or scry on familiar abilities normally granted to a familiar, but is still considered to have them for the purposes of determining what archetypes her familiar qualifies for. If a familiar is dismissed, lost or dies, it can be replaced 1 week later through a specialized ritual that costs 200 gp per scholar level. The ritual takes 8 hours to complete.
 
-#### Arcane Studies [CS]
+#### Arcane Studies
 
 The scholar furthers her magical studies. Each time the scholar takes this knack, she gains three bonus magic talents; these bonus talents may spent on any talent she qualifies for, or to gain one or more new base magic spheres. The scholar may take this knack up to a total of three times. The scholar must have the amateur arcanist knack to select this knack.
 
@@ -115,27 +115,27 @@ The scholar furthers her magical studies. Each time the scholar takes this knack
 
 The scholar has learned to divine helpful information from the positions of the stars and planets. Once per day, the scholar may spend one hour studying star charts, the position of the celestial bodies, and other relevant astrological data to gain important insights into the day’s challenges, granting a pool of insight points equal to half the scholar’s class level (minimum 1) plus her Intelligence bonus. The scholar may spend a point from this pool as part of an attack roll, saving throw, or skill check to add 1d4+1 to the result; the scholar may spend a point to grant this bonus to an ally, but must spend an immediate action to do so.
 
-#### Breakthrough Historian [BaP/CS]
+#### Breakthrough Historian
 
 The scholar furthers their ability to teach the past and predict the future. The scholar gains the [[Divination]] sphere as a bonus talent. If the scholar possesses a drawback which removes the divine ability, she must buy back that drawback with this bonus talent. In addition, the scholar gains one (divine) talent as a bonus talent and Scholar Of Past And Future as a bonus feat. The scholar must have the amateur arcanist knack to select this knack.
 
-#### Chronomancy, Amateur [CS]
+#### Chronomancy, Amateur
 
 The scholar creates a small mechanical timepiece, similar to a holy symbol, that grants the [[Time]] sphere, a spell pool equal to 1 + her Intelligence modifier (minimum 1), uses Intelligence as her casting ability modifier, and treats her caster level as being equal to 1/2 her class level when using the Time sphere for as long as the timepiece is in her possession; this stacks normally with caster levels gained from other sources. If this is the scholar’s first time gaining a magic talent from any source, this is treated as the casting class feature and grants the scholar two bonus talents as normal, these talents must be used to gain talents in the Time sphere. The scholar loses these benefits if she loses possession of the timepiece; if the timepiece is lost or stolen, the scholar may assemble a new one during an 8 hour rest. Only the scholar may use this timepiece, and it does not provide any benefit to anyone other than the scholar.
 
-#### Chronomancy [CS]
+#### Chronomancy
 
 As long as she has possession of the timepiece created with the amateur chronomancy talent, the scholar gains three additional talents from the Time sphere and is considered a Mid-Caster when determining her caster level with the Time sphere. In addition, her spell pool is now equal to 1/2 her class level + her Intelligence modifier.
 
 The scholar must have the amateur chronomancy knack to take this knack.
 
-#### Chronomancy, Advanced [CS]
+#### Chronomancy, Advanced
 
 As long as she has possession of the timepiece created with the amateur chronomancy talent, the scholar gains three additional talents from the Time sphere and treats her class level as her caster level with the Time sphere; this stacks normally with caster levels gained from other sources. In addition, her spell pool is now equal to her class level + her Intelligence modifier.
 
 The scholar must have the amateur chronomancy and chronomancy knacks to take this knack.
 
-#### Crafting Genius [CS]
+#### Crafting Genius
 
 The scholar gains one of the following crafting feats: Brew Potion, Craft Rod, Craft Staff, Craft Wand, Craft Wondrous Item, or Forge Ring. The scholar uses her class level as her caster level but must otherwise meet the prerequisites of the chosen feat (so a 4th level scholar could take Brew Potion or Craft Wondrous Item with this knack, but not take Craft Rod until she was at least 9th level).
 
@@ -165,7 +165,7 @@ The scholar adds half her class level (minimum 1) as a bonus on all Heal checks.
 
 The scholar gains Evolved Familiar and Improved Familiar as bonus feats, even if she would not otherwise qualify for them. The scholar uses her class level in place of her arcane caster level when determining what improved familiars she qualifies for. If the scholar has the large animal training knack, she may add the bonuses for level normally gained by her animal companion (bonus HD, feats, Strength and Dexterity bonuses, skill points, tricks, etc.) to her improved familiar, subtracting the familiar’s base form’s CR from her effective druid level when determining its advancement. Regardless of the improved familiar’s type, bonuses gained from progressing as an animal companion, such as bonus HD, use the normal advancement rules presented in the animal companion base statistics table. The scholar must have the small animal training knack to select this knack.
 
-#### Humane Studies [LotS]
+#### Humane Studies
 
 Each time the scholar takes this knack, she gains three bonus skill talents; these bonus talents may be spent on any talent she qualifies for, or to gain one or more new base skill spheres. The scholar may take this knack up to a total of three times.
 
@@ -213,11 +213,11 @@ The scholar has trained and studied in the arts of preparing and handling poison
 
 The scholar’s research has taught her speedy and efficient techniques for creating various alchemical items. The scholar may craft any single alchemical item worth 150 gp or less (such as a vial of alchemist’s fire, smokestick, or tanglefoot bag) in half an hour; she must still succeed at a Craft (alchemy) check and pay all material costs as normal. The scholar cannot decrease this time any further by increasing the Craft DC. If the scholar knows the formulae for an improved version of an alchemical item worth 150 gp or less (such as the improved alchemist’s fire formulae) she reduces the crafting time to 15 minutes instead of half an hour. In addition, the scholar adds her Intelligence modifier to the DC of any alchemical item she crafts herself (this does not include improved alchemical items made with the Alchemy sphere).
 
-#### Ritual Crafter [CS]
+#### Ritual Crafter
 
 The scholar gains the Craft Rituals feat even if she does not qualify for it and may use her class level in place of her caster level when researching rituals. The scholar may research rituals even if she does not possess the required spheres. This stacks normally with caster levels gained from other sources. The scholar must have the ritual student knack to select this knack.
 
-#### Ritual Student [CS]
+#### Ritual Student
 
 The scholar gains the Ritual Caster feat even if she does not qualify for it and may use her class level in place of her caster level when performing rituals. This stacks normally with caster levels gained from other sources. In settings where rituals are tied to specific traditions, the scholar chooses a number of traditions equal to her practitioner modifier and counts as possessing those traditions for the purposes of performing rituals.
 
@@ -251,7 +251,7 @@ Secondly, she may make a single ranged touch attack against an opponent within 3
 
 - **Glacial Percussion [explosive]:** Mixing various freezing compounds into her flashbangs, the scholar allows them to deal an additional 1d6 cold damage per two class levels she possesses, and creatures that fail their Fortitude save are staggered for 1d4 rounds in addition to the flashbang’s normal effects. If the scholar hits a target that is already staggered with this effect, the target is instead paralyzed for 1 round.
 
-#### Arcsilver [AoP2]
+#### Arcsilver
 
 The scholar learns how to use arcsilver to disperse and manipulate electricity to her advantage. The scholar may activate this imposition to apply arcsilver coils strategically upon her person, granting her electricity resistance 5 for a number of rounds equal to her practitioner modifier (minimum 1). This electricity resistance increases by 5 for every 5 class levels the scholar possesses beyond 5th.
 
@@ -291,7 +291,7 @@ In addition, while within the circle, the scholar and affected allies are also p
 
 - **Dispelling Detonations [explosive]:** The scholar adds a mixture of silver, salt, lead, and other materials which naturally disrupt magical energies to her flashbangs. Creatures that fail their save against the flashbang’s initial effect are also subject to a targeted dispel magic spell, using the scholar’s level as the caster level. This cannot be used to target a specific spell effect. If the scholar also possesses the silver material imposition, this instead acts as a targeted greater dispel magic effect.
 
-#### Cordyceps Mycelium [Gravecaller HB]
+#### Cordyceps Mycelium
 
 The scholar learns how to cultivate and distill the cordyceps-family of fungus, that have been studied to override the nervous systems of living or dead creatures to create a zombie-like state.
 
@@ -351,7 +351,7 @@ A creature ignited by this ability is entitled to a Reflex saving throw at the s
 
 - **Sun Flare [explosive]:** The scholar mixes a blend of magnesium and phosphorescent materials into her flashbangs, allowing them to cause targets who fail their save against them to be blinded and shed bright light out to 30 ft. +5 ft. per two class levels for 1 round per class level. This effect automatically dispels any darkness effect within its area whose spell level is equal to or less than half the scholar’s class level (rounded down), as well as any darkness effects from the Dark sphere whose effective caster level is lower than the scholar’s class level. If the scholar’s flashbangs would normally be capable of blinding due to the scholar having at least 5 ranks in Craft (alchemy), the duration of this effect is doubled.
 
-#### Neon [AoP2]
+#### Neon
 
 Through advanced research into air, cooling points, and the process of turning air into a liquid, the scholar learns how to create a gas that can act as a stable source of light. When the scholar first gains this imposition she learns how to craft a small neon light that costs 1 hour and a total of 50 gp to create. When creating a neon light, the scholar may have it be of any colour she chooses, chosen at the time of creation, which lasts for 2 hours per class level she possesses. This light sheds bright light to a range of up to 30 feet + 5 feet per 2 class levels, and increases the light level by one step within twice that range. If the scholar possesses the Tech sphere and can create batteries, she may use the battery within a neon light to allow it to last as long as the battery lasts, to a maximum of 24 hours.
 
@@ -363,19 +363,19 @@ The scholar’s alchemical studies branch out into learning how to cultivate, ma
 
 - **Alchemical Solvent [explosive]:** The scholar mixes special solvents into her flashbangs that dissolve the flesh of non-ooze creatures. In addition to the flashbang’s normal effects, the target takes 1d4 acid damage per class level the scholar possesses; creatures who succeed on their saving throw take half damage from this effect. When a flashbang modified with this explosive is used against a creature of the ooze type, instead of dealing additional acid damage the target takes a -5 penalty to its saving throw and is stunned for 1d4 rounds if it fails its saving throw. If the scholar does not have an ooze currently active through this imposition, she may spend a full-round action to attempt to capture the ooze inside an alchemical vial, though the ooze is entitled to a Fortitude saving throw (DC 10 + 1/2 scholar level + Intelligence modifier) to resist this effect; oozes whose CR is greater than the scholar’s class level are immune to this effect. Oozes who fail their saving throw are captured and may be used as though they were cultivated through the primary use of this imposition.
 
-#### Phlogiston [Alienist HB]
+#### Phlogiston
 
 Also known as aether, this rainbow fluid was once thought to be the source of all heat. While this has long since been demonstrated untrue, phlogiston nonetheless possesses numerous useful heat-related properties. Its strange relationship to the elements also gives it an edge in suppressing planar magic. The scholar gains the ability to craft a phlogiston emitter which can fire a ray of phlogiston as a ranged touch attack with a range of 30 feet. A struck target gains vulnerability to fire and must succeed at a magic skill check to use any form of extradimensional travel (which includes effects such as teleportation spells, Warp sphere teleport effects, and other effects such as astral projection, blink, dimension door, ethereal jaunt, etherealness, gate, maze, and plane shift) for a number of rounds equal to the scholar’s Intelligence modifier. The DC of this magic skill check is equal to 11 + the scholar’s level.
 
 - **Inflammable Cloud [explosive]:** Gaseous aether erupts from the flashbang, hanging in the air briefly. The flashbang creates a cloud of aether with a radius of 5 feet plus 5 feet per 5 class levels that persists a number of rounds equal to the scholar’s Intelligence modifier. This cloud does not obscure vision. A moderate wind (11+ mph) disperses the cloud in 4 rounds; a strong wind (21+ mph) disperses the cloud in 1 round. Whenever a creature would carry an open flame in the cloud, create a magical fire effect which passes through the cloud, or take fire damage within the cloud, the cloud explodes and dissipates, dealing 1d8 points of fire damage per 2 class levels the scholar possesses to all creatures who were within its area (Reflex save for half).
 
-#### Quicksilver [AoP2]
+#### Quicksilver
 
 Also known as mercury, this strange, mercurial liquid is commonly drawn from cinnabar. Quite toxic, this shifting liquid can act as quite a slippery surface. This functions as a splash weapon the scholar can use as a ranged touch attack with a range increment of 10 feet, creating a puddle of quicksilver with a radius of 15 feet, plus 5 feet per 5 scholar levels she possesses; causing all creatures that attempt to enter or move through the area to attempt at a Reflex saving throw or immediately fall prone. This puddle lasts for 1d4 rounds.
 
 - **Mercurial Bursts [explosive]:** The scholar may enhance her flashbangs with mercury, causing targets who fail their save to take 1d4 points of Wisdom damage, plus an additional 1d4 points of Wisdom damage at 8th and 16th level, in addition to the normal effects. This is a poison effect, and creatures with resistance to poison apply that resistance to their save against the flashbang’s effects.
 
-#### Quintessence [Alienist HB]
+#### Quintessence
 
 Quintessence is the raw material from which the outer planes are formed, a nebulous substance which can subvert even the forces of time. The scholar can create and apply a spread of quintessence to a 5-foot square or a Medium-sized or smaller object within her natural reach (Large targets count as 2 Medium-sized targets, Huge targets count as 2 Large-sized targets, Gargantuan targets count as 2 Huge-sized targets, etc.). Quintessence can also be applied to willing creatures, although such creatures are considered helpless so long as they are covered and cannot remove the quintessence by their own power. Creating and applying this quintessence takes 1 round, which provokes attacks of opportunity. The scholar may create a number of 5-foot squares equal to 1/2 her class level per day.
 
@@ -389,13 +389,13 @@ Silver is the metal most closely related to the moon and is said to ward off bad
 
 - **Dispelling Detonations [explosive]:** The scholar adds a mixture of silver, salt, lead, and other materials which naturally disrupt magical energies to her flashbangs. Creatures and objects that fail their save against the flashbang’s initial effect are also subject to a targeted dispel magic spell, using the scholar’s level as the caster level. This cannot be used to target a specific spell effect. If the scholar also possesses the circle of salt material imposition, this instead acts as a targeted greater dispel magic effect.
 
-#### Thermite [AoP2]
+#### Thermite
 
 Through delicate research into iron and aluminum interactions, the scholar learns of a particularly volatile reaction, allowing great explosive potential. The scholar can create and apply an incredibly potent mixture to a 5-foot square within her natural reach. Creating and applying this mixture takes 1 round, which provokes attacks of opportunity. The scholar may create a number of 5-foot squares equal to 1/2 her class level per day. The mixture can be set alight as part of applying the mixture (or if it is dealt at least 1 point of fire damage), dealing 1d8 points of fire damage per two class levels she possesses to the object, ignoring hardness equal to half her class level.
 
 - **Pyrotechnic Detonation [explosive]:** By adding thermite into her flashbangs, she can cause great devastation to those caught within it, allowing them to cause targets who fail their save against her flashbangs to be blinded for 1d4 rounds, in addition to taking 1d8 points of fire damage per 2 class levels the scholar possesses; creatures who succeed at their Fortitude save against the flashbang take half damage from this effect. If the scholar’s flashbangs would normally be capable of blinding due to the scholar having at least 5 ranks in Craft (alchemy), the duration of this effect is doubled.
 
-#### Tungsten [AoP2]
+#### Tungsten
 
 The scholar has learned how to work with tungsten metal, an incredibly dense and heavy material that is incredibly intensive to work with. When the scholar first gains this imposition she learns how to craft tungsten plates, which cost 1 hour to create per plate. The scholar may only have a number of plates created at a time equal to 1 + her practitioner modifier. A creature may put a tungsten plate under any armor or clothing for additional protection, at the cost of their maneuverability, granting them both DR 1/adamantine and a -1 armor check penalty for every tungsten plate a creature has equipped.
 
@@ -455,7 +455,7 @@ At 20th level, the scholar chooses any one material imposition she knows; the sc
 
 The following magical items are especially appropriate for scholars.
 
-#### Advanced Study Guide [TS:WAT]
+#### Advanced Study Guide
 
 **Aura** moderate Divination; **CL** 8th
 **Slot** none; **Price** 40,000 gp; **Weight** 3 lbs.
@@ -465,7 +465,7 @@ This thick book is too technical for any but the most well-read individuals to p
 **Construction Requirements**
 Craft Apparatus, Divination sphere, creator must have the scholar’s knack being added to this item; **Cost** 20,000 gp
 
-#### Explosive Chemicals Kit [TS:WAT]
+#### Explosive Chemicals Kit
 
 **Aura** faint Destruction; **CL** 6th
 **Slot** none; **Price** 3,000 gp; **Weight** 2 lbs.
@@ -475,7 +475,7 @@ This metal kit contains additional materials that are useful for enhancing certa
 **Construction Requirements**
 Smith Magical Weapons And Armor, Destruction sphere (Explosive Orb (blast shape)), creator must have the flashbangs class feature; **Cost** 1,500 gp
 
-#### Hazsit Tools [TS:WAT]
+#### Hazsit Tools
 
 **Aura** moderate Life; **CL** 7th
 **Slot** none; **Price** 8,000 gp; **Weight** 15 lbs.

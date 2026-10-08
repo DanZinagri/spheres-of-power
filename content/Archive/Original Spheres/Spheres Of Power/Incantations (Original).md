@@ -608,7 +608,7 @@ All performers are fatigued. If already fatigued, they instead become exhausted.
 **Failure**
 All performers gain 1 permanent negative level. Additionally, the target is aware of the identities of all the performers and may seek revenge or chastisement if it chooses. The target may choose to appear but is completely unbound and may act as it chooses.
 
-#### Temporal Menhir [High. HB]
+#### Temporal Menhir
 
 Sometimes a druid requires knowledge lost to the passage of time. This incantation allows druids to use their hallowed druid circles to travel 200 years into the past to acquire this information first hand, and then return to their own century. Many others have attempted to instead use this incantation to change history, but more often than not found the task difficult, if not impossible, as most time travelers end up putting events in motion that create the timeline they wished to prevent in the first place.
 **Sphere** Time; **Level** 9th

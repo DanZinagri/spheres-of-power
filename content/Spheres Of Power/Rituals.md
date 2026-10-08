@@ -145,7 +145,7 @@ Rituals also have material cost. A ritual’s cost is determined by adding any m
 | 8 | 1,000 gp | 1 day |
 | 9 | 2,500 gp | 2 days |
 
-### Mythic Rituals [HMH]
+### Mythic Rituals
 
 A character with the Mythic Ritual Knowledge path ability is capable of performing a ritual which mimics a mythic spell so long as they are able to learn it from somewhere. If a character also possesses the Mythic Crafter path ability, they may also create rituals that mimic the Mythic version of a spell. Such effects do not increase the cost or time required to perform the ritual, but a character must spend a point of mythic power in order to perform the ritual. Characters of a tier sufficient to augment the spell may spend additional uses of mythic power to apply augmentations to the ritual (for example, a character could perform mythic guards and wards as a ritual by spending a point of mythic power. A character of at least 3rd rank could spend 2 points of mythic power to create an additional effect as listed in the spell).
 

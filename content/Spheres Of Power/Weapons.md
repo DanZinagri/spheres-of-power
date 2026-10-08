@@ -14,7 +14,7 @@ parent: "[[Spheres Of Power]]"
 
 # Weapons
 
-### Alfur Vendi [TS]
+### Alfur Vendi
 
 **Aura** strong Nature; **CL** 12th
 **Slot** none; **Price** 80,320 gp; **Weight** 3 lbs.
@@ -24,7 +24,7 @@ This +3 fey-forged wooden dueling sword is difficult to master, but also a popul
 **Construction Requirements**
 Smith Magical Weapons And Armor, Craft Implement Of Power, Enhancement sphere (Mental Enhancement (enhance)), Nature sphere; **Cost** 40,160 gp
 
-### Banishing Blade [TS]
+### Banishing Blade
 
 **Aura** faint Protection; **CL** 5th
 **Slot** none; **Price** 18,315 gp; **Weight** 3 lbs.
@@ -34,7 +34,7 @@ Light and easy to handle, these +1 decisive gladiuses are often used to help rep
 **Construction Requirements**
 Smith Magical Weapons And Armor, Protection sphere, **Cost** 9,157.5 gp
 
-### Banishing Blade, Greater [TS]
+### Banishing Blade, Greater
 
 **Aura** faint Protection and strong Enhancement; **CL** 12th
 **Slot** none; **Cost** 86,315 gp; **Weight** 3 lbs.
@@ -44,7 +44,7 @@ More expensive but also noticeably more powerful than their lesser cousins, thes
 **Construction Requirements**
 Smith Magical Weapons And Armor, Forge Charm, Enhancement sphere (Mental Enhancement (enhance)), Protection sphere; **Cost** 43,157.5 gp
 
-### Banner of the Saints [TS]
+### Banner of the Saints
 
 **Aura** moderate Protection; **CL** 5th
 **Slot** none; **Cost** 28,505 gp; **Weight** 9 lbs.
@@ -56,7 +56,7 @@ This +1 holy mithral longspear has a gleaming banner tied to its end. Once per d
 **Construction Requirements**
 Smith Magical Weapons And Armor, Craft Marvelous Item, Fate sphere (Align Object (word)), Protection sphere (Spell Ward (aegis, ward)); **Cost** 14,252.5 gp
 
-### Barbarian’s Furry [Jester's HB]
+### Barbarian’s Furry
 
 “Oho? What’s this?” -Yarsgall, the Furred King
 **Aura** faint Alteration; **CL** 6th
@@ -67,7 +67,7 @@ Barbarian’s furry is a +2 battleaxe adorned in furs and skulls which brings ou
 **Construction Requirements**
 Smith Magical Weapons and Armor, Craft Marvelous Item, Alteration sphere (Animal Mind, Animalistic Transformation (transformation), Transforming Strike), Beast Soul (drawback) Fleshwarper (drawback); **Cost** 9,250 gp
 
-### Bard-King’s Tongue [DRS]
+### Bard-King’s Tongue
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -95,7 +95,7 @@ A fine steel blade with gold filigree inlaid at the handle bearing a crest from 
 **Construction Requirements**
 Smith Magical Weapons And Armor, Craft Implement Of Power, Mind sphere; **Cost** 49,000 gp
 
-### Blasting Stick [TS]
+### Blasting Stick
 
 **Aura** faint Destruction; **CL** 5th
 **Slot** none; **Price** 9,300 gp; **Weight** 3 lbs.
@@ -105,7 +105,7 @@ This long, thin +1 destructive focus elysian bronze club has ornate runes carved
 **Construction Requirements**
 Smith Magical Weapons And Armor, Destruction sphere; **Cost** 4,650 gp
 
-### Bow of Order [TS]
+### Bow of Order
 
 **Aura** moderate Fate; **CL** 9th
 **Slot** none; **Price** 35,100 gp; **Weight** 3 lbs.
@@ -115,7 +115,7 @@ This +1 axiomatic composite longbow (Str +5) is a favored tool of lawmen who hun
 **Construction Requirements**
 Smith Magical Weapons And Armor, Fate sphere (Bless (word)); **Cost** 17,550 gp
 
-### Burrower’s Spade [DRS]
+### Burrower’s Spade
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -130,7 +130,7 @@ Additionally, whenever the wielder would make an off-hand attack with the burrow
 **Construction**
 Smith Magical Arms and Armor, Creation or Nature sphere — **Cost** 12,000 gp
 
-### Cat o’ Nine [Catgirl HB]
+### Cat o’ Nine
 
 **Aura** moderate Enhancement and Fallen Fey; **CL** 7th
 **Slot** none; **Price** 39,000 gp; **Weight** 2 lbs.
@@ -141,7 +141,7 @@ Cat o’ Nine is a +1 fey-forged wounding cat-o’-nine-tails is a saltwarped wh
 **Construction Requirements**
 Smith Magical Weapons and Armor, Enhancement (Ragged Edges (enhance)), Fallen Fey; Cost 19,500 gp
 
-### Chainblade [TS]
+### Chainblade
 
 **Aura** moderate Destruction; **CL** 4th
 **Slot** none; **Price** 25,700 gp; **Weight** 10 lbs.
@@ -151,7 +151,7 @@ One of the most fiendishly complex (and intimidating) weapons, the chainblade is
 **Construction Requirements**
 Smith Magical Weapons And Armor, Craft Spell Engine, Destruction sphere (any (blast type) talent); **Cost** 12,850 gp
 
-### Chainblade Spell Engine [TS]
+### Chainblade Spell Engine
 
 **Aura** faint Destruction; **CL** 2nd
 **Slot** special; **Price** 1,000 gp; **Weight** 2 lbs.
@@ -161,7 +161,7 @@ Chainblade spell engines are small, disc-shaped spell engines of the Destruction
 **Construction Requirements**
 Craft Spell Engine, Destruction sphere (any (blast type) talent); **Cost** 500 gp
 
-### Claw of Chaos [TS]
+### Claw of Chaos
 
 **Aura** moderate Fate; **CL** 9th
 **Slot** none; **Price** 25,502 gp; **Weight** 3 lbs.
@@ -171,7 +171,7 @@ This +1 anarchic tekko-kagiUE is a flexible piece of equipment favored by warrio
 **Construction Requirements**
 Smith Magical Weapons And Armor, Craft Marvelous Item, Fate sphere (Align Object (word), Borrow Trouble (word)); **Cost** 12,751 gp
 
-### Commander’s Blade [TS]
+### Commander’s Blade
 
 **Aura** faint War; **CL** 3rd
 **Slot** none; **Price** 18,322.5 gp; **Weight** 3 lbs.
@@ -181,7 +181,7 @@ This +1 adamantine gladius has ornate gold decorations covering its broader side
 **Construction Requirements**
 Smith Magical Weapons And Armor, Craft Marvelous Item, War sphere (Counterattack (rally)); **Cost** 9,161.25 gp
 
-### Cosmic Axe [TS:WAT]
+### Cosmic Axe
 
 **Aura** faint Warp; **CL** 3rd
 **Slot** none; **Price** 11,906 gp; **Weight** 3 lbs.
@@ -193,7 +193,7 @@ The +1 ghost touch handaxe has a head that lets you look through daylight, cloud
 **Construction Requirements**
 Smith Magical Weapons And Armor, Craft Marvelous Item, Illusion sphere (Blur (glamer)), Warp sphere (Dimension Pierce (space)); **Cost** 5,953 gp
 
-### Cremator, The [TS:WAT]
+### Cremator, The
 
 **Aura** moderate Creation; **CL** 10th
 **Slot** none; **Price** 38,310 gp; **Weight** 0.4 lbs.
@@ -205,7 +205,7 @@ This +1 plasma blade dagger allows the user to activate or deactivate its blade 
 **Construction Requirements**
 Smith Magical Weapons And Armor, Creation sphere (Plasma Production (material)), Nature sphere ((earth) package, (fire) package), Weather sphere (Volcano Lord (advanced)); **Cost** 19,155 gp
 
-### Crystal Laser Axe [TS]
+### Crystal Laser Axe
 
 **Aura** moderate Light; **CL** 6th
 **Slot** none; **Price** 33,810 gp; **Weight** 6 lbs.
@@ -215,7 +215,7 @@ This +2 radiant edge blood crystalUE battleaxe can project deadly light in comba
 **Construction Requirements**
 Smith Magical Weapons And Armor, Light sphere; **Cost** 16,905 gp
 
-### Crystalspawn Mace [TS:WAT]
+### Crystalspawn Mace
 
 **Aura** moderate Destruction; **CL** 6th; **SP** 1
 **Slot** none; **Price** 17,304 gp; **Weight** 6 lbs.
@@ -229,7 +229,7 @@ This +2 obsidianUE morningstar slowly heals any damage done to it, as if it were
 **Construction Requirements**
 Smith Magical Weapons And Armor, Craft Spell Engine, Destruction sphere (Crystal Blast (blast type, crystal), Energy Strike (blast shape) [strike]); Cost 8,652 gp
 
-### Devouring Axe [TS]
+### Devouring Axe
 
 **Aura** faint Alteration And Blood; **CL** 5th
 **Slot** none; **Price** 18,310 gp; **Weight** 6 lbs.
@@ -256,7 +256,7 @@ Smith Magical Weapons And Armor, Craft Implement Of Power, Destruction sphere (F
 
 **Wiki Note:** A dragonbone pistol's enhancement bonus as an implement is equal to its constant enhancement bonus as an item. Other effects which would increase the dragonbone pistole's enhancement bonus, such as using the Enhancement sphere, do not increase the pistol's caster level bonus.
 
-### Dream Of The Wild [TS:WAT]
+### Dream Of The Wild
 
 **Aura** moderate Divination and Telekinesis; **CL** 6th
 **Slot** none; **Price** 38,750 gp; **Weight** 1 lb.
@@ -268,7 +268,7 @@ This +2 arcing seeking darkwood shortbow is favored by martially-inclined druids
 **Construction Requirements**
 Smith Magical Weapons And Armor, Divination sphere, Telekinesis sphere, Time sphere (Ranged Time [range], Shift Time (time)); **Cost** 19,375 gp
 
-### Duelist’s Rapier [TS]
+### Duelist’s Rapier
 
 **Aura** faint Protection; **CL** 5th
 **Slot** none; **Price** 32,320 gp; **Weight** 2 lbs.
@@ -278,7 +278,7 @@ Normally used only by the wealthiest duelists, this +3 preventative rapier helps
 **Construction Requirements**
 Smith Magical Weapons And Armor, Protection sphere; **Cost** 16,160 gp
 
-### Elemental Blade [TS]
+### Elemental Blade
 
 **Aura** faint Destruction; **CL** 5th
 **Slot** none; **Price** 53,018 gp; **Weight** 4 lbs.
@@ -288,7 +288,7 @@ While they take extensive training to use, these +1 corrosive flaming frost shoc
 **Construction Requirements**
 Smith Magical Weapons And Armor, Destruction sphere (any four (blast type) talents that deal acid, cold, electricity, and fire damage); **Cost** 26,509 gp
 
-### Elemental Blade, Greater [TS]
+### Elemental Blade, Greater
 
 **Aura** strong Destruction; **CL** 12th
 **Slot** none; **Price** 203,018 gp; **Weight** 4 lbs.
@@ -308,7 +308,7 @@ Smith Magical Weapons And Armor, Destruction sphere (any five (blast type) talen
 **Description**
 When activated, an energy sword’s ornate handle projects a quantum field that contains energized plasma in a 2- to 3-ft.-long “blade.” Attacks made with an energy blade resolve as touch attacks. Half the damage it deals is electricity and the other half is fire. This damage bypasses resistance to fire and electricity, but not immunity. Creatures which are immune to fire or electricity take half damage from an energy sword and creatures immune to both take no damage. When the wielder attacks an object, damage from an energy sword ignores the first 20 points of hardness and its damage is not halved (even though energy damage is usually halved when applied to objects). Thanks to its quantum containment, an energy sword deals half damage against incorporeal creatures, despite not being a magical weapon.
 
-### Eternal Blade [High. HB]
+### Eternal Blade
 
 **Price** 450 gp; **Slot** none; **CL** 3rd; **Weight** varies; see text; **Aura** moderate Creation and Nature; **Scaling** prize
 
@@ -324,7 +324,7 @@ Whenever you would score a critical threat against an opponent using the eternal
 
 **Cost** 4,650 gp; **Feats** Smith Magical Weapons and Armor; Spells Creation sphere (Expanded Materials), or Nature sphere (Living Steel).
 
-### Flamebelcher Rifle [TS:WAT]
+### Flamebelcher Rifle
 
 **Aura** moderate Destruction; **CL** 6th
 **Slot** none; **Price** 83,300 gp; **Weight** 12 lbs.
@@ -336,7 +336,7 @@ This +2 nimble shotUE rifleUE is covered with scorch marks. The muzzle is a litt
 **Construction Requirements**
 Smith Magical Weapons And Armor, Craft Marvelous Item, Destruction sphere (Explosive Orb (blast shape), Fire Blast (blast type)); **Cost** 41,650 gp
 
-### Frost Drake’s Maw [TS:WAT]
+### Frost Drake’s Maw
 
 **Aura** moderate Destruction; **CL** 6th
 **Slot** none; **Price** 39,010 gp; **Weight** 6 lbs.
@@ -348,7 +348,7 @@ This one-headed +2 icy burst frost-forged steelUE battleaxe is decorated like a 
 **Construction Requirements**
 Smith Magical Weapons And Armor, Craft Marvelous Item, Destruction sphere (Frost Blast (blast type), Sculpt Blast (blast shape)); **Cost** 19,505 gp
 
-### Gáe Bulg [High. HB]
+### Gáe Bulg
 
 **Price** 2360 gp; **Slot** none; **CL** 4th; **Weight** 9 lbs.; **Aura** moderate Blood and Death; **Scaling** wonder
 
@@ -373,7 +373,7 @@ These +1 cold iron ghost touch gauntlets allow the wearer to ignore the immunity
 **Construction Requirements**
 Smith Magical Weapons And Armor, Warp sphere; **Cost** 15,304 gp
 
-### Hammer of Expulsion [TS]
+### Hammer of Expulsion
 
 **Aura** faint Creation; **CL** 3rd
 **Slot** none; **Price** 4,812 gp; **Weight** 5 lbs.
@@ -405,7 +405,7 @@ Smith Magical Weapons And Armor, Enhancement sphere, Fate sphere; **Cost** 51,81
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Pistol, sword cane | 775 | 1d3 | 1d4 | x3 | 10 ft. | 1 (5 ft.) | 1 | 20 lbs. | B and P |
 
-### Hungering Pistol [TS]
+### Hungering Pistol
 
 **Aura** faint Death and Telekinesis; **CL** 5th
 **Slot** none; **Price** 17,700 gp; **Weight** 4 lbs.
@@ -415,7 +415,7 @@ This +1 arcing revolver is excellent at striking foes behind cover, making it a 
 **Construction Requirements**
 Smith Magical Weapons And Armor, Craft Marvelous Item, Death sphere (Greater Ghost Strike, Vampiric Strike (ghost strike)), Telekinesis sphere; **Cost** 8,850 gp
 
-### Hydrargyrum Hammer [TS:WAT]
+### Hydrargyrum Hammer
 
 **Aura** faint Creation; **CL** 3rd
 **Slot** none; **Price** 17,812 gp; **Weight** 5 lbs.
@@ -429,7 +429,7 @@ This +1 virulentMCodex living mercury warhammer occasionally ripples somewhat an
 **Construction Requirements**
 Smith Magical Weapons And Armor, Craft Marvelous Item, Creation sphere (Alchemical Creation (material), Instill Alteration [instill]); **Cost** 8,906 gp
 
-### Inferno Blade [TS]
+### Inferno Blade
 
 **Aura** moderate Creation and strong Destruction; **CL** 20th
 **Slot** none; **Price** 690,975 gp; **Weight** 1.6 lbs.
@@ -448,7 +448,7 @@ Rumors hotly contest the origins and purpose of this item. Some say it was craft
 **Construction Requirements**
 Smith Magical Weapons And Armor, Craft Marvelous Item, Craft Spell Engine, Creation sphere (Plasma Production (material)), Destruction sphere (Energy Strike (blast shape), Sculpt Blast (blast shape), Searing Blast (blast type), Spirit Blast); **Cost** 345,487.5 gp
 
-### Invisible Gun [TS]
+### Invisible Gun
 
 **Aura** moderate Illusion; **CL** 8th
 **Slot** none; **Price** 50,487.5 gp; **Weight** 1 lb.
@@ -458,7 +458,7 @@ This +1 invisible coat pistol is easy to conceal on the body, but its real value
 **Construction Requirements**
 Smith Magical Weapons And Armor, Illusion sphere (Suppression (glamer)); **Cost** 25,243.75 gp
 
-### Iron Wall [TS]
+### Iron Wall
 
 **Aura** moderate Enhancement; **CL** 7th
 **Slot** none and belt; **Price** 14,340 gp; **Weight** 14 lbs.
@@ -468,7 +468,7 @@ The sheer size of this +1 avalanche earth breaker’s hammer head evokes images 
 **Construction Requirements**
 Smith Magical Weapons And Armor, Forge Charm, Enhancement sphere (Physical Enhancement (enhance)); **Cost** 7,170 gp
 
-### Knife Wife [TS]
+### Knife Wife
 
 **Aura** moderate Life; **CL** 9th
 **Slot** none; **Price** 47,902 gp; **Weight** 2 lbs.
@@ -485,7 +485,7 @@ This healing shiv (see [[Marvelous Items Wondrous Items|Marvelous Items]]) is a 
 **Construction Requirements**
 Smith Magical Weapons And Armor, Craft Marvelous Item, Life sphere (Clarified Strike [strike], Deeper Healing); **Cost** 23,951 gp
 
-### Lasso of Honesty [TS]
+### Lasso of Honesty
 
 **Aura** moderate Fate; **CL** 9th
 **Slot** none; **Price** 54,300.15 gp; **Weight** 5 lbs.
@@ -495,7 +495,7 @@ This +3 lasso generates light with a strobe effect whenever the wielder successf
 **Construction Requirements**
 Smith Magical Weapons And Armor, Craft Marvelous Item, Fate sphere (Shrieking Strike [strike], Truth (word)); **Cost** 27,150.075 gp
 
-### Lucky Pistol [TS]
+### Lucky Pistol
 
 **Aura** faint Divination and Telekinesis; **CL** 5th
 **Slot** none; **Price** 10,085 gp; **Weight** 1 lb.
@@ -505,7 +505,7 @@ These +1 arcing dagger pistols also function as lucky charms for their owner (se
 **Construction Requirements**
 Smith Magical Weapons And Armor, Craft Marvelous Item, Divination sphere (Divine Future), Telekinesis sphere; **Cost** 5,042.5 gp
 
-### Magebane [TS]
+### Magebane
 
 **Aura** moderate Fate; **CL** 6th
 **Slot** none; **Price** 32,375 gp; **Weight** 8 lbs.
@@ -515,7 +515,7 @@ Magebanes are +2 keen wild critical falchions often carried by warriors who face
 **Construction Requirements**
 Smith Magical Weapons And Armor, Enhancement sphere (Deadly Weapon (enhance)), Fate sphere, **Cost** 16,187.5 gp
 
-### Phasing Glaive [TS]
+### Phasing Glaive
 
 **Aura** faint Warp; **CL** 5th
 **Slot** none; **Price** 38,308 gp; **Weight** 10 lbs.
@@ -556,7 +556,7 @@ This pouch which is usually strapped to the waist or thigh has two flaps that op
 **Construction Requirements**
 Smith Magical Weapons And Armor, Enhancement sphere, Warp sphere; **Cost** 5,000 gp
 
-### Pulsemage’s Glove of Channeling [Mana HB]
+### Pulsemage’s Glove of Channeling
 
 **Aura** strong Mana; **CL** 3rd;
 **Slot** None; **Price** 2,000 gp (+1), 8,000 gp (+2), 18,000 gp (+3), 32,000 gp (+4), 50,000 gp (+5), 72,000 gp (+6), 128,000 gp (+8), 162,000 gp (+9), 200,000 gp (+10) **Weight** 1lb.
@@ -571,7 +571,7 @@ An arcanopulser who utilizes this item can apply the enhancement bonuses and wea
 **Construction Requirements**
 Smith Magical Weapons and Armor, Mana sphere; **Cost** 1,000 gp (+1), 4,000 gp (+2), 9,000 gp (+3), 16,000 gp (+4), 25,000 gp (+5), 36,000 gp (+6), 64,000 gp (+8), 81,000 gp (+9), 100,000 gp (+10)
 
-### Pulsemage’s Glove of Protection [Mana HB]
+### Pulsemage’s Glove of Protection
 
 **Aura** strong Mana; **CL** 8th;
 **Slot** None; **Price** 1,000 gp (+1), 4,000 gp (+2), 9,000 gp (+3), 16,000 gp (+4), 25,000 gp (+5), 36,000 gp (+6), 64,000 gp (+8), 81,000 gp (+9), 100,000 gp (+10) **Weight** 1lb.
@@ -586,7 +586,7 @@ An arcanopulser who utilizes this item can apply the enhancement bonuses and shi
 **Construction Requirements**
 Smith Magical Weapons and Armor, Mana sphere; **Cost** 500 gp (+1), 2,000 gp (+2), 4,500 gp (+3), 8,000 gp (+4), 12,500 gp (+5), 18,000 gp (+6), 32,000 gp (+8), 40,500 gp (+9), 50,000 gp (+10)
 
-### Razorquill Scarf [DRS]
+### Razorquill Scarf
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -609,7 +609,7 @@ While maintaining a Performance sphere dance, the wielder deals 1d6 slashing dam
 **Construction Requirements**
 Smith Magical Arms and Armor, Destruction sphere (any (blast type) talent from the crystal blast type group) — Cost 1,500 gp
 
-### Returning Javelin [TS]
+### Returning Javelin
 
 **Aura** faint Telekinesis; **CL** 5th
 **Slot** none; **Price** 3,301 gp; **Weight** 2 lbs.
@@ -619,7 +619,7 @@ Favored by warriors and hunters of intermediate skill, this +1 attendant javelin
 **Construction Requirements**
 Smith Magical Weapons And Armor, Telekinesis sphere; **Cost** 1,650.5 gp
 
-### Shadow Axe [TS]
+### Shadow Axe
 
 **Aura** faint Illusion and Light; **CL** 5th
 **Slot** none; **Price** 17,920 gp; **Weight** 12 lbs.
@@ -629,7 +629,7 @@ This +1 shadow wake greataxe has a black, slightly transparent blade, as if it i
 **Construction Requirements**
 Smith Magical Weapons And Armor, Craft Marvelous Item, Illusion sphere, Light sphere (Black Light, Encompassing Light (light)); **Cost** 8,960 gp
 
-### Scimitar Of The Sultan [TS:WAT]
+### Scimitar Of The Sultan
 
 **Aura** moderate Destruction; **CL** 6th
 **Slot** none; **Price** 29,100 gp; **Weight** 10 lbs.
@@ -641,7 +641,7 @@ This +2 adamantine two-bladed scimitarSoM pulses with a faint warmth in battle a
 **Construction Requirements**
 Smith Magical Weapons And Armor, Craft Marvelous Item, War sphere (Totemic Aura, Totem Of Doom (totem)); **Cost** 14,550 gp
 
-### Shark Spear [TS:WAT]
+### Shark Spear
 
 **Aura** faint Blood and Divination; **CL** 3rd
 **Slot** none; **Price** 20,305 gp; **Weight** 9 lbs.
@@ -653,7 +653,7 @@ This +1 wounding longspear is decorated like a shark, with two rows of teeth ins
 **Construction Requirements**
 Smith Magical Weapons And Armor, Blood sphere, Divination sphere; **Cost** 10,152.5 gp
 
-### Shrapnel Glove [TS]
+### Shrapnel Glove
 
 **Aura** moderate Destruction; **CL** 10th
 **Slot** hands; **Price** 34,302 gp; **Weight** 1 lb.
@@ -663,7 +663,7 @@ Popular with many mageknights who like to brawl in close combat, this +1 blast v
 **Construction Requirements**
 Smith Magical Weapons And Armor, Craft Marvelous Item, Destruction sphere (Energy Strike (blast shape), Shrapnel Blast (blast type)); **Cost** 17,151 gp
 
-### Swallow-Slaying Sword [TS]
+### Swallow-Slaying Sword
 
 **Aura** faint Warp; **CL** 5th
 **Slot** none; **Price** 75,050 gp; **Weight** 6 lbs.
@@ -673,7 +673,7 @@ The swallow-slaying sword is a +3 dimensional mithril katana with ornate decorat
 **Construction Requirements**
 Smith Magical Weapons And Armor, Warp sphere (Quick Teleport); **Cost** 37,525 gp
 
-### Sword Of Oaths [TS:WAT]
+### Sword Of Oaths
 
 **Aura** moderate Fate; **CL** 10th
 **Slot** none; **Price** 89,157.5 gp; **Weight** 4 lbs.
@@ -685,7 +685,7 @@ Although not an artifact, this blade is too expensive and difficult for any regu
 **Construction Requirements**
 Smith Magical Weapons And Armor, Craft Marvelous Item, Fate sphere (Geas (advanced, word), Greater Geas (advanced), Mark Of Judgment (advanced)); **Cost** 44,578.75 gp
 
-### Sword Of The Storm [TS]
+### Sword Of The Storm
 
 **Aura** strong Creation and Weather; **CL** 15th
 **Slot** none; **Price** 92,515 gp; **Weight** 4 lbs.
@@ -695,7 +695,7 @@ The sword of the storm is a +3 crackling howling windblast longsword. However, i
 **Construction Requirements**
 Smith Magical Weapons And Armor, Craft Implement Of Power, Weather sphere (Greater Weather, Storm Lord); **Cost** 46,257.5 gp
 
-### System Scepter [TS:WAT]
+### System Scepter
 
 **Aura** moderate Light; **CL** 4th
 **Slot** none; **Price** 36,012 gp; **Weight** 8 lbs.
@@ -707,7 +707,7 @@ This +1 arcsilverUSoP heavy mace is also an accurate orrery of the solar system 
 **Construction Requirements**
 Smith Magical Weapons And Armor, Light sphere (Revealing Light (light), Solar Strike [strike]); **Cost** 18,006 gp
 
-### The Shiniest of Spears [TS]
+### The Shiniest of Spears
 
 **Aura** strong Mind; **CL** 20th
 **Slot** none; **Price** 40,310 gp; **Weight** 3 lbs.
@@ -717,7 +717,7 @@ This javelin made of solid goldUC is a poor weapon (and strangely light for its 
 **Construction Requirements**
 Smith Magical Weapons And Armor, Forge Charm, Mind sphere; **Cost** 20,155 gp
 
-### Thunderstrike [TS:WAT]
+### Thunderstrike
 
 **Aura** moderate Nature; **CL** 6th
 **Slot** none; **Price** 45,950 gp; **Weight** 8 lbs.
@@ -729,7 +729,7 @@ This +2 imperviousUE shocking burst elysian bronzeUE greatsword constantly crack
 **Construction Requirements**
 Smith Magical Weapons And Armor, Craft Marvelous Item, Destruction sphere (Electric Blast (blast type), Sculpt Blast (blast shape)); **Cost** 22,975 gp
 
-### Unerring Blade [DRS]
+### Unerring Blade
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -750,7 +750,7 @@ The unerring blade is a +1 heartseeker dagger. At the start of each day, the wie
 **Construction**
 Smith Magical Arms and Armor, Divination sphere — **Cost** 4,950 gp
 
-### Whip of Command [TS]
+### Whip of Command
 
 **Aura** moderate Mind; **CL** 10th; **SP** 6
 **Slot** none; **Price** 30,707.5 gp; **Weight** 2 lbs.
@@ -811,7 +811,7 @@ A splatter shot is a special type of alchemical cartridge designed for firearms 
 
 # Artifact Weapons
 
-### Eclipse Blade (Major Artifact) [TS:WAT]
+### Eclipse Blade (Major Artifact)
 
 **Aura** overwhelming Dark, Illusion, and Light; **CL** 22nd
 **Slot** none; **Price** -; **Weight** 8 lbs.
@@ -823,7 +823,7 @@ During a natural solar or lunar eclipse, not a temporary event caused by magic, 
 **Destruction**
 The eclipse blade can only be destroyed if a deity of darkness uses it to kill a deity of light, then immediately kills themselves. An ancient prophecy says that if this occurs, the eclipse blade will absorb the powers of both deities and become something entirely new.
 
-### Expawlibur (Minor Artifact) [Catgirl HB]
+### Expawlibur (Minor Artifact)
 
 This legendary blade and the tales of Meowlin are known through all catkind as Meowlin who guided this fated hero to free this blade from its fey-forged prison in the petrified forest. Wielded by a legendary long cat of great renown, this blade was raised to defend the defenseless kittens and drive back many ferocious foes to eventually establish a peaceful kingdom in which catkind prospered comfortably.
 **Aura** strong Alteration; **CL** 15th
@@ -861,7 +861,7 @@ If not in the possession of a good creature (even if simply set on the ground in
 **Destruction**
 A wielder of a good alignment must bear Finis for 50 years without drawing it, after which the item loses all power.
 
-### Holy King’s Blade (Minor Artifact) [TS]
+### Holy King’s Blade (Minor Artifact)
 
 **Aura** strong Creation and Illusion; **CL** 20th
 **Slot** none; **Price** -; **Weight** 4 lbs.
@@ -871,7 +871,7 @@ The holy king’s blade is a +5 attendant holy longsword with the unusual abilit
 **Destruction**
 The holy king’s blade cannot be destroyed, but it can be reclaimed from mortal hands if the rightful bearer (or their designated representative) tosses it into a specific heavenly pool in the Neutral Good plane and calls upon the gods to take it back.
 
-### The Canceller (Minor Artifact) [TS]
+### The Canceller (Minor Artifact)
 
 **Aura** overwhelming Mana; **CL** 22nd
 **Slot** none; **Price** -; **Weight** 2 lbs.
@@ -883,7 +883,7 @@ The canceller does not affect most instantaneous effects after they have been us
 **Destruction**
 The canceller can only be destroyed by using it as part of a ritual designed by the dagger’s creator on a world with access to magic. The backlash of its destruction encases the entire planet in a permanent magic-dead zone where only artifacts, godly powers, and self-powered magic items function.
 
-### White Scythe (Minor Artifact) [TS]
+### White Scythe (Minor Artifact)
 
 **Aura** overwhelming Destruction; **CL** 22nd
 **Slot** none; **Price** -; **Weight** 10 lbs.
@@ -899,7 +899,7 @@ The white scythe can only be destroyed by striking it with an attack that does a
 
 # Mythic Weapons
 
-### Light Of Destruction [MCS]
+### Light Of Destruction
 
 **Aura** strong Destruction; **CL** 14th
 **Slot** none; **Price** 96,775 gp; **Weight** 3 lbs.
@@ -953,7 +953,7 @@ Any creature that wields the weapon becomes aware of the creature type and age o
 
 **Aura** faint Divination; **CL** 5th; Smith Magical Weapons And Armor, Divination sphere (Dowsing (divine)); **Price** +6,000 gp
 
-### Bloodsong [High. HB]
+### Bloodsong
 
 This special ability can be placed only on slashing or piercing melee weapons. While the wielder benefits from a raging song performance (whether her own or from an ally), this weapon gains the keen weapon special ability. If the wearer confirms a critical hit while under the effects of a raging song, she gains 1d10 temporary hit points until the raging song ends. If the weapon's critical multiplier is x3, add 2d10 temporary hit points instead; if the multiplier is x4, add 3d10 temporary hit points instead. While its powers are active, the weapon vibrates and makes a barely audible hum that rises to a shriek of triumph when it confirms a critical hit.
 
@@ -967,7 +967,7 @@ A conscription weapon forces enemies to become allies, often turning the tide of
 
 **Aura** moderate Mind; **CL** 9th; Smith Magical Weapons And Armor, Mind sphere (Command (charm), Powerful Charm); **Price** +3 bonus
 
-### Cord-Cutting [Alienist HB]
+### Cord-Cutting
 
 This special ability can only be applied to melee weapons which deal slashing damage.
 
@@ -1043,7 +1043,7 @@ This special ability may only be applied to a light or one-handed melee weapon. 
 
 **Aura** moderate Mind; **CL** 7th; Smith Magical Weapons And Armor, Enhancement sphere (Mental Enhancement); **Price** +1 bonus.
 
-### Heartseeker [High. HB]
+### Heartseeker
 
 This special ability can only be placed on melee weapons. A heartseeker weapon is drawn unerringly toward beating hearts. A heartseeker weapon ignores the miss chance for concealment against most living targets, though the attack must still target the proper square. This special ability does not apply against aberrations, oozes, outsiders with the elemental subtype, plants, or any creature specifically noted to lack a heart.
 
@@ -1071,7 +1071,7 @@ Injuries made by this weapon seem worse than they actually are. Creatures damage
 
 **Aura** faint Illusion or faint Mind; **CL** 5th; Smith Magical Weapons And Armor, Illusion sphere or Mind sphere; **Price** +1 bonus
 
-### Informing [DRS]
+### Informing
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -1131,7 +1131,7 @@ In addition, you can use a radiant edge weapon much like a torch. It sheds norma
 
 **Aura** faint Light; **CL** 5th; Smith Magical Weapons And Armor, Light sphere; **Price** +2 bonus
 
-### Resonant [DRS]
+### Resonant
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -1211,7 +1211,7 @@ An umbral edged weapon’s blade is particularly effective at severing a target�
 
 **Aura** faint Dark; **CL** 5th; Smith Magical Weapons And Armor, Dark sphere; **Price** +1 bonus
 
-### Wild Critical [WM]
+### Wild Critical
 
 A confirmed critical hit with a wild critical weapon increases the target’s [[Wild Magic|wild magic]] chance by 100% for a number of rounds equal to its enhancement bonus.
 

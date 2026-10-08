@@ -36,7 +36,7 @@ Practitioners who train in certain spheres focused on unarmed combat, such as Bo
 
 # Open Hand Talents
 
-#### Aquatic Stalker [Apoc]
+#### Aquatic Stalker
 
 You may perform the trip combat maneuver against swimming creatures. If you succeed, instead of making the target prone you make them off-balanced. An off-balance creature loses its Dexterity bonus to Armor Class, and opponents gain a +2 bonus on attacks against it as long as it remains in water. Treat this as if you had made the creature prone for abilities that depend on knocking down or targetting a prone creature. The off-balanced creature may right itself as a move action that provokes attacks of opportunity. **Associated Feat:** Sea Hunter.
 
@@ -50,7 +50,7 @@ When making an attack action, attack of opportunity, or additional attack grante
 
 Whenever you make an attack with an unarmed strike while prone, the penalty to attack rolls is reduced by 2. In addition, you may spend an immediate action to stand up from being prone without provoking an attack of opportunity as a part of an attack action made with an unarmed strike, dealing an additional +2 damage. At +10 base attack bonus, this additional damage increases to +5 and you no longer take a penalty on attack rolls made with unarmed strikes while prone.
 
-#### Cooperative Clothesline [Apoc]
+#### Cooperative Clothesline
 
 *Source: [Tandem Talents](https://www.drivethrurpg.com/product/282809/Spheres-Apocrypha-Tandem-Talents?affiliate_id=549120)*
 
@@ -64,7 +64,7 @@ Whenever a creature within your threatened area misses you with a melee attack, 
 
 When you have martial focus, when a creature makes a melee attack or combat maneuver against you, you may spend an immediate action to make a touch attack against that creature, dealing damage equal to your practitioner modifier + your base attack bonus. Regardless of if your attack is successful or not, you then immediately fall prone (you may not use this talent if you are unable to become prone or already prone). At +10 base attack bonus, this talent instead deals damage equal to your unarmed strike.
 
-#### Featherlight Positioning (stance) [Youxia HB]
+#### Featherlight Positioning (stance)
 
 While in this stance, whenever you make an attack action, attack of opportunity, or additional attack granted by a class feature or talent with an unarmed strike, you may spend an attack of opportunity to take a 5-foot step immediately after the attack as a free action that can be taken even outside of your normal turn. You may make 5-foot steps in this manner even if you have already moved for the round. **Associated Feat:** Circling Mongoose.
 
@@ -112,11 +112,11 @@ Whenever you are within melee range of a battered creature, you can make a singl
 
 At +10 base attack bonus, if you end the movement from this talent within melee range of another creature, you may use it again as a move action, but the attack granted from this talent is not treated as an attack action.
 
-#### Leopard’s Gambit (stance) [Youxia HB]
+#### Leopard’s Gambit (stance)
 
 While in this stance, whenever a creature makes a melee attack against you, you may allow the creature to roll its attack twice, taking the better result. If you do, the creature provokes an attack of opportunity from you after the attack and damage is determined. You must make this attack of opportunity with an unarmed strike. If the creature attacking you is battered, you may resolve your attack of opportunity prior to their attack being resolved. This talent cannot be used in conjunction with the Bloody Counter talent.
 
-#### Lotus Touch [Youxia HB]
+#### Lotus Touch
 
 As a standard action, you can make a melee touch attack against a creature, dealing damage equal to your Strength modifier (or whichever attribute was used to make the check). The next successful attack action, attack of opportunity, or additional attack granted by a class feature or talent an ally makes against that creature before the start of your next turn has its base critical threat range doubled; this does not stack with other abilities which would increase critical threat range, such as Improved Critical. A critical hit scored while a creature is affected by this ability has its critical multiplier reduced to x2 if it would normally be higher. For every 5 base attack bonus you possess, Lotus Touch applies to one more eligible attack made before the start of your next turn. **Associated Feat:** Butterfly’s Sting.
 
@@ -124,23 +124,23 @@ As a standard action, you can make a melee touch attack against a creature, deal
 
 When you have martial focus, your unarmed strikes are treated as though they were magic for the purpose of damage reduction and damaging incorporeal creatures. For every 5 points of base attack bonus you possess, you can select a material or component of your alignment, treating your unarmed strikes as the chosen material or alignment for the purpose of damage reduction. Once chosen, these choices cannot be changed.
 
-#### Palm Block [Youxia HB]
+#### Palm Block
 
 You may spend a move action to prepare your defenses. When you do so, the next time you would take damage from a melee attack before the start of your next turn, you may roll your unarmed strike damage die and reduce the damage taken by that result. At base attack bonus +6 and every 5 base attack bonus you possess thereafter, you may reduce the damage of an additional melee attack before the start of your next turn.
 
-#### Rapid Sweep [3PP]
+#### Rapid Sweep
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 You no longer suffer a -2 penalty when using sweep and may spend martial focus to sweep as a swift action.
 
-#### Rippling Blow [Youxia HB]
+#### Rippling Blow
 
 When you perform an attack action with an unarmed strike, you may accept a -2 penalty to your attack rolls until the end of your turn to force a creature hit by the attack to immediately provoke an attack of opportunity from you. You must make this attack of opportunity with an unarmed strike.
 
 **Author's Note:** The penalty to attack rolls applies to the initial attack action's attack roll.
 
-#### Rising Leverage [Youxia HB]
+#### Rising Leverage
 
 Whenever you successfully trip a creature while prone, you may restore your martial focus and stand up without provoking an attack of opportunity as a free action that can be taken even outside of your turn.
 
@@ -170,7 +170,7 @@ As a special attack action, you may expend your martial focus to make two attack
 
 Whenever you make a successful unarmed strike against a creature using the attack action, you may make a trip attempt against that creature with a -2 penalty as an immediate action that doesn’t provoke an attack of opportunity.
 
-#### Swinging Swap [3PP]
+#### Swinging Swap
 
 Whenever you make a successful unarmed strike against a creature using the attack action, you can swap positions with that creature (creatures larger than you must end this talent’s movement occupying at least one space that you did, allowing them to choose their exact position). If you successfully use this talent on the same creature during two consecutive rounds, that creature must make a successful Will saving throw or be confused for 1 round.
 
@@ -180,17 +180,17 @@ At +10 base attack bonus, the duration of this confusion increases to a number o
 
 You may deal bludgeoning, piercing, or slashing damage with your unarmed strikes, rather than only bludgeoning damage, chosen each time you make an unarmed attack. Whenever you deal unarmed strike damage to a target as an attack action, you may spend a swift action to rip the damaged creature’s flesh; the creature takes 1 bleed damage and has their natural armor reduced by 1 (minimum 0) for as long as they are suffering this bleed damage. For every 6 base attack bonus you possess, the bleed damage and natural armor reduction caused by this talent increase by 1.
 
-#### Thunderous Punishment [Youxia HB]
+#### Thunderous Punishment
 
 Whenever you successfully perform an attack of opportunity with an unarmed strike, the opponent must succeed at a Fortitude save or become battered and staggered for 1 round. You may not affect the same creature more than once per round with this talent.
 
 At base attack bonus +10, you may expend your martial focus as an immediate action on a successful attack of opportunity with an unarmed strike to instead batter and daze the opponent for 1 round on a failed Fortitude save.
 
-#### Up High, Down Low, Too Slow [Jester's HB]
+#### Up High, Down Low, Too Slow
 
 If you successfully trip a creature and deal damage to that same creature using an unarmed strike during the same round, that creature gains the battered condition until the end of your next turn. That creature's movement speed is reduced by 10 feet for as long as the target has the battered condition. This effect cannot reduce a creature’s movement speed below 5 feet. At +10 base attack bonus, the movement speed reduction increases to 15 feet.
 
-#### Vibrating Impacts [Youxia HB]
+#### Vibrating Impacts
 
 Whenever you make a successful attack action or attack of opportunity with an unarmed strike against a battered creature, you may cause the creature to count the damage they took from your unarmed strike as continuous damage for the purpose of forcing concentration checks until the start of your next turn.
 
@@ -198,7 +198,7 @@ Whenever you make a successful attack action or attack of opportunity with an un
 
 You may spend a swift action to cause a creature damaged by your unarmed strike to gain the battered condition until the end of your next turn. Also as long as you have martial focus, your unarmed strikes gain the distracting and performance weapon special properties.
 
-#### Withering Defense [Youxia HB]
+#### Withering Defense
 
 Whenever a creature within your threatened area misses you with a melee attack, you may expend an attack of opportunity as a free action that can be taken even when it is not your turn to force the creature to succeed at a Fortitude saving throw or become fatigued for 1 round.
 
@@ -220,7 +220,7 @@ You can make unarmed strikes with such force that it creates howling winds. As a
 
 You may spend a move action to rapidly spin in place, generating heat and friction that cause the next unarmed strike you make before the start of your next turn to deal an additional amount of fire damage equal to your base attack bonus. While this talent is active, the hellish flames around your limbs cause your unarmed strikes to be treated as magical weapons when attacking incorporeal creatures; if your unarmed strikes would already be magical, such as because you are currently wearing an amulet of mighty fists, they instead deal full damage against incorporeal creatures. Creatures killed while this talent is active require those attempting to resurrect them to make a caster level check equal to 10 + your base attack bonus or fail. This is a supernatural effect.
 
-#### Final Judgement [Youxia HB]
+#### Final Judgement
 
 **Prerequisites:** Open Hand sphere, base attack bonus +20.
 
@@ -234,13 +234,13 @@ Your unarmed strikes cause all fast healing and regeneration a creature may poss
 
 Whenever you deal damage to a creature or object with your unarmed strike using an attack action, if that creature would be reduced to 0 or fewer hit points, it is instantly killed and transformed into fine dust. If you deal damage in this manner to an object, reducing the object to 0 hp disintegrates the object (or a 10 ft. cube, if the object is particularly large). This is a supernatural effect.
 
-#### Perfect Attunement [Youxia HB]
+#### Perfect Attunement
 
 **Prerequisites:** Open Hand sphere, base attack bonus +7.
 
 As long as you have martial focus, you gain tremorsense with a range of 15 feet. At base attack bonus +11 and every 4 base attack bonus higher, the range of your tremorsense increases by 15 feet.
 
-#### Soul Punch [Youxia HB]
+#### Soul Punch
 
 **Prerequisites:** Open Hand sphere, base attack bonus +10.
 

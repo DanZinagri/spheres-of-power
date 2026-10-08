@@ -40,7 +40,7 @@ Practitioners who train in certain spheres focused on unarmed combat, such as Bo
 
 # Brute Talents
 
-#### Armored Momentum [Apoc]
+#### Armored Momentum
 
 *Source: [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)*
 
@@ -56,7 +56,7 @@ In addition, you may use one of the above to perform a shove, adding their bonus
 
 Whenever you successfully use a bull rush, drag, overrun, or reposition, combat maneuver against a creature, that creature provokes an attack of opportunity from your allies (but not you). **Associated Feat:** Greater Bull Rush, Greater Drag, Greater Overrun, Greater Reposition.
 
-#### Brutal Boar’s Charge [BTH]
+#### Brutal Boar’s Charge
 
 You channel the boar, goring your foe before trampling them underfoot or launching them.
 
@@ -70,7 +70,7 @@ You may only shove one target when using this talent, even if you could attempt 
 
 When applying a (manhandle) talent, you may expend your martial focus to apply a second (manhandle) talent. You cannot apply the same (manhandle) twice with this talent.
 
-#### Destabilizing Charge [Apoc]
+#### Destabilizing Charge
 
 *Source: [Tandem Talents](https://www.drivethrurpg.com/product/282809/Spheres-Apocrypha-Tandem-Talents?affiliate_id=549120)*
 
@@ -102,7 +102,7 @@ Whenever you hit a target with an attack action, you may make a bull rush or rep
 
 You may use your weapon to perform this maneuver, meaning your weapon’s enhancement bonus, as well as spells that increase attack bonuses or feats such as Weapon Focus, apply to the maneuver.
 
-#### Giant Physique (stance) [Youxia HB]
+#### Giant Physique (stance)
 
 While in this stance, you are treated as though you were one size category larger for the purpose of calculating CMB for combat maneuvers attempted with unarmed strikes (including any combat maneuver made with your hands, such as grapples), your CMD, and your ability to use combat maneuvers on a creature. For every 5 base attack bonus you possess, you are treated as an additional size larger (if this talent would make you Colossal or larger, you instead receive a +1 bonus to combat maneuvers made with unarmed strikes and to your CMD).
 
@@ -118,7 +118,7 @@ When you shove a target, that target suffers additional damage equal to 1/2 your
 
 As long as you have martial focus, whenever you would bull rush, drag, or reposition a creature into a space occupied by a wall, creature, or object no more than one size smaller than the creature, the target of the maneuver stops its movement in the adjacent space and both the creature and the wall, other creature, or object suffer bludgeoning damage. The amount of damage dealt is determined by the size of the creature being bull rushed, dragged, or repositioned, as indicated on the list below: **Fine** 1d2, **Diminutive** 1d3, **Tiny** 1d4, **Small** 1d6, **Medium** 1d8, **Large** 1d10, **Huge** 2d6, **Gargantuan** 2d8, **Colossal** 3d6. This damage is increased by the listed amount again for every 5-ft. square the creature would have traveled beyond the wall, other creature, or object.
 
-You may take this talent a second time. If you do, you no longer require martial focus to apply its effects. In addition, all creatures are considered to be two sizes larger for the purpose of determining damage dealt by this talent, to a maximum of Colossal. [Alienist HB]
+You may take this talent a second time. If you do, you no longer require martial focus to apply its effects. In addition, all creatures are considered to be two sizes larger for the purpose of determining damage dealt by this talent, to a maximum of Colossal.
 
 #### Hostile Movement
 
@@ -130,7 +130,7 @@ As a move action, you gain a bonus equal to 1/2 your base attack bonus (minimum 
 
 If you expend your martial focus, this bonus increases to become equal to your full base attack bonus, but automatically leaves you exhausted for 1d4 rounds afterward.
 
-#### Ornery Ox (stance) [Youxia HB]
+#### Ornery Ox (stance)
 
 While in this stance, whenever you use shove as a move action, you may spend an attack of opportunity to perform an overrun maneuver against 1 creature in your path as a free action. For every 5 base attack bonus you possess you may attempt to overrun an additional target, but suffer a cumulative -2 penalty on each additional check made. You cannot overrun a target more than once in the same shove.
 
@@ -142,7 +142,7 @@ You may expend your martial focus to perform a bull rush, drag, or reposition as
 
 At +10 base attack bonus, whenever you perform a bull rush, drag, or reposition combat maneuver as a move action, you may move with the creature as part of that action; in essence, using the action both to move and perform the maneuver.
 
-#### Rugged Brutality [DRS]
+#### Rugged Brutality
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -162,7 +162,7 @@ Additionally, you may expend your focus to perform a bull rush or reposition com
 
 If this maneuver is made as a result of a creature’s movement, their movement ends for that round if your maneuver is successful. If this maneuver is successfully made as a result of a target using a spell, the creature must pass a concentration check equal to your combat maneuver check + the spell’s level or lose the spell.
 
-#### Slapper [Jester's HB]
+#### Slapper
 
 You may use a natural weapon, unarmed strike, or weapon held in one hand to perform a shove, adding its bonuses to your shove’s attack roll and its enhancement bonus to your shove’s damage, as well as damage from appropriate special abilities such as flaming, holy, etc.
 
@@ -178,7 +178,7 @@ You may use your unarmed strike or a light weapon you are holding to make these 
 
 When you perform a charge, you do not provoke attacks of opportunity when making a bull rush or overrun as part of that charge. Creatures may no longer choose to avoid you when you use the overrun combat maneuver unless you choose to allow it.
 
-#### Underfoot Trample [3PP]
+#### Underfoot Trample
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -236,13 +236,13 @@ Whenever you succeed on a bull rush, drag, or reposition maneuver, you may expen
 
 # Legendary Talents
 
-#### Destructive Force [EO3]
+#### Destructive Force
 
 **Prerequisites:** Brute sphere (Hammer) or Berserker sphere (Shatter Earth), base attack bonus +10.
 
 Whenever you use the Hammer or Shatter Earth talent to deal damage to an object, a wall or the ground, you ignore an amount of hardness equal to your base attack bonus, in addition to doubling the damage dealt to the object, ground or wall.
 
-#### Forceful Jaunt [EO3]
+#### Forceful Jaunt
 
 **Prerequisites:** Brute sphere, base attack bonus +5.
 
@@ -258,7 +258,7 @@ You may use your Muscular Surge talent as a free action rather than a move actio
 
 You may still expend your martial focus as a free action to gain the more powerful bonus for a number of rounds equal to your Constitution modifier, and are only fatigued afterward rather than exhausted. For this duration, you also count as being one size larger than you are for the purpose of targeting creatures with combat maneuvers and for talents that have effects dependent on size, such as Rock Toss or Thrower’s Reflexes from the Equipment sphere, the Terrain Trasher legendary Brute talent, or Living Weapon from the Wrestling sphere.
 
-#### Launching Rush [EO3]
+#### Launching Rush
 
 **Prerequisites:** Brute sphere, base attack bonus +10.
 
@@ -268,7 +268,7 @@ If you possess the Launching Uppercut Boxing sphere talent, you may use this abi
 
 If you possess the Tombstone Burial legendary Wrestling sphere talent, you increase the amount of distance traveled underground by 5 feet for every 2 points of base attack bonus you possess, instead of every 5.
 
-#### Momentous Force [3PP]
+#### Momentous Force
 
 *Source: [Expanded Spheres: Weaves of War](https://www.drivethrurpg.com/en/product/482352/expanded-spheres-weaves-of-war=3028400)*
 
@@ -280,7 +280,7 @@ In addition, you do not provoke attacks of opportunity for moving with a creatur
 
 When you use the Throw or Launching Rush talent, you may move up to your speed to a square adjacent to where the target lands. This movement does not provoke attacks of opportunity.
 
-#### Pertinacious Conditioning (manhandle) [EO3]
+#### Pertinacious Conditioning (manhandle)
 
 **Prerequisites:** Brute sphere, base attack bonus +5.
 
@@ -318,7 +318,7 @@ If you possess Strong Lungs from the Athletics sphere, you may add your bonus fr
 
 If you possess the Oversized Weapons legendary talent from the Equipment sphere, you may wield weapons of any size without increasing the effort required (i.e., you do not increase the weapon’s category by 1 step from light to one-handed, one-handed to two-handed, etc.), though you still suffer a -2 penalty on attack rolls for each size category the weapon is larger than you.
 
-#### Transonic Smash (manhandle) [EO3]
+#### Transonic Smash (manhandle)
 
 **Prerequisites:** Brute sphere, base attack bonus +5.
 

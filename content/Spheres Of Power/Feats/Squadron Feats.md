@@ -14,7 +14,7 @@ Similar to the Mana sphere, many Squadron feats offer potent supportive abilitie
 
 **Author's Note:** Unless noted otherwise, you must have line of sight to use Squadron feats (and members must generally have line of sight to benefit each other). This means that you can use them over things like scrying and that their range is otherwise unlimited, but obstacles like opaque clouds can stop them.
 
-#### All Together Now (Squadron) [LotS]
+#### All Together Now (Squadron)
 
 **Prerequisites:** Communication sphere, Posse Commander.
 
@@ -32,7 +32,7 @@ Similar to the Mana sphere, many Squadron feats offer potent supportive abilitie
 
 **Benefit:** When members of your squadron use the aid another action on other squadron members, they grant their ally an additional +2 bonus.
 
-#### Collective Intensity (Combat, Squadron) [3PP]
+#### Collective Intensity (Combat, Squadron)
 
 *Source: Baron’s Glorious Arena*
 
@@ -40,7 +40,7 @@ Similar to the Mana sphere, many Squadron feats offer potent supportive abilitie
 
 **Benefits:** As an immediate action, you may allow an ally in your squadron to use your tension pool and any abilities which involve spending tension as if they also had them until the end of the current turn. The tension cost of any ability used in this way increases by 1. A character cannot use both another squadron member’s tension and their own during the same turn.
 
-#### Coordinated Plot (Squadron) [LotS]
+#### Coordinated Plot (Squadron)
 
 **Prerequisites:** Communication sphere, Posse Commander.
 
@@ -52,13 +52,13 @@ Similar to the Mana sphere, many Squadron feats offer potent supportive abilitie
 
 **Benefit:** As a swift action, you may spend a spell point or expend your martial focus and designate a target. Until the beginning of your next turn, whenever a member of your squadron hits that target, all members of your squadron receive an additional +1 circumstance bonus to attack rolls and damage against that target. Members with iterative attacks can benefit from bonuses generated earlier in the same turn. This bonus stacks with itself, up to a maximum equal to your War caster level or your ranks in Diplomacy, whichever is higher.
 
-#### Hive Mind (Squadron) [Alienist HB]
+#### Hive Mind (Squadron)
 
 **Prerequisites:** War sphere, Squadron Commander; or Warleader sphere, Troop Commander; caster level 5th or 5 ranks in Diplomacy.
 
 **Benefit:** You gain the ability to communicate telepathically with all members of your squadron regardless of range, allowing you to send messages and for them to send their own. In addition, you do not need to touch members of your squadron in order to renew your bond with them; they need only be in telepathic contact with you when you take a minute to renew your bond. So long as at least one member of your squadron is aware of a threat, all members are aware of the threat and cannot be flanked by threats that others are aware of. Such awareness can spread along a “chain” of creatures under appropriate circumstances, potentially alerting distant creatures.
 
-#### Infantry Formation (Squadron) [High. HB]
+#### Infantry Formation (Squadron)
 
 **Prerequisite:** Squadron Commander or Troop Commander.
 
@@ -88,7 +88,7 @@ The first ally to move must move adjacent to at least one other squad member, th
 
 **Benefit:** When using a sphere ability on a single creature in your squadron other than yourself, you may spend an additional spell point to target any number of creatures in your squadron. All squadron members must be within the range of the sphere ability. You must have line of sight and line of effect to affect them, and you may include yourself as a target. This cannot be used with sphere effects that do not have the option of being augmented by a (mass) talent. If the sphere ability has a duration greater than 1 hour, it is reduced to 1 hour.
 
-#### Middle Man (Squadron) [LotS]
+#### Middle Man (Squadron)
 
 **Prerequisites:** Communication sphere, Faction sphere, Posse Commander.
 
@@ -124,7 +124,7 @@ The first ally to move must move adjacent to at least one other squad member, th
 
 **Benefit:** The number of members of your squadron increases. Your squadron includes yourself and 4 allies plus an additional ally for every 2 caster levels or ranks in Diplomacy (whichever is higher) you possess. You may add troop or crew creatures to your squadron, with each counting as 4 creatures.
 
-#### Posse Commander (Squadron) [LotS]
+#### Posse Commander (Squadron)
 
 **Prerequisite:** Communication sphere.
 
@@ -148,7 +148,7 @@ For the purpose of determining how many additional allies you may have in a squa
 
 **Benefit:** You may choose to have your sphere talents or abilities which target a willing creature have a range of close rather than touch when targeting members of your squadron.
 
-#### Rehearsed Performance (Squadron) [LotS]
+#### Rehearsed Performance (Squadron)
 
 **Prerequisites:** Communication sphere; one of Performance sphere ((dance) package), bardic performance, psionics, or raging song; Posse Commander.
 
@@ -172,7 +172,7 @@ For the purpose of determining how many additional allies you may have in a squa
 
 **Benefit:** Whenever a member of your squadron leaves a square adjacent to another member of your squadron, they do not provoke attacks of opportunity from adjacent enemies.
 
-#### Squad Triangulation (Squadron) [Alienist HB]
+#### Squad Triangulation (Squadron)
 
 **Prerequisites:** War sphere, Squadron Commander; or Warleader sphere, Troop Commander.
 
@@ -192,13 +192,13 @@ Alternatively, instead of allies, your squadron may consist of yourself and one 
 
 Members of your squadron gain increased bonuses from your totems. If a totem grants a bonus to any d20 roll or any number that is the target of a d20 roll (such as AC, attack rolls, saving throws, CMB, CMD, ability checks, skill checks, concentration checks, or spell penetration checks), that bonus increases by +1, and an additional +1 for every 10 War caster levels you possess.
 
-#### Squadron Network (Squadron) [Alienist HB]
+#### Squadron Network (Squadron)
 
 **Prerequisites:** War sphere, Squadron Commander; or Warleader sphere, Troop Commander; character level 10th.
 
 **Benefit:** If a creature is a member of the squadron of one of your squadron members, you may treat that creature as a member of your squadron.
 
-#### Troop Commander (Squadron) [High. HB]
+#### Troop Commander (Squadron)
 
 **Prerequisite:** Warleader sphere.
 

@@ -8,7 +8,7 @@ parent: "[[Retired Ultimate]]"
 > [!note] Retired
 > The *Ultimate Spheres of Power* version of [[Light Sphere Feats|Light Sphere Feats]], since replaced by Diamond Recreational Studios' *Polished* content. Not part of the current rules.
 
-#### Night Sky (Dual Sphere) [RW HB]
+#### Night Sky (Dual Sphere)
 
 It was no longer dark, for the twinkling lights danced and distracted in their own new ways.
 

@@ -35,7 +35,7 @@ If you change alignment such that you no longer have the alignment component you
 
 If you are playing with alignment descriptors, sphere effects and spells modified with the Align Spell metamagic feat should have the descriptor associated with the chosen alignment component. See the GM Advice section on the [[Fate]] page for more information on incorporating alignment descriptors into your game.
 
-#### Delayed Magic (Metamagic) [Core]
+#### Delayed Magic (Metamagic)
 
 **Prerequisite:** Spell pool class feature.
 

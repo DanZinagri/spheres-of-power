@@ -146,19 +146,19 @@ At 20th level, the thaumaturge selects two invocations other than rebuke death; 
 
 The following feats are particularly relevant or appropriate for Thaumaturges.
 
-#### Extra Invocations [Core]
+#### Extra Invocations
 
 **Prerequisite:** Invocations class feature.
 
 **Benefit:** Increase the number of times per day you may use Invocations by 2. You may take this feat multiple times. The effects stack.
 
-#### Extra Magic Talent [Core]
+#### Extra Magic Talent
 
 **Prerequisite:** Basic Magic Training or Casting class feature.
 
 **Benefit:** Gain an additional sphere or a talent from a sphere you possess. You may take this feat multiple times. The effects stack.
 
-#### Extra Spell Points [Core]
+#### Extra Spell Points
 
 **Prerequisite:** Spell Pool.
 
@@ -176,7 +176,7 @@ The following feats are particularly relevant or appropriate for Thaumaturges.
 
 **Benefit:** Whenever you successfully use forbidden lore with a totem, all allies within the totem receive a morale bonus equal to your base forbidden lore bonus to one of the following, chosen by you when you create the totem: attack rolls, damage rolls, AC, saving throws, skill checks, magic skill checks, or CMB and CMD. Bonuses to your forbidden lore bonus do not increase this bonus. Multiple totems can give allies multiple bonuses, but two similar bonuses do not stack.
 
-#### Master Artisan [Core]
+#### Master Artisan
 
 **Prerequisites:** Forbidden lore class feature, at least 1 item creation feat.
 
@@ -188,25 +188,25 @@ The following feats are particularly relevant or appropriate for Thaumaturges.
 
 **Benefit:** Add your forbidden lore bonus to your caster level when determining the number of Hit Dice of blood constructs you may control at any one time through the Extract Blood Construct talent. Blood constructs created this way gain a bonus to natural attack damage equal to your forbidden lore bonus.
 
-#### Master of Cosmos [Core]
+#### Master of Cosmos
 
 **Prerequisites:** Forbidden lore class feature, Conjuration sphere.
 
 **Benefit:** Your companions gain a circumstance bonus to attack rolls and skill checks equal to your forbidden lore bonus.
 
-#### Master of Death [Core]
+#### Master of Death
 
 **Prerequisites:** Forbidden lore class feature, Death sphere.
 
 **Benefit:** Add your forbidden lore bonus to your caster level when determining the number of undead creatures you may control at any one time through the Death sphere.
 
-#### Master of Faerie [Fey HB]
+#### Master of Faerie
 
 **Prerequisites:** Fallen Fey sphere, Summon Fairy, forbidden lore class feature.
 
 **Benefit:** Add your forbidden lore bonus to your caster level when determining the total Hit Dice of fey creatures you may have summoned at one time.
 
-#### Occult Savant [Core]
+#### Occult Savant
 
 **Prerequisites:** Occult Knowledge class feature, Spellcraft, Use Magic Device, or any Knowledge skill 10 ranks.
 

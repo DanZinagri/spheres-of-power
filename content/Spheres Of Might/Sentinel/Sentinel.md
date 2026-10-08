@@ -191,7 +191,7 @@ The following feats are especially helpful or appropriate for Sentinels.
 
 The following magical items are especially appropriate for sentinels.
 
-#### Bracers Of Vigilance [TS:WAT]
+#### Bracers Of Vigilance
 
 **Aura** moderate Protection; **CL** 6th
 **Slot** wrists; **Price** 8,000 gp; **Weight** 2 lbs.
@@ -201,7 +201,7 @@ These metal bracers seem to guide the user’s hands. While worn by a creature w
 **Construction Requirements**
 Craft Apparatus, Protection sphere, creator must have the guard wall class feature; **Cost** 4,000 gp
 
-#### Sash Of Everlasting Passion [TS:WAT]
+#### Sash Of Everlasting Passion
 
 **Aura** moderate Life; **CL** 6th
 **Slot** body; **Price** 20,000; **Weight** 3 lbs.
@@ -211,7 +211,7 @@ This colorful sash is easy to wear around the body, over or under the wearer’s
 **Construction Requirements**
 Craft Apparatus, Life sphere, creator must have the second wind class feature; **Cost** 10,000 gp
 
-#### Shield Expander [TS:WAT]
+#### Shield Expander
 
 **Aura** moderate Light; **CL** 5th
 **Slot** special, see text; **Price** 20,000 gp; **Weight** 1 lb.

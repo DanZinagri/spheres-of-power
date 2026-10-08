@@ -13,11 +13,11 @@ parent: "[[Original Spheres]]"
 
 You are a user of the magics of preservation.
 
-# Ward [Core]
+# Ward
 
 As a standard action, you may create an ward centered on yourself with a radius of up to 10 ft + 5 ft per caster level, but can also be made so small as to only cover yourself. Wards remain as long as you concentrate, but you may spend a spell point to allow them to remain for 1 round per caster level without concentration. Wards remain in the location they were created, even if you move. When you gain the Protection sphere, you gain the following ward:
 
-#### Barrier [Core]
+#### Barrier
 
 You may create a ward that creates a mostly-transparent wall at its perimeter, stopping attacks, movement, breath weapons, and any spells or sphere effects that must travel to their destination (such as destructive blasts, ghost strikes, or spells that require ranged touch attacks).
 
@@ -29,7 +29,7 @@ A barrier has hit points equal to 4 + your caster level and a Break DC of 15 + 1
 
 Unless explicitly stated otherwise, barriers created with the Protection sphere are transparent force effects and block line of effect, but do not block line of sight or teleportation. Barriers can grant cover, but not concealment (unless explicitly stated otherwise).
 
-# Aegis [Core]
+# Aegis
 
 As a standard action, you may touch a creature and spend a spell point, granting them an aegis for 1 hour per caster level. Unwilling targets are allowed a Will save to resist gaining an aegis.
 
@@ -37,7 +37,7 @@ Multiple aegises of the same talent can be placed on a single creature, and the 
 
 You gain the following aegis when you gain the Protection sphere:
 
-#### Deflection [Core]
+#### Deflection
 
 You grant the target a +1 Deflection bonus to AC, +1 per 5 caster levels.
 
@@ -51,13 +51,13 @@ A (succor) talent allows you to create an effect by sacrificing an aegis you cre
 
 # Protection Talents
 
-#### Barrier Maze [Abj. HB]
+#### Barrier Maze
 
 When you create a barrier, instead of having a wall at the edge of the ward, you may spend a spell point to create a number of cubes equal to twice your caster level. Each cube completely fills a 5 ft. square, and has 5 hit points, or 4 + your caster level hit points if you possess the Greater Barrier talent. Like a barrier, the cubes are mostly-transparent, and they block the same modes of attack. They are otherwise materially identical to a barrier, and have the same break DC.
 
 Objects and creatures can not be trapped within a cube, and the presence of a creature in a square prevents the cube from forming there. Cubes must be created at ground level, but can be joined into larger configurations. All cubes must be created within an area you could cover with a ward.
 
-#### Buttressing [Abj. HB]
+#### Buttressing
 
 You may repair any barrier you created (including those created using Greater Barrier) causing it to regain a number of hit points equal to 4 + your caster level. This is a move action, or you may spend a spell point to do this as a swift action. You must have line of sight to the barrier to use this talent.
 
@@ -67,11 +67,11 @@ A barrier that has been reduced to 0 hp has been destroyed and cannot regain hit
 
 If used on a barrier comprised of cubes using the Barrier Maze talent, this talent allows each cube to regain 1 lost hit point or for 1 cube to regain all lost hit points when you spend a move action or a spell point and a swift action to use this ability. When you spend a spell point to maintain the barrier without concentration, you may spend an additional spell point to make each cube regain 1 hit point per round. A cube that has been reduced to 0 hp has been destroyed and cannot regain hit points or be restored using this talent, though the remaining cubes can still regain hit points.
 
-#### Community [Core]
+#### Community
 
 Whenever a creature under your aegis takes damage, you may spend a spell point to transfer up to half of that damage to any other creature under one of your aegis as a free action. This damage cannot be resisted or redirected further.
 
-#### Continuous Barrier [Abj. HB]
+#### Continuous Barrier
 
 Barriers you create are completely sealed spheres. If creating the barrier would cause it to go through another object, the barrier cuts harmlessly through the material (without compromising the integrity of the object, but preventing the object from being moved). If creating the barrier would cause it to go through a creature or animated object, the barrier shunts the creature just outside the effect of the sphere.
 
@@ -79,21 +79,21 @@ These modifications to your barriers make it so that ethereal creatures, or crea
 
 This ability can be combined with Greater Barrier to allow your barrier wall to pass through objects.
 
-#### Distant Protection [Core]
+#### Distant Protection
 
 When creating a ward, you may center it anywhere within Close range. When granting an aegis, you may grant it to a target within Close range.
 
-#### Enduring Protection [Abj. HB]
+#### Enduring Protection
 
 When you spend a spell point to make a ward last without concentration, it lasts 1 minute per caster level.
 
-#### Expedited Defense [Abj. HB]
+#### Expedited Defense
 
 You may spend a spell point to create a ward as a move action.
 
 You may take this talent a second time. If you do, you no longer need to spend a spell point to create a ward as a move action and may spend a spell point to create a ward as a swift action.
 
-#### Glyph [Abj. HB]
+#### Glyph
 
 At the time of casting a ward you may choose to shape the ward into a glyph: a magical trap whose effects are not immediately active until triggered. A glyph is cast upon a 5 ft. by 5 ft. area and takes the form of a 6 inch tall symbol, faintly visible on a surface. The glyph lasts for 1 hour per caster level or until activated by a trigger specified by the caster at the time it is created. When activated, the glyph become the center point for the ward, and it performs its function for a number of rounds equal to your caster level, and then the ability ends. Once cast, the glyph can not be moved from its location, and any attempt to do so fails. Destroying the surface the glyph is on destroys it, but doesn’t end the glyph effect once it has been triggered.
 
@@ -107,29 +107,29 @@ When a glyph you created activates, its effect begins. The glyph’s effect can 
 
 A glyph can be seen by effects that detect or sense magic, and can also be detected as a magical trap can be. In order for someone to spot one of your glyphs it requires a Perception Check with a DC equal to 25 + 1/2 your caster level (minimum 1). Disabling the glyph requires a Disable Device check with the same DC. Alternatively, destroying the surface the glyph is imprinted on can destroy the glyph, but once activated, destroying the glyph does not dispel the effect, and the glyph activates when damaged if the damage is not sufficient to destroy it.
 
-#### Greater Barrier [Core]
+#### Greater Barrier
 
 You may fashion your barrier into a flat plane if you so choose. This wall must be contiguous and must begin adjacent to you, although it may extend as far out as Close range (if you possess the Distant Protection talent, it must begin within Close range and be contained within Medium range), and can cover up to 1 10 ft square per caster level. In addition, when creating a barrier, you may spend an additional spell point to increase its Hit Points to 10 per caster level and increase the Break DC by 10. The barrier’s hit points do not replenish, even if maintained through concentration.
 
-#### Lingering Succor [Abj. HB]
+#### Lingering Succor
 
 Whenever you use a (succor) talent, the effects of the aegis sacrificed do not end until the end of your second turn. An aegis cannot be sacrificed to power a succor a second time.
 
-#### Mass Aegis [Abj. HB]
+#### Mass Aegis
 
 You may spend an additional spell point when using an aegis to affect up to 1 additional creature per 2 caster levels (minimum: 1). When using Mass Aegis, the duration of each aegis is decreased to 10 minutes per caster level. Each target of the aegis must be within range. Once created, each aegis is a separate sphere effect, and can be sacrificed to use a succor individually.
 
-#### Selective Barrier [Abj. HB]
+#### Selective Barrier
 
 When you create a barrier, you may spend a spell point to make its structure more complicated, allowing certain kinds of activities to pass through the barrier. For each of the following, you must choose whether it can cross the barrier, and if so, in what direction: melee attacks, ranged attacks, area of effect abilities, and movement. Whenever the barrier regains or could regain hit points, you may change this decision.
 
-#### Shared Aegis [Abj. HB]
+#### Shared Aegis
 
 In addition to providing an aura of protection, any aegis you create can be extended beyond the body of the creature bearing it. When a creature under the effects of an aegis you created has an allied creature within its natural reach, the ally also gains the benefit of the aegis. This requires active effort from the creature wearing the aegis, and they can not use their aegis to defend another creature if they would be denied their Dexterity bonus against the source of the effect they are protecting their ally from.
 
 While a creature is under the protection of your shared aegis this way, you may use succor talents that target them as if they were bearing the aegis. Only one creature may benefit from a succor this way.
 
-#### Status [Core]
+#### Status
 
 You always know the direction and distance to all creatures benefiting from your aegis and are aware of any conditions affecting them (unharmed, wounded, disabled, staggered, unconscious, dying, nauseated, panicked, stunned, poisoned, diseased, confused, etc.). If the target dies or moves to another plane of existence, this effect ceases to function.
 
@@ -137,109 +137,109 @@ You always know the direction and distance to all creatures benefiting from your
 
 # Aegis Talents
 
-#### Ablating (aegis) [Abj. HB]
+#### Ablating (aegis)
 
 You may create an aegis that has a chance of negating attacks against the protected creature. When created, the aegis has an ablation rate of 20% + 5% for every 3 caster levels, maximum 50%. The aegis acts as a miss chance equal to its ablation rate against attacks, and whenever the protected creature is missed due to miss chance, it’s ablation rate drops by 5%. When the ablation rate becomes equal to or less than 0, the aegis ends, even if the duration has not yet expired. If the character has a miss chance from another source, only the highest miss chance applies, and the aegis is only reduced if its ablation rate is higher than all other miss chances.
 
-#### Armored Magic (aegis) [Core]
+#### Armored Magic (aegis)
 
 You may create an aegis that wraps the target in protective barriers, granting them either a +3 armor bonus or a +1 shield bonus to AC (your choice). This does not stack with other armor or shield bonuses, but does apply against attacks made by incorporeal creatures. These bonuses increase by +1 for every 5 caster levels you possess.
 
-#### Breathless (aegis) [Core]
+#### Breathless (aegis)
 
 You may create an aegis that allows a creature to survive without air. The creature becomes immune to effects that require breathing (such as inhaled poison), can survive underwater, or even in a vacuum. This does not give immunity to cloud or gas attacks that do not require breathing.
 
-#### Deathless (aegis) [Core]
+#### Deathless (aegis)
 
 You may create an aegis that grants the subject a +4 morale bonus on saves against all death spells, Death sphere abilities, channeled negative energy, and other magical death effects. The subject is granted a save to negate such effects even if one is not normally allowed. This aegis does not protect against other sorts of attacks, even if those attacks might be lethal.
 
-#### Energy Resistance (ward, aegis) [Core]
+#### Energy Resistance (ward, aegis)
 
 You may create a ward that suppresses one energy type of your choice (fire, cold, electricity, sonic, or acid). Any damage of that energy type dealt within this area is reduced by 10 + your caster level. You may also create an aegis that grants energy resistance 10 + your caster level to either fire, cold, electricity, sonic, or acid. These effects only absorb damage and may not protect from other side effects of an attack.
 
-#### Friendship (aegis) [Abj. HB]
+#### Friendship (aegis)
 
 You may create an aegis that gives a creature special protection from the sphere and supernatural abilities of his allies. Whenever one of that creature’s allies uses a sphere or supernatural ability that covers an area, they may exclude creatures with this aegis from the area of effect.
 
-#### Guardian (aegis) [Core]
+#### Guardian (aegis)
 
 You may create an aegis that draws harmful attention to its bearer and away from their allies. Any hostile target within 10 ft of the bearer of this aegis who decides to target any creature other than the bearer of this aegis suffers a -1 penalty to their attack roll. This penalty increases by 1 for every 5 caster levels possessed. Multiple Guardian aegis do not stack; if a creature attacks one creature with this aegis while within the area of another creature with this aegis, they suffer no penalty for their attack.
 
-#### Impartiality (aegis, ward) [Abj. HB]
+#### Impartiality (aegis, ward)
 
 Creatures within this ward or bearing this aegis are treated as having no alignment for all magical effects. Effects that detect alignment (such as the divine alignment alternate divination from the Divination sphere) do not detect the creature or creatures protected, while those that affect certain alignments have no effect on protected creatures at all. This does not allow a creature to disguise their alignment - they appear as an absence of alignment.
 
-#### Impedance (aegis, ward) [Abj. HB]
+#### Impedance (aegis, ward)
 
 You may create a ward that makes it difficult for creatures to approach the center of the ward. At the beginning of their turn, or when they try to enter the ward, a creature must make a Will save or they are unable to enter or move any closer to the center of the ward. If applied as an aegis, then it prevents creatures from entering squares adjacent to the creature with the aegis from a square farther away.
 
 This talent does not interfere with attacks; only movement.
 
-#### Inner Peace (aegis) [Abj. HB]
+#### Inner Peace (aegis)
 
 You may create an aegis that grants the target a +4 morale bonus to saving throws against all fear, emotional and mind-affecting abilities, magical or mundane. When the target is affected by a magical ability this bonus applies to, they are always a granted a save to completely negate the effect, even if one is not normally allowed. The improved composure of the subject also grants them a +4 morale bonus to Bluff checks to conceal emotions or relay secret messages, and to Diplomacy checks to influence attitudes to make creatures calm.
 
-#### Iron Shield (aegis) [Abj. HB]
+#### Iron Shield (aegis)
 
 You may create an aegis that protects against the forces of nature. This includes all forms of environmental damage (though not from vacuum), attacks that utilize nature as a resource (such as lightning called from the sky, but not from all electricity attacks), abilities of the Nature and Weather spheres, and the attacks and abilities of fey creatures, magical beasts and mundane plants, animals, and vermin. The creature with this aegis receives a +4 circumstance bonus to AC from such attacks, and a +4 circumstance bonus to saving throws against such abilities.
 
 They always receive a saving throw to negate against such abilities even when one is not normally allowed.
 
-#### Lifeless (aegis) [Abj. HB]
+#### Lifeless (aegis)
 
 You may create an aegis that grants the subject a +4 morale bonus on saves against all healing spells, Life sphere abilities, channeled positive energy, and other magical healing effects. The subject is granted a save to negate such effects even if one is not normally allowed.
 
-#### Mettle (aegis) [Abj. HB]
+#### Mettle (aegis)
 
 A creature with this aegis receives an untyped bonus to their AC equal to 5 + your caster level against critical hit confirmation rolls.
 
-#### Mystic Shell (aegis) [Abj. HB]
+#### Mystic Shell (aegis)
 
 You may create an aegis that protects magical effects on the character. A mystic shell has 2 layers, + 1 layer per 10 caster levels. While the layers are in place, whenever a magical effect on the character would be dispelled, it remains and instead a layer of the shell is lost. Each layer is counterspelled as a separate magical effect. Layers of the shell can also be sacrificed to use (succor) talents or abilities. Layers from multiple castings of this aegis do not stack.
 
-#### Neutralization (aegis) [Abj. HB]
+#### Neutralization (aegis)
 
 When this aegis is created, choose a sphere. The creature has special resistance to abilities of this sphere, and receives a +4 morale bonus to saving throws and AC against abilities of that sphere. If the sphere has abilities that allow neither a save nor require an attack roll, the creature bearing this aegis is granted a Will save to negate such effects, and any save modified by this aegis completely negates the effect of the ability saved against. This aegis has no effect on supernatural or extraordinary abilities, even if they duplicate the effects of a sphere, but it is effective against spell-like abilities that are built using that sphere. The aegis is effective against those effects that are connected to multiple spheres, provided one of the spheres is the sphere neutralized.
 
-#### Obscurity (aegis, ward) [Abj. HB]
+#### Obscurity (aegis, ward)
 
 Creatures with this aegis or within this ward appear unremarkable and unimportant to those around them. Creatures must make a Will save to be able to notice their presence. This is before any Perception checks are made. A successful save allows them to see the obscured creatures normally (assuming they can see the creatures normally), until they have left the sight of the creature by either moving out of line-of-sight or making a successful Stealth check. Creatures who are specifically looking for the protected creatures and are aware of their identity (like those who have been told you are there by someone else), or who are engaged in combat with them automatically pass this saving throw. Creatures with this aegis do not leave behind tracks or other signs of their passage.
 
-#### Obstruction (aegis) [Core]
+#### Obstruction (aegis)
 
 You may create an aegis that absorbs damage. The target gains DR/- equal to 1/2 the caster level (minimum: 1). Once this aegis has absorbed damage equal to 10 x the caster level, the aegis ends even if its duration has not yet expired.
 
-#### Painful Aegis (aegis) [Core]
+#### Painful Aegis (aegis)
 
 You may create an aegis that inflicts pain on creatures that hurt its bearer. Whenever a creature successfully hits the bearer of this aegis with a melee or ranged attack, that creature suffers 1 point of nonlethal damage per 2 caster levels (minimum: 1).
 
-#### Peacebound (ward, aegis) [Core]
+#### Peacebound (ward, aegis)
 
 You may create a ward that renders all creatures within incapable of causing violence. Any violent action or targeted offensive magical effect created within the ward fails and the target’s action is wasted (Will negates). If any target succeeds at this Will save, the ward’s effect immediately ends for all. When a peacebound ward is broken in this fashion, all creatures within become immune to that caster’s peacebound ward for 24 hours. You may also create an aegis that makes the target immune to violent actions or magic. Any such action made against the target requires the attacker to pass a Will save or lose that action. If a creature succeeds at this Will save (or the bearer of the peacebound aegis takes an offensive action against any creature) the aegis immediately ends.
 
-#### Plexing Aegis (aegis) [Abj. HB]
+#### Plexing Aegis (aegis)
 
 A plexing aegis offers no specific protection until activated, but at any time during its duration, you may spend an immediate action to activate it, turning it into any aegis you can create as a standard action. When this occurs, you must pay the spell point cost of the new aegis normally. You may activate plexing aegises on multiple creatures with the same action, provided all of them are being turned into the same kind of aegis. Once activated, the plexing aegis remains that aegis type for the remainder of its duration. The caster level of a plexing aegis is determined when it is cast and does not change once activated.
 
 A plexing aegis may be sacrificed to use a succor ability before or after it is activated. It costs a spell point to create a plexing aegis, just as with any other aegis. You may combine this talent with the mass aegis ability at the time of its casting, but not with the act of activating plexing aegises. Plexing aegises created with Mass Aegis may be activated separately.
 
-#### Protected Health (aegis) [Core]
+#### Protected Health (aegis)
 
 You may create an aegis that grants the target a +4 morale bonus to saving throws against all poisons and diseases, both magical and mundane.
 
-#### Ray Deflection (aegis) [Abj. HB]
+#### Ray Deflection (aegis)
 
 Whenever a ray attack is used against a creature with this aegis, there is a 20% chance the ray will be deflected back at the caster. This increases by 5% for every 5 caster levels to a maximum of 50%. This aegis does not offer protection against rays that automatically hit, such as those with a natural 20 on the attack roll. A deflected ray makes an attack against the attacker using the same attack roll and all of the applicable modifiers of the original attack and if it hits, the attacker takes the attack’s damage and suffers all the other consequences of getting struck with that attack.
 
-#### Resistance (aegis) [Core]
+#### Resistance (aegis)
 
 You may create an aegis that grants +1 resistance bonus to all saving throws. This increases by 1 for every 5 caster levels you possess.
 
-#### Slippery (aegis) [Core]
+#### Slippery (aegis)
 
 You may create an aegis that protects a creature from being physically restrained or manipulated. The bearer of this aegis gains a +2 enhancement bonus to Acrobatics checks, Escape Artist checks, and to CMD. These bonuses increase by 1 for every 5 caster levels you possess.
 
-#### Spell Ward (ward, aegis) [Core]
+#### Spell Ward (ward, aegis)
 
 You may spend a spell point to create a ward that represses all magic within its area of effect. Make one magic skill check against each magical effect, magic item, or summoned creature within the area. Magic items have a MSD of 10 + their caster level. If your check exceeds the MSD of the magical effect, item, or caster who summoned the creature, the effect is suppressed, the magic item ceases to function, or the summoned creature temporarily disappears. Time spent suppressed counts toward a magical effect’s total duration. Any caster attempting to use a magical ability in or targeted within this area, or any summoned creature attempting to enter this area, must pass a magic skill check against your MSD. On a success, the magical effect is unimpeded, and the summoned creature is not banished by that spell ward.
 
@@ -249,28 +249,28 @@ You may also spend 2 spell points instead of 1 to create an aegis that grants th
 
 # Succor Talents
 
-#### Bulwark (succor) [Abj. HB]
+#### Bulwark (succor)
 
 As an immediate action, you may dismiss an aegis on an ally to give them damage reduction equal to your caster level until the beginning of your next turn.
 
-#### Healing Aegis (succor) [Core]
+#### Healing Aegis (succor)
 
 As an immediate action, you may dismiss one or more of your aegis on a target, healing that target for an amount equal to your casting ability modifier + your caster level per aegis dispelled. This may keep the target from dying.
 Wiki Note: This talent was errata'd to no longer require a spell point in The Abjurer's Handbook.
 
-#### Luck (succor) [Core]
+#### Luck (succor)
 
 As an immediate action, you may dismiss an aegis on a target to allow them to reroll a saving throw they have just made. They must take the second result, even if it is worse.
 
-#### Punishment (succor) [Abj. HB]
+#### Punishment (succor)
 
 When a creature successfully hits a creature you have placed an aegis on with an attack, you may sacrifice an aegis they are bearing as an immediate action to harm the attacker. The attacker takes 1d8 nonlethal damage per 2 caster levels (minimum: 1d8).
 
-#### Reflection (succor) [Abj. HB]
+#### Reflection (succor)
 
 When a creature with an aegis you created becomes the target of a spell or sphere ability that affects only them, you may sacrifice an aegis they are bearing as an immediate action to attempt to counterspell the ability and redirect the effect. You make a magical skill check against the magical skill defense of the caster, and if successful, the sphere effect affects the caster as if they had been the original target. Any bonuses you or the other sphere caster have to counterspelling apply to this roll. The decision to do this must be made before any attack roll or saving throw is made.
 
-#### Vengeance (succor) [Abj. HB]
+#### Vengeance (succor)
 
 When an enemy you can see successfully hits a creature you have placed an aegis on with an attack, you may sacrifice an aegis they are bearing as an immediate action to make an attack with a weapon or natural weapon against the creature. You gain a bonus to damage equal to your caster level for this attack.
 
@@ -278,63 +278,63 @@ When an enemy you can see successfully hits a creature you have placed an aegis 
 
 # Ward Talents
 
-#### Clarity (ward) [Abj. HB]
+#### Clarity (ward)
 
 Within the area of this ward, attempts to conceal, obfuscate, or disguise oneself are hindered. Any creature within the ward must make a Will save or they become unable to use any abilities to disguise or conceal themselves. Likewise, any spell, spell-like ability, or sphere ability that creates illusions or makes it difficult to sense physical phenomena is more difficult to use. When the ward is first created, the user makes a single magical skill check against every illusion or concealing effect created with a spell, spell-like ability, or sphere ability. Magic items have a MSD of 11 + their caster level and creatures using spell-like abilities have an MSD equal to 11 + their Hit Dice.
 
 If your check succeeds, the effect is suppressed or the magic item ceases to function, respectively. Time spent suppressed counts toward a magical effect’s total duration. Any additional attempt to create an illusion or concealment effect requires the caster to beat your MSD with a magical skill check. They must do this even if they passed their Will saving throw.
 
-#### Energy Resistance (ward, aegis) [Core]
+#### Energy Resistance (ward, aegis)
 
 You may create a ward that suppresses one energy type of your choice (fire, cold, electricity, sonic, or acid). Any damage of that energy type dealt within this area is reduced by 10 + your caster level. You may also create an aegis that grants energy resistance 10 + your caster level to either fire, cold, electricity, sonic, or acid. These effects only absorb damage and may not protect from other side effects of an attack.
 
-#### Exclusion (ward) [Abj. HB]
+#### Exclusion (ward)
 
 You can create a ward that prevents entry of a common material or element chosen when you create the ward. You may choose an element based on their physical material (such as stone, metal, water, or acid), form of energy (such as fire or light) or based on their physical properties (such as poisonous materials or living materials). Magical and non-magical materials excluded have great difficulty entering the ward, but are unaffected once inside.
 
 Creatures made of or carrying the material with them must make a Strength check against a DC equal to your Protection sphere DC to cross the threshold of the ward, or they can simply drop any of the warded material they are carrying. An attack from outside the ward that crosses into the ward and is composed of the offending material receives a penalty to attack equal to your caster level.
 
-#### Impartiality (aegis, ward) [Abj. HB]
+#### Impartiality (aegis, ward)
 
 Creatures within this ward or bearing this aegis are treated as having no alignment for all magical effects. Effects that detect alignment (such as the divine alignment alternate divination from the Divination sphere) do not detect the creature or creatures protected, while those that affect certain alignments have no effect on protected creatures at all. This does not allow a creature to disguise their alignment - they appear as an absence of alignment.
 
-#### Impedance (aegis, ward) [Abj. HB]
+#### Impedance (aegis, ward)
 
 You may create a ward that makes it difficult for creatures to approach the center of the ward. At the beginning of their turn, or when they try to enter the ward, a creature must make a Will save or they are unable to enter or move any closer to the center of the ward. If applied as an aegis, then it prevents creatures from entering squares adjacent to the creature with the aegis from a square farther away.
 
 This talent does not interfere with attacks; only movement.
 
-#### Logic (ward) [Abj. HB]
+#### Logic (ward)
 
 This ward presents subtle inconsistencies and misdirections that prevent entry. Creatures must have an Intelligence of at least 3 to enter into the warded area. Teleportation bypasses the effect of this ward, and low-intelligence creatures can still be pushed or otherwise motivated into the ward area by other more intelligent creatures or by accident.
 
-#### Magnetic Shield (ward) [Abj. HB]
+#### Magnetic Shield (ward)
 
 Creatures within this ward have damage reduction equal to your caster level against all metal weapons or metal tipped weapons, with the exception of silver weapons. This defense also applies to melee attacks by ironshod creatures or creatures that have metal covering the point of contact of the attack (such as a punch from someone wearing a gauntlet).
 
-#### Missile Shield (ward) [Abj. HB]
+#### Missile Shield (ward)
 
 You may create a ward that protects creatures within from projectiles, including projectile weapons, thrown rocks, rays made up of projectiles (such as created by the Stone Blast talent of the Destruction sphere) or falling debris. Any damage of that type dealt within this area is reduced by 5 + your caster level. These effects only absorb damage and may not protect from other side effects of an attack (like being pinned under the weight of a thrown boulder or being poisoned by a poisoned arrow).
 
-#### Obscurity (aegis, ward) [Abj. HB]
+#### Obscurity (aegis, ward)
 
 Creatures with this aegis or within this ward appear unremarkable and unimportant to those around them. Creatures must make a Will save to be able to notice their presence. This is before any Perception checks are made. A successful save allows them to see the obscured creatures normally (assuming they can see the creatures normally), until they have left the sight of the creature by either moving out of line-of-sight or making a successful Stealth check. Creatures who are specifically looking for the protected creatures and are aware of their identity (like those who have been told you are there by someone else), or who are engaged in combat with them automatically pass this saving throw. Creatures with this aegis do not leave behind tracks or other signs of their passage.
 
-#### Peacebound (ward, aegis) [Core]
+#### Peacebound (ward, aegis)
 
 You may create a ward that renders all creatures within incapable of causing violence. Any violent action or targeted offensive magical effect created within the ward fails and the target’s action is wasted (Will negates). If any target succeeds at this Will save, the ward’s effect immediately ends for all. When a peacebound ward is broken in this fashion, all creatures within become immune to that caster’s peacebound ward for 24 hours. You may also create an aegis that makes the target immune to violent actions or magic. Any such action made against the target requires the attacker to pass a Will save or lose that action. If a creature succeeds at this Will save (or the bearer of the peacebound aegis takes an offensive action against any creature) the aegis immediately ends.
 
-#### Quantum Lock (ward) [Abj. HB]
+#### Quantum Lock (ward)
 
 You may create a ward that represses all effects that alter reality, including sphere abilities that change the rate of time, teleportation, gravitational effects, transdimensional effects, distortion of space, and Warp and Time sphere abilities within its area of effect. When this ward is created, make one magic skill check against each effect in the area of the ward that it can repress. Magic items have a MSD of 11 + their caster level. If your check exceeds the MSD of the magical effect or item, the effect is suppressed or the magic item ceases to function, respectively. Time spent suppressed counts toward a magical effect’s total duration.
 
 Once in effect, any caster attempting to use an ability that can be repressed by this ward must attempt a magic skill check against your MSD. If they fail, the ability is negated completely (e.g., the creature never leaves its point of origin).
 
-#### Repel Evil/Good/Law/Chaos (ward) [Core]
+#### Repel Evil/Good/Law/Chaos (ward)
 
 You may create a ward that repels creatures of one end of the alignment spectrum (good, evil, lawful, chaotic), chosen by you when this ward is created. All creatures of that alignment cannot cross the edge of this ward unless they succeed at a Will save. Once a creature has succeeded at this Will save, they may cross the barrier without trouble and are immune to your repel ward for 24 hours. If a creature is already within this warded area when it is created, or if the ward is moved into their space, they instantly become immune to the ward, as if they had succeeded at their saving throw. You cannot repel an alignment that you yourself possess.
 
-#### Spell Ward (ward, aegis) [Core]
+#### Spell Ward (ward, aegis)
 
 You may spend a spell point to create a ward that represses all magic within its area of effect. Make one magic skill check against each magical effect, magic item, or summoned creature within the area. Magic items have a MSD of 10 + their caster level. If your check exceeds the MSD of the magical effect, item, or caster who summoned the creature, the effect is suppressed, the magic item ceases to function, or the summoned creature temporarily disappears. Time spent suppressed counts toward a magical effect’s total duration. Any caster attempting to use a magical ability in or targeted within this area, or any summoned creature attempting to enter this area, must pass a magic skill check against your MSD. On a success, the magical effect is unimpeded, and the summoned creature is not banished by that spell ward.
 

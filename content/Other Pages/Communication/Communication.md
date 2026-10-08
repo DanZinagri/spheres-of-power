@@ -44,7 +44,7 @@ If you target a creature who already shares a rapport with someone else, you can
 
 Some Communication talents have the (rapport) tag described below.
 
-#### Assist [DRS]
+#### Assist
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -66,7 +66,7 @@ You can decipher script or read lips at a distance of up to close range (25 feet
 
 You can communicate and understand simple concepts with any animal, magical beast, or vermin that lacks a language. Its comprehension is limited by its Intelligence, but even a mindless creature can understand simple directions to food or warnings about danger. You take a –4 penalty on skill checks that would otherwise be impossible to attempt with the creature. You can use the associated skill in place of Handle Animal to push an animal. In addition, you unlock skill leverage with Handle Animal.
 
-#### Briber [utility] [DRS]
+#### Briber [utility]
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -78,7 +78,7 @@ Additionally, the first time a specific creature refuses a bribe that you offer,
 
 **Associated Feat:** Persuasive Bribery (*Ultimate Intrigue*).
 
-#### Candid Disclosure [utility] [DRS]
+#### Candid Disclosure [utility]
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -206,7 +206,7 @@ Similarly, a creature sharing your *rapport* can spend an immediate action when 
 
 These benefits increase by 1 for every 6 ranks you possess in the sphere’s associated skill.
 
-#### Brief Help (assist) [DRS]
+#### Brief Help (assist)
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -218,7 +218,7 @@ You can aid another as a move or swift action. At 5 ranks in this sphere’s ass
 
 You can coordinate a collaborative project as flawlessly as if the collaborators shared one mind. When a creature who shares your *rapport* successfully aids another creature who shares your *rapport* with a skill use, the recipient of the aid can forgo the bonus in order to complete the skill use faster. You cannot use Clockwork Coordination on a skill use that cannot benefit from aid another, and neither the aid another action nor the aided skill use can be combined with other actions (for example, Acrobatics is always combined with other move actions). If the skill use would normally take 2 rounds or longer, the recipient of the aid finishes in half the time. If the skill use would normally take 1 round or less, reduce the time it takes by one step along this list: 1 round, 1 full-round action, 1 standard action, 1 move action, 1 swift action, 1 immediate action (taken at the end of the turn the aid was received).
 
-#### Combat Courtesy (rapport) [DRS]
+#### Combat Courtesy (rapport)
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -226,7 +226,7 @@ Whenever a creature who shares your *rapport* rolls initiative, before enemies�
 
 **Associated Feat:** Trade Initiative.
 
-#### Collaborative Research (assist) [utility] [DRS]
+#### Collaborative Research (assist) [utility]
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -252,7 +252,7 @@ Your allies are quick to view their efforts from another perspective when collab
 
 In addition, if a creature who shares your *rapport* fails on a skill check that another creature sharing the *rapport* aided, either one of them (but not both) can spend 1 use of skill leverage as a free action even if it’s not their turn to allow the failing creature to roll again (still with the bonus from aid another) and use the new result (even if it is worse). Either the creature who failed or the creature who aided must have unlocked skill leverage with that skill to spend it this way.
 
-#### Defensive Blockade (assist) [DRS]
+#### Defensive Blockade (assist)
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -265,7 +265,7 @@ If you improve an ally’s AC using aid another, the aided ally also gains one o
 
 **Associated Feat:** Got Your Back (*Melee Tactics Toolbox*)
 
-#### Distant Aid (assist) [DRS]
+#### Distant Aid (assist)
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -289,7 +289,7 @@ You can use the Linguistics skill to find a loophole (new skill use) in an effec
 
 Each creature that shares your *rapport* (including you) instinctively knows how the others act in combat, allowing them to avoid getting in the way of each other’s actions. Each creature knows where their allies are as long as they have line of sight, even if they are invisible or using Stealth, and whether they are conscious. No creature that shares your *rapport* provides soft cover against the attacks of any of the others. Each gets a +2 insight bonus to AC against each other’s attack and on saving throws against each other’s spells and abilities. The bonus increases by 1 for every 6 ranks in the associated skill you possess.
 
-#### No One Left Behind (rapport) [DRS]
+#### No One Left Behind (rapport)
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -305,7 +305,7 @@ Whenever such a creature takes the withdraw action and they have at least one fr
 
 Whenever a creature that shares your *rapport* attempts a skill check with which they have unlocked skill leverage, they can spend 1 use of skill leverage after rolling to guide other creatures within 60 feet who share your *rapport* in attempting the same skill check if they can see or hear the guiding creature. Each guided creature that attempts the same skill check before the start of the guiding creature’s next turn can use the guiding creature’s d20 roll instead of rolling. Each creature still uses their own skill modifier.
 
-#### Recall Support (assist) [utility] [DRS]
+#### Recall Support (assist) [utility]
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -313,13 +313,13 @@ Whenever you use the aid another action to benefit a creature’s ability check 
 
 If the creature shares your *rapport*, the aided creature can instead ponder your words as a free action that is usable outside of their turn.
 
-#### Relevant Guidance (assist) [DRS]
+#### Relevant Guidance (assist)
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 When you use the aid another action as a standard action, you can confer its benefits to 1 additional creature, plus 1 creature per 6 ranks in the associated skill you possess. Such additional allies still must be within your aid another range. The aid can apply to different benefits (AC, attack rolls, etc) if you wish, but still applies against a single opponent (if relevant).
 
-#### Tactical Preparation (assist) [DRS]
+#### Tactical Preparation (assist)
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -331,7 +331,7 @@ Whenever you use aid another to improve a creature’s AC but the applicable att
 
 If the aided creature shares your *rapport*, this damage bonus/reduction increases by 2.
 
-#### Tandem Motorics (rapport) [DRS]
+#### Tandem Motorics (rapport)
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -343,7 +343,7 @@ Additionally, whenever a creature that shares your *rapport* is within your natu
 
 **Associated Feats:** Returning Throw (*Inner Sea Races*), Shared Stash (*Monster Codex*)
 
-#### Tandem Positioning (rapport) [DRS]
+#### Tandem Positioning (rapport)
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -353,7 +353,7 @@ You are also considered to possess the swarming racial trait for the purposes of
 
 **Associated Feat:** Cooperative Swarmer (*Blood of the Beast*).
 
-#### Trip Up (assist) [DRS]
+#### Trip Up (assist)
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -397,7 +397,7 @@ You can use Linguistics to find a loophole in any one spell that allowed a Will 
 
 If you have at least 10 ranks in Linguistics, you can find a loophole in any curse (regardless of whether it allowed a saving throw or what the save was) if you spend 1 minute and a total of 2 uses of skill leverage per target and your Linguistics check succeeds against the DC to dispel it. If the curse did not normally allow a save, the target can attempt a Will saving throw to end it.
 
-#### Failure To Communicate (approach) [utility] [Jester's Handbook]
+#### Failure To Communicate (approach) [utility]
 
 **Prerequisites:** Linguistics 5 ranks, Communication sphere (Veiled Dialogue (utility)).
 
@@ -425,7 +425,7 @@ While the creature has this motivation, you need not attempt checks to request h
 
 At 15 ranks, this motivation is a major one.
 
-#### Joint Project (assist, rapport) [utility] [DRS]
+#### Joint Project (assist, rapport) [utility]
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -449,7 +449,7 @@ You can speak and understand any language after you hear it spoken for at least 
 
 As a standard action, you can make a request without attempting a Diplomacy check as long as you can phrase it as furthering one of the target’s desires or goals or avoiding one of the target’s fears (however tenuously). The target attempts a Will saving throw. They get a +5 bonus on the saving throw if the request would be costly or dangerous to them. On a failed save, they agree for 1 hour as long as the request is not obviously self-destructive. You cannot target that creature again for 24 hours. This is a language-dependent mind-affecting compulsion effect.
 
-#### Sequestered Support (Su) [DRS]
+#### Sequestered Support (Su)
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 

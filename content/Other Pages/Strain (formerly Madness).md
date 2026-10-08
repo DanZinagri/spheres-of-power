@@ -164,7 +164,7 @@ Strain is primarily a penalizing mechanic, although it may suit certain games to
 
 # Severances
 
-### Casting Blockage [Cata. HB]
+### Casting Blockage
 
 **Type** lesser severance; **Save** Will DC 16; **Onset** 1d4 days
 
@@ -175,7 +175,7 @@ When you gain this severance, you gain a casting drawback with all of your casti
 **Description**
 Your spellcasting is less natural to you, requiring some sort of additional feature in order to function.
 
-### Cravings [Cata. HB]
+### Cravings
 
 **Type** lesser severance; **Save** Will DC 16; **Onset** 1d4 days
 
@@ -186,7 +186,7 @@ You gain a moderate addiction to one type of food or drug that you have consumed
 **Description**
 You develop a psychological dependence on a certain type of consumable.
 
-### Dead Senses [Cata. HB]
+### Dead Senses
 
 **Type** lesser severance; **Save** Will DC 16; **Onset** 1d4 days
 
@@ -197,7 +197,7 @@ You develop a psychological dependence on a certain type of consumable.
 **Description**
 Your body does not respond properly to stimuli, your dulled senses rendering it clumsy and ineffectual. This numbness also comes with a boon, granting you a +4 bonus to saving throws against pain effects.
 
-### Defeatism [Cata. HB]
+### Defeatism
 
 **Type** lesser severance; **Save** Will DC 16; **Onset** 1d4 days
 
@@ -249,7 +249,7 @@ Each round when an afflicted character is within 30 feet and can see the object 
 –4 penalty on any Will saving throw against or to disbelieve illusions, and illusions of things that are not there. Hallucinations can affect all of the senses, but some of the most potentially debilitating are auditory hallucinations, where the afflicted character hears voices talking in his head, and visual hallucinations, where the afflicted character sees things that aren’t there.
 **Dormancy Effect** The afflicted character takes a –2 penalty on Will saving throws against or to disbelieve illusions.
 
-### Halted Movements [Cata. HB]
+### Halted Movements
 
 **Type** lesser severance; **Save** Will DC 18; **Onset** 1d4 days
 
@@ -260,7 +260,7 @@ All of your movement speeds are reduced by half and you cannot take 5-foot steps
 **Description**
 You hesitate in your movements, taking every step with trying caution.
 
-### Instinctive Defiance [Cata. HB]
+### Instinctive Defiance
 
 **Type** lesser severance; **Save** Will DC 14; **Onset** 1d4 days
 
@@ -271,7 +271,7 @@ Whenever another creature gives you an order or command, attempt a Will save. On
 **Description**
 Your troubled experiences with authority give you an impulse to defy it regardless of consequences.
 
-### Isolation Terror [Cata. HB]
+### Isolation Terror
 
 **Type** lesser severance; **Save** Will DC 18; **Onset** 1d4 days
 
@@ -290,7 +290,7 @@ The loss of your senses drives you into a panic as the deprivation of power draw
 –2 penalty on initiative checks, and morale bonuses are halved (minimum +0)
 **Dormancy Effect** None
 
-### Mimicry [Cata. HB]
+### Mimicry
 
 **Type** lesser severance; **Save** Will DC 16; **Onset** 1d4 days
 
@@ -301,7 +301,7 @@ Whenever you perform a type of action which you have not witnessed another creat
 **Description**
 You struggle to guide your own actions, relying on the impressions of others to shape your performance.
 
-### Mutterings [Cata. HB]
+### Mutterings
 
 **Type** lesser severance; **Save** Will DC 16; **Onset** 1d4 days
 
@@ -320,7 +320,7 @@ You frequently talk to yourself nervously, whispering mantras or thoughts under 
 Each night when the afflicted character sleeps, she must succeed at a saving throw or wake up fatigued (see below). A character suffering from night terrors is plagued by persistent terrifying dreams, worry, or terror that impedes her from getting restful sleep. Each night the afflicted character must succeed at a saving throw or wake up fatigued, though multiple nights of night terrors do not increase the condition to exhausted, and an exhausted character with night terrors wakes up after 8 hours of sleep either rested or fatigued based on the success or failure of the saving throw for this affliction. Often a character suffering from night terrors will bolt upright during sleep, eyes open, and scream, though less-dramatic symptoms are also possible. A character who awakens fatigued from night terrors doesn’t count as having had a good night’s rest for the purpose of preparing new spells, and she can’t remove the fatigue until she gets a good night’s rest by succeeding at the Will save against night terrors.
 **Dormancy Effect** None
 
-### Overkill [Cata. HB]
+### Overkill
 
 **Type** lesser severance; **Save** Will DC 16; **Onset** 1d4 days
 
@@ -339,7 +339,7 @@ You are paranoid about death and take extreme measures to make sure foes do not 
 The afflicted character gains a +2 bonus on saving throws against charm effects, but takes a –2 penalty on Bluff, Diplomacy, and Sense Motive checks. When the afflicted character attempts a Sense Motive check, the GM rolls the check in secret, and failure gives the afflicted character the impression that those whose motives he is trying to sense are plotting against him in some way. Lastly, any time the afflicted character tries to use or gain a benefit from the aid another action, or is the target of a beneficial spell or effect from an ally, he must succeed at a Will saving throw in order to take the aid another action or gain the benefit from the action, spell, or effect.
 **Dormancy Effect** The afflicted character gains a +2 bonus on saving throws against charm effects, but takes a –2 penalty on Bluff, Diplomacy, and Sense Motive checks.
 
-### Performance Anxiety [Cata. HB]
+### Performance Anxiety
 
 **Type** lesser severance; **Save** Will DC 14; **Onset** 1d4 days
 
@@ -350,7 +350,7 @@ Whenever you are in combat, you must attempt a Will save at the start of your tu
 **Description**
 In stressful situations, you tend to freeze up, incapable of doing much more than trying to defend yourself.
 
-### Perpetual Discomfort [Cata. HB]
+### Perpetual Discomfort
 
 **Type** lesser severance; **Save** Will DC 16; **Onset** 1d4 days
 
@@ -390,7 +390,7 @@ The afflicted character acts as if she were cowering, but this is not a fear eff
 The afflicted character can no longer speak or write and has difficulty concentrating. He can no longer use command word items, spell-trigger items, or spell-completion items. He takes a –10 penalty on concentration checks. He cannot cast spells with a verbal or thought component, and cannot prepare spells from a spellbook.
 **Dormancy Effect** The afflicted character takes a –4 penalty on concentration checks.
 
-### Death Wish [Cata. HB]
+### Death Wish
 
 **Type** greater severance; **Save** Will DC 24; **Onset** 2d6 days
 
@@ -417,7 +417,7 @@ You have forsaken any sense of self-preservation, simply allowing harm to conver
 The afflicted character’s alignment shifts to evil, and he gains a +10 competence bonus on Bluff checks to hide this severance. Once per day, the afflicted character can attempt a Will saving throw to suppress this effect for 24 hours.
 **Dormancy Effect** none
 
-### Halted Activity [Cata. HB]
+### Halted Activity
 
 **Type** greater severance; **Save** Will DC 22; **Onset** 2d6 days
 
@@ -474,7 +474,7 @@ Thematically, the system of sanity damage harkens back to an era of asylums, lob
 
 # Madnesses
 
-### Casting Blockage [Cata. HB]
+### Casting Blockage
 
 **Type** lesser madness; **Save** Will DC 16; **Onset** 1d4 days
 
@@ -485,7 +485,7 @@ When you gain this madness, you gain a casting drawback with all of your casting
 **Description**
 Your spellcasting is less natural to you, requiring some sort of additional feature in order to function.
 
-### Cravings [Cata. HB]
+### Cravings
 
 **Type** lesser madness; **Save** Will DC 16; **Onset** 1d4 days
 
@@ -496,7 +496,7 @@ You gain a moderate addiction to one type of food or drug that you have consumed
 **Description**
 You develop a psychological dependence on a certain type of consumable.
 
-### Dead Senses [Cata. HB]
+### Dead Senses
 
 **Type** lesser madness; **Save** Will DC 16; **Onset** 1d4 days
 
@@ -507,7 +507,7 @@ You develop a psychological dependence on a certain type of consumable.
 **Description**
 Your body does not respond properly to stimuli, your dulled senses rendering it clumsy and ineffectual. This numbness also comes with a boon, granting you a +4 bonus to saving throws against pain effects.
 
-### Defeatism [Cata. HB]
+### Defeatism
 
 **Type** lesser madness; **Save** Will DC 16; **Onset** 1d4 days
 
@@ -518,7 +518,7 @@ Whenever you fail an attack roll, saving throw (excluding saving throws made bec
 **Description**
 Failure sows doubt in your mind that only grows with further mistakes.
 
-### Halted Movements [Cata. HB]
+### Halted Movements
 
 **Type** lesser madness; **Save** Will DC 18; **Onset** 1d4 days
 
@@ -529,7 +529,7 @@ All of your movement speeds are reduced by half and you cannot take 5-foot steps
 **Description**
 You hesitate in your movements, taking every step with trying caution.
 
-### Instinctive Defiance [Cata. HB]
+### Instinctive Defiance
 
 **Type** lesser madness; **Save** Will DC 14; **Onset** 1d4 days
 
@@ -540,7 +540,7 @@ Whenever another creature gives you an order or command, attempt a Will save. On
 **Description**
 Your troubled experiences with authority give you an impulse to defy it regardless of consequences.
 
-### Isolation Terror [Cata. HB]
+### Isolation Terror
 
 **Type** lesser madness; **Save** Will DC 18; **Onset** 1d4 days
 
@@ -551,7 +551,7 @@ Whenever you become blinded or deafened (which may be the result from injury, ma
 **Description**
 The loss of your senses drives you into a panic as the deprivation of power draws out your deepest fears.
 
-### Mimicry [Cata. HB]
+### Mimicry
 
 **Type** lesser madness; **Save** Will DC 16; **Onset** 1d4 days
 
@@ -562,7 +562,7 @@ Whenever you perform a type of action which you have not witnessed another creat
 **Description**
 You struggle to guide your own actions, relying on the impressions of others to shape your performance.
 
-### Mutterings [Cata. HB]
+### Mutterings
 
 **Type** lesser madness; **Save** Will DC 16; **Onset** 1d4 days
 
@@ -573,7 +573,7 @@ You take a -4 penalty on Charisma-based skill checks. Creatures who succeed at a
 **Description**
 You frequently talk to yourself nervously, whispering mantras or thoughts under your breath.
 
-### Overkill [Cata. HB]
+### Overkill
 
 **Type** lesser madness; **Save** Will DC 16; **Onset** 1d4 days
 
@@ -584,7 +584,7 @@ Whenever you reduce a creature to 0 or fewer hit points, you must attempt a Will
 **Description**
 You are paranoid about death and take extreme measures to make sure foes do not get back up.
 
-### Performance Anxiety [Cata. HB]
+### Performance Anxiety
 
 **Type** lesser madness; **Save** Will DC 14; **Onset** 1d4 days
 
@@ -595,7 +595,7 @@ Whenever you are in combat, you must attempt a Will save at the start of your tu
 **Description**
 In stressful situations, you tend to freeze up, incapable of doing much more than trying to defend yourself.
 
-### Perpetual Discomfort [Cata. HB]
+### Perpetual Discomfort
 
 **Type** lesser madness; **Save** Will DC 16; **Onset** 1d4 days
 
@@ -610,7 +610,7 @@ Heavy clothing feels confining and stressful for you, impairing your movements o
 
 # Greater Madnesses
 
-### Death Wish [Cata. HB]
+### Death Wish
 
 **Type** greater madness; **Save** Will DC 24; **Onset** 2d6 days
 
@@ -621,7 +621,7 @@ The afflicted character cannot or does not want to avoid harm, taking a -10 pena
 **Description**
 You have forsaken any sense of self-preservation, simply allowing harm to converge upon you rather than taking any effort to keep yourself safe.
 
-### Halted Activity [Cata. HB]
+### Halted Activity
 
 **Type** greater madness; **Save** Will DC 22; **Onset** 2d6 days
 

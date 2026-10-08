@@ -17,7 +17,7 @@ Some talents are marked (discipline). These talents grant groups of weapons with
 
 # Equipment Talents
 
-#### Armor Expert [High. HB]
+#### Armor Expert
 
 You increase the armor bonus to AC of any armor you are wearing by +1. When your base attack bonus reaches +8, you lower the armor check penalty of any armor you wear by 1. For every 8 points of base attack bonus you gain thereafter, you reduce the armor check penalty of your worn armor by a further 1 (this cannot reduce your armor check penalty below 0). The benefits granted by this talent do not stack with those provided by the Armor Focus and Improved Armor Focus feats. **Associated Feat:** Armor Focus.
 
@@ -29,13 +29,13 @@ You gain proficiency with light armor and medium armor. If you are already profi
 
 You may add 1/2 of your armor bonus from your worn armor (rounded down) as a circumstance bonus to your CMD; the bonus from this talent may not exceed 1/3 your base attack bonus (minimum +1).
 
-#### Armored Deflection [Apoc]
+#### Armored Deflection
 
 *Source: [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)*
 
 You may add 1/2 of your armor bonus from your worn armor (rounded down) as a circumstance bonus to your touch AC; the bonus from this talent may not exceed 1/3 your base attack bonus (minimum +1).
 
-#### Armored Evasion [Apoc]
+#### Armored Evasion
 
 *Source: [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)*
 
@@ -49,27 +49,27 @@ When wearing armor or using shields you are proficient with, decrease your total
 
 While wielding a light or one-handed weapon and nothing in any other hand you possess, you gain a +1 shield bonus to AC. For every 4 points of base attack bonus you possess, this bonus increases by +1. Attacking with an off-hand weapon, making more than one natural attack on your turn, or using abilities such as a monk’s flurry of blows or a magus’ spell combat suppresses this bonus until the start of your next turn.
 
-#### Battle Ready Armor [Apoc]
+#### Battle Ready Armor
 
 *Source: [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)*
 
 Your armor receives a competence bonus to its hardness equal to your base attack bonus. Your armor does not gain the broken condition until it is reduced to 1/4th its hit points, and when your armor would be destroyed you may expend your martial focus to allow it to remain broken with 1 hit point remaining.
 
-#### Bowling Bolas [Apoc]
+#### Bowling Bolas
 
 You gain a +2 competence bonus to ranged trip attempts made with bolas or brutal bolas. Whenever you use bolas or brutal bolas to make a successful ranged trip attack as an attack action, you may also deal damage to the target as if the trip attempt had been a standard ranged attack with that weapon.
 
-#### Cavalry Ready [Apoc]
+#### Cavalry Ready
 
 You treat all one- or two-handed melee weapons as if they had the brace special feature. **Associated Feat:** Let Them Come.
 
-#### Cloth Snake Puppetry (stance) [Youxia HB]
+#### Cloth Snake Puppetry (stance)
 
 While in this stance, you can use any long, flexible objects like strings, ropes, sashes, chains, etc. as an extension of your own body. As part of the action you use to enter this stance, you may draw or pick up an unattended object within reach capable of use with this talent. While holding such an object in your hand, you may use it to increase your natural reach for grabbing objects, manipulating objects, and performing the bull rush, dirty trick, disarm, drag, steal, and trip maneuvers. The increased reach is limited by the length of the object used, to a maximum of 10 feet.
 
 For every 4 base attack bonus you possess, the maximum potential reach of the object increases by 5 feet and you gain a +1 bonus to CMB for combat maneuvers made with the object. These objects count as grappling hooks for the purposes of talents such as Get Over Here! and Rope Swing.
 
-#### Cold-Weather Adaptation [High. HB]
+#### Cold-Weather Adaptation
 
 With 10 minutes of work, you may treat any set of clothing you wear as a cold-weather outfit, granting a +5 circumstance bonus on Fortitude saving throws against exposure to cold weather. When using the outfit in this fashion, you may wear it in addition to another outfit or armor.
 
@@ -91,11 +91,11 @@ You may choose to treat your ranged attacks with thrown weapons as melee attacks
 
 **Author's Note:** A ranged attack treated as a melee attack "applies the standard penalties" and other interactions for making a ranged attack. This includes the defending target receiving bonuses from being prone, being deflected by "ranged-only miss chance", and any other reasonable effect that would interfere or interact with a ranged attack. Effects and abilities that would modify a melee attack (such as weapon finesse, and the ability to apply Dexterity to damage) also apply to a "ranged" melee attack performed with Crushing Thrower. In the event of disagreement, the GM should make the final decision. The talent is intended for a character to apply or benefit from their otherwise melee-only abilities, but does not magically transmute a thrown weapon attack into not being a ranged attack.
 
-#### Dagger Bravo [Youxia HB]
+#### Dagger Bravo
 
 Whenever you wield a dagger properly sized for you, its critical range is changed to 18-20/x2 (although its critical multiplier cannot be increased) and its range increases to 30 feet. At +10 base attack bonus, its range increases to 50 feet. **Associated Feat:** Weapon Focus (dagger)
 
-#### Dagger Dancer [Youxia HB]
+#### Dagger Dancer
 
 You can draw or sheathe a dagger as a free action and you gain a +3 circumstance bonus on attack rolls to confirm critical hits with daggers. At +10 base attack bonus, this circumstance bonus increases to +6. **Associated Feat:** Critical Focus
 
@@ -115,7 +115,7 @@ Whenever you reload a ranged weapon with which you are proficient, you may decre
 
 You can draw a weapon as part of the action used to make an attack with it. This can be used with splash weapons, but not with other items such as potions, scrolls, or wands. You can draw a hidden weapon (see the Sleight of Hand skill) as a move action. **Associated Feat:** Quick Draw.
 
-#### Fast Stow [DRS]
+#### Fast Stow
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -145,7 +145,7 @@ You gain a +1 competence bonus to your CMD vs. the disarm and sunder maneuver. T
 
 While wielding a firearm, you can still make unarmed strikes with the hands used to wield it (these attacks do not provoke attacks of opportunity if you are not proficient with unarmed strikes); if you do, your unarmed strikes made with any hand wielding a firearm gain any enhancement bonuses to attack or damage rolls your firearm possesses (this bonus cannot exceed +5). When using the attack action to make a successful attack with your unarmed strike against a creature, or when you succeed at a melee attack with a double weapon that is part melee weapon and part firearm (such as the axe musket or dagger pistol) using the attack action, as a swift action you can make a ranged attack with a -2 penalty against the same creature with your firearm or the firearm portion of your weapon; this attack does not provoke an attack of opportunity.
 
-#### Immovable Object [Apoc]
+#### Immovable Object
 
 *Source: [Spheres Apocrypha: Armor Talents](https://www.drivethrurpg.com/product/303193/Spheres-Apocrypha-Armor-Talents?affiliate_id=549120)*
 
@@ -155,7 +155,7 @@ While wearing heavy armor, you gain a +1 competence bonus to your CMD against bu
 
 When you make a successful ranged attack with an attack action, an attack of opportunity, or additional attacks granted by class features or talents while wielding a crossbow or firearm, you deal additional damage equal to 1/2 your base attack bonus (minimum 1).
 
-#### Natural Materials [LotS]
+#### Natural Materials
 
 You do not need kits to create combat or skill sphere effects that do not possess a costly material component (such as an alchemy kit to create formulae from the Alchemy sphere). The materials are assumed to be gathered from your natural environment or generated by you. This talent treats you as always possessing the appropriate kit for combat or skill sphere effects (such as an alchemy crafting kit’s reduced poison crafting time for Alchemy sphere).
 
@@ -174,13 +174,13 @@ You take no penalties for using a net that has not been folded and apply any enh
 
 Additionally, you may make drag and reposition attempts against creatures entangled by your nets as long as you control the trailing rope. You may add any enhancement bonus to attack rolls that the net possesses on these combat maneuver checks. This talent applies to any weapon that functions as a net, such as the lasso (as applicable) and snag net.
 
-#### Palm Throw [Youxia HB]
+#### Palm Throw
 
 Whenever you perform an attack action, attack of opportunity, or additional attack granted by a class feature or talent with shuriken, you may throw two identical shuriken at once. If you do so, increase the size of the shuriken’s base damage die by three steps (1d6 Medium, 1d4 Small) instead of hitting twice.
 
 Abilities that would negate a single attack only stop one shuriken per use, removing the damage die increase but failing to prevent the attack entirely if only one shuriken is negated. Abilities that replace the base damage die of the weapon such as the warpriest’s sacred weapon do not stack with this talent.
 
-#### Particle Blade Emulation [Inv. HB]
+#### Particle Blade Emulation
 
 When unfolding any particle blade, you may treat it as though it was any other melee weapon of the same category (light, one-handed, or two-handed) that you are proficient with for the purpose of benefiting from feats, talents, or abilities. While treating the particle blade as another melee weapon, the particle blade also gains any special features that a weapon of its kind would normally gain. For example, if you were also proficient with the longspear, you could unfold a two-handed particle blade and treat it as if it were a longspear for the purposes of the Weapon Focus (longspear) feat, and grant the particle blade the brace and reach weapon specials. (See the [[Tech]] sphere for more information on particle weapons.)
 
@@ -198,7 +198,7 @@ You increase the shield bonus to AC of any shield you wield by +1. When your bas
 
 You have learned to take advantage of the shortbow’s short draw length to make more frequent attacks. Whenever you use the attack action with a shortbow, you may spend a swift action to make an additional ranged attack at a -5 penalty.
 
-#### Skin of Steel [Apoc]
+#### Skin of Steel
 
 *Source: [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)*
 
@@ -212,7 +212,7 @@ While wearing heavy armor and fighting defensively, you gain DR/bludgeoning equa
 
 You may make melee attacks with a loaded sling, threatening an area as appropriate. Making attacks in this fashion does not use up ammunition. Also, when making attacks in this fashion, your sling gains the trip and disarm weapon special features. Treat a loaded double sling as a double weapon. **Associated Feat:** Sling Flail.
 
-#### Small Arms [Jester's HB]
+#### Small Arms
 
 You do not take penalties for using weapons sized for smaller creatures. For example, a Medium creature could wield a two-handed weapon sized for smaller creatures in one hand without incurring the penalty for wielding inappropriately sized weapons.
 
@@ -224,7 +224,7 @@ Additionally, you gain a cumulative +1 bonus to Sleight of Hand checks made to c
 
 You may treat any spear or polearm you wield as though it had the finesse weapon special feature, and may wield it as a one-handed weapon. Spears and polearms include weapons like the amentum, boar spear, doru, elven branched spear, glaive, guisarme, harpoon, lance, longspear, naginata, pilum, planson, shortspear, sibat, spear, tiger fork, and trident or other weapons based on GM approval.
 
-#### Spiked Defense (stance) [Apoc]
+#### Spiked Defense (stance)
 
 *Source: [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)*
 
@@ -246,13 +246,13 @@ If you possess the Spear Dancer talent as well, a quarterstaff is treated as a f
 
 You have mastered techniques for making firearms more reliable and accurate at the expense of power. When firing a firearm as an attack action, you may ignore its misfire chance, but the weapon targets normal AC instead of touch AC. When firing a firearm in this manner, treat its range increment as 10 ft. longer than it actually is, plus an additional 10 ft. for every 4 points of base attack bonus you possess.
 
-#### Steel Martyr [Apoc]
+#### Steel Martyr
 
 *Source: [Spheres Apocrypha: Armor Talents](https://www.drivethrurpg.com/product/303193/Spheres-Apocrypha-Armor-Talents?affiliate_id=549120)*
 
 Whenever a critical hit is scored against you, as an immediate action you may divert the additional damage from the critical hit to your armor. This action is taken after the result of the attack roll is known but before the damage is revealed. You suffer any damage in excess of your armor’s hit points.
 
-#### Throw Bash [Apoc]
+#### Throw Bash
 
 You gain proficiency with throwing shields. Ranged attacks made with a throwing shield incorporate shield spikes into their damage calculation as normal. Additionally, if you have the Cover Ally talent, you may treat any ally within your shield’s first range increment as being within your shield’s reach by throwing it as part of the active defense action. You may apply a (deflect) talent to this active defense as normal, performing any additional actions by ricocheting the shield off of the attack. If your shield has the returning property, or you have the Throwing Mastery talent, it returns after using Cover Ally as if you made an attack with it.
 
@@ -268,7 +268,7 @@ Once per round when you would normally be hit with an attack from a ranged weapo
 
 You may ignore the attack penalty for attacking while carrying a tower shield. You can also bash with a tower shield, dealing 1d8 bludgeoning damage with it (1d6 Small). You and others modifying or enchanting a shield you possess may treat tower shields as heavy shields for the purposes of enchantments (such as bashing) and shield spikes. Additionally, any tower shield you are wielding has its maximum Dexterity bonus increased by 1 and its armor check penalty reduced by 1, +1 for every 5 base attack bonus you possess.
 
-#### Two-Handed Combat [DRS]
+#### Two-Handed Combat
 
 *Source: Diamond Classes: Renowned Warrior and the Peach Tree Oath*
 
@@ -286,7 +286,7 @@ This bonus to AC applies even against touch attacks or when you are flat-footed.
 
 This bonus depends on an intricate awareness of the practitioner's body and balance, and as such is lost when the target is under any shapeshift other than blank form, or is polymorphed into a creature of the animal, dragon, elemental, magical beast, plant, or vermin type.
 
-#### Unexpected Rebound [DRS]
+#### Unexpected Rebound
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -296,7 +296,7 @@ This attack is treated as a new attack than the original, and cannot benefit fro
 
 After this attack is made, the weapon lands adjacent to the creature unless it would normally return to you (such as with the Throwing Mastery talent).
 
-#### Unfettering Armor [Apoc]
+#### Unfettering Armor
 
 *Source: [Spheres Apocrypha: Armor Talents](https://www.drivethrurpg.com/product/303193/Spheres-Apocrypha-Armor-Talents?affiliate_id=549120)*
 
@@ -306,13 +306,13 @@ You may move at your normal speed while wearing medium armor. At +7 base attack 
 
 You may fire any ranged weapon while prone. Additionally, you may use a leg in place of a hand when wielding a ranged weapon, although you must still use at least one hand to fire the weapon and suffer a -2 penalty to attack rolls while using a foot in this manner. This can allow you to fire the weapon in situations where two hands are not available, such as when hanging from a rope, grappling a creature, or in other, similar situations.
 
-#### Unstoppable Force [Apoc]
+#### Unstoppable Force
 
 *Source: [Spheres Apocrypha: Armor Talents](https://www.drivethrurpg.com/product/303193/Spheres-Apocrypha-Armor-Talents?affiliate_id=549120)*
 
 If you are wearing heavy armor and have martial focus, you lose the battered condition at the end of your turn, even if it would normally last longer, and you no longer suffer a penalty to CMD while battered.
 
-#### Versatile Fighter (stance) [Youxia HB]
+#### Versatile Fighter (stance)
 
 This talent gives you access to three stances, listed below. Feats that list the associated feats as prerequisites only work while the stances that grant the associated feats are active.
 
@@ -324,7 +324,7 @@ This talent gives you access to three stances, listed below. Feats that list the
 
 When wielding a shield, you may add your shield’s AC enhancement bonus to attack and damage rolls made with the shield as if it were a weapon enhancement bonus. **Associated Feat:** Shield Master.
 
-#### Weaponmaster [Conq. HB]
+#### Weaponmaster
 
 You take advantage of your weapons in unique ways. When wielding any weapon you have proficiency with, you can shift your grip as a swift action so that your weapon deals bludgeoning, piercing, or slashing damage instead of the damage type normally dealt by that weapon. You may switch back to the weapon’s normal damage as a swift action. At +5 base attack bonus, you may change damage types as a free action instead. **Associated Feat:** Weapon Versatility.
 
@@ -340,7 +340,7 @@ At +10 base attack bonus, you instead threaten all spaces within 10 ft. of yours
 
 # Discipline Talents
 
-#### Angler Training (discipline) [DRS]
+#### Angler Training (discipline)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -360,7 +360,7 @@ You gain proficiency with the bola, garrote, grappling hook, harpoon, kyoketsu s
 
 You gain proficiency with the double-chained kama, double walking stick katana, dual blade, katana, kama, kusarigama, longbow, naginata, nodachi, tetsubo and wakizashi.
 
-#### Caber Toss (discipline) [High. HB]
+#### Caber Toss (discipline)
 
 You are considered proficient with thrown cabers, which are normally used for breaking up military formations.
 
@@ -378,7 +378,7 @@ As long as you have martial focus and a suitable caber in your reach, you may pi
 | Gargantuan | 50-ft. line | 2d6 |
 | Colossal | 100-ft. line | 2d8 |
 
-#### Catfolk Training (discipline) [Catgirl HB]
+#### Catfolk Training (discipline)
 
 You gain proficiency with the cat-o’-nine-tails whip, chakram, khopesh, kukri, ranseur, rope dart, scimitar, shortbow, tekko-kagi, and tiger fork. You also gain proficiency with claw blades, and may use claw blades even if you are not a catfolk.
 
@@ -390,7 +390,7 @@ Select 5 weapons; you gain proficiency with the selected weapons. Exotic weapons
 
 You are proficient with the intricacies of music and dance, and can apply that precision in battle. You are proficient with the battle poi, bladed scarf, chakram, fighting fan, gladius, rapier, scimitar, shortsword, war flute, war lute, war mallet, and whip. You may add your Dexterity modifier in place of your Charisma modifier when making Perform (dance) checks.
 
-#### Deep Fighter Training (discipline) [Alienist HB]
+#### Deep Fighter Training (discipline)
 
 You gain proficiency with the gnome hooked hammer, hand crossbow, mancatcher, rapier, poisoned sand tube, sanpkhang, scorpion whip, shortsword, spinal sword, and whip. Any weapon you wield can deliver contact poison upon a successful combat maneuver check as well as upon a successful attack roll, regardless of whether you deal damage.
 
@@ -410,7 +410,7 @@ You gain proficiency with the battleaxe, dwarven boulder helmet, earthbreaker, g
 
 You gain proficiency with the elven branched spear, elven curveblade, longbow, longsword, rapier, scimitar, short sword, shortbow, two-bladed scimitar, and two-bladed sword.
 
-#### Enforcer Training (discipline) [Apoc]
+#### Enforcer Training (discipline)
 
 *Source: [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)*
 
@@ -422,7 +422,7 @@ You gain proficiency with all firearms (except siege weapons) and the Gunsmithin
 
 **Wiki Note:** It is reasonable for any Martial Tradition that grants this proficiency to also grant a battered firearm. ([Source](http://www.giantitp.com/forums/showthread.php?561876-Drop-Dead-Studios-Ask-Me-Anything-3/page4&p=23200219#post23200219))
 
-#### Gallowglass Training (discipline) [High. HB]
+#### Gallowglass Training (discipline)
 
 You gain proficiency with the deer horn knife, greatsword, halberd, light shields, longbow, longsword, musket, pistol, shortbow, and shortsword, and may wield the bastard sword as a two-handed martial weapon.
 
@@ -434,7 +434,7 @@ You gain proficiency with the throwing shield, as well as the amentum, battleaxe
 
 You gain proficiency with the heavy crank crossbow, light crank crossbow, battle ladder, flailpole, flask thrower, gnome flick-mace, gnome hooked hammer, gnome pincher, and piston maul.
 
-#### Goblin Heritage (discipline) [Apoc]
+#### Goblin Heritage (discipline)
 
 You gain proficiency with the the brutal bola, dogslicer, garrote, horsechopper, light flail, machete, sap, shortbow, spiked chain, swordbreaker dagger and torch. In addition, when you wield a torch as a weapon it is considered a club that deals an additional 1d4 fire damage on a successful hit if the torch is lit. **Associated Feat:** Fire Hand, Burn! Burn! Burn!.
 
@@ -454,7 +454,7 @@ You gain proficiency with the greatsword, halberd, heavy flail, heavy pick, ligh
 
 You gain proficiency with the battle wrench and with all crossbows, including exotic ones such as the net launcher. Crossbows that can be fired with one hand reduce the penalty for doing so by half.
 
-#### Medical Malpractice (discipline) [Youxia HB]
+#### Medical Malpractice (discipline)
 
 You gain proficiency with the acupuncture needle, butterfly knife, drow razor, garrote, iron brush, needle launcher, poisoned sand tube, sanpkhang, sawtoothed sabre, shuriken, switchblade knife, syringe spear, and torch.
 
@@ -462,7 +462,7 @@ You gain proficiency with the acupuncture needle, butterfly knife, drow razor, g
 
 You gain proficiency with all weapons with the monk special feature. If you have this talent and either the brawler’s flurry or flurry of blows class feature, you may make one additional attack with a weapon in this group as a free action whenever you make an attack action with a weapon from this group or an unarmed strike, but both attacks take a -2 penalty. You must decide whether or not to use this ability before making the first attack roll for your attack action. Attacks made using this ability apply your full Strength bonus to the damage roll, regardless of whether the weapon is wielded with two hands or with an off-hand.
 
-#### Ninjutsu Training (discipline) [Apoc]
+#### Ninjutsu Training (discipline)
 
 *Source: [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)*
 
@@ -506,13 +506,13 @@ You gain proficiency with the blade boot, butterfly knife, garrote, hand crossbo
 
 You gain proficiency with all shields, including tower shields, and are proficient in all shield bashes. **Associated Feat:** Shield Proficiency, Tower Shield Proficiency.
 
-#### Swashbuckler Training (discipline) [Apoc]
+#### Swashbuckler Training (discipline)
 
 *Source: [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)*
 
 You gain proficiency with the butterfly knife, longsword, rapier, scimitar, spiral rapier, and sword cane, and may wield the estoc as a two-handed martial weapon. Whenever you make an attack using your Dexterity bonus on attack rolls and your Strength bonus on melee damage rolls, any creature you deal damage to suffers a -1 to CMB when attempting to disarm or sunder your weapon, and a -1 to CMD against disarm or sunder attempts you make against it. These penalties end at the start of your next turn. At +10 base attack bonus, these penalties increase to -2.
 
-#### Techmaniac (discipline) [Inv. HB]
+#### Techmaniac (discipline)
 
 You gain proficiency with all technological weapons. Additionally, you gain a +2 competence bonus to Craft (mechanical) checks made to activate gadgets. At +10 base attack bonus, this bonus increases to +4.
 
@@ -532,7 +532,7 @@ You gain proficiency with the blade boot, brass knuckles, cestus, dan bong, emei
 
 # Legendary Talents
 
-#### Adamantine Bulwark [Apoc]
+#### Adamantine Bulwark
 
 *Source: [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)*
 
@@ -542,7 +542,7 @@ While wearing heavy armor and fighting defensively, any adjacent creature that s
 
 **Note:** This talent was previously known as Iron Wall.
 
-#### Armored Armaments [Apoc]
+#### Armored Armaments
 
 *Source: [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)*
 
@@ -550,7 +550,7 @@ While wearing heavy armor and fighting defensively, any adjacent creature that s
 
 While wearing heavy armor you may treat your gauntlets and any armor spikes as though they had an enhancement bonus equal to the armor’s enhancement bonus to AC. Gauntlets and armor spikes benefiting from this talent do not gain the benefits of any enhancement bonus or special properties they would normally possess.
 
-#### Force Redirection Technique [Youxia HB]
+#### Force Redirection Technique
 
 **Prerequisite:** Equipment sphere.
 
@@ -590,7 +590,7 @@ You may treat lances, longswords, and spears as ammunition for longbows, shortbo
 
 If you possess the Ceaseless Ammo talent, you may use it with the listed weapons, although the same limitations apply, and if you possess the Ranged Impale talent, you may use it with this talent.
 
-#### Titan’s Shield [Apoc]
+#### Titan’s Shield
 
 *Source: [Spheres Apocrypha: Armor Talents](https://www.drivethrurpg.com/product/303193/Spheres-Apocrypha-Armor-Talents?affiliate_id=549120)*
 
@@ -598,7 +598,7 @@ If you possess the Ceaseless Ammo talent, you may use it with the listed weapons
 
 You may wield shields that are one size category larger than you. While wielding a shield that is larger than you, you gain a +1 bonus to your CMD. While wielding a tower shield that is larger than you, when you use your tower shield to provide cover, you treat your space as though you were the same size category as your shield. This allows you to provide cover for other creatures.
 
-#### Two-Handed Master [DRS]
+#### Two-Handed Master
 
 *Source: Diamond Classes: Renowned Warrior and the Peach Tree Oath*
 

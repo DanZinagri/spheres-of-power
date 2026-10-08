@@ -34,7 +34,7 @@ In addition, if at any time you would fall unconscious or be dropped to 0 hit po
 
 **Benefit:** When a creature is under the effect of shrouds produced by multiple casters with this feat, any saving throws against one of these shrouds is made against the highest DC of any such shroud. Shrouds produced by casters without this feat are unaffected and other shrouds cannot use their DC.
 
-#### Ready Initiation (Champion, Combat, Teamwork) [S&P]
+#### Ready Initiation (Champion, Combat, Teamwork)
 
 When one of your allies primes a technique, you respond immediately.
 

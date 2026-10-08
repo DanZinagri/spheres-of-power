@@ -13,11 +13,11 @@ parent: "[[Original Spheres]]"
 
 You can alter the flow of time itself.
 
-# Alter Time [Core]
+# Alter Time
 
 The base Time sphere grants you two ways to alter time. All alter time effects require a standard action to activate unless otherwise stated and have a range of touch. Effects that target an area are centered on you. Effects maintained through concentration require you to remain within Close range of the target or location after placing the effect.
 
-#### Haste [Core]
+#### Haste
 
 You grant the target the ability to make an extra attack at its highest BAB whenever it makes a full attack action. This effect is not cumulative with similar effects, such as that provided by a speed weapon, nor does it actually grant an extra action, so it cannot be used to cast a second sphere effect or otherwise take an extra action in the round.
 
@@ -27,7 +27,7 @@ You must concentrate to maintain this effect, but may spend a spell point as a f
 
 When using the haste ability, you may choose to grant the target an extra attack of opportunity instead of an extra attack on their full attack actions. For every 5 caster levels you possess, you grant the target one additional attack of opportunity. All other costs and restrictions of the haste ability apply as normal.
 
-#### Slow [Core]
+#### Slow
 
 You cause the target to become staggered, allowing it to only take a single move action or standard action on its turn, but not both (Will negates). You must concentrate to maintain this effect, but may spend a spell point as a free action to increase its duration to 1 round per caster level without concentration. If a slow and haste ability are used on the same creature, the second caster must pass a magic skill check. On a failure the target is unaffected. On a success, the effects counter each other, leaving neither in place.
 
@@ -62,19 +62,19 @@ As an immediate action, when an ally or object with your natural reach (or withi
 
 If you spend an additional spell point as part of using this ability, you may partially delay ability damage, ability drain, and hit point damage further, causing the creature to receive half (round up) of the damage or drain at the end of its next turn and the remainder at the end of the following turn.
 
-#### Group Time [Core]
+#### Group Time
 
 When targeting creatures with an alter time effect, you may spend an extra spell point to affect up to 1 additional creature per 2 caster levels (minimum: 1) within range. All targets must be affected by the same alter time effect. Alternately, you may spend an extra spell point to double the size of an alter time effect that targets an area.
 
-#### Improved Haste [Core]
+#### Improved Haste
 
 When you use haste on a target, that target also gains a 30 feet enhancement bonus (to a maximum of twice the subject’s normal speed) to all forms of movement. The target also gains a +1 bonus to attack rolls, as well as a +1 Dodge bonus to AC and Reflex saves.
 
-#### Improved Slow [Core]
+#### Improved Slow
 
 When you use slow on a target, that target also has its movement speed halved and suffers a -1 penalty to attack rolls, AC, and Reflex saves.
 
-#### Ranged Time [Core]
+#### Ranged Time
 
 Your alter time effects gain a range of Close. You may select this talent multiple times. Each time it is selected, you may increase the range by one level (Close to Medium, Medium to Long). Increasing the range beyond Close also increases the range at which you may maintain an effect through concentration.
 
@@ -123,13 +123,13 @@ You must concentrate to maintain this effect, but may spend a spell point as a f
 
 # Time Talents
 
-#### After Image (time) [Core]
+#### After Image (time)
 
 You may cause a target to bleed through time, blurring their image so that they appear to be in multiple places at once. This grants the target concealment (20% miss chance) against attacks, +5% per 3 caster levels to a maximum of 50%. This is a blur effect, and may be counteracted by abilities that specify they can see through them. Opponents that cannot see the subject ignore this penalty, although fighting an unseen opponent carries penalties of its own.
 
 This effect lasts as long as you concentrate, although you may spend a spell point as a free action to allow this effect to remain for 1 minute per caster level without concentration.
 
-#### Age (time) [Core]
+#### Age (time)
 
 You may spend a spell point to increase or decrease a target’s age by 1 category (Unwilling creatures make a Fortitude save to negate). This adds or removes penalties to physical ability scores but does not add or remove bonuses to mental ability scores. You may move the target 1 age category older or younger, plus an additional category for every 5 caster levels possessed.
 
@@ -156,11 +156,11 @@ Creatures affected by this ability may make a new Will saving throw each round t
 
 You may spend a spell point to pull causality from an alternate timeline, making cause follow effect rather than the other way around. The target or targets must pass a Will save or suffer 1d8 bludgeoning damage per 2 caster levels and fall prone. The cause of this damage could be a falling rock, the target tripping over something, or any other random occurrence (the details are left to the GM).
 
-#### Eject (time) [Core]
+#### Eject (time)
 
 You may spend a spell point to attempt to eject a target from time itself for 1 round per caster level (Will negates). The target disappears completely and cannot be the target of any damage or effect while it is vanished. When the effect ends, the target returns in the exact spot it disappeared from (or the closest unoccupied square). From the target’s perspective no time has passed, and any effect already on the target with a duration (such as magic or poison) continues as if the time spent ejected simply hadn’t happened.
 
-#### Fast Time (time) [Core]
+#### Fast Time (time)
 
 You may spend a spell point to accelerate time within a 10 ft radius burst, + 5 ft per 5 caster levels. All effects that are in effect within this area or on a creature within this area have their duration decreased by 1 round per caster level. This affects magic (spells, sphere abilities, etc.), poisons, diseases, etc., but does not grant extra actions to the targets within this area or provide any other benefit. In the case of effects that target areas, only the effect contained within fast time’s area is accelerated. Unwilling targets (including allies if they choose) are allowed a Will save to negate this effect for themselves or area effects originating from them. You can choose whether or not to affect yourself with your own fast time.
 
@@ -176,17 +176,17 @@ You grant the target a competence bonus to initiative checks equal to 1/2 your c
 
 You may take this talent up to three times; the second time you take this talent, affected targets also gain evasion (or improved evasion if they already have evasion) and a +2 competence bonus on Reflex saving throws. The third time you take this talent, affected targets also gain uncanny dodge (or improved uncanny dodge if they already have uncanny dodge) as a rogue of your caster level and increase the competence bonus on Reflex saving throws to +4.
 
-#### Repetition (time) [Core]
+#### Repetition (time)
 
 You may spend a spell point to momentarily extend time for a target, allowing them to take extra care when performing an action. This allows the target to take 20 on a Strength or Dexterity-based skill check without increasing the time required to perform the action, even if stress or distractions would normally prevent the target from taking 10 or taking 20.
 
 This may only be used on skill checks that take no more than 1 round to perform. If using this ability on yourself and only yourself, you may use this ability as a swift action. You cannot use this ability as a swift action in this manner if combining it with the Group Time talent.
 
-#### Retry (time) [Core]
+#### Retry (time)
 
 As an immediate action, you may spend 2 spell points to force a target to redo their turn (Will negates if unwilling). The target is returned to where their turn began, and any skill checks, attack rolls, movement, attacks of opportunity, etc. that occurred during their turn become as if they never happened. The target may perform the same actions again (remaking any rolls required by such actions), or they may choose completely different actions. If you choose to redo your own turn in this manner, you do not recover the action or spell points spent using this ability.
 
-#### Shift Time (time) [Core]
+#### Shift Time (time)
 
 You may spend a spell point to grant the target the ability to immediately take a standard, move, or swift action if they choose. Any target who takes an action with this ability loses that action for their next turn. You may use this ability on yourself and only yourself as a swift action, or a free action if you choose to take a swift action with this ability. You cannot use this ability as a swift or free action in this manner if combining it with the Group Time talent. A creature cannot benefit from Shift Time more than once per round.
 
@@ -196,7 +196,7 @@ You may spend a spell point to decelerate time within a 10-ft.radius burst, +5 f
 
 All effects that are active within this area or on a creature within this area have their duration extended by 1 round per caster level, to a maximum extended duration of twice the effect’s normal duration (so an effect that normally only lasts for 1 round could not be extended in this manner for more than 1 additional round). This affects magic (spells, sphere abilities, etc.) poisons, diseases, etc., but does not prevent creatures within the area from taking actions as normal. In the case of effects that target areas, only the portion of the effect contained within slow time’s area is decelerated. Unwilling targets (including allies if they so choose) are allowed a Will save to negate this effect for themselves or area effects originating from them. You can choose whether or not to affect yourself with your own slow time. Slow time counters the effects of fast time within its affected area and vice versa.
 
-#### Steal Time (time) [Core]
+#### Steal Time (time)
 
 You may spend a spell point to attempt to erase a target’s turn from existence. The target is dazed for 1 round (Will negates). If successful, you immediately gain an additional standard action. An individual target cannot suffer the effects of this ability more than once per round. Even if you successfully target multiple creatures in the same round with this ability (such as through the Group Time talent), you cannot gain more than a single standard action in a round in this manner.
 
@@ -212,7 +212,7 @@ This copy lasts for a number of rounds equal to 1/2 your caster level and appear
 
 Time clones created with this talent cannot create additional time clones or similar copies of themselves.
 
-#### Time Freeze (time) [Core]
+#### Time Freeze (time)
 
 You may spend one spell point to freeze all activity within a 10 ft radius burst, + 5 ft per 5 caster levels. If used as a readied action, this can stop ranged attacks or instantaneous magical effects (such as destructive blasts), but in the case of effects that target areas, only the effect contained within the time freeze’s area is stopped. Unwilling targets (including allies if they choose) are allowed a Will save to negate this effect for themselves or effects originating from them (attacks, magic, etc.). You can choose whether or not to affect yourself with your own time freeze.
 

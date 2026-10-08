@@ -1,6 +1,6 @@
 ---
-title: "Harrow Medium [3PP]"
-aliases: ["Harrow Medium [3PP]"]
+title: "Harrow Medium"
+aliases: ["Harrow Medium"]
 source: https://spheresofpower.wikidot.com/harrow-medium
 updated: 2022-10-29
 searchtype: Archetypes

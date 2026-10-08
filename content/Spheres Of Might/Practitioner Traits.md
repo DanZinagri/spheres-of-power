@@ -8,7 +8,7 @@ parent: "[[Spheres Of Might]]"
 
 # Combat Traits
 
-#### Heavy Machinery (combat) [[DRS](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)]
+#### Heavy Machinery (combat)
 
 Any *mechanoid* you create gets +1 hit point, +1 per 2 gizmo levels.
 
@@ -24,7 +24,7 @@ You have focused on a single combat talent, gaining greater proficiency with it.
 
 You are quick to learn from your mistakes. Whenever you attempt a combat maneuver and fail, you gain a +2 trait bonus on your next combat maneuver check with that same combat maneuver as long as you attempt it before the end of your next turn.
 
-#### Scout’s Eyes (combat) [Youxia HB]
+#### Scout’s Eyes (combat)
 
 You ignore the -5 penalty on Perception checks when using the Scout sphere’s scout ability.
 
@@ -36,13 +36,13 @@ You are able to react to danger with violence. You gain the ability to make one 
 
 Your physique is far more difficult to damage than others. You gain +1 hit point; for every two additional hit dice you possess, you gain +1 hit point.
 
-#### Talented Knuckle (combat) [Youxia HB]
+#### Talented Knuckle (combat)
 
 You are treated as though you possessed 2 additional Boxing, Brute, Open Hand, or Wrestling talents when determining the damage of your unarmed strikes. You must have at least one of the above base spheres to benefit from this trait.
 
 # Equipment Traits
 
-#### Maintenance Expert (equipment) [[DRS](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)]
+#### Maintenance Expert (equipment)
 
 If you possess the Tinker sphere, you increase your gizmo limit by +1 and increase the number of minor gizmos you can maintain as a single gizmo (as a “set”) by +1.
 
@@ -50,7 +50,7 @@ If you possess the Tinker sphere, you increase your gizmo limit by +1 and increa
 
 You know enough about weapons to expand your knowledge on their use. Select 1 martial weapon with which you are not proficient; you reduce the penalties on attack rolls for not being proficient with it by -2 (minimum 0). If you are proficient with at least 3 martial or exotic weapons, you instead gain proficiency with the selected martial weapon.
 
-#### Well-Provisioned Adventurer (equipment) [High. HB]
+#### Well-Provisioned Adventurer (equipment)
 
 Select and gain one of the equipment packages found in Pathfinder Player Companion: Adventurer’s Armory 2. If you select this trait during character creation, you do not receive any starting gold.
 
@@ -77,7 +77,7 @@ The imperialist tradition package is less standardized than most other packages,
 **Other Gear:** Backpack, belt pouch, flask, flint and steel, mess kit, silk rope (50 ft.), trail rations (5 days), waterskin, whetstone, 15 gp.
 **Total Weight:** 67 lbs. (33-5/8 lbs. for a Small character).
 
-##### Janjaweed Tradition Package [WtD]
+##### Janjaweed Tradition Package
 
 The janjaweed tradition package is less standardised than most other packages, but may be tailored to the individual who acquires it. In adventures or campaigns where firearms are nonexistent or very rare, the firearm option is unavailable, and instead the character must choose the masterwork bow option. The janjaweed tradition package includes the following equipment:
 **Armor:** Eventide outfit and either a) hide armor or b) studded leather armor and light wooden shield
@@ -87,7 +87,7 @@ The janjaweed tradition package is less standardised than most other packages, b
 **Other Gear:** Backpack, belt pouch, feed (10 days), filter scarf, flask, flint and steel, mess kit, saddlebags, saddle (military), silk rope (50 ft.), tent, trail rations (10 days), verminbite kit, waterskin x4, whetstone, winter blanket, 5 gp.
 **Total Weight:** 250 lbs. +/- 8 lbs. based on simple weapon choices (104-1/2 lbs. +/- 4 lbs. based on simple weapon choices for a Small character). (Does not include mount's weight)
 
-##### Ruin Delver Tradition Package [WtD]
+##### Ruin Delver Tradition Package
 
 The ruin delver tradition package is less standardised than most other packages, but may be tailored to the individual who acquires it. The ruin delver tradition package includes the following equipment:
 **Armor:** Cold-weather or hot weather outfit, and masterwork studded leather armor
@@ -108,7 +108,7 @@ The tattooed warrior tradition package is less standardised than most other pack
 **Other Gear:** Backpack, belt pouch, flask, flint and steel, mess kit, silk rope (50 ft.), trail rations (5 days), waterskin, whetstone, 15 gp.
 **Total Weight:** 43 lbs. (21-5/8 lbs. for a Small character).
 
-#### Well-Balanced Blade (equipment) [Apoc]
+#### Well-Balanced Blade (equipment)
 
 *Source: [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)*
 
@@ -118,13 +118,13 @@ Pick a single exotic weapon in which you have martial proficiency with wielding 
 
 # Region Traits
 
-#### Intuitive Hands (region) [BTH]
+#### Intuitive Hands (region)
 
 You were taught to rely on your intuition when taming and riding the creatures found in the vast wilderness that surrounded your home. Choose either Handle Animal or Ride. One of these skills is always a class skill for you, and you may attempt checks with that skill using your Wisdom modifier instead of that skill’s normal ability score.
 
 # Religion Traits
 
-#### Higher Calling (religion) [Conq. HB]
+#### Higher Calling (religion)
 
 Your deity has blessed you with divine purpose, and your actions work towards their machinations. Once per week, you may cast augury as a spell-like ability. As part of using the spell-like ability, you utter a short prayer to your deity. In addition, Diplomacy is a class skill for you.
 
@@ -136,13 +136,13 @@ You have always had a way with people. Diplomacy is a class skill for you and yo
 
 *Adaptation note:* If you intend to take a drawback that changes the skill used for the recruit ability, this trait may be applied to that skill instead.
 
-#### Highland Clansman (social) [High. HB]
+#### Highland Clansman (social)
 
 You were born into a particular highland clan or a sept family that follows a particular clan. Alternatively, you were adopted into a clan due to meritorious service or through marriage. Pick two colors from the War Paint formulae talent from the Alchemy sphere. Those are your clan colors, and you may benefit from having both war paint colors if applied simultaneously.
 
 **Normal:** You can only have one war paint color active at a time.
 
-#### Industrial Worker (social) [[DRS](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)]
+#### Industrial Worker (social)
 
 You gain a +5 trait bonus on all checks to gather Tinker sphere project materials and Knowledge (Engineering) is always a class skill for you.
 
@@ -150,7 +150,7 @@ You gain a +5 trait bonus on all checks to gather Tinker sphere project material
 
 You reduce the DC increase for a dead cohort by 2 and double the rate this penalty is reduced.
 
-#### Scarred by War (social) [Conq. HB]
+#### Scarred by War (social)
 
 Your long history of raiding and battle has left your body scarred and visually imposing. You gain DR 1/piercing. In addition, Intimidate is a class skill for you.
 

@@ -33,7 +33,7 @@ Instead, see the following pages for specific examples of items that aren't Wond
 
 # New Marvelous Items
 
-### Alabaster Marquise Ioun Stone [DRS]
+### Alabaster Marquise Ioun Stone
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -93,7 +93,7 @@ Three times per day, you may activate this amulet as a standard action. Doing so
 **Construction Requirements**
 Craft Marvelous Item, Light sphere, Divination sphere (Detect Secrets (divine)); **Cost** 5,400 gp
 
-### Aspect Talisman [DRS]
+### Aspect Talisman
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -108,7 +108,7 @@ The wearer gains Aspect of the Beast as a bonus feat. Whenever the wearer rests 
 **Imbued Manifestation** - If the wearer possesses the Alteration sphere, when selecting a manifestation from Aspect of the Beast, the wearer may instead select a single Alteration sphere trait they know, gaining its effects with an effective caster level of 1 (paying any spell point costs as required). This is a constant supernatural polymorph effect and stacks with other polymorph effects.
 
 **Construction**
-**Requirements** Craft Wondrous Item (Craft Apparatus [USOP]), *alter self* or Alteration sphere; **Cost** 4,000 gp
+**Requirements** Craft Wondrous Item (Craft Apparatus), *alter self* or Alteration sphere; **Cost** 4,000 gp
 
 ### Banner of the Warlord
 
@@ -149,7 +149,7 @@ This is the same as a banner of the warlord, but its effective caster level is 5
 **Construction Requirements**
 Craft Marvelous Item, War sphere, totem to be imbued; **Cost** 7,500 gp
 
-### Blanching Quiver [DRS]
+### Blanching Quiver
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -162,9 +162,9 @@ This banded metal quiver features an assortment of assorted metal bands.
 **Blanch Ammunition** - The *blanching quiver* possesses three charges per day, which may be spent as a free action to align the quiver to a single material for 1 minute, chosen from adamantine, cold iron, and silver. For the duration, any ammunition drawn and fired in the same round is treated as the chosen material (in addition to its normal material) for the purposes of bypassing damage reduction.
 
 **Construction**
-**Requirements** Craft Wondrous Item (Craft Marvelous Item [USOP]), *heart of the metal* or Creation sphere (Expanded Materials); **Cost** 1,200 gp
+**Requirements** Craft Wondrous Item (Craft Marvelous Item), *heart of the metal* or Creation sphere (Expanded Materials); **Cost** 1,200 gp
 
-### Bloody Mess [TS]
+### Bloody Mess
 
 **Aura** faint Death; **CL** 3rd
 **Slot** any; **Price** 3,600 gp; **Weight** 2 lbs.
@@ -176,7 +176,7 @@ Bloody messes often look like a heart and must be squeezed hard to activate, aft
 **Construction Requirements**
 Craft Marvelous Item, Death sphere (Bleeding Wounds (ghost strike), Greater Ghost Strike); **Cost** 1,800 gp
 
-### Boots of Polymorphous Alacrity [BaP]
+### Boots of Polymorphous Alacrity
 
 **Aura** faint Alteration; **CL** 5th
 **Slot** feet; **Price** 6,500 gp; **Weight** 1 lb.
@@ -189,7 +189,7 @@ In addition, the wearer gains a +2 competence bonus on initiative checks.
 **Construction Requirements**
 Craft Marvelous Item, Alteration sphere (Agile); **Cost** 3,250 gp
 
-### Boots of Toe Beans [Catgirl HB]
+### Boots of Toe Beans
 
 **Aura** faint Enhancement; **CL** 5th
 **Slot** body; **Price** 6,500 gp; **Weight** 1 lbs.
@@ -202,7 +202,7 @@ If the wearer is a rogue, unchained rogue, ninja, or other class with access to 
 **Construction Requirements**
 Craft Marvelous Item, Enhancement sphere (Alter Movement (enhance), Enhance Focus (enhance)); **Cost** 3,250 gp
 
-### Charms of the Spirit Lords [Conq. HB]
+### Charms of the Spirit Lords
 
 **Aura** moderate Alteration; **CL** 10th
 **Slot** none; **Price** 26,000 gp; **Weight** 0.3 lbs.
@@ -215,7 +215,7 @@ Whenever the bearer of the charms would apply a shapeshift to themselves, they m
 **Construction Requirements**
 Craft Marvelous Item, Alteration sphere (Greater Changes); **Cost** 13,000 gp
 
-### Clockwinder Gloves [DRS]
+### Clockwinder Gloves
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -233,9 +233,9 @@ Twice per day as a swift action, the wearer of a pair of *clockwinder gloves* ma
 **Temporal Touch** - Whenever the wearer casts a Time sphere effect targeting one or more creatures (or similar time-themed magic), the wearer may use the *clockwinder gloves* as a swift action to affect a single target of the sphere ability with either *quickening snap* or *slowing run* (this counts against the gloves' normal uses per day). When used this way, *slowing run* uses the wearer's Time sphere saving throw DC - 4 (instead of the item's normal saving throw DC, if greater).
 
 **Construction**
-**Requirements** Craft Wondrous Item (Craft Marvelous Item [USOP]), *haste* and *slow* or Time sphere (Improved Haste or Improved Slow); **Cost** 3,000 gp
+**Requirements** Craft Wondrous Item (Craft Marvelous Item), *haste* and *slow* or Time sphere (Improved Haste or Improved Slow); **Cost** 3,000 gp
 
-### Cloudcalling Focus [DRS]
+### Cloudcalling Focus
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -250,9 +250,9 @@ The wearer treats the weather severity as being 1 higher (for each category) for
 **Sphere of Calm** - Once per day as a standard action, the wearer may produce a rippling sphere of calming weather, which lasts for 10 minutes. This sphere is a 15-foot radius centered on the wearer and protects all creatures within it from natural weather. Against magical weather, creatures instead roll twice on saving throws and ability checks to resist the harmful weather effects, taking the better result.
 
 **Construction**
-**Requirements** Craft Wondrous Item (Craft Marvelous Item [USOP]), *control winds* and *endure elements* or Weather (Clear Skies, Forceful Wind); **Cost** 7,500 gp
+**Requirements** Craft Wondrous Item (Craft Marvelous Item), *control winds* and *endure elements* or Weather (Clear Skies, Forceful Wind); **Cost** 7,500 gp
 
-### Cloying Brooch [DRS]
+### Cloying Brooch
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -269,9 +269,9 @@ The shadow limb is partially-immaterial and allows the wearer to use the shadow 
 **Subtle Shadow** - While the stretch shadow ability is active, the user may end its duration as part of using the subtle action skill use (*Spheres of Guile*) to gain a +5 circumstance bonus to their subtle action check.
 
 **Construction**
-**Requirements** Craft Wondrous Item (Craft Marvelous Item [USOP]), *darkness* or Dark (Manifest Darkness) (*Diamond Polished Spheres: Dark Sphere*); **Cost** 3,000 gp
+**Requirements** Craft Wondrous Item (Craft Marvelous Item), *darkness* or Dark (Manifest Darkness) (*Diamond Polished Spheres: Dark Sphere*); **Cost** 3,000 gp
 
-### Coin of Weighted Fortune [DRS]
+### Coin of Weighted Fortune
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -291,9 +291,9 @@ This coin may only be flipped during moments of stress, action, or adrenaline. A
 **Lucky Word** - Once per day, the user may flip this coin as part of using the Fate *word* sphere ability. The heads or tails result affects the target (or targets) of the *word* (this may affect an ally with tails, or opponent with heads - that's the nature of a coinflip).
 
 **Construction**
-**Requirements** Craft Wondrous Item (Craft Marvelous Item [USOP]), *borrow fortune* or Fate sphere (Bless or Curse); **Cost** 4,500 gp
+**Requirements** Craft Wondrous Item (Craft Marvelous Item), *borrow fortune* or Fate sphere (Bless or Curse); **Cost** 4,500 gp
 
-### Conforming Mountlord’s Saddle [BTH]
+### Conforming Mountlord’s Saddle
 
 **Aura** faint Alteration and Warp; **CL** 6th (normal), 10th (greater)
 **Slot** none; **Price** 5,000 gp (normal), 12,000 gp (greater);
@@ -322,7 +322,7 @@ The light pair of wire-rimmed lenses reveal natural levels of illumination from 
 **Construction Requirements**
 Craft Marvelous Item, Divination sphere; **Cost** 1,000 gp
 
-### Creature Caller's Phial [DRS]
+### Creature Caller's Phial
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -341,9 +341,9 @@ Only a single summoning spell may be affected by the *creature caller's phial*. 
 A *greater creature caller's phial* instead grants the chosen (type) talent as though taken twice.
 
 **Construction**
-**Requirements** Craft Wondrous Item (Craft Marvelous Item [USOP]), *evolution surge* or Conjuration sphere (any (type) talent); **Cost** 4,500 gp (standard), 11,000 (greater)
+**Requirements** Craft Wondrous Item (Craft Marvelous Item), *evolution surge* or Conjuration sphere (any (type) talent); **Cost** 4,500 gp (standard), 11,000 (greater)
 
-### Crusader’s Insignia [Conq. HB]
+### Crusader’s Insignia
 
 **Aura** moderate Enhancement; **CL** 7th
 **Slot** none; **Price** 3,000 gp; **Weight** -
@@ -360,7 +360,7 @@ The bearer may use the insignia once per day without spending panache. Character
 **Construction Requirements**
 Craft Marvelous Item, Enhancement sphere; **Cost** 1,500 gp
 
-### Cryptkeeper’s Coffin [Gravecaller's HB]
+### Cryptkeeper’s Coffin
 
 **Aura** moderate Death; **CL** 5th
 **Slot** none; **Price** 8,000 gp; **Weight** 50 lbs.
@@ -379,7 +379,7 @@ A body can be stored or retrieved from the coffin as a standard action, or a cre
 **Construction Requirements**
 Craft Marvelous Item, Death (Corpse Manipulation, Tomb Of Flesh); **Cost** 4,000 gp
 
-### Cursed Sign [TS]
+### Cursed Sign
 
 **Aura** faint Mana; **CL** 2nd
 **Slot** none; **Price** 1,600 gp; **Weight** 2 lbs.
@@ -391,7 +391,7 @@ Once per day, when brandished in one hand as a standard action, a cursed sign ca
 **Construction Requirements**
 Craft Marvelous Item, Mana sphere (Mark Of Incompetency (expunge)); **Cost** 800 gp
 
-### Dagger of False Death [TS]
+### Dagger of False Death
 
 **Aura** faint Alteration; **CL** 3rd
 **Slot** weapon; **Price** 3,602 gp; **Weight** 1 lb.
@@ -465,7 +465,7 @@ These sturdy leather boots are prized by mercenaries who may not have healers av
 **Construction Requirements**
 Craft Marvelous Item, Life sphere (Revitalize); **Cost** 2,000 gp
 
-### Ebony Marquise Ioun Stone [DRS]
+### Ebony Marquise Ioun Stone
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 **Aura** strong abjuration — **CL** 12th
@@ -487,7 +487,7 @@ This stone grants you the Blind-Fight feat, except that whenever you miss becaus
 **Construction**
 Craft Marvelous Item, Dark or Divination sphere, creator must be 12th level — **Cost** 7,000 gp
 
-### Electric Lute [DRS]
+### Electric Lute
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -506,7 +506,7 @@ If the user possesses the Performance sphere, they can use this ability as part 
 **Construction**
 Craft Marvelous Item, Destruction sphere, any talent from the Electric blast type group — **Cost** 1,200 gp
 
-### Elemental Ward [TS]
+### Elemental Ward
 
 **Aura** faint Protection; **CL** 4th
 **Slot** wrists; **Price** 6,400 gp; **Weight** 1 lb.
@@ -518,7 +518,7 @@ Elemental wards are golden bracelets decorated with gems of various colors that 
 **Construction Requirements**
 Craft Marvelous Item, Protection sphere (Distant Protection [range], Elemental Resistance (aegis, ward), Mass Aegis [mass]); **Cost** 3,200 gp
 
-### Emergency Exit [TS]
+### Emergency Exit
 
 **Aura** moderate Warp; **CL** 7th
 **Slot** none; **Price** 19,600 gp; **Weight** 4 lbs.
@@ -534,7 +534,7 @@ The ability to quickly retreat from a battle to a predetermined location is a po
 
 If you need to make a more powerful version to accommodate a larger party, you only need to increase the caster level for this item, at a rate of one creature per 2 caster levels (this also increases the range willing creatures have to be in to benefit from this item, at a rate of 5 feet per 2 caster levels). The updated price for this item will be 400 x 7 x caster level. For example, a party of six characters would need a CL 10th item costing 28,000 gp.
 
-### Energy Converter [TS]
+### Energy Converter
 
 **Aura** faint Mana; **CL** 1st
 **Slot** hands; **Price** 400 gp; **Weight** 2 lbs.
@@ -557,7 +557,7 @@ Once per round, when you use a sphere ability that deals hit point damage, you d
 **Construction Requirements**
 Craft Marvelous Item, Destruction sphere; **Cost** 30,000 gp
 
-### Ever-Verdant Terrarium [DRS]
+### Ever-Verdant Terrarium
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -574,7 +574,7 @@ If a creature has at least 4 ranks in Profession (herbalist), they can attempt t
 **Construction**
 Craft Marvelous Item, Nature sphere (Create Nature) — **Cost** 2,000 gp
 
-### Feline Fineries [Catgirl HB]
+### Feline Fineries
 
 **Aura** faint Illusion; **CL** 4th
 **Slot** body; **Price** 150 gp; **Weight** 1 lbs.
@@ -591,7 +591,7 @@ Other variants of the feline fineries exist, such as those for canines, foxes, a
 **Construction Requirements**
 Craft Marvelous Item, Illusion sphere (Illusory Disguise); **Cost** 75 gp
 
-### Flame Bearer’s Mask [TS]
+### Flame Bearer’s Mask
 
 **Aura** faint Bear; **CL** 5th
 **Slot** head; **Price** 10,000 gp; **Weight** 3 lbs.
@@ -603,7 +603,7 @@ This wooden mask is carved into the shape of a bear’s head and seems a bit cha
 **Construction Requirements**
 Craft Marvelous Item, Bear sphere (Bearbaque (bearacteristic)); **Cost** 5,000 gp
 
-### Flask of the Dawn [TS]
+### Flask of the Dawn
 
 **Aura** faint Life; **CL** 2nd
 **Slot** none; **Price** 4,800 gp; **Weight** 2 lbs.
@@ -635,7 +635,7 @@ This particular focus is made and sold in various different shapes, the most com
 **Construction Requirements**
 Craft Marvelous Item, Divination sphere, Enhancement sphere; **Cost** 66,000 gp
 
-### Foodmaker [TS]
+### Foodmaker
 
 **Aura** faint Nature; **CL** 2nd
 **Slot** none; **Price** 1,600 gp; **Weight** -
@@ -647,7 +647,7 @@ Despised the world over by arcane masters confident they could come up with a mu
 **Construction Requirements**
 Craft Marvelous Item, Nature sphere ((plant) package, Create Nature (geomancing)); **Cost** 800 gp
 
-### Gale Lord's Cloak [DRS]
+### Gale Lord's Cloak
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -662,9 +662,9 @@ While concentrating on the Weather *control weather* sphere effect to adjust the
 **Command Wind** - Once per day, as a swift action, the wearer may change the direction of a wind effect (this may be a magical or non-magical wind effect) within 60 feet. The wearer must succeed on a magic skill check against the magical wind effect's MSD (using the cloak's MSB of +8 if greater than their own).
 
 **Construction**
-**Requirements** Craft Wondrous Item (Craft Marvelous Item [USOP]), *control winds* or Weather (Forceful Wind); **Cost** 6,500 gp
+**Requirements** Craft Wondrous Item (Craft Marvelous Item), *control winds* or Weather (Forceful Wind); **Cost** 6,500 gp
 
-### Glowcaster [DRS]
+### Glowcaster
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -681,7 +681,7 @@ When a *glowcaster* is shedding light, the user may coax this light from its ves
 **Radiant Lightcasting** - Once per day, when a *glowcaster* produces a dancing light, the user may add the effects of a single non-advanced Light sphere (light) talent to the dancing light (the created effect may include any optional spell point costs, including the spell point cost of the (light) talent). This effect lasts for 1 minute, before returning to normal. The caster level of this (light) talent is 4th with a DC 12 saving throw.
 
 **Construction**
-**Requirements** Craft Wondrous Item (Craft Marvelous Item [USOP]), *dancing lights* or Enhancement sphere; **Cost** 1,250 gp
+**Requirements** Craft Wondrous Item (Craft Marvelous Item), *dancing lights* or Enhancement sphere; **Cost** 1,250 gp
 
 ### Goggles of Magic Sight
 
@@ -694,7 +694,7 @@ These goggles look like simple goggles used by fliers, but closer inspection rev
 **Construction Requirements**
 Craft Marvelous Item, Divination sphere; **Cost** 600 gp
 
-### Gravewhisperer Veil [DRS]
+### Gravewhisperer Veil
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -711,9 +711,9 @@ Only a single fragment can be stored this way, and while stored, the veil's gray
 **Expel Fragment** - Whenever the wearer casts a necromancy school spell or Death sphere *ghost strike*, you may release a fragment trapped within this veil. When released, the spell is modified with either the Ectoplasmic Spell or Enlarge Spell metamagic feat without increasing the spell or sphere effect's spell level or spell points used.
 
 **Construction**
-**Requirements** Craft Wondrous Item (Craft Marvelous Item [USOP]), *speak with dead* or Death sphere (Gravetongue); **Cost** 4,500 gp
+**Requirements** Craft Wondrous Item (Craft Marvelous Item), *speak with dead* or Death sphere (Gravetongue); **Cost** 4,500 gp
 
-### Gravity Regulator [RW HB]
+### Gravity Regulator
 
 **Aura** faint Telekinesis; **CL** 6th
 **Slot** chest; **Price** 2,000 gp (personal), 8,000 gp (prime), 12,000 gp (vessel); **Weight** 2 lbs.
@@ -736,7 +736,7 @@ A prime gravity regulator can also be crafted such that it affects an entire ves
 **Construction Requirements**
 Craft Marvelous Item, Telekinesis sphere; **Cost** 1,000 gp (normal), 4,000 (prime), 6,000 gp (vessel)
 
-### Growing Can [TS]
+### Growing Can
 
 **Aura** faint Nature; **CL** 2nd
 **Slot** none; **Price** 1,600 gp; **Weight** -
@@ -759,7 +759,7 @@ When a creature wears this headband, once per day they may look at a creature wi
 **Construction Requirements**
 Craft Marvelous Item, Fate sphere; **Cost** 5,000 gp
 
-### Healing Shiv [TS]
+### Healing Shiv
 
 **Aura** faint Life; **CL** 3rd
 **Slot** weapon; **Price** 3,602 gp; **Weight** 1 lb.
@@ -771,7 +771,7 @@ This dagger has a rough, jagged edge and a cobbled-together grip that looks like
 **Construction Requirements**
 Craft Marvelous Item, Life sphere (Clarified Strike [strike], Deeper Healing); **Cost** 1,801 gp
 
-### Inspiring Crest [TS]
+### Inspiring Crest
 
 **Aura** faint Mind; **CL** 2nd
 **Slot** any; **Price** 1,600 gp; **Weight** -
@@ -783,7 +783,7 @@ Inspiring crests are enchanted works of art often affixed to the insides of shie
 **Construction Requirements**
 Craft Marvelous Item, Mind sphere (Inspiration (charm), Powerful Charm); **Cost** 800 gp
 
-### Invisible Edge [TS]
+### Invisible Edge
 
 **Aura** faint Light; **CL** 4th
 **Slot** hands; **Price** 6,400 gp; **Weight** 3 lbs.
@@ -814,7 +814,7 @@ The music box can only be played once per day. If a creature opens the box a sec
 **Construction Requirements**
 Craft Marvelous Item, Fate sphere; **Cost** 10,000 gp
 
-### Left-Handed Gauntlet [Youxia HB]
+### Left-Handed Gauntlet
 
 **Aura** faint transmutation; **CL** 15th
 **Slot** hands; **Price** 5,000 gp; **Weight** 3 lbs.
@@ -824,7 +824,7 @@ This plain looking silver gauntlet is attuned to the first creature to wear it, 
 **Construction Requirements**
 **Feats** Craft Marvelous Item, Life sphere, Nature sphere (Nature’s Carapace (spirit)), **Cost** 2,500 gp
 
-### Lenses of Focused Insight [DRS]
+### Lenses of Focused Insight
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -837,9 +837,9 @@ The range of Divination *sense* abilities (whose ranges are measured in feet) af
 **Attune Lenses** - Once per day, when the wearer uses the Divination *sense* sphere ability targeting themselves (and only themselves), the wearer may reduce the spell point cost of the chosen (*sense*) talent by 1. This sense's duration immediately ends if the *lenses of focused insight* are removed.
 
 **Construction**
-**Requirements** Craft Wondrous Item (Craft Apparatus [USOP]), *acute senses* or Divination; **Cost** 3,000 gp
+**Requirements** Craft Wondrous Item (Craft Apparatus), *acute senses* or Divination; **Cost** 3,000 gp
 
-### Ley Line Taprod [RW HB]
+### Ley Line Taprod
 
 **Aura** faint Mana; **CL** 3rd
 **Slot** none; **Price** 1,500 gp (normal), 4,000 gp (greater); **Weight** 1 lb.
@@ -851,7 +851,7 @@ A greater ley line taprod is the same as a normal ley line taprod, except the co
 **Construction Requirements**
 Craft Marvelous Item, Mana sphere; **Cost** 750 gp (normal), 2,000 (greater)
 
-### Leylantern [RW HB]
+### Leylantern
 
 **Aura** faint Light and Mana; **CL** 5th
 **Slot** none; **Price** 3,500 gp (normal), 4,000 gp (attendant); **Weight** 3 lbs.
@@ -867,7 +867,7 @@ An attendant leylantern can float in the user’s space with a command word, fol
 **Construction Requirements**
 Craft Marvelous Item, Light sphere, Mana sphere; **Cost** 1,750 gp (normal), 2,000 gp (attendant)
 
-### Lifebinder Chalice [DRS]
+### Lifebinder Chalice
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -882,7 +882,7 @@ While held in hand, whenever the user receives healing in excess of their maximu
 **Vital Infusion** - Once per day, when the user casts the Life *cure* or *invigorate* sphere abilities, the user may deplete 10 stored hit points to add a single (vitality) talent to the sphere ability.
 
 **Construction**
-**Requirements** Craft Wondrous Item (Craft Marvelous Item [USOP]), *cure moderate wounds* or Life (Empathic Healing); **Cost** 4,250 gp
+**Requirements** Craft Wondrous Item (Craft Marvelous Item), *cure moderate wounds* or Life (Empathic Healing); **Cost** 4,250 gp
 
 ### Light of Iris
 
@@ -907,7 +907,7 @@ Additionally, twice per day when the hand is empty and the hand opened completel
 **Construction Requirements**
 Craft Wondrous Item, Light sphere (Style), Fate sphere (Bless); **Cost** 16,000 gp
 
-### Lucky Charm [TS]
+### Lucky Charm
 
 **Aura** faint Divination; **CL** 2nd
 **Slot** any; **Price** 1,600 gp; **Weight** 0.5 lbs.
@@ -919,7 +919,7 @@ Instilled with a suspiciously high amount of luck, these charms are often made w
 **Construction Requirements**
 Craft Marvelous Item, Divination sphere (Divine Future); **Cost** 800 gp
 
-### Magic-Shielding Tattoo [TS]
+### Magic-Shielding Tattoo
 
 **Aura** faint Enhancement; **CL** 4th
 **Slot** any; **Price** 6,400 gp; **Weight** 0.5 lbs.
@@ -931,7 +931,7 @@ This tattoo comes stored in a vial and can be poured onto a creature’s body, w
 **Construction Requirements**
 Craft Marvelous Item, Enhancement sphere (Magic Sink (enhance)); **Cost** 3,200 gp
 
-### Manaleech Choker [DRS]
+### Manaleech Choker
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -946,9 +946,9 @@ This silver choker greedily wraps around the neck, seemingly tightening in the p
 The *manaleech choker* may only attempt to steal magic if the struck creature spent 1 or more spell points or used a spell slot within the last round.
 
 **Construction**
-**Requirements** Craft Wondrous Item (Craft Apparatus [USOP]), *spellcrash* or Mana (Flow); **Cost** 12,000 gp
+**Requirements** Craft Wondrous Item (Craft Apparatus), *spellcrash* or Mana (Flow); **Cost** 12,000 gp
 
-### Matrix of Order [WM]
+### Matrix of Order
 
 **Aura** faint protection; **CL** 6th;
 **Slot** neck; **Price** 8,000 gp **Weight** 1 lb.
@@ -959,7 +959,7 @@ This necklace appears to hold a modestly sized crystal, but closer inspection re
 **Construction Requirements**
 Craft Marvelous Item, Protection sphere; **Cost** 4,000 gp
 
-### Metalheart Bracers [DRS]
+### Metalheart Bracers
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -974,9 +974,9 @@ Any weapon wielded by the wearer is treated as a masterwork weapon (if not alrea
 **Extra Refinements** - Once per day, the wearer may strike the *metalheart bracers* against a manufactured weapon they are wielding, temporarily enchanting it. The weapon gains a +1 enhancement bonus to attack and damage rolls for 3 minutes.
 
 **Construction**
-**Requirements** Craft Wondrous Item (Craft Apparatus [USOP]), *masterwork transformation* or Enhancement; **Cost** 600 gp
+**Requirements** Craft Wondrous Item (Craft Apparatus), *masterwork transformation* or Enhancement; **Cost** 600 gp
 
-### Mind-Shielding Ring [TS]
+### Mind-Shielding Ring
 
 **Aura** faint Mind; **CL** 2nd
 **Slot** ring; **Price** 1,800 gp; **Weight** 0.5 lbs.
@@ -988,7 +988,7 @@ These rings are often worn by those expecting to go into mentally difficult situ
 **Construction Requirements**
 Craft Marvelous Item, Mind sphere (Mind Shield (charm), Powerful Charm); **Cost** 800 gp
 
-### Mirrormagic Coat [DRS]
+### Mirrormagic Coat
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -1005,7 +1005,7 @@ In addition, the wearer gains a +3 bonus on Bluff and Sleight of Hand checks.
 **Flashy Disappearance** - When a creature destroys one of the wearer's mirror images (or Illusion sphere decoys), that creature is dazzled for 1d4 rounds (no save). If that creature is already dazzled, they are instead blinded for 1 round (Will negates, DC 16).
 
 **Construction**
-**Requirements** Craft Wondrous Item (Craft Marvelous Item [USOP]), *mirror image* or Illusion sphere (Decoy); **Cost** 7,500 gp
+**Requirements** Craft Wondrous Item (Craft Marvelous Item), *mirror image* or Illusion sphere (Decoy); **Cost** 7,500 gp
 
 ### Necklace of the Healed Soul
 
@@ -1091,7 +1091,7 @@ This faceted key is carved from volcanic glass and hangs around the wearer’s n
 **Construction Requirements**
 Craft Marvelous Item, Dark sphere (Clearsight (meld)); **Cost** 1,500 gp
 
-### Obstructing Shield [TS]
+### Obstructing Shield
 
 **Aura** faint Protection; **CL** 2nd
 **Slot** any; **Price** 1,600 gp, **Weight** 2 lbs.
@@ -1149,7 +1149,7 @@ N Diminutive construct
 **Familiar**
 If the origami charm is a familiar, it may change out its construction points by attempting a Craft (art) check DC 15 + 1 per construction point changed. Flaws may not be changed or traded out with others.
 
-### Pact Talisman [DRS]
+### Pact Talisman
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -1168,9 +1168,9 @@ The *pact talisman* continues to glow while the summon effect persists, and may 
 **Enhanced Pact** - If the wearer would summon a singular creature, such as with the Conjuration sphere *summon* sphere ability, call an eidolon or manifest a phantom, or call a creature (such as through a *planar ally* or similar spell), the wearer may permanently bond the *pact talisman* to that creature. While that creature is within 30 feet of the wearer in possession of the *pact talisman*, the creature gains a morale bonus on attack and damage rolls equal to this item's total bonus.
 
 **Construction**
-**Requirements** Craft Wondrous Item (Craft Marvelous Item [USOP]), *summon monster I* or Conjuration sphere; **Cost** 2,500 gp (+1), 5,500 gp (+2), 10,500 gp (+3)
+**Requirements** Craft Wondrous Item (Craft Marvelous Item), *summon monster I* or Conjuration sphere; **Cost** 2,500 gp (+1), 5,500 gp (+2), 10,500 gp (+3)
 
-### Performer’s Edge [TS]
+### Performer’s Edge
 
 **Aura** faint Enhancement; **CL** 2nd
 **Slot** none; **Price** 1,600 gp; **Weight** 3 lbs.
@@ -1182,7 +1182,7 @@ This bottle contains a faintly shimmering lime-green liquid that occasionally sw
 **Construction Requirements**
 Craft Marvelous Item, Enhancement sphere (Enhance Focus (enhance)); **Cost** 800 gp
 
-### Pixie Partner [TS]
+### Pixie Partner
 
 **Aura** faint Conjuration; **CL** 5th
 **Slot** none; **Price** 10,000 gp; **Weight** 1 lb.
@@ -1225,7 +1225,7 @@ N Tiny outsider
 **Fly (50 ft., average)** You can fly!
 **Go Unnoticed** During the first round of combat, flat-footed opponents are considered not to have noticed you yet for the purposes of Stealth checks, allowing you to attempt a Stealth check that round to hide from them. Skillful Companion Companion gains increased Intelligence and skill points
 
-### Portable Shell [TS]
+### Portable Shell
 
 **Aura** faint Protection; **CL** 3rd
 **Slot** any; **Price** 3,600 gp; **Weight** 2 lbs.
@@ -1249,7 +1249,7 @@ The wearer treats his elementalist level as 4 higher for the purposes of determi
 Craft Marvelous Item, favored element class feature; **Cost** 1,000 gp
 For information on power charms, see Steelforge by Dreamscarred Press.
 
-### Purrsian Carpet [Catgirl HB]
+### Purrsian Carpet
 
 **Aura** moderate Enhancement; **CL** 8th
 **Slot** none; **Price** 34,000 gp; **Weight** 20 lbs.
@@ -1293,7 +1293,7 @@ N Large construct
 **Special Abilities**
 **Show You The World (Ex):** As a magic item, the purrsian carpet’s fly speed is 50 feet with maneuverability (good). Whenever the purrsian carpet would be deactivated mid-flight, it descends slowly to the ground, as though under a Nature sphere Air Mastery feather fall effect. The purrsian carpet has a +10 racial bonus on all Fly checks and automatically succeeds at Fly checks made to hover.
 
-### Quickdraw Scabbard [TS]
+### Quickdraw Scabbard
 
 **Aura** faint Time; **CL** 3rd
 **Slot** none; **Price** 3,600 gp; **Weight** 3 lbs.
@@ -1303,7 +1303,7 @@ This scabbard automatically reshapes itself to fit any weapon that the wearer at
 **Construction Requirements**
 Craft Marvelous Item, Time sphere, Quick Draw feat or Equipment (Fast Draw) talent; **Cost** 1,800 gp
 
-### Researcher’s Robes [DRS]
+### Researcher’s Robes
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -1322,7 +1322,7 @@ If the wearer possesses the Study sphere, they can choose to invoke one of the e
 **Construction**
 Craft Marvelous Item, Divination sphere, creator must have at least 5 ranks in Linguistics — **Cost** 4,000 gp
 
-### Ring of Vitaelity [Jester's HB]
+### Ring of Vitaelity
 
 This bloodstained ring pulses with life when those around it bleed.
 **Aura** moderate Life; **CL** 8th
@@ -1335,7 +1335,7 @@ When worn by anyone with vitae, the first time the wearer would gain vitae each 
 **Construction Requirements**
 Craft Marvelous Item, Life sphere (any (vitality) talent); **Cost** 8,500 gp
 
-### Robes of Gentle Snowfall [BaP]
+### Robes of Gentle Snowfall
 
 **Aura** moderate Nature; **CL** 10th
 **Slot** body; **Price** 14,000 gp; **Weight** 2 lbs.
@@ -1350,7 +1350,7 @@ Cosmetic variations of these robes exist for variant frostweavers.
 **Construction Requirements**
 Craft Marvelous Item, Nature sphere (Create Nature); **Cost** 7,000 gp
 
-### Runic Vambraces [Conq. HB]
+### Runic Vambraces
 
 **Aura** moderate Destruction; **CL** 9th
 **Slot** wrists; **Price** 16,000 gp; **Weight** 1 lb.
@@ -1365,7 +1365,7 @@ In addition, once per day as a swift action, the wearer can make one of their ru
 **Construction Requirements**
 Craft Marvelous Item, Destruction sphere; **Cost** 8,000 gp
 
-### Sandals of the Clay Dancer [DRS]
+### Sandals of the Clay Dancer
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -1385,7 +1385,7 @@ If the user possesses the Performance sphere, they can use this ability as part 
 **Construction**
 Craft Marvelous Item, Nature sphere — **Cost** 3,000 gp
 
-### Sanguinis Coil [DRS]
+### Sanguinis Coil
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -1404,9 +1404,9 @@ If the wearer possesses the Blood sphere, the wearer may spend 2 spell points in
 The wearer may use this ability so long as they are capable of taking mental actions (such as when paralyzed, but not if dazed or stunned).
 
 **Construction**
-**Requirements** Craft Wondrous Item (Craft Marvelous Item [USOP]), *touch of bloodletting* or Blood sphere (Manipulate Health); **Cost** 9,500 gp
+**Requirements** Craft Wondrous Item (Craft Marvelous Item), *touch of bloodletting* or Blood sphere (Manipulate Health); **Cost** 9,500 gp
 
-### Sash of Earthly Illumination [DRS]
+### Sash of Earthly Illumination
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -1421,7 +1421,7 @@ The wearer gains tremorsense with a range of 20 feet.
 **Land's Light** - Once per encounter (or no more than once every 15 minutes), as a swift action, the wearer may illuminate a single creature they are currently detecting the presence of for 3 rounds (this functions as *faerie fire*). For the purposes of the *sash of earthly illumination*, "detecting" the presence of a creature may be done through special senses, such as blindsense or tremorsense, or magical detection spells, such as *detect magic*.
 
 **Construction**
-**Requirements** Craft Wondrous Item (Craft Apparatus [USOP]), *detect magic* and *faerie fire* or Divination and Light; **Cost** 6,500 gp
+**Requirements** Craft Wondrous Item (Craft Apparatus), *detect magic* and *faerie fire* or Divination and Light; **Cost** 6,500 gp
 
 ### Shadow-Dipping Gloves
 
@@ -1434,7 +1434,7 @@ These skin-tight kid gloves look more like a coating of liquid pitch than a typi
 **Construction Requirements**
 Craft Marvelous Item, Dark sphere (Shadow Stash); **Cost** 2,500 gp
 
-### Shadowcatcher Bangles [DRS]
+### Shadowcatcher Bangles
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -1449,9 +1449,9 @@ When the wearer exits an area of magical darkness, the wearer is treated as stil
 For example, upon exiting a Polished Dark *gloom*, the wearer would be treated as still being within it for 2 rounds due to lingering darkness, and then being within magical darkness for 1 additional round due to this item).
 
 **Construction**
-**Requirements** Craft Wondrous Item (Craft Apparatus [USOP]), *dancing darkness* or Dark (Clinging Darkness) (*Diamond Polished Spheres: Dark Sphere*); **Cost** 750 gp
+**Requirements** Craft Wondrous Item (Craft Apparatus), *dancing darkness* or Dark (Clinging Darkness) (*Diamond Polished Spheres: Dark Sphere*); **Cost** 750 gp
 
-### Sharpening Stone [TS]
+### Sharpening Stone
 
 **Aura** faint Enhancement; **CL** 1st
 **Slot** none; **Price** 400 gp; **Weight** 1 lb.
@@ -1463,7 +1463,7 @@ This grey stone is supernaturally effective at honing power of various weapons -
 **Construction Requirements**
 Craft Marvelous Item, Enhancement sphere; **Cost** 200 gp
 
-### Shine Lenses [DRS]
+### Shine Lenses
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -1478,9 +1478,9 @@ The wearer gains a +4 competence bonus on Perception checks. This bonus increase
 **Lens Flare** - The wearer may dismiss a Light sphere *lens* effect they are under as part of making an attack roll. If they do, they add a +1d6 circumstance bonus to that attack roll. This ability may be used after the attack roll is made but before the results are revealed. A *lens* effect dismissed by the *shine lenses* must be one that has been made to continue without concentration.
 
 **Construction**
-**Requirements** Craft Wondrous Item (Craft Apparatus [USOP]), *daylight* or Light; **Cost** 6,000 gp
+**Requirements** Craft Wondrous Item (Craft Apparatus), *daylight* or Light; **Cost** 6,000 gp
 
-### Skeletal Palanquin [Gravecaller's HB]
+### Skeletal Palanquin
 
 **Aura** faint Death; **CL** 7th
 **Slot** none; **Price** 8,000 gp (normal), 11,000 gp (greater); **Weight** 40 lb.
@@ -1517,7 +1517,7 @@ N Large undead
 **Base Atk** +4; **CMB** +11; **CMD** 20 (24 vs. trip)
 **SQ** 2 construction flaws (noncombatant, undead), 3 construction points (faster x2, metal)
 
-### Soulswell Gown [DRS]
+### Soulswell Gown
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -1534,7 +1534,7 @@ If the wearer possesses the Performance sphere ((act) package), an ally that con
 **Construction**
 Craft Marvelous Item, Nature sphere ((water) package) — **Cost** 4,000 gp
 
-### Space-Linking Gloves [TS]
+### Space-Linking Gloves
 
 **Aura** faint Warp; **CL** 3rd
 **Slot** hands; **Price** 3,600 gp; **Weight** 2 lbs.
@@ -1546,7 +1546,7 @@ These comfortable cloth gloves are dyed dark blue and have threads of gold woven
 **Construction Requirements**
 Craft Marvelous Item, Warp sphere (Ranged Warp [range], Wormhole (space)); **Cost** 1,800 gp
 
-### Staunching Wraps [TS]
+### Staunching Wraps
 
 **Aura** faint Enhancement; **CL** 2nd
 **Slot** chest; **Price** 1,600 gp; **Weight** 2 lbs.
@@ -1569,7 +1569,7 @@ Each of these stones starts out as a smooth sphere engraved with geometric patte
 **Construction Requirements**
 Craft Marvelous Item, War sphere, the mandate to be granted; **Cost** 13,750 gp (per pair)
 
-### Striking Ribbon [TS]
+### Striking Ribbon
 
 **Aura** faint Variable (see text); **CL** 3rd
 **Slot** special (see text); **Price** 3,600 gp; **Weight** 0.2 lbs.
@@ -1592,7 +1592,7 @@ Once per day, a creature wielding a weapon augmented by a striking ribbon can ac
 **Construction Requirements**
 Craft Marvelous Item, any sphere with a strike talent, one applicable talent from that sphere, the strike talent from that sphere; **Cost** 1,800 gp
 
-### Tattoo of Potion Storing [TS]
+### Tattoo of Potion Storing
 
 **Aura** faint Life; **CL** 3rd
 **Slot** any; **Price** 3,600 gp; **Weight** -
@@ -1604,7 +1604,7 @@ These tattoos come in a variety of shapes and styles and are often customized by
 **Construction Requirements**
 Craft Marvelous Item, Life sphere (Fount Of Life, Self-Renewal); **Cost** 1,800 gp
 
-### The Northern Star [BaP]
+### The Northern Star
 
 **Aura** moderate Nature; **CL** 9th
 **Slot** none; **Price** 10,500 gp; **Weight** -
@@ -1615,7 +1615,7 @@ This ornately carved jewel, inlaid into an ornate, wearable brooch, is actually 
 **Construction Requirements**
 Craft Marvelous Item, Nature sphere ((water) package, Create Nature); **Cost** 5,250 gp
 
-### Thunderbolt Ring [TS]
+### Thunderbolt Ring
 
 **Aura** faint Destruction; **CL** 4th
 **Slot** ring; **Price** 6,400 gp; **Weight** 0.5 lbs.
@@ -1631,7 +1631,7 @@ Craft Marvelous Item, Destruction sphere (Electric Blast (blast type), Sculpt Bl
 
 You can change the attack area of the thunderbolt ring to a growing radius or a close-range cone, and/or change the damage type and additional effect to that of any other (blast type) talent that does not cost a spell point, without changing the price of this item. Making reusable offensive items really is that easy!
 
-### Timeshifting Gloves [TS]
+### Timeshifting Gloves
 
 **Aura** faint Time; **CL** 4th
 **Slot** hands; **Price** 6,400 gp; **Weight** 2 lbs.
@@ -1658,7 +1658,7 @@ Only the creature to whom this token is given may use the token, and only to tel
 **Construction Requirements**
 Craft Marvelous Item, Warp sphere (Teleport Beacon (space)); **Cost** 10,000 gp
 
-### Troll Hunter’s Friend [TS]
+### Troll Hunter’s Friend
 
 **Aura** faint Enhancement; **CL** 4th
 **Slot** none; **Price** 6,400 gp; **Weight** 3 lbs.
@@ -1683,7 +1683,7 @@ A casket can hold 1 cubic foot of material, and is typically fitted with a lock.
 **Construction Requirements**
 Craft Marvelous Item, Warp sphere (Teleport Beacon (space), Teleport Object); **Cost** 3,000 gp
 
-### Upgrade Crystal [MCS]
+### Upgrade Crystal
 
 An upgrade crystal is a small crystal sphere, about four inches across, that contains the crafted essence of a specific type of magical item. Upgrade crystals can be crafted with the effects of any apparatus, charm, implement, marvelous item, or spell engine at 1.5x the normal crafting cost (or, if your GM does not require the cost multiplier for stacking effects on items, they may be crafted at the normal crafting cost instead), and they take the normal time and resources for crafting an item. upgrade crystals have no effect until used, but as a full-round action, a creature can merge it with an existing item to instantly and permanently grant that item the effects contained within the crystal. For example, if you have an upgrade crystal with the effects of a portable roomTS and you apply it to a weapon, that weapon would then have the effects of a portable room. You cannot use an upgrade crystal on an item if the item’s form is required for the item to function (this is relatively rare, but can occur). Upgrade crystals are consumed once used and increase the value of items they are applied to by twice their crafting Cost.
 **Construction Requirements**
@@ -1693,7 +1693,7 @@ The Construction Requirements for an upgrade crystal are identical to the item b
 
 Not many player characters, honestly. While there are a few scenarios where someone might want to do it, an upgrade crystal works best when it is found by players as treasure, rather than being crafted. For example, these crystals could improve a character’s weapon outside of their normal enhancement line, or they could provide the effects of a charm to help a character catch up on ability score improvements. In other words, these are good items to give out when the GM wants to improve existing items, rather than giving entirely new items to characters. An upgrade crystal is similar to a flask shard (from Treasures of the Spheres), but rather than upgrading a specific power along a predetermined track, these crystals provide an entirely new effect.
 
-### Vampiric Maw [TS]
+### Vampiric Maw
 
 **Aura** faint Death; **CL** 3rd
 **Slot** none; **Price** 3,600 gp; **Weight** 2 lbs.
@@ -1705,7 +1705,7 @@ Vampiric maws come in many shapes, but are usually silver disks or rune-carved s
 **Construction Requirements**
 Craft Marvelous Item, Death sphere (Greater Ghost Strike, Vampiric Strike (ghost strike)); **Cost** 1,800 gp
 
-### Vanishing Vest [TS]
+### Vanishing Vest
 
 **Aura** moderate Time; **CL** 10th
 **Slot** chest; **Price** 8,000 gp; **Weight** 2 lbs.
@@ -1726,7 +1726,7 @@ This deceptively simple trinket was supposedly developed by a thieves guild, giv
 **Construction Requirements**
 Craft Marvelous Item, Creation sphere (Expanded Materials (material)); **Cost** 160 gp
 
-### War Drum [TS]
+### War Drum
 
 **Aura** faint War; **CL** 2nd
 **Slot** none; **Price** 1,600 gp; **Weight** 3 lbs.
@@ -1738,7 +1738,7 @@ War drums are small, highly portable drums often created by militaristic societi
 **Construction Requirements**
 Craft Marvelous Item, War sphere (Call To Arms, Ranged Totem [range], the (totem) talent used for this item); **Cost** 800 gp
 
-### Ward and Peace [TS]
+### Ward and Peace
 
 **Aura** moderate Fate and War; **CL** 7th
 **Slot** none; **Price** 5,000 gp; **Weight** 4 lbs.
@@ -1748,7 +1748,7 @@ When activated as a standard action, this wooden idol can project a totem in a c
 **Construction Requirements**
 Craft Marvelous Item, Merciful Spell, Fate sphere (Mercy), War sphere; **Cost** 2,500 gp
 
-### Ward and Peace, Improved [TS]
+### Ward and Peace, Improved
 
 **Aura** moderate Fate and War; **CL** 7th
 **Slot** none; **Price** 10,000 gp; **Weight** 4 lbs.
@@ -1758,7 +1758,7 @@ As ward and peace, but it creates a circular totem up to 300 feet across.
 **Construction Requirements**
 Craft Marvelous Item, Merciful Spell, Fate sphere (Mercy), War sphere; **Cost** 5,000 gp
 
-### Warrior’s Blessing [TS]
+### Warrior’s Blessing
 
 **Aura** faint Time; **CL** 3rd
 **Slot** any; **Price** 2,400 gp; **Weight** 2 lbs.
@@ -1770,7 +1770,7 @@ This blessed mark can be crafted onto something and worn in any slot, and warrio
 **Construction Requirements**
 Craft Marvelous Item, Time sphere (Improved Haste); **Cost** 1,200 gp
 
-### Whispercoin [DRS]
+### Whispercoin
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -1785,7 +1785,7 @@ Once per day, the user may flip this coin while maintaining eye contact with a s
 When the user flips the coin, they may also make a Sleight of Hand check. Any creature observing the user must succeed at a Perception check or fail to notice the *whispercoin*'s use. A creature that succeeds on their saving throw against the *whispercoin*'s *suggestion* is immune to the *whispercoin* for 24 hours and is not aware they were targeted by an effect unless they succeeded on the Perception check to notice the coin.
 
 **Construction**
-**Requirements** Craft Wondrous Item (Craft Marvelous Item [USOP]), *suggestion* or Mind; **Cost** 1,000 gp
+**Requirements** Craft Wondrous Item (Craft Marvelous Item), *suggestion* or Mind; **Cost** 1,000 gp
 
 ### White Lotus Seal
 
@@ -1798,7 +1798,7 @@ This strip of parchment has transcribed on it various verses of scripture laid o
 **Construction Requirements**
 Craft Marvelous Item, Death sphere (Command Undead (ghost strike)); **Cost** 800 gp
 
-### Wild Magic Generator [TS]
+### Wild Magic Generator
 
 **Aura** faint Universal; **CL** 3rd
 **Slot** none; **Price** 3,600 gp; **Weight** 2 lbs.
@@ -1857,7 +1857,7 @@ Craft Marvelous Item, Creation sphere, Fate sphere; **Cost** 250 gp
 
 ---
 
-# Class Items [DRS]
+# Class Items
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -2113,7 +2113,7 @@ New to the Realmwalker’s Handbook are “perfect” elemental augmentations. A
 
 The original elemental augmentations included in the Elemental Master’s Handbook are considered normal elemental augmentations.
 
-### Chimewing [RW HB]
+### Chimewing
 
 **Aura** faint Weather; **CL** 4th
 **Slot** none; **Price** 2,500 gp (normal), 3,500 gp (perfect); **Weight** –
@@ -2129,7 +2129,7 @@ At-will as a standard action, the recipient may create a soothing but firm breez
 **Construction Requirements**
 Craft Marvelous Item, Nature ((air) package), Weather; **Cost** 1,250 gp (normal), 1,750 gp (perfect)
 
-### Entropic Grip [RW HB]
+### Entropic Grip
 
 **Aura** moderate Death; **CL** 10th
 **Slot** none; **Price** 9,000 gp (normal), 12,000 gp (perfect); **Weight** –
@@ -2147,7 +2147,7 @@ This elemental augmentation replaces one of the recipient’s arms or armlike ap
 **Construction Requirements**
 Craft Marvelous Item, Death, Destruction (Gloom Blast (blast type)); **Cost** 4,500 gp (normal), 6,000 gp (perfect)
 
-### Radiant Skingraft [RW HB]
+### Radiant Skingraft
 
 **Aura** moderate Light and Nature; **CL** 6th
 **Slot** none; **Price** 5,000 gp (normal), 8,500 gp (perfect); **Weight** –
@@ -2169,7 +2169,7 @@ This elemental augmentation replaces the recipient’s skin (creatures with amor
 **Construction Requirements**
 Craft Marvelous Item, Light (Beacon Of Hope (light), Halo (lens)), Nature (Resist Elements (spirit)); **Cost** 2,500 gp (normal), 4,250 gp (perfect)
 
-### Stonelord’s Girdle [RW HB]
+### Stonelord’s Girdle
 
 **Aura** moderate Alteration and Nature; **CL** 7th
 **Slot** none; **Price** 4,000 gp (normal), 6,000 gp (perfect); **Weight** –
@@ -2185,7 +2185,7 @@ Once per day as an immediate, if the recipient would be knocked prone or forcibl
 **Construction Requirements**
 Craft Marvelous Item, Nature ((earth) package); Cost 2,000 gp (normal), 3,000 gp (perfect)
 
-### Swellrunners [RW HB]
+### Swellrunners
 
 **Aura** moderate Alteration and Nature; **CL** 11th
 **Slot** none; **Price** 12,000 gp (normal), 18,000 gp (perfect); **Weight** –
@@ -2201,7 +2201,7 @@ Whenever the recipient begins their turn in or on liquid, or moves in or across 
 **Construction Requirements**
 Craft Marvelous Item, Nature ((water) package, Nature’s Movement (spirit)); **Cost** 6,000 gp (normal), 9,000 gp (perfect)
 
-### Tongue of D’hool [RW HB]
+### Tongue of D’hool
 
 **Aura** moderate Creation and Nature; **CL** 6th
 **Slot** none; **Price** 2,000 gp (normal), 3,000 gp (perfect); **Weight** –
@@ -2223,7 +2223,7 @@ Craft Marvelous Item, Creation, Nature (Purify Nature (spirit)); **Cost** 1,000 
 
 Shards are magical items that can instantly empower items that are described as benefitting from flask shards. These are always minor artifacts.
 
-### Flask Shard (Minor Artifact) [TS]
+### Flask Shard (Minor Artifact)
 
 **Aura** strong Universal; **CL** 20th
 **Slot** none; **Price** none; **Weight** -
@@ -2234,7 +2234,7 @@ Flask shards that have not been added to an item can be used once a day as a sta
 
 Effects that increase the effective caster level of an item that uses flask shards instead increase the effective caster level by one item level (usually to the next increment of 4 or 5 caster levels, capped to the user's hit dice) unless the item is fully upgraded.
 
-### Metamagic Shard (Minor Artifact) [TS]
+### Metamagic Shard (Minor Artifact)
 
 **Aura** strong Universal; **CL** 20th
 **Slot** none; **Price** none; **Weight** -
@@ -2284,7 +2284,7 @@ Filling requires the blood of 20 Medium-sized creatures. For this purpose, 2 Sma
 **Destruction**
 The blood bath shatters if filled with the bones of an intelligent humanoid that died of old age and blessed soil for 24 hours.
 
-### Cloak Of The Stormlord (Minor Artifact) [MCS]
+### Cloak Of The Stormlord (Minor Artifact)
 
 **Aura** strong Weather; **CL** 15th
 **Slot** shoulders; **Price** -; **Weight** 2 lbs.
@@ -2292,7 +2292,7 @@ This ankle-length gray cloak seems to be woven from strands of solidified clouds
 **Destruction**
 The cloak of the stormlord can be destroyed by cutting it in half with a granite weapon inside the house of the leader of the largest city of the elemental plane of earth.
 
-### Crystal of the Hero (Minor Artifact) [TS]
+### Crystal of the Hero (Minor Artifact)
 
 **Aura** strong Universal; **CL** 20th
 **Slot** ring; **Price** -; **Weight** 3 lbs.
@@ -2303,7 +2303,7 @@ At this point, the gem changes its color to something suiting the new class; for
 **Destruction**
 A crystal of the hero can be destroyed if a 20th-level character who does not have any NPC classes selects commoner as the class they want to change into, then wears the ring for 10 years straight.
 
-### Deck Of Fates (Minor Artifact) [TS]
+### Deck Of Fates (Minor Artifact)
 
 **Aura** strong Fate; **CL** 20th
 **Slot** none; **Price** -; **Weight** 2 lbs
@@ -2330,7 +2330,7 @@ You may roll on the table below to determine the effects (rerolling any duplicat
 **Destruction**
 The deck of fates can only be destroyed by drawing all 20 different cards in 20 hours, at which point the deck transforms into one magical item of the GM’s choice (this may be an artifact).
 
-### Fey Court’s Blessing (Minor Artifact) [SB:F&F]
+### Fey Court’s Blessing (Minor Artifact)
 
 **Aura** moderate Alteration; **CL** 15th
 **Slot** none; **Weight** 1 lbs.
@@ -2353,7 +2353,7 @@ A fey court’s blessing allows the fey court which granted the blessing to view
 **Destruction**
 A fey court’s blessing immediately crumbles to dust should the fey court that granted the blessing revoke their approval of the blessed creature, or upon the fey court disappearing (such as by dissolving or all members of the fey court being slain).
 
-### Lucy's Pyre (Minor Artifact) [Wiki]
+### Lucy's Pyre (Minor Artifact)
 
 **Aura** moderate Conjuration; **CL** 6th
 **Slot** none; **Weight** 6 tons
@@ -2383,7 +2383,7 @@ Originally invented by a wizard hoping to double his magic, this ring is conside
 **Destruction**
 If the wearer of the ring of multiple personalities commits suicide, their body is brought back to life as if through the Resurrection talent with their alternate personality in control; the original personality is dead and its spirit departed as usual. Afterward, the ring loses all of its power.
 
-### Scroll of the Ancients (Minor Artifact) [TS]
+### Scroll of the Ancients (Minor Artifact)
 
 **Aura** overwhelming All; **CL** 25th
 **Slot** none; **Price** -; **Weight** -
@@ -2393,7 +2393,7 @@ It’s not known who scribed the scrolls of the ancients. Some scholars theorize
 **Destruction**
 A scroll of the ancients can only be destroyed by using its power and asking it to destroy itself. The backlash of magical energies involved gives the user three permanent negative levels that cannot be removed except by artifacts, divine intervention, or mythic powers.
 
-### Shard of Secrets (Minor Artifact) [TS]
+### Shard of Secrets (Minor Artifact)
 
 **Aura** none; **CL** Unknown
 **Slot** any; **Price** -; **Weight** 2 lbs.
@@ -2417,7 +2417,7 @@ A spike of affixion loses its hold on its target if they cease to cast a shadow,
 **Destruction**
 To destroy a spike of affixion, it must be hammered into a beam of light from the noon sun on the day of the equinox at the equator.
 
-### Staff Of Nature’s Wrath (Minor Artifact) [MCS]
+### Staff Of Nature’s Wrath (Minor Artifact)
 
 **Aura** strong Nature; **CL** 20th
 **Slot** none; **Price** -; **Weight** 5 lbs.
@@ -2425,7 +2425,7 @@ Several tiny spheres of elemental power orbit the head of this gnarled wooden st
 **Destruction**
 A staff of nature’s wrath can only be destroyed if a creature uses all seven of its abilities over the course of one week and targets an entirely artificial structure, but fails to deal any damage to that structure.
 
-### Tablet Of Heroes (Minor Artifact) [MCS]
+### Tablet Of Heroes (Minor Artifact)
 
 **Aura** strong Time; **CL** 15th
 **Slot** none; **Price** - gp; **Weight** 98 tons
@@ -2446,7 +2446,7 @@ The transmogrifier is a thin, unassuming wooden box that collapses flat for tran
 **Destruction**
 The transmogrifier loses all power if willingly cast away by a child who has used it at least once a year for 3 or more years.
 
-### Wishing Stones (Minor Artifact) [TS]
+### Wishing Stones (Minor Artifact)
 
 **Aura** overwhelming Fate; **CL** 23rd
 **Slot** none; **Price** none; **Weight** 4 lbs. (each)
@@ -2506,7 +2506,7 @@ If the user fails to meet the target DC, the created creature is created, but po
 **Destruction**
 The divine notebook is destroyed if it is used to successfully draw a portrait of a god.
 
-### Eye of the Sky Monarch (Major Artifact) [Conq. HB]
+### Eye of the Sky Monarch (Major Artifact)
 
 This foot-wide jade-green orb is decorated with intricate carvings which wrap around, seemingly endlessly, with motifs of wings. It radiates a soft aura that seems to acknowledge those near it, as though it could sense their presence.
 **Aura** strong Divination; **CL** 20th
@@ -2593,7 +2593,7 @@ The incarnation of the sky monarch is the manifestation of the eye of the sky mo
 
 While it is rare for the incarnation of the sky monarch to do battle, she is still fierce jungle predator, although now in command of magical talent which rivals the gods themselves. Her favorite way of dispatching foes is to encase them in crystal after injecting them with a potent poison, manifested from the eye of the sky monarch’s overwhelming power drawing forth her ancient serpentine pedigree.
 
-### Key of Azathoth (Major Artifact) [TS]
+### Key of Azathoth (Major Artifact)
 
 **Aura** overwhelming Conjuration; **CL** 25th
 **Slot** none; **Price** none; **Weight** 2 lbs.
@@ -2607,7 +2607,7 @@ If the user has the Twists Of Fate mythic quality, they may use that ability whe
 **Destruction**
 The key of azathoth can only be destroyed if the Gate is also destroyed. Unfortunately, nobody seems to know what the Gate actually is…
 
-### Shrieking Skull of Hez’ba’eth (Major Artifact) [SB:UatIF]
+### Shrieking Skull of Hez’ba’eth (Major Artifact)
 
 **Aura** overwhelming Death; **CL** 26
 **Slot** none; **Weight** 5 lbs.
@@ -2623,7 +2623,7 @@ Hez’ba’eth is a lawful evil, ancient elf incanter 20 mythic 7 with the spher
 **Destruction**
 The shrieking skull of hez’ba’eth can only be destroyed if Hez’ba’eth is convinced to let go of his ambitions for the good of others.
 
-### The Third Law (Major Artifact) [MCS]
+### The Third Law (Major Artifact)
 
 **Aura** overwhelming Universal and Tech; **CL** none
 **Slot** none; **Price** -; **Weight** 2 lbs.
@@ -2631,7 +2631,7 @@ The third law is a large book that contains densely written information about ma
 **Destruction**
 The third law can be destroyed by simultaneously striking it with at least 100 points of fire damage each from two separate sources. One source must be entirely magical, the other entirely mundane.
 
-### Twelve-Tribes Scepter (Major Artifact) [Conq. HB]
+### Twelve-Tribes Scepter (Major Artifact)
 
 This heavy, engraved scepter bears twelve distinct iconographies inlaid on the weathered, wooden haft. An intricate silver crown sits atop the scepter’s heavy metal head.
 **Aura** strong War; **CL** 20th
@@ -2646,7 +2646,7 @@ An angel in service to the scepter’s benefactor deity must take the scepter in
 **History**
 The twelve-tribes scepter is a relic of a family of twelve ancestors, who each fostered a thriving community which allied together following a time of hardship. The scepter is said to be a direct conduit with the benefactor deity of these twelve tribes as a deity of war, portents, and miracles who has overseen his followers success in many campaigns both to conquer and to survive conquest.
 
-### Wreath of the Immortal Prelate (Major Artifact) [Conq. HB]
+### Wreath of the Immortal Prelate (Major Artifact)
 
 This wreath of soft gold and silver metal leaves holds an air of long-held tradition, wisdom, and nobility.
 **Aura** strong Mind and Enhancement; **CL** 20th
@@ -2669,7 +2669,7 @@ The wreath of the immortal prelate is a relic of a vast, rich empire. It has bee
 
 *Source: [Mythic Champions of the Spheres](https://www.drivethrurpg.com/product/326662/Mythic-Champions-of-the-Spheres?affiliate_id=549120)*
 
-### Astral Tome [MCS]
+### Astral Tome
 
 **Aura** strong Death; **CL** 15th
 **Slot** none; **Price** 60,000 gp; **Weight** 8 lbs.
@@ -2680,7 +2680,7 @@ Once per day, a mythic creature can expend one use of mythic power to transport 
 **Construction Requirements**
 Craft Wondrous Item, Mythic Crafter, Death sphere (Astral Projection (advanced), Astral Travel (advanced), Project Spirit (advanced)); **Cost** 30,000 gp
 
-### Battlefield [MCS]
+### Battlefield
 
 **Aura** moderate Creation and Enhancement; **CL** 6th
 **Slot** none; **Price** 14,400 gp; **Weight** 4 lbs.
@@ -2693,7 +2693,7 @@ If the user expends one use of mythic power when activating the battlefield, all
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, Enhanced Creation (dual sphere), Creation sphere (Divided Creation, Larger Creation), Enhancement sphere; **Cost** 7,200 gp
 
-### Blooddrinker [MCS]
+### Blooddrinker
 
 **Aura** moderate Blood; **CL** 6th
 **Slot** none; **Price** 14,400 gp; **Weight** 4 lbs.
@@ -2706,7 +2706,7 @@ A mythic creature may expend one use of mythic power when activating a blooddrin
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, Blood sphere (Drain Lifeblood (advanced), Mass Control [mass]); **Cost** 7,200 gp
 
-### Chronosphere [MCS]
+### Chronosphere
 
 **Aura** strong Time; **CL** 15th
 **Slot** none; **Price** 36,000 gp; **Weight** 2 lbs.
@@ -2714,7 +2714,7 @@ Chronospheres are golden spheres etched with powerful runes. Once per day, a cre
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, Time sphere (Temporal Stasis (advanced)); **Cost** 18,000 gp
 
-### Cry Of Condemnation [MCS]
+### Cry Of Condemnation
 
 **Aura** strong Death; **CL** 15th
 **Slot** none; **Price** 30,000 gp; **Weight** 2 lbs.
@@ -2727,7 +2727,7 @@ While this normally has a DC 17 Will saving throw to negate, a mythic creature c
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, Death sphere (Curse, Greater Curse (advanced)); **Cost** 15,000 gp
 
-### Dark And Darker [MCS]
+### Dark And Darker
 
 **Aura** moderate Dark; **CL** 10th
 **Slot** hands; **Price** 36,000 gp; **Weight** 3 lbs.
@@ -2740,7 +2740,7 @@ A mythic creature can expend one use of mythic power while activating this item 
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, Dark sphere (Edge Of Night (darkness), One With The Void (advanced), Step Through Darkness (meld)); **Cost** 18,000 gp
 
-### Forward Momentum [MCS]
+### Forward Momentum
 
 **Aura** weak War; **CL** 2nd
 **Slot** feet; **Price** 1,600 gp; **Weight** 6 lbs.
@@ -2753,7 +2753,7 @@ A mythic creature may expend one use of mythic power when activating the forward
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, War sphere (Aggressive Momentum (momentum), Cooperative Momentum (momentum), Damaging Momentum (momentum), Marauding Momentum (momentum)); **Cost** 800 gp
 
-### Fusion Rings [MCS]
+### Fusion Rings
 
 **Aura** moderate Alteration; **CL** 8th
 **Slot** ring; **Price** 25,600 gp; **Weight** 4 lbs.
@@ -2762,7 +2762,7 @@ These rings come in a variety of shapes and styles, but always come in pairs and
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, Alteration sphere (Fusion (advanced), Mass Alteration [mass]); **Cost** 12,800 gp
 
-### Gatestone [MCS]
+### Gatestone
 
 **Aura** overwhelming Warp; **CL** 21st
 **Slot** none; **Price** 176,400 gp; **Weight** 3 lbs.
@@ -2773,7 +2773,7 @@ A mythic creature can expend one use of mythic power while activating a gateston
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, Warp sphere (Distant Teleport, Enduring Portal (advanced), Mass Teleport [mass], Planeshift (advanced), Portal (advanced), Teleport Beacon, True Teleport (advanced), Universal Teleport (advanced), Unwilling Teleport, Wormhole (space)); **Cost** 88,200 gp
 
-### Marks Of Command [MCS]
+### Marks Of Command
 
 **Aura** faint Mana; **CL** 15th
 **Slot** hands; **Price** 75,000 gp; **Weight** -
@@ -2793,7 +2793,7 @@ Inscribe Magical Tattoo, Mythic Crafter, Life sphere, Mana sphere, Time sphere, 
 
 **Wiki Note:** This is a magical tattoo, not a marvelous item, but it doesn't need its own page just for that.
 
-### Modifying Grip [MCS]
+### Modifying Grip
 
 **Aura** strong Creation; **CL** 15th
 **Slot** special, see text; **Price** 36,000 gp; **Weight** 1 lb.
@@ -2808,7 +2808,7 @@ A creature cannot use the foe-biting effect on any attack made with a modifying 
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, Creation sphere (Change Material (alter), Expanded Materials (material), Mythical Material Maker (advanced, material)); **Cost** 18,000 gp
 
-### Resurrection Sphere [MCS]
+### Resurrection Sphere
 
 **Aura** strong Life; **CL** 20th
 **Slot** none; **Price** 720,000 gp; **Weight** 3 lbs.
@@ -2817,7 +2817,7 @@ Resurrection spheres are among the most-prized magical items in existence. Altho
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, Life sphere (Break Enchantment, Greater Resurrection (advanced), Make Whole (advanced), Restore Senses (cure), Restore Spirit (cure), Resurrection (advanced), Resuscitate, Supreme Resurrection (advanced)); **Cost** 360,000 gp
 
-### Seed Of Life [MCS]
+### Seed Of Life
 
 **Aura** moderate Nature; **CL** 10th
 **Slot** none; **Price** 28,000 gp; **Weight** 1/10 lb.
@@ -2828,7 +2828,7 @@ This tiny seed contains a truly enormous amount of natural energies. Once a day,
 **Construction Requirements**
 Craft Wondrous Item, Mythic Crafter, Nature sphere (Deep Nature, Zoetic Geomancy); **Cost** 14,000 gp
 
-### Wand Of False Reality [MCS]
+### Wand Of False Reality
 
 **Aura** moderate Illusion; **CL** 6th
 **Slot** none; **Price** 14,400 gp; **Weight** 2 lbs.
@@ -2841,7 +2841,7 @@ A mythic creature can expend one use of mythic power when activating this item t
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, Illusion sphere (Blur (glamer), Manipulate Aura (sensory, magic), Spell Disruption (advanced)); **Cost** 7,200 gp
 
-### White Dwarf [MCS]
+### White Dwarf
 
 **Aura** moderate Light; **CL** 10th
 **Slot** none; **Price** 36,000 gp; **Weight** 4 lbs.

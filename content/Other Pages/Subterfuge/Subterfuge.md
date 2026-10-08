@@ -58,7 +58,7 @@ In addition, whenever you succeed at a Diplomacy or Intimidate check to make a r
 
 You can take this talent a second time. If you do, it gains the [plan] tag and you can reveal that you researched a creature as a plan. You can research a creature in 30 minutes otherwise.
 
-#### Brazen Misdirection [DRS]
+#### Brazen Misdirection
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -94,7 +94,7 @@ You can spend 1 use of skill leverage to take 10 on a Bluff or Disguise check to
 
 You can take this talent multiple times. Each time you do, you choose a different social status.
 
-#### Confident Dexterity [utility] [DRS]
+#### Confident Dexterity [utility]
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -122,7 +122,7 @@ You can adopt this approach as a swift action to watch for opportunities left op
 
 You can use fast disguise as a standard action and never take a penalty for creating a disguise quickly. You can change your appearance so fast that creatures might not register your previous appearance. If you use fast disguise during the surprise round, you compare your Disguise check result against a DC for each creature who has not yet acted and was not aware of your presence before the action that caused initiative to be rolled. The DC is 10 + that creature’s Perception modifier. Each creature you succeed against does not notice your previous appearance. If you fail by 5 or less, the creature notices you changing your appearance enough to register that you are now disguised but did not notice enough of your previous appearance to recognize it even if they have seen that appearance before.
 
-#### Left It At Home [plan] [utility] [DRS]
+#### Left It At Home [plan] [utility]
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -136,7 +136,7 @@ On a failure, the item remains in your possession. If you fail by 5 or more, the
 
 When you fail at a Sleight of Hand check targeting a creature by 5 or less, the creature does not notice your attempt directly but rather just gets a vague sense that something odd is going on. It becomes uncertain until the end of its next turn or until you attack it. You cannot use this talent on the same creature again for 8 hours.
 
-#### Quick Flick [DRS]
+#### Quick Flick
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -144,7 +144,7 @@ You can pick up an unattended object as a swift action or as part of a move acti
 
 Additionally, whenever you lift or plant an item on a creature, you can move 5 feet as a free action, as long as you remain within the creature’s threatened area—this movement does not provoke attacks of opportunity. You can choose to move more than 5 feet when moving this way, but any movement made beyond the first 5 feet is subtracted from total movement during your next turn.
 
-#### Reactive Disarm [DRS]
+#### Reactive Disarm
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -306,7 +306,7 @@ For every 5 ranks in Sleight of Hand you possess beyond 5, you can shrink the it
 
 You can use fast disguise as a move action.
 
-#### Mimic Style [plan] [utility] (Su) [DRS]
+#### Mimic Style [plan] [utility] (Su)
 
 *Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
@@ -316,7 +316,7 @@ You can spend a standard action and touch a creature to have your worn equipment
 
 You can also choose to reveal this as a plan, with the assumption being that you find time to be able to be in contact with the creature.
 
-#### Sequester Identity (disguise) [utility] (Su) [DRS]
+#### Sequester Identity (disguise) [utility] (Su)
 
 *Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 

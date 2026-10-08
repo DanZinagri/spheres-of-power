@@ -13,7 +13,7 @@ parent: "[[Original Spheres]]"
 
 You command cosmic forces including luck, destiny, and alignment.
 
-# Word [Core]
+# Word
 
 As a standard action, you may invoke a word of power, affecting a single creature within Close range.
 
@@ -21,7 +21,7 @@ Some (word) talents (especially Align Object and Subvert Weapon) allow you to ta
 
 When you gain the Fate sphere, you gain the following word:
 
-#### Hallow [Core]
+#### Hallow
 
 *Source: [The Auspician's Handbook](https://www.drivethrurpg.com/product/241800/The-Auspicians-Handbook?affiliate_id=549120)*
 
@@ -31,11 +31,11 @@ The target also gains immunity to any spell or sphere effect that possesses or e
 
 Some Fate talents are marked (word). These talents grant you additional words.
 
-# Consecration [Core]
+# Consecration
 
 As a standard action, you may affect a 20 ft radius centered on you with a consecration. This aura moves as you do. When you gain the Fate sphere, you gain the following consecration:
 
-#### Serendipity (curse) [Core]
+#### Serendipity (curse)
 
 You may bestow luck upon your allies. All allies within range gain a +1 luck bonus to attack rolls, skill checks, ability checks, and saving throws. This bonus lasts as long as you concentrate. You may spend a spell point as a free action to allow this effect to continue for 1 round per caster level without concentration. This is only a curse effect when used with Greater Serendipity.
 
@@ -80,15 +80,15 @@ Less precise than divination, but more proactive, (motif) talents give an auspic
 
 When using a consecration, you may choose to have the area remain in place rather than move with you. Alternatively, you may apply a consecration to an object with a touch. The area of effect is centered on the object and moves with it (as normal, choose one corner of the object’s space to be the center of the consecration). You must make this choice when you first use the consecration.
 
-#### Echoing Word [Core]
+#### Echoing Word
 
 When using a word, you may spend an additional spell point to affect additional creatures, up to 1 extra creature per 2 caster levels (minimum: 1). Every target must be affected by the same word.
 
-#### Greater Consecration [Core]
+#### Greater Consecration
 
 You may spend an additional spell point when using a consecration to double the effected area, creating an aura with a 40 ft radius instead of a 20 ft radius.
 
-#### Greater Serendipity [Core]
+#### Greater Serendipity
 
 When you use your serendipity consecration, in addition to bestowing a luck bonus upon your allies, all enemies within the area of effect also suffer a -1 penalty to their own attack rolls, skill checks, ability checks, and saving throws.
 
@@ -108,7 +108,7 @@ You may place words on targets within medium range. You may take this talent twi
 
 While this consecration is in effect, any creature in the area that attacks any other creature (whether in the area or not) takes untyped damage equal to your caster level. For purposes of this effect, an attack includes any non-harmless spell, spell-like ability, sphere effect, or supernatural ability targeting a hostile creature or whose area of effect includes a hostile creature. You must concentrate to maintain this consecration. You may always spend an additional spell point as a free action to allow this consecration to continue for 1 minute per caster level without concentration.
 
-#### Divine Force (consecration) [Core]
+#### Divine Force (consecration)
 
 You may fill an area with the influence of an alignment type you are connected to (good, evil, lawful, or chaotic). You must possess this alignment type. Creatures of that alignment’s opposite (good for evil, lawful for chaotic, etc.) within this area suffer one of the following detriments, chosen at random (Fortitude negates):
 
@@ -129,7 +129,7 @@ You must choose an alignment that you possess. Any creature of the opposed align
 
 You must concentrate to maintain this consecration. You may always spend an additional spell point as a free action to allow this consecration to continue for 1 minute per caster level without concentration.
 
-#### Judgment (consecration) [Core]
+#### Judgment (consecration)
 
 You may spend a spell point to create a consecration that dictates the actions of all creatures within its area of effect. When you create this consecration, you must declare a course of action that is at most one sentence long and whether this action is to be avoided or emulated. Example judgments include “No one can attack”, “everyone must trade fairly”, etc. If your judgment would cause a creature to attack itself or perform another obviously suicidal action, they are immune to that judgment. For as long as you maintain this consecration, all creatures within this area must obey this judgement. Each individual creature is allowed a Will save to negate this requirement and allow itself to act normally. If a creature succeeds at their saving throw, they become immune to that judgment for the rest of its duration. You must always follow your own judgment. You must concentrate to maintain this consecration, to maximum of 1 minute per caster level. You may always spend a spell point as a free action to allow this consecration to continue for 1 minute per caster level without concentration.
 
@@ -141,7 +141,7 @@ You may spend a spell point to create a consecration that reveals the alignment 
 
 While this consecration is in effect, any time a creature within the area rolls a natural 1 or natural 20, you may change the roll into the opposite. This does not require an action, but may only be used once per round. Converting a natural 20 to a natural 1 is a curse effect and may be negated with a successful Will save. You must concentrate to maintain this consecration, but you may spend a spell point as a free action to allow this effect to continue for 1 round per caster level without concentration.
 
-#### Tug Fate (consecration) [Core]
+#### Tug Fate (consecration)
 
 For as long as this consecration is in effect, any creature within the area who rolls a 10 on an attack roll, initiatitive roll, skill check, ability check, or saving throw receives either a +4 luck bonus or a -4 penalty to their roll (your choice). This does not apply when the creature takes 10; only a d20 roll will do. This bonus and penalty increase by 1 per 2 caster levels. You must concentrate to maintain this consecration, but you may spend a spell point as a free action to allow this effect to continue for 1 round per caster level without concentration.
 
@@ -306,7 +306,7 @@ The target may discharge this effect to take 15 (as if they were taking 20) on a
 
 You may spend a spell point to apply this word to an object or weapon. If placed on an object, it counts as a divine focus for all purposes. If placed on a weapon, it becomes chaotic, evil, good, or lawful, as you choose, overcomes that type of damage reduction, and deals an additional 2d6 damage to creatures of the opposite alignment. This effect lasts as long as you concentrate, but you may always spend a spell point to allow the effect to endure for 1 minute per caster level without concentration.
 
-#### Bless (word) [Core]
+#### Bless (word)
 
 When you or one of your allies is making an attack roll, skill check, ability score check, or saving throw, you may spend a spell point as an immediate action to allow them to make the roll twice and take the highest roll. You must use this word before the roll in question is made.
 
@@ -324,7 +324,7 @@ You may spend a spell point to force a target creature to state their name, the 
 
 A successful Will saving throw negates this effect. This is a mind-affecting compulsion effect and creatures that do not speak any languages (including telepathy) are immune to it.
 
-#### Close (word) [Core]
+#### Close (word)
 
 Rather than targeting creatures, this word targets doors, chests, windows, and other objects that can open or close. You may spend a spell point and speak a word that magically holds shut a door, gate, chest, window, or shutter of wood, metal, or stone. The portal closes and, if a lock is present, becomes locked. The DC to open the lock or force open the portal both increase by 10. Once the opening or portal has been forced or picked open, this effect ends.
 
@@ -332,7 +332,7 @@ Rather than targeting creatures, this word targets doors, chests, windows, and o
 
 When an ally within range fails a saving throw, you may spend a spell point as an immediate action to allow them to reroll it using your modifier. Alternatively, when you fail a saving throw, you may spend a spell point as an immediate action to reroll it using the modifier of an ally within range. If they or you still fail, whatever effect required your ally to make that saving throw affects your ally and you as if both of you had been the target, had been in its area of effect, or were subject to its ongoing effect. If the saving throw was to end an ongoing effect and a failure has no penalty other than the effect remaining, you (if your ally rerolled the saving throw) or your ally (if you rerolled the saving throw) are affected by it until the end of your next turn.
 
-#### Curse (word, curse) [Core]
+#### Curse (word, curse)
 
 When an enemy within range is making an attack roll, skill check, ability score check, or saving throw, you may spend a spell point as an immediate action to force that target to make the roll twice and take the lower result. You must use this word before the roll in question is made.
 
@@ -361,11 +361,11 @@ As a standard action, you may spend a spell point to place this word on a target
 
 If you succeed, the effect ends and you may spend a spell point to learn the name and creature type and subtypes of the effect’s originator, along with why it placed the target under the effect. The description of the reason for placing the target under the effect is specific but no more than one short sentence. (For example, “He killed my father,” is generally appropriate, but “I hate him,” is not because it is not specific enough.) If the target is affected by more than one such effect, you may either choose a specific one you are aware of to remove or select one at random. You may not attempt to remove a given effect with this talent more than once per day.
 
-#### Freedom (word) [Core]
+#### Freedom (word)
 
 You may spend a spell point to speak a word that frees the target from physical bondage. You must concentrate to maintain this ability, to a maximum of 1 round per caster level. You may spend an additional spell point as a free action to allow this ability to continue for 1 round per caster level without concentration. The target may move and attack normally, even when under the influence of magic and effects that would otherwise impede movement. This includes paralysis, slow effects, entanglement, etc. All combat maneuver checks made to grapple the target automatically fail, and the subject automatically succeeds on any combat maneuver checks and Escape Artist checks made to escape a grapple or a pin. The subject may even move and attack normally while underwater, provided that the weapon is wielded in the hand rather than hurled. This does not, however, grant waterbreathing.
 
-#### Harm (word, curse) [Core]
+#### Harm (word, curse)
 
 Whenever the target of this word suffers damage, they suffer an additional amount of damage equal to 1/2 your caster level (minimum: 1). This effect lasts as long as you concentrate, but you may always spend a spell point as a free action to allow this word to continue for 1 round per caster level without concentration.
 
@@ -379,7 +379,7 @@ You may choose to instead place this word on a single creature, in which case it
 
 This effect lasts as long as you concentrate, but you may always spend a spell point to allow the effect to endure for 1 minute per caster level without concentration.
 
-#### Mercy (word, curse) [Core]
+#### Mercy (word, curse)
 
 You may spend a spell point to reduce the target’s ability to deal lethal damage. The target is allowed a Will save, and on a failure, deals nonlethal damage with all of its weapon attacks for 1 round per caster level. Damage taken by creatures or objects that are not subject to nonlethal damage is not converted to nonlethal and remains lethal damage.
 
@@ -387,11 +387,11 @@ You may spend a spell point to reduce the target’s ability to deal lethal dama
 
 Choose an alignment within one step of your own on each axis. The target of this word is treated as this alignment instead of their own for all purposes unless they succeed on a Will saving throw. This does not change its actual alignment, and so does not influence the target’s actions or cause it to violate any code of conduct it might have. This effect lasts as long as you concentrate, but you may always spend a spell point to allow the effect to endure for 1 hour per caster level without concentration.
 
-#### Open (word) [Core]
+#### Open (word)
 
 Rather than targeting creatures, this word targets doors, chests, and other objects that can open or close. You may spend a spell point to open a door or container, as if you were making a Disable Device check to unlock it or, if the opening is stuck and no lock is present, a Strength check to force it open. Make a magic skill check with a +10 bonus against the lock’s Disable Device DC or the door’s Stuck DC. If the check is successful, the portal unlocks and opens. This word may open doors, chests, shackles, and chains, and any other type of fastening. It cannot, however, raise a barred gate, lift a portcullis, or otherwise provide force in and of itself.
 
-#### Pain (word, curse) [Core]
+#### Pain (word, curse)
 
 The target suffers debilitating pain. The target suffers 1d4 + 1/2 your caster level in nonlethal damage (no save). You may spend a spell point to cause this target to suffer this damage each round for a total number of rounds equal to your caster level. For 1 round (or as long as this word is in effect) the target suffers a -4 penalty to all mental skill checks (such as Bluff, Spellcraft, Sense Motive, or Survival), and must pass a magic skill check (DC 10 + 1/2 the damage dealt + 1/2 the caster level) to use a sphere effect or spell.
 
@@ -414,7 +414,7 @@ This effect lasts as long as you concentrate, but you may always spend a spell p
 
 You may spend a spell point to place a curse upon a weapon that causes it to turn against its wielder. The next time it is used to make an attack, the attack automatically hits the wielder. This word itself does not obviously modify the weapon, so unless alerted by other means (such as detect magic or the divine use of the Divination sphere) the wielder cannot attempt to deal nonlethal damage. At 10th level, the attack automatically threatens a critical hit. An attended or magic weapon is entitled to a Will saving throw to negate this effect. This curse remains up to 1 hour per caster level or until discharged.
 
-#### Truth (word, curse) [Core]
+#### Truth (word, curse)
 
 The target cannot speak deliberate or intentional lies (Will negates). They are always aware of this word being placed on them and the caster always knows if the target made its saving throw. An effected target may still be evasive, refuse to answer, or word their responses carefully. This effect lasts as long as you concentrate, but you may always spend a spell point to allow the effect to endure for 1 minute per caster level without concentration.
 

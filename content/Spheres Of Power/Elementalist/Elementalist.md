@@ -185,7 +185,7 @@ The following feats are particularly appropriate or useful for elementalists.
 
 The following magical items are especially appropriate for elementalists.
 
-#### Elemental-Attuning Pendant [TS:WAT]
+#### Elemental-Attuning Pendant
 
 **Aura** moderate Destruction and Protection; **CL** 7th
 **Slot** neck; **Price** 22,000 gp; **Weight** 2 lbs.
@@ -195,7 +195,7 @@ This golden pendant has four gems on it. When worn by a creature with the elemen
 **Construction Requirements**
 Craft Marvelous Item, Destruction sphere, Protection sphere (Energy Resistance (aegis, ward)), creator must have the elemental defense ability; **Cost** 11,000 gp
 
-#### Energy-Weaving Gauntlets [TS:WAT]
+#### Energy-Weaving Gauntlets
 
 **Aura** moderate Destruction; **CL** 8th
 **Slot** hands; **Price** 16,000 gp; **Weight** 1/2 lbs.
@@ -205,7 +205,7 @@ These fine cloth gloves are decorated with runes of power. When a character with
 **Construction Requirements**
 Craft Apparatus, Destruction sphere (Admixture), creator must have the favored element ability; **Cost** 8,000 gp
 
-#### Nature-Walking Boots [TS:WAT]
+#### Nature-Walking Boots
 
 **Aura** faint Nature and Protection; **CL** 5th
 **Slot** feet; **Price** 8,000 gp; **Weight** 2 lbs.

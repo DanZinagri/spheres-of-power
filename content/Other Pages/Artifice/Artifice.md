@@ -169,7 +169,7 @@ Additionally, you can spend 10 minutes (or reveal as a plan) to attempt to creat
 
 You can reveal a plan as a standard action to treat your familiarity with an object as being one higher for an attempt.
 
-#### Fundamental Expertise [DRS]
+#### Fundamental Expertise
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -191,7 +191,7 @@ You use your ranks in the associated skill as your caster level for the purposes
 
 **Associated Feat:** Master Craftsman.
 
-#### Meticulous Upkeep [plan] [DRS]
+#### Meticulous Upkeep [plan]
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -245,7 +245,7 @@ You can take this talent an additional time for every 10 ranks you possess in th
 
 ## Flourish Talents
 
-#### Abstract Design (artwork, flourish) [DRS]
+#### Abstract Design (artwork, flourish)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -257,7 +257,7 @@ You gain the following *artworks*:
 
 On a successful save, such d% rolls they are subject to are subtracted by 10% (minimum 0%).
 
-#### Aesthetic Artifice (artwork, flourish) [DRS]
+#### Aesthetic Artifice (artwork, flourish)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -291,7 +291,7 @@ Additionally, as long as the second material’s cost increase does not exceed 5
 
 If you have the (gear) package, this flourish does not count towards the total number of flourishes you can have on an object. Additionally, this flourish can be applied multiple times to the same object, each time choosing a new material, although the subsequent applications of this flourish still count towards your flourish maximum.
 
-#### Armament Modder (flourish, gear) [DRS]
+#### Armament Modder (flourish, gear)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -331,7 +331,7 @@ As a move action, the user can launch the stored object to any square within clo
 
 If the object already has a range increment (such as a splash weapon), you must launch it using the same action required to throw the object, and instead increase the range increment of the object by 20 feet + 5 feet per 4 associated ranks you possess.
 
-#### Emotive Styles (artwork, flourish) [DRS]
+#### Emotive Styles (artwork, flourish)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -358,7 +358,7 @@ Additionally, you gain the following artwork:
 
 If you have the Tug The Heartstrings feat, creatures that engage with the artwork are treated as though the chosen motivation were invoked for the purposes of determining the effects of the chosen skill use or sphere ability.
 
-#### Functional Artifice (fabrication, flourish, gear) [DRS]
+#### Functional Artifice (fabrication, flourish, gear)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -407,7 +407,7 @@ Additionally, this artwork can receive maintenance—if you do, you can store an
 
 The artwork loses 1 stored use of skill leverage every 24 hours. If it does not receive maintenance for 24 hours, a creature cannot withdraw skill leverage from the artwork until it is maintained.
 
-#### Martial Artifice (flourish, gear) [DRS]
+#### Martial Artifice (flourish, gear)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -435,7 +435,7 @@ If this flourish receives special maintenance, whenever the wearer is subject to
 
 **Associated Feats:** Deadly Trap (Craft (traps) option), Weathered Warrior (*Ranged Tactics Toolbox*) and Far Shot (Craft (bows) option).
 
-#### Precious Material Refinement (flourish, gear) [DRS]
+#### Precious Material Refinement (flourish, gear)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -489,7 +489,7 @@ Additionally, if such a material has an ability that requires a saving throw, us
 
 **Special**—If the object this flourish is applied to is treated as more than one type of material (such as the Alloyed Plating talent), its effects are applied to each special material.
 
-#### Refined Arms (flourish, gear) [DRS]
+#### Refined Arms (flourish, gear)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -535,7 +535,7 @@ You can augment items that store or reinforce things. Choose from one of the fol
 
 **Resistant:** This flourish can only be applied to containers. The container and any objects stored within it halve any damage they suffer from external effects, and is immune to any water damage that would be caused due to its material. Effects that originate from within the container still affect items normally. If the container would spill its contents due to being broken or destroyed, it retains its contents for 1 minute (or until it is damaged again, whichever comes first).
 
-#### Vehicle Improvements (fabrication, flourish) [DRS]
+#### Vehicle Improvements (fabrication, flourish)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -580,7 +580,7 @@ If this is added to a trinket replicating an alchemical weapon, the chosen optio
 
 **Special**–If the trinket has both the weapon and splash weapon functions, you can have the weapon function of the trinket deal +1d6 damage of the splash weapon’s damage type on a successful hit.
 
-#### Clear Interpretations (artwork, function) [DRS]
+#### Clear Interpretations (artwork, function)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -633,7 +633,7 @@ You can also choose to make the weapon fragile (Pathfinder Roleplaying Game: Ult
 
 **Special:** If you possess the Fundamental Expertise talent, you can choose two of the listed damage types for the weapon to deal instead of one.
 
-#### Integrity Shifter (fabrication, function) [utility] [DRS]
+#### Integrity Shifter (fabrication, function) [utility]
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -674,7 +674,7 @@ Additionally, you can grant one of the following additions to the cover, plus on
 
 # Exceptional Talents
 
-#### Alchemical Replication (function, gear) [DRS]
+#### Alchemical Replication (function, gear)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -690,7 +690,7 @@ When applying this function, you can choose to reduce the light it produces, as 
 
 **Special:** If you possess the Alchemy or Herbalism sphere, your trinkets can also replicate alchemical remedies, drugs, and poisons with the same Craft DC limitations as above.
 
-#### Artistic Transportation (artwork, flourish) [utility] [DRS]
+#### Artistic Transportation (artwork, flourish) [utility]
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -704,7 +704,7 @@ Whenever a creature willingly engages with the artwork (and takes at least 1 min
 
 You can choose this talent a second time–if you do, you can choose a location on a different plane to you (or a different planet, if you have at least 15 ranks in this package’s associated skill), although such a location is always treated as unfamiliar to you, despite your actual familiarity.
 
-#### Bizarre Artistry (artwork) (Su) [DRS]
+#### Bizarre Artistry (artwork) (Su)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -745,7 +745,7 @@ You may craft much faster than normal. Whenever you craft a magical item using a
 
 At 12 ranks in the associated skill, the time required to craft a magical item is reduced by two-thirds instead of half.
 
-#### Marvelous Material Refinement [DRS]
+#### Marvelous Material Refinement
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -807,7 +807,7 @@ Whenever you create a trinket that is up to your own size category, the trinket 
 
 You also do not increase the craft DC of a trinket due to its size.
 
-#### Natural Artifice (flourish) [DRS]
+#### Natural Artifice (flourish)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -878,7 +878,7 @@ If you possess the Industrious Engineer feat, you can ignore the repair limit as
 
 You gain an item creation feat you qualify for which you may only use with the Magical Crafter talent. You may take this talent multiple times, selecting a different feat each time.
 
-#### Symbologist (artwork, flourish) [DRS]
+#### Symbologist (artwork, flourish)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 

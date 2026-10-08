@@ -105,7 +105,7 @@ Talents with the (mishap) tag allow you to intentionally create mishaps with mag
 
 You can dismiss a dismissible spell or item effect as a swift action. When you make a dispel check (such as with dispel magic or the hack magic ability) to target a creature or a worn or carried item, you can outwit the target creature to get a 10 on the d20 instead of rolling.
 
-#### Flexible Item Repurposing [LotS]
+#### Flexible Item Repurposing
 
 **Prerequisites:** Spellhacking sphere (Repurpose Activated Item).
 
@@ -117,7 +117,7 @@ When you apply Repurpose Activated Item to an item which has a chosen sphere or 
 
 You can change your choice of spells or talents whenever you gain a level. You can choose this talent multiple times. Each time you do, you choose new schools of magic or new spheres.
 
-#### Glitched Hack [DRS]
+#### Glitched Hack
 
 *Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
@@ -145,7 +145,7 @@ Creatures can notice your magic’s manifestation with an opposed Perception or 
 
 You need no spellhacking instrument to hack magic as long as you have the ability to cast spells or use a spell-like or supernatural ability. You gain Spellcraft as an additional associated skill for this sphere.
 
-#### Invasive Hacking [DRS]
+#### Invasive Hacking
 
 *Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
@@ -161,7 +161,7 @@ You regain 1 use of skill leverage whenever you successfully activate or identif
 
 You can spend a swift action to adopt this approach while you or an item you carry emits Magical Resonance or another way for you to perceive magical auras. As long as you maintain the approach, you can use Spellcraft in place of Perception to find magic traps. You can disable magic traps as if you had trapfinding, and use your associated skill modifier in place of your Disable Device modifier for that purpose.
 
-#### Misleading Magic [utility] [LotS]
+#### Misleading Magic [utility]
 
 You can modify a magical effect as you produce it in cosmetic and misleading ways. Spells, magic items you activate, and the effects of magic spheres are all subject to this talent. Observers can realize the true effect regardless of how you modified it with this talent by succeeding at a single Perception or Spellcraft check against DC 15 + your ranks in the associated skill. You make one of the following changes, plus another change per 5 ranks you have in the associated skill.
 
@@ -196,7 +196,7 @@ You can sense the magic linking a magic effect or item to its creator. If you ca
 
 ## Hack Talents
 
-#### Arcane Proliferation (hack) [DRS]
+#### Arcane Proliferation (hack)
 
 *Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
@@ -210,7 +210,7 @@ You allow the item to self-perpetuate in some aspect, depending on the target.
 
 At 6 ranks in this sphere’s associated skill, magical ammunition that would normally be destroyed after delivering its damage instead can last one additional successful attack, plus an additional attack at 12 ranks in the associated skill and every 6 ranks thereafter. Once such a piece of magical ammunition is used once, the magical wear and tear is obvious and becomes worthless.
 
-#### Arcane Reinforcement (hack) [DRS]
+#### Arcane Reinforcement (hack)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -220,7 +220,7 @@ You spread the magic contained within an item across its surface area to reinfor
 
 Additionally, the object (but not the attending creature) gains spell resistance equal to 15 + your associated ranks against effects that specifically target it, such as heat metal. You can suppress this spell resistance as normal, as long as the object is within your hack range.
 
-#### Burden Magic (hack) [DRS]
+#### Burden Magic (hack)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -245,7 +245,7 @@ You can increase a magical area in each dimension by 50%. If it has a suitable d
 
 If you possess at least 10 ranks in the associated skill, you can take this talent a second time. Doing so allows you to either double or halve the magical effect’s area in each dimension. Doubling the area reduces any variable, numeric effects of the area as well as its duration by 50% each. Halving the area increases any variable, numeric effects of the area by 50% as if with the Empower Spell feat and doubles the remaining duration as if with the Enlarge Spell feat.
 
-#### Disrupt Aura (hack) [utility] [DRS]
+#### Disrupt Aura (hack) [utility]
 
 *Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
@@ -265,7 +265,7 @@ In either case, if the target is examined (such as using divine or identify), th
 
 You choose another (hack) talent you possess and implant it into the target. You must pay any cost of the (hack) talent when you imbue it. You choose a simple manner for the talent to apply to the next effect produced by activating the item or triggering the trap. If the hack cannot apply to that activation, the activation is not altered but the hack remains imbued until it can take effect. The (hack) talent fades from the item after it is applied.
 
-#### Malfunction Dweomer (hack) [DRS]
+#### Malfunction Dweomer (hack)
 
 *Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
@@ -278,7 +278,7 @@ If the result of the roll is equal to or below its instability chance, it become
 
 You can outwit the user as an immediate action (as long as they are within hack magic range) to force them to immediately roll their instability chance for the hacked item.
 
-#### Minor Thaumaturgy (hack) [utility] [DRS]
+#### Minor Thaumaturgy (hack) [utility]
 
 *Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
@@ -295,7 +295,7 @@ If you possess the Shift Enchantment talent, you gain the following option when 
 
 - **Swap Enchantment:** You change how any enhancement bonuses or special weapon qualities are distributed between each end of the weapon–this change must still follow the same restrictions as normal (such as a special quality requiring an item to have a +1 enhancement bonus to be applied). For example, you have a quarterstaff: one end is a +2 flaming and the other is a +1 corrosive. You could choose to make one end +2 corrosive flaming, and the other end just the +1 bonus.
 
-#### Monitor (hack) [utility] [DRS]
+#### Monitor (hack) [utility]
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -325,7 +325,7 @@ If you change an instantaneous area’s location (perhaps by using a readied act
 
 If you possess at least 10 ranks in the associated skill, this talent gains the (mishap) tag. When you Reposition Area as a mishap, the new location is chosen randomly by the GM within this talent’s parameters.
 
-#### Repurpose Activated Item (hack) [LotS]
+#### Repurpose Activated Item (hack)
 
 **Target:** A magic item
 
@@ -379,7 +379,7 @@ You change the item’s bonus into a different one for 1 round per rank in the a
 
 **Repurpose Ability Score:** If the previous bonus was to an ability score, you replace it with a competence bonus to one skill using that ability score with the same value or an enhancement bonus to another mental or physical ability score (whichever the original ability score was) with the value reduced by half. For example, if the previous bonus was to Strength, you could change it to an enhancement bonus of half that value to Constitution or Dexterity.
 
-#### Runic Overcharge (hack) [DRS]
+#### Runic Overcharge (hack)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -401,7 +401,7 @@ You cannot use this talent to sabotage more items at once than your operative ab
 
 **Associated Feat:** Sabotage Magic Item (Pathfinder Roleplaying Game: Ultimate Intrigue).
 
-#### Shift Enchantment (hack) [DRS]
+#### Shift Enchantment (hack)
 
 *Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
@@ -493,7 +493,7 @@ If you have at least 5 ranks in the associated skill and the source has a caster
 
 With 15 ranks and caster level 15th, you can send and receive telepathic messages through the sensor to any creature it can see that knows a language.
 
-#### Withdraw Discordance (mishap) [DRS]
+#### Withdraw Discordance (mishap)
 
 *Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
@@ -507,7 +507,7 @@ If you have at least 5 ranks in the associated skill and the source has a caster
 
 # Exceptional Talents
 
-#### Biothaumic Hacking [DRS]
+#### Biothaumic Hacking
 
 *Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
@@ -537,7 +537,7 @@ When you hack magic, you can choose an observable condition that will remove the
 
 When you activate a magic item that allows a saving throw and that has one of your hacks applied to it, you can use your sphere DC – 4 in place of the item’s saving throw DC for that activation. If an item calls for a saving throw without activation, you can spend a swift action to replace the save DC for its continuous function until the end of your next turn.
 
-#### Preserve Remnants [DRS]
+#### Preserve Remnants
 
 *Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 

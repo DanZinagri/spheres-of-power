@@ -107,7 +107,7 @@ The commander may use a standard action to allow any one creature currently bene
 
 When the commander first learn this enhanced tactic, he gains one teamwork feat he qualifies for as a bonus feat. The commander may share any one teamwork feat he knows with all allies currently benefiting from one of his shouts or tactics, even if they do not meet the feat’s prerequisites. At 5th level and every 5 levels thereafter, the commander may share 1 additional teamwork feat he knows when using this enhanced tactic. This enhanced tactic may be taken multiple times, gaining a new teamwork feat each time.
 
-#### Facilitate Combo [S&P]
+#### Facilitate Combo
 
 As a standard action, the commander may allow any one creature affected by one of his shouts or tactics to participate in a multi-character technique even if they do not know the technique and possesses none of the talents used in the technique.
 
@@ -115,7 +115,7 @@ As a standard action, the commander may allow any one creature affected by one o
 
 The commander grants quick instructions to assist in climbing over various obstacles, including calling out handholds, footholds, and piton locations. All allies currently benefiting from one of the commander’s shouts or tactics gain a climb speed equal to 5 x the higher of the commander’s Charisma or Intelligence modifiers (minimum 5 ft.); allies who already possess a climb speed increase their existing climb speed by this amount.
 
-#### Now’s Your Time [S&P]
+#### Now’s Your Time
 
 As a standard action, the commander may expend martial focus to grant an ally affected by one of his shouts or tactics a single temporary hero point. This hero point is lost after 1 round if it is not expended. A single ally can only be affected by this enhanced tactic once per day.
 

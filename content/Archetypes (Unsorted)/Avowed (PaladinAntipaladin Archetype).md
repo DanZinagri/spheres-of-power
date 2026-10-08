@@ -109,7 +109,7 @@ This replaces divine bond or fiendish boon.
 
 ## Avowed Pledges
 
-### Pledge of Animism [EO3]
+### Pledge of Animism
 
 Those that take the pledge of animism often act as dauntless protectors and warriors for nature, sometimes eschewing society and civilization completely for their cause. As their devotion to their pledge grows, these individuals are able to call upon the natural world around them as either their shield or sword.
 
@@ -134,7 +134,7 @@ The avowed can only have one of these plants active at one time, which can be ch
 
 Additionally, the avowed becomes immune to the effects of any Nature or Weather sphere effect that she is subject to and is an unwilling target of, even if the effect is not subject to spell resistance.
 
-### Pledge of Antimagic [Archmagi HB]
+### Pledge of Antimagic
 
 Those that take the pledge of antimagic are often those who see the exploitation or overuse of magic to be abhorrent or even inevitable to those who are brushed by its power. Regardless of its intricacies, these individuals have some form of disdain for magic and the power it brings.
 

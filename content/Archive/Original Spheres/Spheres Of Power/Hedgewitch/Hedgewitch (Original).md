@@ -70,7 +70,7 @@ A hedgewitch gains a magic talent every time she gains a caster level, according
 
 Hedgewitches draw power from their traditions, blending magic and hidden knowledge to powerful effect. A hedgewitch chooses two traditions at 1st level, gaining their class skills, tradition benefits, tradition powers, and their tradition masteries at 20th level. In addition, each tradition grants access to a number of secrets the hedgewitch may choose whenever she gains a secret.
 
-#### Academia [Core]
+#### Academia
 
 **Class Skills:** Knowledge (Geography), Knowledge (Nature), Knowledge (Planes)
 
@@ -139,7 +139,7 @@ You learn to mimic the alignment of the heavens, bringing to bear multiple celes
 **Tradition Mastery**
 Increase your effective hedgewitch level by 5 when determining the strength of your celestial auras. In addition, you can project and change your aura once per turn as a free action instead of a swift action.
 
-#### Black Magic [Core]
+#### Black Magic
 
 **Class Skills:** Knowledge (Planes), Intimidate, Disguise
 
@@ -185,7 +185,7 @@ This does not grant access to Grand hexes. You may gain this secret multiple tim
 **Tradition Mastery**
 Gain a witch’s Grand hex, treating your hedgewitch level as your witch level and your casting ability modifier as your Intelligence modifier when determining the effects.
 
-#### Charlatanism [Core]
+#### Charlatanism
 
 **Class skills:** Sleight of Hand, Disable Device, Disguise.
 
@@ -236,7 +236,7 @@ Gain an advanced rogue talent, treating your hedgewitch level as your effective 
 **Tradition Mastery**
 When spending a guile point as part of a skill check, add +6 to that check instead of +4. When spending a guile point to deal sneak attack, roll d8s instead of d6s.
 
-#### Combat [Core]
+#### Combat
 
 **Class skills:** Swim, Climb, Intimidate.
 
@@ -284,7 +284,7 @@ Choose one weapon group, as noted in the fighter’s weapon training class featu
 **Tradition Mastery**
 You gain a +2 inherent bonus to one physical ability score of your choice.
 
-#### Covenant [Core]
+#### Covenant
 
 **Class skills:** Knowledge (Religion), Knowledge (Planes), Knowledge (History).
 
@@ -487,7 +487,7 @@ Gain Expanded Divination as a bonus talent. Whenever you gain a new sphere, you 
 **Tradition Mastery**
 Gain a +2 bonus to your Casting Ability Modifier.
 
-#### Green Magic [Core]
+#### Green Magic
 
 **Class skills:** Knowledge (Nature), Ride, Survival. Your magic comes from communion with nature.
 
@@ -527,7 +527,7 @@ All friendly animals within 30 ft of you gain a bonus equal to your casting abil
 **Tradition Mastery**
 Your animal companion gains Spell Resistance equal to your hedgewitch level + 11. As a full-round action, you may summon your companion to your side from anywhere, even across planes. Treat your hedgewitch level as your caster level for the purpose of this ability.
 
-#### Herbology [Core]
+#### Herbology
 
 **Class skills:** Survival, Knowledge (Nature), Knowledge (Geography).
 
@@ -661,7 +661,7 @@ If a target is falling and you manage to catch them with a perfectly solid cloud
 **Tradition Mastery**
 At 20th level you may activate any usage of your magonian tradition power as a swift action instead of a standard action. If you possess Permanent Control, you may command your attuned vessels as a free action once per round instead of a swift action.
 
-#### Spiritualism [Core]
+#### Spiritualism
 
 **Class Skills:** Knowledge (Religion), Knowledge (History), Knowledge (Local).
 
@@ -812,7 +812,7 @@ You may suppress this electric crackling as a free action, losing all of its ben
 **Tradition Mastery**
 Once per day as a free action you may choose to enter all three states at once, gaining all the relevant benefits. This lasts for 10 minutes, after which you randomly choose a new state as normal.
 
-#### Tinker [CS]
+#### Tinker
 
 **Class Skills:** Disable Device (Dex), Knowledge (dungeoneering) (Int), Knowledge (engineering) (Int)
 
@@ -945,15 +945,15 @@ You gain the academia tradition benefit. You count as possessing the academia tr
 
 You gain the astrology tradition benefit. You count as possessing the astrology tradition when qualifying for secrets. You cannot select this secret if you already possess the astrology tradition.
 
-#### Amateur Black Mage [Core]
+#### Amateur Black Mage
 
 You gain the black magic tradition benefit. You count as possessing the black magic tradition when qualifying for secrets. You cannot select this secret if you already possess the black magic tradition.
 
-#### Amateur Charlatan [Core]
+#### Amateur Charlatan
 
 You gain the charlatan tradition benefit. You count as possessing the charlatan tradition when qualifying for secrets. You cannot select this secret if you already possess the charlatan tradition.
 
-#### Amateur Combatant [Core]
+#### Amateur Combatant
 
 You gain the combat tradition benefit. You count as possessing the combat tradition when qualifying for secrets. You cannot select this secret if you already possess the combat tradition.
 
@@ -969,11 +969,11 @@ You gain the exorcism tradition benefit. You count as possessing the exorcism tr
 
 You gain the font of inspiration tradition benefit. You count as possessing the font of inspiration tradition when qualifying for secrets. You cannot select this secret if you already possess the font of inspiration tradition.
 
-#### Amateur Green Mage [Core]
+#### Amateur Green Mage
 
 You gain the green magic tradition benefit. You count as possessing the green magic tradition when qualifying for secrets. You cannot select this secret if you already possess the green magic tradition.
 
-#### Amateur Herbalist [Core]
+#### Amateur Herbalist
 
 You gain the herbology tradition benefit. You count as possessing the herbology tradition when qualifying for secrets. You cannot select this secret if you already possess the herbology tradition.
 
@@ -981,7 +981,7 @@ You gain the herbology tradition benefit. You count as possessing the herbology 
 
 You gain the magonian tradition benefit. You count as possessing the magonian tradition when qualifying for secrets. You cannot select this secret if you already possess the magonian tradition.
 
-#### Amateur Spiritualist [Core]
+#### Amateur Spiritualist
 
 You gain the spiritualism tradition benefit. You count as possessing the spiritualism tradition when qualifying for secrets. You cannot select this secret if you already possess the spiritualism tradition.
 
@@ -989,7 +989,7 @@ You gain the spiritualism tradition benefit. You count as possessing the spiritu
 
 You gain the Tempest-tost tradition benefit. You count as possessing the Tempest-tost tradition when qualifying for secrets. You cannot select this secret if you already possess the Tempest-tost tradition.
 
-#### Amateur Tinker [CS]
+#### Amateur Tinker
 
 You gain the tinker tradition benefit. You count as possessing the tinker tradition when qualifying for secrets. You cannot select this secret if you already possess the tinker tradition.
 
@@ -1005,19 +1005,19 @@ You gain the temporal traveler tradition benefit. You count as possessing the te
 
 You gain the umbral tradition benefit. You count as possessing the umbral tradition when qualifying for secrets. You cannot select this secret if you already possess the umbral tradition.
 
-#### Artificer [Core]
+#### Artificer
 
 Gain one Item Creation feat of your choice for which you meet the prerequisites. You may gain this secret multiple times. Each time it is taken, gain a different Item Creation feat.
 
-#### Champion [CS]
+#### Champion
 
 The hedgewitch gains a Champion feat of her choice as a bonus feat. She must meet the prerequisites of the feat. This prowess can be gained multiple times.
 
-#### Combat Talent [CS]
+#### Combat Talent
 
 You gain a bonus combat talent. This secret may be taken more than once, granting an additional talent each time.
 
-#### Familiar [Core]
+#### Familiar
 
 You gain a familiar as the wizard class feature, using your hedgewitch level as your wizard level for this purpose.
 
@@ -1025,7 +1025,7 @@ You gain a familiar as the wizard class feature, using your hedgewitch level as 
 
 Gain a fetish, as the academia tradition power. If you already possess the academia tradition power, you cannot gain this secret.
 
-#### Metamagic Feat [Core]
+#### Metamagic Feat
 
 Gain one metamagic feat of your choice for which you meet the prerequisites. You may gain this secret multiple times. Each time it is taken, gain an additional metamagic feat.
 
@@ -1035,11 +1035,11 @@ You can create a poppet that possesses a sympathetic link to a creature, allowin
 
 When you use a sphere ability, you may target the poppet to affect the creature it was made from, allowing you to affect them regardless of distance or line of sight, though they must be on the same plane. The sympathetic link makes the creature immediately aware of the incoming effect and allows them to defend against it without being surprised or asleep, though they are not made aware of the magic’s precise nature or source. After conveying magic once the poppet crumbles, becoming useless. You may only possess a number of poppets equal to your casting ability modifier at one time, and only one poppet at a time for any given creature. If you collect a sample for a new poppet that would put you over these limits, an older poppet crumbles (either the already existing poppet for the creature targeted if you have one, or one of your choice if you don’t).
 
-#### Priestly Initiate [Core]
+#### Priestly Initiate
 
 You gain the covenant tradition benefit. You count as possessing the covenant tradition when qualifying for secrets. You cannot select this secret if you already possess the covenant tradition.
 
-#### Skilled Magic [Core]
+#### Skilled Magic
 
 You gain one of the following feats: Cantrips, Circle Casting, Contingency, Counterspell, Improved Counterspell, Greater Counterspell, Ritual Caster. You must meet the prerequisites of the feat. You may select this secret multiple times. Each time it is selected, gain an additional feat.
 
@@ -1051,7 +1051,7 @@ You gain the Tempest-tost tradition power. You only gain the ability your state 
 
 Beginning at 10th level, a hedgewitch may select one of the following grand secrets in place of a secret, or any grand secret from the list associated with her tradition:
 
-#### Arcane Builder [Core]
+#### Arcane Builder
 
 Select one type of magic item (potions, wondrous items, and so on). You create items of this type 25% faster than normal and gain a +4 bonus on Spellcraft checks (or other checks, as appropriate) to craft items of this type. You may select this secret multiple times; its effects do not stack. Each time you select this discovery, it applies to a different type of magic item.
 
@@ -1059,7 +1059,7 @@ Select one type of magic item (potions, wondrous items, and so on). You create i
 
 You can adjust your personal space in slight ways, allowing you to wear additional magic items without them interfering with one another. You gain an untyped item slot that can hold any item of any slot, such a second headband, a second pair of gloves, or third ring. This extra magic item can be stolen, sundered, or removed just like any other item.
 
-#### Metamagic Master [Core]
+#### Metamagic Master
 
 Choose one metamagic feat you possess. Using this metamagic feat costs 1 fewer spell point to use, to a minimum of 1. You may select this secret multiple times. The effects do not stack. Each time it is selected, choose a different metamagic feat.
 
@@ -1069,19 +1069,19 @@ Choose one metamagic feat you possess. Using this metamagic feat costs 1 fewer s
 
 The following feats are especially helpful or appropriate for Hedgewitches. Some of these are only appropriate for Hedgewitches of specific traditions.
 
-#### Extra Magic Talent [Core]
+#### Extra Magic Talent
 
 **Prerequisite:** Basic Magic Training or Casting class feature.
 
 **Benefit:** Gain an additional sphere or a talent from a sphere you possess. You may take this feat multiple times. The effects stack.
 
-#### Extra Secret [Core]
+#### Extra Secret
 
 **Prerequisite:** Secrets class feature.
 
 **Benefit:** Gain an extra secret for which you qualify. You may gain this feat multiple times. The effects stack.
 
-#### Extra Spell Points [Core]
+#### Extra Spell Points
 
 **Prerequisite:** Spell Pool.
 

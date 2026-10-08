@@ -185,7 +185,7 @@ The striker reduces the tension needed for her second chance tension technique b
 
 The striker can use her light step tension technique as a free action.
 
-#### Mounted Striker [BTH]
+#### Mounted Striker
 
 The striker gains the Beastmastery sphere as a bonus talent and Mounted Athlete as a bonus feat, even if she does not have the prerequisites normally required for this feat.
 
@@ -293,7 +293,7 @@ At 20th level, a striker gains 7 tension at the start of her first turn in comba
 
 # Class Equipment
 
-#### Adamantine Knuckles [TS:WAT]
+#### Adamantine Knuckles
 
 **Aura** moderate Enhancement; **CL** 7th
 **Slot** hands; **Price** 15,000 gp; **Weight** 1/2 lbs.
@@ -303,7 +303,7 @@ These creatively-designed adamantine combat knuckles are hard for most warriors 
 **Construction Requirements**
 Craft Apparatus, Enhancement sphere, creator must have the drill knuckle class feature; **Cost** 7,500 gp
 
-#### Arts Manual [TS:WAT]
+#### Arts Manual
 
 **Aura** moderate War; **CL** 6th
 **Slot** none; **Price** 15,000 gp; **Weight** 1/2 lbs.
@@ -313,7 +313,7 @@ This thick, leather-bound manual is covered from front to back with intricate di
 **Construction Requirements**
 Craft Apparatus, War sphere, creator must have the striker art class feature, creator must have the striker arts being added to this item; **Cost** 7,500 gp
 
-#### Risk And Reward [TS:WAT]
+#### Risk And Reward
 
 **Aura** moderate War; **CL** 8th
 **Slot** chest; **Price** 25,000 gp; **Weight** 3 lbs.

@@ -81,7 +81,7 @@ Some Alteration talents are marked (transformation). These talents grant additio
 
 ## Alteration Talents
 
-#### Adaptive Physicality [utility] [DRS]
+#### Adaptive Physicality [utility]
 
 *Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
@@ -186,7 +186,7 @@ You may add the following traits to your forms:
 
 You may add the following traits to your forms:
 
-**Giant Fortitude:** The target gains the hearty toughness of giants. The target gains a number of temporary hit points equal to your caster level and a bonus on Fortitude saving throws equal to 1 +1 per 10 caster levels. If the target does not take damage for one minute, the temporary hit points replenish. These temporary hit points are lost if the shapeshift ends or if the target loses this trait. [SA:EAO]
+**Giant Fortitude:** The target gains the hearty toughness of giants. The target gains a number of temporary hit points equal to your caster level and a bonus on Fortitude saving throws equal to 1 +1 per 10 caster levels. If the target does not take damage for one minute, the temporary hit points replenish. These temporary hit points are lost if the shapeshift ends or if the target loses this trait.
 
 **Rock Catching:** Once per round the creature can catch a rock (or projectile of a similar shape) up to its size that it would normally be hit by. The creature must succeed at a Reflex save against a DC of 15 for a Small or smaller rock, +5 per size increase. (If the projectile provides a magical bonus on attack rolls, the DC increases by that amount.) The creature must be aware of the attack in order to attempt a rock catching.
 
@@ -214,7 +214,7 @@ When bestowing a shapeshift, you may spend an additional spell point to shapeshi
 
 You may study a creature you can see as a full-round action or spend a spell point to instead study it as a swift action. For the next hour or until you study another creature, you gain a single Alteration talent corresponding to the creature or one of the creature’s apparent features. A creature you have studied with this talent counts as being familiar for the purposes of the Perfect Imitation talent.
 
-#### Morph [DRS]
+#### Morph
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -224,7 +224,7 @@ You can shapeshift yourself as a swift action, although you can only apply a sin
 
 You may add the following traits to your forms:
 
-**Amorphous Weaponry:** The target gains the ability to morph and shift their natural attacks. As a free action, the target can change the damage types of any number of their natural weapons to include any combination of bludgeoning, piercing, or slashing (e.g. spikes for piercing and/or sharp edges for slashing on a slam attack). At 5th caster level, the target may instead spend a swift action to add one weapon feature to one of their natural weapons, chosen from the brace, deadly, disarm, distracting, nonlethal, reach, sunder, or trip weapon features. The target may only apply one weapon feature to each natural attack they possess, and applying another weapon feature to a natural attack the target already modified overwrites the previous weapon feature. [SA:EAO]
+**Amorphous Weaponry:** The target gains the ability to morph and shift their natural attacks. As a free action, the target can change the damage types of any number of their natural weapons to include any combination of bludgeoning, piercing, or slashing (e.g. spikes for piercing and/or sharp edges for slashing on a slam attack). At 5th caster level, the target may instead spend a swift action to add one weapon feature to one of their natural weapons, chosen from the brace, deadly, disarm, distracting, nonlethal, reach, sunder, or trip weapon features. The target may only apply one weapon feature to each natural attack they possess, and applying another weapon feature to a natural attack the target already modified overwrites the previous weapon feature.
 
 **Graft Weapon:** Choose one limb capable of wielding a weapon that is holding a weapon that can be used in one hand. You may graft the weapon held by this limb into the limb itself. A grafted weapon cannot be disarmed and may be treated as a primary natural attack. The target loses other uses of this limb and may take skill check penalties as a result. A grafted weapon may be damaged and sundered as normal.
 
@@ -282,7 +282,7 @@ You may shapeshift creatures at close range instead of touch range. You may take
 
 Choose a number of extraordinary or supernatural abilities dependent on your target’s base form (darkvision, scent, racial breath weapon, etc.). You may choose to allow the target to retain these abilities in place of trait you would normally grant them as part of your shapeshift, at a cost of one trait per ability.
 
-**Catmera Form: [Catgirl HB addendum]** You may spend 1 additional spell point as part of granting a shapeshift to one or more targets, causing the resulting shapeshift effect to blend with the target’s natural form. The resulting shapeshift causes the target to assume a hybrid form, gaining all limbs, natural attacks, special abilities, and movement moves of the shapeshift without changing the target’s base form or melding any of their equipment. The target may choose to retain limbs and movement speeds from their base form if the shapeshift lacks them or has lesser versions and may choose to forgo any additional limbs or heads when receiving this shapeshift and are able to effectively choose their body make-up resulting from this shapeshift. A shapeshift effect granted this way does not cause the target’s equipment to meld with this hybrid form.
+**Catmera Form:** You may spend 1 additional spell point as part of granting a shapeshift to one or more targets, causing the resulting shapeshift effect to blend with the target’s natural form. The resulting shapeshift causes the target to assume a hybrid form, gaining all limbs, natural attacks, special abilities, and movement moves of the shapeshift without changing the target’s base form or melding any of their equipment. The target may choose to retain limbs and movement speeds from their base form if the shapeshift lacks them or has lesser versions and may choose to forgo any additional limbs or heads when receiving this shapeshift and are able to effectively choose their body make-up resulting from this shapeshift. A shapeshift effect granted this way does not cause the target’s equipment to meld with this hybrid form.
 
 If the shapeshift would grant the target additional legs, the target may instead gain them as arms, although they are treated as arms gained with the Additional Limbs “two secondary arms” trait.
 
@@ -307,7 +307,7 @@ Creatures gain a +1 bonus to attack rolls and to AC, as well as a +2 bonus to Fl
 
 **Note:** Unless stated otherwise, size changes affect CMB and CMD.
 
-#### Steal Shape [3PP]
+#### Steal Shape
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -319,7 +319,7 @@ You may add the following traits to your forms:
 
 **Divided Self:** The target gains a +4 bonus on saves against effects that target individual creatures. (Requires the Swarm trait)
 
-**Gaseous Body:** You grant the target the ability to shift into or out of a gas-like form (e.g. fine mist, a cloud of insects, etc.) as a move action. While in this gas-like form, the target gains a fly speed of 10 feet with maneuverability (perfect), +5 feet per 5 caster levels, replacing all other movement the target may possess. Anything the target was wearing or holding transforms with the target, and the target loses its armor and natural armor bonuses. The target cannot manipulate or interact with objects, make attacks, speak, or cast spells with verbal, somatic, or focus components (unless the target possesses an ability to do so, such as the Silent Spell metamagic feat). Any traits or supernatural abilities the target possesses which alter or require its physical body are suppressed, including Alteration sphere traits. The target can pass through small holes, narrow openings, and even cracks. The target is still subject to the effects of wind and cannot enter water or other liquid. Granting this trait costs an additional spell point. [Gravecaller's HB]
+**Gaseous Body:** You grant the target the ability to shift into or out of a gas-like form (e.g. fine mist, a cloud of insects, etc.) as a move action. While in this gas-like form, the target gains a fly speed of 10 feet with maneuverability (perfect), +5 feet per 5 caster levels, replacing all other movement the target may possess. Anything the target was wearing or holding transforms with the target, and the target loses its armor and natural armor bonuses. The target cannot manipulate or interact with objects, make attacks, speak, or cast spells with verbal, somatic, or focus components (unless the target possesses an ability to do so, such as the Silent Spell metamagic feat). Any traits or supernatural abilities the target possesses which alter or require its physical body are suppressed, including Alteration sphere traits. The target can pass through small holes, narrow openings, and even cracks. The target is still subject to the effects of wind and cannot enter water or other liquid. Granting this trait costs an additional spell point.
 
 **Swarm:** You may spend a spell point to turn the target into a swarm of creatures. The swarm can be composed only of Tiny creatures, with appearance and movement per the shapeshift. This size cannot be altered by the Size Change trait, enlarge person, or other effects. This does not affect the target’s movement modes. The target can move through small holes and openings that are large enough for the individual creatures. The swarm fills a 10-foot square (or cube if flying) and has a reach of 0. The target gains a 25% ability to ignore critical hits and precision damage, which increases by 25% per 5 caster levels to a maximum of 100%.
 
@@ -409,7 +409,7 @@ You may apply the following traits to your forms:
 
 **Woodland Stride:** The target may move through any sort of undergrowth (such as natural thorns, briars, overgrown areas, and similar terrain) at its normal speed without taking damage or suffering impairment. This has no effect on magically manipulated terrain.
 
-#### Muensterous Traits (body) [Jester's HB]
+#### Muensterous Traits (body)
 
 You may add the following traits to your forms:
 
@@ -490,8 +490,8 @@ In addition, you may grant the following traits to any form:
 - A land speed as that granted by Animalistic Transformation (grants 2 legs if the target lacked a land speed).
 - Scent.
 - 2 hoof attacks (secondary, 1d4 Medium, 1d3 Small). This may be granted once per pair of legs beyond the first.
-- **Sprint:** Once per minute as a free action, the shapeshifted target can increase the base speed of one movement type it possesses (land, swim, burrow, fly, climb) by +10 feet + 5 feet per 2 caster levels for one round. [BTH]
-- **Sticky Tongue:** The shapeshifted target gains a tongue with a range of 10 feet which can be used to pick up items no greater than 10 lbs. per caster level, attempt Sleight of Hand checks, perform the steal or disarm combat maneuvers, or deliver melee touch attacks. The tongue is not a prehensile limb, and cannot otherwise be used or manipulated as one. If you spend an additional spell point when granting this trait, the tongue’s range becomes equal to 15 feet + 5 feet per 5 caster levels you possess and the tongue may be used as a primary natural attack. As a natural attack, the tongue attacks versus touch AC, deals no damage on a hit, but has the grab universal monster ability. The shapeshifted target does not gain the grappled condition when using the tongue’s grab property to grapple other creatures. [BTH]
+- **Sprint:** Once per minute as a free action, the shapeshifted target can increase the base speed of one movement type it possesses (land, swim, burrow, fly, climb) by +10 feet + 5 feet per 2 caster levels for one round.
+- **Sticky Tongue:** The shapeshifted target gains a tongue with a range of 10 feet which can be used to pick up items no greater than 10 lbs. per caster level, attempt Sleight of Hand checks, perform the steal or disarm combat maneuvers, or deliver melee touch attacks. The tongue is not a prehensile limb, and cannot otherwise be used or manipulated as one. If you spend an additional spell point when granting this trait, the tongue’s range becomes equal to 15 feet + 5 feet per 5 caster levels you possess and the tongue may be used as a primary natural attack. As a natural attack, the tongue attacks versus touch AC, deals no damage on a hit, but has the grab universal monster ability. The shapeshifted target does not gain the grappled condition when using the tongue’s grab property to grapple other creatures.
 
 #### Anthropomorphic Transformation (transformation)
 
@@ -568,11 +568,11 @@ Dragon Transformation offers the following traits, which you may apply to any fo
 - **Breath Weapon:** Gains a breath weapon as given by the dragon base form.
 - Double the size of a breath weapon (must possess a breath weapon to gain this trait).
 - **Draconic Resistances:** The target gains a +2 racial bonus on saving throws made against magic sleep and paralysis, increasing by +1 per 5 caster levels. In addition, the target adds half your caster level (minimum 1) to the DC of any attempts to intimidate the target.
-- **Warding Scales:** 1/2 of the target's natural armor bonus to AC applies against touch attacks. [SA:EAO]
+- **Warding Scales:** 1/2 of the target's natural armor bonus to AC applies against touch attacks.
 
 **1:** The hands granted by Dragon Transformation can fulfill somatic components and manipulate items, but they're not suitable for combat purposes and cannot wield weapons or shields.
 
-#### Elemental Transformation (transformation) [RW HB]
+#### Elemental Transformation (transformation)
 
 **Note:** This talent has been errata'd and replaced Elemental Transformation, Dedicated.
 
@@ -613,7 +613,7 @@ Elemental Transformation offers the following traits, which you may apply to any
 | Gargantuan | 60 feet (30 feet) |
 | Colossal | 70 feet (35 feet) |
 
-#### Object Transformation (transformation) [Origin]
+#### Object Transformation (transformation)
 
 **Limbs:** None
 **Speech:** No; **Hands:** No
@@ -645,7 +645,7 @@ Object Transformation offers the following traits, which you may apply to any fo
 - **Material Weapons:** The target’s unarmed strikes and natural weapons are treated as silver and cold iron for the purpose of bypassing damage reduction. At 10th level this improves to counting as adamantine.
 - **Spell Resistance:** The target gains spell resistance equal to 10 + caster level. This trait costs an additional spell point.
 
-#### Ooze Transformation (transformation) [Origin]
+#### Ooze Transformation (transformation)
 
 **Limbs:** none
 **Speech:** No; **Hands:** No
@@ -681,7 +681,7 @@ You may grant the form of a floating sphere, helmet, or similar shape with your 
 Orb Transformation offers the following traits, which you may apply to any form:
 
 - **Aura of Fascination:** The target projects a 30-foot aura that fascinates creatures which are near it. Such creatures must succeed at a Will save or be fascinated for as long as they remain in the aura. A creature that makes its save is immune to this effect for 24 hours. The target may choose to suppress or resume this ability as a free action. This ability ceases to function if the target is stunned, paralyzed, unconscious, dead, or otherwise incapacitated. This is a mind-affecting effect.
-- **Beam:** The target can fire a ray as a standard action. This ray is a ranged touch attack with a maximum range of 30 feet and deals 1d6 damage + 1d6 per 3 caster levels. The ray’s damage is untyped and overcomes damage reduction of any type, though hardness still applies. At 10th caster level, and every 10 caster levels thereafter, the ray’s maximum range increases by 30 feet. If you spend an additional spell point when granting this trait, the target can charge the ray as a full-round action. At any time after the ray is charged, the target can fire it as a standard action as a 100 feet line, dealing 1d6 per 2 caster levels (minimum 1d6) plus an additional amount of fire damage equal to twice your caster level (Reflex half; DC equal to the caster’s Alteration sphere DC). Firing the charged ray discharges it, and it must be charged to be fired in this manner again. [SA:EAO]
+- **Beam:** The target can fire a ray as a standard action. This ray is a ranged touch attack with a maximum range of 30 feet and deals 1d6 damage + 1d6 per 3 caster levels. The ray’s damage is untyped and overcomes damage reduction of any type, though hardness still applies. At 10th caster level, and every 10 caster levels thereafter, the ray’s maximum range increases by 30 feet. If you spend an additional spell point when granting this trait, the target can charge the ray as a full-round action. At any time after the ray is charged, the target can fire it as a standard action as a 100 feet line, dealing 1d6 per 2 caster levels (minimum 1d6) plus an additional amount of fire damage equal to twice your caster level (Reflex half; DC equal to the caster’s Alteration sphere DC). Firing the charged ray discharges it, and it must be charged to be fired in this manner again.
 - **Float:** The target may float up to 5 feet + 5 feet per 5 caster levels above the ground, moving at 30 feet + 5 feet per 5 caster levels. When falling the target may choose to descend at a slower rate to control its fall and to negate all falling damage it would take. Each round it descends 30 feet, and may move in another direction for 30 feet. It may choose to drift sideways, gliding forwards while descending, or down, safely increasing its rate of descent. It may even choose to drift ‘upwards’ to reduce its rate of descent, even allowing it to negate it entirely and hover midair.
 
 #### Plant Transformation (transformation)
@@ -697,11 +697,11 @@ You may grant the form of a plant creature with your shapeshift.
 Plant Transformation offers the following traits, which you may apply to any form:
 
 - **Barkskin:** You may grant the target a +2 natural armor bonus, which stacks with other sources of natural armor.
-- **Pollen:** As a swift action, the target can release a cloud of pollen with a radius up to 5 feet + 5 feet per 10 caster levels centered on the target which persists until the start of the target’s next turn. Creatures other than the target who begin their turn or enter the cloud of pollen are staggered for one round (Fortitude negates; DC equal to the caster’s Alteration sphere DC). A creature that succeeds at its saving throw is immune to this effect for 24 hours. The pollen trait’s effects are a poison effect; bonuses or immunities against inhaled effects function against this trait’s effects. [SA:EAO]
+- **Pollen:** As a swift action, the target can release a cloud of pollen with a radius up to 5 feet + 5 feet per 10 caster levels centered on the target which persists until the start of the target’s next turn. Creatures other than the target who begin their turn or enter the cloud of pollen are staggered for one round (Fortitude negates; DC equal to the caster’s Alteration sphere DC). A creature that succeeds at its saving throw is immune to this effect for 24 hours. The pollen trait’s effects are a poison effect; bonuses or immunities against inhaled effects function against this trait’s effects.
 - **Rigid Body:** You may grant the target a +2 natural armor bonus, +1 per 5 caster levels, which does not stack with other sources of natural armor.
-- **Sporepod:** Once per minute as a standard action, the target can launch a sporepod. Treat this as a splash weapon with a range increment of 20 feet. While a direct hit deals no damage, any creature within 10 + 5 feet per 5 caster levels from the sporepod’s point of contact is confused for 1+1d6 rounds (Will partial; DC equal to the caster’s Alteration sphere DC). A creature that succeeds at its save is sickened for 1 round instead. The sporepod is a mind-affecting poison effect. This trait costs an additional spell point. [SA:EAO]
+- **Sporepod:** Once per minute as a standard action, the target can launch a sporepod. Treat this as a splash weapon with a range increment of 20 feet. While a direct hit deals no damage, any creature within 10 + 5 feet per 5 caster levels from the sporepod’s point of contact is confused for 1+1d6 rounds (Will partial; DC equal to the caster’s Alteration sphere DC). A creature that succeeds at its save is sickened for 1 round instead. The sporepod is a mind-affecting poison effect. This trait costs an additional spell point.
 - **Strong Roots:** The target gains a bonus to CMD equal to 2 + 1 per 10 caster levels against bull rush, drag, reposition, and trip combat maneuvers or other effects which would attempt to knock the target prone or forcibly move them. This bonus doubles if the target starts and ends his turn in the same space.
-- **Thorn Spray:** As a standard action, the target can spray a volley of thorns dealing 1d4 piercing per 2 caster levels damage to all creatures in a 30-foot cone or 15-foot radius burst centered on the target (Reflex half; DC equal to the caster’s Alteration sphere DC). The target must wait at least 1d4 rounds between uses of this ability. Creatures who fail their save against this ability have thorns embedded in their body, taking a -2 penalty on Reflex saves and Dexterity-based skill checks. These penalties increase by 1 per 5 caster levels. Creatures may spend a move action that provokes an attack of opportunity to remove these thorns. [SA:EAO]
+- **Thorn Spray:** As a standard action, the target can spray a volley of thorns dealing 1d4 piercing per 2 caster levels damage to all creatures in a 30-foot cone or 15-foot radius burst centered on the target (Reflex half; DC equal to the caster’s Alteration sphere DC). The target must wait at least 1d4 rounds between uses of this ability. Creatures who fail their save against this ability have thorns embedded in their body, taking a -2 penalty on Reflex saves and Dexterity-based skill checks. These penalties increase by 1 per 5 caster levels. Creatures may spend a move action that provokes an attack of opportunity to remove these thorns.
 
 #### Serpentine Transformation (transformation)
 
@@ -739,9 +739,9 @@ Subterranean Transformation offers the following traits, which you may apply to 
 
 - A burrow speed as granted by the Subterranean form.
 - Tremorsense 20 feet.
-- **Armor Shredder:** Choose one natural attack the target possesses when granting this trait. Whenever the target hits an opponent with the chosen natural attack, the target may attempt a free sunder combat maneuver attempt against one object worn or held by the opponent (e.g. armor, shield, belt) using the original attack roll as their combat maneuver check (Reflex negates; DC equal to the caster’s Alteration sphere DC). The target does not provoke an attack of opportunity for a sunder combat maneuver attempted this way. If you spend an additional spell point when granting this trait, the target’s chosen natural attack ignores an amount of hardness equal to your caster level when dealing damage to objects. (Requires a natural attack) [SA:EAO]
-- **Burrowing Charge:** The target can perform a special charge attack by burrowing. When the target charges, they may burrow as part of the charge, resurfacing at the end of their charge in any space which the target can attack the opponent. This allows the target to charge where they might otherwise be obstructed by terrain, and allows the target to end their charge in a further square than the closest square they would otherwise be required to move to. The target must still have a clear path and line of sight to the opponent to charge. When the target resurfaces as part of this special charge attack, they may choose to violently unsettle the ground as they surface before attacking. Creatures adjacent to the target fall prone (Reflex negates; DC equal to the caster’s Alteration sphere DC). (Requires a burrow speed) [SA:EAO]
-- **Tunneling:** When traveling using its burrow speed, the target can choose to leave a tunnel that is equal to the target’s size (for example, a Large creature will leave a 10-foot tall by 10-foot wide tunnel). The tunnel lasts for one minute before collapsing. (Requires a burrow speed) [SA:EAO]
+- **Armor Shredder:** Choose one natural attack the target possesses when granting this trait. Whenever the target hits an opponent with the chosen natural attack, the target may attempt a free sunder combat maneuver attempt against one object worn or held by the opponent (e.g. armor, shield, belt) using the original attack roll as their combat maneuver check (Reflex negates; DC equal to the caster’s Alteration sphere DC). The target does not provoke an attack of opportunity for a sunder combat maneuver attempted this way. If you spend an additional spell point when granting this trait, the target’s chosen natural attack ignores an amount of hardness equal to your caster level when dealing damage to objects. (Requires a natural attack)
+- **Burrowing Charge:** The target can perform a special charge attack by burrowing. When the target charges, they may burrow as part of the charge, resurfacing at the end of their charge in any space which the target can attack the opponent. This allows the target to charge where they might otherwise be obstructed by terrain, and allows the target to end their charge in a further square than the closest square they would otherwise be required to move to. The target must still have a clear path and line of sight to the opponent to charge. When the target resurfaces as part of this special charge attack, they may choose to violently unsettle the ground as they surface before attacking. Creatures adjacent to the target fall prone (Reflex negates; DC equal to the caster’s Alteration sphere DC). (Requires a burrow speed)
+- **Tunneling:** When traveling using its burrow speed, the target can choose to leave a tunnel that is equal to the target’s size (for example, a Large creature will leave a 10-foot tall by 10-foot wide tunnel). The tunnel lasts for one minute before collapsing. (Requires a burrow speed)
 
 #### Vermin Transformation (transformation)
 
@@ -755,7 +755,7 @@ You may grant the form of a spider, insect, or other such creature with your sha
 
 Vermin Transformation offers the following traits, which you may apply to any form:
 
-- **Climb:** The target gains a climb speed, as that granted by Vermin Transformation. In addition, the target does not need to attempt Climb checks to move across a vertical or horizontal surface (even if upside down). If the target already possesses a climb speed, you may instead increase the target’s existing climb speed by +5 feet per 5 caster levels. [Errata'd in Gravecaller's HB]
+- **Climb:** The target gains a climb speed, as that granted by Vermin Transformation. In addition, the target does not need to attempt Climb checks to move across a vertical or horizontal surface (even if upside down). If the target already possesses a climb speed, you may instead increase the target’s existing climb speed by +5 feet per 5 caster levels.
 - **Poison:** One natural attack deals poison on a successful attack. (Injury, save Fort DC 10 + 1/2 Hit Dice + Constitution modifier, frequency 1/round for 6 rounds, effect 1d2 Con damage, cure 1 save).
 - **Web:** Once per minute as a standard action, the creature may throw a web, as a net with a 10 feet range increment (total range 50 feet), which is effective against targets up to 1 size larger than the creature. The Escape Artist or Strength check DC to escape is 10 + 1/2 the creator’s Hit Dice + Constitution modifier, with targets already caught suffering a -4 penalty. These webs may also be laid as a trap (Perception DC 20), covering an area up to 3x larger than the creature creating it. A 5-foot section of web has hit points equal to the creator’s Hit Dice and DR 5/-. A creature can move across its own web at its climb speed and can pinpoint the location of any creature touching its web. A web may support up to twice the weight of the creating creature.
 
@@ -773,7 +773,7 @@ When using the Swarm trait from Swarm Shape, you may reduce the size of the crea
 
 At 15th level, you may choose to reduce their size to Fine. Diminutive and Fine swarms are immune to weapon damage.
 
-#### Elemental Purity [RW HB]
+#### Elemental Purity
 
 Your magic infuses the target’s new form with the speed of powerful elementals.
 
@@ -854,7 +854,7 @@ You may spend an additional spell point to add the following trait options to yo
 
 When applying a shapeshift, you may spend 2 spell points to change your shapeshift into an instantaneous effect, permanently changing the creature into the new form. Because this is an instantaneous effect, it cannot be dispelled once placed. The target is still under the effect of a shapeshift, however, and any caster attempting to apply a new shapeshift to the target (except the original caster himself) must succeed at a magic skill check as usual; the second shapeshift replaces the first instead of adding to it. When the second shapeshift’s duration expires, the first shapeshift returns. A second application of a Permanent Transformation can be used to counter the first Permanent Transformation, returning the target to its original form. The Make Whole advanced Life talent, as well as polymorph any object, can also restore the target to its original form.
 
-#### Signature Trait [Alienist HB]
+#### Signature Trait
 
 **Prerequisites:** Alteration sphere, caster level 10th.
 

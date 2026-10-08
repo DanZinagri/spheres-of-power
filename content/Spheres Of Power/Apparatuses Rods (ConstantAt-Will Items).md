@@ -28,7 +28,7 @@ Here is a quick pricing chart for apparatuses that have the same caster level an
 | 9 | 162,000 gp | 19 | 722,000 gp |
 | 10 | 200,000 gp | 20 | 800,000 gp |
 
-### Amulet of Channeled Might [TS]
+### Amulet of Channeled Might
 
 **Aura** faint Death and Life; **CL** 3rd
 **Slot** neck or held; **Price** 18,000 gp; **Weight** 2 lbs.
@@ -45,7 +45,7 @@ This silver amulet can be held or worn around the neck. Each amulet of channeled
 **Construction Requirements**
 Craft Apparatus, Death sphere, Life sphere, each of the feats included in the amulet; **Cost** 9,000 gp
 
-### Amulet of Channeled Might, Greater [TS]
+### Amulet of Channeled Might, Greater
 
 **Aura** faint Death and Life; **CL** 4th
 **Slot** neck or Held; **Price** 32,000 gp; Weight 2 lbs.
@@ -55,7 +55,7 @@ As an amulet of channeled might, but it contains three feats instead of two. Com
 **Construction Requirements**
 Craft Apparatus, Death sphere, Life sphere, each of the feats included in the amulet; **Cost** 16,000 gp
 
-### Amulet of Soulreaving [TS]
+### Amulet of Soulreaving
 
 **Aura** faint Death and Life; **CL** 3rd
 **Slot** neck; **Price** 18,000 gp; **Weight** 1 lb.
@@ -114,7 +114,7 @@ This rod functions as a +2 light mace, but also has a button that, when pressed 
 **Construction Requirements**
 Craft Apparatus, Smith Magical Weapons And Armor, Destruction sphere; **Cost** 36,305 gp
 
-### Blurring Bandana [TS]
+### Blurring Bandana
 
 **Aura** moderate Time; **CL** 6th
 **Slot** headband; **Price** 72,000 gp; **Weight** 4 lbs.
@@ -167,7 +167,7 @@ This ornate and surprisingly weighty hip flask appears to be made out of silver,
 **Construction Requirements**
 Craft Apparatus, Warp sphere (Extradimensional Storage (space)); **Cost** 500 gp
 
-### Bracelet of Everlasting Friendship [TS]
+### Bracelet of Everlasting Friendship
 
 **Aura** moderate Protection; **CL** 6th
 **Slot** wrist; **Price** 72,000 gp; **Weight** 4 lbs.
@@ -177,7 +177,7 @@ This gold bracelet grants its wearer the Friendship aegis, which allows all of t
 **Construction Requirements**
 Craft Apparatus, Protection sphere (Friendship (aegis)); **Cost** 36,000 gp
 
-### Brawler’s Vest [TS]
+### Brawler’s Vest
 
 **Aura** moderate Enhancement; **CL** 10th
 **Slot** body; **Price** 13,000 gp; **Weight** 1 lb.
@@ -187,7 +187,7 @@ When worn, this vest allows any practitioner with at least 1 talent in an unarme
 **Construction Requirements**
 Craft Apparatus, Enhancement sphere (Natural Enhancement); **Cost** 6,500 gp
 
-### Cloak of Weather Resistance, Minor [TS]
+### Cloak of Weather Resistance, Minor
 
 **Aura** moderate Weather; **CL** 5th
 **Slot** shoulders; **Price** 20,000 gp; **Weight** 2 lbs.
@@ -197,7 +197,7 @@ Minor cloaks of weather resistance allow the bearer to treat one type of weather
 **Construction Requirements**
 Craft Apparatus, Weather sphere (Clear Skies (mantle, all)); **Cost** 10,000 gp
 
-### Cloak of Weather Resistance, Greater [TS]
+### Cloak of Weather Resistance, Greater
 
 **Aura** moderate Weather; **CL** 5th
 **Slot** shoulders; **Price** 30,000 gp; **Weight** 2 lbs.
@@ -230,7 +230,7 @@ A huge cylinder, protecting an array of magically treated focusing crystals, mou
 Craft Apparatus, Destruction sphere (Disintegrate (advanced, blast type)); **Cost** 25,000 gp
 1: Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC
 
-### Dragonstone [TS]
+### Dragonstone
 
 **Aura** moderate Alteration; **CL** 10th
 **Slot** neck; **Price** 140,000 gp; **Weight** 2 lbs.
@@ -275,7 +275,7 @@ This short metal rod fits well into the hand and is small enough that it is bare
 **Construction Requirements**
 Craft Apparatus, Telekinesis sphere (Tether); **Cost** 500 gp
 
-### Gentle Shade Trinket [Gravecaller's HB]
+### Gentle Shade Trinket
 
 **Aura** faint Dark; **CL** 7th
 **Slot** none; **Price** 3,000 gp; **Weight** 0 lb.
@@ -303,7 +303,7 @@ A gleam brush takes the form of a handheld brush with a wooden handle decorated 
 **Construction Requirements**
 Craft Apparatus, Light sphere (Style); **Cost** 100 gp
 
-### Gold Sink [TS]
+### Gold Sink
 
 **Aura** faint Creation; **CL** 10th
 **Slot** none; **Price** varies (see text); **Weight** varies (see text)
@@ -335,7 +335,7 @@ This exquisitely made fiddle bears fine carvings depicting fey and mortals cavor
 **Construction Requirements**
 Craft Apparatus, Fallen Fey sphere, Mind sphere; **Cost** 4,200 gp
 
-### Headband of Psionic Reach [TS]
+### Headband of Psionic Reach
 
 **Aura** faint Mind; CL 3rd
 **Slot** headband; **Price** 18,000 gp; **Weight** 1 lb.
@@ -457,7 +457,7 @@ This feather quill is perpetually supplied with ink, creating enough to write co
 **Construction Requirements**
 Craft Apparatus, Creation sphere; **Cost** 40 gp
 
-### Ring of Elemental Conflux [TS]
+### Ring of Elemental Conflux
 
 **Aura** faint Destruction; **CL** 3rd
 **Slot** ring; **Price** 18,000 gp; **Weight** 1 lb.
@@ -467,7 +467,7 @@ This shiny silver ring contains a single (blast type) talent that the wearer can
 **Construction Requirements**
 Craft Apparatus, Destruction sphere (any (blast type) talent); **Cost** 9,000 gp
 
-### Rod of Lifegiving [TS]
+### Rod of Lifegiving
 
 **Aura** moderate Life; **CL** 6th
 **Slot** none; **Price** 72,000 gp; **Weight** 4 lbs.
@@ -492,7 +492,7 @@ The length of this cold iron rod is covered in intricate runes. The wielder of t
 **Construction Requirements**
 Craft Apparatus, Creation sphere; **Cost** 5,000 gp
 
-### Scourging Symbol [TS]
+### Scourging Symbol
 
 **Aura** strong War; **CL** 20th
 **Slot** any; **Price** 80,000 gp; **Weight** 2 lbs.
@@ -598,7 +598,7 @@ The ashes of a great sage or wise man have been stored in this bauble, allowing 
 **Construction Requirements**
 Craft Apparatus; **Cost** 3,000 gp
 
-### The Golden Flute [TS]
+### The Golden Flute
 
 **Aura** strong Death, Destruction and Life; **CL** 20th
 **Slot** none; **Price** 200,000 gp; **Weight** 4 lbs.
@@ -632,7 +632,7 @@ A large cylinder, one end flared into a dish shape, mounted on a wheeled carriag
 **Construction Requirements**
 Craft Apparatus, Destruction sphere (Shattering Blast (blast type, sonic)); **Cost** 12,000 gp
 
-### Tome Of Very Forbidden Lore [TS]
+### Tome Of Very Forbidden Lore
 
 **Aura** moderate Divination; **CL** 3rd
 **Slot** none; **Price** 18,000 gp; **Weight** 3 lbs.
@@ -657,7 +657,7 @@ The tower can only strike one target per round in this manner, and will always s
 **Construction Requirements**
 Craft Apparatus, Destruction sphere, Protection sphere; **Cost** 127,500 gp
 
-### Voice Shifter [Wiki]
+### Voice Shifter
 
 **Aura** moderate Illusion; **CL** 6th
 **Slot** neck; **Price** 4,000 gp; **Weight** 2 lbs.
@@ -692,7 +692,7 @@ Craft Apparatus, Warp sphere (Teleport Beacon (space)); **Cost** 10,000 gp
 
 # Mythic Apparatuses
 
-### Doomguard [MCS]
+### Doomguard
 
 **Aura** moderate Fate; **CL** 10th
 **Slot** neck; **Price** 160,000 gp; **Weight** 1 lb.
@@ -704,7 +704,7 @@ The doom’s circumstances must be chosen when this item is crafted, but the eff
 **Construction Requirements**
 Craft Apparatus, Mythic Crafter, Fate sphere (Echoing Word [mass], Elude Fate (advanced)); **Cost** 80,000 gp
 
-### Fairy Monarch’s Brooch [MCS]
+### Fairy Monarch’s Brooch
 
 **Aura** faint Fallen Fey; **CL** 5th
 **Slot** chest; **Price** 40,000 gp; **Weight** 1/10 lb.
@@ -714,7 +714,7 @@ This slim wooden badge is covered in intricate sylvan runes. As a standard actio
 **Construction Requirements**
 Craft Apparatus, Mythic Crafter, Fallen Fey sphere (Fairy Ring Traveler (advanced)), creator must have the fey creature type; **Cost** 20,000 gp
 
-### Vision Beyond Vision [MCS]
+### Vision Beyond Vision
 
 **Aura** faint Divination; **CL** 5th
 **Slot** none; **Price** 50,000 gp; **Weight** 2 lbs.

@@ -103,7 +103,7 @@ At 2nd level and every 2 levels thereafter, the warden gains new ways of defendi
 
 The warden gains the [[Shield]] sphere as a bonus sphere. Additionally, at 5th level, the warden’s projected empathy class feature may also be used with his Shield sphere abilities.
 
-#### Champion Feat [EO3]
+#### Champion Feat
 
 The warden gains a champion feat as a bonus feat. This reinforcement may be taken multiple times. Each time it is taken, he selects another champion feat.
 
@@ -111,7 +111,7 @@ The warden gains a champion feat as a bonus feat. This reinforcement may be take
 
 The warden gains the Defend Other talent from the Guardian sphere. Additionally, when he has his martial focus, the warden may use his Defend Other talent by expending an attack of opportunity instead of an immediate action.
 
-#### Defended Companionship [BTH]
+#### Defended Companionship
 
 The warden gains one of the following spheres as a bonus talent: Beastmastery, Conjuration, Death, Leadership. The warden may grant his guard to one of his subordinates which does not count against the total number of guarded allies the warden may have at one time.
 
@@ -135,15 +135,15 @@ The warden becomes immune to any unwilling teleportation effects, and may reduce
 
 The warden’s guarded allies may roll any saving throws against teleportation effects twice and take the highest result, and may reduce any forced movement by 10 feet, to a minimum of 0 feet. These benefits last for the duration of the guard.
 
-#### Guard-Boosted Companions (requires defended companionship, warden 10) [BTH]
+#### Guard-Boosted Companions (requires defended companionship, warden 10)
 
 The warden’s guarded subordinates gain an insight bonus on attack rolls, saving throws, and skill checks equal to his guard bonus - 2 (minimum 1).
 
-#### Keep Them Safe From Afar (requires warden 6) [EO3]
+#### Keep Them Safe From Afar (requires warden 6)
 
 The range of the warden’s projected empathy class feature increases by 10 feet for every 2 warden levels he possesses. Special: If the warden does not possess the projected empathy class feature, they instead gain the projected empathy class feature when he chooses this reinforcement.
 
-#### Purring Guard [Catgirl HB]
+#### Purring Guard
 
 The warden gains a purring feat as a bonus feat. In addition, the warden’s guarded allies are treated as being within the warden’s purring aura for the purposes of receiving benefits so long as the warden has line of sight to that ally.
 
@@ -249,7 +249,7 @@ A warden of acceptance is aware of the inevitability of death, and despite comin
 
 The warden gains the ability to channel positive energy, as the cleric class feature. The warden uses his class level -2 (minimum 1) as his cleric level, and may channel positive energy a number of times per day equal to 1 + his casting ability modifier (minimum 1).
 
-## Adaptability [EO3]
+## Adaptability
 
 A warden of adaptability is incredibly versatile, changing and shifting their strategies in a moment’s notice. These wardens are resourceful and skilled, tending to adapt their allies to dangerous situations and environments.
 
@@ -307,7 +307,7 @@ The warden’s guarded allies gains a circumstance bonus to Diplomacy and Heal c
 
 Whenever the warden’s guarded allies would be inflicted with the blinded, confused, dazed, dazzled, exhausted, fascinated, fatigued, nauseated, paralyzed, sickened, staggered, or stunned condition, the warden may instead inflict this condition on himself instead of his ally as an immediate action. This ability does not function if the warden would be immune to the condition he is attempting to transfer.
 
-## Confidence [AoP2]
+## Confidence
 
 A warden of confidence is incredibly secure and confident, or at least, shows enough confidence to be inspirational to his allies. These wardens are more focused on themselves than most wardens, but always act as a source of inspiration and assurance for their allies, even if they do get in the way sometimes.
 
@@ -327,11 +327,11 @@ A warden of confidence is incredibly secure and confident, or at least, shows en
 
 ### Vigil Reinforcements
 
-#### Close to the Heart (requires confidence, Gladiator sphere) [AoP2]
+#### Close to the Heart (requires confidence, Gladiator sphere)
 
 The warden gains the Motivational Audience Gladiator talent as a bonus talent. If the ally that would perform an action that would allow the warden to boast is the warden’s guarded ally, the warden does not have to expend his martial focus when using the Motivational Audience talent.
 
-#### Share the Spotlight (requires confidence, Gladiator sphere, warden 4) [AoP2]
+#### Share the Spotlight (requires confidence, Gladiator sphere, warden 4)
 
 Whenever the warden would use a boast that would normally affect himself (and only himself), he may spend an attack of opportunity (in addition to the regular action cost of the boast) to instead have the boast affect an ally within his boast range, as if they were the one who used the boast (still using the warden’s statistics). If the chosen ally is his guarded ally, he does not need to spend the attack of opportunity as part of using this reinforcement.
 
@@ -361,7 +361,7 @@ As a move action, the warden’s guarded allies may suspend the benefits of his 
 
 The warden’s guarded allies gains a bonus to CMB equal to his guard bonus.
 
-## Diligence [LotS]
+## Diligence
 
 A warden of diligence applies harsh scrutiny to those around them, always being unsure as to another person's motives and goals. These wardens are usually protectors of knowledge or important people in a less combative manner, although it would be foolish to think that they lacked in combat due to their focus.
 
@@ -600,7 +600,7 @@ Whenever the warden would use his primal bulwark vigil ability, he may spend an 
 
 The warden’s guarded allies double the bonus to their CMD granted by guard against bull rush, overrun, reposition, and trip attempts.
 
-## Subtlety [EO3]
+## Subtlety
 
 A warden of subtlety treads carefully in any given situation, and is keenly aware of how discretion can save a life. These wardens are careful and quiet, typically employing ‘underhanded’ tactics to ensure their allies remain safe.
 
@@ -632,7 +632,7 @@ Whenever the jailer uses his detain ability, on a failed save, the creature’s 
 
 The warden and his guarded allies can spend a swift action to hide an object on themselves using Sleight of Hand (instead of a standard action), or an immediate action by taking a -5 penalty to the attempt.
 
-## Urgency [AoP2]
+## Urgency
 
 A warden of urgency is a manipulator of space and reality, commonly in an attempt to ensure that they are always by their allies’ side. These wardens are experts in manipulating and distorting the battlefield, teleporting into battle and distorting reality around them.
 
@@ -654,11 +654,11 @@ Additionally, the warden and his guarded allies may use his warp beacon vigil ab
 
 ### Vigil Reinforcements
 
-#### Boon of Extrication (requires urgency, Warp sphere) [AoP2]
+#### Boon of Extrication (requires urgency, Warp sphere)
 
 The warden gains the Imbue Teleport Warp talent as a bonus talent. If the warden imbues a teleport on a guarded ally, it lasts for as long as the guarded ally is guarded.
 
-#### Desperate Shift (requires urgency, warden 4, Warp sphere) [AoP2]
+#### Desperate Shift (requires urgency, warden 4, Warp sphere)
 
 As part of beginning his guard, the warden may expend an attack of opportunity to teleport his guarded ally or himself up to 20 feet, plus 5 feet per 5 warden levels you possess.
 
@@ -754,7 +754,7 @@ The following feats are particularly appropriate or useful for wardens.
 
 The following magical items are especially appropriate for wardens.
 
-#### Focusing Gauntlets [TS:WAT]
+#### Focusing Gauntlets
 
 **Aura** moderate Protection; **CL** 7th
 **Slot** hands; **Price** 14,000 gp; **Weight** 3 lbs.
@@ -764,7 +764,7 @@ These firm gauntlets help improve the user’s ability to focus on tasks. When a
 **Construction Requirements**
 Craft Apparatus, Protection sphere, creator must have the focusing guard class feature; **Cost** 7,000 gp
 
-#### Reinforcing Wraps [TS:WAT]
+#### Reinforcing Wraps
 
 **Aura** moderate Protection; **CL** 8th
 **Slot** chest; **Price** 15,000 gp; **Weight** 2 lbs.

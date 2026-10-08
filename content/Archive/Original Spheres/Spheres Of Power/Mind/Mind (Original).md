@@ -24,7 +24,7 @@ You gain the ability to alter the minds of others, causing them to act as you se
 | Ancient Dragon | Eat an annoying humanoid | Eat an unassuming humanoid. | Give up a valuable item. | Give up its hoard. |
 | Middle-Aged Farmer | Eat lunch | Give a kind stranger a meal and a hayloft to sleep in. | House and feed a squadron of questionable men, help a team of adventurers as a cook and porter on their quests. | House wanted criminals, allow the kidnapping of his family, take up arms and become a soldier. |
 
-# Charm [Core]
+# Charm
 
 *Source: [Spheres of Power](https://www.drivethrurpg.com/product/129448/Spheres-of-Power?affiliate_id=549120)*
 
@@ -36,7 +36,7 @@ You may place charms on creatures. Charms require a standard action to use and h
 
 When you gain the Mind sphere, you gain the following charm:
 
-#### Suggestion [Core]
+#### Suggestion
 
 You may plant thoughts into a target’s mind.
 
@@ -56,7 +56,7 @@ Talents marked with the (cloud) tag allow the caster to create clouds of mental 
 
 An imbued area may either be 10 ft. in radius + an extra 5 ft. per caster level, or a 10-ft. wide area that extends for a length of 10 ft. + 10 ft. per caster level (such as would be appropriate to fill a 10 ft. wide hallway). Establishing a cloud requires a standard action that provokes attacks of opportunity. As with charms, most clouds have three strengths; lesser, greater, and powerful. Spell point expenditures remain the same for the three strengths, and you may only affect a creature with a cloud if you could also affect it with a charm. Similarly, the Powerful Charm talent is required to use the powerful versions of clouds and you may only imbue the same item, creature, or area with a lesser cloud once per day. With the exception of Group Charm, cloud talents are affected by talents that affect charms.
 
-# Cognition [Apoc]
+# Cognition
 
 Some talents are marked (cognition). These talents grant you additional mental powers, increasing your ability to analyze and think. All (cognition) talents are personal range, benefiting only the person that uses them.
 
@@ -64,23 +64,23 @@ Some talents are marked (cognition). These talents grant you additional mental p
 
 # Mind Talents
 
-#### Expanded Charm [Core]
+#### Expanded Charm
 
 Your charms may affect any creature with a mind susceptible to mind-altering effects. Creatures without living minds (constructs, undead, oozes, vermin) are still immune.
 
-#### Group Charm [Core]
+#### Group Charm
 
 You may spend a spell point when using a charm to affect up to 1 additional creature per 2 caster levels (minimum: 1). Each target must be within range and must be affected by the same charm effect.
 
-#### Powerful Charm [Core]
+#### Powerful Charm
 
 You may spend 2 spell points to use the Powerful charm version of any charm you possess.
 
-#### Ranged Mind [Core]
+#### Ranged Mind
 
 Increase the range you may charm targets by 1 step (Close to Medium, Medium to Long). You may select this talent multiple times. The effects stack.
 
-#### Share Cognition [Apoc]
+#### Share Cognition
 
 As a standard action, you can grant a single target within close range the ability to use a (cognition) talent you possess, using your caster level and casting modifier to determine its effects. For every ten caster levels you possess, you may bestow an additional (cognition) talent (two talents at 10th, three at 20th).
 
@@ -88,7 +88,7 @@ They retain this ability for as long as you concentrate, though you may spend a 
 
 If you possess the Ranged Mind talent, it increases the range of this ability.
 
-#### Subtlety [Core]
+#### Subtlety
 
 If a target succeeds on their save against one of your charms, they must immediately pass a second Will save. If they fail this second save, they do not realize they were the subject of an attempted mental assault.
 
@@ -136,7 +136,7 @@ You unleash a storm of psychic energy that invades the mind of your subject.
 
 *Powerful Charm:* The force of your mental assault causes a physiological backlash in the target, along with self-inflicted wounds. You deal 1d8 points of nonlethal damage per 2 caster levels (no save) and 1d8 + 1 per 6 caster levels of ability damage to your choice of the target’s Intelligence, Wisdom, or Charisma (Will halves).
 
-#### Command (charm) [Core]
+#### Command (charm)
 
 You may directly control another creature’s body.
 
@@ -146,7 +146,7 @@ You may directly control another creature’s body.
 
 *Powerful Charm:* This is the same as the Command greater charm, except the target is not limited to a single standard action or move action each round.
 
-#### Confusion (charm) [Core]
+#### Confusion (charm)
 
 You may unravel a creature’s mind and make them behave erratically.
 
@@ -156,7 +156,7 @@ You may unravel a creature’s mind and make them behave erratically.
 
 *Powerful Charm:* This is the same as the Confusion greater charm, except in addition to being confused, the target also suffers a -2 penalty to their caster level and a -4 penalty to all their mental ability scores.
 
-#### Courage (charm) [Core]
+#### Courage (charm)
 
 You inspire the target to great action.
 
@@ -176,7 +176,7 @@ You can make it harder for a target to concentrate on using their magic.
 
 *Powerful Charm:* As the greater charm, though the effect persists even if the target fails a concentration check, lasting for up to a maximum duration of a number of rounds equal to your caster level.
 
-#### Enthrall (charm) [Core]
+#### Enthrall (charm)
 
 You cause a creature to regard you as its friend. If you or your allies are attacking or threatening the creature, they gain a +5 bonus to their saving throw against this charm. A DC 25 Sense Motive check reveals the target of this charm has been enchanted. This is an enchantment (charm) effect instead of an enchantment (compulsion) effect.
 
@@ -186,7 +186,7 @@ You cause a creature to regard you as its friend. If you or your allies are atta
 
 *Powerful Charm:* This functions as the Enthrall greater charm, except the duration increases to 1 hour per caster level.
 
-#### Fear (charm) [Core]
+#### Fear (charm)
 
 You may warp a target’s mind with fear.
 
@@ -208,7 +208,7 @@ In addition, you may impose a circumstance penalty to any of the target’s skil
 
 *Powerful Charm:* In addition to the effects of the lesser and greater charms, you gain nearly full control over the quick gestures and movements of the target. If your target threatens a square where another creature provokes an attack of opportunity, you may force the target to take an attack of opportunity against that target if they have any attacks of opportunity remaining (this counts as one of your attacks of opportunity). You may force the target to move up to half of its move speed in any direction that you wish. You may also use the target to provide the somatic components for your own magical effects, and even make the target the origin point of those effects so long as only somatic components are required. (Casters with the Utterances talent may include verbal components with no extra save required). You may also allow this magic to work in either direction, allowing a willing target to control you or vice versa (for example, a friendly rogue might pick a lock that only you can reach using your hands, or you might use your own painting skills to paint a picture through a friendly paladin’s hands to impress a dignitary).
 
-#### Hostility (charm) [Core]
+#### Hostility (charm)
 
 You cause the target to enter a blinding rage.
 
@@ -238,7 +238,7 @@ Encountering evidence that contradicts the new memory allows a new Will save to 
 
 A target’s false memories may only be removed or proven false through the Life sphere’s Break Enchantment effect if the caster also possesses the Restore Mind talent, or through the wish or miracle spells. The target’s memory may also be replenished through the Amnesia talent’s powerful charm being used to specifically make the target realize what memories are faulty.
 
-#### Inspiration (charm) [Core]
+#### Inspiration (charm)
 
 You inspire competence in the target.
 
@@ -268,7 +268,7 @@ You can send a piece of your mind into your target to see the world through thei
 
 *Powerful Charm:* As the greater charm, but you can use their senses for 1 hour per caster level, and the link lasts for 1 week per caster level.
 
-#### Paralyze (charm) [Core]
+#### Paralyze (charm)
 
 You freeze the target in place.
 
@@ -278,7 +278,7 @@ You freeze the target in place.
 
 *Powerful Charm:* This is the same as the Paralyze greater charm, except the target is paralyzed instead of stunned.
 
-#### Project Thoughts (charm) [Core]
+#### Project Thoughts (charm)
 
 You can communicate directly into the mind of another.
 
@@ -288,7 +288,7 @@ You can communicate directly into the mind of another.
 
 *Powerful Charm:* Your projected telepathic message does not have a word limit, although communication is carried out in real time and you must concentrate for as long as you communicate. You can communicate with the target even without a shared language.
 
-#### Read Mind (charm) [Core]
+#### Read Mind (charm)
 
 You can pull information from a target’s mind.
 
@@ -298,7 +298,7 @@ You can pull information from a target’s mind.
 
 *Powerful Charm:* You may pull a specific piece of information out of a creature’s mind (Will negates). This is usually enough information to answer a single, specific question to the best of that creature’s knowledge, in no more than 25 words. A creature who successfully saves against this powerful charm may choose to provide no answer to your question or attempt to lie with their Bluff skill. If you use this powerful charm twice on the same creature to ask the same question, the same answer (correct, no answer or lie) is given again.
 
-#### Sleep (charm) [Core]
+#### Sleep (charm)
 
 You put the target to sleep.
 
@@ -318,7 +318,7 @@ You tamper with a mind’s language center, and the muscles controlling speech t
 
 *Powerful Charm:* Your control over the speech of the target is fluid and nearly flawless. In addition to the effects of the lesser and greater charms you may make the target speak so eloquently that you may roll a Bluff, Diplomacy, Intimidate, or Perform check through them using your own ranks instead of its own, provided that the check in question is vocal in nature. You may also make use of the target’s skills in these ranks yourself, borrowing the talent or, if you wish, allowing the target to directly speak through you. You may also use magic that requires verbal components (but no other components) through the target, as if the magic originated from the target’s space. Casters with the Gestures talent may include somatic components with no extra save required.
 
-#### Vision (charm) [Core]
+#### Vision (charm)
 
 You may make someone see things that are not there.
 
@@ -380,7 +380,7 @@ You imbue an area to persuade travelers to wander elsewhere.
 
 # Cognition Talents
 
-#### Arcane Calculation (Cognition) [Apoc]
+#### Arcane Calculation (Cognition)
 
 When you use Perception to intentionally search for stimuli (typically a move action), you may measure a single aspect of whatever you perceive. You may calculate this aspect with perfect accuracy depending on how your Perception check compares to the DC to perceive it, requiring higher results to estimate from vague or incomplete information (see the table below).
 
@@ -393,11 +393,11 @@ Alternately, you may focus on a target you wish to attack as a standard action. 
 | DC + 5 | Number of people from their footsteps, distance from a singing bird |
 | DC + 10 | Distance from smelled food, number of soldiers milling in an army |
 
-#### Intuit Knowledge (Cognition) [Apoc]
+#### Intuit Knowledge (Cognition)
 
 You may spend a spell point as a full-round action to gain temporary understanding of a subject. This allows you to use half your caster level in place of your ranks in one Knowledge or Profession skill, chosen when you use this ability. This effect grants you the ability to use the skill as if you were trained, and lasts for 1 hour per caster level. Multiple applications of this effect do not stack, the latest effect replaces the previous one.
 
-#### Mental Archive (Cognition) [Apoc]
+#### Mental Archive (Cognition)
 
 You construct a magical mental system to perfectly memorize information. By concentrating as long it requires to perceive something (such as the duration of a speech or while reading a book), you can archive it. Once a memory is archived you can concentrate to remember it. This can allow you to notice new details by attempting Perception checks. This does not allow you to use senses or similar abilities that you did not use or possess at the time of memorization (such as a Divination sphere effect, or blindsight).
 
@@ -405,19 +405,19 @@ You can archive a number of memories equal to your casting ability modifier + 1 
 
 **Tracking Memories:** Mental Archive allows characters to store and replace memories, which can require keeping track of. It is recommended that players keep a clear list of what they have temporarily and permanently memorized.
 
-#### Parallel Cognition (Cognition) [Apoc]
+#### Parallel Cognition (Cognition)
 
 As a standard action you can divide your mental attention to gain two sets of actions each turn, one physical and one mental.
 
 Your physical actions are limited to a simple, repetitive task (such as following a road, loading a cart, or digging a hole) or a task that exactly follows detailed instructions (such as playing from sheet music or cooking from a recipe). You cannot effectively engage in combat: you lose your Dexterity bonus to armor class and automatically miss against targets with an AC greater than 10. Your mental actions can be any purely mental actions, such as using magic without verbal or somatic components, attempting Perception, Knowledge, Sense Motive, or similar skill checks. As a standard mental action you can change what task your physical body is assigned to or end this effect.
 
-#### Polyglot (Cognition) [Apoc]
+#### Polyglot (Cognition)
 
 As a standard action you may gain a rough understanding of a target’s language. You can grasp basic concepts (such as ‘danger,’ ‘help,’ or ‘wait’) but not complex details. This also allows you to communicate in the same language as long as you continue concentrating, though with the same limitation to basic concepts. The effects of this last for as long as you concentrate.
 
 By spending a spell point, you may understand and communicate in a target’s language without any limitations and maintain the effect without concentration for 1 hour per caster level. The effects of this talent apply to all mediums of communication (such as spoken, signed, or written) but you only understand the mediums you observe (so you cannot write a language you have only heard, or speak a language you have only read).
 
-#### Rapid Processing (Cognition) [Apoc]
+#### Rapid Processing (Cognition)
 
 You can analyze information with a glance. As a swift or move action you can read up to 500 words or analyze a complex work of art, value an item with Appraise, get a hunch or sense enchantment with Sense Motive, search for tracks with Survival, or intentionally search with Perception.
 
@@ -439,7 +439,7 @@ Click the header above to visit the Advanced Talents page. This page includes ta
 
 In addition, Advanced Talents for this sphere include the following:
 
-#### Epiphany (Cognition) [Apoc]
+#### Epiphany (Cognition)
 
 **Prerequisites:** Mind sphere (Intuit Knowledge), caster level 5th.
 
@@ -447,7 +447,7 @@ When you attempt an ability or skill check to gain information (such as a Knowle
 
 On a failed check you still learn the information a basic success would have revealed. However, the GM may then remove a single detail from the information gained or reveal a piece of false information alongside true information (such as revealing a real ability of a monster and a fake vulnerability during a monster lore check, or telling a player all the rules of etiquette for a situation except for one).
 
-#### Flawless Precision (Cognition) [Apoc]
+#### Flawless Precision (Cognition)
 
 **Prerequisites:** Mind sphere (Arcane Calculation, Rapid Processing), caster level 10th.
 

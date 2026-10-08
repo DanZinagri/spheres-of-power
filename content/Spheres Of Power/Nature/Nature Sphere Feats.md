@@ -49,7 +49,7 @@ When using metal geomancing talents or abilities limited by your Recover Ore siz
 
 **Benefit:** You may read and use an alchemist’s formulae book, creating extracts for use during the day as an alchemist does. You must have a caster level with the entire Nature sphere equal to 3x the level of the extract, and use your Nature caster level as your caster level for the extracts. You must spend 1 spell point per level of the created extract, and only you can drink the extract to gain its effects.
 
-#### Hemothermia (Dual Sphere) [BaP]
+#### Hemothermia (Dual Sphere)
 
 **Prerequisites:** Blood sphere (any (blood art)), Nature sphere.
 
@@ -79,7 +79,7 @@ When using metal geomancing talents or abilities limited by your Recover Ore siz
 
 **Benefit:** Whenever you use the Create Fire or Affect Fire geomancing ability, you may also cause the fire to glow. You may maintain concentration of this (fire) geomancing ability and the bright light of the glow with a single action.
 
-#### Mage Of Ice And Rime [BaP]
+#### Mage Of Ice And Rime
 
 **Prerequisites:** Nature sphere ((water) package, Water Mastery).
 
@@ -93,7 +93,7 @@ In addition, you gain the following benefits to the corresponding Nature sphere 
 - **Nature Sight:** While under the effects of the Nature Sight (water) package effect, you may treat snow and ice as though it were a body of water, allowing you to detect anything in contact with the same body of snow or ice as you, and may see normally in natural or magical rain, sleet, hail, fog, snowstorms, blizzards, and other similar weather conditions.
 - **Wreath Of Elements:** Instead of the Wreath Of Elements (water) package effect, you assault a creature with a frozen gale. A target within your reach takes a penalty on their next attack roll, Perception check, or concentration check equal to -2 plus an additional -1 per 5 caster levels (Fortitude negates).
 
-#### Mage of Spore and Fungus [DRS]
+#### Mage of Spore and Fungus
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -117,7 +117,7 @@ See [[General Feats]] for the full feat .
 
 **Benefit:** Whenever you enhance a creature, you may also imbue the target with a non-instantaneous spirit ability. The target must be a valid choice for both the enhancement and spirit ability; you may only target yourself if you cannot target others. In addition, you may maintain concentration on the enhancement and the spirit ability with a single action.
 
-#### Primal Admixture (Admixture) [3PP]
+#### Primal Admixture (Admixture)
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -160,7 +160,7 @@ See [[General Feats]] for the full feat .
 
 **Benefit:** When using any Nature sphere ability that deals cold or fire damage, you may change the damage to half cold damage and half fire damage.
 
-#### Supernatural Elements (Dual Sphere) [DbH]
+#### Supernatural Elements (Dual Sphere)
 
 The diverse powers of nature are yours to distort.
 
@@ -198,7 +198,7 @@ Plant and animal matter are equally suitable focuses for your magic.
 
 **Benefit:** You gain the benefits of Water Creature as a (spirit) talent; you may use them at any time without needing to activate a fey-blessing first. The range of these abilities becomes equal to your geomancing range, and you may use the higher of your Nature (water) and Fallen Fey caster levels.
 
-#### Wildspeaker [BaP]
+#### Wildspeaker
 
 **Prerequisites:** Nature sphere (Speak With Wildlife (spirit)).
 

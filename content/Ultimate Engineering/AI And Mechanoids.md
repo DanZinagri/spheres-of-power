@@ -254,7 +254,7 @@ An AI can be taught a task from the following list, with other tasks available s
 
 **Work (DC 10):** The AI engages in basic menial labor or performs basic entertaining tricks or performances. If the AI has skill points in Craft, Perform, or Profession it will engage in said skills.
 
-### Lesser AI [DRS]
+### Lesser AI
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 Some AI classifications, such as the drone and bestial classifications, are less difficult to maintain than regular AI (allowing a character to maintain two of these classifications in place of a single AI). Such AI classifications are referred to as a “**lesser AI**”.
@@ -449,7 +449,7 @@ A *mechanoid* can be crafted with up to 5 upgrades, +1 additional upgrade for ev
 
 A *mechanoid* uses its crafter’s practitioner modifier when determining the effects of upgrades that would use a practitioner modifier (such as the *mechanoid’s* gizmo DC, etc.).
 
-#### Advanced Innate Gizmos [DRS]
+#### Advanced Innate Gizmos
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
@@ -499,7 +499,7 @@ A *mechanoid* can ordinarily be piloted with exterior controls (such as wheels, 
 
 *Unpiloted Mechanoids*: An unpiloted *mechanoid* is treated as an attended (or unattended) gizmo and is otherwise interacted with as an object. A *mechanoid* is still entitled to saving throws as a gizmo and, if activated, benefits from any passive defensive benefits it normally would (damage reduction, effects from innate personal field gizmos, etc.).
 
-### Mechanoids and Effects [DRS]
+### Mechanoids and Effects
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 A *mechanoid* is uniquely both an object and a creature (while piloted).
@@ -552,7 +552,7 @@ Certain abilities do not grant their effects to the *mechanoid* (subject to GM d
 
 A destroyed *mechanoid* provides no benefits to its pilot or passengers. Its upgrades, innate gizmos, and other properties immediately cease functioning. By GM discretion, a sufficiently large destroyed *mechanoid* may be used as soft cover or cover (or be treated as a structure).
 
-### Rudimentary Bodies [DRS]
+### Rudimentary Bodies
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 

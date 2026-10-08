@@ -19,7 +19,7 @@ parent: "[[Protection]]"
 
 When creating a non-trick glamer you may also grant the effects of a single aegis you possess to the target. The aegis effect added this way uses the duration of the glamer instead of its normal duration. This is not an actual aegis and does not provide any other benefits, such as those granted by the Status talent of the Protection sphere.
 
-#### Catty Observer [Catgirl HB]
+#### Catty Observer
 
 “She brings the food on a regular basis, delivering the fine dry cubes of nourishment to my bowl. She is worth protecting.” – Meowlin the Omnicatster
 
@@ -97,7 +97,7 @@ The ally must be willing or unconscious. This may be done in response to an atta
 - **Shadow Cage:** *Wards* you create are treated as a *gloom* you created for the purposes of other abilities and effects (such as your *cloak* ability and conflicting with light effects); this does not alter the light level or carry any other effects of your *gloom*. Whenever you create a *ward*, you may spend 1 spell point to add a *gloom*’s effects to the *ward*’s area, paying any additional spell point costs for the *gloom* or its options as appropriate.
 - **Umbral Protection:** Whenever you grant an *aegis* to a creature, you may spend 1 spell point to add a *cloak* modified with a (meld) to that *aegis*, paying any additional spell point costs for the *cloak* or its options as appropriate.
 
-#### Homeguard Magic (Dual Sphere) [Archmagi's HB]
+#### Homeguard Magic (Dual Sphere)
 
 **Prerequisites:** Mana sphere, Protection sphere.
 
@@ -115,7 +115,7 @@ The ally must be willing or unconscious. This may be done in response to an atta
 
 **Benefit:** As a swift action, you may make an ally glow if they are bearing an aegis you created. You must use a separate action to make them glow brightly, and the duration of the glow does not change.
 
-#### Malediction (Dual Sphere) [3PP]
+#### Malediction (Dual Sphere)
 
 **Prerequisites:** Fate sphere, Protection sphere (Punishment)
 
@@ -129,7 +129,7 @@ The ally must be willing or unconscious. This may be done in response to an atta
 
 **Benefit:** When you create an aegis on yourself, you may use your base attack bonus as your caster level for the purpose of effect (but not duration). If you use a (succor) talent on this aegis, you may also use your base attack bonus as your caster level for the succor.
 
-#### Plexing Boon (Dual Sphere) [3PP]
+#### Plexing Boon (Dual Sphere)
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 

@@ -76,7 +76,7 @@ At 2nd level and every 4 levels thereafter, a mageknight gains a new way to enha
 
 Each time she gains mystic combat, she chooses and gains one of the following abilities.
 
-#### Arcane Strike [Core]
+#### Arcane Strike
 
 You gain the Arcane Strike feat, and treat your mageknight level as your caster level when determining its effects.
 
@@ -99,11 +99,11 @@ You gain a lesser cù-sìth as a companion (see the [[Sphere Bestiary]]). This f
 Baleful Howl (Su): As a standard action, the cù-sìth can release a howl of ill omen. All enemies within 60 ft. take a -4 penalty to saves against curse and death effects and against the cù-sìth’s Soul Shepherd ability, as well as a -4 penalty to AC. These penalties last for 5 rounds. These penalties are reduced to -1 and last only a single round with a successful Will save (DC 23). This is a sonic curse effect.
 Note that the DC 23 is from the ability in the bestiary. The DC of a cù-sìth companion's baleful howl is determined by the Mageknight's level and Charisma.
 
-#### Bleeding Wounds [Core]
+#### Bleeding Wounds
 
 You may spend a spell point as a swift action to inflict bleed damage equal to 1/2 your mageknight level (minimum: 1) with every attack for a number of rounds equal to your casting ability modifier. Bleed damage does not stack.
 
-#### Bloodlust [Core]
+#### Bloodlust
 
 You may spend a spell point as a standard action to increase your damage dealt to creatures depending on how many times you’ve hit them. For 1 round per level, whenever you successfully strike an opponent with a weapon or natural attack, you gain a cumulative +1 bonus on future damage rolls, to a maximum equal to your class level. If you miss with an attack, the bonus to damage for all opponents resets to +0.
 
@@ -111,7 +111,7 @@ You may spend a spell point as a standard action to increase your damage dealt t
 
 Whenever you confirm a critical threat against an opponent, you gain 1 additional attack of opportunity that can be taken at any time before the start of your next turn. In addition, you gain a +2 competence bonus on attack rolls made as part of an attack of opportunity.
 
-#### Champion [CS]
+#### Champion
 
 The mageknight gains a Champion feat of her choice as a bonus feat. She must meet the prerequisites of the feat. This mystic combat can be gained multiple times.
 
@@ -127,7 +127,7 @@ You gain the [[Time]] sphere as a bonus talent (or one talent from the Time sphe
 
 You can treat any armor you wear as having the collapsible special ability, except that you may collapse or recall the armor as a swift action instead of a full-round action, and you may choose which piece the armor collapses into each time you use this ability. You may spend a spell point to collapse or recall your armor as a free action instead of a swift action.
 
-#### Combat Talent [CS]
+#### Combat Talent
 
 You gain a bonus combat talent. This mystic combat may be taken more than once, granting an additional talent each time.
 
@@ -139,11 +139,11 @@ As a swift action, you may spend a spell point to charge your next attack with d
 
 Your mystic defense class feature also gives you resistance to acid, cold, electricity, fire, and sonic damage. Source: The Abjurer's Handbook
 
-#### Enchanted Touch [Core]
+#### Enchanted Touch
 
 You may spend a spell point as a standard action to grant enhancement bonuses to all attacks you make for 1 round per level. Your unarmed strikes, natural attacks, and wielded weapons gain a +1 enhancement bonus which does not stack with any enhancement bonus your weapons already possess. This bonus increases by +1 for every 5 levels you possess, to a maximum of +5 at 20th level.
 
-#### Enhanced Physicality [Core]
+#### Enhanced Physicality
 
 You may spend a spell point to reroll an Acrobatics, Climb, Fly, or Swim check you just made with a bonus to your roll equal to 1/2 your mageknight level (minimum: 1). You must take the second roll, even if it is worse.
 
@@ -159,11 +159,11 @@ You may spend a spell point as a swift action to empower your next attack with m
 
 You may spend a spell point and 1 minute to graft a weapon to a limb capable of wielding a weapon as per the Graft Weapon trait of the Morphic Weapon (Alteration) talent. This graft persists until the weapon is removed as a standard action.
 
-#### Great Fall [Core]
+#### Great Fall
 
 When falling, you treat the distance fallen as being 10 ft shorter per mageknight level when determining the amount of damage you sustain. At 20th level, you may fall any distance without taking damage.
 
-#### High Jump [Core]
+#### High Jump
 
 You may add your level to all Acrobatics checks made to jump, both for vertical jumps and horizontal jumps. In addition, you always counts as having a running start when making jump checks using Acrobatics. By spending 1 spell point as a swift action, you may gain a +20 bonus on Acrobatics checks made to jump for 1 round.
 
@@ -187,7 +187,7 @@ When an imbued weapon is used as a thrown weapon, the weapon teleports back to y
 
 Totems you create use your class level instead of your caster level to determine their effects, but not their size or duration. This stacks normally with caster levels from other classes.
 
-#### Invisibility [Core]
+#### Invisibility
 
 As a swift action, you may spend a spell point to become invisible for 1 round per mageknight level, or until you target a foe with an attack or magic.
 
@@ -195,11 +195,11 @@ As a swift action, you may spend a spell point to become invisible for 1 round p
 
 As a swift action, you may infuse your marked target with a aura of positive energy. Until the end of your next turn, whenever an ally hits the target, you may invigorate the ally as a free action, even if they are not in range of your invigorate ability or if it is not your turn.
 
-#### Lingering Pain [Core]
+#### Lingering Pain
 
 As an immediate action after successfully dealing damage to an opponent, you may spend a spell point to cause that damage to be considered continuous damage for the purpose of concentration checks made by the target prior to the beginning of your next turn.
 
-#### Mage’s Charge [Core]
+#### Mage’s Charge
 
 When making a charge, you may spend a spell point as a free action to add your mageknight level as a bonus to your attack roll.
 
@@ -211,11 +211,11 @@ Whenever you mark a target, you may also spend a spell point to lower their dama
 
 You may spend a spell point as a swift action to gain the benefits of one teamwork feat. You must meet all the feat’s prerequisites. All of your allies are treated as if they possessed the same teamwork feat for the purpose of determining whether you receive a bonus from the teamwork feat acquired. Your allies do not receive any bonuses from these feats unless they actually possess the feats themselves. Your allies’ positioning and actions must still meet the prerequisites listed in the teamwork feat for you to receive the listed bonus. You keep the feat for a number of minutes equal to your casting ability modifier, or until you spend another spell point to acquire a different feat.
 
-#### Mounted Combatant [Core]
+#### Mounted Combatant
 
 When using any mystic combat ability, you may spend an additional spell point to extend the benefit of that ability to your mount as well.
 
-#### Mystic Adaption [Core]
+#### Mystic Adaption
 
 You may spend a spell point as a swift action to gain the benefits of one combat feat of your choice for a number of rounds equal to your casting ability modifier. You must meet all of this feat’s prerequisites. At 7th level, you may gain the benefits of two combat feats of your choice whenever you use this ability. At 14th level, you gain the benefits of three combat feats of your choice. Multiple uses of this ability do not stack, only the most recent use applies. If a combat feat has a limited number of daily uses (such as Stunning Fist), any uses of that combat feat while using this ability counts towards that feat’s daily limit.
 
@@ -227,23 +227,23 @@ When you create an aegis on yourself, you may use your mageknight class level in
 
 The mageknight may spend a spell point as a swift action to share one teamwork feat she possesses with all allied creatures within close range (25 feet + 5 feet per 2 class levels) for 1 minute per level or until she uses this ability again.
 
-#### Mystic Maneuver [Core]
+#### Mystic Maneuver
 
 Select one combat maneuver. You may spend a spell point to perform this maneuver as a swift action that does not provoke an attack of opportunity, with a bonus to your CMB equal to 1/2 your mageknight level (minimum: 1). You may select this mystic combat multiple times. Each time it is selected, choose a different maneuver.
 
-#### Mystic Might [Core]
+#### Mystic Might
 
 As a swift action, you may spend a spell point to increase your size category to Large for a number of rounds equal to your casting ability modifier. You gain a +4 size bonus to Strength and suffer a -2 penalty to Dexterity while enlarged in this fashion.
 
-#### Penetrating Blow [Core]
+#### Penetrating Blow
 
 You may spend a spell point as a swift action to cause all your attacks to be resolved as touch attacks until the end of your turn.
 
-#### Quickened Reflexes [Core]
+#### Quickened Reflexes
 
 You may spend a spell point as a swift action to gain a dodge bonus to AC equal to half your mageknight level (minimum: 1) for a number of rounds equal to your casting ability modifier.
 
-#### Raging Combatant [Core]
+#### Raging Combatant
 
 As a standard action, you may spend a spell point to enter a rage for 1 round per level. This is similar to a barbarian’s rage, granting a +4 morale bonus to Strength and Constitution, a +2 morale bonus to Will saves, and suffering a -2 penalty to AC. You are under the same restrictions with skills, spells, and sphere abilities as a barbarian, but you may use mystic combat abilities as normal. You are fatigued afterward as a barbarian. You may end a rage prematurely as a free action.
 
@@ -251,7 +251,7 @@ As a standard action, you may spend a spell point to enter a rage for 1 round pe
 
 You may spend a spell point as a swift action to make a single manufactured or natural weapon attack against an enemy you have marked. This attack is made at your highest base attack bonus, and receives a circumstance bonus to damage equal to your mageknight level.
 
-#### Resilience of Soul [Core]
+#### Resilience of Soul
 
 As an immediate action, you may spend a spell point to reroll a saving throw you just failed. You must take the second result, even if it is worse.
 
@@ -303,19 +303,19 @@ At the beginning of the day, choose a (mandate) talent or (totem) talent you qua
 
 You gain the Pierce the Veil feat. You need not meet its prerequisites. Additionally, you may spend a spell point as a free action to add the skeptical weapon enhancement to a weapon for 1 round per mageknight level.
 
-#### Sustain [Core]
+#### Sustain
 
 You may spend a spell point as an immediate action to grant yourself temporary hit points equal to your mageknight level + your casting ability modifier that last 1 hour. This can keep you from dying.
 
-#### Swift Combatant [Core]
+#### Swift Combatant
 
 You may spend a spell point as a swift action to move up to 30 ft. This movement provokes attacks of opportunity as normal.
 
-#### Time Shift [Core]
+#### Time Shift
 
 When using any ability gained through the mystic combat class feature, you may spend an extra spell point to decrease that ability’s required action by one step: standard actions become move actions, swift actions become free actions, etc. This cannot reduce an immediate action.
 
-#### Unbreakable [Core]
+#### Unbreakable
 
 You may spend a spell point as a swift action to grant yourself DR equal to your mageknight level for a number of rounds equal to your casting ability modifier.
 
@@ -323,7 +323,7 @@ You may spend a spell point as a swift action to grant yourself DR equal to your
 
 Your magic allows you to interact with other dimensions. You may choose to touch and interact with ethereal and incorporeal creatures and objects as if they were solid. You may choose to have your attacks and effects count as magical for the purposes of affecting incorporeal creatures. If you do, your damage is not halved against them, and effects that do not cause damage are not subject to the standard 50% chance of failure. In addition, you may inflict critical hits and sneak attack on incorporeal creatures as if using a ghost touch weapon. This does not allow you to perceive anything ethereal or invisible.
 
-#### Vengeful [Core]
+#### Vengeful
 
 If a target strikes you and is within your threatened area, you may spend a spell point as an immediate action to make a single attack against that target at your highest BAB.
 
@@ -343,7 +343,7 @@ You gain the Mage Feint talent (from the Illusion sphere) and the Weird Motion c
 
 You gain the Decoy talent (from the Illusion sphere) and the Weird Assault combat feat. You need not meet their prerequisites if you possess the weirding adept mystic combat.
 
-#### Whirl of Blows [Core]
+#### Whirl of Blows
 
 You may spend a spell point as a swift action to gain the benefits of the Whirlwind Attack feat for a number of rounds equal to your casting ability modifier, even if you don’t meet the prerequisites.
 
@@ -385,19 +385,19 @@ At 20th level the mageknight may effortlessly combine magic and combat. Choose o
 
 The following feats are particularly appropriate or helpful for Mageknights.
 
-#### Extra Magic Talent [Core]
+#### Extra Magic Talent
 
 **Prerequisite:** Basic Magic Training or Casting class feature.
 
 **Benefit:** Gain an additional sphere or a talent from a sphere you possess. You may take this feat multiple times. The effects stack.
 
-#### Extra Mystic Combat [Core]
+#### Extra Mystic Combat
 
 **Prerequisite:** Mystic Combat class feature.
 
 **Benefit:** Gain an extra mystic combat ability for which you qualify. You may gain this feat multiple times. The effects stack.
 
-#### Extra Spell Points [Core]
+#### Extra Spell Points
 
 **Prerequisite:** Spell Pool.
 
@@ -423,7 +423,7 @@ Using the sphere or supernatural ability can provoke an attack of opportunity (i
 
 **Benefit:** Your Destructive Blade may be shaped with the reach property. This property can be added or removed each time you shape the blade.
 
-#### Sphere Focus [Core]
+#### Sphere Focus
 
 **Prerequisite:** Casting class feature.
 

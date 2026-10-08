@@ -75,7 +75,7 @@ Every mistake your foes make brings them closer to your service.
 
 **Benefit:** You gain a bonus on CMB checks equal to your Poltergeist penalty when making Telekinetic Maneuver attempts against creatures suffering from your Poltergeist effect.
 
-#### Propulsive Creation (Dual Sphere) [Apoc]
+#### Propulsive Creation (Dual Sphere)
 
 *Source: [Spheres Apocrypha: Battlefield Manipulation Talents](https://www.drivethrurpg.com/product/350940/Spheres-Apocrypha-Battlefield-Manipulation-Talents?affiliate_id=549120)*
 

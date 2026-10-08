@@ -63,13 +63,13 @@ You may treat an improvised weapon as though it had one of the following special
 
 In addition, the improvised weapon has its damage increased by 1 size category and has its critical threat range increased to 19–20, with a critical multiplier of ×2. At +10 base attack bonus, improvised weapons have their critical threat range increased to 18-20 and you may apply two of the listed special features to improvised weapons. **Associated Feat:** Improvised Weapon Mastery
 
-#### Boozehound [utility] [Jester's HB]
+#### Boozehound [utility]
 
 As long as you have martial focus, you can sense nearby alcohol or creatures with the drunk condition within 30 feet. This effect functions as blindsense.
 
 In addition, as long as you have the drunk status, whenever you attempt a Perception or Survival check, you gain a +2 competence bonus on that check. This bonus increases by +1 for every 5 base attack bonus you have.
 
-#### Bottle Rocket [EO3/Apoc]
+#### Bottle Rocket
 
 The range increment of improvised weapons you wield is increased to 20 feet for two-handed weapons, 30 feet for one-handed weapons, and 50 feet for light weapons. Additionally, you may break a weapon to make a ranged attack action as if it were a scatter weapon with a range of 15 feet.
 
@@ -77,7 +77,7 @@ The range increment of improvised weapons you wield is increased to 20 feet for 
 
 As long as you have the drunk status, you gain a +2 competence bonus to Bluff, Diplomacy, and Perform checks, increasing by +1 for every 3 base attack bonus you possess. You may also expend your drunk status as a free action to reroll a Bluff or Diplomacy check, but you must take the new result, even if it is worse. If you do so, you take a -5 on Bluff and Diplomacy checks for the next 10 minutes.
 
-#### Competitive Spirit [utility] [DRS]
+#### Competitive Spirit [utility]
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -89,7 +89,7 @@ Additionally, as long as you can see a drunk creature, there is a 50% chance whe
 
 As a move action, you can draw and drink two non-magical alcoholic drinks or one magical drink and one non-magical drink; doing so doubles the duration of the drunk status and grants you a +1 circumstance bonus on all saving throws while drunk. You must have two open hands in order to perform a double chug. At +10 base attack bonus, performing a double chug lets you expend your drunk status twice before actually losing it.
 
-#### Drinking Partners [DRS]
+#### Drinking Partners
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -101,7 +101,7 @@ If you have the drunk status and are within 10 feet of an ally who also has the 
 
 As long as you have the drunk status, you may deal lethal damage with your unarmed strikes and you do not provoke attacks of opportunity for using them. If you would normally be able to do this, you are treated as one size larger for the amount of damage your unarmed strikes deal. You can expend your drunk status to deal maximum damage with an unarmed strike as a free action.
 
-#### Everything Is A Drink [Apoc]
+#### Everything Is A Drink
 
 *Source: [Spheres Apocrypha: Dipsomania](https://www.drivethrurpg.com/product/299935/Spheres-Apocrypha-Dipsomania?affiliate_id=549120)*
 
@@ -111,7 +111,7 @@ Alternatively, when drinking an alcoholic drink, you can consider it to be nonal
 
 You choose whether or not to consider a drink as alcoholic or not alcoholic at the time of drinking.
 
-#### Expanded Breaker [EO3]
+#### Expanded Breaker
 
 If you possess the brutal breaker ability, you may treat an improvised weapon as having the fragile weapon special feature regardless of its hardness or material for the purposes of feats or other talents you possess. In addition, you can break an improvised weapon regardless of its hardness of material. This ability does not allow you to break magic items or creatures being used as improvised weapons.
 
@@ -129,13 +129,13 @@ Whenever you drink an alcoholic beverage as a move action, you regain your marti
 
 You may expend your martial focus as a swift action to gain the drunk status as though you had imbibed an alcoholic beverage.
 
-#### Improvised Martial Arts (stance) [EO3/Youxia HB]
+#### Improvised Martial Arts (stance)
 
 While in this stance, you may treat melee attacks with improvised weapons as unarmed strikes for the purpose of how much damage they deal and interactions with abilities which require an unarmed strike.
 
 Once per turn while in this stance, you may break a weapon when attacking adjacent to you and spend an attack of opportunity to make an attack with an unarmed strike against the same target as a free action.
 
-#### Improvised Shield [EO3]
+#### Improvised Shield
 
 As a free action, you may wield an improvised weapon as an improvised shield for a round. When wielded as an improvised shield, the weapon’s damage die is decreased by 2 sizes, and the weapon grants a shield bonus: light weapons grant +1 shield bonus, one-handed weapons grant a +2 shield bonus, and two-handed weapons grant a +4 shield bonus. Just as with all shields, you lose this shield bonus to AC if you use the improvised shield to attack, unless you possess the ability to make shield bashes without sacrificing shield bonus. An improvised shield counts as a regular shield for the Shield sphere.
 
@@ -147,7 +147,7 @@ Double the number of drinks you can consume before gaining the sickened conditio
 
 Additionally, you gain a +2 circumstance bonus on Fortitude saves against poisons and effects that would cause the sickened or nauseated conditions. At +10 base attack bonus, this bonus increases to +5.
 
-#### Liquid Courage [DRS]
+#### Liquid Courage
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -161,7 +161,7 @@ You can also expend your drunk status as a free action to increase any morale bo
 
 Whenever an improvised weapon you wield would be destroyed, you may instead break it evenly into two new improvised weapons, each 1 size smaller than the original improvised weapon which was destroyed. This talent fails if the new improvised weapons would be Tiny or smaller. You may still allow a weapon to be destroyed normally.
 
-#### Postprandial Maudlin [High. HB]
+#### Postprandial Maudlin
 
 You may eat a meal instead of imbibing an alcoholic drink to gain the drunk status, but you gain the status for double the duration (twice Constitution modifier rounds + 1 per 2 points of base attack bonus). When using hard drinker, you may as a move action, retrieve and eat a poor quality meal (or a meal created by an iron chef) instead of an alcoholic drink. If you possess the Iron Liver talent, you also double the number of meals you can consume before gaining the sickened condition.
 
@@ -181,7 +181,7 @@ The table below are suggestions for how long it takes to consume meals of variou
 
 Whenever you attack a target with a weapon they did not know about (a hidden weapon, or an improvised weapon from the environment that hasn’t been wielded or used to make an attack yet), they become battered until the end of your next turn. Additionally, your first attack with that weapon gains a +1 circumstance bonus for every 4 points of base attack bonus you possess. **Associated Feat:** Catch Off-Guard.
 
-#### Up, Down And… [Apoc]
+#### Up, Down And…
 
 *Source: [Spheres Apocrypha: Dipsomania](https://www.drivethrurpg.com/product/299935/Spheres-Apocrypha-Dipsomania?affiliate_id=549120)*
 
@@ -189,7 +189,7 @@ While you have the drunk status, you eliminate the penalties to your armor class
 
 **Special:** If you possess the Capoeira Spin talent from the Open Hand sphere, you always eliminate all penalties from being prone rather than only when drunk, and you can stand up without provoking attacks of opportunity as a free action made as part of an attack action while you have the drunk status, rather than an immediate action. At +10 base attack bonus, you instead gain a +2 bonus to attack rolls made while prone.
 
-#### Tavernmonger [utility] [DRS]
+#### Tavernmonger [utility]
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -199,7 +199,7 @@ While in a tavern (or similar establishment, up to GMs discretion), you can gran
 
 **Associated Feats:** Drunken Sing-Along and Tavern Regular (*Inner Sea Taverns*)
 
-#### You Want Some? [Apoc]
+#### You Want Some?
 
 *Source: [Spheres Apocrypha: Dipsomania](https://www.drivethrurpg.com/product/299935/Spheres-Apocrypha-Dipsomania?affiliate_id=549120)*
 
@@ -211,7 +211,7 @@ Additionally, when you succeed on a check made to maintain a grapple, you can ch
 
 # Drunk Talents
 
-#### Bellowing Shanty (drunk) [DRS]
+#### Bellowing Shanty (drunk)
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -223,7 +223,7 @@ You can expend your drunk status as a free action to increase the range and radi
 
 You can reroll one Intelligence or Wisdom-based skill check as a free action, but you must take the new result, even if it is worse. Each time you use this talent during the same day beyond the first, you take a cumulative -2 penalty on the reroll granted by this talent.
 
-#### Dulled Senses (drunk) [DRS]
+#### Dulled Senses (drunk)
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -261,7 +261,7 @@ As a move action, you can cause yourself to throw up, granting yourself a new sa
 
 Until the beginning of your next turn, any movement you make or combat maneuvers you attempt do not provoke attacks of opportunity; you also gain an alchemical bonus on Perform (dance) checks equal to 1/2 your base attack bonus as long as you have the drunk status. At +10 base attack bonus, creatures cannot apply their Dexterity bonus to their CMD against combat maneuvers you attempt while using this talent and you can expend your drunk status to treat a Perform (dance) check as though you rolled a 15.
 
-#### Seeing Double (drunk) [Apoc]
+#### Seeing Double (drunk)
 
 *Source: [Spheres Apocrypha: Dipsomania](https://www.drivethrurpg.com/product/299935/Spheres-Apocrypha-Dipsomania?affiliate_id=549120)*
 
@@ -269,7 +269,7 @@ When you make an attack action, you can make an additional attack as a free acti
 
 **Author's Note:** This talent may only be used once per qualifying attack action, even if you can expend the drunk status multiple times.
 
-#### Stupored Drop (drunk) [Apoc]
+#### Stupored Drop (drunk)
 
 *Source: [Spheres Apocrypha: Pugilists](https://www.drivethrurpg.com/product/320390/Spheres-Apocrypha-Pugilists?affiliate_id=549120)*
 
@@ -279,7 +279,7 @@ As an immediate action, you fall prone and gain the benefits of the evasion abil
 
 # Smash Talents
 
-#### Calamitous Coercion (smash) [DRS]
+#### Calamitous Coercion (smash)
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -291,33 +291,33 @@ Alternatively, you can break a weapon or attempt to break an object within your 
 
 **Utility Option:** This talent can be taken as a utility talent by having its benefits not apply to Intimidate checks made to demoralize or Bluff checks to feint.
 
-#### Crude Shot (smash) [DRS]
+#### Crude Shot (smash)
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 As part of performing an attack action, you can break a weapon to make a dirty trick combat maneuver against the target of your attack as an immediate action—if your original attack hits, you gain a +2 circumstance bonus to the dirty trick attempt (or a +4 circumstance bonus if the attack was a successful critical hit).
 
-#### Interceding Crash (smash) [EO3]
+#### Interceding Crash (smash)
 
 When a creature makes a melee or ranged attack against you, you may spend an attack of opportunity to break a weapon you are wielding. Make an attack roll as if you were making an attack of opportunity. If the result is greater than the attack roll total of the attack roll, you may roll your weapon’s damage die + your practitioner modifier (minimum 1) and reduce the damage taken by that result. If this would reduce the damage taken to 0, the attack counts as a miss for the purposes of abilities that trigger on a hit or a miss.
 
 If you have the ability to draw weapons as a free action (such as the Quick Draw feat or Equipment sphere Fast Draw talent), you may draw a weapon (or improvised weapon) as part of using this ability.
 
-#### Jagged Edge (smash) [EO3]
+#### Jagged Edge (smash)
 
 You know how to break an object to use its jagged edges to your advantage. You may break a melee or thrown weapon when you attack a creature to deal 1d4 points of bleed damage to that opponent. **Associated Feat:** Splintering Weapon.
 
-#### Shatter (smash) [EO3]
+#### Shatter (smash)
 
 You may break a weapon when attacking a creature to deal 1d4 points of additional damage on that attack. This damage is multiplied on a critical hit. This additional damage increases by an additional 1d4 for every 4 base attack bonus you possess.
 
 If you threaten a critical hit while using this talent, you gain a +4 bonus on the roll to confirm the critical hit, and if it is confirmed, the weapon is destroyed. If you apply a second effect that would give your weapon the broken condition, you forgo this additional benefit. **Associated Feat:** Chairbreaker.
 
-#### Sudden Crash (smash) [EO3]
+#### Sudden Crash (smash)
 
 As part of making an attack, you may break a weapon. A creature damaged by this attack gains the battered condition until the end of your turn. If this attack was performed as an attack action, the damaged creature must also succeed at a Fortitude save or have all movement speeds they possessed reduced by half for 1 round plus 1 round per 5 base attack bonus (minimum 5 feet). A creature subject to an effect which removes the battered condition also removes this movement penalty.
 
-#### Take To Go (smash) [EO3]
+#### Take To Go (smash)
 
 As part of performing an attack action, you may break a weapon. If your attack is successful, you may move into any square the target threatens (to a maximum of half your movement speed). This movement does not provoke attacks of opportunity from that creature, but otherwise provokes attacks of opportunity as normal. If you were not within the creature’s threatened area (such as by breaking and throwing an improvised thrown weapon at range or because the creature does not threaten the square you made the attack from), you may instead take a 5-foot step and subtract 5 feet from your total movement during your next turn.
 
@@ -339,13 +339,13 @@ You may choose to imbibe any liquid alchemical weapon you are currently holding 
 
 Whenever you would be able to imbibe an alcoholic beverage, you may instead pour it onto a weapon you or an adjacent ally is wielding and set it ablaze. For one minute, that weapon gains the flaming burst magic weapon special ability, except the effect is considered extraordinary rather than magical.
 
-#### Devastating Burst (smash) [EO3]
+#### Devastating Burst (smash)
 
 **Prerequisites:** Barroom sphere (Barroom Expert), base attack bonus +10.
 
 As part of an attack action, you may expend your martial focus and break a weapon. Your attack is treated as a critical threat and you must roll to confirm the critical hit as normal. A critical hit made this way has a critical multiplier of x2, even if it would normally be higher. After using this talent, you cannot use this (smash) talent for 1 minute.
 
-#### Dumbfounding Crack (smash) [EO3]
+#### Dumbfounding Crack (smash)
 
 **Prerequisites:** Barroom sphere, base attack bonus +5.
 
@@ -375,7 +375,7 @@ Whenever you imbibe a non-magical alcoholic drink, you regain an amount of hit p
 
 So long as you have the drunk status, any weapon you wield gains a +1 enhancement bonus per 4 base attack bonus you possess (maximum: +5). This does not stack with any enhancement bonus the weapon might already possess. This is a supernatural effect.
 
-#### Murky Brew (drunk) [DRS]
+#### Murky Brew (drunk)
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -393,7 +393,7 @@ You can expend your drunk status as a free action to be treated as having no ali
 
 You gain improved evasion while using the Nice and Loose talent; you can also end the duration of your Escape Artist bonus to be treated as though you were under the effects of a freedom of movement spell for 1 round as a supernatural effect.
 
-#### Rejuvenating Spirits [EO3]
+#### Rejuvenating Spirits
 
 **Prerequisites:** Barroom sphere (Good For What Ails Ya), base attack bonus +6.
 
@@ -401,7 +401,7 @@ So long as you have the drunk status, you gain fast healing equal to 1/2 your ba
 
 At +15 base attack bonus, the fast healing becomes regeneration (cold or negative energy), which still cannot increase your hit points above 1/2 your maximum hit point total.
 
-#### Swaying Dodge (drunk) [EO3]
+#### Swaying Dodge (drunk)
 
 **Prerequisites:** Barroom sphere, base attack bonus +4.
 

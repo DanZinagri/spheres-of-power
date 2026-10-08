@@ -9,10 +9,6 @@ parent: "[[Archive]]"
 
 <div class="sop-spheres">
 
-**About the Spheres**
-
-*Nothing retired yet.*
-
 **Magic Spheres**
 
 - [[Dark (Ultimate)|Dark]]

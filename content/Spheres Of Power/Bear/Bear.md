@@ -117,7 +117,7 @@ While you are channeling a bear spirit you gain a morale bonus equal to 1/2 your
 
 When a target within your threatened area makes a melee attack roll against you, you may spend a spell point as an immediate action to make an magical skill check. If your magical skill check exceeds their attack roll, they must reroll their attack against themselves.
 
-#### Slumbear (bearacteristic) [Jester's HB]
+#### Slumbear (bearacteristic)
 
 As a standard action, you may spend a spell point to cause one target creature to fall into a deep, restful slumber for one minute, immediately recovering 1 hit point per level and curing 1 point of ability damage for each ability score as though resting for 8 hours. Each round the target sleeps, they regain 1 hit point + 1 hit point per 3 caster levels (this counts as natural healing). If the sleeping target takes damage or another creature attempts to wake them as a standard action, the target does not automatically awaken, but instead must succeed at a Will save to wake up. An unwilling creature can attempt a Will save to negate this effect, and on a successful save the creature is staggered for 1 round as they resist the urge to curl up and sleep. This is a mind-affecting sleep effect.
 

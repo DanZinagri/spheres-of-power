@@ -75,7 +75,7 @@ At 2nd level and every 2 levels thereafter, a mageknight gains a new way to enha
 
 Each time she gains mystic combat, she chooses and gains one of the following abilities.
 
-#### Absorb Ailment [CrimDan]
+#### Absorb Ailment
 
 The mageknight may touch a diseased creature as a standard action to drain them of their ailments. If the creature is suffering from any diseases, she may attempt a magic skill check against the DC of that disease. For each plague feat she possesses, she gains a +1 bonus on this magic skill check. Success denotes that she rips the disease from their body, and places it into hers, and begins suffering from the effects of the disease as normal.
 
@@ -87,7 +87,7 @@ If she possesses the Life sphere, she may activate the cure or restore ability o
 
 The mageknight may spend a spell point as a swift action to deal damage with her attacks as if she had the warpriest’s sacred weapon class feature with all her weapons, treating her mageknight level as her warpriest level. This works for melee weapons, ranged weapons, and unarmed attacks. This effect lasts a number of rounds equal to her casting ability modifier.
 
-#### Aura of Chaos [WM]
+#### Aura of Chaos
 
 As a swift action, you may spend a spell point to emit an aura out to 20 ft. that increases the wild magic chance of all effects originating from hostile creatures by 50% for a number of rounds equal to your casting ability modifier. Affected creatures are unaware of this penalty.
 
@@ -111,11 +111,11 @@ The mageknight may spend a spell point as a swift action to inflict bleed damage
 
 The mageknight may spend a spell point as a swift action to increase her damage dealt to creatures depending on how many times she has hit them. For 1 round per level, whenever she successfully strikes an opponent with a weapon or natural attack, she gains a cumulative +1 bonus on future damage rolls, to a maximum equal to her class level. If she misses with an attack, the bonus to damage decreases by 1 (minimum 0).
 
-#### Breach Resistance (Su) [Alienist HB]
+#### Breach Resistance (Su)
 
 Once per round, when you successfully hit a creature with an attack, you may reduce any spell resistance they possess by 1 for 1 minute per mageknight level. This penalty stacks with itself. At 10th level and every 10 levels thereafter, the spell resistance reduction on each attack increases by 1.
 
-#### Champion [CotS]
+#### Champion
 
 The mageknight gains a Champion feat of her choice as a bonus feat (see [[Champion Feats]]). She must meet the prerequisites of the feat. This mystic combat can be gained multiple times.
 
@@ -127,11 +127,11 @@ Allies the mageknight shares a mandate with benefit from her resist magic class 
 
 The mageknight can treat any armor she wears as having the collapsible special ability, except that she may collapse or recall the armor as a swift action instead of a full-round action, and she may choose which piece the armor collapses into each time she uses this ability. This allows the mageknight to wear multiple suits of armor and allows her to collapse one and recall another as part of the same action, though it does not allow her to benefit from more than one suit at a time. She may spend a spell point to collapse or recall her armor as a free action instead of a swift action.
 
-#### Combat Talent [CotS]
+#### Combat Talent
 
 You gain a bonus combat talent. This mystic combat may be taken more than once, granting an additional talent each time.
 
-#### Curse of Chaos [WM]
+#### Curse of Chaos
 
 As a swift action, you may spend a spell point to charge your next attack with disruptive energies. The next creature you deal damage to with a manufactured or natural weapon attack before the start of your next turn increases its wild magic chance by 100% for a number of rounds equal to your casting ability modifier. Affected creatures are unaware of this penalty.
 
@@ -237,7 +237,7 @@ The mageknight may spend a spell point to perform any combat maneuver as a swift
 
 Once per round, when using any ability gained through the mystic combat class feature, the mageknight may spend an extra spell point to decrease that ability’s required action by one step: standard actions become move actions, swift actions become free actions, etc. This cannot reduce an immediate action.
 
-#### Mystic Command [Gen. HB]
+#### Mystic Command
 
 The mageknight may spend a spell point as a swift action to share one teamwork feat she possesses with all allied creatures within close range (25 feet + 5 feet per 2 class levels) for 1 minute per level or until she uses this ability again.
 
@@ -245,7 +245,7 @@ The mageknight may spend a spell point as a swift action to share one teamwork f
 
 As a swift action, the mageknight may spend a spell point to increase her size category to Large for a number of minutes equal to her casting ability modifier, as if using the Size Change Alteration talent.
 
-#### Mystic Reaping (requires mageknight 6) [Gravecaller's HB]
+#### Mystic Reaping (requires mageknight 6)
 
 The knight’s blade drinks in magic as it does life. Whenever the mageknight reduces a creature to 0 or fewer hit points, she gains 2 temporary spell points which last for 1 minute (see the Mana sphere for rules on temporary spell points). Creatures with fewer Hit Dice than half the mageknight’s character level do not grant temporary spell points.
 
@@ -301,11 +301,11 @@ The mageknight may spend a spell point as a swift action to cause her armor to g
 
 When the mageknight damages an enemy with a melee weapon or natural weapon, she may spend a spell point as a free action to give them a scar. The target may attempt a Fortitude save against a DC equal to 10 + 1/2 her mageknight level plus her casting ability modifier to avoid the scar. Any hit points regained by a scarred enemy are instead diverted to the mageknight unless she is already at her full hit point total. The scar fades away after 1 minute.
 
-#### Spell Mirror (requires mageknight 10, spell shield) [WM]
+#### Spell Mirror (requires mageknight 10, spell shield)
 
 When a spell or sphere effect that has the mageknight as a target is negated by her spell shield, the effect is turned back upon its caster as if the caster was the original target. Use her own attack modifiers if an attack roll is required.
 
-#### Spell Shield [WM]
+#### Spell Shield
 
 As an immediate action, the mageknight may spend a spell point to grant herself spell resistance equal to 15 + her mageknight level until the start of her next turn.
 
@@ -453,7 +453,7 @@ The following feats are particularly appropriate or useful for mageknights.
 
 The following magical items are especially appropriate for mageknights.
 
-#### Mystic Stone [TS:WAT]
+#### Mystic Stone
 
 **Aura** faint Mana; **CL** 5th
 **Slot** slotless; **Price** 15,000 gp; **Weight** 2 lbs.
@@ -463,7 +463,7 @@ This stone crackles with magical energies. When carried by a creature with the m
 **Construction Requirements**
 Craft Apparatus, Mana sphere, creator must know the mystic combat being used; **Cost** 7,500 gp
 
-#### Permanent Indicator [TS:WAT]
+#### Permanent Indicator
 
 **Aura** moderate Illusion; **CL** 6th
 **Slot** none; **Price** 18,000 gp; **Weight** 1/2 lbs.
@@ -473,7 +473,7 @@ This slender tube has an enchantment on one end, allowing it to be used for writ
 **Construction Requirements**
 Craft Apparatus, Illusion sphere, creator must have the marked class feature; **Cost** 9,000 gp
 
-#### Talisman Of Defiance [TS:WAT]
+#### Talisman Of Defiance
 
 **Aura** moderate Protection; **CL** 8th
 **Slot** neck; **Price** 20,000 gp; **Weight** 1 lb.

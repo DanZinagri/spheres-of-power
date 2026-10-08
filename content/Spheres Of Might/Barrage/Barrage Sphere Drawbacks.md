@@ -14,17 +14,17 @@ The [utility start] tag is described in Spheres of Guile. It is only possible to
 
 **Piecemeal Utility Starts:** If you have a progression or optional replacement that grants a [utility] combat talent or a [utility] magic talent, you can use it to gain a base sphere if you apply a drawback or combination of drawbacks that removes all of that base sphere’s benefits other than skill ranks and [utility] talents (and actions necessary to use such talents).
 
-#### Cautious Fire [SA:MD]
+#### Cautious Fire
 
 You do not gain the barrage ability and cannot select (blitz) talents or other talents that rely on barrage. You gain Close Combat Specialist with this drawback.
 
-#### Defensive Shot [SA:MD2]
+#### Defensive Shot
 
 You do not gain the barrage ability and cannot select (blitz) talents or other talents that rely on barrage. You gain Intercepting Shot with this drawback.
 
 **Incompatible:** Cautious Fire.
 
-#### Distant Looter [SA:MD]
+#### Distant Looter
 
 You do not gain the melee archer ability. You do not treat Point Blank Shot as an associated feat, and cannot select this drawback if you gained the Barrage sphere instead of gaining Point Blank Shot. You gain Battlefield Scavenger with this drawback.
 

@@ -67,7 +67,7 @@ The foe is knocked prone and has all forms of movement speed halved for 1 round 
 
 The foe drops all held items in one limb of her choice. The foe cannot use that limb for attacking, holding or interacting with items for 1 round per class level - it cannot use natural attacks from the limb, wield weapons in that limb, use a two-handed weapon (unless it has more than two working arms), etc.
 
-#### Soldiers Of Bone [Gravecaller's HB]
+#### Soldiers Of Bone
 
 Undead the bonewright reanimates are automatically proficient with any summoned equipment sculpted by the bonewright. When the bonewright uses her reanimate ability and raises one or more corporeal undead, she may use her summon equipment ability as a free action and without spending a spell point, granting one raised undead a single weapon, shield, or suit of armor by reshaping that undead’s body as part of reanimating it. Equipment summoned this way stays for the duration of the bonewright’s reanimate ability. If a piece of summoned equipment created using this arsenal trick leaves the undead’s possession, it disappears 1 round later.
 

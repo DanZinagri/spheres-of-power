@@ -59,13 +59,13 @@ Some talents have the (motion) tag. You cannot apply more than one talent with t
 
 # Athletics Talents
 
-#### Ace Pilot [EO2]
+#### Ace Pilot
 
 You gain 5 ranks in the Profession (pilot) skill, plus 5 ranks per additional talent spent in the Athletics sphere (maximum ranks equal to your total Hit Dice). If you already have ranks in the Profession (pilot) skill you may immediately retrain them, but you do not get to retrain when only temporarily gaining talents, such as through the armiger’s customized weapons class feature. When piloting a vehicle, you may benefit from Athletics sphere abilities you possess, substituting your Profession (pilot) skill for any skill checks called for by those abilities. The piloted vehicle must still possess movements modes appropriate to the packages you possess.
 
 **Addendum [SUE]:** A manually-piloted *mechanoid* is treated as a piloted vehicle for the purposes of this talent.
 
-#### Acrocatics [Catgirl HB]
+#### Acrocatics
 
 You gain the following ability:
 
@@ -76,11 +76,11 @@ In addition, if you possess the associated Athletics sphere package, you gain ad
 - **Catwalk (requires (run) package):** You may always take 10 on Acrobatics checks made to cross narrow or uneven surfaces. In addition, as long as you have martial focus, you always succeed at Acrobatics checks made to not fall prone while moving faster than half your speed across a slippery surface (such as grease or ice) or while blind.
 - **Soft-Paw Landing (requires (leap) package):** During your turn, whenever you would fall at least 10 feet and suffer no falling damage (such as succeeding at Acrobatics check to soften a fall), you may immediately attempt a Stealth check to hide, and can hide even while you are observed or if you do not have cover or concealment. If this ability is used as part of your movement, you may complete your movement after attempting the Stealth check (such as to reposition into cover, etc.).
 
-#### Armored Athlete [High. HB]
+#### Armored Athlete
 
 When you attempt a check for a skill associated with an Athletics sphere package you possess, your armor check penalty on that check for wearing armor you are proficient in is reduced by 2. For every 4 ranks in the skill associated with the package you possess, the penalty is further reduced by 1 (this cannot reduce your armor check penalty below 0). The benefits granted by this talent do not stack with those provided by the Armored Athlete feat. **Associated Feat:** Armored Athlete.
 
-#### Canny Compression [SA:MT2]
+#### Canny Compression
 
 When using the movement mode corresponding to a package you possess, you can move through areas as small as half your normal space without squeezing and can move through an area as small as one quarter your space when squeezing.
 
@@ -90,7 +90,7 @@ If you possess at least 10 ranks in a skill package you possess, you can move th
 
 You can move into the space of another creature. You may end your movement in, and make attacks from, that space. You must succeed at the Acrobatics check for moving through an occupied square to move into a space occupied by an enemy; if you fail, your movement stops in the previous space and you provoke an attack of opportunity. Attacks made against a creature sharing your space in this way take a -4 penalty unless they are made with light or natural weapons. If two creatures sharing a space in this way are of the same size, they grant each other soft cover from all attack made by creatures not sharing the space. If one creature is larger, the smaller creature gains concealment (20% miss chance) against attacks made by creatures not sharing the space. Should this concealment cause an attack to miss, resolve the attack against the larger creature.
 
-#### Compact Frame [Conq. HB]
+#### Compact Frame
 
 You push your stature into a more compact space, guarding yourself against incoming ranged attacks and giving you more time to react. You do not provide soft cover to creatures when ranged attacks pass through your square. As long as you have martial focus, you gain a +1 dodge bonus to AC against ranged attacks, increasing by +1 for every 7 base attack bonus you possess. In addition, once per round when you would normally be hit with an attack from a ranged weapon, you may expend martial focus to evade the projectile so you take no damage from it. You must be aware of the attack and not flat-footed.
 
@@ -98,19 +98,19 @@ Unusually massive ranged weapons (such as a boulder or ballista bolts) and range
 
 **Associated Feats:** Deflect Arrows, Low Profile.
 
-#### Desperate Dive [Apoc]
+#### Desperate Dive
 
 *Source: [Tandem Talents](https://www.drivethrurpg.com/product/282809/Spheres-Apocrypha-Tandem-Talents?affiliate_id=549120)*
 
 When you would attempt a Reflex save that would affect both you and an adjacent ally, you can expend your martial focus to take the result of your die roll or that of your ally. If you take your ally’s result, you are knocked prone (or staggered on your next turn, if you are already prone or cannot be knocked prone). **Associated Feat:** Duck and Cover.
 
-#### Dungeon Blitzer [Alienist HB]
+#### Dungeon Blitzer
 
 Whenever you spend a move or standard action to open a door or lock, pick up an item, or to set a trap, you may move up to half your speed as a free action before or after the action is taken.
 
 This movement provokes attacks of opportunity as normal and may be split between movement before or after the action.
 
-#### Elevation Mastery [Youxia HB]
+#### Elevation Mastery
 
 Your bonus to melee attack rolls for higher ground increases by 1, and creatures on lower ground take a penalty to melee attack rolls against you equal to your attack bonus for higher ground. If you have 10 or more ranks in a skill granted by an Athletics package you possess, this bonus increases by 1. **Associated Feat:** Death from Above.
 
@@ -118,19 +118,19 @@ Your bonus to melee attack rolls for higher ground increases by 1, and creatures
 
 Choose and gain two packages you do not already possess. You may select this talent multiple times, gaining two new packages each time.
 
-#### Fitness Instructor [utility] [LotS]
+#### Fitness Instructor [utility]
 
 Whenever you teach an Acrobatics, Climb, Fly, or Swim skill use, you can do so in 10 minutes, and can teach two skill uses from one of these skills, or one skill use from two of these skills.
 
 You can take 20 on any checks made to teach or aid creature’s using those skills.
 
-#### Hasty Retreat [3PP]
+#### Hasty Retreat
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 When you use the Withdraw action, you may move up to four times your movement speed. If you spend martial focus when using the Withdraw action, you may move a distance equal to the amount that you would if you had used the Run action (you are limited to direction as normal for running). You do not regain martial focus for using the Withdraw action if you spent martial focus in this way.
 
-#### Lashing Serpent (stance) [Youxia HB]
+#### Lashing Serpent (stance)
 
 While in this stance, whenever a creature makes an attack against you and misses while you are moving using a movement mode corresponding to a package you possess, you may perform an attack of opportunity against them. You may not use this talent in conjunction with (deflect) talents or any other ability that would grant you an attack or combat maneuver due to a missed attack against you.
 
@@ -146,7 +146,7 @@ Your ability to twist and turn fluidly while moving allows you to take an attack
 
 When using the movement mode corresponding to a package you possess, you gain a +2 dodge bonus to AC (and thus also to CMD) against any attacks of opportunity generated by your movement. When using a movement mode other than your land movement, you may make checks using the corresponding package’s associated skill in place of Acrobatics checks when moving through threatened squares. For every 4 ranks in a skill associated with a package you possess, this dodge bonus increases by +1. **Associated Feat:** Mobility.
 
-#### Move Aside [Alienist HB]
+#### Move Aside
 
 When you move, you can finish your movement in the space of a willing ally. If you do, that ally may immediately take a 5-foot step into the last space you occupied without either of you spending an action. This 5-foot step does not prevent them taking a 5-foot step or moving normally on their turn, and must be taken if you could not share a space with that ally normally.
 
@@ -158,7 +158,7 @@ When moving, you may expend martial focus as a free action to apply two (motion)
 
 You may ready an action to move up to your speed using a movement mode corresponding to a package you possess as a move action. If used to avoid an attack or area effect, this movement grants you evasion and a dodge bonus to AC and Reflex saves equal to half your ranks in the skill associated with the movement type you use to perform the move action (minimum 1). Creatures that already have evasion instead gain improved evasion. You may expend focus to instead ready the move action as a swift action, but doing so makes you staggered on your next turn even if you would normally be immune to the staggered condition. This ability does not allow you to maintain multiple readied actions at the same time. This readied action does not change your initiative count. For every 4 ranks in a skill associated with a movement type, you may assign an additional trigger to your readied action.
 
-#### Redirect Strike [DRS]
+#### Redirect Strike
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -180,7 +180,7 @@ You may make an attack action at the end of a charge in place of the normally gr
 
 Additionally, you can use the charge rules to make a thrown weapon attack. All the parameters of a charge apply, except that you must only move closer to the creature, and you must end your movement within 30 ft. of that creature. If you do, you can make an attack action using a thrown weapon attack against that creature, gaining the +2 bonus on the attack roll and taking a –2 penalty to your AC until the start of your next turn. **Associated Feat:** Charging Hurler.
 
-#### Slippery Weasel’s Tumble [BTH]
+#### Slippery Weasel’s Tumble
 
 You channel the weasel, darting and slipping just out of grasp before striking.
 
@@ -188,7 +188,7 @@ Whenever you succeed at an Acrobatics check to move through an opponent’s thre
 
 Whenever you succeed at an Acrobatics check to move through an opponent’s threatened area or space without provoking an attack of opportunity from that opponent, you gain a +1 circumstance bonus on attack rolls made against that opponent until the start of your next turn. This bonus increases by +1 for every 7 ranks in a skill granted by an Athletics package you possess. If you moved through multiple opponents’ threatened areas, choose one opponent to gain these bonuses against. **Associated Feat:** Canny Tumble.
 
-#### Stable Positioning (stance) [3PP]
+#### Stable Positioning (stance)
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -262,7 +262,7 @@ While flying, you may ascend vertically without making a Fly check.
 
 You may halt your movement while flying, hovering without needing to make a Fly skill check. If you are Large or larger and use wings to fly, when you hover within 20 ft. of the ground in an area with lots of loose debris, the draft from your wings creates a hemispherical cloud with a radius of 60 ft. The winds generated can snuff torches, small campfires, exposed lanterns, and other small, open flames of non-magical origin. Clear vision within the cloud is limited to 10 feet. Creatures have concealment at 15 to 20 ft. (20% miss chance). At 25 ft. or more, creatures have total concealment (50% miss chance, and opponents cannot use sight to locate the creature). **Associated Feat:** Hover.
 
-#### Sinking Blow (fly, swim) [Youxia HB]
+#### Sinking Blow (fly, swim)
 
 If you are flying or swimming, whenever you make a successful attack action against a creature employing the same movement mode as you while you have martial focus, that creature must succeed at a Reflex saving throw or lose 30 feet of distance to the ground. If you have 10 or more ranks in the used movement mode, a creature who fails this saving throw also has their speed for that movement mode reduced by 1/2 for a number of rounds equal to your practitioner modifier (minimum 1).
 
@@ -270,13 +270,13 @@ If you are flying or swimming, whenever you make a successful attack action agai
 
 # Leap Talents
 
-#### Armored Drop (leap) [Apoc]
+#### Armored Drop (leap)
 
 *Source: [Spheres Apocrypha: Armor Talents](https://www.drivethrurpg.com/product/303193/Spheres-Apocrypha-Armor-Talents?affiliate_id=549120)*
 
 While wearing medium or heavy armor, you may divert any damage taken from falling to your armor. Damage you redirect this way ignores your armor’s hardness, and you are still knocked prone if you would have taken fall damage without this talent. You suffer any damage in excess of your armor’s hit points. **Associated Feat:** Cushioning Armor
 
-**Addendum:** You may select this talent a second time. When you use this talent, creatures within 5 feet of where you land suffer bludgeoning damage equal to half the damage that would be dealt to your armor. [Apoc: Armor Talents 2]
+**Addendum:** You may select this talent a second time. When you use this talent, creatures within 5 feet of where you land suffer bludgeoning damage equal to half the damage that would be dealt to your armor.
 
 #### Diving Strike (leap or fly)
 
@@ -286,21 +286,21 @@ If the attack at the end of your charge hits, the attack deals damage as normal 
 
 You can attempt an Acrobatics check as normal to treat the fall as being shorter for the purpose of determining the damage you take from the fall, and you treat the first 1d6 points of damage you take from the fall as nonlethal damage. If your attack misses, you land prone in a random square adjacent to the target and automatically take the full amount of falling damage. If you are subject to an ability or effect that negates or reduces falling damage (other than the normal Acrobatics check to reduce fall height), such as the feather fall spell or the boots of the cat, your bonus damage dice from this talent are also negated or reduced in a similar fashion. **Associated Feat:** Branch Pounce.
 
-#### Dolphin Strike (leap, swim) [Youxia HB]
+#### Dolphin Strike (leap, swim)
 
 If you have the (leap) package, whenever you perform an Acrobatics check to attempt a high jump as part of a move action and the movement from this jump would allow you to threaten a creature at a higher elevation with a melee weapon, you may perform an attack action with that weapon as a standard action against the creature. This attack deals an extra 1d6 points of damage per 10 feet of maximum vertical height allowed by the Acrobatics check, up to a maximum of 1d6 per rank in Acrobatics you possess. A creature damaged this way cannot perform attacks of opportunity against you for leaving threatened squares until the end of your turn.
 
 If you have the (swim) package, as part of a move action underwater you may perform a high jump to break the surface of the water by using your Swim ranks and modifier instead of your Acrobatics ranks and modifier. Otherwise it is the same as above.
 
-#### Locust Pounce (leap) [Youxia HB]
+#### Locust Pounce (leap)
 
 You may roll an Acrobatics check to jump as part of a melee attack action, moving no more than half your land speed before performing the attack action. This movement is not subtracted from your total movement per round. You may expend your martial focus to make this movement without provoking an attack of opportunity.
 
-#### Overhead Flip (leap) [Youxia HB]
+#### Overhead Flip (leap)
 
 As part of an attack action, you may roll an Acrobatics check to jump against the CMD of any adjacent creature. If your roll exceeds their CMD, you may jump to any other square adjacent to that creature that would enable flanking with your starting position without provoking an attack of opportunity for movement, and you may treat the creature as flanked by you for the attack action. If unsuccessful, you instead provoke an attack of opportunity from the targeted creature and do not complete your movement.
 
-#### Store Momentum (leap or run) [Jester's HB]
+#### Store Momentum (leap or run)
 
 As long as you have martial focus, you are always considered to have a running start when attempting an Acrobatics check to jump.
 
@@ -324,17 +324,17 @@ If you also possess the (climb) package, you may attempt to cling to the wall at
 
 # Motion Talents
 
-#### Bewildering Blow (motion) [Apoc]
+#### Bewildering Blow (motion)
 
 *Source: [Spheres Apocrypha: Debilitating Talents](https://www.drivethrurpg.com/product/304600/Spheres-Apocrypha-Debilitating-Talents?affiliate_id=549120)*
 
 As long as you have martial focus, whenever you would successfully make an Acrobatics check to avoid provoking an attack of opportunity from an enemy when you move through its threatened area or its space, the enemy must succeed on a Will save or become battered for 1 round. If you move more than half your base speed, the battered condition lasts for 1 additional round for every 5 ranks in the skill associated with the package you possess.
 
-#### Blustering Hustle (motion) [Youxia HB]
+#### Blustering Hustle (motion)
 
 Whenever you succeed at an Acrobatics check to avoid provoking an attack of opportunity from an opponent when you move through its space, that opponent is denied its Dexterity bonus to AC against the first melee attack you make against them before the start of your next turn. **Associated Feat:** Canny Tumble.
 
-#### Deceptive Movement (motion) [Alienist HB]
+#### Deceptive Movement (motion)
 
 When you use the withdraw action, you may make a feint attempt against one creature you are adjacent to at any point in the movement as a free action.
 
@@ -342,11 +342,11 @@ When you use the withdraw action, you may make a feint attempt against one creat
 
 Your rapid spins and twists leave a creatures reeling. As long as you move no more than your base speed, when you exit a square adjacent to a hostile creature, that creature must succeed on a Will save or be sickened for one round. If you move no more than half your base speed, they are instead nauseated for 1 round on a failed save; this talent cannot be used with the 5-foot step action. You may not nauseate an individual creature with this talent more than once per hour.
 
-#### Knockdown Tumble (motion) [Apoc]
+#### Knockdown Tumble (motion)
 
 When you successfully make an Acrobatics check to avoid provoking an attack of opportunity from a opponent when you move through its threatened area or its space, you can expend your martial focus to try to knock them down. The opponent must succeed on a Reflex save or be knocked prone. **Associated Feat:** Tangle Feet.
 
-#### Lightfoot (motion) [3PP]
+#### Lightfoot (motion)
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -364,7 +364,7 @@ While you are on a creature, you move with it whenever it moves. For every size 
 
 If the target creature is impaled per the impale ability of the Lancer sphere, you gain a +4 circumstance bonus to CMD against grapple checks made by the target to remove you and count any hand being used to control the weapon used to impale the target as being used for the climb check. If you possess the (leap) package, you may make the required Climb check as part of any jump that would carry you through a space that would put the target within your reach. If you possess the Bronco Buster talent of the Beastmastery sphere, you may use Ride skill checks in place of Climb checks for this talent.
 
-#### Shoot And Scoot (motion) [Apoc]
+#### Shoot And Scoot (motion)
 
 You can move and reload at the same time, spending a move or standard action to move up to your movement speed, or a full-round action to move up to twice your movement speed. When you do so, you also reload a weapon whose reload time matches the action spent on this talent, so long as your movement leaves you with the appropriate number of free hands needed to reload. This action does not provoke an attack of opportunity for reloading a weapon, only for normal movement.
 
@@ -372,7 +372,7 @@ You can move and reload at the same time, spending a move or standard action to 
 
 When you successfully move through an enemy’s threatened space, you may count your beginning square and any squares you passed through during that movement as being occupied by an ally for the purpose of determining flanking bonuses until the end of your turn.
 
-#### Wind-Up Brace (motion) [Youxia HB]
+#### Wind-Up Brace (motion)
 
 As long as you move no more than half your base speed, when you succeed at an Acrobatics check to avoid provoking an attack of opportunity from an opponent when you move through its threatened area or its space, any damage the next attack that creature makes against you until the beginning of your next turn deals nonlethal damage. If you are damaged by the attack, you may immediately spend an attack of opportunity to move 5 feet without provoking an attack of opportunity using a movement mode associated with any Athletics package you possess. This talent cannot be used with the 5-foot step action, and you do not convert lethal damage to nonlethal damage with this talent if you are immune to nonlethal damage.
 
@@ -382,7 +382,7 @@ For every 6 ranks in a skill granted by an Athletics package you possess, you ma
 
 # Run Talents
 
-#### Chargethrough (run) [Youxia HB]
+#### Chargethrough (run)
 
 Whenever you successfully attack a creature with a charge, you may roll an Acrobatics check against the CMD of the creature as a free action, adding the attack bonus from charging to your roll. If you succeed, you may continue your charge’s movement any distance as long as you still have movement remaining. This movement does not provoke an attack of opportunity from the attacked creature nor is it halved for moving through squares threatened or occupied by the attacked creature. If you fail this check, you instead provoke an attack of opportunity from the attacked creature and not move further.
 
@@ -390,7 +390,7 @@ Whenever you successfully attack a creature with a charge, you may roll an Acrob
 
 You may change direction up to 90 degrees once at any point during a charge or while taking the run action. For every 7 ranks in Acrobatics you possess, the number of times you may change direction during a charge increases by 1, to a total maximum of 3 times. You still must be able to see the target of your charge when you begin the charge action.
 
-#### Store Momentum (leap or run) [Jester's HB]
+#### Store Momentum (leap or run)
 
 As long as you have martial focus, you are always considered to have a running start when attempting an Acrobatics check to jump.
 
@@ -424,13 +424,13 @@ If you also possess the (climb) package, you may attempt to cling to the wall at
 
 # Swim Talents
 
-#### Dolphin Strike (leap, swim) [Youxia HB]
+#### Dolphin Strike (leap, swim)
 
 If you have the (leap) package, whenever you perform an Acrobatics check to attempt a high jump as part of a move action and the movement from this jump would allow you to threaten a creature at a higher elevation with a melee weapon, you may perform an attack action with that weapon as a standard action against the creature. This attack deals an extra 1d6 points of damage per 10 feet of maximum vertical height allowed by the Acrobatics check, up to a maximum of 1d6 per rank in Acrobatics you possess. A creature damaged this way cannot perform attacks of opportunity against you for leaving threatened squares until the end of your turn.
 
 If you have the (swim) package, as part of a move action underwater you may perform a high jump to break the surface of the water by using your Swim ranks and modifier instead of your Acrobatics ranks and modifier. Otherwise it is the same as above.
 
-#### Sinking Blow (fly, swim) [Youxia HB]
+#### Sinking Blow (fly, swim)
 
 If you are flying or swimming, whenever you make a successful attack action against a creature employing the same movement mode as you while you have martial focus, that creature must succeed at a Reflex saving throw or lose 30 feet of distance to the ground. If you have 10 or more ranks in the used movement mode, a creature who fails this saving throw also has their speed for that movement mode reduced by 1/2 for a number of rounds equal to your practitioner modifier (minimum 1).
 
@@ -442,7 +442,7 @@ If you possess the (run) package, you treat your Constitution score as being twi
 
 If you possess the (swim) package, you treat your Constitution score as being twice what it actually is for the purposes of determining how long you can hold your breath. This multiplier increases by 1 (x3, x4, etc.) for every 4 ranks in Acrobatics or Swim you possess.
 
-#### Terror Below (swim) [Youxia HB]
+#### Terror Below (swim)
 
 While beneath the surface of water or another liquid, as an attack action, you can move through the water up to 1/4 your base land speed or 1/2 your swim speed if you possess one and make a melee attack against a creature above the surface of the water. If you do, that creature must succeed at a Reflex saving throw or fall into the water in a square of your choice adjacent to you (even if they are standing on solid ground). If you have 10 or more ranks in Swim, when a creature is forced into water by this attack, they are unable to hold their breath beforehand, and must instantly start attempting checks upon the beginning of their round to avoid drowning.
 
@@ -450,7 +450,7 @@ While beneath the surface of water or another liquid, as an attack action, you c
 
 # Legendary Talents
 
-#### Aerial Hang (leap, stance) [Youxia HB]
+#### Aerial Hang (leap, stance)
 
 **Prerequisite:** Athletics sphere.
 
@@ -478,7 +478,7 @@ If you possess the (run) package, you may run over the air as if it were ground.
 
 You may ascend or descend up to 45 degrees as part of this movement, though ascending costs 2 squares of movement per 5 ft. of additional elevation. Additionally, you may balance on any solid surface, even those unable to support your weight, such as a taut string, a narrow tree branch, etc.
 
-#### Armored Apocalypse [Apoc]
+#### Armored Apocalypse
 
 *Source: [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)*
 
@@ -496,7 +496,7 @@ If you are carrying an ‘improved’ splash weapon created via the Alchemy sphe
 
 **Wiki Note:** This ability can entirely remove you from an area of effect, before you need to make a Reflex save, if you move far enough.
 
-#### Debris [Apoc]
+#### Debris
 
 *Source: [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)*
 
@@ -518,7 +518,7 @@ As a full-round action, you may expend your martial focus to make an even greate
 
 Your fly speed increases to become equal to your base speed, and your maneuverability improves to (average).
 
-#### Earthswimmer (swim) [3PP]
+#### Earthswimmer (swim)
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -542,7 +542,7 @@ In addition, the size of the effect increases depending on how much falling dama
 
 When using a movement mode associated with a package you possess, you may expend martial focus as a swift action to complete your movement without passing through any intervening squares. This does not allow you to reach any space you would not normally be able to reach with associate movement modes you posses. You may use this ability to charge through difficult or obstructed terrain as long as you are aware of the position of your target. This is a supernatural teleportation effect.
 
-#### Friction Manipulation (climb, stance) [Youxia HB]
+#### Friction Manipulation (climb, stance)
 
 **Prerequisite:** Athletics sphere.
 
@@ -566,7 +566,7 @@ In addition to the uses of Climb described by that skill, you also gain several 
 
 Wind speed penalties to Fly checks also apply to Climb checks made to cling to air. If you fail a Climb check when climbing on air, you fall 10 ft. plus 10 ft. per 5 points by which you failed the check.
 
-#### Slipstream (fly, run, swim) [Warden]
+#### Slipstream (fly, run, swim)
 
 **Prerequisites:** Acrobatics, Fly or Swim 5 ranks, Athletics sphere.
 
@@ -590,7 +590,7 @@ You may expend your focus as a swift action to increase your base speed by 50 ft
 
 If you possess the Strong Lungs talent, you can replace its usual bonus to rounds you may run to instead be able to run for a number of hours equal to your Constitution modifier.
 
-#### Stoneswimmer (swim) [3PP]
+#### Stoneswimmer (swim)
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -598,7 +598,7 @@ If you possess the Strong Lungs talent, you can replace its usual bonus to round
 
 As long as you have martial focus, you are treated as having the earth glide universal monster ability.
 
-#### Surface Strider (run) [3PP]
+#### Surface Strider (run)
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -616,7 +616,7 @@ Your skills and muscles honed by swimming allow you to cleave through soil and s
 
 This talent does not grant the ability to see through earth nor to breathe without a source of air, so creatures without tremorsense or another similar ability are blind while underground and creatures that need to breathe must hold their breath.
 
-#### Titan’s Fall [Apoc]
+#### Titan’s Fall
 
 *Source: [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)*
 
@@ -626,19 +626,19 @@ Your armor’s hardness applies to, and is doubled against, the damage suffered 
 
 In addition, when using the Armored Drop talent you may expend your martial focus to increase the damage dealt to the amount of damage that would be dealt to your armor before hardness. In addition the damage now affects everything in a 5-foot radius + 5 feet per 5 ranks in Acrobatics you possess. The damage dealt by this talent is doubled vs. objects, and if the damage would be enough to destroy the surface underneath you, you continue to fall, subtracting the damage dealt to the surface from the damage dealt by this talent to later surfaces.
 
-#### Turbo Knockdown [Youxia HB]
+#### Turbo Knockdown
 
 **Prerequisites:** Athletics sphere (Mobile Striker), Lancer sphere (Whirlwind Knockdown), base attack bonus +10.
 
 When you use Mobile Striker and Whirlwind Knockdown in the same round, you may instead target any creatures you threaten with the weapon used for the attack at some point during your movement. Resolve the attack action after completing the movement from Mobile Striker. At base attack bonus +15, halve the attack penalty from Whirlwind Knockdown, rounded up.
 
-#### Turbo Sweep [Youxia HB]
+#### Turbo Sweep
 
 **Prerequisites:** Athletics sphere (Mobile Striker), Guardian sphere (Sweeping Defense), base attack bonus +10.
 
 When you use Mobile Striker and Sweeping Defense in the same round, instead of attacking multiple adjacent targets, you may instead target multiple creatures you threaten with the weapon used for the attack at some point during your movement. Resolve the attack action after completing the movement from Mobile Striker. At base attack bonus +15, you may instead target any number of creatures threatened during movement.
 
-#### Windwake (motion) [Youxia HB]
+#### Windwake (motion)
 
 **Prerequisite:** Athletics sphere.
 

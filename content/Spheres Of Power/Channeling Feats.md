@@ -50,7 +50,7 @@ If the (blast type) talent chosen has additional spell point costs, an additiona
 
 **Benefit:** When you channel energy, instead of its normal effects, you may instead grant those within range a single attack. These attacks are made immediately in initiative order. Each attack receives a bonus to damage equal to the number of dice you would have rolled for your channel energy.
 
-#### Channeled Detonation (Channeling) [Gravecaller's HB]
+#### Channeled Detonation (Channeling)
 
 You can overcharge your connection with your undead using your channel energy ability.
 
@@ -60,7 +60,7 @@ You can overcharge your connection with your undead using your channel energy ab
 
 If you possess the Master’s Presence (dominion) talent, you may use your dominion range when determining if an undead you control is within range for this feat.
 
-#### Defiler’s Channel (Channeling, Defiler, Drawback) [Cata. HB]
+#### Defiler’s Channel (Channeling, Defiler, Drawback)
 
 You draw life energy directly from your environment.
 
@@ -70,7 +70,7 @@ You draw life energy directly from your environment.
 
 **Four Defiler Feats:** The number of dice increases by 4 rather than 2.
 
-#### Energized Appeasement (Channeling) [DbH]
+#### Energized Appeasement (Channeling)
 
 The powers of the beyond are sufficient to appease the bound force within.
 

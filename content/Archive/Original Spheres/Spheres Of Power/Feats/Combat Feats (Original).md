@@ -55,7 +55,7 @@ With lightning reflexes, you sweep your tail against an opponent that has left t
 
 **Special:** If you possess the Improved Trip feat or are otherwise unable to provoke an attack of opportunity when making a trip attempt, you gain a +2 bonus to your CMB with this trip attempt.
 
-#### Counterspelling Strike (Combat) [Abj. HB]
+#### Counterspelling Strike (Combat)
 
 **Prerequisites:** Counterspell.
 
@@ -85,7 +85,7 @@ Alternately, you may spend a spell point as a standard action to shapeshift a ma
 
 **Benefit:** You may use your tail as a normal natural attack, and are no longer limited to only using it to make attacks of opportunity.
 
-#### Gritting Teeth (Combat) [Abj. HB]
+#### Gritting Teeth (Combat)
 
 **Prerequisites:** Combat Stamina.
 
@@ -351,13 +351,13 @@ Additionally, you can apply your poison to a weapon or natural attack by dipping
 
 **Benefit:** Your companion may spit its poison as a ranged touch attack with a range of 20 feet. Treat the poison as a contact poison for this feat.
 
-#### Warded Step (Combat) [Abj. HB]
+#### Warded Step (Combat)
 
 **Prerequisites:** Sphere casting class feature.
 
 **Benefit:** Your sphere effects that cover an area (including darknesses, totems, and wards) are especially easy for you to move through. The area inside one of your sphere effects is never difficult terrain for you, and you receive a +4 circumstance bonus to AC versus attacks of opportunity caused by moving through any square of a sphere effect you created.
 
-#### Warrior-Disciple (Combat) [S&P]
+#### Warrior-Disciple (Combat)
 
 In spite of your diverse magical training, your armed discipline still remains.
 

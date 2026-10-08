@@ -41,7 +41,7 @@ Many bloodline arcanas do not function correctly when using the Spheres of Power
 
 ## New Sorcerer Feats
 
-#### Bloodline Armaments [Apoc]
+#### Bloodline Armaments
 
 *Source: [Spheres Apocrypha: The Inheritor and Improved Atavism Heritages](https://www.drivethrurpg.com/product/347553/Spheres-Apocrypha-The-Inheritor-and-Improved-Atavism-Heritages?affiliate_id=549120)*
 
@@ -51,7 +51,7 @@ Many bloodline arcanas do not function correctly when using the Spheres of Power
 
 In addition, while using any sorcerer bloodline power that would grant natural attacks, create a weapon, grant a weapon a special weapon ability, or otherwise augment such a weapon, those weapons gain a +1 enhancement bonus for every 4 effective sorcerer levels you possess (maximum +5).
 
-#### Bloodline Prowess [Apoc]
+#### Bloodline Prowess
 
 *Source: [Spheres Apocrypha: The Inheritor and Improved Atavism Heritages](https://www.drivethrurpg.com/product/347553/Spheres-Apocrypha-The-Inheritor-and-Improved-Atavism-Heritages?affiliate_id=549120)*
 

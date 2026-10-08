@@ -40,7 +40,7 @@ This woolen scholar’s outfit is true blue in color, and shifts in length and s
 **Construction Requirements**
 Forge Charm, Creation sphere, Divination sphere (Discern Individual (sense)); **Cost** 10,250 gp
 
-### Aegis Ring [TS]
+### Aegis Ring
 
 **Aura** faint (+1), moderate (+2/+3), or strong (+4/+5) Protection; **CL** 3rd (+1), 6th (+2), 9th (+3), 12th (+4), or 15th (+5)
 **Slot** ring; **Price** 2,000 gp (+1), 8,000 gp (+2), 18,000 (+3), 32,000 (+4), or 50,000 (+5); **Weight** 1 lb.
@@ -80,7 +80,7 @@ A character can create an emotional state inside themselves to fool the amulet b
 **Construction Requirements**
 Forge Charm, Weather sphere (Severe Weather); **Cost** 22,500 gp
 
-### Bard-King’s Boots [DRS]
+### Bard-King’s Boots
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -100,7 +100,7 @@ If the wearer is a dancer within a Performance sphere dance, they ignore 5 feet 
 **Construction**
 Smith Magical Arms and Armor, Nature sphere ((air) package) — **Cost** 2,075 gp
 
-### Belt of Avian Speed [TS]
+### Belt of Avian Speed
 
 **Aura** faint (+2), moderate (+4), or strong (+6) Enhancement; **CL** 4th (+2), 8th (+4), or 12th (+6)
 **Slot** belt; **Price** 4,000 (+2), 16,000 (+4), 36,000 (+6); **Weight** 2 lbs.
@@ -110,7 +110,7 @@ This belt is decorated with symbols of swift birds. While worn, it grants a +2/+
 **Construction Requirements**
 Forge Charm, Enhancement sphere (Physical Enhancement (enhance)); **Cost** 2,000 gp (+2), 8,000 gp (+4), or 18,000 gp (+6)
 
-### Belt of Mountains [TS]
+### Belt of Mountains
 
 **Aura** faint (+2), moderate (+4), or strong (+6) Enhancement; **CL** 4th (+2), 8th (+4), or 12th (+6)
 **Slot** belt; **Price** 4,000 (+2), 16,000 (+4), 36,000 (+6); **Weight** 2 lbs.
@@ -120,7 +120,7 @@ This leather belt is decorated with symbols of mountains. While worn, it grants 
 **Construction Requirements**
 Forge Charm, Enhancement sphere (Physical Enhancement (enhance)); **Cost** 2,000 gp (+2), 8,000 gp (+4), or 18,000 gp (+6)
 
-### Belt of Wild Might [TS]
+### Belt of Wild Might
 
 **Aura** faint (+2), moderate (+4), or strong (+6) Enhancement; **CL** 4th (+2), 8th (+4), or 12th (+6)
 **Slot** belt; **Price** 4,000 (+2), 16,000 (+4), 36,000 (+6); **Weight** 2 lbs.
@@ -130,7 +130,7 @@ This leather belt is decorated with symbols of powerful beasts. While worn, it g
 **Construction Requirements**
 Forge Charm, Enhancement sphere (Physical Enhancement (enhance)); **Cost** 2,000 gp (+2), 8,000 gp (+4), or 18,000 gp (+6)
 
-### Blessing of the Fates [TS]
+### Blessing of the Fates
 
 **Aura** faint (+1) or moderate (+2/+3) Fate; **CL** 3rd (+1), 6th (+2), or 9th (+3)
 **Slot** any; **Price** 2,500 gp (+1), 10,000 gp (+2), or 22,500 (+3); **Weight** 1 lb.
@@ -146,7 +146,7 @@ The blessing of the fates and the fragment of destiny can be crafted at the same
 
 Note that a creature’s circumstance, deflection, dodge, insight, luck, morale, profane, and sacred bonuses to armor class also apply to its CMD.
 
-### Cape of Resistance [TS]
+### Cape of Resistance
 
 **Aura** faint (+1), moderate (+2/+3), or strong Protection (+4/+5); **CL** 3rd (+1), 6th (+2), 9th (+3), 12th (+4), or 15th (+5)
 **Slot** shoulders; **Price** 1,000 gp (+1), 4,000 gp (+2), 9,000 gp (+3), 16,000 gp (+4), or 25,000 gp (+5); **Weight** 1 lb.
@@ -156,7 +156,7 @@ This well-made cape offers a +1 to +5 resistance bonus to all saving throws, cho
 **Construction Requirements**
 Forge Charm, Protection sphere (Resistance (aegis)); **Cost** 500 gp (+1), 2,000 gp (+2), 4,500 gp (+3), 8,000 gp (+4), or 12,500 gp (+5)
 
-### Circlet of the Seer [DRS]
+### Circlet of the Seer
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -220,7 +220,7 @@ A divine symbol is a holy symbol that is especially attuned to 4-5 domains of a 
 **Construction Requirements**
 Forge Charm, channel energy class feature; **Cost** 250 gp
 
-### Embertongue Amulet [DRS]
+### Embertongue Amulet
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -237,7 +237,7 @@ If the wearer possesses the Bluster or Performance sphere, they can activate the
 **Construction**
 Forge Charm, Destruction sphere — **Cost** 2,500 gp
 
-### Energy Resisting Ring [TS]
+### Energy Resisting Ring
 
 **Aura** faint (10), moderate (20), or strong (30) Protection; **CL** 1st (10), 10th (20), or 20th (30)
 **Slot** ring; **Price** 12,000 gp (10), 28,000 gp (20), or 44,000 gp (30); **Weight** 1 lb.
@@ -258,7 +258,7 @@ These leather workman gloves perpetually look dirty, no matter how well they are
 **Construction Requirements**
 Forge Charm, Craft Apparatus, Creation sphere; **Cost** 37,500 gp
 
-### Fragment of Destiny [TS]
+### Fragment of Destiny
 
 **Aura** faint (+1) or moderate (+2/+3) Fate; **CL** 3rd (+1), 6th (+2), or 9th (+3)
 **Slot** any; **Price** 2,500 gp (+1), 10,000 gp (+2), or 22,500 (+3); **Weight** 1 lb.
@@ -268,7 +268,7 @@ This crystal has been carefully woven into cloth and is designed to be worn anyw
 **Construction Requirements**
 Forge Charm, Fate sphere, **Cost** 1,250 gp (+1), 5,000 gp (+2), or 11,250 gp (+3)
 
-### Fuchsia Marquise Ioun Stone [DRS]
+### Fuchsia Marquise Ioun Stone
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -291,7 +291,7 @@ Whenever the bearer causes a mishap, the damage dealt increases to 4d8, but it d
 **Construction**
 Forge Charm, Enhancement sphere, creator must be 12th level — **Cost** 5,000 gp
 
-### Fusebrander Ring [DRS]
+### Fusebrander Ring
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -310,9 +310,9 @@ A multi-fuse *fusebrander ring* may be used on non-instantaneous damaging effect
 **Light Fuse** - As a move action, the wearer may end a single instance of damage delayed by the fuse line ability, causing that damage to immediately resolve against that target (but not others). The wearer must be able to see or otherwise target the subject to end the delayed damage.
 
 **Construction**
-**Requirements** Forge Ring (Craft Apparatus [USOP]), *delayed blast fireball* or Destruction (Blast Trap); **Cost** 7,000 gp (Single-Fuse), 9,000 gp (Multi-Fuse)
+**Requirements** Forge Ring (Craft Apparatus), *delayed blast fireball* or Destruction (Blast Trap); **Cost** 7,000 gp (Single-Fuse), 9,000 gp (Multi-Fuse)
 
-### Gauntlet of Maneuvers [TS]
+### Gauntlet of Maneuvers
 
 **Aura** faint (+1), moderate (+2/+3), or strong Enhancement (+4/+5); **CL** 3rd (+1), 6th (+2), 9th (+3), 12th (+4), or 15th (+5)
 **Slot** hands; **Price** 1,000 gp (+1), 4,000 gp (+2), 9,000 gp (+3), 16,000 gp (+4), or 25,000 gp (+5); **Weight** 1 lb.
@@ -344,7 +344,7 @@ The wearer of these gloves improves the strength and grip of their telekinesis. 
 **Construction Requirements**
 Forge Charm, Telekinesis sphere (Forceful Telekinesis, Telekinetic Maneuver); **Cost** 4,000 gp
 
-### Headband of Alluring Magnetism [TS]
+### Headband of Alluring Magnetism
 
 **Aura** faint (+2), moderate (+4), or strong (+6) Enhancement; **CL** 4th (+2), 8th (+4), or 12th (+6)
 **Slot** headband; **Price** 4,000 (+2), 16,000 (+4), 36,000 (+6); **Weight** 2 lbs.
@@ -354,7 +354,7 @@ This headband is surprisingly comfortable to wear for extended periods. While wo
 **Construction Requirements**
 Forge Charm, Enhancement sphere (Mental Enhancement (enhance)); **Cost** 2,000 gp (+2), 8,000 gp (+4), or 18,000 gp (+6)
 
-### Headband of Genius [TS]
+### Headband of Genius
 
 **Aura** faint (+2), moderate (+4), or strong (+6) Enhancement; **CL** 4th (+2), 8th (+4), or 12th (+6)
 **Slot** headband; **Price** 4,000 (+2), 16,000 (+4), 36,000 (+6); **Weight** 2 lbs.
@@ -364,7 +364,7 @@ This cloth headband feels faintly stimulating while worn, though most scholars a
 **Construction Requirements**
 Forge Charm, Enhancement sphere (Mental Enhancement (enhance)); **Cost** 2,000 gp (+2), 8,000 gp (+4), or 18,000 gp (+6)
 
-### Headband of Sages [TS]
+### Headband of Sages
 
 **Aura** faint (+2), moderate (+4), or strong (+6) Enhancement; **CL** 4th (+2), 8th (+4), or 12th (+6)
 **Slot** headband; **Price** 4,000 (+2), 16,000 (+4), 36,000 (+6); **Weight** 2 lbs.
@@ -396,7 +396,7 @@ This ring is carved from cold iron, and gives its wearer a sense of unbreakable 
 **Construction Requirements**
 Forge Charm, Alteration sphere, Enhancement sphere; **Cost** 20,000 gp
 
-### Magical Toolkit [TS]
+### Magical Toolkit
 
 **Aura** variable Mind; **CL** 1st-20th
 **Slot** none; **Price** 100 gp (+1), 400 gp (+2), 2,500 (+5), 10,000 (+10), or 40,000 (+20); **Weight** 2 lbs.
@@ -408,7 +408,7 @@ Forge Charm, Mind sphere; Cost 50 gp (+1), 200 gp (+2), 1,250 gp (+5), 5,000 gp 
 
 **Wiki Note:** Generally, magical toolkits must be held to be used, since they are literal tools being used to help at a given task. These are not slotless items.
 
-### Mask of the Bloodhound [DRS]
+### Mask of the Bloodhound
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -425,7 +425,7 @@ If you possess the Investigation sphere, the wearer can also use Investigation s
 **Construction**
 Forge Charm, Alteration or Divination sphere — **Cost** 3,000 gp
 
-### Necklace of Natural Armor [TS]
+### Necklace of Natural Armor
 
 **Aura** faint (+1), moderate (+2/+3), or strong (+4/+5) Alteration; **CL** 3rd (+1), 6th (+2), 9th (+3), 12th (+4), or 15th (+5)
 **Slot** neck; **Price** 2,000 gp (+1), 8,000 gp (+2), 18,000 (+3), 32,000 (+4), or 50,000 (+5); **Weight** 1 lb.
@@ -435,7 +435,7 @@ Extremely popular among adventurers for its protective qualities, this smooth ir
 **Construction Requirements**
 Forge Charm, Alteration sphere, **Cost** 1,000 gp (+1), 4,000 gp (+2), 9,000 gp (+3), 16,000 gp (+4), or 25,000 gp (+5)
 
-### Periwinkle Marquise Ioun Stone [DRS]
+### Periwinkle Marquise Ioun Stone
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -459,7 +459,7 @@ This stone functions as a normal periwinkle marquise ioun stone, except that it 
 **Construction**
 Forge Charm, Mana sphere, creator must be 12th level — **Cost** 15,000 gp
 
-### Pugilist’s Charm [TS]
+### Pugilist’s Charm
 
 **Aura** faint (+1), moderate (+2/+3), or strong (+4/+5) Alteration and Enhancement; **CL** 5th (+1), 6th (+2), 9th (+3), 12th (+4), or 15th (+5)
 **Slot** neck; **Price** 6,000 gp (+1), 24,000 gp (+2), 54,000 gp (+3), 96,000 gp (+4), or 150,000 gp (+5); **Weight** 1 lb.
@@ -493,7 +493,7 @@ This crystal ring is actually somewhat difficult to see. A DC 20 Perception chec
 **Construction Requirements**
 Forge Charm; **Cost** 1,250 gp
 
-### Ring of Distant Doorways [DRS]
+### Ring of Distant Doorways
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -508,7 +508,7 @@ This ring is pleated silver and brass, the woven bands of metal seeming to effor
 **Personal Gateway** - Once per day, when the wearer casts a teleportation effect that moves one or more targets between two points (including when using this ring's other ability to move the wearer), the wearer opens a temporary portal between the start and end point of the teleportation effect for 1 round, +1 round per 4 caster levels of the effect. This portal functions as the Warp sphere Portal advanced talent.
 
 **Construction**
-**Requirements** Forge Ring (Craft Marvelous Item [USOP]), *dimension door* or Warp sphere (Portal); **Cost** 3,750 gp
+**Requirements** Forge Ring (Craft Marvelous Item), *dimension door* or Warp sphere (Portal); **Cost** 3,750 gp
 
 ### Ring of Force Armor
 
@@ -536,7 +536,7 @@ In addition, once per day the wearer can cast a spell that ignores all limitatio
 **Construction Requirements**
 Forge Charm; **Cost** 37,500 gp
 
-### Ring of Shielding [TS]
+### Ring of Shielding
 
 **Aura** faint (+1), moderate (+2/+3), or strong (+4/+5) Protection; **CL** 3rd (+1), 6th (+2), 9th (+3), 12th (+4), or 15th (+5)
 **Slot** ring; **Price** 3,500 gp (+1), 14,000 gp (+2), 31,500 gp (+3), 56,000 gp (+4), or 87,500 gp (+5); **Weight** 1 lb.
@@ -557,7 +557,7 @@ This heavy brass ring is usually worn on the creature’s middle (or largest) fi
 **Construction Requirements**
 Forge Charm; **Cost** 15,000 gp
 
-### Sablelace Choker [DRS]
+### Sablelace Choker
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -586,7 +586,7 @@ This oval disc is just large enough for a Medium-sized creature to stand on comf
 **Construction Requirements**
 Forge Charm, Telekinesis sphere; **Cost** 4,000 gp
 
-### Spectacles of the Sleuth [DRS]
+### Spectacles of the Sleuth
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -601,7 +601,7 @@ If the wearer has the Investigation sphere, they instead gain the Broad Scrutiny
 **Construction**
 Forge Charm, Divination sphere — **Cost** 3,000 gp
 
-### Talisman of Spell Resistance [TS]
+### Talisman of Spell Resistance
 
 **Aura** faint Protection; **CL** 5th
 **Slot** neck; **Price** 30,000; **Weight** 2 lbs.
@@ -611,7 +611,7 @@ This talisman features a five-pointed silver star surrounded by a circle of gold
 **Construction Requirements**
 Forge Charm, Protection sphere (Spell Ward (aegis, ward)); **Cost** 15,000 gp
 
-### Talisman of Techniques [TS]
+### Talisman of Techniques
 
 **Aura** faint (+1), moderate (+2/+3), or strong (+4/+5) Alteration and Enhancement; **CL** 3rd (+1), 6th (+2), 9th (+3), 12th (+4), or 15th (+5)
 **Slot** neck; **Price** 3,500 gp (+1), 14,000 gp (+2), 31,500 gp (+3), 56,000 gp (+4), or 87,500 gp (+5); **Weight** 1 lb.
@@ -661,7 +661,7 @@ This silk cloak seems to fade in and out of the light and grants the wearer a +1
 **Construction Requirements**
 Forge Charm, Dark sphere; **Cost** 16,250 gp
 
-### Verdant Marquise Ioun Stone [DRS]
+### Verdant Marquise Ioun Stone
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -698,7 +698,7 @@ Each vest is attuned to one (transformation) talent when created. Any shapeshift
 **Construction Requirements**
 Forge Charm, Alteration sphere (Lingering Transformation), creator must possess the (transformation) talent to be attuned; **Cost** 4,000 gp
 
-### Zensoul Mala [DRS]
+### Zensoul Mala
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -805,7 +805,7 @@ Forge Charm, Light sphere (Beacon Of Hope (light)); **Cost** 12,000 gp
 
 # Mythic Charms
 
-### Fox Medallion [MCS]
+### Fox Medallion
 
 **Aura** strong Protection; **CL** 15th
 **Slot** any; **Price** 180,000 gp; **Weight** 1 lb.

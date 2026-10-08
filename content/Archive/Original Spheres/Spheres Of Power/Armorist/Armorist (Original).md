@@ -131,11 +131,11 @@ You may add the abjuring and girding properties to the list of properties you ma
 
 You may bind an additional piece of equipment.
 
-#### Aiding [Core]
+#### Aiding
 
 Add benevolent (+1) to the special qualities you may add to your bound and summoned weapons and armor.
 
-#### Arcane Strike [Core]
+#### Arcane Strike
 
 You gain the Arcane Strike feat and treat your armorist level as your caster level when determining its effects.
 
@@ -163,7 +163,7 @@ You may grow a natural weapon appropriate to your form. You may treat this natur
 
 You may add the equitable, vital, and wellspring properties to your bound staffs. In addition, you may add this unique +1 property: **Driving:** When using the Invigorate ability of the Life sphere with this staff, you may use your armorist level as your caster level with the Life sphere. This stacks with other caster level sources normally.
 
-#### Champion [CS]
+#### Champion
 
 The armorist gains a Champion feat of her choice as a bonus feat. She must meet the prerequisites of the feat. This prowess can be gained multiple times.
 
@@ -171,15 +171,15 @@ The armorist gains a Champion feat of her choice as a bonus feat. She must meet 
 
 Add [[Armor|chaos buffer]] to all bound and summoned armor and shields. Add [[Weapons|wild critical]] to the properties you may add to your bound and summoned weapons.
 
-#### Combat Feat [Core]
+#### Combat Feat
 
 You may select a combat feat as a bonus feat. You must meet the prerequisites for this feat.
 
-#### Combat Talent [CS]
+#### Combat Talent
 
 You gain a bonus combat talent. This arsenal trick may be taken more than once, granting an additional talent each time.
 
-#### Crafter [Core]
+#### Crafter
 
 You gain an item creation feat of your choice. You must meet the prerequisites to gain an item creation feat in this manner. You may gain this arsenal trick multiple times. Each time it is selected, gain a different item creation feat.
 
@@ -187,7 +187,7 @@ You gain an item creation feat of your choice. You must meet the prerequisites t
 
 The armorist gain the Customized Bond feat as a bonus feat. She must meet the feat’s prerequisites to select this arsenal trick.
 
-#### Dancing [Core]
+#### Dancing
 
 Add dancing (+4) and animated (+2) to the list of special qualities you may add to your bound and summoned weapon and shields respectively. A bound weapon or shield with the dancing or animated quality does not disappear until after it has finished its 4 rounds of independent action.
 
@@ -203,15 +203,15 @@ Add destructive focus (+1), greater destructive focus (+2), and blast vessel (+2
 
 You add the agile (+1) to the list of special qualities you may add to all your bound and summoned weapons. You may take this arsenal trick a second time after 12th level. Upon picking this arsenal trick a second time, all bound and summoned weapons gain the dueling special quality.
 
-#### Empathic [Core]
+#### Empathic
 
 Add menacing (+1), cunning (+1), cruel (+1), and courageous (+1) to the list of special qualities you may add to your bound and summoned weapons.
 
-#### Ethereal Equipment (Requires Armorist 8) [Core]
+#### Ethereal Equipment (Requires Armorist 8)
 
 Add brilliant energy (+4) to the list of special qualities you may add to your summoned and bound weapons. Add ghost touch (+1, +3) to the list of special qualities you may add to your summoned and bound weapons, armor, and shields.
 
-#### Extradimensional Storage (Sp) [Core]
+#### Extradimensional Storage (Sp)
 
 You gain the Extradimensional Storage Warp sphere talent, even if you do not possess the Warp sphere. You may use your armorist level as your caster level for this ability if it is higher, and you may choose to summon items from your extradimensional storage with the same action and with the same rules (such as replacing one suit of armor with another) as your other summoned equipment.
 
@@ -221,27 +221,27 @@ You may take this arsenal trick twice, which upgrades your spell-like ability to
 
 You gain an advanced armor training ability as a fighter of equal level. You use you armorist levels in place of fighter levels, and if you have both, they stack.
 
-#### Finesse [Core]
+#### Finesse
 
 You gain the Weapon Finesse feat.
 
-#### Gear Trick [Core]
+#### Gear Trick
 
 You gain the Equipment Trick feat.
 
-#### Greater Materials (Requires Armorist 12, Improved Materials) [Core]
+#### Greater Materials (Requires Armorist 12, Improved Materials)
 
 You may summon equipment and create bound equipment that is made from adamantine.
 
-#### Heavy Armor [Core]
+#### Heavy Armor
 
 You gain the Heavy Armor Proficiency feat.
 
-#### Hide Equipment [Core]
+#### Hide Equipment
 
 All your bound and summoned gear gain the glamered special quality.
 
-#### Hunter (Requires Armorist 15) [Core]
+#### Hunter (Requires Armorist 15)
 
 Add bane (+1) and defiant (+1) to the qualities you may add to your bound weapons and armor/shields respectively. When summoning equipment, you may spend an additional spell point to add these qualities to the qualities you may add to that piece of summoned equipment.
 
@@ -249,11 +249,11 @@ Add bane (+1) and defiant (+1) to the qualities you may add to your bound weapon
 
 You can add your casting ability modifier instead of your Strength or Dexterity modifier to attack rolls when you are wielding a bound or summoned weapon.
 
-#### Improved Equipment [Core]
+#### Improved Equipment
 
 Choose one piece of bound equipment you possess. That piece of equipment gains an additional +1 enhancement bonus. If you permanently dismiss this piece of bound equipment, you may transfer this bonus to another piece of bound equipment you possess. You may take this talent multiple times. Each time it is taken, increase the bonus granted by another piece of bound equipment by 1. You cannot increase an individual item more than once with this arsenal trick.
 
-#### Improved Materials (Requires Armorist level 6) [Core]
+#### Improved Materials (Requires Armorist level 6)
 
 You may summon equipment or create bound equipment out of cold iron, silver, or mithril.
 
@@ -261,7 +261,7 @@ You may summon equipment or create bound equipment out of cold iron, silver, or 
 
 When summoning a weapon or a bound weapon, as part of the action required to summon it you may merge that weapon with a limb capable of wielding a weapon as per the Graft Weapon trait of the Morphic Weapon (Alteration) talent.
 
-#### Movement [Core]
+#### Movement
 
 Add the following special qualities to those you may grant to a suit of armor: +20 base movement speed (+1), waterbreathing (+1), 30 ft Swim speed (+1), 30 ft Climb speed (+1), 30 ft Fly speed (maneuverability poor, +2), 15 ft Burrow Speed (+2). You may grant movement-altering special qualities multiple times to the same suit of armor. Each time they are granted beyond the first, increase the granted movement speed by 10 ft.
 
@@ -285,7 +285,7 @@ The armorist may cause a piece of summoned or bound equipment to appear on or in
 
 You may cause a piece of summoned or bound equipment to appear on or in the possession of a [[Conjuration]] sphere companion that you have summoned. The companion must be within 25 ft. + 5 ft. per two armorist levels. The companion may be treated as the armorist for the purposes of maintaining the bound equipment in its possession. Additionally, if you possess the Variable Armaments feat, you may apply the benefits of any equipment tricks granting additional weapon property options to those available to your companion.
 
-#### Shifting Weapon [Core]
+#### Shifting Weapon
 
 All your bound and summoned weapons gain the transformative special quality.
 
@@ -297,11 +297,11 @@ Add mind buttressing (+2) and spell dodging (+2) to the special abilities you ma
 
 Add howling (+1), thundering (+1), and windblast (+2) (see [[Weapons]]) to the list of special qualities you may add to your bound and summoned weapons. The saving throw to avoid being deafened by bound or summoned weapons that you apply thundering to is equal to 14 or the DC for your Weather sphere abilities, whichever is higher.
 
-#### Tower Shield [Core]
+#### Tower Shield
 
 You gain the Tower Shield Proficiency feat.
 
-#### Trap and Free (Requires Armorist 5) [Core]
+#### Trap and Free (Requires Armorist 5)
 
 Add advancing (+2), anchoring (+2), and reposition (+3) to the list of special qualities you may add to your bound and summoned weapons.
 
@@ -311,7 +311,7 @@ Add Aggressive (+1), Alerting (+3), Carved (+1) and Watchful (+2) to the special
 
 Wiki Note: These were introduced in The Battlemage's Handbook. See the [[Weapons]] page for their details.
 
-#### Weapon Focus [Core]
+#### Weapon Focus
 
 You gain the Weapon Focus feat.
 
@@ -339,19 +339,19 @@ At level 20, you no longer need to spend a spell point to summon equipment.
 
 The following feats are especially helpful or appropriate for Armorists.
 
-#### Extra Arsenal Trick [Core]
+#### Extra Arsenal Trick
 
 **Prerequisite:** Arsenal Trick class feature.
 
 **Benefit:** Gain an arsenal trick for which you meet the prerequisites. You may take this feat multiple times. The effects stack.
 
-#### Extra Magic Talent [Core]
+#### Extra Magic Talent
 
 **Prerequisite:** Basic Magic Training or Casting class feature.
 
 **Benefit:** Gain an additional sphere or a talent from a sphere you possess. You may take this feat multiple times. The effects stack.
 
-#### Extra Spell Points [Core]
+#### Extra Spell Points
 
 **Prerequisite:** Spell Pool.
 

@@ -121,7 +121,7 @@ Whenever you rally an ally other than yourself, you may also rally yourself at t
 
 The maximum size of your momentum pool increases by the number of (momentum) talents you possess. In addition, when you refill your momentum pool, it refills to its maximum value, including these additional points. You may take this talent multiple times; its effects stack.
 
-#### Totem Merger [Alienist HB]
+#### Totem Merger
 
 Whenever one of your totems contains one of your other totems or the totem of an allied spellcaster within its area, the effects of each totem extends into the area of the other. This can be used to chain any number of totems together.
 
@@ -163,7 +163,7 @@ When a member of this mandate damages an enemy, the other member can make attack
 
 When a member of this mandate succeeds in a combat maneuver against an enemy, the other member gains total concealment against that enemy.
 
-#### Impose (mandate) [Warden]
+#### Impose (mandate)
 
 Whenever a member of this mandate takes damage, the other member of this mandate may choose to transfer up to an amount of damage equal to twice your caster level (minimum 1) to themselves as a free action (usable outside their turn).
 
@@ -201,7 +201,7 @@ When a member of this mandate is hit by an enemy, the other member of this manda
 
 As a swift action, any ally may spend three points of momentum to grant themselves an additional attack made at their highest base attack bonus for that round. This does not stack with effects that grant extra attacks as part of a full-round action.
 
-#### Cooperative Momentum (momentum) [Warden]
+#### Cooperative Momentum (momentum)
 
 Whenever an ally would be affected by an ability originating from another ally that is subject to spell resistance and covers an area, the ally may spend a point of momentum to treat themselves and their equipment as if they were immune.
 
@@ -213,7 +213,7 @@ Whenever an ally hits an enemy with a weapon attack, natural weapon attack or un
 
 Whenever an ally hits an enemy with an attack, they may spend a point of momentum as an immediate action to try and demoralize that enemy with their Intimidate skill. If the enemy is already shaken, they may instead spend three points to attempt to make the shaken enemy frightened. If they are already frightened, they may instead spend five points to attempt to make the frightened enemy panicked.
 
-#### Disrupting Momentum (momentum) [Warden]
+#### Disrupting Momentum (momentum)
 
 Whenever an ally would be attacked with a melee attack or combat maneuver, the ally may spend 2 points of momentum as an immediate action to force the attacker to roll their attack roll or combat maneuver check twice and take the lowest result (Will negates).
 
@@ -221,7 +221,7 @@ Whenever an ally would be attacked with a melee attack or combat maneuver, the a
 
 Allies may spend two points of momentum to add a 1d6 circumstance bonus to any skill or ability check. The decision to add this bonus must be made before the skill or ability check is rolled. Each ally may do this only once per turn.
 
-#### Focusing Momentum (momentum) [Warden]
+#### Focusing Momentum (momentum)
 
 As a move action, an ally may spend 2 points of momentum to regain their martial focus. Alternatively, the ally may spend 3 points of momentum to regain their martial focus as a swift action instead.
 
@@ -233,7 +233,7 @@ On their turn, an ally may spend a point of momentum to move 5 feet. This is a f
 
 Whenever an ally takes hit point damage, they may spend a point of momentum to reduce the damage of the attack by your casting ability modifier (minimum 1). This is not a form of damage resistance and does not stack with itself.
 
-#### Revitalizing Momentum (momentum) [Warden]
+#### Revitalizing Momentum (momentum)
 
 As a swift action, an ally may spend any amount of momentum (maximum equal to your casting ability modifier). The ally gains a number of temporary hit points equal to 1d4 per momentum spent. These temporary hit points last for a number of rounds equal to the amount of momentum spent.
 
@@ -357,7 +357,7 @@ When you activate this totem, choose a teamwork feat you possess. Allies within 
 
 You must spend a spell point in order to create a taking totem. Whenever a creature is subjected to a negative energy effect that causes them to regain or lose hit points (but not temporary hit points granted or ability damage dealt) the number of hit points gained or lost increases by your caster level or the original value, whichever is less.
 
-#### Totem Of Agility (totem) [Alienist HB]
+#### Totem Of Agility (totem)
 
 You and your allies ignore nonmagical difficult terrain within the area of the totem. At caster level 10th, you and your allies may ignore magical difficult terrain and may open doors as a free action rather than a move action within the area of the totem.
 
@@ -381,7 +381,7 @@ You must spend a spell point to place a totem of doom. All enemies in the area b
 
 You may take this talent a total of three times. If taken twice, your totem of doom becomes cumulative; if a creature comes into contact with your totem of doom who is already shaken from another effect, the effect of your totem of doom is changed to frightened for that specific creature. If you gain this talent three times, a creature who comes into contact with your totem of doom who is already frightened from another effect becomes panicked. Multiple totems of doom do not stack with each other for this purpose.
 
-#### Totem Of Dread (totem) [Alienist HB]
+#### Totem Of Dread (totem)
 
 Enemies within the totem’s area must attempt a Will save. On a failed saving throw, they cannot benefit from morale bonuses so long as they remain in the area of the totem. A creature within this totem gets a Will saving throw upon first encountering it, and an additional Will saving throw at the end of each turn they are affected by it until they successfully save.
 
@@ -461,7 +461,7 @@ The area of your totem is filled with quiet voices that distract and unnerve you
 
 This does not work against deaf enemies, or enemies in an environment where it is difficult to hear. The whispers also interfere with using abilities that require speaking - such an ability has a 10% chance of failing when used plus 5% per 5 caster levels, even if the user is deaf. Whenever a creature uses such an ability, they can attempt a Perform (oratory) as part of the action required to activate the ability with a DC of 10 + your caster level to negate this effect.
 
-#### What Is It Good For? (totem) [Jester's HB]
+#### What Is It Good For? (totem)
 
 You create a totem that amplifies the futility of war. Enemies within this totem do not gain bonuses to attack rolls or to AC due to battlefield positioning, such as flanking, higher ground, or cover.
 
@@ -495,13 +495,13 @@ The owner of a monument does not need to stay within range of it to maintain it,
 
 Creating a monument takes 8 hours.
 
-#### Penetrating Totems [Alienist HB]
+#### Penetrating Totems
 
 **Prerequisites:** War sphere, caster level 5th.
 
 Your totems do not require line of effect to function, expanding out to their normal range through any barriers. If creating the totem would cause it to go through another object, the totem cuts harmlessly through the material (without compromising the integrity of the object or creature).
 
-#### Totem Of Tenuous Mortality (totem) [EO3]
+#### Totem Of Tenuous Mortality (totem)
 
 **Prerequisites:** War sphere, caster level 5th.
 
@@ -535,7 +535,7 @@ Similar to the Mana sphere, many Squadron feats offer potent supportive abilitie
 
 **Benefit:** As a swift action, you may spend a spell point or expend your martial focus and designate a target. Until the beginning of your next turn, whenever a member of your squadron hits that target, all members of your squadron receive an additional +1 circumstance bonus to attack rolls and damage against that target. Members with iterative attacks can benefit from bonuses generated earlier in the same turn. This bonus stacks with itself, up to a maximum equal to your War caster level or your ranks in Diplomacy, whichever is higher.
 
-#### Hive Mind (Squadron) [Alienist HB]
+#### Hive Mind (Squadron)
 
 **Prerequisites:** War sphere, Squadron Commander; or Warleader sphere, Troop Commander; caster level 5th or 5 ranks in Diplomacy.
 
@@ -613,7 +613,7 @@ Similar to the Mana sphere, many Squadron feats offer potent supportive abilitie
 
 **Benefit:** Whenever a member of your squadron leaves a square adjacent to another member of your squadron, they do not provoke attacks of opportunity from adjacent enemies.
 
-#### Squad Triangulation (Squadron) [Alienist HB]
+#### Squad Triangulation (Squadron)
 
 **Prerequisites:** War sphere, Squadron Commander; or Warleader sphere, Troop Commander.
 
@@ -631,7 +631,7 @@ Alternatively, instead of allies, your squadron may consist of yourself and one 
 
 Members of your squadron gain increased bonuses from your totems. If a totem grants a bonus to any d20 roll or any number that is the target of a d20 roll (such as AC, attack rolls, saving throws, CMB, CMD, ability checks, skill checks, concentration checks, or spell penetration checks), that bonus increases by +1, and an additional +1 for every 10 War caster levels you possess.
 
-#### Squadron Network (Squadron) [Alienist HB]
+#### Squadron Network (Squadron)
 
 **Prerequisites:** War sphere, Squadron Commander; or Warleader sphere, Troop Commander; character level 10th.
 

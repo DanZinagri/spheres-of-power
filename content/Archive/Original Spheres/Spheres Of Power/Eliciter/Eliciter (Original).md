@@ -121,7 +121,7 @@ At 19th level, the eliciter may cause the target to fall before him in reverence
 
 An eliciter’s power comes from their command of emotions, both their own and others. At 2nd level, an eliciter chooses an emotion, gaining the minor power associated with that emotion. At 5th level and every 3 levels thereafter, the eliciter may choose to gain the minor power of a new emotion, or gain access to the next level of an emotion he already possesses (lesser, greater, and master). An eliciter cannot gain a lesser power before 5th level, a greater power before 8th level, or a master power before 11th level. All emotions are mind-affecting effects. If an emotion calls for a saving throw, the DC is equal to 10 + 1/2 the eliciter’s level + the eliciter’s Charisma modifier + his persuasive bonus.
 
-#### Apathy [Core]
+#### Apathy
 
 **Minor: Touch of Apathy (Su):** As a standard action, you may make a touch attack against a target, stealing its desire to act. The creature can only take a move action on its next turn, but can defend itself normally. Once a creature has been affected by touch of apathy, it is immune to its effects for 24 hours. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
@@ -145,7 +145,7 @@ You can use this ability a number of times per day equal to 3 + your Charisma mo
 
 **Master: Suspicion:** Your touch of paranoia lasts 3 rounds.
 
-#### Enmity [Core]
+#### Enmity
 
 **Minor: Touch of Enmity (Su):** As a standard action, you may make a touch attack against a creature to force that creature to immediately make an attack of opportunity against one of its allies (Will negates). The ally designated must be within the touched creature’s threatened area.
 
@@ -165,7 +165,7 @@ You can use this ability a number of times per day equal to 3 + your Charisma mo
 
 **Master: Unbridled:** The effects of your touch of zeal ability last for 3 rounds instead of 2.
 
-#### Fear [Core]
+#### Fear
 
 **Minor: Touch of Fear (Su):** You can make a melee touch attack as a standard action to make a target frightened for 1 round (Will negates). A successful save still leaves the target shaken for 1 round. This does not stack with other shaken effects. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
@@ -175,7 +175,7 @@ You can use this ability a number of times per day equal to 3 + your Charisma mo
 
 **Master: Dread:** Your touch of fear causes targets who fail their save to become panicked for a number of rounds equal to your Charisma modifier. Panicked creatures drop everything held, run away at top speed, and cower if attacked.
 
-#### Grief [Core]
+#### Grief
 
 **Minor: Touch of Grief (Su):** As a standard action, you may make a touch attack against a target to fill it with crushing sadness. This inflicts 1d6 points of nonlethal damage + 1 for every two eliciter levels you possess and sickens the target for 1 round. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
@@ -185,7 +185,7 @@ You can use this ability a number of times per day equal to 3 + your Charisma mo
 
 **Master: Pure Grief:** When you use your touch of grief on a target, the target is sickened for 1 round per 2 eliciter levels you possess.
 
-#### Joy [Core]
+#### Joy
 
 **Minor: Touch of Joy (Su):** You can touch a willing creature as a standard action, filling it with elation and confidence in all it undertakes. For the next round, any time the target rolls a d20, he may roll twice and take the more favorable result. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
@@ -195,7 +195,7 @@ You can use this ability a number of times per day equal to 3 + your Charisma mo
 
 **Master: Pure Joy:** The effects of your touch of joy ability lasts for 3 rounds instead of 2.
 
-#### Love [Core]
+#### Love
 
 **Minor: Charming Touch (Su):** You can charm a living humanoid by touching it. Creatures in combat and those with a hostile attitude toward you are unaffected. Creatures receive a Will saving throw to negate the effect. Creatures that fail their save change their attitude toward you to friendly for 1 round per 2 eliciter levels (minimum 1). The target views you and your words in favorable ways (although this does not grant the ability to communicate with the target if it cannot already understand you). You must succeed at an opposed Charisma check to convince it to do something it wouldn’t normally do, and requests that are against its nature or fatal to itself are never obeyed. Any hostile action by you or your allies breaks the effect. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
@@ -215,7 +215,7 @@ You can use this ability a number of times per day equal to 3 + your Charisma mo
 
 **Master: Compassion (Su):** Whenever the loyal creature aids another willing ally, they may also transfer any number of hit points, temporary hit points, or magic effects attached to them to the person they are aiding.
 
-#### Rage [Core]
+#### Rage
 
 **Minor: Touch of Rage (Su):** You can touch a willing creature as a standard action, giving it a morale bonus on attack rolls, damage rolls, and Will saving throws equal to 1/2 your eliciter level (minimum 1) for 1 round. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
@@ -277,31 +277,31 @@ The following feats are especially helpful or appropriate for Eliciters.
 
 **Benefit:** You may fuel raw magical energy from your spell pool and into your emotion class feature. You may spend a spell point instead of a daily use of an emotion for emotions with limited daily uses.
 
-#### Elicit Strike [Core]
+#### Elicit Strike
 
 **Prerequisites:** Improved Unarmed Strike, Emotion class feature.
 
 **Benefit:** If you make a successful unarmed strike against an opponent, in addition to dealing your unarmed strike damage, you can spend a swift action to deliver the effects of an emotion power with ‘touch’ in its name. Doing so provokes no attacks of opportunity.
 
-#### Extra Emotion [Core]
+#### Extra Emotion
 
 **Prerequisite:** Emotion class feature.
 
 **Benefit:** Gain the minor power of a new emotion or the next level of an emotion you already possess. You may take this feat multiple times. The effects stack.
 
-#### Extra Magic Talent [Core]
+#### Extra Magic Talent
 
 **Prerequisite:** Basic Magic Training or Casting class feature.
 
 **Benefit:** Gain an additional sphere or a talent from a sphere you possess. You may take this feat multiple times. The effects stack.
 
-#### Extra Spell Points [Core]
+#### Extra Spell Points
 
 **Prerequisite:** Spell Pool.
 
 **Benefit:** Your spell pool total increases by 2. You may gain this feat multiple times. The effects stack.
 
-#### Greater Hypnosis [Core]
+#### Greater Hypnosis
 
 **Prerequisite:** Hypnotism class feature.
 
@@ -331,7 +331,7 @@ If at least one enemy fails their saving throw, you may choose one enemy that fa
 
 When using Soul-Piercing Gaze, it is difficult for observers to detect the use of any supernatural ability. You may make a Bluff check vs the passive perception of any observers to disguise what you are doing.
 
-#### Sphere Focus [Core]
+#### Sphere Focus
 
 **Prerequisite:** Casting class feature.
 
@@ -343,7 +343,7 @@ When using Soul-Piercing Gaze, it is difficult for observers to detect the use o
 
 **Benefit:** You may enhance an emotion power that has a range of touch and a single target to extend the range to 30 ft. and the maximum number of targets to be equal to your Charisma modifier. Each target of the emotion power must be within close range of each other as well as you. If the power grants a saving throw to resist, the DC is reduced by 2. Using an emotion power in this way costs 3 daily uses of the power instead of 1.
 
-#### Trance [Core]
+#### Trance
 
 **Prerequisite:** Emotion class feature.
 

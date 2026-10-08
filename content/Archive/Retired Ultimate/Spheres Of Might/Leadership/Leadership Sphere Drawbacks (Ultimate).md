@@ -55,7 +55,7 @@ Requires (cohort) package.
 
 You may only recruit troops, not individual cohorts. You must choose the Squad talent as the bonus talent gained from this drawback.
 
-#### Summoner [Apoc]
+#### Summoner
 
 *Source: [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)*
 

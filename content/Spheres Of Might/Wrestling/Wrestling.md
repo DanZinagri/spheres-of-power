@@ -38,7 +38,7 @@ Practitioners who train in certain spheres focused on unarmed combat, such as Bo
 
 # Wrestling Talents
 
-#### Aggressive Grip [DRS]
+#### Aggressive Grip
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -52,11 +52,11 @@ Additionally, when you successfully snag a creature, you can attempt an Intimida
 
 Whenever you control a grapple against a creature, that creature is unable to breathe or speak, though they may hold their breath in response to being grappled. Each consecutive round they spend grappled by you counts as a number of rounds equal to your practitioner modifier against the total number of rounds they may hold their breath before they are forced to make Constitution checks to avoid suffocating. For every 4 points of base attack bonus you possess, each passing round counts as an additional +1 round when determining how long they can hold their breath.
 
-#### Compound Entrapment [Alienist HB]
+#### Compound Entrapment
 
 Whenever you would be allowed a free action grapple attempt against a creature you are already grappling (such as when you hit with an attack using the grab special attack), you may instead choose to increase the target’s penalties for grappling by 2 for 1 round. This increased penalty stacks with itself, to a maximum of half your base attack bonus (minimum 2).
 
-#### Embracing Bear (stance) [Youxia HB]
+#### Embracing Bear (stance)
 
 While in this stance and a creature within reach targets you with a melee attack, before the attack roll is made you may allow the attack to automatically strike you (although the roll is still made to determine if the attack threatens a critical hit). After the damage is determined, you may spend an attack of opportunity to attempt to initiate a grapple against that creature as a free action that may be taken even when it is not your turn, if it is in range. You may not use this talent in conjunction with (deflect) talents or any other ability that would grant you an attack or combat maneuver due to a missed attack against you.
 
@@ -124,7 +124,7 @@ Whenever a creature’s attempt to initiate or maintain a grapple or swallow who
 
 Whenever you successfully initiate a grapple against a creature, you may choose to force that creature into any space within your natural reach rather than an adjacent square. A creature being grappled by you may still attack you even if you would be outside of their reach, but only deals half damage if you would normally be outside of their reach.
 
-#### Stubborn Serpent’s Coils [BTH]
+#### Stubborn Serpent’s Coils
 
 You channel the serpent, improving your tenacity and grip.
 
@@ -147,7 +147,7 @@ If there is no unoccupied, safe space within your reach when attempting to move 
 
 *If you are being moved away from your grappled target:* If a creature uses the bull rush combat maneuver to push you away from your grappled target, you can attempt a grapple combat maneuver as an immediate action (or as an attack of opportunity if the target is battered) against your grappled target. If you are successful, the grappled target also moves into an unoccupied, safe space within your reach and your grapple would not end.
 
-#### Tackle [Apoc]
+#### Tackle
 
 *Source: [Spheres Apocrypha: Debilitating Talents](https://www.drivethrurpg.com/product/304600/Spheres-Apocrypha-Debilitating-Talents?affiliate_id=549120)*
 
@@ -179,7 +179,7 @@ Those observing you using this talent can make a Perception check with a DC of 1
 
 # Slam Talents
 
-#### Armbar (slam) [Apoc]
+#### Armbar (slam)
 
 *Source: [Spheres Apocrypha: Armor Talents](https://www.drivethrurpg.com/product/303193/Spheres-Apocrypha-Armor-Talents?affiliate_id=549120)*
 
@@ -191,7 +191,7 @@ When you successfully maintain a grapple against a creature you have already pin
 
 **Note:** Undead are not immune to this effect and must make the saving throw.
 
-#### Chink In The Armor (slam) [Apoc]
+#### Chink In The Armor (slam)
 
 *Source: [Spheres Apocrypha: Armor Talents](https://www.drivethrurpg.com/product/303193/Spheres-Apocrypha-Armor-Talents?affiliate_id=549120)*
 
@@ -221,11 +221,11 @@ Creatures wielded in this manner use the improvised weapon charts when determini
 
 You can lift a creature into the air before dropping them onto the ground, dealing 1d8 + your practitioner modifier damage and forcing them to make a successful Fortitude save or become fatigued for 1 round, ending the grapple. A creature that fails the save is also knocked prone. At +10 base attack bonus, the creature is knocked prone regardless of if they make the Fortitude save.
 
-#### Ransack (slam) [EO3]
+#### Ransack (slam)
 
 You may attempt a steal combat maneuver against the grappled creature without provoking attacks of opportunity. When making a steal attempt in this way, halve any bonuses the creature may possess for having an item be secured.
 
-#### Tag Team (slam) [Jester's HB]
+#### Tag Team (slam)
 
 You force the target of your grapple to provoke an attack of opportunity from one other ally threatening the target with a +2 circumstance bonus on their attack roll, breaking your grapple. If the target takes damage from the attack of opportunity, you regain martial focus and may move up to 10 feet. This movement does not provoke an attack of opportunity.
 
@@ -233,7 +233,7 @@ You force the target of your grapple to provoke an attack of opportunity from on
 
 # Legendary Talents
 
-#### Death Valley Driver (slam) [Gravecaller's HB]
+#### Death Valley Driver (slam)
 
 You ceremoniously swing the creature’s body up over your back before dropping them onto their back.
 
@@ -251,7 +251,7 @@ When you successfully maintain a grapple against a creature as a standard action
 
 In order to end the entangled condition and move from that spot, the creature must succeed at a grapple, Escape Artist, or Strength check against your CMD. After using Earth-Shattering Slam on a target, your grapple with them immediately ends and they cannot be grappled again so long as they are entangled; in essence, they are being grappled by the ground.
 
-#### Ghostbinding Grasp [EO3]
+#### Ghostbinding Grasp
 
 **Prerequisites:** Wrestling sphere (Inescapable Grasp), base attack bonus +7.
 
@@ -307,7 +307,7 @@ The target travels 5 ft. through the ground for every 5 base attack bonus you po
 
 So long as the target is entangled from your Earth-Shattering Slam, they also cannot breath and must hold their breath or begin suffocating. Even if they escape the entanglement, they must still climb, fly, or otherwise exit the hole they are in.
 
-#### Vital Crusher [EO3]
+#### Vital Crusher
 
 **Prerequisites:** Wrestling sphere (Limb Ripper (slam)), base attack bonus +15.
 

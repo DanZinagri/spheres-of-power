@@ -75,7 +75,7 @@ When you use your active defense, you may choose to make an attack roll as if ma
 
 Whenever you take the total defense action while wielding a shield, creatures that miss you provoke attacks of opportunity from you. You may make these attacks of opportunity but take a penalty on the attack rolls as if you were fighting defensively.
 
-#### Reassuring Imposition [Apoc]
+#### Reassuring Imposition
 
 *Source: [Tandem Talents](https://www.drivethrurpg.com/product/282809/Spheres-Apocrypha-Tandem-Talents?affiliate_id=549120)*
 
@@ -95,17 +95,17 @@ While wielding a buckler, shield, or tower shield, you may spend a move action t
 
 Additionally, whenever an attack misses a creature benefiting from your active defense, you may regain your martial focus as an immediate action.
 
-#### Snapping Tortoise (stance) [Youxia HB]
+#### Snapping Tortoise (stance)
 
 While in this stance, whenever a creature misses an attack against a creature benefiting from your active defense, your next successful attack action against that creature before the end of your next turn forces that creature to succeed at a Fortitude save or fall prone even if you are no longer in this stance.
 
-#### Targe Riposte [High. HB]
+#### Targe Riposte
 
 You can use the hand wielding a light shield to also wield a light or one-handed weapon, as if it were a buckler, but you take a -2 penalty on attack rolls (instead of -1). If the hand wielding the light shield is wielding a weapon from the close or light blades fighter weapon group, you only take a -1 penalty on attack rolls. Whenever you would attempt a melee attack with a shield bash, you may instead attempt a melee attack with a light or one-handed weapon from the close or light blades fighter weapon groups wielded in your shield hand.
 
 You may take this talent a total of twice. If taken a second time, whenever you would attempt a melee attack with a shield bash, you may instead attempt a melee attack with any light or one-handed weapon (not just those from the close or light blades fighter weapon groups) wielded in your shield hand.
 
-#### Tough Shield [EO3]
+#### Tough Shield
 
 You add your shield bonus to AC as a shield bonus to your CMD.
 
@@ -155,7 +155,7 @@ Whenever an attack would reduce you to 0 or fewer hit points you may activate yo
 
 You may use your Redirecting Shield talent against spell effects that include an attack roll or touch attack.
 
-#### Perfect Turtle Mimicry (stance) [Jester's HB]
+#### Perfect Turtle Mimicry (stance)
 
 **Prerequisites:** Shield sphere (Flexible Cover), base attack bonus +10.
 
@@ -163,13 +163,13 @@ While in this stance, choose one edge of your space. That edge is treated as cov
 
 While in this stance, you may expend martial focus as an immediate action to gain improved cover against attacks from every direction until the start of your next turn (improved cover provides a +8 AC bonus and +4 Reflex save bonus as well as improved evasion against attacks which this Reflex save bonus applies). When you lose the benefits of improved cover granted by this talent, you immediately exit this stance.
 
-#### Quaking Block (deflect) [EO3]
+#### Quaking Block (deflect)
 
 **Prerequisites:** Shield sphere, base attack bonus +5.
 
 Whenever an attack misses a creature benefiting from your active defense, you may spend an immediate action to release a burst of energy, dealing damage as if you had made a successful shield bash to all enemies within a 15-foot cone (or a 10-foot radius burst), centered on the initial target. Creatures within the area may attempt a Reflex saving throw to negate this damage.
 
-#### Shattering Rebuke [EO3]
+#### Shattering Rebuke
 
 **Prerequisites:** Shield sphere (Sacrificial Shield (deflect)), base attack bonus +7.
 
@@ -181,7 +181,7 @@ Whenever you use the Sacrificial Shield talent to redirect damage dealt by a man
 
 You gain a resistance bonus to all saving throws equal to your shield’s enhancement bonus to AC.
 
-#### Spiritual Aspect [EO3]
+#### Spiritual Aspect
 
 **Prerequisites:** Shield sphere (Cover Ally), base attack bonus +5.
 
@@ -193,7 +193,7 @@ If you possess the Extensive Defense talent, you may expend your martial focus w
 
 This talent is a supernatural effect.
 
-#### Towering Bulwark [Conq. HB]
+#### Towering Bulwark
 
 **Prerequisites:** Shield sphere (Flexible Cover), base attack bonus +7.
 

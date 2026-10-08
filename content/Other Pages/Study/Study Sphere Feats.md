@@ -72,7 +72,7 @@ You add the following breakthrough to your theories:
 
 Additionally, you gain a +1 insight bonus to analyze skill checks made against the subject of your theory for every notion the theory possesses.
 
-#### Tactical Hypothesis (Champion) [LotS]
+#### Tactical Hypothesis (Champion)
 
 **Prerequisites:** Scout sphere, Study sphere.
 

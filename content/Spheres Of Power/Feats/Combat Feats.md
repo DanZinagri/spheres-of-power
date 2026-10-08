@@ -68,7 +68,7 @@ Attack smarter, not harder.
 
 **Benefit:** The base critical threat range of your destructive blast increases to 19-20.
 
-#### Desensitized (Combat) [Cata. HB]
+#### Desensitized (Combat)
 
 Your experience with the horrific dulls the impact of atrocities.
 
@@ -116,7 +116,7 @@ The wielder cannot willingly reduce or deal nonlethal damage with this attack. O
 
 **Benefit:** When using the Energy Sphere blast shape, you may spend 2 spell points instead of 1 to form the energy sphere into a serpent, which grows with every target it damages. Whenever the energy sphere successfully deals damage to a target, its size increases by 1 5-foot square. When moving the energy sphere each round, its squares must be arranged contiguously in an arrangement that follows the movement of the ‘head’ of the serpent.
 
-#### Extradimensional Gullet (Combat) [Alienist HB]
+#### Extradimensional Gullet (Combat)
 
 **Prerequisites:** Swallow whole, Alteration sphere (Serpentine Transformation (transformation)), or Death sphere (Tomb Of Flesh); Warp sphere (Extradimensional Room (space)).
 
@@ -144,7 +144,7 @@ If you die, the extradimensional space contracts, disgorging any swallowed creat
 
 **Benefit:** You can prepare yourself for harm if you have advance warning. As a swift action, you may spend 3 stamina points to give yourself resistance to one type of energy damage (acid, cold, electricity, fire, or sonic). This resistance is equal to your character level + your highest mental attribute modifier and lasts 1 minute. You may use this ability multiple times to give yourself resistance against different energy types.
 
-#### Hardened Psyche (Combat) [Cata. HB]
+#### Hardened Psyche (Combat)
 
 Your experience with violence renders you resistant to mental stress.
 
@@ -164,7 +164,7 @@ Your experience with violence renders you resistant to mental stress.
 
 **Benefit:** As a swift action, you can imbue your weapons with a fraction of your power. For 1 round, your weapons deal +1 damage and are treated as magic for the purpose of overcoming damage reduction. For every +5 magic skill bonus you possess, this bonus increases by +1, to a maximum of +5. This ability counts as Arcane Strike for the purposes of qualifying or using feats, items, and abilities, and the bonus from this ability does not stack with the bonus from Arcane Strike. Any feat, item, or ability referencing the caster level of Arcane Strike instead uses the magic skill bonus. In addition, you are considered an arcane caster for the purpose of qualifying for feats that require Arcane Strike as a prerequisite.
 
-#### Improved Assistance (Champion, Combat) [S&P]
+#### Improved Assistance (Champion, Combat)
 
 You add a bit of extra aid when coordinating a technique.
 
@@ -174,7 +174,7 @@ You add a bit of extra aid when coordinating a technique.
 
 If you possess the Circle Casting feat, you may maintain that feat’s effects on the target so long as you are within range of the technique (rather than 30 feet).
 
-#### Improved Chain Blast (Combat) [DbH]
+#### Improved Chain Blast (Combat)
 
 The energy at your fingertips hungers for mass ruin.
 
@@ -306,7 +306,7 @@ Using the sphere or supernatural ability provokes an attack of opportunity if it
 
 **Benefit:** You gain an insight bonus to attack and damage equal to the number of senses from the Divination sphere you currently have active (maximum 1 + 1 per 5 Hit Dice). You may as an immediate action spend a spell point and dismiss a sense you have active to ignore a percentage of miss chance (maximum 5% + 5% per 5 Hit Dice) for 1 round.
 
-#### Portal Combat (Combat) [DbH]
+#### Portal Combat (Combat)
 
 Magical gateways are tools you can weaponize.
 
@@ -350,7 +350,7 @@ You must have at least one round of rage remaining to use this ability, and you 
 
 **Benefit:** Your destructive blade may be shaped with the reach property. This property can be added or removed each time you shape the blade.
 
-#### Ready Initiation (Champion, Combat, Teamwork) [S&P]
+#### Ready Initiation (Champion, Combat, Teamwork)
 
 When one of your allies primes a technique, you respond immediately.
 
@@ -370,7 +370,7 @@ When one of your allies primes a technique, you respond immediately.
 
 **Benefit:** When using the Rebuff talent to provide cover to allies, you also grant them the benefits of improved evasion.
 
-#### Resolute Expertise (Combat) [Alienist HB]
+#### Resolute Expertise (Combat)
 
 **Prerequisite:** Combat Expertise.
 
@@ -394,13 +394,13 @@ You have extreme control over your bones and joints, allowing you to respond to 
 - Add your casting ability modifier as an insight bonus to your CMB and CMD until the start of your next turn.
 - Ignore all penalties to attack rolls, AC, and movement for being prone until the start of your next turn.
 
-#### Shifting Style (Combat) [Alienist HB]
+#### Shifting Style (Combat)
 
 **Prerequisites:** Transformation, customized weapons class feature.
 
 **Benefit:** You may assign each form you can take (including your base form) to a specific customized weapon you possess. You may reassign these forms whenever you gain an additional customized weapon, a new instance of the Transformation feat, or a feat with Transformation as a prerequisite. When you swap to that specific customized weapon, you may swap to the corresponding form as part of the same action. This does not require the form you are currently in to be able to draw or use the customized weapon you are swapping to.
 
-#### Spell Absorption (Combat, Counterspell) [DbH]
+#### Spell Absorption (Combat, Counterspell)
 
 You may bind yourself to an oncoming spell at great risk.
 
@@ -432,13 +432,13 @@ You may bind yourself to an oncoming spell at great risk.
 
 **Benefit:** When targeting yourself and only yourself with an alter time effect, you gain a +1 bonus to your caster level, increasing by +1 at 5 Hit Dice and every 4 Hit Dice thereafter (9, 13, 17). This bonus cannot cause your caster level to exceed your Hit Dice.
 
-#### Tactical Aid (Combat) [S&P]
+#### Tactical Aid (Combat)
 
 Your aid fortifies your ally’s martial capabilities.
 
 **Benefit:** Whenever you use the aid another action, you may choose to increase the target’s base attack bonus by 2 for the duration of the aid another action rather than providing the normal benefit. This ability cannot be affected by effects which would increase the benefit granted from aid another.
 
-#### Technique Crafting (Combat) [S&P]
+#### Technique Crafting (Combat)
 
 You have learned how to create elaborate and unique actions.
 
@@ -464,7 +464,7 @@ You must have a free hand to use this ability. Blast types that carry a spell po
 
 **Benefit:** When you create a totem or mandate, you may spend a stamina point each round to maintain it as a free action. You are still considered concentrating and can have your concentration disrupted as usual. You may maintain multiple effects this way. You can not recover the stamina points spent while the totem or mandate maintained this way remains in effect.
 
-#### Two-Handed Fighting (Combat) [DRS]
+#### Two-Handed Fighting (Combat)
 
 *Source: Diamond Classes: Renowned Warrior and the Peach Tree Oath*
 
@@ -478,7 +478,7 @@ In addition, you gain the ability to make a sweeping strike:
 
 **Example:** Chandou the Greatspear makes a single, mighty sweep against a foe within his threatened area. Chandou possesses the Two-Handed Fighting feat and chooses to make a sweeping strike against the enemies flanking him. Chandou makes a single attack roll, including any bonuses against their original target, and compares it against his original target but also his enemies in the other square. The original target is struck and takes damage normally, including increased damage from Chandou’s Strength modifier being doubled by the Two-Handed Fighting feat. The additional target only takes damage equal to Chandou’s Strength modifier and not his normal weapon damage, or increased Strength multiplier from this feat. If Chandou were fighting with a magic, flaming spear and had other miscellaneous bonuses to damage (such as from weapon training, favored enemy, etc.), those bonuses would not apply to secondary targets damaged by the sweeping strike.
 
-#### Two-Handed Fighting, Improved (Combat) [DRS]
+#### Two-Handed Fighting, Improved (Combat)
 
 *Source: Diamond Classes: Renowned Warrior and the Peach Tree Oath*
 
@@ -488,7 +488,7 @@ In addition, you gain the ability to make a sweeping strike:
 
 In addition, whenever you make a sweeping strike, you may choose up to 2 spaces (instead of just 1). When dealing damage with a sweeping strike, you now also add your weapon’s enhancement bonus to the damage dealt (instead of only your Strength modifier).
 
-#### Two-Handed Fighting, Greater (Combat) [DRS]
+#### Two-Handed Fighting, Greater (Combat)
 
 *Source: Diamond Classes: Renowned Warrior and the Peach Tree Oath*
 
@@ -500,7 +500,7 @@ In addition, whenever you make a sweeping strike, you may choose up to 3 spaces.
 
 **Example:** Chandou the Greatspear has the weapon training class feature and the favored enemy class feature. When making a sweeping strike, Chandou would add his weapon training bonus to the damage dealt with a sweeping strike and would add his favored enemy bonus as bonus damage against creatures which his favored enemy class feature would apply against.
 
-#### Two-Handed Fighting, Perfect (Combat) [DRS]
+#### Two-Handed Fighting, Perfect (Combat)
 
 *Source: Diamond Classes: Renowned Warrior and the Peach Tree Oath*
 
@@ -550,7 +550,7 @@ Additionally, you can apply your poison to a weapon or natural attack by dipping
 
 **Benefit:** Your sphere effects that cover an area (including darknesses, totems, and wards) are especially easy for you to move through. The area inside one of your sphere effects is never difficult terrain for you, and you receive a +4 circumstance bonus to AC vs. attacks of opportunity caused by moving through any square of a sphere effect you created.
 
-#### Warrior-Disciple (Combat) [S&P]
+#### Warrior-Disciple (Combat)
 
 In spite of your diverse magical training, your armed discipline still remains.
 

@@ -164,10 +164,10 @@ Spheres of Power is a unique magic system created by Drop Dead Studios for use w
 - [[Sphere Alchemist]]
 - [[Sphere Antipaladin]]
 - [[Sphere Arcanist]]
-- [[Sphere Bard]] [Core]
+- [[Sphere Bard]]
 - [[Sphere Bloodrager]]
-- [[Sphere Cleric]] [Core]
-- [[Sphere Druid]] [Core]
+- [[Sphere Cleric]]
+- [[Sphere Druid]]
 - [[Sphere Hunter]]
 - [[Sphere Inquisitor]]
 - [[Sphere Investigator]]
@@ -175,15 +175,15 @@ Spheres of Power is a unique magic system created by Drop Dead Studios for use w
 - [[Sphere Medium]]
 - [[Sphere Mesmerist]]
 - [[Sphere Oracle]]
-- [[Sphere Paladin]] [Core]
-- [[Sphere Ranger]] [Core]
+- [[Sphere Paladin]]
+- [[Sphere Ranger]]
 - [[Sphere Shaman]]
 - [[Sphere Skald]]
-- [[Sphere Sorcerer]] [Core]
+- [[Sphere Sorcerer]]
 - [[Sphere Summoner (SummonerUnchained Summoner Archetype)|Sphere Summoner]]
 - [[Sphere Warpriest]]
 - [[Sphere Witch]]
-- [[Sphere Wizard]] [Core]
+- [[Sphere Wizard]]
 
 ---
 
@@ -226,12 +226,12 @@ Spheres of Power is a unique magic system created by Drop Dead Studios for use w
 
 **Prestige Classes**
 
-- [[Bokor]] [Core]
+- [[Bokor]]
 - [[Forest Lord]]
 - [[Realmwalker]]
 - [[Tempestarii]]
 - [[Waking Sleeper]]
-- [[Spheres Archwizard (Prestige Class)|Spheres Archwizard]] [Wiki]
+- [[Spheres Archwizard (Prestige Class)|Spheres Archwizard]]
 
 </div>
 

@@ -120,7 +120,7 @@ Craft Implement of Power, Conjuration sphere, Illusion sphere, Invisibility; Cos
 
 The following special abilities can be applied to implements.
 
-**Diamond Spheres: Magical Organizations [DRS]:** The abilities marked [DRS] below use these rules.
+**Diamond Spheres: Magical Organizations [DRS]:** The abilities marked below use these rules.
 
 This section contains new implement special abilities with a focus on the "grasped" keyword ability. Implements with these special abilities may enhance a user's magic, as they normally would, but are also conduits of their own minor tricks and abilities, a favorite of hedge wizards which rely on wands, foci, and other implements to complement their inherent talent.
 
@@ -169,7 +169,7 @@ An attendant item springs to hand when you send for it. As a swift action you ca
 
 Faint transmutation; CL: 5th; Craft Wondrous Item, Telekinesis Sphere, Call to Hand; Price: +1,000 gp
 
-#### Bone-Tolling [DRS]
+#### Bone-Tolling
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -203,7 +203,7 @@ This staff has been enchanted to conduct primal energies through channels engrav
 
 Moderate enchantment; CL 6th; Craft Staff, War sphere; Price +1 bonus
 
-#### Cloud-Shifting [DRS]
+#### Cloud-Shifting
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -225,7 +225,7 @@ The brief current of wind produced by a *cloud-shifting* implement may move any 
 **Requirements** Craft Implement Of Power, Nature sphere ((air) package); **Cost** +2,500 gp
 
 
-#### Energy-Branding [DRS]
+#### Energy-Branding
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -307,7 +307,7 @@ If this implement is used to cast a spell which is a ranged attack or ranged tou
 **Construction Requirements**
 Craft Implement of Power
 
-#### Fate-Turning [DRS]
+#### Fate-Turning
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -349,7 +349,7 @@ This Protection staff gives its wielder a circumstance bonus to AC equal to its 
 
 Construction Requirements: Craft Staff, Protection sphere; Price +2 bonus
 
-#### Light-Shining [DRS]
+#### Light-Shining
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -395,7 +395,7 @@ Shifting the gaze attack to a greater charm costs 1 spell point, and the effect 
 
 Construction Requirements: Craft Staff, Mind sphere, the Group Charm talent, the Project Thoughts talent; Price: +3 bonus
 
-#### Platform-Calling [DRS]
+#### Platform-Calling
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -419,7 +419,7 @@ If used as a full-round action, the wielder may instead create a number of conti
 **Requirements** Craft Implement Of Power, Creation sphere (Object of Force); **Cost** +4,000 gp
 
 
-#### Rune-Buffering [DRS]
+#### Rune-Buffering
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -447,7 +447,7 @@ The staff provides an enhancement bonus to a sphere other than its base sphere, 
 
 **Prerequisite:** The crafter must have access to the sphere to be enhanced, either on their own or through another caster.
 
-#### Shadow-Veiling [DRS]
+#### Shadow-Veiling
 
 *Source: Diamond Spheres: Magical Organizations*
 
@@ -469,7 +469,7 @@ While benefitting from this haze, as an immediate action the affected creature m
 **Requirements** Craft Implement Of Power, Illusion sphere; **Cost** +4,500 gp
 
 
-#### Spatial-Stitching [DRS]
+#### Spatial-Stitching
 
 *Source: Diamond Spheres: Magical Organizations*
 

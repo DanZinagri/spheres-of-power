@@ -86,7 +86,7 @@ The shifter may use the Alteration sphere to apply a shapeshift to herself and o
 
 At 2nd level and every 4 levels thereafter, the shifter gains a bestial trait, representing the ways she has changed through her assumption of other forms. The shifter may choose to keep these traits when she assumes other forms, even if the trait would normally be removed (such as natural claws).
 
-#### Accommodating Form [Apoc]
+#### Accommodating Form
 
 The shifter chooses one Alteration sphere talent (including the base talent that grants Blank Form) that she possesses that grants traits. When she applies a shapeshift to herself, she can choose one of the traits from that talent that does not cost an additional spell point to apply. That trait does not count towards her maximum amount of traits she may possess on a form. She may select this bestial trait once per every 4 shifter levels she possesses (minimum 1). Each time she does so she selects another talent.
 
@@ -98,95 +98,95 @@ If you possess the flight bestial trait, you also are acclimated to living at hi
 
 If you possess the home in water bestial trait, you also are immune to the pressures of the ocean and take no damage from water pressure.
 
-#### Animal Advisor (Su) [Core]
+#### Animal Advisor (Su)
 
 You gain a familiar, treating your shifter levels as wizard levels.
 
-#### Animal Hide (Ex) [Core]
+#### Animal Hide (Ex)
 
 You gain a +1 natural armor bonus.
 
-#### Animal Trainer (Ex) [Core]
+#### Animal Trainer (Ex)
 
 You gain a bonus equal to 1/2 your shifter level to all Handle Animal checks.
 
-#### Animal Master (Ex) (Requires shifter 6, Animal Trainer) [Core]
+#### Animal Master (Ex) (Requires shifter 6, Animal Trainer)
 
 You may reduce the time needed to teach an animal a new trick or train an animal for a general purpose to 1 day per 1 week required by increasing the DC by +5. She can also train more than one animal at once, although each animal after the first adds +2 to the DC.
 
-#### Barding (Su) (Requires shifter 14) [Core]
+#### Barding (Su) (Requires shifter 14)
 
 When assuming a form with the Alteration sphere that would normally cause your worn armor to meld into your form, you may instead mold your armor around your new form, allowing you to keep your armor’s bonuses and benefits.
 
-#### Bestial Rage (Ex) (Requires shifter 6) [Core]
+#### Bestial Rage (Ex) (Requires shifter 6)
 
 As a standard action, you may let out a ferocious howl. This allows you to make an Intimidate check to demoralize all enemies within 30 ft of you.
 
-#### Bestial Speed (Ex) [Core]
+#### Bestial Speed (Ex)
 
 Increase your base move speed by 10 ft.
 
-#### Bite (Ex) [Core]
+#### Bite (Ex)
 
 You gain a bite attack. This is a primary attack dealing 1d6 damage (1d4 small). If this is the only attack made during the shifter’s turn, add 1 1/2 your Strength bonus to the damage dealt.
 
-#### Chameleon (Ex) (Requires shifter 18) [Core]
+#### Chameleon (Ex) (Requires shifter 18)
 
 You gain the ability to hide in plain sight, using Stealth without cover or concealment, even while being directly observed.
 
-#### Champion [CS]
+#### Champion
 
 The shifter gains a Champion feat of her choice as a bonus feat. She must meet the prerequisites of the feat. This prowess can be gained multiple times.
 
-#### Claws (Ex) [Core]
+#### Claws (Ex)
 
 You gain a pair of retractable claws, which may be retracted or expanded as a free action. These are primary attacks that deal 1d4 damage (1d3 small).
 
-#### Combat Talent [CS]
+#### Combat Talent
 
 You gain a bonus combat talent. This bestial trait may be taken more than once, granting an additional talent each time.
 
-#### Defensive Shift [Apoc]
+#### Defensive Shift
 
 When the shifter applies a shapeshift to herself, she can enter total defense as part of that same action. At the beginning of her next turn, she is staggered for 1 round.
 
-#### Detachable Claws (Ex) (Requires shifter 6, claws) [Core]
+#### Detachable Claws (Ex) (Requires shifter 6, claws)
 
 You may hurl your claws as a ranged attack. This is treated as a thrown weapon with a 10 ft range increment. Each hand is treated as a different weapon (allowing you to throw each as a separate attack). Thrown claws may be regrown as a swift action.
 
-#### Earthglide (Su) (Requires shifter 10, Home in the Underground) [Core]
+#### Earthglide (Su) (Requires shifter 10, Home in the Underground)
 
 You gain earthglide. You can pass through stone, dirt, or almost any other sort of earth except metal as easily as a fish swims through water. If protected against fire damage, you may glide through lava. You leave behind no tunnel, hole, ripple, or any other sign of your presence.
 
-#### Elemental Kin (Su) (Requires shifter 6) [Core]
+#### Elemental Kin (Su) (Requires shifter 6)
 
 Choose either fire, frost, electricity, or acid. You gain resistance 10 to that element. You may gain this trait multiple times. The effects do not stack. Each time this trait is gained, choose a different element to gain resistance to.
 
-#### Elemental Kin, Greater (Su) (Requires shifter 14, Elemental Kin) [Core]
+#### Elemental Kin, Greater (Su) (Requires shifter 14, Elemental Kin)
 
 Choose an element you have resistance to through the Elemental Kin trait. You gain immunity to that element. You may select this trait multiple times. The effects do not stack. Each time it is gained, choose a different element you have resistance to through the Elemental Kin trait.
 
-#### Evasion (Ex) [Core]
+#### Evasion (Ex)
 
 You can avoid even magical and unusual attacks with great agility. If you make a successful Reflex saving throw against an attack that normally deals half damage on a successful save, you instead take no damage. Evasion can be used only if you are wearing light armor, or no armor, and carrying no more than a light load. If you are helpless, you lose the benefit of evasion.
 
-#### Feinting Shift [Apoc]
+#### Feinting Shift
 
 When the shifter applies a shapeshift to herself, she may make a feint check as part of that same action.
 
-#### Ferocious (Ex) (Requires shifter 6, Endurance) [Core]
+#### Ferocious (Ex) (Requires shifter 6, Endurance)
 
 You gain the Diehard feat.
 
-#### Flight (Ex) (Requires shifter 6) [Core]
+#### Flight (Ex) (Requires shifter 6)
 
 You gain a 30 ft flight speed with maneuverability (poor).
 
-#### Flight, Greater (Ex) (Requires shifter 10, Flight) [Core]
+#### Flight, Greater (Ex) (Requires shifter 10, Flight)
 
 You gain either the Flyby Attack, Hover, or Wingover feats. You may select this trait up to 3 times, gaining another feat each time.
 
-#### Gore (Ex) [Core]
+#### Gore (Ex)
 
 You gain the ability to sprout a horn from your head as a free action. This grants you a gore attack dealing 1d6 damage (1d4 small). If this is the only attack made during your turn, add 1 1/2 your Strength bonus to the damage dealt.
 
@@ -198,31 +198,31 @@ Choose one natural attack you possess. You gain the grab universal monster abili
 
 You may spend a spell point and 1 minute to graft a weapon to a limb capable of wielding a weapon as per the Graft Weapon trait of the Morphic Weapon (Alteration) talent. This graft persists until the weapon is removed as a standard action.
 
-#### Home in the Underground (Ex) (Requires shifter 6) [Core]
+#### Home in the Underground (Ex) (Requires shifter 6)
 
 You gain a 15 ft burrow speed.
 
-#### Home in Nature (Ex) [Core]
+#### Home in Nature (Ex)
 
 You gain a favored terrain, as the ranger class feature. You may select this trait once at 2nd level, plus an additional time for every 4 shifter levels you possess beyond 2nd. Each time this trait is gained beyond the first, you gain an additional favored terrain, and the bonuses granted in one of your favored terrains (even the one just selected if you desire) increases by 2.
 
-#### Home in Water (Ex) (Requires shifter 6) [Core]
+#### Home in Water (Ex) (Requires shifter 6)
 
 You gain the amphibious subtype (including the ability to breath underwater) and a 30 ft swim speed.
 
-#### Impaling Charge (Ex) (Requires shifter 10, Gore, Powerful Charge) [Core]
+#### Impaling Charge (Ex) (Requires shifter 10, Gore, Powerful Charge)
 
 You gain the Impaling Charge feat.
 
-#### Improved Evasion (Ex) (Requires shifter 10, Evasion) [Core]
+#### Improved Evasion (Ex) (Requires shifter 10, Evasion)
 
 Your Evasion ability improves, so that while you still take no damage on a successful Reflex saving throw, you henceforth take only half damage on a failed save.
 
-#### Improved Natural Armor (Ex) (Requires shifter 6, Animal Hide) [Core]
+#### Improved Natural Armor (Ex) (Requires shifter 6, Animal Hide)
 
 Your natural armor improves by 1. You may select this trait once per 6 shifter levels you possess. The effects stack.
 
-#### Improved Natural Attack (Ex) (Requires shifter 6) [Core]
+#### Improved Natural Attack (Ex) (Requires shifter 6)
 
 One of your natural attacks increases its damage by one die size. You may select this trait multiple times. Each time it is selected, it applies to a different natural attack.
 
@@ -230,7 +230,7 @@ One of your natural attacks increases its damage by one die size. You may select
 
 You add your level as an enhancement bonus on all Acrobatics skill checks made to jump. When making a jump in this way, the you are always considered to have a running start.
 
-#### Keen Scent (Ex) (Requires shifter 10, Home in Water) [Core]
+#### Keen Scent (Ex) (Requires shifter 10, Home in Water)
 
 You gain the ability to notice other creatures by scent in a 180 foot radius underwater and can detect blood in the water at ranges of up to a mile.
 
@@ -238,67 +238,67 @@ You gain the ability to notice other creatures by scent in a 180 foot radius und
 
 You may make an Acrobatics check to jump as part of your charge. If your vertical height exceeds the height of your target, the target is flat-footed against the attacks granted by that charge and the critical threat range of your natural attacks is increased by 1. This increase stacks with and is applied after effects such as keen and Improved Critical.
 
-#### Living Death (Su) (Requires shifter 14, Undead Kin) [Core]
+#### Living Death (Su) (Requires shifter 14, Undead Kin)
 
 You no longer need to breath. This grants immunity to inhaled poison as well as suffocation (such as from being underground, underwater, or in a vacuum) but does not grant immunity to cloud or gas attacks that do not require breathing.
 
-#### Magical Attacks (Su) (Requires shifter 6) [Core]
+#### Magical Attacks (Su) (Requires shifter 6)
 
 Your natural attacks all gain a +1 enhancement bonus, as if they were magical weapons. This bonus increases by +1 for every 10 shifter levels possessed.
 
-#### Melded Equipment (Su) (Requires shifter 14) [Core]
+#### Melded Equipment (Su) (Requires shifter 14)
 
 You may activate magic items that have melded into your shapeshifted form.
 
-#### Multiattack (Requires shifter 10) [Core]
+#### Multiattack (Requires shifter 10)
 
 You gain the Multiattack feat.
 
-#### Nightvision [Core]
+#### Nightvision
 
 You gain Darkvision to 60 ft. If you already possess Darkvision, increase the range of your Darkvision by 30 ft.
 
-#### Perfect Flight (Requires shifter 10, Flight) [Core]
+#### Perfect Flight (Requires shifter 10, Flight)
 
 Your flight maneuverability increases to perfect.
 
-#### Permanent Size Change (Ex) (Requires shifter 6) [Core]
+#### Permanent Size Change (Ex) (Requires shifter 6)
 
 Your size permanently changes to either Small, Medium, Tiny, or Large, as if using the Alteration sphere’s Size Change talent.
 
-#### Permanent Size Change, Greater (Ex) (Requires shifter 10, Permanent Size Change) [Core]
+#### Permanent Size Change, Greater (Ex) (Requires shifter 10, Permanent Size Change)
 
 You may permanently change your size to either Huge or Diminutive, as if using the Size Change talent from the Alteration sphere.
 
-#### Poison (Ex) (Requires shifter 6) [Core]
+#### Poison (Ex) (Requires shifter 6)
 
 Select a single natural attack (one claw, bite, etc.) you possess. This natural attack inflicts poison on a successful attack (injury; save Fort DC 10 + 1/2 your shifter level + your Constitution modifier; frequency 1/round for 6 rounds; effect 1d2 Con damage; cure 1 save). You may select this trait multiple times. The effects do not stack. Each time it is gained, select a different natural attack to inflict poison.
 
-#### Poison, Improved (Ex) (Requires shifter 10, Poison) [Core]
+#### Poison, Improved (Ex) (Requires shifter 10, Poison)
 
 Select one natural attack augmented by the poison bestial trait. The effect of this poison improves to 1d2 Con and Str damage, 2 saves. You may select this trait multiple times. The effects do not stack. Each time it is gained, select a different natural attack augmented by the poison trait.
 
-#### Pounce (Ex) (Requires shifter 10) [Core]
+#### Pounce (Ex) (Requires shifter 10)
 
 You gain the pounce special ability, allowing you to make a full-attack at the end of a charge.
 
-#### Powerful Charge (Ex) (Requires shifter 6, Gore) [Core]
+#### Powerful Charge (Ex) (Requires shifter 6, Gore)
 
 You may make a powerful charge with your gore attack. When charging, your gore attack deals 2d6 damage (2d4 small) plus 1 1/2 times your Strength bonus.
 
-#### Prey (Ex) [Core]
+#### Prey (Ex)
 
 You gain a favored enemy, as the ranger class feature. You may select this trait once at 2nd level, plus an additional time for every 4 shifter levels you possess beyond 2nd. Each time this is gained after the first, you gain an additional favored enemy, and the bonuses granted against one of your favored enemies (even the one just selected if you desire) increase by 2.
 
-#### Quick Healing (Su) [Core]
+#### Quick Healing (Su)
 
 As a free action once per round, you may heal 5 hit points as if you had the fast healing ability. You may heal 5 hit points per day in this manner for every 2 shifter levels possessed. If you fall unconscious because of hit point damage and you still have healing from this ability, the ability activates automatically each round until you are conscious again or the ability is depleted for the day.
 
-#### Resistant Shift [Apoc]
+#### Resistant Shift
 
 When the shifter applies a shapeshift to herself and becomes a size category larger then she was before, she gains stalwart (if she makes a Fortitude or Will saving throw against an attack that has a reduced effect on a successful save, she instead avoids the effect entirely) for 1 round per 5 levels of shifter she possesses (minimum 1), or until she applies a new shapeshift to herself (whichever is shorter). When she applies a shapeshift to herself and becomes a size category smaller than she was before, she gains evasion (As the shifter bestial trait) for for 1 round per 5 levels of shifter she possesses (minimum 1), or until she applies a new shapeshift to herself (whichever is shorter).
 
-#### Scent (Ex) (Requires shifter 6) [Core]
+#### Scent (Ex) (Requires shifter 6)
 
 You gain the Scent ability.
 
@@ -306,17 +306,17 @@ You gain the Scent ability.
 
 As a standard action you may spend a spell point to reshape a limb capable of wielding a weapon into a weapon you are proficient in as per the Shape Weapon trait of the Morphic Weapon (Alteration) talent. Use your shifter level to determine the effective caster level of this ability. This change persists until dismissed as a free action.
 
-#### Shifting Style [Apoc]
+#### Shifting Style
 
 **Requires:** At least 1 combat talent not from the Alchemy, Equipment, Tech, or Trap sphere; Knowledge of Many Shapes class feature
 
 When the shifter applies a shapeshift to herself, she may spend an additional spell point to gain a combat talent she doesn’t currently possess (excluding the Alchemy, Equipment, Tech, or Trap sphere). She must possess the base sphere associated with the talent in order to gain it. This talent lasts for 1 minute or until she applies a new shapeshift to yourself.
 
-#### Snatch (Requires shifter 14, Huge size) [Core]
+#### Snatch (Requires shifter 14, Huge size)
 
 You gain the Snatch feat.
 
-#### Spider Climb (Ex) (Requires shifter 6) [Core]
+#### Spider Climb (Ex) (Requires shifter 6)
 
 You gain a 30 ft Climb speed.
 
@@ -328,43 +328,43 @@ Your climb speed increases by 10 ft. You may climb virtually on any surface, no 
 
 You grow spines, thorns, or spikes. These may be treated as armor spikes of their size (1d6 Medium, 1d4 Small, 20x2, piercing) but may be enhanced as natural weapons and may be wielded as a secondary natural weapon if beneficial.
 
-#### Sprint (Ex) [Core]
+#### Sprint (Ex)
 
 Once per hour, you may move up to 10 times your speed when running or charging.
 
-#### Superior Senses (Ex) (Requires shifter 14) [Core]
+#### Superior Senses (Ex) (Requires shifter 14)
 
 You gain Blindsense out to 15 ft.
 
-#### Taste for Blood (Ex) (Requires shifter 6) [Core]
+#### Taste for Blood (Ex) (Requires shifter 6)
 
 If you spend a standard action to feast on a corpse killed within the last minute, you enter a rage for a number of rounds equal to your Constitution modifier, gaining a +2 morale bonus to your Strength, Constitution, and Will saves, suffering a -2 penalty to AC.
 
-#### Tracker (Ex) [Core]
+#### Tracker (Ex)
 
 Add half your shifter level (minimum: 1) to Survival checks made to follow tracks.
 
-#### Trackless Step (Ex) [Core]
+#### Trackless Step (Ex)
 
 You no longer leave a trail if you do not wish to.
 
-#### Trip (Ex) (Requires shifter 6, Bite) [Core]
+#### Trip (Ex) (Requires shifter 6, Bite)
 
 When you hit a creature with your bite attack, you may attempt to trip the target as a free action. This does not provoke an attack of opportunity, and you cannot be tripped in return.
 
-#### Twilight [Core]
+#### Twilight
 
 You gain Low-light Vision if you do not already possess it.
 
-#### Undead Kin (Su) (Requires shifter 6) [Core]
+#### Undead Kin (Su) (Requires shifter 6)
 
 You are healed by both positive and negative energy.
 
-#### Web (Ex) [Core]
+#### Web (Ex)
 
 You may create webs as the Web trait from the Vermin Transformation Alteration talent. This ability is usable 8 times per day, rather than once per minute.
 
-#### Woodland Stride (Ex) [Core]
+#### Woodland Stride (Ex)
 
 You may move through any sort of undergrowth (such as natural thorns, briars, overgrown areas, and similar terrain) at your normal speed and without taking damage or suffering any other impairment. Thorns, briars, and overgrown areas that have been magically manipulated to impede motion, however, still affect you.
 
@@ -438,19 +438,19 @@ When this effect ends, any hit point damage, ability damage, ability drain, or o
 
 **Benefit:** You may grant your shapeshift effects the [curse] descriptor. They can only be removed by the Life sphere Break Enchantment talent, spells such as break enchantment, limited wish, miracle, remove curse, or wish, or similarly powerful magic or abilities. If you possess the Unnatural Transformation drawback, failing the save granted by the drawback still ends the effect.
 
-#### Extra Bestial Trait [Core]
+#### Extra Bestial Trait
 
 **Prerequisite:** Bestial Trait class feature.
 
 **Benefit:** Gain an additional bestial trait for which you meet the prerequisites. You may take this feat multiple times. The effects stack.
 
-#### Extra Magic Talent [Core]
+#### Extra Magic Talent
 
 **Prerequisite:** Basic Magic Training or Casting class feature.
 
 **Benefit:** Gain an additional sphere or a talent from a sphere you possess. You may take this feat multiple times. The effects stack.
 
-#### Extra Spell Points [Core]
+#### Extra Spell Points
 
 **Prerequisite:** Spell Pool.
 

@@ -225,7 +225,7 @@ At 11th level, the advisor can apply an additional acclimation to creatures that
 
 **Undermine Strategy (Track Movement):** All affected allies gain a bonus to Perception checks to notice the chosen opponent and Survival checks made to track the target equal to the advisor’s class level, as well as gaining blindsense for up to 20 feet, but only against the chosen opponent.
 
-### Occultism [DRS]
+### Occultism
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -344,7 +344,7 @@ Lessons marked with an asterisk (*) provide additional synergy benefits to those
 
 The advisor gains the Monitor Movements Communication sphere talent as a bonus talent. Additionally, as a synergy benefit, the synergised allies are immune to each other's abilities, including those that cover an area, unless the ally is willing to such an effect.
 
-#### Coordinated Plans [plan] [DRS]
+#### Coordinated Plans [plan]
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 

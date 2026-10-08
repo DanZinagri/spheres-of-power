@@ -8,7 +8,7 @@ parent: "[[Sphere Bestiary]]"
 
 *Source: [Spheres Bestiary: Fey and Feyfolk](https://www.drivethrurpg.com/product/322425/Spheres-Bestiary-Fey-and-Feyfolk?affiliate_id=549120)*
 
-### Bakemono (CR 4) [SB:F&F]
+### Bakemono (CR 4)
 
 Initially, this fey resembles a fox or small dog, but it swiftly changes shape.
 
@@ -58,7 +58,7 @@ CN Tiny fey (shapeshifter)
 
 In faerie realms, bakemono use their powerful shapeshifting skills to survive, avoiding detection, fighting, and hunting. In the mortal realm, some have taken to impersonating the deceased, whether to lure grieving relations into faerie places, to get themselves an adopted home, or for other reasons. Bakemono usually shun violence, preferring to flee using a speedy form or hide in a small space. If pressed they can adopt frightful appearances. If all else fails, a bakemono will grow to Huge size and fight with tooth and claw in the shape of a terrible beast.
 
-### Coyote Spirit (CR 15) [SB:F&F]
+### Coyote Spirit (CR 15)
 
 This lithe, almost humanoid figure’s soft cloak billows in the wind, their next steps vanished.
 XP 51,200
@@ -119,7 +119,7 @@ The coyote spirit’s possession ability functions as the wraith’s active poss
 
 Coyote spirits are mighty tricksters, delighting in all manner of deception and jest, as well as telling improbable stories of their own exploits. Those who weather their attention in good humor and listen appreciatively to their stories are often rewarded with guidance or insight, while those the coyote spirit finds to be poor sports are often subject to increasing annoyance, at least until the capricious spirit grows bored. Few creatures have the power to truly threaten them; such are to be outwitted or avoided altogether, though the challenge of one-upping powerful opponents draws some coyotes into dangerous games and sticky situations from which they may need aid to escape. Lesser creatures that seek to injure them are usually left alive, to be mocked and pestered for their imprudence. A few powerful fey lords have coyote spirits in their courts, whether for entertainment, espionage, or simply for company.
 
-### Curupira (CR 3) [SB:F&F]
+### Curupira (CR 3)
 
 This small fey is clad in leaves and has flame-red hair streaked with orange, so bright that you almost miss its backwards feet.
 XP 800
@@ -175,7 +175,7 @@ Gremlins are aggressive, tribal feyfolk who closely resemble gnomes, but are dis
 
 A gremlin sighting is an auspicious occasion, and often indicative of a larger tribe lurking in the underbelly of a city or in the hills and trees surrounding a sleepy village. While not malicious, gremlins see their meddling and destructive habits as their gift to others, and rejecting their “art” can anger them to greater destructive rampages, and even lethal ones.
 
-#### Gremlin, Book-biter (CR 3) [SB:F&F]
+#### Gremlin, Book-biter (CR 3)
 
 This hated gremlin has jagged teeth and a maw as wide as its head, tattered ribbons of paper stuck in its teeth. Standing about 2 feet tall, this gray skinned fey’s body is mostly bones and angles, clothes fashioned from what appear to be stained book-leather.
 
@@ -231,7 +231,7 @@ CE Tiny fey
 
 Book-biter gremlins as their name suggests, are driven to consume books, scrolls, and other writings, making them the bane of libraries and academics everywhere. Sometimes referred to as bibliophage gremlins in academic works, relatively few in number due to the persistent disappearance of the researcher’s notes, they sneak into repositories of knowledge and gorge themselves, fleeing quickly once discovered. Magical texts are special favorites, leading those arcanists familiar with them to commonly have a ‘kill on sight’ policy regarding book-biters. Librarians support this policy, especially given that the gremlins appear to favor more valuable texts to consume first.
 
-#### Gremlin, Fear-gorger (CR 5) [SB:F&F]
+#### Gremlin, Fear-gorger (CR 5)
 
 This gremlin emerges from the shadows, needle teeth displayed in a rigid grin. One hand holds a shield, the other appears to be full of daggers, though a second look reveals them to be its razor-sharp claws.
 
@@ -317,7 +317,7 @@ These gremlins delight in the fear of others, treating many other creatures as p
 **CMB** +9 **CMD** +19
 **Skills** Acrobatics +10, Climb +22, Escape Artist +10, Stealth +6
 
-#### Gremlin, Night-stalker (CR 3) [SB:F&F]
+#### Gremlin, Night-stalker (CR 3)
 
 Shrouded in perpetual shadow, this gremlin’s features are difficult to discern. Those that can pierce the darkness see a hunched and hungry looking creature with oversized eyes and a wicked knife.
 
@@ -372,7 +372,7 @@ CE Tiny fey
 
 Night-stalker gremlins are frightful creatures, bringing darkness with them wherever they go. Often working in groups, they isolate the targets of their malice, slowing them with the Thick Darkness talent as the mob the creature, stabbing gleefully. The more fearful the creature appears to be of the dark, the more the night-stalkers will be drawn to it, targeting those bearing torches or other artificial light above other targets. If successful in slaying a creature that was part of a group, they will often take grisly trophies to lay in the path of their victim’s companions to sow fear.
 
-#### Gremlin, Trapster (CR 4) [SB:F&F]
+#### Gremlin, Trapster (CR 4)
 
 Squinty eyes pear at you from behind the glasses clearly made for a larger creature. There is a faint, high chuckle from its throat. It gestures upwards as it pulls a string…
 XP 1,200
@@ -425,7 +425,7 @@ CE Tiny fey
 
 Trapster gremlins haunt ruins, sewers, and abandoned buildings, laying networks of traps to catch food and torment those foolish enough to enter.
 
-#### Gremlin, Trickster (CR 1) [SB:F&F]
+#### Gremlin, Trickster (CR 1)
 
 An ugly creature hangs down from a branch, waving. It has an ugly, wrinkled face and its mouth stretches nearly to its ears, revealing razor teeth within. It almost appears to be trying to distract you…
 
@@ -519,7 +519,7 @@ CE Tiny fey
 **Familiar**
 A chaotic evil or neutral evil or a chaotic neutral 5th-level spellcaster can gain a tunneler as a familiar if she has the Improved Familiar feat.
 
-### Jogoah (CR +Varies) [SB:F&F]
+### Jogoah (CR +Varies)
 
 The jogoah are small, humanoid-looking feyfolk, sometimes referred to as pygmies, which stand approximately 2 feet tall. Often playful tricksters, jogoah come in three castes, the gahongas, gandayah, and the ohdow.
 
@@ -533,7 +533,7 @@ Folklore surrounding these fey varies from tribe to tribe, but all the stories t
 
 Jogoah are generally friendly with the nature-respecting tribes who will live near their homes, and will sometimes do favor for those who leave offerings for them, with tobacco being their favorite.
 
-#### Jogoah, Gahongas (CR 3) [SB:F&F]
+#### Jogoah, Gahongas (CR 3)
 
 A small fey dressed in simple skins. He is tossing an improbably large rock to one of his kin, laughing as the other misses it, a small tree flattened in the process.
 
@@ -571,7 +571,7 @@ CN Small fey
 
 Deceptively strong, the forest fey love to play games involving rolling and catching large rocks. Unfortunately, they frequently forget others lack their ability at such games.
 
-#### Jogoah, Gandayah (CR 1/2) [SB:F&F]
+#### Jogoah, Gandayah (CR 1/2)
 
 This fey sits, contemplating the crops in a small field planted in a clearing, leisurely smoking a pipe.
 
@@ -614,7 +614,7 @@ These peaceful fey are welcome neighbors. Befriending them with gifts, especiall
 
 **Familiar** A 5th-level spellcaster within one step of chaotic neutral can gain a gandayah as a familiar if she has the Improved Familiar feat.
 
-#### Jogoah, Ohdow (CR 3) [SB:F&F]
+#### Jogoah, Ohdow (CR 3)
 
 More martial than its cousins, the ohdow jogoah holds its bow ready as it examines the tracks before it.
 
@@ -678,7 +678,7 @@ NG Small fey
 
 Unlike other jogoah, the ohdow have a mission: to prevent creatures from the underworld from overtaking their lands, whether in Faerie or the material plane. They are skilled at tracking and fighting such creatures and are quick to help others who also do so.
 
-### Kappa (CR 5) [SB:F&F]
+### Kappa (CR 5)
 
 This green-skinned, turtle-like humanoid has a peculiar, water-filled dish formation on the top of its head.
 
@@ -736,7 +736,7 @@ CN Small fey (water)
 
 Mischievous river-fey, kappa are known for playing tricks on those that linger near their home rivers. Most kappa contain this to mostly harmless pranks, though some evil kappa delight in drowning their victims. All kappa have a curious penchant for attempting to drag off and drown horses, however, and may be rougher than usual with those that attempt to interfere with this obsession.
 
-### Pratchie (CR 1) [SB:F&F]
+### Pratchie (CR 1)
 
 Six inches tall, covered in woad and wearing a kilt, with a shock of red hair and a broken nose, this tiny fey… Hey! Give me back my wallet!
 
@@ -783,7 +783,7 @@ Pratchies advance by class level, often taking striker or conscript levels and f
 
 **Familiar** A neutral, chaotic neutral, or neutral good 7th-level spellcaster can gain a pratchie as a familiar if she has the Improved Familiar feat.
 
-### Sluagh Horde (CR 7) [SB:F&F]
+### Sluagh Horde (CR 7)
 
 The Queen of Air and Darkness sat opposite the Queen of Summer at the stone table. She speaks with the cold steadiness of winter, “One hundred years and one day have passed; the infernal legion expects their payment.”
 “I know it, all too well.” replies Summer. “I would that there was another way.”
@@ -851,7 +851,7 @@ Spirit trees have the following abilities:
 
 **Wisdom’s Magic** A spirit tree’s spherecasting uses the Natural casting tradition, but Wisdom as its casting ability modifier instead of Charisma.
 
-#### Spirit Tree, Huge (CR 5) [SB:F&F]
+#### Spirit Tree, Huge (CR 5)
 
 XP 1,600
 N Huge plant
@@ -892,7 +892,7 @@ N Huge plant
 **Languages** Sylvan, speak with plants
 **SQ** spirit tree traits
 
-#### Spirit Tree, Gargantuan (CR 7) [SB:F&F]
+#### Spirit Tree, Gargantuan (CR 7)
 
 XP 3,200
 N Gargantuan plant
@@ -936,7 +936,7 @@ Mass Healing; 1 sp, increase number of targets by 4
 **Languages** Aklo, Common, Elven, Sylvan, speak with plants
 **SQ** spirit tree traits
 
-#### Spirit Tree, Colossal (CR 9) [SB:F&F]
+#### Spirit Tree, Colossal (CR 9)
 
 XP 6,400
 N Colossal plant
@@ -979,7 +979,7 @@ Mass Healing; 1 sp, increase number of targets by 5
 **Languages** Aklo, Common, Elven, Gnome, Sylvan, speak with plants
 **SQ** spirit tree traits
 
-#### Spirit Tree, Elder (CR 14) [SB:F&F]
+#### Spirit Tree, Elder (CR 14)
 
 XP 38,400
 N Colossal plant
@@ -1036,7 +1036,7 @@ N Colossal plant
 
 Given the magic that is natural in faerie lands, it is no surprise that creatures such as the spirit trees exist. These sentinels of the forest live for centuries, watching over their domains. Many cooperate with the more agreeable of the fey nobility, keeping an eye out for hostile creatures. Many who have wandered into faerie lands by mistake have been set on the right road by a friendly spirit tree, if they mind their manners and heed the advice they are given. The eldest of the spirit trees are powers in their own right, directing affairs in a wide area despite being rooted in place. Due to their immobility, spirit trees have been known to request aid from those passing by, giving advice, directions, and magical fruit in reward.
 
-### Troll, Unseelie (CR 6) [SB:F&F]
+### Troll, Unseelie (CR 6)
 
 What appeared to be a lost girl suddenly vanishes, reappearing as a tall creature with bright blue skin, cruel claws, and a sneer on its fanged lips.
 
@@ -1091,7 +1091,7 @@ Unseelie trolls are noticeably different from their mortal counterparts. Their a
 
 Unseelie trolls sometimes serve as shock troopers for fey lords. Most often they serve the unseelie or winter courts, but if provided food and ‘fun’, they will serve others, not standing on principal.
 
-### Warden of Faerie (CR 5) [SB:F&F]
+### Warden of Faerie (CR 5)
 
 As you approach the nymph queen’s picnic, the squirrels and rabbits suddenly become spear-wielding warriors, interposing themselves between you and the outing.
 

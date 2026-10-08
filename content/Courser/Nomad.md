@@ -29,7 +29,7 @@ This replaces forage.
 
 The nomad gains the following unique courser ventures.
 
-#### Cooperative Harry [DRS]
+#### Cooperative Harry
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 

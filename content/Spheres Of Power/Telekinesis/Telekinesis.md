@@ -116,7 +116,7 @@ You are considered to be wielding the weapon for the purpose of making attacks o
 
 You may lift multiple targets at once (up to 1 + 1 per caster level) whose combined size does not exceed your maximum telekinesis size. You may treat these objects as one effective object for the purpose of Bludgeoning a creature, or you may make multiple Bludgeons per round (although you cannot make more attacks in a round than would otherwise be allowed with your base attack bonus and any respective feats or combat talents if you possess the Dancing Weapon talent, applying penalties for full attacks as normal). If you spend a spell point to use Hostile Lift or Sustained Force, it may apply it to as many of these objects as applicable as if each were a different effect. You may also spend a spell point when using the Steal, Telekinetic Maneuver, or Telekinetic Push talents to affect multiple targets at once (up to one additional target per 2 caster levels, minimum 1), although you cannot affect an individual target more than once per round with any push or combat maneuver.
 
-#### Excessive Force [BaP]
+#### Excessive Force
 
 Whenever you could perform a Bludgeon as part of a standard action or greater, you may instead violently slam the target under your telekinesis into another object or against a surface (such as a wall or floor). The target takes damage appropriate to its size, as though used as a Bludgeon, plus an additional 1d6 bludgeoning damage per 2 caster levels and must succeed at a Reflex save or fall prone from the force of the impact. The impacted object or surface takes the damage appropriate to the target’s size but does not take any additional damage from this effect.
 
@@ -190,7 +190,7 @@ An area cannot be affected by more than one field at a time:
 - You may cause any projectiles or thrown objects up to one size smaller than your telekinesis limit that pass through this area to be affected as if by Catch.
 - You may cause creatures or objects up to one size smaller than your telekinesis limit that enter this area to move up to half your telekinesis speed in one direction, chosen when the field is created, to a maximum distance of the edge of the field. Unwilling targets may attempt a Will saving throw to resist, and if a creature fails this save and attempts to move against the direction of field they must first spend movement equal to half your telekinesis speed to overcome the effects of the field. Unattended objects move on your turn and are not fast enough to cause harm. Creatures do not move until their turn.
 
-You may take this talent a second time. If you do, you may form the kinetic field such that it occupies any of the following areas as an alternative to its normal shape. These areas carry the normal effect of the kinetic field that you dictate. [Alienist HB]
+You may take this talent a second time. If you do, you may form the kinetic field such that it occupies any of the following areas as an alternative to its normal shape. These areas carry the normal effect of the kinetic field that you dictate.
 
 - A wall up to 20 feet wide per caster level in a straight line and up to 20 feet high.
 - An area centered on you with a 10-foot radius + 5 feet per 5 caster level. This area moves with you.
@@ -212,7 +212,7 @@ When you lift an object with your telekinesis and move it into your square or dr
 
 **Note:** Dancing Weapon specifies only 'wielding' in the context of a weapon; you can bash someone over the head with that implement, but no it does not mean you get its implement bonuses while in your orbit.
 
-#### Pantomime Cage [Jester's HB]
+#### Pantomime Cage
 
 You may spend a spell point to trap the target in a box made of telekinetic force. On a failed Reflex save, the target becomes trapped for 1 round per caster level, effectively sealing the target off from all other creatures. The trapped target cannot move from their space except by means of dimensional travel, such as teleport from the Warp sphere, but is still trapped even if moved by such an effect. The target treats all other creatures as though they had total cover against it, and all other creatures treat the target as though it has total cover against them.
 
@@ -236,7 +236,7 @@ If you possess Kinetic Field, you may spend a spell point as a standard action t
 
 When you stop a ranged attack with telekinetic Catch, you may immediately fling it back at the attacker if they are in range of your telekinesis. Resolve this as a standard Bludgeon attack using the object you were attacked with. Return may not be used in conjunction with the catch field option of Quick Reactions.
 
-#### Seizing Strike [Strike] [3PP]
+#### Seizing Strike [Strike]
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -246,7 +246,7 @@ As a standard action, you may make a single weapon attack in conjunction with us
 
 You may use telekinesis on attended objects. You may perform a disarm or steal combat maneuver against a target using telekinesis, using your caster level plus your casting ability modifier as your CMB. You may use telekinesis to perform Sleight of Hand checks at a distance as well and may use your casting ability modifier in place of your Dexterity modifier for this purpose, but you also suffer a -5 penalty to the skill check and cannot take 10. If the maneuver or skill check is successful, you may move the lifted object up to your telekinesis distance in any direction, but may not use it as a Bludgeon as part of the same action.
 
-#### Sweeping Bludgeons [BaP]
+#### Sweeping Bludgeons
 
 Whenever you perform a Bludgeon, instead of making an attack roll, you may choose to swing the Bludgeon in a sweeping arc at the target. The target must succeed at a Reflex save or both the target and the Bludgeon take damage depending on the Bludgeon’s size. If you possess the Dancing Weapon talent, you may use abilities which would apply additional damage or effects to a single attack action to the Bludgeon damage dealt to the target with this talent. If an effect would impose a penalty to an attack roll, such as Lancer sphere impale or the Power Attack feat, you instead reduce the DC of the Reflex saving throw by that amount.
 
@@ -400,7 +400,7 @@ The classes in the following table may select a protokinesis feat as one of the 
 | Witch | Hex |
 | Wraith | Wrath haunt |
 
-#### Aggressive Mind Limb (combat, Protokinesis) [Apoc]
+#### Aggressive Mind Limb (combat, Protokinesis)
 
 *Source: [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)*
 
@@ -416,7 +416,7 @@ The classes in the following table may select a protokinesis feat as one of the 
 
 **Benefit:** By applying your telekinetic powers to your own body you can stand on surfaces that could not normally support your weight, allowing you to balance on a single thread or walk across liquid, though you must still attempt Acrobatics checks to balance on narrow or difficult surfaces. You cannot walk on normal gaseous substances such as air or clouds, though you could balance on a solid fog spell. In addition, you may add your casting ability modifier as a bonus to Acrobatics checks.
 
-#### Equal and Opposite (combat, Protokinesis) [Apoc]
+#### Equal and Opposite (combat, Protokinesis)
 
 *Source: [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)*
 
@@ -430,7 +430,7 @@ The classes in the following table may select a protokinesis feat as one of the 
 
 **Benefit:** By forming a thin field of telekinetic force with your hand as a swift action you can gain a +2 shield bonus to your armor class, +1 per 5 caster levels in Telekinesis. This counts as a shield, except it imposes no spell failure or armor check penalty. You must keep at least one hand free to maintain your force shield.
 
-#### Force Shield, Improved (Combat, Protokinesis) [Apoc]
+#### Force Shield, Improved (Combat, Protokinesis)
 
 *Source: [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)*
 
@@ -450,7 +450,7 @@ The classes in the following table may select a protokinesis feat as one of the 
 
 **Benefit:** You can float above the ground instead of walking. You can hover up to 1 foot above the ground, allowing you to ignore difficult terrain. When falling you may choose to descend at a slower rate to control your fall and to negate all falling damage you would take. Each round you descend 30 feet, and may move in another direction for 30 feet. You may choose to drift sideways, gliding forwards while descending, or down, safely increasing your rate of descent. You may even choose to drift ‘upwards’ to reduce your rate of descent, even allowing you to negate it entirely and hover midair.
 
-#### Kinetic Juggler (Protokinesis) [Apoc]
+#### Kinetic Juggler (Protokinesis)
 
 *Source: [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)*
 
@@ -468,7 +468,7 @@ The classes in the following table may select a protokinesis feat as one of the 
 
 As a swift action you can use it to draw a sheathed or hidden weapon, ready a shield, retrieve a stored item, load a crossbow, open a door, pick up an unattended item, sheathe or store an item, or take other non-offensive actions involving manipulating objects. Your telekinetic limb cannot effectively wield weapons or shields or activate magic items, but can pass such items to another hand as part of any other action it takes.
 
-#### Poltergeist’s Fingers (Protokinesis) [Apoc]
+#### Poltergeist’s Fingers (Protokinesis)
 
 *Source: [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)*
 
@@ -478,7 +478,7 @@ As a swift action you can use it to draw a sheathed or hidden weapon, ready a sh
 
 **Special:** If you have the Aggressive Mind Limb feat, you may use your additional attack of opportunity with your mind limb to attempt a steal combat maneuver.
 
-#### Remote Jostle (Combat, Protokinesis) [Apoc]
+#### Remote Jostle (Combat, Protokinesis)
 
 *Source: [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)*
 
@@ -502,7 +502,7 @@ As a swift action you can use it to draw a sheathed or hidden weapon, ready a sh
 
 These benefits lasts indefinitely. If you activate one of these benefits while a previous benefit is still in effect, the first benefit ends immediately.
 
-#### Telekinetic Fist (Combat, Protokinesis) [Apoc]
+#### Telekinetic Fist (Combat, Protokinesis)
 
 *Source: [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)*
 
@@ -510,7 +510,7 @@ These benefits lasts indefinitely. If you activate one of these benefits while a
 
 **Benefit:** On your turn, your reach with your unarmed strikes is increased by 5 feet.
 
-#### Telekinetic Trigger (Protokinesis) [Apoc]
+#### Telekinetic Trigger (Protokinesis)
 
 *Source: [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)*
 
@@ -518,7 +518,7 @@ These benefits lasts indefinitely. If you activate one of these benefits while a
 
 **Benefit:** You can activate any command word, spell trigger, or spell completion magical item held in your telekinetic limb. This requires the same action normally required to activate the item and you are treated as having no base spheres except Telekinesis even if you possess them.
 
-#### Telekineticat (Protokinesis) [Catgirl HB]
+#### Telekineticat (Protokinesis)
 
 With all your cosmic power and wisdom, you decided to form your raw and potent telekinetic power into the shape of a cat.
 

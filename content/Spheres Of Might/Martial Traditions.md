@@ -44,14 +44,14 @@ As always, the above guidelines may be broken with GM permission, and even some 
 
 # Martial Traditions
 
-### Ace [EO2]
+### Ace
 
 An ace is one with his vehicle, controlling it through stunts that should be entirely impossible.
 
 - **Athletics sphere** (Driver drawback) selecting either the (fly), (run), or (swim) package, Ace Pilot, Mobile Striker, Reflexive Twist
 - **Variable:** Individuals trained in the Ace tradition gain one Athletics sphere talent of their choice.
 
-### All-Thrower [High. HB]
+### All-Thrower
 
 All-throwers are athletic warriors who specialize in sports that involve hurling large and cumbersome objects.
 
@@ -100,7 +100,7 @@ Bolt jugglers are a sight to behold, awe-inspiring on the training ground and dr
 - **Variable:** Bolt jugglers gain either Expert Reloading or Mechanical Savant from the Equipment sphere.
 - **Variable:** Bolt jugglers gain either Impossible Reload or Mixed Assault from the Dual Wielding sphere.
 
-### Buccaneer [Conq. HB]
+### Buccaneer
 
 Most often found as hired company of pirates, buccaneers are fond of flashy and sometimes acrobatic combat, making themselves formidable foes in close quarters and at range.
 
@@ -131,7 +131,7 @@ Canny hunters are skilled marksmen and trackers, capable of spotting a creature�
 - **Sniper sphere**
 - **Variable:** Canny hunters gain one additional talent of their choice from either the Equipment sphere or Scout sphere.
 
-### Challenging Knight [3PP]
+### Challenging Knight
 
 Unlike other knights, challenging knights are far more focused on their own personal glory, keeping combat and every other possible situation focused on themselves.
 
@@ -235,7 +235,7 @@ Dedicated duelists are individuals devoted to the art of the duel. Whether they 
 - **Variable:** Dedicated duelists gain either the Duelist sphere or Fencing sphere
 - **Variable:** Dedicated duelists gain either Gauntlet Shield or Unarmored Training from the Equipment sphere.
 
-### Dedicated Lancer [3PP]
+### Dedicated Lancer
 
 Completely focused on their aims of goring opponents, dedicated lancers are masters of the spear, focusing on impaling foes and leaving them on the end of their weapon.
 
@@ -256,7 +256,7 @@ Only a “tradition” in the vaguest sense of the word, drunken brawlers tend t
 - **Wrestling sphere**
 - **Variable:** Drunken brawlers gain a talent of their choice from either the Barroom or Wrestling sphere.
 
-### Dual Blade Beast [3PP]
+### Dual Blade Beast
 
 Not settling for an ordinary weapon, dual blade beasts focus on a more exotic weapon, using its modular nature in unique and interesting ways.
 
@@ -285,7 +285,7 @@ From small blades to large spears, fearless throwers are adept at launching any 
 - **Variable:** Fearless throwers either gain Crushing Thrower or Thrower’s Reflexes from the Equipment sphere.
 - **Variable:** Fearless throwers gain either the Barrage sphere or the Berserker sphere.
 
-### Expedition Spotter [Conq. HB]
+### Expedition Spotter
 
 Expedition spotters are often hired onto exploratory expeditions into regions famous for their tombs and long-abandoned structures. Sharp-eyed and observant, they make for decent adventurers into areas with lots of traps and fighting in tight spaces.
 
@@ -296,7 +296,7 @@ Expedition spotters are often hired onto exploratory expeditions into regions fa
 - **Variable:** Expedition spotters gain either the Duelist or Fencing sphere.
 - **Variable:** Expedition spotters gain either the Scout sphere or Expert Eye from the Trap sphere.
 
-### Field Medic [IHB2]
+### Field Medic
 
 While not as often to get the glory of the kill as the soldier, the field medic is as or even more important to the health and safety of his comrades.
 
@@ -319,7 +319,7 @@ Free runners treat the world as their gymnasium, practicing wild acrobatics, run
 - **Athletics sphere** (run) package, **Expanded Training** (leap) and one other package, **Wall Stunt**
 - **Variable:** Free runners gain a talent of their choice from the Athletics sphere.
 
-### Gearhead [Inv. HB]
+### Gearhead
 
 Gearheads primarily utilize gadgets, guns, and other technological equipment in combat.
 
@@ -360,7 +360,7 @@ While many combatants learn their arts in courtyards, dojos, or monasteries, tho
 - **Alchemy sphere** (poison) package
 - **Variable:** Individuals trained in the Guild Training tradition gain either the Fencing sphere or the Duelist sphere.
 
-### Hacker [IHB2]
+### Hacker
 
 The hacker fulfills a very underhanded, but vital role in controlling their enemies' technology.
 
@@ -382,7 +382,7 @@ A heavy armsman specializes in using hammers, axes, and other large weapons to b
 - **Berserker sphere**
 - **Variable:** Individuals trained in the Heavy Armsman tradition gain one Equipment or Berserker talent of their choice.
 
-### Highlander [High. HB]
+### Highlander
 
 Highlanders are the inhabitants or soldiers who fight for or on behalf of the highlands, a cold, wet, and mountainous terrain. Well adapted to the climate, they make for decent adventurers, being trained in a variety of weapons, which they often dual wield.
 
@@ -390,7 +390,7 @@ Highlanders are the inhabitants or soldiers who fight for or on behalf of the hi
 - **Duelist sphere**
 - **Variable:** Dual Wielding or Scout sphere, and one additional talent from the chosen sphere.
 
-### Imperialist [High. HB]
+### Imperialist
 
 Imperialists are the soldiers who fight for or on behalf of the empire. Well trained, and equipped for the part, they make for decent adventurers, being trained in the tools of war.
 
@@ -398,7 +398,7 @@ Imperialists are the soldiers who fight for or on behalf of the empire. Well tra
 - **Duelist sphere**
 - **Variable:** Beastmastery (ride) package or Warleader sphere.
 
-### Iron Breaker Style [EO2]
+### Iron Breaker Style
 
 Eschewing weapons and armor as impediments on the path to self-perfection, students of the iron breaker style learn techniques to harden their bodies into living weapons.
 
@@ -406,7 +406,7 @@ Eschewing weapons and armor as impediments on the path to self-perfection, stude
 - **Berserker sphere**, Greater Sunder
 - **Variable:** Individuals trained in the Iron Breaker Style tradition gain either the Unarmored Training talent from the Equipment sphere or a talent from either the Berserker or Open Hand sphere as a bonus talent.
 
-### Janjaweed [SB:DE]
+### Janjaweed
 
 A man with a horse and a gun; those who possess this martial tradition generally focus in either mounted combat or with gunmanship.
 
@@ -423,7 +423,7 @@ Training in the knightly arts includes learning how to wear and maneuver in chai
 - **Equipment:** Armor Training, Knightly Training, Shield Training
 - **Variable:** Individuals trained in the Knightly Arts tradition gain either the Beastmastery sphere (ride) package, the Warleader sphere, or the Shield sphere as a bonus sphere.
 
-### Liturgist [CoP]
+### Liturgist
 
 Liturgist are usually ceremonial or religious servants trained in performing rites and maintaining the morale of the citizenry through public speaking and worship.
 
@@ -456,7 +456,7 @@ Militias often rise in communities without the benefit of a formal military, whe
 - **Scout sphere**
 - **Variable:** Individuals with militia training gain an Equipment talent of their choice.
 
-### Mixed Duelist [3PP]
+### Mixed Duelist
 
 A popular tradition among reapers, mixed duelists use elegant melee weapons and pistols simultaneously to threaten their foes regardless of positioning.
 
@@ -547,7 +547,7 @@ Professional wrestlers are equal parts showman and combatant. Whether using pain
 - **Wrestling sphere**
 - **Variable:** Professional wrestlers gain one talent of their choice from either the Wrestling sphere or the Gladiator sphere.
 
-### Pursuer [SB:UatIF]
+### Pursuer
 
 Bounty hunters, trackers, and ruthless assassins alike, a pursuer is a malicious and cruel combatant, harrying their foes with bleeding cuts and carefully placed strikes.
 
@@ -558,7 +558,7 @@ Bounty hunters, trackers, and ruthless assassins alike, a pursuer is a malicious
 - **Variable:** A pursuer gains one (discipline) talent of their choice from the Equipment sphere.
 - **Variable:** A pursuer gains a talent of their choice from the Duelist or Scout sphere.
 
-### Retiarius [3PP]
+### Retiarius
 
 This specialized gladiator style typically combines net in order to disable foes before dispatching them with a single stab. While it was born in the arena, the tradition proves effective on the battlefield.
 
@@ -568,7 +568,7 @@ This specialized gladiator style typically combines net in order to disable foes
 - **Gladiator sphere**
 - **Variable:** Individuals trained in the Retiarius tradition gain either the Duelist sphere or the Lancer sphere.
 
-### Rogue Gunner [3PP]
+### Rogue Gunner
 
 Aware of the dangers of living on the streets, rogue gunners travel quick, fire fast, and leave anyone who would challenge them in a pool of blood.
 
@@ -679,7 +679,7 @@ Wielding double-bladed weapons that others find impossible to master, tempest da
 - **Variable:** Tempest dancers gain either the Armor Training, Unarmored Training, or Finesse Fighting from the Equipment sphere.
 - **Variable:** Tempest Dancers gain a talent of their choice from the Dual Wielding sphere
 
-### Wandering Martial Artist [Youxia HB]
+### Wandering Martial Artist
 
 Wandering martial artists, also known as youxia, are passionate warriors living on the fringes of society. They exhibit masterful control over their bodies, using diverse combat styles to defeat their foes and leave their mark on the world.
 **Bonus Talents**

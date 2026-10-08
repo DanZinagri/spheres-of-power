@@ -8,7 +8,7 @@ parent: "[[Spheres Of Power]]"
 
 *Source: [Ultimate Spheres of Power](https://www.drivethrurpg.com/product/300249/Ultimate-Spheres-of-Power?affiliate_id=549120)*
 
-### Bug-Out Scroll [TS]
+### Bug-Out Scroll
 
 **Aura** moderate Mind and Illusion; **CL** 10th
 **Slot** none; **Price** 2,500 gp; **Weight** -
@@ -20,7 +20,7 @@ At the same time, an illusion is cast on the user, making them invisible as per 
 **Construction Requirements**
 Capture Spell, Illusion sphere, Mind sphere; **Cost** 1,250 gp
 
-### Full Healing Scroll [TS]
+### Full Healing Scroll
 
 **Aura** strong Life; **CL** 20th
 **Slot** none; **Price** 9,500 gp; **Weight** -
@@ -30,7 +30,7 @@ For when you need to heal everyone of everything. When used, this scroll heals u
 **Construction Requirements**
 Capture Spell, Life sphere (Break Enchantment, Deeper Healing, Mass Healing [mass], Ranged Healing [range], Restorative Cure, Restore Capacity (cure), Restore Health (cure), Restore Senses (cure), Restore Spirit (cure), Resuscitate); **Cost** 4,750 gp
 
-### Group Healing Scroll [TS]
+### Group Healing Scroll
 
 **Aura** moderate Life; **CL** 10th
 **Slot** none; **Price** 1,500 gp; **Weight** -
@@ -40,7 +40,7 @@ When used, this scroll heals up to six targets in 50 feet for 1d8+30 hit points.
 **Construction Requirements**
 Capture Spell, Life sphere (any (cure) talent (x2), Mass Healing [mass], Ranged Healing [range]); **Cost** 750 gp
 
-### Revitalizing Scroll, Lesser [TS]
+### Revitalizing Scroll, Lesser
 
 **Aura** moderate Life; **CL** 6th
 **Slot** none; **Price** 600 gp; **Weight** -
@@ -50,7 +50,7 @@ When used, this scroll grants up to four targets in touch range fast healing 1 f
 **Construction Requirements**
 Capture Spell, Life sphere (Mass Healing [mass], Revitalize); **Cost** 300 gp
 
-### Revitalizing Scroll [TS]
+### Revitalizing Scroll
 
 **Aura** moderate Life; **CL** 10th
 **Slot** none; **Price** 1,000 gp; **Weight** -
@@ -71,7 +71,7 @@ This scroll creates a frost blast, dealing 5d6 cold damage to everything within 
 **Construction Requirements**
 Capture Spell, Destruction sphere (Frost Blast (blast type, cold)); **Cost** 312.5 gp
 
-### Scroll of the Silent Stroll [TS]
+### Scroll of the Silent Stroll
 
 **Aura** faint Illusion; **CL** 5th
 **Slot** none; **Price** 125 gp; **Weight** -

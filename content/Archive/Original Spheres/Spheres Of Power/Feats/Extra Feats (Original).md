@@ -13,13 +13,13 @@ Extra feats allow characters to either use their existing abilities more times e
 
 ---
 
-#### Extra Arsenal Trick [Core]
+#### Extra Arsenal Trick
 
 **Prerequisite:** Arsenal Trick class feature.
 
 **Benefit:** Gain an arsenal trick for which you meet the prerequisites. You may take this feat multiple times. The effects stack.
 
-#### Extra Bestial Trait [Core]
+#### Extra Bestial Trait
 
 **Prerequisite:** Bestial Trait class feature.
 
@@ -31,7 +31,7 @@ Extra feats allow characters to either use their existing abilities more times e
 
 **Benefit:** Increase the number of times per day you may use Breadth of Form by 2. You may take this feat multiple times. The effects stack.
 
-#### Extra Divine Works [Abj. HB]
+#### Extra Divine Works
 
 **Prerequisites:** Divine works class feature.
 
@@ -43,7 +43,7 @@ Extra feats allow characters to either use their existing abilities more times e
 
 **Benefit:** You gain an additional electrokinetic stunt for which you qualify. You may take this feat multiple times. The effects stack.
 
-#### Extra Emotion [Core]
+#### Extra Emotion
 
 **Prerequisite:** Emotion class feature.
 
@@ -55,49 +55,49 @@ Extra feats allow characters to either use their existing abilities more times e
 
 **Benefit:** Gain an additional iatrogen for which you meet the prerequisites. You may take this feat multiple times. The effects stack.
 
-#### Extra Invocations [Core]
+#### Extra Invocations
 
 **Prerequisite:** Invocations class feature.
 
 **Benefit:** Increase the number of times per day you may use Invocations by 2. You may take this feat multiple times. The effects stack.
 
-#### Extra Magic Talent [Core]
+#### Extra Magic Talent
 
 **Prerequisite:** Basic Magic Training or Casting class feature.
 
 **Benefit:** Gain an additional sphere or a talent from a sphere you possess. You may take this feat multiple times. The effects stack.
 
-#### Extra Mystic Combat [Core]
+#### Extra Mystic Combat
 
 **Prerequisite:** Mystic Combat class feature.
 
 **Benefit:** Gain an extra mystic combat ability for which you qualify. You may gain this feat multiple times. The effects stack.
 
-#### Extra Nexus Powers [Core]
+#### Extra Nexus Powers
 
 **Prerequisite:** Bound Nexus class feature.
 
 **Benefit:** Increase the number of souls in your bound nexus by 2. You may gain this feat multiple times. The effects stack.
 
-#### Extra Psionics [Core]
+#### Extra Psionics
 
 **Prerequisite:** Psionics class feature.
 
 **Benefit:** You may use psionics an extra 6 rounds per day. You may gain this feat multiple times. The effects stack.
 
-#### Extra Secret [Core]
+#### Extra Secret
 
 **Prerequisite:** Secrets class feature.
 
 **Benefit:** Gain an extra secret for which you qualify. You may gain this feat multiple times. The effects stack.
 
-#### Extra Shadowstuff [Core]
+#### Extra Shadowstuff
 
 **Prerequisite:** Shadowstuff class feature.
 
 **Benefit:** Increase the number of shadow points you possess by 2. You may gain this feat multiple times. The effects stack.
 
-#### Extra Spell Points [Core]
+#### Extra Spell Points
 
 **Prerequisite:** Spell Pool.
 

@@ -43,7 +43,7 @@ To reflect that the benefits of origin talents do not necessarily stem from a ch
 
 As origin traditions are intended to replace race, characters who use origin traditions do not need to meet any prerequisites based on race or racial traits for feats, archetypes, traits, or other options. If an option is tied to the function of a specific ability (for example, the airborne ambusher fighter’s reliance on a fly speed to use many of its abilities), GMs may still wish to restrict that option to characters who possess those abilities in some manner. Similarly, GMs may still wish to restrict monster feats or monster talents which were not designed for player use. Characters of certain backgrounds may be justified as counting as certain races for the purpose of magic items, or at GM discretion racially-exclusive items may be made available to all characters or those who possess certain origin talents or types. GMs may also wish to similarly waive prerequisites based on alignment or worship of a specific entity.
 
-#### Optional Rule: Origin Talents and Skill Spheres [LotS]
+#### Optional Rule: Origin Talents and Skill Spheres
 
 If using the Expanded Origin Talent Access variant rule, a character may take auxiliary origin talents in place of skill talents gained from talent progression, subject to the same rules as exchanging combat or magic talents for auxiliary origin talents. Similarly, whenever a talent progression would allow a character to select a utility talent, that character may exchange that talent for a utility origin talent.
 

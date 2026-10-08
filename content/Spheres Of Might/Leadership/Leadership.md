@@ -177,7 +177,7 @@ Whenever a cohort or leader takes the aid another action for the benefit of anot
 
 You and your cohorts gain the *cohort attack* special attack action and the *cohort bolster* and *cohort defense* sphere abilities.
 
-#### Cohort Attack (cohort) [SAA]
+#### Cohort Attack (cohort)
 
 **Action:** 1 melee or ranged special attack action (plus 1 joint swift action, see text)
 

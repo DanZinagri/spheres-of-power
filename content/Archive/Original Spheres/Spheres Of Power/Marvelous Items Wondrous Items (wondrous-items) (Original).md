@@ -32,7 +32,7 @@ Instead, see the following pages for specific examples of items that aren't Wond
 
 # Belt Slot
 
-#### Sporran of Rations [High. HB]
+#### Sporran of Rations
 
 **Price** 400 gp; **Slot** belt; **CL** 1st; **Weight** 1/2 lbs.; **Aura** faint Nature
 
@@ -386,7 +386,7 @@ When standing adjacent to the standing stone and using a sphere ability from the
 
 A menhir’s base price is equal to its bonus squared x 5,000 gp. To create a menhir, a caster must spend materials with a cost equal to its bonus squared x 2,500 gp. A menhir’s caster level is equal to 2x its total bonus. Weight: 5,000lbs (large), 10 tons (huge), 50 tons (gargantuan).
 
-#### Mutchkin Flask [High. HB]
+#### Mutchkin Flask
 
 **Price** 1,600 gp; **Slot** none; **CL** 2nd; **Weight** 1/2 lbs.; **Aura** faint Creation
 
@@ -679,7 +679,7 @@ The divine notebook is destroyed if it is used to successfully draw a portrait o
 
 The following items were created by the Wiki or by members of community using the crafting rules provided by Spheres of Power.
 
-#### Cradle of the Marauder [Wiki]
+#### Cradle of the Marauder
 
 **Aura** faint War; **CL** 4th
 **Slot** none; **Price** 4,800 gp; **Weight** 1 lb.
@@ -688,7 +688,7 @@ This metal frame suspends five small steel balls in a line. Three times per day,
 **Construction Requirements**
 Craft Wondrous Item, War sphere, Marauding Momentum; **Cost** 2,400 gp
 
-#### Holy Hand Grenade [Wiki]
+#### Holy Hand Grenade
 
 **Aura** strong Destruction; **CL** 12th
 **Slot** none; **Price** 33,600 gp; **Weight** 1 lb.
@@ -697,7 +697,7 @@ This sphere is composed of a strange white metal covered in gold inlays. Once pe
 **Construction Requirements**
 Craft Wondrous Item, Destruction sphere, Explosive Orb (blast shape), Holy Smite (blast type); **Cost** 16,800 gp
 
-#### Tattoo of Potion Storing [Wiki]
+#### Tattoo of Potion Storing
 
 **Aura** faint Life; **CL** 3;
 **Slot** none; **Price** 3,600 gp; **Weight** -
@@ -706,7 +706,7 @@ These tattoos come in a variety of shapes and styles and are often customized by
 **Construction Requirements**
 Craft Wondrous Item; Life sphere, Self-Renewal, Water of Life; Cost 1,800 gp
 
-#### Velocious Vambraces [Wiki]
+#### Velocious Vambraces
 
 **Aura** faint Warp; **CL** 3rd;
 **Slot** Wrists; **Weight** 1 lbs.;

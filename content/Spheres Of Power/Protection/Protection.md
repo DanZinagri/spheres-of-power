@@ -63,7 +63,7 @@ If used on a barrier comprised of cubes using the Shaped Ward talent, this talen
 
 So long as you are on the same plane and are aware of it happening, whenever a creature under one of your aegises takes damage, you may spend a spell point as a free action (usable outside your turn) to transfer up to half of that damage to any other creature under one of your aegises. Damage transferred by this talent may not be resisted or redirected further.
 
-#### Continuous Ward [Alienist HB]
+#### Continuous Ward
 
 Wards you create may be completely sealed spheres. If creating the ward would cause it to go through another object, the ward cuts harmlessly through the material and affecting targets on the far side (without compromising the integrity of the object, but preventing the object from being moved in the case of a barrier). If creating the ward would cause a physical manifestation such as a barrier to go through a creature or animated object, the ward shunts the creature just outside the effect of the sphere.
 
@@ -75,7 +75,7 @@ This talent replaces Continuous Barrier.
 
 When creating a ward, you may center it anywhere within close range. When granting an aegis, you may grant it to a target within close range. You may take this talent multiple times. Each time it is gained, increase the range by one step (close to medium, medium to long).
 
-#### Durable Barrier [Warden]
+#### Durable Barrier
 
 The force that makes up your barriers are as durable as metal, if not even more so. Barriers you create reduce all bludgeoning, piercing, and slashing damage dealt to it by an amount equal to half your caster level (minimum 1). You may spend a spell point to instead allow your barrier to reduce all damage types by an amount equal to half your caster level (minimum 1).
 
@@ -83,7 +83,7 @@ The force that makes up your barriers are as durable as metal, if not even more 
 
 When you spend a spell point to make a ward last without concentration, it lasts 1 minute per caster level.
 
-#### Fortifier [3PP]
+#### Fortifier
 
 You may apply an aegis or succor to an object as if it were a creature. If you possess the magic sink talent, you may apply an aegis to a non-instantaneous magical effect which is not targeting a creature or object (such as a Protection sphere barrier, a Warp sphere looped space, or a Destruction sphere energy sphere) as if it were a creature.
 
@@ -125,13 +125,13 @@ Whenever you use a (succor) talent, the effects of the aegis sacrificed do not e
 
 When using an aegis, you may spend an additional spell point to affect an additional 1 creature per 2 caster levels (minimum 1) with the aegis at the same time. Each creature must be within range and must be affected by the same aegis. When using Mass Aegis, the duration of each aegis is decreased to 10 minutes per caster level. Once created, each aegis is a separate sphere effect, and can be sacrificed to use a succor individually.
 
-#### Persistent Succor [3PP]
+#### Persistent Succor
 
 Whenever you use a (succor) talent that sacrifices an aegis, you may instead spend two spell points in place of sacrificing the aegis.
 
 *Source: Card Casting 2: Counters and Control*
 
-#### Reactive Barrier [Apoc]
+#### Reactive Barrier
 
 *Source: [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)*
 
@@ -149,7 +149,7 @@ Upon creating a reactive barrier, you may choose one of the following effects to
 
 When you create a barrier, you may spend a spell point to make its structure more complicated, allowing certain kinds of activities to pass through the barrier. For each of the following, you must choose whether it can cross the barrier, and if so, in what direction: melee attacks, ranged attacks, area of effect abilities, and movement. Whenever the barrier regains or could regain hit points, you may change this decision.
 
-#### Shaped Ward [Alienist HB]
+#### Shaped Ward
 
 When you create a ward, you may alter its shape so that it takes the form of a close-range cone or a medium-range line, each emanating from yourself (or from within a location where you could center a ward if you possess the Distant Protection talent). If you spend 1 additional spell point, you may shape the ward in any area you desire out of contiguous 5-foot cubes, up to a maximum of 2 cubes per caster level.
 
@@ -327,7 +327,7 @@ You may create an aegis that stabilizes the target against planar effects or eff
 
 ## Succor Talents
 
-#### Blast Shield (succor) [Alienist HB]
+#### Blast Shield (succor)
 
 As an immediate action, you may dismiss an aegis on an ally to give them energy resistance to all types of energy damage equal to your caster level until the beginning of your next turn. If the target already possesses energy resistance of a certain type, it instead increases by your caster level.
 
@@ -339,7 +339,7 @@ As an immediate action, you may dismiss an aegis on an ally to give them DR/- eq
 
 As an immediate action, you may dismiss one or more of your aegises on a target, healing that target for an amount equal to your casting ability modifier + your caster level per aegis dispelled. This may keep the target from dying.
 
-#### Helping Hand (succor) [Jester's HB]
+#### Helping Hand (succor)
 
 As an immediate action, you may dismiss an aegis on a target to allow them to reroll a skill or ability check they just made before the results are revealed. They gain a circumstance bonus equal to 1/4 your caster level (minimum 1) on this roll. The target must take the second result, even if it is worse.
 
@@ -347,7 +347,7 @@ As an immediate action, you may dismiss an aegis on a target to allow them to re
 
 As an immediate action, you may dismiss an aegis on a target to allow them to reroll a saving throw they have just made. They must take the second result, even if it is worse.
 
-#### Negation (Succor) [3PP]
+#### Negation (Succor)
 
 When a creature with an aegis you created becomes the target of an attack or sphere effect, you may spend a spell point and sacrifice an aegis they are bearing as an immediate action to attempt to counterspell an effect on the attacker. You attempt a magical skill check against the magical skill defense of whatever created the magical effect, ending the effect on a success. You may end an effect you have identified, otherwise the ended effect is determined randomly.
 
@@ -383,7 +383,7 @@ You may spend 2 spell points to grant a target an aegis that makes them immune t
 
 When creating a Spell Ward, you may spend an additional spell point to improve the ward’s abilities: The ward stops all magic and summoned creatures without the need for a magic skill check. If this ward is pitted against a summoned creature that has spell resistance, you must still attempt a magic skill check against the creature’s spell resistance to banish it.
 
-#### Automatic Fortification [3PP]
+#### Automatic Fortification
 
 **Prerequisites:** Protection sphere (Fortifier), caster level 5th
 
@@ -403,7 +403,7 @@ If you possess the Cantrips feat, you may use any simple magical effect the Cant
 
 A complex glyph uses your caster level with the sphere of the sphere ability to determine the effect of the sphere ability, but uses your Protection caster level to determine its own properties.
 
-#### Improved Negation [3PP]
+#### Improved Negation
 
 **Prerequisites:** Protection sphere (Negation (succor)), caster level 10th
 
@@ -411,7 +411,7 @@ When you attempt a magic skill check using negation, you may dispel one addition
 
 *Source: Card Casting 2: Counters and Control*
 
-#### Mobile Ward [Alienist HB]
+#### Mobile Ward
 
 **Prerequisites:** Protection sphere, caster level 5th.
 
@@ -419,7 +419,7 @@ When you move, you may have any ward that you have cast move so that it remains 
 
 **Errata:** Mobile wards cannot benefit from the Permanent Ward talent.
 
-#### Layered Glyph [3PP]
+#### Layered Glyph
 
 **Prerequisites:** Protection sphere (glyph)
 
@@ -437,7 +437,7 @@ When a permanent glyph is triggered, it uses its ward or sphere ability. For abi
 
 The glyph always has an initiative equal to its caster level and does not roll a d20 or add any modifiers to its initiative. To be turned into a permanent glyph, a ward or other sphere ability must be usable as a full-round action or shorter without costing any spell points to use. If the caster has abilities that allows them to reduce spell point cost by increasing casting time, they may apply them, provided the casting time stays at a fullround action or less.
 
-#### Pithing Protection [3PP]
+#### Pithing Protection
 
 **Prerequisites:** Protection sphere (Spell Selectivity, Spell Ward (aegis, ward)), caster level 10th.
 
@@ -445,7 +445,7 @@ When you use Spell Selectivity to affect one or more specific spheres or schools
 
 *Source: Card Casting 2: Counters and Control*
 
-#### Planar Refuge (aegis, ward) [RW HB]
+#### Planar Refuge (aegis, ward)
 
 Your magics create refuge against the dangers of space and planes unknown.
 
@@ -455,13 +455,13 @@ You may create a ward that protects against and grants immunity to harmful envir
 
 If you possess the Breathless (aegis) talent, when you grant an aegis with the Breathless (aegis) talent, the granted aegis also provides this talent’s immunities and protections against environmental and planar traits.
 
-#### Preserve Integrity (aegis) [Alienist HB]
+#### Preserve Integrity (aegis)
 
 **Prerequisites:** Protection sphere, caster level 10th.
 
 You may grant the target an aegis that makes them immune to ability damage and ability drain. This aegis does not remove ability damage or drain that the subject has already gained, but it does remove the penalties from ability damage or drain for the duration of this aegis. This aegis does not protect against self-inflicted ability damage or drain.
 
-#### Rapid Glyph [3PP]
+#### Rapid Glyph
 
 **Prerequisites:** Protection sphere (glyph)
 
@@ -469,7 +469,7 @@ You may create a glyph as a standard action rather than using the normal casting
 
 *Source: Card Casting 2: Counters and Control*
 
-#### Spell-Eater (aegis) [3PP]
+#### Spell-Eater (aegis)
 
 **Prerequisites:** Protection sphere (Negation (succor)), caster level 10th
 
@@ -477,7 +477,7 @@ You may spend 3 spell points to create an aegis that absorbs magic effects on at
 
 *Source: Card Casting 2: Counters and Control*
 
-#### Spell Selectivity [DbH]
+#### Spell Selectivity
 
 **Prerequisites:** Protection sphere (Spell Ward (aegis, ward)), caster level 10th.
 

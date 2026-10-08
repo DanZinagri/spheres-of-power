@@ -62,7 +62,7 @@ Ability burn functions as ability score damage, but may not be removed by any me
 
 **Benefit:** When casting a sphere effect, you may increase your wild magic chance for that effect by 50% to grant a +2 untyped bonus to magic skill checks versus spell resistance for that effect. This bonus increases by +1 for every 2 wild magic feats you possess.
 
-#### Rhythmic Chaos (Wild Magic) [Mana HB]
+#### Rhythmic Chaos (Wild Magic)
 
 **Prerequisite:** Mana sphere.
 
@@ -70,7 +70,7 @@ Ability burn functions as ability score damage, but may not be removed by any me
 
 For information regarding wild magic events and the wild magic system, see [[Wild Magic]] by Drop Dead Studios.
 
-#### Risk Management (Wild Magic) [Archmagi's HB]
+#### Risk Management (Wild Magic)
 
 **Prerequisite:** Casting class feature.
 

@@ -145,7 +145,7 @@ If a character possesses multiple Tinker traditions, bonus talents granted by th
 
 **Rule:** Gaining a Tinker tradition grants 1 bonus Tinker talent per 2 Tinker tradition drawbacks your Tinker tradition possesses.
 
-### Feat Prerequisites with Consistent Access [DRS]
+### Feat Prerequisites with Consistent Access
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds)*
 
@@ -157,7 +157,7 @@ At GM discretion, feats that have a continual effect or requirement, such as Tra
 
 **Example:** A kobold with the Tinker sphere that has built and frequently pilots a strong mechanoid, but is itself weak, could qualify for the Power Attack feat. It can only benefit from the Power Attack when piloting the mechanoid or otherwise increasing its strength to at least 13.
 
-### Delayed Tinker Tradition Bonus Talents [DRS]
+### Delayed Tinker Tradition Bonus Talents
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds)*
 

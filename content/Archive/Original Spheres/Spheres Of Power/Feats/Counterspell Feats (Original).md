@@ -13,7 +13,7 @@ In Spheres of Power, dispelling and countering magic is done by way of the Count
 
 ---
 
-#### Counterspell [Core]
+#### Counterspell
 
 **Prerequisites:** Casting class feature, Magic Skill Bonus 5 or higher.
 
@@ -23,7 +23,7 @@ If you target a magic item, the item is not destroyed; instead the item’s magi
 
 This is treated as a sphere effect, and it is subject to all rules as a sphere ability, is affected by the caster’s casting tradition, and can itself be countered by another caster.
 
-#### Counterspell, Improved [Core]
+#### Counterspell, Improved
 
 **Prerequisites:** Casting class feature, Counterspell, Magic Skill Bonus 10 or higher.
 
@@ -33,7 +33,7 @@ For each ongoing effect that targets an area and whose point of origin is within
 
 If an object or creature within the area of effect is the result of ongoing magic (such as a summoned monster or companion, or an object created through the Creation sphere), apply the MSB check against the spell or effect that summoned them, causing them to disappear (or return to their home plane) if successful.
 
-#### Counterspell, Greater [Core]
+#### Counterspell, Greater
 
 **Prerequisites:** Casting class feature, Counterspell, Improved Counterspell, Magic Skill Bonus 15 or higher.
 
@@ -45,7 +45,7 @@ You may also spend the 2 additional spell points, but only target a single item.
 
 Even artifacts are subject to this effect, though there is only a 1% chance per caster level of actually affecting such powerful items. If successful, the artifact’s power unravels, and it is destroyed. If an artifact is destroyed, you must make a DC 25 Will save or permanently lose all spellcasting abilities. These abilities cannot be recovered by mortal magic, not even miracle or wish. Destroying artifacts is a dangerous business, and it is 95% likely to attract the attention of some powerful being who has an interest in or connection with the device.
 
-#### Counterspell Mastery [Core]
+#### Counterspell Mastery
 
 **Prerequisites:** Counterspell, Magic Skill Bonus 7 or higher.
 
@@ -63,7 +63,7 @@ Even artifacts are subject to this effect, though there is only a 1% chance per 
 
 **Benefit:** When you successfully counter a spell, the caster must make a Will save equal to your Illusion sphere DC or Mind sphere DC (whichever is greater), or believe the spell had its intended effect, even if they would otherwise be aware of its failure. Treat this effect as a figment with a duration equal to the countered spell, and use the rules for interacting and investigating figments.
 
-#### Harmonic Counter [S&P]
+#### Harmonic Counter
 
 Miracles of all sorts buckle before your might.
 

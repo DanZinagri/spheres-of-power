@@ -450,7 +450,7 @@ A poltergeist is adept at moving creatures and objects as well as possessing and
 
 **Greater Path Possession:** The poltergeist may possess large numbers of Tiny or smaller objects, creating a swarm; treat a swarm so animated as a Medium-sized animated object with the swarm subtype (generate statistics per the improved path possession of the Path of the Despoiler, but with the construct type). Mindless creatures of the construct type no longer receive a save against his possession.
 
-### Path of the Presence [DRS]
+### Path of the Presence
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -466,7 +466,7 @@ Known to reveal secrets and lost knowledge, a presence attempts to reveal what i
 
 **Greater Path Possession:** The presence may now activate two (sense) talents instead of one as part of possessing a willing creature; the spell point reduction applies separately to each.
 
-### Path of the Revenant [DRS]
+### Path of the Revenant
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -496,7 +496,7 @@ A shadow lurks in darkness, seizing those foolish enough to enter their penumbra
 
 **Greater Path Possession:** The shadow’s possession ability does not count as a mind-affecting effect when used on creature’s within an area of darkness that the shadow created.
 
-### Path of the Soul [DRS]
+### Path of the Soul
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -528,7 +528,7 @@ A spook feeds on fear and insanity.
 
 When attempting to possess a creature with one of these conditions, the spook may attempt a magical skill check against the MSD of any magical effect that would prevent possession, such as the Hallow word of the Fate sphere, the protection from evil spell, or similar effects. If successful, the spook may possess the creature and is unaffected by the bypassed effect for the duration of the possession.
 
-### Path of the Wisp [DRS]
+### Path of the Wisp
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -628,7 +628,7 @@ The following feats are particularly appropriate or useful for wraiths.
 
 The following magical items are especially appropriate for wraiths.
 
-#### Haunting Doll [TS:WAT]
+#### Haunting Doll
 
 **Aura** moderate Death; **CL** 7th
 **Slot** none; **Price** 15,000 gp; **Weight** 3 lbs.
@@ -640,7 +640,7 @@ Additionally, a haunting doll is difficult to dispose of; unless the owner spend
 **Construction Requirements**
 Craft Apparatus, Death sphere, creator must have the wraith haunt class feature; **Cost** 7,500 gp
 
-#### Wraith Dust [TS:WAT]
+#### Wraith Dust
 
 **Aura** moderate Death; **CL** 8th
 **Slot** none; **Price** 25,000 gp; **Weight** 1 lb.

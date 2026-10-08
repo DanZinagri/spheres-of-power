@@ -106,7 +106,7 @@ Unlike a ritual book, a spellbook is simply a notebook detailing the theory invo
 
 The following are samples of how spellbooks may appear in a setting.
 
-### Cleric’s Notes [TS]
+### Cleric’s Notes
 
 The cleric’s notes are a collection of religious essays discussing esoteric concepts such as the value of life and common blessings taught by churches. Churches sometimes keep a copy of these notes in their library, using them to teach acolytes the restoring shield technique for times when they need to both heal and protect an ally.
 
@@ -123,7 +123,7 @@ The cleric’s notes are a collection of religious essays discussing esoteric co
 **Crafting Time** 2 days
 **Effect** This spell creates a Deflection aegis on the target, as the base effect of the Protection sphere, except that it lasts for 10 minutes per caster level instead of one hour. When the restoring shield first affects a creature, it also gives them the effects of a cure from the Life sphere (typically 1d8 + caster level if not augmented by other talents).
 
-### Cursing Your Enemies For Fun And Profit [TS]
+### Cursing Your Enemies For Fun And Profit
 
 This is less book and more unusually thick pamphlet, but it features interesting ideas about a villain’s two favorite things: death and destruction.
 
@@ -140,7 +140,7 @@ This is less book and more unusually thick pamphlet, but it features interesting
 **Crafting Time** 4 days
 **Effect** This spell allows the user to create a destructive blast against a single target that deals profane damage (as the Smiting Blast talent of the Destruction sphere). Any enemy damaged by this blast is also subject to the effects of the Curse (ghost strike) talent of the Death sphere (Will negates). This blast may only be made by evil characters. While this particular blast does not allow for the use of (blast type) talents, the user can use it as a base to create a new spell that incorporates a (blast type) talent.
 
-### Space Is An Ocean: Swimming There And Back Again [TS]
+### Space Is An Ocean: Swimming There And Back Again
 
 This robust tome is filled with scribblings that appear cryptic and mad at first glance, perhaps even inspired by a god of cryptic messages. Theorists believe that when deciphered, they offer a way to swim among the stars.
 
@@ -157,7 +157,7 @@ This robust tome is filled with scribblings that appear cryptic and mad at first
 **Crafting Time** 10 days
 **Effect** This spell must be cast at caster level 10 or higher, or it fails. Upon success, this grants the target the ability to change between the form of a space whale (with the Aquan Transformation (transformation) form, as well as the effects of Size Change, Size Mastery, and a fly speed as from Avian Transformation (transformation). As a swift action, the target can switch between this form and a Blank Transformation (they always possess the same traits in their Blank Transformation, as detailed below). In both forms, they have the Breathless and Pressure Immunity traits from the Extreme Adaptation talent and the Starflight trait of the Star-Spawn Body (body) advanced talent. You may use the Permanent Transformation advanced talent on Becoming The Space Whale if you know it (without needing to relearn or modify this spell).
 
-### The Art Of Guidance [TS]
+### The Art Of Guidance
 
 An esoteric tome, the art of guidance is hotly pursued by those who practice the supporting arts and contains theories and ideas of how to apply magic in such a way as to benefit and nurture heroes. Two techniques contained within are particularly well-detailed.
 

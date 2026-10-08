@@ -49,7 +49,7 @@ A creature that fails its save against a tripwire snare falls prone. Once knocke
 
 # Trap Talents
 
-#### Aerial Trigger [Apoc]
+#### Aerial Trigger
 
 *Source: [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)*
 
@@ -57,7 +57,7 @@ You can give your traps a trigger that extends to the air to affect flying creat
 
 If your trap would knock the flying creature prone, it is instead battered until the end of its next turn. If your trap entangles the flying creature and prevents it from moving from the triggering square, it is pulled harmlessly to the triggering square.
 
-#### Aimed Dart [Apoc]
+#### Aimed Dart
 
 *Source: [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)*
 
@@ -71,13 +71,13 @@ When applying an alchemical item or poison to a trap, the save DC of the alchemi
 
 You may increase the time required to place a trap by 2 steps (a move becomes a full-round, a standard becomes 1 round, and a full-round becomes 1 minute) and increase the DC of placing the trap by 5. Doing so allows you to apply a second (dart) talent to a dart trap or a second (snare) talent to a snare trap. Alternatively, you may place a dart and snare trap in the same space to be triggered simultaneously. If you possess the Trap Wielder talent and combine it with this ability, resolve each trap separately.
 
-#### Crowd Pleaser [Apoc]
+#### Crowd Pleaser
 
 *Source: [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)*
 
 Whenever an enemy triggers one of your placed traps within your line of sight, you may make an Intimidate check to demoralize them as an immediate action. If you possess the Gladiator sphere, you may perform a boast instead as a free action that may be taken even when it is not your turn.
 
-#### Dirty Traps [Apoc]
+#### Dirty Traps
 
 *Source: [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)*
 
@@ -87,11 +87,11 @@ You may expend martial focus as an immediate action in order to place a Trap sph
 
 Your experience in building and placing traps gives you insight into spotting and disarming them. You may use Craft (traps) in place of Perception when searching for traps and in place of Disable Device when disarming them.
 
-#### False Trigger [Jester's HB]
+#### False Trigger
 
 When setting a trap, you may choose to make the trap a delayed trap. A delayed trap gains a +1 bonus to any attack roll it may make or DC it may have. This bonus increases by +1 for every 10 ranks in Craft (traps) you possess. The first time a trap would trigger, the trap does not trigger and makes an audible, obvious noise (such as a click).
 
-#### Fool’s Retreat (stance) [Youxia HB]
+#### Fool’s Retreat (stance)
 
 While in this stance, whenever you perform a withdraw action, any hostile creature which threatens your starting square with a melee weapon must succeed at a Will save or give chase, attempting to move to a square adjacent to you by the end of their turn.
 
@@ -115,27 +115,27 @@ When you place the tripwire snare, you may choose to have it deal 1d6 slashing d
 
 As an immediate action, when a creature comes within the area of effect of one of your traps, you may trigger a trap. Additionally, when a creature succeeds on a Reflex save to avoid triggering one of your snare traps, you may force them to reroll the save as an immediate action. You must be within close range (25 ft. plus 5 ft. per 2 ranks in Craft (traps)) of the trap to use either ability.
 
-If you select the remote trigger talent a second time, you may trigger your trap from medium range of your trap (100 feet + 10 feet per rank in Craft (trap)), and without requiring a creature to enter the area of effect for your trap. Lastly you may set your trap to trigger on a timer after a set amount of time after it is placed (but no longer than its base duration). If the trap can activate multiple times, you can set the time for each activation individually. [Apoc] **Source:** [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)
+If you select the remote trigger talent a second time, you may trigger your trap from medium range of your trap (100 feet + 10 feet per rank in Craft (trap)), and without requiring a creature to enter the area of effect for your trap. Lastly you may set your trap to trigger on a timer after a set amount of time after it is placed (but no longer than its base duration). If the trap can activate multiple times, you can set the time for each activation individually. **Source:** [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)
 
-#### Scatter Trap [SA:MT]
+#### Scatter Trap
 
 When you place a trap, increase the area it normally occupies by an additional contiguous 5-foot space for every 4 ranks in Craft (traps) you possess (minimum 1).
 
 In addition you can expend your martial focus when placing a trap to not have the spaces occupied by the trap be contiguous, but all must remain at least within close distance of one another (25 feet + 5 feet per 2 ranks of Craft (traps) you possess).
 
-#### Sneaky Trapper [Apoc]
+#### Sneaky Trapper
 
 *Source: [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)*
 
 You know how to place traps in a discreet manner. When a creature has line of sight to and is within 30 feet of a trap you are placing, you may perform a Sleight of Hand check with a DC equal to 11 + the observer’s Perception modifier in order to place it without automatically making the observers aware of the trap’s existence, or granting them bonuses to locate or avoid the trap. If there are multiple observers within 30 feet, use the highest DC among them. If there are no creatures within 30 feet of the trap, you automatically succeed on this check.
 
-#### Stop Drop And Control [Apoc]
+#### Stop Drop And Control
 
 *Source: [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)*
 
 You can place a trap as part of a withdraw action. The trap must be one that requires no more than a standard action to place, and must be placed in an unoccupied space you moved through. You do not provoke any attacks of opportunity when placing this trap.
 
-#### Trap Door [SA:MT]
+#### Trap Door
 
 You can create a hidden trap door instead of a (dart) or (snare) trap. This door can be placed horizontally or vertically with a maximum area of 10 by 10 feet. This increases to 15 by 15 feet at 5 ranks in Craft (traps) and by an additional 5 feet for every 5 ranks thereafter.
 
@@ -153,13 +153,13 @@ In addition when you create the door you can give it any of the traits from the 
 
 A trap door requires 1 minute to craft and lasts for 1 hour. If you possess the Persistent Trap talent its crafting period can be increased to 10 minutes to last for 24 hours (and does not count towards the limit of the amount of traps you can have with the Persistent Trap talent).
 
-#### Trap Finder [utility] [Conq. HB]
+#### Trap Finder [utility]
 
 You can use Disable Device to disarm magic traps. In addition, you gain a +1 competence bonus to Perception checks to locate traps and to Disable Device checks, increasing by +1 for every 4 ranks in Craft (traps) you possess.
 
 **Special:** If you possess the Expert Eye talent, you add the bonuses from this talent to Craft (traps) checks you attempt in place of Perception checks to locate traps and to Disable Device checks.
 
-#### Trap Launcher [Apoc]
+#### Trap Launcher
 
 *Source: [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)*
 
@@ -175,7 +175,7 @@ A dart trap may be immediately triggered, originating its line from any corner o
 
 A snare trap may be employed against any creature within your natural reach and does not provoke an attack of opportunity.
 
-#### Trapped Shield [Apoc]
+#### Trapped Shield
 
 *Source: [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)*
 
@@ -193,7 +193,7 @@ When crafting mundane traps, you may count your daily progress in gold pieces in
 
 Allies who can see and hear you never trigger your traps unless they choose to.
 
-#### Well-Planned Surprise [plan] [LotS]
+#### Well-Planned Surprise [plan]
 
 You may reveal a plan to announce that a dart or snare trap was placed somewhere within a square which you have both line of sight and line of effect to. This trap must be a trap you can create and which you can place in 1 round or less. You must still succeed at the skill check to place the trap successfully. If a creature in that square has the ability to notice the presence of traps without actively searching (such as with the Heightened Awareness talent or See Hazard sense), they get to make a free Perception check against the DC to spot the trap, and if they succeed, do not trigger the trap.
 
@@ -201,13 +201,13 @@ You may reveal a plan to announce that a dart or snare trap was placed somewhere
 
 # Dart Talents
 
-#### Barbed Dart (dart) [Apoc]
+#### Barbed Dart (dart)
 
 *Source: [Spheres Apocrypha: Debilitating Talents](https://www.drivethrurpg.com/product/304600/Spheres-Apocrypha-Debilitating-Talents?affiliate_id=549120)*
 
 This dart deals 1 point of bleed damage per die rolled to the target. This bleed damage cannot be healed unless the dart is removed as a full-round action. The creature can remove the dart as a swift action, but doing so deals 1d6 points of bleed damage.
 
-#### Blunt Dart (dart) [Apoc]
+#### Blunt Dart (dart)
 
 *Source: [Spheres Apocrypha: Debilitating Talents](https://www.drivethrurpg.com/product/304600/Spheres-Apocrypha-Debilitating-Talents?affiliate_id=549120)*
 
@@ -229,7 +229,7 @@ When used with a dart trap, a creature that is struck by your dart must make a R
 
 When used with a snare trap, the target is entangled and unable to move from the triggering square until it succeeds on a Strength or Escape Artist check against the trap’s DC or destroys the trap via damage.
 
-#### Tethered Dart (dart) [EO3]
+#### Tethered Dart (dart)
 
 A creature that is struck by your dart must succeed at a Reflex save or be tethered to the corner chosen when placing a dart, and is subject to a drag combat maneuver, using your practitioner modifier and Craft (traps) ranks instead of your Strength and base attack bonus respectively, dragging them towards the corner’s square. Each round the target remains tethered, they are subjected to the same drag combat maneuver (attempting a new roll every time). The tether has 10 hit points plus 2 hit points per rank in Craft (traps) you possess, an AC of 5, hardness equal to 1/2 your ranks in Craft (ranks), and a Break DC equal to your Trap sphere DC. The target cannot move further away from the trap without first breaking the tether or succeeding at a drag or reposition combat maneuver against your Trap sphere DC + 5, pulling the trap along with them. If you possess the Trap Wielder talent, you can instead have the tether applied to yourself instead of a designated corner.
 
@@ -241,25 +241,25 @@ A creature that is struck by your dart must succeed at a Reflex save or be tethe
 
 Rather than producing an effect on the triggering creature, this trap instead creates a loud noise when triggered, clearly audible to all creatures within 60 ft. of the trap, +5 ft. per rank in Craft (traps) you possess. In particularly quiet places, this sound can be heard up to 3 time as far away.
 
-#### Bamboozling Trap (snare) [Apoc]
+#### Bamboozling Trap (snare)
 
 *Source: [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)*
 
 A creature that fails its Reflex save to avoid this snare is treated as if it was successfully affected by a feint. This counts as you performing the feint for the purposes of Fencing sphere talents that depend on feinting a target. Non-humanoids with an Intelligence score of 1 or 2 get a +4 bonus to Reflex saves against this trap and mindless creatures are still immune. If you possess the Unlikely Feint Fencing sphere talent, reduce the bonus to saves non-humanoids with an Intelligence score of 1 or 2 get to their saves to +2 and mindless creatures are vulnerable to this trap but gain a +4 bonus to their Reflex save.
 
-#### Bear Trap (snare) [Apoc]
+#### Bear Trap (snare)
 
 *Source: [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)*
 
 A creature that fails its Reflex save to avoid this snare may not move from its current location unless it succeeds on a Strength or Escape Artist check against the trap’s DC or destroys the trap via damage. The affected creature also takes 1 bleed damage for every 8 ranks in Craft (traps) you possess (minimum 1). Treat this as an attack action performed by you for the purposes of Duelist sphere talents, such as dealing extra bleed damage, or determining which creatures are affected by this bleed (including (bleed) talents when applicable).
 
-#### Brutal Traps (snare) [Apoc]
+#### Brutal Traps (snare)
 
 *Source: [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)*
 
 A creature that fails its Reflex save to avoid this snare is subject to a bull rush as if the trap successfully beat their CMD by 1 +1 for every 2 ranks in Craft (traps) you possess. This counts as you performing the bull rush as a standard action for the purposes of Brute sphere abilities (a trap deals 1d4 damage with a Strength bonus of +0 for talents such as Smash). Creatures targeted by this trap get a +1 circumstance bonus on their saving throw for each size category they are larger than Medium.
 
-#### Disarming Traps (snare) [Apoc]
+#### Disarming Traps (snare)
 
 *Source: [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)*
 
@@ -291,7 +291,7 @@ When used with a snare trap, the target is entangled and unable to move from the
 
 A creature that fails its Reflex save to avoid a noose snare may not move from its current location and is unable to breathe unless it succeeds on a Strength or Escape Artist check against the trap’s DC or destroys the trap via damage. For every 4 ranks in Craft (traps) you possess, an affected creature is treated as though an additional round passed each round it remains in the snare for the purposes of how long they can hold their breath. Additionally, any spell the creature attempts to cast suffers a 50% spell failure chance if it requires verbal components.
 
-#### Scratching Post (snare) [Catgirl HB]
+#### Scratching Post (snare)
 
 When triggered, this trap erects a distracting, scratchable pole which occupies the nearest unoccupied square to the triggering square. The scratching post is an object which remains in that square for 1 minute per rank of Craft (traps) you possess and the square it occupies is treated as difficult terrain. The creature which triggered this trap must immediately attempt a saving throw or suffer the scratching post’s penalties.
 
@@ -311,13 +311,13 @@ When this trap is triggered, a 5-ft. radius from a corner of your choice of the 
 
 For every 4 ranks in Craft (traps) you possess, the smoke remains for 1 additional minute. A moderate wind (11+ mph) disperses the smoke in 4 rounds; a strong wind (21+ mph) disperses the smoke in 1 round.
 
-#### Techno Trigger (snare) [Inv. HB]
+#### Techno Trigger (snare)
 
 You may rig a technological item (including technological items, gadgets, inventor inventions and other such things determinable by the GM) that requires activation to be triggered by your snare. If the item requires a longer activation time than the time that would be required to place the trap, then the time required to place the trap increases to match the item activation time. If activating the item requires a skill check of some sort, this check must be made as part of setting the trap. This trap is not destroyed when triggered. Each time it is triggered, it consumes one charge from the item (if it is a charged item; single use items are counted as possessing 1 charge for this purpose), destroying the trap when the remaining charges reach 0.
 
 The duration of the trap also decreases by 5 rounds each time it is triggered. Once the trap is destroyed, any item used may be recovered, less any charges used. If the technological effect targets a creature, the triggering creature is targeted. If it targets an area, the effect originates from one corner of the square from which it was triggered (your choice). Shapes such as cones or lines must have their orientation determined when the trap is placed.
 
-#### Terrain Trap (snare) [Apoc]
+#### Terrain Trap (snare)
 
 *Source: [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)*
 
@@ -327,7 +327,7 @@ When creating such a snare you can choose to also have this area of difficult te
 
 You and allies you warn of this trap get a +5 to Reflex saves to avoid its effects as normal. If you have the Aerial Trigger talent this area of terrain extends into the air as well, and flying creatures must still pass a Fly check (DC 15 + caster level) or be forced to fly at half speed while over the area, and must make Reflex saves to avoid taking the damage. This area of difficult terrain dissipates after one minute.
 
-#### Tricky Traps (snare) [Apoc]
+#### Tricky Traps (snare)
 
 *Source: [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)*
 
@@ -337,7 +337,7 @@ A creature that fails its Reflex save to avoid this snare is subject to a dirty 
 
 # Legendary Talents
 
-#### A Better Mouse Trap (snare) [Jester's HB]
+#### A Better Mouse Trap (snare)
 
 **Prerequisites:** Craft (traps) 5 ranks, Trap sphere.
 
@@ -345,7 +345,7 @@ When triggered, this trap releases a rat swarm (Pathfinder RPG Bestiary pg. 232)
 
 If you possess the Bee Keeper Beastmastery talent, you may expend martial focus when placing this trap to choose an animal or vermin swarm with a CR equal to or less than 1/2 your ranks in Craft (traps) to be released when the trap triggers. Choosing a swarm is subject to GM discretion.
 
-#### All Part Of The Plan [Apoc]
+#### All Part Of The Plan
 
 *Source: [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)*
 
@@ -363,7 +363,7 @@ You may take this talent a second time when you possess 10 ranks in Craft (traps
 
 When setting a trap, you may increase the Craft (trap) DC by +10 to treat the trap as if it possessed the ghost-touch weapon special ability. The trap becomes a supernatural effect.
 
-#### Guillotine (snare) [EO3]
+#### Guillotine (snare)
 
 **Prerequisites:** Craft (traps) 10 ranks, Trap sphere.
 
@@ -384,7 +384,7 @@ Your damage-dealing traps overcome damage reduction based on your ranks in Craft
 | 12+ | Adamantine |
 | 16+ | Alignment (all) |
 
-#### Plummeting Traps (snare) [EO3]
+#### Plummeting Traps (snare)
 
 **Prerequisites:** Craft (traps) 10 ranks, Trap sphere.
 

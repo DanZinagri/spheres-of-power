@@ -15,13 +15,13 @@ The following are new barbarian rage powers.
 
 ---
 
-#### Astral Totem (Su) [RW HB]
+#### Astral Totem (Su)
 
 While raging, the barbarian calls to their perfect self beyond the astral veil as an extension of their true self.
 
 While raging, the barbarian increases their natural reach by +5 feet. This increases to +10 feet if the barbarian possesses 3 astral totem rage powers (including this one).
 
-#### Astral Totem Eternity (Su) [RW HB]
+#### Astral Totem Eternity (Su)
 
 The barbarian’s perfect self fully manifests the brilliant regal eminence of the stars, crushing down on his foes. While raging, once per round, the barbarian may declare an attack action or attack of opportunity to be empowered with an astral echo. The barbarian must choose to use this ability before the attack is made. After the empowered attack hits and its damage is calculated (after reductions by the target’s damage resistance or other abilities), the barbarian may select any 1 target within 30 feet of himself (this may include the target of the empowered attack).
 
@@ -29,7 +29,7 @@ That new target must succeed at a saving throw or suffer half of the damage deal
 
 A barbarian must have the astral totem rage power and astral totem visage rage powers, and they must be at least 12th level before selecting this rage power.
 
-#### Astral Totem Visage (Su) [RW HB]
+#### Astral Totem Visage (Su)
 
 The barbarian’s perfect self manifests more clearly, an ensemble of the stars beyond.
 
@@ -52,7 +52,7 @@ The barbarian may spend a round of rage to recover 2d6 hit points as a standard 
 
 While raging, whenever the barbarian confirms a critical hit, she gains temporary hit points equal to her class level. The hit points stack with themselves and with all temporary hit points from other sources, and last until the end of the rage.
 
-#### Furious Prowess (Ex) [DRS]
+#### Furious Prowess (Ex)
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds)*
 
@@ -60,7 +60,7 @@ The barbarian gains a bonus (stance) talent of their choice. When activating a s
 
 At 10th level, the barbarian may instead spend 3 rounds of rage to activate the stance as a free action.
 
-#### Furious Vigor (Ex) [AoP2]
+#### Furious Vigor (Ex)
 
 While raging, you gain an additional 1 temporary hit point per Hit Die you possess, in addition to a +1 bonus to Fortitude saving throws. Additionally, your rage does not end if you become unconscious, but you must still expend rounds of rage per day each round you remain unconscious.
 
@@ -72,15 +72,15 @@ While raging, the barbarian’s melee and thrown weapons are charged with the po
 
 The barbarian chooses three (mantle) talents. While raging in appropriate weather, the barbarian gains their effects. For every 6 barbarian levels she may treat the weather as 1 step more severe for the purpose of determining the mantles’ effects. This rage power can be selected more than once. Its effects do not stack. Each time the barbarian chooses three additional (mantle) talents.
 
-#### Shifter Totem, Lesser (Su) [AoP2]
+#### Shifter Totem, Lesser (Su)
 
 Whenever the barbarian would enter a rage, he gains the benefits of the Transformation feat, allowing him to transform as part of entering the rage, gaining the benefits of a single (transformation) Alteration sphere talent that does not cost a spell point, chosen at the time of gaining this rage power. The barbarian only gains the shapechanger subtype while he is raging.
 
-#### Shifter Totem (Su) (requires barbarian 6, lesser shifter totem) [AoP2]
+#### Shifter Totem (Su) (requires barbarian 6, lesser shifter totem)
 
 While raging, the barbarian gains the benefits of the Improved Transformation feat; except that he may choose traits that carry an additional spell point cost, expending 3 rounds of rage for every spell point the trait requires. The traits chosen are chosen at the time of gaining this rage power
 
-#### Shifter Totem, Greater (Su) (requires barbarian 10, lesser shifter totem, shifter totem) [AoP2]
+#### Shifter Totem, Greater (Su) (requires barbarian 10, lesser shifter totem, shifter totem)
 
 While raging, the barbarian gains the benefits of a single shifter bestial trait of his choice, treating his class level as his shifter level.
 ---

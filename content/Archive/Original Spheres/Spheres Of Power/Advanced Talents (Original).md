@@ -74,7 +74,7 @@ You may spend an additional spell point to add the following traits to your form
 - **Regenerate Flesh:** In addition to the normal healing from the fast healing option of the Vitality talent, the target’s severed body members (fingers, toes, hands, feet, arms, legs, tails, or even heads of multi-headed creatures), broken bones, and ruined organs grow back. The physical regeneration is complete in 1 round if the severed members are present and touching the creature. It takes 2d10 rounds otherwise. (Requires fast healing)
 - **Block Healing:** You may remove any fast healing or regeneration the target possesses. Additionally, any attempt to magically heal the target requires an MSB check against your MSD.
 
-#### Permanent Transformation [Core]
+#### Permanent Transformation
 
 **Prerequisites:** Alteration sphere, 10th CL
 
@@ -179,7 +179,7 @@ When you create a blood construct, you may spend 2 spell points to make the crea
 
 # Advanced Conjuration Talents
 
-#### Diagram [Core]
+#### Diagram
 
 **Prerequisites:** Conjuration sphere, Summoning, 1st CL
 
@@ -233,7 +233,7 @@ This regeneration is overcome by two of the following damage types of your choic
 
 Should your companion later gain resistance or immunity to the selected damage type from a permanent ability, you must select a new damage type.
 
-#### Summoning [Core]
+#### Summoning
 
 **Prerequisites:** Conjuration sphere, 1st CL
 
@@ -297,7 +297,7 @@ You may spend 5 additional spell points when using Create Materials or Permanent
 
 Additionally take note of how this talent could affect the world at large outside of PC hands. If many high level Creation casters exist, then normally rare materials might be commonplace in the setting, their rarity long since diminished by industrious casters, or perhaps the materials are not naturally occurring at all and the few mages with the ability to create them charge a fortune for their use, keeping their prices high. This ultimate secret of Creation might even be passed down only among those of a certain order, limiting the talent’s availability to a select few, like medieval guilds, with well guarded, secret recipes whose methods could be lost.
 
-#### Create Materials [Core]
+#### Create Materials
 
 **Prerequisites:** Creation sphere, Forge, Lengthened Creation, 10th CL
 
@@ -319,13 +319,13 @@ You may touch a single object and, as a full-round action, create a perfect dupl
 
 If you possess the Fleshcrafting and Bestow Life advanced talents, you may create a duplicate of a target creature. This duplicate appears to be the same as the original, but it has only half of the real creature’s levels or HD (and the appropriate hit points, feats, skill ranks, and special abilities for a creature of that level or HD). You must make a Disguise check when you cast the spell to determine how good the likeness is (you may use your CL in place of your ranks in Disguise). If you possess Exquisite Detail you may add your CL as a bonus to this check, even if you use your CL in place of your ranks in Disguise. A creature familiar with the original might detect the ruse with a successful Perception check (opposed by the caster’s Disguise check) or a DC 20 Sense Motive check. The duplicate creature is not under your control, though it recognizes you are its creator and functions as a faithful companion, as described under the Bestow Life talent. Creating a duplicate in this manner costs 1 spell point + 1 additional spell point for every 3 HD of the duplicate creature and you may not create a duplicate of a creature with more HD than your CL. These duplicates are incapable of growing in power, but otherwise age as normal (if made permanent with Create Materials). No magical effects affecting the target are duplicated.
 
-#### Fabricate [Core]
+#### Fabricate
 
 **Prerequisites:** Creation sphere, Forge, 10th CL
 
 When using your forge talent, you may spend an additional spell point to create items of great detail. You must pass the appropriate skill check to make complex items and work at a rate of 1 round per 10 cubic feet when working in this manner. You can only work with a material which you can create.
 
-#### Fleshcraft [Core]
+#### Fleshcraft
 
 **Prerequisites:** Creation sphere, Expanded Materials, 10th CL
 
@@ -376,7 +376,7 @@ You may create and animate a self-sustaining ooze creature. You must spend an ad
 
 This ooze may be any un-templated creature of the ooze type or a unique creation subject to GM discretion. You may not control more Hit Dice of ooze than your CL; if you create more than this, the earliest-created oozes no longer recognize you as their creator until you are under this limit again. Oozes can be made permanent through the Create Materials advanced talent.
 
-#### Permanent Change [Core]
+#### Permanent Change
 
 **Prerequisites:** Creation sphere, Change Material, Forge, Expanded Materials, 10th CL or higher.
 
@@ -422,7 +422,7 @@ By spending one spell point you lend your shadow animation and substance, allowi
 
 By spending additional 2 spell points you may empower a shadow, darkness, or blot so that the alignments of those within are rendered utterly null. Any new spell or effect targeting a creature or object of a particular alignment, or with a variable effect determined by alignment, automatically fails against targets protected by Black and Black Morality. Creatures lose the benefit of alignment-based damage reduction when affected by Black and Black Morality. Any ongoing spell or effect targeting alignment, such as a paladin’s smite ability or the penalties inflicted by a strongly aligned plane, are suspended for as long as the target is protected by Black and Black Morality, but not ended. Time spent protected by Black and Black Morality counts against the duration of ongoing effects.
 
-#### Eternal Darkness [Apoc]
+#### Eternal Darkness
 
 **Prerequisites:** Dark sphere, Lingering Darkness, 10th CL or higher
 
@@ -444,7 +444,7 @@ In blot form you can manipulate objects and use your items (which also take on b
 
 You may imbue yourself with one (blot) talent at normal spell point cost. This talent affects all targets within the area of your reach. You may change your active (blot) talent as a standard action, though you must pay any spell point cost associated with the new talent. You may end Melt into Shadow as a swift action, rematerializing in any unoccupied space within your reach.
 
-#### Midnight (darkness) [Core]
+#### Midnight (darkness)
 
 **Prerequisites:** Dark Sphere, Greater Darkness, 10th CL or higher.
 
@@ -458,7 +458,7 @@ By spending 2 spell points as a standard action you may become an area of your o
 
 You may adjust your size as a move action from a 5 ft. radius sphere up to the maximum volume of your darkness, and you may imbue yourself with one (darkness) talent at its normal spell point cost. Changing your active (darkness) talent is a standard action, and you must pay any spell point cost associated with the new talent. You may not manipulate objects or use your own items in this form. Ending this effect is a swift action allowing you to rematerializing in any unoccupied space within your personal area of darkness.
 
-#### Pitch Black [Apoc]
+#### Pitch Black
 
 **Prerequisites:** Dark sphere, Pure Darkness, 10th CL or higher
 
@@ -476,7 +476,7 @@ You do not cast a shadow while this ability is active, nor may you use or be the
 
 Reattaching your shadow double is a move action that does not provoke attacks of opportunity. Either you or your shadow double may spend this action. If your shadow double is killed or removed from the same plane of existence as you, it winks out of existence and your shadow returns with a surge of energy that causes you to be stunned for 1d4 rounds. In either case, you immediately gain the knowledge of everything your shadow double observed and did while it was detached.
 
-#### Shadow Walker (meld) [Core]
+#### Shadow Walker (meld)
 
 **Prerequisites:** Dark Sphere, Step Through Darkness, 10th CL or higher.
 
@@ -484,7 +484,7 @@ A target must be within an area of dim light or darkness for you to apply this (
 
 Because of the blurring of reality between the Plane of Shadow and the Material Plane, the target can’t make out details of the terrain or areas you pass over during transit, nor can you predict perfectly where your travel will end. It’s impossible to judge distances accurately, making this ability ill-suited for scouting or spying. Furthermore, when stepping back into the Material Plane, the target is shunted 1d10 x 100 feet in a random horizontal direction from the desired endpoint. If this would place the target within a solid object, they are shunted 1d10 x 1,000 feet in the same direction. If this would still place them within a solid object, they are shunted to the nearest empty space available, but the strain of this activity renders the creature fatigued (no save).
 
-#### Vanish in Shadow [Apoc]
+#### Vanish in Shadow
 
 **Prerequisites:** Dark sphere, Hide in Darkness, 5th CL or higher
 
@@ -496,7 +496,7 @@ In addition, when you apply the meld to a target you may spend an additional poi
 
 # Advanced Death Talents
 
-#### Astral Projection [Core]
+#### Astral Projection
 
 **Prerequisites:** Death sphere, Project Spirit, 10th CL or higher.
 
@@ -504,7 +504,7 @@ When using the Project Spirit advanced Death talent, you may spend an additional
 
 While you are on the Astral Plane, your astral body is connected at all times to your physical body by an incorporeal silver cord. If the cord is broken, you are killed, astrally and physically. Luckily, very few things can destroy a silver cord. Unlike a regular use of the Project Spirit talent, you and your companions may travel through the Astral Plane in this manner indefinitely, until you either choose to end the effect (which returns you to your body) or it is ended by some outside means. This effect may be dispelled like any other sphere effect by targeting either your astral form or your physical body. Dispelling this effect immediately returns you to your body.
 
-#### Astral Travel [Core]
+#### Astral Travel
 
 **Prerequisites:** Death sphere, Astral Projection, Project Spirit, 15th CL or higher.
 
@@ -526,7 +526,7 @@ You may spend a full-round action to bind the spiritual forces in a location, ca
 
 Haunts created using this talent count towards the maximum number of haunting apparitions you may have at a time, have a CL equal to yours, and share an alignment with you. These haunts are permanent unless destroyed by Break Enchantment and similar effects or by killing you.
 
-#### Greater Undead [Core]
+#### Greater Undead
 
 **Prerequisites:** Death Sphere, Lingering Necromancy, Permanent Undead, 5th CL or higher.
 
@@ -542,13 +542,13 @@ At 15th CL, you may create any form of undead, regardless of CR, provided you me
 
 As a standard action, you may target a conscious and willing creature with your ghost strike, and they immediately die without any pain or discomfort. However, for 1 day per CL the creature is treated as having died for no more than 1 round for the purposes of the Resuscitate talent and other spells or abilities that are used to bring creatures back from the dead. While this effect lasts, the remains of the dead creature do not decay and cannot be reanimated without a successful magic skill check made against your MSD.
 
-#### Permanent Undead [Core]
+#### Permanent Undead
 
 **Prerequisites:** Death Sphere, Lingering Necromancy, 5th CL or higher.
 
 When you reanimate a corpses as a skeleton or zombie, you may spend 2 spell points to make the reanimation an instantaneous effect. The undead creature exists independent of your concentration, has no duration, and cannot be dispelled. These undead still count against the total number of undead you may have reanimated at any one time. If you create more undead than your total, old permanent undead are not destroyed; instead, they are simply released from service and will attack you or any other nearby living creature.
 
-#### Possession [Core]
+#### Possession
 
 **Prerequisites:** Death sphere, Project Spirit, 10th CL or higher.
 
@@ -558,7 +558,7 @@ Attempting to possess a body is a full-round action. You may only attempt to pos
 
 If you are successful, your life force occupies the host body. You keep your Intelligence, Wisdom, Charisma, level, class, base attack bonus, base save bonuses, alignment, mental abilities, extraordinary abilities, supernatural abilities, and magical abilities such as spells and sphere abilities. The body retains its Strength, Dexterity, Constitution, hit points, natural abilities, and automatic abilities. A body with extra limbs does not allow you to make more attacks (or more advantageous two-weapon attacks) than normal. You cannot choose to activate the body’s extraordinary or supernatural abilities. The creature’s spells and spell-like abilities do not stay with the body. You may possess a body for up to 1 hour per CL, but may always end the effect early as a standard action. If the host body is slain, you return to your body and suffer 2 permanent negative levels. As is usual when projecting your spirit, this effect may be dispelled at either your body or the host’s body.
 
-#### Project Spirit [Core]
+#### Project Spirit
 
 **Prerequisites:** Death sphere, 10th CL or higher.
 
@@ -576,13 +576,13 @@ Your spirit treats other ethereal creatures and ethereal objects as if they were
 
 Each time you use a Death sphere talent or ability that does not cause negative levels or immediately kill its target (such as Killing Curse), you can choose for it not to count as a death effect, meaning it can affect creatures normally resistant or immune to death effects, such as outsiders with the daemon subtype. This allows you to affect constructs and undead with your ghost strikes. Such creatures gain a +4 bonus to any granted saving throw, and may still be immune to the effects caused by your ghost strike (disease, etc.).
 
-#### Soul Trap [Core]
+#### Soul Trap
 
 **Prerequisites:** Death sphere, 15th CL or higher.
 
 As a standard action, when adjacent to a creature that has died very recently (within 1 round per CL) you may spend 3 spell points to trap their soul into a gem. The target is allowed a Will save to negate the effect, and the gemstone’s value must be at least 1,000 gp per HD of the creature you are attempting to trap. If successful, the creature’s soul becomes trapped within the gemstone. A trapped creature cannot be resurrected or have its spirit summoned, unless the caster is in possession of this gemstone. The creature trapped inside the gemstone always fails its saving throws if the holder of the gemstone uses the Summon Spirit advanced Death talent on it. If the gemstone is broken, the spirit is released. If the spirit is called through the Summon Spirit advanced Death talent, the caster may choose to release the spirit, in which case it travels to the afterlife, leaving the gem empty and reusable.
 
-#### Summon Spirit [Core]
+#### Summon Spirit
 
 **Prerequisites:** Death sphere, 5th CL or higher.
 
@@ -628,7 +628,7 @@ Once a spirit has been summoned, you may do any of the following:
 
 # Advanced Destruction Talents
 
-#### Calamity (blast shape) [Core]
+#### Calamity (blast shape)
 
 **Prerequisites:** Destruction sphere, Explosive Orb, Shape Blast, 15th CL or higher.
 
@@ -734,7 +734,7 @@ Like alternate divinations, this advanced talent grants additional divinations d
 - Thoughtsense: If you possess the Mind sphere, you may spend 2 spell points to gain the thoughtsense ability. You automatically detect and locate conscious creatures within 30 ft. This ability functions similarly to blindsight. Nondetection, Spell Ward, and similar effects block thoughtsense. Thoughtsense can distinguish between sentient (Intelligence 3 or greater) and nonsentient (Intelligence 1–2) creatures, but otherwise provides no information about the creatures it detects. Creatures lacking an intelligence score, or otherwise less than 1 do not function to detect or locate such creatures.
 - Touchsight: If you possess the Telekinesis sphere, you may spend 2 spell points to gain the touchsight ability. You gain the ability to “feel” your surroundings even when your sight would otherwise be obscured by your physical environment. Your touchsight field emanates from you out to 30 feet. You ignore invisibility, darkness, and concealment, though you must have line of effect to a creature or an object to discern it. You do not need to make Perception checks to notice creatures; you can detect and pinpoint all creatures within 30 feet. In many circumstances, comparing your regular senses to what you learn with touchsight is enough to tell you the difference between visible, invisible, hiding, and concealed creatures.
 
-#### Discern Location (divine) [Core]
+#### Discern Location (divine)
 
 **Prerequisites:** Divination sphere, Dowsing, Greater Divine, 15th CL or higher.
 
@@ -764,7 +764,7 @@ It is also possible for someone to adopt an alias, as the same aura is detected 
 
 While it is very easy to identify lower level creatures individually, their auras do not last very long, which is why many petty thieves can go undetected, even in settlements that have access to this ability. However, thieves of great skill or renown can quickly become easy to spot, becoming celebrities in their own right as their deeds are easily identified, even if they themselves are difficult to capture.
 
-#### Divine Knowledge (divine) [Core]
+#### Divine Knowledge (divine)
 
 **Prerequisites:** Divination sphere, Read Omens, 10th CL or higher
 
@@ -796,13 +796,13 @@ When using the scrying advanced talent, you may spend an additional spell point 
 
 When using Divination sphere talents or abilities, any divine or sense abilities normally blocked by dense substances, can now penetrate 5 ft of stone, 6 inches of common metal, a half inch of lead, or 15 ft of wood. You may take this advanced talent a second time increasing the thickness you can penetrate to 10 ft of stone, 1 ft of common metal, an inch of lead, or 30 ft of wood.
 
-#### Read Omens (divine) [Core]
+#### Read Omens (divine)
 
 **Prerequisites:** Divination sphere, 5th CL or higher.
 
 You may spend 2 spell points to divine for knowledge of the future. You gain useful advice in reply to one question regarding a specific goal, event, or activity to occur within 1 week. This advice could be a useful phrase or a cryptic omen or rhyme. If you do not act on the information, the conditions may change so that the information is no longer useful. The base chance for a correct divination is 70% + 1% per CL, to a maximum of 90%. If the die roll fails, you receive no information and know the attempt failed, unless specific magic yielding false information is at work. Multiple divinations about the same topic by the same caster use the same dice result as the first attempt and yield the same answer each time.
 
-#### Scrying [Core]
+#### Scrying
 
 **Prerequisites:** Divination sphere, Greater Divine, Viewing, 10th CL or higher.
 
@@ -835,7 +835,7 @@ If the save fails, you can see and hear the subject and its surroundings (approx
 
 You may spend a spell point to gain a special sense that lets you add 1/2 your CL to Perception skill checks made to locate traps and to Disable Device skill checks (minimum +1). In addition, you may disable magical traps as a rogue.
 
-#### True Seeing (sense) [Core]
+#### True Seeing (sense)
 
 **Prerequisites:** Divination sphere, Ghost Sight, True Sight, 10th CL or higher.
 
@@ -865,7 +865,7 @@ Whenever you use Magic Sink on a creature benefiting from your Spell Ward, or vi
 
 By spending 10 minutes and a spell point, you may downplay the needs of your body until they vanish entirely. While Ascetic Control is active, you do not bleed, and do not need to eat, drink, breathe, or sleep. Ascetic Control lasts one month per use.
 
-#### Bestow Life [Core]
+#### Bestow Life
 
 **Prerequisites:** Enhancement sphere, Bestow Intelligence, Animate Object, 10th CL or higher.
 
@@ -896,7 +896,7 @@ Whenever you use Mass Enhancement, you may spend 2 additional spell points to ha
 
 Upon using this talent, you may exclude targets from the effect based on some visible or audible criterion. This would allow you to, say, have enhance equipment affect any swords within the area, or have render clumsy apply only to creatures who are not prominently showing a particular badge.
 
-#### Reverse Gravity (enhance) [Core]
+#### Reverse Gravity (enhance)
 
 **Prerequisite:** Enhancement sphere, Lighten, 15th CL or higher.
 
@@ -916,7 +916,7 @@ Provided it has something to hold onto, a creature caught in the area can attemp
 
 # Advanced Fate Talents
 
-#### Atonement (word) [Core]
+#### Atonement (word)
 
 **Prerequisites:** Fate sphere, 10th CL or higher.
 
@@ -984,7 +984,7 @@ You may spend an additional spell point to grant the target a bonus to Bluff che
 
 This effect lasts as long as you concentrate, but you may always spend a spell point to allow the effect to endure for 1 minute per CL without concentration.
 
-#### Geas (curse) [Core]
+#### Geas (curse)
 
 **Prerequisites:** Fate sphere, 10th CL or higher.
 
@@ -996,7 +996,7 @@ If the subject is prevented from obeying the geas for 24 hours, it takes a -2 pe
 
 A geas cannot be dispelled, but it may be broken through the Break Enchantment [[Life]] talent, as well spells such as break enchantment, limited wish, remove curse, miracle, or wish. You may remove a geas that you placed on a target as a standard action.
 
-#### Greater Geas [Core]
+#### Greater Geas
 
 **Prerequisites:** Fate sphere, Geas, 10th CL or higher
 
@@ -1008,7 +1008,7 @@ Your geas becomes more powerful. Targets of your geas no longer gain a saving th
 
 You may grant a motif that extends the benefits of other motifs affecting a target to their allies. When you use this ability, choose a motif currently affecting the target to link this motif to. The target’s allies gain the normal effect as long as they are within 30 ft. of the target. When the target discharges the chosen motif, they may either choose a different motif affecting the target to link this motif to or discharge this motif as part of the same action to grant all allies within 30 ft. of them an insight bonus to saving throws equal to half your CL for one round. If the target discharges the chosen motif but it does not end (such as if they also have the Death motif), they may not choose a different motif to link to this motif (it instead remains linked to the chosen motif), but may discharge this motif.
 
-#### Mark of Judgment (curse) [Core]
+#### Mark of Judgment (curse)
 
 **Prerequisites:** Fate sphere, Geas, Greater Geas, 10th CL or higher.
 
@@ -1086,7 +1086,7 @@ Those affected by your silence must succeed on an additional Will save to even b
 
 You may spend an additional spell point when using the Silence talent to have it negate sight in place of or in addition to sound. Affected targets are treated as if they were blind but become immune to Light sphere effects, gaze attacks, and any other abilities that rely on light, sight or vision. This immunity to vision grants the benefits of your Invisibility talent to affected targets with an additional +5 to Stealth checks and Perception check DCs. This effect blocks line of sight.
 
-#### Permanent Image [Core]
+#### Permanent Image
 
 **Prerequisites:** Illusion sphere, Lingering Illusion, 10th CL or higher.
 
@@ -1164,19 +1164,19 @@ The hypervitalized creature gains the following benefits:
 
 Whenever you cure a creature, they always regain enough hit points to bring them to a minimum of 1 hit point.
 
-#### Regeneration [Core]
+#### Regeneration
 
 **Prerequisites:** Life Sphere, CL 10th or higher.
 
 When you restore a target, they are healed of all broken bones, severed body parts (fingers, toes, hands, feet, arms, legs, tails, or even heads of multi-headed creatures), and ruined organs. This also restores sight, hearing, and other permanent loss of senses. If body parts to be reattached are not present, they require 2d10 rounds to regrow. This cannot bring a creature back from the dead nor function on a creature that is already dead.
 
-#### Restore Mind and Body [Core]
+#### Restore Mind and Body
 
 **Prerequisites:** Life Sphere, Break Enchantment, Restore Soul, Restore Mind, CL 15th or higher.
 
 You may spend an additional spell point to allow your restore ability to remove all permanent negative levels from the target and to count as using a wish or miracle spell for those spells and abilities that specify they can only be removed by use of these spells (including insanity, feebleminded, geas, etc.). This does not mimic any other benefits of a wish or miracle spell, and cannot restore other conditions unless the appropriate talents are also possessed.
 
-#### Resurrection [Core]
+#### Resurrection
 
 **Prerequisites:** Life Sphere, Resuscitate, 10th CL or higher.
 
@@ -1184,7 +1184,7 @@ You may spend 3 spell points and 1 hour to bring a dead target back to life. A t
 
 Missing body parts are not restored, although the wounds are sealed and do not bleed. The target also gains two permanent negative levels when it is raised or suffers 2 points of Constitution drain for every negative level it would be reduced below 1st level. If this would reduce the target’s Constitution to 0 or less, it cannot be raised. You cannot raise a target that has died of old age.
 
-#### Resurrection, Greater [Core]
+#### Resurrection, Greater
 
 **Prerequisites:** Life Sphere, Resuscitate, Resurrection, Regeneration, 15th CL or higher.
 
@@ -1208,7 +1208,7 @@ The transfiguration lasts a number of hours equal to your CL, or until they drop
 
 By spending a spell point when you create a glow effect, you may cause it to take the form of a number of motes equal to your CL. Each of these motes sheds normal light in a 5 ft. radius, and light 5 ft. beyond that is increased by one step to a maximum of normal. If you cause the glow to shed bright light, then they shed bright light in a 5 ft. radius, and and increase light 5 ft. beyond that by one step to a maximum of normal. Each of these motes acts like a glow effect created with the Dancing Lights talent, except that you may direct and affect all of them as a single glow effect for all purposes. Overlapping areas of bright light from motes do not stack their effects for purposes other than increasing light level. Unlike other (nimbus) talents, Constellation may only be applied when a glow effect is created, and you cannot switch to other (nimbus) talents once it has been applied.
 
-#### Daylight (light) [Core]
+#### Daylight (light)
 
 **Prerequisites:** Light sphere, 10th CL or higher.
 
@@ -1282,19 +1282,19 @@ If you exercise this option, you may also spend an an additional spell point whe
 
 # Advanced Mind Talents
 
-#### Deadly Vision (charm) [Core]
+#### Deadly Vision (charm)
 
 **Prerequisites:** Mind sphere, Vision, 10th CL or higher.
 
 You may spend 2 spell points to give the target a vision of the most fearsome creature imaginable, pulling its subconscious fears into a shape before its eyes. Only the target can see this vision, although you may see the vague shape of the creature the target is seeing. The target first gets a Will save to recognize the image as unreal. If that save fails, the phantasm touches the subject, and the subject must succeed on a Fortitude save or die from fear.
 
-#### Greater Communication [Core]
+#### Greater Communication
 
 **Prerequisites:** Mind sphere, Read Mind, Project Thoughts, 10th CL or higher.
 
 So long as you are personally familiar with the subject, you may spend an additional spell point to use your Project Thoughts charm across any distance, even across planes (although there is a 5% chance a cross-planar sending simply doesn’t arrive). Recipients are allowed to respond in kind (25 words for the Greater charm, no word limit for the Powerful charm), but the target must voluntarily receive and send the messages; the target may simply decide to block you out, in which case the conversation immediately ends.
 
-#### Insanity (mind) [Core]
+#### Insanity (mind)
 
 **Prerequisites:** Mind sphere, Confusion, 10th CL or higher.
 
@@ -1306,7 +1306,7 @@ When applying a confusion charm to a target, you may spend an additional spell p
 
 When you place a powerful Enthrall charm on a target, you may spend an extra spell point at the time of casting to create a memetic link between you and the target. This link allows the target, if they have access to the Mind sphere, enchantment spells, or similar mind-affecting effects, to treat both itself and you as the caster of any such mind-affecting effects that they produce. All calculations involving CL, saving throw DCs, magic skill checks, and other similar concerns related to the actual casting still use the target’s own casting ability, but you are treated as the caster for the purposes of the results. (For example: If your target casts Read Mind on another target, you would both gain the information gleaned from the secondary target’s mind.) If your target possesses Memetic Link as well, he or she may cede control of an Enthrall charm he or she casts to you as well, creating a potential chain of enthralled targets, though such a chain may only go as long as your casting ability modifier (not counting yourself).
 
-#### Mind Control [Core]
+#### Mind Control
 
 **Prerequisites:** Mind Sphere, Enthrall, Powerful Charm, Project thoughts, 10th CL or higher.
 
@@ -1340,7 +1340,7 @@ You may spend an additional 1, 2, or 3 spell points and take 10 minutes to affec
 
 # Advanced Nature Talents
 
-#### Earthquake (earth, geomancing) [Core]
+#### Earthquake (earth, geomancing)
 
 **Prerequisites:** Nature sphere, Forge Earth, 15th CL or higher.
 
@@ -1400,13 +1400,13 @@ As an instantaneous effect, you may, as a standard action, spend 3 spell points 
 
 You may spend 2 additional spell points when using the water geomancing fog ability to change the duration of the fog from concentration to permanent. The fog in this form becomes an insubstantial object without hit points. You may concentrate on the fog to have it move up to 1/2 your speed in any direction. If targeted or otherwise in the area of an ability from the weather sphere, the caster using the weather sphere must make a magic skill check against your magic skill defense. If the weather sphere user is successful, the fog is immediately dispelled. It is otherwise not subject to the effects of weather not created by magic.
 
-#### Phoenix Resurgence (fire, spirit) [Apoc]
+#### Phoenix Resurgence (fire, spirit)
 
 **Prerequisites:** Nature Sphere, Feed on Flames, Fire Wielder, Wreath of Flames, 1st CL or higher.
 
 In response to gaining the disabled or dying condition, as an instantaneous effect, you may as an immediate action spend 3 spell points to explode into a ball of flame dealing 1d6 fire damage per CL to all creatures within 10 ft. +5 ft. per 5 CLs. At the beginning of your next round, you return to life with 0 hit points and a number of temporary hit points equal to your CL, which remain for 1 hour.
 
-#### Rapid Growth (plant, geomancing) [Core]
+#### Rapid Growth (plant, geomancing)
 
 **Prerequisites:** Nature sphere, Grow Plants, 15th CL or higher.
 
@@ -1420,7 +1420,7 @@ Massive trees take up an entire square and provide cover to anyone behind them. 
 
 Increase Yield: If used in an area of developed farmland, you double the crop production in that area for the rest of the harvest season. This has no effect if used in winter or other times when crops are not being tended.
 
-#### Tsunami (water, geomancing) [Core]
+#### Tsunami (water, geomancing)
 
 **Prerequisites:** Nature sphere, Create Water, Wave, 15th CL or higher.
 
@@ -1432,7 +1432,7 @@ Objects struck by a tsunami are swept up if they are Huge or smaller and are car
 
 A solid barrier that is taller than the tsunami that is not destroyed by the wave stops that portion of the wave from continuing onward, leaving a gap in the wave as the rest of it continues forward.
 
-#### Volcano [Core]
+#### Volcano
 
 **Prerequisites:** Nature sphere, Move Fire, 15th CL or higher.
 
@@ -1442,7 +1442,7 @@ In addition, the volcano sprays lava, smoke, and poison gas in a hemispherical e
 
 A volcano must be created on the ground and cannot be created in other places, such as on the 2nd floor of a building. You can choose to make a smaller volcano than your level permits if an obstruction prevents it from reaching its full height, or if you simply want to create a spread of lava that’s smaller than your maximum.
 
-#### Whispering Wind (air, geomancing) [Apoc]
+#### Whispering Wind (air, geomancing)
 
 **Prerequisite:** Nature sphere, CL 1st or higher. (requires air)
 
@@ -1454,7 +1454,7 @@ At time of casting, you can prepare the effect to bear a message of no more than
 
 When the message reaches its objective, it swirls and remains in place until the message is delivered, at which time the spell is discharged. The message cannot speak verbal components, use command words, or activate magical effects.
 
-#### Wildfire (fire) [Apoc]
+#### Wildfire (fire)
 
 **Requirements:** Nature Sphere, Greater Range x2, 5th CL or higher.
 
@@ -1484,19 +1484,19 @@ The creature created is friendly toward you, and while you have no special empat
 
 # Advanced Protection Talents
 
-#### Adaptation (aegis) [Core]
+#### Adaptation (aegis)
 
 **Prerequisites:** Protection Sphere, Energy Resistance, Breathless, 10th CL or higher.
 
 You may spend 2 spell points to grant a target an aegis that makes them immune to most environmental conditions. They become immune to extreme temperatures, toxicity in the air, and can breath underwater or in a vacuum. In addition, the target gains Energy Resistance to acid, frost, fire, and lightning equal to your CL.
 
-#### Anti-Magic Aura [Core]
+#### Anti-Magic Aura
 
 **Prerequisites:** Protection sphere, Spell Ward, 10th CL or higher.
 
 When creating a spell ward, you may spend an additional spell point to improve the ward’s abilities: The ward stops all magic and summoned creatures without the need for a magic skill check. If this ward is pitted against a summoned creature that has Spell Resistance, you must still make a magic skill check against the creature’s Spell Resistance to banish it.
 
-#### Complex Glyph [Abj. HB]
+#### Complex Glyph
 
 **Prerequisite:** Glyph, 5th CL or higher.
 
@@ -1508,7 +1508,7 @@ If you possess the Cantrips feat, you may use any simple magical effect the Cant
 
 A complex glyph uses your CL with the sphere of the sphere ability to determine the effect of the sphere ability, but uses your Protection CL to determine its own properties.
 
-#### Permanent Ward [Abj. HB]
+#### Permanent Ward
 
 **Prerequisites:** Enduring Protection, 10th CL or higher.
 
@@ -1520,7 +1520,7 @@ The glyph always has an initiative equal to its CL and does not roll a d20 or ad
 
 To be turned into a permanent glyph, a ward or other sphere ability must be usable as a full-round action or shorter without costing any spell points to use. If the caster has abilities that allows them to reduce spell point cost by increasing casting time, they may apply them, provided the casting time stays at a full-round action or less.
 
-#### Subtlety (aegis) [Abj. HB]
+#### Subtlety (aegis)
 
 **Prerequisites:** 5th CL or higher.
 
@@ -1530,7 +1530,7 @@ The effect is such that these abilities can not target the character properly wi
 
 Abilities that rely on the caster choosing targets are not affected by this aegis, even if that ability only works on certain targets (such as a paladin’s smite evil ability), and this doesn’t give the bearer any special concealment from creatures using magical senses. Area effect abilities are also still effective against the creature, provided the effect affects every creature, or affects every creature save for those specifically made invulnerable by the caster.
 
-#### True Protection [Abj. HB]
+#### True Protection
 
 **Prerequisites:** 10th CL or higher.
 
@@ -1540,7 +1540,7 @@ To be used, the caster must be able to uniquely identify the creature. If the ca
 
 The GM is the ultimate adjudicator of what is required.
 
-#### Undying (aegis) [Abj. HB]
+#### Undying (aegis)
 
 **Prerequisites:** Protection sphere, Deathless, 7th CL or higher.
 
@@ -1550,7 +1550,7 @@ This aegis does not remove negative levels that the subject has already gained, 
 
 This aegis does not protect against other sorts of attacks, even if those attacks might be lethal.
 
-#### Unplottable (aegis) [Core]
+#### Unplottable (aegis)
 
 **Prerequisites:** Protection sphere, Resistance, 15th CL or higher.
 
@@ -1590,7 +1590,7 @@ As either a stand-alone standard action or as part of maintaining a Hostile Lift
 
 You can apply an opposing force at the right times, canceling out offensive forces. As an immediate action whenever you would take damage, you may spend two spell points to negate that damage. You may use this to respond to energy or magic based attacks, and you may even use it to insulate you against environmental hazards (such as acid rain or lava) but it is ineffective against damage from internal or nonphysical sources (such as bleed damage or a mental attack).
 
-#### Effortless Telekinesis [Core]
+#### Effortless Telekinesis
 
 **Prerequisites:** Telekinesis sphere, 10th CL or higher.
 
@@ -1697,7 +1697,7 @@ The Reversion and Complete Reversion talents presented here offer some very flex
 
 We also encourage players planning to use this ability on themselves to choose alternate builds that still have access to a spell point pool and the Reversion or Complete Reversion in the event that they find they enjoyed their previous build more; once a character has trained away their ability to use these talents, they may find that they cannot easily access them again.
 
-#### Temporal Stasis [Core]
+#### Temporal Stasis
 
 **Prerequisites:** Time sphere, 15th CL or higher.
 
@@ -1713,7 +1713,7 @@ You may touch a target and spend 3 spell points to place it into a state of susp
 
 If you are the commander of a ship or similar large vessel weighing at least 2,000 pounds, you may create a totem attached to the vessel itself. The area of the totem includes the entire vessel, and extends outward for it to affect any creature within close range of the vessel.
 
-#### Commander [Core]
+#### Commander
 
 **Prerequisites:** War sphere, 10th CL or higher.
 
@@ -1731,7 +1731,7 @@ Creating a monument takes 8 hours.
 
 # Advanced Warp Talents
 
-#### Create Demiplane [Core]
+#### Create Demiplane
 
 **Prerequisites:** Warp Sphere, Extra dimensional Room, Creation sphere, Expanded Materials, 15th CL
 
@@ -1767,7 +1767,7 @@ If you use this ability while within your demiplane, you may either permanently 
 
 **Structure:** You may give your demiplane a specific, linked physical structure, such as a giant tree, floating castle, labyrinth, mountain, and so on. (This option exists so you can pick a theme for your plane without having to worry about the small details of determining what abilities you need for every hill, hole, wall, floor, and corner.)
 
-#### Dimensional Lock (space) [Core]
+#### Dimensional Lock (space)
 
 **Prerequisites:** Warp sphere, Plane Manipulator, 15th CL
 
@@ -1779,7 +1779,7 @@ You may spend 2 spell points to designate a 20-ft radius area centered within Me
 
 When using the Portal advanced talent, you may spend an additional spell point to cause the portal to remain without the need for concentration, and increase its maximum duration to 1 hour per CL. If you instead spend 2 spell points, the portal has a permanent duration and dispelling attempts affect it as if it were a magic item. Effects that would destroy a magic item (such as Counterspell, Greater) can also destroy the portal.
 
-#### Flawless Teleport [Core]
+#### Flawless Teleport
 
 **Prerequisites:** Warp sphere, True Teleport, Unseeing Teleport, Distant Teleport, 15th CL
 
@@ -1793,13 +1793,13 @@ You need not have seen the destination you are trying to reach, but in that case
 
 By spending 2 spell points, you may teleport any number of targets within close range. If you possess Unwilling Teleport, you only need to spend one spell point no matter how many unwilling targets are affected. If an unwilling target makes their saving throw, other targets are still affected as normal. If you possess Teleport Object, you may also teleport any number of objects so long as each individual object is within your weight limit (or size limit if you possess Teleport Structure).
 
-#### Planeshift [Core]
+#### Planeshift
 
 **Prerequisites:** Warp sphere, Unseeing Teleport, Distant Teleport, True Teleport, 10th CL
 
 You may spend 2 additional spell points to teleport to an alternate dimension or plane of existence. You must know the plane you are trying to reach, as well as where within that plane you would like to appear (if you do not know a specific location to appear on that plane you may still use this ability, but you run the risk of appearing anywhere on that plane). Even if you do have a specific location in mind, you always appear 5 to 500 miles (5 x d100) from your intended destination.
 
-#### Portal [Core]
+#### Portal
 
 **Prerequisites:** Warp sphere, Unwilling Teleport, 10th CL
 
@@ -1843,7 +1843,7 @@ You may spend a spell point to create a dimensional anchor as an immediate actio
 
 In addition, when a teleport fails due to your dimensional anchor you may pay a spell point to redirect it, choosing its destination as if you had cast the effect instead of the caster. The caster must succeed on a Will save to avoid the effect being redirected.
 
-#### True Teleport [Core]
+#### True Teleport
 
 **Prerequisites:** Warp sphere, Unseeing Teleport, Distant Teleport, 10th CL
 
@@ -1883,7 +1883,7 @@ When using control weather to create Precipitation of severity level 4 or above 
 
 This supersedes the Boiling Lord basic talent in Spheres of Power.
 
-#### Climate [Core]
+#### Climate
 
 **Prerequisites:** Weather Sphere, Greater Size, 10th CL or higher.
 

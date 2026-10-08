@@ -29,7 +29,7 @@ Talents marked (space) grant you ways of bending and folding space. Bending spac
 
 When you spend a spell point to increase the range of your teleport, the range increases to long instead of medium.
 
-#### Distortion Aura [DbH]
+#### Distortion Aura
 
 When you use a (space) talent which affects an area (such as Dimensional Lock, Flex Space, or Looped Space), you may choose to change the affected area to a 10-foot radius around you. This radius may be increased by 5 feet for every 5 caster levels you possess and follows you when you move. If you move so that a creature enters the aura, they are affected as if they had entered the area themself.
 
@@ -109,7 +109,7 @@ When a creature steps into the triggering square, the teleport effect activates,
 
 A teleport trap lasts for 10 minutes per caster level before becoming inert. This is a magical trap with a Perception DC and Disable Device DC equal to the teleport’s save DC. You may only have one teleport trap active at a time. You may select this talent multiple times. Each time this talent is gained beyond the 1st, increase the total number of teleport traps you may have active at one time by 1.
 
-#### Timed Warp [Jester's HB]
+#### Timed Warp
 
 When you teleport, you may choose to delay the effect for up to a number of rounds equal to your caster level. The teleport does not come into effect immediately and instead takes place at the start of your turn after the chosen number of rounds occur. You must decide on any variables and pay any additional spell points for this teleport effect (e.g. distance, direction, etc.) when you delay the effect. When the delayed teleport occurs, if the target location is not valid, the effect fails and does not occur. For example, a teleport can fail if you do not pay an additional spell point for Unseeing Teleport and, when the delayed teleport occurs, the teleport would move you to a space you do not have line of sight for.
 
@@ -227,13 +227,13 @@ If you possess Ranged Warp more than once, this also increases the maximum dista
 
 Advanced talents are part of an optional rule and are only available with GM permission.
 
-#### Brain Preservation [Alienist HB]
+#### Brain Preservation
 
 **Prerequisites:** Warp sphere (Organ Detachment (advanced, space)), caster level 15th.
 
 You may use Organ Detachment to safely remove a creature’s brain without harming the creature. A detached brain is still able to think and direct the body if detached. If a creature’s brain remains intact, it may survive without a body so long as it possesses a mechanism to gain oxygen and nutrients (such apparatuses can be built through magical and technological means and usually cost 20,000 gp).
 
-#### Brutalizing Shunt [Apoc]
+#### Brutalizing Shunt
 
 *Source: [Spheres Apocrypha: Battlefield Manipulation Talents](https://www.drivethrurpg.com/product/350940/Spheres-Apocrypha-Battlefield-Manipulation-Talents?affiliate_id=549120)*
 
@@ -285,7 +285,7 @@ If you use this ability while within your demiplane, you may either permanently 
 
 You may spend 2 spell points to designate a 20-foot radius area centered within medium range as being completely immune to extradimensional travel. For 1 day per caster level, any attempt within this area to cross space or planes (including all Warp sphere effects, summoning a companion from the Conjuration sphere, astral projection, blink, dimension door, ethereal jaunt, etherealness, gate, maze, plane shift, shadow walk, and similar spell-like abilities) instantly fails. A dimensional lock does not interfere with the movement of creatures already in ethereal or astral form when it is created, nor does it block extradimensional perception or attack forms. Also, the effect does not prevent summoned creatures from disappearing at the end of a summoning spell.
 
-#### Dimensional Tracery [3PP]
+#### Dimensional Tracery
 
 *Source: [Expanded Spheres: Weaves of War](https://www.drivethrurpg.com/en/product/482352/expanded-spheres-weaves-of-war=3028400)*
 
@@ -301,7 +301,7 @@ When using the Portal advanced talent, you may spend an additional spell point t
 
 If you instead spend 2 spell points, the portal has a permanent duration and dispelling attempts affect it as if it were a magic item. Effects that would destroy a magic item (such as Counterspell, Greater) can also destroy the portal.
 
-#### Extradimensional Capacity [utility] [Apoc]
+#### Extradimensional Capacity [utility]
 
 *Source: [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)*
 
@@ -309,7 +309,7 @@ If you instead spend 2 spell points, the portal has a permanent duration and dis
 
 You increase the maximum amount of material you can store at once using Extradimensional Storage by 50 pounds per caster level. You may select this talent multiple times, each time increasing the maximum amount of material carried by 50 pounds per caster level.
 
-#### Extradimensional Torpor (space) [Apoc]
+#### Extradimensional Torpor (space)
 
 *Source: [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)*
 
@@ -345,7 +345,7 @@ You need not have seen the destination you are trying to reach, but in that case
 
 By spending 2 spell points, you may teleport any number of targets within your Ranged Warp range. If you possess Unwilling Teleport, you only need to spend one spell point no matter how many unwilling targets are affected. If an unwilling target succeeds at their saving throw, other targets are still affected as normal. If you possess Teleport Object, you may also teleport any number of objects so long as each individual object is within your weight limit (or size limit if you possess Teleport Structure).
 
-#### Lethal Teleport [Apoc]
+#### Lethal Teleport
 
 *Source: [Spheres Apocrypha: Battlefield Manipulation Talents](https://www.drivethrurpg.com/product/350940/Spheres-Apocrypha-Battlefield-Manipulation-Talents?affiliate_id=549120)*
 
@@ -353,7 +353,7 @@ By spending 2 spell points, you may teleport any number of targets within your R
 
 When you use Unwilling Teleport, you may cause unwilling targets to be teleported into locations which are not in open areas or on solid surfaces. Targets of such effects receive a +4 bonus to their saving throws to resist such effects. Creatures teleported into the air fall if they lack some means to fly, taking falling damage as normal. Creatures teleported into occupied areas are shunted out, taking damage as normal.
 
-#### Manifest Planar Zone (space) [DbH]
+#### Manifest Planar Zone (space)
 
 **Prerequisites:** Warp sphere, caster level 5th.
 
@@ -372,7 +372,7 @@ You may create an area which mimics the environment of another plane or demiplan
 
 You may select this talent multiple times. Each time, you may select a different plane to emulate.
 
-#### Organ Detachment (space) [Alienist HB]
+#### Organ Detachment (space)
 
 **Prerequisites:** Warp sphere, caster level 10th.
 
@@ -388,7 +388,7 @@ Removal or detachment of organs through this talent are permanent until dismisse
 
 You may spend 2 additional spell points to teleport to an alternate dimension or plane of existence. You must know the plane you are trying to reach, as well as where within that plane you would like to appear (if you do not know a specific location to appear on that plane you may still use this ability, but you run the risk of appearing anywhere on that plane). Even if you do have a specific location in mind, you always appear 5 to 500 miles (5 x d100) from your intended destination.
 
-#### Planting Warp [3PP]
+#### Planting Warp
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -402,13 +402,13 @@ You may use Teleport Object to teleport objects into the free hands of or onto t
 
 When using your teleport ability, you may spend an additional spell point to open a portal between your location and your destination. This portal has a maximum diameter of 5 feet per caster level and opens in the air somewhere adjacent to you. The portal lasts as long as you concentrate to a maximum of 1 round per caster level. Anything moving through one end of this portal arrives at the other end; it is possible to make attacks, flank, or perform other actions as if the two locations were adjacent. You may choose to open the portal without automatically going through it, if you so desire.
 
-#### Portal Network [DbH]
+#### Portal Network
 
 **Prerequisites:** Warp sphere (Enduring Portal, Mass Teleport [mass], Portal (advanced), Teleport Beacon (space), Unwilling Teleport, Wormhole (space)), caster level 15th.
 
 When you or another target enters a portal, you may cause it to exit from any portal that you have created that currently exists rather than just the portal’s original destination. Alternatively, you may allow a creature that enters one of your portals to choose which portal they exit from. You are aware of any creature that enters a portal you have created.
 
-#### Repel The Unnatural [Alienist HB]
+#### Repel The Unnatural
 
 **Prerequisites:** Warp sphere (Plane Manipulator (space)).
 
@@ -448,7 +448,7 @@ Some large structures, such as a castle, are arguably made up of a multitude of 
 
 Finally, the contents of a structure are moved with it as if they were part of the object, so long as the contents can fit comfortably inside (thus, hay inside a wagon would work, but an enormous dragon's corpse across the top would not).
 
-#### Time Warp [Jester's HB]
+#### Time Warp
 
 **Prerequisites:** Time sphere, Warp sphere (Distant Teleport, True Teleport (advanced), Unseeing Teleport), caster level 20th.
 

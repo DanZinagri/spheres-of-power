@@ -65,7 +65,7 @@ You can cause a corpse to explode like a literal bomb.
 
 **Benefit:** Whenever you use your destructive blast, you can choose to have it take on the properties of light. A destructive blast modified in this way no longer requires line of effect to its targets, but is blocked by factors that affect normal sight (such as concealment). For example, you could fire your destructive blast through a glass window or a barrier, but it would be blocked by opaque walls, fog or darkness.
 
-#### Dimensional Tether [3PP]
+#### Dimensional Tether
 
 **Prerequisite:** Destruction Sphere (energy tether) or Mana Sphere (hardened bond)
 
@@ -73,7 +73,7 @@ You can cause a corpse to explode like a literal bomb.
 
 *Source: Expanded Spheres: Weaves of War*
 
-#### Energy Cascade [DRS]
+#### Energy Cascade
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -83,7 +83,7 @@ You can cause a corpse to explode like a literal bomb.
 
 **Special:** If you possess the Calamity advanced talent, you can augment your Energy Beam as if it were the Sculpt Blast blast shape.
 
-#### Energy Laser [DRS]
+#### Energy Laser
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 **Prerequisites:** Destruction sphere (Energy Beam (blast shape)).
@@ -110,7 +110,7 @@ Additionally, when shifting the beam, you can have it flicker, allowing you to �
 
 **Benefit:** When a creature is set on fire by your destructive blast, they must succeed at a Will save each round they remain on fire or become shaken. If shaken, they become frightened. If frightened, they become panicked. A successful save reduces the severity by one step and ending the on fire condition ends the effects of this feat, though not fear conditions from other sources.
 
-#### Fissile Creation (Dual Sphere) [Apoc]
+#### Fissile Creation (Dual Sphere)
 
 *Source: [Spheres Apocrypha: Battlefield Manipulation Talents](https://www.drivethrurpg.com/product/350940/Spheres-Apocrypha-Battlefield-Manipulation-Talents?affiliate_id=549120)*
 
@@ -170,7 +170,7 @@ You can make ghost strikes in a variety of configurations.
 | (Plant) package | Acid, force |
 | (Water) package | Cold, crystal |
 
-#### Improved Chain Blast (Combat) [DbH]
+#### Improved Chain Blast (Combat)
 
 **Prerequisites:** Destruction sphere (Chain Blast (blast shape)).
 
@@ -235,7 +235,7 @@ Unusually massive projectiles (such as boulders or ballista bolts) and ranged at
 
 **Benefit:** When using the Rebuff talent to provide cover to allies, you also grant them the benefits of improved evasion.
 
-#### Selective Admixture [DbH]
+#### Selective Admixture
 
 Amidst ruin, you have learned to support those whom you favor.
 
@@ -249,7 +249,7 @@ Amidst ruin, you have learned to support those whom you favor.
 
 **Benefit:** When using the Energy Wall (blast shape) talent without a spell point, increase the wall’s size to a 10-foot-by-10-foot wall, plus an additional 10 feet per 10 caster levels. When using the Explosive Orb (blast shape) talent without a spell point, the radius becomes 5 feet + 5 feet per 10 caster levels.
 
-#### Soul-Scorching Blast [DbH]
+#### Soul-Scorching Blast
 
 Rather than their body, you attack the very essence of your foes.
 
@@ -257,7 +257,7 @@ Rather than their body, you attack the very essence of your foes.
 
 **Benefit:** When using a destructive blast blast shape that allows a Reflex save with a blast type that deals anarchic, axiomatic, profane, or sacred damage, you may replace the Reflex save with a Will save.
 
-#### Stellar Evoker [RW HB]
+#### Stellar Evoker
 
 Your magics orbit you creating an orrery of color and power around your person.
 
@@ -269,7 +269,7 @@ Whenever a destructive blast unaltered by a (blast shape) talent misses its targ
 
 **Example:** An evoker spends 1 spell point to cast destructive blast augmented with the Static Blast (blast type). This destructive blast misses its target, so the evoker spends 1 spell point as an immediate action to “recapture” this effect as a satellite created with the Energy Satellite (blast shape) with the same (blast type).
 
-#### Supernatural Elements (Dual Sphere) [DbH]
+#### Supernatural Elements (Dual Sphere)
 
 The diverse powers of nature are yours to distort.
 
@@ -291,7 +291,7 @@ Effects created with this feat operate as they normally would in spite of their 
 
 **Benefit:** When teleporting yourself, you may increase the casting time by one step and spend a spell point to target your destination square with a destructive blast with the Explosive Orb blast shape, paying additional costs for the destructive blast as normal. You must have line of sight and line of effect to the target square unless you possess the Unseeing Teleport talent. You may exclude your destination square from this effect.
 
-#### Whole-Set Blast (Dual Sphere) [3PP]
+#### Whole-Set Blast (Dual Sphere)
 
 **Prerequisites:** Destruction Sphere (Conflagrant Cluster), Fate Sphere
 

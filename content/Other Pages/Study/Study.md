@@ -112,7 +112,7 @@ You gain a Knowledge or Lore skill of your choice as an additional associated sk
 
 Whenever you attempt a Perception check to oppose a creature’s Disguise or Stealth check, locate a trap or environmental hazard, or a Survival check to track or avoid a hazard, you can instead use the modifier for the Knowledge (or relevant Lore) skill used to identify the creature or hazard when attempting the check. If the creature appears as another creature type, you use a skill that is relevant to identifying the creature type that the creature is disguised as, although a successful attempt on such a check reveals that the creature is acting strangely.
 
-#### Niche Research [plan] [utility] [DRS]
+#### Niche Research [plan] [utility]
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -134,7 +134,7 @@ If you begin a theory as part of a successful use of recall information, you gai
 
 You can outwit the creature as a cost to instead gain one notion for every 5 by which you exceed the DC (rather than every 10).
 
-#### Tome Raider [utility] [DRS]
+#### Tome Raider [utility]
 
 *Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
@@ -215,7 +215,7 @@ This research can gain notions in the following ways:
 
 **Breakthrough:** You can spend any amount of notions as a free action that can be taken even when it is not your turn whenever you suffer the effects of a trap or hazard to delay any associated damage, poison, or effects for a number of minutes equal to the number of notions spent on this breakthrough.
 
-#### Build a Case (research, theory) [utility] [DRS]
+#### Build a Case (research, theory) [utility]
 
 *Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
@@ -343,7 +343,7 @@ This research can gain notions in the following ways:
 
 **Breakthrough:** You can spend 3 notions when using the base ability of this research to learn more information. You learn of a great legend surrounding your research topic; this could be a legend that is still current or even somewhat forgotten, as long as the information is not completely lost or restricted. In general, a legend will speak of a single creature (or small group) and some grand event that they participated within, such as slaying or becoming a lich, saving or destroying a city, etc.
 
-#### Triangulate Teleportation (research, theory) [utility] [DRS]
+#### Triangulate Teleportation (research, theory) [utility]
 
 *Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
@@ -364,7 +364,7 @@ This theory can gain notions in the following ways:
 
 **Associated Feats:** Cartogramancer, Planar Wanderer
 
-#### Trigonometric Angling (research, theory) [DRS]
+#### Trigonometric Angling (research, theory)
 
 *Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
@@ -449,7 +449,7 @@ You have a 70% chance + 1% per rank in the associated skill you possess of gaini
 
 If the roll fails, you gain no information from this ability, while a roll of 91% or higher produces a misunderstanding. If you use this ability to ask the same question, you receive the same answer as you did previously, unless you have leveled up since you asked the question, which allows a new roll.
 
-#### Lexical Obfuscation (Su) [utility] [DRS]
+#### Lexical Obfuscation (Su) [utility]
 
 *Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
@@ -462,7 +462,7 @@ At 5 ranks in this sphere's associated skill, you can spend 10 minutes touching 
 
 A detect magic spell reveals dim magic on the page in question but does not reveal its true contents (although true seeing does reveal this).
 
-#### Retrocognition [utility] (Su) [DRS]
+#### Retrocognition [utility] (Su)
 
 *Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 

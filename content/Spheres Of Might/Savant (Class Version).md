@@ -100,7 +100,7 @@ At 20th level, the savant selects two insights other than rebuke death; he may u
 
 # Class Feats
 
-#### Moderated Invocation [3PP]
+#### Moderated Invocation
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -116,7 +116,7 @@ Whenever you use Forbidden Lore and the sum of your normal caster level (before 
 
 The following magical items are especially appropriate for savants.
 
-#### Insightful Band [TS:WAT]
+#### Insightful Band
 
 **Aura** faint War; **CL** 5th
 **Slot** headband; **Price** 12,000 gp; **Weight** 1/10 lbs.
@@ -126,7 +126,7 @@ This lightweight cloth band is easy to tie around the head. While worn by a crea
 **Construction Requirements**
 Craft Apparatus, War sphere (Resourcefulness), creator must have the insights class feature; **Cost** 6,000 gp
 
-#### Rapid Preparation Bracers [TS:WAT]
+#### Rapid Preparation Bracers
 
 **Aura** faint War; **CL** 4th
 **Slot** wrists; **Price** 9,000 gp; **Weight** 3 lbs.
@@ -136,7 +136,7 @@ These bracers are etched with symbols depicting dozens of combat styles. Wheneve
 **Construction Requirements**
 Craft Apparatus, War sphere, creator must have the flexible combat training class feature; **Cost** 4,500 gp
 
-#### Ring Of Strain-Storing [TS:WAT]
+#### Ring Of Strain-Storing
 
 **Aura** moderate War; **CL** 8th
 **Slot** ring; **Price** 15,000 gp; **Weight** 1/2 lbs.

@@ -17,7 +17,7 @@ You cannot teleport, you may only bend space. You must select a (space) talent w
 
 **Incompatible:** Inanimate Teleport, Personal Warp, Short Teleport, Splintering Teleport, Taxing Teleport
 
-#### Distorting Presence [DbH]
+#### Distorting Presence
 
 Your (space) talents are tied to your location, twisting your immediate environment. You gain Distortion Aura as the bonus talent for this drawback, but must use it in conjunction with any (space) talent that you create (preventing you from using the talent’s normal range).
 

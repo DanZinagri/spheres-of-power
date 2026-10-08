@@ -144,7 +144,7 @@ The sense added is also noted in the tag.
 
 ## Illusion Talents
 
-#### Aggrandizing Strike [Strike] [3PP]
+#### Aggrandizing Strike [Strike]
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -272,7 +272,7 @@ As a trick, you may aid another on any target within your illusion range with th
 
 As a glamer, you may grant an enhancement bonus to skill checks with the selected skills equal to half your caster level.
 
-#### Novel Deception [Jester's HB]
+#### Novel Deception
 
 As a standard action, you may pretend to cast an Illusion sphere effect and attempt a Bluff check. Making a Bluff check in this manner does not provoke attacks of opportunity and does not count as casting a spell. Any creature observing you must attempt a Sense Motive or Spellcraft check (whichever skill that target has a higher bonus with) against a DC equal to your Bluff check or be convinced you cast an illusion. For the next 10 minutes, the next time a creature who failed its check would make a saving throw against one of your illusions, they must roll twice and take the lower result. For every 8 caster levels you possess, creatures must roll twice on an additional saving throw against your illusions during this duration. Creatures who succeed at their check know you were bluffing and are unaffected.
 
@@ -432,7 +432,7 @@ Your illusion range improves to 1,000 feet + 100 feet per caster level. To place
 
 When creating an illusion, you may spend an additional spell point to improve its size by one step. You may spend an additional spell point per 5 levels to improve its size by an additional step.
 
-#### Impawsible Perspective [Catgirl HB]
+#### Impawsible Perspective
 
 Whenever you create an illusion, you may empower it to be incredibly difficult to perceive and disbelieve.
 

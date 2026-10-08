@@ -37,7 +37,7 @@ You may end any bleed damage affecting the target of your blood control. For the
 
 Some Blood talents are marked (quicken) or (still). These talents grant you additional blood control abilities.
 
-#### Blood Arts [BaP]
+#### Blood Arts
 
 The Blood and Portents handbook introduces a new set of Blood sphere talents marked (blood art). These talents grant a Blood sphere caster the ability to cast blood arts, which briefly manipulate or transfigure blood.
 
@@ -67,7 +67,7 @@ You are always aware of creatures under the effects of your blood control or an 
 
 This talent may be taken a second time; doing so grants you the benefits of blindsight, though this ability is still limited to the listed creatures.
 
-#### Complex Control [Apoc]
+#### Complex Control
 
 *Source: [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)*
 
@@ -77,7 +77,7 @@ Whenever the creature would attempt to end the blood control on themselves by us
 
 If you possess Greater Blood Control, you may apply two effects of either type instead of just one when using the talent.
 
-#### Crimson Vortex [CrimDan]
+#### Crimson Vortex
 
 As a standard action you may create a crimson spread with a 5-foot radius within your blood control range. Creatures that are in this area when it is cast or that start their turn within the area must succeed at a Fortitude save or be under the effects of your blood control until the end of a turn in which they did not start within the affected area. Select a (quicken) or a (still) ability as part of creating this area; you may apply the selected ability to the affected creatures. Creatures that succeed at a saving throw against blood control while within the vortex cannot be affected by that vortex again.
 
@@ -85,7 +85,7 @@ You may spend an additional spell point to increase this radius by +10 feet incr
 
 If you spend a spell point, the spread instead persists for 1 round per caster level and may be moved as a move action.
 
-#### Exsanguinating Strike [strike] [BaP]
+#### Exsanguinating Strike [strike]
 
 As a standard action, you may make a single weapon attack in conjunction with using either a blood art or blood control. If a creature is struck by this attack, it is either affected by the blood art or you may initiate blood control on that creature (including a (quicken) or (still) effect) if it is not under the effects of your blood control. If you chose blood control and it is under the effects of your blood control, you may apply a new (quicken) or (still) effect to the blood control effect. Applying any (quicken) ability as part of this talent counts as dealing bleed damage with the weapon for the purposes of the Bloodmonger feat. This casting cannot be reduced below a standard action, and does not provoke attacks of opportunity, unless as usual if making a ranged attack.
 
@@ -121,7 +121,7 @@ When using the Bleed ability, you may increase the target’s blood pressure, ru
 
 When applying a (quicken) or (still) talent, you may spend an additional spell point or increase the casting time by one step (usually from a standard to a full-round action) to apply two effects of that type. If the effects require different actions, use the longer action.
 
-#### Hemo Goblin [Jester's HB]
+#### Hemo Goblin
 
 You may spend a spell point to target a creature within blood control range that is taking bleed damage, under the effects of your blood control, or has less than half their hit points remaining. You summon a hemo goblin, an otherwise ordinary goblin (Pathfinder RPG Bestiary pg. 156), into a square adjacent to the target. The hemo goblin gains a bonus to its armor class, attack rolls, saving throws, and skill checks equal to your caster level.
 
@@ -155,7 +155,7 @@ Your Bleed (quicken) ability now deals 2 points of damage per caster level.
 
 The Heal DC to stop your Bleed (quicken) ability now equals 15 + your caster level. Magic healing does not stop the Bleed (quicken) ability unless the caster succeeds on a magic skill check.
 
-#### Inject [CrimDan]
+#### Inject
 
 As part of casting a blood art or blood control, you may increase the casting time by one step (usually a standard to a full-round action) and inflict 1 point of Constitution damage to yourself. If you do, make a melee touch attack or ranged touch attack against a creature within your blood control range, marking them with your blood. If successful, the struck creature is marked by your blood for 1 round per caster level. A marked creature is treated as though it had less than half its maximum hit points remaining for the purpose of the save penalty of any blood control targeting that creature, and your Blood sphere effects targeting the struck creature ignore any spell resistance it possesses. A marked creature can spend a standard action or two move actions to wipe the blood off and end this effect. Immersion in water, heavy rain, or similar effects may also end this effect, subject to GM discretion. When delivering this effect as a melee touch attack, you may hold the charge, and if you possess the Hemokinesis talent, you may hold the charge when using the ranged option.
 
@@ -163,7 +163,7 @@ If used on a creature that is immune to bleed damage from their creature type, s
 
 If you possess Mass Blood Magic, you may target multiple creatures, taking 1 point of Constitution damage and making an attack roll for each target.
 
-#### Instill Blood Magic [instill] [BaP]
+#### Instill Blood Magic [instill]
 
 As a standard action you may touch a container of liquid and instill either a blood art or your blood control, including one (quicken) or (still) talent you possess, which functions as a potion or oil. If instilling a blood art, you must suffer blood loss as part of instilling the effect, and a creature who consumes the instilled liquid is treated as the target of that blood art, suffering blood loss as appropriate. You must spend a spell point to allow the blood control to endure without concentration.
 
@@ -183,15 +183,15 @@ As a swift action, you may force a creature under the effects of your blood cont
 
 If you possess Absorb Blood, you may choose to grant an equal number of temporary spell points to a creature receiving healing from Absorb Blood, though they cannot receive more spell points than your target loses. These temporary spell points do not stack with spell points from other targets, other instances of this ability, or any other source and expire after one round per caster level. This ability does not grant a way to use spell points to those that lack one.
 
-#### Mass Blood Magic [mass] [BaP]
+#### Mass Blood Magic [mass]
 
 When using a blood art, blood control, or a (quicken) or (still) ability, you may spend an additional spell point to affect an additional 1 creature per 2 caster levels (minimum 1) at the same time. Each target must be within range and must be affected by the same effect. For a casting that initiates blood control, this additional cost is only incurred once; it is not paid a second time for the free (quicken) or (still) ability. Once created, each blood control is considered a separate sphere effect.
 
-#### Ranged Blood Magic [range] [BaP]
+#### Ranged Blood Magic [range]
 
 Increase the range you may use blood arts and blood control by 1 step (close to medium, medium to long). You may select this talent multiple times. The effects stack.
 
-#### Red Mist [CrimDan]
+#### Red Mist
 
 As a move action, you may cause a creature under the effects of your blood control and suffering from bleed damage to have their lost blood disperse into a mist, filling their space, granting them concealment (attacks made by the creature or targeting the creature have a 20% miss chance). This effect persists until you end it as a free action, the creature stops taking bleed damage, or your blood control ends. Your vision is not impaired by a mist you create.
 
@@ -209,7 +209,7 @@ You are always considered to be under the effects of your blood control and may 
 
 ## Blood Art Talents
 
-#### Bloodbind (blood art) [BaP]
+#### Bloodbind (blood art)
 
 As a standard action, you bind the target with their own blood, constricting the target with chains, vines, or tattoo-like stains. On a failed Fortitude save, the target suffers blood loss and is bound. A creature bound by this effect is entangled. You may concentrate to maintain this effect each round, or may spend a spell point as a free action to allow this effect to persist for 1 round per caster level without concentration. A creature is allowed a new saving throw each round as a move action to end this effect.
 
@@ -217,11 +217,11 @@ When you cast this blood art, you may spend an additional spell point to entwine
 
 **Author's Note:** You may only deal damage to another creature by suffering damage with this effect once per round.
 
-#### Blood Rebuff (blood art) [BaP]
+#### Blood Rebuff (blood art)
 
 As an immediate action, you briefly shield the target from harm using their own blood. The target suffers blood loss and gains a number of temporary hit points equal to the blood loss plus your casting ability modifier which lasts until the start of the target’s next turn. An unwilling creature may attempt a Fortitude saving throw to negate this effect. You may spend a spell point to increase the temporary hit points granted by an amount equal to your caster level and DR/– equal to the blood loss until the start of the target’s next turn.
 
-#### Cystic Growth (blood art, still) [CrimDan]
+#### Cystic Growth (blood art, still)
 
 You can cause the bodies you control to respond in gruesome and disgusting manners.
 
@@ -233,7 +233,7 @@ As a (blood art), you can cause a single creature within range to suffer blood l
 
 **Special:** When you expel a disease with the Manipulate Health talent, you can deal blood loss to the creature to cause any creature within 5 feet of them to attempt a save against the disease.
 
-#### Gory Armaments (blood art) [BaP]
+#### Gory Armaments (blood art)
 
 By suffering blood loss as a free action, you use your blood to create any weapon you are proficient with in your hand. Weapons or ammunition created by this effect count as masterwork and last for as long as they are held or otherwise in your physical possession, but dissipate if they leave your possession for more than one round. Weapons created by this effect gain a +1 enhancement bonus per 4 caster levels you possess (maximum +5). Whenever you deal damage to an opponent with a weapon created by this talent, you gain a number of temporary hit points equal to 1/2 your caster level (minimum 1) which last for 1 round.
 
@@ -243,7 +243,7 @@ This ability cannot be used to summon siege weapons or technological items, subj
 
 **Special:** If you possess the Alteration sphere, you may create any one natural attack you could grant as a trait to yourself with this talent which lasts until dismissed as a standard action. You may only possess one natural attack created this way at any time.
 
-#### Internal Propulsion (blood art, quicken) [CrimDan]
+#### Internal Propulsion (blood art, quicken)
 
 As a (quicken) ability, you can bolster a creature’s body and allow them to move swiftly. The target selects one of their movement speeds and gains a +10-foot enhancement bonus to it, +5 feet per 5 caster levels you possess. As a free action, the target can change the selected movement speed once during their turn. If you spend an additional spell point when using this ability, you also grant the creature a fly speed of 20 feet and average maneuverability for one minute. While this form of flight does not necessarily manifest as wings, it is considered winged flight for all purposes.
 
@@ -251,7 +251,7 @@ As a (blood art), as a standard action or as a swift action if using this effect
 
 An unwilling creature may attempt a Fortitude save to negate this effect, suffering no blood loss. The target gains a +4 bonus to their saving throw if they would be moved somewhere intrinsically harmful (onto a bed of spikes, into the air, etc.).
 
-#### Martyr’s Tithings (blood art) [BaP]
+#### Martyr’s Tithings (blood art)
 
 Whenever you cause another creature to suffer blood loss, you gain an amount of temporary hit points equal to the blood loss for a number of rounds equal to your casting ability modifier. Whenever you would take blood loss damage, these temporary hit points are lost first.
 
@@ -259,7 +259,7 @@ In addition, you may infuse another creature with a portion of your vitality. As
 
 **Special:** If you possess a Life sphere (vitality) talent, granting temporary hit points to another creature with this talent is treated as though it were a Life sphere effect for the purposes of granting the benefits of a (vitality) talent.
 
-#### Piercing Blood (blood art) [BaP]
+#### Piercing Blood (blood art)
 
 As a standard action, you briefly impale the target on a solidified column, such as a spear or cross, made from their own blood. On a failed Fortitude save, the target suffers blood loss, takes 1d6 piercing damage per 2 caster levels you possess (minimum 1d6), and is staggered for 1 round.
 
@@ -269,7 +269,7 @@ If you spend an additional spell point when casting this blood art either to tar
 
 If you possess Mass Blood Magic, when casting this effect to launch a projectile, you may spend an additional spell point to pierce multiple foes. Choose a number of additional targets no greater than 1/2 your caster level (minimum 1). Make a ranged touch attack against the initial target then each additional target in order. No target can be farther than 10 feet + 5 feet per 5 caster levels from the previous target and no target can be targeted more than once. Should any of the targets fail to take damage, either by a missed attack, resistances, or other method, the projectile stops and no further targets are damaged.
 
-#### Rush To The Head (blood art) [BaP]
+#### Rush To The Head (blood art)
 
 When using a blood art that allows a Fortitude save, you may replace all Fortitude saves that effect allows for with Will saves.
 
@@ -289,7 +289,7 @@ Effects such as the protection from evil spell or the Hallow word of the Fate sp
 
 If you possess Mass Blood Magic, you may take control and command multiple puppets, but must divide a single round’s worth of actions between all puppets.
 
-#### Cardiovascular Mastery (quicken, still) [CrimDan]
+#### Cardiovascular Mastery (quicken, still)
 
 Creatures under your control have the rhythm of their hearts closely monitored and controlled.
 
@@ -311,7 +311,7 @@ As a (quicken) effect, you may boost the circulation of the target of your blood
 
 If you spend a spell point, the target may make an extra attack as part of a full attack or make additional attacks of opportunity (as the Improved Haste Time sphere talent) for the duration of this effect. This does not stack with similar effects such as the Improved Haste Time sphere talent. When used this way, the target is fatigued at the end of this effect. If the target was already fatigued, it is instead exhausted. If it was exhausted, it drops unconscious for 1d6 rounds.
 
-#### Cystic Growth (blood art, still) [CrimDan]
+#### Cystic Growth (blood art, still)
 
 You can cause the bodies you control to respond in gruesome and disgusting manners.
 
@@ -323,7 +323,7 @@ As a (blood art), you can cause a single creature within range to suffer blood l
 
 **Special:** When you expel a disease with the Manipulate Health talent, you can deal blood loss to the creature to cause any creature within 5 feet of them to attempt a save against the disease.
 
-#### Internal Propulsion (blood art, quicken) [CrimDan]
+#### Internal Propulsion (blood art, quicken)
 
 As a (quicken) ability, you can bolster a creature’s body and allow them to move swiftly. The target selects one of their movement speeds and gains a +10-foot enhancement bonus to it, +5 feet per 5 caster levels you possess. As a free action, the target can change the selected movement speed once during their turn. If you spend an additional spell point when using this ability, you also grant the creature a fly speed of 20 feet and average maneuverability for one minute. While this form of flight does not necessarily manifest as wings, it is considered winged flight for all purposes.
 
@@ -343,7 +343,7 @@ As a (quicken) ability, you may speed circulation to improve the potency of a po
 
 As a (quicken) ability, as an immediate action, you may attempt to force a formulae, potion, or poison out of the target’s body, removing its effects from the target. This requires a magical skill check against the formulae or poison’s save DC or the potion’s MSD. Unwilling targets are allowed a Fortitude save to negate this effect. You gain a +2 bonus on this check if the target is suffering bleed damage or below one half its maximum hit points.
 
-#### Manipulate Density (quicken, still) [BaP]
+#### Manipulate Density (quicken, still)
 
 You gain the following abilities which manipulate the density of the target’s blood:
 
@@ -380,7 +380,7 @@ You may cut off flow to parts of a creature’s body, making fine manipulation d
 
 You may spend a spell point to slow blood flow, staggering the target for the duration of the blood control.
 
-#### Redirect Flow (quicken, still) [Apoc]
+#### Redirect Flow (quicken, still)
 
 *Source: [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)*
 
@@ -406,7 +406,7 @@ As a (quicken) ability, you may force a creature under the effects of your blood
 
 Advanced talents are part of an optional rule and are only available with GM permission.
 
-#### Cardiovascular Ascension (quicken, still) [CrimDan]
+#### Cardiovascular Ascension (quicken, still)
 
 **Prerequisites:** Blood sphere (Cardiovascular Mastery (quicken, still)), caster level 10th.
 
@@ -426,7 +426,7 @@ As a (quicken) ability, as a standard action, you can rapidly accelerate a creat
 
 When using the Bleed (quicken) ability, you may spend 1 additional spell point to force affected creatures to suffer 1 point of Constitution bleed instead of the normal bleed damage. This is not increased by Hemorrhage. If you possess Absorb Blood, you may treat any hit points lost by this ability as bleed damage for the purpose of that talent.
 
-#### Essence Manipulation [BaP]
+#### Essence Manipulation
 
 **Prerequisites:** Blood sphere or Duelist sphere (Ooze Ichor); base attack bonus +1 or caster level 1st.
 
@@ -454,7 +454,7 @@ When spending an action to direct your blood puppet, you may have all creatures 
 
 When you create a blood construct, you may spend 2 spell points to make the creation an instantaneous effect. The creature exists independent of your concentration, has no duration, and cannot be dispelled. These constructs still count against the total number of blood constructs you may have created at any one time. If you create more than your total, you may select which constructs are destroyed.
 
-#### Sanguiphilia [BaP]
+#### Sanguiphilia
 
 **Prerequisites:** Blood sphere (Martyr’s Tithings (blood art)), caster level 7th.
 
@@ -464,7 +464,7 @@ In addition, you may treat bleed damage another creature takes during their turn
 
 **Example:** For a Blood sphere caster level of 10, a monster taking 12 bleed damage would be treated as though it suffered 5 points of blood loss, granting the Blood sphere caster 5 temporary hit points from the Martyr’s Tithings talent.
 
-#### Union Of Blood [BaP]
+#### Union Of Blood
 
 **Prerequisites:** Blood sphere, caster level 10th.
 

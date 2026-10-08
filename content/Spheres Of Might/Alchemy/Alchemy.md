@@ -43,7 +43,7 @@ After creating a poison, you may make a melee touch attack against a target (if 
 
 You cannot gain a (formulae) talent unless you possess the (formulae) package, nor a (toxin) talent unless you possess the (poison) package.
 
-### Mutagen Talents [DRS]
+### Mutagen Talents
 
 The (mutagen) tag denotes a type of toxin that provides a benefit to a creature that is subject to its effects, instead of the normal effects of the toxin. Unless otherwise specified, a mutagen lasts for 1 minute. Then, the creature cannot benefit from the same mutagen again for 1 hour—if a creature attempts to, they immediately suffer the mutagen’s toxicity effect (no save) and gain no benefits from the mutagen. This also applies if they attempt to benefit from the same mutagen while benefitting from it.
 
@@ -67,7 +67,7 @@ Whenever you create an inhaled poison, the radius of its area of effect increase
 
 Whenever you create a poison, you can select 1 creature; that creature is immune to your poison. For every 4 ranks in Craft (alchemy) you possess, you can select an additional creature to be immune to your poison.
 
-#### Chemical Coating [Apoc]
+#### Chemical Coating
 
 *Source: [Spheres Apocrypha: Alchemical Formulae](https://www.drivethrurpg.com/product/285370/Spheres-Apocrypha-Alchemical-Formulae?affiliate_id=549120)*
 
@@ -77,7 +77,7 @@ You may apply a coating to one weapon (including ranged weapons, which apply the
 
 Once applied, coatings remain active for a number of rounds equal to your Practitioner modifier + 1 per 4 ranks in Craft (alchemy). Additional damage from a coating is never multiplied on a critical hit, but otherwise stacks with effects such as flaming, shock, or corrosive.
 
-#### Chemical Cocktail [DRS]
+#### Chemical Cocktail
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -99,7 +99,7 @@ Your target must be within range of both items. When you have at least 10 ranks 
 
 Whenever you create a poison, you can choose to delay the effects up to a number of minutes equal to 1/2 your ranks in Craft (alchemy). If you possess 10 or more ranks in Craft (alchemy), you may instead delay it a number of hours equal to 1/2 your ranks in Craft (alchemy).
 
-#### Demolishing Chemistry [Apoc]
+#### Demolishing Chemistry
 
 *Source: [Spheres Apocrypha: Alchemical Formulae](https://www.drivethrurpg.com/product/285370/Spheres-Apocrypha-Alchemical-Formulae?affiliate_id=549120)*
 
@@ -111,23 +111,23 @@ If the formulae destroys a wall or piece of terrain, it can affect creatures or 
 
 Whenever a creature fails a non-harmless saving throw against a special poison which you have created, they gain the battered condition for 1 round. For every 5 ranks in Craft (alchemy) you possess, the creature is battered for an additional round.
 
-#### Dynamite Throwing Form (stance) [Youxia HB]
+#### Dynamite Throwing Form (stance)
 
 While in this stance, whenever you would make a ranged touch attack with an alchemical item and the attack roll beats the target’s non-touch AC, the target takes an amount of damage equal to your unarmed strike’s damage dice plus your Strength modifier. This damage is the same type as your unarmed strike’s damage type.
 
-#### Fireworks [Apoc]
+#### Fireworks
 
 *Source: [Spheres Apocrypha: Alchemical Formulae](https://www.drivethrurpg.com/product/285370/Spheres-Apocrypha-Alchemical-Formulae?affiliate_id=549120)*
 
 Your formulae use a small amount of their payload as a propellant. Increase the range increment of your thrown formulae by 5 feet plus an additional 5 feet at 3 ranks in Craft (alchemy) and every 2 ranks thereafter.
 
-#### Focusing Poisoning [Apoc]
+#### Focusing Poisoning
 
 *Source: [Spheres Apocrypha: Alchemical Poisons](https://www.drivethrurpg.com/product/295353/Spheres-Apocrypha-Alchemical-Poisons?affiliate_id=549120)*
 
 When a creature within line of sight fails a save against one of your poisons you may spend an immediate action to regain martial focus.
 
-#### Food Poisoning [Apoc]
+#### Food Poisoning
 
 *Source: [Spheres Apocrypha: Alchemical Poisons](https://www.drivethrurpg.com/product/295353/Spheres-Apocrypha-Alchemical-Poisons?affiliate_id=549120)*
 
@@ -135,7 +135,7 @@ The effects of your ingested poisons last for 24 hours in addition to its normal
 
 **Author's Note:** This talent increases the duration of a (toxin)'s negative effects, not any effect of a (toxin).
 
-#### Fuse Master [Apoc]
+#### Fuse Master
 
 *Source: [Spheres Apocrypha: Alchemical Formulae](https://www.drivethrurpg.com/product/285370/Spheres-Apocrypha-Alchemical-Formulae?affiliate_id=549120)*
 
@@ -143,7 +143,7 @@ When you light any kind of alchemical grenades with a randomized timer (such as 
 
 If two improved fuse grenades explode during the same round, creatures in the overlapped area suffer diminished results from every fuse grenade after the first one, dealing only 1d6 bludgeoning damage, +1d6 per 5 ranks in Craft (alchemy) for each overlapping grenade. **Associated Feat:** Grenade Expert.
 
-#### Habit Forming [Apoc]
+#### Habit Forming
 
 *Source: [Spheres Apocrypha: Alchemy Poisons 2](https://www.drivethrurpg.com/product/320796/Spheres-Apocrypha-Alchemy-Poisons-2?affiliate_id=549120)*
 
@@ -155,7 +155,7 @@ You can imbue poisons you create with the Alchemy sphere with highly addictive q
 
 Each day the creature does not fail a saving throw against your Alchemy sphere poisons, it may attempt a Fortitude save against your Alchemy sphere DC. After succeeding at a save in this fashion, the DC is reduced by 2. If it succeeds at 2 consecutive saves, its addiction also reduces by one level (or disappears, if it only has a minor addiction).
 
-#### Incurable [Apoc]
+#### Incurable
 
 *Source: [Spheres Apocrypha: Alchemy Poisons 2](https://www.drivethrurpg.com/product/320796/Spheres-Apocrypha-Alchemy-Poisons-2?affiliate_id=549120)*
 
@@ -169,7 +169,7 @@ When you create an ingested poison and add it to any food or drink, it remains p
 
 Whenever you apply your poison to a weapon, the poison lasts for 1 additional strike before it is consumed. For every 5 ranks in Craft (alchemy) you possess, it lasts for an additional strike.
 
-#### Lingering Poison [Apoc]
+#### Lingering Poison
 
 *Source: [Spheres Apocrypha: Alchemical Poisons](https://www.drivethrurpg.com/product/295353/Spheres-Apocrypha-Alchemical-Poisons?affiliate_id=549120)*
 
@@ -182,19 +182,19 @@ Your poisons remain potent by an additional number of rounds equal to your pract
 
 You gain one (alchemy) package you do not currently possess, including all benefits it bestows.
 
-#### Noxious Breath [Apoc]
+#### Noxious Breath
 
 *Source: [Spheres Apocrypha: Alchemical Poisons](https://www.drivethrurpg.com/product/295353/Spheres-Apocrypha-Alchemical-Poisons?affiliate_id=549120)*
 
 Whenever you could throw an inhaled poison, instead of throwing the poison as a splash weapon you can have it affect either a cone-shaped spread with a length of twice the radius of the poison, or a line-shaped spread with a length four times the radius of the poison. As normal for cones and lines this spread starts from any corner of your square.
 
-#### Painter [Conq. HB]
+#### Painter
 
 You can apply an additional war paint to yourself, plus an additional paint for each 7 ranks in Craft (alchemy) you possess. Applying the same war paint color to yourself more than once does not increase the benefits granted.
 
 **Normal:** You can only have one war paint color active at a time.
 
-#### Pill Popper [Apoc, DRS]
+#### Pill Popper
 
 *Source: [Spheres Apocrypha: Alchemy Poisons 2](https://www.drivethrurpg.com/product/320796/Spheres-Apocrypha-Alchemy-Poisons-2?affiliate_id=549120) / [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -208,7 +208,7 @@ The duration of the effects of your poisons are doubled.
 
 You gain a bonus equal to 1 + 1 per 4 ranks you possess in the Craft (alchemy) skill on saving throws against any alchemical item you use or create. In addition, whenever you and an adjacent creature would both be affected by one of your alchemical items, you can forego the normal bonus granted by this ability and apply it as a penalty to the creature’s AC or saving throws against the item’s effects or attacks made with the item.
 
-#### Shaped Chemistry [Apoc]
+#### Shaped Chemistry
 
 *Source: [Spheres Apocrypha: Alchemical Formulae](https://www.drivethrurpg.com/product/285370/Spheres-Apocrypha-Alchemical-Formulae?affiliate_id=549120)*
 
@@ -232,13 +232,13 @@ You select 1 creature type (or subtype) from the ranger favored enemy list; your
 
 **Clarification:** This is intended to work on creature types that are normally immune to poison, such as constructs. That includes allowing Specialized Venoms to bypass constructs' immunity to effects requiring Fortitude saves on top of their immunity to poisons. This does not inherently bypass other immunities, such as immunity to fatigue.
 
-#### Swift Toxicology [Apoc]
+#### Swift Toxicology
 
 *Source: [Spheres Apocrypha: Alchemical Poisons](https://www.drivethrurpg.com/product/295353/Spheres-Apocrypha-Alchemical-Poisons?affiliate_id=549120)*
 
 You can create poisons as a move action even if you do not have access to an alchemist’s lab or alchemist’s crafting kit. If you have an alchemist’s lab or alchemist’s crafting kit, you can expend martial focus to create a poison as a swift action. You may still apply created poisons to a weapon as part of the same action used to create it.
 
-#### Virulent Basilisk’s Cloak (stance) [BTH]
+#### Virulent Basilisk’s Cloak (stance)
 
 You channel the basilisk, wrapping yourself in virulent toxins.
 
@@ -268,7 +268,7 @@ You create a vial of aligned liquid, imbuing it with the powers of its associate
 
 You can increase the Craft DC for this weapon in increments of 10; each time you do so, the range for each damage increment increases by 5 ft. (for example, if you increase the Craft DC to 30, you would deal full damage to all affected targets within 5 ft. of the point of contact and 1 point of damage to all other affected creatures within 10 ft.).
 
-#### Armor Maintenance Kit (formulae) [Apoc]
+#### Armor Maintenance Kit (formulae)
 
 *Source: [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)*
 
@@ -280,7 +280,7 @@ When you create this formulae you may choose to create it as a polish kit or a l
 
 **Lubrication Kit:** You create special lubricant that can be applied to the joints of a suit of armor. This lubricant reduces the armor check penalty of a suit of armor by 1 + 1 per 10 ranks in Craft (alchemy) you possess. Lubricated armor can also be donned and doffed twice as fast. The lubricant lasts for 2 hours before being rendered useless. You may not apply a lubrication kit to suit of armor affected by the armor maintenance blacksmith maintenance. You can increase the Craft DC in increments of 10 to also have the lubricant increase the maximum Dexterity bonus of the armor by 1 and increase the duration by 2 hours.
 
-#### Cherry Bomb (formulae) [Apoc]
+#### Cherry Bomb (formulae)
 
 *Source: [Spheres Apocrypha: Alchemical Formulae](https://www.drivethrurpg.com/product/285370/Spheres-Apocrypha-Alchemical-Formulae?affiliate_id=549120)*
 
@@ -292,7 +292,7 @@ An individual cherry bomb cannot be split apart from its cluster for more than 1
 
 If you can create formulae that inflict different types of damage (such as an alchemist’s fire dealing fire damage) when you create the cherry bombs you may have it deal that kind of damage instead. The damage can only be of one damage type at a time, but each separate bomb can deal a different type of damage. You can increase the Craft DC for this weapon in increments of 10; each time you do so, the Reflex save DC to avoid the splash damage increases by +1.
 
-#### Elixir (formulae) [Warden]
+#### Elixir (formulae)
 
 **Craft DC:** 20
 
@@ -336,7 +336,7 @@ You create a flask of alchemist’s fire that functions as a splash weapon you c
 
 You can increase the Craft DC for this weapon in increments of 10; each time you do so, the range for each damage increment increases by 5 ft. (for example, if you increase the Craft DC to 30, you would deal full damage to all targets within 5 ft. of the point of contact, half damage to all targets 10 ft. away from the point of contact, and 1 point of damage to all creatures within 15 ft.).
 
-#### Improved Blanch Bomb (formulae) [High. HB]
+#### Improved Blanch Bomb (formulae)
 
 You create a single use bag of fine metallic powder you can throw as a ranged touch attack with a range increment of 10 feet that drastically deteriorates the defenses—both manufactured and natural—of those affected. Anyone standing on the square of impact or in adjacent squares must attempt a Fortitude save; targets 10 feet away must also succeed a Fortitude save but gain a +5 circumstance bonus. Creatures who are immune to any effect that requires a Fortitude save (such as constructs and undead) are not immune to the effects of this formulae.
 
@@ -375,7 +375,7 @@ An improved fuse grenade may be lit and thrown into an unoccupied square capable
 
 You create a single use bag of fine gray powder you can throw as a ranged touch attack with a range increment of 10 ft. that causes targets to suffer from uncontrollable itching until they spend at least 1 round cleaning it off. Anyone standing on the square of impact or in adjacent squares must make a Fortitude save; targets 10 ft. away must also succeed at a Fortitude save but gain a +5 circumstance bonus. Creatures that fail the save take a –2 penalty on attack rolls, saving throws, skill checks, and ability checks until they wash the powder off. This is a poison effect. You can increase the Craft DC for this item in increments of 10; each time you do so, the area of effect improves by 5 ft., and all saving throw DCs increase by +2.
 
-#### Improved Liquid Ice (Formulae) [Apoc]
+#### Improved Liquid Ice (Formulae)
 
 *Source: [Spheres Apocrypha: Alchemical Formulae](https://www.drivethrurpg.com/product/285370/Spheres-Apocrypha-Alchemical-Formulae?affiliate_id=549120)*
 
@@ -387,7 +387,7 @@ Alternatively, you can throw the flask as a splash weapon with a range increment
 
 You can increase the Craft DC for this weapon in increments of 10; each time you do so, the range for each damage increment increase by 5 feet (for example, if you increase the Craft DC to 35, you deal full damage to all targets within 5 feet of the point of contact, half damage to all targets 10 feet away from the point of contact, and 1 point of damage to all creatures within 15 feet.) and the number of frozen cubes of liquid doubles. This also doubles the diameter of a layer of ice, and the maximum size of the creatures it can support increases by 1 size category.
 
-#### Improved Liquid Nice (formulae) [utility] [Jester's HB]
+#### Improved Liquid Nice (formulae) [utility]
 
 **Craft DC:** 10
 
@@ -395,7 +395,7 @@ You create a flask of pleasant thought distillate that functions as a splash wea
 
 You can increase the Craft DC for this weapon in increments of 10; each time you do so, the radius increases by 5 feet. You can separately increase the Craft DC for this weapon by an increment of 20 to increase its potency; when you do so, any creature who fails its Will save against this effect instead have their disposition towards you increase to friendly for the duration.
 
-#### Improved Smelling Salts (formulae) [Apoc]
+#### Improved Smelling Salts (formulae)
 
 *Source: [Tandem Talents](https://www.drivethrurpg.com/product/282809/Spheres-Apocrypha-Tandem-Talents?affiliate_id=549120)*
 
@@ -405,7 +405,7 @@ You create a bottle of smelling salts that becomes incredible odorous when expos
 
 You can increase the Craft DC for this item in increments of 10; each time you do so, the radius increases by 10 feet and the bonus on saving throws against sleep effects increases by 2.
 
-#### Improved Smoke Bomb (Formulae) [Apoc]
+#### Improved Smoke Bomb (Formulae)
 
 *Source: [Spheres Apocrypha: Alchemical Formulae](https://www.drivethrurpg.com/product/285370/Spheres-Apocrypha-Alchemical-Formulae?affiliate_id=549120)*
 
@@ -443,7 +443,7 @@ You create an alchemical stone that can be used as a ranged attack with a range 
 
 You can increase the Craft DC for this item in increments of 10; each time you do so you increase the duration of this ability by 1 hour, add 1d6 sonic damage to all creatures within the effect’s radius (creatures who pass their saving throw against this item take half damage), and increase the radius of the effect by 10 ft.
 
-#### Instant Foam (formulae) [Apoc]
+#### Instant Foam (formulae)
 
 *Source: [Spheres Apocrypha: Alchemical Formulae](https://www.drivethrurpg.com/product/285370/Spheres-Apocrypha-Alchemical-Formulae?affiliate_id=549120)*
 
@@ -459,7 +459,7 @@ This foam is porous to oxygen, and cannot be used to suffocate a creature, and t
 
 You can increase the Craft DC of this item in increments of 10; each time you do so, each 5-foot square of foam gains 5 additional hit points, and lasts for an additional minute.
 
-#### Neutralizer (formulae) [Warden]
+#### Neutralizer (formulae)
 
 **Craft DC:** 20
 
@@ -487,7 +487,7 @@ You can increase the Craft DC for this item in increments of 10; each time you d
 
 **Note:** Salves can stop bleeding. Salves can't heal creatures that only regain hit points by repairs or spells such as *make whole* (mainly constructs/objects), but generally can heal undead and similar types of targets.
 
-#### Universal Alcohol (formulae) [Apoc]
+#### Universal Alcohol (formulae)
 
 *Source: [Spheres Apocrypha: Dipsomania](https://www.drivethrurpg.com/product/299935/Spheres-Apocrypha-Dipsomania?affiliate_id=549120)*
 
@@ -519,7 +519,7 @@ You can create the following drinks:
 
 A creature can only benefit from one drink at a time, although a single drink may have multiple alcohol types mixed together by raising the Craft DC. You can increase the Craft DC of this formulae when creating a set of drinks in increments of 10 to apply the effects of an additional alcohol type for each increment to the set of drinks, allowing a creature to benefit from multiple alcohol types at the same time from those drinks.
 
-#### War Paint (formulae) [High. HB]
+#### War Paint (formulae)
 
 **Craft DC:** 15
 You gain the knowledge of two types of war paint when you gain this talent; you may create any one type of war paint you know, chosen at the time the formulae is crafted.
@@ -544,7 +544,7 @@ You can increase the Craft DC for this formulae in increments of 5 to increase t
 
 # Toxin Talents
 
-#### Academic Enhancer (mutagen, toxin) [Apoc, DRS]
+#### Academic Enhancer (mutagen, toxin)
 
 *Source: [Spheres Apocrypha: Alchemy Poisons 2](https://www.drivethrurpg.com/product/320796/Spheres-Apocrypha-Alchemy-Poisons-2?affiliate_id=549120) / [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -554,7 +554,7 @@ At 10 ranks in Craft (alchemy), this bonus increases by +2.
 
 **Toxicity:** The creature becomes sickened for 10 minutes on a failed save.
 
-#### Anesthetic Dosage (mutagen, toxin) [DRS]
+#### Anesthetic Dosage (mutagen, toxin)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -562,7 +562,7 @@ A creature subjected to this mutagen becomes numbed to pain. The next time the c
 
 Additionally, the creature also gains a +2 circumstance bonus to saving throws against pain effects, +1 per 4 ranks in Craft (alchemy) you possess.
 
-#### Adrenal Stimulator (mutagen, toxin) [DRS]
+#### Adrenal Stimulator (mutagen, toxin)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -570,13 +570,13 @@ When a creature is subjected to this mutagen, they choose one of the following: 
 
 **Toxicity:** The creature becomes fatigued for 10 minutes on a failed save.
 
-#### Catalyzed Poison (toxin) [Apoc]
+#### Catalyzed Poison (toxin)
 
 *Source: [Spheres Apocrypha: Alchemy Poisons 2](https://www.drivethrurpg.com/product/320796/Spheres-Apocrypha-Alchemy-Poisons-2?affiliate_id=549120)*
 
 You must expend an existing non-Alchemy sphere poison in your possession as part of creating this poison, and the type of poison created must be of the same type (inhaled, injury, etc.) as the poison expended. Instead of causing fatigue, your poison makes the target suffer the effects of the expended poison. Creatures who fail consecutive saving throws against this poison are subject to the secondary and tertiary effects of this poison (if any). The poison is still treated as an Alchemy sphere poison; using your Alchemy sphere DCs, and benefiting from your Alchemy sphere talents, and its effects (excluding damage) lasting as long as an Alchemy sphere poison.
 
-#### Concentration Aid (mutagen, toxin) [Apoc, DRS]
+#### Concentration Aid (mutagen, toxin)
 
 *Source: [Spheres Apocrypha: Alchemy Poisons 2](https://www.drivethrurpg.com/product/320796/Spheres-Apocrypha-Alchemy-Poisons-2?affiliate_id=549120) / [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -584,7 +584,7 @@ A creature subjected to this mutagen gains a +3 alchemical bonus to concentratio
 
 **Toxicity:** The creature becomes fatigued for 10 minutes on a failed save.
 
-#### Degenerating Poison (toxin) [Apoc]
+#### Degenerating Poison (toxin)
 
 *Source: [Spheres Apocrypha: Alchemical Poisons](https://www.drivethrurpg.com/product/295353/Spheres-Apocrypha-Alchemical-Poisons?affiliate_id=549120)*
 
@@ -592,7 +592,7 @@ You may choose for your poison to inflict a penalty of -2 to one ability score o
 
 **Author's Note:** The penalty from this poison "stacks" up to the maximum penalty a single dose could apply (i.e. 10 ranks, the maximum penalty would be 6). The poison stacks if the poisoner splits the doses (i.e. 4 Strength and 4 Dex the first application, then again to stack to the maximum).
 
-#### Diseased Venom (toxin) [Apoc]
+#### Diseased Venom (toxin)
 
 *Source: [Spheres Apocrypha: Debilitating Talents](https://www.drivethrurpg.com/product/304600/Spheres-Apocrypha-Debilitating-Talents?affiliate_id=549120)*
 
@@ -600,7 +600,7 @@ You may create a poison that causes the target to contract a disease (Fortitude 
 
 **Special:** With GM discretion, you may select a different disease at the time of creation, instead of the diseases listed.
 
-#### Disorientating Venom (toxin) [Apoc]
+#### Disorientating Venom (toxin)
 
 *Source: [Spheres Apocrypha: Debilitating Talents](https://www.drivethrurpg.com/product/304600/Spheres-Apocrypha-Debilitating-Talents?affiliate_id=549120)*
 
@@ -610,7 +610,7 @@ You may choose for your poison to disrupt a creature’s ability to focus. As lo
 
 Creatures who fail two consecutive saving throws against your poison are exhausted instead of fatigued. Creatures who fail three consecutive saving throws lose consciousness and fall asleep. Slapping or wounding awakens an affected creature, but normal noise does not. Awakening a creature is a standard action (an application of the aid another action).
 
-#### Endorphine Shot (mutagen, toxin) [DRS]
+#### Endorphine Shot (mutagen, toxin)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -631,13 +631,13 @@ Any healing you receive in excess of your maximum hp automatically reduces the a
 
 You may choose for your poison to make the creature shaken instead of fatigued. Creatures who fail two consecutive saving throws against this poison are instead frightened, and creatures who fail three consecutive saving throws become panicked. This is a fear effect.
 
-#### Graceless Tincture (toxin) [utility] [Apoc]
+#### Graceless Tincture (toxin) [utility]
 
 *Source: [Spheres Apocrypha: Alchemy Poisons 2](https://www.drivethrurpg.com/product/320796/Spheres-Apocrypha-Alchemy-Poisons-2?affiliate_id=549120)*
 
 Instead of becoming fatigued, the target suffers a -5 penalty on Sense Motive checks, and reduces the DC to influence its attitude with Diplomacy or Intimidate checks by 5. When creating a graceless tincture, the duration is increased from 1 minute to 1 day. For every 4 ranks in Craft (alchemy) you possess, the penalty to Sense Motive checks increases by 3 and the DC to influence the creature is reduced by 1.
 
-#### Haemophilic Venom (toxin) [Apoc]
+#### Haemophilic Venom (toxin)
 
 *Source: [Spheres Apocrypha: Debilitating Talents](https://www.drivethrurpg.com/product/304600/Spheres-Apocrypha-Debilitating-Talents?affiliate_id=549120)*
 
@@ -645,7 +645,7 @@ Instead of causing fatigue, your poison thins the target’s blood greatly. Crea
 
 A creature under the effects of this poison is also considered to be taking bleed damage for the purposes of the blood control sphere ability of the Blood sphere.
 
-#### Hypervigilance Serum (mutagen, toxin) [DRS]
+#### Hypervigilance Serum (mutagen, toxin)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -673,7 +673,7 @@ In addition to making the target fatigued, the target also suffers damage equal 
 
 **Author's Note:** When you take Painful Venin a second time, its effects apply to every other (toxin) you use. Using Painful Venin does not "double up" this damage, and it is effectively unnecessary to use Painful Venin by itself.
 
-#### Performance Enhancer (mutagen, toxin) [DRS]
+#### Performance Enhancer (mutagen, toxin)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -683,7 +683,7 @@ At 10 ranks in Craft (alchemy), this bonus increases by +2.
 
 **Toxicity:** The creature becomes sickened for 10 minutes on a failed save.
 
-#### Psychotropic Hallucinogen (mutagen, toxin) [DRS]
+#### Psychotropic Hallucinogen (mutagen, toxin)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -691,7 +691,7 @@ When a creature is subjected to this mutagen, they choose a single Intelligence-
 
 During this time, the creature suffers a -5 penalty to initiative checks.
 
-#### Slowing Poison (toxin) [Apoc]
+#### Slowing Poison (toxin)
 
 *Source: [Spheres Apocrypha: Alchemical Poisons](https://www.drivethrurpg.com/product/295353/Spheres-Apocrypha-Alchemical-Poisons?affiliate_id=549120)*
 
@@ -701,11 +701,11 @@ You may choose for your poison to halve all the creature’s speeds instead of m
 
 Instead of becoming fatigued, the target suffers a -4 penalty on all skill checks. When creating a talentless poison, the duration is increased from 1 minute to 1 hour. For every 4 ranks in Craft (alchemy) you possess, this penalty increases by -2.
 
-#### Three Wise Monkeys (toxin) [High. HB]
+#### Three Wise Monkeys (toxin)
 
 You may choose for your poison to make the creature deafened instead of fatigued. Creatures who fail two consecutive saving throws against this poison are also blinded, and creatures who fail three consecutive saving throws are also silenced, becoming unable to speak or provide verbal components for spells or abilities.
 
-#### Vitiating Venom (toxin) [DRS]
+#### Vitiating Venom (toxin)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -720,13 +720,13 @@ Whenever a creature suffers damage with the same type as a weakness that they ar
 
 If you are suffering from more than one weakness to the same damage type, only the highest is applied. A damage weakness is applied before resistances and vulnerabilities—any ability that would identify or affect a damage vulnerability does the same for a damage weakness.
 
-#### Vulnerability Venom (toxin) [Apoc]
+#### Vulnerability Venom (toxin)
 
 *Source: [Spheres Apocrypha: Alchemical Poisons](https://www.drivethrurpg.com/product/295353/Spheres-Apocrypha-Alchemical-Poisons?affiliate_id=549120)*
 
 You may choose for your poison to decrease one of the creature’s energy resistances by your Craft (alchemy) ranks instead of making the creature fatigued. You choose which energy resistance to decrease when the poison is created.
 
-#### Witchbane (toxin) [High. HB]
+#### Witchbane (toxin)
 
 You may choose for your poison to make the creature suffer 10% spell failure instead of fatigue. Creatures who fail two consecutive saving throws against this poison instead suffer 20% spell failure, and creatures who fail three consecutive saving throws suffer 50% spell failure. If a creature is suffering spell failure chance from another source (such as spell failure from the Somatic Casting general drawback), add this spell failure to the other source to get a single spell failure source. This spell failure applies to all spells, spell-like, supernatural, and spherecasting abilities that the creature possesses.
 
@@ -734,13 +734,13 @@ You may choose for your poison to make the creature suffer 10% spell failure ins
 
 # Legendary Talents
 
-#### Aboleth Mucus (toxin) [Alienist HB]
+#### Aboleth Mucus (toxin)
 
 **Prerequisites:** Alchemy sphere.
 
 You may choose to have your poison affect the target as per aboleth mucus rather than making them fatigued. The target takes a -2 penalty on Will saving throws and becomes unable to breathe air but can breathe underwater for 1 minute. Renewed contact with this poison and failing another save extends the effect by 1 minute and is cumulative. A creature unable to breathe air that remains out of water begins to suffocate unless they hold their breath.
 
-#### Aging Toxin (toxin) [Apoc]
+#### Aging Toxin (toxin)
 
 *Source: [Spheres Apocrypha: Debilitating Talents](https://www.drivethrurpg.com/product/304600/Spheres-Apocrypha-Debilitating-Talents?affiliate_id=549120)*
 
@@ -755,7 +755,7 @@ You may choose for your poison to begin to aggressively age the creature, increa
 | Old Age | -2 to all physical ability scores |
 | Venerable | -3 to all physical ability scores |
 
-#### Ambrosia (formulae) [Warden]
+#### Ambrosia (formulae)
 
 **Prerequisites:** Alchemy sphere (Panacea (formulae)), Craft (alchemy) 10 ranks.
 
@@ -771,7 +771,7 @@ You manage to brew the perfect balance of arcane reagents and divine ingredients
 
 This ambrosia is often too much to handle for most creatures, with a particular creature only being able to benefit from an ambrosia once per day. Any additional attempts to drink an ambrosia during this period have no effect.
 
-#### Contagion [utility] [Apoc]
+#### Contagion [utility]
 
 *Source: [Spheres Apocrypha: Alchemy Poisons 2](https://www.drivethrurpg.com/product/320796/Spheres-Apocrypha-Alchemy-Poisons-2?affiliate_id=549120)*
 
@@ -795,7 +795,7 @@ If you possess at least 10 ranks in Craft (alchemy), you may select this talent 
 
 You may create a special elixir that restores a creature to its starting age as a young adult. All penalties to Strength, Dexterity, and Constitution the drinker may have suffered as a result of advanced age are removed, but all bonuses to Intelligence, Wisdom, and Charisma that result from advanced age remain (although as the character ages again into middle age and beyond, he does not gain any of these bonuses a second time). Unlike a standard formulae, it takes 1 month to brew an elixir of immortality, and it costs an additional 50,000 gp in materials to create.
 
-#### Elixir Of Life (formulae) [Warden]
+#### Elixir Of Life (formulae)
 
 **Prerequisites:** Alchemy sphere, Craft (alchemy) 5 ranks.
 
@@ -803,13 +803,13 @@ You may create a special elixir that restores a creature to its starting age as 
 
 You create an elixir that can be used as a standard action to restore a dead target within your natural reach back to life. As long as the target has not been dead for longer than 1 round, the creature is healed to 1 hit point, and gains a temporary negative level. You can increase the Craft DC for this formulae in increments of 10; each time you do so this formulae can target dead creatures that have been dead for 1 additional round, and gain 1 additional hit point per Hit Die the creature possesses when revived.
 
-#### Hemorrhaging Poison [High. HB]
+#### Hemorrhaging Poison
 
 **Prerequisites:** Alchemy sphere (Painful Venin).
 
 The damage suffered by the target from Painful Venin becomes bleed damage. Creatures who are immune or not subject to bleed damage instead take damage as per Painful Venin.
 
-#### Mindrot [Apoc]
+#### Mindrot
 
 *Source: [Spheres Apocrypha: Alchemy Poisons 2](https://www.drivethrurpg.com/product/320796/Spheres-Apocrypha-Alchemy-Poisons-2?affiliate_id=549120)*
 
@@ -839,7 +839,7 @@ A philosopher’s stone appears to be an ordinary, sooty piece of blackish rock.
 
 The quicksilver found in the center of the stone may also be put to another use. If mixed with any cure potion while the substance is still potent, it creates a special oil of life that acts as a true resurrection spell or Greater Resurrection sphere effect (if using Spheres of Power) for any dead body it is sprinkled upon.
 
-#### Sorcerer's Scourge (toxin) [Apoc]
+#### Sorcerer's Scourge (toxin)
 
 *Source: [Spheres Apocrypha: Alchemy Poisons 2](https://www.drivethrurpg.com/product/320796/Spheres-Apocrypha-Alchemy-Poisons-2?affiliate_id=549120)*
 
@@ -847,7 +847,7 @@ The quicksilver found in the center of the stone may also be put to another use.
 
 You may choose for your poison to induce a -1 caster level penalty to the creature instead of causing fatigue. Creatures who fail two consecutive saving throws against this increase this penalty by 1, and creatures who fail three consecutive saving throws, and every failed consecutive saving throw thereafter increase this penalty by 2. Casters with a penalty to their caster level that exceeds their base caster level cannot cast spells.
 
-#### Witch Doctor’s Curse [curse] [Apoc]
+#### Witch Doctor’s Curse [curse]
 
 *Source: [Spheres Apocrypha: Alchemical Poisons](https://www.drivethrurpg.com/product/295353/Spheres-Apocrypha-Alchemical-Poisons?affiliate_id=549120)*
 

@@ -8,7 +8,7 @@ searchtype: Class Options
 
 *Source: [Ultimate Spheres of Power](https://www.drivethrurpg.com/product/300249/Ultimate-Spheres-of-Power?affiliate_id=549120)*
 
-## Congregation Domain (Cleric/Inquisitor Domain) [Spheres of Guile]
+## Congregation Domain (Cleric/Inquisitor Domain)
 
 The following domain can be selected by all clerics and inquisitors as well as any other class that can select a domain.
 
@@ -18,7 +18,7 @@ The following domain can be selected by all clerics and inquisitors as well as a
 
 **Domain Spells** 1st—comprehend languages, 2nd—share memory (Pathfinder Roleplaying Game: Ultimate Magic), 3rd—suggestion, 4th—sending, 5th— telepathic bond, 6th—geas/quest, 7th—demanding message (mass) (Pathfinder Roleplaying Game: Ultimate Intrigue), 8th—sympathy, 9th—heroic invocation (Pathfinder Roleplaying Game: Ultimate Combat)
 
-**Special:** If using the Congregation domain with the sphere cleric archetype for a Spheres cleric, the domain’s associated sphere is War. [LotS]
+**Special:** If using the Congregation domain with the sphere cleric archetype for a Spheres cleric, the domain’s associated sphere is War.
 
 ## Fey Domain
 
@@ -59,7 +59,7 @@ Powerful lords of Faerie can grant a portion of their power to their followers. 
 
 A character with the nobility domain may exchange the Leadership feat for the [[Leadership]] sphere, per the associated feat rules. If a character with the nobility domain selects bonus talents from her domains (such as the sphere cleric), she may choose to select Leadership sphere talents instead of War sphere talents. This choice is made when the nobility domain is first gained.
 
-## Tinker Domains [DRS]
+## Tinker Domains
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds)*
 
@@ -83,7 +83,7 @@ If a character would receive bonus Tinker talents from multiple domains this way
 
 **Special - Tinker Domains and Spheres of Power:** When using Spheres of Power, certain classes modify the bonus talents granted by domains (such as sphere cleric and sphere druid). Such classes do not receive the bonus talents at the indicated levels and may instead select Tinker sphere talents when they would select bonus talents associated with their domain. Bonus talents selected this way must grant an option associated with one of their Tinker domains.
 
-## Augmentation Domain (Tinker Domain) [DRS]
+## Augmentation Domain (Tinker Domain)
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds)*
 
@@ -107,7 +107,7 @@ If a character would receive bonus Tinker talents from multiple domains this way
 
 **Domain Talents:** 3rd and 12th; **Choose from:** Exploration Set, Pressure Jack, Primal Augmentations, Prosthetics Mastery; (12th) Advanced Augmentation, Advanced Prosthetics
 
-## Computation Domain (Tinker Domain) [DRS]
+## Computation Domain (Tinker Domain)
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds)*
 
@@ -125,7 +125,7 @@ If a character would receive bonus Tinker talents from multiple domains this way
 
 **Domain Talents:** 3rd and 12th; **Choose from:** Cognitive Set, Exploration Set, Intelligent Systems, Medical Set, Sensory Set; (12th) Advanced Computation
 
-## Modification Domain (Tinker Domain) [DRS]
+## Modification Domain (Tinker Domain)
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds)*
 
@@ -153,7 +153,7 @@ When using this ability, a replicated spell with an alignment component matches 
 
 **Domain Talents:** 3rd and 12th; **Choose from:** Armor Modifications, Arsenal Set, Personal Field Projector, Ranged Set, Weapon Modifications; (12th) Advanced Arsenal, Advanced Field Projectors, or Advanced Ranged Set
 
-## Transmission Domain (Tinker Domain) [DRS]
+## Transmission Domain (Tinker Domain)
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds)*
 
@@ -171,7 +171,7 @@ When using this ability, a replicated spell with an alignment component matches 
 
 **Domain Talents:** 3rd and 12th; **Choose from:** Aviation Set, Excavation Set, Movement Set, Pressure Jack, Sensory Set, Transmission Mastery; (12th) Advanced Transmission, Multimedia Mastery
 
-## Transportation Domain (Tinker Domain) [DRS]
+## Transportation Domain (Tinker Domain)
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds)*
 

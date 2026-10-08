@@ -21,23 +21,23 @@ The [utility start] tag is described in Spheres of Guile. It is only possible to
 
 You do not gain the tactic ability and cannot take (tactics) talents. You gain Breath Support with this drawback.
 
-#### Conductor [High. HB]
+#### Conductor
 
 Whenever this sphere uses or grants ranks in Diplomacy or calls for a Diplomacy check, you instead gain ranks in Perform or attempt a Perform check. You use your ranks in Perform instead of Diplomacy when determining saving throws. This drawback does not grant a bonus talent; removing this drawback does not require spending a talent, but requires GM permission. You use Perform ranks in place of Diplomacy ranks for prerequisites for feats and talents that require the Warleader sphere.
 
 **Author's Note:** If you possess multiple spheres that grant ranks in the same Perform subskill, you gain a competence bonus on those Perform checks equal to half your base attack bonus instead of retraining the ranks multiple times. This is only applied once.
 
-#### Impeccable Command [SA:MD]
+#### Impeccable Command
 
 You do not gain the shout ability and cannot select (shout) talents or other talents that rely on shout. You gain Verbal Commands with this drawback.
 
 **Incompatible:** Barbaric Shout, Lead By Example, Meek Leader.
 
-#### Interjector [LotS]
+#### Interjector
 
 You do not gain the shouts ability. You gain Verbal Counter as a bonus talent.
 
-#### Lead By Example [Conq. HB]
+#### Lead By Example
 
 You may only use a shout while threatening an enemy. You must take Triumph with the bonus talent gained through this drawback.
 
@@ -47,22 +47,22 @@ You may only use a shout while threatening an enemy. You must take Triumph with 
 
 You do not gain the shout ability. You cannot take (shout) talents. You must take Courier’s Dash with the bonus talent gained through this drawback.
 
-#### Quiet Planner [SA:MD2]
+#### Quiet Planner
 
 You do not gain the shout ability and cannot select (shout) talents or other talents that rely on shout. You gain Preparation with this drawback.
 
 **Incompatible:** Barbaric Shout, Impeccable Command, Lead By Example, Meek Leader.
 
-#### Social Strategist [LotS]
+#### Social Strategist
 
 You do not gain the tactics ability. You gain Rallying Beseechment as a bonus talent. If you also select the Interjector drawback, you can take the Warleader sphere using a [utility] talent slot as if both drawbacks had the [utility start] tag.
 
-#### Social Tactician [SA:MD2]
+#### Social Tactician
 
 You do not gain the tactics ability and cannot select (tactics) talents or other talents that rely on tactics. You gain Verbal Counter with this drawback.
 
 **Incompatible:** Barbaric Shout, Impeccable Command.
 
-#### War Propagandist (Utility Start) [LotS]
+#### War Propagandist (Utility Start)
 
 You do not gain the tactics ability nor Fierce Shout. You gain Rallying Beseechment and Inspiring Speech instead.

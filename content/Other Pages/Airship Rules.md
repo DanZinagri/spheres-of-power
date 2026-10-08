@@ -1830,7 +1830,7 @@ The goliath is the great warship of the skies. A gunboat of incredible size, the
 
 ---
 
-# Vehicle-Scale Creatures and Megaforms [SB:A]
+# Vehicle-Scale Creatures and Megaforms
 
 The Vehicle rules detailed in {Ships of Skybourne can be adapted for encounters with extremely large creatures that only these rules are equipped to handle. In most ways, such vehicle-scale creatures function as vehicles, using the same mechanics of hull points, propulsion, movement, and engines as normal vehicles (although these terms may need to be reflavored to suit a more biological entity). However, rather than a crew, a vehicle-scale creature is operated by a single intelligence known as a Megaform.
 

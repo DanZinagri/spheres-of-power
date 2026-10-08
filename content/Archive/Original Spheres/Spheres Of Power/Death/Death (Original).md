@@ -13,19 +13,19 @@ parent: "[[Original Spheres]]"
 
 You may command the powers of unlife.
 
-# Ghost Strike [Core]
+# Ghost Strike
 
 As a standard action, you may make a ghost strike, summoning negative energy and throwing it at a target within Medium range as a ranged touch attack. A ghost strike is considered a negative energy death effect, and as such has no effect on undead, constructs, elementals, and other creatures immune to such things (although some talents provide exceptions). Ghost strike effects do not stack with themselves.
 
 Some Death talents are designated (ghost strike), which provide you with additional types of ghost strikes. You gain the following ghost strike when you gain the Death sphere:
 
-#### Exhausting Strike [Core]
+#### Exhausting Strike
 
 *Source: [The Necromancer's Handbook](https://www.drivethrurpg.com/product/260006/The-Necromancers-Handbook?affiliate_id=549120)*
 
 The subject of your ghost strike becomes fatigued for 1 round per caster level (Fortitude negates). You may spend a spell point to increases this effect to making the target exhausted for 1 minute per caster level (Fortitude negates). On a successful save, the target is still fatigued for 1 round. Unlike regular fatigue and exhaustion, these conditions end as soon as the duration expires.
 
-# Reanimate [Core]
+# Reanimate
 
 As a standard action, you may touch an intact dead body and spend a spell point to reanimate it as a zombie or skeleton (depending on the composition of the body in question) for 1 minute per caster level. This creature gains the zombie or skeleton template and obeys your commands, although only simple commands such as “go”, “stay”, “attack”, or “guard” are understandable. A reanimated body cannot speak and has no knowledge or ability to think and so cannot answer questions or reveal anything it knew in life. When the duration expires, the body collapses until reanimated again. It does not regain hit points between reanimations. If reduced to 0 hp, the body collapses and is destroyed; it cannot be reanimated again.
 
@@ -51,7 +51,7 @@ You can alter a corpse in one of the following ways by touching it as a standard
 - You can spend a spell point to preserve the remains of a dead creature for 1 day per caster level so that they do not decay. Doing so effectively extends the time limit on raising that creature from the dead. Days spent under the influence of this spell don’t count against the time limit. Additionally, this makes transporting a slain (and thus decaying) comrade less unpleasant. This ability also works on severed body parts and the like.
 - You can reshape the dead body look like another creature or even a specific person so long as you have firsthand knowledge of how that creature or person actually looks. You can make the corpse one size larger or smaller or change its apparent type, gender, or age. Creatures interacting with the corpse may make a Will save to detect the deception. If you chose to make the corpse look like a specific individual anyone who knows that individual can make a Will save to realize that the corpse is not actually that person. However, if a creature fails its Will save by 5 or less they believe the corpse is that of someone who closely resembled the person they knew rather than a deliberate fake.
 
-#### Cryptic Strike [Core]
+#### Cryptic Strike
 
 As a standard action, you may make a single ranged or melee attack coupled with a ghost strike. If the attack hits, the target is also affected by the ghost strike.
 
@@ -59,11 +59,11 @@ As a standard action, you may make a single ranged or melee attack coupled with 
 
 Whenever you would take hit point damage that would reduce you to 0 hit points or less, you can spend 1 spell point as an immediate action to sacrifice a mindless undead creature you control within close range (or the range of your Master’s Presence, whichever is greater), destroying it instantly; reduce the damage you take by the sacrificed undead’s current hit points (to a minimum of 0).
 
-#### Empowered Reanimate [Core]
+#### Empowered Reanimate
 
 All creatures you reanimate gain a +4 enhancement bonus to their Strength and Dexterity.
 
-#### Expanded Necromancy [Core]
+#### Expanded Necromancy
 
 When you reanimate a creature, you may reanimate it as a bloody skeleton, burning skeleton, fast zombie, or plague zombie. When reanimating a creature in this way, they count as twice their Hit Dice against the total amount you may have reanimated at once.
 
@@ -71,11 +71,11 @@ When you reanimate a creature, you may reanimate it as a bloody skeleton, burnin
 
 You may spend a spell point as a standard action to gain the ability to speak with undead and corpses for 1 minute per caster level. You can communicate with, ask questions of, and receive answers from them. A mindless undead or corpse spoken to with gravetongue does not maintain any memory of its life or death - only the time that has elapsed since its death (and reanimation). A normal corpse’s sense of its surroundings is limited, so it won’t be able to give (or recognize) detailed descriptions of creatures or answer questions about events outside its immediate vicinity. The spell doesn’t make undead creatures any more friendly or cooperative than normal, and while mindless undead and corpses will always answer truthfully, their ability to answer more than simple questions is restricted. You do not need to share a language with the target.
 
-#### Greater Ghost Strike [Core]
+#### Greater Ghost Strike
 
 When making a ghost strike, you may spend an additional spell point to form your ghost strike into a Close-range cone, allowing you to make an attack roll against every target within this area.
 
-#### Greater Reanimate [Core]
+#### Greater Reanimate
 
 Increase the total Hit Dice of creatures you may have reanimated at once by an additional 1 per caster level. You may select this talent up to 3 times.
 
@@ -91,15 +91,15 @@ A haunting apparition lasts for 10 minutes per caster level before becoming iner
 
 When you use a ghost strike, instead of unleashing an attack yourself, you may have an undead you control within range deliver the attack as a melee touch attack sometime within the next round. This charge is ‘held’ through the round; if the undead gets multiple attacks, it can attempt to deliver the touch attack additional times if the first attempt failed. If you spend an additional spell point, you may grant a use of this ghost strike to each undead you control, but multiple undead cannot affect the same target with the same ghost strike that round.
 
-#### Killing Curse [Core]
+#### Killing Curse
 
 Your ghost strike can rip the very soul from the living. If a target fails their saving throws against your ghost strike 3 times within a 1-minute period, they immediately die (Fortitude negates). If a ghost strike does not allow a save, it is not usable with this talent.
 
-#### Lingering Necromancy [Core]
+#### Lingering Necromancy
 
 When you reanimate a corpse or corpses, they remain for 1 hour per caster level instead of 1 minute per caster level.
 
-#### Mass Reanimate [Core]
+#### Mass Reanimate
 
 When using your reanimate ability, you may spend an additional spell point to reanimate multiple creatures at once. All corpses to be reanimated must be within Close range. Your Hit Dice limits apply to the total number you may reanimate at once with this ability.
 
@@ -109,7 +109,7 @@ You can telepathically order and communicate with undead creatures within close 
 
 You can select this talent up to 3 times; each time you do after the first, increase its range by one step (close to medium, medium to long).
 
-#### Necrotic Senses [Core]
+#### Necrotic Senses
 
 As a full-round action, you may concentrate on one undead creature under your control. This allows you to perceive that creature’s surroundings as if you were standing where that creature was. While you may use the creature’s special sense (i.e., Darkvision, etc.), you must use your own Perception skill if making a check. Only targets completely under your control are valid; charmed undead are not truly under your control, and as such as such do not qualify.
 
@@ -165,7 +165,7 @@ If you possess Master’s Presence, your undead may use your skill ranks in plac
 
 # Ghost Strikes
 
-#### Bleeding Wounds (ghost strike) [Core]
+#### Bleeding Wounds (ghost strike)
 
 You may make a ghost strike that deals 1 bleed damage per 2 caster levels (minimum: 1; no save). Targets take damage on the round they are hit, plus each additional round until the bleed effect stops (usually through the Heal skill or an application of magical healing). You may spend a spell point before making this ghost strike to improve this effect to 1 bleed damage per caster level (minimum: 2).
 
@@ -173,19 +173,19 @@ You may make a ghost strike that deals 1 bleed damage per 2 caster levels (minim
 
 You may spend a spell point to make a ghost strike that fills a creature with unnatural urges for flesh (Will negates). On a failed save, the subject is staggered for 1 round and takes nonlethal damage equal to 1d8 per caster level. Similar to starvation damage, creatures that take an amount of nonlethal damage equal to their total hit points begin to take lethal damage instead, and this nonlethal damage cannot be recovered until 24 hours have passed or the target spends a full-round action consuming the corpse of a creature with Intelligence 3 or higher - until then, not even magic that restores hit points heals this damage. This is considered a curse effect, and can only be removed by Break Enchantment, remove curse, or similar effect.
 
-#### Command Undead (ghost strike) [Core]
+#### Command Undead (ghost strike)
 
 You may spend a spell point to make a ghost strike that grants you a measure of control over an undead creature (Will negates). For 1 minute per caster level, an unintelligent undead creature falls under your control or an intelligent undead becomes friendly toward you. You can give an intelligent undead creature orders, but you must win an opposed Charisma check to convince it to do anything it wouldn’t ordinarily do. Retries are not allowed. An intelligent commanded undead never obeys suicidal or obviously harmful orders, but it might be convinced that something very dangerous is worth doing. Any act by you or your apparent allies that threatens the commanded undead (regardless of its Intelligence) breaks this effect. Your commands are not telepathic; the undead creature must be able to hear you. Intelligent undead remember they were manipulated and may seek revenge.
 
-#### Curse (ghost strike, curse) [Core]
+#### Curse (ghost strike, curse)
 
 You may spend a spell point to make a ghost strike that bestows a permanent curse on the target (Will negates). Curses may be removed with the Break Enchantment Life talent, upon your death, or by your choice as a free action, but otherwise cannot be dispelled. Choose one of the following effects to bestow upon the target (with GM permission you may invent your own curse, but it should not be more powerful than these): the target suffers 1d6 points of non-lethal damage every minute spent in bright light; the target becomes blind except when in areas of dim light or darkness; the target must eat and drink twice as much as normal or begin suffering from starvation; the target becomes vulnerable to a single energy type (this cannot affect a creature already immune to that energy type—apply vulnerability before protection or resistance); the target suffers the penalties (but not bonuses) of advancing to the next age category.
 
-#### Drain (ghost strike) [Core]
+#### Drain (ghost strike)
 
 You may spend a spell point to make a ghost strike that imposes 1 temporary negative level on the target for one hour per caster level (no save). This increases by 1 die size per 5 caster levels (1d2, 1d3, 1d4, and 1d6). Unlike with other ghost strikes, negative levels stack. While normally negative levels have a chance to become permanent and can kill a target whose negative levels equal its Hit Dice, these negative levels do not last long enough to become permanent, and if a negative level would reduce the creature to 0 Hit Dice, the creature instead takes 4 points of Constitution drain for the duration of the effect. If a negative level lasts longer than 1 day, the target must pass a Fortitude save per negative level or have the negative level become permanent. If this ability is used on an undead creature, it instead grants the creature 5 temporary hit points per negative level, which last for 1 hour.
 
-#### Inflict Disease (ghost strike) [Core]
+#### Inflict Disease (ghost strike)
 
 You may spend a spell point to make a ghost strike that causes the target to contract a disease (Fortitude negates). The subject contracts one of the following diseases: blinding sickness, bubonic plague, cackle fever, filth fever, leprosy, mindfire, red ache, shakes, or slimy doom. The disease is contracted immediately (the onset period does not apply). Use the disease’s listed frequency and save DC to determine further effects.
 
@@ -193,11 +193,11 @@ You may spend a spell point to make a ghost strike that causes the target to con
 
 You may spend 2 spell points to make a ghost strike that paralyzes the target for 1 round per 2 caster levels on a failed Fortitude save. A creature is allowed a new saving throw each round as a full-round action to end this effect early. Anyone paralyzed by a lich strike seems dead, though a DC 20 Perception check or a DC 15 Heal check reveals that the victim is still alive.
 
-#### Manipulate Undeath (ghost strike) [Core]
+#### Manipulate Undeath (ghost strike)
 
 You may make a ghost strike that harms undead, dealing 1d8 damage per 2 caster levels (minimum: 1d8, Will half). You may spend a spell point to instead heal the undead for this amount.
 
-#### Necrotic Feeding (ghost strike) [Core]
+#### Necrotic Feeding (ghost strike)
 
 You may spend a spell point to make a ghost strike that, when it strikes a target with -1 or fewer hit points, kills it instantly (Will negates). If the target fails their saving throw, you gain temporary hit points equal to twice the target’s Hit Dice, as well as a +2 enhancement bonus to Strength and Dexterity, which increases to +4 if the target has 8 HD or more and +6 if the target has 16 HD or more. These effects last for 10 minutes per HD of the slain creature. Bonuses from multiple creature do not stack; only the highest bonuses apply.
 
@@ -205,15 +205,15 @@ You may spend a spell point to make a ghost strike that, when it strikes a targe
 
 You may make a ghost strike that attaches a vengeful poltergeist to the target, disrupting their actions. Whenever the target makes a d20 roll within 1 round per caster level, you can choose for them take a -3 penalty to the roll, ending this effect. This penalty is increased by 1 for every 6 caster levels you have. If you spend a spell point when you use this ghost strike, you can impose the penalty on up to one d20 roll the target makes each round for the effect’s duration, and imposing the penalty does not end the effect. A creature can only be affected by one poltergeist at a time.
 
-#### Sickening (ghost strike) [Core]
+#### Sickening (ghost strike)
 
 You may make a ghost strike that causes the target to be sickened for 1 round per caster level (Fortitude negates). You may spend a spell point to cause the target to instead become nauseated. On a successful save, the target is still sickened for 1 round.
 
-#### Vampiric Strike (ghost strike) [Core]
+#### Vampiric Strike (ghost strike)
 
 You may spend a spell point to make a ghost strike that deals 1d6 damage per 2 caster levels to the target (minimum: 1d6) and grants yourself an equal number of temporary hit points that last 1 minute per caster level (Fortitude half). You cannot gain more temporary hit points in this manner than the subject’s current hit points + their Constitution score. If you strike multiple targets at once with the same vampiric strike (for example, through the Greater Ghost Strike talent) you cannot gain more temporary hit points than 3 per caster level (minimum: 6). As always, temporary hit points do not stack.
 
-#### Weakening (ghost strike) [Core]
+#### Weakening (ghost strike)
 
 You may make a ghost strike that inflicts a 1d4 point penalty to the target’s Strength or Dexterity (your choice, Fortitude negates) for 1 round per level. You may spend a spell point to increase this reduction by half your caster level (minimum: 1) and cause a successful Fortitude save to only halve the effect instead of negate it. This cannot reduce the target’s Strength or Dexterity scores to less than 1.
 

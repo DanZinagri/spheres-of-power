@@ -61,7 +61,7 @@ The following traditions are presented as a starting point for GMs and players. 
 
 **Wiki Advice:** The following sample traditions are not equal in complexity or their impact on how a caster plays the game. Some sample casting traditions are easy to use with almost any style of magic, while other casting traditions are more effective when used as part of a well-planned build and require a certain amount of experience with the system to be used to their full potential. New players may not realize how big of an impact some casting tradition choices have, and the Wiki strongly recommends discussing their casting tradition with them to ensure they fully understand it.
 
-### Addled [Core]
+### Addled
 
 Hidden within the ramblings of the insane, one word is often repeated.. Some healers theorize that this word is the name of the hidden god of madness, gaining power from—and granting power to—those who surrender their minds to him. There must be some truth to this theory, because sometimes, when those with this word on their lips are displeased with their surroundings, they possess the ability to change them. An addled caster gains +1 spell point, +1 per 6 levels gained in a casting class.
 
@@ -119,7 +119,7 @@ A caster with the bloodletting tradition gains 1 SP + 1 SP per 6 levels.
 
 **Boons:** Fortified Casting, Sanguine Empowerment
 
-### Blood Magic (arcane) [Core]
+### Blood Magic (arcane)
 
 One of the most dangerous forms of magic, blood magic, promises great power to its practitioners, but with a price. Blood magic is difficult, lengthy, complicated, and draining, but for its practitioners the promise of insurmountable power is worth the mere price of their life force. Blood mages are constantly performing a dangerous dance, for the closer they are to death’s door, the greater their power.
 
@@ -167,7 +167,7 @@ A tradition that dates back to the long dead Cholmic civilization, the methods o
 
 **Boon:** Overwhelming Power
 
-### Contaminated [Core]
+### Contaminated
 
 Somewhere in the bowels of the criminal underworld, an alchemist cracked the code of magic and created Essence. This powerful, addictive powder would grant magical ability to anyone who consumed it. The crime lord who first distributed Essence sold it everywhere, eager to gain a dedicated following of addicted ‘wizards’, but he underestimated the power of the addiction— and of the addicted. The lab was destroyed as magic users descended on it to increase their supply and steal the secret of its creation. Now Essence can be found virtually anywhere people are rich enough—and foolish enough—to seek it out. A contaminated caster gains an additional spell point for every odd level gained in a casting class.
 
@@ -175,7 +175,7 @@ Somewhere in the bowels of the criminal underworld, an alchemist cracked the cod
 
 **Boons:** None
 
-### Divine Petitioner (divine) [Core]
+### Divine Petitioner (divine)
 
 A divine petitioner gains their magic through service and prayer to a divine source, such as a Deity. A divine petitioner must pray every day to regain their spell points, petitioning not only for their magic, but specifying how they intend to use it that day. Divine petitioners do everything in the name of their deity and find it difficult to even manifest their power unless they have their holy symbol in hand. A divine petitioner gains a bonus spell point at every odd level they gain in a spellcasting class.
 
@@ -201,7 +201,7 @@ Dream casters are aloof individuals often viewed as extremely odd by other types
 
 **Boons:** Overcharge
 
-### Druidic (divine) [Core]
+### Druidic (divine)
 
 A druid gains their magic through communion with nature and the spirits contained therein. While many casters band together for mutual study and protection, druids take this a step further, possessing their own secret language that identifies one druid to another. The hierarchy of the druids is a very sacred thing for them, and there are only so many high-level druids in the world at any one time. Indeed, a druid rising through the ranks often times must claim their new title by taking it from another druid through a demonstration of superior magic. A Druid gains +1 spell point, +1 per three levels gained in a spellcasting class.
 
@@ -217,7 +217,7 @@ To the fey, magic is simply a part of life - and those who study their styles of
 
 **Boons:** Easy Focus, Overcharge
 
-### Flame-Blooded [Core]
+### Flame-Blooded
 
 There exist those who bear in their blood a touch of pure fire. Details of their origin are spotty at best, but the tale is told of a tryst between a mortal woman and the elemental spirit of fire itself, granting the power of fire to all her descendants. The flame-blooded are often as brash and volatile as the element that powers their magic; to cross one is to invite a swift and deadly response.
 
@@ -259,7 +259,7 @@ Ley-line Tappers draw their power from the innate mystic potential of the leylin
 
 **Boons** Easy Focus
 
-### Lycanthrope [Core]
+### Lycanthrope
 
 Curses are terrible things and lycanthropy more so than most. For some casters, however, lycanthropy is the beginning of a long journey to power. These souls not only learn to control their animalistic natures, but to expand them, pulling power from their curse and turning it into a source of magic. Practitioners of this magic should beware however; curses are not trivial things, and a lycanthrope’s magic is unpredictable at best. A lycanthrope gains an additional spell point at 1st level, plus one for every 6 levels gained in casting classes.
 
@@ -277,7 +277,7 @@ For some people, magic is an expression of their will, and a little mental focus
 
 **Note:** If using Psionics from Dreamscarred Press, it is considered a part of this tradition.
 
-### Monastic (divine) [Core]
+### Monastic (divine)
 
 When the power of the spirit is properly cultivated through physical discipline and meditation, it can elevate itself to a form of magic. There are orders of monks who practice this form of magic, using their monastic traditions to guide their pursuit of magical awakening. Renowned for their versatility of power, casters of these monastic orders are often solitary, as the very source that gives them such great power also makes it difficult to manifest that power outside of their own bodies.
 
@@ -311,7 +311,7 @@ Pact Magic focuses on summoning beings to cast magic on the user's behalf. Havin
 
 **Note:** If using Pact Magic from Radiance House, that system would be considered a part of this tradition.
 
-### Runist [Core]
+### Runist
 
 Runists study the first language—the language of creation itself. With this knowledge, they can create magical effects by writing out the appropriate runes—a time-consuming process, but a powerful one. Runists spend their lives mastering true names and meditating on the meaning of the runes, for once a runist has mastered a rune’s essence, they master that aspect of creation itself. A runist gains an extra spell point for every level gained in a casting class.
 
@@ -327,7 +327,7 @@ In a small Western kingdom, the princes and princesses are taught a unique casti
 
 **Boons:** Careful Magic (Drawback), Magical Focus (Drawback)
 
-### Shadow-Wielder [Core]
+### Shadow-Wielder
 
 While not exclusively the realm of assassins and thieves, it cannot be denied that shadow-wielding is a natural choice for those who work their crafts in the dark. Shadow-wielders are empowered by darkness, learning to bend shadowstuff into any form they desire, to use shadows to teleport, and numerous other abilities.
 
@@ -335,7 +335,7 @@ While not exclusively the realm of assassins and thieves, it cannot be denied th
 
 **Boons:** None
 
-### Song-Wielder [Core]
+### Song-Wielder
 
 Born of ancient royalty, a song-wielder makes magic through the power of their voice. It is an ancient art and difficult to master, but very rewarding. Because a song-wielder’s magic is tied to their voice, they grow in strength the longer they sing. Often, it is only when a song-wielder has sung himself hoarse that his true power manifests.
 
@@ -351,7 +351,7 @@ For some individuals, magic is truly in the blood, and all it takes to use is a 
 
 **Boons:** None
 
-### Sword-Bound [Core]
+### Sword-Bound
 
 Sometimes, when a magic-user dies, a part of their spirit (called an echo) remains attached to the objects they wielded in life. This is the case with the some ancient houses, where the heir apparent inherits the house's sword on their 15th birthday. Not only does this ancient sword still cut as well as the day it was forged, but it also carries the echo of the family's founder, granting its owner access to the ancestor's famed magical power. Wielding the sword is exhausting, but it is a small price to pay to access its magic.
 
@@ -367,7 +367,7 @@ Practitioners within this tradition generally pursue magic as a way to bolster t
 
 **Boons:** Addictive Power (Drawback)
 
-### Traditional Magic (arcane) [Core]
+### Traditional Magic (arcane)
 
 Traditional magic is the study of the natural world, astronomy, alchemy, and ancient learning to create magic through a combination of gestures, words, and magical components. Traditional magic is based on performing specific rites and observing various taboos, meaning its practitioners must decide each morning what magic they will use that day so they may perform the appropriate rituals. Traditional magic is the realm of academics, making it a long and grueling course of study but granting wisdom and power in equal amounts. A practitioner of traditional magic gains an extra spell point every level they gain in a spellcasting class.
 
@@ -375,7 +375,7 @@ Traditional magic is the study of the natural world, astronomy, alchemy, and anc
 
 **Boons:** None
 
-### Water-Magi [Core]
+### Water-Magi
 
 There exists an order of monks who pull power from an ancient pact formed with the spirit of the moon. These water-magi are born with the power to bend water to their will, pulling it as the moon pulls the tides. Through dedicated practice, they use their movements to control this liquid and bring its power to bear against their enemies.
 
@@ -427,7 +427,7 @@ While some general drawbacks provide their own balancing mechanics (Extended Cas
 
 ## List of General Drawbacks
 
-#### Addictive Casting [Core]
+#### Addictive Casting
 
 Your magic is addictive. Whenever you spend one or more spell points, you must pass a Fortitude save against your addiction DC (Your addiction DC is 10, + 1 for each roll you have previously made. Thus, your first roll would be a DC 10, the second a DC 11, the third a DC 12, etc.). If you fail this save, you gain a minor addiction, suffering a -2 penalty to Constitution. Spending a spell point mitigates this penalty for 1 minute.
 
@@ -435,7 +435,7 @@ Each day you do not use a spell point, you may make a Fortitude save against you
 
 If you already possess a minor addiction and fail your Fortitude save after spending spell points, you gain a moderate addiction. This gives you a -2 penalty to Constitution and Strength, and requires 3 saves to overcome. If you fail your save and already have a moderate addiction, you gain a severe addiction, suffering a -2 penalty to Dexterity, Constitution, Strength, Wisdom, and your primary casting attribute (if not Wisdom). If you overcome an addiction and later gain it again due to failing your Fortitude save, your addiction DC resets itself to its highest previous amount. This counts as 2 drawbacks when determining the number of spell points gained.
 
-#### Anemic [Apoc]
+#### Anemic
 
 Your magic interferes with your natural circulation. If you are immune to bleed damage, you lose that immunity. If you are not subject to bleed damage (such as because of your creature type), you become subject to it. Whenever you take slashing or piercing damage, as well as bleed damage from any other source, you suffer 1 point of bleed damage plus an additional point of bleed damage for every 10 points of your magic skill bonus; this stacks with all other sources of bleed damage. The Heal DC to stop yourself from bleeding increases by your magic skill bonus. Healing from magical sources does not stop you from bleeding unless the caster succeeds on a magic skill check against your magic skill defense. If you receive healing from a non-magical source (including fast healing or regeneration) you must still receive a Heal check in order to stop the bleeding.
 
@@ -447,7 +447,7 @@ At the GM’s discretion, certain kinds of physical restraint might also make sp
 
 You can not take this drawback if you took the Magical Signs drawback.
 
-#### Charged Spells [Apoc]
+#### Charged Spells
 
 You must prepare a sphere effect into a charge before you can use it yourself. Preparing a charge takes 10 full-round actions (without allowing swift or free actions) in a row that provoke attacks of opportunity. If you are disrupted before you finish your charge, you must start all over to create it, but any spell points invested into its creation are not lost.
 
@@ -471,7 +471,7 @@ The diagram need not be drawn with any special materials, and can be done with s
 
 This counts as 2 drawbacks when determining the number of spell points gained.
 
-#### Draining Casting [Core]
+#### Draining Casting
 
 Using magic saps your lifeforce. Using any sphere ability deals you 1 point of nonlethal damage which cannot be healed through any means except rest. This increases to 2 points at 5th caster level, 3 points at 10th caster level, 4 points at 15th caster level, and 5 points at 20th caster level. Creatures immune to nonlethal damage cannot gain this drawback.
 
@@ -479,7 +479,7 @@ Using magic saps your lifeforce. Using any sphere ability deals you 1 point of n
 
 Your magic requires heightened emotional states of mind to use. When subject to a non-harmless magical effect that invokes an emotion (such as fear effects, spells with the (emotion) descriptor, or charms such as Fear or Hostility) you are unable to use magic.
 
-#### Expensive Locus [Apoc]
+#### Expensive Locus
 
 Resting to regain your magic requires an increasingly expensive locus, requiring you to dedicate more and more of your wealth to sustaining your magical power. This locus, and the way you gain power from it can take multiple different forms depending on what is appropriate for the character concept; from setting up expensive runes and talismans to calibrate your astral self, requiring an expensive laboratory to process your material components, or simply sleeping on a dedicated pile of gold to get in touch with your draconic side.
 
@@ -487,17 +487,17 @@ Whenever you rest to regain your spell points, it must be with a locus with a co
 
 Using magic without your locus requires you to make a concentration check (DC 20 + 1/2 the caster level) to produce the desired effect. Failure means time (and any spell points) are spent, but no effect happens. If a locus is lost, stolen, or broken, the caster must create a new locus by securing the necessary items of the requisite monetary value and spending 8 hours bonding with it. At the GM’s discretion, however, another caster’s locus may be used instead.
 
-#### Extended Casting [Core]
+#### Extended Casting
 
 Your magic takes longer to use than normal. When using an ability gained from a sphere or talent, increase the casting time by one step: swift actions become move actions, move actions become standard actions, standard actions become full-round actions, full-round actions take 1 full round to complete, and 1-round actions take 1 minute to compete. This drawback counts as 2 drawbacks when determining the number of spell points gained.
 
-#### Fey-Infused Magic [Fey HB]
+#### Fey-Infused Magic
 
 Your magic is intrinsically linked to the realm of Faerie and shares its inhabitants aversion to iron. Any creature wearing light armor consisting of cold iron, steel or iron gains a +1 circumstance bonus to saving throws against sphere effects originating from you. Wearing medium armor increases this bonus to +2 and wearing heavy armor increases it to +3. Wielding a weapon made of cold iron increases this bonus by +1.
 
 When a creature under the effects of one of your sphere abilities takes damage from an iron or steel weapon, you must make a magic skill check against a DC of 11 + the attacker’s base attack bonus or have the effect suppressed for 1d6 rounds. Roll once for all active effects. This DC increases by 4 if the weapon is made from cold iron.
 
-#### Focus Casting [Core]
+#### Focus Casting
 
 Your magic requires you to use an item such as a wand, holy symbol, ring, or staff to create magic. Using magic without your focus requires you to make a concentration check (DC 20 + 1/2 the caster level) to produce the desired effect. Failure means time (and any spell points) are spent, but no effect happens. If a focus is lost, stolen, or broken, the caster must create a new focus by securing the necessary item and spending 8 hours bonding with it. At the GM’s discretion, however, another caster’s focus may be used instead.
 
@@ -509,11 +509,11 @@ Being disarmed, or having the weapon sundered counters any sphere abilities you 
 
 You can not take this drawback if you took the Focus Casting drawback.
 
-#### Incompatible Energies [S&P]
+#### Incompatible Energies
 
 The magic of your foes adversely affects yours to an extreme degree. When calculating your MSD, you use half your casting class levels instead of your full casting class levels. Whenever a spell you create is successfully dispelled, you cannot spend spell points for 1 round. In addition, if you possess the Alien Source boon, this drawback does not apply against other casters who draw from the same Alien Source as you.
 
-#### Innate Curse [Apoc]
+#### Innate Curse
 
 Your magic comes from a source that curses you, or your cursed condition is a side effect of your casting ability. You suffer the hindrance of a singular oracle curse, and do not get its benefit, nor the benefits that come with increased level. Use your magic skill bonus as your oracle level to determine any penalties from its hindrance. This curse is permanent and cannot be removed.
 
@@ -521,7 +521,7 @@ Not all curses are appropriate for this drawback, and the GM is the ultimate arb
 
 **Special:** If you already possess an oracle’s curse (or gain one later), then you retain this curse in addition to the other other curse, but each curse must be a different type of curse and provide different kinds of benefits (even if you don’t possess the curse mastery feat).
 
-#### Madness Mantra [Apoc]
+#### Madness Mantra
 
 Your magic fights against you for control. At the end of any round in which you spend 1 or more spell points you must succeed at a Will saving throw with a DC of 10 + 1/2 your magic skill bonus or enter into an enraged state at the beginning of your next turn. While enraged, you gain the antagonized condition, always treating the creature(s) closest to you as your antagonist(s).
 
@@ -535,11 +535,11 @@ When you attempt a Sense Motive check to end the antagonized condition, the skil
 
 On each round after the first, an antagonized creature may attempt a Sense Motive skill check as a swift action to realize the folly of its actions. This skill check is opposed by the antagonist's original antagonize skill check. If the creature succeeds on its Sense Motive skill check, the antagonized condition ends, but the creature suffers a -2 penalty on attack rolls and a -2 penalty to the saving throw DC of its abilities and any spells it casts for 1 minute. These penalties do not apply against the antagonist.
 
-#### Magical Signs [Core]
+#### Magical Signs
 
 Your magic is accompanied by a tell-tale sign; for example, your body glows brightly, the sound of tortured souls shriek as you cast, feelings of a deep chill affect all creatures within 30 ft. All nearby creatures know when you are using magic, as well as the nature of the magic used.
 
-#### Material Casting [Core]
+#### Material Casting
 
 Your magic requires the expenditure of specific materials: precious metals, rare components, etc. The exact nature of this material should be worked out with the GM, but as a rule of thumb, this should cost a silver piece worth of materials per caster level per ability used.
 
@@ -555,15 +555,15 @@ Your magic has a pacifying effect that can lull you to sleep. At the end of any 
 
 This counts as 2 drawbacks when determining the number of spell points gained
 
-#### Nature Warden [Fey HB]
+#### Nature Warden
 
 You are mystically bonded to a single notable location such as a cave, large tree, spring, or prominent stone and draw your magic from it. You must remain within a number of miles equal to your MSB to use your magic normally. Using magic outside this area requires you to make a concentration check (DC 20 + 1/2 the caster level) to produce the desired effect. Failure means time (and any spell points) are spent, but no effect happens. You may bond to a new site of the same general type with an 8 hour ritual.
 
-#### Painful Magic [Core]
+#### Painful Magic
 
 Your magic consumes you the more you rely on it. You must pass a Fortitude save (DC 10 + 1/2 the ability’s Caster Level) whenever you use magic, or be sickened for 1 round. If you use magic while sickened, you must pass a Fortitude save (DC 10 + 1/2 the ability’s Caster Level) or be nauseated for 1 round.
 
-#### Prepared Caster [Core]
+#### Prepared Caster
 
 You must prepare your magic beforehand to use it. After resting to regain spell points, you must assign each of your spell points to a sphere you possess. You cannot spend more spell points in a given sphere in a day than you have assigned to that sphere.
 
@@ -571,13 +571,13 @@ You must prepare your magic beforehand to use it. After resting to regain spell 
 
 Your magic requires intense amounts of concentration to use. When making a concentration check (such as to cast defensively or while taking damage), the DC increases by +10. You may increase the casting time by one step to take extra time focusing and negate this penalty.
 
-#### Skilled Casting [Core]
+#### Skilled Casting
 
 You must create your magic through singing, drawing, or some other activity. Your magic is tied to a particular Perform, Profession, or Craft skill (although with GM permission another skill may be substituted). You must succeed at a skill check to use any sphere ability. The DC of this skill check is 15 + the ability’s caster level. For every 2 points by which this skill check falls short of this DC, the ability manifests at -1 caster level. If this reduces the ability to a caster level below 0, the manifested ability fails and any spell points used are lost.
 
 A caster with Skilled Casting must be able to perform their skill to use their magic, which is similar to but not the same as possessing other drawbacks. For example, a caster who must draw to create magic must have at least one hand free, although unless he also possesses Somatic Casting he may do so while wearing heavy armor without a chance of arcane spell failure. Likewise, a caster who uses music to create magic must be able to speak, but unless he also possesses Verbal Casting he can do so quietly and not break stealth.
 
-#### Somatic Casting [Core]
+#### Somatic Casting
 
 You must gesture to cast spells—a process that requires you to have at least 1 hand unoccupied. When using magic, you cannot wear armor heavier than light without incurring a chance of arcane spell failure. You may select this drawback twice. If taken a second time, you cannot wear any armor or use a shield without incurring a chance of arcane spell failure.
 
@@ -587,15 +587,15 @@ Your magic takes a physical or mental toll on you that limits how quickly and ea
 
 You can not take this drawback if you took the Extended Casting drawback.
 
-#### Terrain Casting [Apoc]
+#### Terrain Casting
 
 Your magic draws upon the primal energy and nutrients of the terrain. Whenever you use a sphere talent or ability you must either spend an additional spell point or increase your casting time by one step, else your magic drains and corrupts your space and all adjacent squares. Terrain that has been blighted in such a manner prevents those who possess the Terrain Casting drawback from using sphere talents or abilities as if it were a dead magic zone. Areas that have had its nutrients drained are affected in different ways depending upon location (water may turn brackish or stagnant, while soil may become barren or salted); regardless of location, blighted areas will generally heal naturally after a year.
 
-#### Verbal Casting [Core]
+#### Verbal Casting
 
 You must speak in a loud, clear voice to cast spells. Using magic alerts all nearby hearing creatures to your presence and location, effectively breaking stealth. You cannot cast in an area of magical silence, or in any other situation where you are unable to speak clearly.
 
-#### Wild Magic [Core]
+#### Wild Magic
 
 Your magic is not entirely stable and can result in a variety of unwanted effects. Whenever you spend a spell point, there is a 10% chance an unexpected event happens alongside your magic. Roll as if you had activated a rod of wonder. Add that effect to those you produce with your magic. At the GM’s discretion, wild magic tables, or even tables of his own creation, may be added to the possible effects your magic can create.
 
@@ -623,7 +623,7 @@ Sphere-specific drawbacks that grant bonus feats instead of talents, such as Per
 
 ### Alteration
 
-#### Beast Soul [Core]
+#### Beast Soul
 
 You cannot bestow the Blank Form. You must select a talent that grants a form with the bonus talent gained through this drawback.
 
@@ -631,7 +631,7 @@ You cannot bestow the Blank Form. You must select a talent that grants a form wi
 
 You may not target yourself with shapeshift. You may not select this drawback if you possess the Lycanthropic drawback. You may not select the Lycanthropic drawback, once you have selected Flesh Warper.
 
-#### Lycanthropic [Core]
+#### Lycanthropic
 
 You can only target yourself with your shapeshift ability. You cannot gain the Mass Alteration nor Ranged Alteration talents.
 
@@ -679,7 +679,7 @@ Maintaining your companion’s presence requires concentration. You may not spen
 
 Your Conjuration sphere companions share a single pool of Hit Dice. The Hit Dice of all your companions combined is equal to your caster level (with a minimum of 1 Hit Die per companion). When you gain a caster level, you may choose which companion gains the additional Hit Die, but no single companion can have Hit Dice exceeding 2/3 your caster level. If this calculation would result in companion’s with less than 1 Hit Die, each companion instead has 1 Hit Die, but has their hit points reduced by half and take a -1 penalty on all d20 rolls. Calculate the companion’s Hit Dice prior to applying the effects of any companion template. You must take Extra Companion with the bonus talent gained from this drawback.
 
-#### Elongated Summoning [Core]
+#### Elongated Summoning
 
 Summoning a creature requires 1 minute of concentrated effort, rather than only a standard action.
 
@@ -711,7 +711,7 @@ You may only have a single Conjuration companion summoned at any time. Summoning
 
 ### Creation
 
-#### Down to Earth [Apoc]
+#### Down to Earth
 
 Your objects are all rooted to a surface and you cannot create objects in mid-air. All your creations must be created on a surface large enough to hold them. You gain the Created Momentum talent as the bonus talent from this drawback and may still create objects with momentum, but this does not allow the object to detach itself from a surface in the process of creation (meaning you can only target creatures that are on the surface where the created object is going to be).
 
@@ -725,11 +725,11 @@ You cannot use the alter ability. If you use the create ability of the Creation 
 
 You may only create or alter gaseous objects but not liquids, solids, plasmas, or any other state of matter. You gain Expanded Materials: Gaseous Generation as the bonus talent for this sphere-specific drawback. You lose the ability to create or alter vegetable matter and cannot select Expanded Materials: Classic Substances.
 
-#### Limited Creation [Core]
+#### Limited Creation
 
 Choose either alter or create. You cannot use this ability, nor take talents which augment this ability. You may still gain Expanded Materials if you choose not to be able to create objects.
 
-#### Material Focus [Core]
+#### Material Focus
 
 You may only create or alter objects of a single, special substance such as ice, cloth, bones, etc. You may choose iron or stone as your material, in which case you do not gain an extra magic talent from this drawback. You cannot take the Expanded Materials talent. You may choose shadowstuff as your material (you still receive the additional talent with this choice). Shadowstuff has hardness 5 and 10 hp per inch.
 
@@ -745,7 +745,7 @@ You may only create or alter water, ice, and steam. You lose the ability to crea
 
 ### Dark
 
-#### Black Spot [Apoc]
+#### Black Spot
 
 Your area of darkness is only a 5-ft. radius, and cannot be increased in any way. You cannot select talents that change the area of your darkness (such as Greater Darkness, Shifting Shadows, or Wall of Darkness). You must select a (darkness) talent as your bonus talent for this drawback. You cannot gain this drawback if you possess other drawbacks that would remove your ability to create darkness, such as the Meld into Dark or Penumbra drawbacks.
 
@@ -757,11 +757,11 @@ You’re adept at turning a target’s own shadow against them, but your ability
 
 Your magic draws on the interplay of darkness and light and the contrast of shadows rather than pure blackness. You may not use Dark sphere talents when you are positioned within lighting conditions of darkness or bright light, even if they were created by your own magic.
 
-#### Meld into Dark [Core]
+#### Meld into Dark
 
 You cannot create darkness, and you may only target yourself when granting a (meld) talent. You may only select (meld) talents and Quick Meld from the Darkness sphere. However, you may also use (meld) talents in all dim light and darkness, not just areas of your darkness.
 
-#### Penumbra [Apoc]
+#### Penumbra
 
 You cannot create darkness, and cannot select (darkness) talents. You must select the Dampen Light talent as your bonus talent for this drawback. You cannot gain this drawback if you possess other drawbacks that would alter or remove your ability to create darkness, such as the Black Spot or Meld into Dark drawbacks.
 
@@ -781,7 +781,7 @@ Rather than summon darkness from nothing, you draw upon your own shadow to produ
 
 The only actions undead you reanimate understand are “attack”, “fall” (causing them to fall prone as a free action), and “rise” (causing them to stand up from prone). While prone, they will still attack creatures within reach and will spend their move action to move 5 ft., but will not rise until commanded. If you do not direct your undead to attack a creature each round, they act as though confused (you are considered part of their “self”, but other allies are not). You may not select talents that increase your ability to communicate with your undead, such as Undead Whisperer or Master’s Presence. You must select Reanimated Warriors as the bonus talent gained through this drawback.
 
-#### Deathful Touch [Core]
+#### Deathful Touch
 
 You may use ghost strike as a melee touch attack, but not as a ranged touch attack. You can only make melee attacks with the Cryptic Strike talent. You cannot gain this drawback if you have selected ghost strike with the Necromantic Limit drawback.
 
@@ -789,7 +789,7 @@ You may use ghost strike as a melee touch attack, but not as a ranged touch atta
 
 You do not gain ghost strike and reanimate. You gain the Corpse Manipulation and Tomb of Flesh talents with the bonus talents granted by this drawback. Ghost strike and reanimate must be bought off separately.
 
-#### Necromantic Limit [Core]
+#### Necromantic Limit
 
 Choose either ghost strike or reanimate. You cannot use this ability, nor take talents which augment this ability.
 
@@ -801,15 +801,15 @@ Choose a creature type (other than undead) from the ranger favored enemies table
 
 ### Destruction
 
-#### Aligned Combatant [Core]
+#### Aligned Combatant
 
 Choose an end of the alignment spectrum that you possess (good, evil, lawful, or chaotic). Your destructive blast deals no damage to creatures who possess this alignment and full damage to creatures of the opposite alignment (evil for good, lawful for chaotic, etc.). Neutral creatures (those who possess neither your selected alignment nor its opposite) suffer half damage from your destructive blast.
 
-#### Destructive Touch [Core]
+#### Destructive Touch
 
 You may only make melee touch attacks with your destructive blast. It cannot be used as a ray attack. You may not select the Explosive Orb, Extended Range, or Guided Strike talents. If using the Energy Wall or Energy Sphere talent, the ability must begin in a square that is adjacent to you. If using the Rebuff talent, you can only protect yourself or an adjacent target with that ability.
 
-#### Energy Focus [Core]
+#### Energy Focus
 
 You may only make a destructive blast of a single energy type. You may not gain any blast type talents, except with the bonus talent gained from this drawback.
 
@@ -823,7 +823,7 @@ You may only make a destructive blast of a single shape. You may not gain any sh
 
 ### Divination
 
-#### Limited Divination [Core]
+#### Limited Divination
 
 Choose either sense or divine. You cannot use this ability, nor take talents which augment this ability.
 
@@ -831,7 +831,7 @@ Choose either sense or divine. You cannot use this ability, nor take talents whi
 
 When using divination talents or abilities to divine you can only penetrate solid objects made primarily out of one material category of your choice. Categories may include: earth (dirt and stone), flesh (living and dead), metal (ore and forged), or vegetable (plant-life and wood). You must select a (divine) talent with the bonus talent granted by this drawback.
 
-#### Hidden Magic [Core]
+#### Hidden Magic
 
 You do not gain the base divine ability to detect magic, nor the base sense ability to decipher magical text. You may still gain other senses through magic talents and gain the ability to detect other things (undead, charms, etc.) through the divine ability.
 
@@ -843,7 +843,7 @@ When using divination talents or abilities, you can only divine targets inside a
 
 ### Enhancement
 
-#### Bodily Enhancement [Core]
+#### Bodily Enhancement
 
 You cannot enhance equipment and objects with your enhancements, only creatures. You must choose an (enhance) talent with the bonus talent gained by this drawback.
 
@@ -875,7 +875,7 @@ You find your magic to be intoxicating; you suffer a -2 penalty to Will saves as
 
 Your enhancements are incredibly obvious to anyone paying attention. This can be due to anything from small sparks of magic jumping from the nostrils of an enhanced creature to an odd greasy sheen that coats anything you enhance. Regardless, any creature within 30 ft. knows that the creature or object is enhanced, and is considered to have automatically succeeded on a Spellcraft check to determine its effects.
 
-#### Personal Magics [Core]
+#### Personal Magics
 
 You may only target yourself and your own equipment with your enhance ability. You cannot take the Ranged Enhancement talent, and any magic (except for the Bestow Intelligence, Lighten, and Animate Object talents) bestowed on an object ceases to function when wielded by another creature.
 
@@ -895,11 +895,11 @@ Whenever you use an enhancement that targets a creature, you create a number of 
 
 You may not create word or consecration effects. You may only select (motif) talents and talents that augment (motif) effects, and must select a (motif) talent with the bonus talent gained from this drawback. You must already possess the Neutrality drawback to select this one. You cannot gain this drawback if you also have the Sanctified Body or Tongue of Ages drawbacks.
 
-#### Neutrality [Core]
+#### Neutrality
 
 You lack a strong connection to any alignment type. You cannot use the hallow word.
 
-#### Personal Fate [Core]
+#### Personal Fate
 
 You may only target yourself with your words and motifs.
 **Wiki Note:** Motifs were added in author errata.
@@ -966,7 +966,7 @@ You must take either Artisan Figments, Artisan Glamers or a (sensory) talent as 
 
 You are not a healer, you are a soldier, and life can’t be given before it is taken. You cannot use your Life sphere abilities without successfully attacking a worthy enemy first. You gain the Taste of Victory talent as your bonus talent for this drawback, but you can only use your Life abilities when Taste of Victory is triggered.
 
-#### Limited Restoration [Core]
+#### Limited Restoration
 
 Choose either restore or cure/invigorate. You cannot use this ability or abilities, nor take talents that only augment those listed abilities.
 
@@ -974,7 +974,7 @@ Choose either restore or cure/invigorate. You cannot use this ability or abiliti
 
 Your Life sphere abilities cannot be used directly on a creature. Instead, you have the ability to imbue a liquid with your Life sphere abilities. You must select the Water of Life talent with the bonus talent granted by this drawback, and you can only use your Life sphere abilities to imbue fluids, and not directly on creatures. You cannot gain the Ranged Healing talent. You can not take this drawback if you have the Glorious or Sympathetic drawback.
 
-#### Regenerate [Core]
+#### Regenerate
 
 You may only target yourself with your Life sphere abilities.
 
@@ -1012,7 +1012,7 @@ The night is dark and full of terrors, not the least of which is your inability 
 
 You cannot place glow effects on objects or creatures. You must select the Dancing Lights talent with the bonus talent gained from this drawback.
 
-#### Touch of Light [Core]
+#### Touch of Light
 
 You cannot cause objects to glow as a ranged touch attack. You cannot take Ranged Light. If you use the Area Glow talent, you must center the effect on yourself.
 
@@ -1020,7 +1020,7 @@ You cannot cause objects to glow as a ranged touch attack. You cannot take Range
 
 ### Mind
 
-#### Animal Shaman [Core]
+#### Animal Shaman
 
 You may affect animals and vermin with your charm effects, but not any other creature type. This does not grant a bonus talent.
 
@@ -1030,11 +1030,11 @@ Your mind-affecting magic acts more like a hammer than a scalpel, and produces o
 
 These side effects vanish without a trace when a target is no longer under the effect of one of your mind-affecting effects, making it incredibly obvious when you are influencing someone’s mind and when you are not. Whatever the nature of the signs, a person speaking to or observing a target so affected will recognize the creature’s signs with a DC 10 Perception check, and may know (either through personal history or a DC 10 Spellcraft check) that the target is under mental control. In addition, a DC 15 Sense Motive check will suggest mental coercion and allow someone to detect the enchantment at work, as will a DC 5 Sense Motive check for incredibly blatant mind-affecting effects (such as the Enthrall or Mind Control talents or the Dominate Person spell).
 
-#### Empath [Core]
+#### Empath
 
 You cannot plant suggestions into a target’s mind, as the Mind sphere base suggestion charm. You must select a (charm) talent with the bonus talent granted by this drawback.
 
-#### Inward Focus [Apoc]
+#### Inward Focus
 
 You cannot use charm effects. You may only select (cognition) talents and talents that augment them, and must select a (cognition) talent with the bonus talent gained from this drawback.
 
@@ -1054,11 +1054,11 @@ The range of your (charm) talents decreases from close to touch.
 
 ### Nature
 
-#### Limited Nature [Apoc]
+#### Limited Nature
 
 Whenever you would gain a geomancing package, you gain only a single base ability of that package. For example, if you have the plantlife package, you gain only entangle, growth, or pummel. You cannot take this drawback if you took the Nature Spirit drawback.
 
-#### Nature Spirit [Core]
+#### Nature Spirit
 
 You cannot use geomancing powers, only (spirit) talents. You cannot gain talents that augment the geomancing power, but you may select any (spirit) talent, even if it would normally require a geomancing package you do not possess. You must select a (spirit) talent with the bonus talent granted by this drawback.
 
@@ -1066,45 +1066,45 @@ You cannot use geomancing powers, only (spirit) talents. You cannot gain talents
 
 ### Protection
 
-#### Absorbing [Abj. HB]
+#### Absorbing
 
 Your aegises work by absorbing attacks and energy rather than deflecting it away. You do not gain the Deflection aegis. You must use the talent gained with this drawback to acquire an (aegis) talent.
 
 You can not take this drawback if you have the Limited Protection (aegis) drawback.
 
-#### Aligned Protection [Core]
+#### Aligned Protection
 
 Choose an end of the alignment spectrum that you possess (good, evil, lawful, or chaotic). Your wards and aegis only provide protection against creatures of the opposite alignment (evil for good, lawful for chaotic, etc.). Creatures who possess your selected alignment or are neutral (those who possess neither your selected alignment nor its opposite) are not stopped by your barriers, hindered by your wards, and your aegis provides no protection against attacks that originate from those creatures.
 
-#### Circle of Symbols [Abj. HB]
+#### Circle of Symbols
 
 Your wards consist of circles of glowing symbols and runes with no true physicality. You do not gain the barrier ward. You must use the bonus talent gained from this drawback to select a (ward) talent.
 
 You can not take this drawback if you have the Limited Protection (ward) drawback.
 
-#### Crystalline [Abj. HB]
+#### Crystalline
 
 Your aegis abilities create a physical lattice of crystal around the creature bearing the aegis. It can not be removed without destroying it, and any part that is broken off disappears. A Spellcraft check against a DC equal to 15 + 1/2 your caster level can identify what the lattice is. This requires some means of perceiving magic (such as the Divination sphere’s divine ability).
 
 The lattice can be sundered as if it were a piece of armor. It has a hardness equal to 5 + 1 for every 4 caster levels, and hit points equal to 4 + your caster level. In addition, it provides no defense from touch attacks by incorporeal creatures or light-based attacks. You must use the talent gained with this drawback to acquire an (aegis) talent. You can not take this drawback if you have the Limited Protection (aegis) drawback.
 
-#### Limited Protection [Core]
+#### Limited Protection
 
 Choose either ward or aegis. You cannot use this ability, nor gain talents that augment it.
 
-#### Luminous [Abj. HB]
+#### Luminous
 
 Your Protection sphere abilities take on the form of an aura or field of light. The light is not powerful enough to be used as a light source, but makes the presence of the protection ability obvious to anyone within 30 feet. Creature’s wearing an aegis you created can not benefit from stealth, invisibility, or concealment. Effects that dispel light (such as Dark effects) dispel your Protection sphere abilities as well.
 
-#### Protected Soul [Core]
+#### Protected Soul
 
 You cannot target other creatures with your aegis, only yourself. You cannot select this drawback if you choose aegis as your lost ability with the Limited Protection drawback.
 
-#### Second Skin [Abj. HB]
+#### Second Skin
 
 Your aegis not only surrounds creatures, it enchants their skin directly. You may only apply an aegis to a creature who is wearing no armor. You must use the bonus talent gained from this drawback to buy an (aegis) talent. You may not take this drawback if you have the Protected Soul drawback.
 
-#### Shielding [Abj. HB]
+#### Shielding
 
 Your aegis takes the form of an energy shield that you use to intercept attacks. You can not create any aegis that protects a creature from the environment (such as Breathless), and creatures lose the benefit of your aegis against attacks that would bypass a shield or when they are flat-footed.
 
@@ -1114,7 +1114,7 @@ You must use the bonus talent gained from this drawback to take the Shared Aegis
 
 ### Telekinesis
 
-#### Limited Telekinesis [Core]
+#### Limited Telekinesis
 
 You may only use your telekinesis on one type of material (water, metal, stone, etc.) chosen when you gain this drawback.
 
@@ -1130,7 +1130,7 @@ You cannot use the slow alter time effect. You must select a (time) talent with 
 
 You cannot use the haste alter time effect. You must select a (time) talent with the bonus talent gained through this drawback.
 
-#### Personal Time [Core]
+#### Personal Time
 
 You may only target yourself when using alter time abilities that target creatures. You cannot gain the Ranged Time or Group Time talents.
 
@@ -1138,7 +1138,7 @@ You may only target yourself when using alter time abilities that target creatur
 
 ### War
 
-#### Battle Manipulation [Core]
+#### Battle Manipulation
 
 You cannot create totems, but you may still use (rally) talents. You may target a creature with your (rally) talents, treating all creatures within 30 ft of you as if they were within the area of one of your totems. You must select a (rally) talent with the bonus talent gained through this drawback.
 
@@ -1160,7 +1160,7 @@ You do not gain Totem of War. You must select a (mandate) talent or a (momentum)
 
 You can not take this drawback if you took the Battle Manipulation drawback, or any drawback that causes you to lose Totem of War.
 
-#### Solo Combatant [Core]
+#### Solo Combatant
 
 You cannot target other creatures with your (rally) talents, only yourself. You must select a (rally) talent with the bonus talent gained through this drawback.
 
@@ -1174,7 +1174,7 @@ You can not take this drawback if you took the Battle Manipulation drawback.
 
 ### Warp
 
-#### Bender [Core]
+#### Bender
 
 You cannot teleport, you may only bend space. You must select a (space) talent with the bonus talent gained through this drawback.
 
@@ -1182,11 +1182,11 @@ You cannot teleport, you may only bend space. You must select a (space) talent w
 
 You cannot teleport creatures, only objects. You must select Teleport Object with the bonus talent you gain from this drawback. You cannot gain this drawback if you have the Bender drawback.
 
-#### Limited Warp [Core]
+#### Limited Warp
 
 You may only teleport when within an area that meets a specific condition and can only choose a destination that also matches that condition. Choose one of the following conditions or speak with your GM about finding another appropriate one: you can only teleport to and from areas of dim light or darkness; you can only teleport to and from a body of water; you can only teleport to and from fire; you can only teleport to and from a living tree. You cannot gain this drawback if you possess the Bender drawback.
 
-#### Personal Warp [Core]
+#### Personal Warp
 
 You may only target yourself with your teleport ability. You cannot gain the Unwilling Teleport or Group Teleport talents. You cannot gain this drawback if you possess the Bender drawback.
 
@@ -1226,7 +1226,7 @@ You cannot place your mantle on other creatures. When you take this drawback, yo
 
 Boons are the opposite of drawbacks: instead of adding limitations and requirements to a caster’s magic, they add bonuses and benefits. A caster must possess 2 general drawbacks for each boon gained. Drawbacks used to purchase boons in this way are not counted toward bonus spell points.
 
-#### Alien Source [S&P]
+#### Alien Source
 
 You draw your magic from an unusual location, such as technology or an alternate matrix of magic (the specifics of this source should be determined by the player and GM together). Those who do not understand the mechanics of your powers struggle to resist them. Casters take a -2 penalty on any attempts to counterspell your abilities. Spell resistance against your abilities is reduced by 2. In addition, you gain a bonus to MSD equal to half your character level against effects which would suppress your magic (such as the Spell Ward talent of the Protection sphere) and do not take the penalty to MSK from Incompatible Energies when resisting such effects. These abilities can be ignored by a caster if they possess the same Alien Source as you from this boon, the Harmonic Counter feat, or a certain magic sphere that you possess (the magic sphere is chosen by you at the time you select this boon).
 
@@ -1242,7 +1242,7 @@ You gain the Conjuration sphere (or the Extra Companion talent if you already po
 
 A caster must possess the focus drawback to select this boon. You may gain a dragon companion as outlined in the Halfling Dragonrider racial archetype (see The Player's Guide to Skybourne, by Drop Dead Studios), but this boon instead costs 4 drawbacks.
 
-#### Deathful Magic [Core]
+#### Deathful Magic
 
 The closer you are to death, the more powerful your magic. When you are at half hit points or less, you gain a +1 temporary bonus to your caster level. When you are at 1/4th your total hit points or less, this temporary bonus increases to +2.
 
@@ -1250,7 +1250,7 @@ The closer you are to death, the more powerful your magic. When you are at half 
 
 You gain a +1 bonus to your caster level whenever at least 3 creatures under the effects of your sphere abilities are within 30 ft. of you. This bonus increases to +2 if there are at least 6 such creatures within 30 ft.
 
-#### Easy Focus [Core]
+#### Easy Focus
 
 When maintaining a sphere ability through concentration, you only need to spend a move action to maintain concentration instead of a standard action. This does not decrease the sphere ability’s casting time, only the action used to maintain concentration.
 
@@ -1258,19 +1258,19 @@ When maintaining a sphere ability through concentration, you only need to spend 
 
 You have come to mentally embody some substance in spirit. Select some substance to which you have a mental or philosophical kinship, and magic that can only affect certain substances or work through certain substances can still affect you if you wish to be so affected. This doesn’t allow you to use talents or abilities that only affect items of a particular nature on yourself, but allows you to use abilities that could reasonably apply to you apart from a material limitation. For instance, you couldn’t use the Nature sphere to use Towering Growth on yourself via Embodiment (trees), but you could use Limited Telekinesis (Ice) to move yourself. Similarly, having Embodiment (trees) would allow another with Limited Warp (trees) to teleport to your location if you knew they wished to and allowed it to happen.
 
-#### Empowered Abilities [Core]
+#### Empowered Abilities
 
 Your magic grows in strength the more you use it. If your current number of spell points is half your total spell points or less, you gain a temporary +1 bonus to your caster level. If your current number of spell points is 0, the temporary bonus to your caster level becomes +2.
 
-#### Fortified Casting [Core]
+#### Fortified Casting
 
 You may use your Constitution as your casting ability modifier if it is higher than your usual casting ability modifier. You must possess the Draining Casting drawback to select this boon.
 
-#### Metamagic Expert [Core]
+#### Metamagic Expert
 
 Whenever you augment a sphere ability with a metamagic feat, that sphere ability manifests at +1 caster level.
 
-#### Overcharge [Core]
+#### Overcharge
 
 You may overcharge your magic, giving yourself great power at the cost of your own strength. Whenever you use a sphere ability, you may give yourself a +2 bonus to your caster level for that ability, but you become fatigued afterward. If you are already fatigued, you become exhausted. If you are exhausted, you collapse to the ground unconscious for 1d4 rounds. Creatures immune to fatigue cannot benefit from this boon.
 

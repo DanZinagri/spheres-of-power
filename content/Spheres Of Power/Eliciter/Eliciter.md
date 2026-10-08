@@ -190,7 +190,7 @@ Once the creature has attacked the designated target, it loses the eliciter’s 
 
 **Master: Dread:** The eliciter’s touch of fear causes targets who fail their save to become panicked for a number of rounds equal to his casting ability modifier. Panicked creatures drop everything held, run away at top speed, and cower if attacked.
 
-### Futility [RW HB]
+### Futility
 
 The eliciter wields futility, the emotion of failure, ineptitude, and incompetence, which many lesser creatures are afflicted with when faced by the vastness of the cosmos.
 
@@ -328,7 +328,7 @@ The following feats are particularly appropriate or useful for eliciters.
 
 **Benefit:** If you make a successful melee attack against an opponent, in addition to dealing your weapon damage, you can spend a swift action to deliver the effects of an emotion power delivered by touch.
 
-#### Emotional Conduit [Gen. HB]
+#### Emotional Conduit
 
 **Prerequisites:** Leadership sphere, (cohort) package, emotion class feature.
 
@@ -400,7 +400,7 @@ When using Soul-Piercing Gaze, it is difficult for observers to detect the use o
 
 The following magical items are especially appropriate for eliciters.
 
-#### Ardent Ring [TS:WAT]
+#### Ardent Ring
 
 **Aura** moderate Mind; **CL** 8th
 **Slot** ring; **Price** 10,000 gp (lesser) or 24,000 gp (greater); **Weight** 1/2 lbs.
@@ -410,7 +410,7 @@ These elaborate rings come in a variety of styles, each of which helps the weare
 **Construction Requirements**
 Craft Apparatus, Mind sphere (Expanded Charm, Powerful Charm), creator must have the emotions ability, creator must have the emotion powers being added to the ring; **Cost** 5,000 gp (lesser) or 12,000 gp (greater)
 
-#### Hypnotizing Pendant [TS:WAT]
+#### Hypnotizing Pendant
 
 **Aura** moderate Mind; **CL** 10th
 **Slot** none; **Price** 25,000 gp; **Weight** 1 lb.
@@ -420,7 +420,7 @@ This slender golden pendant is eye-catching and easy to follow as it moves. Thre
 **Construction Requirements**
 Craft Marvelous Item, Mind sphere (Subtlety), creator must have the hypnotism ability; **Cost** 12,500 gp
 
-#### Snap Out Of It [TS:WAT]
+#### Snap Out Of It
 
 **Aura** faint Mind; **CL** 5th
 **Slot** hands; **Price** 16,000 gp; **Weight** 1/10 lbs.

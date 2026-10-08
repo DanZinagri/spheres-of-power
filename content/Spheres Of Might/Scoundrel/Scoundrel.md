@@ -31,11 +31,11 @@ You may make a melee touch attack against a creature as a swift action; if this 
 
 As long as you have an ally adjacent to you, you can spend a swift action to have that ally provide you with soft cover until the beginning of your next turn, even if the ally providing soft cover moves. You can use this soft cover to make a Stealth check.
 
-#### Brazen Snatcher [utility] [LotS]
+#### Brazen Snatcher [utility]
 
 You may use your steal Combat Maneuver Bonus in place of your Sleight of Hand bonus when attempting Sleight of Hand checks.
 
-#### Clever Fox’s Heist [BTH]
+#### Clever Fox’s Heist
 
 You channel the fox, weaving expert thievery with grace. You may perform the dirty trick or steal combat maneuver as an attack of opportunity. You cannot apply (trick) talents to a combat maneuver performed this way unless you expend martial focus or spend an additional attack of opportunity.
 
@@ -45,7 +45,7 @@ Whenever you successfully perform a dirty trick or steal combat maneuver as an a
 
 **Special:** If you would be granted an attack of opportunity against a target because of a dirty trick or steal combat maneuver you performed, such as a (trick) causing the target to provoke an attack of opportunity, you may not use this talent to perform a dirty trick or steal maneuver as an attack of opportunity.
 
-#### Combat Hustle [Apoc]
+#### Combat Hustle
 
 *Source: [Tandem Talents](https://www.drivethrurpg.com/product/282809/Spheres-Apocrypha-Tandem-Talents?affiliate_id=549120)*
 
@@ -55,7 +55,7 @@ So long as you have martial focus, when you attempt a dirty trick or steal comba
 
 Whenever a creature within your natural reach makes an attack against you with a manufactured melee weapon, you can expend your martial focus as an immediate action to perform a steal combat maneuver against that creature to attempt to disarm them of the weapon being used for the attack before the attack resolves, although any bonuses the target possesses against disarm checks, such as wearing a locked gauntlet, apply to their CMD against this maneuver.
 
-#### Crouching Tiger (stance) [Youxia HB]
+#### Crouching Tiger (stance)
 
 While in this stance, whenever a creature within reach misses you with a melee attack, you may expend an attack of opportunity to perform a dirty trick or steal maneuver against that creature as a free action that can be taken outside of your normal turn. You may not use this talent in conjunction with (deflect) talents or any other ability that would grant you an attack or combat maneuver due to a missed attack against you.
 
@@ -75,15 +75,15 @@ Whenever you successfully perform a dirty trick combat maneuver against an unawa
 
 Whenever you successfully perform a Steal or Dirty Trick maneuver against an opponent within your reach, you may make a Sleight of Hand check against their CMD. If successful, the opponent is entangled until the start of your next turn, and you may spend an immediate action to move to any other unoccupied space adjacent to the target creature and regain your martial focus.
 
-#### Forgettable Theft [LSP]
+#### Forgettable Theft
 
 Whenever you successfully steal an object from an opponent with the steal combat maneuver, the opponent must make a successful Will saving throw or forget that they owned the stolen object for 1 minute. If the opponent is presented with evidence of their previous ownership of the object (such as the object having their name on it or being reminded of their ownership), they immediately gain an additional saving throw. When you have at least 10 ranks in Sleight of Hand, this effect instead lasts for 1 hour, and the creature must make an additional saving throw at the end of its duration or completely forget that they owned the stolen object.
 
-#### Hidden Blade [utility] [High. HB]
+#### Hidden Blade [utility]
 
 As part of the same action made to sheathe a light weapon, you may attempt a Sleight of Hand check to conceal or hide the weapon, which is made against the Perception checks of creatures observing or frisking you.
 
-#### Humiliating Trick [LSP]
+#### Humiliating Trick
 
 Whenever you successfully perform a dirty trick combat maneuver, the target of your dirty trick takes a -5 penalty to Diplomacy checks and a -2 penalty to damage rolls for 1 minute, although the penalty to damage rolls can be removed in the same action required to remove the effects of the dirty trick. In addition, if that creature fails a Diplomacy check, they are treated as though they had failed by 10 or more. When you have at least 10 ranks in Sleight of Hand, these penalties are doubled and its duration is increased to 10 minutes.
 
@@ -91,7 +91,7 @@ Whenever you successfully perform a dirty trick combat maneuver, the target of y
 
 You gain a +1 competence bonus to your dirty trick and steal combat maneuver checks, as well as to your CMD vs. those maneuvers. This bonus increases by +1 for every 4 ranks in Sleight of Hand you possess. This bonus does not stack with the bonus to these maneuvers provided by the Improved or Greater Dirty Trick or Improved or Greater Steal feats. **Associated Feats:** Improved Steal, Improved Dirty Trick.
 
-#### Lingering Slight [Apoc]
+#### Lingering Slight
 
 *Source: [Spheres Apocrypha: Debilitating Talents](https://www.drivethrurpg.com/product/304600/Spheres-Apocrypha-Debilitating-Talents?affiliate_id=549120)*
 
@@ -101,7 +101,7 @@ Whenever you successfully perform a dirty trick combat maneuver against a creatu
 
 Creatures no longer gain a +5 (or higher) bonus to their CMD when you attempt to steal secured items (such as cloaks, pouches, or sheathed weapons) and you may use a steal combat maneuver in place of a disarm combat maneuver (if you would receive a bonus to disarm checks, they apply to steal checks made with this talent). If you have at least 10 ranks in Sleight of Hand, you can attempt steal checks against closely worn items (except for armor) with a -10 penalty on your combat maneuver check.
 
-#### Meddling Mark [utility] [LotS]
+#### Meddling Mark [utility]
 
 A creature affected by your marked target ability takes a penalty to Appraise and Sense Motive checks equal to the penalty to Perception checks from your marked target ability.
 
@@ -113,11 +113,11 @@ Whenever you attempt a dirty trick or steal combat maneuver, you may select one 
 
 Whenever you provoke an attack of opportunity due to leaving a creature’s threatened square, you gain a dodge bonus to your AC equal to 1/4 your ranks in Sleight of Hand (minimum 1). If an attack of opportunity provoked in this way misses you, you can expend an attack of opportunity to choose to redirect the attack to a creature within the attacker’s reach (other than the attacker themselves), adding a bonus to the attack roll equal to the dodge bonus granted by this talent.
 
-#### No Honor Among Thieves [High. HB]
+#### No Honor Among Thieves
 
 You can always take 10 on Perception checks made against Sleight of Hand checks made within 10 feet. The range of this talent increases by 5 feet per 2 Sleight of Hand ranks you possess. In addition, creatures who successfully use the steal maneuver against you become battered for 1 round.
 
-#### Opportune Draw [High. HB]
+#### Opportune Draw
 
 Whenever you succeed at a dirty trick or steal combat maneuver, you may immediately sheathe your weapon as a free action.
 
@@ -127,15 +127,15 @@ In addition, you may threaten with a hidden weapon as long as you have enough fr
 
 As long as you have martial focus, creatures affected by a dirty trick combat maneuver you perform must spend a standard action to remove the effects of your dirty trick. **Associated Feat:** Greater Dirty Trick.
 
-#### Ranged Mark [LSP]
+#### Ranged Mark
 
 You can use the marked target ability of the Scoundrel sphere at a range of close.
 
-#### Steal Confidence [High. HB]
+#### Steal Confidence
 
 Once per round, as part of the same action used to draw a hidden weapon, you may attempt a feint in combat using Sleight of Hand instead of Bluff. Other feats and abilities that affect a feint still apply to your feint. **Associated Feat:** Sly Draw
 
-#### Subtle Poisoner [High. HB]
+#### Subtle Poisoner
 
 Once per round, as part of the same action used to draw a hidden weapon, you can apply poison to the weapon. To do so, you must already have the poison in hand and must succeed at a DC 20 Sleight of Hand check. Success means the dose of poison is expended and you poison the weapon without drawing attention to your act. Failure means any creatures present can immediately attempt opposed Perception checks to notice your poisoning attempt.
 
@@ -149,7 +149,7 @@ Whenever you successfully perform a steal combat maneuver, you may replace what 
 
 Whenever you successfully confirm a critical hit against a creature, you may expend your martial focus to attempt a dirty trick combat maneuver against that creature as an immediate action, gaining a circumstance bonus on your combat maneuver check equal to the critical multiplier of the weapon that scored the critical hit.
 
-#### Vagabond Nick (stance) [Youxia HB]
+#### Vagabond Nick (stance)
 
 While in this stance, whenever you successfully use a dirty trick or steal combat maneuver against a creature, you also deal damage equal to 1/2 your ranks in Sleight of Hand + your practitioner modifier. At 10 ranks in Sleight of Hand, whenever you deal damage with this stance, you can move up to half your speed (this movement does not provoke attacks of opportunity from creatures damaged by this talent).
 
@@ -177,7 +177,7 @@ Whenever you successfully perform a dirty trick combat maneuver, you may expend 
 
 Whenever you successfully perform a steal or dirty trick combat maneuver, you can attempt a reposition combat maneuver against the target of the successful steal or dirty trick as a free action that does not provoke attacks of opportunity.
 
-#### Flustering Antics (trick) [Apoc]
+#### Flustering Antics (trick)
 
 *Source: [Spheres Apocrypha: Debilitating Talents](https://www.drivethrurpg.com/product/304600/Spheres-Apocrypha-Debilitating-Talents?affiliate_id=549120)*
 
@@ -191,7 +191,7 @@ When you successfully perform a steal combat maneuver against a target, you may 
 
 As long as you have martial focus, you may attempt a dirty trick combat maneuver against a creature within 15 ft. of yourself, +5 ft. per 4 ranks in Sleight of Hand you possess. For every 10 ft. you are from a creature, you take a -2 penalty on your combat maneuver check.
 
-#### Savage Tricks (trick) [Apoc]
+#### Savage Tricks (trick)
 
 *Source: [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)*
 
@@ -210,7 +210,7 @@ At 5 ranks in Sleight of Hand, you may expend your martial focus as a free actio
 
 **Associated Feat:** Dirty Trick Master.
 
-#### Swipe (trick) [DRS]
+#### Swipe (trick)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -224,7 +224,7 @@ Whenever you successfully perform a steal combat maneuver the target must make a
 
 # Legendary Talents
 
-#### Catnapping (trick) [Catgirl HB]
+#### Catnapping (trick)
 
 You quick eyes often lead your deft hands into picking up a small, purring companion. Often one that doesn’t belong to you.
 
@@ -238,7 +238,7 @@ A grapple combat maneuver performed and maintained using this talent is unique; 
 
 **Note:** There is normally no check to hide a creature on your person; even a familiar stored away in a satchel would need to attempt checks to be hidden. For the purposes of this talent, a character may identify that there is a creature hidden on the target’s person with a Perception check (DC 10 + the target’s Sleight of Hand bonus), such as inside a satchel or coat pocket.
 
-#### Devastating Tricks (trick) [Apoc]
+#### Devastating Tricks (trick)
 
 *Source: [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)*
 
@@ -261,7 +261,7 @@ Whenever you use the Savage Tricks talent to inflict a greater condition upon a 
 
 Whenever you successfully perform a dirty trick combat maneuver, the effects of that dirty trick are treated as a curse with a caster level equal to your ranks in Sleight of Hand, and a spell level equal to 1/2 your ranks in Sleight of Hand (maximum 9th) for the purposes of being able to remove it. This does not extend the duration of the dirty trick’s effect. A creature may only be cursed by this talent once per day. This is a supernatural effect.
 
-#### Hot Pocket (trick) [Jester's HB]
+#### Hot Pocket (trick)
 
 **Prerequisites:** Sleight of Hand 10 ranks, Scoundrel sphere.
 

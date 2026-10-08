@@ -85,7 +85,7 @@ R Sense Motive and Knowledge (geography) in place of redundant Disable Device an
 
 **Adroit Bonus Skill Talent:** Faction sphere or the Artifice sphere (Inspiring Composition) talent.
 
-### Astronomer [DRS]
+### Astronomer
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -120,7 +120,7 @@ R Climb in place of redundant Acrobatics skill, * increased class skill bonus to
 
 **Adroit Bonus Skill Talent:** Bluster sphere or the Navigation sphere (Fleet Movement) talent.
 
-### Cantor [DRS]
+### Cantor
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -137,7 +137,7 @@ R Appraise and Knowledge (history) in place of redundant Diplomacy and Knowledge
 
 **Adroit Bonus Skill Talent:** Occultism sphere or Rallying Tune (Performance sphere).
 
-### Carpenter [DRS]
+### Carpenter
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -154,7 +154,7 @@ R Climb and Knowledge (local) in place of redundant Appraise and Heal.
 
 **Adroit Bonus Skill Talent:** Adept Laborer (Vocation sphere) or Reinforce Material (Artifice sphere).
 
-### Charmer [DRS]
+### Charmer
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -188,7 +188,7 @@ R Stealth in place of redundant Knowledge (history), * increased class skill bon
 
 **Adroit Bonus Skill Talent:** Communication sphere or the Performance sphere (Pleasant Serenade (lyric) or A Gilded Tower (act)) talent.
 
-### Chef [DRS]
+### Chef
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -221,7 +221,7 @@ R Knowledge (local) in place of redundant Knowledge (history), * increased class
 
 **Adroit Bonus Skill Talent:** Infiltration sphere or the Investigation sphere (Ascertain Activities) talent.
 
-### Ensouled Muscle [DRS]
+### Ensouled Muscle
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -240,7 +240,7 @@ R Knowledge (religion) in place of redundant Escape Artist.
 
 **Adroit Bonus Skill Talent:** Body Control sphere or Envessel (Occultism sphere).
 
-### Fixer [DRS]
+### Fixer
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -399,7 +399,7 @@ R Knowledge (local) in place of redundant Heal skill.
 
 **Adroit Bonus Skill Talent:** Investigation sphere (Unorthodox Methods alternate start, choosing the Assess Physicality or Examine Damage talent), or the Herbalism sphere (any one (remedy) talent).
 
-### Rural Doctor [DRS]
+### Rural Doctor
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -435,7 +435,7 @@ R Diplomacy in place of redundant Disguise skill.
 
 **Adroit Skill Talent:** Communication sphere or the Subterfuge sphere (Community Contacts) talent.
 
-### Sentry [DRS]
+### Sentry
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -563,7 +563,7 @@ R Knowledge (local) in place of redundant Stealth.
 
 **Adroit Bonus Skill Talent:** Body Control sphere or the Infiltration sphere (Frantic Escape) talent.
 
-### Voice of the Land [DRS]
+### Voice of the Land
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 

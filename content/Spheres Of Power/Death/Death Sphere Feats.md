@@ -29,7 +29,7 @@ When thunder rolls and lightning cracks, your minions rise.
 
 **Benefit:** When you use control weather to create or control Precipitation of severity 4 or more, you may choose to spend 2 additional spell points. If you do, you may reanimate any number of corpses within the area of controlled weather each round as a move action without paying the base ability spell point cost. Your Hit Dice limits apply to the total number you may reanimate with this ability, and the reanimated undead only last as long as your control weather is creating or controlling Precipitation of at least severity level 4.
 
-#### Blessed Necromancy (Dual Sphere) [DbH]
+#### Blessed Necromancy (Dual Sphere)
 
 Your power over the dead extends to influence over their destiny.
 
@@ -79,7 +79,7 @@ You can cause a corpse to explode like a literal bomb.
 
 When you deal damage to a creature with the Bleeding Wounds ghost strike, you may spend a spell point as a move action to target that creature with blood control. If you possess both Mass Blood Magic and Mass Death Magic talents, you may target a number of creatures affected by the ghost strike up to the maximum allowed by Mass Control.
 
-#### Deadcaller [Gravecaller's HB]
+#### Deadcaller
 
 The otherworldly are called like the departed, for little distinguishes the transient soul.
 
@@ -97,7 +97,7 @@ Weakened bodies make for easy targets for your death effects.
 
 **Benefit:** Creatures that are fatigued or exhausted take a -2 penalty on saving throws against death effects originating from you.
 
-#### Extradimensional Gullet (Combat) [Alienist HB]
+#### Extradimensional Gullet (Combat)
 
 **Prerequisites:** Swallow whole, Alteration sphere (Serpentine Transformation (transformation)), or Death sphere (Tomb Of Flesh); Warp sphere (Extradimensional Room (space)).
 
@@ -125,7 +125,7 @@ You can make ghost strikes in a variety of configurations.
 
 **Benefit:** You can apply (blast shape) talents to your ghost strikes as if they were destructive blasts. They still count as a ghost strike for all purposes, and they use your caster level for the Death sphere to determine all parameters (range, area, etc.). If the ghost strike does not allow a saving throw, your target is allowed a Will save to negate its effects.
 
-#### Lifebound Auspician [Gravecaller's HB]
+#### Lifebound Auspician
 
 You bend the forces of the cosmos to the heartbeat of mortality.
 **Prerequisites:** Fate sphere; Death sphere or Life sphere; caster level 3rd.
@@ -153,7 +153,7 @@ When you reanimate a body, you can grant it magical enhancements for a short tim
 
 **Benefit:** When you reanimate a corpse or corpses, you can apply an enhancement to them as part of the same action. Enhancements that require additional spell points must have that cost paid as well. This enhancement remains in effect as long as the undead is not destroyed, and cannot be dispelled separately, though neither Permanent Undead nor Sustained Necromancy can extend the duration of these enhancements past the base duration of reanimate.
 
-#### Parts And Pieces (Dual Sphere) [Gravecaller's HB]
+#### Parts And Pieces (Dual Sphere)
 
 “Arms and legs make perfectly acceptable furniture, minions, and anything in between.” – Kul’thiran, Master Necrotaxidermist
 
@@ -197,7 +197,7 @@ When the duration expires (assuming you were not destroyed while a fast zombie),
 
 You must have at least one round of rage remaining to use this ability, and you can only use this ability once per day.
 
-#### Soul Seer [Archmagi's HB]
+#### Soul Seer
 
 **Prerequisites:** Death sphere, caster level 5th.
 
@@ -207,7 +207,7 @@ If you possess the Gravetongue talent, you gain the benefits of Gravetongue as a
 
 If you possess the Summon Spirit talent, you no longer suffer negative energy levels when a spirit succeeds against your summoning. Additionally, if you have access to a creature’s corpse, you no longer need to summon their spirit in order to ask questions of them, although you must still spend 3 spell points and an hour communicating with their spirit.
 
-#### Strange Corpsecraft [BaP]
+#### Strange Corpsecraft
 
 **Prerequisites:** Death sphere (Expanded Necromancy), caster level 3rd.
 
@@ -273,7 +273,7 @@ Your animal companions serve you beyond the grave.
 
 If you possess Expanded Necromancy, you may make your animal companion one of the options available through that talent at no extra cost.
 
-#### Versatile Feeding [Gravecaller's HB]
+#### Versatile Feeding
 
 You have learned the art of funneling necromantic power between yourself and your minions.
 

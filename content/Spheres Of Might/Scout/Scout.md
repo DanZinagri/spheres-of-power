@@ -25,7 +25,7 @@ As a swift action, you may identify a creature’s weaknesses (DC 10 + creature�
 
 Whenever you move at least 10 ft. in a round and begin and end your turn in cover or concealment, you gain a competence bonus to Stealth checks equal to 1/2 your ranks in Stealth (minimum 1) for one round. You must end your movement in a different square than the one you started your turn to receive this benefit. If you use the Sniper function of the Stealth skill, the penalty to Stealth checks is reduced by -10 (to a minimum of 0).
 
-#### Advisory Scout [Apoc]
+#### Advisory Scout
 
 *Source: [Tandem Talents](https://www.drivethrurpg.com/product/282809/Spheres-Apocrypha-Tandem-Talents?affiliate_id=549120)*
 
@@ -33,11 +33,11 @@ You may scout a creature as a standard action, simultaneously scouting the creat
 
 **Author's Note:** Advisory Scout shares the benefits of "passive" Scout sphere talents, such as Find Gap and Identify Rhythms. This talent does not share Scout sphere talents which grant active abilities against scouted targets (such as Target Weakness) or other non-Scout sphere abilities which would augment the scout ability.
 
-#### Battlefield Stealth [Alienist HB]
+#### Battlefield Stealth
 
 Whenever you or an ally would apply an effect which would cause a creature or creatures to lose their Dexterity bonus to AC, you may spend martial focus to attempt a Stealth check against those creatures as an immediate action. Your Stealth automatically ends if you do not enter cover or concealment, or use this ability again, by the end of your next turn.
 
-#### Calibrating Wiggle [Catgirl HB]
+#### Calibrating Wiggle
 
 Whenever you spend a swift action and successfully scout a target, you may move up to 1/2 your movement speed, provided that your movement ends in a space further away from the scouted target. This movement provokes attacks of opportunity as normal.
 
@@ -82,7 +82,7 @@ So long as you have martial focus, you may make a Perception check to notice the
 
 You may make Stealth checks in place of Disguise checks to change your appearance.
 
-#### Hidden Dragon (stance) [Youxia HB]
+#### Hidden Dragon (stance)
 
 While in this stance, whenever you succeed at a combat maneuver check against a creature, that creature no longer counts as observing you until the end of your turn for the purpose of Stealth checks to hide.
 
@@ -90,7 +90,7 @@ While in this stance, whenever you succeed at a combat maneuver check against a 
 
 Whenever you use the Stealth skill to successfully hide when making a move action, you regain your martial focus.
 
-#### Honed Sense [Apoc]
+#### Honed Sense
 
 You gain the scent special ability, with a base distance of 30 feet. You receive a +4 bonus on Perception checks to detect creatures with the shaken, frightened, or panicked conditions using scent. You can substitute your Perception skill for Sense Motive skill checks if the subject has one of the previous conditions or is attempting to cover up their fear in some way. **Associated Feat:** Sharp Senses, Smell Fear.
 
@@ -138,7 +138,7 @@ Your acute senses have been trained to their peak, making you difficult to catch
 
 You may take this talent a second time; the second time you take this talent, you no longer suffer most negative limitations of being asleep; this is functionally similar to immunity to sleep, though rather than staying awake when targeted by a sleep affect your subconscious mind and instincts simply take over, allowing you to continue fighting unimpeded, though you still cannot perform any Charisma, Dexterity, or Intelligence-based skills (except Acrobatics, Fly, Intimidate, and Ride) or any ability that requires patience or concentration. Only the first purchase of this talent is a [utility] talent.
 
-#### Study Technique [Youxia HB]
+#### Study Technique
 
 You may use the scout ability to determine the base attack bonus and martial spheres known of a creature within line of sight and effect in addition to the normal information provided by your scout ability.
 
@@ -172,7 +172,7 @@ You can use your trained senses to read the movements of the wind and other fact
 
 # Legendary Talents
 
-#### By The Scruff Of Your Neck [Catgirl HB]
+#### By The Scruff Of Your Neck
 
 **Prerequisites:** Stealth 3 ranks or Perception 3 ranks; Scout sphere.
 
@@ -192,7 +192,7 @@ Once you have scouted a creature, you can attempt to discern their surface thoug
 - **2nd Round:** The Intelligence score of your scouted target. If its Intelligence is 26 or higher (and at least 10 points higher than your own Intelligence score), you are stunned for 1 round.
 - **3rd Round:** Surface thoughts of the target. Creatures of animal intelligence (Intelligence 1 or 2) have simple, instinctual thoughts.
 
-#### Dust To Dust [EO3]
+#### Dust To Dust
 
 **Prerequisites:** Scout Sphere (Deadly Strike), Stealth 10 ranks.
 
@@ -202,7 +202,7 @@ Additionally, if the creature would be reduced to 0 or fewer hit points due to t
 
 A creature does not need to know your exact location to count as being aware of your presence, just to be aware that you are nearby.
 
-#### Eye Spy [utility] [Jester's HB]
+#### Eye Spy [utility]
 
 **Prerequisites:** Perception 10 ranks, Scout sphere (Great Senses).
 
@@ -225,7 +225,7 @@ While you discover the presence of ongoing magical effects through the use of th
 
 If you expend your martial focus while trying to identify a magical effect or magic item, you gain a bonus to that check equal to your practitioner modifier, plus the number of Scout sphere talents you possess.
 
-#### Spell Scent [utility] [High. HB]
+#### Spell Scent [utility]
 
 **Prerequisites:** Knowledge (arcana) 6 ranks, Perception 6 ranks, Scout sphere (Heightened Awareness, Magehunter’s Vision).
 

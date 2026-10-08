@@ -23,7 +23,7 @@ Whenever you use the attack action or an attack of opportunity to attack or disa
 
 # Duelist Talents
 
-#### …And Stay Down! [CrimDan]
+#### …And Stay Down!
 
 Whenever a creature lands prone in a square you threaten, you may make an attack of opportunity against them, dealing 1 additional point of bleed damage (this stacks with other bleed damage granted by the base ability of the Duelist sphere); this attack of opportunity considers “whenever a creature lands prone” and “whenever you succeed on a trip combat maneuver” to be part of the same trigger, and you cannot take more than one attack of opportunity due to this circumstance. If successful, the target of this attack must make a successful Acrobatics check to stand up as their blood slicks the ground beneath them. If the target is suffering from your blooded strike’s bleed damage, they suffer a penalty to their Acrobatics check equal to the bleed damage. Targets immune to bleed damage do not need to make an Acrobatics check.
 
@@ -35,7 +35,7 @@ When you succeed at a disarm combat maneuver check against a creature, instead o
 
 Feint attempts made by creatures taking bleed damage always provoke attacks of opportunity from you, even if they would not normally do so. In addition, you gain a +1 competence bonus to Sense Motive checks, plus an additional +1 at base attack bonus +4 and every 4 points of base attack bonus thereafter.
 
-#### Bloodied Shark’s Frenzy [BTH]
+#### Bloodied Shark’s Frenzy
 
 You channel the shark, harnessing your bloodlust.
 
@@ -49,7 +49,7 @@ When a ranged attack is made against you or a creature within your reach (except
 
 **Addendum [Apoc]:** You may take Defensive Slice a second time. If you do, whenever you use Defensive Slice, you may instead expend two attacks of opportunity when making the attack roll. If you succeed, you send the projectile back to the creature that made the attack, using your defensive slice’s attack roll. You may only use this ability once per round. **Source:** [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)
 
-#### Defiant Focus [Youxia HB]
+#### Defiant Focus
 
 You may spend a move action to sheathe one held weapon without provoking an attack of opportunity. If you do, you may regain your martial focus. If you have the Dual Wielding sphere, you can sheathe two light or one-handed weapons instead of one. **Associated Feat:** Quick Stow.
 
@@ -63,13 +63,13 @@ You may ready an attack action to attack a creature with a sheathed weapon, draw
 
 Whenever you succeed at a disarm attempt made as an attack action, you may regain your martial focus as an immediate action.
 
-#### Focusing Bloodshed [CrimDan]
+#### Focusing Bloodshed
 
 After causing a creature to begin bleeding, you may spend a move action to regain your martial focus. As part of this move action, you may make a melee touch attack as a free action against a non-bleeding creature within reach. This attack deals no damage, but causes that creature to begin bleeding as per your blooded strike. (This does not allow you to apply a (bleed) talent.) Additionally, when an enemy causes you to begin bleeding, you may spend an immediate action to regain your martial focus.
 
 **Author's Note:** For the intents of this talent, "begin bleeding" refers to any application of a new source of bleed damage that the creature did not already suffer from, rather than causing a creature to begin bleeding for the first time.
 
-#### Greater Disarm [Apoc]
+#### Greater Disarm
 
 *Source: [Spheres Apocrypha: Pugilists](https://www.drivethrurpg.com/product/320390/Spheres-Apocrypha-Pugilists?affiliate_id=549120)*
 
@@ -89,7 +89,7 @@ You are able to deal bleed damage to behemoths, constructs, elementals, and unde
 
 **Blood Sphere note:** The Duelist sphere Ooze Ichor talent allows the user to deal bleed damage to creature types that are normally immune, but does not by itself make them susceptible to blood control.
 
-#### Open Vein [CrimDan]
+#### Open Vein
 
 As a special attack action, you may expend your martial focus to deal an additional 1d4 bleed damage to your target, +1d4 for every 3 points of base attack bonus you possess. This stacks with other bleed damage granted by the Duelist sphere.
 
@@ -99,7 +99,7 @@ As a special attack action, you may expend your martial focus to deal an additio
 
 Your countless Duelist practices have built up thick scar tissue and callouses that provide you protection from bleeding wounds. You gain DR 2 / bludgeoning and reduce all bleed damage you take by 1; bleed damage cannot be reduced below 0 by this ability. For every 5 points of base attack bonus you possess, the damage reduction granted by this ability increases by 2 points and you reduce any bleed damage you take by an additional 1 point.
 
-#### Tandem Disarm [Apoc]
+#### Tandem Disarm
 
 *Source: [Tandem Talents](https://www.drivethrurpg.com/product/282809/Spheres-Apocrypha-Tandem-Talents?affiliate_id=549120)*
 
@@ -107,7 +107,7 @@ Whenever you would fail a disarm combat maneuver check against a creature that i
 
 **Associated Feat:** Disarm Partner.
 
-#### Vengeful Scorpion (stance) [Youxia HB]
+#### Vengeful Scorpion (stance)
 
 While in this stance, whenever you deal bleed damage to a creature in the same round that you draw the weapon used to deal that damage, the first melee attack a creature damaged this way makes against you within your reach provokes an attack of opportunity from you until the beginning of your next turn. You may not use this talent in conjunction with (deflect) talents or any other ability that would grant you an attack or combat maneuver due to a missed attack against you.
 
@@ -115,17 +115,17 @@ While in this stance, whenever you deal bleed damage to a creature in the same r
 
 # Bleed Talents
 
-#### Blood Fountain (bleed) [CrimDan]
+#### Blood Fountain (bleed)
 
 Blood you spill tends to splatter. Creatures suffering from your bleed damage spill blood into any squares they occupy at the beginning of their turns, causing it to become slick and slippery. Moving into a square with slippery terrain requires a Reflex save to move at more than half speed for that action. Failure causes the creature to become flat-footed until the end of their turn, and stops their movement for that action. Failure by 5 or more causes the creature to fall prone and be considered flat-footed until the start of their next turn. Slippery terrain created by this talent dries up and becomes normal terrain after 10 minutes.
 
-#### Clouding Cut (bleed) [CrimDan]
+#### Clouding Cut (bleed)
 
 Whenever you deal bleed damage to a creature, you may expend your martial focus to open a gash near the target’s sensory organ. The creature immediately suffers from a 10% miss chance on all of their attacks. At the start of their turn, when it takes damage due to their bleeds, it increases the miss chance bestowed by this talent by 10%. When the miss chance would reach 40%, the creature is instead blinded and the miss chance ceases to increase. Stopping the bleed damage ends this effect.
 
 You may use Clouding Cut against a creature already suffering from its effects without spending martial focus, and doing so causes their miss chance to increase by 10%, unless they are already blinded.
 
-#### Cut Free (bleed) [Alienist HB]
+#### Cut Free (bleed)
 
 Whenever you use an attack action to deal bleed damage to a creature, one creature that is grappled, pinned, impaled, or swallowed whole by the target may make an immediate check to escape (such as a combat maneuver or Escape Artist check) with a bonus equal to the amount of bleed damage the target is taking (this may include yourself if you are restrained in such a way). A creature that is no longer impaled takes bleed damage as normal. Other conditions may be negated by this talent at GM discretion.
 
@@ -137,25 +137,25 @@ Whenever you deal bleed damage to a creature, you may cause them to take a penal
 
 Whenever you deal bleed damage to a creature in the same round that you draw the weapon used to deal that damage, you may make an additional attack against each enemy within reach as an immediate action. Make a single attack roll with a -2 penalty and apply it against each target’s AC, dealing half your normal weapon damage to each creature that you hit. You may instead choose to target all squares within your reach, removing any difficult terrain in those squares for a number of rounds equal to 1/2 your base attack bonus (minimum 1). At +10 base attack bonus, you instead deal your full normal weapon damage to all creatures hit with this talent.
 
-#### Iai Slash (bleed) [CrimDan]
+#### Iai Slash (bleed)
 
 Whenever you deal bleed damage to a creature in the same round you drew the weapon used to deal that damage, you may expend any amount of attacks of opportunity as a free action to compare the same attack roll against the AC (or your maneuver check against their disarm CMD) of a different enemy within reach for each attack of opportunity. If your attack roll is greater than a creature’s AC, you quickly strike that creature and cause them to suffer from your blooded strike (this does not allow you to apply additional (bleed) talents).
 
 Additionally, whenever you deal bleed damage to a creature already suffering from your blooded strike, or an enemy suffering from your blooded strike’s bleed is reduced to 0 or fewer hit points, you may sheathe your weapon as a free action.
 
-#### Invigorating Sights (bleed) [CrimDan]
+#### Invigorating Sights (bleed)
 
 Whenever you would inflict bleed damage with your blooded strike against a bleeding creature, instead of dealing bleed damage, you may choose to gain an amount of temporary hit points equal to 1/2 your base attack bonus, which lasts for a number of rounds equal to your practitioner modifier. These temporary hit points stack with further uses of this talent, up to your base attack bonus.
 
-#### Leg Cutter (bleed) [CrimDan]
+#### Leg Cutter (bleed)
 
 Whenever you deal bleed damage to a creature, you may slice a vulnerable point in their legs. The creature must succeed at a Fortitude saving throw or fall prone.
 
-#### Perforating Wounds (bleed) [CrimDan]
+#### Perforating Wounds (bleed)
 
 Whenever you deal bleed damage as part of an attack action to a creature who is already suffering bleed damage from your blooded strike, you deal an amount of bleed damage equal to 1 + 1 for every 3 points of base attack bonus you possess. This bleed damage stacks with other bleed damage granted by the Duelist sphere. You can stack this bleed damage with itself once for every 6 points of base attack bonus you possess. This bleed damage is separate from your blooded strike, and does not affect other abilities that scale off of your blooded strike’s bleed damage.
 
-#### Slickened Grip (bleed) [CrimDan]
+#### Slickened Grip (bleed)
 
 When you deal bleed damage to a creature, they take a penalty to their CMD equal to the amount of bleed damage dealt by your blooded strike. This penalty is doubled when applied to the creature’s disarm or sunder CMD.
 
@@ -193,7 +193,7 @@ Whenever you succeed at a disarm attempt, you may immediately sheathe your weapo
 
 In addition, you may threaten with a sheathed or carried weapon as long as you have enough free hands to wield it, drawing the weapon as part of any attack of opportunity a creature may provoke from you.
 
-#### Whisking Disarm (disarm) [Apoc]
+#### Whisking Disarm (disarm)
 
 *Source: [Spheres Apocrypha: Pugilists](https://www.drivethrurpg.com/product/320390/Spheres-Apocrypha-Pugilists?affiliate_id=549120)*
 
@@ -207,7 +207,7 @@ In addition, creatures you succeed at a disarm attempt against gain the battered
 
 # Legendary Talents
 
-#### Blackblood Strike (bleed) [CrimDan]
+#### Blackblood Strike (bleed)
 
 **Prerequisites:** Duelist sphere(Long Cuts), base attack bonus +5.
 
@@ -223,13 +223,13 @@ Whenever you deal bleed damage to a creature who is already taking bleed damage,
 
 If the target receives at least 5 hit points of healing at any point before they suffocate, the suffocation effect ends and they resume breathing as normal. The suffocation effect can also be ended as a full-round action by a Heal check with a DC equal to your normal DC for combat sphere effects. Creatures who do not need to breathe are immune to this effect. If a practitioner uses Bleed Air against a creature that is currently suffocating, they are automatically moved 1 round closer to suffocation.
 
-#### Bloody Hell (bleed) [Jester's HB]
+#### Bloody Hell (bleed)
 
 **Prerequisites:** Duelist sphere, Great Focus, base attack bonus +15.
 
 Whenever you deal bleed damage to a creature, you may expend two martial focuses to attempt to send the target to hell, or heck, or somewhere. If you do, that creature must succeed at a Will save or be transported to another plane that is strongly-aligned with evil (e.g. Hell, Abaddon). If the target succeeds at their saving throw, the cosmic energy you attempted to exploit backlashes and you suffer 6d6 fire damage and are fatigued. This is a supernatural effect; you can only use this talent against the same creature once every 24 hours.
 
-#### Curtain Call [CrimDan]
+#### Curtain Call
 
 **Prerequisites:** Duelist sphere (Iai Slash (bleed)), base attack bonus +5.
 
@@ -243,7 +243,7 @@ If you possess Defiant Focus, you do not need to expend your martial focus to us
 
 Whenever you succeed at a disarm attempt to cause a creature to drop a weapon they were wielding, you may use an immediate action to make a ranged attack with that weapon against any other creature within range. If the weapon cannot normally be used at range, it is treated as a thrown weapon with a range increment of 10 ft. Projectile weapons must be nocked or loaded at the time they are disarmed to be used with this ability. If the disarmed creature is currently taking bleed damage, you may instead make the granted ranged attack as an attack of opportunity.
 
-#### Disarm Natural Ferocity [Apoc]
+#### Disarm Natural Ferocity
 
 *Source: [Spheres Apocrypha: Pugilists](https://www.drivethrurpg.com/product/320390/Spheres-Apocrypha-Pugilists?affiliate_id=549120)*
 
@@ -255,7 +255,7 @@ Whenever you succeed at a disarm combat maneuver check against a creature, inste
 
 For the purposes of this ability, unarmed strikes are considered a single weapon, and a creature disarmed of their unarmed strike is unable to make unarmed strikes for as long as they are battered.
 
-#### Essence Manipulation [BaP]
+#### Essence Manipulation
 
 **Prerequisites:** Blood sphere or Duelist sphere (Ooze Ichor); base attack bonus +1 or caster level 1st.
 
@@ -287,7 +287,7 @@ With the exception of the bleed damage (which may be stopped as normal), there a
 
 A character who has lost both hands, or one hand and one arm, cannot use any of the listed skills, make attacks, cast spells with somatic components, or handle objects, without the aid of prosthetics or magic. A severed hand counts as an object three size categories smaller than the creature it came from.
 
-#### Vacuum Cut [CrimDan]
+#### Vacuum Cut
 
 **Prerequisite:** Duelist sphere.
 

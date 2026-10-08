@@ -17,7 +17,7 @@ Once per day, a caster whose caster level is at least equal to the spell engine�
 
 Spell engines are normally made with the Craft Spell Engine feat, but can also be made with the Craft Wand feat if you are not using the new crafting feats.
 
-### Apprentice’s First Wand [TS]
+### Apprentice’s First Wand
 
 **Aura** faint Destruction; **CL** 2nd; **SP** 1
 **Slot** none; **Price** 1,000 gp; **Weight** 2 lbs.
@@ -28,7 +28,7 @@ This slender wooden spell engine contains the Destruction sphere and the Gale Bl
 **Construction Requirements**
 Craft Spell Engine, Destruction sphere (Gale Blast (blast type)); **Cost** 500 gp
 
-### Basic Wand [TS]
+### Basic Wand
 
 **Aura** faint any; **CL** 2nd; **SP** 1
 **Slot** none; **Price** 1,000 gp; **Weight** 2 lbs.
@@ -38,7 +38,7 @@ Basic wands are among the simplest forms of spell engine available and grant acc
 **Construction Requirements**
 Craft Spell Engine, any one sphere; **Cost** 500 gp
 
-### Cadaver Converter [TS]
+### Cadaver Converter
 
 **Aura** moderate Death; **CL** 10th; **SP** 1
 **Slot** none; **Price** 25,000 gp; **Weight** 2 lbs.
@@ -49,7 +49,7 @@ Cadaver converters are limited spell engines that cannot use the basic effects o
 **Construction Requirements**
 Craft Spell Engine, Corpse Explosion (dual sphere), Death sphere (Corpse Bomb), Destruction sphere (any (blast type) talent); **Cost** 12,500 gp
 
-### Chattergem [TS]
+### Chattergem
 
 **Aura** faint Mind; **CL** 2nd
 **Slot** head; **Price** 1,000 gp (normal), 4,000 gp (greater); **Weight** 1/10 lb.
@@ -59,7 +59,7 @@ Chattergems are Mind spell engines with the Project Thoughts charm and the Empat
 **Construction Requirements**
 Craft Spell Engine, Mind sphere (Project Thoughts (charm)); **Cost** 500 gp (normal), 2,000 gp (greater)
 
-### Corpse Party [TS]
+### Corpse Party
 
 **Aura** moderate Death; **CL** 6th; **SP** 2
 **Slot** none; **Price** 9,000 gp; **Weight** 2 lbs.
@@ -70,7 +70,7 @@ The corpse party is a popular tool among new necromancers, giving them the abili
 **Construction Requirements**
 Craft Spell Engine, Death sphere (Greater Reanimate, Mass Reanimate [mass]), Necromantic Limit (reanimate) drawback); **Cost** 4,500 gp
 
-### Corpse Party, Greater [TS]
+### Corpse Party, Greater
 
 **Aura** moderate Death; **CL** 8th; **SP** 2
 **Slot** none; **Price** 16,000 gp; **Weight** 2 lbs.
@@ -96,7 +96,7 @@ This peculiar box has a small screen with a mechanical dial, which is powered by
 **Construction Requirements**
 Craft Spell Engine, Divination sphere (See Hazard (sense), Trapfinding (sense)); **Cost** 8,000 gp
 
-### Firefighter’s Wand [TS]
+### Firefighter’s Wand
 
 **Aura** faint Dark; **CL** 4th; **SP** 1
 **Slot** none; **Price** 4,000 gp; **Weight** 2 lbs.
@@ -120,7 +120,7 @@ A curled ram’s horn fitted with a mouthpiece, inlaid in silver with a scene of
 **Construction Requirements**
 Craft Spell Engine, Destruction sphere (Sculpt Blast (blast shape), Shattering Blast (blast type, sonic)); **Cost** 8,000 gp
 
-### Lightening Wand [TS]
+### Lightening Wand
 
 **Aura** moderate Enhancement; **CL** 6th; **SP** 2
 **Slot** none; **Price** 9,000 gp; **Weight** 2 lbs.
@@ -131,7 +131,7 @@ Lightening wands are popular with construction crews and wealthy individuals who
 **Construction Requirements**
 Craft Spell Engine, Enhancement sphere (Lighten (enhance)); **Cost** 4,500 gp
 
-### Pocket Dimension [TS]
+### Pocket Dimension
 
 **Aura** moderate Warp; **CL** 6th; **SP** 1
 **Slot** none; **Price** 9,000 gp; **Weight** 2 lbs.
@@ -142,7 +142,7 @@ Pocket dimensions are small spell engines that come in various shapes, which are
 **Construction Requirements**
 Craft Spell Engine, Warp sphere (Extradimensional Storage (space) x2); **Cost** 4,500 gp
 
-### Pocket Dimension, Greater [TS]
+### Pocket Dimension, Greater
 
 **Aura** strong Warp; **CL** 12th; **SP** 4
 **Slot** none; **Price** 36,000 gp; **Weight** 2 lbs.
@@ -153,7 +153,7 @@ Greater pocket dimensions are like regular pocket dimensions, but can hold up to
 **Construction Requirements**
 Craft Spell Engine, Warp sphere (Extradimensional Storage (space) x2); **Cost** 18,000 gp
 
-### Portable Room [TS]
+### Portable Room
 
 **Aura** moderate Warp; **CL** 6th; **SP** 1
 **Slot** none; **Price** 9,000 gp; **Weight** 2 lbs.
@@ -166,7 +166,7 @@ Wealthy adventurers often purchase keyhomes instead, which are noticeably more e
 **Construction Requirements**
 Craft Spell Engine, World In Miniature, Nature sphere (Limited Nature drawback), Warp sphere (Extradimensional Room (space) x2, Bender drawback); **Cost** 4,500 gp
 
-### Railway Gun [TS]
+### Railway Gun
 
 **Aura** strong Destruction; **CL** 20th; **SP** 9
 **Slot** none; **Price** 170,000 gp; **Weight** 1,350 tons
@@ -179,7 +179,7 @@ When fired, the railway gun can target a 5-foot square within its range, spend o
 **Construction Requirements**
 Craft Spell Engine, Destruction sphere (Calamity (advanced, blast shape), Explosive Orb (blast shape), Extended Range, Extreme Range (advanced), Gather Energy, Shattering Blast (blast type)); **Cost** 85,000 gp
 
-### Shattering Wand [TS]
+### Shattering Wand
 
 **Aura** faint Destruction; **CL** 6th; **SP** 3
 **Slot** none; **Price** 9,000 gp; **Weight** 2 lbs.
@@ -190,7 +190,7 @@ This spell engine looks like a flute at first glance, but when wielded, it unlea
 **Construction Requirements**
 Craft Spell Engine, Destruction sphere (Shattering Blast (blast type)); **Cost** 4,500 gp
 
-### Talisman of the Ancestor’s Might [TS]
+### Talisman of the Ancestor’s Might
 
 **Aura** moderate Enhancement; **CL** 8th; **SP** 3
 **Slot** none; **Price** 16,000 gp; **Weight** 2 lbs.
@@ -203,7 +203,7 @@ These talismans are often crafted by tribes that live far from the cities, using
 **Construction Requirements**
 Craft Spell Engine, Enhancement sphere (Deep Enhancement, Mass Enhancement [mass], Physical Enhancement (enhance), Bodily Enhancement drawback); **Cost** 8,000 gp
 
-### Talisman of the Ancestor’s Will [TS]
+### Talisman of the Ancestor’s Will
 
 **Aura** moderate Enhancement; **CL** 8th; **SP** 3
 **Slot** none; **Price** 16,000 gp; **Weight** 2 lbs.
@@ -214,7 +214,7 @@ As the talisman of the ancestor’s might, but with Mental Enhancement (enhance)
 **Construction Requirements**
 Craft Spell Engine, Enhancement sphere (Deep Enhancement, Mass Enhancement [mass], Mental Enhancement (enhance), Bodily Enhancement drawback); **Cost** 8,000 gp
 
-### Totem Wand [TS]
+### Totem Wand
 
 **Aura** faint War; **CL** 4th; **SP** 1
 **Slot** none; **Price** 4,000 gp; **Weight** 2 lbs.
@@ -305,7 +305,7 @@ This oak wand lacquered in xorn fat is adorned with a quartz handle, which glows
 **Construction Requirements**
 Craft Spell Engine, Destruction sphere (Guided Strike (blast shape), Stone Blast (blast type, stone)); **Cost** 4,500 gp
 
-### Wand of Truthtelling [TS]
+### Wand of Truthtelling
 
 **Aura** faint Fate; **CL** 2nd; **SP** 1
 **Slot** none; **Price** 1,000 gp; **Weight** 2 lbs.
@@ -316,7 +316,7 @@ Wands of truthtelling are popular with interrogators, guards, and courts. These 
 **Construction Requirements**
 Craft Spell Engine, Fate sphere (Pain (word, curse), Truth (word, curse)), Neutrality drawback, Tongue Of Ages drawback); **Cost** 500 gp
 
-### Wands of Search and Rescue [TS]
+### Wands of Search and Rescue
 
 **Aura** faint Divination and moderate Warp; **CL** 2nd (Divination) and 10th (Warp); **SP** 1 (Divination), 2 (Warp)
 **Slot** none; **Price** 26,000 gp; **Weight** 2 lbs.
@@ -333,7 +333,7 @@ Craft Spell Engine, Divination sphere (Expansive Vision (advanced), Tremorsense 
 
 # Mythic Spell Engines
 
-### Immovable Wand [MCS]
+### Immovable Wand
 
 **Aura** strong Telekinesis; **CL** 18th; **SP** 6
 **Slot** none; **Price** 81,000 gp; **Weight** 2 lbs.
@@ -341,7 +341,7 @@ This slender wand is colorless and nearly transparent, though harder than most m
 **Construction Requirements**
 Craft Spell Engine, Mythic Crafter, Telekinesis sphere (Affix (advanced), Effortless Telekinesis (advanced), Idle Concentration); **Cost** 40,500 gp
 
-### Infernal Queen’s Contract [MCS]
+### Infernal Queen’s Contract
 
 **Aura** strong Conjuration; **CL** 16th; **SP** 8
 **Slot** none; **Price** 64,000 gp; **Weight** 1/10 lbs.

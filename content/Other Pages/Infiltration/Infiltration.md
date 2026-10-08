@@ -72,7 +72,7 @@ Adopting this approach is a swift action. While you maintain this approach, you 
 
 A divination spell or effect yields results as if you were not present unless the caster succeeds at a caster level check against DC 11 + the number of ranks in Stealth you possess. A magical trap does not trigger if you succeed at a Stealth check against the trap’s Disable Device DC. A magical trap can trigger again if you still meet the condition at the end of your turn, but a divination spell or other effect has no further opportunities to detect you until you abandon this approach.
 
-#### Circumvent Technology [approach] [SUE]
+#### Circumvent Technology [approach]
 
 Adopting this approach is a swift action. While you maintain this approach, you can use Disable Device to disarm technological devices (such as Tinker sphere gizmos, etc.) as if you had the Technologist feat. If a *detector* or similar effect would detect you or if your movement would trigger a technological trap (including Tinker sphere Countermeasures) and you were aware of the *detector* or trap, you can spend 1 use of skill leverage as an immediate action to attempt to avoid its notice.
 
@@ -80,7 +80,7 @@ Avoiding notice this way means the *detector* yields results as if you were not 
 
 **Special - Circumvent Magic [approach]:** If you could enter both this approach and the Circumvent Magic [approach], you may maintain both approaches simultaneously.
 
-#### Commando Crawl [DRS]
+#### Commando Crawl
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -102,7 +102,7 @@ You can attack with such subtle, measured movement that it is not only accurate 
 
 You retain your Dexterity bonus to AC (if any) while flat-footed against creatures and traps that you failed a Perception check to notice. You also get a +1 insight bonus on Perception checks to notice hidden creatures and traps and to Reflex saving throws and AC against traps. The bonus increases by 1 for every 3 ranks in the associated skill you possess.
 
-#### Deft Motion [DRS]
+#### Deft Motion
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -122,7 +122,7 @@ You may use fast sabotage as a full-round action to apply two (sabotage) talents
 
 By spending 1 use of skill leverage as an immediate action, you can attempt to delay a trap immediately after meeting its trigger condition or failing to disable it. You don't have to be aware of the trap to use this action, but you make the check with a -2 penalty if you are surprised. After the trap is triggered but before any attack rolls or saving throws are made, attempt a Disable Device check against the trap’s Disable Device DC; if you are successful, the trap’s activation is delayed until the end of your next turn. If you succeed at another Disable Device check while it is delayed, it is disabled normally and does not trigger. You are aware of the affected area of the delayed trap activation.
 
-#### Impromptu Stealth [DRS]
+#### Impromptu Stealth
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -130,7 +130,7 @@ Whenever you would attempt an attack of opportunity while you are benefitting fr
 
 Additionally, whenever you attempt an initiative check, you can move 10 feet and attempt a Stealth check to hide as an immediate action (as long as you end the movement within cover or concealment). You can enter the light step approach as part of doing this.
 
-#### Lightstalker [DRS]
+#### Lightstalker
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -272,7 +272,7 @@ You sabotage the target by weakening key parts so that it snaps on the wielder. 
 
 If the target does not have a damage type, reduce the damage by one die (not below the minimum) and you choose the type.
 
-#### Wreck Apparatus (sabotage) [DRS]
+#### Wreck Apparatus (sabotage)
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 

@@ -57,7 +57,7 @@ An instilled liquid remains potent until you rest to regain spell points. If you
 
 You may target food but not an already-magical item, such as a potion. All spell points must be spent and all variables of the sphere effect must be chosen at the time the instilled liquid is created. You cannot instill multiple effects in a single liquid, nor create multiple instilled liquids with a single action.
 
-#### Lingering Time [3PP]
+#### Lingering Time
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -215,7 +215,7 @@ You may spend one spell point to freeze all activity within a 10-foot radius bur
 
 All affected objects and creatures within this area cannot act for 1 round, neither can they be acted upon (moved, dealt damage to, etc.). Once the effect is in place, non-affected creatures can enter the area of effect without incident, so long as they do not disturb an affected creature or object. After one round has passed, everything within the area is unfrozen; creatures resume moving, ranged attacks hit the square they were targeting, and blast effects resolve as normal.
 
-#### Time Of The Season (time) [Jester's HB]
+#### Time Of The Season (time)
 
 You create a temporal bubble which changes the season. Create a sphere with a radius of 10 feet + 5 feet per 2 caster levels centered on a creature, object, or square within reach (or within your Time sphere range, if you possess the Ranged Time talent) and choose one of the following seasons:
 
@@ -249,7 +249,7 @@ Advanced talents are part of an optional rule and are only available with GM per
 
 You may use the Age (time) talent to not only alter the age of creatures or objects, but also enchantments. By spending two spell points and succeeding at a magic skill check against the enchantment’s magic skill defence, you may rewind an enchantment on a creature or object to before it was placed, removing it from the target. This cannot be used to reverse instantaneous effects such as damage, but can be used to remove permanent enchantments. If successfully used on a magic item this renders the object non-magical. This has no effect on artifacts, but can be used to target area spells. Permanent constructs are treated as creatures for this effect; you can rewind an enchantment off of a construct, but cannot rewind the enchantment that gave life to the construct itself.
 
-#### Grey Hawk’s Gambit [3PP]
+#### Grey Hawk’s Gambit
 
 **Prerequisites:** Time sphere (shuffle time)
 
@@ -320,7 +320,7 @@ The Reversion and Complete Reversion talents presented here offer some very flex
 
 We also encourage players planning to use this ability on themselves to choose alternate builds that still have access to a spell point pool and the Reversion or Complete Reversion talents in the event they find they enjoyed their previous build more; once a character has trained away their ability to use these talents, they may find that they cannot easily access them again.
 
-#### Shuffle Time (time) [3PP]
+#### Shuffle Time (time)
 
 **Prerequisites:** Time sphere
 
@@ -350,7 +350,7 @@ This copy lasts for a number of rounds equal to 1/2 your caster level and appear
 
 Time clones created with this talent cannot create additional time clones or similar copies of themselves.
 
-#### Timeless Crane’s Hourglass (time) [BTH]
+#### Timeless Crane’s Hourglass (time)
 
 You channel the timelessness of the jian crane into a whirling prismatic globe of possibilities.
 

@@ -202,10 +202,8 @@
      "tags": [
       "cohort"
      ],
-     "talentTags": [
-      "SAA"
-     ],
-     "anchor": "cohort-attack-cohort-saa",
+     "talentTags": [],
+     "anchor": "cohort-attack-cohort",
      "md": "**Action:** 1 melee or ranged special attack action (plus 1 joint swift action, see text)\n\n**Effect:** You make a single attack against a target. After resolving your attack, as a joint swift action, another cohort or leader may make a single attack against the same target.\n\n**Augment 1 mf [Opening Strike]:** The cohort or leader’s joint swift action attack may be made before your special attack action. If the joint attack hits, you gain a +2 circumstance bonus on your attack roll, +1 per 5 associated skill ranks."
     },
     {
@@ -1329,25 +1327,23 @@
    "options": []
   },
   {
-   "id": "leadership/camp-of-operations-drs",
+   "id": "leadership/camp-of-operations",
    "name": "Camp of Operations",
    "kind": "feat",
    "sphere": "Leadership",
    "system": "Spheres of Might",
    "group": "General",
    "tags": [],
-   "talentTags": [
-    "DRS"
-   ],
+   "talentTags": [],
    "prerequisites": "Leadership 3 associated skill ranks; Leadership sphere ((follower) package); base of operations class feature.",
    "source": "Polished Commander & Warleader",
    "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#camp-of-operations-drs",
+   "url": "Spheres-Of-Might/Practitioner-Feats#camp-of-operations",
    "md": "*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*\n\n*Home is wherever the hearth is.*\n\n**Prerequisites:** Leadership 3 associated skill ranks; Leadership sphere ((follower) package); base of operations class feature.\n\n**Benefit:** Whenever you establish a base of operations, you may also *make camp*.\n\nIn addition, your base of operations gains 1 additional tailored advice benefit. An additional benefit added this way is chosen based on the sphere-related assistance your followers offer, not the base spheres you personally possess (such as selecting Artifice's base of operations benefit by having a blacksmith, whose assistance offers Artifice sphere effects, despite not having the Artifice sphere normally).\n\n**Note:** The base of operations feature was first printed with the advisor class, *Diamond Spheres: Harmony and Discord*.",
    "options": []
   },
   {
-   "id": "leadership/emergency-reserves-plan-drs",
+   "id": "leadership/emergency-reserves-plan",
    "name": "Emergency Reserves",
    "kind": "feat",
    "sphere": "Leadership",
@@ -1355,18 +1351,17 @@
    "group": "General",
    "tags": [],
    "talentTags": [
-    "plan",
-    "DRS"
+    "plan"
    ],
    "prerequisites": "Leadership 5 associated skill ranks; Leadership ((cohort) package).",
    "source": "Polished Commander & Warleader",
    "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#emergency-reserves-plan-drs",
+   "url": "Spheres-Of-Might/Practitioner-Feats#emergency-reserves-plan",
    "md": "*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*\n\n*You can make preparations for a new cohort should your current cohort die or need to be replaced.*\n\n**Prerequisite:** Leadership 5 associated skill ranks; Leadership ((cohort) package).\n\n**Benefit:** You gain the following plan:\n\n> **Emergency Reserves [plan]**\n>\n> **Effect:** When you prepare this plan, you must still spend the time to recruit, determining the cohort's statistics and abilities, but gaining that cohort as a contact instead of immediately gaining their services.\n>\n> When you reveal this plan, the prepared cohort arrives in 15 minutes, as though just recruited. You may only reveal this plan if you have an available slot for a cohort (such as a cohort having recently died or needing replacement). This plan may only be prepared a single time, even if you could prepare multiple plans at once.",
    "options": []
   },
   {
-   "id": "leadership/friends-in-close-places-plan-drs",
+   "id": "leadership/friends-in-close-places-plan",
    "name": "Friends In Close Places",
    "kind": "feat",
    "sphere": "Leadership",
@@ -1374,49 +1369,44 @@
    "group": "General",
    "tags": [],
    "talentTags": [
-    "plan",
-    "DRS"
+    "plan"
    ],
    "prerequisites": "Leadership sphere 10 associated skill ranks; Leadership sphere (2 (follower) talents).",
    "source": "Polished Commander & Warleader",
    "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#friends-in-close-places-plan-drs",
+   "url": "Spheres-Of-Might/Practitioner-Feats#friends-in-close-places-plan",
    "md": "*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*\n\n*Your retinue of followers has attracted some skilled individuals you can call on in a time of need.*\n\n**Prerequisites:** Leadership sphere 10 associated skill ranks; Leadership sphere (2 (follower) talents).\n\n**Benefit:** You gain a single Leadership sphere (follower) talent as a bonus talent. In addition, you gain the following plan:\n\n> **Friends in Close Places [plan]**\n>\n> **Effect:** When you reveal this plan, you immediately retrain the (follower) talent granted by this feat. This is treated as dismissing one follower to gain the services of another, with the new follower arriving the next time you *make camp*. Any assistance provided by a follower is lost when that follower is dismissed (provided items become inert and useless, abilities or benefits end, and so on).\n>\n> If you are in a settlement, you may reveal this plan once per day. Otherwise, you may only reveal this plan once per week or until you make camp in a settlement.",
    "options": []
   },
   {
-   "id": "leadership/journeyman-cohorts-drs",
+   "id": "leadership/journeyman-cohorts",
    "name": "Journeyman Cohorts",
    "kind": "feat",
    "sphere": "Leadership",
    "system": "Spheres of Might",
    "group": "General",
    "tags": [],
-   "talentTags": [
-    "DRS"
-   ],
+   "talentTags": [],
    "prerequisites": "Leadership sphere 3 associated skill ranks; Leadership sphere ((cohort) package).",
    "source": "Polished Commander & Warleader",
    "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#journeyman-cohorts-drs",
+   "url": "Spheres-Of-Might/Practitioner-Feats#journeyman-cohorts",
    "md": "*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*\n\n**Prerequisite:** Leadership sphere 3 associated skill ranks; Leadership sphere ((cohort) package).\n\n**Effect:** Each cohort you *recruit* also selects one cohort job they do not possess, gaining that job's 2nd-level benefit and their choice between that job's 3rd and 5th-level benefits. For example, a wildling could select warrior, gaining their 2nd-level skill bonuses and their choice between armor or weapon training.\n\nAdditional job benefits granted by this feat can be retrained similar to retraining a feat, such as with Training Coordination's training regiment option.",
    "options": []
   },
   {
-   "id": "leadership/mixed-conscription-drs",
+   "id": "leadership/mixed-conscription",
    "name": "Mixed Conscription",
    "kind": "feat",
    "sphere": "Leadership",
    "system": "Spheres of Might",
    "group": "General",
    "tags": [],
-   "talentTags": [
-    "DRS"
-   ],
+   "talentTags": [],
    "prerequisites": "Leadership sphere 5 associated skill ranks; ability to control one or more non-Leadership sphere subordinates (see text).",
    "source": "Polished Commander & Warleader",
    "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#mixed-conscription-drs",
+   "url": "Spheres-Of-Might/Practitioner-Feats#mixed-conscription",
    "md": "*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*\n\n**Prerequisites:** Leadership sphere 5 associated skill ranks; ability to control one or more non-Leadership sphere subordinates (see text).\n\n**Benefit:** Other subordinates under your control are treated as one of your cohorts, and you are treated as their leader.\n\nA subordinate may now benefit from (cohort) talents, except those that permanently improve or modify a cohort, such as quartermaster's skill, talented cohorts, and training regiment. Class features or other abilities that further customize cohorts similarly do not apply to subordinates (such as a knight captain's squires or a sheriff's deputies).",
    "options": []
   },
@@ -1439,43 +1429,39 @@
    "options": []
   },
   {
-   "id": "leadership/radiant-quests-drs",
+   "id": "leadership/radiant-quests",
    "name": "Radiant Quests",
    "kind": "feat",
    "sphere": "Leadership",
    "system": "Spheres of Might",
    "group": "General",
    "tags": [],
-   "talentTags": [
-    "DRS"
-   ],
+   "talentTags": [],
    "prerequisites": "Leadership associated skill 5 ranks.",
    "source": "Spheres Apocrypha: Dipsomania",
    "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#radiant-quests-drs",
+   "url": "Spheres-Of-Might/Practitioner-Feats#radiant-quests",
    "md": "*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*\n\n*Not every job needs a sword. Some just need someone willing to ask around.*\n\n**Prerequisites:** Leadership associated skill 5 ranks.\n\n**Benefits:** Once per week, you can complete various tasks for your contacts or followers to make money. Make a Leadership sphere associated skill check, earning a number of gold pieces equal to your check's result times your associated skill ranks. You can only complete a radiant quest once per week.\n\nWhen completing a radiant quest on behalf of a contact or follower, you must spend 8 hours working towards their radiant quest (similar to working a profession or spending downtime to make money). A radiant quest typically involves a negligible amount of combat, exploration, and travel, which you are considered to have succeeded on during the downtime.\n\nWhen you complete a radiant quest for a contact, if that contact is *recruited* as a cohort within 1 week, they gain a +2 morale bonus to attack rolls, damage rolls, saving throws, and skill checks for 48 hours.\n\nWhen you complete a radiant quest for a follower, for the next 48 hours, that follower provides their assistance as though your Leadership sphere associated skill ranks and practitioner modifier were 2 higher.",
    "options": []
   },
   {
-   "id": "leadership/shared-harmonies-drs",
+   "id": "leadership/shared-harmonies",
    "name": "Shared Harmonies",
    "kind": "feat",
    "sphere": "Leadership",
    "system": "Spheres of Might",
    "group": "General",
    "tags": [],
-   "talentTags": [
-    "DRS"
-   ],
+   "talentTags": [],
    "prerequisites": "Leadership sphere ((cohort) package); bardic performance or raging song class feature.",
    "source": "Polished Leadership",
    "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#shared-harmonies-drs",
+   "url": "Spheres-Of-Might/Practitioner-Feats#shared-harmonies",
    "md": "*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*\n\n*Songs are better sung with two voices.*\n\n**Prerequisites:** Leadership sphere ((cohort) package); bardic performance or raging song class feature.\n\n**Benefit:** You gain the following abilities:\n\n- **Pass the Song:** When you begin or continue your bardic performance or raging song, as a free action, you may allow a cohort within close range (25 ft. + 5 ft. / 2 Leadership associated skill ranks) to continue performing the performance or song on your behalf. The cohort may maintain the performance or song as a standard action each round, and expends your rounds of bardic performance or raging song to do so.\n\n  You can begin new bardic performances or raging songs while a cohort maintains your previous performance or song; multiple instances of the same performance or song do not stack.\n- **Start a Harmony:** When you begin your bardic performance or raging song, your cohort may harmonize with you as a joint standard action. Each round the cohort harmonizes with you, or continues to harmonize each round after the first as a standard action, you treat the effects of your bardic performance or raging song as though your class level were 6 higher to determine its effects.\n\n  A cohort cannot harmonize with you after you've begun your performance or song, and only a single cohort can harmonize this way.\n\n**Special - Minstrel Cohorts (see text):** If your cohort possesses the bardic performance or raging song class feature, they may select this feat as though they met the prerequisites. When the cohort uses their bardic performance or raging song, you or other cohorts may harmonize with them.\n\n**Special - Bardic Performance-like features:** Subject to GM discretion, class features that function similar to bardic performance (such as symbiat's psionics) may be used with this feat, and may be used to meet this feat's prerequisites.",
    "options": []
   },
   {
-   "id": "leadership/shared-rage-combat-drs",
+   "id": "leadership/shared-rage-combat",
    "name": "Shared Rage",
    "kind": "feat",
    "sphere": "Leadership",
@@ -1484,49 +1470,43 @@
    "tags": [
     "Combat"
    ],
-   "talentTags": [
-    "DRS"
-   ],
+   "talentTags": [],
    "prerequisites": "Leadership sphere ((cohort) package); rage or bloodrage class feature, or other ability to rage (see text).",
    "source": "Polished Leadership",
    "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#shared-rage-combat-drs",
+   "url": "Spheres-Of-Might/Practitioner-Feats#shared-rage-combat",
    "md": "*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*\n\n*Sharing your feelings never smashed so many helmets.*\n\n**Prerequisites:** Leadership sphere ((cohort) package); rage or bloodrage class feature, or other ability to rage (see text).\n\n**Benefit:** Whenever you rage, as a joint swift action, cohorts within close range (25 ft. + 5 ft. / 2 Leadership associated skill ranks) may also begin raging as a \"**shared rage**\", gaining all the benefits and penalties of rage, except the shared rage's benefits are half your normal rage's benefits (i.e. if your rage would grant +4 Strength and Constitution, the cohort only gains +2 Strength and Constitution). A cohort can rage indefinitely, so long as you are raging, and becomes fatigued for a duration when they stop raging.\n\nYou may choose to allow a cohort's shared rage to benefit from your full rage benefits (instead of half); however, if you do, each round the cohort spends raging expends your rounds of rage. If you rage due to a spell or similar effect with a fixed duration, the cohort instead expends time from that effect's total duration (such as reducing a *rage* spell's duration by an additional round).\n\n**Special - Wildling Cohorts (see text):** If your cohort possesses the rage class feature, they may select this feat as though they met the prerequisites. When the cohort rages, you may enter a shared rage with them.",
    "options": []
   },
   {
-   "id": "leadership/talented-followers-improved-drs",
+   "id": "leadership/talented-followers-improved",
    "name": "Talented Followers, Improved",
    "kind": "feat",
    "sphere": "Leadership",
    "system": "Spheres of Might",
    "group": "General",
    "tags": [],
-   "talentTags": [
-    "DRS"
-   ],
+   "talentTags": [],
    "prerequisites": "Leadership sphere 5 associated skill ranks; Leadership ((follower) package, Good Help).",
    "source": "Polished Commander & Warleader",
    "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#talented-followers-improved-drs",
+   "url": "Spheres-Of-Might/Practitioner-Feats#talented-followers-improved",
    "md": "*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*\n\n*It's almost like they could do this all without me.*\n\n**Prerequisites:** Leadership sphere 5 associated skill ranks; Leadership ((follower) package, Good Help).\n\n**Benefit:** Followers can select 1 additional sphere option as part of their assistance (such as a blacksmith now selecting 3 Artifice flourishes instead of 2, thanks to the talented followers legendary option and this feat).\n\n**Special:** This feat may be selected an additional time at 10 Hit Dice and every 5 additional Hit Dice after; each time this feat is selected, your followers select 1 additional option.",
    "options": []
   },
   {
-   "id": "leadership/theurgical-disciples-drs",
+   "id": "leadership/theurgical-disciples",
    "name": "Theurgical Disciples",
    "kind": "feat",
    "sphere": "Leadership",
    "system": "Spheres of Might",
    "group": "General",
    "tags": [],
-   "talentTags": [
-    "DRS"
-   ],
+   "talentTags": [],
    "prerequisites": "Leadership ((cohort) package); domain or inquisition class feature, cohort same alignment as you (see text).",
    "source": "Polished Leadership",
    "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#theurgical-disciples-drs",
+   "url": "Spheres-Of-Might/Practitioner-Feats#theurgical-disciples",
    "md": "*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*\n\n*Faith is strongest when kneeling before the same altar.*\n\n**Prerequisite:** Leadership ((cohort) package); domain or inquisition class feature, cohort same alignment as you (see text).\n\n**Benefit:** You gain a +2 bonus to Knowledge (religion) skill checks. If you have 10 or more ranks in Knowledge (religion), this bonus increases to +4.\n\nIn addition, each cohort that shares an alignment with you and that worships the same deity as you gains access to a single domain or inquisition that could be granted by your deity's portfolio. Cohorts use their cohort level as their effective cleric level when determining the domain or inquisition's effects.",
    "options": []
   }

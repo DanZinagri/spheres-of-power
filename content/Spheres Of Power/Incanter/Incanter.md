@@ -175,7 +175,7 @@ At 11th level, the incanter can grant two traits in this fashion. A target can o
 
 **Shapeshifter’s Renewal (Su):** At 20th level, whenever the incanter places a shapeshift on a target and spends a spell point to maintain it without concentration, he may choose to remove any poison and non-magical disease from the target and heal the target 2 hit points per incanter level.
 
-#### Alteration Sub-Specialization: Bioreaver [EO3]
+#### Alteration Sub-Specialization: Bioreaver
 
 The following abilities replace battleshaping, change shape, and shapeshifter’s renewal.
 
@@ -256,7 +256,7 @@ As a move or immediate action, the incanter may willingly dismiss a single Dark 
 
 **Spirit Touch (Sp):** At 20th level, the incanter can touch incorporeal creatures as if his body, natural weapons, and wielded weapons were all under the effects of the ghost touch weapon special ability. He may activate or suppress this ability as a free action, and while this ability is active, he is immune to the touch attacks of shadows, ghosts, and other incorporeal creatures.
 
-#### Death Sub-Specialization: Guide of the Dead [Gravecaller's HB]
+#### Death Sub-Specialization: Guide of the Dead
 
 The following abilities replace power over undead, bolster, and spirit touch.
 
@@ -384,7 +384,7 @@ During this time, the animal’s primal instincts take hold for the duration of 
 
 **Life Connection:** At 20th level, the incanter may transfer up to half of any hit point damage dealt to himself to his animal companion.
 
-#### Nature Sub-Specialization: Aeromancer (air) [EO3]
+#### Nature Sub-Specialization: Aeromancer (air)
 
 The following abilities replace animal companion, empower companion, and life connection.
 
@@ -394,7 +394,7 @@ The following abilities replace animal companion, empower companion, and life co
 
 **Blessing of the Zephyr (Ex):** At 20th level, the incanter may choose to make one instance of a geomancing or spirit ability from the air package that he casts be permanent. Any spell point costs must be paid as normal, and if the effect requires concentration, its duration instead changes to permanent (until changed). The incanter can have no more than one effect made permanent with this ability at one time. If the incanter designates another geomancing or spirit ability as permanent, the previous permanent effect ends.
 
-#### Nature Sub-Specialization: Ferromancer (metal) [EO3]
+#### Nature Sub-Specialization: Ferromancer (metal)
 
 The following abilities replace animal companion, empower companion, and life connection.
 
@@ -412,7 +412,7 @@ The incanter also gains the following metal spirit ability:
 - **Recover Ore:** The incanter may choose to make one instance of their Recover Ore ability permanent. If the incanter designates another instance of the Recover Ore ability as permanent, the previous permanent effect ends.
 - **Reforge:** The incanter may reshape metal objects into forms with complex moving parts (making a Craft check against the object’s Craft DC). The incanter gains a bonus to Craft checks made this way equal to 1/2 their caster level.
 
-#### Nature Sub-Specialization: Hydromancer (water) [EO3]
+#### Nature Sub-Specialization: Hydromancer (water)
 
 The following abilities replace animal companion, empower companion, and life connection.
 
@@ -432,7 +432,7 @@ Maintaining this effect is a free action, and the incanter can use this ability 
 
 Additionally, whenever the incanter uses his grace of the marid spirit ability, he can spend an additional spell point to also grant the target the following benefits: The target gains DR 10/slashing, increases their reach by +10 feet, and impose a -4 penalty to attempts made to confirm a critical hit against them. The target (and their equipment) can also pass through small holes or narrow openings and cracks (except other creatures). Finally, they can spend a standard action to extinguish a non-magical fire by touching it; they can attempt to extinguish magical fires this way as well, but it requires a successful magic skill check against the caster’s magic skill defense (the MSD of a supernatural effect is 11 + the CR of the effect’s source). Even if they fail to extinguish a fire, they are not harmed by it.
 
-#### Nature Sub-Specialization: Phytomancer (plant) [EO3]
+#### Nature Sub-Specialization: Phytomancer (plant)
 
 The following abilities replace animal companion, empower companion, and life connection.
 
@@ -442,7 +442,7 @@ The following abilities replace animal companion, empower companion, and life co
 
 **Natural Soul (Ex):** At 20th level, the incanter is treated as either his original creature type or a plant for the purposes of spells and abilities, whichever is most beneficial to him. Additionally, he gains immunity to mind-affecting and poison effects; the incanter may choose to be affected by such effects if they wish (such as being subject to a beneficial mind-affecting effect).
 
-#### Nature Sub-Specialization: Pyromancer (fire) [EO3]
+#### Nature Sub-Specialization: Pyromancer (fire)
 
 The following abilities replace animal companion, empower companion, and life connection.
 
@@ -454,7 +454,7 @@ The following abilities replace animal companion, empower companion, and life co
 
 - **Flesh of the Inferno (spirit):** You can spend a standard action and 2 spell points to have your body give off an intense heat for 1 round per caster level. Creatures within 60 feet who observe you (functioning as a gaze attack) and do not avert their gaze from you are dazzled and treat all creatures as if they had concealment (20% miss chance) for 1 round). Additionally, whenever you would be reduced to 0 or fewer hit points, you immediately stabilize. Finally, your body gives off such intense heat that any enemy that ends their turn within 10 feet of you suffers fire damage equal to the largest sized fire you can create, and is set on fire; a successful Reflex save halves this damage and negates catching fire. A creature can only be affected by this spirit talent once per round.
 
-#### Nature Sub-Specialization: Terramancer (earth) [EO3]
+#### Nature Sub-Specialization: Terramancer (earth)
 
 The following abilities replace animal companion, empower companion, and life connection.
 
@@ -584,7 +584,7 @@ At 20th level, the incanter may spend a standard action to wrap himself in a mob
 
 The following feats are particularly appropriate or useful for incanters
 
-#### Hybridized Specialty [3PP]
+#### Hybridized Specialty
 
 *Source: Baron’s Glorious Arena*
 
@@ -600,7 +600,7 @@ The following feats are particularly appropriate or useful for incanters
 
 The following magical item is especially appropriate for incanters.
 
-#### Lattice Of Knowledge [TS:WAT]
+#### Lattice Of Knowledge
 
 **Aura** faint Variable (see text); **CL** 3rd
 **Slot** any; **Price** 15,000 gp; **Weight** 2 lbs.
@@ -610,7 +610,7 @@ This crystalline lattice hums with elemental energy and has an aura that matches
 **Construction Requirements**
 Craft Apparatus, the sphere associated with the sphere specialization in this item, creator must know the incanter sphere specialization added to this item; **Cost** 7,500 gp
 
-#### Specialist’s Staff [TS]
+#### Specialist’s Staff
 
 **Aura** faint Untyped; **CL** Same as user’s normal CL; 3 if unbonded
 **Slot** none; **Price** Varies, see description; **Weight** 4 lbs.

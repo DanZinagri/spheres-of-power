@@ -109,7 +109,7 @@ For each non-utility (remedy) talent you possess, you heal an additional amount 
 
 ## Herbalism Talents
 
-#### Domestic Botany [utility] [DRS]
+#### Domestic Botany [utility]
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -128,7 +128,7 @@ If such a herb is used to replicate a tool, it can be used alongside an actual s
 
 As a swift action you may combine two herbs into a “double-dose.” A double-dose may not be used to create concoctions. A double-dose provides the benefits of both herbs when consumed. If a double-dose is made with two of the same herb, any numerical effects of the herb are increased by 1 + 1 per 4 ranks in the associated skill.
 
-#### Expanded Herbalist [DRS]
+#### Expanded Herbalist
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -151,7 +151,7 @@ Alternatively, you can spend 1 use of skill leverage to reveal this plan as a st
 
 You may reveal both of these plans in the same full-round action (still spending 1 use of skill leverage as normal), allowing you to create concoctions or apply twists to any pre-existing concoctions using the herbs gathered from revealing this plan.
 
-#### Redolent Scents [DRS]
+#### Redolent Scents
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -161,7 +161,7 @@ Whenever you create an aroma, you can choose to have it only affect your allies,
 
 Additionally, whenever you create an aroma that requires a Fortitude save, you can replace any Fortitude saves that it permits with a Will save. This makes such an aroma a mind-affecting effect.
 
-#### Vaporous Concoctions [DRS]
+#### Vaporous Concoctions
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -175,7 +175,7 @@ A vaporous aroma causes the cloud it creates to become visible in the form of a 
 
 ## Concoction Talents
 
-#### Bewitching Brew (tincture) [DRS]
+#### Bewitching Brew (tincture)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -196,7 +196,7 @@ Whenever the imbiber would lose spell points (or a spell slot) due to failing a 
 
 **Special:** If you created this tincture with an esoteric herb, its duration is increased as though the esoteric herb were added to the tincture as a twist.
 
-#### Clarifying Incense (aroma) [DRS]
+#### Clarifying Incense (aroma)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -328,7 +328,7 @@ This tincture grants the imbiber a +2 alchemical bonus to saving throws against 
 - **1 dry herb:** The alchemical bonus also applies to saving throws and skill check DCs to discover or invoke the imbiber’s motivations, to learn about their mind or goals (such as detect thoughts or the sense goal skill use) or that reduces their degree of alertness.
 - **1 savory herb:** The duration of the tincture increases to 1 hour.
 
-#### Pleasant Fragrance (aroma) [utility] [DRS]
+#### Pleasant Fragrance (aroma) [utility]
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -358,7 +358,7 @@ This tincture grants the imbiber a +2 alchemical bonus to Strength-based ability
 - **1 savory herb:** The duration of the tincture is tripled. Additionally, the temporary hit points granted by the savory herb are replenished whenever the imbiber successfully reduces a creature to 0 or fewer hit points.
 - **1 spicy herb:** The imbiber gains a +2 morale bonus to weapon damage rolls, which increases by 1 per 5 ranks in the associated skill you possess.
 
-#### Sickening Odour (aroma) [DRS]
+#### Sickening Odour (aroma)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -400,7 +400,7 @@ This tonic grants the imbiber a +2 competence bonus to Diplomacy and Bluff check
 - **1 spicy herb:** The bonus from this tonic also applies to Intimidate checks.
 - **1 cool herb:** Whenever the imbiber modifies a creature’s attitude using Diplomacy (or Intimidate if this tonic has the spicy twist), the attitude adjustment is increased by one step.
 
-#### Stirring Vapors (aroma) [DRS]
+#### Stirring Vapors (aroma)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -445,7 +445,7 @@ Energy absorption functions as energy resistance, except that the amount of dama
 
 ## Remedy Talents
 
-#### Battlefield Medic (remedy) [DRS]
+#### Battlefield Medic (remedy)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -457,7 +457,7 @@ You do not take a penalty when treating deadly wounds (or a similar Heal skill u
 
 **Associated Feat:** Combat Medic (*Pathfinder Roleplaying Game: Ultimate Combat*).
 
-#### Diligent Caretaker (remedy) [utility] [DRS]
+#### Diligent Caretaker (remedy) [utility]
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -467,7 +467,7 @@ For every 4 ranks in the package’s associated skill you possess, a patient rec
 
 At 10 ranks in this package’s associated skill, whenever you provide long-term care, you can spend 1 use of skill leverage to grant all patients a new saving throw against a single curse, disease, or poison (your choice) they are suffering from–such a saving throw does not worsen the affliction on a failed save, and can only be granted to a specific affliction once. If the patient is also receiving a full day of complete rest, they get a +4 bonus.
 
-#### Emergency Triage (remedy) [DRS]
+#### Emergency Triage (remedy)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -477,7 +477,7 @@ You can use the Heal skill on yourself (and only yourself) as a standard action�
 
 Lastly, you can administer first aid as an immediate action whenever you or a creature within reach would begin dying or suffer bleed damage.
 
-#### Inoculative Treatment (remedy) [DRS]
+#### Inoculative Treatment (remedy)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -490,7 +490,7 @@ At 5 ranks in Heal, you can also use the Heal skill to treat a curse. You can sp
 
 **Associated Feat:** Acupuncture Specialist (*Blood of the Ancients*).
 
-#### Lifekeeper (remedy) [DRS]
+#### Lifekeeper (remedy)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -502,7 +502,7 @@ You improve the resuscitate Heal skill use in the following ways:
 
 You can also spend 1 hour with a dead creature and attempt a DC 10 Heal check to help stave off decay. On a success, the next 24 hours does not count towards the time limit associated with resurrection (and similar effects), as well as stopping any odor that the body may produce. This also preserves any of the body’s wounds, as well as requiring any creature attempting to reanimate or otherwise use a necromancy effect on the corpse to succeed at a magic skill check against a DC equal to 11 + your associated ranks. For each day that the creature has been dead for, the DC of this check increases by 5.
 
-#### Physical Therapeutics (remedy) [DRS]
+#### Physical Therapeutics (remedy)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -514,7 +514,7 @@ You also gain the treat illness Heal skill use:
 
 If you have the Proactive Care talent, the patient gains a +2 competence bonus to saving throws against the treated condition for 8 hours. You can attempt to treat illness on a creature that is not suffering from one of the listed conditions, although you choose one condition to treat for (and can only have one such benefit active at one time).
 
-#### Proactive Care (remedy) [plan] [DRS]
+#### Proactive Care (remedy) [plan]
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -526,7 +526,7 @@ You improve the following Heal skill uses in the following ways on a successful 
 
 You can also reveal the use of any of these Heal skill uses as a plan performed as an immediate action. In the case of a prepared treat deadly wounds, a creature can only be healed through this plan if the damage was incurred before you prepared your plans, otherwise they only receive the temporary hit points and only for 1 minute (which still counts towards the daily limit of treat deadly wounds).
 
-#### Surgeon (remedy) [utility] [DRS]
+#### Surgeon (remedy) [utility]
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -538,7 +538,7 @@ Additionally, if your use of the Heal skill would deal damage to your patient (s
 
 # Exceptional Talents
 
-#### Compensatory Procedures (remedy) [DRS]
+#### Compensatory Procedures (remedy)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -588,7 +588,7 @@ When applied to a tincture, any noninstantaneous duration of the tincture is inc
 
 You can spend 8 hours and an esoteric herb creating a tonic that has a duration of permanent. This tonic does not count against the amount of tonics a creature can have active at once. A creature can only benefit from a single permanent tonic at one time; consuming another ends the previous one’s duration.
 
-#### Hallucinatory Miasma (aroma) [DRS]
+#### Hallucinatory Miasma (aroma)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -626,7 +626,7 @@ This tonic reverses the imbiber's reaction to positive and negative energy, caus
 
 You may apply 2 tinctures as a standard action. Whenever you prepare concoctions, you can spend 1 use of skill leverage and choose one of the prepared concoctions; the chosen concoction can be applied as a swift action.
 
-#### Reactive Biology (remedy) [DRS]
+#### Reactive Biology (remedy)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 

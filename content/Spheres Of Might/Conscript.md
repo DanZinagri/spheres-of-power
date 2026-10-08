@@ -91,7 +91,7 @@ In addition, he can also move at his normal speed while wearing medium armor. At
 
 From 2nd level on, the conscript gains a banner that becomes a symbol of inspiration to his allies and companions. As long as the conscript’s banner is clearly visible, all allies within 60 ft. receive a +1 morale bonus on saving throws against fear and a +1 morale bonus on attack rolls made as part of a charge. At 6th level, and every four levels thereafter, these bonuses increase by +1. The banner must be at least Small or larger and must be carried or displayed by the conscript or a creature he is currently using as a mount.
 
-#### Barbarian Training (Ex) (2 points) [Conq. HB]
+#### Barbarian Training (Ex) (2 points)
 
 At 1st level, the conscript gains the Berserker sphere as a bonus sphere. If he already possesses a drawback that would remove berserking, he instead buys off that drawback.
 
@@ -103,7 +103,7 @@ At 3rd, 6th, and 16th level, the conscript gains a rage power and is treated as 
 
 **Note:** For rage powers with prerequisites (e.g. “totem” rage powers such as Beast Totem and Fiendish Totem, “blood” rage powers such as Abyssal Blood or Draconic Blood, or any other rage power that otherwise has rage powers as prerequisites), using that rage power as an (adrenaline) also grants the conscript the benefits of all prerequisite rage powers.
 
-#### Blackpowder Training (Ex) (2 points) [Conq. HB]
+#### Blackpowder Training (Ex) (2 points)
 
 At 1st level, the conscript gains the Firearm Proficiency Equipment sphere talent as a bonus talent.
 
@@ -113,13 +113,13 @@ At 6th level, while the conscript has at least 1 grit point, the conscript deals
 
 At 16th level, the conscript gains the following gunslinger deeds: expert loading, menacing shot, and startling shot.
 
-#### Bloodhound (Ex) (2 points) [CrimDan]
+#### Bloodhound (Ex) (2 points)
 
 The conscript revels in bloodshed. Any effect from him that would inflict bleed damage increases that bleed damage by 1, +1 for every 10 class levels he has. He additionally gains the ability to attempt Heal checks to try and end bleeds on creatures as a swift action, and gain a +2 bonus on any such checks.
 
 Starting at 5th level, he gains the blood identification class feature of the crimson dancer.
 
-#### Cavalier Training (Ex) (2 points) [Conq. HB]
+#### Cavalier Training (Ex) (2 points)
 
 At 1st level, the conscript gains the Guardian sphere (challenge) package as a bonus talent. If the conscript already has the Guardian sphere (challenge) package, he instead gains any talent he qualifies for from the Guardian sphere. In addition, the conscript chooses an order, as the cavalier class feature of the same name, and must follow the edicts of his order. The conscript does not gain his order’s additional class skills or skill bonuses, and does not gain his order’s challenge benefit until he receives the 3rd level benefit from this specialization.
 
@@ -195,11 +195,11 @@ Inspiration can also be used on attack rolls and saving throws, at the cost of t
 
 This counts as the investigator’s inspiration class feature, and conscripts with this ability add their investigator and conscript levels together when determining their uses per day and other level related functions of this ability.
 
-#### Invulnerability (Ex) (2 points) [Cata. HB]
+#### Invulnerability (Ex) (2 points)
 
 At 2nd level, you gain DR/— equal to half your conscript level. This damage reduction is doubled against nonlethal damage. This stacks with damage reduction from other conscript specializations.
 
-#### Ki Cultivator (Su) (2 points) [Youxia HB]
+#### Ki Cultivator (Su) (2 points)
 
 At 3rd level, a conscript gains a pool of ki points, supernatural energy they can use to accomplish amazing feats. The number of points in a conscript’s ki pool is equal to 1/2 their conscript level + their practitioner modifier. As long as they have at least 1 point in their ki pool, they can make a ki strike.
 
@@ -229,7 +229,7 @@ At 8th level, the conscript can use this ability to gain the benefit of two comb
 
 At 16th level, the conscript can use this ability to gain the benefit of three combat feats at the same time. He may select one feat as a free action, two feats as a swift action, or three feats as a move action. He may use one of the feats to meet a prerequisite of the second and third feats, and use the second feat to meet a prerequisite of the third feat. Each individual feat selected counts toward her daily uses of this ability. This counts as the brawler’s martial flexibility class feature; characters who gain martial flexibility from multiple sources add their class levels from all sources that grant martial flexibility together when determining their total class level and uses per day for this ability.
 
-#### Monstrous Form (Ex/Su) (1 point) [Origin]
+#### Monstrous Form (Ex/Su) (1 point)
 
 At 1st level, the conscript gains Eternal Transformation as a bonus feat, and he may not take Transformation or Hybrid Transformation and must immediately retrain these feats if he already possesses them. When he gains a combat talent from his conscript levels, the conscript may choose to take an auxiliary or utility origin talent instead. If the already possesses the Eternal Transformation feat, he must immediately retrain it for no cost.
 
@@ -289,7 +289,7 @@ At 8th level and again at 16th level, the bonuses on weapon attack rolls, damage
 
 At 10th level, a conscript can study a creature as a move or swift action. If the conscript possesses the sneak attack combat specialization, whenever a conscript deals sneak attack damage to a target, he can study that target as an immediate action, allowing him to apply his studied target bonuses against that target (including to the normal weapon damage roll).
 
-#### Swashbuckler Training (Ex) (2 points) [Conq. HB]
+#### Swashbuckler Training (Ex) (2 points)
 
 At 1st level, the conscript gains the Fencing sphere as a bonus sphere.
 
@@ -301,7 +301,7 @@ At 16th level, the conscript gains the following swashbuckler deeds: evasive, su
 
 **Special:** If the conscript has the blackpowder training specialization, he does not lose the bonus precision damage with his light or one-handed piercing melee weapon when he uses a firearm in his other hand.
 
-#### Vindictive Smite (Ex) (3 points) [Cata. HB]
+#### Vindictive Smite (Ex) (3 points)
 
 You can unleash your unbridled fury on those who harm your allies. Once per day as a swift action, you can smite one target within sight who has dealt hit point damage to you or an ally within the last 24 hours or who has ever killed you or an ally.
 
@@ -331,7 +331,7 @@ Whenever the conscript confirms a critical with a poisoned weapon, the DC of the
 
 **Master Alchemist (Ex):** At 20th level, the conscript doubles the affected area of any splash or burst items he uses; effects that normally only affect a single target instead affect all targets within 5 ft. of the point of impact, splash damage affects all creatures within 10 ft. instead of 5 ft., etc. In addition, the conscript may apply any poison in his possession to a wielded weapon as a free action, and each dose of poison applied to a weapon lasts for 1 additional attack.
 
-#### Alchemy Sub-Specialization: Toxicologist [EO3]
+#### Alchemy Sub-Specialization: Toxicologist
 
 The following abilities replace chemical specialization and masterful chemistry.
 
@@ -367,7 +367,7 @@ Additionally, the conscript gains a (toxin) talent as a bonus talent, which can 
 
 **Eternal Drunk (Ex):** At 20th level, the conscript is always treated as though he had the ‘drunk’ status for the purpose of talents which would grant benefits for having it, and all improvised weapons he wields are always treated as 2 size categories larger than they actually are for the purpose of determining how much damage they deal.
 
-#### Barroom Sub-Specialization: Improviser [EO3]
+#### Barroom Sub-Specialization: Improviser
 
 The following abilities replace broken creativity, lasting drunkenness, and eternal drunk.
 
@@ -466,7 +466,7 @@ Sleeping creatures are helpless. Slapping or wounding (but not taking bleed dama
 
 **Gladiatorial Weapon Master (Ex):** Once the conscript reaches 20th level, whenever he threatens a critical hit with a weapon with the performance special feature or any weapon from the Gladiator Training discipline, he automatically confirms the critical threat. In addition, he is always treated as having the Improved Critical feat for any of these weapons.
 
-#### Gladiator Sub-Specialization: Dreadbringer [EO3]
+#### Gladiator Sub-Specialization: Dreadbringer
 
 The following abilities replace armed intimidator, celebrity combatant and gladiatorial weapon master.
 
@@ -492,7 +492,7 @@ The following abilities replace armed intimidator, celebrity combatant and gladi
 
 **Impaling Monster (Ex):** At 20th level, a conscript can attempt to impale a creature with any attack he makes, and the impaled creature cannot take a move action or expend their martial focus.
 
-### [[Leadership]] [DRS]
+### [[Leadership]]
 
 *Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*
 
@@ -558,7 +558,7 @@ A number of times each day equal to 1/2 the conscript's level + their practition
 
 **Master Technician (Ex):** At 20th level, the conscript may craft a gadget from the Tech sphere to be permanent. While unactivated, permanent devices gain charges at the rate of 1 per hour. The conscript may only have one permanent device at a time, if the conscript has already reached this limit and wishes to create a new permanent device, he must select one of his existing permanent devices to dismantle.
 
-### [[Tinker]] [SUE]
+### [[Tinker]]
 
 **Power Storage (Ex):** At 3rd level, the conscript can maintain an additional number of battery gizmos equal to 3 + their practitioner modifier; batteries maintained this way do not count against the conscript's gizmo limit.
 
@@ -582,7 +582,7 @@ A magnum opus is any gizmo the conscript could craft, except the conscript may h
 
 **Enduring Trapper (Ex):** At 20th level, a conscript’s traps do not break when activated, resetting after 1 round. Each time they are activated, they lose 5 rounds of their duration (if a trap’s duration would be measured in minutes, it instead loses 5 minutes each time it is activated), breaking when their duration would expire. Traps that contain expendable items such as alchemical items still expend the item upon usage, but may be pre-loaded with additional items, in which case a new one is loaded when the trap resets.
 
-### [[Warleader (warleader-sphere)|Warleader]] [DRS]
+### [[Warleader (warleader-sphere)|Warleader]]
 
 *Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
@@ -652,7 +652,7 @@ This effect lasts until the snake's head is killed or surrenders, the encounter 
 
 The following feats are particularly appropriate or useful for conscripts
 
-#### Hybridized Specialty [3PP]
+#### Hybridized Specialty
 
 *Source: Baron’s Glorious Arena*
 
@@ -668,7 +668,7 @@ The following feats are particularly appropriate or useful for conscripts
 
 The following magical item is especially appropriate for conscripts.
 
-#### Expert’s Battle Kit [TS:WAT]
+#### Expert’s Battle Kit
 
 **Aura** faint War; **CL** 3rd
 **Slot** any; **Price** 15,000 gp; **Weight** 2 lbs.

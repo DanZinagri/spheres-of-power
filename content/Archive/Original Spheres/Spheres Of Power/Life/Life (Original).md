@@ -25,15 +25,15 @@ when the ability is used, and ends 1 minute later at the latest, even if the tri
 
 ---
 
-# Invigorate [Core]
+# Invigorate
 
 As a standard action, you may invigorate a touched creature, granting them temporary hit points equal to your caster level (minimum: 1). Unlike normal temporary hit points, this ability can only be used on an injured target and cannot raise a target’s current hit points plus their temporary hit points to be higher than their total hit points. This benefit lasts for 1 hour. Temporary hit points, even from different sources, do not stack; only the highest bonus applies.
 
-# Cure [Core]
+# Cure
 
 As a standard action, you may spend a spell point to touch a target and heal it an amount of damage equal to 1d8 + your caster level. This is a positive energy effect, and as such may be used to harm undead (Will half).
 
-# Restore [Core]
+# Restore
 
 As a standard action, you may touch a target and spend a spell point to restore their physical and mental health.
 
@@ -83,7 +83,7 @@ If you possess the Restore Senses talent, you may make a creature lose a sense o
 
 If you possess the Restore Soul talent, you may cause the creature to become unable to be the recipient of any healing for 2d6 rounds, including those from fast healing or regeneration. No saving throw is allowed against this effect.
 
-#### Break Enchantment [Core]
+#### Break Enchantment
 
 You may spend an additional spell point to allow your restore ability to removes all magic from the target that has a duration. This may be used against curses including cursed equipment, although it does not remove the curse from the equipment, but instead suppresses the effect long enough for the item to be removed. You must succeed at a magic skill check against each magical effect in order to remove it. You may choose not to remove certain effects if you so desire (for example, you may target only harmful effects and not beneficial ones). This counts as using the break enchantment or remove curse spell against those spells and effects that specify they can only be removed through those spells. This has no effect on instantaneous effects.
 
@@ -129,25 +129,25 @@ If you use this talent to restore multiple creatures, the durations of condition
 
 When you use your Life sphere abilities, you may choose for them to not be positive energy effects. Used this way, your Life sphere abilities can heal non-living creatures such as constructs or undead, though they do not work on inanimate objects. This does not allow you to harm creatures you could not harm before with positive energy.
 
-#### Fount of Life [Core]
+#### Fount of Life
 
 You may store a cure within yourself, allowing you to access that healing as needed throughout the day. You spend a spell point and roll the damage healed as normal, except rather than healing by the given amount, that amount of healing is stored. You may store multiple cures in this manner to increase the amount of stored healing, but you cannot store more healing within you than 10 x your caster level. Stored healing is lost when you rest to recover spell points.
 
 You may draw on this stored healing to heal targets exactly as if using your cure ability, except you do not need to spend a spell point; you may choose the amount of healing granted (to a maximum amount equal to your stored healing), and any healing granted to a target is subtracted from your stored healing.
 
-#### Greater Healing [Core]
+#### Greater Healing
 
 Your cure effect heals 2 points per caster level instead of 1 point per caster level. You may take this talent a total of 4 times. Each time this talent is taken, increase the amount healed by 1 hit point per caster level, to a maximum of 5 hit points per caster level.
 
-#### Greater Invigorate [Core]
+#### Greater Invigorate
 
 When placing an invigorate on a target, add your casting ability modifier to the amount of temporary hit points granted, and increase the duration to 1 hour per caster level.
 
-#### Greater Restore [Core]
+#### Greater Restore
 
 When restoring a target, instead of lessening the exhausted, nauseated, frightened, and panicked conditions, they are completely removed. This also heals all ability damage and the stunned condition.
 
-#### Healthy Invigorate [Core]
+#### Healthy Invigorate
 
 You may spend a spell point when using invigorate to allow your invigorate to increase a target’s effective hit point total to reach beyond their usual hit point total, as is normal with temporary hit points. This means you may use this talent to grant an invigorate to a creature already at its maximum hit points.
 
@@ -161,7 +161,7 @@ Whenever you remove a condition completely from a creature using your restore ab
 
 Whenever an ally regains hit points from you using your cure ability, they gain damage reduction equal to 1/2 your caster level or the number of hit points regained (whichever is less) for 2 rounds. This is not compatible with any form of fast healing you may grant.
 
-#### Mass Healing [Core]
+#### Mass Healing
 
 You may spend an additional spell point when using a cure or invigorate to affect an additional creature per 2 caster levels (minimum: 1). All targets must be within range.
 
@@ -173,11 +173,11 @@ You may spend an additional spell point when using a restore to affect an additi
 
 Whenever you invigorate a target, they are also healed of an equal amount of non-lethal damage. They are healed up to the maximum amount you can invigorate, even if this amount is greater than the number of temporary hit points you grant the target.
 
-#### Ranged Healing [Core]
+#### Ranged Healing
 
 Your cure, invigorate, and restore abilities have a range of Close rather than Touch.
 
-#### Restorative Cure [Core]
+#### Restorative Cure
 
 When using your cure or invigorate abilities on a target or targets, you may spend an additional spell point to restore them as well.
 
@@ -185,31 +185,31 @@ When using your cure or invigorate abilities on a target or targets, you may spe
 
 Your cure ability heals an additional 1d8 hit points. When restoring a target, the target is also cured of magical effects charm effects, but not control or compulsion effects. They are also cured of all emotional effects, magical or non-magical. This does not undo the effects of instantaneous abilities that have already finished, such as a successful Diplomacy check, or being affected by any form of illusion or deceit.
 
-#### Restore Health [Core]
+#### Restore Health
 
 Your cure ability heals an additional 1d8 hit points. When restoring a target, you may make a magic skill check against the DC of any poison or disease the target is suffering from. On a success, this removes that poison or disease from the target. This does not reverse damage the target may have suffered from the poison or disease (such as ability damage), but it does stop the poison or disease from causing any more.
 
-#### Restore Mind [Core]
+#### Restore Mind
 
 Your cure ability heals an additional 1d8 hit points. When restoring a target, the target is also cured of the confused and dazed conditions.
 
-#### Restore Movement [Core]
+#### Restore Movement
 
 Your cure ability heals an additional 1d8 hit points. When restoring a target, the target is freed from movement-impairing effects. The target may make an immediate Escape Artist check with a bonus equal to your caster level against any applicable condition (for example, if it is entangled or grappled), and you may make a magic skill check against any spell or effect that causes paralysis, removing the condition if you succeed.
 
-#### Restore Senses [Core]
+#### Restore Senses
 
 Your cure ability heals an additional 1d8 hit points. When restoring a target, the target is also cured of all temporary or magical removal of their senses. This includes blindness, deafness, loss of Tremorsense, Blindsense, etc.
 
-#### Restore Soul [Core]
+#### Restore Soul
 
 Your cure ability heals an additional 1d8 hit points. When restoring a target, the target is also cured of all ability drain and temporary negative levels.
 
-#### Resuscitate [Core]
+#### Resuscitate
 
 Your cure and invigorate abilities function on creatures who have died within no more than 1 round. If the target’s new hit point total is at a negative amount greater than its Constitution score, then it comes back to life and stabilizes at its new hit point total. Otherwise the target remains dead. Creatures brought back to life in this manner gain a temporary negative level.
 
-#### Revitalize [Core]
+#### Revitalize
 
 When curing a target or targets, you may choose to grant the target Fast Healing instead of directly healing damage. This grants the target Fast Healing 1 for 1 minute per caster level. Increase the amount of Fast Healing granted by the number of times you have taken the Greater Healing talent. (Thus, if you had gained the Greater Healing talent twice, you could grant a target Fast Healing 3.)
 

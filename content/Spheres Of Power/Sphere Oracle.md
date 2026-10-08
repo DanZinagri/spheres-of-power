@@ -39,11 +39,11 @@ If your curse provides you with spells known (for example, Haunted), you instead
 
 The following revelations may be taken by an Oracle of any mystery.
 
-#### Chance Feat [EO3]
+#### Chance Feat
 
 You gain a single chance feat that you qualify for. At 8th level, and again at 16th level, you gain an additional chance feat that you qualify for.
 
-#### Mystery Arcana [EO3]
+#### Mystery Arcana
 
 Choose one magic sphere. You gain one magic talent as a bonus talent from that sphere. At 8th level, and again at 16th level, you can choose to either gain an additional magic talent in the chosen sphere or a feat which has the chosen sphere as a prerequisite.
 

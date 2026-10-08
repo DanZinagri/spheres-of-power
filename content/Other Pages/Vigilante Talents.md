@@ -30,7 +30,7 @@ Where the avenger uses enhanced martial arts techniques and the stalker leverage
 
 ### Vigilante Talents
 
-#### Enhanced Disguise (requires casting ability, Enhancement sphere) [EO2]
+#### Enhanced Disguise (requires casting ability, Enhancement sphere)
 
 The investigator chooses one piece of equipment associated with his vigilante identity. While in his vigilante identity, he may use his class level as his caster level for Enhancement sphere abilities targeting that piece of equipment. In addition, whenever he enhances that piece of equipment in his vigilante identity, he may choose to have the effect continue without concentration without spending a spell point. Only one such effect may be maintained at a time; choosing to continue another effect without concentration and without spending a spell point ends the previous effect. The effect ends if the piece of equipment is out of his possession for more than a round or if he enters his social identity. This ability only applies to the spell point spent to relinquish concentration. If another feat, talent, or class feature grants him the ability to spend more spell points when relinquishing concentration to improve the effects, he still needs to spend the additional spell points to gain those benefits.
 
@@ -38,19 +38,19 @@ While wearing or wielding an enhanced piece of equipment he has chosen for this 
 
 This talent can be selected multiple times. Each time the vigilante chooses a different piece of equipment. The competence bonus to Disguise does not stack, but rather increases by +1 for each additional piece of equipment.
 
-#### Expanded Champion Training [EO2]
+#### Expanded Champion Training
 
 The vigilante gains a champion feat as a bonus feat. If he has the Double Life ability he may instead gain two champion feats as bonus feats; one is only available in his social identity while the other is only available in his vigilante identity. He must meet all prerequisites for the chosen feats in the identity they are available in. This talent can be selected more than once.
 
-#### Expanded Combat Training [EO2]
+#### Expanded Combat Training
 
 The vigilante gains the Extra Combat Talent feat as a bonus feat. The talent he choses counts as being from vigilante levels for the purpose of the Double Life ability. This talent can be selected more than once.
 
-#### Expanded Magic Training [EO2]
+#### Expanded Magic Training
 
 The vigilante gains Basic Magic Training or Extra Magic Talent feat as a bonus feat. The talent he choses counts as being from vigilante levels for the purpose of the Double Life ability. This talent can be selected more than once.
 
-#### Extended Double Life (requires Double Life, Vigilante 8) [EO2]
+#### Extended Double Life (requires Double Life, Vigilante 8)
 
 The vigilante selects up to 2 combat or magic talents he knows from sources other than vigilante levels. He may choose to assign each to either his social identity or his vigilante identity, and to learn an equal number of the same type (combat or magic) of talents available in the other identity. For every 4 vigilante levels above 8, including those gained after selecting this talent, the vigilante may select an additional talent to use with this ability.
 
@@ -160,7 +160,7 @@ During the process of assuming his vigilante identity (or as a swift action take
 
 The vigilante may gain (enhance) Enhancement talents that may affect creatures. The vigilante may also gain vigilante talents normally restricted to the brute vigilante archetype, but can only use these talents while in his vigilante identity.
 
-#### Increased Magical Capacity [VoS]
+#### Increased Magical Capacity
 
 The vigilante gains the Extra Magic Talent feat as a bonus feat and increases his effective caster level by 1. This talent may be taken once, +1 at 6th level and every 4 levels thereafter. The vigilante must possess the casting class feature, the Basic Magic Training feat, or the Enigma specialization or Possessed archetype to select this talent.
 
@@ -220,7 +220,7 @@ In addition, in conditions of Strong or more severe wind, the vigilante may spen
 
 ### Social Talents
 
-#### Celebrity Explorer (social) [Conq. HB]
+#### Celebrity Explorer (social)
 
 The vigilante’s familiarity with his area of renown expands even further into the surrounding countryside and wilderness. While within three miles per vigilante level of his area of renown, the vigilante gains a +4 circumstance bonus on Survival checks and a +2 circumstance bonus on Knowledge (geography) checks made about the area near and around a community he holds renown with.
 
@@ -228,7 +228,7 @@ The vigilante’s familiarity with his area of renown expands even further into 
 
 Whenever the vigilante uses any sphere ability, he can attempt to hide its effects. Whenever he casts defensively, other creatures must attempt a Perception check against a DC equal to the vigilante’s concentration check to even notice the casting. Failure to do so prevents any reactions to his casting from taking place. This does not make any touch attacks associated with the spherecasting undetectable, however.
 
-#### Skilled Socialite (Ex) [Spheres of Guile]
+#### Skilled Socialite (Ex)
 
 A vigilante can select a [utility] talent in place of a social talent. He may select this social talent multiple times.
 

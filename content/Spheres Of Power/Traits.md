@@ -10,13 +10,13 @@ parent: "[[Spheres Of Power]]"
 
 The following are new traits that spherecasting (and other) characters can take.
 
-#### Optional Rule: Trait Talent Exchange [SoG]
+#### Optional Rule: Trait Talent Exchange
 
 Whenever a character would gain traits (either at level 1 or when they take the Additional Traits feat), they may exchange two of those traits for a single Utility talent of their choice.
 
 ---
 
-## Character Legacies [HMH]
+## Character Legacies
 
 In a world with many adventurers, there will inevitably be a few who survive long enough to achieve tremendous power and retire from their adventuring days. In most settings, such characters simply vanish from the lore, assumed to have died uneventfully or to be out in remote corners of existence. Many players and GMs may feel this exit to be inadequate in light of everything the character has done. The following section outlines several options for retired characters’ legacies, each of which comes with a special trait which is open to all characters.
 
@@ -112,11 +112,11 @@ You have been trained in giving quick, efficient first aid, possibly as a field 
 
 **Benefit:** You can use the first aid aspect of the Heal skill as a swift action instead of a standard action, and Heal is always a class skill for you.
 
-#### Corpse Watcher [SoG]
+#### Corpse Watcher
 
 You assisted an undertaker, death priest, or rescuer. You can tell whether a creature is breathing as a swift or move action if you are within 30 feet and it is not intentionally trying to fool you. You also get a +3 trait bonus on Heal checks to learn information (but not to apply a treatment).
 
-#### Groundbreaker (Combat) [DRS]
+#### Groundbreaker (Combat)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -124,7 +124,7 @@ Choose a single dredge option granted by a (ground) talent from the Survivalism 
 
 If you possess the chosen talent, you treat your associated ranks as being 1 higher for determining the dredge option’s effects.
 
-#### Healthy Retainers [SoG]
+#### Healthy Retainers
 
 You know how to keep your subordinates healthy, perhaps due to time spent as a monastic initiate, cook, or even military officer. When you requisition a Faction sphere retainer, their average hit points increases by 1 per Hit Die.
 
@@ -140,7 +140,7 @@ You have battled with magic since a very young age.
 
 **Benefit:** You gain a +1 trait bonus on attack rolls with your destructive blast.
 
-#### Spatial Awareness [BaP]
+#### Spatial Awareness
 
 While you may have trouble picturing how objects interact in space, you have always possessed an uncanny knack to put things right where they need to be. When using the Creation sphere to make an attack roll, such as with a falling object or the Created Momentum talent, you may choose to use your Dexterity or your casting ability modifier instead of your Intelligence when calculating your attack bonus. In addition, Knowledge (engineering) is always a class skill for you.
 
@@ -156,7 +156,7 @@ Blows to the head can sometimes have benefits.
 
 **Benefit:** You have a slight but persistent ringing in your ears. You gain a +1 trait bonus to Will saves against sonic and language dependent effects using spoken languages. This bonus also applies to illusions with an auditory component.
 
-#### Tough Work [SoG]
+#### Tough Work
 
 Choose a single Profession skill you possess. You may use your Strength modifier instead of your Wisdom modifier when determining your bonus with the chosen Profession skill.
 
@@ -164,23 +164,23 @@ Choose a single Profession skill you possess. You may use your Strength modifier
 
 Drawbacks allow you to take an additional trait, as described in Chapter 1 of Pathfinder Roleplaying Game: Ultimate Campaign.
 
-#### Abrasive [SoG]
+#### Abrasive
 
 You take a –5 penalty on Diplomacy checks to improve a creature’s attitude, entertain, or make an impressive display of skill, and you must always invoke a creature’s motivation to improve their attitude toward you. Creatures aware of your association with your allies also apply a –2 penalty to your allies’ checks to improve their attitude.
 
-#### Citrus Anathema [Catgirl HB]
+#### Citrus Anathema
 
 You were tormented by the elemontalists and driven from your home. You are sickened and anxious around their magical handiwork, and have difficulty being near or around the accursed fruit. Whenever you take acid damage, you are sickened for 1 round. If a creature with this drawback would ever gain immunity to acid damage, it instead becomes acid resistance 40. This sickened condition bypasses any immunity to the sickened condition the creature may possess.
 
-#### Idle Theorist [SoG]
+#### Idle Theorist
 
 You have a badly inflated view of your own worldly knowledge and sometimes confuse things you imagined or hypothesized for fact. Any skill checks made to recall information (such as Appraise, Knowledge, Lore, Profession, etc.) or to aid another creature’s check to recall information are hidden checks for you. If you would fail such a check or roll a 1 on the die, you or the aided creature receive a believable but false piece of information instead. You cannot take 10 on checks to recall information or aid another on such a check.
 
-#### Poor Impulse Control [SoG]
+#### Poor Impulse Control
 
 You take a -2 penalty on saving throws against mind-affecting effects and to the DC of skill checks to give you emotion conditions; this increases to -3 if the saving throw is against an anger condition.
 
-#### Snobby [SoG]
+#### Snobby
 
 You and your apparent allies inspire a starting attitude that is one step worse in creatures who have an Intelligence score that is below yours.
 
@@ -198,7 +198,7 @@ You inherited a necrotic marionette, possibly from a parent or mentor.
 
 **Benefit:** You begin play with a battered necrotic marionette with 1 Hit Die. Creatures other than you cannot reanimate it. It can only be sold for scrap (it is worth 1d10 gp when sold), but it can be upgraded normally, upon which everyone can reanimate it.
 
-#### Rapid Preparation (requires Survivalism sphere (harvest) package) [SoG]
+#### Rapid Preparation (requires Survivalism sphere (harvest) package)
 
 You learned at a young age never to trust that a hunt’s danger ends when the kill is made. When refining a harvested component, it only takes you 20 minutes, or 10 minutes if you have a survival kit.
 
@@ -208,7 +208,7 @@ You grew up alongside airships, possibly as a trader or a wealthy noble who enjo
 
 **Benefit:** You begin play with a personal skyrider, which has bonus hit points equal to twice your ranks in Craft (airship). You can repair this vehicle by spending 4 hours and attempting a Craft (airship) check, restoring a number of hit points equal to the result. If it is destroyed, you may replace it by spending 20 gp and 8 hours. Any other creature attempting to pilot this craft takes a -8 penalty to their Fly check. You may also accelerate, decelerate, or turn a skyrider as a move action.
 
-#### Specific Upgrades (Equipment) [DRS]
+#### Specific Upgrades (Equipment)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -216,7 +216,7 @@ Choose a single flourish granted by a (flourish) talent from the Artifice sphere
 
 If you possess the chosen talent, you treat your associated ranks as being 1 higher for determining the effects of the chosen flourish.
 
-#### Thrifty Tailoring [SoG]
+#### Thrifty Tailoring
 
 When creating a disguise, you create it in the least time possible, reducing the normal 1d3 × 10 minutes of work to 10 minutes. This also applies to any other variable-based timing when creating a disguise. You reduce the Disguise penalty for applying a disguise faster by 4 (total).
 
@@ -252,7 +252,7 @@ Your conviction gives weight to magic enacted for battle.
 
 **Benefit:** You gain a +1 trait bonus to your caster level when using talents and abilities from the Alteration, Nature, and Weather spheres. This increase in caster level may not raise your caster level over your Hit Dice. In addition, you may attend, if not participate in, rituals and incantations performed inside hallowed druid stone circles.
 
-#### Horrifying Omen [SoG]
+#### Horrifying Omen
 
 You spent much of your youth reading disturbing religious literature or listening to grim mystics. You can attempt a Knowledge (religion) check instead of a Bluff check when attempting to make a troubling claim against a creature, as you speak of a terrible omen that may potentially befall the creature or their line of work; you do not need to use a creature’s motivations when attempting this check, but you take a -5 penalty if you do not.
 
@@ -262,7 +262,7 @@ You are a mystic wanderer, initiated into the mysteries of the path.
 
 **Benefit:** Your caster level is treated as 2 higher when determining the distance you can travel with teleport.
 
-#### Sacred Preparation (Faith) [DRS]
+#### Sacred Preparation (Faith)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -276,7 +276,7 @@ You are hard to convince and extremely critical.
 
 **Benefit:** You gain a +1 trait bonus to Sense Motive checks and a +1 trait bonus to Will saves vs. illusions, enchantments, and Mind sphere effects.
 
-#### Zealous Conviction [SoG]
+#### Zealous Conviction
 
 You gain a +1 trait bonus to saving throws against effects that would impede your movement or actions (such as being entangled, grappled, paralyzed, staggered, effects that reduce your movement, etc). If you are under the effects of an anger effect, this trait bonus increases to +3.
 
@@ -288,11 +288,11 @@ You gain a +1 trait bonus to saving throws against effects that would impede you
 
 **Benefit:** You may select a second condition that you may teleport to or from. So long as both your starting position and your destination meet one of your two conditions, you may teleport.
 
-#### Assisted Playing [SoG]
+#### Assisted Playing
 
 You can play a two-handed instrument with just one hand as long as you spend a swift action each round to maintain the magic effect.
 
-#### Blood Manipulator [BaP]
+#### Blood Manipulator
 
 You are gifted at manipulating your blood to achieve feats of physics. You may use the Blood sphere to qualify for protokinesis feats as though you possessed the Telekinesis sphere. You may use your Blood sphere caster level in place of your character level or Telekinesis sphere caster level when determining the effects of protokinesis feats you possess (if beneficial to you).
 
@@ -432,7 +432,7 @@ You learn to conserve but ready your energy, poising it on the edge but holding 
 
 **Benefit:** You gain a second spell point pool that can hold two spell points. This spell pool never refreshes, but you may fill it by shifting points from your primary spell point pool as a full-round action. These spell points may only be spent on talents and effects related to the Telekinesis sphere.
 
-#### Practiced Surge [WM]
+#### Practiced Surge
 
 Your intense study has granted you some measure of control over your wild magic events.
 
@@ -482,7 +482,7 @@ You are more connected to dreams than others.
 
 **Benefit:** Twice per day as a full-round action you may grant yourself a temporary spell point. This spell point may only be used on Illusion or Divination sphere effects and dissipates after a number of rounds equal to your Hit Dice.
 
-#### Weird Virtuoso [DRS]
+#### Weird Virtuoso
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -498,7 +498,7 @@ You have traces of fey blood in your veins, granting you an affinity for fey mag
 
 **Special:** A member of any race may select this trait.
 
-#### Inured to Chaos [WM]
+#### Inured to Chaos
 
 Resistance to chaotic magic runs in your blood.
 
@@ -514,7 +514,7 @@ Your skin (or a patterned portion of it) shines with a strange luminescence that
 
 ## Region
 
-#### Colloquial Terms [SoG]
+#### Colloquial Terms
 
 You know how to say things so only locals understand your meaning. The DC for a creature to understand a secret message you pass is increased by 5 unless they are from your home region. You get a +4 trait bonus on Linguistics checks to communicate with a creature without sharing a language. While you share a Communication sphere rapport (yours or someone else’s), these benefits apply to all creatures sharing the rapport.
 
@@ -522,7 +522,7 @@ You know how to say things so only locals understand your meaning. The DC for a 
 
 **Benefit:** As a full-round action you may grant yourself blindsense 10 feet for one round.
 
-#### Guide (Region) [DRS]
+#### Guide (Region)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -530,7 +530,7 @@ Choose a single acclimation benefit from the Navigation sphere (even if you do n
 
 If you possess the chosen talent, you treat your associated ranks as being 1 higher for determining the effect of the chosen acclimation benefits.
 
-#### Herbal Knowledge (Region) [DRS]
+#### Herbal Knowledge (Region)
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -560,7 +560,7 @@ If you do not possess the (herbal) package, the number of herbs you can gather i
 
 **Benefit:** You gain a +1 trait bonus to caster level for the Blood, Death, and Destruction spheres. This bonus cannot cause your caster level to exceed your Hit Dice.
 
-#### Religious Orator (Religion for a publicly known religious organization) [SoG]
+#### Religious Orator (Religion for a publicly known religious organization)
 
 You can use Wisdom in place of Charisma for Perform (oratory) checks and you gain a +2 trait bonus to Perform (oratory) checks made as an impressive display of skill or to entertain. The bonus increases to 4 against followers of your religion.
 
@@ -578,7 +578,7 @@ You follow a spiritual path of freedom, distancing yourself from the world in or
 
 ## Social
 
-#### Author [SoG]
+#### Author
 
 Choose one Artistry skill. Whenever you take 10 with that skill, determine the result as if you had rolled a 12 instead of a 10.
 
@@ -586,7 +586,7 @@ Choose one Artistry skill. Whenever you take 10 with that skill, determine the r
 
 **Benefit:** You may use Charisma in place of Wisdom when you use your Heal skill, and Heal is always a class skill for you.
 
-#### Empathetic [SoG]
+#### Empathetic
 
 You may add your Charisma modifier instead of your Wisdom modifier when determining your Sense Motive bonus.
 
@@ -594,7 +594,7 @@ You may add your Charisma modifier instead of your Wisdom modifier when determin
 
 **Benefit:** You gain a +2 trait bonus to Knowledge (planes) to identify monsters. The Knowledge (planes) skill is always a class skill for you.
 
-#### Hard to Impress [SoG]
+#### Hard to Impress
 
 You gain a +2 trait bonus on saving throws against the fascinated and impressed conditions or any anger condition as well as charm effects. Increase the DC of skill checks to give you any of those conditions by 2.
 
@@ -602,7 +602,7 @@ You gain a +2 trait bonus on saving throws against the fascinated and impressed 
 
 **Benefit:** You gain a +2 trait bonus to Bluff checks to impersonate another creature and Bluff is always a class skill for you.
 
-#### Learned Readiness [BaP]
+#### Learned Readiness
 
 You grew up in an area of chaotic turmoil, whether ravaged by war or facing persecution, and know how to see danger on the horizon and prepare. Perception is always a class skill for you. In addition, if a casting tradition you possess includes the Prepared Casting general drawback, when you assign your spell points, you may choose to leave up to two spell points unassigned. Until the next time you rest and regain spell points, you may spend 15 minutes to assign one or both unassigned spell points. Unassigned spell points cannot be spent on sphere abilities until assigned.
 
@@ -622,11 +622,11 @@ You grew up in an area of chaotic turmoil, whether ravaged by war or facing pers
 
 **Benefit:** You gain a +2 trait bonus on Charisma-based checks against outsiders. If you have an ability to substitute another ability score when attempting such checks, this bonus still applies. Additionally, you receive a 10% discount whenever bargaining for the services of a called outsider.
 
-#### Reliable Leverage [SoG]
+#### Reliable Leverage
 
 You have always had a knack for getting into trouble and quickly finding a way out again. When using the change tactics skill leverage use, a roll of a 1 on the die is instead treated as a 2.
 
-#### Scaredy Cat [Catgirl HB]
+#### Scaredy Cat
 
 Being afraid isn’t always a bad thing, sometimes it means insurmountable courage. Other times it means dashing away to hide under the covers.
 
@@ -636,7 +636,7 @@ This trait only works once per day for each source of a fear effect. For the pur
 
 **Example:** You fail a saving throw against a dragon’s frightful presence ability. You are not immediately shaken, and may act normally during your next turn. If you do not leave the aura’s area of effect, you are affected by the fear effect normally. The dragon is treated as a single source of a fear effect, even if it could produce fear effects with multiple abilities (such as using Intimidate, through magic, etc.).
 
-#### Social Butterfly (requires Communication sphere) [SoG]
+#### Social Butterfly (requires Communication sphere)
 
 You may maintain a rapport with an additional creature, as long as they are at least friendly towards you. If their attitude toward you becomes indifferent or worse, their rapport immediately ends.
 

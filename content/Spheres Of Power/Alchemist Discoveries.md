@@ -21,7 +21,7 @@ An alchemist may only apply a single mutagen improvement to a mutagen, chosen ea
 
 The alchemist may spend a spell point to spontaneously create a bomb. This is a free action. If he has any other class features that require the use of bombs, the expenditure of bombs may be substituted with an equal amount of spell points instead. This does not give him the bombs class feature if he does not possess it.
 
-#### Beyonder’s Infusion (Su) (mutagen improvement) [RW HB]
+#### Beyonder’s Infusion (Su) (mutagen improvement)
 
 The alchemist’s brew contains planar essence which masks the alchemist’s presence with that of a greater being.
 
@@ -37,7 +37,7 @@ An alchemist must be at least 10th level and have the ability to brew a mutagen 
 
 The alchemist gains Blood Potion as a bonus feat even if he does not possess the Blood sphere. The alchemist may use his Intelligence score as his casting ability modifier for this feat, if he does not possess a sphere-based archetype already.
 
-#### Bottled Aurora (Su) (mutagen improvement) [RW HB]
+#### Bottled Aurora (Su) (mutagen improvement)
 
 The alchemist’s brewed mutagen contains hints of beautiful, shifting energy.
 
@@ -48,7 +48,7 @@ Whenever the alchemist brews a mutagen (or other mutagen-like ability), he may c
 
 As a move action, the alchemist may reduce the aurora mutagen’s remaining duration by 1/2. If he does, the alchemist may choose a new energy type for the aurora mutagen’s effects. An alchemist must be at least 8th level and have the ability to brew a mutagen (or other mutagen-like ability, such as cognatogen) before selecting this discovery.
 
-#### Catnip Compounder (requires alchemist 4) [Catgirl HB]
+#### Catnip Compounder (requires alchemist 4)
 
 Whenever the alchemist consumes catnip (see the Recreational Substances for Cats rules on the [[Alchemical Items]] page), the alchemist increases the catnip’s beneficial effects as though they consumed multiple doses of that catnip. The alchemist increases the potency of a single dose of catnip by 1 for every 4 alchemist levels they possess. Negative effects of consumed catnip are not increased.
 
@@ -63,7 +63,7 @@ This alchemist discovery beneficially increases the effects of a single dose of 
 
 A catnip dose’s duration and any other additional effects (e.g. “once during this duration”) are not affected.
 
-#### Companion Chemistry (Su) [BTH]
+#### Companion Chemistry (Su)
 
 The alchemist gains the ability to create micromutagens, unique mutagen mixtures specially brewed to enhance his subordinate’s abilities. The alchemist can prepare a number of micromutagens equal to 1 + his Intelligence modifier. Each micromutagen’s effects are individually determined when created and may only be consumed by one of the alchemist’s subordinates. The alchemist can prepare micromutagens by themselves or as part of brewing a mutagen normally.
 
@@ -91,15 +91,15 @@ Hallucinogens continue to grant the effects for as long as the alchemist concent
 
 The alchemist may gain a hedgewitch secret, having an effective hedgewitch level equal to his alchemist level. The alchemist cannot gain a secret associated with a Path he does not have access to. The alchemist must have spherecasting capability in order to select this discovery. He may select this alchemist discovery multiple times, each time selecting another hedgewitch secret.
 
-#### Immunizing Panacea (requires alchemist 9, Alchemy sphere (Panacea (formulae)), improved panacea) [AoP2]
+#### Immunizing Panacea (requires alchemist 9, Alchemy sphere (Panacea (formulae)), improved panacea)
 
 The alchemist’s understanding of humanoid biology and reactions begin to develop further, allowing him to develop panaceas that prevent an ailment for a time. When created a panacea, the alchemist may increase the DC by 10 to grant the affected creature immunity to the removed condition(s) for a number of rounds equal to his practitioner modifier (minimum 1).
 
-#### Improved Salve (requires alchemist 6, Alchemy sphere (Salve (formulae))) [AoP2]
+#### Improved Salve (requires alchemist 6, Alchemy sphere (Salve (formulae)))
 
 The alchemist’s understanding of humanoid biology and alchemical reagents increases, allowing him to increase the potency of his salves. When creating a salve, the alchemist may increase the DC by 5 to increase the die size of the amount healed to d10s instead of d8s.
 
-#### Improved Panacea (requires alchemist 6, Alchemy sphere (Panacea (formulae))) [AoP2]
+#### Improved Panacea (requires alchemist 6, Alchemy sphere (Panacea (formulae)))
 
 The alchemist’s understanding of various reactions the body can have to particular toxins and spells allows him to add reagents that aid against ailments. When creating a panacea, the alchemist can increase the DC by 5 to grant a creature who drinks his panacea gain a +4 bonus to saving throws made against the negative condition that was removed for 1 minute.
 
@@ -111,7 +111,7 @@ The alchemist can create bombs that contain darkness effects from the Dark spher
 
 The alchemist chooses a (blast shape) basic talent from the Destruction sphere. When he uses a spell bomb, he may apply this blast shape to his spell bomb, using his class level as his caster level. He must pay any spell point costs involved. He may acquire this discovery multiple times. Each time, he chooses a different Destruction sphere (blast shape) talent.
 
-#### Shaped Formulae (requires alchemist 8, Alchemy sphere ((formulae) package)), Destruction sphere [EO2]
+#### Shaped Formulae (requires alchemist 8, Alchemy sphere ((formulae) package)), Destruction sphere
 
 When the alchemist creates a formulae that is used by making a ranged attack (including a ranged touch attack), he may spend a spell point to have its effect changed as though he applied a (blast shape) talent he knows to it. He must spend any spell points associated with the talent, and his range is still limited to five times his formulae’s range increment.
 

@@ -31,7 +31,7 @@ Based around the use of the Squadron Commander or Troop Commander feats, Squadro
 
 **Benefit:** As a swift action, you may spend a spell point and designate a target. Until the beginning of your next turn, whenever a member of your squadron hits that target, all members of your squadron receive an additional +1 circumstance bonus to attack rolls and damage against that target. Members with iterative attacks can benefit from bonuses generated earlier in the same turn. This bonus stacks with itself, up to a maximum equal to your War sphere caster level.
 
-#### Infantry Formation (Squadron) [High. HB]
+#### Infantry Formation (Squadron)
 
 **Prerequisite:** Squadron Commander or Troop Commander.
 
@@ -125,7 +125,7 @@ Squadron members must be specific individuals. Squadrons can include summoned co
 
 Members of your squadron gain increased bonuses from your totems. If a totem grants a bonus to any d20 roll or any number that is the target of a d20 roll (such as AC, attack rolls, saving throws, CMB, CMD, ability checks, skill checks, concentration checks, or spell penetration checks), that bonus increases by +1, and an additional +1 for every 10 War caster levels you possess.
 
-#### Troop Commander (Squadron) [High. HB]
+#### Troop Commander (Squadron)
 
 **Prerequisite:** Warleader sphere.
 

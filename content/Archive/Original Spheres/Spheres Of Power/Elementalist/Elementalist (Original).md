@@ -116,13 +116,13 @@ The following are feats from Spheres of Power that are particularly relevant or 
 
 **Benefit:** You gain an additional electrokinetic stunt for which you qualify. You may take this feat multiple times. The effects stack.
 
-#### Extra Magic Talent [Core]
+#### Extra Magic Talent
 
 **Prerequisite:** Basic Magic Training or Casting class feature.
 
 **Benefit:** Gain an additional sphere or a talent from a sphere you possess. You may take this feat multiple times. The effects stack.
 
-#### Extra Spell Points [Core]
+#### Extra Spell Points
 
 **Prerequisite:** Spell Pool.
 
@@ -134,7 +134,7 @@ The following are feats from Spheres of Power that are particularly relevant or 
 
 **Benefit:** Your second and third favored elements receive the same damage bonus as your first favored element.
 
-#### Sphere Focus [Core]
+#### Sphere Focus
 
 **Prerequisite:** Casting class feature.
 

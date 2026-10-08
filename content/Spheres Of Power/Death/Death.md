@@ -79,7 +79,7 @@ As a standard action, you may make a single weapon attack in conjunction with ma
 
 All creatures you reanimate gain a +4 enhancement bonus to their Strength and Dexterity.
 
-#### Expanded Necromancy [Gravecaller's HB]
+#### Expanded Necromancy
 
 When you reanimate a creature you may reanimate it as a variant skeleton or zombie, such as a bloody skeleton, burning skeleton, fast zombie, or plague zombie. When reanimating a creature in this way, they count as twice their normal Hit Dice when casting the reanimate sphere effect, but once controlled, count normally against your Hit Dice limit.
 
@@ -93,9 +93,9 @@ A normal corpse’s sense of its surroundings is limited, so it will not be able
 
 **Addendum:** At the GM’s discretion, in worlds where magic can more easily access the afterlife or spiritual remnants of creatures, those with the Gravetongue talent and at least 5th caster level may be able to pull information from the remaining traces of a spirit in a corpse they can touch. By remaining in contact with a corpse for 1 minute while under the effects of the Gravetongue talent and spending a spell point, you may ask it up to 1 question per 5 caster levels you possess.
 
-If the corpse is unwilling, it may attempt a Will save to either refuse or attempt to deceive you (such as by attempting a Bluff check). Questions asked and answers given this way must be brief; no more than ten words each, plus two additional words per caster level above 5th, and a corpse cannot be questioned more than once per week this way. If the corpse is particularly old (older than 100 years), is heavily damaged, only a partial corpse or otherwise in poor shape, any answers given may be vague and incomplete or only partially correct. [Archamgi's HB]
+If the corpse is unwilling, it may attempt a Will save to either refuse or attempt to deceive you (such as by attempting a Bluff check). Questions asked and answers given this way must be brief; no more than ten words each, plus two additional words per caster level above 5th, and a corpse cannot be questioned more than once per week this way. If the corpse is particularly old (older than 100 years), is heavily damaged, only a partial corpse or otherwise in poor shape, any answers given may be vague and incomplete or only partially correct.
 
-#### Greater Reanimate [Gravecaller's HB]
+#### Greater Reanimate
 
 Increase the total Hit Dice creatures you may have reanimated at once to four times your caster level (from two times your caster level). You may select this talent a second time. If you do, increase the benefits of this talent to five times your caster level.
 
@@ -123,23 +123,23 @@ An instilled liquid remains potent until you rest to regain spell points. If you
 
 Your ghost strikes can rip the very soul from the living. If a target fails their saving throws against your ghost strikes 3 times within a 1-minute period, they immediately die (Fortitude negates). If a ghost strike does not allow a save, it is not usable with this talent.
 
-#### Mass Death Magic [mass] [Gravecaller's HB]
+#### Mass Death Magic [mass]
 
 When using your reanimate ability, you may spend an additional spell point to reanimate multiple creatures at once. Your Hit Dice limits apply to the total number you may reanimate at once with this ability.
 
 When making a ghost strike, you may spend an additional spell point to form your ghost strike into a close-range cone, allowing you to make an attack roll against every target within this area. (Formerly Greater Ghost Strike and Mass Reanimate)
 
-#### Necromantic Conscription [DbH]
+#### Necromantic Conscription
 
 Whenever you take control of one or more undead with Command Undead or a similar ability, you may, as a swift action, spend a spell point to grant those undead the benefits of any talents that you apply to an undead upon reanimation (such as increased ability scores from Empowered Reanimate or a bonus feat from Reanimated Warriors). These benefits last for the duration of your control over the undead.
 
-#### Ranged Death [range] [Gravecaller's HB]
+#### Ranged Death [range]
 
 Increase the range at which you can reanimate from touch to close range, your ghost strike from medium to long range, and the range you can use your dominion abilities from close to medium range.
 
 You may select this talent up to 3 times. Each time it is selected, the range of your Death sphere abilities increase by 1 additional step to a maximum range of long (close to medium, medium to long).
 
-#### Sustained Necromancy [Gravecaller's HB]
+#### Sustained Necromancy
 
 When you reanimate a corpse or corpses, they remain for 1 hour per caster level instead of 1 minute per caster level. You may reanimate a single corpse as a sustained undead without spending a spell point, but the duration of the reanimate effect is changed to ‘concentration’. A sustained undead only counts as half their Hit Dice (rounded up, minimum 1) against the total amount you may have reanimated at once. You can never have more than 1 sustained undead.
 
@@ -165,11 +165,11 @@ Creatures and bodies stored within your tomb of flesh are stored in an extradime
 
 ## Dominion Talents
 
-#### Dark Sacrifice (dominion) [Gravecaller's HB]
+#### Dark Sacrifice (dominion)
 
 Whenever you would take hit point damage that would reduce you to 0 hit points or less, you can spend 1 spell point as an immediate action to sacrifice a mindless undead creature you control within your dominion range, destroying it instantly; reduce the damage you take by the sacrificed undead’s current hit points (to a minimum of 0).
 
-#### Master’s Presence (dominion) [Gravecaller's HB]
+#### Master’s Presence (dominion)
 
 You can telepathically order and communicate with undead creatures you control within your dominion range. You do not need line of sight or effect to maintain this connection. Only targets completely under your control are valid; charmed undead are not truly under your control, and as such do not qualify.
 
@@ -179,7 +179,7 @@ Additionally, so long as an undead you control is within your dominion range, yo
 
 You can select this talent multiple times; each time you do after the first, increase the number of tricks your undead can perform by 3.
 
-#### Necrotic Conduit (dominion) [Gravecaller's HB]
+#### Necrotic Conduit (dominion)
 
 You gain the following abilities which allow you to direct, manipulate, and command undead creatures you control within your dominion range:
 
@@ -190,7 +190,7 @@ You gain the following abilities which allow you to direct, manipulate, and comm
 
 Mindless undead under your control are always considered willing targets of these abilities. An unwilling undead may attempt a Will save to negate this talent’s effects and not be manipulated.
 
-#### Piecemeal Reanimation (dominion) [Gravecaller's HB]
+#### Piecemeal Reanimation (dominion)
 
 You gain the following abilities which allow you to reanimate incomplete corpses and individual corpse parts:
 
@@ -211,19 +211,19 @@ Only undead raised from intact corpses, such as those normally available without
 | One size smaller than corpse | Arm, leg, skull |
 | Same size as corpse | Torso plus limb(s) |
 
-#### Reanimated Warriors (dominion) [Gravecaller's HB]
+#### Reanimated Warriors (dominion)
 
 Choose a combat talent, combat feat, or teamwork feat you possess. Undead you reanimate and control gain the benefit of this talent or feat when they are within your dominion range. You cannot choose a feat that has another feat as a prerequisite nor feats that grant open-ended bonuses (such as Extra Combat Talent), but your undead do not otherwise need to meet the feat’s prerequisites.
 
 Whenever you rest and recover spell points, you may change the feat or talent chosen. You may take this talent multiple times; each time you do, you may grant an additional combat talent, combat feat, or teamwork feat to your undead. Feats granted by this talent can be used to meet the prerequisites of additional feats.
 
-#### Shroud (dominion) [Gravecaller's HB]
+#### Shroud (dominion)
 
 Whenever you succeed at an attack roll made as part of a ghost strike, you can choose to mark the affected creature with necrotic energy as a free action. If a marked creature dies within your dominion range within 1 round per caster level, you can spend 1 spell point as an immediate action to reanimate its body. You can only have a number of creatures marked at a time equal to your casting ability modifier (minimum 1).
 
 If you possess Sustained Necromancy, you may use this talent to reanimate the body without spending a spell point if you concentrate on it with that talent.
 
-#### Undead Whisperer (dominion) [Gravecaller's HB]
+#### Undead Whisperer (dominion)
 
 Undead you reanimate and control gain one skill rank per caster level. These skill ranks cannot be spent on a Knowledge skill, but otherwise any skill is valid as long as either you or the creature (when it was alive) possess ranks in the chosen skill. Undead cannot possess more ranks in a skill than either you possess in that skill or that it possessed in life, whichever is greater. You may command these undead to use their skills as a basic command.
 
@@ -237,7 +237,7 @@ If you possess the Master’s Presence (dominion) talent, your undead may use yo
 
 You may make a ghost strike that deals 1 bleed damage per caster level (minimum 1; no save). Targets take damage on the round they are hit, plus each additional round until the bleed effect stops (usually through the Heal skill or an application of magical healing). You may spend a spell point to improve this effect to 2 bleed damage per caster level (minimum 2).
 
-#### Bonerattle (ghost strike) [Gravecaller's HB]
+#### Bonerattle (ghost strike)
 
 You may make a ghost strike that painfully contorts the target’s skeleton, exoskeleton, or body. The target suffers 1d6 + 1d6 per 3 caster levels damage and moves 5 feet + 5 feet per 10 caster levels into an unoccupied space of your choice (Fortitude partial; half damage and no forced movement). Forced movement from this effect does not provoke attacks of opportunity, and the target can only move into a space it could reach with its natural movement. The target receives a +4 bonus to their saving throw if you would move them into a location that is directly harmful to them (such as onto a bed of spikes, out of a window, etc.).
 
@@ -265,14 +265,14 @@ Choose one of the following curses to bestow upon the target:
 
 Curses do not stack with themselves, but a target can be afflicted by multiple different curses. With GM permission, you may invent your own curse, but it should be of equal power to those listed. The following effects would be considered appropriate:
 
-- **Black Mark:** The target is trailed by an unpleasant aura. The target takes a penalty on all Diplomacy and Handle Animal checks equal to 1/2 your caster level. All creatures begin with an attitude of unfriendly towards you (unless their attitude would start worse). Any animals the target interacts with react wildly, with prey animals running away and predator animals baring fangs or even attacking the target. [Gravecaller's HB]
+- **Black Mark:** The target is trailed by an unpleasant aura. The target takes a penalty on all Diplomacy and Handle Animal checks equal to 1/2 your caster level. All creatures begin with an attitude of unfriendly towards you (unless their attitude would start worse). Any animals the target interacts with react wildly, with prey animals running away and predator animals baring fangs or even attacking the target.
 - **Clumsy:** The target cannot move faster than half their speed without an Acrobatics check vs. the curse’s DC. On a failure, the target falls prone.
 - **Extreme Hunger:** The target must eat and drink three times as much as normal every day or begin suffering from thirst and starvation.
 - **Fumble:** Anytime the victim picks up or retrieves an object (including drawing a weapon or ammunition), there is a 50% chance that he immediately drops it. If ammunition is dropped, the attack being made is lost. Any remaining attacks in a full attack action may still be attempted.
 - **Greater Pain:** Whenever the victim takes damage, he is staggered for 1 round.
 - **Magically Conductive:** When the victim is adjacent to the area of a damaging spell or spell-like effect, the area expands to include the victim.
 - **Old Age:** The target gains the penalties (but not the benefits) of advancing to the next age category. This does not actually increase their age.
-- **Phobia:** The target is cursed with a fear of a concept, chosen by the caster (such as crowds, spiders, rats, thunder, loud noises, etc.). Each round the target sees or hears a manifestation of its phobia (such as a spider, or an illusionary spider), the target must succeed at a Will save or be frightened for 1d4 rounds. A target cannot be frightened by the same phobia’s manifestation more than once per hour (such as the same spider, the same crowd, etc.) but new instances of the phobia work normally. GMs should determine if a phobia is appropriate by considering how frequently the target may encounter it. A phobia which would constantly trigger, such as a phobia towards “skin” or “all clothing”, would be more debilitating than the chance to take no action from the Curse (ghost strike)’s base options, and would not be appropriate. This curse is a mind-affecting effect. [Gravecaller's HB]
+- **Phobia:** The target is cursed with a fear of a concept, chosen by the caster (such as crowds, spiders, rats, thunder, loud noises, etc.). Each round the target sees or hears a manifestation of its phobia (such as a spider, or an illusionary spider), the target must succeed at a Will save or be frightened for 1d4 rounds. A target cannot be frightened by the same phobia’s manifestation more than once per hour (such as the same spider, the same crowd, etc.) but new instances of the phobia work normally. GMs should determine if a phobia is appropriate by considering how frequently the target may encounter it. A phobia which would constantly trigger, such as a phobia towards “skin” or “all clothing”, would be more debilitating than the chance to take no action from the Curse (ghost strike)’s base options, and would not be appropriate. This curse is a mind-affecting effect.
 - **Repel Healing:** The victim cannot heal naturally, and magical healing heals the victim by only half the usual amount (minimum 1 point). Fast healing and regeneration are likewise halved.
 - **Unfocused:** The target suffers a penalty equal to your casting ability modifier to all skill checks governed by an attribute of your choice.
 
@@ -285,7 +285,7 @@ Curses do not stack with themselves, but a target can be afflicted by multiple d
 
 You may spend a spell point to make a ghost strike that imposes 1 temporary negative level on the target for one hour per caster level (no save). This increases by 1 die size per 5 caster levels (1d2, 1d3, 1d4, and 1d6). Unlike with other ghost strikes, negative levels stack. While normally negative levels have a chance to become permanent and can kill a target whose negative levels equal its Hit Dice, these negative levels do not last long enough to become permanent, and if a negative level from this ghost strike would reduce the creature to 0 Hit Dice, the creature instead takes 4 points of Constitution drain for the duration of the effect. If a negative level lasts longer than 1 day, the target must succeed at a Fortitude save per negative level or have the negative level become permanent. If this ability is used on an undead creature, it instead grants the creature 5 temporary hit points per negative level, which last for 1 hour.
 
-#### Fowl Infestation (ghost strike) [curse] [Jester's HB]
+#### Fowl Infestation (ghost strike) [curse]
 
 You may spend a spell point to make a ghost strike that permanently curses the target to become plagued by chickens, ducks, or another similar bird of your choice (Will negates). Whenever the target draws a weapon or pulls an item out of a container, they have a 50% chance of drawing a live bird instead. The bird’s starting attitude toward the target is hostile, and will react appropriately to being drawn out by its ankles (or other part of its body). A bird’s body created by this effect disappears if it dies.
 
@@ -301,7 +301,7 @@ Multiple applications of hunger do not stack; only the highest nonlethal damage 
 
 You may spend a spell point to make a ghost strike that causes the target to contract a disease (Fortitude negates). The subject contracts one of the following diseases: blinding sickness, bubonic plague, cackle fever, filth fever, leprosy, mindfire, red ache, shakes, or slimy doom. The disease is contracted immediately (the onset period does not apply). Use the disease’s listed frequency and save DC to determine further effects.
 
-#### Lich Strike (ghost strike) [Gravecaller's HB]
+#### Lich Strike (ghost strike)
 
 You may make a ghost strike that emulates the power of a lich’s touch, incapacitating the target. The target is staggered for 1 round plus 1 round per 4 caster levels (Fortitude negates). If you spend 2 additional spell points, the target is instead paralyzed for 1 round per caster level (Fortitude negates). On a successful save to avoid paralysis, the target is instead staggered for 1 round. A target paralyzed by this ghost strike is allowed a new Fortitude save each round to end this effect early. This is a fullround action that does not provoke an attack of opportunity.
 
@@ -327,7 +327,7 @@ If you spend a spell point when you use this ghost strike, you can impose the pe
 
 You may make a ghost strike that causes the target to be sickened for 1 round per caster level (Fortitude negates). You may spend a spell point to cause the target to instead become nauseated. On a successful save, the target is still sickened for 1 round.
 
-#### Spectral Distortion (ghost strike) [Apoc]
+#### Spectral Distortion (ghost strike)
 
 *Source: [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)*
 
@@ -363,7 +363,7 @@ Luckily, very few things can destroy a silver cord. Unlike a regular use of the 
 
 When projecting yourself and/or your allies into the Astral Plane, you may spend an additional spell point (bringing the total to 3) to allow you and your allies to travel astrally to any of the other planes that border the Astral Plane. If you choose to enter one of these planes, you form a new physical body (and equipment) on that plane of existence, exactly like your true form, although the silver cord remains invisibly attached to this new body, and magic items used still count against the item’s total uses. You are still subject to the weaknesses of an astral form (you may be dispelled, your cord may be broken, etc.). If your new form is killed, you are returned to your original body, gaining 2 permanent negative levels as normal.
 
-#### Avasculation (ghost strike) [3PP]
+#### Avasculation (ghost strike)
 
 **Prerequisites:** Death sphere, caster level 5th
 
@@ -372,7 +372,7 @@ If you possess the life sphere, you may cause a creature who is below half their
 
 *Source: Card Casting 2: Counters and Control*
 
-#### Corpse Forge (dominion) [Gravecaller's HB]
+#### Corpse Forge (dominion)
 
 **Prerequisites:** Death sphere (Corpse Manipulation), caster level 3rd.
 
@@ -384,7 +384,7 @@ As a standard action, you can destroy one undead you reanimated and control with
 
 You may spend 1 minute and 5 spell points to create a haunt with a CR equal to or less than 1/2 your Death sphere caster level. These haunts share your alignment. Haunts created through this talent have a destruction condition of being successfully affected with the Break Enchantment talent from the Life sphere or other effects that would counter a curse.
 
-#### Create Soul Gem [DbH]
+#### Create Soul Gem
 
 **Prerequisites:** Death sphere, caster level 5th.
 
@@ -412,19 +412,19 @@ A soul's value can be used as currency when purchasing favors from outsiders or 
 
 When a being who has sworn an Oath of Loyalty dies, the being or organization which they have sworn the Oath of Loyalty to (referred to as the claimant) may claim the character's soul. A claimed soul cannot be resurrected by any means short of a wish or miracle spell (unless the claimant wishes otherwise) and the claimant is automatically aware of any successful resurrection of a soul they have claimed. A claimed soul resurrected in this way is considered to have forsworn any Oaths of Loyalty they have previously sworn.
 
-#### Deadlord’s Reach (dominion) [DbH]
+#### Deadlord’s Reach (dominion)
 
 **Prerequisites:** Death sphere (Icy Grip, any one (dominion) talent), caster level 5th.
 
 While an undead you reanimated is within your dominion range, you may spend an additional spell point as part of creating a magical sphere effect to treat the undead as the point of origin for any effect you create. Personal-range spells take effect on the undead channeling the effect rather than yourself.
 
-#### Enervation [EO3]
+#### Enervation
 
 **Prerequisites:** Death sphere (Drain (ghost strike)), caster level 15th.
 
 You may spend an additional spell point when using the Drain ghost strike to increase the number of temporary negative levels by one additional die (2d4, 2d6, 2d8, etc., maximum 2d12) and increase the duration of these negative levels to 24 hours (if this duration would be higher).
 
-#### Evisceration (ghost strike) [3PP]
+#### Evisceration (ghost strike)
 
 **Prerequisites:** Death sphere (avasculation), caster level 10th
 
@@ -432,7 +432,7 @@ You may spend an additional spell point when using avasculation to cause the tar
 
 *Source: Card Casting 2: Counters and Control*
 
-#### Extended Command [DbH]
+#### Extended Command
 
 **Prerequisites:** Death sphere (Command Undead (ghost strike), Sustained Necromancy).
 
@@ -476,7 +476,7 @@ The created undead cannot have a challenge rating above 1/2 your caster level, a
 
 At caster level 15th, you may create any form of undead, regardless of CR, provided you meet its additional prerequisites. GMs always have the final say over what prerequisites an undead might require.
 
-#### Hollow Body [DbH]
+#### Hollow Body
 
 **Prerequisites:** Death sphere.
 
@@ -592,7 +592,7 @@ Necrosis feats represent ongoing necromantic modification, corruption, or experi
 
 ***Note:*** Characters use their Death sphere caster level when determining the effects of any necrosis feats they possess (such as when determining range) unless otherwise stated.
 
-#### Banshee’s Sotto Voce (Necrosis) [Gravecaller's HB]
+#### Banshee’s Sotto Voce (Necrosis)
 
 Whisper your lamentations to the world.
 
@@ -634,7 +634,7 @@ Your nerves fail, increasing your pain tolerance and general resilience.
 
 **Four Necrosis Feats:** You gain half the normal benefit of this feat at all times (increasing to the full benefit when you spend a spell point).
 
-#### Deathknight’s Purchase (Combat, Necrosis) [Gravecaller's HB]
+#### Deathknight’s Purchase (Combat, Necrosis)
 
 Their suffering is your salvation. Break their souls across the iron that is your will.
 
@@ -652,7 +652,7 @@ Their suffering is your salvation. Break their souls across the iron that is you
 
 **Four Necrosis Feats:** When you spend 1 spell point as a swift action to activate this feat, you can affect bleeding creatures within the blindsense range granted by this feat with any talent that requires a touch attack, Fortitude save, or Will save regardless of distance, line of sight, or line of effect.
 
-#### Inhuman Defiler (Defiler, Drawback, Necrosis) [Cata. HB]
+#### Inhuman Defiler (Defiler, Drawback, Necrosis)
 
 Your destructive powers and undead ambitions feed into each other.
 
@@ -662,7 +662,7 @@ Your destructive powers and undead ambitions feed into each other.
 
 **Four Defiler/Necrosis Feats:** You gain one bonus spell point for every 2 Defiler or Necrosis feats you possess.
 
-#### Necrotic Heart (Necrosis) [Cata. HB]
+#### Necrotic Heart (Necrosis)
 
 Your body is sustained by necromantic power.
 

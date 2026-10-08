@@ -13,13 +13,13 @@ You use Intimidate for the associated skill. You cannot communicate simple conce
 
 You find it much easier to empathize and relate to beasts. You may only use your Communication sphere abilities with creatures of the animal, magical beast, or vermin types, and use Handle Animal in place of the associated skill. You gain the Beast Whisperer talent from this drawback.
 
-#### Apprentice [DRS]
+#### Apprentice
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 You lose the bonus (rapport) talent when you first gain the sphere, and gain an (assist) talent of your choice. You can choose to lose the build rapport ability to gain an additional (assist) talent. This sphere-specific drawback can be taken as a [utility start] if the talent(s) gained as part of the drawback are [utility] talents.
 
-#### Bleeding Heart [DRS]
+#### Bleeding Heart
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 

@@ -37,7 +37,7 @@ Some talents are marked (word). These grant you additional words of power.
 
 Some talents are marked (consecration). These grant you additional consecrations.
 
-#### Arcana [BaP]
+#### Arcana
 
 Where most normal motifs grant a brief glimpse of the target’s fate, and ends with a short lived burst of power, some Fate casters learn to weave additional prophecy into their motifs.
 
@@ -107,7 +107,7 @@ As a standard action you may touch a small container of liquid and instill a mot
 
 An instilled liquid remains potent until you rest to regain spell points. If you have equipment on hand (such as an alchemy lab), the cost of bottles and water is considered negligible. You may target food but not an already-magical item, such as a potion. All spell points must be spent and all variables of the sphere effect must be chosen at the time the instilled liquid is created. You cannot instill multiple effects in a single liquid, nor create multiple instilled liquids with a single action.
 
-#### Lingering Fate [3PP]
+#### Lingering Fate
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -129,7 +129,7 @@ You may deliver words via a melee touch attack. As a standard action, you may ma
 
 ## Consecration Talents
 
-#### Bind Wyrd (consecration) [DRS]
+#### Bind Wyrd (consecration)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -200,25 +200,25 @@ If you take this talent a second time you may cause the consecration to reverse 
 
 ## Motif Talents
 
-#### Cups (motif, arcana) [BaP]
+#### Cups (motif, arcana)
 
 You actualize the target’s heightened empathy and creativity. When granted as a motif, the target gains a +2 bonus on Intelligence-, Wisdom-, and Charisma-based skill checks. This bonus increases by +1 for every 10 caster levels.
 
 The target may discharge this effect as an immediate action and roll 2d20 plus an additional d20 per 7 caster levels, retaining the results of each die roll. For the next minute per caster level, whenever the target attempts a skill check, instead of rolling a d20, the target can instead use one retained die roll (using a retained die roll expends it).
 
-#### Pentacles (motif, arcana) [BaP]
+#### Pentacles (motif, arcana)
 
 You actualize the target’s success and prosperity. When granted as a motif, the target gains a +1 bonus on one saving throw, chosen when granted as a motif. This bonus increases by +1 for every 10 caster levels.
 
 The target may discharge this effect as an immediate action to gain a prenatural sense for success. For the next minute per caster level, after the target misses or fails a d20 roll, such as missing their target with an attack roll, failing a saving throw, or failing a skill check, the target may reroll their attempt and accept the new result. The target may reroll this way once during the discharge effect’s duration, plus an additional time per 10 caster levels you possess.
 
-#### Swords (motif, arcana) [BaP]
+#### Swords (motif, arcana)
 
 You actualize the target’s power to bring about action. When granted as a motif, the target gains a +1 bonus on attack rolls. This bonus increases by +1 for every 10 caster levels.
 
 The target may discharge this effect as an immediate action and become unerring in purpose. For the next minute, the target ignores any miss chance due to concealment. Once during this effect’s duration, when the target threatens a critical hit, the target may choose to gain a bonus on their attack roll to confirm that critical hit equal to 1/2 your caster level (minimum 1). This effect may not be combined with any ability or effect that automatically threatens critical hits.
 
-#### Wands (motif, arcana) [BaP]
+#### Wands (motif, arcana)
 
 You actualize the target’s abundant energy and passion. When granted as a motif, the target gains a +2 bonus on initiative checks. This bonus increases by +1 for every 10 caster levels.
 
@@ -294,13 +294,13 @@ You may grant a motif that enforces balance. Any time a hostile creature deals d
 
 The damage transferred is empathic in nature and cannot be further reduced, divided, or transferred.
 
-#### The King (motif) [3PP]
+#### The King (motif)
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 You assert the target’s authority over magic and others. The target gains a +1 insight bonus on concentration checks. This bonus increases by +1 for every 10 caster levels. The target may discharge this effect as an immediate action to transfer a magic effect currently affecting themself to a creature within close range (so long as they are conscious, the original target may transfer the effect even if they are incapable of taking actions). Unwilling targets of this transfer are allowed a Will save to negate this transfer, in which case the effect remains on the original target. This cannot transfer an effect to a target that could not have been initially targeted (for example, attempting to transfer an enlarge person spell to a dragon would fail).
 
-#### The Knight (motif) [3PP]
+#### The Knight (motif)
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -324,13 +324,13 @@ You may grant a motif that protects the target’s subconscious and allows them 
 
 The target may discharge this effect when they are the target of a mind-affecting spell, spell-like ability, supernatural ability, or sphere effect to force the effect’s user to attempt a saving throw against the effect’s DC. On a failed save, the target is unaffected by the effect, while the effect’s user suffers the effects of a failed save. On a successful save, the target is affected by the effect as normal. (If the effect would not normally have a DC, calculate it as if it did using the normal rules for that type of effect.)
 
-#### The Page (motif) [3PP]
+#### The Page (motif)
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 Your power exacerbates the target’s excitement and ambition. Any morale bonus on the target has its duration extended by 1 round, plus an additional round for every 10 caster levels. The target may discharge this effect as an immediate action to double any morale bonuses affecting them for a single die roll. After this round, the bonuses return to their normal values.
 
-#### The Queen (motif) [3PP]
+#### The Queen (motif)
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -396,7 +396,7 @@ The target may discharge this effect to take 15 (as if they were taking 20) on a
 
 You may spend a spell point to apply this word to an object or weapon. If placed on an object, it counts as a divine focus for all purposes. If placed on a weapon, it becomes chaotic, evil, good, or lawful, as you choose, overcomes that type of damage reduction, and deals an additional 2d6 damage to creatures of the opposite alignment. This effect lasts as long as you concentrate, but you may always spend a spell point to allow the effect to endure for 1 minute per caster level without concentration.
 
-#### Axe You A Question (word) [Jester's HB]
+#### Axe You A Question (word)
 
 You utter an ominous question towards the target. The target takes damage as though hit by a greataxe appropriately sized to you (Medium 1d12) and is shaken for a number of rounds equal to half your caster level. This damage is not modified by your Strength or any other modifiers you may possess which would otherwise apply to a damage roll.
 
@@ -404,7 +404,7 @@ If you spend an additional spell point when casting this sphere effect, for a nu
 
 A successful Will saving throw negates this effect. This is a language- dependent fear effect.
 
-#### Bargain (word) [BaP]
+#### Bargain (word)
 
 You may spend a spell point as an immediate action when the target is subject to an attack or effect that deals hit point damage, after attack rolls and saving throws have been rolled but before the damage is determined. The attack or effect’s damage is delayed for the target for a number of rounds equal to 1/2 your caster level (minimum 1). Any additional effects of the attack or effect, such as poison, inflicting bleed damage, or a saving throw against the effect, are also delayed. When this word ends (or immediately if this word is dispelled), the target immediately takes the delayed damage and incurs any additional effects of the delayed attack or effect, subject to any changes to immunity, resistances, damage reduction, etc. A given attack or effect cannot be delayed more than once. Abilities contingent on taking damage, such as redirecting damage with the Protection sphere Community talent, are resolved as normal when the target takes the delayed damage.
 
@@ -436,7 +436,7 @@ A successful Will saving throw negates this effect. This is a mind-affecting com
 
 When an ally within range fails a saving throw, you may spend a spell point as an immediate action to allow them to reroll it using your modifier. Alternatively, when you fail a saving throw, you may spend a spell point as an immediate action to reroll it using the modifier of an ally within range. If they or you still fail, whatever effect required your ally to attempt that saving throw affects your ally and you as if both of you had been the target, had been in its area of effect, or were subject to its ongoing effect. If the saving throw was to end an ongoing effect and a failure has no penalty other than the effect remaining, you (if your ally rerolled the saving throw) or your ally (if you rerolled the saving throw) are affected by it until the end of your next turn.
 
-#### Confine (word) [curse] [3PP]
+#### Confine (word) [curse]
 
 The target cannot take immediate actions or attacks of opportunity (Will negates). This effect lasts as long as you concentrate, but you may always spend a spell point as a free action to allow this word to continue for 1 round per caster level without concentration.
 
@@ -562,7 +562,7 @@ By spending 2 spell points, you may allow the target to change its alignment or 
 
 **Note:** Normally, changing alignment is up to the player. This use of atonement offers a method for a character to change his or her alignment drastically, suddenly, and definitively.
 
-#### Cat’s Luck (consecration, word) [Catgirl HB]
+#### Cat’s Luck (consecration, word)
 
 A white cat and black cat both watched on, as the tall ones quibbled. They laughed, and played, and so the tall ones experienced both fortune and misfortune with a wave of their paws.
 
@@ -594,7 +594,7 @@ When you use a consecration that remains in place using Bound Consecration, you 
 
 You may grant a motif that allows a target to preserve and, ultimately, change the other motifs they bear. While this motif is active, whenever the target discharges a (motif) talent other than Death there is a 50% chance that it does not end. The target may discharge this effect to immediately bring one other (motif) talent you or they know into effect with a duration equal to this motif ’s remaining duration. Granting this motif costs two spell points.
 
-#### Declare Fate (word) [curse] [Apoc]
+#### Declare Fate (word) [curse]
 
 *Source: [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)*
 
@@ -624,7 +624,7 @@ You may spend a spell point to create a consecration that makes healing difficul
 
 You must concentrate to maintain this consecration, but you may spend an additional spell point as a free action to allow this effect to continue for 1 round per caster level without concentration.
 
-#### Excise Triumph (word) [curse] [3PP]
+#### Excise Triumph (word) [curse]
 
 **Prerequisites:** Fate Sphere, caster level 5th
 
@@ -648,7 +648,7 @@ You may spend an additional spell point to grant the target a bonus to Bluff che
 
 This effect lasts as long as you concentrate, but you may always spend a spell point to allow the effect to endure for 1 minute per caster level without concentration.
 
-#### Flounder (word) [curse] [3PP]
+#### Flounder (word) [curse]
 
 **Prerequisites:** Fate sphere, caster level 5th
 
@@ -668,7 +668,7 @@ If the subject is prevented from obeying the geas for 24 hours, it takes a -2 pe
 
 A geas cannot be dispelled, but it may be broken through the Break Enchantment Life talent, as well spells such as break enchantment, limited wish, miracle, remove curse, or wish. You may remove a geas that you placed on a target as a standard action.
 
-#### Get a Word In [3PP]
+#### Get a Word In
 
 *Source: [Expanded Spheres: Weaves of War](https://www.drivethrurpg.com/en/product/482352/expanded-spheres-weaves-of-war=3028400)*
 
@@ -708,7 +708,7 @@ You may spend a spell point to create a consecration filled with positive energy
 
 You must concentrate to maintain this consecration, but you may spend an additional spell point as a free action to allow this effect to continue for 1 round per two caster levels without concentration.
 
-#### Weave The Fates [BaP]
+#### Weave The Fates
 
 **Prerequisites:** Fate sphere (any one (motif), any one (arcana)), caster level 10th.
 
@@ -720,7 +720,7 @@ If the same (arcana) is attached to one motif multiple times, that (arcana)’s 
 
 **Example:** A sphere caster with a Fate sphere caster level of 10 grants the target a motif with 3 attached wands. The target would gain +3 initiative as normal for the Wands talent when granted as a motif and no additional benefit for the two additional wands. A target who discharges an attached motif with three attached swords would ignore concealment for three minutes and receive three separate critical confirmation bonuses after the motif is discharged.
 
-#### Weight of Command (word) [3PP]
+#### Weight of Command (word)
 
 **Prerequisites:** Fate Sphere, caster level 10th
 

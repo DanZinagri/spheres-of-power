@@ -75,7 +75,7 @@ You may take this talent a second time. If you do, your effective druid level wh
 
 **Wiki Note:** Effects that increase effective BAB ranks in a sphere do not accelerate the strength of animal companions or similar partners, just as increasing your caster level does not accelerate the hit dice of Conjuration sphere companions. Only effects that actually raise your effective level, such as the Spherebound mythic quality or the Beastmastery Conscript sphere specialization, can further raise your effective druid level for this ability (and any other similar abilities).
 
-#### Armored Charge [High. HB]
+#### Armored Charge
 
 While mounted, you and your mount suffer no penalties for squeezing (down to half your mount’s space). You also don’t take the usual armor check penalty on Ride checks. In addition, while mounted, you and your mount gain a +1 bonus to CMD against bull rush, overrun, and trip combat maneuvers. At 10 ranks in Ride, this bonus increases to +2.
 
@@ -111,7 +111,7 @@ As a move action, you make physical contact with one animal ally within your nat
 
 When within close range (25 ft. + 5 ft. per 2 ranks in the higher of Handle Animal and Ride) of any animal allies, when making a Perception check, you and the animal allies may share the result of the check of the creature with the highest result.
 
-#### Pack Attack [BTH]
+#### Pack Attack
 
 Whenever one or more of your animal allies within close range (25 feet + 5 feet per 2 ranks in Handle Animal) flanks an enemy with you or another one of your animal allies, increase the bonus on attack rolls granted while flanking by +2. The bonus on attack rolls increases by +1 for each additional animal ally which threatens that enemy, to a maximum of +1 per 4 ranks in Handle Animal. **Associated Feat:** Outflank.
 
@@ -137,7 +137,7 @@ You may reduce the time required to handle or push an animal ally by 1 step (usu
 
 When making a Handle Animal skill check to handle or push a tame creature or a Ride skill check while mounted on an animal ally, you may expend your martial focus as a free action to take 15 on the check, even if rushed or threatened.
 
-#### Two As One (stance) [Youxia HB]
+#### Two As One (stance)
 
 While in this stance, you may occupy the same square(s) as your animal allies at no penalty. Whenever you occupy the same square as an animal ally during this stance, you may expend an attack of opportunity to change the target of an attack targeting that animal ally to you as a free action that can be taken even outside your normal turn. Additionally, animal allies who occupy the same square as you in this manner may substitute your base attack bonus for their own, up to their number of Hit Dice, as long as the stance lasts.
 
@@ -173,7 +173,7 @@ If you possess the Animal Empathy talent, it is likewise expanded with the same 
 
 Increase the total Hit Dice of creatures you may have tame at once by an additional 1 per rank of Handle Animal you possess. You may select this talent up to 3 times.
 
-#### Hands-On Handler (handle animal) [BTH]
+#### Hands-On Handler (handle animal)
 
 Whenever you take an action that is similar to a Handle Animal trick, the next time you handle or push your animal allies to perform that trick before the end of your next turn, reduce the time required to handle or push those animal allies by 1 step. This reduction stacks with the Rapid Handle talent.
 
@@ -207,7 +207,7 @@ You may retrain feats, skill ranks, and other options possessed by an animal all
 
 While mounted, you may substitute a Ride skill check in place of an Acrobatics skill check for you and your mount when moving through a threatened square.
 
-#### Barding Expertise (ride) [Apoc]
+#### Barding Expertise (ride)
 
 *Source: [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)*
 
@@ -225,7 +225,7 @@ Additionally, you may use your ranks in Ride in place of your ranks in Handle An
 
 If you possess the (handle animal) package and the Broad Skills talent, you may use this talent on any creature to which your trainer ability applies, though creatures not of the animal type gain a +2 bonus on their Will save.
 
-#### Frenzy Rider (ride) [Conq. HB]
+#### Frenzy Rider (ride)
 
 You can spur and encourage your mount to fight more ferociously. While mounted, as a free action at the start of each turn, you can choose to take a -1 penalty on all attack rolls and combat maneuver checks to grant your mount a +1 competence bonus on all attack rolls with natural weapons. This penalty and the bonus granted to your mount end at the start of your next turn. For every 4 ranks of Ride you possess, the penalty you take and the bonus granted to your mount increase by 1.
 
@@ -235,11 +235,11 @@ You can spur and encourage your mount to fight more ferociously. While mounted, 
 
 While mounted, your mount may use your combat maneuver bonus (including feats and other bonuses to particular maneuvers but retaining their own size modifiers) in place of its own when performing bull rush, drag, overrun, reposition, or trip combat maneuvers.
 
-#### Knock Down (ride) [Conq. HB]
+#### Knock Down (ride)
 
 While mounted, whenever you or your mount succeed on a bull rush, drag, or reposition combat maneuver, you may make a free trip attempt against the target, using your or your mount’s original combat maneuver check as your trip combat maneuver check. Even if you fail this check by 10 or more, you do not fall prone. If the target was mounted, they fall off their mount in a space adjacent to their mount directly away from you. When a target falls prone this way, you may expend martial focus to deal 1d6 points of falling damage, plus an additional 1d6 for every 3 ranks of Ride you possess.
 
-#### Leaping Rider (ride) [BTH]
+#### Leaping Rider (ride)
 
 You can fluidly mount and dismount, transitioning from mounted to unmounted combat with ease.
 
@@ -289,7 +289,7 @@ You may expend martial focus as a standard action to force a creature to which y
 
 As a swift action, you may call all of your animal allies to your side. They must be within 1 mile per rank in Handle Animal and come at their best speed, avoiding apparent hazards and danger to the best of their ability. This movement takes place using the creature’s normal actions on its turn. At 10 ranks in Handle Animal, the animal allies need only be on the same plane.
 
-#### Carry Companion [utility] [Conq. HB]
+#### Carry Companion [utility]
 
 **Prerequisite:** Beastmastery sphere.
 
@@ -309,7 +309,7 @@ The range of your Beast Tamer talent increases to medium.
 
 The duration of your Beast Tamer talent increases to 1 hour per rank in Handle Animal you possess.
 
-#### Improved Animal Companion [BTH]
+#### Improved Animal Companion
 
 **Prerequisites:** Beastmastery sphere; animal companion, mount, or other similar ability; additional requirements (see details).
 
@@ -323,7 +323,7 @@ An improved companion chosen with this talent gains additional abilities and bon
 
 **Wiki Note:** Some improved animal companions can be found in the [[Sphere Bestiary]], including in the Monster Collections.
 
-#### Improved Pet [BTH]
+#### Improved Pet
 
 **Prerequisites:** Beastmastery sphere; Beastmastery sphere (Pet) or ability to acquire a new familiar, compatible alignment, sufficiently high level (see details).
 
@@ -333,7 +333,7 @@ An improved familiar is otherwise treated as a regular familiar and always count
 
 **Associated Feat:** Improved Familiar.
 
-#### Lions And Wardrobes [utility] [Jester's HB]
+#### Lions And Wardrobes [utility]
 
 **Prerequisites:** Disguise 1 rank, Beastmastery sphere ((handle animal) package).
 
@@ -363,7 +363,7 @@ You may tame mindless creatures of any type, bypassing any immunity to mind-affe
 
 You may use your Bronco Buster talent on any creature suitable to serve as your mount. A creature with Intelligence greater than 2 may make its Will save to resist this ability as a free action at the start of its turn. On a failed save, you may only direct such a creature to move; you cannot make it attack or use any other abilities.
 
-#### Perfect Rider (ride) [BTH]
+#### Perfect Rider (ride)
 
 **Prerequisites:** Athletics sphere, Beastmastery sphere ((ride) package), Mounted Athlete.
 
@@ -399,19 +399,19 @@ You may speak with animals. You can ask questions of and receive answers from an
 
 ---
 
-## Optional Rule: Vehicles as Mounts [SUE]
+## Optional Rule: Vehicles as Mounts
 
 Whether a vehicle, such as a *mechanoid*, is treated as a mount for the purposes of Beastmastery sphere is not entirely clear. Some GMs may wish to allow a piloted *mechanoid* to be treated as a mount for relevant Beastmastery sphere abilities. This does not allow for a piloted *mechanoid* to take actions it could not independently.
 
 An AI-controlled mechanoid being ridden by another creature, by using the mounted combat rules or elsewise, is treated as a mount without any special modifications.
 
-## Sphere-Specific Variant Rule: Adjusted Companion Base Attack Bonus [BTH]
+## Sphere-Specific Variant Rule: Adjusted Companion Base Attack Bonus
 
 **Reasoning:** Animal companions begin to struggle at high levels of play due to having 3/4 base attack bonus compared to a Conjuration sphere or Leadership sphere companion's full base attack bonus. GMs may find it appropriate to adjust the scaling of animal companions by implementing this variant rule.
 
 **Rule:** An animal companion's base attack bonus is equal to its Hit Dice.
 
-## Sphere-Specific Variant Rule: Beastmastery and Taming Intelligent Creatures [BTH]
+## Sphere-Specific Variant Rule: Beastmastery and Taming Intelligent Creatures
 
 As a variant-rule to the Beastmastery sphere Mindless Mastery legendary talent, GMs may allow characters to “tame” other intelligent creatures to aid and assist them as companions.
 
@@ -437,7 +437,7 @@ When allowing intelligent creatures to be tamed through Beastmastery, GM’s sho
 - **“Tamed”:** A tamed intelligent creature is treated as an animal ally when appropriate but is interacted with and treated as a companion in the ordinary sense of the word. When spending at least 1 hour with your tamed creatures, a character does not need to re-tame them or interact with them the same way they would a tamed wolf or hydra. Spending time with a tamed intelligent creature can be as simple as checking up on them, sharing a meal, and interacting with them as if they were a normal NPC. If something would assert competing non-magical influence over the creature, such as trying to convince them to join them, it is the creature’s choice as a function of roleplay, motivations, and desires. Magical compulsion effects, however, are treated as a competing effect and allow a tamed intelligent creature to resist as appropriate.
 - **Unequal Partnerships:** Not every Beastmastery practitioner will be looking to form a compassionate, fair bond with others. In establishing this variant rule, it is important to not treat the tame ability as a form of servitude or slavery. However, some characters, particularly evil ones, may want to roleplay these interactions as the “overlord” or “master” of a so-called lesser creature. It is not the goal of this variant rule to make gameplay uncomfortable for others, or inappropriate, so it is important for players and their GM to discuss how they want this ability to be treated. Some may prefer the equal companionship aspect whereas others may want to treat it as servitude. These choices are all respective and contingent on the previous considerations listed with this variant rule. Where one character may want to form a bond with a wise, ancient owlbear of the woods, another may be playing an antipaladin and want to tempt a noble unicorn to fall to darkness. Both of these choices are perfectly valid, but it should be a goal to not execute this variant rule in a way that it makes others uncomfortable.
 
-## Sphere-Specific Variant Rule: Improved Familiars and Familiar Archetypes [BTH]
+## Sphere-Specific Variant Rule: Improved Familiars and Familiar Archetypes
 
 **Reasoning:** As Pathfinder developed, familiar archetypes became a fun and interesting way to customize your familiars and how you interact with them and what benefits you gain from them. Improved Familiars have always lost their ability to speak with other creatures of their kind because most improved familiar options can already talk or understand languages.
 
@@ -445,7 +445,7 @@ GMs may find it appropriate to remove this change and allow improved familiars w
 
 **Rule:** The Improved Familiar feat and Improved Pet legendary talent do not remove a familiar's ability to speak with other creatures of their kind. Improved familiars may take familiar archetypes that would remove the ability to speak with other creatures of their kind.
 
-## Sphere-Specific Variant Rule: Multiple Animal Companions and Alternatives [BTH]
+## Sphere-Specific Variant Rule: Multiple Animal Companions and Alternatives
 
 **Reasoning:** Through various means, characters may gain separate class features which independently grant animal companions or mounts, granting them in such a way that the character receives multiple, full-progression animal companions. Multiple animal companions can happen when an animal companion class feature is granted with restrictions, such as a lion shaman druid's restriction to lion animal companions also gaining access to the mount class feature. Restricting the druid to rideable creatures only would grant to separate companions as the effective druid levels for both companions could not combine.
 

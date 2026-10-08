@@ -36,7 +36,7 @@ Aristeia feats interact with - and help power - the optional [[Aristeia]] rules.
 
 ---
 
-#### [[Champion Feats]] [CS]
+#### [[Champion Feats]]
 
 Champion feats blend Spheres of Power and Spheres of Might together, focusing on abilities useful for characters dipping into both systems. Some archetypes can select these as bonus feats.
 

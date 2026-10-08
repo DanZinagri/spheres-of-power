@@ -627,7 +627,7 @@ A commander of any race can choose from the following alternate favored class bo
 
 The following magical items are especially appropriate for commanders.
 
-## All-Terrain Armoire [TS:WAT]
+## All-Terrain Armoire
 
 **Aura** faint Nature and Protection; **CL** 6th
 **Slot** none; **Price** 20,000 gp; **Weight** 300 lbs.
@@ -639,7 +639,7 @@ Twice per day, as a standard action, a commander can call out specialized instru
 **Construction Requirements**
 Craft Apparatus, Craft Marvelous Item, Nature sphere, Protection sphere, creator must have the battlefield specialist ability; **Cost** 10,000 gp
 
-## Amplifying Horn [TS:WAT]
+## Amplifying Horn
 
 **Aura** moderate War; **CL** 7th
 **Slot** none; **Price** 16,000 gp; **Weight** 3 lbs.
@@ -649,7 +649,7 @@ This silvery horn excels at amplifying the user’s voice to let them be heard a
 **Construction Requirements**
 Craft Apparatus, War sphere (Lingering Resentment), creator must have the lingering commands ability; **Cost** 8,000 gp
 
-## Tactics Manual [TS:WAT]
+## Tactics Manual
 
 **Aura** faint War; **CL** 5th
 **Slot** none; **Price** 15,500 gp; **Weight** 4 lbs.

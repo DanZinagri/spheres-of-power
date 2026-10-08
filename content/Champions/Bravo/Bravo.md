@@ -531,7 +531,7 @@ At 15th level, the bravo ignores the normal costs required to gain a detailed an
 
 At 20th level, whenever the bravo would start his turn and apply a scrutiny die to a valid creature (or creatures), he instead applies three scrutiny dice to them—this increases the maximum number of scrutiny dice that a creature can have applied to them at one time to 3.
 
-### Showmanship [DRS]
+### Showmanship
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -571,7 +571,7 @@ At 20th level, whenever the bravo avoids an attack using his cunning celerity ab
 
 # Alternate Class Features
 
-#### Prowess [DRS]
+#### Prowess
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -597,14 +597,14 @@ This alters cunning celerity, dynamic dodge, capricious, quicksilver celerity, u
 
 The following feats are particularly appropriate or useful for bravos.
 
-#### Awesome Stunt (Combat) [DRS]
+#### Awesome Stunt (Combat)
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Prerequisites:** Incredible stunt class feature.
 **Benefit:** Whenever you use an incredible stunt, its effects last for an additional round. Additionally, you are not fatigued (or have the condition worsen) when the incredible stunt ends.
 
-#### Cunning Accuracy (Combat) [DRS]
+#### Cunning Accuracy (Combat)
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 

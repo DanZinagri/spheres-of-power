@@ -40,11 +40,11 @@ When you use this shout, you and all affected allies gain a +1 morale bonus on d
 
 # Warleader Talents
 
-#### Advanced Notice [Conq. HB]
+#### Advanced Notice
 
 You warn your allies easier and quicker before shouting, preventing your enemies from reacting. You may warn your allies as part of a shout, rather than spending a move action. Nearby enemies do not receive a bonus on their save against your shouts when you warn your allies.
 
-#### Bandmaster [High. HB]
+#### Bandmaster
 
 When using a shout with an auditory component, you may choose to use a musical instrument (such as bagpipes or drums) as the medium for your shouts. In addition, when adding such an auditory component, the normal radius of effect of the shout increases by 15 feet.
 
@@ -56,7 +56,7 @@ When performing a shout, you may change the area of effect to a cone of twice th
 
 Any ally currently affected by one of your shouts or tactics may spend a move action to restore your martial focus. The creature spending a move action must have an Intelligence of at least 3 and possess a number of Hit Dice at least equal to 1/2 your total Hit Dice.
 
-#### Heraldry [Conq. HB]
+#### Heraldry
 
 As long as you hold your clan, house, nation or party’s flag, members of that allegiance who can see the flag (including yourself) treat the effects of your tactics as though you had 5 additional ranks in Diplomacy. In addition, you gain a +1 bonus on all attack rolls while within the area of a tactic you create. A flag must be held in either one hand or attached to a longspear, pole, or other similar object in order to grant this bonus. If the standard is taken by the enemy or destroyed, the bonuses granted by this talent become a penalty, you treat the effects of your tactics as though you had 5 less ranks in Diplomacy (to a minimum of 0), and you take a -1 penalty on all attack rolls within the area of tactics you create. This penalty lasts for 24 hours or until you repair your destroyed standard or acquire a new standard. **Associated Feat:** Flagbearer.
 
@@ -64,29 +64,29 @@ As long as you hold your clan, house, nation or party’s flag, members of that 
 
 **Flag:** A flag is a colorful banner that bears the heraldry or symbol of a nation or organization. A character with the Warleader (Heraldry) talent who bears a flag can grant additional combat bonuses to allies inside tactics they maintain. Carrying a flag in combat requires a free hand. **Cost** 10 gp **Weight** 3 lbs.
 
-#### Inside Voice [Jester's HB]
+#### Inside Voice
 
 Whenever you perform a shout, you may reduce the radius of that shout to a minimum of 5 feet.
 
 Whenever you perform a shout, creatures not within your shout’s radius must succeed at a Perception check against your Warleader sphere DC or be unaware that you performed a shout. This effect’s DC is subject to sound-based Perception modifiers, such as distance to the source (the shout’s area of effect) and obstructing objects such as closed doors and walls.
 
-#### Lasting Oration [High. HB]
+#### Lasting Oration
 
 You may choose to increase the time required to use a shout to 1 minute. If you do, the effects of your shout instead last for a number of minutes equal to 1 + 1 for every 4 ranks in Diplomacy you possess.
 
-#### Marauding Monkey (stance) [Youxia HB]
+#### Marauding Monkey (stance)
 
 While in this stance, whenever you successfully damage a creature with an attack action or attack of opportunity, you may choose to extend the duration of one of your active warleader abilities. If you choose an active shout, increase the duration by 1 round. If you choose an active tactic, the next time you maintain that tactic you may do so as a free action which allows you to recenter the tactic as normal. You can only extend the duration of an individual shout or tactic once per round with this talent.
 
-#### Persisting Influence [Conq. HB]
+#### Persisting Influence
 
 Your leadership in battle clings to allies and enemies alike. Whenever the benefits of a shout or tactic you initiated would end, their benefits persist for +1 round, increasing by +1 for every 7 ranks in Diplomacy you possess. Instantaneous effects are not affected by this talent, nor are tactics that end because you used a swift action to activate a different tactic.
 
-#### Projecting Voice [Conq. HB]
+#### Projecting Voice
 
 When using a shout, you may center your shout inside any square of an ongoing tactic you are maintaining, treating that square as the point of origin for that shout. If you have Breath Support or another talent or effect which would allow you to change the shape of your shout (such as into a line or cone), you choose the direction of your shout as normal from that square.
 
-#### Rallying Beseechment (utility) [LotS]
+#### Rallying Beseechment (utility)
 
 Whenever you make a Diplomacy or Perform check to make a request, you treat indifferent and friendly creatures as one step more friendly for the purpose of the request and its DC. In addition, you do not increase the DC for making a request to a group.
 
@@ -94,15 +94,15 @@ Whenever you make a Diplomacy or Perform check to make a request, you treat indi
 
 You may use a shout that normally requires you to expend your martial focus without expending your martial focus, but doing so makes you fatigued for 1 minute. If you are already fatigued, you become exhausted for this duration instead. You cannot use this talent while exhausted.
 
-#### Semaphore [High. HB]
+#### Semaphore
 
 You may use a shout with a visual component, using a form of choreography or signaling devices (such as dance or flags) as the medium for your shouts; this allows creatures who are deaf, but not blind, to be affected by your shouts. In addition, when adding such a visual component, the normal radius of effect of the shout increases by 15 feet.
 
-#### Strategically Distant Examination [Apoc]
+#### Strategically Distant Examination
 
 When you are benefiting from cover or concealment against at least one opponent and you are not within the threatened area of any opponent, increase morale bonuses granted by your tactics and shouts by 1 for every 10 ranks in Diplomacy you possess (minimum 1) until the start of your next turn. **Associated Feat:** Lead from the Back.
 
-#### Triumph [Conq. HB]
+#### Triumph
 
 Whenever you succeed on an attack action, you may shout as a swift action. You may expend martial focus to make this shout as a free action.
 
@@ -126,19 +126,19 @@ When you use this shout, your opponents’ attention is drawn to you for its dur
 
 You may expend your martial focus to use this shout and cause all enemy creatures who fail their Will save against this shout to take a -1 penalty on all attack rolls that do not include you as a target. Creatures incapable of targeting you with their attacks (for example, if you are flying out of reach of an enemy whose only available weapons are melee attacks) ignore this penalty. For every 4 ranks in Diplomacy you possess, this penalty increases by -1.
 
-#### Disarming Roar (shout) [Apoc]
+#### Disarming Roar (shout)
 
 *Source: [Spheres Apocrypha: Debilitating Talents](https://www.drivethrurpg.com/product/304600/Spheres-Apocrypha-Debilitating-Talents?affiliate_id=549120)*
 
 You may expend your martial focus to cause all affected enemies to attempt a Will saving throw. On a failed save, the creature loses their martial focus. This is an instantaneous effect.
 
-#### Dispiriting Roar (shout) [Apoc]
+#### Dispiriting Roar (shout)
 
 *Source: [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)*
 
 When you use this shout, all hostile creatures within its radius must succeed at a Will saving throw or have all morale bonuses benefiting them reduced by 1 for the shout’s duration. This is a mind-affecting fear effect. For every 4 ranks in Diplomacy you possess, the creature’s morale bonuses are reduced by an additional 1.
 
-#### Distracting Cacophony (shout) [Conq. HB]
+#### Distracting Cacophony (shout)
 
 Your disorienting screech echoes in the back of the minds of your foes. When you use this shout, all hostile creatures within its radius must succeed on a Will save. All creatures who fail their save against this shout increase the DC of all concentration checks and Intelligence-based skill checks by +2, increasing by +1 for every 4 ranks in Diplomacy you possess. This increase to concentration check DCs does not stack with the Disruptive feat or other effects which increase the DCs of concentration checks. In addition, creatures who take damage while affected by this shout suffer 5% spell failure during their next turn, increasing by 5% for every 4 ranks of Diplomacy you possess. If a creature is suffering spell failure chance from another source (such as spell failure from the Somatic Casting general drawback), add this spell failure to the other source to get a single spell failure source. This spell failure applies to all spells, spell-like, supernatural, and spherecasting abilities that the creature possesses. A creature who fails their save against this shout can attempt a new save each round as a free action at the end of their turn.
 
@@ -158,11 +158,11 @@ You may expend your martial focus to use this shout, allowing all allies within 
 
 You may call your allies to arms and give them the strength to push through exhaustion. For the shout’s duration, you and your affected allies may ignore the penalties associated with the fatigued or exhausted conditions. This does not end those conditions nor allow an exhausted creature to use the Roaring Reservoir talent, it simply removes the penalties associated with those conditions for the time being.
 
-#### Invigorating Call (shout) [Conq. HB]
+#### Invigorating Call (shout)
 
 You can spur your allies into action to react faster to imminent threats. For the duration of this shout, you and your allies are immune to sleep and fascinated. In addition, when first affected by this shout, any sleeping allies immediately wake up, fascinated allies automatically break free of the fascinate effect, flat-footed allies no longer count as flat-footed even if they have not acted yet, and allies lying prone may stand up as an immediate action, provoking attacks of opportunity as normal.
 
-#### Protective Warning (shout) [Conq. HB]
+#### Protective Warning (shout)
 
 You can warn your allies to protect themselves better against an enemy’s specific attack. When you use this shout, choose one specific ability you know an enemy possesses (such as a dragon’s breath weapon, a practitioner ogre’s brutal strike (exertion), or a specific spell or magical sphere effect an enemy uses, but not all spellcasting). All allies in the radius of this shout gain a +2 competence bonus to saving throws against that specific ability, increasing by +1 for every 5 ranks in Diplomacy you possess. You may expend martial focus to use this shout as an immediate action, but the bonuses from this shout end after one round.
 
@@ -194,7 +194,7 @@ All allies that start their turn within the radius of this tactic gain a +5 ft e
 
 Allies within range of this tactic are granted a +1 morale bonus on Reflex saves to avoid damage from attacks and effects that target an area, such as a fireball spell or the splash damage from an alchemist’s bombs. For every 4 ranks in Diplomacy you possess, this bonus increases by +1. Once per round when an ally affected by this tactic fails their Reflex save against such an effect, you may spend an immediate action to allow them to reroll the save.
 
-#### Covert Operations (tactic) [utility] [Conq. HB]
+#### Covert Operations (tactic) [utility]
 
 Allies within range of this tactic are granted a +3 competence bonus on Acrobatics, Escape Artist, and Stealth checks, increasing by +1 for every 4 ranks in Diplomacy you possess. Allies benefiting from this tactic may use the Acrobatics skill to move through threatened squares at full speed without penalty. Allies can benefit from your Covert Operations tactic even if they cannot see you.
 
@@ -208,7 +208,7 @@ Whenever you or an ally benefiting from this tactic successfully deal damage to 
 
 Allies within range of this tactic are granted a +1 morale bonus on Fortitude saving throws, +1 for every 4 ranks in Diplomacy you possess, as long as they are within the natural reach of at least one other ally affected by this tactic. Once per round when an ally affected by this tactic fails a Fortitude saving throw, you may spend an immediate action to allow them to reroll the save.
 
-#### Masterful Coordination (tactic) [Conq. HB]
+#### Masterful Coordination (tactic)
 
 Allies within range of this tactic can use the aid another action to provide a +3 bonus on attack rolls or to AC to any ally benefiting from this tactic against an opponent that ally threatens, increasing by +1 for every 10 ranks of Diplomacy you possess. The bonus from aid another lasts until the beginning of the aiding ally’s next turn. The bonus to aid another actions granted by Masterful Coordination does not stack with other feats, class features, or effects that improve the bonus provided by the aid another action.
 
@@ -228,7 +228,7 @@ Affected targets gain a bonus to their initiative checks equal to 1/4th your ran
 
 As long as an ally affected by this tactic is adjacent to at least one other ally, they gain a competence bonus to AC equal to 1/4 your ranks in Diplomacy (minimum 1).
 
-#### Synchronized Strikes (tactic) [Warden]
+#### Synchronized Strikes (tactic)
 
 When an ally within range of this tactic makes a successful weapon attack against a creature, the next successful weapon attack against that creature made by another ally within range of this tactic ignores any damage reduction or hardness the creature may possess.
 
@@ -236,7 +236,7 @@ When an ally within range of this tactic makes a successful weapon attack agains
 
 Effectively: Attack A allows Attack B to ignore damage reduction or hardness, but Attack B does not allow Attack C to ignore damage reduction or hardness. Attack C, however, enables Attack D, and continues alternating.
 
-#### Unified Morale (tactic) [High. HB]
+#### Unified Morale (tactic)
 
 Allies who are benefiting from a spell or effect that grants a morale bonus on a particular type of roll may also grant that morale bonus with other allies within range of this tactic. Once during that effect’s duration, each ally can apply that morale bonus on a roll they attempt of that type. For instance, if an ally benefiting from this tactic is also benefiting from heroism, once during the duration of the spell another ally could gain a +2 morale bonus on one saving throw, attack roll, or skill check. An individual ally can borrow someone’s morale bonus once per round, and only once per spell or effect. Changing in and out of this tactic does not allow for a bonus from the same spell or effect to be used additional times.
 
@@ -278,13 +278,13 @@ Whenever an ally affected by this tactic would be reduced to 0 or fewer hit poin
 
 Any ally affected by this tactic can use the aid another action to assist you on a skill or ability check as an immediate action as long as they are within close range. Any creature who comes into physical contact with you while this tactic is active must succeed on a Will saving throw or have their attitude towards you instantly improved by 1 step for 1 hour. Once a given creature has attempted a saving throw against this effect, they cannot be affected by it again for 24 hours.
 
-#### Phantom Operatives [Conq. HB]
+#### Phantom Operatives
 
 **Prerequisites:** Stealth 10 ranks, Scout sphere (Lurker, Walk Unseen, Vanish), Warleader sphere (Covert Operations (tactic)).
 
 Allies benefiting from your Covert Operations tactic can attempt Stealth checks to hide even when observed. When an ally breaks stealth (such as by attacking or not stealthing at the end of their turn), they gain concealment until the start of their next turn.
 
-#### Piercing Voice [Warden]
+#### Piercing Voice
 
 **Prerequisites:** Warleader sphere.
 
@@ -298,7 +298,7 @@ Additionally, whenever the effects of your shouts would be either reduced in ran
 
 You may expend your focus to recall the spirit of a creature within range of your shout that has died within 1 round. The target is healed for an amount equal to your ranks in Diplomacy + your Charisma modifier. If this healing is enough to raise the slain creature’s hit points to an amount greater than its Constitution score in negative hit points, it is returned to life and stabilizes at its new hit point total. If the creature’s hit point total would still be at a negative amount greater than or equal to its Constitution score, it remains dead. Creatures brought back to life via this ability gain a temporary negative level that lasts for one day. This is a supernatural effect.
 
-#### Resonating Chorus (shout) [Warden]
+#### Resonating Chorus (shout)
 
 **Prerequisites:** Diplomacy 5 ranks, Warleader sphere.
 

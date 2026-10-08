@@ -8,7 +8,7 @@ parent: "[[Spheres Of Power]]"
 
 *Source: [Ultimate Spheres of Power](https://www.drivethrurpg.com/product/300249/Ultimate-Spheres-of-Power?affiliate_id=549120)*
 
-### Alchemy-Implanted (CR +0) [Gravecaller's HB]
+### Alchemy-Implanted (CR +0)
 
 **Acquired/Inherited Template** Acquired
 **Simple Template** Yes
@@ -33,7 +33,7 @@ The alchemy-implanted creature gains abilities depending on the item used:
 - As an immediate action, the alchemy-implanted may make a melee touch attack against a target within its natural reach and detonate the implanted splash weapon. The alchemy-implanted is reduced to 0 hit points, exploding with the effects of the implanted item. If the melee touch attack is successful, treat the target as if they were hit by the splash weapon normally and affect any other creatures, excluding the alchemically-implanted, in the splash weapon’s radius as normal. If the alchemical-implanted dies, the splash weapon is detonated automatically, centered on its space. Exploding this way mangles the corpse, making it difficult to reanimate without repairing the body first (such as with the Death sphere Corpse Manipulation talent).
 - **Other Implanted Alchemicals and Potions:** For any other implanted item, such as a Salve or Panacea (formulae) or a potion, the alchemy-implanted may expend the item to use it on a creature within its natural reach as a standard action or on itself as a swift action.
 
-### Amalgamate Template (CR +1, see text) [SB:A]
+### Amalgamate Template (CR +1, see text)
 
 “Amalgamate” is an acquired template that can be added to any living, corporeal creature. A mutant retains the base creature's statistics and special abilities except as noted here.
 
@@ -71,7 +71,7 @@ The alchemy-implanted creature gains abilities depending on the item used:
 
 **Ability Scores:** If any of the amalgamate creature’s fused creatures possess ability scores that are better than the amalgamate’s own ability scores, the amalgamate uses these higher ability scores in place of its own.
 
-### Antimemetic Creature (CR +1) [SB:A]
+### Antimemetic Creature (CR +1)
 
 “Antimemetic” is an acquired template that can be added to any creature, referred to hereafter as the base creature.
 
@@ -95,7 +95,7 @@ As a full-round action, the antimemetic creature can use this ability to cloud t
 
 *Inscrutable (Su):* The antimemetic creature’s form and abilities are self-censoring, rendering any attempt to explain or identify them incredibly difficult. Any Knowledge check made to learn information about an antimemetic creature takes a -20 penalty.
 
-### Apostle Kyton [SB:FotC]
+### Apostle Kyton
 
 The beings known as kytons pursue a higher state of being through self-mutilation, most often aiming for pleasure or a greater truth. Both impulses drive these immortals to share their discoveries with others, a process which continually expands the number of disciples eager to learn more about the great secrets of existence. Those who learn these secrets end up distancing themselves from their morality, their sensibility, and ultimately their humanity, living on as eternal horrors known as apostle kytons.
 
@@ -159,7 +159,7 @@ Their tricks are simple to counter and avoid once they have been witnessed, but 
 
 **Toss Shorty (Ex):** As a standard action, a blood brother can pick up and throw another blood brother. The blood brother being thrown must be conscious to guide the throw. The blood brother doing the throwing attempts a Strength check with a DC of 10. If they succeed, they throw their brother 5 feet, plus an additional 5 feet for every 5 they beat the DC by. If the thrown brother delayed their action, they can now take their action to make a full-round attack.
 
-### Bound One [SB:FotC]
+### Bound One
 
 Bound one is an acquired template that can be added to any creature (referred to hereafter as the base creature). A bound one uses all the base creature’s statistics and special abilities except as noted here.
 
@@ -205,7 +205,7 @@ Examples include disinterring the corpse of the lord’s slain lover and reburyi
 
 **Ability Scores:** +4 Intelligence, +4 Wisdom, +4 Charisma.
 
-### Contra-Legem [SB:FotC]
+### Contra-Legem
 
 There are those who attempt to circumvent a bargain for their soul by becoming undead, doubting the powers of the beyond to claim them. Over the eons, fiends have learned to counter such trickery, but often respect mortals for their ambition. Undead born of those who have pledged their souls are transformed into contra-legem, reanimated horrors bound by diabolic power. Contra-legem often perform painful or demeaning tasks for their fiendish masters, especially when a fiend wishes to warn other beings of the dangers of crossing them.
 
@@ -330,7 +330,7 @@ For all other purposes, the embodiment of magic has a spell pool equal to its po
 
 **Magical Nature (Su):** The embodiment of magic is permanently under the effects of the sphere effect it was derived from.
 
-### Fey Noble [SB:F&F]
+### Fey Noble
 
 The powerful rulers of Faerie, fey nobles are masters of their domains, shaping them to their will and defining reality there on a whim.
 
@@ -368,7 +368,7 @@ A fey noble’s domain is usually suited to their nature; aquatic fey will rule 
 
 **Skills:** Bluff and Diplomacy are always a class skills for a fey noble.
 
-### Fiendbound [SB:FotC]
+### Fiendbound
 
 Through diabolical agreements or strange circumstances, mortals sometimes find themselves sharing their bodies and/or souls with powerful evil outsiders. Most who enter these alliances are willing participants, relishing in the power given them despite losing their soul and potentially free will. The amount of control a fiendbound mortal exerts over their own body and mind varies heavily based on the agreement.
 
@@ -409,7 +409,7 @@ Through diabolical agreements or strange circumstances, mortals sometimes find t
 
 **Fiendish Patron (Ex):** Each fiendbound creature possesses a fiendish patron, a distinct type of fiend which determines what defensive abilities the fiendbound creature may select. This patron is selected when the fiendbound creature gains this template (typically corresponding to the type of fiend they made an agreement with) and cannot be changed.
 
-### Forest-Corrupted (CR +2) [Woodfaring Adventures]
+### Forest-Corrupted (CR +2)
 
 Forest-corrupted creatures are intelligent beings who have been taken by the forest and transformed into pack animals for its own use. Nearly mindless and filled with an insatiable rage, those who believe the forest is sentient theorize the corrupted are the forest’s shock troops, which it sends to spread its seeds to new or damaged locations as subverted carriers. Forest-corrupted are easy to identify thanks to the plant-like vines that appear to be woven throughout their flesh. It is rare for a Chaotic creature to become a forest-corrupted, but it isnot unheard of.
 
@@ -443,7 +443,7 @@ Forest-corrupted is an acquired template that can be added to any living, corpor
 
 **Combat Talents:** A forest-corrupted creature gains a martial tradition and 1 martial talent per hit die, using Constitution as its practitioner modifier.
 
-### Forest-Touched (CR +1) [Woodfaring Adventures]
+### Forest-Touched (CR +1)
 
 Animals are welcomed in the forest much more readily than humanoids. Not only are animals immune to the Forest-corrupted template listed above, but sometimes they can exhibit powers and intelligence beyond their usual ability, as if some guiding power was directly influencing them.
 
@@ -479,7 +479,7 @@ The forest-touched template requires very little rebuilding and can be applied a
 
 The forest-touched template is a great tool for increasing the danger of an encounter, and as there is very little rhyme or reason (at least that is observable by mortals) for why creatures might suddenly gain the forest-touched template, it is completely within the rights of the GM to apply the template as they desire. Perhaps the PCs have become high enough level that the Forest has taken notice of them. Perhaps they are about to uncover a powerful artifact and the forest does not wish them too. Any and all of these are valid reasons for why a group of animals might suddenly gain the forest-touched template.
 
-### Godfoe (CR +3) [Cata. HB]
+### Godfoe (CR +3)
 
 There exist beings which the gods and their champions have brutalized in incomprehensible ways, beings who have sworn vengeance upon not only the gods but the concept of divinity itself. This twisted resolve transforms them into multiversal horrors known as godfoes, entities with the unique capacity not only to suppress the miracles of the divine and pseudo-divine but also to destroy these allegedly immortal beings.
 
@@ -536,7 +536,7 @@ A wretch alters the graveknight template (hereafter referred to as the “base t
 
 **Skills:** Rather than the normal Graveknight skill bonuses, a wretch gains a +8 racial bonus on Bluff, Disguise, and Perception checks
 
-### Half-Fiend [SB:FotC]
+### Half-Fiend
 
 The intense magic of many fiends allows them to beget a variety of powerful and deadly offspring. It is said that every mortal creature has the potential to sire a half-fiend and that the mere presence of a mighty evil outsider can be sufficient to twist the shape of the unborn. These tales have spread across countless cultures in part due to the resilience of these hybrids; one of their number is capable of wrecking tremendous havoc across a vast domain.
 
@@ -572,7 +572,7 @@ The intense magic of many fiends allows them to beget a variety of powerful and 
 
 **Skills:** A half-fiend with racial Hit Dice has skill points per racial Hit Die equal to 6 + Int mod. Racial class skills are unchanged, and class level skill ranks are unaffected.
 
-### Indomitable Creature (CR +1) [SB:MBaCE]
+### Indomitable Creature (CR +1)
 
 Indomitable creatures are unusually tough and resilient compared to others of their kind, able to deflect and ignore harm that others could not.
 
@@ -595,7 +595,7 @@ The indomitable creature template is inherited and can be added to any create (r
 
 For every 4 Hit Dice the indomitable creature possesses, the indomitable creature gains Extra Combat Talent as a bonus feat, selecting a bonus talent from the Guardian sphere.
 
-### Insectile Creature (CR +1) [SB:A]
+### Insectile Creature (CR +1)
 
 “Insectile creature” is an acquired template that can be added to any intelligent, living corporeal
 creature, referred to hereafter as the base creature.
@@ -647,7 +647,7 @@ When an insectile creature is no longer under the influence of its azaka masters
 
 **Special Attacks:** A masterless insectile creature loses its magic talents and spell-like abilities and cannot create magic effects but retains any extraordinary abilities.
 
-### Lich (spheres) (CR +2) [SB:UatIF]
+### Lich (spheres) (CR +2)
 
 Lichdom, a draconian solution to the fear of death, is a narrow path tread by those with power and the capacity to sacrifice, commit atrocity, or otherwise abandon their regular humanity to achieve a form of near perfect undeath. While most liches are evil, often due to the path of lichdom requiring sacrifices or costs that grossly prevent common morality, some find their path to lichdom in their own unique ways. Terrifyingly powerful practitioners of magic, a lich is a formidable foe with nothing but time on their side.
 
@@ -759,7 +759,7 @@ For every 4 Hit Dice the power lich possesses, the power lich gains Extra Magic 
 
 This alters the base template’s Basic Magic Training and Advanced Magic Training feats.
 
-### Living Idol [SB:FotC]
+### Living Idol
 
 “Living Idol” is an acquired template that can be added to any non-aeon outsider without the native subtype (referred to hereafter as the base creature). A living idol uses the base creature’s statistics and abilities except as noted here.
 
@@ -844,7 +844,7 @@ The meteorological creature’s MSD for this effect is 11 + its Hit Dice and its
 
 **Feats:** Meteorological creatures gain Mantled Caster as a bonus feat. They can also select Extra Magic Talent for (mantle) talents activated by their personal climate and Weather talents that modify their personal climate (but not its range or duration). They need not meet the prerequisites of this feat to select them.
 
-### Primarcane (CR +3) [Cata. HB]
+### Primarcane (CR +3)
 
 In the earliest days of the multiverse, before god or nature set down the laws of reality, magic flowed freely throughout existence. Boundless energies could be harnessed with even the most rudimentary magical training, while learned mages were capable of shaping the scope of existence in accordance with their whims. Perhaps it was the hubris of such beings that eventually ended this age of wonder or perhaps the cosmos simply stabilized in a manner that bound existence in its current state. Regardless, there are still some unknowably ancient beings which hold onto the unshackled magic of ages past, beings unrivaled in the raw magical energies at their command.
 
@@ -908,7 +908,7 @@ If the sphere incarnation possessed spherecasting before gaining the sphere inca
 
 **Languages:** A sphere incarnation can speak in truespeech, as well as any languages spoken by the base creature.
 
-### Thronefused [SB:FotC]
+### Thronefused
 
 “Thronefused” is an acquired template that can be added to any corporeal creature (hereafter referred to as the base creature). A thronefused creature uses all the base creature’s statistics and special abilities except as noted here.
 
@@ -946,7 +946,7 @@ A thronefused may make a touch attack that fuses the victim’s lower limbs toge
 
 **Skills:** A thronefused gains an additional +5 racial bonus on all Knowledge skills and Linguistics, and a –10 penalty to Acrobatics, Climb, Ride, and Swim.
 
-### Twisted Spirit Tree [SB:F&F]
+### Twisted Spirit Tree
 
 Not all spirit trees are peaceful wardens of the forest. Some have grown to hate the races that walk about the land and seek to devour them.
 
@@ -965,7 +965,7 @@ This is an acquired template that may be applied to any spirit tree.
 
 Twisted spirit trees hate all that walks. Some simply slay or drive away any that come within their reach, but the more subtle will pretend to be helpful, giving false advice to lead the hearers to bad ends. Twisted spirit trees will gift their fruit, as would a normal spirit tree, but deceive the recipient of their effect, a cruel surprise in their moment of need.
 
-### Vampire (spheres) (CR +2) [SB:UatIF]
+### Vampire (spheres) (CR +2)
 
 Sometimes the result of magical experimentation, other times by disease, vampirism is generally only “spread” from a willing host to the recipient, and is not a true disease like lycanthropy. Those who fall, or rise as a vampire would see their own transformation as, to vampirism become cunning, physically powerful undead who transcend their mortal form’s limitations for the gift of undeath.
 
@@ -1093,7 +1093,7 @@ For every 4 Hit Dice the suzerain chymist possesses, the suzerain chymist gains 
 
 This replaces the base template’s Combat Reflexes, Toughness, and Transformation feats.
 
-### Variant Skeleton and Zombie: Brutal Undead (CR +1) [SB:UatIF]
+### Variant Skeleton and Zombie: Brutal Undead (CR +1)
 
 A brutal undead is a variant skeleton or zombie that can be created using animate dead or the Death sphere Expanded Necromancy talent and count as twice their normal number of Hit Dice when casting the reanimate sphere effect.
 
@@ -1150,7 +1150,7 @@ Virulent sensors lose special qualities that are dependant upon having a physica
 
 **Detonation:** When the walking bomb is reduced to 0 or fewer hit points, it detonates, dealing damage as a destructive blast (1d6 per odd Hit Die) with the Explosive Orb (blast shape) and a blast type selected at creation with a caster level equal to its Hit Dice and save DCs equal to 10 + 1/2 Hit Dice + Constitution modifier.
 
-### Walking God (CR +Varies) [Cata. HB]
+### Walking God (CR +Varies)
 
 The gods, wherever in the universe they may reside, rarely cast themselves down to walk amongst mortals. When the physical body of a god appears upon a world, their presence pretends great fortune or great woe whose ramifications will echo for lifetimes. These physical walking gods may be avatars of divinity, the magically-bound essence of a deity, or even a god in the entirety of their power. What is known about these walking gods is that, in dramatic and often blasphemous circumstances, they can be destroyed. Such acts, rare though they may be, often have ramifications which reach all across existence.
 
@@ -1266,7 +1266,7 @@ The sheer amount of power given to a walking god makes them generally unsuitable
 
 It should be noted that while deities have mythic ranks similar to players and other mythic creatures, the comparison may not always be completely analogous from a lore perspective. A character with multiple mythic tiers who ascends to godhood would likely lose at least some of them in the ascension process, as a tier 6 walking god is many steps above a tier 6 mythic character in terms of power and influence.
 
-### Wightborne (CR +1) [SB:UatIF]
+### Wightborne (CR +1)
 
 “Wightborne” is an acquired template that can be added to any living humanoid creature (referred hereafter as the base creature). Wightborne are unusually rare wights (Pathfinder RPG Bestiary pg. 276) which retain a fragile sense of their former self, although warped and twisted by the rage and emotions surrounding their demise. A wight does not choose to create a wightborne, they are rare occurrences when a strong-willed humanoid dies at the hands of a wight, and gaining this template is subject to GM discretion.
 

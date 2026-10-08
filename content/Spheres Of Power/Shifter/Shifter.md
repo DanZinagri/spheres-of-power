@@ -87,7 +87,7 @@ At 2nd level and every 2 levels thereafter the shifter gains a bestial trait, re
 
 The shifter may choose to keep these traits when she assumes other forms, even if the trait would normally be removed (such as natural claws).
 
-#### Accommodating Form [Apoc]
+#### Accommodating Form
 
 *Source: [The Apex Shifter](https://www.drivethrurpg.com/product/276206/Spheres-Apocrypha-Apex-Shifter?affiliate_id=549120)*
 
@@ -137,23 +137,23 @@ The shifter increases all of her movement speeds by 10 feet. This bestial trait 
 
 The shifter gains a bite attack. This is a primary attack dealing 1d6 damage (1d4 Small). If this is the only attack made during the shifter’s turn, she adds 1-1/2 her Strength bonus to the damage dealt.
 
-#### Braineater [Alienist HB]
+#### Braineater
 
 You gain Brain Consumption as a bonus feat. If you already possess Brain Consumption, you may immediately retrain Brain Consumption at no additional cost in money or time, selecting a new, valid feat (such as retraining a feat gained with level advancement to another valid feat). You may benefit from having two brains consumed at once, in which case you gain a bonus to one skill that one creature had ranks in and another skill that the other had ranks in.
 
-#### Braineater Savant (requires braineater) [Alienist HB]
+#### Braineater Savant (requires braineater)
 
 You gain Consumptive Intuition as a bonus feat. When you consume a creature’s brain, you may add that brain to a repository of knowledge known as your brain pool. The talents gained from Consumptive Intuition may be gained from any creature whose brain you have in your brain pool rather than the last creature whose brain you have consumed (for example, if you possess four instances of the Consumptive Intuition feat, you may use these feats to gain 2 talents from one brain, 1 talent from a second brain, and 1 talent from a third brain). The number of brains you may have in your brain pool is equal to your casting ability modifier + the number of times you have taken the Consumptive Intuition feat. You may select this bestial trait multiple times, each time gaining Consumptive Intuition as a bonus feat an additional time.
 
-#### Braineating Connoisseur (requires braineater savant, shifter level 12th) [Alienist HB]
+#### Braineating Connoisseur (requires braineater savant, shifter level 12th)
 
 You constantly benefit from any talents you gain from the Consumptive Intuition feat rather than only having them active for a limited duration per day. You may exchange which talents you have active whenever you rest to regain spell points or consume another brain. This does not allow you to benefit from more of these talents than you have instances of the Consumptive Intuition feat.
 
-#### Breath Weapon (Su) [Origin]
+#### Breath Weapon (Su)
 
 The shifter gains a breath weapon which deals acid, cold, electricity, or fire damage in a 30-foot cone or a 60-foot line. These decisions are made when she selects this bestial trait. This breath weapon deals 1d8 damage plus an additional 1d8 damage for every 2 shifter levels she possesses beyond 1st. Creatures in the area of effect are allowed a Reflex save for half damage (DC 10 + 1/2 the shifter’s level + the shifter’s casting ability modifier). Once the shifter has used her breath weapon, she cannot use it again for another 1d4 rounds.
 
-#### Breath Weapon, Improved (requires breath weapon bestial trait, shifter level 4) [Origin]
+#### Breath Weapon, Improved (requires breath weapon bestial trait, shifter level 4)
 
 The shifter’s breath weapon’s range improves to a 60-foot cone or a 120-foot line. In addition, she uses d10s rather than d8s to determine the damage of her breath weapon and may use her breath weapon once per round rather than once every 1d4 rounds.
 
@@ -161,7 +161,7 @@ The shifter’s breath weapon’s range improves to a 60-foot cone or a 120-foot
 
 The shifter gains the ability to hide in plain sight, using Stealth without cover or concealment, even while being directly observed.
 
-#### Champion [CotS]
+#### Champion
 
 The shifter gains a Champion feat of her choice as a bonus feat (see [[Champion Feats]]). She must meet the prerequisites of the feat. This trait can be gained multiple times.
 
@@ -169,11 +169,11 @@ The shifter gains a Champion feat of her choice as a bonus feat (see [[Champion 
 
 The shifter gains a pair of retractable claws, which may be retracted or expanded as a free action. These are primary attacks that deal 1d4 damage (1d3 Small).
 
-#### Combat Talent [CotS]
+#### Combat Talent
 
 You gain a bonus combat talent. This bestial trait may be taken more than once, granting an additional talent each time.
 
-#### Defensive Shift [Apoc]
+#### Defensive Shift
 
 *Source: [The Apex Shifter](https://www.drivethrurpg.com/product/276206/Spheres-Apocrypha-Apex-Shifter?affiliate_id=549120)*
 
@@ -191,11 +191,11 @@ The shifter gains earth glide. She can pass through stone, dirt, or almost any o
 
 The shifter can avoid even magical and unusual attacks with great agility. If she succeeds at a Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can be used only if she is wearing light armor, or no armor, and carrying no more than a light load. If she is helpless, she loses the benefit of evasion.
 
-#### Fast Healing (Ex) (requires quick healing bestial trait, shifter level 10) [Origin]
+#### Fast Healing (Ex) (requires quick healing bestial trait, shifter level 10)
 
 The shifter gains fast healing 1. The shifter may take this talent a second time to improve this fast healing to be equal to half their shifter level.
 
-#### Feinting Shift [Apoc]
+#### Feinting Shift
 
 *Source: [The Apex Shifter](https://www.drivethrurpg.com/product/276206/Spheres-Apocrypha-Apex-Shifter?affiliate_id=549120)*
 
@@ -221,7 +221,7 @@ If the shifter possesses a flight speed, her maneuverability increases by one st
 
 The shifter gains either the Flyby Attack, Hover, or Wingover feats. She may select this trait up to 3 times, gaining another feat each time.
 
-#### Fortification (Ex) (requires shifter level 6) [Origin]
+#### Fortification (Ex) (requires shifter level 6)
 
 The shifter gains a 25% chance to negate critical hits or sneak attacks and other precision damage (so damage is rolled normally instead). This does not stack with armor with the fortification special ability or any other similar effects. This bestial trait can be selected again starting at 12th level and 18th level, increasing the chance to negate critical hits or sneak attacks by an additional 25% for every additional time it is taken (to a maximum of 75% at 18th level).
 
@@ -241,7 +241,7 @@ The shifter may spend 1 minute to graft a weapon to a limb capable of wielding a
 
 The shifter gains a favored terrain, as the ranger class feature. She may select this trait once at 2nd level, plus an additional time for every 4 shifter levels she possesses beyond 2nd. Each time this trait is gained beyond the first, she gains an additional favored terrain, and the bonuses granted in one of her favored terrains (even the one just selected if she desires) increases by 2.
 
-#### Home in the Underground (Ex) (requires shifter 4) [Origin]
+#### Home in the Underground (Ex) (requires shifter 4)
 
 The shifter gains a burrow speed of 20 feet.
 
@@ -253,7 +253,7 @@ The shifter gains the amphibious subtype (including the ability to breathe under
 
 The shifter gains the Impaling Charge feat.
 
-#### Improved Damage Reduction (requires shifter level 4) [Origin]
+#### Improved Damage Reduction (requires shifter level 4)
 
 Any damage reduction the shifter possesses from an Alteration sphere trait or shifter class features improves by 1, plus an additional 1 for every 4 shifter levels she possess beyond 4th. This does not grant the shifter any damage reduction if they do not have any form of damage reduction already.
 
@@ -269,13 +269,13 @@ One of the shifter’s natural attacks increases its damage by one die size. If 
 
 The shifter adds her shifter level as a bonus on all Acrobatics checks made to jump. When attempting a jump, she is always considered to have a running start. The shifter may attempt an Acrobatics check to jump as part of her charge. If her vertical height exceeds the height of her target, the target is flat-footed against the attacks granted by that charge and the critical threat range of her natural attacks is increased by 1. This increase stacks with and is applied after effects such as keen and Improved Critical.
 
-#### Learned Behavior [BTH]
+#### Learned Behavior
 
 The shifter gains the Alteration sphere Mimicry talent as a bonus talent.
 
 The shifter may use the Mimicry talent to study one of her subordinates as a swift action without spending a spell point. A talent the shifter gains using the Mimicry talent this way lasts for an hour per shifter level instead of just one hour.
 
-#### Living Death (Su) (requires adaptation or undead kin) [Origin]
+#### Living Death (Su) (requires adaptation or undead kin)
 
 The shifter no longer needs to breathe. This grants immunity to inhaled poison as well as suffocation (such as from being underground, underwater, or in a vacuum) but does not grant immunity to cloud or gas attacks that do not require breathing.
 
@@ -303,19 +303,19 @@ The shifter’s size permanently changes to either Small, Medium, Tiny, or Large
 
 The shifter may permanently change her size to either Huge or Diminutive, as if using the Size Change Alteration talent sphere.
 
-#### Permanent Size Change, Incredible (Ex) (requires permanent greater size change, shifter 16) [Origin]
+#### Permanent Size Change, Incredible (Ex) (requires permanent greater size change, shifter 16)
 
 The shifter may permanently change their size to either Gargantuan or Fine as if using the Size Mastery Alteration talent.
 
-#### Permanent Size Change, Supreme (Ex) (requires incredible permanent size change, shifter 20) [Origin]
+#### Permanent Size Change, Supreme (Ex) (requires incredible permanent size change, shifter 20)
 
 The shifter may permanently change their size to Colossal as if using the Size Mastery Alteration talent.
 
-#### Poison (Ex) (requires shifter 6) [Origin]
+#### Poison (Ex) (requires shifter 6)
 
 The shifter selects a single natural attack (one claw, bite, etc.) she possesses. This natural attack inflicts poison on a successful attack (injury; save Fortitude DC 10 + 1/2 her shifter level + her casting ability modifier; frequency 1/round for 6 rounds; effect 1d2 ability damage; cure 1 save). The type of ability damage dealt by this poison is chosen when the shifter first selects this trait. If the shifter loses that natural attack due to a shapeshift, she may designate a different natural attack for this to augment for the duration. She may select this trait multiple times. The effects do not stack. Each time it is gained, select another natural attack to inflict the same poison.
 
-#### Poison, Improved (Ex) (requires poison, shifter 10) [Origin]
+#### Poison, Improved (Ex) (requires poison, shifter 10)
 
 The shifter selects one natural attack augmented by the poison bestial trait. The effect of this poison improves to 1d2 ability damage to 2 ability scores, 2 saves. The second ability score damaged by this poison are selected when this trait is first taken, with the first ability score being the one the shifter selected with the poison bestial trait. She may select this trait multiple times. The effects do not stack. Each time it is gained, select another natural attack augmented by the poison trait to inflict the same poison.
 
@@ -337,11 +337,11 @@ As a free action once per round, the shifter may heal 5 hit points as if she had
 
 This bestial trait can be gained multiple times. Each time it is gained, increased the maximum hit points that can be healed with this ability by an additional 5 per 2 shifter levels.
 
-#### Reach (Ex) (requires shifter 6) [Origin]
+#### Reach (Ex) (requires shifter 6)
 
 The shifter’s reach increases by 5 feet. The shifter does not threaten this enlarged area unless she takes this talent a second time.
 
-#### Resistant Shift [Apoc]
+#### Resistant Shift
 
 *Source: [The Apex Shifter](https://www.drivethrurpg.com/product/276206/Spheres-Apocrypha-Apex-Shifter?affiliate_id=549120)*
 
@@ -351,7 +351,7 @@ When the shifter applies a shapeshift to herself and becomes a size category lar
 
 The shifter gains the scent ability. If she possesses home in water, she also gains the ability to detect creatures by scent up to a 180-foot radius underwater and can detect blood in the water at ranges of up to a mile.
 
-#### See in Darkness (Su) (requires darkvision, shifter 10) [Origin]
+#### See in Darkness (Su) (requires darkvision, shifter 10)
 
 The shifter may see perfectly in darkness of any kind, even magical darkness that normally impedes darkvision.
 
@@ -359,7 +359,7 @@ The shifter may see perfectly in darkness of any kind, even magical darkness tha
 
 As a standard action the shifter may reshape one of her limbs capable of wielding a weapon into a weapon she is proficient in as per the Shape Weapon trait of the Morphic Weapon Alteration talent. Use her shifter level to determine the effective caster level of this ability. This stacks normally with caster levels gained from other sources. This change persists until dismissed as a free action.
 
-#### Shifting Style [Apoc]
+#### Shifting Style
 
 *Source: [The Apex Shifter](https://www.drivethrurpg.com/product/276206/Spheres-Apocrypha-Apex-Shifter?affiliate_id=549120)*
 
@@ -367,7 +367,7 @@ As a standard action the shifter may reshape one of her limbs capable of wieldin
 
 When the shifter applies a shapeshift to herself, she may spend an additional spell point to gain a combat talent she doesn’t currently possess (excluding the Alchemy, Equipment, Tech, or Trap sphere). She must possess the base sphere associated with the talent in order to gain it. This talent lasts for 1 minute or until she applies a new shapeshift to yourself.
 
-#### Shredding Blows (Ex) [Origin]
+#### Shredding Blows (Ex)
 
 The shifter’s weapon attacks ignore an amount of hardness equal to 1/2 the shifter’s level (minimum 1). When attacking a target with damage reduction the shifter’s attacks do not bypass (such as DR 3/–), the shifter ignores an amount of damage reduction equal to 1/2 the shifter’s level (minimum 1).
 
@@ -427,7 +427,7 @@ At 4th level, when the shifter applies a shapeshift to herself and maintains it 
 
 Starting at 4th level, the shifter’s magic begins to augment her natural attacks, in both her normal and transformed shapes. All the shifter’s natural attacks are treated as magic weapons for the purpose of overcoming damage reduction. At 7th level they are treated as cold iron and silver weapons. At 10th level, the shifter has come to embody fluidity so much that her natural attacks are treated as chaotic weapons for the purpose of overcoming damage reduction. At 16th level, they are treated as adamantine weapons for this purpose.
 
-#### Alternate Class Feature: Enhanced Defense (Ex) [Origin]
+#### Alternate Class Feature: Enhanced Defense (Ex)
 
 At 4th level, the shifter gains DR/magic equal to 1/3 their shifter level. If the shifter would gain damage reduction from another source which is bypassed by a material or alignment, that damage reduction is improved to also require a magic weapon. For example, a shifter which gains damage reduction bypassed by silver would instead gain damage reduction bypassed by silver and magic (noted DR/ silver and magic) and a shifter which gains damage reduction bypassed by a good-aligned weapon would instead gain damage reduction bypassed by a good-aligned magic weapon (noted DR/good and magic).
 
@@ -543,7 +543,7 @@ The following feats are particularly appropriate or useful for shifters.
 
 The following magical items are especially appropriate for shifters.
 
-#### Parsertongue [TS:WAT]
+#### Parsertongue
 
 **Aura** moderate Enhancement; **CL** 8th
 **Slot** head; **Price** 3,000 gp; **Weight** 2 lbs.
@@ -553,7 +553,7 @@ This snakeskin mouthguard is tied around the head by string. When worn by a crea
 **Construction Requirements**
 Craft Apparatus, Enhancement sphere (Bestow Intelligence (enhance)), creator must have the steal languages class feature; **Cost** 1,500 gp
 
-#### Shifter’s Shard [TS:WAT]
+#### Shifter’s Shard
 
 **Aura** moderate Alteration; **CL** 6th
 **Slot** neck; **Price** 10,000 gp; **Weight** 1/2 lbs.
@@ -563,7 +563,7 @@ This shard of bone is taken from the corpse of a shapeshifting creature and wrap
 **Construction Requirements**
 Craft Apparatus, Alteration sphere, creator must have the bestial trait class feature, creator must have the bestial traits being added to this item; **Cost** 5,000 gp
 
-#### Uptake Gloves [TS:WAT]
+#### Uptake Gloves
 
 **Aura** moderate Enhancement; **CL** 6th
 **Slot** wrists; **Price** 8,000 gp; **Weight** 1 lb.

@@ -24,7 +24,7 @@ Admixture feats grant new ways to utilize the Admixture talent (from the Destruc
 
 **Benefit:** When using Admixture, you may spend an additional spell point to have a single creature that takes damage be targeted by blood control (including the free (quicken) or (still) ability granted by initiating blood control) that you possess. Creatures already under the effects of your blood control instead may be targeted by a (quicken) or (still) ability. If you possess the Mass Blood Magic talent, you may apply the blood control to all targets damaged, up to your maximum number of targets from Mass Blood Magic, though all affected creatures must be targeted by the same (quicken) or (still) ability.
 
-#### Boundary Admixture (Admixture) [3PP]
+#### Boundary Admixture (Admixture)
 
 **Prerequisites:** Destruction sphere (Admixture), Protection sphere
 
@@ -32,7 +32,7 @@ Admixture feats grant new ways to utilize the Admixture talent (from the Destruc
 
 *Source: Card Casting 2: Counters and Control*
 
-#### Curative Admixture (Admixture) [DbH]
+#### Curative Admixture (Admixture)
 
 Ruinous and restorative power alike flow from your will.
 
@@ -40,7 +40,7 @@ Ruinous and restorative power alike flow from your will.
 
 **Benefit:** When using Admixture, you may spend an additional spell point to have a single creature that takes damage be targeted by a cure, invigorate, or restore. If you possess the Mass Healing talent, you may apply the cure, invigorate, or restore to all targets damaged, up to your maximum targets from Mass Healing. A Life sphere effect which would deal damage (such as a cure on an undead or in conjunction with the Affliction talent) instead deals no damage when used with this feat.
 
-#### Dispelling Admixture (Admixture, Counterspell) [3PP]
+#### Dispelling Admixture (Admixture, Counterspell)
 
 **Prerequisites:** Destruction sphere (Admixture), Counterspell
 
@@ -54,7 +54,7 @@ Ruinous and restorative power alike flow from your will.
 
 **Benefit:** When using Admixture, you may spend an additional spell point to have a single creature that takes damage be targeted by an enhancement effect that you possess. If you possess the Mass Enhancement talent, you may apply the enhancement to any targets damaged, up to your maximum targets from Mass Enhancement. This ability can only target creatures, it cannot be used to affect objects.
 
-#### Faerie Admixture (Admixture) [3PP]
+#### Faerie Admixture (Admixture)
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -62,7 +62,7 @@ Ruinous and restorative power alike flow from your will.
 
 **Benefit:** When using Admixture, you may spend an additional spell point to affect one target damaged by the destructive blast with a fey-link in place of a second blast type. If you possess Bounty of the Fey, you may apply the fey-link to any targets damaged, up to your maximum targets from Bounty of the Fey.
 
-#### Generative Admixture (Admixture) [3PP]
+#### Generative Admixture (Admixture)
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -82,7 +82,7 @@ Ruinous and restorative power alike flow from your will.
 
 **Benefit:** When using Admixture, you may cause a single creature that takes damage to glow.
 
-#### Introductory Admixture (Admixture) [3PP]
+#### Introductory Admixture (Admixture)
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -90,7 +90,7 @@ Ruinous and restorative power alike flow from your will.
 
 **Benefit:** When using Admixture, you may spend an additional spell point to summon a creature in a square adjacent to the target’s square or another affected square. If you possess the Mass Summon Talent, you may summon multiple such creatures up to the normal maximum of Mass Summon.
 
-#### Militant Admixture (Admixture) [3PP]
+#### Militant Admixture (Admixture)
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -116,7 +116,7 @@ Ruinous and restorative power alike flow from your will.
 
 **Benefit:** When using Admixture, you may spend an additional spell point to affect one target damaged by the destructive blast with a shroud effect you know in place of a second blast type. If you possess Encompassing Weather, you may apply the shroud to any targets damaged, up to your maximum targets from Encompassing Weather.
 
-#### Primal Admixture (Admixture) [3PP]
+#### Primal Admixture (Admixture)
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -124,7 +124,7 @@ Ruinous and restorative power alike flow from your will.
 
 **Benefit:** When using Admixture, you may spend an additional spell point to affect one target damaged by the destructive blast with a geomancing or spirit effect which targets a creature or applies to a creature in place of a second blast type. If you possess Environmental Presence or Grant Spirit twice, you may apply the effect to any targets damaged, up to your maximum targets from these talents. Alternatively, you may spend an additional spell point to center a geomancy effect which targets an area on the target’s square or another affected square.
 
-#### Soft Admixture Specialty [3PP]
+#### Soft Admixture Specialty
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -140,7 +140,7 @@ Ruinous and restorative power alike flow from your will.
 
 **Benefit:** When using Admixture, you may spend an additional spell point to have a single creature that takes damage targeted by Unwilling Teleport. If you possess the Mass Teleport talent, you may apply the Unwilling Teleport effect to all targets damaged, up to your maximum targets from Mass Teleport.
 
-#### Spectacular Admixture (Admixture) [3PP]
+#### Spectacular Admixture (Admixture)
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -148,7 +148,7 @@ Ruinous and restorative power alike flow from your will.
 
 **Benefit:** When using Admixture, you may spend an additional spell point to affect one target damaged by the destructive blast with a glamer effect in place of a second blast type. If you possess Complex Illusion, you may apply the glamer to any targets damaged, up to your maximum targets from Complex Illusion. Alternatively, you may spend an additional spell point to center a figment effect on the target’s square or another affected square.
 
-#### Spellshock Admixture (Admixture) [Mana HB]
+#### Spellshock Admixture (Admixture)
 
 **Prerequisites:** Destruction sphere (Admixture), Mana sphere.
 
@@ -172,7 +172,7 @@ Ruinous and restorative power alike flow from your will.
 
 **Benefit:** When using Admixture, you may spend an additional spell point to center a darkness or blot effect on the target’s square or another affected square.
 
-#### Unveiling Admixture (Admixture) [3PP]
+#### Unveiling Admixture (Admixture)
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -180,7 +180,7 @@ Ruinous and restorative power alike flow from your will.
 
 **Benefit:** When using Admixture, you may spend an additional spell point to center a viewing sensor on the target’s square or another affected square. Alternatively, you may spend a spell point to affect a single target damaged by the blast with the Sensory Overload talent. If you possess Grant Divination twice, you may apply the Sensory Overload to any targets damaged, up to your maximum targets from Grant Divination.
 
-#### Warding Admixture (Admixture) [3PP]
+#### Warding Admixture (Admixture)
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 

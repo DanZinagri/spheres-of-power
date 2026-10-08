@@ -218,7 +218,7 @@ When attempting to create a cage that occupies the same space as a creature, you
 
 Additionally, you may create non-harmful objects directly on a creature. An unwilling target is always entitled a Reflex save to avoid having an object created directly on them, causing the object to fall harmlessly to the ground. (For example, you may create manacles on a target’s wrists, but if they succeed at a Reflex save the manacles miss and fall to the ground.) When using this talent, create becomes subject to spell resistance.
 
-#### Transmuting Strike [strike] [3PP]
+#### Transmuting Strike [strike]
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -234,7 +234,7 @@ You may spend a spell point to alter an object, changing its composition from on
 
 **Wiki Note:** Change Material cannot change states of matter. The State Shift advanced talent is required to change solids into liquids, etc.
 
-#### Crack (alter) [Apoc]
+#### Crack (alter)
 
 *Source: [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)*
 
@@ -371,7 +371,7 @@ If you use Change Material to turn an object into a plasma which dissipates enti
 
 Advanced talents are part of an optional rule and are only available with GM permission.
 
-#### Corp Criadhach [DbH]
+#### Corp Criadhach
 
 **Prerequisites:** Creation sphere (Duplicate (advanced), Fleshcraft (advanced, material)), caster level 10th.
 When you use Duplicate to create a replica of a creature (which may only be an unliving body resembling the creature if you do not possess the Bestow Life advanced talent), you may spend a spell point to create a sympathetic link with the creature that the duplicate is modelled after. This link may take one of the two following forms.
@@ -411,7 +411,7 @@ If you possess the Fabricate advanced talent, you may permanently create any obj
 
 You can summon any material you may create, with the exception of gems, precious metals (such as gold or silver) or rare metals (such as cold iron or mithral), unless you possess Costly Creation (see above for further information).
 
-#### Create Minds Think Alike [Jester's HB]
+#### Create Minds Think Alike
 
 **Prerequisites:** Creation sphere (Exquisite Detail), Enhancement sphere (Bestow Intelligence (enhance)), caster level 5th.
 
@@ -460,7 +460,7 @@ If you possess the Forge talent, you may sculpt a creature’s body in one of th
 - You may attack the target’s body, dealing 2d6 Constitution damage.
 - If you possess the Fabricate advanced talent, you may change a creature’s appearance permanently. You attempt a Disguise check if mimicking a specific creature.
 
-#### Imperfect Recreation [Alienist HB]
+#### Imperfect Recreation
 
 **Prerequisites:** Creation sphere (Duplicate (advanced), Exquisite Detail, Fleshcraft (advanced, material)), Enhancement sphere (Animate Object (enhance), Bestow Intelligence (enhance), Bestow Life (advanced)), caster level 15th.
 
@@ -482,7 +482,7 @@ When you use the Duplicate talent to create a duplicate of a creature, you may c
 | 15-17 | Neutral evil |
 | 18-20 | Chaotic evil |
 
-#### Internal Creation [Apoc]
+#### Internal Creation
 
 *Source: [Spheres Apocrypha: Battlefield Manipulation Talents](https://www.drivethrurpg.com/product/350940/Spheres-Apocrypha-Battlefield-Manipulation-Talents?affiliate_id=549120)*
 

@@ -7,11 +7,11 @@ updated: 2026-09-14
 
 The following are some variant rules which can be utilized in your campaign, allowing players and GMs to better customize their characters, worlds, and magical functions.
 
-## Associated Skills [LotS]
+## Associated Skills
 
 If a character has skill spheres or packages with the same associated skill as combat spheres or packages, they do not gain more ranks than their usual maximum. Instead, they gain a competence bonus on checks with that skill equal to one-half their character level (minimum +1). This takes precedence over pure combat spheres using onehalf their base attack bonus in such situations.
 
-## Class Skill Ranks Adjustment [BTH]
+## Class Skill Ranks Adjustment
 
 “We are men, not beasts!” the man exclaimed.
 
@@ -25,7 +25,7 @@ If an archetype would adjust a class’s base skill points, adjust that class’
 
 This variant rule pairs well with the Background Skills ruleset originally included in Pathfinder Unchained (Pathfinder Unchained).
 
-## Combat and Magic Talent Substitution [LotS]
+## Combat and Magic Talent Substitution
 
 If the GM wants to run a game that focuses more heavily on skills, consider allowing skill talents to be gained in place of certain other talents. Whenever a character would gain a combat talent (introduced in Spheres of Might) or gain a magic talent (Spheres of Power) from a talent progression, they can instead gain a skill talent or base sphere they qualify for, to a maximum of half their talents of that type (rounded down). Note that the reverse substitution is not available this way. You cannot substitute specific bonus talents, talents gained in place of associated feats, or the talents gained from a casting tradition or martial tradition.
 
@@ -33,7 +33,7 @@ If the GM wants to run a game that focuses more heavily on skills, consider allo
 
 A quick way to build a champion class from a standard class with the combat training or skill expertise class features is to replace one entire talent progression with the equivalent progression of the other kind (expert for virtuoso, adept for journeyman, or proficient for trained). With the GM’s permission, you can make this substitution as an alternate class feature for any suitable class when you take your first level in that class.
 
-## Optional System—Comfort [DRS]
+## Optional System—Comfort
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -175,7 +175,7 @@ You increase the base Comfort Score of exposed or shabby sleeping arrangements b
 
 Your Comfort Score cannot be higher than 3 or lower than -3. Also, once per day whenever you suffer a penalty to Comfort due to attrition, you can ignore the penalty for the day.
 
-## Distinct Magic Types [HMH]
+## Distinct Magic Types
 
 In many mythologies, stories, and RPGs, magic takes on a variety of forms which may be incompatible with each other. From psionicist-vs-wizard power struggles to warriors of light fighting against corrupting dark magic to mage factions each working to bend reality to their own ideal shape, the concept of distinct or incompatible magic types has been utilized in numerous RPGs and settings and is rife for storytelling possibilities. Hence, it may be of interest for GMs to integrate into their worlds.
 
@@ -258,7 +258,7 @@ Your capacity to manipulate supernatural forces is constrained to a certain face
 
 ---
 
-## Diversified Casting Ability Scores [S&P]
+## Diversified Casting Ability Scores
 
 While combat-focused characters must frequently pay attention to numerous ability scores in order to make a functional characters, casters can typically get away with enhancing only their casting ability score. Some GMs may wish to force casters to diversify their abilities or simply to homogenize magic across a setting rather than assigning each class or character a distinct casting ability score.
 
@@ -272,7 +272,7 @@ Charisma is used to determine the DCs of your sphere abilities and the DCs of yo
 
 GMs may exchange the effects of the three ability scores at their discretion if they so wish. Some games may wish to make Diversified Casting Ability Scores a casting tradition drawback, in which case it should be worth one drawback.
 
-## Downtime Teams [HMH]
+## Downtime Teams
 
 The following downtime teams can be recruited for organizations.
 
@@ -312,7 +312,7 @@ Recruits are trained in a variety of martial disciplines and may serve as guards
 **Upgrades** From Apprentice
 A Spherecaster is a 3rd-level character of a class (or combination of classes) that possesses a casting tradition. They possess 100 gp worth of equipment.
 
-## High Magic Economies [HMH]
+## High Magic Economies
 
 When magic items are involved, most conventional currencies become so inflated as to become meaningless. Players will often spend a king’s ransom to get an additional +1 bonus to AC or saving throws, a fact which not only raises questions about the economic functionality of most settings but makes the math for purchasing equipment needlessly complex.
 
@@ -351,13 +351,13 @@ Table: Wealth by Level in New Currencies details the amount of Arcus or Nobile t
 | 19 | 685,000 | 27,400 | 685 |
 | 20 | 880,000 | 35,200 | 880 |
 
-## Inspired Deckbuilding [3PP]
+## Inspired Deckbuilding
 
 *Source: Baron’s Glorious Arena*
 
 In a game where GMs or players are more interested in improvising their abilities rather than preparing them ahead of time, characters with the Card Casting drawback may lose the ability to create spell cards when regaining spell or stamina points to instead gain Sparking Printer as a bonus feat. A character using this rule has no minimum deck size and may remove cards created through Sparking Printer from their deck whenever they rest to regain spell or stamina points.
 
-## Integrated Aristeia Progression [S&P]
+## Integrated Aristeia Progression
 
 Although the [[Aristeia]] system is powerful, some GMs may wish to integrate it as a natural progression of characters rather than as a series of optional feats. This works particularly well for high-powered games.
 
@@ -365,7 +365,7 @@ At 3rd level and every 2 levels thereafter, all characters gain an Aristeia feat
 
 Some GMs may wish to take this further by removing the system of Aristeia points entirely, allowing the characters to enter whatever level of Aristeia they feel is appropriate whenever their situations arise.
 
-## Language – Nyanspeak [Catgirl HB]
+## Language – Nyanspeak
 
 This language is closer to a dialect of common consisting of many of the same words and phonetics as its parent language accompanied by a distinct “nya”, both trailing at the end of phrases but also replacing phonetically similar words mid-sentence (such as “universe”, “magic”, and “immune” being pronounced as “nyunyaverse”, “nyagic”, and “innyune”).
 
@@ -375,7 +375,7 @@ When learning a dialect of Nyanspeak, a creature must first know the dialect’s
 
 Catfolk and other similarly feline races may learn dialects of Nyanspeak for any other languages they possess as part of selecting their starting racial languages. Nyanspeak is otherwise a regularly available language which can be learned.
 
-## Levels Beyond 20 [HMH]
+## Levels Beyond 20
 
 The Spheres of Power system is somewhat unique from conventional Pathfinder in its ability to sustain high-level play beyond level 20, and one could feasibly run a campaign that rises to arbitrarily high levels. Presented below are some rules that help to facilitate play beyond 20th level.
 
@@ -448,7 +448,7 @@ Epic boons are as follows. Epic boons can generally be selected any number of ti
 
 **Wealth:** The character gains valuables or assets equivalent in worth to 1/5 of their expected wealth for their level (for example, 6,600 gp for an 8th-level character or 176,000 gp for a 20th-level character). Should the character gain additional levels later on, this benefit scales up to match an equal percentage of their new expected wealth by level.
 
-## Ley Lines [RW HB]
+## Ley Lines
 
 The rules for ley lines were originally included in Pathfinder Roleplaying Game: Occult Adventures. These rules are reprinted in the Realmwalker’s Handbook alongside additional resources for ley lines in any setting, including those using Spheres of Power. Ley lines are inherently a worldbuilding resource and tool and may not be available in every setting. GMs should read this section and consider if ley lines are appropriate for their setting and game, and players should check with their GM whether ley lines are present before making use of the materials in this section.
 
@@ -629,7 +629,7 @@ A suppressed ley line behaves in all ways similar to a ley line that is dispelle
 **Target** 1 ley line accessible node.
 **Description** This ritual functions as the plane shift spell, moving the caster and up to 5 other creatures within 50 feet of the ley line node to the plane associated with the ley line, except all transported creatures arrive at a particular location with precise accuracy. The location is specific to the ley line, usually a ley line accessible node located on the influencing plane. If the target ley line links two locations on the same plane, this ritual instead functions as the teleport spell with no chance to arrive off target.
 
-## Magic on Planes and Planets [RW HB]
+## Magic on Planes and Planets
 
 In adventures which feature a large amount of travel, particularly to new planets and planes (often referred to as a “plane-hopping” adventure), magic and its manifestations can often be influenced or warped by the environment. One representation of influenced magic and manifestations is on planes of faerie, or other equivalent fey-dominant planes, where magic is subject to wild magic chance unless the caster’s source of magic is nature-influenced (such as a druid, hunter, or shaman’s magic). The concept of area-dependent magical limitations is an immensely dynamic and versatile worldbuilding tool where nuance and detail can be added to specific places, planes, and planets with fine details of how magic has “grown up” in certain regions where a specific general casting drawback was required to allow magic to function.
 
@@ -678,7 +678,7 @@ When encountering a place, plane, or planet with different magic, such as an inf
 | --- | --- | --- |
 | Identify Local Influential Drawback | Knowledge (arcana), Knowledge (planes), or Spellcraft | 15 |
 
-## Mass Combat Special Abilities [HMH]
+## Mass Combat Special Abilities
 
 The following section expands the special abilities gained in mass combat for use with Spheres of Power and Spheres of Might. As the sheer breadth of class features in these systems makes indexing abilities difficult and expansion needlessly cumbersome, this system ties an army’s special abilities to the spheres that members possess rather than specific class abilities.
 
@@ -788,7 +788,7 @@ The following section expands the special abilities gained in mass combat for us
 - *Technomancy sphere included in Arcforge Campaign Setting: Spheres of Influence. Legendary Games © 2018. Included here for completion.*
 - *Feint and pincer maneuver tactics included in Ultimate Kingdoms. Legendary Games © 2020.*
 
-## Opt-In Negative Energy Affinity [Gravecaller's HB]
+## Opt-In Negative Energy Affinity
 
 **Rule:** With the opt-in negative energy affinity variant rule, any race can accept the following racial trait:
 
@@ -798,7 +798,7 @@ In a game using opt-in negative energy affinity, any race that gains negative en
 
 The gameplay and mechanical implications of this variant rule are relatively minor but offer some mechanical backing to wanting to play a “lesser undead” elf or aasimar, for example, without all the mechanical headaches that come with the undead type.
 
-## Skill Talent Exchange [DRS]
+## Skill Talent Exchange
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -806,7 +806,7 @@ If the GM wishes to run a game that encourages the use of skill-based abilities 
 
 A character with a skill talent progression can choose to remove their utility talent progression for more general skill talents. A Trained operative would instead gain a skill talent every 2 levels, a Journeyman operative 3/4ths of a skill talent every level, and a Virtuoso operative a skill talent every level.
 
-## Simple Trade Traditions [DRS]
+## Simple Trade Traditions
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -814,7 +814,7 @@ Certain classes are better with skills than others, and although Spheres of Guil
 
 A game using this variant rule treats all characters who opt into a trade tradition as if they had an adroit trade rank.
 
-## Spellcasting Services [HMH Variant]
+## Spellcasting Services
 
 If a character wishes to purchase spellcasting services from a spherecaster, the payment for the effect is equal to 10 gp x the caster level of the effect x the number of talents required to create the effect (including the base sphere) x the number of spell points needed to create the effect (minimum 1). If an effect would require additional feats or unique class features, each feat or class feature is considered to be one talent for the purpose of determining the cost of the effect. Each advanced talent is considered 2 talents for the purpose of determining the cost of a spellcasting service. If a sphere effect is permanent, the base price of the spellcasting service is 500 gp rather than 10 gp.
 
@@ -829,7 +829,7 @@ When looking for spellcasting services in a settlement, the maximum possible cas
 | Spheres, talents, feats, class features | Multiply cost by total number of spheres/talents/feats/class features used |
 | Advanced talents | Each advanced talent counts as 2 talents for the purpose of cost |
 
-## Sphere Fields [HMH]
+## Sphere Fields
 
 With more than 22 magic spheres, some settings may wish to compartmentalize magic into a smaller number of wider categories for the purpose of the setting’s mythology. For example, a setting may rule that the world-shifting powers of the Nature, Telekinesis, and Weather spheres all stem from a singular source or that the Conjuration, Time, and Warp spheres all operate on a shared set of hyper-dimensional principles. The sphere field rules are designed as a rules space for such distinct “meta-spheres” that GMs may use to thematically categorize magic in a setting, allowing for a more detailed mapping of the trappings of magic or greater compatibility with existing options tied to specific structures of magic.
 
@@ -879,7 +879,7 @@ The implement provides an enhancement bonus to all spheres of a specific sphere 
 
 *Technomancy sphere included in Arcforge Campaign Setting: Spheres of Influence. Legendary Games © 2018. Included here for completion.*
 
-## Undead Player Characters [Gravecaller's HB]
+## Undead Player Characters
 
 *Wiki Note:* This rule is not particularly meant to be used with the Opt-In Negative Energy Affinity variant rule.
 
@@ -901,7 +901,7 @@ This change, inspired by a similar option presented to the wyrwood race from Pat
 
 When using this variant rule, consider granting player characters who do not opt into being undead a bonus feat or other benefit to help even the playing field with characters who will have these immunities and benefits.
 
-## Universal Magic [HMH]
+## Universal Magic
 
 One way to create and convey a high-magic world is to give every character at least some sort of access to magic. The Universal Magic optional rules bestow easy access to a variety of supernatural abilities to every character in the setting, allowing everyone from laborers to nobility to perform magical feats without the need for special training or unique resources.
 
@@ -919,7 +919,7 @@ Anyone with class levels gains bonus class skills, talents, and feats as they ga
 
 Certain classes may not be appropriate for this enhanced talent progression if their low progression is balanced against full caster level progression (such as the thaumaturge), the ability to alternate talents daily (such as the sphere arcanist), or a class ability which effectively enhances sphere progression (such as a sage’s style talents or an antiquarian armiger’s mystic bond).
 
-## Utility Talent Exchange [DRS]
+## Utility Talent Exchange
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -927,7 +927,7 @@ If a GM wants to run a more social-leaning game, they can allow a character to e
 
 A character with a talent progression can exchange 1 standard talent with 2 utility talents, although only once every 4 Hit Dice.
 
-## Widespread Techniques [3PP]
+## Widespread Techniques
 
 *Source: Baron’s Glorious Arena*
 

@@ -39,7 +39,7 @@ Most vital of all to remember, however, is that many of the Oaths may reflect re
 
 ## Oaths
 
-### Forbidden Knowledge (see text) [Alienist HB]
+### Forbidden Knowledge (see text)
 
 **Oath:** The secrets you carry weigh heavy on you. You are constantly affected by a single severance which never goes dormant no matter how much strain damage is recovered. Whether this severance represents constant stress from your burden or a perfectly logical path given some horrible secret you are aware of is up to you. Lesser severances are worth 2 Oath points while greater severances are worth 4 Oath points. A character may only possess one instance of this Oath.
 
@@ -111,7 +111,7 @@ Most vital of all to remember, however, is that many of the Oaths may reflect re
 
 **Atonement:** You must once again forswear your attachments to others, spending 3 days in selfless service to a cause or community during which you purge yourself of hedonistic desires or ambitions to control others. You must also donate or destroy valuables or keepsakes worth at least 100 gp x your character level squared.
 
-### Oath of the Cryptkeeper (1 Oath Point) [Gravecaller's HB]
+### Oath of the Cryptkeeper (1 Oath Point)
 
 **Oath:** You have sworn to respect and honor the dead. You may never defile or loot a grave, crypt, or other similar location where a body has been respectfully laid to rest (a defiled crypt, such as one inhabited by a lich, would not be prohibited by this oath). Whenever you encounter the corpse of a creature with an Intelligence score of 3 or greater, you must respectfully bury that corpse and give it proper burial rights (or other appropriate funeral rights, such as a viking’s pyre).
 
@@ -228,7 +228,7 @@ In other words, renewing an Oath does not allow you to reselect the benefits of 
 
 You gain fast healing equal to half your character level (minimum 1).
 
-### Bonus Feats (see text) [DbH]
+### Bonus Feats (see text)
 
 You gain a number of bonus feats depending on the number of Oath points you spend on this Oath boon, to a maximum of 4 (see Table: Bonus feats per Oath point).
 
@@ -261,7 +261,7 @@ You gain a number of bonus talents based on how many Oath points you spend on th
 
 You gain damage reduction equal to half your character level (minimum 0). This damage reduction is bypassed by alignment opposite to yours (so a lawful good character would possess DR/chaotic or evil). A true neutral character’s damage reduction is bypassed by any type of aligned weapon. This does not stack with any other forms of damage reduction you may possess.
 
-### Devotee’s Guidance (1 Oath Point) [DbH]
+### Devotee’s Guidance (1 Oath Point)
 
 Your deity has given you the skill to defend yourself. You are proficient with the favored weapon of your deity. In addition, you gain either Combat Sphere Specialization, Divine Fighting Technique, or Weapon Focus with your deity’s favored weapon as a bonus feat. You must meet the prerequisites for these feats.
 
@@ -291,11 +291,11 @@ You may take this Oath boon a second time. If you do, you may apply this bonus t
 
 **Wiki Note:** When this boon is used with Zodiac Tattoos, including when stacked with Unarmored Training, it applies to Zodiac Tattoos and is subject to the limitations of that feat. It can only apply special abilities, not an enhancement bonus, and only up to the normal maximum for Zodiac Tattoos.
 
-### Esteemed Leader (1 Oath Point) [DbH]
+### Esteemed Leader (1 Oath Point)
 
 Your blessed leadership allows your followers to prosper. Any score bonuses you grant from occupying a leadership role in a kingdom, faction, or rebellion increase by 1. At 5th level and every 5 levels thereafter, these bonuses increase by 1.
 
-### Imbued Spell (4 Oath Points) [Alienist HB]
+### Imbued Spell (4 Oath Points)
 
 You gain a constant magic effect over your body which emulates a single apparatus with a caster level equal to your character level. This effect cannot be dispelled but can be suppressed as if it were a magic item. Otherwise, the effect follows all the rules of an apparatus and has its abilities determined as if it were an apparatus, save that it does not have a minimum caster level. The maximum complexity of the apparatus is equal to 2 + half your character level (minimum 3) and you may alter the effects of the apparatus every time you level up.
 
@@ -319,7 +319,7 @@ For every 2 Oath points you spend on this Oath boon, you are treated as having o
 
 Your Oath insulates your body and mind against harm. You gain a +1 resistance bonus to all saving throws at 3rd level, which increases by 1 at 6th level and every 3 levels thereafter (to a maximum of +5 at 15th level). You also gain a +1 enhancement bonus to natural armor at 5th level which increases by 1 at 8th level and every 3 levels thereafter (to a maximum of +5 at 17th level).
 
-### Integral Oath (1 point) [DbH]
+### Integral Oath (1 point)
 
 You gain Integral Oath as a bonus feat. The bonus Oath point granted by the feat cancels out the cost of this Oath boon. You may select this Oath boon multiple times.
 
@@ -329,11 +329,11 @@ You gain Advanced Magic Training as a bonus feat even if you do not meet the pre
 
 **Note:** This counts as obtaining the casting class feature. This boon also grants 2 bonus magic talents as though you gained your first level in a casting class (if you had not already gained these two bonus talents).
 
-### Maneuver Expert (1 Oath Point) [DbH]
+### Maneuver Expert (1 Oath Point)
 
 At 3rd level, you receive a +1 competence bonus to your CMB to perform a combat maneuver of your choice and to your CMD to resist that maneuver. This bonus increases by 1 at 6th level and every 3 levels thereafter, to a maximum of +5 at 15th level. This Oath boon may be selected multiple times, each time applying to a different type of combat maneuver.
 
-### Momentary Spell (see text) [3PP]
+### Momentary Spell (see text)
 
 You gain an activatable magic effect over your body which emulates a single marvelous item with a caster level equal to your character level. This effect cannot be dispelled but can be suppressed as if it were a magic item. Otherwise, the effect follows all the rules of a marvelous item and has its abilities determined as if it were a marvelous item, save that it does not have a minimum caster level. The maximum complexity of the marvelous item is equal to 2 + half your character level (minimum 2) and you may alter the effects of the marvelous item every time you level up.
 
@@ -349,11 +349,11 @@ Given the variety of capabilities offered by this Oath boon, this Oath boon is a
 
 Even death cannot impede you. Once per day, if you are killed, you are immediately affected as per breath of life with a caster level equal to your character level. You may choose to improve this to raise dead starting at 9th level, resurrection at 13th level, and true resurrection at 17th level. In addition, if you die, you can choose to return as a prana ghost (see Bestiary 6) after one minute (note that becoming a prana ghost stops you from being resurrected). If you become a prana ghost, you die after 24 hours and cannot be resurrected by this ability. You do not gain the rejuvenation ability as a normal prana ghost would.
 
-### Renown (1 Oath Point) [DbH]
+### Renown (1 Oath Point)
 
 At 3rd level, you gain the renown social talent as a vigilante of your character level, choosing to be treated as either a social identity or a vigilante identity and being able to swap between the two perceptions in a process that takes 10 minutes. At 7th level, you gain the great renown talent. At 11th level, you gain the incredible renown talent.
 
-### Secret Tongue (1 Oath Point) [DbH]
+### Secret Tongue (1 Oath Point)
 
 You learn secret words that protect you from powerful magics. You gain a +2 insight bonus on saving throws against 2 magic spheres (subject to GM discretion). This bonus increases by +2 at 10th level and every 10 levels thereafter. In addition, you gain a bonus language which may be selected from secret languages such as Druidic. Teaching this bonus language to another creature violates whichever Oath granted you this boon unless they swear an Oath and select this Oath boon as well. You may select this Oath boon multiple times, each time selecting different spheres and a different bonus language.
 
@@ -373,7 +373,7 @@ If you spend at least one Oath point on this Oath boon, you treat all skills as 
 
 For every Oath point you spend on this Oath boon, select one skill. You gain a competence bonus on all checks made with that skill equal to 2 + 1/2 your character level.
 
-### Whisperer to the Lost (Su) (1 Oath point) [Gravecaller's HB]
+### Whisperer to the Lost (Su) (1 Oath point)
 
 You gain the benefits of the Death sphere Gravetongue talent as a constant supernatural effect. At 10th level, any undead or spirits you speak with must succeed at a Will saving throw (DC 10 + 1/2 your level + your Charisma modifier) or have their attitude towards you adjusted one step towards friendly when answering your questions. At 15th level, their attitude instead adjusts to friendly.
 
@@ -432,6 +432,6 @@ You are skilled at keeping dedicates in line.
 
 ---
 
-## Oaths and CR [DBH]
+## Oaths and CR
 
 Characters which possess more than 5 Oath boons worth of Oaths are considered to have the equivalent of abnormally high wealth. As a result, their CR should be increased by 1.

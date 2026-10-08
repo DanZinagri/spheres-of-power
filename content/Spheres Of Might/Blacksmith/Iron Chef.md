@@ -40,14 +40,14 @@ This replaces the maintenance and rapid maintenance class features.
 
 In addition to the smithing insights available to all blacksmiths, the iron chef may select from any of the following chef’s insights whenever he would gain a smithing insight:
 
-#### Aromatic Dishes [AoP2]
+#### Aromatic Dishes
 
 The iron chef learns how to alter the aroma of his dishes, allowing him to encourage (or discourage) its consumption. The iron chef can only apply one of these aromas to a given recipe.
 
 - **Fetid**—By either burning his dishes, or adding particularly odorous ingredients to his dishes, the iron chef can make his dishes quite unbearable to be near. Any creature that ends their turn within 5 feet of a creature who eats this meal must succeed at a Fortitude saving throw or become sickened for 2 rounds. A creature who succeeds at this saving throw becomes immune to this aroma’s effects for 24 hours. If the aroma is used alongside a sour flavor, creatures do not become immune to this aroma if they succeed at the saving throw.
 - **Pleasant**—By utilizing food such as honey, peppermint and cinnamon, the iron chef can make a meal particularly pleasant to the nose, granting any creature who eats a meal including it a +2 circumstance bonus to Diplomacy and Bluff checks. If this aroma is used alongside a sweet flavor, this bonus increases by a further +2.
 
-#### Expanded Preparation [AoP2]
+#### Expanded Preparation
 
 The iron chef learns new ways of preparing his recipes.
 
@@ -62,7 +62,7 @@ The iron chef learns how to make spectacular side dishes incorporating the follo
 - **Avocados**—Creamy and delicious, avocados promote higher brain functions and creative thought, granting any creature who eats a meal including them a +2 enhancement bonus to their Intelligence score for the duration of the effect. This bonus increases by an additional +2 when the iron chef reaches 10th level. If avocados are served alongside mycoproteins, this bonus is increased by a further +2.
 - **Melons**—The cool, full-bodied flavor of delicious melons can lend a peaceful and tranquil aspect to any meal that resonates with anyone who eats them. Any creature served a meal including melons gains a +1 competence bonus on saving throws against emotion effects, +1 per 3 class levels the iron chef possesses, and adds this bonus to the DC to demoralize them with the Intimidate skill.
 
-#### Fruits, Expanded [AoP2]
+#### Fruits, Expanded
 
 The iron chef’s repertoire of culinary knowledge expands, granting him further insight into how to utilize more exotic fruits in his recipes. The iron chef may add the fruits below to his list of side dishes; as normal, the iron chef can only apply one side dish to a given recipe.
 
@@ -77,7 +77,7 @@ The iron chef’s repertoire of culinary knowledge expands, granting him further
 
 Whenever the iron chef would reduce an animal, dragon, magical beast, plant, or vermin to 0 or fewer hit points while using his thunderous blows class feature, he may spend an immediate action to instantly slay that creature and convert it into enough rations to feed 1 Medium creature, +1 additional creature for each size category the slain creature is above Medium. These rations can be used with the iron chef’s recipes class feature to increase the number of creatures he can feed. Some creatures may be able to use this ability on other creature types they would consider food as the GM deems appropriate, such as a cyclopes iron chef converting humans into rations.
 
-#### Herbs and Spices [AoP2]
+#### Herbs and Spices
 
 The iron chef learns how to add an expansive range of flavours to his recipes, allowing him to utilize various herbs and spices. The iron chef can only apply one garnish to a given recipe.
 
@@ -101,7 +101,7 @@ The iron chef learns the following vegetable side dishes which can be used to in
 - **Carrots**—Crunchy and delicious, carrots are good for promoting reasoning and perception, granting any creature who eats a meal including them a +2 enhancement bonus to their Wisdom score for the duration of the effect. This bonus increases by an additional +2 when the iron chef reaches 10th level. If carrots are served alongside fish, this bonus is increased by a further +2.
 - **Lettuce**—Crisp and refreshing, lettuce can help a meal sit lightly and easily. Any creature who eats a meal including lettuce gains a +2 enhancement bonus to their Dexterity score for the duration of the effect. This bonus increases by an additional +2 when the iron chef reaches 10th level. If lettuce is served alongside fowl, this bonus is increased by a further +2.
 
-#### Vegetables, Expanded [AoP2]
+#### Vegetables, Expanded
 
 The iron chef’s repertoire of culinary knowledge expands, granting him further insight into how to utilize more exotic vegetables in his recipes. The iron chef can only apply one side dish to a given recipe.
 

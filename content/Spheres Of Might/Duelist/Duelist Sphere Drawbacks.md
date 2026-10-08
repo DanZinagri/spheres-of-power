@@ -22,13 +22,13 @@ You do not gain the ability to perform disarm maneuvers without provoking attack
 
 You do not gain the ability to deal bleed damage with attacks and disarm attempts from the Duelist base sphere. You cannot take talents with the (bleed) descriptor. You must take Bind Weapon as the bonus talent gained from taking this drawback.
 
-#### Scarred Duelist [SA:MD]
+#### Scarred Duelist
 
 You do not gain the blooded strike ability. You cannot select (bleed) talents. You gain Scar Tissue with this drawback.
 
 **Incompatible:** Bloody Slasher, Disarming Duelist.
 
-#### Sense Weakness [SA:MD2]
+#### Sense Weakness
 
 You do not gain the ability to perform disarm maneuvers without provoking attacks of opportunity against bleeding targets. You cannot select (disarm) talents. You gain Blooded Skeptic with this drawback.
 

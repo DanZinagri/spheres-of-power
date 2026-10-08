@@ -31,7 +31,7 @@ Reduce the penalties for attacking with your dual attack ability by 1/2 (minimum
 
 You may activate your dual attack ability off of a bull rush, dirty trick, drag, reposition, or steal combat maneuver made as a standard action. You suffer your dual attack penalty to your CMB for this maneuver as well as to the off-hand attack, and may make the off-hand attack before or after you perform the maneuver.
 
-#### Concentrated Breakdown [LSP]
+#### Concentrated Breakdown
 
 Whenever you deal damage to a creature with two or more weapons in a single round, you can select either that creature’s natural armor bonus or damage reduction; reduce it by 2 (to a minimum of 0) for 1 minute or until that creature recovers hit points from any source. If you would be able to apply the effects of this talent to the same creature 2 or more times before its duration is over, you can either choose to reduce whichever target (natural armor or damage reduction) that you did not select before or increase the reduction by 1 as well as reset the duration. At +10 base attack bonus, whenever you apply the effects of this talent to a creature, if you select the same target (natural armor or damage reduction), the penalty is increased by 2 instead of 1.
 
@@ -75,7 +75,7 @@ You may spend a move action to regain your martial focus and gain a +1 circumsta
 
 Whenever you use an attack action and successfully strike a single creature with both your main-hand and off-hand weapons before the start of your next turn, you can make an additional attack with your off-hand weapon against a different creature as a free action.
 
-#### Gemini Dancer (stance) [LSP]
+#### Gemini Dancer (stance)
 
 At the start of your turn, you can spend a swift action to use this talent. When you do, until the beginning of your next turn whenever you use the dual attack ability, if your attacks with your main hand or off hand weapon miss due to not hitting the creature’s armor class, as long as your attack was within 5 points of the creature’s armor class (if the creature’s AC was 25, this talent would trigger if your attack roll was 24 to 20), you still deal damage as though you had rolled the minimum result for the attack (if you miss with your off-hand attack which would normally deal 1d6+2 damage, you would still deal 3 damage); this talent is treated as dealing damage for abilities which rely on doing so, such as sneak attack. At +10 base attack bonus, you instead roll damage normally for this talent, dealing half of the damage it would have dealt. If you expend your martial focus while activating this talent, it instead lasts a number of rounds equal to your practitioner modifier.
 
@@ -95,11 +95,11 @@ You deal your full Strength modifier to damage on attacks made with your off-han
 
 Whenever you wield a melee weapon in one hand and a ranged weapon in the other, you don’t provoke attacks of opportunity from firing or reloading while threatened. If you successfully attack two different creatures more than 5 ft. apart from each other in the same round you make an attack using the attack action, you gain a +2 circumstance bonus on damage rolls against each creature until the end of your next turn; for every 5 base attack bonus you have, this bonus increases by +2.
 
-#### Mixed Defense [Apoc]
+#### Mixed Defense
 
 Whenever you wield a melee weapon in one hand and a ranged weapon in the other, you may forgo your ranged attack when using the dual attack ability. If you do so, until your next turn, you may spend an attack of opportunity to make a ranged attack against an opponent attempting to attack you in melee. If your ranged attack hits, you gain a +2 dodge bonus to AC against that opponent and a +2 circumstance bonus to attack rolls against that opponent until the end of your next turn. Both the melee weapon attack and the ranged attack suffer the attack penalty from dual attack as normal, and the ranged attack must be made with the same ranged weapon wielded during the dual attack.
 
-#### Offhand Parry [LSP]
+#### Offhand Parry
 
 Whenever you are wielding two or more weapons, you can choose to use the dual attack ability (taking the attack penalty for doing so), but only make a single attack. If you do, once per round whenever a creature makes a melee attack against you, you can spend an attack of opportunity to make an attack roll as if you were making an attack of opportunity, but for each size category the attacking creature is larger than you, you take a –2 penalty on this roll. If your result is greater than the attacking creature’s result, the creature’s attack automatically misses. At base attack bonus +10, if you successfully force an attack to miss with this talent, you can make an attack against the creature who’s attack you forced to miss.
 
@@ -121,7 +121,7 @@ As long as you have martial focus, as part of an attack action you may make a to
 
 Whenever you use an attack action and successfully strike a single creature with both your main-hand and off-hand weapons before the start of your next turn, you can attempt a reposition combat maneuver against the target of the attacks as a free action which does not provoke attacks of opportunity (if the creature is not within your natural reach, you may attempt this reposition combat maneuver with a -2 penalty as long as that creature is within the first range increment of a ranged weapon you wield, although doing so requires you to expend a piece of ammunition or throw a weapon to do so).
 
-#### Snapping Crab (stance) [Youxia HB]
+#### Snapping Crab (stance)
 
 While in this stance, whenever you miss a creature with a melee attack made as part of a dual attack, the first melee attack that creature makes against you until the beginning of your next turn provokes an attack of opportunity from you. You must make the attack of opportunity with a melee weapon you missed the creature with during your dual attack, and the attack suffers the same penalties as it did during the dual attack. You may not use this talent in conjunction with (deflect) talents or any other ability that would grant you an attack or combat maneuver due to a missed attack against you.
 
@@ -139,7 +139,7 @@ As long as you have martial focus, if you successfully use the attack action to 
 
 At +10 base attack bonus, your off-hand weapon is also treated as though it were made of the same material as your main-hand weapon for the purposes of penetrating damage reduction.
 
-#### Two In The Hand [Jester's HB]
+#### Two In The Hand
 
 Whenever you use dual attack and successfully strike a creature with your main-hand attack, you may increase your reach by +5 feet when making your off-hand attack. At +10 base attack bonus, your reach increases by +10 feet instead.
 
@@ -153,13 +153,13 @@ Whenever you use dual attack and successfully strike a creature with your main-h
 
 While wielding two weapons, as a standard action you expend your martial focus to twirl the two weapons with enough force to create a damaging cyclone of air. Each creature within 10 ft. of you takes damage equal to your weapon damage for both your primary and one of your off-hand attacks. A successful Reflex save reduces this damage by half. For every 5 additional base attack bonus you possess, you may increase the radius by an additional 5 ft.
 
-#### Hurricane Twist [EO3]
+#### Hurricane Twist
 
 **Prerequisites:** Dual Wielding sphere (Cyclone Cut), base attack bonus +10.
 
 When using the Cyclone Cut talent, you may instead use it as a full-round action to twirl the weapons with such speed that you begin to form dangerous winds. Until the beginning of your next turn, you increase the Wind severity within the affected area by one step, plus an additional step for every 5 points of base attack bonus you possess beyond base attack bonus +10 (maximum wind severity 6); in addition to the normal effects of the talent. You are immune to the effects of the increased Wind severity caused when you use this talent.
 
-#### Spinning Reflection (stance) [EO3]
+#### Spinning Reflection (stance)
 
 **Prerequisites:** Dual Wielding sphere, base attack bonus +5.
 
@@ -167,7 +167,7 @@ While in this stance, you begin to spin your main-hand and off-hand weapons rapi
 
 You can expend an attack of opportunity and make a melee attack roll with both your main-hand and off-hand weapons, both at your highest bonus (but suffering the penalties associated with dual attack to both attacks). If one result is greater than the attack roll total of the attack, the attack deals half damage, before applying damage reduction and similar abilities. If both results are greater than the attack, the attempted attack misses you completely.
 
-#### Tandem Enchantment [EO3]
+#### Tandem Enchantment
 
 **Prerequisites:** Dual Wielding sphere (Tandem Offensive), base attack bonus +5.
 

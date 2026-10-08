@@ -190,11 +190,11 @@ This actor training can be taken multiple times. Each time it is taken, gain ano
 
 You can throw your voice, making it appear to come from any space within 25 ft. +5 ft. per 2 levels. In addition, you may mimic almost any sort of voice, or even animal calls and sound effects. A target is allowed a Will saving throw (10 + 1/2 your level + your Charisma modifier) to detect something is wrong about the sound they are hearing, although success doesn’t mean they automatically know where it’s actually coming from. You must be at least 6th level to choose this talent.
 
-#### Practical Application (Ex) [LotS]
+#### Practical Application (Ex)
 
 The troubadour gains a single [utility] talent as a bonus talent. This actor training may be selected multiple times.
 
-#### Professional Experience [DRS]
+#### Professional Experience
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -204,7 +204,7 @@ You gain the benefits of the chosen talent (and specialty ability, if any) whene
 
 This actor training may be taken multiple times. Each time it is taken, choose an additional persona to grant a (specialty) talent.
 
-#### Professional Experience, Improved [DRS]
+#### Professional Experience, Improved
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -332,13 +332,13 @@ He can add this bonus to an attack roll or saving throw, but doing so costs 2 po
 
 **Group Aid (Ex):** When you use the aid another action, you may spend a point of inspiration to provide the same benefit to an additional ally per 5 troubadour levels you possesses. You must possess at least 5 troubadour levels to select this quirk.
 
-**Hidden Knacks:** Choose three skills, at least one of which must be a background skill. You unlock skill leverage with those skills. You may gain this persona quirk multiple times. Each time it is selected, you unlock skill leverage with three additional skills. [LotS]
+**Hidden Knacks:** Choose three skills, at least one of which must be a background skill. You unlock skill leverage with those skills. You may gain this persona quirk multiple times. Each time it is selected, you unlock skill leverage with three additional skills.
 
 **Inspired Intelligence (Ex):** You gain the inspired intelligence investigator talent, letting you add your inspiration die to all Knowledge, Linguistics, or Spellcraft checks without expending a use of inspiration, even those you are not trained in.
 
 **Inspired Intimidator (Ex):** You gain the inspired intimidator investigator talent. This means that when you succeed at an Intimidate check to demoralize an opponent, you can expend one use of inspiration to automatically increase the result of the check by 5 for the purpose of determining the duration of the demoralize effect. You can choose to spend multiple uses to inspiration in this manner to further increase the duration of the demoralize effect. You must be trained in Intimidate to take this talent. The underworld inspiration investigator talent has no effect on this talent
 
-**Skill Training:** You gain a bonus skill talent. You may gain this persona quirk multiple times. Each time it is selected, gain an additional bonus skill talent. [LotS]
+**Skill Training:** You gain a bonus skill talent. You may gain this persona quirk multiple times. Each time it is selected, gain an additional bonus skill talent.
 
 **Unconventional Inspiration (Ex):** You gain the unconventional inspiration investigator talent, meaning you may pick any one skill and add your inspiration die to checks attempted with that skill without expending a use of inspiration.
 
@@ -470,9 +470,9 @@ Less human than the villain, the monster is a bloodthirsty creature of darkness,
 
 **Climb (Ex):** You gain a climb speed of 20 ft., which increases by 5 ft. every 5 character levels.
 
-**Enraged:** As a swift action, you may enter a lesser rage, gaining a +2 morale bonus on melee attack rolls, melee damage rolls, thrown weapon damage rolls, and Will saving throws, in addition to taking a -2 penalty to your AC. You may maintain a lesser rage for a number of rounds per day equal to 2 + your Charisma modifier, +1 per troubadour level. This otherwise functions as the unchained barbarian’s rage class feature. [EO3]
+**Enraged:** As a swift action, you may enter a lesser rage, gaining a +2 morale bonus on melee attack rolls, melee damage rolls, thrown weapon damage rolls, and Will saving throws, in addition to taking a -2 penalty to your AC. You may maintain a lesser rage for a number of rounds per day equal to 2 + your Charisma modifier, +1 per troubadour level. This otherwise functions as the unchained barbarian’s rage class feature.
 
-**Fueled by Hatred:** When entering a lesser rage, you also gain 2 temporary hit points per Hit Die you possess. These temporary hit points are lost first when you take damage, disappear when your rage ends, and are not replenished if you enter a rage within 1 minute of your previous rage. These temporary hit points do not stack with the temporary hit points granted by the rage class feature. You must possess the enraged persona quirk to gain this quirk. [EO3]
+**Fueled by Hatred:** When entering a lesser rage, you also gain 2 temporary hit points per Hit Die you possess. These temporary hit points are lost first when you take damage, disappear when your rage ends, and are not replenished if you enter a rage within 1 minute of your previous rage. These temporary hit points do not stack with the temporary hit points granted by the rage class feature. You must possess the enraged persona quirk to gain this quirk.
 
 **Half Dead (Su):** You are healed by negative energy and harmed by positive energy. You gain a +4 insight bonus to saves against channeled positive energy.
 
@@ -488,7 +488,7 @@ Less human than the villain, the monster is a bloodthirsty creature of darkness,
 
 **Wild Empathy (Ex):** You gain the wild empathy ability of a druid of your level.
 
-### Mysterious Protector [EO3]
+### Mysterious Protector
 
 The mysterious protector is the ever-vigilant vanguard that hides within the shadows. Defending the innocent and downtrodden, the mysterious protector can appear at any point in a story, standing in at just the right moment, or sacrificing himself for the greater good.
 
@@ -566,7 +566,7 @@ While the hero may drive the story, the villain is the one who creates it. A sim
 
 **The Don (Ex):** Your aura of authority is apparent for all to see. Your trope benefit extends 20 ft. rather than 10 ft.
 
-**Villainous Imposition:** When you invoke a motivation or outwit as part of a Bluff, Diplomacy, or Intimidate check attempted against a creature within your aura of fear, you gain an additional +3 bonus to the check, or +5 if you invoke a major motivation. [LotS]
+**Villainous Imposition:** When you invoke a motivation or outwit as part of a Bluff, Diplomacy, or Intimidate check attempted against a creature within your aura of fear, you gain an additional +3 bonus to the check, or +5 if you invoke a major motivation.
 
 **Villainous Monologue (Ex):** You gain the Dazzling Display feat as a bonus feat, and use it through audible components rather than a visual display with a weapon.
 
@@ -574,7 +574,7 @@ While the hero may drive the story, the villain is the one who creates it. A sim
 
 # Class Feats
 
-#### Tactical Change (Champion) [3PP]
+#### Tactical Change (Champion)
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -590,7 +590,7 @@ While the hero may drive the story, the villain is the one who creates it. A sim
 
 The following magical item is especially appropriate for troubadours.
 
-#### Actor’s Practice Guide [TS:WAT]
+#### Actor’s Practice Guide
 
 **Aura** moderate Mind; **CL** 7th
 **Slot** none; **Price** 10,000 gp; **Weight** 1/2 lbs.

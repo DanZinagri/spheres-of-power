@@ -173,7 +173,7 @@ Opponents that rely solely on non-visual senses (such as blindsight) or that can
 
 By altering the path of light you can see from unusual positions. You may place and see from a sensor in any unoccupied space within your glow range that you can draw an unobstructed line to. You may see from the position of the sensor as if you stood in the space it occupies, and may shift your perspective to or from that sensor as a free action. These sensors can be detected (Perception DC 20 + your caster level) and dispelled.
 
-#### Rose-Tinted (lens) [Jester's HB]
+#### Rose-Tinted (lens)
 
 The target’s vision is tinted a soft-red. As a standard action, the target of this lens may fire a blinding burst of light as either a 30-foot cone or 60-foot line centered on the target. Creatures caught in the area of effect must succeed at a Reflex save or be blinded for 1 round, and dazzled for one minute. The target must wait at least 1d4 rounds between uses of this ability.
 
@@ -263,7 +263,7 @@ Each creature gets a Will save to negate the effect when they first see the prec
 
 This is a mind-affecting compulsion effect.
 
-#### Purifying Light (light) [CrimDan]
+#### Purifying Light (light)
 
 When you cause a creature to glow, you can help eradicate toxic substances they are afflicted with, granting them a +1 circumstance bonus on all Fortitude saves against poisons and diseases, increasing by 1 for every 10 caster levels. When you cause an object to glow, as an instantaneous effect you may purify rotten, diseased or poisonous food and drink, causing it to become suitable for consumption. This has no effect on magical diseases or poisons.
 

@@ -51,7 +51,7 @@ Reduce the damage the spell effect would deal by 1d6 per caster level (increasin
 
 Any enhancement that would increase attack or damage also increases the attack roll and damage roll of the object if dropped on a target. If you possess Divided Creation you can only enhance one object created, unless you also possess Mass Enhancement, in which case you may target every object created regardless of your usual limits.
 
-#### Fissile Creation (Dual Sphere) [Apoc]
+#### Fissile Creation (Dual Sphere)
 
 *Source: [Spheres Apocrypha: Battlefield Manipulation Talents](https://www.drivethrurpg.com/product/350940/Spheres-Apocrypha-Battlefield-Manipulation-Talents?affiliate_id=549120)*
 
@@ -107,7 +107,7 @@ If two fissile creations explode during the same round, creatures in the overlap
 
 **Benefit:** When attempting to create or alter material, you may spend an additional spell point to treat your caster level as 5 higher for determining the types of material that you may affect. This has no effect on the size, duration, caster level, or any other numerical effect of the ability.
 
-#### Propulsive Creation (Dual Sphere) [Apoc]
+#### Propulsive Creation (Dual Sphere)
 
 *Source: [Spheres Apocrypha: Battlefield Manipulation Talents](https://www.drivethrurpg.com/product/350940/Spheres-Apocrypha-Battlefield-Manipulation-Talents?affiliate_id=549120)*
 
@@ -121,7 +121,7 @@ If two fissile creations explode during the same round, creatures in the overlap
 
 **Benefit:** You do not need to spend an additional spell point when altering an animated object you have created. In addition, you may freely re-assign a construction point when altering an Animated Object in a way that affects its material or shape.
 
-#### Shape Quintessence (Dual Sphere) [Alienist HB]
+#### Shape Quintessence (Dual Sphere)
 
 **Prerequisites:** Creation sphere (Expanded Materials (material)), Time sphere.
 

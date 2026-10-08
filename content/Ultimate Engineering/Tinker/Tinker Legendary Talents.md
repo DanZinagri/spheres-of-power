@@ -686,7 +686,7 @@ If the teleportation effect is subject to mishaps, roll d100 and consult **Table
 - **Delayed:** As off target, but the target’s appearance is delayed 1d6 minutes before arriving at the destination. Targets delayed this way are treated as being in an extradimensional space, and may act normally, but are otherwise “stuck” waiting for the teleportation effect to finish.
 - **Mishap:** As delayed but the target arrives “scrambled.” The target takes 1d10 points of damage, and you reroll on the chart to see where it winds up. For these rerolls, roll 1d20+80. Each time “Mishap” comes up, the target takes more damage and you must reroll.
 
-#### Workaround Craftsmanship [DRS]
+#### Workaround Craftsmanship
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds)*
 

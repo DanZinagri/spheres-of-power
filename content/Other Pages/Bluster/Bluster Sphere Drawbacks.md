@@ -13,19 +13,19 @@ You find countless openings to practice your wits. You gain the Verbal Trap tale
 
 You prefer to have a threatening or imposing aura about you, instead of a glare. You do not gain the quip ability, and gain the Nebulous Threat talent.
 
-#### Friendly Banter [alternate start] [DRS]
+#### Friendly Banter [alternate start]
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 You use Diplomacy for this sphere’s associated skill, and any checks made as part of using a quip must use Diplomacy instead. You can only take (quip) talents that affect your allies, and gain the Never Gets Old talent.
 
-#### Heckler [alternate start] [DRS]
+#### Heckler [alternate start]
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 You use Perform (comedy) for this sphere’s associated skill, and any checks made as part of using a quip must use Perform (comedy) instead.
 
-#### Instigator [DRS]
+#### Instigator
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 

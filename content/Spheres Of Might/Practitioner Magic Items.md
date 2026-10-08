@@ -19,7 +19,7 @@ Craft Magic Arms and Armor, masterwork transformation or Enhancement sphere; **C
 
 # Specific Magic Items
 
-### Enhancement Infuser [SUE]
+### Enhancement Infuser
 
 **Aura** faint enchantment; **CL** 5th
 **Slot** none; **Price** 200 gp (Weapon), 100 gp (Armor/Shield); **Weight** -

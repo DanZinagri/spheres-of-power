@@ -51,7 +51,7 @@ Arcane archers learn to channel powerful destruction magic into their weapons, f
 
 **Boons:** None
 
-### Arcane Swindler [Warden]
+### Arcane Swindler
 
 Arcane swindlers utilize magic in a less constructive fashion, instead using their innate guile and subtle magics to fool and steal from their victims. Usually employing a combination of physical misdirection and actual illusion magic, even those trained against these maneuvers struggle to discern the difference from arcane misdirection and pure skill.
 
@@ -72,7 +72,7 @@ Arcane swindlers utilize magic in a less constructive fashion, instead using the
 
 **Boon:** +1 spell point per odd level in casting classes.
 
-### Arcane Trapster [EO2]
+### Arcane Trapster
 
 Arcane trapster prefer the subtle approach, sneaking into an advantageous position to conceal deadly traps, both magical and mundane. Arcane trapsters gain +1 spell point, +1 per 3 levels in casting classes.
 
@@ -167,7 +167,7 @@ Death knights command undead forces, often leading them from the front lines. Wh
 
 **Boons:** The closer a death knight is to death himself, the easier his necromancy is to invoke. Death knights possess the Deathful Magic boon.
 
-### Elf-shot Hunter [Fey HB]
+### Elf-shot Hunter
 
 Bowmen that stalk the woods of faerie and the fey-haunted lands of other planes, elf-shot hunters are adept at manipulating their targets with fairy dust coated arrows, leaving them fleeing, bewildered, or entirely forgetful of the encounter. Elf-shot hunters gain +1 spell point, +1 per 6 levels in casting classes.
 
@@ -213,7 +213,7 @@ A packmother is a druid who learned the ways of magic through an adopted animal 
 
 **Boons:** None
 
-### Pulsemage [Mana HB]
+### Pulsemage
 
 Mages throughout the world practice how to weaponize their magic, but only a few manage to convert their will into proper weapons of magic, that they then utilize just as a warrior would use a sword, or an archer a bow. A pulsemage gains an additional spell point at every odd level.
 
@@ -248,7 +248,7 @@ Reapers are powerful and terrible tribal warriors who spill the blood of their e
 
 **Boons:** Reapers are empowered by their blood and physical fortitude; the stronger their bodies are, the more powerful their magic becomes. Reapers gain the Fortified Magic boon.
 
-### Resolute Vanguard [Warden]
+### Resolute Vanguard
 
 Commonly acting as sentries and elite guards, resolute vanguards represent a fusion of both magic and martial capabilities for the sole purpose of defending their ward. Resolute vanguards are always seen next to their allies, vigilant for anything that could pose a threat to their allies. Never too far, a resolute vanguard ensures that their allies stay close and stay safe.
 
@@ -285,7 +285,7 @@ A rover is a traveler for travel’s sake, often collecting songs and stories al
 
 **Boons:** While a rover’s full-body magic requires significant training, it has the benefit of allowing the rover to multitask, as the same dance steps used to invoke magic can also be used to dodge or attack. Rovers gain Easy Focus.
 
-### Spellbound Tactician [Warden]
+### Spellbound Tactician
 
 Most tactician’s inspire their people with grand words and incredible charisma, yet there are some tactician’s and leaders blessed with magic, allowing them to instill their allies with magically-enhanced courage and zeal. These spellbound tacticians are able to manipulate the battlefield with both their voice and magic, uniting soldiers on the battlefield through brilliant tactics and spellbinding unity.
 
@@ -321,7 +321,7 @@ Spellswords blend magic and martial skill together, wielding both in a single fi
 
 **Boons:** Metamagic Expert, Overcharge
 
-### Spell Warrior [EO2]
+### Spell Warrior
 
 Spell warriors blend magic and physical combat seamlessly, channeling deadly effects through their blades with impunity.
 

@@ -43,7 +43,7 @@ Finally, most radiances have a criteria for using them safely, which is known as
 
 # Radiances
 
-### Radiance Of Air (Minor Artifact) [TS:WAT]
+### Radiance Of Air (Minor Artifact)
 
 **Aura** strong Nature; **CL** 20th
 **Slot** radiance; **Weight** -
@@ -57,7 +57,7 @@ This pale radiance is difficult to see, appearing to be made entirely of faintly
 - **Sphere-Like Ability:** Destruction sphere (destructive blast for 20d6 electricity damage, plus the effects of the Electricity Blast (blast type) and Sculpt Blast (blast shape, line only, maximum 300 feet) talents)
 - **Radiant Boon:** Once per day, the user can gain control of all wind in a five-mile radius for up to one hour. Each round, they may choose the direction and speed of all wind within that range, to a maximum of Hurricane-force winds (see the Weather sphere for more information on wind speeds).
 
-### Radiance Of Blood (Minor Artifact) [TS:WAT]
+### Radiance Of Blood (Minor Artifact)
 
 **Aura** strong Blood; **CL** 20th
 **Slot** radiance; **Weight** -
@@ -71,7 +71,7 @@ This radiance pulses with dark red hues and appears to be constantly dripping do
 - **Sphere-Like Ability:** Blood sphere (blood control with both the Bleed (quicken) and Coagulate (still) effects, plus the effects of the Hemorrhage talent and all (blood art) talents)
 - **Radiant Boon:** Once per day, the bearer of a radiance of blood can create an aura of 1,000 feet in diameter, centered on themselves. This aura lasts for 24 hours. All creatures within the aura must succeed at a Fortitude Save (DC 25 + the user’s casting ability modifier (or their Charisma modifier, if they do not have a casting ability modifier) + the user’s mythic tier) or lose any immunities that would apply to the effects of blood control for as long as they are within the aura. A creature who leaves and re-enters the same aura created by this ability does not get to attempt a new saving throw; they use the same result.
 
-### Radiance Of Chaos (Minor Artifact) [TS:WAT]
+### Radiance Of Chaos (Minor Artifact)
 
 **Aura** strong Fate (chaotic); **CL** 20th
 **Slot** radiance; **Weight** -
@@ -85,7 +85,7 @@ This radiance has a constantly-shifting appearance, never quite the same as when
 - **Sphere-Like Ability:** Fate sphere (Curse (word) talent)
 - **Radiant Boon:** Once per day, as a standard action, the user can create a field of wild magic 300 feet across (see the [[Wild Magic]] page for more information). All spells cast within this field gain a 100% chance of triggering wild magic. Abilities that can alter wild magic chance function normally. This field lasts for 6d10 minutes.
 
-### Radiance Of The Infernal Queen (Minor Artifact) [TS:WAT]
+### Radiance Of The Infernal Queen (Minor Artifact)
 
 **Aura** strong Fate (evil); **CL** 20th
 **Slot** radiance; **Weight** -
@@ -99,7 +99,7 @@ This blood-red radiance displays the symbol of an infernal queen who works under
 - **Sphere-Like Ability:** Fate sphere (Geas (advanced, word), plus the effects of Echoing Word [mass] and Greater Geas (advanced))
 - **Radiant Boon:** Once per day, the bearer of a radiance of the infernal queen can grant up to three wishes to any creature that pays an appropriate price for them. These wishes are granted by the infernal queen herself, and she determines whether or not an offered price is acceptable. This otherwise functions as a genie’s wish-granting.
 
-### Radiance Of Light (Minor Artifact) [TS:WAT]
+### Radiance Of Light (Minor Artifact)
 
 **Aura** strong Light; **CL** 20th
 **Slot** radiance; **Weight** -
@@ -113,7 +113,7 @@ This yellow-hued radiance displays the symbol of the rising sun. It is usually g
 - **Sphere-Like Ability:** Light sphere (user may create light or bright light, as the basic effects of the Light sphere, that automatically dispels any darkness effect it touches except those created by artifacts or deities)
 - **Radiant Boon:** This radiant boon can only be used by creatures who are wearing this radiance while wielding the staff of sacred lightTS. While this radiance is illuminated, the staff of sacred light is both an enchanted weapon and an implement simultaneously, so the wielder no longer needs to decide between its forms. In addition, once per day, the wielder can create a miracle (as the regular spell, except that the miracle cannot create any effect with the darkness descriptor).
 
-### Radiance Of Order (Minor Artifact) [TS:WAT]
+### Radiance Of Order (Minor Artifact)
 
 **Aura** strong Fate (lawful); **CL** 20th
 **Slot** radiance; **Weight** -
@@ -127,7 +127,7 @@ This silvery radiance is perfectly symmetrical, with rings inside of rings formi
 - **Sphere-Like Ability:** Fate sphere (Bless (word) talent)
 - **Radiant Boon:** Once per day, as a standard action, the user can create a rule that applies within 100 feet of where the user is when they create it. This rule must be generally applicable to all creatures within its range and cannot selectively function on any individual or group (although some types of creatures may be less affected by a rule). For example, this radiant boon can rule that gravity does not exist within the field, but it cannot rule that all evil creatures within the field cannot attack. The GM is the final arbiter of whether or not a rule is appropriate, but as a general rule, the effect should not exceed what is possible by casting the miracle spell. The rule created by this item cannot affect deities or other artifacts. Once established, the rule lasts for 100 minutes.
 
-### Radiance Of Perpetual Life (Minor Artifact) [TS:WAT]
+### Radiance Of Perpetual Life (Minor Artifact)
 
 **Aura** strong Life; **CL** 20th
 **Slot** radiance; **Weight** -
@@ -141,7 +141,7 @@ This radiance shines with a soft golden light while illuminated and features ico
 - **Sphere-Like Ability:** Life sphere (Cure and restore, plus the effects of all (cure) talents)
 - **Radiant Boon:** Once per day, the bearer of a radiance of perpetual life can grant any number of creatures within 100 feet regeneration 1 for 20 hours. Also, the bearer does not age as long as this radiance is active; this provides immunity to aging effects.
 
-### Radiance Of The Lion Lord (Minor Artifact) [TS:WAT]
+### Radiance Of The Lion Lord (Minor Artifact)
 
 **Aura** strong Alteration; **CL** 20th
 **Slot** radiance; **Weight** -

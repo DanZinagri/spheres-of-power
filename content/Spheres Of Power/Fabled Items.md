@@ -136,7 +136,7 @@ The wielder must have ranks in a specific skill equal to at least half their Hit
 
 The best fabled items are those with specific ties to the story being told at your game table. While you can use the items below, consider these as examples to show how fabled items work, rather than being the only fabled items your game can or should have.
 
-### Goblinburner [TS]
+### Goblinburner
 
 Goblinburner is an old, rusty-looking longsword that often hangs up above fireplaces, a relic of its last owner’s youthful days slaying green-skinned menaces. It usually reveals its powers when some member of its family is threatened by goblins or similar pests.
 **Power Level:** Curio, **Focuses:** Bloodline (family members only), sometimes bonds to a new family when its previous family is gone **Shape** Longsword
@@ -145,7 +145,7 @@ Goblinburner is an old, rusty-looking longsword that often hangs up above firepl
 
 **Destruction:** Goblinburner must be used by someone to willingly kill their last living relative, then to willingly kill themselves. After this, it will crumble to ashes.
 
-### Hammer of Majesty [TS]
+### Hammer of Majesty
 
 This adamantine warhammer contains a tiny star in the intersection of its two heads that lights up in battle, blessing its wielder and making it easier to smite foes. A bonded creature can always use this fabled item as a weapon, regardless of their level, and it automatically bypasses defenses like an incorporeal creature’s resistance to corporeal attacks and a swarm’s immunity to weapon damage. (This does not automatically bypass damage reduction.)
 **Power Level:** Relic, **Focuses:** Deed (act of great heroism, at significant personal risk), Major Alignment (lawful good), Trained (Profession (soldier)); **Shape** Warhammer
@@ -155,7 +155,7 @@ This adamantine warhammer contains a tiny star in the intersection of its two he
 
 **Destruction:** The hammer of majesty will lose all of its power if it is hurled into a black hole created by the death of an evil sorcerer.
 
-### Jewel of Chaos [TS]
+### Jewel of Chaos
 
 This swirling gem is filled with dozens of swirling colors. Scholars have tried to understand and predict the patterns of the colors, believing them to hold untold secrets of magic, but have never been able to adequately predict them. Rumors say that mischievous deities like tossing these where mortals can find them just to see what happens.
 **Power Level:** Relic, **Focuses:** Classy (any casting class), Minor Alignment (chaos), Trained (Use Magic Device); acts as curio or heirloom for users who meet fewer focuses, **Shape** Spherical Gem
@@ -165,7 +165,7 @@ This swirling gem is filled with dozens of swirling colors. Scholars have tried 
 
 **Destruction:** A jewel of chaos can only be destroyed by triggering all 100 different Cantrip Wild Magic effects in a row.
 
-### Shield of the Spirit [TS]
+### Shield of the Spirit
 
 This silvery shield occasionally glows with a gentle blue light when in the hands of anyone devoted to the cause of righteousness.
 **Power Level:** Heirloom; **Focuses:** Minor Alignment (good), Trained (Knowledge (religion)); **Shape** Shield
@@ -175,7 +175,7 @@ This silvery shield occasionally glows with a gentle blue light when in the hand
 
 **Destruction:** The shield of the spirit can be destroyed by an antipaladin who sunders it with a weapon made entirely from the body parts of good outsiders.
 
-### Staff of Sacred Light [TS]
+### Staff of Sacred Light
 
 The staff of sacred light is a divine relic of the goddess of the dawn, a neutral good deity of life and light. Since only the chosen of the goddess can wield it at all, the church uses this item to find said chosen, and it acts as a symbol of authority within the church surpassed only by the goddess herself and the high priest who oversees the church. This staff can be used as a holy symbol and can be summoned to its bonded user’s hand across any distance (including planar boundaries). In mythic campaigns, the staff of sacred light is also a legendary itemMA.
 **Power Level:** Relic, **Focuses:** Chosen (by the goddess), Faith (goddess of the dawn), Minor Alignment (any good), Sphere-Taught (Life or Light) **Shape** Quarterstaff
@@ -190,7 +190,7 @@ The staff of sacred light is a divine relic of the goddess of the dawn, a neutra
 
 It is! The staff of sacred light is an example of a greater artifact created under the fabled item rules, the kind of object a faith would treat as a major relic of their deity - but if you look closely, you’ll see that it breaks a couple of item creation rules. The truth is that sometimes, the guidelines presented in this chapter are not the best way to make a story-tied item for your game. If you have a good reason to bend or even break the rules, do not be afraid to do so - just be aware of the potential consequences if you give a character something that’s too good for their build. If you give a fabled item anything particularly special, consider limiting its other powers somehow to reduce the benefit characters can receive at any one time.
 
-### Tome of Eldritch Lore [TS]
+### Tome of Eldritch Lore
 
 This mysterious book is covered with unreadable symbols and occasionally sprouts small tentacles to poke at nearby objects. It sometimes eats them.
 **Power Level:** Curio, **Focuses:** Minor Alignment (chaotic), Powerful (6th level), **Shape** Book
@@ -199,7 +199,7 @@ This mysterious book is covered with unreadable symbols and occasionally sprouts
 
 **Destruction:** The tome of eldritch lore can only be destroyed by hurling it into the fiery maw of Azathoth.
 
-### Transformation Wand [TS]
+### Transformation Wand
 
 Scholars are unsure how this slender, heart-topped wand was made but are about 70% sure it was for a joke.
 **Power Level:** Heirloom; **Focuses:** Minor Alignment (any good), Trained (any Perform), **Shape** Wand
@@ -209,7 +209,7 @@ Scholars are unsure how this slender, heart-topped wand was made but are about 7
 
 **Destruction:** The transformation wand can only be destroyed by using it to murder an innocent.
 
-### Trident Of The Sea King [TS]
+### Trident Of The Sea King
 
 This gleaming faintly crackled with godly power, giving its bearer command of the oceans.
 **Power Level:** Relic; **Focuses:** The trident of the sea king can only be used by said king, his family, and anyone the king gives it to; **Shape** Trident

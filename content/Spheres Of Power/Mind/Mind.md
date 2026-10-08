@@ -80,7 +80,7 @@ An instilled liquid remains potent until you rest to regain spell points. If you
 
 When using a charm, you may spend an additional spell point to charm an additional 1 creature per 2 caster levels (minimum 1) at the same time. Each target must be within range and must be affected by the same charm. Once created, each charm is considered a separate sphere effect.
 
-#### Mental Backdoor [Apoc]
+#### Mental Backdoor
 
 *Source: [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)*
 
@@ -92,7 +92,7 @@ For 1 minute per caster level, the creature takes a -2 penalty on Will saving th
 
 You may spend 2 spell points to use the powerful charm and powerful cloud version of any charm or cloud you possess.
 
-#### Psychic Vengeance [Alienist HB]
+#### Psychic Vengeance
 
 When you succeed at a Will save against a mind-affecting effect, you may spend 1 spell point as an immediate action to target the source of that effect with a charm that you can create. You must pay the spell point cost of the charm as normal.
 
@@ -210,7 +210,7 @@ You imbue a target with an increased sense of self-worth, capacity for persuasio
 
 **Powerful Charm:** As the greater charm, but the check may be performed within 1 day + 1 day per 5 caster levels. This level of the charm may only be used once per week on a target.
 
-#### Fascinate (charm) [Apoc]
+#### Fascinate (charm)
 
 *Source: [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)*
 
@@ -232,7 +232,7 @@ You may warp a target’s mind with fear.
 
 **Powerful Charm:** This is the same as the greater charm, except the target becomes panicked instead of frightened. On a successful save, they are still shaken for 1 round per caster level.
 
-#### Flabbergast (charm) [LotS]
+#### Flabbergast (charm)
 
 You bombard the target with shocking revelations and displays which leave them reeling.
 
@@ -269,7 +269,7 @@ You cause the target to enter a blinding rage.
 - **Heroic Rage:** The target’s bonus to Strength and Constitution increases to +4, and their bonus to Will saves increases to +2. The target may still use spells, as well as class features and skills based off of Intelligence, Wisdom, or Charisma.
 - **Brutal Rage:** The target is compelled to hostility and each round attacks the nearest target to itself, be it friend or foe. If the creature cannot attack something during its turn, it deals 1d8 + its Strength modifier damage to itself with whatever it has in hand.
 
-#### Incense (charm) [LotS]
+#### Incense (charm)
 
 You stoke the target’s anger into a raging inferno.
 
@@ -355,7 +355,7 @@ You can pull information from a target’s mind.
 
 **Powerful Charm:** You may pull a specific piece of information out of a creature’s mind (Will negates). This is usually enough information to answer a single, specific question to the best of that creature’s knowledge, in no more than 25 words. A creature who successfully saves against this powerful charm may choose to provide no answer to your question or attempt to lie with their Bluff skill. If you use this powerful charm twice on the same creature to ask the same question, the same answer (correct, no answer or lie) is given again.
 
-#### Recommend (charm) [Jester's HB]
+#### Recommend (charm)
 
 You point out obvious things the target did wrong, hoping they’ll do better next time.
 
@@ -399,7 +399,7 @@ You may make someone see things that are not there.
 
 **Powerful Charm:** This functions as the greater charm, except you may change the target’s perception of everything around them. This grants the target a new saving throw each round they interact with any part of the altered surroundings.
 
-#### Wrack (charm) [Alienist HB]
+#### Wrack (charm)
 
 You flood your target with disturbing sensations
 
@@ -447,7 +447,7 @@ You imbue an area to persuade travelers to wander elsewhere.
 
 **Powerful Cloud:** As the greater cloud, but you may alter the direction of every target moving through the cloud as a free action as long as you remain within close range of the cloud.
 
-#### Suppress (cloud) [EO3]
+#### Suppress (cloud)
 
 You imbue an area, creature or object with a field of disruptive cognitive energy, making it difficult to communicate or convey expression and meaning. This cloud lasts for one minute per caster level. Additionally, whenever a creature benefiting from a sphere effect granting them additional languages or insights into language would enter the cloud, you may attempt a magic skill check against the effect’s magic skill defense. If you succeed, the effect is dispelled; if you fail, the effect is not affected and cannot be dispelled by the same cloud for 24 hours. If you possess the Mass Charm talent, you may choose to have the cloud ignore any amount of creatures you designate, which can be changed as a free action.
 
@@ -461,7 +461,7 @@ You imbue an area, creature or object with a field of disruptive cognitive energ
 
 ## Cognition Talents
 
-#### Arcane Calculation (Cognition) [utility] [Apoc]
+#### Arcane Calculation (Cognition) [utility]
 
 When you use Perception to intentionally search for stimuli (typically a move action), you may measure a single aspect of whatever you perceive. You may calculate this aspect with perfect accuracy depending on how your Perception check compares to the DC to perceive it, requiring higher results to estimate from vague or incomplete information (see the table below).
 
@@ -474,11 +474,11 @@ Alternately, you may focus on a target you wish to attack as a standard action. 
 | DC + 5 | Number of people from their footsteps, distance from a singing bird |
 | DC + 10 | Distance from smelled food, number of soldiers milling in an army |
 
-#### Intuit Knowledge (Cognition) [utility] [Apoc]
+#### Intuit Knowledge (Cognition) [utility]
 
 You may spend a spell point as a full-round action to gain temporary understanding of a subject. This allows you to use half your caster level in place of your ranks in one Knowledge or Profession skill, chosen when you use this ability. This effect grants you the ability to use the skill as if you were trained, and lasts for 1 hour per caster level. Multiple applications of this effect do not stack, the latest effect replaces the previous one.
 
-#### Mental Archive (Cognition) [utility] [Apoc]
+#### Mental Archive (Cognition) [utility]
 
 You construct a magical mental system to perfectly memorize information. By concentrating as long it requires to perceive something (such as the duration of a speech or while reading a book), you can archive it. Once a memory is archived you can concentrate to remember it. This can allow you to notice new details by attempting Perception checks. This does not allow you to use senses or similar abilities that you did not use or possess at the time of memorization (such as a Divination sphere effect, or blindsight).
 
@@ -486,19 +486,19 @@ You can archive a number of memories equal to your casting ability modifier + 1 
 
 **Tracking Memories:** Mental Archive allows characters to store and replace memories, which can require keeping track of. It is recommended that players keep a clear list of what they have temporarily and permanently memorized.
 
-#### Parallel Cognition (Cognition) [utility] [Apoc]
+#### Parallel Cognition (Cognition) [utility]
 
 As a standard action you can divide your mental attention to gain two sets of actions each turn, one physical and one mental.
 
 Your physical actions are limited to a simple, repetitive task (such as following a road, loading a cart, or digging a hole) or a task that exactly follows detailed instructions (such as playing from sheet music or cooking from a recipe). You cannot effectively engage in combat: you lose your Dexterity bonus to armor class and automatically miss against targets with an AC greater than 10. Your mental actions can be any purely mental actions, such as using magic without verbal or somatic components, attempting Perception, Knowledge, Sense Motive, or similar skill checks. As a standard mental action you can change what task your physical body is assigned to or end this effect.
 
-#### Polyglot (Cognition) [utility] [Apoc]
+#### Polyglot (Cognition) [utility]
 
 As a standard action you may gain a rough understanding of a target’s language. You can grasp basic concepts (such as ‘danger,’ ‘help,’ or ‘wait’) but not complex details. This also allows you to communicate in the same language as long as you continue concentrating, though with the same limitation to basic concepts. The effects of this last for as long as you concentrate.
 
 By spending a spell point, you may understand and communicate in a target’s language without any limitations and maintain the effect without concentration for 1 hour per caster level. The effects of this talent apply to all mediums of communication (such as spoken, signed, or written) but you only understand the mediums you observe (so you cannot write a language you have only heard, or speak a language you have only read).
 
-#### Rapid Processing (Cognition) [utility] [Apoc]
+#### Rapid Processing (Cognition) [utility]
 
 You can analyze information with a glance. As a swift or move action you can read up to 500 words or analyze a complex work of art, value an item with Appraise, get a hunch or sense enchantment with Sense Motive, search for tracks with Survival, or intentionally search with Perception.
 
@@ -506,7 +506,7 @@ By spending a spell point as a swift action you can make passive analysis effort
 
 At a GM’s discretion, other similar skill checks and uses can benefit from this talent.
 
-#### Terrifying Mind (Cognition) [SA:BG]
+#### Terrifying Mind (Cognition)
 
 *Source: [Spheres Apocrypha: Banshee's Gasp](https://www.drivethrurpg.com/product/370043/Spheres-Apocrypha-Banshees-Gasp?affiliate_id=549120)*
 
@@ -522,7 +522,7 @@ Additionally, you may spend 1 spell point as a standard action to ready your min
 
 Advanced talents are part of an optional rule and are only available with GM permission.
 
-#### Catatonia [Catgirl HB]
+#### Catatonia
 
 You wrap the weary kittens in a soft and warm blanket so they might drift off to sleep.
 
@@ -538,13 +538,13 @@ If your permanent Mind sphere caster level is 15th or higher, a creature who fai
 
 As a greater charm, you may spend 2 spell points to give the target a vision of the most fearsome creature imaginable, pulling its subconscious fears into a shape before its eyes. Only the target can see this vision, although you may see the vague shape of the creature the target is seeing. The target first gets a Will save to recognize the image as unreal. If that save fails, the phantasm touches the subject, and the subject must succeed on a Fortitude save or die from fear. This is a fear effect.
 
-#### Discern Alien Cognition [Alienist HB]
+#### Discern Alien Cognition
 
 **Prerequisite:** Mind sphere.
 
 You may spend 1 spell point to have a Mind sphere effect you create ignore any immunity to fear, sleep, paralysis, and mind-affecting effects that a creature possesses as a result of a racial ability or subtype. This does not allow you to affect creatures whose creature type is immune to mind-affecting effects (for example, a character with this talent could charm a sinspawn or a chernobue qlippoth, but not an iron golem or an id ooze).
 
-#### Epiphany (Cognition) [utility] [Apoc]
+#### Epiphany (Cognition) [utility]
 
 **Prerequisites:** Mind sphere (Intuit Knowledge (cognition)), caster level 5th.
 
@@ -552,7 +552,7 @@ When you attempt an ability or skill check to gain information (such as a Knowle
 
 On a failed check you still learn the information a basic success would have revealed. However, the GM may then remove a single detail from the information gained or reveal a piece of false information alongside true information (such as revealing a real ability of a monster and a fake vulnerability during a monster lore check, or telling a player all the rules of etiquette for a situation except for one).
 
-#### Flawless Precision (Cognition) [Apoc]
+#### Flawless Precision (Cognition)
 
 **Prerequisites:** Mind sphere (Arcane Calculation (cognition), Rapid Processing (cognition)), caster level 10th.
 
@@ -590,7 +590,7 @@ By concentrating fully on the effect (a standard action), you can receive full s
 
 If you do not spend at least 1 round concentrating on the creature each day, the subject receives a new saving throw to throw off your control.
 
-#### Psychic Backlash [Alienist HB]
+#### Psychic Backlash
 
 **Prerequisites:** Mind sphere (Psychic Vengeance).
 

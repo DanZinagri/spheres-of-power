@@ -167,7 +167,7 @@ When using the exploration rules (Pathfinder Roleplaying Game: Ultimate Wilderne
 
 **Associated Feat:** Alertness.
 
-#### Rudimentary Training [utility] [DRS]
+#### Rudimentary Training [utility]
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -197,7 +197,7 @@ Additionally, you can have up to two instances of the pathing ability active at 
 
 ## Acclimation Talents
 
-#### Aeronautical Adaptation (acclimation) [DRS]
+#### Aeronautical Adaptation (acclimation)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -210,7 +210,7 @@ You may select the following acclimation benefits:
 
 **Associated Feats:** Storm-Lashed (*Adventurer’s Guide*), Wind Rider (*Blood of the Ancients*), Wingover (*Pathfinder RPG Bestiary*).
 
-#### Community Awareness (acclimation) [utility] [DRS]
+#### Community Awareness (acclimation) [utility]
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -237,7 +237,7 @@ You may select the following acclimation benefits:
 - **Environmental Protection:** Acclimated targets gain either cold resistance or fire resistance equal to your ranks in one of your associated skills and are considered acclimated to any altitude for 24 hours. Energy resistance gained from this ability does not stack with other forms of energy resistance.
 - **Immunization:** Acclimated targets gain a +2 competence bonus on all saving throws against poisons, diseases, and the distraction ability of swarms. For every 8 ranks you possess in one of your associated skills, these bonuses increase by 1.
 
-#### Maritime Acclimatization (acclimation) [DRS]
+#### Maritime Acclimatization (acclimation)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -281,7 +281,7 @@ You may select the following acclimation benefits:
 
 **Associated Feat:** Expert Boarder (*Pathfinder Roleplaying Game: Adventurer’s Guide*).
 
-#### Wild Wit (acclimation) [DRS]
+#### Wild Wit (acclimation)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -344,7 +344,7 @@ You may use this *pathing* as an immediate action.
 
 Allies within your *pathing* gain a +2 dodge bonus to AC against attacks of opportunity for movement into, through, or out of these squares. This increases by 1 for every 5 ranks you possess in an associated skill.
 
-#### Stable Footing (pathing) [DRS]
+#### Stable Footing (pathing)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 

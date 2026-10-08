@@ -33,7 +33,7 @@ This peculiar box has a small screen with a mechanical dial, which is powered by
 **Construction Requirements**
 Craft Wand, Divination sphere, See Hazard, Trapfinding; Cost 8,000 gp
 
-### Four Winds Bagpipe [High. HB]
+### Four Winds Bagpipe
 
 **Price** 150 gp; **Slot** none; **CL** 2nd; **Weight** 8 lbs.; **Aura** moderate Nature and Weather; **Scaling** prize
 
@@ -131,7 +131,7 @@ Craft Wand, Destruction sphere, Guided Strike, Stone Blast; Cost 4,500 gp
 
 The following items were created by the Wiki or by members of community using the crafting rules provided by Spheres of Power.
 
-### Apprentice's First Wand [Wiki]
+### Apprentice's First Wand
 
 **Aura** faint Destruction; **CL** 2nd; **SP** 1
 **Slot** none; **Price** 1,000 gp **Weight** 2 lbs.
@@ -141,7 +141,7 @@ This slender wooden wand contains the Destruction sphere and the Gale Blast tale
 **Construction Requirements**
 Craft Wand, Destruction sphere, Gale Blast (blast type); **Cost** 500 gp
 
-### Basic Wand [Wiki]
+### Basic Wand
 
 **Aura** faint any; **CL** 2nd; **SP** 1
 **Slot** none; **Price** 1,000 gp **Weight** 2 lbs.
@@ -150,7 +150,7 @@ Basic Wands are among the simplest forms of wand available and grant access to a
 **Construction Requirements**
 Craft Wand, any one Sphere; **Cost** 500 gp
 
-### Chewstick [Wiki]
+### Chewstick
 
 **Aura** faint Nature; **CL** 2nd; **SP** 1
 **Slot** none; **Price** 1,000 gp **Weight** 2 lbs.
@@ -159,7 +159,7 @@ Chewsticks are basic Nature (Plantlife) wands that are often used to sprout food
 **Construction Requirements**
 Craft Wand, Nature Sphere; **Cost** 500 gp
 
-### Firefighter's Wand [Wiki]
+### Firefighter's Wand
 
 **Aura** faint Dark; **CL** 4th; **SP** 1
 **Slot** none; **Price** 4,000 gp **Weight** 2 lbs.
@@ -169,7 +169,7 @@ Firefighter's Wands are usually made of a fire-resistant metal and have instruct
 **Construction Requirements**
 Craft Wand, Dark sphere, Extinguish; **Cost** 2,000 gp
 
-### Lightening Wand [Wiki]
+### Lightening Wand
 
 **Aura** moderate Enhancement; **CL** 6th; **SP** 3
 **Slot** none; **Price** 9,000 gp **Weight** 2 lbs.
@@ -179,7 +179,7 @@ Lightening Wands are popular with construction crews and wealthy individuals who
 **Construction Requirements**
 Craft Wand, Enhancement sphere, Lighten (enhance), Obvious Enhancements (drawback); **Cost** 4,500 gp
 
-### Shattering Wand [Wiki]
+### Shattering Wand
 
 **Aura** faint Destruction; **CL** 6th; **SP** 3
 **Slot** none; **Price** 9,000 gp **Weight** 2 lbs.
@@ -189,7 +189,7 @@ This wand looks like a flute at first glance, but when wielded, it unleashes a d
 **Construction Requirements**
 Craft Wand, Destruction sphere, Shattering Blast (blast type); **Cost** 4,500 gp
 
-### Talisman of the Ancestor's Might [Wiki]
+### Talisman of the Ancestor's Might
 
 **Aura** moderate Enhancement; **CL** 8th; **SP** 3
 **Slot** none; **Price** 16,000 gp **Weight** 2 lbs.
@@ -201,7 +201,7 @@ These talismans are often crafted by tribes that live far from the cities, using
 **Construction Requirements**
 Craft Wand, Enhancement sphere, Deep Enhancement, Mass Enhancement, Physical Enhancement (enhance), Bodily Enhancement (drawback), Obvious Enhancements (drawback); **Cost** 8,000 gp
 
-### Talisman of the Ancestor's Will [Wiki]
+### Talisman of the Ancestor's Will
 
 **Aura** moderate Enhancement; **CL** 8th;; **SP** 1
 **Slot** none; **Price** 16,000 gp **Weight** 2 lbs.
@@ -211,7 +211,7 @@ As the Talisman of the Ancestor's Might, but with Mental Enhancement (enhance) i
 **Construction Requirements**
 Craft Wand, Enhancement sphere, Deep Enhancement, Mass Enhancement, Mental Enhancement (enhance), Bodily Enhancement (drawback), Obvious Enhancements (drawback); **Cost** 8,000 gp
 
-### The Bomb Box [Wiki]
+### The Bomb Box
 
 **Aura** moderate Destruction; **CL** 8th; **SP** 3
 **Slot** none; **Price** 16,000 gp **Weight** 2 lbs.
@@ -227,7 +227,7 @@ This functions as a Destruction spell engine with Energy Bomb, Gather Energy, an
 **Construction Requirements**
 **Craft** Spell Engine (or Craft Wand), Destruction sphere, Energy Bomb talent, Gather Energy talent, and Crystal Blast talent; **Cost** 8,000 gp
 
-### Totem Wand [Wiki]
+### Totem Wand
 
 **Aura** faint War; **CL** 4th; **SP** 1
 **Slot** none; **Price** 4,000 gp **Weight** 2 lbs.
@@ -237,7 +237,7 @@ Totem Wands contain the War sphere and one additional (totem) talent, chosen whe
 **Construction Requirements**
 Craft Wand, War sphere, any (totem) talent; **Cost** 2,000 gp
 
-### Wand of Truthtelling [Wiki]
+### Wand of Truthtelling
 
 **Aura** faint Fate; **CL** 2nd; **SP** 1
 **Slot** none; **Price** 1,000 gp **Weight** 2 lbs.
@@ -247,7 +247,7 @@ Wands of Truthtelling are popular with interrogators, guards, and courts. These 
 **Construction Requirements**
 Craft Wand, Fate sphere, Truth (word, curse), Neutrality (drawback), Tongue of Ages (drawback); **Cost** 500 gp
 
-### Wands of Search and Rescue [Wiki]
+### Wands of Search and Rescue
 
 **Aura** faint Divination and moderate Warp; **CL** 2nd (Div) and 10th (Warp); **SP** 1 (Div), 2 (Warp)
 **Slot** none; **Price** 26,000 gp **Weight** 2 lbs.

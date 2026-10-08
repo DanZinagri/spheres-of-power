@@ -239,7 +239,7 @@ You are an expert in commerce or logistics.
 - **Expendable Bundle (2 Authorizations):** Three copies of the same temporary item each worth up to your budget (total value triple your budget), which must all be used or returned before requisitioning more.
 - **Ammunition Bundle (1+ Authorization):** A bundle of ammunition must all be of identical pieces of ammunition and their total price must be below your temporary resource budget if you spend 1 authorization. You can spend a second authorization to triple your budget.
 
-**[LotS addition]**
+****
 The Faction sphere can grant access to spellcasting. In games using Spheres of Power, these services might be provided by spherecasters rather than traditional spellcasters. Typical spherecasting services available through the (supply) package to various kinds of factions are suggested below.
 
 - **Martial Factions:** Two spheres from Enhancement, Life, and War
@@ -348,7 +348,7 @@ If you have at least 4 ranks in the associated skill, fighter or ranger are also
 **Role 1 Authorization** Patrol somewhere not expecting trouble, discourage rowdy people in a public place, or find game (noncombatant with listed equipment), **2 Authorizations (requires (supply) package)** Defend a secure location, hunt specific game of a lower challenge rating (combatant with NPC equipment), **3 Authorizations (requires (supply) package)** Any other reasonably hazardous task (combatant with NPC equipment); Skills (2 primary, 3 secondary) Climb, Craft (traps), Handle Animal, Intimidate, Perception, Profession (hunter or trapper), Ride, Stealth, Survival, Swim; **Trade Tradition** adroit granting two of Herbalism, Navigation, and Survivalism;
 **Ability Scores** Str 11, Dex 15, Con 10, Int 9, Wis 12, Cha 8; **Hit Dice** d10 (6 hp per level); **Base Attack Bonus** good; **Saves** Fort (good), Ref (poor), Will (poor); **Special** The warden takes no penalty for dealing nonlethal damage with lethal weapons and can gain investigator or slayer talents (Pathfinder Roleplaying Game Advanced Class Guide) instead of feats. **Equipment** a javelin, a spear, a net, a sling and 10 rocks, either leather or hide armor
 
-#### Dabbler Retainer (retainer) [LotS]
+#### Dabbler Retainer (retainer)
 
 You can choose a magical dabbler as your faction retainer. You can choose either for them to gain spell slots or magic talents. They gain spell slots as an adept (NPC class in the Pathfinder Roleplaying Game Core Rulebook) using their Hit Dice as their adept level. If you have the (supply) package, you can request a dabbler who can cast the same kind of spells that your spellcasting services provide instead of using the adept spell list (although they still use the adept’s spell slots). Alternatively, they gain two of the magic spheres that your faction offers as spellcasting services, have a caster level and spell pool each equal to half their Hit Dice, and gain one magic talent for every two Hit Dice they have. You can share magic talents in place of skill talents with the dabbler retainer.
 
@@ -458,7 +458,7 @@ If you possess at least 5 ranks in the associated skill, you are guaranteed a we
 
 With at least 10 ranks in the associated skill, your lifestyle is extravagant. You have a mansion, castle, or other grand home. When traveling, you can use a fine townhouse or suite of rooms in a mansion or castle. Your clothing can impress even royalty and includes a few pieces of fine jewelry.
 
-#### Diverse Faction Magic (supply) [LotS]
+#### Diverse Faction Magic (supply)
 
 Choose either one additional spellcasting class list or two magic spheres. Add it to your resource magic options for spellcasting services and Faction talents. Whenever you requisition a new retainer with spellcasting, you can change your choices among the available spell lists, talents, and skills. You can take this talent multiple times, choosing a new spell list or two magic spheres each time.
 

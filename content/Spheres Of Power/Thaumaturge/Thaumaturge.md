@@ -245,7 +245,7 @@ The following feats are particularly appropriate or useful for thaumaturges.
 
 **Benefit:** You may take 10 with any Knowledge, Spellcraft, or Use Magic Device check, regardless of stress or other situations where taking 10 would otherwise be impossible.
 
-#### Moderated Invocation [3PP]
+#### Moderated Invocation
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -261,7 +261,7 @@ Whenever you use Forbidden Lore and the sum of your normal caster level (before 
 
 **Benefit:** Choose a sphere. You gain a +1 bonus to saving throw DCs for all abilities from that sphere. You may take this feat multiple times. The effects do not stack. Each time it is gained, apply this benefit to a different sphere.
 
-#### Tainted Manabond [Alienist HB]
+#### Tainted Manabond
 
 **Prerequisites:** Mana sphere, forbidden lore class feature.
 
@@ -285,7 +285,7 @@ Whenever you use Forbidden Lore and the sum of your normal caster level (before 
 
 The following magical items are especially appropriate for thaumaturges. The savant archetype is functionally its own class, so magical items for the savant are included on its page instead.
 
-#### Invoker’s Crystal [TS:WAT]
+#### Invoker’s Crystal
 
 **Aura** moderate Universal; **CL** 9th
 **Slot** none; **Price** 15,000 gp; **Weight** 1/2 lbs.
@@ -295,7 +295,7 @@ These crystals come in countless combinations of colors and shapes, but each glo
 **Construction Requirements**
 Craft Apparatus, Mana sphere, creator must have the invocations class feature; **Cost** 7,500 gp
 
-#### Scroll Of Lost Lore [TS:WAT]
+#### Scroll Of Lost Lore
 
 **Aura** moderate Divination; **CL** 7th
 **Slot** none; **Price** 9,000 gp; **Weight** 2 lbs.

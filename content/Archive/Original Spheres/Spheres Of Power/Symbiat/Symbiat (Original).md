@@ -168,49 +168,49 @@ At 20th level, a symbiat may use two psionic effects at once by spending 2 round
 
 The following feats are particularly relevant or appropriate for Symbiats.
 
-#### Extra Magic Talent [Core]
+#### Extra Magic Talent
 
 **Prerequisite:** Basic Magic Training or Casting class feature.
 
 **Benefit:** Gain an additional sphere or a talent from a sphere you possess. You may take this feat multiple times. The effects stack.
 
-#### Extra Psionics [Core]
+#### Extra Psionics
 
 **Prerequisite:** Psionics class feature.
 
 **Benefit:** You may use psionics an extra 6 rounds per day. You may gain this feat multiple times. The effects stack.
 
-#### Extra Spell Points [Core]
+#### Extra Spell Points
 
 **Prerequisite:** Spell Pool.
 
 **Benefit:** Your spell pool total increases by 2. You may gain this feat multiple times. The effects stack.
 
-#### Lingering Link [Core]
+#### Lingering Link
 
 **Prerequisites:** Psionics class feature, mind link psionic effect.
 
 **Benefit:** When affecting targets with your mind link psionic effect, you only need to spend 1 round of psionic power per minute the effect is maintained, rather than every round.
 
-#### Lingering Link, Greater [Core]
+#### Lingering Link, Greater
 
 **Prerequisites:** Psionics class feature, mind link psionic effect, Lingering Link.
 
 **Benefit:** You may use your mind link psionic effect jointly with other psionic effects. You must start each psionic effects individually and must spend the cost for each effect while maintaining them. Ending one effect does not necessitate ending the other.
 
-#### Lingering Psionics [Core]
+#### Lingering Psionics
 
 **Prerequisite:** Psionics class feature.
 
 **Benefit:** The bonuses and penalties from your psionics continue for 2 rounds after you cease using it. Any other requirement, such as range or specific conditions, must still be met for the effect to continue. If you begin a new psionic effect during this time, the bonuses and penalties of the previous psionic effect immediately cease.
 
-#### Mind Opener [Core]
+#### Mind Opener
 
 **Prerequisites:** Psionics class feature, battlefield relay psionic effect.
 
 **Benefit:** Increase the save DC of your battlefield relay psionic effect by +2.
 
-#### Perceptive Psionics [Core]
+#### Perceptive Psionics
 
 **Prerequisites:** Psionics class feature, battlefield relay psionic effect, Perception 7 ranks, Sense Motive 7 ranks.
 

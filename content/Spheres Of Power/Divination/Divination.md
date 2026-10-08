@@ -99,7 +99,7 @@ If you possess certain other spheres, you may divine for information other than 
 
 For example, a paladin might have loyalties of Country, Power, and Self, but would not reveal the particular country they are loyal to or the particular power they serve. Mindless creatures might have only 1 loyalty such as Self (survival), whereas creatures with low animal-like intelligence might only have 2 loyalties such as Family (pack) and Self (survival). Only the top three loyalties are revealed, even if they have more.
 
-When you divine for loyalties, you may name a specific motivation. If you do, you detect whether creatures in range possess that motivation and whether it is a minor or major motivation. [Errata'd by LotS]
+When you divine for loyalties, you may name a specific motivation. If you do, you detect whether creatures in range possess that motivation and whether it is a minor or major motivation.
 
 **Divine Alignment:** You may divine for a specific part of the alignment spectrum: evil, good, lawful, or chaotic. The strength of these auras are determined according to Chart: Alignment.
 
@@ -240,7 +240,7 @@ Some talents are marked (sense). These talents grant you additional senses you m
 
 ## Divination Talents
 
-#### Alarm [utility] [Gravecaller's HB]
+#### Alarm [utility]
 
 When you divine, instead of concentrating on the effect, you may spend an additional spell point to create an immobile sensor within your Divination sphere range which lasts for 10 minutes per caster level or 1 hour per caster level if you spend an additional spell point. This sensor can be detected as though it were a scrying sensor (Perception DC 20 + caster level) and dispelled.
 
@@ -282,7 +282,7 @@ You may target food but not an already-magical item, such as a potion. All spell
 
 When you divine, the ability lasts 2 rounds after you stop concentrating.
 
-#### Revealing Strike [strike] [3PP]
+#### Revealing Strike [strike]
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -335,7 +335,7 @@ Multiclass core spellcasting classes only reveal as the highest aura between the
 
 You may divine the emotions of creatures you can see within range (Will negates), and you gain a circumstance bonus to Sense Motive checks equal to 1/2 your caster level vs. creatures you have thus successfully divined. You do not know the motivation or source behind why a creature is feeling the emotion. If you spend an additional spell point, you divine not only the emotions of those within range, but also the surface thoughts (Will negates).
 
-#### Divine Biohazard (divine) [Alienist HB]
+#### Divine Biohazard (divine)
 
 You may divine the presence of any diseases, poisons, or radiation within range. You determine whether any creature, object, or area has been poisoned, is poisonous, carries any sort of disease or infestation, or possesses any abilities which can inflict the sickened or nauseated conditions. You can determine the exact type of poison with a DC 20 Wisdom check. A character with the Craft (alchemy) skill may try a DC 20 Craft (alchemy) check if the Wisdom check fails, or may try the Craft (alchemy) check prior to the Wisdom check. If there is a disease present, you know what disease it is and its effects. You gain an insight bonus on Heal checks equal to half your caster level to treat a disease you divine with this sphere effect.
 
@@ -349,7 +349,7 @@ As an immediate action, you may instead grant this benefit to an ally who can bo
 
 You may spend a spell point to divine for information. This grants you the ability to reroll a failed Knowledge check (or to attempt a Knowledge check untrained), with an insight bonus equal to 1/2 your caster level. You may only divine for information once per Knowledge check.
 
-#### Divine Relationships (divine) [utility] [3PP]
+#### Divine Relationships (divine) [utility]
 
 *Source: Baron's Hallowed Archive*
 
@@ -363,7 +363,7 @@ You can determine whether or not two or more creatures have any sort of relation
 
 Although this talent can discern blood relations and personal relationships between people, it cannot divine legal associations and would have no way of determining constructs such as marriage, parental rights, or the legitimacy of children.
 
-#### Divine Treasure (divine) [utility] [Alienist HB]
+#### Divine Treasure (divine) [utility]
 
 You may divine the presence of valuable items within range. Items exude an aura depending on their gold piece value and collections of material (such as piles of gold coins, a bushel of exotic fruit, or chests full of gemstones) radiate their auras as a single aura. You gain an insight bonus on Appraise checks equal to half your caster level to discern the value of objects you divine with this sphere effect. Utilize the following chart when determining value:
 
@@ -428,7 +428,7 @@ You may spend a spell point to gain a sense that warns you of impending danger. 
 
 You may spend a spell point to gain a sense that adds your caster level to Perception checks made to notice invisible or ethereal creatures. If you succeed at this check, the creature’s outline becomes visible to you. This negates both the usual penalties you would suffer attacking an invisible creature, and the bonuses the creature would normally gain against you. This continues until you lose line of sight to the creature, in which case you must succeed at a new Perception check to see them.
 
-#### Logos (sense) [Origin]
+#### Logos (sense)
 
 You may spend a spell point to understand all spoken and written words, regardless of language. You may spend an additional spell point to also be understood by any creature with a language. You do not learn the creature’s language, but instead every creature hears you speak in whatever language is most comfortable for it.
 
@@ -442,7 +442,7 @@ You may spend a spell point as a standard action to gain a special sense that gr
 
 You may spend a spell point to gain a special sense granting a +1 insight bonus to attack rolls. This bonus increases by +1 every 10 caster levels. In addition, you may dismiss this sense before making an attack or combat maneuver to instead gain an insight bonus of 10 + 1/2 your caster level to the roll as a free action.
 
-#### Prying Sight (sense) [BaP]
+#### Prying Sight (sense)
 
 You may spend a spell point and target a creature within close range, allowing you to borrow the target’s vision as though it were your own. An unwilling creature may attempt a Will saving throw to negate this effect. At any time during this effect, as long as the target is within long range, you may concentrate on this effect as a move action and perceive that creature’s surroundings as if you were standing where that creature was, granting you the ability to see, smell, hear and otherwise perceive things as though you were the target. A target is not made aware when you perceive the target’s surroundings using their senses.
 
@@ -458,7 +458,7 @@ You may spend a spell point to gain a free Perception check to notice traps and 
 
 You may spend 2 spell points to grant yourself the ability to sense magic, as if using your basic divine ability as a constant ability, but only to a distance of close.
 
-#### Sense Presence (sense) [Alienist HB]
+#### Sense Presence (sense)
 
 You may spend 1 spell point and select a kind of creature, material, or other effect that you could divine for or that you could distinguish using divine (for example, if you possess Divine Alignment, you could select all creatures of a specific alignment). You automatically detect the presence of entities of the specified kind within the range of your divine. This does not tell you the exact location of such entities, just whether or not any are within the area. You may change the type of creature, material, or effect whose presence you are sensing with this talent as a full-round action.
 
@@ -482,7 +482,7 @@ You may spend a spell point to gain a sense that grants you a bonus equal to 1/2
 
 ## Advanced Divination Talents
 
-#### Alternate Divinations, Advanced (sense) [Origin]
+#### Alternate Divinations, Advanced (sense)
 
 **Prerequisites:** Divination sphere, caster level 1st.
 
@@ -506,7 +506,7 @@ Thoughtsense can distinguish between sentient (Intelligence 3 or greater) and no
 
 **Weather: Storm Vision:** You may spend a spell point to gain a special sense granting the ability to negate any concealment, miss chance, and penalties to Perception directly caused by weather such as rain or fog (be they magical or natural).
 
-#### Cartographer’s Divinations (divine) [utility] [RW HB]
+#### Cartographer’s Divinations (divine) [utility]
 
 Great diviners often learn a number of wide-reaching but imprecise tools which can map entire regions and battlefields, grant precise directions, and learn about the terrain.
 
@@ -594,7 +594,7 @@ You may spend 3 spell points to divine for knowledge, delving the universe for t
 
 You may spend an additional spell point to increase the range of a sense from close range to medium range, or medium range to long range. This advanced talent may be taken up-to two times, increasing the range by two steps instead of one.
 
-#### Eye in the Sky [3PP]
+#### Eye in the Sky
 
 **Prerequisites:** Divination Sphere (Viewing)
 
@@ -602,7 +602,7 @@ You may create a scrying sensor which floats directly above you at any height wi
 
 *Source: Card Casting 3: Volatile Variance*
 
-#### Eyes Of The Cabal [BaP]
+#### Eyes Of The Cabal
 
 **Prerequisites:** Divination sphere (Prying Sight (sense)), caster level 5th.
 
@@ -618,7 +618,7 @@ If you spend two additional spell points when casting prying sight, you no longe
 
 When using the Scrying advanced talent, you may spend an additional spell point to decrease the action needed to concentrate on the effect by 1 step (normally a full-round action to a standard). In addition, you may move your sensor without following a target with a speed of 150 feet once each round as a free action.
 
-#### Hear Name (sense) [utility] [DbH]
+#### Hear Name (sense) [utility]
 
 **Prerequisites:** Divination sphere, caster level 5th.
 
@@ -630,7 +630,7 @@ You may spend a spell point to hear your name or another specific phrase of your
 
 When using Divination sphere talents or abilities, any divine or sense abilities normally blocked by dense substances, can now penetrate 15 feet of wood or dirt, 5 feet of stone, 6 inches of common metal, or a half inch of lead. You may take this advanced talent a second time increasing the thickness you can penetrate to 30 feet of wood or dirt, 10 feet of stone, 1 foot of common metal, or an inch of lead.
 
-#### Power Of The Name [utility] [DbH]
+#### Power Of The Name [utility]
 
 **Prerequisites:** Divination sphere (Hear Name (advanced)), caster level 10th.
 
@@ -642,7 +642,7 @@ The range of Hear Name improves to unlimited and can even function across planes
 
 You may spend 2 spell points to divine for knowledge of the future. You gain useful advice in reply to one question regarding a specific goal, event, or activity to occur within 1 week. This advice could be a useful phrase or a cryptic omen or rhyme. If you do not act on the information, the conditions may change so that the information is no longer useful. The base chance for a correct divination is 70% + 1% per caster level, to a maximum of 90%. If the die roll fails, you receive no information and know the attempt failed, unless specific magic yielding false information is at work. Multiple divinations about the same topic by the same caster use the same dice result as the first attempt and yield the same answer each time.
 
-#### Remote Casting (divine) [Alienist HB]
+#### Remote Casting (divine)
 
 **Prerequisites:** Divination sphere (Viewing (divine)), caster level 5th.
 
@@ -675,19 +675,19 @@ You may spend 2 spell points and 1 hour to observe a creature or object as if us
 
 If the save fails, you can see and hear the subject and its surroundings (approximately 10 feet in all directions of the subject) as if you were present. If the saving throw succeeds, you cannot scry on the target again for 24 hours. If the subject moves, the sensor follows at a speed of up to 150 feet.
 
-#### Sense Observation (sense) [Alienist HB]
+#### Sense Observation (sense)
 
 **Prerequisites:** Divination sphere (Detect Scrying (sense)).
 
 You may spend 1 spell point to detect any awareness of your presence. You know when any creatures are aware of your presence or when they are looking at you or a representation of you. If you have familiar knowledge of a subject, you know when that creature is thinking of you. You know the number of creatures that are observing you and what senses each creature is using to observe you (including indirect means such as scrying or cameras). This does not discern the identity of these beings, just the knowledge that you are being observed. This effect applies only to creatures which are on the same plane as you. If you sense that a creature senses you, you are considered to have secondhand knowledge of that creature for the purpose of scrying on it.
 
-#### Sensitive Divinations [EO3]
+#### Sensitive Divinations
 
 **Prerequisites:** Divination sphere, caster level 1st.
 
 Whenever you would divine for magic auras, you can detect the lingering aura for up to 1 day per caster level you possess, regardless of the aura’s original strength. The effects of this talent also benefit Alternate Divinations that have a strength or duration of a lingering aura (such as Divine Shapechanger or Divine Alignment).
 
-#### Speak And I Listen [DbH]
+#### Speak And I Listen
 
 **Prerequisites:** Divination sphere (Hear Name (advanced)); Divination sphere (Greater Divine [range], Viewing (divine), Scrying (advanced)) or Warp sphere (Distant Teleport, Unseeing Teleport, True Teleport); caster level 10th.
 
@@ -699,7 +699,7 @@ Whenever you learn the name, appearance and location of a creature through Hear 
 
 You may spend a spell point to gain a special sense that lets you add 1/2 your caster level to Perception checks made to locate traps and to Disable Device checks (minimum +1). In addition, you may disable magic traps as a rogue.
 
-#### True Perception (sense) [Origin]
+#### True Perception (sense)
 
 **Prerequisites:** Divination sphere (Ghost Sight (sense), Unhooded Sight (sense)), caster level 10th.
 

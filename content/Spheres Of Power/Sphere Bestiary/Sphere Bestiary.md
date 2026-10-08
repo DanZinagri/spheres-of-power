@@ -8,7 +8,7 @@ parent: "[[Spheres Of Power]]"
 
 *Source: [Ultimate Spheres of Power](https://www.drivethrurpg.com/product/300249/Ultimate-Spheres-of-Power?affiliate_id=549120)*
 
-# Creating Monsters for Spheres of Might and Power [SB:UatIF]
+# Creating Monsters for Spheres of Might and Power
 
 Adding and creating monsters with Spheres of Might and Spheres of Power is simple and easy, following many of the same basic rules for player characters. The advice found in this section is meant to serve as a guideline when adding Spheres of Might or Spheres of Power to a monster stat block.
 
@@ -148,7 +148,7 @@ When granting a creature both a combat training progression and a spherecasting 
 
 ---
 
-## Unchained Monster Creation Rules [3PP]
+## Unchained Monster Creation Rules
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -176,7 +176,7 @@ In place of Spellcasting, the monster gains a casting tradition and a caster lev
 
 ---
 
-# Converting Monsters to Spheres of Power [Cata. HB]
+# Converting Monsters to Spheres of Power
 
 Several of the monster seen here were originally constructed using the typical Pathfinder model of spells and spell-like abilities, but have been reconstructed here to be used with Spheres of Power. The process used with these creatures can be utilized with most any monsters without drastically changing the power level of the creature, utilizing the following guidelines.
 
@@ -206,7 +206,7 @@ Several of the monster seen here were originally constructed using the typical P
 
 **Feats and other Abilities:** Many of the feats and other abilities that monsters possess may not be compatible with its new spherecasting abilities and should be replaced with more suitable options.
 
-### Variant Monster Conversion [SB:A]
+### Variant Monster Conversion
 
 There are a number of situations in which the rules for Spheres Monster Conversion presented in the {Cataclysm Handbook may be insufficient for a GM’s needs. The following changes are suggested as options for GMs who find certain creatures too weak in converting them to spheres.
 
@@ -222,13 +222,13 @@ There are a number of situations in which the rules for Spheres Monster Conversi
 
 The following are feats that are intended to be used by monsters. Feats with the (Monster) tag use the rules presented in *Horror Adventures*, and should generally only available to PCs with the GM's permission. For more information, see [monster feats](https://www.aonprd.com/Feats.aspx?Category=Monster) (Archives of Nethys).
 
-### Breath Weapon Wall (Breath) [SB:D(C)]
+### Breath Weapon Wall (Breath)
 
 **Prerequisites:** Draconic breath weapon racial trait, character level 3rd.
 
 **Benefit:** You may reduce the damage die of your breath weapon by 1 step to change the effect of your breath weapon to a non-instantaneous duration of a number of rounds equal to your Constitution modifier. Creatures who enter or end their turn inside the breath weapon area suffer damage and effects as normal (including any saving throws the breath weapon normally provides). Creatures caught within the breath weapon's area when it is created are immediately subjected to the breath weapon as if they entered the area.
 
-### Effortless Magic (Monster) [SB:A]
+### Effortless Magic (Monster)
 
 **Prerequisite:** Casting class feature or racial spherecasting.
 
@@ -236,13 +236,13 @@ The following are feats that are intended to be used by monsters. Feats with the
 
 **Special:** You may take this feat multiple times, selecting a different magic sphere each time.
 
-### Exalted Among Kin (Monster) [FotC]
+### Exalted Among Kin (Monster)
 
 **Prerequisites:** Summon Kin x3, non-native outsider.
 
 **Benefit:** Rather than picking specific types of creatures, you may use Summon Kin to summon any kind of creature that you could select with that feat. If summoning a creature with fewer Hit Dice than yourself, the chance of success improves to 100%.
 
-### Incarnate Magic (Monster) [Cata. HB]
+### Incarnate Magic (Monster)
 
 Magical energies flow through your form.
 
@@ -254,19 +254,19 @@ Magical energies flow through your form.
 
 Animal companions, cohorts, Conjuration sphere companions, drake companions, eidolons, familiars, and similar companion creatures (such as from the Conjuration, Beastmastery, or Leadership spheres) cannot select this feat.
 
-### Inherited Arms (Monster) [SB:A]
+### Inherited Arms (Monster)
 
 **Prerequisite:** Bound equipment class feature.
 
 **Benefit:** Add your racial Hit Dice to your armorist level for the purpose of determining your bonus to your bound equipment and the number of bound equipment you may possess.
 
-### Inherited Potency (Monster) [SB:A]
+### Inherited Potency (Monster)
 
 **Benefit:** Choose a class which you possess levels in. Add your racial Hit Dice to your levels in that class for the purpose of calculating the DCs of abilities whose DC is based on your class level (such as a thaumaturge’s invocations or a scholar’s flashbangs).
 
 **Special:** You may select this feat multiple times, each time selecting a different class to apply the benefits.
 
-### Innate Magic (Monster) [SB:A]
+### Innate Magic (Monster)
 
 **Prerequisite:** Casting class feature or racial spherecasting.
 
@@ -274,23 +274,23 @@ Animal companions, cohorts, Conjuration sphere companions, drake companions, eid
 
 **Special:** You may take this feat multiple times, selecting a different magic sphere effect each time.
 
-### Inseparable Magic (Monster) [SB:A]
+### Inseparable Magic (Monster)
 
 **Prerequisites:** Innate Magic, casting class feature or racial spherecasting.
 
 **Benefit:** Choose any number of magic sphere effects created through the Innate Magic feat. You may not suppress these magic effects. However, they cannot be dispelled and ignore any spell resistance that their targets possess.
 
-### Magical Adaptation (Monster) [SB:A]
+### Magical Adaptation (Monster)
 
 **Benefit:** For any special attacks that you possess from your race or monster Hit Dice (such as a breath weapon or fear aura), you may choose to use your casting ability modifier or practitioner ability modifier in place of the ability modifier normally used for the purpose of determining the saving throw DC and other effects of the ability.
 
-### Mind-Wracking Visage (Monster) [SB:A]
+### Mind-Wracking Visage (Monster)
 
 **Prerequisites:** Mind sphere (Mass Charm [mass]), Innate Magic (one {charm effect attached to a Mental Aura), Mental Aura, casting class feature or racial spherecasting.
 
 **Benefit:** The effect of any mental aura on your body is so potent that images of the form carry its effects. Any creature observing a sufficiently detailed image of you (such as a photograph, scrying image, or an artistic representation with a Craft DC of 25 + the mental aura’s caster level) from within 5 feet per 2 caster levels of the image (minimum 5) must save against the effects of the mental aura.
 
-### Summon Kin (Monster) [FotC]
+### Summon Kin (Monster)
 
 **Prerequisite:** Non-native outsider.
 
@@ -309,13 +309,13 @@ The odds of success on this summon depend on the Hit Dice of the creature in rel
 | 1, 2, or 3 fewer than summoner | 35% |
 | 4+ fewer than the summoner | 60% |
 
-### Summon Kin (Monster, Mythic) [FotC]
+### Summon Kin (Monster, Mythic)
 
 **Prerequisite:** Summon Kin, non-native outsider.
 
 **Benefit:** You may use Summon Kin three times per day rather than once per day and may do so as a swift action rather than a full-round action. If you spend a point of mythic power when using Summon Kin, you may summon multiple creatures with a single use of this ability so long as their combined CR does not exceed twice your mythic tier.
 
-### Varied Breath (Monster) [Origin]
+### Varied Breath (Monster)
 
 **Prerequisites:** Artisanal Breath, breath weapon or ability to acquire breath weapon; casting or martial focus.
 
@@ -323,13 +323,13 @@ The odds of success on this summon depend on the Hit Dice of the creature in rel
 
 **Special:** For the purpose of using this feat, you may substitute your Hit Dice for your caster level and your practitioner modifier for casting modifier for the purposes of calculating any of its effects, and may take Destruction (blast type) talents as combat talents. If a talent requires you to expend one or more spell points as part of applying a blast type or Admixture, you may instead expend your martial focus and cannot use your breath weapon again for 4 additional rounds per spell point ignored.
 
-### Walk The Planar Roads (Monster) [FotC]
+### Walk The Planar Roads (Monster)
 
 **Prerequisites:** Warp sphere, non-native outsider.
 
 **Benefit:** When teleporting only yourself and up to 50 lbs. of objects, you gain the benefits of the Distant Teleport, Flawless Teleport, True Teleport, and Unseeing Teleport talents. You are considered to have these talents for the purpose of meeting prerequisites.
 
-### Wish Weaver (Monster) [FotC]
+### Wish Weaver (Monster)
 
 **Prerequisites:** Magic skill bonus +10, non-native outsider.
 
@@ -393,7 +393,7 @@ The requirements to select a long cat or small cat as an improved familiar are r
 - Long Cat; requires arcane caster level 3rd, any alignment; grants master +3 Escape Artist and bonuses vs. enemies with reach.
 - Small Cat; requires arcane caster level 3rd, any alignment; grants master +3 Stealth and bonuses vs. larger enemies.
 
-### Long Cat (CR 2) [Catgirl HB]
+### Long Cat (CR 2)
 
 This sleek-coated feline seems to stretch and wiggle through obstacles and around corners. When held aloft, their lower body remains on the ground, stretching oddly.
 XP 600
@@ -449,7 +449,7 @@ The properties of a long cat are unique but are occasionally found amongst other
 
 **Ability Scores:** +4 Dex.
 
-### Small Cat (CR 2) [Catgirl HB]
+### Small Cat (CR 2)
 
 This seemingly normal house cat can be observed seamlessly shifting between a lap cat and massive predator, reaching places other smaller cats might be incapable of.
 XP 600

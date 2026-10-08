@@ -388,7 +388,7 @@ Craft Rod, Warp sphere, Teleport Beacon; **Cost** 10,000 gp
 
 The following items were created by the Wiki or by members of the community using the item creation guidelines found in Spheres of Power. While not official items, they are intended to serve both as an example of crafting items and as pre-made items that you can use in your game.
 
-#### Bangle of the Lamia Matriarch [Wiki]
+#### Bangle of the Lamia Matriarch
 
 **Price** 8,000 gp; **Slot** feet or wrists; **CL** 2nd; **Weight** 1/2 lb; **Aura** faint Alteration
 
@@ -408,7 +408,7 @@ A shapechanger or a spherecaster with the Alteration sphere may temporarily poly
 **Construction Requirements**
 Craft Apparatus; Alteration sphere, Extra Limbs, Serpentine Transformation; Beast Soul (Alteration), Lycanthropic (Alteration); **Cost** 4,000 gp
 
-#### Bracers of Excessive Strength, Lesser [Wiki]
+#### Bracers of Excessive Strength, Lesser
 
 **Aura** Moderate Enhancement; **CL** 9th; **Slot** Wrists; **Price** 18,000 gp **Weight** 2 lbs.
 
@@ -417,7 +417,7 @@ As the Bracers of Excessive Strength, but the lesser version of this item only p
 **Construction Requirements**
 Craft Rod, Enhancement Sphere, Improved Strength (enhance); **Cost** 9,000 gp
 
-#### Bracers of Excessive Strength [Wiki]
+#### Bracers of Excessive Strength
 
 **Aura** Moderate Enhancement; **CL** 9th; **Slot** Wrists; **Price** 36,000 gp **Weight** 2 lbs.
 
@@ -426,7 +426,7 @@ These shiny golden bracers are emblazoned with symbols of might and strength. Wh
 **Construction Requirements**
 Craft Rod, Enhancement Sphere, Improved Strength (enhance); **Cost** 18,000 gp
 
-#### Resizing Saddle [Wiki]
+#### Resizing Saddle
 
 **Aura** Moderate Alteration; **CL** 9th; **Slot** None; **Price** 18,000 gp **Weight** 5 lbs.
 
@@ -435,7 +435,7 @@ Originally commissioned by a halfling dragonrider whose companion was growing to
 **Construction Requirements**
 Craft Rod, Alteration Sphere, Size Change; **Cost** 9000 gp
 
-#### Resizing Saddle, Greater [Wiki]
+#### Resizing Saddle, Greater
 
 **Aura** Moderate Alteration; **CL** 10th; **Slot** None; **Price** 20,000 gp; **Weight** 5 lbs.
 
@@ -444,7 +444,7 @@ As the Resizing Saddle, except that it moves its wearer two steps towards medium
 **Construction Requirements**
 Craft Rod, Alteration Sphere, Size Change; **Cost** 10,000 gp
 
-#### Rod of Fireballs [Wiki]
+#### Rod of Fireballs
 
 **Aura** moderate Destruction; **CL** 9th
 **Slot** none; **Price** 90,000 GP; **Weight** 4 lbs.
@@ -453,7 +453,7 @@ This dark red rod is hideously expensive and illegal in many countries, but that
 **Construction Requirements**
 Craft Rod, Destruction Sphere, Explosive Orb (blast shape), Fire Blast (blast type); **Cost** 45,000 GP
 
-#### Rod of Lifegiving [Wiki]
+#### Rod of Lifegiving
 
 **Aura** moderate Life; **CL** 6th
 **Slot** none; **Price** 72,000 gp; **Weight** 4 lbs.
@@ -462,7 +462,7 @@ This slender white rod is about three feet long and carved with symbols of life.
 **Construction Requirements**
 Craft Rod, Life Sphere, Revitalize; **Cost** 36,000 gp
 
-### Metamagic Apparatuses [Wiki]
+### Metamagic Apparatuses
 
 Metamagic Apparatuses grant the ability to use a metamagic effect on a sphere effect three times per day, without needing to know the metamagic feat, increase the time spent casting, or spend additional spell points for the metamagic. This is done as part of casting the sphere effect and requires holding the apparatus in at least one hand (or otherwise wielding it as appropriate for its form). **Normal** Metamagic Apparatuses work on sphere effects up to CL 13. **Lesser** Metamagic Apparatuses work on sphere effects up to CL 7, but cost half as much as a normal Metamagic Apparatus. **Greater** Metamagic Apparatuses work on sphere effects of any CL, but cost twice as much as a normal Metamagic Apparatus. A Metamagic Apparatus normally costs 10,000 gp x Spell Level Adjustment or Maximum Spell Point Cost. Metamagic with an effective adjustment of +0 cost half as much.
 
@@ -479,7 +479,7 @@ Characters who can craft apparatuses can upgrade a Metamagic Apparatus to a high
 
 A metamagic apparatus that's in the middle of being upgraded can still be used as its lesser version until you've finished crafting it into its improved form.
 
-#### Aligned Metamagic Apparatus [Wiki]
+#### Aligned Metamagic Apparatus
 
 **Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -487,7 +487,7 @@ When you craft this apparatus, choose a non-neutral component of your alignment.
 **Construction Requirements**
 Craft Apparatus, Align Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
 
-#### Aquatic Metamagic Apparatus [Wiki]
+#### Aquatic Metamagic Apparatus
 
 **Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -495,7 +495,7 @@ An aquatic talent functions normally underwater and requires no caster level che
 **Construction Requirements**
 Craft Apparatus, Aquatic Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
 
-#### Bouncing Metamagic Apparatus [Wiki]
+#### Bouncing Metamagic Apparatus
 
 **Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -503,7 +503,7 @@ Whenever a bouncing talent targeting a single creature has no effect on its inte
 **Construction Requirements**
 Craft Apparatus, Bouncing Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
 
-#### Brisk Metamagic Apparatus [Wiki]
+#### Brisk Metamagic Apparatus
 
 **Slot** none; **Price** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -511,7 +511,7 @@ You can alter talents that grant a creature a movement type it doesn’t normall
 **Construction Requirements**
 Craft Apparatus, Brisk Spell; **Cost** 1,250 gp (lesser), 2,500 gp (normal), 5,000 gp (greater)
 
-#### Burning Metamagic Apparatus [Wiki]
+#### Burning Metamagic Apparatus
 
 **Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -519,7 +519,7 @@ The acid or fire effects of the affected talent adhere to the creature, causing 
 **Construction Requirements**
 Craft Apparatus, Burning Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
 
-#### Cascading Metamagic Apparatus [Wiki]
+#### Cascading Metamagic Apparatus
 
 **Slot** none; **Price** 20,000 gp (normal); **Weight** 5 lbs.
 **Description**
@@ -527,7 +527,7 @@ Only talents that target only you and have a duration of at least 1 round can be
 **Construction Requirements**
 Craft Apparatus, Cascade Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
 
-#### Chaining Metamagic Apparatus [Wiki]
+#### Chaining Metamagic Apparatus
 
 **Slot** none; **Price** 20,000 gp (lesser), 40,000 gp (normal), 80,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -537,7 +537,7 @@ Secondary targets of a chain spell suffer the full spell’s effect, but make sa
 **Construction Requirements**
 Craft Apparatus, Chain Spell; **Cost** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
 
-#### Coaxing Metamagic Apparatus [Wiki]
+#### Coaxing Metamagic Apparatus
 
 **Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -545,7 +545,7 @@ This apparatus only works with mind-affecting effects. A coaxing talent affects 
 **Construction Requirements**
 Craft Apparatus, Coaxing Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
 
-#### Combat Metamagic Apparatus [Wiki]
+#### Combat Metamagic Apparatus
 
 **Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -553,7 +553,7 @@ Only talents that require an attack roll may be cast as combat talents. A combat
 **Construction Requirements**
 Craft Apparatus, Combat Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
 
-#### Concussive Metamagic Apparatus [Wiki]
+#### Concussive Metamagic Apparatus
 
 **Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -561,7 +561,7 @@ With sonic damage comes a concussive wave of energy that rattles creatures affec
 **Construction Requirements**
 Craft Apparatus, Concussive Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
 
-#### Conditional Metamagic Apparatus [Wiki]
+#### Conditional Metamagic Apparatus
 
 **Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -573,7 +573,7 @@ The subject of the talent intuitively knows beforehand whether an action will ca
 **Construction Requirements**
 Craft Apparatus, Conditional Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
 
-#### Consecrate Metamagic Apparatus [Wiki]
+#### Consecrate Metamagic Apparatus
 
 **Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -581,7 +581,7 @@ A consecrated talent is treated as a maximized talent against evil creatures and
 **Construction Requirements**
 Craft Apparatus, Consecrate Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
 
-#### Contagious Metamagic Apparatus [Wiki]
+#### Contagious Metamagic Apparatus
 
 **Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -591,7 +591,7 @@ A caster level check to dispel or remove a contagious talent that fails by 5 or 
 **Construction Requirements**
 Craft Apparatus, Contagious Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
 
-#### Contingent Metamagic Apparatus [Wiki]
+#### Contingent Metamagic Apparatus
 
 **Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -599,7 +599,7 @@ A contingent talent infuses a target with a dormant healing or restorative talen
 **Construction Requirements**
 Craft Apparatus, Contingent Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
 
-#### Dazing Metamagic Apparatus [Wiki]
+#### Dazing Metamagic Apparatus
 
 **Slot** none; **Price** 15,000 gp (lesser), 30,000 gp (normal), 60,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -607,7 +607,7 @@ You can modify a talent to daze a creature damaged by the spell. When a creature
 **Construction Requirements**
 Craft Apparatus, Dazing Spell; **Cost** 7,500 gp (lesser), 15,000 gp (normal), 30,000 gp (greater)
 
-#### Delayed Metamagic Apparatus [Wiki]
+#### Delayed Metamagic Apparatus
 
 **Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -615,7 +615,7 @@ You delay the effect of a sphere ability for up to 5 rounds after you use it. Yo
 **Construction Requirements**
 Craft Apparatus, Delayed Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
 
-#### Disruptive Metamagic Apparatus [Wiki]
+#### Disruptive Metamagic Apparatus
 
 **Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -623,7 +623,7 @@ Targets affected by a disruptive spell must make concentration checks when using
 **Construction Requirements**
 Craft Apparatus, Disruptive Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
 
-#### Ectoplasmic Metamagic Apparatus [Wiki]
+#### Ectoplasmic Metamagic Apparatus
 
 **Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -631,7 +631,7 @@ An ectoplasmic talent has full effect against incorporeal or ethereal creatures.
 **Construction Requirements**
 Craft Apparatus, Ectoplasmic Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
 
-#### Elemental Metamagic Apparatus [Wiki]
+#### Elemental Metamagic Apparatus
 
 **Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -639,7 +639,7 @@ Choose one energy type when crafting this apparatus: acid, cold, electricity, or
 **Construction Requirements**
 Craft Apparatus, Elemental Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
 
-#### Empowering Metamagic Apparatus [Wiki]
+#### Empowering Metamagic Apparatus
 
 **Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -647,7 +647,7 @@ All variable, numeric effects of an empowered talent are increased by half, incl
 **Construction Requirements**
 Craft Apparatus, Empower Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
 
-#### Encouraging Metamagic Apparatus [Wiki]
+#### Encouraging Metamagic Apparatus
 
 **Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -655,7 +655,7 @@ Any morale bonus granted by an encouraging talent is increased by 1. (Morale bon
 **Construction Requirements**
 Craft Apparatus, Encouraging Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
 
-#### Enlarging Metamagic Apparatus [Wiki]
+#### Enlarging Metamagic Apparatus
 
 **Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -663,7 +663,7 @@ You can alter a talent with a range of close, medium, or long to increase its ra
 **Construction Requirements**
 Craft Apparatus, Enlarging Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
 
-#### Extending Metamagic Apparatus [Wiki]
+#### Extending Metamagic Apparatus
 
 **Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -671,7 +671,7 @@ An extended talent lasts twice as long as normal. A talent with a duration of co
 **Construction Requirements**
 Craft Apparatus, Extend Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
 
-#### Fearsome Metamagic Apparatus [Wiki]
+#### Fearsome Metamagic Apparatus
 
 **Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -679,7 +679,7 @@ When a creature takes hit point damage from a fearsome talent, if that creature 
 **Construction Requirements**
 Craft Apparatus, Fearsome Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
 
-#### Flaring Metamagic Apparatus [Wiki]
+#### Flaring Metamagic Apparatus
 
 **Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -687,7 +687,7 @@ The electricity, fire, or light effects of the affected talent create a flaring 
 **Construction Requirements**
 Craft Apparatus, Flaring Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
 
-#### Fleeting Metamagic Apparatus [Wiki]
+#### Fleeting Metamagic Apparatus
 
 **Slot** none; **Price** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -695,7 +695,7 @@ A fleeting talent’s duration becomes dismissible, if it is not already. You ca
 **Construction Requirements**
 Craft Apparatus, Fleeting Spell; **Cost** 1,250 gp (lesser), 2,500 gp (normal), 5,000 gp (greater)
 
-#### Focusing Metamagic Apparatus [Wiki]
+#### Focusing Metamagic Apparatus
 
 **Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -703,7 +703,7 @@ When casting a talent that affects or targets more than one creature, you can ch
 **Construction Requirements**
 Craft Apparatus, Focusing Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
 
-#### Furious Metamagic Apparatus [Wiki]
+#### Furious Metamagic Apparatus
 
 **Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -711,7 +711,7 @@ A furious talent that deals hit point damage adds the talent’s caster level to
 **Construction Requirements**
 Craft Apparatus, Furious Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
 
-#### Intuitive Metamagic Apparatus [Wiki]
+#### Intuitive Metamagic Apparatus
 
 **Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -719,7 +719,7 @@ An intuitive talent can be cast with no mental focus (as required by the Mental 
 **Construction Requirements**
 Craft Apparatus, Intuitive Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
 
-#### Lingering Metamagic Apparatus [Wiki]
+#### Lingering Metamagic Apparatus
 
 **Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -727,7 +727,7 @@ You may cause an instantaneous talent that affects an area to persist until the 
 **Construction Requirements**
 Craft Apparatus, Lingering Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
 
-#### Logical Metamagic Apparatus [Wiki]
+#### Logical Metamagic Apparatus
 
 **Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -735,7 +735,7 @@ A logical talent can be cast without emotion components (as required by the Emot
 **Construction Requirements**
 Craft Apparatus, Logical Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
 
-#### Maximizing Metamagic Apparatus [Wiki]
+#### Maximizing Metamagic Apparatus
 
 **Slot** none; **Price** 15,000 gp (lesser), 30,000 gp (normal), 60,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -743,7 +743,7 @@ All variable, numeric effects of a talent modified by this apparatus are maximiz
 **Construction Requirements**
 Craft Apparatus, Maximize Spell; **Cost** 7,500 gp (lesser), 15,000 gp (normal), 30,000 gp (greater)
 
-#### Merciful Metamagic Apparatus [Wiki]
+#### Merciful Metamagic Apparatus
 
 **Slot** none; **Price** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -751,7 +751,7 @@ You can alter talents that inflict damage to inflict nonlethal damage instead. T
 **Construction Requirements**
 Craft Apparatus, Merciful Spell; **Cost** 1,250 gp (lesser), 2,500 gp (normal), 5,000 gp (greater)
 
-#### Persistent Metamagic Apparatus [Wiki]
+#### Persistent Metamagic Apparatus
 
 **Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -759,7 +759,7 @@ Whenever a creature targeted by a persistent talent or within its area succeeds 
 **Construction Requirements**
 Craft Apparatus, Persistent Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
 
-#### Piercing Metamagic Apparatus [Wiki]
+#### Piercing Metamagic Apparatus
 
 **Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -767,7 +767,7 @@ When you cast a piercing talent against a target with spell resistance, it treat
 **Construction Requirements**
 Craft Apparatus, Piercing Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
 
-#### Quickening Metamagic Apparatus [Wiki]
+#### Quickening Metamagic Apparatus
 
 **Slot** none; **Price** 20,000 gp (lesser), 40,000 gp (normal), 80,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -775,7 +775,7 @@ Activating this metamagic apparatus decreases the casting time of a talent by 2 
 **Construction Requirements**
 Craft Apparatus, Quicken Spell; **Cost** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
 
-#### Reaching Metamagic Apparatus [Wiki]
+#### Reaching Metamagic Apparatus
 
 **Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -783,7 +783,7 @@ You can alter a spell with a range of touch, close, or medium to increase its ra
 **Construction Requirements**
 Craft Apparatus, Reach Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
 
-#### Riming Metamagic Apparatus [Wiki]
+#### Riming Metamagic Apparatus
 
 **Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -791,7 +791,7 @@ The frost of your cold talent clings to the target, impeding it for a short time
 **Construction Requirements**
 Craft Apparatus, Rime Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
 
-#### Scarring Metamagic Apparatus [Wiki]
+#### Scarring Metamagic Apparatus
 
 **Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -799,7 +799,7 @@ When a creature fails a saving throw against a scarring talent, for the next 24 
 **Construction Requirements**
 Craft Apparatus, Scarring Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
 
-#### Seeking Metamagic Apparatus [Wiki]
+#### Seeking Metamagic Apparatus
 
 **Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -807,7 +807,7 @@ A seeking talent’s range can bend around obstacles to reach the intended targe
 **Construction Requirements**
 Craft Apparatus, Seeking Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
 
-#### Selective Metamagic Apparatus [Wiki]
+#### Selective Metamagic Apparatus
 
 **Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -815,7 +815,7 @@ When casting a selective talent with an area effect and a duration of instantane
 **Construction Requirements**
 Craft Apparatus, Selective Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
 
-#### Shadow Grasping Metamagic Apparatus [Wiki]
+#### Shadow Grasping Metamagic Apparatus
 
 **Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -823,7 +823,7 @@ When you cast a talent with the darkness descriptor that affects an area, creatu
 **Construction Requirements**
 Craft Apparatus, Shadow Grasp; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
 
-#### Sickening Metamagic Apparatus [Wiki]
+#### Sickening Metamagic Apparatus
 
 **Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -831,7 +831,7 @@ You can modify a talent to sicken a creature damaged by the talent. When a creat
 **Construction Requirements**
 Craft Apparatus, Sickening Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
 
-#### Silent Metamagic Apparatus [Wiki]
+#### Silent Metamagic Apparatus
 
 **Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -839,7 +839,7 @@ A silent talent can be cast with no verbal components (as required by the Verbal
 **Construction Requirements**
 Craft Apparatus, Silent Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
 
-#### Snuffing Metamagic Apparatus [Wiki]
+#### Snuffing Metamagic Apparatus
 
 **Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -847,7 +847,7 @@ You can modify a talent to extinguish magical and non-magical light sources that
 **Construction Requirements**
 Craft Apparatus, Snuffing Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
 
-#### Solar Metamagic Apparatus [Wiki]
+#### Solar Metamagic Apparatus
 
 **Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -855,7 +855,7 @@ Any talent you cast with the [light] descriptor that deals damage (including the
 **Construction Requirements**
 Craft Apparatus, Solar Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
 
-#### Still Metamagic Apparatus [Wiki]
+#### Still Metamagic Apparatus
 
 **Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -863,7 +863,7 @@ A stilled talent can be cast with no somatic components (as required by the Soma
 **Construction Requirements**
 Craft Apparatus, Still Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
 
-#### Studied Metamagic Apparatus [Wiki]
+#### Studied Metamagic Apparatus
 
 **Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -871,7 +871,7 @@ When casting a studied talent, designate one target affected by the spell. Attem
 **Construction Requirements**
 Craft Apparatus, Studied Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
 
-#### Suppressing Metamagic Apparatus [Wiki]
+#### Suppressing Metamagic Apparatus
 
 **Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -879,7 +879,7 @@ Talents affected by this feat have a reduced manifestation. Being subjected to t
 **Construction Requirements**
 Craft Apparatus, Suppressed Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
 
-#### Tenacious Metamagic Apparatus [Wiki]
+#### Tenacious Metamagic Apparatus
 
 **Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -887,7 +887,7 @@ Increase the DC of caster level checks to counter or dispel a tenacious talent b
 **Construction Requirements**
 Craft Apparatus, Still Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
 
-#### Thanatopic Metamagic Apparatus [Wiki]
+#### Thanatopic Metamagic Apparatus
 
 **Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -895,7 +895,7 @@ A thanatopic talent pierces defenses and immunities that protect against death e
 **Construction Requirements**
 Craft Apparatus, Thanatopic Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
 
-#### Tenebrous Metamagic Apparatus [Wiki]
+#### Tenebrous Metamagic Apparatus
 
 **Slot** none; **Price** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -903,7 +903,7 @@ When you cast a tenebrous talent in darkness or dim light, the spell’s effecti
 **Construction Requirements**
 Craft Apparatus, Tenebrous Spell; **Cost** 1,250 gp (lesser), 2,500 gp (normal), 5,000 gp (greater)
 
-#### Threnodic Metamagic Apparatus [Wiki]
+#### Threnodic Metamagic Apparatus
 
 **Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -911,7 +911,7 @@ This effect only works on mind-affecting talents. A threnodic talents affects un
 **Construction Requirements**
 Craft Apparatus, Threnodic Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
 
-#### Thundering Metamagic Apparatus [Wiki]
+#### Thundering Metamagic Apparatus
 
 **Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -919,7 +919,7 @@ You can modify a talent to deafen a creature damaged by the talent. When a creat
 **Construction Requirements**
 Craft Apparatus, Thundering Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
 
-#### Toppling Metamagic Apparatus [Wiki]
+#### Toppling Metamagic Apparatus
 
 **Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -927,7 +927,7 @@ The impact of your force talent is strong enough to knock the target prone. If t
 **Construction Requirements**
 Craft Apparatus, Toppling Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
 
-#### Toxic Metamagic Apparatus [Wiki]
+#### Toxic Metamagic Apparatus
 
 **Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -935,7 +935,7 @@ You can use 1 dose of contact, ingested, inhaled, or injury poison as an additio
 **Construction Requirements**
 Craft Apparatus, Toxic Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
 
-#### Traumatic Metamagic Apparatus [Wiki]
+#### Traumatic Metamagic Apparatus
 
 **Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -943,7 +943,7 @@ A traumatic talent causes lingering memories of pain and suffering in creatures 
 **Construction Requirements**
 Craft Apparatus, Traumatic Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
 
-#### Tricking Metamagic Apparatus [Wiki]
+#### Tricking Metamagic Apparatus
 
 **Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -951,7 +951,7 @@ Only Mind talents (or talents that also include an effect from the Mind sphere, 
 **Construction Requirements**
 Craft Apparatus, Trick Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
 
-#### Umbral Metamagic Apparatus [Wiki]
+#### Umbral Metamagic Apparatus
 
 **Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
@@ -959,7 +959,7 @@ An umbral talent gains the darkness descriptor. As long as the talent is in effe
 **Construction Requirements**
 Craft Apparatus, Umbral Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
 
-#### Widening Metamagic Apparatus [Wiki]
+#### Widening Metamagic Apparatus
 
 **Slot** none; **Price** 15,000 gp (lesser), 30,000 gp (normal), 60,000 gp (greater); **Weight** 5 lbs.
 **Description**

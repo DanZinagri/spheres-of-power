@@ -1273,7 +1273,7 @@ You gain two investigator talents that use your inspiration pool. You must meet 
 
 Once per day as a full-round action, you may change one investigator talent you know. In essence, you lose the investigator talent, and gain a new investigator talent to replace it, as if you had retrained the class feature. You may not swap out any investigator talent you are using as a prerequisite. You must meet any prerequisites of the new investigator talent.
 
-#### Mythic Fortuneteller Path [3PP]
+#### Mythic Fortuneteller Path
 
 Whenever you spend a fortune die, you may spend a point of mythic power to retain that specific roll for future use. Add your mythic tier to your hedgewitch level for determining your number of fortune dice.
 

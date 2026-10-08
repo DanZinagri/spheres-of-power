@@ -92,7 +92,7 @@ Beginning at 3rd level, the antimage learns new methods and techniques on how to
 
 This replaces mercy or cruelty.
 
-#### Cannibalize Magic (requires antimage 9) [DRS]
+#### Cannibalize Magic (requires antimage 9)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -106,7 +106,7 @@ The antimage gains a counterspell feat that she qualifies for as a bonus feat. S
 
 The antimage can use the Counterspell feat as a free action once per turn, as long as she only targets herself when using Counterspell this way.
 
-#### Diminishing Disruption (requires antimage 6) [DRS]
+#### Diminishing Disruption (requires antimage 6)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -126,7 +126,7 @@ The antimage forges her nullmagic aura around herself, causing her to temporaril
 
 At 11th level, the antimage can spend an additional point of nullmagic when using this ability to be able to ignore effects that were created through magic even if they are instantaneous, such as the Create Materials Creation sphere advanced talent (but not materials that are otherwise non-magical and shaped with magic, such as the Forge Creation sphere talent).
 
-#### Nullmagic Overflow [DRS]
+#### Nullmagic Overflow
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 

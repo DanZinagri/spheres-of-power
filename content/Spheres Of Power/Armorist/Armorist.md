@@ -316,11 +316,11 @@ The armorist may boost their bound equipment. The armorist may use the same acti
 
 The armorist gains an animal, plant, or vermin companion, treating her armorist levels as druid levels for that purpose.
 
-#### Champion [CotS]
+#### Champion
 
 The armorist gains a Champion feat of her choice as a bonus feat (see [[Champion Feats]]). She must meet the prerequisites of the feat. This arsenal trick can be gained multiple times.
 
-#### Chaotic Armament [WM]
+#### Chaotic Armament
 
 Add chaos buffer to all bound and summoned armor and shields. Add wild critical to the properties you may add to your bound and summoned weapons.
 
@@ -332,7 +332,7 @@ The armorist may select a combat feat as a bonus feat. She must meet the prerequ
 
 When the armorist creates a bound weapon they may allow that bound weapon to also function as an implement. The bound weapon grants its enhancement bonus to one sphere while wielded (chosen when the bound equipment is created) as well as to attack and damage rolls, and the bound weapon can be given implement special abilities, although its combined enhancement and weapon/implement special abilities still cannot exceed its total bonus as a bound weapon.
 
-#### Combat Talent [CotS]
+#### Combat Talent
 
 You gain a bonus combat talent. This arsenal trick may be taken more than once, granting an additional talent each time.
 
@@ -340,7 +340,7 @@ You gain a bonus combat talent. This arsenal trick may be taken more than once, 
 
 The armorist gains an item creation feat of her choice. She must meet the prerequisites to gain an item creation feat in this manner. She may gain this arsenal trick multiple times. Each time it is selected, she gains another item creation feat.
 
-#### Customized Bond [EO2]
+#### Customized Bond
 
 The armorist gain the Customized Bond feat as a bonus feat (see [[Practitioner Feats]]). She must meet the feat’s prerequisites to select this arsenal trick.
 
@@ -452,7 +452,7 @@ The armorist gains the Shadow Stash Dark sphere talent, even if she does not pos
 
 She may take this arsenal trick twice, which upgrades her spell-like ability to have the effect of two purchases of Shadow Stash.
 
-#### Share Armory [Gen. HB]
+#### Share Armory
 
 The armorist may cause a piece of summoned or bound equipment to appear on or in the possession of one of her Leadership sphere cohorts. The cohort must be within 25 feet + 5 feet per two armorist levels. The cohort may be treated as the armorist for the purposes of maintaining the bound equipment in its possession.
 
@@ -484,7 +484,7 @@ The armorist adds spell stealing (+3), and spell storing (+1), to the list of sp
 
 The armorist’s implements gain the wand-chambered special ability. Only implements that can be wielded gain this benefit. The armorist can add wand turret (+2) to the list of special abilities it can add to summoned and bound armor.
 
-#### Wearable Implements (requires armorist 6, bind implement class feature) [BaP]
+#### Wearable Implements (requires armorist 6, bind implement class feature)
 
 When the armorist binds an implement, she may choose to bond with a specific piece of clothing, worn accessory, or jewelry as a “wearable implement” instead of a weapon, shield, or suit of armor. A wearable implement is slotless and does not take up a magic item slot.
 
@@ -492,7 +492,7 @@ Wearable implements grant all their normal benefits as an implement while worn a
 
 **Example:** An armorist binds a pair of boots, which serves as a Time sphere implement and grants the armorist a bonus on Acrobatics checks due to her increased alacrity while wearing them. The chosen skill does not impact a wearable implement’s normal effects but is a good roleplay tool to justify why a wearable implement grants this bonus.
 
-#### Windborne Equipment (requires armorist 6) (Ex) [BaP]
+#### Windborne Equipment (requires armorist 6) (Ex)
 
 The armorist adds cyclonic (+2) and seeking (+1) to the list of special abilities she can add to bound and summoned weapons. The armorist does not provoke attacks of opportunity when making a ranged attack with a weapon with either the cyclonic or seeking special abilities.
 
@@ -580,7 +580,7 @@ The following feats are particularly appropriate or useful for armorists.
 
 The following magical items are especially appropriate for armorists.
 
-#### Armorist’s Toolkit [TS:WAT]
+#### Armorist’s Toolkit
 
 **Aura** faint Creation; **CL** 5th
 **Slot** none; **Price** 2,500 gp; **Weight** 4 lbs.
@@ -592,7 +592,7 @@ All items created in this way are standard items of their type; you cannot, for 
 **Construction Requirements**
 Craft Apparatus, Creation sphere (Divided Creation [mass], Expanded Materials (material), Forge (alter), Practiced Creation), creator must have the summon equipment ability; **Cost** 1,250 gp
 
-#### Expanded Arsenal [TS:WAT]
+#### Expanded Arsenal
 
 **Aura** faint War; **CL** 5th
 **Slot** slotless; **Price** 12,500 gp; **Weight** 2 lbs.

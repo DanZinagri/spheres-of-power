@@ -13,7 +13,7 @@ parent: "[[Original Spheres]]"
 
 You have made contracts with outsiders, calling them to your side when you are in need.
 
-# Summon [Core]
+# Summon
 
 As a standard action, you may spend a spell point to summon a creature you have made a contract with (called a companion) causing it to appear in an adjacent square, ready to act on your following turn. You must concentrate to maintain the companion’s presence, but may always spend an additional spell point to allow the summoned creature to remain for 1 minute per caster level without concentration.
 
@@ -115,19 +115,19 @@ A companion gains 2 skill points per level (reduced to 1 for low Intelligence) a
 
 If your companion is reduced to 0 hit points and disappears, you may re-summon it by increasing the spell point cost of summon by one. The companion reappears at one quarter of its maximum hit points with 1 temporary negative level. Any other conditions or ongoing effects on the companion are removed. This negative level lasts until you rest to regain spell points but otherwise may not be removed. Negative levels from multiple uses of this ability stack. If the companion accumulates negative levels equal to its Hit Dice, it may not be summoned again until the negative levels are removed by resting to regain spell points. 1 Hit Die companions may be summoned by this ability once per day, but take a -1 penalty on all d20 checks in place of the negative level.
 
-#### Extra Companion [Core]
+#### Extra Companion
 
 You gain an additional companion. Whenever you summon a companion, you must select only one of your companions, although you may have multiple companions summoned at once. You may select this talent multiple times. Each time it is selected, gain another companion.
 
-#### Greater Summoning [Core]
+#### Greater Summoning
 
 When you spend a spell point to allow a companion to remain for 1 minute per caster level without concentration, it instead remains for 10 minutes per caster level.
 
-#### Link [Core]
+#### Link
 
 You gain a telepathic link to each of your companions. So long as you are on the same plane as one of your companions, you may communicate with that creature over any distance.
 
-#### Ranged Summoning [Core]
+#### Ranged Summoning
 
 When you summon a companion, they may appear in any square within Close range, rather than only in an adjacent square.
 
@@ -145,15 +145,15 @@ When you target yourself with a sphere effect, you may spend an additional spell
 
 # Form Talents
 
-#### Additional Limbs (form) [Core]
+#### Additional Limbs (form)
 
 Your companion gains one of the following sets of limbs: a head, 2 arms, 2 legs, a tail. This does not automatically grant any additional attacks. See the alteration sphere for descriptions of bonuses gained from these limbs. A companion may gain this talent multiple times. The effects stack.
 
-#### Aligned Creature (form) [Core]
+#### Aligned Creature (form)
 
 Your companion is connected to great forces of alignment, such as angels, devils, or other extraplaners. Choose one end of the alignment spectrum your companion possesses (good, evil, lawful, chaotic). Your companion becomes connected to that alignment, and may smite a target of its opposed alignment once per day, as the Paladin class feature. Your companion may smite its opposed alignment an additional time per day for every 7 Hit Dice possessed.
 
-#### Altered Size (form) [Core]
+#### Altered Size (form)
 
 Your companion increases or decreases permanently by 1 size category. A companion may gain this talent multiple times. The effects stack. A companion cannot become smaller than Diminutive or larger than Huge. Size changes cause the following changes to ability scores, which are cumulative:
 
@@ -168,23 +168,23 @@ Your companion increases or decreases permanently by 1 size category. A companio
 
 You may spend an additional spell point to choose a different base form for your companion each time you summon it. Any (form) talents that cannot be applied to the new base form become inactive until a valid base form is chosen.
 
-#### Animal Creature (form) [Core]
+#### Animal Creature (form)
 
 Your companion has the qualities of a great beast. It gains a +20 ft bonus to its land speed, as well as the scent property. It gains an additional +10 ft bonus to its land speed for every 2 Hit Dice.
 
-#### Armored Companion (form) [Core]
+#### Armored Companion (form)
 
 Your companion gains armor as appropriate for its form and appearance (a suit of armor, a tougher hide, buffeting winds, etc.). Your companion gains a +2 armor bonus, +1 at every odd Hit Die beyond 1st.
 
-#### Avian Creature (form) [Core]
+#### Avian Creature (form)
 
 Your companion gains wings and a 30 ft fly speed with a maneuverability of average. This increases by 10 ft per 2 Hit Dice. Alternately, your companion may gain flight through magical means: it does not gain wings, instead gaining a maneuverability of perfect. This then becomes a supernatural ability, and is subject to anti-magic fields and other such limitations.
 
-#### Battle Creature (form) [Core]
+#### Battle Creature (form)
 
 Your companion is learned in the ways of war. It gains proficiency with all simple weapons and when summoned, appears with up to 2 weapons it is proficient with (masterwork, but of unremarkable composition). These weapons gain a +1 enhancement bonus for every 3 Hit Dice possessed to a maximum of +5. A companion may gain this form talent twice. If gained a second time, it gains proficiency with all martial weapons and treats its Hit Dice as fighter levels when meeting the prerequisites for feats.
 
-#### Bestial (form) [Core]
+#### Bestial (form)
 
 Your companion gains a new set of natural attacks chosen from the list below. A companion must possess the prerequisite limbs and cannot already have a natural attack attached to that limb. A companion may gain this talent multiple times. Each time they gain this talent, they gain a new set of natural attacks.
 
@@ -200,7 +200,7 @@ Your companion gains a new set of natural attacks chosen from the list below. A 
 - 1 sting (primary, 1d4, 1d3 small, requires tail).
 - 2 talons (primary, 1d4, 1d3 small, requires 2 legs and creature must be airborne to use).
 
-#### Boon Companion (form) [Core]
+#### Boon Companion (form)
 
 Your companion’s abilities and Hit Dice are determined as if your caster level were 5 higher, to a maximum effective caster level equal to your character level.
 
@@ -220,15 +220,15 @@ Your companion may climb virtually any surface, no matter how slick or sheer. It
 
 You may treat your companion as if it had the Cooperative CraftingAPG feat and possessed all your Craft skill ranks and item creation feats. All Craft and Profession skills are class skills for your companion. This talent does not remove the need for your companion to have appropriate anatomy in order to be capable of crafting.
 
-#### Draconic Creature (form) [Core]
+#### Draconic Creature (form)
 
 Your companion is draconic in nature. It gains a breath weapon which it may use once per 1d4 rounds. You must decide when this talent is gained whether your companion will breath a 30 ft cone or a 60 ft line and whether it deals fire, cold, acid, or electricity damage. It deals 1d8 damage per 2 Hit Dice (minimum: 1d8), and creatures may make Reflex saves (DC 10 + 1/2 Hit Dice + Constitution modifier) for half damage.
 
-#### Earth Creature (form) [Core]
+#### Earth Creature (form)
 
 Your companion is a creature used to living in the ground. It gains a 15 ft Burrow speed and Tremorsense 10 ft. Its Burrow speed and Tremorsense increase by 5 ft per 2 Hit Dice.
 
-#### Elemental Creature (form) [Core]
+#### Elemental Creature (form)
 
 Your companion is a being attuned to a particular element. Choose either cold, fire, acid, or electricity. Your companion deals 1d3 damage of that element’s type with all of its natural attacks. This damage increases by one die size per 5 Hit Dice.
 
@@ -244,7 +244,7 @@ If your companion also possesses Avian Creature, it is acclimated to living at h
 
 If your companion also possesses Water Creature, it is immune to the pressures of the ocean and takes no damage from water pressure.
 
-#### Fortified Companion (form) [Core]
+#### Fortified Companion (form)
 
 Your companion’s Constitution increases by 2, +1 per 2 Hit Dice.
 
@@ -252,19 +252,19 @@ Your companion’s Constitution increases by 2, +1 per 2 Hit Dice.
 
 Choose one of the following diseases: blinding sickness, bubonic plague, cackle fever, filth fever, leprosy, mindfire, red ache, shakes, or slimy doom. When a creature takes damage from a manufactured or natural weapon attack made by your companion, it must succeed on a Fortitude save with a DC of 10 + 1/2 your companion’s Hit Dice + Constitution modifier or contract the disease immediately (the onset period does not apply). Use the disease’s listed frequency and save DC to determine further effects. Regardless of the success or failure of this save, the creature is immune to further applications of this ability by your companion for 24 hours.
 
-#### Lingering Companion (form) [Core]
+#### Lingering Companion (form)
 
 When you spend a spell point to allow this companion to remain for 1 minute per caster level without concentration, you may spend an additional spell point to allow it to remain for 1 hour per level instead. If you also possess the Greater Summoning talent, your companion instead remains for 1 day, only disappearing when you rest to regain spell points. Once you have spent a spell point to summon such a creature for a full day, you may dismiss and re-summon this companion at will without having to spend any additional spell points that day.
 
-#### Magic Attacks (form) [Core]
+#### Magic Attacks (form)
 
 Your companion’s natural attacks are treated as magic weapons for the purpose of overcoming damage reduction. At 7 Hit Dice they are treated as cold iron for this purpose, and at 14 Hit Dice they are treated as adamantine.
 
-#### Magical Companion (form) [Core]
+#### Magical Companion (form)
 
 Your companion’s Charisma increases by 1/2 its Hit Dice (minimum: +1). It also gains a spell pool equal to its Charisma modifier and a caster level equal to 1/2 its Hit Dice. The companion may select magic talents with its feats and treats Charisma as its casting ability modifier. With GM permission, your companion may also gain a casting tradition. A companion can never possess the Conjuration sphere.
 
-#### Monstrous Attacks (form) [Core]
+#### Monstrous Attacks (form)
 
 Your companion gains one of the following traits. This trait applies an effect or ability to one of its natural attacks. See the Alteration sphere for details on these abilities. A companion may gain this talent multiple times, gaining a new trait each time. It cannot attach the same trait multiple times to the same natural attack.
 
@@ -280,17 +280,17 @@ If your companion possesses a burrow speed or the earth glide ability, you may t
 
 Your companion gains a pool of ki points, supernatural energy it can use to accomplish amazing feats, as the unchained monk class feature. The number of points in your companion’s ki pool is equal to 1/2 his Hit Dice + its Wisdom modifier (total minimum 1). As long as it has at least 1 point in its ki pool, its unarmed strikes and natural attacks are treated as magic weapons for the purpose of overcoming damage reduction. It may take ki powers from the unchained monk list in place of feats, using its Hit Dice in place of unchained monk levels for meeting prerequisites.
 
-#### Natural Aspect (form) [Core]
+#### Natural Aspect (form)
 
 Your companion gains one of the following special monster qualities. A companion may gain this talent multiple times. Each time it is gained, they gain a new trait from the list. See the Alteration sphere for a description of each ability.
 
 - Pounce, leaping attack, rend, trample, rock catching, rock throwing, Fast Healing 1.
 
-#### Powerful Companion (form) [Core]
+#### Powerful Companion (form)
 
 Your companion’s Strength increases by 2, +1 per 2 Hit Dice.
 
-#### Quick Companion (form) [Core]
+#### Quick Companion (form)
 
 Your companion’s Dexterity increases by 2, +1 per 2 Hit Dice.
 
@@ -314,11 +314,11 @@ A swallowed creature can try to cut its way free with any light slashing or pier
 
 The Armor Class of the interior of a creature that swallows whole is 10 + 1/2 its natural armor bonus, with no modifiers for size or Dexterity. If a swallowed creature cuts its way out, the swallowing creature cannot use swallow whole again until the companion is receives healing equal to the damage dealt. If the swallowed creature escapes the grapple, success puts it back in the attacker’s mouth, where it may be bitten (if the companion possesses a bite attack) or swallowed again.
 
-#### Resistance (form) [Core]
+#### Resistance (form)
 
 Choose one energy type from the following list: fire, acid, cold, electricity, or sonic. Your companion gains Resistance to that element equal to 5+ its Hit Dice. You may select this talent multiple times, granting Resistance against a different element each time.
 
-#### Roguish Creature (form) [Core]
+#### Roguish Creature (form)
 
 Your companion is a creature of guile. Your companion deals +1d6 sneak attack damage as the rogue class feature, which increases to +2d6 at 7 Hit Dice and +3d6 at 14 Hit Dice. In addition, your companion may select rogue talents as feats. At 10 Hit Dice, it can select advanced talents as feats.
 
@@ -336,15 +336,15 @@ Choose one of the following abilities. This talent may be taken more than once; 
 
 **Thirst:** Your companion gains 1 temporary hit point per Hit Die of the grappled creature whenever it uses its blood drain ability. These temporary hit points last for 1 minute per Hit Die of the companion and do not stack with other uses of this ability. The companion must have the blood drain option of this talent to be eligible to gain this ability.
 
-#### Shadow Creature (form) [Core]
+#### Shadow Creature (form)
 
 Your companion is a being made of shadow. It gains Darkvision 60 ft, low-light vision, and a +8 racial bonus to Stealth checks made in dim light or darkness. Your companion takes half damage from attacks and magic originating from corporeal creatures and only deals half damage to corporeal creatures with its own attacks and magic. However, your companion deals full damage to incorporeal creatures and suffers full damage from incorporeal creatures.
 
-#### Shield Bearer (form) [Core]
+#### Shield Bearer (form)
 
 Your companion gains the shield proficiency feat, and when summoned, appears carrying a type of shield it is proficient with. If the creature possesses the Tower Shield Proficiency feat, this may be a tower shield. The shield is masterwork, but of unremarkable composition. This shield gains a +1 enhancement bonus for every 3 Hit Dice your companion possesses, to a maximum of +5.
 
-#### Skillful Companion (form) [Core]
+#### Skillful Companion (form)
 
 Your companion’s Intelligence increases by 3 (raising its base Intelligence to 10), and it gains an additional skill point per Hit Die (raising its total to 3 per level). In addition, it gains 3 new class skills of your choice.
 
@@ -395,7 +395,7 @@ A companion may gain this talent multiple times. Each time it gains this talent,
 
 The companion grows spines, quills, or thorns. These may be treated as armor spikes of their size (1d6 Medium, 1d4 Small, 20x2, piercing) but may be enhanced as natural weapons and may be wielded as a secondary natural weapon if beneficial. The companion is automatically proficient with these spikes. This talent may be taken a second time, allowing the companion to launch spines as a thrown weapon (1d6 Medium, 1d4 Small, 20x2, piercing) with a range increment of 20 feet. The companion may draw the spines as a free action and throw them for any attacks it is entitled to normally. Launched spines regenerate at the end of its turn.
 
-#### Transformative (form) [Core]
+#### Transformative (form)
 
 Your companion can change its appearance at will. It gains Disguise as a class skill and can make Disguise checks as a standard action. This is a spell-like ability, with a caster level equal to its Hit Dice.
 
@@ -403,7 +403,7 @@ Your companion can change its appearance at will. It gains Disguise as a class s
 
 Your companion is a natural talent for the trapbreaker’s art. The companion adds 1/2 its Hit Dice to Perception skill checks made to locate traps and to Disable Device skill checks (minimum +1). The companion can use Disable Device to disarm magic traps. It may take rogue talents in place of feats, if it qualifies for them, using its Hit Dice in place of rogue levels. At 10 Hit Dice, it can select advanced talents as feats.
 
-#### Water Creature (form) [Core]
+#### Water Creature (form)
 
 Your companion gains a 30 ft Swim speed, the ability to breath underwater, and Blindsense 15 ft (only in water). For every 2 Hit Dice, the Swim speed increases by 10 ft and the Blindsense increases by 5 ft.
 
@@ -415,7 +415,7 @@ The companion can create sheets of sticky webbing in adjacent squares up to thre
 
 If the companion possesses a climb speed, it can move across its own web at its climb speed. While touching a web it created, the companion can pinpoint the location of any creature touching its web. If your companion is dismissed, any webs it created immediately disappear.
 
-#### Willful Companion (form) [Core]
+#### Willful Companion (form)
 
 Your companion’s Wisdom increases by 2, +1 per 2 Hit Dice. In addition, whenever your companion rolls a Will saving throw, it may roll twice and take the higher result. If it may already roll twice and take the higher result, it instead rolls three times.
 
@@ -475,7 +475,7 @@ Your companion mimics the properties of plants. While it is still an outsider, m
 
 You may take this talent twice. If taken twice, your companion gains a +2 bonus on saves against mind-affecting effects that increases by +1 per 2 Hit Dice, immunity to paralysis, poison, polymorph, sleep, and stunning effects, and no longer requires sleep.
 
-#### Undead Creature (type) [Core]
+#### Undead Creature (type)
 
 Your companion mimics the properties of undead. It is healed by negative energy and harmed by positive energy. While it is still an Outsider, magical effects and spells that specifically target undead may affect the Companion as if it were undead. The companion also gains +2 Channel Resistance, as well as a +2 bonus on saves against disease, exhaustion, fatigue, paralysis, poison, sleep effects, and stunning. These bonuses and channel resistance increase by +1 per 2 Hit Dice. You may take this talent twice. If taken twice, your companion gains immunity to disease, exhaustion, fatigue, paralysis, poison, sleep effects, and stunning, and your companion no longer needs to breath, granting it immunity to drowning, suffocation, or gas-based effects.
 

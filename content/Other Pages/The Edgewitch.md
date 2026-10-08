@@ -41,7 +41,7 @@ CN Medium outsider (native)
 **Skills** Climb +7, Disguise +0, Intimidate +4, Perception +4, Sense Motive +7, Stealth +4, Survival +4; Racial Modifiers +2 Disguise, +2 Intimidate
 **Languages** Common, Infernal
 **SQ** blood sphere, blood: coagulate (still), blood: exsanguinating strike, casting, class skills, combat training, duelist sphere, equipment: custom training (discipline), equipment: fast draw, proficiencies, secrets, spell attack, tradition (black magic), tradition benefit (black magic), tradition power (black magic)
-**Other Gear** armor spikes studded leather, katana[UC], 25 gp
+**Other Gear** armor spikes studded leather, katana, 25 gp
 
 ## Special Abilities
 

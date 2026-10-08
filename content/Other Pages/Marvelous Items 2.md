@@ -11,7 +11,7 @@ updated: 2021-12-05
 
 *Source: [Mythic Champions of the Spheres](https://www.drivethrurpg.com/product/326662/Mythic-Champions-of-the-Spheres?affiliate_id=549120)*
 
-### Astral Tome [MCS]
+### Astral Tome
 
 **Aura** strong Death; **CL** 15th
 **Slot** none; **Price** 60,000 gp; **Weight** 8 lbs.
@@ -22,7 +22,7 @@ Once per day, a mythic creature can expend one use of mythic power to transport 
 **Construction Requirements**
 Craft Wondrous Item, Mythic Crafter, Death sphere (Astral Projection (advanced), Astral Travel (advanced), Project Spirit (advanced)); **Cost** 30,000 gp
 
-### Battlefield [MCS]
+### Battlefield
 
 **Aura** moderate Creation and Enhancement; **CL** 6th
 **Slot** none; **Price** 14,400 gp; **Weight** 4 lbs.
@@ -35,7 +35,7 @@ If the user expends one use of mythic power when activating the battlefield, all
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, Enhanced Creation (dual sphere), Creation sphere (Divided Creation, Larger Creation), Enhancement sphere; **Cost** 7,200 gp
 
-### Blooddrinker [MCS]
+### Blooddrinker
 
 **Aura** moderate Blood; **CL** 6th
 **Slot** none; **Price** 14,400 gp; **Weight** 4 lbs.
@@ -48,7 +48,7 @@ A mythic creature may expend one use of mythic power when activating a blooddrin
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, Blood sphere (Drain Lifeblood (advanced), Mass Control [mass]); **Cost** 7,200 gp
 
-### Chronosphere [MCS]
+### Chronosphere
 
 **Aura** strong Time; **CL** 15th
 **Slot** none; **Price** 36,000 gp; **Weight** 2 lbs.
@@ -56,7 +56,7 @@ Chronospheres are golden spheres etched with powerful runes. Once per day, a cre
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, Time sphere (Temporal Stasis (advanced)); **Cost** 18,000 gp
 
-### Cry Of Condemnation [MCS]
+### Cry Of Condemnation
 
 **Aura** strong Death; **CL** 15th
 **Slot** none; **Price** 30,000 gp; **Weight** 2 lbs.
@@ -69,7 +69,7 @@ While this normally has a DC 17 Will saving throw to negate, a mythic creature c
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, Death sphere (Curse, Greater Curse (advanced)); **Cost** 15,000 gp
 
-### Dark And Darker [MCS]
+### Dark And Darker
 
 **Aura** moderate Dark; **CL** 10th
 **Slot** hands; **Price** 36,000 gp; **Weight** 3 lbs.
@@ -82,7 +82,7 @@ A mythic creature can expend one use of mythic power while activating this item 
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, Dark sphere (Edge Of Night (darkness), One With The Void (advanced), Step Through Darkness (meld)); **Cost** 18,000 gp
 
-### Forward Momentum [MCS]
+### Forward Momentum
 
 **Aura** weak War; **CL** 2nd
 **Slot** feet; **Price** 1,600 gp; **Weight** 6 lbs.
@@ -95,7 +95,7 @@ A mythic creature may expend one use of mythic power when activating the forward
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, War sphere (Aggressive Momentum (momentum), Cooperative Momentum (momentum), Damaging Momentum (momentum), Marauding Momentum (momentum)); **Cost** 800 gp
 
-### Fusion Rings [MCS]
+### Fusion Rings
 
 **Aura** moderate Alteration; **CL** 8th
 **Slot** ring; **Price** 25,600 gp; **Weight** 4 lbs.
@@ -104,7 +104,7 @@ These rings come in a variety of shapes and styles, but always come in pairs and
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, Alteration sphere (Fusion (advanced), Mass Alteration [mass]); **Cost** 12,800 gp
 
-### Gatestone [MCS]
+### Gatestone
 
 **Aura** overwhelming Warp; **CL** 21st
 **Slot** none; **Price** 176,400 gp; **Weight** 3 lbs.
@@ -115,7 +115,7 @@ A mythic creature can expend one use of mythic power while activating a gateston
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, Warp sphere (Distant Teleport, Enduring Portal (advanced), Mass Teleport [mass], Planeshift (advanced), Portal (advanced), Teleport Beacon, True Teleport (advanced), Universal Teleport (advanced), Unwilling Teleport, Wormhole (space)); **Cost** 88,200 gp
 
-### Marks Of Command [MCS]
+### Marks Of Command
 
 **Aura** faint Mana; **CL** 15th
 **Slot** hands; **Price** 75,000 gp; **Weight** -
@@ -135,7 +135,7 @@ Inscribe Magical Tattoo, Mythic Crafter, Life sphere, Mana sphere, Time sphere, 
 
 **Wiki Note:** This is a magical tattoo, not a marvelous item, but it doesn't need its own page just for that.
 
-### Modifying Grip [MCS]
+### Modifying Grip
 
 **Aura** strong Creation; **CL** 15th
 **Slot** special, see text; **Price** 36,000 gp; **Weight** 1 lb.
@@ -150,7 +150,7 @@ A creature cannot use the foe-biting effect on any attack made with a modifying 
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, Creation sphere (Change Material (alter), Expanded Materials (material), Mythical Material Maker (advanced, material)); **Cost** 18,000 gp
 
-### Resurrection Sphere [MCS]
+### Resurrection Sphere
 
 **Aura** strong Life; **CL** 20th
 **Slot** none; **Price** 720,000 gp; **Weight** 3 lbs.
@@ -159,7 +159,7 @@ Resurrection spheres are among the most-prized magical items in existence. Altho
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, Life sphere (Break Enchantment, Greater Resurrection (advanced), Make Whole (advanced), Restore Senses (cure), Restore Spirit (cure), Resurrection (advanced), Resuscitate, Supreme Resurrection (advanced)); **Cost** 360,000 gp
 
-### Seed Of Life [MCS]
+### Seed Of Life
 
 **Aura** moderate Nature; **CL** 10th
 **Slot** none; **Price** 28,000 gp; **Weight** 1/10 lb.
@@ -170,7 +170,7 @@ This tiny seed contains a truly enormous amount of natural energies. Once a day,
 **Construction Requirements**
 Craft Wondrous Item, Mythic Crafter, Nature sphere (Deep Nature, Zoetic Geomancy); **Cost** 14,000 gp
 
-### Wand Of False Reality [MCS]
+### Wand Of False Reality
 
 **Aura** moderate Illusion; **CL** 6th
 **Slot** none; **Price** 14,400 gp; **Weight** 2 lbs.
@@ -183,7 +183,7 @@ A mythic creature can expend one use of mythic power when activating this item t
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, Illusion sphere (Blur (glamer), Manipulate Aura (sensory, magic), Spell Disruption (advanced)); **Cost** 7,200 gp
 
-### White Dwarf [MCS]
+### White Dwarf
 
 **Aura** moderate Light; **CL** 10th
 **Slot** none; **Price** 36,000 gp; **Weight** 4 lbs.

@@ -112,7 +112,7 @@ Whenever you adopt the scrutinize approach, you pay close attention to how a cre
 
 You can use analyze as a full-round action to target 1 additional target, plus 1 target per 6 ranks in the associated skill you possess. The analyze check is rolled once, and applied to all targets. You can only apply an application to the original target of analyze, and not to the additional targets (unless they are scrutinized).
 
-#### Quick Search [utility] [DRS]
+#### Quick Search [utility]
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -132,7 +132,7 @@ You can spend 10 minutes pondering on a single memory that has transpired within
 
 You cannot retry the same check more than once, nor can you use senses or similar ability you did not possess during the memory.
 
-#### Saw You Coming [DRS]
+#### Saw You Coming
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -232,7 +232,7 @@ You analyze the damage and strain on a creature. When in the presence of multipl
 
 **Detailed (+5 DC):** As a simple analysis, but you learn the target’s exact hit point total, and the exact type of weapon or spell used to deliver the wound or kill the target, in addition to the method involved any additional effects (such as poison or residual effects), and the effect’s rules. If the target is dead, you also learn what the target’s actions were right before they were killed, such as running, attacking, talking, etc.
 
-#### Identify Remnants (analyze) [utility] [DRS]
+#### Identify Remnants (analyze) [utility]
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -350,7 +350,7 @@ You can spend an immediate action or expend an attack of opportunity whenever th
 
 You can expend this application as an immediate action whenever the analyzed creature makes an attack against you, attempting a Sense Motive check (or the original analyze skill used) and using the result in place of your AC for the triggering attack.
 
-#### Study Landscape (apply) [DRS]
+#### Study Landscape (apply)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -387,7 +387,7 @@ You analyze a storage vessel, a 10-foot cube area, or a creature’s placement o
 
 **Detailed (+5 DC):** As a simple analysis, but you manage to extrapolate enough to successfully guess what items the target may possess, learning the exact items that the target has equipped and/or stored on themselves, including one of each of their functions, as long as the item has a caster level equal to or lower than your ranks in the associated skill. This could include hearing a batch of four healing potions, a single dose of poison within a ring, the crinkle of maps and important documents, or a +3 flaming longsword. This does not grant you insight into items contained within extradimensional storage.
 
-#### Cognitive Discernment [approach] (Su) [DRS]
+#### Cognitive Discernment [approach] (Su)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -399,7 +399,7 @@ Thoughtsense can distinguish between sentient (Intelligence 3 or higher) and non
 
 You can spend 1 use of skill leverage when adopting this approach to have it not count towards your maximum number of approaches.
 
-#### Exploit Faultline [DRS]
+#### Exploit Faultline
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -420,7 +420,7 @@ You can expend this application as a free action usable outside of your turn to 
 
 You can analyze using any of your senses, such as taste, smell, and touch. This also means exotic senses such as blindsight, tremorsense, and plantsight can be used to analyze.
 
-#### Inerrant Scrutiny [DRS]
+#### Inerrant Scrutiny
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -432,7 +432,7 @@ If you scrutinize a creature or object, you see their exact location if they are
 
 If you scrutinize an area, you see through all forms of darkness within the area (allowing you to see areas of darkness in color), notice secret doors hidden by magic and see through any illusions within the area. Additionally, you can focus your vision to see into the Ethereal Plane.
 
-#### Liminal Sight (Su) [DRS]
+#### Liminal Sight (Su)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -458,7 +458,7 @@ If you gain a detailed analysis when using the talent, you can spend an addition
 
 You can also use this to perceive the area with any special senses you may possess, or to use any abilities you possess against any creatures or objects within the analyzed area, as long as the ability does not affect the creature (for example, you could analyze a creature to determine their current hit points, but not use Diplomacy to change their attitude). Any duration-based abilities that are applied during this time (such as an (apply) talent) treat the time you are analyzing as the beginning of the ability's duration.
 
-#### Perceive Between Moments [DRS]
+#### Perceive Between Moments
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -489,7 +489,7 @@ Using incredible deductive skills, you can create weaknesses where they do not u
 
 You can expend this application as an immediate action whenever you successfully damage the analyzed creature, forcing them to succeed at a Fortitude saving throw or gain a vulnerability to a single damage type of your choice for 1 round, plus 1 round per 4 ranks in the associated skill you possess. This vulnerability is granted after your initial attack. On a successful save, this application is not expended.
 
-#### Telepathic Interception (Su) [utility] [DRS]
+#### Telepathic Interception (Su) [utility]
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 

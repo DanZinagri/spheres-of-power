@@ -93,7 +93,7 @@ Some abilities, such as possessing certain spheres, may grant additional opener 
 Successfully performing a link component increases the length of the prodigy’s active sequence by 1 link. A given action may not add more than 1 link even if it fulfills the conditions of more than one link component, such as dealing damage to a hostile creature and that hostile creature failing a save granted by that same effect. Bonus attacks granted by or made as part of a given action (such as the Barrage or Dual Wielding spheres or the Armiger’s rapid assault ability) count as part of the original action for this purpose, though attacks of opportunity do not. All openers function as link components if performed after a sequence has been started. No link component may grant a link more than once per turn. The following are your basic link components:
 
 - **Abandon Focus:** As a free action, the prodigy may expend martial focus.
-- **Adopt Form: [Youxia HB]** Expend martial focus as part of activating a (stance) talent.
+- **Adopt Form:** Expend martial focus as part of activating a (stance) talent.
 - **Close the Gap:** As a move action, the prodigy may move up to her speed, ending the movement with a hostile creature within her threatened area. She may sheath one weapon and draw another as a free action as part of this movement.
 - **Counting Coup:** As a swift action, a prodigy may make a touch attack against a creature using a wielded weapon. If successful, this attack deals no damage but completes this (link). Weapons that require ammunition expend one attack’s worth of ammunition when used with this ability. Such an attack is too glancing to deliver a held touch spell, trigger ammunition properties that function on hit, utilize a thrown splash weapon, or similar effects.
 - **Disengage:** As a move action, the prodigy may move up to half her speed. She does not provoke attacks of opportunity for leaving her starting squares. She may sheath one weapon and draw another as a free action as part of this movement.
@@ -247,7 +247,7 @@ A prodigy gains additional sequence options if she possesses certain spheres:
 
 **Impale (link):** The prodigy successfully impales a creature.
 
-### [[Leadership]] [DRS]
+### [[Leadership]]
 
 *Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*
 
@@ -259,7 +259,7 @@ A prodigy gains additional sequence options if she possesses certain spheres:
 
 **Pathfinder (opener):** Use pathing as at least a standard action
 
-### [[Occultism]] [DRS]
+### [[Occultism]]
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -333,7 +333,7 @@ A prodigy gains additional sequence options if she possesses certain spheres:
 
 **Recharge Tech (link) (requires Battery):** Attach a battery gadget to one of your crafted devices as a swift action.
 
-### [[Tinker]] [SUE]
+### [[Tinker]]
 
 **Gizmo Activation (opener):** Activate a gizmo as a standard action, or use a gizmo ability with an activation time of a standard action or longer. The prodigy may choose to activate a gizmo ability that has a faster activation time as a standard action to use this opener.
 
@@ -347,7 +347,7 @@ A prodigy gains additional sequence options if she possesses certain spheres:
 
 **Trapped (opener):** A hostile creature fails a save against or takes damage from a trap the prodigy set (or used with the Trap Wielder talent).
 
-### [[Warleader (warleader-sphere)|Warleader]] [DRS]
+### [[Warleader (warleader-sphere)|Warleader]]
 
 *Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
@@ -480,7 +480,7 @@ At 2nd level, as part of starting a sequence, the prodigy may infuse himself wit
 
 ### [[Mana]]
 
-**Amped Up (imbue):** The prodigy selects a single (amp) she possesses that does not require spell points. All magic sphere effects she creates count as if they were amplified by that (amp). The sphere effect must still otherwise be eligible to be affected by the (amp), otherwise it is not affected. [Archmagi HB]
+**Amped Up (imbue):** The prodigy selects a single (amp) she possesses that does not require spell points. All magic sphere effects she creates count as if they were amplified by that (amp). The sphere effect must still otherwise be eligible to be affected by the (amp), otherwise it is not affected.
 
 **Inject Dissonance (imbue):** When the prodigy strikes a creature with an attack action, the creature gains a dissonance point, which bestows a cumulative -1 penalty to the creature’s caster level, magic skill bonus and magic skill defense. Creatures whose caster level would be reduced to or below 0 are unable to cast spells, spell-like abilities, and sphere effects as if they were inside an antimagic zone. A creature can rid themselves of dissonance points with the use of the restore soul option of the restore ability from Life sphere (treating it as if it was ability damage), or by spending a spell point as a move action to remove 1 point. Dissonance points expire after 1 minute after the last dissonance point is applied on a creature. A creature cannot have more dissonance points than their highest caster level with any sphere.
 
@@ -558,7 +558,7 @@ A prodigy that possesses the [[Casting Traditions|wild magic drawback]], any [[W
 
 **Swallow Surge (finish):** As part of casting a sphere ability, the prodigy may end her current sequence to reduce her wild magic chance by 20% per link.
 
-### Special: Card Casting [CC2]
+### Special: Card Casting
 
 A prodigy that possesses the card casting drawback may select card casting instead of a magic sphere when activating her imbue sequence ability. Doing so grants the following abilities:
 
@@ -572,7 +572,7 @@ A prodigy that possesses the card casting drawback may select card casting inste
 
 At 3rd level, once per day after the prodigy rests to regain spell points, she may spend 10 minutes practicing to focus her mind on a particular skill. She selects one skill from the prodigy class skill list; the prodigy may take ten on that skill even when rushed or threatened. Additionally, a number of times per day equal to her casting ability modifier, she may expend martial focus as part of making a skill check with the chosen skill to take 15 instead of 10. This otherwise is treated as taking 10, though can be used even when rushed or threatened. This effect lasts until she chooses a new skill after resting to regain spell points.
 
-## Skill Attunement [LotS]
+## Skill Attunement
 
 Starting at 3rd level, when the prodigy would select a steady skill, she may instead select a skill attunement associated with a skill sphere that she possesses. The prodigy may use the variable skill and skill juggler class features to change what skill attunement she is using in the same manner that she may alter her steady skill.
 
@@ -612,7 +612,7 @@ The prodigy may gain information with Sense Motive over the course of 1 round ra
 
 The prodigy does not take nonlethal damage from hustling during overland travel, although they still become fatigued after 1 hour of hustling. At 19th level, the prodigy is no longer fatigued as a result of hustling during overland travel.
 
-#### Occultism [DRS]
+#### Occultism
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -696,7 +696,7 @@ At 20th level, when the prodigy starts a sequence, it automatically begins with 
 
 The following magical items are especially appropriate for prodigies.
 
-#### Gloves Of Imbuement [TS:WAT]
+#### Gloves Of Imbuement
 
 **Aura** faint Varies (see text); **CL** 2nd
 **Slot** hands; **Price** 20,000 gp; **Weight** 2 lbs.
@@ -706,7 +706,7 @@ These fine gloves are exceptionally capable of channeling magical energies. When
 **Construction Requirements**
 Craft Apparatus, the base sphere associated with the imbuement or a wild magic ability, creator must have the imbue sequence class feature; **Cost** 10,000 gp
 
-#### Manual Of Techniques [TS:WAT]
+#### Manual Of Techniques
 
 **Aura** moderate War; **CL** 7th
 **Slot** none; **Price** 25,000 gp; **Weight** 2 lbs.
@@ -716,7 +716,7 @@ This manual contains comprehensive instructions for warriors who are capable of 
 **Construction Requirements**
 Craft Apparatus, War sphere, the combat sphere being referenced, creator must have the integrated techniques class feature; **Cost** 12,500 gp
 
-#### Mirror Of The Sun Goddess [TS:WAT]
+#### Mirror Of The Sun Goddess
 
 **Aura** strong Protection; **CL** 12th
 **Slot** none; **Price** 18,000 gp; **Weight** 3 lbs.

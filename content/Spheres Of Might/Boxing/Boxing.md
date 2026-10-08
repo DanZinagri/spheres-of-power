@@ -61,15 +61,15 @@ Whenever a creature within your reach makes an attack of opportunity against you
 
 Whenever you successfully make an attack with your counter punch, you gain DR 2/- until the beginning of your next turn, although this damage reduction is lost if you move more than 5 ft. during your turn. For every 3 points of base attack bonus you possess, this damage reduction increases by 1.
 
-#### Elongated Step (stance) [3PP]
+#### Elongated Step (stance)
 
 At the start of your turn, you can spend a swift action to use this talent. When you do, until the beginning of your next turn whenever you use your counter punch ability, you increase your reach by 5 feet for attacks made with your counter punch. At +10 base attack bonus, you instead increase your reach by 10 feet. If you expend your martial focus while activating this talent, it instead lasts a number of rounds equal to your practitioner modifier.
 
-#### Extra Trigger [3PP]
+#### Extra Trigger
 
 You can select an additional trigger for your counter punch ability. If you would be able to gain a new trigger due to increasing your base attack bonus, you can choose to retrain this talent into another boxing talent of your choice.
 
-#### Floating Butterfly (stance) [Youxia HB]
+#### Floating Butterfly (stance)
 
 While in this stance, whenever you ready a counter punch, you may choose to forgo the competence bonus to your counter punch’s damage roll in order to gain a dodge bonus to AC equal to half the bonus damage until the beginning of your next turn. Additionally, whenever you are targeted with a melee attack while benefiting from this dodge bonus, you may expend an attack of opportunity to make a 5-foot step immediately after the attack resolves.
 
@@ -77,7 +77,7 @@ While in this stance, whenever you ready a counter punch, you may choose to forg
 
 Whenever you ready a counter punch, you treat your reach as though it was 5 ft. further for the purposes of being able to make a counter punch. If the triggering action was taken by a creature that is outside of your normal reach, you may move to a square that places the creature within your reach (this movement does provoke attacks of opportunity) before making the attack. At +10 base attack bonus, your effective reach increases by an additional 5 ft. (up to your speed).
 
-#### Hair Trigger [Apoc]
+#### Hair Trigger
 
 You can use counter punch with ranged attacks, except that instead of readying an action to make an attack against the next enemy who makes a melee attack roll against you before the beginning of your next round, you ready an action to make an attack against the next enemy who makes an attack roll within your first range increment before the beginning of your next round. You may select additional triggers for counter punch as normal, except that they must be within your first range increment in order to trigger your counter punch.
 
@@ -97,13 +97,13 @@ Whenever you successfully deal damage to a target with your counter punch, you m
 
 As long as you have martial focus, whenever you use your counter punch, you may spend an immediate action before the attack roll to roll your attack roll and damage roll twice, taking whichever set of results you desire.
 
-#### Passive Fist [Jester's HB]
+#### Passive Fist
 
 As long as you have a readied action to perform a counter punch, you may abandon your readied action as a free action (even if it is not your turn) and regain martial focus. Abandoning a readied action with this talent does not grant you additional actions.
 
 In addition, you may forgo selecting an additional trigger in favor of self defense. For each additional trigger you forgo selecting when readying your counter punch, you gain a +1 circumstance bonus to your armor class until the start of your next turn.
 
-#### Prizefighter [Apoc]
+#### Prizefighter
 
 *Source: [Spheres Apocrypha: Pugilists](https://www.drivethrurpg.com/product/320390/Spheres-Apocrypha-Pugilists?affiliate_id=549120)*
 
@@ -116,7 +116,7 @@ In addition, you gain the following new triggers to choose from when you ready a
 - A hostile creature expends martial focus
 - A hostile creature uses a supernatural ability as a standard action
 
-#### Punishing Cross [Youxia HB]
+#### Punishing Cross
 
 Whenever you take damage from a melee attack, you can expend your martial focus as an immediate action. If you do, you take half of the damage you normally would. The creature who struck you must succeed at a Reflex save or take half of the damage you would have taken.
 
@@ -162,7 +162,7 @@ Whenever you ready a counter punch, you may spend a swift action to select one c
 
 Whenever you successfully attack with your counter punch, you may attempt to grapple that creature as a free action (even if it is not your turn) that does not provoke attacks of opportunity.
 
-#### Disarming Jab (counter) [Apoc]
+#### Disarming Jab (counter)
 
 *Source: [Spheres Apocrypha: Pugilists](https://www.drivethrurpg.com/product/320390/Spheres-Apocrypha-Pugilists?affiliate_id=549120)*
 
@@ -175,7 +175,7 @@ In addition, you gain the following new triggers to choose from when you ready a
 
 **Normal:** When you successfully disarm your opponent without using a weapon, you may automatically pick up the item dropped.
 
-#### Dizzying Maul (counter) [Apoc]
+#### Dizzying Maul (counter)
 
 *Source: [Spheres Apocrypha: Pugilists](https://www.drivethrurpg.com/product/320390/Spheres-Apocrypha-Pugilists?affiliate_id=549120)*
 
@@ -185,7 +185,7 @@ In addition, you gain the following new trigger to choose from when you ready a 
 
 - A hostile creature falls prone
 
-#### Forceful Smash (counter) [3PP]
+#### Forceful Smash (counter)
 
 Whenever you successfully attack with your counter punch, you can make a bull rush attempt against the target as a free action which does not provoke attacks of opportunity. You can choose to move along with the target as a free action, although this movement provokes an attack of opportunity, and you must end this movement adjacent to the creature. At base attack bonus +10, the target falls prone at the end of this movement.
 
@@ -207,11 +207,11 @@ You may use this talent on a willing ally other than yourself without expending 
 
 Whenever you successfully make an attack with your counter punch, you may force the creature hit by your counter punch to make a successful Fortitude save or be sickened and have all of their movement speeds reduced by 1/2 for 1 round. For every 5 points of base attack bonus you possess, the duration of this talent is increased by 1 round.
 
-#### Loopy Blow (counter) [3PP]
+#### Loopy Blow (counter)
 
 Whenever you successfully attack with your counter punch, the target must make a successful Will saving throw or be treated as though under the effects of a confusion spell for 1 round. If the target is battered, they must roll twice on the confusion table, taking the higher result. At base attack bonus +10, this talent lasts for an additional round.
 
-#### Knuckle Crusher (counter) [3PP]
+#### Knuckle Crusher (counter)
 
 Whenever you successfully attack with your counter punch, all natural attacks the target possesses (including unarmed strikes) take a -2 penalty to damage rolls for 1 round. For every +4 points of base attack bonus you possess, penalty lasts for an additional round. At base attack bonus +10, this penalty increases to -5 and the target also takes a -1 penalty to attack rolls with natural attacks.
 
@@ -219,7 +219,7 @@ Whenever you successfully attack with your counter punch, all natural attacks th
 
 Whenever you use your counter punch, you can make an Intimidate check to demoralize that creature as a free action, even when it isn’t your turn.
 
-#### Winding Blow (counter) [EO3]
+#### Winding Blow (counter)
 
 Whenever you successfully attack with your counter punch, you may force the creature to succeed at a Fortitude save or be unable to make attacks of opportunities for 1 round, and have all the air forced from their lungs, reducing the amount of time they can hold their breath to 1 round, for a number of rounds equal to 1/2 your base attack bonus (minimum 1 round). This effect can be ended early by using the Restore Capacity function of the Life sphere.
 
@@ -247,13 +247,13 @@ Your comebacks are so potent they can literally cause targets pain. You may read
 
 Whenever you land a successful counter punch, you may expend your martial focus as a free action to make the creature damaged by your counter punch make a Will save; if this save is unsuccessful, for 1 minute, whenever the creature attempts the action which triggered your counter punch, they must make a successful Will save or lose that action. This is a mind-affecting effect.
 
-#### Reflecting Palm [Youxia HB]
+#### Reflecting Palm
 
 **Prerequisites:** Boxing sphere (Punishing Cross), base attack bonus +10.
 
 When using Punishing Cross, if the creature who struck you fails their Reflex save, they take all the damage you normally would while you take no damage from the attack.
 
-#### Wiggling Kitten, Lunging Lion (stance) [Catgirl HB]
+#### Wiggling Kitten, Lunging Lion (stance)
 
 **Prerequisites:** Acrobatics 3 ranks, Athletics sphere ((leap) package), Boxing sphere (Gazelle Punch).
 

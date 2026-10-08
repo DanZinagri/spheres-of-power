@@ -173,7 +173,7 @@ Using this ability ends the arcanopulser’s current empowerment (this cannot en
 
 At 13th level, while ascended, the arcanopulser gains the amphibious monster quality, and gains a swim speed equal to his base land speed. Additionally, he may now freeze the air he walks over, allowing him to leave a trail of slippery ice as he flies or jumps through the air.
 
-### Path of the Minstrel [Archmagi HB]
+### Path of the Minstrel
 
 The first time this path is selected, the arcanopulser weaves sound into his pulse shots. He learns to make musical pulse shots which deal sonic damage. Musical pulse shots never increase their damage when investing in this path.
 
@@ -221,7 +221,7 @@ At 13th level, while ascended, the arcanopulser gains a flight speed equal to hi
 
 # Arcanopulser Feats
 
-#### Pulsemage’s Arsenal [Archmagi's HB]
+#### Pulsemage’s Arsenal
 
 **Prerequisites:** 5th-level arcanopulser, Pulse shield class feature.
 

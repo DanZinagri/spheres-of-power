@@ -59,7 +59,7 @@ When bestowing an enhancement, you may spend an additional spell point to enhanc
 
 You may enhance a creature with enhancements that normally only apply to weapons or armor. If it applies to weapons, it applies to one of the creature’s natural weapons as well as its unarmed strikes; if it applies to armor, it applies to any natural armor bonus that the creature possesses (creatures without natural armor are considered to have a natural armor bonus of +0).
 
-#### Power Parasitism [Alienist HB]
+#### Power Parasitism
 
 Whenever you use a magic sphere effect to successfully inflict ability damage, ability drain, or ability score penalties on a target with at least half as many Hit Dice as your character level, you may spend 1 additional spell point to use an Enhancement sphere ability as a swift action on any willing creature within range. Conditions such as fatigued, grappled or entangled do not trigger this ability. Any penalty imposed by an (enhance) talent on an acceptable target can be used to activate this talent as if it were ability damage, drain, or an ability penalty.
 
@@ -190,7 +190,7 @@ You may enhance creatures, granting them a +2 enhancement bonus to either their 
 
 You may apply an enhancement to a weapon, causing attacks made with it to deal additional bleed damage equal to half your caster level (minimum 1). You may spend a spell point to have the weapon deal additional bleed damage equal to your caster level instead.
 
-#### Spectral Enhancement (enhance) [Gravecaller's HB]
+#### Spectral Enhancement (enhance)
 
 You may enhance objects, increasing their ability to interact with the insubstantial.
 
@@ -257,7 +257,7 @@ When used on a ranged weapon, a throwing weapon, or a weapon that already posses
 
 Advanced talents are part of an optional rule and are only available with GM permission.
 
-#### Alternative Energy [Jester's HB]
+#### Alternative Energy
 
 **Prerequisites:** Enhancement sphere (Energy Enhancement (enhance)), caster level 5th.
 
@@ -293,7 +293,7 @@ Creatures and magic items created in this fashion possess your alignment and can
 
 With the exception of intelligent items (which follow the intelligent item rules), the affected creature serves you as a faithful companion. However, as it is a living, intelligent being, it will expect good treatment in return (indeed, an animal that was treated harshly before it was enhanced in this way may feel no particular loyalty to the caster at all). A caster may only have one companion of this sort at any one time; if a second creature is awakened, the first remains friendly, but no longer undertakes tasks for the caster unless it is in its own best interests.
 
-#### Critical Climax [3PP]
+#### Critical Climax
 
 **Prerequisites:** Enhancement Sphere (Deadly Weapon), caster level 5th
 
@@ -309,7 +309,7 @@ Whenever you use a non-instantaneous sphere ability, you may spend 2 spell point
 
 If you also possess Bestow Life, you may use it on creatures created through this talent; instead of Bestow Life's normal effects, doing so increases their potency by 3, and prevents them from dying at the end of the effect’s duration.
 
-#### Inherent Enhancement (enhance) [Archmagi's HB]
+#### Inherent Enhancement (enhance)
 
 **Prerequisites:** Enhancement sphere (Deep Enhancement, Mental Enhancement, Physical Enhancement), caster level 17th.
 
@@ -335,7 +335,7 @@ Within this area, gravity reverses. Unattached objects and creatures in the area
 
 Provided it has something to hold onto, a creature caught in the area can attempt a Reflex save to secure itself and not fall upward. Creatures who can fly or levitate can keep themselves from falling.
 
-#### Vicious Accuracy (enhance) [3PP]
+#### Vicious Accuracy (enhance)
 
 **Prerequisites:** Enhancement Sphere (Deadly Weapon), caster level 5th
 You may enhance a weapon, causing any attack rolls made with the weapon to use a d24 rather than a d20 (if the attack roll would normally use a d16, use a d20 instead. If the attack roll would already use a d24, use a d30 instead). This does not change the weapon’s critical threat range (it does not threaten a critical hit on a 21 or any other number higher than 20).
@@ -692,7 +692,7 @@ Construction points allow an animated object to approximate the object being ani
 
 **Augmented Critical (Ex, 1 CP):** Increase the threat range for the animated object’s melee attacks by 1 or the threat multiplier by 1. This cannot combine with itself or with the piercing attack or slashing attack animated object abilities.
 
-**Armed Object (Ex, 2 CP): [3PP]** One of the animated object’s slam attacks is replaced with a weapon or shield you are proficient with. The weapon or shield is appropriately sized for the animated object and they are considered proficient with it. The animated object can be disarmed of this weapon or shield, but the weapon or shield vanishes when the animation effect wears off. For one additional CP, you may replace any number of the animated object’s natural attacks with weapons or shields
+**Armed Object (Ex, 2 CP):** One of the animated object’s slam attacks is replaced with a weapon or shield you are proficient with. The weapon or shield is appropriately sized for the animated object and they are considered proficient with it. The animated object can be disarmed of this weapon or shield, but the weapon or shield vanishes when the animation effect wears off. For one additional CP, you may replace any number of the animated object’s natural attacks with weapons or shields
 
 **Armor (Ex; 2 CP):** The animated object is a suit of armor. When worn by another creature, it ceases to act as a creature of its own. Instead, any damage the wearer takes is dealt to the animated object instead; if the animated object loses all of its hit points, then the armor bonus it grants is reduced to +0. While worn, it grants its armor bonus to AC, as well as the benefits of any special abilities, as normal. As long as the animated object is still animated, it may be donned as a full-round action and removed as a swift action.
 
@@ -774,11 +774,11 @@ Animated objects can gain more CP by applying flaws, which hamper the animated o
 
 **Immobile (Ex; +2 CP):** The animated object has a base land speed of 0 feet, and may not have abilities or flaws applied which alter its base land speed or grant it new movement speeds.
 
-**Noncombatant (Ex; +1 CP):** The animated object does not possess a slam natural attack and cannot take hostile actions. If the animated object ever gains an Intelligence score, as a free action at the start of its turn, the animated object can attempt a Will save with a DC equal to the caster’s Enhancement sphere DC to defy this construction flaw for 1 round. [Gravecaller's HB]
+**Noncombatant (Ex; +1 CP):** The animated object does not possess a slam natural attack and cannot take hostile actions. If the animated object ever gains an Intelligence score, as a free action at the start of its turn, the animated object can attempt a Will save with a DC equal to the caster’s Enhancement sphere DC to defy this construction flaw for 1 round.
 
 **Slower (Ex, +1 CP):** One of the animated object’s movement modes decreases by – 10 feet.
 
-**Undead (Ex; +1 CP):** The animated object is made of corpse materials such as flesh or smooth bone; change its type to undead, adjust its Charisma score to be equal to its Strength score, replace construct traits (Ex) with undead immunities (Ex), and replaces its hardness with an equal amount of damage reduction bypassed by bludgeoning damage. It is still mindless. This flaw cannot be applied alongside the aberration flaw. **Special:** If the animated object also possesses the haunted construction flaw, the animated object is stunned for 1 round whenever it fails a saving throw against a positive energy effect. This bypassesses any immunities the animated object may possess. [Gravecaller's HB]
+**Undead (Ex; +1 CP):** The animated object is made of corpse materials such as flesh or smooth bone; change its type to undead, adjust its Charisma score to be equal to its Strength score, replace construct traits (Ex) with undead immunities (Ex), and replaces its hardness with an equal amount of damage reduction bypassed by bludgeoning damage. It is still mindless. This flaw cannot be applied alongside the aberration flaw. **Special:** If the animated object also possesses the haunted construction flaw, the animated object is stunned for 1 round whenever it fails a saving throw against a positive energy effect. This bypassesses any immunities the animated object may possess.
 
 ---
 

@@ -58,7 +58,7 @@ This +1 full plate is functional and plain. It bears no identifying marks, and r
 **Construction Requirements**
 Smith Magical Weapons And Armor, Craft Apparatus, Craft Marvelous Item, Enhancement sphere, Life sphere (Restore Health (cure), Restores Senses (cure), Restore Spirit (cure), Resuscitate, Revitalize); **Cost** 76,250 gp
 
-### Bard-King’s Doublet [DRS]
+### Bard-King’s Doublet
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -110,7 +110,7 @@ Smith Magical Weapons And Armor, Blood sphere (Eye Bleed); **Cost** 38,180 gp
 
 # New Shields
 
-### Scroll Of The Wise [TS:WAT]
+### Scroll Of The Wise
 
 **Aura** moderate; **CL** 6th
 **Slot** shield; **Price** 18,210 gp; **Weight** 15 lbs.
@@ -122,7 +122,7 @@ The scroll of the wise is an ornate +2 intercepting gold platedUE heavy steel sh
 **Construction Requirements**
 Smith Magical Weapons And Armor, Craft Spell Engine, Divination sphere (Augury (divine)); **Cost** 9,105 gp
 
-### Sheltering Shield [TS]
+### Sheltering Shield
 
 **Aura** strong Nature and War; **CL** 15th
 **Slot** none; **Price** 16,170 gp; **Weight** 15 lbs.
@@ -132,7 +132,7 @@ This +2 green-touched intercepting heavy steel shield is favored by defensive wa
 **Construction Requirements**
 Smith Magical Weapons And Armor, Nature sphere, War sphere; **Price** 8,085 gp
 
-### Sheltering Shield, Specialized [TS]
+### Sheltering Shield, Specialized
 
 **Aura** strong Conjuration, Nature and War; **CL** 15th
 **Slot** none; Price 25,170 gp; **Weight** 15 lbs.
@@ -179,7 +179,7 @@ This +1 buckler is thin and light, and has a pair of bronze dice embossed on the
 **Construction Requirements**
 Smith Magical Weapons And Armor, Craft Apparatus, Craft Marvelous Item, Enhancement sphere, Life sphere (Break Enchantment, Greater Resurrection (advanced), Make Whole (advanced), Restore Senses (cure), Restore Spirit (cure), Resurrection (advanced), Resuscitate), Protection sphere (Luck (succor)), War sphere; **Cost** 75,287.5 gp
 
-### Shield of the Vanguard [TS]
+### Shield of the Vanguard
 
 **Aura** faint Protection; **CL** 3rd
 **Slot** none; **Price** 2,600 gp; **Weight** 15 lbs.
@@ -227,7 +227,7 @@ Smith Magical Weapons And Armor, Creation sphere (Expanded Materials (material))
 
 # Special
 
-### Shield Expander [TS:WAT]
+### Shield Expander
 
 **Aura** moderate Light; **CL** 5th
 **Slot** special, see text; **Price** 20,000 gp; **Weight** 1 lb.
@@ -243,7 +243,7 @@ Smith Magical Weapons And Armor, Light sphere (Encompassing Light (light)); **Co
 
 Enchantment sets are packages of materials, special abilities, enhancements, and other effects that can be applied to any armor by a character with the relevant crafting feat(s). These are designed to make it easy to figure out the correct cost for the type of an armor a character chooses to wear (rather than making a bunch of similar effects for each of the most popular types). The cost of an enchantment set is added to the cost of the armor and includes the cost of masterwork upgrades. For example, a cost of +18,000 gp means an enchantment set adds 18,000 gp to the base cost of making the armor.
 
-### Ballistic Armor Enchantment Set [TS]
+### Ballistic Armor Enchantment Set
 
 **Aura** moderate Protection; **CL** 6th
 **Total Bonus** +3; **Price** +9,150 gp
@@ -253,7 +253,7 @@ Usually applied to the heaviest armor sets, ballistic armor provides a +2 enhanc
 **Construction Requirements**
 Smith Magical Weapons And Armor, Protection sphere; **Cost** +4,575 gp
 
-### Companion’s Ward Enchantment Set [TS]
+### Companion’s Ward Enchantment Set
 
 **Aura** strong Mind; **CL** 12th
 **Total Bonus** +5; **Price** +25,150 gp
@@ -263,7 +263,7 @@ Usually created for Tiny animal or supernatural helpers and familiars, including
 **Construction Requirements**
 Smith Magical Weapons And Armor, Mind sphere (Inspiration (charm)); **Cost** +12,575 gp
 
-### Duelist’s Armor Enchantment Set [TS]
+### Duelist’s Armor Enchantment Set
 
 **Aura** faint Life; **CL** 9th
 **Total Bonus** +4; **Price** +16,150 gp
@@ -273,7 +273,7 @@ This +3 stanchingUE armor is exceptionally good at limiting bleeding damage its 
 **Construction Requirements**
 Smith Magical Weapons And Armor, Life sphere; **Cost** +8,075 gp
 
-### Prismatic Armor Enchantment Set [TS]
+### Prismatic Armor Enchantment Set
 
 **Aura** moderate Protection; **CL** 3rd
 **Total Bonus** +1; **Price** +73,150 gp
@@ -283,7 +283,7 @@ Rare and wince-inducingly expensive, prismatic armor reduces the first ten point
 **Construction Requirements**
 Smith Magical Weapons And Armor, Protection sphere (Energy Resistance (aegis, ward)); **Cost** +36,575 gp
 
-### Sentinel’s Ward Enchantment Set [TS]
+### Sentinel’s Ward Enchantment Set
 
 **Aura** moderate Fate; **CL** 6th
 **Total Bonus** +2; **Price** +14,150 gp
@@ -293,7 +293,7 @@ The sentinel’s ward enchantment transforms a suit of armor into a +1 championU
 **Construction Requirements**
 Smith Magical Weapons And Armor, Forge Charm, Fate sphere; **Cost** +7,075 gp
 
-### Surprise Armor Enchantment Set [TS]
+### Surprise Armor Enchantment Set
 
 **Aura** strong Destruction and faint Warp; **CL** 12th/5th
 **Total Bonus** +1; **Price** +5,150 gp
@@ -325,7 +325,7 @@ This special ability may only be applied to any handheld magic item, including w
 
 **Aura** faint Telekinesis; **CL** 5th; Craft Implement Of Power or Smith Magical Weapons And Armor, Telekinesis sphere (Whirlwind Assembly); **Cost** +500 gp
 
-### Chaos Buffer [WM]
+### Chaos Buffer
 
 A suit of armor or shield with the chaos buffer enhancement applies its enhancement bonus to the wearer’s saves against wild magic effects.
 
@@ -343,7 +343,7 @@ The shield’s shield bonus to AC now also applies against ranged touch attacks.
 
 **Aura** moderate Protection; **CL** 10th; Smith Magical Weapons And Armor, Protection sphere; **Price** +1 bonus
 
-### Explicating [DRS]
+### Explicating
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -366,7 +366,7 @@ Although the armor is doing the concentrating, the magic still originates from t
 
 **Aura** moderate Mind; **CL** 10th; Smith Magical Weapons And Armor, Mind sphere (Project Thoughts (charm)); **Price** +4 bonus
 
-### Glimmering [DRS]
+### Glimmering
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -384,7 +384,7 @@ Green-touched armor or shields are overgrown with vines which soak up the damage
 
 **Aura** moderate Nature; **CL** 15th; Smith Magical Weapons And Armor, Nature sphere (Living Steel (advanced)); **Price** +1 bonus.
 
-### Informing [DRS]
+### Informing
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -451,7 +451,7 @@ The armor magically imparts to the wielder the name of the magical effect curren
 
 **Aura** faint Destruction plus aura of any stored spell or sphere effect; **CL** 5th; Smith Magical Weapons And Armor, Destruction sphere; **Price** +1 bonus
 
-### Supplying [TS]
+### Supplying
 
 This enchantment can be placed onto any armor or shield.
 

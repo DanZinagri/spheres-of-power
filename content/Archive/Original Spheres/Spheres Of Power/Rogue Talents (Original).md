@@ -21,7 +21,7 @@ When you regain hit points, you may make an attack as an immediate action. You m
 
 The action required to maintain your glamers and shapeshifts via concentration is reduced by one step.
 
-#### Arrow Charmer [Fey HB]
+#### Arrow Charmer
 
 A rogue with this talent can replace her Strength modifier with her Charisma modifier for determining the damage of her ranged weapon attacks, such as with a composite bow or a thrown weapon.
 

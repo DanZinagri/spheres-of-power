@@ -36,7 +36,7 @@ A metamagic apparatus in the middle of being upgraded can still be used as its w
 
 ---
 
-# New Metamagic Apparatuses [TS]
+# New Metamagic Apparatuses
 
 ### Aligned Metamagic Apparatus
 

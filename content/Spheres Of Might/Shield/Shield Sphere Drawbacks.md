@@ -14,19 +14,19 @@ The [utility start] tag is described in Spheres of Guile. It is only possible to
 
 **Piecemeal Utility Starts:** If you have a progression or optional replacement that grants a [utility] combat talent or a [utility] magic talent, you can use it to gain a base sphere if you apply a drawback or combination of drawbacks that removes all of that base sphere’s benefits other than skill ranks and [utility] talents (and actions necessary to use such talents).
 
-#### Aggressive Defense [SA:MD2]
+#### Aggressive Defense
 
 You do not increase your shield bonus to AC when using active defense. You gain Punch Block with this drawback, and must apply its effects whenever you use active defense.
 
 **Incompatible:** Hostile Shield, Mobile Bulwark, Passive Blocker.
 
-#### Hostile Shield [SA:MD]
+#### Hostile Shield
 
 You do not gain the active defense ability and cannot select (deflect) talents or other talents that rely on active defense. You gain Bashing Shield with this drawback.
 
 **Incompatible:** Passive Blocker.
 
-#### Mobile Bulwark [SA:MD2]
+#### Mobile Bulwark
 
 You do not gain the active defense ability and cannot select (deflect) talents or other talents that rely on active defense. You gain Flexible Cover with this drawback.
 

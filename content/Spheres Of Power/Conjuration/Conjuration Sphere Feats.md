@@ -7,7 +7,7 @@ parent: "[[Conjuration]]"
 
 **Note:** Companion feats can be taken either by a Conjuration sphere companion or by a caster with the Conjuration sphere. If taken by the caster, the feat only applies to a single companion that qualifies for it, but may be taken multiple times. The feat may not be reassigned to a different companion for as long as the chosen companion is in your service. The effects do not stack unless noted, each time one is taken it applies to a different companion. If taken by a companion, they may only be taken once unless noted. Any caster level prerequisite must be met by the caster.
 
-#### Ability Channel [Alienist HB]
+#### Ability Channel
 
 **Prerequisites:** Conjuration sphere (Spell Conduit), Spell Channel.
 
@@ -23,7 +23,7 @@ If you possess the charm ability of the Mind sphere, you may cast a charm, payin
 
 If you possess the ward ability of the Protection sphere, you may integrate a barrier into your circle, paying 1 spell point plus any additional cost for improving the ward. Doing so prevents the circle from being broken until you choose to end the ward or the barrier is destroyed.
 
-#### Altered Summons [Dual Sphere] [3PP]
+#### Altered Summons [Dual Sphere]
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -43,7 +43,7 @@ If you possess the ward ability of the Protection sphere, you may integrate a ba
 
 **Benefit:** When you choose to concentrate on a sphere effect, as a swift action you may pass concentration on that sphere effect to your companion within close range (based on your Conjuration caster level). You must have line of effect to the companion to do so. As long as the companion remains within close range, you may resume concentrating on the effect at any time as a swift action. A companion may not concentrate to maintain the effect that summoned it, nor on any effect to which it lacks line of effect. If the companion leaves close range, it may continue to concentrate on the effect, but you may not resume concentrating on it yourself. A mindless companion may not assume concentration of a sphere effect. Treat the companion’s Hit Dice as levels in a caster class for determining its bonus on concentration checks. If the companion does not have a casting ability modifier, use its Charisma to determine its concentration check bonus.
 
-#### Deadcaller [Gravecaller's HB]
+#### Deadcaller
 
 The otherworldly are called like the departed, for little distinguishes the transient soul.
 
@@ -65,7 +65,7 @@ If you possess the Conjuration sphere Call The Departed talent, you may reduce t
 
 **Benefit:** Whenever you summon a companion, you may spend one spell point to enhance them as part of the same standard action. If you do so, the enhancement lasts for the full duration of the summoning effect.
 
-#### Fated Summons (Dual Sphere) [3PP]
+#### Fated Summons (Dual Sphere)
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -107,7 +107,7 @@ If directing a companion with the puppet companion archetype, you may apply the 
 
 **Benefit:** Your animal companion, animal allies, familiar, eidolon, and Conjuration companions can spend your hero points as if they were their own.
 
-#### Homogenous Companions [BaP]
+#### Homogenous Companions
 
 **Prerequisites:** Conjuration sphere (Extra Companion, any (form) or (type) talent).
 
@@ -123,7 +123,7 @@ Whenever you rest and regain spell points, you may change the (form) or (type) t
 
 **Benefit:** When your companion is grappling a creature, it may attempt to use its swallow whole ability as a free action. It gains a +2 competence bonus to CMB and CMD to make and resist grapple checks relating to the swallow whole ability.
 
-#### Improved Explosive Companion [3PP]
+#### Improved Explosive Companion
 
 **Prerequisites:** Conjuration sphere (Explosive Companion)
 
@@ -155,7 +155,7 @@ You regain the benefits of the selected items when the summon ends. You still co
 
 **Benefit:** Your companion may manifest itself as a move action. While manifested, your companion takes full damage from attacks and magic originating from corporeal creatures and deals full damage with its attacks and magic against corporeal creatures. This does not affect your companion’s ability to deal damage to and receive damage from incorporeal creatures. Your companion may end this effect as a move action.
 
-#### Merged Summons (Dual Sphere) [3PP]
+#### Merged Summons (Dual Sphere)
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -169,7 +169,7 @@ You regain the benefits of the selected items when the summon ends. You still co
 
 **Benefit:** You may use your casting ability modifier in place of your Charisma modifier when determining the DCs for Charisma checks made by called creatures and for attempting opposed Charisma checks against called creatures when using the Call Planar Creature advanced talent.
 
-#### Spell Channel (Companion) [Apoc]
+#### Spell Channel (Companion)
 
 *Source: [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)*
 
@@ -177,7 +177,7 @@ You regain the benefits of the selected items when the summon ends. You still co
 
 **Benefit:** Your ability to channel spells through your companion is expanded. While your companion is within range of your Spell Conduit ability, you can treat it as the point of origin for any spell that you cast.
 
-#### Technical Companion (Companion) [3PP]
+#### Technical Companion (Companion)
 
 **Prerequisites:** Conjuration Sphere, Technique Crafting
 

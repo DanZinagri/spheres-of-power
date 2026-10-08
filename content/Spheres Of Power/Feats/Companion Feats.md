@@ -44,7 +44,7 @@ The feat may not be reassigned to a different companion for as long as the chose
 
 **Benefit:** Your companion may manifest itself as a move action. While manifested, your companion takes full damage from attacks and magic originating from corporeal creatures and deals full damage with its attacks and magic against corporeal creatures. This does not affect your companion’s ability to deal damage to and receive damage from incorporeal creatures. Your companion may end this effect as a move action.
 
-#### Spell Channel (Companion) [Apoc]
+#### Spell Channel (Companion)
 
 *Source: [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)*
 

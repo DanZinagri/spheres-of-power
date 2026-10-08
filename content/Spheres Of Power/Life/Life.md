@@ -142,7 +142,7 @@ You may draw on this stored healing to heal targets exactly as if using your cur
 
 When placing an invigorate on a target, add your casting ability modifier to the amount of temporary hit points granted, and increase the duration to 1 hour per caster level. You may spend a spell point when using invigorate to allow your invigorate to increase a target’s effective hit point total to reach beyond their usual hit point total, as is normal with temporary hit points. This means you may use this talent to grant an invigorate to a creature already at its maximum hit points.
 
-#### Greater Restore [Warden]
+#### Greater Restore
 
 When using your restore ability, you may spend an additional spell point to select two options when using restore instead of one (such as restoring both mind and soul). If you possess a talent that grants special applications of restore, you may also select from the granted special applications too.
 
@@ -164,7 +164,7 @@ Whenever you remove a condition completely from a creature using your restore ab
 
 Whenever an ally regains hit points from you using your cure ability, they gain DR X/- equal to 1/2 your caster level or the number of hit points regained (whichever is less) for 2 rounds. This is not compatible with any form of fast healing you may grant.
 
-#### Lingering Vitality [Warden]
+#### Lingering Vitality
 
 Whenever a creature benefiting from one of your (vitality) talents would lose its benefits due to taking damage from failing a saving throw or being hit with an attack roll, the benefits of the (vitality) talent lasts for 1 additional round before ending.
 
@@ -206,7 +206,7 @@ The inflicted negative levels increase by 1 die size per 5 caster levels (1d2, 1
 
 You may spend an additional spell point to use your cure or restore ability on yourself as a swift action. You cannot use this to shorten an ability that has a casting time of more than a standard action, and you cannot affect any creature other than yourself with this ability. You may spend an additional spell point to do this even if you are normally unable to cast due to a condition you can restore.
 
-#### Stabilizing Invigoration [Warden]
+#### Stabilizing Invigoration
 
 In addition to its other effects, using invigorate immediately stabilizes a dying creature, and you may immediately attempt a Heal check as a free action to treat any bleed damage the creature is suffering from, with your Heal skill modifier for this check being your caster level + your casting ability modifier instead of your normal bonuses (if higher), as if using first aid.
 
@@ -218,7 +218,7 @@ By spending a spell point, you can use invigorate as an immediate action. If don
 
 Whenever you successfully hit a creature with at least half as many Hit Dice as your character level with an attack that requires an attack roll, you may spend an additional spell point to use a Life sphere ability as a swift action on any willing creature within range. If the attack was a critical hit, knocked the target creature unconscious, or reduced the enemy to 0 or fewer hit points, you may use the Life sphere ability without spending the additional spell point required to use this talent.
 
-#### Violent Recuperation [Alienist HB]
+#### Violent Recuperation
 
 Whenever you would have damage dealt to you that is completely negated through damage reduction, energy resistance, or energy immunity, you may use a Life sphere ability as an immediate action on any willing creature within range. This sphere ability costs spell points as normal. You cannot benefit from this talent as a result of an effect dealing damage to you if you have previously used that effect to trigger this talent within the last minute (for example, if you negated fire damage from alchemist’s fire, you would only activate this ability the first time that particular instance of alchemist’s fire damaged you. You could activate this talent again if you negated damage from another vial of alchemist’s fire or a breath weapon that deals fire damage next turn).
 
@@ -254,7 +254,7 @@ Your cure ability heals an additional 1 hit point per caster level. When restori
 
 Your Life magic gives the target a fevered strength. This grants the target a +2 circumstance bonus on attack and damage rolls with weapon attacks.
 
-#### Calming Vitality (vitality) [Warden]
+#### Calming Vitality (vitality)
 
 Your Life magic instills the target with tranquility and harmony. This grants the target a +4 morale bonus to concentration checks.
 
@@ -262,11 +262,11 @@ Your Life magic instills the target with tranquility and harmony. This grants th
 
 Your Life magic makes your ally restless and full of energy, granting them a +30 feet circumstance bonus to all forms of movement.
 
-#### High On Vitality (vitality) [Jester's HB]
+#### High On Vitality (vitality)
 
 Your Life magic alleviates the target’s worries, making them feel lighter. This causes the target to float up to 6 inches above the ground, allowing the target to ignore difficult terrain and ground-based hazards (such as caltrops).
 
-#### Securing Vitality (vitality) [Warden]
+#### Securing Vitality (vitality)
 
 Your Life magic instills the target with stability and strength. This grants the target a +2 circumstance bonus to CMB and CMD.
 
@@ -280,7 +280,7 @@ Your ally receives a +2 circumstance bonus to AC and saving throws.
 
 Advanced talents are part of an optional rule and are only available with GM permission.
 
-#### Feline Good [Catgirl HB]
+#### Feline Good
 
 The recipients of your life magic are momentarily protected by your affection and care, the harsh effects momentarily stalled as your magic gently caresses them.
 
@@ -332,7 +332,7 @@ Missing body parts are not restored, although the wounds are sealed and do not b
 
 When you bring a target back to life with your Resurrection talent, they only suffer 1 permanent negative level, they may have been dead for up to 10 years per caster level, and they can be missing vital components; indeed, you need only a small piece of their body (a pinch of ash, a finger, etc.) to bring them back to life and fully restore their body to its complete form.
 
-#### Resurrection, Supreme [Warden]
+#### Resurrection, Supreme
 
 **Prerequisites:** Life sphere (Break Enchantment, Greater Resurrection (advanced), Make Whole (advanced), Restore Senses (cure), Restore Spirit (cure), Resurrection (advanced), Resuscitate), caster level 20th.
 
@@ -340,7 +340,7 @@ When you bring a target back to life with your Resurrection talent, they suffer 
 
 You may also resurrect creatures whose bodies have been destroyed completely, provided that you may specifically identify the deceased in some fashion. Additionally, you may spend an additional 2 spell points to also allow the Resurrection to count as using a miracle or wish spell for creatures that require such an effect to be resurrected, in addition to being able to resurrect creatures regardless of how long they have been dead for.
 
-#### Soul Consumption [DbH]
+#### Soul Consumption
 
 **Prerequisites:** Death sphere (Create Soul Gem (advanced)), Life sphere (Revitalize), caster level 5th.
 

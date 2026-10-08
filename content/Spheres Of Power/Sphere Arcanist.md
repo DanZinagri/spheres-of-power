@@ -77,25 +77,25 @@ At 20th level, the sphere arcanist may spend arcane points instead of spell poin
 
 # New Exploits
 
-#### Encyclopedic Preparation (Ex) [Spheres of Guile]
+#### Encyclopedic Preparation (Ex)
 
 The arcanist gains Improved Planning as a bonus feat even if she does not meet the prerequisites.
 
-#### Expanded Readiness [plan] (Ex) [Spheres of Guile]
+#### Expanded Readiness [plan] (Ex)
 
 When using the quick study exploit, the arcanist may spend a plan to swap out one additional spell, as if she had used quick study an additional time. This exploit counts as a [plan] talent toward the number of plans the arcanist can prepare and to meet prerequisites. The arcanist must have quick study to choose this exploit. This exploit may be taken a second time at 9th level and a third time at 17th level.
 
-#### Overcome Fault (Ex) [Alienist HB]
+#### Overcome Fault (Ex)
 
 Whenever the arcanist uses a magic talent, she may spend an arcane pool point to ignore any one drawback associated with her casting tradition (if a drawback counts as more than one, the arcanist must spend additional arcane pool points equal to the number of drawbacks it counts as). When she does so, she does not benefit from any drawback feats tied to that drawback. The arcanist may spend multiple points on a single effect to ignore multiple drawbacks.
 
-#### Well Of Shifting Radiance (requires Light sphere) (Su) [BaP]
+#### Well Of Shifting Radiance (requires Light sphere) (Su)
 
 As long as the arcanist has at least 1 point in her arcane reservoir, she may cause herself to glow, or suppress or reactivate any glows she placed on herself, as a free action. The arcanist may only cause herself to glow with this exploit once per round and must use a separate standard action to cause a glow effect she places on herself with this exploit to shed bright light.
 
 As a move action, the arcanist may spend 1 point from her arcane reservoir to choose one glow effect within her Light sphere casting range that she created. The chosen glow ends on the creature or object it is attached to and its effects are transferred to another target creature or object within your Light sphere casting range, causing that target to to glow with the original glow’s remaining duration and (light) talents. An unwilling target may attempt a Will save to prevent the glow effect from being transferred to them. If an unwilling target succeeds at its saving throw, the glow stays attached to its original target. The arcanist cannot transfer glows created with Dancing Lights onto creatures or objects.
 
-#### Wild Secret (Ex) [Alienist HB]
+#### Wild Secret (Ex)
 
 The arcanist can select a wild magic feat as a bonus feat. She must meet the prerequisites of this feat. Each day when she regains spell points, the arcanist can expend 1 point from her arcane reservoir to exchange this bonus feat for another wild magic feat as long as she meets the prerequisites of the new feat.
 
@@ -105,17 +105,17 @@ The arcanist can select a wild magic feat as a bonus feat. She must meet the pre
 
 The following greater exploits are available to the arcanist class:
 
-#### Integrate Knowledge (Ex) [Alienist HB]
+#### Integrate Knowledge (Ex)
 
 (requires quick study and either eidetic arcana or suffering knowledge)
 
 When the arcanist uses quick study to exchange one of her moldable talents for a talent she may currently replicate through eidetic arcana or suffering knowledge, she may do so as a move action rather than a full-round action).
 
-#### Magical Contingency (Su) [Spheres of Guile]
+#### Magical Contingency (Su)
 
 This exploit functions as the magical contingency mastermind trick, save that the arcanist may use it in conjunction with a spell effect she can create with her arcanist abilities as an alternative to using it with an item. If she takes this exploit a second time, she may instead have this exploit function as the planned magical contingency mastermind trick.
 
-#### Scholar Of Arcane (Ex) [BaP]
+#### Scholar Of Arcane (Ex)
 
 The arcanist can select a feat that has a magic sphere as a prerequisite as a bonus feat. She must meet the prerequisites of this feat. Each day when she regains spell points, the arcanist can expend 1 point from her arcane reservoir to exchange this bonus feat for another feat that has a magic sphere as a prerequisite, as long as she meets the prerequisites of the new feat.
 

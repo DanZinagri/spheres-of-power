@@ -106,7 +106,7 @@ A creature that enters or begins their turn in a corralled square takes a -1 pen
 
 When used with the Vertical Dredging talent, any corralled cubes that do not touch the ground only affect flying creatures.
 
-#### Early Hunt [plan] [DRS]
+#### Early Hunt [plan]
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -124,7 +124,7 @@ If you possess the (harvest) package, whenever you harvest a component from a cr
 
 You gain one Survivalism sphere package which you do not already possess. You also unlock skill leverage with two more skills from among the options for the sphere (in addition to the other benefits associated with gaining a new package).
 
-#### Humane Survivalist [DRS]
+#### Humane Survivalist
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -142,7 +142,7 @@ You may adopt this approach as a swift action. When you adopt this approach, you
 
 You learn the parts that can be harvested from your mark, in addition to what terrain they are native to. You gain a +1 insight bonus to Survival checks to track your mark, and to harvest and refine parts from your mark, increasing by 1 per 4 ranks in the associated skill you possess. Additionally, when observing a marked creature's tracks, you can attempt to assess proficiency, assess health, identify the creature, or sense the goal of the marked creature; you may use Knowledge (nature) or this sphere's associated skill instead of the normal skill associated with these skill uses (except when identifying the creature), but doing so causes you to take a -5 penalty when doing so unless you spend 1 use of skill leverage.
 
-#### Meticulous Hunter [DRS]
+#### Meticulous Hunter
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -164,7 +164,7 @@ Additionally, you can choose to prep up to a 20-foot radius around the shelter w
 
 As part of preparing this plan, you must have been able to be near the chosen area for at least 10 minutes. When you reveal this plan, you immediately dredge an area that you can see, selecting an amount of squares as if you had dredged as a full-round action, lasting for 1 round per rank in the associated skill you possess.
 
-#### Subduer [DRS]
+#### Subduer
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -182,7 +182,7 @@ When you reveal this plan, you retrieve items worth up to 100 gp per rank in the
 
 You may adopt this approach as a standard action, choosing an option from a (ground) talent you possess. At the end of each turn you maintain this approach, you can dredge an adjacent square as a free action. This approach must be maintained each turn as a swift action, ending the approach if you fail to maintain the approach. You may only have a number of squares dredged from this talent equal to your operative ability modifier. When you abandon this approach, either willingly or as a failure to maintain it, all currently dredged squares return to normal.
 
-#### Tandem Bushcraft [DRS]
+#### Tandem Bushcraft
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -224,7 +224,7 @@ You refine a creature’s bones by attaching them to your armor or clothing, gra
 
 **Talisman:** Any creature that sees the bone talisman’s wearer must succeed at a Will saving throw or lose their immunity to mind-affecting fear effects originating from the wearer of the talisman, instead gaining a +4 bonus to saving throws against fear and increasing the DC to demoralize them by the same amount. This is not a fear effect. If a creature succeeds its save, it becomes immune to the creator’s bone talismans for 24 hours.
 
-#### Coat (harvest) [DRS]
+#### Coat (harvest)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -269,7 +269,7 @@ You refine the hide of a creature, granting a single form of damage reduction or
 
 **Talisman:** The hide talisman’s wearer increases the luck bonus to saving throws normally granted by a talisman by 1 + 1 per 10 ranks in the associated skill you possess.
 
-#### Ichor (harvest) [DRS]
+#### Ichor (harvest)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -299,7 +299,7 @@ You refine the lifeblood of a creature, which functions as if it were a healer's
 
 **Talisman:** The lifeblood talisman’s wearer gains increased stamina, granting a +2 alchemical bonus to Constitution checks, increases by 1 for every 3 ranks in this sphere’s associated skill you possess. Additionally, the wearer is treated as if they had received long-term care whenever they have 8 hours of rest; if they already receive long-term care, they instead remove all ability damage affecting their physical ability scores.
 
-#### Meat (harvest) [utility] [DRS]
+#### Meat (harvest) [utility]
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -337,7 +337,7 @@ You refine a creature’s scent glands, pheromones, or some other attracting sce
 
 **Talisman:** The musk talisman’s wearer gains the regular benefits of refined musk, in addition to granting creatures adjacent to them a +2 alchemical bonus to saving throws against the sickened and nauseated conditions.
 
-#### Pattern (harvest) [utility] [DRS]
+#### Pattern (harvest) [utility]
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -351,7 +351,7 @@ The refined pattern can also be used to disguise as a creature of the component�
 
 **Talisman:** The pattern talisman’s wearer naturally draws attention to themselves, gaining a +3 circumstance bonus to checks that make creatures distracted or impressed towards them (such as an Intimidate check to pose a menace, a Perform check to entertain, or any impressive display of skill), which increases by 1 for every 5 ranks in the associated skill you possess.
 
-#### Reagent (harvest) [DRS]
+#### Reagent (harvest)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -371,7 +371,7 @@ You harvest the parts of a creature that are highly magical, such as a unicorn�
 
 **Potency:** The bonuses granted by the reagent talisman increases by 1.
 
-#### Scale (harvest) [DRS]
+#### Scale (harvest)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -385,7 +385,7 @@ You refine the scales (or similarly hardy plates) of a creature, which are usual
 
 **Potency:** The bonus granted by the scale talisman increases by 1 + 1 per 5 associated skill ranks you possess.
 
-#### Souvenir (harvest) [DRS]
+#### Souvenir (harvest)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -409,7 +409,7 @@ You refine the particularly odorous parts of a creature, like specific glands or
 
 **Talisman:** The stench talisman’s wearer exudes a palpable, yet barely tolerable odor, granting creatures adjacent to the wearer a -2 penalty to saving throws against the sickened and nauseated conditions, and increases the penalties associated with the sickened condition by 1.
 
-#### Trophy (harvest) [utility] [DRS]
+#### Trophy (harvest) [utility]
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -421,7 +421,7 @@ A refined trophy can be used to outwit a creature by revealing it to them, as lo
 
 **Talisman:** A trophy talisman’s wearer can assess the proficiency of creature’s of the component’s associated creature type as part of the same action to recall information about such creatures, and they can do so without having to observe such a creature for at least 3 rounds. Additionally, the wearer gains a +3 insight bonus to checks made to assess the proficiency of creature’s of the component’s associated creature type.
 
-#### Weapon (harvest) [DRS]
+#### Weapon (harvest)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -462,7 +462,7 @@ In addition, if you possess the Vertical Dredging talent, any cubes you dredge h
 
 In addition, if you possess the Vertical Dredging talent, the dredged area also provides its bonus to Climb checks.
 
-#### Change Maneuverability (ground) [LotS]
+#### Change Maneuverability (ground)
 
 When you use dredge, you can choose one of the following options to apply to the area:
 
@@ -526,7 +526,7 @@ Additionally, whenever a creature within the dredged area successfully bares the
 
 **Tense Atmosphere:** Creatures within the dredged area reduce the DC required to inflict them with disorientation effects (including saving throw DCs) by 2. Additionally, creatures within the dredged area gain a +2 morale bonus to Perform checks attempted to entertain (dispirit or spook). The DC reductions and bonuses increase by 1 per 4 ranks in the associated skill you possess.
 
-#### Variate Flow (ground) [DRS]
+#### Variate Flow (ground)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -540,7 +540,7 @@ When you use dredge, you can choose one of the following options to apply to the
 
 # Exceptional Talents
 
-#### Animate Earth (ground) (Su) [DRS]
+#### Animate Earth (ground) (Su)
 
 *Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
@@ -552,7 +552,7 @@ When you apply a dredge option granted by the Alter Stability (ground) talent, i
 
 **Turbulent Terrain:** If you choose destabilizing terrain, the terrain becomes especially turbulent, causing it to actually shift and churn. Creatures within the dredged area that attempts a saving throw or skill check to not become prone suffers a -4 penalty to the attempt. Additionally, creatures that start their turn within the dredged area are moved 15 feet in a random direction within the dredged area (a successful Reflex save reduces this forced movement to 5 feet); this movement does not provoke attacks of opportunity.
 
-#### Astral Preparation (Su) [DRS]
+#### Astral Preparation (Su)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -582,7 +582,7 @@ A curse inflicted on a creature using this talent cannot be harvested and refine
 
 **Talisman:** The cursed talisman’s wearer gains a +4 luck bonus to saving throws against curses; if the saving throw would already benefit from the base talisman, the wearer can instead roll twice and take the highest result. Additionally, the talisman functions as a cursed effigy as above but has a number of uses equal to your operative modifier. Whenever the wearer would be damaged by an attack and the attacker is within 30 feet, they can expend one the uses from the talisman to expose it to the attacker (Will negates).
 
-#### Entrails (harvest) (Su) [utility] [DRS]
+#### Entrails (harvest) (Su) [utility]
 
 *Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
@@ -661,7 +661,7 @@ At 10 ranks in the associated skill, you can choose to instead have the dredged 
 
 At 10 ranks in the associated skill, you can choose to instead have the dredged area light level increase by two steps. Normal light and bright light becomes equivalent to that of daylight.
 
-#### Soul (harvest) (Su) [DRS]
+#### Soul (harvest) (Su)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -681,7 +681,7 @@ Unlike a normal component, a refined soul persists indefinitely without interven
 
 **Potency:** The soul talisman’s wearer instead adds twice your associated ranks to their Constitution score for determining when their negative hit point total would kill them. Additionally, when they are restored to life with the soul talisman, they are restored to 10% of their hit point maximum.
 
-#### Visceral Survivalist (Ex) [DRS]
+#### Visceral Survivalist (Ex)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 

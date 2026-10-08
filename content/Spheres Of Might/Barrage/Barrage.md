@@ -29,7 +29,7 @@ Some talents are marked (blitz). You may apply a maximum of one (blitz) per extr
 
 # Barrage Talents
 
-#### 100,000 Arrows (stance) [Youxia HB]
+#### 100,000 Arrows (stance)
 
 While in this stance, whenever you use the barrage action you can expend twice the number of thrown weapons or ammunition for each ranged attack while taking a -2 penalty to those attack rolls. If you do, striking a target for the first time in the barrage counts as striking a target twice with the same barrage for the purposes of barrage talents.
 
@@ -67,7 +67,7 @@ If you possess the Vigilant Sharpshooter talent, you may use an attack of opport
 
 Whenever you move at least 10 ft. but no more than half your total speed using a move action on your turn, you regain your martial focus.
 
-#### Shove And Shoot [Apoc]
+#### Shove And Shoot
 
 When you make a barrage special attack action, you may forgo making your first ranged attack and instead make a Bull Rush combat maneuver as a free action against a creature within your natural reach. This does not provoke an attack of opportunity. Your barrage penalty to attack rolls also applies to your CMB with this combat maneuver. **Associated Feat:** Stabbing Shot.
 
@@ -101,7 +101,7 @@ You are accurate enough to follow one shot with another, striking the same spot 
 
 You may intentionally miss with your extra attack in order to manipulate your opponent’s movements. Rather than make this extra attack, you instead may make a feint check at range against your target before making any other attacks as part of the barrage, including with the original attack action. If successful, the target loses its Dexterity bonus to AC against your next attack, and you may force the target to take a 5-foot step that does not provoke an attack of opportunity in any direction that does not place it in a spot that is intrinsically dangerous.
 
-#### Double Tap (blitz) [Jester's HB]
+#### Double Tap (blitz)
 
 You fire an additional piece of ammunition, striking the target twice as hard where they've already been damaged. When a target is struck by an additional attack modified by this (blitz), the target also takes an additional +1 precision damage for each attack that previously damaged that target as part of this barrage. This additional damage increases by +1 for every 7 base attack bonus you possess. A character with 14 BAB would deal +3 damage on the second successful attack, then +6, +9, and so on.
 
@@ -111,7 +111,7 @@ You expend an additional piece of ammunition when using this (blitz).
 
 When striking a target twice with the same barrage, the target has their initiative check reduced by -5 when determining when they act in this combat, changing that creature’s order in initiative for a number of rounds equal to your practitioner modifier. If the creature hasn’t made an initiative check yet, their initiative roll takes this penalty as long as this initiative check is made within 1 minute. This (blitz) does not stack with itself.
 
-#### Herding Fusillade (blitz) [DRS]
+#### Herding Fusillade (blitz)
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -129,7 +129,7 @@ When making a barrage, you may use an extra attack to strike one of your other a
 
 When performing a barrage, you may make 2 extra attacks instead of one, but must target the same creature with both of these extra attacks. However, your shots are wild, and the target can easily duck, causing both of your extra attacks to miss. However, doing so causes the target to have its movement speed reduced by half and to suffer a -3 penalty to Perception checks and to all attack rolls until the end of their next round, -1 for each additional extra attack augmented with the suppressing fire (blitz) that targets this creature. The target can choose not to avoid these attacks, in which case you may roll the attacks as normal, and the target doesn’t suffer the penalties.
 
-#### Warning Shot (blitz) [DRS]
+#### Warning Shot (blitz)
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -157,7 +157,7 @@ You may take this talent a total of three times, up to once per 5 base attack bo
 
 Using Cone of Death is the equivalent of making 10 attacks with ranged or thrown weapons; if you do not have enough ammunition or are incapable of reloading your weapon or drawing weapons as a free action, you cannot use Cone of Death. Special abilities, features, or other enhancements (special ammunition, enhancement bonuses, etc.) only apply to Cone of Death if all 10 ranged or thrown attacks would be augmented by them.
 
-#### Death Blossom [Youxia HB]
+#### Death Blossom
 
 **Prerequisites:** Barrage sphere (Cone Of Death), base attack bonus +5.
 

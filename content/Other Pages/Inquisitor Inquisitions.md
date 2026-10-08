@@ -8,7 +8,7 @@ searchtype: Class Options
 
 The following are new inquisitions available to inquisitors and other classes which may gain inquisitions:
 
-### Conquest Inquisition [Conq. HB]
+### Conquest Inquisition
 
 **Deities:** Any deity with the Tactics, Travel, or War domains.
 
@@ -22,7 +22,7 @@ At 8th level, you can both speak and be understood, as if using tongues. These m
 
 **For the Cause (Sp):** At 8th level, you gain Change of Heart (Martial Arts Handbook pg. 26) as a bonus feat (even if you do not meet the prerequisites for the feat). If you already possess Change of Heart, you gain any feat you qualify for. Whenever you successfully influence an opponent’s attitude using the Change of Heart feat, as an immediate action, you may cast atonement as a spell-like ability, but may only use the “Redemption or Temptation” option against the target. If the target refuses the atonement spell, you gain a +1 sacred or profane bonus bonus on all attack rolls, saving throws, and skill checks against any opponent sharing that target’s nationality, ideology, organization, or community for 1 minute. The type of bonus depends on your alignment—if you are neither good nor evil, you must choose either sacred or profane the first time you receive this bonus, and this choice cannot be changed.
 
-### Hunting Party Inquisition [Conq. HB]
+### Hunting Party Inquisition
 
 **Deities:** Any deity with the Animal or Community domains.
 

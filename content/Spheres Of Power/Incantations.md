@@ -71,7 +71,7 @@ Time spent during the interruption of an incantation does not count toward its c
 
 **Taking 10:** As long as you are not threatened or distracted, you may take 10. However, incantations with backlash components or similarly harmful aspects count as threats, preventing you from taking 10. You may never take 20 when attempting to complete an incantation.
 
-### Escalating Incantations [Cata. HB]
+### Escalating Incantations
 
 Incantations are oftentimes singular events, but multiple instances of the same incantation can sometimes build upon each other. If an incantation can be escalated, it can be performed multiple times in separate locations within a certain time interval to achieve a greater effect. When an incantation is completed, those performing the incantation can choose whether to activate the incantation’s base effect or to delay the incantation’s effects until the other incantations needed to create an escalated effect are completed. The new incantations presented below utilize the mechanic of escalation, while several existing incantations have been revised to accommodate them.
 
@@ -231,7 +231,7 @@ Some incantations use opposed ability or skill checks instead of checks with sta
 
 # Sample Incantations
 
-### Blacken the Sky [Cata. HB]
+### Blacken the Sky
 
 You wipe the sun from the sky, setting down an endless night over the area.
 **Sphere** Darkness; **Level** 8
@@ -254,7 +254,7 @@ In order for this incantation to be ended, the obsidian spires used in its perfo
 
 **Escalation** If this incantation is completed in 5 locations over the course of a year (being performed under a solar eclipse in each instance), the range of the effect extends to the entire planet. In addition, light sources are repressed, with all forms of light (including magic) increasing illumination by one step less than they normally would (minimum 0 stages).
 
-### Blood Moon [Cata. HB]
+### Blood Moon
 
 As warped magic sets in across the land, the people and creatures turn against each other.
 **Sphere** Mind; **Level** 7
@@ -342,7 +342,7 @@ The primary performer and any secondary performers become exhausted immediately 
 **Failure**
 The planar rift or tear instead opens further, causing 2d4+1 creatures native to the other plane to appear (whose individual CR is equal to the highest level performer +1), which are unfriendly (if not hostile) toward the performers.
 
-### Dissolution of Spirit [Cata. HB]
+### Dissolution of Spirit
 
 Legends exist of people who lack fear or feeling, beings whose resolve cannot be corrupted but whose will has been completely swallowed. This state is said to be obtainable through a powerful ritual.
 **Sphere** Mind; **Level** 6th
@@ -362,7 +362,7 @@ Commonly used to create unflinching and unrelenting soldiers, workers, or discip
 
 **Escalation** If this incantation is performed at least four times over the course of a month in different locations at least 10 miles apart from each other, it can affect any number of creatures contained within the shape created by the sites of the incantations and does not require a chain for each creature, but rather requires a special chain used in the incantation worth 20,000 gp. The final incantation must be performed in the very center of the shape.
 
-### Eternal Spirit’s Corruption [SB:UatIF]
+### Eternal Spirit’s Corruption
 
 The spirit is corrupted, causing it to wander restlessly when divested of its body, though tied to its phylactery.
 **Sphere** Death; **Level** 8
@@ -421,7 +421,7 @@ The primary performer takes 4 negative levels (-1 per secondary performer, of wh
 **Failure**
 If you fail 2 consecutive checks, the incantation still functions but only affects a radius of 600 feet with only 50 hit points per round, with a duration of 1 hour. In addition, the primary performer takes 4 negative levels and all secondary performers take 2 negative levels each.
 
-### Gamble with Lady Luck [SB:UatIF]
+### Gamble with Lady Luck
 
 The clatter of dice, the shuffling of cards. A direct challenge to a queen of games.
 **Sphere** Fate; **Level** 8
@@ -446,7 +446,7 @@ After 13 hours, if the primary caster has succeeded on at least 7 of the 13 chec
 
 **Failure** The primary caster becomes permanently cursed with the evasor ex fortuna lich’s luck’s abandon special attack. This curse cannot be removed by any means and bypasses any immunity to curses the primary caster may possess and often leads to a quick death.
 
-### Heart of Death [SB:UatIF]
+### Heart of Death
 
 The still beating heart, placed in its case, to pump the blood that is no more for days eternal.
 **Sphere** Death; **Level** 8
@@ -467,7 +467,7 @@ When the incantation is completed, the still-beating heart is forever sealed wit
 
 **Special** A lich’s phylactery completed using this incantation can be detected by lifesense, as the still-beating heart continues to pump magical essence within the phylactery.
 
-### Lifesurge [Cata. HB]
+### Lifesurge
 
 Life energies swell uncontrollably throughout the area.
 **Sphere** Life; **Level** 8
@@ -498,7 +498,7 @@ In order to end this incantation’s effects, the corpse used in the incantation
 **Effect** 1d4 Dex damage and 1d4 Cha damage and target is fatigues; **Cure** 3 consecutive saves
 Whenever a creature would take Dexterity or Charisma damage exceeding their respective ability scores, their body is destroyed and 1d4 living creatures emerge from their corpse. These creatures can be of any type (oftentimes embodying certain personality elements of their "host") but cannot have a CR greater than the afflicted creature's CR -1 and typically possess the mutant template.
 
-### Petition [Alienist HB]
+### Petition
 
 **Sphere** Divination; **Level** 5
 **Skill Checks** Knowledge (dungeoneering) (DC 33) 1 success, Knowledge (geography) (DC 33) 2 successes, Sense Motive (DC 33) 1 success
@@ -543,7 +543,7 @@ Because the incantation requires overwhelming energy that alters reality, the pr
 **Failure**
 Those that fail 2 consecutive Knowledge checks fail to perform the incantation correctly, thus resulting in the failure of the beings of fate to answer their call, but no material components are wasted. Those that fail 2 consecutive Diplomacy checks fail to strike a bargain and, as punishment for the arrogance and insult, any secondary performers are instantaneously slain, and the Fates take the three idols with them. Those that fail the Linguistics check find their wish to be corrupted with a very different result than what was intended.
 
-### Planar Seal [Cata. HB]
+### Planar Seal
 
 You isolate a realm from the rest of the multiverse.
 **Sphere** Protection; **Level** 9
@@ -634,7 +634,7 @@ Below are the Race Point Power Level values. Refer to Pathfinder Roleplaying Gam
 | Advanced | (11 - 20 RP) |
 | Monstrous | (21 - 30 RP) |
 
-### Reincarnate (Modified) [3PP]
+### Reincarnate (Modified)
 
 **Sphere** Life; **Level** 4th
 **Skill Checks** in order Survival DC 23, Knowledge (planes) DC 23, Diplomacy DC 23, Survival DC 23, Heal DC 23, Knowledge (nature) DC 23, 1 success each.
@@ -765,7 +765,7 @@ All primary and secondary performers are fatigued.
 **Failure**
 All primary and secondary performers are exhausted. The target ages 1 age category (to the minimum age in that category). If the target is already venerable, it instead crumbles to dust. A blood construct of the largest size possible based on the sizes of the sacrificed creatures forms and attacks all performers until destroyed or until all performers are slain.
 
-### Stopgap to the Netherworld [Cata. HB]
+### Stopgap to the Netherworld
 
 The land becomes blighted such that the dead no longer stay dead.
 **Sphere** Death; **Level** 7th
@@ -783,7 +783,7 @@ From a powerful monolith tied to a dark god or other legendary patron, necromant
 
 **Escalation** If this ritual is performed eight times over the course of two months, the radius extends to 100 miles and creatures rise as more powerful and varied undead with a new CR no greater than their original CR +2 (what types of undead they rise as is left to GM discretion. Any undead which are destroyed in the affected area are restored to full hit points within 1d6 rounds of their destruction unless they are slain by positive energy, in the area of a impedance ward, hallowed totem, bless or hallow spell, a similar magical effect, or if its remains are sprinkled with a vial of holy water.
 
-### Summit The Chains Of Flesh [SB:UatIF]
+### Summit The Chains Of Flesh
 
 Upon the temple of iron and sinew do they reside.
 **Sphere** Death; **Level** 9
@@ -823,7 +823,7 @@ None
 **Failure**
 The diagram appears completed, but provides no bonuses. The performers are unaware of the failure and any creature in the circle is immediately freed and likely contemptuous of the performers’ incompetence, causing the performers to suffer significant increases in the cost to bargain for services (double base costs) if the creature does not choose to simply depart or attack.
 
-### Swap Bodies [Alienist HB]
+### Swap Bodies
 
 **Sphere** Death; **Level** 6
 **Skill Checks** Diplomacy (DC 26) 1 success, Heal (DC 26) 2 successes, Knowledge (dungeoneering) (DC 26) 1 success, Knowledge (nature) (DC 26) 1 success, Sense Motive (DC 26) 1 success
@@ -840,7 +840,7 @@ This incantation allows the performer to permanently swap bodies with a touched 
 
 **Escalation** If this incantation is performed at least four thousand times over the course of a century, any number of willing creatures may swap bodies with targets anywhere on the same plane. This version of the incantation is typically only used when conducting a mass exodus of a people to some other world.
 
-### Temporal Menhir [High. HB]
+### Temporal Menhir
 
 Sometimes a druid requires knowledge lost to the passage of time. This incantation allows druids to use their hallowed druid circles to travel 200 years into the past to acquire this information first hand, and then return to their own century. Many others have attempted to instead use this incantation to change history, but more often than not found the task difficult, if not impossible, as most time travelers end up putting events in motion that create the timeline they wished to prevent in the first place.
 **Sphere** Time; **Level** 9th
@@ -972,7 +972,7 @@ All primary and secondary performers are fatigued. Fatigued creatures are exhaus
 **Failure**
 All primary and secondary performers age 1d4 x 10 years, taking penalties and gaining bonuses as appropriate. The primary target shifts to the young adult age category, with ability score adjustments as appropriate.
 
-### Translocation [Cata. HB]
+### Translocation
 
 A great area is warped elsewhere in the multiverse.
 **Sphere** Warp; **Level** 8

@@ -79,11 +79,11 @@ The hedgewitch chooses this secret from the list below, or from the path secret 
 
 The hedgewitch gains the path benefit (but not the path power) of a path she does not possess. She counts as possessing that path when qualifying for secrets. This secret can be gained multiple times. Each time it is taken, she selects another hedgewitch path.
 
-#### Champion [CotS]
+#### Champion
 
 The hedgewitch gains a Champion feat of her choice as a bonus feat (see [[Champion Feats]]). She must meet the prerequisites of the feat. This secret can be gained multiple times.
 
-#### Combat Talent [CotS]
+#### Combat Talent
 
 You gain a bonus combat talent. This secret may be taken more than once, granting an additional talent each time.
 
@@ -103,11 +103,11 @@ The hedgewitch gains one item creation feat, one metamagic feat, or any other fe
 
 The hedgewitch can create a poppet that possesses a sympathetic link to a creature, allowing her to affect them with her magic regardless of distance. To create a poppet, she must personally collect a specimen directly from the creature’s body, such as a hair, a nail cutting, or drop of blood. Within 24 hours of collection, she must create a small poppet that incorporates the entire specimen, a process that takes 1 full minute and requires common materials of negligible cost (such as a handful of straw, mud, or wood). The poppet lasts indefinitely once created. When she uses a magic sphere ability, she may target the poppet to affect the creature it was made from, allowing her to affect them regardless of distance or line of sight, though they must be on the same plane. The sympathetic link makes the creature immediately aware of the incoming effect and allows them to defend against it without being surprised, even if asleep, though they are not made aware of the magic’s precise nature or source. After conveying magic 1 + 1 time per 10 hedgewitch levels, the poppet crumbles and becomes useless. She may only possess a number of poppets equal to her casting ability modifier at one time, and only one poppet at a time for any given creature. If she collects a sample for a new poppet that would put her over these limits, an older poppet crumbles (either the already existing poppet for the creature targeted if she has one, or one of her choice if she does not).
 
-#### Skillful Insights [LotS]
+#### Skillful Insights
 
 The hedgewitch gains Advanced Tactics, Extra Skill Leverage, or Improved Planning as a bonus feat. This secret may be taken multiple times, each time selecting another feat.
 
-#### Skill Talent [LotS]
+#### Skill Talent
 
 The hedgewitch gains a bonus skill talent. This secret may be taken more than once, granting an additional talent each time.
 
@@ -421,11 +421,11 @@ A hedgewitch can only have one target of studied combat at a time. This ability 
 - **Investigative Knack:** A font of inspiration can select an investigator talent, but cannot select any talents that require a class feature they do not have. She may select this secret multiple times, each time picking a new investigator talent.
 - **Prescient Dodger:** She gains the prescient dodger rogue talent, using her hedgewitch level in place of her rogue level. This stacks with any rogue levels she possesses. If the hedgewitch already has this rogue talent, she can select another rogue talent she qualifies for.
 - **Third Eye Wide Open:** The font of inspiration gains Expanded Divination as a bonus talent. Whenever she gains a new sphere, she may reselect her alternate divinations from this secret. She may select this secret multiple times.
-- **Web of Secrets:** The hedgewitch chooses a single agent conspiracy. She gains the web of secrets ability associated with that conspiracy. [LotS]
+- **Web of Secrets:** The hedgewitch chooses a single agent conspiracy. She gains the web of secrets ability associated with that conspiracy.
 
 **Path Grand Secrets:** A hedgewitch with the font of inspiration may also select from the following for grand secrets.
 
-- **Readied Plans:** The hedgewitch may reveal a plan as a move action rather than a full-round action. [LotS]
+- **Readied Plans:** The hedgewitch may reveal a plan as a move action rather than a full-round action.
 
 **Path Mastery:** The font of inspiration gains a +2 bonus to her casting ability score.
 
@@ -443,7 +443,7 @@ The green magician’s magic comes from communion with nature.
 
 - **Animal Companion:** The green magician increases her effective druid level by 4 when determining the strength of her animal companion, to a maximum effective druid level equal to her character level. If she does not possess an animal companion, she gains an animal companion treating her effective druid level as 4, to a maximum effective druid level equal to her character level. She may take this secret multiple times. The effects stack.
 - **Animal Friend:** The green magician chooses a specific kind of animal (eagle, fox, dog, and so on). She gains the ability to converse with that type of animal as if she were under the effects of the Speak with Wildlife Nature talent. At 5th level and every 4 levels thereafter, she selects an additional type of animal. She may speak with and understand that type of animal as well.
-- **Bestial Bonds (requires Spheres of Might):** The green magician gains the Beastmastery sphere and Focusing Connection as bonus talents. Whenever the green magician uses the Focusing Connection talent with her animal companion granted by the green magic path power, she may concentrate on a magic sphere effect as part of the same action. [BTH]
+- **Bestial Bonds (requires Spheres of Might):** The green magician gains the Beastmastery sphere and Focusing Connection as bonus talents. Whenever the green magician uses the Focusing Connection talent with her animal companion granted by the green magic path power, she may concentrate on a magic sphere effect as part of the same action.
 - **Share Health (Su):** As an immediate action, the green magician may take damage up to half her current hit points, and heal her animal companion the same amount of damage. This cannot heal the target beyond their maximum hit points. This ability works out to close range.
 - **Share Senses:** As a standard action, she may share senses with her animal companion. For as long as she concentrates, she can hear, see, and smell what that creature is experiencing. She gains the benefits of any non-magical special abilities her animal companion possesses (such as low-light vision or scent), but uses her own Perception skill. This ability functions out to long range.
 
@@ -519,7 +519,7 @@ At 17th level, she may change the effect of her poison to making the target slee
 
 **Path Mastery:** At 20th level, the herbalist’s healing concoction always heals maximum hit points and her herbalist’s poison deals maximum damage.
 
-### Lamentation [SA:BG]
+### Lamentation
 
 Lamenters glorify the passing of the dead, often holding strong feelings for those who have passed, or will soon pass. They have close relationships with banshees, gaining many of their powers in a unique form.
 
@@ -640,7 +640,7 @@ At 17th level, she may gain the benefit of one magic talent as an immediate acti
 - **Bodily Possession (requires Spheres of Might):** The spiritualist may select combat talents in place of magic talents when channeling spirit allies.
 - **Extra Spirit:** The spiritualist increases the number of times she may channel spirit allies in a day by 2. If she cannot channel spirit allies, she may now do so 2 times per day. She may select this secret multiple times. The effects stack.
 - **Infuse Other:** As a standard action, she may touch a willing target and spend 2 uses of the spiritualism path power to grant knowledge of a magic talent to that ally for 1 minute. The target must possess the casting class feature and uses its own spell points and caster level if granted a magic talent. If you possess the Bodily Possession secret, you may grant a combat talent instead of a magic talent when using this ability.
-- **Skillful Possession:** The spiritualist may select skill talents in place of magic talents when channeling spirit allies. [LotS]
+- **Skillful Possession:** The spiritualist may select skill talents in place of magic talents when channeling spirit allies.
 - **Spiritualist Combatant:** Rather than gaining the benefits of a magic talent, she may use the spiritualism path power to grant herself a +1 dodge bonus to AC and a +1 circumstance bonus to attack rolls. She may increase these bonuses to +2 in place of two magic talents or +3 in place of three magic talents.
 
 **Path Mastery:** The spiritualist may channel spirit allies to gain the benefit of any number of magic talents as a swift action. Each magic talent selected counts toward her daily uses of this ability.
@@ -736,7 +736,7 @@ In addition, she gains access to the following deeds:
 
 **Path Mastery:** The temporal traveler’s insights from different times and places let her see all manner of things from all manner of angles. She can take 20 on any Knowledge check, and may do so without spending any increased time.
 
-### Tinker [CotS]
+### Tinker
 
 You experiment with complex devices.
 
@@ -893,7 +893,7 @@ The following feats are particularly appropriate or useful for hedgewitches.
 
 The following magical items are especially appropriate for hedgewitches.
 
-#### Amateur’s Reference [TS:WAT]
+#### Amateur’s Reference
 
 **Aura** faint Universal; **CL** 4th
 **Slot** none; **Price** 15,000 gp; **Weight** 2 lbs.
@@ -903,7 +903,7 @@ These well-read books come in a variety of shapes and styles, from clay tablets 
 **Construction Requirements**
 Craft Apparatus, Mana sphere, creator must have the hedgewitch path benefit being used; **Cost** 7,500 gp
 
-#### Battle Censer [TS:WAT]
+#### Battle Censer
 
 **Aura** moderate Destruction; **CL** 10th
 **Slot** none; **Price** 28,316 gp; **Weight** 5 lbs.
@@ -938,7 +938,7 @@ If a creature wielding the battle censer has more than one hedgewitch path benef
 **Construction Requirements**
 Smith Magical Weapons And Armor, any three base magical spheres, creator must have the hedgewitch paths ability; **Cost** 14,158 gp
 
-#### Book Of Secrets [TS:WAT]
+#### Book Of Secrets
 
 **Aura** faint Mana; **CL** 5th
 **Slot** none; **Price** 15,000 gp; **Weight** 3 lbs.

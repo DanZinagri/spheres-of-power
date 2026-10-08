@@ -50,7 +50,7 @@ An implement uses the crafter’s MSB rather than their caster level when determ
 
 In games making use of the automatic bonus progression rules (Pathfinder Unchained), treat implements that grant an enhancement bonus to caster level as weapons for the purpose of attunement bonuses.
 
-#### Craft Magical Traps (Item Creation) [HMH]
+#### Craft Magical Traps (Item Creation)
 
 **Prerequisites:** Contingency; Craft Apparatus or Craft Marvelous Item.
 
@@ -109,7 +109,7 @@ A spell engine’s pricing is determined by comparing it to Table: Spell Engine 
 | 18 | 8 | 81,000 |
 | 20 | 9 | 100,000 |
 
-#### Develop Spellzone (Item Creation) [HMH]
+#### Develop Spellzone (Item Creation)
 
 **Prerequisite:** Caster level 5th.
 
@@ -130,7 +130,7 @@ A spell engine’s pricing is determined by comparing it to Table: Spell Engine 
 
 A compound has a base cost of 50 gp x caster level x complexity. If a compound requires a saving throw, the DC is equal to 10 + 1/2 its caster level.
 
-#### Eldritch Craft (Item Creation) [Cata. HB]
+#### Eldritch Craft (Item Creation)
 
 Your strange magics bleed into the devices you forge.
 
@@ -138,7 +138,7 @@ Your strange magics bleed into the devices you forge.
 
 **Benefit:** Any magic items that you craft share the benefits of boons that you possess. For example, you possess the Alien Source boon, creatures take penalties to counterspell the item and spell resistance against the item’s effects. Similarly, the item’s caster level would increase in specific weather conditions if you possess the Atmoturgy boon or when at least three creatures are already affected by the item if you possess the Draw Magic boon. Boons which apply negative conditions (such as Overcharge) or which are dependent upon certain factors of the user (such as Deathful Magic) consider the state of the creature using the effect rather than the item to determine effects. This feat cannot be used in conjunction with boons that require a specific drawback such as Fortified Casting.
 
-#### Etch Schematic (Item Creation) [HMH]
+#### Etch Schematic (Item Creation)
 
 **Prerequisite:** Caster level 1st.
 

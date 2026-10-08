@@ -294,7 +294,7 @@ Magic advances the universe towards balanced, stable states, eventually correcti
 
 **Theory Bonus:** A theorist with the equilibrium model may gain a bonus to AC and CMD equal to their theory bonus as a free action once per round. This bonus lasts for 1 round.
 
-#### Foundational [DRS]
+#### Foundational
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -406,7 +406,7 @@ There may well be no reason to magic’s manifestation, and arcane forces might 
 
 **Theory Bonus:** A theorist with the phenomenology model may apply their theory bonus to increase or decrease the wild magic chance on any magic effect they create, reducing or increasing the chances by up to 10% per point of theory bonus.
 
-#### Psychological [DRS]
+#### Psychological
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -448,7 +448,7 @@ The phenomenal is an extension of one’s own will upon the universe, and so res
 
 **Theory Bonus:** A theorist with the solipsism model may apply twice their theory bonus to any damage roll they make.
 
-#### Superstition [DRS]
+#### Superstition
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -474,7 +474,7 @@ Even the most rigorously detailed models are bound by incompleteness, and unders
 
 # Class Feats
 
-#### Extra Model [LotS]
+#### Extra Model
 
 **Prerequisite:** Model class feature or Theoretical Initiate.
 

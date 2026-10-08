@@ -14,11 +14,11 @@ The [utility start] tag is described in Spheres of Guile. It is only possible to
 
 **Piecemeal Utility Starts:** If you have a progression or optional replacement that grants a [utility] combat talent or a [utility] magic talent, you can use it to gain a base sphere if you apply a drawback or combination of drawbacks that removes all of that base sphere’s benefits other than skill ranks and [utility] talents (and actions necessary to use such talents).
 
-#### Always Forward [SA:MD]
+#### Always Forward
 
 You do not gain the coordinated movement ability. You gain Strong Lungs with this drawback.
 
-#### Driver [EO2]
+#### Driver
 
 You do not gain skill ranks or any other bonuses from your Athletics sphere packages, though you still count as possessing them for the purpose of selecting and using the talents of the packages you possess. You gain the Ace Pilot talent as the bonus talent for this drawback.
 
@@ -26,17 +26,17 @@ You do not gain skill ranks or any other bonuses from your Athletics sphere pack
 
 You do not gain a package. You gain Close Quarters Training with this drawback. You cannot gain packages via talents, and (motion) talents can only be used with 1 movement mode you possess, chosen when the talent is gained.
 
-#### Risky Escape [SA:MD2]
+#### Risky Escape
 
 You do not gain the coordinated movement ability. You gain Reflexive Twist with this drawback.
 
 **Incompatible:** Always Forward.
 
-#### Trainer (Utility Start) [LotS]
+#### Trainer (Utility Start)
 
 You do not gain the coordinated movement ability. You gain Fitness Instructor as a bonus talent.
 
-#### Untrained Athlete [SA:MD2]
+#### Untrained Athlete
 
 You do not gain skill ranks from your Athletics sphere packages. You gain Mighty Conditioning with this drawback.
 

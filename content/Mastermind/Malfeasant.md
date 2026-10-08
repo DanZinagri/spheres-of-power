@@ -19,7 +19,7 @@ The malfeasant may combine spheres and talents to create magical effects. The ma
 
 The malfeasant gains a small reservoir of energy they can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to their level + their casting ability modifier (minimum 1). This pool replenishes once per day after roughly 8 hours of rest.
 
-## Blended Training (Ex) [CS]
+## Blended Training (Ex)
 
 A malfeasant gains a magic or skill talent (some of which are required to be [utility] talents) at the listed levels using the virtuoso talent progression.
 

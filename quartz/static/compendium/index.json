@@ -2171,25 +2171,23 @@
   "approved": false
  },
  {
-  "id": "leadership/camp-of-operations-drs",
+  "id": "leadership/camp-of-operations",
   "name": "Camp of Operations",
   "kind": "feat",
   "sphere": "Leadership",
   "system": "Spheres of Might",
   "group": "General",
   "tags": [],
-  "talentTags": [
-   "DRS"
-  ],
+  "talentTags": [],
   "source": "Polished Commander & Warleader",
   "status": "current",
-  "url": "Spheres-Of-Might/Practitioner-Feats#camp-of-operations-drs",
+  "url": "Spheres-Of-Might/Practitioner-Feats#camp-of-operations",
   "options": [],
   "file": "leadership.json",
   "approved": false
  },
  {
-  "id": "leadership/emergency-reserves-plan-drs",
+  "id": "leadership/emergency-reserves-plan",
   "name": "Emergency Reserves",
   "kind": "feat",
   "sphere": "Leadership",
@@ -2197,18 +2195,17 @@
   "group": "General",
   "tags": [],
   "talentTags": [
-   "plan",
-   "DRS"
+   "plan"
   ],
   "source": "Polished Commander & Warleader",
   "status": "current",
-  "url": "Spheres-Of-Might/Practitioner-Feats#emergency-reserves-plan-drs",
+  "url": "Spheres-Of-Might/Practitioner-Feats#emergency-reserves-plan",
   "options": [],
   "file": "leadership.json",
   "approved": false
  },
  {
-  "id": "leadership/friends-in-close-places-plan-drs",
+  "id": "leadership/friends-in-close-places-plan",
   "name": "Friends In Close Places",
   "kind": "feat",
   "sphere": "Leadership",
@@ -2216,48 +2213,43 @@
   "group": "General",
   "tags": [],
   "talentTags": [
-   "plan",
-   "DRS"
+   "plan"
   ],
   "source": "Polished Commander & Warleader",
   "status": "current",
-  "url": "Spheres-Of-Might/Practitioner-Feats#friends-in-close-places-plan-drs",
+  "url": "Spheres-Of-Might/Practitioner-Feats#friends-in-close-places-plan",
   "options": [],
   "file": "leadership.json",
   "approved": false
  },
  {
-  "id": "leadership/journeyman-cohorts-drs",
+  "id": "leadership/journeyman-cohorts",
   "name": "Journeyman Cohorts",
   "kind": "feat",
   "sphere": "Leadership",
   "system": "Spheres of Might",
   "group": "General",
   "tags": [],
-  "talentTags": [
-   "DRS"
-  ],
+  "talentTags": [],
   "source": "Polished Commander & Warleader",
   "status": "current",
-  "url": "Spheres-Of-Might/Practitioner-Feats#journeyman-cohorts-drs",
+  "url": "Spheres-Of-Might/Practitioner-Feats#journeyman-cohorts",
   "options": [],
   "file": "leadership.json",
   "approved": false
  },
  {
-  "id": "leadership/mixed-conscription-drs",
+  "id": "leadership/mixed-conscription",
   "name": "Mixed Conscription",
   "kind": "feat",
   "sphere": "Leadership",
   "system": "Spheres of Might",
   "group": "General",
   "tags": [],
-  "talentTags": [
-   "DRS"
-  ],
+  "talentTags": [],
   "source": "Polished Commander & Warleader",
   "status": "current",
-  "url": "Spheres-Of-Might/Practitioner-Feats#mixed-conscription-drs",
+  "url": "Spheres-Of-Might/Practitioner-Feats#mixed-conscription",
   "options": [],
   "file": "leadership.json",
   "approved": false
@@ -2281,43 +2273,39 @@
   "approved": false
  },
  {
-  "id": "leadership/radiant-quests-drs",
+  "id": "leadership/radiant-quests",
   "name": "Radiant Quests",
   "kind": "feat",
   "sphere": "Leadership",
   "system": "Spheres of Might",
   "group": "General",
   "tags": [],
-  "talentTags": [
-   "DRS"
-  ],
+  "talentTags": [],
   "source": "Spheres Apocrypha: Dipsomania",
   "status": "current",
-  "url": "Spheres-Of-Might/Practitioner-Feats#radiant-quests-drs",
+  "url": "Spheres-Of-Might/Practitioner-Feats#radiant-quests",
   "options": [],
   "file": "leadership.json",
   "approved": false
  },
  {
-  "id": "leadership/shared-harmonies-drs",
+  "id": "leadership/shared-harmonies",
   "name": "Shared Harmonies",
   "kind": "feat",
   "sphere": "Leadership",
   "system": "Spheres of Might",
   "group": "General",
   "tags": [],
-  "talentTags": [
-   "DRS"
-  ],
+  "talentTags": [],
   "source": "Polished Leadership",
   "status": "current",
-  "url": "Spheres-Of-Might/Practitioner-Feats#shared-harmonies-drs",
+  "url": "Spheres-Of-Might/Practitioner-Feats#shared-harmonies",
   "options": [],
   "file": "leadership.json",
   "approved": false
  },
  {
-  "id": "leadership/shared-rage-combat-drs",
+  "id": "leadership/shared-rage-combat",
   "name": "Shared Rage",
   "kind": "feat",
   "sphere": "Leadership",
@@ -2326,48 +2314,42 @@
   "tags": [
    "Combat"
   ],
-  "talentTags": [
-   "DRS"
-  ],
+  "talentTags": [],
   "source": "Polished Leadership",
   "status": "current",
-  "url": "Spheres-Of-Might/Practitioner-Feats#shared-rage-combat-drs",
+  "url": "Spheres-Of-Might/Practitioner-Feats#shared-rage-combat",
   "options": [],
   "file": "leadership.json",
   "approved": false
  },
  {
-  "id": "leadership/talented-followers-improved-drs",
+  "id": "leadership/talented-followers-improved",
   "name": "Talented Followers, Improved",
   "kind": "feat",
   "sphere": "Leadership",
   "system": "Spheres of Might",
   "group": "General",
   "tags": [],
-  "talentTags": [
-   "DRS"
-  ],
+  "talentTags": [],
   "source": "Polished Commander & Warleader",
   "status": "current",
-  "url": "Spheres-Of-Might/Practitioner-Feats#talented-followers-improved-drs",
+  "url": "Spheres-Of-Might/Practitioner-Feats#talented-followers-improved",
   "options": [],
   "file": "leadership.json",
   "approved": false
  },
  {
-  "id": "leadership/theurgical-disciples-drs",
+  "id": "leadership/theurgical-disciples",
   "name": "Theurgical Disciples",
   "kind": "feat",
   "sphere": "Leadership",
   "system": "Spheres of Might",
   "group": "General",
   "tags": [],
-  "talentTags": [
-   "DRS"
-  ],
+  "talentTags": [],
   "source": "Polished Leadership",
   "status": "current",
-  "url": "Spheres-Of-Might/Practitioner-Feats#theurgical-disciples-drs",
+  "url": "Spheres-Of-Might/Practitioner-Feats#theurgical-disciples",
   "options": [],
   "file": "leadership.json",
   "approved": false

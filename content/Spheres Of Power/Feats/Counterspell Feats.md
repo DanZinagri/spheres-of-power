@@ -16,7 +16,7 @@ Counterspell feats are used to dispel or actively counter magic.
 
 **Benefit:** When initiating a grapple, you may use the Counterspell feat as a free action. Resolve the counterspell attempt prior to applying the effects of freedom of movement, the Freedom word of the Fate sphere, and similar effects. Additionally, you are always entitled to attempt a Spellcraft check to identify such an effect on a creature within your reach as a free action.
 
-#### Bargainer’s Counterspell (Counterspell) [3PP]
+#### Bargainer’s Counterspell (Counterspell)
 
 **Prerequisites:** Improved Counterspell
 
@@ -66,7 +66,7 @@ You may also spend the 2 additional spell points, but only target a single item.
 
 **Benefit:** Whenever you strike a target with a weapon attack, you may spend a spell point as an immediate action to attempt to dispel an existing magical effect on the target using your Counterspell ability, or multiple effects with your Improved or Greater Counterspell ability.
 
-#### Dispelling Admixture (Admixture, Counterspell) [3PP]
+#### Dispelling Admixture (Admixture, Counterspell)
 
 **Prerequisites:** Destruction sphere (Admixture), Counterspell
 
@@ -74,7 +74,7 @@ You may also spend the 2 additional spell points, but only target a single item.
 
 *Source: Card Casting 2: Counters and Control*
 
-#### Dominant Counterspell (Counterspell) [Apoc]
+#### Dominant Counterspell (Counterspell)
 
 *Source: [Spheres Apocrypha: Battlefield Manipulation Talents](https://www.drivethrurpg.com/product/350940/Spheres-Apocrypha-Battlefield-Manipulation-Talents?affiliate_id=549120)*
 
@@ -82,7 +82,7 @@ You may also spend the 2 additional spell points, but only target a single item.
 
 **Benefit:** When you successfully counterspell a non-instantaneous magical effect which is not targeting a creature or object (such as a Protection sphere barrier, a Warp sphere looped space, or a Destructive sphere energy sphere), instead of ending the effect, you may spend a spell point to lift and move the effect as per the Telekinesis sphere. You may not Bludgeon using a spell effect, although you may move it or affect it with sustained force. You may spend a spell point when you dismiss a sphere effect to affect it with this feat as if you had successfully counterspelled it.
 
-#### Draining Surge (Counterspell) [Cata. HB]
+#### Draining Surge (Counterspell)
 
 You push yourself into your counterspells to assure their success.
 
@@ -96,7 +96,7 @@ You push yourself into your counterspells to assure their success.
 
 **Benefit:** When you successfully counter a spell, the caster must succeed at a Will save equal to your Illusion sphere DC or Mind sphere DC (whichever is greater), or believe the spell had its intended effect, even if they would otherwise be aware of its failure. Treat this effect as a figment with a duration equal to the countered spell, and use the rules for interacting with and investigating figments.
 
-#### Harmonic Counter [S&P]
+#### Harmonic Counter
 
 Miracles of all sorts buckle before your might.
 
@@ -104,7 +104,7 @@ Miracles of all sorts buckle before your might.
 
 **Benefit:** You can counterspell effects which were created with the Alien Source at no penalty. Your abilities that would suppress magic (such as such as the Spell Ward and Anti-Magic Aura effects of the Protection sphere) function normally against all magic effects regardless of source. In addition, you can attempt to use any of your Counterspell feats or other magic-negating abilities on technological equipment as if it were magical equipment. Treat a technological item’s MSD as if it were the item’s Craft DC -5 (or 11 + the item’s level if using Starfinder equipment).
 
-#### Imperious Counterspell (Counterspell) [3PP]
+#### Imperious Counterspell (Counterspell)
 
 **Prerequisites:** Counterspell
 
@@ -118,7 +118,7 @@ Miracles of all sorts buckle before your might.
 
 **Benefit:** Whenever you use Counterspell, you may end an enhancement affecting yourself to increase the number of magical effects you may end with Counterspell by one. There is no limit on the number of enhancements you may cancel to improve your Counterspell; however, you may only use enhancements you created yourself to fuel this feat that are not maintained through concentration.
 
-#### Saboteur’s Reclamation [Combat, Counterspell] [3PP]
+#### Saboteur’s Reclamation [Combat, Counterspell]
 
 *Source: Baron’s Glorious Arena*
 
@@ -126,13 +126,13 @@ Miracles of all sorts buckle before your might.
 
 **Benefits:** Whenever you destroy a magic item or the physical form of a sphere effect created using the Substantial Magic drawback (or similar drawbacks) by sundering it, you may spend an immediate action to be considered to have dispelled the effects of that item or the corresponding sphere effect for the purpose of any feats you have that use Counterspell as a prerequisite (for example, if you possess the Spellthief feat and destroy an item that provides a constant shapeshift, you may apply the shapeshift to yourself). If the destroyed item possesses a constant effect, the stolen effect lasts for 1 minute per caster level of the original effect.
 
-#### Prepared Counter (Counterspell) [Archmagi's HB]
+#### Prepared Counter (Counterspell)
 
 **Prerequisites:** Counterspell, casting class feature, magic skill bonus +5.
 
 **Benefits:** When you ready an action to use Counterspell, you may choose to limit your counterspell against a single sphere. You may only utilize your counterspell against sphere effects created with that sphere, or that utilize a dual-sphere feat related to that sphere. If you choose to limit your counterspell, you can choose to either reduce the spell point cost of your counterspell by 1 (minimum 0), or to roll twice and take the higher result on dispel attempts.
 
-#### Specialized Wipe (Counterspell) [3PP]
+#### Specialized Wipe (Counterspell)
 
 **Prerequisites:** Improved Counterspell
 
@@ -140,7 +140,7 @@ Miracles of all sorts buckle before your might.
 
 *Source: Card Casting 2: Counters and Control*
 
-#### Spell Absorption (Combat, Counterspell) [DbH]
+#### Spell Absorption (Combat, Counterspell)
 
 You may bind yourself to an oncoming spell at great risk.
 
@@ -154,7 +154,7 @@ You may bind yourself to an oncoming spell at great risk.
 
 **Benefit:** Whenever you successfully counterspell an effect that targets a creature or object, you may instead choose to reassign the effect’s targets. If you do so, you immediately take over concentration for the original caster (if the effect requires concentration), and the original caster cannot choose to prematurely end the effect.
 
-#### Suppressive Counterspell (Counterspell) [Cata. HB]
+#### Suppressive Counterspell (Counterspell)
 
 Your magic prevents foes from exploiting idiosyncrasies in their magic.
 
@@ -166,7 +166,7 @@ As part of suppressing a target, you may suppress a single drawback worth no mor
 
 **Author's Note:** Vancian casters would have to spend an additional spell slot/prepared spell of equal level to create an effect. Suppressing a drawback could suppress a somatic, verbal, emotion, thought, or focus component for a spell but would shut down any abilities explicitly tied to them (such as a bard’s Harmonic Spell continuing performance).
 
-#### Translocating Counterspell (Counterspell) [Apoc]
+#### Translocating Counterspell (Counterspell)
 
 *Source: [Spheres Apocrypha: Battlefield Manipulation Talents](https://www.drivethrurpg.com/product/350940/Spheres-Apocrypha-Battlefield-Manipulation-Talents?affiliate_id=549120)*
 

@@ -25,7 +25,7 @@ Additionally, you gain a +1 insight bonus to analyze skill checks made against t
 
 **Benefit:** You may treat an area which you analyze as being your favored terrain for the purpose of providing bonuses from the favored terrain class feature. You may only have one analyzed area treated as your favored terrain at any given time. You receive the maximum bonuses in this area that your favored terrain feature can grant.
 
-#### Unerring Eye (Champion) [LotS]
+#### Unerring Eye (Champion)
 
 **Prerequisites:** Sense Motive ranks 3, Investigation sphere; either the Divination sphere or Scout sphere.
 

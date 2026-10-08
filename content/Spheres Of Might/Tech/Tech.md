@@ -93,7 +93,7 @@ Because devices crafted with the Tech sphere are more unstable than standard tec
 
 ---
 
-## Technomancy, Sprites, Routines, and Hacking [3pp]
+## Technomancy, Sprites, Routines, and Hacking
 
 The *Arcforge Campaign Setting: Spheres of Influence* by Legendary Games introduced the Technomancy sphere. The sphere creates magical sprites to infest, control, or boost technological items. The sphere was not designed with routines or Tech sphere gadgets in mind, so the following clarifies their interactions, as well as other interactions that deal with routines and hacking:
 
@@ -145,7 +145,7 @@ Gadgets benefiting from a lock also gain a +1 bonus to Will saves to resist hack
 
 You may expend your martial focus as a full-round action to activate any number of drones you have created. You still must be within signal range to activate your drones.
 
-#### Momentum Transfer (stance) [Youxia HB]
+#### Momentum Transfer (stance)
 
 While in this stance, whenever you successfully damage a creature with a CR of at least half your Hit Dice with an attack action, you may add 1 temporary charge to your charge pool as a free action that can be taken even outside of your turn. This charge expires after 1 minute if not used. You may instantly apply these charges to gadgets you have in your possession.
 
@@ -1040,7 +1040,7 @@ If you select this talent twice, the generator becomes more stable. The generato
 
 Augments also no longer inflict a penalty to Disguise checks to be hidden. The disguise is obviously broken if the augment is used in a display that shows off its mechanical nature (taking out an integrated tool from an augment). A hidden augment must be made for a specific creature for the disguise to work.
 
-#### It Just Works [Jester's HB]
+#### It Just Works
 
 **Prerequisites:** Craft (mechanical) 5 ranks, Tech sphere (any one (gadget)).
 

@@ -35,7 +35,7 @@ You can replace your Strength modifier with your Charisma modifier for determini
 
 You gain the Practiced Seer feat as a bonus feat. You must be able to use sphere talents and abilities to select this talent.
 
-#### Catty Stalker (requires Scout sphere) [Catgirl HB]
+#### Catty Stalker (requires Scout sphere)
 
 The rogue gains a +2 insight bonus on Bluff, Diplomacy, Intimidate, Knowledge, Perception, Sense Motive, and Survival checks made against a scouted creature. The rogue also gains 1/2 this talent’s bonus on dirty trick and steal combat maneuvers. This bonus increases by +1 for every 5 rogue levels they possess.
 
@@ -51,7 +51,7 @@ You gain the ability to conjure by magic any mundane tool you need for the task 
 
 You are good at getting yourself out of scrapes by being wilier and craftier than your enemies. Choose a saving throw. You receive a bonus to this saving throw equal to your Charisma modifier (minimum 1). You lose this bonus whenever you are denied your Dexterity bonus to AC or you wear armor heavier than light armor. You may choose this talent multiple times. Each time, choose a different saving throw.
 
-#### Deadly Technique [DS:TP]
+#### Deadly Technique
 
 The rogue gains the sensory slash and throat punch devious techniques (as the agent class feature), treating her rogue level as her agent level for determining its effects–the rogue does not gain the 10th and 14th level improvements to these abilities. A devious technique may be triggered whenever she successfully deals sneak attack or studied strike damage to a creature, but can only be triggered once per turn.
 
@@ -101,11 +101,11 @@ You may take this talent twice, which upgrades your spell-like ability to have t
 
 By exaggerating injuries, you can gain the upper hand in combat. Whenever you are hit for more than 20 hit points of damage in a single round, you can, until the end of your next turn, feint as a swift action.
 
-#### Major Spherecasting (requires minor spherecasting) [AoP2]
+#### Major Spherecasting (requires minor spherecasting)
 
 A rogue with this talent gains the Advanced Magical Training feat as a bonus feat. This counts as possessing the major magic rogue talent for the purposes of qualifying for feats, rogue talents, and prestige classes.
 
-#### Minor Spherecasting [AoP2]
+#### Minor Spherecasting
 
 A rogue with this talent gains the Basic Magical Training feat as a bonus feat. This counts as possessing the minor magic rogue talent for the purposes of qualifying for feats, rogue talents, and prestige classes.
 
@@ -121,11 +121,11 @@ At rogue level 10, you may use this talent as a swift action rather than a move 
 
 You have developed a sort of sixth sense where it can divine where blows will hit. The source of this foresight may be calculative, inborn luck or insightful. When unarmored and unencumbered and not using a shield, you add your highest mental ability modifier (Intelligence, Wisdom, or Charisma), or casting ability modifier, if you possess a casting tradition, to your AC and CMD. These bonuses apply even against touch attacks or when the rogue is caught flat-footed and increases by +1 for every 4 rogue levels. You lose this bonus when you are immobilized or helpless, when you wear any armor or use a shield, or when you carry a medium or heavy load. This does not stack with the monk’s AC bonus or similar class features.
 
-#### Purring Bandit [Catgirl HB]
+#### Purring Bandit
 
 The rogue gains one purring feat as a bonus feat. In addition, while purring, the rogue gains a +1 circumstance bonus on contested skill checks made against a creature within the rogue’s purring aura (such as Bluff checks to feint or Perception checks to locate, etc.). This bonus increases by +1 for every 10 rogue levels they possess.
 
-#### Rapid Disguise (requires Subterfuge sphere and ki pool) (Ex) [Spheres of Guile]
+#### Rapid Disguise (requires Subterfuge sphere and ki pool) (Ex)
 
 If you spend a ki point when using fast disguise, you may reduce the action required to use fast disguise by 1 step (full round action to standard action, standard action to move action, move action to swift action).
 
@@ -145,7 +145,7 @@ You gain a surreal feat. You may select this rogue talent multiple times, each t
 
 You gain the Shadowstuff Armament feat. In place of making a weapon, shield or armor you may also make small functional tools from shadowstuff to negate the penalty to Craft or Disable Device checks for using improvised tools. When using tools granted by this feat gain a +1 circumstance bonus to the related skill check for every 5 rogue levels you possess.
 
-#### Skillful Training (Ex) [Spheres of Guile]
+#### Skillful Training (Ex)
 
 You gain a bonus feat which must be selected from the Extra Skill Talent feat or any feat which requires skill talents, skill spheres, or specific skill ranks as prerequisites. This talent may be selected multiple times.
 
@@ -177,7 +177,7 @@ As a standard action, you may give yourself the Deflection (aegis) or any one ba
 
 Your morals have always been malleable when required. Magical abilities whose effects vary with alignment always treat you as the alignment of your choice. This choice can change from effect to effect, and does not need to be consistent. This can make you immune to a magical ability.
 
-#### Slip Memory (Ex) [Spheres of Guile]
+#### Slip Memory (Ex)
 
 You gain the just a bad dream ability of the agent, using your level in the class which granted this talent as agent levels. This effect applies when you knock a creature unconscious while using sneak attack damage rather than opportune strike damage.
 

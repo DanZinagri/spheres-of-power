@@ -38,7 +38,7 @@ parent: "[[Spheres Of Might]]"
 | Scabbard, oiler | +20 gp | - | - | - | - | +1 lb. | - | See text |
 | Training | half | As base weapon | | | | +0 lbs. | B | See text |
 
-#### Acupuncture Needles [Youxia HB]
+#### Acupuncture Needles
 
 These small, slender needles slip through skin without damaging the body, and can be used to deliver poisons or to manipulate physiology with special anatomical training.
 
@@ -48,7 +48,7 @@ Magical acupuncture needles grant proficient users a competence bonus to Heal ch
 
 A proficient user may poison two acupuncture needles at once with a single dose of poison, although doing so imparts a -2 penalty to the save DCs of the poison.
 
-#### Battle Aspergillum [CoP]
+#### Battle Aspergillum
 
 This is no common aspergillum, but rather a light mace with a hollow head and a metal plug to fit the hollow’s neck. The battle aspergillum counts as part of the hammers weapon group.
 
@@ -90,7 +90,7 @@ In addition to making ranged attacks, you may also use a fishing rod to manipula
 
 Alternately, if you succeed at a ranged touch attack against a creature, you may attempt a drag, trip, disarm, or steal combat maneuver against that target at a distance as a free action. Performing a maneuver from a distance in this fashion does not provoke an attack of opportunity (except as normal when making a ranged attack).
 
-#### Needle Launcher [Youxia HB]
+#### Needle Launcher
 
 This small wooden tube houses spring-loaded chambers to launch needles at foes. It can be attached to the arm and hidden in sleeves, though they still require a free hand to operate the launching mechanism. Needle launchers use acupuncture needles as ammunition, and hold 10 needles at once. Attacks made with needle guns deal no damage, but can be made as touch attacks. The needle launcher may be reloaded as a full-round action, can be fired with one hand, and counts as a hand crossbow when determining what abilities and feats affect it.
 

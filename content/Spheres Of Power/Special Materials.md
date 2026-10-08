@@ -29,7 +29,7 @@ Although, arcsilver is typically not used as the sole material of an item (in or
 | Weapon | +2,000 gp |
 | Armor and shields | +3,000 gp |
 
-### Blightburn [WtD]
+### Blightburn
 
 Blightburn is a highly radioactive crystalline mineral that grows in isolated pockets. When exposed to air, blightburn crystals give off a deep green glow as bright as a candle.
 
@@ -42,7 +42,7 @@ Any creature coming into physical contact with a blightburn crystal takes 2d6 po
 | High | 22 | 2d4 Con drain | 1d6 Cha damage/day |
 | Severe | 30 | 4d6 Con drain | 2d6 Cha damage/day |
 
-### Blight Quartz [WtD]
+### Blight Quartz
 
 Deposits of solidified negative energy, formed by the precipitation of the plane’s substance in regions oversaturated by raw entropy, can be found throughout the Negative Energy Plane. Known as blight quartz (although the crystals are not a form of traditional elemental material), these crystals appear as black or smoky gray gemstones that periodically shimmer or crackle with eerie, dark purple energy.
 
@@ -54,7 +54,7 @@ Blight quartz has 10 hit points per inch of thickness and hardness 10, but the m
 
 **Blight Quartz In The Skybourne Setting:** With the walkways shattered, travelling between planes is next to impossible; However, with the emergence of cryptwoods, many parts of Khrone are imbued, sometimes permanently with negative energy. While not a cryptwood tied to the Negative Material Plane, the Eventide region of the Jeo Desert counts as one for the purpose of whether or not blight quartz decays. Extra-dimensional spaces and pocket dimensions that possess Negative Material Plane characteristics also prevent decay of the special material. Spherecasters with the Death sphere may spend a spell point to charge blight quartz with negative energy, staving off decay for 1 hour.
 
-### Cuazite [PGtSB]
+### Cuazite
 
 **Price** 200 gp per lb.
 
@@ -62,7 +62,7 @@ This lumpy cyan metal is made from the corpses of fallen cuazaj. Cuazite is extr
 
 Ammunition cannot be made from cuazite.
 
-### Everlasting Ice [TS:WAT]
+### Everlasting Ice
 
 **HP/inch:** 10; **Hardness** 5; **Cost** weapons +2000 gp; **Weight** As ice
 
@@ -74,7 +74,7 @@ When wielding a weapon made of everlasting ice, you may spend an attack of oppor
 
 Everlasting ice is not a suitable material for armor.
 
-### Exocarn [DbH]
+### Exocarn
 
 **HP/Inch** 6; **Hardness** 9;
 **Weapon Cost** +6,000 gp (this includes the cost of masterwork)
@@ -120,19 +120,19 @@ When damp and in contact with fertile soil, living greenwood heals damage to its
 
 Greenwood can be altered or enhanced with wood-shaping magic such as ironwood, shape wood, and warp wood. The duration of any such effect on a greenwood item is doubled.
 
-### Mindglass [WtD]
+### Mindglass
 
 Mindglass is a special material as strong as steel that also provides the bearer with protection against an opponent’s psychic abilities. When a creature wielding a melee weapon made of mindglass succeeds at a saving throw against a psychic or mind-affecting effect from a creature, the weapon stores some of that energy and holds it for a future attack. A mindglass weapon can store this energy for a number of rounds equal to the level of the spell, or half the creature’s CR if the effect wasn’t a spell or spell-like ability. If the weapon hits a creature while still holding this energy, it suffuses the target with a disruptive field for 1 round. On a critical hit, the disruptive field effect instead lasts for a number of rounds equal to the weapon’s critical multiplier.
 
 While affected by this field, a target must succeed at a concentration check (DC = 15 + twice the spell’s level) to cast any spell or spell-like ability (in addition to any other required concentration checks). If the check is failed, the affected creature’s spell or spell-like ability is wasted. A Small or Medium weapon made of mindglass costs an additional 13,000 gp.
 
-### Noqual [WtD]
+### Noqual
 
 Noqual looks like a pale green crystal to the untrained eye, but can be worked as iron despite its appearance. Noqual is light—half as heavy as iron, yet just as strong. More importantly, noqual is strangely resistant to magic.
 
 An object made of noqual gains a +4 bonus on any saving throw made against a magical source. Weapons made of noqual weigh half as much as normal, and gain a +1 enhancement bonus on damage rolls against constructs and undead created by feats or spells. Noqual armor weighs half as much as other armors of its type. For the purposes of movement and other limitations, heavy noqual armor is treated as medium armor, and medium noqual armor is treated as light armor. The armor’s maximum Dexterity bonus increases by 2, and armor check penalties are reduced by 3. The armor’s spell failure chance increases by 20% and applies to all magic cast while wearing the armor, regardless of the magic’s source or the wearer’s class abilities. The wearer of a suit of noqual armor gains a +2 resistance bonus on all saving throws against spells and spell-like abilities. Noqual has 30 hit points per inch of thickness and hardness 10. Noqual ore is worth 50 gp per pound. Noqual increases the cost of light armor by 4,000 gp, medium armor by 8,000 gp, heavy armor by 12,000 gp, a shield by 2,000 gp, and a weapon or other item by 500 gp. Creating a magic item that incorporates any amount of noqual into it increases the price of creation by 5,000 gp, as costly reagents and alchemical supplies must be used to treat the metal during the process.
 
-### Obsidian [WtD]
+### Obsidian
 
 This black volcanic glass is extremely sharp, and can be shaped into a variety of weapons that deal piercing and slashing damage. Bits of obsidian inserted into a length of tempered wood create effective swords such as terbutjes (Ultimate Equipment). Obsidian weapons cost half as much as base items of their type, and weigh 75% of what base items of their type do. Obsidian can be used to craft light and one-handed weapons that deal piercing or slashing damage, as well as spear tips and arrowheads. Obsidian weapons have half the hardness of their base weapons and have the fragile quality. The fragile glass nature of obsidian is perfect for creating sharp points and blades, but those same qualities make it unsuitable for creating armor. Armor cannot be constructed from obsidian. Magically strengthened obsidian does not have the fragile quality, and can be made into any armor or weapon that can be made of stone.
 
@@ -142,7 +142,7 @@ This black volcanic glass is extremely sharp, and can be shaped into a variety o
 
 Shadow cords are thin threads of stable shadowstuff woven into clothing or light armor. Shadow cord responds to glamers and improves their efficacy when placed on the wearer. Any glamer cast on the wearer is treated as if it had an additional (sensory) talent of the wearers choosing applied to it and a +1 circumstance bonus to the effective caster level of that glamer.
 
-### Sidhair [PGtSB]
+### Sidhair
 
 **Price** 500 gp per lb.
 
@@ -183,7 +183,7 @@ Unstable shadowstuff may be consumed like a material component as part of the ac
 
 Unstable shadowstuff, when shaped, behaves in all ways as stable shadowstuff except its native physical state is that of an amorphous blob. If destroyed, suppressed or altered it reverts to that state.
 
-### Viridian [WtD]
+### Viridian
 
 This deep green volcanic glass is similar to obsidian but is formed when molten rock is tainted with anomalous trace minerals from deep beneath the earth whose emanations are toxic to living things. It can be fragmented to razor sharpness, but even a tiny amount of viridium contacting the bloodstream can pass on a wasting sickness.
 

@@ -47,17 +47,17 @@ Each (blast type) talent belongs to a blast type group with others of similar th
 
 | Blast Type Group | Blast Types |
 | --- | --- |
-| Acid | Acid Blast, Adhesive Blast, Alkali Blast, Corrosive Blast [DRS] |
+| Acid | Acid Blast, Adhesive Blast, Alkali Blast, Corrosive Blast |
 | Air | Air Blast, Gale Blast, Hurricane Blast, Vacuum Blast |
-| Cold | Drenching Blast [DRS], Drowning Blast, Freezing Blast [DRS], Frost Blast, Numbing Blast |
+| Cold | Drenching Blast, Drowning Blast, Freezing Blast, Frost Blast, Numbing Blast |
 | Crystal | Crystal Blast, Living Crystal Blast, Razor Blast |
 | Electric | Attracting Blast, Alternyating Current, Electric Blast, Shock Blast, Static Blast |
-| Fire | Blistering Blast, Fire Blast, Searing Blast, Sweltering Blast [DRS] |
+| Fire | Blistering Blast, Fire Blast, Searing Blast, Sweltering Blast |
 | Force | Force Blast, Invigorating Blast, Mana Siphon |
 | Holy | Paradigm Blast, Smiting Blast |
 | Light | Blinding Blast, Incandescent Blast, Radiant Blast |
 | Negative | Gloom Blast, Gore Blast, Nether Blast, Tenebrous Blast |
-| Sonic | Resonating Blast [DRS], Reverberating Blast, Shattering Blast, Thunder Blast |
+| Sonic | Resonating Blast, Reverberating Blast, Shattering Blast, Thunder Blast |
 | Stone | Battering Blast, Shrapnel Blast, Stone Blast |
 
 ---
@@ -130,7 +130,7 @@ When using a blast type that entangles, flying entangled targets that are entang
 
 ## Blast Shape Talents
 
-#### Blast Salvo (blast shape) [BaP]
+#### Blast Salvo (blast shape)
 
 Instead of a single destructive blast, you unleash a volley of destructive power. You deliver 2 surges, each requiring a melee touch attack or a ranged touch attack within range. A ranged surge counts as a ray attack. Each surge may be delivered at the same or different targets, but all surges must be delivered simultaneously. Determine the damage dealt by each surge by distributing the damage dice dealt by your destructive blast between each surge. A surge must deal at least 1 damage die or you do not create that surge. If you spend an additional spell point, you may deliver one additional surge, plus 1 surge for every 6 caster levels you possess.
 
@@ -156,7 +156,7 @@ You may spend a spell point to arc your destructive blast between multiple targe
 
 As a move action, you may spend a spell point to surround yourself with an aura of elemental energies for a number of rounds equal to your casting ability modifier; any creature that ends its turn within 5 feet + 5 feet per 10 caster levels of you is affected by your destructive blast, though the damage is reduced to its minimum (so a 4d6 blast would deal 4 damage, or 12 with Crafted Blast). A Reflex save negates this damage. You may only have one aura active at a time; casting it again ends the previous instance.
 
-#### Energy Beam (blast shape) [DRS]
+#### Energy Beam (blast shape)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -178,7 +178,7 @@ This cannot be used with the Gather Energy talent. An instilled liquid remains p
 
 You may spend a spell point to move in a straight line up to your destructive blast’s range. This movement provokes attacks of opportunity as normal. You may pass through occupied spaces by making an overrun maneuver as a free action against the targets, using your caster level + your casting ability modifier in place of your base attack bonus + your Strength modifier for this check. If a target attempts to impede you during this overrun, they suffer the effects of your destructive blast (Reflex half), whether or not they succeed in stopping your movement. You may also attempt to crash through objects or barriers, dealing your destructive blast damage to them, and passing through unimpeded if this successfully destroys them. If, however, a target successfully stops you during an overrun or you are unable to destroy an object or barrier, your movement immediately stops at the nearest unoccupied space and you are staggered for one round.
 
-#### Energy Satellite (blast shape) [RW HB]
+#### Energy Satellite (blast shape)
 
 You may spend 1 spell point to form your destructive blast into 1 satellite that orbits your body that lasts for one minute per caster level or until discharged. This cannot be combined with Gather Energy or spending a spell point to increase the destructive blast’s damage. You may maintain 1 satellite at a time + 1 additional satellite per 10 caster levels. You may increase the casting time when using this (blast shape) by 1 step in order to form multiple satellites (up to your normal maximum). You may select different (blast types) for each satellite formed this way, spending any additional spell points or costs required.
 
@@ -214,7 +214,7 @@ You may transform your destructive blast into a burst effect centered anywhere w
 
 You may spend a spell point to add a +20 circumstance bonus to your destructive blast’s attack roll.
 
-#### Knight’s Blast (blast shape) [Jester's HB]
+#### Knight’s Blast (blast shape)
 
 You may spend a spell point to create a destructive blast which sharply turns. You may create up to a close-range line emanating from yourself but excluding yourself which travels half the total distance again at the end of its length at a 90 degree angle. Creatures in the effect are allowed a Reflex saving throw for half damage.
 
@@ -262,7 +262,7 @@ If the target is knocked into a solid object, they suffer 1d6 bludgeoning damage
 
 Your destructive blast deals acid damage, using d4 instead of d6 as its damage die. You may make a trip attempt as a free action at range against the target or targets struck by your alkali blast or that failed their Reflex saving throw if one was required. Your CMB for this check is equal to your caster level + your casting ability modifier.
 
-#### Alternyating Current (blast type, electricity) [Catgirl HB]
+#### Alternyating Current (blast type, electricity)
 
 Your destructive blast is a shocking current of latent static electricity built up by cats. An alternyating current blast deals electricity damage. Any creature struck by the attack or that failed their Reflex saving throw if one was required must take a 5-foot step. Affected creatures may take this 5-foot step in any direction they choose. If a creature was forced to take a 5-foot step by this effect, they may not take a 5-foot step during their next turn (but may otherwise move normally). If an affected creature would be forced to take a 5-foot step by this effect and could not, they do not move and cannot take a 5-foot step during their next turn (such as being surrounded by difficult terrain).
 
@@ -282,7 +282,7 @@ You may spend a spell point to have your destructive blast deal untyped damage. 
 
 Your destructive blast deals fire damage. Any creature struck by the attack or that failed their Reflex saving throw if one was required suffers a -2 penalty on Fortitude saves for 1d4 rounds.
 
-#### Corrosive Blast (blast type, acid) [DRS]
+#### Corrosive Blast (blast type, acid)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -301,7 +301,7 @@ If you are suffering from more than one weakness to the same damage type, only t
 
 Your destructive blast becomes an explosion of crystal, growing where it strikes. A crystal blast uses d4 instead of d6 as its damage die and deals piercing damage. Any creature struck by the attack or that failed their Reflex saving throw if one was required must succeed at a Reflex save or be entangled and unable to move. In addition, the target’s square (or the blast’s affected area) becomes overgrown with crystal and counts as difficult terrain. Breaking free of the entangled condition is a move action, requiring either a Strength check or an Escape Artist check against the crystal blast’s save DC. A target may also destroy the crystal on a square or creature by dealing 3 damage per caster level to the crystal. This removes the entangled condition from the creature and destroys the difficult terrain. Crystal disappears after 1 minute.
 
-#### Drenching Blast (blast type, cold) [DRS]
+#### Drenching Blast (blast type, cold)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -332,7 +332,7 @@ Your destructive blast deals fire damage. Any creature struck by the attack or t
 
 You may spend a spell point to change the damage type of your destructive blast to force. Any creature struck by the attack or that failed their Reflex saving throw if one was required must succeed at a Reflex save or fall prone.
 
-#### Freezing Blast (blast type, cold) [DRS]
+#### Freezing Blast (blast type, cold)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -359,7 +359,7 @@ You may change your destructive blast into a forceful wind that deals nonlethal 
 
 Your destructive blast deals negative energy damage. Any creature struck by the attack or that failed their Reflex saving throw if one was required must succeed at a Fortitude save or be sickened for 1 round. Undead creatures take no damage, but are instead blinded for 1 round on a failed Fortitude save. This bypasses the immunities of the undead type.
 
-#### Gore Blast (blast type, negative) [CrimDan]
+#### Gore Blast (blast type, negative)
 
 Your destructive blast spews forward a torrent of flesh, organs, blood and other bodily fluids. A gore blast deals bludgeoning damage, but ignores spell resistance, spell turning, and can penetrate a globe of invulnerability, antimagic field, or other forms of antimagic, and is not treated as a spell or magical for the purpose of bypassing damage reduction, damaging incorporeal creatures or for creatures or classes that gain a bonus to saving throws against magic. Creatures struck by your gore blast or that fail their Reflex saving throw if one was required suffer a -1 penalty to Fortitude saves for 1d4 rounds. This penalty increases to -3 against saves made against diseases or poisons.
 
@@ -411,7 +411,7 @@ You craft your destructive blast into a series of jagged crystal shards, dealing
 
 A charging or running creature must immediately stop if it fails this saving throw. Any creature moving at half speed or slower can pick its way through the area with no trouble. A creature need only attempt one saving throw per round to avoid this effect, no matter how many affected spaces they cross over that round. Crystals can also be destroyed by dealing 1 point of damage per caster level to the crystal in a particular space. Crystal also disappears after 1 minute.
 
-#### Resonating Blast (blast type, sonic) [DRS]
+#### Resonating Blast (blast type, sonic)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -453,7 +453,7 @@ You may spend a spell point to have your destructive blast deal electricity dama
 
 You may change the damage type of your destructive blast to slashing, piercing, and bludgeoning. A stone blast ignores spell resistance, spell turning, and can penetrate a globe of invulnerability, antimagic field, or other forms of antimagic, and is not treated as a spell or magical for the purpose of bypassing damage reduction, damaging incorporeal creatures, or for creatures or classes that gain a bonus to saving throws against magic. These stones disappear after 1 minute.
 
-#### Sweltering Blast (blast type, fire) [DRS]
+#### Sweltering Blast (blast type, fire)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -476,7 +476,7 @@ Your destructive blast deals negative energy damage. Any creature struck by the 
 
 You may change the damage type of your destructive blast to sonic. Targets who take damage from your thunder blast must succeed at a Fortitude saving throw or be deafened for 2d4 rounds.
 
-#### Vacuum Blast (blast type, air) [Apoc]
+#### Vacuum Blast (blast type, air)
 
 *Source: [Spheres Apocrypha: Battlefield Manipulation Talents](https://www.drivethrurpg.com/product/350940/Spheres-Apocrypha-Battlefield-Manipulation-Talents?affiliate_id=549120)*
 
@@ -494,7 +494,7 @@ Gaseous creatures are considered vulnerable to the damage dealt by this blast.
 
 Advanced talents are part of an optional rule and are only available with GM permission.
 
-#### Blast Array [Alienist HB]
+#### Blast Array
 
 **Prerequisites:** Destruction sphere (Admixture, Blast Salvo (blast shape), Greater Admixture (advanced), Split Blast (advanced)), caster level 10th.
 
@@ -510,7 +510,7 @@ When using Greater Admixture in conjunction with this talent to fire a blast sal
 
 When creating a destructive blast, you may spend 2 spell points to shape your destructive blast into a vast shape. If you possess Explosive Orb, you may create a close range-radius burst centered within range. If you possess Sculpt Blast, you may create either a long-range line, a medium-range cone, or a close-radius burst centered on yourself. All targets are allowed a Reflex save for half damage.
 
-#### Conflagrant Cluster [3PP]
+#### Conflagrant Cluster
 
 **Prerequisites:** Destruction sphere, caster level 5th
 
@@ -563,7 +563,7 @@ The destructive blast affects even objects constructed entirely of force, but no
 
 You may spend three spell points to make your destructive blast into a roiling cloud of destruction. The cloud covers a 10-foot + 5 feet per 5 caster levels radius, is 10-foot + 5 feet per 5 caster levels tall, and is stationary unless directed by the caster to move as a move action, which it does at a rate of 20-foot + 5 feet per 2 caster levels and persists for 1 minute per caster level. The cloud obscures vision as the fog cloud spell. Any creatures who begin their turn inside the cloud suffers your destructive blast damage. Affected creatures are allowed a Fortitude saving throw for half damage. You are immune to damage from your own cloud.
 
-#### Erratic Blast (blast type) [Alienist HB]
+#### Erratic Blast (blast type)
 
 **Prerequisite:** Destruction sphere.
 
@@ -592,7 +592,7 @@ For example, Astore is an elementalist with the Admixture talent. He creates the
 | 5 | Searing Blast |
 | 6 | Roll twice and admixture both blast types, rerolling any further results of 6 |
 
-**Addendum: [3PP]** You may select 5, 7, 12, 14, 16, 24, or 30 blast type talents with your erratic blast, rolling dice appropriate to the number of talents chosen and abiding by the normal restrictions.
+**Addendum:** You may select 5, 7, 12, 14, 16, 24, or 30 blast type talents with your erratic blast, rolling dice appropriate to the number of talents chosen and abiding by the normal restrictions.
 
 *Source: Card Casting 3: Volatile Variance*
 
@@ -602,7 +602,7 @@ For example, Astore is an elementalist with the Admixture talent. He creates the
 
 Your destructive blast has a range of 1,000 feet + 100 feet per caster level. Destructive blasts outside of your long range but inside this range can only target squares or large objects (ones the occupy more than one square), not individual creatures and take effect one round after being used.
 
-#### Grandmaster [Jester's HB]
+#### Grandmaster
 
 **Prerequisites:** Destruction sphere (Knight’s Blast (blast shape)).
 
@@ -616,7 +616,7 @@ When using the Admixture talent, you may spend an additional spell point to add 
 
 **Special:** You do not increase the casting time or spend an additional spell point when using the admixture talent with blast types from the same blast type group. The additional spell point cost of Greater Admixture still applies. This can be used to apply two Admixture feats to a single destructive blast.
 
-#### Magnifying Blast (blast type) [3PP]
+#### Magnifying Blast (blast type)
 
 *Source: [Expanded Spheres: Weaves of War](https://www.drivethrurpg.com/en/product/482352/expanded-spheres-weaves-of-war=3028400)*
 
@@ -660,7 +660,7 @@ Pathfinder Campaign Setting: Technology Guide © 2014, Paizo Inc.; Authors: Jame
 
 **Removing Radiation Effects:** All radiation damage is a poison effect, and as such it can be removed with any effect that neutralizes poison. Ability damage and drain caused by radiation damage can be healed normally.
 
-#### Split Blast [Alienist HB]
+#### Split Blast
 
 **Prerequisites:** Destruction sphere (Admixture, Blast Salvo (blast shape)).
 
@@ -684,7 +684,7 @@ Admixture feats grant new ways to utilize the Admixture talent (from the Destruc
 
 **Benefit:** When using Admixture, you may spend an additional spell point to affect one target damaged by the destructive blast with a word effect you know in place of a second blast type. If you possess Echoing Word, you may apply the word to any targets damaged, up to your maximum targets from Echoing Word.
 
-#### Boundary Admixture (Admixture) [3PP]
+#### Boundary Admixture (Admixture)
 
 **Prerequisites:** Destruction sphere (Admixture), Protection sphere
 
@@ -698,7 +698,7 @@ Admixture feats grant new ways to utilize the Admixture talent (from the Destruc
 
 **Benefit:** When using Admixture, you may spend an additional spell point to have a single creature that takes damage be targeted by blood control (including the free (quicken) or (still) ability granted by initiating blood control) that you possess. Creatures already under the effects of your blood control instead may be targeted by a (quicken) or (still) ability. If you possess the Mass Blood Magic talent, you may apply the blood control to all targets damaged, up to your maximum number of targets from Mass Blood Magic, though all affected creatures must be targeted by the same (quicken) or (still) ability.
 
-#### Curative Admixture (Admixture) [DbH]
+#### Curative Admixture (Admixture)
 
 Ruinous and restorative power alike flow from your will.
 
@@ -706,7 +706,7 @@ Ruinous and restorative power alike flow from your will.
 
 **Benefit:** When using Admixture, you may spend an additional spell point to have a single creature that takes damage be targeted by a cure, invigorate, or restore. If you possess the Mass Healing talent, you may apply the cure, invigorate, or restore to all targets damaged, up to your maximum targets from Mass Healing. A Life sphere effect which would deal damage (such as a cure on an undead or in conjunction with the Affliction talent) instead deals no damage when used with this feat.
 
-#### Dispelling Admixture (Admixture, Counterspell) [3PP]
+#### Dispelling Admixture (Admixture, Counterspell)
 
 **Prerequisites:** Destruction sphere (Admixture), Counterspell
 
@@ -720,7 +720,7 @@ Ruinous and restorative power alike flow from your will.
 
 **Benefit:** When using Admixture, you may spend an additional spell point to have a single creature that takes damage be targeted by an enhancement effect that you possess. If you possess the Mass Enhancement talent, you may apply the enhancement to any targets damaged, up to your maximum targets from Mass Enhancement. This ability can only target creatures, it cannot be used to affect objects.
 
-#### Faerie Admixture (Admixture) [3PP]
+#### Faerie Admixture (Admixture)
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -728,7 +728,7 @@ Ruinous and restorative power alike flow from your will.
 
 **Benefit:** When using Admixture, you may spend an additional spell point to affect one target damaged by the destructive blast with a fey-link in place of a second blast type. If you possess Bounty of the Fey, you may apply the fey-link to any targets damaged, up to your maximum targets from Bounty of the Fey.
 
-#### Generative Admixture (Admixture) [3PP]
+#### Generative Admixture (Admixture)
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -748,7 +748,7 @@ Ruinous and restorative power alike flow from your will.
 
 **Benefit:** When using Admixture, you may cause a single creature that takes damage to glow.
 
-#### Introductory Admixture (Admixture) [3PP]
+#### Introductory Admixture (Admixture)
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -756,7 +756,7 @@ Ruinous and restorative power alike flow from your will.
 
 **Benefit:** When using Admixture, you may spend an additional spell point to summon a creature in a square adjacent to the target’s square or another affected square. If you possess the Mass Summon Talent, you may summon multiple such creatures up to the normal maximum of Mass Summon.
 
-#### Militant Admixture (Admixture) [3PP]
+#### Militant Admixture (Admixture)
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -782,7 +782,7 @@ Ruinous and restorative power alike flow from your will.
 
 **Benefit:** When using Admixture, you may spend an additional spell point to affect one target damaged by the destructive blast with a shroud effect you know in place of a second blast type. If you possess Encompassing Weather, you may apply the shroud to any targets damaged, up to your maximum targets from Encompassing Weather.
 
-#### Primal Admixture (Admixture) [3PP]
+#### Primal Admixture (Admixture)
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -790,7 +790,7 @@ Ruinous and restorative power alike flow from your will.
 
 **Benefit:** When using Admixture, you may spend an additional spell point to affect one target damaged by the destructive blast with a geomancing or spirit effect which targets a creature or applies to a creature in place of a second blast type. If you possess Environmental Presence or Grant Spirit twice, you may apply the effect to any targets damaged, up to your maximum targets from these talents. Alternatively, you may spend an additional spell point to center a geomancy effect which targets an area on the target’s square or another affected square.
 
-#### Soft Admixture Specialty [3PP]
+#### Soft Admixture Specialty
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -806,7 +806,7 @@ Ruinous and restorative power alike flow from your will.
 
 **Benefit:** When using Admixture, you may spend an additional spell point to have a single creature that takes damage targeted by Unwilling Teleport. If you possess the Mass Teleport talent, you may apply the Unwilling Teleport effect to all targets damaged, up to your maximum targets from Mass Teleport.
 
-#### Spectacular Admixture (Admixture) [3PP]
+#### Spectacular Admixture (Admixture)
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 
@@ -814,7 +814,7 @@ Ruinous and restorative power alike flow from your will.
 
 **Benefit:** When using Admixture, you may spend an additional spell point to affect one target damaged by the destructive blast with a glamer effect in place of a second blast type. If you possess Complex Illusion, you may apply the glamer to any targets damaged, up to your maximum targets from Complex Illusion. Alternatively, you may spend an additional spell point to center a figment effect on the target’s square or another affected square.
 
-#### Spellshock Admixture (Admixture) [Mana HB]
+#### Spellshock Admixture (Admixture)
 
 **Prerequisites:** Destruction sphere (Admixture), Mana sphere.
 
@@ -838,7 +838,7 @@ Ruinous and restorative power alike flow from your will.
 
 **Benefit:** When using Admixture, you may spend an additional spell point to center a darkness or blot effect on the target’s square or another affected square.
 
-#### Unveiling Admixture (Admixture) [3PP]
+#### Unveiling Admixture (Admixture)
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 

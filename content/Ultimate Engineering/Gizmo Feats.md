@@ -12,7 +12,7 @@ parent: "[[Ultimate Engineering]]"
 
 Gizmo feats may be selected in place of certain class features, so long as they meet all of that feat’s normal prerequisites. Examples of such class features include alchemist discovery, investigator talent, rogue talent, slayer talent, vigilante talent, and witch hex as well as armorist arsenal trick, armiger prowess, blacksmith smithing insight, mageknight mystic combat, technician technical insight, and so on (in other words, a “class talent” feature). GMs may determine other class features are appropriate to select gizmo feats with.
 
-**(dual sphere)** **options** [DRS]
+**(dual sphere)** **options**
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
 A dual sphere feat is an ability or set of abilities that meshes two different spheres. Using a dual sphere feat is exclusive to other dual sphere feats, specifically, multiple dual sphere feats cannot be used simultaneously. The purpose is to prevent too many different spheres from being “daisy chained” together, but it should not preclude basic enabling options.
@@ -25,7 +25,7 @@ A feat that grants (dual sphere) options is otherwise treated as a feat with the
 
 # (Gizmo) Feats
 
-#### Adjust Parameters (Gizmo) [SUE]
+#### Adjust Parameters (Gizmo)
 
 *You’ve become adept at quickly adjusting a gizmo for its other possible configurations.*
 
@@ -39,7 +39,7 @@ Projects, including AI and *mechanoids*, cannot be adjusted with this feat.
 
 ---
 
-#### Biofuel Gizmos (gizmo) [DRS]
+#### Biofuel Gizmos (gizmo)
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
@@ -62,7 +62,7 @@ Minor gizmos and projects modified to be biofuel gizmos do not grant a creature 
 
 ---
 
-#### Biomechanical Upgrade (Champion, Gizmo) [SUE]
+#### Biomechanical Upgrade (Champion, Gizmo)
 
 *Machinery often imitates biology.*
 
@@ -76,7 +76,7 @@ You may not grant Alteration traits that normally require a spell point as an up
 
 ---
 
-#### Biomimicry (gizmo) [DRS]
+#### Biomimicry (gizmo)
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
@@ -96,7 +96,7 @@ Certain creature types and subtypes may not be available subject to GM discretio
 
 ---
 
-#### Compounding Arsenal (gizmo) [DRS]
+#### Compounding Arsenal (gizmo)
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
@@ -116,7 +116,7 @@ Your prosthetic arsenal gains the following personal battery use:
 
 ---
 
-#### Compounding Arsenal, Greater (gizmo) [DRS]
+#### Compounding Arsenal, Greater (gizmo)
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
@@ -130,7 +130,7 @@ Designating a compounded weapon may now be done at-will as a swift action, and t
 
 ---
 
-#### Dedicated Upgrades (Gizmo) [SUE]
+#### Dedicated Upgrades (Gizmo)
 
 *You craft your mechanoids with additional upgrades.*
 
@@ -142,7 +142,7 @@ Designating a compounded weapon may now be done at-will as a swift action, and t
 
 ---
 
-#### Durable Gizmos (Gizmo) [SUE]
+#### Durable Gizmos (Gizmo)
 
 *You create more durable inventions - whether by reinforcing the materials, using better materials, or designing them with fewer exploitable vulnerabilities.*
 
@@ -156,7 +156,7 @@ Designating a compounded weapon may now be done at-will as a swift action, and t
 
 ---
 
-#### Extra Gizmo Limit (Gizmo) [SUE]
+#### Extra Gizmo Limit (Gizmo)
 
 **Prerequisite:** Tinker sphere.
 
@@ -166,7 +166,7 @@ Designating a compounded weapon may now be done at-will as a swift action, and t
 
 ---
 
-#### Explosive Gizmo Expert (gizmo) [DRS]
+#### Explosive Gizmo Expert (gizmo)
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
@@ -187,7 +187,7 @@ You gain the following (dual sphere) options:
 
 ---
 
-#### Extendo Combatant (Combat, Gizmo) [SUE]
+#### Extendo Combatant (Combat, Gizmo)
 
 *Go go gizmo extending super limbs.*
 
@@ -201,14 +201,14 @@ You gain the following (dual sphere) options:
 
 ---
 
-#### Moldable Tinker Talent (Combat, Gizmo) [SUE]
+#### Moldable Tinker Talent (Combat, Gizmo)
 
 **Prerequisites:** Associated skill 10 ranks, Tinker sphere.
 **Benefit:** You gain 1 moldable Tinker talent. This moldable Tinker talent functions as per the innovator technician’s moldable inventorship class feature.
 
 ---
 
-#### Gizmo Attack (gizmo, combat) [DRS]
+#### Gizmo Attack (gizmo, combat)
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
@@ -225,7 +225,7 @@ This feat is meant to mimic both Spell Attack and Dual Wielding Mystic Fusion, w
 
 ---
 
-#### Teched-Out Minions (champion, gizmo) [DRS]
+#### Teched-Out Minions (champion, gizmo)
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
@@ -241,7 +241,7 @@ When the effect that summoned the creature ends (either its duration expiring, t
 
 ---
 
-#### Technological Weapons Expert (combat, gizmo) [DRS]
+#### Technological Weapons Expert (combat, gizmo)
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
@@ -256,7 +256,7 @@ When the effect that summoned the creature ends (either its duration expiring, t
 
 ---
 
-#### Transmitted Spell (champion, gizmo, metamagic) [DRS]
+#### Transmitted Spell (champion, gizmo, metamagic)
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
@@ -268,7 +268,7 @@ You do not require line of sight or line of effect to cast a transmitted spell; 
 
 **Cost:** +1 spell points.
 
-## Legendary Games (Gizmo) Feats [3pp]
+## Legendary Games (Gizmo) Feats
 
 The feats in this section were printed as part of the 3rd party Arcforge Players Compendium release.
 

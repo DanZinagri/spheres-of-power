@@ -455,7 +455,7 @@ An arcane rune can be seen by effects that detect or sense magic, and can also b
 **Components** V, S, M (bottle of fine wine worth 5 gp, stirred with an owl’s feather)
 **Description** This functions as the identify spell.
 
-#### Ill Wish [Curse] [High. HB]
+#### Ill Wish [Curse]
 
 **Sphere** Fallen Fey or Fate; **Ritual** Level 0
 **Casting Time** 1 minute

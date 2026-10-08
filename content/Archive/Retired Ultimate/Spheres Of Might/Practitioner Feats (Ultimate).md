@@ -8,7 +8,7 @@ parent: "[[Retired Ultimate]]"
 > [!note] Retired
 > The *Ultimate Spheres of Power* version of [[Practitioner Feats|Practitioner Feats]], since replaced by Diamond Recreational Studios' *Polished* content. Not part of the current rules.
 
-#### Battle Fanfare (combat) [High. HB]
+#### Battle Fanfare (combat)
 
 **Prerequisites:** Warleader sphere, bardic performance or raging song class feature.
 
@@ -30,13 +30,13 @@ Once per round you may recenter an ongoing tactic maintained as part of using ba
 
 Creatures with the scent special ability suffer a -2 penalty to their saving throw against this effect.
 
-#### Booming Boast (combat) [Youxia HB]
+#### Booming Boast (combat)
 
 **Prerequisites:** Gladiator sphere, Warleader sphere.
 
 **Benefits:** Whenever you are able to perform a boast, you may instead perform a shout with the same action.
 
-#### Commander’s Acumen (combat) [Conq. HB]
+#### Commander’s Acumen (combat)
 
 Your intricate plans come into motion faster.
 
@@ -50,7 +50,7 @@ Your intricate plans come into motion faster.
 
 As a joint action, you may channel your emotion class feature through one of your cohorts within medium range (100 feet + 10 feet per class level in the class that grants the emotion class feature), treating it as the origin for the effect but using your save DC, durations, and other parameters. Any required attack roll is resolved with the cohort’s base attack bonus, attributes, and other attack roll modifiers.
 
-#### Escutcheon [Apoc]
+#### Escutcheon
 
 *Source: [Spheres Apocrypha: Banners](https://www.drivethrurpg.com/product/351351/Spheres-Apocrypha-Monster-Traditions?affiliate_id=549120)*
 
@@ -58,7 +58,7 @@ As a joint action, you may channel your emotion class feature through one of you
 
 **Benefit:** A decorated shield you carry can act as your banner or flag, allowing you to benefit from those features without needing a free hand. Your shield only counts as your banner or flag while it gives you a shield bonus to AC.
 
-#### Flawless Strategy (combat) [Conq. HB]
+#### Flawless Strategy (combat)
 
 When all the pieces come together to make something amazing.
 
@@ -66,7 +66,7 @@ When all the pieces come together to make something amazing.
 
 **Benefit:** When using your challenge class ability to challenge a target, allies you have shared a teamwork feat with (such as with the Cavalier’s tactician ability, Warleader conscript specialization’s born leader ability, the Cavalry Officer Cavalier’s officer ability, or any other similar ability subject to GM discretion) and are benefiting from a Warleader tactic you created also receive half the benefits of your challenge class ability, including half the benefits from your order if applicable (minimum +1). Allies benefit from your challenge’s bonuses until the target of your talent is dead or unconscious or until the combat ends.
 
-#### Friends In Close Places [Conq. HB]
+#### Friends In Close Places
 
 Your retinue of followers has attracted some skilled individuals you can call on in a time of need.
 
@@ -82,7 +82,7 @@ In addition, whenever your followers attempt a skill check using your ranks or b
 
 When you begin a bard song or raging song, you may pass it off to a cohort within 30 feet as a free action. The cohort may maintain the performance as a standard action each round, spending your rounds of performance normally to do so. You may initiate a performance while another one is being maintained by your cohort, though multiple instances of the same performance do not stack.
 
-#### Petrifying Pennant [Apoc]
+#### Petrifying Pennant
 
 *Source: [Spheres Apocrypha: Banners](https://www.drivethrurpg.com/product/351351/Spheres-Apocrypha-Monster-Traditions?affiliate_id=549120)*
 
@@ -98,7 +98,7 @@ When you begin a bard song or raging song, you may pass it off to a cohort withi
 
 When you activate your rage, you may extend its benefits and penalties to one cohort within 30 feet as a swift action. The cohort spends rage rounds from your pool. The cohort may end its rage at will, suffering the normal penalties for doing so. The cohort need not remain within range to maintain this rage. You may share rage with more than one cohort; each requires a separate swift action and each spend one round from your rage rounds each round.
 
-#### Tactical Ensign [Apoc]
+#### Tactical Ensign
 
 *Source: [Spheres Apocrypha: Banners](https://www.drivethrurpg.com/product/351351/Spheres-Apocrypha-Monster-Traditions?affiliate_id=549120)*
 

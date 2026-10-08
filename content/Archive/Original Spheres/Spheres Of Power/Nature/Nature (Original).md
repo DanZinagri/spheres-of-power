@@ -13,7 +13,7 @@ parent: "[[Original Spheres]]"
 
 You can command the very terrain to do your bidding.
 
-# Geomancing [Core]
+# Geomancing
 
 As a standard action, you may command terrain and natural effects to act on your behalf. The effect produced depends on the environmental aspect targeted. Each effect must be centered or targeted within Close range.
 
@@ -21,7 +21,7 @@ Geomancing effects come in two forms: instantaneous and concentration. Instantan
 
 When a caster gains the nature sphere, he chooses and gains one of the following geomancing packages, with its included abilities. A caster may gain the Expanded Geomancing talent to gain additional packages.
 
-## Air [Apoc]
+## Air
 
 *Source: [The Geomancer's Handbook](https://www.drivethrurpg.com/product/165487/The-Geomancers-Handbook?affiliate_id=549120)*
 
@@ -47,7 +47,7 @@ You may create a line-shaped gust of wind emanating out from you, affecting all 
 
 You may convert polluted air, or a non-breathable gas or vapor into a cloud of breathable air in a radius of 5 ft. + 5 ft. per 5 caster levels radius area centered within range. Creatures who are entirely within the area of the cloud are able to breathe in sufficient air to sustain them.
 
-## Earth [Core]
+## Earth
 
 #### Bury
 
@@ -67,7 +67,7 @@ You may spend a spell point to send a tremor through the ground, affecting a 5 f
 
 You kick up sand or dirt within a 10 ft + 5 ft per 5 caster levels radius area centered within range. All creatures fully within this area gain concealment (attacks against them have a 20% miss chance). If creatures within this area attack creatures outside this area, the targets also have concealment.
 
-## Fire [Core]
+## Fire
 
 #### Manipulate Lava
 
@@ -171,7 +171,7 @@ As a standard action, you may cause an unattended object consisting mostly of me
 
 *The Value of Recovered Ore:* Ore recovered through the metal package from the Nature Sphere is of poor quality and degrades quickly, making it impossible to simply create and sell. However, players who possess a metal-based Craft of Profession skill such as Craft (weapons) or Profession (blacksmith) can heat and purify this ore to make it workable. This allows such a character to make Craft or Profession checks to earn a wage even without the presence of a market or workshop to work in. Rather than earning money, the check instead creates an amount of raw materials equal to that day or week's wage, which may be sold later or used as raw materials for any metal-based crafting.
 
-## Plantlife [Core]
+## Plantlife
 
 #### Entangle
 
@@ -199,7 +199,7 @@ The tree has a Strength score equal to 10 + your caster level, and a to-hit modi
 - Gargantuan: +4 size bonus, 3d6 damage, 20 ft reach.
 - Colossal: +8 size bonus, 4d6 damage, 30 ft reach.
 
-## Water [Core]
+## Water
 
 **Blood Sphere note:** If you possess both the Nature sphere water geomancing package and the Blood sphere, you may treat a volume of blood as an equal volume of water for your water geomancing abilities. You may treat a creature susceptible to bleed damage that is taking bleed damage or below half its maximum hit points as being wet for any ability that requires it. You may treat a creature susceptible to bleed damage of at least Large size (count two Medium creatures as a Large creature, two Small creatures as a Medium creature, etc.) that is suffering bleed damage or below half its maximum hit points as a sufficient volume to use the fog ability.
 
@@ -243,7 +243,7 @@ Creatures smaller than medium count as medium-sized creatures for this effect, w
 
 Creatures are allowed a Reflex save to avoid being frozen. On a failure, they are encased and cannot move or act and suffer 1 point of cold damage per round per inch of ice. To escape, they must pass a Strength check or Escape Artist check as a full-round action to escape the ice (DC 15 + 1 per inch of thickness) or another creature must break the ice around the trapped creature (3 hp per inch). On a successful save, target is still entangled for 1 round. Ice melts 1 inch of thickness per minute on the average day.
 
-## Spirit [Core]
+## Spirit
 
 Some talents are marked (spirit). These talents give the caster ways they have learned to tune their spirit with nature. Each (spirit) talent grants the caster a new ability they may use as a standard action. These abilities only affect the caster.
 
@@ -255,11 +255,11 @@ Some talents are marked (air)1, (plant), (water), (fire), (earth), or (metal)1. 
 
 # Nature Talents
 
-#### Deep Nature [Apoc]
+#### Deep Nature
 
 When you spend a spell point to make a geomancing ability last for 1 round per caster level without concentration, it lasts for 1 minute per caster level instead. When you spend a spell point to make a (spirit) talent last for 1 minute per caster level without concentration, it lasts for 10 minutes per caster level instead.
 
-#### Expanded Geomancing [Core]
+#### Expanded Geomancing
 
 Choose and gain a geomancing package you do not already possess. You may select this talent multiple times, gaining a new package each time.
 
@@ -267,7 +267,7 @@ Choose and gain a geomancing package you do not already possess. You may select 
 
 When activating one of your (spirit) Nature abilities, you may touch a willing target and grant them the benefit of your (spirit) talent, rather than gaining it yourself.
 
-#### Greater Range [Core]
+#### Greater Range
 
 The range of your geomancing abilities increases from Close to Medium range. You may select this talent up to 2 times. Each time it is selected, the range increases by 1 step (Close to Medium, Medium to Long).
 
@@ -294,7 +294,7 @@ As an instantaneous effect, you may, as a standard action, spend 2 spell points 
 
 As a concentration effect, you may spend a spell point to create a canopy made of natural life energy that can shelter an area equal to 1 5 ft cube per caster level, providing shelter to 1 medium creature per cube. Those under the canopy suffers no harm from being in a hot or cold environments. Those inside the shelter can exist comfortably in conditions between –50 and 140 degrees Fahrenheit without having to make Fortitude saves. The creature’s equipment is likewise protected. In addition, the shelter provides protection against other environmental hazards such as smoke, lack of air, and so forth; However, the vessel does not protect against any environmental damage such as cold or fire damage. The shelter also provides cover to those inside, blocking line of sight and effect against flying creatures. Hostile creatures cannot enter the canopy, but a successful attack against the canopy causes it to disappear unless the caster succeeds on an MSB check against a DC equal to the amount of damage dealt. Even when maintained by concentration, the canopy is stationary and does not move with the caster.
 
-#### Spiritlord [Apoc]
+#### Spiritlord
 
 When concentrating on a (spirit) talent, gain concealment (20% miss chance). Alternatively you may spend an additional spellpoint when concentrating on a (spirit) talent to gain total concealment instead (50% miss chance).
 
@@ -310,43 +310,43 @@ You may keep the cloud harmlessly contained within you for as long as the talent
 
 If the cloud has a duration, the time the cloud is contained within you counts toward that duration (gaseous creatures are immediately and harmlessly exhaled should their gaseous form expire). As a standard action, you may release the stored cloud as a breath weapon, filling a 60-ft. cone (or the cloud’s original area, if smaller). Any creature in the breath’s area is subject to its normal effects, making saving throws and spell resistance checks as appropriate against the cloud’s original DC. The exhaled cloud resumes its duration, if any. Exhaling the stored cloud immediately ends the duration of this talent. If you do not exhale the cloud before this talent’s duration expires, you suffer the cloud’s effects, automatically fail any saving throw made to resist it, and exhaling any gaseous creatures inhaled.
 
-#### Air Ball (air, spirit) (requires air) [Apoc]
+#### Air Ball (air, spirit) (requires air)
 
 As a concentration effect, you may as a standard action create a rideable sphere of compressed air, which supports your weight. While riding the sphere, you ignore difficult terrain that is less than 1 foot high, you do not trigger effects based on weight (such as a pressure plate), and any creature trying to track you through areas you crossed with this spell takes a -10 penalty on its Perception or Survival check to do so. While riding the air ball, you cannot pass over liquid greater than 1 foot deep. In addition, because of the instability of the sphere, your speed is reduced by 10 ft. (to a minimum of 5 ft.) and you take a -4 penalty on Acrobatics, Climb, and Ride checks.
 
-#### Air Geyser (air, geomancing) (requires air) [Apoc]
+#### Air Geyser (air, geomancing) (requires air)
 
 As an instantaneous effect, you may as a standard action create a powerful blast of air capable of flinging a Medium-sized or smaller target within range upward into the air (Reflex negates). If the target fails its Reflex save, the force of air hurls the target upward a number of feet equal to 5 x your caster level. If a solid object (such as a ceiling) is encountered, the target strikes the object in the same manner as it would during a normal fall. After this blast of air ceases, the target falls down (unless it was flying), taking falling damage as normal. The maximum size of the target increases by 1 size category every 5 caster levels.
 
-#### Air Leap (air) [Apoc]
+#### Air Leap (air)
 
 As long as you are surrounded by air or some other gaseous substance, you are always considered to have a running start when jumping. You add your caster level as a bonus on all Acrobatics checks to jump, you jump twice as far or high as the results of your check indicate, and you can once per round as a free action spend 1 spell point when jumping to double the distance you jump again (to a total of four times as far).
 
-#### Air Support (air, spirit) (requires air) [Apoc]
+#### Air Support (air, spirit) (requires air)
 
 You may as a standard action spend a spell point to increase or decrease your movement speed by 10 ft. + 10 ft. per 5 caster levels (applying to all movement modes) for 1 minute per caster level.
 
-#### Airlord (air) [Apoc]
+#### Airlord (air)
 
 You no longer need to make magic skill checks to use a Nature sphere talent or ability from the air geomancing package in areas with weather conditions of wind severity levels of 3 or higher.
 
-#### Buffeting Winds (air, geomancing) (requires air) [Apoc]
+#### Buffeting Winds (air, geomancing) (requires air)
 
 As an instantaneous effect, spend a spell point as an immediate action to respond to the attack with calculated bursts of wind. If responding to a melee attack, gain a deflection bonus to AC against the attack equal to 1 + 1 per 5 caster levels. If responding to a ranged attack, gain a 10% miss chance against the attack, increasing by 10% per 5 caster levels. In addition, during the round in which this talent is used, you gain moderate fortification (50% chance to negate a critical hit or sneak attack). You must be aware of the attack to use Buffeting Winds.
 
-#### Create Air (air, geomancing) [Apoc]
+#### Create Air (air, geomancing)
 
 As an instantaneous effect, you may spend a spell point to create a cloud of air anywhere within range. This creates one 5-ft. cube per 2 caster levels (minimum: 1 cube) of breathable air. While this is its own geomancing ability, you may combine this effect with another air package geomancing ability as part of the same standard action, in which case the second geomancing ability comes into effect immediately. You must pay any costs associated with both abilities to combine them in this manner. The created cloud of air will immediately displace other gases, liquids, and vapors in the area, but will shortly thereafter behave as normal air. For example, if this talent is used underwater, the created air cloud will form a bubble that will begin to ascend to the surface.
 
-#### Feather Fall (air, spirit) (requires air) [Apoc]
+#### Feather Fall (air, spirit) (requires air)
 
 As a concentration effect, you may spend a spell point as an immediate action to cause you and your equipment to fall slowly, changing the rate at which you fall to a mere 60 ft. per round (equivalent to the end of a fall from a few feet), and you take no damage upon landing while the talent is in effect. When the duration expires, a normal rate of falling resumes.
 
-#### Steal Breath (air, geomancing) [Apoc]
+#### Steal Breath (air, geomancing)
 
 As a concentration effect, you may as a standard action spend a spell point to pull the breath from a living creature’s lungs within range, leaving it unable to speak, use breath weapons, cast spells with verbal components, or anything else requiring breathing (Fortitude negates). Each round, the target has the remainder of the duration for which it can hold their breath reduced by double the normal amount (a target taking only move, swift, or free actions loses 2 rounds of breath each round, while a target taking standard or full-round actions loses 4 rounds of breath each round). If, during the duration, the target moves out of range or line of effect from you, the effect immediately ends. For the purpose of this talent, a barrier from the Protection sphere breaks line of effect. This talent has no effect on creatures that do not need to breathe air.
 
-#### Wind Blades (air, geomancing) [Apoc]
+#### Wind Blades (air, geomancing)
 
 (requires air) As a concentration effect, you may as a standard action create an cloud of harsh winds affecting a 10 ft. + 5 ft. per 5 caster levels radius area within range. Any creature or object moving in the area must make a Fortitude save or take 1d6 points of slashing damage for the first 5 ft. of movement, plus an additional 1d6 points of slashing damage for every additional 10 ft. of movement. Movement that doesn’t pass through the air cloud (such as burrowing, swimming, or teleportation) doesn’t cause this damage. If cast in an area with wind severity level above 2, increase the damage die by 1 size accordingly (d8 for strong, d10 severe, 2d6 windstorm, 2d8 hurricane, 3d6 tornado).
 
@@ -354,7 +354,7 @@ As a concentration effect, you may as a standard action spend a spell point to p
 
 # Earth Talents
 
-#### Earthlord (earth) [Apoc]
+#### Earthlord (earth)
 
 When determining the radius area of your earth geomancing abilities, increase the radius by 5 ft. per (earth) talent you possess.
 
@@ -362,15 +362,15 @@ When determining the radius area of your earth geomancing abilities, increase th
 
 When you use the tremor ability, creatures who are flying up to 10 ft per caster level over the affected area must make a Fly check whose DC is equal to your combat maneuver check or fall to the ground. This fall does not cause falling damage, but does cause them to be affected by the tremor when they land.
 
-#### Forge Earth (earth, geomancing) [Core]
+#### Forge Earth (earth, geomancing)
 
 As an instantaneous effect, you may spend a spell point to alter the ground within a 5 ft + 5 ft per 5 caster levels radius area within range. You may raise or lower the terrain up to 5 ft + 5 ft per 5 caster levels, and may create variants within the affected area such as summoning a small wall or creating gradients and stair effects. You cannot both raise and lower the terrain with the same use of this ability and cannot create variants in anything smaller than 5 ft squares (i.e., you cannot create 1 ft diameter holes or create a spike of earth). Targets within this area are not damaged by falling if you lower the terrain, and climbing up the edges of lowered terrain usually requires a DC 15 Climb check.
 
-#### Foundation (earth, spirit) (requires dirt, sand, or stone) [Apoc]
+#### Foundation (earth, spirit) (requires dirt, sand, or stone)
 
 While concentrating on any Earth geomancing ability, you gain a deflection bonus to AC and CMD equal to 2 +1 per 5 caster levels. Alternatively, you may as a standard action spend a spell point to gain these benefits for 1 minute per caster level. However, you temporarily lose these benefits on any round that you end your turn not standing on dirt, sand, or stone.
 
-#### Granulation (earth, geomancing) [Apoc]
+#### Granulation (earth, geomancing)
 
 As an instantaneous effect, you may spend a spell point to spontaneously create loose dirt or sand in an area within range. You may reduce the spell point cost by 1 (minimum 0) if you choose to break apart rock and stone already present (reducing their thickness by 1 inch, +1 inch per 5 caster levels), instead of creating the dirt or sand spontaneously. The created sand or dirt is enough to cover a 5 ft. + 5 ft. per 5 caster levels radius area. While this is its own geomancing ability, you may combine this effect with another earth package geomancing ability as part of the same standard action, in which case the second geomancing ability comes into effect immediately. You must pay any costs associated with both abilities to combine them in this manner.
 
@@ -380,7 +380,7 @@ As an instantaneous effect, you may spend a spell point to spontaneously create 
 
 As a concentration effect, you may spend 2 spell points and target a 5-ft space within range filled with sand, dirt or stone, transmuting the top portion into lava. Creatures who touch or otherwise enter the square with lava created with melt earth take 1d6 fire damage per caster level (Reflex half). Even after a creature leaves the lava, the creature continues to take the fire damage (Fortitude save for half damage) for 1d3 rounds. If this effect ends while a creature is inside the space affected by this ability, the earth instantly cools around the creature, immobilizing it (Reflex negates). An immobilized creature cannot move until it makes a successful Strength or Escape Artist check against the caster’s Nature DC, both of which require a full-round action. Alternately, another creature may attempt a Strength check as a standard action to break the earth, or any creature may deal 5 damage per caster level to the earth to break it.
 
-#### Sandstone (earth, geomancing) (requires dirt or sand) [Apoc]
+#### Sandstone (earth, geomancing) (requires dirt or sand)
 
 As an instantaneous effect, you may spend a spell point to transform dirt or sand into stone in an area within range. The size of the created rock or stone depends both on your caster level and the radius of dirt or sand you target. Alternatively, you may encase a dirt or sand covered target in 1 inch thick stone. Refer to Table: Sandstone to determine the maximum target size to be encased. For every size smaller the encased target is than the required radius of dirt or sand, either double the thickness of the stone or increase the number of encased targets. Creatures and objects are allowed a Reflex save to avoid being trapped in stone. On a failure, creatures or objects caught in the area are encased; To escape, they must pass an Escape Artist or Strength check (equal to your bury geomancing DC) as a full-round action; alternatively, a creature may break free by dealing sufficient damage to the rock or stone. Stone has a hardness of 15 and 2 hit points per inch. On a successful save, affected targets are still entangled and immobilized until they escape or 1 minute per caster level, whichever comes first.
 
@@ -396,7 +396,7 @@ As an instantaneous effect, you may spend a spell point to transform dirt or san
 | 16 | 25-ft. radius | Huge | Colossal | 16 tons |
 | 32 | 30-ft. radius | Gargantuan | Colossal+ | 125 tons |
 
-#### Speak with Stone (earth, spirit) [Core]
+#### Speak with Stone (earth, spirit)
 
 You may spend a spell point to speak with stones for 1 minute per caster level. This is not truly accomplished through speech, but rather by touching a stone you may learn what else has touched it, passed by it, what is hidden underneath it, etc. You can tell depth, weight, size, and number of passers by, but not more detailed information (the names or conversations of passers by, for instance). You can speak with both natural or worked stone.
 
@@ -408,11 +408,11 @@ When using tremor, you may have the shaken earth create stalagmite-like formatio
 
 You may spend a spell point as a standard action to gain DR/adamantine equal to 1/2 your caster level for 1 minute per caster level. Once this has absorbed damage equal to 10 per caster level, it immediately ends even if its duration has not expired.
 
-#### Unearth (earth, geomancing) [Apoc]
+#### Unearth (earth, geomancing)
 
 As a concentration effect, you may manipulate the earth surrounding a creature or object forcing them to be pushed or pulled 5 ft. + 5 ft. per 5 caster levels each round toward the surface (Fort save negates). While affected, the target is unable to burrow or Earth Glide, but is otherwise unimpeded. You may only target a creature or object whose location you have pinpointed (such as with a successful Perception check or with tremorsense). Unless the target has Earth Glide, the creature cannot be forcefully moved through stone (or lava if the target possesses fire resistance 20+ or fire immunity), but rather only sand or dirt. Each round, the target is allowed a new Fortitude save to end the effect.
 
-#### Whirlwind (earth, geomancing) [Core]
+#### Whirlwind (earth, geomancing)
 
 You may create a vortex out of sand or loose dirt. This is the same as a vortex made in water, except it travels over land. A whirlwind must remain in contact with the ground at all times, and may not fly.
 
@@ -424,15 +424,15 @@ You may create a vortex out of sand or loose dirt. This is the same as a vortex 
 
 As a concentration effect, you may, as a standard action, cause a 5 ft cube of water per 2 caster levels (minimum one 5-ft cube) within range to heat up and boil, dealing 1d6 per 2 caster levels (minimum 1d6, no save) Fire damage to any creature within. Each round at the beginning of your turn, any creature still within the boiling water suffers damage again. If a creature enters the boiling water, they immediately suffer damage, but only once during their movement, no matter how many times that movement takes them in and out of the boiling water.
 
-#### Dragonlung (fire) [Apoc]
+#### Dragonlung (fire)
 
 Gain a breath weapon. This breath weapon is either a 60-ft line or a 30-ft. cone as chosen at the time it is gained. The breath weapon deals 1d8 fire damage per 2 caster levels, and allows a Reflex save for half damage. The caster uses this breath weapon as a standard action, but must wait at least 1d4 rounds between uses.
 
-#### Feed on Fire (fire, spirit) [Core]
+#### Feed on Fire (fire, spirit)
 
 You may spend a spell point to gain the ability to absorb energy from fire for 1 minute per caster level. You gain fire resistance equal to your caster level. Whenever you take damage from fire (whether or not it is enough to penetrate your fire resistance), you are healed an amount equal to 1/2 the fire damage dealt, to a maximum amount equal to 1/2 the fire resistance granted by this ability (minimum: 1). Damage dealt in excess of this amount is handled normally.
 
-#### Fire Wielder (fire) [Core]
+#### Fire Wielder (fire)
 
 When using the create fire geomancing ability, you may encompass the fire around yourself. This accomplishes one of the two following feats:
 
@@ -440,7 +440,7 @@ When using the create fire geomancing ability, you may encompass the fire around
 
 2. You place the fire around yourself as a mantle. This does not deal fire damage to yourself, but all adjacent creatures are damaged by your fire and suffer a chance of catching fire, as if they were within the area where the fire was created.
 
-#### Firelord (fire) [Apoc]
+#### Firelord (fire)
 
 When using create fire, you may count your caster level as 5 higher for the purposes of determining the size category of magical fire you can create.
 
@@ -454,15 +454,15 @@ Heat Metal may be used to dispel Chill Metal.
 
 As a concentration effect, you may spend 2 spell points and target a 5-ft space within range filled with sand, dirt or stone, transmuting the top portion into lava. Creatures who touch or otherwise enter the square with lava created with melt earth take 1d6 fire damage per caster level (Reflex half). Even after a creature leaves the lava, the creature continues to take the fire damage (Fortitude save for half damage) for 1d3 rounds. If this effect ends while a creature is inside the space affected by this ability, the earth instantly cools around the creature, immobilizing it (Reflex negates). An immobilized creature cannot move until it makes a successful Strength or Escape Artist check against the caster’s Nature DC, both of which require a full-round action. Alternately, another creature may attempt a Strength check as a standard action to break the earth, or any creature may deal 5 damage per caster level to the earth to break it.
 
-#### Move Fire (fire, geomancing) [Core]
+#### Move Fire (fire, geomancing)
 
 As a concentration effect, you may take a fire equal to or smaller than the maximum you may target with affect fire and move it up to 30 ft per round in any direction. A fire moved in this way continues to burn, even without fuel (although it may be drowned or extinguished otherwise as normal), and dies as soon as the effect ends if not moved to a new fuel source. If you have spent a spell point to make this ability self-sustaining, you must still focus as a move action to move the fire. When moving fire to a space occupied by a creature, that creature suffers the fire’s damage (Reflex half) and must pass a Reflex save or catch on fire.
 
-#### Reflash (fire) [Apoc]
+#### Reflash (fire)
 
 If a non-magical fire within range would become extinguished (through magical or mundane means), you may spend a spell point as an immediate action cause the fire to relight in a 15 ft. radius burst of flame dealing fire damage equal to the largest sized fire you can create. This can be used to re-ignite a character who has caught on fire and extinguished the flames. A successful Reflex save halves the damage and negates catching fire.
 
-#### Ride the Flames (fire, spirit) [Apoc]
+#### Ride the Flames (fire, spirit)
 
 You may use heat waves to push yourself upward, granting a fly speed of 15 ft. + 5 ft. per 5 caster levels, with a maneuverability of clumsy for as long as you concentrate, or for 1 minute per caster level if you spend a spell point. This fly speed only functions on your turn (requiring you to spend separate actions for movement). If you are not on a surface that can support you on the end of your turn, you glide safely to the ground, at a speed of 60 ft. per round, taking no falling damage. Anyone using ride the flames cannot use its fly speed to hover.
 
@@ -470,15 +470,15 @@ You may use heat waves to push yourself upward, granting a fly speed of 15 ft. +
 
 Whenever you use the fire geomancing affect fire ability to decrease the size of a fire, you may have it bellow forth smoke as an emanation effect. The smoke radiates outward from the fire 5 ft per caster level. Those inside the smoke have concealment from those inside and outside the smoke, those outside the smoke gain concealment, but only against those inside the smoke. If you spend an additional spell point, the smoke grants total concealment instead. The smoke, unlike the affect fire ability, lasts 2 rounds per size category the fire is decreased. A fire may be increased and decreased again to recreate the effect.
 
-#### Smokewalk (fire, spirit) [Apoc]
+#### Smokewalk (fire, spirit)
 
 You may spend a spell point to gain the ability to walk on fire or smoke for 1 minute per caster level. Fire and its byproducts (such as smoke) become solid to you, allowing you to move over it as if it were normal ground. You may always choose to sink into the fire or smoke if you so desire, in which case you gain concealment (20% miss chance). While under the effects of Smokewalk, you gain fire resistance equal to your caster level, and the ability to see through smoke and breath in smoke harmlessly.
 
-#### Trail Blaze (fire, geomancing) [Apoc]
+#### Trail Blaze (fire, geomancing)
 
 As an instantaneous effect, you may spend a spell point as a standard action create a wave of ash, hot air and smoke in 120-ft. line which reveals a safe path to traverse, allowing creatures to ignore difficult terrain within the affected area for a number of rounds equal to 1/2 your caster level (minimum 1). Creatures who are caught in the area of effect when first cast must make a Fortitude save or become exhausted, creatures that make their saves become fatigued instead.
 
-#### Wreath of Flames (fire, spirit) [Apoc]
+#### Wreath of Flames (fire, spirit)
 
 When an enemy within your reach targets you with an attack or a combat maneuver, you may as an immediate action cause flames to erupt from your body toward the triggering enemy, causing fire damage equal to your caster level, Reflex save for half.
 
@@ -534,7 +534,7 @@ You no longer require large quantities of earth to use recover ore, instead, you
 
 Requires metal. As an instantaneous effect, you may, as a standard action, spend 2 spell points and target an unattended object (even non-metal objects) within close range. The target becomes fused with metal, permanently increasing or decreasing the hardness and AC of the object by 1, +1 per 5 caster levels. An object may only be under the effects of one manipulate object at a time, as each future casting dismisses and replaces the previous casting. This grants no further benefit or penalties due to the metals used.
 
-#### Metallord (metal) [Apoc]
+#### Metallord (metal)
 
 When you use the recover ore ability, you may create ore 1 size category larger than you otherwise could due to the maximum earth required or any CL restriction.
 
@@ -598,11 +598,11 @@ Because trees are objects, it is recommended that destroying a branch also reduc
 
 You may spend a spell point as a standard action to grow plantlife all over your body for 1 minute per caster level. This grants you a +1 enhancement bonus to natural armor, + 1 per 5 caster levels. In addition, in natural environments you gain a circumstance bonus to Stealth equal to 1/2 your caster level (minimum 1). You lose this circumstance bonus to Stealth in any round that it moves 5 or more feet.
 
-#### Grow Plants (plantlife, geomancing) [Core]
+#### Grow Plants (plantlife, geomancing)
 
 As an instantaneous effect, you may spend a spell point to instantaneously grow plants in an area within range. This may create one tree (to a maximum size equal to that which you can control through the pummel geomancing ability) or a field of plants within a 5 ft radius + 5 ft per 5 caster levels area. This may create basic plants (corn, underbrush, ivy) but cannot create plants with inherent qualities (i.e., you cannot create rare herbs, etc.). While this is its own geomancing ability, you may combine this effect with another plant package geomancing ability as part of the same standard action, in which case the second geomancing ability comes into effect immediately. You must pay any costs associated with both abilities to combine them in this manner.
 
-#### Mass Pummel (plantlife) [Apoc]
+#### Mass Pummel (plantlife)
 
 When using pummel, you may spend an additional spell point. If you do, you may affect an additional number of branches equal to 1 +1 per 5 CL.
 
@@ -610,7 +610,7 @@ When using pummel, you may spend an additional spell point. If you do, you may a
 
 Whenever you use the water geomancing fog ability, you may spend an additional spell point to cause the cloud to become nauseating, in addition to its other effects. Each creature in the area of the fog must make a Fortitude save or gain the nauseated condition, making them unable to attack, cast spells, concentrate on spells, or do anything else requiring attention. The only action a nauseated creature can take is a single move action per turn. This condition lasts as long as the creature is in the cloud and for a single round after it leaves. Any creature that succeeds on its save but remains in the cloud must continue to save each round on your turn.
 
-#### Plantlord (plantlife) [Apoc]
+#### Plantlord (plantlife)
 
 When using pummel, you may animate trees or branches one size category larger than you are normally able. When using Grow Plants, treat your CL as 5 higher for the purpose of determining the maximum tree size which you can create.
 
@@ -622,7 +622,7 @@ When using the pummel geomancing ability, the tree branches may throw vegetation
 
 Whenever you instruct the trees to attack with the pummel geomancing ability, you may choose to have the tree’s branches excrete a rubbery resin. If you would deal damage with pummel, you may forfeit dealing damage to instead have those hit by the attack become coated with sap which grants the fatigued condition until they remove it as a full-round action. If a fatigued creature becomes coated with sap, they then acquire the exhausted condition until they remove it with a full-round action. You may not combine this ability with any other ability that causes your pummel to deal no damage.
 
-#### Speak with Plants (plantlife, spirit) [Core]
+#### Speak with Plants (plantlife, spirit)
 
 You may spend a spell point to gain the ability to speak with plants for 1 minute per caster level. You can communicate with normal plants and plant creatures and can ask questions of and receive answers from them. A normal plant’s sense of its surroundings is limited, so it won’t be able to give (or recognize) detailed descriptions of creatures or answer questions about events outside its immediate vicinity. The spell doesn’t make plant creatures any more friendly or cooperative than normal, and a plant may be stupid, cunning, or cruel as any other creature. If a plant creature is friendly, it may do some favor or service for you.
 
@@ -630,11 +630,11 @@ You may spend a spell point to gain the ability to speak with plants for 1 minut
 
 Whenever you instruct the trees to attack with the pummel geomancing ability, you may choose to have the tree’s branches release spore pods instead of making an attack. This targets a 5 ft burst within their attack range, causing all creatures within that area to make a Fortitude save or become sickened for 1d6 rounds. If a creature fails its Fortitude save against this effect while already sickened, it becomes nauseated for 1 round. The tree and the caster are both unaffected by these spores. You cannot combine this ability with another ability that causes your pummel to deal no damage.
 
-#### Thorns (plantlife, geomancing) [Core]
+#### Thorns (plantlife, geomancing)
 
 You cause plants to grow spines and attack targets. This is the same as the entangle geomancing ability, except instead of making creatures entangled and unable to move, this effect deals piercing and slashing damage to them. Targets inside the area or who enter the area suffer 1 d6 damage +1 per 2 caster levels (Reflex half). Creatures who remain in the area suffer damage once per round at the end of your subsequent turns. This does not stack with any thorns already on the plants used in the effect. You may place an entangle and thorns effect on the same space.
 
-#### Towering Growth (plantlife) [Core]
+#### Towering Growth (plantlife)
 
 When creating an entangle or thorns effect, the effect grows tall enough to affect flying creatures as well. Creatures up to 10 ft per caster level over your entangle or thorns effects must pass a Reflex save or affected as normal. If they pass this Reflex save, they must still pass a Fly check (DC 15 + caster level) or be forced to fly at half speed while over the area.
 
@@ -644,7 +644,7 @@ When affected by an entangle effect, flying creatures are pulled to the ground b
 
 # Spirit Talents
 
-#### Absorbing Inhalation (air, spirit) [Apoc]
+#### Absorbing Inhalation (air, spirit)
 
 As a concentration effect, you may as a standard action grant your lungs inhuman strength and capacity, allowing you to harmlessly and completely inhale one gas, fog, smoke, mist, or similar cloud-like effect during the duration of the talent. The cloud-like effect can have no larger of a radius than 10 ft. + 5 ft. per 5 caster levels. If the targeted cloud is a magical effect, you must succeed at a magic skill check to inhale it. Inhaling the cloud removes it from the area, leaving normal breathable air in its place. Gaseous creatures gain a Reflex save to avoid being inhaled. This talent can only affect an instantaneous-duration cloud (such as a breath weapon) if you ready an action to utilize the talent in response.
 
@@ -652,15 +652,15 @@ You may keep the cloud harmlessly contained within you for as long as the talent
 
 If the cloud has a duration, the time the cloud is contained within you counts toward that duration (gaseous creatures are immediately and harmlessly exhaled should their gaseous form expire). As a standard action, you may release the stored cloud as a breath weapon, filling a 60-ft. cone (or the cloud’s original area, if smaller). Any creature in the breath’s area is subject to its normal effects, making saving throws and spell resistance checks as appropriate against the cloud’s original DC. The exhaled cloud resumes its duration, if any. Exhaling the stored cloud immediately ends the duration of this talent. If you do not exhale the cloud before this talent’s duration expires, you suffer the cloud’s effects, automatically fail any saving throw made to resist it, and exhaling any gaseous creatures inhaled.
 
-#### Air Ball (air, spirit) (requires air) [Apoc]
+#### Air Ball (air, spirit) (requires air)
 
 As a concentration effect, you may as a standard action create a rideable sphere of compressed air, which supports your weight. While riding the sphere, you ignore difficult terrain that is less than 1 foot high, you do not trigger effects based on weight (such as a pressure plate), and any creature trying to track you through areas you crossed with this spell takes a -10 penalty on its Perception or Survival check to do so. While riding the air ball, you cannot pass over liquid greater than 1 foot deep. In addition, because of the instability of the sphere, your speed is reduced by 10 ft. (to a minimum of 5 ft.) and you take a -4 penalty on Acrobatics, Climb, and Ride checks.
 
-#### Air Support (air, spirit) (requires air) [Apoc]
+#### Air Support (air, spirit) (requires air)
 
 You may as a standard action spend a spell point to increase or decrease your movement speed by 10 ft. + 10 ft. per 5 caster levels (applying to all movement modes) for 1 minute per caster level.
 
-#### Animal Friend (spirit) [Core]
+#### Animal Friend (spirit)
 
 You may spend a spell point as a standard action to cause animals to treat you as a friend for 1 minute per caster level. Indifferent animals (such as domesticated animals) become Friendly to you, while Unfriendly animals (such as wild animals) become Indifferent to you. This means that wild animals will not attack unless provoked, and you may make requests of animals, provided you may communicate with them (if you cannot communicate with a creature, only basic commands such as ‘go’, ‘come’, ‘fight’, or ‘stay’ may be communicated). This has no effect on animals who are hostile to you (such as those already in combat), and an animal with a master (such as an animal companion) will still attack if commanded to by its master.
 
@@ -670,15 +670,15 @@ Once during the duration of this ability, you may call the nearest animal of a p
 
 You may spend a spell point as a standard action to grow plantlife all over your body for 1 minute per caster level. This grants you a +1 enhancement bonus to natural armor, + 1 per 5 caster levels. In addition, in natural environments you gain a circumstance bonus to Stealth equal to 1/2 your caster level (minimum 1). You lose this circumstance bonus to Stealth in any round that it moves 5 or more feet.
 
-#### Feather Fall (air, spirit) (requires air) [Apoc]
+#### Feather Fall (air, spirit) (requires air)
 
 As a concentration effect, you may spend a spell point as an immediate action to cause you and your equipment to fall slowly, changing the rate at which you fall to a mere 60 ft. per round (equivalent to the end of a fall from a few feet), and you take no damage upon landing while the talent is in effect. When the duration expires, a normal rate of falling resumes.
 
-#### Feed on Fire (fire, spirit) [Core]
+#### Feed on Fire (fire, spirit)
 
 You may spend a spell point to gain the ability to absorb energy from fire for 1 minute per caster level. You gain fire resistance equal to your caster level. Whenever you take damage from fire (whether or not it is enough to penetrate your fire resistance), you are healed an amount equal to 1/2 the fire damage dealt, to a maximum amount equal to 1/2 the fire resistance granted by this ability (minimum: 1). Damage dealt in excess of this amount is handled normally.
 
-#### Foundation (earth, spirit) (requires dirt, sand, or stone) [Apoc]
+#### Foundation (earth, spirit) (requires dirt, sand, or stone)
 
 While concentrating on any Earth geomancing ability, you gain a deflection bonus to AC and CMD equal to 2 +1 per 5 caster levels. Alternatively, you may as a standard action spend a spell point to gain these benefits for 1 minute per caster level. However, you temporarily lose these benefits on any round that you end your turn not standing on dirt, sand, or stone.
 
@@ -702,27 +702,27 @@ As a concentration effect, you gain an extraordinary sense depending on geomanci
 
 As a concentration effect, you may grant yourself fast healing equal to 1/2 your caster level (minimum 1). This fast healing only confers healing so long as you have 1/2 your maximum hit points or less (wounded or in critical condition).
 
-#### Ride the Flames (fire, spirit) [Apoc]
+#### Ride the Flames (fire, spirit)
 
 You may use heat waves to push yourself upward, granting a fly speed of 15 ft. + 5 ft. per 5 caster levels, with a maneuverability of clumsy for as long as you concentrate, or for 1 minute per caster level if you spend a spell point. This fly speed only functions on your turn (requiring you to spend separate actions for movement). If you are not on a surface that can support you on the end of your turn, you glide safely to the ground, at a speed of 60 ft. per round, taking no falling damage. Anyone using ride the flames cannot use its fly speed to hover.
 
-#### Smokewalk (fire, spirit) [Apoc]
+#### Smokewalk (fire, spirit)
 
 You may spend a spell point to gain the ability to walk on fire or smoke for 1 minute per caster level. Fire and its byproducts (such as smoke) become solid to you, allowing you to move over it as if it were normal ground. You may always choose to sink into the fire or smoke if you so desire, in which case you gain concealment (20% miss chance). While under the effects of Smokewalk, you gain fire resistance equal to your caster level, and the ability to see through smoke and breath in smoke harmlessly.
 
-#### Speak with Animals (spirit) [Core]
+#### Speak with Animals (spirit)
 
 You may spend a spell point to gain the ability to speak with animals for 1 minute per caster level. You can ask questions of and receive answers from animals, but the spell doesn’t make them any more friendly than normal. Wary and cunning animals are likely to be terse and evasive, while the more stupid ones make inane comments. If an animal is friendly toward you, it may do some favor or service for you.
 
-#### Speak with Plants (plantlife, spirit) [Core]
+#### Speak with Plants (plantlife, spirit)
 
 You may spend a spell point to gain the ability to speak with plants for 1 minute per caster level. You can communicate with normal plants and plant creatures and can ask questions of and receive answers from them. A normal plant’s sense of its surroundings is limited, so it won’t be able to give (or recognize) detailed descriptions of creatures or answer questions about events outside its immediate vicinity. The spell doesn’t make plant creatures any more friendly or cooperative than normal, and a plant may be stupid, cunning, or cruel as any other creature. If a plant creature is friendly, it may do some favor or service for you.
 
-#### Speak with Stone (earth, spirit) [Core]
+#### Speak with Stone (earth, spirit)
 
 You may spend a spell point to speak with stones for 1 minute per caster level. This is not truly accomplished through speech, but rather by touching a stone you may learn what else has touched it, passed by it, what is hidden underneath it, etc. You can tell depth, weight, size, and number of passers by, but not more detailed information (the names or conversations of passers by, for instance). You can speak with both natural or worked stone.
 
-#### Speak with Vermin (spirit) [Apoc]
+#### Speak with Vermin (spirit)
 
 You may spend a spell point to gain the ability to speak with vermin for 1 minute per caster level. This is accomplished less through speech, but more by pheromone exchange. Because information transmitted and received is limited, vermin will likely be unable to give (or receive) detailed responses or questions. Using this talent doesn’t make them any more friendly than normal. If a vermin is friendly toward you, it may do some favor or service for you.
 
@@ -738,13 +738,13 @@ You may spend a spell point as a standard action to gain DR/adamantine equal to 
 
 You may spend a spell point to gain the Stalwart ability for 1 minute per caster level. (If the target makes a Fortitude or Will saving throw against an attack that has a reduced effect on a successful save, she instead avoids the effect entirely).
 
-#### Vermin Friend (spirit) [Apoc]
+#### Vermin Friend (spirit)
 
 You may spend a spell point as a standard action to cause vermin to treat you as a friend for 1 minute per caster level. Indifferent or domesticated vermin (such as the common honey bee or silkworm) become friendly to you, while unfriendly or wild vermin (such as monstrous scorpions or monstrous spiders) become indifferent to you. This means that wild vermin will not attack unless provoked, and you may make requests of vermin, provided you may communicate with them (if you cannot communicate with a creature, only basic commands such as ‘go’, ‘come’, ‘fight’, or ‘stay’ may be communicated). This has no effect on vermin who are hostile to you (such as those already in combat), and a vermin with a master (such as a vermin companion) will still attack if commanded to by its master.
 
 Once during the duration of this ability, you may call the nearest vermin of a particular type you designate (provided the vermin’s CR is equal to or less than your caster level, or 1/2 your caster level in the case of swarms) to seek you out. The vermin moves toward you under its own power, so the time it takes to arrive depends on how close a vermin of the desired type is when you cast the spell. If there is no vermin of that type capable of reaching you within this effect’s duration, you are aware of this fact.
 
-#### Waterwalk (water, spirit) [Core]
+#### Waterwalk (water, spirit)
 
 You may spend a spell point to gain the ability to walk on water for 1 minute per caster level. Water and all other liquid becomes solid to you, allowing you to move over it as if it were normal ground. Especially turbulent water (such as during a storm) may count as difficult terrain. You may always choose to sink into the water and swim if you so desire, in which case you are considered to have a Swim speed equal to your land speed, granting you all the usual benefits of a Swim speed, including a racial +8 bonus to Swim checks. This does not, however, grant you the ability to breath underwater.
 
@@ -770,7 +770,7 @@ Requires metal. As a concentration effect, you may as a standard action chill a 
 
 Chill Metal may be used to dispel Heat Metal.
 
-#### Create Water (water, geomancing) [Core]
+#### Create Water (water, geomancing)
 
 As an instantaneous effect, you may spend a spell point to create water anywhere within range. This creates one 5 ft cube per 2 caster levels (minimum: 1 cube) of clean water. While this is its own geomancing ability, you may combine this effect with another water package geomancing ability as part of the same standard action, in which case the second geomancing ability comes into effect immediately. You must pay any costs associated with both abilities to combine them in this manner. This can allow you to even create vortexes that can move over land.
 
@@ -782,15 +782,15 @@ Whenever you use the water geomancing fog ability, you may spend an additional s
 
 You may spend a spell point to speak with water for 1 minute per caster level. This is not truly accomplished through speech, but rather by dipping a limb into the water you may learn what else has touched it, passed by it, what is hidden underneath it, etc. You can tell depth, weight, size, and number of passers by, but not more detailed information (the names or conversations of passers by, for instance). Because water is constantly moving, you can only receive information on things that have occurred less than 1 day per caster level ago. You can speak with both fresh or salt bodies of water. If attempting to converse with particularly large bodies of water, such as oceans, you can only aquire information from a portion of the body of water, to a maximum distance of 1000 ft +100 ft per caster level.
 
-#### Waterlord (water) [Apoc]
+#### Waterlord (water)
 
 When using freeze, you may affect twice as many equivalent medium-sized creatures without affecting the thickness of the ice.
 
-#### Waterwalk (water, spirit) [Core]
+#### Waterwalk (water, spirit)
 
 You may spend a spell point to gain the ability to walk on water for 1 minute per caster level. Water and all other liquid becomes solid to you, allowing you to move over it as if it were normal ground. Especially turbulent water (such as during a storm) may count as difficult terrain. You may always choose to sink into the water and swim if you so desire, in which case you are considered to have a Swim speed equal to your land speed, granting you all the usual benefits of a Swim speed, including a racial +8 bonus to Swim checks. This does not, however, grant you the ability to breath underwater.
 
-#### Wave (water, geomancing) [Core]
+#### Wave (water, geomancing)
 
 As an instantaneous effect, you may spend a spell point to create a surge in water that pushing targets in its wake. This surge may be created anywhere within range and may face any direction, but once created it travels in a straight line for a distance of 30 ft + 5 ft per 2 caster levels. This area may extend out of the water and onto land to a maximum of 10 ft + 5 ft per 5 caster levels. The wave created is 5 ft wide. The width may be doubled by halving the length. This may be done multiple times, but the length cannot become smaller than 5 ft. A target cannot be pushed back further than the wave’s length.
 

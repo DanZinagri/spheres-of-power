@@ -90,7 +90,7 @@ An inventioneered effect is read as follows:
 
 **Effect:** This is the inventioneered effect’s properties, including its basic effects, battery use ability (if any), and so on.
 
-# Inventioneering Expanded [DRS]
+# Inventioneering Expanded
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
@@ -144,7 +144,7 @@ Certain invented gizmos may not be generally available, however, as they may rep
 
 Below are some sample inventioneered effects of varying complexity.
 
-#### Advanced Firearm Modifications [DRS]
+#### Advanced Firearm Modifications
 
 **Complexity:** 6
 **Prerequisites:** (modification) package, Weapon Modifications, Ranged Set, advanced effect (see below)
@@ -161,7 +161,7 @@ In games where advanced firearms are widely available, it may be appropriate to 
 
 **Modification: Firearm Emulation (gizmo):** This *modification* is attached to a crossbow or other non-firearm mechanical ranged weapon that must be loaded (except siege weapons). The modified weapon is treated as an early firearm. It resolves attacks within its first range increment as touch attacks, misfires on a 1, and has a misfire radius of 5 feet. This does not change the type of ammunition the weapon uses, the action required to load it, or its proficiency type or weapon group.
 
-#### Device (gizmo, minor, project) [DRS]
+#### Device (gizmo, minor, project)
 
 **Complexity:** 1
 **Prerequisites:** none
@@ -170,14 +170,14 @@ In games where advanced firearms are widely available, it may be appropriate to 
 
 **Special:** A device may optionally be crafted as a project, in which case it has a project cost of 20 gp per gizmo level.
 
-#### Dirty Pick [DRS]
+#### Dirty Pick
 
 **Complexity:** 5
 **Prerequisites:** (transmission) package, Disruption Set, Infiltration Set, Infiltration sphere.
 
 **Effect:** You can craft an auto-pick as an advanced gizmo (a “dirty pick”). A dirty pick may be used to perform dirty trick combat maneuvers at range with the dirty pick’s remote hacking ability.
 
-#### Disruptor Research [DRS]
+#### Disruptor Research
 
 **Complexity:** 4
 **Prerequisites:** Disruption Set, advanced effect.
@@ -221,7 +221,7 @@ A firestarter may perform the following options:
 
 - **Battery Use:** The user may deplete 1 battery as part of lighting the firestarter (or as part of using it as a swift action) to spray a gout of flames in a 30-foot cone or 60-foot line, chosen when used. Creatures caught in the area of effect take damage as though damaged by the firestarter’s touch attack.
 
-#### Improved Nightvision (gizmo) [DRS]
+#### Improved Nightvision (gizmo)
 
 **Complexity:** 4
 **Talents:** (augmentation) package, Exploration Set, Sensory Set
@@ -231,7 +231,7 @@ A firestarter may perform the following options:
 - **Additive Nightvision:** If the user has darkvision from another source, they may add half the short-range source of darkvision to the range of the other source of darkvision (for example, adding half of a nightvision gizmo’s normal 20 feet to a creature’s 60 feet).
 - **Battery Use (1 battery) (requires 10 ranks in associated skill):** The user may use this ability as a standard action to improve this gizmo’s functions for 1 minute per gizmo level. For the duration, the user also gains the see in darkness ability, allowing them to see perfectly in all darkness, including magical darkness that otherwise might obstruct darkvision.
 
-#### Kinetic Launcher (gizmo) [DRS]
+#### Kinetic Launcher (gizmo)
 
 **Complexity:** 2
 **Talents:** Pressure Set
@@ -265,7 +265,7 @@ The following nanomachine customizations are available, with additional related 
 - **Nanomachine Implant (Prosthetic Organ) (requires 5 ranks in associated skill):** you may craft a prosthetic organ as an advanced gizmo, creating a nanomachine implant. Nanomachine implants reduce bleed by 1 each round (potentially ending the bleed effect, if it reaches 0), increasing by +1 per 3 gizmo levels.
   - **Battery Use:** The user can deplete 1 battery as a free action to activate the nanomachine implant’s ability to harden in response to trauma for 1 minute per gizmo level. For the gizmo’s duration, the user gains DR /– equal to the nanomachine implant’s bleed reduction per round; this damage reduction improves by +2 each time the user takes physical damage (which could be reduced by this ability’s damage reduction). This increase stacks with itself, but is reduced by 1 each round the user does not take physical damage (to a minimum of the nanomachine implant’s bleed reduction). An attack which deals less damage than this gizmo’s damage reduction does not trigger this ability’s damage reduction increase.
 
-#### Presentation Aid [DRS]
+#### Presentation Aid
 
 **Complexity:** 4
 **Prerequisites:** (computation) package, Emotion Set, Sensory Set
@@ -280,7 +280,7 @@ Additionally, the presenter gains the following battery use ability:
 
 **Special - (Transmission) package:** The artwork may be displayed from a suitable gizmo within signal range.
 
-#### Primitive AI (gizmo) [DRS]
+#### Primitive AI (gizmo)
 
 **Complexity:** 6
 **Prerequisites:** (computation) package, Advanced Computation, advanced effect
@@ -304,7 +304,7 @@ The secure shelter collapses down into a portable state when deactivated.
 
 **Special - (Transportation) Package:** A secure shelter may be affixed to a vehicle, such as a suitably large *mechanoid*, to allow it to be transported (as though towing) or configured similarly. The secure shelter’s airlock may be positioned inward to the *mechanoid*, such that creatures must pass from the inside of the *mechanoid* (such as through its passenger seats/inner cabin area) to enter the secure shelter.
 
-#### Sleep Technology (gizmo) [DRS]
+#### Sleep Technology (gizmo)
 
 **Complexity:** 2
 **Prerequisites:** Medical Set
@@ -313,7 +313,7 @@ The secure shelter collapses down into a portable state when deactivated.
 
 **Transportation: Ergonomic Seats:** You improve the passenger seats upgrade. Creatures can sleep comfortably in the passenger seats, even while wearing medium or heavy armor.
 
-#### Stochastic Foresight (gizmo) [DRS]
+#### Stochastic Foresight (gizmo)
 
 **Complexity:** 4
 **Prerequisites:** (computation) package, advanced effect
@@ -339,13 +339,13 @@ Grappling hooks you craft can be modified with this ability.
 
 While attached to the cord, the creature moves up or down the cord each round at the end of their turn at a speed equal to 20 + 5 feet per 2 gizmo levels, +10 feet if moving from a higher elevation to a lower elevation. A creature moves the chosen direction until they reach the end of the cord (and automatically detach) or may choose a new direction as a move or swift action. A creature may choose to ascend or descend the cord at a slower speed, chosen each round.[/div]
 
-## Class Feature Inventions [DRS]
+## Class Feature Inventions
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
 This section contains sample inventions that specifically interact with class features. These can be novel ways to integrate Tinker into a character whose abilities may not normally mesh well.
 
-#### Explorer’s Gear (gizmo) [DRS]
+#### Explorer’s Gear (gizmo)
 
 **Complexity:** 2
 **Prerequisites:** (modification) package, Exploration Set
@@ -354,7 +354,7 @@ This section contains sample inventions that specifically interact with class fe
 
 - **Personal Battery Use [Full Adaptation]** **(1 battery)**: For 1 hour per gizmo level, the user benefits from their highest favored terrain bonus in the chosen terrain.
 
-#### Mechanical Flexibility (gizmo) [DRS]
+#### Mechanical Flexibility (gizmo)
 
 **Complexity:** 2
 **Prerequisites:** (augmentation) package, Cognitive Set
@@ -365,7 +365,7 @@ This section contains sample inventions that specifically interact with class fe
 
 This personal battery use depletes 1 additional battery for each time it has been used in the same day.
 
-#### Radio Coordination [DRS]
+#### Radio Coordination
 
 **Complexity:** 2
 **Prerequisites:** (transmission) package, Transmission Mastery

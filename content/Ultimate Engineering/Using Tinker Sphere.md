@@ -119,7 +119,7 @@ Subject to GM discretion, gizmos that are not maintained may become disabled or 
 
 **Selling Gizmos:** Gizmos crafted with the Tinker sphere are visibly impermanent in some fashion and are disregarded by most buyers as junk; it is relatively easy (DC 10 Appraise) to recognize the unstable nature of these devices, so typically they have no monetary value; a potential buyer who fails their Appraise check assumes they are spare parts or salvage worth no more than 1 gp.
 
-### Advanced Gizmos [DRS]
+### Advanced Gizmos
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
@@ -135,7 +135,7 @@ If an accommodation would be improved as an advanced accommodation, it increases
 
 **Example:** A character could craft an advanced grappling hook modified with the Biomimicry and Explosive Gizmo Expert feats, with the resulting explosive, living, advanced grappling hook counting as 4 gizmos against their gizmo limit.
 
-### Personal Gizmo and Personal Battery Use [DRS]
+### Personal Gizmo and Personal Battery Use
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 *Certain creations of a tinker practitioner are best used in the hands of that practitioner.*
@@ -219,7 +219,7 @@ When an AI or *mechanoid* receives a bonus or penalty to its effective gizmo lev
 
 Some gizmos may have a costly material component, called projects, which take longer to craft (see **[[Mastering Gizmos|Section 4.1: Mastering Gizmos, Projects]]** for more).
 
-#### Infrastructure [DRS]
+#### Infrastructure
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
@@ -235,7 +235,7 @@ The following projects are infrastructure projects:
 - **Excavation Set:** Pipe
 - **Movement Set:** Rail Track
 
-### Synergy [DRS]
+### Synergy
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 

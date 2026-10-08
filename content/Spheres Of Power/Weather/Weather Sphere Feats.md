@@ -55,7 +55,7 @@ When thunder rolls and lightning cracks, your minions rise.
 
 **Benefit:** When you use a shroud as a standard or full-round action, you may spend a spell point to use a different shroud on the same target as a swift action. If the first shroud affected multiple targets (as with Encompassing Shroud), the second affects any one of the targets and may not be combined with Encompassing Shroud.
 
-#### Localized Changes (Dual Sphere) [Jester's HB]
+#### Localized Changes (Dual Sphere)
 
 **Prerequisites:** Time sphere (Time Of The Season (time)), Weather sphere.
 
@@ -75,7 +75,7 @@ Suggested weather conditions (for each season):
 
 **Benefit:** For the purposes of your (mantle) talents you are always treated as being under the effect of your mantle and gain benefits from any (mantle) talents as if the weather were one step more severe. This does not apply to other creatures you bestow your mantle on.
 
-#### Rain Of Renewal (Dual Sphere) [Warden]
+#### Rain Of Renewal (Dual Sphere)
 
 **Prerequisite:** Life sphere (Stabilizing Invigoration), Weather sphere.
 

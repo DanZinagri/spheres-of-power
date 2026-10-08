@@ -14,13 +14,13 @@ The [utility start] tag is described in Spheres of Guile. It is only possible to
 
 **Piecemeal Utility Starts:** If you have a progression or optional replacement that grants a [utility] combat talent or a [utility] magic talent, you can use it to gain a base sphere if you apply a drawback or combination of drawbacks that removes all of that base sphere’s benefits other than skill ranks and [utility] talents (and actions necessary to use such talents).
 
-#### Adoorable [SA:MT]
+#### Adoorable
 
 You gain the Trap Door talent as the bonus talent gained from this drawback and cannot create (dart) traps. You can create (snare) traps but they do not have any effect outside of triggering your trap doors (as per the triggered trait). If you have the Slow Worker drawback you must always take 10 minutes to craft your doors.
 
 **Incompatible:** Battle Trapper, Dismantler, Focused Trapper.
 
-#### Alternative-Trap [IHB2]
+#### Alternative-Trap
 
 Whenever this sphere uses or grants ranks in Craft (traps) or calls for a Craft (traps) check, you instead gain ranks in a Craft or Profession or attempt a Craft or Profession check. The particular skill used is determined by the GM when you first gain this drawback. You use your ranks in the chosen skill instead of Craft (traps) when determining saving throws and Trap sphere effects. It is also substituted for all checks made to craft the items in question. This drawback does not grant a bonus talent; removing this drawback does not require spending a talent, but requires GM permission. You use ranks in the chosen skill in place of Craft (traps) for prerequisites for feats and talents that require the Trap sphere.
 
@@ -28,13 +28,13 @@ Whenever this sphere uses or grants ranks in Craft (traps) or calls for a Craft 
 
 You may not set traps. You must select the Trap Wielder talent with the bonus talent gained from this drawback. You may not have both this and the Slow Worker drawback.
 
-#### Dismantler [Conq. HB]
+#### Dismantler
 
 You do not gain the ability to set traps, including the darts trap and the tripwire snare. You must choose Trap Finder with the bonus talent gained from this drawback.
 
 **Incompatible:** Battle Trapper, Expensive Traps, Focused Trapper, Mana Traps, Slow Worker.
 
-#### Expensive Traps [IHB2]
+#### Expensive Traps
 
 The materials gathered over the day and the trap bag are not enough to create your traps. Each trap you make requires a cost of 1 silver piece per rank in Craft (traps) used to produce it. They still degrade naturally as normal.
 
@@ -42,7 +42,7 @@ The materials gathered over the day and the trap bag are not enough to create yo
 
 Choose either dart or snare traps. You may not place or otherwise use traps of the chosen type. You must take Trapper’s Recovery with this drawback.
 
-#### Mana Traps [IHB2]
+#### Mana Traps
 
 Your traps use magical elements as part of their designs. This makes the effects your traps create magical in nature and subject to spell resistance. In addition their effects may be dispelled by dispel magic and other such similar effects and your traps are treated as magic items for the purposes of dispelling effects.
 

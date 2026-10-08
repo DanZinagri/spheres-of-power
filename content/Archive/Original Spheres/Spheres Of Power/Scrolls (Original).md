@@ -37,7 +37,7 @@ Scribe Scroll, Creation Sphere, Warp Sphere; Cost 1,625 gp
 
 The following items were made by the Wiki or by members of the community using the rules presented in Spheres of Power or Items of Power.
 
-### Bug-Out Scroll [Wiki]
+### Bug-Out Scroll
 
 **Aura** moderate Mind and Illusion; **CL** 10th
 **Slot** none; **Price** 2,500 gp; **Weight** -
@@ -46,7 +46,7 @@ On this scroll is scrawled a mind-numbingly complicated formula that, when activ
 **Construction Requirements**
 Scribe Scroll, Mind Sphere, Illusion Sphere; **Cost** 1,250 gp
 
-### Full Heal [Wiki]
+### Full Heal
 
 **Aura** strong Life; **CL** 20th
 **Slot** none; **Price** 9500 gp; **Weight** -
@@ -55,7 +55,7 @@ For when you need to heal everyone of everything. When used, this scroll heals u
 **Construction Requirements**
 Capture Spell, Life Sphere, Break Enchantment, Greater Healing (x4), Mass Healing, Ranged Healing, Restorative Cure, Restore Composure, Restore Health, Restore Mind, Restore Movement, Restore Senses, Restore Soul, Resuscitate; **Cost** 4750 gp
 
-### Group Healing Scroll [Wiki]
+### Group Healing Scroll
 
 **Aura** moderate Life; **CL** 10th
 **Slot** none; **Price** 1500 gp; **Weight** -
@@ -64,7 +64,7 @@ When used, this scroll heals up to six targets in 50 feet for 1d8+30 hit points.
 **Construction Requirements**
 Capture Spell, Life Sphere, Greater Healing (x2), Mass Healing, Ranged Healing; **Cost** 750 gp
 
-### Revitalizing Scroll, Lesser [Wiki]
+### Revitalizing Scroll, Lesser
 
 **Aura** moderate Life; **CL** 6th
 **Slot** none; **Price** 600 gp; **Weight** -
@@ -73,7 +73,7 @@ When used, this scroll grants up to four targets in touch range Fast Healing 1 f
 **Construction Requirements**
 Capture Spell, Life Sphere, Mass Healing, Revitalize; **Cost** 300 gp
 
-### Revitalizing Scroll [Wiki]
+### Revitalizing Scroll
 
 **Aura** moderate Life; **CL** 10th
 **Slot** none; **Price** 1000 gp; **Weight** -

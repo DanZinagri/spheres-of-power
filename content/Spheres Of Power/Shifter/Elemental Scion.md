@@ -19,7 +19,7 @@ At first level, the elemental scion gains the Alteration sphere and the Beast So
 
 This alters shapeshifter.
 
-### Elemental Adept [RW HB]
+### Elemental Adept
 
 At 1st level, when only affecting herself with a shapeshift, the elemental scion does not need to spend an additional spell point when granting the form of an elemental with Elemental Transformation to gain the ability to negate critical hits and precision damage.
 

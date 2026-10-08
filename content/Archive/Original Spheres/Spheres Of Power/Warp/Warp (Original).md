@@ -13,11 +13,11 @@ parent: "[[Original Spheres]]"
 
 You can twist space to your whim.
 
-# Teleport [Core]
+# Teleport
 
 You can spend a standard action to teleport yourself and up to a heavy load to any place within Close range. Alternately, you may teleport a touched willing creature and their carried equipment instead of yourself. You may spend a spell point to increase your teleport range to Medium instead of Close. You must have line of sight to your destination.
 
-# Bend Space [Core]
+# Bend Space
 
 Talents marked (space) grant you ways of bending and folding space. Bending space requires a standard action, and you must be touching the target or location to be affected.
 
@@ -27,15 +27,15 @@ Talents marked (space) grant you ways of bending and folding space. Bending spac
 
 # Warp Talents
 
-#### Distant Teleport [Core]
+#### Distant Teleport
 
 When you spend a spell point to increase the range of your teleport, the range increases to Long instead of Medium.
 
-#### Emergency Teleport [Core]
+#### Emergency Teleport
 
 You may spend a spell point to perform a teleport as an immediate action. The range is decreased to 5 ft per 2 caster levels (minimum: 5 ft). If used to avoid an attack or area effect, this grants the target evasion and a dodge bonus to AC and Reflex saves equal to half your caster level (minimum 1). You cannot make a touch attack as part of this teleport, but you may affect another creature if you are already touching them.
 
-#### Group Teleport [Core]
+#### Group Teleport
 
 You may spend a spell point to teleport multiple creatures, up to 1 additional target per 2 caster levels (minimum: 1). You may choose whether or not to include yourself in the group to be teleported. Each creature must be touching you or someone else in the affected group to be teleported, unless you possess the Ranged Teleport talent. If you possess the Unwilling Teleport talent, you only need to spend one spell point no matter how many unwilling targets are affected. If one unwilling target makes their saving throw, other creatures are still affected as normal.
 
@@ -55,7 +55,7 @@ You may choose to apply only the effects of Isoport, changing a target’s spati
 
 You may spend a spell point or increase your teleport casting time by one step in order to make a single attack after successfully teleporting yourself. You may also spend an additional spell point to make either a full attack or take an attack action instead of a single attack after successfully teleporting. You may not use this talent in conjunction with any abilities or conditions that reduce the action needed to teleport (such as Emergency Teleport or Quick Teleport).
 
-#### Quick Teleport [Core]
+#### Quick Teleport
 
 When teleporting yourself or a group that includes yourself, you may spend an additional spell point to teleport as a move action instead of a standard action. You cannot make a free touch attack as part of a quick teleport, but you may affect another creature if you are already touching them.
 
@@ -63,7 +63,7 @@ When teleporting yourself or a group that includes yourself, you may spend an ad
 
 When you use a (space) talent, the target or location to be affected may be any appropriate target or location within close range instead of touch range. You may take this talent multiple times. Each time it is taken, increase the range by 1 step (close to medium, medium to long).
 
-#### Ranged Teleport [Core]
+#### Ranged Teleport
 
 You no longer need to be touching another creature in order to teleport them, although the creature must still be within Close range to be affected in this manner.
 
@@ -79,21 +79,21 @@ If used in conjunction with Pouncing Teleport you do not get extra attacks, but 
 
 If you choose to full attack, you may instead use any number of your attacks as a single action, and use any remaining attacks after your second teleport. Other abilities that would create additional effects with your teleport (such as dual sphere feats) only apply to one of the split teleports.
 
-#### Splinter [Core]
+#### Splinter
 
 When teleporting a target (usually with the Teleport Object or Unwilling Teleport talents), you may splinter the target, causing it to appear not quite as it was. This deals 1d6 damage per 2 caster levels (minimum: 1d6) to the target. This damage bypasses all hardness, DR, and energy resistance.
 
-#### Swap Placement [Core]
+#### Swap Placement
 
 When teleporting yourself or another creature to a location already occupied by a different creature, you may send the creature already occupying that location back to where the teleporting creature came from. This must be a willing target unless you possess the Unwilling Teleport talent. If the second target is unwilling, you must spend a spell point and they are allowed a save as normal. If they succeed at this saving throw, the teleporting creature returns to their point of origin unharmed.
 
-#### Teleport Object [Core]
+#### Teleport Object
 
 You may teleport objects independent of people. The object cannot weigh more than 10 pounds per caster level, and it cannot be in the possession of another creature (in their hand or on their person). If a creature is willing, you may teleport the object directly into their hand or onto their person.
 
 If you possess the Ranged Teleport talent, you may, as a readied action, catch an projectile out of the air that passes within range, redirecting it against another target if you wish. The creature who initiated the attack is allowed a Will save to negate this effect, and you must make an attack roll against the new target, but using your casting abiity modifier in place of Dexterity when making the attack. Damage is still determined by the creature who initiated the attack.
 
-#### Teleport Trap [Core]
+#### Teleport Trap
 
 You may lay a teleport effect onto an adjacent, unoccupied 5 ft square. If you possess the Ranged Teleport talent, you may place this effect anywhere within that range. This is a latent teleport effect, except it only activates when a creature steps onto the target square, and must target the triggering creature. You must possess the Unwilling Teleport talent and spend a spell point as usual if you want your teleport trap to affect unwilling targets. You must possess the Teleport Object talent to affect unattended objects, and may decide when making the teleport trap whether unattended objects will trigger the effect or not. If you possess the Group Teleport talent, you may spend a spell point to allow the teleport trap to remain after its initial use, affecting additional creatures who enter its square until the duration expires or it has attempted to teleport 1 creature + 1 per 2 caster levels (minimum: 2 total). You must designate the destination where triggering creatures will be teleported when creating a teleport trap.
 
@@ -101,13 +101,13 @@ When a creature steps into the triggering square, the teleport effect activates,
 
 A teleport trap lasts for 10 minutes per caster level before becoming inert. This is a magical trap with a Perception DC and Disable Device DC equal to the teleport’s save DC. You may only have one teleport trap active at a time. You may select this talent multiple times. Each time this talent is gained beyond the 1st, increase the total number of teleport traps you may have active at one time by 1.
 
-#### Unseeing Teleport [Core]
+#### Unseeing Teleport
 
 You may spend an additional spell point when making a teleport to no longer require line of sight to the location; instead of choosing a spot to appear, you may instead indicate a direction and distance.
 
 If the target arrives in a place that is already occupied by a solid body, you may spend a spell point to return the target to its point of origin unharmed. Otherwise, the target takes 1d6 points of damage and is shunted to a random open space on a suitable surface within 100 feet of the intended location. If there is no free space within 100 feet, the target takes an additional 2d6 points of damage and is shunted to a free space within 1,000 feet. If there is no free space within 1,000 feet, the target takes an additional 4d6 points of damage and the teleport simply fails.
 
-#### Unwilling Teleport [Core]
+#### Unwilling Teleport
 
 You may spend a spell point to teleport an unwilling creature as you can a willing creature. You must succeed at a melee touch attack (made as part of the standard action required to use teleport) against the target, and the unwilling creature is allowed a Will saving throw to negate being teleported. An unwilling creature can only be teleported into open areas on solid surfaces (thus, they can’t be teleported into the air or into a solid object, and any such attempt instantly fails). In addition, they gain a +4 bonus to their saving throw if the location would be directly harmful to them (onto a bed of spikes, etc.).
 
@@ -145,7 +145,7 @@ You may alter the target’s space anywhere from their normal size as a swift ac
 
 This effect lasts for as long as you concentrate, but you may spend a spell point to maintain it for 1 minute per caster level without concentration.
 
-#### Extradimensional Room (space) [Core]
+#### Extradimensional Room (space)
 
 You may create a small pocket dimension, accessible through a shimmering portal that either appears in the air before you or on a touched, reasonably flat surface. This pocket dimension measures one 10-foot cube per caster level, arranged as you wish so long as the space is continuous. You can make the entrance as small as 5 ft square or as large as 10 ft square. You can select its light level and temperature (from -40° F to 120° F), but otherwise it is a featureless location.
 
@@ -155,7 +155,7 @@ You may take this talent two times; when taken a second time you gain greater co
 
 While barred, the portal can still be seen and the room dispelled from the outside. Lastly, if you also possess the Extradimensional Storage talent, you may withdraw any number of items from your Extradimensional Storage and place them on any stable surface in the room when it is created. When the room expires or is dispelled, you may have any unattended items inside of it be placed directly into the space of your Extradimensional Storage talent rather than ejected so long as they do not exceed its weight limit.
 
-#### Extradimensional Storage (space) [Core]
+#### Extradimensional Storage (space)
 
 You gain a permanent extradimensional space that may hold up to 10 pounds per caster level of non-living material. You can create a portal to this extradimensional space within arm’s reach at will. Placing an object in this space or calling an object from this space requires a full-round action, but may be done as a swift action by spending a spell point. Living things and attended objects cannot be placed in your extradimensional storage. If you die, all contents of your extradimensional space appear in your square or the nearest unoccupied space.
 
@@ -179,7 +179,7 @@ You bend the edges of an area, bounding it with your magic and trapping creature
 
 If you also possess Plane Manipulator, you may spend a spell point to apply its dimensional anchor effect to the area of your looped space, contesting teleportation and planar travel to an MSB check.
 
-#### Plane Manipulator (space) [Core]
+#### Plane Manipulator (space)
 
 You may create a dimensional anchor emanating from yourself, affecting you and all creatures within 10 feet per caster level. You must concentrate each round to maintain this effect, although you may spend a spell point to allow the emanation to continue for 1 minute per caster level without concentration. Any attempt to teleport or cross planes made by any creature within this area fails unless they succeed at an MSB check against you. This also applies to the summoning of companions and other extraplanars.
 
@@ -189,7 +189,7 @@ You may also touch a creature from another plane and spend a spell point to bani
 
 You can imbue a creature with magic that bridges the distance between them and anything they reach or move towards, contorting space to their benefit. The target gains a +10 ft. enhancement bonus to their movement speed and adds 10 ft. to their natural reach, though they do not threaten with this additional reach. Both bonuses increase by 5 ft. per 5 caster levels. This effect lasts as long as you concentrate, but you may spend a spell point to allow it to remain for 1 minute per caster level without concentration.
 
-#### Teleport Beacon (space) [Core]
+#### Teleport Beacon (space)
 
 You may designate a touched spot, object, or creature as a personal dimensional beacon, which lasts for one hour per caster level. You may spend a spell point to teleport yourself to your teleport beacon regardless of how far away it is, so long as it is on the same plane. If your teleport beacon is a creature or object, you may instead teleport your teleport beacon to you. You must use the Unwilling Teleport talent to do this with an unwilling creature, and they are allowed a saving throw as normal.
 

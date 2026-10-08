@@ -168,7 +168,7 @@ This feat does not allow you to apply the caster level bonus from staves for two
 
 For example, when using create reality or Shadow Magic to produce a destructive blast, you may apply Destruction talents you possess and apply the caster level bonus from either a staff of Destruction or Illusion, apply bonus damage from elementalist energy specialization class feature and treat both your fey adept and elementalist levels as full caster levels for calculating the caster level.
 
-#### Extra Shadowstuff [Core]
+#### Extra Shadowstuff
 
 **Prerequisite:** Shadowstuff class feature.
 
@@ -180,7 +180,7 @@ For example, when using create reality or Shadow Magic to produce a destructive 
 
 **Benefit:** In place of spending a shadow point you may use shadow mark as a full-round action.
 
-#### Greater Shadowmark [Core]
+#### Greater Shadowmark
 
 **Prerequisite:** Shadowmark class feature.
 
@@ -210,7 +210,7 @@ For every 5 surreal feats you possess, you may grant yourself an additional tale
 
 Shadow magic, by its nature, has a very real effect even if disbelieved, although usually a reduced one. Shadow magic is a descriptor applied to abilities such as create reality or the Shadow Infusion talent. Unless stated otherwise, objects created as shadow illusions are made of shadowstuff (stable), and creatures have 1/5th their normal hit points.
 
-#### Shadowblast [Core]
+#### Shadowblast
 
 **Prerequisite:** Shadowmark class feature.
 
@@ -252,7 +252,7 @@ Creatures attacking anyone with a shroud must make a Will save against a DC equa
 
 Those who pass or are immune to illusions are not affected by the shroud. Once a creature passes their saving throw, they do not need to make any additional saving throws against that shroud. The shroud is considered an illusion, and benefits from your abilities that enhance illusions.
 
-#### Sphere Focus [Core]
+#### Sphere Focus
 
 **Prerequisite:** Casting class feature.
 

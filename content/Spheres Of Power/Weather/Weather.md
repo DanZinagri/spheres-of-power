@@ -173,7 +173,7 @@ Ash is treated as snow, except that, beginning at severity level 4, any creature
 
 Ash is a type of volcanic weather, and thus requires the Volcano Lord advanced talent to create.
 
-#### Fallout [Cata. HB]
+#### Fallout
 
 Fallout of severity level 3 forces creatures inside the area to attempt a Fortitude save each hour (DC 15, +1 per previous check) or take 1 point of Constitution damage.
 
@@ -313,7 +313,7 @@ When a creature bearing your mantle is in an area of Wind of severity level 3 or
 
 Creatures bearing your mantle treat weather as one step less severe, plus one step per 10 caster levels. This and other (mantle) talents still work according to the true severity level. You may take this talent a second time at 5th caster level and a third time at 15th caster level. Each additional time you take it, creatures bearing your mantle treat weather as an additional one step less severe.
 
-#### Cold Resolve (mantle, cold) [utility] [DRS]
+#### Cold Resolve (mantle, cold) [utility]
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -329,7 +329,7 @@ When a creature bearing your mantle is in an area of Aridity of severity level 3
 
 When a creature bearing your mantle is in an area of Precipitation of severity level 3 or higher, they gain a +5 bonus to Escape Artist checks and CMD against grapples, +2 for each category above light rain/fog. For each two categories above light rain/fog, they count as one size smaller for the purpose of squeezing and their reach increases by 5 feet.
 
-#### Flustering Fever (mantle, heat) [utility] [DRS]
+#### Flustering Fever (mantle, heat) [utility]
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -365,7 +365,7 @@ When a creature bearing your mantle is in an area of Precipitation of severity l
 
 When a creature bearing your mantle is in an area of Aridity of severity level 3 or higher, they gain DR 2/slashing and light fortification. The damage reduction increases by 1 for each severity level above 3. At severity level 4 they gain medium fortification and at severity level 7 they gain complete immunity to critical hits and precision damage.
 
-#### Petrichor (mantle, precipitation) [utility] [DRS]
+#### Petrichor (mantle, precipitation) [utility]
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -383,7 +383,7 @@ When a creature bearing your mantle is in an area of Aridity of severity level 2
 
 Unlike the effects of other (mantle) talents, if a creature bearing your mantle leaves an area of Aridity of severity level 2 or higher they retain the ability to swim through sand for a number of rounds equal to the last Aridity severity level they were in, but not the other effects of this talent.
 
-#### Shimmering Flurry (mantle, snow) [utility] [DRS]
+#### Shimmering Flurry (mantle, snow) [utility]
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -391,7 +391,7 @@ When a creature bearing your mantle is in an area of Cold and Precipitation of s
 
 This bonus is also applied as an equivalent penalty to skill checks made against a creature bearing your mantle that relies on seeing the bearer (such as a Perception check to foil a Disguise or Sleight of Hand attempt, a Sense Motive check to oppose a Bluff check, etc.).
 
-#### Sleet Step (mantle, snow) [DRS]
+#### Sleet Step (mantle, snow)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -403,11 +403,11 @@ Additionally, whenever such a creature moves, they can choose to leave behind a 
 
 When a creature bearing your mantle is in an area of Precipitation of severity level 3 or higher, they gain fire resistance 10, plus 5 for each category above severity level 3. At severity level 7 they instead become immune to fire damage. They can also put out fires of Small or smaller size with a touch, increasing by one size category for each severity category above severity level 3, and their weapon attacks deal +2 damage to creatures with the fire subtype, +1 damage per category above severity level 3.
 
-#### This Sparks Joy (mantle, storm) [Jester's HB]
+#### This Sparks Joy (mantle, storm)
 
 When a creature bearing your mantle is in an area of Precipitation and Wind severity level 4 or higher, they gain a +2 morale bonus on attack rolls, damage rolls, and Will saving throws, plus 1 for each category above storm.
 
-#### Thundertongue (mantle, storm) [DRS]
+#### Thundertongue (mantle, storm)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -497,7 +497,7 @@ You place this shroud on a target creature, causing a constant dry wind to sap i
 
 You place this shroud on a target creature, creating a constant strong wind that pushes the target back. When you place this shroud on the target, choose a direction for the wind to blow from. Each round this shroud makes a bull rush attempt from this direction against the target. Your CMB for this check is equal to your caster level + your casting ability modifier.
 
-#### This Does Not Spark Joy (shroud, precipitation) [Jester's HB]
+#### This Does Not Spark Joy (shroud, precipitation)
 
 You place this shroud on a target creature, dampening their spirits. Any morale bonus affecting the target is suppressed for the duration of this talent. If you spend an additional spell point when casting this shroud, any morale bonus affecting the target is instead applied as a penalty (for example, a +1 morale bonus to attack rolls would become a -1 penalty).
 
@@ -507,7 +507,7 @@ You place this shroud on a target creature, dampening their spirits. Any morale 
 
 Advanced talents are part of an optional rule and are only available with GM permission.
 
-#### Biohazard [Cata. HB]
+#### Biohazard
 
 **Prerequisites:** Destruction sphere, Weather sphere (Radiation Lord (advanced)), caster level 10th.
 
@@ -543,13 +543,13 @@ When you use control weather you may spend 3 additional spell points to change t
 
 When using control weather to create cold, increase the highest severity level you may create or alter by 1. In addition, you may create an area of up to 80 feet in diameter in the center of the affected area where the change in temperature is not felt.
 
-#### Contaminated Blows (mantle, radiation) [Cata. HB]
+#### Contaminated Blows (mantle, radiation)
 
 **Prerequisites:** Destruction sphere, Weather sphere (Radiation Lord (advanced)), caster level 10th.
 
 When a creature bearing your mantle is in an area of Fallout of severity level 3 or higher, all of their melee attacks deal 1 additional point of acid damage plus an additional point of acid damage for every point of severity above level 4. Any creature damaged by the mantled creature’s melee attack must succeed at a Fortitude save with your Weather sphere’s DC or suffer the effects of low radiation. A creature suffering from radiation instead must succeed at a Fortitude save with your Weather sphere DC or have the level of radiation increased by one step, inflicting the new levels primary effect (to a maximum of low at severity 4, medium at severity 5, high at severity 6, and extreme at severity 7).
 
-#### Contamination Lord [Cata. HB]
+#### Contamination Lord
 
 **Prerequisites:** Destruction sphere, Weather sphere (Radiation Lord), caster level 10th.
 
@@ -579,25 +579,25 @@ When you are using control weather to create or alter Wind of severity level 7 y
 
 When using control weather to create heat, increase the highest severity level you may create or alter by 1. In addition, you may create an area of up to 80 feet in diameter in the center of the affected area where the change in temperature is not felt.
 
-#### Interference Cloud (shroud, radiation) [Cata. HB]
+#### Interference Cloud (shroud, radiation)
 
 **Prerequisites:** Destruction sphere, Weather sphere (Radiation Lord (advanced)), caster level 10th.
 
 You place this shroud on a target creature, causing their technological and magical equipment to fail. Whenever a creature affected by this shroud attempts to use technological or magical equipment that uses charges or spell points, there is a 20% chance that the item does not function (charges and spell points are still used up, however). This chance of failure increases by 10% at 5th level and every 5 levels thereafter.
 
-#### Melt Skin (shroud, radiation) [Cata. HB]
+#### Melt Skin (shroud, radiation)
 
 **Prerequisites:** Destruction sphere, Weather sphere (Radiation Lord (advanced)), caster level 10th.
 
 You place this shroud on a target creature, causing their skin to start melting off their body from the immense radiation. The target takes a -2 penalty to AC, Fortitude saves, and all Charisma-based skill checks. The penalties increase by 1 for every 5 caster levels you possess.
 
-#### Radiation Lord [Cata. HB]
+#### Radiation Lord
 
 **Prerequisites:** Destruction sphere, Weather sphere, caster level 10th.
 
 You can spend 2 spell points to use your control weather to create or alter Fallout. You may take this advanced talent a second time to increase the highest severity level of Fallout you may create or alter by 1. In addition, when using your control weather to affect radiation, you may choose to create an area up to 80 feet in diameter at the center of the affected area that is not subject to the radiation.
 
-#### Radiotherapy (mantle, radiation) [Cata. HB]
+#### Radiotherapy (mantle, radiation)
 
 **Prerequisites:** Destruction sphere, Weather sphere (Radiation Lord (advanced)), caster level 10th.
 

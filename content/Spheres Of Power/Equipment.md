@@ -121,7 +121,7 @@ Each planar power component notes the type of spells and sphere effects it is us
 **Planar Component Foci as Crafted Equipment:**
 When a caster makes frequent use of planar power components as foci for their magics, it is common for to affix or craft the components into a held, slotted, or otherwise worn item, such as lining the head of a caster’s staff or creating a simple broach or ring, to be used as the focus. Integrating a planar power component into an item does not cost any additional gold or resources (beyond the base item) and requires a number of doses of the planar power component sufficient to be used as a focus. If the resulting item is heavily composed of or incorporates the component in a more permanent manner, such as crafting the base of an amulet out of the material rather than just socketing it or reforging a sword’s hilt out of the material, it may require a craftsman to safely craft the item, usually with a DC 15 Craft check of the appropriate kind and a few hours. The same check may be made to safely remove the components from the item, reclaiming the power components without destroying or harming the original item. There is no penalty for a failed check.
 
-#### Brimstone Briquette [RW HB]
+#### Brimstone Briquette
 
 **Price** 60 gp; **Weight** –
 
@@ -132,7 +132,7 @@ A compact cluster of the infernal, everburning stone has been extinguished and r
 
 **Effect** When you use a brimstone briquette as a material component or focus for a spell or sphere effect which causes affected targets to catch fire, increase the burning damage dealt each round to a burning target by +2 and the Reflex save to extinguish the flames by +1.
 
-#### Inversion Prism [RW HB]
+#### Inversion Prism
 
 **Price** 75 gp; **Weight** –
 
@@ -143,7 +143,7 @@ This wavy, translucent prism of glass-like stone seems to block light coming in 
 
 **Effect** When you use an inversion prism as a material component or focus for a spell or sphere effect with the dark or light descriptor, increase the DC of that spell or sphere effect’s saving throws by +1.
 
-#### Iridium Jellenate [RW HB]
+#### Iridium Jellenate
 
 **Price** 100 gp; **Weight** –
 
@@ -156,7 +156,7 @@ Iridium jellenate is a condensed, metallised substance which, over time, hardens
 
 **Note:** Other spell and sphere effects which create tangible objects or structures may qualify for this planar power component, such as a wall of ice spell or a Protection sphere barrier.
 
-#### Living Mossrock [RW HB]
+#### Living Mossrock
 
 **Price** 50 gp; **Weight** –
 
@@ -167,7 +167,7 @@ A living mossrock is a strange, thrumming stone which seems to teem with vibrant
 
 **Effect** When you use a living mossrock as a material component or focus for a spell or sphere effect with the polymorph descriptor or a Fallen Fey sphere effect, treat the spell or sphere effect’s caster level as if it were 1 higher for the purposes of duration.
 
-#### Lodestone Geode [RW HB]
+#### Lodestone Geode
 
 **Price** 50 gp; **Weight** –
 
@@ -180,7 +180,7 @@ This geode is a lattice of ultra-dense magnetic minerals which forms in deep cav
 
 **Example:** A combat maneuver performed with the Telekinesis sphere Telekinetic Maneuvers talent or the Nature sphere Manipulate Nature wave sphere effect would gain a +2 bonus on the performed combat maneuver. Spells such as hydraulic push would gain a +2 bonus on the resulting bull rush combat maneuver.
 
-#### Mother Pearlite [RW HB]
+#### Mother Pearlite
 
 **Price** 300 gp; **Weight** –
 
@@ -191,7 +191,7 @@ Mother pearlite is a unique geological formation formed from the condensate shel
 
 **Effect** When you use a mother pearlite as a material component or focus for any spell or sphere effect, that spell or sphere effect is affected as per the Aquatic Spell metamagic feat (this does not increase the spell slot or spell points required for that effect). However, the spell or sphere effect’s caster level is treated as 1 lower for the purposes of duration and range (minimum caster level 1).
 
-#### Warding Agate [RW HB]
+#### Warding Agate
 
 **Price** 75 gp; **Weight** –
 

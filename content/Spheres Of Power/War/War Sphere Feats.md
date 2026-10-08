@@ -11,7 +11,7 @@ parent: "[[War]]"
 
 **Benefit:** You may use your rally abilities on those under the effects of your glamers or in the areas of your figment as if they can see and hear you and are within the area of your totems.
 
-#### Area Bypass [3PP]
+#### Area Bypass
 
 *Source: Baron’s Glorious Arena*
 
@@ -56,7 +56,7 @@ parent: "[[War]]"
 
 **Benefit:** The range of your antipaladin or paladin auras increases to that of any totemic aura you created that is attached to you.
 
-#### Eyes Of Battle (Dual Sphere) [Alienist HB]
+#### Eyes Of Battle (Dual Sphere)
 
 **Prerequisites:** Divination sphere, War sphere
 
@@ -140,7 +140,7 @@ If the person you share the mandate with performs an action that would allow you
 
 **Benefit:** You may spend a spell point to rally an ally, and use your lay on hands class feature on them. This costs the normal number of uses of your lay on hands class feature in addition to the spell point cost of the rally, but does not require the ally to be within the normal range of your lay on hands ability.
 
-#### Tides Of War (Dual Sphere) [Archmagi's HB]
+#### Tides Of War (Dual Sphere)
 
 **Prerequisites:** Mana sphere (Magical Conduit), War sphere.
 
@@ -170,7 +170,7 @@ They may still fall, and take double normal falling damage while the surface the
 
 **Benefit:** When you use your channel energy feature, instead of affecting everyone in a specific radius, you may spend a spell point to have it affect all allies or all enemies in a totem you control. You do not need to be within the chosen totem.
 
-#### Totemic Radar (Dual Sphere) [Alienist HB]
+#### Totemic Radar (Dual Sphere)
 
 **Prerequisites:** Divination sphere (Blindfolded Oracle (sense)), War sphere.
 

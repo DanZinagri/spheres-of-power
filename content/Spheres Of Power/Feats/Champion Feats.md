@@ -10,7 +10,7 @@ parent: "[[Feats]]"
 
 These new general and extra feats were introduced in Champions of the Spheres and subsequent products. For ease-of-reference, they've been included here.
 
-#### Biochemical Brews [DRS]
+#### Biochemical Brews
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -36,7 +36,7 @@ You gain 2 additional uses of adaptation per day.
 
 **Wiki Note:** This feat was incorrectly named Extra Improvisation before. It has been updated to reflect the correct class feature it benefits.
 
-#### Extra Blended Training Talent (Champion) [Jester's HB]
+#### Extra Blended Training Talent (Champion)
 
 **Prerequisites:** Casting class feature, martial focus.
 
@@ -52,7 +52,7 @@ You gain 2 additional uses of empathic link per day.
 
 **Special:** This feat may be taken more than once; the benefits stack.
 
-#### Extra Reinforcement [Warden]
+#### Extra Reinforcement
 
 **Prerequisite:** Warden 5.
 
@@ -86,7 +86,7 @@ Champion feats focus on blending Spheres of Power and Spheres of Might together 
 
 When dealing damage with a sphere effect or when a hostile creature fails a saving throw against a sphere effect that you cast with a casting time of at least 1 standard action, you may treat that sphere effect as an attack action for the purpose of using Cohort Attack or Coordinated Attack.
 
-#### Arcane Venin [Apoc]
+#### Arcane Venin
 
 *Source: [Spheres Apocrypha: Alchemy Poisons 2](https://www.drivethrurpg.com/product/320796/Spheres-Apocrypha-Alchemy-Poisons-2?affiliate_id=549120)*
 
@@ -106,19 +106,19 @@ Regardless of method, cones, lines, and other shapes resolve themselves in a dir
 
 If an ingested poison would be applied to a target without them ingesting it (i.e. changing its application method, etc.), the poison uses the rules for contact or injury and applies only to the first target poisoned.
 
-#### Augmented Wit (Champion) [LotS]
+#### Augmented Wit (Champion)
 
 **Prerequisite:** Casting class feature or ability to gain martial focus.
 
 **Benefit:** When you successfully outwit a creature by tricking it when it has a disorientation condition, by embarrassing it when it has the impressed condition, or when using a special outwit option granted by an ability you possess, you may spend a spell point or martial focus instead of the cost to outwit, allowing you to outwit the creature one additional time. A creature cannot be outwitted by this ability more than once every 24 hours.
 
-#### Awesome Transformation (Champion) [Alienist HB]
+#### Awesome Transformation (Champion)
 
 **Prerequisites:** Alteration sphere or Transformation, Gladiator sphere, ability to use boasts.
 
 **Benefit:** Whenever you successfully apply a shapeshift or transform using the Transformation feat, you may perform a boast as an immediate action. If you possess the Spectacle talent, you may use Strike Fear as an immediate action in place of performing a boast.
 
-#### Battlebard [DRS]
+#### Battlebard
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -146,7 +146,7 @@ If you possess the blood of a target, that target suffers a -1 penalty to any sa
 
 **Benefit:** While you are under the effects of the bear spirit, a creature battered by your brutal strike takes a -1 penalty to their AC and saving throws against your Bear sphere abilities. You may spend a spell point to gain the benefits of one (adrenaline) talent you possess as though it were a (bearacteristic) for the duration of the bear spirit. An (adrenaline) talent used this way must be one that does not require you to expend martial focus at the start of your turn to use.
 
-#### Capoeirista (Champion) [LotS]
+#### Capoeirista (Champion)
 
 **Prerequisites:** Open Hand sphere, Performance sphere ((dance) package).
 
@@ -154,13 +154,13 @@ If you possess the blood of a target, that target suffers a -1 penalty to any sa
 
 If you possess the Capoeira Spin Open Hand talent, you also gain a +1 circumstance bonus to attack rolls made with unarmed strikes as long as you are maintaining a dance. This increases to +2 at base attack bonus +10.
 
-#### Chymic Burst (Champion) [CrimDan]
+#### Chymic Burst (Champion)
 
 **Prerequisites:** Blood sphere (Cystic Growth (blood art, still)), Alchemy sphere.
 
 **Benefit:** When you use the (blood art) option of Cystic Growth, rather than affect nearby creatures with a disease, you can spend an additional spell point to inflict that creature with a (toxin) you possess. If your target is already suffering from the toxin you are inflicting them with, adjacent creatures must attempt a save against your toxin and your target must succeed at a Fortitude save or be sickened and suffer additional damage as normal.
 
-#### Darkrider (Champion) [BaP]
+#### Darkrider (Champion)
 
 **Prerequisites:** Beastmastery sphere, Dark sphere.
 
@@ -168,7 +168,7 @@ If you possess the Capoeira Spin Open Hand talent, you also gain a +1 circumstan
 
 When creating a darkness, you may choose to attach the effect to an animal ally instead of centering it on a space. This causes the darkness to move with the animal ally, centered on the animal ally’s space. If the darkness moves and causes a creature to leave its area of effect, any ongoing effects the creature is under related to that area of darkness end immediately. If you move this darkness effect after attaching it to an animal ally, such as using the Rolling Blackout or Shifting Shadows talent, the darkness becomes unattached from that animal ally and remains in the spaces the darkness was moved into. Animal allies are still affected by your darkness unless they are under the effects of the Clearsight meld or another similar effect.
 
-#### Dastardly Entrapment (Champion) [LotS]
+#### Dastardly Entrapment (Champion)
 
 **Prerequisites:** Infiltration sphere, Scoundrel sphere.
 
@@ -192,7 +192,7 @@ When creating a darkness, you may choose to attach the effect to an animal ally 
 
 **Author's Note:** This feat only refers to the Warp sphere teleportation sphere effect, not any source of teleportation.
 
-#### Disciplined Casting (Champion, Combat) [Youxia HB]
+#### Disciplined Casting (Champion, Combat)
 
 **Prerequisites:** Open Hand sphere, casting.
 
@@ -218,7 +218,7 @@ If the sphere ability is a ranged attack, it does not provoke an attack of oppor
 
 **Benefit:** When you use dual wielding mystic fusion with a sphere ability, you may deliver the sphere ability with a melee weapon attack. The sphere ability uses its own threat range.
 
-#### Eldritch Supplies (Champion, Drawback) [LotS]
+#### Eldritch Supplies (Champion, Drawback)
 
 **Prerequisites:** Faction sphere, casting class feature.
 
@@ -226,7 +226,7 @@ If the sphere ability is a ranged attack, it does not provoke an attack of oppor
 
 **Special:** If you possess the Expensive Locus or Material Casting drawback, you may select this feat as a drawback feat.
 
-#### Elemental Rift (Champion) [LotS]
+#### Elemental Rift (Champion)
 
 **Prerequisites:** Destruction sphere (any one (blast type) talent), Survivalism sphere ((dredge) package, Hazardous Terrain).
 
@@ -234,7 +234,7 @@ If the sphere ability is a ranged attack, it does not provoke an attack of oppor
 
 You can also choose to forgo the additional effect of the dredged area that reduces a creature’s movement speed to add any additional effects that the (blast type) talent may possess; if you do so, you must pay any associated costs of the talent when you apply it. Any damage die alterations also change the damage dealt from Hazardous Terrain; an increase to d8s doubles the damage dealt, whereas a decrease to d4s halves the damage dealt.
 
-#### Exorcist (Champion, Combat) [Gravecaller's HB]
+#### Exorcist (Champion, Combat)
 
 **Prerequisites:** Knowledge (religion) 3 ranks; casting class feature or martial focus.
 
@@ -256,7 +256,7 @@ As an immediate action, you may expend spectral focus after failing a saving thr
 
 **Benefit:** If you possess the (poison) package of the Alchemy sphere, you may use fairy dust from the Fairy Dust talent as if it was a poison. If you possess the (formulae) package of the Alchemy sphere, you may throw fairy dust from the Fairy Dust talent as if it was a splash weapon in place of a formulae, with a 5-foot splash radius. You may use the higher of your Alchemy sphere and Fallen Fey sphere DCs to determine the effects of this dust.
 
-#### Field Instruction (Champion) [LotS]
+#### Field Instruction (Champion)
 
 **Prerequisites:** Navigation sphere, Warleader sphere.
 
@@ -264,13 +264,13 @@ As an immediate action, you may expend spectral focus after failing a saving thr
 
 While within the area of your pathing, you can maintain this tactic as a free action.
 
-#### Fight Choreography (Champion) [LotS]
+#### Fight Choreography (Champion)
 
 **Prerequisites:** Performance sphere ((act) or (dance) package), Warleader sphere.
 
 **Benefits:** You may begin an act or dance as a free action when you begin a tactic as a move action. Whenever you maintain a dance or complete an act’s scene or finale, you may maintain a tactic as part of the same action.
 
-#### Furious Flare (Champion) [Apoc]
+#### Furious Flare (Champion)
 
 *Source: [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)*
 
@@ -280,7 +280,7 @@ While within the area of your pathing, you can maintain this tactic as a free ac
 
 Effects which allow you to ignore points in damage reduction or hardness also allow you to ignore an equal amount in points in a target’s energy resistance for the benefits of this feat. This stacks with any class feature, feat, or talent that allows you to ignore points in a target’s energy resistance.
 
-#### Glamered Thievery (Champion) [BaP]
+#### Glamered Thievery (Champion)
 
 **Prerequisites:** Illusion sphere, Scoundrel sphere, Illusion sphere caster level 5th.
 
@@ -290,7 +290,7 @@ In addition, you gain the following (trick):
 
 - **Phantom Thief (trick):** Whenever you successfully perform a steal or dirty trick combat maneuver, you may cast one glamer as a free action on yourself or an object in your possession. A glamer cast this way costs 1 spell point less (minimum 0). An illusion cast with this ability lasts until the end of your next turn, and its duration cannot be extended by spending a spell point to maintain without concentration or by effects that allow a glamer to continue after they would normally end, such as the Focused Imagination talent or fey adept’s master illusionist class feature.
 
-#### Glimpse The Flow (Champion, Combat) [BaP]
+#### Glimpse The Flow (Champion, Combat)
 
 **Prerequisites:** Boxing sphere, Divination sphere (any (sense) talent), Divination sphere caster level 6th.
 
@@ -300,7 +300,7 @@ Whenever you deal damage to a target using your counter punch ability, you may s
 
 **Author's Note:** A (sense) talent gained this way cannot be discharged (such as the Prescience (sense) talent).
 
-#### Goading Malediction (Champion) [DbH]
+#### Goading Malediction (Champion)
 
 Your words inspire more than simple ire in your targets.
 
@@ -308,13 +308,13 @@ Your words inspire more than simple ire in your targets.
 
 **Benefit:** Whenever you target a creature with a Fate sphere (word) talent, you may challenge that target as part of the same action. If you possess both the Echoing Word and Mass Challenge talents, you may challenge multiple creatures that are targeted by your words (to a maximum of the normal number of creatures you may challenge with Mass Challenge). If you possess the Swift Challenge talent, you may challenge a creature targeted with a word that takes an immediate action, in which case the challenge does not take effect until the challenged creature’s triggering action is resolved.
 
-#### Grandiose Charms (Champion) [LotS]
+#### Grandiose Charms (Champion)
 
 **Prerequisites:** Mind sphere, either Bluster or Performance sphere.
 
 **Benefit:** Whenever a creature fails a saving throw against one of your charms, you may have the target become impressed or distracted by you for the duration of the charm. If you use a powerful charm, you may choose to have the target become oblivious (focusing on you) instead of distracted.
 
-#### Grappling Caster (Champion, Combat) [BTH]
+#### Grappling Caster (Champion, Combat)
 
 Your very grip is a conduit of your magic, allowing you to more deftly cast when entangled with your foes.
 
@@ -338,13 +338,13 @@ A grappled creature takes a -2 penalty on all attack rolls and combat maneuver c
 
 **Wiki Note:** With the update to Ultimate Spheres of Power and the changes to how Spell Attack works, this feat is not relevant for most builds. [Strike] talents generally don't provoke attacks of opportunity to start with.
 
-#### Guided Charm (Champion) [LotS]
+#### Guided Charm (Champion)
 
 **Prerequisite:** Mind sphere.
 
 **Benefit:** As part of casting a charm, you may outwit the target to cause them to take a -1 penalty on their saving throw. If you invoke a major motivation while outwitting them, this penalty increases to -2.
 
-#### Harnessed Virtue (Champion, Combat) [Apoc]
+#### Harnessed Virtue (Champion, Combat)
 
 *Source: [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)*
 
@@ -352,7 +352,7 @@ A grappled creature takes a -2 penalty on all attack rolls and combat maneuver c
 
 **Benefit:** You may expend your martial focus when you activate imbued strike and choose an alignment you possess; your attacks become aligned to the chosen alignment for the same duration as your imbued strike. If you perform a successful attack action against a creature with the opposite alignment than your chosen one while benefiting from this feat, the next attack an ally makes against the creature in the same round is also treated as being aligned to your chosen alignment.
 
-#### Harrying Hospitaler (Champion) [Apoc]
+#### Harrying Hospitaler (Champion)
 
 *Source: [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)*
 
@@ -360,7 +360,7 @@ A grappled creature takes a -2 penalty on all attack rolls and combat maneuver c
 
 **Benefit:** Whenever you use the Defend Other talent to grant an ally a bonus to their armor class, you may cure or restore your ally as part of that action but take an equal amount of damage when you cure them or use the Empathic Healing talent.
 
-#### Heavy-handed Force (Champion, Combat) [BaP]
+#### Heavy-handed Force (Champion, Combat)
 
 Creating leverage is an art.
 
@@ -372,7 +372,7 @@ When applying a (manhandle) talent, the target takes additional bludgeoning dama
 
 If you possess a talent to shove with a weapon (such as the Brute sphere Brace Weapon talent) and the Telekinesis sphere Dancing Weapon talent, you may perform a shove using a Bludgeon and may move the Bludgeon up to 1/2 your telekinesis speed when doing so.
 
-#### Hematic Impaler (Champion, Combat) [BaP]
+#### Hematic Impaler (Champion, Combat)
 
 **Prerequisites:** Blood sphere, Lancer sphere.
 
@@ -382,7 +382,7 @@ You automatically succeed at a grapple check to assume control of a weapon impal
 
 **Special:** Weapons made with the Gory Armaments (blood art) talent do not dissipate when you let go of the weapon if it is impaled in a creature under your blood control. If the weapon is impaled in a creature who was under blood control and blood control ends, the weapon dissipates after 1 round and is treated as though the impaling weapon were removed.
 
-#### Improved Assistance (Champion, Combat) [S&P]
+#### Improved Assistance (Champion, Combat)
 
 You add a bit of extra aid when coordinating a technique.
 
@@ -392,7 +392,7 @@ You add a bit of extra aid when coordinating a technique.
 
 If you possess the Circle Casting feat, you may maintain that feat’s effects on the target so long as you are within range of the technique (rather than 30 feet).
 
-#### Insinuating Incantation (Champion, Drawback) [LotS]
+#### Insinuating Incantation (Champion, Drawback)
 
 **Prerequisites:** Bluster sphere, caster level 1st.
 
@@ -400,7 +400,7 @@ If you possess the Circle Casting feat, you may maintain that feat’s effects o
 
 **Special:** If you possess the Verbal Casting drawback, you may select this feat as a drawback feat.
 
-#### I Will Save You (Champion) [Apoc]
+#### I Will Save You (Champion)
 
 *Source: [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)*
 
@@ -412,7 +412,7 @@ You may choose to instead restore the target using the Empathic Healing talent. 
 
 Damage or conditions redirected into your delayed damage pool with this feat do not empty until the end of your next turn.
 
-#### Kinematic Disarmer (Champion, Combat) [BaP]
+#### Kinematic Disarmer (Champion, Combat)
 
 **Prerequisites:** Duelist sphere, Telekinesis sphere.
 
@@ -426,7 +426,7 @@ As long as you have martial focus, you may spend an immediate action whenever yo
 
 If you reduce a creature to 0 hp or less with a weapon attack or natural attack, you gain a +2 bonus to your caster level for 1 round. The creature must have a CR equal to at least half your caster level.
 
-#### Light’s Lasting Fury (Champion) [Apoc]
+#### Light’s Lasting Fury (Champion)
 
 *Source: [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)*
 
@@ -438,7 +438,7 @@ Deep from within, there is a light that fills you, and you show the world that d
 
 While you are below 0 hit points and acting as disabled, you do not take damage for performing a standard action (or actions typically deemed strenuous).
 
-#### Magical Terrorizer (champion) [SA:BG]
+#### Magical Terrorizer (champion)
 
 *Source: [Spheres Apocrypha: Banshee's Gasp](https://www.drivethrurpg.com/product/370043/Spheres-Apocrypha-Banshees-Gasp?affiliate_id=549120)*
 
@@ -456,7 +456,7 @@ Additionally, mindless undead that you reanimate may count as cohorts for using 
 
 If you possess the Greater Undead advanced talent of the Death sphere, when recruiting undead cohorts, you may create them with the normal Intelligence score for a cohort, so they are not mindless, allowing them to gain skills and feats normally. Such cohorts may be of any profession.
 
-#### Mobile Caster (Champion) [DbH]
+#### Mobile Caster (Champion)
 
 Frantic battlefields necessitate the ability to cast on your feet.
 
@@ -464,7 +464,7 @@ Frantic battlefields necessitate the ability to cast on your feet.
 
 **Benefit:** As a full-round action, you can move up to your speed and use a magic sphere effect which would normally be usable as a standard action. You can move both before and after the effect, but you must move at least 10 feet using a movement mode associated with a package you possess before the attack and the total distance that you move cannot be greater than your speed.
 
-#### Morphic Disguise (Champion) [LotS]
+#### Morphic Disguise (Champion)
 
 **Prerequisites:** Alteration or Illusion sphere, Subterfuge sphere.
 
@@ -478,19 +478,19 @@ By spending a spell point as an immediate action while you have a glamer or shap
 
 Whenever you use a magical sphere effect as a standard action, you may spend 1 spell point as a swift action to regain martial focus.
 
-#### Noxious Fog (Champion) [Alienist HB]
+#### Noxious Fog (Champion)
 
 **Prerequisites:** Alchemy sphere ((poison) package), Nature sphere ((water) package).
 
 **Benefit:** When you create a fog, you may spend 1 additional spell point to spread an inhaled poison that you have created through the entire area of your fog. Creatures inside the fog must attempt a Fortitude saving throw each round to resist the effects of your poison, using your Nature sphere DC in place of your Alchemy sphere DC. A creature that successfully saves against the fog’s poison is immune to being poisoned by that instance of fog for 24 hours.
 
-#### Organized Following (Champion) [LotS]
+#### Organized Following (Champion)
 
 **Prerequisites:** Faction sphere, Leadership sphere.
 
 **Benefit:** Any cohorts you possess from the Leadership sphere may select skill talents in place of combat or magic talents. In addition, you may spend 2 authorizations to double the recruitment rate of followers in a settlement for 24 hours or reduce the DC of a single cohort recruitment check by 2.
 
-#### Otherworldly Host (Champion) [Apoc]
+#### Otherworldly Host (Champion)
 
 *Source: [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)*
 
@@ -498,7 +498,7 @@ Whenever you use a magical sphere effect as a standard action, you may spend 1 s
 
 **Benefit:** When you use your patrol ability, you may apply the benefits of this feat as a (zone) talent. Your allies within your threatened area gain a chosen trait from the Outsider Body talent whose subtype matches an alignment you possess. Additionally, enemies within your threatened area which possess an alignment opposed to the subtype of the chosen trait take 1d6 additional damage matching your chosen trait’s subtype from your allies benefiting from this feat.
 
-#### Phantom Of The Colosseum (Champion) [BaP]
+#### Phantom Of The Colosseum (Champion)
 
 **Prerequisites:** Intimidate 3 ranks, Gladiator sphere, Illusion sphere.
 
@@ -514,13 +514,13 @@ You may increase the casting time of an illusion by one step to use your Strike 
 
 Whenever you summon a companion as a standard action, you may activate a tactic as part of the same standard action, so long as the conjured companion is included in that tactic’s affected creatures.
 
-#### Poisonous Transformation (Champion) [Alienist HB]
+#### Poisonous Transformation (Champion)
 
 **Prerequisites:** Alchemy sphere (poison package); Alteration sphere or Transformation
 
 **Benefit:** Whenever you successfully apply a shapeshift to a creature or when you use your Transformation feat, you may choose either to apply a prepared poison to one of the creature’s natural attacks or to affect the creature with the poison as part of the action to shapeshift. If they are targeted with the poison, the creature is allowed a saving throw as normal. If you expend your martial focus, you may apply the poison to up to 3 of their natural attacks rather than just 1.
 
-#### Portal Shield (Champion) [DbH]
+#### Portal Shield (Champion)
 
 You may move your dimensional rifts, using it to protect yourself.
 
@@ -528,7 +528,7 @@ You may move your dimensional rifts, using it to protect yourself.
 
 **Benefit:** When you create a portal, you may choose to shape that portal into the shape of a heavy wooden shield or tower shield which may be wielded, providing the normal bonuses of a shield of that kind and incurring armor check penalties and a maximum Dexterity bonus as normal. On any round in which you perform an attack action or a combat maneuver with a portal shield, you may concentrate on the portal shield as a free action. When you perform a drag combat maneuver while wielding a portal shield, you may force the creature to move through your portal shield rather than moving it normally. If you spend martial focus when making an attack action with the portal shield, you may force the target to make a Reflex save against your Warp sphere DC or pass through the portal. If you possess the Redirecting Shield or Perfect Redirection talents, you may use the exit of the portal as your location for the purpose of determining targets for these (deflect) talents.
 
-#### Ready Initiation (Champion, Combat, Teamwork) [S&P]
+#### Ready Initiation (Champion, Combat, Teamwork)
 
 When one of your allies primes a technique, you respond immediately.
 
@@ -536,7 +536,7 @@ When one of your allies primes a technique, you respond immediately.
 
 **Benefit:** When multiple characters with this feat work together to initiate a multi-character technique, the technique is performed on the highest of the participants’ initiative counts rather than the lowest. All participants have their actions for the turn moved up to the initiative count where the technique is performed.
 
-#### Sanguine Magic (Champion, Combat) [CrimDan]
+#### Sanguine Magic (Champion, Combat)
 
 **Prerequisites:** Duelist sphere (one (bleed) talent); Blood sphere (Hemorrhage) or Death sphere (Bleeding Wounds (ghost strike)).
 
@@ -558,7 +558,7 @@ You may concentrate your wards, shaping and hardening them, employing them in pl
 
 Using such an empty hand to cast a spell, make an unarmed strike, hold an item, perform a combat maneuver (other than with the shield granted by this feat), or similar activity removes this ability until the start of your next turn. For the purposes of shield sphere abilities that allow damage to be directed to your shield, treat the ‘shield’ granted by this ability as having hardness equal to 5 + its caster level and hit points equal to 10 + twice its caster level. Should the ‘shield’ take enough damage to gain the broken condition, the effect granting the shield bonus is suppressed for 1d4 rounds. If it is destroyed, the effect granting the shield bonus is instead suppressed for 1 hour, though it may be cast again to regain its benefits.
 
-#### Sojourner (Champion) [LotS]
+#### Sojourner (Champion)
 
 **Prerequisite:** Perform (dance) 3 ranks, Performance sphere ((dance) package); Athletics sphere or Warp sphere.
 
@@ -567,7 +567,7 @@ Using such an empty hand to cast a spell, make an unarmed strike, hold an item, 
 - **Dimensional Dance (Performance ((dance) package), Warp sphere):** Whenever you start a Performance sphere dance, you can spend 1 spell point to incorporate teleportation within your dance, starting a dimensional dance. Whenever a creature would move as part of beginning, maintaining, or joining a dimensional dance, they can instead teleport to any square they can see, with the distance teleported counting against their total movement. This movement does not provoke attacks of opportunity.
 - **Flow (Athletics sphere, Performance ((dance) package):** Whenever you start a Performance sphere dance, you can apply a (motion) talent in addition to a (dance) talent to benefit all dancers within the dance.
 
-#### Spatial Storage (Champion) [LotS]
+#### Spatial Storage (Champion)
 
 **Prerequisites:** Artifice sphere (Storage Enhancement), Warp sphere (Extradimensional Storage).
 
@@ -605,7 +605,7 @@ As a constant supernatural effect, you may communicate with your animal allies a
 
 **Benefit:** When using the Spell Attack feat as a standard action, you may spend an additional spell point or increase the casting time of the sphere effect to a full-round action. Make all the attacks granted by Whirlwind Attack; the sphere effect applies to each creature (to a maximum of 2 + 1 per 2 caster levels) hit. If the sphere effect requires concentration, all instances initiated as part of one action count as a single effect for the purpose of concentrating on them. If using whirl of blows to gain the Whirlwind Attack feat, you must have it active to use this ability. Using this feat is not an attack action, so does not benefit from effects that modify attack actions.
 
-#### Spell Slugger (Champion) [DbH]
+#### Spell Slugger (Champion)
 
 You deploy your magic as you would a well-prepared blow.
 
@@ -625,7 +625,7 @@ If placed as a snare, the creature triggering the trap is the target of a target
 
 Regardless of method, cones, lines, and other shapes resolve themselves in a direction chosen when the trap is set. Any spell points required for the effect are spent when the trap is placed and cannot be recovered. Effects that target multiple creatures only target the struck (for a dart) or triggering (for a snare) creature. All choices regarding the sphere effect must be made when the trap is set and cannot be changed. You may not choose to concentrate on an effect placed in a trap.
 
-#### Spirits In The Blood (Champion) [BaP]
+#### Spirits In The Blood (Champion)
 
 **Prerequisites:** Barroom sphere, Blood sphere.
 
@@ -638,13 +638,13 @@ In addition, you gain the following (quicken) and (still) effects:
 
 **Normal:** A character can consume a number of alcoholic beverages each day equal to 1 plus double his Constitution modifier before being sickened for 1 hour per the number of drinks above this maximum.
 
-#### Striking Ensnarement (Champion) [Origin]
+#### Striking Ensnarement (Champion)
 
 **Prerequisites:** Constrict, engulf, swallow whole, troop attack, or swarm attack; any one strike talent.
 
 **Benefit:** When you use a strike talent as a standard action, you may do so in conjunction with a troop attack or swarm attack in place of a weapon attack. Only a single target is affected by the sphere effect and they are allowed a Reflex save to negate the sphere effect. Alternatively, you may spend a standard action to apply the effects of one sphere effect you could deliver through a strike to the next instance of constrict, engulf or swallow whole damage you deal to a single target.
 
-#### Sword Of Omens (Champion) [Apoc]
+#### Sword Of Omens (Champion)
 
 *Source: [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)*
 
@@ -652,13 +652,13 @@ In addition, you gain the following (quicken) and (still) effects:
 
 **Benefit:** You may concentrate on consecrations as a move action. If you already have the ability to concentrate on consecrations as a move action, you may instead concentrate on them as a swift action with the benefit of this feat. If you take damage while concentrating on a consecration, you may expend your martial focus to treat your concentration check as if you rolled a 10, plus 1 per 4 Fate sphere caster levels you possess. While concentrating on a consecration, creatures with an opposite alignment to yours that are affected by your challenge and are within the area of your consecration provoke attacks of opportunity as though you have performed a patrol, using the range of the consecration as your increased threatened area.
 
-#### Tactical Hypothesis (Champion) [LotS]
+#### Tactical Hypothesis (Champion)
 
 **Prerequisites:** Scout sphere, Study sphere.
 
 **Benefit:** Whenever you successfully scout a creature as at least a swift action, you may begin a theory started by recalling information on that creature as a free action rather than an immediate action.
 
-#### Tactical Warping (Champion) [Jester's HB]
+#### Tactical Warping (Champion)
 
 “Teleporting behind them. They never expect that.”
 
@@ -668,13 +668,13 @@ In addition, you gain the following (quicken) and (still) effects:
 
 If you possess the Emergency Teleport talent, when a creature attacks you during a round you successfully feinted that creature, you may teleport using the Emergency Teleport talent without spending an additional spell point.
 
-#### Theatrical Effects (Champion) [LotS]
+#### Theatrical Effects (Champion)
 
 **Prerequisites:** Illusion sphere, Performance sphere ((act) package).
 
 **Benefit:** Once per round, you may have a figment which you have created contribute to a scene you have active as if it were an ally. This does not require an action on your part if you spent an action concentrating on the illusion this turn.
 
-#### Through The Long Night (Combat) [Apoc]
+#### Through The Long Night (Combat)
 
 *Source: [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)*
 
@@ -686,7 +686,7 @@ The night is hard and the night is long, but you know deep down, you can brave i
 
 If the chosen condition originates from an evil-aligned creature or object or a creature or object with an evil aura or the evil sub-type, you may activate heroic resolve as a swift action.
 
-#### Thunderbolts And Lightning, Very Very Frightening (Champion) [Jester's HB]
+#### Thunderbolts And Lightning, Very Very Frightening (Champion)
 
 As a wise inventor once said.
 
@@ -696,19 +696,19 @@ As a wise inventor once said.
 
 While in an area of weather severity level 3 or higher, you gain a +2 competence bonus on Intimidate checks. This increases to +4 while in an area of weather severity level 6 or higher.
 
-#### Time-Crossed Plots (Champion) [LotS]
+#### Time-Crossed Plots (Champion)
 
 **Prerequisites:** Divination or Time sphere, any one [plan] talent.
 
 **Benefit:** When you reveal a plan, you may spend a spell point to declare it a time-crossed plan. If you do, the plan functions even if you would have no conceivable way of performing it (for example, spreading a rumor with the Reputable Communication sphere talent in a settlement you could not have previously accessed, using Planned Sabotage from the Sabotage sphere on an item you could not have accessed, or having a retainer take actions with Logistical Genius that would take longer than the time since you last replenished authorizations). Any actions necessary to have organized the plan are assumed to have been performed through time manipulation or divined knowledge.
 
-#### Trailblazer (Champion) [LotS]
+#### Trailblazer (Champion)
 
 **Prerequisites:** Athletics sphere, Navigation sphere.
 
 **Benefit:** When moving more than 5 feet during your turn using the movement mode corresponding to an Athletics package you possess, you may cause all squares you enter this turn to be affected by your pathing ability. This counts as the single instance of pathing which you may have active at a time.
 
-#### Unerring Eye (Champion) [LotS]
+#### Unerring Eye (Champion)
 
 **Prerequisites:** Sense Motive ranks 3, Investigation sphere; either the Divination sphere or Scout sphere.
 
@@ -717,7 +717,7 @@ While in an area of weather severity level 3 or higher, you gain a +2 competence
 - **Seer (Divination sphere, Investigation sphere):** Whenever you spend a standard action or longer to analyze, you can spend a spell point to also gain information from the target as if they were targeted by a Divination sphere divine option that you possess (as long as the divine option gathers information about a creature, such as the base option to detect magical auras on the creature, or (divine) talents such as Detect Spellcaster or Detect Thoughts). Additionally, whenever you would expend an Investigation sphere application for a benefit, you can dismiss a Divination sphere sense instead.
 - **Reliable Analysis (Investigation sphere, Scout sphere):** When you analyze a creature, you can also scout them as if you had spent the same action to scout the creature. If a target is both scrutinized and scouted, you can treat any roll of a 6 or lower on checks benefiting from scrutinize as if you had rolled a 7 instead; both of these values increase by 1 for every 6 ranks in Sense Motive you possess (e.g. at 12 ranks, you treat rolls of an 8 or lower as if it were a 9 instead).
 
-#### Unliving Chemister (Champion) [Gravecaller's HB]
+#### Unliving Chemister (Champion)
 
 You’ve seen enough of the cycle of life that, in a flash of mad inspiration, you realized your years at medical school hadn’t gone to waste.
 
@@ -739,7 +739,7 @@ If you possess the Alchemy sphere (formulae) package, you gain the following ben
 
 **Benefit:** In place of the snare from your Snare Setter fey-blessing, you may place any snare from the Trap sphere that you possess. You do not require a trap bag to set such snares. You may use your ranks in Craft (traps) in place of your caster level when determining the effects of the Snare Setter talent.
 
-#### Venomfire (Champion) [Alienist HB]
+#### Venomfire (Champion)
 
 **Prerequisites:** Alchemy sphere (Painful Venin x2), Destruction sphere.
 
@@ -749,7 +749,7 @@ If the blast type has a secondary effect, that effect is applied the first time 
 
 If you possess the Admixture or Greater Admixture talents, you may spend additional spell points or increase the time needed to create the poison as if you were applying these talents to the poison. If you do, you may apply additional (blast type) talents to the Painful Venin, dividing the damage and applying multiple additional effects as normal.
 
-#### Wardlord (Champion) [Apoc]
+#### Wardlord (Champion)
 
 *Source: [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)*
 
@@ -757,7 +757,7 @@ If you possess the Admixture or Greater Admixture talents, you may spend additio
 
 **Benefit:** When creating or while concentrating on a ward, you may expend your martial focus to apply the benefits of a (shout) or (tactic) talent you possess to all allies in the area of the ward for 1 round. When you create a ward, you gain a bonus to your caster level equal to half the number of ranks you have in the Diplomacy skill, rounded up, when determining the effects of your ward ability. This cannot increase your caster level above your Hit Dice.
 
-#### Winded By Words (Champion) [LotS]
+#### Winded By Words (Champion)
 
 **Prerequisites:** Bluster sphere, ability to gain martial focus.
 
@@ -773,7 +773,7 @@ Feats with the (dual sphere) tag allow you to combine the effects of multiple sp
 
 Only one dual sphere feat can be applied as part of using a sphere ability (i.e. a single casting of a magic sphere ability, use of a martial sphere ability, and so on).
 
-#### Animist (Champion, Dual Sphere) [DRS]
+#### Animist (Champion, Dual Sphere)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -789,7 +789,7 @@ Only one dual sphere feat can be applied as part of using a sphere ability (i.e.
 
 - *Of Soil and Bone (Nature sphere, Survivalism sphere ((harvest) package):* Whenever you create a talisman, you can spend 1 spell point to apply the effects of a single (spirit) talent you possess in place of a talisman benefit (paying any costs associated). The (spirit) talent is conferred to the wearer of the talisman, who can activate the chosen talent as a free action, causing the spirit effect to begin its duration–if the effect has a spell point cost to extend its duration (including allowing the effect to persist without concentration), its cost is considered to be paid. If the chosen talent lacks a duration and has no associated spell point cost (such as the Dragonlung or Nature’s Weapon talents), the wearer gains the benefits of the talent for 1 round per caster level when activated.
 
-#### Bard of Booze (Dual Sphere) [DRS]
+#### Bard of Booze (Dual Sphere)
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -805,7 +805,7 @@ Additionally, you gain an additional benefit depending on which Performance sphe
 - **Instrumental:** Whenever you activate a (smash) talent, you can either maintain your instrumental as a free action this round, or increase the area by 5 feet and its save DC (if any) by 1 for 1 round—multiple applications only increase the duration of this effect.
 - **Lyric:** Whenever you activate a (drunk) talent, you can reduce the action cost of your next lyric made this turn by 1 step (full-round > standard > move > swift > free).
 
-#### Fey Melodies (Champion, Dual Sphere) [DRS]
+#### Fey Melodies (Champion, Dual Sphere)
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -813,7 +813,7 @@ Additionally, you gain an additional benefit depending on which Performance sphe
 
 **Benefit:** You can use the songs available from the Enchanting Music talent as though they were a Performance sphere instrumental, such as using the Flowing Theatrics talent to begin one of these songs as a quicker action. An Enchanting Music song used as a Performance sphere instrumental is otherwise treated as beginning, and performing, an instrumental, such as using the Performance Mastery talent.
 
-#### Horticulturist (Champion, Dual Sphere) [DRS]
+#### Horticulturist (Champion, Dual Sphere)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -838,7 +838,7 @@ If you possess the Pre-emptive Preparation Herbalism talent, you can reveal the 
 - *Magical Preparation (Creation sphere, Herbalism sphere ((herbal) package):* You can spend 1 spell point as a standard action to immediately gain a batch of herbs (which cannot include herbs gained from exceptional talents), which still counts towards your daily limit. You can spend +1 spell point when using this ability to also prepare a single concoction, spending any herb costs associated with it (which can include the batch of herbs created using this ability). You can choose to have the prepared concoction appear in the hands of a creature within your natural reach, or within the range of your create ability if you possess the Distant Creation talent.
   **Special:** If you possess the Divided Creation talent, you can prepare multiple concoctions this way, using the same restrictions as the create sphere ability–a single concoction is treated as a Small object for determining the amount of concoctions that can be prepared this way.
 
-#### Mechanized Magnificence (Champion, Dual Sphere, Gizmo) [DRS]
+#### Mechanized Magnificence (Champion, Dual Sphere, Gizmo)
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -866,7 +866,7 @@ An audio magnifier’s battery use ability is otherwise unchanged, except that i
 
 - **Boombox (upgrade):** The mechanoid is crafted with each gizmo granted by this feat as an innate gizmo. Innate gizmos granted by this upgrade can be activated and used by creatures adjacent to the mechanoid.
 
-#### Natural Sciences (Champion, Dual Sphere) [DRS]
+#### Natural Sciences (Champion, Dual Sphere)
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -896,7 +896,7 @@ If you possess the Pre-emptive Preparation Herbalism talent, you can reveal an A
 
 A concoction can only have one such benefit applied to it at one time.
 
-#### Organic Spirits (Dual Sphere) [DRS]
+#### Organic Spirits (Dual Sphere)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -919,7 +919,7 @@ A concoction can only have one such benefit applied to it at one time.
 
 - **Sterilize the Wound (drunk):** You gain a +1 alchemical bonus to Fortitude saves for a number of rounds equal to your Constitution modifier (minimum 1), +1 round per 4 points of base attack bonus you possess. This bonus increases by +1 per 6 points of base attack bonus you possess. Additionally, you gain the benefits of the first aid, treat disease or treat poison Heal skill use as though you had taken 10, as well as using your Constitution modifier in place of your Wisdom modifier (if you choose) when determining your Heal skill modifier.
 
-#### Primal Dancer (Champion, Dual Sphere) [DRS]
+#### Primal Dancer (Champion, Dual Sphere)
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -932,7 +932,7 @@ A concoction can only have one such benefit applied to it at one time.
 
 - *Primal Rhythm (dance) (Berserker sphere, Performance sphere)*: You must be berserking to start this dance. All dancers gain the benefits (and penalties) of your berserking ability, except that such benefits and penalties are halved (this halving is after any calculations made) and use your statistics if more beneficial. This includes sharing the effects of (adrenaline) talents you may benefit from, the True Rage feat, and other class features and abilities, but not any personal reductions to penalties that you benefit from. This dance shares the current benefits (and penalties) of your berserking to other dancers each round (i.e. changing from one (adrenaline) to another the next round would change the effects of this dance).
 
-#### Graveborn Expression (Champion, Dual Sphere) [DRS]
+#### Graveborn Expression (Champion, Dual Sphere)
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -952,7 +952,7 @@ Additionally, you gain an additional benefit depending on which Performance sphe
 
 If it is a discouraging lyric, any number of undead within your dominion range (which have at least an amount of Hit Dice equal to your Hit Dice - 3) can spend an immediate action to impose a -1 penalty to the target’s saving throw against the lyric, to a maximum penalty equal to your operative modifier.
 
-#### Guarded Fane (Champion, Dual Sphere) [DRS]
+#### Guarded Fane (Champion, Dual Sphere)
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -962,7 +962,7 @@ If it is a discouraging lyric, any number of undead within your dominion range (
 
 You must pay any costs associated with the sphere ability used, and it lasts until the end of your next turn. If you reactivate the patrol before the end of your next turn, you can extend the duration of the sphere ability by an additional round without any additional costs, to a maximum duration equal to the original magical sphere ability’s duration; the sphere effect continues to function as your selected (zone) talent for the duration.
 
-#### Strategic Terrain (Champion, Dual Sphere) [DRS]
+#### Strategic Terrain (Champion, Dual Sphere)
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
@@ -970,7 +970,7 @@ You must pay any costs associated with the sphere ability used, and it lasts unt
 
 **Benefit:** Whenever you dredge an area, you can expend your martial focus to also apply the effects of a tactic to the area. A tactic applied this way does not need to be maintained, but cannot be moved from the dredged area. This does not function on instantaneous (tactic) talents.
 
-#### Vicious Performer (Champion, Dual Sphere) [DRS]
+#### Vicious Performer (Champion, Dual Sphere)
 
 *Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 

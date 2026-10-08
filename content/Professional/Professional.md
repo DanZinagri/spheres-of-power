@@ -398,7 +398,7 @@ Furthermore, the bonus on attack and weapon damage rolls from her battle shouts 
 
 Once per day, the professional can roll two dice while attempting a Bluff, Diplomacy, Intimidate, or Linguistics check, and take the better result. She must choose to use this ability before attempting the check. She can also expend 1 use of skill leverage to use this ability after she has already used it that day.
 
-### Connoisseur [DRS]
+### Connoisseur
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -696,7 +696,7 @@ If the professional is not in her favored terrain, she may spend 1 hour studying
 
 The professional’s terrain bonus in all favored terrains increases by +2, and she treats all other terrains as if they were favored terrains (+2 bonus). If a naturally occurring condition of temperature or weather requires a check or saving throw, she automatically succeeds. All allies within the professional’s Navigation sphere pathing or affected by her Navigation sphere acclimation gain a +2 insight bonus on these checks and saves; if the professional is in a mastered terrain, this bonus increases to +4.
 
-### Occultism [DRS]
+### Occultism
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
@@ -798,7 +798,7 @@ The professional may take 10 on any skill check that uses her Perform modifier e
 
 The professional’s creative endeavors and extensive capabilities with theatrics and performance grant her incredible endurance and control. The professional becomes immune to Charisma damage and drain, auditory effects, sonic damage, fatigue, and exhaustion.
 
-### Sciences [DRS]
+### Sciences
 
 *Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
@@ -863,7 +863,7 @@ The professional has learned to store magical energies within her body and mind,
 
 When the professional successfully uses Expected Spell or Unsnarl Magic, she may choose to keep a portion of the magical energies for herself. If the countered or dispelled magic is a beneficial spell or spell-like effect, the professional may gain its effects for half of its remaining duration (maximum 10 minutes).
 
-### Steward [DRS]
+### Steward
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
@@ -1078,7 +1078,7 @@ Tieflings can also choose the following:
 
 The following feats are particularly appropriate or useful for professionals.
 
-#### Hybridized Specialty [3PP]
+#### Hybridized Specialty
 
 *Source: Baron’s Glorious Arena*
 

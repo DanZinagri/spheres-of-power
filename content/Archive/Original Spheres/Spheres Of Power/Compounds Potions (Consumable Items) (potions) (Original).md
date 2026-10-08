@@ -73,7 +73,7 @@ This grenade is considered a thrown splash weapon. It deals 1d4 piercing damage 
 **Construction Requirements**
 Distill Compound, Destruction sphere, Explosive Orb, Crystal Blast; Cost 75 gp
 
-### Distillate of Deathlessness [Abj. HB]
+### Distillate of Deathlessness
 
 **Aura** faint Protection; **CL** 2
 **Slot** wondrous; **Price** 200 gp; **Weight** -
@@ -181,7 +181,7 @@ This thick, mud-like slop is odorless and tasteless until prepared for consumpti
 **Construction Requirements**
 Distill Compound, Alteration sphere, Perfect Imitation; **Cost** 450 gp
 
-### Light of True Magic [Abj. HB]
+### Light of True Magic
 
 **Aura** faint Protection; **CL** 5
 **Slot** wondrous; **Price** 2,500 gp; **Weight** .1 pounds
@@ -226,7 +226,7 @@ This potion fills the drinker with an overwhelming sense of power, wiping away t
 **Construction Requirements**
 Brew Potion, Mind Sphere; Cost 500 gp
 
-### Potion of Protection [Abj. HB]
+### Potion of Protection
 
 **Aura** faint Protection; **CL** 1
 **Slot** wondrous; **Price** 50 gp; **Weight** -
@@ -246,7 +246,7 @@ The oil is thick enough and potent enough to be used as a contact poison, and ma
 **Construction Requirements**
 Distill Compound; **Cost** 250 gp
 
-### Saving Stone [Abj. HB]
+### Saving Stone
 
 **Aura** faint Protection; **CL** 2
 **Slot** wondrous; **Price** 200 gp; **Weight** .1 pounds
@@ -306,7 +306,7 @@ Brew Potion, Life sphere; Cost 250 gp
 
 The following items were created by the Wiki or by members of the community using the item creation rules in Spheres of Power. They are intended to serve both as an example of item creation and as a collection of items you can use in your game.
 
-### Blessed Twig [Wiki]
+### Blessed Twig
 
 **Aura** faint Fate; **Caster Level** 3rd
 **Weight** 1/10 lbs.; **Price** 450 gp
@@ -315,7 +315,7 @@ When you or one of your allies within 35 ft. is making an attack roll, skill che
 **Construction Requirements**
 Brew Potion/Distill Compound, Fate Sphere, Bless; **Cost** 225 gp
 
-### Break Enchantment Potion [Wiki]
+### Break Enchantment Potion
 
 **Aura** faint Life; **Caster Level** 3rd
 **Weight** 1/10 lbs.; **Price** 450 gp
@@ -324,7 +324,7 @@ As Basic Restoration Potion (see Restoration Potion, Basic below), and roll 1d20
 **Construction Requirements**
 Brew Potion/Distill Compound, Life Sphere, Break Enchantment; **Cost** 225 gp
 
-### Cursed Twig [Wiki]
+### Cursed Twig
 
 **Aura** faint Fate; **Caster Level** 3rd
 **Weight** 1/10 lbs.; **Price** 450 gp
@@ -333,7 +333,7 @@ When an enemy within 35 ft. is making an attack roll, skill check, ability score
 **Construction Requirements**
 Brew Potion/Distill Compound, Fate Sphere, Curse; **Cost** 225 gp
 
-### Elemental Oil [Wiki]
+### Elemental Oil
 
 **Aura** faint Enhancement; **Caster Level** 4th
 **Weight** 1/10 lbs.; **Price** 800 gp
@@ -342,7 +342,7 @@ The affected weapon deals 1d6+2 points of acid/fire/cold/electricity damage on a
 **Construction Requirements**
 Brew Potion/Distill Compound, Enhancement Sphere, Energy Weapon; **Cost** 400 gp
 
-### Gem of Energy Ward [Wiki]
+### Gem of Energy Ward
 
 **Aura** faint Protection; **Caster Level** 4th
 **Weight** 1/10 lbs.; **Price** 800 gp
@@ -351,7 +351,7 @@ Crushing this gem creates a 30 ft. radius spherical area that dampens a certain 
 **Construction Requirements**
 Brew Potion/Distill Compound, Protection Sphere, Energy Resistance (ward, aegis); **Cost** 400 gp
 
-### Healing Potion, Standard [Wiki]
+### Healing Potion, Standard
 
 **Aura** faint Life; **Caster Level** 2nd
 **Weight** 1/10 lbs.; **Price** 200 gp
@@ -360,7 +360,7 @@ Instantly heals 2d8+2 hp. This is a positive energy effect, and thus harms undea
 **Construction Requirements**
 Brew Potion/Distill Compound, Life Sphere, any 1 Restore talent; **Cost** 100 gp
 
-### Healing Potion, Improved [Wiki]
+### Healing Potion, Improved
 
 **Aura** faint Life; **Caster Level** 3rd
 **Weight** 1/10 lbs.; **Price** 450 gp
@@ -369,7 +369,7 @@ Instantly heals 3d8+3 hp. This is a positive energy effect, and thus harms undea
 **Construction Requirements**
 Brew Potion/Distill Compound, Life Sphere, any 2 Restore talents; **Cost** 225 gp
 
-### Healing Potion, Greater [Wiki]
+### Healing Potion, Greater
 
 **Aura** faint Life; **Caster Level** 4th
 **Weight** 1/10 lbs.; **Price** 800 gp
@@ -378,7 +378,7 @@ Instantly heals 4d8+4 hp. This is a positive energy effect, and thus harms undea
 **Construction Requirements**
 Brew Potion/Distill Compound, Life Sphere, any 3 Restore talents; **Cost** 400 gp
 
-### Healing Potion, Superior [Wiki]
+### Healing Potion, Superior
 
 **Aura** faint Life; **Caster Level** 4th
 **Weight** 1/10 lbs.; **Price** 1250 gp
@@ -387,7 +387,7 @@ Instantly heals 1d8+25 hp. This is a positive energy effect, and thus harms unde
 **Construction Requirements**
 Brew Potion/Distill Compound, Life Sphere, Greater Healing x4; **Cost** 625 gp
 
-### Oil of Bleeding Serum [Wiki]
+### Oil of Bleeding Serum
 
 **Aura** faint Enhancement; **Caster Level** 4th
 **Weight** 1/10 lbs.; **Price** 800 gp
@@ -396,7 +396,7 @@ The affected weapon deals 2 points of bleed damage on a successful hit in additi
 **Construction Requirements**
 Brew Potion/Distill Compound, Enhancement Sphere, Ragged Edges; **Cost** 400 gp
 
-### Oil of Carthus Rouge [Wiki]
+### Oil of Carthus Rouge
 
 **Aura** faint Enhancement; **Caster Level** 5th
 **Weight** 1/10 lbs.; **Price** 1250 gp
@@ -405,7 +405,7 @@ The affected weapon deals 5 points of bleed damage on a successful hit in additi
 **Construction Requirements**
 Brew Potion/Distill Compound, Enhancement Sphere, Ragged Edges; **Cost** 625 gp
 
-### Oil of Enhancement +1 [Wiki]
+### Oil of Enhancement +1
 
 **Aura** faint Enhancement; **Caster Level** 2nd
 **Weight** 1/10 lbs.; **Price** 200 gp
@@ -414,7 +414,7 @@ The affected weapon, suit of armor, or shield gains a +1 enhancement bonus for 2
 **Construction Requirements**
 Brew Potion/Distill Compound, Enhancement Sphere; **Cost** 100 gp
 
-### Oil of Enhancement +2 [Wiki]
+### Oil of Enhancement +2
 
 **Aura** faint Enhancement; **Caster Level** 5th
 **Weight** 1/10 lbs.; **Price** 500 gp
@@ -423,7 +423,7 @@ The affected weapon, suit of armor, or shield gains a +2 enhancement bonus for 5
 **Construction Requirements**
 Brew Potion/Distill Compound, Enhancement Sphere; **Cost** 250 gp
 
-### Oil of Enhancement +3 [Wiki]
+### Oil of Enhancement +3
 
 **Aura** moderate Enhancement; **Caster Level** 10th
 **Weight** 1/10 lbs.; **Price** 500 gp
@@ -432,7 +432,7 @@ The affected weapon, suit of armor, or shield gains a +3 enhancement bonus for 1
 **Construction Requirements**
 Brew Potion/Distill Compound, Enhancement Sphere; **Cost** 250 gp
 
-### Oil of Enhancement +4 [Wiki]
+### Oil of Enhancement +4
 
 **Aura** strong Enhancement; **Caster Level** 15th
 **Weight** 1/10 lbs.; **Price** 750 gp
@@ -441,7 +441,7 @@ The affected weapon, suit of armor, or shield gains a +4 enhancement bonus for 1
 **Construction Requirements**
 Brew Potion/Distill Compound, Enhancement Sphere; **Cost** 250 gp
 
-### Oil of Enhancement +5 [Wiki]
+### Oil of Enhancement +5
 
 **Aura** strong Enhancement; **Caster Level** 20th
 **Weight** 1/10 lbs.; **Price** 1000 gp
@@ -450,7 +450,7 @@ The affected weapon, suit of armor, or shield gains a +5 enhancement bonus for 2
 **Construction Requirements**
 Brew Potion/Distill Compound, Enhancement Sphere; **Cost** 250 gp
 
-### Oil of Forged Reach [Wiki]
+### Oil of Forged Reach
 
 **Aura** faint Nature; **Caster Level** 4th
 **Weight** 1/10 lbs.; **Price** 800 gp
@@ -459,7 +459,7 @@ The affected metal weapon has its reach extended by 5 ft. for 4 minutes.
 **Construction Requirements**
 Brew Potion/Distill Compound, Nature Sphere (metal geomancing), Forged Reach; **Cost** 400 gp
 
-### Oil of Freedom [Wiki]
+### Oil of Freedom
 
 **Aura** faint Fate; **Caster Level** 5th
 **Weight** 1/10 lbs.; **Price** 1250 gp
@@ -468,7 +468,7 @@ The oiled target may move and attack normally, unaffected by magical or mundane 
 **Construction Requirements**
 Brew Potion/Distill Compound, Fate Sphere, Freedom; **Cost** 625 gp
 
-### Oil of Keen Edge [Wiki]
+### Oil of Keen Edge
 
 **Aura** faint Enhancement; **Caster Level** 4th
 **Weight** 1/10 lbs.; **Price** 800 gp
@@ -477,7 +477,7 @@ The affected slashing or piercing weapon’s critical threat range doubles. This
 **Construction Requirements**
 Brew Potion/Distill Compound, Enhancement Sphere, Deadly Weapon; **Cost** 400 gp
 
-### Portable Hole, Lesser [Wiki]
+### Portable Hole, Lesser
 
 **Aura** faint Warp; **Caster Level** 4th
 **Weight** 1/10 lbs.; **Price** 800 gp
@@ -486,7 +486,7 @@ This black, rubbery substance flows freely in one's hand, and can be slapped ont
 **Construction Requirements**
 Brew Potion/Distill Compound, Warp sphere, Unseeing Teleport, Group Teleport; **Cost** 400 gp
 
-### Potion of Agility, Lesser [Wiki]
+### Potion of Agility, Lesser
 
 **Aura** faint Enhancement; **Caster Level** 4th
 **Weight** 1/10 lbs.; **Price** 400 gp
@@ -495,7 +495,7 @@ This bright yellow potion provides a +2 enhancement bonus to Dexterity for 4 rou
 **Construction Requirements**
 Brew Potion/Distill Compound, Enhancement sphere, Physical Enhancement (enhance); **Cost** 200 gp
 
-### Potion of Agility, Moderate [Wiki]
+### Potion of Agility, Moderate
 
 **Aura** moderate Enhancement; **Caster Level** 7th
 **Weight** 1/10 lbs.; **Price** 700 gp
@@ -504,7 +504,7 @@ This bright yellow potion provides a +4 enhancement bonus to Dexterity for 7 rou
 **Construction Requirements**
 Brew Potion/Distill Compound, Enhancement sphere, Physical Enhancement (enhance); **Cost** 350 gp
 
-### Potion of Agility, Greater [Wiki]
+### Potion of Agility, Greater
 
 **Aura** strong Enhancement; **Caster Level** 14th
 **Weight** 1/10 lbs.; **Price** 1400 gp
@@ -513,7 +513,7 @@ This bright yellow potion provides a +6 enhancement bonus to Dexterity for 14 ro
 **Construction Requirements**
 Brew Potion/Distill Compound, Enhancement sphere, Physical Enhancement (enhance); **Cost** 700 gp
 
-### Potion of the Amphibian [Wiki]
+### Potion of the Amphibian
 
 **Aura** faint Alteration; **Caster Level** 5th
 **Weight** 1/10 lbs.; **Price** 1000 gp
@@ -522,7 +522,7 @@ You gain the Amphibious subtype, the ability to breathe water, and a 40 ft. swim
 **Construction Requirements**
 Brew Potion/Distill Compound, Alteration Sphere, Aquan Transformation; **Cost** 500 gp
 
-### Potion of the Amphibian, Greater [Wiki]
+### Potion of the Amphibian, Greater
 
 **Aura** moderate Alteration; **Caster Level** 6th
 **Weight** 1/10 lbs.; **Price** 1800 gp
@@ -531,7 +531,7 @@ You gain the Amphibious subtype, the ability to breathe water, and a 40 ft. swim
 **Construction Requirements**
 Brew Potion/Distill Compound, Alteration Sphere, Aquan Transformation ; **Cost** 900 gp
 
-### Potion of the Amphibian, Superior [Wiki]
+### Potion of the Amphibian, Superior
 
 **Aura** moderate Alteration; **Caster Level** 8th
 **Weight** 1/10 lbs.; **Price** 3200 gp
@@ -549,7 +549,7 @@ For the next 2 minutes, you no longer need to breathe to survive. You become imm
 **Construction Requirements**
 Brew Potion/Distill Compound, Protection Sphere, Breathless; **Cost** 100 gp
 
-### Potion of Cognition, Lesser [Wiki]
+### Potion of Cognition, Lesser
 
 **Aura** faint Enhancement; **Caster Level** 4th
 **Weight** 1/10 lbs.; **Price** 400 gp
@@ -558,7 +558,7 @@ This bright white potion provides a +2 enhancement bonus to Intelligence for 4 r
 **Construction Requirements**
 Brew Potion/Distill Compound, Enhancement sphere, Mental Enhancement (enhance); **Cost** 200 gp
 
-### Potion of Cognition, Moderate [Wiki]
+### Potion of Cognition, Moderate
 
 **Aura** moderate Enhancement; **Caster Level** 7th
 **Weight** 1/10 lbs.; **Price** 700 gp
@@ -567,7 +567,7 @@ This bright white potion provides a +4 enhancement bonus to Intelligence for 7 r
 **Construction Requirements**
 Brew Potion/Distill Compound, Enhancement sphere, Mental Enhancement (enhance); **Cost** 350 gp
 
-### Potion of Cognition, Greater [Wiki]
+### Potion of Cognition, Greater
 
 **Aura** strong Enhancement; **Caster Level** 14th
 **Weight** 1/10 lbs.; **Price** 1400 gp
@@ -576,7 +576,7 @@ This bright white potion provides a +6 enhancement bonus to Intelligence for 14 
 **Construction Requirements**
 Brew Potion/Distill Compound, Enhancement sphere, Mental Enhancement (enhance); **Cost** 700 gp
 
-### Potion of Confidence, Lesser [Wiki]
+### Potion of Confidence, Lesser
 
 **Aura** faint Enhancement; **Caster Level** 4th
 **Weight** 1/10 lbs.; **Price** 400 gp
@@ -585,7 +585,7 @@ This bright pink potion provides a +2 enhancement bonus to Charisma for 4 rounds
 **Construction Requirements**
 Brew Potion/Distill Compound, Enhancement sphere, Mental Enhancement (enhance); **Cost** 200 gp
 
-### Potion of Confidence, Moderate [Wiki]
+### Potion of Confidence, Moderate
 
 **Aura** moderate Enhancement; **Caster Level** 7th
 **Weight** 1/10 lbs.; **Price** 700 gp
@@ -594,7 +594,7 @@ This bright pink potion provides a +4 enhancement bonus to Charisma for 7 rounds
 **Construction Requirements**
 Brew Potion/Distill Compound, Enhancement sphere, Mental Enhancement (enhance); **Cost** 350 gp
 
-### Potion of Confidence, Greater [Wiki]
+### Potion of Confidence, Greater
 
 **Aura** strong Enhancement; **Caster Level** 14th
 **Weight** 1/10 lbs.; **Price** 1400 gp
@@ -603,7 +603,7 @@ This bright pink potion provides a +6 enhancement bonus to Charisma for 14 round
 **Construction Requirements**
 Brew Potion/Distill Compound, Enhancement sphere, Mental Enhancement (enhance); **Cost** 700 gp
 
-### Potion of Darkvision [Wiki]
+### Potion of Darkvision
 
 **Aura** weak Dark; **Caster Level** 2nd
 **Weight** 1/10 lbs.; **Price** 200 gp
@@ -612,7 +612,7 @@ You gain darkvision 60 ft. for 2 hours.
 **Construction Requirements**
 Brew Potion/Distill Compound, Dark Sphere, Darkvision; **Cost** 100 gp
 
-### Potion of Durability, Lesser [Wiki]
+### Potion of Durability, Lesser
 
 **Aura** faint Enhancement; **Caster Level** 4th
 **Weight** 1/10 lbs.; **Price** 400 gp
@@ -621,7 +621,7 @@ This bright green potion provides a +2 enhancement bonus to Constitution for 4 r
 **Construction Requirements**
 Brew Potion/Distill Compound, Enhancement sphere, Physical Enhancement (enhance); **Cost** 200 gp
 
-### Potion of Durability, Moderate [Wiki]
+### Potion of Durability, Moderate
 
 **Aura** moderate Enhancement; **Caster Level** 7th
 **Weight** 1/10 lbs.; **Price** 700 gp
@@ -630,7 +630,7 @@ This bright green potion provides a +4 enhancement bonus to Constitution for 7 r
 **Construction Requirements**
 Brew Potion/Distill Compound, Enhancement sphere, Physical Enhancement (enhance); **Cost** 350 gp
 
-### Potion of Durability, Greater [Wiki]
+### Potion of Durability, Greater
 
 **Aura** strong Enhancement; **Caster Level** 14th
 **Weight** 1/10 lbs.; **Price** 1400 gp
@@ -639,7 +639,7 @@ This bright green potion provides a +6 enhancement bonus to Constitution for 14 
 **Construction Requirements**
 Brew Potion/Distill Compound, Enhancement sphere, Physical Enhancement (enhance); **Cost** 700 gp
 
-### Potion of Energy Resistance [Wiki]
+### Potion of Energy Resistance
 
 **Aura** faint Protection; **Caster Level** 2nd
 **Weight** 1/10 lbs.; **Price** 200 gp
@@ -648,7 +648,7 @@ You gain energy resistance 12 to one of the following for 2 minutes: acid, cold,
 **Construction Requirements**
 Brew Potion/Distill Compound, Protection Sphere, Energy Resistance; **Cost** 100 gp
 
-### Potion of Enlargement/Reduction [Wiki]
+### Potion of Enlargement/Reduction
 
 **Aura** faint Alteration; **Caster Level** 4th
 **Weight** 1/10 lbs.; **Price** 800 gp
@@ -657,7 +657,7 @@ Your size changes by one category, with the appropriate changes to attacks, skil
 **Construction Requirements**
 Brew Potion/Distill Compound, Alteration Sphere, Size Change; **Cost** 400 gp
 
-### Potion of Enlargement/Reduction, Greater [Wiki]
+### Potion of Enlargement/Reduction, Greater
 
 **Aura** faint Alteration; **Caster Level** 5th
 **Weight** 1/10 lbs.; **Price** 1000 gp
@@ -666,7 +666,7 @@ Your size changes by two categories, with the appropriate changes to attacks, sk
 **Construction Requirements**
 Brew Potion/Distill Compound, Alteration Sphere, Size Change; **Cost** 500 gp
 
-### Potion of Fate Tugging [Wiki]
+### Potion of Fate Tugging
 
 **Aura** weak Fate; **Caster Level** 4th
 **Weight** 1/10 lbs.; **Price** 800 gp
@@ -675,7 +675,7 @@ You gain a 20 ft. aura of shifting fate. Anytime you or anyone else in the aura 
 **Construction Requirements**
 Brew Potion/Distill Compound, Fate Sphere, Tug Fate; **Cost** 400 gp
 
-### Potion of Hide in Darkness [Wiki]
+### Potion of Hide in Darkness
 
 **Aura** weak Dark; **Caster Level** 2nd
 **Weight** 1/10 lbs.; **Price** 200 gp
@@ -684,7 +684,7 @@ You gain the Hide in Plain Sight ability, that only functions in dim light or da
 **Construction Requirements**
 Brew Potion/Distill Compound, Dark Sphere, Hide in Darkness; **Cost** 100 gp
 
-### Potion of Insight, Lesser [Wiki]
+### Potion of Insight, Lesser
 
 **Aura** faint Enhancement; **Caster Level** 4th
 **Weight** 1/10 lbs.; **Price** 400 gp
@@ -693,7 +693,7 @@ This bright golden potion provides a +2 enhancement bonus to Wisdom for 4 rounds
 **Construction Requirements**
 Brew Potion/Distill Compound, Enhancement sphere, Mental Enhancement (enhance); **Cost** 200 gp
 
-### Potion of Insight, Moderate [Wiki]
+### Potion of Insight, Moderate
 
 **Aura** moderate Enhancement; **Caster Level** 7th
 **Weight** 1/10 lbs.; **Price** 700 gp
@@ -702,7 +702,7 @@ This bright golden potion provides a +4 enhancement bonus to Wisdom for 7 rounds
 **Construction Requirements**
 Brew Potion/Distill Compound, Enhancement sphere, Mental Enhancement (enhance); **Cost** 350 gp
 
-### Potion of Insight, Greater [Wiki]
+### Potion of Insight, Greater
 
 **Aura** strong Enhancement; **Caster Level** 14th
 **Weight** 1/10 lbs.; **Price** 1400 gp
@@ -711,7 +711,7 @@ This bright golden potion provides a +6 enhancement bonus to Wisdom for 14 round
 **Construction Requirements**
 Brew Potion/Distill Compound, Enhancement sphere, Mental Enhancement (enhance); **Cost** 700 gp
 
-### Potion of Might, Lesser [Wiki]
+### Potion of Might, Lesser
 
 **Aura** faint Enhancement; **Caster Level** 4th
 **Weight** 1/10 lbs.; **Price** 400 gp
@@ -720,7 +720,7 @@ This bright red potion provides a +2 enhancement bonus to Strength for 4 rounds 
 **Construction Requirements**
 Brew Potion/Distill Compound, Enhancement sphere, Physical Enhancement (enhance); **Cost** 200 gp
 
-### Potion of Might, Moderate [Wiki]
+### Potion of Might, Moderate
 
 **Aura** moderate Enhancement; **Caster Level** 7th
 **Weight** 1/10 lbs.; **Price** 700 gp
@@ -729,7 +729,7 @@ This bright red potion provides a +4 enhancement bonus to Strength for 7 rounds 
 **Construction Requirements**
 Brew Potion/Distill Compound, Enhancement sphere, Physical Enhancement (enhance); **Cost** 350 gp
 
-### Potion of Might, Greater [Wiki]
+### Potion of Might, Greater
 
 **Aura** strong Enhancement; **Caster Level** 14th
 **Weight** 1/10 lbs.; **Price** 1400 gp
@@ -738,7 +738,7 @@ This bright red potion provides a +6 enhancement bonus to Strength for 14 rounds
 **Construction Requirements**
 Brew Potion/Distill Compound, Enhancement sphere, Physical Enhancement (enhance); **Cost** 700 gp
 
-### Potion of Mimicry [Wiki]
+### Potion of Mimicry
 
 **Aura** moderate Alteration; **Caster Level** 7th
 **Weight** 1/10 lbs.; **Price** 2450 gp
@@ -747,7 +747,7 @@ The drinker shapeshifts to imitate the appearance and voice of a particular crea
 **Construction Requirements**
 Brew Potion/Distill Compound, Alteration Sphere, Perfect Imitation, Vocal Transformation; **Cost** 1225 gp
 
-### Potion of Powerful Courage [Wiki]
+### Potion of Powerful Courage
 
 **Aura** faint Mind; **Caster Level** 5th
 **Weight** 1/10 lbs.; **Price** 1250 gp
@@ -756,7 +756,7 @@ You gain a +2 morale bonus to attack rolls, saving throws, skill checks, and abi
 **Construction Requirements**
 Brew Potion/Distill Compound, Mind Sphere, Courage, Powerful Charm; **Cost** 625 gp
 
-### Potion of Step Through Darkness [Wiki]
+### Potion of Step Through Darkness
 
 **Aura** weak Dark; **Caster Level** 2nd
 **Weight** 1/10 lbs.; **Price** 200 gp
@@ -774,7 +774,7 @@ You can walk on water for the next 5 minutes. Water and all other liquid becomes
 **Construction Requirements**
 Brew Potion/Distill Compound, Nature Sphere (water geomancing), Water Walking; **Cost** 625 gp
 
-### Potion of Winged Flight [Wiki]
+### Potion of Winged Flight
 
 **Aura** faint Alteration; **Caster Level** 5th
 **Weight** 1/10 lbs.; **Price** 1000 gp
@@ -783,7 +783,7 @@ You grow a pair of wings, and gain a fly speed of 30 ft. with poor maneuverabili
 **Construction Requirements**
 Brew Potion/Distill Compound, Alteration Sphere, Avian Transformation; **Cost** 500 gp
 
-### Potion of Winged Flight, Greater [Wiki]
+### Potion of Winged Flight, Greater
 
 **Aura** moderate Alteration; **Caster Level** 6th
 **Weight** 1/10 lbs.; **Price** 1800 gp
@@ -792,7 +792,7 @@ You grow a pair of wings, and gain a fly speed of 30 ft. with poor maneuverabili
 **Construction Requirements**
 Brew Potion/Distill Compound, Alteration Sphere, Avian Transformation; **Cost** 900 gp
 
-### Potion of Winged Flight, Superior [Wiki]
+### Potion of Winged Flight, Superior
 
 **Aura** moderate Alteration; **Caster Level** 8th
 **Weight** 1/10 lbs.; **Price** 3200 gp
@@ -801,7 +801,7 @@ You grow a pair of wings, and gain a fly speed of 30 ft. with poor maneuverabili
 **Construction Requirements**
 Brew Potion/Distill Compound, Alteration Sphere, Avian Transformation; **Cost** 1600 gp
 
-### Restoration Potion, Basic [Wiki]
+### Restoration Potion, Basic
 
 **Aura** faint Life; **Caster Level** 1st
 **Weight** 1/10 lbs.; **Price** 50 gp
@@ -810,7 +810,7 @@ Heals 1d4 ability damage. Removes sickened, staggered, battered, fatigue, shaken
 **Construction Requirements**
 Brew Potion/Distill Compound, Life Sphere; **Cost** 25 gp
 
-### Restoration Potion, Composure [Wiki]
+### Restoration Potion, Composure
 
 **Aura** faint Life; **Caster Level** 2nd
 **Weight** 1/10 lbs.; **Price** 200 gp
@@ -819,7 +819,7 @@ As Basic Restoration potion, plus cures charm effects (but not compulsion effect
 **Construction Requirements**
 Brew Potion/Distill Compound, Life Sphere, Restore Composure; **Cost** 100 gp
 
-### Restoration Potion, Greater [Wiki]
+### Restoration Potion, Greater
 
 **Aura** faint Life; **Caster Level** 2nd
 **Weight** 1/10 lbs.; **Price** 200 gp
@@ -828,7 +828,7 @@ As Basic Restoration potion, but completely removes exhausted, nauseated, and al
 **Construction Requirements**
 Brew Potion/Distill Compound, Life sphere, Greater Restoration; **Cost** 100 gp
 
-### Restoration Potion, Health [Wiki]
+### Restoration Potion, Health
 
 **Aura** faint Life; **Caster Level** 2nd
 **Weight** 1/10 lbs.; **Price** 200 gp
@@ -837,7 +837,7 @@ As Basic Restoration potion, plus roll 1d20+2 vs DC of any poisons and/or diseas
 **Construction Requirements**
 Brew Potion/Distill Compound, Life Sphere, Restore Health; **Cost** 100 gp
 
-### Restoration Potion, Mind [Wiki]
+### Restoration Potion, Mind
 
 **Aura** faint Life; **Caster Level** 2nd
 **Weight** 1/10 lbs.; **Price** 200 gp
@@ -846,7 +846,7 @@ As Basic Restoration Potion, plus cures confused and dazed.
 **Construction Requirements**
 Brew Potion/Distill Compound, Life Sphere, Restore Mind; **Cost** 100 gp
 
-### Restoration Potion, Movement [Wiki]
+### Restoration Potion, Movement
 
 **Aura** faint Life; **Caster Level** 2nd
 **Weight** 1/10 lbs.; **Price** 200 gp
@@ -855,7 +855,7 @@ As Basic Restoration Potion, plus you may roll Escape Artist vs any applicable e
 **Construction Requirements**
 Brew Potion/Distill Compound, Life Sphere, Restore Movement; **Cost** 100 gp
 
-### Restoration Potion, Sense [Wiki]
+### Restoration Potion, Sense
 
 **Aura** faint Life; **Caster Level** 2nd
 **Weight** 1/10 lbs.; **Price** 200 gp
@@ -864,7 +864,7 @@ As Basic Restoration Potion, plus cures blindness, deafness, or loss of one othe
 **Construction Requirements**
 Brew Potion/Distill Compound, Life Sphere, Restore Senses; **Cost** 100 gp
 
-### Restoration Potion, Soul [Wiki]
+### Restoration Potion, Soul
 
 **Aura** faint Life; **Caster Level** 2nd
 **Weight** 1/10 lbs.; **Price** 200 gp
@@ -873,7 +873,7 @@ As Basic Restoration potion, plus cures all ability drain and removes negative l
 **Construction Requirements**
 Brew Potion/Distill Compound, Life Sphere, Restore Soul; **Cost** 100 gp
 
-### Revitalization Potion, Minor [Wiki]
+### Revitalization Potion, Minor
 
 **Aura** faint Life; **Caster Level** 2nd
 **Weight** 1/10 lbs.; **Price** 200 gp
@@ -882,7 +882,7 @@ Grants Fast Healing 1 for 2 minutes. 20 hp total.
 **Construction Requirements**
 Brew Potion/Distill Compound, Life Sphere, Revitalize; **Cost** 100 gp
 
-### Revitalization Potion, Standard [Wiki]
+### Revitalization Potion, Standard
 
 **Aura** faint Life; **Caster Level** 3rd
 **Weight** 1/10 lbs.; **Price** 450 gp
@@ -891,7 +891,7 @@ Grants Fast Healing 2 for 3 minutes. 60 hp total.
 **Construction Requirements**
 Brew Potion/Distill Compound, Life Sphere, Revitalize, Greater Healing; **Cost** 225 gp
 
-### Revitalization Potion, Improved [Wiki]
+### Revitalization Potion, Improved
 
 **Aura** faint Life; **Caster Level** 4th
 **Weight** 1/10 lbs.; **Price** 800 gp
@@ -900,7 +900,7 @@ Grants Fast Healing 3 for 4 minutes. 120 hp total.
 **Construction Requirements**
 Brew Potion/Distill Compound, Life Sphere, Revitalize, Greater Healing x2; **Cost** 400 gp
 
-### Revitalization Potion, Greater [Wiki]
+### Revitalization Potion, Greater
 
 **Aura** faint Life; **Caster Level** 5th
 **Weight** 1/10 lbs.; **Price** 1250 gp
@@ -909,7 +909,7 @@ Grants Fast Healing 4 for 5 minutes. 200 hp total.
 **Construction Requirements**
 Brew Potion/Distill Compound, Life Sphere, Revitalize, Greater Healing x3; **Cost** 625 gp
 
-### Revitalization Potion, Superior [Wiki]
+### Revitalization Potion, Superior
 
 **Aura** moderate Life; **Caster Level** 6th
 **Weight** 1/10 lbs.; **Price** 1800 gp
@@ -918,7 +918,7 @@ Grant Fast Healing 5 for 6 minutes. 300 hp total.
 **Construction Requirements**
 Brew Potion/Distill Compound, Life Sphere, Revitalize, Greater Healing x4; **Cost** 900 gp
 
-### Truth Serum [Wiki]
+### Truth Serum
 
 **Aura** faint Fate; **Caster Level** 5th
 **Weight** 1/10 lbs.; **Price** 1250 gp

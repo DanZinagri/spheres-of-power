@@ -46,7 +46,7 @@ Tags | Edit | Source | Print
 [[Blood]]
 [[Conjuration]]
 [[Creation]]
-[[Dark]] | [[Dark|Polished Dark]] [DRS]
+[[Dark]] | [[Dark|Polished Dark]]
 [[Death]]
 [[Destruction]]
 [[Divination]]
@@ -117,7 +117,7 @@ Special or 3PP
 [[Survivalism]]
 [[Vocation]]
 
-[[Occultism]] [DRS]
+[[Occultism]]
 
 **Special**
 

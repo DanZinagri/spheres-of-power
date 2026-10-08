@@ -11,7 +11,7 @@ parent: "[[Life]]"
 
 **Benefit:** Whenever an ally within range of your cure ability that is under the effects of an aegis is damaged, you may spend a spell point as an immediate action to heal them with hit points from your fount of life. This may keep the target from dying.
 
-#### Catty Observer [Catgirl HB]
+#### Catty Observer
 
 “She brings the food on a regular basis, delivering the fine dry cubes of nourishment to my bowl. She is worth protecting.” – Meowlin the Omnicatster
 
@@ -63,7 +63,7 @@ parent: "[[Life]]"
 
 **Benefit:** Any ally within close range may spend a standard action to heal themselves for any number of hit points available in your fount of life, in all ways as if you had used the ability on them during your turn. This reduces the number of healing stored by an equal amount. This is a supernatural ability that may not be used if either yourself or the ally is in an antimagic field or similar effect. You always have the option of denying or limiting the amount of healing the ally receives, and allies can not benefit while you are unconscious.
 
-#### Fount Of Stolen Life (Dual Sphere) [CrimDan]
+#### Fount Of Stolen Life (Dual Sphere)
 
 **Prerequisites:** Blood sphere, Life sphere (Fount Of Life).
 
@@ -85,7 +85,7 @@ parent: "[[Life]]"
 
 **Benefit:** When you heal another creature’s hit points, whether using the Life sphere or another ability, you may spend a kismet point to regain an equal number of your own.
 
-#### Lifebound Auspician [Gravecaller's HB]
+#### Lifebound Auspician
 
 You bend the forces of the cosmos to the heartbeat of mortality.
 **Prerequisites:** Fate sphere; Death sphere or Life sphere; caster level 3rd.
@@ -105,7 +105,7 @@ Sphere effects modified with this feat are still treated as the original talent 
 
 **Example:** A Fate sphere caster uses the Divine Force (consecration) talent. Instead of using the Fate sphere caster’s alignment, the caster chooses living and affects any undead, regardless of their alignment, and does not affect living creatures. That same caster uses the Enmity (word) talent, choosing undead and targeting a living creature. The living creature must succeed at a Will saving throw or be blinded as though their alignment were 3 steps away from the caster’s.
 
-#### Purrging Transformation (Dual Sphere) [Catgirl HB]
+#### Purrging Transformation (Dual Sphere)
 
 **Prerequisites:** Alteration sphere, Life sphere.
 
@@ -113,13 +113,13 @@ Sphere effects modified with this feat are still treated as the original talent 
 
 In addition, you may treat your Alteration sphere shapeshift sphere ability as though it were a Life sphere ability for the purposes of granting the benefits of a Life sphere (vitality) talent.
 
-#### Rain Of Renewal (Dual Sphere) [Warden]
+#### Rain Of Renewal (Dual Sphere)
 
 **Prerequisite:** Life sphere (Stabilizing Invigoration), Weather sphere.
 
 **Benefit:** When you use control weather to create or control Precipitation of severity 2 or more, you may choose to spend 1 additional spell point. If you do, all dying creatures within the affected area immediately stabilize. Additionally, all allies have all bleed effects ended as if you had successfully used the Heal skill to perform first aid. This benefit lasts for 1 minute or until you stop concentrating on the control weather effect, whichever comes last.
 
-#### Revitalizing Grasp [Warden]
+#### Revitalizing Grasp
 
 **Prerequisite:** Life sphere (at least one (vitality) talent), lay on hands class feature.
 
@@ -137,7 +137,7 @@ In addition, you may treat your Alteration sphere shapeshift sphere ability as t
 
 **Benefit:** When you use your cure ability, you gain a bonus to your caster level equal to half the number of ranks you have in the Heal skill, rounded up. This can not increase your caster level above your Hit Dice.
 
-#### Transpatial Reconstitution (Dual Sphere) [DbH]
+#### Transpatial Reconstitution (Dual Sphere)
 
 Your form in this particular world is one of many. Material from beyond can replace any damaged components.
 

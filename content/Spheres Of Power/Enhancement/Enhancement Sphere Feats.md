@@ -187,7 +187,7 @@ When you reanimate a body, you can grant it magical enhancements for a short tim
 
 **Special:** You may apply the benefits of any feats that improve your use of Animate Object to your animated object familiar. If you later take Improved Familiar, you may select a Small animated object at 5th caster level instead.
 
-#### Parts And Pieces (Dual Sphere) [Gravecaller's HB]
+#### Parts And Pieces (Dual Sphere)
 
 “Arms and legs make perfectly acceptable furniture, minions, and anything in between.” – Kul’thiran, Master Necrotaxidermist
 
@@ -197,7 +197,7 @@ When you reanimate a body, you can grant it magical enhancements for a short tim
 
 A piecemeal undead under your control that you treat as an animated object gains additional construction point abilities as normal for an animated object, chosen when it is reanimated.
 
-#### Plexing Boon (Dual Sphere) [3PP]
+#### Plexing Boon (Dual Sphere)
 
 *Source: Expanded Spheres: Baron's Lost Apocrypha*
 

@@ -17,7 +17,7 @@ parent: "[[Navigation]]"
 
 **Benefit:** When you use pathing, you may apply two (pathing) talents to the area rather than just one.
 
-#### Field Instruction (Champion) [LotS]
+#### Field Instruction (Champion)
 
 **Prerequisites:** Navigation sphere, Warleader sphere.
 
@@ -25,7 +25,7 @@ parent: "[[Navigation]]"
 
 While within the area of your pathing, you can maintain this tactic as a free action.
 
-#### Scorched Path (Champion) [3PP]
+#### Scorched Path (Champion)
 
 **Prerequisites:** Destruction Sphere, Navigation Sphere
 
@@ -33,7 +33,7 @@ While within the area of your pathing, you can maintain this tactic as a free ac
 
 *Source: Expanded Spheres: Weaves of War*
 
-#### Trailblazer (Champion) [LotS]
+#### Trailblazer (Champion)
 
 **Prerequisites:** Athletics sphere, Navigation sphere.
 

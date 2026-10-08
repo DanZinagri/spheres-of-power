@@ -104,7 +104,7 @@ The sage has trained to project his energy outside of himself, firing devastatin
 
 This counts as the destructive blast ability from the Destruction sphere and may be modified by talents with the (blast type) descriptor. In addition, sages with this ability may take (blast type) talents without having the Destruction base sphere. For every 4 class levels the sage possesses, he gains one (blast type) talent as a bonus talent.
 
-#### Ki Convergent [EO3]
+#### Ki Convergent
 
 The sage becomes attuned to a single elemental focus, and can draw upon the essence of nature around him to infuse his chi gong with the elements. The sage gains the Nature sphere as a bonus talent. Whenever the sage would use his chi gong ability, he may change the damage dealt from piercing damage to a damage type associated with a Nature package he possesses, chosen at the time of using the ability.
 
@@ -125,7 +125,7 @@ For every 4 sage levels the sage possesses, he gains one Nature sphere talent as
 
 Sages with this esoteric training package may choose the following esoteries, in addition to the esoteries generally available to sages with the ki convergent esoteric training package: elemental aura, hinder movement, ki trance, ki wall, maneuver master, restore life, rubber ki, shattering touch, soul stitching.
 
-#### Manipulator [AoP2]
+#### Manipulator
 
 The sage learns to manipulate and control the raw essence of magic around them, combining the essence of magic and ki into one single form of training. Whenever the sage deals damage to an opponent using his chi gong ability, he may force his ki through the opponent’s body, disrupting concentration and slowing the channel of magic.
 
@@ -169,19 +169,19 @@ The sage must be at least 5th level to take this esotery.
 
 The sage gains a ki power from the unchained monk list, treating their sage level as their monk level for all purposes of the gained ability, including determining whether or not the sage qualifies to take it.
 
-#### Ki Weapon [Cata. HB]
+#### Ki Weapon
 
 The sage gains the ability to channel the damage and other effects of chi gong through any melee weapon he is wielding rather than just unarmed or natural attacks. If the sage possesses the ki blaster esoteric training, he may apply the weapon’s enhancement bonus and any of its other special abilities (such as keen, flaming, or seeking) to the ki blast. When applying bonuses to a ki blast, the sage may only transfer special abilities which could be applied to a ranged attack which deals the same type of damage as the ki blast.
 
 **Wiki Note:** You cannot apply chi gong to a chi gong attack through ki weapon.
 
-#### Phantom Strike [Cata. HB]
+#### Phantom Strike
 
 The sage may spend a ki point as swift action to allow all of their attacks to resolve as touch attacks for one round. A sage must be at least 6th level to select this esotery.
 
 ### Chakra Disruptor Esoteries
 
-#### Absorb Magic (Chakra Disruptor or Manipulator) [AoP2]
+#### Absorb Magic (Chakra Disruptor or Manipulator)
 
 Whenever the sage deals damage to an opponent using his chi gong ability, he may spend a ki point as an immediate action to attempt to destroy the bonds of any magic that is benefiting the creature. This otherwise acts as the Counterspell feat, as if attempting to dispel an existing magical effect upon the creature.
 
@@ -189,7 +189,7 @@ If the dispel attempt is successful, the sage may spend an additional ki point t
 
 The sage must be at least 6th level to take this esotery.
 
-#### Disrupt Acumen (Chakra Disruptor or Manipulator) [AoP2]
+#### Disrupt Acumen (Chakra Disruptor or Manipulator)
 
 Whenever the sage deals damage to an opponent using his chi gong ability, the opponent must succeed at a Will save or be unable to identify spells and sphere effects being cast using Spellcraft, even if normally able to automatically (such as when seeing a creature cast a sphere effect with the Magical Signs drawback) for a number of rounds equal to his casting ability modifier (minimum 1). The sage can spend a ki point when activating this ability to also have the creature be unable to benefit from Divination sphere abilities on a failed save for the duration.
 
@@ -241,7 +241,7 @@ The sage gains the ability to manipulate his body and ki into a more powerful fo
 
 If the sage has the infuser esoteric training package, he may spend a ki point as a swift action to grant himself a +1 deflection bonus to his armor class, +1 per 4 class levels he possesses, for 1 minute. As long as this ability is active, the DC for the saving throw to resist the sage’s infuser ability increases by +5 and the sage is treated as being 1 size category larger than he actually is when determining whether or not he can use a combat maneuver against a given creature and what, if any, bonuses it receives to its Reflex saving throw for being larger than the sage.
 
-#### Enhance Armaments (Enhancer) [Cata. HB]
+#### Enhance Armaments (Enhancer)
 
 The sage gains the Enhancement sphere as a bonus sphere and Natural Enhancement as a bonus talent. He may enhance any weapon he is carrying as a swift action.
 
@@ -257,7 +257,7 @@ Whenever the sage uses the ability granted by the enhancer esoteric training pac
 
 Whenever the sage uses the ability granted by the enhancer esoteric training package to grant himself a bonus to one or more of his physical ability scores, he may spend a ki point to gain regeneration 1 for the duration of the effect. At 4th level and every 4 levels thereafter, this regeneration increases by an additional 1. Taking damage from ki effects (such as a ki blast, chi gong touch attack, or any damaging effect that requires the user to expend 1 or more ki points to activate) suppresses this regeneration for 1 round.
 
-#### Ki Trance (Enhancer, Infuser, or Manipulator) [AoP2]
+#### Ki Trance (Enhancer, Infuser, or Manipulator)
 
 Whenever the sage or an ally within reach would attempt a concentration check, he may spend a ki point as an immediate action to instill a temporary trance of utter calm, granting him or the ally a competence bonus to the concentration check equal to the number of chi gong dice he possesses.
 
@@ -299,7 +299,7 @@ The sage converts his ki into a raw energy aura that protects him by damaging hi
 
 The sage may spend a ki point as a standard action to form his ki into a perfect clone of himself that aids him in combat for a number of rounds equal to the sage’s class level. The ki clone may act immediately and shares the sage’s place in the initiative order. When the sage creates a ki clone, it has all of his abilities and statistics, but it is destroyed if it takes any amount of hit point or ability score damage. Anything the ki clone sees, hears, or otherwise learns during its existence is transferred to the sage when the ki clone is dismissed, expires, or is destroyed. The ki clone does not have any ki of its own, but the sage may invest any number of his own ki points into the clone at the time he creates it (this does not count against the normal limit on how many ki points can be spent when activating an esotery); if the ki clone is killed or destroyed, the sage loses this ki until he rests and recovers it, but he regains the ki automatically if the effect expires naturally or if he dismisses the clone (a free action). The ki clone is instantly destroyed if it ever leaves the same plane of existence as the sage but can otherwise move about freely. The sage may spend additional ki points when activating this ability to create multiple clones, but cannot exceed his normal limitations on the total number of ki points he can spend on an esotery effect, and each additional ki clone after the first costs 2 ki points instead of 1.
 
-#### Ki Trance (Enhancer, Infuser, or Manipulator) [AoP2]
+#### Ki Trance (Enhancer, Infuser, or Manipulator)
 
 Whenever the sage or an ally within reach would attempt a concentration check, he may spend a ki point as an immediate action to instill a temporary trance of utter calm, granting him or the ally a competence bonus to the concentration check equal to the number of chi gong dice he possesses.
 
@@ -436,7 +436,7 @@ The sage gains one oracle revelation from the Flame, Metal, Nature, Stone, Waves
 
 ### Manipulator Esoteries
 
-#### Absorb Magic (Chakra Disruptor or Manipulator) [AoP2]
+#### Absorb Magic (Chakra Disruptor or Manipulator)
 
 Whenever the sage deals damage to an opponent using his chi gong ability, he may spend a ki point as an immediate action to attempt to destroy the bonds of any magic that is benefiting the creature. This otherwise acts as the Counterspell feat, as if attempting to dispel an existing magical effect upon the creature.
 
@@ -444,7 +444,7 @@ If the dispel attempt is successful, the sage may spend an additional ki point t
 
 The sage must be at least 6th level to take this esotery.
 
-#### Disrupt Acumen (Chakra Disruptor or Manipulator) [AoP2]
+#### Disrupt Acumen (Chakra Disruptor or Manipulator)
 
 Whenever the sage deals damage to an opponent using his chi gong ability, the opponent must succeed at a Will save or be unable to identify spells and sphere effects being cast using Spellcraft, even if normally able to automatically (such as when seeing a creature cast a sphere effect with the Magical Signs drawback) for a number of rounds equal to his casting ability modifier (minimum 1). The sage can spend a ki point when activating this ability to also have the creature be unable to benefit from Divination sphere abilities on a failed save for the duration.
 
@@ -456,7 +456,7 @@ The sage converts his ki into a raw energy aura that protects him by damaging hi
 
 The sage may spend a ki point as a standard action to form his ki into a perfect clone of himself that aids him in combat for a number of rounds equal to the sage’s class level. The ki clone may act immediately and shares the sage’s place in the initiative order. When the sage creates a ki clone, it has all of his abilities and statistics, but it is destroyed if it takes any amount of hit point or ability score damage. Anything the ki clone sees, hears, or otherwise learns during its existence is transferred to the sage when the ki clone is dismissed, expires, or is destroyed. The ki clone does not have any ki of its own, but the sage may invest any number of his own ki points into the clone at the time he creates it (this does not count against the normal limit on how many ki points can be spent when activating an esotery); if the ki clone is killed or destroyed, the sage loses this ki until he rests and recovers it, but he regains the ki automatically if the effect expires naturally or if he dismisses the clone (a free action). The ki clone is instantly destroyed if it ever leaves the same plane of existence as the sage but can otherwise move about freely. The sage may spend additional ki points when activating this ability to create multiple clones, but cannot exceed his normal limitations on the total number of ki points he can spend on an esotery effect, and each additional ki clone after the first costs 2 ki points instead of 1.
 
-#### Ki Trance (Enhancer, Infuser, or Manipulator) [AoP2]
+#### Ki Trance (Enhancer, Infuser, or Manipulator)
 
 Whenever the sage or an ally within reach would attempt a concentration check, he may spend a ki point as an immediate action to instill a temporary trance of utter calm, granting him or the ally a competence bonus to the concentration check equal to the number of chi gong dice he possesses.
 
@@ -486,7 +486,7 @@ The sage’s specialized training gives him keen insight into a variety of diffe
 
 At 20th level the sage gains a powerful esotery from the following list that acts as his signature technique. The sage cannot select a signature technique unless he possesses the corresponding esoteric training package. Signature techniques follow all other rules for esoteries, including determining saving throw DCs and the number of ki points that can be spent when activating them.
 
-#### Desiccate Essence (Manipulator) [AoP2]
+#### Desiccate Essence (Manipulator)
 
 The sage may make a single melee touch attack using his chi gong ability as a full-round action; if successful, the target of this attack must succeed at a Will saving throw or lose all ki points, martial focus, and spell points that they possess, in addition to suffering 2 permanent negative levels. A target that succeeds at their saving throw instead suffers 1 temporary negative level for 24 hours.
 
@@ -502,7 +502,7 @@ The sage may make a single melee touch attack using his chi gong ability as a fu
 
 The sage gains a +5 inherent bonus to each of his physical ability scores (Constitution, Dexterity, and Strength), gains DR 5/-, and increases his ki pool by 5 points. In addition, the sage no longer takes penalties to his ability scores for aging and cannot be magically aged. Any such penalties that he has already taken are removed. Age bonuses still accrue, and the sage still dies of old age when his time is up, but he doubles the maximum age limit for his species.
 
-#### Primordial Convergence (Ki Convergent) [EO3]
+#### Primordial Convergence (Ki Convergent)
 
 The sage gains the benefits of a single spirit talent of his choice that he possesses permanently, gaining all of its benefits (even if he does not possess the required package) at once. The sage does not need to spend a spell point as part of using the talent, but must pay any additional costs associated with other uses of the talent (such as absorbing damage with the Resist Elements talent).
 
@@ -518,7 +518,7 @@ As a full round action, the sage forms his ki into a wide web that can be hurled
 
 The following magical items are especially appropriate for sages.
 
-#### Law Of Averages [TS:WAT]
+#### Law Of Averages
 
 **Aura** faint Fate; **CL** 4th
 **Slot** none; **Price** 8,000 gp; **Weight** 1 lb.
@@ -528,7 +528,7 @@ This light metal disc bears an icon of a balanced scale. When held by a creature
 **Construction Requirements**
 Craft Apparatus, Fate sphere (Temperance (motif)); **Cost** 4,000 gp
 
-#### Scroll Of Wisdom [TS:WAT]
+#### Scroll Of Wisdom
 
 **Aura** moderate Mana; **CL** 10th
 **Slot** none; **Price** 10,000 gp; **Weight** 3 lbs.
@@ -538,7 +538,7 @@ This heavy scroll is capped by two metal discs on the end. When studied by a cre
 **Construction Requirements**
 Craft Apparatus, Mana sphere, each of the ki powers added to the scroll, creator must have the esotery class feature; **Cost** 5,000 gp
 
-#### Straps Of The Sage [TS:WAT]
+#### Straps Of The Sage
 
 **Aura** faint Mana; **CL** 3rd
 **Slot** hands; **Price** 12,000 gp; **Weight** 2 lbs.
