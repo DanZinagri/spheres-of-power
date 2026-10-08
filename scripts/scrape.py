@@ -73,6 +73,32 @@ EXCLUDED_PAGES = {
     "nature-2", "casting-traditions-2",
     # wiki-made custom content (with the matching section on Weapons: DROP_SECTIONS)
     "wiki-weapons",
+    # third-party material collected on Other Options (its sections go too: DROP_SECTIONS).
+    # Prestige classes not on the home page:
+    "archwizard", "justicar",
+    # Arcforge "Technology Expanded":
+    "mech-enhancement",
+    # kineticist options (Kineticists of Porphyra, Legendary Kineticists) and their archetypes:
+    "legendary-kineticist", "kinetic-mystic", "kineticist-variant-multiclass", "aberrant-kineticist",
+    "artistic-summoner", "awakened", "bestial-kineticist", "cerebral-kineticist", "corpse-puppeteer",
+    "dimensional-ripper", "divine-conduit", "dragon-pact-kineticist", "dread-soul", "elemental-avatar",
+    "elemental-brethren", "elemental-scion-kineticist", "energy-roper", "entropist", "evoker-minstrel",
+    "fusion-kineticist", "hex-kineticist", "kinetic-duelist", "kinetic-lancer", "metakinetic-savant",
+    "nihilicist", "onslaught-blaster", "order-of-the-scion", "planar-custodian", "planestouched-oracle",
+    "soundweaver", "surge-fist-monk", "telekinetic-bladeshifter", "true-psychic", "war-kineticist",
+    "elements", "simple-blasts", "composite-blasts", "elemental-defenses", "infusion-wild-talents",
+    "elemental-mutations", "neurokineticist", "kineticist-feats", "kinetic-spells", "kineticist-magical-items",
+    "utility-wild-talents", "aether-utility-talents", "air-utility-talents", "earth-utility-talents",
+    "fire-utility-talents", "light-utility-talents", "poison-utility-talents", "sound-utility-talents",
+    "time-utility-talents", "universal-utility-talents", "viscera-utility-talents", "void-utility-talents",
+    "water-utility-talents", "wood-utility-talents",
+    # Schools of Dark Magic:
+    "dark-schools",
+    # the Skill Challenge Handbook (not Spheres of Guile's own skill challenge rules):
+    "about-skill-challenges", "skill-challenge-glossary", "skill-challenges", "sample-skill-challenges",
+    "chase-challenges", "contests", "influence-challenges", "verbal-duels",
+    # Legendary Games' mass combat books:
+    "ultimate-battle", "ultimate-war",
     # Lost Spheres Publishing's classes ("Lost Champions")
     "dragoon-class", "mountebank", "necros", "reaper",
     # Legendary Games content (tagged [LG] on the wiki; Arcforge is excluded as a whole above)
@@ -151,7 +177,11 @@ EXTRAS_DROP = {
 
 
 # Sections cut from a page: page slug -> [heading text]
-DROP_SECTIONS = {"weapons": ["Wiki Weapons"]}
+DROP_SECTIONS = {
+    "weapons": ["Wiki Weapons"],
+    "other-options": ["Technology Expanded", "Kineticist Options", "Schools of Dark Magic", "Skill Challenges",
+                      "War and Mass Combat"],
+}
 
 # Text replaced on a page: page slug -> [(regex, replacement)]
 OG_NOTE = "> [!note]\n> This is original Spheres content and was not included in the final Ultimate printing."
@@ -1553,6 +1583,28 @@ def drop_entries(md: str, section: str, names: list[str]) -> str:
     return "\n".join(lines[:start + 1] + keep + lines[end:])
 
 
+def drop_empty_columns(md: str) -> str:
+    """Remove sop-col columns left with nothing but dividers, and fix each grid's --cols count."""
+    md = re.sub(r'<div class="sop-col">\s*(?:---\s*)*</div>\s*', "", md)
+    out, lines = [], md.split("\n")
+    for i, l in enumerate(lines):
+        m = re.match(r'(<div class="sop-columns" style="--cols: )\d+(">)', l.strip())
+        if m:
+            depth, cols = 0, 0
+            for l2 in lines[i:]:
+                s = l2.strip()
+                if s.startswith("<div") and not s.endswith("</div>"):
+                    depth += 1
+                    cols += depth == 2 and s == '<div class="sop-col">'
+                elif s == "</div>":
+                    depth -= 1
+                    if depth == 0:
+                        break
+            l = re.sub(r"--cols: \d+", f"--cols: {max(cols, 1)}", l)
+        out.append(l)
+    return "\n".join(out)
+
+
 def split_tab(md: str, tab_id: str) -> tuple[str, str | None]:
     """Cut the first '<div class="sop-tab" data-tab="<tab_id>">' out of a page; return (rest,
     the tab's markdown without its label). A tab set left with a single tab is unwrapped."""
@@ -2257,6 +2309,8 @@ def normalize_formatting(md: str) -> str:
             text = re.sub(r"[^\[(]+(?=[\[(]|$)", lambda p: _title_case(p.group(0)), text, count=1)
         return f"{hashes} {text}"
     md = re.sub(r"^(#{1,6}) (.+)$", heading, md, flags=re.M)
+    # "-[[Link]]" list items (no space after the dash) render as plain text, not a list
+    md = re.sub(r"^-(\[\[)", r"- \1", md, flags=re.M)
     labels = r"Prerequisites?|Benefits?|Normal|Special|Requirements?"
     # "**Combat Training (Ex)**: text" -> "**Combat Training (Ex):** text" (colon inside the bold)
     md = re.sub(r"^(\s*(?:- )?)\*\*([^*\n]+?)\*\*:", r"\1**\2:**", md, flags=re.M)
@@ -2476,12 +2530,11 @@ def write_compendium_review(sphere: str, cfg: dict, entries: list[dict]) -> None
     dest.write_text("\n".join(out), encoding="utf-8")
 
 
-# Class options that aren't in the home Classes tables' "Class Options" column (the kineticist's,
-# under Other Options). Pages in these folders count too.
-CLASS_OPTION_PAGES = {"Composite Blasts", "Elemental Defenses", "Elemental Mutations", "Elements",
-                      "Infusion Wild Talents", "Simple Blasts", "Neurokineticist (Kineticist Element)",
-                      "Order Of The Scion (Cavalier Order)"}
-CLASS_OPTION_FOLDERS = {"Other Options/Utility Wild Talents"}
+# Class options that aren't in the home Classes tables' "Class Options" column (page names), and
+# folders whose pages all count as class options. (The kineticist options that used to be here
+# were third-party and are excluded now.)
+CLASS_OPTION_PAGES: set[str] = set()
+CLASS_OPTION_FOLDERS: set[str] = set()
 
 
 def tag_search_types() -> dict[str, int]:
@@ -3497,6 +3550,8 @@ def convert(with_images: bool) -> None:
         for heading in DROP_SECTIONS.get(p.slug, []):
             body_md, _ = cut_section(body_md, heading)
             body_md = collapse_dividers(body_md)
+        if p.slug in DROP_SECTIONS:
+            body_md = drop_empty_columns(body_md)
         # the Original tab goes to its own archived page
         body_md, original = split_tab(body_md, ORIGINAL_TAB)
         if original:

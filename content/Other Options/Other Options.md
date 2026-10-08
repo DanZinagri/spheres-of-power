@@ -7,7 +7,7 @@ updated: 2020-09-18
 
 Many publishers have released small supplements for the Pathfinder Roleplaying Game, from new class options to esoteric feats and more. This page serves as a general repository for such options. If there's something you enjoy, you can [[Support The Publishers|Support the Publishers]] by purchasing a copy of the product from websites like DriveThruRPG.com or Paizo.com.
 
-<div class="sop-columns" style="--cols: 4">
+<div class="sop-columns" style="--cols: 1">
 
 <div class="sop-col">
 
@@ -15,122 +15,11 @@ Many publishers have released small supplements for the Pathfinder Roleplaying G
 
 #### Prestige Classes
 
--[[Archwizard (Prestige Class)|Archwizard]]
--[[Spheres Archwizard (Prestige Class)|Spheres Archwizard]]
--[[Justicar (Prestige Class)|Justicar]]
--[[Alternate Justicar (Prestige Class) 3PP|Alternate Justicar]]
+- [[Spheres Archwizard (Prestige Class)|Spheres Archwizard]]
+- [[Alternate Justicar (Prestige Class) 3PP|Alternate Justicar]]
 
 ---
 
-#### Technology Expanded
-
-[[Mech Enhancements]]
-
-</div>
-
-<div class="sop-col">
-
----
-
-#### Kineticist Options
-
-**Sources:** Kineticists of Porphyra I-IV, Legendary Kineticists I-II
-
-**Classes:**
-
--[[Legendary Kineticist]]
--[[Kinetic Mystic (Prestige Class)|Kinetic Mystic]] (Prestige Class)
--[[Kineticist Variant Multiclass]]
-
-**Archetypes:**
-
--[[Aberrant Kineticist (Kineticist Archetype)|Aberrant Kineticist]]
--[[Artistic Summoner (Kineticist Archetype)|Artistic Summoner]]
--[[Awakened (Bloodrager Archetype)|Awakened]] (Bloodrager)
--[[Bestial Kineticist (Animal Companion Archetype)|Bestial Kineticist]] (Ani. Comp.)
--[[Cerebral Kineticist (Kineticist Archetype)|Cerebral Kineticist]]
--[[Corpse Puppeteer (Kineticist Archetype)|Corpse Puppeteer]]
--[[Dimensional Ripper (Kineticist Archetype)|Dimensional Ripper]]
--[[Divine Conduit (Kineticist Archetype)|Divine Conduit]]
--[[Dragon Pact Kineticist (Kineticist Archetype)|Dragon Pact Kineticist]]
--[[Dread Soul (Kineticist Archetype)|Dread Soul]]
--[[Elemental Avatar (Kineticist Archetype)|Elemental Avatar]]
--[[Elemental Brethren (Kineticist Archetype)|Elemental Brethren]]
--[[Elemental Scion (Kineticist Archetype)|Elemental Scion]]
--[[Energy Roper (Kineticist Archetype)|Energy Roper]]
--[[Entropist (Kineticist Archetype)|Entropist]]
--[[Evoker Minstrel (Bard Archetype)|Evoker Minstrel]] (Bard)
--[[Fusion Kineticist (Kineticist Archetype)|Fusion Kineticist]]
--[[Hex Kineticist (Kineticist Archetype)|Hex Kineticist]]
--[[Kinetic Duelist (Kineticist Archetype)|Kinetic Duelist]]
--[[Kinetic Lancer (Kineticist Archetype)|Kinetic Lancer]]
--[[Metakinetic Savant (Kineticist Archetype)|Metakinetic Savant]]
--[[Nihilicist (Kineticist Archetype)|Nihilicist]]
--[[Onslaught Blaster (Kineticist Archetype)|Onslaught Blaster]]
--[[Order Of The Scion (Cavalier Order)|Order of the Scion]] (Cavalier)
--[[Planar Custodian (Druid Archetype)|Planar Custodian]] (Druid)
--[[Planestouched Oracle (Oracle Archetype)|Planestouched Oracle]] (Oracle)
--[[Soundweaver (Kineticist Archetype)|Soundweaver]]
--[[Surge Fist Monk (Unchained Monk Archetype)|Surge Fist Monk]] (U. Monk)
--[[Telekinetic Bladeshifter (Kineticist Archetype)|Telekinetic Bladeshifter]]
--[[True Psychic (Kineticist Archetype)|True Psychic]]
--[[War Kineticist (Kineticist Archetype)|War Kineticist]]
-
-**Class Options:**
-
--[[Elements]]
--[[Simple Blasts]]
--[[Composite Blasts]]
--[[Elemental Defenses]]
--[[Infusion Wild Talents]]
--[[Utility Wild Talents]]
--[[Elemental Mutations]]
--[[Neurokineticist (Kineticist Element)|Neurokineticist]]
-
--[[Kineticist Feats]]
--[[Kinetic Spells]]
-
-**Other:**
-
--[[Kineticist Magical Items]]
-
----
-
-</div>
-
-<div class="sop-col">
-
----
-
-#### Schools of Dark Magic
-
--[[Dark Schools]]
-
-</div>
-
-<div class="sop-col">
-
----
-
-#### Skill Challenges
-
-[[About Skill Challenges]]
-[[Skill Challenge Glossary]]
-
-[[Skill Challenges]]
-[[Sample Skill Challenges]]
-
-[[Chase Challenges]]
-[[Contests]]
-[[Influence Challenges]]
-[[Verbal Duels]]
-
----
-
-#### War and Mass Combat
-
-[[Ultimate Battle]]
-[[Ultimate War]]
 
 </div>
 

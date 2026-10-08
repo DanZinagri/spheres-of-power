@@ -15,73 +15,73 @@ Spheres of Might is a unique martial system created by Drop Dead Studios for use
 
 **Combat Spheres**
 
--[[Alchemy]]
--[[Athletics]]
--[[Barrage]]
--[[Barroom]]
--[[Beastmastery]]
--[[Berserker]]
--[[Boxing]]
--[[Brute]]
--[[Dual Wielding]]
--[[Duelist]]
--[[Equipment Sphere|Equipment]]
--[[Fencing]]
--[[Gladiator]]
--[[Guardian]]
--[[Lancer]]
--[[Open Hand]]
--[[Scoundrel]]
--[[Scout]]
--[[Shield]]
--[[Sniper]]
--[[Trap]]
--[[Warleader (warleader-sphere)|Warleader]]
--[[Wrestling]]
+- [[Alchemy]]
+- [[Athletics]]
+- [[Barrage]]
+- [[Barroom]]
+- [[Beastmastery]]
+- [[Berserker]]
+- [[Boxing]]
+- [[Brute]]
+- [[Dual Wielding]]
+- [[Duelist]]
+- [[Equipment Sphere|Equipment]]
+- [[Fencing]]
+- [[Gladiator]]
+- [[Guardian]]
+- [[Lancer]]
+- [[Open Hand]]
+- [[Scoundrel]]
+- [[Scout]]
+- [[Shield]]
+- [[Sniper]]
+- [[Trap]]
+- [[Warleader (warleader-sphere)|Warleader]]
+- [[Wrestling]]
 
--[[Leadership]]
--[[Tech]]
--[[Tinker]]
+- [[Leadership]]
+- [[Tech]]
+- [[Tinker]]
 
 ---
 
 **Character Options**
 
--[[Associated Feats & Skills]]
--[[Martial Traditions]]
--[[Martial Packages]]
--[[Practitioner Feats]]
--[[Practitioner Traits]]
--[[Practitioner FCB's]]
+- [[Associated Feats & Skills]]
+- [[Martial Traditions]]
+- [[Martial Packages]]
+- [[Practitioner Feats]]
+- [[Practitioner Traits]]
+- [[Practitioner FCB's]]
 
 ---
 
 **Gear**
 
--[[Adventuring Gear]]
--[[Mechanical Parts]]
--[[Technological Gear]]
--[[Practitioner Weapons]]
--[[Practitioner Magic Items]]
+- [[Adventuring Gear]]
+- [[Mechanical Parts]]
+- [[Technological Gear]]
+- [[Practitioner Weapons]]
+- [[Practitioner Magic Items]]
 
 ---
 
 **Other**
 
--[[Practitioner Bestiary]]
--[[Starfinder Conversion]]
+- [[Practitioner Bestiary]]
+- [[Starfinder Conversion]]
 
 ---
 
 **Sample Characters**
 
--[[The Culinary Specialist]] (Iron Chef Blacksmith)
--[[The Master Thief]] (Flexible Technician)
--[[The Sniper]] (Ranged Conscript)
--[[The Unbreakable]] (Defensive Sentinel)
--[[The Veterinarian]] (Pet-focused Scholar)
--[[The Waterlord]] (Pirate Commander)
--[[The Walking Hill]] (Strong Man Striker)
+- [[The Culinary Specialist]] (Iron Chef Blacksmith)
+- [[The Master Thief]] (Flexible Technician)
+- [[The Sniper]] (Ranged Conscript)
+- [[The Unbreakable]] (Defensive Sentinel)
+- [[The Veterinarian]] (Pet-focused Scholar)
+- [[The Waterlord]] (Pirate Commander)
+- [[The Walking Hill]] (Strong Man Striker)
 
 </div>
 
@@ -89,15 +89,15 @@ Spheres of Might is a unique martial system created by Drop Dead Studios for use
 
 **Practitioners**
 
--[[Armiger]]
--[[Blacksmith]]
--[[Commander]]
--[[Conscript]]
--[[Savant (Class Version)|Savant]]
--[[Scholar]]
--[[Sentinel]]
--[[Striker]]
--[[Technician]]
+- [[Armiger]]
+- [[Blacksmith]]
+- [[Commander]]
+- [[Conscript]]
+- [[Savant (Class Version)|Savant]]
+- [[Scholar]]
+- [[Sentinel]]
+- [[Striker]]
+- [[Technician]]
 
 **Archetypes**
 

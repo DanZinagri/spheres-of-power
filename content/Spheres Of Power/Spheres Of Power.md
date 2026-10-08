@@ -16,91 +16,91 @@ Spheres of Power is a unique magic system created by Drop Dead Studios for use w
 
 **The Spheres**
 
--[[Alteration]]
--[[Blood]]
--[[Conjuration]]
--[[Creation]]
--[[Dark]]
--[[Death]]
--[[Destruction]]
--[[Divination]]
--[[Enhancement]]
--[[Fallen Fey]]
--[[Fate]]
--[[Illusion]]
--[[Life]]
--[[Light]]
--[[Mana]]
--[[Mind]]
--[[Nature]]
--[[Protection]]
--[[Telekinesis]]
--[[Time]]
--[[War]]
--[[Warp]]
--[[Weather]]
+- [[Alteration]]
+- [[Blood]]
+- [[Conjuration]]
+- [[Creation]]
+- [[Dark]]
+- [[Death]]
+- [[Destruction]]
+- [[Divination]]
+- [[Enhancement]]
+- [[Fallen Fey]]
+- [[Fate]]
+- [[Illusion]]
+- [[Life]]
+- [[Light]]
+- [[Mana]]
+- [[Mind]]
+- [[Nature]]
+- [[Protection]]
+- [[Telekinesis]]
+- [[Time]]
+- [[War]]
+- [[Warp]]
+- [[Weather]]
 
--[[Bear]]
+- [[Bear]]
 
 ---
 
 **Advanced Magic**
 
--[[About Advanced Magic]]
--[[Advanced Talents]]
--[[Incantations]]
--[[Mythic Spheres]]
--[[Rituals]]
--[[Spellcrafting]]
--[[Wild Magic]]
+- [[About Advanced Magic]]
+- [[Advanced Talents]]
+- [[Incantations]]
+- [[Mythic Spheres]]
+- [[Rituals]]
+- [[Spellcrafting]]
+- [[Wild Magic]]
 
 ---
 
 **Other**
 
--[[Alternate Racial Traits]]
--[[Casting Traditions]]
--[[Feats]]
--[[Traits]]
+- [[Alternate Racial Traits]]
+- [[Casting Traditions]]
+- [[Feats]]
+- [[Traits]]
 
 **Feat Types**
 
--[[Admixture Feats|Admixture]]
--[[Anathema Feats|Anathema]]
--[[Aristeia Feats|Aristeia]]
--[[Chance Feats|Chance]]
--[[Channeling Feats|Channeling]]
--[[Combat Feats|Combat]]
--[[Companion Feats|Companion]]
--[[Counterspell Feats|Counterspell]]
--[[Damnation Feats|Damnation]]
--[[DrawbackDefiler Feats|Drawback]]
--[[Extra Feats|Extra]]
--[[General Feats|General]]
--[[Item Creation Feats|Item Creation]]
--[[Metamagic Feats|Metamagic]]
--[[Necrosis Feats|Necrosis]]
--[[Plague Feats|Plague]]
--[[Protokinesis Feats|Protokinesis]]
--[[Proxy Feats|Proxy]]
--[[Purring Feats|Purring]]
--[[Racial Feats|Racial]]
--[[Ritual Feats|Ritual]]
--[[Squadron Feats|Squadron]]
--[[Surreal Feats|Surreal]]
--[[Teamwork Feats|Teamwork]]
--[[Theurge Feats|Theurge]]
--[[Wild Magic Feats|Wild Magic]]
+- [[Admixture Feats|Admixture]]
+- [[Anathema Feats|Anathema]]
+- [[Aristeia Feats|Aristeia]]
+- [[Chance Feats|Chance]]
+- [[Channeling Feats|Channeling]]
+- [[Combat Feats|Combat]]
+- [[Companion Feats|Companion]]
+- [[Counterspell Feats|Counterspell]]
+- [[Damnation Feats|Damnation]]
+- [[DrawbackDefiler Feats|Drawback]]
+- [[Extra Feats|Extra]]
+- [[General Feats|General]]
+- [[Item Creation Feats|Item Creation]]
+- [[Metamagic Feats|Metamagic]]
+- [[Necrosis Feats|Necrosis]]
+- [[Plague Feats|Plague]]
+- [[Protokinesis Feats|Protokinesis]]
+- [[Proxy Feats|Proxy]]
+- [[Purring Feats|Purring]]
+- [[Racial Feats|Racial]]
+- [[Ritual Feats|Ritual]]
+- [[Squadron Feats|Squadron]]
+- [[Surreal Feats|Surreal]]
+- [[Teamwork Feats|Teamwork]]
+- [[Theurge Feats|Theurge]]
+- [[Wild Magic Feats|Wild Magic]]
 
 ---
 
 **Gear**
 
--[[Weapons]]
--[[Armor]]
--[[Equipment]]
--[[Special Materials]]
--[[Magical Items]]
+- [[Weapons]]
+- [[Armor]]
+- [[Equipment]]
+- [[Special Materials]]
+- [[Magical Items]]
 
 - [[Alchemical Items]]
 - [[Apparatuses Rods (ConstantAt-Will Items)|Apparatuses]]
@@ -120,23 +120,23 @@ Spheres of Power is a unique magic system created by Drop Dead Studios for use w
 
 **Creatures**
 
--[[Sphere Bestiary]]
--[[Sphere Templates]]
+- [[Sphere Bestiary]]
+- [[Sphere Templates]]
 
 ---
 
 **Sample Characters**
 
--[[The Bear Caller]] (***Angry bear noises.***)
--[[The Blaster]] (Well-Balanced Elementalist)
--[[The Classic Mage]] (Generalist Incanter)
--[[The Green Witch]] (Nature-focused Hedgewitch)
--[[The Ice Knight]] (Elemental-focused Mageknight)
--[[The Master of Illusions]] (Illusion-focused Fey Adept)
--[[The Master Of Many Forms|The Master of Many Forms]] (Alteration-focused Shifter)
--[[The Mind Mage]] (Mind-focused Eliciter)
--[[The Mountain]] (Enhancement-focused Armorist)
--[[The Shy Librarian]] (Bookworm Thaumaturge)
+- [[The Bear Caller]] (***Angry bear noises.***)
+- [[The Blaster]] (Well-Balanced Elementalist)
+- [[The Classic Mage]] (Generalist Incanter)
+- [[The Green Witch]] (Nature-focused Hedgewitch)
+- [[The Ice Knight]] (Elemental-focused Mageknight)
+- [[The Master of Illusions]] (Illusion-focused Fey Adept)
+- [[The Master Of Many Forms|The Master of Many Forms]] (Alteration-focused Shifter)
+- [[The Mind Mage]] (Mind-focused Eliciter)
+- [[The Mountain]] (Enhancement-focused Armorist)
+- [[The Shy Librarian]] (Bookworm Thaumaturge)
 
 </div>
 
@@ -144,46 +144,46 @@ Spheres of Power is a unique magic system created by Drop Dead Studios for use w
 
 **Classes**
 
--[[Armorist]]
--[[Elementalist]]
--[[Eliciter]]
--[[Fey Adept]]
--[[Hedgewitch]]
--[[Incanter]]
--[[Mageknight]]
--[[Shifter]]
--[[Soul Weaver]]
--[[Symbiat]]
--[[Thaumaturge]]
--[[Wraith]]
+- [[Armorist]]
+- [[Elementalist]]
+- [[Eliciter]]
+- [[Fey Adept]]
+- [[Hedgewitch]]
+- [[Incanter]]
+- [[Mageknight]]
+- [[Shifter]]
+- [[Soul Weaver]]
+- [[Symbiat]]
+- [[Thaumaturge]]
+- [[Wraith]]
 
 ---
 
 **Sphere Archetypes**
 
--[[Sphere Alchemist]]
--[[Sphere Antipaladin]]
--[[Sphere Arcanist]]
--[[Sphere Bard]] [Core]
--[[Sphere Bloodrager]]
--[[Sphere Cleric]] [Core]
--[[Sphere Druid]] [Core]
--[[Sphere Hunter]]
--[[Sphere Inquisitor]]
--[[Sphere Investigator]]
--[[Sphere Magus]]
--[[Sphere Medium]]
--[[Sphere Mesmerist]]
--[[Sphere Oracle]]
--[[Sphere Paladin]] [Core]
--[[Sphere Ranger]] [Core]
--[[Sphere Shaman]]
--[[Sphere Skald]]
--[[Sphere Sorcerer]] [Core]
--[[Sphere Summoner (SummonerUnchained Summoner Archetype)|Sphere Summoner]]
--[[Sphere Warpriest]]
--[[Sphere Witch]]
--[[Sphere Wizard]] [Core]
+- [[Sphere Alchemist]]
+- [[Sphere Antipaladin]]
+- [[Sphere Arcanist]]
+- [[Sphere Bard]] [Core]
+- [[Sphere Bloodrager]]
+- [[Sphere Cleric]] [Core]
+- [[Sphere Druid]] [Core]
+- [[Sphere Hunter]]
+- [[Sphere Inquisitor]]
+- [[Sphere Investigator]]
+- [[Sphere Magus]]
+- [[Sphere Medium]]
+- [[Sphere Mesmerist]]
+- [[Sphere Oracle]]
+- [[Sphere Paladin]] [Core]
+- [[Sphere Ranger]] [Core]
+- [[Sphere Shaman]]
+- [[Sphere Skald]]
+- [[Sphere Sorcerer]] [Core]
+- [[Sphere Summoner (SummonerUnchained Summoner Archetype)|Sphere Summoner]]
+- [[Sphere Warpriest]]
+- [[Sphere Witch]]
+- [[Sphere Wizard]] [Core]
 
 ---
 
@@ -226,12 +226,12 @@ Spheres of Power is a unique magic system created by Drop Dead Studios for use w
 
 **Prestige Classes**
 
--[[Bokor]] [Core]
--[[Forest Lord]]
--[[Realmwalker]]
--[[Tempestarii]]
--[[Waking Sleeper]]
--[[Spheres Archwizard (Prestige Class)|Spheres Archwizard]] [Wiki]
+- [[Bokor]] [Core]
+- [[Forest Lord]]
+- [[Realmwalker]]
+- [[Tempestarii]]
+- [[Waking Sleeper]]
+- [[Spheres Archwizard (Prestige Class)|Spheres Archwizard]] [Wiki]
 
 </div>
 
