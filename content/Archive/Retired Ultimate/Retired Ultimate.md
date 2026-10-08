@@ -44,7 +44,7 @@ parent: "[[Archive]]"
 
 **Martial Options**
 
-- [[Martial Packages (Ultimate)|Martial Packages]]
+*Nothing retired yet.*
 
 **Skill Options**
 

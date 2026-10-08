@@ -160,7 +160,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 [[Alternate Racial Traits]]
 [[Alternate Racial Traits (DRS)|Alternate Racial Traits]]
 [[Casting Traditions]]
-[[Casting Packages]]
 [[Generation Traditions]]
 [[Origins]]
 [[Traits]]
@@ -173,7 +172,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 **Martial Options**
 
 [[Martial Traditions]]
-[[Martial Packages]]
 [[Practitioner Traits]]
 [[Practitioner FCB's]]
 
@@ -252,7 +250,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 - [[Scrolls]]
 - [[Spell Engines Wands|Spell Engines]]
 - [[Spellzones]]
-- [[Summoning Orbs]]
 - [[Talent Crystals]]
 
 [[Loot Tables]]
@@ -283,11 +280,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 [[Strain (formerly Madness)|Strain]] (formerly Madness)
 [[Variant Rules]]
 [[Wilderness]]
-
-**Tools**
-
-[[Character Builder]]
-[[Item Crafter]]
 
 ---
 
@@ -429,7 +421,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 **Prestige Classes**
 
 - [[Aeronaut Captain]]
-- [[Spheres Archwizard (Prestige Class)|Archwizard]]
 - [[Bokor]]
 - [[Cyborg]]
 - [[Forest Lord]]
@@ -448,13 +439,7 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 In addition to the rulesets listed above, this site offers a number of other resources to help you run games.
 
-
-
-
-
-
-
-
+- [[Tools]] - Resources to help with character or campaign crafting, like the Character Builder and Item Crafter.
 
 - [[Archive]] - Retired spheres content
 
@@ -465,6 +450,5 @@ In addition to the rulesets listed above, this site offers a number of other res
 - [[Running Cataclysmic Games]] - This guide covers tips and concepts for running apocalyptic games with material from The Cataclysm Handbook.
 
 - [[Running Guile Games]] - This section has rules for running games that focus on Spheres of Guile and general intrigue.
-
 
 - [[Talented Monster Creation]] - These rules offer a streamlined approach to creating creatures.

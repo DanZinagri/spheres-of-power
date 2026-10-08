@@ -20,12 +20,11 @@ See the following pages for specific examples of items:
 - [[Alchemical Items|Old Alchemical Items]]
 - [[Apparatuses Rods (ConstantAt-Will Items)|Old Apparatuses]]
 - [[Charms Rings (Constant Bonus Items)|Old Charms]]
-- [[Old Compounds]]
+- [[Compounds Potions (Consumable Items)|Old Compounds]]
 - [[Implements Staves (Caster LevelTalent Access)|Old Implements]]
 - [[Marvelous Items Wondrous Items|Old Marvelous Items]]
 - [[Scrolls|Old Scrolls]]
 - [[Spell Engines Wands|Old Spell Engines]]
-- [[Summoning Orbs|Old Summoning Orbs]]
 
 # Using Magic Items
 

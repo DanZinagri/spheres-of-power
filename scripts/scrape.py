@@ -74,8 +74,10 @@ EXCLUDED_PAGES = {
     "how-to-edit-pages", "what-is-a-wiki-site", "modules-reference", "bb-code-profile-template",
     # unlinked, untitled older duplicates of the Nature sphere / Casting Traditions pages
     "nature-2", "casting-traditions-2",
-    # wiki-made custom content (with the matching section on Weapons: DROP_SECTIONS)
-    "wiki-weapons",
+    # wiki-made custom content (with the matching sections on Weapons, Rods and Wondrous Items:
+    # DROP_SECTIONS)
+    "wiki-weapons", "casting-packages", "martial-packages", "spheres-archwizard", "old-compounds",
+    "summoning-orbs",
     # third-party material collected on Other Options (its sections go too: DROP_SECTIONS).
     # Prestige classes not on the home page:
     "archwizard", "justicar",
@@ -162,11 +164,6 @@ PAGE_NOTES = {
          "\n**See Also:** [[Item Crafter]], a tool for pricing and planning custom items with these rules"),
         (r"^# Talent-Based Item Creation[ \t]*$", CRAFTER_TIP),
     ],
-    # home page: a Tools list right after the Other Options list in the navigation grid
-    "start": [
-        (r"^\*\*Other Options\*\*\n\n(?:[^\n]+\n)+",
-         "\n**Tools**\n\n[[Character Builder]]\n[[Item Crafter]]\n"),
-    ],
     # hand-entered Diamond Spheres: Magical Organizations content (see extras/)
     "diamond-recreational-studios": [
         (r"^\[\[Alternate Racial Traits \(DRS\)\]\][ \t]*$",
@@ -202,6 +199,10 @@ EXTRAS_DROP = {
 # Sections cut from a page: page slug -> [heading text]
 DROP_SECTIONS = {
     "weapons": ["Wiki Weapons"],
+    # wiki-made items (headings as the wiki has them, before strip_citation_tags)
+    "rods": ["Voice Shifter [Wiki]"], "apparatuses": ["Voice Shifter [Wiki]"],
+    "wondrous-items": ["Lucy's Pyre (Minor Artifact) [Wiki]"],
+    "marvelous-items": ["Lucy's Pyre (Minor Artifact) [Wiki]"],
     "other-options": ["Technology Expanded", "Kineticist Options", "Schools of Dark Magic", "Skill Challenges",
                       "War and Mass Combat"],
 }
@@ -230,6 +231,9 @@ TINKER_FIXES = [
      "upgrade. [DRS]"),
 ]
 PAGE_REPLACE = {
+    # the item-type list's entry for the excluded (wiki-made) Summoning Orbs page
+    "wondrous-items": [(r"^- Summoning Orbs \(Bonus page[^\n]*\n", "")],
+    "marvelous-items": [(r"^- Summoning Orbs \(Bonus page[^\n]*\n", "")],
     # Diamond Spheres: Expanded Tinker and Silverminds errata and tags the wiki hadn't applied
     "tinker-talents": TINKER_FIXES,
     "tinker": TINKER_FIXES,
@@ -1284,21 +1288,25 @@ def tidy_home(md: str) -> str:
         while start > 0 and lines[start - 1].strip() in ("", "---"):
             start -= 1
         lines[start:end] = []
-    # the Archive heads the Other Resources list
+    # the Tools page (hand-written content/Tools.md: Character Builder, Item Crafter) and the Archive
+    # head the Other Resources list
     res = next((i for i, l in enumerate(lines) if l.strip() == "# Other Resources"), None)
     if res is not None:
         first = next((i for i in range(res + 1, len(lines)) if lines[i].startswith("- ")), None)
         if first is not None:
-            lines[first:first] = [f"- [[{ARCHIVE}]] - Retired spheres content", "",
+            lines[first:first] = ["- [[Tools]] - Resources to help with character or campaign crafting, "
+                                  "like the Character Builder and Item Crafter.", "",
+                                  f"- [[{ARCHIVE}]] - Retired spheres content", "",
                                   "- [[Using Polished Spheres]] - The rules shared by Diamond Recreational "
                                   "Studios' Polished Spheres releases (Polished Dark, Leadership, Commander and "
                                   "Warleader).", ""]
     md = "\n".join(lines)
     # the citation tags are stripped site-wide (strip_citation_tags), so the note explaining them goes
     md = re.sub(r"\n\*\*Citations Guide:\*\*[^\n]*\n\n?", "\n", md, count=1)
-    # Studio M— content is excluded (EXCLUDED_TAGS), so its tag no longer appears
-    md = md.replace("such as Diamond Recreational Studios [DRS] and Studio M— [SM—] have their own tags",
-                    "such as Diamond Recreational Studios [DRS] have their own tag")
+    # links removed from Other Resources leave runs of blank lines behind
+    at = md.find("# Other Resources")
+    if at >= 0:
+        md = md[:at] + re.sub(r"\n{3,}", "\n\n", md[at:])
     return md
 
 

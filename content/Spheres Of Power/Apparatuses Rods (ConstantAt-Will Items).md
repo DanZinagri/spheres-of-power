@@ -657,17 +657,6 @@ The tower can only strike one target per round in this manner, and will always s
 **Construction Requirements**
 Craft Apparatus, Destruction sphere, Protection sphere; **Cost** 127,500 gp
 
-### Voice Shifter
-
-**Aura** moderate Illusion; **CL** 6th
-**Slot** neck; **Price** 4,000 gp; **Weight** 2 lbs.
-
-**Description**
-This dull metal choker presses firmly against the user's neck, though not tightly enough to choke. As a standard action, the user can use this item to adjust the rate, volume, pitch, articulation, and pronounciation of their voice. This change is not accurate enough to mimic a specific creature, but it can resemble any gender or species, including accents in any language the user can speak in. It cannot create sounds louder than the user is normally capable of.
-
-**Construction Requirements**
-Craft Apparatus, Illusion sphere (Illusionary Sound (sensory, sound)); **Cost** 2,000 gp
-
 ### Warg Pelt
 
 **Aura** moderate Alteration; **CL** 6th

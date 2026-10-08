@@ -12,7 +12,7 @@ export const sharedPageComponents: SharedLayout = {
       "Character Builder": `https://${BASE_URL}/Character-Builder`,
       "Item Crafter": `https://${BASE_URL}/Item-Crafter`,
       "Open Game License": `https://${BASE_URL}/Meta/Legal-and-Open-Game-License`,
-      "Original wiki": "https://spheresofpower.wikidot.com",
+      "Diamond Recreational Studios": "https://legacy.drivethrurpg.com/browse/pub/19182/Diamond-Recreational-Studios",
       "Drop Dead Studios": "https://www.dropdeadstudios.com",
     },
   }),

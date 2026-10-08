@@ -26,7 +26,6 @@ Instead, see the following pages for specific examples of items that aren't Wond
 - [[Implements Staves (Caster LevelTalent Access)|Implements]] (Caster Level Bonus items, and sometimes additional talents)
 - [[Scrolls]] (Partially-Completed Spells)
 - [[Spell Engines Wands|Spell Engines]] (Self-contained items that provide talents)
-- [[Summoning Orbs]] (Bonus page for a Companion-summoning type of item)
 - [[Talent Crystals]] (Artifacts that can permanently teach talents at set power levels)
 
 ---
@@ -1737,17 +1736,6 @@ A fey court’s blessing allows the fey court which granted the blessing to view
 
 **Destruction**
 A fey court’s blessing immediately crumbles to dust should the fey court that granted the blessing revoke their approval of the blessed creature, or upon the fey court disappearing (such as by dissolving or all members of the fey court being slain).
-
-### Lucy's Pyre (Minor Artifact)
-
-**Aura** moderate Conjuration; **CL** 6th
-**Slot** none; **Weight** 6 tons
-
-**Description**
-Sometimes called "the altar of the weak man", this stone altar is etched with inscriptions in no language known to mortals. A creature with 5 or fewer hit dice can sacrifice one meal's worth of common food in their area (such as some poultry, potatoes, and beer) on the altar to summon an imp that will faithfully perform one minor and non-dangerous task for them before returning to its infernal home. A creature cannot summon an imp with this altar more than once per week.
-
-**Destruction**
-Lucy's Pyre can be destroyed by melting gold onto it worth more than the value of all the meals ever sacrificed on it.
 
 ### Ring of Multiple Personalities (Minor Artifact)
 

@@ -113,7 +113,6 @@ Spheres of Power is a unique magic system created by Drop Dead Studios for use w
 - [[Radiances]]
 - [[Scrolls]]
 - [[Spell Engines Wands|Spell Engines]]
-- [[Summoning Orbs]]
 - [[Talent Crystals]]
 
 ---
@@ -231,7 +230,6 @@ Spheres of Power is a unique magic system created by Drop Dead Studios for use w
 - [[Realmwalker]]
 - [[Tempestarii]]
 - [[Waking Sleeper]]
-- [[Spheres Archwizard (Prestige Class)|Spheres Archwizard]]
 
 </div>
 

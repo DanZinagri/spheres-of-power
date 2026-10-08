@@ -26,7 +26,7 @@ Instead, see the following pages for specific examples of items that aren't Wond
 - [[Implements Staves (Caster LevelTalent Access)|Implements]] (Caster Level Bonus items, and sometimes additional talents)
 - [[Scrolls]] (Partially-Completed Spells)
 - [[Spell Engines Wands|Spell Engines]] (Self-contained items that provide talents)
-- [[Summoning Orbs]] (Bonus page for a Companion-summoning type of item)
+- Summoning Orbs (Bonus page for a Companion-summoning type of item)
 
 ---
 

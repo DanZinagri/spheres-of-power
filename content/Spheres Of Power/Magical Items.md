@@ -27,7 +27,6 @@ See the following pages for specific examples of items. In addition, many class 
 - [[Scrolls]]
 - [[Spell Engines Wands|Spell Engines]]
 - [[Spellzones]]
-- [[Summoning Orbs]]
 - [[Talent Crystals]]
 
 **See Also:** [[Loot Tables]], for randomized treasure generation
