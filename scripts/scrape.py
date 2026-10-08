@@ -101,6 +101,9 @@ EXCLUDED_PAGES = {
     "ultimate-battle", "ultimate-war",
     # ...and the Other Options page itself (its last prestige class moved: FOLDER_OVERRIDES)
     "other-options",
+    # the home page's House Rules section: the wiki's own house rules (Deific Talents and its
+    # subpages, Recharge Sphere Magic, Virtues) and its newsletters / change log
+    "divine-talents", "recharge-sphere-magic", "virtues", "newsletters", "recent-changes",
     # Lost Spheres Publishing's classes ("Lost Champions")
     "dragoon-class", "mountebank", "necros", "reaper",
     # Legendary Games content (tagged [LG] on the wiki; Arcforge is excluded as a whole above)
@@ -1238,6 +1241,14 @@ def tidy_home(md: str) -> str:
         lines = lines[:start] + [""] + lines[resources:intro_end] + [e for x in entries for e in (x, "")] \
             + lines[intro_end:]
     lines = [l for l in lines if not l.startswith("- - ")]
+    # the House Rules section's pages are excluded (EXCLUDED_PAGES); drop its heading and intro too
+    hr = next((i for i, l in enumerate(lines) if l.strip() == "# House Rules"), None)
+    if hr is not None:
+        end = next((i for i in range(hr + 1, len(lines)) if re.match(r"# ", lines[i])), len(lines))
+        start = hr
+        while start > 0 and lines[start - 1].strip() in ("", "---"):
+            start -= 1
+        lines[start:end] = []
     # the Archive heads the Other Resources list
     res = next((i for i, l in enumerate(lines) if l.strip() == "# Other Resources"), None)
     if res is not None:

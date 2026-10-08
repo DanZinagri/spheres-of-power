@@ -40,9 +40,7 @@ Tags | Edit | Source | Print
 
 **Optional Rules**
 
-[[Deific Talents]]
 [[Spheres Gestalt Rules|Gestalt Rules]]
-[[Recharge Sphere Magic (Beta)|Recharge Sphere Magic]]
 
 **Magic Spheres**
 
