@@ -148,7 +148,7 @@ def text_of(el) -> str:
     return re.sub(r"\s+", " ", el.get_text(" ", strip=True)) if el else ""
 
 
-def extract(cat: str, href: str, html: str) -> dict | None:
+def extract(cat: str, href: str, html: str) -> dict | list[dict] | None:
     """One entry: name, AoN url, source, labelled fields and the rules text (markdown)."""
     soup = BeautifulSoup(html, "html.parser")
     main = soup.find(id="main") or soup.body
@@ -173,6 +173,34 @@ def extract(cat: str, href: str, html: str) -> dict | None:
     if cat == "monsters":  # lore and setting text (mostly Product Identity) stays on AoN
         lore_cut = next((h for h in box.find_all(["h3", "h2"]) if text_of(h).lower() in ("ecology", "description")), None)
     name = text_of(title)
+    html_box = str(box)
+    if lore_cut is not None:  # everything from the Ecology heading on (loose text included) goes
+        html_box = html_box[:html_box.find(str(lore_cut))] if str(lore_cut) in html_box else html_box
+    # a feat page also prints the feat's mythic version ("Mythic Power Attack") under its own
+    # heading: that becomes an entry of its own. (Combat Trick sections stay with the feat.)
+    mythic: list[tuple[str, str]] = []
+    if cat == "feats":
+        heads = [h for h in box.find_all(["h1", "h2"]) if h is not title and text_of(h).startswith("Mythic ")]
+        cuts = sorted(html_box.find(str(h)) for h in heads if str(h) in html_box)
+        if cuts:
+            later = [html_box.find(str(h)) for h in box.find_all(["h1", "h2"]) if h is not title]
+            rest, base = "", html_box[:cuts[0]]
+            for n, at in enumerate(cuts):
+                end = min([x for x in later if x > at] + [len(html_box)])
+                nxt = cuts[n + 1] if n + 1 < len(cuts) else len(html_box)
+                mythic.append((text_of(heads[n]), html_box[at:end]))
+                rest += html_box[end:nxt]  # a non-mythic section after a mythic one goes back to the feat
+            html_box = base + rest
+    out = _entry(name, cat, href, html_box, monsters=lore_cut is not None)
+    if not mythic:
+        return out
+    return [out] + [_entry(n, cat, href, h) | {"mythicOf": name} for n, h in mythic]
+
+
+def _entry(name: str, cat: str, href: str, html: str, monsters: bool = False) -> dict:
+    """An entry from its HTML: the source, the labelled fields ("**Prerequisites**: ...") and the
+    rules text as markdown."""
+    box = BeautifulSoup(html, "html.parser")
     src = box.find("b", string=re.compile(r"^\s*Source\s*$"))
     source = text_of(src.find_next("a")) if src else ""
     fields: dict[str, str] = {}
@@ -188,12 +216,12 @@ def extract(cat: str, href: str, html: str) -> dict | None:
         v = re.sub(r"\s+", " ", "".join(val)).strip(" :;")
         if v:
             fields[label] = v
-    html_box = str(box)
-    if lore_cut is not None:  # everything from the Ecology heading on (loose text included) goes
-        html_box = html_box[:html_box.find(str(lore_cut))] if str(lore_cut) in html_box else html_box
+    if monsters:
         fields = {k: v for k, v in fields.items() if k not in ("Environment", "Organization", "Treasure")}
-    md = markdownify(html_box, heading_style="ATX", bullets="-", strip=["a"])
+    md = markdownify(html, heading_style="ATX", bullets="-", strip=["a"])
     md = re.sub(r"\n{3,}", "\n\n", md).strip()
+    if not md.startswith("# "):  # a split-out mythic feat: its heading becomes the entry's title
+        md = re.sub(r"^#+ ", "# ", md, count=1)
     return {"name": name, "category": cat, "url": page_url(href), "source": source, "fields": fields, "md": md}
 
 
@@ -210,8 +238,8 @@ def crawl(cats: list[str], build_only: bool = False) -> None:
             if build_only and not cached:
                 continue
             e = extract(cat, href, fetch(href))
-            if e:
-                entries.append(e)
+            if e:  # a feat page can give two (the feat and its mythic version)
+                entries += e if isinstance(e, list) else [e]
             if n % 200 == 0:
                 print(f"  {cat}: {n}/{len(hrefs)}")
         (OUT / f"{cat}.json").write_text(json.dumps({"category": cat, "source": "Archives of Nethys (www.aonprd.com)",

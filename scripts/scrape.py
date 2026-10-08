@@ -2952,6 +2952,8 @@ def build_feat_compendium() -> dict[str, int]:
     for e in pf_entries:
         m = re.match(r"^(.*?)\s*\(([^()]*)\)\s*$", e["name"])
         name, types = (m.group(1), [t.strip() for t in m.group(2).split(",")]) if m else (e["name"], ["General"])
+        if e.get("mythicOf"):  # a feat's mythic version, printed on the feat's own AoN page
+            types = ["Mythic"]
         pf_index.append({"id": "pf1e/" + re.sub(r"[^a-z0-9]+", "-", e["name"].lower()).strip("-"), "name": name,
                          "system": "Pathfinder 1e", "types": types, "spheres": [],
                          "prerequisites": e["fields"].get("Prerequisites", ""), "source": e["source"],

@@ -19310,6 +19310,21 @@
   "ref": "Accursed Hex"
  },
  {
+  "id": "pf1e/mythic-accursed-hex",
+  "name": "Mythic Accursed Hex",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Accursed Hex.",
+  "source": "Mythic Adventures pg. 54",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Accursed%20Hex",
+  "summary": "When you use Accursed Hex to target a creature with one of your hexes a second time, that creature must roll its saving throw twice and take the lower result.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Accursed Hex"
+ },
+ {
   "id": "pf1e/ace-disarm-targeting-weapon-mastery",
   "name": "Ace Disarm",
   "system": "Pathfinder 1e",
@@ -19349,12 +19364,27 @@
    "General"
   ],
   "spheres": [],
-  "prerequisites": "Acrobatic.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 113",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Acrobatic",
   "summary": "You get a +2 bonus on all Acrobatics and Fly skill checks.",
   "file": "pf1e/feats.json",
   "ref": "Acrobatic"
+ },
+ {
+  "id": "pf1e/mythic-acrobatic",
+  "name": "Mythic Acrobatic",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Acrobatic.",
+  "source": "Mythic Adventures pg. 54",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Acrobatic",
+  "summary": "The bonus on Acrobatics and Fly skill checks from Acrobatic increases by 2.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Acrobatic"
  },
  {
   "id": "pf1e/acrobatic-spellcaster-combat",
@@ -19831,12 +19861,27 @@
    "General"
   ],
   "spheres": [],
-  "prerequisites": "Alertness.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 117",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Alertness",
   "summary": "You get a +2 bonus on Perception and Sense Motive skill checks.",
   "file": "pf1e/feats.json",
   "ref": "Alertness"
+ },
+ {
+  "id": "pf1e/mythic-alertness",
+  "name": "Mythic Alertness",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Alertness.",
+  "source": "Mythic Adventures pg. 54",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Alertness",
+  "summary": "The bonus on Perception and Sense Motive skill checks from Alertness increases by 2.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Alertness"
  },
  {
   "id": "pf1e/alien-mindpaths-teamwork",
@@ -19897,6 +19942,21 @@
   "summary": "Instead of its normal effect, you can choose to have your ability to channel energy heal or harm outsiders of the chosen alignment subtype.",
   "file": "pf1e/feats.json",
   "ref": "Alignment Channel"
+ },
+ {
+  "id": "pf1e/mythic-alignment-channel",
+  "name": "Mythic Alignment Channel",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Alignment Channel.",
+  "source": "Mythic Adventures pg. 54",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Alignment%20Channel",
+  "summary": "Your channeled energy affects any creatures with the alignment chosen when you took Alignment Channel (not just outsiders, and not just those with the…",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Alignment Channel"
  },
  {
   "id": "pf1e/all-gnolls-must-die-achievement",
@@ -20358,12 +20418,27 @@
    "General"
   ],
   "spheres": [],
-  "prerequisites": "Animal Affinity.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 118",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Animal%20Affinity",
   "summary": "You get a +2 bonus on all Handle Animal and Ride skill checks.",
   "file": "pf1e/feats.json",
   "ref": "Animal Affinity"
+ },
+ {
+  "id": "pf1e/mythic-animal-affinity",
+  "name": "Mythic Animal Affinity",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Animal Affinity.",
+  "source": "Mythic Adventures pg. 55",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Animal%20Affinity",
+  "summary": "The bonus on Handle Animal and Ride skill checks from Animal Affinity increases by 2.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Animal Affinity"
  },
  {
   "id": "pf1e/animal-ally",
@@ -20696,6 +20771,21 @@
   "ref": "Arcane Armor Training (Combat)"
  },
  {
+  "id": "pf1e/mythic-arcane-armor-training",
+  "name": "Mythic Arcane Armor Training",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Arcane Armor Training.",
+  "source": "Mythic Adventures pg. 55",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Arcane%20Armor%20Training",
+  "summary": "You don’t have to spend a swift action to gain the reduction to arcane spell failure chance from Arcane Armor Training.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Arcane Armor Training"
+ },
+ {
   "id": "pf1e/arcane-blast",
   "name": "Arcane Blast",
   "system": "Pathfinder 1e",
@@ -20709,6 +20799,21 @@
   "summary": "As a standard action, you can sacrifice a prepared spell or unused spell slot of 1st level or higher and transform it into a ray, targeting any foe within 30…",
   "file": "pf1e/feats.json",
   "ref": "Arcane Blast"
+ },
+ {
+  "id": "pf1e/mythic-arcane-blast",
+  "name": "Mythic Arcane Blast",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Arcane Blast APG .",
+  "source": "Mythic Adventures pg. 55",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Arcane%20Blast",
+  "summary": "When you use Arcane Blast, you may halve the damage dice to also perform your choice of either a trip or bull rush combat maneuver against the target of the…",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Arcane Blast"
  },
  {
   "id": "pf1e/arcane-insight",
@@ -20771,6 +20876,21 @@
   "ref": "Arcane Shield"
  },
  {
+  "id": "pf1e/mythic-arcane-shield",
+  "name": "Mythic Arcane Shield",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Arcane Shield APG .",
+  "source": "Mythic Adventures pg. 55",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Arcane%20Shield",
+  "summary": "You add half your tier to the deflection bonus granted to your AC when you use your Arcane Shield.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Arcane Shield"
+ },
+ {
   "id": "pf1e/arcane-strike-combat",
   "name": "Arcane Strike",
   "system": "Pathfinder 1e",
@@ -20784,6 +20904,21 @@
   "summary": "As a swift action, you can imbue your weapons with a fraction of your power.",
   "file": "pf1e/feats.json",
   "ref": "Arcane Strike (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-arcane-strike",
+  "name": "Mythic Arcane Strike",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Arcane Strike.",
+  "source": "Mythic Adventures pg. 55",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Arcane%20Strike",
+  "summary": "Whenever you use Arcane Strike to enhance your weapons, the effect lasts for 1 minute instead of 1 round.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Arcane Strike"
  },
  {
   "id": "pf1e/arcane-talent",
@@ -20989,12 +21124,27 @@
    "Combat"
   ],
   "spheres": [],
-  "prerequisites": "Catch Off-Guard.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 119",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Catch%20Off-Guard",
   "summary": "You do not suffer any penalties for using an improvised melee weapon.",
   "file": "pf1e/feats.json",
   "ref": "Catch Off-Guard (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-catch-off-guard",
+  "name": "Mythic Catch Off-Guard",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Catch Off-Guard.",
+  "source": "Mythic Adventures pg. 60",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Catch%20Off-Guard",
+  "summary": "The damage dealt when you use improvised weapons increases by your tier.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Catch Off-Guard"
  },
  {
   "id": "pf1e/combat-expertise-combat",
@@ -21012,6 +21162,21 @@
   "ref": "Combat Expertise (Combat)"
  },
  {
+  "id": "pf1e/mythic-combat-expertise",
+  "name": "Mythic Combat Expertise",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Combat Expertise.",
+  "source": "Mythic Adventures pg. 61",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Expertise",
+  "summary": "Whenever you use Combat Expertise, you gain an additional +2 dodge bonus to your Armor Class.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Combat Expertise"
+ },
+ {
   "id": "pf1e/improved-disarm-combat",
   "name": "Improved Disarm",
   "system": "Pathfinder 1e",
@@ -21025,6 +21190,21 @@
   "summary": "You do not provoke an attack of opportunity when performing a disarm combat maneuver.",
   "file": "pf1e/feats.json",
   "ref": "Improved Disarm (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-improved-disarm",
+  "name": "Mythic Improved Disarm",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Improved Disarm.",
+  "source": "Mythic Adventures pg. 67",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Disarm",
+  "summary": "You gain a bonus equal to half your tier on checks to disarm, and to your CMD when an opponent tries to disarm you.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Improved Disarm"
  },
  {
   "id": "pf1e/armor-adept-combat",
@@ -21331,6 +21511,21 @@
   "ref": "Aspect of the Beast"
  },
  {
+  "id": "pf1e/mythic-aspect-of-the-beast",
+  "name": "Mythic Aspect of the Beast",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Aspect of the Beast APG .",
+  "source": "Mythic Adventures pg. 55",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Aspect%20of%20the%20Beast",
+  "summary": "Your bestial nature manifests itself in one of the following ways.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Aspect of the Beast"
+ },
+ {
   "id": "pf1e/aspiring-noble-story",
   "name": "Aspiring Noble",
   "system": "Pathfinder 1e",
@@ -21474,12 +21669,27 @@
    "Combat"
   ],
   "spheres": [],
-  "prerequisites": "Improved Unarmed Strike.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 128",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike",
   "summary": "You are considered to be armed even when unarmed—you do not provoke attacks of opportunity when you attack foes while unarmed.",
   "file": "pf1e/feats.json",
   "ref": "Improved Unarmed Strike (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-improved-unarmed-strike",
+  "name": "Mythic Improved Unarmed Strike",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Improved Unarmed Strike.",
+  "source": "Mythic Adventures pg. 68",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike",
+  "summary": "You can add half your tier to your damage with unarmed strikes.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Improved Unarmed Strike"
  },
  {
   "id": "pf1e/atheist-abjurations",
@@ -21504,12 +21714,27 @@
    "General"
   ],
   "spheres": [],
-  "prerequisites": "Athletic.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 118",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Athletic",
   "summary": "You get a +2 bonus on Climb and Swim skill checks.",
   "file": "pf1e/feats.json",
   "ref": "Athletic"
+ },
+ {
+  "id": "pf1e/mythic-athletic",
+  "name": "Mythic Athletic",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Athletic.",
+  "source": "Mythic Adventures pg. 60",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Athletic",
+  "summary": "The bonus on Climb and Swim skill checks from Athletic increases by 2.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Athletic"
  },
  {
   "id": "pf1e/attuned-to-the-wild",
@@ -21555,6 +21780,21 @@
   "summary": "Each creature you conjure with any summon spell gains a +4 enhancement bonus to Strength and Constitution for the duration of the spell that summoned it.",
   "file": "pf1e/feats.json",
   "ref": "Augment Summoning"
+ },
+ {
+  "id": "pf1e/mythic-augment-summoning",
+  "name": "Mythic Augment Summoning",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Augment Summoning.",
+  "source": "Mythic Adventures pg. 60",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Augment%20Summoning",
+  "summary": "Any creature you summon using a summon spell is considered mythic for the purpose of interacting with other mythic creatures.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Augment Summoning"
  },
  {
   "id": "pf1e/aura-flare",
@@ -22797,6 +23037,21 @@
   "ref": "Bleeding Critical (Combat, Critical)"
  },
  {
+  "id": "pf1e/mythic-bleeding-critical",
+  "name": "Mythic Bleeding Critical",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Bleeding Critical, Critical Focus (mythic).",
+  "source": "Mythic Adventures pg. 60",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Bleeding%20Critical",
+  "summary": "The bleed damage dealt with Bleeding Critical increases by your tier.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Bleeding Critical"
+ },
+ {
   "id": "pf1e/bleeding-stare-combat-stare",
   "name": "Bleeding Stare",
   "system": "Pathfinder 1e",
@@ -22986,12 +23241,27 @@
    "Combat"
   ],
   "spheres": [],
-  "prerequisites": "Blind-Fight.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 118",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Blind-Fight",
   "summary": "In melee, every time you miss because of concealment (see Combat), you can reroll your miss chance percentile roll one time to see if you actually hit.",
   "file": "pf1e/feats.json",
   "ref": "Blind-Fight (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-blind-fight",
+  "name": "Mythic Blind-Fight",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Blind-Fight.",
+  "source": "Mythic Adventures pg. 60",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Blind-Fight",
+  "summary": "As a swift action, you can expend one use of mythic power to ignore all miss chances due to concealment or total concealment for a number of rounds equal to…",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Blind-Fight"
  },
  {
   "id": "pf1e/blinding-critical-combat-critical",
@@ -23310,6 +23580,21 @@
   "summary": "You can choose to take a –1 penalty on all melee attack rolls and combat maneuver checks to gain a +2 bonus on all melee damage rolls.",
   "file": "pf1e/feats.json",
   "ref": "Power Attack (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-power-attack",
+  "name": "Mythic Power Attack",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Power Attack.",
+  "source": "Mythic Adventures pg. 71",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Power%20Attack",
+  "summary": "When you use Power Attack, you gain a +3 bonus on melee damage rolls instead of +2.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Power Attack"
  },
  {
   "id": "pf1e/blood-of-heroes-hero-point",
@@ -24001,6 +24286,21 @@
   "summary": "Whenever you move, you may move through 5 feet of difficult terrain each round as if it were normal terrain.",
   "file": "pf1e/feats.json",
   "ref": "Nimble Moves"
+ },
+ {
+  "id": "pf1e/mythic-nimble-moves",
+  "name": "Mythic Nimble Moves",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Nimble Moves.",
+  "source": "Mythic Adventures pg. 70",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Nimble%20Moves",
+  "summary": "For every 2 tiers you possess, you can move through up to 5 feet of difficult terrain each round as if it were normal terrain (minimum 5 feet).",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Nimble Moves"
  },
  {
   "id": "pf1e/bravery-in-action",
@@ -25157,6 +25457,21 @@
   "ref": "Vital Strike (Combat)"
  },
  {
+  "id": "pf1e/mythic-vital-strike",
+  "name": "Mythic Vital Strike",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Vital Strike.",
+  "source": "Mythic Adventures pg. 77",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Vital%20Strike",
+  "summary": "Whenever you use Vital Strike, Improved Vital Strike, or Greater Vital Strike, multiply the Strength bonus, magic bonus, and other bonuses that would normally…",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Vital Strike"
+ },
+ {
   "id": "pf1e/cleave-combat",
   "name": "Cleave",
   "system": "Pathfinder 1e",
@@ -25170,6 +25485,21 @@
   "summary": "As a standard action, you can make a single attack at your full base attack bonus against a foe within reach.",
   "file": "pf1e/feats.json",
   "ref": "Cleave (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-cleave",
+  "name": "Mythic Cleave",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Cleave.",
+  "source": "Mythic Adventures pg. 61",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Cleave",
+  "summary": "Whenever you use Cleave or Great Cleave, one of your attacks can be made against a foe that is within your reach, but not adjacent to the foe you attacked.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Cleave"
  },
  {
   "id": "pf1e/chain-challenge",
@@ -25592,6 +25922,21 @@
   "ref": "Channel Smite (Combat)"
  },
  {
+  "id": "pf1e/mythic-channel-smite",
+  "name": "Mythic Channel Smite",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Channel Smite.",
+  "source": "Mythic Adventures pg. 60",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Channel%20Smite",
+  "summary": "When using Channel Smite, you gain a bonus on your attack roll equal to the number of d6s granted by your channel energy class feature.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Channel Smite"
+ },
+ {
   "id": "pf1e/channel-spirit",
   "name": "Channel Spirit",
   "system": "Pathfinder 1e",
@@ -25770,6 +26115,21 @@
   "summary": "When making a charge, you can attempt to overrun one creature in the path of the charge as a free action.",
   "file": "pf1e/feats.json",
   "ref": "Charge Through (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-charge-through",
+  "name": "Mythic Charge Through",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Charge Through APG .",
+  "source": "Mythic Adventures pg. 60",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Charge%20Through",
+  "summary": "When charging, you can ignore allies in your path when determining whether or not you can charge your target.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Charge Through"
  },
  {
   "id": "pf1e/charging-hurler-combat",
@@ -26684,12 +27044,27 @@
    "Combat"
   ],
   "spheres": [],
-  "prerequisites": "Combat Reflexes.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 119",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes",
   "summary": "You may make a number of additional attacks of opportunity per round equal to your Dexterity bonus.",
   "file": "pf1e/feats.json",
   "ref": "Combat Reflexes (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-combat-reflexes",
+  "name": "Mythic Combat Reflexes",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Combat Reflexes.",
+  "source": "Mythic Adventures pg. 61",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes",
+  "summary": "You can make any number of additional attacks of opportunity per round.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Combat Reflexes"
  },
  {
   "id": "pf1e/combat-rhythm-combat-combination",
@@ -26796,6 +27171,21 @@
   "summary": "As a standard action, you can use one of your uses of channel negative energy to enslave undead within 30 feet.",
   "file": "pf1e/feats.json",
   "ref": "Command Undead"
+ },
+ {
+  "id": "pf1e/mythic-command-undead",
+  "name": "Mythic Command Undead",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Command Undead.",
+  "source": "Mythic Adventures pg. 61",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Command%20Undead",
+  "summary": "When you command undead, the DC of the Will save increases by half your tier, and intelligent undead get no additional saves beyond their first to resist your…",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Command Undead"
  },
  {
   "id": "pf1e/commander-of-goblinkind",
@@ -27905,6 +28295,21 @@
   "ref": "Weapon Focus (Combat)"
  },
  {
+  "id": "pf1e/mythic-weapon-focus",
+  "name": "Mythic Weapon Focus",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Weapon Focus.",
+  "source": "Mythic Adventures pg. 77",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Focus",
+  "summary": "Double the bonuses on your attack rolls from Weapon Focus and Greater Weapon Focus.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Weapon Focus"
+ },
+ {
   "id": "pf1e/craft-construct-item-creation",
   "name": "Craft Construct",
   "system": "Pathfinder 1e",
@@ -28449,6 +28854,21 @@
   "ref": "Critical Focus (Combat, Critical)"
  },
  {
+  "id": "pf1e/mythic-critical-focus",
+  "name": "Mythic Critical Focus",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Critical Focus.",
+  "source": "Mythic Adventures pg. 61",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Critical%20Focus",
+  "summary": "You automatically confirm critical threats against non-mythic opponents.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Critical Focus"
+ },
+ {
   "id": "pf1e/critical-mastery-combat-critical",
   "name": "Critical Mastery",
   "system": "Pathfinder 1e",
@@ -28463,6 +28883,21 @@
   "summary": "When you score a critical hit, you can apply the effects of two critical feats in addition to the damage dealt.",
   "file": "pf1e/feats.json",
   "ref": "Critical Mastery (Combat, Critical)"
+ },
+ {
+  "id": "pf1e/mythic-critical-mastery",
+  "name": "Mythic Critical Mastery",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Critical Focus (mythic), Critical Mastery.",
+  "source": "Mythic Adventures pg. 61",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Critical%20Mastery",
+  "summary": "When using Critical Mastery, increase the number of critical feats you may apply by every 3 tiers that you possess.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Critical Mastery"
  },
  {
   "id": "pf1e/critical-versatility-combat",
@@ -28585,6 +29020,21 @@
   "summary": "You do not provoke an attack of opportunity when performing a bull rush combat maneuver.",
   "file": "pf1e/feats.json",
   "ref": "Improved Bull Rush (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-improved-bull-rush",
+  "name": "Mythic Improved Bull Rush",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Improved Bull Rush.",
+  "source": "Mythic Adventures pg. 66",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Bull%20Rush",
+  "summary": "You gain a bonus equal to half your tier on checks to bull rush, and to your CMD when an opponent bull rushes you.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Improved Bull Rush"
  },
  {
   "id": "pf1e/cry-challenge",
@@ -29206,6 +29656,21 @@
   "ref": "Dastardly Finish (Combat)"
  },
  {
+  "id": "pf1e/mythic-dastardly-finish",
+  "name": "Mythic Dastardly Finish",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Dastardly Finish APG .",
+  "source": "Mythic Adventures pg. 61",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dastardly%20Finish",
+  "summary": "You can deliver a coup de grace to dazed and staggered non-mythic opponents.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Dastardly Finish"
+ },
+ {
   "id": "pf1e/dastardly-trick-combat-panache",
   "name": "Dastardly Trick",
   "system": "Pathfinder 1e",
@@ -29297,6 +29762,21 @@
   "ref": "Dazzling Display (Combat)"
  },
  {
+  "id": "pf1e/mythic-dazzling-display",
+  "name": "Mythic Dazzling Display",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Dazzling Display.",
+  "source": "Mythic Adventures pg. 61",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dazzling%20Display",
+  "summary": "While wielding the weapon with which you have Weapon Focus, you can use Dazzling Display as a standard action with a –5 penalty on your Intimidate check, as a…",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Dazzling Display"
+ },
+ {
   "id": "pf1e/dead-inside-story",
   "name": "Dead Inside",
   "system": "Pathfinder 1e",
@@ -29371,6 +29851,21 @@
   "summary": "You can choose to take a –1 penalty on all ranged attack rolls to gain a +2 bonus on all ranged damage rolls.",
   "file": "pf1e/feats.json",
   "ref": "Deadly Aim (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-deadly-aim",
+  "name": "Mythic Deadly Aim",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Deadly Aim.",
+  "source": "Mythic Adventures pg. 61",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deadly%20Aim",
+  "summary": "When you use Deadly Aim, you gain a +3 bonus on ranged damage rolls instead of +2.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Deadly Aim"
  },
  {
   "id": "pf1e/deadly-dealer",
@@ -29463,6 +29958,21 @@
   "ref": "Deadly Stroke (Combat)"
  },
  {
+  "id": "pf1e/mythic-deadly-stroke",
+  "name": "Mythic Deadly Stroke",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Deadly Stroke.",
+  "source": "Mythic Adventures pg. 62",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deadly%20Stroke",
+  "summary": "When making a Deadly Stroke attack, you can expend one use of mythic power to instantly kill a nonmythic living creature.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Deadly Stroke"
+ },
+ {
   "id": "pf1e/deadly-trap",
   "name": "Deadly Trap",
   "system": "Pathfinder 1e",
@@ -29546,12 +30056,27 @@
    "Combat"
   ],
   "spheres": [],
-  "prerequisites": "Death from Above UC .",
+  "prerequisites": "",
   "source": "Ultimate Combat pg. 94",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Death%20from%20Above",
   "summary": "Whenever you charge an opponent from higher ground, or from above while flying, you gain a +5 bonus on attack rolls in place of the bonuses from charging and…",
   "file": "pf1e/feats.json",
   "ref": "Death from Above (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-death-from-above",
+  "name": "Mythic Death from Above",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Death from Above UC .",
+  "source": "Mythic Adventures pg. 62",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Death%20from%20Above",
+  "summary": "Whenever you charge an opponent from higher ground, or from above while flying, the critical multiplier of your weapon increases by 2 (to a maximum of ×6).",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Death from Above"
  },
  {
   "id": "pf1e/death-from-below-combat",
@@ -29651,12 +30176,27 @@
    "General"
   ],
   "spheres": [],
-  "prerequisites": "Deceitful.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 121",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deceitful",
   "summary": "You get a +2 bonus on all Bluff and Disguise skill checks.",
   "file": "pf1e/feats.json",
   "ref": "Deceitful"
+ },
+ {
+  "id": "pf1e/mythic-deceitful",
+  "name": "Mythic Deceitful",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Deceitful.",
+  "source": "Mythic Adventures pg. 62",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deceitful",
+  "summary": "The bonus on Bluff and Disguise skill checks from Deceitful increases by 2.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Deceitful"
  },
  {
   "id": "pf1e/deceitful-incompetence-combat",
@@ -29711,12 +30251,27 @@
    "General"
   ],
   "spheres": [],
-  "prerequisites": "Improved Counterspell.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 126",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Counterspell",
   "summary": "When counterspelling, you may use a spell of the same school that is one or more spell levels higher than the target spell.",
   "file": "pf1e/feats.json",
   "ref": "Improved Counterspell"
+ },
+ {
+  "id": "pf1e/mythic-improved-counterspell",
+  "name": "Mythic Improved Counterspell",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Improved Counterspell.",
+  "source": "Mythic Adventures pg. 66",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Counterspell",
+  "summary": "When counterspelling, you can use a spell of the same school that is the same or higher spell level as the target spell.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Improved Counterspell"
  },
  {
   "id": "pf1e/dedicated-adversary-combat",
@@ -29809,6 +30364,21 @@
   "ref": "Deepsight"
  },
  {
+  "id": "pf1e/mythic-deepsight",
+  "name": "Mythic Deepsight",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Deepsight APG .",
+  "source": "Mythic Adventures pg. 62",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deepsight",
+  "summary": "The range of your darkvision increases by 10 feet per tier.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Deepsight"
+ },
+ {
   "id": "pf1e/defended-movement-combat-shield-mastery",
   "name": "Defended Movement",
   "system": "Pathfinder 1e",
@@ -29847,12 +30417,27 @@
    "Combat"
   ],
   "spheres": [],
-  "prerequisites": "Defensive Combat Training, 4th mythic tier.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 121",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Defensive%20Combat%20Training",
   "summary": "You treat your total Hit Dice as your base attack bonus when calculating your Combat Maneuver Defense (see Combat).",
   "file": "pf1e/feats.json",
   "ref": "Defensive Combat Training (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-defensive-combat-training",
+  "name": "Mythic Defensive Combat Training",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Defensive Combat Training, 4th mythic tier.",
+  "source": "Mythic Adventures pg. 63",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Defensive%20Combat%20Training",
+  "summary": "Add half your tier to your CMD.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Defensive Combat Training"
  },
  {
   "id": "pf1e/defensive-weapon-training-combat",
@@ -29900,6 +30485,21 @@
   "ref": "Deflect Arrows (Combat)"
  },
  {
+  "id": "pf1e/mythic-deflect-arrows",
+  "name": "Mythic Deflect Arrows",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Deflect Arrows.",
+  "source": "Mythic Adventures pg. 63",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deflect%20Arrows",
+  "summary": "When using Deflect Arrows, you can def lect an additional number of ranged attacks per round equal to half your tier.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Deflect Arrows"
+ },
+ {
   "id": "pf1e/deft-catcher",
   "name": "Deft Catcher",
   "system": "Pathfinder 1e",
@@ -29922,12 +30522,27 @@
    "General"
   ],
   "spheres": [],
-  "prerequisites": "Deft Hands.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 121",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deft%20Hands",
   "summary": "You get a +2 bonus on Disable Device and Sleight of Hand skill checks.",
   "file": "pf1e/feats.json",
   "ref": "Deft Hands"
+ },
+ {
+  "id": "pf1e/mythic-deft-hands",
+  "name": "Mythic Deft Hands",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Deft Hands.",
+  "source": "Mythic Adventures pg. 63",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deft%20Hands",
+  "summary": "The bonus on Disable Device and Sleight of Hand skill checks from Deft Hands increases by 2.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Deft Hands"
  },
  {
   "id": "pf1e/deft-shootist-grit",
@@ -30396,6 +31011,21 @@
   "summary": "When you use any of the spells listed in this feat’s prerequisites to detect a creature’s alignment or its magic, you have a chance of detecting what…",
   "file": "pf1e/feats.json",
   "ref": "Detect Expertise"
+ },
+ {
+  "id": "pf1e/mythic-detect-expertise",
+  "name": "Mythic Detect Expertise",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Detect Expertise UM .",
+  "source": "Mythic Adventures pg. 63",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Detect%20Expertise",
+  "summary": "You gain the benefit of Detect Expertise immediately (without needing to observe a creature for 3 rounds) when using the divinations listed in Detect Expertise.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Detect Expertise"
  },
  {
   "id": "pf1e/devastating-assault-weapon-mastery",
@@ -31257,6 +31887,21 @@
   "ref": "Disruptive (Combat)"
  },
  {
+  "id": "pf1e/mythic-disruptive",
+  "name": "Mythic Disruptive",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Disruptive.",
+  "source": "Mythic Adventures pg. 63",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Disruptive",
+  "summary": "The DC to cast spells defensively within your threatened area increases by half your tier.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Disruptive"
+ },
+ {
   "id": "pf1e/disruptive-companion-combat",
   "name": "Disruptive Companion",
   "system": "Pathfinder 1e",
@@ -31330,6 +31975,21 @@
   "summary": "With a thrown weapon, you reduce your penalty on ranged attack rolls due to range by 2.",
   "file": "pf1e/feats.json",
   "ref": "Distance Thrower (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-distance-thrower",
+  "name": "Mythic Distance Thrower",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Str 17, Distance Thrower UC .",
+  "source": "Mythic Adventures pg. 63",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Distance%20Thrower",
+  "summary": "Thrown weapons wielded by you have twice their normal range.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Distance Thrower"
  },
  {
   "id": "pf1e/distant-delivery",
@@ -31665,6 +32325,21 @@
   "ref": "Divine Interference"
  },
  {
+  "id": "pf1e/mythic-divine-interference",
+  "name": "Mythic Divine Interference",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Divine Interference UM .",
+  "source": "Mythic Adventures pg. 63",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Divine%20Interference",
+  "summary": "When you use Divine Interference, the penalty on your opponent’s attack roll is equal to twice the level of the spell sacrificed.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Divine Interference"
+ },
+ {
   "id": "pf1e/divine-protection",
   "name": "Divine Protection",
   "system": "Pathfinder 1e",
@@ -31739,6 +32414,21 @@
   "summary": "You gain a +1 dodge bonus to your AC.",
   "file": "pf1e/feats.json",
   "ref": "Dodge (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-dodge",
+  "name": "Mythic Dodge",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Dodge.",
+  "source": "Mythic Adventures pg. 63",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dodge",
+  "summary": "The bonus to AC from Dodge increases by 1.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Dodge"
  },
  {
   "id": "pf1e/dog-killer-horse-hunter",
@@ -31860,6 +32550,21 @@
   "summary": "You do not provoke an attack of opportunity when performing a reposition combat maneuver.",
   "file": "pf1e/feats.json",
   "ref": "Improved Reposition (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-improved-reposition",
+  "name": "Mythic Improved Reposition",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Improved Reposition APG .",
+  "source": "Mythic Adventures pg. 67",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Reposition",
+  "summary": "You gain a bonus equal to half your tier on checks to attempt a reposition combat maneuver, and to your CMD when an opponent attempts to perform a reposition…",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Improved Reposition"
  },
  {
   "id": "pf1e/whipcrack-combat",
@@ -32346,6 +33051,21 @@
   "ref": "Improved Grapple (Combat)"
  },
  {
+  "id": "pf1e/mythic-improved-grapple",
+  "name": "Mythic Improved Grapple",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Improved Grapple.",
+  "source": "Mythic Adventures pg. 67",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Grapple",
+  "summary": "You gain a bonus equal to half your tier on checks to grapple, and to your CMD when an opponent tries to grapple you.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Improved Grapple"
+ },
+ {
   "id": "pf1e/savage-slam-combat",
   "name": "Savage Slam",
   "system": "Pathfinder 1e",
@@ -32374,6 +33094,21 @@
   "summary": "Whenever you reduce an enemy to 0 or fewer hit points, you can make an Intimidate check to demoralize all enemies within 30 feet as a free action.",
   "file": "pf1e/feats.json",
   "ref": "Dreadful Carnage (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-dreadful-carnage",
+  "name": "Mythic Dreadful Carnage",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Dreadful Carnage APG .",
+  "source": "Mythic Adventures pg. 63",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dreadful%20Carnage",
+  "summary": "When you use Dreadful Carnage, you affect non-mythic enemies within 60 feet in addition to all enemies within 30 feet.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Dreadful Carnage"
  },
  {
   "id": "pf1e/dreamed-secrets",
@@ -32691,6 +33426,21 @@
   "summary": "You ignore up to –5 in penalties due to distance on visual Perception checks, allowing you to see accurately at much greater distances than most.",
   "file": "pf1e/feats.json",
   "ref": "Eagle Eyes"
+ },
+ {
+  "id": "pf1e/mythic-eagle-eyes",
+  "name": "Mythic Eagle Eyes",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Eagle Eyes APG .",
+  "source": "Mythic Adventures pg. 64",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Eagle%20Eyes",
+  "summary": "You ignore up to –10 in penalties due to distance on visual Perception checks, instead of the normal –5.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Eagle Eyes"
  },
  {
   "id": "pf1e/eagle-knight-candidate-achievement",
@@ -33100,6 +33850,21 @@
   "ref": "Eldritch Heritage"
  },
  {
+  "id": "pf1e/mythic-eldritch-heritage",
+  "name": "Mythic Eldritch Heritage",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Eldritch Heritage UM .",
+  "source": "Mythic Adventures pg. 64",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Eldritch%20Heritage",
+  "summary": "You gain sorcerer bloodline powers of the bloodline tied to Eldritch Heritage as if your sorcerer level were your character level – 2.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Eldritch Heritage"
+ },
+ {
   "id": "pf1e/eldritch-researcher-story",
   "name": "Eldritch Researcher",
   "system": "Pathfinder 1e",
@@ -33191,6 +33956,21 @@
   "ref": "Elemental Channel"
  },
  {
+  "id": "pf1e/mythic-elemental-channel",
+  "name": "Mythic Elemental Channel",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Elemental Channel.",
+  "source": "Mythic Adventures pg. 64",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Elemental%20Channel",
+  "summary": "Your Elemental Channel can affect any elemental subtype, not just the one you chose when you took Elemental Channel.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Elemental Channel"
+ },
+ {
   "id": "pf1e/elemental-claws",
   "name": "Elemental Claws",
   "system": "Pathfinder 1e",
@@ -33251,6 +34031,21 @@
   "ref": "Elemental Fist (Combat)"
  },
  {
+  "id": "pf1e/mythic-elemental-fist",
+  "name": "Mythic Elemental Fist",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Elemental Fist APG .",
+  "source": "Mythic Adventures pg. 64",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Elemental%20Fist",
+  "summary": "The extra energy damage dealt by Elemental Fist increases to 1d8 points, and you gain additional uses of Elemental Fist per day equal to your tier.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Elemental Fist"
+ },
+ {
   "id": "pf1e/elemental-focus",
   "name": "Elemental Focus",
   "system": "Pathfinder 1e",
@@ -33258,12 +34053,27 @@
    "General"
   ],
   "spheres": [],
-  "prerequisites": "Elemental Focus APG .",
+  "prerequisites": "",
   "source": "Advanced Player's Guide pg. 158",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Elemental%20Focus",
   "summary": "Choose one energy type (acid, cold, electricity, or fire).",
   "file": "pf1e/feats.json",
   "ref": "Elemental Focus"
+ },
+ {
+  "id": "pf1e/mythic-elemental-focus",
+  "name": "Mythic Elemental Focus",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Elemental Focus APG .",
+  "source": "Mythic Adventures pg. 64",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Elemental%20Focus",
+  "summary": "Choose an energy type in which you already have Elemental Focus.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Elemental Focus"
  },
  {
   "id": "pf1e/elemental-jaunt",
@@ -33444,6 +34254,21 @@
   "summary": "If you miss due to concealment when making a ranged attack with a longbow or shortbow (including composite bows), you can reroll your miss chance roll one time…",
   "file": "pf1e/feats.json",
   "ref": "Elven Accuracy (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-elven-accuracy",
+  "name": "Mythic Elven Accuracy",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Elven Accuracy APG .",
+  "source": "Mythic Adventures pg. 64",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Elven%20Accuracy",
+  "summary": "When you make an attack with a longbow or short bow (including composite bows), you can ignore concealment, but not total concealment.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Elven Accuracy"
  },
  {
   "id": "pf1e/elven-battle-focus-combat",
@@ -33725,12 +34550,27 @@
    "General"
   ],
   "spheres": [],
-  "prerequisites": "Endurance.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 122",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Endurance",
   "summary": "You gain a +4 bonus on the following checks and saves: Swim checks made to resist nonlethal damage from exhaustion; Constitution checks made to continue…",
   "file": "pf1e/feats.json",
   "ref": "Endurance"
+ },
+ {
+  "id": "pf1e/mythic-endurance",
+  "name": "Mythic Endurance",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Endurance.",
+  "source": "Mythic Adventures pg. 65",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Endurance",
+  "summary": "The bonus on checks and saves from Endurance increases by half your tier.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Endurance"
  },
  {
   "id": "pf1e/enduring-might",
@@ -34104,12 +34944,27 @@
    "General"
   ],
   "spheres": [],
-  "prerequisites": "Eschew Materials.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 123",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Eschew%20Materials",
   "summary": "You can cast any spell with a material component costing 1 gp or less without needing that component.",
   "file": "pf1e/feats.json",
   "ref": "Eschew Materials"
+ },
+ {
+  "id": "pf1e/mythic-eschew-materials",
+  "name": "Mythic Eschew Materials",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Eschew Materials.",
+  "source": "Mythic Adventures pg. 65",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Eschew%20Materials",
+  "summary": "You can cast any spell with a material component costing 10 gp per tier or less without providing that component.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Eschew Materials"
  },
  {
   "id": "pf1e/esoteric-abjuration-esoteric",
@@ -36187,6 +37042,21 @@
   "ref": "Far Shot (Combat)"
  },
  {
+  "id": "pf1e/mythic-far-shot",
+  "name": "Mythic Far Shot",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Far Shot.",
+  "source": "Mythic Adventures pg. 65",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Far%20Shot",
+  "summary": "As a swift action, you can expend one use of mythic power to ignore all range increment penalties for your ranged attacks until the end of your turn.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Far Shot"
+ },
+ {
   "id": "pf1e/far-roaming-familiar",
   "name": "Far-Roaming Familiar",
   "system": "Pathfinder 1e",
@@ -36290,6 +37160,21 @@
   "summary": "Using wild empathy is a standard action for you.",
   "file": "pf1e/feats.json",
   "ref": "Fast Empathy"
+ },
+ {
+  "id": "pf1e/mythic-fast-empathy",
+  "name": "Mythic Fast Empathy",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Fast Empathy UM .",
+  "source": "Mythic Adventures pg. 65",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Fast%20Empathy",
+  "summary": "You can use wild empathy as a swift action.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Fast Empathy"
  },
  {
   "id": "pf1e/fast-healer",
@@ -37287,6 +38172,21 @@
   "ref": "Improved Sunder (Combat)"
  },
  {
+  "id": "pf1e/mythic-improved-sunder",
+  "name": "Mythic Improved Sunder",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Improved Sunder.",
+  "source": "Mythic Adventures pg. 67",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Sunder",
+  "summary": "You gain a bonus equal to half your tier on checks to sunder, and to your CMD when an opponent tries to sunder an object used by you.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Improved Sunder"
+ },
+ {
   "id": "pf1e/finesse-shot-weapon-mastery",
   "name": "Finesse Shot",
   "system": "Pathfinder 1e",
@@ -37346,6 +38246,21 @@
   "summary": "When you cast a bard spell that deals damage, you may replace the spell’s normal damage with fire damage or split the spell’s damage so that half of it is the…",
   "file": "pf1e/feats.json",
   "ref": "Fire Music"
+ },
+ {
+  "id": "pf1e/mythic-fire-music",
+  "name": "Mythic Fire Music",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Fire Music UM .",
+  "source": "Mythic Adventures pg. 65",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Fire%20Music",
+  "summary": "When you use Fire Music to change any of the damage dealt by a bard spell to fire damage, that damage ignores fire resistance up to your tier.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Fire Music"
  },
  {
   "id": "pf1e/fire-tamer",
@@ -37551,12 +38466,27 @@
    "General"
   ],
   "spheres": [],
-  "prerequisites": "Fleet.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 124",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Fleet",
   "summary": "While you are wearing light or no armor, your base speed increases by 5 feet.",
   "file": "pf1e/feats.json",
   "ref": "Fleet"
+ },
+ {
+  "id": "pf1e/mythic-fleet",
+  "name": "Mythic Fleet",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Fleet.",
+  "source": "Mythic Adventures pg. 65",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Fleet",
+  "summary": "Your base land speed increases by 5 feet, regardless of what armor you wear or whether you’re encumbered.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Fleet"
  },
  {
   "id": "pf1e/fleeting-spell-metamagic",
@@ -38778,6 +39708,21 @@
   "ref": "Furious Focus (Combat)"
  },
  {
+  "id": "pf1e/mythic-furious-focus",
+  "name": "Mythic Furious Focus",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Furious Focus APG .",
+  "source": "Mythic Adventures pg. 65",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Furious%20Focus",
+  "summary": "When you are using Furious Focus, you don’t take Power Attack’s penalty on attack rolls that are made as attacks of opportunity.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Furious Focus"
+ },
+ {
   "id": "pf1e/furious-spell-metamagic",
   "name": "Furious Spell",
   "system": "Pathfinder 1e",
@@ -39260,6 +40205,21 @@
   "ref": "Gnome Trickster"
  },
  {
+  "id": "pf1e/mythic-gnome-trickster",
+  "name": "Mythic Gnome Trickster",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Gnome Trickster APG .",
+  "source": "Mythic Adventures pg. 65",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Gnome%20Trickster",
+  "summary": "You gain the following spell-like abilities: 1/day—blur and vanishAPG.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Gnome Trickster"
+ },
+ {
   "id": "pf1e/gnome-weapon-focus-combat",
   "name": "Gnome Weapon Focus",
   "system": "Pathfinder 1e",
@@ -39372,12 +40332,27 @@
    "General"
   ],
   "spheres": [],
-  "prerequisites": "Iron Will.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 129",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Iron%20Will",
   "summary": "You get a +2 bonus on all Will saving throws.",
   "file": "pf1e/feats.json",
   "ref": "Iron Will"
+ },
+ {
+  "id": "pf1e/mythic-iron-will",
+  "name": "Mythic Iron Will",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Iron Will.",
+  "source": "Mythic Adventures pg. 68",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Iron%20Will",
+  "summary": "Whenever you roll a Will saving throw against a spell, spell-like ability, or supernatural ability from a non-mythic source, roll twice and take the higher…",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Iron Will"
  },
  {
   "id": "pf1e/gore-fiend",
@@ -39448,12 +40423,27 @@
    "Combat"
   ],
   "spheres": [],
-  "prerequisites": "Throw Anything.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 135",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Throw%20Anything",
   "summary": "You do not suffer any penalties for using an improvised ranged weapon.",
   "file": "pf1e/feats.json",
   "ref": "Throw Anything (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-throw-anything",
+  "name": "Mythic Throw Anything",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Throw Anything.",
+  "source": "Mythic Adventures pg. 75",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Throw%20Anything",
+  "summary": "You gain a +2 bonus on attack rolls and damage rolls made using an improvised thrown weapon or splash weapon.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Throw Anything"
  },
  {
   "id": "pf1e/grabbing-drag-combat",
@@ -39734,12 +40724,27 @@
    "General"
   ],
   "spheres": [],
-  "prerequisites": "Great Fortitude.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 124",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Great%20Fortitude",
   "summary": "You get a +2 bonus on all Fortitude saving throws.",
   "file": "pf1e/feats.json",
   "ref": "Great Fortitude"
+ },
+ {
+  "id": "pf1e/mythic-great-fortitude",
+  "name": "Mythic Great Fortitude",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Great Fortitude.",
+  "source": "Mythic Adventures pg. 66",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Great%20Fortitude",
+  "summary": "Whenever you roll a Fortitude saving throw against a spell, spell-like ability, or supernatural ability from a non-mythic source, roll twice and take the…",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Great Fortitude"
  },
  {
   "id": "pf1e/great-hatred-combat",
@@ -41065,6 +42070,21 @@
   "ref": "Guided Hand"
  },
  {
+  "id": "pf1e/mythic-guided-hand",
+  "name": "Mythic Guided Hand",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Guided Hand UC .",
+  "source": "Mythic Adventures pg. 66",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Guided%20Hand",
+  "summary": "When making attacks with your deity’s favored weapon, you can add your Wisdom modifier instead of your Strength or Dexterity modifier on damage rolls.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Guided Hand"
+ },
+ {
   "id": "pf1e/guided-star-combat",
   "name": "Guided Star",
   "system": "Pathfinder 1e",
@@ -41275,6 +42295,21 @@
   "ref": "Improved Trip (Combat)"
  },
  {
+  "id": "pf1e/mythic-improved-trip",
+  "name": "Mythic Improved Trip",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Improved Trip.",
+  "source": "Mythic Adventures pg. 68",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Trip",
+  "summary": "You gain a bonus equal to half your tier on checks to trip, and to your CMD when an opponent tries to trip you.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Improved Trip"
+ },
+ {
   "id": "pf1e/point-blank-shot-combat",
   "name": "Point-Blank Shot",
   "system": "Pathfinder 1e",
@@ -41282,12 +42317,27 @@
    "Combat"
   ],
   "spheres": [],
-  "prerequisites": "Point-Blank Shot.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 131",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Point-Blank%20Shot",
   "summary": "You get a +1 bonus on attack and damage rolls with ranged weapons at ranges of up to 30 feet.",
   "file": "pf1e/feats.json",
   "ref": "Point-Blank Shot (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-point-blank-shot",
+  "name": "Mythic Point-Blank Shot",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Point-Blank Shot.",
+  "source": "Mythic Adventures pg. 71",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Point-Blank%20Shot",
+  "summary": "The bonus on attack and damage rolls granted by Point-Blank Shot increases to +2.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Point-Blank Shot"
  },
  {
   "id": "pf1e/precise-shot-combat",
@@ -41622,6 +42672,21 @@
   "ref": "Two-Weapon Fighting (Combat)"
  },
  {
+  "id": "pf1e/mythic-two-weapon-fighting",
+  "name": "Mythic Two-Weapon Fighting",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Two-Weapon Fighting.",
+  "source": "Mythic Adventures pg. 76",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Two-Weapon%20Fighting",
+  "summary": "As an immediate action, you can expend one use of mythic power to negate the penalties on attack rolls for two-weapon fighting for a number of rounds equal to…",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Two-Weapon Fighting"
+ },
+ {
   "id": "pf1e/heavy-gravity-acclimation",
   "name": "Heavy Gravity Acclimation",
   "system": "Pathfinder 1e",
@@ -41847,6 +42912,21 @@
   "ref": "Heroic Defiance"
  },
  {
+  "id": "pf1e/mythic-heroic-defiance",
+  "name": "Mythic Heroic Defiance",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Heroic Defiance APG .",
+  "source": "Mythic Adventures pg. 66",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Heroic%20Defiance",
+  "summary": "Once per day as an immediate action, you can attempt to negate the onset of one harmful condition or affliction (such as panicked, paralyzed, stunned, and so…",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Heroic Defiance"
+ },
+ {
   "id": "pf1e/heroic-interposition-combat",
   "name": "Heroic Interposition",
   "system": "Pathfinder 1e",
@@ -41890,6 +42970,21 @@
   "summary": "Once per day as a standard action you may attempt a new saving throw against a harmful condition or affliction requiring a Fortitude save that is affecting you.",
   "file": "pf1e/feats.json",
   "ref": "Heroic Recovery"
+ },
+ {
+  "id": "pf1e/mythic-heroic-recovery",
+  "name": "Mythic Heroic Recovery",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Heroic Recovery APG .",
+  "source": "Mythic Adventures pg. 66",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Heroic%20Recovery",
+  "summary": "As a swift action, you can expend one use of mythic power to use Heroic Recovery additional times.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Heroic Recovery"
  },
  {
   "id": "pf1e/heroic-will",
@@ -42766,6 +43861,21 @@
   "ref": "Improved Channel"
  },
  {
+  "id": "pf1e/mythic-improved-channel",
+  "name": "Mythic Improved Channel",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Improved Channel.",
+  "source": "Mythic Adventures pg. 66",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Channel",
+  "summary": "Non-mythic creatures that take damage from your channel energy must roll their saving throws twice and take the lower result.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Improved Channel"
+ },
+ {
   "id": "pf1e/improved-channel-force",
   "name": "Improved Channel Force",
   "system": "Pathfinder 1e",
@@ -42839,6 +43949,21 @@
   "summary": "When using the weapon you selected, your threat range is doubled.",
   "file": "pf1e/feats.json",
   "ref": "Improved Critical (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-improved-critical",
+  "name": "Mythic Improved Critical",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Improved Critical, base attack bonus +8.",
+  "source": "Mythic Adventures pg. 66",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Critical",
+  "summary": "Your critical multiplier with your chosen weapon is increased by 1 (to a maximum of ×6).",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Improved Critical"
  },
  {
   "id": "pf1e/improved-dark-sight",
@@ -42931,6 +44056,21 @@
   "ref": "Improved Dirty Trick (Combat)"
  },
  {
+  "id": "pf1e/mythic-improved-dirty-trick",
+  "name": "Mythic Improved Dirty Trick",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Improved Dirty Trick APG .",
+  "source": "Mythic Adventures pg. 66",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Dirty%20Trick",
+  "summary": "You gain a bonus equal to half your tier on checks to attempt a dirty trick, and to your CMD when an opponent attempts to perform a dirty trick on you.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Improved Dirty Trick"
+ },
+ {
   "id": "pf1e/improved-disarm-partner-combat-teamwork",
   "name": "Improved Disarm Partner",
   "system": "Pathfinder 1e",
@@ -42960,6 +44100,21 @@
   "summary": "You do not provoke an attack of opportunity when performing a drag combat maneuver.",
   "file": "pf1e/feats.json",
   "ref": "Improved Drag (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-improved-drag",
+  "name": "Mythic Improved Drag",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Improved Drag APG .",
+  "source": "Mythic Adventures pg. 67",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Drag",
+  "summary": "You gain a bonus equal to half your tier on checks to attempt a drag combat maneuver, and to your CMD when an opponent attempts a drag combat maneuver against…",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Improved Drag"
  },
  {
   "id": "pf1e/improved-drow-nobility",
@@ -43035,6 +44190,21 @@
   "summary": "When choosing a familiar, the creatures listed below are also available to you.",
   "file": "pf1e/feats.json",
   "ref": "Improved Familiar"
+ },
+ {
+  "id": "pf1e/mythic-improved-familiar",
+  "name": "Mythic Improved Familiar",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Improved Familiar.",
+  "source": "Mythic Adventures pg. 67",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Familiar",
+  "summary": "For every 3 tiers you possess, your familiar gains a +2 bonus to an ability score of your choice.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Improved Familiar"
  },
  {
   "id": "pf1e/improved-familiar-bond",
@@ -43286,12 +44456,27 @@
    "Combat"
   ],
   "spheres": [],
-  "prerequisites": "Improved Initiative.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 127",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Initiative",
   "summary": "You get a +4 bonus on initiative checks.",
   "file": "pf1e/feats.json",
   "ref": "Improved Initiative (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-improved-initiative",
+  "name": "Mythic Improved Initiative",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Improved Initiative.",
+  "source": "Mythic Adventures pg. 67",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Initiative",
+  "summary": "The bonus on initiative checks granted by Improved Initiative increases by an amount equal to your tier.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Improved Initiative"
  },
  {
   "id": "pf1e/improved-intercept-blow-combat",
@@ -43503,6 +44688,21 @@
   "summary": "You do not provoke an attack of opportunity when performing an overrun combat maneuver.",
   "file": "pf1e/feats.json",
   "ref": "Improved Overrun (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-improved-overrun",
+  "name": "Mythic Improved Overrun",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Improved Overrun.",
+  "source": "Mythic Adventures pg. 67",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Overrun",
+  "summary": "You gain a bonus equal to half your tier on checks to overrun, and to your CMD when an opponent tries to overrun you.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Improved Overrun"
  },
  {
   "id": "pf1e/improved-parry-combat",
@@ -43821,6 +45021,21 @@
   "ref": "Improved Steal (Combat)"
  },
  {
+  "id": "pf1e/mythic-improved-steal",
+  "name": "Mythic Improved Steal",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Improved Steal APG .",
+  "source": "Mythic Adventures pg. 67",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Steal",
+  "summary": "You gain a bonus equal to half your tier on checks to attempt a steal combat maneuver, and to your CMD when an opponent attempts a steal combat maneuver on you.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Improved Steal"
+ },
+ {
   "id": "pf1e/improved-stellar-wanderer",
   "name": "Improved Stellar Wanderer",
   "system": "Pathfinder 1e",
@@ -43879,6 +45094,21 @@
   "summary": "You receive a +4 bonus on Perception checks to notice unusual stonework.",
   "file": "pf1e/feats.json",
   "ref": "Improved Stonecunning"
+ },
+ {
+  "id": "pf1e/mythic-improved-stonecunning",
+  "name": "Mythic Improved Stonecunning",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Improved Stonecunning APG .",
+  "source": "Mythic Adventures pg. 67",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Stonecunning",
+  "summary": "You gain stone tell as a spell-like ability usable once per day with a caster level equal to twice your tier.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Improved Stonecunning"
  },
  {
   "id": "pf1e/improved-studied-combatant",
@@ -44990,12 +46220,27 @@
    "Combat"
   ],
   "spheres": [],
-  "prerequisites": "Intimidating Prowess.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 128",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Intimidating%20Prowess",
   "summary": "Add your Strength modifier to Intimidate skill checks in addition to your Charisma modifier.",
   "file": "pf1e/feats.json",
   "ref": "Intimidating Prowess (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-intimidating-prowess",
+  "name": "Mythic Intimidating Prowess",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Intimidating Prowess.",
+  "source": "Mythic Adventures pg. 68",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Intimidating%20Prowess",
+  "summary": "You gain a bonus on Intimidate checks equal to your tier against non-mythic creatures, or half your tier against mythic creatures.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Intimidating Prowess"
  },
  {
   "id": "pf1e/intoxicating-flattery",
@@ -45888,6 +47133,21 @@
   "summary": "When you use your unarmed strike to deal nonlethal damage and sneak attack damage to an opponent denied his Dexterity bonus to AC, you gain a +1 bonus on the…",
   "file": "pf1e/feats.json",
   "ref": "Knockout Artist"
+ },
+ {
+  "id": "pf1e/mythic-knockout-artist",
+  "name": "Mythic Knockout Artist",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Knockout Artist UC .",
+  "source": "Mythic Adventures pg. 68",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Knockout%20Artist",
+  "summary": "When you use your unarmed strike to deal nonlethal damage and sneak attack damage to an opponent, roll d8s for each sneak attack die instead of d6s.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Knockout Artist"
  },
  {
   "id": "pf1e/knotted-nets-combat-teamwork",
@@ -46820,12 +48080,27 @@
    "General"
   ],
   "spheres": [],
-  "prerequisites": "Lightning Reflexes.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 130",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Lightning%20Reflexes",
   "summary": "You get a +2 bonus on all Reflex saving throws.",
   "file": "pf1e/feats.json",
   "ref": "Lightning Reflexes"
+ },
+ {
+  "id": "pf1e/mythic-lightning-reflexes",
+  "name": "Mythic Lightning Reflexes",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Lightning Reflexes.",
+  "source": "Mythic Adventures pg. 68",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Lightning%20Reflexes",
+  "summary": "Whenever you roll a Reflex saving throw against a spell, spell-like ability, or supernatural ability from a non-mythic source, roll twice and take the higher…",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Lightning Reflexes"
  },
  {
   "id": "pf1e/lightning-stance-combat",
@@ -47299,6 +48574,21 @@
   "ref": "Lucky Halfling"
  },
  {
+  "id": "pf1e/mythic-lucky-halfling",
+  "name": "Mythic Lucky Halfling",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Lucky Halfling APG .",
+  "source": "Mythic Adventures pg. 68",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Lucky%20Halfling",
+  "summary": "When you use Lucky Halfling, add your tier as a bonus on the saving throw.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Lucky Halfling"
+ },
+ {
   "id": "pf1e/lucky-healer",
   "name": "Lucky Healer",
   "system": "Pathfinder 1e",
@@ -47342,6 +48632,21 @@
   "summary": "You can increase the reach of your melee attacks by 5 feet until the end of your turn by taking a –2 penalty to your AC until your next turn.",
   "file": "pf1e/feats.json",
   "ref": "Lunge (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-lunge",
+  "name": "Mythic Lunge",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Lunge.",
+  "source": "Mythic Adventures pg. 69",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Lunge",
+  "summary": "Whenever you use Lunge and hit a creature with the melee attack, you no longer take a –2 penalty to AC against that creature.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Lunge"
  },
  {
   "id": "pf1e/lunging-spell-touch",
@@ -47457,12 +48762,27 @@
    "General"
   ],
   "spheres": [],
-  "prerequisites": "Magical Aptitude.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 130",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Magical%20Aptitude",
   "summary": "You get a +2 bonus on all Spellcraft checks and Use Magic Device checks.",
   "file": "pf1e/feats.json",
   "ref": "Magical Aptitude"
+ },
+ {
+  "id": "pf1e/mythic-magical-aptitude",
+  "name": "Mythic Magical Aptitude",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Magical Aptitude.",
+  "source": "Mythic Adventures pg. 69",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Magical%20Aptitude",
+  "summary": "The bonus on Spellcraft and Use Magic Device skill checks from Magical Aptitude increases by 2.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Magical Aptitude"
  },
  {
   "id": "pf1e/magical-enigma-story",
@@ -47750,6 +49070,21 @@
   "summary": "When making a full-attack action with a bow, your first attack fires two arrows.",
   "file": "pf1e/feats.json",
   "ref": "Manyshot (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-manyshot",
+  "name": "Mythic Manyshot",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Manyshot.",
+  "source": "Mythic Adventures pg. 69",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Manyshot",
+  "summary": "When making a full-attack action with a bow and using Manyshot, you fire two arrows with both your first and second attacks, instead of just your first attack.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Manyshot"
  },
  {
   "id": "pf1e/marcher-lord-of-the-cerulean-abyss-gathlain-court-title",
@@ -48851,6 +50186,21 @@
   "ref": "Missile Shield (Combat)"
  },
  {
+  "id": "pf1e/mythic-missile-shield",
+  "name": "Mythic Missile Shield",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Missile Shield APG .",
+  "source": "Mythic Adventures pg. 69",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Missile%20Shield",
+  "summary": "When using Missile Shield, you can deflect an additional number of ranged attacks per round equal to half your tier.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Missile Shield"
+ },
+ {
   "id": "pf1e/mixed-scales",
   "name": "Mixed Scales",
   "system": "Pathfinder 1e",
@@ -48960,6 +50310,21 @@
   "ref": "Mobility (Combat)"
  },
  {
+  "id": "pf1e/mythic-mobility",
+  "name": "Mythic Mobility",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Mobility.",
+  "source": "Mythic Adventures pg. 69",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Mobility",
+  "summary": "Whenever you use Mobility, you gain a +6 dodge bonus to AC instead of the normal +4.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Mobility"
+ },
+ {
   "id": "pf1e/mocking-dance-combat-performance",
   "name": "Mocking Dance",
   "system": "Pathfinder 1e",
@@ -49049,6 +50414,21 @@
   "summary": "Add half the levels you have in classes other than monk to your monk level to determine your effective monk level for your base unarmed strike damage.",
   "file": "pf1e/feats.json",
   "ref": "Monastic Legacy (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-monastic-legacy",
+  "name": "Mythic Monastic Legacy",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Monastic Legacy UC .",
+  "source": "Mythic Adventures pg. 69",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Monastic%20Legacy",
+  "summary": "Add half the levels you have in classes other than monk to your monk level to determine your effective monk level for your AC bonus.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Monastic Legacy"
  },
  {
   "id": "pf1e/monitor-obedience",
@@ -49427,6 +50807,21 @@
   "ref": "Mounted Archery (Combat)"
  },
  {
+  "id": "pf1e/mythic-mounted-archery",
+  "name": "Mythic Mounted Archery",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Mounted Archery.",
+  "source": "Mythic Adventures pg. 69",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Mounted%20Archery",
+  "summary": "When using the Ride skill to use your mount as cover, you can still make a single ranged weapon attack as a standard action.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Mounted Archery"
+ },
+ {
   "id": "pf1e/mounted-blade",
   "name": "Mounted Blade",
   "system": "Pathfinder 1e",
@@ -49455,6 +50850,21 @@
   "summary": "Once per round when your mount is hit in combat, you may attempt a Ride check (as an immediate action) to negate the hit.",
   "file": "pf1e/feats.json",
   "ref": "Mounted Combat (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-mounted-combat",
+  "name": "Mythic Mounted Combat",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Mounted Combat.",
+  "source": "Mythic Adventures pg. 70",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Mounted%20Combat",
+  "summary": "You can negate an additional number of hits against your mount per round equal to your tier.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Mounted Combat"
  },
  {
   "id": "pf1e/mounted-onslaught",
@@ -49953,6 +51363,21 @@
   "summary": "You can complete the verbal and somatic components of spells while using wild shape.",
   "file": "pf1e/feats.json",
   "ref": "Natural Spell"
+ },
+ {
+  "id": "pf1e/mythic-natural-spell",
+  "name": "Mythic Natural Spell",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Natural Spell.",
+  "source": "Mythic Adventures pg. 70",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Natural%20Spell",
+  "summary": "When you’re using wild shape, you can use spell completion and spell trigger magic items that were on your person when you changed form.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Natural Spell"
  },
  {
   "id": "pf1e/nature-magic",
@@ -51935,6 +53360,21 @@
   "ref": "Penetrating Strike (Combat)"
  },
  {
+  "id": "pf1e/mythic-penetrating-strike",
+  "name": "Mythic Penetrating Strike",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Penetrating Strike.",
+  "source": "Mythic Adventures pg. 70",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Penetrating%20Strike",
+  "summary": "When using Penetrating Strike or Greater Penetrating Strike, you can ignore an additional point of damage reduction for every 3 tiers you posses.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Penetrating Strike"
+ },
+ {
   "id": "pf1e/perfect-awareness-combat-meditation",
   "name": "Perfect Awareness",
   "system": "Pathfinder 1e",
@@ -52095,12 +53535,27 @@
    "General"
   ],
   "spheres": [],
-  "prerequisites": "Persuasive.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 131",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Persuasive",
   "summary": "You get a +2 bonus on Diplomacy and Intimidate skill checks.",
   "file": "pf1e/feats.json",
   "ref": "Persuasive"
+ },
+ {
+  "id": "pf1e/mythic-persuasive",
+  "name": "Mythic Persuasive",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Persuasive.",
+  "source": "Mythic Adventures pg. 70",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Persuasive",
+  "summary": "The bonus on Diplomacy and Intimidate skill checks granted by Persuasive increases by 2.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Persuasive"
  },
  {
   "id": "pf1e/persuasive-bribery",
@@ -52478,6 +53933,21 @@
   "summary": "As a standard action, make a single ranged attack.",
   "file": "pf1e/feats.json",
   "ref": "Pinpoint Targeting (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-pinpoint-targeting",
+  "name": "Mythic Pinpoint Targeting",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Pinpoint Targeting.",
+  "source": "Mythic Adventures pg. 70",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Pinpoint%20Targeting",
+  "summary": "You can use this feat even if you move this round, but only if the distance you move is equal to or less than 5 feet per tier.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Pinpoint Targeting"
  },
  {
   "id": "pf1e/piranha-strike-combat",
@@ -52976,6 +54446,21 @@
   "ref": "Powerful Shape"
  },
  {
+  "id": "pf1e/mythic-powerful-shape",
+  "name": "Mythic Powerful Shape",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Powerful Shape UM .",
+  "source": "Mythic Adventures pg. 71",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Powerful%20Shape",
+  "summary": "You can apply the giant simple template (quick rules version, from Pathfinder RPG Bestiary 295) to any form you take with wild shape.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Powerful Shape"
+ },
+ {
   "id": "pf1e/powerful-tongue",
   "name": "Powerful Tongue",
   "system": "Pathfinder 1e",
@@ -53336,6 +54821,21 @@
   "summary": "Once per day, you can enter a deep trance to receive a vision of the future.",
   "file": "pf1e/feats.json",
   "ref": "Prophetic Visionary"
+ },
+ {
+  "id": "pf1e/mythic-prophetic-visionary",
+  "name": "Mythic Prophetic Visionary",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Prophetic Visionary UM .",
+  "source": "Mythic Adventures pg. 71",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Prophetic%20Visionary",
+  "summary": "You can use Prophetic Visionary’s augury ability at will, spending 10 minutes in a deep trance each time.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Prophetic Visionary"
  },
  {
   "id": "pf1e/prosperity-and-pride-story",
@@ -53928,6 +55428,21 @@
   "ref": "Quick Draw (Combat)"
  },
  {
+  "id": "pf1e/mythic-quick-draw",
+  "name": "Mythic Quick Draw",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Quick Draw.",
+  "source": "Mythic Adventures pg. 71",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Quick%20Draw",
+  "summary": "You can use Quick Draw to draw items of any kind, not just weapons, provided they are stored or concealed on your person.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Quick Draw"
+ },
+ {
   "id": "pf1e/quick-favor",
   "name": "Quick Favor",
   "system": "Pathfinder 1e",
@@ -54166,6 +55681,21 @@
   "summary": "Choose another humanoid race.",
   "file": "pf1e/feats.json",
   "ref": "Racial Heritage"
+ },
+ {
+  "id": "pf1e/mythic-racial-heritage",
+  "name": "Mythic Racial Heritage",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Racial Heritage APG .",
+  "source": "Mythic Adventures pg. 71",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Racial%20Heritage",
+  "summary": "You gain a single racial trait of your choice from the race you picked when you took non-mythic Racial Heritage.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Racial Heritage"
  },
  {
   "id": "pf1e/racial-item-mastery-item-mastery",
@@ -54545,6 +56075,21 @@
   "ref": "Rapid Reload (Combat)"
  },
  {
+  "id": "pf1e/mythic-rapid-reload",
+  "name": "Mythic Rapid Reload",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Rapid Reload.",
+  "source": "Mythic Adventures pg. 72",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Rapid%20Reload",
+  "summary": "You gain the benefits of Rapid Reload with all crossbows and firearms, not just the one you originally chose when you gained that feat.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Rapid Reload"
+ },
+ {
   "id": "pf1e/rapid-repair",
   "name": "Rapid Repair",
   "system": "Pathfinder 1e",
@@ -54573,6 +56118,21 @@
   "summary": "When making a full-attack action with a ranged weapon, you can fire one additional time this round at your highest bonus.",
   "file": "pf1e/feats.json",
   "ref": "Rapid Shot (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-rapid-shot",
+  "name": "Mythic Rapid Shot",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Rapid Shot.",
+  "source": "Mythic Adventures pg. 72",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Rapid%20Shot",
+  "summary": "When using Rapid Shot, you can either ignore the feat’s –2 penalty on attack rolls or make two additional attacks instead of one.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Rapid Shot"
  },
  {
   "id": "pf1e/rat-catcher-combat",
@@ -55547,12 +57107,27 @@
    "General"
   ],
   "spheres": [],
-  "prerequisites": "Spell Focus.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 134",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spell%20Focus",
   "summary": "Add +1 to the Difficulty Class for all saving throws against spells from the school of magic you select.",
   "file": "pf1e/feats.json",
   "ref": "Spell Focus"
+ },
+ {
+  "id": "pf1e/mythic-spell-focus",
+  "name": "Mythic Spell Focus",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Spell Focus.",
+  "source": "Mythic Adventures pg. 74",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spell%20Focus",
+  "summary": "Choose a school of magic you already have Spell Focus in.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Spell Focus"
  },
  {
   "id": "pf1e/returning-throw-combat-teamwork",
@@ -55721,6 +57296,21 @@
   "ref": "Rhetorical Flourish"
  },
  {
+  "id": "pf1e/mythic-rhetorical-flourish",
+  "name": "Mythic Rhetorical Flourish",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Rhetorical Flourish UC .",
+  "source": "Mythic Adventures pg. 72",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Rhetorical%20Flourish",
+  "summary": "When you successfully use Rhetorical Flourish against a non-mythic creature, the bonus on your Diplomacy check increases by your tier.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Rhetorical Flourish"
+ },
+ {
   "id": "pf1e/rhino-charge-combat",
   "name": "Rhino Charge",
   "system": "Pathfinder 1e",
@@ -55794,6 +57384,21 @@
   "summary": "When you are mounted and use the charge action, you may move and attack as if with a standard charge and then move again (continuing the straight line of the…",
   "file": "pf1e/feats.json",
   "ref": "Ride-By Attack (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-ride-by-attack",
+  "name": "Mythic Ride-By Attack",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Ride-By Attack.",
+  "source": "Mythic Adventures pg. 72",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Ride-By%20Attack",
+  "summary": "When you successfully strike an opponent as part of a Ride-By Attack, you can continue to make attacks against successive targets.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Ride-By Attack"
  },
  {
   "id": "pf1e/righteous-healing",
@@ -56073,12 +57678,27 @@
    "General"
   ],
   "spheres": [],
-  "prerequisites": "Run.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 132",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Run",
   "summary": "When running, you move five times your normal speed (if wearing medium, light, or no armor and carrying no more than a medium load) or four times your speed…",
   "file": "pf1e/feats.json",
   "ref": "Run"
+ },
+ {
+  "id": "pf1e/mythic-run",
+  "name": "Mythic Run",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Run.",
+  "source": "Mythic Adventures pg. 72",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Run",
+  "summary": "When running, you move seven times your normal speed if wearing medium, light, or no armor and carrying no more than a medium load, or six times your speed if…",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Run"
  },
  {
   "id": "pf1e/runic-charge-combat",
@@ -56209,7 +57829,7 @@
    "General"
   ],
   "spheres": [],
-  "prerequisites": "Goblin, worshipper of Sarenrae . Benefit : Whenever you make an attack or cast a spell that deals fire damage, the fire damage applies to incorporeal creatures, regardless of whether the fire is magical. An incorporeal creature’s 50% reduction in damage from corporeal sources does not apply to any fire damage that you deal.",
+  "prerequisites": "Goblin, worshipper of Sarenrae. Benefit : Whenever you make an attack or cast a spell that deals fire damage, the fire damage applies to incorporeal creatures, regardless of whether the fire is magical. An incorporeal creature’s 50% reduction in damage from corporeal sources does not apply to any fire damage that you deal.",
   "source": "Heroes of Golarion pg. 10",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sacred%20Pyromania",
   "summary": "Whenever you make an attack or cast a spell that deals fire damage, the fire damage applies to incorporeal creatures, regardless of whether the fire is magical.",
@@ -56474,6 +58094,21 @@
   "ref": "Saving Shield (Combat)"
  },
  {
+  "id": "pf1e/mythic-saving-shield",
+  "name": "Mythic Saving Shield",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Saving Shield APG .",
+  "source": "Mythic Adventures pg. 72",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Saving%20Shield",
+  "summary": "The shield bonus you grant an ally with Saving Shield increases to +3.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Saving Shield"
+ },
+ {
   "id": "pf1e/scale-and-skin",
   "name": "Scale and Skin",
   "system": "Pathfinder 1e",
@@ -56712,6 +58347,21 @@
   "summary": "To use this feat, you must make a single unarmed attack as a standard action.",
   "file": "pf1e/feats.json",
   "ref": "Scorpion Style (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-scorpion-style",
+  "name": "Mythic Scorpion Style",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Scorpion Style.",
+  "source": "Mythic Adventures pg. 72",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Scorpion%20Style",
+  "summary": "Whenever you are using Scorpion Style, you add your tier to the number of rounds the target’s base land speed is reduced.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Scorpion Style"
  },
  {
   "id": "pf1e/scouting-summons-metamagic",
@@ -57168,6 +58818,21 @@
   "ref": "Selective Channeling"
  },
  {
+  "id": "pf1e/mythic-selective-channeling",
+  "name": "Mythic Selective Channeling",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Selective Channeling.",
+  "source": "Mythic Adventures pg. 72",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Selective%20Channeling",
+  "summary": "When you channel energy, the damage you heal or deal increases by a number of points equal to twice the number of targets you excluded from your channeled…",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Selective Channeling"
+ },
+ {
   "id": "pf1e/selective-spell-metamagic",
   "name": "Selective Spell",
   "system": "Pathfinder 1e",
@@ -57220,12 +58885,27 @@
    "General"
   ],
   "spheres": [],
-  "prerequisites": "Self-Sufficient.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 133",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Self-Sufficient",
   "summary": "You get a +2 bonus on all Heal checks and Survival checks.",
   "file": "pf1e/feats.json",
   "ref": "Self-Sufficient"
+ },
+ {
+  "id": "pf1e/mythic-self-sufficient",
+  "name": "Mythic Self-Sufficient",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Self-Sufficient.",
+  "source": "Mythic Adventures pg. 72",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Self-Sufficient",
+  "summary": "The bonus on Heal and Survival skill checks from Self-Sufficient increases by 2.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Self-Sufficient"
  },
  {
   "id": "pf1e/sense-allies",
@@ -58071,6 +59751,21 @@
   "ref": "Shatter Defenses (Combat)"
  },
  {
+  "id": "pf1e/mythic-shatter-defenses",
+  "name": "Mythic Shatter Defenses",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Shatter Defenses.",
+  "source": "Mythic Adventures pg. 72",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shatter%20Defenses",
+  "summary": "An opponent you affect with Shatter Defenses is flat-footed to all attacks, not just yours.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Shatter Defenses"
+ },
+ {
   "id": "pf1e/shatter-mental-mask-combat",
   "name": "Shatter Mental Mask",
   "system": "Pathfinder 1e",
@@ -58160,6 +59855,21 @@
   "summary": "Increase the AC bonus granted by any shield you are using by 1.",
   "file": "pf1e/feats.json",
   "ref": "Shield Focus (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-shield-focus",
+  "name": "Mythic Shield Focus",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Shield Focus.",
+  "source": "Mythic Adventures pg. 73",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shield%20Focus",
+  "summary": "Add your shield bonus and your shield’s enhancement bonus to your touch AC.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Shield Focus"
  },
  {
   "id": "pf1e/shield-gauntlet-style-combat-shield-style-style",
@@ -58269,6 +59979,21 @@
   "summary": "Any opponents hit by your shield bash are also hit with a free bull rush attack, substituting your attack roll for the combat maneuver check (see Combat).",
   "file": "pf1e/feats.json",
   "ref": "Shield Slam (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-shield-slam",
+  "name": "Mythic Shield Slam",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Shield Slam.",
+  "source": "Mythic Adventures pg. 73",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shield%20Slam",
+  "summary": "When using Shield Slam to bull rush, an opponent knocked prone because of an intervening wall or other surface also takes damage from the collision.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Shield Slam"
  },
  {
   "id": "pf1e/shield-snag-combat",
@@ -58561,6 +60286,21 @@
   "summary": "As a full-round action, you can move up to your speed and make a single ranged attack at any point during your movement.",
   "file": "pf1e/feats.json",
   "ref": "Shot on the Run (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-shot-on-the-run",
+  "name": "Mythic Shot on the Run",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Shot on the Run, base attack bonus +6.",
+  "source": "Mythic Adventures pg. 73",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shot%20on%20the%20Run",
+  "summary": "Whenever you use Shot on the Run, you can make two ranged attacks at your highest base attack bonus at any point during your movement, instead of just one.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Shot on the Run"
  },
  {
   "id": "pf1e/shrapnel-strike-combat",
@@ -59129,12 +60869,27 @@
    "General"
   ],
   "spheres": [],
-  "prerequisites": "Skill Focus.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 134",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Skill%20Focus",
   "summary": "You get a +3 bonus on all checks involving the chosen skill.",
   "file": "pf1e/feats.json",
   "ref": "Skill Focus"
+ },
+ {
+  "id": "pf1e/mythic-skill-focus",
+  "name": "Mythic Skill Focus",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Skill Focus.",
+  "source": "Mythic Adventures pg. 73",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Skill%20Focus",
+  "summary": "You can always take 10 or 20 on checks with your choice of skill for Skill Focus, even when you are rushed or threatened.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Skill Focus"
  },
  {
   "id": "pf1e/skilled-driver",
@@ -59834,6 +61589,21 @@
   "ref": "Snatch Arrows (Combat)"
  },
  {
+  "id": "pf1e/mythic-snatch-arrows",
+  "name": "Mythic Snatch Arrows",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Snatch Arrows.",
+  "source": "Mythic Adventures pg. 74",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Snatch%20Arrows",
+  "summary": "When you use Snatch Arrows to catch a thrown weapon that can also be used as a melee weapon, you can make a melee attack with it as an immediate action against…",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Snatch Arrows"
+ },
+ {
   "id": "pf1e/sneaking-critical-combat-critical",
   "name": "Sneaking Critical",
   "system": "Pathfinder 1e",
@@ -59938,6 +61708,21 @@
   "summary": "As a move action, you grant all friendly creatures within 30 feet who can see or hear you (including yourself) a +2 bonus on Diplomacy checks for a number of…",
   "file": "pf1e/feats.json",
   "ref": "Sociable"
+ },
+ {
+  "id": "pf1e/mythic-sociable",
+  "name": "Mythic Sociable",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Sociable APG .",
+  "source": "Mythic Adventures pg. 74",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sociable",
+  "summary": "You grant and benefit from the +2 bonus on Diplomacy checks from Sociable constantly without having to spend a move action.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Sociable"
  },
  {
   "id": "pf1e/social-bravery-combat",
@@ -60407,6 +62192,21 @@
   "ref": "Spell Mastery"
  },
  {
+  "id": "pf1e/mythic-spell-mastery",
+  "name": "Mythic Spell Mastery",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Spell Mastery.",
+  "source": "Mythic Adventures pg. 74",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spell%20Mastery",
+  "summary": "You can prepare spells you have selected with Spell Mastery as a full-round action.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Spell Mastery"
+ },
+ {
   "id": "pf1e/spell-penetration",
   "name": "Spell Penetration",
   "system": "Pathfinder 1e",
@@ -60414,12 +62214,27 @@
    "General"
   ],
   "spheres": [],
-  "prerequisites": "Spell Penetration.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 134",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spell%20Penetration",
   "summary": "You get a +2 bonus on caster level checks (1d20 + caster level) made to overcome a creature's spell resistance.",
   "file": "pf1e/feats.json",
   "ref": "Spell Penetration"
+ },
+ {
+  "id": "pf1e/mythic-spell-penetration",
+  "name": "Mythic Spell Penetration",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Spell Penetration.",
+  "source": "Mythic Adventures pg. 74",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spell%20Penetration",
+  "summary": "Add half your tier to caster level checks to overcome spell resistance.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Spell Penetration"
  },
  {
   "id": "pf1e/spell-perfection",
@@ -60525,6 +62340,21 @@
   "summary": "Enemies in your threatened area that fail their checks to cast spells defensively provoke attacks of opportunity from you.",
   "file": "pf1e/feats.json",
   "ref": "Spellbreaker (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-spellbreaker",
+  "name": "Mythic Spellbreaker",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Spellbreaker.",
+  "source": "Mythic Adventures pg. 74",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spellbreaker",
+  "summary": "Any non-mythic creature you threaten provokes an attack of opportunity from you whenever it uses a spell or spell-like ability, even when casting defensively…",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Spellbreaker"
  },
  {
   "id": "pf1e/spellcut-weapon-mastery",
@@ -60903,6 +62733,21 @@
   "ref": "Spirited Charge (Combat)"
  },
  {
+  "id": "pf1e/mythic-spirited-charge",
+  "name": "Mythic Spirited Charge",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Spirited Charge.",
+  "source": "Mythic Adventures pg. 74",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spirited%20Charge",
+  "summary": "When you hit an opponent with a mounted charge, that opponent must succeed at a Fortitude saving throw (DC 10 + 1/2 your character level + your Str modifier)…",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Spirited Charge"
+ },
+ {
   "id": "pf1e/spiritual-balance",
   "name": "Spiritual Balance",
   "system": "Pathfinder 1e",
@@ -61069,6 +62914,21 @@
   "ref": "Spontaneous Metafocus"
  },
  {
+  "id": "pf1e/mythic-spontaneous-metafocus",
+  "name": "Mythic Spontaneous Metafocus",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Spontaneous Metafocus UM .",
+  "source": "Mythic Adventures pg. 74",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spontaneous%20Metafocus",
+  "summary": "You can change which spell your Spontaneous Metafocus feat applies to each morning when you restore your expended spell slots.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Spontaneous Metafocus"
+ },
+ {
   "id": "pf1e/sprightly-armor-armor-mastery-combat",
   "name": "Sprightly Armor",
   "system": "Pathfinder 1e",
@@ -61098,6 +62958,21 @@
   "summary": "As a full-round action, you can move up to your speed and make a single melee attack without provoking any attacks of opportunity from the target of your…",
   "file": "pf1e/feats.json",
   "ref": "Spring Attack (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-spring-attack",
+  "name": "Mythic Spring Attack",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Spring Attack, base attack bonus +6.",
+  "source": "Mythic Adventures pg. 74",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spring%20Attack",
+  "summary": "When you use Spring Attack, you don’t need to move at least 10 feet before making the first attack.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Spring Attack"
  },
  {
   "id": "pf1e/spring-heeled-reaping-armor-style-combat",
@@ -61609,12 +63484,27 @@
    "General"
   ],
   "spheres": [],
-  "prerequisites": "Stealthy.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 135",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Stealthy",
   "summary": "You get a +2 bonus on all Escape Artist and Stealth skill checks.",
   "file": "pf1e/feats.json",
   "ref": "Stealthy"
+ },
+ {
+  "id": "pf1e/mythic-stealthy",
+  "name": "Mythic Stealthy",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Stealthy.",
+  "source": "Mythic Adventures pg. 75",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Stealthy",
+  "summary": "The bonus on Escape Artist and Stealth skill checks from Stealthy increases by 2.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Stealthy"
  },
  {
   "id": "pf1e/steam-caster",
@@ -62387,6 +64277,21 @@
   "ref": "Strike Back (Combat)"
  },
  {
+  "id": "pf1e/mythic-strike-back",
+  "name": "Mythic Strike Back",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Strike Back.",
+  "source": "Mythic Adventures pg. 75",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Strike%20Back",
+  "summary": "When you make a melee attack as a readied action against a foe outside your melee reach, you can take a 5-foot step toward that foe.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Strike Back"
+ },
+ {
   "id": "pf1e/strike-true-combat",
   "name": "Strike True",
   "system": "Pathfinder 1e",
@@ -62409,12 +64314,27 @@
    "General"
   ],
   "spheres": [],
-  "prerequisites": "Strong Comeback UC .",
+  "prerequisites": "",
   "source": "Ultimate Combat pg. 121",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Strong%20Comeback",
   "summary": "Whenever you are allowed to reroll an ability check, a skill check, or a saving throw, you gain a +2 circumstance bonus on the reroll.",
   "file": "pf1e/feats.json",
   "ref": "Strong Comeback"
+ },
+ {
+  "id": "pf1e/mythic-strong-comeback",
+  "name": "Mythic Strong Comeback",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Strong Comeback UC .",
+  "source": "Mythic Adventures pg. 75",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Strong%20Comeback",
+  "summary": "Whenever you’re allowed to reroll an ability check, a skill check, or a saving throw, roll two dice and take the higher result, before adding the bonus from…",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Strong Comeback"
  },
  {
   "id": "pf1e/strong-implement-link",
@@ -62628,6 +64548,21 @@
   "summary": "You must declare that you are using this feat before you make your attack roll (thus, a failed attack roll ruins the attempt).",
   "file": "pf1e/feats.json",
   "ref": "Stunning Fist (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-stunning-fist",
+  "name": "Mythic Stunning Fist",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Stunning Fist.",
+  "source": "Mythic Adventures pg. 75",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Stunning%20Fist",
+  "summary": "The DC of your Stunning Fist increases by half your tier, and you can use Stunning Fist multiple times during the same round.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Stunning Fist"
  },
  {
   "id": "pf1e/stunning-fist-adept-combat",
@@ -65327,12 +67262,27 @@
    "General"
   ],
   "spheres": [],
-  "prerequisites": "Toughness.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 135",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Toughness",
   "summary": "You gain +3 hit points.",
   "file": "pf1e/feats.json",
   "ref": "Toughness"
+ },
+ {
+  "id": "pf1e/mythic-toughness",
+  "name": "Mythic Toughness",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Toughness.",
+  "source": "Mythic Adventures pg. 75",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Toughness",
+  "summary": "Toughness provides you twice as many hit points.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Toughness"
  },
  {
   "id": "pf1e/touvette-defender",
@@ -65576,6 +67526,21 @@
   "ref": "Trample (Combat)"
  },
  {
+  "id": "pf1e/mythic-trample",
+  "name": "Mythic Trample",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Trample.",
+  "source": "Mythic Adventures pg. 75",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Trample",
+  "summary": "Your mount can make two hoof attacks against an opponent you knock down with an overrun, instead of one.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Trample"
+ },
+ {
   "id": "pf1e/trap-wrecker",
   "name": "Trap Wrecker",
   "system": "Pathfinder 1e",
@@ -65817,6 +67782,21 @@
   "ref": "Tripping Staff (Combat)"
  },
  {
+  "id": "pf1e/mythic-tripping-staff",
+  "name": "Mythic Tripping Staff",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Tripping Staff UM .",
+  "source": "Mythic Adventures pg. 75",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Tripping%20Staff",
+  "summary": "You add half your tier to CMD against trip maneuvers and on combat maneuver checks to trip with a quarterstaff.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Tripping Staff"
+ },
+ {
   "id": "pf1e/tripping-strike-combat",
   "name": "Tripping Strike",
   "system": "Pathfinder 1e",
@@ -66042,6 +68022,21 @@
   "ref": "Turn Undead"
  },
  {
+  "id": "pf1e/mythic-turn-undead",
+  "name": "Mythic Turn Undead",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Turn Undead.",
+  "source": "Mythic Adventures pg. 75",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Turn%20Undead",
+  "summary": "When you use Turn Undead, the range increases by 10 feet per tier, and non-mythic undead take a penalty on their saving throws equal to your tier.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Turn Undead"
+ },
+ {
   "id": "pf1e/twilight-tattoo",
   "name": "Twilight Tattoo",
   "system": "Pathfinder 1e",
@@ -66253,6 +68248,21 @@
   "ref": "Two-Weapon Defense (Combat)"
  },
  {
+  "id": "pf1e/mythic-two-weapon-defense",
+  "name": "Mythic Two-Weapon Defense",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Two-Weapon Defense.",
+  "source": "Mythic Adventures pg. 76",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Two-Weapon%20Defense",
+  "summary": "When using Two-Weapon Defense, you apply the highest enhancement bonus from your two weapons to the shield bonus granted by that feat.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Two-Weapon Defense"
+ },
+ {
   "id": "pf1e/two-weapon-drunkard-combat",
   "name": "Two-Weapon Drunkard",
   "system": "Pathfinder 1e",
@@ -66311,6 +68321,21 @@
   "summary": "If you hit an opponent with both your primary hand and your off-hand weapon, you deal an additional 1d10 points of damage plus 1-1/2 times your Strength…",
   "file": "pf1e/feats.json",
   "ref": "Two-Weapon Rend (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-two-weapon-rend",
+  "name": "Mythic Two-Weapon Rend",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Two-Weapon Rend.",
+  "source": "Mythic Adventures pg. 76",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Two-Weapon%20Rend",
+  "summary": "The damage of your Two-Weapon Rend increases to 2d8 points plus twice your Strength modifier.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Two-Weapon Rend"
  },
  {
   "id": "pf1e/ultimate-mercy",
@@ -66628,6 +68653,21 @@
   "ref": "Undead Master"
  },
  {
+  "id": "pf1e/mythic-undead-master",
+  "name": "Mythic Undead Master",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Undead Master UM .",
+  "source": "Mythic Adventures pg. 76",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Undead%20Master",
+  "summary": "When you cast animate dead or use the Command Undead feat, add your tier to your caster level when determining the number of Hit Dice of undead you animate.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Undead Master"
+ },
+ {
   "id": "pf1e/under-and-over-combat",
   "name": "Under and Over",
   "system": "Pathfinder 1e",
@@ -66943,6 +68983,21 @@
   "summary": "When charging an opponent while mounted and wielding a lance, resolve the attack as normal.",
   "file": "pf1e/feats.json",
   "ref": "Unseat (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-unseat",
+  "name": "Mythic Unseat",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Unseat.",
+  "source": "Mythic Adventures pg. 76",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Unseat",
+  "summary": "When you successfully bull rush an opponent off his mount with Unseat, your opponent takes 1d6 points of falling damage per 2 tiers you possess.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Unseat"
  },
  {
   "id": "pf1e/unseen-poison",
@@ -67898,6 +69953,21 @@
   "ref": "Voice of the Sibyl"
  },
  {
+  "id": "pf1e/mythic-voice-of-the-sibyl",
+  "name": "Mythic Voice of the Sibyl",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Voice of the Sibyl UM .",
+  "source": "Mythic Adventures pg. 77",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Voice%20of%20the%20Sibyl",
+  "summary": "You gain a +1 bonus on all Bluff, Diplomacy, and Perform (oratory) skill checks for every 3 tiers you possess.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Voice of the Sibyl"
+ },
+ {
   "id": "pf1e/volley-fire-combat-teamwork",
   "name": "Volley Fire",
   "system": "Pathfinder 1e",
@@ -68139,6 +70209,21 @@
   "ref": "Warrior Priest"
  },
  {
+  "id": "pf1e/mythic-warrior-priest",
+  "name": "Mythic Warrior Priest",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Warrior Priest UM .",
+  "source": "Mythic Adventures pg. 77",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Warrior%20Priest",
+  "summary": "You gain a bonus equal to half your tier both on initiative checks and on concentration checks to cast a spell or use a spell-like ability when casting…",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Warrior Priest"
+ },
+ {
   "id": "pf1e/wary-smuggler",
   "name": "Wary Smuggler",
   "system": "Pathfinder 1e",
@@ -68311,12 +70396,27 @@
    "Combat"
   ],
   "spheres": [],
-  "prerequisites": "Weapon Finesse.",
+  "prerequisites": "",
   "source": "PRPG Core Rulebook pg. 136",
   "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Finesse",
   "summary": "With a light weapon, rapier, whip, or spiked chain made for a creature of your size category, you may use your Dexterity modifier instead of your Strength…",
   "file": "pf1e/feats.json",
   "ref": "Weapon Finesse (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-weapon-finesse",
+  "name": "Mythic Weapon Finesse",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Weapon Finesse.",
+  "source": "Mythic Adventures pg. 77",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Finesse",
+  "summary": "When using Weapon Finesse, you may also use your Dexterity modifier instead of your Strength modifier on your damage rolls.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Weapon Finesse"
  },
  {
   "id": "pf1e/weapon-material-mastery-weapon-mastery",
@@ -68362,6 +70462,21 @@
   "summary": "You gain a +2 bonus on all damage rolls you make using the selected weapon.",
   "file": "pf1e/feats.json",
   "ref": "Weapon Specialization (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-weapon-specialization",
+  "name": "Mythic Weapon Specialization",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Weapon Specialization.",
+  "source": "Mythic Adventures pg. 77",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Specialization",
+  "summary": "When using your chosen weapon, you gain a bonus equal to half your tier on damage rolls.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Weapon Specialization"
  },
  {
   "id": "pf1e/weapon-style-mastery-style-weapon-mastery",
@@ -68979,6 +71094,21 @@
   "summary": "Each day, when you prepare your spells, you can select a masterwork or magical dagger, transforming it into a witch knife, which serves as an additional focus…",
   "file": "pf1e/feats.json",
   "ref": "Witch Knife"
+ },
+ {
+  "id": "pf1e/mythic-witch-knife",
+  "name": "Mythic Witch Knife",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Witch Knife UM .",
+  "source": "Mythic Adventures pg. 77",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Witch%20Knife",
+  "summary": "You can use your witch knife as an additional focus component for all your witch spells, not just your patron spells, adding 1 to their DC.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Witch Knife"
  },
  {
   "id": "pf1e/witchbreaker-combat",
