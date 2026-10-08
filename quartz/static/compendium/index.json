@@ -1,0 +1,1062 @@
+[
+ {
+  "id": "dark/cloak",
+  "name": "Cloak",
+  "kind": "sphere ability",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark#cloak",
+  "options": [
+   "Darkvision"
+  ],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/gloom",
+  "name": "Gloom",
+  "kind": "sphere ability",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark#gloom",
+  "options": [],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/clinging-darkness",
+  "name": "Clinging Darkness",
+  "kind": "talent",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Dark Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark#clinging-darkness",
+  "options": [
+   "Following Darkness",
+   "Lingering Darkness",
+   "Shadowing Darkness"
+  ],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/darkness-mastery",
+  "name": "Darkness Mastery",
+  "kind": "talent",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Dark Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark#darkness-mastery",
+  "options": [
+   "Dual Darkness",
+   "Greater Darkness",
+   "Imbued Shadow",
+   "Shadow Strike"
+  ],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/mass-darkness",
+  "name": "Mass Darkness",
+  "kind": "talent",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Dark Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark#mass-darkness",
+  "options": [
+   "Dappled Shadows",
+   "Mass Cloak"
+  ],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/rapid-darkness",
+  "name": "Rapid Darkness",
+  "kind": "talent",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Dark Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark#rapid-darkness",
+  "options": [
+   "Gloom Burst",
+   "Rapid Cloak"
+  ],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/refined-darkness",
+  "name": "Refined Darkness",
+  "kind": "talent",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Dark Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark#refined-darkness",
+  "options": [
+   "Instill Darkness",
+   "Gathered Darkness",
+   "Ranged Darkness"
+  ],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/shadow-stash",
+  "name": "Shadow Stash",
+  "kind": "talent",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Dark Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark#shadow-stash",
+  "options": [
+   "Shadow Stash"
+  ],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/shaped-darkness",
+  "name": "Shaped Darkness",
+  "kind": "talent",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Dark Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark#shaped-darkness",
+  "options": [
+   "Rolling Blackout",
+   "Shifting Shadows",
+   "Wall Of Darkness"
+  ],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/cloaking-darkness-meld-shadow",
+  "name": "Cloaking Darkness",
+  "kind": "talent",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Cloak and Gloom Talents",
+  "tags": [
+   "meld",
+   "shadow"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark#cloaking-darkness-meld-shadow",
+  "options": [
+   "Concealing Shadows",
+   "Obfuscation",
+   "Shadowed Mien"
+  ],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/debilitating-darkness-blot-darkness",
+  "name": "Debilitating Darkness",
+  "kind": "talent",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Cloak and Gloom Talents",
+  "tags": [
+   "blot",
+   "darkness"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark#debilitating-darkness-blot-darkness",
+  "options": [
+   "Consuming Darkness",
+   "Looming Darkness"
+  ],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/deeper-darkness-darkness-shadow",
+  "name": "Deeper Darkness",
+  "kind": "talent",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Cloak and Gloom Talents",
+  "tags": [
+   "darkness",
+   "shadow"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark#deeper-darkness-darkness-shadow",
+  "options": [
+   "Blinding Shadow",
+   "Clearsight",
+   "Dampen Light",
+   "Extinguish",
+   "True Darkness"
+  ],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/distorting-darkness-darkness",
+  "name": "Distorting Darkness",
+  "kind": "talent",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Cloak and Gloom Talents",
+  "tags": [
+   "darkness"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark#distorting-darkness-darkness",
+  "options": [
+   "Directional Darkness",
+   "Disorienting Darkness"
+  ],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/emotive-darkness-blot-darkness",
+  "name": "Emotive Darkness",
+  "kind": "talent",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Cloak and Gloom Talents",
+  "tags": [
+   "blot",
+   "darkness"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark#emotive-darkness-blot-darkness",
+  "options": [
+   "Evocative Darkness",
+   "Lethargic Darkness"
+  ],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/hindering-darkness-blot-shadow",
+  "name": "Hindering Darkness",
+  "kind": "talent",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Cloak and Gloom Talents",
+  "tags": [
+   "blot",
+   "shadow"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark#hindering-darkness-blot-shadow",
+  "options": [
+   "Grasping Darkness",
+   "Shadow Anchor",
+   "Slickened Shadows"
+  ],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/killers-darkness-blot-darkness-meld",
+  "name": "Killer’s Darkness",
+  "kind": "talent",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Cloak and Gloom Talents",
+  "tags": [
+   "blot",
+   "darkness",
+   "meld"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark#killers-darkness-blot-darkness-meld",
+  "options": [
+   "Dark Slaughter",
+   "Edge Of Night",
+   "Sickening Darkness"
+  ],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/living-darkness-shadow",
+  "name": "Living Darkness",
+  "kind": "talent",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Cloak and Gloom Talents",
+  "tags": [
+   "shadow"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark#living-darkness-shadow",
+  "options": [
+   "Dark Calling",
+   "Lurking Shadow"
+  ],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/manifest-darkness-darkness-meld-shadow",
+  "name": "Manifest Darkness",
+  "kind": "talent",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Cloak and Gloom Talents",
+  "tags": [
+   "darkness",
+   "meld",
+   "shadow"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark#manifest-darkness-darkness-meld-shadow",
+  "options": [
+   "Clotting Shadows",
+   "Manifested Shadows",
+   "Thick Darkness"
+  ],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/stalkers-darkness-blot-darkness-meld-shadow",
+  "name": "Stalker’s Darkness",
+  "kind": "talent",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Cloak and Gloom Talents",
+  "tags": [
+   "blot",
+   "darkness",
+   "meld",
+   "shadow"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark#stalkers-darkness-blot-darkness-meld-shadow",
+  "options": [
+   "Hide In Darkness",
+   "Shadow Tag",
+   "Silent Darkness",
+   "Voidwatcher"
+  ],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/travelers-darkness-blot-meld",
+  "name": "Traveler’s Darkness",
+  "kind": "talent",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Cloak and Gloom Talents",
+  "tags": [
+   "blot",
+   "meld"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark#travelers-darkness-blot-meld",
+  "options": [
+   "Dark Passage",
+   "Step Through Darkness"
+  ],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/tricksters-darkness-meld",
+  "name": "Trickster’s Darkness",
+  "kind": "talent",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Cloak and Gloom Talents",
+  "tags": [
+   "meld"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark#tricksters-darkness-meld",
+  "options": [
+   "Flowing Darkness",
+   "Fluid Silhouette",
+   "Insinuate",
+   "Sinister Surprise",
+   "Tenebrous Legerdemain"
+  ],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/absolute-darkness-darkness",
+  "name": "Absolute Darkness",
+  "kind": "advanced talent",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Advanced Dark Talents",
+  "tags": [
+   "darkness"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark#absolute-darkness-darkness",
+  "options": [
+   "Lightless Penumbra",
+   "Greater Meld",
+   "Midnight",
+   "Pitch Black",
+   "Zero Visibility"
+  ],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/deadly-darkness-blot-darkness",
+  "name": "Deadly Darkness",
+  "kind": "advanced talent",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Advanced Dark Talents",
+  "tags": [
+   "blot",
+   "darkness"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark#deadly-darkness-blot-darkness",
+  "options": [
+   "Crushing Singularity",
+   "Directional Opportunism",
+   "Inescapable Darkness",
+   "Nightshade",
+   "Panic Inducing",
+   "Solid Night",
+   "Stifling Silence",
+   "Total Debilitation"
+  ],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/eternal-darkness",
+  "name": "Eternal Darkness",
+  "kind": "advanced talent",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Advanced Dark Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark#eternal-darkness",
+  "options": [
+   "Boundless Lurkers",
+   "Permanent Darkness",
+   "Shadow Tag, Endless Shadow",
+   "Shadow Tag, Eternal Stain"
+  ],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/living-darkness-mastery-shadow",
+  "name": "Living Darkness Mastery",
+  "kind": "advanced talent",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Advanced Dark Talents",
+  "tags": [
+   "shadow"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark#living-darkness-mastery-shadow",
+  "options": [
+   "Lurking Shadow, Improved",
+   "Shadow Double"
+  ],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/master-of-shadows-shadow",
+  "name": "Master Of Shadows",
+  "kind": "advanced talent",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Advanced Dark Talents",
+  "tags": [
+   "shadow"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark#master-of-shadows-shadow",
+  "options": [
+   "Advanced Shadow Limbs",
+   "Shadow Actualization",
+   "Shadow Arsenal",
+   "Shadow Walk"
+  ],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/one-with-darkness",
+  "name": "One With Darkness",
+  "kind": "advanced talent",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Advanced Dark Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark#one-with-darkness",
+  "options": [
+   "Black Morality",
+   "Blaggard",
+   "Form Of Darkness",
+   "Obfuscation, Improved",
+   "Vanish Into Darkness"
+  ],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/stygian-darkness-blot-meld",
+  "name": "Stygian Darkness",
+  "kind": "advanced talent",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Advanced Dark Talents",
+  "tags": [
+   "blot",
+   "meld"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark#stygian-darkness-blot-meld",
+  "options": [
+   "Conjured Depths",
+   "Umbral Swimmer"
+  ],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/aura-of-mystery",
+  "name": "Aura of Mystery",
+  "kind": "feat",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#aura-of-mystery",
+  "options": [],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/blackened-terrain-defiler-drawback",
+  "name": "Blackened Terrain",
+  "kind": "feat",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [
+   "Defiler",
+   "Drawback"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#blackened-terrain-defiler-drawback",
+  "options": [],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/dark-portal",
+  "name": "Dark Portal",
+  "kind": "feat",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#dark-portal",
+  "options": [],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/shadow-boxer-combat",
+  "name": "Shadow Boxer",
+  "kind": "feat",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#shadow-boxer-combat",
+  "options": [],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/shadow-feast",
+  "name": "Shadow Feast",
+  "kind": "feat",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#shadow-feast",
+  "options": [],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/shadow-lurk-expert",
+  "name": "Shadow Lurk Expert",
+  "kind": "feat",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#shadow-lurk-expert",
+  "options": [],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/dark-monuments-dual-sphere",
+  "name": "Dark Monuments",
+  "kind": "feat",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Dual Sphere Feats",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#dark-monuments-dual-sphere",
+  "options": [],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/ecliptic-transformation-dual-sphere",
+  "name": "Ecliptic Transformation",
+  "kind": "feat",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Dual Sphere Feats",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#ecliptic-transformation-dual-sphere",
+  "options": [],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/guarding-dark-dual-sphere",
+  "name": "Guarding Dark",
+  "kind": "feat",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Dual Sphere Feats",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#guarding-dark-dual-sphere",
+  "options": [],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/minions-of-the-deathlord-dual-sphere",
+  "name": "Minions of the Deathlord",
+  "kind": "feat",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Dual Sphere Feats",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#minions-of-the-deathlord-dual-sphere",
+  "options": [],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/night-sky-dual-sphere",
+  "name": "Night Sky",
+  "kind": "feat",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Dual Sphere Feats",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#night-sky-dual-sphere",
+  "options": [],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/nightmare-caller-dual-sphere",
+  "name": "Nightmare Caller",
+  "kind": "feat",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Dual Sphere Feats",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#nightmare-caller-dual-sphere",
+  "options": [
+   "Darkveil"
+  ],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/paranoia-agent-dual-sphere",
+  "name": "Paranoia Agent",
+  "kind": "feat",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Dual Sphere Feats",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#paranoia-agent-dual-sphere",
+  "options": [
+   "Memory Hole"
+  ],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/seeing-shadows-dual-sphere",
+  "name": "Seeing Shadows",
+  "kind": "feat",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Dual Sphere Feats",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#seeing-shadows-dual-sphere",
+  "options": [],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/shadow-defender-champion-combat-dual-sphere",
+  "name": "Shadow Defender",
+  "kind": "feat",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Dual Sphere Feats",
+  "tags": [
+   "Champion",
+   "Combat",
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#shadow-defender-champion-combat-dual-sphere",
+  "options": [],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/umbral-transposition-dual-sphere",
+  "name": "Umbral Transposition",
+  "kind": "feat",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Dual Sphere Feats",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#umbral-transposition-dual-sphere",
+  "options": [],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/twilight-adept-teamwork",
+  "name": "Twilight Adept",
+  "kind": "feat",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "Teamwork Feats",
+  "tags": [
+   "Teamwork"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#twilight-adept-teamwork",
+  "options": [],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/black-spot",
+  "name": "Black Spot",
+  "kind": "drawback",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark-Sphere-Drawbacks#black-spot",
+  "options": [],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/contact-dark",
+  "name": "Contact Dark",
+  "kind": "drawback",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark-Sphere-Drawbacks#contact-dark",
+  "options": [],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/darkness-speciality",
+  "name": "Darkness Speciality",
+  "kind": "drawback",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark-Sphere-Drawbacks#darkness-speciality",
+  "options": [],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/light-fearing",
+  "name": "Light Fearing",
+  "kind": "drawback",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark-Sphere-Drawbacks#light-fearing",
+  "options": [],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/personal-darkness",
+  "name": "Personal Darkness",
+  "kind": "drawback",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark-Sphere-Drawbacks#personal-darkness",
+  "options": [],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/selective-melding",
+  "name": "Selective Melding",
+  "kind": "drawback",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark-Sphere-Drawbacks#selective-melding",
+  "options": [],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/singular-shade",
+  "name": "Singular Shade",
+  "kind": "drawback",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark-Sphere-Drawbacks#singular-shade",
+  "options": [],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/shadowed-brew",
+  "name": "Shadowed Brew",
+  "kind": "drawback",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark-Sphere-Drawbacks#shadowed-brew",
+  "options": [],
+  "file": "dark.json",
+  "approved": false
+ },
+ {
+  "id": "dark/shadowy-storage-utility-start",
+  "name": "Shadowy Storage",
+  "kind": "drawback",
+  "sphere": "Dark",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [
+   "utility start"
+  ],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Dark/Dark-Sphere-Drawbacks#shadowy-storage-utility-start",
+  "options": [],
+  "file": "dark.json",
+  "approved": false
+ }
+]

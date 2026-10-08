@@ -2293,6 +2293,188 @@ HEADING_LEVEL_FIXES = {
 }
 
 
+# --------------------------------------------------------------------------- compendium
+# Structured data for the site's tools (Character Builder, Item Crafter, ...), extracted from the
+# finished pages: quartz/static/compendium/index.json (every entry, light) + <sphere>.json (full).
+# Each sphere has a map saying which page sections hold entries of which kind; everything else on
+# the page (packages' rules text, tag rules, tables, optional rules, appendices) is left out.
+# A sphere's entries are marked approved once its review page (Meta/Compendium Review) checks out.
+COMPENDIUM_OUT = ROOT / "quartz" / "static" / "compendium"
+COMPENDIUM_REVIEW = "Meta/Compendium Review"
+COMPENDIUM = {
+    "Dark": {
+        "system": "Spheres of Power",
+        "approved": False,
+        "pages": [
+            # (page, section heading, kind, entry heading level[, option heading level]); options are
+            # one level deeper unless given
+            ("Dark", "Cloak", "sphere ability", 2, 4),
+            ("Dark", "Gloom", "sphere ability", 2),
+            ("Dark", "Dark Talents", "talent", 3),
+            ("Dark", "Cloak and Gloom Talents", "talent", 3),
+            ("Dark", "Advanced Dark Talents", "advanced talent", 3),
+            ("Dark Sphere Feats", "(page)", "feat", 4),
+            ("Dark Sphere Drawbacks", "(page)", "drawback", 4),
+        ],
+        # headings that are notes inside an entry, not options of it
+        "not_options": r"^Rules Clarification|^Table|Stat Block$|^Emotion Effects$",
+    },
+}
+
+
+def _slugger():
+    """Heading ids as Quartz makes them (github-slugger): duplicates get -1, -2, ..."""
+    seen: dict[str, int] = {}
+
+    def slug(text: str) -> str:
+        s = re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1", text)
+        s = re.sub(r"[*_`]", "", s).strip().lower().replace("’", "")
+        s = re.sub(r"[^\w\- ]", "", s).replace(" ", "-")
+        n = seen.get(s, 0)
+        seen[s] = n + 1
+        return s if n == 0 else f"{s}-{n}"
+    return slug
+
+
+def _split_tags(heading: str) -> tuple[str, list[str], list[str]]:
+    """'Shadow Tag (blot, darkness, shadow) [utility]' -> ('Shadow Tag', ['blot', ...], ['utility'])."""
+    text = re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1", heading).strip()
+    brackets = re.findall(r"\[([^\]]+)\]", text)
+    text = re.sub(r"\s*\[[^\]]+\]", "", text).strip()
+    parens: list[str] = []
+    while (m := re.search(r"\s*\(([^()]*)\)$", text)):
+        parens = [p.strip() for p in m.group(1).split(",")] + parens
+        text = text[:m.start()].strip()
+    return text, parens, [b.strip() for b in brackets]
+
+
+def _page_url(f: Path) -> str:
+    rel = f.relative_to(CONTENT).with_suffix("").as_posix()
+    return re.sub(r"\s", "-", rel)
+
+
+def build_compendium() -> dict[str, int]:
+    files = {f.stem: f for f in CONTENT.rglob("*.md") if ARCHIVE not in f.relative_to(CONTENT).parts}
+    COMPENDIUM_OUT.mkdir(parents=True, exist_ok=True)
+    index, counts = [], {}
+    for sphere, cfg in COMPENDIUM.items():
+        not_option = re.compile(cfg.get("not_options", r"^$"))
+        entries = []
+        parsed: dict[str, tuple[list[str], list[str], str]] = {}  # page -> (lines, heading ids, source)
+        for page, section, kind, level, *olevel in cfg["pages"]:
+            olevel = olevel[0] if olevel else level + 1
+            f = files.get(page)
+            if not f:
+                print(f"warning: compendium {sphere}: no page {page!r}")
+                continue
+            if page not in parsed:
+                body = f.read_text(encoding="utf-8").split(GENERATED_MARK, 1)[-1]
+                lines = body.split("\n")
+                slug = _slugger()
+                ids = [slug(m.group(2)) if (m := re.match(r"(#{1,6}) (.+)$", l)) else "" for l in lines]
+                src = re.search(r"^\*Source: \[([^\]]+)\]", body, re.M)
+                parsed[page] = (lines, ids, src.group(1) if src else "")
+            lines, ids, page_source = parsed[page]
+            span = _section_span(lines, section)
+            if span is None:
+                print(f"warning: compendium {sphere}: no section {section!r} on {page}")
+                continue
+            start, end, slevel = span
+            # a section that is itself the entry (a sphere ability): its heading level == level
+            heads = [k for k in range(start + 1 if slevel != level else start, end)
+                     if (m := re.match(r"(#{1,6}) ", lines[k])) and len(m.group(1)) == level]
+            for n, k in enumerate(heads):
+                # entries end at the next heading of their level or higher (or the section's end)
+                stop = next((j for j in range(k + 1, end) if (m := re.match(r"(#{1,6}) ", lines[j]))
+                             and len(m.group(1)) <= level), end)
+                group = section if slevel < level and section != "(page)" else ""
+                for j in range(k - 1, start, -1):  # feats pages: the "## Dual Sphere Feats" group
+                    if (m := re.match(r"(#{1,6}) (.+)$", lines[j])) and len(m.group(1)) < level:
+                        group = m.group(2).strip()
+                        break
+                source = page_source
+                for j in range(k, start, -1):
+                    if (s := re.match(r"^\*Source: \[([^\]]+)\]", lines[j])):
+                        source = s.group(1)
+                        break
+                name, tags, kinds = _split_tags(lines[k].lstrip("#"))
+                opts_at = [j for j in range(k + 1, stop) if (m := re.match(r"(#{1,6}) (.+)$", lines[j]))
+                           and len(m.group(1)) == olevel and not not_option.search(m.group(2).strip())]
+                intro_end = opts_at[0] if opts_at else stop
+                options = []
+                for i, j in enumerate(opts_at):
+                    oend = next((x for x in range(j + 1, stop) if (m := re.match(r"(#{1,6}) ", lines[x]))
+                                 and len(m.group(1)) <= olevel and not not_option.search(lines[x].lstrip("# "))),
+                                stop)
+                    oname, otags, okinds = _split_tags(lines[j].lstrip("#"))
+                    options.append({"name": oname, "tags": otags, "talentTags": okinds,
+                                    "anchor": ids[j], "md": "\n".join(lines[j + 1:oend]).strip()})
+                intro = "\n".join(lines[k + 1:intro_end]).strip()
+                prereq = re.search(r"\*\*Prerequisites?:\*\*\s*(.+)", "\n".join(lines[k + 1:stop]))
+                entry = {
+                    "id": f"{_norm(sphere).replace(' ', '-')}/{ids[k]}",
+                    "name": name,
+                    "kind": kind,
+                    "sphere": sphere,
+                    "system": cfg["system"],
+                    "group": group,
+                    "tags": tags,
+                    "talentTags": kinds,
+                    "prerequisites": prereq.group(1).strip() if prereq else "",
+                    "source": source,
+                    "status": "current",
+                    "url": f"{_page_url(files[page])}#{ids[k]}",
+                    "md": intro,
+                    "options": options,
+                }
+                entries.append(entry)
+        counts[sphere] = len(entries)
+        key = _norm(sphere).replace(" ", "-")
+        (COMPENDIUM_OUT / f"{key}.json").write_text(
+            json.dumps({"sphere": sphere, "system": cfg["system"], "approved": cfg["approved"], "entries": entries},
+                       ensure_ascii=False, indent=1), encoding="utf-8")
+        index += [{k: e[k] for k in ("id", "name", "kind", "sphere", "system", "group", "tags", "talentTags",
+                                     "source", "status", "url")} | {"options": [o["name"] for o in e["options"]],
+                                                                     "file": f"{key}.json",
+                                                                     "approved": cfg["approved"]}
+                  for e in entries]
+        write_compendium_review(sphere, cfg, entries)
+    (COMPENDIUM_OUT / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=1), encoding="utf-8")
+    return counts
+
+
+def write_compendium_review(sphere: str, cfg: dict, entries: list[dict]) -> None:
+    """Meta/Compendium Review/<sphere>.md: what the extractor took from the pages, for checking."""
+    kinds: dict[str, list[dict]] = {}
+    for e in entries:
+        kinds.setdefault(e["kind"], []).append(e)
+    out = [f"---\ntitle: {yaml_str('Compendium Review: ' + sphere)}\nnosearch: true\n---\n{GENERATED_MARK}\n",
+           f"What the compendium extractor takes from the {sphere} pages ({len(entries)} entries; "
+           f"{'approved' if cfg['approved'] else '**not yet approved**'}). Each name links to the entry on its "
+           "page. Anything missing here, or listed here that isn't a real entry, means the sphere's map needs a "
+           "change.", ""]
+    for kind, es in kinds.items():
+        plural = kind[:-1] + "ies" if kind.endswith("y") else kind + "s"
+        out += [f"## {plural.title()} ({len(es)})", "",
+                "| Entry | Group | Tags | Options | Prerequisites | Source |", "| --- | --- | --- | --- | --- | --- |"]
+        for e in es:
+            url = e["url"].replace(" ", "-")
+            page, anchor = url.split("#", 1)
+            name = f"[[{page.split('/')[-1]}#{anchor}|{e['name']}]]".replace("|", "\\|")
+            tags = ", ".join([f"({t})" for t in e["tags"]] + [f"[{t}]" for t in e["talentTags"]])
+            opts = ", ".join(o["name"] + "".join(f" ({t})" for t in o["tags"]) + "".join(f" [{t}]" for t in o["talentTags"])
+                             for o in e["options"])
+            cell = lambda s: s.replace("|", "\\|").replace("\n", " ")
+            out.append(f"| {name} | {cell(e['group'])} | {cell(tags)} | {cell(opts) or '—'} | "
+                       f"{cell(e['prerequisites'][:120]) or '—'} | {cell(e['source'])} |")
+        out.append("")
+    # "(Compendium Review)" keeps the note name unique: a page named just "Dark" would make every
+    # [[Dark]] link on the site ambiguous
+    dest = CONTENT / COMPENDIUM_REVIEW / f"{sphere} (Compendium Review).md"
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    dest.write_text("\n".join(out), encoding="utf-8")
+
+
 def tag_archetype_pages() -> int:
     """Every page in the archetype column of the home Classes tables gets `searchtype: Archetypes`
     (the search page's Type filter), whatever its name or folder."""
@@ -3367,6 +3549,7 @@ def convert(with_images: bool) -> None:
     write_link_families(pages, derived_notes)
     print(f"Retired Ultimate: {len(retired)} pages")
     print(f"Archetype pages tagged for search: {tag_archetype_pages()}")
+    print(f"Compendium entries: {build_compendium()}")
 
     # folders emptied by exclusions or renames
     for d in sorted((d for d in CONTENT.rglob("*") if d.is_dir()), key=lambda d: -len(d.parts)):
