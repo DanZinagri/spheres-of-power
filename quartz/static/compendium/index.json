@@ -15,7 +15,7 @@
    "Darkvision"
   ],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/gloom",
@@ -31,7 +31,7 @@
   "url": "Spheres-Of-Power/Dark/Dark#gloom",
   "options": [],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/clinging-darkness",
@@ -51,7 +51,7 @@
    "Shadowing Darkness"
   ],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/darkness-mastery",
@@ -72,7 +72,7 @@
    "Shadow Strike"
   ],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/mass-darkness",
@@ -91,7 +91,7 @@
    "Mass Cloak"
   ],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/rapid-darkness",
@@ -110,7 +110,7 @@
    "Rapid Cloak"
   ],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/refined-darkness",
@@ -130,7 +130,7 @@
    "Ranged Darkness"
   ],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/shadow-stash",
@@ -148,7 +148,7 @@
    "Shadow Stash"
   ],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/shaped-darkness",
@@ -168,7 +168,7 @@
    "Wall Of Darkness"
   ],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/cloaking-darkness-meld-shadow",
@@ -191,7 +191,7 @@
    "Shadowed Mien"
   ],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/debilitating-darkness-blot-darkness",
@@ -213,7 +213,7 @@
    "Looming Darkness"
   ],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/deeper-darkness-darkness-shadow",
@@ -238,7 +238,7 @@
    "True Darkness"
   ],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/distorting-darkness-darkness",
@@ -259,7 +259,7 @@
    "Disorienting Darkness"
   ],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/emotive-darkness-blot-darkness",
@@ -281,7 +281,7 @@
    "Lethargic Darkness"
   ],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/hindering-darkness-blot-shadow",
@@ -304,7 +304,7 @@
    "Slickened Shadows"
   ],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/killers-darkness-blot-darkness-meld",
@@ -328,7 +328,7 @@
    "Sickening Darkness"
   ],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/living-darkness-shadow",
@@ -349,7 +349,7 @@
    "Lurking Shadow"
   ],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/manifest-darkness-darkness-meld-shadow",
@@ -373,7 +373,7 @@
    "Thick Darkness"
   ],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/stalkers-darkness-blot-darkness-meld-shadow",
@@ -399,7 +399,7 @@
    "Voidwatcher"
   ],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/travelers-darkness-blot-meld",
@@ -421,7 +421,7 @@
    "Step Through Darkness"
   ],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/tricksters-darkness-meld",
@@ -445,7 +445,7 @@
    "Tenebrous Legerdemain"
   ],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/absolute-darkness-darkness",
@@ -469,7 +469,7 @@
    "Zero Visibility"
   ],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/deadly-darkness-blot-darkness",
@@ -497,7 +497,7 @@
    "Total Debilitation"
   ],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/eternal-darkness",
@@ -518,7 +518,7 @@
    "Shadow Tag, Eternal Stain"
   ],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/living-darkness-mastery-shadow",
@@ -539,7 +539,7 @@
    "Shadow Double"
   ],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/master-of-shadows-shadow",
@@ -562,7 +562,7 @@
    "Shadow Walk"
   ],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/one-with-darkness",
@@ -584,7 +584,7 @@
    "Vanish Into Darkness"
   ],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/stygian-darkness-blot-meld",
@@ -606,7 +606,7 @@
    "Umbral Swimmer"
   ],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/aura-of-mystery",
@@ -622,7 +622,7 @@
   "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#aura-of-mystery",
   "options": [],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/blackened-terrain-defiler-drawback",
@@ -641,7 +641,7 @@
   "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#blackened-terrain-defiler-drawback",
   "options": [],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/dark-portal",
@@ -657,7 +657,7 @@
   "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#dark-portal",
   "options": [],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/shadow-boxer-combat",
@@ -675,7 +675,7 @@
   "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#shadow-boxer-combat",
   "options": [],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/shadow-feast",
@@ -691,7 +691,7 @@
   "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#shadow-feast",
   "options": [],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/shadow-lurk-expert",
@@ -707,7 +707,7 @@
   "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#shadow-lurk-expert",
   "options": [],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/dark-monuments-dual-sphere",
@@ -725,7 +725,7 @@
   "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#dark-monuments-dual-sphere",
   "options": [],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/ecliptic-transformation-dual-sphere",
@@ -743,7 +743,7 @@
   "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#ecliptic-transformation-dual-sphere",
   "options": [],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/guarding-dark-dual-sphere",
@@ -761,7 +761,7 @@
   "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#guarding-dark-dual-sphere",
   "options": [],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/minions-of-the-deathlord-dual-sphere",
@@ -779,7 +779,7 @@
   "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#minions-of-the-deathlord-dual-sphere",
   "options": [],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/night-sky-dual-sphere",
@@ -797,7 +797,7 @@
   "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#night-sky-dual-sphere",
   "options": [],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/nightmare-caller-dual-sphere",
@@ -817,7 +817,7 @@
    "Darkveil"
   ],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/paranoia-agent-dual-sphere",
@@ -837,7 +837,7 @@
    "Memory Hole"
   ],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/seeing-shadows-dual-sphere",
@@ -855,7 +855,7 @@
   "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#seeing-shadows-dual-sphere",
   "options": [],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/shadow-defender-champion-combat-dual-sphere",
@@ -875,7 +875,7 @@
   "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#shadow-defender-champion-combat-dual-sphere",
   "options": [],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/umbral-transposition-dual-sphere",
@@ -893,7 +893,7 @@
   "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#umbral-transposition-dual-sphere",
   "options": [],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/twilight-adept-teamwork",
@@ -911,7 +911,7 @@
   "url": "Spheres-Of-Power/Dark/Dark-Sphere-Feats#twilight-adept-teamwork",
   "options": [],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/black-spot",
@@ -927,7 +927,7 @@
   "url": "Spheres-Of-Power/Dark/Dark-Sphere-Drawbacks#black-spot",
   "options": [],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/contact-dark",
@@ -943,7 +943,7 @@
   "url": "Spheres-Of-Power/Dark/Dark-Sphere-Drawbacks#contact-dark",
   "options": [],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/darkness-speciality",
@@ -959,7 +959,7 @@
   "url": "Spheres-Of-Power/Dark/Dark-Sphere-Drawbacks#darkness-speciality",
   "options": [],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/light-fearing",
@@ -975,7 +975,7 @@
   "url": "Spheres-Of-Power/Dark/Dark-Sphere-Drawbacks#light-fearing",
   "options": [],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/personal-darkness",
@@ -991,7 +991,7 @@
   "url": "Spheres-Of-Power/Dark/Dark-Sphere-Drawbacks#personal-darkness",
   "options": [],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/selective-melding",
@@ -1007,7 +1007,7 @@
   "url": "Spheres-Of-Power/Dark/Dark-Sphere-Drawbacks#selective-melding",
   "options": [],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/singular-shade",
@@ -1023,7 +1023,7 @@
   "url": "Spheres-Of-Power/Dark/Dark-Sphere-Drawbacks#singular-shade",
   "options": [],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/shadowed-brew",
@@ -1039,7 +1039,7 @@
   "url": "Spheres-Of-Power/Dark/Dark-Sphere-Drawbacks#shadowed-brew",
   "options": [],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "dark/shadowy-storage-utility-start",
@@ -1057,6 +1057,6 @@
   "url": "Spheres-Of-Power/Dark/Dark-Sphere-Drawbacks#shadowy-storage-utility-start",
   "options": [],
   "file": "dark.json",
-  "approved": false
+  "approved": true
  }
 ]

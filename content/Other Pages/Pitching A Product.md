@@ -9,7 +9,6 @@ So, you're interested in pitching a product to Drop Dead Studios? You can contac
 
 | Class | Archetypes |
 | --- | --- |
-| **What sort of content do you want to write for DDS?** | Different people write different sorts of things. For example, some people focus on content for Spheres of Might, while others focus on expanding existing systems and making magic items. Some authors are fully capable of writing many different types of content, but having an interest and an objective with your writing helps. It's okay to write different things later, but try to limit your initial pitch to a single idea for a product. The [[Creating New Spheres]] page has some information about making that type of content. Include the product type you want to write, as described below, in your answer for this. |
 
 ---
 

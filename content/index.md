@@ -24,7 +24,7 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 **Champions of the Spheres** focuses on content that blends multiple systems together (such as a character who gains both martial and magical talents). Champion content uses green links.
 
-**Citations Guide:** [Apoc] is used to mark Spheres Apocrypha, which are small, official releases. [CS] is used to mark Champions of the Spheres content (whether from that book or not) in areas where it may not be obvious. [3PP] means content is from someone other than Drop Dead Studios, so it is not official Spheres content. Specific publishers such as Diamond Recreational Studios [DRS] and Studio M— [SM—] have their own tags. [OG] marks original Spheres content that was not included in Ultimate Spheres of Power. [Wiki] means the content was created by the wiki or the community. [(Name) HB] marks content from specific handbooks. [NS] helps mark content published in Spheres books, but that does not specifically use Spheres content.
+**[[Citations Guide]]:** [Apoc] is used to mark Spheres Apocrypha, which are small, official releases. [CS] is used to mark Champions of the Spheres content (whether from that book or not) in areas where it may not be obvious. [3PP] means content is from someone other than Drop Dead Studios, so it is not official Spheres content. Specific publishers such as Diamond Recreational Studios [DRS] have their own tag. [OG] marks original Spheres content that was not included in Ultimate Spheres of Power. [Wiki] means the content was created by the wiki or the community. [(Name) HB] marks content from specific handbooks. [NS] helps mark content published in Spheres books, but that does not specifically use Spheres content.
 
 ---
 
@@ -120,6 +120,7 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 - [[Practitioner Feats]]
 - [[Operative Feats]]
 - [[Champion Feats]]
+- [[Feats (DRS)|DRS Feats]]
 - [[Associated Feats & Skills|Associated Feats & Skills (Martial)]]
 - [[Associated Feats & Skills (guile-associated-feats-skills)|Associated Feats & Skills (Skill)]]
 - [[Admixture Feats|Admixture]]
@@ -159,11 +160,13 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 **Magic Options**
 
 [[Alternate Racial Traits]]
+[[Alternate Racial Traits (DRS)|Alternate Racial Traits]] [DRS]
 [[Casting Traditions]]
 [[Casting Packages]] [Wiki]
 [[Generation Traditions]]
 [[Origins]]
 [[Traits]]
+[[Traits (DRS)|Traits]] [DRS]
 
 </div>
 
@@ -415,7 +418,7 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 | **[Vigilante](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Vigilante)** | [[Alter-Ego (Vigilante Archetype)\|Alter-Ego]], [[Hidden Master (Vigilante Archetype)\|Hidden Master]] [CS], [[Informant (Vigilante Archetype)\|Informant]], [[Living Banner (Vigilante Archetype)\|Living Banner]], [[Masked Adept (Vigilante Archetype)\|Masked Adept]], [[Possessed (Vigilante Archetype)\|Possessed]], [[Shadow Warrior (Vigilante Archetype)\|Shadow Warrior]], [[Symbol Of Valor (Vigilante Archetype)\|Symbol of Valor]] | [[Vigilante Talents]] |
 | **[Warpriest](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Warpriest)** | [[Bastion Of Conviction (Warpriest Archetype)\|Bastion of Conviction]] [CS],[[Champion Warpriest (Warpriest Archetype)\|Champion Warpriest]] [CS], [[Devoted Disciple (Warpriest Archetype)\|Devoted Disciple]], [[Divine Heretic (Warpriest Archetype)\|Divine Heretic]], [[Divinitech Pilot]] [DRS], [[Sphere Warpriest]] | [[Warpriest Blessings]] |
 | **[Witch](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Witch)** | [[Hexblade]] [DRS], [[Sphere Witch]], [[Toilbrook (Witch Archetype)\|Toilbrook]] [CS], [[Withering Witch (Witch Archetype)\|Withering Witch]] | [[Shaman and Witch Hexes\|Witch Hexes]] |
-| **[Wizard](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Wizard)** | [[Cosmic Sage (Wizard Archetype)\|Cosmic Sage]], [[Eclectic Researcher (Wizard Archetype)\|Eclectic Researcher]], [[Magitect (Wizard Archetype)\|Magitect]] [DRS], [[Sphere Wizard]] |  |
+| **[Wizard](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Wizard)** | [[Cosmic Sage (Wizard Archetype)\|Cosmic Sage]], [[Eclectic Researcher (Wizard Archetype)\|Eclectic Researcher]], [[Magitect (Wizard Archetype)\|Magitect]] [DRS], [[Sphere Wizard]] | [[Arcane Discoveries (DRS)\|Arcane Discoveries]] [DRS] |
 | **[Animal Companions](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Companion)** | [[Martial Beast (Animal Companion Archetype)\|Martial Beast]] [CS] |  |
 | **[Familiars](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Familiar)** | [[Beast Of Omen (Familiar Archetype)\|Beast of Omen]], [[Dream Guide (Familiar Archetype)\|Dream Guide]], [[Shadow Familiar (Familiar Archetype)\|Shadow Familiar]], [[Willing Martyr (Familiar Archetype)\|Willing Martyr]] |  |
 | **Cantor** |  | [[Cantor Hymns]] |
@@ -448,24 +451,16 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 In addition to the rulesets listed above, this site offers a number of other resources to help you run games.
 
+
+
+
+
+
+
+
 - [[Archive]] - Retired spheres content
 
-- [[Mythic Rules]] - The Mythic rules are an addition to the main ruleset of the Pathfinder Roleplaying Game, allowing players to access truly legendary powers and abilities and confront foes that are far more dangerous than the usual enemies of the game.
-
-- [[Diamond Recreational Studios]] - Diamond Recreational Studios is a Drop Dead Studios sanctioned successor to the Spheres subsystems. This section includes rules and publications by DRS, including their "Polished Spheres" publications.
-
-
-- [[Character Roles]] - An introduction to the various roles that characters can take in the Pathfinder Roleplaying Game, and how to build a character who is effective at that role.
-
-- [[Citations Guide]] - Some rules on this site have citations referencing other products. If you aren't sure what those refer to, check this guide.
-
-- [[Creating New Spheres]] - Want to develop and maybe even publish your spheres? Here are some design principles to help you get started.
-
-- [[Creature Templates]] - A collection of templates to quickly and easily modify creatures by granting them exotic new abilities
-
-- [[Damage Types]] - An overview of the different types of damage types in Pathfinder, including their traits and how they're resisted by foes.
-
-- [[Developing Fantastic Nations]] - Rules exist for generating standard settlements, but fewer options are available for generating nations that better suit a fantastic setting. This page offers some tables and techniques for quickly generating exotic locales.
+- [[Using Polished Spheres]] - The rules shared by Diamond Recreational Studios' Polished Spheres releases (Polished Dark, Leadership, Commander and Warleader).
 
 - [[Errata Log]] - This page logs some of the errata applied after Ultimate Spheres of Power.
 
@@ -475,8 +470,5 @@ In addition to the rulesets listed above, this site offers a number of other res
 
 - [[Running Guile Games]] - This section has rules for running games that focus on Spheres of Guile and general intrigue.
 
-- [[Starfinder To Pathfinder (Conversion Rules)|Starfinder to Pathfinder]] - These guidelines cover backwards conversions to help bring content from the Starfinder Roleplaying Game into the Pathfinder Roleplaying Game.
 
 - [[Talented Monster Creation]] - These rules offer a streamlined approach to creating creatures.
-
-- [[Tricks And Strategies|Tricks and Strategies]] - Here are some rules-legal tricks and techniques you can do with the spheres systems. Many of these were suggested by the community.

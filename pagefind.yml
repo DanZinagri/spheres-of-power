@@ -11,11 +11,10 @@ exclude_selectors:
   - ".popover"
   # the pre-Ultimate "Original" versions stay on the page (in their tab) but out of search
   - '.sop-tab[data-tab="original"]'
-  # monster stat blocks stay on the site but out of search: the Mythic Creatures A-Z pages and
+  # monster stat blocks stay on the site but out of search:
   # their creatures, and the bestiary entries split onto subpages (SPLIT_SECTIONS in scrape.py)
   # any page with `nosearch: true` in its frontmatter (e.g. the sample characters)
   - 'body[data-nosearch]'
-  - 'body[data-slug^="Mythic-Rules/Mythic-Creatures-("]'
   - 'body[data-slug^="Spheres-Of-Might/Practitioner-Bestiary/Bestiary/"]'
   - 'body[data-slug^="Spheres-Of-Power/Sphere-Bestiary/New-Monsters/"]'
   # folder listing pages (e.g. Spheres-Of-Power/Dark/index): just a list of the folder's pages

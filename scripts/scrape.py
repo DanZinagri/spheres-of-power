@@ -54,6 +54,9 @@ EXCLUDED_SECTIONS = {
     # pre-Ultimate copies; each has a current equivalent (its "Original" tab), and links to
     # them are redirected there (see old_page_redirects)
     "Spheres Of Power (Old)",
+    # base / third-party mythic rules (Mythic Spheres has its own pages) and Rite Publishing /
+    # Dreamscarred Press creature templates
+    "Mythic Rules", "Creature Templates",
 }
 # Individual pages left out along with everything under them (by wikidot slug):
 # Publisher tags the wiki puts after an entry's name, e.g. "Agility [LG]" or "Fixer [CS] [LG]".
@@ -104,6 +107,12 @@ EXCLUDED_PAGES = {
     # the home page's House Rules section: the wiki's own house rules (Deific Talents and its
     # subpages, Recharge Sphere Magic, Virtues) and its newsletters / change log
     "divine-talents", "recharge-sphere-magic", "virtues", "newsletters", "recent-changes",
+    # Pathfinder / custom guides with no Spheres rules
+    "character-roles", "creating-new-spheres", "starfinder-to-pathfinder", "damage-types",
+    "tricks-and-strategies", "developing-fantastic-nations",
+    # the DRS hub page: its pages are linked from the home page and the class/option pages now
+    # (HUB_PAGES keeps everything under it)
+    "diamond-recreational-studios",
     # Lost Spheres Publishing's classes ("Lost Champions")
     "dragoon-class", "mountebank", "necros", "reaper",
     # Legendary Games content (tagged [LG] on the wiki; Arcforge is excluded as a whole above)
@@ -112,6 +121,8 @@ EXCLUDED_PAGES = {
     "proclaimer", "stimulants", "technomancy", "technopath", "vanguard-sentinel", "witchwarper",
 }
 NAV_PAGES = {"start", "nav:side"}
+# Excluded pages whose subpages stay (normally a page's subpages are excluded with it)
+HUB_PAGES = {"diamond-recreational-studios"}
 
 # Pages filed somewhere other than where the wiki's parent chain puts them: slug -> folder
 FOLDER_OVERRIDES = {
@@ -263,6 +274,11 @@ HOME_ARCHETYPE_ADDS = {
                   r"[[Sea Captain]] [DRS]", r"[[Sworn Officer]] [DRS]"],
     "Inquisitor": [r"[[Ardent Vanguard (Inquisitor Archetype)\|Ardent Vanguard]] [DRS]"],
     "Monk, Unchained": [r"[[Spoken Dao (Unchained Monk Archetype)\|Spoken Dao]] [DRS]"],
+}
+
+# ...and to a class's Class Options cell
+HOME_CLASS_OPTION_ADDS = {
+    "Wizard": [r"[[Arcane Discoveries (DRS)\|Arcane Discoveries]] [DRS]"],
 }
 
 # The "Original" (pre-Ultimate) tab of every page moves to its own archived page; the archive is
@@ -1181,19 +1197,24 @@ def add_home_archetypes(md: str) -> str:
     """HOME_ARCHETYPE_ADDS: put each extra archetype into its class's row, in alphabetical order."""
     display = lambda c: _norm(re.sub(r"\[\[(?:[^\]|\\]*\\?\|)?([^\]]*)\]\]", r"\1", c))
     lines = md.split("\n")
-    for cls, cells in HOME_ARCHETYPE_ADDS.items():
+    adds = [(cls, cells, 2) for cls, cells in HOME_ARCHETYPE_ADDS.items()]
+    adds += [(cls, cells, 3) for cls, cells in HOME_CLASS_OPTION_ADDS.items()]
+    for cls, cells, col in adds:
         row = rf"\|\s*\*\*(?:\[{re.escape(cls)}\]\(\S*?\)|\[\[{re.escape(cls)}\]\])\*\*\s*\|"
         at = next((i for i, l in enumerate(lines) if re.match(row, l)), None)
         if at is None:
             print(f"warning: home archetype add: no {cls} row")
             continue
         parts = re.split(r"(?<!\\)\|", lines[at])  # ['', class, archetypes, (options,) '']
-        have = [c.strip() for c in re.split(r",\s*(?=\[)", parts[2].strip()) if c.strip() and c.strip() != "—"]
+        if len(parts) <= col + 1:
+            print(f"warning: home add: the {cls} row has no column {col}")
+            continue
+        have = [c.strip() for c in re.split(r",\s*(?=\[)", parts[col].strip()) if c.strip() and c.strip() != "—"]
         for cell in cells:  # before the first existing entry that sorts after it
             if cell not in have:
                 k = next((i for i, c in enumerate(have) if display(c) > display(cell)), len(have))
                 have.insert(k, cell)
-        parts[2] = " " + ", ".join(have) + " "
+        parts[col] = " " + ", ".join(have) + " "
         lines[at] = "|".join(parts)
     return "\n".join(lines)
 
@@ -1241,6 +1262,18 @@ def tidy_home(md: str) -> str:
         lines = lines[:start] + [""] + lines[resources:intro_end] + [e for x in entries for e in (x, "")] \
             + lines[intro_end:]
     lines = [l for l in lines if not l.startswith("- - ")]
+    # pages the (excluded) Diamond Recreational Studios hub used to link, beside their base pages
+    def after(line_re: str, new: list[str]):
+        at = next((i for i, l in enumerate(lines) if re.fullmatch(line_re, l.strip())), None)
+        if at is None:
+            print(f"warning: home: no line {line_re!r}")
+        else:
+            lines[at + 1:at + 1] = new
+    after(r"\[\[Alternate Racial Traits\]\]", ["[[Alternate Racial Traits (DRS)|Alternate Racial Traits]] [DRS]"])
+    after(r"\[\[Traits\]\]", ["[[Traits (DRS)|Traits]] [DRS]"])
+    after(r"\[\[Champion Feats\]\]", ["[[Feats (DRS)|DRS Feats]]"])
+    # the Citations Guide is linked from the citations note at the top instead of Other Resources
+    lines = [l for l in lines if not l.startswith("- [[Citations Guide]]")]
     # the House Rules section's pages are excluded (EXCLUDED_PAGES); drop its heading and intro too
     hr = next((i for i, l in enumerate(lines) if l.strip() == "# House Rules"), None)
     if hr is not None:
@@ -1254,10 +1287,17 @@ def tidy_home(md: str) -> str:
     if res is not None:
         first = next((i for i in range(res + 1, len(lines)) if lines[i].startswith("- ")), None)
         if first is not None:
-            lines[first:first] = [f"- [[{ARCHIVE}]] - Retired spheres content", ""]
+            lines[first:first] = [f"- [[{ARCHIVE}]] - Retired spheres content", "",
+                                  "- [[Using Polished Spheres]] - The rules shared by Diamond Recreational "
+                                  "Studios' Polished Spheres releases (Polished Dark, Leadership, Commander and "
+                                  "Warleader).", ""]
     md = "\n".join(lines)
     md = re.sub(r"(\*\*Citations Guide:\*\*[^\n]*?)(\[Wiki\] means)",
                 r"\1[OG] marks original Spheres content that was not included in Ultimate Spheres of Power. \2", md, count=1)
+    md = md.replace("**Citations Guide:**", "**[[Citations Guide]]:**", 1)
+    # Studio M— content is excluded (EXCLUDED_TAGS), so its tag no longer appears
+    md = md.replace("such as Diamond Recreational Studios [DRS] and Studio M— [SM—] have their own tags",
+                    "such as Diamond Recreational Studios [DRS] have their own tag")
     return md
 
 
@@ -2376,7 +2416,7 @@ COMPENDIUM_REVIEW = "Meta/Compendium Review"
 COMPENDIUM = {
     "Dark": {
         "system": "Spheres of Power",
-        "approved": False,
+        "approved": True,
         "pages": [
             # (page, section heading, kind, entry heading level[, option heading level]); options are
             # one level deeper unless given
@@ -2553,6 +2593,28 @@ def write_compendium_review(sphere: str, cfg: dict, entries: list[dict]) -> None
 # were third-party and are excluded now.)
 CLASS_OPTION_PAGES: set[str] = set()
 CLASS_OPTION_FOLDERS: set[str] = set()
+
+
+def trim_citations() -> list[str]:
+    """Drop Citations Guide rows whose citation no longer appears anywhere on the site, either as a
+    tag ("[APG]") or glued to a name the way the wiki prints them ("Extra GritUC")."""
+    guide = next((f for f in CONTENT.rglob("Citations Guide.md") if ARCHIVE not in f.relative_to(CONTENT).parts), None)
+    if not guide:
+        return []
+    text = "\n".join(f.read_text(encoding="utf-8") for f in CONTENT.rglob("*.md")
+                     if ARCHIVE not in f.relative_to(CONTENT).parts and f != guide)
+    lines, dropped = guide.read_text(encoding="utf-8").split("\n"), []
+    for i, l in enumerate(lines):
+        m = re.match(r"^\| (\S[^|]*?) \| ([^|]+?) \|$", l)
+        if not m or m.group(1) in ("Citation", "---"):
+            continue
+        c = re.escape(m.group(1).replace("#", ""))
+        used = re.search(r"\[" + c + r"[#\d]*\]", text) or re.search(r"(?<=[a-z\)\]’'])" + c + r"(?![A-Za-z])", text)
+        if not used:
+            dropped.append(m.group(1))
+            lines[i] = None
+    guide.write_text("\n".join(l for l in lines if l is not None), encoding="utf-8")
+    return dropped
 
 
 def tag_search_types() -> dict[str, int]:
@@ -3305,7 +3367,7 @@ def convert(with_images: bool) -> None:
     excluded = {s for s, p in pages.items()
                 if p.folder.split("/")[0] in EXCLUDED_SECTIONS or s in excluded_pages
                 # a page re-filed elsewhere (FOLDER_OVERRIDES) survives its old parent's exclusion
-                or (s not in FOLDER_OVERRIDES and any(a in excluded_pages for a in p.parents))}
+                or (s not in FOLDER_OVERRIDES and any(a in excluded_pages - HUB_PAGES for a in p.parents))}
     print(f"Tag-excluded pages ({', '.join(sorted(EXCLUDED_TAGS))}): {len(auto)}")
     for s in excluded:
         del pages[s]
@@ -3665,6 +3727,8 @@ def convert(with_images: bool) -> None:
     print(f"Retired Ultimate: {len(retired)} pages")
     print(f"Search types: {tag_search_types()}")
     print(f"Compendium entries: {build_compendium()}")
+    dropped = trim_citations()
+    print(f"Citations Guide: dropped {len(dropped)} unused citations")
 
     # folders emptied by exclusions or renames
     for d in sorted((d for d in CONTENT.rglob("*") if d.is_dir()), key=lambda d: -len(d.parts)):

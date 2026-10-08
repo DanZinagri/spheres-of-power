@@ -19,7 +19,7 @@ Finally, game masters should read the [[Running Guile Games]] page, which covers
 
 Before you start making a character, it's important to have an idea of what kind of class you want to make.
 
-Operatives excel in the social and exploration aspects of games, but are not as good in combat as Spherecasters or Practitioners. They can certainly contribute in their own ways, but Operatives are fundamentally better at using their wits and planning ways to overcome situations instead of walking up and slicing something in half. You may wish to review the [[Character Roles]] page, which covers some of the concepts for character creation.
+Operatives excel in the social and exploration aspects of games, but are not as good in combat as Spherecasters or Practitioners. They can certainly contribute in their own ways, but Operatives are fundamentally better at using their wits and planning ways to overcome situations instead of walking up and slicing something in half. You may wish to review the Character Roles page, which covers some of the concepts for character creation.
 
 It's always best to have some kind of theme or concept in mind before you start building your character. You can talk to your GM about what kinds of characters might be appropriate for the game, or look to other sources of media for inspiration. For example, if you want to create a character like super spy James Bond, you're probably going to want to play an Agent. Remember, no character can excel in everything, so having a theme gives you a place to focus your early choices.
 
