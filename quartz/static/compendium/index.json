@@ -1058,5 +1058,1318 @@
   "options": [],
   "file": "dark.json",
   "approved": true
+ },
+ {
+  "id": "leadership/cohort-package",
+  "name": "Cohort Package",
+  "kind": "package",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#cohort-package",
+  "options": [
+   "Recruit"
+  ],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/follower-package-utility",
+  "name": "Follower Package",
+  "kind": "package",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#follower-package-utility",
+  "options": [
+   "Make Camp"
+  ],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/canny-leader-utility",
+  "name": "Canny Leader",
+  "kind": "talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Leadership Talents",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#canny-leader-utility",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/expanded-leadership",
+  "name": "Expanded Leadership",
+  "kind": "talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Leadership Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#expanded-leadership",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/fortunate-events-utility",
+  "name": "Fortunate Events",
+  "kind": "talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Leadership Talents",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#fortunate-events-utility",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/professional-undertakings-utility",
+  "name": "Professional Undertakings",
+  "kind": "talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Leadership Talents",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#professional-undertakings-utility",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/village-of-mentors-utility",
+  "name": "Village Of Mentors",
+  "kind": "talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Leadership Talents",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#village-of-mentors-utility",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/aiding-coordination-cohort",
+  "name": "Aiding Coordination",
+  "kind": "talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Cohort and Recruit Talents",
+  "tags": [
+   "cohort"
+  ],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#aiding-coordination-cohort",
+  "options": [
+   "Collaborative Aid",
+   "Leader’s Instruction"
+  ],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/battlefield-coordination-cohort",
+  "name": "Battlefield Coordination",
+  "kind": "talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Cohort and Recruit Talents",
+  "tags": [
+   "cohort"
+  ],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#battlefield-coordination-cohort",
+  "options": [
+   "Cohort Attack",
+   "Cohort Bolster",
+   "Cohort Defense"
+  ],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/hunting-coordination-cohort",
+  "name": "Hunting Coordination",
+  "kind": "talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Cohort and Recruit Talents",
+  "tags": [
+   "cohort"
+  ],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#hunting-coordination-cohort",
+  "options": [
+   "Safe Passage",
+   "Watch Together"
+  ],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/logistics-coordination-cohort-recruit",
+  "name": "Logistics Coordination",
+  "kind": "talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Cohort and Recruit Talents",
+  "tags": [
+   "cohort",
+   "recruit"
+  ],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#logistics-coordination-cohort-recruit",
+  "options": [
+   "New and Old Friends",
+   "Quartermaster’s Skill"
+  ],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/mystic-coordination-cohort",
+  "name": "Mystic Coordination",
+  "kind": "talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Cohort and Recruit Talents",
+  "tags": [
+   "cohort"
+  ],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#mystic-coordination-cohort",
+  "options": [
+   "Cohort Conduit",
+   "Cohort Delivery",
+   "Safeguarded Cohorts"
+  ],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/readiness-coordination-cohort",
+  "name": "Readiness Coordination",
+  "kind": "talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Cohort and Recruit Talents",
+  "tags": [
+   "cohort"
+  ],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#readiness-coordination-cohort",
+  "options": [
+   "Cohort Teamwork",
+   "Joint Readiness"
+  ],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/temporary-conscription-recruit",
+  "name": "Temporary Conscription",
+  "kind": "talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Cohort and Recruit Talents",
+  "tags": [
+   "recruit"
+  ],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#temporary-conscription-recruit",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/training-coordination-cohort-recruit",
+  "name": "Training Coordination",
+  "kind": "talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Cohort and Recruit Talents",
+  "tags": [
+   "cohort",
+   "recruit"
+  ],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#training-coordination-cohort-recruit",
+  "options": [
+   "Talented Cohorts",
+   "Training Regiment"
+  ],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/blacksmith-follower-utility",
+  "name": "Blacksmith",
+  "kind": "talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Follower Talents",
+  "tags": [
+   "follower"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#blacksmith-follower-utility",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/detective-follower-utility",
+  "name": "Detective",
+  "kind": "talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Follower Talents",
+  "tags": [
+   "follower"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#detective-follower-utility",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/groom-follower-utility",
+  "name": "Groom",
+  "kind": "talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Follower Talents",
+  "tags": [
+   "follower"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#groom-follower-utility",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/healer-follower-utility",
+  "name": "Healer",
+  "kind": "talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Follower Talents",
+  "tags": [
+   "follower"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#healer-follower-utility",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/hunter-follower-utility",
+  "name": "Hunter",
+  "kind": "talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Follower Talents",
+  "tags": [
+   "follower"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#hunter-follower-utility",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/laborers-follower-utility",
+  "name": "Laborers",
+  "kind": "talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Follower Talents",
+  "tags": [
+   "follower"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#laborers-follower-utility",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/magewright-follower-utility",
+  "name": "Magewright",
+  "kind": "talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Follower Talents",
+  "tags": [
+   "follower"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#magewright-follower-utility",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/merchant-follower-utility",
+  "name": "Merchant",
+  "kind": "talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Follower Talents",
+  "tags": [
+   "follower"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#merchant-follower-utility",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/messenger-follower-plan-utility",
+  "name": "Messenger",
+  "kind": "talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Follower Talents",
+  "tags": [
+   "follower"
+  ],
+  "talentTags": [
+   "plan",
+   "utility"
+  ],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#messenger-follower-plan-utility",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/musician-follower-utility",
+  "name": "Musician",
+  "kind": "talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Follower Talents",
+  "tags": [
+   "follower"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#musician-follower-utility",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/rake-follower-plan-utility",
+  "name": "Rake",
+  "kind": "talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Follower Talents",
+  "tags": [
+   "follower"
+  ],
+  "talentTags": [
+   "plan",
+   "utility"
+  ],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#rake-follower-plan-utility",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/scholar-follower-utility",
+  "name": "Scholar",
+  "kind": "talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Follower Talents",
+  "tags": [
+   "follower"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#scholar-follower-utility",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/scoundrel-follower-utility",
+  "name": "Scoundrel",
+  "kind": "talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Follower Talents",
+  "tags": [
+   "follower"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#scoundrel-follower-utility",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/scout-follower-utility",
+  "name": "Scout",
+  "kind": "talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Follower Talents",
+  "tags": [
+   "follower"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#scout-follower-utility",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/seer-follower-plan-utility",
+  "name": "Seer",
+  "kind": "talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Follower Talents",
+  "tags": [
+   "follower"
+  ],
+  "talentTags": [
+   "plan",
+   "utility"
+  ],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#seer-follower-plan-utility",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/socialite-follower-utility",
+  "name": "Socialite",
+  "kind": "talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Follower Talents",
+  "tags": [
+   "follower"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#socialite-follower-utility",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/tailor-follower-utility",
+  "name": "Tailor",
+  "kind": "talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Follower Talents",
+  "tags": [
+   "follower"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#tailor-follower-utility",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/advanced-cohorts-cohort",
+  "name": "Advanced Cohorts",
+  "kind": "legendary talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Legendary Leadership Talents",
+  "tags": [
+   "cohort"
+  ],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#advanced-cohorts-cohort",
+  "options": [
+   "Improved Cohorts",
+   "Magic Cohorts"
+  ],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/anticipated-arrival-utility",
+  "name": "Anticipated Arrival",
+  "kind": "legendary talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Legendary Leadership Talents",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#anticipated-arrival-utility",
+  "options": [
+   "At Your Service",
+   "Battlefield Rendezvous"
+  ],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/draft-recruit",
+  "name": "Draft",
+  "kind": "legendary talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Legendary Leadership Talents",
+  "tags": [
+   "recruit"
+  ],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#draft-recruit",
+  "options": [
+   "Forced Conscription",
+   "Raise Army"
+  ],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/exotic-cohorts-cohort",
+  "name": "Exotic Cohorts",
+  "kind": "legendary talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Legendary Leadership Talents",
+  "tags": [
+   "cohort"
+  ],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#exotic-cohorts-cohort",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/extra-cohort-cohort",
+  "name": "Extra Cohort",
+  "kind": "legendary talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Legendary Leadership Talents",
+  "tags": [
+   "cohort"
+  ],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#extra-cohort-cohort",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/gambler-follower-utility",
+  "name": "Gambler",
+  "kind": "legendary talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Legendary Leadership Talents",
+  "tags": [
+   "follower"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#gambler-follower-utility",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/gift-of-mentorship",
+  "name": "Gift Of Mentorship",
+  "kind": "legendary talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Legendary Leadership Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#gift-of-mentorship",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/good-help-follower-recruit",
+  "name": "Good Help",
+  "kind": "legendary talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Legendary Leadership Talents",
+  "tags": [
+   "follower",
+   "recruit"
+  ],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#good-help-follower-recruit",
+  "options": [
+   "Dual Calling",
+   "Talented Followers"
+  ],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/magician-follower-plan",
+  "name": "Magician",
+  "kind": "legendary talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Legendary Leadership Talents",
+  "tags": [
+   "follower"
+  ],
+  "talentTags": [
+   "plan"
+  ],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#magician-follower-plan",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/recruit-troop-cohort",
+  "name": "Recruit Troop",
+  "kind": "legendary talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Legendary Leadership Talents",
+  "tags": [
+   "cohort"
+  ],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#recruit-troop-cohort",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/spymaster-follower-utility",
+  "name": "Spymaster",
+  "kind": "legendary talent",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Legendary Leadership Talents",
+  "tags": [
+   "follower"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#spymaster-follower-utility",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/acolyte",
+  "name": "Acolyte",
+  "kind": "cohort job",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Cohort Jobs",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#acolyte",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/apprentice",
+  "name": "Apprentice",
+  "kind": "cohort job",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Cohort Jobs",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#apprentice",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/cutpurse",
+  "name": "Cutpurse",
+  "kind": "cohort job",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Cohort Jobs",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#cutpurse",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/disciple",
+  "name": "Disciple",
+  "kind": "cohort job",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Cohort Jobs",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#disciple",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/fortune-teller",
+  "name": "Fortune Teller",
+  "kind": "cohort job",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Cohort Jobs",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#fortune-teller",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/minstrel",
+  "name": "Minstrel",
+  "kind": "cohort job",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Cohort Jobs",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#minstrel",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/naturalist",
+  "name": "Naturalist",
+  "kind": "cohort job",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Cohort Jobs",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#naturalist",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/priest",
+  "name": "Priest",
+  "kind": "cohort job",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Cohort Jobs",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#priest",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/squire",
+  "name": "Squire",
+  "kind": "cohort job",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Cohort Jobs",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#squire",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/student",
+  "name": "Student",
+  "kind": "cohort job",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Cohort Jobs",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#student",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/warrior",
+  "name": "Warrior",
+  "kind": "cohort job",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Cohort Jobs",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#warrior",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/wildling",
+  "name": "Wildling",
+  "kind": "cohort job",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "Cohort Jobs",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership#wildling",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/drill-sergeant",
+  "name": "Drill Sergeant",
+  "kind": "drawback",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership-Sphere-Drawbacks#drill-sergeant",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/established-footprint",
+  "name": "Established Footprint",
+  "kind": "drawback",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership-Sphere-Drawbacks#established-footprint",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/strange-bedfellows",
+  "name": "Strange Bedfellows",
+  "kind": "drawback",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership-Sphere-Drawbacks#strange-bedfellows",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/wicked-tyrant-alternate-start",
+  "name": "Wicked Tyrant",
+  "kind": "drawback",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [],
+  "talentTags": [
+   "alternate start"
+  ],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership-Sphere-Drawbacks#wicked-tyrant-alternate-start",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/camp-of-operations-drs",
+  "name": "Camp of Operations",
+  "kind": "feat",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "New Feats",
+  "tags": [],
+  "talentTags": [
+   "DRS"
+  ],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Practitioner-Feats#camp-of-operations-drs",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/emergency-reserves-plan-drs",
+  "name": "Emergency Reserves",
+  "kind": "feat",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "New Feats",
+  "tags": [],
+  "talentTags": [
+   "plan",
+   "DRS"
+  ],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Practitioner-Feats#emergency-reserves-plan-drs",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/friends-in-close-places-plan-drs",
+  "name": "Friends In Close Places",
+  "kind": "feat",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "New Feats",
+  "tags": [],
+  "talentTags": [
+   "plan",
+   "DRS"
+  ],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Practitioner-Feats#friends-in-close-places-plan-drs",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/journeyman-cohorts-drs",
+  "name": "Journeyman Cohorts",
+  "kind": "feat",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "New Feats",
+  "tags": [],
+  "talentTags": [
+   "DRS"
+  ],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Practitioner-Feats#journeyman-cohorts-drs",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/mixed-conscription-drs",
+  "name": "Mixed Conscription",
+  "kind": "feat",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "New Feats",
+  "tags": [],
+  "talentTags": [
+   "DRS"
+  ],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Practitioner-Feats#mixed-conscription-drs",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/mixed-coordinator-combat",
+  "name": "Mixed Coordinator",
+  "kind": "feat",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "New Feats",
+  "tags": [
+   "combat"
+  ],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Practitioner-Feats#mixed-coordinator-combat",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/radiant-quests-drs",
+  "name": "Radiant Quests",
+  "kind": "feat",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "New Feats",
+  "tags": [],
+  "talentTags": [
+   "DRS"
+  ],
+  "source": "Spheres Apocrypha: Dipsomania",
+  "status": "current",
+  "url": "Spheres-Of-Might/Practitioner-Feats#radiant-quests-drs",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/shared-harmonies-drs",
+  "name": "Shared Harmonies",
+  "kind": "feat",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "New Feats",
+  "tags": [],
+  "talentTags": [
+   "DRS"
+  ],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Practitioner-Feats#shared-harmonies-drs",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/shared-rage-combat-drs",
+  "name": "Shared Rage",
+  "kind": "feat",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "New Feats",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [
+   "DRS"
+  ],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Practitioner-Feats#shared-rage-combat-drs",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/talented-followers-improved-drs",
+  "name": "Talented Followers, Improved",
+  "kind": "feat",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "New Feats",
+  "tags": [],
+  "talentTags": [
+   "DRS"
+  ],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Practitioner-Feats#talented-followers-improved-drs",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
+ },
+ {
+  "id": "leadership/theurgical-disciples-drs",
+  "name": "Theurgical Disciples",
+  "kind": "feat",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "New Feats",
+  "tags": [],
+  "talentTags": [
+   "DRS"
+  ],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Practitioner-Feats#theurgical-disciples-drs",
+  "options": [],
+  "file": "leadership.json",
+  "approved": false
  }
 ]

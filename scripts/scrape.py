@@ -2433,6 +2433,26 @@ COMPENDIUM = {
         # headings that are notes inside an entry, not options of it
         "not_options": r"^Rules Clarification|^Table|Stat Block$|^Emotion Effects$",
     },
+    "Leadership": {
+        "system": "Spheres of Might",
+        "approved": False,
+        "pages": [
+            # packages and the sphere ability each grants (Recruit, Make Camp)
+            ("Leadership", "Cohort Package", "package", 2, 3),
+            ("Leadership", "Follower Package [utility]", "package", 2, 3),
+            ("Leadership", "Leadership Talents", "talent", 3),
+            ("Leadership", "Cohort and Recruit Talents", "talent", 3),
+            ("Leadership", "Follower Talents", "talent", 3),
+            ("Leadership", "Legendary Leadership Talents", "legendary talent", 3),
+            # the appendix's cohort jobs are choices a tool offers when picking a cohort; the rest of
+            # the appendix, the optional rules and the design guidance (sample jobs too) stay out
+            ("Leadership", "Cohort Jobs", "cohort job", 3),
+            ("Leadership Sphere Drawbacks", "(page)", "drawback", 4),
+            # Leadership's feats are in the shared Practitioner Feats list
+            ("Practitioner Feats", "New Feats", "feat", 4, {"prereq": r"Leadership"}),
+        ],
+        "not_options": r"^Table",
+    },
 }
 
 
@@ -2475,8 +2495,13 @@ def build_compendium() -> dict[str, int]:
         not_option = re.compile(cfg.get("not_options", r"^$"))
         entries = []
         parsed: dict[str, tuple[list[str], list[str], str]] = {}  # page -> (lines, heading ids, source)
-        for page, section, kind, level, *olevel in cfg["pages"]:
-            olevel = olevel[0] if olevel else level + 1
+        for page, section, kind, level, *more in cfg["pages"]:
+            # optional 5th item: the option heading level, or {"olevel": n, "prereq": regex} where
+            # prereq keeps only entries whose Prerequisites mention it (shared pages like
+            # Practitioner Feats, which list every combat sphere's feats together)
+            opt = more[0] if more and isinstance(more[0], dict) else ({"olevel": more[0]} if more else {})
+            olevel = opt.get("olevel", level + 1)
+            want_prereq = re.compile(opt["prereq"]) if "prereq" in opt else None
             f = files.get(page)
             if not f:
                 print(f"warning: compendium {sphere}: no page {page!r}")
@@ -2542,6 +2567,8 @@ def build_compendium() -> dict[str, int]:
                     "md": intro,
                     "options": options,
                 }
+                if want_prereq and not want_prereq.search(entry["prerequisites"]):
+                    continue
                 entries.append(entry)
         counts[sphere] = len(entries)
         key = _norm(sphere).replace(" ", "-")

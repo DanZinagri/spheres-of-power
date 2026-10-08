@@ -15,8 +15,11 @@ const excludeSelectors = [...yml.matchAll(/^\s*-\s*(['"])(.*)\1\s*$/gm)].map((m)
 
 const KIND_TYPE = {
   "sphere ability": "Spheres",
+  package: "Spheres",
   talent: "Talents",
   "advanced talent": "Talents",
+  "legendary talent": "Talents",
+  "cohort job": "Talents",
   feat: "Feats",
   drawback: "Drawbacks",
 }

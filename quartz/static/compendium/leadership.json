@@ -1,0 +1,1534 @@
+{
+ "sphere": "Leadership",
+ "system": "Spheres of Might",
+ "approved": false,
+ "entries": [
+  {
+   "id": "leadership/cohort-package",
+   "name": "Cohort Package",
+   "kind": "package",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#cohort-package",
+   "md": "You gain the *recruit* sphere ability.\n\nFull details and information about *recruiting* a cohort and cohort statistics are detailed in the Leadership Appendix, **About Cohorts**.",
+   "options": [
+    {
+     "name": "Recruit",
+     "tags": [],
+     "talentTags": [],
+     "anchor": "recruit",
+     "md": "*You recruit a loyal and capable cohort to your aid.*\n\n**Action:** 8 hours\n**Duration:** instantaneous\n\n**Effect:** While in a settlement, you can gain the services of a cohort. You can only have the service of 1 cohort at a given time, and must release that cohort before attempting to *recruit* a new one.\n\nA cohort may be released from your service at any time. A cohort that leaves your service on good terms may become a contact.\n\nYou may modify this ability with a (recruit) option. Only 1 (recruit) option can be added to each use of *recruit*."
+    }
+   ]
+  },
+  {
+   "id": "leadership/follower-package-utility",
+   "name": "Follower Package",
+   "kind": "package",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "",
+   "tags": [],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#follower-package-utility",
+   "md": "You gain the ability to attract followers and the *make camp* sphere ability. In addition, you gain 1 (follower) talent that grants a follower as a bonus talent.\n\nFull details and information about your camp and followers are detailed in the Leadership Appendix, **About Camp and Followers**.",
+   "options": [
+    {
+     "name": "Make Camp",
+     "tags": [],
+     "talentTags": [],
+     "anchor": "make-camp",
+     "md": "*The fire is lit and the camp bustles with energy.*\n\n**Action:** 1 hour\n**Duration:** instantaneous\n\n**Effect:** You set up camp and your followers perform common camp tasks, including but not limited to caring for the pack animals, cooking, maintenance, and setting up temporary structures (tents and the like). When you *make camp* in a settlement, this is instead represented as gathering your followers at a tavern or other establishment to discuss travel plans and perform upkeep and maintenance.\n\nWhen you *make camp*, you can gain your follower’s assistance, as detailed in each (follower) talent."
+    }
+   ]
+  },
+  {
+   "id": "leadership/canny-leader-utility",
+   "name": "Canny Leader",
+   "kind": "talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Leadership Talents",
+   "tags": [],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "Hold a kingdom leadership role.",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#canny-leader-utility",
+   "md": "*You find the responsibilities of leadership to be second nature.*\n\n**Prerequisite:** Hold a kingdom leadership role.\n\n**Effect:** You may use your practitioner modifier in place of a kingdom leadership role’s usual ability score (such as Wisdom or Charisma as the High Priest). If you do not replace the leadership role’s usual ability score this way, you instead increase the benefit you provide in that leadership role by +1, +1 per 5.\n\nIn addition, you gain the following benefits based on the packages you possess:\n\n- **(cohort):** If you assign your cohort to a leadership role in the same kingdom you hold a leadership role, your cohort also benefits from this talent (replacing the ability score or gaining a flat bonus to the benefit provided by their role).\n- **(follower):** Your followers ease the transition when there is a vacancy in a leadership role. If there is a vacancy, its penalties are delayed for 1 kingdom turn, +1 kingdom turn per 10 associated skill ranks.\n\n**Associated Feat:** Natural Ruler (*Quests and Campaigns*).\n\nSee *Ultimate Campaign*, Leadership Roles for more information.\n\n**Example:** You could either replace the High Priest’s use of Wisdom or Charisma with your practitioner modifier (for example, Intelligence), or directly increase the bonus to Stability you provide by +1, +1 per 5 associated skill ranks.",
+   "options": []
+  },
+  {
+   "id": "leadership/expanded-leadership",
+   "name": "Expanded Leadership",
+   "kind": "talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Leadership Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#expanded-leadership",
+   "md": "You gain the Leadership sphere package you do not already possess.\n\n**Special:** If you select the follower package this way, this talent can be taken as a [utility] talent.",
+   "options": []
+  },
+  {
+   "id": "leadership/fortunate-events-utility",
+   "name": "Fortunate Events",
+   "kind": "talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Leadership Talents",
+   "tags": [],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "Own at least one building or hold a kingdom leadership role.",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#fortunate-events-utility",
+   "md": "*The mandate of heaven smiles upon your kingdom, your businesses, and your cattle. It seems nothing can go wrong.*\n\n**Prerequisites:** Own at least one building or hold a kingdom leadership role.\n\n**Effect:** You gain the following benefits based on whether you own a building or hold a kingdom leadership role.\n\n*Buildings*: During a downtime Event phase, if an event occurs for a building you own, you may roll twice on the applicable table and choose either result. You may only benefit from this option once each week.\n\n*Kingdom*: During a kingdom’s Event phase, once an event’s type and danger level have been determined, you may choose to roll twice on the applicable kingdom or settlement table and choose either result. If multiple characters with a leadership role could roll twice during an Event phase, you roll that many additional dice (such as six characters having this option would roll seven times, selecting one roll).\n\n**Associated Feat:** Fortunate Manager, Fortunate Ruler (*Quests and Campaigns*).\n\nSee *Ultimate Campaign*, Downtime and Kingdom Building for more information.\n\n**Special - Merchant (follower):** If you have a merchant follower, you may benefit from this option each downtime Event phase, not only once per week.",
+   "options": []
+  },
+  {
+   "id": "leadership/professional-undertakings-utility",
+   "name": "Professional Undertakings",
+   "kind": "talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Leadership Talents",
+   "tags": [],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#professional-undertakings-utility",
+   "md": "*You take the time to study the spoken word or a new trade. Those who follow you also pick up some of the same know-how.*\n\nChoose either Diplomacy or any one Profession skill. You gain that skill as an associated skill for the Leadership sphere.\n\nIn addition, you gain the following benefits based on the packages you possess:\n\n- **(cohort):** Your cohorts also gain the chosen skill as an associated skill (gaining associated skill ranks based on the number of talents you possess in this sphere).\n- **(follower):** For each (follower) talent you possess, you gain a +2 circumstance bonus on associated skill checks made to earn a living or to run a business (*Pathfinder Unchained*). If a follower would be unavailable, or unable to join you when you *make camp*, you do not receive this bonus.\n\nIf you possess Diplomacy as a Leadership associated skill, you may use Diplomacy in place of Profession on checks to earn a living or to run a business.\n\n**Special:** This talent may be selected multiple times, each time choosing a new skill to gain as an associated skill.",
+   "options": []
+  },
+  {
+   "id": "leadership/village-of-mentors-utility",
+   "name": "Village Of Mentors",
+   "kind": "talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Leadership Talents",
+   "tags": [],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "Leadership sphere ((follower) package, at least 1 (follower) talent).",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#village-of-mentors-utility",
+   "md": "*There is always a village to provide guidance and nurture.*\n\n**Prerequisite:** Leadership sphere ((follower) package, at least 1 (follower) talent).\n\n**Effect:** Each follower may provide, as an assistance, tutoring for another creature to learn their trade. This tutoring requires 1 hour and is spent one-on-one with the creature. Once tutored, that creature receives a number of temporary skill ranks in that follower’s skill equal to your Leadership sphere associated skill ranks (to a maximum number of ranks equal to the creature’s Hit Dice).\n\nThese temporary skill ranks last for 1 month or until a creature is tutored again. Any number of creatures may be tutored this way, but may only receive temporary ranks for a single skill at a time.\n\n**Note:** If a follower’s skill would apply to multiple categories of that skill, such as the Blacksmith’s follower’s skill applying to any Craft skill, you must choose a single Craft skill.",
+   "options": []
+  },
+  {
+   "id": "leadership/aiding-coordination-cohort",
+   "name": "Aiding Coordination",
+   "kind": "talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Cohort and Recruit Talents",
+   "tags": [
+    "cohort"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#aiding-coordination-cohort",
+   "md": "*Shoulder to shoulder and blade over blade.*\n\nYou gain the following option and stance:",
+   "options": [
+    {
+     "name": "Collaborative Aid",
+     "tags": [
+      "cohort"
+     ],
+     "talentTags": [],
+     "anchor": "collaborative-aid-cohort",
+     "md": "**Effect:** Cohorts and leaders may take the aid another action to improve an attack roll, AC, or skill check as a swift or immediate action. An aid another action taken this way must benefit a cohort or leader.\n\nWhenever a cohort or leader takes the aid another action for the benefit of another cohort or leader, the bonus granted increases by +1, +1 per 10 associated skill ranks.\n\n**Associated Feat:** Swift Aid (*Advanced Player’s Guide*)."
+    },
+    {
+     "name": "Leader’s Instruction",
+     "tags": [
+      "cohort"
+     ],
+     "talentTags": [
+      "stance"
+     ],
+     "anchor": "leaders-instruction-cohort-stance",
+     "md": "*Watch and do as I do, or at the very least, listen.*\n\n**Enter:** Upon entering this stance, you may use the aid another action to assist a cohort within close range.\n\n**Benefit:** While maintaining this stance, whenever you hit with an attack action or attack of opportunity, or succeed at a combat maneuver as a non-free action, you may aid another a cohort within close range. The aid another must benefit the cohort against the struck creature (improving their attack roll, AC, or skill check against it)."
+    }
+   ]
+  },
+  {
+   "id": "leadership/battlefield-coordination-cohort",
+   "name": "Battlefield Coordination",
+   "kind": "talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Cohort and Recruit Talents",
+   "tags": [
+    "cohort"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#battlefield-coordination-cohort",
+   "md": "*The clamor of the battlefield distracts those which are less disciplined.*\n\nYou and your cohorts gain the *cohort attack* special attack action and the *cohort bolster* and *cohort defense* sphere abilities.",
+   "options": [
+    {
+     "name": "Cohort Attack",
+     "tags": [
+      "cohort"
+     ],
+     "talentTags": [
+      "SAA"
+     ],
+     "anchor": "cohort-attack-cohort-saa",
+     "md": "**Action:** 1 melee or ranged special attack action (plus 1 joint swift action, see text)\n\n**Effect:** You make a single attack against a target. After resolving your attack, as a joint swift action, another cohort or leader may make a single attack against the same target.\n\n**Augment 1 mf [Opening Strike]:** The cohort or leader’s joint swift action attack may be made before your special attack action. If the joint attack hits, you gain a +2 circumstance bonus on your attack roll, +1 per 5 associated skill ranks."
+    },
+    {
+     "name": "Cohort Bolster",
+     "tags": [
+      "cohort"
+     ],
+     "talentTags": [],
+     "anchor": "cohort-bolster-cohort",
+     "md": "**Action:** move or immediate action\n**Range:** close range (25 + 5 ft./2 associated skill ranks)\n**Target:** a cohort or a leader\n\n**Effect:** If the target is dying, they are immediately stabilized.\n\nIn addition, the target gains a number of temporary hit points equal to 1d4 + your practitioner modifier, +1d4 per associated skill rank. These temporary hit points may exceed the target’s maximum hit points (up to 1 per associated skill rank + your practitioner modifier) and last until the end of the encounter. A target can only benefit from these temporary hit points once per encounter."
+    },
+    {
+     "name": "Cohort Defense",
+     "tags": [
+      "cohort"
+     ],
+     "talentTags": [],
+     "anchor": "cohort-defense-cohort",
+     "md": "**Action:** immediate action\n**Target:** an attacked cohort or leader within your threatened area\n\n**Effect:** You redirect the triggering attack to yourself, becoming the target for all purposes. You must be aware of the triggering attack.\n\n**Augment 1 mf [Selfless Defense]:** You may now use this ability in response to a single-target effect, redirecting it to yourself. If you are immune to the redirected effect, you are instead staggered for 1 round, bypassing any immunity to the staggered condition you possess."
+    }
+   ]
+  },
+  {
+   "id": "leadership/hunting-coordination-cohort",
+   "name": "Hunting Coordination",
+   "kind": "talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Cohort and Recruit Talents",
+   "tags": [
+    "cohort"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#hunting-coordination-cohort",
+   "md": "*A pack hunts together.*\n\nYou gain the following options:",
+   "options": [
+    {
+     "name": "Safe Passage",
+     "tags": [
+      "cohort"
+     ],
+     "talentTags": [],
+     "anchor": "safe-passage-cohort",
+     "md": "**Effect:** Cohorts and leaders do not provoke attacks of opportunity for moving through the threatened squares of creatures threatened by another cohort or leader.\n\n**Associated Feat:** Escape Route (*Ultimate Combat*)."
+    },
+    {
+     "name": "Watch Together",
+     "tags": [
+      "cohort"
+     ],
+     "talentTags": [],
+     "anchor": "watch-together-cohort",
+     "md": "**Effect:** Whenever a cohort or leader succeeds on a Perception check, each other cohort and leader within close range are also treated as succeeding on that check.\n\nIn addition, if a cohort or leader could act in a surprise round, each other cohort or leader may also act during that surprise round.\n\n**Associated Feat:** Lookout (*Advanced Player’s Guide*)."
+    }
+   ]
+  },
+  {
+   "id": "leadership/logistics-coordination-cohort-recruit",
+   "name": "Logistics Coordination",
+   "kind": "talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Cohort and Recruit Talents",
+   "tags": [
+    "cohort",
+    "recruit"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#logistics-coordination-cohort-recruit",
+   "md": "*Your army runs on good recruits and better relationships.*\n\nYou gain the following options:",
+   "options": [
+    {
+     "name": "New and Old Friends",
+     "tags": [
+      "cohort"
+     ],
+     "talentTags": [
+      "utility"
+     ],
+     "anchor": "new-and-old-friends-cohort-utility",
+     "md": "**Effect:** You increase the number of contacts you can maintain by an additional 1 per associated rank (now 2 contacts per associated skill rank).\n\nWhile in a settlement, you may gain new contacts by attempting a Diplomacy check to gather information, using your associated skill bonus in place of your Diplomacy bonus. The DC is determined as using the optional rule **Associated Skill Checks to *Recruit* Cohorts**. On a success, you gain 1 new contact, +1 contact per 5 you exceed the DC by. You may only benefit from this once per week per settlement."
+    },
+    {
+     "name": "Quartermaster’s Skill",
+     "tags": [
+      "cohort"
+     ],
+     "talentTags": [],
+     "anchor": "quartermasters-skill-cohort",
+     "md": "**Effect:** Your cohorts treat any weapon, armor, shield, or implement they wield as though they were magical and treat its enhancement bonus as +1 higher, +1 per 10 associated skill ranks. This applies even if the equipment is not masterwork or not already magical. This cannot cause the enhancement bonus of a cohort’s equipment to exceed a +5 enhancement bonus (such as a +4 *flaming* longsword being treated as a +5 *flaming* longsword, but an already +5 weapon would not benefit).\n\nWhen you first *recruit* a cohort, in addition to the cohort’s starting kit, the cohort may acquire any amount of mundane equipment for their personal use (such as more expensive armor or high Strength-rating composite longbows, subject to GM discretion). At 5 associated skill ranks, equipment acquired this way may also be made of special materials.\n\nThis option does not allow a cohort to acquire additional consumables or equipment not directly relevant to their abilities."
+    }
+   ]
+  },
+  {
+   "id": "leadership/mystic-coordination-cohort",
+   "name": "Mystic Coordination",
+   "kind": "talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Cohort and Recruit Talents",
+   "tags": [
+    "cohort"
+   ],
+   "talentTags": [],
+   "prerequisites": "casting class feature.",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#mystic-coordination-cohort",
+   "md": "You gain the following options, and you and your cohorts gain the *cohort delivery* sphere ability.",
+   "options": [
+    {
+     "name": "Cohort Conduit",
+     "tags": [
+      "cohort"
+     ],
+     "talentTags": [],
+     "anchor": "cohort-conduit-cohort",
+     "md": "**Prerequisite:** casting class feature.\n\n**Effect:** Your cohorts gain the share spells ability, allowing you to cast spells with a target of “you” on a cohort as though casting a touch spell. You may cast spells on your cohorts even if those spells do not normally affect creatures of the cohort’s type.\n\n**Special:** This is treated as the share spells ability (as the familiar ability)."
+    },
+    {
+     "name": "Cohort Delivery",
+     "tags": [
+      "cohort"
+     ],
+     "talentTags": [],
+     "anchor": "cohort-delivery-cohort",
+     "md": "**Prerequisites:** casting class feature or supernatural ability with a range of touch (see text).\n**Action:** 1 standard action\n**Range:** a cohort or leader within close range\n\n**Effect:** When you cast a spell or use a supernatural ability with a range of touch, you may transfer that spell or supernatural effect to another cohort or leader, who may deliver the effect as the “toucher”, spending their own actions to do so. If you cast another spell or use the same supernatural ability again before the effect is delivered by the toucher, the effect is lost.\n\n**Augment 1 mf [Striking Delivery]:** When transferring a spell or supernatural effect to the toucher, the toucher may instead deliver the effect through their next successful weapon attack.\n\n**Special:** This option is treated as the deliver touch spells ability (as the familiar ability)."
+    },
+    {
+     "name": "Safeguarded Cohorts",
+     "tags": [
+      "cohort"
+     ],
+     "talentTags": [],
+     "anchor": "safeguarded-cohorts-cohort",
+     "md": "**Effect:** Whenever a cohort attempts a save against an effect created by their leader, they roll twice and take the better result. On a successful save, the cohort avoids all additional effects that would otherwise occur (additional saves, half damage, inflicted conditions, and so on)."
+    }
+   ]
+  },
+  {
+   "id": "leadership/readiness-coordination-cohort",
+   "name": "Readiness Coordination",
+   "kind": "talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Cohort and Recruit Talents",
+   "tags": [
+    "cohort"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#readiness-coordination-cohort",
+   "md": "*Standing together with one purpose.*\n\nYou gain the following options:",
+   "options": [
+    {
+     "name": "Cohort Teamwork",
+     "tags": [
+      "cohort"
+     ],
+     "talentTags": [],
+     "anchor": "cohort-teamwork-cohort",
+     "md": "**Effect:** Your cohorts are treated as possessing any teamwork feats you possess, even if they do not meet the prerequisites of those teamwork feats.\n\n**Associated Feat:** Practiced Leadership (*Champions of Balance*)."
+    },
+    {
+     "name": "Joint Readiness",
+     "tags": [
+      "cohort"
+     ],
+     "talentTags": [],
+     "anchor": "joint-readiness-cohort",
+     "md": "**Effect:** When readying an action, you and your cohorts may exclude actions taken by a cohort or a leader as a trigger (such as “the next creature that walks through that door” would never trigger due to the actions of a cohort or a leader).\n\nIn addition, whenever a cohort or leader readies an action and that readied action triggers, other cohorts or the leader may take that same action as a joint action. If the action requires an attack roll or check, each participant may use the highest roll as their own roll. A readied action cannot be shared this way if the triggering action was done by a cohort or a leader.\n\nEach participant’s action is subject to the same trigger conditions as the original readied action, but may target other creatures, provided those targets also meet the trigger (such as readying to attack any charging creature, then targeting different chargers).\n\n**Associated Feat:** Concentrated Fire (*Inner Sea Races*)."
+    }
+   ]
+  },
+  {
+   "id": "leadership/temporary-conscription-recruit",
+   "name": "Temporary Conscription",
+   "kind": "talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Cohort and Recruit Talents",
+   "tags": [
+    "recruit"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#temporary-conscription-recruit",
+   "md": "*Instead of gaining the services of a cohort, you create a bond between yourself and one of your allies.*\n\n**Action:** 15 minutes\n**Duration:** 24 hours\n**Target:** 1 ally\n\n**Effect:** The target becomes a conscripted ally for the duration. You may have up to 1 conscripted ally at a time, +1 per 5 associated skill ranks.\n\nA conscripted ally is treated as one of your cohorts, and you are treated as their leader. A conscripted ally may benefit from (cohort) talents, except those that permanently improve or modify a cohort, such as quartermaster’s skill, talented cohorts, and training regiment. Class features or other abilities that further customize cohorts similarly do not apply to conscripted allies (such as a knight captain’s squires or a sheriff’s deputies).\n\nIf a conscripted ally becomes hostile to you for any reason, this effect is temporarily suppressed until they are no longer hostile.",
+   "options": []
+  },
+  {
+   "id": "leadership/training-coordination-cohort-recruit",
+   "name": "Training Coordination",
+   "kind": "talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Cohort and Recruit Talents",
+   "tags": [
+    "cohort",
+    "recruit"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#training-coordination-cohort-recruit",
+   "md": "*The key to a well maintained unit is discipline and training.*\n\nYou gain the following options:",
+   "options": [
+    {
+     "name": "Talented Cohorts",
+     "tags": [
+      "cohort"
+     ],
+     "talentTags": [],
+     "anchor": "talented-cohorts-cohort",
+     "md": "**Effect:** One cohort of your choice gains 1 additional feat. If you retrain one or more feats granted by this option, you may instead assign those feats to a different cohort in your service.\n\n**Special:** This talent may be selected multiple times. Each time it is selected, you gain 1 additional feat to assign to a cohort."
+    },
+    {
+     "name": "Training Regiment",
+     "tags": [
+      "recruit"
+     ],
+     "talentTags": [
+      "utility"
+     ],
+     "anchor": "training-regiment-recruit-utility",
+     "md": "**Action:** 2 hours or longer (see text)\n\n**Effect:** Instead of *recruiting* a new cohort, you spend 2 hours to retrain one of your cohorts, reselecting 1 feat, talent, or a number of skill ranks equal to your associated skill rank. Newly selected feats, talents, and skills must be appropriate for the cohort (subject to GM discretion). A cohort can only be retrained once per day this way.\n\nAlternatively, you may fully retrain a cohort, reselecting the cohort’s job and any number of their feats, talents, or skills. This also changes the cohort’s ability scores, as appropriate. You must spend 24 hours to fully retain a cohort this way, or 8 hours if in a settlement with access to appropriate trainers (subject to GM discretion). This retraining period may be spread across multiple sessions but is not complete until the full time is spent."
+    }
+   ]
+  },
+  {
+   "id": "leadership/blacksmith-follower-utility",
+   "name": "Blacksmith",
+   "kind": "talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Follower Talents",
+   "tags": [
+    "follower"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#blacksmith-follower-utility",
+   "md": "**Effect:** You gain a talented blacksmith as a follower. When you *make camp*, the blacksmith sets up their forge to perform repairs and maintenance.\n\n**Follower’s Skill - Craft:** The blacksmith’s Craft bonus is equal to your associated skill bonus, and is treated as having any reasonable Craft skill for non-alchemical, magical, or technological purposes (subject to GM discretion).\n\n**Blacksmith’s Assistance:**\n\n- *Blacksmith’s Flourish*: The blacksmith knows a single Artifice sphere (flourish) option. The blacksmith can apply that flourish to existing equipment or equipment they craft. The blacksmith may reselect the chosen (flourish) once per week.\n\n  The blacksmith can maintain a number of flourishes equal to 2 + 1/2 your associated skill ranks. The blacksmith can maintain flourishes even if they no longer have that flourish selected, but flourishes maintained this way count as maintaining 2 flourishes (instead of just 1).\n- *Reforge and Repair (requires 3 associated skill ranks)*: The blacksmith can use the blacksmith class’s reforge ability to reshape existing equipment or repair broken equipment, treating the blacksmith’s effective blacksmith level as equal to your associated skill ranks.\n\n  In addition, the blacksmith can repair objects at a rate of 2 hit points per associated skill rank. The blacksmith requires 10 minutes to repair a nonmagical item or 1 hour to repair a magical item. The blacksmith can remove the broken and destroyed conditions from an item this way, provided that all of the pieces of the object are present. Subject to GM discretion, unusually powerful magic items, such as artifacts, magic items with unique materials may not be able to be repaired this way.\n- *Smithing*: The blacksmith makes Craft checks to produce and repair nonmagical, nonalchemical equipment, arms, and armor. The blacksmith measures their crafting progress in gold pieces each day.\n\nThe blacksmith provides the necessary materials and gold to craft items on your behalf. Items crafted by the blacksmith sell for 1/4 the item’s normal purchase price (as you pay half of the proceeds to the blacksmith as compensation for their services).",
+   "options": []
+  },
+  {
+   "id": "leadership/detective-follower-utility",
+   "name": "Detective",
+   "kind": "talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Follower Talents",
+   "tags": [
+    "follower"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#detective-follower-utility",
+   "md": "**Effect:** You gain a talented detective as a follower. When you *make camp*, the detective reviews their leads and ongoing cases, cross-references gathered information, and consults on next steps.\n\n**Follower’s Skill - Sense Motive:** The detective’s Sense Motive bonus is equal to your associated skill bonus.\n\n**Detective’s Assistance:** If the detective provides the work the case assistance, they leave the camp and are unavailable until they return.\n\n- *Detective’s Analysis*: The detective knows a single Investigation sphere (analyze) option. The detective may teach one other creature the ability to *analyze* at-will, using the chosen (analyze) option and the detective’s statistics to determine its effects. A creature that *analyzes* this way uses Sense Motive in place of the (analyze)’s skills and uses the detective’s Sense Motive bonus in place of their own. The detective may reselect the chosen (analyze) once per week.\n- *String Board*: The detective maintains string boards containing all of their case notes for a specific individual, faction, or event, collecting evidence and information through the work the case assistance or as supplied by other creatures (such as you and your allies bringing a diary for the detective to read through). Once per day, the detective may help to identify a single obvious connection or simply inference based on a string board’s information (subject to GM discretion), which usually takes the form of a new lead or hint towards finding more information about the subject. The detective may maintain up to 1 string board, +1 per 5 associated skill ranks; the detective must abandon a previous string board to create a new one.\n- *String Board, Just One More Thing (requires 10 associated skill ranks)*: The detective may now identify non-obvious connections (subject to GM discretion; this may take the form of nonsensical or near supernatural leaps of logic to provide new hints or clues for one of the detective’s string boards).\n- *Work the Case*: The detective takes 8 hours to investigate a specific individual, faction, or event. The detective then produces a written dossier on the subject using their Sense Motive bonus in place of any Diplomacy checks to gather information or Knowledge checks to identify the subject. This assistance is only available while in or near a settlement or large group, and may only be used once per day. The detective will avoid dangerous locations when they work the case, and may be unable to find certain information because of this (such as files kept in a gang’s hideout).",
+   "options": []
+  },
+  {
+   "id": "leadership/groom-follower-utility",
+   "name": "Groom",
+   "kind": "talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Follower Talents",
+   "tags": [
+    "follower"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#groom-follower-utility",
+   "md": "**Effect:** You gain a talented groom as a follower. When you *make camp*, the groom establishes a stable to feed, care for, and train your animals.\n\n**Follower’s Skill - Handle Animal:** The groom’s Handle Animal bonus is equal to your associated skill bonus. The groom may use their Handle Animal bonus in place of Heal or Knowledge for any check made about an animal (such as identification, medical treatment, and so on). At 5 associated skill ranks, this now includes magical beasts and vermin.\n\n**Groom’s Assistance:**\n\n- *Bolster Animal*: The groom feeds and cares for animals, including any mounts from the provide mounts assistance. An animal that is fed and cared for by the groom this way gains 3 temporary hit points per associated skill rank. These temporary hit points last until lost, and while they have these temporary hit points, the animal also gains a +1 bonus on all saving throws, +1 per 4 associated skill ranks.\n- *Caravan*: The groom’s mounts assist in overland travel by helping slower individuals travel faster or by hauling equipment, goods, and possessions. Increase the total distance you and other creatures traveling with you can travel in one day of overland travel by +1 mile per associated skill rank.\n\n  **Note:** Caravan assumes the groom and the mounts from the provide mounts assistance are traveling with you as part of a group. Creatures traveling with their own overland travel speed and not with you and the groom do not benefit from this assistance.\n- *Provide Mounts*: The groom will specially care for a number of animals up to 1 + your practitioner modifier (referred to here as “mounts”). A mount is generally any conventionally rideable animal or pack animal, such as horses, mules, oxen and aurochs. If a mount dies, the groom will source new, suitable mounts the next time they are in a settlement, or may attempt to tame wild animals as they travel (subject to availability), usually taking no more than 1 week to do so.\n\n  Typical mounts provided by the groom have either a land or swim speed, based on the terrain and needs. If you possess improved provide mounts, the groom can provide other forms of movement, such as burrowing, climbing, and flight, provided there is a suitable animal with that movement mode.\n- *Provide Mounts, Improved (requires 5 associated skill ranks)*: The groom can source unusual creatures to serve as mounts, up to 1 creature, +1 per 5 associated skill ranks. Unusual creatures are usually animals, magical beasts, or vermin with a CR up to 2 + 1/2 your associated skill ranks.\n\n  An Intelligent creature sourced as a mount is generally bargained with by the groom, and an agreement is made for its service, whether that is being paid and rewarded for their service, to only perform certain acts, and so on. In this circumstance, you may need to provide special assistance to the groom to maintain such a mount. For example, a unicorn may require they only serve a suitably good person and only be used in pursuit of good deeds.\n\n**Special - Beastmastery sphere or Animal Companion class feature (see text):** Your animal allies may be designated as mounts, in place of the groom sourcing a suitable mount. Animal companions, familiars, mounts, or other class features that grant a subordinate suitable as an animal ally may also be designated as a mount this way.",
+   "options": []
+  },
+  {
+   "id": "leadership/healer-follower-utility",
+   "name": "Healer",
+   "kind": "talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Follower Talents",
+   "tags": [
+    "follower"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#healer-follower-utility",
+   "md": "**Effect:** You gain a talented healer as a follower. When you *make camp*, the healer sets up their work station to treat wounds and make poultices and remedies available to the camp.\n\n**Follower’s Skill - Heal:** The healer’s Heal bonus is equal to your associated skill bonus.\n\n**Healer’s Assistance:**\n\n- *Healer’s Herbs*: The healer knows a single Herbalism sphere concoction option, chosen between a tincture, tonic, or aroma (*DS: Invention and Ingenuity*), as well as 3 herb types. Whenever you *make camp*, the healer gathers herbs and can provide their herbs or concoctions to other creatures, or use their herbs as part of tending to patients. The healer may reselect the chosen concoction option and their 3 herb types once per week.\n\n  The healer can gather herbs a number of times each day equal to 2 + 1/2 your associated skill ranks.\n- *Inoculations and Remedies*: Each day, the healer can provide minor inoculations and tonics to fortify the body and mind to 2 creatures, +1 creature per 2 associated skill ranks. The healer’s inoculation provides a +1 alchemical bonus, +1 per 10 associated skill ranks, on saving throws made against disease and poison. The healer’s inoculation lasts for 24 hours, or until administered by the healer again.\n\n  When a creature is first exposed to a disease or poison, they may expend the inoculation to take 13 on their saving throw against the disease or poison (similar to expending martial focus, retaining the inoculation’s bonus for this saving throw).\n- *Respite*: The healer is treated as having a healer’s kit with unlimited uses for the purposes of performing Heal checks, such as to treat deadly wounds, treat disease, or treat poison. When using the Heal skill, the healer can tend to 4 patients, +1 patient per 2 associated skill ranks at the same time.",
+   "options": []
+  },
+  {
+   "id": "leadership/hunter-follower-utility",
+   "name": "Hunter",
+   "kind": "talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Follower Talents",
+   "tags": [
+    "follower"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#hunter-follower-utility",
+   "md": "**Effect:** You gain a talented hunter as a follower. When you *make camp*, the hunter makes the campfire to prepare food and butcher valuable trinkets from the hunted.\n\n**Follower’s Skill - Survival:** The hunter’s Survival bonus is equal to your associated skill bonus.\n\n**Hunter’s Assistance:** Unlike a normal assistance, the hunter provides the tracking assistance while you travel. The hunter can provides the tracking assistance\n\n- *Hunt for Food*: The hunter hunts and forages while they travel with you, and will butcher and prepare food suitable for 2 Medium creatures per associated skill rank (not including the hunter themselves). The hunter provides food this way even in harsh environments, making a Survival check as appropriate.\n- *Hunter’s Trophies*: The hunter knows a single Survivalism sphere (harvest) option. The hunter may refine components and create talismans for use by other creatures. The hunter may reselect the chosen (harvest) option once per week.\n\n  The hunter may maintain a number of components equal to 2 + 1/2 your associated skill ranks. The hunter may maintain components from different harvest options even if they no longer have that harvest option selected, but components maintained this way count as maintaining 2 components (instead of just 1).\n\n  The hunter will procure components from common animals hunted while traveling or may be brought specific corpses to harvest components or use those components to modify a talisman. Alternatively, instead of extracting a component, the hunter may harvest trophies from a provided creature (see *Ultimate Wilderness*, **Trophies and Treasures**).\n- *Tracking*: While traveling, the hunter can identify and help follow tracks, using their Survival bonus to identify tracks. The hunter will track a target as far as they can until they believe it would become dangerous to pursue further.",
+   "options": []
+  },
+  {
+   "id": "leadership/laborers-follower-utility",
+   "name": "Laborers",
+   "kind": "talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Follower Talents",
+   "tags": [
+    "follower"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#laborers-follower-utility",
+   "md": "**Effect:** You gain a group of laborers as a follower, representing a pool of workers, hands, and general crew who accompany you and lend their numbers when and where needed.\n\n**Follower’s Skill - Profession (laborer):** The laborers’ Profession (laborer) bonus is equal to your associated skill bonus.\n\n**Laborers’ Assistance:** Unlike other (follower) talents, the laborers are a group of followers (instead of a single individual), typically 1 laborer per associated skill rank, typically each a 1st-level commoner or expert. When performing an assistance, the entire group of laborers are assumed to be assigned to that task, but the group may be split to perform separate projects at the same time (reducing their effective associated ranks appropriately).\n\n- *Crew*: The laborers can crew a ship or other large vessel, using their Profession (laborer) bonus in place of other Profession checks required to operate or maintain the vessel.\n\n  If using *Ships of Skyborne*, your laborers count as a small crew with a level equal to your associated skill ranks - 2 (minimum 1). If you have fewer than 2 associated skill ranks, reduce the crew’s hit points by 20 and damage by 2d6; if you have exactly 2 associated skill ranks, reduce the crew’s hit points by 10 and damage by 1d6. For every 5 associated skill ranks you possess, your laborers count as an additional small crew. Each crew formed from your laborers gains a +10 morale bonus on loyalty checks, and their loyalty is not reduced by not being paid. Each crew gains one bonus perk, plus one additional perk for every 5 associated skill ranks you possess. These perks may be changed with 1d4 days.\n\n  See Player’s Guide to Skybourne and Ships of Skybourne for crew rules.\n- *Construction Labor*: The laborers assist when constructing new buildings. The laborers contribute work and labor towards standard construction projects (such as constructing a new building, creating a bridge, and so on), each individual laborer contributing the labor of 10 standard workers.\n\n  If using the Downtime (*Ultimate Campaign*), the laborers reduce the Labor capital cost of one downtime activity by 1 each day, to a minimum of 0. This reduction increases by 1 for every 4 associated skill ranks; the total reduction may be applied to a single activity or split and allocated across several.\n\n  If using Kingdom Building (*Ultimate Campaign*), the laborers reduce the cost of constructing or demolishing a single building or improvement by 1 build point per kingdom turn, to a minimum of 0. This reduction increases by 1 for every 4 associated skill ranks; the total reduction may be applied to a single building or improvement or split and allocated across several.\n- *Fortified Camp*: The laborers know a single Survivalism sphere (dredge) option, and may apply that (dredge) to the ditch they construct as part fortifying the campsite (see below). If the laborers fortify a new campsite (or the same campsite differently), the previous ditches they constructed no longer benefit from that (dredge). The laborers may reselect the chosen (dredge) once per week.\n\n  When you *make camp*, the laborers may spend 1 hour to fortify the campsite. The laborers construct a 5-foot wide and 5-foot deep ditch, occupying 2 squares per assigned laborer. For every 5 associated skill ranks, the ditch may either be an additional 5 feet wider or 5 feet deeper (such as a 10-foot wide and 10-foot deep ditch at 10 associated skill ranks).\n\n  When constructing a ditch, the laborers may also construct a 5-foot tall bern (a raised, compacted area, typically using soil, stone, and dirt) in a square adjacent to the ditch (typically forming a contiguous wall on the defensive side of the ditch). For every 5 feet deep the resulting ditch is, the bern may be 5 feet taller. The bern provides soft cover to a creature taller than it, cover to a creature the same height as it, and total cover to a creature shorter than it (i.e. a Medium creature would be the same height as a 5-foot tall bern, whereas a Small creature would be shorter).",
+   "options": []
+  },
+  {
+   "id": "leadership/magewright-follower-utility",
+   "name": "Magewright",
+   "kind": "talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Follower Talents",
+   "tags": [
+    "follower"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#magewright-follower-utility",
+   "md": "**Effect:** You gain a talented magewright as a follower. When you *make camp*, the magewright catalogues and organizes their curios, and helps to identify new items and trinkets that are brought to them.\n\n**Follower’s Skill - Knowledge (arcana):** The magewright’s Knowledge (arcana) bonus is equal to your associated skill bonus.\n\n**Magewright’s Assistance:**\n\n- *Identification*: The magewright may spend 10 minutes to identify a single magic item as though using *detect magic*, using their Knowledge (arcana) in place Spellcraft to do so. At 5 associated skill ranks, the magewright gains an additional bonus equal to 1/2 your associated ranks on checks made to identify magic items and their properties, and can now simultaneously identify a number of magic items equal to 1 + your practitioner modifier.\n- *Magewright’s Spellhacking*: The magewright knows a single Spellhacking sphere (hack) option. Each day, the magewright may *hack magic* with their chosen (hack) up to 2 times per day, +1 additional time per 4 associated skill ranks. The magewright may reselect the chosen (hack) once per week.\n- *Revealing Trinket*: The magewright knows a single Divination sphere alternate divination option (such as Life sphere’s divine health or Fate sphere’s detect loyalties). Once per day, the magewright can use the Spellhacking magical resonance (mishap) on a single magic item you provide to them. Unlike a standard mishap, the magewright’s work lasts for 24 hours and the magewright may replace magical resonance’s normal effects with their alternate divination. The magewright may reselect the chosen alternate divination once per week.",
+   "options": []
+  },
+  {
+   "id": "leadership/merchant-follower-utility",
+   "name": "Merchant",
+   "kind": "talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Follower Talents",
+   "tags": [
+    "follower"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#merchant-follower-utility",
+   "md": "**Effect:** You gain a talented merchant as a follower. When you *make camp*, the merchant establishes their shop to appraise goods, make offers, or source goods on request.\n\n**Follower’s Skill - Appraise:** The merchant’s Appraise bonus is equal to your associated skill bonus. The merchant may use their Appraise bonus in place of Spellcraft or other relevant skills when identifying and appraising magic items, potions, trade goods, and so on.\n\n**Merchant’s Assistance:**\n\n- *Businessman*: The merchant manages your businesses and investments. The merchant uses their Appraise bonus in place of Profession to earn income once per week (or once per day, if using *Pathfinder Unchained*). The merchant earns income for you even while traveling with you, but only receives any income when entering a settlement (including from any businesses or investments they manage, see below). If you possess any abilities, effects, or feats that modify how you can earn income, run a business, or benefit from investments, the merchant also benefits from those abilities.\n\n  The merchant can also manage your businesses and investments:\n  - *Business Management*: If using businesses, the merchant manages 1 business on your behalf, +1 business per 5 associated skill ranks, and uses their Appraise bonus in place of Profession checks to determine the income of the business or for any other checks required to manage the business. See either *Ultimate Campaign*, Gaining Capital, or *Pathfinder Unchained*, Professions, for full information on both downtime business systems.\n  - *Investment Management*: If using investments, the merchant manages your investments. For each investment, you roll twice and take the better result each year for that investment’s result. If retrieving an investment’s seed money, the merchant does not lose half of the seed money. See *Ultimate Campaign*, Investments for full information on investments.\n- *Vendor*: While not in a settlement, the merchant purchases and sells goods according to **Table: Merchant Vendor**. The merchant has a 75% chance to stock items of their purchase value or lower, and if an item is not available, can requisition the item within 1d3 days. The merchant is able to trade up to their purchase limit before needing to be in a settlement to restock their inventory and replenish their available funds.\n\nWhile in a settlement, the merchant instead helps find better markets to do business in. You treat the settlement as 1 size larger when determining the base value of items available, purchase limit, and availability of magic items for sale.\n\n**Note:** If the GM would not normally use settlement statistics to determine what items are available, the merchant is able to buy from and sell to other creatures. The merchant still has limited inventory while not in a settlement and must return to a settlement to restock and replenish.\n\n**Table: Merchant Purchase Value**\n\n| Associated Skill Ranks | Effective Settlement Size | Purchase Value | Purchase Limit |\n| --- | --- | --- | --- |\n| 1 | Hamlet | 200 gp | 1,000 gp |\n| 3 | Village | 500 gp | 2,500 gp |\n| 6 | Small town | 1,000 gp | 5,000 gp |\n| 9 | Large town | 2,000 gp | 10,000 gp |\n| 12 | Small city | 4,000 gp | 25,000 gp |\n| 15 | Large city | 8,000 gp | 50,000 gp |\n| 18 | Metropolis | 16,000 gp | 100,000 gp |",
+   "options": []
+  },
+  {
+   "id": "leadership/messenger-follower-plan-utility",
+   "name": "Messenger",
+   "kind": "talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Follower Talents",
+   "tags": [
+    "follower"
+   ],
+   "talentTags": [
+    "plan",
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#messenger-follower-plan-utility",
+   "md": "**Effect:** You gain a swift messenger as a follower. When you *make camp*, the messenger distributes messages and packages and relays information from nearby settlements.\n\n**Follower’s Skill - Knowledge (local):** The messenger’s Knowledge (local) bonus is equal to your associated skill bonus.\n\n**Messenger’s Assistance:** Unlike other followers, the messenger only provides the send message assistance. The messenger is unavailable when delivering a message.\n\n- *Send Message*: The messenger quickly delivers messages by horseback or other suitable means of transportation, personally delivering or retrieving mail or items up to 10 lbs per associated skill rank. The messenger travels at a speed of 60 miles per day, +10 miles per 2 associated skill ranks. The messenger can reach any place reachable by normal travel.\n\n  The messenger may also assist your other followers. If a follower assistance would require being in a settlement or having contact with a settlement, such as a blacksmith requiring special materials, a groom looking for exotic animals, or a merchant managing your businesses, the messenger is able to fulfill those assistance options through their own travel.\n\n  If not sending a message, the messenger remains with you, ready to send a message whenever you request it.\n\nThe send message assistance can be further modified by the following options.\n\n- *Recruiter (requires (cohort) package)*: The messenger can *recruit* a cohort from nearby settlements on your behalf, as though you were in that settlement, returning with with the new cohort once *recruited*.\n- *Supply Drop* [plan]: Instead of sending the messenger elsewhere, you may prepare the messenger’s assistance as a plan. As long as the messenger is not out sending a message on your behalf, you may reveal this plan and the messenger arrives within 1d4+1 rounds. The messenger delivers you equipment and items from your camp and may deliver other followers’ assistance this way (such as delivering equipment crafted by the blacksmith or a healer’s Herbalism concoctions, subject to that follower’s normal daily limits providing that assistance).\n\n  Once the messenger delivers any such items or assistance, they return to camp.\n\n**Special - Faction sphere or other settlement-based abilities (see text):** You treat your camp as though it were a settlement for other abilities, class features, and talents, such as the ability to use the Faction sphere’s requisitions, but must send the messenger to retrieve any such benefits.",
+   "options": []
+  },
+  {
+   "id": "leadership/musician-follower-utility",
+   "name": "Musician",
+   "kind": "talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Follower Talents",
+   "tags": [
+    "follower"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#musician-follower-utility",
+   "md": "**Effect:** You gain a talented musician as a follower. When you *make camp*, the musician finds a place by the fire and soothes the weariness of their fellow travelers with song and rhyme.\n\n**Follower’s Skill - Perform:** The musician’s Performance bonus is equal to your associated skill bonus. The musician is talented in all forms of Performance, from playing the lyre or flute, to comedy, drama, and dance.\n\n**Musician’s Assistance:**\n\n- *Ambiance*: Once per day when you *make camp*, choose comfort or solace. Once chosen, the musician performs and provides the chosen option’s benefits to any creature that rests for 30 minutes in the camp. A creature can only benefit from this assistance once per day (regardless of which ambiance is played).\n  - *Comfort*: Creatures recover from fatigued and reduce exhausted to fatigued. In addition, creatures gain a +1 morale bonus on saving throws made against effects that inflict fatigued or exhausted, +1 per 10 associated skill ranks.\n  - *Solace*: Creatures recover 1d2 points of sanity damage (*Horror Adventures*, Sanity). In addition, creatures gain a +1 morale bonus on saving throws against emotion and fear effects or any effect that inflicts sanity damage for 24 hours, +1 per 10 associated skill ranks.\n- *Musician’s Talent*: The musician knows a single Performance sphere option, chosen between an (act), (dance), (instrumental), or (lyric). The musician can teach one creature how to perform, using their chosen Performance sphere option and the musician’s statistics to determine its effects. The creature may perform 2 times, +1 additional times per 10 associated skill ranks. The musician may reselect the chosen Performance sphere option once per week.\n- *Stories Untold (requires 10 associated skill ranks)*: Once per week, you may ask the musician to tell a tale about a subject, whether it is an important person, place, or thing. The musician spends 1d6 x 10 minutes telling the story of the subject, sharing legends, facts, and rumors about the subject. This may include the subject’s history, current rumors, and related myths, such as a final resting place, the location of treasure, the subject’s great weakness, and any other pieces of lore about the subject.\n\n**Note:** The tale’s subject must be something that is widely enough known to know its name and its origin, and otherwise not lost to time or forgotten (subject to GM discretion). Subjects may include things such as ancient cities, modern day figures, lost or hidden treasures, local myths, and forgotten heroes. This assistance is otherwise similar to *legend lore* and should be treated similarly.",
+   "options": []
+  },
+  {
+   "id": "leadership/rake-follower-plan-utility",
+   "name": "Rake",
+   "kind": "talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Follower Talents",
+   "tags": [
+    "follower"
+   ],
+   "talentTags": [
+    "plan",
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#rake-follower-plan-utility",
+   "md": "**Effect:** You gain a talented rake as a follower. When you *make camp*, the rake cracks jokes at the expense of allies, tells outrageous stories, and keeps morale loose.\n\n**Follower’s Skill - Bluff:** The rake’s Bluff bonus is equal to your associated skill bonus.\n\n**Rake’s Assistance:**\n\n- *Gather Crowd [plan]*: The rake has spent time gathering passersby and onlookers to form a crowd. When you reveal this plan, the rake finishes gathering a crowd, making a Bluff check. The rake gathers a number of intelligent creatures in the resulting crowd equal to 5-times the check’s results. This multiplier increases by 5 for every 5 associated skill ranks.\n- *Heckler [plan]*: The rake is prepared to cause a scene at any moment. When you reveal this plan, the rake appears in a social setting or location within a settlement to either heckle an individual or a crowd:\n  - *Heckle Individual*: The rake singles out a specific creature, loudly and publicly humiliating them. That creature becomes uncertain for 10 minutes per associated skill rank. While uncertain this way, social skill checks (i.e. Bluff, Diplomacy, Intimidate) made by that creature suffer a further -4 penalty and social skill checks made against that creature gain a +4 circumstance bonus. In addition, the creature’s attitude cannot be improved during this time.\n  - *Heckle Crowd*: The rake works a crowd, either riling them up or scattering them. The exact consequences of affecting a crowd this way are subject to GM discretion (a riled up crowd of noblefolk may simply scatter on their own, whereas a starving peasant mob may weigh their options). Once a crowd has been riled up or scattered, a new crowd typically will not gather in the same place for at least 1d4 x 10 minutes.\n- *Rake’s Quip*: The rake knows a single Bluster sphere (quip) option. The rake may teach one creature how to *quip*, using the chosen (quip) and the rake’s statistics to determine its effects. The creature may *quip* this way 1 time, +1 additional time per 5 associated skill ranks. The rake may reselect the chosen (quip) once per week.\n- *Steady Nerves*: Once per day, the rake spends time with one other creature, dulling their nerves with banter and bravado. That ally gains a +2 morale bonus on saves against emotion and fear effects, +1 per 10 associated skill ranks, for 24 hours.",
+   "options": []
+  },
+  {
+   "id": "leadership/scholar-follower-utility",
+   "name": "Scholar",
+   "kind": "talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Follower Talents",
+   "tags": [
+    "follower"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#scholar-follower-utility",
+   "md": "**Effect:** You gain a talented scholar as a follower. When you *make camp*, the scholar reads through their tomes and journals, provides advice and information, and continues their research.\n\n**Follower’s Skill - Knowledge (see text):** The scholar’s Knowledge bonus is equal to your associated skill bonus (selecting a single Knowledge skill using their library of knowledge assistance). The scholar may use their Knowledge bonus in place of Linguistics to decipher and detect forgeries.\n\n**Scholar’s Assistance:**\n\n- *Library of Knowledge*: The scholar may reselect their Knowledge subject for their follower’s skill once per day. While in camp, the scholar answers questions using their Knowledge bonus on topics relevant to their currently selected Knowledge subject. In addition, other creatures may treat the scholar as a library for topics related to the scholar’s currently selected Knowledge subject.\n- *Scholar’s Theory*: The scholar knows a single Study sphere (theory) option. The scholar can teach one creature to *theorize*, using the scholar’s Study sphere (theory) and the scholar’s statistics to determine its effects. The creature may *theorize* this way 1 time, +1 time per 10 associated skill ranks, and gains 1 notion, +1 notion per associated skill rank, when they do. The creature cannot gain new notions for this theory, and cannot spend this theory’s notions on other effects. The scholar may reselect the chosen (theory) once per week.\n- *Text Conservation (requires 10 associated skill ranks)*: If the scholar is given a source of written text, the scholar can either restore it or create a recreation of the original text, provided that any legible scrap of the original text remained. Restoring text takes the scholar 1 day, for minor damage, up to 1 month, for major reconstruction (subject to GM discretion). A work that is completely destroyed cannot be restored (such as being completely burnt to ashes).",
+   "options": []
+  },
+  {
+   "id": "leadership/scoundrel-follower-utility",
+   "name": "Scoundrel",
+   "kind": "talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Follower Talents",
+   "tags": [
+    "follower"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#scoundrel-follower-utility",
+   "md": "**Effect:** You gain a talented scoundrel as a follower. When you *make camp*, the scoundrel prepares infiltration tools, identifies future leads, and, if in a settlement, slips into the city’s underside to drink and make contacts.\n\n**Follower’s Skill - Sleight of Hand:** The scoundrel’s Sleight of Hand bonus is equal to your associated skill bonus. The scoundrel may use their Sleight of Hand bonus in place of Disable Device for all purposes.\n\n**Scoundrel’s Assistance:** If the scoundrel provides the stalk the joint assistance, they leave camp and are unavailable until they return.\n\n- *Black Market Access*: The scoundrel knows how to find less legitimate solutions to your problems. When you *make camp* in a settlement of at least 1,000 inhabitants, the scoundrel locates a black market contact. Through this contact, creatures may purchase illegal, restricted, or otherwise unavailable goods and services at normal market price, +10% to account for the contact’s fee, including the following:\n  - *Blackmail and Bribes*: The contact can arrange blackmail material on a specific individual or facilitate a bribe to a minor official or guard. The cost of a bribe is subject to GM discretion based on the severity of the request, typically ranging from 10 gp to 500 gp per associated skill rank.\n  - *Contraband*: The contact can source restricted, banned, or otherwise controlled goods, such as poisons, prohibited alchemical items, or smuggled equipment. Contraband is treated as available regardless of settlement size.\n  - *Forged Documents*: The contact can produce forged legal documents, letters of introduction, travel papers, or similar paperwork, using the scoundrel’s Sleight of Hand bonus in place of Linguistics for the forgery check.\n  - *Grease Palms*: The contact can arrange access to a corrupt official. If one or more creatures are imprisoned or fined for crimes committed in that settlement’s jurisdiction, you pay no fines and escape sentencing. Use the scoundrel’s Sleight of Hand check against the severity of the crime (such as DC 15 for petty crimes, DC 25 for serious crimes, DC 35 for capital crimes, further modified at GM discretion). A contact may only help grease palms once per settlement per week.\n\n  In settlements of fewer than 1,000 inhabitants, the scoundrel may still attempt to locate a black market contact, but doing so takes 1d4 days and the contact’s services are limited to minor forgeries, common contraband, and petty bribes.\n- *Fence*: The scoundrel maintains a network of fences. Creatures may sell stolen or otherwise unsaleable goods through the scoundrel at their normal sale value without paying any additional fees to a fence (see Fences, *Pathfinder RPG GameMastery Guide*). The scoundrel may locate a fence in any settlement, regardless of size. If you also have a merchant follower, the two may work together to launder the proceeds of a sale, treating the transaction as legitimate for all purposes.\n- *Scoundrel’s Sabotage*: The scoundrel knows a single Infiltration sphere (sabotage) option. When you *make camp*, the scoundrel prepares a number of sabotage kits equal to 2 + 1 per 5 associated skill ranks, each prepared with their chosen (sabotage). A creature may use one of these kits to apply the chosen (sabotage) to an object, using the scoundrel’s statistics to determine its effects and the scoundrel’s Sleight of Hand bonus in place of Disable Device when determining whether the sabotage succeeds. The scoundrel may reselect their chosen (sabotage) once per week.\n- *Stalk the Joint*: The scoundrel cases a specific location and returns with details about possible entry points, patrol patterns, guard rotations, and similar observations. For the next 24 hours after reviewing the scoundrel’s observations, creatures receive a +2 circumstance bonus, +1 per 5 associated skill ranks, on Disable Device and Stealth checks made at that location as well on Perception checks made to find hidden or secret passageways and traps.",
+   "options": []
+  },
+  {
+   "id": "leadership/scout-follower-utility",
+   "name": "Scout",
+   "kind": "talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Follower Talents",
+   "tags": [
+    "follower"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#scout-follower-utility",
+   "md": "**Effect:** You gain a talented scout as a follower. When you *make camp*, the scout surveys the campsite and surrounding area and provides advice and guidance for the next day’s travels.\n\n**Follower’s Skill - Perception:** The scout’s Perception bonus is equal to your associated skill bonus.\n\n**Scout’s Assistance:** If the scout provides the map the area assistance, they leave the camp and are unavailable until they return.\n\n- *Keep Watch*: When staying in the camp, the scout helps keep watch over the camp. The scout can make Perception checks to notice other groups. You choose whether the scout will raise an alarm (making a loud noise with a bell, a yell, etc.) or if they will discretely wake individuals in the camp (at a rate of 1 individual per round).\n\n  The scout can keep watch this way for a full night, but will need to rest 8 hours during the day if they provide a full night’s watch.\n- *Map the Area*: The scout produces a reasonably detailed map of the area, including topography and features or interest. The scout maps approximately the 3-mile area surrounding the camp in 8 hours, increasing this radius by 3 miles per 3 associated skill ranks. If using the exploration rules (*Ultimate Campaign*, Exploration), this is approximately 1/2 of a hex, increasing by an additional 1/2 per 3 associated skill ranks - eventually mapping surrounding hexes in this timeframe.\n\n  The scout’s maps are reasonably detailed, using their Perception bonus in place of Knowledge (geography) to identify the terrain or any notable features. The scout’s map can be consulted for notes on how to then attempt to safely traverse the terrain and mitigate the risks of natural hazards (but such advice cannot remove these features if unavoidable). When encountering an identified hazard, a creature that has studied the map receives a +2 circumstance bonus on any skill checks or saving throws to mitigate or avoid the hazard, +1 per 5 associated skill ranks. A scout’s map only provides benefits against a specific hazard, not any hazard of that kind (for example, a specific area of quicksand identified on the map, not any area of quicksand).\n- *Scout’s Acclimation*: The scout knows a single Navigation sphere (acclimation) option. The scout can grant that acclimation to a number of other creatures equal to 2 + 1/2 your associated skill ranks. The scout may reselect the chosen (acclimation) once per week.\n\nThe scout’s acclimation also applies to the scout and your other followers. Followers protected this way do not count against the total number the scout can acclimate with this assistance.",
+   "options": []
+  },
+  {
+   "id": "leadership/seer-follower-plan-utility",
+   "name": "Seer",
+   "kind": "talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Follower Talents",
+   "tags": [
+    "follower"
+   ],
+   "talentTags": [
+    "plan",
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#seer-follower-plan-utility",
+   "md": "**Effect:** You gain a talented seer as a follower. When you *make camp*, the seer readies their fortune-telling tools - from bones, to cards, to steeping tea - and prepares for various rites and rituals to ward the camp.\n\n**Follower’s Skill - Knowledge (religion):** The seer’s Knowledge (religion) bonus is equal to your associated skill bonus.\n\n**Seer’s Assistance:**\n\n- *Occult Prowess*: The seer has access to all occult skill unlocks and may use Knowledge (religion) in place of that occult skill unlock’s usual skill. See *Occult Adventures*, Occult Skill Unlocks for more information.\n- *Prophetic Insight [plan]*: The seer reads a creature’s fortune. This fortune is prepared as one of that creature’s plans (even if that creature could not normally prepare a plan). The seer may read fortunes up to 2 times each day, + 1 per 4 associated skill ranks. A creature can only have a 1 fortune prepared as a plan at a time, +1 per 10 associated skill ranks (allowing a creature to have multiple fortunes prepared as plans at 10 ranks and above).\n\n  When this plan is revealed, the creature recalls and now understands the seer’s cryptic statements. The creature asks one question about a particular action or event within the next 30 minutes. The seer’s prophecy has a 70% + 1% per associated skill rank chance of providing meaningful insight. This percentile roll is made in secret by the GM. If the seer’s insight is successful, the creature understands the cryptic statements as Weal (good), Woe (bad), Weal and Woe (mixed, both good and bad, or Nothing (the action is not particularly good or bad). If the seer’s insight is unsuccessful, the creature understands the insight as “nothing”.\n\n  A prophetic insight’s answer may change based on other events or actions being taken, and as such, is not a certainty.\n- *Prophetic Insight, Greater (requires 15 associated skill ranks)*: Instead of providing prophetic insights for minor events, the seer may use all uses of prophetic insight for the next week to tell a great prophecy. This prophecy is prepared as a plan for one creature, and can remain prepared for up to 1 week. A great prophecy functions the same as a prophetic insight, except it can be about a particular action or event within the next week’s time.\n- *Seer’s Ceremonies [plan]*: The seer knows a single Occultism sphere (ritual) option. Once per day, the seer readies the tools and implements of the ceremony associated with their known (ritual) option and provides them to one creature. This ceremony is prepared as one of that creature’s plans (even if that creature could not normally prepare a plan). The seer performs the empowerment check for this ceremony, providing it 2 ritual power, +1 per 10 associated skill ranks (providing a flat amount of ritual power instead of rolling a check). The creature revealing this plan may choose how to spend the ritual power as part of revealing this plan. The seer may reselect the chosen (ritual) once per week.",
+   "options": []
+  },
+  {
+   "id": "leadership/socialite-follower-utility",
+   "name": "Socialite",
+   "kind": "talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Follower Talents",
+   "tags": [
+    "follower"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#socialite-follower-utility",
+   "md": "**Effect:** You gain a talented socialite as a follower. When you *make camp*, the socialite mixes and makes conversation to lighten the atmosphere and shares recent news and gossip.\n\n**Follower’s Skill - Diplomacy:** The socialite’s Diplomacy bonus is equal to your associated skill bonus.\n\n**Socialite’s Assistance:** If the socialite provides the rumormill assistance, they leave the camp and are unavailable until they return.\n\n- *Decorum Coaching*: A socialite can coach creatures on how to approach a specific social encounter (such as anticipating an audience with a local governor, or a plea to a local magistrate, and so on). Coaching an individual creature takes 15 minutes, whereas coaching a group for the same situation takes 1 hour (up to 4 creatures, +1 additional creature per 2 associated skill ranks).\n\n  Coaching lasts for 1 day or until the social encounter ends, and a creature can only be coached for a single situation at a time. When a coached creature is in the chosen social encounter, for the duration of that social encounter, they may use 2 socialite benefits, +1 additional coaching benefit per 10 associated skill ranks.\n\n  **Socialite benefits include:** (1) when you roll a Bluff, Diplomacy, or Intimidate check, roll that check twice and take the better result; (2) use the socialite’s Diplomacy bonus in place of their own for a single check; or (3) learn a single minor motivation of another creature that is in the social encounter (no more than once per creature).\n- *Rumormill*: The socialite either socializes or spreads rumors. This assistance is only available while in a settlement or near a group (such as a traveling caravan or other traveling large group), and can only be used once per day per settlement or group.\n  - *Socialize*: The socialite makes a Diplomacy check to gather information for recent rumors (unless given a topic to seek information about).\n  - *Spread Rumors*: The socialite makes a Diplomacy check to start a rumor (*Inner Sea Intrigue*), and can spread that rumor 1 day faster per 4 associated skill ranks. Spreading a rumor may take multiple days, and the socialite must provide this assistance each day to finish spreading a rumor.\n- *Socialite’s Rapport*: The socialite knows a single Communication sphere (rapport) option. The socialite can *build rapport* with a number of other creatures equal to 2 + 1/2 your associated skill ranks. The socialite may reselect the chosen (rapport) once per week.\n\n  **Special - Communication sphere:** If a creature would benefit from multiple rapports, they can only benefit from the socialite’s selected rapport if it is a utility option.",
+   "options": []
+  },
+  {
+   "id": "leadership/tailor-follower-utility",
+   "name": "Tailor",
+   "kind": "talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Follower Talents",
+   "tags": [
+    "follower"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#tailor-follower-utility",
+   "md": "**Effect:** You gain a talented tailor as a follower. When you *make camp*, the tailor mends, cleans, and tailors your and your allies’ clothing and accessories in preparation for the day ahead, or goes into town to observe new fashion trends.\n\n**Follower’s Skill - Disguise:** The tailor’s Disguise bonus is equal to your associated skill bonus. The tailor may use their Disguise bonus in place of any Craft check related to ordinary clothing or decorative accessories.\n\n**Tailor’s Assistance:** If the tailor provides the appearance consultation assistance, they leave the camp and are unavailable until they return.\n\n- *Appearance Consultation*: The tailor observes and gathers gossip about an individual, identifying 1 minor motivation or a habit or vice of the target, +1 per 5 associated skill ranks. Motivations and vices identified this way are based on physical and visual cues, such as posture, dress, jewelry, hygiene, and similar tells. Habits and vices gathered this way do not function as motivations for other effects, but may provide social leverage or contextual cues to identify appropriate gifts or bribes, points of pressure, or behavioral tendencies. This assistance is only available while in a settlement or near a group (such as a traveling caravan or other traveling large group), and can only be used once per day per settlement or group.\n\n  **Example:** The tailor goes into town to follow a notable trade prince, gathering gossip while observing the individual. They notice their fingers are stained, indicating heavy tobacco use, and hear gossip that the trade prince is often seen with many different women. The tailor would identify that the trade prince is susceptible to tobacco and consorts as potential social leverage.\n- *Custom Couture*: The tailor may craft clothing (including accessories and simple jewelry) for you, but must be provided with any materials for clothing more expensive than 25 gp per associated skill rank. The tailor may also clean, mend, and repair ordinary clothing and accessories without any additional cost.\n\n  The tailor may prepare clothing for special occasions, such as a noble’s ball or royal hunt or a trek into the mountains. If they do, that clothing functions as a masterwork tool for two chosen skills for encounters of that type (subject to GM discretion, such as Climb and Survival for a mountaineering adventure or Bluff and Diplomacy for a masked ball). A creature may only benefit from a single clothing tailored this way at one time.\n- *Tailor’s Disguise*: The tailor knows a single Subterfuge sphere (disguise) option. The tailor may prepare outfits for others to wear, applying their (disguise) option to an outfit prepared this way. Other creatures spend 10 minutes to don this outfit, similar to donning a disguise, using the tailor’s Disguise bonus to determine the disguise’s effectiveness. The tailor may have a number of outfits prepared this way equal to 2 + 1/2 your associated skill ranks. The tailor may reselect the chosen (disguise) once per week.",
+   "options": []
+  },
+  {
+   "id": "leadership/advanced-cohorts-cohort",
+   "name": "Advanced Cohorts",
+   "kind": "legendary talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Legendary Leadership Talents",
+   "tags": [
+    "cohort"
+   ],
+   "talentTags": [],
+   "prerequisites": "Leadership associated skill 7 ranks, Leadership ((cohort) package).",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#advanced-cohorts-cohort",
+   "md": "You gain the following options:",
+   "options": [
+    {
+     "name": "Improved Cohorts",
+     "tags": [
+      "cohort"
+     ],
+     "talentTags": [],
+     "anchor": "improved-cohorts-cohort",
+     "md": "**Prerequisites:** Leadership associated skill 7 ranks, Leadership ((cohort) package).\n\n**Effect:** You can *recruit* cohorts with class levels (an \"**improved cohort**\"). An improved cohort has the same number of Hit Dice as a standard cohort, but instead of receiving benefits according to **Table: Cohort** or selecting a job, the improved cohort receives class levels as a standard character and determines their statistics, talents, and other benefits as an ordinary member of that class.\n\nFor example, an improved cohort with wizard levels would be treated as a normal wizard for all purposes, and would not receive the bonus combat talents or stat growth normally granted to a cohort."
+    },
+    {
+     "name": "Magic Cohorts",
+     "tags": [
+      "cohort"
+     ],
+     "talentTags": [],
+     "anchor": "magic-cohorts-cohort",
+     "md": "**Prerequisite:** Leadership ((cohort) package).\n\n**Effect:** Your cohorts may have magic jobs and cohorts of any kind may now select feats or take options that grant casting or similar magical abilities."
+    }
+   ]
+  },
+  {
+   "id": "leadership/anticipated-arrival-utility",
+   "name": "Anticipated Arrival",
+   "kind": "legendary talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Legendary Leadership Talents",
+   "tags": [],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "Leadership ((follower) package).",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#anticipated-arrival-utility",
+   "md": "You gain the following options:\n\n**Author's Note:** Each of these options provide ways for a Leadership practitioner's cohorts or followers to rejoin them, regardless of circumstances. A cohort or follower that could travel and move about freely may benefit from these effects. A cohort or follower that is \"compromised\" (i.e., captured, turned traitor, dead, and so on) cannot benefit",
+   "options": [
+    {
+     "name": "At Your Service",
+     "tags": [
+      "follower"
+     ],
+     "talentTags": [
+      "utility"
+     ],
+     "anchor": "at-your-service-follower-utility",
+     "md": "**Prerequisite:** Leadership ((follower) package).\n\n**Effect:** Your followers always arrive when you *make camp*, regardless of where you *make camp*, even if the location is dangerous or a follower was lost or unable to travel to meet you. A captured or otherwise compromised follower is unable to join you this way."
+    },
+    {
+     "name": "Battlefield Rendezvous",
+     "tags": [
+      "cohort"
+     ],
+     "talentTags": [
+      "utility"
+     ],
+     "anchor": "battlefield-rendezvous-cohort-utility",
+     "md": "**Prerequisite:** Leadership ((cohort) package).\n\n**Effect:** Whenever you roll for initiative, if your cohorts are not present in the same encounter, they surreptitiously appear when initiative is rolled, either appearing through a nearby entrance or arriving on the road behind you. A cohort arriving this way typically arrives through a relatively safe path and not behind enemy lines (subject to GM discretion, such as not arriving through a door deeper in an occupied fortress or already flanking an enemy force). A captured or otherwise compromised follower is unable to join you this way."
+    }
+   ]
+  },
+  {
+   "id": "leadership/draft-recruit",
+   "name": "Draft",
+   "kind": "legendary talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Legendary Leadership Talents",
+   "tags": [
+    "recruit"
+   ],
+   "talentTags": [],
+   "prerequisites": "Leadership associated skill 10 ranks, Leadership ((cohort) package, Temporary Conscription).",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#draft-recruit",
+   "md": "You gain the *raise army* sphere ability and the following options:",
+   "options": [
+    {
+     "name": "Forced Conscription",
+     "tags": [
+      "recruit"
+     ],
+     "talentTags": [],
+     "anchor": "forced-conscription-recruit",
+     "md": "Some allies need more convincing than others.\n\n**Prerequisites:** Leadership associated skill 10 ranks, Leadership ((cohort) package, Temporary Conscription).\n\nThis option modifies the temporary conscription (recruit) option.\n\n**Descriptors:** compulsion, mind-affecting, supernatural\n**Action:** standard action\n**Range:** close (25 + 5 ft./2 associated skill ranks)\n**Duration:** 1 minute per associated skill rank\n**Target / Area:** 1 creature\n**Cost:** 1 mf\n**Saving Throw:** Will (negates)\n**Effect:** The target becomes a **forced conscripted ally** (Will negates), counting against the number of conscripted allies you may have at one time.\n\nA forced conscripted ally's attitude is improved to helpful for the duration and they serve you to the best of their ability, but will not obey suicidal or self-destructive orders. If commanded to act against their nature, they receive a new saving throw to immediately end this effect (such as attacking allies or divulging secrets). If commanded to act against a major motivation, they roll twice and take the better result on this saving throw (such as destroying a temple to their goddess or attacking their family).\n\nWhen the duration ends, the creature returns to its previous disposition, modified by any actions or events that occurred during the duration. A creature that succeeds on their saving throw is immune to this effect for 24 hours."
+    },
+    {
+     "name": "Raise Army",
+     "tags": [],
+     "talentTags": [],
+     "anchor": "raise-army",
+     "md": "**Prerequisites:** Leadership associated skill 5 ranks.\n\n**Action:** once per month (or once per kingdom turn)\n**Duration:** permanent\n**Effect:** You form an army from the able and willing in a settlement. This army has an ACR equal to your associated skill ranks - 3 and is made up of the average races in the settlement. This army comes equipped with basic weapons and equipment and must be supplied with other resources normally.\n\nThis army does not cost any build points (BP) and has a consumption of 0. If you are commanding this army, this army gains a +4 bonus on morale checks.\n\nYou can only have a single army formed by this sphere ability at one time. Attempting to *raise army* again disperses the previous army.\n\n**Note:** This sphere ability utilizes Mass Combat (*Ultimate Campaign*). If not using the mass combat rules, the effects of this ability should be narrative, subject to GM discretion."
+    }
+   ]
+  },
+  {
+   "id": "leadership/exotic-cohorts-cohort",
+   "name": "Exotic Cohorts",
+   "kind": "legendary talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Legendary Leadership Talents",
+   "tags": [
+    "cohort"
+   ],
+   "talentTags": [],
+   "prerequisites": "Leadership ((cohort) package).",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#exotic-cohorts-cohort",
+   "md": "**Prerequisite:** Leadership ((cohort) package).\n\n**Effect:** When you *recruit*, instead of being an ordinary race, your cohorts may be an exotic cohort type, detailed below. Subject to GM discretion, exotic cohorts may not always be available to *recruit* in a settlement and may require you to travel or find them before they are *recruited*.\n\n*Mindless Cohorts*: Some exotic cohort types may be mindless. A mindless cohort does not receive feats or skill ranks (except those granted as associated skill ranks), but still gains talents as a cohort and all the benefits of their job. A mindless cohort is able to use their talents or abilities granted by their job normally. A mindless cohort is completely obedient and will follow self-destructive or harmful orders.\n\n**Special:** This talent may be taken a second time; if you do, cohorts *recruited* with the constructor or ghoulcaller exotic cohort types may be intelligent (instead of mindless).\n\n*Exotic Cohort Types*: The available exotic cohort types are as follows:\n\n- **Constructor:** The cohort is a mindless humanoid construct, gaining all the benefits of the construct creature type, a +1 natural armor bonus, a +2 racial bonus to either Strength or Dexterity (and a -2 penalty to the other ability score), and no longer possesses a Constitution score.\n- **Ghoulcaller:** The cohort is a mindless humanoid undead, gaining all the benefits of the undead creature type, a +1 natural armor bonus, either DR 5/bludgeoning or DR 5/slashing (representing a more zombified or skeletonized undead), and no longer possesses a Constitution score.\n- **Monstrous Recruits (requires Advanced Cohorts):** You can *recruit* monsters (or creatures with racial hit dice). You must be able to *recruit* a cohort with a number of Hit Dice equal to or greater than the monster's challenge rating in order to *recruit* that monster. Once *recruited*, the monster progresses as an ordinary cohort, receiving all of the normal benefits except for a job's ability scores.\n\n  Subject to GM discretion, when a monster cohort gains a job ability that is similar to an ability they possessed as a monster, instead of gaining that ability, job and class levels stack with their monster Hit Dice to determine that ability's effects (such as a lilend azata's bardic performance stacking and progressing with minstrel job levels or bard class levels).\n\n  **Example:** You want to recruit Mandrinker the First Scourge, a dretch (a CR 2 demon). You would need to be able to *recruit* a cohort with 2 Hit Dice to recruit Mandrinker, requiring 2 associated skill ranks. Once you could *recruit* a cohort with 3 or more Hit Dice, you could progress Mandrinker as a cohort, allowing Mandrinker to select a job and gain talents and abilities as a normal cohort (i.e. Mandrinker would be a CR 2 dretch with 1 wildling level) and then continue to progress Mandrinker with additional wildling levels as you would an ordinary cohort.\n- **Strange Bedfellows:** The cohort is strange, alien, or unusual. Instead of selecting a race, the cohort selects a single Conjuration sphere base form, determining their body's shape and any starting bonus to natural armor, natural attacks, or movement. The cohort's ability scores and saving throws are still determined by their job.\n\n  The cohort also chooses with a single Conjuration (form) talent or (type) talent, with the following benefits based on this selection:\n  - If selecting a (form) talent, in addition to the (form) talent's benefits, the cohort is an outsider with the native subtype and gains darkvision 60 feet.\n  - If selecting a (type) talent, the cohort gains the benefits as though taken twice. This determines the cohort's base creature type but does not grant all the effects or abilities of that creature type. In addition to the (type) talent's effects, the cohort only receives vision (such as low-light vision, darkvision) and determines whether they need to breathe, drink, eat, and sleep.\n\n  **Example:** A cohort built using this race option is not a \"true\" member of the creature type. For example, a plant cohort would receive low-light vision but not the mind-affecting immunity of the plant creature type (instead receiving the bonuses and immunities from the Plant Creature (type) talent taken twice). Likewise, an undead cohort would receive darkvision but not all the immunities of the undead creature type, would still have a Constitution score and be susceptible to Fortitude saves, and so on.",
+   "options": []
+  },
+  {
+   "id": "leadership/extra-cohort-cohort",
+   "name": "Extra Cohort",
+   "kind": "legendary talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Legendary Leadership Talents",
+   "tags": [
+    "cohort"
+   ],
+   "talentTags": [],
+   "prerequisites": "Leadership ((cohort) package).",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#extra-cohort-cohort",
+   "md": "**Prerequisite:** Leadership ((cohort) package).\n\n**Effect:** You can *recruit* 1 additional cohort.\n\n**Special:** This talent may be selected up to 3 times.",
+   "options": []
+  },
+  {
+   "id": "leadership/gambler-follower-utility",
+   "name": "Gambler",
+   "kind": "legendary talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Legendary Leadership Talents",
+   "tags": [
+    "follower"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "Leadership ((follower) package).",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#gambler-follower-utility",
+   "md": "*\"Now, now now... don't be shy, all of my wares are guaranteed for life and come with a two-day warranty!\" - The Gambler*\n\n**Prerequisites:** Leadership ((follower) package).\n\n**Effect:** You gain a talented gambler as a follower. When you *make camp*, the gambler makes idle chatter, plays games of chance with others in the camp, and readies their stock of black market items.\n\n**Follower's Skill - Profession (gambler):** The gambler's Profession (gambler) bonus is equal to your associated skill bonus.\n\n**Gambler's Assistance:**\n\n- *Gambler's Luck*: By inviting the gambler into your midst, luck itself seems to bend. Whenever a percentile d100 would be rolled, you may add or subtract 1dX to that roll's results, where X is your number of associated skill ranks (see **Note - Gambler's Luck Random Tables** for more details). You must choose to use this ability before the percentile d100's results are revealed.\n\n  The gambler's luck may modify random encounters, randomly generated magic items, wild magic events, kingdom and building events, and any other similar d100 event. Subject to GM discretion, if the gambler's luck would cause a percentile d100's results to increase to or over 100 or decrease to or below 1, the GM may roll on a higher or lower impact table as appropriate (such as rolling a higher severity random encounter, higher quality magic item, or higher threat wild magic event).\n\n  At 10th level, you may choose to use this ability after the percentile d100's results are revealed, before any effects occur, but X is instead half your associated skill ranks (minimum 1).\n\n  At 15th level, before a percentile d100 is rolled, you may use this ability. If you do, the percentile d100 is rolled by the GM in secret and the value of X is doubled.\n- *Special Wares*: Similar to a merchant follower, the gambler offers wares if you have the coin. Other creatures may purchase random items from the gambler. Choose minor, medium, or major and a single category of magic item. Roll a percentile d100 for a random item from that category of item. See *PRPG Core Rulebook*, Purchasing Magic Items, **Table 15-2** and the related tables for more information. This roll cannot be modified by the gambler's luck assistance.\n\n  When determining the cost of purchasing a random item, average each base price for the item's table by that item's category, ignoring unpriced results.\n\n  **Example:** A minor armor and shield, from **Table 15-3 Armor and Shields**, has base prices of 1,000 gp, 1,000 gp, 4,000 gp, and 4,000 gp, which averages to 2,500 gp).\n- *Trade In*: Instead of purchasing an item through the special wares assistance, the gambler will accept 3 magic items as a trade in to purchase the gambler's special wares. The total value of the magic items traded in this way must be equal to or greater than the price of the magic item table and tier selected.\n\n  **Example:** You trade in 3 magic items whose total value is more than 2,500 gp and acquire a random minor armor or shield from the gambler, who appreciates your business.\n\n**Note - Gambler's Luck Random Tables:** Random tables vary heavily depending on the type of table. For example, a standard random encounter table has more extreme encounters at higher numbers whereas the Spheres of Power wild magic tables has varied results at all die values.\n\nIf using a standard random table, where higher results are more beneficial or more extreme, gambler's luck can only increase the results of the roll. If using a varied random table, gambler's luck can choose to either increase or decrease the results of the roll.\n\n**Note - Randomly Generated Items:** The special wares assistance assumes using the base random item tables. GMs should feel encouraged to alter and adjust random magic item tables, create their own tables, or even allow characters to access items that would exclusively be available through the random item creation. GMs may also have a gambler's wares may become better as you gain additional associated skill ranks, replacing \"generic\" results with more unique or stronger items as time goes on.",
+   "options": []
+  },
+  {
+   "id": "leadership/gift-of-mentorship",
+   "name": "Gift Of Mentorship",
+   "kind": "legendary talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Legendary Leadership Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Leadership 5 associated skill ranks; Leadership ((follower) package, Village Of Mentors).",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#gift-of-mentorship",
+   "md": "**Prerequisites:** Leadership 5 associated skill ranks; Leadership ((follower) package, Village Of Mentors).\n\n**Effect:** You may receive tutoring from any number of your followers, and their tutoring lasts indefinitely. In effect, you receive temporary skill ranks in each of your follower's follower's skills.",
+   "options": []
+  },
+  {
+   "id": "leadership/good-help-follower-recruit",
+   "name": "Good Help",
+   "kind": "legendary talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Legendary Leadership Talents",
+   "tags": [
+    "follower",
+    "recruit"
+   ],
+   "talentTags": [],
+   "prerequisites": "Leadership sphere 5 associated skill ranks; Leadership ((cohort) package).",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#good-help-follower-recruit",
+   "md": "*Good help is, apparently, easy to find.*",
+   "options": [
+    {
+     "name": "Dual Calling",
+     "tags": [
+      "cohort"
+     ],
+     "talentTags": [],
+     "anchor": "dual-calling-cohort",
+     "md": "**Prerequisites:** Leadership sphere 5 associated skill ranks; Leadership ((cohort) package).\n\n**Effect:** When you *recruit* a cohort, they may select two jobs instead of one, gaining the full benefits of both jobs at each level.\n\nThe cohort chooses one of the two jobs' ability score arrays, receives the class skills from both jobs, and uses the better saving throw progression for each saving throw."
+    },
+    {
+     "name": "Talented Followers",
+     "tags": [
+      "follower"
+     ],
+     "talentTags": [],
+     "anchor": "talented-followers-follower",
+     "md": "**Prerequisite:** Leadership sphere ((follower) package).\n\n**Effect:** Followers may select advanced talents when selecting sphere options as part of their assistance, using their follower's skill ranks to meet associated skill rank prerequisites. For example, a blacksmith follower could now select the Artifice sphere Exceptional Equipment (flourish) talent.\n\nIn addition, each follower that could select a sphere option as part of their assistance may select 1 additional option this way (such as blacksmith now selecting 2 Artifice flourishes instead of 1, thanks to this feat and the talented followers legendary option).\n\n**Normal:** A follower's assistance cannot select advanced talent options or options with prerequisites."
+    }
+   ]
+  },
+  {
+   "id": "leadership/magician-follower-plan",
+   "name": "Magician",
+   "kind": "legendary talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Legendary Leadership Talents",
+   "tags": [
+    "follower"
+   ],
+   "talentTags": [
+    "plan"
+   ],
+   "prerequisites": "Leadership 5 associated skill ranks; Leadership ((follower) package).",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#magician-follower-plan",
+   "md": "**Prerequisites:** Leadership 5 associated skill ranks; Leadership ((follower) package).\n\n**Effect:** You gain a talented magician as a follower. When you *make camp*, the magician establishes a place to perform their work - whether it is a makeshift wizard's tower, miniature cleric's temple, druid's standing stones, and so on - such that the magician can simulate their ideal surroundings.\n\nWhen you first gain the services of a magician, choose a single spell list with access to 9th level spells (such as the wizard/sorcerer list, cleric list, druid list, witch list, and so on). You may choose a new spell list each time the magician would be replaced.\n\n**Follower's Skill - Spellcraft:** The magician's Spellcraft bonus is equal to your associated skill bonus.\n\n**Magician's Assistance:**\n\n- *Magecraft*: Each day, the magician is able to cast a number of spell levels from their chosen spell list equal to your associated skill ranks (for example, with 8 associated skill ranks, the magician could cast 8 1st level spells, 4 2nd level spells, or any combination whose sum is 8). You must provide the magician with any expensive material components.\n\n  The magician is treated as a prepared caster with access to their entire spell list (similar to a cleric or druid). The magician can cast up to 2nd level spells, +1 spell level per 4 associated skill ranks after 5th (having access to 3rd level spells at 9 associated ranks, 4th level at 13, and so on). Subject to GM discretion, certain spells may be limited from the magician in the same way a player character would be unable to access a spell, such as a magician being unable to cast *teleport* where long range teleportation is limited.\n- *Magecraft, Prepared [plan] (requires 10 associated skill ranks)*: The magician can specially weave their magic so their spells become prepared as one of that creature's plans (even if that creature could not normally prepare a plan). A spell prepared this way takes effect when the plan is revealed and otherwise remains dormant. A creature may only have a total number of spell levels prepared through this assistance equal to half your associated skill ranks.\n\n  The magician reduces the total number of spell levels they can cast using magecraft each day by the total number of spell levels prepared through this assistance.\n- *Trinket Maintenance*: The magician can refill charges in staves and other similar rechargeable items, providing 1 charge to each such item per day (up to 1 + your practitioner modifier items). The magician cannot refill charges in a magic item that could not normally be refilled (such as being incapable of providing more charges to a *ring of three wishes*).",
+   "options": []
+  },
+  {
+   "id": "leadership/recruit-troop-cohort",
+   "name": "Recruit Troop",
+   "kind": "legendary talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Legendary Leadership Talents",
+   "tags": [
+    "cohort"
+   ],
+   "talentTags": [],
+   "prerequisites": "Leadership ((cohort) package).",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#recruit-troop-cohort",
+   "md": "**Prerequisite:** Leadership ((cohort) package).\n\n**Effect:** When you *recruit* a cohort, you may instead *recruit* a troop that represents a group of like-minded, like-trained individuals in your service (referred to as the \"**troop cohort**\"). The troop cohort gains the troop subtype (*Bestiary 6*), modified as follows:\n\n- **Troop Statistics:** A troop cohort determines their troop base damage using your associated skill ranks (not their Hit Dice).\n- **Troop Attack:** A troop cohort deals its troop damage automatically, as normal. A troop can choose to instead make attacks, but cannot deal its automatic troop damage that round. When making an attack or attack action, the troop cohort uses its troop damage as its weapon damage.\n\n  If the troop cohort would be equipped with ranged weapons, they do not deal their troop damage automatically and instead may attack a 10-foot square within their weapon's range, treating a single struck target as the target of their attack action (the same as using a scatter weapon).\n- **Troop Equipment:** A troop cohort must be given 10 pieces of identical equipment to use that equipment.\n- **Healing Troops:** A troop cohort can be healed by effects that target a single creature, but receive 1/2 the normal amount (minimum 1). If the effect could target multiple creatures, they receive the normal amount. Effects that heal an area restore half again as many hit points (+50%).\n\nA troop cohort otherwise benefits from their job, as normal.",
+   "options": []
+  },
+  {
+   "id": "leadership/spymaster-follower-utility",
+   "name": "Spymaster",
+   "kind": "legendary talent",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Legendary Leadership Talents",
+   "tags": [
+    "follower"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "Leadership sphere 5 associated skill ranks; Leadership sphere (any 2 (follower) talents).",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#spymaster-follower-utility",
+   "md": "**Prerequisites:** Leadership sphere 5 associated skill ranks; Leadership sphere (any 2 (follower) talents).\n\n**Effect:** You gain a talented spymaster as a follower. When you *make camp*, the spymaster coordinates your other followers, manages your network of contacts, and debriefs returning followers on your behalf.\n\n**Follower's Skill - Diplomacy:** The spymaster's Diplomacy bonus is equal to your associated skill bonus.\n\n**Spymaster's Assistance:**\n\n- *Cover Story:* The spymaster spends 1 hour preparing a cover story for a creature, establishing a false persona including a spoofed alignment, identity, and job. A cover story provides a creature with a constant *nondetection* effect that also protects against mind-reading effects. If an effect attempts to bypass a cover story and fails, it instead returns information consistent with the cover story. A creature with a cover story may also use the spymaster's Diplomacy bonus in place of any Profession skill appropriate to their cover story. The spymaster may hand out a number of cover stories equal to 1, +1 per 10 associated skill ranks.\n\n  The spymaster also provides cover stories to themselves and your other followers. Followers protected this way do not count against the total number of cover stories the spymaster may prepare.\n- *Cover Story, Improved (requires 15 associated skill ranks):* Cover stories are impenetrable, always returning information relevant to the cover story. This does not mean a cover story cannot be foiled by mundane means, but simple magic to reveal or dig for information from a creature no longer bypasses a cover story.\n- *Cutout:* If a follower needs to be replaced, you may replace that follower within 1 day rather than the normal 1 week, provided you are within 1 day's travel of a settlement. Whenever a follower is replaced, they forget all pertinent details about their travels with you, except that they still remember working for you, but cannot recall any details that could compromise you or your allies.\n- *Handler:* For any follower whose assistance would cause them to leave camp, the spymaster may instead coordinate their trusted network to perform that assistance instead. This allows the assistance to be performed without the follower leaving camp, and the assistance is performed in 1/2 its usual time.",
+   "options": []
+  },
+  {
+   "id": "leadership/acolyte",
+   "name": "Acolyte",
+   "kind": "cohort job",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Cohort Jobs",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Advanced Cohorts (magic cohorts).",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#acolyte",
+   "md": "**Prerequisite:** Advanced Cohorts (magic cohorts).\n\n**Ability Scores:** Str 8, Dex 13, Con 12, Int 10, Wis 15, Cha 14\n\n**Saving Throws:** Fortitude (good), Reflex (bad), Will (good)\n\n**Class Skills:** Knowledge (nature) (Int), Knowledge (planes) (Int), Perception (Wis), Spellcraft (Int), Survival (Wis), Use Magic Device (Cha), +2 class skills of the acolyte's choice\n\n**Special:** An acolyte's base attack bonus is equal to 3/4 their cohort level.\n\nAn acolyte gains the following additional benefits at the listed levels:\n\n- (1st level): The acolyte is a cohort caster. If the acolyte is a classic cohort caster, they select either the druid or shaman list as their spell list and use Wisdom as their casting modifier. If the acolyte is a spherecaster cohort, they gain either the Fate or the Nature sphere plus one additional sphere of their choice, and are treated as a High-Caster in each of these spheres.\n- (2nd level): The acolyte gains a circumstance bonus equal to 1/2 their acolyte level on Knowledge (nature), Knowledge (planes), and Spellcraft checks.\n- [**Acolyte's Spirit Connection**] (3rd level): The acolyte gains the shaman's spirit feature, treating their acolyte level as their shaman level for this purpose. At 3rd level, the acolyte gains the spirit ability of their chosen spirit, gaining the greater spirit ability at 9th level and true spirit ability at 15th level.\n- [**Acolyte's Hex**] (5th level): The acolyte gains a single shaman hex, treating their acolyte level as their shaman level for this purpose. The acolyte must choose a hex from their chosen shaman spirit. At 11th level, the acolyte gains a second hex from their chosen spirit, and may now reselect one of these hexes each day after preparing their spells.",
+   "options": []
+  },
+  {
+   "id": "leadership/apprentice",
+   "name": "Apprentice",
+   "kind": "cohort job",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Cohort Jobs",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Advanced Cohorts (magic cohorts).",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#apprentice",
+   "md": "**Prerequisite:** Advanced Cohorts (magic cohorts).\n\n**Ability Scores:** Str 10, Dex 14, Con 12, Int 15, Wis 13, Cha 8\n\n**Saving Throws:** Fortitude (good), Reflex (good), Will (bad)\n\n**Class Skills:** Craft (alchemy) (Int), Heal (Wis), Knowledge (arcana) (Int), Perception (Wis), Spellcraft (Int), +2 class skills of the apprentice's choice\n\n**Special:** An apprentice's base attack bonus is equal to 3/4 their cohort level.\n\nAn apprentice gains the following additional benefits at the listed levels:\n\n- (1st level): The apprentice is a cohort caster. If the apprentice is a classic cohort caster, they use the alchemist list as their spell list and Intelligence as their casting modifier. An apprentice must be a prepared caster, preparing their spells as extracts, the same as an alchemist. The apprentice gains the infusion discovery as a bonus alchemist discovery. If the apprentice is a spherecaster cohort, they gain either the Alteration or Enhancement sphere plus one additional sphere of their choice, and are treated as a High-Caster in each of these spheres. The apprentice may use the (instill) option for each sphere they possess, and cannot use a magic sphere ability without its (instill) option.\n- (2nd level): The apprentice gains a circumstance bonus equal to 1/2 their apprentice level on Craft (alchemy), Heal, and Spellcraft checks.\n- [**Apprentice's Discovery**] (3rd level): The apprentice gains a single alchemist discovery, treating their apprentice level as their alchemist level to determine the effects of and to qualify for alchemist discoveries, plus an additional alchemist discovery at 9th and 13th level.\n- [**Brew Potion**] (5th level): The apprentice gains Brew Potion as a bonus feat. At 11th level, the apprentice may double the potion's gold cost to ignore a single spell prerequisite (but not any expensive material components or other required checks).",
+   "options": []
+  },
+  {
+   "id": "leadership/cutpurse",
+   "name": "Cutpurse",
+   "kind": "cohort job",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Cohort Jobs",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#cutpurse",
+   "md": "**Ability Scores:** Str 10, Dex 15, Con 12, Int 14, Wis 8, Cha 13\n\n**Saving Throws:** Fortitude (bad), Reflex (good), Will (good)\n\n**Class Skills:** Acrobatics (Dex), Bluff (Cha), Disable Device (Dex), Perception (Wis), Stealth (Dex), +2 class skills of the cutpurse's choice\n\nA cutpurse gains the following additional benefits at the listed levels:\n\n- (1st level): The cutpurse gains the Equipment sphere Finesse Training talent and the Scoundrel sphere as a bonus sphere. If using *Spheres of Guile*, the cutpurse may exchange the Scoundrel sphere for the Infiltration or Subterfuge sphere.\n- (2nd level): The cutpurse gains a circumstance bonus equal to 1/2 their cutpurse level on Disable Device and Stealth, as well as Perception checks made to avoid an ambush or notice traps. The cutpurse can disable magical traps. The cutpurse is treated as having the trap sense feature for the purpose of any feat or class prerequisite.\n- [**Sneak Attack**] (3rd level): The cutpurse gains +1d6 sneak attack, +1d6 for every 4 cutpurse levels after 3rd level. This sneak attack functions as the unchained rogue's sneak attack class feature.\n- [**Cutpurse Talents**] (5th level): The cutpurse gains a rogue talent, treating their cutpurse level as their rogue level to determine the effects of and to qualify for rogue talents, plus an additional rogue talent every 3 levels after 5th.",
+   "options": []
+  },
+  {
+   "id": "leadership/disciple",
+   "name": "Disciple",
+   "kind": "cohort job",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Cohort Jobs",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#disciple",
+   "md": "**Ability Scores:** Str 12, Dex 15, Con 13, Int 10, Wis 14, Cha 8\n\n**Saving Throws:** Fortitude (good), Reflex (good), Will (bad)\n\n**Class Skills:** Acrobatics (Dex), Escape Artist (Dex), Heal (Wis), Perception (Wis), Sense Motive (Wis), +2 class skills of the disciple's choice\n\nA disciple gains the following additional benefits at the listed levels:\n\n- (1st level): The disciple gains the Open Hand sphere and either the Equipment sphere Monk Weapon Training or Unarmed Weapon Training (discipline) talent. If using *Spheres of Guile*, the disciple may exchange the Open Hand sphere for the Body Control sphere.\n- (2nd level): The disciple gains a circumstance bonus equal to 1/2 their disciple level on Acrobatics, Sense Motive, and Perception.\n- [**Disciple's Flurry**] (3rd level): Whenever the disciple performs an attack action, the disciple may make an additional attack as a free action with a monk weapon or unarmed strike at a -2 penalty. At 11th level, the disciple may instead make two additional attacks, but both at a -4 penalty.\n\n  The disciple treats this ability as the monk's flurry of blows class feature when performing an attack action, such as for the path of striking's benefits below or for other abilities and effects. The disciple does not receive additional attacks from other abilities or effects that grant benefits for possessing the flurry of blows feature (such as the Monk Weapon Training talent).\n- [**Disciple's Path**] (5th level): The disciple chooses either the path of mysticism or the path of striking:\n  - *Path of Mysticism*: The disciple gains the unchained monk's ki pool feature, treating their disciple level as their unchained monk level for this purpose and to determine the effects of and to qualify for ki powers. The disciple gains an unchained monk ki power, plus 1 additional ki power at 9th level and every 4 levels thereafter.\n  - *Path of Striking*: The disciple gains the unchained monk's style strikes feature, treating their disciple level as their unchained monk level for this purpose. The additional attacks granted by the disciple's flurry feature are modified by the disciple's style strikes (or modifying two attacks at 15th level).\n\n  If the disciple would use a style strike that requires another class feature, the disciple is treated as possessing that feature at its minimum bonus (such as, if performing the flying kick style strike, the disciple would be treated as having 10 feet of fast movement).",
+   "options": []
+  },
+  {
+   "id": "leadership/fortune-teller",
+   "name": "Fortune Teller",
+   "kind": "cohort job",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Cohort Jobs",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Advanced Cohorts (magic cohorts).",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#fortune-teller",
+   "md": "**Prerequisite:** Advanced Cohorts (magic cohorts).\n\n**Ability Scores:** Str 8, Dex 12, Con 13, Int 14, Wis 10, Cha 15\n\n**Saving Throws:** Fortitude (bad), Reflex (good), Will (good)\n\n**Class Skills:** Knowledge (arcana) (Int), Knowledge (history) (Int), Perception (Wis), Spellcraft (Int), Use Magic Device (Cha), +2 class skills of the fortune teller's choice\n\n**Special:** A fortune teller's base attack bonus is equal to 3/4 their cohort level.\n\nA fortune teller gains the following additional benefits at the listed levels:\n\n- **(1st level):** The fortune teller is a cohort caster. If the fortune teller is a classic cohort caster, they select either the psychic or witch spell list and Intelligence or Charisma as their casting modifier. If the fortune teller is a spherecaster cohort, they receive the Divination or Mind sphere as a bonus sphere plus one additional sphere of their choice, and are treated as a High-Caster in each of these spheres.\n- **(2nd level):** The fortune teller gains a circumstance bonus equal to 1/2 their fortune teller level on Knowledge (history), Spellcraft, and Use Magic Device checks.\n- **[Fortune Teller's Implement] (3rd level):** The fortune teller gains the occultist mental focus feature with a number of points of mental focus equal to 1/2 their fortune teller level + their casting modifier. In addition, the fortune teller gains a single occultist implement, treating their fortune teller as their occultist level when determining the implement's resonant power and focus powers.\n- **[Fortune Teller's Focus] (5th level):** The fortune teller gains a single focus power for their occultist implement, plus an additional focus power at 9th level and 13th level.",
+   "options": []
+  },
+  {
+   "id": "leadership/minstrel",
+   "name": "Minstrel",
+   "kind": "cohort job",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Cohort Jobs",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#minstrel",
+   "md": "**Ability Scores:** Str 8, Dex 15, Con 12, Int 14, Wis 10, Cha 13\n\n**Saving Throws:** Fortitude (bad), Reflex (good), Will (good)\n\n**Class Skills:** Diplomacy (Cha), Knowledge (history) (Int), Knowledge (nobility) (Int), Perception (Wis), Perform (any) (Cha), +2 class skills of the minstrel's choice\n\nA minstrel gains the following additional benefits at the listed levels:\n\n- (1st level): The minstrel gains Cunning and Skill Focus as bonus feats and the Warleader sphere with the music man drawback. If using *Spheres of Guile*, the minstrel may gain the Bluster or Performance sphere instead of the Warleader sphere.\n- (2nd level): The minstrel gains a circumstance bonus equal to 1/2 their minstrel level on Knowledge (history), Knowledge (nobility), and all Perform checks. The minstrel may make Knowledge (history) and Knowledge (nobility) checks untrained.\n- [**Minstrel's Performance**] (3rd level): The minstrel gains the bard's bardic performance feature, treating their minstrel level as their bard level for this purpose. The minstrel gains access to the countersong, distraction, fascinate, and inspire competence bardic performances. The minstrel does not gain any other bardic performances nor does the minstrel qualify for bardic masterpieces.\n- [**Minstrel-of-All-Trades**] (5th level): The minstrel may take 10 on any skill check they are trained in, even if in immediate danger or distracted. Once per round, if another ally is benefitting from the minstrel's bardic performance, the minstrel may allow that ally to take 10 on a skill check, even if in immediate danger or distracted, provided that the ally is trained in that skill.",
+   "options": []
+  },
+  {
+   "id": "leadership/naturalist",
+   "name": "Naturalist",
+   "kind": "cohort job",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Cohort Jobs",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#naturalist",
+   "md": "**Ability Scores:** Str 13, Dex 15, Con 12, Int 10, Wis 14, Cha 8\n\n**Saving Throws:** Fortitude (good), Reflex (good), Will (bad)\n\n**Class Skills:** Handle Animal (Cha), Heal (Wis), Knowledge (nature) (Int), Perception (Wis), Survival (Wis), +2 class skills of the naturalist's choice\n\nA naturalist gains the following additional benefits at the listed levels:\n\n- (1st level): The naturalist gains the Alchemy sphere as a bonus sphere and a single Equipment sphere (discipline) talent of their choice. If using *Spheres of Guile*, the naturalist may gain the Herbalism sphere instead of the Alchemy sphere.\n- (2nd level): The naturalist gains a circumstance bonus equal to 1/2 their naturalist level on Craft (alchemy), Heal, and Survival. If the naturalist selected a different associated skill for the Alchemy or Herbalism spheres, they may choose to exchange one of these skills for that skill (the new skill should still be appropriate for a naturalist cohort, subject to GM discretion).\n- [**Naturalist's Enemy**] (3rd level): The naturalist gains a single favored enemy, as the ranger's favored enemy feature, with a +2 favored enemy bonus. The naturalist can change their favored enemy selection once per day with 1 hour of preparation.\n\n  At 11th level, the naturalist's favored enemy bonus increases to +4. The naturalist does not select an additional favored enemy.\n- [**Naturalist Specialty**] (5th level): The naturalist chooses either the hunter specialty or the traveler's specialty:\n  - *Hunter's Specialty*: As a move action, the naturalist may make a single Knowledge check to identify a creature they can see, gaining a circumstance bonus on this check equal to 1/2 the naturalist's level. This Knowledge check may be made even if untrained. On a success, the naturalist may treat the target as though they were their favored enemy for 1 minute. If the target is already the naturalist's favored enemy, the naturalist deals an additional +1d6 precision damage on weapon attacks against the target. At 9th level, the naturalist may now use this ability as a move or swift action. At 13th level, the bonus precision damage improves to +2d6 and the naturalist always receives this bonus damage, even if the target is not the naturalist's favored enemy.\n  - *Traveler's Specialty*: The naturalist gains the ranger's woodland stride feature and selects a single favored terrain, as the ranger's favored terrain feature. The naturalist may reselect their favored terrain once per week. At 9th level, the naturalist may move unimpeded through any terrain, natural or magical. At 13th level, once per day, the naturalist may share this traveler's specialty with a number of creatures within 30 feet equal to 1/2 their naturalist level; this benefit lasts for 1 minute per naturalist level.",
+   "options": []
+  },
+  {
+   "id": "leadership/priest",
+   "name": "Priest",
+   "kind": "cohort job",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Cohort Jobs",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Advanced Cohorts (magic cohorts).",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#priest",
+   "md": "**Prerequisite:** Advanced Cohorts (magic cohorts).\n\n**Ability Scores:** Str 13, Dex 10, Con 12, Int 8, Wis 15, Cha 14\n\n**Saving Throws:** Fortitude (good), Reflex (bad), Will (good)\n\n**Class Skills:** Heal (Wis), Knowledge (religion) (Int), Perception (Wis), Sense Motive (Wis), Spellcraft (Int), Use Magic Device (Cha), +2 class skills of the priest's choice\n\n**Special:** A priest's base attack bonus is equal to 3/4 their cohort level.\n\nA priest gains the following additional benefits at the listed levels:\n\n- **[Priestly Worship] (1st level):** The priest worships a deity or other source that could grant a cleric spells. A priest must be within 1 step of their deity's alignment and they must channel energy as a cleric appropriate to their deity.\n- **(1st level):** The priest is a cohort caster. If the priest is a classic cohort caster, they use the cleric spell list and Wisdom or Charisma as their casting modifier. If the priest is a spherecaster cohort, they gain a bonus magic talent from a sphere associated with one of their deity's domain (as a sphere cleric) and either the Life sphere or the Death sphere based on whether they channel positive or negative energy respectively, and are treated as a High-Caster in each of these spheres.\n- **(2nd level):** The priest gains a circumstance bonus equal to 1/2 their priest level on Heal, Knowledge (religion), and Sense Motive checks.\n- **[Priest's Domain] (3rd level):** The priest selects a single cleric domain, treating their priest level as their cleric level for this purpose. If the priest is a classic cohort caster, the priest may prepare domain spells or select them as spells known as though they were on the cleric spell list. If the priest is a spherecaster cohort, the priest gains a bonus magic talent from a sphere associated with their domain.\n- **[Channel Energy] (5th level):** The priest gains the channel energy class feature, channeling either positive or negative energy based on their selection for priestly worship. The priest's channel energy is equal to 1d6 per 3 priest levels, and they may channel energy a number of times per day equal to 1 + their casting modifier.",
+   "options": []
+  },
+  {
+   "id": "leadership/squire",
+   "name": "Squire",
+   "kind": "cohort job",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Cohort Jobs",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#squire",
+   "md": "**Ability Scores:** Str 14, Dex 12, Con 15, Int 10, Wis 13, Cha 8\n\n**Saving Throws:** Fortitude (good), Reflex (good), Will (bad)\n\n**Class Skills:** Diplomacy (Cha), Handle Animal (Cha), Knowledge (nobility) (Int), Ride (Dex), Sense Motive (Wis), +2 class skills of the squire's choice\n\nA squire gains the following additional benefits at the listed levels:\n\n- (1st level): The squire gains the Guardian sphere and an additional Equipment sphere talent of their choice. If using *Spheres of Guile*, the squire may gain the Artifice sphere instead of the Guardian sphere, and must select the gear package.\n- (2nd level): The squire gains a circumstance bonus equal to 1/2 their squire level on all Diplomacy, Handle Animal, Knowledge (nobility), and Ride checks. The squire can make Knowledge (nobility) checks even if untrained.\n- [**Squire's Order**] (3rd level): The squire gains a cavalier order, including its order benefits, challenge bonus, skill bonus, and order abilities, treating their squire level as their cavalier level for this purpose.\n\n  If the squire possesses the Guardian (challenge) package, their order's challenge bonus applies against a target affected by their Guardian *challenge*. If the squire possesses the Guardian (patrol) package, their order's challenge bonus applies on attacks of opportunity made as part of their *patrol*.\n- [**Aide de Camp**] (5th level): The squire is uniquely adept at assisting their leader. The squire gains Quick Draw as a bonus feat, and can retrieve any kind of equipment or item from their person using the Quick Draw feat, not just weapons. When within reach, the squire or leader may retrieve items from one another as a free action (or items may be handed to one another as a free action, provided the other has a free hand to receive it).\n\n  This does not allow the squire or their leader to retrieve items that are inside containers faster, but would allow the leader to take a readied polearm from their squire as they advance on the enemy.",
+   "options": []
+  },
+  {
+   "id": "leadership/student",
+   "name": "Student",
+   "kind": "cohort job",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Cohort Jobs",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Advanced Cohorts (magic cohorts).",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#student",
+   "md": "**Prerequisite:** Advanced Cohorts (magic cohorts).\n\n**Ability Scores:** Str 10, Dex 12, Con 13, Int 15, Wis 14, Cha 8\n\n**Saving Throws:** Fortitude (bad), Reflex (good), Will (good)\n\n**Class Skills:** Knowledge (arcana) (Int), Knowledge (any one) (Int), Perception (Wis), Spellcraft (Int), Use Magic Device (Cha), +2 class skills of the student's choice\n\n**Special:** A student's base attack bonus is equal to 3/4 their cohort level.\n\nA student gains the following additional benefits at the listed levels:\n\n- **(1st level):** The student is a cohort caster. If the student is a classic cohort caster, they use the wizard spell list and Intelligence as their casting modifier, preparing their spells from a spellbook. If the student is a spherecaster cohort, they receive any two magic spheres as bonus spheres, and are treated as a Mid-Caster.\n- **(2nd level):** The student gains a circumstance bonus equal to 1/2 their student level on Knowledge (arcana), Spellcraft, and Use Magic Device checks.\n- **[Arcane School] (3rd level):** The student selects a single arcane school, treating their student level as their wizard level for this purpose.\n- **[Student's Scrolls] (5th level):** The student gains Scribe Scroll as a bonus feat. At 11th level, the student may double the scroll's gold cost to ignore a single spell prerequisite (but not any expensive material components or other required checks).",
+   "options": []
+  },
+  {
+   "id": "leadership/warrior",
+   "name": "Warrior",
+   "kind": "cohort job",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Cohort Jobs",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#warrior",
+   "md": "**Ability Scores:** Str 15, Dex 14, Con 12, Int 13, Wis 10, Cha 8\n\n**Saving Throws:** Fortitude (good), Reflex (bad), Will (good)\n\n**Class Skills:** Climb (Str), Knowledge (dungeoneering) (Int), Perception (Wis), Profession (soldier), Swim (Str), +2 class skills of the warrior's choice\n\nA warrior gains the following additional benefits at the listed levels:\n\n- (1st level): The warrior gains the Equipment sphere Armor Training talent and an additional Equipment sphere (discipline) talent of their choice. In addition, a warrior may qualify for feats as though they were a fighter, treating their warrior level as their fighter level for this purpose.\n- (2nd level): The warrior gains a circumstance bonus equal to 1/2 their warrior level on all Strength-based skill checks, Intimidate, and Knowledge (dungoneering). The warrior can make Knowledge (dungeoneering) checks even if untrained.\n- [**Armor Experience**] (3rd level): The warrior gains the fighter's armor training feature, treating their warrior level as their fighter level for this purpose.\n- [**Weapon Experience**] (5th level): The warrior chooses a (discipline) talent (except Custom Training). The warrior gains a +1 bonus on attack and damage rolls with weapons belonging to the chosen (discipline). This bonus improves by an additional +1 every 4 levels after 5th. The warrior is treated as having the fighter's weapon training feature, and treats their weapon experience bonus as their weapon training bonus for this purpose.",
+   "options": []
+  },
+  {
+   "id": "leadership/wildling",
+   "name": "Wildling",
+   "kind": "cohort job",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "Cohort Jobs",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership#wildling",
+   "md": "**Ability Scores:** Str 15, Dex 12, Con 14, Int 10, Wis 13, Cha 8\n\n**Saving Throws:** Fortitude (good), Reflex (good), Will (bad)\n\n**Class Skills:** Climb (Str), Knowledge (nature) (Int), Perception (Wis), Survival (Wis), Swim (Str), +2 class skills of the wildling's choice\n\nA wildling gains the following additional benefits at the listed levels:\n\n- (1st level): The wildling gains Endurance and Toughness as bonus feats and the Berserker sphere as a bonus sphere. If using *Spheres of Guile*, the wildling may gain the Survivalism sphere instead of the Berserker sphere.\n- (2nd level): The wildling gains a circumstance bonus equal to 1/2 their wildling level on Knowledge (nature), Perception, and Survival. The wildling can make Knowledge (nature) checks even if untrained.\n- [**Wildling Rage**] (3rd level): The wildling can rage as the barbarian's rage feature, treating their wildling level as their barbarian level for this purpose. When the wildling first gains the rage feature this way, they must choose whether their rage functions as a barbarian's or an unchained barbarian's rage.\n\n  At 11th level, the wildling gains the greater rage feature.\n- [**Totemic Rage**] (5th level): The wildling gains a single blood or totem rage power, treating their wildling level as their barbarian level to determine the effects of and to qualify for rage powers. The wildling gains their selected blood or totem rage power's improvement at 9th level and again at 13th level.",
+   "options": []
+  },
+  {
+   "id": "leadership/drill-sergeant",
+   "name": "Drill Sergeant",
+   "kind": "drawback",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "(cohort) package.",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership-Sphere-Drawbacks#drill-sergeant",
+   "md": "**Prerequisite:** (cohort) package.\n\nYou cannot *recruit* cohorts and can only be the leader of conscripted allies (using the temporary conscription option). You gain Temporary Conscription and 1 other (cohort) talent of your choice.\n\n**Incompatible:** Strange Bedfellows.",
+   "options": []
+  },
+  {
+   "id": "leadership/established-footprint",
+   "name": "Established Footprint",
+   "kind": "drawback",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "(follower) package.",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership-Sphere-Drawbacks#established-footprint",
+   "md": "Your camp is a more elaborate guild hall, office, or other establishment that cannot be moved so simply.\n\n**Prerequisite:** (follower) package.\n\nYou must *make camp* in a settlement, and it takes 1 week to *make camp*. You gain a (follower) talent as a bonus talent.",
+   "options": []
+  },
+  {
+   "id": "leadership/strange-bedfellows",
+   "name": "Strange Bedfellows",
+   "kind": "drawback",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "(cohort) package.",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership-Sphere-Drawbacks#strange-bedfellows",
+   "md": "**Prerequisite:** (cohort) package.\n\nChoose one exotic cohort type offered by the Exotic Cohort legendary talent. You gain Exotic Cohort as a bonus talent and can only *recruit* cohorts with the chosen exotic cohort type.\n\n**Note:** This drawback offers the benefits of a legendary talent and should only be available subject to GM discretion.\n\n**Incompatible:** Drill Sergeant.",
+   "options": []
+  },
+  {
+   "id": "leadership/wicked-tyrant-alternate-start",
+   "name": "Wicked Tyrant",
+   "kind": "drawback",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [],
+   "talentTags": [
+    "alternate start"
+   ],
+   "prerequisites": "",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership-Sphere-Drawbacks#wicked-tyrant-alternate-start",
+   "md": "Instead of selecting an associated skill, you gain Intimidate as your associated skill for this sphere. With this alternate start, you lead your cohorts and followers using fear, and as such, cannot maintain contacts. Subject to GM discretion, the allies, family, and friends of *recruited* cohorts may also withhold services or refuse to interact with you (especially if the cohort was mistreated or killed in your service).\n\nIf using the optional rule **Associated Skill Checks to *Recruit* Cohorts**, you do not suffer any penalties to *recruit* a cohort due to mistreatment or cohort death.\n\n---\n\n*Archived: [[Leadership Sphere Drawbacks (Ultimate)|Ultimate version]] (before *Polished*)*",
+   "options": []
+  },
+  {
+   "id": "leadership/camp-of-operations-drs",
+   "name": "Camp of Operations",
+   "kind": "feat",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "New Feats",
+   "tags": [],
+   "talentTags": [
+    "DRS"
+   ],
+   "prerequisites": "Leadership 3 associated skill ranks; Leadership sphere ((follower) package); base of operations class feature.",
+   "source": "Polished Commander & Warleader",
+   "status": "current",
+   "url": "Spheres-Of-Might/Practitioner-Feats#camp-of-operations-drs",
+   "md": "*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*\n\n*Home is wherever the hearth is.*\n\n**Prerequisites:** Leadership 3 associated skill ranks; Leadership sphere ((follower) package); base of operations class feature.\n\n**Benefit:** Whenever you establish a base of operations, you may also *make camp*.\n\nIn addition, your base of operations gains 1 additional tailored advice benefit. An additional benefit added this way is chosen based on the sphere-related assistance your followers offer, not the base spheres you personally possess (such as selecting Artifice's base of operations benefit by having a blacksmith, whose assistance offers Artifice sphere effects, despite not having the Artifice sphere normally).\n\n**Note:** The base of operations feature was first printed with the advisor class, *Diamond Spheres: Harmony and Discord*.",
+   "options": []
+  },
+  {
+   "id": "leadership/emergency-reserves-plan-drs",
+   "name": "Emergency Reserves",
+   "kind": "feat",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "New Feats",
+   "tags": [],
+   "talentTags": [
+    "plan",
+    "DRS"
+   ],
+   "prerequisites": "Leadership 5 associated skill ranks; Leadership ((cohort) package).",
+   "source": "Polished Commander & Warleader",
+   "status": "current",
+   "url": "Spheres-Of-Might/Practitioner-Feats#emergency-reserves-plan-drs",
+   "md": "*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*\n\n*You can make preparations for a new cohort should your current cohort die or need to be replaced.*\n\n**Prerequisite:** Leadership 5 associated skill ranks; Leadership ((cohort) package).\n\n**Benefit:** You gain the following plan:\n\n> **Emergency Reserves [plan]**\n>\n> **Effect:** When you prepare this plan, you must still spend the time to recruit, determining the cohort's statistics and abilities, but gaining that cohort as a contact instead of immediately gaining their services.\n>\n> When you reveal this plan, the prepared cohort arrives in 15 minutes, as though just recruited. You may only reveal this plan if you have an available slot for a cohort (such as a cohort having recently died or needing replacement). This plan may only be prepared a single time, even if you could prepare multiple plans at once.",
+   "options": []
+  },
+  {
+   "id": "leadership/friends-in-close-places-plan-drs",
+   "name": "Friends In Close Places",
+   "kind": "feat",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "New Feats",
+   "tags": [],
+   "talentTags": [
+    "plan",
+    "DRS"
+   ],
+   "prerequisites": "Leadership sphere 10 associated skill ranks; Leadership sphere (2 (follower) talents).",
+   "source": "Polished Commander & Warleader",
+   "status": "current",
+   "url": "Spheres-Of-Might/Practitioner-Feats#friends-in-close-places-plan-drs",
+   "md": "*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*\n\n*Your retinue of followers has attracted some skilled individuals you can call on in a time of need.*\n\n**Prerequisites:** Leadership sphere 10 associated skill ranks; Leadership sphere (2 (follower) talents).\n\n**Benefit:** You gain a single Leadership sphere (follower) talent as a bonus talent. In addition, you gain the following plan:\n\n> **Friends in Close Places [plan]**\n>\n> **Effect:** When you reveal this plan, you immediately retrain the (follower) talent granted by this feat. This is treated as dismissing one follower to gain the services of another, with the new follower arriving the next time you *make camp*. Any assistance provided by a follower is lost when that follower is dismissed (provided items become inert and useless, abilities or benefits end, and so on).\n>\n> If you are in a settlement, you may reveal this plan once per day. Otherwise, you may only reveal this plan once per week or until you make camp in a settlement.",
+   "options": []
+  },
+  {
+   "id": "leadership/journeyman-cohorts-drs",
+   "name": "Journeyman Cohorts",
+   "kind": "feat",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "New Feats",
+   "tags": [],
+   "talentTags": [
+    "DRS"
+   ],
+   "prerequisites": "Leadership sphere 3 associated skill ranks; Leadership sphere ((cohort) package).",
+   "source": "Polished Commander & Warleader",
+   "status": "current",
+   "url": "Spheres-Of-Might/Practitioner-Feats#journeyman-cohorts-drs",
+   "md": "*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*\n\n**Prerequisite:** Leadership sphere 3 associated skill ranks; Leadership sphere ((cohort) package).\n\n**Effect:** Each cohort you *recruit* also selects one cohort job they do not possess, gaining that job's 2nd-level benefit and their choice between that job's 3rd and 5th-level benefits. For example, a wildling could select warrior, gaining their 2nd-level skill bonuses and their choice between armor or weapon training.\n\nAdditional job benefits granted by this feat can be retrained similar to retraining a feat, such as with Training Coordination's training regiment option.",
+   "options": []
+  },
+  {
+   "id": "leadership/mixed-conscription-drs",
+   "name": "Mixed Conscription",
+   "kind": "feat",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "New Feats",
+   "tags": [],
+   "talentTags": [
+    "DRS"
+   ],
+   "prerequisites": "Leadership sphere 5 associated skill ranks; ability to control one or more non-Leadership sphere subordinates (see text).",
+   "source": "Polished Commander & Warleader",
+   "status": "current",
+   "url": "Spheres-Of-Might/Practitioner-Feats#mixed-conscription-drs",
+   "md": "*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*\n\n**Prerequisites:** Leadership sphere 5 associated skill ranks; ability to control one or more non-Leadership sphere subordinates (see text).\n\n**Benefit:** Other subordinates under your control are treated as one of your cohorts, and you are treated as their leader.\n\nA subordinate may now benefit from (cohort) talents, except those that permanently improve or modify a cohort, such as quartermaster's skill, talented cohorts, and training regiment. Class features or other abilities that further customize cohorts similarly do not apply to subordinates (such as a knight captain's squires or a sheriff's deputies).",
+   "options": []
+  },
+  {
+   "id": "leadership/mixed-coordinator-combat",
+   "name": "Mixed Coordinator",
+   "kind": "feat",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "New Feats",
+   "tags": [
+    "combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package.",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Practitioner-Feats#mixed-coordinator-combat",
+   "md": "**Prerequisites:** Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package.\n\nWhen you tame a creature or recruit a cohort, you may choose to have its Hit Dice count against both your tame and recruit limits. When doing so, the creature counts as both an animal ally and a cohort for the purpose of talents that grant actions to or are triggered by cohorts and animal allies.",
+   "options": []
+  },
+  {
+   "id": "leadership/radiant-quests-drs",
+   "name": "Radiant Quests",
+   "kind": "feat",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "New Feats",
+   "tags": [],
+   "talentTags": [
+    "DRS"
+   ],
+   "prerequisites": "Leadership associated skill 5 ranks.",
+   "source": "Spheres Apocrypha: Dipsomania",
+   "status": "current",
+   "url": "Spheres-Of-Might/Practitioner-Feats#radiant-quests-drs",
+   "md": "*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*\n\n*Not every job needs a sword. Some just need someone willing to ask around.*\n\n**Prerequisites:** Leadership associated skill 5 ranks.\n\n**Benefits:** Once per week, you can complete various tasks for your contacts or followers to make money. Make a Leadership sphere associated skill check, earning a number of gold pieces equal to your check's result times your associated skill ranks. You can only complete a radiant quest once per week.\n\nWhen completing a radiant quest on behalf of a contact or follower, you must spend 8 hours working towards their radiant quest (similar to working a profession or spending downtime to make money). A radiant quest typically involves a negligible amount of combat, exploration, and travel, which you are considered to have succeeded on during the downtime.\n\nWhen you complete a radiant quest for a contact, if that contact is *recruited* as a cohort within 1 week, they gain a +2 morale bonus to attack rolls, damage rolls, saving throws, and skill checks for 48 hours.\n\nWhen you complete a radiant quest for a follower, for the next 48 hours, that follower provides their assistance as though your Leadership sphere associated skill ranks and practitioner modifier were 2 higher.",
+   "options": []
+  },
+  {
+   "id": "leadership/shared-harmonies-drs",
+   "name": "Shared Harmonies",
+   "kind": "feat",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "New Feats",
+   "tags": [],
+   "talentTags": [
+    "DRS"
+   ],
+   "prerequisites": "Leadership sphere ((cohort) package); bardic performance or raging song class feature.",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Practitioner-Feats#shared-harmonies-drs",
+   "md": "*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*\n\n*Songs are better sung with two voices.*\n\n**Prerequisites:** Leadership sphere ((cohort) package); bardic performance or raging song class feature.\n\n**Benefit:** You gain the following abilities:\n\n- **Pass the Song:** When you begin or continue your bardic performance or raging song, as a free action, you may allow a cohort within close range (25 ft. + 5 ft. / 2 Leadership associated skill ranks) to continue performing the performance or song on your behalf. The cohort may maintain the performance or song as a standard action each round, and expends your rounds of bardic performance or raging song to do so.\n\n  You can begin new bardic performances or raging songs while a cohort maintains your previous performance or song; multiple instances of the same performance or song do not stack.\n- **Start a Harmony:** When you begin your bardic performance or raging song, your cohort may harmonize with you as a joint standard action. Each round the cohort harmonizes with you, or continues to harmonize each round after the first as a standard action, you treat the effects of your bardic performance or raging song as though your class level were 6 higher to determine its effects.\n\n  A cohort cannot harmonize with you after you've begun your performance or song, and only a single cohort can harmonize this way.\n\n**Special - Minstrel Cohorts (see text):** If your cohort possesses the bardic performance or raging song class feature, they may select this feat as though they met the prerequisites. When the cohort uses their bardic performance or raging song, you or other cohorts may harmonize with them.\n\n**Special - Bardic Performance-like features:** Subject to GM discretion, class features that function similar to bardic performance (such as symbiat's psionics) may be used with this feat, and may be used to meet this feat's prerequisites.",
+   "options": []
+  },
+  {
+   "id": "leadership/shared-rage-combat-drs",
+   "name": "Shared Rage",
+   "kind": "feat",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "New Feats",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [
+    "DRS"
+   ],
+   "prerequisites": "Leadership sphere ((cohort) package); rage or bloodrage class feature, or other ability to rage (see text).",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Practitioner-Feats#shared-rage-combat-drs",
+   "md": "*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*\n\n*Sharing your feelings never smashed so many helmets.*\n\n**Prerequisites:** Leadership sphere ((cohort) package); rage or bloodrage class feature, or other ability to rage (see text).\n\n**Benefit:** Whenever you rage, as a joint swift action, cohorts within close range (25 ft. + 5 ft. / 2 Leadership associated skill ranks) may also begin raging as a \"**shared rage**\", gaining all the benefits and penalties of rage, except the shared rage's benefits are half your normal rage's benefits (i.e. if your rage would grant +4 Strength and Constitution, the cohort only gains +2 Strength and Constitution). A cohort can rage indefinitely, so long as you are raging, and becomes fatigued for a duration when they stop raging.\n\nYou may choose to allow a cohort's shared rage to benefit from your full rage benefits (instead of half); however, if you do, each round the cohort spends raging expends your rounds of rage. If you rage due to a spell or similar effect with a fixed duration, the cohort instead expends time from that effect's total duration (such as reducing a *rage* spell's duration by an additional round).\n\n**Special - Wildling Cohorts (see text):** If your cohort possesses the rage class feature, they may select this feat as though they met the prerequisites. When the cohort rages, you may enter a shared rage with them.",
+   "options": []
+  },
+  {
+   "id": "leadership/talented-followers-improved-drs",
+   "name": "Talented Followers, Improved",
+   "kind": "feat",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "New Feats",
+   "tags": [],
+   "talentTags": [
+    "DRS"
+   ],
+   "prerequisites": "Leadership sphere 5 associated skill ranks; Leadership ((follower) package, Good Help).",
+   "source": "Polished Commander & Warleader",
+   "status": "current",
+   "url": "Spheres-Of-Might/Practitioner-Feats#talented-followers-improved-drs",
+   "md": "*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*\n\n*It's almost like they could do this all without me.*\n\n**Prerequisites:** Leadership sphere 5 associated skill ranks; Leadership ((follower) package, Good Help).\n\n**Benefit:** Followers can select 1 additional sphere option as part of their assistance (such as a blacksmith now selecting 3 Artifice flourishes instead of 2, thanks to the talented followers legendary option and this feat).\n\n**Special:** This feat may be selected an additional time at 10 Hit Dice and every 5 additional Hit Dice after; each time this feat is selected, your followers select 1 additional option.",
+   "options": []
+  },
+  {
+   "id": "leadership/theurgical-disciples-drs",
+   "name": "Theurgical Disciples",
+   "kind": "feat",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "New Feats",
+   "tags": [],
+   "talentTags": [
+    "DRS"
+   ],
+   "prerequisites": "Leadership ((cohort) package); domain or inquisition class feature, cohort same alignment as you (see text).",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Practitioner-Feats#theurgical-disciples-drs",
+   "md": "*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*\n\n*Faith is strongest when kneeling before the same altar.*\n\n**Prerequisite:** Leadership ((cohort) package); domain or inquisition class feature, cohort same alignment as you (see text).\n\n**Benefit:** You gain a +2 bonus to Knowledge (religion) skill checks. If you have 10 or more ranks in Knowledge (religion), this bonus increases to +4.\n\nIn addition, each cohort that shares an alignment with you and that worships the same deity as you gains access to a single domain or inquisition that could be granted by your deity's portfolio. Cohorts use their cohort level as their effective cleric level when determining the domain or inquisition's effects.",
+   "options": []
+  }
+ ]
+}
