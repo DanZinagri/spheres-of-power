@@ -2442,7 +2442,7 @@ COMPENDIUM = {
     },
     "Leadership": {
         "system": "Spheres of Might",
-        "approved": False,
+        "approved": True,
         "pages": [
             # packages and the sphere ability each grants (Recruit, Make Camp)
             ("Leadership", "Cohort Package", "package", 2, 3),
@@ -2459,6 +2459,22 @@ COMPENDIUM = {
             ("Practitioner Feats", "New Feats", "feat", 4, {"prereq": r"Leadership", "group": "General"}),
         ],
         "not_options": r"^Table",
+    },
+    # a class rather than a sphere (Polished Commander & Warleader): its class features and the
+    # options it picks from; its archetypes wait for archetype mapping
+    "Commander": {
+        "system": "Spheres of Might",
+        "approved": False,
+        "pages": [
+            ("Commander", "Class Features", "class feature", 2),
+            ("Commander", "Enhanced Tactics", "enhanced tactic", 4),
+            ("Commander", "Battlefield Specialties", "battlefield specialty", 4),
+            ("Commander", "Logistic Specialties", "logistics specialty", 4, 5),
+            ("Commander", "Class Equipment", "equipment", 2),
+            ("Practitioner Feats", "New Feats", "feat", 4, {"prereq": r"(?i)\bcommander \d|commander level",
+                                                            "group": "General"}),
+        ],
+        "not_options": r"^Table|^About ",
     },
 }
 

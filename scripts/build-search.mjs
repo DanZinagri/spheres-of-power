@@ -20,6 +20,12 @@ const KIND_TYPE = {
   "advanced talent": "Talents",
   "legendary talent": "Talents",
   "cohort job": "Talents",
+  // class maps (Commander): its features and the options it picks from
+  "class feature": "Class Options",
+  "enhanced tactic": "Class Options",
+  "battlefield specialty": "Class Options",
+  "logistics specialty": "Class Options",
+  equipment: "Class Options",
   feat: "Feats",
   drawback: "Drawbacks",
 }

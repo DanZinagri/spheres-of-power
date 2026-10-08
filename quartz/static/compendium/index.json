@@ -1075,7 +1075,7 @@
    "Recruit"
   ],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/follower-package-utility",
@@ -1095,7 +1095,7 @@
    "Make Camp"
   ],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/canny-leader-utility",
@@ -1113,7 +1113,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#canny-leader-utility",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/expanded-leadership",
@@ -1129,7 +1129,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#expanded-leadership",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/fortunate-events-utility",
@@ -1147,7 +1147,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#fortunate-events-utility",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/professional-undertakings-utility",
@@ -1165,7 +1165,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#professional-undertakings-utility",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/village-of-mentors-utility",
@@ -1183,7 +1183,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#village-of-mentors-utility",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/aiding-coordination-cohort",
@@ -1204,7 +1204,7 @@
    "Leader’s Instruction"
   ],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/battlefield-coordination-cohort",
@@ -1226,7 +1226,7 @@
    "Cohort Defense"
   ],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/hunting-coordination-cohort",
@@ -1247,7 +1247,7 @@
    "Watch Together"
   ],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/logistics-coordination-cohort-recruit",
@@ -1269,7 +1269,7 @@
    "Quartermaster’s Skill"
   ],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/mystic-coordination-cohort",
@@ -1291,7 +1291,7 @@
    "Safeguarded Cohorts"
   ],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/readiness-coordination-cohort",
@@ -1312,7 +1312,7 @@
    "Joint Readiness"
   ],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/temporary-conscription-recruit",
@@ -1330,7 +1330,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#temporary-conscription-recruit",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/training-coordination-cohort-recruit",
@@ -1352,7 +1352,7 @@
    "Training Regiment"
   ],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/blacksmith-follower-utility",
@@ -1372,7 +1372,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#blacksmith-follower-utility",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/detective-follower-utility",
@@ -1392,7 +1392,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#detective-follower-utility",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/groom-follower-utility",
@@ -1412,7 +1412,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#groom-follower-utility",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/healer-follower-utility",
@@ -1432,7 +1432,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#healer-follower-utility",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/hunter-follower-utility",
@@ -1452,7 +1452,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#hunter-follower-utility",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/laborers-follower-utility",
@@ -1472,7 +1472,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#laborers-follower-utility",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/magewright-follower-utility",
@@ -1492,7 +1492,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#magewright-follower-utility",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/merchant-follower-utility",
@@ -1512,7 +1512,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#merchant-follower-utility",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/messenger-follower-plan-utility",
@@ -1533,7 +1533,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#messenger-follower-plan-utility",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/musician-follower-utility",
@@ -1553,7 +1553,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#musician-follower-utility",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/rake-follower-plan-utility",
@@ -1574,7 +1574,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#rake-follower-plan-utility",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/scholar-follower-utility",
@@ -1594,7 +1594,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#scholar-follower-utility",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/scoundrel-follower-utility",
@@ -1614,7 +1614,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#scoundrel-follower-utility",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/scout-follower-utility",
@@ -1634,7 +1634,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#scout-follower-utility",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/seer-follower-plan-utility",
@@ -1655,7 +1655,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#seer-follower-plan-utility",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/socialite-follower-utility",
@@ -1675,7 +1675,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#socialite-follower-utility",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/tailor-follower-utility",
@@ -1695,7 +1695,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#tailor-follower-utility",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/advanced-cohorts-cohort",
@@ -1716,7 +1716,7 @@
    "Magic Cohorts"
   ],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/anticipated-arrival-utility",
@@ -1737,7 +1737,7 @@
    "Battlefield Rendezvous"
   ],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/draft-recruit",
@@ -1758,7 +1758,7 @@
    "Raise Army"
   ],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/exotic-cohorts-cohort",
@@ -1776,7 +1776,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#exotic-cohorts-cohort",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/extra-cohort-cohort",
@@ -1794,7 +1794,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#extra-cohort-cohort",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/gambler-follower-utility",
@@ -1814,7 +1814,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#gambler-follower-utility",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/gift-of-mentorship",
@@ -1830,7 +1830,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#gift-of-mentorship",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/good-help-follower-recruit",
@@ -1852,7 +1852,7 @@
    "Talented Followers"
   ],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/magician-follower-plan",
@@ -1872,7 +1872,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#magician-follower-plan",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/recruit-troop-cohort",
@@ -1890,7 +1890,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#recruit-troop-cohort",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/spymaster-follower-utility",
@@ -1910,7 +1910,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#spymaster-follower-utility",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/acolyte",
@@ -1926,7 +1926,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#acolyte",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/apprentice",
@@ -1942,7 +1942,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#apprentice",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/cutpurse",
@@ -1958,7 +1958,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#cutpurse",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/disciple",
@@ -1974,7 +1974,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#disciple",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/fortune-teller",
@@ -1990,7 +1990,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#fortune-teller",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/minstrel",
@@ -2006,7 +2006,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#minstrel",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/naturalist",
@@ -2022,7 +2022,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#naturalist",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/priest",
@@ -2038,7 +2038,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#priest",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/squire",
@@ -2054,7 +2054,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#squire",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/student",
@@ -2070,7 +2070,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#student",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/warrior",
@@ -2086,7 +2086,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#warrior",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/wildling",
@@ -2102,7 +2102,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership#wildling",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/drill-sergeant",
@@ -2118,7 +2118,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership-Sphere-Drawbacks#drill-sergeant",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/established-footprint",
@@ -2134,7 +2134,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership-Sphere-Drawbacks#established-footprint",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/strange-bedfellows",
@@ -2150,7 +2150,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership-Sphere-Drawbacks#strange-bedfellows",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/wicked-tyrant-alternate-start",
@@ -2168,7 +2168,7 @@
   "url": "Spheres-Of-Might/Leadership/Leadership-Sphere-Drawbacks#wicked-tyrant-alternate-start",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/camp-of-operations",
@@ -2184,7 +2184,7 @@
   "url": "Spheres-Of-Might/Practitioner-Feats#camp-of-operations",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/emergency-reserves-plan",
@@ -2202,7 +2202,7 @@
   "url": "Spheres-Of-Might/Practitioner-Feats#emergency-reserves-plan",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/friends-in-close-places-plan",
@@ -2220,7 +2220,7 @@
   "url": "Spheres-Of-Might/Practitioner-Feats#friends-in-close-places-plan",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/journeyman-cohorts",
@@ -2236,7 +2236,7 @@
   "url": "Spheres-Of-Might/Practitioner-Feats#journeyman-cohorts",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/mixed-conscription",
@@ -2252,7 +2252,7 @@
   "url": "Spheres-Of-Might/Practitioner-Feats#mixed-conscription",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/mixed-coordinator-combat",
@@ -2270,7 +2270,7 @@
   "url": "Spheres-Of-Might/Practitioner-Feats#mixed-coordinator-combat",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/radiant-quests",
@@ -2286,7 +2286,7 @@
   "url": "Spheres-Of-Might/Practitioner-Feats#radiant-quests",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/shared-harmonies",
@@ -2302,7 +2302,7 @@
   "url": "Spheres-Of-Might/Practitioner-Feats#shared-harmonies",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/shared-rage-combat",
@@ -2320,7 +2320,7 @@
   "url": "Spheres-Of-Might/Practitioner-Feats#shared-rage-combat",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/talented-followers-improved",
@@ -2336,7 +2336,7 @@
   "url": "Spheres-Of-Might/Practitioner-Feats#talented-followers-improved",
   "options": [],
   "file": "leadership.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "leadership/theurgical-disciples",
@@ -2352,6 +2352,901 @@
   "url": "Spheres-Of-Might/Practitioner-Feats#theurgical-disciples",
   "options": [],
   "file": "leadership.json",
+  "approved": true
+ },
+ {
+  "id": "commander/combat-training",
+  "name": "Combat Training",
+  "kind": "class feature",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Class Features",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#combat-training",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/battlefield-operator",
+  "name": "Battlefield Operator",
+  "kind": "class feature",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Class Features",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#battlefield-operator",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/lingering-commands-ex",
+  "name": "Lingering Commands",
+  "kind": "class feature",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Class Features",
+  "tags": [
+   "Ex"
+  ],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#lingering-commands-ex",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/decorum-ex",
+  "name": "Decorum",
+  "kind": "class feature",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Class Features",
+  "tags": [
+   "Ex"
+  ],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#decorum-ex",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/enhanced-tactic-ex",
+  "name": "Enhanced Tactic",
+  "kind": "class feature",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Class Features",
+  "tags": [
+   "Ex"
+  ],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#enhanced-tactic-ex",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/battlefield-specialty-ex",
+  "name": "Battlefield Specialty",
+  "kind": "class feature",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Class Features",
+  "tags": [
+   "Ex"
+  ],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#battlefield-specialty-ex",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/commanders-inspiration-ex",
+  "name": "Commander’s Inspiration",
+  "kind": "class feature",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Class Features",
+  "tags": [
+   "Ex"
+  ],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#commanders-inspiration-ex",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/logistics-specialty-ex",
+  "name": "Logistics Specialty",
+  "kind": "class feature",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Class Features",
+  "tags": [
+   "Ex"
+  ],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#logistics-specialty-ex",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/seize-the-moment-ex",
+  "name": "Seize the Moment",
+  "kind": "class feature",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Class Features",
+  "tags": [
+   "Ex"
+  ],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#seize-the-moment-ex",
+  "options": [
+   "Seize the Moment"
+  ],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/never-falter-ex",
+  "name": "Never Falter",
+  "kind": "class feature",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Class Features",
+  "tags": [
+   "Ex"
+  ],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#never-falter-ex",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/major-general-ex",
+  "name": "Major General",
+  "kind": "class feature",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Class Features",
+  "tags": [
+   "Ex"
+  ],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#major-general-ex",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/lord-commander-ex",
+  "name": "Lord Commander",
+  "kind": "class feature",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Class Features",
+  "tags": [
+   "Ex"
+  ],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#lord-commander-ex",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/command-attack",
+  "name": "Command Attack",
+  "kind": "enhanced tactic",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Enhanced Tactics",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#command-attack",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/coordinated-specialist",
+  "name": "Coordinated Specialist",
+  "kind": "enhanced tactic",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Enhanced Tactics",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#coordinated-specialist",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/command-attack-improved",
+  "name": "Command Attack, Improved",
+  "kind": "enhanced tactic",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Enhanced Tactics",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#command-attack-improved",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/command-movement",
+  "name": "Command Movement",
+  "kind": "enhanced tactic",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Enhanced Tactics",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#command-movement",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/command-strategy",
+  "name": "Command Strategy",
+  "kind": "enhanced tactic",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Enhanced Tactics",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#command-strategy",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/constant-orders",
+  "name": "Constant Orders",
+  "kind": "enhanced tactic",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Enhanced Tactics",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#constant-orders",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/counterstratagem",
+  "name": "Counterstratagem",
+  "kind": "enhanced tactic",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Enhanced Tactics",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#counterstratagem",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/duty-of-cunning-duty",
+  "name": "Duty of Cunning",
+  "kind": "enhanced tactic",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Enhanced Tactics",
+  "tags": [],
+  "talentTags": [
+   "Duty"
+  ],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#duty-of-cunning-duty",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/duty-of-prescience-duty",
+  "name": "Duty of Prescience",
+  "kind": "enhanced tactic",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Enhanced Tactics",
+  "tags": [],
+  "talentTags": [
+   "Duty"
+  ],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#duty-of-prescience-duty",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/duty-of-valor-duty",
+  "name": "Duty of Valor",
+  "kind": "enhanced tactic",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Enhanced Tactics",
+  "tags": [],
+  "talentTags": [
+   "Duty"
+  ],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#duty-of-valor-duty",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/endless-preparations",
+  "name": "Endless Preparations",
+  "kind": "enhanced tactic",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Enhanced Tactics",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#endless-preparations",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/expert-coordinator",
+  "name": "Expert Coordinator",
+  "kind": "enhanced tactic",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Enhanced Tactics",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#expert-coordinator",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/fading-fire",
+  "name": "Fading Fire",
+  "kind": "enhanced tactic",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Enhanced Tactics",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#fading-fire",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/generals-steed",
+  "name": "General’s Steed",
+  "kind": "enhanced tactic",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Enhanced Tactics",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#generals-steed",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/improved-duty",
+  "name": "Improved Duty",
+  "kind": "enhanced tactic",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Enhanced Tactics",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#improved-duty",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/mountaineering",
+  "name": "Mountaineering",
+  "kind": "enhanced tactic",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Enhanced Tactics",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#mountaineering",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/positioning-superiority",
+  "name": "Positioning Superiority",
+  "kind": "enhanced tactic",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Enhanced Tactics",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#positioning-superiority",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/reckless-gambit",
+  "name": "Reckless Gambit",
+  "kind": "enhanced tactic",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Enhanced Tactics",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#reckless-gambit",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/target-designation",
+  "name": "Target Designation",
+  "kind": "enhanced tactic",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Enhanced Tactics",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#target-designation",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/troop-upkeep",
+  "name": "Troop Upkeep",
+  "kind": "enhanced tactic",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Enhanced Tactics",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#troop-upkeep",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/unrelenting-march",
+  "name": "Unrelenting March",
+  "kind": "enhanced tactic",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Enhanced Tactics",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#unrelenting-march",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/cold",
+  "name": "Cold",
+  "kind": "battlefield specialty",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Battlefield Specialties",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#cold",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/desert",
+  "name": "Desert",
+  "kind": "battlefield specialty",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Battlefield Specialties",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#desert",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/forest",
+  "name": "Forest",
+  "kind": "battlefield specialty",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Battlefield Specialties",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#forest",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/mountain",
+  "name": "Mountain",
+  "kind": "battlefield specialty",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Battlefield Specialties",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#mountain",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/plains",
+  "name": "Plains",
+  "kind": "battlefield specialty",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Battlefield Specialties",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#plains",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/swamp",
+  "name": "Swamp",
+  "kind": "battlefield specialty",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Battlefield Specialties",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#swamp",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/urban",
+  "name": "Urban",
+  "kind": "battlefield specialty",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Battlefield Specialties",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#urban",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/underground",
+  "name": "Underground",
+  "kind": "battlefield specialty",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Battlefield Specialties",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#underground",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/water",
+  "name": "Water",
+  "kind": "battlefield specialty",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Battlefield Specialties",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#water",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/call-in-a-specialist-plan",
+  "name": "Call in a Specialist",
+  "kind": "logistics specialty",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Logistic Specialties",
+  "tags": [],
+  "talentTags": [
+   "plan"
+  ],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#call-in-a-specialist-plan",
+  "options": [
+   "Equipment Specialist",
+   "Information Specialist",
+   "Medical Specialist",
+   "Scouting Specialist"
+  ],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/faction-connections",
+  "name": "Faction Connections",
+  "kind": "logistics specialty",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Logistic Specialties",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#faction-connections",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/leadership-connections",
+  "name": "Leadership Connections",
+  "kind": "logistics specialty",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Logistic Specialties",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#leadership-connections",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/mercantile-connections-plan",
+  "name": "Mercantile Connections",
+  "kind": "logistics specialty",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Logistic Specialties",
+  "tags": [],
+  "talentTags": [
+   "plan"
+  ],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#mercantile-connections-plan",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/overland-march-plan",
+  "name": "Overland March",
+  "kind": "logistics specialty",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Logistic Specialties",
+  "tags": [],
+  "talentTags": [
+   "plan"
+  ],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#overland-march-plan",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/requisition-plan",
+  "name": "Requisition",
+  "kind": "logistics specialty",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Logistic Specialties",
+  "tags": [],
+  "talentTags": [
+   "plan"
+  ],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#requisition-plan",
+  "options": [
+   "Requisition Maintenance",
+   "Requisition Mounts",
+   "Requisition Provisions"
+  ],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/all-terrain-armoire",
+  "name": "All-Terrain Armoire",
+  "kind": "equipment",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Class Equipment",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#all-terrain-armoire",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/amplifying-horn",
+  "name": "Amplifying Horn",
+  "kind": "equipment",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Class Equipment",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#amplifying-horn",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/tactics-manual",
+  "name": "Tactics Manual",
+  "kind": "equipment",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "Class Equipment",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Commander/Commander#tactics-manual",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/expanded-battlefield-specialty-plan",
+  "name": "Expanded Battlefield Specialty",
+  "kind": "feat",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [],
+  "talentTags": [
+   "plan"
+  ],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Practitioner-Feats#expanded-battlefield-specialty-plan",
+  "options": [],
+  "file": "commander.json",
+  "approved": false
+ },
+ {
+  "id": "commander/extra-battlefield-specialization",
+  "name": "Extra Battlefield Specialization",
+  "kind": "feat",
+  "sphere": "Commander",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Practitioner-Feats#extra-battlefield-specialization",
+  "options": [],
+  "file": "commander.json",
   "approved": false
  }
 ]
