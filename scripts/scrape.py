@@ -1595,12 +1595,15 @@ def _section_span(lines: list[str], section: str) -> tuple[int, int, int] | None
     at the end of the tab it sits in."""
     if section == "(page)":  # the whole page (for entries that sit under no heading of their own)
         return -1, len(lines), 0
-    want = _norm(section)
+    # "## Type Talents": only a heading of that level (Conjuration has a "### Type Talents" rules
+    # note before its "## Type Talents" section)
+    at_level = len(m.group(1)) if (m := re.match(r"(#{1,6}) ", section)) else None
+    want = _norm(section.lstrip("# "))
     for i, l in enumerate(lines):
         s = l.strip()
         m = re.match(r"(#{1,6}) (.+)$", s)
         tab = re.fullmatch(r'<div class="sop-tab-label">(.*)</div>', s)
-        if m and _norm(m.group(2)) == want:
+        if m and _norm(m.group(2)) == want and (at_level is None or len(m.group(1)) == at_level):
             level = len(m.group(1))
         elif tab and _norm(html.unescape(tab.group(1))) == want:
             level = 0
@@ -2524,7 +2527,7 @@ COMPENDIUM = {
     },
     "Blood": {
         "system": "Spheres of Power",
-        "approved": False,
+        "approved": True,
         "pages": [
             # Blood Control and the Bleed / Coagulate abilities every Blood user has
             ("Blood", "Blood Control", "sphere ability", 2, 4),
@@ -2537,6 +2540,22 @@ COMPENDIUM = {
         ],
         # Blood Control's rules sections (blood arts, blood loss), not abilities
         "not_options": r"^Table|^Note|^Blood Arts$|^Author",
+    },
+    "Conjuration": {
+        "system": "Spheres of Power",
+        "approved": False,
+        "pages": [
+            # Summon, its base forms and companion features (a subsection of its text, not options)
+            ("Conjuration", "Summon", "sphere ability", 2, 5),
+            ("Conjuration", "Companion Archetypes", "companion archetype", 4),
+            ("Conjuration", "Conjuration Talents", "talent", 4),
+            ("Conjuration", "Form Talents", "talent", 4),
+            ("Conjuration", "## Type Talents", "talent", 4),
+            ("Conjuration", "Advanced Conjuration Talents", "advanced talent", 4),
+            ("Conjuration Sphere Feats", "(page)", "feat", 4),
+            ("Conjuration Sphere Drawbacks", "(page)", "drawback", 4),
+        ],
+        "not_options": r"^Table|^Note",
     },
     "Warleader": {
         "system": "Spheres of Might",
@@ -2647,7 +2666,7 @@ def build_compendium() -> dict[str, int]:
                 # the section, or for whole feats pages "General" until a subsection; other
                 # whole-page maps are grouped by their kind ("Drawbacks")
                 group = ("General" if kind == "feat" else kind.title() + "s") if section == "(page)" \
-                    else section if slevel < level else ""
+                    else section.lstrip("# ") if slevel < level else ""
                 for j in range(k - 1, start, -1):  # feats pages: the "## Dual Sphere Feats" group
                     if (m := re.match(r"(#{1,6}) (.+)$", lines[j])) and len(m.group(1)) < level:
                         group = m.group(2).strip()

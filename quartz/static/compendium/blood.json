@@ -1,7 +1,7 @@
 {
  "sphere": "Blood",
  "system": "Spheres of Power",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "blood/blood-control",

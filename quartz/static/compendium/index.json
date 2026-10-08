@@ -4017,7 +4017,7 @@
    "Coagulate"
   ],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/absorb-blood",
@@ -4033,7 +4033,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#absorb-blood",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/blood-tracking",
@@ -4049,7 +4049,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#blood-tracking",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/complex-control",
@@ -4065,7 +4065,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#complex-control",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/crimson-vortex",
@@ -4081,7 +4081,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#crimson-vortex",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/exsanguinating-strike-strike",
@@ -4099,7 +4099,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#exsanguinating-strike-strike",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/extract-blood-construct",
@@ -4115,7 +4115,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#extract-blood-construct",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/eye-bleed",
@@ -4131,7 +4131,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#eye-bleed",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/greater-blood-control",
@@ -4147,7 +4147,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#greater-blood-control",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/hemo-goblin",
@@ -4163,7 +4163,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#hemo-goblin",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/hemokinesis",
@@ -4179,7 +4179,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#hemokinesis",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/hemorrhage",
@@ -4195,7 +4195,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#hemorrhage",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/improved-bleed",
@@ -4211,7 +4211,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#improved-bleed",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/inject",
@@ -4227,7 +4227,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#inject",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/instill-blood-magic-instill",
@@ -4245,7 +4245,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#instill-blood-magic-instill",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/lengthened-control",
@@ -4261,7 +4261,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#lengthened-control",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/lingering-control",
@@ -4277,7 +4277,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#lingering-control",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/mana-bleed",
@@ -4293,7 +4293,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#mana-bleed",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/mass-blood-magic-mass",
@@ -4311,7 +4311,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#mass-blood-magic-mass",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/ranged-blood-magic-range",
@@ -4329,7 +4329,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#ranged-blood-magic-range",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/red-mist",
@@ -4345,7 +4345,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#red-mist",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/self-control",
@@ -4361,7 +4361,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#self-control",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/bloodbind-blood-art",
@@ -4379,7 +4379,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#bloodbind-blood-art",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/blood-rebuff-blood-art",
@@ -4397,7 +4397,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#blood-rebuff-blood-art",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/cystic-growth-blood-art-still",
@@ -4416,7 +4416,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#cystic-growth-blood-art-still",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/gory-armaments-blood-art",
@@ -4434,7 +4434,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#gory-armaments-blood-art",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/internal-propulsion-blood-art-quicken",
@@ -4453,7 +4453,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#internal-propulsion-blood-art-quicken",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/martyrs-tithings-blood-art",
@@ -4471,7 +4471,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#martyrs-tithings-blood-art",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/piercing-blood-blood-art",
@@ -4489,7 +4489,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#piercing-blood-blood-art",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/rush-to-the-head-blood-art",
@@ -4507,7 +4507,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#rush-to-the-head-blood-art",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/blood-puppet-quicken",
@@ -4525,7 +4525,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#blood-puppet-quicken",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/cardiovascular-mastery-quicken-still",
@@ -4544,7 +4544,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#cardiovascular-mastery-quicken-still",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/control-oxygenation-quicken-still",
@@ -4563,7 +4563,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#control-oxygenation-quicken-still",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/manipulate-alchemy-quicken-still",
@@ -4582,7 +4582,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#manipulate-alchemy-quicken-still",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/manipulate-density-quicken-still",
@@ -4601,7 +4601,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#manipulate-density-quicken-still",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/manipulate-health-quicken-still",
@@ -4620,7 +4620,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#manipulate-health-quicken-still",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/migraine-quicken",
@@ -4638,7 +4638,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#migraine-quicken",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/numb-still",
@@ -4656,7 +4656,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#numb-still",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/redirect-flow-quicken-still",
@@ -4675,7 +4675,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#redirect-flow-quicken-still",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/slick-quicken",
@@ -4693,7 +4693,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#slick-quicken",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/cardiovascular-ascension-quicken-still",
@@ -4712,7 +4712,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#cardiovascular-ascension-quicken-still",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/drain-lifeblood",
@@ -4728,7 +4728,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#drain-lifeblood",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/essence-manipulation",
@@ -4744,7 +4744,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#essence-manipulation",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/overclock",
@@ -4760,7 +4760,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#overclock",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/puppet-master",
@@ -4776,7 +4776,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#puppet-master",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/sanguine-minion",
@@ -4792,7 +4792,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#sanguine-minion",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/sanguiphilia",
@@ -4808,7 +4808,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#sanguiphilia",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/union-of-blood",
@@ -4824,7 +4824,7 @@
   "url": "Spheres-Of-Power/Blood/Blood#union-of-blood",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/blood-construct-mastery",
@@ -4840,7 +4840,7 @@
   "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#blood-construct-mastery",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/blood-potion",
@@ -4856,7 +4856,7 @@
   "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#blood-potion",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/blood-thirst",
@@ -4872,7 +4872,7 @@
   "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#blood-thirst",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/bloodrunner",
@@ -4888,7 +4888,7 @@
   "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#bloodrunner",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/bonds-of-blood-and-power-dual-sphere",
@@ -4906,7 +4906,7 @@
   "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#bonds-of-blood-and-power-dual-sphere",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/construct-armor",
@@ -4922,7 +4922,7 @@
   "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#construct-armor",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/create-humor-familiar",
@@ -4938,7 +4938,7 @@
   "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#create-humor-familiar",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/crimson-theurgy-dual-sphere",
@@ -4956,7 +4956,7 @@
   "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#crimson-theurgy-dual-sphere",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/elemental-blood",
@@ -4972,7 +4972,7 @@
   "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#elemental-blood",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/formed-construct-dual-sphere",
@@ -4990,7 +4990,7 @@
   "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#formed-construct-dual-sphere",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/fount-of-stolen-life-dual-sphere",
@@ -5008,7 +5008,7 @@
   "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#fount-of-stolen-life-dual-sphere",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/hemothermia-dual-sphere",
@@ -5026,7 +5026,7 @@
   "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#hemothermia-dual-sphere",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/hypochondriacs-terror-dual-sphere",
@@ -5044,7 +5044,7 @@
   "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#hypochondriacs-terror-dual-sphere",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/reservoir",
@@ -5060,7 +5060,7 @@
   "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#reservoir",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/salvaging-execution",
@@ -5076,7 +5076,7 @@
   "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#salvaging-execution",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/surgeons-trade-secrets",
@@ -5092,7 +5092,7 @@
   "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#surgeons-trade-secrets",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/transfusion",
@@ -5108,7 +5108,7 @@
   "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#transfusion",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/vampires-guile-dual-sphere",
@@ -5126,7 +5126,7 @@
   "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#vampires-guile-dual-sphere",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/cruoromancy",
@@ -5142,7 +5142,7 @@
   "url": "Spheres-Of-Power/Blood/Blood-Sphere-Drawbacks#cruoromancy",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/hemokinetic",
@@ -5158,7 +5158,7 @@
   "url": "Spheres-Of-Power/Blood/Blood-Sphere-Drawbacks#hemokinetic",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/humors",
@@ -5174,7 +5174,7 @@
   "url": "Spheres-Of-Power/Blood/Blood-Sphere-Drawbacks#humors",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/limited-acceleration",
@@ -5190,7 +5190,7 @@
   "url": "Spheres-Of-Power/Blood/Blood-Sphere-Drawbacks#limited-acceleration",
   "options": [],
   "file": "blood.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "blood/self-controlled",
@@ -5206,6 +5206,2375 @@
   "url": "Spheres-Of-Power/Blood/Blood-Sphere-Drawbacks#self-controlled",
   "options": [],
   "file": "blood.json",
+  "approved": true
+ },
+ {
+  "id": "conjuration/summon",
+  "name": "Summon",
+  "kind": "sphere ability",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#summon",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/aquatic",
+  "name": "Aquatic",
+  "kind": "companion archetype",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Companion Archetypes",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#aquatic",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/beast",
+  "name": "Beast",
+  "kind": "companion archetype",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Companion Archetypes",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#beast",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/distinct-kin",
+  "name": "Distinct Kin",
+  "kind": "companion archetype",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Companion Archetypes",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#distinct-kin",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/familiar",
+  "name": "Familiar",
+  "kind": "companion archetype",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Companion Archetypes",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#familiar",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/guileful-companion",
+  "name": "Guileful Companion",
+  "kind": "companion archetype",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Companion Archetypes",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#guileful-companion",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/mage",
+  "name": "Mage",
+  "kind": "companion archetype",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Companion Archetypes",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#mage",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/martial-companion",
+  "name": "Martial Companion",
+  "kind": "companion archetype",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Companion Archetypes",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#martial-companion",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/mindless",
+  "name": "Mindless",
+  "kind": "companion archetype",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Companion Archetypes",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#mindless",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/puppet",
+  "name": "Puppet",
+  "kind": "companion archetype",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Companion Archetypes",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#puppet",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/unwilling",
+  "name": "Unwilling",
+  "kind": "companion archetype",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Companion Archetypes",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#unwilling",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/warrior",
+  "name": "Warrior",
+  "kind": "companion archetype",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Companion Archetypes",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#warrior",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/call-the-departed",
+  "name": "Call The Departed",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Conjuration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#call-the-departed",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/extra-companion",
+  "name": "Extra Companion",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Conjuration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#extra-companion",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/greater-summoning",
+  "name": "Greater Summoning",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Conjuration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#greater-summoning",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/link-utility",
+  "name": "Link",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Conjuration Talents",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#link-utility",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/mass-summon-mass",
+  "name": "Mass Summon",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Conjuration Talents",
+  "tags": [],
+  "talentTags": [
+   "mass"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#mass-summon-mass",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/otherworldly-audience-utility",
+  "name": "Otherworldly Audience",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Conjuration Talents",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#otherworldly-audience-utility",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/ranged-summoning-range",
+  "name": "Ranged Summoning",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Conjuration Talents",
+  "tags": [],
+  "talentTags": [
+   "range"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#ranged-summoning-range",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/spell-conduit",
+  "name": "Spell Conduit",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Conjuration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#spell-conduit",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/spell-linked-companions",
+  "name": "Spell-Linked Companions",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Conjuration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#spell-linked-companions",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/aligned-creature-form",
+  "name": "Aligned Creature",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#aligned-creature-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/altered-size-form",
+  "name": "Altered Size",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#altered-size-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/amorphous-creature-form",
+  "name": "Amorphous Creature",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#amorphous-creature-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/animal-creature-form",
+  "name": "Animal Creature",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#animal-creature-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/armored-companion-form",
+  "name": "Armored Companion",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#armored-companion-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/avian-creature-form",
+  "name": "Avian Creature",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#avian-creature-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/battle-creature-form",
+  "name": "Battle Creature",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#battle-creature-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/bestial-form",
+  "name": "Bestial",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#bestial-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/boon-companion-form",
+  "name": "Boon Companion",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#boon-companion-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/camouflaged-companion-form",
+  "name": "Camouflaged Companion",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#camouflaged-companion-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/capable-companion-form",
+  "name": "Capable Companion",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#capable-companion-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/climbing-companion-form",
+  "name": "Climbing Companion",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#climbing-companion-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/crafting-creature-form",
+  "name": "Crafting Creature",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#crafting-creature-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/draconic-creature-form",
+  "name": "Draconic Creature",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#draconic-creature-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/earth-creature-form",
+  "name": "Earth Creature",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#earth-creature-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/elemental-creature-form",
+  "name": "Elemental Creature",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#elemental-creature-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/empower-familiar-form",
+  "name": "Empower Familiar",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#empower-familiar-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/explosive-companion-form",
+  "name": "Explosive Companion",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#explosive-companion-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/extra-limbs-form",
+  "name": "Extra Limbs",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#extra-limbs-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/extreme-situations-form",
+  "name": "Extreme Situations",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#extreme-situations-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/fortified-companion-form",
+  "name": "Fortified Companion",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#fortified-companion-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/implement-bearer-form",
+  "name": "Implement Bearer",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#implement-bearer-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/infectious-creature-form",
+  "name": "Infectious Creature",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#infectious-creature-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/lingering-companion-form",
+  "name": "Lingering Companion",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#lingering-companion-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/magic-attacks-form",
+  "name": "Magic Attacks",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#magic-attacks-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/magic-vessel-form",
+  "name": "Magic Vessel",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#magic-vessel-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/magical-companion-form",
+  "name": "Magical Companion",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#magical-companion-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/monstrous-attacks-form",
+  "name": "Monstrous Attacks",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#monstrous-attacks-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/mount-form",
+  "name": "Mount",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#mount-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/muensterous-companion-form",
+  "name": "Muensterous Companion",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#muensterous-companion-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/mystical-companion-form",
+  "name": "Mystical Companion",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#mystical-companion-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/natural-aspect-form",
+  "name": "Natural Aspect",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#natural-aspect-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/powerful-companion-form",
+  "name": "Powerful Companion",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#powerful-companion-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/quick-companion-form",
+  "name": "Quick Companion",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#quick-companion-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/raging-companion-form",
+  "name": "Raging Companion",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#raging-companion-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/ravenous-creature-form",
+  "name": "Ravenous Creature",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#ravenous-creature-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/resistant-creature-form",
+  "name": "Resistant Creature",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#resistant-creature-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/roguish-creature-form",
+  "name": "Roguish Creature",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#roguish-creature-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/sage-companion-form",
+  "name": "Sage Companion",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#sage-companion-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/sanguine-creature-form",
+  "name": "Sanguine Creature",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#sanguine-creature-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/shadow-creature-form",
+  "name": "Shadow Creature",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#shadow-creature-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/shield-bearer-form",
+  "name": "Shield Bearer",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#shield-bearer-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/shocking-creature-form",
+  "name": "Shocking Creature",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#shocking-creature-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/skill-mimic-form-utility",
+  "name": "Skill Mimic",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#skill-mimic-form-utility",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/skillful-companion-form-utility",
+  "name": "Skillful Companion",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#skillful-companion-form-utility",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/spell-warded-companion-form",
+  "name": "Spell-Warded Companion",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#spell-warded-companion-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/stinking-companion-form",
+  "name": "Stinking Companion",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#stinking-companion-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/superior-senses-form",
+  "name": "Superior Senses",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#superior-senses-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/thorned-companion-form",
+  "name": "Thorned Companion",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#thorned-companion-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/trade-expertise-form",
+  "name": "Trade Expertise",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#trade-expertise-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/transformative-form-utility",
+  "name": "Transformative",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#transformative-form-utility",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/trapbreaking-companion-form",
+  "name": "Trapbreaking Companion",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#trapbreaking-companion-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/water-being-form",
+  "name": "Water Being",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#water-being-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/web-spinner-form",
+  "name": "Web Spinner",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#web-spinner-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/willful-companion-form",
+  "name": "Willful Companion",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Form Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#willful-companion-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/aberrant-companion-type",
+  "name": "Aberrant Companion",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Type Talents",
+  "tags": [
+   "type"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#aberrant-companion-type",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/constructed-type",
+  "name": "Constructed",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Type Talents",
+  "tags": [
+   "type"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#constructed-type",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/fey-companion-type",
+  "name": "Fey Companion",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Type Talents",
+  "tags": [
+   "type"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#fey-companion-type",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/ooze-companion-type",
+  "name": "Ooze Companion",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Type Talents",
+  "tags": [
+   "type"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#ooze-companion-type",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/planar-creature-type",
+  "name": "Planar Creature",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Type Talents",
+  "tags": [
+   "type"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#planar-creature-type",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/plant-creature-type",
+  "name": "Plant Creature",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Type Talents",
+  "tags": [
+   "type"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#plant-creature-type",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/undead-creature-type",
+  "name": "Undead Creature",
+  "kind": "talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Type Talents",
+  "tags": [
+   "type"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#undead-creature-type",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/call-planar-creature",
+  "name": "Call Planar Creature",
+  "kind": "advanced talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Advanced Conjuration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#call-planar-creature",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/channel-companion",
+  "name": "Channel Companion",
+  "kind": "advanced talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Advanced Conjuration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#channel-companion",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/diagram",
+  "name": "Diagram",
+  "kind": "advanced talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Advanced Conjuration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#diagram",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/entrapping-circle",
+  "name": "Entrapping Circle",
+  "kind": "advanced talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Advanced Conjuration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#entrapping-circle",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/expendable-summons",
+  "name": "Expendable Summons",
+  "kind": "advanced talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Advanced Conjuration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#expendable-summons",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/greater-altered-size-form",
+  "name": "Greater Altered Size",
+  "kind": "advanced talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Advanced Conjuration Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#greater-altered-size-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/greater-healing-form",
+  "name": "Greater Healing",
+  "kind": "advanced talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Advanced Conjuration Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#greater-healing-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/incursion-link",
+  "name": "Incursion Link",
+  "kind": "advanced talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Advanced Conjuration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#incursion-link",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/possessive-companion",
+  "name": "Possessive Companion",
+  "kind": "advanced talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Advanced Conjuration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#possessive-companion",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/regenerating-companion-form",
+  "name": "Regenerating Companion",
+  "kind": "advanced talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Advanced Conjuration Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#regenerating-companion-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/swarm-companion-form",
+  "name": "Swarm Companion",
+  "kind": "advanced talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Advanced Conjuration Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#swarm-companion-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/troop-companion-form",
+  "name": "Troop Companion",
+  "kind": "advanced talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Advanced Conjuration Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#troop-companion-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/vanishing-companion-form",
+  "name": "Vanishing Companion",
+  "kind": "advanced talent",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Advanced Conjuration Talents",
+  "tags": [
+   "form"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration#vanishing-companion-form",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/ability-channel",
+  "name": "Ability Channel",
+  "kind": "feat",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Feats#ability-channel",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/advanced-circles",
+  "name": "Advanced Circles",
+  "kind": "feat",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Feats#advanced-circles",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/altered-summons-dual-sphere",
+  "name": "Altered Summons",
+  "kind": "feat",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [
+   "Dual Sphere"
+  ],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Feats#altered-summons-dual-sphere",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/armory-companion",
+  "name": "Armory",
+  "kind": "feat",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Companion"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Feats#armory-companion",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/companion-concentration-companion",
+  "name": "Companion Concentration",
+  "kind": "feat",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Companion"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Feats#companion-concentration-companion",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/deadcaller",
+  "name": "Deadcaller",
+  "kind": "feat",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Feats#deadcaller",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/destructive-companion-dual-sphere",
+  "name": "Destructive Companion",
+  "kind": "feat",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Feats#destructive-companion-dual-sphere",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/exceptional-ally-dual-sphere",
+  "name": "Exceptional Ally",
+  "kind": "feat",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Feats#exceptional-ally-dual-sphere",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/fated-summons-dual-sphere",
+  "name": "Fated Summons",
+  "kind": "feat",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Feats#fated-summons-dual-sphere",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/focusing-direction",
+  "name": "Focusing Direction",
+  "kind": "feat",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Feats#focusing-direction",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/formed-construct-dual-sphere",
+  "name": "Formed Construct",
+  "kind": "feat",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Feats#formed-construct-dual-sphere",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/greater-earth-creature-companion",
+  "name": "Greater Earth Creature",
+  "kind": "feat",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Companion"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Feats#greater-earth-creature-companion",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/greater-link",
+  "name": "Greater Link",
+  "kind": "feat",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Feats#greater-link",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/heroic-companion",
+  "name": "Heroic Companion",
+  "kind": "feat",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Feats#heroic-companion",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/homogenous-companions",
+  "name": "Homogenous Companions",
+  "kind": "feat",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Feats#homogenous-companions",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/hungry-combat-companion",
+  "name": "Hungry",
+  "kind": "feat",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat",
+   "Companion"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Feats#hungry-combat-companion",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/improved-explosive-companion",
+  "name": "Improved Explosive Companion",
+  "kind": "feat",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Feats#improved-explosive-companion",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/invisible-friend-dual-sphere",
+  "name": "Invisible Friend",
+  "kind": "feat",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Feats#invisible-friend-dual-sphere",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/linked-equipment",
+  "name": "Linked Equipment",
+  "kind": "feat",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Feats#linked-equipment",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/manifestation-companion",
+  "name": "Manifestation",
+  "kind": "feat",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Companion"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Feats#manifestation-companion",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/merged-summons-dual-sphere",
+  "name": "Merged Summons",
+  "kind": "feat",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Feats#merged-summons-dual-sphere",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/mind-over-manners",
+  "name": "Mind Over Manners",
+  "kind": "feat",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Feats#mind-over-manners",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/spell-channel-companion",
+  "name": "Spell Channel",
+  "kind": "feat",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Companion"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Feats#spell-channel-companion",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/technical-companion-companion",
+  "name": "Technical Companion",
+  "kind": "feat",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Companion"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Feats#technical-companion-companion",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/variable-armaments-companion",
+  "name": "Variable Armaments",
+  "kind": "feat",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Companion"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Feats#variable-armaments-companion",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/variable-size-companion",
+  "name": "Variable Size",
+  "kind": "feat",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Companion"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Feats#variable-size-companion",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/venomous-blood-companion",
+  "name": "Venomous Blood",
+  "kind": "feat",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Companion"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Feats#venomous-blood-companion",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/venomous-focus-companion",
+  "name": "Venomous Focus",
+  "kind": "feat",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Companion"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Feats#venomous-focus-companion",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/venomous-spit-companion",
+  "name": "Venomous Spit",
+  "kind": "feat",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Companion"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Feats#venomous-spit-companion",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/watchful-companion-companion",
+  "name": "Watchful Companion",
+  "kind": "feat",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Companion"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Feats#watchful-companion-companion",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/web-exemplar-companion",
+  "name": "Web Exemplar",
+  "kind": "feat",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Companion"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Feats#web-exemplar-companion",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/caller",
+  "name": "Caller",
+  "kind": "drawback",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Drawbacks#caller",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/constant-link",
+  "name": "Constant Link",
+  "kind": "drawback",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Drawbacks#constant-link",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/divided-soul",
+  "name": "Divided Soul",
+  "kind": "drawback",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Drawbacks#divided-soul",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/elongated-summoning",
+  "name": "Elongated Summoning",
+  "kind": "drawback",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Drawbacks#elongated-summoning",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/figment-companion",
+  "name": "Figment Companion",
+  "kind": "drawback",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Drawbacks#figment-companion",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/life-merger",
+  "name": "Life Merger",
+  "kind": "drawback",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Drawbacks#life-merger",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/limited-range",
+  "name": "Limited Range",
+  "kind": "drawback",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Drawbacks#limited-range",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/material-weakness",
+  "name": "Material Weakness",
+  "kind": "drawback",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Drawbacks#material-weakness",
+  "options": [],
+  "file": "conjuration.json",
+  "approved": false
+ },
+ {
+  "id": "conjuration/object-bound",
+  "name": "Object Bound",
+  "kind": "drawback",
+  "sphere": "Conjuration",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cohorts & Companions",
+  "status": "current",
+  "url": "Spheres-Of-Power/Conjuration/Conjuration-Sphere-Drawbacks#object-bound",
+  "options": [],
+  "file": "conjuration.json",
   "approved": false
  },
  {
