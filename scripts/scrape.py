@@ -3072,6 +3072,169 @@ def build_trait_compendium() -> dict[str, int]:
     return by_system
 
 
+_ABILITY_KEYS = {"strength": "str", "dexterity": "dex", "constitution": "con", "intelligence": "int",
+                 "wisdom": "wis", "charisma": "cha"}
+_SIZE_KEYS = {"fine": "fine", "diminutive": "dim", "tiny": "tiny", "small": "sm", "medium": "med", "large": "lg",
+              "huge": "huge"}
+
+
+def race_stats(traits: list[tuple[str, str]]) -> dict:
+    """What the Character Builder's Race tab fills in, from a race's standard racial traits
+    [(label, text)]: ability adjustments ("+2 Dexterity, +2 Intelligence, -2 Constitution", or a
+    flexible "+2 to One Ability Score"), size, base speed, and the human-style bonus feat and
+    skill rank."""
+    out = {"size": "med", "speed": 30, "mods": {k: 0 for k in _ABILITY_KEYS.values()}, "flexMod": False,
+           "bonusFeats": 0, "bonusSkillPerLevel": 0}
+    for label, text in traits:
+        low = label.lower()
+        found = re.findall(r"([+\-–−])\s*(\d+)\s+(strength|dexterity|constitution|intelligence|wisdom|charisma)", low)
+        if found and re.match(r"^[+\-–−]\d", label.strip()):
+            for sign, n, ab in found:
+                out["mods"][_ABILITY_KEYS[ab]] = int(n) * (1 if sign == "+" else -1)
+        elif re.match(r"^\+\d+ to one ability score", low):
+            out["flexMod"] = True
+        elif (m := re.match(r"^(fine|diminutive|tiny|small|medium|large|huge)\b(?:/\w+)?(?: sized)?$", low)):
+            out["size"] = _SIZE_KEYS[m.group(1)]
+        elif "speed" in low and not re.match(r"^(swim|fly|climb|burrow)", low):
+            n = re.search(r"base (?:land )?speed (?:of|is) (\d+)", text, re.I)
+            out["speed"] = int(n.group(1)) if n else {"slow": 20, "fast": 40}.get(low.split()[0], 30)
+        elif low == "bonus feat":
+            out["bonusFeats"] = 1
+        elif low == "skilled" and re.search(r"additional skill rank", text, re.I):
+            out["bonusSkillPerLevel"] = 1
+    return out
+
+
+# Spheres racial-trait pages: the race pages (Sphere Races folder), and the pages of alternate
+# racial traits for other races, grouped by race heading
+RACE_PAGES_SKIP = {"Sphere Races", "Standard Races"}
+_REPLACES = re.compile(r"\b(?:this|it)\s+(?:alternate\s+)?(?:racial\s+)?(?:trait\s+)?replaces\s+(?:the\s+)?([^.]+)",
+                       re.I)
+
+
+def _bold_traits(md: str) -> list[tuple[str, str]]:
+    """"**Name (Su):** text" paragraphs (and the plain paragraphs that follow each) -> [(name, text)]."""
+    out: list[tuple[str, str]] = []
+    for para in re.split(r"\n\s*\n", md):
+        p = para.strip()
+        if (m := re.match(r"^\*\*([^*]+?):?\*\*:?\s*(.*)$", p, re.S)) and not re.match(
+                r"^(Source|Note|Author's Note|Author’s Note)\b", m.group(1)):
+            out.append((m.group(1).strip().rstrip(":"), m.group(2).strip()))
+        elif out and p and not p.startswith(("#", "---", "*Source")):
+            out[-1] = (out[-1][0], out[-1][1] + "\n\n" + p)
+    return out
+
+
+def _replaces(text: str) -> str:
+    m = _REPLACES.search(re.sub(r"[*_]", "", text))
+    return re.sub(r"\s+racial traits?$|\s+traits?$", "", m.group(1).strip()) if m else ""
+
+
+def build_race_compendium() -> dict[str, int]:
+    """compendium/races.json: every race the Character Builder can pick (Pathfinder races from
+    pf1e/race-data.json, the Spheres races from the Sphere Races pages) with the stats it fills in;
+    compendium/racial-traits.json + racial-traits-index.json: their standard and alternate racial
+    traits (the Spheres alternate racial traits for other races included), for the racial-trait
+    picker."""
+    files = {f.stem: f for f in CONTENT.rglob("*.md") if ARCHIVE not in f.relative_to(CONTENT).parts}
+    pf_file = COMPENDIUM_OUT / "pf1e" / "race-data.json"
+    pf = json.loads(pf_file.read_text(encoding="utf-8"))["races"] if pf_file.exists() else []
+    races: list[dict] = []
+    traits: list[dict] = []
+    rid = lambda system, name: ("pf1e/" if system == "Pathfinder 1e" else "race/") + \
+        re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
+    for r in pf:
+        races.append({"id": rid("Pathfinder 1e", r["name"]), "name": r["name"], "system": "Pathfinder 1e",
+                      "url": r["url"], "source": r["source"]}
+                     | {k: r[k] for k in ("size", "speed", "mods", "flexMod", "bonusFeats", "bonusSkillPerLevel")})
+        for t in r["traits"]:
+            traits.append({"name": t["name"], "race": r["name"], "system": "Pathfinder 1e", "kind": t["kind"],
+                           "replaces": t["replaces"], "source": t["source"], "url": r["url"], "md": t["md"]})
+    # Spheres race pages
+    for f in sorted(CONTENT.glob("Sphere Races/*.md")):
+        if f.stem in RACE_PAGES_SKIP:
+            continue
+        body = f.read_text(encoding="utf-8").split(GENERATED_MARK, 1)[-1]
+        lines = body.split("\n")
+        slug = _slugger()
+        ids = [slug(m.group(2)) if (m := re.match(r"(#{1,6}) (.+)$", l)) else "" for l in lines]
+        src = m.group(1) if (m := re.search(r"^\*Source: \[([^\]]+)\]", body, re.M)) else ""
+        url = _page_url(f)
+        h1 = [i for i, l in enumerate(lines) if l.startswith("# ")] + [len(lines)]
+        std: list[tuple[str, str, str]] = []
+        for a, b in zip(h1, h1[1:]):
+            title = lines[a][2:].strip()
+            if re.match(rf"^(?:{re.escape(f.stem)} )?Racial Traits$", title, re.I):
+                h2 = [i for i in range(a + 1, b) if lines[i].startswith("## ")] + [b]
+                for x, y in zip(h2, h2[1:]):
+                    std.append((lines[x][3:].strip(), "\n".join(lines[x + 1:y]).strip(), ids[x]))
+            elif re.match(r"^Alternate Racial Traits$", title, re.I):
+                for name, text in _bold_traits("\n".join(lines[a + 1:b])):
+                    traits.append({"name": name, "race": f.stem, "system": "Spheres of Power", "kind": "Alternate",
+                                   "replaces": _replaces(text), "source": src, "url": f"{url}#{ids[a]}", "md": text})
+        if not std:
+            print(f"warning: races: no racial traits on {f.stem}")
+            continue
+        races.append({"id": rid("Spheres", f.stem), "name": f.stem, "system": "Spheres of Power", "url": url,
+                      "source": src} | race_stats([(n, t) for n, t, _ in std]))
+        for name, text, anchor in std:
+            traits.append({"name": name, "race": f.stem, "system": "Spheres of Power", "kind": "Standard",
+                           "replaces": "", "source": src, "url": f"{url}#{anchor}", "md": text})
+    # alternate racial traits for other races: a heading per race ("### Elf", "## Drow", "# Dwarf")
+    norm = lambda s: re.sub(r"(?:men|man)$", "man", re.sub(r"e?s$", "", s.strip().lower()))
+    known = {norm(r["name"]): r["name"] for r in races if r["system"] == "Pathfinder 1e"}
+    known |= {norm(r["name"]): r["name"] for r in races if r["system"] != "Pathfinder 1e"}
+    for page, levels, section in (("Alternate Racial Traits", (2, 3), None),
+                                  ("Alternate Racial Traits (DRS)", (2,), None),
+                                  ("Standard Races", (1,), "Racial Traits")):
+        f = files.get(page)
+        if not f:
+            print(f"warning: races: no page {page!r}")
+            continue
+        body = f.read_text(encoding="utf-8").split(GENERATED_MARK, 1)[-1]
+        lines = body.split("\n")
+        slug = _slugger()
+        ids = [slug(m.group(2)) if (m := re.match(r"(#{1,6}) (.+)$", l)) else "" for l in lines]
+        page_src = m.group(1) if (m := re.search(r"^\*Source: \[([^\]]+)\]", body, re.M)) else ""
+        heads = [(i, len(m.group(1)), m.group(2).strip()) for i, l in enumerate(lines)
+                 if (m := re.match(r"(#{1,6}) (.+)$", l))] + [(len(lines), 0, "")]
+        race = None
+        for (i, lvl, title), (j, _, _) in zip(heads, heads[1:]):
+            if lvl in levels:
+                race = title
+            if lvl < min(levels):
+                race = None
+            # Standard Races: only each race's "## Racial Traits" (not its subtypes or archetypes);
+            # the others: everything under the race heading (a "#### heritage" included)
+            if not race or (section and not (lvl == levels[0] + 1 and title == section)):
+                continue
+            chunk = "\n".join(lines[i + 1:j])
+            for name, text in _bold_traits(chunk):
+                # "Rougarou (Spheres)" is the Spheres take on that race; "Sidheir" is a typo for Sidhier
+                plain = {"sidheir": "Sidhier"}.get(race.lower(), re.sub(r"\s*\(Spheres\)$", "", race))
+                r = "Any" if race.lower().startswith("any") else known.get(norm(plain), plain)
+                source = m.group(1) if (m := re.search(r"\*\*Source:\*\* \[([^\]]+)\]", text)) else page_src
+                traits.append({"name": name, "race": r, "system": "Spheres of Power", "kind": "Alternate",
+                               "replaces": _replaces(text), "source": source,
+                               "url": f"{_page_url(f)}#{ids[i]}", "md": text})
+    used: set[str] = set()
+    for t in traits:
+        t["id"] = "racial/" + re.sub(r"[^a-z0-9]+", "-", f"{t['system'][:2]} {t['race']} {t['name']}".lower()).strip("-")
+        while t["id"] in used:
+            t["id"] += "-2"
+        used.add(t["id"])
+    COMPENDIUM_OUT.mkdir(parents=True, exist_ok=True)
+    (COMPENDIUM_OUT / "races.json").write_text(json.dumps({"races": races}, ensure_ascii=False, indent=1),
+                                               encoding="utf-8")
+    (COMPENDIUM_OUT / "racial-traits.json").write_text(
+        json.dumps({"category": "racial traits", "entries": traits}, ensure_ascii=False, indent=1), encoding="utf-8")
+    index = [{k: t[k] for k in ("id", "name", "race", "system", "kind", "replaces", "source", "url")}
+             | {"summary": _rules_summary(t["md"]), "file": "racial-traits.json"} for t in traits]
+    (COMPENDIUM_OUT / "racial-traits-index.json").write_text(json.dumps(index, ensure_ascii=False, indent=1),
+                                                             encoding="utf-8")
+    return {"races": len(races), "racial traits": len(traits)}
+
+
 def write_feat_review(entries: list[dict], pf: list[dict]) -> None:
     """Meta/Compendium Review/Feats (Compendium Review).md: type counts, then the Spheres feats by page."""
     def count(es: list[dict]) -> dict[str, int]:
@@ -4270,6 +4433,7 @@ def convert(with_images: bool) -> None:
     print(f"Compendium classes: {build_class_compendium()}")
     print(f"Compendium feats: {build_feat_compendium()}")
     print(f"Compendium traits: {build_trait_compendium()}")
+    print(f"Compendium races: {build_race_compendium()}")
 
     # folders emptied by exclusions or renames
     for d in sorted((d for d in CONTENT.rglob("*") if d.is_dir()), key=lambda d: -len(d.parts)):

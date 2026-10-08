@@ -253,6 +253,57 @@ def crawl(cats: list[str], build_only: bool = False) -> None:
     old.write_text(json.dumps(keep + index, ensure_ascii=False), encoding="utf-8")
 
 
+def _html_text(html: str) -> str:
+    return re.sub(r"\s+", " ", BeautifulSoup(html, "html.parser").get_text(" ")).strip()
+
+
+def race_data() -> int:
+    """pf1e/race-data.json: each AoN race's standard racial traits ("<b>Low-Light Vision</b>: ...")
+    and alternate racial traits (grouped under "Replaces ..." headings), read from the cached race
+    pages, with the stats the Character Builder fills in (see scrape.race_stats)."""
+    sys.path.insert(0, str(Path(__file__).parent))
+    from scrape import race_stats
+    src = OUT / "races.json"
+    if not src.exists():
+        return 0
+    races = []
+    for e in json.loads(src.read_text(encoding="utf-8"))["entries"]:
+        href = e["url"].replace(SITE, "")
+        if not cache_file(href).exists():
+            continue
+        html = fetch(href)
+        race = urllib.parse.unquote(href.partition("ItemName=")[2]).strip()
+        std = re.search(r'<h1 class="title">[^<]*Racial Traits</h1>(.*?)(?=<h1|\Z)', html, re.S)
+        traits = []
+        for m in re.finditer(r"<b>(.*?)</b>\s*:?(.*?)(?=<b>|$)", std.group(1) if std else "", re.S):
+            label, text = _html_text(m.group(1)).rstrip(":"), _html_text(m.group(2)).lstrip(": ")
+            if label and text:
+                traits.append({"name": label, "kind": "Standard", "replaces": "", "source": e["source"],
+                               "md": text})
+        start = html.find("Alternate Racial Trait")
+        end = html.find("Favored Class Options", start) if start >= 0 else -1
+        seg = html[start:end if end > 0 else len(html)] if start >= 0 else ""
+        tokens = list(re.finditer(r'<h2 class="title">(.*?)</h2>|<b>(?:\s*<img[^>]*>)?\s*([^<]+?)\s*</b>\s*<br\s*/?>'
+                                  r'\s*<b>Source</b>', seg, re.S))
+        replaces = ""
+        for n, m in enumerate(tokens):
+            if m.group(1) is not None:
+                replaces = re.sub(r"^Replaces\s+", "", _html_text(m.group(1)))
+                continue
+            body = seg[m.end():tokens[n + 1].start() if n + 1 < len(tokens) else len(seg)]
+            src_html, _, rest = body.partition("<br")
+            rest = rest.partition(">")[2]
+            md = markdownify(rest, heading_style="ATX", strip=["a", "img"])
+            traits.append({"name": _html_text(m.group(2)), "kind": "Alternate", "replaces": replaces,
+                           "source": ", ".join(_html_text(i) for i in re.findall(r"<i>(.*?)</i>", src_html, re.S)),
+                           "md": re.sub(r"\n{3,}", "\n\n", md).strip()})
+        std_traits = [(t["name"], t["md"]) for t in traits if t["kind"] == "Standard"]
+        races.append({"name": race, "url": e["url"], "source": e["source"]} | race_stats(std_traits)
+                     | {"traits": traits})
+    (OUT / "race-data.json").write_text(json.dumps({"races": races}, ensure_ascii=False, indent=1), encoding="utf-8")
+    return len(races)
+
+
 def class_stats() -> int:
     """pf1e/class-stats.json: each AoN class in the Character Builder's terms (hit die, BAB and
     save progressions, skill ranks, class skills, caster progression), like compendium/classes.json
@@ -301,3 +352,5 @@ if __name__ == "__main__":
         crawl(cats, build_only=True)
     elif cmd == "class-stats":
         print(f"class stats: {class_stats()}")
+    elif cmd == "race-data":
+        print(f"race data: {race_data()}")

@@ -70,7 +70,7 @@ function blankState() {
     details: { player: "", alignment: "tn", gender: "", age: "", height: "", weight: "", deity: "", homeland: "", languages: "Common" },
     abilities: { str: 10, dex: 10, con: 10, int: 10, wis: 10, cha: 10 },
     pointBuy: 20,
-    race: { name: "", size: "med", speed: 30, mods: { str: 0, dex: 0, con: 0, int: 0, wis: 0, cha: 0 }, bonusFeats: 0, bonusSkillPerLevel: 0 },
+    race: { ref: "", name: "", size: "med", speed: 30, mods: { str: 0, dex: 0, con: 0, int: 0, wis: 0, cha: 0 }, bonusFeats: 0, bonusSkillPerLevel: 0 },
     classes: [blankClass(true)],
     hpMode: "pfs",
     skills: {},
@@ -340,6 +340,9 @@ const PICKERS = {
     req: (e) => e.prerequisites, reqLabel: "Prerequisites" },
   trait: { noun: "trait", index: "traits-index.json", cats: (e) => e.categories, catLabel: "All categories",
     req: (e) => e.requirements, reqLabel: "Requirements" },
+  // a race's own features (standard racial traits) and the alternate racial traits that replace them
+  racial: { noun: "racial trait", index: "racial-traits-index.json", cats: (e) => [e.kind],
+    catLabel: "Standard and alternate", req: (e) => e.replaces, reqLabel: "Replaces", byRace: true },
 }
 const COMPENDIUM_FILES = {}
 function loadCompendium(file, empty) {
@@ -390,7 +393,7 @@ function openDialog(title, ...body) {
   return dlg
 }
 
-// "Add feat" / "Add trait": from the compendium, or a blank one to fill in
+// "Add feat" / "Add trait" / "Add racial trait": from the compendium, or a blank one to fill in
 function openCompendiumChooser(kind) {
   const { noun } = PICKERS[kind]
   const dlg = openDialog(`Add ${noun}`,
@@ -402,7 +405,6 @@ function openCompendiumChooser(kind) {
 
 function openCompendiumSearch(kind) {
   const P = PICKERS[kind]
-  const isPf = (e) => e.system === "Pathfinder 1e"
   const box = h("input", { type: "search", placeholder: `Search ${P.noun}s by name`, "aria-label": `Search ${P.noun}s` })
   const systems = { all: "All systems", "Pathfinder 1e": "Pathfinder" }
   if (state.spheresModule) Object.assign(systems, { spheres: "All Spheres", "Spheres of Power": "Spheres of Power",
@@ -410,12 +412,22 @@ function openCompendiumSearch(kind) {
   const sys = h("select", { "aria-label": "System" },
     ...Object.entries(systems).map(([v, label]) => h("option", { value: v }, label)))
   const cat = h("select", { "aria-label": P.catLabel }, h("option", { value: "" }, P.catLabel))
+  // search the rules text as well as names (each entry's full text is fetched the first time)
+  const fullText = h("input", { type: "checkbox" })
+  // racial traits: only the chosen race's (and those any race can take)
+  const raceName = currentRaceName()
+  const onlyRace = h("input", { type: "checkbox", checked: !!raceName, disabled: !raceName })
   const results = h("div", { class: "picker-results", role: "list" }, h("p", { class: "muted" }, `Loading ${P.noun}s…`))
   const dlg = openDialog(`Add ${P.noun} from the compendium`,
     h("div", { class: "row picker-filters" }, box, sys, cat),
+    h("div", { class: "row picker-filters" },
+      h("label", { class: "row", style: "gap:.3rem" }, fullText, "Search rules text too"),
+      P.byRace ? h("label", { class: "row", style: "gap:.3rem" }, onlyRace,
+        raceName ? `Only ${raceName} racial traits` : "Only my race's racial traits (pick a race on the Race tab)") : null),
     state.spheresModule ? null : h("p", { class: "note" }, `Spheres ${P.noun}s are listed when Spheres is turned on.`),
     results)
   let all = []
+  let texts = null // entry id -> lowercased rules text, once loaded for the text search
   const pick = async (f) => {
     results.replaceChildren(h("p", { class: "muted" }, `Adding ${f.name}…`))
     const data = await loadCompendium(f.file, { entries: [] })
@@ -423,12 +435,26 @@ function openCompendiumSearch(kind) {
     addFeature(kind, { name: f.name, desc: mdToText(full?.md ?? f.summary), ref: f.id })
     dlg.done()
   }
+  const loadTexts = async () => {
+    const files = [...new Set(all.map((f) => f.file))]
+    const datas = await Promise.all(files.map((file) => loadCompendium(file, { entries: [] })))
+    const byId = {}, byName = {}
+    datas.forEach((d, i) => d.entries.forEach((x) => {
+      if (x.id) byId[`${files[i]}|${x.id}`] = x.md
+      byName[`${files[i]}|${x.name}`] = x.md
+    }))
+    // an index entry finds its text by id, or (Archives of Nethys entries) by its file's own name for it
+    const find = (f) => (f.ref ? byName[`${f.file}|${f.ref}`] : byId[`${f.file}|${f.id}`])
+    texts = Object.fromEntries(all.map((f) => [f.id, mdToText(find(f) || f.summary || "").toLowerCase()]))
+  }
+  const raceMatch = (f) => !P.byRace || !onlyRace.checked || f.race === "Any"
+    || f.race.toLowerCase() === raceName.toLowerCase()
   const inSystem = (f) => (state.spheresModule || isPf(f))
     && (sys.value === "all" || f.system === sys.value || (sys.value === "spheres" && !isPf(f)))
-  // the type / category list follows the system filter (a category picked earlier stays if it still has entries)
+  // the type / category list follows the other filters (a category picked earlier stays if it still has entries)
   const fillCategories = () => {
     const counts = {}
-    for (const f of all) if (inSystem(f)) for (const c of P.cats(f)) counts[c] = (counts[c] || 0) + 1
+    for (const f of all) if (inSystem(f) && raceMatch(f)) for (const c of P.cats(f)) counts[c] = (counts[c] || 0) + 1
     const keep = cat.value in counts ? cat.value : ""
     cat.replaceChildren(h("option", { value: "" }, P.catLabel),
       ...Object.keys(counts).sort((a, b) => a.localeCompare(b))
@@ -437,28 +463,36 @@ function openCompendiumSearch(kind) {
   }
   const render = () => {
     const q = box.value.trim().toLowerCase()
-    const hits = all.filter((f) => inSystem(f) && (!cat.value || P.cats(f).includes(cat.value))
-      && (!q || f.name.toLowerCase().includes(q)))
-    // names starting with the search first, then alphabetical
-    const rank = (f) => (q && f.name.toLowerCase().startsWith(q) ? 0 : 1)
+    const inText = fullText.checked && texts
+    const hits = all.filter((f) => inSystem(f) && raceMatch(f) && (!cat.value || P.cats(f).includes(cat.value))
+      && (!q || f.name.toLowerCase().includes(q) || (inText && texts[f.id]?.includes(q))))
+    // names containing the search first (those starting with it before those), then alphabetical
+    const rank = (f) => (!q ? 0 : f.name.toLowerCase().startsWith(q) ? 0 : f.name.toLowerCase().includes(q) ? 1 : 2)
     hits.sort((a, b) => rank(a) - rank(b) || a.name.localeCompare(b.name))
     const shown = hits.slice(0, 60)
     results.replaceChildren(
       ...shown.map((f) => h("button", { class: "picker-item", role: "listitem", onclick: () => pick(f) },
         h("span", { class: "pi-name" }, f.name,
-          h("span", { class: "pi-meta" }, ` ${P.cats(f).join(", ")} · ${isPf(f) ? "Pathfinder" : f.system}`)),
+          h("span", { class: "pi-meta" }, ` ${P.cats(f).join(", ")}${P.byRace ? ` · ${f.race}` : ""} · ${isPf(f) ? "Pathfinder" : f.system}`)),
         f.summary ? h("span", { class: "pi-sum" }, f.summary) : null,
         P.req(f) ? h("span", { class: "pi-pre" }, `${P.reqLabel}: ${mdToText(P.req(f))}`) : null)),
-      hits.length > shown.length ? h("p", { class: "note" }, `Showing ${shown.length} of ${hits.length}; type more of the name${cat.value ? "" : ` or pick a ${kind === "feat" ? "type" : "category"}`} to narrow it down.`) : null,
+      hits.length > shown.length ? h("p", { class: "note" }, `Showing ${shown.length} of ${hits.length}; type more${cat.value ? "" : ` or pick ${kind === "feat" ? "a type" : "a category"}`} to narrow it down.`) : null,
       hits.length ? null : h("p", { class: "muted" }, all.length ? `No ${P.noun}s match.` : `Couldn't load the ${P.noun} list.`))
   }
   box.addEventListener("input", render)
   sys.addEventListener("change", () => { fillCategories(); render() })
   cat.addEventListener("change", render)
+  onlyRace.addEventListener("change", () => { fillCategories(); render() })
+  fullText.addEventListener("change", async () => {
+    if (fullText.checked && !texts) {
+      results.replaceChildren(h("p", { class: "muted" }, "Loading rules text…"))
+      await loadTexts()
+    }
+    render()
+  })
   loadCompendium(P.index, []).then((list) => { all = list; fillCategories(); render() })
   box.focus()
 }
-
 // a class's page: Spheres pages are on this site (the builder lives at static/character-builder/)
 function classLink(d) {
   return d.system === "Pathfinder" ? d.url : `../../${d.url}`
@@ -494,6 +528,49 @@ function classPicker(cls) {
     changed(true)
   })
   return el
+}
+
+// ---------- races (the site's compendium) ----------
+// compendium/races.json: Pathfinder races (Archives of Nethys) and the Spheres races, with the size,
+// speed, ability adjustments and bonus feat / skill rank picking one fills in.
+const RACE_DATA = { list: [], byId: {}, loaded: false }
+async function loadRaceData() {
+  const data = await loadCompendium("races.json", { races: [] })
+  RACE_DATA.list = data.races
+  RACE_DATA.byId = Object.fromEntries(data.races.map((r) => [r.id, r]))
+  RACE_DATA.loaded = true
+  if (tab === "race") renderPanel()
+}
+const isPf = (e) => e.system === "Pathfinder 1e"
+
+function racePicker() {
+  const race = state.race
+  // Spheres races only when "Spheres for PF1e" is on (a race already picked stays listed), as for classes
+  const shown = RACE_DATA.list.filter((r) => isPf(r) || state.spheresModule || r.id === race.ref)
+  const groups = { "Pathfinder Races": shown.filter(isPf), "Spheres Races": shown.filter((r) => !isPf(r)) }
+  const el = h("select", { style: "width:14rem" },
+    h("option", { value: "", selected: !race.ref }, RACE_DATA.loaded ? "Custom (enter below)" : "Loading races…"),
+    ...Object.entries(groups).filter(([, rs]) => rs.length).map(([g, rs]) => h("optgroup", { label: g },
+      ...rs.sort((a, b) => a.name.localeCompare(b.name)).map((r) =>
+        h("option", { value: r.id, selected: r.id === race.ref }, r.name)))))
+  el.addEventListener("change", () => {
+    const r = RACE_DATA.byId[el.value]
+    race.ref = el.value // the listed race this was filled from ("" = custom)
+    if (r) {
+      race.name = r.name
+      race.size = r.size
+      race.speed = r.speed
+      race.mods = { ...r.mods }
+      race.bonusFeats = r.bonusFeats
+      race.bonusSkillPerLevel = r.bonusSkillPerLevel
+    }
+    changed(true)
+  })
+  return el
+}
+// the race whose racial traits the picker offers: the listed race, else the name typed in
+function currentRaceName() {
+  return (RACE_DATA.byId[state.race.ref]?.name ?? state.race.name ?? "").trim()
 }
 
 function changed(rerender) {
@@ -659,10 +736,19 @@ const panels = {
     return [
       h("h2", {}, "Race"),
       h("div", { class: "grid" },
-        field("Race name", input("race.name", { placeholder: "Human, Elf, …" })),
+        field("Race", racePicker()),
+        field(state.race.ref ? "Name" : "Race name", input("race.name", { placeholder: "Human, Elf, …" })),
         field("Size", select("race.size", Object.fromEntries(Object.entries(SIZES).map(([k, v]) => [k, v[0]])))),
         field("Land speed (ft.)", input("race.speed", { type: "number", min: 0, step: 5 })),
       ),
+      RACE_DATA.byId[state.race.ref] ? (() => {
+        const r = RACE_DATA.byId[state.race.ref]
+        return h("p", { class: "note" }, "Filled in from ",
+          h("a", { href: isPf(r) ? r.url : `../../${r.url}`, target: "_blank" }, r.name),
+          isPf(r) ? " (Archives of Nethys)" : "", ". ",
+          r.flexMod ? "This race gets +2 to one ability score of your choice: enter it below. " : "",
+          "Edit any field as needed; add its racial traits on the Feats & Features tab with “+ Add racial trait”.")
+      })() : null,
       h("h3", {}, "Racial ability adjustments"),
       h("div", { class: "grid" }, ABL.map((k) => field(ABILITIES[k], input(`race.mods.${k}`, { type: "number", step: 1 })))),
       h("h3", {}, "Racial bonuses"),
@@ -670,7 +756,7 @@ const panels = {
         field("Bonus feats", input("race.bonusFeats", { type: "number", min: 0 }), "Human: 1"),
         field("Bonus skill ranks per level", input("race.bonusSkillPerLevel", { type: "number", min: 0 }), "Human: 1"),
       ),
-      h("p", { class: "note" }, "Racial traits like darkvision or weapon familiarity go on the Feats & Features tab as “Racial trait”."),
+      h("p", { class: "note" }, "Racial traits like darkvision or weapon familiarity go on the Feats & Features tab with “+ Add racial trait”, which lists the chosen race's standard and alternate racial traits."),
     ]
   },
 
@@ -1485,3 +1571,4 @@ window.addEventListener("storage", (e) => e.key === "theme" && applyTheme(e.newV
 
 renderAll()
 loadClassData()
+loadRaceData()

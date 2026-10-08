@@ -1,0 +1,1724 @@
+{
+ "races": [
+  {
+   "id": "pf1e/dwarf",
+   "name": "Dwarf",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Dwarf",
+   "source": "Inner Sea Races pg. 236",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 0,
+    "con": 2,
+    "int": 0,
+    "wis": 2,
+    "cha": -2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/elf",
+   "name": "Elf",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Elf",
+   "source": "Inner Sea Races pg. 236",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 2,
+    "con": -2,
+    "int": 2,
+    "wis": 0,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/gnome",
+   "name": "Gnome",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Gnome",
+   "source": "Inner Sea Races pg. 237",
+   "size": "sm",
+   "speed": 20,
+   "mods": {
+    "str": -2,
+    "dex": 0,
+    "con": 2,
+    "int": 0,
+    "wis": 0,
+    "cha": 2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/half-elf",
+   "name": "Half-Elf",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Half-Elf",
+   "source": "Inner Sea Races pg. 237",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 0,
+    "con": 0,
+    "int": 0,
+    "wis": 0,
+    "cha": 0
+   },
+   "flexMod": true,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/halfling",
+   "name": "Halfling",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Halfling",
+   "source": "Inner Sea Races pg. 238",
+   "size": "sm",
+   "speed": 20,
+   "mods": {
+    "str": -2,
+    "dex": 2,
+    "con": 0,
+    "int": 0,
+    "wis": 0,
+    "cha": 2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/half-orc",
+   "name": "Half-Orc",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Half-Orc",
+   "source": "Inner Sea Races pg. 237",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 0,
+    "con": 0,
+    "int": 0,
+    "wis": 0,
+    "cha": 0
+   },
+   "flexMod": true,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/human",
+   "name": "Human",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Human",
+   "source": "Inner Sea Races pg. 238",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 0,
+    "con": 0,
+    "int": 0,
+    "wis": 0,
+    "cha": 0
+   },
+   "flexMod": true,
+   "bonusFeats": 1,
+   "bonusSkillPerLevel": 1
+  },
+  {
+   "id": "pf1e/aasimar",
+   "name": "Aasimar",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Aasimar",
+   "source": "Inner Sea Races pg. 238",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 0,
+    "con": 0,
+    "int": 0,
+    "wis": 2,
+    "cha": 2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/adaro",
+   "name": "Adaro",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Adaro",
+   "source": "Blood of the Sea pg. 16",
+   "size": "med",
+   "speed": 10,
+   "mods": {
+    "str": 2,
+    "dex": 2,
+    "con": 2,
+    "int": -2,
+    "wis": 0,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/android",
+   "name": "Android",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Android",
+   "source": "Bestiary 5 pg. 19",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 2,
+    "con": 0,
+    "int": 2,
+    "wis": 0,
+    "cha": -2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/aphorite",
+   "name": "Aphorite",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Aphorite",
+   "source": "Planar Adventures pg. 224",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 2,
+    "dex": -2,
+    "con": 0,
+    "int": 2,
+    "wis": 0,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/aquatic-elf",
+   "name": "Aquatic Elf",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Aquatic%20Elf",
+   "source": "Blood of the Sea pg. 4",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 2,
+    "con": -2,
+    "int": 2,
+    "wis": 0,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/astomoi",
+   "name": "Astomoi",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Astomoi",
+   "source": "Bestiary 5 pg. 37",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 0,
+    "con": -2,
+    "int": 2,
+    "wis": 2,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/being-of-ib",
+   "name": "Being of Ib",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Being%20of%20Ib",
+   "source": "Pathfinder #111: Dreams of the Yellow King pg. 87",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": -4,
+    "dex": 0,
+    "con": -2,
+    "int": 0,
+    "wis": 4,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/boggard",
+   "name": "Boggard",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Boggard",
+   "source": "Pathfinder RPG Bestiary pg. 37",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 0,
+    "con": 0,
+    "int": 0,
+    "wis": 0,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/caligni",
+   "name": "Caligni",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Caligni",
+   "source": "Bestiary 5 pg. 66",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 2,
+    "con": 2,
+    "int": -2,
+    "wis": 0,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/catfolk",
+   "name": "Catfolk",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Catfolk",
+   "source": "Inner Sea Races pg. 239",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 2,
+    "con": 0,
+    "int": 0,
+    "wis": -2,
+    "cha": 2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/cecaelia",
+   "name": "Cecaelia",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Cecaelia",
+   "source": "Blood of the Sea pg. 6",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 2,
+    "con": 0,
+    "int": -2,
+    "wis": 2,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/changeling",
+   "name": "Changeling",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Changeling",
+   "source": "Inner Sea Races pg. 240",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 0,
+    "con": -2,
+    "int": 0,
+    "wis": 2,
+    "cha": 2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/deep-one-hybrid",
+   "name": "Deep One Hybrid",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Deep%20One%20Hybrid",
+   "source": "Bestiary 5 pg. 70",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": -2,
+    "con": 2,
+    "int": 0,
+    "wis": 2,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/dhampir",
+   "name": "Dhampir",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Dhampir",
+   "source": "Inner Sea Races pg. 240",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 2,
+    "con": -2,
+    "int": 0,
+    "wis": 0,
+    "cha": 2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/drow",
+   "name": "Drow",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Drow",
+   "source": "Inner Sea Races pg. 241",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 2,
+    "con": -2,
+    "int": 0,
+    "wis": 0,
+    "cha": 2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/drow-noble",
+   "name": "Drow Noble",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Drow%20Noble",
+   "source": "Pathfinder RPG Bestiary pg. 115",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 4,
+    "con": -2,
+    "int": 2,
+    "wis": 2,
+    "cha": 2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/duergar",
+   "name": "Duergar",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Duergar",
+   "source": "Inner Sea Races pg. 241",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 0,
+    "con": 2,
+    "int": 0,
+    "wis": 2,
+    "cha": -4
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/duskwalker",
+   "name": "Duskwalker",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Duskwalker",
+   "source": "Planar Adventures pg. 230",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 2,
+    "con": -2,
+    "int": 0,
+    "wis": 2,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/fetchling",
+   "name": "Fetchling",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Fetchling",
+   "source": "Inner Sea Races pg. 242",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 2,
+    "con": 0,
+    "int": 0,
+    "wis": -2,
+    "cha": 2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/ganzi",
+   "name": "Ganzi",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Ganzi",
+   "source": "Planar Adventures pg. 234",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 0,
+    "con": 2,
+    "int": -2,
+    "wis": 0,
+    "cha": 2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/gathlain",
+   "name": "Gathlain",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Gathlain",
+   "source": "Ultimate Wilderness pg. 9",
+   "size": "sm",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 2,
+    "con": -2,
+    "int": 0,
+    "wis": 0,
+    "cha": 2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/ghoran",
+   "name": "Ghoran",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Ghoran",
+   "source": "Ultimate Wilderness pg. 15",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 0,
+    "con": 2,
+    "int": -2,
+    "wis": 0,
+    "cha": 2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/gillman",
+   "name": "Gillman",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Gillman",
+   "source": "Blood of the Sea pg. 8",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 0,
+    "con": 2,
+    "int": 0,
+    "wis": -2,
+    "cha": 2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/goblin",
+   "name": "Goblin",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Goblin",
+   "source": "Inner Sea Races pg. 244",
+   "size": "sm",
+   "speed": 30,
+   "mods": {
+    "str": -2,
+    "dex": 4,
+    "con": 0,
+    "int": 0,
+    "wis": 0,
+    "cha": -2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/green-martian",
+   "name": "Green Martian",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Green%20Martian",
+   "source": "Pathfinder: Worldscape #2 pg. 24",
+   "size": "lg",
+   "speed": 30,
+   "mods": {
+    "str": 2,
+    "dex": 0,
+    "con": 0,
+    "int": 0,
+    "wis": 2,
+    "cha": -2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/grindylow",
+   "name": "Grindylow",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Grindylow",
+   "source": "Blood of the Sea pg. 17",
+   "size": "sm",
+   "speed": 15,
+   "mods": {
+    "str": 0,
+    "dex": 4,
+    "con": 0,
+    "int": -2,
+    "wis": -2,
+    "cha": -2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/grippli",
+   "name": "Grippli",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Grippli",
+   "source": "Inner Sea Races pg. 244",
+   "size": "sm",
+   "speed": 30,
+   "mods": {
+    "str": -2,
+    "dex": 2,
+    "con": 0,
+    "int": 0,
+    "wis": 2,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/hobgoblin",
+   "name": "Hobgoblin",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Hobgoblin",
+   "source": "Inner Sea Races pg. 244",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 2,
+    "con": 2,
+    "int": 0,
+    "wis": 0,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/ifrit",
+   "name": "Ifrit",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Ifrit",
+   "source": "Inner Sea Races pg. 245",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 2,
+    "con": 0,
+    "int": 0,
+    "wis": -2,
+    "cha": 2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/kasatha",
+   "name": "Kasatha",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Kasatha",
+   "source": "Inner Sea Races pg. 245",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 2,
+    "con": 0,
+    "int": 0,
+    "wis": 2,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/kitsune",
+   "name": "Kitsune",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Kitsune",
+   "source": "Inner Sea Races pg. 245",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": -2,
+    "dex": 2,
+    "con": 0,
+    "int": 0,
+    "wis": 0,
+    "cha": 2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/kobold",
+   "name": "Kobold",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Kobold",
+   "source": "Inner Sea Races pg. 245",
+   "size": "sm",
+   "speed": 30,
+   "mods": {
+    "str": -4,
+    "dex": 2,
+    "con": -2,
+    "int": 0,
+    "wis": 0,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/kuru",
+   "name": "Kuru",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Kuru",
+   "source": "Isles of the Shackles pg. 51",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 2,
+    "con": 2,
+    "int": -2,
+    "wis": 0,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/lashunta",
+   "name": "Lashunta",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Lashunta",
+   "source": "Inner Sea Races pg. 246",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 0,
+    "con": 0,
+    "int": 2,
+    "wis": 0,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/locathah",
+   "name": "Locathah",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Locathah",
+   "source": "Blood of the Sea pg. 10",
+   "size": "med",
+   "speed": 10,
+   "mods": {
+    "str": 0,
+    "dex": 2,
+    "con": 0,
+    "int": -2,
+    "wis": 2,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/merfolk",
+   "name": "Merfolk",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Merfolk",
+   "source": "Blood of the Sea pg. 12",
+   "size": "med",
+   "speed": 5,
+   "mods": {
+    "str": 0,
+    "dex": 2,
+    "con": 2,
+    "int": 0,
+    "wis": 0,
+    "cha": 2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/monkey-goblin",
+   "name": "Monkey Goblin",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Monkey%20Goblin",
+   "source": "Bestiary 6 pg. 138",
+   "size": "sm",
+   "speed": 20,
+   "mods": {
+    "str": 0,
+    "dex": 4,
+    "con": 0,
+    "int": 0,
+    "wis": -2,
+    "cha": -2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/munavri",
+   "name": "Munavri",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Munavri",
+   "source": "Bestiary 6 pg. 197",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 0,
+    "con": 0,
+    "int": 0,
+    "wis": 0,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/nagaji",
+   "name": "Nagaji",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Nagaji",
+   "source": "Inner Sea Races pg. 246",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 2,
+    "dex": 0,
+    "con": 0,
+    "int": -2,
+    "wis": 0,
+    "cha": 2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/naiad",
+   "name": "Naiad",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Naiad",
+   "source": "Bestiary 6 pg. 200",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": -2,
+    "dex": 2,
+    "con": 0,
+    "int": 0,
+    "wis": 0,
+    "cha": 2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/orang-pendak",
+   "name": "Orang-Pendak",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Orang-Pendak",
+   "source": "Bestiary 5 pg. 186",
+   "size": "sm",
+   "speed": 30,
+   "mods": {
+    "str": 2,
+    "dex": 0,
+    "con": 0,
+    "int": -2,
+    "wis": 2,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/orc",
+   "name": "Orc",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Orc",
+   "source": "Inner Sea Races pg. 246",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 4,
+    "dex": 0,
+    "con": 0,
+    "int": -2,
+    "wis": -2,
+    "cha": -2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/oread",
+   "name": "Oread",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Oread",
+   "source": "Inner Sea Races pg. 247",
+   "size": "med",
+   "speed": 20,
+   "mods": {
+    "str": 2,
+    "dex": 0,
+    "con": 0,
+    "int": 0,
+    "wis": 2,
+    "cha": -2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/primitive-human",
+   "name": "Primitive Human",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Primitive%20Human",
+   "source": "Paizo Blog: The Gauntlet Will Be Ours! pg. 1",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 0,
+    "con": 0,
+    "int": 0,
+    "wis": 0,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/ratfolk",
+   "name": "Ratfolk",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Ratfolk",
+   "source": "Inner Sea Races pg. 247",
+   "size": "sm",
+   "speed": 20,
+   "mods": {
+    "str": -2,
+    "dex": 2,
+    "con": 0,
+    "int": 2,
+    "wis": 0,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/reborn-samsaran",
+   "name": "Reborn Samsaran",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Reborn%20Samsaran",
+   "source": "Occult Bestiary pg. 50",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 0,
+    "con": -2,
+    "int": 2,
+    "wis": 2,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/reptoid",
+   "name": "Reptoid",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Reptoid",
+   "source": "Bestiary 5 pg. 202",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 2,
+    "dex": -2,
+    "con": 0,
+    "int": 0,
+    "wis": 0,
+    "cha": 2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/rougarou",
+   "name": "Rougarou",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Rougarou",
+   "source": "Bestiary 6 pg. 242",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 0,
+    "con": 0,
+    "int": 0,
+    "wis": 0,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/sahuagin",
+   "name": "Sahuagin",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Sahuagin",
+   "source": "Blood of the Sea pg. 17",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 2,
+    "dex": 0,
+    "con": 0,
+    "int": 0,
+    "wis": 2,
+    "cha": -2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/samsaran",
+   "name": "Samsaran",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Samsaran",
+   "source": "Inner Sea Races pg. 247",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 0,
+    "con": -2,
+    "int": 2,
+    "wis": 2,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/shabti",
+   "name": "Shabti",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Shabti",
+   "source": "Bestiary 5 pg. 227",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 0,
+    "con": 2,
+    "int": 0,
+    "wis": 0,
+    "cha": 2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/skinwalker",
+   "name": "Skinwalker",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Skinwalker",
+   "source": "Bestiary 5 pg. 233",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 0,
+    "con": 0,
+    "int": -2,
+    "wis": 2,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/strix",
+   "name": "Strix",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Strix",
+   "source": "Inner Sea Races pg. 249",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 2,
+    "con": 0,
+    "int": 0,
+    "wis": 0,
+    "cha": -2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/suli",
+   "name": "Suli",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Suli",
+   "source": "Inner Sea Races pg. 250",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 2,
+    "dex": 0,
+    "con": 0,
+    "int": -2,
+    "wis": 0,
+    "cha": 2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/svirfneblin",
+   "name": "Svirfneblin",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Svirfneblin",
+   "source": "Inner Sea Races pg. 250",
+   "size": "sm",
+   "speed": 20,
+   "mods": {
+    "str": -2,
+    "dex": 2,
+    "con": 0,
+    "int": 0,
+    "wis": 2,
+    "cha": -4
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/sylph",
+   "name": "Sylph",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Sylph",
+   "source": "Inner Sea Races pg. 250",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 2,
+    "con": -2,
+    "int": 2,
+    "wis": 0,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/syrinx",
+   "name": "Syrinx",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Syrinx",
+   "source": "Inner Sea Races pg. 251",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": -2,
+    "con": 0,
+    "int": 0,
+    "wis": 2,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/tengu",
+   "name": "Tengu",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Tengu",
+   "source": "Inner Sea Races pg. 251",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 2,
+    "con": -2,
+    "int": 0,
+    "wis": 2,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/tiefling",
+   "name": "Tiefling",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Tiefling",
+   "source": "Inner Sea Races pg. 251",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 2,
+    "con": 0,
+    "int": 2,
+    "wis": 0,
+    "cha": -2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/triaxian",
+   "name": "Triaxian",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Triaxian",
+   "source": "Inner Sea Races pg. 252",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": -2,
+    "dex": 0,
+    "con": 2,
+    "int": 0,
+    "wis": 2,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 1,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/triton",
+   "name": "Triton",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Triton",
+   "source": "Blood of the Sea pg. 14",
+   "size": "med",
+   "speed": 20,
+   "mods": {
+    "str": 2,
+    "dex": -2,
+    "con": 0,
+    "int": 0,
+    "wis": 0,
+    "cha": 2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/trox",
+   "name": "Trox",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Trox",
+   "source": "Inner Sea Races pg. 253",
+   "size": "lg",
+   "speed": 30,
+   "mods": {
+    "str": 6,
+    "dex": 0,
+    "con": 0,
+    "int": -2,
+    "wis": -2,
+    "cha": -2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/undine",
+   "name": "Undine",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Undine",
+   "source": "Inner Sea Races pg. 253",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": -2,
+    "dex": 2,
+    "con": 0,
+    "int": 0,
+    "wis": 2,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/vanara",
+   "name": "Vanara",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Vanara",
+   "source": "Inner Sea Races pg. 253",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 2,
+    "con": 0,
+    "int": 0,
+    "wis": 2,
+    "cha": -2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/vine-leshy",
+   "name": "Vine Leshy",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Vine%20Leshy",
+   "source": "Ultimate Wilderness pg. 20",
+   "size": "sm",
+   "speed": 20,
+   "mods": {
+    "str": 0,
+    "dex": 0,
+    "con": 2,
+    "int": -2,
+    "wis": 2,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/vishkanya",
+   "name": "Vishkanya",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Vishkanya",
+   "source": "Inner Sea Races pg. 253",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 2,
+    "con": 0,
+    "int": 0,
+    "wis": -2,
+    "cha": 2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/wayang",
+   "name": "Wayang",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Wayang",
+   "source": "Inner Sea Races pg. 253",
+   "size": "sm",
+   "speed": 20,
+   "mods": {
+    "str": 0,
+    "dex": 2,
+    "con": 0,
+    "int": 2,
+    "wis": -2,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/wyrwood",
+   "name": "Wyrwood",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Wyrwood",
+   "source": "Inner Sea Races pg. 253",
+   "size": "sm",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 2,
+    "con": 0,
+    "int": 2,
+    "wis": 0,
+    "cha": -2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/wyvaran",
+   "name": "Wyvaran",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Wyvaran",
+   "source": "Inner Sea Races pg. 253",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 2,
+    "con": 0,
+    "int": -2,
+    "wis": 2,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "pf1e/yaddithian",
+   "name": "Yaddithian",
+   "system": "Pathfinder 1e",
+   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Yaddithian",
+   "source": "Bestiary 6 pg. 285",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 0,
+    "con": 2,
+    "int": 2,
+    "wis": -2,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "race/alraun",
+   "name": "Alraun",
+   "system": "Spheres of Power",
+   "url": "Sphere-Races/Alraun",
+   "source": "",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 0,
+    "con": -2,
+    "int": 0,
+    "wis": -2,
+    "cha": 4
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "race/cecaelia",
+   "name": "Cecaelia",
+   "system": "Spheres of Power",
+   "url": "Sphere-Races/Cecaelia",
+   "source": "",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 2,
+    "con": 0,
+    "int": 2,
+    "wis": -2,
+    "cha": -2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "race/cherufe",
+   "name": "Cherufe",
+   "system": "Spheres of Power",
+   "url": "Sphere-Races/Cherufe",
+   "source": "",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 2,
+    "dex": 0,
+    "con": -2,
+    "int": 0,
+    "wis": 2,
+    "cha": 2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "race/created",
+   "name": "Created",
+   "system": "Spheres of Power",
+   "url": "Sphere-Races/Created",
+   "source": "",
+   "size": "med",
+   "speed": 20,
+   "mods": {
+    "str": 0,
+    "dex": 0,
+    "con": 0,
+    "int": 0,
+    "wis": 0,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "race/cuazaj",
+   "name": "Cuazaj",
+   "system": "Spheres of Power",
+   "url": "Sphere-Races/Cuazaj",
+   "source": "",
+   "size": "sm",
+   "speed": 30,
+   "mods": {
+    "str": -2,
+    "dex": 2,
+    "con": -2,
+    "int": 0,
+    "wis": 0,
+    "cha": 2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "race/fenghuang",
+   "name": "Fenghuang",
+   "system": "Spheres of Power",
+   "url": "Sphere-Races/Fenghuang",
+   "source": "",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 2,
+    "con": -2,
+    "int": 0,
+    "wis": 0,
+    "cha": 2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "race/leshy",
+   "name": "Leshy",
+   "system": "Spheres of Power",
+   "url": "Sphere-Races/Leshy",
+   "source": "",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": -2,
+    "con": 2,
+    "int": 2,
+    "wis": 0,
+    "cha": 0
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "race/sidhier",
+   "name": "Sidhier",
+   "system": "Spheres of Power",
+   "url": "Sphere-Races/Sidhier",
+   "source": "",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": -2,
+    "dex": 2,
+    "con": 0,
+    "int": 0,
+    "wis": 0,
+    "cha": 2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  },
+  {
+   "id": "race/tatulani",
+   "name": "Tatulani",
+   "system": "Spheres of Power",
+   "url": "Sphere-Races/Tatulani",
+   "source": "",
+   "size": "med",
+   "speed": 30,
+   "mods": {
+    "str": 0,
+    "dex": 0,
+    "con": 2,
+    "int": 2,
+    "wis": 0,
+    "cha": -2
+   },
+   "flexMod": false,
+   "bonusFeats": 0,
+   "bonusSkillPerLevel": 0
+  }
+ ]
+}
