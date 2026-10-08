@@ -225,6 +225,41 @@ def crawl(cats: list[str], build_only: bool = False) -> None:
     old.write_text(json.dumps(keep + index, ensure_ascii=False), encoding="utf-8")
 
 
+def class_stats() -> int:
+    """pf1e/class-stats.json: each AoN class in the Character Builder's terms (hit die, BAB and
+    save progressions, skill ranks, class skills, caster progression), like compendium/classes.json
+    for the Spheres classes. Casters map by their highest spell level: 9th -> high-caster, 6th ->
+    mid, 4th -> low (Spheres of Power's conversion)."""
+    sys.path.insert(0, str(Path(__file__).parent))
+    from scrape import class_skill_keys, progression_from_table
+    src = OUT / "classes.json"
+    if not src.exists():
+        return 0
+    out = []
+    for e in json.loads(src.read_text(encoding="utf-8"))["entries"]:
+        md, f = e["md"], e["fields"]
+        if not re.search(r"d\d+", f.get("Hit Die", "")):
+            continue  # companion stat pages (Companion, Eidolon, Familiar, Drake, Phantom), not classes
+        hd = re.search(r"d(\d+)", f.get("Hit Die", ""))
+        ranks = next((re.search(r"\d+", v) for k, v in f.items() if re.match(r"Skill (Ranks|Points)", k)), None)
+        # "**Class Skills**: ..." or a "## Class Skills" heading with the sentence under it
+        skills = re.search(r"(?:\*\*Class Skills\*\*:?|#+ Class Skills\s*\n)\s*([^\n]+)", md)
+        prog = progression_from_table(md)
+        head = next((l for l in md.split("\n") if "Base Attack Bonus" in l), "")
+        top = max((int(m) for m in re.findall(r"\*\*(\d)(?:st|nd|rd|th)\*\*", head)), default=0)
+        if prog.get("caster", "none") == "none" and top:
+            prog["caster"] = "high" if top >= 9 else "mid" if top >= 6 else "low"
+        c = {"name": e["name"], "system": "Pathfinder", "url": e["url"], "source": e["source"],
+             "hd": int(hd.group(1)) if hd else None, "skills": int(ranks.group(0)) if ranks else None,
+             "classSkills": class_skill_keys(skills.group(1)) if skills else [],
+             "classSkillsText": skills.group(1).strip() if skills else ""} | prog
+        c["prestige"] = (c.get("levels") or 20) <= 10
+        c["complete"] = all(c.get(k) is not None for k in ("hd", "bab", "fort", "ref", "will", "skills"))
+        out.append(c)
+    (OUT / "class-stats.json").write_text(json.dumps({"classes": out}, ensure_ascii=False, indent=1), encoding="utf-8")
+    return len(out)
+
+
 if __name__ == "__main__":
     cmd, *args = sys.argv[1:] or ["discover"]
     cats = list(CATEGORIES) if args in ([], ["all"]) else args
@@ -236,3 +271,5 @@ if __name__ == "__main__":
         crawl(cats)
     elif cmd == "build":
         crawl(cats, build_only=True)
+    elif cmd == "class-stats":
+        print(f"class stats: {class_stats()}")

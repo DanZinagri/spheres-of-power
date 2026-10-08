@@ -2558,6 +2558,124 @@ def build_compendium() -> dict[str, int]:
     return counts
 
 
+# Character Builder skill keys (quartz/static/character-builder/builder.js SKILLS)
+BUILDER_SKILLS = {
+    "acrobatics": "acr", "appraise": "apr", "artistry": "art", "bluff": "blf", "climb": "clm", "craft": "crf",
+    "diplomacy": "dip", "disable device": "dev", "disguise": "dis", "escape artist": "esc", "fly": "fly",
+    "handle animal": "han", "heal": "hea", "intimidate": "int", "knowledge (arcana)": "kar",
+    "knowledge (dungeoneering)": "kdu", "knowledge (engineering)": "ken", "knowledge (geography)": "kge",
+    "knowledge (history)": "khi", "knowledge (local)": "klo", "knowledge (nature)": "kna",
+    "knowledge (nobility)": "kno", "knowledge (planes)": "kpl", "knowledge (religion)": "kre",
+    "linguistics": "lin", "lore": "lor", "perception": "per", "perform": "prf", "profession": "pro",
+    "ride": "rid", "sense motive": "sen", "sleight of hand": "slt", "spellcraft": "spl", "stealth": "ste",
+    "survival": "sur", "swim": "swm", "use magic device": "umd",
+}
+KNOWLEDGES = [v for k, v in BUILDER_SKILLS.items() if k.startswith("knowledge (")]
+
+
+def class_skill_keys(text: str) -> list[str]:
+    """'Appraise (Int), Knowledge (all) (Int), Knowledge (engineering) (Int), ...' -> builder keys."""
+    t = re.sub(r"\((?:Str|Dex|Con|Int|Wis|Cha)\)", "", text, flags=re.I).lower().replace("’", "'")
+    keys: list[str] = []
+    if re.search(r"knowledge \((?:all|any)\)|all knowledge", t):
+        keys += KNOWLEDGES
+    for m in re.finditer(r"knowledge \(([^)]*)\)", t):  # "Knowledge (arcana, history)" lists
+        for part in re.split(r",|\bor\b|\band\b", m.group(1)):
+            k = BUILDER_SKILLS.get(f"knowledge ({part.strip()})")
+            if k:
+                keys.append(k)
+    for name, k in BUILDER_SKILLS.items():
+        if not name.startswith("knowledge") and re.search(rf"\b{re.escape(name)}\b", t):
+            keys.append(k)
+    return list(dict.fromkeys(keys))
+
+
+def progression_from_table(md: str) -> dict:
+    """BAB / save / caster progressions from a class table's 20th-level row."""
+    out = {}
+    for line_no, line in enumerate(md.split("\n")):
+        if line.startswith("|") and re.search(r"Base Attack Bonus|\|\s*BAB\s*\|", line, re.I):
+            head = [c.strip().lower() for c in line.strip("|").split("|")]
+            rows = []
+            for row in md.split("\n")[line_no + 1:]:
+                if not row.startswith("|"):
+                    break
+                if re.fullmatch(r"\|(\s*:?-+:?\s*\|)+", row.strip()):
+                    continue  # the separator (above the header when a group-header row leads)
+                rows.append([c.strip() for c in row.strip("|").split("|")])
+            if not rows:
+                break
+            last = rows[-1]
+            num = lambda s: int(m.group(0)) if (m := re.search(r"[+-]?\d+", s or "")) else None
+            col = lambda *names: next((i for i, h in enumerate(head) if any(n in h for n in names)), None)
+            n = len(rows)  # 20 for base classes, 5 or 10 for prestige classes: judge by rate per level
+            i = col("base attack", "bab")
+            bab = num(last[i]) if i is not None else None
+            if bab is not None:
+                out["bab"] = "high" if bab >= 0.95 * n else "med" if bab >= 0.7 * n else "low"
+            for key, names in (("fort", ("fort",)), ("ref", ("ref",)), ("will", ("will",))):
+                i = col(*names)
+                v = num(last[i]) if i is not None and i < len(last) else None
+                if v is not None:
+                    # good: +12 at 20th (base classes) / +5 at 10th (prestige); poor: +6 / +3
+                    out[key] = "high" if v >= 0.45 * n else "low"
+            i = col("caster level")
+            cl = num(last[i]) if i is not None and i < len(last) else None
+            out["caster"] = ("high" if cl >= 0.95 * n else "mid" if cl >= 0.7 * n else "low") if cl else "none"
+            # prestige classes that add "+1 level of (existing) spherecasting class" advance the
+            # caster level of the class they build on: a high-caster progression for these levels
+            if any(re.search(r"\+1 level of (?:existing )?(?:sphere)?(?:spell)?casting", " ".join(r), re.I) for r in rows):
+                out["caster"] = "high"
+                out["advancesCasting"] = True
+            out["levels"] = len(rows)
+            break
+    return out
+
+
+def build_class_compendium() -> int:
+    """compendium/classes.json: every class in the home Classes tables and Prestige Classes block,
+    with what the Character Builder's class tab needs (hit die, BAB, saves, skill ranks, class
+    skills, caster progression)."""
+    home = (CONTENT / "index.md").read_text(encoding="utf-8")
+    files = {f.stem: f for f in CONTENT.rglob("*.md") if ARCHIVE not in f.relative_to(CONTENT).parts}
+    targets: list[tuple[str, str]] = []  # (note name, group)
+    group = ""
+    for line in home[home.find("## Classes"):].split("\n"):
+        if m := re.match(r"### (.+?)(?: \*\(.*)?$", line):
+            group = m.group(1).strip()
+        elif line.startswith("**Prestige Classes**"):
+            group = "Prestige Classes"
+        elif group == "Prestige Classes" and (line.strip() == "</div>" or line.startswith("#")):
+            break  # the end of the prestige block (Other Resources and the rest aren't classes)
+        if (m := re.match(r"\| \*\*\[\[([^\]|\\]+)", line)) or (group == "Prestige Classes" and
+                                                              (m := re.match(r"-? ?\[\[([^\]|\\]+)", line))):
+            targets.append((m.group(1).strip(), group))
+    entries = []
+    for name, grp in targets:
+        f = files.get(name)
+        if not f:
+            continue
+        text = f.read_text(encoding="utf-8")
+        body = text.split(GENERATED_MARK, 1)[-1]
+        title = re.search(r'^title: "?(.*?)"?$', text, re.M)
+        hd = re.search(r"\*\*Hit Di(?:e|ce):\*\*\s*d(\d+)", body, re.I)
+        ranks = re.search(r"\*\*Skill (?:Ranks|Points)[^*:]*:\*\*\s*(\d+)", body, re.I)
+        skills = re.search(r"\*\*Class Skills:?\*\*:?[ \t]*\n?([^\n]+)", body)  # (Kingking: on the next line)
+        src = re.search(r"^\*Source: \[([^\]]+)\]", body, re.M)
+        e = {"name": title.group(1) if title else name, "system": "Spheres", "group": grp,
+             "prestige": grp == "Prestige Classes", "url": _page_url(f), "source": src.group(1) if src else "",
+             "hd": int(hd.group(1)) if hd else None, "skills": int(ranks.group(1)) if ranks else None,
+             "classSkills": class_skill_keys(skills.group(1)) if skills else [],
+             "classSkillsText": skills.group(1).strip() if skills else ""}
+        e |= progression_from_table(body)
+        e["complete"] = all(e.get(k) is not None for k in ("hd", "bab", "fort", "ref", "will", "skills"))
+        entries.append(e)
+    COMPENDIUM_OUT.mkdir(parents=True, exist_ok=True)
+    (COMPENDIUM_OUT / "classes.json").write_text(json.dumps({"classes": entries}, ensure_ascii=False, indent=1),
+                                                encoding="utf-8")
+    return len(entries)
+
+
 def write_compendium_review(sphere: str, cfg: dict, entries: list[dict]) -> None:
     """Meta/Compendium Review/<sphere>.md: what the extractor took from the pages, for checking."""
     kinds: dict[str, list[dict]] = {}
@@ -3729,6 +3847,7 @@ def convert(with_images: bool) -> None:
     print(f"Retired Ultimate: {len(retired)} pages")
     print(f"Search types: {tag_search_types()}")
     print(f"Compendium entries: {build_compendium()}")
+    print(f"Compendium classes: {build_class_compendium()}")
     dropped = trim_citations()
     print(f"Citations Guide: dropped {len(dropped)} unused citations")
 
