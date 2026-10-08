@@ -1,17 +1,5 @@
 [
  {
-  "id": "racial/pa-dwarf-2-constitution-2-wisdom-2-charisma",
-  "name": "+2 Constitution, +2 Wisdom, –2 Charisma",
-  "race": "Dwarf",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 236",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Dwarf",
-  "summary": "Dwarves are both tough and wise, but also a bit gruff.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-dwarf-medium",
   "name": "Medium",
   "race": "Dwarf",
@@ -768,18 +756,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-elf-2-dexterity-2-intelligence-2-constitution",
-  "name": "+2 Dexterity, +2 Intelligence, –2 Constitution",
-  "race": "Elf",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 236",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Elf",
-  "summary": "Elves are nimble, both in body and mind, but their forms are frail.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-elf-medium",
   "name": "Medium",
   "race": "Elf",
@@ -1500,18 +1476,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-gnome-2-constitution-2-charisma-2-strength",
-  "name": "+2 Constitution, +2 Charisma, –2 Strength",
-  "race": "Gnome",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 237",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Gnome",
-  "summary": "Gnomes are physically weak but surprisingly hardy, and their enthusiastic attitudes make them naturally agreeable.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-gnome-small",
   "name": "Small",
   "race": "Gnome",
@@ -2169,18 +2133,6 @@
   "source": "Heroes from the Fringe pg. 16",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Gnome",
   "summary": "Doing so requires a Bluff check opposed by the listener’s Sense Motive check, and the gnome gains a +4 racial bonus on Bluff checks to mimic sounds (including…",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-half-elf-2-to-one-ability-score",
-  "name": "+2 to One Ability Score",
-  "race": "Half-Elf",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 237",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Half-Elf",
-  "summary": "Half-elf characters get a +2 bonus to one ability score of their choice at creation to represent their varied nature.",
   "file": "racial-traits.json"
  },
  {
@@ -2880,18 +2832,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-halfling-2-dexterity-2-charisma-2-strength",
-  "name": "+2 Dexterity, +2 Charisma, –2 Strength",
-  "race": "Halfling",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 238",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Halfling",
-  "summary": "Halflings are nimble and strong-willed, but their small statures make them weaker than other races.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-halfling-small",
   "name": "Small",
   "race": "Halfling",
@@ -3513,18 +3453,6 @@
   "source": "Blood of Shadows pg. 5",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Halfling",
   "summary": "Some illusionists are experts in manipulating light and darkness.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-half-orc-2-to-one-ability-score",
-  "name": "+2 to One Ability Score",
-  "race": "Half-Orc",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 237",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Half-Orc",
-  "summary": "Half-orc characters get a +2 bonus to one ability score of their choice at creation to represent their varied nature.",
   "file": "racial-traits.json"
  },
  {
@@ -4212,18 +4140,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-human-2-to-one-ability-score",
-  "name": "+2 to One Ability Score",
-  "race": "Human",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 238",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Human",
-  "summary": "Human characters get a +2 bonus to one ability score of their choice at creation to represent their varied nature.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-human-medium",
   "name": "Medium",
   "race": "Human",
@@ -4824,18 +4740,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-aasimar-2-wisdom-2-charisma",
-  "name": "+2 Wisdom, +2 Charisma",
-  "race": "Aasimar",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 238",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Aasimar",
-  "summary": "Aasimars are insightful, confident, and personable.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-aasimar-native-outsider",
   "name": "Native Outsider",
   "race": "Aasimar",
@@ -5076,18 +4980,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-adaro-2-strength-2-dexterity-2-constitution-2-intelligence",
-  "name": "+2 Strength, +2 Dexterity, +2 Constitution, –2 Intelligence",
-  "race": "Adaro",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Blood of the Sea pg. 16",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Adaro",
-  "summary": "Adaros are terrifying physically, but their rampant bloodlust hampers their intellect.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-adaro-monstrous-humanoid",
   "name": "Monstrous Humanoid",
   "race": "Adaro",
@@ -5268,18 +5160,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-android-2-dexterity-2-intelligence-2-charisma",
-  "name": "+2 Dexterity, +2 Intelligence, –2 Charisma",
-  "race": "Android",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Bestiary 5 pg. 19",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Android",
-  "summary": "Androids have swift reflexes and are very intelligent, but often have difficulty relating to others.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-android-exceptional-senses-ex",
   "name": "Exceptional Senses (Ex)",
   "race": "Android",
@@ -5349,18 +5229,6 @@
   "source": "Inner Sea Races pg. 214",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Android",
   "summary": "Some androids cannot prompt their nanites to aid them in any endeavor, but instead find that their nanites stitch their wounds together.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-aphorite-2-strength-2-intelligence-2-dexterity",
-  "name": "+2 Strength, +2 Intelligence, –2 Dexterity",
-  "race": "Aphorite",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Planar Adventures pg. 224",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Aphorite",
-  "summary": "Aphorites are strong and intelligent, but move and react somewhat stiffly.",
   "file": "racial-traits.json"
  },
  {
@@ -5520,18 +5388,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-aquatic-elf-2-dexterity-2-intelligence-2-constitution",
-  "name": "+2 Dexterity, +2 Intelligence, –2 Constitution",
-  "race": "Aquatic Elf",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Blood of the Sea pg. 4",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Aquatic%20Elf",
-  "summary": "Aquatic elves are nimble, both in body and mind, but their form is frail.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-aquatic-elf-medium",
   "name": "Medium",
   "race": "Aquatic Elf",
@@ -5688,18 +5544,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-astomoi-2-constitution-2-intelligence-2-wisdom",
-  "name": "–2 Constitution, +2 Intelligence, +2 Wisdom",
-  "race": "Astomoi",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Bestiary 5 pg. 37",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Astomoi",
-  "summary": "Astomoi ever pursue enlightenment through self-denial and are psychically attuned to their surroundings, but their delicate bodies are more susceptible to the…",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-astomoi-medium",
   "name": "Medium",
   "race": "Astomoi",
@@ -5781,18 +5625,6 @@
   "source": "Bestiary 5 pg. 37",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Astomoi",
   "summary": "Astomoi with high Intelligence scores can choose any of the following languages: Abyssal, Aklo, Celestial, Elven, Gnome, Infernal, and Sylvan.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-being-of-ib-4-strength-2-constitution-4-wisdom",
-  "name": "–4 Strength, –2 Constitution, +4 Wisdom",
-  "race": "Being of Ib",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Pathfinder #111: Dreams of the Yellow King pg. 87",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Being%20of%20Ib",
-  "summary": "Beings of Ib are frail and weak, yet profoundly faithful and devoted.",
   "file": "racial-traits.json"
  },
  {
@@ -5928,18 +5760,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-caligni-2-dexterity-2-constitution-2-intelligence",
-  "name": "+2 Dexterity, +2 Constitution, –2 Intelligence",
-  "race": "Caligni",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Bestiary 5 pg. 66",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Caligni",
-  "summary": "Caligni are quick and resilient, but generations of isolation and oppression have made them slow to accept new ideas.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-caligni-normal-speed",
   "name": "Normal Speed",
   "race": "Caligni",
@@ -5985,18 +5805,6 @@
   "source": "Bestiary 5 pg. 66",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Caligni",
   "summary": "All creatures within a 5-foot burst must succeed at a Fortitude save (DC = 10 + 1/2 the caligni’s Hit Dice + the caligni’s Constitution bonus) or be dazzled…",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-catfolk-2-dexterity-2-charisma-2-wisdom",
-  "name": "+2 Dexterity, +2 Charisma, –2 Wisdom",
-  "race": "Catfolk",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 239",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Catfolk",
-  "summary": "Catfolk are sociable and agile, but often lack common sense.",
   "file": "racial-traits.json"
  },
  {
@@ -6177,18 +5985,6 @@
   "source": "Advanced Race Guide pg. 91",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Catfolk",
   "summary": "Furthermore, catfolk with this trait gain a +1 bonus to their CMD against trip maneuvers.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-cecaelia-2-dexterity-2-wisdom-2-intelligence",
-  "name": "+2 Dexterity, +2 Wisdom, –2 Intelligence",
-  "race": "Cecaelia",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Blood of the Sea pg. 6",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Cecaelia",
-  "summary": "Cecaelias are nimble and have a canny insight, but they tend to be flighty.",
   "file": "racial-traits.json"
  },
  {
@@ -6384,18 +6180,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-changeling-2-wisdom-2-charisma-2-constitution",
-  "name": "+2 Wisdom, +2 Charisma, –2 Constitution",
-  "race": "Changeling",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 240",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Changeling",
-  "summary": "Changelings are frail, but are clever and comely.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-changeling-medium",
   "name": "Medium",
   "race": "Changeling",
@@ -6564,18 +6348,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-deep-one-hybrid-2-constitution-2-wisdom-2-dexterity",
-  "name": "+2 Constitution, +2 Wisdom, –2 Dexterity",
-  "race": "Deep One Hybrid",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Bestiary 5 pg. 70",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Deep%20One%20Hybrid",
-  "summary": "Deep one hybrids are hearty and devout, but tend to be somewhat slow and awkward in their movements.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-deep-one-hybrid-slow",
   "name": "Slow",
   "race": "Deep One Hybrid",
@@ -6657,18 +6429,6 @@
   "source": "Bestiary 5 pg. 70",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Deep%20One%20Hybrid",
   "summary": "Hybrids with high Intelligence scores can choose from the following languages: Abyssal, Aquan, Dwarven, Elven, Giant, Gnome, Goblin, Half ling, Orc, and…",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-dhampir-2-dexterity-2-charisma-2-constitution",
-  "name": "+2 Dexterity, +2 Charisma, –2 Constitution",
-  "race": "Dhampir",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 240",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Dhampir",
-  "summary": "Dhampirs are fast and seductive, but their mortal vigor is impeded.",
   "file": "racial-traits.json"
  },
  {
@@ -6861,18 +6621,6 @@
   "source": "Inner Sea Races pg. 215",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Dhampir",
   "summary": "They can use command and charm person each once per day.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-drow-2-dexterity-2-charisma-2-constitution",
-  "name": "+2 Dexterity, +2 Charisma, –2 Constitution",
-  "race": "Drow",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 241",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Drow",
-  "summary": "Drow are nimble and manipulative.",
   "file": "racial-traits.json"
  },
  {
@@ -7212,18 +6960,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-drow-noble-4-dexterity-2-intelligence-2-wisdom-2-charisma-2-constitution",
-  "name": "+4 Dexterity, +2 Intelligence, +2 Wisdom, +2 Charisma, –2 Constitution",
-  "race": "Drow Noble",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Pathfinder RPG Bestiary pg. 115",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Drow%20Noble",
-  "summary": "Noble drow are very agile, observant, and regal.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-drow-noble-spell-resistance",
   "name": "Spell Resistance",
   "race": "Drow Noble",
@@ -7245,18 +6981,6 @@
   "source": "Pathfinder RPG Bestiary pg. 115",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Drow%20Noble",
   "summary": "A drow noble can also cast divine favor , dispel magic , and suggestion once per day each.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-duergar-2-constitution-2-wisdom-4-charisma",
-  "name": "+2 Constitution, +2 Wisdom, –4 Charisma",
-  "race": "Duergar",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 241",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Duergar",
-  "summary": "Duergar are hearty and observant, but also belligerent.",
   "file": "racial-traits.json"
  },
  {
@@ -7452,18 +7176,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-duskwalker-2-dexterity-2-constitution-2-wisdom",
-  "name": "+2 Dexterity, –2 Constitution, +2 Wisdom",
-  "race": "Duskwalker",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Planar Adventures pg. 230",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Duskwalker",
-  "summary": "Duskwalkers are agile and wise, but their bodies are fragile.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-duskwalker-native-outsider",
   "name": "Native Outsider",
   "race": "Duskwalker",
@@ -7605,18 +7317,6 @@
   "source": "Plane-Hopper's Handbook pg. 16",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Duskwalker",
   "summary": "Duskwalkers tied to the mighty yamarajes can draw upon a fraction of the final judges’ sagacity.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-fetchling-2-dexterity-2-charisma-2-wisdom",
-  "name": "+2 Dexterity, +2 Charisma, –2 Wisdom",
-  "race": "Fetchling",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 242",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Fetchling",
-  "summary": "Fetchlings are quick and forceful, but often strange and easily distracted by errant thoughts.",
   "file": "racial-traits.json"
  },
  {
@@ -7896,18 +7596,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-ganzi-2-constitution-2-charisma-2-intelligence",
-  "name": "+2 Constitution, +2 Charisma, –2 Intelligence",
-  "race": "Ganzi",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Planar Adventures pg. 234",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Ganzi",
-  "summary": "Ganzis are passionate, creative, and resilient, but they have difficulty focusing on intellectual pursuits.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-ganzi-native-outsider",
   "name": "Native Outsider",
   "race": "Ganzi",
@@ -8073,18 +7761,6 @@
   "source": "Planar Adventures pg. 234",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Ganzi",
   "summary": "Ganzis with high Intelligence scores can select any of those languages as bonus languages, along with Aklo, Aquan, Auran, Ignan, Sylvan, or Terran.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-gathlain-2-dexterity-2-charisma-2-constitution",
-  "name": "+2 Dexterity, +2 Charisma, –2 Constitution",
-  "race": "Gathlain",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Ultimate Wilderness pg. 9",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Gathlain",
-  "summary": "Gathlains are quick, with dynamic and engaging personalities, but are rather fragile.",
   "file": "racial-traits.json"
  },
  {
@@ -8388,18 +8064,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-ghoran-2-constitution-2-charisma-2-intelligence",
-  "name": "+2 Constitution, +2 Charisma, –2 Intelligence",
-  "race": "Ghoran",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Ultimate Wilderness pg. 15",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Ghoran",
-  "summary": "Ghorans are hardy, guileful, and eager to explore their emotions, but they process complex thoughts slowly.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-ghoran-medium",
   "name": "Medium",
   "race": "Ghoran",
@@ -8409,18 +8073,6 @@
   "source": "Ultimate Wilderness pg. 15",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Ghoran",
   "summary": "Ghorans are Medium creatures and receive no bonuses or penalties due to their size.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-ghoran-2-natural-armor",
-  "name": "+2 Natural Armor",
-  "race": "Ghoran",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Ultimate Wilderness pg. 15",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Ghoran",
-  "summary": "Ghorans have tough, rugged skin.",
   "file": "racial-traits.json"
  },
  {
@@ -8616,18 +8268,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-gillman-2-constitution-2-charisma-2-wisdom",
-  "name": "+2 Constitution, +2 Charisma, –2 Wisdom",
-  "race": "Gillman",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Blood of the Sea pg. 8",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Gillman",
-  "summary": "Gillmen are vigorous and beautiful, but their domination by the aboleths has made them weak-willed.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-gillman-medium",
   "name": "Medium",
   "race": "Gillman",
@@ -8808,18 +8448,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-goblin-4-dexterity-2-strength-2-charisma",
-  "name": "+4 Dexterity, –2 Strength, –2 Charisma",
-  "race": "Goblin",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 244",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Goblin",
-  "summary": "Goblins are fast but weak, and they’re unpleasant to be around.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-goblin-goblinoid",
   "name": "Goblinoid",
   "race": "Goblin",
@@ -8988,18 +8616,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-green-martian-2-strength-2-wisdom-2-charisma",
-  "name": "+2 Strength, +2 Wisdom, -2 Charisma",
-  "race": "Green Martian",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Pathfinder: Worldscape #2 pg. 24",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Green%20Martian",
-  "summary": "Green Martians are keen-sighted and agile, but they understand little of social graces and are prone to brutishness.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-green-martian-large",
   "name": "Large",
   "race": "Green Martian",
@@ -9105,18 +8721,6 @@
   "source": "Pathfinder: Worldscape #2 pg. 24",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Green%20Martian",
   "summary": "Green Martians with high Intelligence scores can choose any languages they want (except secret languages, such as Druidic).",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-grindylow-4-dexterity-2-intelligence-2-wisdom-2-charisma",
-  "name": "+4 Dexterity, –2 Intelligence, –2 Wisdom, –2 Charisma",
-  "race": "Grindylow",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Blood of the Sea pg. 17",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Grindylow",
-  "summary": "Grindylows are cruel, ignorant, and thoughtless, but they have a startling inherent agility.",
   "file": "racial-traits.json"
  },
  {
@@ -9261,18 +8865,6 @@
   "source": "Blood of the Sea pg. 17",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Grindylow",
   "summary": "Grindylows with high Intelligence scores can choose from the following: Aklo, Common, and Goblin.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-grippli-2-dexterity-2-wisdom-2-strength",
-  "name": "+2 Dexterity, +2 Wisdom, –2 Strength",
-  "race": "Grippli",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 244",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Grippli",
-  "summary": "Gripplis are nimble and alert, but spindly.",
   "file": "racial-traits.json"
  },
  {
@@ -9441,18 +9033,6 @@
   "source": "Advanced Race Guide pg. 190",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Grippli",
   "summary": "The grippli gains proficiency with rapiers and a +2 racial bonus on Diplomacy and Intimidate checks.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-hobgoblin-2-dexterity-2-constitution",
-  "name": "+2 Dexterity, +2 Constitution",
-  "race": "Hobgoblin",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 244",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Hobgoblin",
-  "summary": "Hobgoblins are fast and hardy.",
   "file": "racial-traits.json"
  },
  {
@@ -9645,18 +9225,6 @@
   "source": "Advanced Race Guide pg. 121",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Hobgoblin",
   "summary": "Hobgoblins with this racial trait gain proficiency in a single martial weapon and +1 racial bonus on Bluff and Diplomacy checks.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-ifrit-2-dexterity-2-charisma-2-wisdom",
-  "name": "+2 Dexterity, +2 Charisma, –2 Wisdom",
-  "race": "Ifrit",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 245",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Ifrit",
-  "summary": "Ifrits are passionate and quick, but also impetuous and destructive.",
   "file": "racial-traits.json"
  },
  {
@@ -9876,18 +9444,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-kasatha-2-dexterity-2-wisdom",
-  "name": "+2 Dexterity, +2 Wisdom",
-  "race": "Kasatha",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 245",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Kasatha",
-  "summary": "Kasathas are nimble and sharply perceptive.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-kasatha-kasatha",
   "name": "Kasatha",
   "race": "Kasatha",
@@ -10017,18 +9573,6 @@
   "source": "Inner Sea Races pg. 215",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Kasatha",
   "summary": "Such kasathas gain a +2 racial bonus on Stealth checks.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-kitsune-2-dexterity-2-charisma-2-strength",
-  "name": "+2 Dexterity, +2 Charisma, –2 Strength",
-  "race": "Kitsune",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 245",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Kitsune",
-  "summary": "Kitsune are agile and companionable, but tend to be physically weak.",
   "file": "racial-traits.json"
  },
  {
@@ -10221,18 +9765,6 @@
   "source": "Blood of the Beast pg. 12",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Kitsune",
   "summary": "They gain Fox Shape (Pathfinder Player Companion: Dragon Empires Primer 5) as a bonus feat at 1st level, ignoring its prerequisites.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-kobold-2-dexterity-4-strength-2-constitution",
-  "name": "+2 Dexterity, –4 Strength, –2 Constitution",
-  "race": "Kobold",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 245",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Kobold",
-  "summary": "Kobolds are fast but weak.",
   "file": "racial-traits.json"
  },
  {
@@ -10512,18 +10044,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-kuru-2-dexterity-2-constitution-2-intelligence",
-  "name": "+2 Dexterity, +2 Constitution, –2 Intelligence",
-  "race": "Kuru",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Isles of the Shackles pg. 51",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Kuru",
-  "summary": "Kuru are abnormally fast and hardy, but bloodlust clouds their thinking.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-kuru-low-light-vision",
   "name": "Low-Light Vision",
   "race": "Kuru",
@@ -10596,18 +10116,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-lashunta-2-intelligence",
-  "name": "+2 Intelligence",
-  "race": "Lashunta",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 246",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Lashunta",
-  "summary": "Lashunta are almost universally intelligent and eager to learn.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-lashunta-sexual-dimorphism",
   "name": "Sexual Dimorphism",
   "race": "Lashunta",
@@ -10677,18 +10185,6 @@
   "source": "Inner Sea Races pg. 216",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Lashunta",
   "summary": "They gain a +1 racial bonus on Charisma-based skill checks to influence any creature with whom they are telepathically communicating.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-locathah-2-dexterity-2-wisdom-2-intelligence",
-  "name": "+2 Dexterity, +2 Wisdom, –2 Intelligence",
-  "race": "Locathah",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Blood of the Sea pg. 10",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Locathah",
-  "summary": "Locathahs are agile and intuitive, but they are more interested in travel and experiences than in academia.",
   "file": "racial-traits.json"
  },
  {
@@ -10848,18 +10344,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-merfolk-2-dexterity-2-constitution-2-charisma",
-  "name": "+2 Dexterity, +2 Constitution, +2 Charisma",
-  "race": "Merfolk",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Blood of the Sea pg. 12",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Merfolk",
-  "summary": "Merfolk are graceful, hale, and beautiful.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-merfolk-medium",
   "name": "Medium",
   "race": "Merfolk",
@@ -11016,18 +10500,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-monkey-goblin-4-dexterity-2-wisdom-2-charisma",
-  "name": "+4 Dexterity, –2 Wisdom, –2 Charisma",
-  "race": "Monkey Goblin",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Bestiary 6 pg. 138",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Monkey%20Goblin",
-  "summary": "Monkey goblins are fast, but foolishly impulsive and disagreeable.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-monkey-goblin-small",
   "name": "Small",
   "race": "Monkey Goblin",
@@ -11136,18 +10608,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-munavri-2-str-4-dex-2-con-2-int-2-wis-2-cha",
-  "name": "–2 Str, +4 Dex, +2 Con, +2 Int, +2 Wis, +2 Cha",
-  "race": "Munavri",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Bestiary 6 pg. 197",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Munavri",
-  "summary": "Descended from humans who were changed by the harsh lands in the depths of the earth, munavris have exceptional abilities.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-munavri-medium",
   "name": "Medium",
   "race": "Munavri",
@@ -11253,18 +10713,6 @@
   "source": "Bestiary 6 pg. 197",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Munavri",
   "summary": "Munavris with high Intelligence scores can choose from the following: Aklo, Aboleth, Aquan, Dark Folk, Draconic, Terran, and Undercommon.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-nagaji-2-strength-2-charisma-2-intelligence",
-  "name": "+2 Strength, +2 Charisma, –2 Intelligence",
-  "race": "Nagaji",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 246",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Nagaji",
-  "summary": "Nagaji are strong and have forceful personalities, but they tend to ignore logic and mock scholarly pursuits.",
   "file": "racial-traits.json"
  },
  {
@@ -11388,18 +10836,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-naiad-2-dexterity-2-charisma-2-strength",
-  "name": "+2 Dexterity, +2 Charisma, –2 Strength",
-  "race": "Naiad",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Bestiary 6 pg. 200",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Naiad",
-  "summary": "Naiads have elegant fey grace and beauty but have delicate builds.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-naiad-medium",
   "name": "Medium",
   "race": "Naiad",
@@ -11481,18 +10917,6 @@
   "source": "Bestiary 6 pg. 200",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Naiad",
   "summary": "Naiads that have high Intelligence scores are able to choose from any of the following bonus languages: Aklo, Aquan, Dwarven, Elven, Giant, Gnome, Goblin,…",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-orang-pendak-2-strength-2-wisdom-2-intelligence",
-  "name": "+2 Strength, +2 Wisdom, –2 Intelligence",
-  "race": "Orang-Pendak",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Bestiary 5 pg. 186",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Orang-Pendak",
-  "summary": "Orang-pendaks are strong and intuitive, but not particularly clever.",
   "file": "racial-traits.json"
  },
  {
@@ -11589,18 +11013,6 @@
   "source": "Bestiary 5 pg. 186",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Orang-Pendak",
   "summary": "Orang-pendaks who have high Intelligence scores can choose from the following: Aklo, Common, Draconic, Goblin, Grippli, Sylvan, Vanaran, and Vishkanya.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-orc-4-strength-2-intelligence-2-wisdom-2-charisma",
-  "name": "+4 Strength, –2 Intelligence, –2 Wisdom, –2 Charisma",
-  "race": "Orc",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 246",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Orc",
-  "summary": "Orcs are brutal and savage.",
   "file": "racial-traits.json"
  },
  {
@@ -11757,18 +11169,6 @@
   "source": "Advanced Race Guide pg. 138",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Orc",
   "summary": "Orcs with this racial trait gain Survival as a class skill and gain a +1 racial bonus on melee weapon attack and damage rolls when at negative hit points.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-oread-2-strength-2-wisdom-2-charisma",
-  "name": "+2 Strength, +2 Wisdom, –2 Charisma",
-  "race": "Oread",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 247",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Oread",
-  "summary": "Oreads are strong, solid, stable, and stoic.",
   "file": "racial-traits.json"
  },
  {
@@ -12000,18 +11400,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-primitive-human-2-to-strength-dexterity-or-constitution",
-  "name": "+2 to Strength, Dexterity, or Constitution",
-  "race": "Primitive Human",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Paizo Blog: The Gauntlet Will Be Ours! pg. 1",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Primitive%20Human",
-  "summary": "Primitive humans are as varied in their physical abilities as modern humans, though the lack the same mental flexibility.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-primitive-human-medium",
   "name": "Medium",
   "race": "Primitive Human",
@@ -12093,18 +11481,6 @@
   "source": "Paizo Blog: The Gauntlet Will Be Ours! pg. 1",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Primitive%20Human",
   "summary": "Those with high Intelligence scores can choose any languages they want (except secret languages, such as Druidic).",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-ratfolk-2-dexterity-2-intelligence-2-strength",
-  "name": "+2 Dexterity, +2 Intelligence, –2 Strength",
-  "race": "Ratfolk",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 247",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Ratfolk",
-  "summary": "Ratfolk are agile and clever, yet physically weak.",
   "file": "racial-traits.json"
  },
  {
@@ -12312,18 +11688,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-reborn-samsaran-2-intelligence-2-wisdom-2-constitution",
-  "name": "+2 Intelligence, +2 Wisdom, –2 Constitution",
-  "race": "Reborn Samsaran",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Occult Bestiary pg. 50",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Reborn%20Samsaran",
-  "summary": "Reborn samsarans are insightful and learn quickly, but their bodies tend to be frail.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-reborn-samsaran-medium",
   "name": "Medium",
   "race": "Reborn Samsaran",
@@ -12405,18 +11769,6 @@
   "source": "Occult Bestiary pg. 50",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Reborn%20Samsaran",
   "summary": "Those reborn samsarans with high Intelligence scores can choose from the following: any human language, Abyssal, Aquan, Auran, Celestial, Draconic, Giant,…",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-reptoid-2-strength-2-charisma-2-dexterity",
-  "name": "+2 Strength, +2 Charisma, –2 Dexterity",
-  "race": "Reptoid",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Bestiary 5 pg. 202",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Reptoid",
-  "summary": "Reptoids are both manipulative and strong, but they’re deliberate in their movements.",
   "file": "racial-traits.json"
  },
  {
@@ -12540,18 +11892,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-rougarou-2-str-2-wis-2-int",
-  "name": "+2 Str, +2 Wis, –2 Int",
-  "race": "Rougarou",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Bestiary 6 pg. 242",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Rougarou",
-  "summary": "Rougarous are strong and alert, but simplistic.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-rougarou-medium",
   "name": "Medium",
   "race": "Rougarou",
@@ -12621,18 +11961,6 @@
   "source": "Bestiary 6 pg. 242",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Rougarou",
   "summary": "Rougarous with high Intelligence scores can choose from these bonus languages: Aklo, Elven, Gnoll, Gnome, Goblin, or Sylvan.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-sahuagin-2-strength-2-wisdom-2-charisma",
-  "name": "+2 Strength, +2 Wisdom, –2 Charisma",
-  "race": "Sahuagin",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Blood of the Sea pg. 17",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Sahuagin",
-  "summary": "While sahuagin are powerful and cunning, they are repulsive creatures.",
   "file": "racial-traits.json"
  },
  {
@@ -12816,18 +12144,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-samsaran-2-intelligence-2-wisdom-2-constitution",
-  "name": "+2 Intelligence, +2 Wisdom, –2 Constitution",
-  "race": "Samsaran",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 247",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Samsaran",
-  "summary": "Samsarans are insightful and strong-minded, but with frail bodies.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-samsaran-samsaran",
   "name": "Samsaran",
   "race": "Samsaran",
@@ -12945,18 +12261,6 @@
   "source": "Advanced Race Guide pg. 198",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Samsaran",
   "summary": "You can add spells from another spellcasting class to the spell list of your current spellcasting class.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-shabti-2-constitution-2-charisma",
-  "name": "+2 Constitution, +2 Charisma",
-  "race": "Shabti",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Bestiary 5 pg. 227",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Shabti",
-  "summary": "Shabti have powerful bodies and presences to match.",
   "file": "racial-traits.json"
  },
  {
@@ -13140,18 +12444,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-skinwalker-2-wisdom-2-intelligence-2-to-one-physical-ability-score-while-in-bestial-form",
-  "name": "+2 Wisdom, –2 Intelligence, +2 to One Physical Ability Score While in Bestial Form",
-  "race": "Skinwalker",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Bestiary 5 pg. 233",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Skinwalker",
-  "summary": "Skinwalkers are attuned to the natural order and value passion above reason.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-skinwalker-medium",
   "name": "Medium",
   "race": "Skinwalker",
@@ -13245,18 +12537,6 @@
   "source": "Inner Sea Races pg. 216",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Skinwalker",
   "summary": "Such skinwalkers can only use their change shape ability once per day for 1 minute per level, but they can use their speak with animals spell-like ability at…",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-strix-2-dexterity-2-charisma",
-  "name": "+2 Dexterity, –2 Charisma",
-  "race": "Strix",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 249",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Strix",
-  "summary": "Strix are swift and elusive, but tend to be stubborn and swift to anger.",
   "file": "racial-traits.json"
  },
  {
@@ -13428,18 +12708,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-suli-2-strength-2-charisma-2-intelligence",
-  "name": "+2 Strength, +2 Charisma, –2 Intelligence",
-  "race": "Suli",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 250",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Suli",
-  "summary": "Sulis are brawny and charming, but slow-witted.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-suli-native-outsider",
   "name": "Native Outsider",
   "race": "Suli",
@@ -13569,18 +12837,6 @@
   "source": "Inner Sea Races pg. 215",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Suli",
   "summary": "These geniekin do not automatically gain their associated elemental language (but may select it as a bonus language if their Intelligence is high enough).",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-svirfneblin-2-dexterity-2-wisdom-2-strength-4-charisma",
-  "name": "+2 Dexterity, +2 Wisdom, –2 Strength, –4 Charisma",
-  "race": "Svirfneblin",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 250",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Svirfneblin",
-  "summary": "Svirfneblin are fast and observant but relatively weak and emotionally distant.",
   "file": "racial-traits.json"
  },
  {
@@ -13761,18 +13017,6 @@
   "source": "Advanced Race Guide pg. 204",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Svirfneblin",
   "summary": "Svirfneblin add +1 to the caster level of any spells with the earth descriptor they cast.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-sylph-2-dexterity-2-intelligence-2-constitution",
-  "name": "+2 Dexterity, +2 Intelligence, –2 Constitution",
-  "race": "Sylph",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 250",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Sylph",
-  "summary": "Sylphs are quick and insightful, but slight and delicate.",
   "file": "racial-traits.json"
  },
  {
@@ -13992,18 +13236,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-syrinx-2-wisdom-2-dexterity",
-  "name": "+2 Wisdom, –2 Dexterity",
-  "race": "Syrinx",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 251",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Syrinx",
-  "summary": "Syrinxes are contemplative and patient, traits that make them somewhat slow to act.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-syrinx-normal-speed",
   "name": "Normal Speed",
   "race": "Syrinx",
@@ -14109,18 +13341,6 @@
   "source": "Inner Sea Races pg. 216",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Syrinx",
   "summary": "On a success, syrinx gains a +4 racial bonus on Intimidate checks against that target and a +1 racial bonus to the DC of any fear effects she uses against that…",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-tengu-2-dexterity-2-wisdom-2-constitution",
-  "name": "+2 Dexterity, +2 Wisdom, –2 Constitution",
-  "race": "Tengu",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 251",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Tengu",
-  "summary": "Tengus are fast and observant, but relatively fragile.",
   "file": "racial-traits.json"
  },
  {
@@ -14289,18 +13509,6 @@
   "source": "Advanced Race Guide pg. 163",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Tengu",
   "summary": "Such tengus choose a number of eastern weapons equal to 3 + their Intelligence bonus, and gain proficiency with these weapons.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-tiefling-2-dexterity-2-intelligence-2-charisma",
-  "name": "+2 Dexterity, +2 Intelligence, –2 Charisma",
-  "race": "Tiefling",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 251",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Tiefling",
-  "summary": "Tieflings are quick in body and mind, but are inherently unnerving.",
   "file": "racial-traits.json"
  },
  {
@@ -14568,18 +13776,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-triaxian-2-constitution-2-wisdom-2-strength",
-  "name": "+2 Constitution, +2 Wisdom, –2 Strength",
-  "race": "Triaxian",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 252",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Triaxian",
-  "summary": "Triaxians are a hardy and wily, but also somewhat weak.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-triaxian-low-light-vision",
   "name": "Low-Light Vision",
   "race": "Triaxian",
@@ -14649,18 +13845,6 @@
   "source": "Inner Sea Races pg. 217",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Triaxian",
   "summary": "Transitional Triaxians are often instilled from a young age with the lore they need to prepare for the next winter or summer; they gain a +1 racial bonus on…",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-triton-2-strength-2-charisma-2-dexterity",
-  "name": "+2 Strength, +2 Charisma, –2 Dexterity",
-  "race": "Triton",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Blood of the Sea pg. 14",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Triton",
-  "summary": "Tritons are strong and have forceful personalities, but they are not very nimble.",
   "file": "racial-traits.json"
  },
  {
@@ -14772,18 +13956,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-trox-6-strength-2-intelligence-2-wisdom-2-charisma",
-  "name": "+6 Strength, –2 Intelligence, –2 Wisdom, –2 Charisma",
-  "race": "Trox",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 253",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Trox",
-  "summary": "Trox are very strong, but they can be dim, unreceptive, and inhospitable.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-trox-monstrous-humanoid",
   "name": "Monstrous Humanoid",
   "race": "Trox",
@@ -14889,18 +14061,6 @@
   "source": "Inner Sea Races pg. 217",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Trox",
   "summary": "Some trox have developed a closeness to the earth that helps them thwart the invisibility of their duergar enemies.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-undine-2-dexterity-2-wisdom-2-strength",
-  "name": "+2 Dexterity, +2 Wisdom, –2 Strength",
-  "race": "Undine",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 253",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Undine",
-  "summary": "Undines are perceptive and agile, but somewhat weak.",
   "file": "racial-traits.json"
  },
  {
@@ -15132,18 +14292,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-vanara-2-dexterity-2-wisdom-2-charisma",
-  "name": "+2 Dexterity, +2 Wisdom, –2 Charisma",
-  "race": "Vanara",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 253",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Vanara",
-  "summary": "Vanaras are agile and perceptive, but are also rather impish and mischievous.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-vanara-vanara",
   "name": "Vanara",
   "race": "Vanara",
@@ -15285,18 +14433,6 @@
   "source": "Advanced Race Guide pg. 206",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Vanara",
   "summary": "Their stooping build grants them a +4 racial bonus to CMD when resisting a bull rush or trip.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-vine-leshy-2-constitution-2-wisdom-2-intelligence",
-  "name": "+2 Constitution, +2 Wisdom, –2 Intelligence",
-  "race": "Vine Leshy",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Ultimate Wilderness pg. 20",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Vine%20Leshy",
-  "summary": "Vine leshys are hardy and insightful, but sometimes forgetful.",
   "file": "racial-traits.json"
  },
  {
@@ -15540,18 +14676,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-vishkanya-2-dexterity-2-charisma-2-wisdom",
-  "name": "+2 Dexterity, +2 Charisma, –2 Wisdom",
-  "race": "Vishkanya",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 253",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Vishkanya",
-  "summary": "Vishkanyas are graceful but often irrational.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-vishkanya-vishkanya",
   "name": "Vishkanya",
   "race": "Vishkanya",
@@ -15717,18 +14841,6 @@
   "source": "Advanced Race Guide pg. 208",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Vishkanya",
   "summary": "You gain a +4 bonus on Disguise checks to look fully human.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-wayang-2-dexterity-2-intelligence-2-wisdom",
-  "name": "+2 Dexterity, +2 Intelligence, –2 Wisdom",
-  "race": "Wayang",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 253",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Wayang",
-  "summary": "Wayangs are nimble and cagey, but their perception of the world is clouded by shadows.",
   "file": "racial-traits.json"
  },
  {
@@ -15912,18 +15024,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-wyrwood-2-dexterity-2-intelligence-2-charisma",
-  "name": "+2 Dexterity, +2 Intelligence, –2 Charisma",
-  "race": "Wyrwood",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 253",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Wyrwood",
-  "summary": "Wyrwoods are quick and calculating.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-wyrwood-construct",
   "name": "Construct",
   "race": "Wyrwood",
@@ -16029,18 +15129,6 @@
   "source": "Heroes of Golarion pg. 6",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Wyrwood",
   "summary": "Through generations of refining the techniques of creation, many young wyrwoods have become closer to organic beings than constructs.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/pa-wyvaran-2-dexterity-2-wisdom-2-intelligence",
-  "name": "+2 Dexterity, +2 Wisdom, –2 Intelligence",
-  "race": "Wyvaran",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Inner Sea Races pg. 253",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Wyvaran",
-  "summary": "Wyvarans have a reptilian grace and a strong will, but are a little dim-witted.",
   "file": "racial-traits.json"
  },
  {
@@ -16200,18 +15288,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/pa-yaddithian-2-constitution-2-intelligence-2-wisdom",
-  "name": "+2 Constitution, +2 Intelligence, –2 Wisdom",
-  "race": "Yaddithian",
-  "system": "Pathfinder 1e",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "Bestiary 6 pg. 285",
-  "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Yaddithian",
-  "summary": ".",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/pa-yaddithian-slow",
   "name": "Slow",
   "race": "Yaddithian",
@@ -16305,18 +15381,6 @@
   "source": "Bestiary 6 pg. 285",
   "url": "https://www.aonprd.com/RacesDisplay.aspx?ItemName=Yaddithian",
   "summary": "Those with high Intelligence scores can choose any language as a bonus language.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/sp-alraun-4-charisma-2-constitution-2-wisdom",
-  "name": "+4 Charisma, -2 Constitution, -2 Wisdom",
-  "race": "Alraun",
-  "system": "Spheres of Power",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "",
-  "url": "Sphere-Races/Alraun#4-charisma--2-constitution--2-wisdom",
-  "summary": "Alraun are the result of a humanoid’s blood interacting with an alraun plant to spontaneously create an adult creature.",
   "file": "racial-traits.json"
  },
  {
@@ -16452,18 +15516,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/sp-cecaelia-2-dexterity-2-intelligence-2-wisdom-2-charisma",
-  "name": "+2 Dexterity, +2 Intelligence, -2 Wisdom, -2 Charisma",
-  "race": "Cecaelia",
-  "system": "Spheres of Power",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "",
-  "url": "Sphere-Races/Cecaelia#2-dexterity-2-intelligence--2-wisdom--2-charisma",
-  "summary": "Cecaelia are quick, intelligent, and xenophobic.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/sp-cecaelia-medium",
   "name": "Medium",
   "race": "Cecaelia",
@@ -16593,18 +15645,6 @@
   "source": "",
   "url": "Sphere-Races/Cecaelia#languages",
   "summary": "Cecaelia with high Intelligence scores can choose bonus languages from the following list: Aboleth, Aklo, Cheruf, Draconic, Elven, Giant, Sylvan.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/sp-cherufe-2-wisdom-2-charisma-2-constitution-amet-or-2-strength-2-dex-2-int-zavr",
-  "name": "+2 Wisdom, +2 Charisma, -2 Constitution (Amet) or +2 Strength, +2 Dex, -2 Int (Zavr)",
-  "race": "Cherufe",
-  "system": "Spheres of Power",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "",
-  "url": "Sphere-Races/Cherufe#2-wisdom-2-charisma--2-constitution-amet-or-2-strength-2-dex--2-int-zavr",
-  "summary": "The cherufe have two major breeds, and depending on what sort of cherufe one is, either possesses insight and a strong personality or a swift, strong body.",
   "file": "racial-traits.json"
  },
  {
@@ -16812,18 +15852,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/sp-cuazaj-2-dexterity-2-charisma-2-strength-2-constitution",
-  "name": "+2 Dexterity, +2 Charisma, -2 Strength, -2 Constitution",
-  "race": "Cuazaj",
-  "system": "Spheres of Power",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "",
-  "url": "Sphere-Races/Cuazaj#2-dexterity-2-charisma--2-strength--2-constitution",
-  "summary": "Cuazaj are small, quick, and very polite, but their silicon-based bodies are very brittle.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/sp-cuazaj-small",
   "name": "Small",
   "race": "Cuazaj",
@@ -16980,18 +16008,6 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/sp-fenghuang-2-dexterity-2-charisma-2-constitution",
-  "name": "+2 Dexterity, +2 Charisma, –2 Constitution",
-  "race": "Fenghuang",
-  "system": "Spheres of Power",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "",
-  "url": "Sphere-Races/Fenghuang#2-dexterity-2-charisma-2-constitution",
-  "summary": "The fenghuang are built delicately, but move with a distinct grace in mannerism and motion.",
-  "file": "racial-traits.json"
- },
- {
   "id": "racial/sp-fenghuang-medium",
   "name": "Medium",
   "race": "Fenghuang",
@@ -17109,18 +16125,6 @@
   "source": "",
   "url": "Sphere-Races/Fenghuang#languages",
   "summary": "Fenghuangs begin play speaking Common and Sylvan.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/sp-leshy-2-dexterity-2-constitution-2-intelligence",
-  "name": "-2 Dexterity, +2 Constitution, +2 Intelligence",
-  "race": "Leshy",
-  "system": "Spheres of Power",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "",
-  "url": "Sphere-Races/Leshy#-2-dexterity-2-constitution-2-intelligence",
-  "summary": "Leshy are extraordinarily hardy and quite canny, but very stocky and slow.",
   "file": "racial-traits.json"
  },
  {
@@ -17253,18 +16257,6 @@
   "source": "",
   "url": "Sphere-Races/Leshy#languages",
   "summary": "Leshy with high Intelligence scores can choose any languages they want (except secret languages).",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/sp-sidhier-2-dexterity-2-charisma-2-strength",
-  "name": "+2 Dexterity, +2 Charisma, -2 Strength",
-  "race": "Sidhier",
-  "system": "Spheres of Power",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "",
-  "url": "Sphere-Races/Sidhier#2-dexterity-2-charisma--2-strength",
-  "summary": "While swift and possessive of strong personalities, sidhier are frail of frame and weaker than most other races.",
   "file": "racial-traits.json"
  },
  {
@@ -17421,18 +16413,6 @@
   "source": "",
   "url": "Sphere-Races/Tatulani#alternate-racial-traits",
   "summary": "These tatulani gain a +2 racial bonus to Survival and Diplomacy checks.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/sp-tatulani-2-intelligence-2-constitution-2-charisma",
-  "name": "+2 Intelligence, +2 Constitution, –2 Charisma",
-  "race": "Tatulani",
-  "system": "Spheres of Power",
-  "kind": "Standard",
-  "replaces": "",
-  "source": "",
-  "url": "Sphere-Races/Tatulani#2-intelligence-2-constitution-2-charisma",
-  "summary": "Their shelled form is quite resilient despite its fragile appearance, and their alien minds may be difficult to understand, but their intelligence is…",
   "file": "racial-traits.json"
  },
  {

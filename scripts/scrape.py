@@ -2988,8 +2988,9 @@ _RULES_SENTENCE = re.compile(r"\b(?:you gain|you can|you may|you treat|you take|
                              r"class skill|once per|choose|select|increase|reduce|whenever|when you)\b", re.I)
 
 
-def _rules_summary(text: str, limit: int = 160) -> str:
-    """One short plain line for a picker: the first sentence that reads like rules, else the first."""
+def _rules_summary(text: str, limit: int = 160, whole: bool = False) -> str:
+    """One short plain line for a picker: the first sentence that reads like rules, else the first
+    (or, with whole, all of it), cut at a word."""
     t = re.sub(r"\[\[(?:[^\]|]*\\?\|)?([^\]]*)\]\]", r"\1", text)
     t = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", t)
     t = re.sub(r"^\s*#+ [^\n]*$|^\s*\*?\*?(?:Source|Category|Requirements?\(?s?\)?)\*?\*?[: ][^\n]*$", "", t,
@@ -2997,7 +2998,7 @@ def _rules_summary(text: str, limit: int = 160) -> str:
     t = re.sub(r"[*_`]|<[^>]+>", "", t)
     t = re.sub(r"\s+", " ", t).strip()
     sentences = re.findall(r"[^.!?]+[.!?]", t) or [t]
-    s = next((s for s in sentences if _RULES_SENTENCE.search(s)), sentences[0]).strip()
+    s = t if whole else next((s for s in sentences if _RULES_SENTENCE.search(s)), sentences[0]).strip()
     s = re.sub(r"^Benefits?: ", "", s)
     return s if len(s) <= limit else s[:limit].rsplit(" ", 1)[0] + "…"
 
@@ -3078,6 +3079,26 @@ _SIZE_KEYS = {"fine": "fine", "diminutive": "dim", "tiny": "tiny", "small": "sm"
               "huge": "huge"}
 
 
+_ABBR = {"str": "str", "dex": "dex", "con": "con", "int": "int", "wis": "wis", "cha": "cha"}
+
+
+def ability_mods(text: str) -> dict | None:
+    """Ability adjustments a subrace or variant gives ("Ability Modifiers +2 Str, +2 Cha", or
+    "+2 Dexterity, +2 Charisma, -2 Wisdom"), or None when it names none."""
+    t = re.sub(r"[*_]", "", text)
+    m = re.search(r"Ability (?:Score )?Modifiers?\s*:?\s*([^\n]+?)(?=\s+(?:Alternate|Ancestry|Typical)\b|\n|$)", t, re.I)
+    scope = m.group(1) if m else t
+    found = re.findall(r"([+\-–−])\s*(\d+)\s+(strength|dexterity|constitution|intelligence|wisdom|charisma|"
+                       r"str|dex|con|int|wis|cha)\b", scope, re.I)
+    if not found:
+        return None
+    out = {k: 0 for k in _ABILITY_KEYS.values()}
+    for sign, n, ab in found:
+        key = _ABILITY_KEYS.get(ab.lower()) or _ABBR[ab.lower()[:3]]
+        out[key] = int(n) * (1 if sign == "+" else -1)
+    return out
+
+
 def race_stats(traits: list[tuple[str, str]]) -> dict:
     """What the Character Builder's Race tab fills in, from a race's standard racial traits
     [(label, text)]: ability adjustments ("+2 Dexterity, +2 Intelligence, -2 Constitution", or a
@@ -3143,11 +3164,18 @@ def build_race_compendium() -> dict[str, int]:
     traits: list[dict] = []
     rid = lambda system, name: ("pf1e/" if system == "Pathfinder 1e" else "race/") + \
         re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
+    # the ability adjustment line is shown on the Race tab, not offered as a racial trait
+    is_stat_line = lambda name: bool(re.match(r"^[+\-–−]\d", name.strip())) or \
+        bool(re.match(r"^(?:ability score (?:adjustments?|modifiers?)|ability scores?)$", name.strip(), re.I))
     for r in pf:
         races.append({"id": rid("Pathfinder 1e", r["name"]), "name": r["name"], "system": "Pathfinder 1e",
                       "url": r["url"], "source": r["source"]}
-                     | {k: r[k] for k in ("size", "speed", "mods", "flexMod", "bonusFeats", "bonusSkillPerLevel")})
+                     | {k: r[k] for k in ("size", "speed", "mods", "flexMod", "bonusFeats", "bonusSkillPerLevel")}
+                     | {"subraces": [{"name": s["name"], "mods": s["mods"], "summary": _rules_summary(s["md"], 360, whole=True)}
+                                     for s in r.get("subraces", [])]})
         for t in r["traits"]:
+            if t["kind"] == "Standard" and is_stat_line(t["name"]):
+                continue
             traits.append({"name": t["name"], "race": r["name"], "system": "Pathfinder 1e", "kind": t["kind"],
                            "replaces": t["replaces"], "source": t["source"], "url": r["url"], "md": t["md"]})
     # Spheres race pages
@@ -3162,9 +3190,16 @@ def build_race_compendium() -> dict[str, int]:
         url = _page_url(f)
         h1 = [i for i, l in enumerate(lines) if l.startswith("# ")] + [len(lines)]
         std: list[tuple[str, str, str]] = []
+        subraces: list[dict] = []
         for a, b in zip(h1, h1[1:]):
             title = lines[a][2:].strip()
-            if re.match(rf"^(?:{re.escape(f.stem)} )?Racial Traits$", title, re.I):
+            if re.match(r"^Racial Sub-?types$", title, re.I):
+                h2 = [i for i in range(a + 1, b) if lines[i].startswith("## ")] + [b]
+                for x, y in zip(h2, h2[1:]):
+                    text = "\n".join(lines[x + 1:y]).strip()
+                    subraces.append({"name": lines[x][3:].strip(), "mods": ability_mods(text),
+                                     "summary": _rules_summary(text, 360, whole=True)})
+            elif re.match(rf"^(?:{re.escape(f.stem)} )?Racial Traits$", title, re.I):
                 h2 = [i for i in range(a + 1, b) if lines[i].startswith("## ")] + [b]
                 for x, y in zip(h2, h2[1:]):
                     std.append((lines[x][3:].strip(), "\n".join(lines[x + 1:y]).strip(), ids[x]))
@@ -3176,8 +3211,10 @@ def build_race_compendium() -> dict[str, int]:
             print(f"warning: races: no racial traits on {f.stem}")
             continue
         races.append({"id": rid("Spheres", f.stem), "name": f.stem, "system": "Spheres of Power", "url": url,
-                      "source": src} | race_stats([(n, t) for n, t, _ in std]))
+                      "source": src} | race_stats([(n, t) for n, t, _ in std]) | {"subraces": subraces})
         for name, text, anchor in std:
+            if is_stat_line(name):
+                continue
             traits.append({"name": name, "race": f.stem, "system": "Spheres of Power", "kind": "Standard",
                            "replaces": "", "source": src, "url": f"{url}#{anchor}", "md": text})
     # alternate racial traits for other races: a heading per race ("### Elf", "## Drow", "# Dwarf")

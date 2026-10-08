@@ -40,38 +40,38 @@ What the feat extractor takes from the site (1233 Spheres feats; approved), plus
 | Meditation | — | 14 |
 | Shield Mastery | — | 14 |
 | Performance | — | 13 |
-| Defiler | 12 | — |
-| Necrosis | 12 | — |
 | Shield Style | — | 12 |
-| Wild Magic | 12 | — |
 | Proxy | 12 | — |
+| Wild Magic | 12 | — |
+| Necrosis | 12 | — |
+| Defiler | 12 | — |
 | Armor Mastery | — | 11 |
-| Purring | 11 | — |
 | Channeling | 11 | — |
 | Surreal | 11 | — |
+| Purring | 11 | — |
 | Rune | 10 | — |
-| Alignment | — | 9 |
 | Panache | — | 9 |
+| Alignment | — | 9 |
 | Armor Style | — | 9 |
 | Esoteric | — | 9 |
-| Achievement | — | 8 |
 | Origin | — | 8 |
+| Achievement | — | 8 |
 | Combination | — | 7 |
-| Blood Hex | — | 7 |
-| Damnation | 3 | 4 |
 | Theurge | 7 | — |
-| Betrayal | — | 6 |
+| Damnation | 3 | 4 |
+| Blood Hex | — | 7 |
 | Chance | 6 | — |
 | Trick | — | 6 |
 | Plague | 6 | — |
+| Betrayal | — | 6 |
 | Anathema | 5 | — |
 | Targeting | — | 4 |
 | Gathlain Court Title | — | 4 |
 | Words of Power | — | 3 |
-| Luck | 2 | — |
+| Called Shot | — | 2 |
 | Coven | — | 2 |
 | Hero Point | — | 2 |
-| Called Shot | — | 2 |
+| Luck | 2 | — |
 | Familiar | — | 1 |
 
 ## Spheres of Power (926)

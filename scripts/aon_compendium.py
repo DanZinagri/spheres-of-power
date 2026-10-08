@@ -262,7 +262,7 @@ def race_data() -> int:
     and alternate racial traits (grouped under "Replaces ..." headings), read from the cached race
     pages, with the stats the Character Builder fills in (see scrape.race_stats)."""
     sys.path.insert(0, str(Path(__file__).parent))
-    from scrape import race_stats
+    from scrape import ability_mods, race_stats
     src = OUT / "races.json"
     if not src.exists():
         return 0
@@ -297,9 +297,22 @@ def race_data() -> int:
             traits.append({"name": _html_text(m.group(2)), "kind": "Alternate", "replaces": replaces,
                            "source": ", ".join(_html_text(i) for i in re.findall(r"<i>(.*?)</i>", src_html, re.S)),
                            "md": re.sub(r"\n{3,}", "\n\n", md).strip()})
+        # subraces / heritages ("Angel-Blooded (Angelkin)": "Ability Modifiers +2 Str, +2 Cha", or
+        # which alternate racial traits they take)
+        subraces = []
+        sub = re.search(r'<h1 class="title">Subraces</h1>(.*?)(?=<h1|\Z)', html, re.S)
+        parts = re.split(r'<h3 class="framing">(.*?)</h3>', sub.group(1) if sub else "", flags=re.S)
+        for name_html, body in zip(parts[1::2], parts[2::2]):
+            src_html = re.search(r"<b>Source</b>(.*?)<br", body, re.S)
+            text = markdownify(re.sub(r"<b>Source</b>.*?<br\s*/?>", "", body, count=1, flags=re.S),
+                               strip=["a", "img"])
+            subraces.append({"name": _html_text(name_html), "mods": ability_mods(_html_text(body)),
+                             "source": ", ".join(_html_text(i) for i in re.findall(r"<i>(.*?)</i>",
+                                                                                   src_html.group(1) if src_html else "", re.S)),
+                             "md": re.sub(r"\n{3,}", "\n\n", text).strip()})
         std_traits = [(t["name"], t["md"]) for t in traits if t["kind"] == "Standard"]
         races.append({"name": race, "url": e["url"], "source": e["source"]} | race_stats(std_traits)
-                     | {"traits": traits})
+                     | {"traits": traits, "subraces": subraces})
     (OUT / "race-data.json").write_text(json.dumps({"races": races}, ensure_ascii=False, indent=1), encoding="utf-8")
     return len(races)
 

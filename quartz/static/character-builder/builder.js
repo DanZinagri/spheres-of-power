@@ -548,7 +548,7 @@ function racePicker() {
   // Spheres races only when "Spheres for PF1e" is on (a race already picked stays listed), as for classes
   const shown = RACE_DATA.list.filter((r) => isPf(r) || state.spheresModule || r.id === race.ref)
   const groups = { "Pathfinder Races": shown.filter(isPf), "Spheres Races": shown.filter((r) => !isPf(r)) }
-  const el = h("select", { style: "width:14rem" },
+  const el = h("select", { style: "width:100%" },
     h("option", { value: "", selected: !race.ref }, RACE_DATA.loaded ? "Custom (enter below)" : "Loading races…"),
     ...Object.entries(groups).filter(([, rs]) => rs.length).map(([g, rs]) => h("optgroup", { label: g },
       ...rs.sort((a, b) => a.name.localeCompare(b.name)).map((r) =>
@@ -560,7 +560,8 @@ function racePicker() {
       race.name = r.name
       race.size = r.size
       race.speed = r.speed
-      race.mods = { ...r.mods }
+      race.subrace = "" // ability adjustments are shown, not applied: see raceChoices()
+      race.flexAbility = ""
       race.bonusFeats = r.bonusFeats
       race.bonusSkillPerLevel = r.bonusSkillPerLevel
     }
@@ -568,6 +569,43 @@ function racePicker() {
   })
   return el
 }
+const fmtMods = (m) => ABL.filter((k) => num(m?.[k])).map((k) => `${signed(num(m[k]))} ${ABILITIES[k].slice(0, 3)}`).join(", ")
+
+// a listed race's ability adjustments: shown, not applied (many races have a choice or alternate
+// scores: a human's +2 to any one score, an aasimar's heritage), with its subraces / heritages and
+// the adjustments the choices come to, which "Apply" copies into the boxes below
+function raceChoices() {
+  const r = RACE_DATA.byId[state.race.ref]
+  if (!r) return null
+  const race = state.race
+  const sub = r.subraces?.find((s) => s.name === race.subrace)
+  let result = sub?.mods ?? r.mods
+  if (r.flexMod && !sub?.mods && race.flexAbility) result = { ...result, [race.flexAbility]: num(result[race.flexAbility]) + 2 }
+  const choose = (key, options, blank) => {
+    const el = h("select", { style: "width:100%" }, h("option", { value: "" }, blank),
+      ...options.map(([v, label]) => h("option", { value: v, selected: v === race[key] }, label)))
+    el.addEventListener("change", () => { race[key] = el.value; changed(true) })
+    return el
+  }
+  const needsChoice = r.flexMod && !sub?.mods && !race.flexAbility
+  return h("div", { class: "card", style: "margin:.5rem 0" },
+    h("p", { class: "note", style: "margin-top:0" }, "Filled in from ",
+      h("a", { href: isPf(r) ? r.url : `../../${r.url}`, target: "_blank" }, r.name),
+      isPf(r) ? " (Archives of Nethys)" : "", ". Edit any field as needed; add its racial traits on the Feats & Features tab with “+ Add racial trait”."),
+    h("p", { style: "margin:.25rem 0" }, h("strong", {}, "Default ability adjustments: "),
+      [fmtMods(r.mods), r.flexMod ? "+2 to one ability score of your choice" : ""].filter(Boolean).join(", ") || "none"),
+    h("div", { class: "grid" },
+      r.subraces?.length ? field("Subrace / heritage", choose("subrace", r.subraces.map((s) => [s.name,
+        s.mods ? `${s.name} (${fmtMods(s.mods)})` : s.name]), "None (standard)")) : null,
+      r.flexMod && !sub?.mods ? field("+2 to", choose("flexAbility", ABL.map((k) => [k, ABILITIES[k]]), "Choose…")) : null),
+    sub ? h("p", { class: "note" }, sub.summary) : null,
+    h("div", { class: "row", style: "gap:.5rem;align-items:center;flex-wrap:wrap" },
+      h("span", {}, h("strong", {}, "Comes to: "), needsChoice ? "choose the +2 above" : fmtMods(result) || "no adjustments"),
+      h("button", { class: "small", disabled: needsChoice, onclick: () => { race.mods = { ...race.mods, ...Object.fromEntries(ABL.map((k) => [k, num(result[k])])) }; changed(true) } },
+        "Apply to the ability adjustments below")),
+    h("p", { class: "note", style: "margin-bottom:0" }, "These aren't applied automatically: some races have alternate ability scores or a choice (like an aasimar's heritage). Apply them, or set the adjustments below yourself."))
+}
+
 // the race whose racial traits the picker offers: the listed race, else the name typed in
 function currentRaceName() {
   return (RACE_DATA.byId[state.race.ref]?.name ?? state.race.name ?? "").trim()
@@ -741,14 +779,7 @@ const panels = {
         field("Size", select("race.size", Object.fromEntries(Object.entries(SIZES).map(([k, v]) => [k, v[0]])))),
         field("Land speed (ft.)", input("race.speed", { type: "number", min: 0, step: 5 })),
       ),
-      RACE_DATA.byId[state.race.ref] ? (() => {
-        const r = RACE_DATA.byId[state.race.ref]
-        return h("p", { class: "note" }, "Filled in from ",
-          h("a", { href: isPf(r) ? r.url : `../../${r.url}`, target: "_blank" }, r.name),
-          isPf(r) ? " (Archives of Nethys)" : "", ". ",
-          r.flexMod ? "This race gets +2 to one ability score of your choice: enter it below. " : "",
-          "Edit any field as needed; add its racial traits on the Feats & Features tab with “+ Add racial trait”.")
-      })() : null,
+      raceChoices(),
       h("h3", {}, "Racial ability adjustments"),
       h("div", { class: "grid" }, ABL.map((k) => field(ABILITIES[k], input(`race.mods.${k}`, { type: "number", step: 1 })))),
       h("h3", {}, "Racial bonuses"),
