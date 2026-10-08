@@ -333,7 +333,11 @@ function classLink(d) {
 
 function classPicker(cls) {
   const groups = {}
-  for (const c of CLASS_DATA.list) (groups[c.group] ??= []).push(c)
+  // Spheres classes only when "Spheres for PF1e" is on (a row already set to one keeps it listed)
+  for (const c of CLASS_DATA.list) {
+    if (c.system === "Spheres" && !state.spheresModule && c.key !== cls.classRef) continue
+    ;(groups[c.group] ??= []).push(c)
+  }
   const order = [...CLASS_GROUP_ORDER, ...Object.keys(groups).filter((g) => !CLASS_GROUP_ORDER.includes(g))]
   const el = h("select", { style: "width:14rem" },
     h("option", { value: "", selected: !cls.classRef }, CLASS_DATA.loaded ? "Custom (enter below)" : "Loading classes…"),
