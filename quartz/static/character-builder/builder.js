@@ -304,6 +304,61 @@ function field(label, control, hint) {
   return h("label", { class: "field" }, h("span", {}, label), control, hint ? h("span", { class: "note" }, hint) : null)
 }
 
+// ---------- class data (the site's compendium) ----------
+// Spheres classes (compendium/classes.json) and Pathfinder classes from Archives of Nethys
+// (compendium/pf1e/class-stats.json), so picking a class fills in its HD, BAB, saves, skills,
+// class skills and caster progression. Loaded once; the class tab re-renders when it arrives.
+const CLASS_DATA = { list: [], byKey: {}, loaded: false }
+const CLASS_GROUP_ORDER = ["Spherecaster Classes", "Operative Classes", "Practitioner Classes", "Champion Classes",
+  "Prestige Classes", "Pathfinder Classes", "Pathfinder Prestige Classes"]
+async function loadClassData() {
+  const get = (url) => fetch(url).then((r) => (r.ok ? r.json() : { classes: [] })).catch(() => ({ classes: [] }))
+  const [spheres, pf] = await Promise.all([get("../compendium/classes.json"), get("../compendium/pf1e/class-stats.json")])
+  // `key` identifies a listed class ("ref" is taken: it's the Reflex save progression)
+  const list = [
+    ...spheres.classes.map((c) => ({ ...c, key: `spheres:${c.name}`, label: c.name.replace(/ \(Prestige Class\).*$/, "") })),
+    ...pf.classes.map((c) => ({ ...c, key: `pf1e:${c.name}`, label: c.name,
+      group: c.prestige ? "Pathfinder Prestige Classes" : "Pathfinder Classes" })),
+  ].filter((c) => c.hd)
+  CLASS_DATA.list = list
+  CLASS_DATA.byKey = Object.fromEntries(list.map((c) => [c.key, c]))
+  CLASS_DATA.loaded = true
+  if (tab === "classes") renderPanel()
+}
+
+// a class's page: Spheres pages are on this site (the builder lives at static/character-builder/)
+function classLink(d) {
+  return d.system === "Pathfinder" ? d.url : `../../${d.url}`
+}
+
+function classPicker(cls) {
+  const groups = {}
+  for (const c of CLASS_DATA.list) (groups[c.group] ??= []).push(c)
+  const order = [...CLASS_GROUP_ORDER, ...Object.keys(groups).filter((g) => !CLASS_GROUP_ORDER.includes(g))]
+  const el = h("select", { style: "width:14rem" },
+    h("option", { value: "", selected: !cls.classRef }, CLASS_DATA.loaded ? "Custom (enter below)" : "Loading classes…"),
+    ...order.filter((g) => groups[g]).map((g) => h("optgroup", { label: g },
+      ...groups[g].sort((a, b) => a.label.localeCompare(b.label)).map((c) =>
+        h("option", { value: c.key, selected: c.key === cls.classRef }, c.label)))))
+  el.addEventListener("change", () => {
+    const d = CLASS_DATA.byKey[el.value]
+    cls.classRef = el.value  // the listed class this row was filled from ("" = custom)
+    if (d) {
+      cls.name = d.label
+      cls.hd = d.hd ?? cls.hd
+      cls.bab = d.bab ?? cls.bab
+      cls.fort = d.fort ?? cls.fort
+      cls.ref = d.ref ?? cls.ref
+      cls.will = d.will ?? cls.will
+      cls.skills = d.skills ?? cls.skills
+      cls.classSkills = [...(d.classSkills ?? [])]
+      cls.caster = d.caster ?? cls.caster
+    }
+    changed(true)
+  })
+  return el
+}
+
 function changed(rerender) {
   save()
   renderSummary()
@@ -488,7 +543,8 @@ const panels = {
       const p = `classes.${i}.`
       const csCount = cls.classSkills.length
       return h("div", { class: "class-row" },
-        field("Class", input(p + "name", { placeholder: "Fighter, Incanter, …", style: "width:12rem" })),
+        field("Class", classPicker(cls)),
+        field(cls.classRef ? "Name" : "Class name", input(p + "name", { placeholder: "Fighter, Incanter, …", style: "width:12rem" })),
         field("Level", input(p + "level", { type: "number", min: 0, max: 40 })),
         field("Hit die", select(p + "hd", { 4: "d4", 6: "d6", 8: "d8", 10: "d10", 12: "d12" }, {}, { number: true })),
         field("BAB", select(p + "bab", PROGRESSION)),
@@ -501,6 +557,12 @@ const panels = {
           ? field("HP from class", input(p + "hpCustom", { type: "number", min: 0 }))
           : h("div", { class: "field" }, h("span", {}, "HP from class"), h("span", { style: "padding:.3rem 0" }, c.classHp[i])),
         h("div", { style: "flex-basis:100%" }),
+        cls.classRef && CLASS_DATA.byKey[cls.classRef]
+          ? h("p", { class: "note", style: "flex-basis:100%;margin:0" },
+              "Filled in from ", h("a", { href: classLink(CLASS_DATA.byKey[cls.classRef]), target: "_blank" }, CLASS_DATA.byKey[cls.classRef].label),
+              CLASS_DATA.byKey[cls.classRef].system === "Pathfinder" ? " (Archives of Nethys)" : "",
+              ". Archetypes can change these; edit any field as needed.")
+          : null,
         checkbox(p + "favored", "Favored class"),
         cls.favored ? field("FCB: HP", input(p + "fcbHp", { type: "number", min: 0 })) : null,
         cls.favored ? field("FCB: skill ranks", input(p + "fcbSkill", { type: "number", min: 0 })) : null,
@@ -1276,3 +1338,4 @@ try {
 window.addEventListener("storage", (e) => e.key === "theme" && applyTheme(e.newValue))
 
 renderAll()
+loadClassData()
