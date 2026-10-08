@@ -1,7 +1,7 @@
 {
  "sphere": "Commander",
  "system": "Spheres of Might",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "commander/combat-training",

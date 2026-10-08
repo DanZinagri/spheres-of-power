@@ -292,6 +292,15 @@ You gain a +1 trait bonus to saving throws against effects that would impede you
 
 You can play a two-handed instrument with just one hand as long as you spend a swift action each round to maintain the magic effect.
 
+#### Augmentor Specialist
+
+*Source: [Diamond Polished Spheres: Dark Sphere](https://www.drivethrurpg.com/en/product/492540/diamond-polished-spheres-dark-sphere?affiliate_id=3028400)*
+
+*Your classical training taught you that the embellishments to the magic you create should be anything but ordinary.*
+**Category** Magic
+
+Spellcraft is always a class skill for you. In addition, once per day, you may reduce the cost of a single Polished Sphere augment by 1 (minimum 0).
+
 #### Blood Manipulator
 
 You are gifted at manipulating your blood to achieve feats of physics. You may use the Blood sphere to qualify for protokinesis feats as though you possessed the Telekinesis sphere. You may use your Blood sphere caster level in place of your character level or Telekinesis sphere caster level when determining the effects of protokinesis feats you possess (if beneficial to you).
@@ -450,6 +459,15 @@ You have been visited by beings from another dimension, who prepared you for you
 
 **Benefit:** The damage you heal with alter (Repair) increases to 1d8 + 1/2 your caster level. If you possess Potent Alteration, the amount is increased to 1d10 + your caster level.
 
+#### Shadow of Doubt
+
+*Source: [Diamond Polished Spheres: Dark Sphere](https://www.drivethrurpg.com/en/product/492540/diamond-polished-spheres-dark-sphere?affiliate_id=3028400)*
+
+*You have a talent for creating those flickers in the dark,*
+**Category** Magic
+
+You gain a +1 trait bonus to caster level with the Dark sphere and 1 other magic sphere of your choice. This trait bonus cannot cause your caster level in a sphere to exceed your Hit Dice. In addition, you gain a +1 bonus to Bluff and Intimidate while within a darkened area.
+
 #### Smoke And Mirrors
 
 You learned your magic from learning mundane illusionist tricks and adapting that knowledge for use with magic.
@@ -542,6 +560,15 @@ If you do not possess the (herbal) package, the number of herbs you can gather i
 
 **Benefit:** Gain a shadow point and a shadow pool. You are treated as having the create reality class feature for the purposes of meeting prerequisites for surreal feats.
 
+#### Night Watch
+
+*Source: [Diamond Polished Spheres: Dark Sphere](https://www.drivethrurpg.com/en/product/492540/diamond-polished-spheres-dark-sphere?affiliate_id=3028400)*
+
+*You were regularly placed on the night watch, staring out into the darkness to watch for the hungering monsters which lurked beyond the wall.*
+**Category** Region
+
+You gain darkvision 5 feet, increasing by +5 feet per 4 Hit Dice. If you already possess darkvision, instead increase that darkvision by this amount.
+
 #### Tetrachromacy (Jungle)
 
 **Benefit:** You experience a broader spectrum of color. Gain a +2 circumstance bonus to Perception against creatures and objects receiving a circumstance bonus to Stealth and a +2 circumstance bonus to Will saves against visual figments that do not include the Complex Illusions talent.
@@ -577,6 +604,15 @@ You follow a spiritual path of freedom, distancing yourself from the world in or
 **Benefit:** You may choose to count yourself as either one size smaller or one size larger when you would be affected by telekinesis due to your ability to detach yourself from worldly bonds.
 
 ## Social
+
+#### Anonymity’s Shadow
+
+*Source: [Diamond Polished Spheres: Dark Sphere](https://www.drivethrurpg.com/en/product/492540/diamond-polished-spheres-dark-sphere?affiliate_id=3028400)*
+
+*The night hides your face and your intentions.*
+**Category** Social
+
+Once per day as a standard action, you may gain the benefits of the Cloaking Darkness obfuscation option with the gaze into the abyss augment, functioning in any area of illumination except bright light. The caster level of this effect is equal to your Hit Dice and lasts for 10 minutes. This is a supernatural ability.
 
 #### Author
 

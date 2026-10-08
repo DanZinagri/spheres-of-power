@@ -1276,7 +1276,6 @@ def tidy_home(md: str) -> str:
         else:
             lines[at + 1:at + 1] = new
     after(r"\[\[Alternate Racial Traits\]\]", ["[[Alternate Racial Traits (DRS)|Alternate Racial Traits]] [DRS]"])
-    after(r"\[\[Traits\]\]", ["[[Traits (DRS)|Traits]] [DRS]"])
     after(r"\[\[Champion Feats\]\]", ["[[Feats (DRS)|DRS Feats]]"])
     # the Citations Guide is excluded (the citation tags are stripped)
     lines = [l for l in lines if not l.startswith("- [[Citations Guide]]")]
@@ -1505,6 +1504,54 @@ def apply_note_extras() -> int:
                      encoding="utf-8")
         done += 1
     return done
+
+
+# Pages whose entries are folded into another page and then dropped: source page -> target page.
+# Each "## Section" of the source puts its "####" entries into the target's section of that name,
+# alphabetically (the DRS traits page only adds to the categories Traits already has).
+PAGE_FOLDS = {
+    "Traits (DRS)": "Traits",
+}
+
+
+def fold_pages() -> int:
+    files = {f.stem: f for f in CONTENT.rglob("*.md") if ARCHIVE not in f.relative_to(CONTENT).parts}
+    moved = 0
+    for src_name, dest_name in PAGE_FOLDS.items():
+        src, dest = files.get(src_name), files.get(dest_name)
+        if not src or not dest:
+            print(f"warning: fold {src_name!r} into {dest_name!r}: page missing")
+            continue
+        sbody = src.read_text(encoding="utf-8").split(GENERATED_MARK, 1)[-1].split("\n")
+        text = dest.read_text(encoding="utf-8")
+        head, body = text.split(GENERATED_MARK, 1)
+        lines = body.split("\n")
+        section = None
+        entries: list[tuple[str, list[str]]] = []
+        for i, l in enumerate(sbody):
+            if l.startswith("## "):
+                section = l[3:].strip()
+            elif l.startswith("#### ") and section:
+                end = next((j for j in range(i + 1, len(sbody)) if re.match(r"#{1,4} ", sbody[j])), len(sbody))
+                entries.append((section, sbody[i:end]))
+        for section, chunk in entries:
+            at = next((i for i, l in enumerate(lines) if l.strip() == f"## {section}"), None)
+            if at is None:
+                print(f"warning: fold {src_name!r}: no section {section!r} on {dest_name}")
+                continue
+            end = next((j for j in range(at + 1, len(lines)) if re.match(r"#{1,2} ", lines[j])), len(lines))
+            name = _norm(chunk[0][5:])
+            pos = next((j for j in range(at + 1, end) if lines[j].startswith("#### ")
+                        and _norm(lines[j][5:]) > name), end)
+            # chunks carry their trailing blank line; one before the next heading keeps them apart
+            chunk = [c for c in chunk]
+            while chunk and not chunk[-1].strip():
+                chunk.pop()
+            lines[pos:pos] = chunk + [""]
+            moved += 1
+        dest.write_text(head + GENERATED_MARK + re.sub(r"\n{3,}", "\n\n", "\n".join(lines)), encoding="utf-8")
+        src.unlink()
+    return moved
 
 
 def load_extras() -> tuple[dict[str, list[tuple[str, str, str]]], list[tuple[str, str, str]]]:
@@ -2464,7 +2511,7 @@ COMPENDIUM = {
     # options it picks from; its archetypes wait for archetype mapping
     "Commander": {
         "system": "Spheres of Might",
-        "approved": False,
+        "approved": True,
         "pages": [
             ("Commander", "Class Features", "class feature", 2),
             ("Commander", "Enhanced Tactics", "enhanced tactic", 4),
@@ -2757,6 +2804,197 @@ def write_compendium_review(sphere: str, cfg: dict, entries: list[dict]) -> None
     # "(Compendium Review)" keeps the note name unique: a page named just "Dark" would make every
     # [[Dark]] link on the site ambiguous
     dest = CONTENT / COMPENDIUM_REVIEW / f"{sphere} (Compendium Review).md"
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    dest.write_text("\n".join(out), encoding="utf-8")
+
+
+# Feat sections on pages that aren't feat pages (class, race and rules pages): (page, section).
+# Feat pages themselves (names ending in "Feats") are read whole.
+FEAT_SECTIONS = [
+    ("Bravo", "Bravo Feats"), ("Dissident", "Class Feats"), ("Theorist", "Class Feats"),
+    ("Troubadour", "Class Feats"), ("Savant (Class Version)", "Class Feats"),
+    ("Warden (warden-class)", "Warden Feats"), ("Professional", "Professional Feats"),
+    ("Conscript", "Conscript Feats"), ("Sentinel", "Feats"), ("Barista", "New Feats"), ("Hive", "New Feat"),
+    ("Oaths", "Oath Feats"), ("Techniques", "Technique Feats"),
+    ("Tech", "New Crafting Feats"), ("Practitioner Bestiary", "Monster Feats"),
+    ("Mythic Spheres 3", "Mythic Feats"), ("Nocturnus (Mesmerist Archetype)", "Nocturnus Feats"),
+    ("Runesinger (Fighter Archetype)", "Rune Feats"), ("Prismatic Duelist (Swashbuckler Archetype)", "Feats"),
+]
+# feat pages left out: superseded "Old" versions, hub pages, and a lookup table of Pathfinder feats
+FEAT_PAGES_SKIP = re.compile(r"^Old |^Associated Feats|^Feats$|^Dual Sphere Feats$|^Sphere-Focused Feats$")
+FEAT_SYSTEMS = {"might": "Spheres of Might", "champion": "Champions", "guile": "Spheres of Guile",
+                "guile-alt": "Spheres of Guile"}
+FEAT_TYPE_CASE = {"dual sphere": "Dual Sphere", "item creation": "Item Creation", "wild magic": "Wild Magic"}
+FEATS_APPROVED = False
+
+
+def _feat_types(heading: str) -> tuple[str, list[str], list[str], str, list[str]]:
+    """'Airborne Aethermancer (Combat, Racial) [Draconic]' -> name, types, ability types (Su/Ex),
+    what it replaces, other [tags] (a racial feat's race, [plan])."""
+    name, parens, brackets = _split_tags(heading)
+    types, ability, replaces, tags = [], [], "", []
+    parts = [(t, False) for t in parens] + [(t.strip(), True) for b in brackets for t in b.split(",")]
+    for t, bracketed in parts:
+        if t in ("Su", "Ex", "Sp"):
+            ability.append(t)
+        elif t.lower().startswith("replaces "):
+            replaces = t[9:]
+        elif bracketed and t not in ("Dual Sphere", "Combat", "Counterspell"):
+            tags.append(t)
+        elif t:
+            types.append(FEAT_TYPE_CASE.get(t.lower(), t[0].upper() + t[1:]))
+    return name, list(dict.fromkeys(types)) or ["General"], ability, replaces, tags
+
+
+def build_feat_compendium() -> dict[str, int]:
+    """compendium/feats.json: every current Spheres feat (feat pages, and the feat sections of class,
+    race and rules pages), with its types, prerequisites and the spheres those name; and
+    compendium/feats-index.json: those plus the Pathfinder feats (pf1e/feats.json) in one list a
+    tool can filter by system and type."""
+    families = json.loads(FAMILY_FILE.read_text(encoding="utf-8")) if FAMILY_FILE.exists() else {}
+    home = (CONTENT / "index.md").read_text(encoding="utf-8")
+    block = home[home.find("## Spheres"):home.find("## Character Options")]
+    spheres = sorted({(m.group(2) or m.group(1)).strip()
+                      for m in re.finditer(r"\[\[([^\]|\\]+)(?:\\?\|([^\]]*))?\]\]", block)
+                      if not re.search(r"Feats$|Drawbacks$|^Using ", m.group(1))}, key=len, reverse=True)
+    sphere_re = re.compile(r"\b(" + "|".join(map(re.escape, spheres)) + r")\b(?=\s+(?i:sphere)|\s*\(|\s+\d"
+                           r"|\s+associated|\s+package|\s+talent|\s+base)")
+    files = sorted(f for f in CONTENT.rglob("*.md") if ARCHIVE not in f.relative_to(CONTENT).parts
+                   and not f.relative_to(CONTENT).as_posix().startswith(COMPENDIUM_REVIEW))
+    sections: dict[str, list[str]] = {}
+    for page, section in FEAT_SECTIONS:
+        sections.setdefault(page, []).append(section)
+    entries, seen, used_ids = [], {}, set()
+    for f in files:
+        whole = f.stem.endswith("Feats") and not FEAT_PAGES_SKIP.search(f.stem)
+        if not whole and f.stem not in sections:
+            continue
+        body = f.read_text(encoding="utf-8").split(GENERATED_MARK, 1)[-1]
+        lines = body.split("\n")
+        slug = _slugger()
+        ids = [slug(m.group(2)) if (m := re.match(r"(#{1,6}) (.+)$", l)) else "" for l in lines]
+        spans = [(-1, len(lines))] if whole else []
+        for section in sections.get(f.stem, []):
+            if (span := _section_span(lines, section)) is None:
+                print(f"warning: feats: no section {section!r} on {f.stem}")
+            else:
+                spans.append(span[:2])
+        rel = f.relative_to(CONTENT).as_posix()
+        system = FEAT_SYSTEMS.get(families.get(rel, ""), "Spheres of Power")
+        page_sphere = f.stem[:-len(" Sphere Feats")] if f.stem.endswith(" Sphere Feats") else ""
+        page_src = m.group(1) if (m := re.search(r"^\*Source: \[([^\]]+)\]", body, re.M)) else ""
+        found = 0
+        for start, end in spans:
+            label = re.sub(r"<[^>]+>", "", lines[start]).lstrip("# ").strip() if start >= 0 else ""
+            group = f"{f.stem}: {label}" if label else f.stem
+            heads = [k for k in range(start + 1, end) if re.match(r"#{1,6} ", lines[k])]
+            for n, k in enumerate(heads):
+                level = len(re.match(r"#+", lines[k]).group())
+                own_end = heads[n + 1] if n + 1 < len(heads) else end
+                if not re.search(r"\*\*(Prerequisites?|Benefits?)\s*:?\*\*", "\n".join(lines[k + 1:own_end])):
+                    continue
+                stop = next((j for j in heads[n + 1:] if len(re.match(r"#+", lines[j]).group()) <= level), end)
+                md = "\n".join(lines[k + 1:stop]).strip()
+                name, types, ability, replaces, tags = _feat_types(lines[k].lstrip("# "))
+                prereq = m.group(1).strip() if (m := re.search(r"\*\*Prerequisites?\s*:?\*\*:?\s*(.+)", md)) else ""
+                source = page_src
+                for j in range(k, -1, -1):
+                    if (s := re.match(r"^\*Source: \[([^\]]+)\]", lines[j])):
+                        source = s.group(1)
+                        break
+                url = f"{_page_url(f)}#{ids[k]}"
+                # the same feat printed on two pages (a sphere's feats page and Champion Feats, ...)
+                key = (_norm(name), re.sub(r"\W+", "", md.lower()))
+                found += 1
+                if key in seen:  # keep what either printing's heading says (Racial Feats adds the race)
+                    kept = seen[key]
+                    kept["alsoOn"].append(url)
+                    for field, values in (("types", types), ("ability", ability), ("tags", tags)):
+                        kept[field] = list(dict.fromkeys(kept[field] + values))
+                    if len(kept["types"]) > 1 and "General" in kept["types"]:
+                        kept["types"].remove("General")
+                    continue
+                fid = f"feat/{ids[k]}"
+                if fid in used_ids:
+                    fid = f"feat/{_norm(f.stem).replace(' ', '-')}/{ids[k]}"
+                used_ids.add(fid)
+                entry = {
+                    "id": fid, "name": name, "system": system, "types": types, "ability": ability,
+                    "replaces": replaces, "tags": tags, "sphere": page_sphere,
+                    "spheres": sorted(set(sphere_re.findall(prereq)) | ({page_sphere} if page_sphere else set())),
+                    "group": group, "prerequisites": prereq, "source": source, "url": url, "alsoOn": [], "md": md,
+                }
+                seen[key] = entry
+                entries.append(entry)
+        if not found:
+            print(f"warning: feats: none found on {f.stem}")
+    COMPENDIUM_OUT.mkdir(parents=True, exist_ok=True)
+    (COMPENDIUM_OUT / "feats.json").write_text(json.dumps(
+        {"category": "feats", "approved": FEATS_APPROVED, "entries": entries}, ensure_ascii=False, indent=1),
+        encoding="utf-8")
+    index = [{k: e[k] for k in ("id", "name", "system", "types", "spheres", "prerequisites", "source", "url")}
+             | {"file": "feats.json"} for e in entries]
+    pf = COMPENDIUM_OUT / "pf1e" / "feats.json"
+    pf_entries = json.loads(pf.read_text(encoding="utf-8"))["entries"] if pf.exists() else []
+    pf_index = []
+    for e in pf_entries:
+        m = re.match(r"^(.*?)\s*\(([^()]*)\)\s*$", e["name"])
+        name, types = (m.group(1), [t.strip() for t in m.group(2).split(",")]) if m else (e["name"], ["General"])
+        pf_index.append({"id": "pf1e/" + re.sub(r"[^a-z0-9]+", "-", e["name"].lower()).strip("-"), "name": name,
+                         "system": "Pathfinder 1e", "types": types, "spheres": [],
+                         "prerequisites": e["fields"].get("Prerequisites", ""), "source": e["source"],
+                         "url": e["url"], "file": "pf1e/feats.json", "ref": e["name"]})
+    index += pf_index
+    (COMPENDIUM_OUT / "feats-index.json").write_text(json.dumps(index, ensure_ascii=False, indent=1),
+                                                     encoding="utf-8")
+    write_feat_review(entries, pf_index)
+    by_system: dict[str, int] = {}
+    for e in index:
+        by_system[e["system"]] = by_system.get(e["system"], 0) + 1
+    return by_system
+
+
+def write_feat_review(entries: list[dict], pf: list[dict]) -> None:
+    """Meta/Compendium Review/Feats (Compendium Review).md: type counts, then the Spheres feats by page."""
+    def count(es: list[dict]) -> dict[str, int]:
+        c: dict[str, int] = {}
+        for e in es:
+            for t in e["types"]:
+                c[t] = c.get(t, 0) + 1
+        return c
+    out = [f"---\ntitle: {yaml_str('Compendium Review: Feats')}\nnosearch: true\n---\n{GENERATED_MARK}\n",
+           f"What the feat extractor takes from the site ({len(entries)} Spheres feats; "
+           f"{'approved' if FEATS_APPROVED else '**not yet approved**'}), plus the {len(pf)} Pathfinder feats from "
+           "Archives of Nethys they are combined with in one index. Each name links to the feat on its page. A feat "
+           "missing here, or something listed that isn't a feat, means the extractor needs a change. Types come "
+           "from the feat's heading, such as (Combat, Racial); a feat with none is General.", "",
+           "## Types", "", "| Type | Spheres | Pathfinder |", "| --- | --- | --- |"]
+    sp, pfc = count(entries), count(pf)
+    for t in sorted(set(sp) | set(pfc), key=lambda t: -(sp.get(t, 0) + pfc.get(t, 0))):
+        out.append(f"| {t} | {sp.get(t, '—')} | {pfc.get(t, '—')} |")
+    out.append("")
+    cell = lambda s: s.replace("|", "\\|").replace("\n", " ")
+    groups: dict[str, list[dict]] = {}
+    for e in entries:
+        groups.setdefault(e["group"], []).append(e)
+    for system in ("Spheres of Power", "Spheres of Might", "Spheres of Guile", "Champions"):
+        gs = [g for g, es in groups.items() if es[0]["system"] == system]
+        if not gs:
+            continue
+        out += [f"## {system} ({sum(len(groups[g]) for g in gs)})", ""]
+        for g in gs:
+            out += [f"### {g} ({len(groups[g])})", "",
+                    "| Feat | Types | Spheres | Other | Prerequisites |", "| --- | --- | --- | --- | --- |"]
+            for e in groups[g]:
+                page, anchor = e["url"].split("#", 1)
+                other = ", ".join(e["ability"] + [f"[{t}]" for t in e["tags"]]
+                                  + ([f"replaces {e['replaces']}"] if e["replaces"] else [])
+                                  + ([f"also on {len(e['alsoOn'])} other page(s)"] if e["alsoOn"] else []))
+                out.append(f"| [[{page.split('/')[-1]}#{anchor}\\|{cell(e['name'])}]] | {', '.join(e['types'])} | "
+                           f"{', '.join(e['spheres']) or '—'} | {cell(other) or '—'} | "
+                           f"{cell(e['prerequisites'][:120]) or '—'} |")
+            out.append("")
+    dest = CONTENT / COMPENDIUM_REVIEW / "Feats (Compendium Review).md"
     dest.parent.mkdir(parents=True, exist_ok=True)
     dest.write_text("\n".join(out), encoding="utf-8")
 
@@ -3113,31 +3351,6 @@ _MYTHIC_COMMANDER = [
     (r"^### Mythic Expert Tactician\n\n.*\n+", ""),
 ]
 REWRITE_PAGES = {
-    "Martial Packages": [  # the Leader package
-        (r"At 1st, Leaders can use Verbal Commands", "At 1st, Leaders can use Signal Coordinator's complex commands"),
-        (r"At 2nd, Frightful Roar helps", "At 2nd, Fearmonger Doctrine helps"),
-        (r"At 5th, Leaders gain Breath Support - this is mainly a setup for Explosive Ululation at 6th, which gives",
-         "At 5th, Leaders gain another Warleader talent of their choice (Breath Support's shaped commands are now "
-         "part of Signal Coordinator). Perimeter Doctrine at 6th gives"),
-        (r"Rousing Claxon at 9th gives all allies some temporary hit points - but it's mainly a setup for Recall "
-         r"Spirit at 10th, which Leaders can use to shout allies back to life",
-         "Survival Doctrine at 9th gives all allies some temporary hit points - but it's mainly a setup for Clarion "
-         "Caller at 10th, whose Return and Live! shout Leaders can use to call allies back to life"),
-        (r"Legion Unending at 16th is an intervention to help keep allies alive, while Unending Loyalty at 17th "
-         r"makes it even easier to call allies back to life\.",
-         "Armies of the Dead at 16th is an intervention to help keep allies alive, while at 17th Leaders gain "
-         "another Warleader talent of their choice (Unending Loyalty is now Clarion Caller's unending augment)."),
-        (r"1: Warleader: Verbal Commands", "1: Warleader: Signal Coordinator"),
-        (r"2: Warleader: Frightful Roar \(shout\)", "2: Warleader: Fearmonger Doctrine"),
-        (r"3: Warleader: Coordinated Reflexes \(tactic\)", "3: Warleader: Safety Doctrine"),
-        (r"4: Warleader: Deadly Herdsman \(tactic\)", "4: Warleader: Control Doctrine"),
-        (r"5: Warleader: Breath Support", "5: Warleader: any talent"),
-        (r"6: Warleader: Explosive Ululation \(shout\)", "6: Warleader: Perimeter Doctrine"),
-        (r"9: Warleader: Rousing Claxon \(shout\)", "9: Warleader: Survival Doctrine"),
-        (r"10: Warleader: Recall Spirit \(shout\)", "10: Warleader: Clarion Caller"),
-        (r"16: Warleader: Legion Unending \(tactic\)", "16: Warleader: Armies of the Dead"),
-        (r"17: Warleader: Unending Loyalty \(shout\)", "17: Warleader: any talent"),
-    ],
     "Associated Feats & Skills": [  # Masterful Coordination (tactic) was removed
         (r"^\| Harrying Partners \|[^\n]*\n", ""),
     ],
@@ -3911,6 +4124,7 @@ def convert(with_images: bool) -> None:
     print(f"Heading levels normalized: {normalize_heading_levels()} pages")
     print(f"Polished Dark tabs added: {polished_dark_tabs()} pages")
     print(f"Hand-entered additions to finished pages: {apply_note_extras()} pages")
+    print(f"Entries folded into other pages: {fold_pages()}")
     # Ultimate versions replaced by Polished ones move to the Archive's Retired Ultimate section
     retired = retire_pages(derived_notes)
     retired.update(retire_ultimate(derived_notes))
@@ -3936,6 +4150,7 @@ def convert(with_images: bool) -> None:
     print(f"Search types: {tag_search_types()}")
     print(f"Compendium entries: {build_compendium()}")
     print(f"Compendium classes: {build_class_compendium()}")
+    print(f"Compendium feats: {build_feat_compendium()}")
 
     # folders emptied by exclusions or renames
     for d in sorted((d for d in CONTENT.rglob("*") if d.is_dir()), key=lambda d: -len(d.parts)):

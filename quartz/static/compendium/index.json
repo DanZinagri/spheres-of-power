@@ -2368,7 +2368,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#combat-training",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/battlefield-operator",
@@ -2384,7 +2384,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#battlefield-operator",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/lingering-commands-ex",
@@ -2402,7 +2402,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#lingering-commands-ex",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/decorum-ex",
@@ -2420,7 +2420,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#decorum-ex",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/enhanced-tactic-ex",
@@ -2438,7 +2438,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#enhanced-tactic-ex",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/battlefield-specialty-ex",
@@ -2456,7 +2456,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#battlefield-specialty-ex",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/commanders-inspiration-ex",
@@ -2474,7 +2474,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#commanders-inspiration-ex",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/logistics-specialty-ex",
@@ -2492,7 +2492,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#logistics-specialty-ex",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/seize-the-moment-ex",
@@ -2512,7 +2512,7 @@
    "Seize the Moment"
   ],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/never-falter-ex",
@@ -2530,7 +2530,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#never-falter-ex",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/major-general-ex",
@@ -2548,7 +2548,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#major-general-ex",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/lord-commander-ex",
@@ -2566,7 +2566,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#lord-commander-ex",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/command-attack",
@@ -2582,7 +2582,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#command-attack",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/coordinated-specialist",
@@ -2598,7 +2598,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#coordinated-specialist",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/command-attack-improved",
@@ -2614,7 +2614,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#command-attack-improved",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/command-movement",
@@ -2630,7 +2630,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#command-movement",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/command-strategy",
@@ -2646,7 +2646,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#command-strategy",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/constant-orders",
@@ -2662,7 +2662,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#constant-orders",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/counterstratagem",
@@ -2678,7 +2678,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#counterstratagem",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/duty-of-cunning-duty",
@@ -2696,7 +2696,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#duty-of-cunning-duty",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/duty-of-prescience-duty",
@@ -2714,7 +2714,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#duty-of-prescience-duty",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/duty-of-valor-duty",
@@ -2732,7 +2732,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#duty-of-valor-duty",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/endless-preparations",
@@ -2748,7 +2748,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#endless-preparations",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/expert-coordinator",
@@ -2764,7 +2764,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#expert-coordinator",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/fading-fire",
@@ -2780,7 +2780,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#fading-fire",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/generals-steed",
@@ -2796,7 +2796,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#generals-steed",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/improved-duty",
@@ -2812,7 +2812,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#improved-duty",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/mountaineering",
@@ -2828,7 +2828,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#mountaineering",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/positioning-superiority",
@@ -2844,7 +2844,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#positioning-superiority",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/reckless-gambit",
@@ -2860,7 +2860,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#reckless-gambit",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/target-designation",
@@ -2876,7 +2876,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#target-designation",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/troop-upkeep",
@@ -2892,7 +2892,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#troop-upkeep",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/unrelenting-march",
@@ -2908,7 +2908,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#unrelenting-march",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/cold",
@@ -2924,7 +2924,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#cold",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/desert",
@@ -2940,7 +2940,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#desert",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/forest",
@@ -2956,7 +2956,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#forest",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/mountain",
@@ -2972,7 +2972,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#mountain",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/plains",
@@ -2988,7 +2988,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#plains",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/swamp",
@@ -3004,7 +3004,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#swamp",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/urban",
@@ -3020,7 +3020,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#urban",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/underground",
@@ -3036,7 +3036,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#underground",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/water",
@@ -3052,7 +3052,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#water",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/call-in-a-specialist-plan",
@@ -3075,7 +3075,7 @@
    "Scouting Specialist"
   ],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/faction-connections",
@@ -3091,7 +3091,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#faction-connections",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/leadership-connections",
@@ -3107,7 +3107,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#leadership-connections",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/mercantile-connections-plan",
@@ -3125,7 +3125,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#mercantile-connections-plan",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/overland-march-plan",
@@ -3143,7 +3143,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#overland-march-plan",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/requisition-plan",
@@ -3165,7 +3165,7 @@
    "Requisition Provisions"
   ],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/all-terrain-armoire",
@@ -3181,7 +3181,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#all-terrain-armoire",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/amplifying-horn",
@@ -3197,7 +3197,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#amplifying-horn",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/tactics-manual",
@@ -3213,7 +3213,7 @@
   "url": "Spheres-Of-Might/Commander/Commander#tactics-manual",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/expanded-battlefield-specialty-plan",
@@ -3231,7 +3231,7 @@
   "url": "Spheres-Of-Might/Practitioner-Feats#expanded-battlefield-specialty-plan",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/extra-battlefield-specialization",
@@ -3247,6 +3247,6 @@
   "url": "Spheres-Of-Might/Practitioner-Feats#extra-battlefield-specialization",
   "options": [],
   "file": "commander.json",
-  "approved": false
+  "approved": true
  }
 ]

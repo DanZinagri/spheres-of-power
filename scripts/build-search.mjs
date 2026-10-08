@@ -54,8 +54,25 @@ let records = 0
 for (const file of fs.existsSync(COMPENDIUM) ? fs.readdirSync(COMPENDIUM) : []) {
   if (!file.endsWith(".json") || file === "index.json") continue
   const data = JSON.parse(fs.readFileSync(path.join(COMPENDIUM, file), "utf-8"))
+  // feats.json: every Spheres feat (a sphere file's own feats are skipped below, so they aren't doubled)
+  if (data.category === "feats" && Array.isArray(data.entries)) {
+    for (const e of data.entries) {
+      const r = await index.addCustomRecord({
+        url: `/${e.url}`,
+        content: `${e.name}. ${e.name}. ${e.types.map((t) => `(${t})`).join(" ")} ${plain(e.md)}`.trim(),
+        language: "en",
+        meta: { title: `${e.name} — ${e.types.join(", ")} feat`, image: "" },
+        filters: { System: [e.system], Type: ["Feats"] },
+        sort: { title: e.name },
+      })
+      if (r.errors.length) throw new Error(r.errors.join("\n"))
+      records++
+    }
+    continue
+  }
   if (!data.sphere || !Array.isArray(data.entries)) continue // only sphere entry files (not classes.json etc.)
   for (const e of data.entries) {
+    if (e.kind === "feat") continue // in feats.json
     const page = "/" + e.url.split("#")[0]
     const type = KIND_TYPE[e.kind] ?? "Talents"
     const where = `${e.sphere} ${e.kind}`
