@@ -1365,7 +1365,6 @@ def tidy_home(md: str) -> str:
             print(f"warning: home: no line {line_re!r}")
         else:
             lines[at + 1:at + 1] = new
-    after(r"\[\[Champion Feats\]\]", ["[[Feats (DRS)|DRS Feats]]"])
     # the Citations Guide is excluded (the citation tags are stripped)
     lines = [l for l in lines if not l.startswith("- [[Citations Guide]]")]
     # the House Rules section's pages are excluded (EXCLUDED_PAGES); drop its heading and intro too
@@ -1690,6 +1689,28 @@ PAGE_FOLDS = {
 # "**Armiger:** ..."): each class page's "Favored Class Bonuses" section gets the races it doesn't
 # already list (the class page's own wording wins), and the page goes.
 FCB_FOLDS = ["Practitioner FCB's", "Champion FCBs"]
+# Small pages appended whole to another page as a new last section: source -> (target, heading)
+SECTION_FOLDS = {"Feats (DRS)": ("Feats", "DRS Feats")}
+
+
+def fold_sections() -> int:
+    files = {f.stem: f for f in CONTENT.rglob("*.md") if ARCHIVE not in f.relative_to(CONTENT).parts}
+    done = 0
+    for src_name, (dest_name, heading) in SECTION_FOLDS.items():
+        src, dest = files.get(src_name), files.get(dest_name)
+        if not src or not dest:
+            print(f"warning: section fold {src_name!r} into {dest_name!r}: page missing")
+            continue
+        body = src.read_text(encoding="utf-8").split(GENERATED_MARK, 1)[-1].strip()
+        # its headings sit one level under the new section's
+        level = min((len(m.group(1)) for m in re.finditer(r"^(#{1,6}) ", body, re.M)), default=3)
+        body = re.sub(r"^(#{1,6}) ", lambda m: "#" * min(6, len(m.group(1)) - level + 4) + " ", body, flags=re.M)
+        text = dest.read_text(encoding="utf-8").rstrip("\n")
+        dest.write_text(f"{text}\n\n---\n\n### {heading}\n\n{body}\n", encoding="utf-8")
+        src.unlink()
+        drop_page_links(src_name)
+        done += 1
+    return done
 
 
 def fold_fcbs() -> int:
@@ -4111,7 +4132,7 @@ def write_compendium_review(sphere: str, cfg: dict, entries: list[dict]) -> None
 # Feat pages themselves (names ending in "Feats") are read whole.
 FEAT_SECTIONS = [
     # (base classes' feats are on their own "<Class> Feats" pages: split_class_feats)
-    ("Barista", "New Feats"), ("Hive", "New Feat"),
+    ("Barista", "New Feats"), ("Hive", "New Feat"), ("Feats", "DRS Feats"),
     ("Oaths", "Oath Feats"), ("Techniques", "Technique Feats"),
     ("Tech", "New Crafting Feats"), ("Practitioner Bestiary", "Monster Feats"),
     ("Mythic Spheres 3", "Mythic Feats"), ("Nocturnus (Mesmerist Archetype)", "Nocturnus Feats"),
@@ -7081,6 +7102,7 @@ def convert(with_images: bool) -> None:
     print(f"Hand-entered additions to finished pages: {apply_note_extras()} pages")
     print(f"Entries folded into other pages: {fold_pages()}")
     print(f"Favored class bonuses moved to class pages: {fold_fcbs()}")
+    print(f"Pages folded into another page's section: {fold_sections()}")
     # Ultimate versions replaced by Polished ones move to the Archive's Retired Ultimate section
     retired = retire_pages(derived_notes)
     retired.update(retire_ultimate(derived_notes))

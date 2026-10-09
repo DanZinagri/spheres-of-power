@@ -12655,6 +12655,34 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/defiant-magic",
+  "name": "Defiant Magic",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Casting class feature.",
+  "source": "Polished Dark",
+  "url": "Spheres-Of-Power/Feats/Feats#defiant-magic",
+  "summary": "You add +2 to your MSB and MSD for the purposes of conflicting sphere abilities.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/organization-obedience",
+  "name": "Organization Obedience",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Knowledge (any) 3 ranks; membership in an organization.",
+  "source": "Polished Dark",
+  "url": "Spheres-Of-Power/Feats/Feats#organization-obedience",
+  "summary": "Select a single organization you are a member of.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/advanced-magic-training",
   "name": "Advanced Magic Training",
   "system": "Spheres of Power",

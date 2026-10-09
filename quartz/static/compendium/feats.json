@@ -17430,6 +17430,44 @@
    "md": "**Prerequisite:** Wraith haunt class feature.\n\n**Benefit:** You gain an additional wraith haunt. You may take this feat multiple times. The effects stack.\n\n---\n\n*Archived: [[Extra Feats (Original)|Original version]] (from before *Ultimate Spheres of Power*)*"
   },
   {
+   "id": "feat/defiant-magic",
+   "name": "Defiant Magic",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Feats: DRS Feats",
+   "prerequisites": "Casting class feature.",
+   "source": "Polished Dark",
+   "url": "Spheres-Of-Power/Feats/Feats#defiant-magic",
+   "alsoOn": [],
+   "md": "*Your magic bows to none.*\n**Prerequisites:** Casting class feature.\n\n**Benefit:** You add +2 to your MSB and MSD for the purposes of conflicting sphere abilities. When creating a sphere ability that will conflict with another effect (i.e. you are creating the effect and it will immediately conflict with another effect), you may spend +1 spell point to double this feat’s bonuses for the initial magic skill check made by the conflicting sphere effect (but not for future conflicts)."
+  },
+  {
+   "id": "feat/organization-obedience",
+   "name": "Organization Obedience",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Feats: DRS Feats",
+   "prerequisites": "Knowledge (any) 3 ranks; membership in an organization.",
+   "source": "Polished Dark",
+   "url": "Spheres-Of-Power/Feats/Feats#organization-obedience",
+   "alsoOn": [],
+   "md": "*Source: Diamond Spheres: Magical Organizations*\n\n**Prerequisites:** Knowledge (any) 3 ranks; membership in an organization.\n\n**Benefit:** Select a single organization you are a member of. You devote yourself to this organization and, once selected, this feat's benefits cannot be changed (nor can you be a member of any other organization for their organization benefits).\n\nChoose 2 skills associated with your organization's organization check. You gain a +2 bonus on skill checks made with the chosen skills, increasing to +4 at 10th level.\n\nIf you have 8 or more Hit Dice, you gain the 5 Fame award from your organization.\n\nIf you have 12 or more Hit Dice, you gain the 20 Fame award from your organization.\n\nIf you have 16 or more Hit Dice, you gain the 50 Fame award from your organization.\n\nThe awards granted by this feat are constant so long as you maintain membership with your organization. If you are ever removed from your organization, you lose access to the organization's awards. This feat does not grant an organization's rewards, nor does it grant Fame or PP with that organization.\n\n**Author's Note:** This feat is intended to serve as a more regimented means of access to a magical organization's awards without engaging with the organization rules. Just like the Deific Obedience feat (and similar), certain organization awards may be unsuitable for a game, subject to GM discretion (just as a deity's boons may be restricted or disallowed for being disruptive or undesirable)."
+  },
+  {
    "id": "feat/advanced-magic-training",
    "name": "Advanced Magic Training",
    "system": "Spheres of Power",
