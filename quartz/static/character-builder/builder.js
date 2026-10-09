@@ -1286,10 +1286,24 @@ function traditionLine(t) {
 }
 
 async function openTradition(t) {
-  const index = await loadCompendium("index.json", [])
+  const [index, bases] = await Promise.all([loadCompendium("index.json", []), loadCompendium("sphere-bases.json", {})])
   const talentKinds = new Set(["talent", "advanced talent", "legendary talent", "exceptional talent"])
   const talentsOf = (sphere, filter) => index.filter((e) => e.sphere === sphere && talentKinds.has(e.kind)
     && (!filter || (e.tags ?? []).includes(filter))).sort((a, b) => a.name.localeCompare(b.name))
+  // a fixed drawback whose bonus talent has to be a certain one (sphere-bases.json "requires"):
+  // one allowed talent is added for you, several are a choice
+  const drawbackRule = (g) => Object.entries(bases[g.sphere]?.requires ?? {})
+    .find(([n]) => n.replace(/\s*\(.*\)\s*$/, "").toLowerCase() === g.name.toLowerCase())?.[1]?.bonus
+  const drawbackBonus = t.grants.filter((g) => g.type === "drawback" && drawbackRule(g)).map((g) => {
+    const r = drawbackRule(g)
+    const named = t.grants.some((x) => x.type === "talent" && x.sphere === g.sphere && r.names.includes(x.name))
+    const allowed = talentsOf(g.sphere).filter((e) => r.names.includes(e.name)
+      || [...(e.tags ?? []), ...(e.talentTags ?? [])].some((tg) => r.tags.includes(String(tg).toLowerCase())))
+    const sel = h("select", { "aria-label": `${g.name}: bonus talent` },
+      h("option", { value: "" }, "Choose its bonus talent…"),
+      ...allowed.map((e) => h("option", { value: e.name, selected: allowed.length === 1 }, e.name)))
+    return { g, r, named, allowed, sel }
+  }).filter((d) => !d.named && d.allowed.length)
   // per choice: the chosen option, and per pick the selected talents ("sphere|name")
   const picked = t.choices.map((c) => ({ option: c.options.length === 1 ? 0 : -1, picks: {} }))
   const describe = (x) => (x.type === "sphere" ? `${x.sphere} sphere${x.note ? ` ${x.note}` : ""}` : x.type === "talent" ? `${x.name} (${x.sphere})`
@@ -1319,6 +1333,10 @@ async function openTradition(t) {
     h("p", {}, h("strong", {}, "Grants: "), t.grants.map(describe).join(", ") || "nothing fixed (all choices)"),
     t.notes.length ? h("ul", { class: "note" }, t.notes.map((n) => h("li", {}, n))) : null,
     t.choices.length ? h("div", { class: "trad-choices" }, t.choices.map(choiceBlock)) : null,
+    ...drawbackBonus.map((d) => h("fieldset", { class: "card trad-choice" },
+      h("legend", {}, `Bonus talent from the ${d.g.name} drawback (${d.g.sphere})`),
+      h("p", { class: "note" }, `${d.r.text.replace(/\.?$/, ".")} It's free (it counts once the drawback is bought off).`),
+      d.allowed.length === 1 ? h("p", {}, h("b", {}, d.allowed[0].name), " is added with the drawback.") : d.sel)),
     error,
     h("div", { class: "row add-row" },
       h("button", { class: "primary", onclick: async () => {
@@ -1333,6 +1351,10 @@ async function openTradition(t) {
             if (!v && !o.free) return showError(`Choose the talent${p.count > 1 ? "s" : ""} for: ${c.text}`)
             if (v) { const [sphere, name] = v.split("|"); grants.push({ type: "talent", sphere, name }) }
           }
+        }
+        for (const d of drawbackBonus) {
+          if (!d.sel.value) return showError(`Choose the bonus talent for the ${d.g.name} drawback`)
+          grants.push({ type: "talent", sphere: d.g.sphere, name: d.sel.value, grantedBy: d.g.name })
         }
         await applyTradition(t, grants, index)
         dlg.done()
@@ -1365,6 +1387,7 @@ async function applyTradition(t, grants, index) {
       const full = e ? (await loadCompendium(e.file, { entries: [] })).entries.find((x) => x.id === e.id) : null
       Object.assign(row, { name: e?.name ?? g.name, tags: e?.tags?.join(", ") ?? "", ref: e?.id,
         desc: [mdToText(full?.md ?? e?.summary ?? ""), ...(full?.options ?? []).map((o) => `${o.name}\n${mdToText(o.md)}`)].filter(Boolean).join("\n\n") })
+      if (g.grantedBy) Object.assign(row, { exclude: true, grantedBy: g.grantedBy, tags: [row.tags, "granted"].filter(Boolean).join(", ") })
     }
     state.talents.push(row)
   }
