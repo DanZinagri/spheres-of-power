@@ -2752,7 +2752,7 @@ COMPENDIUM = {
     },
     "Mind": {
         "system": "Spheres of Power",
-        "approved": False,
+        "approved": True,
         "pages": [
             # Charm, with Suggestion
             ("Mind", "## Charm", "sphere ability", 2, 4),
@@ -2766,6 +2766,21 @@ COMPENDIUM = {
         ],
         # the (cloud) / (cognition) talent type notes under Charm
         "not_options": r"^Table|^Note|^Cloud$|^Cognition$",
+    },
+    "Nature": {
+        "system": "Spheres of Power",
+        "approved": False,
+        "pages": [
+            # Geomancing, with its six packages (Air, Earth, Fire, Metal, Plant, Water)
+            ("Nature", "## Geomancing", "sphere ability", 2, 4),
+            ("Nature", "Nature Talents", "talent", 4),
+            ("Nature", "Geomancing Talents", "talent", 4),
+            ("Nature", "Spirit Talents", "talent", 4),
+            ("Nature", "Advanced Nature Talents", "advanced talent", 4),
+            ("Nature Sphere Feats", "(page)", "feat", 4),
+            ("Nature Sphere Drawbacks", "(page)", "drawback", 4),
+        ],
+        "not_options": r"^Table|^Note",
     },
     "Warleader": {
         "system": "Spheres of Might",

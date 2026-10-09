@@ -28073,7 +28073,7 @@
   ],
   "summary": "You may place charms on creatures.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/charming-strike-strike",
@@ -28092,7 +28092,7 @@
   "options": [],
   "summary": "You may deliver charms via a melee touch attack.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/expanded-charm",
@@ -28109,7 +28109,7 @@
   "options": [],
   "summary": "Your charms may affect creatures of any creature type, instead of just your own.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/instill-charm-instill",
@@ -28128,7 +28128,7 @@
   "options": [],
   "summary": "As a standard action you may touch a small container of liquid and instill a charm inside it, which functions as a potion or oil.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/mass-charm-mass",
@@ -28147,7 +28147,7 @@
   "options": [],
   "summary": "When using a charm, you may spend an additional spell point to charm an additional 1 creature per 2 caster levels (minimum 1) at the same time.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/mental-backdoor",
@@ -28164,7 +28164,7 @@
   "options": [],
   "summary": "If a target would fail their saving throw against one of your charms, you may spend a spell point to force them to immediately attempt a second Will saving…",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/powerful-charm",
@@ -28181,7 +28181,7 @@
   "options": [],
   "summary": "You may spend 2 spell points to use the powerful charm and powerful cloud version of any charm or cloud you possess.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/psychic-vengeance",
@@ -28198,7 +28198,7 @@
   "options": [],
   "summary": "When you succeed at a Will save against a mind-affecting effect, you may spend 1 spell point as an immediate action to target the source of that effect with a…",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/ranged-mind-range",
@@ -28217,7 +28217,7 @@
   "options": [],
   "summary": "Increase the range you may charm targets by 1 step (close to medium, medium to long).",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/subtlety",
@@ -28234,7 +28234,7 @@
   "options": [],
   "summary": "If a target succeeds on their save against one of your charms, they must immediately attempt a second Will save.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/amnesia-charm",
@@ -28253,7 +28253,7 @@
   "options": [],
   "summary": "You may reach into a subject’s memory and remove information and awareness of people, places, things, or events.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/calm-charm",
@@ -28272,7 +28272,7 @@
   "options": [],
   "summary": "You may suppress emotions in hostile creatures or provide ease to excitement and confidence.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/candor-charm-utility",
@@ -28293,7 +28293,7 @@
   "options": [],
   "summary": "You compel words of honesty in your subject, bringing truth to their voice.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/cerebral-strike-charm",
@@ -28312,7 +28312,7 @@
   "options": [],
   "summary": "You unleash a storm of psychic energy that invades the mind of your subject.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/command-charm",
@@ -28331,7 +28331,7 @@
   "options": [],
   "summary": "You may directly control another creature’s body.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/confusion-charm",
@@ -28350,7 +28350,7 @@
   "options": [],
   "summary": "You may unravel a creature’s mind and make them behave erratically.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/courage-charm",
@@ -28369,7 +28369,7 @@
   "options": [],
   "summary": "Lesser Charm: The target may choose one attack roll, saving throw, ability check, or skill check it makes within the next minute.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/disrupt-focus-charm",
@@ -28388,7 +28388,7 @@
   "options": [],
   "summary": "You can make it harder for a target to concentrate on using their magic.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/enthrall-charm-utility",
@@ -28409,7 +28409,7 @@
   "options": [],
   "summary": "If you or your allies are attacking or threatening the creature, they gain a +5 bonus to their saving throw against this charm.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/esteem-charm",
@@ -28428,7 +28428,7 @@
   "options": [],
   "summary": "Lesser Charm: You grant a competence bonus to a single Intelligence, Wisdom, or Charisma-based skill check of the target’s choice equal to 1/2 your caster…",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/fascinate-charm",
@@ -28447,7 +28447,7 @@
   "options": [],
   "summary": "Lesser Charm: The target suffers a -2 penalty to Perception checks for 1 round per caster level.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/fear-charm",
@@ -28466,7 +28466,7 @@
   "options": [],
   "summary": "You may warp a target’s mind with fear.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/flabbergast-charm",
@@ -28485,7 +28485,7 @@
   "options": [],
   "summary": "You bombard the target with shocking revelations and displays which leave them reeling.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/gestures-charm",
@@ -28504,7 +28504,7 @@
   "options": [],
   "summary": "You may impose a failure chance on any other magic user whose magic requires a somatic component equal to 10% + an additional 5% for every 5 caster levels…",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/hostility-charm",
@@ -28523,7 +28523,7 @@
   "options": [],
   "summary": "The target gains a +2 morale bonus to Strength and Constitution, a +1 bonus to Will saves, and a -2 penalty to AC.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/incense-charm",
@@ -28542,7 +28542,7 @@
   "options": [],
   "summary": "Greater Charm: This functions as the lesser charm, except that you may make the target enraged for the duration rather than angry or livid.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/inception-charm-utility",
@@ -28563,7 +28563,7 @@
   "options": [],
   "summary": "Lesser Charm: You may “create a rumor” in a target’s mind, suggesting information that a target “heard somewhere” or “read once” but that they have not…",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/inspiration-charm",
@@ -28582,7 +28582,7 @@
   "options": [],
   "summary": "Lesser Charm: As an immediate action, you may add a +2 competence bonus to a skill check or attack roll the target has just made.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/mind-shield-charm",
@@ -28601,7 +28601,7 @@
   "options": [],
   "summary": "You may establish a ward on the mind of another, one capable of providing protection from mental assault.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/mind-spy-charm",
@@ -28620,7 +28620,7 @@
   "options": [],
   "summary": "You can send a piece of your mind into your target to see the world through their eyes (save negates).",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/paralyze-charm",
@@ -28639,7 +28639,7 @@
   "options": [],
   "summary": "You freeze the target in place.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/project-thoughts-charm-utility",
@@ -28660,7 +28660,7 @@
   "options": [],
   "summary": "You can communicate directly into the mind of another.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/read-mind-charm-utility",
@@ -28681,7 +28681,7 @@
   "options": [],
   "summary": "You can pull information from a target’s mind.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/recommend-charm",
@@ -28700,7 +28700,7 @@
   "options": [],
   "summary": "Lesser Charm: For 1 round per caster level, whenever the target fails an attack roll, skill check, saving throw, or ability check, at the start of the target’s…",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/sleep-charm",
@@ -28719,7 +28719,7 @@
   "options": [],
   "summary": "Whenever the sleeping target takes damage or another creature attempts to wake it as a standard action, the target does not automatically awaken, but instead…",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/utterances-charm",
@@ -28738,7 +28738,7 @@
   "options": [],
   "summary": "Lesser Charm: You can tug on the strings of conversation, altering the sounds of words, inserting or negating vocalizations as you see fit.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/vision-charm",
@@ -28757,7 +28757,7 @@
   "options": [],
   "summary": "You may make someone see things that are not there.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/wrack-charm",
@@ -28776,7 +28776,7 @@
   "options": [],
   "summary": "You flood your target with disturbing sensations Lesser Charm: You cause the target to become sickened for 1 round per caster level (Will negates).",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/dispersion-cloud",
@@ -28795,7 +28795,7 @@
   "options": [],
   "summary": "You imbue a creature or object with a field of refracting cognitive energy that makes it difficult to focus on what or where the field masks.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/lure-cloud",
@@ -28814,7 +28814,7 @@
   "options": [],
   "summary": "You may cause a location or object to radiate a cloud that invites or repels either creatures of a given type (such as monstrous humanoids or outsiders with…",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/misdirect-cloud",
@@ -28833,7 +28833,7 @@
   "options": [],
   "summary": "Greater Cloud: As the lesser cloud, but you determine the new direction of travel when imbuing the area with the cloud and may select a number of familiar…",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/suppress-cloud",
@@ -28852,7 +28852,7 @@
   "options": [],
   "summary": "Additionally, whenever a creature benefiting from a sphere effect granting them additional languages or insights into language would enter the cloud, you may…",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/arcane-calculation-cognition-utility",
@@ -28873,7 +28873,7 @@
   "options": [],
   "summary": "When you use Perception to intentionally search for stimuli (typically a move action), you may measure a single aspect of whatever you perceive.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/intuit-knowledge-cognition-utility",
@@ -28894,7 +28894,7 @@
   "options": [],
   "summary": "You may spend a spell point as a full-round action to gain temporary understanding of a subject.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/mental-archive-cognition-utility",
@@ -28915,7 +28915,7 @@
   "options": [],
   "summary": "By concentrating as long it requires to perceive something (such as the duration of a speech or while reading a book), you can archive it.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/parallel-cognition-cognition-utility",
@@ -28936,7 +28936,7 @@
   "options": [],
   "summary": "As a standard action you can divide your mental attention to gain two sets of actions each turn, one physical and one mental.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/polyglot-cognition-utility",
@@ -28957,7 +28957,7 @@
   "options": [],
   "summary": "As a standard action you may gain a rough understanding of a target’s language.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/rapid-processing-cognition-utility",
@@ -28978,7 +28978,7 @@
   "options": [],
   "summary": "You can analyze information with a glance.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/terrifying-mind-cognition",
@@ -28997,7 +28997,7 @@
   "options": [],
   "summary": "Whenever you succeed a saving throw against a mind-affecting effect, you may spend 1 spell point as a free action that can be taken outside of your turn to…",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/catatonia",
@@ -29014,7 +29014,7 @@
   "options": [],
   "summary": "Whenever you use the Sleep (charm) powerful charm, you may spend an additional spell point.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/deadly-vision-charm",
@@ -29033,7 +29033,7 @@
   "options": [],
   "summary": "As a greater charm, you may spend 2 spell points to give the target a vision of the most fearsome creature imaginable, pulling its subconscious fears into a…",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/discern-alien-cognition",
@@ -29050,7 +29050,7 @@
   "options": [],
   "summary": "You may spend 1 spell point to have a Mind sphere effect you create ignore any immunity to fear, sleep, paralysis, and mind-affecting effects that a creature…",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/epiphany-cognition-utility",
@@ -29071,7 +29071,7 @@
   "options": [],
   "summary": "When you attempt an ability or skill check to gain information (such as a Knowledge check, Profession checks to answer questions, or Diplomacy checks to gather…",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/flawless-precision-cognition",
@@ -29090,7 +29090,7 @@
   "options": [],
   "summary": "By spending 2 spell points as a standard action you may enter a heightened state of mind.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/greater-communication-utility",
@@ -29109,7 +29109,7 @@
   "options": [],
   "summary": "So long as you are personally familiar with the subject, you may spend an additional spell point to use your Project Thoughts charm across any distance, even…",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/insanity",
@@ -29126,7 +29126,7 @@
   "options": [],
   "summary": "When applying a Confusion charm to a target, you may spend an additional spell point to change this charm into an instantaneous effect.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/memetic-link",
@@ -29143,7 +29143,7 @@
   "options": [],
   "summary": "When you place a powerful Enthrall charm on a target, you may spend an extra spell point at the time of casting to create a memetic link between you and the…",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/mind-control",
@@ -29160,7 +29160,7 @@
   "options": [],
   "summary": "When you place a powerful Enthrall charm on a target, you may spend an additional spell point to increase the duration to 1 day per caster level.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/psychic-backlash",
@@ -29177,7 +29177,7 @@
   "options": [],
   "summary": "When you use Psychic Vengeance in response to a charm effect, you may use the charm talent that was targeting you as part of Psychic Vengeance even if you do…",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/recondite-stimuli",
@@ -29194,7 +29194,7 @@
   "options": [],
   "summary": "You can reach the minds of creatures thought, by some, to be untouchable by the mental arts.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/zeitgeist-cloud",
@@ -29213,7 +29213,7 @@
   "options": [],
   "summary": "You may spend an additional 1, 2, or 3 spell points and take 10 minutes to affect large communities of 200 or smaller, 2,000 or smaller, or 5,000 or smaller…",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/backdoor-control-dual-sphere",
@@ -29232,7 +29232,7 @@
   "options": [],
   "summary": "Whenever you use a charm against a creature or object you successfully used Bestow Intelligence on, requests you make that would normally be against their…",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/deceptive-advisor",
@@ -29249,7 +29249,7 @@
   "options": [],
   "summary": "When you attempt to influence the attitude of an individual with the Diplomacy skill or deceive an individual with the Bluff skill, your very words are laced…",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/doublespeak-dual-sphere",
@@ -29268,7 +29268,7 @@
   "options": [],
   "summary": "When you use a charm, cloud, or word, you may spend 1 additional spell point to affect the target, targets, or creatures in the area with a different charm,…",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/dreamspace-dual-sphere",
@@ -29287,7 +29287,7 @@
   "options": [],
   "summary": "When you sleep, you may choose to project your mind into a quasi-real space, or dreamspace.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/fools-counterspell-counterspell",
@@ -29306,7 +29306,7 @@
   "options": [],
   "summary": "When you successfully counter a spell, the caster must succeed at a Will save equal to your Illusion sphere DC or Mind sphere DC (whichever is greater), or…",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/hypochondriacs-terror-dual-sphere",
@@ -29325,7 +29325,7 @@
   "options": [],
   "summary": "When you take over a creature’s bodily functions, you may also blend in your mental manipulation to torture them from the inside out.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/implausible-deniability-dual-sphere",
@@ -29344,7 +29344,7 @@
   "options": [],
   "summary": "You may have your illusions interact with Detect Thoughts and similar abilities as if they had an Intelligence score of up to twice your caster level.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/mental-aura",
@@ -29361,7 +29361,7 @@
   "options": [],
   "summary": "You may create an effect known as a mental aura attached to yourself or to other creatures by spending a spell point.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/mental-cloud",
@@ -29378,7 +29378,7 @@
   "options": [],
   "summary": "You may spend 2 spell points to manifest a (charm) as an actual, literal cloud of mental energy.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/mind-over-matter-combat",
@@ -29397,7 +29397,7 @@
   "options": [],
   "summary": "When you take hit point damage and are not flat-footed against the damage’s source, you may choose to spend spell points as a free action (even when it is not…",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/minor-charm-specialist",
@@ -29414,7 +29414,7 @@
   "options": [],
   "summary": "You may target an individual creature with a lesser charm an additional amount of times per day equal to your casting ability modifier (minimum 1).",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/never-really-there-dual-sphere",
@@ -29433,7 +29433,7 @@
   "options": [],
   "summary": "When you use the Amnesia charm from the Mind sphere, you may extend the casting time by 1 step or spend an additional spell point to teleport yourself as part…",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/paranoia-agent-dual-sphere",
@@ -29454,7 +29454,7 @@
   ],
   "summary": "You gain the following abilities based on the Dark sphere and Mind sphere talents you possess: - Hypnotic Darkness (requires Debilitating Darkness): Your gloom…",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/pressure-point-proficiency-combat",
@@ -29473,7 +29473,7 @@
   "options": [],
   "summary": "By studying precisely where and how to strike your enemies, you can interrupt the biological processes that contribute to mental stability.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/pressure-point-pugilist-combat",
@@ -29492,7 +29492,7 @@
   "options": [],
   "summary": "The penalty from Pressure Point Proficiency increases to -2 if you successfully hit the target a second time in the same round.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/silver-tongue",
@@ -29509,7 +29509,7 @@
   "options": [],
   "summary": "As an immediate action, you may spend a spell point to reroll a single Bluff, Diplomacy, or Intimidate check with a +2 enhancement bonus.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/vampires-guile-dual-sphere",
@@ -29528,7 +29528,7 @@
   "options": [],
   "summary": "Creatures taking bleed damage suffer a -2 penalty to saves against your Mind sphere abilities.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/addling-brew",
@@ -29545,7 +29545,7 @@
   "options": [],
   "summary": "You must select the Instill Charm talent with the bonus talent granted by this drawback, and you can only use your Mind sphere abilities through this talent.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/animal-shaman",
@@ -29562,7 +29562,7 @@
   "options": [],
   "summary": "You may affect animals with your Mind sphere effects, but not creatures of your own creature type.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/blatant-side-effects",
@@ -29579,7 +29579,7 @@
   "options": [],
   "summary": "Deadpan speech patterns accompanied by an echo and a change in vocabulary, strange glowing halos, curious tremors in the earth whenever the target draws near,…",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/empath",
@@ -29596,7 +29596,7 @@
   "options": [],
   "summary": "You must select a (charm) talent with the bonus talent granted by this drawback.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/hypnotic-gaze",
@@ -29613,7 +29613,7 @@
   "options": [],
   "summary": "A creature may declare they are averting their gaze from your eyes as an immediate action or a free action which can be taken once per round, in which case you…",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/inward-focus",
@@ -29630,7 +29630,7 @@
   "options": [],
   "summary": "You may only select (cognition) talents and talents that augment them, and must select a (cognition) talent with the bonus talent gained from this drawback.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/kindred-knack",
@@ -29647,7 +29647,7 @@
   "options": [],
   "summary": "You may not affect creatures of your own creature type, and the Expanded Charm talent does not allow you to affect creatures of your own creature type.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/lost-in-translation",
@@ -29664,7 +29664,7 @@
   "options": [],
   "summary": "You may not select or use (cloud) talents.",
   "file": "mind.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mind/tactile-charm",
@@ -29681,6 +29681,1723 @@
   "options": [],
   "summary": "You must select the Charming Strike talent as the bonus talent from this drawback, and can only use that talent when making melee attacks.",
   "file": "mind.json",
+  "approved": true
+ },
+ {
+  "id": "nature/geomancing",
+  "name": "Geomancing",
+  "kind": "sphere ability",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#geomancing",
+  "options": [
+   "Air",
+   "Earth",
+   "Fire",
+   "Metal",
+   "Plant",
+   "Water"
+  ],
+  "summary": "As a standard action, you may command terrain and natural effects to act on your behalf.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/deep-nature",
+  "name": "Deep Nature",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Nature Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#deep-nature",
+  "options": [],
+  "summary": "When you use a geomancing or spirit ability that requires concentration, the ability continues to maintain itself for 2 rounds after you stop concentrating.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/elemental-strike-strike",
+  "name": "Elemental Strike",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Nature Talents",
+  "tags": [],
+  "talentTags": [
+   "Strike"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#elemental-strike-strike",
+  "options": [],
+  "summary": "As a standard action, you may make a single weapon attack in conjunction with using a geomancing effect which can target a creature or object.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/environmental-presence-mass",
+  "name": "Environmental Presence",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Nature Talents",
+  "tags": [],
+  "talentTags": [
+   "Mass"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#environmental-presence-mass",
+  "options": [],
+  "summary": "When using a geomancing or spirit effect which targets a creature or object, you may spend an additional spell point to affect an additional 1 target per 2…",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/expanded-geomancing",
+  "name": "Expanded Geomancing",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Nature Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#expanded-geomancing",
+  "options": [],
+  "summary": "Choose and gain a Nature package you do not already possess.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/grant-spirit",
+  "name": "Grant Spirit",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Nature Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#grant-spirit",
+  "options": [],
+  "summary": "When activating one of your spirit Nature abilities, you may touch a willing target and grant them the benefit of your (spirit) talent, rather than gaining it…",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/instill-spirit-instill",
+  "name": "Instill Spirit",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Nature Talents",
+  "tags": [],
+  "talentTags": [
+   "instill"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#instill-spirit-instill",
+  "options": [],
+  "summary": "As a standard action you may touch a small container of liquid and instill a spirit effect inside it, which functions as a potion or oil.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/ranged-geomancy-range",
+  "name": "Ranged Geomancy",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Nature Talents",
+  "tags": [],
+  "talentTags": [
+   "range"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#ranged-geomancy-range",
+  "options": [],
+  "summary": "You may select this talent up to 2 times.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/wild-instinct",
+  "name": "Wild Instinct",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Nature Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#wild-instinct",
+  "options": [],
+  "summary": "While concentrating on any Nature sphere ability, you gain the benefits of uncanny dodge.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/air-mastery-air-geomancing",
+  "name": "Air Mastery",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Geomancing Talents",
+  "tags": [
+   "air",
+   "geomancing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#air-mastery-air-geomancing",
+  "options": [],
+  "summary": "When you use the Gust Of Wind ability, you may create a cone area of effect instead of a line.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/aquatic-adept-water-geomancing-spirit",
+  "name": "Aquatic Adept",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Geomancing Talents",
+  "tags": [
+   "water",
+   "geomancing",
+   "spirit"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#aquatic-adept-water-geomancing-spirit",
+  "options": [],
+  "summary": "You gain several abilities which improve your capacity to operate underwater.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/breeze-mastery-air-geomancing",
+  "name": "Breeze Mastery",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Geomancing Talents",
+  "tags": [
+   "air",
+   "geomancing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#breeze-mastery-air-geomancing",
+  "options": [],
+  "summary": "When using Breeze, you may spend a spell point to have it affect an area, granting its benefits to all creatures within a 15-foot radius + 5 feet per 5 caster…",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/create-nature-geomancing",
+  "name": "Create Nature",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Geomancing Talents",
+  "tags": [
+   "geomancing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#create-nature-geomancing",
+  "options": [],
+  "summary": "As an instantaneous effect, you may spend a spell point to create your geomancing element anywhere within range.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/earth-mastery-earth-geomancing",
+  "name": "Earth Mastery",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Geomancing Talents",
+  "tags": [
+   "earth",
+   "geomancing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#earth-mastery-earth-geomancing",
+  "options": [],
+  "summary": "Increase the maximum radius of your Bury and Tremor by an additional 5 feet per 5 caster levels.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/elevated-nature-geomancing",
+  "name": "Elevated Nature",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Geomancing Talents",
+  "tags": [
+   "geomancing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#elevated-nature-geomancing",
+  "options": [],
+  "summary": "When using Entangle or Tremor, you may affect flying creatures up to 10 feet per caster level over the effect.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/fire-mastery-fire-geomancing",
+  "name": "Fire Mastery",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Geomancing Talents",
+  "tags": [
+   "fire",
+   "geomancing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#fire-mastery-fire-geomancing",
+  "options": [],
+  "summary": "You gain a number of ways of expressing mastery over fire.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/fog-mastery-water-geomancing",
+  "name": "Fog Mastery",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Geomancing Talents",
+  "tags": [
+   "water",
+   "geomancing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#fog-mastery-water-geomancing",
+  "options": [],
+  "summary": "When you create Fog, you may add one of the following additional effects depending on what other packages you possess.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/hazardous-terrain-geomancing",
+  "name": "Hazardous Terrain",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Geomancing Talents",
+  "tags": [
+   "geomancing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#hazardous-terrain-geomancing",
+  "options": [],
+  "summary": "When using the Freeze or Tremor geomancing abilities, you may cause the affected area to grow spike-like formations which last 1 round per caster level.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/manipulate-nature-geomancing",
+  "name": "Manipulate Nature",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Geomancing Talents",
+  "tags": [
+   "geomancing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#manipulate-nature-geomancing",
+  "options": [],
+  "summary": "You may manipulate the elements to take on different shapes.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/metal-mastery-metal-geomancing",
+  "name": "Metal Mastery",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Geomancing Talents",
+  "tags": [
+   "metal",
+   "geomancing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#metal-mastery-metal-geomancing",
+  "options": [],
+  "summary": "Whenever you use Recover Ore, you gain the ability to Recover Ore of iron, lead, or steel.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/nature-lord-geomancing",
+  "name": "Nature Lord",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Geomancing Talents",
+  "tags": [
+   "geomancing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#nature-lord-geomancing",
+  "options": [],
+  "summary": "Treat your caster level as 5 higher when determining the maximum area radius and height you can affect with your geomancing abilities that affect an area (such…",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/plant-mastery-plant-geomancing",
+  "name": "Plant Mastery",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Geomancing Talents",
+  "tags": [
+   "plant",
+   "geomancing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#plant-mastery-plant-geomancing",
+  "options": [],
+  "summary": "Increase the maximum radius of your Entangle by an additional 5 feet per 5 caster levels.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/primordial-branches-plant-geomancing",
+  "name": "Primordial Branches",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Geomancing Talents",
+  "tags": [
+   "plant",
+   "geomancing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#primordial-branches-plant-geomancing",
+  "options": [],
+  "summary": "When you use the Pummel geomancing ability, you can add one of the following additional effects depending on what other packages you possess.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/pummel-mastery-plant-geomancing",
+  "name": "Pummel Mastery",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Geomancing Talents",
+  "tags": [
+   "plant",
+   "geomancing"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#pummel-mastery-plant-geomancing",
+  "options": [],
+  "summary": "You may direct your animated branches to attack as a free action instead of a move action.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/purify-nature-geomancing",
+  "name": "Purify Nature",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Geomancing Talents",
+  "tags": [
+   "geomancing"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#purify-nature-geomancing",
+  "options": [],
+  "summary": "You may purify the nature around you, making brackish water drinkable, poisonous plants edible, and hazardous air breathable.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/reforge-mastery-metal-geomancing",
+  "name": "Reforge Mastery",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Geomancing Talents",
+  "tags": [
+   "metal",
+   "geomancing"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#reforge-mastery-metal-geomancing",
+  "options": [],
+  "summary": "As a concentration effect, you may use a limited form of Reforge that can even affect attended objects.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/repress-element-geomancing",
+  "name": "Repress Element",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Geomancing Talents",
+  "tags": [
+   "geomancing"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#repress-element-geomancing",
+  "options": [],
+  "summary": "As a concentration effect, you may temporarily obliterate an element within a 5-foot radius + 5 feet per 5 caster levels area within range.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/riding-fog-water-geomancing",
+  "name": "Riding Fog",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Geomancing Talents",
+  "tags": [
+   "water",
+   "geomancing"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#riding-fog-water-geomancing",
+  "options": [],
+  "summary": "You may create clouds of fog attached to yourself or to other creatures.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/temperature-fire-geomancing",
+  "name": "Temperature",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Geomancing Talents",
+  "tags": [
+   "fire",
+   "geomancing"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#temperature-fire-geomancing",
+  "options": [],
+  "summary": "You gain the following geomancing abilities.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/thrown-pummel-plant-geomancing",
+  "name": "Thrown Pummel",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Geomancing Talents",
+  "tags": [
+   "plant",
+   "geomancing"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#thrown-pummel-plant-geomancing",
+  "options": [],
+  "summary": "When using the Pummel geomancing ability, the tree branches may throw vegetation as a ranged attack instead of only making melee slam attacks.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/water-mastery-water-geomancing",
+  "name": "Water Mastery",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Geomancing Talents",
+  "tags": [
+   "water",
+   "geomancing"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#water-mastery-water-geomancing",
+  "options": [],
+  "summary": "You may manipulate snow as if it were liquid water.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/destroy-element-spirit",
+  "name": "Destroy Element",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Spirit Talents",
+  "tags": [
+   "spirit"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#destroy-element-spirit",
+  "options": [],
+  "summary": "As a standard action you may spend a spell point to remove and deconstruct your elements.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/dragonlung-spirit",
+  "name": "Dragonlung",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Spirit Talents",
+  "tags": [
+   "spirit"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#dragonlung-spirit",
+  "options": [],
+  "summary": "You gain a breath weapon as a supernatural ability when you gain this talent.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/friend-to-wildlife-spirit-utility",
+  "name": "Friend To Wildlife",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Spirit Talents",
+  "tags": [
+   "spirit"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#friend-to-wildlife-spirit-utility",
+  "options": [],
+  "summary": "Choose either animals or vermin.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/master-of-elements-spirit",
+  "name": "Master Of Elements",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Spirit Talents",
+  "tags": [
+   "spirit"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#master-of-elements-spirit",
+  "options": [],
+  "summary": "You count as possessing three additional Nature packages of your choice when determining what (spirit) talents you can gain and use.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/natures-carapace-spirit",
+  "name": "Nature’s Carapace",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Spirit Talents",
+  "tags": [
+   "spirit"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#natures-carapace-spirit",
+  "options": [],
+  "summary": "You may spend a spell point as a move action to wrap an element around yourself for 1 minute per caster level.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/natures-movement-spirit",
+  "name": "Nature’s Movement",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Spirit Talents",
+  "tags": [
+   "spirit"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#natures-movement-spirit",
+  "options": [],
+  "summary": "You may spend a standard action to gain one of the following benefits for 1 round.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/natures-weapon-spirit",
+  "name": "Nature’s Weapon",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Spirit Talents",
+  "tags": [
+   "spirit"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#natures-weapon-spirit",
+  "options": [],
+  "summary": "You may perform one of the following special attacks or gain one of the following benefits.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/nature-sight-spirit",
+  "name": "Nature Sight",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Spirit Talents",
+  "tags": [
+   "spirit"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#nature-sight-spirit",
+  "options": [],
+  "summary": "You may gain a supernatural sense depending on what Nature packages you possess for as long as you concentrate, or you may spend a spell point to gain the…",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/rejuvenation-spirit",
+  "name": "Rejuvenation",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Spirit Talents",
+  "tags": [
+   "spirit"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#rejuvenation-spirit",
+  "options": [],
+  "summary": "As a standard action, you may heal yourself an amount equal to 1/2 your caster level (minimum 1) per round for as long as you concentrate.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/resist-elements-spirit",
+  "name": "Resist Elements",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Spirit Talents",
+  "tags": [
+   "spirit"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#resist-elements-spirit",
+  "options": [],
+  "summary": "As a swift or move action, you may grant yourself one of the following benefits for 1 round, depending on what packages you possess.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/ride-the-elements-spirit",
+  "name": "Ride The Elements",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Spirit Talents",
+  "tags": [
+   "spirit"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#ride-the-elements-spirit",
+  "options": [],
+  "summary": "You may spend a spell point as a move action to increase or decrease your movement speeds by 10 feet + 10 feet per 5 caster levels (applying to all movement…",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/speak-with-the-elements-spirit-utility",
+  "name": "Speak With The Elements",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Spirit Talents",
+  "tags": [
+   "spirit"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#speak-with-the-elements-spirit-utility",
+  "options": [],
+  "summary": "You may spend a spell point to commune with the elements for 1 minute per caster level.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/speak-with-wildlife-spirit-utility",
+  "name": "Speak With Wildlife",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Spirit Talents",
+  "tags": [
+   "spirit"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#speak-with-wildlife-spirit-utility",
+  "options": [],
+  "summary": "Choose either animals or vermin.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/wreath-of-elements-spirit",
+  "name": "Wreath Of Elements",
+  "kind": "talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Spirit Talents",
+  "tags": [
+   "spirit"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#wreath-of-elements-spirit",
+  "options": [],
+  "summary": "As an immediate action, (or a free action usable even when it is not your turn by spending a spell point) you may reach out with one of your elements.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/cyclone-air-geomancing",
+  "name": "Cyclone",
+  "kind": "advanced talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Advanced Nature Talents",
+  "tags": [
+   "air",
+   "geomancing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#cyclone-air-geomancing",
+  "options": [],
+  "summary": "As a concentration effect, you may spend 2 spell points to create a powerful cyclone of raging wind that moves through the air, along the ground, or over water…",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/earthquake-earth-geomancing",
+  "name": "Earthquake",
+  "kind": "advanced talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Advanced Nature Talents",
+  "tags": [
+   "earth",
+   "geomancing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#earthquake-earth-geomancing",
+  "options": [],
+  "summary": "As an instantaneous effect, you may spend 3 spell points to create an earthquake, affecting an 80-foot radius area.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/eternal-steel-metal-and-plant-geomancing",
+  "name": "Eternal Steel",
+  "kind": "advanced talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Advanced Nature Talents",
+  "tags": [
+   "metal and plant",
+   "geomancing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#eternal-steel-metal-and-plant-geomancing",
+  "options": [],
+  "summary": "As a standard action, you may spend 3 spell points to permanently grant one metal creature or metal object regeneration 1 (acid).",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/freezing-geyser-fire-water-geomancing",
+  "name": "Freezing Geyser",
+  "kind": "advanced talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Advanced Nature Talents",
+  "tags": [
+   "fire",
+   "water",
+   "geomancing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#freezing-geyser-fire-water-geomancing",
+  "options": [],
+  "summary": "As a concentration effect, you may spend 2 spell points to create an eruption coming from a 10- foot square of solid ground within range.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/living-steel-metal-and-plant-geomancing",
+  "name": "Living Steel",
+  "kind": "advanced talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Advanced Nature Talents",
+  "tags": [
+   "metal and plant",
+   "geomancing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#living-steel-metal-and-plant-geomancing",
+  "options": [],
+  "summary": "As an instantaneous effect, you may as a standard action spend 2 spell points to permanently grant the effects of living steel to a metal creature or object…",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/materials-of-legend-metal-geomancing",
+  "name": "Materials Of Legend",
+  "kind": "advanced talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Advanced Nature Talents",
+  "tags": [
+   "metal",
+   "geomancing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#materials-of-legend-metal-geomancing",
+  "options": [],
+  "summary": "You may spend 2 additional spell points when using your Recover Ore ability, if you do you may treat the ore in the ground so that when it surfaces, you…",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/natural-ally-spirit",
+  "name": "Natural Ally",
+  "kind": "advanced talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Advanced Nature Talents",
+  "tags": [
+   "spirit"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#natural-ally-spirit",
+  "options": [],
+  "summary": "As an instantaneous effect, you may, as a standard action, spend 3 spell points to call a specific fey, magical beast, plant or vermin of a type you designate…",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/peace-and-love-spirit",
+  "name": "Peace And Love",
+  "kind": "advanced talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Advanced Nature Talents",
+  "tags": [
+   "spirit"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#peace-and-love-spirit",
+  "options": [],
+  "summary": "All enemies within this aura take a -1 penalty on any attack rolls they make.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/persistent-fog-cloud-water-spirit",
+  "name": "Persistent Fog Cloud",
+  "kind": "advanced talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Advanced Nature Talents",
+  "tags": [
+   "water",
+   "spirit"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#persistent-fog-cloud-water-spirit",
+  "options": [],
+  "summary": "You may spend 2 additional spell points when using the (water) geomancing Fog ability to change the duration of the fog from concentration to permanent.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/phoenix-resurgence-fire-spirit",
+  "name": "Phoenix Resurgence",
+  "kind": "advanced talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Advanced Nature Talents",
+  "tags": [
+   "fire",
+   "spirit"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#phoenix-resurgence-fire-spirit",
+  "options": [],
+  "summary": "In response to gaining the disabled or dying condition, as an instantaneous effect, you may as an immediate action spend 3 spell points to explode into a ball…",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/rapid-growth-plant-geomancing",
+  "name": "Rapid Growth",
+  "kind": "advanced talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Advanced Nature Talents",
+  "tags": [
+   "plant",
+   "geomancing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#rapid-growth-plant-geomancing",
+  "options": [],
+  "summary": "You may spend 3 spell points to create a massive growth of plantlife.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/tsunami-water-geomancing",
+  "name": "Tsunami",
+  "kind": "advanced talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Advanced Nature Talents",
+  "tags": [
+   "water",
+   "geomancing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#tsunami-water-geomancing",
+  "options": [],
+  "summary": "Hardness does not reduce this damage, nor is it halved as damage dealt to objects normally is.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/volcano-fire-geomancing",
+  "name": "Volcano",
+  "kind": "advanced talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Advanced Nature Talents",
+  "tags": [
+   "fire",
+   "geomancing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#volcano-fire-geomancing",
+  "options": [],
+  "summary": "As a concentration effect, you may spend 2 spell points to call lava up from deep within the earth.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/whispering-elements-geomancing-utility",
+  "name": "Whispering Elements",
+  "kind": "advanced talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Advanced Nature Talents",
+  "tags": [
+   "geomancing"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#whispering-elements-geomancing-utility",
+  "options": [],
+  "summary": "As an instantaneous effect, you may as a standard action spend a spell point to send a message or sound through an element corresponding to a package you…",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/wildfire-fire",
+  "name": "Wildfire",
+  "kind": "advanced talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Advanced Nature Talents",
+  "tags": [
+   "fire"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#wildfire-fire",
+  "options": [],
+  "summary": "When using affect fire, you may spend 3 spell points to send forth a burst of heat that targets everything within a radius of 1000 feet + 100 feet per caster…",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/zoetic-geomancy",
+  "name": "Zoetic Geomancy",
+  "kind": "advanced talent",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Advanced Nature Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature#zoetic-geomancy",
+  "options": [],
+  "summary": "As an instantaneous effect you may spend 10 minutes and 3 spell points to target a portion of material within close range from one of your packages to create a…",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/alloy-creation-dual-sphere",
+  "name": "Alloy Creation",
+  "kind": "feat",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#alloy-creation-dual-sphere",
+  "options": [],
+  "summary": "When using your Creation sphere abilities, you may create and alter objects made from metals you can summon with your Recover Ore Nature sphere ability, even…",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/alloy-enhancement-dual-sphere",
+  "name": "Alloy Enhancement",
+  "kind": "feat",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#alloy-enhancement-dual-sphere",
+  "options": [],
+  "summary": "Whenever you use a (metal) geomancing ability which creates or affects metal (such as Recover Ore) you may choose to enhance the metal via the Enhancement…",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/alloy-telekinesis-dual-sphere",
+  "name": "Alloy Telekinesis",
+  "kind": "feat",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#alloy-telekinesis-dual-sphere",
+  "options": [],
+  "summary": "Whenever you use the (metal) geomancing Recover Ore ability, you may use telekinesis to Bludgeon another target creature or object with the metal ore recovered…",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/coastal-infusion",
+  "name": "Coastal Infusion",
+  "kind": "feat",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#coastal-infusion",
+  "options": [],
+  "summary": "When using either the (earth) package or the (water) package within close range of both land and a substantial body of water (such as a lake, river, ocean, or…",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/fan-the-flame-dual-sphere",
+  "name": "Fan The Flame",
+  "kind": "feat",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#fan-the-flame-dual-sphere",
+  "options": [],
+  "summary": "When a creature is set on fire by your fire blast, the fire does not deal 1d6 damage the following round, but rather deals damage equal to the largest fire you…",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/fertilize-nature",
+  "name": "Fertilize Nature",
+  "kind": "feat",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#fertilize-nature",
+  "options": [],
+  "summary": "Prerequisites: Nature sphere ((earth) package, (plant) package).",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/formulae-geomancing",
+  "name": "Formulae Geomancing",
+  "kind": "feat",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#formulae-geomancing",
+  "options": [],
+  "summary": "You may read and use an alchemist’s formulae book, creating extracts for use during the day as an alchemist does.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/hemothermia-dual-sphere",
+  "name": "Hemothermia",
+  "kind": "feat",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#hemothermia-dual-sphere",
+  "options": [],
+  "summary": "You gain the following two (blood arts), which allow you to alter the temperature of the target’s blood.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/imbue-with-nature-dual-sphere",
+  "name": "Imbue With Nature",
+  "kind": "feat",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#imbue-with-nature-dual-sphere",
+  "options": [],
+  "summary": "When using a (blast type) talent from a blast type category corresponding to a geomancing talent you possess, you may increase the casting time by one step or…",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/luminous-flame-dual-sphere",
+  "name": "Luminous Flame",
+  "kind": "feat",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#luminous-flame-dual-sphere",
+  "options": [],
+  "summary": "Whenever you use the Create Fire or Affect Fire geomancing ability, you may also cause the fire to glow.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/mage-of-ice-and-rime",
+  "name": "Mage Of Ice And Rime",
+  "kind": "feat",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#mage-of-ice-and-rime",
+  "options": [],
+  "summary": "You gain resistance to cold equal to 1/2 your MSB (rounded down, this stacks with any other cold resistance you have).",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/mage-of-spore-and-fungus",
+  "name": "Mage of Spore and Fungus",
+  "kind": "feat",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#mage-of-spore-and-fungus",
+  "options": [],
+  "summary": "See General Feats for the full feat .",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/march-of-the-treants-dual-sphere",
+  "name": "March Of The Treants",
+  "kind": "feat",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#march-of-the-treants-dual-sphere",
+  "options": [],
+  "summary": "Whenever you cast Pummel, you may choose to spend an additional spell point to enhance the target, allowing the tree to uproot itself (or break free from the…",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/material-infusion-dual-sphere",
+  "name": "Material Infusion",
+  "kind": "feat",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#material-infusion-dual-sphere",
+  "options": [],
+  "summary": "When using a destructive blast that deals bludgeoning, piercing, or slashing damage, you may choose to have the blast count as cold iron or silver.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/natures-enhancement-dual-sphere",
+  "name": "Nature’s Enhancement",
+  "kind": "feat",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#natures-enhancement-dual-sphere",
+  "options": [],
+  "summary": "Whenever you enhance a creature, you may also imbue the target with a non-instantaneous spirit ability.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/primal-admixture-admixture",
+  "name": "Primal Admixture",
+  "kind": "feat",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Admixture"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#primal-admixture-admixture",
+  "options": [],
+  "summary": "When using Admixture, you may spend an additional spell point to affect one target damaged by the destructive blast with a geomancing or spirit effect which…",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/primal-blast-dual-sphere",
+  "name": "Primal Blast",
+  "kind": "feat",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#primal-blast-dual-sphere",
+  "options": [],
+  "summary": "When using a (blast type) talent from a blast type category corresponding to a geomancing talent you possess, you may add your casting ability modifier to any…",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/smolder-resin",
+  "name": "Smolder Resin",
+  "kind": "feat",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#smolder-resin",
+  "options": [],
+  "summary": "Prerequisites: Nature sphere ((fire) package and (plant) package).",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/spirit-form-dual-sphere",
+  "name": "Spirit Form",
+  "kind": "feat",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#spirit-form-dual-sphere",
+  "options": [],
+  "summary": "When you use shapeshift on a creature, you may also imbue the target with a non-instantaneous spirit ability.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/steam-geomancing",
+  "name": "Steam Geomancing",
+  "kind": "feat",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#steam-geomancing",
+  "options": [],
+  "summary": "When using any Nature sphere ability that deals cold or fire damage, you may change the damage to half cold damage and half fire damage.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/supernatural-elements-dual-sphere",
+  "name": "Supernatural Elements",
+  "kind": "feat",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#supernatural-elements-dual-sphere",
+  "options": [],
+  "summary": "Whenever you create a geomancing or spirit effect, you may change its damage type to a damage type corresponding to a (blast type) talent you possess.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/sylvan-necromancy-dual-sphere",
+  "name": "Sylvan Necromancy",
+  "kind": "feat",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#sylvan-necromancy-dual-sphere",
+  "options": [],
+  "summary": "You can use your (plant) geomancing abilities on corpses instead of plants.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/terrain-focus-drawback",
+  "name": "Terrain Focus",
+  "kind": "feat",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Drawback"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#terrain-focus-drawback",
+  "options": [],
+  "summary": "Choose one of the following terrains: Cold, Desert, Forest, Jungle, Mountain, Plains, Planes (pick one, other than the Material Plane), Swamp, Underground,…",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/terrain-strider",
+  "name": "Terrain Strider",
+  "kind": "feat",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#terrain-strider",
+  "options": [],
+  "summary": "Gain a +4 circumstance bonus to saving throws against any Nature sphere talents or abilities from a package you possess.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/water-manipulator-dual-sphere",
+  "name": "Water Manipulator",
+  "kind": "feat",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#water-manipulator-dual-sphere",
+  "options": [],
+  "summary": "You gain the benefits of Water Creature as a (spirit) talent; you may use them at any time without needing to activate a fey-blessing first.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/wildspeaker",
+  "name": "Wildspeaker",
+  "kind": "feat",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#wildspeaker",
+  "options": [],
+  "summary": "You gain the benefits of your Speak With Wildlife talent as a constant sphere-like effect, and may suppress or resume this ability as a standard action.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/world-in-miniature",
+  "name": "World In Miniature",
+  "kind": "feat",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#world-in-miniature",
+  "options": [],
+  "summary": "By increasing the action of geomancing by one step, you can simultaneously open a portal to your world to access the elements within.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/holistic-brew",
+  "name": "Holistic Brew",
+  "kind": "drawback",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature-Sphere-Drawbacks#holistic-brew",
+  "options": [],
+  "summary": "You must select the Instill Spirit talent with the bonus talent granted by this drawback, and you can only use your Nature sphere abilities through this talent.",
+  "file": "nature.json",
+  "approved": false
+ },
+ {
+  "id": "nature/limited-nature",
+  "name": "Limited Nature",
+  "kind": "drawback",
+  "sphere": "Nature",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Nature/Nature-Sphere-Drawbacks#limited-nature",
+  "options": [],
+  "summary": "You gain only a single geomancing ability of your starting Nature package.",
+  "file": "nature.json",
   "approved": false
  },
  {

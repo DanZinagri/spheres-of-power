@@ -1,7 +1,7 @@
 {
  "sphere": "Mind",
  "system": "Spheres of Power",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "mind/charm",

@@ -1,0 +1,1670 @@
+{
+ "sphere": "Nature",
+ "system": "Spheres of Power",
+ "approved": false,
+ "entries": [
+  {
+   "id": "nature/geomancing",
+   "name": "Geomancing",
+   "kind": "sphere ability",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#geomancing",
+   "md": "As a standard action, you may command terrain and natural effects to act on your behalf. The effect produced depends on the environmental aspect targeted. Each effect must be centered or targeted within close range. Because geomancing manipulates natural elements, it is not subject to spell resistance, even if a geomancing ability targets a creature directly.\n\nGeomancing effects come in two forms: instantaneous and concentration. Instantaneous effects have no duration, while concentration effects persist as long as the caster concentrates or they may spend a spell point as a free action to allow the effect to continue for 1 round per caster level without the need for concentration.\n\nWhen a caster gains the Nature sphere, he chooses and gains one of the following Nature packages, with its included abilities. A caster may gain the Expanded Geomancing talent to gain additional packages.",
+   "options": [
+    {
+     "name": "Air",
+     "tags": [],
+     "talentTags": [],
+     "anchor": "air",
+     "md": "**Breeze:** Concentration, requires air. You create a light wind that remains swirling around a target. The breeze grants the target a circumstance bonus equal to 2 + 1 per 5 caster levels on saves against very hot conditions, severe heat, and saves against clouds, vapors, and gases (such as cloudkill, stinking cloud, and inhaled poisons).\n\n**Gust Of Wind:** Concentration, requires air. You may create a line-shaped gust of wind emanating out from you out to the edge of your geomancing range, affecting all creatures and objects within that line. The severity level of the wind is 3 + 1 per 5 caster levels (see the Wind category of the Weather sphere for more information). If maintaining Gust Of Wind via concentration, you may spend a spell point as a free action to increase the severity level of its wind by 1 for that round. Walls and other barriers block this wind.\n\n*Author's Note:* If Gust Of Wind is used in an area of existing wind severity level 3 or greater, the geomancing ability may have different effects depending upon what direction your line-shaped gust is blowing versus the existing weather.\n\n- Gust Of Wind blowing in same direction of Existing Wind: instead increase the wind severity in the line-shaped gust by 1 + 1 per 5 caster levels.\n- Gust Of Wind blowing in opposite direction of Existing Wind: instead decrease the wind severity in the line-shaped gust by 3 + 1 per 5 caster levels.\n- Gust Of Wind blowing in perpendicular directions of Existing Wind: Gust Of Wind overrides the existing wind severity and direction in that line-shaped gust, but otherwise remains unchanged.\n\n**Purify Air:** Concentration, requires air, gas, or vaporous substance. You may convert polluted air or a non-breathable gas or vapor into a cloud of breathable air in a 5 feet + 5 feet per 5 caster levels radius area centered within range. This has no effect on supernatural or other magically created clouds (such as a vampire’s gaseous form or a cloudkill spell). Creatures who are entirely within the area of the cloud are able to breathe in sufficient air to sustain them."
+    },
+    {
+     "name": "Earth",
+     "tags": [],
+     "talentTags": [],
+     "anchor": "earth",
+     "md": "**Bury:** Concentration, requires sand. You shift the sands, swallowing targets within a 10-foot radius + 5 feet per 5 caster levels area centered within range. This functions as Entangle from the (plant) package, but on a failure targets cannot move but do not become entangled. Each subsequent round they do not escape and this effect is still active, the Strength and Escape Artist DC increases by 1. After 10 rounds or if the target is knocked prone within this area and fails their save, they are considered buried and begin to suffocate until they escape.\n\n**Dust Storm:** Concentration, requires sand or loose dirt. You kick up sand or dirt within a 10-foot radius + 5 feet per 5 caster levels area centered within range. All creatures fully within this area gain concealment (attacks against them have a 20% miss chance). If creatures within this area attack creatures outside this area, the targets also have concealment.\n\n**Tremor:** Instantaneous, requires dirt or stone. You may spend a spell point to send a tremor through the ground, affecting a 10-foot radius + 5 feet per 5 caster levels area centered within range. Targets standing within this area must succeed at a Reflex save or fall prone."
+    },
+    {
+     "name": "Fire",
+     "tags": [],
+     "talentTags": [],
+     "anchor": "fire",
+     "md": "**Affect Fire:** Concentration, requires fire. You may affect a normal, non-magical fire, increasing or decreasing its size by one category, plus one per 5 caster levels. This is only a temporary change; once the effect ends, the fire returns to its normal size. Reducing a fire smaller than Fine extinguishes it, in which case it does not return to normal size after the effect ends. The fire consumes fuel and deals damage as appropriate for its new size, according to Table: Maximum Fire Size. Creatures caught in the fire's area are allowed a Reflex save for half damage. The minimum caster level required to affect a fire is also given in the chart. If two casters are affecting the same fire in the same direction (increasing or decreasing) only the strongest change occurs. If two casters attempt to Affect Fire in opposite directions (one making it bigger, one making it smaller), the second caster must succeed at a magic skill check. On a success, their ability functions normally, overlapping the first caster’s effect. The fire counts as its altered size for determining if the second caster can affect it.\n\nNote: If multiple fires overlap, or if a Large or larger creature is affected by multiple smaller fires within its area at once, these fires combine to determine the effective size of the fire when determining damage (2 Small fires make 1 Medium fire, 2 Medium fires make 1 Large fire, etc.).\n\nIf a creature has caught on fire, treat that fire as being Tiny-sized for the purpose of this effect. When you affect a fire on a creature, you also raise or lower the Reflex save DC to put the fire out by 1/2 your caster level (minimum 0).\n\n**Table: Maximum Fire Size**\n\n| Minimum Caster Level | Fire Size | Example | Damage per Round | Space |\n| --- | --- | --- | --- | --- |\n| 1st | Fine | Tindertwig | 1 | 1/2-ft. square |\n| 1st | Diminutive | Torch | 1d3 | 1-ft. square |\n| 1st | Tiny | Small campfire | 1d6 | 2.5-ft. square |\n| 3rd | Small | Large campfire | 2d6 | 5-ft. square |\n| 5th | Medium | Forge | 3d6 | 5-ft. square |\n| 8th | Large | Bonfire | 4d6 | 10-ft. square |\n| 11th | Huge | Burning shack | 5d6 | 15-ft. square |\n| 15th | Gargantuan | Burning tavern | 6d6 | 20-ft. square |\n| 20th | Colossal | Burning inn | 7d6 | 30-ft. square |\n| 25th | Colossal+ | - | 8d6 | 50-ft. square |\n| 30th | Colossal++ | - | 9d6 | 70-ft. square |\n| 35th | Colossal+++ | - | 10d6 | 100-ft. square |\n\n**Create Fire:** Concentration, no requirements. You may produce a Diminutive-sized magical fire that burns without fuel. This fire may be 1 size category larger per 5 caster levels, and may be used to ignite flammable materials to create self-sustaining, non-magical fire. If a target is within the area of the created fire, they suffer damage as normal for that fire’s size and catch fire. A successful Reflex save halves the damage and negates catching fire.\n\n**Manipulate Lava:** Instantaneous or concentration, requires lava. You may manipulate lava. This is exactly the same as the Freeze and Vortex powers from the (water) package, except you must spend an additional spell point for each ability, and you must target lava. Frozen lava becomes obsidian, with a hardness of 5 and 3 hit points per caster level and does not deal damage per round to trapped creatures."
+    },
+    {
+     "name": "Metal",
+     "tags": [],
+     "talentTags": [],
+     "anchor": "metal",
+     "md": "**Magnetize:** Instantaneous, requires metal. As a standard action, you may cause a creature or object within your geomancing range consisting mostly of metal whose size is not larger than your maximum Recover Ore size to fly towards a creature or object of your choice within your geomancing range.\n\nThis can only be used on unattended objects, attended objects from willing creatures, or willing creatures consisting mostly of metal. You may choose to throw the item harmlessly (in which case it can either be caught by the target or else lands in an adjacent square), or you may use this as a ranged attack action. This counts as a ranged attack, except you must use your casting ability modifier in place of Dexterity.\n\nIf successful, you deal either the object’s ‘ore damage’, or if it is a weapon, the weapon’s damage (arrows and bolts with metal tips count as daggers for this purpose, dealing 1d4 damage). Despite the name of this ability, the target object or creature need not be made of metal.\n\n**Recover Ore:** Instantaneous, requires dirt or sand. As a standard action, you may create a piece of metal ore by pulling and combining particles of metal from the ground. You must spend a spell point to use this ability, and must have a large enough piece of earth (sand or dirt) to pull the ore from. This piece of ore can be brass, bronze, copper, or tin, and the size of the ore recovered depends both on your caster level and the square footage of earth you pull from.\n\nThe piece of ore you recover is formed on the ground in an unoccupied space within range and can be of any basic shape (a ball, a rod, a sheet, even a chair) but cannot be anything complex or with moving parts. You may also pull multiple pieces of ore placed in different adjacent squares, so long as their combined size does not exceed your maximum, and each piece of recovered ore must be of the same type (such as copper or tin). For these purposes, 2 Fine-sized pieces of ore equals 1 Diminutive-sized piece, etc.\n\nWhile this effect is instantaneous and thus cannot be dispelled, ore breaks back into particles after 1 hour per caster level. If a piece of ore is used as a weapon, it counts as an improvised weapon, dealing either bludgeoning, piercing, or slashing damage, chosen at the time of Recovery. The damage such a weapon deals is listed as ‘ore damage’ in the chart below. As always, improvised weapons bestow a -4 penalty to attack rolls.\n\n**Table: Metal Types**\n\n| Metal | Hit Points | Hardness |\n| --- | --- | --- |\n| Brass | 20/in. thickness | 9 |\n| Bronze | 20/in. thickness | 9 |\n| Cold iron | 30/in. thickness | 10 |\n| Copper | 20/in. thickness | 9 |\n| Iron | 30/in. thickness | 10 |\n| Lead | 30/in. thickness | 10 |\n| Mithral | 30/in. thickness | 15 |\n| Silver | 10/in. thickness | 8 |\n| Steel | 30/in. thickness | 10 |\n| Tin | 20/in. thickness | 9 |\n\n**Table: Recover Ore**\n\n| Minimum Caster Level | Required Earth to Pull From | Ore Size Recovered | Ore Damage | Ore Weight (maximum) | Sample Item* |\n| --- | --- | --- | --- | --- | --- |\n| 1 | 1-ft. cube | Fine | 1 | .8 lbs. | Lockpick or nail |\n| 1 | 5-ft. cube | Diminutive | 1d2 | 1 lb. | Bolt, dagger, or shuriken |\n| 1 | 10-ft. cube | Tiny | 1d3 | 8 lbs. | Candelabra, light mace, or shortsword |\n| 2 | 25-ft. cube | Small | 1d4 | 60 lbs. | Heavy mace, heavy shield, or longsword |\n| 4 | 50-ft. cube | Medium | 1d6 | 500 lbs. | Bed, cage, greatsword or table |\n| 8 | 75-ft. cube | Large | 1d8 | 4,000 lbs. | Life-sized statue |\n| 16 | 125-ft. cube | Huge | 2d6 | 16 tons | Wagon |\n| 32 | 350-ft. cube | Gargantuan | 3d6 | 125 tons | Catapult |\n| 64 | 500-ft. cube | Colossal | 4d6 | 2,500 tons | Ship |\n\n*Sample items listed are sized for a Medium-sized creature; modify the object size accordingly for objects sized for smaller or larger creatures.\n\nThe Value of Recovered Ore: Ore recovered through the (metal) package from the Nature sphere is of poor quality and degrades quickly, making it impossible to simply create and sell. However, players who possess a metal-based Craft or Profession skill such as Craft (weapons) or Profession (blacksmith) can heat and purify this ore to make it workable. This allows such a character to attempt Craft or Profession checks to earn a wage even without the presence of a market or workshop to work in. Rather than earning money, the check instead creates an amount of raw materials equal to that day or week’s wage, which may be sold later or used as raw materials for any metal-based crafting.\n\n**Reforge:** Instantaneous, requires metal. As a standard action, you may spend a spell point to cause an unattended object (or object that you are holding) consisting mostly of metal whose size is not larger than your maximum Recover Ore size to be reshaped into a different object of the same size. For example, you could reshape a longsword into a mace. You may not reshape metal objects into forms with complex moving parts.\n\nIf targeting a magical item, the effect is not instantaneous, but lasts for only 1 minute before the object reverts to its original form. If reshaping a magical item would make it no longer qualify for specific enhancements, those enhancements are suppressed for the effect’s duration. Reforge does not function on artifacts."
+    },
+    {
+     "name": "Plant",
+     "tags": [],
+     "talentTags": [],
+     "anchor": "plant",
+     "md": "**Entangle:** Concentration, requires grass, weeds, vines, or underbrush. You cause plants to grow rapidly, wrapping themselves around everything in a 10-foot radius + 5 feet per 5 caster levels area centered within range. Creatures within this area must succeed at a Reflex save or gain the entangled condition and become unable to move. Creatures that succeed at their save can move as normal, but those that remain in the area must save again at the end of each turn you maintain the effect. Creatures that move into the area must save immediately.\n\nThose that fail end their movement and gain the entangled condition. Entangled creatures can break free as a move action, if they succeed at a Strength or Escape Artist check against a DC equal to the effect’s Reflex save DC. This area is also considered difficult terrain for the duration of the effect. If the area contained plants with thorns, all creatures suffer 1 point of piercing damage each round they are within this area.\n\n**Harvest:** Instantaneous, requires fruit trees, berry bushes, or food crops. You may spend a spell point to cause plants to sprout food spontaneously. You may affect up to 1 plant per caster level within range. Each plant produces enough food to provide 3 Medium-sized creatures or 1 horse with food for a day.\n\n**Pummel:** Concentration, requires a tree. You cause a tree branch to come alive and attack a foe you designate. The tree cannot move, but it makes one slam attack each round against the designated target until you spend a move action to designate another target or until the target dies or moves out of range. Slam attacks from the pummel deal damage as if it were a primary attack, may be enhanced as a natural weapon as if the tree branch were a creature, and are not subject to spell resistance. You cannot designate a target you cannot perceive.\n\nThe branch has a Strength score equal to 10 + your caster level, and a to-hit modifier equal to your caster level + its Strength modifier + its size modifier. You may animate a Medium branch at 1st caster level, and your maximum size increases by 1 category per 5 caster levels. An entire tree can count as a branch, provided the tree is not larger than your maximum Pummel size.\n\nIn place of animating a branch of Large-size or larger, you may animate a pair of branches that are two sizes or smaller on the same tree. You can only do this once per branch that you otherwise could animate with pummel. For example, at CL 20, when targeting a Colossal tree, they can choose to animate: 1 Colossal-sized branch, or 2 Huge-sized branches, or 2 Large-sized branches, or 2 Medium-sized branches, etc. Branches are still objects, and as such always fail saving throws, can gain the broken condition (suffering a -2 penalty to attack and damage rolls), and are destroyed when reduced to 0 hit points.\n\n**Note:** There are very few worlds, even among fantasy, where trees exist that are Colossal+ or larger. However, a caster of particularly high caster level may still subdivide larger branches into smaller branches using Table: Number of Branches Per Size Category of Tree as a guide. For example, a Colossal++ tree would have 1d4 (avg 3) Colossal-sized branches, 3d4 (avg 8) Huge-sized branches, and 9d4 (avg 23) Large-sized branches. Regardless of your caster level, or the size of the tree, you cannot animate a branch that is larger than Colossal-sized.\n\n**Note:** Primary natural attacks usually get a 1.5x Strength multiplier for their damage. See the rules on natural attacks in the CRB for more information on this.\n\n**Table: Branch Size**\n\n| Size | Example | Size Modifier | Slam damage | Reach | Armor Class | Hardness | Hit Points |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Small | Tertiary Branch or Sprout | -1 | 1d4 | 5 ft. | 8 | 5 | 2 |\n| Medium | Secondary Branch or Sapling | 0 | 1d6 | 5 ft. | 7 | 5 | 5 |\n| Large | Primary Branch or Young Tree | +1 | 1d8 | 10 ft. | 6 | 5 | 15 |\n| Huge | Juvenile Tree | +2 | 2d6 | 15 ft. | 5 | 5 | 50 |\n| Gargantuan | Typical Adult Tree | +4 | 3d6 | 20 ft. | 4 | 5 | 150 |\n| Colossal | Massive Tree | +8 | 4d6 | 30 ft. | 3 | 5 | 500 |\n\n**Number of Branches Per Size Category of Tree**\n\n| Tree Size | Number of Medium Branches | Number of Large Branches | Number of Huge Branches |\n| --- | --- | --- | --- |\n| Huge | 1d4 (avg 3) | - | - |\n| Gargantuan | 3d4 (avg 8) | 1d4 (avg 3) | - |\n| Colossal | 9d4 (avg 23) | 3d4 (avg 8) | 1d4 (avg 3) |"
+    },
+    {
+     "name": "Water",
+     "tags": [],
+     "talentTags": [],
+     "anchor": "water",
+     "md": "Blood Sphere Note: If you possess both the Nature sphere (water) package and the Blood sphere, you may treat a volume of blood as an equal volume of water for your (water) geomancing abilities. You may treat a creature susceptible to bleed damage that is taking bleed damage or below half its maximum hit points as being wet for any ability that requires it. You may treat a creature susceptible to bleed damage of at least Large size (count two Medium creatures as a Large creature, two Small creatures as a Medium creature, etc.) that is suffering bleed damage or below half its maximum hit points as a sufficient volume to use the Fog ability.\n\n**Fog:** Concentration, requires rain, mist, or at least 5 cubic feet of water. You call up a rolling fog, cutting off people’s vision within a 10-foot radius + 5 feet per 5 caster levels area centered within range. The fog obscures all sight, including darkvision, beyond 5 feet. A creature within 5 feet has concealment (attacks have a 20% miss chance). Creatures farther away have total concealment (50% miss chance and the attacker cannot use sight to locate the target). The ability does not function underwater. If using a body of water, the fog must be at least partially over the water itself.\n\nIf you spend a spell point to maintain this effect without concentration, a moderate wind (11+ mph) will disperse it within 4 rounds. In the presence of a strong wind (21+ mph), you cannot use this ability.\n\n**Freeze:** Instantaneous, requires water. You may spend a spell point to flash freeze water, turning it into ice. You may freeze a 1 inch thick, 5-foot-by-5-foot square of water per caster level. Alternatively, you may cover a wet Medium-sized creature with 1 inch of ice per caster level. You may increase the size of the frozen area or size/number of the frozen creatures, but divide the ice’s thickness by the equivalent number of Medium-sized creatures.\n\nCreatures smaller than Medium count as Medium-sized creatures for this effect, with the exception of multiple creatures occupying the same space. Add the sizes of multiple creatures occupying the same space together when determining their size for this purpose. For swarms, count each 5-foot square as being 2 Medium-sized creatures occupying the same space. You may affect both squares and creatures, but all affected targets and spaces must be contiguous and must have the same thickness of ice.\n\nCreatures are allowed a Reflex save to avoid being frozen. On a failure, they are encased and cannot move, and suffer 1 point of cold damage per round per inch of ice. To escape, they must succeed at a Strength check or Escape Artist check as a full-round action to escape the ice (DC 15 +1 per inch of thickness) or another creature must break the ice around the trapped creature (3 hit points per inch). While encased, a target can only take mental or verbal actions, or attempt to escape. Being encased in ice blocks line of effect, but not line of sight (the creature may still be targeted, but effects that deal damage to the target must break through the ice first before dealing damage to the target). On a successful save, the target is still entangled for 1 round. Ice melts 1 inch of thickness per minute on the average day.\n\nWhen freezing ice or wet ground, you may also create slick ice. A creature traversing slick ice must spend two squares of movement to first enter a space with ice, and cannot move more than half speed without a successful DC 15 Acrobatic check at the start of the movement, falling prone on a failure.\n\nRunning or charging requires a DC 20 Acrobatics check, falling prone on a failure, but increasing the runner’s move across the ice by 10 feet if successful by 5 or more, though the runner is considered flat-footed until the start of its next turn.).\n\n**Table: Creature Size**\n\n| Creature Size | Equivalent number of Medium-sized creatures |\n| --- | --- |\n| Fine | 1/16 |\n| Diminutive | 1/8 |\n| Tiny | 1/4 |\n| Small | 1/2 |\n| Medium | 1 |\n| Large | 2 |\n| Huge | 4 |\n| Gargantuan | 8 |\n| Colossal | 16 |\n\n**Vortex:** Concentration, requires a large body of liquid. You may create a spinning vortex in a body of liquid that sucks creatures and objects to its center. This vortex is 5 feet wide at its base, is 10 feet high + 5 feet per 5 caster levels, and is half as wide at the top as it is high. Any creature entering this area must succeed at a Reflex save or suffer bludgeoning damage equal to 1d8 + 1/2 your caster level (minimum 0). If the creature is smaller than the vortex, they must succeed at a second Reflex save or be pulled into the middle of the vortex. Creatures in the middle of the vortex suffer bludgeoning damage once per round with no save, and must succeed at a Reflex save each round or be unable to move, and on a success may only move at half their swim speed. A vortex cannot contain more creatures than would exceed its volume.\n\nYou may move the vortex up to 30 feet per round as part of the action required to concentrate on it. If maintaining the effect through a method other than concentration, you may designate a simple pattern for it to move, which you may alter as a move action. Creatures in the middle of the vortex are carried along with it as it moves."
+    }
+   ]
+  },
+  {
+   "id": "nature/deep-nature",
+   "name": "Deep Nature",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Nature Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#deep-nature",
+   "md": "When you use a geomancing or spirit ability that requires concentration, the ability continues to maintain itself for 2 rounds after you stop concentrating. When you spend a spell point to make a geomancing or spirit ability endure without concentration, its duration increases by one step (1 round per caster level becomes 1 minute per caster level, while 1 minute per caster level becomes 10 minutes per caster level).",
+   "options": []
+  },
+  {
+   "id": "nature/elemental-strike-strike",
+   "name": "Elemental Strike",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Nature Talents",
+   "tags": [],
+   "talentTags": [
+    "Strike"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#elemental-strike-strike",
+   "md": "*Source: Expanded Spheres: Baron's Lost Apocrypha*\n\nAs a standard action, you may make a single weapon attack in conjunction with using a geomancing effect which can target a creature or object. This casting cannot be reduced below a standard action, and does not provoke attacks of opportunity, unless as usual if making a ranged attack. If the target is struck by the attack, it is also affected by the geomancing. If using a scatter weapon, the geomancing only applies to a single target, chosen at the time of attack. If you possess the Grant Spirit talent, you may affect the target with a spirit effect which requires an attack roll or combat maneuver (such as destroy element) in place of a geomancing effect.",
+   "options": []
+  },
+  {
+   "id": "nature/environmental-presence-mass",
+   "name": "Environmental Presence",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Nature Talents",
+   "tags": [],
+   "talentTags": [
+    "Mass"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#environmental-presence-mass",
+   "md": "*Source: Expanded Spheres: Baron's Lost Apocrypha*\n\nWhen using a geomancing or spirit effect which targets a creature or object, you may spend an additional spell point to affect an additional 1 target per 2 caster levels (minimum 1) at the same time. Each target must be within range and must be affected by the same geomancing or spirit effect.\n\nIf you would gain an ability which would grant you the mass talent associated with the nature sphere, you must choose between gaining this talent or the second instance of the Grant Spirit talent (provided you already have the first instance of Grant Spirit and thus qualify for the second).",
+   "options": []
+  },
+  {
+   "id": "nature/expanded-geomancing",
+   "name": "Expanded Geomancing",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Nature Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#expanded-geomancing",
+   "md": "Choose and gain a Nature package you do not already possess. You may select this talent multiple times, gaining a new package each time.",
+   "options": []
+  },
+  {
+   "id": "nature/grant-spirit",
+   "name": "Grant Spirit",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Nature Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#grant-spirit",
+   "md": "When activating one of your spirit Nature abilities, you may touch a willing target and grant them the benefit of your (spirit) talent, rather than gaining it yourself. This can only be done with (spirit) talents that have a non-concentration duration, and requires a minimum of a standard action when granting an effect to another.\n\nYou may take this talent twice. When taken twice, you may spend an additional spell point to affect up to 1 additional creature per 2 caster levels (minimum 1). Each target must be within range and must be affected by the same (spirit) talent and ability. Once created, each spirit is considered a separate sphere effect. Taking this talent twice is considered a mass talent.",
+   "options": []
+  },
+  {
+   "id": "nature/instill-spirit-instill",
+   "name": "Instill Spirit",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Nature Talents",
+   "tags": [],
+   "talentTags": [
+    "instill"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#instill-spirit-instill",
+   "md": "As a standard action you may touch a small container of liquid and instill a spirit effect inside it, which functions as a potion or oil. Spirit effects with an instantaneous or concentration duration cannot be instilled, and if you do not have the ability to grant spirit effects to other creatures, the instilled liquid is only usable by you.\n\nAn instilled liquid remains potent until you rest to regain spell points. If you have equipment on hand (such as an alchemy lab), the cost of bottles and water is considered negligible. You may target food but not an already-magical item, such as a potion. All spell points must be spent and all variables of the sphere effect must be chosen at the time the instilled liquid is created. You cannot instill multiple effects in a single liquid, nor create multiple instilled liquids with a single action.",
+   "options": []
+  },
+  {
+   "id": "nature/ranged-geomancy-range",
+   "name": "Ranged Geomancy",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Nature Talents",
+   "tags": [],
+   "talentTags": [
+    "range"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#ranged-geomancy-range",
+   "md": "The range of your geomancing abilities increases from close to medium range. You may select this talent up to 2 times. Each time it is selected, the range increases by 1 step (close to medium, medium to long).",
+   "options": []
+  },
+  {
+   "id": "nature/wild-instinct",
+   "name": "Wild Instinct",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Nature Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#wild-instinct",
+   "md": "While concentrating on any Nature sphere ability, you gain the benefits of uncanny dodge. You may take this talent twice, upon taking this talent a second time, you also gain the benefits of improved uncanny dodge using your caster level in place of class level to determine the minimum rogue level required to flank you.",
+   "options": []
+  },
+  {
+   "id": "nature/air-mastery-air-geomancing",
+   "name": "Air Mastery",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Geomancing Talents",
+   "tags": [
+    "air",
+    "geomancing"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#air-mastery-air-geomancing",
+   "md": "When you use the Gust Of Wind ability, you may create a cone area of effect instead of a line. Additionally, you gain the following geomancing abilities:\n\n**Absorbing Inhalation:** Concentration. You may, as a standard action, grant your lungs inhuman strength and capacity, allowing you to harmlessly and completely inhale one gas, fog, smoke, mist, or similar cloud-like effect during the duration of the talent. The cloud-like effect can have no larger of a radius than 10 feet + 5 feet per 5 caster levels. If the targeted cloud is a magical effect, you must succeed at a magic skill check to inhale it. Inhaling the cloud removes it from the area, leaving normal breathable air in its place. Gaseous creatures gain a Reflex save to avoid being inhaled. This talent can only affect an instantaneous-duration cloud (such as a breath weapon) if you ready an action to utilize the talent in response.\n\nYou may keep the cloud harmlessly contained within you for as long as the talent remains active, but you must hold your breath to do so (even if you do not normally have to breathe).\n\nIf the cloud has a duration, the time the cloud is contained within you counts toward that duration (gaseous creatures are immediately and harmlessly exhaled should their gaseous form expire in the nearest empty space). As a standard action, you may release the stored cloud as a breath weapon, filling a 60- foot cone (or the cloud’s original area, if smaller). Any creature in the breath’s area is subject to its normal effects, attempting saving throws and spell resistance checks as appropriate against the cloud’s original DC. The exhaled cloud resumes its duration, if any. Exhaling the stored cloud immediately ends the duration of this talent. If you do not exhale the cloud before this talent’s duration expires, you suffer the cloud’s effects, automatically fail any saving throw made to resist it, and exhaling any gaseous creatures inhaled into the nearest empty space.\n\n**Feather Fall:** Concentration, requires air. You cause all falling creatures or objects within a 5 feet + 5 feet per 5 caster levels radius to fall slowly, changing the rate at which they fall to a mere 60 feet per round (equivalent to the end of a fall from a few feet). The targets take no damage upon landing while this talent is in effect. Once applied, this effect stays with the individually affected targets until the duration expires. You may use this ability as an immediate action by spending a spell point.",
+   "options": []
+  },
+  {
+   "id": "nature/aquatic-adept-water-geomancing-spirit",
+   "name": "Aquatic Adept",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Geomancing Talents",
+   "tags": [
+    "water",
+    "geomancing",
+    "spirit"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#aquatic-adept-water-geomancing-spirit",
+   "md": "You gain several abilities which improve your capacity to operate underwater.\n\n**Adjust Buoyancy (spirit):** You may spend 1 spell point to change your buoyancy to swiftly rising, neutral, or swiftly sinking for 10 minutes per level (see the aquatic rules section of Pathfinder Campaign Setting: Aquatic Adventures for rules on buoyancy). Your buoyancy does not change based on what equipment you are carrying. As a standard action, you may change your buoyancy again (alongside the buoyancy of any other willing creatures affected by this spirit).\n\n**Aquatic Mire (geomancing):** You may create fog effects underwater, in which case they function as they normally would in the air. Instead of wind, currents can disperse an underwater fog; any current with a speed of at least 10 feet disperses a fog in 1 round.\n\n**Create Current (geomancing):** If you have the (air) package, you may use the gust of wind ability underwater, creating a current of equal speed and range to the gust of wind you could create (see the aquatic rules section of Pathfinder Campaign Setting: Aquatic Adventures for rules on currents).\n\n**Deep Adaptation (spirit):** You adapt incredibly quickly to changes in pressure, taking no damage from pressure effects. In addition, you can move and attack underwater normally without the usual penalties involved with underwater combat, as if under the effects of freedom of movement (this does not grant you the other benefits of the spell). This benefit lasts for as long as you concentrate or 10 minutes per caster level if you spend 1 spell point.\n\n**Echoes of the Sea (spirit):** You may spend 1 spell point to gain the ability to track creatures through the water as if across soft ground as long as they passed through the area less than 1 week ago (this lets you notice trails that are much older than normal underwater trails). You retain this benefit for 1 hour per caster level.",
+   "options": []
+  },
+  {
+   "id": "nature/breeze-mastery-air-geomancing",
+   "name": "Breeze Mastery",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Geomancing Talents",
+   "tags": [
+    "air",
+    "geomancing"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#breeze-mastery-air-geomancing",
+   "md": "When using Breeze, you may spend a spell point to have it affect an area, granting its benefits to all creatures within a 15-foot radius + 5 feet per 5 caster levels. Additionally, when you use Breeze, you may add any of the following additional effects depending on what other packages you possess.\n\n**Air: Stable Winds:** Requires air. You can create incredibly powerful winds, allowing you to walk upon the air with some difficulty as long as you concentrate. You can spend a spell point to allow yourself to walk on air as if walking on solid ground, with moving upward being similar to walking up a hill. The maximum upward or downward angle possible is 45 degrees, which is at a rate equal to half your normal land speed.\n\nWind of severity level 3 or higher can blow you away regardless of your size, with any checks required (such as a Strength or Fly check) using your casting ability modifier instead of the normal ability modifier used for the check. You begin to fall as normal if you stop concentrating on this effect.\n\n**Earth: Stabilizing Dustveil:** Requires sand or loose dirt. You can create winds made up of fine particles of dust and sand, stabilizing the area around you. The circumstance bonus granted by Breeze also applies to your CMD against bull rush, reposition, trip, and overrun combat maneuvers made against you. Additionally, you treat the first square of difficult terrain you enter every round as if it were normal terrain.\n\n**Fire: Warm Breeze:** Your breeze is heated to ward against the chill. Instead of the normal bonus to saves against very hot conditions or severe heat, Breeze instead grants this bonus to saves against very cold conditions and severe cold. Additionally, when used in this way, creatures affected by your Breeze treat the severity of all cold and precipitation weather effects as one step less severe, plus one per 10 caster levels you possess.\n\n**Metal: Ferrous Zephyr:** Requires metal. You can create a breeze filled with fine filaments of metal. The circumstance bonus granted by Breeze also applies to your AC and to saving throws against electricity-based effects. Additionally, you ignore the penalties associated with the broken condition with any of your worn or wielded equipment (but is still considered broken regardless) as long as the Breeze is active.\n\n**Plant: Fragrant Flurry:** Requires grass, vines, or weeds. Your breeze smells of pleasant meadows and flowers, and causes vines and flowers to grow where it touches. The circumstance bonus granted by Breeze also applies to saving throws against the nauseated and sickened conditions and any harmful effects that rely on smell. Additionally, the DC required to track creatures affected by Breeze increases by an amount equal to the circumstance bonus granted by Breeze.\n\n**Water: Cooling Breeze:** Requires rain, mist, or at least 5 cubic feet of water. Creatures affected by your Breeze treat the severity of all aridity and heat weather effects as one step less severe, plus one per 10 caster levels you possess.",
+   "options": []
+  },
+  {
+   "id": "nature/create-nature-geomancing",
+   "name": "Create Nature",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Geomancing Talents",
+   "tags": [
+    "geomancing"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#create-nature-geomancing",
+   "md": "As an instantaneous effect, you may spend a spell point to create your geomancing element anywhere within range. While this is its own geomancing ability, it may also be combined with another geomancing ability as part of the same action, in which case the second geomancing ability comes into effect immediately, using the created element to meet the second ability’s prerequisites. You must pay any costs associated with both abilities to combine them in this manner.\n\nCreate Nature counts as a geomancing ability or effect belonging to the package being used.\n\n**Air: Create Air:** You create a cloud of air. This creates one 5-foot cube per 2 caster levels (minimum 1 cube) of breathable air. The created cloud of air will immediately displace other gases, liquids, and vapors in the area, but will shortly thereafter behave as normal air. For example, if this talent is used underwater, the created air cloud will form a bubble that will begin to ascend to the surface.\n\n**Earth: Granulate:** You create enough loose dirt or sand to cover a 5-foot radius + 5 feet per 5 caster levels area. You may reduce the spell point cost by 1 (minimum 0 spell points) if you choose to break apart rock and stone within this area (reducing their thickness by 1 inch, +1 inch per 5 caster levels), instead of creating the dirt or sand spontaneously.\n\n**Collapsing Structures**\nGenerally speaking, single castings of Create Nature (earth) on stone structures will not be enough to compromise the structural integrity of a building. Should half of the structure's load bearing columns, keystones, or walls be reduced to half thickness or less, a weakened area is created. Those who notice the weakened area (with a successful DC 20 Craft (stonemasonry) or Knowledge (engineering) check) may exacerbate the situation by destroying half of the structure's load-bearing objects, triggering a cave-in or collapse. Rules for the cave-in and collapse hazard can be found in the Pathfinder Gamemastery Guide.\n\n**Fire:** While the (fire) package already has the power to Create Fire, you may now combine Create Fire with another geomancing ability, as outlined above. This can include using Affect Fire and Create Fire at the same time to create truly powerful fires. Unlike the uses listed above, you do not need to spend a spell point to combine Create Fire and other geomancing abilities as part of the same action.\n\n**Metal:** You may now use Recover Ore in conjunction with other geomancing abilities, as outlined above, though doing so increases the cost of Recover Ore to 2 spell points instead of 1.\n\n*Hemoglobin:* You may create metal ore out of a living creature’s essence. Target a living corporeal creature within your geomancing range. To use hemoglobin, make a ranged touch attack against the target, inflicting 1d2 Constitution damage to the target (Fortitude save for half damage). The die size of the Constitution damage increases by 1 step for every 5 caster levels (1d3, 1d4, 1d6, etc.). Regardless of the creature’s size or bodily composition, you Recover Ore of Fine size upon successfully hitting the target. While the name of this ability suggests the target must bleed or have blood, it is not necessary; the only requirement is that the creature be corporeal and living. If the target is immune to ability damage, you still Recover Ore of Fine size.\n\n**Plant: Grow Plants:** You spontaneously grow plants. This may create one tree (to a maximum size equal to that which you can control through the Pummel geomancing ability) or a field of plants within a 5-foot radius + 5 feet per 5 caster levels area. This may create basic plants (corn, underbrush, ivy) and may be combined with Harvest to create edible food, but cannot create plants with inherent qualities (i.e., you cannot create rare herbs, etc.).\n\n**Water: Create Water:** You create a pool of water. You create one 5-foot cube per 2 caster levels (minimum 1 cube) of clean water. Using this ability in conjunction with Vortex can create a vortex that travels on land, so long as it is always touching the ground. Using this ability in conjunction with Freeze can allow you to create walls of ice by freezing vertical spaces as you would normally do horizontal spaces. These walls cover the same area and have the same hit points as usual, but may be arranged in a contiguous wall no more than 5 feet high per inch of thickness.",
+   "options": []
+  },
+  {
+   "id": "nature/earth-mastery-earth-geomancing",
+   "name": "Earth Mastery",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Geomancing Talents",
+   "tags": [
+    "earth",
+    "geomancing"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#earth-mastery-earth-geomancing",
+   "md": "Increase the maximum radius of your Bury and Tremor by an additional 5 feet per 5 caster levels. Additionally, you gain the following geomancing abilities:\n\n**Unearth:** Concentration, requires dirt or stone. You may manipulate the earth surrounding a burrowing or buried creature or object, forcing them to be pushed or pulled 5 feet + 5 feet per 5 caster levels each round towards the surface (Fortitude negates). While affected, the target is unable to burrow or earth glide on its own, but is otherwise unimpeded. You may only target a creature or object whose location you have pinpointed (such as with a successful Perception check or with tremorsense). Unless the target has earth glide, the creature cannot be forcefully moved through stone (or lava if the target possesses fire resistance 20+ or fire immunity), but rather only sand or dirt. Each round, the target is allowed a new Fortitude save to end the effect.\n\n**Sandstone:** Instantaneous. You may spend a spell point to transform dirt or sand into stone in an area within range. The size of the created rock or stone depends both on your caster level and the radius of dirt or sand you target. Alternatively, you may encase a dirt or sand covered target in 1 inch thick stone. Refer to Table: Sandstone to determine the maximum target size to be encased. For every size smaller the encased target is than the required radius of dirt or sand, either double the thickness of the stone or increase the number of encased targets. Creatures and objects are allowed a Reflex save to avoid being trapped in stone. On a failure, creatures or objects caught in the area are encased; to escape, they must succeed at an Escape Artist or Strength check (equal to your Bury geomancing DC) as a full-round action; alternatively, a creature may break free by dealing sufficient damage to the rock or stone.\n\nStone has a hardness of 15 and 2 hit points per inch. On a successful save, affected targets are still entangled and immobilized until they escape or 1 minute per caster level, whichever comes first.\n\n**Author's Note:** When Sandstone states that it uses the Bury geomancing DC, it is primarily referring to the +1 DC increase for each subsequent round in which a target does not escape from the effect while it is still active.\n\n**Table: Sandstone**\n\n| Minimum Caster Level | Required Radius of Dirt/Sand | Created Rock or Stone Size | Maximum Target Size | Encased Rock or Stone Weight (maximum) |\n| --- | --- | --- | --- | --- |\n| 1 | 1-ft. radius | Diminutive | Small | 1 lb. |\n| 1 | 5-ft. radius | Tiny | Medium | 8 lbs. |\n| 2 | 10-ft. radius | Small | Large | 60 lbs. |\n| 4 | 15-ft. radius | Medium | Huge | 500 lbs. |\n| 8 | 20-ft. radius | Large | Gargantuan | 2 tons |\n| 16 | 25-ft. radius | Huge | Colossal | 16 tons |\n| 32 | 30-ft. radius | Gargantuan | Colossal+ | 125 tons |",
+   "options": []
+  },
+  {
+   "id": "nature/elevated-nature-geomancing",
+   "name": "Elevated Nature",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Geomancing Talents",
+   "tags": [
+    "geomancing"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#elevated-nature-geomancing",
+   "md": "Your geomancing abilities can now affect greater depths and heights; rocks fly, vines reach, and fire blazes in such a way as to affect creatures at much higher or lower elevations than normal.\n\nWhen using Entangle or Tremor, you may affect flying creatures up to 10 feet per caster level over the effect. Affected creatures must succeed at a Fly check (DC 15 + caster level) or fall; Entangle pulls targets harmlessly to the ground and entangles them as normal, while Tremor causes targets to suffer falling damage.\n\nWhen creating a Vortex, increase the height to 10 feet + 10 feet per caster level. The top of the vortex is 10 feet + 5 feet per 5 caster levels wide, though the base of the vortex is still 5 feet.\n\nWhen using Affect Fire, you may cause the fire to manifest as a pillar, reaching 10 feet per caster level into the air.\n\nWhen using Gust Of Wind you may create the gust as a column with a radius of 5 feet + 5 feet per 5 caster levels and a height of 10 feet per caster level, centered anywhere within your geomancing range.\n\nWhen using Magnetize, double the range you can target.",
+   "options": []
+  },
+  {
+   "id": "nature/fire-mastery-fire-geomancing",
+   "name": "Fire Mastery",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Geomancing Talents",
+   "tags": [
+    "fire",
+    "geomancing"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#fire-mastery-fire-geomancing",
+   "md": "You gain a number of ways of expressing mastery over fire. You gain the following geomancing abilities:\n\n**Alter Light:** Concentration. You may alter the light produced by a fire within your Affect Fire maximum. You may halve or double the radius of its light, as well as change its granted light from an emanation to a cone of double its light radius. You may also increase its granted light by 1 level (usually to bright light) or decrease its granted light by 1 level (to dim light).\n\n**Extinguish:** Instantaneous. You may spend a spell point to extinguish any and all fires within your geomancing range that are within your Affect Fire maximum, as you desire.\n\n**Reflash:** Instantaneous. If a non-magical fire within range would become extinguished (through magical or mundane means), you may, as an immediate action, cause the fire to relight in up to a 15-foot radius burst of flame dealing fire damage equal to the largest sized fire you can create. This can be used to reignite a character who has caught on fire and extinguished the flames. If so, a successful Reflex save halves the damage and negates catching fire.",
+   "options": []
+  },
+  {
+   "id": "nature/fog-mastery-water-geomancing",
+   "name": "Fog Mastery",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Geomancing Talents",
+   "tags": [
+    "water",
+    "geomancing"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#fog-mastery-water-geomancing",
+   "md": "When you create Fog, you may add one of the following additional effects depending on what other packages you possess.\n\n**Air: Wind Blades:** Your fog attacks those inside it with blades of wind. Any creature or object moving through this fog must succeed at a Reflex save or suffer 1d6 + 1 per 2 caster levels points of slashing damage for every 5 feet of movement spent entering or moving through this fog.\n\n**Earth: Sandstorm:** Requires loose dirt or sand instead of water. You create a sandstorm. In addition to the fog, this also functions as a Vortex, except it travels over land and extends into the air, and can even leave the ground and travel in the air. The obscuring effect only applies to the actual area of the vortex, and creatures that possess earthsight or tremorsense do not have their vision obscured by this effect.\n\n**Fire: Smokescreen:** Requires fire instead of water. You may create a fog out of smoke instead of mist. Creatures that begin their turn within or enter the cloud must succeed at a Fortitude save or become blinded for 1 minute. In addition, creatures suffer –2 penalty on attack rolls and Perception checks for as long as they remain inside and for 1 round after exiting the smoke. Creatures that possess firesight do not have their vision obscured by clouds modified with this effect.\n\n**Metal: Acid Rain:** You may spend an additional spell point to create acid rain. An acid fog deals 1d6 acid damage per 2 caster levels (minimum 1d6, no save) to creatures inside it. This fog deals damage when you first create it and each subsequent round at the beginning of your turn. Any creature who enters the cloud immediately suffers damage, but only once even if they leave and re-enter the cloud as part of their movement. Creatures that possess metalsight do not have their vision obscured by this effect.\n\n**Plant: Spore Cloud:** Requires grass, weeds, or trees instead of water. You may create a cloud of spores. Creatures that begin their turn within or enter the cloud must succeed at a Fortitude save or become sickened for as long as they remain within the fog + 1d6 rounds after leaving. If a creature fails its Fortitude save against this effect while already sickened, it also becomes nauseated for 1 round. Creatures and objects that exit the cloud are covered in visible sticky spores that remain until removed as a full-round action; outlining their form and revealing their position, and making invisibility impossible without first cleaning off the spores. Creatures that possess greensight or plantsight do not have their vision obscured by this effect.\n\n**Water: Solid Fog:** You may make your fog so thick that it becomes effectively solid. Creatures move at half their speed through the fog, cannot make 5-foot steps, and suffer a -1 penalty to all weapon attacks and damage rolls made within or that pass through this area -1 per 10 caster levels. Objects that fall within this area are slowed so that each 10 feet of fog reduces the falling damage by 1d6, +1d6 per 10 caster levels.",
+   "options": []
+  },
+  {
+   "id": "nature/hazardous-terrain-geomancing",
+   "name": "Hazardous Terrain",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Geomancing Talents",
+   "tags": [
+    "geomancing"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#hazardous-terrain-geomancing",
+   "md": "You know how to make many of your geomancing abilities particularly dangerous.\n\nWhen using the Freeze or Tremor geomancing abilities, you may cause the affected area to grow spike-like formations which last 1 round per caster level. If using Freeze on creatures, this affects the spaces adjacent to where they are standing. Freeze can’t create both spikes and slippery ice in the same space.\n\nWhenever a creature steps onto an affected square, make a touch attack roll against the target using your caster level as your attack bonus. If successful, the target suffers piercing damage equal to your caster level (minimum 1) and has its land speed reduced by half due to its wounded feet. This movement penalty lasts for 24 hours or until the creature is treated with a DC 15 Heal check or receives at least 1 point of fast healing/magical healing/regeneration. A charging or running creature must immediately stop if it enters the affected area. A creature may move at half speed through this area without risking damage to itself.\n\nWhen using Entangle you may cause the effect to grow thorns, dealing piercing damage equal to 1d6 + your caster level per round to all creatures inside the effect. Those who succeed at their Reflex save against the Entangle take half damage.\n\nWhen using Affect Fire or Create Fire, increase the space the fire occupies as if it were one size category larger than it actually is.\n\nFinally, when using Magnetize you may target a 5-foot radius + 5 feet per 5 caster levels area instead of a single target. When used in this way, Magnetize becomes a concentration effect. Any target who enters or begins their turn within this area is attacked by the metal object, as if using the Magnetize ability. These attacks are not attack actions. A single creature can only be attacked once per round in this way, no matter how many times they pass through the affected area during their movement. While this effect is active, attempting to grab or impede the Magnetized object requires a successful grapple (CMD equals 10 + your caster level + your casting ability modifier + any size benefit or penalty from the object).",
+   "options": []
+  },
+  {
+   "id": "nature/manipulate-nature-geomancing",
+   "name": "Manipulate Nature",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Geomancing Talents",
+   "tags": [
+    "geomancing"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#manipulate-nature-geomancing",
+   "md": "You may manipulate the elements to take on different shapes. The types and forms you can create are determined by your Nature packages, as outlined below:\n\n**Air: Air Geyser:** Instantaneous, requires air. You may, as a standard action, create a powerful blast of air capable of flinging a Medium-sized or smaller target within range upward into the air (Reflex negates). If the target fails its Reflex save, the force of air hurls the target upward a number of feet equal to 5 x your caster level (or 10 x your caster level if you spend an additional spell point). If a solid object (such as a ceiling) is encountered, the target strikes the object taking 1d6 damage per 10 feet that the target was not hurled upward. For example, if a creature would be hurled 20 feet into the air but hits a ceiling at 10 feet, the target would take 1d6 damage. After this blast of air ceases, the target falls down (unless it was flying), taking falling damage as normal. The maximum size of the target increases by 1 size category every 5 caster levels.\n\n**Earth: Forge Earth:** Instantaneous, requires ground. You may spend a spell point to alter the ground within a 5-foot radius + 5 feet per 5 caster levels area centered within range. You may raise or lower the terrain up to 5 feet + 5 feet per 5 caster levels, and may create variants within the affected area such as summoning a small wall or creating gradients and stair effects. You cannot both raise and lower the terrain with the same use of this ability and cannot create variants in anything smaller than 5-foot squares (i.e., you cannot create 1-foot diameter holes or create a spike of earth). Targets within this area are not damaged by falling if you lower the terrain, and climbing up the edges of lowered terrain usually requires a DC 15 Climb check.\n\n**Fire: Move Fire:** Concentration. You may move a fire within your Affect Fire size up to 10 feet per caster level per round in whatever manner and direction you desire. A fire moved in this way continues to burn, even without fuel (although it may be drowned or extinguished otherwise as normal), and dies as soon as the effect ends if not moved to a new fuel source. If you have spent a spell point to make this use of Affect Fire self-sustaining, directing the fire is still a move action. When moving fire to or through a space occupied by a creature, that creature suffers the fire’s damage and catches on fire (Reflex for half damage and to not catch on fire). A creature can only be affected once per round by a fire, no matter how many times the fire moves through their space.\n\nIf you can Affect Fire or Create Fire, you may Move Fire as part of those geomancing effects.\n\n**Metal: Pin-ball:** When using the Magnetize geomancing ability as a weapon, if the attack hits you may spend a spell point as a free action to Magnetize another creature within range and make a ranged attack at that creature. These additional attacks are not attack actions. The number of granted attacks increases by +1 per 5 caster levels, but if you miss once the pin-ball ability ends without any further attacks. You may not make ranged attacks with the pin-ball ability two or more times in a row against the same target.\n\n**Plant: Shelter:** Instantaneous, requires tree or branch. You may spend a spell point to reshape a tree to create a shelter. Use the Pummel geomancing ability to determine the hit points and size of a shelter based on the tree used (the radius of the shelter is the reach of the tree or branch used). Creatures and equipment under the shelter suffer no harm from being in a hot or cold environment, and can exist comfortably in conditions between –50 and 140 degrees Fahrenheit (-45.5 and 60 degrees Celsius) without having to attempt Fortitude saves. In addition, the shelter provides protection against other environmental hazards such as smoke, lack of air, and so forth, however the vessel does not protect against any environmental damage such as cold or fire damage. The shelter also provides cover (+4 AC, +2 Reflex saves) to and from those inside, and hostile creatures cannot enter the shelter without first destroying the shelter. However, if the tree or branch used to create the shelter is destroyed, the effects of the shelter immediately end.\n\n**Author's Note:** The Shelter geomancing ability is intended to work similarly to the Secure Shelter spell. As such, incorporeal creatures should be able enter the shelter without forcing their way in. Similarly, the shelter should not inherently restrict creatures from teleporting into the structure provided that the teleporting creature meets all other requirements, such as line of sight, etc.\n\n**Water: Wave:** Instantaneous, requires water. You may create a surge in water that pushes targets in its wake. This surge may be created anywhere within range and may face any direction, but once created it travels in a straight line for a distance of 30 feet + 5 feet per 2 caster levels. This area may extend out of the water and onto land to a maximum of 10 feet + 5 feet per 5 caster levels. The wave created is 5 feet wide. The width may be doubled by halving the length. This may be done multiple times, but the length cannot become smaller than 5 feet. A target cannot be pushed back further than the wave’s length.\n\nAll creatures within the affected area are pushed as if by a bull rush combat maneuver, except it does not provoke an attack of opportunity. Use your caster level + your casting ability modifier in place of your CMB. If the target is on land and is successfully pushed by this ability, they must also succeed at a Reflex save or fall prone. If combined with Create Water, it may be created anywhere and may travel up to 30 feet + 5 feet per 2 caster levels over land.",
+   "options": []
+  },
+  {
+   "id": "nature/metal-mastery-metal-geomancing",
+   "name": "Metal Mastery",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Geomancing Talents",
+   "tags": [
+    "metal",
+    "geomancing"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#metal-mastery-metal-geomancing",
+   "md": "Whenever you use Recover Ore, you gain the ability to Recover Ore of iron, lead, or steel. Upon reaching caster level 5th, you add cold iron and silver to the types of ore you may recover. At caster level 10th, you gain the ability to recover mithral ore.\n\nWhen using Magnetize, you may also affect the metal object with Reforge with the same action, spending a spell point to transform the metal object into a more dangerous form. The object may take the form of a specific weapon of your choice, or simply into a dangerous form which deals bludgeoning, slashing, and piercing damage and deals double the ore damage normal for its size.\n\nYou also gain the following geomancing ability:\n\n**Fortify:** Instantaneous. You may spend 2 spell points as a standard action to fortify an unattended object (even non-metal objects) within range. The target becomes fused with metal, permanently increasing or decreasing the hardness and AC of the object by 1, +1 per 5 caster levels. An object may only be under the effects of one fortify at a time, as each future casting dismisses and replaces the previous casting. This grants no further benefit or penalties due to the metals used.",
+   "options": []
+  },
+  {
+   "id": "nature/nature-lord-geomancing",
+   "name": "Nature Lord",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Geomancing Talents",
+   "tags": [
+    "geomancing"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#nature-lord-geomancing",
+   "md": "Treat your caster level as 5 higher when determining the maximum area radius and height you can affect with your geomancing abilities that affect an area (such as Bury, Dust Storm, Entangle, Fog, Gust Of Wind, Purify Air, Tremor, or Vortex).\n\nWhen using a geomancing ability dependent on size (such as Affect Fire, Create Fire, Magnetize, Pummel, or Recover Ore), increase the maximum size object you can create or target by 1 size category.\n\nWhen using Freeze, you may affect twice as many equivalent Medium-sized creatures without affecting the thickness of the ice.\n\n**Author's Note:** You can apply this effect to each applicable effect. For example, if using the Create Nature talent to both Create Fire and Affect Fire, both abilities will receive the size increases from the Nature Lord talent",
+   "options": []
+  },
+  {
+   "id": "nature/plant-mastery-plant-geomancing",
+   "name": "Plant Mastery",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Geomancing Talents",
+   "tags": [
+    "plant",
+    "geomancing"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#plant-mastery-plant-geomancing",
+   "md": "Your mastery of plantlife becomes even more pronounced. Increase the maximum radius of your Entangle by an additional 5 feet per 5 caster levels.\n\nWhen using Pummel, you may spend an additional spell point. If you do, you may affect an additional number of branches equal to 1 + 1 per 5 caster levels.\n\nWhen using Harvest, you may produce 2 magical berries per caster level, along with the usual food. Any creature who consumes one of these berries is healed 1 hit point. These berries lose their magical potency after 24 hours.",
+   "options": []
+  },
+  {
+   "id": "nature/primordial-branches-plant-geomancing",
+   "name": "Primordial Branches",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Geomancing Talents",
+   "tags": [
+    "plant",
+    "geomancing"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#primordial-branches-plant-geomancing",
+   "md": "*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*\n\nWhen you use the Pummel geomancing ability, you can add one of the following additional effects depending on what other packages you possess.\n\n**Air—Hollow Wood:** The animated branch becomes elongated and deft. The branch’s reach increases by +5 feet, +5 feet per 5 caster levels, but has its hardness reduced to 0. Also, the branch gains a Dexterity score equal to 10 + your caster level (which can improve its AC), and can attempt Reflex saving throws instead of automatically failing them. Instead of a regular attack, you can instruct an animated branch to reach for an unattended object within its reach and either put it in your hand or stow it on you, as long as you are also within its reach.\n\n**Earth—Enriched Soil:** The soil that sustains the branch is filled with life. The branch gains fast healing equal to half your caster level, and as long as it is Large or smaller, it gains an additional amount of hit points equal to your caster level.\n\n**Fire—Combustible Bark:** Once per round whenever a branch makes a slam attack, you can instruct the vegetation to set the target ablaze. The creature must succeed at a Reflex save or catch fire, functioning as a Tiny-sized fire. Additionally, your branches are immune to cold and fire damage.\n\n**Metal—Bioferrous Alloy:** The branch becomes reinforced with metal fibres. The branch’s hardness increases to 8, +1 per 2 caster levels. Additionally once per round instead of a regular attack, you can instruct the vegetation to perform a sunder or disarm combat maneuver. Lastly, such a branch’s attacks are treated as silver and cold iron for the purposes of damage reduction. At caster level 15, the branch’s attacks are also considered adamantine for this purpose.\n\n**Plant—Grasping Vines:** The animated vegetation can move up to 5 feet each round when directed (or an additional 5 feet if it already could). Additionally, once per round instead of a regular attack, you can instruct the vegetation to perform a grapple combat maneuver—the vegetation has an effective CMD equal to 10 + its to-hit modifier.\n\n**Water—Flexible Fibres:** Once per round instead of a regular attack, you can instruct the vegetation to perform a bull rush, reposition, or trip combat maneuver. Additionally, the branch’s attacks ignore the AC bonus granted to targets by anything less than total cover.\n\nA combat maneuver attempted by a branch uses its to-hit modifier as its combat maneuver bonus, and you can direct other vegetation within range of this attempt to assist a maneuver it could normally perform (including your own) instead of a regular attack, granting a cumulative +1 circumstance bonus to the attempt.",
+   "options": []
+  },
+  {
+   "id": "nature/pummel-mastery-plant-geomancing",
+   "name": "Pummel Mastery",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Geomancing Talents",
+   "tags": [
+    "plant",
+    "geomancing"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#pummel-mastery-plant-geomancing",
+   "md": "You may direct your animated branches to attack as a free action instead of a move action. In addition, you may cause a branch to perform any of the following actions instead of making an attack.\n\n**Aggravating Vegetation:** You may instruct the vegetation to focus on antagonizing its target instead of making a regular attack. The branch or tree makes an attack roll as an antagonize check against the target’s Psychology DC (10 + Hit Dice + Wisdom modifier; or 10 + Sense Motive bonus, if it is higher). Unlike a normal antagonize check, you do not suffer a –4 penalty on antagonize attempts made against opponents of a different creature type or that are of animal intelligence (Intelligence 1 or 2). Creatures who have been previously antagonized gain a +4 bonus to their Psychology DC. Mindless creatures are immune to the effects of antagonize.\n\nAntagonize is a mind-affecting effect. If you successfully beat the target’s Psychology DC, the creature, instead of taking damage, gains the antagonized condition against the attacking vegetation. The antagonized condition remains for 1 round. The duration of this condition increases by 1 round for every 5 by which you beat your opponent’s Psychology DC.\n\n**Antagonized Condition:** The antagonized condition appears in Ultimate Charisma, published and copyrighted by Everyman's Game, LLC.\n\nAn antagonized creature can only target its antagonist (the one who caused the antagonized condition) with hostile actions. A hostile action is any attack or effect that causes direct harm to an opponent in the form of damage, negative conditions, or any other effect that penalizes or hinders a creature. Furthermore, an antagonized creature does not threaten any opponents except its antagonist: it cannot make attacks of opportunity or be used to determine flanking bonuses against other opponents. A creature is no longer antagonized if its antagonist is helpless, unconscious, or cannot participate in combat. If an antagonizes creature uses an ability that targets multiple creatures, the antagonist must be chosen among these targets. If an antagonized creature uses an ability that targets an area, its antagonist must be within the ability's targeted area.\n\nOn each round after the first, an antagonized creature may attempt a Sense Motive skill check as a swift action to realize the folly of its actions. This skill check is opposed by the antagonist's original antagonize skill check. If the creature succeeds on its Sense Motive skill check, the antagonized condition ends, but the creature suffers a -2 penalty on attack rolls and a -2 penalty to the saving throw DC of its abilities and any spells it casts for 1 minute. These penalties do not apply against the antagonist.\n\n**Sap Conglutination:** Instead of a regular attack, you may instruct the vegetation to excrete a rubbery resin and attempt to coat the target with it. Targets hit by the attack become coated with this sap and gain the fatigued condition until they remove it as a full-round action. If a fatigued creature becomes coated with sap a second time, they gain the exhausted condition until the sap is removed as a full-round action.",
+   "options": []
+  },
+  {
+   "id": "nature/purify-nature-geomancing",
+   "name": "Purify Nature",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Geomancing Talents",
+   "tags": [
+    "geomancing"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#purify-nature-geomancing",
+   "md": "You may purify the nature around you, making brackish water drinkable, poisonous plants edible, and hazardous air breathable.\n\n**Air: Improved Purify Air:** You may spend a spell point to cast Purify Air as an instantaneous effect, causing the affected area to be purified of any toxins indefinitely (not accounting for the natural spreading of such gases). Additionally, whenever you concentrate on Purify Air, you may choose to center the sphere effect’s radius on yourself. If the air you are attempting to purify is magical in nature (including fog and clouds), you must attempt a magic skill check against the magic skill defense of the caster (the MSD of a supernatural effect is 11 + the CR of the effect's source). On a success, all negative effects such as concealment or damage are removed from the purified air.\n\n**Earth: Cultivate Soil:** If you possess the (earth) package, as an instantaneous effect, you may spend a spell point to cause the soil within a 20-foot radius, plus 10 feet per 4 caster levels you possess to churn and enrich itself, allowing the soil to be used to grow plantlife. If the earth you are attempting to purify is cursed or poisoned, you must attempt a magic skill check against the magic skill defense of the effect, or the DC of the poison (if any). On a success, the curse or poison is dispelled and removed from the affected area.\n\n**Fire: Purifying Heat:** If you possess the (fire) package, as an instantaneous effect, you may spend a spell point to attempt to purify any toxins within a creature’s bloodstream using extreme heat. You may attempt a magic skill check against the DC of each poison the target is suffering from. On a success, the poison is neutralized.\n\n**Metal: Pure Metals:** If you possess the (metal) package, whenever you would use Recover Ore to gain materials to earn a wage using an appropriate Craft or Profession skill, you earn double your check result in gold pieces worth of raw materials, instead of half your check result. Additionally, you may use Reforge to completely remove all rust and damage on a non-magical metal object, removing the broken condition from the object and causing it to regain 1d4 hit points, +1 additional hit point per 4 caster levels you possess. If you possess Reforge Mastery, this increases to 1d6 + 1/2 your caster level hit points.\n\n**Plant: Purify Food:** If you possess the (plant) package, as an instantaneous effect, you may spend a spell point to purify all food within a 10-foot radius, plus 5 feet per 4 caster levels you possess, making spoiled, rotten, or otherwise contaminated food edible. If the food you are attempting to purify is poisoned or diseased, you must attempt a magic skill check against the DC of the poison or disease. On a success, the poison or disease is removed from the food.\n\n**Water: Purify Water:** If you possess the (water) package, as an instantaneous effect, you may spend a spell point to purify all water within a 10-foot radius, plus 5 feet per 4 caster levels you possess of brackish, stagnant, or otherwise contaminated water. If the water you are attempting to purify is poisoned or diseased, you must attempt a magic skill check against the DC of the poison or disease. On a success, the poison or disease is removed from the water.",
+   "options": []
+  },
+  {
+   "id": "nature/reforge-mastery-metal-geomancing",
+   "name": "Reforge Mastery",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Geomancing Talents",
+   "tags": [
+    "metal",
+    "geomancing"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#reforge-mastery-metal-geomancing",
+   "md": "As a concentration effect, you may use a limited form of Reforge that can even affect attended objects. When targeting an attended object, you may apply one of the following effects.\n\n**Reforged Edge:** You may target a weapon and affect its critical hit threat range, increasing or decreasing it by 1, +1 per 10 caster levels. This bonus or detriment is applied after abilities and feats such as Improved Critical or the keen weapon special ability, and cannot be doubled. If this would decrease a weapon’s critical hit threat range below 1, the weapon instead has its critical hit multiplier decreased by 1 for every point it is reduced below 1 (minimum x1 crit multiplier).\n\n*Author's Note:* This sphere effect can increase the critical threat range of a weapon to be higher than normally possible (such as 12–20 with a sufficiently high caster level). By GM discretion, a GM can adjust this talent to not increase the critical threat range of an altered weapon higher than 15–20.\n\n**Reforged Reach:** You may target a weapon and increase the weapon’s reach by up to 5 feet + 5 feet per 10 caster levels.\n\n**Chill Metal:** If you possess the (water) package, you may target a piece of metal or mostly-metal equipment and decrease its temperature. Any creature who begins their round touching the chilled metal takes 1d6 cold damage per 2 caster levels. If the chilled metal is something they are holding such as a sword or coin, they may attempt a Reflex save to drop the item to take only minimum damage, otherwise, the creature may attempt a Fortitude save for half damage. Worn equipment such as armor cannot be dropped in this fashion. If the object is used as a weapon, it deals an additional 1d6 cold damage. If this ability is used on a metal object with moving parts (such as a door’s hinges), those pieces become non-functional as they freeze together, requiring a Strength check to beat your MSD to break loose and restore functionality.\n\n**Heat Metal:** If you possess the (fire) package, you may heat metal. This functions the same as chill metal, except dealing fire damage instead of cold damage, and moving parts cease functionality due to being slightly welded rather than frozen.",
+   "options": []
+  },
+  {
+   "id": "nature/repress-element-geomancing",
+   "name": "Repress Element",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Geomancing Talents",
+   "tags": [
+    "geomancing"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#repress-element-geomancing",
+   "md": "*Source: [Spheres Apocrypha: Battlefield Manipulation Talents](https://www.drivethrurpg.com/product/350940/Spheres-Apocrypha-Battlefield-Manipulation-Talents?affiliate_id=549120)*\n\nAs a concentration effect, you may temporarily obliterate an element within a 5-foot radius + 5 feet per 5 caster levels area within range. Creatures of a subtype corresponding to a repressed element are nauseated for the duration of the repression unless they succeed at a Fortitude save (this saving throw is made as soon as they enter the area of repression).\n\nAny effect with a descriptor corresponding to the repressed element does not manifest within the area unless the caster succeeds at a magical skill check. Additional effects apply depending on the element repressed.\n\n- **Air: Vacuum Generation:** The area becomes a vacuum, preventing creatures from breathing or sound (including sonic effects) from moving through the area. Characters cannot cast with verbal components in the vacuum. Starting at caster level 5th, all creatures in the area of the created vacuum take 1d6 bludgeoning damage, plus an additional 1d6 damage for every 5 caster levels thereafter. Creatures who remain within this area must save at the end of your subsequent turns or suffer damage again. If a creature enters this area after its creation, it also suffers this damage. A creature may only be affected by the damage from vacuum once per round, regardless of how many times they enter or exit the area that turn. Creatures that need air to breathe suffer from suffocation in a vacuum as normal. At caster level 10th, all creatures that suffer damage from the vacuum must succeed at a Fortitude save or become fatigued.\n- **Earth: Disintegrate Earth:** Stone and crystalline entities begin to phase out of existence, weakening their defenses. All stone or crystalline objects in the area have their hardness reduced by half your caster level and creatures made of stone or crystal have any DR and natural armor bonuses they possess reduced by half your caster level (minimum 0). Weapons made of stone or crystal deal damage as if they were one size smaller plus an additional size smaller per 5 caster levels (minimum of 1 damage) and AC bonuses granted by armor and shields made of crystal or stone is reduced by half your caster level (minimum 0). A creature is allowed a Fortitude save to negate the effects of this ability on themself and any equipment they are carrying (although they must save again if they leave and re-enter the area).\n- **Fire: Heat Drain:** Combustions are negated in the area. For the duration of the effect, all non-magical fires in the area are extinguished (although they can re-ignite when the effect ends). Any fire damage taken by creatures in the area is halved. All light in the area is decreased by one step plus an additional step for every 5 caster levels you possess. At caster level 10th, electricity damage and damage from explosives is reduced in the same manner as fire damage.\n- **Metal: Disintegrate Metal:** As Disintegrate Earth, save that the effects apply to creatures and equipment made of metal rather than stone or crystal.\n- **Plant: Disintegrate Flora:** As Disintegrate Earth, save that the effects apply to creatures and equipment made of wood, vines, or other plant-based materials rather than stone or crystal.\n- **Water: Evaporation:** The area becomes immensely dry, causing all unattended liquid in the area to evaporate (although it may return to liquid state when the effect ends). Living creatures in the area take a -2 penalty on Fortitude saves. This penalty increases by 1 per 5 caster levels. At caster level 10th, even attended liquids like potions dry up temporarily in the area, although owners are allowed a Fortitude save to negate this effect for as long as they remain in the area (although they must save again if they leave and re-enter the area).",
+   "options": []
+  },
+  {
+   "id": "nature/riding-fog-water-geomancing",
+   "name": "Riding Fog",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Geomancing Talents",
+   "tags": [
+    "water",
+    "geomancing"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#riding-fog-water-geomancing",
+   "md": "You may create clouds of fog attached to yourself or to other creatures. A fog cloud attached to a creature is called a riding fog. This functions as a regular fog and can be dispersed by wind, except that it moves with the creature it is attached to, becomes inactive if that creature is knocked unconscious and is dispelled if they are killed. The fog continues to function if it goes beyond the range of its creator.\n\nThe recipient must be within range of your geomancing. An unwilling creature can have a riding fog attached to them as a touch attack; A creature is allowed a Will save to prevent having the fog attached to them and may attempt another saving throw each round to end the fog. The Break Enchantment talent from the Life sphere or a similar effect can dispel the riding fog before its natural duration expires. An enemy with a riding fog attached to them still receives any saving throws the fog allows to avoid being affected. A successful save causes the fog to immediately dissipate.\n\nSpell resistance can prevent a riding fog from being attached to a creature. Failing to bypass the intended target’s spell resistance in attempting to attach the fog dispels the fog.",
+   "options": []
+  },
+  {
+   "id": "nature/temperature-fire-geomancing",
+   "name": "Temperature",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Geomancing Talents",
+   "tags": [
+    "fire",
+    "geomancing"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#temperature-fire-geomancing",
+   "md": "Your control over fire extends to a level of mastery over temperature. You gain the following geomancing abilities.\n\n**Trail Blaze:** Instantaneous. You may spend a spell point to create a wave of ash, hot air and smoke in 120-foot line which reveals a safe path to traverse, allowing creatures to ignore difficult terrain within the affected area for a number of rounds equal to 1/2 your caster level (minimum 1). Creatures who are caught in the area of effect when first cast must attempt a Fortitude save or become exhausted, creatures that succeed at their saves become fatigued instead.\n\n**Boil Water:** Concentration, you must possess the (water) package. you may, as a standard action, cause a 5-foot cube of water per 2 caster levels (minimum one 5-foot cube) within range to heat up and boil, dealing 1d6 per 2 caster levels (minimum 1d6, no save) fire damage to any creature within. Each round at the beginning of your turn, any creature still within the boiling water suffers damage again. If a creature enters the boiling water, they immediately suffer damage, but only once during their movement, no matter how many times that movement takes them in and out of the boiling water.\n\n**Melt Earth:** Concentration, you must possess the (earth) package. You may spend 2 spell points as a standard action to melt the surface of a 5-foot square of sand, dirt, or stone, plus another contiguous 5-foot square per 5 caster levels, transmuting the top inch per caster level into lava. This is not enough lava to create vortexes. Creatures who enter this square or begin their turn in this square suffer 1d6 fire damage per caster level (Reflex half, targets who are in the square when the lava is created may instead attempt a Reflex save to move out of the space and avoid all damage).\n\nEven after a creature leaves the lava, creatures who failed a saving throw against this lava suffer half damage each round for 1d3 rounds (no save). A creature may spend a full-round action to remove the lava and end this effect for future rounds. If a creature is within this square when the effect ends, the earth instantly cools around the creature, immobilizing it (Reflex negates).\n\nAn immobilized creature cannot move until it succeeds at Strength or Escape Artist check against the caster’s Nature DC, both of which require a full-round action. Alternatively, another creature may attempt a Strength check as a standard action to break the earth, or any creature may deal 5 damage per caster level to the earth to break it.",
+   "options": []
+  },
+  {
+   "id": "nature/thrown-pummel-plant-geomancing",
+   "name": "Thrown Pummel",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Geomancing Talents",
+   "tags": [
+    "plant",
+    "geomancing"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#thrown-pummel-plant-geomancing",
+   "md": "When using the Pummel geomancing ability, the tree branches may throw vegetation as a ranged attack instead of only making melee slam attacks. The attack is treated as a thrown weapon with a range increment equal to twice the tree branch’s reach. The attack roll and damage otherwise remain unchanged.",
+   "options": []
+  },
+  {
+   "id": "nature/water-mastery-water-geomancing",
+   "name": "Water Mastery",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Geomancing Talents",
+   "tags": [
+    "water",
+    "geomancing"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#water-mastery-water-geomancing",
+   "md": "Your mastery of water is delicate and intricate. You may manipulate snow as if it were liquid water.\n\nIn addition, you gain the following geomancing abilities:\n\n**Air Bubble:** Concentration, requires both water and air, meaning it usually must be used at the water’s surface. You may fold water in such a way that it traps air inside of it. This can take one of two forms: You may create either an individual air bubble around a creature’s head, or create a large bubble measuring up to 5 feet + 5 feet per 5 caster levels in radius. You may move this bubble as if it were a Vortex. An individual air bubble allows a creature to breathe underwater for 1 hour normally, but otherwise does not impede swimming. A larger air bubble traps significantly more air, and allows those inside to remain dry and walk on the ground at the bottom of the body of water as if it were ground. A large air bubble contains enough air for a Medium creature to breathe normally for 6 hours per 5 feet in the bubble’s radius.\n\n*Slow Suffocation:* A medium character can breathe easily for 6 hours in a sealed chamber measuring 10 feet on a side. After that time, the character takes 1d6 points of nonlethal damage every 15 minutes. Each additional medium character or significant fire source (a torch, for example) proportionally reduces the time the air will last. Once rendered unconscious through the accumulation of nonlethal damage, the character begins to take lethal damage at the same rate. Small characters consume half as much air as medium characters.\n\n**Push Swimmer:** Instantaneous. You may move creatures and objects within a 5-foot radius + 5 feet per 5 caster levels area that are surrounded or submerged in water up to 5 feet per 2 caster levels in any direction that ends with them still in water (Reflex negates if unwilling). A target slammed into a solid object suffers 1d6 falling damage per 10 feet of movement.",
+   "options": []
+  },
+  {
+   "id": "nature/destroy-element-spirit",
+   "name": "Destroy Element",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Spirit Talents",
+   "tags": [
+    "spirit"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#destroy-element-spirit",
+   "md": "As a standard action you may spend a spell point to remove and deconstruct your elements. This requires a melee or ranged touch attack against a target within your geomancing range. You may use the following abilities depending on what packages you possess.\n\n**Air: Suffocation:** You pull the breath from a living creature’s lungs. The target is allowed a Fortitude save to resist, and on a failure is staggered and is left unable to speak, use breath weapons, cast spells with verbal components, or perform any other action requiring breath for 1d4 rounds, +1 per 2 caster levels. If a target is unable to breathe for long enough, they may begin to suffocate, as detailed in the Gamemastery Guide.\n\n**Earth: Shatter:** You may target an unattended, non-magical object, regardless of composition, of up to 10 lbs. per caster level and shatter it to pieces. This can be used to target objects attached to other objects (for example, a door or window), but cannot target a section of a larger object (for example, a portion of a stone wall). You may instead target a creature comprised mostly of stone or crystal; stone creatures suffer 1d6 damage per 2 caster levels while crystalline creatures suffer 1d6 damage per caster level (Fortitude half).\n\n**Fire: Ash Strike:** You may generate a cone of ash that reaches from you to the edge of your geomancing range. This does not require a touch attack. This ash reveals invisible characters until they can wash off the ash or remove it as a full-round action (which provokes attacks of opportunity), and reveals the square invisible creatures are in if they walk on the ground, as they leave footprints in the ash. Targets struck by the ash strike must succeed at a Fortitude save or be blinded for 1d4 rounds, or until they wash off or remove the ash as mentioned above.\n\n**Metal: Oxidation:** You destroy a metal object or creature. If the target’s size is one or more sizes larger than the size of ore that you can recover, the creature or object takes 1d8 damage per 2 caster levels (Fortitude half), otherwise the target takes 1d8 per caster level (Fortitude half). This damage overcomes any hardness the creature or object may have. If targeting an attended object, you must pass the touch attack roll and the target is allowed a Reflex save to negate damage. If an object receives sufficient damage to destroy it, it instead becomes non-functional for 1 minute per 2 caster levels, before returning to the broken condition with 1 hit point.\n\n**Plant: Decompose:** You cause a living target’s flesh to rot, possibly even growing mold and mushrooms. The target suffers 1d4 + 1 per 5 caster levels points of Constitution damage (Fortitude half). If a target fails their saving throw against this ability, all fast healing/magical healing/regeneration they gain is halved for 1 round per caster level (minimum 1).\n\n**Water: Dehydration:** You suck the moisture from a living creature, causing it to suffer 1d6 nonlethal damage per caster level and become sickened for 1 round (Fortitude half). Oozes, plants, and creatures with the aquatic or water subtypes suffer lethal damage instead.",
+   "options": []
+  },
+  {
+   "id": "nature/dragonlung-spirit",
+   "name": "Dragonlung",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Spirit Talents",
+   "tags": [
+    "spirit"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#dragonlung-spirit",
+   "md": "You gain a breath weapon as a supernatural ability when you gain this talent. This breath weapon is either a 60-foot line or a 30-foot cone, chosen the first time this talent is gained. This talent may be taken twice to gain both options. This breath weapon deals 1d8 damage per 2 caster levels (minimum 1d8), and allows a Reflex save for half damage. Using this breath weapon is a standard action, but you must wait at least 1d4 rounds between uses.\n\nWhenever you use this breath weapon, you may choose a damage type from among those available to you based on your packages, as outlined below:\n\n- **Air:** sonic damage\n- **Earth:** bludgeoning/slashing/piercing damage\n- **Fire:** fire damage\n- **Metal:** electricity damage\n- **Plant:** acid damage\n- **Water:** cold damage",
+   "options": []
+  },
+  {
+   "id": "nature/friend-to-wildlife-spirit-utility",
+   "name": "Friend To Wildlife",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Spirit Talents",
+   "tags": [
+    "spirit"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#friend-to-wildlife-spirit-utility",
+   "md": "Choose either animals or vermin. You may take this talent twice to gain both options.\n\nYou may spend a spell point as a standard action to cause the chosen creature type to treat you as a friend for 1 minute per caster level. Indifferent creatures (such as domesticated animals or domesticated honeybees) become friendly to you, while unfriendly creatures (such as wild animals) become indifferent to you. This means that wild creatures will not attack unless provoked, and you may make requests of these creatures, provided you may communicate with them (if you cannot communicate with a creature, only basic commands such as ‘go’, ‘come’, ‘fight’, or ‘stay’ may be communicated). This has no effect on animals or vermin who are hostile to you (such as those already in combat), and a creature with a master (such as an animal companion) will still attack if commanded to by its master.\n\nOnce during the duration of this ability, you may call the nearest animal or vermin (depending on the type chosen when this talent is taken) of a particular type you designate to seek you out. The creature’s CR cannot exceed your caster level, though if you choose vermin you may summon a swarm with a CR no more than 1/2 your caster level. The creature moves toward you under its own power, so the time it takes to arrive depends on how close a creature of the desired type is when you cast the spell. If there is no animal or vermin of that type capable of reaching you within this effect’s duration, you are aware of this fact.",
+   "options": []
+  },
+  {
+   "id": "nature/master-of-elements-spirit",
+   "name": "Master Of Elements",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Spirit Talents",
+   "tags": [
+    "spirit"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#master-of-elements-spirit",
+   "md": "You count as possessing three additional Nature packages of your choice when determining what (spirit) talents you can gain and use. You may take this talent twice, which allows you to count as possessing every package. If you later gain all Nature packages except one per time you’ve gained this talent, you immediately retrain this talent into Expanded Geomancing.\n\nAbilities from (spirit) talents that scale off of geomancing abilities (such as an ability that deals damage or determines size by referencing a particular ability) function normally according to the statistics that ability would have if you possessed it. For retraining purposes, possessing any Nature package counts as having Master Of Elements.",
+   "options": []
+  },
+  {
+   "id": "nature/natures-carapace-spirit",
+   "name": "Nature’s Carapace",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Spirit Talents",
+   "tags": [
+    "spirit"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#natures-carapace-spirit",
+   "md": "You may spend a spell point as a move action to wrap an element around yourself for 1 minute per caster level. This allows you to grant yourself one of the benefits outlined below, dependent on the packages you possess:\n\n**Air: Buffeting Winds:** You gain a 10% miss chance vs. ranged attacks, +10% per 5 caster levels. This does not affect ranged weapons that are unusually massive, such as boulders or siege weapons.\n\n**Earth: Stoneskin:** You gain DR/adamantine equal to 1/2 your caster level. Once this has absorbed damage equal to 10 per caster level, it immediately ends even if its duration has not expired.\n\n**Fire: Flame Mantle:** You place fire around yourself as a mantle. This does not deal fire damage to yourself, but all adjacent creatures take fire damage equal to the largest fire you can create at the end of each of your turns, and must succeed at a Reflex save or catch fire.\n\n**Metal: Iron Body:** You wrap yourself in thick iron. You count as a creature comprised mostly of metal and gain a +6 armor bonus and a -3 armor check penalty, both of which increase by 1 per 4 caster levels, and you are considered to be wearing heavy armor, such as when calculating movement speed. You are considered armed when making unarmed attacks, and gain a +2 bonus to Strength and a -2 penalty to Dexterity, both of which increase by 2 for every 8 caster levels you possess.\n\n**Plant: Barkskin:** You gain a +1 enhancement bonus to natural armor, +1 per 5 caster levels. In addition, in natural environments you gain a circumstance bonus to Stealth equal to 1/2 your caster level (minimum 1). You lose this circumstance bonus to Stealth in any round that you move more than 5 feet.\n\n**Water: Seamantle:** You wrap water around yourself, gaining a circumstance bonus to Escape Artist checks and combat maneuver checks made to escape a grapple, as well as to your CMD to avoid being grappled, equal to your caster level. Additionally, the distortion from the water grants you a 10% chance to negate critical hits and precision damage, +10% per 5 caster levels.",
+   "options": []
+  },
+  {
+   "id": "nature/natures-movement-spirit",
+   "name": "Nature’s Movement",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Spirit Talents",
+   "tags": [
+    "spirit"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#natures-movement-spirit",
+   "md": "You may spend a standard action to gain one of the following benefits for 1 round. You may spend a spell point to gain one of the following benefits for 1 minute per caster level. You may move up to your speed with the granted move type as part of activating this sphere effect, so long as the action used was at least a move action. The movements you can choose are determined by the packages you possess.\n\n**Air: Air Ball:** You gain a rideable sphere of compressed air, which can support 200 + 20 lbs. per caster level. This ball can float up to 5 feet + 5 feet per 5 caster levels above the ground, and has a movement speed equal to your base land speed. This ball is only usable by you, but others may ride along if the ball can support the weight of all riders. The ball is treated as a mount, but requires no Ride or Fly checks to use and cannot be affected by uses of those skills such as cover or spur mount, nor can be targeted by opponents.\n\n**Earth: Burrow:** You can tunnel through sand, loose soil, or gravel, at a burrow speed equal to half your land speed (minimum 10 feet) or at a burrow speed equal to a quarter of your land speed through stone (minimum 5 feet). While burrowing with this talent you cannot charge or run. This ability does not grant you the ability to breathe underground, so when passing through loose material, you must hold your breath and take only short trips or else you may suffocate.\n\n**Fire: Ride the Flames:** You may use heat waves to push yourself, gaining a fly speed equal to your base land speed, with a maneuverability of clumsy. This fly speed only functions on your turn. If you are not on a surface that can support you on the end of your turn, you glide safely to the ground, at a speed of 60 feet per round, taking no falling damage. You cannot use this fly speed to hover.\n\n**Metal: Ironshod:** You become difficult to impede with traps, hazards, and difficult terrain. You reduce any damage you take from traps, hazards, and difficult terrain (including caltrops and spike stones) by your caster level, and you can still 5-foot step through difficult terrain. When moving through difficult terrain, you may completely ignore 5 feet of difficult terrain + 5 feet per 5 caster levels when calculating your movement for a round.\n\n**Plant: Brachiate:** You gain a climb speed equal to half your land speed (minimum 10 feet), granting you all the usual benefits of a Climb speed, including a racial +8 bonus to Climb checks. In addition, you can move through the upper canopies of jungles and forests with the same ease you move along the ground. You can use your base land speed to move through any heavily forested area without touching the ground by leaping and swinging from tree to tree. You can also use this among the rafters of a building, or even stalactites on a cavern ceiling.\n\n**Water: Water Walk:** You gain the ability to walk on water. Water and all other liquid becomes solid to you, allowing you to move over it as if it were normal ground. Especially turbulent water (such as during a storm) may count as difficult terrain. You may always choose to sink into the water and swim if you so desire, in which case you are considered to have a Swim speed equal to your land speed, granting you all the usual benefits of a Swim speed, including a racial +8 bonus to Swim checks. This does not, however, grant you the ability to breathe underwater.",
+   "options": []
+  },
+  {
+   "id": "nature/natures-weapon-spirit",
+   "name": "Nature’s Weapon",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Spirit Talents",
+   "tags": [
+    "spirit"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#natures-weapon-spirit",
+   "md": "You may perform one of the following special attacks or gain one of the following benefits. In addition to the effects that already possess a duration, if you possess the ability to grant (spirit) talent abilities to another you may spend a spell point as a standard action to grant a target the ability to use one of these attacks for 1 round per caster level. The options available are dependent on your Nature packages, as outlined below:\n\n**Air: Cacophony:** As a standard action you may create a torrent of wind that deals sonic damage equal to 1d4 + 1 per caster level to all creatures and unattended objects within a cone that reaches from you to the edge of your geomancing range. Any creature damaged by the effect must succeed at a Fortitude save or be deafened for 1d4 rounds.\n\n**Earth: Stone Fist:** As a free action you may encase one or both of your fists with stone for 1 round. While so encased, you cannot hold anything in that hand and suffer a -2 armor check penalty. You also are considered armed when making unarmed strikes with that hand, gain a +1 shield bonus to AC, and your unarmed strikes with that hand deal 1d6 damage Medium (1d4 Small) and ignore hardness less than 8. This damage increases by 1 die size (1d8, 1d10, 2d6, 2d8, etc.) every 4 caster levels you possess, and the shield bonus increases by 1 for every 6 caster levels you possess. This does not stack with monk levels or other effects that increase the damage of unarmed strikes.\n\n**Fire: Fire Wielder:** As a free action you may create a fire in one or both of your hands. You are considered armed with this fire, and can treat it as a light weapon when making attacks. Attacks with this flame are touch attacks, and deal fire damage equal to the largest fire you can create with Create Fire. This fire cannot be augmented like a normal fire, and attacks with this fire are not augmented by your Strength modifier or effects that increase physical damage such as Power Attack, as flame is immaterial. You cannot be disarmed of this fire, but you may throw it as a ranged weapon attack with no range penalty to a maximum of your geomancing range.\n\n**Metal: Blade Whip:** As a standard action you may reshape a mostly metal weapon (such as a sword or battleaxe) you are wielding into a cable and perform a trip, disarm or sunder combat maneuver against a target within your geomancing range. This is considered a ranged attack, and you cannot be targeted in return on a failure. You gain a bonus to the check equal to 1/2 your caster level (minimum 1). After the combat maneuver check has been resolved, your weapon returns to its original form.\n\n**Plant: Bramble Strike:** You may spend a spell point as a standard action to cause brambles to burst from any mostly wooden weapon (such as a club, quarterstaff, or spear) you are wielding, or pieces of mostly-wooden ammunition such as an arrow or bolt coming from a ranged weapon you are using, for 1 round per caster level. Once per round when you strike a creature with one of your qualifying weapons, you may cause them to attempt a Reflex save. On a failure, the target becomes entangled for 1 round. For every 10 caster levels you possess, you may use this ability an additional time per round. Escaping this entanglement follows the same rules as escaping from the Entangle geomancing ability. If a creature fails their saving throw while already entangled from this effect, the condition’s duration increases by 1 round.\n\n**Water: Icicles:** You may spontaneously create an icicle in your hand as a free action. These icicles count as masterwork daggers and melt if they leave your hand for more than 1 round. These icicles gain a +1 enhancement bonus per 4 caster levels you possess (maximum +5) and deal an amount of extra cold damage equal to 1/2 your caster level.",
+   "options": []
+  },
+  {
+   "id": "nature/nature-sight-spirit",
+   "name": "Nature Sight",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Spirit Talents",
+   "tags": [
+    "spirit"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#nature-sight-spirit",
+   "md": "You may gain a supernatural sense depending on what Nature packages you possess for as long as you concentrate, or you may spend a spell point to gain the sense for 1 minute per caster level. This sense has a range equal to your geomancing range. Each sense must be gained as a separate effect.\n\n**Air: Cloudsight (Su):** You gain mistsight, except allowing you to only see through clouds of fog, mist, and smoke as if they were transparent. In addition, you do not suffer miss chance from concealment or total concealment against creatures that are flying or have the air subtype provided they are within range of your cloudsight.\n\n**Earth: Earthsight (Su):** You gain tremorsense, only allowing you to detect anything in contact with the same body of ground as you. In addition, you do not suffer miss chance from concealment or total concealment against creatures that are underground or have the earth subtype provided they are within range of your earthsight.\n\n**Fire: Firesight (Su):** You can see through flames, lava, and smoke as if they were transparent. In addition, you do not suffer miss chance from concealment or total concealment against creatures that are on fire or have the fire subtype provided they are within range of your firesight.\n\n**Metal: Metalsight (Su):** You gain the scent ability, except only allowing you to detect metal objects (including creatures wearing or carrying metal objects). In addition, you do not suffer miss chance from concealment or total concealment against ferrous creatures or creatures that have the clockwork or robot subtypes provided they are within range of your metalsight.\n\n**Plant: Plantsight (Su):** You gain greensight, except only allowing you to see through leaves, living wood, greenery, undergrowth, and vines as if they were transparent (you still cannot see through dead wood). In addition, you do not suffer miss chance from concealment or total concealment against creatures that are entangled in plantlife or of the plant creature type provided they are within range of your greensight.\n\n**Water: Watersense (Su):** You gain tremorsense, except only allowing you to detect anything in contact with the same body of water as you. In addition, you do not suffer miss chance from concealment or total concealment against creatures that are underwater or have the water subtype provided they are within range of your watersense.",
+   "options": []
+  },
+  {
+   "id": "nature/rejuvenation-spirit",
+   "name": "Rejuvenation",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Spirit Talents",
+   "tags": [
+    "spirit"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#rejuvenation-spirit",
+   "md": "As a standard action, you may heal yourself an amount equal to 1/2 your caster level (minimum 1) per round for as long as you concentrate. This healing only functions if you have 1/2 your maximum hit points or less. You may spend a spell point to grant yourself fast healing equal to 1/2 your caster level (minimum 1) for 1 minute per caster level, but this fast healing also only confers healing so long as you have 1/2 your maximum hit points or less.",
+   "options": []
+  },
+  {
+   "id": "nature/resist-elements-spirit",
+   "name": "Resist Elements",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Spirit Talents",
+   "tags": [
+    "spirit"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#resist-elements-spirit",
+   "md": "As a swift or move action, you may grant yourself one of the following benefits for 1 round, depending on what packages you possess. You may spend a spell point to gain one of these benefits for 1 minute per caster level, or to gain it for one round as an immediate action.\n\nWhenever you activate this ability, you may spend an additional spell point to absorb damage instead of resisting it. Whenever damage is negated by one of these benefits, you are healed an amount equal to the negated damage.\n\n**Air:** Sonic resistance equal to 10 + your caster level.\n\n**Earth:** DR 1/adamantine, +1 per 5 caster levels. This stacks with other forms of damage resistance.\n\n**Fire:** Fire resistance equal to 10 + your caster level.\n\n**Metal:** Electricity resistance equal to 10 + your caster level.\n\n**Plant:** Acid resistance equal to 10 + your caster level.\n\n**Water:** Cold resistance equal to 10 + your caster level.",
+   "options": []
+  },
+  {
+   "id": "nature/ride-the-elements-spirit",
+   "name": "Ride The Elements",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Spirit Talents",
+   "tags": [
+    "spirit"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#ride-the-elements-spirit",
+   "md": "You may spend a spell point as a move action to increase or decrease your movement speeds by 10 feet + 10 feet per 5 caster levels (applying to all movement modes) for 1 minute per caster level. When attempting an Acrobatics check to jump while this ability is active, the height and length of your jump is doubled, to a maximum of your move speed.",
+   "options": []
+  },
+  {
+   "id": "nature/speak-with-the-elements-spirit-utility",
+   "name": "Speak With The Elements",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Spirit Talents",
+   "tags": [
+    "spirit"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#speak-with-the-elements-spirit-utility",
+   "md": "You may spend a spell point to commune with the elements for 1 minute per caster level.\n\n**Air: Speak With Clouds:** You gain the Auran language, and may speak with clouds of fog or mist. This is not truly accomplished with speech, but rather by interacting with the cloud you may learn what else has touched it, passed through it, is hidden within it, etc. You can tell depth, weight, size, and number of passers-by, but not more detailed information.\n\n**Earth: Speak With Stone:** You gain the Terran language, and may speak with natural or worked stone. This is not truly accomplished through speech, but rather by touching a stone you may learn what else has touched it, passed by it, what is hidden underneath it, etc. You can tell depth, weight, size, and number of passers-by, but not more detailed information.\n\n**Fire: Speak With Fire:** You gain the Ignan language, and may speak with fire or smoke. This is not truly accomplished through speech, but rather by gazing into the flames and smoke you may learn what else has touched it, passed by it, what is responsible for creating it, etc. You can tell weight, size, and number of passers-by, but not more detailed information.\n\n**Metal: Speak With Metal:** You gain the Aklo language, and may speak with natural ore or worked metal. This is not truly accomplished through speech, but rather by touching a piece of metal you may learn what else has touched it, worn it, passed by it, what is hidden inside it, details of its forging, etc. You can tell depth, weight, size, and number of passers-by, but not more detailed information.\n\n**Plant: Speak With Plants:** You gain the Sylvan language, and may speak with normal plants and plant creatures. You can communicate with normal plants and plant creatures and can ask questions and receive answers from them. A normal plant’s sense of its surroundings is limited, so it will not be able to give (or recognize) detailed descriptions of creatures or answer questions about events outside its immediate vicinity.\n\n**Water: Speak With Water:** You gain the Aquan language, and may speak with pools or bodies of water. This is not truly accomplished through speech, but rather by dipping a limb into the water you may learn what else has touched it, passed by it, what is hidden inside it, etc. You can tell depth, weight, size, and number of passers-by, but not more detailed information. You can speak with both fresh or salt bodies of water, and if attempting to converse with particularly large bodies of water, such as oceans, you can only acquire information from a portion of the body of water, to a maximum distance of 1000 feet + 100 feet per caster level.",
+   "options": []
+  },
+  {
+   "id": "nature/speak-with-wildlife-spirit-utility",
+   "name": "Speak With Wildlife",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Spirit Talents",
+   "tags": [
+    "spirit"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#speak-with-wildlife-spirit-utility",
+   "md": "Choose either animals or vermin. You may spend a spell point to gain the ability to speak with your chosen creature type for 1 minute per caster level. You can ask questions of and receive answers from them, but this does not make them any more friendly than normal. Mindless vermin cannot understand or answer with more than basic information, wary and cunning animals are likely to be terse and evasive, and stupid creatures make inane comments. If a creature is friendly toward you, it may do some favor or service for you. You may take this talent twice, gaining both options.",
+   "options": []
+  },
+  {
+   "id": "nature/wreath-of-elements-spirit",
+   "name": "Wreath Of Elements",
+   "kind": "talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Spirit Talents",
+   "tags": [
+    "spirit"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#wreath-of-elements-spirit",
+   "md": "As an immediate action, (or a free action usable even when it is not your turn by spending a spell point) you may reach out with one of your elements. This grants you the following abilities, depending on which packages you possess. You may only use Wreath Of Elements once per round.\n\n**Air:** Make a check adding your caster level and casting ability modifier vs. the bull rush CMD of a target within your reach. On a success, the target is pushed 5 feet directly away from you.\n\n**Earth:** You gain temporary hit points equal to your caster level against one attack.\n\n**Fire:** You attack a target within your reach with fire, dealing fire damage equal to your caster level (Reflex half).\n\n**Metal:** You reach out with a magnetic field, gaining a deflection bonus to AC and CMD equal to 2 +1 per 5 caster levels against one attack.\n\n**Plant:** Make a check using your caster level + your casting ability modifier vs. the grapple CMD of a target within your reach. On a success, the target is entangled for 1 round.\n\n**Water:** Make a check using your caster level + your casting ability modifier vs. the trip CMD of a target within your reach. On a success, the target is knocked prone.",
+   "options": []
+  },
+  {
+   "id": "nature/cyclone-air-geomancing",
+   "name": "Cyclone",
+   "kind": "advanced talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Advanced Nature Talents",
+   "tags": [
+    "air",
+    "geomancing"
+   ],
+   "talentTags": [],
+   "prerequisites": "Nature sphere ((air) package, Manipulate Nature (geomancing)), caster level 15th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#cyclone-air-geomancing",
+   "md": "**Prerequisites:** Nature sphere ((air) package, Manipulate Nature (geomancing)), caster level 15th.\n\nAs a concentration effect, you may spend 2 spell points to create a powerful cyclone of raging wind that moves through the air, along the ground, or over water at a speed of 60 feet per round. This cyclone is 10 feet wide at the base, 30 feet wide at the top, and 30 feet tall. You can concentrate on controlling the cyclone’s every movement or spend an additional spell point to allow it to exist for 1 round per caster level without concentration, in which case you must specify a simple program (directing the cyclone’s movement or changing its programmed movement is a standard action). The cyclone always moves during your turn. If the cyclone exceeds the effect’s range, it moves in a random, uncontrolled fashion for 1d3 rounds and then dissipates. (You cannot regain control of the cyclone, even if it comes back within range.)\n\nAny Large or smaller creature that comes in contact with the spell effect must succeed on a Reflex save or take 3d6 points of damage. A Medium or smaller creature that fails its first save must succeed on a second one or be picked up bodily by the cyclone and held suspended in its powerful winds, taking 1d8 points of damage each round on your turn with no save allowed.\n\nYou may direct the cyclone to eject any carried creatures whenever you wish, depositing the hapless souls wherever the cyclone happens to be when they are released.",
+   "options": []
+  },
+  {
+   "id": "nature/earthquake-earth-geomancing",
+   "name": "Earthquake",
+   "kind": "advanced talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Advanced Nature Talents",
+   "tags": [
+    "earth",
+    "geomancing"
+   ],
+   "talentTags": [],
+   "prerequisites": "Nature sphere ((earth) package, Manipulate Nature (geomancing)), caster level 15th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#earthquake-earth-geomancing",
+   "md": "**Prerequisites:** Nature sphere ((earth) package, Manipulate Nature (geomancing)), caster level 15th.\n\nAs an instantaneous effect, you may spend 3 spell points to create an earthquake, affecting an 80-foot radius area. The powerful shockwave created by this ability knocks creatures down, collapses structures, opens cracks in the ground, and more. The effect lasts for 1 round, during which time creatures on the ground cannot move or attack. A caster on the ground must succeed at a Concentration check (DC 20 + 1/2 the caster level) or lose any spell or sphere effect they try to cast. The earthquake affects all terrain, vegetation, structures, and creatures in the area. The specific effect of an earthquake depends on the nature of the terrain where it is created.\n\n**Cave, Cavern, or Tunnel:** The roof collapses, dealing 8d6 points of damage to any creature caught under the cave-in (Reflex DC 15 half) and pinning that creature beneath the rubble (see below). An earthquake cast on the roof of a very large cavern could also endanger those outside the actual area who are below the falling debris and rubble.\n\n**Cliffs:** The earthquake causes cliffs to crumble, creating a landslide that travels horizontally as far as it falls vertically. Any creature in the path takes 8d6 points of bludgeoning damage (Reflex DC 15 half) and is pinned beneath the rubble (see below).\n\n**Open Ground:** Each creature standing in the area must succeed at a DC 15 Reflex save or fall down. Fissures open in the earth and every creature on the ground has a 25% chance to fall into one (Reflex DC 20 to avoid a fissure). The fissures are 40 feet deep. At the end of the earthquake, all fissures grind shut. Treat all trapped creatures as if they were in the bury zone of an avalanche, trapped without air (see Suffocation rules in Pathfinder Gamemastery Guide for more details).\n\n**Structure:** Any structure standing on open ground takes 100 points of damage, enough to collapse a typical wooden or masonry building, but not a structure built of stone or reinforced masonry. Hardness does not reduce this damage, nor is it halved as damage dealt to objects normally is. Any creature caught inside a collapsing structure takes 8d6 points of bludgeoning damage (Reflex DC 15 half) and is pinned beneath the rubble (see below).\n\n**River, Lake, or Marsh:** Fissures open under the water, draining away the water from that area and forming muddy ground. Soggy marsh or swampland becomes quicksand for the duration of this effect, sucking down creatures and structures. Each creature in the area must succeed at a DC 15 Reflex save or sink down in the mud and quicksand. After the earthquake ends, the rest of the body of water rushes in to replace the drained water, possibly drowning those caught in the mud.\n\n**Pinned Beneath Rubble:** Any creature pinned beneath rubble takes 1d6 points of nonlethal damage per minute while pinned. If a pinned character falls unconscious, he or she must attempt a DC 15 Constitution check each minute thereafter until freed or dead, suffering 1d6 points of lethal damage for each failed save.",
+   "options": []
+  },
+  {
+   "id": "nature/eternal-steel-metal-and-plant-geomancing",
+   "name": "Eternal Steel",
+   "kind": "advanced talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Advanced Nature Talents",
+   "tags": [
+    "metal and plant",
+    "geomancing"
+   ],
+   "talentTags": [],
+   "prerequisites": "Nature sphere ((metal) package, (plant) package, Living Steel (advanced)), caster level 8th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#eternal-steel-metal-and-plant-geomancing",
+   "md": "**Prerequisites:** Nature sphere ((metal) package, (plant) package, Living Steel (advanced)), caster level 8th.\n\nAs a standard action, you may spend 3 spell points to permanently grant one metal creature or metal object regeneration 1 (acid). The amount of regeneration increases by +1 per 10 caster levels. Damage caused by magical rust or oxidation count as acid damage for the purpose of suppressing this regeneration. Targets that lack a Constitution score (such as most metal constructs) still gain the regeneration from Eternal Steel, but instead of falling unconscious when their hit points are reduced to 0, they become helpless (or broken in the case of objects) until they recover enough hit points to put their hit point total back up above 0; If such targets have their regeneration suppressed while at 0 or less total hit points, they are destroyed.",
+   "options": []
+  },
+  {
+   "id": "nature/freezing-geyser-fire-water-geomancing",
+   "name": "Freezing Geyser",
+   "kind": "advanced talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Advanced Nature Talents",
+   "tags": [
+    "fire",
+    "water",
+    "geomancing"
+   ],
+   "talentTags": [],
+   "prerequisites": "Nature sphere ((fire) and (water) package, Create Nature (geomancing), Temperature (fire, geomancing)), caster level 15th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#freezing-geyser-fire-water-geomancing",
+   "md": "**Prerequisites:** Nature sphere ((fire) and (water) package, Create Nature (geomancing), Temperature (fire, geomancing)), caster level 15th.\n\nThis creates a burst of boiling water that snap-freezes once it has covered its targets. As a concentration effect, you may spend 2 spell points to create an eruption coming from a 10- foot square of solid ground within range. This deals 1d6 fire damage per caster level per round to all creatures within the 10-foot square and up to 30 feet above it. A successful Reflex save halves the damage, but creatures with evasion still suffer 3d6 fire damage on a successful save.\n\nStarting in the second round of the geyser’s eruption, the rapidly cooling water begins raining down on all targets within 30 feet of the geyser, lasting for the length of the effect +1d3 rounds. Any creature caught in this freezing downpour takes 10d6 points of cold damage each round and is entangled by the layer of frost and ice forming on it. Even creatures affected by the main geyser who failed their Reflex save but left the area of cold rain find themselves entangled as the water on them freezes.\n\nA successful Reflex save halves the damage and prevents the entangled condition, but still deals 2d6 cold damage to creatures with evasion who successfully save. While a creature outside the affected area finds their entangled condition leaves after 1 round as the ice melts, creatures who remain within the affected area are affected each round, with each additional failed save causing its speed to be reduced by 10 feet. If the creature’s speed reaches 0 feet, it is completely encased in ice, as the (water) package geomancing ability, with ice thickness determined as usual for the caster. At this point the creature continues taking damage from the freezing water—automatically failing any saving throws—plus an additional 3d6 points of cold damage each round until freed from the ice.\n\nIf an entangled creature steps into the burning geyser, they suffer fire damage as normal and are no longer entangled, as the boiling water melts the ice.",
+   "options": []
+  },
+  {
+   "id": "nature/living-steel-metal-and-plant-geomancing",
+   "name": "Living Steel",
+   "kind": "advanced talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Advanced Nature Talents",
+   "tags": [
+    "metal and plant",
+    "geomancing"
+   ],
+   "talentTags": [],
+   "prerequisites": "Nature sphere ((metal) package, (plant) package), caster level 5th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#living-steel-metal-and-plant-geomancing",
+   "md": "**Prerequisites:** Nature sphere ((metal) package, (plant) package), caster level 5th.\n\nAs an instantaneous effect, you may as a standard action spend 2 spell points to permanently grant the effects of living steel to a metal creature or object whose size is no larger than the ore that you may recover. Living steel repairs damage to itself at a rate of 2 hit points per day, or 1 hit point per day if it has the broken condition. In addition whenever the wielder of a metal weapon rolls a natural 1 on an attack roll against a creature wearing living steel armor or wielding a living steel shield, the item must succeed at a DC 20 Fortitude save or gain the broken condition. If the weapon already has the broken condition, it is instead destroyed. Living steel cannot damage adamantine weapons in this way.",
+   "options": []
+  },
+  {
+   "id": "nature/materials-of-legend-metal-geomancing",
+   "name": "Materials Of Legend",
+   "kind": "advanced talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Advanced Nature Talents",
+   "tags": [
+    "metal",
+    "geomancing"
+   ],
+   "talentTags": [],
+   "prerequisites": "Nature sphere ((metal) package, Metal Mastery (metal, geomancing)), caster level 10th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#materials-of-legend-metal-geomancing",
+   "md": "**Prerequisites:** Nature sphere ((metal) package, Metal Mastery (metal, geomancing)), caster level 10th.\n\nYou may spend 2 additional spell points when using your Recover Ore ability, if you do you may treat the ore in the ground so that when it surfaces, you recover your choice of Elysian bronze, fire-forged steel, or frost-forged steel.",
+   "options": []
+  },
+  {
+   "id": "nature/natural-ally-spirit",
+   "name": "Natural Ally",
+   "kind": "advanced talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Advanced Nature Talents",
+   "tags": [
+    "spirit"
+   ],
+   "talentTags": [],
+   "prerequisites": "Nature sphere (Friend To Wildlife (spirit)), caster level 1st.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#natural-ally-spirit",
+   "md": "**Prerequisites:** Nature sphere (Friend To Wildlife (spirit)), caster level 1st.\n\nAs an instantaneous effect, you may, as a standard action, spend 3 spell points to call a specific fey, magical beast, plant or vermin of a type you designate (provided the creature’s CR is equal to or less than 1/2 your caster level) which then appears in a place within range at the start of your next turn, and remains for up to 1 hour per caster level. Unlike Friend To Wildlife, this advanced talent does not require that there are creatures of those types in the area. The creature will aid the caster to the best of its ability, but unless the caster speaks the creature’s language, only basic communication is possible (attacking an enemy, defending the caster, etc.) The creature must also be treated fairly and will not give aid that is obviously suicidal. If treated poorly, they may turn on and attack the caster. A caster may not use Natural Ally more than once per day.",
+   "options": []
+  },
+  {
+   "id": "nature/peace-and-love-spirit",
+   "name": "Peace And Love",
+   "kind": "advanced talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Advanced Nature Talents",
+   "tags": [
+    "spirit"
+   ],
+   "talentTags": [],
+   "prerequisites": "Nature sphere, Mind sphere.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#peace-and-love-spirit",
+   "md": "**Prerequisites:** Nature sphere, Mind sphere.\n\nYou learn to manipulate the most elusive natural element, the heart. You project a 30-foot aura which penalizes hostile actions. All enemies within this aura take a -1 penalty on any attack rolls they make. You may suppress or resume this ability as a free action. This ability ceases to function if you are stunned, paralyzed, unconscious, dead, or otherwise incapacitated. This is a mind-affecting compulsion effect. At caster level 10, and every 10 thereafter, the radius of this aura increases by 30 feet.\n\nIf you spend a spell point as a free action, you may empower this aura to punish those with wicked hearts for 1 round per caster level. While the aura is empowered, whenever a creature taking a penalty from this aura deals damage to you or an ally inside this effect’s radius, that creature must make a Will saving throw or take 1d6 nonlethal damage per 4 caster levels (minimum 1d6). A creature can only take damage from this effect once per round; a creature that is immune to nonlethal damage takes lethal damage instead.",
+   "options": []
+  },
+  {
+   "id": "nature/persistent-fog-cloud-water-spirit",
+   "name": "Persistent Fog Cloud",
+   "kind": "advanced talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Advanced Nature Talents",
+   "tags": [
+    "water",
+    "spirit"
+   ],
+   "talentTags": [],
+   "prerequisites": "Nature sphere ((water) package, Deep Nature), caster level 10th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#persistent-fog-cloud-water-spirit",
+   "md": "**Prerequisites:** Nature sphere ((water) package, Deep Nature), caster level 10th.\n\nYou may spend 2 additional spell points when using the (water) geomancing Fog ability to change the duration of the fog from concentration to permanent. The fog in this form becomes an insubstantial object without hit points. You may concentrate on the fog to have it move up to 1/2 your speed in any direction. If targeted or otherwise in the area of an ability from the Weather sphere, the caster using the Weather sphere must attempt a magic skill check against your magic skill defense. If the Weather sphere user is successful, the fog is immediately dispelled. It is otherwise not subject to the effects of weather not created by magic.",
+   "options": []
+  },
+  {
+   "id": "nature/phoenix-resurgence-fire-spirit",
+   "name": "Phoenix Resurgence",
+   "kind": "advanced talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Advanced Nature Talents",
+   "tags": [
+    "fire",
+    "spirit"
+   ],
+   "talentTags": [],
+   "prerequisites": "Nature sphere ((fire) package, Resist Elements (spirit), Wreath Of Elements (spirit)), caster level 1st.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#phoenix-resurgence-fire-spirit",
+   "md": "**Prerequisites:** Nature sphere ((fire) package, Resist Elements (spirit), Wreath Of Elements (spirit)), caster level 1st.\n\nIn response to gaining the disabled or dying condition, as an instantaneous effect, you may as an immediate action spend 3 spell points to explode into a ball of flame dealing 1d6 fire damage per caster level to all creatures within 10 feet + 5 feet per 5 caster levels. At the beginning of your next round, you return to life with 0 hit points and a number of temporary hit points equal to your caster level, which remain for 1 hour. You may only use this effect once per hour.",
+   "options": []
+  },
+  {
+   "id": "nature/rapid-growth-plant-geomancing",
+   "name": "Rapid Growth",
+   "kind": "advanced talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Advanced Nature Talents",
+   "tags": [
+    "plant",
+    "geomancing"
+   ],
+   "talentTags": [],
+   "prerequisites": "Nature sphere ((plant) package, Create Nature (geomancing)), caster level 15th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#rapid-growth-plant-geomancing",
+   "md": "**Prerequisites:** Nature sphere ((plant) package, Create Nature (geomancing)), caster level 15th.\n\nYou may spend 3 spell points to create a massive growth of plantlife. This affects up to a 1/2 mile radius area in one of the following ways:\n\n**Change Terrain:** You may change the terrain in this area to forest or jungle. This does not cause animals native to the forest or jungle to appear, nor does it guarantee that the terrain type will stay that way indefinitely (some areas such as deserts or high mountains cannot support forests or jungles, and a forest or jungle created in these locations may die out over time) but in all other ways, the terrain changes to the selected type.\n\n**Improve Forest:** If used in an area that already contains a forest or jungle, you may cause the area to grow rapidly. Typical trees become massive trees, all areas become covered in undergrowth, and areas already covered in undergrowth gain heavy undergrowth.\n\nA creature standing in the same square as a typical tree gains partial cover, which grants a +2 bonus to Armor Class and a +1 bonus on Reflex saves. The presence of a tree does not otherwise affect a creature’s fighting space, because it is assumed that the creature is using the tree to its advantage when it can. The trunk of a typical tree has AC 4, hardness 5, and 150 hit points. A DC 15 Climb check is sufficient to climb a tree.\n\nMassive trees take up an entire square and provide cover to anyone behind them. They have AC 3, hardness 5, and 600 hit points. Like their smaller counterparts, it takes a DC 15 Climb check to climb them. Space covered with light undergrowth costs 2 squares of movement to move into and provides concealment. Undergrowth increases the DC of Acrobatics and Stealth checks by 2 because the leaves and branches get in the way. Heavy undergrowth costs 4 squares of movement to move into and provides concealment with a 30% miss chance (instead of the usual 20%). It increases the DC of Acrobatics checks by 5. Heavy undergrowth is easy to hide in, granting a +5 circumstance bonus on Stealth checks. Running and charging are impossible. Squares with undergrowth are often clustered together. Undergrowth and trees are not mutually exclusive; it is common for a 5-foot square to have both a tree and undergrowth.\n\n**Increase Yield:** If used in an area of developed farmland, you double the crop production in that area for the rest of the harvest season. This has no effect if used in winter or other times when crops are not being tended.",
+   "options": []
+  },
+  {
+   "id": "nature/tsunami-water-geomancing",
+   "name": "Tsunami",
+   "kind": "advanced talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Advanced Nature Talents",
+   "tags": [
+    "water",
+    "geomancing"
+   ],
+   "talentTags": [],
+   "prerequisites": "Nature sphere ((water) package, Manipulate Nature (geomancing)), caster level 15th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#tsunami-water-geomancing",
+   "md": "**Prerequisites:** Nature sphere ((water) package, Manipulate Nature (geomancing)), caster level 15th.\n\nAs a concentration effect, you spend 2 spell points to create a wave of water 10 feet deep, 10 feet wide per caster level, and 2 feet tall per caster level. This wave moves in a straight line at 60 feet per round over water (30 feet per round over land), and if not combined with Create Water, must originate from a large body of water. It travels perpendicular to its width, and may be maintained for no more than 5 rounds.\n\nCreatures struck by the tsunami take 8d6 points of bludgeoning damage (a Fortitude save halves this damage) and are subject to a special CMB check. The wave’s CMB is equal to your caster level + your casting ability modifier + 8 (for the wave’s size). If this CMB check defeats a creature’s CMD, the creature is knocked prone and carried along by the wave. A creature carried along by a tsunami can attempt to escape the wave on its turn as a standard action by making a CMB or Swim check opposed by the wave’s CMB check. If a creature fails to escape, it takes another 6d6 points of bludgeoning damage (Fortitude save for half) and continues being carried along by the wave.\n\nObjects struck by a tsunami are swept up if they are Huge or smaller and are carried along by the wave, deposited in a pile at the end of the wave’s journey. Gargantuan or larger objects, as well as structures or objects firmly attached to the ground, take 8d6 points of bludgeoning damage when a tsunami passes through its space—if this is enough to destroy the object or structure, the remains are carried along by the wave. Hardness does not reduce this damage, nor is it halved as damage dealt to objects normally is. Freedom of movement or the Freedom word prevents a creature from being carried along by a tsunami but does not prevent damage caused by it hitting a creature.\n\nA solid barrier that is taller than the tsunami that is not destroyed by the wave stops that portion of the wave from continuing onward, leaving a gap in the wave as the rest of it continues forward.",
+   "options": []
+  },
+  {
+   "id": "nature/volcano-fire-geomancing",
+   "name": "Volcano",
+   "kind": "advanced talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Advanced Nature Talents",
+   "tags": [
+    "fire",
+    "geomancing"
+   ],
+   "talentTags": [],
+   "prerequisites": "Nature sphere ((fire) package, Manipulate Nature (geomancing)), caster level 15th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#volcano-fire-geomancing",
+   "md": "**Prerequisites:** Nature sphere ((fire) package, Manipulate Nature (geomancing)), caster level 15th.\n\nAs a concentration effect, you may spend 2 spell points to call lava up from deep within the earth. This lava bursts from a 10 feet wide hole in the ground centered within range and creates a spout 10 feet high per 2 caster levels. Any creature in this area or who enters this area takes 10d6 points of fire damage and is hurled into the air and then tossed to the ground, suffering falling damage based upon the height of the volcanic spray (e.g., if the volcano is 80 feet tall, the creature takes 8d6 falling damage) and lands prone in a random square adjacent to the spout. A successful Reflex saving throw halves the fire damage and the creature is not tossed into the air, instead moving to the closest square adjacent to the geyser (Large-sized or larger creatures are moved enough so that they are not on top of the geyser but still adjacent to it). This movement does not provoke attacks of opportunity and does not count toward the creature’s normal movement.\n\nIn addition, the volcano sprays lava, smoke, and poison gas in a hemispherical emanation around itself. The radius of this emanation is equal to one half the volcano’s height (e.g., an 80 foot spout has a 40-foot radius emanation). All creatures within this area, including yourself, have concealment and suffer 2d6 points of fire damage each round as lava cascades on them.\n\nThey also suffer 1d6 Constitution damage per round as they inhale poisonous gas (Fortitude DC 15 negates, the DC increases by 1 per previous save), as Vog severity level 7 from the Weather sphere. Even after a creature leaves the lava-filled area, they suffer 1d6 points of damage for 1d3 rounds as the lava already on them cools.\n\nA volcano must be created on the ground and cannot be created in other places, such as on the 2nd floor of a building. You can choose to make a smaller volcano than your level permits if an obstruction prevents it from reaching its full height, or if you simply want to create a spread of lava that’s smaller than your maximum.",
+   "options": []
+  },
+  {
+   "id": "nature/whispering-elements-geomancing-utility",
+   "name": "Whispering Elements",
+   "kind": "advanced talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Advanced Nature Talents",
+   "tags": [
+    "geomancing"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "Nature sphere, caster level 1st.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#whispering-elements-geomancing-utility",
+   "md": "**Prerequisites:** Nature sphere, caster level 1st.\n\nAs an instantaneous effect, you may as a standard action spend a spell point to send a message or sound through an element corresponding to a package you possess (air, earth, water, etc.) to a designated spot anywhere in the world. The message travels to the destination, provided that the location is familiar to you and that it can find a way to the location through its chosen medium. The message can travel as slowly as 1 mile per hour or as quickly as 1 mile per 10 minutes, though if it cannot reach its destination within 1 hour per caster level, the effect ends without delivering the message. If choosing plant or fire the message can travel without a medium, provided the end location possesses either plantlife or a fire for the message to be delivered through.\n\nThe message is gentle and unnoticed until it reaches the location, where it then delivers its whisper-quiet message or other sound to all creatures within 10 feet + 5 feet per 5 caster levels of the destination. Note that the message is delivered regardless of whether anyone is present to hear it.\n\nAt time of casting, you can prepare the effect to bear a message of no more than 20 + your caster level words, cause the talent to deliver other sounds for 1 round per 2 caster levels, or merely have the message seem to be a faint manifestation of the chosen element.\n\nThe message cannot speak verbal components, use command words, or activate magical effects.",
+   "options": []
+  },
+  {
+   "id": "nature/wildfire-fire",
+   "name": "Wildfire",
+   "kind": "advanced talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Advanced Nature Talents",
+   "tags": [
+    "fire"
+   ],
+   "talentTags": [],
+   "prerequisites": "Nature sphere ((fire) package, Ranged Geomancy [range] x2), caster level 5th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#wildfire-fire",
+   "md": "**Prerequisites:** Nature sphere ((fire) package, Ranged Geomancy [range] x2), caster level 5th.\n\nWhen using affect fire, you may spend 3 spell points to send forth a burst of heat that targets everything within a radius of 1000 feet + 100 feet per caster level. Creatures and objects caught within the radius of effect are dealt fire damage equal to the largest fire you can create and catch fire (if they are flammable, such as trees or cloth). A successful Reflex save halves the damage and negates catching fire.",
+   "options": []
+  },
+  {
+   "id": "nature/zoetic-geomancy",
+   "name": "Zoetic Geomancy",
+   "kind": "advanced talent",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Advanced Nature Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Nature sphere (Deep Nature), caster level 10th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature#zoetic-geomancy",
+   "md": "**Prerequisites:** Nature sphere (Deep Nature), caster level 10th.\n\nAs an instantaneous effect you may spend 10 minutes and 3 spell points to target a portion of material within close range from one of your packages to create a correlating elemental. For these purposes, the Weather sphere counts as a Nature package. The (plant) package, rather than producing an elemental, instead creates a treant.\n\nThe creature created is friendly toward you, and while you have no special empathy or connection with it, the creature serves you in specific tasks or endeavors if you communicate your desires to it. However, as it is a living, intelligent being, it will expect good treatment in return. If you use Zoetic Geomancy again, any previously created creatures remain friendly to you, but they no longer undertake tasks for you unless it is in their best interests.\n\n**Table: Zoetic Geomancy**\n\n| Geomancing Package Required | Target | Creature |\n| --- | --- | --- |\n| Air | 15-ft. cube of air | Huge geomancy born air elemental |\n| Earth | 15-ft. cube of dirt, sand, or stone | Huge geomancy born earth elemental |\n| Fire | 15-ft. cube of fire or lava | Huge geomancy born fire elemental |\n| Metal | Huge object of metal | Huge geomancy born cold iron elemental |\n| Plant | Huge vegetation | Wyrgrove treant |\n| Water | 15-ft. cube of water | Huge geomancy born water elemental |\n| Weather | 15-ft. cube of air | Huge geomancy born air elemental |\n\n---\n\n*Archived: [[Nature (Original)|Original version]] (from before *Ultimate Spheres of Power*)*",
+   "options": []
+  },
+  {
+   "id": "nature/alloy-creation-dual-sphere",
+   "name": "Alloy Creation",
+   "kind": "feat",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Creation sphere, Nature sphere ((metal) package).",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#alloy-creation-dual-sphere",
+   "md": "**Prerequisites:** Creation sphere, Nature sphere ((metal) package).\n\n**Benefit:** When using your Creation sphere abilities, you may create and alter objects made from metals you can summon with your Recover Ore Nature sphere ability, even if you do not possess the Expanded Materials Creation talent.\n\nWhen using metal geomancing talents or abilities limited by your Recover Ore size, you may target and affect metal one size larger than you could normally affect with your Recover Ore ability. This does not increase the actual size of the ore you can recover.",
+   "options": []
+  },
+  {
+   "id": "nature/alloy-enhancement-dual-sphere",
+   "name": "Alloy Enhancement",
+   "kind": "feat",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Enhancement sphere, Nature sphere ((metal) package).",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#alloy-enhancement-dual-sphere",
+   "md": "**Prerequisites:** Enhancement sphere, Nature sphere ((metal) package).\n\n**Benefit:** Whenever you use a (metal) geomancing ability which creates or affects metal (such as Recover Ore) you may choose to enhance the metal via the Enhancement sphere as part of the same action. This costs 1 additional spell point, in addition to any spell points required by the enhancement in question.",
+   "options": []
+  },
+  {
+   "id": "nature/alloy-telekinesis-dual-sphere",
+   "name": "Alloy Telekinesis",
+   "kind": "feat",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Telekinesis sphere, Nature sphere ((metal) package).",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#alloy-telekinesis-dual-sphere",
+   "md": "**Prerequisites:** Telekinesis sphere, Nature sphere ((metal) package).\n\n**Benefit:** Whenever you use the (metal) geomancing Recover Ore ability, you may use telekinesis to Bludgeon another target creature or object with the metal ore recovered in this way, all as part of the same action. If you increase the casting time by 1 step (usually from a standard to full-round action), you may utilize your caster level instead of your base attack bonus for the first attack roll, and add your casting ability modifier to damage.",
+   "options": []
+  },
+  {
+   "id": "nature/coastal-infusion",
+   "name": "Coastal Infusion",
+   "kind": "feat",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Nature sphere ((earth) package and (water) package).",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#coastal-infusion",
+   "md": "**Prerequisites:** Nature sphere ((earth) package and (water) package).\n\n**Benefit:** When using either the (earth) package or the (water) package within close range of both land and a substantial body of water (such as a lake, river, ocean, or sea), you gain a +2 bonus to your caster level for those geomancing abilities.",
+   "options": []
+  },
+  {
+   "id": "nature/fan-the-flame-dual-sphere",
+   "name": "Fan The Flame",
+   "kind": "feat",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Fire Blast (blast type, fire)), Nature sphere ((fire) package), caster level 3rd.",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#fan-the-flame-dual-sphere",
+   "md": "**Prerequisites:** Destruction sphere (Fire Blast (blast type, fire)), Nature sphere ((fire) package), caster level 3rd.\n\n**Benefit:** When a creature is set on fire by your fire blast, the fire does not deal 1d6 damage the following round, but rather deals damage equal to the largest fire you may affect. This fire reverts to normal after the first round, dealing 1d6 fire damage on subsequent rounds until extinguished, but you may choose to concentrate each round, or spend a spell point once as a free action, to cause the fire to stay at its increased size until extinguished. If your fire blast would cause multiple creatures to catch fire, each target must have the effect of Fan The Flames applied and maintained individually, either by concentration or spending spell points.",
+   "options": []
+  },
+  {
+   "id": "nature/fertilize-nature",
+   "name": "Fertilize Nature",
+   "kind": "feat",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Nature sphere ((earth) package, (plant) package).",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#fertilize-nature",
+   "md": "**Prerequisites:** Nature sphere ((earth) package, (plant) package).\n\n**Benefit:** Geomancing abilities from the (earth) and (plant) packages last 2 additional rounds after you end concentration.",
+   "options": []
+  },
+  {
+   "id": "nature/formulae-geomancing",
+   "name": "Formulae Geomancing",
+   "kind": "feat",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Nature sphere (three or more packages).",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#formulae-geomancing",
+   "md": "**Prerequisites:** Nature sphere (three or more packages).\n\n**Benefit:** You may read and use an alchemist’s formulae book, creating extracts for use during the day as an alchemist does. You must have a caster level with the entire Nature sphere equal to 3x the level of the extract, and use your Nature caster level as your caster level for the extracts. You must spend 1 spell point per level of the created extract, and only you can drink the extract to gain its effects.",
+   "options": []
+  },
+  {
+   "id": "nature/hemothermia-dual-sphere",
+   "name": "Hemothermia",
+   "kind": "feat",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Blood sphere (any (blood art)), Nature sphere.",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#hemothermia-dual-sphere",
+   "md": "**Prerequisites:** Blood sphere (any (blood art)), Nature sphere.\n\n**Benefit:** You gain the following two (blood arts), which allow you to alter the temperature of the target’s blood. If you possess the (blood art)’s associated Nature sphere package, you may add additional effects when using that (blood art).\n\n- **Smoldering Hemoglobin (blood art):** You may briefly superheat the target’s blood. On a failed Fortitude save, the target suffers blood loss, takes fire damage equal to your caster level, and catches fire. The target’s insides begin to burn, taking 1d6 fire damage the following round plus 1d6 per round until extinguished. Each round the target may attempt another Fortitude save to extinguish the flames. This is a free action that may be taken once per round. Drinking any non-flammable liquid (such as a potion or water) grants the target a +4 bonus to that round’s saving throw. This fire is not extinguished if the target submerges itself; it is internal. If you possess the Nature sphere (fire) package, you may spend an additional spell point to cause the burning damage the target suffers each round to be equal to the largest fire you can create with create fire, if it would be larger.\n- **Freeze Veins (blood art):** You rapidly freeze the target’s blood, making it harder for them to move. On a failed Fortitude save, the target suffers blood loss, takes cold damage equal to your caster level, and is staggered for a number of rounds equal to your casting ability modifier. While staggered by this effect, the target becomes unnaturally brittle. Whenever they fall prone, suffer falling damage, or take bludgeoning damage, they take an additional amount of cold damage equal to 1/2 your casting ability modifier. Each round the target may attempt another Fortitude save to warm themselves up. If you possess the Nature sphere (water) package, you may spend an additional spell point to cause the target to be unable to take a 5-foot step while staggered by this effect.",
+   "options": []
+  },
+  {
+   "id": "nature/imbue-with-nature-dual-sphere",
+   "name": "Imbue With Nature",
+   "kind": "feat",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere, Nature sphere (any (geomancing) talent).",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#imbue-with-nature-dual-sphere",
+   "md": "**Prerequisites:** Destruction sphere, Nature sphere (any (geomancing) talent).\n\n**Benefit:** When using a (blast type) talent from a blast type category corresponding to a geomancing talent you possess, you may increase the casting time by one step or spend an additional spell point to draw material from the environment to enhance your destructive blast, allowing it to bypass spell resistance.\n\n| Geomancing Talent | Blast Type Categories |\n| --- | --- |\n| (Air) package | Air, electric, sonic |\n| (Earth) package | Crystal, stone |\n| (Fire) package | Fire, light |\n| (Metal) package | Acid, electric |\n| (Plant) package | Acid, force |\n| (Water) package | Cold, crystal |",
+   "options": []
+  },
+  {
+   "id": "nature/luminous-flame-dual-sphere",
+   "name": "Luminous Flame",
+   "kind": "feat",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Light sphere, Nature sphere ((fire) package).",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#luminous-flame-dual-sphere",
+   "md": "**Prerequisites:** Light sphere, Nature sphere ((fire) package).\n\n**Benefit:** Whenever you use the Create Fire or Affect Fire geomancing ability, you may also cause the fire to glow. You may maintain concentration of this (fire) geomancing ability and the bright light of the glow with a single action.",
+   "options": []
+  },
+  {
+   "id": "nature/mage-of-ice-and-rime",
+   "name": "Mage Of Ice And Rime",
+   "kind": "feat",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Nature sphere ((water) package, Water Mastery).",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#mage-of-ice-and-rime",
+   "md": "**Prerequisites:** Nature sphere ((water) package, Water Mastery).\n\n**Benefit:** You gain resistance to cold equal to 1/2 your MSB (rounded down, this stacks with any other cold resistance you have). If you are immune to cold damage, you may spend a spell point whenever your immunity prevents you from taking cold damage. If you do, you heal a number of hit points equal to the damage you would have taken from the effect if you were not immune, to a maximum of 5 hit points healed per Hit Dice you possess.\n\nIn addition, you gain the following benefits to the corresponding Nature sphere talents. Sphere effects you create using this feat gain the cold descriptor:\n\n- **Nature’s Carapace:** Instead of the Nature’s Carapace (water) package effect, you may cloak yourself with a coat of frost. You gain a number of temporary hit points equal to 1/2 your caster level plus your casting ability modifier. You always lose these temporary hit points first, even before other temporary hit points. If an attack deals less damage than the current temporary hit points from this sphere effect, it still reduces those temporary hit points but otherwise counts as a miss for the purposes of abilities that trigger on a hit or a miss. Temporary hit points from this sphere effect regenerate at a rate of 1 per round. You may spend a move action when near a source of water (such as rain, mist, or at least 5 cubic feet of water) within your geomancing range to restore all the temporary hit points from this sphere effect.\n- **Nature’s Movement:** While under the effects of the Nature’s Movement (water) package effect, you suffer no penalty to speed or on Acrobatics, Climb, or Stealth checks in snowy or icy terrain or snowy weather conditions.\n- **Nature’s Weapon:** When using the Nature’s Weapon (water) package effect, you may create any weapon you are proficient with instead of creating a dagger. Weapons which use ammunition (e.g. bows, firearms, or slings) are created with basic ammunition ready to be fired by the weapon, and basic ammunition may be summoned and automatically loaded into the weapon as a free action. This ability cannot be used to summon siege weapons or technological items, subject to GM permission.\n- **Nature Sight:** While under the effects of the Nature Sight (water) package effect, you may treat snow and ice as though it were a body of water, allowing you to detect anything in contact with the same body of snow or ice as you, and may see normally in natural or magical rain, sleet, hail, fog, snowstorms, blizzards, and other similar weather conditions.\n- **Wreath Of Elements:** Instead of the Wreath Of Elements (water) package effect, you assault a creature with a frozen gale. A target within your reach takes a penalty on their next attack roll, Perception check, or concentration check equal to -2 plus an additional -1 per 5 caster levels (Fortitude negates).",
+   "options": []
+  },
+  {
+   "id": "nature/mage-of-spore-and-fungus",
+   "name": "Mage of Spore and Fungus",
+   "kind": "feat",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#mage-of-spore-and-fungus",
+   "md": "*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*\n\nSee [[General Feats]] for the full feat .",
+   "options": []
+  },
+  {
+   "id": "nature/march-of-the-treants-dual-sphere",
+   "name": "March Of The Treants",
+   "kind": "feat",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Enhancement sphere, Nature sphere ((plant) package).",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#march-of-the-treants-dual-sphere",
+   "md": "**Prerequisites:** Enhancement sphere, Nature sphere ((plant) package).\n\n**Benefit:** Whenever you cast Pummel, you may choose to spend an additional spell point to enhance the target, allowing the tree to uproot itself (or break free from the tree if targeting a branch) and gain a ground movement speed of 10 + 10 feet per 5 caster levels for the duration of Pummel (or enhance if you spend an additional spell point). On the last round of the target’s duration, the tree or branch will plant itself (as best it could upon the space it is located), becoming once again immobile.",
+   "options": []
+  },
+  {
+   "id": "nature/material-infusion-dual-sphere",
+   "name": "Material Infusion",
+   "kind": "feat",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere, Nature sphere ((metal) package).",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#material-infusion-dual-sphere",
+   "md": "**Prerequisites:** Destruction sphere, Nature sphere ((metal) package).\n\n**Benefit:** When using a destructive blast that deals bludgeoning, piercing, or slashing damage, you may choose to have the blast count as cold iron or silver. At 15th caster level you may also choose adamantine. If other relevant materials exist in your campaign, the GM may determine at what level this talent applies to them.",
+   "options": []
+  },
+  {
+   "id": "nature/natures-enhancement-dual-sphere",
+   "name": "Nature’s Enhancement",
+   "kind": "feat",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Enhancement sphere, Nature sphere (any (spirit) talent).",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#natures-enhancement-dual-sphere",
+   "md": "**Prerequisites:** Enhancement sphere, Nature sphere (any (spirit) talent).\n\n**Benefit:** Whenever you enhance a creature, you may also imbue the target with a non-instantaneous spirit ability. The target must be a valid choice for both the enhancement and spirit ability; you may only target yourself if you cannot target others. In addition, you may maintain concentration on the enhancement and the spirit ability with a single action.",
+   "options": []
+  },
+  {
+   "id": "nature/primal-admixture-admixture",
+   "name": "Primal Admixture",
+   "kind": "feat",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Admixture"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Admixture), Nature sphere.",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#primal-admixture-admixture",
+   "md": "*Source: Expanded Spheres: Baron's Lost Apocrypha*\n\n**Prerequisites:** Destruction sphere (Admixture), Nature sphere.\n\n**Benefit:** When using Admixture, you may spend an additional spell point to affect one target damaged by the destructive blast with a geomancing or spirit effect which targets a creature or applies to a creature in place of a second blast type. If you possess Environmental Presence or Grant Spirit twice, you may apply the effect to any targets damaged, up to your maximum targets from these talents. Alternatively, you may spend an additional spell point to center a geomancy effect which targets an area on the target’s square or another affected square.",
+   "options": []
+  },
+  {
+   "id": "nature/primal-blast-dual-sphere",
+   "name": "Primal Blast",
+   "kind": "feat",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (any (blast type) talent), Nature sphere (any package).",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#primal-blast-dual-sphere",
+   "md": "**Prerequisites:** Destruction sphere (any (blast type) talent), Nature sphere (any package).\n\n**Benefit:** When using a (blast type) talent from a blast type category corresponding to a geomancing talent you possess, you may add your casting ability modifier to any attack rolls and damage rolls of the destructive blast. If you do so, you do not modify attack rolls and damage rolls with your destructive blasts with your Strength modifier, Dexterity modifier, or any other ability score (if you have an ability that allows you to modify attack rolls and/or damage rolls with that ability score). On any individual attacks of which a destructive blast is being applied to a natural or weapon attack (such as with the Energy Strike talent or similar ability), Primal Blast instead modifies the attack and damage rolls of the natural or weapon attack (replacing any other ability modifier bonuses with your casting ability modifier as normal).\n\n| Geomancing Package | Blast Type Category |\n| --- | --- |\n| (Air) package | Air, electric, sonic |\n| (Earth) package | Crystal, stone |\n| (Fire) package | Fire, light |\n| (Metal) package | Acid, electric |\n| (Plant) package | Acid, force |\n| (Water) package | Cold, crystal |\n\n**Author's Note:** When using the Primal Blast feat, you do not substitute an ability score's bonus damage (e.g. Strength, Dexterity) for your casting ability modifier, you instead do not gain your normal ability score as bonus damage and separately add your casting modifier. Effectively, the attack does not add the ability score and adds your casting modifier as a separate damage bonus. This differs from an unchained rogue's finesse training feature, which replaces Strength with Dexterity and then calculates normally. For example, when using the Destruction sphere Energy Strike talent with a 2 handed weapon, you would only receive your casting ability modifier as bonus damage and not 1.5x your casting ability modifier.",
+   "options": []
+  },
+  {
+   "id": "nature/smolder-resin",
+   "name": "Smolder Resin",
+   "kind": "feat",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Nature sphere ((fire) package and (plant) package).",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#smolder-resin",
+   "md": "**Prerequisites:** Nature sphere ((fire) package and (plant) package).\n\n**Benefit:** Your Pummel geomancing ability deals additional fire damage equal to your casting ability modifier with each hit that successfully deals damage.",
+   "options": []
+  },
+  {
+   "id": "nature/spirit-form-dual-sphere",
+   "name": "Spirit Form",
+   "kind": "feat",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Alteration sphere, Nature sphere (any (spirit) talent).",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#spirit-form-dual-sphere",
+   "md": "**Prerequisites:** Alteration sphere, Nature sphere (any (spirit) talent).\n\n**Benefit:** When you use shapeshift on a creature, you may also imbue the target with a non-instantaneous spirit ability. You must spend spell points as normal if required by the spirit ability, and when you apply a (spirit) talent to a target in this way, it counts against the number of traits you may grant with your shapeshift.",
+   "options": []
+  },
+  {
+   "id": "nature/steam-geomancing",
+   "name": "Steam Geomancing",
+   "kind": "feat",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Nature sphere ((fire) package and (water) package).",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#steam-geomancing",
+   "md": "**Prerequisites:** Nature sphere ((fire) package and (water) package).\n\n**Benefit:** When using any Nature sphere ability that deals cold or fire damage, you may change the damage to half cold damage and half fire damage.",
+   "options": []
+  },
+  {
+   "id": "nature/supernatural-elements-dual-sphere",
+   "name": "Supernatural Elements",
+   "kind": "feat",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere, Nature sphere.",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#supernatural-elements-dual-sphere",
+   "md": "The diverse powers of nature are yours to distort.\n\n**Prerequisites:** Destruction sphere, Nature sphere.\n\n**Benefit:** Whenever you create a geomancing or spirit effect, you may change its damage type to a damage type corresponding to a (blast type) talent you possess. Changing the damage type to one other than acid, bludgeoning, cold, electricity, fire, piercing, or slashing costs +1 spell point. If you possess the Admixture talent, you may pay the additional costs of Admixture as normal to apply multiple damage types to the geomancing effect or alter only half of the damage of the effect (with the other half retaining the original damage type of the geomancing effect). This does not allow you to apply effects besides damage from any effect used in the blast type or admixture (for example, you may not apply the saving throw penalties from Numbing Blast or an alter time ability from Time-Thief’s Admixture to a pummel attack).\n\nEffects created with this feat operate as they normally would in spite of their altered damage type. For example, fire that deals acid or cold damage could still be smothered or doused with water to put it out.",
+   "options": []
+  },
+  {
+   "id": "nature/sylvan-necromancy-dual-sphere",
+   "name": "Sylvan Necromancy",
+   "kind": "feat",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Death sphere (Expanded Necromancy), Nature sphere.",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#sylvan-necromancy-dual-sphere",
+   "md": "Plant and animal matter are equally suitable focuses for your magic.\n\n**Prerequisites:** Death sphere (Expanded Necromancy), Nature sphere.\n\n**Benefit:** You can use your (plant) geomancing abilities on corpses instead of plants. In addition, you can reanimate dead plant life as zombies (or skeletons, if they are made of wood) with the grab special ability. These animated plants are treated as animated objects when determining their statistics, although they do not gain construction points. If you possess Hazardous Terrain, undead plant life and plant creatures you create add damage on a successful grapple attempt as if it were an entangle effect.",
+   "options": []
+  },
+  {
+   "id": "nature/terrain-focus-drawback",
+   "name": "Terrain Focus",
+   "kind": "feat",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Drawback"
+   ],
+   "talentTags": [],
+   "prerequisites": "Nature sphere, Terrain Casting drawback.",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#terrain-focus-drawback",
+   "md": "**Prerequisites:** Nature sphere, Terrain Casting drawback.\n\n**Benefit:** You have learned to draw upon the nutrients in some terrain more easily than others, which powers your primal magics. Choose one of the following terrains: Cold, Desert, Forest, Jungle, Mountain, Plains, Planes (pick one, other than the Material Plane), Swamp, Underground, Urban, or Water. Gain a +2 insight bonus to caster level with the Nature sphere while using magic within the chosen terrain.\n\n**Special:** You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new terrain. You cannot gain this feat if you possess the Terrain Defiler feat.",
+   "options": []
+  },
+  {
+   "id": "nature/terrain-strider",
+   "name": "Terrain Strider",
+   "kind": "feat",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Nature sphere.",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#terrain-strider",
+   "md": "**Prerequisite:** Nature sphere.\n\n**Benefit:** You are much less affected by terrain that has been enchanted or magically manipulated to impede you, based upon what packages you possess. Gain a +4 circumstance bonus to saving throws against any Nature sphere talents or abilities from a package you possess.",
+   "options": []
+  },
+  {
+   "id": "nature/water-manipulator-dual-sphere",
+   "name": "Water Manipulator",
+   "kind": "feat",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Fallen Fey sphere (Water Creature (fey-blessing)), Nature sphere ((water) package).",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#water-manipulator-dual-sphere",
+   "md": "**Prerequisites:** Fallen Fey sphere (Water Creature (fey-blessing)), Nature sphere ((water) package).\n\n**Benefit:** You gain the benefits of Water Creature as a (spirit) talent; you may use them at any time without needing to activate a fey-blessing first. The range of these abilities becomes equal to your geomancing range, and you may use the higher of your Nature (water) and Fallen Fey caster levels.",
+   "options": []
+  },
+  {
+   "id": "nature/wildspeaker",
+   "name": "Wildspeaker",
+   "kind": "feat",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Nature sphere (Speak With Wildlife (spirit)).",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#wildspeaker",
+   "md": "**Prerequisites:** Nature sphere (Speak With Wildlife (spirit)).\n\n**Benefit:** You gain the benefits of your Speak With Wildlife talent as a constant sphere-like effect, and may suppress or resume this ability as a standard action.\n\nIf you possess the Divination sphere, you gain the following (divine):\n\n- **Entreat The Animals (divine):** You may spend a spell point to divine for knowledge from nearby animals, asking one question with a call that can be heard up to a mile away as though speaking to them using Speak With Wildlife. Over the next minute, animals will reply and give you a general consensus answer to your question based on their knowledge. For example, you could ask if there is nearby drinkable water, directions to a nearby place, the location of hostile predators, and so on, and local animals will answer to their best ability. If there are no animals in range, this ability has no effect and you do not receive a response.\n\nIf you possess the Illusion sphere, you gain the following (glamer):\n\n- **Alpha Presence (glamer):** You may create a glamer that makes animals perceive the target as superior. The target gains an enhancement bonus on Handle Animal checks equal to 1/2 your caster level and the starting attitude of animals the target interacts with improves by one step.\n\nIf you possess the Mind sphere and Expanded Charm (or have the ability to use Mind sphere talents on animals), you gain the following (charm):\n\n- **Nature’s Messenger (charm):** You can employ animals to deliver messages. As a greater charm, you may spend a spell point to charm a target animal to deliver a message or object. You communicate to the animal a message and a certain location you know well, an obvious landmark, or a specific creature you identify. The animal gains the ability to speak any one language you know, gains a heightened intelligence to overcome simple obstacles, and can engage in simple conversation in order to deliver the message for the duration of this effect. The animal travels to the designated location to the best of its ability, and upon reaching its destination, conveys your message to nearby creatures or to the specified creature before leaving. You can also send the animal with an object or container that it is physically able to carry, delivering the contents upon arrival. This effect lasts for 1 day per caster level or until the message is delivered. If the animal cannot reach the destination within this time, the effect ends. An unwilling animal receives a Will save with a +2 bonus on their saving throw.",
+   "options": []
+  },
+  {
+   "id": "nature/world-in-miniature",
+   "name": "World In Miniature",
+   "kind": "feat",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Nature sphere, Warp sphere (Extradimensional Room (space) or Extradimensional Storage (space)).",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature-Sphere-Feats#world-in-miniature",
+   "md": "**Prerequisites:** Nature sphere, Warp sphere (Extradimensional Room (space) or Extradimensional Storage (space)).\n\n**Benefit:** The extradimensional spaces you create are not empty void, but instead a tiny world formed from your magic. This world generates naturally and consistent across all extradimensional rooms you create as well as your extradimensional storage. The elements of this world take up no space in an extradimensional storage. By increasing the action of geomancing by one step, you can simultaneously open a portal to your world to access the elements within. The world’s exact composition depend on the geomancing packages you possess:\n\n**Air:** Your world possesses a breathable atmosphere and miniature storms. Each round, it produces enough air to sustain a Medium-sized creature or to create a single instantaneous use of air geomancing in an airless environment.\n\n**Earth:** Your world is formed of soft soil and sand. You may use this soil and sand to generate things like dust storms if you possess that capacity, or you may open a portal beneath a target to form a solid earthen surface underneath them, to a maximum size of a 10-foot square.\n\n**Fire:** Your world is rich in fuel and produces a constant flame. A Tiny-sized fire burns within it at all times. If it is extinguished, it reignites one round later if conditions permit.\n\n**Metal:** Your world is shot through with veins of metal. You can use recover ore to extract a Tiny-sized piece of metal ore from your world each day.\n\n**Plant:** Your world grows plantlife that produces enough food to sustain a Medium-sized creature for a day. These plants can be used for the entangle and harvest abilities any number of times per day, but they are not large enough to count as a tree.\n\n**Water:** Your world contains rivers and oceans. It produces enough clean water to sustain a Medium-sized creature for a day. You may generate fog from this water any number of times per day, though it is not large enough to produce effects such as a vortex.",
+   "options": []
+  },
+  {
+   "id": "nature/holistic-brew",
+   "name": "Holistic Brew",
+   "kind": "drawback",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Drawbacks",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature-Sphere-Drawbacks#holistic-brew",
+   "md": "You must select the Instill Spirit talent with the bonus talent granted by this drawback, and you can only use your Nature sphere abilities through this talent. You must possess the Limited Nature talent twice to gain this drawback.",
+   "options": []
+  },
+  {
+   "id": "nature/limited-nature",
+   "name": "Limited Nature",
+   "kind": "drawback",
+   "sphere": "Nature",
+   "system": "Spheres of Power",
+   "group": "Drawbacks",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Nature/Nature-Sphere-Drawbacks#limited-nature",
+   "md": "You gain only a single geomancing ability of your starting Nature package. For example, if you have the (plant) package, you gain only Entangle, Harvest, or Pummel. You must take a (geomancing) talent with the bonus talent gained from this drawback.\n\nYou may take this drawback twice. If taken twice, you cannot use geomancing powers at all, only (spirit) talents. Instead of a (geomancing) talent, you gain the Master Of Elements talent and one (spirit) talent of your choice as the bonus talents gained from this drawback.\n**Wiki Note:** This means you don't have a base geomancing package.",
+   "options": []
+  }
+ ]
+}
