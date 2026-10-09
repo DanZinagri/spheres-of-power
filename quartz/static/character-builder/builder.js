@@ -1413,15 +1413,28 @@ function castingLevelsFormula() {
 }
 
 async function openCastingTradition() {
-  const [data, feats] = await Promise.all([
+  const [data, feats, index, bases] = await Promise.all([
     loadCompendium("casting-traditions.json", { drawbacks: [], boons: [], spellPoints: {}, templates: [] }),
     loadCompendium("feats-index.json", []),
+    loadCompendium("index.json", []),
+    loadCompendium("sphere-bases.json", {}),
   ])
+  // a sample tradition's sphere-specific drawbacks: each gives a bonus talent in its sphere, which its
+  // rule may fix (sphere-bases.json "requires": Transformative Brew -> Instill Shapeshift)
+  const talentsIn = (sphere) => index.filter((e) => e.sphere === sphere && e.kind in TALENT_ENTRY_KINDS).sort((a, b) => a.name.localeCompare(b.name))
+  const ruleOf = (x) => Object.entries(bases[x.sphere]?.requires ?? {})
+    .find(([n]) => n.replace(/\s*\(.*\)\s*$/, "").toLowerCase() === x.name.toLowerCase())?.[1]?.bonus
+  const allowedFor = (x) => {
+    const r = ruleOf(x)
+    const all = talentsIn(x.sphere)
+    return r ? all.filter((e) => r.names.includes(e.name) || [...(e.tags ?? []), ...(e.talentTags ?? [])].some((tg) => r.tags.includes(String(tg).toLowerCase()))) : all
+  }
+  const haveSphere = (sphere) => state.talents.some((t) => t.sphere === sphereKey(sphere))
   const drawbackFeats = feats.filter((f) => !isPf(f) && f.types.includes("Drawback")).sort((a, b) => a.name.localeCompare(b.name))
   const D = Object.fromEntries(data.drawbacks.map((d) => [d.name, d]))
   const B = Object.fromEntries(data.boons.map((b) => [b.name, b]))
   // the tradition being built
-  const sel = { name: "", ability: state.sphere.casting || "cha", drawbacks: {}, boons: {}, feats: [], template: "", filter: "" }
+  const sel = { name: "", ability: state.sphere.casting || "cha", drawbacks: {}, boons: {}, feats: [], template: "", filter: "", sphereDraws: [] }
   const taken = (n) => sel.drawbacks[n]?.count > 0
   const pointsOf = (n) => {
     const d = D[n], s = sel.drawbacks[n]
@@ -1445,7 +1458,15 @@ async function openCastingTradition() {
     sel.drawbacks = {}
     sel.boons = {}
     sel.feats = []
+    sel.sphereDraws = []
     if (!t) { sel.name = ""; return }
+    // one entry per time taken ("Limited Nature x2"); ticked when the character has that sphere
+    sel.sphereDraws = (t.sphereDrawbacks ?? []).flatMap((x) => Array.from({ length: x.count || 1 }, (_, n) => {
+      const allowed = x.missing ? [] : allowedFor(x)
+      return { ...x, n, on: !x.missing && haveSphere(x.sphere), rule: x.missing ? null : ruleOf(x), allowed,
+        // the only allowed talent, or the one the tradition names ("Shape Focus (Energy Bomb)")
+        pick: ruleOf(x) && allowed.length === 1 ? allowed[0].name : allowed.find((e) => e.name.toLowerCase() === (x.detail ?? "").toLowerCase())?.name ?? "" }
+    }))
     sel.name = t.name
     const ab = Object.entries(CT_ABILITIES).find(([, l]) => (t.ability ?? "").startsWith(l))
     if (ab) sel.ability = ab[0]
@@ -1518,6 +1539,22 @@ async function openCastingTradition() {
         ...featPickers,
         h("span", { class: "pi-sum ct-sum" }, b.summary), rules(b))
     }
+    const sphereDrawRow = (x) => {
+      const box = h("input", { type: "checkbox", checked: x.on, disabled: !!x.missing, "aria-label": x.name,
+        onchange: (e) => { x.on = e.target.checked; render() } })
+      const pick = x.on && !x.missing && !(x.rule && x.allowed.length === 1)
+        ? h("select", { "aria-label": `${x.name}: bonus talent` },
+            h("option", { value: "" }, x.rule ? "Choose its bonus talent…" : "Bonus talent (optional; or add it later)…"),
+            ...x.allowed.map((e) => h("option", { value: e.name, selected: x.pick === e.name }, e.name)))
+        : null
+      pick?.addEventListener("change", () => { x.pick = pick.value })
+      return h("div", { class: `ct-row${x.on ? " ct-on" : ""}${x.missing ? " ct-blocked" : ""}` },
+        h("label", { class: "row", style: "gap:.4rem" }, box, h("b", {}, `${x.name}${x.detail ? ` (${x.detail})` : ""}${x.count > 1 ? ` #${x.n + 1}` : ""}`)),
+        h("span", { class: "pi-meta" }, x.sphere ? `${x.sphere} sphere` : ""),
+        x.missing ? h("span", { class: "note" }, "Not in the compendium: add it on the Spheres tab yourself.") : null,
+        x.rule ? h("span", { class: "pi-sum ct-sum" }, x.allowed.length === 1 ? `Its bonus talent is ${x.allowed[0].name} (added for you).` : x.rule.text) : null,
+        pick)
+    }
     const q = sel.filter.trim().toLowerCase()
     fill(body, 
       h("div", { class: "row picker-filters" },
@@ -1532,8 +1569,14 @@ async function openCastingTradition() {
       h("div", { class: "ct-list" }, data.drawbacks.filter((d) => !q || d.name.toLowerCase().includes(q) || d.md.toLowerCase().includes(q)).map(drawbackRow)),
       h("h3", {}, "Boons"),
       h("div", { class: "ct-list" }, data.boons.map(boonRow)),
+      sel.sphereDraws.length ? h("h3", {}, "Sphere-specific drawbacks") : null,
+      sel.sphereDraws.length ? h("p", { class: "note" }, "From the tradition. They don't give drawback points; each gives a bonus talent in its sphere (free until the drawback is bought off). Ticked ones are those for spheres you already have.") : null,
+      sel.sphereDraws.length ? h("div", { class: "ct-list" }, sel.sphereDraws.map(sphereDrawRow)) : null,
       h("div", { class: "row add-row" },
-        h("button", { class: "primary", disabled: rest < 0 || !pts && !boons, onclick: async () => { await applyCastingTradition(sel, data, drawbackFeats, D, B); dlg.done(); toast(`Added the ${sel.name || "custom"} casting tradition`) } }, "Add casting tradition"),
+        h("button", { class: "primary", disabled: rest < 0 || !pts && !boons, onclick: async () => {
+          const missing = sel.sphereDraws.filter((x) => x.on && x.rule && !x.pick)
+          if (missing.length) return toast(`Choose the bonus talent for ${missing.map((x) => x.name).join(", ")}`)
+          await applyCastingTradition(sel, data, drawbackFeats, D, B); dlg.done(); toast(`Added the ${sel.name || "custom"} casting tradition`) } }, "Add casting tradition"),
         h("button", { onclick: () => dlg.done() }, "Cancel")))
   }
   render()
@@ -1563,6 +1606,21 @@ async function openCastingTradition() {
       const key = sphereKey(B[b].grantsSphere)
       state.talents.push({ name: `${B[b].grantsSphere} sphere`, kind: sphereKind(key) ?? "magic", sphere: key, tags: "base sphere",
         exclude: false, desc: `Gained from the ${b} boon of the ${name} casting tradition.` })
+    }
+    // sphere-specific drawbacks go in their spheres, with the bonus talent each gives
+    const textOf = async (e) => {
+      const full = e ? (await loadCompendium(e.file, { entries: [] })).entries.find((x) => x.id === e.id) : null
+      return mdToText(full?.md ?? e?.summary ?? "")
+    }
+    for (const x of sel.sphereDraws.filter((x) => x.on && !x.missing)) {
+      const key = sphereKey(x.sphere)
+      const kind = sphereKind(key) ?? "magic"
+      const d = index.find((e) => e.sphere === x.sphere && e.kind === "drawback" && e.name === x.name)
+      state.talents.push({ name: `${x.name}${x.detail ? ` (${x.detail})` : ""}`, kind, sphere: key, tags: "drawback", exclude: true, boughtOff: false,
+        ref: d?.id, desc: `From the ${name} casting tradition.\n\n${await textOf(d)}` })
+      const t = x.pick ? index.find((e) => e.sphere === x.sphere && e.kind in TALENT_ENTRY_KINDS && e.name === x.pick) : null
+      if (t) state.talents.push({ name: t.name, kind, sphere: key, tags: [...(t.tags ?? []), "granted"].join(", "), exclude: true,
+        grantedBy: x.name, ref: t.id, desc: `Bonus talent from the ${x.name} drawback (free).\n\n${await textOf(t)}` })
     }
     state.sphere.casting = sel.ability
     // the tradition is now this "Other" feature: clear the settings' name field, which exports as its

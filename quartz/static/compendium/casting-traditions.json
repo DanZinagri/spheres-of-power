@@ -701,7 +701,148 @@
    "notes": [
     "Sphere-specific drawbacks: Transformative Brew (Alteration), Humors (Blood), Meld Into Dark and Shadowed Brew (Dark), Necromantic Concoction (Death), Shape Focus (Energy Bomb) (Destruction), Divining Concoction (Divination), Special Delivery (Enhancement), Cursed Brew and Tongue Of Ages (Fate), Glamered Brew and Obscura Mage (Illusion), Medicinal (Life), Glowing Brew (Light), Addling Brew (Mind), Holistic Brew and Limited Nature x2 (Nature), Limited Protection (aegis) and Protective Brew (Protection), Temporal Brew (Time), Warping Brew (Warp), Atmospheric Brew and Localized Weather (Weather)"
    ],
-   "ability": "Intelligence"
+   "ability": "Intelligence",
+   "sphereDrawbacks": [
+    {
+     "name": "Transformative Brew",
+     "sphere": "Alteration",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Humors",
+     "sphere": "Blood",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Meld Into Dark",
+     "sphere": "Dark",
+     "detail": "",
+     "count": 1,
+     "missing": true
+    },
+    {
+     "name": "Shadowed Brew",
+     "sphere": "Dark",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Necromantic Concoction",
+     "sphere": "Death",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Shape Focus",
+     "sphere": "Destruction",
+     "detail": "Energy Bomb",
+     "count": 1
+    },
+    {
+     "name": "Divining Concoction",
+     "sphere": "Divination",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Special Delivery",
+     "sphere": "Enhancement",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Cursed Brew",
+     "sphere": "Fate",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Tongue Of Ages",
+     "sphere": "Fate",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Glamered Brew",
+     "sphere": "Illusion",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Obscura Mage",
+     "sphere": "Illusion",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Medicinal",
+     "sphere": "Life",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Glowing Brew",
+     "sphere": "Light",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Addling Brew",
+     "sphere": "Mind",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Holistic Brew",
+     "sphere": "Nature",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Limited Nature",
+     "sphere": "Nature",
+     "detail": "",
+     "count": 2
+    },
+    {
+     "name": "Limited Protection",
+     "sphere": "Protection",
+     "detail": "aegis",
+     "count": 1
+    },
+    {
+     "name": "Protective Brew",
+     "sphere": "Protection",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Temporal Brew",
+     "sphere": "Time",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Warping Brew",
+     "sphere": "Warp",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Atmospheric Brew",
+     "sphere": "Weather",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Localized Weather",
+     "sphere": "Weather",
+     "detail": "",
+     "count": 1
+    }
+   ]
   },
   {
    "name": "Arcanist",
@@ -806,7 +947,21 @@
    "notes": [
     "Sphere-specific drawbacks: Aligned Combatant (Destruction), Aligned Protection (Protection)"
    ],
-   "ability": "Wisdom"
+   "ability": "Wisdom",
+   "sphereDrawbacks": [
+    {
+     "name": "Aligned Combatant",
+     "sphere": "Destruction",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Aligned Protection",
+     "sphere": "Protection",
+     "detail": "",
+     "count": 1
+    }
+   ]
   },
   {
    "name": "Druid",
@@ -835,7 +990,15 @@
    "notes": [
     "Sphere-specific drawbacks: Animal Shaman (Mind)"
    ],
-   "ability": "Wisdom"
+   "ability": "Wisdom",
+   "sphereDrawbacks": [
+    {
+     "name": "Animal Shaman",
+     "sphere": "Mind",
+     "detail": "",
+     "count": 1
+    }
+   ]
   },
   {
    "name": "Hunter",
@@ -859,7 +1022,15 @@
    "notes": [
     "Sphere-specific drawbacks: Animal Shaman (Mind)"
    ],
-   "ability": "Wisdom"
+   "ability": "Wisdom",
+   "sphereDrawbacks": [
+    {
+     "name": "Animal Shaman",
+     "sphere": "Mind",
+     "detail": "",
+     "count": 1
+    }
+   ]
   },
   {
    "name": "Inquisitor",
@@ -1025,7 +1196,21 @@
    "notes": [
     "Sphere-specific drawbacks: Aligned Combatant (Destruction), Aligned Protection (Protection)"
    ],
-   "ability": "Charisma"
+   "ability": "Charisma",
+   "sphereDrawbacks": [
+    {
+     "name": "Aligned Combatant",
+     "sphere": "Destruction",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Aligned Protection",
+     "sphere": "Protection",
+     "detail": "",
+     "count": 1
+    }
+   ]
   },
   {
    "name": "Psychic",
@@ -1071,7 +1256,15 @@
    "notes": [
     "Sphere-specific drawbacks: Animal Shaman (Mind)"
    ],
-   "ability": "Wisdom"
+   "ability": "Wisdom",
+   "sphereDrawbacks": [
+    {
+     "name": "Animal Shaman",
+     "sphere": "Mind",
+     "detail": "",
+     "count": 1
+    }
+   ]
   },
   {
    "name": "Shaman",
@@ -1210,7 +1403,21 @@
    "notes": [
     "Sphere-specific drawbacks: Aligned Combatant (Destruction), Aligned Protection (Protection)"
    ],
-   "ability": "Wisdom"
+   "ability": "Wisdom",
+   "sphereDrawbacks": [
+    {
+     "name": "Aligned Combatant",
+     "sphere": "Destruction",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Aligned Protection",
+     "sphere": "Protection",
+     "detail": "",
+     "count": 1
+    }
+   ]
   },
   {
    "name": "Witch",
@@ -1327,7 +1534,15 @@
    "notes": [
     "Sphere-specific drawbacks: Special Delivery (Enhancement)"
    ],
-   "ability": "Intelligence"
+   "ability": "Intelligence",
+   "sphereDrawbacks": [
+    {
+     "name": "Special Delivery",
+     "sphere": "Enhancement",
+     "detail": "",
+     "count": 1
+    }
+   ]
   },
   {
    "name": "Artificery",
@@ -1402,7 +1617,15 @@
    "notes": [
     "Sphere-specific drawbacks: Animal Shaman (Mind)"
    ],
-   "ability": "Charisma"
+   "ability": "Charisma",
+   "sphereDrawbacks": [
+    {
+     "name": "Animal Shaman",
+     "sphere": "Mind",
+     "detail": "",
+     "count": 1
+    }
+   ]
   },
   {
    "name": "Blighter",
@@ -1543,7 +1766,15 @@
    "notes": [
     "Sphere-specific drawbacks: Lost In Translation (Mind)"
    ],
-   "ability": "Charisma"
+   "ability": "Charisma",
+   "sphereDrawbacks": [
+    {
+     "name": "Lost In Translation",
+     "sphere": "Mind",
+     "detail": "",
+     "count": 1
+    }
+   ]
   },
   {
    "name": "Caffiend",
@@ -1601,7 +1832,27 @@
    "notes": [
     "Sphere-specific drawbacks: Limited Divination (sense) (Divination), Sanctified and Tongue Of Ages (Fate)"
    ],
-   "ability": "Wisdom"
+   "ability": "Wisdom",
+   "sphereDrawbacks": [
+    {
+     "name": "Limited Divination",
+     "sphere": "Divination",
+     "detail": "sense",
+     "count": 1
+    },
+    {
+     "name": "Sanctified",
+     "sphere": "Fate",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Tongue Of Ages",
+     "sphere": "Fate",
+     "detail": "",
+     "count": 1
+    }
+   ]
   },
   {
    "name": "Chi Tracer",
@@ -1622,7 +1873,106 @@
    "notes": [
     "Sphere-specific drawbacks: Lycanthropic (Alteration), Meld Into Dark (Dark), Deathful Touch (Death), Destructive Touch (Destruction), Bodily Enhancement and Personal Magics (Enhancement), Personal Fate (Fate), Personal Illusion (Illusion), Touch Of Light (Light), Regenerate (Life), Tactile Charm (Mind), Limited Nature x2, Limited Protection (ward), Personal Time (Time), Solo Combatant (War), Personal Warp (Warp)"
    ],
-   "ability": "Wisdom"
+   "ability": "Wisdom",
+   "sphereDrawbacks": [
+    {
+     "name": "Lycanthropic",
+     "sphere": "Alteration",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Meld Into Dark",
+     "sphere": "Dark",
+     "detail": "",
+     "count": 1,
+     "missing": true
+    },
+    {
+     "name": "Deathful Touch",
+     "sphere": "Death",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Destructive Touch",
+     "sphere": "Destruction",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Bodily Enhancement",
+     "sphere": "Enhancement",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Personal Magics",
+     "sphere": "Enhancement",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Personal Fate",
+     "sphere": "Fate",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Personal Illusion",
+     "sphere": "Illusion",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Touch Of Light",
+     "sphere": "Light",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Regenerate",
+     "sphere": "Life",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Tactile Charm",
+     "sphere": "Mind",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Limited Nature",
+     "sphere": "Nature",
+     "detail": "",
+     "count": 2
+    },
+    {
+     "name": "Limited Protection",
+     "sphere": "Protection",
+     "detail": "ward",
+     "count": 1
+    },
+    {
+     "name": "Personal Time",
+     "sphere": "Time",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Solo Combatant",
+     "sphere": "War",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Personal Warp",
+     "sphere": "Warp",
+     "detail": "",
+     "count": 1
+    }
+   ]
   },
   {
    "name": "Cholmic Traditionalist",
@@ -1823,7 +2173,21 @@
    "notes": [
     "Sphere-specific drawbacks: Aligned Combatant (Destruction), Aligned Protection (Protection)"
    ],
-   "ability": "Wisdom"
+   "ability": "Wisdom",
+   "sphereDrawbacks": [
+    {
+     "name": "Aligned Combatant",
+     "sphere": "Destruction",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Aligned Protection",
+     "sphere": "Protection",
+     "detail": "",
+     "count": 1
+    }
+   ]
   },
   {
    "name": "Dream Casting",
@@ -1881,7 +2245,15 @@
    "notes": [
     "Sphere-specific drawbacks: Animal Shaman (Mind)"
    ],
-   "ability": "Wisdom"
+   "ability": "Wisdom",
+   "sphereDrawbacks": [
+    {
+     "name": "Animal Shaman",
+     "sphere": "Mind",
+     "detail": "",
+     "count": 1
+    }
+   ]
   },
   {
    "name": "Elemental Shaman",
@@ -2061,7 +2433,27 @@
    "notes": [
     "Sphere-specific drawbacks: Unnatural Transformation (gadgets and gears) (Alteration), Elongated Summoning (Conjuration), Kindred Knack (construct) (Mind)"
    ],
-   "ability": "Intelligence"
+   "ability": "Intelligence",
+   "sphereDrawbacks": [
+    {
+     "name": "Unnatural Transformation",
+     "sphere": "Alteration",
+     "detail": "gadgets and gears",
+     "count": 1
+    },
+    {
+     "name": "Elongated Summoning",
+     "sphere": "Conjuration",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Kindred Knack",
+     "sphere": "Mind",
+     "detail": "construct",
+     "count": 1
+    }
+   ]
   },
   {
    "name": "Hypnotism",
@@ -2197,7 +2589,15 @@
    "notes": [
     "Sphere-specific drawbacks: Lycanthropic (Alteration)"
    ],
-   "ability": "Charisma"
+   "ability": "Charisma",
+   "sphereDrawbacks": [
+    {
+     "name": "Lycanthropic",
+     "sphere": "Alteration",
+     "detail": "",
+     "count": 1
+    }
+   ]
   },
   {
    "name": "Material Transmuter",
@@ -2232,7 +2632,15 @@
     "Sphere-specific drawbacks: Material Mimic (Creation)",
     "Boon: Forge (Creation)"
    ],
-   "ability": "Intelligence"
+   "ability": "Intelligence",
+   "sphereDrawbacks": [
+    {
+     "name": "Material Mimic",
+     "sphere": "Creation",
+     "detail": "",
+     "count": 1
+    }
+   ]
   },
   {
    "name": "Mind",
@@ -2275,7 +2683,100 @@
    "notes": [
     "Sphere-specific drawbacks: Lycanthropic (Alteration), Meld Into Dark (Dark), Deathful Touch (Death), Destructive Touch (Destruction), Bodily Enhancement and Personal Magics (Enhancement), Personal Fate (Fate), Personal Illusion (Illusion), Touch Of Light (Light), Regenerate (Life), Limited Nature x2, Protected Soul (Protection), Personal Time (Time), Solo Combatant (War), Personal Warp (Warp)"
    ],
-   "ability": "Wisdom"
+   "ability": "Wisdom",
+   "sphereDrawbacks": [
+    {
+     "name": "Lycanthropic",
+     "sphere": "Alteration",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Meld Into Dark",
+     "sphere": "Dark",
+     "detail": "",
+     "count": 1,
+     "missing": true
+    },
+    {
+     "name": "Deathful Touch",
+     "sphere": "Death",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Destructive Touch",
+     "sphere": "Destruction",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Bodily Enhancement",
+     "sphere": "Enhancement",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Personal Magics",
+     "sphere": "Enhancement",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Personal Fate",
+     "sphere": "Fate",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Personal Illusion",
+     "sphere": "Illusion",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Touch Of Light",
+     "sphere": "Light",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Regenerate",
+     "sphere": "Life",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Limited Nature",
+     "sphere": "Nature",
+     "detail": "",
+     "count": 2
+    },
+    {
+     "name": "Protected Soul",
+     "sphere": "Protection",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Personal Time",
+     "sphere": "Time",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Solo Combatant",
+     "sphere": "War",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Personal Warp",
+     "sphere": "Warp",
+     "detail": "",
+     "count": 1
+    }
+   ]
   },
   {
    "name": "Morose Essentialist",
@@ -2374,7 +2875,28 @@
    "notes": [
     "Sphere-specific drawbacks: Bodily Enhancement and Restricted Enhancement (tribe members) (Enhancement), Limited Nature x2"
    ],
-   "ability": "Charisma"
+   "ability": "Charisma",
+   "sphereDrawbacks": [
+    {
+     "name": "Bodily Enhancement",
+     "sphere": "Enhancement",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Restricted Enhancement",
+     "sphere": "Enhancement",
+     "detail": "tribe members",
+     "count": 1,
+     "missing": true
+    },
+    {
+     "name": "Limited Nature",
+     "sphere": "Nature",
+     "detail": "",
+     "count": 2
+    }
+   ]
   },
   {
    "name": "Pact Magic",
@@ -2853,7 +3375,34 @@
    "notes": [
     "Sphere-specific drawbacks: Water Wizard (Creation), Energy Focus (cold) (Destruction), Limited Telekinesis (requires water) (Telekinesis), Focused Weather (Precipitation) (Weather)"
    ],
-   "ability": "Wisdom"
+   "ability": "Wisdom",
+   "sphereDrawbacks": [
+    {
+     "name": "Water Wizard",
+     "sphere": "Creation",
+     "detail": "",
+     "count": 1
+    },
+    {
+     "name": "Energy Focus",
+     "sphere": "Destruction",
+     "detail": "cold",
+     "count": 1
+    },
+    {
+     "name": "Limited Telekinesis",
+     "sphere": "Telekinesis",
+     "detail": "requires water",
+     "count": 1
+    },
+    {
+     "name": "Focused Weather",
+     "sphere": "Weather",
+     "detail": "Precipitation",
+     "count": 1,
+     "missing": true
+    }
+   ]
   },
   {
    "name": "Wild-Born",

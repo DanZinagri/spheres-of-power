@@ -4564,6 +4564,43 @@ def _ct_resolve(name: str, known: list[str]) -> str | None:
     return hits[0] if len(hits) == 1 else None
 
 
+def _ct_sphere_drawbacks(text: str) -> list[dict]:
+    """A sample tradition's sphere-specific drawbacks: "Meld Into Dark and Shadowed Brew (Dark), Shape Focus
+    (Energy Bomb) (Destruction), Limited Nature x2" -> [{name, sphere, detail, count}], names as the
+    compendium has them. A drawback with no sphere after it is looked up by name."""
+    idx = COMPENDIUM_OUT / "index.json"
+    entries = json.loads(idx.read_text(encoding="utf-8")) if idx.exists() else []
+    draws = [e for e in entries if e["kind"] == "drawback"]
+    spheres = {e["sphere"] for e in entries if e.get("sphere")}
+    find = lambda name, sphere=None: next((e for e in draws if _norm(re.sub(r"\s*\(.*\)$", "", e["name"])) == _norm(name)
+                                           and (sphere is None or e["sphere"] == sphere)), None)
+    out, start = [], 0
+    text = text.strip(" .")
+    # chunks end with "(Sphere)"; anything after the last one is a chunk with no sphere
+    cuts = [m for m in re.finditer(r"\(([A-Z][A-Za-z ]+)\)", text) if m.group(1) in spheres]
+    chunks = []
+    for m in cuts:
+        chunks.append((text[start:m.start()], m.group(1)))
+        start = m.end()
+    if text[start:].strip(" ,"):
+        chunks.append((text[start:], None))
+    for chunk, sphere in chunks:
+        for part in re.split(r",\s*(?![^()]*\))|\s+and\s+(?![^()]*\))", chunk.strip(" ,")):
+            part = part.strip(" ,")
+            if not part:
+                continue
+            count = int(c.group(1)) if (c := re.search(r"\s+x(\d)\b", part)) else 1
+            detail = d.group(1) if (d := re.search(r"\(([^()]+)\)", part)) else ""
+            base = re.sub(r"\s+x\d\b|\s*\([^()]*\)", "", part).strip()
+            # (a list can run several spheres' drawbacks into one "(Sphere)": "Limited Nature x2, Personal Time (Time)")
+            e = find(base, sphere) or find(base)
+            if e:
+                out.append({"name": e["name"], "sphere": e["sphere"], "detail": detail, "count": count})
+            else:  # named by the tradition but not a drawback the compendium has (Meld Into Dark)
+                out.append({"name": base, "sphere": sphere or "", "detail": detail, "count": count, "missing": True})
+    return out
+
+
 def build_casting_traditions() -> int:
     files = {f.stem: f for f in CONTENT.rglob("*.md") if ARCHIVE not in f.relative_to(CONTENT).parts}
     f = files.get("Casting Traditions")
@@ -4643,6 +4680,7 @@ def build_casting_traditions() -> int:
                         tpl["notes"].append(f"Drawback not on the list: {part}")
                 if specific.strip():
                     tpl["notes"].append(f"Sphere-specific drawbacks: {specific.strip(' .')}")
+                    tpl["sphereDrawbacks"] = _ct_sphere_drawbacks(specific)
             if (m := re.search(r"^Boons?:\s*(.+)$", t, re.M)):
                 for part in re.split(r",\s*(?![^()]*\))", m.group(1)):
                     part = part.strip(" .")
