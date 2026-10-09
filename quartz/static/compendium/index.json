@@ -21581,7 +21581,7 @@
   ],
   "summary": "As a standard action, you may spend a spell point to create an illusion within close range.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/trick",
@@ -21601,7 +21601,7 @@
   ],
   "summary": "As a standard action, you may create small, simple illusions called tricks.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/aggrandizing-strike-strike",
@@ -21620,7 +21620,7 @@
   "options": [],
   "summary": "As a standard action, you may make a single weapon attack in conjunction with using a [glamer] or [trick] effect.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/bestow-focus",
@@ -21637,7 +21637,7 @@
   "options": [],
   "summary": "When creating a glamer on a target you may have the target use their action to maintain concentration of the glamer instead of yourself.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/blur-glamer",
@@ -21656,7 +21656,7 @@
   "options": [],
   "summary": "As a trick you may designate a single 5-foot cube as a figment that distorts perception.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/committed-deception",
@@ -21673,7 +21673,7 @@
   "options": [],
   "summary": "You may increase the casting time of an illusion by one step to reduce its total spell point cost by one (minimum 0).",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/complex-illusion-mass",
@@ -21692,7 +21692,7 @@
   "options": [],
   "summary": "When creating a figment, you may spend an additional spell point to divide the figment into multiple, independent components.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/control-figment",
@@ -21709,7 +21709,7 @@
   "options": [],
   "summary": "As a full-round action you may attempt a magic skill check against the magic skill defense of the controller of an existing figment.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/distracting-phantoms",
@@ -21726,7 +21726,7 @@
   "options": [],
   "summary": "As a trick, you may designate a 5-foot cube within your illusion range as a flanking partner for you and your allies.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/decoy-glamer",
@@ -21745,7 +21745,7 @@
   "options": [],
   "summary": "As a trick you may create an illusionary creature in the same square as a real creature, called a decoy.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/enlarged-illusion",
@@ -21762,7 +21762,7 @@
   "options": [],
   "summary": "Increase your illusion’s maximum size by one size category.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/focused-imagination",
@@ -21779,7 +21779,7 @@
   "options": [],
   "summary": "When you create an illusion, the illusion remains for 2 rounds after you stop concentrating, and you may maintain it through concentration for up to 10 minutes…",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/greater-illusionary-disguise-utility",
@@ -21798,7 +21798,7 @@
   "options": [],
   "summary": "When creating an Illusionary Disguise, you gain a +4 circumstance bonus to your Disguise check, +2 per (sensory) talent you possess (other than Manipulate…",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/hostile-glamers-glamer",
@@ -21817,7 +21817,7 @@
   "options": [],
   "summary": "You can create glamers that affect the wearer.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/illusionary-labyrinth",
@@ -21834,7 +21834,7 @@
   "options": [],
   "summary": "As a trick, you may choose to perform a reposition maneuver on any target within your illusion range using your (caster level + your casting modifier -5) in…",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/illusionary-terrain",
@@ -21851,7 +21851,7 @@
   "options": [],
   "summary": "As a trick, you may designate a single cube (no larger than your maximum illusion size) as difficult terrain for one round per caster level.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/insistent-illusions",
@@ -21868,7 +21868,7 @@
   "options": [],
   "summary": "As a swift action, you may spend 2 spell points to force all creatures that currently disbelieve any of your figments to re-roll their Will saves to disbelieve.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/inspire-doubt",
@@ -21885,7 +21885,7 @@
   "options": [],
   "summary": "You may combine real effects and illusionary effects to effectively confuse targets as to which are real and which are not.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/instill-glamer-instill",
@@ -21904,7 +21904,7 @@
   "options": [],
   "summary": "As a standard action you may touch a small container of liquid and instill a glamer inside it, which functions as a potion or oil.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/lingering-illusion",
@@ -21921,7 +21921,7 @@
   "options": [],
   "summary": "You may spend a spell point to allow the illusion to remain for 1 minute per caster level without the need for concentration.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/mage-feint",
@@ -21938,7 +21938,7 @@
   "options": [],
   "summary": "As a trick, you may force a target to succeed at a Will save or lose their Dexterity bonus to armor class until their turn.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/masques-glamer-utility",
@@ -21959,7 +21959,7 @@
   "options": [],
   "summary": "You may create glamers that subtly change the way someone is perceived, aiding in their social interactions.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/novel-deception",
@@ -21976,7 +21976,7 @@
   "options": [],
   "summary": "As a standard action, you may pretend to cast an Illusion sphere effect and attempt a Bluff check.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/oblivious",
@@ -21993,7 +21993,7 @@
   "options": [],
   "summary": "When applying a glamer to a target, you may choose to do so subtly, such that they might not even realize they have been affected by one.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/overwhelming-sensations",
@@ -22010,7 +22010,7 @@
   "options": [],
   "summary": "As a trick you may force a target to succeed at a Will save or suffer extreme sensation for one round per two caster levels (minimum 1).",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/patterns",
@@ -22027,7 +22027,7 @@
   "options": [],
   "summary": "You may create disorienting and impossible forms and sensations with your figments.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/programmed-illusion",
@@ -22044,7 +22044,7 @@
   "options": [],
   "summary": "Whenever you create an illusion, you may add a specific circumstance that, when met, changes the nature of the illusion immediately.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/ranged-illusion-range",
@@ -22063,7 +22063,7 @@
   "options": [],
   "summary": "Increase the distance by which you may manifest an illusion or trick by one category (close to medium, medium to long).",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/selective-illusions",
@@ -22080,7 +22080,7 @@
   "options": [],
   "summary": "By spending an additional spell point at the time you create an illusion, you may designate any number of targets to be immune to the illusion.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/shadow-infusion",
@@ -22097,7 +22097,7 @@
   "options": [],
   "summary": "When using an Illusion sphere effect you may spend an additional spell point to render the illusion quasi-real, granting it the shadow descriptor.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/shift-glamers",
@@ -22114,7 +22114,7 @@
   "options": [],
   "summary": "As a standard action, you may move any number of your glamers still within your maximum illusion range to new targets also within your maximum illusion range.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/suppression-glamer",
@@ -22133,7 +22133,7 @@
   "options": [],
   "summary": "As an illusion, you may create glamers that suppress and eliminate sensation rather than creating their own.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/swift-figments",
@@ -22150,7 +22150,7 @@
   "options": [],
   "summary": "The speed your figments may move within a single round improves to 25 feet + 5 feet per 2 caster levels.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/synesthesia",
@@ -22167,7 +22167,7 @@
   "options": [],
   "summary": "As a trick, you can link two senses allowing you to, for example, see sound or smell color.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/talented-trickster",
@@ -22184,7 +22184,7 @@
   "options": [],
   "summary": "You may spend a spell point to use any trick you know as a swift action.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/windtalker",
@@ -22201,7 +22201,7 @@
   "options": [],
   "summary": "As a trick you may use your illusions to signal or communicate.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/illusionary-odor-sensory-taste--smell",
@@ -22221,7 +22221,7 @@
   "options": [],
   "summary": "You may add smell and taste to your illusions.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/illusionary-sound-sensory-sound",
@@ -22241,7 +22241,7 @@
   "options": [],
   "summary": "You may add whatever sounds you desire to an illusion.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/illusionary-touch-sensory-touch",
@@ -22261,7 +22261,7 @@
   "options": [],
   "summary": "You may make an illusion that feels real to the touch, including temperature and texture.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/manipulate-aura-sensory-magic",
@@ -22281,7 +22281,7 @@
   "options": [],
   "summary": "You may make illusions that create or change magical auras.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/advanced-invisibility",
@@ -22298,7 +22298,7 @@
   "options": [],
   "summary": "You may spend an additional spell point when using the Suppression glamer to make the target completely invisible.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/deceive-dweomer",
@@ -22315,7 +22315,7 @@
   "options": [],
   "summary": "As a trick, you may add half your caster level as an enhancement bonus to Use Magic Device checks to emulate a race, class feature, ability score or alignment.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/distant-deception",
@@ -22332,7 +22332,7 @@
   "options": [],
   "summary": "Prerequisites: Illusion sphere (Ranged Illusion [range] x2), caster level 5th.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/expand-illusion",
@@ -22349,7 +22349,7 @@
   "options": [],
   "summary": "When creating an illusion, you may spend an additional spell point to improve its size by one step.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/impawsible-perspective",
@@ -22366,7 +22366,7 @@
   "options": [],
   "summary": "Whenever you create an illusion, you may empower it to be incredibly difficult to perceive and disbelieve.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/permanent-image",
@@ -22383,7 +22383,7 @@
   "options": [],
   "summary": "When creating an illusion, you may spend 2 spell points to increase its duration to permanent.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/phantom-mind",
@@ -22400,7 +22400,7 @@
   "options": [],
   "summary": "Prerequisites: Illusion sphere (Lingering Illusion, Programmed Illusion), caster level 8th.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/phantom-pain",
@@ -22417,7 +22417,7 @@
   "options": [],
   "summary": "Prerequisites Illusion sphere (Illusionary Touch (sensory, touch) x2), caster level 5th.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/spell-disruption",
@@ -22434,7 +22434,7 @@
   "options": [],
   "summary": "You may spend an additional spell point when using Blur to have it also cause spell failure chance equal to its miss chance.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/asymmetrical-warfare-dual-sphere",
@@ -22453,7 +22453,7 @@
   "options": [],
   "summary": "You may use your rally abilities on those under the effects of your glamers or in the areas of your figment as if they can see and hear you and are within the…",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/aura-engineering-dual-sphere",
@@ -22472,7 +22472,7 @@
   "options": [],
   "summary": "You may attempt Use Magic Device checks on any object within close range using the greater caster level of your Divination or Illusion spheres.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/blurred-boundary-dual-sphere",
@@ -22491,7 +22491,7 @@
   "options": [],
   "summary": "When creating a non-trick glamer you may also grant the effects of a single aegis you possess to the target.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/concealed-command",
@@ -22508,7 +22508,7 @@
   "options": [],
   "summary": "Your agents are abnormally difficult to shake from your grip.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/deep-cover-dual-sphere",
@@ -22527,7 +22527,7 @@
   "options": [],
   "summary": "In place of an Alteration trait you may apply the effects of your illusionary disguise to your form.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/explanatory-illusion-dual-sphere",
@@ -22546,7 +22546,7 @@
   "options": [],
   "summary": "Prerequisites: Divination Sphere, Illusion Sphere Benefit: As a free action whenever you are observing a target or location using your divine ability, you may…",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/fools-counterspell-counterspell",
@@ -22565,7 +22565,7 @@
   "options": [],
   "summary": "When you successfully counter a spell, the caster must succeed at a Will save equal to your Illusion sphere DC or Mind sphere DC (whichever is greater), or…",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/illusionary-blast-dual-sphere",
@@ -22584,7 +22584,7 @@
   "options": [],
   "summary": "When creating a destructive blast, you may spend an additional spell point to allow your destructive blast to behave as if it were an illusion in specific…",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/illustrious-light-dual-sphere",
@@ -22603,7 +22603,7 @@
   "options": [],
   "summary": "Whenever you create a figment or glamer you may, as part of the same action, affect the figment or the creature or object subject to the glamer with your glow.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/implausible-deniability-dual-sphere",
@@ -22622,7 +22622,7 @@
   "options": [],
   "summary": "You may have your illusions interact with Detect Thoughts and similar abilities as if they had an Intelligence score of up to twice your caster level.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/invisible-friend-dual-sphere",
@@ -22641,7 +22641,7 @@
   "options": [],
   "summary": "As a free action, you may spend a spell point to allow your shadow companion to fully manifest itself.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/seeing-shadows-dual-sphere",
@@ -22660,7 +22660,7 @@
   "options": [],
   "summary": "You gain the following abilities based on the Dark sphere and Illusion sphere talents you possess: - Body Double (requires Living Shadow): When using the…",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/solid-illusions-dual-sphere",
@@ -22679,7 +22679,7 @@
   "options": [],
   "summary": "You may enhance any illusions you create as if they were actually the creatures and objects they appear to be.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/superpositioned-dual-sphere",
@@ -22698,7 +22698,7 @@
   "options": [],
   "summary": "While under the effects of the Suppression talent, you may use the Warp sphere teleporting only yourself and carried gear as a move action rather than a…",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/suppressed-spell-metamagic",
@@ -22717,7 +22717,7 @@
   "options": [],
   "summary": "This has no effect on spells or sphere abilities that rely on a suppressed sensation( s) to function, but you may always forgo the +2 bonus to the Perception…",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/surreinforcement-dual-sphere",
@@ -22736,7 +22736,7 @@
   "options": [],
   "summary": "When you create materials with the Creation sphere, they are laced with shadowstuff that grants you increased control over them.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/tactile-illusion-dual-sphere",
@@ -22755,7 +22755,7 @@
   "options": [],
   "summary": "By weaving your illusions together with a hint of telekinetic force you can allow them to exert force more appropriate to their apparent nature.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/vudu-dual-sphere",
@@ -22774,7 +22774,7 @@
   "options": [],
   "summary": "Prerequisites: Death sphere, Illusion sphere (Illusionary Touch (sensory, touch) x2, Illusionary Disguise ability).",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/wave-particle-duality-dual-sphere",
@@ -22793,7 +22793,7 @@
   "options": [],
   "summary": "Prerequisites: Illusion sphere, Light sphere.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/weird-assault-combat",
@@ -22812,7 +22812,7 @@
   "options": [],
   "summary": "Prerequisites: Illusion sphere (Decoy (glamer), Mage Feint), base attack bonus +3.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/weird-defense-combat",
@@ -22831,7 +22831,7 @@
   "options": [],
   "summary": "As a swift action, you may grant yourself a miss chance equal to 10% + 5% per 2 caster levels (maximum 95%) until the start of your next turn or until an…",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/weird-motion-combat",
@@ -22850,7 +22850,7 @@
   "options": [],
   "summary": "Prerequisites: Illusion sphere (Mage Feint), base attack bonus +3.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/emulation-expert-surreal",
@@ -22869,7 +22869,7 @@
   "options": [],
   "summary": "When using the Shadow Magic feat or create reality class feature to duplicate effects from another sphere, you may spend a shadow point to treat the effect as…",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/gather-shadowstuff-surreal",
@@ -22888,7 +22888,7 @@
   "options": [],
   "summary": "In place of spending a shadow point you may use shadowmark as a full-round action.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/greater-shadowmark-surreal",
@@ -22907,7 +22907,7 @@
   "options": [],
   "summary": "Prerequisite: Shadowmark 1d6.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/shadow-magic-surreal",
@@ -22926,7 +22926,7 @@
   "options": [],
   "summary": "You may mimic other spheres of magic by shaping shadowstuff.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/shadow-shield-surreal",
@@ -22945,7 +22945,7 @@
   "options": [],
   "summary": "You may, as a swift action, spend a shadow point to create a protective layer of shadowstuff around a creature or object within 25 feet + 5 feet per 2…",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/shadow-shield-improved-surreal",
@@ -22964,7 +22964,7 @@
   "options": [],
   "summary": "Prerequisite: Shadow Shield.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/shadowblast-surreal",
@@ -22983,7 +22983,7 @@
   "options": [],
   "summary": "When using your shadowmark, you may spend an extra shadow point to change the effect from a ranged touch attack into a close-ranged cone.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/shadowstuff-armament-surreal",
@@ -23002,7 +23002,7 @@
   "options": [],
   "summary": "As a move action or a free action with the expenditure of a shadow point, you may create and instantaneously equip a non-magical version of a weapon, piece of…",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/shadowy-slay-surreal",
@@ -23021,7 +23021,7 @@
   "options": [],
   "summary": "Any time you deal damage to a creature from an illusion source you may spend a shadow point to allow the creature to be briefly attacked through its shadow.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/surreal-strike-surreal",
@@ -23040,7 +23040,7 @@
   "options": [],
   "summary": "You gain shadowmark as the fey adept class feature, but use your character level -4 (minimum 1) as your fey adept level for the purposes of determining damage…",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/violent-shadow-surreal",
@@ -23059,7 +23059,7 @@
   "options": [],
   "summary": "You may spend a shadow point as a full-round action to make a single attack with your shadowmark.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/disappearance",
@@ -23076,7 +23076,7 @@
   "options": [],
   "summary": "You must select the Suppression talent as your bonus talent for this drawback.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/glamered-brew",
@@ -23093,7 +23093,7 @@
   "options": [],
   "summary": "You must select the Instill Glamer talent with the bonus talent granted by this drawback, and you can only use your Illusion sphere abilities through this…",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/limited-sensation",
@@ -23110,7 +23110,7 @@
   "options": [],
   "summary": "You may not take additional (sensory) talents from the Illusion sphere.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/obscura-mage",
@@ -23127,7 +23127,7 @@
   "options": [],
   "summary": "You may not create figments with your tricks and illusions.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/personal-illusion",
@@ -23144,7 +23144,7 @@
   "options": [],
   "summary": "You can only apply glamers to yourself, and the range of your figments and tricks that target an area is reduced to 0 feet; you may only target squares that…",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/theme-fixation",
@@ -23161,7 +23161,7 @@
   "options": [],
   "summary": "You may only create figments and glamers within a specific and narrow theme such as dragons, cubes, insects, cards, weapons, hands, etc.",
   "file": "illusion.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "illusion/tricksters-grudge",
@@ -23178,6 +23178,1433 @@
   "options": [],
   "summary": "When you select this drawback you must select a creature type.",
   "file": "illusion.json",
+  "approved": true
+ },
+ {
+  "id": "life/cure",
+  "name": "Cure",
+  "kind": "sphere ability",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#cure",
+  "options": [],
+  "summary": "As a standard action, you may spend a spell point to touch a target and heal it an amount of damage equal to 1d8 + your caster level.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/invigorate",
+  "name": "Invigorate",
+  "kind": "sphere ability",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#invigorate",
+  "options": [],
+  "summary": "As a standard action, you may invigorate a touched creature, granting them temporary hit points equal to your caster level (minimum 1).",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/restore",
+  "name": "Restore",
+  "kind": "sphere ability",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#restore",
+  "options": [],
+  "summary": "As a standard action, you may touch a target and spend a spell point to restore their health (Will negates (harmless)).",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/adrenaline-surge",
+  "name": "Adrenaline Surge",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Life Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#adrenaline-surge",
+  "options": [],
+  "summary": "When you use a Life sphere talent or ability on an ally other than yourself, you may spend one spell point to also give them an adrenaline surge.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/affliction",
+  "name": "Affliction",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Life Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#affliction",
+  "options": [],
+  "summary": "When using cure you may invert the effect from positive energy to negative energy.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/break-enchantment",
+  "name": "Break Enchantment",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Life Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#break-enchantment",
+  "options": [],
+  "summary": "As a special application of restore, you may spend an additional spell point to remove all magic from the target that has a duration instead of restoring mind,…",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/clarified-strike-strike",
+  "name": "Clarified Strike",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Life Talents",
+  "tags": [],
+  "talentTags": [
+   "strike"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#clarified-strike-strike",
+  "options": [],
+  "summary": "As a standard action, you may make a single ranged or melee attack coupled with a Life sphere ability.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/deeper-healing",
+  "name": "Deeper Healing",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Life Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#deeper-healing",
+  "options": [],
+  "summary": "Your invigorate grants 2 temporary hit points per caster level instead of 1.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/diagnose-utility",
+  "name": "Diagnose",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Life Talents",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#diagnose-utility",
+  "options": [],
+  "summary": "As a swift action, you can learn any conditions that are affecting a living creature (unconscious, dying, nauseated, panicked, stunned, poisoned, diseased,…",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/empathic-healing",
+  "name": "Empathic Healing",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Life Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#empathic-healing",
+  "options": [],
+  "summary": "You may restore others by taking on their injuries yourself.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/esoteric-healing",
+  "name": "Esoteric Healing",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Life Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#esoteric-healing",
+  "options": [],
+  "summary": "When you use your Life sphere abilities, you may choose for them to not be positive energy effects.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/fount-of-life",
+  "name": "Fount Of Life",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Life Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#fount-of-life",
+  "options": [],
+  "summary": "You may store a cure within yourself, allowing you to access that healing as needed throughout the day.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/greater-invigorate",
+  "name": "Greater Invigorate",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Life Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#greater-invigorate",
+  "options": [],
+  "summary": "When placing an invigorate on a target, add your casting ability modifier to the amount of temporary hit points granted, and increase the duration to 1 hour…",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/greater-restore",
+  "name": "Greater Restore",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Life Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#greater-restore",
+  "options": [],
+  "summary": "When using your restore ability, you may spend an additional spell point to select two options when using restore instead of one (such as restoring both mind…",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/instill-life-instill",
+  "name": "Instill Life",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Life Talents",
+  "tags": [],
+  "talentTags": [
+   "instill"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#instill-life-instill",
+  "options": [],
+  "summary": "As a standard action you may touch a small container of liquid and instill a cure, a restore, or an invigorate used in conjunction with the Greater Invigorate…",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/latent-healing",
+  "name": "Latent Healing",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Life Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#latent-healing",
+  "options": [],
+  "summary": "When you use cure or invigorate on a target, you may choose to delay its effects.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/lingering-resilience",
+  "name": "Lingering Resilience",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Life Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#lingering-resilience",
+  "options": [],
+  "summary": "Whenever you remove a condition completely from a creature using your restore ability, they are completely immune to that condition for 2 rounds.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/lingering-vitality",
+  "name": "Lingering Vitality",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Life Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#lingering-vitality",
+  "options": [],
+  "summary": "Whenever a creature benefiting from one of your (vitality) talents would lose its benefits due to taking damage from failing a saving throw or being hit with…",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/mass-healing-mass",
+  "name": "Mass Healing",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Life Talents",
+  "tags": [],
+  "talentTags": [
+   "mass"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#mass-healing-mass",
+  "options": [],
+  "summary": "When using a cure, invigorate, or restore, you may spend an additional spell point to affect an additional 1 creature per 2 caster levels (minimum 1) at the…",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/painkiller",
+  "name": "Painkiller",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Life Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#painkiller",
+  "options": [],
+  "summary": "Whenever you invigorate a target, they are also healed of an equal amount of nonlethal damage.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/ranged-healing-range",
+  "name": "Ranged Healing",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Life Talents",
+  "tags": [],
+  "talentTags": [
+   "range"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#ranged-healing-range",
+  "options": [],
+  "summary": "Your cure, invigorate, and restore abilities have a range of close rather than touch.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/restorative-cure",
+  "name": "Restorative Cure",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Life Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#restorative-cure",
+  "options": [],
+  "summary": "When using your cure or invigorate abilities on a target or targets, you may spend an additional spell point to restore them as well.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/resuscitate",
+  "name": "Resuscitate",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Life Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#resuscitate",
+  "options": [],
+  "summary": "Your cure and invigorate abilities function on creatures who have died within no more than 1 round.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/revitalize",
+  "name": "Revitalize",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Life Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#revitalize",
+  "options": [],
+  "summary": "You may choose for your cure to grant the target fast healing instead of directly healing damage.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/sanctify",
+  "name": "Sanctify",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Life Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#sanctify",
+  "options": [],
+  "summary": "As a special application of restore, you may cause a creature damaged by positive energy to suffer 1d2 temporary negative levels for one hour per caster level…",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/self-renewal",
+  "name": "Self-Renewal",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Life Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#self-renewal",
+  "options": [],
+  "summary": "You may spend an additional spell point to use your cure or restore ability on yourself as a swift action.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/stabilizing-invigoration",
+  "name": "Stabilizing Invigoration",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Life Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#stabilizing-invigoration",
+  "options": [],
+  "summary": "In addition to its other effects, using invigorate immediately stabilizes a dying creature, and you may immediately attempt a Heal check as a free action to…",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/sudden-invigoration",
+  "name": "Sudden Invigoration",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Life Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#sudden-invigoration",
+  "options": [],
+  "summary": "By spending a spell point, you can use invigorate as an immediate action.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/taste-of-victory",
+  "name": "Taste Of Victory",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Life Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#taste-of-victory",
+  "options": [],
+  "summary": "Whenever you successfully hit a creature with at least half as many Hit Dice as your character level with an attack that requires an attack roll, you may spend…",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/violent-recuperation",
+  "name": "Violent Recuperation",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Life Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#violent-recuperation",
+  "options": [],
+  "summary": "Whenever you would have damage dealt to you that is completely negated through damage reduction, energy resistance, or energy immunity, you may use a Life…",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/restore-capacity-cure",
+  "name": "Restore Capacity",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Cure Talents",
+  "tags": [
+   "cure"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#restore-capacity-cure",
+  "options": [],
+  "summary": "As a special application of restore, you may restore a creature’s movement and physical capacity instead of restoring mind, body, or soul.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/restore-health-cure",
+  "name": "Restore Health",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Cure Talents",
+  "tags": [
+   "cure"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#restore-health-cure",
+  "options": [],
+  "summary": "When restoring a target’s body, the exhausted and nauseated conditions are completely removed rather than lessened, and you may attempt a magic skill check…",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/restore-senses-cure",
+  "name": "Restore Senses",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Cure Talents",
+  "tags": [
+   "cure"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#restore-senses-cure",
+  "options": [],
+  "summary": "If playing with the strain rules, this talent can restore 1d4 strain damage once per day (see 'Reducing Strain Damage').",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/restore-spirit-cure",
+  "name": "Restore Spirit",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Cure Talents",
+  "tags": [
+   "cure"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#restore-spirit-cure",
+  "options": [],
+  "summary": "Your cure ability heals an additional 1 hit point per caster level.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/aggressive-vitality-vitality",
+  "name": "Aggressive Vitality",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Vitality Talents",
+  "tags": [
+   "vitality"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#aggressive-vitality-vitality",
+  "options": [],
+  "summary": "This grants the target a +2 circumstance bonus on attack and damage rolls with weapon attacks.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/calming-vitality-vitality",
+  "name": "Calming Vitality",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Vitality Talents",
+  "tags": [
+   "vitality"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#calming-vitality-vitality",
+  "options": [],
+  "summary": "This grants the target a +4 morale bonus to concentration checks.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/energizing-vitality-vitality",
+  "name": "Energizing Vitality",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Vitality Talents",
+  "tags": [
+   "vitality"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#energizing-vitality-vitality",
+  "options": [],
+  "summary": "Your Life magic makes your ally restless and full of energy, granting them a +30 feet circumstance bonus to all forms of movement.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/high-on-vitality-vitality",
+  "name": "High On Vitality",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Vitality Talents",
+  "tags": [
+   "vitality"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#high-on-vitality-vitality",
+  "options": [],
+  "summary": "Your Life magic alleviates the target’s worries, making them feel lighter.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/securing-vitality-vitality",
+  "name": "Securing Vitality",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Vitality Talents",
+  "tags": [
+   "vitality"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#securing-vitality-vitality",
+  "options": [],
+  "summary": "This grants the target a +2 circumstance bonus to CMB and CMD.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/sustaining-vitality-vitality",
+  "name": "Sustaining Vitality",
+  "kind": "talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Vitality Talents",
+  "tags": [
+   "vitality"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#sustaining-vitality-vitality",
+  "options": [],
+  "summary": "Your ally receives a +2 circumstance bonus to AC and saving throws.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/feline-good",
+  "name": "Feline Good",
+  "kind": "advanced talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Advanced Life Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#feline-good",
+  "options": [],
+  "summary": "If you spend an additional spell point, you may use this talent as an immediate action; however, the duration of a protective mark applied as part of a swift…",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/hypervitalize",
+  "name": "Hypervitalize",
+  "kind": "advanced talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Advanced Life Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#hypervitalize",
+  "options": [],
+  "summary": "When you use the Revitalize talent on a creature, you may spend 2 additional spell points to make the creature exceptionally vital on a cellular level for the…",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/make-whole",
+  "name": "Make Whole",
+  "kind": "advanced talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Advanced Life Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#make-whole",
+  "options": [],
+  "summary": "You may spend an additional spell point when restoring soul to remove one permanent negative level from the target in addition to the other effects.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/resurrection",
+  "name": "Resurrection",
+  "kind": "advanced talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Advanced Life Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#resurrection",
+  "options": [],
+  "summary": "You may spend 3 spell points and 1 minute to bring a dead target back to life.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/resurrection-greater",
+  "name": "Resurrection, Greater",
+  "kind": "advanced talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Advanced Life Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#resurrection-greater",
+  "options": [],
+  "summary": "When you bring a target back to life with your Resurrection talent, they only suffer 1 permanent negative level, they may have been dead for up to 10 years per…",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/resurrection-supreme",
+  "name": "Resurrection, Supreme",
+  "kind": "advanced talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Advanced Life Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#resurrection-supreme",
+  "options": [],
+  "summary": "When you bring a target back to life with your Resurrection talent, they suffer no permanent negative levels, in addition to having all ability score damage…",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/soul-consumption",
+  "name": "Soul Consumption",
+  "kind": "advanced talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Advanced Life Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#soul-consumption",
+  "options": [],
+  "summary": "When you use Revitalize, you may destroy a soul gem in your possession as part of creating the effect.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/transfiguration",
+  "name": "Transfiguration",
+  "kind": "advanced talent",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Advanced Life Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life#transfiguration",
+  "options": [],
+  "summary": "Prerequisites: Life sphere (Restore Health (cure)), caster level 10th.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/benevolence-dual-sphere",
+  "name": "Benevolence",
+  "kind": "feat",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Feats#benevolence-dual-sphere",
+  "options": [],
+  "summary": "Whenever an ally within range of your cure ability that is under the effects of an aegis is damaged, you may spend a spell point as an immediate action to heal…",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/catty-observer",
+  "name": "Catty Observer",
+  "kind": "feat",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Feats#catty-observer",
+  "options": [],
+  "summary": "” – Meowlin the Omnicatster Prerequisites: Life sphere (Diagnose) or Protection sphere (Status); magic skill bonus +3.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/channel-life-channeling",
+  "name": "Channel Life",
+  "kind": "feat",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Channeling"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Feats#channel-life-channeling",
+  "options": [],
+  "summary": "You may channel energy and augment it with your Life sphere abilities.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/crescendo",
+  "name": "Crescendo",
+  "kind": "feat",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Feats#crescendo",
+  "options": [],
+  "summary": "You may invigorate any target affected by your bardic performance or raging song, and you may spend a spell point to invigorate them as a swift action.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/endless-possibilities-dual-sphere",
+  "name": "Endless Possibilities",
+  "kind": "feat",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Feats#endless-possibilities-dual-sphere",
+  "options": [],
+  "summary": "Whenever you use a Life sphere ability on an ally, they receive a +1 luck bonus to all attack rolls, saving throws, skill checks and ability checks until the…",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/extended-resuscitate",
+  "name": "Extended Resuscitate",
+  "kind": "feat",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Feats#extended-resuscitate",
+  "options": [],
+  "summary": "Prerequisites: Life sphere (Resuscitate), caster level 5th.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/first-response",
+  "name": "First Response",
+  "kind": "feat",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Feats#first-response",
+  "options": [],
+  "summary": "When you use a standard action to use a Life sphere ability on an ally other than yourself, you may take 10 on any concentration checks required.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/fortified-healing",
+  "name": "Fortified Healing",
+  "kind": "feat",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Feats#fortified-healing",
+  "options": [],
+  "summary": "Whenever you use a Life sphere ability on an ally that restores hit points or grants temporary hit points, they regain 1 point of stamina for every 5 points…",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/fount-of-mercy",
+  "name": "Fount Of Mercy",
+  "kind": "feat",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Feats#fount-of-mercy",
+  "options": [],
+  "summary": "Prerequisites: Life sphere (Fount Of Life).",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/fount-of-stolen-life-dual-sphere",
+  "name": "Fount Of Stolen Life",
+  "kind": "feat",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Feats#fount-of-stolen-life-dual-sphere",
+  "options": [],
+  "summary": "As a move action, you may deal 2 Constitution burn to any amount of creatures you have established blood control with.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/healing-touch",
+  "name": "Healing Touch",
+  "kind": "feat",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Feats#healing-touch",
+  "options": [],
+  "summary": "Whenever you use your lay on hands or fervor ability to heal a creature, you may invigorate or restore the same creature as part of the same action.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/invigorating-rally-dual-sphere",
+  "name": "Invigorating Rally",
+  "kind": "feat",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Feats#invigorating-rally-dual-sphere",
+  "options": [],
+  "summary": "Whenever you rally an ally, you may also invigorate them.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/karmic-healing-chance",
+  "name": "Karmic Healing",
+  "kind": "feat",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Chance"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Feats#karmic-healing-chance",
+  "options": [],
+  "summary": "When you heal another creature’s hit points, whether using the Life sphere or another ability, you may spend a kismet point to regain an equal number of your…",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/lifebound-auspician",
+  "name": "Lifebound Auspician",
+  "kind": "feat",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Feats#lifebound-auspician",
+  "options": [],
+  "summary": "Whenever a Fate sphere effect you create would use an alignment, you may instead choose living or undead.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/purrging-transformation-dual-sphere",
+  "name": "Purrging Transformation",
+  "kind": "feat",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Feats#purrging-transformation-dual-sphere",
+  "options": [],
+  "summary": "Whenever you use the Alteration sphere shapeshift sphere ability, you may spend 1 additional spell point to affect each target of that shapeshift with a Life…",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/rain-of-renewal-dual-sphere",
+  "name": "Rain Of Renewal",
+  "kind": "feat",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Feats#rain-of-renewal-dual-sphere",
+  "options": [],
+  "summary": "When you use control weather to create or control Precipitation of severity 2 or more, you may choose to spend 1 additional spell point.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/revitalizing-grasp",
+  "name": "Revitalizing Grasp",
+  "kind": "feat",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Feats#revitalizing-grasp",
+  "options": [],
+  "summary": "Whenever you would use your lay on hands class feature, you may grant the affected creature the benefits of a single (vitality) talent you possess.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/rigorous-defense",
+  "name": "Rigorous Defense",
+  "kind": "feat",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Feats#rigorous-defense",
+  "options": [],
+  "summary": "Whenever you use inspiration, you may invigorate yourself as part of the same action.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/studied-healing",
+  "name": "Studied Healing",
+  "kind": "feat",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Feats#studied-healing",
+  "options": [],
+  "summary": "When you use your cure ability, you gain a bonus to your caster level equal to half the number of ranks you have in the Heal skill, rounded up.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/transpatial-reconstitution-dual-sphere",
+  "name": "Transpatial Reconstitution",
+  "kind": "feat",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Feats#transpatial-reconstitution-dual-sphere",
+  "options": [],
+  "summary": "When teleporting a creature, you may increase the casting time by one step or spend a spell point to target the teleported creature with a cure, invigorate, or…",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/treat-injury",
+  "name": "Treat Injury",
+  "kind": "feat",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Feats#treat-injury",
+  "options": [],
+  "summary": "Whenever you treat deadly wounds, you may use restore on the target.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/vampiric-disruption",
+  "name": "Vampiric Disruption",
+  "kind": "feat",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Feats#vampiric-disruption",
+  "options": [],
+  "summary": "Upon successfully using your Affliction talent, you may use a swift action to use a Life sphere ability on yourself.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/wellspring-of-life",
+  "name": "Wellspring Of Life",
+  "kind": "feat",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Feats#wellspring-of-life",
+  "options": [],
+  "summary": "Prerequisites: Life sphere (Fount Of Life).",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/wound-manipulator-dual-sphere",
+  "name": "Wound Manipulator",
+  "kind": "feat",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Feats#wound-manipulator-dual-sphere",
+  "options": [],
+  "summary": "When you shapeshift a creature, you may spend a spell point as a free action to allow them to regain one hit point for every Hit Die they possess.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/fueled-by-futility",
+  "name": "Fueled by Futility",
+  "kind": "drawback",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Drawbacks#fueled-by-futility",
+  "options": [],
+  "summary": "You must select Violent Recuperation with this talent.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/glorious",
+  "name": "Glorious",
+  "kind": "drawback",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Drawbacks#glorious",
+  "options": [],
+  "summary": "You gain the Taste Of Victory talent as your bonus talent for this drawback, but you can only use your Life abilities when Taste Of Victory is triggered.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/inhuman-healing",
+  "name": "Inhuman Healing",
+  "kind": "drawback",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Drawbacks#inhuman-healing",
+  "options": [],
+  "summary": "You gain Esoteric Healing with the bonus talent gained through this drawback.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/limited-restoration",
+  "name": "Limited Restoration",
+  "kind": "drawback",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Drawbacks#limited-restoration",
+  "options": [],
+  "summary": "Choose either restore or cure/invigorate.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/medicinal",
+  "name": "Medicinal",
+  "kind": "drawback",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Drawbacks#medicinal",
+  "options": [],
+  "summary": "You must select the Instill Life talent with the bonus talent granted by this drawback, and you can only use your Life sphere abilities through this talent.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/regenerate",
+  "name": "Regenerate",
+  "kind": "drawback",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Drawbacks#regenerate",
+  "options": [],
+  "summary": "You may only target yourself with your Life sphere abilities.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/slow-recovery",
+  "name": "Slow Recovery",
+  "kind": "drawback",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Drawbacks#slow-recovery",
+  "options": [],
+  "summary": "You must select the Revitalize talent with the bonus talent granted by this drawback, and cannot use cure unless you use it through the Revitalize talent.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/sympathetic",
+  "name": "Sympathetic",
+  "kind": "drawback",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Drawbacks#sympathetic",
+  "options": [],
+  "summary": "You may only restore others by taking their afflictions unto yourself.",
+  "file": "life.json",
+  "approved": false
+ },
+ {
+  "id": "life/unnatural-remedy",
+  "name": "Unnatural Remedy",
+  "kind": "drawback",
+  "sphere": "Life",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Life/Life-Sphere-Drawbacks#unnatural-remedy",
+  "options": [],
+  "summary": "Whenever you use cure, restore, or invigorate on a target (even yourself), they reflexively resist (even while unconscious), and must attempt a Will saving…",
+  "file": "life.json",
   "approved": false
  },
  {

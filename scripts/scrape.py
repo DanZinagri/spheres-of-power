@@ -2681,7 +2681,7 @@ COMPENDIUM = {
     },
     "Illusion": {
         "system": "Spheres of Power",
-        "approved": False,
+        "approved": True,
         "pages": [
             # the Illusion ability (with Illusionary Disguise) and Trick (with minor figments / glamers)
             ("Illusion", "## Illusion", "sphere ability", 2, 4),
@@ -2696,6 +2696,23 @@ COMPENDIUM = {
         ],
         # the (sensory) talent type note under Trick
         "not_options": r"^Table|^Note|^Sensory$",
+    },
+    "Life": {
+        "system": "Spheres of Power",
+        "approved": False,
+        "pages": [
+            ("Life", "## Cure", "sphere ability", 2, 4),
+            ("Life", "Invigorate", "sphere ability", 2, 4),
+            ("Life", "Restore", "sphere ability", 2, 4),
+            ("Life", "Life Talents", "talent", 4),
+            ("Life", "Cure Talents", "talent", 4),
+            ("Life", "Vitality Talents", "talent", 4),
+            ("Life", "Advanced Life Talents", "advanced talent", 4),
+            ("Life Sphere Feats", "(page)", "feat", 4),
+            ("Life Sphere Drawbacks", "(page)", "drawback", 4),
+        ],
+        # the (cure) / (vitality) talent type notes under Restore
+        "not_options": r"^Table|^Note|^Cure$|^Vitality$",
     },
     "Warleader": {
         "system": "Spheres of Might",

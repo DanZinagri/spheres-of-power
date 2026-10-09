@@ -1,7 +1,7 @@
 {
  "sphere": "Illusion",
  "system": "Spheres of Power",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "illusion/illusion",
