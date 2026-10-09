@@ -1,7 +1,7 @@
 {
  "sphere": "Light",
  "system": "Spheres of Power",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "light/glow",

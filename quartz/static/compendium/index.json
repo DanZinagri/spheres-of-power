@@ -24624,7 +24624,7 @@
   ],
   "summary": "As a standard action, you may cause an object or creature in medium range to glow for 1 minute per caster level, outlining it with light as a candle, which may…",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/lens",
@@ -24643,7 +24643,7 @@
   ],
   "summary": "A lens lasts as long as you concentrate, but you may spend a spell point to allow a lens to remain for 1 hour per caster level without concentration.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/area-glow",
@@ -24660,7 +24660,7 @@
   "options": [],
   "summary": "You may spend a spell point to create an eruption of light, causing all creatures and objects within a 10 feet + 5 feet per 5 caster levels radius centered…",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/bend-radiance",
@@ -24677,7 +24677,7 @@
   "options": [],
   "summary": "You may bend the light produced by your glows, allowing you to create spaces untouched by their light.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/black-light",
@@ -24694,7 +24694,7 @@
   "options": [],
   "summary": "As a free action you may cause any glow within your range to shed non-visible light.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/dancing-lights",
@@ -24711,7 +24711,7 @@
   "options": [],
   "summary": "You may create a glow effect without the need for a creature or object.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/doubled-nimbus",
@@ -24728,7 +24728,7 @@
   "options": [],
   "summary": "By increasing the casting time of your glow by one step or by spending a spell point you may apply two (nimbus) talents to a single glow effect, causing it to…",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/dual-light",
@@ -24745,7 +24745,7 @@
   "options": [],
   "summary": "By spending a spell point you can simultaneously apply two different (light) talents you possess to your glow.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/flare",
@@ -24762,7 +24762,7 @@
   "options": [],
   "summary": "As a swift action you can expend one of your glow effects within range of your glow ability, causing it to blaze up momentarily before dying completely, ending…",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/flash",
@@ -24779,7 +24779,7 @@
   "options": [],
   "summary": "You may choose to apply the effects of (light) talents at any point during your turn as a free action instead of only at the end of your turn.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/glory",
@@ -24796,7 +24796,7 @@
   "options": [],
   "summary": "As a free action you may cause any glow placed on yourself or an item in your possession to shed bright light in a 5-foot radius, activating the effects of…",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/instill-glow-instill",
@@ -24815,7 +24815,7 @@
   "options": [],
   "summary": "As a standard action you may touch a small container of liquid and instill a lens inside it, which functions as a potion or oil.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/intensity-control",
@@ -24832,7 +24832,7 @@
   "options": [],
   "summary": "You may add up to 10 feet from the radius of your normal and bright light, as well as the distance to which light is increased by one step, or subtract any…",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/light-link",
@@ -24849,7 +24849,7 @@
   "options": [],
   "summary": "You always know the direction and distance to any creature or object under the effect of your glow.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/lingering-glow",
@@ -24866,7 +24866,7 @@
   "options": [],
   "summary": "When you produce a glow, it lasts for 10 minutes per caster level instead of 1 minute per caster level.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/mass-lens-mass",
@@ -24885,7 +24885,7 @@
   "options": [],
   "summary": "When using a lens, you may spend an additional spell point to affect an additional 1 creature per 2 caster levels (minimum 1) with the same lens at the same…",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/ranged-light-range",
@@ -24904,7 +24904,7 @@
   "options": [],
   "summary": "You may target creatures and objects within long range rather than medium range when applying a glow or lens, and when causing a glow effect to shed normal or…",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/solar-strike-strike",
@@ -24923,7 +24923,7 @@
   "options": [],
   "summary": "As a standard action, you may make a single weapon attack in conjunction with making a target glow.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/style-utility",
@@ -24942,7 +24942,7 @@
   "options": [],
   "summary": "When you cause your glow to shed light, you may also create patterns and different colors in the light it sheds, casting intricate designs on surfaces.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/aiming-scope-lens",
@@ -24961,7 +24961,7 @@
   "options": [],
   "summary": "In addition, they gain a +1 competence bonus to all ranged attack rolls.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/chameleon-lens",
@@ -24980,7 +24980,7 @@
   "options": [],
   "summary": "You can cause light and color to shift around a target, granting it the ability to blend in with its surroundings.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/dim-light-lens",
@@ -24999,7 +24999,7 @@
   "options": [],
   "summary": "You cause a target to suffer no ill effects from light.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/halo-effect-lens-utility",
@@ -25020,7 +25020,7 @@
   "options": [],
   "summary": "You may place a lens upon a creature that subtly controls light around them.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/infravision-lens",
@@ -25039,7 +25039,7 @@
   "options": [],
   "summary": "You may slightly shift the spectrum of light, granting the target the ability to see heat.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/obscure-lens",
@@ -25058,7 +25058,7 @@
   "options": [],
   "summary": "Once per round when the target is attacked, but before the attack is rolled, they can choose to have the attacker roll twice and take the lower result.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/periscope-lens-utility",
@@ -25079,7 +25079,7 @@
   "options": [],
   "summary": "By altering the path of light you can see from unusual positions.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/rose-tinted-lens",
@@ -25098,7 +25098,7 @@
   "options": [],
   "summary": "The target’s vision is tinted a soft-red.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/beacon-of-hope-light",
@@ -25117,7 +25117,7 @@
   "options": [],
   "summary": "When you place a glow effect on a creature, you may choose to grant that creature a +1 morale bonus on saves against fear.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/blinding-light-light",
@@ -25136,7 +25136,7 @@
   "options": [],
   "summary": "When you cause a creature to glow, you may choose to make that target dazzled, giving it a -1 penalty to attack rolls and Perception checks.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/bound-light-light",
@@ -25155,7 +25155,7 @@
   "options": [],
   "summary": "You may spend a spell point to create a bright light that binds the glowing target inside a prison of light.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/disorienting-patterns-light",
@@ -25174,7 +25174,7 @@
   "options": [],
   "summary": "You may create bright light that covers an area in confusing colors and designs.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/encompassing-light-light",
@@ -25193,7 +25193,7 @@
   "options": [],
   "summary": "You may spend a spell point to create bright light that encompasses the glowing creature, allowing it to function as if it were larger than it is.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/fenestrate-light",
@@ -25212,7 +25212,7 @@
   "options": [],
   "summary": "You can create bright light that makes everything and everyone within the area of the bright light translucent enough that they can be seen through.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/flicker-light",
@@ -25231,7 +25231,7 @@
   "options": [],
   "summary": "You may create bright light that partially assimilates a glowing creature and its carried equipment, allowing them to momentarily shed their physical form.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/guiding-light-light",
@@ -25250,7 +25250,7 @@
   "options": [],
   "summary": "When you cause a creature to glow, you may choose to grant all creatures a +1 circumstance bonus to attack rolls against that target, +1 per 10 caster levels.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/hypnotic-pattern-light",
@@ -25269,7 +25269,7 @@
   "options": [],
   "summary": "You may spend a spell point when creating bright light to fascinate creatures.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/inner-sun-light",
@@ -25288,7 +25288,7 @@
   "options": [],
   "summary": "The weapon can be shaped into any melee weapon the holder is proficient with as a swift action, and initially appears as whatever weapon they choose.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/irradiance-light",
@@ -25307,7 +25307,7 @@
   "options": [],
   "summary": "When you cause a target to glow you may choose to make it sickened, giving it a -2 penalty to attack rolls, weapon damage rolls, saving throws, skill checks,…",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/lure-light-light",
@@ -25326,7 +25326,7 @@
   "options": [],
   "summary": "You may create an area of bright light that lures creatures towards it.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/precious-light",
@@ -25345,7 +25345,7 @@
   "options": [],
   "summary": "You may spend a spell point to create bright light on an object 2 or more sizes smaller than yourself, that compels those who see it to try and acquire it.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/purifying-light-light",
@@ -25364,7 +25364,7 @@
   "options": [],
   "summary": "When you cause a creature to glow, you can help eradicate toxic substances they are afflicted with, granting them a +1 circumstance bonus on all Fortitude…",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/repelling-light-light",
@@ -25383,7 +25383,7 @@
   "options": [],
   "summary": "You may spend a spell point to create light that repels unwanted creatures.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/revealing-light-light",
@@ -25402,7 +25402,7 @@
   "options": [],
   "summary": "You may spend a spell point to create bright light that reveals all invisible creatures and objects.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/revelation-light",
@@ -25421,7 +25421,7 @@
   "options": [],
   "summary": "You may place a glow on a source of written information, such as a book, to cause it to reveal any information deliberately recorded in it.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/searing-light-light",
@@ -25440,7 +25440,7 @@
   "options": [],
   "summary": "You may create bright light that burns targets in its area.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/shining-arsenal-light",
@@ -25459,7 +25459,7 @@
   "options": [],
   "summary": "You may place a glow on a manufactured weapon, a piece of armor or a shield.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/sunstroke-light",
@@ -25478,7 +25478,7 @@
   "options": [],
   "summary": "When you place a glow effect on a creature, you may choose to deal it 1d4 nonlethal fire damage per 2 caster levels (minimum 1d4).",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/visual-overload-light",
@@ -25497,7 +25497,7 @@
   "options": [],
   "summary": "When you cause a creature to glow, you may spend a spell point to overwhelm the target of the glow with visual stimulation.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/beam-nimbus",
@@ -25516,7 +25516,7 @@
   "options": [],
   "summary": "When you cause a glow effect to shed normal or bright light, you can focus this light into a cone (doubling the affected distance) or a line (quadrupling the…",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/trail-nimbus",
@@ -25535,7 +25535,7 @@
   "options": [],
   "summary": "When causing a glow effect to shed normal or bright light, as a free action you may cause it to trail light behind it rather than radiate light normally.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/weird-radiance-nimbus",
@@ -25554,7 +25554,7 @@
   "options": [],
   "summary": "When causing a glow effect to shed normal light or bright light, you may shape this light into strange shapes as a free action.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/daylight-light",
@@ -25573,7 +25573,7 @@
   "options": [],
   "summary": "When causing an object to shed bright light, you may spend 2 additional spell points to cause the object to shed bright light for a 2 mile radius and normal…",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/diffuse-body",
@@ -25590,7 +25590,7 @@
   "options": [],
   "summary": "When a creature under the effects of your Flicker takes a move action, they may choose to move in two separate directions and end their move in two different…",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/everglow",
@@ -25607,7 +25607,7 @@
   "options": [],
   "summary": "By spending a spell point you can make a glow permanent, so long as it is not placed on an unwilling target.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/incarnate-glow",
@@ -25624,7 +25624,7 @@
   "options": [],
   "summary": "When using the Flicker (light) talent, you can spend two spell points to more completely assimilate the target, turning them into a form composed of pure light.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/light-speed",
@@ -25641,7 +25641,7 @@
   "options": [],
   "summary": "Whenever the target takes a move, run, withdraw or 5-foot step action, as long as they move in a straight line and there are no factors that block normal sight…",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/prismatic-radiance-light",
@@ -25660,7 +25660,7 @@
   "options": [],
   "summary": "Prerequisites: Light sphere (Searing Light (light), Style), caster level 15th.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/radiation-light",
@@ -25679,7 +25679,7 @@
   "options": [],
   "summary": "When you spend a spell point to create bright light with the Irradiance talent, you may spend an additional spell point to create higher energy radiation.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/star-genesis",
@@ -25696,7 +25696,7 @@
   "options": [],
   "summary": "When you use the Intensity Control talent you may spend a spell point to increase the radius of your normal and bright light (as well as the distance at which…",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/afterglow",
@@ -25713,7 +25713,7 @@
   "options": [],
   "summary": "When you affect a creature with a positive energy ability (such as with channel energy, fervor, lay on hands, or most Life sphere abilities), you may cause…",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/aurora-dual-sphere",
@@ -25732,7 +25732,7 @@
   "options": [],
   "summary": "When you use control weather, you may also choose to increase the light level by one step in the same area, up to a maximum of normal light.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/beam-propulsion-dual-sphere",
@@ -25751,7 +25751,7 @@
   "options": [],
   "summary": "By amplifying and focusing the tiny pressure exerted by light with your powers of telekinesis, you can move a target with the force of light alone.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/bioluminescent-transformation-dual-sphere",
@@ -25770,7 +25770,7 @@
   "options": [],
   "summary": "When you shapeshift a target, you may also cause that target to glow.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/constellation",
@@ -25787,7 +25787,7 @@
   "options": [],
   "summary": "By spending a spell point when you create a glow effect, you may cause it to take the form of a number of motes equal to your caster level.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/coronal-shroud-dual-sphere",
@@ -25806,7 +25806,7 @@
   "options": [],
   "summary": "When you spend a spell point to cause a creature to glow with bright light, you may either choose to have them count as under the effect of your mantle as long…",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/crimson-flash",
@@ -25823,7 +25823,7 @@
   "options": [],
   "summary": "During combat, as a swift action, you may spend a spell point to expel a blast of light seen only by one ally that can see you who has not yet acted in combat.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/defiant-radiance",
@@ -25840,7 +25840,7 @@
   "options": [],
   "summary": "Double this bonus when attempting an opposed magic skill check against magical darkness effects.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/destructive-radiance-dual-sphere",
@@ -25859,7 +25859,7 @@
   "options": [],
   "summary": "Whenever you use your destructive blast, you can choose to have it take on the properties of light.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/ensouled-illuminations",
@@ -25876,7 +25876,7 @@
   "options": [],
   "summary": "As a free action, you may choose to have any number of your souls shed light as a torch, shedding normal light to 20 feet and increasing the light level by one…",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/flash-warp-dual-sphere",
@@ -25895,7 +25895,7 @@
   "options": [],
   "summary": "You can disappear or appear in a flash of brilliant light.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/hard-light-dual-sphere",
@@ -25914,7 +25914,7 @@
   "options": [],
   "summary": "When you create an object, you may make it out of hardened light instead of matter.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/illuminated-vigilance-dual-sphere",
@@ -25933,7 +25933,7 @@
   "options": [],
   "summary": "While an ally is within 30 feet of any object that you have caused to glow, you may rally them.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/illustrious-light-dual-sphere",
@@ -25952,7 +25952,7 @@
   "options": [],
   "summary": "Whenever you create a figment or glamer you may, as part of the same action, affect the figment or the creature or object subject to the glamer with your glow.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/lightshow",
@@ -25969,7 +25969,7 @@
   "options": [],
   "summary": "When you activate a bardic performance, you may cause one ally affected by that performance to glow as part of the same beginning action.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/luminous-aegis-dual-sphere",
@@ -25988,7 +25988,7 @@
   "options": [],
   "summary": "As a swift action, you may make an ally glow if they are bearing an aegis you created.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/luminous-flame-dual-sphere",
@@ -26007,7 +26007,7 @@
   "options": [],
   "summary": "Whenever you use the Create Fire or Alter Fire geomancing ability, you may also cause the fire to glow.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/night-sky-dual-sphere",
@@ -26026,7 +26026,7 @@
   "options": [],
   "summary": "You gain the following abilities based on the Dark sphere and Light sphere talents you possess: - Dusk / Dawn: Whenever you grant a lens to a creature, you may…",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/photosynthesis",
@@ -26043,7 +26043,7 @@
   "options": [],
   "summary": "If you are in an area of bright light, you can regain hit points equal to your character level as a move action.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/searing-brilliance",
@@ -26060,7 +26060,7 @@
   "options": [],
   "summary": "Prerequisites: Light sphere (Searing Light (light)), caster level 5th.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/seraphic-glow",
@@ -26077,7 +26077,7 @@
   "options": [],
   "summary": "Prerequisites: Light sphere, good alignment.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/sense-light",
@@ -26094,7 +26094,7 @@
   "options": [],
   "summary": "Prerequisites: Perception 5 ranks, Light sphere.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/shining-stars",
@@ -26111,7 +26111,7 @@
   "options": [],
   "summary": "You may apply the effects of your Glory talent to glow effects you create as Dancing Lights as if they were placed on yourself, though you may still only apply…",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/sunlight-strike-combat",
@@ -26130,7 +26130,7 @@
   "options": [],
   "summary": "Whenever you successfully hit an enemy that is vulnerable to light (such as by the light blindness, light sensitivity, or sunlight powerlessness universal…",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/twilight-adept-teamwork",
@@ -26149,7 +26149,7 @@
   "options": [],
   "summary": "You may choose to have your Dark and Light sphere talents or abilities interact normally if you wish.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/wave-particle-duality-dual-sphere",
@@ -26168,7 +26168,7 @@
   "options": [],
   "summary": "Prerequisites: Illusion sphere, Light sphere.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/flexible-lens",
@@ -26185,7 +26185,7 @@
   "options": [],
   "summary": "You must choose a (lens) talent with the bonus talent gained from this drawback.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/glowing-brew",
@@ -26202,7 +26202,7 @@
   "options": [],
   "summary": "You must select the Instill Glow talent with the bonus talent granted by this drawback, and you can only use your Light sphere abilities through this talent.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/lens-focus",
@@ -26219,7 +26219,7 @@
   "options": [],
   "summary": "You cannot create glow effects.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/light-focus",
@@ -26236,7 +26236,7 @@
   "options": [],
   "summary": "You cannot create lenses.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/nimbus-focus",
@@ -26253,7 +26253,7 @@
   "options": [],
   "summary": "You may only cause your glows to shed light in a specific shape.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/roving-glow",
@@ -26270,7 +26270,7 @@
   "options": [],
   "summary": "You must select the Dancing Lights talent with the bonus talent gained from this drawback.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/subtle-light",
@@ -26287,7 +26287,7 @@
   "options": [],
   "summary": "You must select the Black Light talent as the bonus talent gained from this drawback, and must use this talent on every glow you create.",
   "file": "light.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "light/touch-of-light",
@@ -26304,6 +26304,1756 @@
   "options": [],
   "summary": "You cannot take Ranged Light, and you may only apply Solar Strike to melee attacks.",
   "file": "light.json",
+  "approved": true
+ },
+ {
+  "id": "mana/expunge",
+  "name": "Expunge",
+  "kind": "sphere ability",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#expunge",
+  "options": [
+   "Spellburn"
+  ],
+  "summary": "As a standard action, you may expunge the energy from a creature within close range, applying the effects of a single (expunge) talent that you possess upon…",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/manabond",
+  "name": "Manabond",
+  "kind": "sphere ability",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#manabond",
+  "options": [
+   "Mystical Bond"
+  ],
+  "summary": "You can create a manabond between yourself and the targeted creature as either a swift action made as part of successfully using an (expunge) or (manipulation)…",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/manipulationamp",
+  "name": "Manipulation/Amp",
+  "kind": "sphere ability",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#manipulationamp",
+  "options": [
+   "Shuffle"
+  ],
+  "summary": "As a standard action, you may use any (manipulation) that you possess, up to a range of close.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/defensive-bond",
+  "name": "Defensive Bond",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Mana Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#defensive-bond",
+  "options": [],
+  "summary": "Whenever you are the target of a magical sphere effect or supernatural effect, you may spend a spell point as an immediate action to create a manabond between…",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/draining-spellburn",
+  "name": "Draining Spellburn",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Mana Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#draining-spellburn",
+  "options": [],
+  "summary": "When using the Spellburn expunge, you may cause the initial spell point damage to be treated as if the caster had spent them normally (using your caster level…",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/enlarged-shuffle",
+  "name": "Enlarged Shuffle",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Mana Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#enlarged-shuffle",
+  "options": [],
+  "summary": "You may spend an additional spell point as part of using Shuffle to increase its radius to a close-range radius.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/explosive-expunge",
+  "name": "Explosive Expunge",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Mana Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#explosive-expunge",
+  "options": [],
+  "summary": "When using expunge, you may spend an additional 2 spell points to instead affect a 10-foot radius burst, increasing by 5 feet for every 5 caster levels you…",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/flexible-shuffle",
+  "name": "Flexible Shuffle",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Mana Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#flexible-shuffle",
+  "options": [],
+  "summary": "When using Shuffle, you may instead shape the shuffle in the form of contiguous 5-foot squares, up to a maximum of 3 squares + 1 square per 2 caster levels.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/hardened-bond",
+  "name": "Hardened Bond",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Mana Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#hardened-bond",
+  "options": [],
+  "summary": "When creating a manabond, you may spend a spell point to allow your manabond to manifest as a physical cord connecting yourself and the target creature,…",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/heavy-expunge",
+  "name": "Heavy Expunge",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Mana Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#heavy-expunge",
+  "options": [],
+  "summary": "Whenever a creature fails their saving throw against your expunge or you succeed a magic skill check against a target using expunge, you can spend an…",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/magical-conduit-mass",
+  "name": "Magical Conduit",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Mana Talents",
+  "tags": [],
+  "talentTags": [
+   "mass"
+  ],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#magical-conduit-mass",
+  "options": [],
+  "summary": "You can create a manabond as a free action as part of casting another Mana sphere ability, creating multiple manabonds if the ability affects multiple…",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/manasurge-strike-strike",
+  "name": "Manasurge Strike",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Mana Talents",
+  "tags": [],
+  "talentTags": [
+   "strike"
+  ],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#manasurge-strike-strike",
+  "options": [],
+  "summary": "As a standard action, you can make one ranged or melee attack using a weapon in conjunction with using an (expunge) or (manipulation) talent.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/manavore",
+  "name": "Manavore",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Mana Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#manavore",
+  "options": [],
+  "summary": "Whenever you would gain spell points (whether temporary or not) from any effect, you can instead choose to consume the spell points, fueling your vitality.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/overpowering-expunge",
+  "name": "Overpowering Expunge",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Mana Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#overpowering-expunge",
+  "options": [],
+  "summary": "You may either increase the casting time of your expunge by one step (normally from a standard to a full-round action) or spend an additional spell point in…",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/ranged-mana-range",
+  "name": "Ranged Mana",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Mana Talents",
+  "tags": [],
+  "talentTags": [
+   "range"
+  ],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#ranged-mana-range",
+  "options": [],
+  "summary": "You can take this talent a second time, increasing the range from medium to long.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/retained-imbuement",
+  "name": "Retained Imbuement",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Mana Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#retained-imbuement",
+  "options": [],
+  "summary": "Temporary spell points you grant from any Mana sphere effect last for 1 minute per caster level rather than 1 round per caster level.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/sudden-empowermentweakening",
+  "name": "Sudden Empowerment/Weakening",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Mana Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#sudden-empowermentweakening",
+  "options": [],
+  "summary": "Whenever the recipient of the Mystical Bond (manabond) would cast an instantaneous sphere effect, as a free action that can be taken outside your turn, you may…",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/swap-bond",
+  "name": "Swap Bond",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Mana Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#swap-bond",
+  "options": [],
+  "summary": "As part of concentrating on your manabonds, you may choose to instead reform that manabond, swapping the (manabond) talent it was created with to any other you…",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/disorient-expunge",
+  "name": "Disorient",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Expunge Talents",
+  "tags": [
+   "Expunge"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#disorient-expunge",
+  "options": [],
+  "summary": "You may damage the target's control over their magic.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/ignition-expunge",
+  "name": "Ignition",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Expunge Talents",
+  "tags": [
+   "Expunge"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#ignition-expunge",
+  "options": [],
+  "summary": "You may spend a spell point and make a ranged touch attack against a target within range, causing their magical essence to be set ablaze.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/mark-of-instability-expunge",
+  "name": "Mark Of Instability",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Expunge Talents",
+  "tags": [
+   "Expunge"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#mark-of-instability-expunge",
+  "options": [],
+  "summary": "You may spend a spell point to have the target become separated from their magic.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/mark-of-lifeburn-expunge",
+  "name": "Mark Of Lifeburn",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Expunge Talents",
+  "tags": [
+   "Expunge"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#mark-of-lifeburn-expunge",
+  "options": [],
+  "summary": "You may spend a spell point to have the target's magical reservoir become dangerous to tap into unless they succeed at a Fortitude saving throw.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/melt-power-expunge",
+  "name": "Melt Power",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Expunge Talents",
+  "tags": [
+   "expunge"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#melt-power-expunge",
+  "options": [],
+  "summary": "You can destabilize a spherecaster’s magic, rather than burn it away.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/oversaturation-surge-expunge",
+  "name": "Oversaturation Surge",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Expunge Talents",
+  "tags": [
+   "expunge"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#oversaturation-surge-expunge",
+  "options": [],
+  "summary": "Alternatively, you may spend a spell point to destabilize a creature’s heightened power unless they succeed at a Fortitude save.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/control-resistance-manabond",
+  "name": "Control Resistance",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Manabond Talents",
+  "tags": [
+   "Manabond"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#control-resistance-manabond",
+  "options": [],
+  "summary": "If the recipient of this manabond has spell resistance, you can raise it up to 11 + your caster level.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/empowering-manabond",
+  "name": "Empowering",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Manabond Talents",
+  "tags": [
+   "Manabond"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#empowering-manabond",
+  "options": [],
+  "summary": "You can use an (amp) on a willing recipient of your manabond as part of the action used to concentrate on your manabond each round.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/flow-manabond",
+  "name": "Flow",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Manabond Talents",
+  "tags": [
+   "Manabond"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#flow-manabond",
+  "options": [],
+  "summary": "As a manabond, you can create a magical stream between yourself and the recipient.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/focusing-manabond",
+  "name": "Focusing",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Manabond Talents",
+  "tags": [
+   "Manabond"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#focusing-manabond",
+  "options": [],
+  "summary": "Whenever your recipient attempts a saving throw against one of your supernatural effects or magic sphere effects, the DC of that saving throw increases by 2.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/magical-misdirection-manabond",
+  "name": "Magical Misdirection",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Manabond Talents",
+  "tags": [
+   "Manabond"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#magical-misdirection-manabond",
+  "options": [],
+  "summary": "Any time you or the recipient is targeted by a single-targeted sphere effect that is harmless or requires a Fortitude or Will saving throw, you may redirect…",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/manabond-channeling-manabond",
+  "name": "Manabond Channeling",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Manabond Talents",
+  "tags": [
+   "Manabond"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#manabond-channeling-manabond",
+  "options": [],
+  "summary": "As a manabond, you may create a magical conduit between yourself and the recipient.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/soulmate-manabond",
+  "name": "Soulmate",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Manabond Talents",
+  "tags": [
+   "Manabond"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#soulmate-manabond",
+  "options": [],
+  "summary": "As a manabond, you can create a warm bond between yourself and a willing creature.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/vortex-manabond",
+  "name": "Vortex",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Manabond Talents",
+  "tags": [
+   "Manabond"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#vortex-manabond",
+  "options": [],
+  "summary": "You manifest a manabond that creates a void of magical energy within the host, forcing all magic from the recipient in their direction.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/arcanodynamics-manipulation-amp",
+  "name": "Arcanodynamics",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Manipulation Talents",
+  "tags": [
+   "Manipulation",
+   "Amp"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#arcanodynamics-manipulation-amp",
+  "options": [],
+  "summary": "By stretching and reshaping magic, you can reconfigure how magical effects take shape.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/bulwark-manipulation",
+  "name": "Bulwark",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Manipulation Talents",
+  "tags": [
+   "Manipulation"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#bulwark-manipulation",
+  "options": [],
+  "summary": "You can manipulate magic into a magical or physical barrier by spending a spell point.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/elemental-enhancement-manipulation-amp",
+  "name": "Elemental Enhancement",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Manipulation Talents",
+  "tags": [
+   "Manipulation",
+   "Amp"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#elemental-enhancement-manipulation-amp",
+  "options": [],
+  "summary": "- Acrid Spell (amp): You may amplify a sphere effect that deals acid damage.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/energy-modification-manipulation-amp",
+  "name": "Energy Modification",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Manipulation Talents",
+  "tags": [
+   "Manipulation",
+   "Amp"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#energy-modification-manipulation-amp",
+  "options": [],
+  "summary": "You can alter the energy of your magic directly into other forms.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/essentialize-manipulation",
+  "name": "Essentialize",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Manipulation Talents",
+  "tags": [
+   "Manipulation"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#essentialize-manipulation",
+  "options": [],
+  "summary": "You may manipulate a target within range that is under the effects of a harmless sphere effect, causing the effect to end.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/gift-of-knowledge-manipulation",
+  "name": "Gift Of Knowledge",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Manipulation Talents",
+  "tags": [
+   "Manipulation"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#gift-of-knowledge-manipulation",
+  "options": [],
+  "summary": "You may manipulate your magical essence, granting a target access to your own magical knowledge by spending a spell point.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/heightened-magic-manipulation-amp",
+  "name": "Heightened Magic",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Manipulation Talents",
+  "tags": [
+   "Manipulation",
+   "Amp"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#heightened-magic-manipulation-amp",
+  "options": [],
+  "summary": "You can push your magical talents to new levels of power.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/imbued-vessel-manipulation",
+  "name": "Imbued Vessel",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Manipulation Talents",
+  "tags": [
+   "Manipulation"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#imbued-vessel-manipulation",
+  "options": [],
+  "summary": "You may manipulate your own well of magic and transfer your capacity partially into a targeted creature.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/initiates-training-manipulation-amp",
+  "name": "Initiate’s Training",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Manipulation Talents",
+  "tags": [
+   "Manipulation",
+   "Amp"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#initiates-training-manipulation-amp",
+  "options": [],
+  "summary": "- Apprentice’s Spell (amp): You can spend a spell point to allow a spherecaster to ignore one general drawback they possess when creating their next sphere…",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/intelligent-interactions-manipulation-amp",
+  "name": "Intelligent Interactions",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Manipulation Talents",
+  "tags": [
+   "Manipulation",
+   "Amp"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#intelligent-interactions-manipulation-amp",
+  "options": [],
+  "summary": "You can infuse your magic with a sense of intelligence, allowing it to react in special ways.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/power-dynamics-manipulation-amp",
+  "name": "Power Dynamics",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Manipulation Talents",
+  "tags": [
+   "Manipulation",
+   "Amp"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#power-dynamics-manipulation-amp",
+  "options": [],
+  "summary": "You can alter the intensity of magic.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/relinquish-magic-manipulation",
+  "name": "Relinquish Magic",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Manipulation Talents",
+  "tags": [
+   "Manipulation"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#relinquish-magic-manipulation",
+  "options": [],
+  "summary": "As a swift action, you can manipulate the magic of a harmless sphere effect with a non-instantaneous duration that only affects you, granting any amount of…",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/spell-mastery-manipulation-amp",
+  "name": "Spell Mastery",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Manipulation Talents",
+  "tags": [
+   "Manipulation",
+   "Amp"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#spell-mastery-manipulation-amp",
+  "options": [],
+  "summary": "You can empower and bolster your magic as you create it.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/transfer-manipulation",
+  "name": "Transfer",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Manipulation Talents",
+  "tags": [
+   "Manipulation"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#transfer-manipulation",
+  "options": [],
+  "summary": "You can spend a spell point to bestow your magical potential to a creature other than yourself, granting the target 2 temporary spell points, plus 1 for every…",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/visual-dynamics-manipulation-amp",
+  "name": "Visual Dynamics",
+  "kind": "talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Manipulation Talents",
+  "tags": [
+   "Manipulation",
+   "Amp"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#visual-dynamics-manipulation-amp",
+  "options": [],
+  "summary": "You can manipulate how easy it is to witness your magic.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/archmagis-methods-manipulation-amp",
+  "name": "Archmagi’s Methods",
+  "kind": "advanced talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Advanced Mana Talents",
+  "tags": [
+   "Manipulation",
+   "Amp"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#archmagis-methods-manipulation-amp",
+  "options": [],
+  "summary": "- Rushed Spell (amp): You may only use this amplification on yourself.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/boosted-shuffle-manipulation-amp",
+  "name": "Boosted Shuffle",
+  "kind": "advanced talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Advanced Mana Talents",
+  "tags": [
+   "Manipulation",
+   "Amp"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#boosted-shuffle-manipulation-amp",
+  "options": [],
+  "summary": "You gain the following (amp): Shuffled Spell (amp): You may spend a spell point to amplify any sphere effect.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/conquer-manipulation",
+  "name": "Conquer",
+  "kind": "advanced talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Advanced Mana Talents",
+  "tags": [
+   "Manipulation"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#conquer-manipulation",
+  "options": [],
+  "summary": "As a full-round action, you may spend two spell points and attempt to control an opponent within range of your manipulate.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/cruel-king",
+  "name": "Cruel King",
+  "kind": "advanced talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Advanced Mana Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#cruel-king",
+  "options": [],
+  "summary": "When using the Vassalize advanced talent, you may target creatures that do not normally possess a spell pool.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/curse-of-mana-curse",
+  "name": "Curse Of Mana",
+  "kind": "advanced talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Advanced Mana Talents",
+  "tags": [],
+  "talentTags": [
+   "curse"
+  ],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#curse-of-mana-curse",
+  "options": [],
+  "summary": "When you use a ‘Mark’ expunge talent, you can spend an additional 3 spell points to have the effect's duration be increased to permanent.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/eternal-shackles",
+  "name": "Eternal Shackles",
+  "kind": "advanced talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Advanced Mana Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#eternal-shackles",
+  "options": [],
+  "summary": "If a creature is beyond close range for your manabond, they may only attempt a magic skill check against your MSD to end the manabond once per day rather than…",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/flexible-knowledge-manipulation",
+  "name": "Flexible Knowledge",
+  "kind": "advanced talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Advanced Mana Talents",
+  "tags": [
+   "Manipulation"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#flexible-knowledge-manipulation",
+  "options": [],
+  "summary": "When using the Gift Of Knowledge manipulation, you may grant up to 2 magic talents you know, + 1 per 5 caster levels you possess, rather than just one.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/forced-conversion-expunge",
+  "name": "Forced Conversion",
+  "kind": "advanced talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Advanced Mana Talents",
+  "tags": [
+   "Expunge"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#forced-conversion-expunge",
+  "options": [],
+  "summary": "This damage cannot be healed by any means except rest (a full night’s rest heals all damage caused by this ability), and automatically bypasses any temporary…",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/great-amplification",
+  "name": "Great Amplification",
+  "kind": "advanced talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Advanced Mana Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#great-amplification",
+  "options": [],
+  "summary": "You can merge the power of two amplifications together.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/harness-ambient-knowledge",
+  "name": "Harness Ambient Knowledge",
+  "kind": "advanced talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Advanced Mana Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#harness-ambient-knowledge",
+  "options": [],
+  "summary": "Prerequisites: Mana sphere (Gift Of Knowledge (manipulation)), Counterspell, caster level 5th, magic skill bonus +5.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/infinite-bond",
+  "name": "Infinite Bond",
+  "kind": "advanced talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Advanced Mana Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#infinite-bond",
+  "options": [],
+  "summary": "Prerequisites: Mana sphere (Ranged Mana [range] x2), caster level 10th.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/intrinsic-shuffle",
+  "name": "Intrinsic Shuffle",
+  "kind": "advanced talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Advanced Mana Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#intrinsic-shuffle",
+  "options": [],
+  "summary": "You can finely alter the very essences of your magic.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/knowledge-drain",
+  "name": "Knowledge Drain",
+  "kind": "advanced talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Advanced Mana Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#knowledge-drain",
+  "options": [],
+  "summary": "Whenever you successfully drain spell points from a target using Manathief, they must attempt an additional Will saving throw with a penalty equal to the…",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/laws-of-absolute-power",
+  "name": "Laws Of Absolute Power",
+  "kind": "advanced talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Advanced Mana Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#laws-of-absolute-power",
+  "options": [],
+  "summary": "Prerequisites: Mana sphere (Enlarged Shuffle, Flexible Shuffle), caster level 20th.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/limited-manifestation",
+  "name": "Limited Manifestation",
+  "kind": "advanced talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Advanced Mana Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#limited-manifestation",
+  "options": [],
+  "summary": "You may manifest magic once per day by spending 3 spell points.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/manathief-expunge",
+  "name": "Manathief",
+  "kind": "advanced talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Advanced Mana Talents",
+  "tags": [
+   "Expunge"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#manathief-expunge",
+  "options": [],
+  "summary": "You may attempt to drain the target’s spell points rather than damage it, but doing so limits your destructive potential.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/manifestation",
+  "name": "Manifestation",
+  "kind": "advanced talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Advanced Mana Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#manifestation",
+  "options": [],
+  "summary": "When you manifest magic, you may choose one of the following effects in place of the normal options of Limited Manifestation: - Create any single sphere effect…",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/mark-of-incompetency-expunge",
+  "name": "Mark Of Incompetency",
+  "kind": "advanced talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Advanced Mana Talents",
+  "tags": [
+   "Expunge"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#mark-of-incompetency-expunge",
+  "options": [],
+  "summary": "You may spend a spell point to limit the target's magical potency for 24 hours unless they succeed at a Will saving throw.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/permanent-bond",
+  "name": "Permanent Bond",
+  "kind": "advanced talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Advanced Mana Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#permanent-bond",
+  "options": [],
+  "summary": "When you create a manabond, you can spend 3 spell points to increase the duration to permanent.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/reactive-shuffle",
+  "name": "Reactive Shuffle",
+  "kind": "advanced talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Advanced Mana Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#reactive-shuffle",
+  "options": [],
+  "summary": "You may use the shuffle ability as an immediate action by spending 2 additional spell points.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/runic-magic-manipulation-amp",
+  "name": "Runic Magic",
+  "kind": "advanced talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Advanced Mana Talents",
+  "tags": [
+   "Manipulation",
+   "Amp"
+  ],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#runic-magic-manipulation-amp",
+  "options": [],
+  "summary": "You can modify magic in such a way that it understands language, and becomes more like a pact.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/ties-that-bind",
+  "name": "Ties That Bind",
+  "kind": "advanced talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Advanced Mana Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#ties-that-bind",
+  "options": [],
+  "summary": "Prerequisite: Mana sphere (Infinite Bond (advanced), Magical Conduit, Ranged Mana x2), caster level 10th.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/unbind-spell",
+  "name": "Unbind Spell",
+  "kind": "advanced talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Advanced Mana Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#unbind-spell",
+  "options": [],
+  "summary": "By spending an additional spell point, you may use Essentialize as an immediate action on a sphere effect as it is being cast with a -5 penalty to the attempt.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/vassalize",
+  "name": "Vassalize",
+  "kind": "advanced talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Advanced Mana Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#vassalize",
+  "options": [],
+  "summary": "Whenever you cast a sphere effect while you have the Flow manabond active, you can attempt to utilize the recipient’s spell pool to cast your own magic.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/whats-yours-is-ours",
+  "name": "What’s Yours Is Ours",
+  "kind": "advanced talent",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Advanced Mana Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "The Initiate's Handbook",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana#whats-yours-is-ours",
+  "options": [],
+  "summary": "When you create a manabond using the Soulmate talent, whenever the recipient of this manabond benefits from magical healing, a consumable item (such as a…",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/analyze-caster-dual-sphere",
+  "name": "Analyze Caster",
+  "kind": "feat",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana-Sphere-Feats#analyze-caster-dual-sphere",
+  "options": [],
+  "summary": "Additionally, you gain a +5 bonus to your Spellcraft check when determining a creature’s casting tradition this way.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/bonds-of-blood-and-power-dual-sphere",
+  "name": "Bonds Of Blood And Power",
+  "kind": "feat",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana-Sphere-Feats#bonds-of-blood-and-power-dual-sphere",
+  "options": [],
+  "summary": "You may spend 1 additional spell point as a swift action, or as a free action if you possess Magical Conduit, to create a manabond as part of establishing…",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/consecrated-affinity-dual-sphere",
+  "name": "Consecrated Affinity",
+  "kind": "feat",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana-Sphere-Feats#consecrated-affinity-dual-sphere",
+  "options": [],
+  "summary": "As a free action that can be taken outside of your turn when you have a consecration active, you may create a manabond with any willing creature within the…",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/deep-spellburn",
+  "name": "Deep Spellburn",
+  "kind": "feat",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana-Sphere-Feats#deep-spellburn",
+  "options": [],
+  "summary": "You can spend an additional spell point when using Spellburn to increase the initial spell point damage by 1d4, and the spell point damage for being…",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/favorite-boost",
+  "name": "Favorite Boost",
+  "kind": "feat",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana-Sphere-Feats#favorite-boost",
+  "options": [],
+  "summary": "Select a single (amp) effect you are capable of using; whenever you utilize this (amp), you reduce the spell point cost of utilizing it by 1 (minimum 0).",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/forged-arcana",
+  "name": "Forged Arcana",
+  "kind": "feat",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana-Sphere-Feats#forged-arcana",
+  "options": [],
+  "summary": "Choose either expunge, manipulate or manabond.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/homeguard-magic-dual-sphere",
+  "name": "Homeguard Magic",
+  "kind": "feat",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana-Sphere-Feats#homeguard-magic-dual-sphere",
+  "options": [],
+  "summary": "Whenever you create a ward, you may also use your shuffle inside that ward’s area of effect.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/locked-bond-dual-sphere",
+  "name": "Locked Bond",
+  "kind": "feat",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana-Sphere-Feats#locked-bond-dual-sphere",
+  "options": [],
+  "summary": "When creating any manabond, you may spend an additional spell point to lock the dimensional properties of the bond.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/magical-blending",
+  "name": "Magical Blending",
+  "kind": "feat",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana-Sphere-Feats#magical-blending",
+  "options": [],
+  "summary": "- Afterburn (amp) (Destruction): You may amplify an instantaneous sphere effect that deals acid or fire damage.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/manabond-versatility-dual-sphere",
+  "name": "Manabond Versatility",
+  "kind": "feat",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana-Sphere-Feats#manabond-versatility-dual-sphere",
+  "options": [],
+  "summary": "Choose a magic sphere other than the Mana sphere that you possess.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/mark-of-magical-ineptitude",
+  "name": "Mark Of Magical Ineptitude",
+  "kind": "feat",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana-Sphere-Feats#mark-of-magical-ineptitude",
+  "options": [],
+  "summary": "Whenever you use your Mark Of Instability talent, your target may not cast any magic based off their spherecasting as well as being prohibited from spending…",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/mind-joggle",
+  "name": "Mind Joggle",
+  "kind": "feat",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana-Sphere-Feats#mind-joggle",
+  "options": [],
+  "summary": "When you use a Mana sphere ability that normally deals spell point damage to a target that has martial focus, you can forego the spell point damage to instead…",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/reprogram-power",
+  "name": "Reprogram Power",
+  "kind": "feat",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana-Sphere-Feats#reprogram-power",
+  "options": [],
+  "summary": "Prerequisites: Mana sphere, Enhancement sphere, magic skill bonus +3.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/rhythmic-chaos-wild-magic",
+  "name": "Rhythmic Chaos",
+  "kind": "feat",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Wild Magic"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana-Sphere-Feats#rhythmic-chaos-wild-magic",
+  "options": [],
+  "summary": "Whenever you use an (expunge) talent on a creature that can use spells or sphere effects, you can spend an additional spell point to destabilize their magic,…",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/shuffling-array",
+  "name": "Shuffling Array",
+  "kind": "feat",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana-Sphere-Feats#shuffling-array",
+  "options": [],
+  "summary": "You can apply your knowledge of other spheres to bend the rules of magic in even more ways.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/spellshock-admixture-admixture",
+  "name": "Spellshock Admixture",
+  "kind": "feat",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Admixture"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana-Sphere-Feats#spellshock-admixture-admixture",
+  "options": [],
+  "summary": "When using Admixture, you may spend an additional spell point to affect one target damaged by the blast with an (expunge) ability .",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/tainted-manabond",
+  "name": "Tainted Manabond",
+  "kind": "feat",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana-Sphere-Feats#tainted-manabond",
+  "options": [],
+  "summary": "You may create a tainted manabond as a manabond.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/tethered-mana",
+  "name": "Tethered Mana",
+  "kind": "feat",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana-Sphere-Feats#tethered-mana",
+  "options": [],
+  "summary": "You may spend a standard action to create a Hardened Bond on any creature (unwilling ones may attempt a Reflex save against your Mana sphere DC), object, or…",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/tides-of-war-dual-sphere",
+  "name": "Tides Of War",
+  "kind": "feat",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana-Sphere-Feats#tides-of-war-dual-sphere",
+  "options": [],
+  "summary": "You may create a manabond as part of using a rally with the target of your rally, or as part of creating a mandate on one or both creatures.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/universal-bonding",
+  "name": "Universal Bonding",
+  "kind": "feat",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana-Sphere-Feats#universal-bonding",
+  "options": [],
+  "summary": "Through use of specialized magic, you can enhance all of your manabonds.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/conservationist",
+  "name": "Conservationist",
+  "kind": "drawback",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana-Sphere-Drawbacks#conservationist",
+  "options": [],
+  "summary": "You may not utilize any ability from a talent that deals spell point damage.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/incongruent",
+  "name": "Incongruent",
+  "kind": "drawback",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana-Sphere-Drawbacks#incongruent",
+  "options": [],
+  "summary": "You cannot gain or use (manabond) talents or create manabonds, but you may still be targeted by manabonds created by other creatures.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/selfish-caster",
+  "name": "Selfish Caster",
+  "kind": "drawback",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana-Sphere-Drawbacks#selfish-caster",
+  "options": [],
+  "summary": "You may not use (manipulation) talents, and may not take talents that allow you to grant spell points or talents to other creatures.",
+  "file": "mana.json",
+  "approved": false
+ },
+ {
+  "id": "mana/weapon-bound",
+  "name": "Weapon-bound",
+  "kind": "drawback",
+  "sphere": "Mana",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mana/Mana-Sphere-Drawbacks#weapon-bound",
+  "options": [],
+  "summary": "You may only deliver an (expunge) or a (manipulation) through the use of the Manasurge Strike talent.",
+  "file": "mana.json",
   "approved": false
  },
  {

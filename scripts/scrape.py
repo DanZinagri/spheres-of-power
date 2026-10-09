@@ -2716,7 +2716,7 @@ COMPENDIUM = {
     },
     "Light": {
         "system": "Spheres of Power",
-        "approved": False,
+        "approved": True,
         "pages": [
             # Glow (with Bright Light) and Lens (with Telescope)
             ("Light", "Glow", "sphere ability", 2, 4),
@@ -2731,6 +2731,24 @@ COMPENDIUM = {
         ],
         # the (light) / (nimbus) talent type notes under Lens
         "not_options": r"^Table|^Note|^Light$|^Nimbus$",
+    },
+    "Mana": {
+        "system": "Spheres of Power",
+        "approved": False,
+        "pages": [
+            # Expunge (Spellburn), Manabond (Mystical Bond) and Manipulation/Amp (Shuffle)
+            ("Mana", "## Expunge", "sphere ability", 2, 4),
+            ("Mana", "## Manabond", "sphere ability", 2, 4),
+            ("Mana", "Manipulation/Amp", "sphere ability", 2, 4),
+            ("Mana", "Mana Talents", "talent", 4),
+            ("Mana", "Expunge Talents", "talent", 4),
+            ("Mana", "Manabond Talents", "talent", 4),
+            ("Mana", "Manipulation Talents", "talent", 4),
+            ("Mana", "Advanced Mana Talents", "advanced talent", 4),
+            ("Mana Sphere Feats", "(page)", "feat", 4),
+            ("Mana Sphere Drawbacks", "(page)", "drawback", 4),
+        ],
+        "not_options": r"^Table|^Note",
     },
     "Warleader": {
         "system": "Spheres of Might",
