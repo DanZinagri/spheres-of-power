@@ -411,41 +411,6 @@ At 20th level the mageknight may effortlessly combine magic and combat. Choose t
 
 **Tiefling:** Gain a +1/6 bonus to attack rolls made against outsiders.
 
----
-
-# Mageknight Feats
-
-The following feats are particularly appropriate or useful for mageknights.
-
-#### Extra Magic Talent
-
-**Prerequisite:** Basic Magic Training or casting class feature.
-
-**Benefit:** Gain an additional sphere or a talent from a sphere you possess. You may take this feat multiple times. The effects stack.
-
-#### Extra Mystic Combat
-
-**Prerequisite:** Mystic combat class feature.
-
-**Benefit:** Gain an extra mystic combat ability for which you qualify. You may gain this feat multiple times. The effects stack.
-
-#### Extra Spell Points
-
-**Prerequisite:** Spell pool.
-
-**Benefit:** Your spell pool total increases by 2. You may gain this feat multiple times. The effects stack.
-
-#### Improved Spell Combat (Combat)
-
-**Prerequisites:** Casting class feature; any talent with the strike descriptor.
-
-**Benefit:** When activating a magic sphere talent with the strike descriptor, you may spend a spell point to instead use the sphere effect in conjunction with making a full attack. The magic sphere effect is delivered through the first successful attack made as part of that full attack routine; if no attack is successful, no creature is targeted with the magic sphere effect and any spell points spent are wasted.
-
-#### Sphere Focus
-
-**Prerequisite:** Casting class feature.
-
-**Benefit:** Choose a sphere. You gain a +1 bonus to saving throw DCs for all abilities from that sphere. You may take this feat multiple times. The effects do not stack. Each time it is gained, apply this benefit to a different sphere.
 
 ---
 

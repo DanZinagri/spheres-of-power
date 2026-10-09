@@ -586,41 +586,6 @@ If the light source is extinguished, the possession ends.
 
 **Tiefling:** Gain +1/8 bonus to possession DC.
 
----
-
-# Wraith Feats
-
-The following feats are particularly appropriate or useful for wraiths.
-
-#### Extra Magic Talent
-
-**Prerequisite:** Basic Magic Training or casting class feature.
-
-**Benefit:** Gain an additional sphere or a talent from a sphere you possess. You may take this feat multiple times. The effects stack.
-
-#### Extra Spell Points
-
-**Prerequisite:** Spell pool.
-
-**Benefit:** Your spell pool total increases by 2. You may gain this feat multiple times. The effects stack.
-
-#### Extra Wraith Haunt
-
-**Prerequisite:** Wraith haunt class feature.
-
-**Benefit:** You gain an additional wraith haunt. You may take this feat multiple times. The effects stack.
-
-#### Sphere Focus
-
-**Prerequisite:** Casting class feature.
-
-**Benefit:** Choose a sphere. You gain a +1 bonus to saving throw DCs for all abilities from that sphere. You may take this feat multiple times. The effects do not stack. Each time it is gained, apply this benefit to a different sphere.
-
-#### Strengthened Possession
-
-**Prerequisite:** Possession class feature.
-
-**Benefit:** You count your wraith level as 4 higher when determining the maximum CR of a creature you may possess, the save DC of your possession ability, and your effective wraith level for determining the effect of path abilities (though does not grant access to path abilities that have not yet been gained). This bonus cannot increase your effective wraith level above your Hit Dice.
 
 ---
 

@@ -514,6 +514,32 @@ As a full round action, the sage forms his ki into a wide web that can be hurled
 
 ---
 
+# Favored Class Bonuses
+
+**Aasimar:** +1/3 to the sage’s CMD.
+
+**Cecaelia:** Add a +1/4 bonus on combat maneuver checks made while swimming.
+
+**Dwarf:** Add +1/5th of a Skill Focus feat.
+
+**Elf:** Add +1 to the sage’s base speed. In combat this option has no effect unless the sage has selected it five times (or another increment of five).
+
+**Gnome:** Add +1 to the sage’s Acrobatics check bonus gained by spending a ki pool point. A sage must be at least 5th level to select this benefit.
+
+**Goblin:** Add a +1 bonus on Acrobatics checks made to jump.
+
+**Halfling:** Add +1/4 point to the sage‘s ki pool.
+
+**Hobgoblin:** Add a +1/4 bonus on combat maneuver checks made to grapple or trip.
+
+**Human:** Whenever the sage uses the meditation class feature, the number of meditation dice he gains and his maximum possible number of meditation dice increase by +1/6th of a die.
+
+**Orc:** Add +1/2 to the attack roll bonus when the sage is at or below 0 hit points.
+
+**Tiefling:** Add a +1/2 bonus on the sage’s saving throws to resist death attacks.
+
+---
+
 # Class Equipment
 
 The following magical items are especially appropriate for sages.

@@ -544,35 +544,6 @@ At level 20, the armorist no longer needs to spend a spell point to summon equip
 
 **Tiefling:** +1/2 bonus damage to good outsiders when using a bonded weapon. This bonus damage bypasses DR/evil, as appropriate. Other damage dealt as part of the attack does not automatically bypass DR/evil.
 
----
-
-# Armorist Feats
-
-The following feats are particularly appropriate or useful for armorists.
-
-#### Extra Arsenal Trick
-
-**Prerequisite:** Arsenal trick class feature.
-
-**Benefit:** Gain an arsenal trick for which you meet the prerequisites. You may take this feat multiple times. The effects stack.
-
-#### Extra Magic Talent
-
-**Prerequisite:** Basic Magic Training or casting class feature.
-
-**Benefit:** Gain an additional sphere or a talent from a sphere you possess. You may take this feat multiple times. The effects stack.
-
-#### Extra Spell Points
-
-**Prerequisite:** Spell pool.
-
-**Benefit:** Your spell pool total increases by 2. You may gain this feat multiple times. The effects stack.
-
-#### Sphere Focus
-
-**Prerequisite:** Casting class feature.
-
-**Benefit:** Choose a sphere. You gain a +1 bonus to saving throw DCs for all abilities from that sphere. You may take this feat multiple times. The effects do not stack. Each time it is gained, apply this benefit to a different sphere.
 
 ---
 

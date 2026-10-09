@@ -38,19 +38,7 @@ parent: "[[Archive]]"
 - [[Practitioner Feats (Ultimate)|Practitioner Feats]]
 - [[Associated Feats & Skills (Ultimate)|Associated Feats & Skills]]
 
-**Magic Options**
-
-*Nothing retired yet.*
-
-**Martial Options**
-
-*Nothing retired yet.*
-
-**Skill Options**
-
-*Nothing retired yet.*
-
-**Champion Options**
+**Character Options**
 
 - [[Unified Traditions (Ultimate)|Unified Traditions]]
 

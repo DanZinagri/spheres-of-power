@@ -857,35 +857,6 @@ Umbrals draw their power from study and emulation of the beings of the shadow re
 
 **Tiefling:** Choose a path power usable a number of times per day equal to 3 + 1/2 the hedgewitch’s level. The hedgewitch may use this power an additional 1/2 times per day.
 
----
-
-# Hedgewitch Feats
-
-The following feats are particularly appropriate or useful for hedgewitches.
-
-#### Extra Magic Talent
-
-**Prerequisite:** Basic Magic Training or casting class feature.
-
-**Benefit:** Gain an additional sphere or a talent from a sphere you possess. You may take this feat multiple times. The effects stack.
-
-#### Extra Secret
-
-**Prerequisite:** Secrets class feature.
-
-**Benefit:** Gain an extra secret for which you qualify. You may gain this feat multiple times. The effects stack.
-
-#### Extra Spell Points
-
-**Prerequisite:** Spell pool.
-
-**Benefit:** Your spell pool total increases by 2. You may gain this feat multiple times. The effects stack.
-
-#### Sphere Focus
-
-**Prerequisite:** Casting class feature.
-
-**Benefit:** Choose a sphere. You gain a +1 bonus to saving throw DCs for all abilities from that sphere. You may take this feat multiple times. The effects do not stack. Each time it is gained, apply this benefit to a different sphere.
 
 ---
 

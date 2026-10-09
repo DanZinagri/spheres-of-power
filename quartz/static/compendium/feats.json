@@ -284,10 +284,10 @@
    "tags": [],
    "sphere": "",
    "spheres": [],
-   "group": "Bravo: Bravo Feats",
+   "group": "Bravo Feats",
    "prerequisites": "Incredible stunt class feature.",
-   "source": "Diamond Spheres: Hustle & Bustle",
-   "url": "Champions/Bravo/Bravo#awesome-stunt-combat",
+   "source": "Legends of the Spheres",
+   "url": "Champions/Bravo/Bravo-Feats#awesome-stunt-combat",
    "alsoOn": [
     "Other-Pages/Operative-Feats#awesome-stunt-combat"
    ],
@@ -305,10 +305,10 @@
    "tags": [],
    "sphere": "",
    "spheres": [],
-   "group": "Bravo: Bravo Feats",
+   "group": "Bravo Feats",
    "prerequisites": "Cunning celerity class feature.",
    "source": "Diamond Spheres: Hustle & Bustle",
-   "url": "Champions/Bravo/Bravo#cunning-accuracy-combat",
+   "url": "Champions/Bravo/Bravo-Feats#cunning-accuracy-combat",
    "alsoOn": [
     "Other-Pages/Operative-Feats#cunning-accuracy-combat"
    ],
@@ -326,10 +326,10 @@
    "tags": [],
    "sphere": "",
    "spheres": [],
-   "group": "Dissident: Class Feats",
+   "group": "Dissident Feats",
    "prerequisites": "5th-level dissident.",
-   "source": "Diamond Spheres: Harmony & Discord",
-   "url": "Champions/Dissident/Dissident#extra-nuance",
+   "source": "Legends of the Spheres",
+   "url": "Champions/Dissident/Dissident-Feats#extra-nuance",
    "alsoOn": [
     "Other-Pages/Operative-Feats#extra-nuance"
    ],
@@ -347,10 +347,10 @@
    "tags": [],
    "sphere": "",
    "spheres": [],
-   "group": "Theorist: Class Feats",
+   "group": "Theorist Feats",
    "prerequisites": "Model class feature or Theoretical Initiate.",
-   "source": "Diamond Spheres: Erudition & Esoterica",
-   "url": "Champions/Theorist/Theorist#extra-model",
+   "source": "Legends of the Spheres",
+   "url": "Champions/Theorist/Theorist-Feats#extra-model",
    "alsoOn": [
     "Other-Pages/Operative-Feats#extra-model"
    ],
@@ -368,10 +368,10 @@
    "tags": [],
    "sphere": "",
    "spheres": [],
-   "group": "Troubadour: Class Feats",
+   "group": "Troubadour Feats",
    "prerequisites": "Method Acting class feature, Quick Change class feature",
-   "source": "Diamond Spheres: Hustle & Bustle",
-   "url": "Champions/Troubadour/Troubadour#tactical-change-champion",
+   "source": "Champions of the Spheres",
+   "url": "Champions/Troubadour/Troubadour-Feats#tactical-change-champion",
    "alsoOn": [],
    "md": "*Source: Expanded Spheres: Baron's Lost Apocrypha*\n\n**Prerequisites:** Method Acting class feature, Quick Change class feature\n\n**Benefit:** Whenever you use quick change, you may dismiss an ongoing spell effect that you have created as part of the action to use quick change. If you do, you may create a new magic sphere effect as a swift action using the magic talents you have access to in your newly-assumed persona. The spell point cost of this new effect increases by 2 and cannot exceed the spell point cost of the original effect +2.\n\n**Special:** You may select this feat a second time a troubadour level 7th and a third time a troubadour level 13th. For every additional time you take this feat, you may dispel an additional effect and create a new sphere effect as part of the same action."
   },
@@ -387,12 +387,23 @@
    "tags": [],
    "sphere": "",
    "spheres": [],
-   "group": "Warden (warden-class): Warden Feats",
+   "group": "Warden Feats",
    "prerequisites": "Basic Magic Training or casting class feature.",
    "source": "The Warden",
-   "url": "Champions/Warden-(warden-class)/Warden-(warden-class)#extra-magic-talent",
+   "url": "Champions/Warden-(warden-class)/Warden-Feats#extra-magic-talent",
    "alsoOn": [
-    "Spheres-Of-Power/Feats/Extra-Feats#extra-magic-talent"
+    "Spheres-Of-Power/Armorist/Armorist-Feats#extra-magic-talent",
+    "Spheres-Of-Power/Elementalist/Elementalist-Feats#extra-magic-talent",
+    "Spheres-Of-Power/Eliciter/Eliciter-Feats#extra-magic-talent",
+    "Spheres-Of-Power/Feats/Extra-Feats#extra-magic-talent",
+    "Spheres-Of-Power/Fey-Adept/Fey-Adept-Feats#extra-magic-talent",
+    "Spheres-Of-Power/Hedgewitch/Hedgewitch-Feats#extra-magic-talent",
+    "Spheres-Of-Power/Mageknight/Mageknight-Feats#extra-magic-talent",
+    "Spheres-Of-Power/Shifter/Shifter-Feats#extra-magic-talent",
+    "Spheres-Of-Power/Soul-Weaver/Soul-Weaver-Feats#extra-magic-talent",
+    "Spheres-Of-Power/Symbiat/Symbiat-Feats#extra-magic-talent",
+    "Spheres-Of-Power/Thaumaturge/Thaumaturge-Feats#extra-magic-talent",
+    "Spheres-Of-Power/Wraith/Wraith-Feats#extra-magic-talent"
    ],
    "md": "**Prerequisite:** Basic Magic Training or casting class feature.\n\n**Benefit:** Gain an additional sphere or a talent from a sphere you possess. You may take this feat multiple times. The effects stack."
   },
@@ -408,10 +419,10 @@
    "tags": [],
    "sphere": "",
    "spheres": [],
-   "group": "Warden (warden-class): Warden Feats",
+   "group": "Warden Feats",
    "prerequisites": "Warden 5.",
    "source": "The Warden",
-   "url": "Champions/Warden-(warden-class)/Warden-(warden-class)#extra-reinforcement",
+   "url": "Champions/Warden-(warden-class)/Warden-Feats#extra-reinforcement",
    "alsoOn": [
     "Spheres-Of-Power/Feats/Champion-Feats#extra-reinforcement"
    ],
@@ -429,12 +440,23 @@
    "tags": [],
    "sphere": "",
    "spheres": [],
-   "group": "Warden (warden-class): Warden Feats",
+   "group": "Warden Feats",
    "prerequisites": "Spell pool.",
    "source": "The Warden",
-   "url": "Champions/Warden-(warden-class)/Warden-(warden-class)#extra-spell-points",
+   "url": "Champions/Warden-(warden-class)/Warden-Feats#extra-spell-points",
    "alsoOn": [
-    "Spheres-Of-Power/Feats/Extra-Feats#extra-spell-points"
+    "Spheres-Of-Power/Armorist/Armorist-Feats#extra-spell-points",
+    "Spheres-Of-Power/Elementalist/Elementalist-Feats#extra-spell-points",
+    "Spheres-Of-Power/Eliciter/Eliciter-Feats#extra-spell-points",
+    "Spheres-Of-Power/Feats/Extra-Feats#extra-spell-points",
+    "Spheres-Of-Power/Fey-Adept/Fey-Adept-Feats#extra-spell-points",
+    "Spheres-Of-Power/Hedgewitch/Hedgewitch-Feats#extra-spell-points",
+    "Spheres-Of-Power/Mageknight/Mageknight-Feats#extra-spell-points",
+    "Spheres-Of-Power/Shifter/Shifter-Feats#extra-spell-points",
+    "Spheres-Of-Power/Soul-Weaver/Soul-Weaver-Feats#extra-spell-points",
+    "Spheres-Of-Power/Symbiat/Symbiat-Feats#extra-spell-points",
+    "Spheres-Of-Power/Thaumaturge/Thaumaturge-Feats#extra-spell-points",
+    "Spheres-Of-Power/Wraith/Wraith-Feats#extra-spell-points"
    ],
    "md": "**Prerequisite:** Spell pool.\n\n**Benefit:** Your spell pool total increases by 2. You may gain this feat multiple times. The effects stack."
   },
@@ -452,10 +474,10 @@
    "spheres": [
     "Mind"
    ],
-   "group": "Warden (warden-class): Warden Feats",
+   "group": "Warden Feats",
    "prerequisites": "Mind sphere.",
    "source": "The Warden",
-   "url": "Champions/Warden-(warden-class)/Warden-(warden-class)#minor-charm-specialist",
+   "url": "Champions/Warden-(warden-class)/Warden-Feats#minor-charm-specialist",
    "alsoOn": [
     "Spheres-Of-Power/Mind/Mind-Sphere-Feats#minor-charm-specialist"
    ],
@@ -473,12 +495,22 @@
    "tags": [],
    "sphere": "",
    "spheres": [],
-   "group": "Warden (warden-class): Warden Feats",
+   "group": "Warden Feats",
    "prerequisites": "Casting class feature.",
    "source": "The Warden",
-   "url": "Champions/Warden-(warden-class)/Warden-(warden-class)#sphere-focus",
+   "url": "Champions/Warden-(warden-class)/Warden-Feats#sphere-focus",
    "alsoOn": [
-    "Spheres-Of-Power/Feats/General-Feats#sphere-focus"
+    "Spheres-Of-Power/Armorist/Armorist-Feats#sphere-focus",
+    "Spheres-Of-Power/Elementalist/Elementalist-Feats#sphere-focus",
+    "Spheres-Of-Power/Eliciter/Eliciter-Feats#sphere-focus",
+    "Spheres-Of-Power/Feats/General-Feats#sphere-focus",
+    "Spheres-Of-Power/Fey-Adept/Fey-Adept-Feats#sphere-focus",
+    "Spheres-Of-Power/Hedgewitch/Hedgewitch-Feats#sphere-focus",
+    "Spheres-Of-Power/Mageknight/Mageknight-Feats#sphere-focus",
+    "Spheres-Of-Power/Shifter/Shifter-Feats#sphere-focus",
+    "Spheres-Of-Power/Symbiat/Symbiat-Feats#sphere-focus",
+    "Spheres-Of-Power/Thaumaturge/Thaumaturge-Feats#sphere-focus",
+    "Spheres-Of-Power/Wraith/Wraith-Feats#sphere-focus"
    ],
    "md": "**Prerequisite:** Casting class feature.\n\n**Benefit:** Choose a sphere. You gain a +1 bonus to saving throw DCs for all abilities from that sphere. You may take this feat multiple times. The effects do not stack. Each time it is gained, apply this benefit to a different sphere."
   },
@@ -3883,12 +3915,13 @@
    "tags": [],
    "sphere": "",
    "spheres": [],
-   "group": "Professional: Professional Feats",
+   "group": "Professional Feats",
    "prerequisites": "Sphere Specialization or Professional Method class feature",
-   "source": "Diamond Spheres: Hustle & Bustle",
-   "url": "Professional/Professional#hybridized-specialty",
+   "source": "Spheres of Guile",
+   "url": "Professional/Professional-Feats#hybridized-specialty",
    "alsoOn": [
-    "Spheres-Of-Might/Conscript#hybridized-specialty"
+    "Spheres-Of-Might/Conscript/Conscript-Feats#hybridized-specialty",
+    "Spheres-Of-Power/Incanter/Incanter-Feats#hybridized-specialty"
    ],
    "md": "*Source: Baron’s Glorious Arena*\n\n**Prerequisites:** Sphere Specialization or Professional Method class feature\n\n**Benefits:** Choose a single sphere you possess. You may exchange any abilities from your sphere specialization or professional method for abilities corresponding to the chosen sphere (or any of its sub-specializations) which would be gained at the corresponding level. For example, if you have the warp sphere specialization and select destruction with hybridized specialty, you could exchange shift for intense magic, dimensional lord for penetrating blast, and/or warp mastery for indestructible.\n\n**Special:** You may select this feat multiple times, each time selecting a different sphere."
   },
@@ -6394,11 +6427,13 @@
    "tags": [],
    "sphere": "",
    "spheres": [],
-   "group": "Savant (Class Version): Class Feats",
+   "group": "Savant Feats",
    "prerequisites": "Forbidden Lore or Strain class feature",
    "source": "Spheres of Might",
-   "url": "Spheres-Of-Might/Savant-(Class-Version)#moderated-invocation",
-   "alsoOn": [],
+   "url": "Spheres-Of-Might/Savant-(Class-Version)/Savant-Feats#moderated-invocation",
+   "alsoOn": [
+    "Spheres-Of-Power/Thaumaturge/Thaumaturge-Feats#moderated-invocation"
+   ],
    "md": "*Source: Expanded Spheres: Baron's Lost Apocrypha*\n\n**Prerequisites:** Forbidden Lore or Strain class feature\n\n**Benefit:** When you use Forbidden Lore or strain, you may choose to gain a smaller bonus than normal from these class features, to a minimum of +1 to caster level or base attack bonus.\n\nWhenever you use Forbidden Lore and the sum of your normal caster level (before applying implement bonuses and any other temporary CL increases) and your forbidden lore bonus would not exceed your character level +½ your maximum forbidden lore bonus, you do not have any chance of backlash on the forbidden lore use. Whenever you use Strain and your total base attack bonus does not exceed your character level +½ your maximum strain bonus, you do not become fatigued."
   },
   {
@@ -6413,10 +6448,10 @@
    "tags": [],
    "sphere": "",
    "spheres": [],
-   "group": "Sentinel: Feats",
+   "group": "Sentinel Feats",
    "prerequisites": "Sentinel’s reserve class feature.",
    "source": "Spheres of Might",
-   "url": "Spheres-Of-Might/Sentinel/Sentinel#protective-reserve",
+   "url": "Spheres-Of-Might/Sentinel/Sentinel-Feats#protective-reserve",
    "alsoOn": [],
    "md": "**Prerequisites:** Sentinel’s reserve class feature.\n\n**Benefit:** Choose an (aegis) talent from the [[Protection]] sphere. You may create that aegis as a supernatural ability, but only on yourself, using points from your reserve in place of spell points. For the purpose of this aegis, your caster level is equal to your sentinel level, and your casting ability is the ability used to determine your reserve points. You may acquire this feat multiple times, choosing a different (aegis) talent each time."
   },
@@ -7165,6 +7200,27 @@
    "md": "**Prerequisites:** Alteration sphere, Life sphere.\n\n**Benefit:** When you shapeshift a creature, you may spend a spell point as a free action to allow them to regain one hit point for every Hit Die they possess. The target regains an additional hit point per Hit Die for each (cure) talent you possess. This healing is not positive energy."
   },
   {
+   "id": "feat/extra-arsenal-trick",
+   "name": "Extra Arsenal Trick",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Armorist Feats",
+   "prerequisites": "Arsenal trick class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Armorist/Armorist-Feats#extra-arsenal-trick",
+   "alsoOn": [
+    "Spheres-Of-Power/Feats/Extra-Feats#extra-arsenal-trick"
+   ],
+   "md": "**Prerequisite:** Arsenal trick class feature.\n\n**Benefit:** Gain an arsenal trick for which you meet the prerequisites. You may take this feat multiple times. The effects stack."
+  },
+  {
    "id": "feat/blood-construct-mastery",
    "name": "Blood Construct Mastery",
    "system": "Spheres of Power",
@@ -7557,7 +7613,9 @@
    "prerequisites": "Blessing/blight class feature, channel energy class feature.",
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Channeling-Feats#blessingblight-mastery-channeling",
-   "alsoOn": [],
+   "alsoOn": [
+    "Spheres-Of-Power/Soul-Weaver/Soul-Weaver-Feats#blessingblight-mastery-channeling"
+   ],
    "md": "**Prerequisites:** Blessing/blight class feature, channel energy class feature.\n\n**Benefit:** When you channel energy, you may spend an additional use of channel energy to apply a blessing or blight to one creature that was affected by your channeling. This creature is allowed a saving throw as usual, if they would normally be granted one."
   },
   {
@@ -7576,7 +7634,9 @@
    "prerequisites": "Versatile Channeler, blessing/blight class feature, channel energy class feature.",
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Channeling-Feats#blessingblight-versatility-channeling",
-   "alsoOn": [],
+   "alsoOn": [
+    "Spheres-Of-Power/Soul-Weaver/Soul-Weaver-Feats#blessingblight-versatility-channeling"
+   ],
    "md": "**Prerequisites:** Versatile Channeler, blessing/blight class feature, channel energy class feature.\n\n**Benefit:** If you can apply blessings to targets, you may now also apply blights, treating your soul weaver level as being effectively 2 levels lower for this purpose.\n\nIf you can apply blights to targets, you may now also apply blessing, treating your soul weaver level as being effectively 2 levels lower for this purpose."
   },
   {
@@ -7598,7 +7658,8 @@
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Channeling-Feats#channel-destruction-channeling",
    "alsoOn": [
-    "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#channel-destruction-channeling"
+    "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#channel-destruction-channeling",
+    "Spheres-Of-Power/Soul-Weaver/Soul-Weaver-Feats#channel-destruction-channeling"
    ],
    "md": "**Prerequisites:** Destruction sphere, channel energy class feature.\n\n**Benefit:** You may imbue your channel energy with a blast type talent. This channeled energy may only be used to harm, but affects all creatures in the area, not just living or undead. The channeled energy does its normal number of damage dice of a die size and damage type corresponding to the chosen blast type. Additional effects apply as usual for the chosen blast type.\n\nIf more than one blast type is known, a different blast type may be selected each time channel energy is used. For example, a 5th level soul weaver with this feat and the Crystal Blast talent could channel energy, dealing 3d4 piercing damage as well as the effects of Crystal Blast in the normal area and with the normal DC of her channel energy. If, for example, she also possesses the Searing Blast talent, the next round she can channel energy, dealing 3d8 fire damage.\n\nIf the (blast type) talent chosen has additional spell point costs, an additional use of channel energy must be used in place of each spell point required. You may spend a spell point to increase the damage to one die per level in the class that grants channel energy that you possess."
   },
@@ -7621,7 +7682,8 @@
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Channeling-Feats#channel-life-channeling",
    "alsoOn": [
-    "Spheres-Of-Power/Life/Life-Sphere-Feats#channel-life-channeling"
+    "Spheres-Of-Power/Life/Life-Sphere-Feats#channel-life-channeling",
+    "Spheres-Of-Power/Soul-Weaver/Soul-Weaver-Feats#channel-life-channeling"
    ],
    "md": "**Prerequisites:** Life sphere, channel energy class feature.\n\n**Benefit:** You may channel energy and augment it with your Life sphere abilities. You must spend the normal spell point cost of the ability, but may target any creature that is affected by your channel energy, even if they would normally be out of range of your ability. If combined with Mass Healing, you may affect every creature affected by your channel energy."
   },
@@ -7643,7 +7705,8 @@
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Channeling-Feats#channel-luck-chance-channeling",
    "alsoOn": [
-    "Spheres-Of-Power/Feats/Chance-Feats#channel-luck-chance-channeling"
+    "Spheres-Of-Power/Feats/Chance-Feats#channel-luck-chance-channeling",
+    "Spheres-Of-Power/Soul-Weaver/Soul-Weaver-Feats#channel-luck-chance-channeling"
    ],
    "md": "**Prerequisite:** Channel energy.\n\n**Benefit:** When you channel energy, you may spend a kismet point to grant all creatures affected a luck bonus (if they were healed) or a luck penalty (if they were harmed and failed their save) to their next saving throw equal to the number of dice of your channel energy ability. This bonus lasts at most 1 minute for each die of your channel energy ability."
   },
@@ -7663,7 +7726,9 @@
    "prerequisites": "Channel energy class feature.",
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Channeling-Feats#channel-resolve-channeling",
-   "alsoOn": [],
+   "alsoOn": [
+    "Spheres-Of-Power/Soul-Weaver/Soul-Weaver-Feats#channel-resolve-channeling"
+   ],
    "md": "**Prerequisite:** Channel energy class feature.\n\n**Benefit:** When you channel energy, instead of its normal effects, you may instead grant those within range a single attack. These attacks are made immediately in initiative order. Each attack receives a bonus to damage equal to the number of dice you would have rolled for your channel energy."
   },
   {
@@ -7684,7 +7749,9 @@
    "prerequisites": "Death sphere, ability to channel negative energy, caster level 5th.",
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Channeling-Feats#channeled-detonation-channeling",
-   "alsoOn": [],
+   "alsoOn": [
+    "Spheres-Of-Power/Soul-Weaver/Soul-Weaver-Feats#channeled-detonation-channeling"
+   ],
    "md": "You can overcharge your connection with your undead using your channel energy ability.\n\n**Prerequisites:** Death sphere, ability to channel negative energy, caster level 5th.\n\n**Benefit:** You can spend a use of your channel energy ability as a standard action to detonate a mindless undead you control within 30 feet, destroying it, but causing your channel energy to burst outwards from its location; your channel deals (or heals, as appropriate) 1 additional point of damage per Hit Die of the undead sacrificed. You can activate this ability as an immediate action whenever a mindless undead you control within 30 feet is reduced to 0 hit points by spending a spell point (and a use of channel energy, as normal).\n\nIf you possess the Master’s Presence (dominion) talent, you may use your dominion range when determining if an undead you control is within range for this feat."
   },
   {
@@ -7726,7 +7793,9 @@
    "prerequisites": "Spirit class feature.",
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Channeling-Feats#energized-appeasement-channeling",
-   "alsoOn": [],
+   "alsoOn": [
+    "Spheres-Of-Power/Soul-Weaver/Soul-Weaver-Feats#energized-appeasement-channeling"
+   ],
    "md": "The powers of the beyond are sufficient to appease the bound force within.\n\n**Prerequisite:** Spirit class feature.\n\n**Benefit:** When your spirit would gain a point of influence over you, you may spend two uses of channel energy in place of allowing the spirit to gain that point of influence. In addition, when you would spend a use of channel energy, you may instead allow your spirit to gain a point of influence over you."
   },
   {
@@ -7748,6 +7817,7 @@
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Channeling-Feats#totemic-channeling-channeling",
    "alsoOn": [
+    "Spheres-Of-Power/Soul-Weaver/Soul-Weaver-Feats#totemic-channeling-channeling",
     "Spheres-Of-Power/War/War-Sphere-Feats#totemic-channeling-channeling"
    ],
    "md": "**Prerequisites:** War sphere, channel energy class feature.\n\n**Benefit:** When you use your channel energy feature, instead of affecting everyone in a specific radius, you may spend a spell point to have it affect all allies or all enemies in a totem you control. You do not need to be within the chosen totem."
@@ -10369,6 +10439,7 @@
    "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
    "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#rebuff-improved-combat",
    "alsoOn": [
+    "Spheres-Of-Power/Elementalist/Elementalist-Feats#rebuff-improved-combat",
     "Spheres-Of-Power/Feats/Combat-Feats#rebuff-improved-combat"
    ],
    "md": "**Prerequisites:** Destruction sphere (Rebuff (blast shape)).\n\n**Benefit:** Whenever a creature within range is the target of a ranged attack, you may spend a spell point as an immediate action to target the projectile with a destructive blast. Make an opposed attack roll using your caster level in place of your base attack bonus to destroy the projectile and negate the attack.\n\nUnusually massive projectiles (such as boulders or ballista bolts) and ranged attacks generated by natural attacks or spell effects are not affected by this ability."
@@ -10392,6 +10463,7 @@
    "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
    "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#rebuff-superior-combat",
    "alsoOn": [
+    "Spheres-Of-Power/Elementalist/Elementalist-Feats#rebuff-superior-combat",
     "Spheres-Of-Power/Feats/Combat-Feats#rebuff-superior-combat"
    ],
    "md": "**Prerequisites:** Destruction sphere (Rebuff (blast shape)), Improved Rebuff, improved evasion class feature.\n\n**Benefit:** When using the Rebuff talent to provide cover to allies, you also grant them the benefits of improved evasion."
@@ -10691,7 +10763,9 @@
    "prerequisites": "Divination sphere, bound nexus class feature.",
    "source": "",
    "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#ensouled-vision",
-   "alsoOn": [],
+   "alsoOn": [
+    "Spheres-Of-Power/Soul-Weaver/Soul-Weaver-Feats#ensouled-vision"
+   ],
    "md": "**Prerequisites:** Divination sphere, bound nexus class feature.\n\n**Benefit:** You can share perception with your souls, allowing you to see, smell, hear, etc. as though you were in that soul’s space.\n\nWhenever you divine to gain information in an area (such as with the base Divination sphere effect, alternate divinations, or the Detect Spellcaster or Detect Thoughts talents but not the Augury or Divine Future talents), you may expend a soul to instead create a bound sensor, attaching the divine effect to the bound sensor. A bound sensor is a soul which constantly divines the area around it in a close range, informing you of anything that would be detected by it. The bound sensor lasts 10 minutes per level in the class that grants you the bound nexus class feature. The bound sensor can move as if it were a soul but, unlike a regular soul, can be given a route or area to patrol, allowing you to sleep or rest without needing to direct the soul to move each round.\n\nIf you possess the Divination sphere Alarm talent, the bound sensor instead lasts for 1 hour per level and can be augmented as though it were created with the Alarm talent, allowing you to set an audible or mental alarm or a password. In addition, you may change the attached divine effect on the bound sensor by divining again."
   },
   {
@@ -10921,6 +10995,206 @@
     "Spheres-Of-Power/War/War-Sphere-Feats#totemic-radar-dual-sphere"
    ],
    "md": "**Prerequisites:** Divination sphere (Blindfolded Oracle (sense)), War sphere.\n\n**Benefit:** When you close your eyes to use Blindfolded Oracle while within the area of your totem, you may choose to have your blindsense extend to the entire area of the totem rather than close range. When used in this way, your blindsense stops at the edge of your totem’s area."
+  },
+  {
+   "id": "feat/improved-favored-element",
+   "name": "Improved Favored Element",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Elementalist Feats",
+   "prerequisites": "Two favored elements.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Elementalist/Elementalist-Feats#improved-favored-element",
+   "alsoOn": [],
+   "md": "**Prerequisites:** Two favored elements.\n\n**Benefit:** Your second and third favored elements receive the same damage bonus as your first favored element."
+  },
+  {
+   "id": "feat/dynopathy",
+   "name": "Dynopathy",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [
+    "Mind"
+   ],
+   "group": "Eliciter Feats",
+   "prerequisites": "Mind sphere, emotion class feature, caster level 5th.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Eliciter/Eliciter-Feats#dynopathy",
+   "alsoOn": [],
+   "md": "**Prerequisites:** Mind sphere, emotion class feature, caster level 5th.\n\n**Benefit:** You may fuel raw magical energy from your spell pool and into your emotion class feature. You may spend a spell point instead of a daily use of an emotion for emotions with limited daily uses."
+  },
+  {
+   "id": "feat/elicit-strike-combat",
+   "name": "Elicit Strike",
+   "system": "Spheres of Power",
+   "types": [
+    "Combat"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Eliciter Feats",
+   "prerequisites": "Emotion class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Eliciter/Eliciter-Feats#elicit-strike-combat",
+   "alsoOn": [
+    "Spheres-Of-Power/Feats/Combat-Feats#elicit-strike-combat"
+   ],
+   "md": "**Prerequisite:** Emotion class feature.\n\n**Benefit:** If you make a successful melee attack against an opponent, in addition to dealing your weapon damage, you can spend a swift action to deliver the effects of an emotion power delivered by touch."
+  },
+  {
+   "id": "feat/emotional-conduit",
+   "name": "Emotional Conduit",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [
+    "Leadership"
+   ],
+   "group": "Eliciter Feats",
+   "prerequisites": "Leadership sphere, (cohort) package, emotion class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Eliciter/Eliciter-Feats#emotional-conduit",
+   "alsoOn": [],
+   "md": "**Prerequisites:** Leadership sphere, (cohort) package, emotion class feature.\n\nAs a joint action, you may channel your emotion class feature through one of your cohorts within medium range (100 feet + 10 feet per class level in the class that grants the emotion class feature), treating it as the origin for the effect but using your save DC, durations, and other parameters. Any required attack roll is resolved with the cohort’s base attack bonus, attributes, and other attack roll modifiers."
+  },
+  {
+   "id": "feat/extra-emotion",
+   "name": "Extra Emotion",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Eliciter Feats",
+   "prerequisites": "Emotion class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Eliciter/Eliciter-Feats#extra-emotion",
+   "alsoOn": [
+    "Spheres-Of-Power/Feats/Extra-Feats#extra-emotion"
+   ],
+   "md": "**Prerequisite:** Emotion class feature.\n\n**Benefit:** Gain the minor power of a new emotion or the next level of an emotion you already possess. You may take this feat multiple times. The effects stack."
+  },
+  {
+   "id": "feat/greater-hypnosis",
+   "name": "Greater Hypnosis",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Eliciter Feats",
+   "prerequisites": "Hypnotism class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Eliciter/Eliciter-Feats#greater-hypnosis",
+   "alsoOn": [],
+   "md": "**Prerequisite:** Hypnotism class feature.\n\n**Benefit:** The range at which you may affect targets with your hypnotism increases to medium range.\n\n**Normal:** You may only affect targets with your hypnotism at close range."
+  },
+  {
+   "id": "feat/impassion",
+   "name": "Impassion",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [
+    "War"
+   ],
+   "group": "Eliciter Feats",
+   "prerequisites": "War sphere, emotion class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Eliciter/Eliciter-Feats#impassion",
+   "alsoOn": [],
+   "md": "**Prerequisites:** War sphere, emotion class feature.\n\n**Benefit:** You may spend a spell point to rally an ally with any emotion from your emotion class feature that targets a single creature. You do not need to be within touch range, even if the emotion normally requires it."
+  },
+  {
+   "id": "feat/soul-piercing-gaze",
+   "name": "Soul-Piercing Gaze",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Eliciter Feats",
+   "prerequisites": "Emotion class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Eliciter/Eliciter-Feats#soul-piercing-gaze",
+   "alsoOn": [],
+   "md": "**Prerequisite:** Emotion class feature.\n\n**Benefit:** As a standard action, you may attempt to make eye contact with all enemies within close range. The enemies must be able to see and hear you to be affected. Each enemy receives a Reflex saving throw against a DC 10 + 1/2 your class level + your casting ability modifier against the gaze. Enemies may attempt to avert your gaze as they would a gaze attack (such as by averting their eyes or wearing a blindfold).\n\nIf at least one enemy fails their saving throw, you may choose one enemy that failed their saving throw and use an emotion from your emotion class feature on them as if you had made a successful melee touch attack. They still receive the regular saving throw against the emotion, if any. If every target succeeds on their saving throw against your gaze, the emotion is not expended.\n\nWhen using Soul-Piercing Gaze, it is difficult for observers to detect the use of any supernatural ability. You may attempt a Bluff check vs. the passive Perception (DC 11 + Perception modifier) of any observers to disguise what you are doing."
+  },
+  {
+   "id": "feat/synchronicity",
+   "name": "Synchronicity",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Eliciter Feats",
+   "prerequisites": "Emotion class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Eliciter/Eliciter-Feats#synchronicity",
+   "alsoOn": [],
+   "md": "**Prerequisite:** Emotion class feature.\n\n**Benefit:** You may enhance an emotion power that has a range of touch and a single target to extend the range to 30 feet and the maximum number of targets to be equal to your casting ability modifier. Each target of the emotion power must be within close range of each other as well as you. If the power grants a saving throw to resist, the DC is reduced by 2. Using an emotion power in this way costs 3 daily uses of the power instead of 1."
+  },
+  {
+   "id": "feat/trance",
+   "name": "Trance",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Eliciter Feats",
+   "prerequisites": "Emotion class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Eliciter/Eliciter-Feats#trance",
+   "alsoOn": [],
+   "md": "**Prerequisite:** Emotion class feature.\n\n**Benefit:** You may apply any emotion power with ‘touch’ in the name to yourself as a move action instead of a standard action. Doing so does not provoke an attack of opportunity."
   },
   {
    "id": "feat/addictive-power-drawback",
@@ -12336,7 +12610,9 @@
    "prerequisites": "Channel positive energy class feature, fervor, or lay on hands class feature.",
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Feats/Anathema-Feats#anathema-anathema",
-   "alsoOn": [],
+   "alsoOn": [
+    "Spheres-Of-Power/Soul-Weaver/Soul-Weaver-Feats#anathema-anathema"
+   ],
    "md": "**Prerequisite:** Channel positive energy class feature, fervor, or lay on hands class feature.\n\n**Benefit:** As a standard action, you can create a blast of positive energy, called an anathema. The anathema requires either a melee touch attack or it can be used as a ray with a range of 30 feet. The anathema does d6 damage per level of the class that grants the ability used to meet the prerequisites, and can harm any living or undead target with the evil descriptor or with an evil alignment, even if positive energy would not normally damage the target. The target does not receive a saving throw against damage done by this ability.\n\nUsing the anathema uses one use of your channel positive energy class feature, fervor, or lay on hands class ability. This is a supernatural ability."
   },
   {
@@ -12355,7 +12631,9 @@
    "prerequisites": "Anathema.",
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Feats/Anathema-Feats#empowered-anathema-anathema",
-   "alsoOn": [],
+   "alsoOn": [
+    "Spheres-Of-Power/Soul-Weaver/Soul-Weaver-Feats#empowered-anathema-anathema"
+   ],
    "md": "**Prerequisite:** Anathema.\n\n**Benefit:** When you use your anathema, you do +1 damage per die."
   },
   {
@@ -12374,7 +12652,9 @@
    "prerequisites": "Anathema.",
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Feats/Anathema-Feats#extended-anathema-anathema",
-   "alsoOn": [],
+   "alsoOn": [
+    "Spheres-Of-Power/Soul-Weaver/Soul-Weaver-Feats#extended-anathema-anathema"
+   ],
    "md": "**Prerequisite:** Anathema.\n\n**Benefit:** The range of your anathema increases to 60 feet. You may select this feat up to 3 times, increasing the range of your divine anathema by 30 feet each time to a maximum of 120 feet."
   },
   {
@@ -12393,7 +12673,9 @@
    "prerequisites": "Anathema.",
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Feats/Anathema-Feats#shaped-anathema-anathema",
-   "alsoOn": [],
+   "alsoOn": [
+    "Spheres-Of-Power/Soul-Weaver/Soul-Weaver-Feats#shaped-anathema-anathema"
+   ],
    "md": "**Prerequisite:** Anathema.\n\n**Benefit:** You may form your anathema in different shapes, affecting all creatures within the area. You may make a line with a length equal to the range of your anathema, a cone with a length equal to 1/2 the range of your anathema, or a burst around yourself with a radius equal to 1/3 the range of your anathema. Any creature within other than yourself takes damage, with a Reflex save for half damage with a DC equal to 10 + the number of dice of damage your anathema does + your highest mental attribute modifier.\n\nIf you possess the Extended Anathema feat, the size of these shapes increases as your range does."
   },
   {
@@ -14549,25 +14831,6 @@
    "md": "**Benefit:** Whenever you are rallied, you receive a +4 dodge bonus to AC until the end of your next turn."
   },
   {
-   "id": "feat/elicit-strike-combat",
-   "name": "Elicit Strike",
-   "system": "Spheres of Power",
-   "types": [
-    "Combat"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Combat Feats",
-   "prerequisites": "Emotion class feature.",
-   "source": "Ultimate Spheres of Power",
-   "url": "Spheres-Of-Power/Feats/Combat-Feats#elicit-strike-combat",
-   "alsoOn": [],
-   "md": "**Prerequisite:** Emotion class feature.\n\n**Benefit:** If you make a successful melee attack against an opponent, in addition to dealing your weapon damage, you can spend a swift action to deliver the effects of an emotion power delivered by touch."
-  },
-  {
    "id": "feat/combat-feats/energy-snake-combat",
    "name": "Energy Snake",
    "system": "Spheres of Power",
@@ -15103,7 +15366,9 @@
    "prerequisites": "Coordination class feature, psionics class feature.",
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#swarming-strike-combat",
-   "alsoOn": [],
+   "alsoOn": [
+    "Spheres-Of-Power/Symbiat/Symbiat-Feats#swarming-strike-combat"
+   ],
    "md": "**Prerequisites:** Coordination class feature, psionics class feature.\n\n**Benefit:** When using the coordination class feature, you may receive the bonus to damage from a number of allies equal to your casting ability modifier. This expends 3 rounds of your daily uses of psionic effects for the day."
   },
   {
@@ -16866,25 +17131,6 @@
    "md": "You can increase the damage to the land around you to amplify your power.\n\n**Prerequisites:** Terrain Casting drawback, non-good alignment.\n\n**Benefit:** Whenever you blight, corrupt, or drain an area of its nutrients with the Terrain Casting drawback, you may choose to increase the radius of the corrupted area by 10 feet + 5 feet per 5 caster levels of the sphere talent or ability used. Doing so decreases the spell point cost of any metamagic feat by 1 (minimum 0), but also increases the time required for the area to naturally recover to 10 years per caster level of the sphere talent or ability used.\n\n**Four Defiler Feats:** When using this feat, you may choose to increase the radius of the corrupted area by an additional 5 feet per 5 caster levels (minimum 5 feet) to decrease the spell point of cost of any metamagic feat by an additional 1.\n\n**Special:** You cannot gain this feat if you possess the Terrain Focus feat and vice versa.\n\n---"
   },
   {
-   "id": "feat/extra-arsenal-trick",
-   "name": "Extra Arsenal Trick",
-   "system": "Spheres of Power",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Extra Feats",
-   "prerequisites": "Arsenal trick class feature.",
-   "source": "Ultimate Spheres of Power",
-   "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-arsenal-trick",
-   "alsoOn": [],
-   "md": "**Prerequisite:** Arsenal trick class feature.\n\n**Benefit:** Gain an arsenal trick for which you meet the prerequisites. You may take this feat multiple times. The effects stack."
-  },
-  {
    "id": "feat/extra-bestial-trait",
    "name": "Extra Bestial Trait",
    "system": "Spheres of Power",
@@ -16900,7 +17146,9 @@
    "prerequisites": "Bestial trait class feature.",
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-bestial-trait",
-   "alsoOn": [],
+   "alsoOn": [
+    "Spheres-Of-Power/Shifter/Shifter-Feats#extra-bestial-trait"
+   ],
    "md": "**Prerequisite:** Bestial trait class feature.\n\n**Benefit:** Gain an additional bestial trait for which you meet the prerequisites. You may take this feat multiple times. The effects stack."
   },
   {
@@ -16961,25 +17209,6 @@
    "md": "**Prerequisite:** Electrokinetic stunt class feature.\n\n**Benefit:** You gain an additional electrokinetic stunt for which you qualify. You may take this feat multiple times. The effects stack."
   },
   {
-   "id": "feat/extra-emotion",
-   "name": "Extra Emotion",
-   "system": "Spheres of Power",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Extra Feats",
-   "prerequisites": "Emotion class feature.",
-   "source": "Ultimate Spheres of Power",
-   "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-emotion",
-   "alsoOn": [],
-   "md": "**Prerequisite:** Emotion class feature.\n\n**Benefit:** Gain the minor power of a new emotion or the next level of an emotion you already possess. You may take this feat multiple times. The effects stack."
-  },
-  {
    "id": "feat/extra-iatrogen",
    "name": "Extra Iatrogen",
    "system": "Spheres of Power",
@@ -17014,7 +17243,9 @@
    "prerequisites": "Invocations class feature.",
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-invocations",
-   "alsoOn": [],
+   "alsoOn": [
+    "Spheres-Of-Power/Thaumaturge/Thaumaturge-Feats#extra-invocations"
+   ],
    "md": "**Prerequisite:** Invocations class feature.\n\n**Benefit:** Increase the number of times per day you may use invocations by 2. You may take this feat multiple times. The effects stack."
   },
   {
@@ -17033,7 +17264,9 @@
    "prerequisites": "Mystic combat class feature.",
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-mystic-combat",
-   "alsoOn": [],
+   "alsoOn": [
+    "Spheres-Of-Power/Mageknight/Mageknight-Feats#extra-mystic-combat"
+   ],
    "md": "**Prerequisite:** Mystic combat class feature.\n\n**Benefit:** Gain an extra mystic combat ability for which you qualify. You may gain this feat multiple times. The effects stack."
   },
   {
@@ -17052,7 +17285,9 @@
    "prerequisites": "Bound nexus class feature.",
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-nexus-powers",
-   "alsoOn": [],
+   "alsoOn": [
+    "Spheres-Of-Power/Soul-Weaver/Soul-Weaver-Feats#extra-nexus-powers"
+   ],
    "md": "**Prerequisite:** Bound nexus class feature.\n\n**Benefit:** Increase the number of souls in your bound nexus by 2. You may gain this feat multiple times. The effects stack."
   },
   {
@@ -17090,7 +17325,9 @@
    "prerequisites": "Psionics class feature.",
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-psionics",
-   "alsoOn": [],
+   "alsoOn": [
+    "Spheres-Of-Power/Symbiat/Symbiat-Feats#extra-psionics"
+   ],
    "md": "**Prerequisite:** Psionics class feature.\n\n**Benefit:** You may use psionics an extra 6 rounds per day. You may gain this feat multiple times. The effects stack."
   },
   {
@@ -17109,7 +17346,9 @@
    "prerequisites": "Secrets class feature.",
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-secret",
-   "alsoOn": [],
+   "alsoOn": [
+    "Spheres-Of-Power/Hedgewitch/Hedgewitch-Feats#extra-secret"
+   ],
    "md": "**Prerequisite:** Secrets class feature.\n\n**Benefit:** Gain an extra secret for which you qualify. You may gain this feat multiple times. The effects stack."
   },
   {
@@ -17128,7 +17367,9 @@
    "prerequisites": "Shadowstuff class feature.",
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-shadowstuff",
-   "alsoOn": [],
+   "alsoOn": [
+    "Spheres-Of-Power/Fey-Adept/Fey-Adept-Feats#extra-shadowstuff"
+   ],
    "md": "**Prerequisite:** Shadowstuff class feature.\n\n**Benefit:** Increase the number of shadow points you possess by 2. You may gain this feat multiple times. The effects stack."
   },
   {
@@ -21983,7 +22224,9 @@
    "prerequisites": "Illusion sphere (Manipulate Aura (sensory, magic)); Illusion sphere (Shadow Infusion) or shadow pool; Shadow Magic or create reality class feature.",
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Feats/Surreal-Feats#emulation-expert-surreal",
-   "alsoOn": [],
+   "alsoOn": [
+    "Spheres-Of-Power/Fey-Adept/Fey-Adept-Feats#emulation-expert-surreal"
+   ],
    "md": "**Prerequisites:** Illusion sphere (Manipulate Aura (sensory, magic)); Illusion sphere (Shadow Infusion) or shadow pool; Shadow Magic or create reality class feature.\n\n**Benefit:** When using the Shadow Magic feat or create reality class feature to duplicate effects from another sphere, you may spend a shadow point to treat the effect as both from the Illusion sphere and the sphere it is mimicking. This allows you to apply bonuses from items, class features, talents or feats that benefit that sphere as well as the Illusion sphere.\n\nThis feat does not allow you to apply the caster level bonus from staves for two different spheres. For example, when using create reality or Shadow Magic to produce a destructive blast, you may apply Destruction talents you possess and apply the caster level bonus from either a staff of Destruction or Illusion, apply bonus damage from elementalist energy specialization class feature and treat both your fey adept and elementalist levels as full caster levels for calculating the caster level."
   },
   {
@@ -22002,7 +22245,9 @@
    "prerequisites": "Shadowmark class feature.",
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Feats/Surreal-Feats#gather-shadowstuff-surreal",
-   "alsoOn": [],
+   "alsoOn": [
+    "Spheres-Of-Power/Fey-Adept/Fey-Adept-Feats#gather-shadowstuff-surreal"
+   ],
    "md": "**Prerequisite:** Shadowmark class feature.\n\n**Benefit:** In place of spending a shadow point you may use shadowmark as a full-round action."
   },
   {
@@ -22021,7 +22266,9 @@
    "prerequisites": "Shadowmark 1d6.",
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Feats/Surreal-Feats#greater-shadowmark-surreal",
-   "alsoOn": [],
+   "alsoOn": [
+    "Spheres-Of-Power/Fey-Adept/Fey-Adept-Feats#greater-shadowmark-surreal"
+   ],
    "md": "**Prerequisite:** Shadowmark 1d6.\n\n**Benefit:** Your shadowmark deals d8s for damage instead of d6s."
   },
   {
@@ -22042,7 +22289,9 @@
    "prerequisites": "Illusion sphere (Shadow Infusion) or shadow pool.",
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Feats/Surreal-Feats#shadow-magic-surreal",
-   "alsoOn": [],
+   "alsoOn": [
+    "Spheres-Of-Power/Fey-Adept/Fey-Adept-Feats#shadow-magic-surreal"
+   ],
    "md": "**Prerequisites:** Illusion sphere (Shadow Infusion) or shadow pool.\n\n**Benefit:** You may mimic other spheres of magic by shaping shadowstuff. As a free action, you may spend 1 shadow point to grant yourself a temporary magic sphere or talent you do not possess from the following list: Alteration, Conjuration, Creation, Dark, Death, Destruction, Enhancement, Light, Nature, Protection or Weather sphere for 1 minute. For every 5 surreal feats you possess, you may grant yourself an additional temporary talent from the chosen sphere. You must still meet any prerequisites that the talents possess. When gaining multiple talents with this feat, you may use a talent gained this way as a prerequisite for other gained talents.\n\nAny sphere talents or abilities gained from this feat are treated as if they were from the Illusion sphere and possess the shadow descriptor. Shadow magic, by its nature, has a very real effect even if disbelieved, although usually a reduced one. Unless stated otherwise, objects created as shadow illusions are made of shadowstuff (stable), and creatures have 1/5th their normal hit points.\n\nThe effective caster level of effects created using this feat is equal to your caster level in the Illusion sphere -2 (minimum 1). You may not have more than one sphere effect active at a time from the spheres granted from this feat. A second use of this feat immediately ends the duration of the previous use."
   },
   {
@@ -22061,7 +22310,9 @@
    "prerequisites": "",
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Feats/Surreal-Feats#shadow-shield-surreal",
-   "alsoOn": [],
+   "alsoOn": [
+    "Spheres-Of-Power/Fey-Adept/Fey-Adept-Feats#shadow-shield-surreal"
+   ],
    "md": "**Benefit:** You may, as a swift action, spend a shadow point to create a protective layer of shadowstuff around a creature or object within 25 feet + 5 feet per 2 character level. This grants 1d4 temporary hit points for every character level you possess. Any creature that has at least 1 temporary hit point granted by your shadow shield also gains damage reduction 1/-. This damage reduction improves by an additional 1 per 5 character levels you possess. These temporary hit points last 1 minute."
   },
   {
@@ -22080,7 +22331,9 @@
    "prerequisites": "Shadow Shield.",
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Feats/Surreal-Feats#shadow-shield-improved-surreal",
-   "alsoOn": [],
+   "alsoOn": [
+    "Spheres-Of-Power/Fey-Adept/Fey-Adept-Feats#shadow-shield-improved-surreal"
+   ],
    "md": "**Prerequisite:** Shadow Shield.\n\n**Benefit:** Improve the temporary hit points granted by your shadow shield to 1d4+1 per character level. Instead of providing DR/-, the shadow shield reduces all hit point damage from all sources by the same amount."
   },
   {
@@ -22099,7 +22352,9 @@
    "prerequisites": "Shadowmark class feature.",
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Feats/Surreal-Feats#shadowblast-surreal",
-   "alsoOn": [],
+   "alsoOn": [
+    "Spheres-Of-Power/Fey-Adept/Fey-Adept-Feats#shadowblast-surreal"
+   ],
    "md": "**Prerequisite:** Shadowmark class feature.\n\n**Benefit:** When using your shadowmark, you may spend an extra shadow point to change the effect from a ranged touch attack into a close-ranged cone. All creatures within this area are allowed a Reflex save for half damage. If they succeed at this Reflex save, they do not suffer the penalty to Will saves."
   },
   {
@@ -22118,7 +22373,9 @@
    "prerequisites": "",
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Feats/Surreal-Feats#shadowstuff-armament-surreal",
-   "alsoOn": [],
+   "alsoOn": [
+    "Spheres-Of-Power/Fey-Adept/Fey-Adept-Feats#shadowstuff-armament-surreal"
+   ],
    "md": "**Benefit:** As a move action or a free action with the expenditure of a shadow point, you may create and instantaneously equip a non-magical version of a weapon, piece of ammunition, light armor, or light shield you are proficient with out of stable shadowstuff. In the case of exotic weapons, you must have studied a pre-existing version of the weapon for at least 1 week. This object dissipates one round after you are no longer in contact with it or if you use this feat a second time. Creating ammunition using this feat may be done as part of the same action required to load a weapon instead of a move action without having to spend a shadow point.\n\n**Special:** You may create an additional simultaneous object with a single use of this feat per 5 character levels."
   },
   {
@@ -22137,7 +22394,9 @@
    "prerequisites": "",
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Feats/Surreal-Feats#shadowy-slay-surreal",
-   "alsoOn": [],
+   "alsoOn": [
+    "Spheres-Of-Power/Fey-Adept/Fey-Adept-Feats#shadowy-slay-surreal"
+   ],
    "md": "**Benefit:** Any time you deal damage to a creature from an illusion source you may spend a shadow point to allow the creature to be briefly attacked through its shadow. Any attack made against the target may resolve as a touch attack. This effect lasts 1 minute or until the creature is hit by a touch attack."
   },
   {
@@ -22156,7 +22415,9 @@
    "prerequisites": "",
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Feats/Surreal-Feats#surreal-strike-surreal",
-   "alsoOn": [],
+   "alsoOn": [
+    "Spheres-Of-Power/Fey-Adept/Fey-Adept-Feats#surreal-strike-surreal"
+   ],
    "md": "**Benefit:** You gain shadowmark as the fey adept class feature, but use your character level -4 (minimum 1) as your fey adept level for the purposes of determining damage and Will save penalties."
   },
   {
@@ -22608,6 +22869,65 @@
    "url": "Spheres-Of-Power/Feats/Wild-Magic-Feats#shift-effect-wild-magic",
    "alsoOn": [],
    "md": "**Prerequisites:** Spell point pool or casting class feature.\n\n**Benefit:** When you trigger a wild magic event (but not a major event), you may spend a spell point as an immediate action after the result is revealed to roll 1d20. On a result of 1-10, subtract the result from the result of your wild magic roll and take the new result, even if it is worse.\n\nOn a result of 11-20, subtract ten from your roll, then add that number to your wild magic result, taking the new result even if it is worse. If you possess at least 6 wild magic feats, you may use this ability when triggering a major event (see Variant Rules)."
+  },
+  {
+   "id": "feat/psychosomatic-healing",
+   "name": "Psychosomatic Healing",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Fey Adept Feats",
+   "prerequisites": "Create reality class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Fey-Adept/Fey-Adept-Feats#psychosomatic-healing",
+   "alsoOn": [],
+   "md": "**Prerequisite:** Create reality class feature.\n\n**Benefit:** You may create an illusion around a creature that gives the appearance and feeling that the creature is in good health. This illusion works not only on the creature, but on anyone observing the creature. Whenever the creature takes damage from any source, the amount of damage taken is reduced by half your caster level (minimum 0). Unlike damage reduction, this can not be bypassed, except if the attacker manages to disbelieve the illusion."
+  },
+  {
+   "id": "feat/shrouding-aegis",
+   "name": "Shrouding Aegis",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [
+    "Protection"
+   ],
+   "group": "Fey Adept Feats",
+   "prerequisites": "Protection sphere, shadowstuff class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Fey-Adept/Fey-Adept-Feats#shrouding-aegis",
+   "alsoOn": [],
+   "md": "**Prerequisites:** Protection sphere, shadowstuff class feature.\n\n**Benefit:** You may spend a point of shadowstuff to create a shrouding aegis. A shrouding aegis protects its bearer through the use of illusion by either obscuring their image, making them appear in a slightly different location, or disguising their movements.\n\nThe illusions act intelligently and are constantly shifting, causing the creature to have a somewhat ‘unreal’ appearance. Creatures attacking anyone with a shrouding aegis must attempt a Will save against a DC equal to 10 + 1/2 your Protection caster level + your casting ability modifier to determine if they can see properly through the shrouding aegis. Those who fail this saving throw can not take attacks of opportunity against the shrouded creature, can not benefit from or participate in flanking it, and can not deal any precision-based damage to the shrouded creature. Critical hits work normally, however.\n\nThose who succeed at the save or are immune to illusions are not affected by the shroud. Once a creature succeeds at their saving throw, they do not need to attempt any additional saving throws against that shroud. The shroud is considered an illusion, and benefits from your abilities that enhance illusions."
+  },
+  {
+   "id": "feat/fey-adept-feats/violent-shadow-surreal",
+   "name": "Violent Shadow",
+   "system": "Spheres of Power",
+   "types": [
+    "Surreal"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Fey Adept Feats",
+   "prerequisites": "Shadowmark 3d6, shadow pool.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Fey-Adept/Fey-Adept-Feats#violent-shadow-surreal",
+   "alsoOn": [],
+   "md": "**Prerequisites:** Shadowmark 3d6, shadow pool.\n\n**Benefit:** You may spend a shadow point as a full-round action to make a single attack with your shadowmark. Rather than a ranged touch attack, treat your shadowmark as a melee touch attack with a 10-foot reach. Regardless of if your attack hits or not, you may make attacks of opportunity as melee touch attacks with a 10-foot reach with your shadowmark without additional expenditure of points from your shadow pool until the beginning of your next turn. If you have multiple attacks from a high base attack bonus or effects such as haste you can (as part of the full-round action) make as many attacks with your violent shadow as your base attack bonus allows."
   },
   {
    "id": "feat/asymmetrical-warfare-dual-sphere",
@@ -23406,7 +23726,9 @@
    "prerequisites": "Light sphere, bound nexus class feature.",
    "source": "Polished Dark",
    "url": "Spheres-Of-Power/Light/Light-Sphere-Feats#ensouled-illuminations",
-   "alsoOn": [],
+   "alsoOn": [
+    "Spheres-Of-Power/Soul-Weaver/Soul-Weaver-Feats#ensouled-illuminations"
+   ],
    "md": "They linger, float and dance like lanterns in the evening sky.\n\n**Prerequisites:** Light sphere, bound nexus class feature.\n\n**Benefit:** As a free action, you may choose to have any number of your souls shed light as a torch, shedding normal light to 20 feet and increasing the light level by one step to a maximum of normal for 20 feet beyond this. This light is a supernatural effect, but is suppressed by magical darkness (this effect’s MSD equal to 11 + your soul weaver level). Allies inside the radius of light shed by one of your souls do not suffer penalties from the dazzled condition. You may expend a soul to allow a creature inside the light shed by one of your souls to roll twice and take the better result when attempting an attack roll while blind. A soul expended this way lingers for 2 rounds, continuing to shed light but unable to be moved or expended a second time. If you possess the Dancing Lights talent, the fly speed of your souls increases to 60 feet.\n\nAs a standard action, you may choose one of your souls to instead glow, as though under the effects of the Light sphere, and may attach a (light) talent to this glow, spending any spell points as required. At any point during the glow’s duration, the soul may spend a swift action to transfer this glow to another creature. If the creature is unwilling, the soul may make the touch attack for the soul weaver, using her bonuses and the soul is expended."
   },
   {
@@ -23696,6 +24018,25 @@
    "md": "**Prerequisites:** Illusion sphere, Light sphere.\n\n**Benefit:** The light from your bright light becomes a spread rather than an emanation allowing it to move around corners and through tight spaces and small holes as if it was a gas. This light may penetrate areas and containers that are not airtight by spreading at a rate of 1 cube per 3 caster levels each round through cracks in doors, keyholes or other small gaps in construction.\n\n---\n\n*Archived: [[Light Sphere Feats (Ultimate)|Ultimate version]] (before *Polished*)*"
   },
   {
+   "id": "feat/mageknight-feats/improved-spell-combat-combat",
+   "name": "Improved Spell Combat",
+   "system": "Spheres of Power",
+   "types": [
+    "Combat"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Mageknight Feats",
+   "prerequisites": "Casting class feature; any talent with the strike descriptor.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Mageknight/Mageknight-Feats#improved-spell-combat-combat",
+   "alsoOn": [],
+   "md": "**Prerequisites:** Casting class feature; any talent with the strike descriptor.\n\n**Benefit:** When activating a magic sphere talent with the strike descriptor, you may spend a spell point to instead use the sphere effect in conjunction with making a full attack. The magic sphere effect is delivered through the first successful attack made as part of that full attack routine; if no attack is successful, no creature is targeted with the magic sphere effect and any spell points spent are wasted."
+  },
+  {
    "id": "feat/deep-spellburn",
    "name": "Deep Spellburn",
    "system": "Spheres of Power",
@@ -23955,7 +24296,9 @@
    "prerequisites": "Mana sphere, forbidden lore class feature.",
    "source": "",
    "url": "Spheres-Of-Power/Mana/Mana-Sphere-Feats#tainted-manabond",
-   "alsoOn": [],
+   "alsoOn": [
+    "Spheres-Of-Power/Thaumaturge/Thaumaturge-Feats#tainted-manabond"
+   ],
    "md": "**Prerequisites:** Mana sphere, forbidden lore class feature.\n\n**Benefit:** You may create a tainted manabond as a manabond. When an ally that you have a tainted manabond with uses a sphere ability, you may allow them to benefit from your forbidden lore class feature as a free action even if it is not your turn. A creature may refuse this benefit if they so wish. If backlash occurs, it affects only you, but the ability still fails if triggering backlash would cause it to fail. A sphere ability can only benefit from forbidden lore once."
   },
   {
@@ -24775,6 +25118,164 @@
    "md": "**Prerequisites:** Protection sphere, War sphere.\n\n**Benefit:** Allies receive a +1 circumstance bonus to initiative per aegis they bear that you created. This bonus stacks with itself.\n\n---\n\n*Archived: [[Protection Sphere Feats (Ultimate)|Ultimate version]] (before *Polished*)*"
   },
   {
+   "id": "feat/ensouled-totem",
+   "name": "Ensouled Totem",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [
+    "War"
+   ],
+   "group": "Soul Weaver Feats",
+   "prerequisites": "War sphere, bound nexus class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Soul-Weaver/Soul-Weaver-Feats#ensouled-totem",
+   "alsoOn": [],
+   "md": "**Prerequisites:** War sphere, bound nexus class feature.\n\n**Benefit:** You may expend a soul from your bound nexus to create a bound totemic soul. A totemic soul works as a normal totem, but it can move as if it were a soul (they normally orbit the character, but the soul weaver can move any number of them as a free action once per round and they have a fly speed of 40 feet), and it has a radius of only 30 feet. A totemic soul continues to exist for 10 minutes per level in the class that grants you the bound nexus class feature without needing concentration. You must still pay the normal spell point cost for creating the totem."
+  },
+  {
+   "id": "feat/soul-weaver-feats/weaponized-anathema-anathema",
+   "name": "Weaponized Anathema",
+   "system": "Spheres of Power",
+   "types": [
+    "Anathema"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Soul Weaver Feats",
+   "prerequisites": "Anathema.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Soul-Weaver/Soul-Weaver-Feats#weaponized-anathema-anathema",
+   "alsoOn": [],
+   "md": "**Prerequisite:** Anathema.\n\n**Benefit:** Once per round, when you hit with a weapon attack, you may deliver your anathema through the attack as a free action. The damage from the anathema is not increased by critical hits.\n\n---"
+  },
+  {
+   "id": "feat/lingering-link",
+   "name": "Lingering Link",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Symbiat Feats",
+   "prerequisites": "Psionics class feature, mind link psionic effect.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Symbiat/Symbiat-Feats#lingering-link",
+   "alsoOn": [],
+   "md": "**Prerequisites:** Psionics class feature, mind link psionic effect.\n\n**Benefit:** When affecting targets with your mind link psionic effect, you only need to spend 1 round of psionic power per minute the effect is maintained, rather than every round. You may use your mind link psionic effect jointly with other psionic effects and may start both with the same action, but you must spend the cost for each effect while maintaining both. Ending one effect does not necessitate ending the other."
+  },
+  {
+   "id": "feat/lingering-psionics",
+   "name": "Lingering Psionics",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Symbiat Feats",
+   "prerequisites": "Psionics class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Symbiat/Symbiat-Feats#lingering-psionics",
+   "alsoOn": [],
+   "md": "**Prerequisite:** Psionics class feature.\n\n**Benefit:** The bonuses and penalties from your psionics continue for 2 rounds after you cease using it. Any other requirement, such as range or specific conditions, must still be met for the effect to continue. If you begin a new psionic effect during this time, the bonuses and penalties of the previous psionic effect immediately cease."
+  },
+  {
+   "id": "feat/mind-opener",
+   "name": "Mind Opener",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Symbiat Feats",
+   "prerequisites": "Psionics class feature, battlefield relay psionic effect.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Symbiat/Symbiat-Feats#mind-opener",
+   "alsoOn": [],
+   "md": "**Prerequisites:** Psionics class feature, battlefield relay psionic effect.\n\n**Benefit:** Increase the save DC of your battlefield relay psionic effect by +2."
+  },
+  {
+   "id": "feat/perceptive-psionics",
+   "name": "Perceptive Psionics",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Symbiat Feats",
+   "prerequisites": "Perception 7 ranks, Sense Motive 7 ranks, psionics class feature, battlefield relay psionic effect.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Symbiat/Symbiat-Feats#perceptive-psionics",
+   "alsoOn": [],
+   "md": "**Prerequisites:** Perception 7 ranks, Sense Motive 7 ranks, psionics class feature, battlefield relay psionic effect.\n\n**Benefit:** You may read a target’s subtle movements, even if you cannot read their mind. If a target succeeds at their saving throw against your battlefield relay, you may still activate the effect against them. When using battlefield relay in this fashion, the bonuses granted are divided by 2.\n\nYour battlefield relay persists at half strength for as long as it is maintained. If you wish to attempt your battlefield relay again, you must cease your battlefield relay and use it again.\n\nYou may even target creatures with your battlefield relay that are usually immune to mind-affecting abilities. These targets need not attempt a Will save, and the bonuses are always divided by 2 against them."
+  },
+  {
+   "id": "feat/psionic-vigilance",
+   "name": "Psionic Vigilance",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [
+    "War"
+   ],
+   "group": "Symbiat Feats",
+   "prerequisites": "War sphere, psionics class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Symbiat/Symbiat-Feats#psionic-vigilance",
+   "alsoOn": [],
+   "md": "**Prerequisites:** War sphere, psionics class feature.\n\n**Benefit:** You may rally allies who are currently under the effects of your psionics. You are considered under the effects of your psionics whenever they are active."
+  },
+  {
+   "id": "feat/psionic-vitality",
+   "name": "Psionic Vitality",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [
+    "Life"
+   ],
+   "group": "Symbiat Feats",
+   "prerequisites": "Life sphere, psionics class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Symbiat/Symbiat-Feats#psionic-vitality",
+   "alsoOn": [],
+   "md": "**Prerequisites:** Life sphere, psionics class feature.\n\n**Benefit:** Whenever you expend a round of your psionics, you or an ally of your choice that is affected by your psionics regains 1d6 hit points. You may expend additional rounds of your psionics to increase the amount healed by 1d6 per round expended in this manner."
+  },
+  {
    "id": "feat/extradimensional-assembly",
    "name": "Extradimensional Assembly",
    "system": "Spheres of Power",
@@ -24882,6 +25383,170 @@
    "url": "Spheres-Of-Power/Telekinesis/Telekinesis-Sphere-Feats#tactile-illusion-dual-sphere",
    "alsoOn": [],
    "md": "**Prerequisites:** Illusion sphere (Illusionary Touch (sensory, touch) x2), Telekinesis sphere (Finesse).\n\n**Benefit:** By weaving your illusions together with a hint of telekinetic force you can allow them to exert force more appropriate to their apparent nature. Your illusions can support weight or block movement of creatures or objects so long as all pressure and weight on it falls within the size limit of your telekinesis. However, anyone who disbelieves the illusion may choose to ignore the telekinetic effect, moving through the illusion as normal, as well as allowing them to throw or move items through it.\n\nIn addition, you may deal lethal damage with your illusions instead of nonlethal damage.\n\n---\n\n*Archived: [[Telekinesis Sphere Feats (Ultimate)|Ultimate version]] (before *Polished*)*"
+  },
+  {
+   "id": "feat/forbidden-totem",
+   "name": "Forbidden Totem",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [
+    "War"
+   ],
+   "group": "Thaumaturge Feats",
+   "prerequisites": "War sphere, forbidden lore class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Thaumaturge/Thaumaturge-Feats#forbidden-totem",
+   "alsoOn": [],
+   "md": "**Prerequisites:** War sphere, forbidden lore class feature.\n\n**Benefit:** Whenever you successfully use forbidden lore with a totem, all allies within the totem receive a morale bonus equal to your base forbidden lore bonus to one of the following, chosen by you when you create the totem: attack rolls, damage rolls, AC, saving throws, ability checks, skill checks, magic skill checks, or CMB and CMD. Bonuses to your forbidden lore bonus do not increase this bonus. Multiple totems can give allies multiple bonuses, but two similar bonuses do not stack."
+  },
+  {
+   "id": "feat/master-artisan",
+   "name": "Master Artisan",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Thaumaturge Feats",
+   "prerequisites": "Forbidden lore class feature, any item creation feat.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Thaumaturge/Thaumaturge-Feats#master-artisan",
+   "alsoOn": [],
+   "md": "**Prerequisites:** Forbidden lore class feature, any item creation feat.\n\n**Benefit:** Choose one item creation feat that you possess. Add your forbidden lore bonus to your caster level or MSB when meeting prerequisites or determining how powerful of an enchantment you may place upon an item."
+  },
+  {
+   "id": "feat/master-of-cosmos",
+   "name": "Master Of Cosmos",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [
+    "Conjuration"
+   ],
+   "group": "Thaumaturge Feats",
+   "prerequisites": "Conjuration sphere, forbidden lore class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Thaumaturge/Thaumaturge-Feats#master-of-cosmos",
+   "alsoOn": [],
+   "md": "**Prerequisites:** Conjuration sphere, forbidden lore class feature.\n\n**Benefit:** Your companions gain a circumstance bonus to attack rolls and skill checks equal to your forbidden lore bonus."
+  },
+  {
+   "id": "feat/master-of-death",
+   "name": "Master Of Death",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [
+    "Death"
+   ],
+   "group": "Thaumaturge Feats",
+   "prerequisites": "Death sphere, forbidden lore class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Thaumaturge/Thaumaturge-Feats#master-of-death",
+   "alsoOn": [],
+   "md": "**Prerequisites:** Death sphere, forbidden lore class feature.\n\n**Benefit:** Add your forbidden lore bonus to your caster level when determining the number and power of undead creatures you may control at any one time through the Death sphere."
+  },
+  {
+   "id": "feat/master-of-faerie",
+   "name": "Master Of Faerie",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [
+    "Fallen Fey"
+   ],
+   "group": "Thaumaturge Feats",
+   "prerequisites": "Fallen Fey sphere (Summon Fairy (fey-blessing)), forbidden lore class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Thaumaturge/Thaumaturge-Feats#master-of-faerie",
+   "alsoOn": [],
+   "md": "**Prerequisites:** Fallen Fey sphere (Summon Fairy (fey-blessing)), forbidden lore class feature.\n\n**Benefit:** Add your forbidden lore bonus to your caster level when determining the total Hit Dice of fey creatures you may have summoned at one time."
+  },
+  {
+   "id": "feat/occult-savant",
+   "name": "Occult Savant",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Thaumaturge Feats",
+   "prerequisites": "Spellcraft 10 ranks, Use Magic Device 10 ranks or any Knowledge skill 10 ranks; occult knowledge class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Thaumaturge/Thaumaturge-Feats#occult-savant",
+   "alsoOn": [],
+   "md": "**Prerequisites:** Spellcraft 10 ranks, Use Magic Device 10 ranks or any Knowledge skill 10 ranks; occult knowledge class feature.\n\n**Benefit:** You may take 10 with any Knowledge, Spellcraft, or Use Magic Device check, regardless of stress or other situations where taking 10 would otherwise be impossible."
+  },
+  {
+   "id": "feat/totem-of-the-darkest-aberration",
+   "name": "Totem Of The Darkest Aberration",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [
+    "War"
+   ],
+   "group": "Thaumaturge Feats",
+   "prerequisites": "War sphere, forbidden lore class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Thaumaturge/Thaumaturge-Feats#totem-of-the-darkest-aberration",
+   "alsoOn": [],
+   "md": "**Prerequisites:** War sphere, forbidden lore class feature.\n\n**Benefit:** You must spend a spell point to create a totem of the darkest aberration. When an ally within this totem uses a sphere ability, you may use an immediate action to allow them to benefit from your forbidden lore class feature. If backlash occurs, it affects only you, but the ability still fails. A sphere ability can only benefit from forbidden lore once."
+  },
+  {
+   "id": "feat/totem-of-the-deepest-curse",
+   "name": "Totem Of The Deepest Curse",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [
+    "War"
+   ],
+   "group": "Thaumaturge Feats",
+   "prerequisites": "War sphere, forbidden lore class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Thaumaturge/Thaumaturge-Feats#totem-of-the-deepest-curse",
+   "alsoOn": [],
+   "md": "**Prerequisites:** War sphere, forbidden lore class feature.\n\n**Benefit:** You must spend 2 spell points to create a totem of the deepest curse. The area of this totem is desecrated with the aberrations you commune with. Enemies within this totem suffer the effects you currently suffer from due to any backlash you have accumulated."
   },
   {
    "id": "feat/localized-changes-dual-sphere",
@@ -25633,6 +26298,44 @@
    "url": "Spheres-Of-Power/Weather/Weather-Sphere-Feats#tornado-companion",
    "alsoOn": [],
    "md": "**Prerequisites:** Weather sphere; animal companion with an effective druid level of 7.\n\n**Benefit:** You can select a tornado to serve as your companion. You acquire and advance this creature in the same way as the companion detailed in the class feature used as a prerequisite for this feat. You can also dismiss the creature as dictated by your class feature.\n\n##### Tornado (companion)\n\n**Starting Statistics**\n**Size** Large, **Speed** fly 50 ft. (Good); **AC** +3 natural armor, **Attack** slam (1d4); **Str** 16, **Dex** 17, **Con** -, **Int** -, **Wis** 3, **Cha** 1; **Special Qualities** fluid, whirlwind (10-15 ft. high, 1d4+3 damage, DC 10 + 1/2 HD + Str modifier), construct immunities, darkvision 60 ft. **CMD** cannot be tripped\n\n**Fluid:** A tornado companion is unusually fluid; it may squeeze through tight spaces as if it were two sizes smaller than it actually is.\n\n**Mindless:** Tornado companions have no Intelligence score and possess the mindless trait. In spite of this, tornado companions may learn one trick, plus additional bonus tricks as noted on Table: Animal Companion Base Statistics (in the Pathfinder RPG Core Rulebook). Tornado companions have no skill points, but they gain feats as if they had an Intelligence score as noted on Table: Animal Companion Base Statistics.\n\n**Whirlwind:** A tornado companion is always in whirlwind form (see Pathfinder RPG Bestiary Appendix 3: Glossary)\n\n**Note:** As a construct, a tornado companion does not gain increased hit points from a high Constitution score, but instead gains 30 bonus hit points from its size. It has base attack bonus and saving throws as normal for an animal companion."
+  },
+  {
+   "id": "feat/wraith-feats/extra-wraith-haunt",
+   "name": "Extra Wraith Haunt",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Wraith Feats",
+   "prerequisites": "Wraith haunt class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Wraith/Wraith-Feats#extra-wraith-haunt",
+   "alsoOn": [],
+   "md": "**Prerequisite:** Wraith haunt class feature.\n\n**Benefit:** You gain an additional wraith haunt. You may take this feat multiple times. The effects stack."
+  },
+  {
+   "id": "feat/strengthened-possession",
+   "name": "Strengthened Possession",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Wraith Feats",
+   "prerequisites": "Possession class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Wraith/Wraith-Feats#strengthened-possession",
+   "alsoOn": [],
+   "md": "**Prerequisite:** Possession class feature.\n\n**Benefit:** You count your wraith level as 4 higher when determining the maximum CR of a creature you may possess, the save DC of your possession ability, and your effective wraith level for determining the effect of path abilities (though does not grant access to path abilities that have not yet been gained). This bonus cannot increase your effective wraith level above your Hit Dice."
   },
   {
    "id": "feat/adjust-parameters-gizmo",

@@ -149,18 +149,6 @@ At 20th level, a sentinel cannot die while she has an active challenge against a
 
 ---
 
-# Feats
-
-The following feats are especially helpful or appropriate for Sentinels.
-
-#### Protective Reserve
-
-**Prerequisites:** Sentinel’s reserve class feature.
-
-**Benefit:** Choose an (aegis) talent from the [[Protection]] sphere. You may create that aegis as a supernatural ability, but only on yourself, using points from your reserve in place of spell points. For the purpose of this aegis, your caster level is equal to your sentinel level, and your casting ability is the ability used to determine your reserve points. You may acquire this feat multiple times, choosing a different (aegis) talent each time.
-
----
-
 # Favored Class Bonuses
 
 **Aasimar:** Increase one energy resistance granted by your race by +1/3.

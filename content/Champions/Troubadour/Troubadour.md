@@ -572,17 +572,31 @@ While the hero may drive the story, the villain is the one who creates it. A sim
 
 ---
 
-# Class Feats
+# Favored Class Bonuses
 
-#### Tactical Change (Champion)
+**Aasimar:** Reduce spell failure chance by +1%.
 
-*Source: Expanded Spheres: Baron's Lost Apocrypha*
+**Alraun:** Increase the DC required to defeat the troubadour’s flexible truth class feature by +1/2.
 
-**Prerequisites:** Method Acting class feature, Quick Change class feature
+**Dwarf:** Add a +1/6th bonus to all saving throws when in the troubadour’s base persona.
 
-**Benefit:** Whenever you use quick change, you may dismiss an ongoing spell effect that you have created as part of the action to use quick change. If you do, you may create a new magic sphere effect as a swift action using the magic talents you have access to in your newly-assumed persona. The spell point cost of this new effect increases by 2 and cannot exceed the spell point cost of the original effect +2.
+**Elf:** Add a +1/2 bonus to all Knowledge checks.
 
-**Special:** You may select this feat a second time a troubadour level 7th and a third time a troubadour level 13th. For every additional time you take this feat, you may dispel an additional effect and create a new sphere effect as part of the same action.
+**Gnome:** Increase the DC required to defeat the troubadour’s flexible truth class feature by +1/2.
+
+**Goblin:** Add a +1/2 bonus to all Profession checks.
+
+**Halfling:** Add +1/2 on Bluff checks to pass secret messages, +1/2 on Diplomacy checks to gather information, and +1/2 on Disguise checks to appear as an elven, half-elven, or human child.
+
+**Hobgoblin:** Reduce the penalty for not being proficient with one weapon by 1. When the nonproficiency penalty for a weapon becomes 0 because of this ability, the troubadour is treated as having the appropriate Martial or Exotic Weapon Proficiency feat for that weapon.
+
+**Human:** One of the troubadour’s personas gains +1/6th of an extra persona quirk. If that persona is dismissed, choose a different persona to gain this extra persona quirk. An individual persona cannot possess more than one bonus persona quirk.
+
+**Orc:** Add a +1/2 bonus to Intimidate checks to influence targets that are a smaller size category than the troubadour.
+
+**Sidhier:** +1/8th to the bonus from lucky.
+
+**Tiefling:** Add a +1/2 bonus on Bluff checks to lie and a +1/2 bonus on Diplomacy checks to gather information.
 
 ---
 

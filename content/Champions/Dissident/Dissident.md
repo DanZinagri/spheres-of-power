@@ -764,17 +764,6 @@ While the dissident is balanced in her struggle, she can use her strife dedicati
 
 Also, the dissident can declare an isolated duel between an ally within 30 feet and an enemy that can see them.
 
----
-
-# Class Feats
-
-#### Extra Nuance
-
-**Prerequisite:** 5th-level dissident.
-
-**Benefit:** Gain an additional dissident nuance for which you qualify.
-
-**Special:** This feat may be taken a second time starting at 11th level and a third time starting at 17th level.
 
 ---
 

@@ -151,50 +151,22 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 </div>
 
-<div class="sop-columns" style="--cols: 4">
+<div class="sop-spheres sop-options">
 
-<div class="sop-col">
+**Character Options**
 
-**Magic Options**
-
-[[Alternate Racial Traits]]
-[[Casting Traditions]]
-[[Generation Traditions]]
-[[Origins]]
-[[Traits]]
-
-</div>
-
-<div class="sop-col">
-
-**Martial Options**
-
-[[Martial Traditions]]
-[[Practitioner FCB's]]
-
-[[Ultimate Engineering]]
-
-</div>
-
-<div class="sop-col">
-
-**Skill Options**
-
-[[Operative Gear]]
-[[Skill Rules]]
-[[Trade Traditions]]
-
-</div>
-
-<div class="sop-col">
-
-**Champion Options**
-
-[[Unified Traditions]]
-[[Champion FCBs]]
-[[Techniques]]
-
-</div>
+- [[Alternate Racial Traits]]
+- [[Casting Traditions]]
+- [[Generation Traditions]]
+- [[Martial Traditions]]
+- [[Operative Gear]]
+- [[Origins]]
+- [[Skill Rules]]
+- [[Techniques]]
+- [[Trade Traditions]]
+- [[Traits]]
+- [[Ultimate Engineering]]
+- [[Unified Traditions]]
 
 </div>
 
@@ -308,20 +280,20 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 <div class="sop-classes">
 
-| Class | Archetypes |
-| --- | --- |
-| **[[Armorist]]** | [[Blaster]], [[Bloodbinder]], [[Bonewright]], [[Collector]], [[Darkshaper]], [[Ferrous Emissary]], [[Inventioneer]], [[Lingchi Warrior]], [[Living Weapon]], [[Martial Armorist]], [[Soaring Blade]], [[Spirit Blade]], [[Symbiotic Knight]], [[Vajrahasta]], [[Void Wielder]],, [[Warleader]], [[Whitesmith]] |
-| **[[Elementalist]]** | [[Admixture Savant]], [[Arcanophage]], [[Arcanopulser]], [[Earth Warrior]], [[Electrokinetic]], [[Elemontalist]], [[Flame Warrior]], [[Geomancer]], [[Martial Elementalist]], [[Metal Warrior]], [[Natural Warrior]], [[Sablesavant (Elementalist Archetype)\|Sablesavant]], [[Soul Adept]], [[Tenebrous Stalker]], [[Twinsoul Elementalist]], [[Water Warrior]], [[Wind Warrior]] |
-| **[[Eliciter]]** | [[Bellwether]], [[Dark Presence]], [[Empathic Duelist]], [[Fright Wright]], [[Hypnotist]], [[Id]], [[Sympath]] |
-| **[[Fey Adept]]** | [[Auteur]], [[Dreamtwister]], [[Seelie Disciple]], [[Sidhe Invoker]], [[Skulk]], [[Solipsist]], [[Unseelie Disciple]], [[Word Witch]], [[Wunderkind]] |
-| **[[Hedgewitch]]** | [[Dendrite]], [[Dragonblooded Mortal]], [[Entropic Sage]], [[Guileful Hedgewitch]], [[Iron Mage]], [[Martial Hedgewitch]], [[Triple Goddess]] |
-| **[[Incanter]]** | [[Archmage]], [[Frostweaver]], [[Reincarnated Master]] |
-| **[[Mageknight]]** | [[Broadcast Blade]], [[Divine Lariat]], [[Doomblade]], [[Dragoon]], [[Dread Crusader]], [[Dustbringer]], [[Grim Disciple]], [[Herculean Scion]], [[Kinetic Scourge]], [[Knightknight]], [[Knight-Summoner]], [[Marshal Controller]], [[Martial Mageknight]], [[Plaguebringer]], [[Resizer]], [[Sun Warrior]], [[Utterdark Champion]], [[Wardmage]], [[Warrior Of Holy Light\|Warrior of Holy Light]] |
-| **[[Shifter]]** | [[Apex Shifter]], [[Beastlord]], [[Beastmind]], [[Champion Shifter (Shifter Archetype) (Champion)\|Champion Shifter]], [[Dimension Shifter]], [[Elemental Scion]], [[Famine Spirit]], [[Fey Incarnate]], [[Forceful Shifter]], [[Martial Shifter]], [[Night Terror (Shifter Archetype)\|Night Terror]], [[Nocturnal Predator]], [[Pack Master]], [[Paragon (Shifter)\|Paragon]], [[Protean]], [[Radiant Protean]], [[Spellvampire]], [[DRS Shifter Class Features]] |
-| **[[Soul Weaver]]** | [[Banshee]], [[Cycle Watcher]], [[Dual Channeler]], [[Ghost Sovereign]], [[Lichling]], [[Pharmakon]], [[Shaman]], [[Shepherd Of The Lost\|Shepherd of the Lost]], [[Totemist]] |
-| **[[Symbiat]]** | [[Battlemind]], [[Bloodscarred]], [[Cerebral Singer]], [[Champion Symbiat]], [[Chronomancer]], [[Egregore]], [[Gravecrawler]], [[Hekatonkheires]], [[Invidian]], [[Malefactor]], [[Mistwalker]], [[Operative]], [[Synapse]], [[Telekinetic Warrior]], [[Vector]], [[Warmonger]] |
-| **[[Thaumaturge]]** | [[Devourer]], [[Ebonmage (Thaumaturge Archetype)\|Ebonmage]], [[Eldritch Cultist]], [[Experimentalist]], [[Genius]], [[Knight Of Willpower\|Knight of Willpower]], [[Martial Thaumaturge]], [[Pact Master]], [[Pactmage]], [[Savant (Class Version)\|Savant]], [[Soulfire Master]], [[Unseen Horror]], [[Void Gazer]], [[Wild Mage]], [[DRS Thaumaturge Class Features]] |
-| **[[Wraith]]** | [[Baobhan Sith]], [[Collective]], [[Draugr]], [[Matagot]], [[Mistshade]], [[Swarmheart]], [[Unbodied]] |
+| Class | Archetypes | Class Options |
+| --- | --- | --- |
+| **[[Armorist]]** | [[Blaster]], [[Bloodbinder]], [[Bonewright]], [[Collector]], [[Darkshaper]], [[Ferrous Emissary]], [[Inventioneer]], [[Lingchi Warrior]], [[Living Weapon]], [[Martial Armorist]], [[Soaring Blade]], [[Spirit Blade]], [[Symbiotic Knight]], [[Vajrahasta]], [[Void Wielder]],, [[Warleader]], [[Whitesmith]] | [[Armorist Feats\|Feats]] |
+| **[[Elementalist]]** | [[Admixture Savant]], [[Arcanophage]], [[Arcanopulser]], [[Earth Warrior]], [[Electrokinetic]], [[Elemontalist]], [[Flame Warrior]], [[Geomancer]], [[Martial Elementalist]], [[Metal Warrior]], [[Natural Warrior]], [[Sablesavant (Elementalist Archetype)\|Sablesavant]], [[Soul Adept]], [[Tenebrous Stalker]], [[Twinsoul Elementalist]], [[Water Warrior]], [[Wind Warrior]] | [[Elementalist Feats\|Feats]] |
+| **[[Eliciter]]** | [[Bellwether]], [[Dark Presence]], [[Empathic Duelist]], [[Fright Wright]], [[Hypnotist]], [[Id]], [[Sympath]] | [[Eliciter Feats\|Feats]] |
+| **[[Fey Adept]]** | [[Auteur]], [[Dreamtwister]], [[Seelie Disciple]], [[Sidhe Invoker]], [[Skulk]], [[Solipsist]], [[Unseelie Disciple]], [[Word Witch]], [[Wunderkind]] | [[Fey Adept Feats\|Feats]] |
+| **[[Hedgewitch]]** | [[Dendrite]], [[Dragonblooded Mortal]], [[Entropic Sage]], [[Guileful Hedgewitch]], [[Iron Mage]], [[Martial Hedgewitch]], [[Triple Goddess]] | [[Hedgewitch Feats\|Feats]] |
+| **[[Incanter]]** | [[Archmage]], [[Frostweaver]], [[Reincarnated Master]] | [[Incanter Feats\|Feats]] |
+| **[[Mageknight]]** | [[Broadcast Blade]], [[Divine Lariat]], [[Doomblade]], [[Dragoon]], [[Dread Crusader]], [[Dustbringer]], [[Grim Disciple]], [[Herculean Scion]], [[Kinetic Scourge]], [[Knightknight]], [[Knight-Summoner]], [[Marshal Controller]], [[Martial Mageknight]], [[Plaguebringer]], [[Resizer]], [[Sun Warrior]], [[Utterdark Champion]], [[Wardmage]], [[Warrior Of Holy Light\|Warrior of Holy Light]] | [[Mageknight Feats\|Feats]] |
+| **[[Shifter]]** | [[Apex Shifter]], [[Beastlord]], [[Beastmind]], [[Champion Shifter (Shifter Archetype) (Champion)\|Champion Shifter]], [[Dimension Shifter]], [[Elemental Scion]], [[Famine Spirit]], [[Fey Incarnate]], [[Forceful Shifter]], [[Martial Shifter]], [[Night Terror (Shifter Archetype)\|Night Terror]], [[Nocturnal Predator]], [[Pack Master]], [[Paragon (Shifter)\|Paragon]], [[Protean]], [[Radiant Protean]], [[Spellvampire]], [[DRS Shifter Class Features]] | [[Shifter Feats\|Feats]] |
+| **[[Soul Weaver]]** | [[Banshee]], [[Cycle Watcher]], [[Dual Channeler]], [[Ghost Sovereign]], [[Lichling]], [[Pharmakon]], [[Shaman]], [[Shepherd Of The Lost\|Shepherd of the Lost]], [[Totemist]] | [[Soul Weaver Feats\|Feats]] |
+| **[[Symbiat]]** | [[Battlemind]], [[Bloodscarred]], [[Cerebral Singer]], [[Champion Symbiat]], [[Chronomancer]], [[Egregore]], [[Gravecrawler]], [[Hekatonkheires]], [[Invidian]], [[Malefactor]], [[Mistwalker]], [[Operative]], [[Synapse]], [[Telekinetic Warrior]], [[Vector]], [[Warmonger]] | [[Symbiat Feats\|Feats]] |
+| **[[Thaumaturge]]** | [[Devourer]], [[Ebonmage (Thaumaturge Archetype)\|Ebonmage]], [[Eldritch Cultist]], [[Experimentalist]], [[Genius]], [[Knight Of Willpower\|Knight of Willpower]], [[Martial Thaumaturge]], [[Pact Master]], [[Pactmage]], [[Savant (Class Version)\|Savant]], [[Soulfire Master]], [[Unseen Horror]], [[Void Gazer]], [[Wild Mage]], [[DRS Thaumaturge Class Features]] | [[Thaumaturge Feats\|Feats]] |
+| **[[Wraith]]** | [[Baobhan Sith]], [[Collective]], [[Draugr]], [[Matagot]], [[Mistshade]], [[Swarmheart]], [[Unbodied]] | [[Wraith Feats\|Feats]] |
 
 </div>
 
@@ -335,17 +307,17 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 <div class="sop-classes">
 
-| Class | Archetypes |
-| --- | --- |
-| **[[Armiger]]** | [[Antiquarian]], [[Awakener]], [[Battlefield Tinker]], [[Bladewalker]], [[Bounty Hunter]], [[Machinehead]], [[Stancemaster]], [[Tag Fighter]], [[Taskmaster]] |
-| **[[Blacksmith]]** | [[Artificer]], [[Barista]], [[Disciple Of Goibniu\|Disciple of Goibniu]], [[Essence Smith]], [[Fleshforger]], [[Iron Chef]], [[Master-At-Arms]], [[Peltmonger]], [[Spellforge]], [[Techsmith]] |
-| **[[Commander]]** | [[Administrator]], [[Battlesinger]], [[Bearon (Commander Archetype)\|Bearon]], [[Courtly Tactician]], [[Dreadlord]], [[Feylord]], [[Marshal]], [[Noble]], [[Roaming General]], [[Sea Captain]], [[Sworn Officer]], [[Visionary General]] |
-| **[[Conscript]]** | — |
-| **[[Savant (Class Version)\|Savant]]** | — |
-| **[[Scholar]]** | [[Astrologian]], [[Caller]], [[Doctor]], [[Engineer]], [[Fell Archaeologist]], [[Harmacist]], [[Slime Savant]], [[Stitcher]], [[Surveyor]] |
-| **[[Sentinel]]** | [[Adamant Guardian]], [[Darkness Defender]], [[Darkthrone (Sentinel Archetype) (Champion)\|Darkthrone]], [[Dimensional Defender]], [[Garrison]], [[Iron Revenant]], [[Laughing Hyena]], [[Paragon]] |
-| **[[Striker]]** | [[Barfighter]], [[Black Powder Brawler]], [[Chaos Shifter]], [[Elemental Fist]], [[Shadowed Fist]], [[Skirmishing Scout]], [[Strong Style Grappler]], [[Voidrusher]] |
-| **[[Technician]]** | [[Adamantine Scientist]], [[Innovator]], [[Mad Scientist]], [[Mythbreaker]], [[Rigger]], [[Suit Pilots]] |
+| Class | Archetypes | Class Options |
+| --- | --- | --- |
+| **[[Armiger]]** | [[Antiquarian]], [[Awakener]], [[Battlefield Tinker]], [[Bladewalker]], [[Bounty Hunter]], [[Machinehead]], [[Stancemaster]], [[Tag Fighter]], [[Taskmaster]] | — |
+| **[[Blacksmith]]** | [[Artificer]], [[Barista]], [[Disciple Of Goibniu\|Disciple of Goibniu]], [[Essence Smith]], [[Fleshforger]], [[Iron Chef]], [[Master-At-Arms]], [[Peltmonger]], [[Spellforge]], [[Techsmith]] | — |
+| **[[Commander]]** | [[Administrator]], [[Battlesinger]], [[Bearon (Commander Archetype)\|Bearon]], [[Courtly Tactician]], [[Dreadlord]], [[Feylord]], [[Marshal]], [[Noble]], [[Roaming General]], [[Sea Captain]], [[Sworn Officer]], [[Visionary General]] | — |
+| **[[Conscript]]** | — | [[Conscript Feats\|Feats]] |
+| **[[Savant (Class Version)\|Savant]]** | — | [[Savant Feats\|Feats]] |
+| **[[Scholar]]** | [[Astrologian]], [[Caller]], [[Doctor]], [[Engineer]], [[Fell Archaeologist]], [[Harmacist]], [[Slime Savant]], [[Stitcher]], [[Surveyor]] | — |
+| **[[Sentinel]]** | [[Adamant Guardian]], [[Darkness Defender]], [[Darkthrone (Sentinel Archetype) (Champion)\|Darkthrone]], [[Dimensional Defender]], [[Garrison]], [[Iron Revenant]], [[Laughing Hyena]], [[Paragon]] | [[Sentinel Feats\|Feats]] |
+| **[[Striker]]** | [[Barfighter]], [[Black Powder Brawler]], [[Chaos Shifter]], [[Elemental Fist]], [[Shadowed Fist]], [[Skirmishing Scout]], [[Strong Style Grappler]], [[Voidrusher]] | — |
+| **[[Technician]]** | [[Adamantine Scientist]], [[Innovator]], [[Mad Scientist]], [[Mythbreaker]], [[Rigger]], [[Suit Pilots]] | — |
 
 </div>
 
@@ -359,16 +331,16 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 <div class="sop-classes">
 
-| Class | Archetypes |
-| --- | --- |
-| **[[Agent]]** | [[Blackpowder Slayer]], [[Erudite Pugilist]], [[Imposter]], [[Superstar Spy]] |
-| **[[Courser]]** | [[Gourmand]], [[Nomad]], [[Ravener]], [[Survivor]], [[Venator]], [[Wildspeaker]] |
-| **[[Envoy]]** | [[Aristarch]], [[Beguiler]], [[Idol]], [[Luminary]], [[Officer]] |
-| **[[Genius]]** | — |
-| **[[Mastermind]]** | [[Ambuscader]], [[Consigliere]], [[Malfeasant]], [[Saboteur]], [[Squad Operator]] |
-| **[[Professional]]** | [[Trader]] |
-| **[[Advisor]]** | [[Captain]], [[Caretaker]], [[Dramaturge]], [[Philosopher]], [[Regent]] |
-| **[[Conduit]]** | [[Runescriber]], [[Interdictor]] |
+| Class | Archetypes | Class Options |
+| --- | --- | --- |
+| **[[Agent]]** | [[Blackpowder Slayer]], [[Erudite Pugilist]], [[Imposter]], [[Superstar Spy]] | — |
+| **[[Courser]]** | [[Gourmand]], [[Nomad]], [[Ravener]], [[Survivor]], [[Venator]], [[Wildspeaker]] | — |
+| **[[Envoy]]** | [[Aristarch]], [[Beguiler]], [[Idol]], [[Luminary]], [[Officer]] | — |
+| **[[Genius]]** | — | — |
+| **[[Mastermind]]** | [[Ambuscader]], [[Consigliere]], [[Malfeasant]], [[Saboteur]], [[Squad Operator]] | — |
+| **[[Professional]]** | [[Trader]] | [[Professional Feats\|Feats]] |
+| **[[Advisor]]** | [[Captain]], [[Caretaker]], [[Dramaturge]], [[Philosopher]], [[Regent]] | — |
+| **[[Conduit]]** | [[Runescriber]], [[Interdictor]] | — |
 
 </div>
 
@@ -382,16 +354,16 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 <div class="sop-classes">
 
-| Class | Archetypes |
-| --- | --- |
-| **[[Bravo]]** | [[Daredevil]], [[Dreadnought]], [[Quicksilver]], [[Smasher]], [[Tracer]] |
-| **[[Crimson Dancer]]** | [[Crimson Tempest]], [[Primeval]] |
-| **[[Dissident]]** | [[Symbiont]] |
-| **[[Prodigy]]** | [[Battle-Born]], [[Chromamancer]], [[Exploitant]], [[Extemporizer]], [[Gutter Rat]], [[Mimic]], [[Sync (Prodigy Archetype)\|Sync]], [[Void Dancer]], [[Prodigy Class Features (DRS)\|DRS Prodigy Class Features]] |
-| **[[Sage]]** | [[Battleshifter]], [[Confluence]], [[Resolute]], [[Votary]], [[Wand Master]] |
-| **[[Theorist]]** | [[Sophist]] |
-| **[[Troubadour]]** | [[Binder]], [[Clone]], [[Method Actor]], [[Ringmaster]] |
-| **[[Warden (warden-class)\|Warden]]** | [[Custodian]], [[Empathetic Guardian]], [[Jailer]], [[Keeper]] |
+| Class | Archetypes | Class Options |
+| --- | --- | --- |
+| **[[Bravo]]** | [[Daredevil]], [[Dreadnought]], [[Quicksilver]], [[Smasher]], [[Tracer]] | [[Bravo Feats\|Feats]] |
+| **[[Crimson Dancer]]** | [[Crimson Tempest]], [[Primeval]] | — |
+| **[[Dissident]]** | [[Symbiont]] | [[Dissident Feats\|Feats]] |
+| **[[Prodigy]]** | [[Battle-Born]], [[Chromamancer]], [[Exploitant]], [[Extemporizer]], [[Gutter Rat]], [[Mimic]], [[Sync (Prodigy Archetype)\|Sync]], [[Void Dancer]], [[Prodigy Class Features (DRS)\|DRS Prodigy Class Features]] | — |
+| **[[Sage]]** | [[Battleshifter]], [[Confluence]], [[Resolute]], [[Votary]], [[Wand Master]] | — |
+| **[[Theorist]]** | [[Sophist]] | [[Theorist Feats\|Feats]] |
+| **[[Troubadour]]** | [[Binder]], [[Clone]], [[Method Actor]], [[Ringmaster]] | [[Troubadour Feats\|Feats]] |
+| **[[Warden (warden-class)\|Warden]]** | [[Custodian]], [[Empathetic Guardian]], [[Jailer]], [[Keeper]] | [[Warden Feats\|Feats]] |
 
 </div>
 

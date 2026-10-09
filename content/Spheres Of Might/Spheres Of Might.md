@@ -51,7 +51,6 @@ Spheres of Might is a unique martial system created by Drop Dead Studios for use
 - [[Martial Traditions]]
 - [[Practitioner Feats]]
 - [[Traits]]
-- [[Practitioner FCB's]]
 
 ---
 

@@ -54,7 +54,7 @@ The original (pre-*Ultimate*) versions of Spheres of Power pages, as they appear
 - [[Surreal Feats (Original)|Surreal Feats]]
 - [[Teamwork Feats (Original)|Teamwork Feats]]
 
-**Magic Options**
+**Character Options**
 
 - [[Alternate Racial Traits (Original)|Alternate Racial Traits]]
 - [[Casting Traditions (Original)|Casting Traditions]]

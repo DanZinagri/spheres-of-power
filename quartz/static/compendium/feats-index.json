@@ -208,8 +208,8 @@
   ],
   "spheres": [],
   "prerequisites": "Incredible stunt class feature.",
-  "source": "Diamond Spheres: Hustle & Bustle",
-  "url": "Champions/Bravo/Bravo#awesome-stunt-combat",
+  "source": "Legends of the Spheres",
+  "url": "Champions/Bravo/Bravo-Feats#awesome-stunt-combat",
   "summary": "Whenever you use an incredible stunt, its effects last for an additional round.",
   "file": "feats.json"
  },
@@ -223,7 +223,7 @@
   "spheres": [],
   "prerequisites": "Cunning celerity class feature.",
   "source": "Diamond Spheres: Hustle & Bustle",
-  "url": "Champions/Bravo/Bravo#cunning-accuracy-combat",
+  "url": "Champions/Bravo/Bravo-Feats#cunning-accuracy-combat",
   "summary": "Whenever an attack you attempt is subject to a miss chance, you can expend an attack of opportunity and reduce your dodge pool in increments of 5% to reduce…",
   "file": "feats.json"
  },
@@ -236,8 +236,8 @@
   ],
   "spheres": [],
   "prerequisites": "5th-level dissident.",
-  "source": "Diamond Spheres: Harmony & Discord",
-  "url": "Champions/Dissident/Dissident#extra-nuance",
+  "source": "Legends of the Spheres",
+  "url": "Champions/Dissident/Dissident-Feats#extra-nuance",
   "summary": "Gain an additional dissident nuance for which you qualify.",
   "file": "feats.json"
  },
@@ -250,8 +250,8 @@
   ],
   "spheres": [],
   "prerequisites": "Model class feature or Theoretical Initiate.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
-  "url": "Champions/Theorist/Theorist#extra-model",
+  "source": "Legends of the Spheres",
+  "url": "Champions/Theorist/Theorist-Feats#extra-model",
   "summary": "You gain an additional theorist model which you can use with your hypothesis dice.",
   "file": "feats.json"
  },
@@ -264,8 +264,8 @@
   ],
   "spheres": [],
   "prerequisites": "Method Acting class feature, Quick Change class feature",
-  "source": "Diamond Spheres: Hustle & Bustle",
-  "url": "Champions/Troubadour/Troubadour#tactical-change-champion",
+  "source": "Champions of the Spheres",
+  "url": "Champions/Troubadour/Troubadour-Feats#tactical-change-champion",
   "summary": "Whenever you use quick change, you may dismiss an ongoing spell effect that you have created as part of the action to use quick change.",
   "file": "feats.json"
  },
@@ -279,7 +279,7 @@
   "spheres": [],
   "prerequisites": "Basic Magic Training or casting class feature.",
   "source": "The Warden",
-  "url": "Champions/Warden-(warden-class)/Warden-(warden-class)#extra-magic-talent",
+  "url": "Champions/Warden-(warden-class)/Warden-Feats#extra-magic-talent",
   "summary": "Gain an additional sphere or a talent from a sphere you possess.",
   "file": "feats.json"
  },
@@ -293,7 +293,7 @@
   "spheres": [],
   "prerequisites": "Warden 5.",
   "source": "The Warden",
-  "url": "Champions/Warden-(warden-class)/Warden-(warden-class)#extra-reinforcement",
+  "url": "Champions/Warden-(warden-class)/Warden-Feats#extra-reinforcement",
   "summary": "Gain a reinforcement that you qualify for.",
   "file": "feats.json"
  },
@@ -307,7 +307,7 @@
   "spheres": [],
   "prerequisites": "Spell pool.",
   "source": "The Warden",
-  "url": "Champions/Warden-(warden-class)/Warden-(warden-class)#extra-spell-points",
+  "url": "Champions/Warden-(warden-class)/Warden-Feats#extra-spell-points",
   "summary": "Your spell pool total increases by 2.",
   "file": "feats.json"
  },
@@ -323,7 +323,7 @@
   ],
   "prerequisites": "Mind sphere.",
   "source": "The Warden",
-  "url": "Champions/Warden-(warden-class)/Warden-(warden-class)#minor-charm-specialist",
+  "url": "Champions/Warden-(warden-class)/Warden-Feats#minor-charm-specialist",
   "summary": "You may target an individual creature with a lesser charm an additional amount of times per day equal to your casting ability modifier (minimum 1).",
   "file": "feats.json"
  },
@@ -337,7 +337,7 @@
   "spheres": [],
   "prerequisites": "Casting class feature.",
   "source": "The Warden",
-  "url": "Champions/Warden-(warden-class)/Warden-(warden-class)#sphere-focus",
+  "url": "Champions/Warden-(warden-class)/Warden-Feats#sphere-focus",
   "summary": "Choose a sphere.",
   "file": "feats.json"
  },
@@ -2710,8 +2710,8 @@
   ],
   "spheres": [],
   "prerequisites": "Sphere Specialization or Professional Method class feature",
-  "source": "Diamond Spheres: Hustle & Bustle",
-  "url": "Professional/Professional#hybridized-specialty",
+  "source": "Spheres of Guile",
+  "url": "Professional/Professional-Feats#hybridized-specialty",
   "summary": "Choose a single sphere you possess.",
   "file": "feats.json"
  },
@@ -4587,7 +4587,7 @@
   "spheres": [],
   "prerequisites": "Forbidden Lore or Strain class feature",
   "source": "Spheres of Might",
-  "url": "Spheres-Of-Might/Savant-(Class-Version)#moderated-invocation",
+  "url": "Spheres-Of-Might/Savant-(Class-Version)/Savant-Feats#moderated-invocation",
   "summary": "When you use Forbidden Lore or strain, you may choose to gain a smaller bonus than normal from these class features, to a minimum of +1 to caster level or base…",
   "file": "feats.json"
  },
@@ -4601,7 +4601,7 @@
   "spheres": [],
   "prerequisites": "Sentinel’s reserve class feature.",
   "source": "Spheres of Might",
-  "url": "Spheres-Of-Might/Sentinel/Sentinel#protective-reserve",
+  "url": "Spheres-Of-Might/Sentinel/Sentinel-Feats#protective-reserve",
   "summary": "Choose an (aegis) talent from the Protection sphere.",
   "file": "feats.json"
  },
@@ -5142,6 +5142,20 @@
   "source": "",
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#wound-manipulator-dual-sphere",
   "summary": "When you shapeshift a creature, you may spend a spell point as a free action to allow them to regain one hit point for every Hit Die they possess.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/extra-arsenal-trick",
+  "name": "Extra Arsenal Trick",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Arsenal trick class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Armorist/Armorist-Feats#extra-arsenal-trick",
+  "summary": "Gain an arsenal trick for which you meet the prerequisites.",
   "file": "feats.json"
  },
  {
@@ -7887,6 +7901,152 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/improved-favored-element",
+  "name": "Improved Favored Element",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Two favored elements.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Elementalist/Elementalist-Feats#improved-favored-element",
+  "summary": "Your second and third favored elements receive the same damage bonus as your first favored element.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/dynopathy",
+  "name": "Dynopathy",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Mind"
+  ],
+  "prerequisites": "Mind sphere, emotion class feature, caster level 5th.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Eliciter/Eliciter-Feats#dynopathy",
+  "summary": "You may fuel raw magical energy from your spell pool and into your emotion class feature.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/elicit-strike-combat",
+  "name": "Elicit Strike",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Emotion class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Eliciter/Eliciter-Feats#elicit-strike-combat",
+  "summary": "If you make a successful melee attack against an opponent, in addition to dealing your weapon damage, you can spend a swift action to deliver the effects of an…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/emotional-conduit",
+  "name": "Emotional Conduit",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Leadership"
+  ],
+  "prerequisites": "Leadership sphere, (cohort) package, emotion class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Eliciter/Eliciter-Feats#emotional-conduit",
+  "summary": "Prerequisites: Leadership sphere, (cohort) package, emotion class feature.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/extra-emotion",
+  "name": "Extra Emotion",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Emotion class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Eliciter/Eliciter-Feats#extra-emotion",
+  "summary": "Gain the minor power of a new emotion or the next level of an emotion you already possess.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/greater-hypnosis",
+  "name": "Greater Hypnosis",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Hypnotism class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Eliciter/Eliciter-Feats#greater-hypnosis",
+  "summary": "The range at which you may affect targets with your hypnotism increases to medium range.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/impassion",
+  "name": "Impassion",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "War"
+  ],
+  "prerequisites": "War sphere, emotion class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Eliciter/Eliciter-Feats#impassion",
+  "summary": "You may spend a spell point to rally an ally with any emotion from your emotion class feature that targets a single creature.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/soul-piercing-gaze",
+  "name": "Soul-Piercing Gaze",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Emotion class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Eliciter/Eliciter-Feats#soul-piercing-gaze",
+  "summary": "As a standard action, you may attempt to make eye contact with all enemies within close range.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/synchronicity",
+  "name": "Synchronicity",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Emotion class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Eliciter/Eliciter-Feats#synchronicity",
+  "summary": "You may enhance an emotion power that has a range of touch and a single target to extend the range to 30 feet and the maximum number of targets to be equal to…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/trance",
+  "name": "Trance",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Emotion class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Eliciter/Eliciter-Feats#trance",
+  "summary": "You may apply any emotion power with ‘touch’ in the name to yourself as a move action instead of a standard action.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/addictive-power-drawback",
   "name": "Addictive Power",
   "system": "Spheres of Power",
@@ -10601,20 +10761,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/elicit-strike-combat",
-  "name": "Elicit Strike",
-  "system": "Spheres of Power",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [],
-  "prerequisites": "Emotion class feature.",
-  "source": "Ultimate Spheres of Power",
-  "url": "Spheres-Of-Power/Feats/Combat-Feats#elicit-strike-combat",
-  "summary": "If you make a successful melee attack against an opponent, in addition to dealing your weapon damage, you can spend a swift action to deliver the effects of an…",
-  "file": "feats.json"
- },
- {
   "id": "feat/combat-feats/energy-snake-combat",
   "name": "Energy Snake",
   "system": "Spheres of Power",
@@ -12299,20 +12445,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/extra-arsenal-trick",
-  "name": "Extra Arsenal Trick",
-  "system": "Spheres of Power",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Arsenal trick class feature.",
-  "source": "Ultimate Spheres of Power",
-  "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-arsenal-trick",
-  "summary": "Gain an arsenal trick for which you meet the prerequisites.",
-  "file": "feats.json"
- },
- {
   "id": "feat/extra-bestial-trait",
   "name": "Extra Bestial Trait",
   "system": "Spheres of Power",
@@ -12366,20 +12498,6 @@
   "source": "Ultimate Spheres of Power",
   "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-electrokinetic-stunt",
   "summary": "You gain an additional electrokinetic stunt for which you qualify.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-emotion",
-  "name": "Extra Emotion",
-  "system": "Spheres of Power",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Emotion class feature.",
-  "source": "Ultimate Spheres of Power",
-  "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-emotion",
-  "summary": "Gain the minor power of a new emotion or the next level of an emotion you already possess.",
   "file": "feats.json"
  },
  {
@@ -16577,6 +16695,50 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/psychosomatic-healing",
+  "name": "Psychosomatic Healing",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Create reality class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Fey-Adept/Fey-Adept-Feats#psychosomatic-healing",
+  "summary": "You may create an illusion around a creature that gives the appearance and feeling that the creature is in good health.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/shrouding-aegis",
+  "name": "Shrouding Aegis",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Protection"
+  ],
+  "prerequisites": "Protection sphere, shadowstuff class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Fey-Adept/Fey-Adept-Feats#shrouding-aegis",
+  "summary": "You may spend a point of shadowstuff to create a shrouding aegis.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/fey-adept-feats/violent-shadow-surreal",
+  "name": "Violent Shadow",
+  "system": "Spheres of Power",
+  "types": [
+   "Surreal"
+  ],
+  "spheres": [],
+  "prerequisites": "Shadowmark 3d6, shadow pool.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Fey-Adept/Fey-Adept-Feats#violent-shadow-surreal",
+  "summary": "You may spend a shadow point as a full-round action to make a single attack with your shadowmark.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/asymmetrical-warfare-dual-sphere",
   "name": "Asymmetrical Warfare",
   "system": "Spheres of Power",
@@ -17383,6 +17545,20 @@
   "source": "Polished Dark",
   "url": "Spheres-Of-Power/Light/Light-Sphere-Feats#wave-particle-duality-dual-sphere",
   "summary": "The light from your bright light becomes a spread rather than an emanation allowing it to move around corners and through tight spaces and small holes as if it…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/mageknight-feats/improved-spell-combat-combat",
+  "name": "Improved Spell Combat",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Casting class feature; any talent with the strike descriptor.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Mageknight/Mageknight-Feats#improved-spell-combat-combat",
+  "summary": "When activating a magic sphere talent with the strike descriptor, you may spend a spell point to instead use the sphere effect in conjunction with making a…",
   "file": "feats.json"
  },
  {
@@ -18198,6 +18374,124 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/ensouled-totem",
+  "name": "Ensouled Totem",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "War"
+  ],
+  "prerequisites": "War sphere, bound nexus class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Soul-Weaver/Soul-Weaver-Feats#ensouled-totem",
+  "summary": "You may expend a soul from your bound nexus to create a bound totemic soul.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/soul-weaver-feats/weaponized-anathema-anathema",
+  "name": "Weaponized Anathema",
+  "system": "Spheres of Power",
+  "types": [
+   "Anathema"
+  ],
+  "spheres": [],
+  "prerequisites": "Anathema.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Soul-Weaver/Soul-Weaver-Feats#weaponized-anathema-anathema",
+  "summary": "Once per round, when you hit with a weapon attack, you may deliver your anathema through the attack as a free action.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/lingering-link",
+  "name": "Lingering Link",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Psionics class feature, mind link psionic effect.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Symbiat/Symbiat-Feats#lingering-link",
+  "summary": "When affecting targets with your mind link psionic effect, you only need to spend 1 round of psionic power per minute the effect is maintained, rather than…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/lingering-psionics",
+  "name": "Lingering Psionics",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Psionics class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Symbiat/Symbiat-Feats#lingering-psionics",
+  "summary": "The bonuses and penalties from your psionics continue for 2 rounds after you cease using it.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/mind-opener",
+  "name": "Mind Opener",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Psionics class feature, battlefield relay psionic effect.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Symbiat/Symbiat-Feats#mind-opener",
+  "summary": "Increase the save DC of your battlefield relay psionic effect by +2.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/perceptive-psionics",
+  "name": "Perceptive Psionics",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Perception 7 ranks, Sense Motive 7 ranks, psionics class feature, battlefield relay psionic effect.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Symbiat/Symbiat-Feats#perceptive-psionics",
+  "summary": "You may read a target’s subtle movements, even if you cannot read their mind.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/psionic-vigilance",
+  "name": "Psionic Vigilance",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "War"
+  ],
+  "prerequisites": "War sphere, psionics class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Symbiat/Symbiat-Feats#psionic-vigilance",
+  "summary": "You may rally allies who are currently under the effects of your psionics.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/psionic-vitality",
+  "name": "Psionic Vitality",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Life"
+  ],
+  "prerequisites": "Life sphere, psionics class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Symbiat/Symbiat-Feats#psionic-vitality",
+  "summary": "Whenever you expend a round of your psionics, you or an ally of your choice that is affected by your psionics regains 1d6 hit points.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/extradimensional-assembly",
   "name": "Extradimensional Assembly",
   "system": "Spheres of Power",
@@ -18277,6 +18571,130 @@
   "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
   "url": "Spheres-Of-Power/Telekinesis/Telekinesis-Sphere-Feats#tactile-illusion-dual-sphere",
   "summary": "By weaving your illusions together with a hint of telekinetic force you can allow them to exert force more appropriate to their apparent nature.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/forbidden-totem",
+  "name": "Forbidden Totem",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "War"
+  ],
+  "prerequisites": "War sphere, forbidden lore class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Thaumaturge/Thaumaturge-Feats#forbidden-totem",
+  "summary": "Whenever you successfully use forbidden lore with a totem, all allies within the totem receive a morale bonus equal to your base forbidden lore bonus to one of…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/master-artisan",
+  "name": "Master Artisan",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Forbidden lore class feature, any item creation feat.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Thaumaturge/Thaumaturge-Feats#master-artisan",
+  "summary": "Choose one item creation feat that you possess.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/master-of-cosmos",
+  "name": "Master Of Cosmos",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Conjuration"
+  ],
+  "prerequisites": "Conjuration sphere, forbidden lore class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Thaumaturge/Thaumaturge-Feats#master-of-cosmos",
+  "summary": "Your companions gain a circumstance bonus to attack rolls and skill checks equal to your forbidden lore bonus.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/master-of-death",
+  "name": "Master Of Death",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Death"
+  ],
+  "prerequisites": "Death sphere, forbidden lore class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Thaumaturge/Thaumaturge-Feats#master-of-death",
+  "summary": "Add your forbidden lore bonus to your caster level when determining the number and power of undead creatures you may control at any one time through the Death…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/master-of-faerie",
+  "name": "Master Of Faerie",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Fallen Fey"
+  ],
+  "prerequisites": "Fallen Fey sphere (Summon Fairy (fey-blessing)), forbidden lore class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Thaumaturge/Thaumaturge-Feats#master-of-faerie",
+  "summary": "Add your forbidden lore bonus to your caster level when determining the total Hit Dice of fey creatures you may have summoned at one time.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/occult-savant",
+  "name": "Occult Savant",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Spellcraft 10 ranks, Use Magic Device 10 ranks or any Knowledge skill 10 ranks; occult knowledge class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Thaumaturge/Thaumaturge-Feats#occult-savant",
+  "summary": "You may take 10 with any Knowledge, Spellcraft, or Use Magic Device check, regardless of stress or other situations where taking 10 would otherwise be…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/totem-of-the-darkest-aberration",
+  "name": "Totem Of The Darkest Aberration",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "War"
+  ],
+  "prerequisites": "War sphere, forbidden lore class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Thaumaturge/Thaumaturge-Feats#totem-of-the-darkest-aberration",
+  "summary": "You must spend a spell point to create a totem of the darkest aberration.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/totem-of-the-deepest-curse",
+  "name": "Totem Of The Deepest Curse",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "War"
+  ],
+  "prerequisites": "War sphere, forbidden lore class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Thaumaturge/Thaumaturge-Feats#totem-of-the-deepest-curse",
+  "summary": "You must spend 2 spell points to create a totem of the deepest curse.",
   "file": "feats.json"
  },
  {
@@ -18847,6 +19265,34 @@
   "source": "",
   "url": "Spheres-Of-Power/Weather/Weather-Sphere-Feats#tornado-companion",
   "summary": "You can select a tornado to serve as your companion.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/wraith-feats/extra-wraith-haunt",
+  "name": "Extra Wraith Haunt",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Wraith haunt class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Wraith/Wraith-Feats#extra-wraith-haunt",
+  "summary": "You gain an additional wraith haunt.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/strengthened-possession",
+  "name": "Strengthened Possession",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Possession class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Wraith/Wraith-Feats#strengthened-possession",
+  "summary": "You count your wraith level as 4 higher when determining the maximum CR of a creature you may possess, the save DC of your possession ability, and your…",
   "file": "feats.json"
  },
  {

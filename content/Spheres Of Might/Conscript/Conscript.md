@@ -648,22 +648,6 @@ This effect lasts until the snake's head is killed or surrenders, the encounter 
 
 ---
 
-# Conscript Feats
-
-The following feats are particularly appropriate or useful for conscripts
-
-#### Hybridized Specialty
-
-*Source: Baron’s Glorious Arena*
-
-**Prerequisites:** Sphere Specialization or Professional Method class feature
-
-**Benefits:** Choose a single sphere you possess. You may exchange any abilities from your sphere specialization or professional method for abilities corresponding to the chosen sphere (or any of its sub-specializations) which would be gained at the corresponding level. For example, if you have the warp sphere specialization and select destruction with hybridized specialty, you could exchange shift for intense magic, dimensional lord for penetrating blast, and/or warp mastery for indestructible.
-
-**Special:** You may select this feat multiple times, each time selecting a different sphere.
-
----
-
 # Class Equipment
 
 The following magical item is especially appropriate for conscripts.

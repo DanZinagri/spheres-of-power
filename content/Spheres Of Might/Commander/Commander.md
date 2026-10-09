@@ -621,6 +621,30 @@ A commander of any race can choose from the following alternate favored class bo
 - Gain +1/8 of a battlefield specialty.
 - Your lingering commands lasts +1/4 additional rounds.
 
+**Aasimar:** Gain +1/2 bonus to Diplomacy checks made to improve a creature’s attitude.
+
+**Alraun:** +1/5 racial bonus to the Diplomacy skill.
+
+**Cecaelia:** +1/4 ranks in Diplomacy for determining the range and effects of Warleader sphere abilities while both you and the target are in an aquatic environment.
+
+**Dwarf:** Gain +1/8 bonus to attack rolls against the target of your racial hatred for yourself and all allies under the effects of your tactics or shouts.
+
+**Elf:** Add +1/4 to Stealth checks made by allies under the effect of one of your tactics.
+
+**Gnome:** Add a +1/8 bonus to attack rolls against the target of your racial hatred for yourself and all allies under the effects of your tactics.
+
+**Goblin:** Gain+1/2 bonus on Ride checks.
+
+**Halfling:** Gain +1/8 of a logistical specialty.
+
+**Hobgoblin:** Your lingering commands class feature lasts an additional +1/4 rounds.
+
+**Human:** Gain +1/6 of an enhanced tactic.
+
+**Orc:** Increase the save DC and duration for any shout you know from the Warleader sphere by +1/5.
+
+**Tiefling:** Attacks made by allies benefiting from one of your enhanced tactics deal an additional +1/4 fire damage.
+
 ---
 
 # Class Equipment

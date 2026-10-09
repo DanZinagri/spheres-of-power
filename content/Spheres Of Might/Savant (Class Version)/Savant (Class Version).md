@@ -96,19 +96,6 @@ At 4th level and every 4 levels thereafter, a savant gains a bonus combat feat.
 
 At 20th level, the savant selects two insights other than rebuke death; he may use these insights at will without using one of his insights per day.
 
----
-
-# Class Feats
-
-#### Moderated Invocation
-
-*Source: Expanded Spheres: Baron's Lost Apocrypha*
-
-**Prerequisites:** Forbidden Lore or Strain class feature
-
-**Benefit:** When you use Forbidden Lore or strain, you may choose to gain a smaller bonus than normal from these class features, to a minimum of +1 to caster level or base attack bonus.
-
-Whenever you use Forbidden Lore and the sum of your normal caster level (before applying implement bonuses and any other temporary CL increases) and your forbidden lore bonus would not exceed your character level +½ your maximum forbidden lore bonus, you do not have any chance of backlash on the forbidden lore use. Whenever you use Strain and your total base attack bonus does not exceed your character level +½ your maximum strain bonus, you do not become fatigued.
 
 ---
 

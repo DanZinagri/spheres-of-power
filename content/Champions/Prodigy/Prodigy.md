@@ -692,6 +692,48 @@ At 20th level, when the prodigy starts a sequence, it automatically begins with 
 
 ---
 
+# Favored Class Bonuses
+
+**Aasimar:** The prodigy may select an additional +1/6th skills to be able to use with their steady skill class feature whenever they prepare that class feature.
+
+**Alraun:** +1/6 to save DCs for Mind sphere effects and the Mind sphere’s imbue sequence abilities.
+
+**Cecaelia:** +1/2 to Swim checks when taking 10 with steady skill.
+
+**Cherufe:** Add +1/4 point of fire damage to sphere effects that deal fire damage.
+
+**Created:** Add +1/6th of an item creation feat.
+
+**Dwarf:** Add +1/6th of a combat talent.
+
+**Elf:** Add +1/6th of a magic talent.
+
+**Fenghuang:** +1/2 to Fly checks when taking 10 with steady skill.
+
+**Gnome:** Whenever the prodigy uses the steady skill class feature to take 15 on a skill check, he gains an extra +1/4 to the skill check.
+
+**Goblin:** The prodigy may use the steady skill class feature to take 15 on a skill an additional +1/3 times per day.
+
+**Halfling:** Choose one skill. Add that skill to the list of prodigy class skills.
+
+**Hobgoblin:** Add a +1/4 bonus on combat maneuver checks made to grapple or trip.
+
+**Human:** Add +1/4th of a spell point to the prodigy’s spell pool.
+
+**Kobold:** +1/4 CL with the shapeshift ability of the Alteration sphere when applying the base form granted by Dragon Transformation. This stacks normally with caster levels gained from other sources.
+
+**Leshy:** +1/4 CL with the (plant) package of the Nature sphere. This stacks normally with caster levels gained from other sources.
+
+**Orc:** Add +1/2 point of fire damage to sphere effects that deal fire damage.
+
+**Sidhier:** Gain 1/6th of a Fallen Fey sphere talent.
+
+**Skinwalker:** +1/4 CL with the shapeshift ability of the Alteration sphere when using it on only yourself. This stacks normally with caster levels gained from other sources.
+
+**Tiefling:** Add a +1 bonus on caster level checks made to overcome the spell resistance of outsiders.
+
+---
+
 # Class Equipment
 
 The following magical items are especially appropriate for prodigies.

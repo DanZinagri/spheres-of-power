@@ -507,35 +507,6 @@ At 20th level the shifter becomes a master of Alteration magic. Whenever she cha
 
 **Tiefling:** Deal an additional +1/2 damage when attacking targets the shifter is flanking, or who are denied their Dexterity bonus to AC.
 
----
-
-# Shifter Feats
-
-The following feats are particularly appropriate or useful for shifters.
-
-#### Extra Bestial Trait
-
-**Prerequisite:** Bestial trait class feature.
-
-**Benefit:** Gain an additional bestial trait for which you meet the prerequisites. You may take this feat multiple times. The effects stack.
-
-#### Extra Magic Talent
-
-**Prerequisite:** Basic Magic Training or casting class feature.
-
-**Benefit:** Gain an additional sphere or a talent from a sphere you possess. You may take this feat multiple times. The effects stack.
-
-#### Extra Spell Points
-
-**Prerequisite:** Spell pool.
-
-**Benefit:** Your spell pool total increases by 2. You may gain this feat multiple times. The effects stack.
-
-#### Sphere Focus
-
-**Prerequisite:** Casting class feature.
-
-**Benefit:** Choose a sphere. You gain a +1 bonus to saving throw DCs for all abilities from that sphere. You may take this feat multiple times. The effects do not stack. Each time it is gained, apply this benefit to a different sphere.
 
 ---
 

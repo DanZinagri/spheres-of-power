@@ -327,9 +327,10 @@ HOME_SECTION_MOVES = [
 # Home page sections folded into another: (section, into) — the links (and their colors) are
 # appended to the target section as their own paragraph and the section's heading is dropped.
 HOME_SECTION_MERGES = [("Practitioner Gear", "Gear")]
-# Home page sections pulled out of the main grid into their own row of side-by-side columns,
-# placed under Feat Types
+# Home page sections pulled out of the main grid into one horizontal "Character Options" list
+# (styled like Feat Types), placed under Feat Types
 HOME_OPTION_ROW = ["Magic Options", "Martial Options", "Skill Options", "Champion Options"]
+HOME_OPTIONS_TITLE = "Character Options"
 # Home page sections replaced by the generated "Sample Characters" page, which is linked from
 # the end of the Creatures section instead.
 SAMPLE_SECTIONS = ("Sample Spherecasters", "Sample Practitioners", "Sample Champions")
@@ -1093,13 +1094,13 @@ def rebalance_home_columns(md: str) -> str:
             if not hit:
                 continue
             sections.remove(hit)
-            rows = ["| Class | Archetypes |", "| --- | --- |"]
+            rows = ["| Class | Archetypes | Class Options |", "| --- | --- | --- |"]
             for line in hit[1]:
                 m = re.match(r"\[\[([^\]|#]+)(?:\|[^\]]*)?\]\]", line.strip())
                 if not m:
                     continue
                 cell = re.sub(r"(?<!\\)\|", r"\\|", line.strip())
-                rows.append(f"| **{cell}** | {{{{ARCH:{m.group(1)}}}}} |")
+                rows.append(f"| **{cell}** | {{{{ARCH:{m.group(1)}}}}} | {{{{OPT:{m.group(1)}}}}} |")
             class_tables += [f"### {title} *([[{using}]])*", "", *rows, ""]
             break
 
@@ -1138,24 +1139,23 @@ def rebalance_home_columns(md: str) -> str:
                               *entries, "", "</div>", ""]
             break
 
-    # the per-system option lists get their own row of columns under Feat Types
-    option_cols = []
+    # the per-system option lists become one horizontal list under Feat Types, in name order
+    # (each link keeps its system's color)
+    option_entries = []
     for title in HOME_OPTION_ROW:
         for _, sections in parsed:
             hit = next((s for s in sections if s[0] == title), None)
             if hit:
                 sections.remove(hit)
-                body = list(hit[1])
-                while body and body[0].strip() in ("", "---"):
-                    body.pop(0)
-                while body and body[-1].strip() in ("", "---"):
-                    body.pop()
-                option_cols += ['<div class="sop-col">', "", *body, "", "</div>", ""]
+                # (pages folded into others, e.g. Practitioner Traits into Traits, are left out)
+                option_entries += [l.strip() for l in hit[1] if l.strip().startswith("[[")
+                                   and not any(l.strip().startswith(f"[[{x}]]") for x in [*PAGE_FOLDS, *FCB_FOLDS])]
                 break
+    shown = lambda e: _norm(re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1", e))
     option_row = []
-    if option_cols:
-        n = option_cols.count('<div class="sop-col">')
-        option_row = [f'<div class="sop-columns" style="--cols: {n}">', "", *option_cols, "</div>", ""]
+    if option_entries:
+        option_row = ['<div class="sop-spheres sop-options">', "", f"**{HOME_OPTIONS_TITLE}**", "",
+                      *sorted(option_entries, key=shown), "", "</div>", ""]
 
     rebuilt, kept, archetypes_col = [], 0, None
     for prefix, sections in parsed:
@@ -1297,8 +1297,10 @@ def add_home_archetypes(md: str) -> str:
     return "\n".join(lines)
 
 
-def fill_class_archetypes(md: str, archetypes: dict[str, list[str]]) -> str:
-    """Home Classes tables: {{ARCH:<class note>}} -> that class's archetypes (or a dash)."""
+def fill_class_archetypes(md: str, archetypes: dict[str, list[str]], options: dict[str, list[str]] | None = None) -> str:
+    """Home Classes tables: {{ARCH:<class note>}} -> that class's archetypes, {{OPT:<class note>}} ->
+    its class options (its feats page), or a dash."""
+    md = re.sub(r"\{\{OPT:([^}]+)\}\}", lambda m: ", ".join((options or {}).get(m.group(1), [])) or "—", md)
     return re.sub(r"\{\{ARCH:([^}]+)\}\}",
                   lambda m: ", ".join(archetypes.get(m.group(1), [])) or "—", md)
 
@@ -1483,6 +1485,47 @@ def wild_magic_chooser(core: list[tuple[str, str]], spheres: dict[str, str]) -> 
     return "\n".join(parts)
 
 
+CLASS_FEATS_HEADING = re.compile(r"# (?:.+ )?Feats\s*")
+
+
+def split_class_feats(md: str, cls: str) -> tuple[str, str]:
+    """A base class page's top-level "<Class> Feats" / "Class Feats" / "Feats" sections (and others
+    like Surreal Feats) -> (page without them, "<Class> Feats" page markdown). The class's own
+    section's feats open the page; any others follow under their own headings."""
+    lines = md.split("\n")
+    parts, own = [], []
+    i = 0
+    while i < len(lines):
+        if not CLASS_FEATS_HEADING.fullmatch(lines[i]):
+            i += 1
+            continue
+        end = next((j for j in range(i + 1, len(lines)) if lines[j].startswith(("# ", "*Archived: ")) or lines[j].strip() == "</div>"),
+                   len(lines))
+        while end - 1 > i and lines[end - 1].strip() in ("", "---"):
+            end -= 1
+        chunk = lines[i + 1:end]
+        if "\n".join(chunk).count("<div") != "\n".join(chunk).count("</div>"):
+            i = end
+            continue
+        title = lines[i][2:].strip()
+        if title in ("Feats", "Class Feats", f"{cls} Feats") and not own:
+            own = chunk
+        else:
+            parts.append([f"# {title}", ""] + chunk)
+        # the divider before the section goes with it
+        start = i
+        while start > 0 and lines[start - 1].strip() in ("", "---"):
+            start -= 1
+        lines[start:end] = [""]
+        i = start + 1
+    if not own and not parts:
+        return md, ""
+    body = "\n".join(own).strip() + "\n"
+    for part in parts:
+        body += "\n---\n\n" + "\n".join(part).strip() + "\n"
+    return "\n".join(lines), body.strip() + "\n"
+
+
 def split_sphere_feats(md: str, sphere: str) -> tuple[str, str]:
     """Cut a sphere page's "<Sphere> Sphere Feats" section out (it moves to its own page).
     Returns (page markdown with the section replaced by a link, feats-page markdown) or (md, "")."""
@@ -1627,6 +1670,83 @@ PAGE_FOLDS = {
     "Traits (DRS)": "Traits",
     "Practitioner Traits": "Traits",
 }
+# Favored class bonus pages listing several classes' bonuses race by race ("## Dwarf" then
+# "**Armiger:** ..."): each class page's "Favored Class Bonuses" section gets the races it doesn't
+# already list (the class page's own wording wins), and the page goes.
+FCB_FOLDS = ["Practitioner FCB's", "Champion FCBs"]
+
+
+def fold_fcbs() -> int:
+    files = {f.stem: f for f in CONTENT.rglob("*.md") if ARCHIVE not in f.relative_to(CONTENT).parts}
+    added = 0
+    for src_name in FCB_FOLDS:
+        src = files.get(src_name)
+        if not src:
+            print(f"warning: fcb fold: no page {src_name!r}")
+            continue
+        by_class: dict[str, list[tuple[str, str]]] = {}
+        race = None
+        for l in src.read_text(encoding="utf-8").split(GENERATED_MARK, 1)[-1].split("\n"):
+            if (m := re.match(r"#{2,6} (.+?)\s*$", l)):
+                race = m.group(1)
+            elif race and (m := re.match(r"(?:- )?\*\*([^*:]+):\*\*\s*(.+)$", l.strip())):
+                by_class.setdefault(m.group(1).strip(), []).append((race, m.group(2).strip()))
+        for cls, entries in by_class.items():
+            f = files.get(cls)
+            if not f:
+                print(f"warning: fcb fold: no class page {cls!r}")
+                continue
+            head, body = f.read_text(encoding="utf-8").split(GENERATED_MARK, 1)
+            lines = body.split("\n")
+            at = next((i for i, l in enumerate(lines) if re.fullmatch(r"# Favored Class Bonuses\s*", l)), None)
+            if at is None:  # a new section, before Class Equipment (or the archived-version footer)
+                end = next((i for i, l in enumerate(lines) if re.fullmatch(r"# Class Equipment\s*", l)), None)
+                if end is None:
+                    end = next((i for i, l in enumerate(lines) if l.startswith("*Archived: ")), len(lines))
+                    while end > 0 and lines[end - 1].strip() in ("", "---"):
+                        end -= 1
+                    lines[end:end] = ["", "---", "", "# Favored Class Bonuses", ""]
+                    at = end + 3
+                else:
+                    lines[end:end] = ["# Favored Class Bonuses", "", "---", ""]
+                    at = end
+            stop = next((i for i in range(at + 1, len(lines))
+                         if re.match(r"# |---\s*$|</div>", lines[i])), len(lines))
+            race_of = lambda l: m.group(1).strip() if (m := re.match(r"\*\*([^*:]+):\*\*", l)) else None
+            have = {_norm(r) for i in range(at + 1, stop) if (r := race_of(lines[i]))}
+            for race, text in entries:
+                if _norm(race) in have:
+                    continue
+                pos = next((i for i in range(at + 1, stop) if (r := race_of(lines[i])) and _norm(r) > _norm(race)), None)
+                if pos is None:  # after the section's last line
+                    pos = stop
+                    while pos > at + 1 and not lines[pos - 1].strip():
+                        pos -= 1
+                    new = ["", f"**{race}:** {text}"]
+                else:
+                    new = [f"**{race}:** {text}", ""]
+                lines[pos:pos] = new
+                stop += len(new)
+                have.add(_norm(race))
+                added += 1
+            f.write_text(head + GENERATED_MARK + re.sub(r"\n{3,}", "\n\n", "\n".join(lines)), encoding="utf-8")
+        src.unlink()
+        drop_page_links(src_name)
+    return added
+
+
+def drop_page_links(name: str) -> None:
+    """A page that went away: list lines that only link it go; other links to it become plain text."""
+    for f in CONTENT.rglob("*.md"):
+        text = f.read_text(encoding="utf-8")
+        if f"[[{name}" not in text:
+            continue
+        new = re.sub(rf"^(?:- )?\[\[{re.escape(name)}(?:\|[^\]]*)?\]\][ \t]*\r?\n", "", text, flags=re.M)
+        new = re.sub(rf"\[\[{re.escape(name)}(?:#[^\]|]*)?(?:\\?\|([^\]]*))?\]\]", lambda m: m.group(1) or name, new)
+        if new != text:
+            f.write_text(new, encoding="utf-8")
+
+
 # (target page, entry name without its (category) or [tags], which later passes may change) -> the system of the page it was folded from, for the compendiums
 FOLDED_SYSTEMS: dict[tuple[str, str], str] = {}
 
@@ -3974,10 +4094,8 @@ def write_compendium_review(sphere: str, cfg: dict, entries: list[dict]) -> None
 # Feat sections on pages that aren't feat pages (class, race and rules pages): (page, section).
 # Feat pages themselves (names ending in "Feats") are read whole.
 FEAT_SECTIONS = [
-    ("Bravo", "Bravo Feats"), ("Dissident", "Class Feats"), ("Theorist", "Class Feats"),
-    ("Troubadour", "Class Feats"), ("Savant (Class Version)", "Class Feats"),
-    ("Warden (warden-class)", "Warden Feats"), ("Professional", "Professional Feats"),
-    ("Conscript", "Conscript Feats"), ("Sentinel", "Feats"), ("Barista", "New Feats"), ("Hive", "New Feat"),
+    # (base classes' feats are on their own "<Class> Feats" pages: split_class_feats)
+    ("Barista", "New Feats"), ("Hive", "New Feat"),
     ("Oaths", "Oath Feats"), ("Techniques", "Technique Feats"),
     ("Tech", "New Crafting Feats"), ("Practitioner Bestiary", "Monster Feats"),
     ("Mythic Spheres 3", "Mythic Feats"), ("Nocturnus (Mesmerist Archetype)", "Nocturnus Feats"),
@@ -6581,8 +6699,6 @@ def convert(with_images: bool) -> None:
     sample_groups = sample_character_groups(pages)
     # skill spheres keep their drawbacks in a "Drawbacks" section on their own page
     skill_spheres = set(home_list_slugs(pages, "Skill Spheres"))
-    # class pages in the home Classes tables: their archetype lists live there, not on the page
-    class_pages = {s for section, _, _ in HOME_CLASS_TABLES for s in home_list_slugs(pages, section)}
 
     images = download_images(pages) if with_images else {}
 
@@ -6663,7 +6779,10 @@ def convert(with_images: bool) -> None:
     # every sphere on the home page is a folder note too, so its Feats/Drawbacks pages sit inside
     # its folder and their breadcrumbs read "... > Dark > Dark Sphere Drawbacks"
     spheres = {s for title, _ in HOME_SPHERE_COLUMNS for s in home_list_slugs(pages, title)}
-    for slug in [*SPLIT_SECTIONS, *sorted(spheres)]:
+    class_pages = {s for section, _, _ in HOME_CLASS_TABLES for s in home_list_slugs(pages, section)}
+    feat_classes = {s for s in class_pages if pages.get(s) and pages[s].body and any(
+        CLASS_FEATS_HEADING.fullmatch("# " + h.get_text(" ", strip=True)) for h in pages[s].body.find_all("h1"))}
+    for slug in [*SPLIT_SECTIONS, *sorted(spheres), *sorted(feat_classes)]:
         sp = pages.get(slug)
         if sp and sp.folder.split("/")[-1] != sp.filename:
             sp.folder = f"{sp.folder}/{sp.filename}".strip("/")
@@ -6676,6 +6795,7 @@ def convert(with_images: bool) -> None:
     drawback_pages: dict[str, str] = {}   # sphere note name -> its "<Sphere> Sphere Drawbacks" note
     derived_notes: list[tuple[str, str]] = []  # (generated note path, its sphere's path) for colors
     class_archetypes: dict[str, list[str]] = {}  # class note name -> its archetype cells (home)
+    class_options: dict[str, list[str]] = {}     # class note name -> its Class Options cells (home)
     archived: dict[str, tuple[str, str]] = {}     # page note name -> (archived note name, title)
     home_page = None                      # (dest, text), written last with the feats links
     manifest = json.loads((CACHE / "manifest.json").read_text())
@@ -6875,6 +6995,23 @@ def convert(with_images: bool) -> None:
             derived_notes.append((f"{folder}/{name}.md", f"{p.folder}/{p.filename}.md".lstrip("/")))
         # a tab on its own needs no tab bar (its content carries its own Source line)
         body_md = unwrap_lone_tabs(body_md)
+        # a base class's feats get their own page in its folder (the home Classes tables link it)
+        if p.slug in class_pages:
+            body_md, cfeats = split_class_feats(body_md, p.title)
+            if cfeats:
+                body_md = collapse_dividers(body_md)
+                ctitle = re.sub(r"\s*\(.*\)$", "", p.title) + " Feats"  # Savant (Class Version) -> Savant Feats
+                cname = clean_filename(ctitle)
+                cfm = ["---", f"title: {yaml_str(ctitle)}", f"source: {SITE}/{p.slug}",
+                       "parent: " + yaml_str(f"[[{p.filename}]]"), "---"]
+                credit = m.group(0) if (m := re.search(r"^\*Source: .+\*$", body_md, re.M)) else ""
+                cdest = CONTENT / p.folder / f"{cname}.md"
+                cdest.parent.mkdir(parents=True, exist_ok=True)
+                cdest.write_text("\n".join(cfm) + "\n" + GENERATED_MARK + "\n\n" + (credit + "\n\n" if credit else "")
+                                 + collapse_dividers(cfeats), encoding="utf-8")
+                class_options.setdefault(p.filename, []).append(f"[[{cname}\\|Feats]]")
+                derived_notes.append((f"{p.folder}/{cname}.md".lstrip("/"),
+                                      f"{p.folder}/{p.filename}.md".lstrip("/")))
         out = "\n".join(fm) + "\n" + GENERATED_MARK + "\n\n" + body_md.lstrip("\n")
         dest = CONTENT / p.folder / f"{p.filename}.md"
         dest.parent.mkdir(parents=True, exist_ok=True)
@@ -6896,9 +7033,9 @@ def convert(with_images: bool) -> None:
         dest, out = home_page
         home = add_feats_links(out, feats_pages, drawback_pages)
         home = sphere_lists(drop_merged_links(home, merge_links))
-        home = add_home_archetypes(fill_class_archetypes(home, class_archetypes))
+        home = add_home_archetypes(fill_class_archetypes(home, class_archetypes, class_options))
         # pages folded into another page (PAGE_FOLDS) leave the home lists; their target is listed
-        home = re.sub(r"^\[\[(?:" + "|".join(map(re.escape, PAGE_FOLDS)) + r")\]\][ \t]*\r?\n", "", home, flags=re.M)
+        home = re.sub(r"^\[\[(?:" + "|".join(map(re.escape, [*PAGE_FOLDS, *FCB_FOLDS])) + r")\]\][ \t]*\r?\n", "", home, flags=re.M)
         dest.write_text(home_icons(home_class_tabs(home)), encoding="utf-8")
         # the Archive: a folder note listing archived material, and the Original Spheres index
         nos = "nosearch: true"
@@ -6927,6 +7064,7 @@ def convert(with_images: bool) -> None:
     print(f"Polished Dark tabs added: {polished_dark_tabs()} pages")
     print(f"Hand-entered additions to finished pages: {apply_note_extras()} pages")
     print(f"Entries folded into other pages: {fold_pages()}")
+    print(f"Favored class bonuses moved to class pages: {fold_fcbs()}")
     # Ultimate versions replaced by Polished ones move to the Archive's Retired Ultimate section
     retired = retire_pages(derived_notes)
     retired.update(retire_ultimate(derived_notes))
