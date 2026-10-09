@@ -19,6 +19,7 @@ const KIND_TYPE = {
   talent: "Talents",
   "advanced talent": "Talents",
   "legendary talent": "Talents",
+  "exceptional talent": "Talents",
   "cohort job": "Talents",
   "companion archetype": "Talents",
   "alternate divination": "Spheres",
