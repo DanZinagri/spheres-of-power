@@ -1,0 +1,1561 @@
+{
+ "sphere": "Mind",
+ "system": "Spheres of Power",
+ "approved": false,
+ "entries": [
+  {
+   "id": "mind/charm",
+   "name": "Charm",
+   "kind": "sphere ability",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#charm",
+   "md": "You may place charms on creatures. Charms require a standard action to use, have a range of close, and are subject to spell resistance. You may only use charms on targets that possess your own creature type (humanoid for humanoids, etc.) although the Expanded Charm talent changes this. Each charm has three strengths; lesser, greater, and powerful. Lesser charms are at-will abilities, but you may not target an individual creature more than once in a day with any individual lesser charm. Greater charms cost a spell point to use and powerful charms cost 2 points to use. You must possess the Powerful Charm talent before you may use any powerful charms.\n\nWhen you gain the Mind sphere, you gain the following charm:\n\n### Mind Talent Types\n\nSome mind talents are designated (charm) talents. These talents grant you additional charms you may place on targets.\n\n#### Cloud\n\nTalents marked with the (cloud) tag allow the caster to spend a standard action to create clouds of mental energy that emanate from an area, object, or creature within close range. When applying a cloud to an unwilling creature or an attended object they are allowed a Will save to resist, and both placing a cloud and the effects of a cloud are subject to spell resistance. A creature is immune to cloud effects placed upon itself or its worn and carried equipment.\n\nAn imbued area may either be 10 feet in radius + an extra 5 feet per caster level, or a 10-foot wide area that extends for a length of 10 feet + 10 feet per caster level (such as would be appropriate to fill a 10-foot wide hallway). An imbued item may be no larger than 5 cubic feet per caster level in size. A creature may be up to the caster’s size + 1 size category for every 5 caster levels. It is possible to imbue a portion of an item or creature (a single head of a massive, two-headed dragon or a single segment of a lengthy carpet with blood smeared over it, for instance) but hiding a portion of an item or creature will not prevent the whole of it from being noticed. Unless otherwise specified, a cloud’s radius extends from an item or creature as if the creature was the center of an imbued area measured as a radius.\n\nAs with charms, most clouds have three strengths; lesser, greater, and powerful. Spell point expenditures remain the same for the three strengths, and you may only affect a creature with a cloud if you could also affect it with a charm. Similarly, the Powerful Charm talent is required to use the powerful versions of clouds and you may only imbue the same item, creature, or area with a lesser cloud once per day. With the exception of Mass Charm, (cloud) talents are affected by talents that affect charms.\n\n#### Cognition\n\nSome talents are marked (cognition). These talents grant you additional mental powers, increasing your ability to analyze and think. All (cognition) talents are personal range, benefiting only the person that uses them.",
+   "options": [
+    {
+     "name": "Suggestion",
+     "tags": [],
+     "talentTags": [],
+     "anchor": "suggestion",
+     "md": "You may plant thoughts into a target’s mind.\n\n**Lesser Charm:** You may plant a suggestion in a target’s mind, which they obey as if the thought had been their own (Will negates). The suggested course of activity must be limited to a sentence or two and must be a very simple request. The creature performs the suggested action until it finishes, or for 1 hour per caster level, whichever comes first. If you choose, you can instead specify conditions the creature should look for, (i.e., “you should search the next person who enters this room, looking for weapons.”) If the condition is not met before this duration expires, the activity is not performed.\n\n**Greater Charm:** This works as the lesser charm, but may be up to a basic request. Very simple requests cause the save to be made with a -2 penalty. The target cannot be asked to do anything it would not normally do.\n\n**Powerful Charm:** This works as the lesser charm, but the creature obeys any course of action given, so long as the suggestion is not obviously fatal or against the target’s nature. Basic requests cause the save to be made with a -2 penalty, while very simple requests cause the save to be made with a -4 penalty.\n\n---"
+    }
+   ]
+  },
+  {
+   "id": "mind/charming-strike-strike",
+   "name": "Charming Strike",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Mind Talents",
+   "tags": [],
+   "talentTags": [
+    "strike"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#charming-strike-strike",
+   "md": "You may deliver charms via a melee touch attack. As a standard action, you may make a single weapon attack in conjunction with using a charm. This casting cannot be reduced below a standard action, and does not provoke attacks of opportunity, unless as usual if making a ranged attack. If the target is struck by the attack, it is also affected by the charm. If using a scatter weapon, the charm only applies to a single target, chosen at the time of attack.",
+   "options": []
+  },
+  {
+   "id": "mind/expanded-charm",
+   "name": "Expanded Charm",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Mind Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#expanded-charm",
+   "md": "Your charms may affect creatures of any creature type, instead of just your own. This does not allow you to affect creatures immune to mind-affecting effects with your charms.",
+   "options": []
+  },
+  {
+   "id": "mind/instill-charm-instill",
+   "name": "Instill Charm",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Mind Talents",
+   "tags": [],
+   "talentTags": [
+    "instill"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#instill-charm-instill",
+   "md": "As a standard action you may touch a small container of liquid and instill a charm inside it, which functions as a potion or oil. You may create an instilled liquid of a greater or powerful charm, but must spend a spell point to create a lesser charm. Lesser charms created in this way are not limited to only being usable once per target.\n\nAn instilled liquid remains potent until you rest to regain spell points. If you have equipment on hand (such as an alchemy lab), the cost of bottles and water is considered negligible. You may target food but not an already-magical item, such as a potion. All spell points must be spent and all variables of the sphere effect must be chosen at the time the instilled liquid is created. You cannot instill multiple effects in a single liquid, nor create multiple instilled liquids with a single action.",
+   "options": []
+  },
+  {
+   "id": "mind/mass-charm-mass",
+   "name": "Mass Charm",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Mind Talents",
+   "tags": [],
+   "talentTags": [
+    "mass"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#mass-charm-mass",
+   "md": "When using a charm, you may spend an additional spell point to charm an additional 1 creature per 2 caster levels (minimum 1) at the same time. Each target must be within range and must be affected by the same charm. Once created, each charm is considered a separate sphere effect.",
+   "options": []
+  },
+  {
+   "id": "mind/mental-backdoor",
+   "name": "Mental Backdoor",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Mind Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#mental-backdoor",
+   "md": "*Source: [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)*\n\nIf a target would fail their saving throw against one of your charms, you may spend a spell point to force them to immediately attempt a second Will saving throw. If they fail this second saving throw, a mental weakness is created with the creatures mind, allowing you to bypass the creature’s will easier.\n\nFor 1 minute per caster level, the creature takes a -2 penalty on Will saving throws made against your charms. This penalty increases by 1 for every 10 caster levels you possess.",
+   "options": []
+  },
+  {
+   "id": "mind/powerful-charm",
+   "name": "Powerful Charm",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Mind Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Debilitating Talents 2",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#powerful-charm",
+   "md": "You may spend 2 spell points to use the powerful charm and powerful cloud version of any charm or cloud you possess.",
+   "options": []
+  },
+  {
+   "id": "mind/psychic-vengeance",
+   "name": "Psychic Vengeance",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Mind Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Debilitating Talents 2",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#psychic-vengeance",
+   "md": "When you succeed at a Will save against a mind-affecting effect, you may spend 1 spell point as an immediate action to target the source of that effect with a charm that you can create. You must pay the spell point cost of the charm as normal.",
+   "options": []
+  },
+  {
+   "id": "mind/ranged-mind-range",
+   "name": "Ranged Mind",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Mind Talents",
+   "tags": [],
+   "talentTags": [
+    "range"
+   ],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Debilitating Talents 2",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#ranged-mind-range",
+   "md": "Increase the range you may charm targets by 1 step (close to medium, medium to long). You may select this talent multiple times. The effects stack.",
+   "options": []
+  },
+  {
+   "id": "mind/subtlety",
+   "name": "Subtlety",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Mind Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Debilitating Talents 2",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#subtlety",
+   "md": "If a target succeeds on their save against one of your charms, they must immediately attempt a second Will save. If they fail this second save, they do not realize they were the subject of an attempted mental assault.",
+   "options": []
+  },
+  {
+   "id": "mind/amnesia-charm",
+   "name": "Amnesia",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Charm Talents",
+   "tags": [
+    "charm"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#amnesia-charm",
+   "md": "You may reach into a subject’s memory and remove information and awareness of people, places, things, or events.\n\n**Lesser Charm:** The target loses any recollection of what happened in the last round, back to the beginning of your previous round’s actions (Will negates). A reminder of the events, such as witnessing a similar action taken by one of the involved creatures or distinctive items being used in the same fashion or someone spending a free action to inform the person about the event, allows the target to attempt a new Will save to recall the forgotten moment, or the target may have their memory restored through the Life sphere’s Break Enchantment talent, the break enchantment spell, any effect that removes the confused condition, or the use of the Inception talent’s lesser, greater, or powerful charms being used to specifically make the target remember what was forgotten.\n\n**Greater Charm:** The target loses all awareness of the immediate past (Will negates). This affects all memories from up to 1 minute per caster level. Alternatively, a target may lose all memory of just a single person, location, item, or event, such as the identity of someone they talked to, or a robbery they participated in. No matter what in their memory is targeted, no more than 1 minute per caster level can be altered or removed from the target’s memory. A target’s memory may be restored through the Life sphere’s Break Enchantment talent, the break enchantment spell, or through the Inception talent’s greater or powerful charms being used to specifically make the target remember what was forgotten.\n\n**Powerful Charm:** The target loses all memory of events that transpired in the recent past (Will negates). This may erase memories going back 1 day per caster level. The caster may erase all or part of the subject’s memory of this time. A target’s memory may only be restored through the Life sphere’s Break Enchantment effect if the caster also possesses the Restore Senses talent, or through the miracle or wish spells. The target’s memory may also be replenished through the Inception talent’s powerful charm being used to specifically make the target remember what was forgotten.",
+   "options": []
+  },
+  {
+   "id": "mind/calm-charm",
+   "name": "Calm",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Charm Talents",
+   "tags": [
+    "charm"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#calm-charm",
+   "md": "You may suppress emotions in hostile creatures or provide ease to excitement and confidence. You may deny raging creatures their battles or joyous creatures their revelry.\n\n**Lesser Charm:** The target loses the benefit of any spell or effect with the emotion descriptor, as well as any morale bonus from magical or extraordinary effects (Will negates). This includes a paladin’s auras, the good hope spell, the effects of an eliciter’s emotions, bardic music, or a barbarian’s rage. The effects are suppressed, but not dispelled. This effect lasts a number of rounds equal to your caster level. Any aggressive action toward or damage dealt to a creature under the effect of this ability automatically ends the effect.\n\n**Greater Charm:** In addition to the effects of the lesser charm, this charm removes any desire to fight or engage in revelrous behavior. No violent actions or destructive actions may be taken by the creature, but the target may still defend itself normally. In addition, effects related to emotion that grant effects beyond simple bonuses (such as a bard’s fascinate ability or certain eliciter emotions) cannot be initiated (Will negates).\n\n**Powerful Charm:** In addition to the effects of the greater charm, the target of this ability simply loses any desire to act. The target is overwhelmed with soothing peace and calm and as such may take no actions, but the target may still defend itself normally (Will negates).",
+   "options": []
+  },
+  {
+   "id": "mind/candor-charm-utility",
+   "name": "Candor",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Charm Talents",
+   "tags": [
+    "charm"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#candor-charm-utility",
+   "md": "You compel words of honesty in your subject, bringing truth to their voice.\n\n**Lesser Charm:** The target is compelled to speak only what they believe to be true. This does not compel them to speak, but it does prevent any words they do say from being intentionally dishonest (Will negates). A target may not realize they are magically compelled to speak the truth if the caster has the Subtlety talent, but even if unaware they may receive a Reflex save to stop themselves from talking when they attempt to tell a lie and realize that their words are changing. This lasts for a number of rounds equal to your caster level.\n\n**Greater Charm:** This functions as the lesser charm, but the duration of the Candor is increased to a number of hours equal to your caster level (Will negates).\n\n**Powerful Charm:** The target is compelled to answer a single question directly put to it. A successful save allows the target to ignore any similar questions asked with this talent for a number of minutes equal to its Wisdom score. (Ultimately the definition of “similar” is up to the GM, but generally the question “Who stole the queen’s jewels?” is considered similar to “Did you steal the queen’s jewels?” but is not considered similar to “What were you doing on the night the jewels were stolen?” because the focus shifts from identifying a culprit to stating an activity.)",
+   "options": []
+  },
+  {
+   "id": "mind/cerebral-strike-charm",
+   "name": "Cerebral Strike",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Charm Talents",
+   "tags": [
+    "charm"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#cerebral-strike-charm",
+   "md": "You unleash a storm of psychic energy that invades the mind of your subject.\n\n**Lesser Charm:** The force of your mind directly attacks the psyche of your enemy. The target takes 1d8 points of nonlethal damage per 2 caster levels (minimum 1d8, Will negates).\n\n**Greater Charm:** The mental damage you deal is lasting and no longer superficial. In addition to dealing 1d8 points of nonlethal damage per 2 caster levels (minimum 1d8), you also deal 1d4 points of ability damage to the target’s Intelligence, Wisdom, or Charisma (your choice) + an additional 1 point of ability damage per 6 caster levels. Against a successful Will save, you instead deal half of the nonlethal damage you would have dealt and no ability damage. (For example, a 10th level caster would deal 5d8 points of nonlethal damage + 1d4+1 points of ability score damage to either Intelligence, Wisdom, or Charisma, but against a successful save would only deal half of 5d8 nonlethal damage.) Ability damage dealt this way cannot decrease an ability score below 1.\n\n**Powerful Charm:** The force of your mental assault causes a physiological backlash in the target, along with self-inflicted wounds. You deal 1d8 points of nonlethal damage per 2 caster levels (no save) and 1d8 + 1 per 6 caster levels of ability damage to your choice of the target’s Intelligence, Wisdom, or Charisma (Will halves).",
+   "options": []
+  },
+  {
+   "id": "mind/command-charm",
+   "name": "Command",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Charm Talents",
+   "tags": [
+    "charm"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#command-charm",
+   "md": "You may directly control another creature’s body.\n\n**Lesser Charm:** You may force the target to perform one move, swift, or free action of your choice on its next turn (Will negates). This could include yelling loudly, falling to the ground, dropping its weapon, or moving in a generalized direction (away, toward, left, right, etc.). For the purpose of this talent, standing still is a free action. The target cannot use its other actions on that turn to undo the effect of this lesser charm (pick up a dropped weapon, move back to its old square, stand up if it fell down, etc.).\n\n**Greater Charm:** You take control of the target for as long as you concentrate, to a maximum of 1 round per caster level. (Will negates). The target is allowed a new saving throw as a free action each round at the end of its turn to throw off this control. Other than verbal actions, the target cannot perform an action of its own choice on its turn. While under your control, the target mentally fights you, and so can only be made to perform a single move action or standard action each round.\n\nThe creature can move up to its speed and attack in the same round as a charge action. While you may command a target to use an item or perform magic, this does not grant you knowledge of the target’s magical abilities or inventory. While you can command a creature to stand still and take no action, you cannot command a creature to become helpless or give up its Dexterity bonus to AC.\n\n**Powerful Charm:** This is the same as the greater charm, except the target is not limited to a single standard action or move action each round.",
+   "options": []
+  },
+  {
+   "id": "mind/confusion-charm",
+   "name": "Confusion",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Charm Talents",
+   "tags": [
+    "charm"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#confusion-charm",
+   "md": "You may unravel a creature’s mind and make them behave erratically.\n\n**Lesser Charm:** The target becomes confused for 1 round (Will negates).\n\n**Greater Charm:** The target becomes confused for 1 minute per caster level (Will negates).\n\n**Powerful Charm:** This is the same as the Confusion greater charm, except in addition to being confused, the target also suffers a -2 penalty to their caster level and a -4 penalty to all their mental ability scores.",
+   "options": []
+  },
+  {
+   "id": "mind/courage-charm",
+   "name": "Courage",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Charm Talents",
+   "tags": [
+    "charm"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#courage-charm",
+   "md": "You inspire the target to great action.\n\n**Lesser Charm:** The target may choose one attack roll, saving throw, ability check, or skill check it makes within the next minute. The target gains a morale bonus equal to 2 + 1 per 5 caster levels on that roll. If no roll is selected before 1 minute passes, this effect ends.\n\n**Greater Charm:** The target gains a morale bonus equal to 1 + 1 per 5 caster levels to all attack rolls, saving throws, ability checks, and skill checks for 1 minute per caster level.\n\n**Powerful Charm:** This is the same as the greater charm, except the target also becomes immune to fear and gains temporary hit points equal to your caster level.",
+   "options": []
+  },
+  {
+   "id": "mind/disrupt-focus-charm",
+   "name": "Disrupt Focus",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Charm Talents",
+   "tags": [
+    "charm"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#disrupt-focus-charm",
+   "md": "You can make it harder for a target to concentrate on using their magic.\n\n**Lesser Charm:** Your target must succeed at a concentration check with a DC equal to 10 + your casting ability modifier + half your caster level for any spell, talent, or similar effect that might otherwise be subject to a concentration check under adverse conditions (Will negates). You must concentrate to maintain this effect, up to a maximum number of rounds equal to half your caster level (minimum 1) or until the target fails a concentration check, whichever comes first.\n\n**Greater Charm:** As the lesser charm, though you no longer need to concentrate to maintain the effect, the duration is equal to your caster level (or until the target fails a concentration check, whichever comes first), and the concentration DC equals 10 + your casting ability modifier + your caster level.\n\n**Powerful Charm:** As the greater charm, though the effect persists even if the target fails a concentration check, lasting for up to a maximum duration of a number of rounds equal to your caster level.",
+   "options": []
+  },
+  {
+   "id": "mind/enthrall-charm-utility",
+   "name": "Enthrall",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Charm Talents",
+   "tags": [
+    "charm"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#enthrall-charm-utility",
+   "md": "You cause a creature to regard you as its friend. If you or your allies are attacking or threatening the creature, they gain a +5 bonus to their saving throw against this charm. A DC 25 Sense Motive check reveals the target of this charm has been enchanted. This is an enchantment (charm) effect instead of an enchantment (compulsion) effect.\n\n**Lesser Charm:** You increase the target’s disposition toward you by 1 step to a maximum of friendly for 1 minute per caster level (Will negates).\n\n**Greater Charm:** You increase the target’s disposition toward you to friendly for 1 minute per caster level (Will negates). You may make requests of the target, but asking it to do anything it would not normally do requires an opposed Charisma check, and it never obeys requests that are obviously fatal or against its nature, although the target may be convinced dangerous things are worth doing.\n\n**Powerful Charm:** This functions as the greater charm, except the duration increases to 1 hour per caster level.",
+   "options": []
+  },
+  {
+   "id": "mind/esteem-charm",
+   "name": "Esteem",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Charm Talents",
+   "tags": [
+    "charm"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#esteem-charm",
+   "md": "You imbue a target with an increased sense of self-worth, capacity for persuasion, and force of personality (Will negates).\n\n**Lesser Charm:** You grant a competence bonus to a single Intelligence, Wisdom, or Charisma-based skill check of the target’s choice equal to 1/2 your caster level (minimum 1) that is performed within 1 hour + 1 hour per 5 caster levels. The target counts as enchanted while under the effects of this charm, and a DC 25 Sense Motive check will determine that the target is not wholly acting as themselves.\n\n**Greater Charm:** This acts the same as the lesser charm, but the bonus to the check now equals your caster level. As a drawback to this charm, this DC of the Sense Motive check to detect the charm on the target is reduced to 15. This level of the charm may only be used once per day on a target.\n\n**Powerful Charm:** As the greater charm, but the check may be performed within 1 day + 1 day per 5 caster levels. This level of the charm may only be used once per week on a target.",
+   "options": []
+  },
+  {
+   "id": "mind/fascinate-charm",
+   "name": "Fascinate",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Charm Talents",
+   "tags": [
+    "charm"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#fascinate-charm",
+   "md": "*Source: [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)*\n\nYou distract the target from the world around them.\n\n**Lesser Charm:** The target suffers a -2 penalty to Perception checks for 1 round per caster level. This penalty increases by 1 per 5 caster levels you possess (Will negates).\n\n**Greater Charm:** The target is fascinated for 1 round per caster level (Will negates). The fascinated creature does not immediately break from this condition if they see an obvious threat, but instead receives a new saving throw against this effect. If the creature is damaged while fascinated, the creature immediately breaks free from this effect.\n\n**Powerful Charm:** This is the same as the greater charm, except that the target is instead fascinated for 1 minute per caster level (Will negates). Additionally, whenever the fascinated creature would receive a new saving throw due to hostile actions or threats directed towards them, the saving throw is made at a -4 penalty. If the creature would be damaged while fascinated, the creature instead receives a new saving throw against this effect.",
+   "options": []
+  },
+  {
+   "id": "mind/fear-charm",
+   "name": "Fear",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Charm Talents",
+   "tags": [
+    "charm"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Debilitating Talents 2",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#fear-charm",
+   "md": "You may warp a target’s mind with fear.\n\n**Lesser Charm:** You cause the target to become shaken for 1 round per caster level (Will negates).\n\n**Greater Charm:** You cause a target to become frightened for 1 round per caster level (Will partial). On a successful save, they are still shaken for 1 round per caster level.\n\n**Powerful Charm:** This is the same as the greater charm, except the target becomes panicked instead of frightened. On a successful save, they are still shaken for 1 round per caster level.",
+   "options": []
+  },
+  {
+   "id": "mind/flabbergast-charm",
+   "name": "Flabbergast",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Charm Talents",
+   "tags": [
+    "charm"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Debilitating Talents 2",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#flabbergast-charm",
+   "md": "You bombard the target with shocking revelations and displays which leave them reeling.\n\n**Lesser Charm:** The target gains the uncertain condition for 1 minute per caster level (Will negates).\n\n**Greater Charm:** The target gains the shocked condition for 1 minute per caster level (Will negates). On a successful saving throw, they gain the uncertain condition for 1 minute.\n\n**Powerful Charm:** This functions as the greater charm, except the target gains the dumbfounded condition for 10 minutes per caster level on a failed saving throw.",
+   "options": []
+  },
+  {
+   "id": "mind/gestures-charm",
+   "name": "Gestures",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Charm Talents",
+   "tags": [
+    "charm"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Debilitating Talents 2",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#gestures-charm",
+   "md": "You mentally pull and tug at the target’s muscles and the aspects of its mind that relate to motor functions.\n\n**Lesser Charm:** You influence the physical gestures made by a target and the actions of the target’s limbs and extremities (Will negates). You may impose a failure chance on any other magic user whose magic requires a somatic component equal to 10% + an additional 5% for every 5 caster levels (this effect stacks with similar failure chances, such as the arcane spell failure chance that accompanies armor).\n\nIn addition, you may impose a circumstance penalty to any of the target’s skill checks that would ordinarily be subject to an armor check penalty equal to 2 + 1 per every 5 caster levels. This effect lasts for a number of minutes equal to your caster level.\n\n**Greater Charm:** In addition to the effects of the lesser charm, you may enforce quick, shambling actions on the target or interruptions of actions the target is taking. You may force the target to pick up or drop an object in a space within its reach, although the target may only be forced to drop things that are held (as opposed to worn or bound in some way). As a standard action that does not provoke attacks of opportunity, you may make a flat-footed target fall prone, or otherwise make a ranged trip attempt against a target that uses your caster level in place of your base attack bonus and your casting ability modifier in place of your Strength modifier. If the target is flat-footed you may cause a check that would be affected by an armor check penalty to automatically fail. Finally, you may also prevent the usage of any magical ability that requires gestures or somatic components.\n\n**Powerful Charm:** In addition to the effects of the lesser and greater charms, you gain nearly full control over the quick gestures and movements of the target. If your target threatens a square where another creature provokes an attack of opportunity, you may force the target to take an attack of opportunity against that target if they have any attacks of opportunity remaining (this counts as one of your attacks of opportunity).\n\nYou may force the target to move up to half of its move speed in any direction that you wish. You may also use the target to provide the somatic components for your own magical effects, and even make the target the origin point of those effects so long as only somatic components are required. (Casters with the Utterances talent may include verbal components with no extra save required). You may also allow this magic to work in either direction, allowing a willing target to control you or vice versa (for example, a friendly rogue might pick a lock that only you can reach using your hands, or you might use your own painting skills to paint a picture through a friendly paladin’s hands to impress a dignitary).",
+   "options": []
+  },
+  {
+   "id": "mind/hostility-charm",
+   "name": "Hostility",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Charm Talents",
+   "tags": [
+    "charm"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Debilitating Talents 2",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#hostility-charm",
+   "md": "You cause the target to enter a blinding rage.\n\n**Lesser Charm:** You compel the target to attack the nearest creature on it next turn (Will negates). The target moves until this creature is within range and makes at least one attack with a weapon, natural attack, or unarmed strike. If no such creature can be reached, the target instead deals damage to itself equal to 1d8 + its Strength modifier with whatever it has in hand.\n\n**Greater Charm:** The target enters a rage for 1 round per caster level (Will negates if unwilling). The target gains a +2 morale bonus to Strength and Constitution, a +1 bonus to Will saves, and a -2 penalty to AC. In addition, the target cannot use any spells, nor any skills or class features based off of Intelligence, Wisdom, or Charisma. This counts as a barbarian’s rage, except the target is not fatigued at the end.\n\n**Powerful Charm:** Same as the greater charm, but you may grant one of the following packages to the target as well:\n\n- **Heroic Rage:** The target’s bonus to Strength and Constitution increases to +4, and their bonus to Will saves increases to +2. The target may still use spells, as well as class features and skills based off of Intelligence, Wisdom, or Charisma.\n- **Brutal Rage:** The target is compelled to hostility and each round attacks the nearest target to itself, be it friend or foe. If the creature cannot attack something during its turn, it deals 1d8 + its Strength modifier damage to itself with whatever it has in hand.",
+   "options": []
+  },
+  {
+   "id": "mind/incense-charm",
+   "name": "Incense",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Charm Talents",
+   "tags": [
+    "charm"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Debilitating Talents 2",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#incense-charm",
+   "md": "You stoke the target’s anger into a raging inferno.\n\n**Lesser Charm:** The target gains either the angry or livid condition towards a target of your choice for 1 round per caster level (Will negates).\n\n**Greater Charm:** This functions as the lesser charm, except that you may make the target enraged for the duration rather than angry or livid. On a successful saving throw, the target still becomes angry for 1 round.\n\n**Powerful Charm:** This functions as the greater charm, except that you may make the target frenzied for the duration. In addition, you may change the target of the target’s frenzy as a standard action.",
+   "options": []
+  },
+  {
+   "id": "mind/inception-charm-utility",
+   "name": "Inception",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Charm Talents",
+   "tags": [
+    "charm"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Debilitating Talents 2",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#inception-charm-utility",
+   "md": "You add trivia, knowledge, and memories to a person’s mind, whether or not this information is grounded in fact.\n\n**Lesser Charm:** You may “create a rumor” in a target’s mind, suggesting information that a target “heard somewhere” or “read once” but that they have not actually encountered (Will negates). As part of the casting, you may attempt a magic skill check or Bluff check opposed by the target’s Sense Motive check (using modifiers as listed for the Bluff skill) to see how firmly the target adheres to this new information; as with a Bluff check, they may not believe this rumor even if they believe that they heard it or read it somewhere.\n\nEvidence that conflicts with the implanted memory allows a new Will save to realize that the information is faulty, though failure on a new Will save does not mean that the target is compelled to believe the old information (instead believing that they had learned some faulty information). In addition, the Life sphere’s Break Enchantment talent, the break enchantment spell, any effect that removes the confused condition, or the Amnesia talent’s lesser, greater, or powerful charms may be used to either remove false implanted information, or to make the target realize that the information is faulty.\n\n**Greater Charm:** As the lesser charm, but the target’s new memory can relate to things within their own experience or of their own devisement (such as details about friends’ lives or current news discussed at a tavern the night before). The new memories will take precedence over the old if they contradict, but the old memories will still remain (for example, a guard may have the memory of a different combination for a combination lock, password for a door, or route through a maze, but nothing stops them from recalling the true information when the implanted memories prove false.)\n\nEncountering evidence that contradicts the new memory allows a new Will save to realize that the new memories are false. In addition, the Life sphere’s Break Enchantment talent, the break enchantment spell, or the Amnesia talent’s greater or powerful charms may be used to either remove false implanted information, or to make the target realize that the information is faulty.\n\n**Powerful Charm:** As the greater charm, though you may now craft entirely new memories of events that the target has personally witnessed (Will negates). These memories are indistinguishable from actual memories, and appear to fit the flow of the continuity of their memories, but do not otherwise remove or alter the previous memories. A contradictory memory offers a +4 bonus to both the Will save to resist the charm and the Sense Motive check to resist believing the new memory. Similarly, memories of creatures doing something that they would not normally do or doing things against their nature give a further +2 or +4 bonus to these checks, respectively.\n\nA target’s false memories may only be removed or proven false through the Life sphere’s Break Enchantment effect if the caster also possesses the Restore Senses talent, or through the miracle or wish spells. The target’s memory may also be replenished through the Amnesia talent’s powerful charm being used to specifically make the target realize what memories are faulty.",
+   "options": []
+  },
+  {
+   "id": "mind/inspiration-charm",
+   "name": "Inspiration",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Charm Talents",
+   "tags": [
+    "charm"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Debilitating Talents 2",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#inspiration-charm",
+   "md": "You inspire competence in the target.\n\n**Lesser Charm:** As an immediate action, you may add a +2 competence bonus to a skill check or attack roll the target has just made. This can change a failure into a success. You must choose to use this charm after the roll has been made, but before the results are revealed.\n\n**Greater Charm:** This is the same as the lesser charm, except it adds +2d4 to the attack roll or skill check instead of +2.\n\n**Powerful Charm:** This is the same as the greater charm, except it adds +2d4 + 1 per 2 caster levels (minimum 1) to the roll instead of only +2d4.",
+   "options": []
+  },
+  {
+   "id": "mind/mind-shield-charm",
+   "name": "Mind Shield",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Charm Talents",
+   "tags": [
+    "charm"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Debilitating Talents 2",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#mind-shield-charm",
+   "md": "You may establish a ward on the mind of another, one capable of providing protection from mental assault.\n\n**Lesser Charm:** You create a metaphysical bubble of protective insight over the mind of a willing creature. This bestows a morale bonus equal to 1 + 1/2 your caster level to mind-altering effects for a number of rounds equal to your caster level. This mind shield is nullified as soon as the target attempts a single Will save vs. such an effect, whether or not the save was successful. This does not suppress or remove existing magical effects on creatures, it merely protects them from further mental attacks. This charm may be used multiple times per day on targets.\n\n**Greater Charm:** You establish a notional cloud of ablative thought over the mind of a willing creature. This blur of ideological presence bestows a morale bonus to Will saves vs. mind-affecting effects equal to your caster level for a number of rounds equal to your caster level. This mind shield is halved in effectiveness with each Will save made vs. such an effect, whether or not the save was successful. This does not suppress or remove existing magical effects on creatures, it merely protects them from further mental attacks.\n\n**Powerful Charm:** You impart an adamant shield of conceptual certainty upon the mind of a willing creature. This creature gains immunity to any mind-altering spell or effect that would require a Will save for a number of rounds equal to your caster level. This immunity can be overcome with a magic skill check against your MSD. Even if this immunity is bypassed, the target receives a bonus to saves against such effects equal to your caster level.",
+   "options": []
+  },
+  {
+   "id": "mind/mind-spy-charm",
+   "name": "Mind Spy",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Charm Talents",
+   "tags": [
+    "charm"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Debilitating Talents 2",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#mind-spy-charm",
+   "md": "You can send a piece of your mind into your target to see the world through their eyes (save negates). The target gets a new Will save every time you use this ability, although consecutive rounds do not give additional saves. While this link to your target remains, you can choose to use this ability at any time before the link expires, or have its activation linked to a specific event that your target may experience. If a target fails their saving throw against this ability, they do not realize it is being used on them.\n\n**Lesser Charm:** While the link remains active, you can use the target’s senses for 1 round per caster level and see and hear what they can. The rounds need not be consecutive. The link remains active for up to 1 hour per caster level from the time the target is first affected. Abilities that block or suppress possession or remove enchantments (such as the protection from evil spell or the Break Enchantment talent) will similarly block, suppress, or remove the effect of this charm on your target.\n\n**Greater Charm:** As the lesser charm, but you can use their senses for 1 minute per caster level, and the link lasts for 1 day per caster level.\n\n**Powerful Charm:** As the greater charm, but you can use their senses for 1 hour per caster level, and the link lasts for 1 week per caster level.",
+   "options": []
+  },
+  {
+   "id": "mind/paralyze-charm",
+   "name": "Paralyze",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Charm Talents",
+   "tags": [
+    "charm"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Debilitating Talents 2",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#paralyze-charm",
+   "md": "You freeze the target in place.\n\n**Lesser Charm:** The target is dazed for 1 round (Will negates).\n\n**Greater Charm:** The target is stunned for 1 round per caster level (Will negates). The target is allowed a new Will save each round to end this effect early. This is a full-round action that does not provoke an attack of opportunity.\n\n**Powerful Charm:** This is the same as the Paralyze greater charm, except the target is paralyzed instead of stunned.",
+   "options": []
+  },
+  {
+   "id": "mind/project-thoughts-charm-utility",
+   "name": "Project Thoughts",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Charm Talents",
+   "tags": [
+    "charm"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Debilitating Talents 2",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#project-thoughts-charm-utility",
+   "md": "You can communicate directly into the mind of another.\n\n**Lesser Charm:** You may project a telepathic message to a target consisting of no more than 25 words. If you and the target do not possess a shared language, this form of communication is impossible. Unlike other lesser charms, there is no limit to the number of times you may use this on a target in a day.\n\n**Greater Charm:** Your projected telepathic message does not have a word limit, although communication is carried out in real time and you must concentrate for as long as you communicate. You can communicate with the target even without a shared language.\n\n**Powerful Charm:** This functions the same as the greater charm, except the target may also respond to you with their own projected telepathic messages, allowing for two-way communication. However, the target is under no obligation to respond in any way and can simply remain silent if they so choose.",
+   "options": []
+  },
+  {
+   "id": "mind/read-mind-charm-utility",
+   "name": "Read Mind",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Charm Talents",
+   "tags": [
+    "charm"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Debilitating Talents 2",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#read-mind-charm-utility",
+   "md": "You can pull information from a target’s mind.\n\n**Lesser Charm:** You may detect a creature’s emotional state (Will negates if unwilling). Unlike other lesser charms, there is no limit to the number of times you may use this lesser charm on a target in a day.\n\n**Greater Charm:** You may read the surface thoughts of a creature (Will negates if unwilling) for as long as you concentrate.\n\n**Powerful Charm:** You may pull a specific piece of information out of a creature’s mind (Will negates). This is usually enough information to answer a single, specific question to the best of that creature’s knowledge, in no more than 25 words. A creature who successfully saves against this powerful charm may choose to provide no answer to your question or attempt to lie with their Bluff skill. If you use this powerful charm twice on the same creature to ask the same question, the same answer (correct, no answer or lie) is given again.",
+   "options": []
+  },
+  {
+   "id": "mind/recommend-charm",
+   "name": "Recommend",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Charm Talents",
+   "tags": [
+    "charm"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Debilitating Talents 2",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#recommend-charm",
+   "md": "You point out obvious things the target did wrong, hoping they’ll do better next time.\n\n**Lesser Charm:** For 1 round per caster level, whenever the target fails an attack roll, skill check, saving throw, or ability check, at the start of the target’s next turn, the target gains a +1 morale bonus on their first roll with that type of check for 1 round.\n\n**Greater Charm:** This functions as the lesser charm, except the duration increases to 1 minute per caster level and the bonus increases to +1 + 1 per 4 caster levels.\n\n**Powerful Charm:** This functions as the greater charm, except the duration increases to 1 hour per caster level.\n\n**What is “Failure”:** For the purposes of this talent, a failure occurs when an action or roll that carried real risk does not succeed; most checks made in combat can fail, but a target of this sphere effect cannot perform simple skill checks in hopes of failing before attempting a more important check. The GM is the final arbiter of which checks are capable of failure.\n\nSome examples include an attack roll missing a target or provoking an attack of opportunity when using the Acrobatics skill to move through an enemy’s threatened area, etc.",
+   "options": []
+  },
+  {
+   "id": "mind/sleep-charm",
+   "name": "Sleep",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Charm Talents",
+   "tags": [
+    "charm"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Debilitating Talents 2",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#sleep-charm",
+   "md": "You put the target to sleep.\n\n**Lesser Charm:** You make the target lethargic, making it staggered for 1d4 rounds (Will negates).\n\n**Greater Charm:** You put the target to sleep for 1 minute per caster level (Will negates). Targets who take damage automatically wake up, and other creatures may wake a sleeping creature as a standard action (an application of the aid another action).\n\n**Powerful Charm:** The target is placed into a deeper slumber. Whenever the sleeping target takes damage or another creature attempts to wake it as a standard action, the target does not automatically awaken, but instead attempts a new Will save to wake up with a +4 bonus.",
+   "options": []
+  },
+  {
+   "id": "mind/utterances-charm",
+   "name": "Utterances",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Charm Talents",
+   "tags": [
+    "charm"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Debilitating Talents 2",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#utterances-charm",
+   "md": "You tamper with a mind’s language center, and the muscles controlling speech to impede or alter the flow of words. Will save negates.\n\n**Lesser Charm:** You can tug on the strings of conversation, altering the sounds of words, inserting or negating vocalizations as you see fit. You may impose a failure chance on any other magic user whose magic requires a verbal component equal to 10% + an additional 5% for every 5 caster levels (this effect stacks with similar failure chances, such as the 20% chance that accompanies the deafened condition). In addition, you may impose a circumstance bonus or penalty to the target’s Bluff, Diplomacy, Intimidate, or Perform checks equal to 2 + 1 per every 5 caster levels. This effect lasts for a number of minutes equal to your caster level.\n\n**Greater Charm:** In addition to the effects of the lesser charm, you may wrest full control from a target’s speech by stopping them from speaking entirely or choosing words for them to say. This can prevent a target from using magic that requires verbal components or other vocalizations, and can force a target that remains within range to only say what you want them to say. A target not specifically under the mental command to remain silent will be able to say whatever it wishes if it leaves the range of the effect. If you attempt to make a target say something that would be against the target’s nature (such as a young lover renouncing affection for his or her betrothed, or a dragon agreeing to a verbal contract to part with some of its treasure), it gains another Will save to resist the effect.\n\n**Powerful Charm:** Your control over the speech of the target is fluid and nearly flawless. In addition to the effects of the lesser and greater charms, you may make the target speak so eloquently that you may roll a Bluff, Diplomacy, Intimidate, or Perform check through them using your own ranks instead of its own, provided that the check in question is vocal in nature. You may also make use of the target’s ranks in these skills yourself, borrowing the talent or, if you wish, allowing the target to directly speak through you. You may also use magic that requires verbal components (but no other components) through the target, as if the magic originated from the target’s space. Casters with the Gestures talent may include somatic components with no extra save required.",
+   "options": []
+  },
+  {
+   "id": "mind/vision-charm",
+   "name": "Vision",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Charm Talents",
+   "tags": [
+    "charm"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Debilitating Talents 2",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#vision-charm",
+   "md": "You may make someone see things that are not there.\n\n**Lesser Charm:** You may alter a creature’s perception of a single creature, object, sound, or effect for 1 round per caster level (Will negates). You may alter 1 sense (sight, sound, touch/pain, taste, smell); for example, you could make a thief appear to be an alley cat, make a scratch appear as a gaping knife wound, or make the sound of footsteps seem like the wind. You cannot use this to replicate speech or sights and sounds you have never encountered before, nor to make something invisible. If used to cover up pain (such as hiding the target taking damage) the target gains a +4 bonus to their Will save. If the target interacts with the object of their altered perception, they are allowed an additional save every round they continue to do so.\n\n**Greater Charm:** This functions as the lesser charm, except you may affect all 5 senses in relation to the chosen creature, object, sound, or effect.\n\n**Powerful Charm:** This functions as the greater charm, except you may change the target’s perception of everything around them. This grants the target a new saving throw each round they interact with any part of the altered surroundings.",
+   "options": []
+  },
+  {
+   "id": "mind/wrack-charm",
+   "name": "Wrack",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Charm Talents",
+   "tags": [
+    "charm"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Debilitating Talents 2",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#wrack-charm",
+   "md": "You flood your target with disturbing sensations\n\n**Lesser Charm:** You cause the target to become sickened for 1 round per caster level (Will negates).\n\n**Greater Charm:** You cause a target to become nauseated for 1 round per caster level (Will negates). On a successful save, they are still sickened for 1 round per caster level.\n\n**Powerful Charm:** This is the same as the greater charm, except the target becomes stunned for 1 round in addition to being nauseated. On a successful save, they are still sickened for 1 round per caster level.",
+   "options": []
+  },
+  {
+   "id": "mind/dispersion-cloud",
+   "name": "Dispersion",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Cloud Talents",
+   "tags": [
+    "cloud"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#dispersion-cloud",
+   "md": "You imbue a creature or object with a field of refracting cognitive energy that makes it difficult to focus on what or where the field masks.\n\n**Lesser Cloud:** The creature or object becomes difficult to locate intentionally and almost impossible to stumble across accidentally. Perception checks made to recognize a creature or locate such an object or person have their DCs increased by 1 + 1 for every 2 caster levels, and any creature with this ability placed upon them may immediately attempt to hide even if observed or without cover or concealment. Loud noises, sudden actions, or other typically noticeable events allow creatures near such an effect to attempt a Perception check (still modified by the lesser cloud’s boost to DCs) to notice the creature. This effect lasts for a number of hours equal to your caster level. If the creature makes an attack against another creature, the effect automatically ends.\n\n**Greater Cloud:** In addition to the effects of the lesser cloud, a magic skill check may be rolled at the time of casting, prompting a Will save from anyone in the cloud’s line of sight. If the check result is higher than any given observer’s Will save, then when the target is successfully hidden from direct observation the observer will forget about their active presence in the environment. If the observer is reminded about the target by being told of its presence or directly observing it, the observer gains another Will save to recall the target and the target’s significance to the current situation. (Successfully hiding again may, however, cause the observer to forget the target again.)\n\n**Powerful Cloud:** In addition to the effects of the lesser and greater cloud, the warded area, object, or creature becomes supernaturally difficult to observe. Even if a creature is aware of the target, they must succeed at a Will save every round to actively engage with the target, such as through conversation, attacking, searching, or medical treatment. Skill checks that are carried out over the course of minutes, hours, or days (or similar unit of time) instead of rounds impose a Will save for every unit of time involved instead of every round due to the increased intentional focus of the people performing such tasks (up to the duration of the Dispersion effect).",
+   "options": []
+  },
+  {
+   "id": "mind/lure-cloud",
+   "name": "Lure",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Cloud Talents",
+   "tags": [
+    "cloud"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#lure-cloud",
+   "md": "You may cause a location or object to radiate a cloud that invites or repels either creatures of a given type (such as monstrous humanoids or outsiders with the fire subtype), a specific kind of creature (such as blue dragons or red-furred hobgoblins), or creatures of a specific alignment (such as lawful neutral creatures).\n\nIf the effect is used to invite creatures, they feel elated and pleased to be in the area of the effect, or desire to touch or possess the affected item. They have an overpowering desire to stay in the area or remain in contact with the item. If the effect is used to repel creatures, they feel an urge to leave the area or avoid the object in question. The creatures will actively shun the area and not willingly return to it while the talent’s effect is active.\n\nIf a save to resist the invitation effect is successful, the creature is unaffected, but they must reattempt the save after 1d6 x 10 minutes if they are still within range and the effect is still continuing.\n\n**Lesser Cloud:** The lure effect can invite or repel creatures of up to 1/2 your caster level in Hit Dice (Will negates). The effect applies to any creature who comes within close range of the effect. The effect lasts for a number of minutes equal to your caster level.\n\n**Greater Cloud:** As the lesser cloud, except it can affect creatures of up to your caster level in Hit Dice, applies to any creature who comes within medium range of the effect, and lasts for a number of hours equal to your caster level.\n\n**Powerful Cloud:** As the lesser cloud, except the lure effects creatures of up to twice your caster level in Hit Dice, applies to any creature who comes within long range of the effect, and lasts for a number of days equal to your caster level. Casters with the Ranged Mind talent may extend the range to extreme range (1,000 feet + 100 feet per level). Casters with both the Ranged Mind talent and the Zeitgeist advanced talent may make the lure’s effect cover either 1 mile/caster level, or communities of up to 10,000 or smaller.",
+   "options": []
+  },
+  {
+   "id": "mind/misdirect-cloud",
+   "name": "Misdirect",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Cloud Talents",
+   "tags": [
+    "cloud"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#misdirect-cloud",
+   "md": "You imbue an area to persuade travelers to wander elsewhere.\n\n**Lesser Cloud:** A creature entering the cloud must succeed on a Will save. Failure causes them to, potentially, change directions. Roll a d8 as if throwing a splash weapon that missed its target square; on a 1, the creature continues moving in its intended direction. On a 2 through 8, count around the target creature’s adjacent squares in a clockwise direction to determine the direction it walks in. It finishes moving after the intended distance has been traversed, or after it moves into an obstruction (such as a wall). If it was moving faster than its typical movement speed (such as by running) the creature takes 1d4 nonlethal damage. This cloud lasts for one minute per caster level.\n\n**Greater Cloud:** As the lesser cloud, but you determine the new direction of travel when imbuing the area with the cloud and may select a number of familiar creatures equal to your casting ability modifier to be immune to the cloud’s effects.\n\n**Powerful Cloud:** As the greater cloud, but you may alter the direction of every target moving through the cloud as a free action as long as you remain within close range of the cloud.",
+   "options": []
+  },
+  {
+   "id": "mind/suppress-cloud",
+   "name": "Suppress",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Cloud Talents",
+   "tags": [
+    "cloud"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#suppress-cloud",
+   "md": "You imbue an area, creature or object with a field of disruptive cognitive energy, making it difficult to communicate or convey expression and meaning. This cloud lasts for one minute per caster level. Additionally, whenever a creature benefiting from a sphere effect granting them additional languages or insights into language would enter the cloud, you may attempt a magic skill check against the effect’s magic skill defense. If you succeed, the effect is dispelled; if you fail, the effect is not affected and cannot be dispelled by the same cloud for 24 hours. If you possess the Mass Charm talent, you may choose to have the cloud ignore any amount of creatures you designate, which can be changed as a free action.\n\n**Lesser Cloud:** Creatures within the cloud suffer a -2 penalty to all Charisma-based skills checks, in addition to a +2 circumstance bonus to saving throws against language-dependant effects. These bonuses and penalties increase by 1 per 3 caster levels.\n\n**Greater Cloud:** As the lesser cloud, except that they lose all languages that they possess that require verbal speech (this excludes telepathy or non-verbal languages) for as long as they remain within the cloud. These creatures can still shout and act out simple concepts, but the capabilities of speech are lost to them.\n\n**Powerful Cloud:** As the greater cloud, except that they lose all ability to communicate in all forms, including non-verbal languages and telepathy, for as long as they remain within the cloud. This also means that these creatures cannot act out simple concepts or emote in any way, except for volume.",
+   "options": []
+  },
+  {
+   "id": "mind/arcane-calculation-cognition-utility",
+   "name": "Arcane Calculation",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Cognition Talents",
+   "tags": [
+    "Cognition"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#arcane-calculation-cognition-utility",
+   "md": "When you use Perception to intentionally search for stimuli (typically a move action), you may measure a single aspect of whatever you perceive. You may calculate this aspect with perfect accuracy depending on how your Perception check compares to the DC to perceive it, requiring higher results to estimate from vague or incomplete information (see the table below).\n\nAlternately, you may focus on a target you wish to attack as a standard action. This allows you to roll twice on the first attack roll you make against them within the next minute and take the better result. If you focus again before making such an attack, you lose the benefits of any previous focus attempts.\n\n| Perception Check ≥ | Examples |\n| --- | --- |\n| DC | Number of seen objects, weight of a held object |\n| DC + 1 | Speed of something seen, exact time based on the sun’s position |\n| DC + 5 | Number of people from their footsteps, distance from a singing bird |\n| DC + 10 | Distance from smelled food, number of soldiers milling in an army |",
+   "options": []
+  },
+  {
+   "id": "mind/intuit-knowledge-cognition-utility",
+   "name": "Intuit Knowledge",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Cognition Talents",
+   "tags": [
+    "Cognition"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#intuit-knowledge-cognition-utility",
+   "md": "You may spend a spell point as a full-round action to gain temporary understanding of a subject. This allows you to use half your caster level in place of your ranks in one Knowledge or Profession skill, chosen when you use this ability. This effect grants you the ability to use the skill as if you were trained, and lasts for 1 hour per caster level. Multiple applications of this effect do not stack, the latest effect replaces the previous one.",
+   "options": []
+  },
+  {
+   "id": "mind/mental-archive-cognition-utility",
+   "name": "Mental Archive",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Cognition Talents",
+   "tags": [
+    "Cognition"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#mental-archive-cognition-utility",
+   "md": "You construct a magical mental system to perfectly memorize information. By concentrating as long it requires to perceive something (such as the duration of a speech or while reading a book), you can archive it. Once a memory is archived you can concentrate to remember it. This can allow you to notice new details by attempting Perception checks. This does not allow you to use senses or similar abilities that you did not use or possess at the time of memorization (such as a Divination sphere effect, or blindsight).\n\nYou can archive a number of memories equal to your casting ability modifier + 1 per 2 caster levels. A single memory can be up to one book (roughly 400 pages or 100,000 words), one hour of sound, or one minute of full sensory experience. Larger works can be archived by using multiple memories. You may memorize the content of magical texts and similar information, but cannot use their magical properties from memory (such as casting from scrolls, scribing spells, or preparing spells from a spellbook). You may unarchive memories as a free action, losing your ability to perfectly recall them. You may permanently archive a memory by spending a spell point; over the next 24 hours, you engrave it perfectly into your memory. You cannot replenish the spent spell point until the 24 hours are complete. At the end of this time, the memory no longer counts against your archived memories.\n\n**Tracking Memories:** Mental Archive allows characters to store and replace memories, which can require keeping track of. It is recommended that players keep a clear list of what they have temporarily and permanently memorized.",
+   "options": []
+  },
+  {
+   "id": "mind/parallel-cognition-cognition-utility",
+   "name": "Parallel Cognition",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Cognition Talents",
+   "tags": [
+    "Cognition"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#parallel-cognition-cognition-utility",
+   "md": "As a standard action you can divide your mental attention to gain two sets of actions each turn, one physical and one mental.\n\nYour physical actions are limited to a simple, repetitive task (such as following a road, loading a cart, or digging a hole) or a task that exactly follows detailed instructions (such as playing from sheet music or cooking from a recipe). You cannot effectively engage in combat: you lose your Dexterity bonus to armor class and automatically miss against targets with an AC greater than 10. Your mental actions can be any purely mental actions, such as using magic without verbal or somatic components, attempting Perception, Knowledge, Sense Motive, or similar skill checks. As a standard mental action you can change what task your physical body is assigned to or end this effect.",
+   "options": []
+  },
+  {
+   "id": "mind/polyglot-cognition-utility",
+   "name": "Polyglot",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Cognition Talents",
+   "tags": [
+    "Cognition"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#polyglot-cognition-utility",
+   "md": "As a standard action you may gain a rough understanding of a target’s language. You can grasp basic concepts (such as ‘danger,’ ‘help,’ or ‘wait’) but not complex details. This also allows you to communicate in the same language as long as you continue concentrating, though with the same limitation to basic concepts. The effects of this last for as long as you concentrate.\n\nBy spending a spell point, you may understand and communicate in a target’s language without any limitations and maintain the effect without concentration for 1 hour per caster level. The effects of this talent apply to all mediums of communication (such as spoken, signed, or written) but you only understand the mediums you observe (so you cannot write a language you have only heard, or speak a language you have only read).",
+   "options": []
+  },
+  {
+   "id": "mind/rapid-processing-cognition-utility",
+   "name": "Rapid Processing",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Cognition Talents",
+   "tags": [
+    "Cognition"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#rapid-processing-cognition-utility",
+   "md": "You can analyze information with a glance. As a swift or move action you can read up to 500 words or analyze a complex work of art, value an item with Appraise, get a hunch or sense enchantment with Sense Motive, search for tracks with Survival, or intentionally search with Perception.\n\nBy spending a spell point as a swift action you can make passive analysis effortless for 1 hour per caster level. You no longer need to spend an action for any of the following: reading up to 1000 words, analyzing complex art, rolling Appraise to value an item after handling or touching it, rolling Sense Motive to sense enchantment when an enchanted creature passes within close range (this check should be made in secret by the GM), and rolling Sense Motive to make a hunch after one round speaking to them. In addition, you may more rapidly perform tasks that require continual analysis, allowing you to follow tracks at any speed without penalty or perform research in half the usual time.\n\nAt a GM’s discretion, other similar skill checks and uses can benefit from this talent.",
+   "options": []
+  },
+  {
+   "id": "mind/terrifying-mind-cognition",
+   "name": "Terrifying Mind",
+   "kind": "talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Cognition Talents",
+   "tags": [
+    "Cognition"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#terrifying-mind-cognition",
+   "md": "*Source: [Spheres Apocrypha: Banshee's Gasp](https://www.drivethrurpg.com/product/370043/Spheres-Apocrypha-Banshees-Gasp?affiliate_id=549120)*\n\nWhenever you succeed a saving throw against a mind-affecting effect, you may spend 1 spell point as a free action that can be taken outside of your turn to terrify the source of that effect, provided you can identify and see the effect’s source.\n\nThis causes the creature to be shaken for 1 round per caster level. A successful Will save negates this effect. At 10th caster level, the creature is instead frightened for 1 round per caster level, and on a successful save the creature is still shaken for one round per caster level. This is a mind-affecting fear effect.\n\nAdditionally, you may spend 1 spell point as a standard action to ready your mind, and grant yourself a +2 morale bonus to all saving throws made against mind-affecting effects for the next 24 hours. This bonus is doubled against fear effects. This bonus increases by +1 at 8th caster level and every 8 levels thereafter.",
+   "options": []
+  },
+  {
+   "id": "mind/catatonia",
+   "name": "Catatonia",
+   "kind": "advanced talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Advanced Mind Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Mind sphere (Powerful Charm, Sleep (charm)), caster level 10th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#catatonia",
+   "md": "You wrap the weary kittens in a soft and warm blanket so they might drift off to sleep.\n\n**Prerequisites:** Mind sphere (Powerful Charm, Sleep (charm)), caster level 10th.\n\nWhenever you use the Sleep (charm) powerful charm, you may spend an additional spell point. If you do, the duration of this (charm) effect becomes permanent. Whenever the sleeping target would receive a new Will saving throw to wake up, they roll twice on their saving throw, taking the worse result. A target put to sleep this way does not receive a +4 on their saving throw to wake up.\n\nIf your permanent Mind sphere caster level is 15th or higher, a creature who fails their saving throw against a Sleep (charm) powerful charm modified with this advanced talent may only receive a single new Will saving throw to wake up every 24 hours (such as through an attempt to rouse or from taking damage).",
+   "options": []
+  },
+  {
+   "id": "mind/deadly-vision-charm",
+   "name": "Deadly Vision",
+   "kind": "advanced talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Advanced Mind Talents",
+   "tags": [
+    "charm"
+   ],
+   "talentTags": [],
+   "prerequisites": "Mind sphere (Vision (charm)), caster level 10th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#deadly-vision-charm",
+   "md": "**Prerequisites:** Mind sphere (Vision (charm)), caster level 10th.\n\nAs a greater charm, you may spend 2 spell points to give the target a vision of the most fearsome creature imaginable, pulling its subconscious fears into a shape before its eyes. Only the target can see this vision, although you may see the vague shape of the creature the target is seeing. The target first gets a Will save to recognize the image as unreal. If that save fails, the phantasm touches the subject, and the subject must succeed on a Fortitude save or die from fear. This is a fear effect.",
+   "options": []
+  },
+  {
+   "id": "mind/discern-alien-cognition",
+   "name": "Discern Alien Cognition",
+   "kind": "advanced talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Advanced Mind Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Mind sphere.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#discern-alien-cognition",
+   "md": "**Prerequisite:** Mind sphere.\n\nYou may spend 1 spell point to have a Mind sphere effect you create ignore any immunity to fear, sleep, paralysis, and mind-affecting effects that a creature possesses as a result of a racial ability or subtype. This does not allow you to affect creatures whose creature type is immune to mind-affecting effects (for example, a character with this talent could charm a sinspawn or a chernobue qlippoth, but not an iron golem or an id ooze).",
+   "options": []
+  },
+  {
+   "id": "mind/epiphany-cognition-utility",
+   "name": "Epiphany",
+   "kind": "advanced talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Advanced Mind Talents",
+   "tags": [
+    "Cognition"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "Mind sphere (Intuit Knowledge (cognition)), caster level 5th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#epiphany-cognition-utility",
+   "md": "**Prerequisites:** Mind sphere (Intuit Knowledge (cognition)), caster level 5th.\n\nWhen you attempt an ability or skill check to gain information (such as a Knowledge check, Profession checks to answer questions, or Diplomacy checks to gather information) you may spend a spell point to bend your entire mind to the task. The GM then determines the success or failure of the roll secretly. If the check is successful, for each five caster levels you possess you learn an additional detail or piece of related information (such as additional rumors about a city or the casting tradition of a magical effect you have identified).\n\nOn a failed check you still learn the information a basic success would have revealed. However, the GM may then remove a single detail from the information gained or reveal a piece of false information alongside true information (such as revealing a real ability of a monster and a fake vulnerability during a monster lore check, or telling a player all the rules of etiquette for a situation except for one).",
+   "options": []
+  },
+  {
+   "id": "mind/flawless-precision-cognition",
+   "name": "Flawless Precision",
+   "kind": "advanced talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Advanced Mind Talents",
+   "tags": [
+    "Cognition"
+   ],
+   "talentTags": [],
+   "prerequisites": "Mind sphere (Arcane Calculation (cognition), Rapid Processing (cognition)), caster level 10th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#flawless-precision-cognition",
+   "md": "**Prerequisites:** Mind sphere (Arcane Calculation (cognition), Rapid Processing (cognition)), caster level 10th.\n\nBy spending 2 spell points as a standard action you may enter a heightened state of mind. In this state you can analyze and measure all aspects of your surroundings effortlessly, allowing you to use the benefits of Rapid Processing as if you had spent a spell point on it. Further, once per round as a free action you may use Arcane Calculation as if you had used Perception to intentionally search for stimuli. Finally, you gain a pool of rerolls equal to your casting ability modifier; you may spend a reroll once per failed attack roll, ability check, skill check, or saving throw to reroll it, always keeping the second result. The effect of this talent last for 1 minute per caster level.",
+   "options": []
+  },
+  {
+   "id": "mind/greater-communication-utility",
+   "name": "Greater Communication",
+   "kind": "advanced talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Advanced Mind Talents",
+   "tags": [],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "Mind sphere (Project Thoughts (charm)), caster level 10th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#greater-communication-utility",
+   "md": "**Prerequisites:** Mind sphere (Project Thoughts (charm)), caster level 10th.\n\nSo long as you are personally familiar with the subject, you may spend an additional spell point to use your Project Thoughts charm across any distance, even across planes (although there is a 5% chance a cross-planar sending simply does not arrive). Recipients are allowed to respond in kind, but the target must voluntarily receive and send the messages; the target may simply decide to block you out, in which case the conversation immediately ends.\n\nYou no longer require line of sight or line of effect when using the Project Thoughts charm when you are personally familiar with the target.",
+   "options": []
+  },
+  {
+   "id": "mind/insanity",
+   "name": "Insanity",
+   "kind": "advanced talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Advanced Mind Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Mind sphere (Confusion (charm)), caster level 10th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#insanity",
+   "md": "**Prerequisites:** Mind sphere (Confusion (charm)), caster level 10th.\n\nWhen applying a Confusion charm to a target, you may spend an additional spell point to change this charm into an instantaneous effect. The charm has no duration and cannot be dispelled. This cannot be removed except through the Make Whole advanced Life talent or through a similar effect such as a greater restoration spell.",
+   "options": []
+  },
+  {
+   "id": "mind/memetic-link",
+   "name": "Memetic Link",
+   "kind": "advanced talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Advanced Mind Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Mind sphere (Enthrall (charm), Mass Charm [mass], Powerful Charm, Project Thoughts (charm)), caster level 10th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#memetic-link",
+   "md": "**Prerequisites:** Mind sphere (Enthrall (charm), Mass Charm [mass], Powerful Charm, Project Thoughts (charm)), caster level 10th.\n\nWhen you place a powerful Enthrall charm on a target, you may spend an extra spell point at the time of casting to create a memetic link between you and the target. This link allows the target, if they have access to the Mind sphere, enchantment spells, or similar mind-affecting effects, to treat both itself and you as the caster of any such mind-affecting effects that they produce. All calculations involving caster level, saving throw DCs, magic skill checks, and other similar concerns related to the actual casting still use the target’s own casting ability, but you are treated as the caster for the purposes of the results. (For example: If your target uses the Read Mind charm on another target, you would both gain the information gleaned from the secondary target’s mind.) If your target possesses Memetic Link as well, he or she may cede control of an Enthrall charm he or she casts to you as well, creating a potential chain of enthralled targets, though such a chain may only go as long as your casting ability modifier (not counting yourself).",
+   "options": []
+  },
+  {
+   "id": "mind/mind-control",
+   "name": "Mind Control",
+   "kind": "advanced talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Advanced Mind Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Mind sphere (Enthrall (charm), Powerful Charm, Project Thoughts (charm)), caster level 10th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#mind-control",
+   "md": "**Prerequisites:** Mind sphere (Enthrall (charm), Powerful Charm, Project Thoughts (charm)), caster level 10th.\n\nWhen you place a powerful Enthrall charm on a target, you may spend an additional spell point to increase the duration to 1 day per caster level. In addition, the target obeys all commands you give it, except for obviously suicidal ones. Commands that are against the target’s nature grant it a new saving throw with a +2 bonus to throw off the entire effect.\n\nYou may communicate your requests telepathically to the target (if you do not have a shared language, you can only communicate basic commands such as ‘go’, ‘fight’, ‘stand still’, etc.). This can be done over any distance once established, but not across planes.\n\nBy concentrating fully on the effect (a standard action), you can receive full sensory input as interpreted by the mind of the subject, and if you possess the Read Mind talent and Greater Communication advanced talent, it can communicate with you. You cannot actually see through the subject’s eyes, but it still gives you a general idea of what’s going on.\n\nIf you do not spend at least 1 round concentrating on the creature each day, the subject receives a new saving throw to throw off your control.",
+   "options": []
+  },
+  {
+   "id": "mind/psychic-backlash",
+   "name": "Psychic Backlash",
+   "kind": "advanced talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Advanced Mind Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Mind sphere (Psychic Vengeance).",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#psychic-backlash",
+   "md": "**Prerequisites:** Mind sphere (Psychic Vengeance).\n\nWhen you use Psychic Vengeance in response to a charm effect, you may use the charm talent that was targeting you as part of Psychic Vengeance even if you do not possess the talent yourself.",
+   "options": []
+  },
+  {
+   "id": "mind/recondite-stimuli",
+   "name": "Recondite Stimuli",
+   "kind": "advanced talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Advanced Mind Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Mind sphere, caster level 1st.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#recondite-stimuli",
+   "md": "**Prerequisites:** Mind sphere, caster level 1st.\n\nYou can reach the minds of creatures thought, by some, to be untouchable by the mental arts. When you gain this talent, you may choose plants and oozes, or one creature type from the following list: constructs, vermin, or undead.\n\nOnce selected, you may affect creatures of that creature type with your charms and other mind-affecting effects, bypassing any type-based immunity to mind-affecting effects these creatures may have, and treating mindless creatures as having an Intelligence score of 1 for the purposes of Mind sphere talents.\n\n**Special:** This talent may be selected more than once. Each time, a different creature type must be selected.",
+   "options": []
+  },
+  {
+   "id": "mind/zeitgeist-cloud",
+   "name": "Zeitgeist",
+   "kind": "advanced talent",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Advanced Mind Talents",
+   "tags": [
+    "cloud"
+   ],
+   "talentTags": [],
+   "prerequisites": "Mind sphere (Mass Charm [mass], Project Thoughts (charm)), caster level 10th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind#zeitgeist-cloud",
+   "md": "**Prerequisites:** Mind sphere (Mass Charm [mass], Project Thoughts (charm)), caster level 10th.\n\nYou may spend an additional 1, 2, or 3 spell points and take 10 minutes to affect large communities of 200 or smaller, 2,000 or smaller, or 5,000 or smaller (respectively) with a single lesser or greater version of a charm. Every individual within this community of 3 or fewer Hit Dice is automatically affected by this charm, while everyone with 4 or more Hit Dice receives a Will save as normal with a +4 bonus. This effect lasts for a number of hours equal to your caster level.\n\n**Note:** GMs using the Zeitgeist talent to create an enthralled thorpe or all-too-sleepy little village are encouraged to not roll the Will saves until player characters arrive “on screen”, and to recall that many, many NPC citizens will have fewer than 3 Hit Dice and not be permitted a save. Waiting for the PCs to arrive will save prep time and cut down on NPC note mismanagement, even if you do realize that a plot-crucial NPC was actually unaffected and should have been active elsewhere from time to time.",
+   "options": []
+  },
+  {
+   "id": "mind/backdoor-control-dual-sphere",
+   "name": "Backdoor Control",
+   "kind": "feat",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Enhancement sphere (Bestow Intelligence (enhance)), Mind sphere (Expanded Charm).",
+   "source": "Polished Dark",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#backdoor-control-dual-sphere",
+   "md": "**Prerequisites:** Enhancement sphere (Bestow Intelligence (enhance)), Mind sphere (Expanded Charm).\n\n**Benefit:** Whenever you use a charm against a creature or object you successfully used Bestow Intelligence on, requests you make that would normally be against their nature are instead treated as things they would not normally do. This increased control extends to creatures you create through advanced magic, such as Bestow Life, Duplicate, or Give Magic Life.",
+   "options": []
+  },
+  {
+   "id": "mind/deceptive-advisor",
+   "name": "Deceptive Advisor",
+   "kind": "feat",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Mind sphere.",
+   "source": "Polished Dark",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#deceptive-advisor",
+   "md": "**Prerequisite:** Mind sphere.\n\n**Benefit:** When you attempt to influence the attitude of an individual with the Diplomacy skill or deceive an individual with the Bluff skill, your very words are laced with deceptive, incantatory cadences. As a swift action, you may cause a target within 30 feet of you to attempt a Will save with a DC equal to 10 + 1/2 your Mind sphere caster level + your casting ability modifier. Failure means that your Bluff checks are treated as if your statements are one step more reasonable to the target (for example, an impossible lie that would ordinarily impose a -20 penalty to your Bluff checks would instead be treated as merely far-fetched and would only impose a -10 penalty to your Bluff check).\n\nIn addition, failure means that the target is treated as one stage friendlier to you for the purposes of shifting his or her attitude by one step (for instance, changing the attitude of a creature from unfriendly to indifferent normally requires a DC equal to 20 + the creature’s Charisma modifier, but would now only require a DC equal to 15 + the creature’s Charisma modifier). These effects last a number of hours equal to your casting ability modifier, but the normal rules for the frequency with which a creature may be influenced by Bluff or Diplomacy are still in effect. This is a mind-affecting, language-dependent effect.",
+   "options": []
+  },
+  {
+   "id": "mind/doublespeak-dual-sphere",
+   "name": "Doublespeak",
+   "kind": "feat",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Fate sphere (Echoing Word [mass]), Mind sphere; or Fate sphere, Mind sphere (Mass Charm [mass]).",
+   "source": "Polished Dark",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#doublespeak-dual-sphere",
+   "md": "What might spell doom for one listener brings the greatest of joy to another.\n\n**Prerequisites:** Fate sphere (Echoing Word [mass]), Mind sphere; or Fate sphere, Mind sphere (Mass Charm [mass]).\n\n**Benefit:** When you use a charm, cloud, or word, you may spend 1 additional spell point to affect the target, targets, or creatures in the area with a different charm, cloud, or word you may create if they are of a certain alignment (designations may include specifications such as lawful good, any good, or any nongood). Creatures of that alignment are instead affected by a different charm or cloud effect of your choice of the same strength that you may create, or a word you may cast, chosen when you cast the first effect. You must spend spell points for the secondary effect as normal.",
+   "options": []
+  },
+  {
+   "id": "mind/dreamspace-dual-sphere",
+   "name": "Dreamspace",
+   "kind": "feat",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Mind sphere, Warp sphere.",
+   "source": "Polished Dark",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#dreamspace-dual-sphere",
+   "md": "**Prerequisites:** Mind sphere, Warp sphere.\n\n**Benefit:** When you sleep, you may choose to project your mind into a quasi-real space, or dreamspace. This dreamspace is a single 10-foot cube in size (increasing by a single 10-foot cube every 4 character levels, their arrangement determined when you level) and you can select the ambient light level, temperature, and cosmetic style when entering the dreamspace or as a standard action. The cosmetic style of your dreamspace is only partially under your control, reflecting your current dreams, state of your mind, and conscious desires.\n\nWhen you use an action to adjust the style it will always reflect your intended changes, but you do not have fine control over its appearance and your unconscious mind may be reflected in its subtler elements. You can choose to have it appear as a castle, but not a specific castle or place you have seen, and if you are worried it may appear to be under siege or shrouded in shadow.\n\nYou interact with the dreamspace using a copy of your body and all you wear, leaving behind your physical body in the real world. You may also choose to bring up to a heavy load of unattended, inanimate objects within touch range into your dreamspace with you, causing them to disappear when you fall asleep, and may choose to bring them back in a similar manner when you wake. Your dreamspace and any items left within it persist even while you are not in it, though they enter stasis until you return.\n\nBecause the dreamspace is not a true physical location, you cannot take any actions that would cause you to leave the dreamspace other than waking up, or that would affect your body or the real world. In addition, the dreamspace cannot be entered using normal teleportation or planeshifting effects. At the GM’s discretion, effects allowing travel to normal dreams can enter the dreamspace, and it may count as a dreamscape for certain effects.\n\nOtherwise, actions have their normal effects in the dreamspace. Regardless of how you spend your time in dreamspace, you gain the normal benefits of sleep.",
+   "options": []
+  },
+  {
+   "id": "mind/fools-counterspell-counterspell",
+   "name": "Fool’s Counterspell",
+   "kind": "feat",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Counterspell"
+   ],
+   "talentTags": [],
+   "prerequisites": "Illusion sphere or Mind sphere; Counterspell.",
+   "source": "Polished Dark",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#fools-counterspell-counterspell",
+   "md": "**Prerequisites:** Illusion sphere or Mind sphere; Counterspell.\n\n**Benefit:** When you successfully counter a spell, the caster must succeed at a Will save equal to your Illusion sphere DC or Mind sphere DC (whichever is greater), or believe the spell had its intended effect, even if they would otherwise be aware of its failure. Treat this effect as a figment with a duration equal to the countered spell, and use the rules for interacting with and investigating figments.",
+   "options": []
+  },
+  {
+   "id": "mind/hypochondriacs-terror-dual-sphere",
+   "name": "Hypochondriac’s Terror",
+   "kind": "feat",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Blood sphere, Mind sphere, caster level 5th.",
+   "source": "Polished Dark",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#hypochondriacs-terror-dual-sphere",
+   "md": "When you take over a creature’s bodily functions, you may also blend in your mental manipulation to torture them from the inside out.\n\n**Prerequisites:** Blood sphere, Mind sphere, caster level 5th.\n\n**Benefit:** When you successfully establish blood control on a target, you may spend a spell point as a swift action to manipulate their mind, granting them a Will save against your Mind sphere DC. On failure, their body’s response system is under your control for the duration of the blood control. If used alongside Mass Blood Magic, you may affect any amount of creatures with this feat, but must pay the additional spell point per creature you affect.\n\nWhen the creature fails their Will save against this feat, you select an ailment for the creature to suffer from, chosen from the following:\n\n- **Fight or Flight:** The target is shaken until the start of their next turn.\n- **Hallucination:** If you possess the Visions talent, you may cause the creature to suffer as if they failed a save against the Vision lesser charm, but the effects only persist for one round.\n- **Pustule Burst:** The target suffers nonlethal damage equal to 1d4 + half your caster level with the Blood sphere.\n- **Queasy:** The target is sickened until the start of their next turn.\n- **Spasm:** The target moves 5 feet in any direction you choose. You cannot move the target into a square that is intrinsically dangerous or into an obstacle, and the target may still take a 5-foot step afterwards.\n- **Twitches:** If you possess the Gestures talent, you may cause the creature to suffer as if they failed a save against the Gestures lesser charm, but the effects only persist for one round.\n\nThe target suffers from that ailment at the beginning of each of its turns. You may change the ailment as a free action. Additionally, whenever you successfully use a (still) or (quicken) ability on the target, you may cause them to suffer from an additional ailment for one round.",
+   "options": []
+  },
+  {
+   "id": "mind/implausible-deniability-dual-sphere",
+   "name": "Implausible Deniability",
+   "kind": "feat",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Illusion sphere (Manipulate Aura (sensory, magic), Programmed Illusion), Mind sphere.",
+   "source": "Polished Dark",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#implausible-deniability-dual-sphere",
+   "md": "**Prerequisites:** Illusion sphere (Manipulate Aura (sensory, magic), Programmed Illusion), Mind sphere.\n\n**Benefit:** You may have your illusions interact with Detect Thoughts and similar abilities as if they had an Intelligence score of up to twice your caster level.\n\nWhenever you place a glamer on a creature, you may spend an additional spell point to create an illusionary mind complete with false memories, including a false Intelligence score (for this purpose creatures with an Intelligence 0 are treated as invisible to effects such as thoughtsense). When a creature attempts to extract information directly from the mind or compel honest responses of anyone under the effects of glamers modified by this feat, they must first attempt a magic skill check against your magic skill defense. Failure indicates the information or response given is any information of your choosing, even false information. You do not need to be aware of the mental intrusion or compulsion to choose the information gained.\n\nThe illusionary mind added to glamers modified by this feat constantly broadcasts misleading information. Abilities that would grant an insight bonus to attack rolls, combat maneuver checks, skill checks or armor class against the glamered creature instead incur a penalty of equal value. This also applies to any effects that rely on mind reading such as the battlefield relay symbiat class feature.\n\n**Special:** If you possess the persuasive class feature you may add the bonus to save DC’s to Illusion sphere abilities. This feat counts as a talent with the (Sensory: Mind) tag.",
+   "options": []
+  },
+  {
+   "id": "mind/mental-aura",
+   "name": "Mental Aura",
+   "kind": "feat",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Mind sphere (Mass Charm [mass]).",
+   "source": "Polished Dark",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#mental-aura",
+   "md": "Your very presence can be enough to exert your inhuman will on others.\n\n**Prerequisites:** Mind sphere (Mass Charm [mass]).\n\n**Benefit:** You may create an effect known as a mental aura attached to yourself or to other creatures by spending a spell point. A mental aura functions as a cloud attached to a creature (with the normal radius of 10 feet in radius + an extra 5 feet per caster level) except that it becomes inactive if that creature is knocked unconscious and is dispelled if they are killed. Mental auras continue to function if they go beyond the range of their creator. The mental aura has a duration of concentration or 1 minute per caster level if you spend an additional spell point.\n\nAny creature that enters or starts its turn in a mental aura is affected by a single lesser charm that you can create (chosen at the time you create the aura). At your discretion, you may choose to omit allies or enemies from the effects of the mental aura. Creatures are allowed saving throws as normal to negate the effects of these charms. For effects that are dependent upon input or orders by the caster (such as Suggestion or Command), this input is decided when the mental aura is created. A creature that has been affected by a mental aura cannot be affected by the same aura again (or the charm it replicated) for 24 hours. Effects such as Minor Charm Specialist which would increase the number of times a creature may be affected by a charm increase the number of times they may be affected by mental aura as if it were a charm.\n\nThe recipient must be within touch range or within close range if you possess the Ranged Mind talent). An unwilling creature can have a mental aura attached to them as a touch attack and they may attempt a Will save to negate the effect initially. A successful save in this context ends the mental aura immediately. An enemy which fails their saving throw to have a mental aura attached to them is considered to have failed the saving throw to avoid being affected if the creator of the mental aura allows them to be affected. Spell resistance can prevent a mental aura from being attached to a creature.",
+   "options": []
+  },
+  {
+   "id": "mind/mental-cloud",
+   "name": "Mental Cloud",
+   "kind": "feat",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Mind sphere (Mass Charm).",
+   "source": "Polished Dark",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#mental-cloud",
+   "md": "**Prerequisites:** Mind sphere (Mass Charm).\n\n**Benefit:** You may spend 2 spell points to manifest a (charm) as an actual, literal cloud of mental energy. This cloud has a radius of up to 10 feet + 5 feet per 5 caster levels, centered within your maximum charm range, and lasts for 1 minute per caster level. This cloud does not obscure sight or grant concealment, and the cloud remains for 1 minute per caster level. A moderate wind ( 11+ mph) will disperse it within 4 rounds, while a strong wind (21+ mph) will dissipate it at the start of your next turn. Whenever a legal creature enters this cloud (including allies, enemies, or even yourself) or begins their turn inside it, they become subject to the charm and may attempt a saving throw if allowed and desired. Once a creature has either saved against or become subject to the charm, they cannot be affected again even if they remain with the cloud or leave and return.",
+   "options": []
+  },
+  {
+   "id": "mind/mind-over-matter-combat",
+   "name": "Mind Over Matter",
+   "kind": "feat",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Mind sphere, caster level 5th.",
+   "source": "Polished Dark",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#mind-over-matter-combat",
+   "md": "**Prerequisites:** Mind sphere, caster level 5th.\n\n**Benefit:** When you take hit point damage and are not flat-footed against the damage’s source, you may choose to spend spell points as a free action (even when it is not your turn) to delay some or all of the damage, effectively nullifying it for the moment when it occurs. For every spell point spent, you may delay an amount of damage equal to twice your Mind caster level (meaning a level 7 thaumaturge could delay 28 points of damage by spending 2 spell points). The damage is delayed for a number of rounds equal to your casting ability modifier.\n\nIn addition, by spending a spell point as a standard action, you may will your metabolic functions to respond differently. You may delay the effect of poison on yourself by altering its frequency by one step (rounds to minutes, minutes to hours, or hours to days, only usable once per poison), you may use your casting ability score instead of Constitution for holding your breath, and you may add your casting ability modifier as a bonus to checks to disguise your health under close observation (such as when feigning death).\n\nThis is treated as a supernatural ability. Any delayed damage can be taken at a point prior to the expiration of the delay by dismissing the effect, as if dismissing a spell. Healing received while damage is delayed can preemptively negate the damage before the effect ends if you wish. If an attack’s damage is negated entirely, secondary effects of the damage are also negated if the secondary effect would be negated through damage reduction.",
+   "options": []
+  },
+  {
+   "id": "mind/minor-charm-specialist",
+   "name": "Minor Charm Specialist",
+   "kind": "feat",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Mind sphere.",
+   "source": "Polished Dark",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#minor-charm-specialist",
+   "md": "**Prerequisite:** Mind sphere.\n\n**Benefit:** You may target an individual creature with a lesser charm an additional amount of times per day equal to your casting ability modifier (minimum 1). Additionally, if a creature would successfully save against your lesser charms, it does not count towards the maximum amount of times you may target an individual creature in a day.",
+   "options": []
+  },
+  {
+   "id": "mind/never-really-there-dual-sphere",
+   "name": "Never Really There",
+   "kind": "feat",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Mind sphere (Amnesia (charm)), Warp sphere.",
+   "source": "Polished Dark",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#never-really-there-dual-sphere",
+   "md": "Your escape masks any memory of your presence.\n\n**Prerequisites:** Mind sphere (Amnesia (charm)), Warp sphere.\n\n**Benefit:** When you use the Amnesia charm from the Mind sphere, you may extend the casting time by 1 step or spend an additional spell point to teleport yourself as part of the same action. You may teleport other creatures as part of this action but must include yourself among the targets.",
+   "options": []
+  },
+  {
+   "id": "mind/paranoia-agent-dual-sphere",
+   "name": "Paranoia Agent",
+   "kind": "feat",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Dark sphere, Mind sphere.",
+   "source": "Polished Dark",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#paranoia-agent-dual-sphere",
+   "md": "*Source: [Polished Dark](https://www.drivethrurpg.com/en/product/497811/diamond-polished-spheres-dark-sphere?affiliate_id=549120)*\n\n*Success so clearly within their grasp … or is it merely a trick of the light.*\n**Prerequisites:** Dark sphere, Mind sphere.\n\n**Benefit:** You gain the following abilities based on the Dark sphere and Mind sphere talents you possess:\n\n- **Hypnotic Darkness (requires Debilitating Darkness):** Your *gloom* is always treated as having the looming darkness option when targeting a creature with a *charm*, debuffing the saving throw associated with that charm (i.e. applying a penalty to Will saves for a *charm* that requires a Will saving throw). This is in addition to any other (darkness) options added to the *gloom*; if the *gloom* was already granted the looming darkness option, looming darkness functions normally and penalizes the charm’s associated saving throw (if not already selected); this includes the emergent augment.\n- **Memory Hole (requires Amnesia):** You gain the memory hole (darkness) option:",
+   "options": [
+    {
+     "name": "Memory Hole",
+     "tags": [
+      "darkness"
+     ],
+     "talentTags": [],
+     "anchor": "memory-hole-darkness",
+     "md": "**Descriptor:** compulsion, mind-affecting\n**Saving Throw:** Will (negates); see text\n**Cost:** +1 sp\n\n**Effect:** This (darkness) does not actively affect targets when within the *gloom*, only when the target would no longer be within the *gloom* (including the gloom ending, moving out of the *gloom*’s area, and so on). When the target leaves the *gloom*, the target immediately loses all awareness of events which occurred within the *gloom* (including interactions with people, items, events, and so on). This (darkness) otherwise functions as the Mind sphere Amnesia *greater charm*, but only for events within the *gloom*.\n\nA target may naturally notice or remember objects in their possession being misplaced, notice wounds on their body, and make reasonable conclusions; likewise, a target may remember they were engaged in combat (if aware of a threat before entering the *gloom* and so on).\n\n**Augment 1 sp [Damnatio Memoriae]:** An affected target’s memories can only be restored through magical means (*[break enchantment](https://aonprd.com/SpellDisplay.aspx?ItemName=Break%20enchantment)*, Inception, etc.); a reminder of events from another creature is no longer sufficient to attempt a new saving throw to remember."
+    }
+   ]
+  },
+  {
+   "id": "mind/pressure-point-proficiency-combat",
+   "name": "Pressure Point Proficiency",
+   "kind": "feat",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Mind sphere, Improved Unarmed Strike.",
+   "source": "Polished Dark",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#pressure-point-proficiency-combat",
+   "md": "**Prerequisites:** Mind sphere, Improved Unarmed Strike.\n\n**Benefit:** By studying precisely where and how to strike your enemies, you can interrupt the biological processes that contribute to mental stability. If you make a successful unarmed strike against an opponent, it takes a -1 penalty to all Will saves until the end of your next turn. Multiple strikes you make against the same target do not stack, and the penalty to Will saves can apply to mind-affecting effects channeled through the strike.",
+   "options": []
+  },
+  {
+   "id": "mind/pressure-point-pugilist-combat",
+   "name": "Pressure Point Pugilist",
+   "kind": "feat",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Mind sphere, Improved Unarmed Strike, Pressure Point Proficiency, character level 5th.",
+   "source": "Polished Dark",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#pressure-point-pugilist-combat",
+   "md": "**Prerequisites:** Mind sphere, Improved Unarmed Strike, Pressure Point Proficiency, character level 5th.\n\n**Benefit:** The penalty from Pressure Point Proficiency increases to -2 if you successfully hit the target a second time in the same round.",
+   "options": []
+  },
+  {
+   "id": "mind/silver-tongue",
+   "name": "Silver Tongue",
+   "kind": "feat",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Mind sphere.",
+   "source": "Polished Dark",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#silver-tongue",
+   "md": "**Prerequisite:** Mind sphere.\n\n**Benefit:** As an immediate action, you may spend a spell point to reroll a single Bluff, Diplomacy, or Intimidate check with a +2 enhancement bonus. You may make the decision to use this ability after rolling the check, and you must keep the result of the second roll even if it is lower. This bonus increases by +1 per 3 Mind caster levels.",
+   "options": []
+  },
+  {
+   "id": "mind/vampires-guile-dual-sphere",
+   "name": "Vampire’s Guile",
+   "kind": "feat",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Blood sphere, Mind sphere.",
+   "source": "Polished Dark",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#vampires-guile-dual-sphere",
+   "md": "**Prerequisites:** Blood sphere, Mind sphere.\n\n**Benefit:** Creatures taking bleed damage suffer a -2 penalty to saves against your Mind sphere abilities. Creatures under the effect of one of your non-harmless Mind sphere effects count as being below half their hit points for the purpose of determining saving throw penalties against your Blood sphere abilities.\n\n---\n\n*Archived: [[Mind Sphere Feats (Ultimate)|Ultimate version]] (before *Polished*)*",
+   "options": []
+  },
+  {
+   "id": "mind/addling-brew",
+   "name": "Addling Brew",
+   "kind": "drawback",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Drawbacks",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Cognition Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind-Sphere-Drawbacks#addling-brew",
+   "md": "You must select the Instill Charm talent with the bonus talent granted by this drawback, and you can only use your Mind sphere abilities through this talent.",
+   "options": []
+  },
+  {
+   "id": "mind/animal-shaman",
+   "name": "Animal Shaman",
+   "kind": "drawback",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Drawbacks",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Cognition Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind-Sphere-Drawbacks#animal-shaman",
+   "md": "You may affect animals with your Mind sphere effects, but not creatures of your own creature type. You must choose the Recondite Stimuli advanced talent as the bonus talent gained from this drawback, and must choose vermin with that talent.\n\n**Incompatible:** Kindred Knack",
+   "options": []
+  },
+  {
+   "id": "mind/blatant-side-effects",
+   "name": "Blatant Side-Effects",
+   "kind": "drawback",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Drawbacks",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Cognition Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind-Sphere-Drawbacks#blatant-side-effects",
+   "md": "Your mind-affecting magic acts more like a hammer than a scalpel, and produces odd, unintended changes in your target, effectively giving your mind-affecting effects a signature, recognizable trait. Deadpan speech patterns accompanied by an echo and a change in vocabulary, strange glowing halos, curious tremors in the earth whenever the target draws near, the temporary growth of horns or antlers, or even inexplicably vibrant, sometimes swirling, eyes are just some of the traces that your magical mind-affecting effects might leave on their targets.\n\nThese side effects vanish without a trace when a target is no longer under the effect of one of your mind-affecting effects, making it incredibly obvious when you are influencing someone’s mind and when you are not. Whatever the nature of the signs, a person speaking to or observing a target so affected will recognize the creature’s signs with a DC 10 Perception check, and may know (either through personal history or a DC 10 Spellcraft check) that the target is under mental control. In addition, a DC 15 Sense Motive check will suggest mental coercion and allow someone to detect the enchantment at work, as will a DC 5 Sense Motive check for incredibly blatant mind-affecting effects (such as the Enthrall or Mind Control talents or the dominate person spell).",
+   "options": []
+  },
+  {
+   "id": "mind/empath",
+   "name": "Empath",
+   "kind": "drawback",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Drawbacks",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Cognition Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind-Sphere-Drawbacks#empath",
+   "md": "You do not gain the Suggestion charm. You must select a (charm) talent with the bonus talent granted by this drawback.",
+   "options": []
+  },
+  {
+   "id": "mind/hypnotic-gaze",
+   "name": "Hypnotic Gaze",
+   "kind": "drawback",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Drawbacks",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Cognition Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind-Sphere-Drawbacks#hypnotic-gaze",
+   "md": "To affect a target with your charms, you must look them in the eyes. A target must be able to see your eyes (or another part of your body at GM discretion) to be targeted with your charm. A creature may declare they are averting their gaze from your eyes as an immediate action or a free action which can be taken once per round, in which case you gain concealment against them for 1 round but they receive a +4 bonus on any saving throws against your charm for the duration. A creature who shuts their eyes completely (a free action which can be taken once per round, in which case the creature cannot open its eyes until the start of its next turn) or otherwise cannot see you at all cannot be targeted by your charm at all. Your charm effects are considered gaze attacks for any ability that would affect gaze attacks.\n\nIn order to target yourself with a charm, you must be able to clearly see your reflection in some nearby reflective surface such as a mirror or a pool of water. Whenever you target yourself with a charm sphere effect by looking into a reflection of yourself, you are flat-footed until the beginning of your next turn. You may not use your charms on yourself while you cannot see. You must select a (charm) talent or a talent which affects your charms using this drawback.\n\n**Incompatible:** Addling Brew, Inward Focus",
+   "options": []
+  },
+  {
+   "id": "mind/inward-focus",
+   "name": "Inward Focus",
+   "kind": "drawback",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Drawbacks",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Cognition Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind-Sphere-Drawbacks#inward-focus",
+   "md": "*Source: [Spheres Apocrypha: Cognition Talents](https://www.drivethrurpg.com/product/293022/Spheres-Apocrypha-Cognition-Talents?affiliate_id=549120)*\n\nYou cannot use charm effects. You may only select (cognition) talents and talents that augment them, and must select a (cognition) talent with the bonus talent gained from this drawback.\n\n**Incompatible:** Any Mind drawback that retains or affects a (charm) talent.",
+   "options": []
+  },
+  {
+   "id": "mind/kindred-knack",
+   "name": "Kindred Knack",
+   "kind": "drawback",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Drawbacks",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Cognition Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind-Sphere-Drawbacks#kindred-knack",
+   "md": "You may not affect creatures of your own creature type, and the Expanded Charm talent does not allow you to affect creatures of your own creature type. The bonus magic talent gained from this drawback must be the Recondite Stimuli advanced talent.\n\n**Incompatible:** Animal Shaman",
+   "options": []
+  },
+  {
+   "id": "mind/lost-in-translation",
+   "name": "Lost In Translation",
+   "kind": "drawback",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Drawbacks",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Cognition Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind-Sphere-Drawbacks#lost-in-translation",
+   "md": "Your charms become language dependent effects; the targets of your (charm) talents must share a language with you in order for the charms to take effect, and the language must be properly spoken to them as part of the casting. Creatures incapable of hearing you cannot be affected by your charms. You may not select or use (cloud) talents.",
+   "options": []
+  },
+  {
+   "id": "mind/tactile-charm",
+   "name": "Tactile Charm",
+   "kind": "drawback",
+   "sphere": "Mind",
+   "system": "Spheres of Power",
+   "group": "Drawbacks",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Spheres Apocrypha: Cognition Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Mind/Mind-Sphere-Drawbacks#tactile-charm",
+   "md": "The range of your Mind sphere effects such as charms and clouds decreases from close to touch. Using a charm on a target requires you to touch them first, which usually requires a melee touch attack as part of using the charm. You must select the Charming Strike talent as the bonus talent from this drawback, and can only use that talent when making melee attacks.",
+   "options": []
+  }
+ ]
+}

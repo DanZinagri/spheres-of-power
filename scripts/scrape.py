@@ -2734,7 +2734,7 @@ COMPENDIUM = {
     },
     "Mana": {
         "system": "Spheres of Power",
-        "approved": False,
+        "approved": True,
         "pages": [
             # Expunge (Spellburn), Manabond (Mystical Bond) and Manipulation/Amp (Shuffle)
             ("Mana", "## Expunge", "sphere ability", 2, 4),
@@ -2749,6 +2749,23 @@ COMPENDIUM = {
             ("Mana Sphere Drawbacks", "(page)", "drawback", 4),
         ],
         "not_options": r"^Table|^Note",
+    },
+    "Mind": {
+        "system": "Spheres of Power",
+        "approved": False,
+        "pages": [
+            # Charm, with Suggestion
+            ("Mind", "## Charm", "sphere ability", 2, 4),
+            ("Mind", "Mind Talents", "talent", 4),
+            ("Mind", "Charm Talents", "talent", 4),
+            ("Mind", "Cloud Talents", "talent", 4),
+            ("Mind", "Cognition Talents", "talent", 4),
+            ("Mind", "Advanced Mind Talents", "advanced talent", 4),
+            ("Mind Sphere Feats", "(page)", "feat", 4),
+            ("Mind Sphere Drawbacks", "(page)", "drawback", 4),
+        ],
+        # the (cloud) / (cognition) talent type notes under Charm
+        "not_options": r"^Table|^Note|^Cloud$|^Cognition$",
     },
     "Warleader": {
         "system": "Spheres of Might",

@@ -26323,7 +26323,7 @@
   ],
   "summary": "As a standard action, you may expunge the energy from a creature within close range, applying the effects of a single (expunge) talent that you possess upon…",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/manabond",
@@ -26342,7 +26342,7 @@
   ],
   "summary": "You can create a manabond between yourself and the targeted creature as either a swift action made as part of successfully using an (expunge) or (manipulation)…",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/manipulationamp",
@@ -26361,7 +26361,7 @@
   ],
   "summary": "As a standard action, you may use any (manipulation) that you possess, up to a range of close.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/defensive-bond",
@@ -26378,7 +26378,7 @@
   "options": [],
   "summary": "Whenever you are the target of a magical sphere effect or supernatural effect, you may spend a spell point as an immediate action to create a manabond between…",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/draining-spellburn",
@@ -26395,7 +26395,7 @@
   "options": [],
   "summary": "When using the Spellburn expunge, you may cause the initial spell point damage to be treated as if the caster had spent them normally (using your caster level…",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/enlarged-shuffle",
@@ -26412,7 +26412,7 @@
   "options": [],
   "summary": "You may spend an additional spell point as part of using Shuffle to increase its radius to a close-range radius.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/explosive-expunge",
@@ -26429,7 +26429,7 @@
   "options": [],
   "summary": "When using expunge, you may spend an additional 2 spell points to instead affect a 10-foot radius burst, increasing by 5 feet for every 5 caster levels you…",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/flexible-shuffle",
@@ -26446,7 +26446,7 @@
   "options": [],
   "summary": "When using Shuffle, you may instead shape the shuffle in the form of contiguous 5-foot squares, up to a maximum of 3 squares + 1 square per 2 caster levels.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/hardened-bond",
@@ -26463,7 +26463,7 @@
   "options": [],
   "summary": "When creating a manabond, you may spend a spell point to allow your manabond to manifest as a physical cord connecting yourself and the target creature,…",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/heavy-expunge",
@@ -26480,7 +26480,7 @@
   "options": [],
   "summary": "Whenever a creature fails their saving throw against your expunge or you succeed a magic skill check against a target using expunge, you can spend an…",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/magical-conduit-mass",
@@ -26499,7 +26499,7 @@
   "options": [],
   "summary": "You can create a manabond as a free action as part of casting another Mana sphere ability, creating multiple manabonds if the ability affects multiple…",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/manasurge-strike-strike",
@@ -26518,7 +26518,7 @@
   "options": [],
   "summary": "As a standard action, you can make one ranged or melee attack using a weapon in conjunction with using an (expunge) or (manipulation) talent.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/manavore",
@@ -26535,7 +26535,7 @@
   "options": [],
   "summary": "Whenever you would gain spell points (whether temporary or not) from any effect, you can instead choose to consume the spell points, fueling your vitality.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/overpowering-expunge",
@@ -26552,7 +26552,7 @@
   "options": [],
   "summary": "You may either increase the casting time of your expunge by one step (normally from a standard to a full-round action) or spend an additional spell point in…",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/ranged-mana-range",
@@ -26571,7 +26571,7 @@
   "options": [],
   "summary": "You can take this talent a second time, increasing the range from medium to long.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/retained-imbuement",
@@ -26588,7 +26588,7 @@
   "options": [],
   "summary": "Temporary spell points you grant from any Mana sphere effect last for 1 minute per caster level rather than 1 round per caster level.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/sudden-empowermentweakening",
@@ -26605,7 +26605,7 @@
   "options": [],
   "summary": "Whenever the recipient of the Mystical Bond (manabond) would cast an instantaneous sphere effect, as a free action that can be taken outside your turn, you may…",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/swap-bond",
@@ -26622,7 +26622,7 @@
   "options": [],
   "summary": "As part of concentrating on your manabonds, you may choose to instead reform that manabond, swapping the (manabond) talent it was created with to any other you…",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/disorient-expunge",
@@ -26641,7 +26641,7 @@
   "options": [],
   "summary": "You may damage the target's control over their magic.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/ignition-expunge",
@@ -26660,7 +26660,7 @@
   "options": [],
   "summary": "You may spend a spell point and make a ranged touch attack against a target within range, causing their magical essence to be set ablaze.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/mark-of-instability-expunge",
@@ -26679,7 +26679,7 @@
   "options": [],
   "summary": "You may spend a spell point to have the target become separated from their magic.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/mark-of-lifeburn-expunge",
@@ -26698,7 +26698,7 @@
   "options": [],
   "summary": "You may spend a spell point to have the target's magical reservoir become dangerous to tap into unless they succeed at a Fortitude saving throw.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/melt-power-expunge",
@@ -26717,7 +26717,7 @@
   "options": [],
   "summary": "You can destabilize a spherecaster’s magic, rather than burn it away.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/oversaturation-surge-expunge",
@@ -26736,7 +26736,7 @@
   "options": [],
   "summary": "Alternatively, you may spend a spell point to destabilize a creature’s heightened power unless they succeed at a Fortitude save.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/control-resistance-manabond",
@@ -26755,7 +26755,7 @@
   "options": [],
   "summary": "If the recipient of this manabond has spell resistance, you can raise it up to 11 + your caster level.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/empowering-manabond",
@@ -26774,7 +26774,7 @@
   "options": [],
   "summary": "You can use an (amp) on a willing recipient of your manabond as part of the action used to concentrate on your manabond each round.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/flow-manabond",
@@ -26793,7 +26793,7 @@
   "options": [],
   "summary": "As a manabond, you can create a magical stream between yourself and the recipient.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/focusing-manabond",
@@ -26812,7 +26812,7 @@
   "options": [],
   "summary": "Whenever your recipient attempts a saving throw against one of your supernatural effects or magic sphere effects, the DC of that saving throw increases by 2.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/magical-misdirection-manabond",
@@ -26831,7 +26831,7 @@
   "options": [],
   "summary": "Any time you or the recipient is targeted by a single-targeted sphere effect that is harmless or requires a Fortitude or Will saving throw, you may redirect…",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/manabond-channeling-manabond",
@@ -26850,7 +26850,7 @@
   "options": [],
   "summary": "As a manabond, you may create a magical conduit between yourself and the recipient.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/soulmate-manabond",
@@ -26869,7 +26869,7 @@
   "options": [],
   "summary": "As a manabond, you can create a warm bond between yourself and a willing creature.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/vortex-manabond",
@@ -26888,7 +26888,7 @@
   "options": [],
   "summary": "You manifest a manabond that creates a void of magical energy within the host, forcing all magic from the recipient in their direction.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/arcanodynamics-manipulation-amp",
@@ -26908,7 +26908,7 @@
   "options": [],
   "summary": "By stretching and reshaping magic, you can reconfigure how magical effects take shape.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/bulwark-manipulation",
@@ -26927,7 +26927,7 @@
   "options": [],
   "summary": "You can manipulate magic into a magical or physical barrier by spending a spell point.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/elemental-enhancement-manipulation-amp",
@@ -26947,7 +26947,7 @@
   "options": [],
   "summary": "- Acrid Spell (amp): You may amplify a sphere effect that deals acid damage.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/energy-modification-manipulation-amp",
@@ -26967,7 +26967,7 @@
   "options": [],
   "summary": "You can alter the energy of your magic directly into other forms.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/essentialize-manipulation",
@@ -26986,7 +26986,7 @@
   "options": [],
   "summary": "You may manipulate a target within range that is under the effects of a harmless sphere effect, causing the effect to end.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/gift-of-knowledge-manipulation",
@@ -27005,7 +27005,7 @@
   "options": [],
   "summary": "You may manipulate your magical essence, granting a target access to your own magical knowledge by spending a spell point.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/heightened-magic-manipulation-amp",
@@ -27025,7 +27025,7 @@
   "options": [],
   "summary": "You can push your magical talents to new levels of power.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/imbued-vessel-manipulation",
@@ -27044,7 +27044,7 @@
   "options": [],
   "summary": "You may manipulate your own well of magic and transfer your capacity partially into a targeted creature.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/initiates-training-manipulation-amp",
@@ -27064,7 +27064,7 @@
   "options": [],
   "summary": "- Apprentice’s Spell (amp): You can spend a spell point to allow a spherecaster to ignore one general drawback they possess when creating their next sphere…",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/intelligent-interactions-manipulation-amp",
@@ -27084,7 +27084,7 @@
   "options": [],
   "summary": "You can infuse your magic with a sense of intelligence, allowing it to react in special ways.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/power-dynamics-manipulation-amp",
@@ -27104,7 +27104,7 @@
   "options": [],
   "summary": "You can alter the intensity of magic.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/relinquish-magic-manipulation",
@@ -27123,7 +27123,7 @@
   "options": [],
   "summary": "As a swift action, you can manipulate the magic of a harmless sphere effect with a non-instantaneous duration that only affects you, granting any amount of…",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/spell-mastery-manipulation-amp",
@@ -27143,7 +27143,7 @@
   "options": [],
   "summary": "You can empower and bolster your magic as you create it.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/transfer-manipulation",
@@ -27162,7 +27162,7 @@
   "options": [],
   "summary": "You can spend a spell point to bestow your magical potential to a creature other than yourself, granting the target 2 temporary spell points, plus 1 for every…",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/visual-dynamics-manipulation-amp",
@@ -27182,7 +27182,7 @@
   "options": [],
   "summary": "You can manipulate how easy it is to witness your magic.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/archmagis-methods-manipulation-amp",
@@ -27202,7 +27202,7 @@
   "options": [],
   "summary": "- Rushed Spell (amp): You may only use this amplification on yourself.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/boosted-shuffle-manipulation-amp",
@@ -27222,7 +27222,7 @@
   "options": [],
   "summary": "You gain the following (amp): Shuffled Spell (amp): You may spend a spell point to amplify any sphere effect.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/conquer-manipulation",
@@ -27241,7 +27241,7 @@
   "options": [],
   "summary": "As a full-round action, you may spend two spell points and attempt to control an opponent within range of your manipulate.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/cruel-king",
@@ -27258,7 +27258,7 @@
   "options": [],
   "summary": "When using the Vassalize advanced talent, you may target creatures that do not normally possess a spell pool.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/curse-of-mana-curse",
@@ -27277,7 +27277,7 @@
   "options": [],
   "summary": "When you use a ‘Mark’ expunge talent, you can spend an additional 3 spell points to have the effect's duration be increased to permanent.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/eternal-shackles",
@@ -27294,7 +27294,7 @@
   "options": [],
   "summary": "If a creature is beyond close range for your manabond, they may only attempt a magic skill check against your MSD to end the manabond once per day rather than…",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/flexible-knowledge-manipulation",
@@ -27313,7 +27313,7 @@
   "options": [],
   "summary": "When using the Gift Of Knowledge manipulation, you may grant up to 2 magic talents you know, + 1 per 5 caster levels you possess, rather than just one.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/forced-conversion-expunge",
@@ -27332,7 +27332,7 @@
   "options": [],
   "summary": "This damage cannot be healed by any means except rest (a full night’s rest heals all damage caused by this ability), and automatically bypasses any temporary…",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/great-amplification",
@@ -27349,7 +27349,7 @@
   "options": [],
   "summary": "You can merge the power of two amplifications together.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/harness-ambient-knowledge",
@@ -27366,7 +27366,7 @@
   "options": [],
   "summary": "Prerequisites: Mana sphere (Gift Of Knowledge (manipulation)), Counterspell, caster level 5th, magic skill bonus +5.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/infinite-bond",
@@ -27383,7 +27383,7 @@
   "options": [],
   "summary": "Prerequisites: Mana sphere (Ranged Mana [range] x2), caster level 10th.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/intrinsic-shuffle",
@@ -27400,7 +27400,7 @@
   "options": [],
   "summary": "You can finely alter the very essences of your magic.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/knowledge-drain",
@@ -27417,7 +27417,7 @@
   "options": [],
   "summary": "Whenever you successfully drain spell points from a target using Manathief, they must attempt an additional Will saving throw with a penalty equal to the…",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/laws-of-absolute-power",
@@ -27434,7 +27434,7 @@
   "options": [],
   "summary": "Prerequisites: Mana sphere (Enlarged Shuffle, Flexible Shuffle), caster level 20th.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/limited-manifestation",
@@ -27451,7 +27451,7 @@
   "options": [],
   "summary": "You may manifest magic once per day by spending 3 spell points.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/manathief-expunge",
@@ -27470,7 +27470,7 @@
   "options": [],
   "summary": "You may attempt to drain the target’s spell points rather than damage it, but doing so limits your destructive potential.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/manifestation",
@@ -27487,7 +27487,7 @@
   "options": [],
   "summary": "When you manifest magic, you may choose one of the following effects in place of the normal options of Limited Manifestation: - Create any single sphere effect…",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/mark-of-incompetency-expunge",
@@ -27506,7 +27506,7 @@
   "options": [],
   "summary": "You may spend a spell point to limit the target's magical potency for 24 hours unless they succeed at a Will saving throw.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/permanent-bond",
@@ -27523,7 +27523,7 @@
   "options": [],
   "summary": "When you create a manabond, you can spend 3 spell points to increase the duration to permanent.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/reactive-shuffle",
@@ -27540,7 +27540,7 @@
   "options": [],
   "summary": "You may use the shuffle ability as an immediate action by spending 2 additional spell points.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/runic-magic-manipulation-amp",
@@ -27560,7 +27560,7 @@
   "options": [],
   "summary": "You can modify magic in such a way that it understands language, and becomes more like a pact.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/ties-that-bind",
@@ -27577,7 +27577,7 @@
   "options": [],
   "summary": "Prerequisite: Mana sphere (Infinite Bond (advanced), Magical Conduit, Ranged Mana x2), caster level 10th.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/unbind-spell",
@@ -27594,7 +27594,7 @@
   "options": [],
   "summary": "By spending an additional spell point, you may use Essentialize as an immediate action on a sphere effect as it is being cast with a -5 penalty to the attempt.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/vassalize",
@@ -27611,7 +27611,7 @@
   "options": [],
   "summary": "Whenever you cast a sphere effect while you have the Flow manabond active, you can attempt to utilize the recipient’s spell pool to cast your own magic.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/whats-yours-is-ours",
@@ -27628,7 +27628,7 @@
   "options": [],
   "summary": "When you create a manabond using the Soulmate talent, whenever the recipient of this manabond benefits from magical healing, a consumable item (such as a…",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/analyze-caster-dual-sphere",
@@ -27647,7 +27647,7 @@
   "options": [],
   "summary": "Additionally, you gain a +5 bonus to your Spellcraft check when determining a creature’s casting tradition this way.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/bonds-of-blood-and-power-dual-sphere",
@@ -27666,7 +27666,7 @@
   "options": [],
   "summary": "You may spend 1 additional spell point as a swift action, or as a free action if you possess Magical Conduit, to create a manabond as part of establishing…",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/consecrated-affinity-dual-sphere",
@@ -27685,7 +27685,7 @@
   "options": [],
   "summary": "As a free action that can be taken outside of your turn when you have a consecration active, you may create a manabond with any willing creature within the…",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/deep-spellburn",
@@ -27702,7 +27702,7 @@
   "options": [],
   "summary": "You can spend an additional spell point when using Spellburn to increase the initial spell point damage by 1d4, and the spell point damage for being…",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/favorite-boost",
@@ -27719,7 +27719,7 @@
   "options": [],
   "summary": "Select a single (amp) effect you are capable of using; whenever you utilize this (amp), you reduce the spell point cost of utilizing it by 1 (minimum 0).",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/forged-arcana",
@@ -27736,7 +27736,7 @@
   "options": [],
   "summary": "Choose either expunge, manipulate or manabond.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/homeguard-magic-dual-sphere",
@@ -27755,7 +27755,7 @@
   "options": [],
   "summary": "Whenever you create a ward, you may also use your shuffle inside that ward’s area of effect.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/locked-bond-dual-sphere",
@@ -27774,7 +27774,7 @@
   "options": [],
   "summary": "When creating any manabond, you may spend an additional spell point to lock the dimensional properties of the bond.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/magical-blending",
@@ -27791,7 +27791,7 @@
   "options": [],
   "summary": "- Afterburn (amp) (Destruction): You may amplify an instantaneous sphere effect that deals acid or fire damage.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/manabond-versatility-dual-sphere",
@@ -27810,7 +27810,7 @@
   "options": [],
   "summary": "Choose a magic sphere other than the Mana sphere that you possess.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/mark-of-magical-ineptitude",
@@ -27827,7 +27827,7 @@
   "options": [],
   "summary": "Whenever you use your Mark Of Instability talent, your target may not cast any magic based off their spherecasting as well as being prohibited from spending…",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/mind-joggle",
@@ -27844,7 +27844,7 @@
   "options": [],
   "summary": "When you use a Mana sphere ability that normally deals spell point damage to a target that has martial focus, you can forego the spell point damage to instead…",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/reprogram-power",
@@ -27861,7 +27861,7 @@
   "options": [],
   "summary": "Prerequisites: Mana sphere, Enhancement sphere, magic skill bonus +3.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/rhythmic-chaos-wild-magic",
@@ -27880,7 +27880,7 @@
   "options": [],
   "summary": "Whenever you use an (expunge) talent on a creature that can use spells or sphere effects, you can spend an additional spell point to destabilize their magic,…",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/shuffling-array",
@@ -27897,7 +27897,7 @@
   "options": [],
   "summary": "You can apply your knowledge of other spheres to bend the rules of magic in even more ways.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/spellshock-admixture-admixture",
@@ -27916,7 +27916,7 @@
   "options": [],
   "summary": "When using Admixture, you may spend an additional spell point to affect one target damaged by the blast with an (expunge) ability .",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/tainted-manabond",
@@ -27933,7 +27933,7 @@
   "options": [],
   "summary": "You may create a tainted manabond as a manabond.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/tethered-mana",
@@ -27950,7 +27950,7 @@
   "options": [],
   "summary": "You may spend a standard action to create a Hardened Bond on any creature (unwilling ones may attempt a Reflex save against your Mana sphere DC), object, or…",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/tides-of-war-dual-sphere",
@@ -27969,7 +27969,7 @@
   "options": [],
   "summary": "You may create a manabond as part of using a rally with the target of your rally, or as part of creating a mandate on one or both creatures.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/universal-bonding",
@@ -27986,7 +27986,7 @@
   "options": [],
   "summary": "Through use of specialized magic, you can enhance all of your manabonds.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/conservationist",
@@ -28003,7 +28003,7 @@
   "options": [],
   "summary": "You may not utilize any ability from a talent that deals spell point damage.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/incongruent",
@@ -28020,7 +28020,7 @@
   "options": [],
   "summary": "You cannot gain or use (manabond) talents or create manabonds, but you may still be targeted by manabonds created by other creatures.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/selfish-caster",
@@ -28037,7 +28037,7 @@
   "options": [],
   "summary": "You may not use (manipulation) talents, and may not take talents that allow you to grant spell points or talents to other creatures.",
   "file": "mana.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "mana/weapon-bound",
@@ -28054,6 +28054,1633 @@
   "options": [],
   "summary": "You may only deliver an (expunge) or a (manipulation) through the use of the Manasurge Strike talent.",
   "file": "mana.json",
+  "approved": true
+ },
+ {
+  "id": "mind/charm",
+  "name": "Charm",
+  "kind": "sphere ability",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#charm",
+  "options": [
+   "Suggestion"
+  ],
+  "summary": "You may place charms on creatures.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/charming-strike-strike",
+  "name": "Charming Strike",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Mind Talents",
+  "tags": [],
+  "talentTags": [
+   "strike"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#charming-strike-strike",
+  "options": [],
+  "summary": "You may deliver charms via a melee touch attack.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/expanded-charm",
+  "name": "Expanded Charm",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Mind Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#expanded-charm",
+  "options": [],
+  "summary": "Your charms may affect creatures of any creature type, instead of just your own.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/instill-charm-instill",
+  "name": "Instill Charm",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Mind Talents",
+  "tags": [],
+  "talentTags": [
+   "instill"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#instill-charm-instill",
+  "options": [],
+  "summary": "As a standard action you may touch a small container of liquid and instill a charm inside it, which functions as a potion or oil.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/mass-charm-mass",
+  "name": "Mass Charm",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Mind Talents",
+  "tags": [],
+  "talentTags": [
+   "mass"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#mass-charm-mass",
+  "options": [],
+  "summary": "When using a charm, you may spend an additional spell point to charm an additional 1 creature per 2 caster levels (minimum 1) at the same time.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/mental-backdoor",
+  "name": "Mental Backdoor",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Mind Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#mental-backdoor",
+  "options": [],
+  "summary": "If a target would fail their saving throw against one of your charms, you may spend a spell point to force them to immediately attempt a second Will saving…",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/powerful-charm",
+  "name": "Powerful Charm",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Mind Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#powerful-charm",
+  "options": [],
+  "summary": "You may spend 2 spell points to use the powerful charm and powerful cloud version of any charm or cloud you possess.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/psychic-vengeance",
+  "name": "Psychic Vengeance",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Mind Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#psychic-vengeance",
+  "options": [],
+  "summary": "When you succeed at a Will save against a mind-affecting effect, you may spend 1 spell point as an immediate action to target the source of that effect with a…",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/ranged-mind-range",
+  "name": "Ranged Mind",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Mind Talents",
+  "tags": [],
+  "talentTags": [
+   "range"
+  ],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#ranged-mind-range",
+  "options": [],
+  "summary": "Increase the range you may charm targets by 1 step (close to medium, medium to long).",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/subtlety",
+  "name": "Subtlety",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Mind Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#subtlety",
+  "options": [],
+  "summary": "If a target succeeds on their save against one of your charms, they must immediately attempt a second Will save.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/amnesia-charm",
+  "name": "Amnesia",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Charm Talents",
+  "tags": [
+   "charm"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#amnesia-charm",
+  "options": [],
+  "summary": "You may reach into a subject’s memory and remove information and awareness of people, places, things, or events.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/calm-charm",
+  "name": "Calm",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Charm Talents",
+  "tags": [
+   "charm"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#calm-charm",
+  "options": [],
+  "summary": "You may suppress emotions in hostile creatures or provide ease to excitement and confidence.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/candor-charm-utility",
+  "name": "Candor",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Charm Talents",
+  "tags": [
+   "charm"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#candor-charm-utility",
+  "options": [],
+  "summary": "You compel words of honesty in your subject, bringing truth to their voice.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/cerebral-strike-charm",
+  "name": "Cerebral Strike",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Charm Talents",
+  "tags": [
+   "charm"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#cerebral-strike-charm",
+  "options": [],
+  "summary": "You unleash a storm of psychic energy that invades the mind of your subject.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/command-charm",
+  "name": "Command",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Charm Talents",
+  "tags": [
+   "charm"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#command-charm",
+  "options": [],
+  "summary": "You may directly control another creature’s body.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/confusion-charm",
+  "name": "Confusion",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Charm Talents",
+  "tags": [
+   "charm"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#confusion-charm",
+  "options": [],
+  "summary": "You may unravel a creature’s mind and make them behave erratically.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/courage-charm",
+  "name": "Courage",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Charm Talents",
+  "tags": [
+   "charm"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#courage-charm",
+  "options": [],
+  "summary": "Lesser Charm: The target may choose one attack roll, saving throw, ability check, or skill check it makes within the next minute.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/disrupt-focus-charm",
+  "name": "Disrupt Focus",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Charm Talents",
+  "tags": [
+   "charm"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#disrupt-focus-charm",
+  "options": [],
+  "summary": "You can make it harder for a target to concentrate on using their magic.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/enthrall-charm-utility",
+  "name": "Enthrall",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Charm Talents",
+  "tags": [
+   "charm"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#enthrall-charm-utility",
+  "options": [],
+  "summary": "If you or your allies are attacking or threatening the creature, they gain a +5 bonus to their saving throw against this charm.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/esteem-charm",
+  "name": "Esteem",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Charm Talents",
+  "tags": [
+   "charm"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#esteem-charm",
+  "options": [],
+  "summary": "Lesser Charm: You grant a competence bonus to a single Intelligence, Wisdom, or Charisma-based skill check of the target’s choice equal to 1/2 your caster…",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/fascinate-charm",
+  "name": "Fascinate",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Charm Talents",
+  "tags": [
+   "charm"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#fascinate-charm",
+  "options": [],
+  "summary": "Lesser Charm: The target suffers a -2 penalty to Perception checks for 1 round per caster level.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/fear-charm",
+  "name": "Fear",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Charm Talents",
+  "tags": [
+   "charm"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#fear-charm",
+  "options": [],
+  "summary": "You may warp a target’s mind with fear.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/flabbergast-charm",
+  "name": "Flabbergast",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Charm Talents",
+  "tags": [
+   "charm"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#flabbergast-charm",
+  "options": [],
+  "summary": "You bombard the target with shocking revelations and displays which leave them reeling.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/gestures-charm",
+  "name": "Gestures",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Charm Talents",
+  "tags": [
+   "charm"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#gestures-charm",
+  "options": [],
+  "summary": "You may impose a failure chance on any other magic user whose magic requires a somatic component equal to 10% + an additional 5% for every 5 caster levels…",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/hostility-charm",
+  "name": "Hostility",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Charm Talents",
+  "tags": [
+   "charm"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#hostility-charm",
+  "options": [],
+  "summary": "The target gains a +2 morale bonus to Strength and Constitution, a +1 bonus to Will saves, and a -2 penalty to AC.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/incense-charm",
+  "name": "Incense",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Charm Talents",
+  "tags": [
+   "charm"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#incense-charm",
+  "options": [],
+  "summary": "Greater Charm: This functions as the lesser charm, except that you may make the target enraged for the duration rather than angry or livid.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/inception-charm-utility",
+  "name": "Inception",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Charm Talents",
+  "tags": [
+   "charm"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#inception-charm-utility",
+  "options": [],
+  "summary": "Lesser Charm: You may “create a rumor” in a target’s mind, suggesting information that a target “heard somewhere” or “read once” but that they have not…",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/inspiration-charm",
+  "name": "Inspiration",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Charm Talents",
+  "tags": [
+   "charm"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#inspiration-charm",
+  "options": [],
+  "summary": "Lesser Charm: As an immediate action, you may add a +2 competence bonus to a skill check or attack roll the target has just made.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/mind-shield-charm",
+  "name": "Mind Shield",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Charm Talents",
+  "tags": [
+   "charm"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#mind-shield-charm",
+  "options": [],
+  "summary": "You may establish a ward on the mind of another, one capable of providing protection from mental assault.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/mind-spy-charm",
+  "name": "Mind Spy",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Charm Talents",
+  "tags": [
+   "charm"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#mind-spy-charm",
+  "options": [],
+  "summary": "You can send a piece of your mind into your target to see the world through their eyes (save negates).",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/paralyze-charm",
+  "name": "Paralyze",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Charm Talents",
+  "tags": [
+   "charm"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#paralyze-charm",
+  "options": [],
+  "summary": "You freeze the target in place.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/project-thoughts-charm-utility",
+  "name": "Project Thoughts",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Charm Talents",
+  "tags": [
+   "charm"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#project-thoughts-charm-utility",
+  "options": [],
+  "summary": "You can communicate directly into the mind of another.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/read-mind-charm-utility",
+  "name": "Read Mind",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Charm Talents",
+  "tags": [
+   "charm"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#read-mind-charm-utility",
+  "options": [],
+  "summary": "You can pull information from a target’s mind.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/recommend-charm",
+  "name": "Recommend",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Charm Talents",
+  "tags": [
+   "charm"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#recommend-charm",
+  "options": [],
+  "summary": "Lesser Charm: For 1 round per caster level, whenever the target fails an attack roll, skill check, saving throw, or ability check, at the start of the target’s…",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/sleep-charm",
+  "name": "Sleep",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Charm Talents",
+  "tags": [
+   "charm"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#sleep-charm",
+  "options": [],
+  "summary": "Whenever the sleeping target takes damage or another creature attempts to wake it as a standard action, the target does not automatically awaken, but instead…",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/utterances-charm",
+  "name": "Utterances",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Charm Talents",
+  "tags": [
+   "charm"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#utterances-charm",
+  "options": [],
+  "summary": "Lesser Charm: You can tug on the strings of conversation, altering the sounds of words, inserting or negating vocalizations as you see fit.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/vision-charm",
+  "name": "Vision",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Charm Talents",
+  "tags": [
+   "charm"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#vision-charm",
+  "options": [],
+  "summary": "You may make someone see things that are not there.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/wrack-charm",
+  "name": "Wrack",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Charm Talents",
+  "tags": [
+   "charm"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#wrack-charm",
+  "options": [],
+  "summary": "You flood your target with disturbing sensations Lesser Charm: You cause the target to become sickened for 1 round per caster level (Will negates).",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/dispersion-cloud",
+  "name": "Dispersion",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Cloud Talents",
+  "tags": [
+   "cloud"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#dispersion-cloud",
+  "options": [],
+  "summary": "You imbue a creature or object with a field of refracting cognitive energy that makes it difficult to focus on what or where the field masks.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/lure-cloud",
+  "name": "Lure",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Cloud Talents",
+  "tags": [
+   "cloud"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#lure-cloud",
+  "options": [],
+  "summary": "You may cause a location or object to radiate a cloud that invites or repels either creatures of a given type (such as monstrous humanoids or outsiders with…",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/misdirect-cloud",
+  "name": "Misdirect",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Cloud Talents",
+  "tags": [
+   "cloud"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#misdirect-cloud",
+  "options": [],
+  "summary": "Greater Cloud: As the lesser cloud, but you determine the new direction of travel when imbuing the area with the cloud and may select a number of familiar…",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/suppress-cloud",
+  "name": "Suppress",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Cloud Talents",
+  "tags": [
+   "cloud"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#suppress-cloud",
+  "options": [],
+  "summary": "Additionally, whenever a creature benefiting from a sphere effect granting them additional languages or insights into language would enter the cloud, you may…",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/arcane-calculation-cognition-utility",
+  "name": "Arcane Calculation",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Cognition Talents",
+  "tags": [
+   "Cognition"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#arcane-calculation-cognition-utility",
+  "options": [],
+  "summary": "When you use Perception to intentionally search for stimuli (typically a move action), you may measure a single aspect of whatever you perceive.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/intuit-knowledge-cognition-utility",
+  "name": "Intuit Knowledge",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Cognition Talents",
+  "tags": [
+   "Cognition"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#intuit-knowledge-cognition-utility",
+  "options": [],
+  "summary": "You may spend a spell point as a full-round action to gain temporary understanding of a subject.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/mental-archive-cognition-utility",
+  "name": "Mental Archive",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Cognition Talents",
+  "tags": [
+   "Cognition"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#mental-archive-cognition-utility",
+  "options": [],
+  "summary": "By concentrating as long it requires to perceive something (such as the duration of a speech or while reading a book), you can archive it.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/parallel-cognition-cognition-utility",
+  "name": "Parallel Cognition",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Cognition Talents",
+  "tags": [
+   "Cognition"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#parallel-cognition-cognition-utility",
+  "options": [],
+  "summary": "As a standard action you can divide your mental attention to gain two sets of actions each turn, one physical and one mental.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/polyglot-cognition-utility",
+  "name": "Polyglot",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Cognition Talents",
+  "tags": [
+   "Cognition"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#polyglot-cognition-utility",
+  "options": [],
+  "summary": "As a standard action you may gain a rough understanding of a target’s language.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/rapid-processing-cognition-utility",
+  "name": "Rapid Processing",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Cognition Talents",
+  "tags": [
+   "Cognition"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#rapid-processing-cognition-utility",
+  "options": [],
+  "summary": "You can analyze information with a glance.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/terrifying-mind-cognition",
+  "name": "Terrifying Mind",
+  "kind": "talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Cognition Talents",
+  "tags": [
+   "Cognition"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#terrifying-mind-cognition",
+  "options": [],
+  "summary": "Whenever you succeed a saving throw against a mind-affecting effect, you may spend 1 spell point as a free action that can be taken outside of your turn to…",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/catatonia",
+  "name": "Catatonia",
+  "kind": "advanced talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Advanced Mind Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#catatonia",
+  "options": [],
+  "summary": "Whenever you use the Sleep (charm) powerful charm, you may spend an additional spell point.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/deadly-vision-charm",
+  "name": "Deadly Vision",
+  "kind": "advanced talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Advanced Mind Talents",
+  "tags": [
+   "charm"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#deadly-vision-charm",
+  "options": [],
+  "summary": "As a greater charm, you may spend 2 spell points to give the target a vision of the most fearsome creature imaginable, pulling its subconscious fears into a…",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/discern-alien-cognition",
+  "name": "Discern Alien Cognition",
+  "kind": "advanced talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Advanced Mind Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#discern-alien-cognition",
+  "options": [],
+  "summary": "You may spend 1 spell point to have a Mind sphere effect you create ignore any immunity to fear, sleep, paralysis, and mind-affecting effects that a creature…",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/epiphany-cognition-utility",
+  "name": "Epiphany",
+  "kind": "advanced talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Advanced Mind Talents",
+  "tags": [
+   "Cognition"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#epiphany-cognition-utility",
+  "options": [],
+  "summary": "When you attempt an ability or skill check to gain information (such as a Knowledge check, Profession checks to answer questions, or Diplomacy checks to gather…",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/flawless-precision-cognition",
+  "name": "Flawless Precision",
+  "kind": "advanced talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Advanced Mind Talents",
+  "tags": [
+   "Cognition"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#flawless-precision-cognition",
+  "options": [],
+  "summary": "By spending 2 spell points as a standard action you may enter a heightened state of mind.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/greater-communication-utility",
+  "name": "Greater Communication",
+  "kind": "advanced talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Advanced Mind Talents",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#greater-communication-utility",
+  "options": [],
+  "summary": "So long as you are personally familiar with the subject, you may spend an additional spell point to use your Project Thoughts charm across any distance, even…",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/insanity",
+  "name": "Insanity",
+  "kind": "advanced talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Advanced Mind Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#insanity",
+  "options": [],
+  "summary": "When applying a Confusion charm to a target, you may spend an additional spell point to change this charm into an instantaneous effect.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/memetic-link",
+  "name": "Memetic Link",
+  "kind": "advanced talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Advanced Mind Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#memetic-link",
+  "options": [],
+  "summary": "When you place a powerful Enthrall charm on a target, you may spend an extra spell point at the time of casting to create a memetic link between you and the…",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/mind-control",
+  "name": "Mind Control",
+  "kind": "advanced talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Advanced Mind Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#mind-control",
+  "options": [],
+  "summary": "When you place a powerful Enthrall charm on a target, you may spend an additional spell point to increase the duration to 1 day per caster level.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/psychic-backlash",
+  "name": "Psychic Backlash",
+  "kind": "advanced talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Advanced Mind Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#psychic-backlash",
+  "options": [],
+  "summary": "When you use Psychic Vengeance in response to a charm effect, you may use the charm talent that was targeting you as part of Psychic Vengeance even if you do…",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/recondite-stimuli",
+  "name": "Recondite Stimuli",
+  "kind": "advanced talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Advanced Mind Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#recondite-stimuli",
+  "options": [],
+  "summary": "You can reach the minds of creatures thought, by some, to be untouchable by the mental arts.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/zeitgeist-cloud",
+  "name": "Zeitgeist",
+  "kind": "advanced talent",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Advanced Mind Talents",
+  "tags": [
+   "cloud"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind#zeitgeist-cloud",
+  "options": [],
+  "summary": "You may spend an additional 1, 2, or 3 spell points and take 10 minutes to affect large communities of 200 or smaller, 2,000 or smaller, or 5,000 or smaller…",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/backdoor-control-dual-sphere",
+  "name": "Backdoor Control",
+  "kind": "feat",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#backdoor-control-dual-sphere",
+  "options": [],
+  "summary": "Whenever you use a charm against a creature or object you successfully used Bestow Intelligence on, requests you make that would normally be against their…",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/deceptive-advisor",
+  "name": "Deceptive Advisor",
+  "kind": "feat",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#deceptive-advisor",
+  "options": [],
+  "summary": "When you attempt to influence the attitude of an individual with the Diplomacy skill or deceive an individual with the Bluff skill, your very words are laced…",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/doublespeak-dual-sphere",
+  "name": "Doublespeak",
+  "kind": "feat",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#doublespeak-dual-sphere",
+  "options": [],
+  "summary": "When you use a charm, cloud, or word, you may spend 1 additional spell point to affect the target, targets, or creatures in the area with a different charm,…",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/dreamspace-dual-sphere",
+  "name": "Dreamspace",
+  "kind": "feat",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#dreamspace-dual-sphere",
+  "options": [],
+  "summary": "When you sleep, you may choose to project your mind into a quasi-real space, or dreamspace.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/fools-counterspell-counterspell",
+  "name": "Fool’s Counterspell",
+  "kind": "feat",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Counterspell"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#fools-counterspell-counterspell",
+  "options": [],
+  "summary": "When you successfully counter a spell, the caster must succeed at a Will save equal to your Illusion sphere DC or Mind sphere DC (whichever is greater), or…",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/hypochondriacs-terror-dual-sphere",
+  "name": "Hypochondriac’s Terror",
+  "kind": "feat",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#hypochondriacs-terror-dual-sphere",
+  "options": [],
+  "summary": "When you take over a creature’s bodily functions, you may also blend in your mental manipulation to torture them from the inside out.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/implausible-deniability-dual-sphere",
+  "name": "Implausible Deniability",
+  "kind": "feat",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#implausible-deniability-dual-sphere",
+  "options": [],
+  "summary": "You may have your illusions interact with Detect Thoughts and similar abilities as if they had an Intelligence score of up to twice your caster level.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/mental-aura",
+  "name": "Mental Aura",
+  "kind": "feat",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#mental-aura",
+  "options": [],
+  "summary": "You may create an effect known as a mental aura attached to yourself or to other creatures by spending a spell point.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/mental-cloud",
+  "name": "Mental Cloud",
+  "kind": "feat",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#mental-cloud",
+  "options": [],
+  "summary": "You may spend 2 spell points to manifest a (charm) as an actual, literal cloud of mental energy.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/mind-over-matter-combat",
+  "name": "Mind Over Matter",
+  "kind": "feat",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#mind-over-matter-combat",
+  "options": [],
+  "summary": "When you take hit point damage and are not flat-footed against the damage’s source, you may choose to spend spell points as a free action (even when it is not…",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/minor-charm-specialist",
+  "name": "Minor Charm Specialist",
+  "kind": "feat",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#minor-charm-specialist",
+  "options": [],
+  "summary": "You may target an individual creature with a lesser charm an additional amount of times per day equal to your casting ability modifier (minimum 1).",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/never-really-there-dual-sphere",
+  "name": "Never Really There",
+  "kind": "feat",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#never-really-there-dual-sphere",
+  "options": [],
+  "summary": "When you use the Amnesia charm from the Mind sphere, you may extend the casting time by 1 step or spend an additional spell point to teleport yourself as part…",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/paranoia-agent-dual-sphere",
+  "name": "Paranoia Agent",
+  "kind": "feat",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#paranoia-agent-dual-sphere",
+  "options": [
+   "Memory Hole"
+  ],
+  "summary": "You gain the following abilities based on the Dark sphere and Mind sphere talents you possess: - Hypnotic Darkness (requires Debilitating Darkness): Your gloom…",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/pressure-point-proficiency-combat",
+  "name": "Pressure Point Proficiency",
+  "kind": "feat",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#pressure-point-proficiency-combat",
+  "options": [],
+  "summary": "By studying precisely where and how to strike your enemies, you can interrupt the biological processes that contribute to mental stability.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/pressure-point-pugilist-combat",
+  "name": "Pressure Point Pugilist",
+  "kind": "feat",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#pressure-point-pugilist-combat",
+  "options": [],
+  "summary": "The penalty from Pressure Point Proficiency increases to -2 if you successfully hit the target a second time in the same round.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/silver-tongue",
+  "name": "Silver Tongue",
+  "kind": "feat",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#silver-tongue",
+  "options": [],
+  "summary": "As an immediate action, you may spend a spell point to reroll a single Bluff, Diplomacy, or Intimidate check with a +2 enhancement bonus.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/vampires-guile-dual-sphere",
+  "name": "Vampire’s Guile",
+  "kind": "feat",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind-Sphere-Feats#vampires-guile-dual-sphere",
+  "options": [],
+  "summary": "Creatures taking bleed damage suffer a -2 penalty to saves against your Mind sphere abilities.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/addling-brew",
+  "name": "Addling Brew",
+  "kind": "drawback",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cognition Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind-Sphere-Drawbacks#addling-brew",
+  "options": [],
+  "summary": "You must select the Instill Charm talent with the bonus talent granted by this drawback, and you can only use your Mind sphere abilities through this talent.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/animal-shaman",
+  "name": "Animal Shaman",
+  "kind": "drawback",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cognition Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind-Sphere-Drawbacks#animal-shaman",
+  "options": [],
+  "summary": "You may affect animals with your Mind sphere effects, but not creatures of your own creature type.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/blatant-side-effects",
+  "name": "Blatant Side-Effects",
+  "kind": "drawback",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cognition Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind-Sphere-Drawbacks#blatant-side-effects",
+  "options": [],
+  "summary": "Deadpan speech patterns accompanied by an echo and a change in vocabulary, strange glowing halos, curious tremors in the earth whenever the target draws near,…",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/empath",
+  "name": "Empath",
+  "kind": "drawback",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cognition Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind-Sphere-Drawbacks#empath",
+  "options": [],
+  "summary": "You must select a (charm) talent with the bonus talent granted by this drawback.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/hypnotic-gaze",
+  "name": "Hypnotic Gaze",
+  "kind": "drawback",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cognition Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind-Sphere-Drawbacks#hypnotic-gaze",
+  "options": [],
+  "summary": "A creature may declare they are averting their gaze from your eyes as an immediate action or a free action which can be taken once per round, in which case you…",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/inward-focus",
+  "name": "Inward Focus",
+  "kind": "drawback",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cognition Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind-Sphere-Drawbacks#inward-focus",
+  "options": [],
+  "summary": "You may only select (cognition) talents and talents that augment them, and must select a (cognition) talent with the bonus talent gained from this drawback.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/kindred-knack",
+  "name": "Kindred Knack",
+  "kind": "drawback",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cognition Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind-Sphere-Drawbacks#kindred-knack",
+  "options": [],
+  "summary": "You may not affect creatures of your own creature type, and the Expanded Charm talent does not allow you to affect creatures of your own creature type.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/lost-in-translation",
+  "name": "Lost In Translation",
+  "kind": "drawback",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cognition Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind-Sphere-Drawbacks#lost-in-translation",
+  "options": [],
+  "summary": "You may not select or use (cloud) talents.",
+  "file": "mind.json",
+  "approved": false
+ },
+ {
+  "id": "mind/tactile-charm",
+  "name": "Tactile Charm",
+  "kind": "drawback",
+  "sphere": "Mind",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Cognition Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Mind/Mind-Sphere-Drawbacks#tactile-charm",
+  "options": [],
+  "summary": "You must select the Charming Strike talent as the bonus talent from this drawback, and can only use that talent when making melee attacks.",
+  "file": "mind.json",
   "approved": false
  },
  {
