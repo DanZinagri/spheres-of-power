@@ -2629,7 +2629,7 @@ COMPENDIUM = {
     },
     "Enhancement": {
         "system": "Spheres of Power",
-        "approved": False,
+        "approved": True,
         "pages": [
             # Enhance, with Enhance Equipment
             ("Enhancement", "Enhance", "sphere ability", 2, 4),
@@ -2644,6 +2644,20 @@ COMPENDIUM = {
             ("Enhancement", "Special Abilities", "animated object rule", 3),
             ("Enhancement", "Animated Objects", "animated object", 3),
             ("Enhancement Sphere Drawbacks", "(page)", "drawback", 4),
+        ],
+        "not_options": r"^Table|^Note",
+    },
+    "Fallen Fey": {
+        "system": "Spheres of Power",
+        "approved": False,
+        "pages": [
+            # Fey-Link, with Nature-Connection (its rule notes stay in its text)
+            ("Fallen Fey", "Fey-Link", "sphere ability", 2, 4),
+            ("Fallen Fey", "Fallen Fey Talents", "talent", 4),
+            ("Fallen Fey", "Fey-blessing Talents", "talent", 4),
+            ("Fallen Fey", "Advanced Fallen Fey Talents", "advanced talent", 4),
+            ("Fallen Fey Sphere Feats", "(page)", "feat", 4),
+            ("Fallen Fey Sphere Drawbacks", "(page)", "drawback", 4),
         ],
         "not_options": r"^Table|^Note",
     },

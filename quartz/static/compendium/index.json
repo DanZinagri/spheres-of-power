@@ -15459,7 +15459,7 @@
    "Enhance Equipment"
   ],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/crippling-strike-strike",
@@ -15477,7 +15477,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#crippling-strike-strike",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/deep-enhancement",
@@ -15493,7 +15493,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#deep-enhancement",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/dual-enhancement",
@@ -15509,7 +15509,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#dual-enhancement",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/greater-enhance-equipment",
@@ -15525,7 +15525,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#greater-enhance-equipment",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/instill-enhancement-instill",
@@ -15543,7 +15543,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#instill-enhancement-instill",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/mass-enhancement-mass",
@@ -15561,7 +15561,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#mass-enhancement-mass",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/natural-enhancement",
@@ -15577,7 +15577,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#natural-enhancement",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/power-parasitism",
@@ -15593,7 +15593,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#power-parasitism",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/ranged-enhancement-range",
@@ -15611,7 +15611,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#ranged-enhancement-range",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/alter-movement-enhance",
@@ -15629,7 +15629,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#alter-movement-enhance",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/animate-object-enhance",
@@ -15647,7 +15647,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#animate-object-enhance",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/bestow-intelligence-enhance",
@@ -15665,7 +15665,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#bestow-intelligence-enhance",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/cripple-enhance",
@@ -15683,7 +15683,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#cripple-enhance",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/deadly-weapon-enhance",
@@ -15701,7 +15701,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#deadly-weapon-enhance",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/emphasize-belief-enhance",
@@ -15719,7 +15719,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#emphasize-belief-enhance",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/energize-body-enhance",
@@ -15737,7 +15737,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#energize-body-enhance",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/energy-enhancement-enhance",
@@ -15755,7 +15755,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#energy-enhancement-enhance",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/enhance-focus-enhance",
@@ -15773,7 +15773,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#enhance-focus-enhance",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/hardenweaken-enhance",
@@ -15791,7 +15791,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#hardenweaken-enhance",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/improved-flexibility-enhance",
@@ -15809,7 +15809,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#improved-flexibility-enhance",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/lighten-enhance",
@@ -15827,7 +15827,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#lighten-enhance",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/magic-sink-enhance",
@@ -15845,7 +15845,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#magic-sink-enhance",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/mental-enhancement-enhance",
@@ -15863,7 +15863,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#mental-enhancement-enhance",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/physical-enhancement-enhance",
@@ -15881,7 +15881,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#physical-enhancement-enhance",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/ragged-edges-enhance",
@@ -15899,7 +15899,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#ragged-edges-enhance",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/spectral-enhancement-enhance",
@@ -15917,7 +15917,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#spectral-enhancement-enhance",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/staunch-resistance-enhance",
@@ -15935,7 +15935,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#staunch-resistance-enhance",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/steal-senses-enhance",
@@ -15953,7 +15953,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#steal-senses-enhance",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/steal-capacity-enhance",
@@ -15971,7 +15971,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#steal-capacity-enhance",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/superior-poison-enhance",
@@ -15989,7 +15989,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#superior-poison-enhance",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/superior-reflexes-enhance",
@@ -16007,7 +16007,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#superior-reflexes-enhance",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/supply-vigor-enhance",
@@ -16025,7 +16025,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#supply-vigor-enhance",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/traveling-weapon-enhance",
@@ -16043,7 +16043,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#traveling-weapon-enhance",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/alternative-energy",
@@ -16059,7 +16059,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#alternative-energy",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/antimagic-aegis",
@@ -16075,7 +16075,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#antimagic-aegis",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/ascetic-control",
@@ -16091,7 +16091,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#ascetic-control",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/bestow-life",
@@ -16107,7 +16107,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#bestow-life",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/critical-climax",
@@ -16123,7 +16123,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#critical-climax",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/give-magic-life",
@@ -16139,7 +16139,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#give-magic-life",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/inherent-enhancement-enhance",
@@ -16157,7 +16157,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#inherent-enhancement-enhance",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/referential-enhancements",
@@ -16173,7 +16173,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#referential-enhancements",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/reverse-gravity-enhance",
@@ -16191,7 +16191,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#reverse-gravity-enhance",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/vicious-accuracy-enhance",
@@ -16209,7 +16209,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#vicious-accuracy-enhance",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/addictive-power-drawback",
@@ -16227,7 +16227,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#addictive-power-drawback",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/alloy-enhancement-dual-sphere",
@@ -16245,7 +16245,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#alloy-enhancement-dual-sphere",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/animate-structural-features",
@@ -16261,7 +16261,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#animate-structural-features",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/animate-tornado-dual-sphere",
@@ -16279,7 +16279,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#animate-tornado-dual-sphere",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/animated-arsenal",
@@ -16295,7 +16295,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#animated-arsenal",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/animating-possession-dual-sphere",
@@ -16313,7 +16313,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#animating-possession-dual-sphere",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/backdoor-control-dual-sphere",
@@ -16331,7 +16331,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#backdoor-control-dual-sphere",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/careful-magic-drawback",
@@ -16349,7 +16349,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#careful-magic-drawback",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/complex-animations",
@@ -16365,7 +16365,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#complex-animations",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/durable-objects",
@@ -16381,7 +16381,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#durable-objects",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/enchanted-animation",
@@ -16397,7 +16397,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#enchanted-animation",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/enhanced-contingency",
@@ -16413,7 +16413,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#enhanced-contingency",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/enhanced-creation-dual-sphere",
@@ -16431,7 +16431,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#enhanced-creation-dual-sphere",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/enhanced-vigilance-dual-sphere",
@@ -16449,7 +16449,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#enhanced-vigilance-dual-sphere",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/enhancing-telekinesis-dual-sphere",
@@ -16467,7 +16467,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#enhancing-telekinesis-dual-sphere",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/exceptional-ally-dual-sphere",
@@ -16485,7 +16485,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#exceptional-ally-dual-sphere",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/floating-creation-dual-sphere",
@@ -16503,7 +16503,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#floating-creation-dual-sphere",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/floating-panoply",
@@ -16519,7 +16519,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#floating-panoply",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/magical-focus-drawback",
@@ -16537,7 +16537,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#magical-focus-drawback",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/magicians-trade-counterspell",
@@ -16555,7 +16555,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#magicians-trade-counterspell",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/march-of-the-treants-dual-sphere",
@@ -16573,7 +16573,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#march-of-the-treants-dual-sphere",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/master-of-small-magics",
@@ -16589,7 +16589,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#master-of-small-magics",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/might-of-the-grave-dual-sphere",
@@ -16607,7 +16607,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#might-of-the-grave-dual-sphere",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/militant-animation-combat",
@@ -16625,7 +16625,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#militant-animation-combat",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/mounted-magician",
@@ -16641,7 +16641,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#mounted-magician",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/mutagenic-enhancements-dual-sphere",
@@ -16659,7 +16659,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#mutagenic-enhancements-dual-sphere",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/natures-enhancement-dual-sphere",
@@ -16677,7 +16677,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#natures-enhancement-dual-sphere",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/object-familiar",
@@ -16693,7 +16693,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#object-familiar",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/parts-and-pieces-dual-sphere",
@@ -16711,7 +16711,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#parts-and-pieces-dual-sphere",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/plexing-boon-dual-sphere",
@@ -16729,7 +16729,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#plexing-boon-dual-sphere",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/reforge-object-dual-sphere",
@@ -16747,7 +16747,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#reforge-object-dual-sphere",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/solid-illusions-dual-sphere",
@@ -16765,7 +16765,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#solid-illusions-dual-sphere",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/tactical-animation",
@@ -16781,7 +16781,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#tactical-animation",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/tribal-mark-dual-sphere",
@@ -16799,7 +16799,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#tribal-mark-dual-sphere",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/defensive-proxies-proxy",
@@ -16817,7 +16817,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#defensive-proxies-proxy",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/maintain-proxy-proxy",
@@ -16835,7 +16835,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#maintain-proxy-proxy",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/mystic-choreography-drawback-proxy",
@@ -16854,7 +16854,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#mystic-choreography-drawback-proxy",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/mystic-generosity-proxy",
@@ -16872,7 +16872,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#mystic-generosity-proxy",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/proxy-counterspell-proxy",
@@ -16890,7 +16890,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#proxy-counterspell-proxy",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/proxy-network-proxy",
@@ -16908,7 +16908,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#proxy-network-proxy",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/spell-proxy-proxy",
@@ -16926,7 +16926,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#spell-proxy-proxy",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/spell-proxy-extended-proxy",
@@ -16944,7 +16944,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#spell-proxy-extended-proxy",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/spell-proxy-improved-proxy",
@@ -16962,7 +16962,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#spell-proxy-improved-proxy",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/spreading-magic-proxy",
@@ -16980,7 +16980,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#spreading-magic-proxy",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/suffer-by-proxy-drawback-proxy",
@@ -16999,7 +16999,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#suffer-by-proxy-drawback-proxy",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/tactical-proxies-proxy",
@@ -17017,7 +17017,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#tactical-proxies-proxy",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/construction-points",
@@ -17033,7 +17033,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#construction-points",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/construction-flaws",
@@ -17049,7 +17049,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#construction-flaws",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/tiny-animated-object-cr-12",
@@ -17067,7 +17067,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#tiny-animated-object-cr-12",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/small-animated-object-cr-2",
@@ -17085,7 +17085,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#small-animated-object-cr-2",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/medium-animated-object-cr-3",
@@ -17103,7 +17103,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#medium-animated-object-cr-3",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/large-animated-object-cr-5",
@@ -17121,7 +17121,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#large-animated-object-cr-5",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/huge-animated-object-cr-7",
@@ -17139,7 +17139,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#huge-animated-object-cr-7",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/gargantuan-animated-object-cr-9",
@@ -17157,7 +17157,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#gargantuan-animated-object-cr-9",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/colossal-animated-object-cr-11",
@@ -17175,7 +17175,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#colossal-animated-object-cr-11",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/colossal-animated-object-cr-12",
@@ -17193,7 +17193,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#colossal-animated-object-cr-12",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/colossal-animated-object-cr-14",
@@ -17211,7 +17211,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#colossal-animated-object-cr-14",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/colossal-animated-object-cr-16",
@@ -17229,7 +17229,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement#colossal-animated-object-cr-16",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/bodily-enhancement",
@@ -17245,7 +17245,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Drawbacks#bodily-enhancement",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/constructor",
@@ -17261,7 +17261,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Drawbacks#constructor",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/marking-enhancements",
@@ -17277,7 +17277,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Drawbacks#marking-enhancements",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/personal-magics",
@@ -17293,7 +17293,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Drawbacks#personal-magics",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/power-leech",
@@ -17309,7 +17309,7 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Drawbacks#power-leech",
   "options": [],
   "file": "enhancement.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "enhancement/special-delivery",
@@ -17325,6 +17325,1142 @@
   "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Drawbacks#special-delivery",
   "options": [],
   "file": "enhancement.json",
+  "approved": true
+ },
+ {
+  "id": "fallen-fey/fey-link",
+  "name": "Fey-Link",
+  "kind": "sphere ability",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#fey-link",
+  "options": [
+   "Nature-Connection"
+  ],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/bounty-of-the-fey-mass",
+  "name": "Bounty of the Fey",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fallen Fey Talents",
+  "tags": [],
+  "talentTags": [
+   "mass"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#bounty-of-the-fey-mass",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/feytouch-strike-strike",
+  "name": "Feytouch Strike",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fallen Fey Talents",
+  "tags": [],
+  "talentTags": [
+   "strike"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#feytouch-strike-strike",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/greater-fey-link",
+  "name": "Greater Fey-Link",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fallen Fey Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#greater-fey-link",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/share-link",
+  "name": "Share Link",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fallen Fey Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#share-link",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/aelfwine-fey-blessing",
+  "name": "Aelfwine",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#aelfwine-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/animate-hair-fey-blessing",
+  "name": "Animate Hair",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#animate-hair-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/beastward-fey-blessing",
+  "name": "Beastward",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#beastward-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/beckoning-call-fey-blessing-utility",
+  "name": "Beckoning Call",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#beckoning-call-fey-blessing-utility",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/crown-of-the-courts-fey-blessing",
+  "name": "Crown Of The Courts",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#crown-of-the-courts-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/enchanting-music-fey-blessing",
+  "name": "Enchanting Music",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#enchanting-music-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/fade-fey-blessing",
+  "name": "Fade",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#fade-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/fairy-dust-fey-blessing",
+  "name": "Fairy Dust",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#fairy-dust-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/fairy-flight-fey-blessing",
+  "name": "Fairy Flight",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#fairy-flight-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/fae-light-fey-blessing-utility",
+  "name": "Fae Light",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#fae-light-fey-blessing-utility",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/feast-and-famine-fey-blessing",
+  "name": "Feast And Famine",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#feast-and-famine-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/feline-omens-fey-blessing",
+  "name": "Feline Omens",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#feline-omens-fey-blessing",
+  "options": [
+   "Grimalkin Shade"
+  ],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/fey-beauty-fey-blessing-utility",
+  "name": "Fey Beauty",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#fey-beauty-fey-blessing-utility",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/fey-potency-fey-blessing",
+  "name": "Fey Potency",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#fey-potency-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/fey-secrets-fey-blessing",
+  "name": "Fey Secrets",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#fey-secrets-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/grace-of-the-sidhe-fey-blessing",
+  "name": "Grace Of The Sidhe",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#grace-of-the-sidhe-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/gremlins-presence-fey-blessing",
+  "name": "Gremlin’s Presence",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#gremlins-presence-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/listen-to-the-wind-fey-blessing-utility",
+  "name": "Listen To The Wind",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#listen-to-the-wind-fey-blessing-utility",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/long-step-fey-blessing",
+  "name": "Long Step",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#long-step-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/mantle-of-autumn-fey-blessing",
+  "name": "Mantle Of Autumn",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#mantle-of-autumn-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/mantle-of-spring-fey-blessing",
+  "name": "Mantle Of Spring",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#mantle-of-spring-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/misplacement-fey-blessing",
+  "name": "Misplacement",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#misplacement-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/natural-blessing-fey-blessing",
+  "name": "Natural Blessing",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#natural-blessing-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/natural-dominion-fey-blessing",
+  "name": "Natural Dominion",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#natural-dominion-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/natures-empathy-fey-blessing-utility",
+  "name": "Nature’s Empathy",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#natures-empathy-fey-blessing-utility",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/pixie-sticks-fey-blessing",
+  "name": "Pixie Sticks",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#pixie-sticks-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/plant-friend-fey-blessing",
+  "name": "Plant Friend",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#plant-friend-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/saboteur-fey-blessing-utility",
+  "name": "Saboteur",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#saboteur-fey-blessing-utility",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/shadow-collector-fey-blessing",
+  "name": "Shadow Collector",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#shadow-collector-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/snare-setter-fey-blessing",
+  "name": "Snare Setter",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#snare-setter-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/spores-fey-blessing",
+  "name": "Spores",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#spores-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/stone-shape-fey-blessing",
+  "name": "Stone Shape",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#stone-shape-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/stunning-glance-fey-blessing",
+  "name": "Stunning Glance",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#stunning-glance-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/summon-fairy-fey-blessing",
+  "name": "Summon Fairy",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#summon-fairy-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/tree-meld-fey-blessing",
+  "name": "Tree Meld",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#tree-meld-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/trickery-fey-blessing",
+  "name": "Trickery",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#trickery-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/unseelie-aura-fey-blessing",
+  "name": "Unseelie Aura",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#unseelie-aura-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/unthreatening-form-fey-blessing",
+  "name": "Unthreatening Form",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#unthreatening-form-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/ventriloquism-fey-blessing",
+  "name": "Ventriloquism",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#ventriloquism-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/water-creature-fey-blessing",
+  "name": "Water Creature",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#water-creature-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/weapons-of-the-wild-fey-blessing",
+  "name": "Weapons Of The Wild",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#weapons-of-the-wild-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/wild-walk-fey-blessing",
+  "name": "Wild Walk",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#wild-walk-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/winterfey-fey-blessing",
+  "name": "Winterfey",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#winterfey-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/wood-shape-fey-blessing",
+  "name": "Wood Shape",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#wood-shape-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/zolavois-mantle-fey-blessing",
+  "name": "Zolavoi’s Mantle",
+  "kind": "talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Fey-blessing Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#zolavois-mantle-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/banish-to-faerie",
+  "name": "Banish to Faerie",
+  "kind": "advanced talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Advanced Fallen Fey Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#banish-to-faerie",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/blinding-beauty-fey-blessing",
+  "name": "Blinding Beauty",
+  "kind": "advanced talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Advanced Fallen Fey Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#blinding-beauty-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/bound-to-nature-fey-blessing",
+  "name": "Bound To Nature",
+  "kind": "advanced talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Advanced Fallen Fey Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#bound-to-nature-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/drowning-kiss-fey-blessing",
+  "name": "Drowning Kiss",
+  "kind": "advanced talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Advanced Fallen Fey Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#drowning-kiss-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/fairy-ring-traveler-utility",
+  "name": "Fairy Ring Traveler",
+  "kind": "advanced talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Advanced Fallen Fey Talents",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#fairy-ring-traveler-utility",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/fey-initiation",
+  "name": "Fey Initiation",
+  "kind": "advanced talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Advanced Fallen Fey Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#fey-initiation",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/fey-invisibility-fey-blessing",
+  "name": "Fey Invisibility",
+  "kind": "advanced talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Advanced Fallen Fey Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#fey-invisibility-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/steal-skin-fey-blessing",
+  "name": "Steal Skin",
+  "kind": "advanced talent",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Advanced Fallen Fey Talents",
+  "tags": [
+   "fey-blessing"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey#steal-skin-fey-blessing",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/enchanting-performance",
+  "name": "Enchanting Performance",
+  "kind": "feat",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey-Sphere-Feats#enchanting-performance",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/fairy-alchemy-champion",
+  "name": "Fairy Alchemy",
+  "kind": "feat",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Champion"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey-Sphere-Feats#fairy-alchemy-champion",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/unseelie-trapper-champion",
+  "name": "Unseelie Trapper",
+  "kind": "feat",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Champion"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey-Sphere-Feats#unseelie-trapper-champion",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/water-manipulator-dual-sphere",
+  "name": "Water Manipulator",
+  "kind": "feat",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey-Sphere-Feats#water-manipulator-dual-sphere",
+  "options": [],
+  "file": "fallen-fey.json",
+  "approved": false
+ },
+ {
+  "id": "fallen-fey/terrain-bonded",
+  "name": "Terrain-Bonded",
+  "kind": "drawback",
+  "sphere": "Fallen Fey",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Fallen-Fey/Fallen-Fey-Sphere-Drawbacks#terrain-bonded",
+  "options": [],
+  "file": "fallen-fey.json",
   "approved": false
  },
  {
