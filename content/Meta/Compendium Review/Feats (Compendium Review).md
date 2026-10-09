@@ -23,56 +23,56 @@ What the feat extractor takes from the site (1233 Spheres feats; approved), plus
 | Item Creation | 20 | 28 |
 | Racial | 42 | — |
 | Monster | 3 | 27 |
-| Squadron | 28 | — |
 | Critical | — | 28 |
+| Squadron | 28 | — |
 | Admixture | 24 | — |
-| Aristeia | 23 | — |
 | Conduit | — | 23 |
+| Aristeia | 23 | — |
 | Grit | — | 21 |
 | Counterspell | 20 | — |
 | Item Mastery | — | 19 |
-| Faction | — | 17 |
 | Gizmo | 17 | — |
+| Faction | — | 17 |
 | Weapon Mastery | — | 17 |
-| Protokinesis | 16 | — |
 | Stare | — | 16 |
-| Performance | — | 15 |
+| Protokinesis | 16 | — |
 | Companion | 15 | — |
-| Shield Mastery | — | 14 |
+| Performance | — | 15 |
 | Meditation | — | 14 |
-| Wild Magic | 12 | — |
-| Necrosis | 12 | — |
-| Shield Style | — | 12 |
+| Shield Mastery | — | 14 |
 | Proxy | 12 | — |
+| Wild Magic | 12 | — |
+| Shield Style | — | 12 |
 | Defiler | 12 | — |
-| Panache | — | 11 |
-| Purring | 11 | — |
-| Channeling | 11 | — |
-| Achievement | — | 11 |
+| Necrosis | 12 | — |
 | Armor Mastery | — | 11 |
+| Channeling | 11 | — |
+| Purring | 11 | — |
+| Achievement | — | 11 |
 | Surreal | 11 | — |
+| Panache | — | 11 |
 | Rune | 10 | — |
 | Armor Style | — | 9 |
 | Alignment | — | 9 |
-| Origin | — | 9 |
 | Esoteric | — | 9 |
+| Origin | — | 9 |
 | Blood Hex | — | 8 |
 | Familiar | — | 8 |
 | Damnation | 3 | 4 |
-| Combination | — | 7 |
 | Theurge | 7 | — |
-| Trick | — | 6 |
-| Betrayal | — | 6 |
+| Combination | — | 7 |
 | Plague | 6 | — |
+| Betrayal | — | 6 |
 | Chance | 6 | — |
+| Trick | — | 6 |
 | Anathema | 5 | — |
-| Gathlain Court Title | — | 4 |
 | Targeting | — | 4 |
+| Gathlain Court Title | — | 4 |
 | Words of Power | — | 3 |
 | Hero Point | — | 3 |
-| Called Shot | — | 2 |
 | Luck | 2 | — |
 | Coven | — | 2 |
+| Called Shot | — | 2 |
 
 ## Spheres of Power (926)
 

@@ -170,7 +170,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 **Martial Options**
 
 [[Martial Traditions]]
-[[Practitioner Traits]]
 [[Practitioner FCB's]]
 
 [[Ultimate Engineering]]

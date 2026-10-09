@@ -268,6 +268,19 @@
   "file": "traits.json"
  },
  {
+  "id": "trait/heavy-machinery",
+  "name": "Heavy Machinery",
+  "system": "Spheres of Might",
+  "categories": [
+   "Combat"
+  ],
+  "requirements": "",
+  "source": "",
+  "url": "Spheres-Of-Power/Traits#heavy-machinery-combat",
+  "summary": "Any mechanoid you create gets +1 hit point, +1 per 2 gizmo levels.",
+  "file": "traits.json"
+ },
+ {
   "id": "trait/iron-plated-mind",
   "name": "Iron-Plated Mind",
   "system": "Spheres of Power",
@@ -278,6 +291,32 @@
   "source": "Diamond Spheres: Invention & Ingenuity",
   "url": "Spheres-Of-Power/Traits#iron-plated-mind",
   "summary": "Choose a sphere.",
+  "file": "traits.json"
+ },
+ {
+  "id": "trait/maneuver-trained",
+  "name": "Maneuver Trained",
+  "system": "Spheres of Might",
+  "categories": [
+   "Combat"
+  ],
+  "requirements": "",
+  "source": "",
+  "url": "Spheres-Of-Power/Traits#maneuver-trained-combat",
+  "summary": "You gain a +1 trait bonus to your CMB.",
+  "file": "traits.json"
+ },
+ {
+  "id": "trait/mastered-talent",
+  "name": "Mastered Talent",
+  "system": "Spheres of Might",
+  "categories": [
+   "Combat"
+  ],
+  "requirements": "",
+  "source": "",
+  "url": "Spheres-Of-Power/Traits#mastered-talent-combat",
+  "summary": "Select 1 combat talent; you treat your base attack bonus as 1 higher for the purposes of its effects.",
   "file": "traits.json"
  },
  {
@@ -294,6 +333,45 @@
   "file": "traits.json"
  },
  {
+  "id": "trait/practiced-maneuver",
+  "name": "Practiced Maneuver",
+  "system": "Spheres of Might",
+  "categories": [
+   "Combat"
+  ],
+  "requirements": "",
+  "source": "",
+  "url": "Spheres-Of-Power/Traits#practiced-maneuver-combat",
+  "summary": "Whenever you attempt a combat maneuver and fail, you gain a +2 trait bonus on your next combat maneuver check with that same combat maneuver as long as you…",
+  "file": "traits.json"
+ },
+ {
+  "id": "trait/scout-s-eyes",
+  "name": "Scout’s Eyes",
+  "system": "Spheres of Might",
+  "categories": [
+   "Combat"
+  ],
+  "requirements": "",
+  "source": "",
+  "url": "Spheres-Of-Power/Traits#scouts-eyes-combat",
+  "summary": "You ignore the -5 penalty on Perception checks when using the Scout sphere’s scout ability.",
+  "file": "traits.json"
+ },
+ {
+  "id": "trait/sharp-reflexes",
+  "name": "Sharp Reflexes",
+  "system": "Spheres of Might",
+  "categories": [
+   "Combat"
+  ],
+  "requirements": "",
+  "source": "",
+  "url": "Spheres-Of-Power/Traits#sharp-reflexes-combat",
+  "summary": "You gain the ability to make one additional attack of opportunity each round.",
+  "file": "traits.json"
+ },
+ {
   "id": "trait/spatial-awareness",
   "name": "Spatial Awareness",
   "system": "Spheres of Power",
@@ -307,6 +385,19 @@
   "file": "traits.json"
  },
  {
+  "id": "trait/steel-body",
+  "name": "Steel Body",
+  "system": "Spheres of Might",
+  "categories": [
+   "Combat"
+  ],
+  "requirements": "",
+  "source": "",
+  "url": "Spheres-Of-Power/Traits#steel-body-combat",
+  "summary": "You gain +1 hit point; for every two additional hit dice you possess, you gain +1 hit point.",
+  "file": "traits.json"
+ },
+ {
   "id": "trait/strangely-resistant",
   "name": "Strangely Resistant",
   "system": "Spheres of Power",
@@ -317,6 +408,19 @@
   "source": "Diamond Spheres: Invention & Ingenuity",
   "url": "Spheres-Of-Power/Traits#strangely-resistant",
   "summary": "Choose a magical sphere.",
+  "file": "traits.json"
+ },
+ {
+  "id": "trait/talented-knuckle",
+  "name": "Talented Knuckle",
+  "system": "Spheres of Might",
+  "categories": [
+   "Combat"
+  ],
+  "requirements": "",
+  "source": "",
+  "url": "Spheres-Of-Power/Traits#talented-knuckle-combat",
+  "summary": "You are treated as though you possessed 2 additional Boxing, Brute, Open Hand, or Wrestling talents when determining the damage of your unarmed strikes.",
   "file": "traits.json"
  },
  {
@@ -424,6 +528,32 @@
   "file": "traits.json"
  },
  {
+  "id": "trait/maintenance-expert",
+  "name": "Maintenance Expert",
+  "system": "Spheres of Might",
+  "categories": [
+   "Equipment"
+  ],
+  "requirements": "",
+  "source": "",
+  "url": "Spheres-Of-Power/Traits#maintenance-expert-equipment",
+  "summary": "If you possess the Tinker sphere, you increase your gizmo limit by +1 and increase the number of minor gizmos you can maintain as a single gizmo (as a “set”)…",
+  "file": "traits.json"
+ },
+ {
+  "id": "trait/martial-training",
+  "name": "Martial Training",
+  "system": "Spheres of Might",
+  "categories": [
+   "Equipment"
+  ],
+  "requirements": "",
+  "source": "",
+  "url": "Spheres-Of-Power/Traits#martial-training-equipment",
+  "summary": "Select 1 martial weapon with which you are not proficient; you reduce the penalties on attack rolls for not being proficient with it by -2 (minimum 0).",
+  "file": "traits.json"
+ },
+ {
   "id": "trait/necrotic-tinkerer",
   "name": "Necrotic Tinkerer",
   "system": "Spheres of Power",
@@ -489,6 +619,32 @@
   "file": "traits.json"
  },
  {
+  "id": "trait/well-balanced-blade",
+  "name": "Well-Balanced Blade",
+  "system": "Spheres of Might",
+  "categories": [
+   "Equipment"
+  ],
+  "requirements": "",
+  "source": "Spheres Apocrypha: Swashbucklers",
+  "url": "Spheres-Of-Power/Traits#well-balanced-blade-equipment",
+  "summary": "You gain the exotic weapon proficiency in this weapon to wield it in one hand.",
+  "file": "traits.json"
+ },
+ {
+  "id": "trait/well-provisioned-adventurer",
+  "name": "Well-Provisioned Adventurer",
+  "system": "Spheres of Might",
+  "categories": [
+   "Equipment"
+  ],
+  "requirements": "",
+  "source": "",
+  "url": "Spheres-Of-Power/Traits#well-provisioned-adventurer-equipment",
+  "summary": "Select and gain one of the equipment packages found in Pathfinder Player Companion: Adventurer’s Armory 2.",
+  "file": "traits.json"
+ },
+ {
   "id": "trait/blood-cult-survivor",
   "name": "Blood Cult Survivor",
   "system": "Spheres of Power",
@@ -496,7 +652,7 @@
    "Faith"
   ],
   "requirements": "",
-  "source": "Diamond Spheres: Invention & Ingenuity",
+  "source": "Spheres Apocrypha: Swashbucklers",
   "url": "Spheres-Of-Power/Traits#blood-cult-survivor",
   "summary": "You gain a +1 trait bonus on saves against blood control and effects that cause bleed damage.",
   "file": "traits.json"
@@ -509,7 +665,7 @@
    "Faith"
   ],
   "requirements": "",
-  "source": "Diamond Spheres: Invention & Ingenuity",
+  "source": "Spheres Apocrypha: Swashbucklers",
   "url": "Spheres-Of-Power/Traits#conscious-cultist",
   "summary": "Gain a +1 trait bonus to caster level when using talents and abilities from the Divination, Mind and Telekinesis spheres.",
   "file": "traits.json"
@@ -522,7 +678,7 @@
    "Faith"
   ],
   "requirements": "",
-  "source": "Diamond Spheres: Invention & Ingenuity",
+  "source": "Spheres Apocrypha: Swashbucklers",
   "url": "Spheres-Of-Power/Traits#defender-of-the-faith",
   "summary": "You gain a +1 trait bonus to caster level when using talents and abilities from the Fate, Life and Protection spheres.",
   "file": "traits.json"
@@ -535,7 +691,7 @@
    "Faith"
   ],
   "requirements": "",
-  "source": "Diamond Spheres: Invention & Ingenuity",
+  "source": "Spheres Apocrypha: Swashbucklers",
   "url": "Spheres-Of-Power/Traits#force-of-spirit",
   "summary": "When you create a totem and pay a spell point to make it continue without concentration, the duration of the totem increases by 2 rounds.",
   "file": "traits.json"
@@ -548,7 +704,7 @@
    "Faith"
   ],
   "requirements": "",
-  "source": "Diamond Spheres: Invention & Ingenuity",
+  "source": "Spheres Apocrypha: Swashbucklers",
   "url": "Spheres-Of-Power/Traits#grove-neophyte",
   "summary": "You gain a +1 trait bonus to your caster level when using talents and abilities from the Alteration, Nature, and Weather spheres.",
   "file": "traits.json"
@@ -561,7 +717,7 @@
    "Faith"
   ],
   "requirements": "",
-  "source": "Diamond Spheres: Invention & Ingenuity",
+  "source": "Spheres Apocrypha: Swashbucklers",
   "url": "Spheres-Of-Power/Traits#horrifying-omen",
   "summary": "You can attempt a Knowledge (religion) check instead of a Bluff check when attempting to make a troubling claim against a creature, as you speak of a terrible…",
   "file": "traits.json"
@@ -574,7 +730,7 @@
    "Faith"
   ],
   "requirements": "",
-  "source": "Diamond Spheres: Invention & Ingenuity",
+  "source": "Spheres Apocrypha: Swashbucklers",
   "url": "Spheres-Of-Power/Traits#pilgrim",
   "summary": "Your caster level is treated as 2 higher when determining the distance you can travel with teleport.",
   "file": "traits.json"
@@ -587,7 +743,7 @@
    "Faith"
   ],
   "requirements": "",
-  "source": "Diamond Spheres: Invention & Ingenuity",
+  "source": "Spheres Apocrypha: Swashbucklers",
   "url": "Spheres-Of-Power/Traits#sacred-preparation-faith",
   "summary": "Choose a single (harvest) talent from the Survivalism sphere (even if you do not possess the sphere).",
   "file": "traits.json"
@@ -652,7 +808,7 @@
    "Magic"
   ],
   "requirements": "",
-  "source": "Diamond Spheres: Invention & Ingenuity",
+  "source": "Diamond Polished Spheres: Dark Sphere",
   "url": "Spheres-Of-Power/Traits#augmentor-specialist",
   "summary": "Spellcraft is always a class skill for you.",
   "file": "traits.json"
@@ -1191,6 +1347,19 @@
   "file": "traits.json"
  },
  {
+  "id": "trait/intuitive-hands",
+  "name": "Intuitive Hands",
+  "system": "Spheres of Might",
+  "categories": [
+   "Region"
+  ],
+  "requirements": "",
+  "source": "",
+  "url": "Spheres-Of-Power/Traits#intuitive-hands-region",
+  "summary": "Choose either Handle Animal or Ride.",
+  "file": "traits.json"
+ },
+ {
   "id": "trait/night-watch",
   "name": "Night Watch",
   "system": "Spheres of Power",
@@ -1198,7 +1367,7 @@
    "Region"
   ],
   "requirements": "",
-  "source": "Diamond Spheres: Hustle & Bustle",
+  "source": "Diamond Polished Spheres: Dark Sphere",
   "url": "Spheres-Of-Power/Traits#night-watch",
   "summary": "You gain darkvision 5 feet, increasing by +5 feet per 4 Hit Dice.",
   "file": "traits.json"
@@ -1253,6 +1422,19 @@
   "source": "Diamond Polished Spheres: Dark Sphere",
   "url": "Spheres-Of-Power/Traits#doom-cultist",
   "summary": "You gain a +1 trait bonus to caster level for the Blood, Death, and Destruction spheres.",
+  "file": "traits.json"
+ },
+ {
+  "id": "trait/higher-calling",
+  "name": "Higher Calling",
+  "system": "Spheres of Might",
+  "categories": [
+   "Religion"
+  ],
+  "requirements": "",
+  "source": "",
+  "url": "Spheres-Of-Power/Traits#higher-calling-religion",
+  "summary": "Once per week, you may cast augury as a spell-like ability.",
   "file": "traits.json"
  },
  {
@@ -1321,6 +1503,19 @@
   "file": "traits.json"
  },
  {
+  "id": "trait/bountiful-charm",
+  "name": "Bountiful Charm",
+  "system": "Spheres of Might",
+  "categories": [
+   "Social"
+  ],
+  "requirements": "",
+  "source": "",
+  "url": "Spheres-Of-Power/Traits#bountiful-charm-social",
+  "summary": "Diplomacy is a class skill for you and you gain a +2 trait bonus on Diplomacy checks to recruit cohorts.",
+  "file": "traits.json"
+ },
+ {
   "id": "trait/compassion",
   "name": "Compassion",
   "system": "Spheres of Power",
@@ -1373,6 +1568,19 @@
   "file": "traits.json"
  },
  {
+  "id": "trait/highland-clansman",
+  "name": "Highland Clansman",
+  "system": "Spheres of Might",
+  "categories": [
+   "Social"
+  ],
+  "requirements": "",
+  "source": "",
+  "url": "Spheres-Of-Power/Traits#highland-clansman-social",
+  "summary": "Those are your clan colors, and you may benefit from having both war paint colors if applied simultaneously.",
+  "file": "traits.json"
+ },
+ {
   "id": "trait/impersonator",
   "name": "Impersonator",
   "system": "Spheres of Power",
@@ -1383,6 +1591,19 @@
   "source": "Diamond Polished Spheres: Dark Sphere",
   "url": "Spheres-Of-Power/Traits#impersonator",
   "summary": "You gain a +2 trait bonus to Bluff checks to impersonate another creature and Bluff is always a class skill for you.",
+  "file": "traits.json"
+ },
+ {
+  "id": "trait/industrial-worker",
+  "name": "Industrial Worker",
+  "system": "Spheres of Might",
+  "categories": [
+   "Social"
+  ],
+  "requirements": "",
+  "source": "",
+  "url": "Spheres-Of-Power/Traits#industrial-worker-social",
+  "summary": "You gain a +5 trait bonus on all checks to gather Tinker sphere project materials and Knowledge (Engineering) is always a class skill for you.",
   "file": "traits.json"
  },
  {
@@ -1451,6 +1672,19 @@
   "file": "traits.json"
  },
  {
+  "id": "trait/reassuring-liar",
+  "name": "Reassuring Liar",
+  "system": "Spheres of Might",
+  "categories": [
+   "Social"
+  ],
+  "requirements": "",
+  "source": "",
+  "url": "Spheres-Of-Power/Traits#reassuring-liar-social",
+  "summary": "You reduce the DC increase for a dead cohort by 2 and double the rate this penalty is reduced.",
+  "file": "traits.json"
+ },
+ {
   "id": "trait/reliable-leverage",
   "name": "Reliable Leverage",
   "system": "Spheres of Power",
@@ -1477,6 +1711,19 @@
   "file": "traits.json"
  },
  {
+  "id": "trait/scarred-by-war",
+  "name": "Scarred by War",
+  "system": "Spheres of Might",
+  "categories": [
+   "Social"
+  ],
+  "requirements": "",
+  "source": "",
+  "url": "Spheres-Of-Power/Traits#scarred-by-war-social",
+  "summary": "You gain DR 1/piercing.",
+  "file": "traits.json"
+ },
+ {
   "id": "trait/social-butterfly",
   "name": "Social Butterfly",
   "system": "Spheres of Power",
@@ -1490,253 +1737,6 @@
   "file": "traits.json"
  },
  {
-  "id": "trait/heavy-machinery",
-  "name": "Heavy Machinery",
-  "system": "Spheres of Might",
-  "categories": [
-   "Combat"
-  ],
-  "requirements": "",
-  "source": "Spheres Apocrypha: Swashbucklers",
-  "url": "Spheres-Of-Might/Practitioner-Traits#heavy-machinery-combat",
-  "summary": "Any mechanoid you create gets +1 hit point, +1 per 2 gizmo levels.",
-  "file": "traits.json"
- },
- {
-  "id": "trait/maneuver-trained",
-  "name": "Maneuver Trained",
-  "system": "Spheres of Might",
-  "categories": [
-   "Combat"
-  ],
-  "requirements": "",
-  "source": "Spheres Apocrypha: Swashbucklers",
-  "url": "Spheres-Of-Might/Practitioner-Traits#maneuver-trained-combat",
-  "summary": "You gain a +1 trait bonus to your CMB.",
-  "file": "traits.json"
- },
- {
-  "id": "trait/mastered-talent",
-  "name": "Mastered Talent",
-  "system": "Spheres of Might",
-  "categories": [
-   "Combat"
-  ],
-  "requirements": "",
-  "source": "Spheres Apocrypha: Swashbucklers",
-  "url": "Spheres-Of-Might/Practitioner-Traits#mastered-talent-combat",
-  "summary": "Select 1 combat talent; you treat your base attack bonus as 1 higher for the purposes of its effects.",
-  "file": "traits.json"
- },
- {
-  "id": "trait/practiced-maneuver",
-  "name": "Practiced Maneuver",
-  "system": "Spheres of Might",
-  "categories": [
-   "Combat"
-  ],
-  "requirements": "",
-  "source": "Spheres Apocrypha: Swashbucklers",
-  "url": "Spheres-Of-Might/Practitioner-Traits#practiced-maneuver-combat",
-  "summary": "Whenever you attempt a combat maneuver and fail, you gain a +2 trait bonus on your next combat maneuver check with that same combat maneuver as long as you…",
-  "file": "traits.json"
- },
- {
-  "id": "trait/scout-s-eyes",
-  "name": "Scout’s Eyes",
-  "system": "Spheres of Might",
-  "categories": [
-   "Combat"
-  ],
-  "requirements": "",
-  "source": "Spheres Apocrypha: Swashbucklers",
-  "url": "Spheres-Of-Might/Practitioner-Traits#scouts-eyes-combat",
-  "summary": "You ignore the -5 penalty on Perception checks when using the Scout sphere’s scout ability.",
-  "file": "traits.json"
- },
- {
-  "id": "trait/sharp-reflexes",
-  "name": "Sharp Reflexes",
-  "system": "Spheres of Might",
-  "categories": [
-   "Combat"
-  ],
-  "requirements": "",
-  "source": "Spheres Apocrypha: Swashbucklers",
-  "url": "Spheres-Of-Might/Practitioner-Traits#sharp-reflexes-combat",
-  "summary": "You gain the ability to make one additional attack of opportunity each round.",
-  "file": "traits.json"
- },
- {
-  "id": "trait/steel-body",
-  "name": "Steel Body",
-  "system": "Spheres of Might",
-  "categories": [
-   "Combat"
-  ],
-  "requirements": "",
-  "source": "Spheres Apocrypha: Swashbucklers",
-  "url": "Spheres-Of-Might/Practitioner-Traits#steel-body-combat",
-  "summary": "You gain +1 hit point; for every two additional hit dice you possess, you gain +1 hit point.",
-  "file": "traits.json"
- },
- {
-  "id": "trait/talented-knuckle",
-  "name": "Talented Knuckle",
-  "system": "Spheres of Might",
-  "categories": [
-   "Combat"
-  ],
-  "requirements": "",
-  "source": "Spheres Apocrypha: Swashbucklers",
-  "url": "Spheres-Of-Might/Practitioner-Traits#talented-knuckle-combat",
-  "summary": "You are treated as though you possessed 2 additional Boxing, Brute, Open Hand, or Wrestling talents when determining the damage of your unarmed strikes.",
-  "file": "traits.json"
- },
- {
-  "id": "trait/maintenance-expert",
-  "name": "Maintenance Expert",
-  "system": "Spheres of Might",
-  "categories": [
-   "Equipment"
-  ],
-  "requirements": "",
-  "source": "Spheres Apocrypha: Swashbucklers",
-  "url": "Spheres-Of-Might/Practitioner-Traits#maintenance-expert-equipment",
-  "summary": "If you possess the Tinker sphere, you increase your gizmo limit by +1 and increase the number of minor gizmos you can maintain as a single gizmo (as a “set”)…",
-  "file": "traits.json"
- },
- {
-  "id": "trait/martial-training",
-  "name": "Martial Training",
-  "system": "Spheres of Might",
-  "categories": [
-   "Equipment"
-  ],
-  "requirements": "",
-  "source": "Spheres Apocrypha: Swashbucklers",
-  "url": "Spheres-Of-Might/Practitioner-Traits#martial-training-equipment",
-  "summary": "Select 1 martial weapon with which you are not proficient; you reduce the penalties on attack rolls for not being proficient with it by -2 (minimum 0).",
-  "file": "traits.json"
- },
- {
-  "id": "trait/well-provisioned-adventurer",
-  "name": "Well-Provisioned Adventurer",
-  "system": "Spheres of Might",
-  "categories": [
-   "Equipment"
-  ],
-  "requirements": "",
-  "source": "Spheres Apocrypha: Swashbucklers",
-  "url": "Spheres-Of-Might/Practitioner-Traits#well-provisioned-adventurer-equipment",
-  "summary": "Select and gain one of the equipment packages found in Pathfinder Player Companion: Adventurer’s Armory 2.",
-  "file": "traits.json"
- },
- {
-  "id": "trait/well-balanced-blade",
-  "name": "Well-Balanced Blade",
-  "system": "Spheres of Might",
-  "categories": [
-   "Equipment"
-  ],
-  "requirements": "",
-  "source": "Spheres Apocrypha: Swashbucklers",
-  "url": "Spheres-Of-Might/Practitioner-Traits#well-balanced-blade-equipment",
-  "summary": "You gain the exotic weapon proficiency in this weapon to wield it in one hand.",
-  "file": "traits.json"
- },
- {
-  "id": "trait/intuitive-hands",
-  "name": "Intuitive Hands",
-  "system": "Spheres of Might",
-  "categories": [
-   "Region"
-  ],
-  "requirements": "",
-  "source": "Spheres Apocrypha: Swashbucklers",
-  "url": "Spheres-Of-Might/Practitioner-Traits#intuitive-hands-region",
-  "summary": "Choose either Handle Animal or Ride.",
-  "file": "traits.json"
- },
- {
-  "id": "trait/higher-calling",
-  "name": "Higher Calling",
-  "system": "Spheres of Might",
-  "categories": [
-   "Religion"
-  ],
-  "requirements": "",
-  "source": "Spheres Apocrypha: Swashbucklers",
-  "url": "Spheres-Of-Might/Practitioner-Traits#higher-calling-religion",
-  "summary": "Once per week, you may cast augury as a spell-like ability.",
-  "file": "traits.json"
- },
- {
-  "id": "trait/bountiful-charm",
-  "name": "Bountiful Charm",
-  "system": "Spheres of Might",
-  "categories": [
-   "Social"
-  ],
-  "requirements": "",
-  "source": "Spheres Apocrypha: Swashbucklers",
-  "url": "Spheres-Of-Might/Practitioner-Traits#bountiful-charm-social",
-  "summary": "Diplomacy is a class skill for you and you gain a +2 trait bonus on Diplomacy checks to recruit cohorts.",
-  "file": "traits.json"
- },
- {
-  "id": "trait/highland-clansman",
-  "name": "Highland Clansman",
-  "system": "Spheres of Might",
-  "categories": [
-   "Social"
-  ],
-  "requirements": "",
-  "source": "Spheres Apocrypha: Swashbucklers",
-  "url": "Spheres-Of-Might/Practitioner-Traits#highland-clansman-social",
-  "summary": "Those are your clan colors, and you may benefit from having both war paint colors if applied simultaneously.",
-  "file": "traits.json"
- },
- {
-  "id": "trait/industrial-worker",
-  "name": "Industrial Worker",
-  "system": "Spheres of Might",
-  "categories": [
-   "Social"
-  ],
-  "requirements": "",
-  "source": "Spheres Apocrypha: Swashbucklers",
-  "url": "Spheres-Of-Might/Practitioner-Traits#industrial-worker-social",
-  "summary": "You gain a +5 trait bonus on all checks to gather Tinker sphere project materials and Knowledge (Engineering) is always a class skill for you.",
-  "file": "traits.json"
- },
- {
-  "id": "trait/reassuring-liar",
-  "name": "Reassuring Liar",
-  "system": "Spheres of Might",
-  "categories": [
-   "Social"
-  ],
-  "requirements": "",
-  "source": "Spheres Apocrypha: Swashbucklers",
-  "url": "Spheres-Of-Might/Practitioner-Traits#reassuring-liar-social",
-  "summary": "You reduce the DC increase for a dead cohort by 2 and double the rate this penalty is reduced.",
-  "file": "traits.json"
- },
- {
-  "id": "trait/scarred-by-war",
-  "name": "Scarred by War",
-  "system": "Spheres of Might",
-  "categories": [
-   "Social"
-  ],
-  "requirements": "",
-  "source": "Spheres Apocrypha: Swashbucklers",
-  "url": "Spheres-Of-Might/Practitioner-Traits#scarred-by-war-social",
-  "summary": "You gain DR 1/piercing.",
-  "file": "traits.json"
- },
- {
   "id": "trait/technophile",
   "name": "Technophile",
   "system": "Spheres of Might",
@@ -1744,8 +1744,8 @@
    "Social"
   ],
   "requirements": "",
-  "source": "Spheres Apocrypha: Swashbucklers",
-  "url": "Spheres-Of-Might/Practitioner-Traits#technophile-social",
+  "source": "",
+  "url": "Spheres-Of-Power/Traits#technophile-social",
   "summary": "You gain a +2 trait bonus to all Craft (mechanical) checks you make; your charge pool’s maximum size increases by 2 (if you possess one).",
   "file": "traits.json"
  },

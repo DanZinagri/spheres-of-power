@@ -128,11 +128,23 @@ If you possess the chosen talent, you treat your associated ranks as being 1 hig
 
 You know how to keep your subordinates healthy, perhaps due to time spent as a monastic initiate, cook, or even military officer. When you requisition a Faction sphere retainer, their average hit points increases by 1 per Hit Die.
 
+#### Heavy Machinery (combat)
+
+Any *mechanoid* you create gets +1 hit point, +1 per 2 gizmo levels.
+
 #### Iron-Plated Mind
 
 You grew up with magic, and possibly annoying siblings who repeatedly tried to trip up your casting.
 
 **Benefit:** Choose a sphere. You gain a +4 trait bonus on magic skill checks to cast defensively with that sphere.
+
+#### Maneuver Trained (combat)
+
+You have long trained in a variety of combat maneuvers. You gain a +1 trait bonus to your CMB.
+
+#### Mastered Talent (combat)
+
+You have focused on a single combat talent, gaining greater proficiency with it. Select 1 combat talent; you treat your base attack bonus as 1 higher for the purposes of its effects. At 5th level and every 4 levels afterwards, the chosen talent’s base attack bonus is treated as an additional 1 higher, although the talent’s effective base attack bonus cannot be higher than your character level.
 
 #### Practiced Aim
 
@@ -140,15 +152,35 @@ You have battled with magic since a very young age.
 
 **Benefit:** You gain a +1 trait bonus on attack rolls with your destructive blast.
 
+#### Practiced Maneuver (combat)
+
+You are quick to learn from your mistakes. Whenever you attempt a combat maneuver and fail, you gain a +2 trait bonus on your next combat maneuver check with that same combat maneuver as long as you attempt it before the end of your next turn.
+
+#### Scout’s Eyes (combat)
+
+You ignore the -5 penalty on Perception checks when using the Scout sphere’s scout ability.
+
+#### Sharp Reflexes (combat)
+
+You are able to react to danger with violence. You gain the ability to make one additional attack of opportunity each round.
+
 #### Spatial Awareness
 
 While you may have trouble picturing how objects interact in space, you have always possessed an uncanny knack to put things right where they need to be. When using the Creation sphere to make an attack roll, such as with a falling object or the Created Momentum talent, you may choose to use your Dexterity or your casting ability modifier instead of your Intelligence when calculating your attack bonus. In addition, Knowledge (engineering) is always a class skill for you.
+
+#### Steel Body (combat)
+
+Your physique is far more difficult to damage than others. You gain +1 hit point; for every two additional hit dice you possess, you gain +1 hit point.
 
 #### Strangely Resistant
 
 You have been exposed to a certain style of magic repeatedly and have built up resistances.
 
 **Benefit:** Choose a magical sphere. You gain a +2 trait bonus to all saving throws vs. the effects of that sphere.
+
+#### Talented Knuckle (combat)
+
+You are treated as though you possessed 2 additional Boxing, Brute, Open Hand, or Wrestling talents when determining the damage of your unarmed strikes. You must have at least one of the above base spheres to benefit from this trait.
 
 #### Tinnitus
 
@@ -192,6 +224,14 @@ You can use a hint of teleportation magic to instantly change clothes.
 
 **Benefit:** As a swift action, you can swap an outfit you are currently wearing for another outfit in your possession, as well as don or remove individual pieces of clothing or jewelry. If you choose to affect a magical piece of clothing (such as a hat or ring) you are limited to only affecting it, either swapping it with another magical item of the same slot, removing it, or donning it. You may not use this trait to don or remove armor, but you may draw things from an extradimensional storage from the Warp sphere. This trait is a supernatural ability.
 
+#### Maintenance Expert (equipment)
+
+If you possess the Tinker sphere, you increase your gizmo limit by +1 and increase the number of minor gizmos you can maintain as a single gizmo (as a “set”) by +1.
+
+#### Martial Training (equipment)
+
+You know enough about weapons to expand your knowledge on their use. Select 1 martial weapon with which you are not proficient; you reduce the penalties on attack rolls for not being proficient with it by -2 (minimum 0). If you are proficient with at least 3 martial or exotic weapons, you instead gain proficiency with the selected martial weapon.
+
 #### Necrotic Tinkerer
 
 You inherited a necrotic marionette, possibly from a parent or mentor.
@@ -219,6 +259,72 @@ If you possess the chosen talent, you treat your associated ranks as being 1 hig
 #### Thrifty Tailoring
 
 When creating a disguise, you create it in the least time possible, reducing the normal 1d3 × 10 minutes of work to 10 minutes. This also applies to any other variable-based timing when creating a disguise. You reduce the Disguise penalty for applying a disguise faster by 4 (total).
+
+#### Well-Balanced Blade (equipment)
+
+*Source: [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)*
+
+Your skill at one-handed combat has translated to being able to push your wielding limit just a little further than others with similar training.
+
+Pick a single exotic weapon in which you have martial proficiency with wielding it with two hands, but not in one hand, such as the bastard sword, estoc or katana. You gain the exotic weapon proficiency in this weapon to wield it in one hand.
+
+#### Well-Provisioned Adventurer (equipment)
+
+Select and gain one of the equipment packages found in Pathfinder Player Companion: Adventurer’s Armory 2. If you select this trait during character creation, you do not receive any starting gold.
+
+Instead of one of the equipment packages found in the Pathfinder Player Companion: Adventurer’s Armory 2, you may select a tradition package if you also possess the relevant martial tradition (for example, the highlander tradition package requires the highlander martial tradition).
+
+Unlike other equipment packages, tradition packages like these may not be purchased.
+
+##### Highlander Tradition Package
+
+The highlander tradition package is less standardized than most other packages, but may be tailored to the individual who acquires it. In adventures or campaigns where firearms are nonexistent or very rare, the firearm option is unavailable, and instead the character must choose the masterwork bow option. The highlander tradition package includes the following equipment:
+**Armor:** Great kilt, studded leather armor, light wooden shield
+**Primary Melee Weapon:** Bastard sword, greatsword, halberd, longsword, or shortsword
+**Secondary Melee Weapons:** Dagger, deer horn knife
+**Ranged Weapon:** Firearm (musket or a pistol) w/ a full powder horn and 10 firearm bullets, or a masterwork bow (composite longbow or composite shortbow) w/ 20 arrows.
+**Other Gear:** Backpack, belt pouch, flask, flint and steel, mess kit, silk rope (50 ft.), trail rations (5 days), waterskin, whetstone, 15 gp.
+**Total Weight:** 73 lbs. (39-1/2 lbs. for a Small character).
+
+##### Imperialist Tradition Package
+
+The imperialist tradition package is less standardized than most other packages, but may be tailored to the individual who acquires it. In adventures or campaigns where firearms are nonexistent or very rare, the firearm option is unavailable, and instead the character must choose the masterwork crossbow option. The imperialist tradition package includes the following equipment:
+**Armor:** Masterwork chain shirt
+**Primary Melee Weapon:** Masterwork halberd, longsword, rapier, shortsword, or warhammer
+**Ranged Weapon:** Firearm (musket or a pistol) w/ a full powder horn and 10 firearm bullets, or a masterwork crossbow (heavy crossbow or light crossbow) w/ 20 bolts.
+**Other Gear:** Backpack, belt pouch, flask, flint and steel, mess kit, silk rope (50 ft.), trail rations (5 days), waterskin, whetstone, 15 gp.
+**Total Weight:** 67 lbs. (33-5/8 lbs. for a Small character).
+
+##### Janjaweed Tradition Package
+
+The janjaweed tradition package is less standardised than most other packages, but may be tailored to the individual who acquires it. In adventures or campaigns where firearms are nonexistent or very rare, the firearm option is unavailable, and instead the character must choose the masterwork bow option. The janjaweed tradition package includes the following equipment:
+**Armor:** Eventide outfit and either a) hide armor or b) studded leather armor and light wooden shield
+**Melee Weapons:** any 2 simple weapons
+**Ranged Weapon:** Firearm (blunderbuss, musket, or pistol) w/ a full powder horn and 10 firearm bullets or pellets (10 handfuls), or a masterwork bow (composite longbow or composite shortbow) w/ 20 arrows.
+**Mount:** Riding camel or combat trained light horse
+**Other Gear:** Backpack, belt pouch, feed (10 days), filter scarf, flask, flint and steel, mess kit, saddlebags, saddle (military), silk rope (50 ft.), tent, trail rations (10 days), verminbite kit, waterskin x4, whetstone, winter blanket, 5 gp.
+**Total Weight:** 250 lbs. +/- 8 lbs. based on simple weapon choices (104-1/2 lbs. +/- 4 lbs. based on simple weapon choices for a Small character). (Does not include mount's weight)
+
+##### Ruin Delver Tradition Package
+
+The ruin delver tradition package is less standardised than most other packages, but may be tailored to the individual who acquires it. The ruin delver tradition package includes the following equipment:
+**Armor:** Cold-weather or hot weather outfit, and masterwork studded leather armor
+**Primary Melee Weapon:** Choose a masterwork weapon from the following list: battle ladder, battle stein, battle wrench, climbing pick, fishing tackle, garrote, grappling hook, iron brush, machete, 10-foot pole, torch, or whip.
+**Secondary Melee Weapons:** Cold iron morning star and silver sickle.
+**Ranged Weapon:** Choose a masterwork weapon from the following list: crossbow (heavy or light) (with 20 bolts), net, or sling (with 20 bullets).
+**Alchemical Weapons:** Acid flask x2, alchemist’s fire x2, holy water x2.
+**Other Gear:** Adventurer’s sash, backpack, bedroll, belt pouch, candle x2, chalk, climber’s kit, compass, everburning torch, grappling hook, hammer, ink, inkpen x2, journals x2, magnifying glass, mapmaker’s kit, piton x4, silk rope (100 ft.), sunrod x3, tindertwig x4, trail rations (5 days), traveler’s anytool, waterskin x2, 20 gp.
+**Total Weight:** 104 lbs. +/- 6 lbs. based on primary melee and ranged weapon choices (75 lbs. +/- 3 lbs. based on primary melee and ranged weapon choices for a Small character).
+
+##### Tattooed Warrior Tradition Package
+
+The tattooed warrior tradition package is less standardised than most other packages, but may be tailored to the individual who acquires it. The tattooed tradition package includes the following equipment:
+**Tattoo:** +1 weapon enhancement on your Dragon Tattoo or +1 armor special ability on your Zodiac Tattoo.
+**Armor:** Light wooden shield or buckler
+**Melee Weapon:** Masterwork weapon (any simple melee weapon)
+**Ranged Weapon:** Javelin (5) or a masterwork sling w/ 20 sling bullets
+**Other Gear:** Backpack, belt pouch, flask, flint and steel, mess kit, silk rope (50 ft.), trail rations (5 days), waterskin, whetstone, 15 gp.
+**Total Weight:** 43 lbs. (21-5/8 lbs. for a Small character).
 
 ## Faith
 
@@ -560,6 +666,10 @@ If you do not possess the (herbal) package, the number of herbs you can gather i
 
 **Benefit:** Gain a shadow point and a shadow pool. You are treated as having the create reality class feature for the purposes of meeting prerequisites for surreal feats.
 
+#### Intuitive Hands (region)
+
+You were taught to rely on your intuition when taming and riding the creatures found in the vast wilderness that surrounded your home. Choose either Handle Animal or Ride. One of these skills is always a class skill for you, and you may attempt checks with that skill using your Wisdom modifier instead of that skill’s normal ability score.
+
 #### Night Watch
 
 *Source: [Diamond Polished Spheres: Dark Sphere](https://www.drivethrurpg.com/en/product/492540/diamond-polished-spheres-dark-sphere?affiliate_id=3028400)*
@@ -586,6 +696,10 @@ You gain darkvision 5 feet, increasing by +5 feet per 4 Hit Dice. If you already
 #### Doom Cultist
 
 **Benefit:** You gain a +1 trait bonus to caster level for the Blood, Death, and Destruction spheres. This bonus cannot cause your caster level to exceed your Hit Dice.
+
+#### Higher Calling (religion)
+
+Your deity has blessed you with divine purpose, and your actions work towards their machinations. Once per week, you may cast augury as a spell-like ability. As part of using the spell-like ability, you utter a short prayer to your deity. In addition, Diplomacy is a class skill for you.
 
 #### Religious Orator (Religion for a publicly known religious organization)
 
@@ -618,6 +732,12 @@ Once per day as a standard action, you may gain the benefits of the Cloaking Dar
 
 Choose one Artistry skill. Whenever you take 10 with that skill, determine the result as if you had rolled a 12 instead of a 10.
 
+#### Bountiful Charm (social)
+
+You have always had a way with people. Diplomacy is a class skill for you and you gain a +2 trait bonus on Diplomacy checks to recruit cohorts.
+
+*Adaptation note:* If you intend to take a drawback that changes the skill used for the recruit ability, this trait may be applied to that skill instead.
+
 #### Compassion
 
 **Benefit:** You may use Charisma in place of Wisdom when you use your Heal skill, and Heal is always a class skill for you.
@@ -634,9 +754,19 @@ You may add your Charisma modifier instead of your Wisdom modifier when determin
 
 You gain a +2 trait bonus on saving throws against the fascinated and impressed conditions or any anger condition as well as charm effects. Increase the DC of skill checks to give you any of those conditions by 2.
 
+#### Highland Clansman (social)
+
+You were born into a particular highland clan or a sept family that follows a particular clan. Alternatively, you were adopted into a clan due to meritorious service or through marriage. Pick two colors from the War Paint formulae talent from the Alchemy sphere. Those are your clan colors, and you may benefit from having both war paint colors if applied simultaneously.
+
+**Normal:** You can only have one war paint color active at a time.
+
 #### Impersonator
 
 **Benefit:** You gain a +2 trait bonus to Bluff checks to impersonate another creature and Bluff is always a class skill for you.
+
+#### Industrial Worker (social)
+
+You gain a +5 trait bonus on all checks to gather Tinker sphere project materials and Knowledge (Engineering) is always a class skill for you.
 
 #### Learned Readiness
 
@@ -658,6 +788,10 @@ You grew up in an area of chaotic turmoil, whether ravaged by war or facing pers
 
 **Benefit:** You gain a +2 trait bonus on Charisma-based checks against outsiders. If you have an ability to substitute another ability score when attempting such checks, this bonus still applies. Additionally, you receive a 10% discount whenever bargaining for the services of a called outsider.
 
+#### Reassuring Liar (social)
+
+You reduce the DC increase for a dead cohort by 2 and double the rate this penalty is reduced.
+
 #### Reliable Leverage
 
 You have always had a knack for getting into trouble and quickly finding a way out again. When using the change tactics skill leverage use, a roll of a 1 on the die is instead treated as a 2.
@@ -672,6 +806,10 @@ This trait only works once per day for each source of a fear effect. For the pur
 
 **Example:** You fail a saving throw against a dragon’s frightful presence ability. You are not immediately shaken, and may act normally during your next turn. If you do not leave the aura’s area of effect, you are affected by the fear effect normally. The dragon is treated as a single source of a fear effect, even if it could produce fear effects with multiple abilities (such as using Intimidate, through magic, etc.).
 
+#### Scarred by War (social)
+
+Your long history of raiding and battle has left your body scarred and visually imposing. You gain DR 1/piercing. In addition, Intimidate is a class skill for you.
+
 #### Social Butterfly (requires Communication sphere)
 
 You may maintain a rapport with an additional creature, as long as they are at least friendly towards you. If their attitude toward you becomes indifferent or worse, their rapport immediately ends.
@@ -679,3 +817,7 @@ You may maintain a rapport with an additional creature, as long as they are at l
 ---
 
 *Archived: [[Traits (Original)|Original version]] (from before *Ultimate Spheres of Power*)*
+
+#### Technophile (social)
+
+You gain a +2 trait bonus to all Craft (mechanical) checks you make; your charge pool’s maximum size increases by 2 (if you possess one).

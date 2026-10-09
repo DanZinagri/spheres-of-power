@@ -250,6 +250,18 @@
    "id": "trait/healthy-retainers"
   },
   {
+   "system": "Spheres of Might",
+   "source": "",
+   "url": "Spheres-Of-Power/Traits#heavy-machinery-combat",
+   "name": "Heavy Machinery",
+   "categories": [
+    "Combat"
+   ],
+   "requirements": "",
+   "md": "Any *mechanoid* you create gets +1 hit point, +1 per 2 gizmo levels.",
+   "id": "trait/heavy-machinery"
+  },
+  {
    "system": "Spheres of Power",
    "source": "Diamond Spheres: Invention & Ingenuity",
    "url": "Spheres-Of-Power/Traits#iron-plated-mind",
@@ -260,6 +272,30 @@
    "requirements": "",
    "md": "You grew up with magic, and possibly annoying siblings who repeatedly tried to trip up your casting.\n\n**Benefit:** Choose a sphere. You gain a +4 trait bonus on magic skill checks to cast defensively with that sphere.",
    "id": "trait/iron-plated-mind"
+  },
+  {
+   "system": "Spheres of Might",
+   "source": "",
+   "url": "Spheres-Of-Power/Traits#maneuver-trained-combat",
+   "name": "Maneuver Trained",
+   "categories": [
+    "Combat"
+   ],
+   "requirements": "",
+   "md": "You have long trained in a variety of combat maneuvers. You gain a +1 trait bonus to your CMB.",
+   "id": "trait/maneuver-trained"
+  },
+  {
+   "system": "Spheres of Might",
+   "source": "",
+   "url": "Spheres-Of-Power/Traits#mastered-talent-combat",
+   "name": "Mastered Talent",
+   "categories": [
+    "Combat"
+   ],
+   "requirements": "",
+   "md": "You have focused on a single combat talent, gaining greater proficiency with it. Select 1 combat talent; you treat your base attack bonus as 1 higher for the purposes of its effects. At 5th level and every 4 levels afterwards, the chosen talent’s base attack bonus is treated as an additional 1 higher, although the talent’s effective base attack bonus cannot be higher than your character level.",
+   "id": "trait/mastered-talent"
   },
   {
    "system": "Spheres of Power",
@@ -274,6 +310,42 @@
    "id": "trait/practiced-aim"
   },
   {
+   "system": "Spheres of Might",
+   "source": "",
+   "url": "Spheres-Of-Power/Traits#practiced-maneuver-combat",
+   "name": "Practiced Maneuver",
+   "categories": [
+    "Combat"
+   ],
+   "requirements": "",
+   "md": "You are quick to learn from your mistakes. Whenever you attempt a combat maneuver and fail, you gain a +2 trait bonus on your next combat maneuver check with that same combat maneuver as long as you attempt it before the end of your next turn.",
+   "id": "trait/practiced-maneuver"
+  },
+  {
+   "system": "Spheres of Might",
+   "source": "",
+   "url": "Spheres-Of-Power/Traits#scouts-eyes-combat",
+   "name": "Scout’s Eyes",
+   "categories": [
+    "Combat"
+   ],
+   "requirements": "",
+   "md": "You ignore the -5 penalty on Perception checks when using the Scout sphere’s scout ability.",
+   "id": "trait/scout-s-eyes"
+  },
+  {
+   "system": "Spheres of Might",
+   "source": "",
+   "url": "Spheres-Of-Power/Traits#sharp-reflexes-combat",
+   "name": "Sharp Reflexes",
+   "categories": [
+    "Combat"
+   ],
+   "requirements": "",
+   "md": "You are able to react to danger with violence. You gain the ability to make one additional attack of opportunity each round.",
+   "id": "trait/sharp-reflexes"
+  },
+  {
    "system": "Spheres of Power",
    "source": "Diamond Spheres: Invention & Ingenuity",
    "url": "Spheres-Of-Power/Traits#spatial-awareness",
@@ -286,6 +358,18 @@
    "id": "trait/spatial-awareness"
   },
   {
+   "system": "Spheres of Might",
+   "source": "",
+   "url": "Spheres-Of-Power/Traits#steel-body-combat",
+   "name": "Steel Body",
+   "categories": [
+    "Combat"
+   ],
+   "requirements": "",
+   "md": "Your physique is far more difficult to damage than others. You gain +1 hit point; for every two additional hit dice you possess, you gain +1 hit point.",
+   "id": "trait/steel-body"
+  },
+  {
    "system": "Spheres of Power",
    "source": "Diamond Spheres: Invention & Ingenuity",
    "url": "Spheres-Of-Power/Traits#strangely-resistant",
@@ -296,6 +380,18 @@
    "requirements": "",
    "md": "You have been exposed to a certain style of magic repeatedly and have built up resistances.\n\n**Benefit:** Choose a magical sphere. You gain a +2 trait bonus to all saving throws vs. the effects of that sphere.",
    "id": "trait/strangely-resistant"
+  },
+  {
+   "system": "Spheres of Might",
+   "source": "",
+   "url": "Spheres-Of-Power/Traits#talented-knuckle-combat",
+   "name": "Talented Knuckle",
+   "categories": [
+    "Combat"
+   ],
+   "requirements": "",
+   "md": "You are treated as though you possessed 2 additional Boxing, Brute, Open Hand, or Wrestling talents when determining the damage of your unarmed strikes. You must have at least one of the above base spheres to benefit from this trait.",
+   "id": "trait/talented-knuckle"
   },
   {
    "system": "Spheres of Power",
@@ -394,6 +490,30 @@
    "id": "trait/magic-wardrobe"
   },
   {
+   "system": "Spheres of Might",
+   "source": "",
+   "url": "Spheres-Of-Power/Traits#maintenance-expert-equipment",
+   "name": "Maintenance Expert",
+   "categories": [
+    "Equipment"
+   ],
+   "requirements": "",
+   "md": "If you possess the Tinker sphere, you increase your gizmo limit by +1 and increase the number of minor gizmos you can maintain as a single gizmo (as a “set”) by +1.",
+   "id": "trait/maintenance-expert"
+  },
+  {
+   "system": "Spheres of Might",
+   "source": "",
+   "url": "Spheres-Of-Power/Traits#martial-training-equipment",
+   "name": "Martial Training",
+   "categories": [
+    "Equipment"
+   ],
+   "requirements": "",
+   "md": "You know enough about weapons to expand your knowledge on their use. Select 1 martial weapon with which you are not proficient; you reduce the penalties on attack rolls for not being proficient with it by -2 (minimum 0). If you are proficient with at least 3 martial or exotic weapons, you instead gain proficiency with the selected martial weapon.",
+   "id": "trait/martial-training"
+  },
+  {
    "system": "Spheres of Power",
    "source": "Diamond Spheres: Invention & Ingenuity",
    "url": "Spheres-Of-Power/Traits#necrotic-tinkerer",
@@ -454,8 +574,32 @@
    "id": "trait/thrifty-tailoring"
   },
   {
+   "system": "Spheres of Might",
+   "source": "Spheres Apocrypha: Swashbucklers",
+   "url": "Spheres-Of-Power/Traits#well-balanced-blade-equipment",
+   "name": "Well-Balanced Blade",
+   "categories": [
+    "Equipment"
+   ],
+   "requirements": "",
+   "md": "*Source: [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)*\n\nYour skill at one-handed combat has translated to being able to push your wielding limit just a little further than others with similar training.\n\nPick a single exotic weapon in which you have martial proficiency with wielding it with two hands, but not in one hand, such as the bastard sword, estoc or katana. You gain the exotic weapon proficiency in this weapon to wield it in one hand.",
+   "id": "trait/well-balanced-blade"
+  },
+  {
+   "system": "Spheres of Might",
+   "source": "",
+   "url": "Spheres-Of-Power/Traits#well-provisioned-adventurer-equipment",
+   "name": "Well-Provisioned Adventurer",
+   "categories": [
+    "Equipment"
+   ],
+   "requirements": "",
+   "md": "Select and gain one of the equipment packages found in Pathfinder Player Companion: Adventurer’s Armory 2. If you select this trait during character creation, you do not receive any starting gold.\n\nInstead of one of the equipment packages found in the Pathfinder Player Companion: Adventurer’s Armory 2, you may select a tradition package if you also possess the relevant martial tradition (for example, the highlander tradition package requires the highlander martial tradition).\n\nUnlike other equipment packages, tradition packages like these may not be purchased.\n\n##### Highlander Tradition Package\n\nThe highlander tradition package is less standardized than most other packages, but may be tailored to the individual who acquires it. In adventures or campaigns where firearms are nonexistent or very rare, the firearm option is unavailable, and instead the character must choose the masterwork bow option. The highlander tradition package includes the following equipment:\n**Armor:** Great kilt, studded leather armor, light wooden shield\n**Primary Melee Weapon:** Bastard sword, greatsword, halberd, longsword, or shortsword\n**Secondary Melee Weapons:** Dagger, deer horn knife\n**Ranged Weapon:** Firearm (musket or a pistol) w/ a full powder horn and 10 firearm bullets, or a masterwork bow (composite longbow or composite shortbow) w/ 20 arrows.\n**Other Gear:** Backpack, belt pouch, flask, flint and steel, mess kit, silk rope (50 ft.), trail rations (5 days), waterskin, whetstone, 15 gp.\n**Total Weight:** 73 lbs. (39-1/2 lbs. for a Small character).\n\n##### Imperialist Tradition Package\n\nThe imperialist tradition package is less standardized than most other packages, but may be tailored to the individual who acquires it. In adventures or campaigns where firearms are nonexistent or very rare, the firearm option is unavailable, and instead the character must choose the masterwork crossbow option. The imperialist tradition package includes the following equipment:\n**Armor:** Masterwork chain shirt\n**Primary Melee Weapon:** Masterwork halberd, longsword, rapier, shortsword, or warhammer\n**Ranged Weapon:** Firearm (musket or a pistol) w/ a full powder horn and 10 firearm bullets, or a masterwork crossbow (heavy crossbow or light crossbow) w/ 20 bolts.\n**Other Gear:** Backpack, belt pouch, flask, flint and steel, mess kit, silk rope (50 ft.), trail rations (5 days), waterskin, whetstone, 15 gp.\n**Total Weight:** 67 lbs. (33-5/8 lbs. for a Small character).\n\n##### Janjaweed Tradition Package\n\nThe janjaweed tradition package is less standardised than most other packages, but may be tailored to the individual who acquires it. In adventures or campaigns where firearms are nonexistent or very rare, the firearm option is unavailable, and instead the character must choose the masterwork bow option. The janjaweed tradition package includes the following equipment:\n**Armor:** Eventide outfit and either a) hide armor or b) studded leather armor and light wooden shield\n**Melee Weapons:** any 2 simple weapons\n**Ranged Weapon:** Firearm (blunderbuss, musket, or pistol) w/ a full powder horn and 10 firearm bullets or pellets (10 handfuls), or a masterwork bow (composite longbow or composite shortbow) w/ 20 arrows.\n**Mount:** Riding camel or combat trained light horse\n**Other Gear:** Backpack, belt pouch, feed (10 days), filter scarf, flask, flint and steel, mess kit, saddlebags, saddle (military), silk rope (50 ft.), tent, trail rations (10 days), verminbite kit, waterskin x4, whetstone, winter blanket, 5 gp.\n**Total Weight:** 250 lbs. +/- 8 lbs. based on simple weapon choices (104-1/2 lbs. +/- 4 lbs. based on simple weapon choices for a Small character). (Does not include mount's weight)\n\n##### Ruin Delver Tradition Package\n\nThe ruin delver tradition package is less standardised than most other packages, but may be tailored to the individual who acquires it. The ruin delver tradition package includes the following equipment:\n**Armor:** Cold-weather or hot weather outfit, and masterwork studded leather armor\n**Primary Melee Weapon:** Choose a masterwork weapon from the following list: battle ladder, battle stein, battle wrench, climbing pick, fishing tackle, garrote, grappling hook, iron brush, machete, 10-foot pole, torch, or whip.\n**Secondary Melee Weapons:** Cold iron morning star and silver sickle.\n**Ranged Weapon:** Choose a masterwork weapon from the following list: crossbow (heavy or light) (with 20 bolts), net, or sling (with 20 bullets).\n**Alchemical Weapons:** Acid flask x2, alchemist’s fire x2, holy water x2.\n**Other Gear:** Adventurer’s sash, backpack, bedroll, belt pouch, candle x2, chalk, climber’s kit, compass, everburning torch, grappling hook, hammer, ink, inkpen x2, journals x2, magnifying glass, mapmaker’s kit, piton x4, silk rope (100 ft.), sunrod x3, tindertwig x4, trail rations (5 days), traveler’s anytool, waterskin x2, 20 gp.\n**Total Weight:** 104 lbs. +/- 6 lbs. based on primary melee and ranged weapon choices (75 lbs. +/- 3 lbs. based on primary melee and ranged weapon choices for a Small character).\n\n##### Tattooed Warrior Tradition Package\n\nThe tattooed warrior tradition package is less standardised than most other packages, but may be tailored to the individual who acquires it. The tattooed tradition package includes the following equipment:\n**Tattoo:** +1 weapon enhancement on your Dragon Tattoo or +1 armor special ability on your Zodiac Tattoo.\n**Armor:** Light wooden shield or buckler\n**Melee Weapon:** Masterwork weapon (any simple melee weapon)\n**Ranged Weapon:** Javelin (5) or a masterwork sling w/ 20 sling bullets\n**Other Gear:** Backpack, belt pouch, flask, flint and steel, mess kit, silk rope (50 ft.), trail rations (5 days), waterskin, whetstone, 15 gp.\n**Total Weight:** 43 lbs. (21-5/8 lbs. for a Small character).",
+   "id": "trait/well-provisioned-adventurer"
+  },
+  {
    "system": "Spheres of Power",
-   "source": "Diamond Spheres: Invention & Ingenuity",
+   "source": "Spheres Apocrypha: Swashbucklers",
    "url": "Spheres-Of-Power/Traits#blood-cult-survivor",
    "name": "Blood Cult Survivor",
    "categories": [
@@ -467,7 +611,7 @@
   },
   {
    "system": "Spheres of Power",
-   "source": "Diamond Spheres: Invention & Ingenuity",
+   "source": "Spheres Apocrypha: Swashbucklers",
    "url": "Spheres-Of-Power/Traits#conscious-cultist",
    "name": "Conscious Cultist",
    "categories": [
@@ -479,7 +623,7 @@
   },
   {
    "system": "Spheres of Power",
-   "source": "Diamond Spheres: Invention & Ingenuity",
+   "source": "Spheres Apocrypha: Swashbucklers",
    "url": "Spheres-Of-Power/Traits#defender-of-the-faith",
    "name": "Defender Of The Faith",
    "categories": [
@@ -491,7 +635,7 @@
   },
   {
    "system": "Spheres of Power",
-   "source": "Diamond Spheres: Invention & Ingenuity",
+   "source": "Spheres Apocrypha: Swashbucklers",
    "url": "Spheres-Of-Power/Traits#force-of-spirit",
    "name": "Force Of Spirit",
    "categories": [
@@ -503,7 +647,7 @@
   },
   {
    "system": "Spheres of Power",
-   "source": "Diamond Spheres: Invention & Ingenuity",
+   "source": "Spheres Apocrypha: Swashbucklers",
    "url": "Spheres-Of-Power/Traits#grove-neophyte",
    "name": "Grove Neophyte",
    "categories": [
@@ -515,7 +659,7 @@
   },
   {
    "system": "Spheres of Power",
-   "source": "Diamond Spheres: Invention & Ingenuity",
+   "source": "Spheres Apocrypha: Swashbucklers",
    "url": "Spheres-Of-Power/Traits#horrifying-omen",
    "name": "Horrifying Omen",
    "categories": [
@@ -527,7 +671,7 @@
   },
   {
    "system": "Spheres of Power",
-   "source": "Diamond Spheres: Invention & Ingenuity",
+   "source": "Spheres Apocrypha: Swashbucklers",
    "url": "Spheres-Of-Power/Traits#pilgrim",
    "name": "Pilgrim",
    "categories": [
@@ -539,7 +683,7 @@
   },
   {
    "system": "Spheres of Power",
-   "source": "Diamond Spheres: Invention & Ingenuity",
+   "source": "Spheres Apocrypha: Swashbucklers",
    "url": "Spheres-Of-Power/Traits#sacred-preparation-faith",
    "name": "Sacred Preparation",
    "categories": [
@@ -599,7 +743,7 @@
   },
   {
    "system": "Spheres of Power",
-   "source": "Diamond Spheres: Invention & Ingenuity",
+   "source": "Diamond Polished Spheres: Dark Sphere",
    "url": "Spheres-Of-Power/Traits#augmentor-specialist",
    "name": "Augmentor Specialist",
    "categories": [
@@ -1102,8 +1246,20 @@
    "id": "trait/ink-in-the-blood"
   },
   {
+   "system": "Spheres of Might",
+   "source": "",
+   "url": "Spheres-Of-Power/Traits#intuitive-hands-region",
+   "name": "Intuitive Hands",
+   "categories": [
+    "Region"
+   ],
+   "requirements": "",
+   "md": "You were taught to rely on your intuition when taming and riding the creatures found in the vast wilderness that surrounded your home. Choose either Handle Animal or Ride. One of these skills is always a class skill for you, and you may attempt checks with that skill using your Wisdom modifier instead of that skill’s normal ability score.",
+   "id": "trait/intuitive-hands"
+  },
+  {
    "system": "Spheres of Power",
-   "source": "Diamond Spheres: Hustle & Bustle",
+   "source": "Diamond Polished Spheres: Dark Sphere",
    "url": "Spheres-Of-Power/Traits#night-watch",
    "name": "Night Watch",
    "categories": [
@@ -1160,6 +1316,18 @@
    "requirements": "",
    "md": "**Benefit:** You gain a +1 trait bonus to caster level for the Blood, Death, and Destruction spheres. This bonus cannot cause your caster level to exceed your Hit Dice.",
    "id": "trait/doom-cultist"
+  },
+  {
+   "system": "Spheres of Might",
+   "source": "",
+   "url": "Spheres-Of-Power/Traits#higher-calling-religion",
+   "name": "Higher Calling",
+   "categories": [
+    "Religion"
+   ],
+   "requirements": "",
+   "md": "Your deity has blessed you with divine purpose, and your actions work towards their machinations. Once per week, you may cast augury as a spell-like ability. As part of using the spell-like ability, you utter a short prayer to your deity. In addition, Diplomacy is a class skill for you.",
+   "id": "trait/higher-calling"
   },
   {
    "system": "Spheres of Power",
@@ -1222,6 +1390,18 @@
    "id": "trait/author"
   },
   {
+   "system": "Spheres of Might",
+   "source": "",
+   "url": "Spheres-Of-Power/Traits#bountiful-charm-social",
+   "name": "Bountiful Charm",
+   "categories": [
+    "Social"
+   ],
+   "requirements": "",
+   "md": "You have always had a way with people. Diplomacy is a class skill for you and you gain a +2 trait bonus on Diplomacy checks to recruit cohorts.\n\n*Adaptation note:* If you intend to take a drawback that changes the skill used for the recruit ability, this trait may be applied to that skill instead.",
+   "id": "trait/bountiful-charm"
+  },
+  {
    "system": "Spheres of Power",
    "source": "Diamond Polished Spheres: Dark Sphere",
    "url": "Spheres-Of-Power/Traits#compassion",
@@ -1270,6 +1450,18 @@
    "id": "trait/hard-to-impress"
   },
   {
+   "system": "Spheres of Might",
+   "source": "",
+   "url": "Spheres-Of-Power/Traits#highland-clansman-social",
+   "name": "Highland Clansman",
+   "categories": [
+    "Social"
+   ],
+   "requirements": "",
+   "md": "You were born into a particular highland clan or a sept family that follows a particular clan. Alternatively, you were adopted into a clan due to meritorious service or through marriage. Pick two colors from the War Paint formulae talent from the Alchemy sphere. Those are your clan colors, and you may benefit from having both war paint colors if applied simultaneously.\n\n**Normal:** You can only have one war paint color active at a time.",
+   "id": "trait/highland-clansman"
+  },
+  {
    "system": "Spheres of Power",
    "source": "Diamond Polished Spheres: Dark Sphere",
    "url": "Spheres-Of-Power/Traits#impersonator",
@@ -1280,6 +1472,18 @@
    "requirements": "",
    "md": "**Benefit:** You gain a +2 trait bonus to Bluff checks to impersonate another creature and Bluff is always a class skill for you.",
    "id": "trait/impersonator"
+  },
+  {
+   "system": "Spheres of Might",
+   "source": "",
+   "url": "Spheres-Of-Power/Traits#industrial-worker-social",
+   "name": "Industrial Worker",
+   "categories": [
+    "Social"
+   ],
+   "requirements": "",
+   "md": "You gain a +5 trait bonus on all checks to gather Tinker sphere project materials and Knowledge (Engineering) is always a class skill for you.",
+   "id": "trait/industrial-worker"
   },
   {
    "system": "Spheres of Power",
@@ -1342,6 +1546,18 @@
    "id": "trait/planar-dealing"
   },
   {
+   "system": "Spheres of Might",
+   "source": "",
+   "url": "Spheres-Of-Power/Traits#reassuring-liar-social",
+   "name": "Reassuring Liar",
+   "categories": [
+    "Social"
+   ],
+   "requirements": "",
+   "md": "You reduce the DC increase for a dead cohort by 2 and double the rate this penalty is reduced.",
+   "id": "trait/reassuring-liar"
+  },
+  {
    "system": "Spheres of Power",
    "source": "Diamond Polished Spheres: Dark Sphere",
    "url": "Spheres-Of-Power/Traits#reliable-leverage",
@@ -1366,6 +1582,18 @@
    "id": "trait/scaredy-cat"
   },
   {
+   "system": "Spheres of Might",
+   "source": "",
+   "url": "Spheres-Of-Power/Traits#scarred-by-war-social",
+   "name": "Scarred by War",
+   "categories": [
+    "Social"
+   ],
+   "requirements": "",
+   "md": "Your long history of raiding and battle has left your body scarred and visually imposing. You gain DR 1/piercing. In addition, Intimidate is a class skill for you.",
+   "id": "trait/scarred-by-war"
+  },
+  {
    "system": "Spheres of Power",
    "source": "Diamond Polished Spheres: Dark Sphere",
    "url": "Spheres-Of-Power/Traits#social-butterfly-requires-communication-sphere",
@@ -1379,236 +1607,8 @@
   },
   {
    "system": "Spheres of Might",
-   "source": "Spheres Apocrypha: Swashbucklers",
-   "url": "Spheres-Of-Might/Practitioner-Traits#heavy-machinery-combat",
-   "name": "Heavy Machinery",
-   "categories": [
-    "Combat"
-   ],
-   "requirements": "",
-   "md": "Any *mechanoid* you create gets +1 hit point, +1 per 2 gizmo levels.",
-   "id": "trait/heavy-machinery"
-  },
-  {
-   "system": "Spheres of Might",
-   "source": "Spheres Apocrypha: Swashbucklers",
-   "url": "Spheres-Of-Might/Practitioner-Traits#maneuver-trained-combat",
-   "name": "Maneuver Trained",
-   "categories": [
-    "Combat"
-   ],
-   "requirements": "",
-   "md": "You have long trained in a variety of combat maneuvers. You gain a +1 trait bonus to your CMB.",
-   "id": "trait/maneuver-trained"
-  },
-  {
-   "system": "Spheres of Might",
-   "source": "Spheres Apocrypha: Swashbucklers",
-   "url": "Spheres-Of-Might/Practitioner-Traits#mastered-talent-combat",
-   "name": "Mastered Talent",
-   "categories": [
-    "Combat"
-   ],
-   "requirements": "",
-   "md": "You have focused on a single combat talent, gaining greater proficiency with it. Select 1 combat talent; you treat your base attack bonus as 1 higher for the purposes of its effects. At 5th level and every 4 levels afterwards, the chosen talent’s base attack bonus is treated as an additional 1 higher, although the talent’s effective base attack bonus cannot be higher than your character level.",
-   "id": "trait/mastered-talent"
-  },
-  {
-   "system": "Spheres of Might",
-   "source": "Spheres Apocrypha: Swashbucklers",
-   "url": "Spheres-Of-Might/Practitioner-Traits#practiced-maneuver-combat",
-   "name": "Practiced Maneuver",
-   "categories": [
-    "Combat"
-   ],
-   "requirements": "",
-   "md": "You are quick to learn from your mistakes. Whenever you attempt a combat maneuver and fail, you gain a +2 trait bonus on your next combat maneuver check with that same combat maneuver as long as you attempt it before the end of your next turn.",
-   "id": "trait/practiced-maneuver"
-  },
-  {
-   "system": "Spheres of Might",
-   "source": "Spheres Apocrypha: Swashbucklers",
-   "url": "Spheres-Of-Might/Practitioner-Traits#scouts-eyes-combat",
-   "name": "Scout’s Eyes",
-   "categories": [
-    "Combat"
-   ],
-   "requirements": "",
-   "md": "You ignore the -5 penalty on Perception checks when using the Scout sphere’s scout ability.",
-   "id": "trait/scout-s-eyes"
-  },
-  {
-   "system": "Spheres of Might",
-   "source": "Spheres Apocrypha: Swashbucklers",
-   "url": "Spheres-Of-Might/Practitioner-Traits#sharp-reflexes-combat",
-   "name": "Sharp Reflexes",
-   "categories": [
-    "Combat"
-   ],
-   "requirements": "",
-   "md": "You are able to react to danger with violence. You gain the ability to make one additional attack of opportunity each round.",
-   "id": "trait/sharp-reflexes"
-  },
-  {
-   "system": "Spheres of Might",
-   "source": "Spheres Apocrypha: Swashbucklers",
-   "url": "Spheres-Of-Might/Practitioner-Traits#steel-body-combat",
-   "name": "Steel Body",
-   "categories": [
-    "Combat"
-   ],
-   "requirements": "",
-   "md": "Your physique is far more difficult to damage than others. You gain +1 hit point; for every two additional hit dice you possess, you gain +1 hit point.",
-   "id": "trait/steel-body"
-  },
-  {
-   "system": "Spheres of Might",
-   "source": "Spheres Apocrypha: Swashbucklers",
-   "url": "Spheres-Of-Might/Practitioner-Traits#talented-knuckle-combat",
-   "name": "Talented Knuckle",
-   "categories": [
-    "Combat"
-   ],
-   "requirements": "",
-   "md": "You are treated as though you possessed 2 additional Boxing, Brute, Open Hand, or Wrestling talents when determining the damage of your unarmed strikes. You must have at least one of the above base spheres to benefit from this trait.",
-   "id": "trait/talented-knuckle"
-  },
-  {
-   "system": "Spheres of Might",
-   "source": "Spheres Apocrypha: Swashbucklers",
-   "url": "Spheres-Of-Might/Practitioner-Traits#maintenance-expert-equipment",
-   "name": "Maintenance Expert",
-   "categories": [
-    "Equipment"
-   ],
-   "requirements": "",
-   "md": "If you possess the Tinker sphere, you increase your gizmo limit by +1 and increase the number of minor gizmos you can maintain as a single gizmo (as a “set”) by +1.",
-   "id": "trait/maintenance-expert"
-  },
-  {
-   "system": "Spheres of Might",
-   "source": "Spheres Apocrypha: Swashbucklers",
-   "url": "Spheres-Of-Might/Practitioner-Traits#martial-training-equipment",
-   "name": "Martial Training",
-   "categories": [
-    "Equipment"
-   ],
-   "requirements": "",
-   "md": "You know enough about weapons to expand your knowledge on their use. Select 1 martial weapon with which you are not proficient; you reduce the penalties on attack rolls for not being proficient with it by -2 (minimum 0). If you are proficient with at least 3 martial or exotic weapons, you instead gain proficiency with the selected martial weapon.",
-   "id": "trait/martial-training"
-  },
-  {
-   "system": "Spheres of Might",
-   "source": "Spheres Apocrypha: Swashbucklers",
-   "url": "Spheres-Of-Might/Practitioner-Traits#well-provisioned-adventurer-equipment",
-   "name": "Well-Provisioned Adventurer",
-   "categories": [
-    "Equipment"
-   ],
-   "requirements": "",
-   "md": "Select and gain one of the equipment packages found in Pathfinder Player Companion: Adventurer’s Armory 2. If you select this trait during character creation, you do not receive any starting gold.\n\nInstead of one of the equipment packages found in the Pathfinder Player Companion: Adventurer’s Armory 2, you may select a tradition package if you also possess the relevant martial tradition (for example, the highlander tradition package requires the highlander martial tradition).\n\nUnlike other equipment packages, tradition packages like these may not be purchased.\n\n##### Highlander Tradition Package\n\nThe highlander tradition package is less standardized than most other packages, but may be tailored to the individual who acquires it. In adventures or campaigns where firearms are nonexistent or very rare, the firearm option is unavailable, and instead the character must choose the masterwork bow option. The highlander tradition package includes the following equipment:\n**Armor:** Great kilt, studded leather armor, light wooden shield\n**Primary Melee Weapon:** Bastard sword, greatsword, halberd, longsword, or shortsword\n**Secondary Melee Weapons:** Dagger, deer horn knife\n**Ranged Weapon:** Firearm (musket or a pistol) w/ a full powder horn and 10 firearm bullets, or a masterwork bow (composite longbow or composite shortbow) w/ 20 arrows.\n**Other Gear:** Backpack, belt pouch, flask, flint and steel, mess kit, silk rope (50 ft.), trail rations (5 days), waterskin, whetstone, 15 gp.\n**Total Weight:** 73 lbs. (39-1/2 lbs. for a Small character).\n\n##### Imperialist Tradition Package\n\nThe imperialist tradition package is less standardized than most other packages, but may be tailored to the individual who acquires it. In adventures or campaigns where firearms are nonexistent or very rare, the firearm option is unavailable, and instead the character must choose the masterwork crossbow option. The imperialist tradition package includes the following equipment:\n**Armor:** Masterwork chain shirt\n**Primary Melee Weapon:** Masterwork halberd, longsword, rapier, shortsword, or warhammer\n**Ranged Weapon:** Firearm (musket or a pistol) w/ a full powder horn and 10 firearm bullets, or a masterwork crossbow (heavy crossbow or light crossbow) w/ 20 bolts.\n**Other Gear:** Backpack, belt pouch, flask, flint and steel, mess kit, silk rope (50 ft.), trail rations (5 days), waterskin, whetstone, 15 gp.\n**Total Weight:** 67 lbs. (33-5/8 lbs. for a Small character).\n\n##### Janjaweed Tradition Package\n\nThe janjaweed tradition package is less standardised than most other packages, but may be tailored to the individual who acquires it. In adventures or campaigns where firearms are nonexistent or very rare, the firearm option is unavailable, and instead the character must choose the masterwork bow option. The janjaweed tradition package includes the following equipment:\n**Armor:** Eventide outfit and either a) hide armor or b) studded leather armor and light wooden shield\n**Melee Weapons:** any 2 simple weapons\n**Ranged Weapon:** Firearm (blunderbuss, musket, or pistol) w/ a full powder horn and 10 firearm bullets or pellets (10 handfuls), or a masterwork bow (composite longbow or composite shortbow) w/ 20 arrows.\n**Mount:** Riding camel or combat trained light horse\n**Other Gear:** Backpack, belt pouch, feed (10 days), filter scarf, flask, flint and steel, mess kit, saddlebags, saddle (military), silk rope (50 ft.), tent, trail rations (10 days), verminbite kit, waterskin x4, whetstone, winter blanket, 5 gp.\n**Total Weight:** 250 lbs. +/- 8 lbs. based on simple weapon choices (104-1/2 lbs. +/- 4 lbs. based on simple weapon choices for a Small character). (Does not include mount's weight)\n\n##### Ruin Delver Tradition Package\n\nThe ruin delver tradition package is less standardised than most other packages, but may be tailored to the individual who acquires it. The ruin delver tradition package includes the following equipment:\n**Armor:** Cold-weather or hot weather outfit, and masterwork studded leather armor\n**Primary Melee Weapon:** Choose a masterwork weapon from the following list: battle ladder, battle stein, battle wrench, climbing pick, fishing tackle, garrote, grappling hook, iron brush, machete, 10-foot pole, torch, or whip.\n**Secondary Melee Weapons:** Cold iron morning star and silver sickle.\n**Ranged Weapon:** Choose a masterwork weapon from the following list: crossbow (heavy or light) (with 20 bolts), net, or sling (with 20 bullets).\n**Alchemical Weapons:** Acid flask x2, alchemist’s fire x2, holy water x2.\n**Other Gear:** Adventurer’s sash, backpack, bedroll, belt pouch, candle x2, chalk, climber’s kit, compass, everburning torch, grappling hook, hammer, ink, inkpen x2, journals x2, magnifying glass, mapmaker’s kit, piton x4, silk rope (100 ft.), sunrod x3, tindertwig x4, trail rations (5 days), traveler’s anytool, waterskin x2, 20 gp.\n**Total Weight:** 104 lbs. +/- 6 lbs. based on primary melee and ranged weapon choices (75 lbs. +/- 3 lbs. based on primary melee and ranged weapon choices for a Small character).\n\n##### Tattooed Warrior Tradition Package\n\nThe tattooed warrior tradition package is less standardised than most other packages, but may be tailored to the individual who acquires it. The tattooed tradition package includes the following equipment:\n**Tattoo:** +1 weapon enhancement on your Dragon Tattoo or +1 armor special ability on your Zodiac Tattoo.\n**Armor:** Light wooden shield or buckler\n**Melee Weapon:** Masterwork weapon (any simple melee weapon)\n**Ranged Weapon:** Javelin (5) or a masterwork sling w/ 20 sling bullets\n**Other Gear:** Backpack, belt pouch, flask, flint and steel, mess kit, silk rope (50 ft.), trail rations (5 days), waterskin, whetstone, 15 gp.\n**Total Weight:** 43 lbs. (21-5/8 lbs. for a Small character).",
-   "id": "trait/well-provisioned-adventurer"
-  },
-  {
-   "system": "Spheres of Might",
-   "source": "Spheres Apocrypha: Swashbucklers",
-   "url": "Spheres-Of-Might/Practitioner-Traits#well-balanced-blade-equipment",
-   "name": "Well-Balanced Blade",
-   "categories": [
-    "Equipment"
-   ],
-   "requirements": "",
-   "md": "*Source: [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)*\n\nYour skill at one-handed combat has translated to being able to push your wielding limit just a little further than others with similar training.\n\nPick a single exotic weapon in which you have martial proficiency with wielding it with two hands, but not in one hand, such as the bastard sword, estoc or katana. You gain the exotic weapon proficiency in this weapon to wield it in one hand.",
-   "id": "trait/well-balanced-blade"
-  },
-  {
-   "system": "Spheres of Might",
-   "source": "Spheres Apocrypha: Swashbucklers",
-   "url": "Spheres-Of-Might/Practitioner-Traits#intuitive-hands-region",
-   "name": "Intuitive Hands",
-   "categories": [
-    "Region"
-   ],
-   "requirements": "",
-   "md": "You were taught to rely on your intuition when taming and riding the creatures found in the vast wilderness that surrounded your home. Choose either Handle Animal or Ride. One of these skills is always a class skill for you, and you may attempt checks with that skill using your Wisdom modifier instead of that skill’s normal ability score.",
-   "id": "trait/intuitive-hands"
-  },
-  {
-   "system": "Spheres of Might",
-   "source": "Spheres Apocrypha: Swashbucklers",
-   "url": "Spheres-Of-Might/Practitioner-Traits#higher-calling-religion",
-   "name": "Higher Calling",
-   "categories": [
-    "Religion"
-   ],
-   "requirements": "",
-   "md": "Your deity has blessed you with divine purpose, and your actions work towards their machinations. Once per week, you may cast augury as a spell-like ability. As part of using the spell-like ability, you utter a short prayer to your deity. In addition, Diplomacy is a class skill for you.",
-   "id": "trait/higher-calling"
-  },
-  {
-   "system": "Spheres of Might",
-   "source": "Spheres Apocrypha: Swashbucklers",
-   "url": "Spheres-Of-Might/Practitioner-Traits#bountiful-charm-social",
-   "name": "Bountiful Charm",
-   "categories": [
-    "Social"
-   ],
-   "requirements": "",
-   "md": "You have always had a way with people. Diplomacy is a class skill for you and you gain a +2 trait bonus on Diplomacy checks to recruit cohorts.\n\n*Adaptation note:* If you intend to take a drawback that changes the skill used for the recruit ability, this trait may be applied to that skill instead.",
-   "id": "trait/bountiful-charm"
-  },
-  {
-   "system": "Spheres of Might",
-   "source": "Spheres Apocrypha: Swashbucklers",
-   "url": "Spheres-Of-Might/Practitioner-Traits#highland-clansman-social",
-   "name": "Highland Clansman",
-   "categories": [
-    "Social"
-   ],
-   "requirements": "",
-   "md": "You were born into a particular highland clan or a sept family that follows a particular clan. Alternatively, you were adopted into a clan due to meritorious service or through marriage. Pick two colors from the War Paint formulae talent from the Alchemy sphere. Those are your clan colors, and you may benefit from having both war paint colors if applied simultaneously.\n\n**Normal:** You can only have one war paint color active at a time.",
-   "id": "trait/highland-clansman"
-  },
-  {
-   "system": "Spheres of Might",
-   "source": "Spheres Apocrypha: Swashbucklers",
-   "url": "Spheres-Of-Might/Practitioner-Traits#industrial-worker-social",
-   "name": "Industrial Worker",
-   "categories": [
-    "Social"
-   ],
-   "requirements": "",
-   "md": "You gain a +5 trait bonus on all checks to gather Tinker sphere project materials and Knowledge (Engineering) is always a class skill for you.",
-   "id": "trait/industrial-worker"
-  },
-  {
-   "system": "Spheres of Might",
-   "source": "Spheres Apocrypha: Swashbucklers",
-   "url": "Spheres-Of-Might/Practitioner-Traits#reassuring-liar-social",
-   "name": "Reassuring Liar",
-   "categories": [
-    "Social"
-   ],
-   "requirements": "",
-   "md": "You reduce the DC increase for a dead cohort by 2 and double the rate this penalty is reduced.",
-   "id": "trait/reassuring-liar"
-  },
-  {
-   "system": "Spheres of Might",
-   "source": "Spheres Apocrypha: Swashbucklers",
-   "url": "Spheres-Of-Might/Practitioner-Traits#scarred-by-war-social",
-   "name": "Scarred by War",
-   "categories": [
-    "Social"
-   ],
-   "requirements": "",
-   "md": "Your long history of raiding and battle has left your body scarred and visually imposing. You gain DR 1/piercing. In addition, Intimidate is a class skill for you.",
-   "id": "trait/scarred-by-war"
-  },
-  {
-   "system": "Spheres of Might",
-   "source": "Spheres Apocrypha: Swashbucklers",
-   "url": "Spheres-Of-Might/Practitioner-Traits#technophile-social",
+   "source": "",
+   "url": "Spheres-Of-Power/Traits#technophile-social",
    "name": "Technophile",
    "categories": [
     "Social"

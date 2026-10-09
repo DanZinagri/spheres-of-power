@@ -1620,15 +1620,26 @@ def apply_note_extras() -> int:
 
 
 # Pages whose entries are folded into another page and then dropped: source page -> target page.
-# Each "## Section" of the source puts its "####" entries into the target's section of that name,
-# alphabetically (the DRS traits page only adds to the categories Traits already has).
+# Each "## Section" (or "# Section Traits") of the source puts its "####" entries into the target's
+# section of that name, alphabetically (both trait pages only add to categories Traits already has).
+# Links to the source point at the target; a home page link to it goes (the target is listed).
 PAGE_FOLDS = {
     "Traits (DRS)": "Traits",
+    "Practitioner Traits": "Traits",
 }
+# (target page, entry name without its (category) or [tags], which later passes may change) -> the system of the page it was folded from, for the compendiums
+FOLDED_SYSTEMS: dict[tuple[str, str], str] = {}
+
+
+def _fold_key(heading: str) -> str:
+    """'#### Heavy Machinery (combat) [[DRS](...)]' -> 'heavy machinery'."""
+    text = re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1", heading.lstrip("#").strip())
+    return _norm(re.split(r"\s*[(\[]", text, maxsplit=1)[0])
 
 
 def fold_pages() -> int:
     files = {f.stem: f for f in CONTENT.rglob("*.md") if ARCHIVE not in f.relative_to(CONTENT).parts}
+    families = json.loads(FAMILY_FILE.read_text(encoding="utf-8")) if FAMILY_FILE.exists() else {}
     moved = 0
     for src_name, dest_name in PAGE_FOLDS.items():
         src, dest = files.get(src_name), files.get(dest_name)
@@ -1641,9 +1652,10 @@ def fold_pages() -> int:
         lines = body.split("\n")
         section = None
         entries: list[tuple[str, list[str]]] = []
+        system = FEAT_SYSTEMS.get(families.get(src.relative_to(CONTENT).as_posix(), ""), "Spheres of Power")
         for i, l in enumerate(sbody):
-            if l.startswith("## "):
-                section = l[3:].strip()
+            if (m := re.match(r"#{1,2} (.+?)(?: Traits)?\s*$", l)):
+                section = m.group(1).strip()
             elif l.startswith("#### ") and section:
                 end = next((j for j in range(i + 1, len(sbody)) if re.match(r"#{1,4} ", sbody[j])), len(sbody))
                 entries.append((section, sbody[i:end]))
@@ -1661,9 +1673,21 @@ def fold_pages() -> int:
             while chunk and not chunk[-1].strip():
                 chunk.pop()
             lines[pos:pos] = chunk + [""]
+            FOLDED_SYSTEMS[(dest_name, _fold_key(chunk[0]))] = system
             moved += 1
         dest.write_text(head + GENERATED_MARK + re.sub(r"\n{3,}", "\n\n", "\n".join(lines)), encoding="utf-8")
         src.unlink()
+        # links to the source now point at the target (the home page already lists the target)
+        link = re.compile(rf"\[\[{re.escape(src_name)}(#[^\]|]*)?(\|[^\]]*)?\]\]")
+        for f in CONTENT.rglob("*.md"):
+            text = f.read_text(encoding="utf-8")
+            if src_name not in text:
+                continue
+            if f == CONTENT / "index.md":
+                text = re.sub(rf"^\[\[{re.escape(src_name)}\]\][ \t]*\n", "", text, flags=re.M)
+            new = link.sub(lambda m: f"[[{dest_name}{m.group(1) or ''}{m.group(2) or ''}]]", text)
+            if new != text:
+                f.write_text(new, encoding="utf-8")
     return moved
 
 
@@ -4121,7 +4145,7 @@ def build_feat_compendium() -> dict[str, int]:
 
 # Spheres trait pages: each "# / ## <Category> [Traits]" section's "####" traits (the Character
 # Legacies section's traits are bold paragraphs under each legacy instead)
-TRAIT_PAGES = ["Traits", "Practitioner Traits"]
+TRAIT_PAGES = ["Traits"]  # (Practitioner Traits is folded into Traits: PAGE_FOLDS)
 # where a trait's rules usually start, after a line or two of background
 _RULES_SENTENCE = re.compile(r"\b(?:you gain|you can|you may|you treat|you take|bonus|penalty|"
                              r"class skill|once per|choose|select|increase|reduce|whenever|when you)\b", re.I)
@@ -4174,7 +4198,10 @@ def build_trait_compendium() -> dict[str, int]:
                 if (s := re.match(r"^\*Source: \[([^\]]+)\]", lines[j])):
                     source = s.group(1)
                     break
-            base = {"system": system, "source": source, "url": f"{_page_url(f)}#{ids[k]}"}
+            if (page, _fold_key(lines[k])) in FOLDED_SYSTEMS:  # only its own source line, not a neighbour's
+                source = s.group(1) if (s := re.search(r"^\*Source: \[([^\]]+)\]", md, re.M)) else ""
+            base = {"system": FOLDED_SYSTEMS.get((page, _fold_key(lines[k])), system), "source": source,
+                    "url": f"{_page_url(f)}#{ids[k]}"}
             if category == "Character Legacies":  # "**Trait Name [Combat, Legacy]:** text"
                 legacy = lines[k][5:].strip()
                 for b in re.finditer(r"^\*\*([^*\[]+?)\s*\[([^\]]+)\]:\*\*\s*(.+)$", md, re.M):
@@ -6870,6 +6897,8 @@ def convert(with_images: bool) -> None:
         home = add_feats_links(out, feats_pages, drawback_pages)
         home = sphere_lists(drop_merged_links(home, merge_links))
         home = add_home_archetypes(fill_class_archetypes(home, class_archetypes))
+        # pages folded into another page (PAGE_FOLDS) leave the home lists; their target is listed
+        home = re.sub(r"^\[\[(?:" + "|".join(map(re.escape, PAGE_FOLDS)) + r")\]\][ \t]*\r?\n", "", home, flags=re.M)
         dest.write_text(home_icons(home_class_tabs(home)), encoding="utf-8")
         # the Archive: a folder note listing archived material, and the Original Spheres index
         nos = "nosearch: true"
