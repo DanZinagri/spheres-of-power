@@ -77,10 +77,6 @@ parent: "[[Archive]]"
 - [[Incanter (Ultimate)|Incanter]]
 - [[Invidian (Ultimate)|Invidian]]
 
-**Operative Classes**
-
-*Nothing retired yet.*
-
 **Practitioner Classes**
 
 - [[Commander (Ultimate)|Commander]]
@@ -94,8 +90,13 @@ parent: "[[Archive]]"
 - [[Conscript (Ultimate)|Conscript]]
 - [[Garrison (Ultimate)|Garrison]]
 
+**Operative Classes**
+
+*Nothing retired yet.*
+
 **Champion Classes**
 
+- [[Using Champions Of The Spheres (Ultimate)|Using Champions Of The Spheres]]
 - [[Prodigy (Ultimate)|Prodigy]]
 
 **Base PF1e Classes**
@@ -111,7 +112,6 @@ parent: "[[Archive]]"
 - [[Braveheart (Ultimate)|Braveheart]]
 - [[How To Build A Practitioner (Ultimate)|How To Build A Practitioner]]
 - [[Mythic Spheres 2 (Ultimate)|Mythic Spheres 2]]
-- [[Using Champions Of The Spheres (Ultimate)|Using Champions Of The Spheres]]
 - [[Vanguard (Ultimate)|Vanguard]]
 
 </div>

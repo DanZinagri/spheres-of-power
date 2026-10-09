@@ -26,8 +26,8 @@ What the feat extractor takes from the site (1233 Spheres feats; approved), plus
 | Squadron | 28 | — |
 | Critical | — | 28 |
 | Admixture | 24 | — |
-| Aristeia | 23 | — |
 | Conduit | — | 23 |
+| Aristeia | 23 | — |
 | Grit | — | 21 |
 | Counterspell | 20 | — |
 | Item Mastery | — | 19 |
@@ -38,41 +38,41 @@ What the feat extractor takes from the site (1233 Spheres feats; approved), plus
 | Protokinesis | 16 | — |
 | Companion | 15 | — |
 | Performance | — | 15 |
-| Meditation | — | 14 |
 | Shield Mastery | — | 14 |
-| Shield Style | — | 12 |
+| Meditation | — | 14 |
 | Necrosis | 12 | — |
-| Proxy | 12 | — |
-| Defiler | 12 | — |
+| Shield Style | — | 12 |
 | Wild Magic | 12 | — |
-| Surreal | 11 | — |
-| Armor Mastery | — | 11 |
-| Panache | — | 11 |
-| Channeling | 11 | — |
-| Achievement | — | 11 |
+| Defiler | 12 | — |
+| Proxy | 12 | — |
 | Purring | 11 | — |
+| Surreal | 11 | — |
+| Channeling | 11 | — |
+| Panache | — | 11 |
+| Armor Mastery | — | 11 |
+| Achievement | — | 11 |
 | Rune | 10 | — |
 | Armor Style | — | 9 |
-| Esoteric | — | 9 |
-| Alignment | — | 9 |
 | Origin | — | 9 |
-| Familiar | — | 8 |
+| Alignment | — | 9 |
+| Esoteric | — | 9 |
 | Blood Hex | — | 8 |
+| Familiar | — | 8 |
+| Theurge | 7 | — |
 | Damnation | 3 | 4 |
 | Combination | — | 7 |
-| Theurge | 7 | — |
 | Chance | 6 | — |
-| Trick | — | 6 |
 | Betrayal | — | 6 |
 | Plague | 6 | — |
+| Trick | — | 6 |
 | Anathema | 5 | — |
-| Gathlain Court Title | — | 4 |
 | Targeting | — | 4 |
-| Hero Point | — | 3 |
+| Gathlain Court Title | — | 4 |
 | Words of Power | — | 3 |
+| Hero Point | — | 3 |
+| Coven | — | 2 |
 | Called Shot | — | 2 |
 | Luck | 2 | — |
-| Coven | — | 2 |
 
 ## Spheres of Power (926)
 

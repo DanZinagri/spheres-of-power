@@ -47,6 +47,7 @@ function setup() {
       button.type = "button"
       button.setAttribute("role", "tab")
       button.textContent = label || `Tab ${i + 1}`
+      if (pane.dataset.tab) button.dataset.tab = pane.dataset.tab
       button.addEventListener("click", () => activate(tabs, i))
       bar.appendChild(button)
     })

@@ -300,10 +300,15 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 ## Classes
 
+<div class="sop-tabs sop-class-tabs">
+
+<div class="sop-tab" data-tab="power">
+
+<div class="sop-tab-label">Power</div>
+
+*Spherecaster Classes · [[Using Spheres Of Power|Using Spheres of Power]]*
+
 <div class="sop-classes">
-
-
-### Spherecaster Classes *([[Using Spheres Of Power|Using Spheres of Power]])*
 
 | Class | Archetypes |
 | --- | --- |
@@ -320,20 +325,17 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 | **[[Thaumaturge]]** | [[Devourer]], [[Ebonmage (Thaumaturge Archetype)\|Ebonmage]], [[Eldritch Cultist]], [[Experimentalist]], [[Genius]], [[Knight Of Willpower\|Knight of Willpower]], [[Martial Thaumaturge]], [[Pact Master]], [[Pactmage]], [[Savant (Class Version)\|Savant]], [[Soulfire Master]], [[Unseen Horror]], [[Void Gazer]], [[Wild Mage]], [[DRS Thaumaturge Class Features]] |
 | **[[Wraith]]** | [[Baobhan Sith]], [[Collective]], [[Draugr]], [[Matagot]], [[Mistshade]], [[Swarmheart]], [[Unbodied]] |
 
-### Operative Classes *([[Using Spheres Of Guile|Using Spheres of Guile]])*
+</div>
 
-| Class | Archetypes |
-| --- | --- |
-| **[[Agent]]** | [[Blackpowder Slayer]], [[Erudite Pugilist]], [[Imposter]], [[Superstar Spy]] |
-| **[[Courser]]** | [[Gourmand]], [[Nomad]], [[Ravener]], [[Survivor]], [[Venator]], [[Wildspeaker]] |
-| **[[Envoy]]** | [[Aristarch]], [[Beguiler]], [[Idol]], [[Luminary]], [[Officer]] |
-| **[[Genius]]** | — |
-| **[[Mastermind]]** | [[Ambuscader]], [[Consigliere]], [[Malfeasant]], [[Saboteur]], [[Squad Operator]] |
-| **[[Professional]]** | [[Trader]] |
-| **[[Advisor]]** | [[Captain]], [[Caretaker]], [[Dramaturge]], [[Philosopher]], [[Regent]] |
-| **[[Conduit]]** | [[Runescriber]], [[Interdictor]] |
+</div>
 
-### Practitioner Classes *([[Using Spheres Of Might|Using Spheres of Might]])*
+<div class="sop-tab" data-tab="might">
+
+<div class="sop-tab-label">Might</div>
+
+*Practitioner Classes · [[Using Spheres Of Might|Using Spheres of Might]]*
+
+<div class="sop-classes">
 
 | Class | Archetypes |
 | --- | --- |
@@ -347,7 +349,40 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 | **[[Striker]]** | [[Barfighter]], [[Black Powder Brawler]], [[Chaos Shifter]], [[Elemental Fist]], [[Shadowed Fist]], [[Skirmishing Scout]], [[Strong Style Grappler]], [[Voidrusher]] |
 | **[[Technician]]** | [[Adamantine Scientist]], [[Innovator]], [[Mad Scientist]], [[Mythbreaker]], [[Rigger]], [[Suit Pilots]] |
 
-### Champion Classes *([[Using Champions Of The Spheres|Using Champions of the Spheres]])*
+</div>
+
+</div>
+
+<div class="sop-tab" data-tab="guile">
+
+<div class="sop-tab-label">Guile</div>
+
+*Operative Classes · [[Using Spheres Of Guile|Using Spheres of Guile]]*
+
+<div class="sop-classes">
+
+| Class | Archetypes |
+| --- | --- |
+| **[[Agent]]** | [[Blackpowder Slayer]], [[Erudite Pugilist]], [[Imposter]], [[Superstar Spy]] |
+| **[[Courser]]** | [[Gourmand]], [[Nomad]], [[Ravener]], [[Survivor]], [[Venator]], [[Wildspeaker]] |
+| **[[Envoy]]** | [[Aristarch]], [[Beguiler]], [[Idol]], [[Luminary]], [[Officer]] |
+| **[[Genius]]** | — |
+| **[[Mastermind]]** | [[Ambuscader]], [[Consigliere]], [[Malfeasant]], [[Saboteur]], [[Squad Operator]] |
+| **[[Professional]]** | [[Trader]] |
+| **[[Advisor]]** | [[Captain]], [[Caretaker]], [[Dramaturge]], [[Philosopher]], [[Regent]] |
+| **[[Conduit]]** | [[Runescriber]], [[Interdictor]] |
+
+</div>
+
+</div>
+
+<div class="sop-tab" data-tab="champions">
+
+<div class="sop-tab-label">Champions</div>
+
+*Champion Classes · [[Using Champions Of The Spheres|Using Champions of the Spheres]]*
+
+<div class="sop-classes">
 
 | Class | Archetypes |
 | --- | --- |
@@ -360,8 +395,17 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 | **[[Troubadour]]** | [[Binder]], [[Clone]], [[Method Actor]], [[Ringmaster]] |
 | **[[Warden (warden-class)\|Warden]]** | [[Custodian]], [[Empathetic Guardian]], [[Jailer]], [[Keeper]] |
 
-### Base PF1e Classes *([[Archetype Rules]])*
+</div>
 
+</div>
+
+<div class="sop-tab" data-tab="pf1e-archetypes">
+
+<div class="sop-tab-label">PF1e Archetypes</div>
+
+*Base PF1e Classes · [[Archetype Rules]]*
+
+<div class="sop-classes">
 
 | Class | Archetypes | Class Options |
 | --- | --- | --- |
@@ -415,9 +459,13 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 </div>
 
-<div class="sop-spheres sop-prestige">
+</div>
 
-**Prestige Classes**
+<div class="sop-tab" data-tab="prestige">
+
+<div class="sop-tab-label">Prestige</div>
+
+<div class="sop-spheres sop-prestige">
 
 - [[Aeronaut Captain]]
 - [[Bokor]]
@@ -433,6 +481,11 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 - [[Waking Sleeper]]
 
 </div>
+
+</div>
+
+</div>
+
 
 # Other Resources
 

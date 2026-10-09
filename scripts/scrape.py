@@ -344,6 +344,49 @@ HOME_ICONS = [("**Magic Spheres**", "magic"), ("**Skill Spheres**", "skill"), ("
               ("**Feat Types**", "feats")]
 
 
+# the home page's Classes section as tabs: heading -> tab label, in tab order (prestige classes last)
+HOME_CLASS_TABS = [("Spherecaster Classes", "Power"), ("Practitioner Classes", "Might"), ("Operative Classes", "Guile"),
+                   ("Champion Classes", "Champions"), ("Base PF1e Classes", "PF1e Archetypes")]
+
+
+def home_class_tabs(md: str) -> str:
+    """The Classes section (one table per "### ... Classes" heading, then the prestige class list) as a
+    tab set: each tab is that heading's table, with its "(Using ...)" link above it. Done last, so the
+    steps that fill the class tables see them as headings."""
+    lines = md.split("\n")
+    try:
+        start = next(i for i, l in enumerate(lines) if l.strip() == '<div class="sop-classes">')
+    except StopIteration:
+        return md
+    pre = next((i for i in range(start, len(lines)) if lines[i].strip() == '<div class="sop-spheres sop-prestige">'), None)
+    end = next((i for i in range(start + 1, len(lines)) if lines[i].strip() == "</div>"), None)
+    if end is None:
+        return md
+    sections, cur = {}, None
+    for l in lines[start + 1:end]:
+        if (m := re.match(r"### (.+?)(?:\s*\*\((.*)\)\*)?\s*$", l)):
+            cur = m.group(1).strip()
+            sections[cur] = {"link": m.group(2) or "", "body": []}
+        elif cur:
+            sections[cur]["body"].append(l)
+    tabs = []
+    for heading, label in HOME_CLASS_TABS:
+        sec = sections.get(heading)
+        if not sec:
+            continue
+        body = "\n".join(sec["body"]).strip()
+        head = f"*{heading}" + (f" · {sec['link']}" if sec["link"] else "") + "*"
+        tabs.append((label, f"{head}\n\n<div class=\"sop-classes\">\n\n{body}\n\n</div>"))
+    stop = end
+    if pre is not None:
+        pend = next((i for i in range(pre + 1, len(lines)) if lines[i].strip() == "</div>"), None)
+        if pend is not None:
+            items = [l for l in lines[pre + 1:pend] if l.strip() and not l.strip().startswith("**Prestige Classes**")]
+            tabs.append(("Prestige", '<div class="sop-spheres sop-prestige">\n\n' + "\n".join(items) + "\n\n</div>"))
+            stop = pend
+    return "\n".join(lines[:start] + [tab_set(tabs, "sop-class-tabs")] + lines[stop + 1:])
+
+
 def home_icons(md: str) -> str:
     """The icons before home page headers: "**Magic Spheres**" and "### Spherecaster Classes" lines get a
     <span class="sop-icon ..."> first (after the "### " of a heading). Done last, so the steps that read
@@ -1476,9 +1519,9 @@ def insert_first_tabs(md: str, tabs: list[tuple[str, str]]) -> str:
     return "\n".join(lines[:first] + block + lines[first:])
 
 
-def tab_set(tabs: list[tuple[str, str]]) -> str:
+def tab_set(tabs: list[tuple[str, str]], cls: str = "") -> str:
     """A whole tab set (label, markdown) as .sop-tabs markdown; the first tab opens by default."""
-    block = ['<div class="sop-tabs">', ""]
+    block = [f'<div class="sop-tabs{" " + cls if cls else ""}">', ""]
     for label, body in tabs:
         tab_id = re.sub(r"[^a-z0-9]+", "-", label.lower()).strip("-")
         block += [f'<div class="sop-tab" data-tab="{tab_id}">', "",
@@ -6277,8 +6320,12 @@ def archive_skeleton_index(home: str, entries: dict[str, tuple[str, str]], intro
     """An archive index laid out like the home page: every home section that lists pages, in home
     order, each with the archived versions of the pages it lists (or a placeholder for now)."""
     order, groups, placed, ctx = [], {}, set(), None
+    tab_titles = dict((label, heading) for heading, label in HOME_CLASS_TABS)
     for line in home.split("\n"):
         s = line.strip()
+        if m := re.match(r'<div class="sop-tab-label">(.+)</div>$', s):  # the Classes tabs
+            ctx = tab_titles.get(m.group(1), m.group(1) + " Classes")
+            continue
         if m := re.match(r"#{2,3} (.+)$", s):
             ctx = m.group(1)
         elif m := re.match(r"(?:<span[^>]*></span>)?\*\*([^*]+)\*\*(?:\s*\*\(.*\)\*)?$", s):  # (a header icon first)
@@ -6763,7 +6810,7 @@ def convert(with_images: bool) -> None:
         home = add_feats_links(out, feats_pages, drawback_pages)
         home = sphere_lists(drop_merged_links(home, merge_links))
         home = add_home_archetypes(fill_class_archetypes(home, class_archetypes))
-        dest.write_text(home_icons(home), encoding="utf-8")
+        dest.write_text(home_icons(home_class_tabs(home)), encoding="utf-8")
         # the Archive: a folder note listing archived material, and the Original Spheres index
         nos = "nosearch: true"
         (CONTENT / ARCHIVE).mkdir(parents=True, exist_ok=True)
