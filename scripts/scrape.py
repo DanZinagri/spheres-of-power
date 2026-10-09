@@ -2575,7 +2575,7 @@ COMPENDIUM = {
     },
     "Death": {
         "system": "Spheres of Power",
-        "approved": False,
+        "approved": True,
         "pages": [
             # Ghost Strike (with Exhausting Strike) and Reanimate
             ("Death", "Ghost Strike", "sphere ability", 2, 4),
@@ -2591,6 +2591,23 @@ COMPENDIUM = {
         ],
         # rules notes: the (dominion) errata note, and Create Soul Gem's notes on souls
         "not_options": r"^Table|^Note|^Dominion$|^The Value of Souls|^Oath of Loyalty",
+    },
+    "Destruction": {
+        "system": "Spheres of Power",
+        "approved": False,
+        "pages": [
+            # Destructive Blast (its talent type and blast type group notes stay in its text)
+            ("Destruction", "Destructive Blast", "sphere ability", 2, 5),
+            ("Destruction", "Destruction Talents", "talent", 4),
+            ("Destruction", "Blast Shape Talents", "talent", 4),
+            ("Destruction", "Blast Type Talents", "talent", 4),
+            ("Destruction", "Advanced Destruction Talents", "advanced talent", 4),
+            ("Destruction Sphere Feats", "(page)", "feat", 4),
+            # the admixture feats printed on the Destruction page itself
+            ("Destruction", "Admixture Feats", "feat", 4),
+            ("Destruction Sphere Drawbacks", "(page)", "drawback", 4),
+        ],
+        "not_options": r"^Table|^Note",
     },
     "Warleader": {
         "system": "Spheres of Might",

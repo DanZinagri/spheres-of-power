@@ -1,0 +1,2813 @@
+{
+ "sphere": "Destruction",
+ "system": "Spheres of Power",
+ "approved": false,
+ "entries": [
+  {
+   "id": "destruction/destructive-blast",
+   "name": "Destructive Blast",
+   "kind": "sphere ability",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#destructive-blast",
+   "md": "As a standard action, you may deliver a burst of blunt magical force as a melee touch attack or a ranged touch attack within close range. A destructive blast is subject to spell resistance, and while it bypasses DR/magic, it does not automatically bypass other forms of damage reduction if it deals physical damage (bludgeoning, slashing, or piercing). A ranged destructive blast counts as a ray attack.\n\nA basic destructive blast deals 1d6 bludgeoning damage for every odd caster level.\n\n**Table: Destructive Blast Damage**\n\n| Level | Damage |\n| --- | --- |\n| 1st | 1d6 |\n| 3rd | 2d6 |\n| 5th | 3d6 |\n| 7th | 4d6 |\n| 9th | 5d6 |\n| 11th | 6d6 |\n| 13th | 7d6 |\n| 15th | 8d6 |\n| 17th | 9d6 |\n| 19th | 10d6 |\n| 21st | 11d6 |\n| 23rd | 12d6 |\n| 25th | 13d6 |\n\nYou may spend 1 spell point when making a destructive blast to increase the damage dealt to one damage die per caster level (minimum 2d6).\n\n### Destruction Talent Types\n\nWhen augmenting a destructive blast with Destruction talents, you may only apply 1 (blast type) talent and 1 (blast shape) talent to each individual destructive blast. If a blast type or blast shape grants a combat maneuver check, that maneuver ignores normal size limitations.\n\n### Blast Type Groups\n\nEach (blast type) talent belongs to a blast type group with others of similar theme. For all purposes, the basic, unmodified destructive blast counts as its own blast type group.\n\n| Blast Type Group | Blast Types |\n| --- | --- |\n| Acid | Acid Blast, Adhesive Blast, Alkali Blast, Corrosive Blast |\n| Air | Air Blast, Gale Blast, Hurricane Blast, Vacuum Blast |\n| Cold | Drenching Blast, Drowning Blast, Freezing Blast, Frost Blast, Numbing Blast |\n| Crystal | Crystal Blast, Living Crystal Blast, Razor Blast |\n| Electric | Attracting Blast, Alternyating Current, Electric Blast, Shock Blast, Static Blast |\n| Fire | Blistering Blast, Fire Blast, Searing Blast, Sweltering Blast |\n| Force | Force Blast, Invigorating Blast, Mana Siphon |\n| Holy | Paradigm Blast, Smiting Blast |\n| Light | Blinding Blast, Incandescent Blast, Radiant Blast |\n| Negative | Gloom Blast, Gore Blast, Nether Blast, Tenebrous Blast |\n| Sonic | Resonating Blast, Reverberating Blast, Shattering Blast, Thunder Blast |\n| Stone | Battering Blast, Shrapnel Blast, Stone Blast |",
+   "options": []
+  },
+  {
+   "id": "destruction/admixture",
+   "name": "Admixture",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Destruction Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#admixture",
+   "md": "You may either increase the casting time of your destructive blast by one step or spend an additional spell point to apply two (blast type) talents instead of 1. The resultant blast does half of its damage of each type and any additional effects of the blast types are applied normally. If the die size for the two blasts are d8 and d6, use d8; if d8 and d4 use d6; if d6 and d4, use d4. If two blast types have different caster levels, then use the lower caster level for determining the admixtured blast’s caster level.\n\n**Special:** You do not increase the casting time or spend an additional spell point when using the Admixture talent with two blast types from the same blast type group.",
+   "options": []
+  },
+  {
+   "id": "destruction/cascade-failure",
+   "name": "Cascade Failure",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Destruction Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#cascade-failure",
+   "md": "When a creature receives damage from your destructive blast, it suffers a -1 penalty on all saving throws against your destructive blasts until the end of your next turn. This penalty stacks with itself if a target is damaged by your destructive blast more than once in a round.",
+   "options": []
+  },
+  {
+   "id": "destruction/clinging-blast",
+   "name": "Clinging Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Destruction Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#clinging-blast",
+   "md": "You may spend an additional spell point to have all damage from the destructive blast be treated as continuous for the purposes of any concentration checks until the start of your next turn (Fortitude negates).",
+   "options": []
+  },
+  {
+   "id": "destruction/crafted-blast",
+   "name": "Crafted Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Destruction Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#crafted-blast",
+   "md": "When making a destructive blast unaltered by a (blast type) talent, you may change the damage of the destructive blast to be either bludgeoning, piercing, or slashing, and may change all rolled 1’s and 2’s to 3’s.",
+   "options": []
+  },
+  {
+   "id": "destruction/damage-control",
+   "name": "Damage Control",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Destruction Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#damage-control",
+   "md": "You may choose to have all damage dealt by a destructive blast be nonlethal damage. Damage dealt is calculated as if the destructive blast was its original damage type as well as nonlethal (for example, an acid blast would still be subject to acid resistance), but the resulting damage is added to the target’s nonlethal damage total and not subtracted from their hit points. When using a (blast type) talent that already deals nonlethal damage, your destructive blast damage increases by +1 damage per die.\n\nAlternatively, you may choose to deal no damage at all, only inflicting secondary effects, such as from (blast type) talents, or only expressing minor, controlled effects of the damage type you would normally deal with your destructive blast. For example, you might create a spark with a Fire Blast, drive a nail into wood with the bludgeoning force of a standard destructive blast, or make an indistinct sound with a Thunder Blast. These effects should never be powerful, and the GM is the final arbiter of what can be accomplished this way.",
+   "options": []
+  },
+  {
+   "id": "destruction/demolition",
+   "name": "Demolition",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Destruction Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#demolition",
+   "md": "You can tune your destructive blast more towards inanimate objects rather than creatures. When you use your destructive blast this way, you deal +1 damage per die and deal full damage to objects, ignoring any reduction that would normally apply from being an energy attack, ranged attack, ineffective weapon type, or similar effect, though hardness still applies. Anything other than an inanimate object struck by this kind of destructive blast only takes half damage from it.",
+   "options": []
+  },
+  {
+   "id": "destruction/energetic-response",
+   "name": "Energetic Response",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Destruction Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#energetic-response",
+   "md": "You can make attacks of opportunity with your destructive blast, as if it were a melee weapon. You are considered armed with your destructive blast, and if you possess the ability to make attacks of opportunity with ranged weapons, you may do so with a destructive blast. Using a destructive blast to make an attack of opportunity is considered a (blast shape), and you cannot use any effects that would increase its casting time, nor spend a spell point to increase its damage. Using your destructive blast this way does not provoke an attack of opportunity for the casting, though it may still provoke if used to make ranged attacks.\n\n**Wiki Note:** Absent other effects, Energetic Response does not allow you to use your destructive blast as part of an attack action, and broadly does not work with talents from Spheres of Might (including the Sentinel's Opportunistic Offense ability).",
+   "options": []
+  },
+  {
+   "id": "destruction/epicenter",
+   "name": "Epicenter",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Destruction Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#epicenter",
+   "md": "You are immune to any damage and other effects of your own destructive blasts. This includes ignoring difficult terrain from your Crystal Blast and immunity to your own Energy Wall, Energy Cloud, and any other blast shape with a non-instantaneous duration.",
+   "options": []
+  },
+  {
+   "id": "destruction/extended-range-range",
+   "name": "Extended Range",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Destruction Talents",
+   "tags": [],
+   "talentTags": [
+    "range"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#extended-range-range",
+   "md": "Increase the range of your destructive blast by 1 range level (close to medium, medium to long). You may select this talent multiple times. The effects stack.",
+   "options": []
+  },
+  {
+   "id": "destruction/focused-blast",
+   "name": "Focused Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Destruction Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#focused-blast",
+   "md": "When making a destructive blast unaltered by a (blast shape) talent, your destructive blast damage increases by +1 damage per die.",
+   "options": []
+  },
+  {
+   "id": "destruction/gather-energy",
+   "name": "Gather Energy",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Destruction Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#gather-energy",
+   "md": "You may increase the casting time of your destructive blast by one step to reduce its spell point cost by 1 (to a minimum of 0).",
+   "options": []
+  },
+  {
+   "id": "destruction/selective-blast",
+   "name": "Selective Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Destruction Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#selective-blast",
+   "md": "You may exclude one creature plus one per 10 caster levels from the area of your destructive blasts that have an instantaneous duration. You may spend a spell point to increase the number of excluded creatures by your casting ability modifier (minimum +1).",
+   "options": []
+  },
+  {
+   "id": "destruction/spirit-blast",
+   "name": "Spirit Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Destruction Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#spirit-blast",
+   "md": "You can choose to have your destructive blasts affect spiritual targets. When used this way, your destructive blasts extend into the Ethereal Plane to affect ethereal targets normally, and does not halve damage or suffer a 50% failure chance against incorporeal targets.",
+   "options": []
+  },
+  {
+   "id": "destruction/wingbind",
+   "name": "Wingbind",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Destruction Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#wingbind",
+   "md": "When using a blast type that entangles, flying entangled targets that are entangled must succeed at an additional Reflex save or be unable to fly and fall to the ground. This does not affect creatures with magical flight.",
+   "options": []
+  },
+  {
+   "id": "destruction/blast-salvo-blast-shape",
+   "name": "Blast Salvo",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Shape Talents",
+   "tags": [
+    "blast shape"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#blast-salvo-blast-shape",
+   "md": "Instead of a single destructive blast, you unleash a volley of destructive power. You deliver 2 surges, each requiring a melee touch attack or a ranged touch attack within range. A ranged surge counts as a ray attack. Each surge may be delivered at the same or different targets, but all surges must be delivered simultaneously. Determine the damage dealt by each surge by distributing the damage dice dealt by your destructive blast between each surge. A surge must deal at least 1 damage die or you do not create that surge. If you spend an additional spell point, you may deliver one additional surge, plus 1 surge for every 6 caster levels you possess.\n\nEven if this (blast shape) damages a target more than once, this (blast shape) only counts as damaging a target once for the purposes of (blast type) effects and the Cascade Failure talent.\n\nAdditional effects from a destructive blast modified with this blast shape only affect a creature once regardless of how many times they are damaged.\n\n**Example:** A destructive blast which deals 7d6 damage could be distributed between the two surges as 3d6 and 4d6, 1d6 and 6d6, or any combination the caster chooses. Each surge must deal at least 1d6 damage, or the caster does not create it and the burst is lost.\n\nA caster would only make a single disarm attempt against a creature struck multiple times by this blast shape when modified by the Static Blast blast type, and only applies additional effects from the Admixture talent or admixture feats to the damaged creature a single time. Effects not caused by the destructive blast, such as additional damage caused by the Fate sphere Harm (word), would trigger on each successful surge. Additional damage from other sources (such as the bonus damage from the Primal Blast feat) would apply to each surge. Sneak attack is never applied multiple times, as per the normal Paizo FAQ on spells and sneak attack, regardless of whether you are delivering melee or ranged surges.\n\n**Author's Note: - Blast Salvo and Spell Strike / Spell Combat** The Blast Salvo talent cannot be used alongside a magus's spell strike to deliver multiple surges; surges must be used as part of the same initial action (either casting, the initial spellstrike, etc.) or are lost. This talent is otherwise meant to be an analog to scorching ray with a melee option, not chill touch, and is not synergistic with spell combat or similar abilities.",
+   "options": []
+  },
+  {
+   "id": "destruction/blast-trap-blast-shape",
+   "name": "Blast Trap",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Shape Talents",
+   "tags": [
+    "blast shape"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#blast-trap-blast-shape",
+   "md": "You may place a destructive blast onto an adjacent, unoccupied 5-foot square. Any creature who steps onto that square is affected by your destructive blast, and is allowed a Reflex save for half damage. A blast trap lasts for 10 minutes per caster level before becoming inert. This is a magical trap with a Perception DC and Disable Device DC equal to the blast’s save DC. You may have one active blast trap at a time, +1 per 10 caster levels; placing a trap beyond this limit deactivates an earlier trap of your choice.",
+   "options": []
+  },
+  {
+   "id": "destruction/chain-blast-blast-shape",
+   "name": "Chain Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Shape Talents",
+   "tags": [
+    "blast shape"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#chain-blast-blast-shape",
+   "md": "You may spend a spell point to arc your destructive blast between multiple targets. Choose a number of targets no greater than 1 + half your caster level (minimum 2 targets total). Make a ranged touch attack against each of them in order. No target can be farther than 10 feet + 5 feet per 5 caster levels from the previous target and no target can be targeted more than once. Should any of the targets fail to take damage, either by a missed attack, resistances, or other method, the chain stops and no further targets are damaged.",
+   "options": []
+  },
+  {
+   "id": "destruction/energy-aura-blast-shape",
+   "name": "Energy Aura",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Shape Talents",
+   "tags": [
+    "blast shape"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#energy-aura-blast-shape",
+   "md": "As a move action, you may spend a spell point to surround yourself with an aura of elemental energies for a number of rounds equal to your casting ability modifier; any creature that ends its turn within 5 feet + 5 feet per 10 caster levels of you is affected by your destructive blast, though the damage is reduced to its minimum (so a 4d6 blast would deal 4 damage, or 12 with Crafted Blast). A Reflex save negates this damage. You may only have one aura active at a time; casting it again ends the previous instance.",
+   "options": []
+  },
+  {
+   "id": "destruction/energy-beam-blast-shape",
+   "name": "Energy Beam",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Shape Talents",
+   "tags": [
+    "blast shape"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#energy-beam-blast-shape",
+   "md": "*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*\n\nYou can spend 1 spell point to channel a constant beam of destructive energy.\n\nThe beam is an up to close-range line that emanates from you and remains for as long as you concentrate on it—if you move more than 10 feet in a turn, your concentration is broken immediately. If you do move, the end point of the beam moves in the same way (but does not change direction unless you shift it, noted below).\n\nWhen the beam is first created—and on subsequent rounds that it is concentrated on—you can move the end point of the beam up to 10 feet in any direction (albeit within close range), plus 5 feet per 4 caster levels you possess.\n\nIf a creature is within the area as the beam is created, moves into the beam (or has it moved into them), or ends their turn within the beam, they are subject to the destructive blast’s damage and effects as normal (Reflex halves). An individual creature can only suffer this damage once per round.",
+   "options": []
+  },
+  {
+   "id": "destruction/energy-bomb-blast-shape-instill",
+   "name": "Energy Bomb",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Shape Talents",
+   "tags": [
+    "blast shape"
+   ],
+   "talentTags": [
+    "instill"
+   ],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#energy-bomb-blast-shape-instill",
+   "md": "As a standard action, you may touch a small container of liquid and spend a spell point to instill a destructive blast inside it. As a standard action, this can be primed and thrown as a splash weapon. A direct hit deals the destructive blast’s damage to the target and damage equal to the minimum blast damage is dealt in a 5-foot splash radius. Any creature taking damage from either the direct hit or the splash must save against any additional effects of the blast type.\n\nThis cannot be used with the Gather Energy talent. An instilled liquid remains potent until you rest to regain spell points. If you have equipment on hand (such as an alchemy lab), the cost of bottles and water is considered negligible. You may target food (in which instead of a splash weapon it affects the target who consumes it) but not an already-magical item, such as a potion. All spell points must be spent and all variables of the sphere effect must be chosen at the time the instilled liquid is created. You cannot instill multiple effects in a single liquid, nor create multiple instilled liquids with a single action.",
+   "options": []
+  },
+  {
+   "id": "destruction/energy-leap-blast-shape",
+   "name": "Energy Leap",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Shape Talents",
+   "tags": [
+    "blast shape"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#energy-leap-blast-shape",
+   "md": "You may spend a spell point to move in a straight line up to your destructive blast’s range. This movement provokes attacks of opportunity as normal. You may pass through occupied spaces by making an overrun maneuver as a free action against the targets, using your caster level + your casting ability modifier in place of your base attack bonus + your Strength modifier for this check. If a target attempts to impede you during this overrun, they suffer the effects of your destructive blast (Reflex half), whether or not they succeed in stopping your movement. You may also attempt to crash through objects or barriers, dealing your destructive blast damage to them, and passing through unimpeded if this successfully destroys them. If, however, a target successfully stops you during an overrun or you are unable to destroy an object or barrier, your movement immediately stops at the nearest unoccupied space and you are staggered for one round.",
+   "options": []
+  },
+  {
+   "id": "destruction/energy-satellite-blast-shape",
+   "name": "Energy Satellite",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Shape Talents",
+   "tags": [
+    "blast shape"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#energy-satellite-blast-shape",
+   "md": "You may spend 1 spell point to form your destructive blast into 1 satellite that orbits your body that lasts for one minute per caster level or until discharged. This cannot be combined with Gather Energy or spending a spell point to increase the destructive blast’s damage. You may maintain 1 satellite at a time + 1 additional satellite per 10 caster levels. You may increase the casting time when using this (blast shape) by 1 step in order to form multiple satellites (up to your normal maximum). You may select different (blast types) for each satellite formed this way, spending any additional spell points or costs required.\n\nAs an immediate action, you may discharge a single satellite, targeting any creature within 5 feet + 5 feet per 2 caster levels to deal your destructive blast damage (Reflex half).",
+   "options": []
+  },
+  {
+   "id": "destruction/energy-sphere-blast-shape",
+   "name": "Energy Sphere",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Shape Talents",
+   "tags": [
+    "blast shape"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#energy-sphere-blast-shape",
+   "md": "You may shape your destructive blast into a non-instantaneous sphere that fills a 5-foot square. Any creature within this space is dealt damage from your destructive blast (Reflex negates). This sphere has a 20 feet fly speed + 5 feet per 2 caster levels and perfect maneuverability, and wind does not affect its course. The sphere has a duration of concentration, but you may spend a spell point to increase this duration to 1 round per caster level.\n\nAs a move action, you may direct this sphere to move to a new location and strike a new target. Your sphere stops to attempt to deal damage whenever it enters a space with a creature, and cannot attempt to directly damage more than one target in this manner per round. Your sphere has no mass and does not impede movement, but creatures moving through its space must succeed at a Reflex save or suffer damage. Your sphere must stay within your destructive blast range or disappear.",
+   "options": []
+  },
+  {
+   "id": "destruction/energy-strike-blast-shape-strike",
+   "name": "Energy Strike",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Shape Talents",
+   "tags": [
+    "blast shape"
+   ],
+   "talentTags": [
+    "strike"
+   ],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#energy-strike-blast-shape-strike",
+   "md": "As a standard action, you may make a single weapon attack in conjunction with making a destructive blast. This casting cannot be reduced below a standard action, and does not provoke attacks of opportunity, unless as usual if making a ranged attack. If the target is struck by the attack, it is also struck by the destructive blast. If using a scatter weapon, the blast only applies to a single target, chosen at the time of attack.",
+   "options": []
+  },
+  {
+   "id": "destruction/energy-tether-blast-shape",
+   "name": "Energy Tether",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Shape Talents",
+   "tags": [
+    "blast shape"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#energy-tether-blast-shape",
+   "md": "You may send out a tendril of energy to bind your foe to you. Make a ranged touch attack against a target within range. If successful, the target suffers your destructive blast damage (Fortitude half). You may concentrate to maintain this tether each round, or may spend a spell point as a free action to allow it to persist for 1 round per caster level without concentration.\n\nEach round a target remains bound by the tether, they suffer its damage (Fortitude half). The tether has 10 hit points plus 2 hit points per caster level, an AC of 5, hardness equal to 1/2 your caster level, and a Break DC equal to the blast’s DC. Neither you nor the tethered target may move further away from each other without first breaking the tether (you may dismiss a tether as a free action) or succeeding on a drag or reposition combat maneuver, pulling the other along with them. If you or the tethered target move closer to each other you may, as a swift action, shorten the tether; the new distance between you becomes the new length of the tether. You may also lengthen the tether as a swift action, but only to your maximum distance. Swarms may not be targeted with this blast shape. You cannot have more than one tether active at any one time; creating a second tether dismisses the first.",
+   "options": []
+  },
+  {
+   "id": "destruction/energy-wall-blast-shape",
+   "name": "Energy Wall",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Shape Talents",
+   "tags": [
+    "blast shape"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#energy-wall-blast-shape",
+   "md": "You may craft your destructive blast into a 5-foot-by-5-foot cubic wall with a duration of concentration, so long as it is fully contained within your destructive blast range. You may spend a spell point to increase this effect and create a wall up to 20 feet high and up to 20 feet wide per caster level in a straight line, or a hemisphere with a radius up to 5 feet per 2 caster levels (minimum 5 feet). If used in either way, the duration increases to 1 round per caster level.\n\nThe wall does not block line of effect, line of sight, projectiles, or thrown objects. Creatures passing through your wall suffer your destructive blast’s damage and effects as normal. Creatures standing in the wall’s space when it is created are allowed a Reflex save to avoid damage.",
+   "options": []
+  },
+  {
+   "id": "destruction/explosive-orb-blast-shape",
+   "name": "Explosive Orb",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Shape Talents",
+   "tags": [
+    "blast shape"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#explosive-orb-blast-shape",
+   "md": "You may transform your destructive blast into a burst effect centered anywhere within range. This destructive blast fills a single 5-foot square (Reflex negates). You may spend a spell point to increase this burst to a radius of up to 10 feet + 5 feet per 5 caster levels (Reflex half).",
+   "options": []
+  },
+  {
+   "id": "destruction/guided-strike-blast-shape",
+   "name": "Guided Strike",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Shape Talents",
+   "tags": [
+    "blast shape"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#guided-strike-blast-shape",
+   "md": "You may spend a spell point to add a +20 circumstance bonus to your destructive blast’s attack roll.",
+   "options": []
+  },
+  {
+   "id": "destruction/knights-blast-blast-shape",
+   "name": "Knight’s Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Shape Talents",
+   "tags": [
+    "blast shape"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#knights-blast-blast-shape",
+   "md": "You may spend a spell point to create a destructive blast which sharply turns. You may create up to a close-range line emanating from yourself but excluding yourself which travels half the total distance again at the end of its length at a 90 degree angle. Creatures in the effect are allowed a Reflex saving throw for half damage.\n\nFor example, you may fire a knight’s blast which travels 40 feet forward, then turns 90 degrees and travels 20 feet left, right, up, or down.\n\n**Special:** If you possess the Energy Leap talent, when you use the Energy Leap blast shape, at the end of your movement, you may spend an additional spell point to move half the total distance traveled again at a 90 degree angle.",
+   "options": []
+  },
+  {
+   "id": "destruction/mutable-blast-blast-shape",
+   "name": "Mutable Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Shape Talents",
+   "tags": [
+    "blast shape"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#mutable-blast-blast-shape",
+   "md": "You may give your destructive blast any array of strange shapes, as you require. Making a mutable blast costs 1 additional spell point. Each time you use Mutable Blast, you create any area you desire out of contiguous 5-foot cubes, up to a maximum of 5 cubes + 1 cube per 2 caster levels. At least one of these cubes must be in a square adjacent to you. All targets in the area are affected by your destructive blast, and can attempt a Reflex save to take half damage.",
+   "options": []
+  },
+  {
+   "id": "destruction/rebuff-blast-shape",
+   "name": "Rebuff",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Shape Talents",
+   "tags": [
+    "blast shape"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#rebuff-blast-shape",
+   "md": "You may use your destructive blast to shield a target within range from ranged weapons, area effects, or even other destructive blasts for 1 round, giving them the benefits of evasion, a +2 cover bonus to AC vs. ranged attacks, and a +1 cover bonus to their Reflex saves. These bonuses increase by +2/+1 respectively for every 5 caster levels you possess.\n\nBy spending a spell point, you may perform a rebuff as an immediate action, or provide the benefits to all targets within 10-foot of you + 5 feet per 5 caster levels. You may spend 2 spell points to gain both of these benefits with the same rebuff.",
+   "options": []
+  },
+  {
+   "id": "destruction/retributive-blast-blast-shape",
+   "name": "Retributive Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Shape Talents",
+   "tags": [
+    "blast shape"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#retributive-blast-blast-shape",
+   "md": "Whenever a creature misses with a melee or melee touch attack against you, you may spend a spell point as an immediate action to affect that creature with a destructive blast. This does not provoke an attack of opportunity, and cannot be combined with Gather Energy or spending a spell point to increase its damage. The creature may attempt a Reflex save to negate the damage. You must be aware of the attack and able to act.",
+   "options": []
+  },
+  {
+   "id": "destruction/sculpt-blast-blast-shape",
+   "name": "Sculpt Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Shape Talents",
+   "tags": [
+    "blast shape"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#sculpt-blast-blast-shape",
+   "md": "You may spend a spell point to create a destructive blast as an area effect, affecting your choice of either a 10-foot radius + 5 feet per 5 caster levels burst, a close-range cone, or a medium-range line, each emanating from yourself but excluding yourself from the effects. You do not need to make any attack roll for area attacks, but creatures in the effect are allowed a Reflex saving throw for half damage. These ranges are not increased by the Extended Range talent or similar effects.",
+   "options": []
+  },
+  {
+   "id": "destruction/acid-blast-blast-type-acid",
+   "name": "Acid Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "acid"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#acid-blast-blast-type-acid",
+   "md": "Your destructive blast deals acid damage. Any creature struck by the attack or that failed their Reflex saving throw if one was required suffers 1 point of acid damage per damage die the following round.",
+   "options": []
+  },
+  {
+   "id": "destruction/adhesive-blast-blast-type-acid",
+   "name": "Adhesive Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "acid"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#adhesive-blast-blast-type-acid",
+   "md": "You transmute your destructive blast into a sticky, acidic sap. Your destructive blast deals acid damage, and any creature struck by the attack or that failed their Reflex saving throw if one was required must succeed at a Reflex save or be entangled and unable to move for 1 round.",
+   "options": []
+  },
+  {
+   "id": "destruction/air-blast-blast-type-air",
+   "name": "Air Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "air"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#air-blast-blast-type-air",
+   "md": "You may change your destructive blast into a blast of air. An air blast deals nonlethal bludgeoning damage. You may make a bull rush as a free action at range against the target or targets struck by your air blast or that failed their Reflex saving throw if one was required. Your CMB for this check is your caster level + your casting ability modifier, and all targets are pushed from the point of origin of the effect. (This is usually yourself, but if using a talent such as Explosive Orb, it would be the center of the blast. If using Energy Wall, each square of wall is considered the center of effect for those who enter that section. If using Guided Strike, you may choose from which direction you want to push the target, even pushing them up or down if you should desire. Pushing a target into the ground knocks them prone if the bull rush is successful.)\n\nIf the target is knocked into a solid object, they suffer 1d6 bludgeoning damage, +1d6 for every 5 feet they would have continued past the barrier. You do not move with the targets of your bull rush.",
+   "options": []
+  },
+  {
+   "id": "destruction/alkali-blast-blast-type-acid",
+   "name": "Alkali Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "acid"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#alkali-blast-blast-type-acid",
+   "md": "Your destructive blast deals acid damage, using d4 instead of d6 as its damage die. You may make a trip attempt as a free action at range against the target or targets struck by your alkali blast or that failed their Reflex saving throw if one was required. Your CMB for this check is equal to your caster level + your casting ability modifier.",
+   "options": []
+  },
+  {
+   "id": "destruction/alternyating-current-blast-type-electricity",
+   "name": "Alternyating Current",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "electricity"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#alternyating-current-blast-type-electricity",
+   "md": "Your destructive blast is a shocking current of latent static electricity built up by cats. An alternyating current blast deals electricity damage. Any creature struck by the attack or that failed their Reflex saving throw if one was required must take a 5-foot step. Affected creatures may take this 5-foot step in any direction they choose. If a creature was forced to take a 5-foot step by this effect, they may not take a 5-foot step during their next turn (but may otherwise move normally). If an affected creature would be forced to take a 5-foot step by this effect and could not, they do not move and cannot take a 5-foot step during their next turn (such as being surrounded by difficult terrain).",
+   "options": []
+  },
+  {
+   "id": "destruction/battering-blast-blast-type-stone",
+   "name": "Battering Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "stone"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#battering-blast-blast-type-stone",
+   "md": "Your destructive blast becomes a hail of smooth stones, dealing bludgeoning damage and using d4 instead of d6 as its damage die. You may make a bull rush as a free action at range against the target or targets struck by the attack or that failed their Reflex saving throw if one was required. Your CMB for this check is equal to your caster level + your casting ability modifier, and all targets are pushed from the point of origin of the effect. (This is usually yourself, but if using a talent such as Explosive Orb, it would be the center of the blast. If using Energy Wall, each square of wall is considered the center of effect for those who enter that section. If using Guided Strike, you may choose from which direction you want to push the target, even pushing them up or down if you should desire. Pushing a target into the ground knocks them prone if the bull rush is successful.)\n\nIf the target is knocked into a solid object, they suffer 1d6 bludgeoning damage, + 1d6 for every 5 feet they would have continued past the barrier. You do not move with the targets of your bull rush.\n\nThis blast ignores spell resistance, spell turning, and can penetrate a globe of invulnerability, antimagic field, or other forms of antimagic, and is not treated as a spell or magical for the purpose of bypassing damage reduction, damaging incorporeal creatures, or for creatures or classes that gain a bonus to saving throws against magic.",
+   "options": []
+  },
+  {
+   "id": "destruction/blinding-blast-blast-type-light",
+   "name": "Blinding Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "light"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#blinding-blast-blast-type-light",
+   "md": "You may spend a spell point to have your destructive blast deal untyped damage. Any creature struck by the attack or that failed their Reflex saving throw if one was required must succeed at a Fortitude save or be blinded for 1 round. The damage die size increases to d8 against undead creatures and any creatures vulnerable to sunlight.",
+   "options": []
+  },
+  {
+   "id": "destruction/blistering-blast-blast-type-fire",
+   "name": "Blistering Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "fire"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#blistering-blast-blast-type-fire",
+   "md": "Your destructive blast deals fire damage. Any creature struck by the attack or that failed their Reflex saving throw if one was required suffers a -2 penalty on Fortitude saves for 1d4 rounds.",
+   "options": []
+  },
+  {
+   "id": "destruction/corrosive-blast-blast-type-acid",
+   "name": "Corrosive Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "acid"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#corrosive-blast-blast-type-acid",
+   "md": "*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*\n\nYou can spend 1 spell point to have your destructive blast deal acid damage. Any creature struck by the attack or that failed their Reflex saving throw (if one was required) must succeed at a Fortitude save or gain bludgeoning, piercing, and slashing weakness equal to 1/2 the number of damage dice of the destructive blast for 1d4 rounds. This weakness is only applied once in an individual attack (so a weapon that deals both piercing and bludgeoning damage only subjects the creature to the highest weakness they possess).\n\n**Rule Reminder—Damage Weakness**\n\n**Rule Reminder—Damage Weakness**\nSome abilities may grant the user or a target a weakness to a certain damage type. Unlike vulnerability, a weakness to a damage type always has a value (fire weakness 3 for example).\n\nWhenever a creature suffers damage with the same type as a weakness that they are suffering from, the damage is increased by the value of the weakness. For example, if you had acid weakness 5 and were about to suffer 16 acid damage, you would instead suffer 21 acid damage.\n\nIf you are suffering from more than one weakness to the same damage type, only the highest is applied. A damage weakness is applied before resistances and vulnerabilities—any ability that would identify or affect a damage vulnerability does the same for a damage weakness.",
+   "options": []
+  },
+  {
+   "id": "destruction/crystal-blast-blast-type-crystal",
+   "name": "Crystal Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "crystal"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#crystal-blast-blast-type-crystal",
+   "md": "Your destructive blast becomes an explosion of crystal, growing where it strikes. A crystal blast uses d4 instead of d6 as its damage die and deals piercing damage. Any creature struck by the attack or that failed their Reflex saving throw if one was required must succeed at a Reflex save or be entangled and unable to move. In addition, the target’s square (or the blast’s affected area) becomes overgrown with crystal and counts as difficult terrain. Breaking free of the entangled condition is a move action, requiring either a Strength check or an Escape Artist check against the crystal blast’s save DC. A target may also destroy the crystal on a square or creature by dealing 3 damage per caster level to the crystal. This removes the entangled condition from the creature and destroys the difficult terrain. Crystal disappears after 1 minute.",
+   "options": []
+  },
+  {
+   "id": "destruction/drenching-blast-blast-type-cold",
+   "name": "Drenching Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "cold"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#drenching-blast-blast-type-cold",
+   "md": "*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*\n\nYour destructive blast deals bludgeoning damage. Any creature struck by the attack or that failed their Reflex saving throw (if one was required) gains cold and electricity weakness equal to 1/2 the number of damage dice of the destructive blast for 1 round.\n\n**Rule Reminder—Damage Weakness**\n\n**Rule Reminder—Damage Weakness**\nSome abilities may grant the user or a target a weakness to a certain damage type. Unlike vulnerability, a weakness to a damage type always has a value (fire weakness 3 for example).\n\nWhenever a creature suffers damage with the same type as a weakness that they are suffering from, the damage is increased by the value of the weakness. For example, if you had acid weakness 5 and were about to suffer 16 acid damage, you would instead suffer 21 acid damage.\n\nIf you are suffering from more than one weakness to the same damage type, only the highest is applied. A damage weakness is applied before resistances and vulnerabilities—any ability that would identify or affect a damage vulnerability does the same for a damage weakness.",
+   "options": []
+  },
+  {
+   "id": "destruction/drowning-blast-blast-type-cold",
+   "name": "Drowning Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "cold"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#drowning-blast-blast-type-cold",
+   "md": "You may spend a spell point to have your destructive blast become a stream of water, pounding your foe, disorienting and choking them. This deals bludgeoning damage and any creature struck by the attack or that failed their Reflex saving throw if one was required are considered wet and must succeed at a Fortitude save or be nauseated for 1 round. The water disappears at the end of your turn, but fires extinguished or creatures soaked by the water continue to be so.",
+   "options": []
+  },
+  {
+   "id": "destruction/electric-blast-blast-type-electricity",
+   "name": "Electric Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "electricity"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#electric-blast-blast-type-electricity",
+   "md": "You may change the damage type of your destructive blast from bludgeoning to electricity. Targets wearing metal armor or primarily comprised of metal suffer a -3 penalty to AC and to saving throws against an electric blast. An electric blast can ignite combustibles, and melt metals with a low melting point, such as lead, gold, copper, silver, or bronze.",
+   "options": []
+  },
+  {
+   "id": "destruction/fire-blast-blast-type-fire",
+   "name": "Fire Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "fire"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#fire-blast-blast-type-fire",
+   "md": "Your destructive blast deals fire damage. Any creature struck by the attack or that failed their Reflex saving throw if one was required must succeed at a Reflex save or catch fire. A burning creature takes 1d6 damage the following round, plus 1d6 per round until the flames are extinguished. Each round the target may attempt another Reflex save to attempt to extinguish the flames. Rolling on the ground or using a blanket to smother the flames (a full-round action) grants the target a +4 bonus to that round’s saving throw.",
+   "options": []
+  },
+  {
+   "id": "destruction/force-blast-blast-type-force",
+   "name": "Force Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "force"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#force-blast-blast-type-force",
+   "md": "You may spend a spell point to change the damage type of your destructive blast to force. Any creature struck by the attack or that failed their Reflex saving throw if one was required must succeed at a Reflex save or fall prone.",
+   "options": []
+  },
+  {
+   "id": "destruction/freezing-blast-blast-type-cold",
+   "name": "Freezing Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "cold"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#freezing-blast-blast-type-cold",
+   "md": "*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*\n\nYour destructive blast deals cold damage. Any creature struck by the attack or that failed their Reflex saving throw (if one was required) must succeed at a Fortitude save or gain bludgeoning and cold weakness equal to 1/2 the number of damage dice of the destructive blast for 1d4 rounds.\n\n**Rule Reminder—Damage Weakness**\n\n**Rule Reminder—Damage Weakness**\nSome abilities may grant the user or a target a weakness to a certain damage type. Unlike vulnerability, a weakness to a damage type always has a value (fire weakness 3 for example).\n\nWhenever a creature suffers damage with the same type as a weakness that they are suffering from, the damage is increased by the value of the weakness. For example, if you had acid weakness 5 and were about to suffer 16 acid damage, you would instead suffer 21 acid damage.\n\nIf you are suffering from more than one weakness to the same damage type, only the highest is applied. A damage weakness is applied before resistances and vulnerabilities—any ability that would identify or affect a damage vulnerability does the same for a damage weakness.",
+   "options": []
+  },
+  {
+   "id": "destruction/frost-blast-blast-type-cold",
+   "name": "Frost Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "cold"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#frost-blast-blast-type-cold",
+   "md": "You may change the damage type of your destructive blast to cold. Any creature struck by the attack or that failed their Reflex saving throw if one was required must succeed at a Fortitude save or be staggered for 1 round.",
+   "options": []
+  },
+  {
+   "id": "destruction/gale-blast-blast-type-air",
+   "name": "Gale Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "air"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#gale-blast-blast-type-air",
+   "md": "You may change your destructive blast into a forceful wind that deals nonlethal bludgeoning damage. You may make a trip combat maneuver as a free action at range against any creature struck by the attack or that failed their Reflex saving throw if one was required. Your CMB for this check is equal to your caster level + your casting ability modifier. If this check fails, you are not tripped in return.",
+   "options": []
+  },
+  {
+   "id": "destruction/gloom-blast-blast-type-negative",
+   "name": "Gloom Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "negative"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#gloom-blast-blast-type-negative",
+   "md": "Your destructive blast deals negative energy damage. Any creature struck by the attack or that failed their Reflex saving throw if one was required must succeed at a Fortitude save or be sickened for 1 round. Undead creatures take no damage, but are instead blinded for 1 round on a failed Fortitude save. This bypasses the immunities of the undead type.",
+   "options": []
+  },
+  {
+   "id": "destruction/gore-blast-blast-type-negative",
+   "name": "Gore Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "negative"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#gore-blast-blast-type-negative",
+   "md": "Your destructive blast spews forward a torrent of flesh, organs, blood and other bodily fluids. A gore blast deals bludgeoning damage, but ignores spell resistance, spell turning, and can penetrate a globe of invulnerability, antimagic field, or other forms of antimagic, and is not treated as a spell or magical for the purpose of bypassing damage reduction, damaging incorporeal creatures or for creatures or classes that gain a bonus to saving throws against magic. Creatures struck by your gore blast or that fail their Reflex saving throw if one was required suffer a -1 penalty to Fortitude saves for 1d4 rounds. This penalty increases to -3 against saves made against diseases or poisons.",
+   "options": []
+  },
+  {
+   "id": "destruction/hurricane-blast-blast-type-air",
+   "name": "Hurricane Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "air"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#hurricane-blast-blast-type-air",
+   "md": "You may spend a spell point to change your destructive blast into swirling winds that swirls around the target, dealing nonlethal bludgeoning damage. The target suffers a penalty to ranged attacks and Fly checks equal to 1/2 your caster level for 1d4 rounds.",
+   "options": []
+  },
+  {
+   "id": "destruction/incandescent-blast-blast-type-light",
+   "name": "Incandescent Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "light"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#incandescent-blast-blast-type-light",
+   "md": "Your destructive blast deals untyped damage using d4 instead of d6 as its damage die and any creature struck by the attack or that failed their Reflex saving throw if one was required suffers a -2 penalty on Perception checks and Will saves for 1d4 rounds. The damage die size increases to d8 against undead creatures and any creatures vulnerable to sunlight.",
+   "options": []
+  },
+  {
+   "id": "destruction/invigorating-blast-blast-type-force",
+   "name": "Invigorating Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "force"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#invigorating-blast-blast-type-force",
+   "md": "You may spend a spell point to have your destructive blast deal positive energy damage to non-living creatures using d4 instead of d6 as its damage die. Living creatures instead of taking damage gain an equal number of temporary hit points (which cannot exceed their maximum hit points) which last for 1 hour, but also must succeed at a Fortitude save or become dazed for 1 round.",
+   "options": []
+  },
+  {
+   "id": "destruction/living-crystal-blast-blast-type-crystal",
+   "name": "Living Crystal Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "crystal"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#living-crystal-blast-blast-type-crystal",
+   "md": "You may spend a spell point to create a living crystal blast, covering the target and their space in a mass of ever shifting and clinging crystals. Your destructive blast deals piercing damage. Any creature struck by the attack or that failed their Reflex saving throw if one was required must succeed at a Reflex save or be entangled and unable to move.\n\nIn addition, the target’s square (or the blast’s affected area) becomes overgrown with living crystal. Any creature entering an affected square must succeed at a Reflex save or become entangled and unable to move. Breaking free of the entangled condition is a move action, requiring either a Strength check or an Escape Artist check against the living crystal blast’s save DC. A target may also destroy the crystal on a creature by dealing 3 damage per caster level to the crystal. This removes the entangled condition from the creature. The crystal disappears after 1 minute.",
+   "options": []
+  },
+  {
+   "id": "destruction/mana-siphon-blast-type-force",
+   "name": "Mana Siphon",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "force"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#mana-siphon-blast-type-force",
+   "md": "You may cause your destructive blast to sap the magic energy from your target, funneling it to you. A mana siphon does nonlethal force damage using d4 instead of d6 as its damage die and any creature struck by the attack or that failed their Reflex saving throw if one was required must succeed at a Fortitude save or lose 1 spell point. This loss increases by one die size (1d2, 1d3, 1d4, 1d6, etc.) for every five caster levels. You gain an equal number of temporary spell points that last for one round per caster level, though you cannot receive more spell points than your target loses. These temporary spell points do not stack with spell points from other targets, other instances of this ability, or any other source.",
+   "options": []
+  },
+  {
+   "id": "destruction/nether-blast-blast-type-negative",
+   "name": "Nether Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "negative"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#nether-blast-blast-type-negative",
+   "md": "You may change the damage type of your destructive blast to negative energy. Any creature struck by the attack or that failed their Reflex saving throw if one was required must succeed at a Will saving throw or be shaken for 1 round. A nether blast does not damage undead; instead, the undead must succeed at a Will save or become frightened for 1 round. This bypasses the immunities of the undead type.",
+   "options": []
+  },
+  {
+   "id": "destruction/numbing-blast-blast-type-cold",
+   "name": "Numbing Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "cold"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#numbing-blast-blast-type-cold",
+   "md": "Your destructive blast deals cold damage. Any creature struck by the attack or that failed their Reflex saving throw if one was required suffers a -2 penalty on Reflex saves for 1d4 rounds.",
+   "options": []
+  },
+  {
+   "id": "destruction/paradigm-blast-blast-type-holy",
+   "name": "Paradigm Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "holy"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#paradigm-blast-blast-type-holy",
+   "md": "If you are of lawful alignment, you may spend a spell point to make your destructive blast deal axiomatic damage. If you are of chaotic alignment, you may spend a spell point to have your destructive blast deal anarchic damage. You cannot use this blast type if you are of neither alignment.\n\n**Note:** Axiomatic damage comes from attacks that are heavily infused with the power of sheer law and carry this orderly power over as a form of harmful energy to chaos-aligned beings. Axiomatic damage deals full damage to incorporeal targets, and deals damage as if the weapon were law-aligned. As it is not a weapon damage type, it automatically bypasses all damage reduction.\n\nAnarchic damage comes from attacks that are heavily infused with the power of sheer chaos and carry this disorderly power over as a form of harmful energy to law-aligned beings. Anarchic damage deals full damage to incorporeal targets and deals damage as if the weapon were chaos-aligned. As it is not a weapon damage type, it automatically bypasses all damage reduction.",
+   "options": []
+  },
+  {
+   "id": "destruction/radiant-blast-blast-type-light",
+   "name": "Radiant Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "light"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#radiant-blast-blast-type-light",
+   "md": "Your destructive blast deals untyped damage, and uses d4 instead of d6 as its damage die. Any creature struck by the attack or that failed their Reflex saving throw if one was required must succeed at a Fortitude save or treat all creatures as if they had concealment (20%) for 1 round. This bypasses the immunities of the undead type. The damage die size increases to d8 against undead creatures and any creatures vulnerable to sunlight.",
+   "options": []
+  },
+  {
+   "id": "destruction/razor-blast-blast-type-crystal",
+   "name": "Razor Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "crystal"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#razor-blast-blast-type-crystal",
+   "md": "You craft your destructive blast into a series of jagged crystal shards, dealing slashing damage and using d4 instead of d6 as its damage die. Any creature struck by the attack or that failed their Reflex saving throw if one was required must succeed at a Reflex save or have its movement speed reduced in half until 24 hours pass, or it receives at least 1 point of fast healing/magical healing/regeneration. This effect may also be healed as a caltrop wound. In addition, every space affected by the razor blast becomes covered in jagged crystals. Any creature who moves over such a space must succeed at a Reflex save or suffer 1 point of damage and have its speed reduced by half, as detailed above.\n\nA charging or running creature must immediately stop if it fails this saving throw. Any creature moving at half speed or slower can pick its way through the area with no trouble. A creature need only attempt one saving throw per round to avoid this effect, no matter how many affected spaces they cross over that round. Crystals can also be destroyed by dealing 1 point of damage per caster level to the crystal in a particular space. Crystal also disappears after 1 minute.",
+   "options": []
+  },
+  {
+   "id": "destruction/resonating-blast-blast-type-sonic",
+   "name": "Resonating Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "sonic"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#resonating-blast-blast-type-sonic",
+   "md": "*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*\n\nYou can spend 1 spell point to have your destructive blast deal sonic damage. A resonating blast uses d4s instead of d6s. The blast does full damage to objects, and causes any objects that are damaged by it to become resonant for 1d4+1 rounds. While resonant, the object’s hardness is reduced by your caster level, and it no longer halves energy damage dealt to it.",
+   "options": []
+  },
+  {
+   "id": "destruction/reverberating-blast-blast-type-sonic",
+   "name": "Reverberating Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "sonic"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#reverberating-blast-blast-type-sonic",
+   "md": "You may spend a spell point to make your destructive blast become a thundering sonic boom, dealing sonic damage. Any creature struck by the attack or that failed their Reflex saving throw if one was required must succeed at a Fortitude save or suffer a penalty to concentration checks and all mental skill checks equal to 1/2 your caster level for 1d4 rounds.",
+   "options": []
+  },
+  {
+   "id": "destruction/searing-blast-blast-type-fire",
+   "name": "Searing Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "fire"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#searing-blast-blast-type-fire",
+   "md": "Your destructive blast deals fire damage using d8 instead of d6 as its damage die.",
+   "options": []
+  },
+  {
+   "id": "destruction/shattering-blast-blast-type-sonic",
+   "name": "Shattering Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "sonic"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#shattering-blast-blast-type-sonic",
+   "md": "Your destructive blast becomes a sonic lance, shattering whatever it strikes. A shattering blast uses d4 instead of d6 as its damage die and deals sonic damage. The blast does full damage to objects and ignores up to half your caster level in hardness.",
+   "options": []
+  },
+  {
+   "id": "destruction/shock-blast-blast-type-electricity",
+   "name": "Shock Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "electricity"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#shock-blast-blast-type-electricity",
+   "md": "You may spend a spell point to have your destructive blast deal electricity damage. A shock blast uses d4 instead of d6 as its damage die. Any creature struck by the attack or that failed their Reflex saving throw if one was required must succeed at a Fortitude save or be dazed for 1 round.",
+   "options": []
+  },
+  {
+   "id": "destruction/shrapnel-blast-blast-type-stone",
+   "name": "Shrapnel Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "stone"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#shrapnel-blast-blast-type-stone",
+   "md": "Your destructive blast becomes a stream of jagged blades, dealing slashing damage, and using d4 instead of d6 as its damage die. Any creature struck by the attack or that failed their Reflex saving throw if one was required suffers bleed damage equal to 1/2 the number of damage die rolled (minimum 1). The blast ignores spell resistance, spell turning, and can penetrate a globe of invulnerability, antimagic field, or other forms of antimagic, and is not treated as a spell or magical for the purpose of bypassing damage reduction, damaging incorporeal creatures, or for creatures or classes that gain a bonus to saving throws against magic. These blades disappear after 1 minute.",
+   "options": []
+  },
+  {
+   "id": "destruction/smiting-blast-blast-type-holy",
+   "name": "Smiting Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "holy"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#smiting-blast-blast-type-holy",
+   "md": "If you are of good alignment, you may spend a spell point to make your destructive blast deal sacred damage. If you are of evil alignment, you may spend a spell point to have your destructive blast deal profane damage. You cannot use this blast type if you are of neither alignment.\n\n**Note:** Sacred damage comes from attacks that are heavily infused with the power of sheer good and carry this holy power over as a form of harmful energy to evil-aligned beings. Sacred damage deals full damage to incorporeal targets, and deals damage as if the weapon were good-aligned. As it is not a weapon damage type, it automatically bypasses all damage reduction.\n\nProfane damage comes from attacks that are heavily infused with the power of sheer evil and carry this unholy power over as a form of harmful energy to good-aligned beings. Profane damage deals full damage to incorporeal targets and deals damage as if the weapon were evil-aligned. As it is not a weapon damage type, it automatically bypasses all damage reduction.",
+   "options": []
+  },
+  {
+   "id": "destruction/static-blast-blast-type-electricity",
+   "name": "Static Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "electricity"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#static-blast-blast-type-electricity",
+   "md": "You may spend a spell point to have your destructive blast deal electricity damage. You may make a disarm attempt at range against any creature struck by the attack or that failed their Reflex saving throw if one was required. Your CMB for this check is equal to your caster level + your casting ability modifier. You receive a +4 bonus on this check against any target that is wielding a metal weapon.",
+   "options": []
+  },
+  {
+   "id": "destruction/stone-blast-blast-type-stone",
+   "name": "Stone Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "stone"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#stone-blast-blast-type-stone",
+   "md": "You may change the damage type of your destructive blast to slashing, piercing, and bludgeoning. A stone blast ignores spell resistance, spell turning, and can penetrate a globe of invulnerability, antimagic field, or other forms of antimagic, and is not treated as a spell or magical for the purpose of bypassing damage reduction, damaging incorporeal creatures, or for creatures or classes that gain a bonus to saving throws against magic. These stones disappear after 1 minute.",
+   "options": []
+  },
+  {
+   "id": "destruction/sweltering-blast-blast-type-fire",
+   "name": "Sweltering Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "fire"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#sweltering-blast-blast-type-fire",
+   "md": "*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*\n\nYour destructive blast deals fire damage. Any creature struck by the attack or that failed their Reflex saving throw (if one was required) must succeed at a Fortitude save or gain fire and nonlethal weakness equal to 1/2 the number of damage dice of the destructive blast for 1d4 rounds.\n\n**Rule Reminder—Damage Weakness**\n\n**Rule Reminder—Damage Weakness**\nSome abilities may grant the user or a target a weakness to a certain damage type. Unlike vulnerability, a weakness to a damage type always has a value (fire weakness 3 for example).\n\nWhenever a creature suffers damage with the same type as a weakness that they are suffering from, the damage is increased by the value of the weakness. For example, if you had acid weakness 5 and were about to suffer 16 acid damage, you would instead suffer 21 acid damage.\n\nIf you are suffering from more than one weakness to the same damage type, only the highest is applied. A damage weakness is applied before resistances and vulnerabilities—any ability that would identify or affect a damage vulnerability does the same for a damage weakness.",
+   "options": []
+  },
+  {
+   "id": "destruction/tenebrous-blast-blast-type-negative",
+   "name": "Tenebrous Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "negative"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#tenebrous-blast-blast-type-negative",
+   "md": "Your destructive blast deals negative energy damage. Any creature struck by the attack or that failed their Reflex saving throw if one was required suffers a -2 penalty on attack rolls for 1d4 rounds. Undead creatures take no damage, but are instead sickened for 1 round. This bypasses the immunities of the undead type.",
+   "options": []
+  },
+  {
+   "id": "destruction/thunder-blast-blast-type-sonic",
+   "name": "Thunder Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "sonic"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#thunder-blast-blast-type-sonic",
+   "md": "You may change the damage type of your destructive blast to sonic. Targets who take damage from your thunder blast must succeed at a Fortitude saving throw or be deafened for 2d4 rounds.",
+   "options": []
+  },
+  {
+   "id": "destruction/vacuum-blast-blast-type-air",
+   "name": "Vacuum Blast",
+   "kind": "talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Blast Type Talents",
+   "tags": [
+    "blast type",
+    "air"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#vacuum-blast-blast-type-air",
+   "md": "*Source: [Spheres Apocrypha: Battlefield Manipulation Talents](https://www.drivethrurpg.com/product/350940/Spheres-Apocrypha-Battlefield-Manipulation-Talents?affiliate_id=549120)*\n\nYour destructive blast creates a pocket of empty space that pulls things in, dealing bludgeoning damage. You may make a drag combat maneuver as a free action at range against any creature struck by the attack or that failed their Reflex saving throw if one was required. Your CMB for this check is your caster level + your casting ability modifier, and all targets are dragged towards the point of origin of the effect. You do not move with the targets of your drag.\n\nTargets are typically dragged towards the caster, but if using a talent such as Explosive Orb, the point of origin is the center of the blast. If using Energy Wall, each square of wall is considered the point of origin for those who enter that section. If using Guided Strike, you may choose which direction to pull the target, even pushing them up or down. A target pulled into the ground, or a horizontal surface, is knocked prone if they would have continued past the surface.\n\nIf the target is knocked into a solid object, they suffer 1d6 bludgeoning damage, +1d6 for every 5 feet they would have continued past the solid object.\n\nGaseous creatures are considered vulnerable to the damage dealt by this blast.",
+   "options": []
+  },
+  {
+   "id": "destruction/blast-array",
+   "name": "Blast Array",
+   "kind": "advanced talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Advanced Destruction Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Admixture, Blast Salvo (blast shape), Greater Admixture (advanced), Split Blast (advanced)), caster level 10th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#blast-array",
+   "md": "**Prerequisites:** Destruction sphere (Admixture, Blast Salvo (blast shape), Greater Admixture (advanced), Split Blast (advanced)), caster level 10th.\n\nWhen you use Admixture or Greater Admixture in conjunction with this talent to fire a blast salvo, you may spend 1 additional spell point to cause each surge fired as part of the blast salvo to use a different blast type or Admixture feat for the purpose of determining its effects (as with the Split Blast talent, any surge which applies the effect of a sphere besides the Destruction sphere may deal no damage at the caster’s discretion). A target is only affected by non-damage effects and non-destruction sphere-effects on the first three surges to strike them as part of a blast salvo (for example, if a ghost strike admixture surge and a Frost Blast surge were both to strike the same target which has already been struck by two surges, said target would only have to save against either the stagger effect of Frost Blast or the effects of the ghost strike).\n\nWhen using this talent, you do not need to pay additional spell points for using Admixture feats beyond the cost of the effect that they are applying (such as a ghost strike which may cost 1 or more spell points on its own).\n\nWhen using Greater Admixture in conjunction with this talent to fire a blast salvo in which each surge only carries a single blast type, you may spend 2 spell points to fire one additional surge plus another per two caster levels rather than per six caster levels.",
+   "options": []
+  },
+  {
+   "id": "destruction/calamity-blast-shape",
+   "name": "Calamity",
+   "kind": "advanced talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Advanced Destruction Talents",
+   "tags": [
+    "blast shape"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Explosive Orb (blast shape) or Sculpt Blast (blast shape)), caster level 10th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#calamity-blast-shape",
+   "md": "**Prerequisites:** Destruction sphere (Explosive Orb (blast shape) or Sculpt Blast (blast shape)), caster level 10th.\n\nWhen creating a destructive blast, you may spend 2 spell points to shape your destructive blast into a vast shape. If you possess Explosive Orb, you may create a close range-radius burst centered within range. If you possess Sculpt Blast, you may create either a long-range line, a medium-range cone, or a close-radius burst centered on yourself. All targets are allowed a Reflex save for half damage.",
+   "options": []
+  },
+  {
+   "id": "destruction/conflagrant-cluster",
+   "name": "Conflagrant Cluster",
+   "kind": "advanced talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Advanced Destruction Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere, caster level 5th",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#conflagrant-cluster",
+   "md": "**Prerequisites:** Destruction sphere, caster level 5th\n\nWhenever you would roll the listed amount and size of dice using a destructive blast, you may roll the corresponding dice on Table: Conflagrant Cluster Variant Dice. You do not need to replace all of the dice used in the destructive blast with their alternatives and may make multiple substitutions as part of a single destructive blast (for example, when making a destructive blast that deals 16d6 damage, you may have it deal 4d24+1d14+2d6 damage). Effects that modify a destructive blast based on the number of dice rolled use the new number of dice rolled (so a focused blast using the above layout of dice would only deal +7 damage).\nYou may take this talent a second time, in which case you may select from an additional variety of Alternative Dice\n\n**Table: Conflagrant Cluster Variant Dice**\n\n| Normal Dice | Alternative Die | Alternative Die (if taken second time) |\n| --- | --- | --- |\n| 2d4 | 1d10 | 1d12 |\n| 2d6 | 1d14 | 1d16 |\n| 3d4 | 1d16 or 2d7 | - |\n| 2d8 | 1d20 | 1d24 |\n| 4d4 | 1d20 | 1d24 |\n| 3d6 | 1d24 | 2d12 |\n| 3d8 | 1d30 | 2d16 |\n| 4d6 | 1d30 | 3d10 |\n| 6d8 | 1d60 or 5d10 | - |\n| 8d4 | 7d5 | - |\n| 11d4 | 1d60 | 6d14 |\n| 8d6 | 1d60 | - |\n| 10d6 | 9d7 | - |\n| 12d6 | - | 5d20 |\n| 18d4 | 1d100 | 4d30 |\n| 13d6 | 1d100 | - |\n| 10d8 | 1d100 | - |\n\n*Source: Card Casting 3: Volatile Variance*",
+   "options": []
+  },
+  {
+   "id": "destruction/crystal-cocoon",
+   "name": "Crystal Cocoon",
+   "kind": "advanced talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Advanced Destruction Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (any two (blast type) talents in the crystal blast type group including either Crystal Blast or Living Crystal Blast), caster level 10th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#crystal-cocoon",
+   "md": "**Prerequisites:** Destruction sphere (any two (blast type) talents in the crystal blast type group including either Crystal Blast or Living Crystal Blast), caster level 10th.\n\nWhen using the Crystal Blast or Living Crystal Blast talent, you may spend an extra spell point to fully encase your targets in a shell of crystal. Targets that fail their Reflex saves against your destructive blast are helpless and cannot take physical actions other than to attempt Strength or Escape Artist checks to escape the crystal, but can still breathe and take purely mental actions. The crystal blocks line of sight and line of effect to and from the encased target. Destroying the cocoon frees the victim, the crystal having hit points as normal for the Crystal Blast and Living Crystal Blast talent.",
+   "options": []
+  },
+  {
+   "id": "destruction/disintegrate-blast-type",
+   "name": "Disintegrate",
+   "kind": "advanced talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Advanced Destruction Talents",
+   "tags": [
+    "blast type"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere, caster level 5th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#disintegrate-blast-type",
+   "md": "**Prerequisites:** Destruction sphere, caster level 5th.\n\nYou may spend a spell point to have your destructive blast deal untyped damage. Any creature reduced to 0 or fewer hit points is entirely disintegrated, leaving behind only a trace of fine dust. A disintegrated creature’s equipment is unaffected. This blast type does full damage to objects and ignores all hardness, energy resistance, and energy immunity.\n\nWhen targeting a single object, the destructive blast simply disintegrates as much as a 10-foot cube of nonliving matter. Thus, it disintegrates only part of any very large object or structure targeted. Attended objects may attempt a Fortitude save to negate this effect, but still take destructive blast damage.\n\nThe destructive blast affects even objects constructed entirely of force, but not magical effects such as a globe of invulnerability, an antimagic field, or a barrier from the Protection sphere.",
+   "options": []
+  },
+  {
+   "id": "destruction/energy-cloud-blast-shape",
+   "name": "Energy Cloud",
+   "kind": "advanced talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Advanced Destruction Talents",
+   "tags": [
+    "blast shape"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere, caster level 10th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#energy-cloud-blast-shape",
+   "md": "**Prerequisites:** Destruction sphere, caster level 10th.\n\nYou may spend three spell points to make your destructive blast into a roiling cloud of destruction. The cloud covers a 10-foot + 5 feet per 5 caster levels radius, is 10-foot + 5 feet per 5 caster levels tall, and is stationary unless directed by the caster to move as a move action, which it does at a rate of 20-foot + 5 feet per 2 caster levels and persists for 1 minute per caster level. The cloud obscures vision as the fog cloud spell. Any creatures who begin their turn inside the cloud suffers your destructive blast damage. Affected creatures are allowed a Fortitude saving throw for half damage. You are immune to damage from your own cloud.",
+   "options": []
+  },
+  {
+   "id": "destruction/erratic-blast-blast-type",
+   "name": "Erratic Blast",
+   "kind": "advanced talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Advanced Destruction Talents",
+   "tags": [
+    "blast type"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#erratic-blast-blast-type",
+   "md": "**Prerequisite:** Destruction sphere.\n\nWhen you gain this blast type, select 6, 8, 10, 12, or 20 blast type talents, no more than one being from each blast type group (you may only select 20 if you possess Admixture feats, see below). You do not need to possess these blast type talents but must meet the prerequisites for any advanced blast type talents selected with this ability. Assign each of these blast types a single number which could be rolled on a d6, d8, d10, d12, or d20 with the die used corresponding to the number of talents you have selected (a d6 if you selected 6, etc.).\n\nWhen you use Erratic Blast, after deciding on your target(s) but before rolling attack rolls or saves, roll a die corresponding to the number of talents selected. Use the talent corresponding to the die roll result to determine the damage die, damage type and additional effects (including feats or class abilities such as Fan The Flames, Frozen To The Bone or elementalist’s favored element) to determine the effects of the destructive blast on the target(s). Erratic Blast costs a number of spell points equal to the greatest spell point cost of the blast types selected.\n\nIf you possess the Admixture talent, you may choose to make the maximum possible value of the die (8 for a d8, for an example) be an admixture of two other blast types which you have selected for the talent. Roll twice more on the table, ignoring any repeat rolls or any further maximum rolls. The next two results rolled are used together as an admixture at no increased spell point cost. If you have the Greater Admixture talent, you instead roll three times and use the next three results rolled for the admixture. You cannot use the Admixture talent with an Erratic Blast.\n\nIf you possess any Admixture feats, you may select any effects that you could apply to an admixture (such as ghost strikes if you possess Ghostly Admixture). As with (blast type) talents, you need not possess these talents but must meet their prerequisites.\n\nIf these abilities have variable spell point costs, determine the number of spell points you would spend on each of these effects when you select them as blast types for this talent (for example, you may choose to have your Lich Strike have an effective spell point cost of 1 or 3 for the purpose of determining the cost of an Erratic Blast which incorporates it, with the ghost strike having different effects corresponding to the number of spell points spent).\n\nYou can change the blast types or admixture effects selected with this talent whenever you level up.\n\nFor example, Astore is an elementalist with the Admixture talent. He creates the following table to determine the effect of his destructive blast whenever he uses it. As none of the blast types he has selected cost additional spell points, he does not need to spend additional spell points to use Erratic Blast.\n\n**Table: Astore’s Erratic Blast**\n\n| D6 result | Blast type |\n| --- | --- |\n| 1 | Nether Blast |\n| 2 | Acid Blast |\n| 3 | Crystal Blast |\n| 4 | Electric Blast |\n| 5 | Searing Blast |\n| 6 | Roll twice and admixture both blast types, rerolling any further results of 6 |\n\n**Addendum:** You may select 5, 7, 12, 14, 16, 24, or 30 blast type talents with your erratic blast, rolling dice appropriate to the number of talents chosen and abiding by the normal restrictions.\n\n*Source: Card Casting 3: Volatile Variance*",
+   "options": []
+  },
+  {
+   "id": "destruction/extreme-range",
+   "name": "Extreme Range",
+   "kind": "advanced talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Advanced Destruction Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Extended Range [range] x2), caster level 5th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#extreme-range",
+   "md": "**Prerequisites:** Destruction sphere (Extended Range [range] x2), caster level 5th.\n\nYour destructive blast has a range of 1,000 feet + 100 feet per caster level. Destructive blasts outside of your long range but inside this range can only target squares or large objects (ones the occupy more than one square), not individual creatures and take effect one round after being used.",
+   "options": []
+  },
+  {
+   "id": "destruction/grandmaster",
+   "name": "Grandmaster",
+   "kind": "advanced talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Advanced Destruction Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Knight’s Blast (blast shape)).",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#grandmaster",
+   "md": "**Prerequisites:** Destruction sphere (Knight’s Blast (blast shape)).\n\nWhen using the Knight’s Blast blast shape, instead of firing a straight line with a single 90 degree turn, you may instead change direction up to 90 degrees a number of times equal to your caster level provided that the total distance traveled is not greater than close-range plus half the distance.",
+   "options": []
+  },
+  {
+   "id": "destruction/greater-admixture",
+   "name": "Greater Admixture",
+   "kind": "advanced talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Advanced Destruction Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Admixture), caster level 5th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#greater-admixture",
+   "md": "**Prerequisites:** Destruction sphere (Admixture), caster level 5th.\n\nWhen using the Admixture talent, you may spend an additional spell point to add a third (blast type) talent. The damage dealt is split between the three blast types and the additional effects from each blast type apply normally. If different damage die apply to the different types, use the largest. If the blast types have different caster levels, then use the lowest caster level for determining the Admixtured destructive blast’s caster level.\n\n**Special:** You do not increase the casting time or spend an additional spell point when using the admixture talent with blast types from the same blast type group. The additional spell point cost of Greater Admixture still applies. This can be used to apply two Admixture feats to a single destructive blast.",
+   "options": []
+  },
+  {
+   "id": "destruction/magnifying-blast-blast-type",
+   "name": "Magnifying Blast",
+   "kind": "advanced talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Advanced Destruction Talents",
+   "tags": [
+    "blast type"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Energy Strike [strike])",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#magnifying-blast-blast-type",
+   "md": "*Source: [Expanded Spheres: Weaves of War](https://www.drivethrurpg.com/en/product/482352/expanded-spheres-weaves-of-war=3028400)*\n\n**Prerequisites:** Destruction sphere (Energy Strike [strike])\n\nYou may only use this blast type in conjunction with the energy strike blast shape. The blast deals damage of one or more types that the attack corresponding with energy strike deals, chosen when the attack is made. Add the damage of the attack and the destructive blast together before applying DR and energy resistance. This blast cannot deal ability damage.\n\nThis blast ignores spell resistance, spell turning, and can penetrate a globe of invulnerability, antimagic field, or other forms of antimagic, and is not treated as a spell or magical for the purpose of bypassing damage reduction, damaging incorporeal creatures, or for creatures or classes that gain a bonus to saving throws against magic unless the corresponding weapon is considered any of those things.\n\nMagnifying blast counts as its own blast type group for the purpose of abilities which select a specific blast type group.",
+   "options": []
+  },
+  {
+   "id": "destruction/penetrating-blast",
+   "name": "Penetrating Blast",
+   "kind": "advanced talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Advanced Destruction Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere, caster level 5th.",
+   "source": "Expanded Spheres: Weaves of War",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#penetrating-blast",
+   "md": "**Prerequisites:** Destruction sphere, caster level 5th.\n\nYour destructive blast ignores energy resistance equal to your caster level. You may spend a spell point to increase this effect to become twice your caster level. If a creature has immunity to your destructive blast’s damage type, treat that immunity as if it were ‘resistance 40’ instead of ‘immunity’ and calculate as normal.",
+   "options": []
+  },
+  {
+   "id": "destruction/radiation-blast-blast-type-fire-light",
+   "name": "Radiation Blast",
+   "kind": "advanced talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Advanced Destruction Talents",
+   "tags": [
+    "blast type",
+    "fire",
+    "light"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (any two (blast type) talents in the fire blast type group), caster level 5th.",
+   "source": "Expanded Spheres: Weaves of War",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#radiation-blast-blast-type-fire-light",
+   "md": "**Prerequisites:** Destruction sphere (any two (blast type) talents in the fire blast type group), caster level 5th.\n\nYou may spend two additional spell points to have your destructive blast do half fire and half untyped damage. Any creature damaged by the attack must succeed at a Fortitude save with your destructive blast’s DC or suffer the effects of low radiation.\n\nA creature suffering from radiation instead must succeed at a Fortitude save with your destructive blast’s DC or have the level of radiation increased by one step, inflicting the new levels primary effect. This effect stacks with the effects of lower radiation levels. Saves against the secondary effects of the radiation are made at their normal save DCs. The target’s square (or the destructive blast’s affected area) becomes irradiated for 1 minute per caster level. Any creature passing through an irradiated square must succeed at a Fortitude save DC 14 or be affected by low radiation.\n\n**Radiation**\nRadiation is a poison effect, whose initial effect causes Constitution drain and secondary effect causes Strength damage. Radiation dangers are organized into four categories: low, medium, high, and severe.\n\n| Radiation Level | Fort Save | Primary Effect | Secondary Effect |\n| --- | --- | --- | --- |\n| Low | 13 | 1 Con drain | 1 Str damage/day |\n| Medium | 17 | 1d4 Con drain | 1d4 Str damage/day |\n| High | 22 | 2d4 Con drain | 1d6 Str damage/day |\n| Severe | 30 | 4d6 Con drain | 2d6 Str damage/day |\n\nPathfinder Campaign Setting: Technology Guide © 2014, Paizo Inc.; Authors: James Jacobs and Russ Taylor.\n\n**Initial Effect:** Radiation initially deals Constitution drain unless the exposed character succeeds at a Fortitude saving throw. A new saving throw must be attempted to resist radiation’s initial damage each round a victim remains exposed to it.\n\n**Secondary Effect:** Secondary effects from radiation deal Strength damage at a much slower rate than most poisons. This secondary effect ends only after a character succeeds at two consecutive Fortitude saving throws to resist secondary radiation damage. If a character has Strength damage equal to his current Strength score, further damage dealt a secondary effect is instead Constitution damage.\n\n**Removing Radiation Effects:** All radiation damage is a poison effect, and as such it can be removed with any effect that neutralizes poison. Ability damage and drain caused by radiation damage can be healed normally.",
+   "options": []
+  },
+  {
+   "id": "destruction/split-blast",
+   "name": "Split Blast",
+   "kind": "advanced talent",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Advanced Destruction Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Admixture, Blast Salvo (blast shape)).",
+   "source": "Expanded Spheres: Weaves of War",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#split-blast",
+   "md": "**Prerequisites:** Destruction sphere (Admixture, Blast Salvo (blast shape)).\n\nWhen you use Admixture in conjunction with the Blast Salvo blast shape, you may cause some of the surges to use one blast type used in the Admixture while other surges use the other blast type. For example, a character who uses Admixture with Fire Blast and Numbing Blast talents could fire one surge that deals fire damage and causes a target to catch on fire as well as a second surge that deals cold damage and causes the target to take a penalty on Fortitude saves.\n\nThis talent may be used in conjunction with Admixture feats, in which case any surge which applies the effect of a sphere besides the Destruction sphere may either deal bludgeoning damage as a basic destructive blast with no blast type or deal no damage but count as a surge of 1 die (chosen when the surge is fired).\n\nWhen using Admixture in conjunction with this talent to fire a blast salvo in which each surge only carries a single blast type, you may spend 2 spell points to fire one additional surge plus another per three caster levels rather than per six caster levels.",
+   "options": []
+  },
+  {
+   "id": "destruction/arcing-strike-combat",
+   "name": "Arcing Strike",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Guided Strike (blast shape)), caster level 11th.",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#arcing-strike-combat",
+   "md": "**Prerequisites:** Destruction sphere (Guided Strike (blast shape)), caster level 11th.\n\n**Benefit:** You may spend a spell point to make your destructive blast fly in an erratic path, unerringly striking your target no matter what lies between you. Your destructive blast ignores the AC bonus granted to targets by anything less than total cover, and the miss chance granted to targets by anything less than total concealment. Total cover and total concealment provide their normal benefits against your ranged attacks.\n\n**Special:** If you possess the Divination sphere Viewing talent, you can use Arcing Strike to strike any target that you can see that is within range of both your destructive blast and your divination, as long as it is not inside a completely enclosed space (GM’s discretion).",
+   "options": []
+  },
+  {
+   "id": "destruction/atmospheric-imbuement-dual-sphere",
+   "name": "Atmospheric Imbuement",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere, Weather sphere.",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#atmospheric-imbuement-dual-sphere",
+   "md": "**Prerequisites:** Destruction sphere, Weather sphere.\n\n**Benefit:** When using (blast type) talents from the air, electrical, or sonic blast type groups, or any blast type deemed appropriate by the GM, when there is an area of rain and wind both at or above category 4, your destructive blast bypasses spell resistance.",
+   "options": []
+  },
+  {
+   "id": "destruction/channel-destruction-channeling",
+   "name": "Channel Destruction",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Channeling"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere, channel energy class feature.",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#channel-destruction-channeling",
+   "md": "**Prerequisites:** Destruction sphere, channel energy class feature.\n\n**Benefit:** You may imbue your channel energy with a blast type talent. This channeled energy may only be used to harm, but affects all creatures in the area, not just living or undead. The channeled energy does its normal number of damage dice of a die size and damage type corresponding to the chosen blast type. Additional effects apply as usual for the chosen blast type.\n\nIf more than one blast type is known, a different blast type may be selected each time channel energy is used. For example, a 5th level soul weaver with this feat and the Crystal Blast talent could channel energy, dealing 3d4 piercing damage as well as the effects of Crystal Blast in the normal area and with the normal DC of her channel energy. If, for example, she also possesses the Searing Blast talent, the next round she can channel energy, dealing 3d8 fire damage.\n\nIf the (blast type) talent chosen has additional spell point costs, an additional use of channel energy must be used in place of each spell point required. You may spend a spell point to increase the damage to one die per level in the class that grants channel energy that you possess.",
+   "options": []
+  },
+  {
+   "id": "destruction/cooperative-destruction-dual-sphere",
+   "name": "Cooperative Destruction",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Creation sphere (Plasma Production (material), Potent Alteration), Destruction sphere.",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#cooperative-destruction-dual-sphere",
+   "md": "**Prerequisites:** Creation sphere (Plasma Production (material), Potent Alteration), Destruction sphere.\n\n**Benefit:** You may ready an action to assist an allied caster. When an ally within range of your alter uses a destructive blast with a blast type that deals any amount of electric or fire damage you may attempt to Repair the spell effect to increase its power. The caster level of the destructive blast increases by 1 and an additional +1 for every 4 caster levels of the Repair effect. By spending a spell point, you may instead activate this ability as an immediate action.\n\nAdditionally, you may pay a spell point and increase the casting time of your fire or electric destructive blasts by 1 step in order to attempt to strengthen your own destructive blasts following the same method. You may spend two spell points to activate this ability as a swift action instead of increasing the casting time.\n\nIf you possess Acidic Creation, you may also apply this effect to destructive blasts that deal acid damage. Other talents may increase the available damage types at GM discretion.",
+   "options": []
+  },
+  {
+   "id": "destruction/corpse-explosion-dual-sphere",
+   "name": "Corpse Explosion",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Death sphere (Corpse Bomb), Destruction sphere.",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#corpse-explosion-dual-sphere",
+   "md": "You can cause a corpse to explode like a literal bomb.\n\n**Prerequisites:** Death sphere (Corpse Bomb), Destruction sphere.\n\n**Benefit:** You may use a destructive blast to activate your Corpse Bomb talent instead of a ghost strike. Affected targets are allowed a Reflex save for half damage.",
+   "options": []
+  },
+  {
+   "id": "destruction/deadly-targeting-combat",
+   "name": "Deadly Targeting",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere.",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#deadly-targeting-combat",
+   "md": "**Prerequisite:** Destruction sphere.\n\n**Benefit:** The base critical threat range of your destructive blast increases to 19-20.",
+   "options": []
+  },
+  {
+   "id": "destruction/destructive-companion-dual-sphere",
+   "name": "Destructive Companion",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Conjuration sphere (Explosive Companion (form)), Destruction sphere.",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#destructive-companion-dual-sphere",
+   "md": "**Prerequisites:** Conjuration sphere (Explosive Companion (form)), Destruction sphere.\n\n**Benefit:** When you summon a companion that possesses the Explosive Companion (form) talent, you may apply a single (blast type) talent that you possess to that companion. When the explosive companion detonates, it uses the die size and damage type of the (blast type) talent and applies its additional effects as if it were a destructive blast. Any additional spell point costs associated with the chosen (blast type) talent must be paid as part of casting summon.",
+   "options": []
+  },
+  {
+   "id": "destruction/destructive-radiance-dual-sphere",
+   "name": "Destructive Radiance",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere, Light sphere.",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#destructive-radiance-dual-sphere",
+   "md": "**Prerequisites:** Destruction sphere, Light sphere.\n\n**Benefit:** Whenever you use your destructive blast, you can choose to have it take on the properties of light. A destructive blast modified in this way no longer requires line of effect to its targets, but is blocked by factors that affect normal sight (such as concealment). For example, you could fire your destructive blast through a glass window or a barrier, but it would be blocked by opaque walls, fog or darkness.",
+   "options": []
+  },
+  {
+   "id": "destruction/dimensional-tether",
+   "name": "Dimensional Tether",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Destruction Sphere (energy tether) or Mana Sphere (hardened bond)",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#dimensional-tether",
+   "md": "**Prerequisite:** Destruction Sphere (energy tether) or Mana Sphere (hardened bond)\n\n**Benefit:** Any attempt by creatures affected by your energy tether or hardened bond to teleport or cross planes fails unless they succeed at a magical skill check against you.\n\n*Source: Expanded Spheres: Weaves of War*",
+   "options": []
+  },
+  {
+   "id": "destruction/energy-cascade",
+   "name": "Energy Cascade",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Energy Beam (blast shape), Sculpt Blast (blast shape)), caster level 5th.",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#energy-cascade",
+   "md": "*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*\n\n**Prerequisites:** Destruction sphere (Energy Beam (blast shape), Sculpt Blast (blast shape)), caster level 5th.\n\n**Benefit:** Whenever you create or maintain an Energy Beam, you can choose to have the line become a 10-foot cone, + 5 feet per 2 caster levels.\n\n**Special:** If you possess the Calamity advanced talent, you can augment your Energy Beam as if it were the Sculpt Blast blast shape.",
+   "options": []
+  },
+  {
+   "id": "destruction/energy-laser",
+   "name": "Energy Laser",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Energy Beam (blast shape)).",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#energy-laser",
+   "md": "*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*\n**Prerequisites:** Destruction sphere (Energy Beam (blast shape)).\n\n**Benefit:** Whenever you shift an Energy Beam, you can now shift the beam’s end point by up to 25 feet + 5 feet per 2 caster levels, but doing so allows the affected creatures to negate the effects of the destructive blast instead of halving the damage on a successful Reflex saving throw unless you spend an additional spell point when you first create the Energy Beam.\n\nAdditionally, when shifting the beam, you can have it flicker, allowing you to ‘turn off’ the beam for any given 5-foot interval to ignore all creatures within the area, and have it return on the subsequent 5-foot intervals (or otherwise); if you possess the Selective Blast talent, you can instead choose to ignore all allies within the arc.",
+   "options": []
+  },
+  {
+   "id": "destruction/energy-snake-combat",
+   "name": "Energy Snake",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Energy Sphere (blast shape)).",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#energy-snake-combat",
+   "md": "**Prerequisites:** Destruction sphere (Energy Sphere (blast shape)).\n\n**Benefit:** When using the Energy Sphere blast shape, you may spend 1 spell point to form the energy sphere into a serpent, which grows with every target it damages. Whenever the energy sphere successfully deals damage to a target, its size increases by 1 5-foot square. When moving the energy sphere each round, its squares must be arranged contiguously in an arrangement that follows the movement of the ‘head’ of the serpent.",
+   "options": []
+  },
+  {
+   "id": "destruction/fan-the-flame-dual-sphere",
+   "name": "Fan The Flame",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Fire Blast (blast type, fire)), Nature sphere ((fire) package), caster level 3rd.",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#fan-the-flame-dual-sphere",
+   "md": "**Prerequisites:** Destruction sphere (Fire Blast (blast type, fire)), Nature sphere ((fire) package), caster level 3rd.\n\n**Benefit:** When a creature is set on fire by your fire blast, the fire does not deal 1d6 damage the following round, but rather deals damage equal to the largest fire you may affect. This fire reverts to normal after the first round, dealing 1d6 fire damage on subsequent rounds until extinguished, but you may choose to concentrate each round, or spend a spell point once as a free action, to cause the fire to stay at its increased size until extinguished. If your fire blast would cause multiple creatures to catch fire, each target must have the effect of Fan The Flames applied and maintained individually, either by concentration or spending spell points.",
+   "options": []
+  },
+  {
+   "id": "destruction/fear-and-flame-combat",
+   "name": "Fear And Flame",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Fire Blast (blast type, fire)).",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#fear-and-flame-combat",
+   "md": "**Prerequisites:** Destruction sphere (Fire Blast (blast type, fire)).\n\n**Benefit:** When a creature is set on fire by your destructive blast, they must succeed at a Will save each round they remain on fire or become shaken. If shaken, they become frightened. If frightened, they become panicked. A successful save reduces the severity by one step and ending the on fire condition ends the effects of this feat, though not fear conditions from other sources.",
+   "options": []
+  },
+  {
+   "id": "destruction/fissile-creation-dual-sphere",
+   "name": "Fissile Creation",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Creation sphere, Destruction sphere (Explosive Orb (blast shape)).",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#fissile-creation-dual-sphere",
+   "md": "*Source: [Spheres Apocrypha: Battlefield Manipulation Talents](https://www.drivethrurpg.com/product/350940/Spheres-Apocrypha-Battlefield-Manipulation-Talents?affiliate_id=549120)*\n\n**Prerequisites:** Creation sphere, Destruction sphere (Explosive Orb (blast shape)).\n\n**Benefit:** You gain the ability to alter or create objects with highly explosive properties. As part of altering or creating an object, you may spend a spell point to cause any object you alter or create to explode either when it hits a target for the first time (if used to make an attack), when it takes damage for the first time, or when the spell effect ends. This explosion deals damage as your destructive blast with the Explosive Orb shape, and you may treat it as a normal Explosive Orb for any effects, talents or feats interacting with destructive blasts. You may choose whether or not the altered or created object takes damage from the Explosive Orb. The object remains fissile for as long as the alter or create effect lasts. You may only have one fissile creation active at a time, plus an additional fissile creation for every 10 caster levels you possess. If you exceed the limit,\none fissile creation of your choosing ends immediately.\n\nIf two fissile creations explode during the same round, creatures in the overlapped area suffer diminished results from every fissile creation after the first one, dealing only 1d6 additional damage, +1d6 per 5 caster levels for each overlapping creation.",
+   "options": []
+  },
+  {
+   "id": "destruction/flexible-ghost-strike-dual-sphere",
+   "name": "Flexible Ghost Strike",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Death sphere, Destruction sphere (one (blast shape) talent).",
+   "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#flexible-ghost-strike-dual-sphere",
+   "md": "You can make ghost strikes in a variety of configurations.\n\n**Prerequisites:** Death sphere, Destruction sphere (one (blast shape) talent).\n\n**Benefit:** You can apply (blast shape) talents to your ghost strikes as if they were destructive blasts. They still count as a ghost strike for all purposes, and they use your caster level for the Death sphere to determine all parameters (range, area, etc.). If the ghost strike does not allow a saving throw, your target is allowed a Will save to negate its effects.",
+   "options": []
+  },
+  {
+   "id": "destruction/focused-blast-type-group",
+   "name": "Focused Blast Type Group",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere.",
+   "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#focused-blast-type-group",
+   "md": "**Prerequisite:** Destruction sphere.\n\n**Benefit:** Choose one blast type group. Treat your caster level as 1 higher for this blast type group, increasing by +1 per 5 Hit Dice you possess. This bonus cannot cause you to have a caster level greater than your Hit Dice.",
+   "options": []
+  },
+  {
+   "id": "destruction/frozen-to-the-bone-combat",
+   "name": "Frozen To The Bone",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (at least one (blast type) talent that deals cold damage).",
+   "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#frozen-to-the-bone-combat",
+   "md": "**Prerequisites:** Destruction sphere (at least one (blast type) talent that deals cold damage).\n\n**Benefit:** When using a destructive blast (blast shape) that allows a Reflex save with a blast type that deals cold damage, you may replace the Reflex save with a Fortitude save.",
+   "options": []
+  },
+  {
+   "id": "destruction/heavy-hand-combat",
+   "name": "Heavy Hand",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (at least one (blast type) talent that deals nonlethal damage).",
+   "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#heavy-hand-combat",
+   "md": "**Prerequisites:** Destruction sphere (at least one (blast type) talent that deals nonlethal damage).\n\n**Benefit:** When using a destructive blast blast type that deals nonlethal damage, you may instead deal lethal bludgeoning damage, but your die size is reduced one step. Additionally, you gain a +1 insight bonus to attack rolls and save DCs with destructive blasts that deal nonlethal damage.",
+   "options": []
+  },
+  {
+   "id": "destruction/illusionary-blast-dual-sphere",
+   "name": "Illusionary Blast",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere, Illusion sphere (Illusionary Touch (sensory, touch) x2).",
+   "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#illusionary-blast-dual-sphere",
+   "md": "**Prerequisites:** Destruction sphere, Illusion sphere (Illusionary Touch (sensory, touch) x2).\n\n**Benefit:** When creating a destructive blast, you may spend an additional spell point to allow your destructive blast to behave as if it were an illusion in specific ways; the destructive blast deals nonlethal damage regardless of other effects, blast types, or blast shapes applied, and no longer requires line of sight or line of effect in order to be created or strike a target.\n\n**Special:** If you possess the Shadow Infusion Illusion talent, you may spend an additional spell point or shadow point to have your destructive blast deal damage as normal but still gain the other benefits of this feat.",
+   "options": []
+  },
+  {
+   "id": "destruction/imbue-with-nature-dual-sphere",
+   "name": "Imbue With Nature",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere, Nature sphere (any (geomancing) talent).",
+   "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#imbue-with-nature-dual-sphere",
+   "md": "**Prerequisites:** Destruction sphere, Nature sphere (any (geomancing) talent).\n\n**Benefit:** When using a (blast type) talent from a blast type category corresponding to a geomancing talent you possess, you may increase the casting time by one step or spend an additional spell point to draw material from the environment to enhance your destructive blast, allowing it to bypass spell resistance.\n\n| Geomancing Talent | Blast Type Categories |\n| --- | --- |\n| (Air) package | Air, electric, sonic |\n| (Earth) package | Crystal, stone |\n| (Fire) package | Fire, light |\n| (Metal) package | Acid, electric |\n| (Plant) package | Acid, force |\n| (Water) package | Cold, crystal |",
+   "options": []
+  },
+  {
+   "id": "destruction/improved-chain-blast-combat",
+   "name": "Improved Chain Blast",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Chain Blast (blast shape)).",
+   "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#improved-chain-blast-combat",
+   "md": "**Prerequisites:** Destruction sphere (Chain Blast (blast shape)).\n\n**Benefit:** The number of targets you may select with Chain Blast improves to 1 + your caster level (minimum 3). You may spend an additional spell point when using Chain Blast to force targets to make a Reflex save for half damage rather than making an attack roll against them. The chain stops as normal if a target takes no damage.",
+   "options": []
+  },
+  {
+   "id": "destruction/improved-energy-leap-combat",
+   "name": "Improved Energy Leap",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Energy Leap (blast shape), Explosive Orb (blast shape)).",
+   "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#improved-energy-leap-combat",
+   "md": "**Prerequisites:** Destruction sphere (Energy Leap (blast shape), Explosive Orb (blast shape)).\n\n**Benefit:** When you end your movement when using Energy Leap, you may choose to also deal your destructive blast damage in a burst centered on your square with a 5-foot radius, + 5 feet per 10 caster levels. Creatures that take damage from your energy leap do not suffer additional damage from the burst.",
+   "options": []
+  },
+  {
+   "id": "destruction/improved-energy-wall-combat",
+   "name": "Improved Energy Wall",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Energy Wall (blast shape)).",
+   "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#improved-energy-wall-combat",
+   "md": "**Prerequisites:** Destruction sphere (Energy Wall (blast shape)).\n\n**Benefit:** You may spend an additional spell point when using the Energy Wall blast shape. The wall now grants concealment from creatures on the other side and any non-magical ammunition passing through the wall are destroyed and other non-magical projectiles suffer a -2 penalty to their attack roll.\n\nAt caster level 9th the wall can also affect ammunition with a +1 enhancement bonus, increasing by +1 for every 3 caster levels thereafter. Unusually massive ranged weapons (such as boulders or ballista bolts) and ranged attacks generated by natural attacks or spell effects are not affected by this ability.\n\n**Special:** If you possess the Demolition talent or apply a (blast type) talent that ignores hardness and deals full damage to objects, such as Shattering Blast or Disintegrate, treat the wall’s caster level as 3 higher for determining the effects of this feat.",
+   "options": []
+  },
+  {
+   "id": "destruction/material-infusion-dual-sphere",
+   "name": "Material Infusion",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere, Nature sphere ((metal) package).",
+   "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#material-infusion-dual-sphere",
+   "md": "**Prerequisites:** Destruction sphere, Nature sphere ((metal) package).\n\n**Benefit:** When using a destructive blast that deals bludgeoning, piercing, or slashing damage, you may choose to have the blast count as cold iron or silver. At 15th caster level you may also choose adamantine. If other relevant materials exist in your campaign, the GM may determine at what level this talent applies to them.",
+   "options": []
+  },
+  {
+   "id": "destruction/perpetual-sphere-combat",
+   "name": "Perpetual Sphere",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Energy Sphere (blast shape)).",
+   "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#perpetual-sphere-combat",
+   "md": "**Prerequisites:** Destruction sphere (Energy Sphere (blast shape)).\n\n**Benefit:** Whenever you successfully deal damage to a target with your energy sphere, increase its duration by 1 round (whether or not you have spent a spell point; it not, then it can persist after you end concentration). You can only extend the sphere’s duration by up to a number of rounds equal to your Destruction caster level.",
+   "options": []
+  },
+  {
+   "id": "destruction/primal-blast-dual-sphere",
+   "name": "Primal Blast",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (any (blast type) talent), Nature sphere (any package).",
+   "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#primal-blast-dual-sphere",
+   "md": "**Prerequisites:** Destruction sphere (any (blast type) talent), Nature sphere (any package).\n\n**Benefit:** When using a (blast type) talent from a blast type category corresponding to a geomancing talent you possess, you may add your casting ability modifier to any attack rolls and damage rolls of the destructive blast. If you do so, you do not modify attack rolls and damage rolls with your destructive blasts with your Strength modifier, Dexterity modifier, or any other ability score (if you have an ability that allows you to modify attack rolls and/or damage rolls with that ability score). On any individual attacks of which a destructive blast is being applied to a natural or weapon attack (such as with the Energy Strike talent or similar ability), Primal Blast instead modifies the attack and damage rolls of the natural or weapon attack (replacing any other ability modifier bonuses with your casting ability modifier as normal).\n\n| Geomancing Package | Blast Type Category |\n| --- | --- |\n| (Air) package | Air, electric, sonic |\n| (Earth) package | Crystal, stone |\n| (Fire) package | Fire, light |\n| (Metal) package | Acid, electric |\n| (Plant) package | Acid, force |\n| (Water) package | Cold, crystal |\n\n**Author's Note:** When using the Primal Blast feat, you do not substitute an ability score's bonus damage (e.g. Strength, Dexterity) for your casting ability modifier, you instead do not gain your normal ability score as bonus damage and separately add your casting modifier. Effectively, the attack does not add the ability score and adds your casting modifier as a separate damage bonus. This differs from an unchained rogue's finesse training feature, which replaces Strength with Dexterity and then calculates normally. For example, when using the Destruction sphere Energy Strike talent with a 2 handed weapon, you would only receive your casting ability modifier as bonus damage and not 1.5x your casting ability modifier.",
+   "options": []
+  },
+  {
+   "id": "destruction/rebuff-improved-combat",
+   "name": "Rebuff, Improved",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Rebuff (blast shape)).",
+   "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#rebuff-improved-combat",
+   "md": "**Prerequisites:** Destruction sphere (Rebuff (blast shape)).\n\n**Benefit:** Whenever a creature within range is the target of a ranged attack, you may spend a spell point as an immediate action to target the projectile with a destructive blast. Make an opposed attack roll using your caster level in place of your base attack bonus to destroy the projectile and negate the attack.\n\nUnusually massive projectiles (such as boulders or ballista bolts) and ranged attacks generated by natural attacks or spell effects are not affected by this ability.",
+   "options": []
+  },
+  {
+   "id": "destruction/rebuff-superior-combat",
+   "name": "Rebuff, Superior",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Rebuff (blast shape)), Improved Rebuff, improved evasion class feature.",
+   "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#rebuff-superior-combat",
+   "md": "**Prerequisites:** Destruction sphere (Rebuff (blast shape)), Improved Rebuff, improved evasion class feature.\n\n**Benefit:** When using the Rebuff talent to provide cover to allies, you also grant them the benefits of improved evasion.",
+   "options": []
+  },
+  {
+   "id": "destruction/selective-admixture",
+   "name": "Selective Admixture",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Admixture, Selective Blast), any one Admixture feat.",
+   "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#selective-admixture",
+   "md": "Amidst ruin, you have learned to support those whom you favor.\n\n**Prerequisites:** Destruction sphere (Admixture, Selective Blast), any one Admixture feat.\n\n**Benefit:** When you omit creatures from being affected by your blast using Selective Blast, you may choose to have the effect of any Admixture on the blast affect only the omitted creatures rather than affecting damaged creatures.",
+   "options": []
+  },
+  {
+   "id": "destruction/shape-expert-combat",
+   "name": "Shape Expert",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Energy Wall (blast shape) or Explosive Orb (blast shape)).",
+   "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#shape-expert-combat",
+   "md": "**Prerequisites:** Destruction sphere (Energy Wall (blast shape) or Explosive Orb (blast shape)).\n\n**Benefit:** When using the Energy Wall (blast shape) talent without a spell point, increase the wall’s size to a 10-foot-by-10-foot wall, plus an additional 10 feet per 10 caster levels. When using the Explosive Orb (blast shape) talent without a spell point, the radius becomes 5 feet + 5 feet per 10 caster levels.",
+   "options": []
+  },
+  {
+   "id": "destruction/soul-scorching-blast",
+   "name": "Soul-Scorching Blast",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Paradigm Blast (blast type) or Smiting Blast (blast type)).",
+   "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#soul-scorching-blast",
+   "md": "Rather than their body, you attack the very essence of your foes.\n\n**Prerequisites:** Destruction sphere (Paradigm Blast (blast type) or Smiting Blast (blast type)).\n\n**Benefit:** When using a destructive blast blast shape that allows a Reflex save with a blast type that deals anarchic, axiomatic, profane, or sacred damage, you may replace the Reflex save with a Will save.",
+   "options": []
+  },
+  {
+   "id": "destruction/stellar-evoker",
+   "name": "Stellar Evoker",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Energy Satellite (blast shape)).",
+   "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#stellar-evoker",
+   "md": "Your magics orbit you creating an orrery of color and power around your person.\n\n**Prerequisites:** Destruction sphere (Energy Satellite (blast shape)).\n\n**Benefit:** The maximum number of satellites you may maintain at one time increases by +1. In addition, whenever you could discharge a satellite as an immediate action, you may instead expend an attack of opportunity. You may not target the same creature with a satellite more than once per round.\n\nWhenever a destructive blast unaltered by a (blast shape) talent misses its target, you may spend one spell point as an immediate action to form a satellite as though you cast that destructive blast with the Energy Satellite (blast shape). A satellite created this way cannot be discharged the round it is created and lasts for 1 round per caster level, instead of 1 minute per caster level. A destructive blast whose damage was increased by spending an additional spell point does not deal increased damage when reformed into a satellite with this feat.\n\n**Example:** An evoker spends 1 spell point to cast destructive blast augmented with the Static Blast (blast type). This destructive blast misses its target, so the evoker spends 1 spell point as an immediate action to “recapture” this effect as a satellite created with the Energy Satellite (blast shape) with the same (blast type).",
+   "options": []
+  },
+  {
+   "id": "destruction/supernatural-elements-dual-sphere",
+   "name": "Supernatural Elements",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere, Nature sphere.",
+   "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#supernatural-elements-dual-sphere",
+   "md": "The diverse powers of nature are yours to distort.\n\n**Prerequisites:** Destruction sphere, Nature sphere.\n\n**Benefit:** Whenever you create a geomancing or spirit effect, you may change its damage type to a damage type corresponding to a (blast type) talent you possess. Changing the damage type to one other than acid, bludgeoning, cold, electricity, fire, piercing, or slashing costs +1 spell point. If you possess the Admixture talent, you may pay the additional costs of Admixture as normal to apply multiple damage types to the geomancing effect or alter only half of the damage of the effect (with the other half retaining the original damage type of the geomancing effect). This does not allow you to apply effects besides damage from any effect used in the blast type or admixture (for example, you may not apply the saving throw penalties from Numbing Blast or an alter time ability from Time-Thief’s Admixture to a pummel attack).\n\nEffects created with this feat operate as they normally would in spite of their altered damage type. For example, fire that deals acid or cold damage could still be smothered or doused with water to put it out.",
+   "options": []
+  },
+  {
+   "id": "destruction/tether-adept-combat",
+   "name": "Tether Adept",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Energy Tether (blast shape)).",
+   "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#tether-adept-combat",
+   "md": "**Prerequisites:** Destruction sphere (Energy Tether (blast shape)).\n\n**Benefit:** When using the Energy Tether blast shape, instead of targeting a creature, you can anchor it to a solid surface within its range such as a wall or ceiling (but not floor) as a standard action. This can only work to a maximum range of close, whatever your destructive blast’s maximum range. Once the tether is anchored, you may, as a move action, attempt to move to any other legal square within the tether’s reach (as determined from the anchor point) without provoking an attack of opportunity, regardless of your normal move speed, by attempting an Acrobatics check and comparing the result to the CMD of each creature adjacent to the start and destination points; success on this check allows you to complete the movement, and failure causes you to fall prone in a square adjacent to the creature whose CMD you failed to beat. This movement can include squares on elevated or recessed surfaces, or even walls. If you have a climb speed, you may even end this movement on a wall or ceiling. You must have a clear path towards the destination (this ability does not allow you to pass through solid obstacles or opponents, though it may allow you to circumvent an enemy if you have a clear path around them within the tether’s reach). You must have a free hand to use this ability. Blast types that carry a spell point cost do not incur that cost when using this feat. The anchoring object receives no damage nor other effects of your destructive blast.",
+   "options": []
+  },
+  {
+   "id": "destruction/warp-burst-dual-sphere",
+   "name": "Warp Burst",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Explosive Orb (blast shape)), Warp sphere.",
+   "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#warp-burst-dual-sphere",
+   "md": "**Prerequisites:** Destruction sphere (Explosive Orb (blast shape)), Warp sphere.\n\n**Benefit:** When teleporting yourself, you may increase the casting time by one step and spend a spell point to target your destination square with a destructive blast with the Explosive Orb blast shape, paying additional costs for the destructive blast as normal. You must have line of sight and line of effect to the target square unless you possess the Unseeing Teleport talent. You may exclude your destination square from this effect.",
+   "options": []
+  },
+  {
+   "id": "destruction/whole-set-blast-dual-sphere",
+   "name": "Whole-Set Blast",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction Sphere (Conflagrant Cluster), Fate Sphere",
+   "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#whole-set-blast-dual-sphere",
+   "md": "**Prerequisites:** Destruction Sphere (Conflagrant Cluster), Fate Sphere\n\n**Benefits:** Whenever you use your destructive blast, you gain a +1 bonus to MSB checks made to bypass spell resistance for each different size of damage die beyond the first used in the destructive blast’s damage.\n\n*Source: Card Casting 3: Volatile Variance*",
+   "options": []
+  },
+  {
+   "id": "destruction/auspicious-admixture-admixture",
+   "name": "Auspicious Admixture",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Admixture Feats",
+   "tags": [
+    "Admixture"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Admixture), Fate sphere.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#auspicious-admixture-admixture",
+   "md": "**Prerequisites:** Destruction sphere (Admixture), Fate sphere.\n\n**Benefit:** When using Admixture, you may spend an additional spell point to affect one target damaged by the destructive blast with a word effect you know in place of a second blast type. If you possess Echoing Word, you may apply the word to any targets damaged, up to your maximum targets from Echoing Word.",
+   "options": []
+  },
+  {
+   "id": "destruction/boundary-admixture-admixture",
+   "name": "Boundary Admixture",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Admixture Feats",
+   "tags": [
+    "Admixture"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Admixture), Protection sphere",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#boundary-admixture-admixture",
+   "md": "**Prerequisites:** Destruction sphere (Admixture), Protection sphere\n\n**Benefit:** When using Admixture, you may spend an additional spell point to center a ward or glyph (if you possess the rapid glyph talent) effect on the target’s square or another affected square or to affect a damaged target with an aegis. If you possess the Mass Aegis talent, you may apply the aegis effect to all targets damaged, up to your maximum targets from Mass Aegis\n\n*Source: Card Casting 2: Counters and Control*",
+   "options": []
+  },
+  {
+   "id": "destruction/blood-wrack-admixture",
+   "name": "Blood Wrack",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Admixture Feats",
+   "tags": [
+    "Admixture"
+   ],
+   "talentTags": [],
+   "prerequisites": "Blood sphere, Destruction sphere (Admixture).",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#blood-wrack-admixture",
+   "md": "**Prerequisites:** Blood sphere, Destruction sphere (Admixture).\n\n**Benefit:** When using Admixture, you may spend an additional spell point to have a single creature that takes damage be targeted by blood control (including the free (quicken) or (still) ability granted by initiating blood control) that you possess. Creatures already under the effects of your blood control instead may be targeted by a (quicken) or (still) ability. If you possess the Mass Blood Magic talent, you may apply the blood control to all targets damaged, up to your maximum number of targets from Mass Blood Magic, though all affected creatures must be targeted by the same (quicken) or (still) ability.",
+   "options": []
+  },
+  {
+   "id": "destruction/curative-admixture-admixture",
+   "name": "Curative Admixture",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Admixture Feats",
+   "tags": [
+    "Admixture"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Admixture), Life sphere.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#curative-admixture-admixture",
+   "md": "Ruinous and restorative power alike flow from your will.\n\n**Prerequisites:** Destruction sphere (Admixture), Life sphere.\n\n**Benefit:** When using Admixture, you may spend an additional spell point to have a single creature that takes damage be targeted by a cure, invigorate, or restore. If you possess the Mass Healing talent, you may apply the cure, invigorate, or restore to all targets damaged, up to your maximum targets from Mass Healing. A Life sphere effect which would deal damage (such as a cure on an undead or in conjunction with the Affliction talent) instead deals no damage when used with this feat.",
+   "options": []
+  },
+  {
+   "id": "destruction/dispelling-admixture-admixture-counterspell",
+   "name": "Dispelling Admixture",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Admixture Feats",
+   "tags": [
+    "Admixture",
+    "Counterspell"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Admixture), Counterspell",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#dispelling-admixture-admixture-counterspell",
+   "md": "**Prerequisites:** Destruction sphere (Admixture), Counterspell\n\n**Benefit:** When using Admixture, you may spend an additional spell point to affect one target damaged by the destructive blast with the counterspell feat in place of a second blast type. If you possess the Improved Counterspell feat, you may pay an additional spell point to target one additional effect on the target per 5 caster levels or counterspell a single effect on each target damaged. If you possess the Greater Counterspell feat, you may pay two additional spell points to target all effects on each target damaged.\n\n*Source: Card Casting 2: Counters and Control*",
+   "options": []
+  },
+  {
+   "id": "destruction/enhancing-admixture-admixture",
+   "name": "Enhancing Admixture",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Admixture Feats",
+   "tags": [
+    "Admixture"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Admixture), Enhancement sphere.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#enhancing-admixture-admixture",
+   "md": "**Prerequisites:** Destruction sphere (Admixture), Enhancement sphere.\n\n**Benefit:** When using Admixture, you may spend an additional spell point to have a single creature that takes damage be targeted by an enhancement effect that you possess. If you possess the Mass Enhancement talent, you may apply the enhancement to any targets damaged, up to your maximum targets from Mass Enhancement. This ability can only target creatures, it cannot be used to affect objects.",
+   "options": []
+  },
+  {
+   "id": "destruction/faerie-admixture-admixture",
+   "name": "Faerie Admixture",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Admixture Feats",
+   "tags": [
+    "Admixture"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Admixture), Fallen Fey Sphere (Share Link).",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#faerie-admixture-admixture",
+   "md": "*Source: Expanded Spheres: Baron's Lost Apocrypha*\n\n**Prerequisites:** Destruction sphere (Admixture), Fallen Fey Sphere (Share Link).\n\n**Benefit:** When using Admixture, you may spend an additional spell point to affect one target damaged by the destructive blast with a fey-link in place of a second blast type. If you possess Bounty of the Fey, you may apply the fey-link to any targets damaged, up to your maximum targets from Bounty of the Fey.",
+   "options": []
+  },
+  {
+   "id": "destruction/generative-admixture-admixture",
+   "name": "Generative Admixture",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Admixture Feats",
+   "tags": [
+    "Admixture"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Admixture), Creation sphere.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#generative-admixture-admixture",
+   "md": "*Source: Expanded Spheres: Baron's Lost Apocrypha*\n\n**Prerequisites:** Destruction sphere (Admixture), Creation sphere.\n\n**Benefit:** When using Admixture, you may spend an additional spell point to have a single creature that takes damage be targeted by an alter effect that you possess. If you possess the Altering Burst talent, you may apply alter to any targets damaged, up to your maximum targets from Altering Burst. Alternatively, you may spend an additional spell point to create an object in the target’s square or another affected square, or create multiple objects if you possess the Divided Creation talent with the Multiple Creations option.",
+   "options": []
+  },
+  {
+   "id": "destruction/ghostly-admixture-admixture",
+   "name": "Ghostly Admixture",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Admixture Feats",
+   "tags": [
+    "Admixture"
+   ],
+   "talentTags": [],
+   "prerequisites": "Death sphere, Destruction sphere (Admixture).",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#ghostly-admixture-admixture",
+   "md": "**Prerequisites:** Death sphere, Destruction sphere (Admixture).\n\n**Benefit:** When using Admixture, you may spend an additional spell point to affect one target damaged by the destructive blast with a ghost strike effect you know, in place of a second blast type. If you possess the Mass Death Magic talent, you may pay an additional spell point to apply the ghost strike to all targets damaged.",
+   "options": []
+  },
+  {
+   "id": "destruction/illuminating-admixture-admixture",
+   "name": "Illuminating Admixture",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Admixture Feats",
+   "tags": [
+    "Admixture"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Admixture), Light sphere.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#illuminating-admixture-admixture",
+   "md": "**Prerequisites:** Destruction sphere (Admixture), Light sphere.\n\n**Benefit:** When using Admixture, you may cause a single creature that takes damage to glow.",
+   "options": []
+  },
+  {
+   "id": "destruction/introductory-admixture-admixture",
+   "name": "Introductory Admixture",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Admixture Feats",
+   "tags": [
+    "Admixture"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Admixture), Conjuration sphere.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#introductory-admixture-admixture",
+   "md": "*Source: Expanded Spheres: Baron's Lost Apocrypha*\n\n**Prerequisites:** Destruction sphere (Admixture), Conjuration sphere.\n\n**Benefit:** When using Admixture, you may spend an additional spell point to summon a creature in a square adjacent to the target’s square or another affected square. If you possess the Mass Summon Talent, you may summon multiple such creatures up to the normal maximum of Mass Summon.",
+   "options": []
+  },
+  {
+   "id": "destruction/militant-admixture-admixture",
+   "name": "Militant Admixture",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Admixture Feats",
+   "tags": [
+    "Admixture"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Admixture), War sphere.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#militant-admixture-admixture",
+   "md": "*Source: Expanded Spheres: Baron's Lost Apocrypha*\n\n**Prerequisites:** Destruction sphere (Admixture), War sphere.\n\n**Benefit:** When using Admixture, you may spend an additional spell point to center a totem effect on the target’s square or another affected square. Alternatively, if you possess the Totemic Aura talent, you may spend an additional spell point to affect one target damaged by the destructive blast with a totemic aura in place of a second blast type.",
+   "options": []
+  },
+  {
+   "id": "destruction/mind-wrack-admixture",
+   "name": "Mind Wrack",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Admixture Feats",
+   "tags": [
+    "Admixture"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Admixture), Mind sphere.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#mind-wrack-admixture",
+   "md": "**Prerequisites:** Destruction sphere (Admixture), Mind sphere.\n\n**Benefit:** When using Admixture, you may spend an additional spell point to have a single creature that takes damage be targeted by a charm that you possess. If you possess the Mass Charm talent, you may apply the charm to all targets damaged, up to your maximum number of targets from Mass Charm.",
+   "options": []
+  },
+  {
+   "id": "destruction/morphic-admixture-admixture",
+   "name": "Morphic Admixture",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Admixture Feats",
+   "tags": [
+    "Admixture"
+   ],
+   "talentTags": [],
+   "prerequisites": "Alteration sphere, Destruction sphere (Admixture).",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#morphic-admixture-admixture",
+   "md": "**Prerequisites:** Alteration sphere, Destruction sphere (Admixture).\n\n**Benefit:** When using Admixture, you may spend an additional spell point to have a single creature that takes damage save against a hostile shapeshift. If you possess the Mass Alteration talent, you may apply the hostile shapeshift to all targets damaged, up to your maximum targets from Mass Alteration.",
+   "options": []
+  },
+  {
+   "id": "destruction/nebulous-admixture-admixture",
+   "name": "Nebulous Admixture",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Admixture Feats",
+   "tags": [
+    "admixture"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Admixture), Weather sphere.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#nebulous-admixture-admixture",
+   "md": "**Prerequisites:** Destruction sphere (Admixture), Weather sphere.\n\n**Benefit:** When using Admixture, you may spend an additional spell point to affect one target damaged by the destructive blast with a shroud effect you know in place of a second blast type. If you possess Encompassing Weather, you may apply the shroud to any targets damaged, up to your maximum targets from Encompassing Weather.",
+   "options": []
+  },
+  {
+   "id": "destruction/primal-admixture-admixture",
+   "name": "Primal Admixture",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Admixture Feats",
+   "tags": [
+    "Admixture"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Admixture), Nature sphere.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#primal-admixture-admixture",
+   "md": "*Source: Expanded Spheres: Baron's Lost Apocrypha*\n\n**Prerequisites:** Destruction sphere (Admixture), Nature sphere.\n\n**Benefit:** When using Admixture, you may spend an additional spell point to affect one target damaged by the destructive blast with a geomancing or spirit effect which targets a creature or applies to a creature in place of a second blast type. If you possess Environmental Presence or Grant Spirit twice, you may apply the effect to any targets damaged, up to your maximum targets from these talents. Alternatively, you may spend an additional spell point to center a geomancy effect which targets an area on the target’s square or another affected square.",
+   "options": []
+  },
+  {
+   "id": "destruction/soft-admixture-specialty",
+   "name": "Soft Admixture Specialty",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Admixture Feats",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Admixture, Damage Control)",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#soft-admixture-specialty",
+   "md": "*Source: Expanded Spheres: Baron's Lost Apocrypha*\n\n**Prerequisites:** Destruction sphere (Admixture, Damage Control)\n\n**Benefit:** When you use the Admixture talent on a destructive blast while using the Damage Control talent to deal no damage with the blast, you do not need to pay an additional spell point or increase the casting time for using Admixture. When using Damage Control, creatures struck by your destructive blast (if it requires an attack roll) or that fail their saving throw are considered to have been damaged by the effect for the purpose of triggering Admixture feats.\n\n**Note:** This is not an (admixture) feat; it's included here for ease of reference.",
+   "options": []
+  },
+  {
+   "id": "destruction/space-rending-admixture-admixture",
+   "name": "Space-Rending Admixture",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Admixture Feats",
+   "tags": [
+    "Admixture"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Admixture), Warp sphere (Unwilling Teleport).",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#space-rending-admixture-admixture",
+   "md": "**Prerequisites:** Destruction sphere (Admixture), Warp sphere (Unwilling Teleport).\n\n**Benefit:** When using Admixture, you may spend an additional spell point to have a single creature that takes damage targeted by Unwilling Teleport. If you possess the Mass Teleport talent, you may apply the Unwilling Teleport effect to all targets damaged, up to your maximum targets from Mass Teleport.",
+   "options": []
+  },
+  {
+   "id": "destruction/spectacular-admixture-admixture",
+   "name": "Spectacular Admixture",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Admixture Feats",
+   "tags": [
+    "Admixture"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Admixture), Illusion sphere.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#spectacular-admixture-admixture",
+   "md": "*Source: Expanded Spheres: Baron's Lost Apocrypha*\n\n**Prerequisites:** Destruction sphere (Admixture), Illusion sphere.\n\n**Benefit:** When using Admixture, you may spend an additional spell point to affect one target damaged by the destructive blast with a glamer effect in place of a second blast type. If you possess Complex Illusion, you may apply the glamer to any targets damaged, up to your maximum targets from Complex Illusion. Alternatively, you may spend an additional spell point to center a figment effect on the target’s square or another affected square.",
+   "options": []
+  },
+  {
+   "id": "destruction/spellshock-admixture-admixture",
+   "name": "Spellshock Admixture",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Admixture Feats",
+   "tags": [
+    "Admixture"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Admixture), Mana sphere.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#spellshock-admixture-admixture",
+   "md": "**Prerequisites:** Destruction sphere (Admixture), Mana sphere.\n\n**Benefit:** When using Admixture, you may spend an additional spell point to affect one target damaged by the blast with an (expunge) ability . If you possess Explosive Expunge, you may apply the (expunge) to all targets damaged.",
+   "options": []
+  },
+  {
+   "id": "destruction/telekinetic-admixture-admixture",
+   "name": "Telekinetic Admixture",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Admixture Feats",
+   "tags": [
+    "Admixture"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Admixture), Telekinesis sphere.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#telekinetic-admixture-admixture",
+   "md": "**Prerequisites:** Destruction sphere (Admixture), Telekinesis sphere.\n\n**Benefit:** When using Admixture, you may spend an additional spell point to lift a creature that takes damage as per Hostile Lift. If you possess the Divided Mind talent, you may lift any number of creatures damaged by the destructive blast that do not exceed your lift limit. Maintaining the Hostile Lift requires concentration or spending one spell point as normal.",
+   "options": []
+  },
+  {
+   "id": "destruction/time-thiefs-admixture-admixture",
+   "name": "Time-Thief’s Admixture",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Admixture Feats",
+   "tags": [
+    "Admixture"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Admixture), Time sphere.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#time-thiefs-admixture-admixture",
+   "md": "**Prerequisites:** Destruction sphere (Admixture), Time sphere.\n\n**Benefit:** When using Admixture, you may spend an additional spell point to have a single creature that takes damage targeted by an alter time ability that you possess. If you possess the Mass Time talent, you may apply the alter time effect to all targets damaged, up to your maximum targets from Mass Time.",
+   "options": []
+  },
+  {
+   "id": "destruction/umbral-admixture-admixture",
+   "name": "Umbral Admixture",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Admixture Feats",
+   "tags": [
+    "Admixture"
+   ],
+   "talentTags": [],
+   "prerequisites": "Dark sphere, Destruction sphere (Admixture).",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#umbral-admixture-admixture",
+   "md": "**Prerequisites:** Dark sphere, Destruction sphere (Admixture).\n\n**Benefit:** When using Admixture, you may spend an additional spell point to center a darkness or blot effect on the target’s square or another affected square.",
+   "options": []
+  },
+  {
+   "id": "destruction/unveiling-admixture-admixture",
+   "name": "Unveiling Admixture",
+   "kind": "feat",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Admixture Feats",
+   "tags": [
+    "Admixture"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Admixture), Divination Sphere (Sensory Overload or Viewing).",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction#unveiling-admixture-admixture",
+   "md": "*Source: Expanded Spheres: Baron's Lost Apocrypha*\n\n**Prerequisites:** Destruction sphere (Admixture), Divination Sphere (Sensory Overload or Viewing).\n\n**Benefit:** When using Admixture, you may spend an additional spell point to center a viewing sensor on the target’s square or another affected square. Alternatively, you may spend a spell point to affect a single target damaged by the blast with the Sensory Overload talent. If you possess Grant Divination twice, you may apply the Sensory Overload to any targets damaged, up to your maximum targets from Grant Divination.",
+   "options": []
+  },
+  {
+   "id": "destruction/aligned-combatant",
+   "name": "Aligned Combatant",
+   "kind": "drawback",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Drawbacks",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Drawbacks#aligned-combatant",
+   "md": "Choose an end of the alignment spectrum that you possess (good, evil, lawful, or chaotic). Your destructive blast deals no damage to creatures who possess this alignment and full damage to creatures of the opposite alignment (evil for good, lawful for chaotic, etc.). Neutral creatures (those who possess neither your selected alignment nor its opposite) suffer only half damage from your destructive blast.",
+   "options": []
+  },
+  {
+   "id": "destruction/destructive-touch",
+   "name": "Destructive Touch",
+   "kind": "drawback",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Drawbacks",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Drawbacks#destructive-touch",
+   "md": "Your destructive blast’s range decreases from close to touch; you cannot use it to make ranged attacks. While you may still apply (blast shape) talents to your destructive blast, they cannot extend further than your natural reach (or the reach of your melee weapon, if using Energy Strike; you cannot use Energy Strike to make ranged attacks).\n\n**Incompatible:** Shape Focus",
+   "options": []
+  },
+  {
+   "id": "destruction/energy-focus",
+   "name": "Energy Focus",
+   "kind": "drawback",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Drawbacks",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Drawbacks#energy-focus",
+   "md": "Choose a blast type group. You may only make destructive blasts from that blast type group. You must select a (blast type) talent from the chosen blast type group with the bonus talent granted by this drawback. You may not select any other (blast type) talents outside the chosen blast type group.\n\n**Author's Note:** A blast type talent that is in multiple blast type groups counts as being outside your chosen blast type group and cannot be selected, even if one of the groups would match your chosen blast type group.",
+   "options": []
+  },
+  {
+   "id": "destruction/shape-focus",
+   "name": "Shape Focus",
+   "kind": "drawback",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Drawbacks",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Drawbacks#shape-focus",
+   "md": "You may only make a destructive blast of a single shape. You must select a (blast shape) talent with the bonus talented granted by this drawback, and cannot make destructive blasts except when using that (blast shape). You may not select any other (blast shape) talents.\n\n**Incompatible:** Destructive Touch",
+   "options": []
+  },
+  {
+   "id": "destruction/uncontrolled-blaster",
+   "name": "Uncontrolled Blaster",
+   "kind": "drawback",
+   "sphere": "Destruction",
+   "system": "Spheres of Power",
+   "group": "Drawbacks",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Drawbacks#uncontrolled-blaster",
+   "md": "You gain the Erratic Blast (blast type) talent. You can only use the Erratic Blast (blast type) talent. Note that this drawback uses an advanced talent and should be used at GM discretion.\n\n**Incompatible:** Energy Focus",
+   "options": []
+  }
+ ]
+}

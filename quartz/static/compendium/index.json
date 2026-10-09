@@ -8864,7 +8864,7 @@
    "Exhausting Strike"
   ],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/reanimate",
@@ -8880,7 +8880,7 @@
   "url": "Spheres-Of-Power/Death/Death#reanimate",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/corpse-bomb",
@@ -8896,7 +8896,7 @@
   "url": "Spheres-Of-Power/Death/Death#corpse-bomb",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/corpse-manipulation",
@@ -8912,7 +8912,7 @@
   "url": "Spheres-Of-Power/Death/Death#corpse-manipulation",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/cryptic-strike-strike",
@@ -8930,7 +8930,7 @@
   "url": "Spheres-Of-Power/Death/Death#cryptic-strike-strike",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/empowered-reanimate",
@@ -8946,7 +8946,7 @@
   "url": "Spheres-Of-Power/Death/Death#empowered-reanimate",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/expanded-necromancy",
@@ -8962,7 +8962,7 @@
   "url": "Spheres-Of-Power/Death/Death#expanded-necromancy",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/gravetongue-utility",
@@ -8980,7 +8980,7 @@
   "url": "Spheres-Of-Power/Death/Death#gravetongue-utility",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/greater-reanimate",
@@ -8996,7 +8996,7 @@
   "url": "Spheres-Of-Power/Death/Death#greater-reanimate",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/haunting-apparition",
@@ -9012,7 +9012,7 @@
   "url": "Spheres-Of-Power/Death/Death#haunting-apparition",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/icy-grip",
@@ -9028,7 +9028,7 @@
   "url": "Spheres-Of-Power/Death/Death#icy-grip",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/instill-death-instill",
@@ -9046,7 +9046,7 @@
   "url": "Spheres-Of-Power/Death/Death#instill-death-instill",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/killing-curse",
@@ -9062,7 +9062,7 @@
   "url": "Spheres-Of-Power/Death/Death#killing-curse",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/mass-death-magic-mass",
@@ -9080,7 +9080,7 @@
   "url": "Spheres-Of-Power/Death/Death#mass-death-magic-mass",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/necromantic-conscription",
@@ -9096,7 +9096,7 @@
   "url": "Spheres-Of-Power/Death/Death#necromantic-conscription",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/ranged-death-range",
@@ -9114,7 +9114,7 @@
   "url": "Spheres-Of-Power/Death/Death#ranged-death-range",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/sustained-necromancy",
@@ -9130,7 +9130,7 @@
   "url": "Spheres-Of-Power/Death/Death#sustained-necromancy",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/taint-soul",
@@ -9146,7 +9146,7 @@
   "url": "Spheres-Of-Power/Death/Death#taint-soul",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/tomb-of-flesh",
@@ -9162,7 +9162,7 @@
   "url": "Spheres-Of-Power/Death/Death#tomb-of-flesh",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/dark-sacrifice-dominion",
@@ -9180,7 +9180,7 @@
   "url": "Spheres-Of-Power/Death/Death#dark-sacrifice-dominion",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/masters-presence-dominion",
@@ -9198,7 +9198,7 @@
   "url": "Spheres-Of-Power/Death/Death#masters-presence-dominion",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/necrotic-conduit-dominion",
@@ -9216,7 +9216,7 @@
   "url": "Spheres-Of-Power/Death/Death#necrotic-conduit-dominion",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/piecemeal-reanimation-dominion",
@@ -9234,7 +9234,7 @@
   "url": "Spheres-Of-Power/Death/Death#piecemeal-reanimation-dominion",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/reanimated-warriors-dominion",
@@ -9252,7 +9252,7 @@
   "url": "Spheres-Of-Power/Death/Death#reanimated-warriors-dominion",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/shroud-dominion",
@@ -9270,7 +9270,7 @@
   "url": "Spheres-Of-Power/Death/Death#shroud-dominion",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/undead-whisperer-dominion",
@@ -9288,7 +9288,7 @@
   "url": "Spheres-Of-Power/Death/Death#undead-whisperer-dominion",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/bleeding-wounds-ghost-strike",
@@ -9306,7 +9306,7 @@
   "url": "Spheres-Of-Power/Death/Death#bleeding-wounds-ghost-strike",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/bonerattle-ghost-strike",
@@ -9324,7 +9324,7 @@
   "url": "Spheres-Of-Power/Death/Death#bonerattle-ghost-strike",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/command-undead-ghost-strike",
@@ -9342,7 +9342,7 @@
   "url": "Spheres-Of-Power/Death/Death#command-undead-ghost-strike",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/curse-ghost-strike-curse",
@@ -9362,7 +9362,7 @@
   "url": "Spheres-Of-Power/Death/Death#curse-ghost-strike-curse",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/drain-ghost-strike",
@@ -9380,7 +9380,7 @@
   "url": "Spheres-Of-Power/Death/Death#drain-ghost-strike",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/fowl-infestation-ghost-strike-curse",
@@ -9400,7 +9400,7 @@
   "url": "Spheres-Of-Power/Death/Death#fowl-infestation-ghost-strike-curse",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/hunger-ghost-strike",
@@ -9418,7 +9418,7 @@
   "url": "Spheres-Of-Power/Death/Death#hunger-ghost-strike",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/inflict-disease-ghost-strike",
@@ -9436,7 +9436,7 @@
   "url": "Spheres-Of-Power/Death/Death#inflict-disease-ghost-strike",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/lich-strike-ghost-strike",
@@ -9454,7 +9454,7 @@
   "url": "Spheres-Of-Power/Death/Death#lich-strike-ghost-strike",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/manipulate-undeath-ghost-strike",
@@ -9472,7 +9472,7 @@
   "url": "Spheres-Of-Power/Death/Death#manipulate-undeath-ghost-strike",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/necrotic-feeding-ghost-strike",
@@ -9490,7 +9490,7 @@
   "url": "Spheres-Of-Power/Death/Death#necrotic-feeding-ghost-strike",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/poltergeist-ghost-strike",
@@ -9508,7 +9508,7 @@
   "url": "Spheres-Of-Power/Death/Death#poltergeist-ghost-strike",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/sickening-ghost-strike",
@@ -9526,7 +9526,7 @@
   "url": "Spheres-Of-Power/Death/Death#sickening-ghost-strike",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/spectral-distortion-ghost-strike",
@@ -9544,7 +9544,7 @@
   "url": "Spheres-Of-Power/Death/Death#spectral-distortion-ghost-strike",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/vampiric-strike-ghost-strike",
@@ -9562,7 +9562,7 @@
   "url": "Spheres-Of-Power/Death/Death#vampiric-strike-ghost-strike",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/weakening-ghost-strike",
@@ -9580,7 +9580,7 @@
   "url": "Spheres-Of-Power/Death/Death#weakening-ghost-strike",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/astral-projection-utility",
@@ -9598,7 +9598,7 @@
   "url": "Spheres-Of-Power/Death/Death#astral-projection-utility",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/astral-travel-utility",
@@ -9616,7 +9616,7 @@
   "url": "Spheres-Of-Power/Death/Death#astral-travel-utility",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/avasculation-ghost-strike",
@@ -9634,7 +9634,7 @@
   "url": "Spheres-Of-Power/Death/Death#avasculation-ghost-strike",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/corpse-forge-dominion",
@@ -9652,7 +9652,7 @@
   "url": "Spheres-Of-Power/Death/Death#corpse-forge-dominion",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/create-haunt",
@@ -9668,7 +9668,7 @@
   "url": "Spheres-Of-Power/Death/Death#create-haunt",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/create-soul-gem",
@@ -9684,7 +9684,7 @@
   "url": "Spheres-Of-Power/Death/Death#create-soul-gem",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/deadlords-reach-dominion",
@@ -9702,7 +9702,7 @@
   "url": "Spheres-Of-Power/Death/Death#deadlords-reach-dominion",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/enervation",
@@ -9718,7 +9718,7 @@
   "url": "Spheres-Of-Power/Death/Death#enervation",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/evisceration-ghost-strike",
@@ -9736,7 +9736,7 @@
   "url": "Spheres-Of-Power/Death/Death#evisceration-ghost-strike",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/extended-command",
@@ -9752,7 +9752,7 @@
   "url": "Spheres-Of-Power/Death/Death#extended-command",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/greater-curse",
@@ -9768,7 +9768,7 @@
   "url": "Spheres-Of-Power/Death/Death#greater-curse",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/greater-undead",
@@ -9784,7 +9784,7 @@
   "url": "Spheres-Of-Power/Death/Death#greater-undead",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/hollow-body",
@@ -9800,7 +9800,7 @@
   "url": "Spheres-Of-Power/Death/Death#hollow-body",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/mercy-killing",
@@ -9816,7 +9816,7 @@
   "url": "Spheres-Of-Power/Death/Death#mercy-killing",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/permanent-undead",
@@ -9832,7 +9832,7 @@
   "url": "Spheres-Of-Power/Death/Death#permanent-undead",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/possession",
@@ -9848,7 +9848,7 @@
   "url": "Spheres-Of-Power/Death/Death#possession",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/project-spirit",
@@ -9864,7 +9864,7 @@
   "url": "Spheres-Of-Power/Death/Death#project-spirit",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/soul-drain",
@@ -9880,7 +9880,7 @@
   "url": "Spheres-Of-Power/Death/Death#soul-drain",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/soul-trap",
@@ -9896,7 +9896,7 @@
   "url": "Spheres-Of-Power/Death/Death#soul-trap",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/summon-spirit",
@@ -9912,7 +9912,7 @@
   "url": "Spheres-Of-Power/Death/Death#summon-spirit",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/anemic-wounds",
@@ -9928,7 +9928,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#anemic-wounds",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/animating-possession-dual-sphere",
@@ -9946,7 +9946,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#animating-possession-dual-sphere",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/baleful-storm-dual-sphere",
@@ -9964,7 +9964,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#baleful-storm-dual-sphere",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/blessed-necromancy-dual-sphere",
@@ -9982,7 +9982,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#blessed-necromancy-dual-sphere",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/channel-resistance",
@@ -9998,7 +9998,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#channel-resistance",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/channeled-detonation-channeling",
@@ -10016,7 +10016,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#channeled-detonation-channeling",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/cooperative-reanimate-teamwork",
@@ -10034,7 +10034,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#cooperative-reanimate-teamwork",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/corpse-explosion-dual-sphere",
@@ -10052,7 +10052,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#corpse-explosion-dual-sphere",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/crimson-theurgy-dual-sphere",
@@ -10070,7 +10070,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#crimson-theurgy-dual-sphere",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/deadcaller",
@@ -10086,7 +10086,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#deadcaller",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/dispatch-the-weak",
@@ -10102,7 +10102,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#dispatch-the-weak",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/extradimensional-gullet-combat",
@@ -10120,7 +10120,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#extradimensional-gullet-combat",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/flesh-absorption-master",
@@ -10136,7 +10136,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#flesh-absorption-master",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/flexible-ghost-strike-dual-sphere",
@@ -10154,7 +10154,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#flexible-ghost-strike-dual-sphere",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/lifebound-auspician",
@@ -10170,7 +10170,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#lifebound-auspician",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/might-of-the-grave-dual-sphere",
@@ -10188,7 +10188,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#might-of-the-grave-dual-sphere",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/parts-and-pieces-dual-sphere",
@@ -10206,7 +10206,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#parts-and-pieces-dual-sphere",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/piecemeal-animation-dual-sphere",
@@ -10224,7 +10224,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#piecemeal-animation-dual-sphere",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/plague-lord",
@@ -10240,7 +10240,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#plague-lord",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/poltergeists-malice-dual-sphere",
@@ -10258,7 +10258,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#poltergeists-malice-dual-sphere",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/rage-of-the-grave-combat",
@@ -10276,7 +10276,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#rage-of-the-grave-combat",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/soul-seer",
@@ -10292,7 +10292,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#soul-seer",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/strange-corpsecraft",
@@ -10308,7 +10308,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#strange-corpsecraft",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/superior-reanimation",
@@ -10324,7 +10324,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#superior-reanimation",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/swift-demise-dual-sphere",
@@ -10342,7 +10342,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#swift-demise-dual-sphere",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/sylvan-necromancy-dual-sphere",
@@ -10360,7 +10360,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#sylvan-necromancy-dual-sphere",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/twisted-reanimation-dual-sphere",
@@ -10378,7 +10378,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#twisted-reanimation-dual-sphere",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/undead-animal-companion",
@@ -10394,7 +10394,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#undead-animal-companion",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/versatile-feeding",
@@ -10410,7 +10410,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#versatile-feeding",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/vudu-dual-sphere",
@@ -10428,7 +10428,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#vudu-dual-sphere",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/warded-bones-dual-sphere",
@@ -10446,7 +10446,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#warded-bones-dual-sphere",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/warlord-of-the-damned-dual-sphere",
@@ -10464,7 +10464,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#warlord-of-the-damned-dual-sphere",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/banshees-sotto-voce-necrosis",
@@ -10482,7 +10482,7 @@
   "url": "Spheres-Of-Power/Death/Death#banshees-sotto-voce-necrosis",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/between-two-worlds-necrosis",
@@ -10500,7 +10500,7 @@
   "url": "Spheres-Of-Power/Death/Death#between-two-worlds-necrosis",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/cold-heart-necrosis",
@@ -10518,7 +10518,7 @@
   "url": "Spheres-Of-Power/Death/Death#cold-heart-necrosis",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/deadened-flesh-necrosis",
@@ -10536,7 +10536,7 @@
   "url": "Spheres-Of-Power/Death/Death#deadened-flesh-necrosis",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/deathknights-purchase-combat-necrosis",
@@ -10555,7 +10555,7 @@
   "url": "Spheres-Of-Power/Death/Death#deathknights-purchase-combat-necrosis",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/hemomancy-necrosis",
@@ -10573,7 +10573,7 @@
   "url": "Spheres-Of-Power/Death/Death#hemomancy-necrosis",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/inhuman-defiler-defiler-drawback-necrosis",
@@ -10593,7 +10593,7 @@
   "url": "Spheres-Of-Power/Death/Death#inhuman-defiler-defiler-drawback-necrosis",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/necrotic-heart-necrosis",
@@ -10611,7 +10611,7 @@
   "url": "Spheres-Of-Power/Death/Death#necrotic-heart-necrosis",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/numb-mind-necrosis",
@@ -10629,7 +10629,7 @@
   "url": "Spheres-Of-Power/Death/Death#numb-mind-necrosis",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/wandering-spirit-necrosis",
@@ -10647,7 +10647,7 @@
   "url": "Spheres-Of-Power/Death/Death#wandering-spirit-necrosis",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/death-to-the-living",
@@ -10663,7 +10663,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Drawbacks#death-to-the-living",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/deathful-touch",
@@ -10679,7 +10679,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Drawbacks#deathful-touch",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/favored-undead",
@@ -10695,7 +10695,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Drawbacks#favored-undead",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/flesh-artisan",
@@ -10711,7 +10711,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Drawbacks#flesh-artisan",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/necromantic-concoction",
@@ -10727,7 +10727,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Drawbacks#necromantic-concoction",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/necromantic-limit",
@@ -10743,7 +10743,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Drawbacks#necromantic-limit",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/spiritual-voyager",
@@ -10759,7 +10759,7 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Drawbacks#spiritual-voyager",
   "options": [],
   "file": "death.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "death/undead-trainer",
@@ -10775,6 +10775,2812 @@
   "url": "Spheres-Of-Power/Death/Death-Sphere-Drawbacks#undead-trainer",
   "options": [],
   "file": "death.json",
+  "approved": true
+ },
+ {
+  "id": "destruction/destructive-blast",
+  "name": "Destructive Blast",
+  "kind": "sphere ability",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#destructive-blast",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/admixture",
+  "name": "Admixture",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Destruction Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#admixture",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/cascade-failure",
+  "name": "Cascade Failure",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Destruction Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#cascade-failure",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/clinging-blast",
+  "name": "Clinging Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Destruction Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#clinging-blast",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/crafted-blast",
+  "name": "Crafted Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Destruction Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#crafted-blast",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/damage-control",
+  "name": "Damage Control",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Destruction Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#damage-control",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/demolition",
+  "name": "Demolition",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Destruction Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#demolition",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/energetic-response",
+  "name": "Energetic Response",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Destruction Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#energetic-response",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/epicenter",
+  "name": "Epicenter",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Destruction Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#epicenter",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/extended-range-range",
+  "name": "Extended Range",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Destruction Talents",
+  "tags": [],
+  "talentTags": [
+   "range"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#extended-range-range",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/focused-blast",
+  "name": "Focused Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Destruction Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#focused-blast",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/gather-energy",
+  "name": "Gather Energy",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Destruction Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#gather-energy",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/selective-blast",
+  "name": "Selective Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Destruction Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#selective-blast",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/spirit-blast",
+  "name": "Spirit Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Destruction Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#spirit-blast",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/wingbind",
+  "name": "Wingbind",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Destruction Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#wingbind",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/blast-salvo-blast-shape",
+  "name": "Blast Salvo",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Shape Talents",
+  "tags": [
+   "blast shape"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#blast-salvo-blast-shape",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/blast-trap-blast-shape",
+  "name": "Blast Trap",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Shape Talents",
+  "tags": [
+   "blast shape"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#blast-trap-blast-shape",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/chain-blast-blast-shape",
+  "name": "Chain Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Shape Talents",
+  "tags": [
+   "blast shape"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#chain-blast-blast-shape",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/energy-aura-blast-shape",
+  "name": "Energy Aura",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Shape Talents",
+  "tags": [
+   "blast shape"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#energy-aura-blast-shape",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/energy-beam-blast-shape",
+  "name": "Energy Beam",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Shape Talents",
+  "tags": [
+   "blast shape"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#energy-beam-blast-shape",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/energy-bomb-blast-shape-instill",
+  "name": "Energy Bomb",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Shape Talents",
+  "tags": [
+   "blast shape"
+  ],
+  "talentTags": [
+   "instill"
+  ],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#energy-bomb-blast-shape-instill",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/energy-leap-blast-shape",
+  "name": "Energy Leap",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Shape Talents",
+  "tags": [
+   "blast shape"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#energy-leap-blast-shape",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/energy-satellite-blast-shape",
+  "name": "Energy Satellite",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Shape Talents",
+  "tags": [
+   "blast shape"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#energy-satellite-blast-shape",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/energy-sphere-blast-shape",
+  "name": "Energy Sphere",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Shape Talents",
+  "tags": [
+   "blast shape"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#energy-sphere-blast-shape",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/energy-strike-blast-shape-strike",
+  "name": "Energy Strike",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Shape Talents",
+  "tags": [
+   "blast shape"
+  ],
+  "talentTags": [
+   "strike"
+  ],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#energy-strike-blast-shape-strike",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/energy-tether-blast-shape",
+  "name": "Energy Tether",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Shape Talents",
+  "tags": [
+   "blast shape"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#energy-tether-blast-shape",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/energy-wall-blast-shape",
+  "name": "Energy Wall",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Shape Talents",
+  "tags": [
+   "blast shape"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#energy-wall-blast-shape",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/explosive-orb-blast-shape",
+  "name": "Explosive Orb",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Shape Talents",
+  "tags": [
+   "blast shape"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#explosive-orb-blast-shape",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/guided-strike-blast-shape",
+  "name": "Guided Strike",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Shape Talents",
+  "tags": [
+   "blast shape"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#guided-strike-blast-shape",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/knights-blast-blast-shape",
+  "name": "Knight’s Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Shape Talents",
+  "tags": [
+   "blast shape"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#knights-blast-blast-shape",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/mutable-blast-blast-shape",
+  "name": "Mutable Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Shape Talents",
+  "tags": [
+   "blast shape"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#mutable-blast-blast-shape",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/rebuff-blast-shape",
+  "name": "Rebuff",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Shape Talents",
+  "tags": [
+   "blast shape"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#rebuff-blast-shape",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/retributive-blast-blast-shape",
+  "name": "Retributive Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Shape Talents",
+  "tags": [
+   "blast shape"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#retributive-blast-blast-shape",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/sculpt-blast-blast-shape",
+  "name": "Sculpt Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Shape Talents",
+  "tags": [
+   "blast shape"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#sculpt-blast-blast-shape",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/acid-blast-blast-type-acid",
+  "name": "Acid Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "acid"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#acid-blast-blast-type-acid",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/adhesive-blast-blast-type-acid",
+  "name": "Adhesive Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "acid"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#adhesive-blast-blast-type-acid",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/air-blast-blast-type-air",
+  "name": "Air Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "air"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#air-blast-blast-type-air",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/alkali-blast-blast-type-acid",
+  "name": "Alkali Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "acid"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#alkali-blast-blast-type-acid",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/alternyating-current-blast-type-electricity",
+  "name": "Alternyating Current",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "electricity"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#alternyating-current-blast-type-electricity",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/battering-blast-blast-type-stone",
+  "name": "Battering Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "stone"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#battering-blast-blast-type-stone",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/blinding-blast-blast-type-light",
+  "name": "Blinding Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "light"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#blinding-blast-blast-type-light",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/blistering-blast-blast-type-fire",
+  "name": "Blistering Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "fire"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#blistering-blast-blast-type-fire",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/corrosive-blast-blast-type-acid",
+  "name": "Corrosive Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "acid"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#corrosive-blast-blast-type-acid",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/crystal-blast-blast-type-crystal",
+  "name": "Crystal Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "crystal"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#crystal-blast-blast-type-crystal",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/drenching-blast-blast-type-cold",
+  "name": "Drenching Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "cold"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#drenching-blast-blast-type-cold",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/drowning-blast-blast-type-cold",
+  "name": "Drowning Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "cold"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#drowning-blast-blast-type-cold",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/electric-blast-blast-type-electricity",
+  "name": "Electric Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "electricity"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#electric-blast-blast-type-electricity",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/fire-blast-blast-type-fire",
+  "name": "Fire Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "fire"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#fire-blast-blast-type-fire",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/force-blast-blast-type-force",
+  "name": "Force Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "force"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#force-blast-blast-type-force",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/freezing-blast-blast-type-cold",
+  "name": "Freezing Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "cold"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#freezing-blast-blast-type-cold",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/frost-blast-blast-type-cold",
+  "name": "Frost Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "cold"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#frost-blast-blast-type-cold",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/gale-blast-blast-type-air",
+  "name": "Gale Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "air"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#gale-blast-blast-type-air",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/gloom-blast-blast-type-negative",
+  "name": "Gloom Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "negative"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#gloom-blast-blast-type-negative",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/gore-blast-blast-type-negative",
+  "name": "Gore Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "negative"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#gore-blast-blast-type-negative",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/hurricane-blast-blast-type-air",
+  "name": "Hurricane Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "air"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#hurricane-blast-blast-type-air",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/incandescent-blast-blast-type-light",
+  "name": "Incandescent Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "light"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#incandescent-blast-blast-type-light",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/invigorating-blast-blast-type-force",
+  "name": "Invigorating Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "force"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#invigorating-blast-blast-type-force",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/living-crystal-blast-blast-type-crystal",
+  "name": "Living Crystal Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "crystal"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#living-crystal-blast-blast-type-crystal",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/mana-siphon-blast-type-force",
+  "name": "Mana Siphon",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "force"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#mana-siphon-blast-type-force",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/nether-blast-blast-type-negative",
+  "name": "Nether Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "negative"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#nether-blast-blast-type-negative",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/numbing-blast-blast-type-cold",
+  "name": "Numbing Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "cold"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#numbing-blast-blast-type-cold",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/paradigm-blast-blast-type-holy",
+  "name": "Paradigm Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "holy"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#paradigm-blast-blast-type-holy",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/radiant-blast-blast-type-light",
+  "name": "Radiant Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "light"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#radiant-blast-blast-type-light",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/razor-blast-blast-type-crystal",
+  "name": "Razor Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "crystal"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#razor-blast-blast-type-crystal",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/resonating-blast-blast-type-sonic",
+  "name": "Resonating Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "sonic"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#resonating-blast-blast-type-sonic",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/reverberating-blast-blast-type-sonic",
+  "name": "Reverberating Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "sonic"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#reverberating-blast-blast-type-sonic",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/searing-blast-blast-type-fire",
+  "name": "Searing Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "fire"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#searing-blast-blast-type-fire",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/shattering-blast-blast-type-sonic",
+  "name": "Shattering Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "sonic"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#shattering-blast-blast-type-sonic",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/shock-blast-blast-type-electricity",
+  "name": "Shock Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "electricity"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#shock-blast-blast-type-electricity",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/shrapnel-blast-blast-type-stone",
+  "name": "Shrapnel Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "stone"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#shrapnel-blast-blast-type-stone",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/smiting-blast-blast-type-holy",
+  "name": "Smiting Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "holy"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#smiting-blast-blast-type-holy",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/static-blast-blast-type-electricity",
+  "name": "Static Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "electricity"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#static-blast-blast-type-electricity",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/stone-blast-blast-type-stone",
+  "name": "Stone Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "stone"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#stone-blast-blast-type-stone",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/sweltering-blast-blast-type-fire",
+  "name": "Sweltering Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "fire"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#sweltering-blast-blast-type-fire",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/tenebrous-blast-blast-type-negative",
+  "name": "Tenebrous Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "negative"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#tenebrous-blast-blast-type-negative",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/thunder-blast-blast-type-sonic",
+  "name": "Thunder Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "sonic"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#thunder-blast-blast-type-sonic",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/vacuum-blast-blast-type-air",
+  "name": "Vacuum Blast",
+  "kind": "talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Blast Type Talents",
+  "tags": [
+   "blast type",
+   "air"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#vacuum-blast-blast-type-air",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/blast-array",
+  "name": "Blast Array",
+  "kind": "advanced talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Advanced Destruction Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#blast-array",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/calamity-blast-shape",
+  "name": "Calamity",
+  "kind": "advanced talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Advanced Destruction Talents",
+  "tags": [
+   "blast shape"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#calamity-blast-shape",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/conflagrant-cluster",
+  "name": "Conflagrant Cluster",
+  "kind": "advanced talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Advanced Destruction Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#conflagrant-cluster",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/crystal-cocoon",
+  "name": "Crystal Cocoon",
+  "kind": "advanced talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Advanced Destruction Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#crystal-cocoon",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/disintegrate-blast-type",
+  "name": "Disintegrate",
+  "kind": "advanced talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Advanced Destruction Talents",
+  "tags": [
+   "blast type"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#disintegrate-blast-type",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/energy-cloud-blast-shape",
+  "name": "Energy Cloud",
+  "kind": "advanced talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Advanced Destruction Talents",
+  "tags": [
+   "blast shape"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#energy-cloud-blast-shape",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/erratic-blast-blast-type",
+  "name": "Erratic Blast",
+  "kind": "advanced talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Advanced Destruction Talents",
+  "tags": [
+   "blast type"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#erratic-blast-blast-type",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/extreme-range",
+  "name": "Extreme Range",
+  "kind": "advanced talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Advanced Destruction Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#extreme-range",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/grandmaster",
+  "name": "Grandmaster",
+  "kind": "advanced talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Advanced Destruction Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#grandmaster",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/greater-admixture",
+  "name": "Greater Admixture",
+  "kind": "advanced talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Advanced Destruction Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#greater-admixture",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/magnifying-blast-blast-type",
+  "name": "Magnifying Blast",
+  "kind": "advanced talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Advanced Destruction Talents",
+  "tags": [
+   "blast type"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#magnifying-blast-blast-type",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/penetrating-blast",
+  "name": "Penetrating Blast",
+  "kind": "advanced talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Advanced Destruction Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Expanded Spheres: Weaves of War",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#penetrating-blast",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/radiation-blast-blast-type-fire-light",
+  "name": "Radiation Blast",
+  "kind": "advanced talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Advanced Destruction Talents",
+  "tags": [
+   "blast type",
+   "fire",
+   "light"
+  ],
+  "talentTags": [],
+  "source": "Expanded Spheres: Weaves of War",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#radiation-blast-blast-type-fire-light",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/split-blast",
+  "name": "Split Blast",
+  "kind": "advanced talent",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Advanced Destruction Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Expanded Spheres: Weaves of War",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#split-blast",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/arcing-strike-combat",
+  "name": "Arcing Strike",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#arcing-strike-combat",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/atmospheric-imbuement-dual-sphere",
+  "name": "Atmospheric Imbuement",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#atmospheric-imbuement-dual-sphere",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/channel-destruction-channeling",
+  "name": "Channel Destruction",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Channeling"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#channel-destruction-channeling",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/cooperative-destruction-dual-sphere",
+  "name": "Cooperative Destruction",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#cooperative-destruction-dual-sphere",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/corpse-explosion-dual-sphere",
+  "name": "Corpse Explosion",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#corpse-explosion-dual-sphere",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/deadly-targeting-combat",
+  "name": "Deadly Targeting",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#deadly-targeting-combat",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/destructive-companion-dual-sphere",
+  "name": "Destructive Companion",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#destructive-companion-dual-sphere",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/destructive-radiance-dual-sphere",
+  "name": "Destructive Radiance",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#destructive-radiance-dual-sphere",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/dimensional-tether",
+  "name": "Dimensional Tether",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#dimensional-tether",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/energy-cascade",
+  "name": "Energy Cascade",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#energy-cascade",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/energy-laser",
+  "name": "Energy Laser",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#energy-laser",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/energy-snake-combat",
+  "name": "Energy Snake",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#energy-snake-combat",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/fan-the-flame-dual-sphere",
+  "name": "Fan The Flame",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#fan-the-flame-dual-sphere",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/fear-and-flame-combat",
+  "name": "Fear And Flame",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#fear-and-flame-combat",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/fissile-creation-dual-sphere",
+  "name": "Fissile Creation",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#fissile-creation-dual-sphere",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/flexible-ghost-strike-dual-sphere",
+  "name": "Flexible Ghost Strike",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#flexible-ghost-strike-dual-sphere",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/focused-blast-type-group",
+  "name": "Focused Blast Type Group",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#focused-blast-type-group",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/frozen-to-the-bone-combat",
+  "name": "Frozen To The Bone",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#frozen-to-the-bone-combat",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/heavy-hand-combat",
+  "name": "Heavy Hand",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#heavy-hand-combat",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/illusionary-blast-dual-sphere",
+  "name": "Illusionary Blast",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#illusionary-blast-dual-sphere",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/imbue-with-nature-dual-sphere",
+  "name": "Imbue With Nature",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#imbue-with-nature-dual-sphere",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/improved-chain-blast-combat",
+  "name": "Improved Chain Blast",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#improved-chain-blast-combat",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/improved-energy-leap-combat",
+  "name": "Improved Energy Leap",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#improved-energy-leap-combat",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/improved-energy-wall-combat",
+  "name": "Improved Energy Wall",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#improved-energy-wall-combat",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/material-infusion-dual-sphere",
+  "name": "Material Infusion",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#material-infusion-dual-sphere",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/perpetual-sphere-combat",
+  "name": "Perpetual Sphere",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#perpetual-sphere-combat",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/primal-blast-dual-sphere",
+  "name": "Primal Blast",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#primal-blast-dual-sphere",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/rebuff-improved-combat",
+  "name": "Rebuff, Improved",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#rebuff-improved-combat",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/rebuff-superior-combat",
+  "name": "Rebuff, Superior",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#rebuff-superior-combat",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/selective-admixture",
+  "name": "Selective Admixture",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#selective-admixture",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/shape-expert-combat",
+  "name": "Shape Expert",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#shape-expert-combat",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/soul-scorching-blast",
+  "name": "Soul-Scorching Blast",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#soul-scorching-blast",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/stellar-evoker",
+  "name": "Stellar Evoker",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#stellar-evoker",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/supernatural-elements-dual-sphere",
+  "name": "Supernatural Elements",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#supernatural-elements-dual-sphere",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/tether-adept-combat",
+  "name": "Tether Adept",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#tether-adept-combat",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/warp-burst-dual-sphere",
+  "name": "Warp Burst",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#warp-burst-dual-sphere",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/whole-set-blast-dual-sphere",
+  "name": "Whole-Set Blast",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#whole-set-blast-dual-sphere",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/auspicious-admixture-admixture",
+  "name": "Auspicious Admixture",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Admixture Feats",
+  "tags": [
+   "Admixture"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#auspicious-admixture-admixture",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/boundary-admixture-admixture",
+  "name": "Boundary Admixture",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Admixture Feats",
+  "tags": [
+   "Admixture"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#boundary-admixture-admixture",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/blood-wrack-admixture",
+  "name": "Blood Wrack",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Admixture Feats",
+  "tags": [
+   "Admixture"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#blood-wrack-admixture",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/curative-admixture-admixture",
+  "name": "Curative Admixture",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Admixture Feats",
+  "tags": [
+   "Admixture"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#curative-admixture-admixture",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/dispelling-admixture-admixture-counterspell",
+  "name": "Dispelling Admixture",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Admixture Feats",
+  "tags": [
+   "Admixture",
+   "Counterspell"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#dispelling-admixture-admixture-counterspell",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/enhancing-admixture-admixture",
+  "name": "Enhancing Admixture",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Admixture Feats",
+  "tags": [
+   "Admixture"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#enhancing-admixture-admixture",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/faerie-admixture-admixture",
+  "name": "Faerie Admixture",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Admixture Feats",
+  "tags": [
+   "Admixture"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#faerie-admixture-admixture",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/generative-admixture-admixture",
+  "name": "Generative Admixture",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Admixture Feats",
+  "tags": [
+   "Admixture"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#generative-admixture-admixture",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/ghostly-admixture-admixture",
+  "name": "Ghostly Admixture",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Admixture Feats",
+  "tags": [
+   "Admixture"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#ghostly-admixture-admixture",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/illuminating-admixture-admixture",
+  "name": "Illuminating Admixture",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Admixture Feats",
+  "tags": [
+   "Admixture"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#illuminating-admixture-admixture",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/introductory-admixture-admixture",
+  "name": "Introductory Admixture",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Admixture Feats",
+  "tags": [
+   "Admixture"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#introductory-admixture-admixture",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/militant-admixture-admixture",
+  "name": "Militant Admixture",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Admixture Feats",
+  "tags": [
+   "Admixture"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#militant-admixture-admixture",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/mind-wrack-admixture",
+  "name": "Mind Wrack",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Admixture Feats",
+  "tags": [
+   "Admixture"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#mind-wrack-admixture",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/morphic-admixture-admixture",
+  "name": "Morphic Admixture",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Admixture Feats",
+  "tags": [
+   "Admixture"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#morphic-admixture-admixture",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/nebulous-admixture-admixture",
+  "name": "Nebulous Admixture",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Admixture Feats",
+  "tags": [
+   "admixture"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#nebulous-admixture-admixture",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/primal-admixture-admixture",
+  "name": "Primal Admixture",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Admixture Feats",
+  "tags": [
+   "Admixture"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#primal-admixture-admixture",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/soft-admixture-specialty",
+  "name": "Soft Admixture Specialty",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Admixture Feats",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#soft-admixture-specialty",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/space-rending-admixture-admixture",
+  "name": "Space-Rending Admixture",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Admixture Feats",
+  "tags": [
+   "Admixture"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#space-rending-admixture-admixture",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/spectacular-admixture-admixture",
+  "name": "Spectacular Admixture",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Admixture Feats",
+  "tags": [
+   "Admixture"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#spectacular-admixture-admixture",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/spellshock-admixture-admixture",
+  "name": "Spellshock Admixture",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Admixture Feats",
+  "tags": [
+   "Admixture"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#spellshock-admixture-admixture",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/telekinetic-admixture-admixture",
+  "name": "Telekinetic Admixture",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Admixture Feats",
+  "tags": [
+   "Admixture"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#telekinetic-admixture-admixture",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/time-thiefs-admixture-admixture",
+  "name": "Time-Thief’s Admixture",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Admixture Feats",
+  "tags": [
+   "Admixture"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#time-thiefs-admixture-admixture",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/umbral-admixture-admixture",
+  "name": "Umbral Admixture",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Admixture Feats",
+  "tags": [
+   "Admixture"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#umbral-admixture-admixture",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/unveiling-admixture-admixture",
+  "name": "Unveiling Admixture",
+  "kind": "feat",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Admixture Feats",
+  "tags": [
+   "Admixture"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction#unveiling-admixture-admixture",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/aligned-combatant",
+  "name": "Aligned Combatant",
+  "kind": "drawback",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Drawbacks#aligned-combatant",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/destructive-touch",
+  "name": "Destructive Touch",
+  "kind": "drawback",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Drawbacks#destructive-touch",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/energy-focus",
+  "name": "Energy Focus",
+  "kind": "drawback",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Drawbacks#energy-focus",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/shape-focus",
+  "name": "Shape Focus",
+  "kind": "drawback",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Drawbacks#shape-focus",
+  "options": [],
+  "file": "destruction.json",
+  "approved": false
+ },
+ {
+  "id": "destruction/uncontrolled-blaster",
+  "name": "Uncontrolled Blaster",
+  "kind": "drawback",
+  "sphere": "Destruction",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Drawbacks#uncontrolled-blaster",
+  "options": [],
+  "file": "destruction.json",
   "approved": false
  },
  {
