@@ -4860,7 +4860,23 @@ def build_spell_compendium() -> int:
 # pf1e/gear-data.json for where AoN lists each one: armor category, weapon table); Spheres items
 # from the wiki's equipment and magic item pages. Weapon and armor qualities (Flaming, Fortification)
 # aren't items of their own and stay out.
-GEAR_CATS = ["weapon", "ammo", "armor", "shield", "gear", "consumable", "magic"]
+GEAR_CATS = ["weapon", "ammo", "armor", "shield", "gear", "consumable", "magic", "ability", "mod"]
+# special abilities (ability) and modifications (mod) aren't items: the builder adds them to a weapon,
+# armor or shield. AoN's quality lists say what a special ability goes on.
+QUALITY_APPLIES = {"MeleeWeaponQuality": "melee", "RangedWeaponQuality": "ranged", "ArmorQuality": "armor",
+                   "ShieldQuality": "shield"}
+WEAPON_MOD_DRAWBACK = "A modified weapon is treated as one category more difficult to wield (simple → martial → exotic) unless you have Weapon Adept for this modification."
+
+
+def _ability_prices(text: str) -> list[dict]:
+    """A special ability's price: "+1 bonus" -> [{bonus: 1}]; "+5,000 gp" -> [{gp: 5000}]; variants
+    ("light armor (+1,000 gp), medium/heavy armor (+2,000 gp)", "Improved (+15,000 gp)") get a label each."""
+    out = []
+    for m in re.finditer(r"([A-Za-z][A-Za-z/ -]*?)?\s*\(?\+\s*([\d,]+)\s*(gp|bonus)", _gear_dash(text)):
+        label = re.sub(r"^(?:or|and)$", "", (m.group(1) or "").strip(" ,("))
+        v = int(m.group(2).replace(",", ""))
+        out.append({"label": label, "bonus": v} if m.group(3) == "bonus" else {"label": label, "gp": v})
+    return out
 # the wiki's gear pages that aren't magic items (magic items are found on any page by their stat block)
 SPHERES_GEAR_PAGES = {"Adventuring Gear": "Adventuring Gear", "Technological Gear": "Technological Gear",
                       "Equipment": "Spheres Equipment", "Alchemical Items": "Alchemical Items",
@@ -5103,10 +5119,14 @@ def build_gear_compendium() -> int:
         for e in json.loads((pf / "magic-items.json").read_text(encoding="utf-8"))["entries"]:
             w = where.get(e["url"], {})
             listed = w.get("list", "")
-            if listed.endswith("Quality"):
-                continue
             f = {k: _gear_dash(v) for k, v in e["fields"].items()}
             md = _gear_dash(e["md"])
+            if listed.endswith("Quality"):  # a weapon / armor special ability: priced as a bonus or flat gp
+                applies = [QUALITY_APPLIES[l] for l in w.get("lists", [listed]) if l in QUALITY_APPLIES]
+                entries.append(_gear_entry("ability", e["name"], "Pathfinder 1e", e["source"], e["url"], md,
+                                           f.get("Price", ""), "", applies=applies, prices=_ability_prices(f.get("Price", "")),
+                                           aura=f.get("Aura", ""), cl=f.get("CL", "")))
+                continue
             group = (f"Wondrous ({WONDROUS_SLOTS.get(listed, listed)})" if w.get("index") == "MagicWondrous"
                      else AON_MAGIC_GROUPS.get(listed, "Other"))
             extra = {"sub": group, "slot": f.get("Slot", "").replace("—", ""), "aura": f.get("Aura", ""), "cl": f.get("CL", "")}
@@ -5136,8 +5156,11 @@ def build_gear_compendium() -> int:
         system = FEAT_SYSTEMS.get(families.get(f.relative_to(CONTENT).as_posix(), ""), "Spheres of Power")
         page_src = m.group(1) if (m := re.search(r"^\*Source: \[([^\]]+)\]", body, re.M)) else ""
         gear_page = f.stem in SPHERES_GEAR_PAGES
-        table = _practitioner_weapon_rows(lines) if f.stem == "Practitioner Weapons" else {}
+        table, mod_rows = _practitioner_weapon_rows(lines) if f.stem == "Practitioner Weapons" else ({}, {})
+        section = ""
         for k, line in enumerate(lines):
+            if line.startswith("# "):
+                section = line[2:].strip()
             if not (hm := re.match(r"(#{2,4}) (.+)$", line)):
                 continue
             level = len(hm.group(1))
@@ -5153,6 +5176,26 @@ def build_gear_compendium() -> int:
                     source = s.group(1)
                     break
             url = f"{_page_url(f)}#{ids[k]}"
+            # the Weapons / Armor pages' new special abilities ("This special ability may only be applied to ranged weapons")
+            if f.stem in ("Weapons", "Armor") and "Special Abilities" in section and level == 3:
+                fl = _spheres_fields(md)
+                price = fl.get("Price") or fl.get("Cost", "")
+                if price and (system, "ability", name.lower()) not in seen:
+                    seen.add((system, "ability", name.lower()))
+                    only = m.group(1).lower() if (m := re.search(r"may only be applied to ([^.]+)", md, re.I)) else ""
+                    if f.stem == "Weapons":
+                        applies = ["ranged"] if "ranged" in only else ["melee"] if "melee" in only else ["melee", "ranged"]
+                    else:
+                        applies = ["shield"] if "shield" in only and "armor" not in only else ["armor"] if "armor" in only and "shield" not in only else ["armor", "shield"]
+                    entries.append(_gear_entry("ability", name, system, source, url, md, price, "", applies=applies,
+                                               prices=_ability_prices(price), aura=fl.get("Aura", ""), cl=fl.get("CL", "")))
+                continue
+            mod = mod_rows.pop(name.lower(), None)
+            if mod:  # Practitioner Weapons' modifications
+                seen.add((system, "mod", name.lower()))
+                # (not Adventurer's Armory 2 modifications: no change to the weapon's category)
+                entries.append(_gear_entry("mod", name, system, source, url, md, mod["cost"], mod["weight"], applies=["weapon"]))
+                continue
             row = table.pop(name.lower(), None)
             if row:
                 if (system, "weapon", name.lower()) not in seen:
@@ -5217,6 +5260,26 @@ def build_gear_compendium() -> int:
                             else "Bows" if "arrow" in n else "Crossbows" if "bolt" in n
                             else "Slings" if re.search(r"sling|bullet|stone", n)
                             else "Darts and blowguns" if re.search(r"dart|thorns", n) else "Other")
+    # AoN gives some special abilities a page per list (armor, shield): one entry, going on both
+    first: dict[tuple[str, str], dict] = {}
+    for x in [x for x in entries if x["cat"] == "ability"]:
+        # (a weapon ability and an armor one can share a name: Defiant)
+        key = (x["system"], x["name"].lower(), "weapon" if set(x["applies"]) <= {"melee", "ranged"} else "armor")
+        if key in first:
+            first[key]["applies"] = sorted(set(first[key]["applies"]) | set(x["applies"]), key=["melee", "ranged", "armor", "shield"].index)
+            entries.remove(x)
+        else:
+            first[key] = x
+    # weapon and armor modifications (Adventurer's Armory 2) are added to an item, not items of their own
+    for x in entries:
+        if x["cat"] == "weapon" and x.get("sub") == "Modification":
+            x.update(cat="mod", applies=["weapon"], drawback=WEAPON_MOD_DRAWBACK)
+        elif x["cat"] == "armor" and x.get("armorType") == "mod":
+            shieldy = "shield" in x["name"].lower()
+            x.update(cat="mod", applies=["shield"] if shieldy else ["armor", "shield"] if re.search(r"shield", x["md"], re.I) else ["armor"],
+                     drawback=m.group(1).strip() if (m := re.search(r"#+ Drawback\s*\n+(.+?)(?=\n#|\Z)", x["md"], re.S)) else "")
+            for k in ("ac", "maxDex", "acp", "asf", "speed", "armorType"):
+                x.pop(k, None)
     # ids, files and the index
     used: set[str] = set()
     for x in entries:
@@ -5261,9 +5324,12 @@ def _first_heading(lines: list[str], text: str) -> int:
     return next((k for k, l in enumerate(lines) if re.match(rf"#+ {re.escape(text)}\s*$", l)), -1)
 
 
-def _practitioner_weapon_rows(lines: list[str]) -> dict[str, dict]:
-    """Practitioner Weapons' table: "(Martial) One-Handed Melee Weapons" header rows, then a row per weapon."""
+def _practitioner_weapon_rows(lines: list[str]) -> tuple[dict[str, dict], dict[str, dict]]:
+    """Practitioner Weapons' table: "(Martial) One-Handed Melee Weapons" header rows, then a row per weapon;
+    after the "Modifications" row, the weapon modifications (cost and weight added to the weapon)."""
     out: dict[str, dict] = {}
+    mods: dict[str, dict] = {}
+    in_mods = False
     prof = hands = attack = None
     for l in lines:
         cells = [c.strip() for c in l.strip().strip("|").split("|")] if l.startswith("|") else []
@@ -5275,7 +5341,10 @@ def _practitioner_weapon_rows(lines: list[str]) -> dict[str, dict]:
             attack = "ranged" if kind == "Ranged" else "melee"
             continue
         if cells[0] == "Modifications":
-            prof = None
+            prof, in_mods = None, True
+            continue
+        if in_mods:
+            mods[cells[0].lower()] = {"name": cells[0], "cost": cells[1], "weight": cells[6]}
             continue
         if not prof:
             continue
@@ -5289,7 +5358,7 @@ def _practitioner_weapon_rows(lines: list[str]) -> dict[str, dict]:
             "dmgS": cells[2].replace("-", "") if cells[2] != "-" else "", "dmgM": cells[3] if cells[3] != "-" else "",
             "critRange": crit_range, "critMult": crit_mult, "range": rng, "dmgType": cells[7].strip("-"),
             "special": cells[8], "groups": ""}}
-    return out
+    return out, mods
 
 
 def write_gear_review(entries: list[dict]) -> None:

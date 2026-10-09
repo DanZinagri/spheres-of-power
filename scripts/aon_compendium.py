@@ -381,7 +381,10 @@ def gear_data() -> int:
                     elif getattr(el, "name", None) == "a" and el.get("href"):
                         href = el["href"].lstrip("/").replace("&amp;", "&")
                         if re.match(pattern, href):
-                            out.setdefault(page_url(href), {"index": page.split(".")[0], "list": listed, "section": section})
+                            rec = out.setdefault(page_url(href), {"index": page.split(".")[0], "list": listed,
+                                                                  "section": section, "lists": []})
+                            if listed not in rec["lists"]:  # a special ability can be melee and ranged
+                                rec["lists"].append(listed)
     (OUT / "gear-data.json").write_text(json.dumps(out, ensure_ascii=False, indent=0), encoding="utf-8")
     return len(out)
 

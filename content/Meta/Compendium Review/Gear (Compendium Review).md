@@ -6,7 +6,7 @@ nosearch: true
 
 What the Character Builder's gear picker reads: Pathfinder items from Archives of Nethys, and the Spheres items found on the wiki's pages. Counts by category and group, then every Spheres item.
 
-## Weapon (413)
+## Weapon (406)
 
 | Group | Pathfinder | Spheres |
 | --- | --- | --- |
@@ -28,7 +28,6 @@ What the Character Builder's gear picker reads: Pathfinder items from Archives o
 | Simple melee two (Weapon) | 10 | — |
 | Simple ranged one (Weapon) | 6 | — |
 | Simple ranged two (Weapon) | 4 | — |
-| — melee  (Modification) | 7 | — |
 | — melee light (Weapon) | 6 | — |
 | — ranged  (Siege engine) | 43 | — |
 
@@ -42,7 +41,7 @@ What the Character Builder's gear picker reads: Pathfinder items from Archives o
 | Firearm ammunition and gear | 27 | — |
 | Siege engine | 10 | — |
 
-## Armor (62)
+## Armor (53)
 
 | Group | Pathfinder | Spheres |
 | --- | --- | --- |
@@ -50,7 +49,6 @@ What the Character Builder's gear picker reads: Pathfinder items from Archives o
 | heavy | 16 | — |
 | light | 20 | — |
 | medium | 14 | — |
-| mod | 9 | — |
 
 ## Shield (15)
 
@@ -101,7 +99,7 @@ What the Character Builder's gear picker reads: Pathfinder items from Archives o
 | Potions and elixirs | 10 | — |
 | Scrolls | — | 8 |
 
-## Magic (4898)
+## Magic (4896)
 
 | Group | Pathfinder | Spheres |
 | --- | --- | --- |
@@ -125,7 +123,7 @@ What the Character Builder's gear picker reads: Pathfinder items from Archives o
 | Specific armor | 174 | — |
 | Specific armor and shields | — | 13 |
 | Specific shields | 62 | — |
-| Specific weapons | 478 | 68 |
+| Specific weapons | 478 | 66 |
 | Spell engines (wands) | — | 28 |
 | Staves | 106 | — |
 | Wondrous (Belt) | 81 | — |
@@ -142,7 +140,20 @@ What the Character Builder's gear picker reads: Pathfinder items from Archives o
 | Wondrous (Slotless) | 1313 | — |
 | Wondrous (Wrist) | 78 | — |
 
-## Spheres items (790)
+## Ability (385)
+
+| Group | Pathfinder | Spheres |
+| --- | --- | --- |
+| — | 324 | 61 |
+
+## Mod (19)
+
+| Group | Pathfinder | Spheres |
+| --- | --- | --- |
+| — | 9 | 3 |
+| Modification | 7 | — |
+
+## Spheres items (852)
 
 | Item | Category | Group | Price | Weight |
 | --- | --- | --- | --- | --- |
@@ -162,6 +173,27 @@ What the Character Builder's gear picker reads: Pathfinder items from Archives o
 | [[Armor#souleater\|Souleater]] | magic | Specific armor and shields | 68000 gp | 0 lb. |
 | [[Armor#stopgap\|Stopgap]] | magic | Specific armor and shields | 10170 gp | 5 lb. |
 | [[Armor#shield-expander\|Shield Expander]] | magic | Specific armor and shields | 20000 gp | 1 lb. |
+| [[Armor#anti-ballistic\|Anti-Ballistic]] | ability |  | **+1 bonus** | **not read** |
+| [[Armor#anti-spell\|Anti-Spell]] | ability |  | **+2 bonus** | **not read** |
+| [[Armor#attendant\|Attendant]] | ability |  | 500 gp | **not read** |
+| [[Armor#chaos-buffer\|Chaos Buffer]] | ability |  | 2000 gp | **not read** |
+| [[Armor#collapsible\|Collapsible]] | ability |  | 1000 gp | **not read** |
+| [[Armor#deflecting-shield-only\|Deflecting (shield only)]] | ability |  | **+1 bonus** | **not read** |
+| [[Armor#explicating\|Explicating]] | ability |  | **+2 bonus** | **not read** |
+| [[Armor#focusing-armor-only\|Focusing (armor only)]] | ability |  | **+4 bonus** | **not read** |
+| [[Armor#glimmering\|Glimmering]] | ability |  | **+1 bonus** | **not read** |
+| [[Armor#green-touched\|Green-Touched]] | ability |  | **+1 bonus** | **not read** |
+| [[Armor#informing\|Informing]] | ability |  | **+1 bonus** | **not read** |
+| [[Armor#intercepting-shield-only\|Intercepting (shield only)]] | ability |  | **+1 bonus** | **not read** |
+| [[Armor#jamais-vu\|Jamais Vu]] | ability |  | **+2 bonus** | **not read** |
+| [[Armor#sacrificial\|Sacrificial]] | ability |  | **+1 bonus** | **not read** |
+| [[Armor#selfless-armor-only\|Selfless (armor only)]] | ability |  | **+2 bonus** | **not read** |
+| [[Armor#shaded-armor-only\|Shaded (armor only)]] | ability |  | 7500 gp | **not read** |
+| [[Armor#shadow-warded-armor-only\|Shadow Warded (armor only)]] | ability |  | **+1 bonus** | **not read** |
+| [[Armor#spell-storing\|Spell Storing]] | ability |  | **+1 bonus** | **not read** |
+| [[Armor#supplying\|Supplying]] | ability |  | **+1 bonus** | **not read** |
+| [[Armor#wand-turret-armor-only\|Wand Turret (armor only)]] | ability |  | **+2 bonus** | **not read** |
+| [[Armor#wild\|Wild]] | ability |  | **+3 bonus** | **not read** |
 | [[Wraith#haunting-doll\|Haunting Doll]] | magic | Class items | 15000 gp | 3 lb. |
 | [[Wraith#wraith-dust\|Wraith Dust]] | magic | Class items | 25000 gp | 1 lb. |
 | [[Armiger#ring-of-flexibility\|Ring Of Flexibility]] | magic | Class items | 18000 gp | 1 lb. |
@@ -269,8 +301,46 @@ What the Character Builder's gear picker reads: Pathfinder items from Archives o
 | [[Weapons#the-canceller-minor-artifact\|The Canceller (Minor Artifact)]] | magic | Specific weapons | 0 gp | 2 lb. |
 | [[Weapons#white-scythe-minor-artifact\|White Scythe (Minor Artifact)]] | magic | Specific weapons | 0 gp | 10 lb. |
 | [[Weapons#light-of-destruction\|Light Of Destruction]] | magic | Specific weapons | 96775 gp | 3 lb. |
-| [[Weapons#bloodsong\|Bloodsong]] | magic | Specific weapons | **+1 bonus,** | 0 lb. |
-| [[Weapons#heartseeker\|Heartseeker]] | magic | Specific weapons | **+1 bonus,** | 0 lb. |
+| [[Weapons#arcing\|Arcing]] | ability |  | **+1 bonus** | **not read** |
+| [[Weapons#avalanche\|Avalanche]] | ability |  | **+1 bonus** | **not read** |
+| [[Weapons#blast-vessel\|Blast Vessel]] | ability |  | **+2 bonus** | **not read** |
+| [[Weapons#blood-dowsing\|Blood Dowsing]] | ability |  | 6000 gp | **not read** |
+| [[Weapons#bloodsong\|Bloodsong]] | ability |  | **+1 bonus,** | **not read** |
+| [[Weapons#conscription\|Conscription]] | ability |  | **+3 bonus** | **not read** |
+| [[Weapons#cord-cutting\|Cord-Cutting]] | ability |  | 40000 gp | **not read** |
+| [[Weapons#courageous\|Courageous]] | ability |  | **+1 bonus** | **not read** |
+| [[Weapons#crackling\|Crackling]] | ability |  | 2500 gp | **not read** |
+| [[Weapons#decisive\|Decisive]] | ability |  | **+2 bonus** | **not read** |
+| [[Weapons#destructive-focus\|Destructive Focus]] | ability |  | **+1 bonus** | **not read** |
+| [[Weapons#destructive-focus-greater\|Destructive Focus, Greater]] | ability |  | **+2 bonus** | **not read** |
+| [[Weapons#dimensional\|Dimensional]] | ability |  | **+4 bonus** | **not read** |
+| [[Weapons#dispelling\|Dispelling]] | ability |  | **+1 bonus** | **not read** |
+| [[Weapons#dispelling-burst\|Dispelling Burst]] | ability |  | **+2 bonus** | **not read** |
+| [[Weapons#entangling\|Entangling]] | ability |  | **+1 bonus** | **not read** |
+| [[Weapons#fey-forged\|Fey-Forged]] | ability |  | **+1 bonus** | **not read** |
+| [[Weapons#heartseeker\|Heartseeker]] | ability |  | **+1 bonus,** | **not read** |
+| [[Weapons#howling\|Howling]] | ability |  | **+1 bonus** | **not read** |
+| [[Weapons#hungry\|Hungry]] | ability |  | **+1 bonus** | **not read** |
+| [[Weapons#hypochondriac\|Hypochondriac]] | ability |  | **+1 bonus** | **not read** |
+| [[Weapons#invisible\|Invisible]] | ability |  | **+3 bonus (+4 for firearms)** | **not read** |
+| [[Weapons#leaping\|Leaping]] | ability |  | **+1 bonus** | **not read** |
+| [[Weapons#phasic\|Phasic]] | ability |  | **+2 bonus** | **not read** |
+| [[Weapons#plasma-blade\|Plasma Blade]] | ability |  | **+3 bonus** | **not read** |
+| [[Weapons#preventative\|Preventative]] | ability |  | **+1 bonus** | **not read** |
+| [[Weapons#radiant-edge\|Radiant Edge]] | ability |  | **+2 bonus** | **not read** |
+| [[Weapons#resonant\|Resonant]] | ability |  | **+1 bonus** | **not read** |
+| [[Weapons#sail-torch\|Sail Torch]] | ability |  | 500 gp | **not read** |
+| [[Weapons#shade-hexed\|Shade-Hexed]] | ability |  | 5000 gp | **not read** |
+| [[Weapons#shadowstrike\|Shadowstrike]] | ability |  | **+2 bonus (melee weapon) or +3 bonus (ranged weapon or ammunition)** | **not read** |
+| [[Weapons#shadow-wake\|Shadow Wake]] | ability |  | **+1 bonus** | **not read** |
+| [[Weapons#skeptical\|Skeptical]] | ability |  | **+1 bonus** | **not read** |
+| [[Weapons#spell-stealing\|Spell Stealing]] | ability |  | **+3 bonus** | **not read** |
+| [[Weapons#tenebrous\|Tenebrous]] | ability |  | 4000 gp | **not read** |
+| [[Weapons#thirsty\|Thirsty]] | ability |  | **+1 bonus** | **not read** |
+| [[Weapons#umbral-edged\|Umbral Edged]] | ability |  | **+1 bonus** | **not read** |
+| [[Weapons#wild-critical\|Wild Critical]] | ability |  | **+1 bonus** | **not read** |
+| [[Weapons#wild-fang\|Wild Fang]] | ability |  | **+1 bonus** | **not read** |
+| [[Weapons#windblast\|Windblast]] | ability |  | **+2 bonus** | **not read** |
 | [[Armorist#armorists-toolkit\|Armorist’s Toolkit]] | magic | Class items | 2500 gp | 4 lb. |
 | [[Armorist#expanded-arsenal\|Expanded Arsenal]] | magic | Class items | 12500 gp | 2 lb. |
 | [[Eliciter#ardent-ring\|Ardent Ring]] | magic | Class items | 10000 gp | 0.5 lb. |
@@ -440,6 +510,9 @@ What the Character Builder's gear picker reads: Pathfinder items from Archives o
 | [[Practitioner-Weapons#war-flute\|War Flute]] | weapon | Weapon | 16 gp | 7 lb. |
 | [[Practitioner-Weapons#war-lute\|War Lute]] | weapon | Weapon | 50 gp | 8 lb. |
 | [[Practitioner-Weapons#war-mallet\|War Mallet]] | weapon | Weapon | 15 gp | 2 lb. |
+| [[Practitioner-Weapons#chain-net\|Chain Net]] | mod |  | 100 gp | 15 lb. |
+| [[Practitioner-Weapons#scabbard-oiler\|Scabbard, Oiler]] | mod |  | 20 gp | 1 lb. |
+| [[Practitioner-Weapons#training\|Training]] | mod |  | **half** | 0 lb. |
 | [[Practitioner-Weapons\|Titanic edge]] | weapon | Weapon | 20 gp | 25 lb. |
 | [[Metamagic-Apparatuses#aligned-metamagic-apparatus\|Aligned Metamagic Apparatus]] | magic | Apparatuses (rods) | 10000 gp | 5 lb. |
 | [[Metamagic-Apparatuses#aquatic-metamagic-apparatus\|Aquatic Metamagic Apparatus]] | magic | Apparatuses (rods) | 5000 gp | 5 lb. |

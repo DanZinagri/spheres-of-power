@@ -178,10 +178,10 @@ function calcCore(m) {
   for (const g of s.gear) {
     if (!g.equipped) continue
     if (g.kind === "armor") {
-      armor += num(g.ac)
+      armor += num(g.ac) + num(g.enh)
       if (g.maxDex !== "" && g.maxDex != null) maxDex = Math.min(maxDex, num(g.maxDex) + m("mDexA"))
     }
-    if (g.kind === "shield") shield += num(g.ac)
+    if (g.kind === "shield") shield += num(g.ac) + num(g.enh)
     if (g.kind === "armor" || g.kind === "shield") {
       const pen = Math.max(0, Math.abs(num(g.acp)) + m(g.kind === "armor" ? "acpA" : "acpS"))
       worstAcp[g.kind] = Math.max(worstAcp[g.kind], pen)
@@ -1153,7 +1153,6 @@ const panels = {
           field("Type", input(p + "dmgType", { placeholder: "S", style: "width:4rem" }), "B / P / S"),
           field("Crit range", input(p + "critRange", { type: "number", min: 2, max: 20, placeholder: "20" }, { allowBlank: true })),
           field("Crit ×", input(p + "critMult", { type: "number", min: 2, max: 6, placeholder: "2" }, { allowBlank: true })),
-          field("Enhancement", input(p + "enh", { type: "number", min: 0, max: 10 })),
         )
         if (e.kind === "armor" || e.kind === "shield") out.push(
           field(e.kind === "armor" ? "Armor type" : "Shield type", select(p + "armorType", e.kind === "armor" ? ARMOR_TYPES : SHIELD_TYPES)),
@@ -1162,6 +1161,7 @@ const panels = {
           field("Check penalty", input(p + "acp", { type: "number", min: 0 })),
           field("Spell failure %", input(p + "asf", { type: "number", min: 0, step: 5 })),
         )
+        if (MAGIC_KINDS.includes(e.kind)) out.push(magicBlock(e, +p.split(".")[1]))
         return out
       }, () => h("button", { style: "margin-top:.75rem", onclick: () => openGearChooser() }, "+ Add item"), groupBy("kind", GEAR_KINDS)),
     ]
@@ -1825,7 +1825,7 @@ function spellItemPrice(type, level, cl, materialGp = 0) {
 // "M (diamond dust worth 500 gp)" -> 500
 const materialCost = (components) => [...(components ?? "").matchAll(/worth\s+([\d,]+)\s*gp/gi)].reduce((a, m) => a + +m[1].replace(/,/g, ""), 0)
 
-const gp = (n) => (n == null ? "—" : n >= 1 || n === 0 ? `${+n.toFixed(2)} gp` : n >= 0.1 ? `${+(n * 10).toFixed(1)} sp` : `${Math.round(n * 100)} cp`)
+const gp = (n) => (n == null ? "—" : n >= 1 || n === 0 ? `${(+n.toFixed(2)).toLocaleString("en-US")} gp` : n >= 0.1 ? `${+(n * 10).toFixed(1)} sp` : `${Math.round(n * 100)} cp`)
 const lb = (n) => (n == null ? "" : n === 0 ? "—" : `${+n.toFixed(3)} lb.`)
 // a magic item's slot as one of the body slots ("boots" -> feet, "neck or shoulder" -> neck)
 const MAGIC_SLOTS = [[/^armor/, "armor"], [/^shield/, "shield"], [/^(belt|waist)/, "belt"], [/^(body|torso)/, "body"],
@@ -1833,13 +1833,9 @@ const MAGIC_SLOTS = [[/^armor/, "armor"], [/^shield/, "shield"], [/^(belt|waist)
   [/^headband/, "headband"], [/^(head|helm|mask|face)/, "head"], [/^(neck|amulet)/, "neck"], [/^ring/, "ring"],
   [/^(shoulder|cloak|mantle|back)/, "shoulders"], [/^wrist/, "wrist"], [/^weapon/, "weapon"]]
 const magicSlot = (f) => { const s = (f.slot ?? "").toLowerCase().trim(); return MAGIC_SLOTS.find(([re]) => re.test(s))?.[1] ?? "none" }
-// enhancement for a weapon, armor or shield bought from the compendium: name prefix and extra price
+// enhancement for a weapon, armor or shield bought from the compendium (priced by changeMagic)
 // (a list: an object would put the number keys first)
 const ENHANCEMENTS = [["", "Not magical"], ["mw", "Masterwork"], ...[1, 2, 3, 4, 5].map((n) => [n, `+${n}`])]
-function enhancementPrice(cat, enh) {
-  const [mw, per] = cat === "weapon" ? [300, 2000] : [150, 1000]
-  return enh === "mw" ? mw : enh ? mw + per * enh * enh : 0
-}
 
 // the purse: the total in copper, and paying an amount (in gp) out of it, making change from a
 // bigger coin when the smaller ones run out. Returns false (and pays nothing) when it can't.
@@ -2067,13 +2063,17 @@ function openGearSearch(cat) {
         armorType: as === "armor" ? `${["light", "medium", "heavy"].includes(f.armorType) ? f.armorType : "light"}Armor`
           : { buckler: "other", light: "lightShield", heavy: "heavyShield", tower: "towerShield" }[f.shieldType] ?? "other" })
     }
-    if (e && ["weapon", "armor", "shield"].includes(cat) && ["Weapon", "Firearm", undefined].includes(f.sub)) {
-      price += enhancementPrice(cat, e)
-      name = e === "mw" ? `Masterwork ${fold(f.name)}` : `+${e} ${fold(f.name)}`
-      if (e !== "mw") item.enh = e
-      if (cat !== "weapon") item.acp = Math.max(0, num(item.acp) - 1) // masterwork armor and shields
+    if (as === "weapon") item.prof = f.prof ?? ""
+    const row = { ...item, name, price, abilities: [], mods: [] }
+    if (cat === "magic" && MAGIC_KINDS.includes(as)) {
+      // a specific magic weapon or armor: its price already includes masterwork and its bonus
+      row.masterwork = true
+      if (as !== "weapon") row.acp = Math.max(0, num(row.acp) - 1)
+    } else if (e && MAGIC_KINDS.includes(cat) && ["Weapon", "Firearm", undefined].includes(f.sub)) {
+      row.enh = 0
+      changeMagic(row, (x) => { if (e === "mw") x.masterwork = true; else x.enh = e })
     }
-    acquire({ ...item, name, price }, price)
+    acquire(row, row.price)
   }
   const pickSpell = async (f) => {
     const it = spellItem(f)
@@ -2127,6 +2127,204 @@ function openGearSearch(cat) {
   })
   box.focus()
 }
+
+// ---------- magic weapons, armor and shields ----------
+// A weapon, armor or shield row carries its enhancement bonus, masterwork, special abilities
+// (compendium/gear-index-ability.json: a +N bonus or a flat gp cost each) and modifications
+// (gear-index-mod.json: Adventurer's Armory 2 and Spheres weapon modifications). Its price moves by
+// what each change costs (Core Rulebook: weapons 2,000 gp x bonus squared, armor and shields 1,000;
+// masterwork 300 / 150; flat-cost abilities and modifications added on), so a price typed in by hand
+// is kept and only adjusted.
+const MAGIC_KINDS = ["weapon", "armor", "shield"]
+const MAX_ENHANCEMENT = 5
+const MAX_TOTAL_BONUS = 10
+const abilityBonus = (g) => (g.abilities ?? []).reduce((a, x) => a + num(x.bonus), 0)
+const totalBonus = (g) => num(g.enh) + abilityBonus(g)
+// masterwork comes with any magic (the enhancement bonus or a special ability)
+const isMasterwork = (g) => !!g.masterwork || totalBonus(g) > 0 || (g.abilities ?? []).length > 0
+function magicCost(g) {
+  const [mw, per] = g.kind === "weapon" ? [300, 2000] : [150, 1000]
+  const bonus = totalBonus(g)
+  const flat = (g.abilities ?? []).reduce((a, x) => a + num(x.gp), 0)
+  const mods = (g.mods ?? []).reduce((a, x) => a + num(x.price), 0)
+  return (isMasterwork(g) ? mw : 0) + per * bonus * bonus + flat + mods
+}
+// "+1 longsword" / "Masterwork longsword": the prefix the row's name gets from its enhancement
+const magicPrefix = (g) => (num(g.enh) ? `+${num(g.enh)} ` : isMasterwork(g) ? "Masterwork " : "")
+// apply a change to a row and move its price (and masterwork armor's check penalty) with it;
+// returns the price difference (what buying the change costs)
+function changeMagic(g, mutate, { dryRun = false } = {}) {
+  const before = { cost: magicCost(g), mw: isMasterwork(g), prefix: magicPrefix(g) }
+  const copy = dryRun ? structuredClone(g) : g
+  mutate(copy)
+  const delta = Math.round((magicCost(copy) - before.cost) * 100) / 100
+  if (dryRun) return delta
+  g.price = Math.round((num(g.price) + delta) * 100) / 100
+  if (g.kind !== "weapon" && before.mw !== isMasterwork(g)) g.acp = Math.max(0, num(g.acp) + (isMasterwork(g) ? -1 : 1))
+  // rename "+1 longsword" -> "+2 longsword" (a name without the prefix is left alone)
+  const name = g.name ?? ""
+  if (before.prefix && name.startsWith(before.prefix)) {
+    const rest = name.slice(before.prefix.length)
+    g.name = magicPrefix(g) ? magicPrefix(g) + rest : rest.charAt(0).toUpperCase() + rest.slice(1)
+  } else if (!before.prefix && magicPrefix(g) && name) g.name = magicPrefix(g) + (g.ref ? name.charAt(0).toLowerCase() + name.slice(1) : name)
+  return delta
+}
+// what a special ability goes on, for this row
+const abilitySlot = (g) => (g.kind === "weapon" ? (g.attack === "ranged" ? "ranged" : "melee") : g.kind)
+// Armor Adept: ignore two armor modifications' drawbacks per feat; Weapon Adept: one weapon modification per feat
+function adeptAllowance() {
+  const count = (re) => state.features.filter((f) => re.test(f.name ?? "")).length
+  const ignored = (kinds) => new Set(state.gear.filter((g) => kinds.includes(g.kind))
+    .flatMap((g) => (g.mods ?? []).filter((m) => m.ignored).map((m) => m.name.toLowerCase())))
+  return {
+    armor: { feats: count(/^armor adept/i), allowed: 2 * count(/^armor adept/i), used: ignored(["armor", "shield"]).size },
+    weapon: { feats: count(/^weapon adept/i), allowed: count(/^weapon adept/i), used: ignored(["weapon"]).size },
+  }
+}
+const PROF_STEPS = ["Simple", "Martial", "Exotic"]
+
+// the row's "Magic and modifications" block
+function magicBlock(g, i) {
+  g.abilities ??= []
+  g.mods ??= []
+  const set = (mutate) => { changeMagic(g, mutate); changed(true) }
+  const enh = h("select", { "aria-label": "Enhancement bonus" },
+    ...Array.from({ length: MAX_ENHANCEMENT + 1 }, (_, n) => h("option", { value: n, selected: num(g.enh) === n }, n ? `+${n}` : "None")))
+  enh.addEventListener("change", () => set((x) => { x.enh = +enh.value }))
+  const mw = h("input", { type: "checkbox", checked: isMasterwork(g), disabled: totalBonus(g) > 0 || g.abilities.length > 0 })
+  mw.addEventListener("change", () => set((x) => { x.masterwork = mw.checked }))
+  const bonus = totalBonus(g)
+  const adept = adeptAllowance()
+  const modKind = g.kind === "weapon" ? "weapon" : "armor"
+  const warnings = [
+    g.abilities.some((a) => a.bonus) && !num(g.enh) ? "Special abilities need at least a +1 enhancement bonus." : "",
+    bonus > MAX_TOTAL_BONUS ? `The total bonus is +${bonus}; the most is +${MAX_TOTAL_BONUS}.` : "",
+    adept[modKind].used > adept[modKind].allowed
+      ? `${adept[modKind].used} ${modKind} modification${adept[modKind].used > 1 ? "s" : ""} ignored, but ${modKind === "weapon" ? "Weapon" : "Armor"} Adept (taken ${adept[modKind].feats} time${adept[modKind].feats === 1 ? "" : "s"}) covers ${adept[modKind].allowed}.` : "",
+  ].filter(Boolean)
+  // a modified weapon is one category harder to wield per modification without Weapon Adept for it
+  let wield = null
+  if (g.kind === "weapon" && g.mods.length) {
+    const steps = g.mods.filter((m) => m.drawback && !m.ignored).length
+    const base = PROF_STEPS.indexOf(g.prof ?? "")
+    wield = steps ? (base < 0 ? `Wielded ${steps} categor${steps > 1 ? "ies" : "y"} harder than normal.`
+      : base + steps < PROF_STEPS.length ? `Wielded as a${PROF_STEPS[base + steps] === "Exotic" ? "n" : ""} ${PROF_STEPS[base + steps].toLowerCase()} weapon (${g.prof.toLowerCase()} + ${steps} modification${steps > 1 ? "s" : ""}).`
+        : `Harder to wield than exotic (${g.prof.toLowerCase()} + ${steps} modification${steps > 1 ? "s" : ""}): only with Weapon Adept.`) : null
+  }
+  const drawbacks = g.kind !== "weapon" ? g.mods.filter((m) => m.drawback && !m.ignored) : []
+  const chip = (text, title, onRemove, extra) => h("span", { class: "mchip", title },
+    text, extra ?? null, h("button", { class: "small ghost", "aria-label": `Remove ${text}`, onclick: onRemove }, "✕"))
+  return h("div", { class: "magic-block" },
+    h("div", { class: "row", style: "gap:.6rem;flex-wrap:wrap;align-items:center" },
+      h("span", { class: "group-title", style: "margin:0" }, "Magic and modifications"),
+      h("label", { class: "row", style: "gap:.3rem" }, "Enhancement", enh),
+      h("label", { class: "row", style: "gap:.3rem" }, mw, "Masterwork"),
+      h("button", { class: "small", onclick: () => openAbilityPicker(i) }, "+ Special ability"),
+      h("button", { class: "small", onclick: () => openModPicker(i) }, "+ Modification")),
+    g.abilities.length || g.mods.length ? h("div", { class: "row", style: "gap:.4rem;flex-wrap:wrap;margin-top:.4rem" },
+      ...g.abilities.map((a, k) => chip(`${a.name}${a.label ? ` (${a.label})` : ""} ${a.bonus ? `+${a.bonus}` : gp(num(a.gp))}`, a.summary ?? "",
+        () => set((x) => { x.abilities.splice(k, 1) }))),
+      ...g.mods.map((m, k) => {
+        const ign = h("input", { type: "checkbox", checked: !!m.ignored, title: "Ignore its drawback (Armor Adept / Weapon Adept)" })
+        ign.addEventListener("change", () => { m.ignored = ign.checked; changed(true) })
+        return chip(`${m.name} ${gp(num(m.price))}`, m.drawback ? `Drawback: ${m.drawback}` : "",
+          () => set((x) => { x.mods.splice(k, 1); x.weight = Math.max(0, num(x.weight) - num(m.weight)) }),
+          m.drawback ? h("label", { class: "row", style: "gap:.2rem;font-size:.85em" }, ign, "ignore drawback") : null)
+      })) : null,
+    h("p", { class: "note", style: "margin:.35rem 0 0" },
+      `Total bonus +${bonus} of +${MAX_TOTAL_BONUS}${num(g.enh) ? ` (+${num(g.enh)} enhancement)` : ""}; magic, masterwork and modifications cost ${gp(magicCost(g))} of the price.`),
+    wield ? h("p", { class: "note", style: "margin:.2rem 0 0" }, wield) : null,
+    ...drawbacks.map((m) => h("p", { class: "note", style: "margin:.2rem 0 0" }, `${m.name}: ${m.drawback}`)),
+    ...warnings.map((w) => h("p", { class: "warn", style: "margin:.2rem 0 0" }, w)))
+}
+
+// pick a special ability (or a modification) for row i; shows what each costs this item
+function openUpgradePicker(i, which) {
+  const g = state.gear[i]
+  const isAbility = which === "ability"
+  const slot = isAbility ? abilitySlot(g) : g.kind
+  const slotName = { melee: "melee weapon", ranged: "ranged weapon", weapon: "weapon", armor: "armor", shield: "shield" }[slot]
+  const box = h("input", { type: "search", placeholder: `Search ${isAbility ? "special abilities" : "modifications"} by name`, "aria-label": "Search" })
+  const fullText = h("input", { type: "checkbox" })
+  const cost = gearSelect("Cost", [["", "Any cost"], ...[1, 2, 3, 4, 5].map((n) => [String(n), `+${n} bonus`]), ["gp", "Flat gp cost"]])
+  const buy = h("input", { type: "checkbox" })
+  const results = h("div", { class: "picker-results", role: "list" }, h("p", { class: "muted" }, "Loading…"))
+  const dlg = openDialog(`Add ${isAbility ? "a special ability" : "a modification"} to ${g.name || `this ${slotName}`}`,
+    h("div", { class: "row picker-filters" }, box, isAbility ? cost : null),
+    h("div", { class: "row picker-filters" },
+      h("label", { class: "row", style: "gap:.3rem" }, fullText, "Search the text too"),
+      h("label", { class: "row", style: "gap:.3rem" }, buy, "Buy it (pay the difference from your coins)")),
+    h("p", { class: "note" }, isAbility ? `Special abilities for a ${slotName}. A +N ability counts toward the +${MAX_TOTAL_BONUS} limit; flat-cost ones don't.`
+      : g.kind === "weapon" ? "Each Adventurer's Armory modification makes the weapon one category harder to wield (Weapon Adept ignores that for one modification)."
+        : "Each modification has a drawback (Armor Adept ignores the drawbacks of two)."),
+    results)
+  let all = [], texts = null
+  // one row per price option (Fortification: light / moderate / heavy)
+  const options = (f) => (isAbility ? (f.prices?.length ? f.prices : [{ label: "", bonus: 0 }]) : [{}])
+  const apply = (f, o) => (x) => {
+    if (isAbility) x.abilities.push({ ref: f.id, name: f.name, label: o.label || "", bonus: o.bonus ?? 0, gp: o.gp ?? 0, summary: f.summary ?? "" })
+    else {
+      x.mods.push({ ref: f.id, name: f.name, price: f.price ?? 0, weight: f.weight ?? 0, drawback: f.drawback ?? "", ignored: false })
+      x.weight = num(x.weight) + num(f.weight)
+    }
+  }
+  const render = () => {
+    const q = fold(box.value.trim())
+    const rows = []
+    for (const f of all) {
+      if (!(state.spheresModule || isPf(f))) continue
+      if (q && !fold(f.name).includes(q) && !(fullText.checked && texts?.[f.id]?.includes(q))) continue
+      for (const o of options(f)) {
+        if (cost.value && (cost.value === "gp" ? !o.gp : String(o.bonus) !== cost.value)) continue
+        rows.push([f, o])
+      }
+    }
+    const rank = (f) => (!q ? 0 : fold(f.name).startsWith(q) ? 0 : 1)
+    rows.sort(([a], [b]) => rank(a) - rank(b) || a.name.localeCompare(b.name))
+    const shown = rows.slice(0, 60)
+    fill(results,
+      ...shown.map(([f, o]) => {
+        const delta = changeMagic(g, apply(f, o), { dryRun: true })
+        const what = isAbility ? (o.bonus ? `+${o.bonus} bonus` : `${gp(o.gp)} flat`) : `${gp(f.price ?? 0)}${f.weight ? `, +${lb(f.weight)}` : ""}`
+        const over = isAbility && totalBonus(g) + num(o.bonus) > MAX_TOTAL_BONUS
+        return h("button", { class: "picker-item", role: "listitem", onclick: () => pick(f, o) },
+          h("span", { class: "pi-name" }, `${f.name}${o.label ? ` (${o.label})` : ""}`,
+            h("span", { class: "pi-meta" }, ` ${what} · this ${slotName}: +${gp(delta)}${over ? ` · over +${MAX_TOTAL_BONUS}` : ""}${isPf(f) ? "" : ` · ${f.system}`}`)),
+          f.summary ? h("span", { class: "pi-sum" }, f.summary) : null,
+          f.drawback ? h("span", { class: "pi-pre" }, `Drawback: ${f.drawback}`) : null)
+      }),
+      rows.length > shown.length ? h("p", { class: "note" }, `Showing ${shown.length} of ${rows.length}; type more of the name.`) : null,
+      rows.length ? null : h("p", { class: "muted" }, all.length ? "Nothing matches." : `No ${isAbility ? "special abilities" : "modifications"} for a ${slotName}.`))
+  }
+  const pick = (f, o) => {
+    const delta = changeMagic(g, apply(f, o), { dryRun: true })
+    if (buy.checked && !pay(delta)) {
+      results.prepend(h("p", { class: "warn" }, `You can't afford it (${gp(delta)}); you have ${gp(purseCp() / 100)}. Uncheck "Buy it" to add it anyway.`))
+      return
+    }
+    changeMagic(g, apply(f, o))
+    if (buy.checked) toast(`Paid ${gp(delta)} for ${f.name}`)
+    dlg.done()
+    changed(true)
+  }
+  box.addEventListener("input", render)
+  cost.addEventListener("change", render)
+  fullText.addEventListener("change", async () => {
+    if (fullText.checked && !texts) {
+      fill(results, h("p", { class: "muted" }, "Loading text…"))
+      const data = await loadCompendium(`gear-${which}.json`, { entries: [] })
+      texts = Object.fromEntries(data.entries.map((x) => [x.id, mdToText(x.md).toLowerCase()]))
+    }
+    render()
+  })
+  loadCompendium(`gear-index-${which}.json`, []).then((list) => {
+    all = list.filter((f) => (f.applies ?? []).includes(slot))
+    render()
+  })
+  box.focus()
+}
+const openAbilityPicker = (i) => openUpgradePicker(i, "ability")
+const openModPicker = (i) => openUpgradePicker(i, "mod")
 
 // carrying capacity (Core Rulebook table 7-4; x4 for every 10 points above 20), by size for a biped
 const CARRY_TABLE = [100, 115, 130, 150, 175, 200, 230, 260, 300, 350]
@@ -2456,18 +2654,18 @@ function gearItem(g) {
         range: { units: ranged ? "ft" : "melee" },
         extraAttacks: { type: "standard" },
       }
-      return item("weapon", g.name, { ...base, equipped: !!g.equipped, enh: num(g.enh) || null, masterwork: num(g.enh) > 0, actions: [action] })
+      return item("weapon", g.name, { ...base, equipped: !!g.equipped, enh: num(g.enh) || null, masterwork: isMasterwork(g), actions: [action] })
     }
     case "armor":
       return item("equipment", g.name, {
         ...base, subType: "armor", equipmentSubtype: g.armorType || "lightArmor", slot: "armor", equipped: !!g.equipped,
-        armor: { value: num(g.ac), dex: g.maxDex === "" || g.maxDex == null ? null : num(g.maxDex), acp: Math.abs(num(g.acp)) },
+        armor: { value: num(g.ac), enh: num(g.enh), dex: g.maxDex === "" || g.maxDex == null ? null : num(g.maxDex), acp: Math.abs(num(g.acp)) },
         spellFailure: num(g.asf),
       })
     case "shield":
       return item("equipment", g.name, {
         ...base, subType: "shield", equipmentSubtype: g.armorType || "lightShield", slot: "shield", equipped: !!g.equipped,
-        armor: { value: num(g.ac), acp: Math.abs(num(g.acp)) },
+        armor: { value: num(g.ac), enh: num(g.enh), acp: Math.abs(num(g.acp)) },
         spellFailure: num(g.asf),
       })
     case "equipment":

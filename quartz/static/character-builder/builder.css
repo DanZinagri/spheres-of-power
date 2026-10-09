@@ -831,3 +831,22 @@ dialog.picker.wide {
   flex-basis: 100%;
   margin: 0;
 }
+
+/* Character builder: a weapon / armor / shield row's magic and modifications */
+.magic-block {
+  flex-basis: 100%;
+  border-top: 1px dashed var(--lightgray);
+  padding-top: 0.45rem;
+}
+.mchip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.05rem 0.2rem 0.05rem 0.55rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 999px;
+  font-size: 0.85em;
+}
+.mchip button.small {
+  padding: 0 0.35rem;
+}
