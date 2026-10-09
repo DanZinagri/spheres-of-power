@@ -2611,7 +2611,7 @@ COMPENDIUM = {
     },
     "Divination": {
         "system": "Spheres of Power",
-        "approved": False,
+        "approved": True,
         "pages": [
             ("Divination", "Divine", "sphere ability", 2, 4),
             # what divining each sphere's effects reveals, one heading per sphere
@@ -2624,6 +2624,26 @@ COMPENDIUM = {
             ("Divination", "Advanced Divination Talents", "advanced talent", 4),
             ("Divination Sphere Feats", "(page)", "feat", 4),
             ("Divination Sphere Drawbacks", "(page)", "drawback", 4),
+        ],
+        "not_options": r"^Table|^Note",
+    },
+    "Enhancement": {
+        "system": "Spheres of Power",
+        "approved": False,
+        "pages": [
+            # Enhance, with Enhance Equipment
+            ("Enhancement", "Enhance", "sphere ability", 2, 4),
+            ("Enhancement", "Enhancement Talents", "talent", 4),
+            ("Enhancement", "Enhance Talents", "talent", 4),
+            ("Enhancement", "Advanced Enhancement Talents", "advanced talent", 4),
+            ("Enhancement Sphere Feats", "(page)", "feat", 4),
+            # the proxy feats printed on the Enhancement page itself
+            ("Enhancement", "Proxy Feats", "feat", 4),
+            # Animate Object's creatures: construction points and flaws first (so the size stat
+            # blocks' section, which also holds them, doesn't take them as stat blocks)
+            ("Enhancement", "Special Abilities", "animated object rule", 3),
+            ("Enhancement", "Animated Objects", "animated object", 3),
+            ("Enhancement Sphere Drawbacks", "(page)", "drawback", 4),
         ],
         "not_options": r"^Table|^Note",
     },

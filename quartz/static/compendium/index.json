@@ -13597,7 +13597,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#divine",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/alteration",
@@ -13613,7 +13613,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#alteration",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/blood",
@@ -13629,7 +13629,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#blood",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/conjuration",
@@ -13645,7 +13645,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#conjuration",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/creation",
@@ -13661,7 +13661,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#creation",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/dark",
@@ -13677,7 +13677,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#dark",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/death",
@@ -13693,7 +13693,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#death",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/destruction",
@@ -13709,7 +13709,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#destruction",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/enhancement",
@@ -13725,7 +13725,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#enhancement",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/fallen-fey",
@@ -13741,7 +13741,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#fallen-fey",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/fate",
@@ -13757,7 +13757,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#fate",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/illusion",
@@ -13773,7 +13773,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#illusion",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/life",
@@ -13789,7 +13789,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#life",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/light",
@@ -13805,7 +13805,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#light",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/mana",
@@ -13821,7 +13821,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#mana",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/mind",
@@ -13837,7 +13837,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#mind",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/nature",
@@ -13853,7 +13853,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#nature",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/protection",
@@ -13869,7 +13869,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#protection",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/telekinesis",
@@ -13885,7 +13885,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#telekinesis",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/time",
@@ -13901,7 +13901,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#time",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/war",
@@ -13917,7 +13917,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#war",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/warp",
@@ -13933,7 +13933,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#warp",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/weather",
@@ -13949,7 +13949,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#weather",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/sense",
@@ -13967,7 +13967,7 @@
    "Read Magic"
   ],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/alarm-utility",
@@ -13985,7 +13985,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#alarm-utility",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/expanded-divinations",
@@ -14001,7 +14001,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#expanded-divinations",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/fast-divinations",
@@ -14017,7 +14017,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#fast-divinations",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/grant-divination",
@@ -14033,7 +14033,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#grant-divination",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/greater-divine-range",
@@ -14051,7 +14051,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#greater-divine-range",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/instill-divination-instill",
@@ -14069,7 +14069,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#instill-divination-instill",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/lingering-divination",
@@ -14085,7 +14085,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#lingering-divination",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/revealing-strike-strike",
@@ -14103,7 +14103,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#revealing-strike-strike",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/augury-divine-utility",
@@ -14123,7 +14123,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#augury-divine-utility",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/detect-secrets-divine-utility",
@@ -14143,7 +14143,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#detect-secrets-divine-utility",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/detect-spellcaster-divine",
@@ -14161,7 +14161,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#detect-spellcaster-divine",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/detect-thoughts-divine-utility",
@@ -14181,7 +14181,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#detect-thoughts-divine-utility",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/divine-biohazard-divine",
@@ -14199,7 +14199,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#divine-biohazard-divine",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/divine-future-divine",
@@ -14217,7 +14217,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#divine-future-divine",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/divine-information-divine-utility",
@@ -14237,7 +14237,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#divine-information-divine-utility",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/divine-relationships-divine-utility",
@@ -14257,7 +14257,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#divine-relationships-divine-utility",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/divine-treasure-divine-utility",
@@ -14277,7 +14277,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#divine-treasure-divine-utility",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/dowsing-divine-utility",
@@ -14297,7 +14297,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#dowsing-divine-utility",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/object-reading-divine-utility",
@@ -14317,7 +14317,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#object-reading-divine-utility",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/sensory-overload-divine",
@@ -14335,7 +14335,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#sensory-overload-divine",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/viewing-divine-utility",
@@ -14355,7 +14355,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#viewing-divine-utility",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/witness-the-city-divine-utility",
@@ -14375,7 +14375,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#witness-the-city-divine-utility",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/battlefield-sense-sense",
@@ -14393,7 +14393,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#battlefield-sense-sense",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/blindfolded-oracle-sense",
@@ -14411,7 +14411,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#blindfolded-oracle-sense",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/detect-scrying-sense",
@@ -14429,7 +14429,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#detect-scrying-sense",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/discern-individual-sense",
@@ -14447,7 +14447,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#discern-individual-sense",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/foreshadow-sense",
@@ -14465,7 +14465,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#foreshadow-sense",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/ghost-sight-sense",
@@ -14483,7 +14483,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#ghost-sight-sense",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/logos-sense",
@@ -14501,7 +14501,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#logos-sense",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/nature-sense-sense",
@@ -14519,7 +14519,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#nature-sense-sense",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/prescience-sense",
@@ -14537,7 +14537,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#prescience-sense",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/prying-sight-sense",
@@ -14555,7 +14555,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#prying-sight-sense",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/scent-sense",
@@ -14573,7 +14573,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#scent-sense",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/see-hazard-sense",
@@ -14591,7 +14591,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#see-hazard-sense",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/sense-magic-sense",
@@ -14609,7 +14609,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#sense-magic-sense",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/sense-presence-sense",
@@ -14627,7 +14627,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#sense-presence-sense",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/shared-perception-sense",
@@ -14645,7 +14645,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#shared-perception-sense",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/snipers-eye-sense",
@@ -14663,7 +14663,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#snipers-eye-sense",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/tremorsense-sense",
@@ -14681,7 +14681,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#tremorsense-sense",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/unhooded-sight-sense",
@@ -14699,7 +14699,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#unhooded-sight-sense",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/alternate-divinations-advanced-sense",
@@ -14717,7 +14717,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#alternate-divinations-advanced-sense",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/cartographers-divinations-divine-utility",
@@ -14741,7 +14741,7 @@
    "Pathfinder"
   ],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/discern-location-divine-utility",
@@ -14761,7 +14761,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#discern-location-divine-utility",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/divine-identity-divine-utility",
@@ -14781,7 +14781,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#divine-identity-divine-utility",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/divine-knowledge-divine-utility",
@@ -14801,7 +14801,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#divine-knowledge-divine-utility",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/expansive-vision",
@@ -14817,7 +14817,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#expansive-vision",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/eye-in-the-sky",
@@ -14833,7 +14833,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#eye-in-the-sky",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/eyes-of-the-cabal",
@@ -14849,7 +14849,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#eyes-of-the-cabal",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/greater-scrying-divine-utility",
@@ -14869,7 +14869,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#greater-scrying-divine-utility",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/hear-name-sense-utility",
@@ -14889,7 +14889,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#hear-name-sense-utility",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/penetrating-divination",
@@ -14905,7 +14905,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#penetrating-divination",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/power-of-the-name-utility",
@@ -14923,7 +14923,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#power-of-the-name-utility",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/read-omens-divine-utility",
@@ -14943,7 +14943,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#read-omens-divine-utility",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/remote-casting-divine",
@@ -14961,7 +14961,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#remote-casting-divine",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/scrying-utility",
@@ -14979,7 +14979,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#scrying-utility",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/sense-observation-sense",
@@ -14997,7 +14997,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#sense-observation-sense",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/sensitive-divinations",
@@ -15013,7 +15013,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#sensitive-divinations",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/speak-and-i-listen",
@@ -15029,7 +15029,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#speak-and-i-listen",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/trapfinding-sense",
@@ -15047,7 +15047,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#trapfinding-sense",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/true-perception-sense",
@@ -15065,7 +15065,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#true-perception-sense",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/unobscured-vision-sense",
@@ -15083,7 +15083,7 @@
   "url": "Spheres-Of-Power/Divination/Divination#unobscured-vision-sense",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/analyze-caster-dual-sphere",
@@ -15101,7 +15101,7 @@
   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#analyze-caster-dual-sphere",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/arcing-strike-combat",
@@ -15119,7 +15119,7 @@
   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#arcing-strike-combat",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/area-bypass",
@@ -15135,7 +15135,7 @@
   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#area-bypass",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/aura-engineering-dual-sphere",
@@ -15153,7 +15153,7 @@
   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#aura-engineering-dual-sphere",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/divining-beacon-dual-sphere",
@@ -15171,7 +15171,7 @@
   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#divining-beacon-dual-sphere",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/ensouled-vision",
@@ -15187,7 +15187,7 @@
   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#ensouled-vision",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/explanatory-illusion-dual-sphere",
@@ -15205,7 +15205,7 @@
   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#explanatory-illusion-dual-sphere",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/eyes-of-battle-dual-sphere",
@@ -15223,7 +15223,7 @@
   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#eyes-of-battle-dual-sphere",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/practiced-seer",
@@ -15239,7 +15239,7 @@
   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#practiced-seer",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/precogniscent-protection-combat",
@@ -15257,7 +15257,7 @@
   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#precogniscent-protection-combat",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/precogniscent-resistance-combat",
@@ -15275,7 +15275,7 @@
   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#precogniscent-resistance-combat",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/precogniscent-smite-combat",
@@ -15293,7 +15293,7 @@
   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#precogniscent-smite-combat",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/scholar-of-past-and-future",
@@ -15309,7 +15309,7 @@
   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#scholar-of-past-and-future",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/survey-of-your-realm-dual-sphere",
@@ -15327,7 +15327,7 @@
   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#survey-of-your-realm-dual-sphere",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/tabulated-mind",
@@ -15343,7 +15343,7 @@
   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#tabulated-mind",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/totemic-radar-dual-sphere",
@@ -15361,7 +15361,7 @@
   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#totemic-radar-dual-sphere",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/divining-concoction",
@@ -15377,7 +15377,7 @@
   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Drawbacks#divining-concoction",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/limited-divination",
@@ -15393,7 +15393,7 @@
   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Drawbacks#limited-divination",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/limited-penetration",
@@ -15409,7 +15409,7 @@
   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Drawbacks#limited-penetration",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/hidden-magic",
@@ -15425,7 +15425,7 @@
   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Drawbacks#hidden-magic",
   "options": [],
   "file": "divination.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "divination/shaped-divination",
@@ -15441,6 +15441,1890 @@
   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Drawbacks#shaped-divination",
   "options": [],
   "file": "divination.json",
+  "approved": true
+ },
+ {
+  "id": "enhancement/enhance",
+  "name": "Enhance",
+  "kind": "sphere ability",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#enhance",
+  "options": [
+   "Enhance Equipment"
+  ],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/crippling-strike-strike",
+  "name": "Crippling Strike",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhancement Talents",
+  "tags": [],
+  "talentTags": [
+   "strike"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#crippling-strike-strike",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/deep-enhancement",
+  "name": "Deep Enhancement",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhancement Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#deep-enhancement",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/dual-enhancement",
+  "name": "Dual Enhancement",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhancement Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#dual-enhancement",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/greater-enhance-equipment",
+  "name": "Greater Enhance Equipment",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhancement Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#greater-enhance-equipment",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/instill-enhancement-instill",
+  "name": "Instill Enhancement",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhancement Talents",
+  "tags": [],
+  "talentTags": [
+   "instill"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#instill-enhancement-instill",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/mass-enhancement-mass",
+  "name": "Mass Enhancement",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhancement Talents",
+  "tags": [],
+  "talentTags": [
+   "mass"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#mass-enhancement-mass",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/natural-enhancement",
+  "name": "Natural Enhancement",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhancement Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#natural-enhancement",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/power-parasitism",
+  "name": "Power Parasitism",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhancement Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#power-parasitism",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/ranged-enhancement-range",
+  "name": "Ranged Enhancement",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhancement Talents",
+  "tags": [],
+  "talentTags": [
+   "range"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#ranged-enhancement-range",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/alter-movement-enhance",
+  "name": "Alter Movement",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhance Talents",
+  "tags": [
+   "enhance"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#alter-movement-enhance",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/animate-object-enhance",
+  "name": "Animate Object",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhance Talents",
+  "tags": [
+   "enhance"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#animate-object-enhance",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/bestow-intelligence-enhance",
+  "name": "Bestow Intelligence",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhance Talents",
+  "tags": [
+   "enhance"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#bestow-intelligence-enhance",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/cripple-enhance",
+  "name": "Cripple",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhance Talents",
+  "tags": [
+   "enhance"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#cripple-enhance",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/deadly-weapon-enhance",
+  "name": "Deadly Weapon",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhance Talents",
+  "tags": [
+   "enhance"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#deadly-weapon-enhance",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/emphasize-belief-enhance",
+  "name": "Emphasize Belief",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhance Talents",
+  "tags": [
+   "enhance"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#emphasize-belief-enhance",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/energize-body-enhance",
+  "name": "Energize Body",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhance Talents",
+  "tags": [
+   "enhance"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#energize-body-enhance",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/energy-enhancement-enhance",
+  "name": "Energy Enhancement",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhance Talents",
+  "tags": [
+   "enhance"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#energy-enhancement-enhance",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/enhance-focus-enhance",
+  "name": "Enhance Focus",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhance Talents",
+  "tags": [
+   "enhance"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#enhance-focus-enhance",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/hardenweaken-enhance",
+  "name": "Harden/Weaken",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhance Talents",
+  "tags": [
+   "enhance"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#hardenweaken-enhance",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/improved-flexibility-enhance",
+  "name": "Improved Flexibility",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhance Talents",
+  "tags": [
+   "enhance"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#improved-flexibility-enhance",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/lighten-enhance",
+  "name": "Lighten",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhance Talents",
+  "tags": [
+   "enhance"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#lighten-enhance",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/magic-sink-enhance",
+  "name": "Magic Sink",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhance Talents",
+  "tags": [
+   "enhance"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#magic-sink-enhance",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/mental-enhancement-enhance",
+  "name": "Mental Enhancement",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhance Talents",
+  "tags": [
+   "enhance"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#mental-enhancement-enhance",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/physical-enhancement-enhance",
+  "name": "Physical Enhancement",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhance Talents",
+  "tags": [
+   "enhance"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#physical-enhancement-enhance",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/ragged-edges-enhance",
+  "name": "Ragged Edges",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhance Talents",
+  "tags": [
+   "enhance"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#ragged-edges-enhance",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/spectral-enhancement-enhance",
+  "name": "Spectral Enhancement",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhance Talents",
+  "tags": [
+   "enhance"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#spectral-enhancement-enhance",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/staunch-resistance-enhance",
+  "name": "Staunch Resistance",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhance Talents",
+  "tags": [
+   "enhance"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#staunch-resistance-enhance",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/steal-senses-enhance",
+  "name": "Steal Senses",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhance Talents",
+  "tags": [
+   "enhance"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#steal-senses-enhance",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/steal-capacity-enhance",
+  "name": "Steal Capacity",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhance Talents",
+  "tags": [
+   "enhance"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#steal-capacity-enhance",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/superior-poison-enhance",
+  "name": "Superior Poison",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhance Talents",
+  "tags": [
+   "enhance"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#superior-poison-enhance",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/superior-reflexes-enhance",
+  "name": "Superior Reflexes",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhance Talents",
+  "tags": [
+   "enhance"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#superior-reflexes-enhance",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/supply-vigor-enhance",
+  "name": "Supply Vigor",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhance Talents",
+  "tags": [
+   "enhance"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#supply-vigor-enhance",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/traveling-weapon-enhance",
+  "name": "Traveling Weapon",
+  "kind": "talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Enhance Talents",
+  "tags": [
+   "enhance"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#traveling-weapon-enhance",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/alternative-energy",
+  "name": "Alternative Energy",
+  "kind": "advanced talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Advanced Enhancement Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#alternative-energy",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/antimagic-aegis",
+  "name": "Antimagic Aegis",
+  "kind": "advanced talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Advanced Enhancement Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#antimagic-aegis",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/ascetic-control",
+  "name": "Ascetic Control",
+  "kind": "advanced talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Advanced Enhancement Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#ascetic-control",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/bestow-life",
+  "name": "Bestow Life",
+  "kind": "advanced talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Advanced Enhancement Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#bestow-life",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/critical-climax",
+  "name": "Critical Climax",
+  "kind": "advanced talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Advanced Enhancement Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#critical-climax",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/give-magic-life",
+  "name": "Give Magic Life",
+  "kind": "advanced talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Advanced Enhancement Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#give-magic-life",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/inherent-enhancement-enhance",
+  "name": "Inherent Enhancement",
+  "kind": "advanced talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Advanced Enhancement Talents",
+  "tags": [
+   "enhance"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#inherent-enhancement-enhance",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/referential-enhancements",
+  "name": "Referential Enhancements",
+  "kind": "advanced talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Advanced Enhancement Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#referential-enhancements",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/reverse-gravity-enhance",
+  "name": "Reverse Gravity",
+  "kind": "advanced talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Advanced Enhancement Talents",
+  "tags": [
+   "enhance"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#reverse-gravity-enhance",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/vicious-accuracy-enhance",
+  "name": "Vicious Accuracy",
+  "kind": "advanced talent",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Advanced Enhancement Talents",
+  "tags": [
+   "enhance"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#vicious-accuracy-enhance",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/addictive-power-drawback",
+  "name": "Addictive Power",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Drawback"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#addictive-power-drawback",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/alloy-enhancement-dual-sphere",
+  "name": "Alloy Enhancement",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#alloy-enhancement-dual-sphere",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/animate-structural-features",
+  "name": "Animate Structural Features",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#animate-structural-features",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/animate-tornado-dual-sphere",
+  "name": "Animate Tornado",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#animate-tornado-dual-sphere",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/animated-arsenal",
+  "name": "Animated Arsenal",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#animated-arsenal",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/animating-possession-dual-sphere",
+  "name": "Animating Possession",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#animating-possession-dual-sphere",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/backdoor-control-dual-sphere",
+  "name": "Backdoor Control",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#backdoor-control-dual-sphere",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/careful-magic-drawback",
+  "name": "Careful Magic",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Drawback"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#careful-magic-drawback",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/complex-animations",
+  "name": "Complex Animations",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#complex-animations",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/durable-objects",
+  "name": "Durable Objects",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#durable-objects",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/enchanted-animation",
+  "name": "Enchanted Animation",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#enchanted-animation",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/enhanced-contingency",
+  "name": "Enhanced Contingency",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#enhanced-contingency",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/enhanced-creation-dual-sphere",
+  "name": "Enhanced Creation",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#enhanced-creation-dual-sphere",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/enhanced-vigilance-dual-sphere",
+  "name": "Enhanced Vigilance",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#enhanced-vigilance-dual-sphere",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/enhancing-telekinesis-dual-sphere",
+  "name": "Enhancing Telekinesis",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#enhancing-telekinesis-dual-sphere",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/exceptional-ally-dual-sphere",
+  "name": "Exceptional Ally",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#exceptional-ally-dual-sphere",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/floating-creation-dual-sphere",
+  "name": "Floating Creation",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#floating-creation-dual-sphere",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/floating-panoply",
+  "name": "Floating Panoply",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#floating-panoply",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/magical-focus-drawback",
+  "name": "Magical Focus",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Drawback"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#magical-focus-drawback",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/magicians-trade-counterspell",
+  "name": "Magician’s Trade",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Counterspell"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#magicians-trade-counterspell",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/march-of-the-treants-dual-sphere",
+  "name": "March Of The Treants",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#march-of-the-treants-dual-sphere",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/master-of-small-magics",
+  "name": "Master Of Small Magics",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#master-of-small-magics",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/might-of-the-grave-dual-sphere",
+  "name": "Might Of The Grave",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#might-of-the-grave-dual-sphere",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/militant-animation-combat",
+  "name": "Militant Animation",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#militant-animation-combat",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/mounted-magician",
+  "name": "Mounted Magician",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#mounted-magician",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/mutagenic-enhancements-dual-sphere",
+  "name": "Mutagenic Enhancements",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#mutagenic-enhancements-dual-sphere",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/natures-enhancement-dual-sphere",
+  "name": "Nature’s Enhancement",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#natures-enhancement-dual-sphere",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/object-familiar",
+  "name": "Object Familiar",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#object-familiar",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/parts-and-pieces-dual-sphere",
+  "name": "Parts And Pieces",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#parts-and-pieces-dual-sphere",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/plexing-boon-dual-sphere",
+  "name": "Plexing Boon",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#plexing-boon-dual-sphere",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/reforge-object-dual-sphere",
+  "name": "Reforge Object",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#reforge-object-dual-sphere",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/solid-illusions-dual-sphere",
+  "name": "Solid Illusions",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#solid-illusions-dual-sphere",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/tactical-animation",
+  "name": "Tactical Animation",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#tactical-animation",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/tribal-mark-dual-sphere",
+  "name": "Tribal Mark",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Feats#tribal-mark-dual-sphere",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/defensive-proxies-proxy",
+  "name": "Defensive Proxies",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Proxy Feats",
+  "tags": [
+   "Proxy"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#defensive-proxies-proxy",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/maintain-proxy-proxy",
+  "name": "Maintain Proxy",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Proxy Feats",
+  "tags": [
+   "Proxy"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#maintain-proxy-proxy",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/mystic-choreography-drawback-proxy",
+  "name": "Mystic Choreography",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Proxy Feats",
+  "tags": [
+   "Drawback",
+   "Proxy"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#mystic-choreography-drawback-proxy",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/mystic-generosity-proxy",
+  "name": "Mystic Generosity",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Proxy Feats",
+  "tags": [
+   "Proxy"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#mystic-generosity-proxy",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/proxy-counterspell-proxy",
+  "name": "Proxy Counterspell",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Proxy Feats",
+  "tags": [
+   "Proxy"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#proxy-counterspell-proxy",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/proxy-network-proxy",
+  "name": "Proxy Network",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Proxy Feats",
+  "tags": [
+   "Proxy"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#proxy-network-proxy",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/spell-proxy-proxy",
+  "name": "Spell Proxy",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Proxy Feats",
+  "tags": [
+   "Proxy"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#spell-proxy-proxy",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/spell-proxy-extended-proxy",
+  "name": "Spell Proxy, Extended",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Proxy Feats",
+  "tags": [
+   "Proxy"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#spell-proxy-extended-proxy",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/spell-proxy-improved-proxy",
+  "name": "Spell Proxy, Improved",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Proxy Feats",
+  "tags": [
+   "Proxy"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#spell-proxy-improved-proxy",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/spreading-magic-proxy",
+  "name": "Spreading Magic",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Proxy Feats",
+  "tags": [
+   "Proxy"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#spreading-magic-proxy",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/suffer-by-proxy-drawback-proxy",
+  "name": "Suffer By Proxy",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Proxy Feats",
+  "tags": [
+   "Drawback",
+   "Proxy"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#suffer-by-proxy-drawback-proxy",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/tactical-proxies-proxy",
+  "name": "Tactical Proxies",
+  "kind": "feat",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Proxy Feats",
+  "tags": [
+   "Proxy"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#tactical-proxies-proxy",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/construction-points",
+  "name": "Construction Points",
+  "kind": "animated object rule",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Special Abilities",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#construction-points",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/construction-flaws",
+  "name": "Construction Flaws",
+  "kind": "animated object rule",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Special Abilities",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#construction-flaws",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/tiny-animated-object-cr-12",
+  "name": "Tiny Animated Object",
+  "kind": "animated object",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Animated Objects",
+  "tags": [
+   "CR 1/2"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#tiny-animated-object-cr-12",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/small-animated-object-cr-2",
+  "name": "Small Animated Object",
+  "kind": "animated object",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Animated Objects",
+  "tags": [
+   "CR 2"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#small-animated-object-cr-2",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/medium-animated-object-cr-3",
+  "name": "Medium Animated Object",
+  "kind": "animated object",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Animated Objects",
+  "tags": [
+   "CR 3"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#medium-animated-object-cr-3",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/large-animated-object-cr-5",
+  "name": "Large Animated Object",
+  "kind": "animated object",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Animated Objects",
+  "tags": [
+   "CR 5"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#large-animated-object-cr-5",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/huge-animated-object-cr-7",
+  "name": "Huge Animated Object",
+  "kind": "animated object",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Animated Objects",
+  "tags": [
+   "CR 7"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#huge-animated-object-cr-7",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/gargantuan-animated-object-cr-9",
+  "name": "Gargantuan Animated Object",
+  "kind": "animated object",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Animated Objects",
+  "tags": [
+   "CR 9"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#gargantuan-animated-object-cr-9",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/colossal-animated-object-cr-11",
+  "name": "Colossal Animated Object",
+  "kind": "animated object",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Animated Objects",
+  "tags": [
+   "CR 11"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#colossal-animated-object-cr-11",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/colossal-animated-object-cr-12",
+  "name": "Colossal+ Animated Object",
+  "kind": "animated object",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Animated Objects",
+  "tags": [
+   "CR 12"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#colossal-animated-object-cr-12",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/colossal-animated-object-cr-14",
+  "name": "Colossal++ Animated Object",
+  "kind": "animated object",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Animated Objects",
+  "tags": [
+   "CR 14"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#colossal-animated-object-cr-14",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/colossal-animated-object-cr-16",
+  "name": "Colossal+++ Animated Object",
+  "kind": "animated object",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Animated Objects",
+  "tags": [
+   "CR 16"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement#colossal-animated-object-cr-16",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/bodily-enhancement",
+  "name": "Bodily Enhancement",
+  "kind": "drawback",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Drawbacks#bodily-enhancement",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/constructor",
+  "name": "Constructor",
+  "kind": "drawback",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Drawbacks#constructor",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/marking-enhancements",
+  "name": "Marking Enhancements",
+  "kind": "drawback",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Drawbacks#marking-enhancements",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/personal-magics",
+  "name": "Personal Magics",
+  "kind": "drawback",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Drawbacks#personal-magics",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/power-leech",
+  "name": "Power Leech",
+  "kind": "drawback",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Drawbacks#power-leech",
+  "options": [],
+  "file": "enhancement.json",
+  "approved": false
+ },
+ {
+  "id": "enhancement/special-delivery",
+  "name": "Special Delivery",
+  "kind": "drawback",
+  "sphere": "Enhancement",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Enhancement/Enhancement-Sphere-Drawbacks#special-delivery",
+  "options": [],
+  "file": "enhancement.json",
   "approved": false
  },
  {
