@@ -17136,6 +17136,18 @@
   "file": "racial-traits.json"
  },
  {
+  "id": "racial/sp-drow-rites-of-the-dark-mother-drs",
+  "name": "Rites of the Dark Mother [DRS]",
+  "race": "Drow",
+  "system": "Spheres of Power",
+  "kind": "Alternate",
+  "replaces": "spell-like abilities",
+  "source": "Diamond Polished Spheres: Dark Sphere",
+  "url": "Spheres-Of-Power/Alternate-Racial-Traits#drow",
+  "summary": "Drow with this racial trait gain Basic Magic Training as a bonus feat, selecting the Dark sphere.",
+  "file": "racial-traits.json"
+ },
+ {
   "id": "racial/sp-drow-subtle-shadow",
   "name": "Subtle Shadow",
   "race": "Drow",
@@ -17544,6 +17556,18 @@
   "file": "racial-traits.json"
  },
  {
+  "id": "racial/sp-fetchling-darkness-savant-drs",
+  "name": "Darkness Savant [DRS]",
+  "race": "Fetchling",
+  "system": "Spheres of Power",
+  "kind": "Alternate",
+  "replaces": "spell-like abilities",
+  "source": "Diamond Polished Spheres: Dark Sphere",
+  "url": "Spheres-Of-Power/Alternate-Racial-Traits#fetchling",
+  "summary": "Fetchlings with this racial trait gain Basic Magic Training as a bonus feat, selecting the Dark sphere, and at level 13 gain the Extra Magic Talent feat,…",
+  "file": "racial-traits.json"
+ },
+ {
   "id": "racial/sp-fetchling-dimlurker-drs",
   "name": "Dimlurker [DRS]",
   "race": "Fetchling",
@@ -17565,6 +17589,18 @@
   "source": "Ultimate Spheres of Power",
   "url": "Spheres-Of-Power/Alternate-Racial-Traits#fetchling",
   "summary": "Fetchlings with this racial trait gain the Performance sphere as a bonus skill talent, but must choose the (dance) package.",
+  "file": "racial-traits.json"
+ },
+ {
+  "id": "racial/sp-fetchling-melt-into-shadow-drs",
+  "name": "Melt Into Shadow [DRS]",
+  "race": "Fetchling",
+  "system": "Spheres of Power",
+  "kind": "Alternate",
+  "replaces": "shadow blending",
+  "source": "Diamond Polished Spheres: Dark Sphere",
+  "url": "Spheres-Of-Power/Alternate-Racial-Traits#fetchling",
+  "summary": "Rumored to be formed from the very essence of planar shadow, fetchlings seem to melt and blend into the darkness.",
   "file": "racial-traits.json"
  },
  {
@@ -18117,6 +18153,18 @@
   "source": "Ultimate Spheres of Power",
   "url": "Spheres-Of-Power/Alternate-Racial-Traits#half-orc",
   "summary": "These half-orcs gain the Leadership sphere as a bonus combat talent, gaining the Dread Master drawback.",
+  "file": "racial-traits.json"
+ },
+ {
+  "id": "racial/sp-half-orc-shadowseer-drs",
+  "name": "Shadowseer [DRS]",
+  "race": "Half-Orc",
+  "system": "Spheres of Power",
+  "kind": "Alternate",
+  "replaces": "orc ferocity",
+  "source": "Diamond Polished Spheres: Dark Sphere",
+  "url": "Spheres-Of-Power/Alternate-Racial-Traits#half-orc",
+  "summary": "A character with this racial trait gains Basic Magic Training as a bonus feat, selecting Dark sphere.",
   "file": "racial-traits.json"
  },
  {
@@ -18957,6 +19005,18 @@
   "source": "Ultimate Spheres of Power",
   "url": "Spheres-Of-Power/Alternate-Racial-Traits#orc",
   "summary": "Orcs or half-orcs with this racial trait gain the Survivalism sphere as a bonus skill talent, but must choose the (harvest) package.",
+  "file": "racial-traits.json"
+ },
+ {
+  "id": "racial/sp-orc-shadowseer-drs",
+  "name": "Shadowseer [DRS]",
+  "race": "Orc",
+  "system": "Spheres of Power",
+  "kind": "Alternate",
+  "replaces": "orc ferocity",
+  "source": "Diamond Polished Spheres: Dark Sphere",
+  "url": "Spheres-Of-Power/Alternate-Racial-Traits#orc",
+  "summary": "A character with this racial trait gains Basic Magic Training as a bonus feat, selecting Dark sphere.",
   "file": "racial-traits.json"
  },
  {
@@ -19872,6 +19932,18 @@
   "file": "racial-traits.json"
  },
  {
+  "id": "racial/sp-tiefling-blackened-sclera-drs",
+  "name": "Blackened Sclera [DRS]",
+  "race": "Tiefling",
+  "system": "Spheres of Power",
+  "kind": "Alternate",
+  "replaces": "spell-like abilities",
+  "source": "Diamond Polished Spheres: Dark Sphere",
+  "url": "Spheres-Of-Power/Alternate-Racial-Traits#tiefling",
+  "summary": "Tieflings with this racial trait gain Basic Magic Training as a bonus feat, selecting the Dark sphere.",
+  "file": "racial-traits.json"
+ },
+ {
   "id": "racial/sp-tiefling-deceiver",
   "name": "Deceiver",
   "race": "Tiefling",
@@ -20220,6 +20292,18 @@
   "file": "racial-traits.json"
  },
  {
+  "id": "racial/sp-wayang-day-and-night-drs",
+  "name": "Day and Night [DRS]",
+  "race": "Wayang",
+  "system": "Spheres of Power",
+  "kind": "Alternate",
+  "replaces": "light and dark",
+  "source": "Diamond Polished Spheres: Dark Sphere",
+  "url": "Spheres-Of-Power/Alternate-Racial-Traits#wayang",
+  "summary": "Once per day as an immediate action, a wayang with this racial trait can choose to teleport up to 20 feet, +5 feet per 4 Hit Dice the wayang possesses.",
+  "file": "racial-traits.json"
+ },
+ {
   "id": "racial/sp-wayang-fated-fade",
   "name": "Fated Fade",
   "race": "Wayang",
@@ -20256,98 +20340,14 @@
   "file": "racial-traits.json"
  },
  {
-  "id": "racial/sp-drow-rites-of-the-dark-mother",
-  "name": "Rites of the Dark Mother",
-  "race": "Drow",
-  "system": "Spheres of Power",
-  "kind": "Alternate",
-  "replaces": "spell-like abilities",
-  "source": "Diamond Polished Spheres: Dark Sphere",
-  "url": "Diamond-Recreational-Studios/Alternate-Racial-Traits-(DRS)#drow",
-  "summary": "Drow with this racial trait gain Basic Magic Training as a bonus feat, selecting the Dark sphere.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/sp-fetchling-darkness-savant",
-  "name": "Darkness Savant",
-  "race": "Fetchling",
-  "system": "Spheres of Power",
-  "kind": "Alternate",
-  "replaces": "spell-like abilities",
-  "source": "Diamond Polished Spheres: Dark Sphere",
-  "url": "Diamond-Recreational-Studios/Alternate-Racial-Traits-(DRS)#fetchling",
-  "summary": "Fetchlings with this racial trait gain Basic Magic Training as a bonus feat, selecting the Dark sphere, and at level 13 gain the Extra Magic Talent feat,…",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/sp-fetchling-melt-into-shadow",
-  "name": "Melt Into Shadow",
-  "race": "Fetchling",
-  "system": "Spheres of Power",
-  "kind": "Alternate",
-  "replaces": "shadow blending",
-  "source": "Diamond Polished Spheres: Dark Sphere",
-  "url": "Diamond-Recreational-Studios/Alternate-Racial-Traits-(DRS)#fetchling",
-  "summary": "Rumored to be formed from the very essence of planar shadow, fetchlings seem to melt and blend into the darkness.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/sp-half-orc-shadowseer",
-  "name": "Shadowseer",
-  "race": "Half-Orc",
-  "system": "Spheres of Power",
-  "kind": "Alternate",
-  "replaces": "orc ferocity",
-  "source": "Diamond Polished Spheres: Dark Sphere",
-  "url": "Diamond-Recreational-Studios/Alternate-Racial-Traits-(DRS)#half-orc",
-  "summary": "A character with this racial trait gains Basic Magic Training as a bonus feat, selecting Dark sphere.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/sp-orc-shadowseer",
-  "name": "Shadowseer",
-  "race": "Orc",
-  "system": "Spheres of Power",
-  "kind": "Alternate",
-  "replaces": "orc ferocity",
-  "source": "Diamond Polished Spheres: Dark Sphere",
-  "url": "Diamond-Recreational-Studios/Alternate-Racial-Traits-(DRS)#orc",
-  "summary": "A character with this racial trait gains Basic Magic Training as a bonus feat, selecting Dark sphere.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/sp-tiefling-blackened-sclera",
-  "name": "Blackened Sclera",
-  "race": "Tiefling",
-  "system": "Spheres of Power",
-  "kind": "Alternate",
-  "replaces": "spell-like abilities",
-  "source": "Diamond Polished Spheres: Dark Sphere",
-  "url": "Diamond-Recreational-Studios/Alternate-Racial-Traits-(DRS)#tiefling",
-  "summary": "Tieflings with this racial trait gain Basic Magic Training as a bonus feat, selecting the Dark sphere.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/sp-wayang-day-and-night",
-  "name": "Day and Night",
-  "race": "Wayang",
-  "system": "Spheres of Power",
-  "kind": "Alternate",
-  "replaces": "light and dark",
-  "source": "Diamond Polished Spheres: Dark Sphere",
-  "url": "Diamond-Recreational-Studios/Alternate-Racial-Traits-(DRS)#wayang",
-  "summary": "Once per day as an immediate action, a wayang with this racial trait can choose to teleport up to 20 feet, +5 feet per 4 Hit Dice the wayang possesses.",
-  "file": "racial-traits.json"
- },
- {
-  "id": "racial/sp-wayang-shadowed-symbiosis",
-  "name": "Shadowed Symbiosis",
+  "id": "racial/sp-wayang-shadowed-symbiosis-drs",
+  "name": "Shadowed Symbiosis [DRS]",
   "race": "Wayang",
   "system": "Spheres of Power",
   "kind": "Alternate",
   "replaces": "shadow resistance and shadow magic",
   "source": "Diamond Polished Spheres: Dark Sphere",
-  "url": "Diamond-Recreational-Studios/Alternate-Racial-Traits-(DRS)#wayang",
+  "url": "Spheres-Of-Power/Alternate-Racial-Traits#wayang",
   "summary": "Wayangs with this racial trait gain a +2 bonus on saving throws against Dark sphere effects and effects with the shadow descriptor, a +1 bonus to the DC of…",
   "file": "racial-traits.json"
  },

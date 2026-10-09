@@ -140,6 +140,11 @@ FOLDER_OVERRIDES: dict[str, str] = {}
 # target slug -> [(source slug, tab label)]. The source page goes away and links to it point at
 # the target. (Polished Dark is DRS's replacement for the Dark sphere.)
 TAB_MERGES = {"dark": [("polished-dark", "Polished Dark")]}
+# Pages whose entries are folded into another page's matching sections: target slug ->
+# [(source slug, citation tag)]. Each "## Drow" section's "**Name:**" entries join the target's
+# "### Drow" in name order, tagged "**Name [DRS]:**" like the target's own DRS entries. The
+# source page goes away and links to it point at the target.
+ENTRY_MERGES = {"alternate-racial-traits": [("drs-alternate-racial-traits", "DRS")]}
 # Pages folded into one section of another page as a small tab set around that section:
 # target slug -> [(source slug, section heading, source tab label, original tab label)]. The
 # section's body becomes the original tab; the source page's own copy of that heading (and
@@ -169,7 +174,7 @@ PAGE_NOTES = {
     ],
     # hand-entered Diamond Spheres: Magical Organizations content (see extras/)
     "diamond-recreational-studios": [
-        (r"^\[\[Alternate Racial Traits \(DRS\)\]\][ \t]*$",
+        (r"^\[\[Alternate Racial Traits(?: \(DRS\))?\]\][ \t]*$",
          "\n[[Arcane Discoveries (DRS)]]\n[[Organizations|Magical Organizations]]"),
     ],
 }
@@ -1342,7 +1347,6 @@ def tidy_home(md: str) -> str:
             print(f"warning: home: no line {line_re!r}")
         else:
             lines[at + 1:at + 1] = new
-    after(r"\[\[Alternate Racial Traits\]\]", ["[[Alternate Racial Traits (DRS)|Alternate Racial Traits]] [DRS]"])
     after(r"\[\[Champion Feats\]\]", ["[[Feats (DRS)|DRS Feats]]"])
     # the Citations Guide is excluded (the citation tags are stripped)
     lines = [l for l in lines if not l.startswith("- [[Citations Guide]]")]
@@ -1503,6 +1507,48 @@ def split_sphere_feats(md: str, sphere: str) -> tuple[str, str]:
             for l in chunk]
     # the section leaves the sphere page entirely (the home page links each sphere's feats page)
     return "\n".join(lines[:start] + lines[end:]), "\n".join(body).strip() + "\n"
+
+
+def merge_entries(md: str, src: str, tag: str, title: str = "") -> str:
+    """ENTRY_MERGES: src's "**Name:**" entries, by heading, into md's section with the same heading
+    (any level), each before the first entry that sorts after it, else at the end of the
+    section's own text (before its first sub-heading or tab markup)."""
+    by_head, head = {}, None
+    for block in re.split(r"\n\s*\n", src.strip()):
+        block = block.strip()
+        if (m := re.fullmatch(r"#{1,6} (.+)", block)):
+            head = m.group(1).strip()
+            by_head.setdefault(head, [])
+        elif head is None or not block or block.startswith(("<div", "</div>")):
+            continue
+        elif block.startswith("**") or not by_head[head]:
+            by_head[head].append(block)
+        else:  # a further paragraph of the entry above
+            by_head[head][-1] += "\n\n" + block
+    name_of = lambda b: (m.group(1).strip() if (m := re.match(r"\*\*(.+?)(?: \[[^\]]+\])?:\*\*", b)) else "")
+    lines = md.split("\n")
+    for heading, entries in by_head.items():
+        at = next((i for i, l in enumerate(lines) if re.fullmatch(rf"#{{1,6}} {re.escape(heading)}", l.strip())), None)
+        if at is None:
+            print(f"warning: entry merge: no '{heading}' section on {title}")
+            continue
+        # (a tab's markup ends the section too: the page may hold its original version as a tab)
+        end = next((i for i in range(at + 1, len(lines)) if re.match(r"#{1,6} |</?div", lines[i])), len(lines))
+        for e in entries:
+            name = name_of(e)
+            e = re.sub(r"^\*\*(.+?):\*\*", lambda m: m.group(0) if m.group(1).endswith("]") else f"**{m.group(1)} [{tag}]:**", e)
+            pos = next((i for i in range(at + 1, end) if lines[i].startswith("**")
+                        and name_of(lines[i]).lower() > name.lower()), None)
+            if pos is None:  # after the section's last non-blank line
+                pos = end
+                while pos > at + 1 and not lines[pos - 1].strip():
+                    pos -= 1
+                new = [""] + e.split("\n")
+            else:
+                new = e.split("\n") + [""]
+            lines[pos:pos] = new
+            end += len(new)
+    return "\n".join(lines)
 
 
 def insert_first_tabs(md: str, tabs: list[tuple[str, str]]) -> str:
@@ -4315,7 +4361,6 @@ def build_race_compendium() -> dict[str, int]:
     known = {norm(r["name"]): r["name"] for r in races if r["system"] == "Pathfinder 1e"}
     known |= {norm(r["name"]): r["name"] for r in races if r["system"] != "Pathfinder 1e"}
     for page, levels, section in (("Alternate Racial Traits", (2, 3), None),
-                                  ("Alternate Racial Traits (DRS)", (2,), None),
                                   ("Standard Races", (1,), "Racial Traits")):
         f = files.get(page)
         if not f:
@@ -6546,6 +6591,19 @@ def convert(with_images: bool) -> None:
                 merged_drawbacks.setdefault(pages[target].filename, []).append((label, drawbacks_part))
             merged_tabs.setdefault(target, []).append((label, md))
             merge_links.append((pages[target].filename, label))
+    # ENTRY_MERGES: convert each source page now, drop it; its entries join the target below
+    merged_entries: dict[str, list[tuple[str, str]]] = {}
+    for target, sources in ENTRY_MERGES.items():
+        if target not in pages:
+            continue
+        for src, tag in sources:
+            sp = pages.pop(src, None)
+            if sp is None or not sp.body:
+                continue
+            redirects[src] = pages[target]
+            preprocess(sp.body, sp.soup, excluded - redirects.keys(), nav=False)
+            md = tidy(WikiConverter(sp, pages, images, redirects).convert_soup(sp.body))
+            merged_entries.setdefault(target, []).append((tag, md))
     extras, extra_pages = load_extras()
     # SECTION_TABS: the source's copy of the section (plus its source credit) becomes a tab
     section_tabs: dict[str, list[tuple[str, str, str, str]]] = {}
@@ -6744,6 +6802,8 @@ def convert(with_images: bool) -> None:
                 drawback_pages[p.filename] = name
                 derived_notes.append((f"{p.folder}/{name}.md".lstrip("/"),
                                       f"{p.folder}/{p.filename}.md".lstrip("/")))
+        for tag, src_md in merged_entries.get(p.slug, []):
+            body_md = merge_entries(body_md, src_md, tag, p.title)
         if p.slug in merged_tabs:  # after the feats split, so it only sees the page's own sections
             body_md = insert_first_tabs(body_md, merged_tabs[p.slug])
         for heading, label, own_label, tab_md in section_tabs.get(p.slug, []):

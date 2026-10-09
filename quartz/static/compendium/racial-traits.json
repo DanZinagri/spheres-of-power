@@ -15710,6 +15710,17 @@
    "id": "racial/sp-drow-influential"
   },
   {
+   "name": "Rites of the Dark Mother [DRS]",
+   "race": "Drow",
+   "system": "Spheres of Power",
+   "kind": "Alternate",
+   "replaces": "spell-like abilities",
+   "source": "Diamond Polished Spheres: Dark Sphere",
+   "url": "Spheres-Of-Power/Alternate-Racial-Traits#drow",
+   "md": "Certain drow societies worship powerful entities which hold dominion over the darkness and night, and are given strength in kind. Drow with this racial trait gain Basic Magic Training as a bonus feat, selecting the Dark sphere. In addition, once per day as part of creating a Dark sphere effect, the drow may choose to allow this sphere effect to be concentrated on as a swift action. This replaces spell-like abilities. **Source:** [Diamond Polished Spheres: Dark Sphere](https://www.drivethrurpg.com/en/product/492540/diamond-polished-spheres-dark-sphere?affiliate_id=3028400)",
+   "id": "racial/sp-drow-rites-of-the-dark-mother-drs"
+  },
+  {
    "name": "Subtle Shadow",
    "race": "Drow",
    "system": "Spheres of Power",
@@ -16084,6 +16095,17 @@
    "id": "racial/sp-fetchling-darkness-adept"
   },
   {
+   "name": "Darkness Savant [DRS]",
+   "race": "Fetchling",
+   "system": "Spheres of Power",
+   "kind": "Alternate",
+   "replaces": "spell-like abilities",
+   "source": "Diamond Polished Spheres: Dark Sphere",
+   "url": "Spheres-Of-Power/Alternate-Racial-Traits#fetchling",
+   "md": "Fetchlings are familiar with the darkness, and some are especially gifted to shape and manipulate it. Fetchlings with this racial trait gain Basic Magic Training as a bonus feat, selecting the Dark sphere, and at level 13 gain the Extra Magic Talent feat, selecting a talent from the Dark sphere. This replaces spell-like abilities. **Source:** [Diamond Polished Spheres: Dark Sphere](https://www.drivethrurpg.com/en/product/492540/diamond-polished-spheres-dark-sphere?affiliate_id=3028400)",
+   "id": "racial/sp-fetchling-darkness-savant-drs"
+  },
+  {
    "name": "Dimlurker [DRS]",
    "race": "Fetchling",
    "system": "Spheres of Power",
@@ -16104,6 +16126,17 @@
    "url": "Spheres-Of-Power/Alternate-Racial-Traits#fetchling",
    "md": "Unnatural in their grace, some fetchlings use darkness as a way to express themselves, with their movements shifting in strange yet stunning ways. Fetchlings with this racial trait gain the Performance sphere as a bonus skill talent, but must choose the (dance) package. If the fetchling begins a dance in dim light, all dancers within the dim light increase the miss chance from being in dim light by 10%. This replaces shadow blending and spell-like abilities.",
    "id": "racial/sp-fetchling-duskdancer-drs"
+  },
+  {
+   "name": "Melt Into Shadow [DRS]",
+   "race": "Fetchling",
+   "system": "Spheres of Power",
+   "kind": "Alternate",
+   "replaces": "shadow blending",
+   "source": "Diamond Polished Spheres: Dark Sphere",
+   "url": "Spheres-Of-Power/Alternate-Racial-Traits#fetchling",
+   "md": "Rumored to be formed from the very essence of planar shadow, fetchlings seem to melt and blend into the darkness. After leaving a darkened area, a fetchling with this racial trait is treated as still being within a darkened area until the end of their next turn (despite no longer being within a darkened area) and, while benefiting from this ability, also benefits from the concealment normally granted by dim light against creatures which could not normally see in dim light or darker conditions (this concealment by itself is not sufficient to make Stealth checks to hide). This is a supernatural ability. This replaces shadow blending. **Source:** [Diamond Polished Spheres: Dark Sphere](https://www.drivethrurpg.com/en/product/492540/diamond-polished-spheres-dark-sphere?affiliate_id=3028400)",
+   "id": "racial/sp-fetchling-melt-into-shadow-drs"
   },
   {
    "name": "Pragmatic Observer [DRS]",
@@ -16610,6 +16643,17 @@
    "url": "Spheres-Of-Power/Alternate-Racial-Traits#half-orc",
    "md": "A half-orc’s intimidating nature can be leveraged into building a following, others afraid to cross them. These half-orcs gain the Leadership sphere as a bonus combat talent, gaining the Dread Master drawback. This replaces intimidating and orc ferocity.",
    "id": "racial/sp-half-orc-fearsome-leader"
+  },
+  {
+   "name": "Shadowseer [DRS]",
+   "race": "Half-Orc",
+   "system": "Spheres of Power",
+   "kind": "Alternate",
+   "replaces": "orc ferocity",
+   "source": "Diamond Polished Spheres: Dark Sphere",
+   "url": "Spheres-Of-Power/Alternate-Racial-Traits#half-orc",
+   "md": "Orcish society values the gift of portent and nurtures it from an early age. Certain soothsaying practices allow for those with orcish blood to peer into the darkness, whether meditating alone or gazing into the stars, to make predictions. A character with this racial trait gains Basic Magic Training as a bonus feat, selecting Dark sphere. In addition, once per day, the character can use the Divination sphere Augury talent as a sphere-like ability (using their character level as their caster level); the character must be within a darkened area for the entire casting time or the *augury* attempt fails.\n\nFor half-orcs, this replaces orc ferocity. For orcs, this replaces ferocity. **Source:** [Diamond Polished Spheres: Dark Sphere](https://www.drivethrurpg.com/en/product/492540/diamond-polished-spheres-dark-sphere?affiliate_id=3028400)",
+   "id": "racial/sp-half-orc-shadowseer-drs"
   },
   {
    "name": "Shamanistic Practices [DRS]",
@@ -17380,6 +17424,17 @@
    "url": "Spheres-Of-Power/Alternate-Racial-Traits#orc",
    "md": "Orcs or half-orcs with this racial trait gain the Survivalism sphere as a bonus skill talent, but must choose the (harvest) package. For half-orcs this replaces orc ferocity, whereas for orcs this replaces ferocity.",
    "id": "racial/sp-orc-carver-drs"
+  },
+  {
+   "name": "Shadowseer [DRS]",
+   "race": "Orc",
+   "system": "Spheres of Power",
+   "kind": "Alternate",
+   "replaces": "orc ferocity",
+   "source": "Diamond Polished Spheres: Dark Sphere",
+   "url": "Spheres-Of-Power/Alternate-Racial-Traits#orc",
+   "md": "Orcish society values the gift of portent and nurtures it from an early age. Certain soothsaying practices allow for those with orcish blood to peer into the darkness, whether meditating alone or gazing into the stars, to make predictions. A character with this racial trait gains Basic Magic Training as a bonus feat, selecting Dark sphere. In addition, once per day, the character can use the Divination sphere Augury talent as a sphere-like ability (using their character level as their caster level); the character must be within a darkened area for the entire casting time or the *augury* attempt fails.\n\nFor half-orcs, this replaces orc ferocity. For orcs, this replaces ferocity. **Source:** [Diamond Polished Spheres: Dark Sphere](https://www.drivethrurpg.com/en/product/492540/diamond-polished-spheres-dark-sphere?affiliate_id=3028400)",
+   "id": "racial/sp-orc-shadowseer-drs"
   },
   {
    "name": "Shamanistic Practices [DRS]",
@@ -18218,6 +18273,17 @@
    "id": "racial/sp-tengu-sly-drs"
   },
   {
+   "name": "Blackened Sclera [DRS]",
+   "race": "Tiefling",
+   "system": "Spheres of Power",
+   "kind": "Alternate",
+   "replaces": "spell-like abilities",
+   "source": "Diamond Polished Spheres: Dark Sphere",
+   "url": "Spheres-Of-Power/Alternate-Racial-Traits#tiefling",
+   "md": "Certain tieflings no longer have the whites of their eyes, instead a striking ink black and symbolic of the power granted by their heritage. Tieflings with this racial trait gain Basic Magic Training as a bonus feat, selecting the Dark sphere. This replaces spell-like abilities. **Source:** [Diamond Polished Spheres: Dark Sphere](https://www.drivethrurpg.com/en/product/492540/diamond-polished-spheres-dark-sphere?affiliate_id=3028400)",
+   "id": "racial/sp-tiefling-blackened-sclera-drs"
+  },
+  {
    "name": "Deceiver",
    "race": "Tiefling",
    "system": "Spheres of Power",
@@ -18537,6 +18603,17 @@
    "id": "racial/sp-wayang-animate-shadow"
   },
   {
+   "name": "Day and Night [DRS]",
+   "race": "Wayang",
+   "system": "Spheres of Power",
+   "kind": "Alternate",
+   "replaces": "light and dark",
+   "source": "Diamond Polished Spheres: Dark Sphere",
+   "url": "Spheres-Of-Power/Alternate-Racial-Traits#wayang",
+   "md": "Certain wayang believe the moon and sun coexist and that they too are blessed by both the light and darkness. Once per day as an immediate action, a wayang with this racial trait can choose to teleport up to 20 feet, +5 feet per 4 Hit Dice the wayang possesses. This teleportation requires line of effect and must be from an area of normal or bright light into a darkened area (or vice versa, from darkness into light). This is a supernatural teleportation ability. After teleporting this way, the wayang is staggered for 1 round. This replaces light and dark. **Source:** [Diamond Polished Spheres: Dark Sphere](https://www.drivethrurpg.com/en/product/492540/diamond-polished-spheres-dark-sphere?affiliate_id=3028400)",
+   "id": "racial/sp-wayang-day-and-night-drs"
+  },
+  {
    "name": "Fated Fade",
    "race": "Wayang",
    "system": "Spheres of Power",
@@ -18566,96 +18643,19 @@
    "replaces": "shadow resistance and shadow magic",
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Alternate-Racial-Traits#wayang",
-   "md": "Believing they will one day return to the shadow from which they emerged, wayangs have an almost symbiotic relationship with the darkness. At 1st level they gain a +2 bonus to all saves against Dark sphere effects as well as spells of the shadow subschool, a +1 bonus to the DC of Dark sphere effects they cast, and Basic Magic Training feat in the Dark sphere. This replaces shadow resistance and shadow magic.\n\n*Archived: [[Alternate Racial Traits (Original)|Original version]] (from before *Ultimate Spheres of Power*)*",
+   "md": "Believing they will one day return to the shadow from which they emerged, wayangs have an almost symbiotic relationship with the darkness. At 1st level they gain a +2 bonus to all saves against Dark sphere effects as well as spells of the shadow subschool, a +1 bonus to the DC of Dark sphere effects they cast, and Basic Magic Training feat in the Dark sphere. This replaces shadow resistance and shadow magic.",
    "id": "racial/sp-wayang-shadow-symbiosis"
   },
   {
-   "name": "Rites of the Dark Mother",
-   "race": "Drow",
-   "system": "Spheres of Power",
-   "kind": "Alternate",
-   "replaces": "spell-like abilities",
-   "source": "Diamond Polished Spheres: Dark Sphere",
-   "url": "Diamond-Recreational-Studios/Alternate-Racial-Traits-(DRS)#drow",
-   "md": "Certain drow societies worship powerful entities which hold dominion over the darkness and night, and are given strength in kind. Drow with this racial trait gain Basic Magic Training as a bonus feat, selecting the Dark sphere. In addition, once per day as part of creating a Dark sphere effect, the drow may choose to allow this sphere effect to be concentrated on as a swift action. This replaces spell-like abilities. **Source:** [Diamond Polished Spheres: Dark Sphere](https://www.drivethrurpg.com/en/product/492540/diamond-polished-spheres-dark-sphere?affiliate_id=3028400)",
-   "id": "racial/sp-drow-rites-of-the-dark-mother"
-  },
-  {
-   "name": "Darkness Savant",
-   "race": "Fetchling",
-   "system": "Spheres of Power",
-   "kind": "Alternate",
-   "replaces": "spell-like abilities",
-   "source": "Diamond Polished Spheres: Dark Sphere",
-   "url": "Diamond-Recreational-Studios/Alternate-Racial-Traits-(DRS)#fetchling",
-   "md": "Fetchlings are familiar with the darkness, and some are especially gifted to shape and manipulate it. Fetchlings with this racial trait gain Basic Magic Training as a bonus feat, selecting the Dark sphere, and at level 13 gain the Extra Magic Talent feat, selecting a talent from the Dark sphere. This replaces spell-like abilities. **Source:** [Diamond Polished Spheres: Dark Sphere](https://www.drivethrurpg.com/en/product/492540/diamond-polished-spheres-dark-sphere?affiliate_id=3028400)",
-   "id": "racial/sp-fetchling-darkness-savant"
-  },
-  {
-   "name": "Melt Into Shadow",
-   "race": "Fetchling",
-   "system": "Spheres of Power",
-   "kind": "Alternate",
-   "replaces": "shadow blending",
-   "source": "Diamond Polished Spheres: Dark Sphere",
-   "url": "Diamond-Recreational-Studios/Alternate-Racial-Traits-(DRS)#fetchling",
-   "md": "Rumored to be formed from the very essence of planar shadow, fetchlings seem to melt and blend into the darkness. After leaving a darkened area, a fetchling with this racial trait is treated as still being within a darkened area until the end of their next turn (despite no longer being within a darkened area) and, while benefiting from this ability, also benefits from the concealment normally granted by dim light against creatures which could not normally see in dim light or darker conditions (this concealment by itself is not sufficient to make Stealth checks to hide). This is a supernatural ability. This replaces shadow blending. **Source:** [Diamond Polished Spheres: Dark Sphere](https://www.drivethrurpg.com/en/product/492540/diamond-polished-spheres-dark-sphere?affiliate_id=3028400)",
-   "id": "racial/sp-fetchling-melt-into-shadow"
-  },
-  {
-   "name": "Shadowseer",
-   "race": "Half-Orc",
-   "system": "Spheres of Power",
-   "kind": "Alternate",
-   "replaces": "orc ferocity",
-   "source": "Diamond Polished Spheres: Dark Sphere",
-   "url": "Diamond-Recreational-Studios/Alternate-Racial-Traits-(DRS)#half-orc",
-   "md": "Orcish society values the gift of portent and nurtures it from an early age. Certain soothsaying practices allow for those with orcish blood to peer into the darkness, whether meditating alone or gazing into the stars, to make predictions. A character with this racial trait gains Basic Magic Training as a bonus feat, selecting Dark sphere. In addition, once per day, the character can use the Divination sphere Augury talent as a sphere-like ability (using their character level as their caster level); the character must be within a darkened area for the entire casting time or the *augury* attempt fails.\n\nFor half-orcs, this replaces orc ferocity. For orcs, this replaces ferocity. **Source:** [Diamond Polished Spheres: Dark Sphere](https://www.drivethrurpg.com/en/product/492540/diamond-polished-spheres-dark-sphere?affiliate_id=3028400)",
-   "id": "racial/sp-half-orc-shadowseer"
-  },
-  {
-   "name": "Shadowseer",
-   "race": "Orc",
-   "system": "Spheres of Power",
-   "kind": "Alternate",
-   "replaces": "orc ferocity",
-   "source": "Diamond Polished Spheres: Dark Sphere",
-   "url": "Diamond-Recreational-Studios/Alternate-Racial-Traits-(DRS)#orc",
-   "md": "Orcish society values the gift of portent and nurtures it from an early age. Certain soothsaying practices allow for those with orcish blood to peer into the darkness, whether meditating alone or gazing into the stars, to make predictions. A character with this racial trait gains Basic Magic Training as a bonus feat, selecting Dark sphere. In addition, once per day, the character can use the Divination sphere Augury talent as a sphere-like ability (using their character level as their caster level); the character must be within a darkened area for the entire casting time or the *augury* attempt fails.\n\nFor half-orcs, this replaces orc ferocity. For orcs, this replaces ferocity. **Source:** [Diamond Polished Spheres: Dark Sphere](https://www.drivethrurpg.com/en/product/492540/diamond-polished-spheres-dark-sphere?affiliate_id=3028400)",
-   "id": "racial/sp-orc-shadowseer"
-  },
-  {
-   "name": "Blackened Sclera",
-   "race": "Tiefling",
-   "system": "Spheres of Power",
-   "kind": "Alternate",
-   "replaces": "spell-like abilities",
-   "source": "Diamond Polished Spheres: Dark Sphere",
-   "url": "Diamond-Recreational-Studios/Alternate-Racial-Traits-(DRS)#tiefling",
-   "md": "Certain tieflings no longer have the whites of their eyes, instead a striking ink black and symbolic of the power granted by their heritage. Tieflings with this racial trait gain Basic Magic Training as a bonus feat, selecting the Dark sphere. This replaces spell-like abilities. **Source:** [Diamond Polished Spheres: Dark Sphere](https://www.drivethrurpg.com/en/product/492540/diamond-polished-spheres-dark-sphere?affiliate_id=3028400)",
-   "id": "racial/sp-tiefling-blackened-sclera"
-  },
-  {
-   "name": "Day and Night",
-   "race": "Wayang",
-   "system": "Spheres of Power",
-   "kind": "Alternate",
-   "replaces": "light and dark",
-   "source": "Diamond Polished Spheres: Dark Sphere",
-   "url": "Diamond-Recreational-Studios/Alternate-Racial-Traits-(DRS)#wayang",
-   "md": "Certain wayang believe the moon and sun coexist and that they too are blessed by both the light and darkness. Once per day as an immediate action, a wayang with this racial trait can choose to teleport up to 20 feet, +5 feet per 4 Hit Dice the wayang possesses. This teleportation requires line of effect and must be from an area of normal or bright light into a darkened area (or vice versa, from darkness into light). This is a supernatural teleportation ability. After teleporting this way, the wayang is staggered for 1 round. This replaces light and dark. **Source:** [Diamond Polished Spheres: Dark Sphere](https://www.drivethrurpg.com/en/product/492540/diamond-polished-spheres-dark-sphere?affiliate_id=3028400)",
-   "id": "racial/sp-wayang-day-and-night"
-  },
-  {
-   "name": "Shadowed Symbiosis",
+   "name": "Shadowed Symbiosis [DRS]",
    "race": "Wayang",
    "system": "Spheres of Power",
    "kind": "Alternate",
    "replaces": "shadow resistance and shadow magic",
    "source": "Diamond Polished Spheres: Dark Sphere",
-   "url": "Diamond-Recreational-Studios/Alternate-Racial-Traits-(DRS)#wayang",
-   "md": "Holding faith that they will one day return to the shadows they emerged from, certain wayang have a cult-like relationship with darkness. Wayangs with this racial trait gain a +2 bonus on saving throws against Dark sphere effects and effects with the shadow descriptor, a +1 bonus to the DC of their Dark sphere effects, and the Basic Magic Training feat as a bonus feat, selecting the Dark sphere. This replaces shadow resistance and shadow magic. **Source:** [Diamond Polished Spheres: Dark Sphere](https://www.drivethrurpg.com/en/product/492540/diamond-polished-spheres-dark-sphere?affiliate_id=3028400)",
-   "id": "racial/sp-wayang-shadowed-symbiosis"
+   "url": "Spheres-Of-Power/Alternate-Racial-Traits#wayang",
+   "md": "Holding faith that they will one day return to the shadows they emerged from, certain wayang have a cult-like relationship with darkness. Wayangs with this racial trait gain a +2 bonus on saving throws against Dark sphere effects and effects with the shadow descriptor, a +1 bonus to the DC of their Dark sphere effects, and the Basic Magic Training feat as a bonus feat, selecting the Dark sphere. This replaces shadow resistance and shadow magic. **Source:** [Diamond Polished Spheres: Dark Sphere](https://www.drivethrurpg.com/en/product/492540/diamond-polished-spheres-dark-sphere?affiliate_id=3028400)\n\n*Archived: [[Alternate Racial Traits (Original)|Original version]] (from before *Ultimate Spheres of Power*)*",
+   "id": "racial/sp-wayang-shadowed-symbiosis-drs"
   },
   {
    "name": "Ability Score Adjustment",

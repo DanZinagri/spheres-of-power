@@ -158,7 +158,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 **Magic Options**
 
 [[Alternate Racial Traits]]
-[[Alternate Racial Traits (DRS)|Alternate Racial Traits]]
 [[Casting Traditions]]
 [[Generation Traditions]]
 [[Origins]]
