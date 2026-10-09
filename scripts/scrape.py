@@ -333,6 +333,10 @@ HOME_OPTION_ROW = ["Magic Options", "Martial Options", "Skill Options", "Champio
 HOME_OPTIONS_TITLE = "Character Options"
 # ...except these, which join another home section's list instead: page -> section
 HOME_OPTION_MOVES = {"Operative Gear": "Gear"}
+# A link in a home section followed by a "- [[...]]" sub-list (Gear's Magical Items and its item
+# types): the sub-list leaves for its own horizontal block under Character Options, the link
+# (a rules page) its header. (section, link page)
+HOME_SUBLIST_BLOCKS = [("Gear", "Magical Items")]
 # Home page sections replaced by the generated "Sample Characters" page, which is linked from
 # the end of the Creatures section instead.
 SAMPLE_SECTIONS = ("Sample Spherecasters", "Sample Practitioners", "Sample Champions")
@@ -1169,6 +1173,23 @@ def rebalance_home_columns(md: str) -> str:
         while at > 0 and tbody[at - 1].strip() in ("", "---"):
             at -= 1
         tbody.insert(at, entry)  # at the end of the section's last group
+    # sub-lists that become their own horizontal blocks (Magical Items' item types)
+    sublist_blocks = []
+    for sec_title, page in HOME_SUBLIST_BLOCKS:
+        target = next((s for _, sections in parsed for s in sections if s[0] == sec_title), None)
+        tbody = target[1] if target else []
+        at = next((k for k, l in enumerate(tbody) if re.fullmatch(rf"\[\[{re.escape(page)}(?:\|[^\]]*)?\]\]", l.strip())), None)
+        if at is None:
+            print(f"warning: home: no {page!r} in {sec_title!r}")
+            continue
+        stop = at + 1
+        while stop < len(tbody) and (tbody[stop].strip().startswith("- [[") or not tbody[stop].strip()):
+            stop += 1
+        items = [l.strip()[2:] for l in tbody[at + 1:stop] if l.strip().startswith("- [[")]
+        header = tbody[at].strip()
+        tbody[at:stop] = [""]
+        sublist_blocks += [f'<div class="sop-spheres sop-{re.sub(r"[^a-z]+", "-", page.lower())}">', "",
+                           f"**{header}**", "", *items, "", "</div>", ""]
     option_row = []
     if option_entries:
         # the traditions together first (custom.scss gives them the first column), then the rest
@@ -1209,7 +1230,7 @@ def rebalance_home_columns(md: str) -> str:
         for col in sphere_cols:
             spheres += [*col, ""]
         spheres += ["</div>", "", "## Character Options", ""]
-    out = lines[:start] + spheres + feat_block + option_row + [lines[start], ""] + rebuilt + [lines[end]] + classes + lines[end + 1:]
+    out = lines[:start] + spheres + feat_block + option_row + sublist_blocks + [lines[start], ""] + rebuilt + [lines[end]] + classes + lines[end + 1:]
     return tidy_home(remove_using_row("\n".join(out)))
 
 

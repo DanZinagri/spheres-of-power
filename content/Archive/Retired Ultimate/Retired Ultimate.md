@@ -42,6 +42,10 @@ parent: "[[Archive]]"
 
 - [[Unified Traditions (Ultimate)|Unified Traditions]]
 
+**Magical Items**
+
+*Nothing retired yet.*
+
 **Advanced Magic**
 
 - [[Mythic Spheres (Ultimate)|Mythic Spheres]]

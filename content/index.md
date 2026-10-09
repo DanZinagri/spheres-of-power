@@ -166,6 +166,27 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 </div>
 
+<div class="sop-spheres sop-magical-items">
+
+**[[Magical Items]]**
+
+- [[Alchemical Items]]
+- [[Apparatuses Rods (ConstantAt-Will Items)|Apparatuses]]
+- [[Metamagic Apparatuses|Apparatuses, Metamagic]]
+- [[Charms Rings (Constant Bonus Items)|Charms]]
+- [[Compounds Potions (Consumable Items)|Compounds]]
+- [[Fabled Items]]
+- [[Implements Staves (Caster LevelTalent Access)|Implements]]
+- [[Marvelous Items Wondrous Items|Marvelous Items]]
+- [[Radiances]]
+- [[Schematics]]
+- [[Scrolls]]
+- [[Spell Engines Wands|Spell Engines]]
+- [[Spellzones]]
+- [[Talent Crystals]]
+
+</div>
+
 <div class="sop-columns" style="--cols: 3">
 
 <div class="sop-col">
@@ -200,22 +221,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 [[Armor]]
 [[Equipment]]
 [[Special Materials]]
-[[Magical Items]]
-
-- [[Alchemical Items]]
-- [[Apparatuses Rods (ConstantAt-Will Items)|Apparatuses]]
-- [[Metamagic Apparatuses|Apparatuses, Metamagic]]
-- [[Charms Rings (Constant Bonus Items)|Charms]]
-- [[Compounds Potions (Consumable Items)|Compounds]]
-- [[Fabled Items]]
-- [[Implements Staves (Caster LevelTalent Access)|Implements]]
-- [[Marvelous Items Wondrous Items|Marvelous Items]]
-- [[Radiances]]
-- [[Schematics]]
-- [[Scrolls]]
-- [[Spell Engines Wands|Spell Engines]]
-- [[Spellzones]]
-- [[Talent Crystals]]
 
 [[Loot Tables]]
 

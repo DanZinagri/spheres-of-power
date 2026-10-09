@@ -60,6 +60,16 @@ The original (pre-*Ultimate*) versions of Spheres of Power pages, as they appear
 - [[Alternate Racial Traits (Original)|Alternate Racial Traits]]
 - [[Traits (Original)|Traits]]
 
+**Magical Items**
+
+- [[Apparatuses Rods (ConstantAt-Will Items) (Original)|Apparatuses [Rods] (Constant/At-Will Items)]]
+- [[Charms Rings (Constant Bonus Items) (Original)|Charms [Rings] (Constant Bonus Items)]]
+- [[Compounds Potions (Consumable Items) (Original)|Compounds [Potions] (Consumable Items)]]
+- [[Implements Staves (Caster LevelTalent Access) (Original)|Implements [Staves] (Caster Level/Talent Access)]]
+- [[Marvelous Items Wondrous Items (Original)|Marvelous Items [Wondrous Items]]]
+- [[Scrolls (Original)|Scrolls]]
+- [[Spell Engines Wands (Original)|Spell Engines [Wands]]]
+
 **Advanced Magic**
 
 - [[Advanced Talents (Original)|Advanced Talents]]
@@ -72,14 +82,6 @@ The original (pre-*Ultimate*) versions of Spheres of Power pages, as they appear
 - [[Weapons (Original)|Weapons]]
 - [[Armor (Original)|Armor]]
 - [[Special Materials (Original)|Special Materials]]
-- [[Magical Items (Original)|Magical Items]]
-- [[Apparatuses Rods (ConstantAt-Will Items) (Original)|Apparatuses [Rods] (Constant/At-Will Items)]]
-- [[Charms Rings (Constant Bonus Items) (Original)|Charms [Rings] (Constant Bonus Items)]]
-- [[Compounds Potions (Consumable Items) (Original)|Compounds [Potions] (Consumable Items)]]
-- [[Implements Staves (Caster LevelTalent Access) (Original)|Implements [Staves] (Caster Level/Talent Access)]]
-- [[Marvelous Items Wondrous Items (Original)|Marvelous Items [Wondrous Items]]]
-- [[Scrolls (Original)|Scrolls]]
-- [[Spell Engines Wands (Original)|Spell Engines [Wands]]]
 
 **Creatures**
 
@@ -302,6 +304,7 @@ The original (pre-*Ultimate*) versions of Spheres of Power pages, as they appear
 - [[Compounds Potions (Consumable Items) (potions) (Original)|Compounds [Potions] (Consumable Items)]]
 - [[Dual Sphere Feats (Original)|Dual Sphere Feats]]
 - [[Implements Staves (Caster LevelTalent Access) (staves) (Original)|Implements [Staves] (Caster Level/Talent Access)]]
+- [[Magical Items (Original)|Magical Items]]
 - [[Marvelous Items 2 (Original)|Marvelous Items 2]]
 - [[Marvelous Items Wondrous Items (wondrous-items) (Original)|Marvelous Items [Wondrous Items]]]
 - [[Spell Engines Wands (wands) (Original)|Spell Engines [Wands]]]
