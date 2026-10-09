@@ -1692,49 +1692,67 @@ PAGE_FOLDS = {
 # "**Armiger:** ..."): each class page's "Favored Class Bonuses" section gets the races it doesn't
 # already list (the class page's own wording wins), and the page goes.
 FCB_FOLDS = ["Practitioner FCB's", "Champion FCBs"]
-# Small pages whose entries join another page's flat list of entries, in name order: source ->
-# target. An entry without its own "*Source: ...*" line gets the source page's credit, since the
+# Pages whose entries join other pages' flat lists of entries, in name order: source -> target, or
+# [(type in the entry's "(...)" tags, target), ..., (None, fallback target)] to route each entry
+# by its first matching tag. An entry the target already has (same name) is left to the target's
+# version; one without its own "*Source: ...*" line gets the source page's credit, since the
 # target's credit (its book) doesn't cover it.
-ENTRY_FOLDS = {"Feats (DRS)": "General Feats"}
+ENTRY_FOLDS = {
+    "Feats (DRS)": "General Feats",
+    # a book's feats, not a feat type: Skybourne's racial, combat and general feats
+    "Skybourne Feats": [("Racial", "Racial Feats"), ("Combat", "Combat Feats"), (None, "General Feats")],
+}
 
 
 def fold_entries() -> int:
     files = {f.stem: f for f in CONTENT.rglob("*.md") if ARCHIVE not in f.relative_to(CONTENT).parts}
     done = 0
-    for src_name, dest_name in ENTRY_FOLDS.items():
-        src, dest = files.get(src_name), files.get(dest_name)
-        if not src or not dest:
-            print(f"warning: entry fold {src_name!r} into {dest_name!r}: page missing")
+    for src_name, routes in ENTRY_FOLDS.items():
+        routes = [(None, routes)] if isinstance(routes, str) else routes
+        src = files.get(src_name)
+        if not src or any(t not in files for _, t in routes):
+            print(f"warning: entry fold {src_name!r}: page missing")
             continue
         sbody = src.read_text(encoding="utf-8").split(GENERATED_MARK, 1)[-1].strip().split("\n")
         credit = next((l.strip() for l in sbody if l.startswith("*Source: ")), "")
         level = min((len(m.group(1)) for l in sbody if (m := re.match(r"(#{1,6}) ", l))), default=4)
         heads = [k for k, l in enumerate(sbody) if l.startswith("#" * level + " ")] + [len(sbody)]
-        head, body = dest.read_text(encoding="utf-8").split(GENERATED_MARK, 1)
-        lines = body.split("\n")
-        tlevel = next((len(m.group(1)) for l in lines if (m := re.match(r"(#{1,6}) ", l))), 4)
+        targets: dict[str, list[list[str]]] = {}
         for a, b in zip(heads, heads[1:]):
-            chunk = [l for l in sbody[a:b]]
+            chunk = list(sbody[a:b])
             while chunk and not chunk[-1].strip():
                 chunk.pop()
-            chunk[0] = "#" * tlevel + " " + chunk[0][level + 1:].strip()
-            if credit and not any(l.startswith("*Source: ") for l in chunk):
-                chunk[1:1] = [credit, ""]
-            name = _entry_name(chunk[0])
-            pos = next((k for k, l in enumerate(lines) if l.startswith("#" * tlevel + " ")
-                        and _entry_name(l) > name), None)
-            if pos is None:  # after the last entry, before the page's closing divider/footer
-                pos = len(lines)
-                while pos > 0 and (not lines[pos - 1].strip() or lines[pos - 1].strip() == "---"
-                                   or lines[pos - 1].startswith("*Archived: ")):
-                    pos -= 1
-                lines[pos:pos] = [""] + chunk
-            else:
-                lines[pos:pos] = chunk + [""]
-            done += 1
-        dest.write_text(head + GENERATED_MARK + re.sub(r"\n{3,}", "\n\n", "\n".join(lines)), encoding="utf-8")
+            _, tags, _ = _split_tags(chunk[0][level + 1:])
+            dest_name = next(t for tag, t in routes if tag is None or tag in tags)
+            targets.setdefault(dest_name, []).append(chunk)
+        for dest_name, chunks in targets.items():
+            dest = files[dest_name]
+            head, body = dest.read_text(encoding="utf-8").split(GENERATED_MARK, 1)
+            lines = body.split("\n")
+            tlevel = next((len(m.group(1)) for l in lines if (m := re.match(r"(#{1,6}) ", l))), 4)
+            entry = "#" * tlevel + " "
+            have = {_fold_key(l) for l in lines if l.startswith(entry)}
+            for chunk in chunks:
+                chunk[0] = entry + chunk[0][level + 1:].strip()
+                if _fold_key(chunk[0]) in have:
+                    continue
+                if credit and not any(l.startswith("*Source: ") for l in chunk):
+                    chunk[1:1] = [credit, ""]
+                name = _entry_name(chunk[0])
+                pos = next((k for k, l in enumerate(lines) if l.startswith(entry) and _entry_name(l) > name), None)
+                if pos is None:  # after the last entry, before the page's closing divider/footer
+                    pos = len(lines)
+                    while pos > 0 and (not lines[pos - 1].strip() or lines[pos - 1].strip() == "---"
+                                       or lines[pos - 1].startswith("*Archived: ")):
+                        pos -= 1
+                    lines[pos:pos] = [""] + chunk
+                else:
+                    lines[pos:pos] = chunk + [""]
+                have.add(_fold_key(chunk[0]))
+                done += 1
+            dest.write_text(head + GENERATED_MARK + re.sub(r"\n{3,}", "\n\n", "\n".join(lines)), encoding="utf-8")
         src.unlink()
-        drop_page_links(src_name)
+        drop_page_links(src_name, routes[0][1])  # prose links go to its first target
     return done
 
 
@@ -1797,14 +1815,19 @@ def fold_fcbs() -> int:
     return added
 
 
-def drop_page_links(name: str) -> None:
-    """A page that went away: list lines that only link it go; other links to it become plain text."""
+def drop_page_links(name: str, redirect: str = "") -> None:
+    """A page that went away: list lines that only link it go, as do sections whose heading is only
+    a link to it (a hub's entry for it, with its blurb and the divider before it); other links to
+    it become plain text (or, with redirect, links to that page)."""
     for f in CONTENT.rglob("*.md"):
         text = f.read_text(encoding="utf-8")
         if f"[[{name}" not in text:
             continue
         new = re.sub(rf"^(?:- )?\[\[{re.escape(name)}(?:\|[^\]]*)?\]\][ \t]*\r?\n", "", text, flags=re.M)
-        new = re.sub(rf"\[\[{re.escape(name)}(?:#[^\]|]*)?(?:\\?\|([^\]]*))?\]\]", lambda m: m.group(1) or name, new)
+        new = re.sub(rf"(?:^---[ \t]*\r?\n\s*)?^(#{{1,6}}) \[\[{re.escape(name)}(?:\\?\|[^\]]*)?\]\][ \t]*\r?\n"
+                     rf"(?:(?!#{{1,6}} |---[ \t]*\r?$|</div>).*\r?\n)*", "", new, flags=re.M)
+        new = re.sub(rf"\[\[{re.escape(name)}(?:#[^\]|]*)?(?:\\?\|([^\]]*))?\]\]", lambda m: (f"[[{redirect}|{m.group(1)}]]" if m.group(1) else f"[[{redirect}]]") if redirect
+                     else (m.group(1) or name), new)
         if new != text:
             f.write_text(new, encoding="utf-8")
 

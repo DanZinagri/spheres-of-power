@@ -133,6 +133,13 @@ If consuming catnip (see section Recreational Substances for Cats in [[Alchemica
 
 **Benefit:** You may assist another spellcaster who also possesses this feat, granting them a temporary +1 bonus to their caster level, as well as granting them access to your spell points and talents as if they possessed them. You must spend a standard action every round to maintain this ability, and you must be within 30 feet of the caster you are aiding in this manner. A target may be helped by multiple casters at once in this manner, but all involved casters must remain within 30 feet of each other, and the effects are not strictly cumulative. It takes one assisting caster to add a +1 bonus, three to add a +2 bonus, six to add a +3 bonus, ten to add a +4 bonus, and fifteen to add a +5 bonus. No caster may receive more than a +5 bonus in this manner.
 
+#### Commanding Presence (General)
+*Source: [The Player's Guide to Skybourne](https://www.drivethrurpg.com/product/173399/The-Players-Guide-to-Skybourne?affiliate_id=549120)*
+
+**Prerequisites:** 3rd level.
+
+**Benefit:** A creature with this feat can command two crews at once rather than just one. Both crews must still be able to see or hear this creature to gain the benefits of having him as their commanding officer.
+
 #### Complex Harmony
 
 **Prerequisites:** Bardic performance class feature, character level 10th.
@@ -219,6 +226,15 @@ Your abilities and commitments have been recognized by immortal features.
 **Prerequisites:** Outsider with the native subtype, alignment matching either an extraplanar ancestor or a patron.
 
 **Benefit:** You lose the native subtype, no longer aging or requiring food but becoming incapable of being resurrected by normal means. You no longer gain bonuses or suffer penalties from advancing in age, although you retain any bonuses and penalties you may already possess from your age. If you are the descendant of or patroned by an outsider with an alignment or elemental subtype (such as good, chaotic, fire, or earth), you gain these subtypes. Patronage in this context refers to a being that you gain class features from (such as cleric gaining domains or a thaumaturge gaining benefits from a pact). Gods should generally be considered outsiders with subtypes corresponding to their alignment for the purposes of this feat.
+
+#### Emergency Repair (General)
+*Source: [The Player's Guide to Skybourne](https://www.drivethrurpg.com/product/173399/The-Players-Guide-to-Skybourne?affiliate_id=549120)*
+
+Desperate times call for desperate measures. A working device can save your life.
+
+**Prerequisite:** Technological racial trait.
+
+**Benefit:** As a full-round action, you may quickly jury-rig a repair on a destroyed object, elevating it to functional with the broken condition for 1d6 minutes. Any given item can only be so repaired once before real work has to be done to coax it back to life. Any additional damage will immediately destroy the item again. This does not restore magic to a destroyed magic item. Alternately, you may use this feat to remove the broken condition from an object for 1d6 minutes, but again, only once per object.
 
 #### Energy Cascade
 
@@ -402,6 +418,15 @@ If you have the Unreliable Training drawback, the maximum number of magic talent
 
 **Benefit:** When determining the save DC of a magic item you activate that determines its power by the formulae 10 + 1/2 the item’s caster level, you may add your casting ability modifier to the save DC. In addition, you may use your casting ability modifier for any sphere effects from any magic item you activate that require it (such as the Chameleon talent from the Light sphere).
 
+#### Jumbled Organs (General)
+*Source: [The Player's Guide to Skybourne](https://www.drivethrurpg.com/product/173399/The-Players-Guide-to-Skybourne?affiliate_id=549120)*
+
+The general placement of your organs often baffles your foes, making you even more unique when compared to your bizarre peers.
+
+**Prerequisites:** Construct type or subtype.
+
+**Benefit:** Your natural fortification improves by 10%.
+
 #### Lurker In Darkness
 
 **Prerequisite:** Stealth 6 ranks.
@@ -426,6 +451,15 @@ If you have the Unreliable Training drawback, the maximum number of magic talent
 - **Nature’s Carapace:** While under the effects of the Barkskin effect, whenever you are damaged by a melee attack, the attacker suffers an amount of acid damage equal to twice your caster level (Fortitude negates).
 - **Nature’s Weapon—Spore Cloud:** As a standard action you can release a cloud of spores in a 15-foot cone. All creatures within the area suffer 1d4 acid damage per caster level and become sickened for 1d4 rounds—a successful Fortitude save halves this damage and negates the sickened condition. This is a poison effect.
 - **Wreath of Elements—Fungal Fortitude:** You fortify yourself, gaining a +2 alchemical bonus to a single saving throw, increasing by +1 per 5 caster levels. Alternatively, if you use this ability after succeeding a Fortitude saving throw against an effect that has a partial effect on a successful save, you instead suffer no effect.
+
+#### Master Engineer (General)
+*Source: [The Player's Guide to Skybourne](https://www.drivethrurpg.com/product/173399/The-Players-Guide-to-Skybourne?affiliate_id=549120)*
+
+When you learn the ins and outs of an engine, you can coax more from it than another engineer could.
+
+**Prerequisites:** Profession (engineer) 5 ranks.
+
+**Benefit:** When you serve as a ship’s engineer for at least 1 week, you can coax greater feats than normal from that ship’s engine. When pushing an engine, its power increases by 75%. When overloading the engine, its power increases by 150%. When successfully aiding the pilot, you grant them an additional +2 bonus to their piloting checks.
 
 #### Metamagic Aficionado
 
@@ -539,6 +573,24 @@ In addition, you gain the following new abilities which grant benefits while in 
 
 **Special:** You may select this feat multiple times. The effects of this feat stack if applied to the same class multiple times.
 
+#### Ritual Expert (General)
+*Source: [The Player's Guide to Skybourne](https://www.drivethrurpg.com/product/173399/The-Players-Guide-to-Skybourne?affiliate_id=549120)*
+
+You have learned much of ritual magic, and can call upon a wider variety as your needs dictate.
+
+**Prerequisites:** Caster level 1.
+
+**Benefit:** You may use any ritual under your magic type (arcane, divine, psychic), not only those tied to your specific tradition.
+
+#### Ritual Master (General)
+*Source: [The Player's Guide to Skybourne](https://www.drivethrurpg.com/product/173399/The-Players-Guide-to-Skybourne?affiliate_id=549120)*
+
+Your skill with ritual magic is unparalleled.
+
+**Prerequisites:** Caster level 1, spherecaster (Spheres of Power).
+
+**Benefit:** You may use your MSB in place of your caster level when using rituals.
+
 #### Ritualistic Perseverance
 
 **Prerequisite:** 3 ranks in any 2 skills.
@@ -597,6 +649,24 @@ If the person you share the mandate with performs an action that would allow you
 
 *Source: Card Casting Bonus Content*
 
+#### Spell Adept (General)
+*Source: [The Player's Guide to Skybourne](https://www.drivethrurpg.com/product/173399/The-Players-Guide-to-Skybourne?affiliate_id=549120)*
+
+Your ability to use rituals has grown to great power.
+
+**Prerequisites:** Spell Dabbler, spherecaster (Spheres of Power).
+
+**Benefit:** When using your Spell Dabbler feat, you may increase the preparation time to 1 hour to prepare as many rituals as you desire, spending spell points for each prepared ritual. You cannot prepare more than 4 rituals of any individual level in this manner.
+
+#### Spell Dabbler (General)
+*Source: [The Player's Guide to Skybourne](https://www.drivethrurpg.com/product/173399/The-Players-Guide-to-Skybourne?affiliate_id=549120)*
+
+You have learned to hold rituals in your memory to a minor degree.
+
+**Prerequisites:** Spherecaster (Spheres of Power).
+
+**Benefit:** You may choose one ritual per day you may use up to the highest level you may cast. By spending 15 minutes preparing beforehand, you may cast this ritual once as a spellcaster at any point during that day. This may also be a lower-level ritual augmented by any metamagic feats you possess, so long as its effective level does not exceed that which you can cast. All drawbacks of your tradition still apply, and the spell may be augmented by any tradition boons you possess. Rather than a material cost, (unless the spell has costly material components already listed), you must spend a number of spell points at the time you prepare the ritual dependent on the level of the ritual in question: 0-2: 1 spell point, 3-5: 2 spell points, 6-8: 3 spell points, 9: 4 spell points.
+
 #### Sphere Focus
 
 **Prerequisite:** Casting class feature.
@@ -610,6 +680,15 @@ If the person you share the mandate with performs an action that would allow you
 **Benefit:** If you possess two talents from separate spheres that both possess the instill, mass, range, or strike descriptors, you count as possessing all talents of that corresponding type from all spheres that possess such a talent. You must possess the corresponding base sphere before gaining access to any talent, and if such a talent can be taken multiple times, this only counts as possessing the talent once.
 
 **Example:** If a character possesses Energy Strike and Cryptic Strike, they would count as possessing all other talents with the strike descriptor. If a character possesses Instill Life and Instill Death, they would count as possessing all other talents with the instill descriptor.
+
+#### Strengthened Arms (General)
+*Source: [The Player's Guide to Skybourne](https://www.drivethrurpg.com/product/173399/The-Players-Guide-to-Skybourne?affiliate_id=549120)*
+
+**Prerequisites:** Secondary arms racial trait.
+
+**Benefit:** Your secondary arms are as powerful as regular arms. You may use your secondary arms to hold shields, fulfill somatic requirements, or make attacks (although this does not grant you additional attacks or actions per round). When wielding a weapon in two hands, add 1.5 times your Strength modifier to damage instead of 1 or .5 times your Strength modifier. When wielding a weapon in all 4 hands, add 2 times your Strength modifier to damage instead of 1.5 times your Strength modifier.
+
+**Special:** Taking this feat qualifies a tatulani to take the Unreasonable Coordination feat.
 
 #### Superior Salvage
 

@@ -11,7 +11,7 @@ The following are new races and racial options. Not all of these races inherentl
 
 **Addendum:** This means that the race is treated as both creature types for the purposes of a ranger's favored enemy, the bane weapon special ability, and other spells and effects, whether beneficial or harmful. This subtype does not grant any of the creature type's normal abilities (such as the plant subtype's immunities or senses).
 
-See the [[Skybourne Feats]] page for additional feats and character options for these races.
+See the [[Racial Feats]] page for additional feats and character options for these races.
 
 | Race | Description |
 | --- | --- |

@@ -140,7 +140,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 - [[Purring Feats|Purring]]
 - [[Racial Feats|Racial]]
 - [[Ritual Feats|Ritual]]
-- [[Skybourne Feats|Skybourne]]
 - [[Squadron Feats|Squadron]]
 - [[Surreal Feats|Surreal]]
 - [[Teamwork Feats|Teamwork]]

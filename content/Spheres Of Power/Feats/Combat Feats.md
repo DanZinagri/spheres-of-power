@@ -56,6 +56,17 @@ Attack smarter, not harder.
 
 **Benefit:** Your arcane strike or imbued strike is in effect at all times without you needing to take an action to activate it. In addition, when you use this ability with an attack action that only affects one target and has only one attack roll, the bonus on damage rolls for your strike is increased 100% for every +5 base attack bonus you possess.
 
+#### Cherufe Sweep (Combat)
+*Source: [The Player's Guide to Skybourne](https://www.drivethrurpg.com/product/173399/The-Players-Guide-to-Skybourne?affiliate_id=549120)*
+
+With lightning reflexes, you sweep your tail against an opponent that has left them exposed, knocking them down.
+
+**Prerequisites:** Tail natural attack, base attack bonus +6.
+
+**Benefit:** When using your tail to make an attack of opportunity, you may make a free trip combat maneuver that does not provoke attacks of opportunity against a target if you successfully hit it.
+
+**Special:** If you possess the Improved Trip feat or are otherwise unable to provoke an attack of opportunity when making a trip attempt, you gain a +2 bonus to your CMB with this trip attempt.
+
 #### Counterspelling Strike (Combat, Counterspell)
 
 **Prerequisites:** Counterspell, casting class feature, magic skill bonus +5.
@@ -131,6 +142,13 @@ If you die, the extradimensional space contracts, disgorging any swallowed creat
 **Prerequisites:** Destruction sphere (Fire Blast (blast type, fire)).
 
 **Benefit:** When a creature is set on fire by your destructive blast, they must succeed at a Will save each round they remain on fire or become shaken. If shaken, they become frightened. If frightened, they become panicked. A successful save reduces the severity by one step and ending the on fire condition ends the effects of this feat, though not fear conditions from other sources.
+
+#### Flexible Tail (Combat)
+*Source: [The Player's Guide to Skybourne](https://www.drivethrurpg.com/product/173399/The-Players-Guide-to-Skybourne?affiliate_id=549120)*
+
+**Prerequisites:** Tail natural attack, base attack bonus +6.
+
+**Benefit:** You may use your tail as a normal natural attack, and are no longer limited to only using it to make attacks of opportunity.
 
 #### Frozen To The Bone (Combat)
 
@@ -382,6 +400,15 @@ When one of your allies primes a technique, you respond immediately.
 
 **Benefit:** When using the Energy Wall (blast shape) talent without a spell point, increase the wall’s size to a 10-foot-by-10-foot wall, plus an additional 10 feet per 10 caster levels. When using the Explosive Orb (blast shape) talent without a spell point, the radius becomes 5 feet + 5 feet per 10 caster levels.
 
+#### Siege Engineer (Combat)
+*Source: [The Player's Guide to Skybourne](https://www.drivethrurpg.com/product/173399/The-Players-Guide-to-Skybourne?affiliate_id=549120)*
+
+Your skill with large weapons is great.
+
+**Prerequisites:** Proficiency with at least 1 siege engine.
+
+**Benefit:** You are considered proficient with all siege engines, and no longer suffer a chance of misfire when rolling a 1 with a siege engine.
+
 #### Skeletal Contortionist (Combat)
 
 You have extreme control over your bones and joints, allowing you to respond to a variety of physical threats.
@@ -443,6 +470,46 @@ Your aid fortifies your ally’s martial capabilities.
 You have learned how to create elaborate and unique actions.
 
 **Benefit:** You gain the ability to create techniques, as per the technique rules.
+
+#### Tentacle Adept (Combat)
+*Source: [The Player's Guide to Skybourne](https://www.drivethrurpg.com/product/173399/The-Players-Guide-to-Skybourne?affiliate_id=549120)*
+
+Hard training and dedication have taught you how to make the best use out of your tentacles, twisting, turning, pirouetting, and bending to strike opponents from farther away than they suspect.
+
+**Prerequisites:** Base attack bonus +5 or monk 3, Tentacle Novice, Improved Unarmed Strike.
+
+**Benefit:** Increase the reach of any attacks you make with your tentacles by +5 feet.
+
+#### Tentacle Grappler (Combat)
+*Source: [The Player's Guide to Skybourne](https://www.drivethrurpg.com/product/173399/The-Players-Guide-to-Skybourne?affiliate_id=549120)*
+
+Enemies quickly learn to fear your tentacles— even being grazed by your many appendages can lead to a quick death.
+
+**Prerequisites:** Tentacle Master, Tentacle Adept, Tentacle Novice, Improved Unarmed Strike.
+
+**Benefit:** Once per round when you successfully attack a target with your tentacles, you may make a grapple combat maneuver against that target as a free action. This does not provoke an attack of opportunity.
+
+**Normal:** Making a grapple combat maneuver check is a standard action.
+
+**Special:** Though this has a stance feat as a requirement, Tentacle Grappler is not a stance feat.
+
+#### Tentacle Master (Combat)
+*Source: [The Player's Guide to Skybourne](https://www.drivethrurpg.com/product/173399/The-Players-Guide-to-Skybourne?affiliate_id=549120)*
+
+You are truly a paragon of cecaelia combat prowess, able to strike opponents as soundly with a tentacle as any weapon.
+
+**Prerequisites:** Tentacle Adept, Tentacle Novice, Improved Unarmed Strike.
+
+**Benefit:** You gain a +1 racial bonus to attack rolls and damage rolls made with your tentacles.
+
+#### Tentacle Novice (Combat, Style)
+*Source: [The Player's Guide to Skybourne](https://www.drivethrurpg.com/product/173399/The-Players-Guide-to-Skybourne?affiliate_id=549120)*
+
+You’ve developed greater control over your tentacles, allowing you to move your center of gravity around to overturn opponents.
+
+**Prerequisites:** Two or more tentacles, base attack bonus +2 or monk 1, Improved Unarmed Strike.
+
+**Benefit:** You gain a +2 racial bonus to CMD to resist grapple checks and gain a +1 racial bonus to CMB when making a grapple or trip check. You may use your tentacles to make unarmed strikes.
 
 #### Tether Adept (Combat)
 
@@ -523,6 +590,17 @@ In addition, whenever you make a sweeping strike, you may choose up to 4 spaces.
 **Prerequisites:** Alteration sphere (Additional Limbs) or multiple heads.
 
 **Benefit:** When you have more than one head you are immune to flanking.
+
+#### Unreasonable Coordination (Combat)
+*Source: [The Player's Guide to Skybourne](https://www.drivethrurpg.com/product/173399/The-Players-Guide-to-Skybourne?affiliate_id=549120)*
+
+Those extra arms are not just for display. A little practice and dedication and you can get them all moving independently.
+
+**Prerequisite:** Three or more arms, base attack bonus +6, Dexterity 13, Two-Weapon Fighting.
+
+**Benefit:** When two-weapon fighting, you may treat an additional hand as an off-hand, allowing you to make an additional off-hand attack with that hand whenever you make a usual off-hand attack.
+
+**Special:** You may take this feat a number of times equal to the number of arms you possess beyond two. A tatulani must possess the Strengthened Arms feat to gain this feat.
 
 #### Venom Spitter (Combat)
 

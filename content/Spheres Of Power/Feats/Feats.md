@@ -184,12 +184,6 @@ Ritual feats focus on the use of [[Rituals]], an optional subsystem. These feats
 
 ---
 
-#### [[Skybourne Feats]]
-
-Skybourne feats are mainly intended for use in the Skybourne Campaign Setting. Most of them are Racial feats.
-
----
-
 #### [[Squadron Feats]]
 
 Based around the use of the Squadron Commander feat, these feats offer various ways for allies to help each other - unlike Teamwork feats, however, only one person in the party needs to know the feat being used.

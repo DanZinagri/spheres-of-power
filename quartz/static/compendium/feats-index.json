@@ -1612,828 +1612,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/abundant-adrenaline-combat-racial",
-  "name": "Abundant Adrenaline",
-  "system": "Spheres of Power",
-  "types": [
-   "Combat",
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Construct type or subtype, character level 3rd.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#abundant-adrenaline-combat-racial",
-  "summary": "Once per hour, you can take an extra swift action for two turns, but for the next three turns afterward you receive no swift actions.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/airborne-aethermancer-combat-racial",
-  "name": "Airborne Aethermancer",
-  "system": "Spheres of Power",
-  "types": [
-   "Combat",
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Draconic subtype, breezeflight, character level 3rd.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#airborne-aethermancer-combat-racial",
-  "summary": "When using breezeflight and casting a spell or using a sphere ability that deals acid or lightning damage, your caster level increases by 1.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/alraun-nose-general-racial",
-  "name": "Alraun Nose",
-  "system": "Spheres of Power",
-  "types": [
-   "General",
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Plant subtype, blood sense racial trait.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#alraun-nose-general-racial",
-  "summary": "You gain the scent ability.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/armored-flight-combat-racial",
-  "name": "Armored Flight",
-  "system": "Spheres of Power",
-  "types": [
-   "Combat",
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Fenghaung subtype, fly speed.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#armored-flight-combat-racial",
-  "summary": "You can now fly in medium or heavy armor, or while encumbered.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/calculated-shot-combat",
-  "name": "Calculated Shot",
-  "system": "Spheres of Power",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [],
-  "prerequisites": "Intelligence 13, Point-Blank Shot, Precise Shot, Focused Shot.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#calculated-shot-combat",
-  "summary": "You may use Focused Shot with any ranged weapon, not just bows or crossbows.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/cauldron-of-venom-combat-racial",
-  "name": "Cauldron of Venom",
-  "system": "Spheres of Power",
-  "types": [
-   "Combat",
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Poison Spitter, poison eater alraun, character level 7th.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#cauldron-of-venom-combat-racial",
-  "summary": "You can change your poison’s type (from injury to contact, ingested, or inhaled) by expending twice as many of your daily uses as normal.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/cecaelia-burst-general-racial",
-  "name": "Cecaelia Burst",
-  "system": "Spheres of Power",
-  "types": [
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Cecaelia subtype, character level 3rd.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#cecaelia-burst-general-racial",
-  "summary": "You are able to swim 150 ft backward as a full-round action, as the jet universal monster ability.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/cherufe-chomp-combat-racial",
-  "name": "Cherufe Chomp",
-  "system": "Spheres of Power",
-  "types": [
-   "Combat",
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Cherufe (zavr subtype), base attack bonus +9.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#cherufe-chomp-combat-racial",
-  "summary": "You may make a free grapple combat maneuver check that does not provoke attacks of opportunity when you hit with your bite attack.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/cherufe-sweep-combat",
-  "name": "Cherufe Sweep",
-  "system": "Spheres of Power",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [],
-  "prerequisites": "Tail natural attack, base attack bonus +6.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#cherufe-sweep-combat",
-  "summary": "When using your tail to make an attack of opportunity, you may make a free trip combat maneuver that does not provoke attacks of opportunity against a target…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/climbing-claws-general-racial",
-  "name": "Climbing Claws",
-  "system": "Spheres of Power",
-  "types": [
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Tatulani subtype, secondary arms racial trait, claws racial trait.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#climbing-claws-general-racial",
-  "summary": "You gain a +2 racial bonus to Climb checks per free hand.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/commanding-presence-general",
-  "name": "Commanding Presence",
-  "system": "Spheres of Power",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "3rd level.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#commanding-presence-general",
-  "summary": "A creature with this feat can command two crews at once rather than just one.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/cuazaj-breath-combat-racial",
-  "name": "Cuazaj Breath",
-  "system": "Spheres of Power",
-  "types": [
-   "Combat",
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Draconic subtype, cuazaj lightning racial trait.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#cuazaj-breath-combat-racial",
-  "summary": "Your cuazaj lightning breath weapon improves, dealing 1d6 damage per 2 character levels.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/cuazaj-breath-expanded-combat-racial",
-  "name": "Cuazaj Breath, Expanded",
-  "system": "Spheres of Power",
-  "types": [
-   "Combat",
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Draconic subtype, cuazaj lightning racial trait, Cuazaj Breath.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#cuazaj-breath-expanded-combat-racial",
-  "summary": "Your cuazaj lightning breath weapon double in size, affecting a 30-ft cone.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/cuazaj-breath-greater-combat-racial",
-  "name": "Cuazaj Breath, Greater",
-  "system": "Spheres of Power",
-  "types": [
-   "Combat",
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Draconic subtype, cuazaj lightning racial trait, Cuazaj Breath.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#cuazaj-breath-greater-combat-racial",
-  "summary": "You may use your cuazaj lightning breath weapon once every 1d4 rounds.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/elemental-heart-general-racial",
-  "name": "Elemental Heart",
-  "system": "Spheres of Power",
-  "types": [
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Fenghaung subtype, energy resistance.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#elemental-heart-general-racial",
-  "summary": "Increase the energy resistance given by your elemental nature by an amount equal to your character level.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/elemental-rebirth-general-racial",
-  "name": "Elemental Rebirth",
-  "system": "Spheres of Power",
-  "types": [
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Fenghaung subtype, energy resistance, Elemental Heart, character level 12th",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#elemental-rebirth-general-racial",
-  "summary": "If your body is immersed in the element you have resistance to via the elemental nature racial trait within a day of your death, you are revived as per raise…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/elemental-touch-combat-racial",
-  "name": "Elemental Touch",
-  "system": "Spheres of Power",
-  "types": [
-   "Combat",
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Fenghaung subtype, energy resistance.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#elemental-touch-combat-racial",
-  "summary": "When attacking with a natural or manufactured melee weapon, you deal 1d6 damage of fire or cold damage as appropriate.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/emergency-repair-general",
-  "name": "Emergency Repair",
-  "system": "Spheres of Power",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Technological racial trait.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#emergency-repair-general",
-  "summary": "As a full-round action, you may quickly jury-rig a repair on a destroyed object, elevating it to functional with the broken condition for 1d6 minutes.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-planar-balancer-general-racial",
-  "name": "Extra Planar Balancer",
-  "system": "Spheres of Power",
-  "types": [
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Fey type or subtype, planar balancer racial trait.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#extra-planar-balancer-general-racial",
-  "summary": "You may use your planar balancer ability an additional 3 rounds per day.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-venom-general-racial",
-  "name": "Extra Venom",
-  "system": "Spheres of Power",
-  "types": [
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Poison eater alraun.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#extra-venom-general-racial",
-  "summary": "You may use your venom an additional 2 times per day.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/fey-interference-general-racial",
-  "name": "Fey Interference",
-  "system": "Spheres of Power",
-  "types": [
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Fey type or subtype.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#fey-interference-general-racial",
-  "summary": "A number of times per day equal to 1/2 your hit dice, you can spend an immediate action to force a creature within 30 ft.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/feylignment-general-racial",
-  "name": "Feylignment",
-  "system": "Spheres of Power",
-  "types": [
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Fey type or subtype.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#feylignment-general-racial",
-  "summary": "By spending an immediate action, you may change your alignment to appear to be within one step of what it truly is for one minute.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/flexible-tail-combat",
-  "name": "Flexible Tail",
-  "system": "Spheres of Power",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [],
-  "prerequisites": "Tail natural attack, base attack bonus +6.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#flexible-tail-combat",
-  "summary": "You may use your tail as a normal natural attack, and are no longer limited to only using it to make attacks of opportunity.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/focused-miasma-general-racial",
-  "name": "Focused Miasma",
-  "system": "Spheres of Power",
-  "types": [
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Fermon alraun, odor of susceptibility.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#focused-miasma-general-racial",
-  "summary": "By spending a standard action to suppress your odor of susceptibility (provoking attacks of opportunity), you can narrow its effects into a miasma that targets…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/forest-roots-general-racial",
-  "name": "Forest Roots",
-  "system": "Spheres of Power",
-  "types": [
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Plant type or subtype, Vegetalker.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#forest-roots-general-racial",
-  "summary": "While on a ground with soil such as the forest floor or swamp terrains, you can spend a full-round action that provokes attacks of opportunity to designate a…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/greater-created-general-racial",
-  "name": "Greater Created",
-  "system": "Spheres of Power",
-  "types": [
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Construct subtype.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#greater-created-general-racial",
-  "summary": "You receive 1 creation point.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/hardened-shell-combat-racial",
-  "name": "Hardened Shell",
-  "system": "Spheres of Power",
-  "types": [
-   "Combat",
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Tatulani subtype.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#hardened-shell-combat-racial",
-  "summary": "You gain a +1 natural armor bonus.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/improved-ink-jet-general-racial",
-  "name": "Improved Ink Jet",
-  "system": "Spheres of Power",
-  "types": [
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Cecaelia subtype, ink jet racial ability.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#improved-ink-jet-general-racial",
-  "summary": "You may use your ink jet racial ability once per hour rather than once per day.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/jumbled-organs-general",
-  "name": "Jumbled Organs",
-  "system": "Spheres of Power",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Construct type or subtype.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#jumbled-organs-general",
-  "summary": "Your natural fortification improves by 10%.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/linguistic-mastery-general-racial",
-  "name": "Linguistic Mastery",
-  "system": "Spheres of Power",
-  "types": [
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Tatulani subtype.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#linguistic-mastery-general-racial",
-  "summary": "You gain a +2 bonus to Linguistics checks.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/living-accumulator-combat-racial",
-  "name": "Living Accumulator",
-  "system": "Spheres of Power",
-  "types": [
-   "Combat",
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Draconic subtype, Constitution 13+.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#living-accumulator-combat-racial",
-  "summary": "You can naturally charge a cuazite weapon with electricity as a swift action a number of times per day equal to your Constitution modifier.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/master-engineer-general",
-  "name": "Master Engineer",
-  "system": "Spheres of Power",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Profession (engineer) 5 ranks.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#master-engineer-general",
-  "summary": "When you serve as a ship’s engineer for at least 1 week, you can coax greater feats than normal from that ship’s engine.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/mixed-toxicity-combat-racial",
-  "name": "Mixed Toxicity",
-  "system": "Spheres of Power",
-  "types": [
-   "Combat",
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Poison eater alraun.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#mixed-toxicity-combat-racial",
-  "summary": "After ingesting a poison other than your own, the DC of your poison is increased by +2 for each 500 gp of its value (minimum +1) the next time you use your…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/planar-strike-combat-racial",
-  "name": "Planar Strike",
-  "system": "Spheres of Power",
-  "types": [
-   "Combat",
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Fey type or subtype, planar balancer racial trait, Arcane Strike, caster level 5th.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#planar-strike-combat-racial",
-  "summary": "When using Arcane Strike, your empowered weapons also gain the ghost touch enhancement for that round.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/planar-swing-general-racial",
-  "name": "Planar Swing",
-  "system": "Spheres of Power",
-  "types": [
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Fey type or subtype, planar balancer racial trait.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#planar-swing-general-racial",
-  "summary": "As a swift action, you may expend a round of your planar balancer racial ability to make an Acrobatics check to jump, moving a number of feet equal to your…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/poison-spitter-combat-racial",
-  "name": "Poison Spitter",
-  "system": "Spheres of Power",
-  "types": [
-   "Combat",
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Poison eater alraun.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#poison-spitter-combat-racial",
-  "summary": "You can spit your poison as a ranged touch attack with a range increment of 10 feet.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/poisonous-ink-general-racial",
-  "name": "Poisonous Ink",
-  "system": "Spheres of Power",
-  "types": [
-   "General",
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Cecaelia subtype, Improved Ink Jet.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#poisonous-ink-general-racial",
-  "summary": "In addition to blindness for 1 minute, your ink jet becomes poisonous.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/practiced-claws-combat-racial",
-  "name": "Practiced Claws",
-  "system": "Spheres of Power",
-  "types": [
-   "Combat",
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Tatulani subtype, secondary arms racial trait, Strengthened Arms, base attack bonus +4.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#practiced-claws-combat-racial",
-  "summary": "Your secondary arms gain secondary claw attacks that deal 1d4 damage each.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/razor-beak-combat-racial",
-  "name": "Razor Beak",
-  "system": "Spheres of Power",
-  "types": [
-   "Combat",
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Fenghuang subtype.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#razor-beak-combat-racial",
-  "summary": "You gain a bite attack that deals standard damage for your size (1d6 medium, 1d4 small).",
-  "file": "feats.json"
- },
- {
-  "id": "feat/razor-talons-combat-racial",
-  "name": "Razor Talons",
-  "system": "Spheres of Power",
-  "types": [
-   "Combat",
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Fenghuang subtype.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#razor-talons-combat-racial",
-  "summary": "You gain two talon attacks that deal standard damage for your size (1d4 at medium).",
-  "file": "feats.json"
- },
- {
-  "id": "feat/real-flight-general-racial",
-  "name": "Real Flight",
-  "system": "Spheres of Power",
-  "types": [
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Draconic subtype, breezeflight, character level 5th.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#real-flight-general-racial",
-  "summary": "When using breezeflight, you become weightless instead of half-weight.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/ritual-expert-general",
-  "name": "Ritual Expert",
-  "system": "Spheres of Power",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Caster level 1.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#ritual-expert-general",
-  "summary": "You may use any ritual under your magic type (arcane, divine, psychic), not only those tied to your specific tradition.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/ritual-master-general",
-  "name": "Ritual Master",
-  "system": "Spheres of Power",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Caster level 1, spherecaster (Spheres of Power).",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#ritual-master-general",
-  "summary": "You may use your MSB in place of your caster level when using rituals.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/spell-dabbler-general",
-  "name": "Spell Dabbler",
-  "system": "Spheres of Power",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Spherecaster (Spheres of Power).",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#spell-dabbler-general",
-  "summary": "You may choose one ritual per day you may use up to the highest level you may cast.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/spell-adept-general",
-  "name": "Spell Adept",
-  "system": "Spheres of Power",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Spell Dabbler, spherecaster (Spheres of Power).",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#spell-adept-general",
-  "summary": "When using your Spell Dabbler feat, you may increase the preparation time to 1 hour to prepare as many rituals as you desire, spending spell points for each…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/siege-engineer-combat",
-  "name": "Siege Engineer",
-  "system": "Spheres of Power",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [],
-  "prerequisites": "Proficiency with at least 1 siege engine.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#siege-engineer-combat",
-  "summary": "You are considered proficient with all siege engines, and no longer suffer a chance of misfire when rolling a 1 with a siege engine.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/steel-skeleton-combat-racial",
-  "name": "Steel Skeleton",
-  "system": "Spheres of Power",
-  "types": [
-   "Combat",
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Construct type or subtype.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#steel-skeleton-combat-racial",
-  "summary": "All of your movement speeds are reduced by -5 ft.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/strengthened-arms-general",
-  "name": "Strengthened Arms",
-  "system": "Spheres of Power",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Secondary arms racial trait.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#strengthened-arms-general",
-  "summary": "Your secondary arms are as powerful as regular arms.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/tactile-density-combat-racial",
-  "name": "Tactile Density",
-  "system": "Spheres of Power",
-  "types": [
-   "Combat",
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Draconic subtype, Real Flight.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#tactile-density-combat-racial",
-  "summary": "You no longer suffer any penalties to CMB or CMD while using breezeflight.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/talented-leaper-general-racial",
-  "name": "Talented Leaper",
-  "system": "Spheres of Power",
-  "types": [
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Cherufe subtype.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#talented-leaper-general-racial",
-  "summary": "When calculating how high you can jump with your Acrobatics skill, divide your Acrobatics roll by 2 instead of 4.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/tentacle-adept-combat",
-  "name": "Tentacle Adept",
-  "system": "Spheres of Power",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [],
-  "prerequisites": "Base attack bonus +5 or monk 3, Tentacle Novice, Improved Unarmed Strike.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#tentacle-adept-combat",
-  "summary": "Increase the reach of any attacks you make with your tentacles by +5 feet.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/tentacle-grappler-combat",
-  "name": "Tentacle Grappler",
-  "system": "Spheres of Power",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [],
-  "prerequisites": "Tentacle Master, Tentacle Adept, Tentacle Novice, Improved Unarmed Strike.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#tentacle-grappler-combat",
-  "summary": "Once per round when you successfully attack a target with your tentacles, you may make a grapple combat maneuver against that target as a free action.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/tentacle-master-combat",
-  "name": "Tentacle Master",
-  "system": "Spheres of Power",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [],
-  "prerequisites": "Tentacle Adept, Tentacle Novice, Improved Unarmed Strike.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#tentacle-master-combat",
-  "summary": "You gain a +1 racial bonus to attack rolls and damage rolls made with your tentacles.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/tentacle-novice-combat-style",
-  "name": "Tentacle Novice",
-  "system": "Spheres of Power",
-  "types": [
-   "Combat",
-   "Style"
-  ],
-  "spheres": [],
-  "prerequisites": "Two or more tentacles, base attack bonus +2 or monk 1, Improved Unarmed Strike.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#tentacle-novice-combat-style",
-  "summary": "You gain a +2 racial bonus to CMD to resist grapple checks and gain a +1 racial bonus to CMB when making a grapple or trip check.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/unreasonable-coordination-combat",
-  "name": "Unreasonable Coordination",
-  "system": "Spheres of Power",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [],
-  "prerequisites": "Three or more arms, base attack bonus +6, Dexterity 13, Two-Weapon Fighting.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#unreasonable-coordination-combat",
-  "summary": "When two-weapon fighting, you may treat an additional hand as an off-hand, allowing you to make an additional off-hand attack with that hand whenever you make…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/vegetalker-general-racial",
-  "name": "Vegetalker",
-  "system": "Spheres of Power",
-  "types": [
-   "General",
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Plant type or subtype.",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#vegetalker-general-racial",
-  "summary": "You may speak with plants, as if constantly under the effects of a speak with plants spell or the Speak with Plants Nature talent, with a caster level equal to…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/vined-limbs-combat-racial",
-  "name": "Vined Limbs",
-  "system": "Spheres of Power",
-  "types": [
-   "Combat",
-   "Racial"
-  ],
-  "spheres": [],
-  "prerequisites": "Draide alraun",
-  "source": "The Player's Guide to Skybourne",
-  "url": "Other-Pages/Skybourne-Feats#vined-limbs-combat-racial",
-  "summary": "Your reach when making melee touch attacks is increased by +5 feet.",
-  "file": "feats.json"
- },
- {
   "id": "feat/tactical-hypothesis-champion",
   "name": "Tactical Hypothesis",
   "system": "Spheres of Guile",
@@ -10690,7 +9868,7 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/combat-feats/calculated-shot-combat",
+  "id": "feat/calculated-shot-combat",
   "name": "Calculated Shot",
   "system": "Spheres of Power",
   "types": [
@@ -10718,6 +9896,20 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/cherufe-sweep-combat",
+  "name": "Cherufe Sweep",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Tail natural attack, base attack bonus +6.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#cherufe-sweep-combat",
+  "summary": "When using your tail to make an attack of opportunity, you may make a free trip combat maneuver that does not provoke attacks of opportunity against a target…",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/counterspelling-strike-combat-counterspell",
   "name": "Counterspelling Strike",
   "system": "Spheres of Power",
@@ -10727,7 +9919,7 @@
   ],
   "spheres": [],
   "prerequisites": "Counterspell, casting class feature, magic skill bonus +5.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#counterspelling-strike-combat-counterspell",
   "summary": "Whenever you strike a target with a weapon attack, you may spend a spell point as an immediate action to attempt to dispel an existing magical effect on the…",
   "file": "feats.json"
@@ -10741,7 +9933,7 @@
   ],
   "spheres": [],
   "prerequisites": "",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#desensitized-combat",
   "summary": "Whenever you would take strain damage, that strain damage is reduced by 1 for every lesser severance you possess and by 3 for every greater severance you…",
   "file": "feats.json"
@@ -10755,7 +9947,7 @@
   ],
   "spheres": [],
   "prerequisites": "",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#dodging-rally-combat",
   "summary": "Whenever you are rallied, you receive a +4 dodge bonus to AC until the end of your next turn.",
   "file": "feats.json"
@@ -10771,9 +9963,23 @@
    "Destruction"
   ],
   "prerequisites": "Destruction sphere (Energy Sphere (blast shape)).",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#energy-snake-combat",
   "summary": "When using the Energy Sphere blast shape, you may spend 2 spell points instead of 1 to form the energy sphere into a serpent, which grows with every target it…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/flexible-tail-combat",
+  "name": "Flexible Tail",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Tail natural attack, base attack bonus +6.",
+  "source": "The Player's Guide to Skybourne",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#flexible-tail-combat",
+  "summary": "You may use your tail as a normal natural attack, and are no longer limited to only using it to make attacks of opportunity.",
   "file": "feats.json"
  },
  {
@@ -10785,7 +9991,7 @@
   ],
   "spheres": [],
   "prerequisites": "Combat Stamina.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#gritting-teeth-combat",
   "summary": "You can prepare yourself for harm if you have advance warning.",
   "file": "feats.json"
@@ -10799,7 +10005,7 @@
   ],
   "spheres": [],
   "prerequisites": "",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#hardened-psyche-combat",
   "summary": "You may add your Constitution score to your strain score and use your Constitution modifier to determine your strain threshold.",
   "file": "feats.json"
@@ -10813,7 +10019,7 @@
   ],
   "spheres": [],
   "prerequisites": "Casting class feature, caster level 1st.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#imbued-strike-combat",
   "summary": "As a swift action, you can imbue your weapons with a fraction of your power.",
   "file": "feats.json"
@@ -10829,7 +10035,7 @@
    "Destruction"
   ],
   "prerequisites": "Destruction sphere (Chain Blast (blast shape)).",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#improved-chain-blast-combat",
   "summary": "The number of targets you may select with Chain Blast improves to 1 + your caster level (minimum 3).",
   "file": "feats.json"
@@ -10843,7 +10049,7 @@
   ],
   "spheres": [],
   "prerequisites": "Casting class feature; any talent with the strike descriptor.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#improved-spell-combat-combat",
   "summary": "When activating a magic sphere talent with the strike descriptor, you may spend a spell point to instead use the sphere effect in conjunction with making a…",
   "file": "feats.json"
@@ -10859,7 +10065,7 @@
    "Protection"
   ],
   "prerequisites": "Protection sphere, base attack bonus +1.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#martial-aegis-combat",
   "summary": "When you create an aegis on yourself, you may use your base attack bonus as your caster level for the purpose of effect (but not duration).",
   "file": "feats.json"
@@ -10873,7 +10079,7 @@
   ],
   "spheres": [],
   "prerequisites": "Combat Stamina, base attack bonus +1.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#martial-presence-combat",
   "summary": "Choose a basic totem from the War sphere (including totem of war).",
   "file": "feats.json"
@@ -10887,7 +10093,7 @@
   ],
   "spheres": [],
   "prerequisites": "Combat Stamina or a grit pool, ki pool, luck pool, or panache class feature; base attack bonus +1.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#martial-reflexes-combat",
   "summary": "Choose a basic (rally) talent.",
   "file": "feats.json"
@@ -10903,7 +10109,7 @@
    "War"
   ],
   "prerequisites": "War sphere, base attack bonus +1.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#martial-totem-combat",
   "summary": "When you create a totem, you may use your base attack bonus as your War caster level for purposes of effect (but not size or duration).",
   "file": "feats.json"
@@ -10917,7 +10123,7 @@
   ],
   "spheres": [],
   "prerequisites": "Combat Casting.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#melee-caster-combat",
   "summary": "When using a magic sphere effect as (or as part of) a melee attack or melee touch attack, the casting does not provoke an attack of opportunity.",
   "file": "feats.json"
@@ -10933,7 +10139,7 @@
    "Mind"
   ],
   "prerequisites": "Mind sphere, caster level 5th.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#mind-over-matter-combat",
   "summary": "When you take hit point damage and are not flat-footed against the damage’s source, you may choose to spend spell points as a free action (even when it is not…",
   "file": "feats.json"
@@ -10947,7 +10153,7 @@
   ],
   "spheres": [],
   "prerequisites": "Casting class feature, base attack bonus +6.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#mystic-assault-combat",
   "summary": "When making a full attack, you may spend a spell point to replace the first attack with any sphere ability or supernatural ability that can be used as a…",
   "file": "feats.json"
@@ -10961,7 +10167,7 @@
   ],
   "spheres": [],
   "prerequisites": "Mystic Assault.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#mystic-assault-improved-combat",
   "summary": "You do not need to spend a spell point to use mystic assault.",
   "file": "feats.json"
@@ -10977,7 +10183,7 @@
    "Destruction"
   ],
   "prerequisites": "Destruction sphere (Energy Sphere (blast shape)).",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#perpetual-sphere-combat",
   "summary": "Whenever you successfully deal damage to a target with your energy sphere, increase its duration by 1 round.",
   "file": "feats.json"
@@ -10991,7 +10197,7 @@
   ],
   "spheres": [],
   "prerequisites": "Wis 13, base attack bonus +2.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#pierce-the-veil-combat",
   "summary": "When attacking a target with a miss chance granted from a spell, sphere effect, supernatural or spell-like ability, you may take a penalty to your attack roll…",
   "file": "feats.json"
@@ -11007,7 +10213,7 @@
    "Warp"
   ],
   "prerequisites": "Warp sphere (Mass Teleport [mass], Portal (advanced), Wormhole (space)), caster level 5th.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#portal-combat-combat",
   "summary": "You can use portals you create in a variety of offensive and defensive ways depending on what other abilities you have.",
   "file": "feats.json"
@@ -11023,7 +10229,7 @@
    "Mind"
   ],
   "prerequisites": "Mind sphere, Improved Unarmed Strike.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#pressure-point-proficiency-combat",
   "summary": "By studying precisely where and how to strike your enemies, you can interrupt the biological processes that contribute to mental stability.",
   "file": "feats.json"
@@ -11039,7 +10245,7 @@
    "Mind"
   ],
   "prerequisites": "Mind sphere, Improved Unarmed Strike, Pressure Point Proficiency, character level 5th.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#pressure-point-pugilist-combat",
   "summary": "The penalty from Pressure Point Proficiency increases to -2 if you successfully hit the target a second time in the same round.",
   "file": "feats.json"
@@ -11055,7 +10261,7 @@
    "Destruction"
   ],
   "prerequisites": "Destruction sphere, destructive blade class feature.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#reach-blade-combat",
   "summary": "Your destructive blade may be shaped with the reach property.",
   "file": "feats.json"
@@ -11069,9 +10275,23 @@
   ],
   "spheres": [],
   "prerequisites": "Combat Expertise.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#resolute-expertise-combat",
   "summary": "Whenever you are benefiting from a dodge bonus to AC from Combat Expertise, you also gain a +1 competence bonus to saving throws.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/siege-engineer-combat",
+  "name": "Siege Engineer",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Proficiency with at least 1 siege engine.",
+  "source": "The Player's Guide to Skybourne",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#siege-engineer-combat",
+  "summary": "You are considered proficient with all siege engines, and no longer suffer a chance of misfire when rolling a 1 with a siege engine.",
   "file": "feats.json"
  },
  {
@@ -11085,7 +10305,7 @@
    "Death"
   ],
   "prerequisites": "Death sphere, charmed life class feature.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#skeletal-contortionist-combat",
   "summary": "You can expend a daily use of charmed life as an immediate action to gain one of the following benefits:",
   "file": "feats.json"
@@ -11099,7 +10319,7 @@
   ],
   "spheres": [],
   "prerequisites": "Transformation, customized weapons class feature.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#shifting-style-combat",
   "summary": "You may assign each form you can take (including your base form) to a specific customized weapon you possess.",
   "file": "feats.json"
@@ -11116,7 +10336,7 @@
    "Guardian"
   ],
   "prerequisites": "Guardian sphere (Cold Iron Call, Defend Other), Counterspell, Counterspell Mastery, magic skill bonus +7.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#spell-absorption-combat-counterspell",
   "summary": "When counterspelling an effect that would affect you and only you, you may roll twice and take the higher result on the magic skill check to counterspell.",
   "file": "feats.json"
@@ -11132,7 +10352,7 @@
    "Light"
   ],
   "prerequisites": "Light sphere; Arcane Strike or Imbued Strike.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#sunlight-strike-combat",
   "summary": "Whenever you successfully hit an enemy that is vulnerable to light (such as by the light blindness, light sensitivity, or sunlight powerlessness universal…",
   "file": "feats.json"
@@ -11146,7 +10366,7 @@
   ],
   "spheres": [],
   "prerequisites": "Coordination class feature, psionics class feature.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#swarming-strike-combat",
   "summary": "When using the coordination class feature, you may receive the bonus to damage from a number of allies equal to your casting ability modifier.",
   "file": "feats.json"
@@ -11162,7 +10382,7 @@
    "Time"
   ],
   "prerequisites": "Time sphere.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#swift-warrior-combat",
   "summary": "When targeting yourself and only yourself with an alter time effect, you gain a +1 bonus to your caster level, increasing by +1 at 5 Hit Dice and every 4 Hit…",
   "file": "feats.json"
@@ -11176,7 +10396,7 @@
   ],
   "spheres": [],
   "prerequisites": "",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#tactical-aid-combat",
   "summary": "Whenever you use the aid another action, you may choose to increase the target’s base attack bonus by 2 for the duration of the aid another action rather than…",
   "file": "feats.json"
@@ -11190,9 +10410,66 @@
   ],
   "spheres": [],
   "prerequisites": "",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#technique-crafting-combat",
   "summary": "You gain the ability to create techniques, as per the technique rules.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/tentacle-adept-combat",
+  "name": "Tentacle Adept",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Base attack bonus +5 or monk 3, Tentacle Novice, Improved Unarmed Strike.",
+  "source": "The Player's Guide to Skybourne",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#tentacle-adept-combat",
+  "summary": "Increase the reach of any attacks you make with your tentacles by +5 feet.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/tentacle-grappler-combat",
+  "name": "Tentacle Grappler",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Tentacle Master, Tentacle Adept, Tentacle Novice, Improved Unarmed Strike.",
+  "source": "The Player's Guide to Skybourne",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#tentacle-grappler-combat",
+  "summary": "Once per round when you successfully attack a target with your tentacles, you may make a grapple combat maneuver against that target as a free action.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/tentacle-master-combat",
+  "name": "Tentacle Master",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Tentacle Adept, Tentacle Novice, Improved Unarmed Strike.",
+  "source": "The Player's Guide to Skybourne",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#tentacle-master-combat",
+  "summary": "You gain a +1 racial bonus to attack rolls and damage rolls made with your tentacles.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/tentacle-novice-combat-style",
+  "name": "Tentacle Novice",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat",
+   "Style"
+  ],
+  "spheres": [],
+  "prerequisites": "Two or more tentacles, base attack bonus +2 or monk 1, Improved Unarmed Strike.",
+  "source": "The Player's Guide to Skybourne",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#tentacle-novice-combat-style",
+  "summary": "You gain a +2 racial bonus to CMD to resist grapple checks and gain a +1 racial bonus to CMB when making a grapple or trip check.",
   "file": "feats.json"
  },
  {
@@ -11206,7 +10483,7 @@
    "War"
   ],
   "prerequisites": "War sphere.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#totem-tactics-combat",
   "summary": "Allies inside any of your totems or sharing a mandate with you are treated as if they possessed the same teamwork feats as you for the purpose of determining…",
   "file": "feats.json"
@@ -11222,7 +10499,7 @@
    "War"
   ],
   "prerequisites": "War sphere, Combat Stamina.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#totemic-stamina-combat",
   "summary": "When you create a totem or mandate, you may spend a stamina point each round to maintain it as a free action.",
   "file": "feats.json"
@@ -11236,7 +10513,7 @@
   ],
   "spheres": [],
   "prerequisites": "Str 15, Power Attack, base attack bonus +3.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#two-handed-fighting-combat",
   "summary": "When wielding a non-light manufactured weapon in two hands, increase your Strength bonus on damage rolls by an additional 1/2-times your Strength bonus…",
   "file": "feats.json"
@@ -11250,7 +10527,7 @@
   ],
   "spheres": [],
   "prerequisites": "Str 17, Power Attack, Two-Handed Fighting, base attack bonus +6.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#two-handed-fighting-improved-combat",
   "summary": "When using the Two-Handed Fighting feat, increase your Strength bonus on damage rolls by an additional 1/2-times your Strength bonus on your first attack made…",
   "file": "feats.json"
@@ -11264,7 +10541,7 @@
   ],
   "spheres": [],
   "prerequisites": "Str 19, Power Attack, Two-Handed Fighting, Improved Two-Handed Fighting, base attack bonus +11.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#two-handed-fighting-greater-combat",
   "summary": "When using the Two-Handed Fighting feat, increase your Strength bonus on damage rolls by an additional 1/2-times your Strength bonus on your first attack made…",
   "file": "feats.json"
@@ -11278,9 +10555,23 @@
   ],
   "spheres": [],
   "prerequisites": "Str 23, Power Attack, Two-Handed Fighting, Improved Two-Handed Fighting, Greater Two-Handed Fighting, base attack bonus +21.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#two-handed-fighting-perfect-combat",
   "summary": "When using the Two-Handed Fighting feat, increase your Strength bonus on damage rolls by an additional 1-times your Strength bonus on your first attack made…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/unreasonable-coordination-combat",
+  "name": "Unreasonable Coordination",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Three or more arms, base attack bonus +6, Dexterity 13, Two-Weapon Fighting.",
+  "source": "The Player's Guide to Skybourne",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#unreasonable-coordination-combat",
+  "summary": "When two-weapon fighting, you may treat an additional hand as an off-hand, allowing you to make an additional off-hand attack with that hand whenever you make…",
   "file": "feats.json"
  },
  {
@@ -11292,7 +10583,7 @@
   ],
   "spheres": [],
   "prerequisites": "Casting class feature.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#warded-step-combat",
   "summary": "Your sphere effects that cover an area (including darknesses, totems, and wards) are especially easy for you to move through.",
   "file": "feats.json"
@@ -11306,7 +10597,7 @@
   ],
   "spheres": [],
   "prerequisites": "Base attack bonus +3; ability to cast 2nd-level spells, manifest 2nd-level powers, or spherecaster level 3rd.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#warrior-disciple-combat",
   "summary": "At every level that a prestige class advances spellcasting, manifesting, or spherecasting from one of your classes, you may choose to have it also advance as…",
   "file": "feats.json"
@@ -11322,7 +10613,7 @@
    "Illusion"
   ],
   "prerequisites": "Illusion sphere (Decoy (glamer), Mage Feint), base attack bonus +3.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#weird-assault-combat",
   "summary": "You may suppress two decoys surrounding you until the start of your next turn to use the Mage Feint talent as a swift action.",
   "file": "feats.json"
@@ -11338,7 +10629,7 @@
    "Illusion"
   ],
   "prerequisites": "Illusion sphere (Blur (glamer), Decoy (glamer)).",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#weird-defense-combat",
   "summary": "As a swift action, you may grant yourself a miss chance equal to 10% + 5% per 2 caster levels (maximum 95%) until the start of your next turn or until an…",
   "file": "feats.json"
@@ -11354,7 +10645,7 @@
    "Illusion"
   ],
   "prerequisites": "Illusion sphere (Mage Feint), base attack bonus +3.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#weird-motion-combat",
   "summary": "Add your casting ability modifier as a circumstance bonus to AC against attacks of opportunity incurred when charging or making ranged attacks.",
   "file": "feats.json"
@@ -12851,6 +12142,20 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/commanding-presence-general",
+  "name": "Commanding Presence",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "3rd level.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Feats/General-Feats#commanding-presence-general",
+  "summary": "A creature with this feat can command two crews at once rather than just one.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/complex-harmony",
   "name": "Complex Harmony",
   "system": "Spheres of Power",
@@ -12859,7 +12164,7 @@
   ],
   "spheres": [],
   "prerequisites": "Bardic performance class feature, character level 10th.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#complex-harmony",
   "summary": "You may start a second bardic performance while maintaining another.",
   "file": "feats.json"
@@ -12873,7 +12178,7 @@
   ],
   "spheres": [],
   "prerequisites": "Casting class feature, caster level 10th.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#contingency",
   "summary": "You may spend a spell point and ten minutes of preparation to use a sphere effect in such a way that it comes into effect under some later condition you have…",
   "file": "feats.json"
@@ -12889,7 +12194,7 @@
    "Enhancement"
   ],
   "prerequisites": "Enhancement sphere, Contingency.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#contingency-enhanced",
   "summary": "You may enhance a contingency effect.",
   "file": "feats.json"
@@ -12903,7 +12208,7 @@
   ],
   "spheres": [],
   "prerequisites": "Contingency, any [mass] talent",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#contingency-spread",
   "summary": "When you use the Contingency feat to create an effect to which you could apply a [mass] talent, you may spend 3 additional spell points to apply the…",
   "file": "feats.json"
@@ -12917,7 +12222,7 @@
   ],
   "spheres": [],
   "prerequisites": "Enhanced Contingency (see [[Enhancement]] feats).",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#contingency-tampering",
   "summary": "You gain the following enhancements, which may be used to enhance sphere abilities augmented by Contingency.",
   "file": "feats.json"
@@ -12931,7 +12236,7 @@
   ],
   "spheres": [],
   "prerequisites": "Deceitful, caster level 1st.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#cunning-caster",
   "summary": "When creating a magical sphere effect, you can attempt a Bluff check (opposed by observers’ Perception checks) to conceal your actions from onlookers.",
   "file": "feats.json"
@@ -12945,7 +12250,7 @@
   ],
   "spheres": [],
   "prerequisites": "Casting class feature.",
-  "source": "Ultimate Spheres of Power",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#defiant-magic",
   "summary": "You add +2 to your MSB and MSD for the purposes of conflicting sphere abilities.",
   "file": "feats.json"
@@ -12976,6 +12281,20 @@
   "source": "Polished Dark",
   "url": "Spheres-Of-Power/Feats/General-Feats#embraced-by-kindred",
   "summary": "You lose the native subtype, no longer aging or requiring food but becoming incapable of being resurrected by normal means.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/emergency-repair-general",
+  "name": "Emergency Repair",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Technological racial trait.",
+  "source": "Polished Dark",
+  "url": "Spheres-Of-Power/Feats/General-Feats#emergency-repair-general",
+  "summary": "As a full-round action, you may quickly jury-rig a repair on a destroyed object, elevating it to functional with the broken condition for 1d6 minutes.",
   "file": "feats.json"
  },
  {
@@ -13219,6 +12538,20 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/jumbled-organs-general",
+  "name": "Jumbled Organs",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Construct type or subtype.",
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "url": "Spheres-Of-Power/Feats/General-Feats#jumbled-organs-general",
+  "summary": "Your natural fortification improves by 10%.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/lurker-in-darkness",
   "name": "Lurker In Darkness",
   "system": "Spheres of Power",
@@ -13227,7 +12560,7 @@
   ],
   "spheres": [],
   "prerequisites": "Stealth 6 ranks.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#lurker-in-darkness",
   "summary": "Creatures using unusual forms of sensory perception such as blindsight, greensight, or tremorsense cannot automatically foil your use of Stealth; such…",
   "file": "feats.json"
@@ -13243,9 +12576,23 @@
    "Nature"
   ],
   "prerequisites": "Nature sphere ((plant) package), Plant Mastery.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#mage-of-spore-and-fungus",
   "summary": "You can use fungi and dead plant life instead of the normal requirements for your plant package abilities.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/master-engineer-general",
+  "name": "Master Engineer",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Profession (engineer) 5 ranks.",
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "url": "Spheres-Of-Power/Feats/General-Feats#master-engineer-general",
+  "summary": "When you serve as a ship’s engineer for at least 1 week, you can coax greater feats than normal from that ship’s engine.",
   "file": "feats.json"
  },
  {
@@ -13257,7 +12604,7 @@
   ],
   "spheres": [],
   "prerequisites": "Favored Metamagic (any three metamagic feats), caster level 15th.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#metamagic-aficionado",
   "summary": "The benefits of Favored Metamagic apply to all metamagic feats you possess, not just those specific metamagic feats you have chosen with Favored Metamagic.",
   "file": "feats.json"
@@ -13271,7 +12618,7 @@
   ],
   "spheres": [],
   "prerequisites": "Dreamspace, caster level 10th.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#oneiric-assault",
   "summary": "When you are in the dreamscape of another creature, you may target that creature’s real body with a single magic sphere effect as if you were adjacent to the…",
   "file": "feats.json"
@@ -13285,7 +12632,7 @@
   ],
   "spheres": [],
   "prerequisites": "Knowledge (any) 3 ranks; membership in an organization.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#organization-obedience",
   "summary": "Select a single organization you are a member of.",
   "file": "feats.json"
@@ -13299,7 +12646,7 @@
   ],
   "spheres": [],
   "prerequisites": "",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#otherworldly-mind",
   "summary": "Due to some quirk of your consciousness or oddity in your background, your heart and mind are like that of another realm entirely.",
   "file": "feats.json"
@@ -13313,7 +12660,7 @@
   ],
   "spheres": [],
   "prerequisites": "Casting class feature, one talent from any sphere that has the strike descriptor, caster level 3rd",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#pacified-strike",
   "summary": "When utilizing a sphere effect using a talent with the [strike] descriptor, you may choose to not deal any damage with the attack (including both the sphere…",
   "file": "feats.json"
@@ -13327,7 +12674,7 @@
   ],
   "spheres": [],
   "prerequisites": "Banner class feature.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#primal-emblem",
   "summary": "Choose a totem from the War sphere that does not require spell points to be spent when it is created.",
   "file": "feats.json"
@@ -13341,7 +12688,7 @@
   ],
   "spheres": [],
   "prerequisites": "Sphere Virtuoso, must have taken at least one range talent at least twice.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#range-virtuoso",
   "summary": "You count as possessing a number of all range talents equal to the number of instances you have selected a single range talent",
   "file": "feats.json"
@@ -13355,7 +12702,7 @@
   ],
   "spheres": [],
   "prerequisites": "Knowledge (planes) 3 ranks, Survival 3 ranks.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#realmwalker-adept",
   "summary": "You always know what plane you are currently on as though you succeeded on a DC 15 Knowledge (planes) check to recognize the current plane.",
   "file": "feats.json"
@@ -13369,7 +12716,7 @@
   ],
   "spheres": [],
   "prerequisites": "Knowledge (planes) 7 ranks, Survival 7 ranks, Realmwalker Adept.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#realmwalker-master",
   "summary": "You may select your favored plane with the Realmwalker Adept feat as a free or immediate action (rather than taking 1 hour).",
   "file": "feats.json"
@@ -13383,9 +12730,37 @@
   ],
   "spheres": [],
   "prerequisites": "Casting class feature",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#resist-expulsion",
   "summary": "Whenever one of your subordinates would be banished or dispelled, you may spend a spell point as a free action (even outside of your turn) to allow the…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/ritual-expert-general",
+  "name": "Ritual Expert",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Caster level 1.",
+  "source": "The Player's Guide to Skybourne",
+  "url": "Spheres-Of-Power/Feats/General-Feats#ritual-expert-general",
+  "summary": "You may use any ritual under your magic type (arcane, divine, psychic), not only those tied to your specific tradition.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/ritual-master-general",
+  "name": "Ritual Master",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Caster level 1, spherecaster (Spheres of Power).",
+  "source": "The Player's Guide to Skybourne",
+  "url": "Spheres-Of-Power/Feats/General-Feats#ritual-master-general",
+  "summary": "You may use your MSB in place of your caster level when using rituals.",
   "file": "feats.json"
  },
  {
@@ -13397,7 +12772,7 @@
   ],
   "spheres": [],
   "prerequisites": "3 ranks in any 2 skills.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#ritualistic-perseverance",
   "summary": "Choose two skills that you have at least 3 ranks in.",
   "file": "feats.json"
@@ -13411,7 +12786,7 @@
   ],
   "spheres": [],
   "prerequisites": "",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#robustness",
   "summary": "Whenever you are the target of a sphere ability or supernatural ability that allows you to regain hit points that does not grant fast healing, you heal…",
   "file": "feats.json"
@@ -13425,7 +12800,7 @@
   ],
   "spheres": [],
   "prerequisites": "Ki pool class feature, rage class feature.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#roiling-anger",
   "summary": "Whenever you spend one or more ki points while raging, you may extend the duration of any rage-like effect you are under by 1 round (such as the rage spell or…",
   "file": "feats.json"
@@ -13439,7 +12814,7 @@
   ],
   "spheres": [],
   "prerequisites": "",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#shared-magic",
   "summary": "When you use a sphere ability that has an ongoing effect, you may spend a free action to designate an ally within close range as the owner of the ability.",
   "file": "feats.json"
@@ -13453,7 +12828,7 @@
   ],
   "spheres": [],
   "prerequisites": "Grit, luck pool or panache class feature.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#shoulder-to-shoulder",
   "summary": "When you gain this feat, choose a mandate from the War sphere.",
   "file": "feats.json"
@@ -13467,7 +12842,7 @@
   ],
   "spheres": [],
   "prerequisites": "5 ranks in any 1 skill.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#solitary-incantation",
   "summary": "You may perform an incantation in which you are the primary caster that does not have the requisite number of secondary casters.",
   "file": "feats.json"
@@ -13481,7 +12856,7 @@
   ],
   "spheres": [],
   "prerequisites": "Caster level 5th.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#soulfire",
   "summary": "You may accept 2 or more points of Constitution burn as a free action.",
   "file": "feats.json"
@@ -13498,9 +12873,37 @@
    "Warp"
   ],
   "prerequisites": "Conjuration Sphere, Warp Sphere (Teleport Beacon)",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#special-transport",
   "summary": "Creatures that are your teleport beacons are considered to be conjuration companions for the purpose of the Link, Otherworldly Audience, Spell Conduit, and…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/spell-adept-general",
+  "name": "Spell Adept",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Spell Dabbler, spherecaster (Spheres of Power).",
+  "source": "The Player's Guide to Skybourne",
+  "url": "Spheres-Of-Power/Feats/General-Feats#spell-adept-general",
+  "summary": "When using your Spell Dabbler feat, you may increase the preparation time to 1 hour to prepare as many rituals as you desire, spending spell points for each…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/spell-dabbler-general",
+  "name": "Spell Dabbler",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Spherecaster (Spheres of Power).",
+  "source": "The Player's Guide to Skybourne",
+  "url": "Spheres-Of-Power/Feats/General-Feats#spell-dabbler-general",
+  "summary": "You may choose one ritual per day you may use up to the highest level you may cast.",
   "file": "feats.json"
  },
  {
@@ -13512,9 +12915,23 @@
   ],
   "spheres": [],
   "prerequisites": "Casting class feature; two or more talents from any sphere that both have the instill, mass, range or strike descriptors.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#sphere-virtuoso",
   "summary": "If you possess two talents from separate spheres that both possess the instill, mass, range, or strike descriptors, you count as possessing all talents of that…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/strengthened-arms-general",
+  "name": "Strengthened Arms",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Secondary arms racial trait.",
+  "source": "The Player's Guide to Skybourne",
+  "url": "Spheres-Of-Power/Feats/General-Feats#strengthened-arms-general",
+  "summary": "Your secondary arms are as powerful as regular arms.",
   "file": "feats.json"
  },
  {
@@ -13526,7 +12943,7 @@
   ],
   "spheres": [],
   "prerequisites": "Any item creation feat, character level 5th.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#superior-salvage",
   "summary": "When salvaging a magic item (see Pathfinder Roleplaying Game: Ultimate Wilderness), you may increase the salvage DC by 5 to yield raw material worth the…",
   "file": "feats.json"
@@ -13540,7 +12957,7 @@
   ],
   "spheres": [],
   "prerequisites": "",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#sudden-recall",
   "summary": "You may spend a spell point as an immediate action to dismiss any magic effect which you could normally dismiss as a standard action.",
   "file": "feats.json"
@@ -13554,7 +12971,7 @@
   ],
   "spheres": [],
   "prerequisites": "Judgment class ability.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#tenacity",
   "summary": "Whenever you activate a judgment, if you have not previously activated that judgment today, you gain temporary hit points equal to your Hit Dice + your casting…",
   "file": "feats.json"
@@ -13568,7 +12985,7 @@
   ],
   "spheres": [],
   "prerequisites": "Fleeting Spell.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#termination-clause",
   "summary": "When you create a magic sphere effect with the Fleeting Spell feat, you may set a condition in the same manner as the Contingency feat.",
   "file": "feats.json"
@@ -13582,7 +12999,7 @@
   ],
   "spheres": [],
   "prerequisites": "Grit, luck, or panache pool.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#tough-as-nails",
   "summary": "When you spend a point of your grit, luck, or panache, you gain temporary hit points equal to your character level.",
   "file": "feats.json"
@@ -13596,7 +13013,7 @@
   ],
   "spheres": [],
   "prerequisites": "",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#transformation",
   "summary": "Choose one (transformation) Alteration sphere talent that does not cost a spell point.",
   "file": "feats.json"
@@ -13610,7 +13027,7 @@
   ],
   "spheres": [],
   "prerequisites": "",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#transformation-eternal",
   "summary": "This functions as the Transformation feat, save that you may not return to your original form and must always remain in a form selected with the Transformation…",
   "file": "feats.json"
@@ -13624,7 +13041,7 @@
   ],
   "spheres": [],
   "prerequisites": "Transformation.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#transformation-hybrid",
   "summary": "When changing into a form granted by the Transformation feat, you may instead assume a hybrid form, blending your base form and your transformation form.",
   "file": "feats.json"
@@ -13638,7 +13055,7 @@
   ],
   "spheres": [],
   "prerequisites": "Transformation, character level 5th.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#transformation-improved",
   "summary": "Choose one trait for every 5 character levels you possess (minimum 1) from the Blank Transformation ability of the Alteration sphere, from the talent chosen…",
   "file": "feats.json"
@@ -13652,7 +13069,7 @@
   ],
   "spheres": [],
   "prerequisites": "Heal 1 rank; casting class feature or ki pool class feature",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#triage",
   "summary": "You may spend a spell point or ki point to treat deadly wounds on a creature as a full-round action as per the Heal skill.",
   "file": "feats.json"
@@ -13666,7 +13083,7 @@
   ],
   "spheres": [],
   "prerequisites": "Perception 5 ranks and Sense Motive 5 ranks; or Alertness.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#vigilant-skeptic",
   "summary": "You are automatically treated as interacting with any figments you come within 5 feet of, increasing by an additional 5 feet per 2 ranks you have in Perception.",
   "file": "feats.json"
@@ -13680,7 +13097,7 @@
   ],
   "spheres": [],
   "prerequisites": "Fervor or lay on hands class feature.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#vital-magic",
   "summary": "You may spend 1 spell point as a free action to regain 1 use of your fervor or lay on hands ability.",
   "file": "feats.json"
@@ -13694,7 +13111,7 @@
   ],
   "spheres": [],
   "prerequisites": "Craft Spell Engine, caster level 4th.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#wand-charger",
   "summary": "When recharging a spell engine, you may spend a number of spell points not exceeding half your caster level, restoring an equal number of spell points to the…",
   "file": "feats.json"
@@ -13708,7 +13125,7 @@
   ],
   "spheres": [],
   "prerequisites": "Caster level 10th.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#wand-wielder",
   "summary": "When wielding a spell engine, use your caster level in place of the spell engine’s caster level (if it is higher) when calculating its abilities.",
   "file": "feats.json"
@@ -13722,7 +13139,7 @@
   ],
   "spheres": [],
   "prerequisites": "",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#wind-dancer",
   "summary": "Whenever you drive an air vehicle you treat the Wind severity level either one step higher or one step lower (to a minimum of 0 and a maximum of 7), whichever…",
   "file": "feats.json"
@@ -15680,6 +15097,36 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/abundant-adrenaline-combat-racial-construct",
+  "name": "Abundant Adrenaline",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat",
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Construct type or subtype, character level 3rd.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#abundant-adrenaline-combat-racial-construct",
+  "summary": "Once per hour, you can take an extra swift action for two turns, but for the next three turns afterward you receive no swift actions.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/airborne-aethermancer-combat-racial-draconic",
+  "name": "Airborne Aethermancer",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat",
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Draconic subtype, breezeflight, character level 3rd.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#airborne-aethermancer-combat-racial-draconic",
+  "summary": "When using breezeflight and casting a spell or using a sphere ability that deals acid or lightning damage, your caster level increases by 1.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/alraun-nose-racial-plant",
   "name": "Alraun Nose",
   "system": "Spheres of Power",
@@ -15691,6 +15138,382 @@
   "source": "",
   "url": "Spheres-Of-Power/Feats/Racial-Feats#alraun-nose-racial-plant",
   "summary": "You gain the scent ability.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/armored-flight-combat-racial-fenghuang",
+  "name": "Armored Flight",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat",
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Fenghaung subtype, fly speed.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#armored-flight-combat-racial-fenghuang",
+  "summary": "You can now fly in medium or heavy armor, or while encumbered.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/cauldron-of-venom-combat-racial-alraun",
+  "name": "Cauldron of Venom",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat",
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Poison Spitter, poison eater alraun, character level 7th.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#cauldron-of-venom-combat-racial-alraun",
+  "summary": "You can change your poison’s type (from injury to contact, ingested, or inhaled) by expending twice as many of your daily uses as normal.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/cecaelia-burst-racial-cecaelia",
+  "name": "Cecaelia Burst",
+  "system": "Spheres of Power",
+  "types": [
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Cecaelia subtype, character level 3rd.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#cecaelia-burst-racial-cecaelia",
+  "summary": "You are able to swim 150 ft backward as a full-round action, as the jet universal monster ability.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/cherufe-chomp-combat-racial-cherufe",
+  "name": "Cherufe Chomp",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat",
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Cherufe (zavr subtype), base attack bonus +9.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#cherufe-chomp-combat-racial-cherufe",
+  "summary": "You may make a free grapple combat maneuver check that does not provoke attacks of opportunity when you hit with your bite attack.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/climbing-claws-racial-tatulani",
+  "name": "Climbing Claws",
+  "system": "Spheres of Power",
+  "types": [
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Tatulani subtype, secondary arms racial trait, claws racial trait.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#climbing-claws-racial-tatulani",
+  "summary": "You gain a +2 racial bonus to Climb checks per free hand.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/cuazaj-breath-combat-racial-cuazaj",
+  "name": "Cuazaj Breath",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat",
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Draconic subtype, cuazaj lightning racial trait.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#cuazaj-breath-combat-racial-cuazaj",
+  "summary": "Your cuazaj lightning breath weapon improves, dealing 1d6 damage per 2 character levels.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/cuazaj-breath-expanded-combat-racial-cuazaj",
+  "name": "Cuazaj Breath, Expanded",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat",
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Draconic subtype, cuazaj lightning racial trait, Cuazaj Breath.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#cuazaj-breath-expanded-combat-racial-cuazaj",
+  "summary": "Your cuazaj lightning breath weapon double in size, affecting a 30-ft cone.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/cuazaj-breath-greater-combat-racial-cuazaj",
+  "name": "Cuazaj Breath, Greater",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat",
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Draconic subtype, cuazaj lightning racial trait, Cuazaj Breath.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#cuazaj-breath-greater-combat-racial-cuazaj",
+  "summary": "You may use your cuazaj lightning breath weapon once every 1d4 rounds.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/elemental-heart-racial-fenghuang",
+  "name": "Elemental Heart",
+  "system": "Spheres of Power",
+  "types": [
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Fenghaung subtype, energy resistance.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#elemental-heart-racial-fenghuang",
+  "summary": "Increase the energy resistance given by your elemental nature by an amount equal to your character level.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/elemental-rebirth-racial-fenghuang",
+  "name": "Elemental Rebirth",
+  "system": "Spheres of Power",
+  "types": [
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Fenghaung subtype, energy resistance, Elemental Heart, character level 12th",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#elemental-rebirth-racial-fenghuang",
+  "summary": "If your body is immersed in the element you have resistance to via the elemental nature racial trait within a day of your death, you are revived as per raise…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/elemental-touch-combat-racial-fenghuang",
+  "name": "Elemental Touch",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat",
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Fenghaung subtype, energy resistance.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#elemental-touch-combat-racial-fenghuang",
+  "summary": "When attacking with a natural or manufactured melee weapon, you deal 1d6 damage of fire or cold damage as appropriate.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/extra-planar-balancer-racial-fey",
+  "name": "Extra Planar Balancer",
+  "system": "Spheres of Power",
+  "types": [
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Fey type or subtype, planar balancer racial trait.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#extra-planar-balancer-racial-fey",
+  "summary": "You may use your planar balancer ability an additional 3 rounds per day.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/extra-venom-racial-alraun",
+  "name": "Extra Venom",
+  "system": "Spheres of Power",
+  "types": [
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Poison eater alraun.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#extra-venom-racial-alraun",
+  "summary": "You may use your venom an additional 2 times per day.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/fey-interference-racial-fey",
+  "name": "Fey Interference",
+  "system": "Spheres of Power",
+  "types": [
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Fey type or subtype.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#fey-interference-racial-fey",
+  "summary": "A number of times per day equal to 1/2 your hit dice, you can spend an immediate action to force a creature within 30 ft.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/feylignment-racial-fey",
+  "name": "Feylignment",
+  "system": "Spheres of Power",
+  "types": [
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Fey type or subtype.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#feylignment-racial-fey",
+  "summary": "By spending an immediate action, you may change your alignment to appear to be within one step of what it truly is for one minute.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/focused-miasma-racial-alraun",
+  "name": "Focused Miasma",
+  "system": "Spheres of Power",
+  "types": [
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Fermon alraun, odor of susceptibility.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#focused-miasma-racial-alraun",
+  "summary": "By spending a standard action to suppress your odor of susceptibility (provoking attacks of opportunity), you can narrow its effects into a miasma that targets…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/forest-roots-racial-plant",
+  "name": "Forest Roots",
+  "system": "Spheres of Power",
+  "types": [
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Plant type or subtype, Vegetalker.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#forest-roots-racial-plant",
+  "summary": "While on a ground with soil such as the forest floor or swamp terrains, you can spend a full-round action that provokes attacks of opportunity to designate a…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/greater-created-racial-construct",
+  "name": "Greater Created",
+  "system": "Spheres of Power",
+  "types": [
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Construct subtype.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#greater-created-racial-construct",
+  "summary": "You receive 1 creation point.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/hardened-shell-combat-racial-tatulani",
+  "name": "Hardened Shell",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat",
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Tatulani subtype.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#hardened-shell-combat-racial-tatulani",
+  "summary": "You gain a +1 natural armor bonus.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/improved-ink-jet-racial-cecaelia",
+  "name": "Improved Ink Jet",
+  "system": "Spheres of Power",
+  "types": [
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Cecaelia subtype, ink jet racial ability.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#improved-ink-jet-racial-cecaelia",
+  "summary": "You may use your ink jet racial ability once per hour rather than once per day.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/linguistic-mastery-racial-tatulani",
+  "name": "Linguistic Mastery",
+  "system": "Spheres of Power",
+  "types": [
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Tatulani subtype.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#linguistic-mastery-racial-tatulani",
+  "summary": "You gain a +2 bonus to Linguistics checks.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/living-accumulator-combat-racial-cuazaj",
+  "name": "Living Accumulator",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat",
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Draconic subtype, Constitution 13+.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#living-accumulator-combat-racial-cuazaj",
+  "summary": "You can naturally charge a cuazite weapon with electricity as a swift action a number of times per day equal to your Constitution modifier.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/mixed-toxicity-combat-racial-alraun",
+  "name": "Mixed Toxicity",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat",
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Poison eater alraun.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#mixed-toxicity-combat-racial-alraun",
+  "summary": "After ingesting a poison other than your own, the DC of your poison is increased by +2 for each 500 gp of its value (minimum +1) the next time you use your…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/planar-strike-combat-racial-fey",
+  "name": "Planar Strike",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat",
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Fey type or subtype, planar balancer racial trait, Arcane Strike, caster level 5th.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#planar-strike-combat-racial-fey",
+  "summary": "When using Arcane Strike, your empowered weapons also gain the ghost touch enhancement for that round.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/planar-swing-racial-fey",
+  "name": "Planar Swing",
+  "system": "Spheres of Power",
+  "types": [
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Fey type or subtype, planar balancer racial trait.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#planar-swing-racial-fey",
+  "summary": "As a swift action, you may expend a round of your planar balancer racial ability to make an Acrobatics check to jump, moving a number of feet equal to your…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/poison-spitter-combat-racial-alraun",
+  "name": "Poison Spitter",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat",
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Poison eater alraun.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#poison-spitter-combat-racial-alraun",
+  "summary": "You can spit your poison as a ranged touch attack with a range increment of 10 feet.",
   "file": "feats.json"
  },
  {
@@ -15708,6 +15531,109 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/practiced-claws-combat-racial-tatulani",
+  "name": "Practiced Claws",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat",
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Tatulani subtype, secondary arms racial trait, Strengthened Arms, base attack bonus +4.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#practiced-claws-combat-racial-tatulani",
+  "summary": "Your secondary arms gain secondary claw attacks that deal 1d4 damage each.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/razor-beak-combat-racial-fenghuang",
+  "name": "Razor Beak",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat",
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Fenghuang subtype.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#razor-beak-combat-racial-fenghuang",
+  "summary": "You gain a bite attack that deals standard damage for your size (1d6 medium, 1d4 small).",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/razor-talons-combat-racial-fenghuang",
+  "name": "Razor Talons",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat",
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Fenghuang subtype.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#razor-talons-combat-racial-fenghuang",
+  "summary": "You gain two talon attacks that deal standard damage for your size (1d4 at medium).",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/real-flight-racial-draconic",
+  "name": "Real Flight",
+  "system": "Spheres of Power",
+  "types": [
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Draconic subtype, breezeflight, character level 5th.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#real-flight-racial-draconic",
+  "summary": "When using breezeflight, you become weightless instead of half-weight.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/steel-skeleton-combat-racial-construct",
+  "name": "Steel Skeleton",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat",
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Construct type or subtype.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#steel-skeleton-combat-racial-construct",
+  "summary": "All of your movement speeds are reduced by -5 ft.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/tactile-density-combat-racial-draconic",
+  "name": "Tactile Density",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat",
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Draconic subtype, Real Flight.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#tactile-density-combat-racial-draconic",
+  "summary": "You no longer suffer any penalties to CMB or CMD while using breezeflight.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/talented-leaper-racial-cherufe",
+  "name": "Talented Leaper",
+  "system": "Spheres of Power",
+  "types": [
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Cherufe subtype.",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#talented-leaper-racial-cherufe",
+  "summary": "When calculating how high you can jump with your Acrobatics skill, divide your Acrobatics roll by 2 instead of 4.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/vegetalker-racial-plant",
   "name": "Vegetalker",
   "system": "Spheres of Power",
@@ -15719,6 +15645,21 @@
   "source": "",
   "url": "Spheres-Of-Power/Feats/Racial-Feats#vegetalker-racial-plant",
   "summary": "You may speak with plants, as if constantly under the effects of a speak with plants spell or the Speak with Plants Nature talent, with a caster level equal to…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/vined-limbs-combat-racial-alraun",
+  "name": "Vined Limbs",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat",
+   "Racial"
+  ],
+  "spheres": [],
+  "prerequisites": "Draide alraun",
+  "source": "",
+  "url": "Spheres-Of-Power/Feats/Racial-Feats#vined-limbs-combat-racial-alraun",
+  "summary": "Your reach when making melee touch attacks is increased by +5 feet.",
   "file": "feats.json"
  },
  {
