@@ -1,0 +1,3531 @@
+{
+ "traditions": [
+  {
+   "id": "tradition/ace",
+   "name": "Ace",
+   "url": "Spheres-Of-Might/Martial-Traditions#ace",
+   "summary": "An ace is one with his vehicle, controlling it through stunts that should be entirely impossible.",
+   "md": "An ace is one with his vehicle, controlling it through stunts that should be entirely impossible.\n\n- **Athletics sphere** (Driver drawback) selecting either the (fly), (run), or (swim) package, Ace Pilot, Mobile Striker, Reflexive Twist\n- **Variable:** Individuals trained in the Ace tradition gain one Athletics sphere talent of their choice.",
+   "grants": [
+    {
+     "type": "sphere",
+     "sphere": "Athletics"
+    },
+    {
+     "type": "drawback",
+     "sphere": "Athletics",
+     "name": "Driver"
+    },
+    {
+     "type": "talent",
+     "sphere": "Athletics",
+     "name": "Ace Pilot"
+    },
+    {
+     "type": "talent",
+     "sphere": "Athletics",
+     "name": "Mobile Striker"
+    },
+    {
+     "type": "talent",
+     "sphere": "Athletics",
+     "name": "Reflexive Twist"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Athletics sphere: choose a package",
+     "options": [
+      {
+       "label": "(fly) package",
+       "grants": [
+        {
+         "type": "package",
+         "sphere": "Athletics",
+         "name": "(fly) package"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "(run) package",
+       "grants": [
+        {
+         "type": "package",
+         "sphere": "Athletics",
+         "name": "(run) package"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "(swim) package",
+       "grants": [
+        {
+         "type": "package",
+         "sphere": "Athletics",
+         "name": "(swim) package"
+        }
+       ],
+       "picks": []
+      }
+     ]
+    },
+    {
+     "text": "Individuals trained in the Ace tradition gain one Athletics sphere talent of their choice.",
+     "options": [
+      {
+       "label": "One Athletics sphere talent of their choice",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Athletics"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/all-thrower",
+   "name": "All-Thrower",
+   "url": "Spheres-Of-Might/Martial-Traditions#all-thrower",
+   "summary": "- Equipment: Caber Toss, Rock Toss - Berserker sphere - Variable: All-throwers gain either Barroom as a bonus sphere or the Barbaric Throw talent from the Berserker sphere as a bonus talent.",
+   "md": "All-throwers are athletic warriors who specialize in sports that involve hurling large and cumbersome objects.\n\n- **Equipment:** Caber Toss, Rock Toss\n- **Berserker sphere**\n- **Variable:** All-throwers gain either Barroom as a bonus sphere or the Barbaric Throw talent from the Berserker sphere as a bonus talent.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Caber Toss"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Rock Toss"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Berserker"
+    }
+   ],
+   "choices": [
+    {
+     "text": "All-throwers gain either Barroom as a bonus sphere or the Barbaric Throw talent from the Berserker sphere as a bonus talent.",
+     "options": [
+      {
+       "label": "Barroom as a bonus sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Barroom"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "The Barbaric Throw talent from the Berserker sphere as a bonus talent",
+       "grants": [
+        {
+         "type": "talent",
+         "sphere": "Berserker",
+         "name": "Barbaric Throw"
+        }
+       ],
+       "picks": []
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/animal-trainer",
+   "name": "Animal Trainer",
+   "url": "Spheres-Of-Might/Martial-Traditions#animal-trainer",
+   "summary": "Bonus Talents: - Equipment: Bounty Hunter’s Tools - Beastmastery sphere (handle animal) package - Variable: Animal trainers may select two additional talents, each chosen from either the Beastmastery…",
+   "md": "Animal trainers fight alongside tamed beasts, wielding the tools used for capturing and training their pets in battle.\n\n**Bonus Talents:**\n\n- **Equipment:** Bounty Hunter’s Tools\n- **Beastmastery sphere** (handle animal) package\n- **Variable:** Animal trainers may select two additional talents, each chosen from either the Beastmastery sphere or the Equipment sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Bounty Hunter’s Tools"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Beastmastery"
+    },
+    {
+     "type": "package",
+     "sphere": "Beastmastery",
+     "name": "(handle animal) package"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Animal trainers may select two additional talents, each chosen from either the Beastmastery sphere or the Equipment sphere.",
+     "options": [
+      {
+       "label": "Two additional talents, each chosen from either the Beastmastery sphere or the Equipment sphere",
+       "grants": [],
+       "picks": [
+        {
+         "count": 2,
+         "from": [
+          "Beastmastery",
+          "Equipment"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/armored-dreadnought",
+   "name": "Armored Dreadnought",
+   "url": "Spheres-Of-Might/Martial-Traditions#armored-dreadnought",
+   "summary": "Bonus Talents: - Equipment: Armor Training, Shield Training - Variable: Armored dreadnoughts gains two talents of their choice from the Equipment sphere.",
+   "md": "Armored Dreadnoughts specialize in wielding massive shields and titanic suits of armor that would crush lesser men under their enormous weight.\n\n**Bonus Talents:**\n\n- **Equipment:** Armor Training, Shield Training\n- **Variable:** Armored dreadnoughts gains two talents of their choice from the Equipment sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Armor Training"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Shield Training"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Armored dreadnoughts gains two talents of their choice from the Equipment sphere.",
+     "options": [
+      {
+       "label": "Two talents of their choice from the Equipment sphere",
+       "grants": [],
+       "picks": [
+        {
+         "count": 2,
+         "from": [
+          "Equipment"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/barbarian",
+   "name": "Barbarian",
+   "url": "Spheres-Of-Might/Martial-Traditions#barbarian",
+   "summary": "Bonus Talents: - Equipment: Tribal training - Berserker sphere - Scout sphere - Variable: Barbarians gain either the Barroom sphere or the Beastmastery sphere.",
+   "md": "Barbarians are tribal warriors who cultivate their rage for use in combat. Skilled at both hunting and warfare, Barbarians are deadly, versatile fighters. Depending on the traditions of their tribe, a barbarian might fight alongside war animals or focus on their rage, breaking their weapons as often as their enemies with their mighty blows.\n\n**Bonus Talents:**\n\n- **Equipment:** Tribal training\n- **Berserker sphere**\n- **Scout sphere**\n- **Variable:** Barbarians gain either the Barroom sphere or the Beastmastery sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Tribal Training"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Berserker"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Scout"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Barbarians gain either the Barroom sphere or the Beastmastery sphere.",
+     "options": [
+      {
+       "label": "The Barroom sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Barroom"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "The Beastmastery sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Beastmastery"
+        }
+       ],
+       "picks": []
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/bolt-juggler",
+   "name": "Bolt Juggler",
+   "url": "Spheres-Of-Might/Martial-Traditions#bolt-juggler",
+   "summary": "Bonus Talents: - Equipment: Mechanical Training - Dual Wielding sphere - Variable: Bolt jugglers gain either Expert Reloading or Mechanical Savant from the Equipment sphere.",
+   "md": "Bolt jugglers are a sight to behold, awe-inspiring on the training ground and dread-inspiring on the battleground. While some use their crossbows to compliment a melee weapon, others wield two crossbows at once in a dizzying display of coordination.\n\n**Bonus Talents:**\n\n- **Equipment:** Mechanical Training\n- **Dual Wielding sphere**\n- **Variable:** Bolt jugglers gain either Expert Reloading or Mechanical Savant from the Equipment sphere.\n- **Variable:** Bolt jugglers gain either Impossible Reload or Mixed Assault from the Dual Wielding sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Mechanical Training"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Dual Wielding"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Bolt jugglers gain either Expert Reloading or Mechanical Savant from the Equipment sphere.",
+     "options": [
+      {
+       "label": "Expert Reloading",
+       "grants": [
+        {
+         "type": "talent",
+         "sphere": "Equipment",
+         "name": "Expert Reloading"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "Mechanical Savant from the Equipment sphere",
+       "grants": [
+        {
+         "type": "talent",
+         "sphere": "Equipment",
+         "name": "Mechanical Savant"
+        }
+       ],
+       "picks": []
+      }
+     ]
+    },
+    {
+     "text": "Bolt jugglers gain either Impossible Reload or Mixed Assault from the Dual Wielding sphere.",
+     "options": [
+      {
+       "label": "Impossible Reload",
+       "grants": [
+        {
+         "type": "talent",
+         "sphere": "Dual Wielding",
+         "name": "Impossible Reload"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "Mixed Assault from the Dual Wielding sphere",
+       "grants": [
+        {
+         "type": "talent",
+         "sphere": "Dual Wielding",
+         "name": "Mixed Assault"
+        }
+       ],
+       "picks": []
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/buccaneer",
+   "name": "Buccaneer",
+   "url": "Spheres-Of-Might/Martial-Traditions#buccaneer",
+   "summary": "Bonus Talents: - Equipment: Duelist Training, Firearm Proficiency - Dual Wielding sphere - Variable: Buccaneers gain either the Athletics sphere, Fencing sphere, or a Dual Wielding talent of their…",
+   "md": "Most often found as hired company of pirates, buccaneers are fond of flashy and sometimes acrobatic combat, making themselves formidable foes in close quarters and at range.\n\n**Bonus Talents:**\n\n- **Equipment:** Duelist Training, Firearm Proficiency\n- **Dual Wielding sphere**\n- **Variable:** Buccaneers gain either the Athletics sphere, Fencing sphere, or a Dual Wielding talent of their choice.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Duelist Training"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Firearm Proficiency"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Dual Wielding"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Buccaneers gain either the Athletics sphere, Fencing sphere, or a Dual Wielding talent of their choice.",
+     "options": [
+      {
+       "label": "The Athletics sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Athletics"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "Fencing sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Fencing"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "A Dual Wielding talent of their choice",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Dual Wielding"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/bushido-warrior",
+   "name": "Bushido Warrior",
+   "url": "Spheres-Of-Might/Martial-Traditions#bushido-warrior",
+   "summary": "Bonus Talents: - Equipment: Armor Training, Bushido Training - Duelist sphere - Variable: Followers of the bushido way gain either the Beastmastery base sphere (Ride package), or Draw Cut from the…",
+   "md": "Training in the bushido way includes learning how to wear the ceremonial armor of your station, as well as wield weapons like the katana and longbow. Some bushido warriors also train in horsemanship, while others perfect the art of single combat.\n\n**Bonus Talents:**\n\n- **Equipment:** Armor Training, Bushido Training\n- **Duelist sphere**\n- **Variable:** Followers of the bushido way gain either the Beastmastery base sphere (Ride package), or Draw Cut from the Duelist sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Armor Training"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Bushido Training"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Duelist"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Followers of the bushido way gain either the Beastmastery base sphere (Ride package), or Draw Cut from the Duelist sphere.",
+     "options": [
+      {
+       "label": "The Beastmastery base sphere (Ride package)",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Beastmastery"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "Draw Cut from the Duelist sphere",
+       "grants": [
+        {
+         "type": "talent",
+         "sphere": "Duelist",
+         "name": "Draw Cut"
+        }
+       ],
+       "picks": []
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/canny-hunter",
+   "name": "Canny Hunter",
+   "url": "Spheres-Of-Might/Martial-Traditions#canny-hunter",
+   "summary": "Bonus Talents: - Equipment: Huntsman Training - Scout sphere - Sniper sphere - Variable: Canny hunters gain one additional talent of their choice from either the Equipment sphere or Scout sphere.",
+   "md": "Canny hunters are skilled marksmen and trackers, capable of spotting a creature’s weaknesses and felling them with a single well placed shot.\n\n**Bonus Talents:**\n\n- **Equipment:** Huntsman Training\n- **Scout sphere**\n- **Sniper sphere**\n- **Variable:** Canny hunters gain one additional talent of their choice from either the Equipment sphere or Scout sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Huntsman Training"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Scout"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Sniper"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Canny hunters gain one additional talent of their choice from either the Equipment sphere or Scout sphere.",
+     "options": [
+      {
+       "label": "One additional talent of their choice from either the Equipment sphere or Scout sphere",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Equipment",
+          "Scout"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/challenging-knight",
+   "name": "Challenging Knight",
+   "url": "Spheres-Of-Might/Martial-Traditions#challenging-knight",
+   "summary": "Bonus Talents: - Equipment: Armor Training, Knightly Training - Gladiator sphere - Variable: Individuals trained in the challenging knight gain either the Guardian sphere or a Gladiator talent of…",
+   "md": "Unlike other knights, challenging knights are far more focused on their own personal glory, keeping combat and every other possible situation focused on themselves.\n\n**Bonus Talents:**\n\n- **Equipment:** Armor Training, Knightly Training\n- **Gladiator sphere**\n- **Variable:** Individuals trained in the challenging knight gain either the Guardian sphere or a Gladiator talent of their choice.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Armor Training"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Knightly Training"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Gladiator"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Individuals trained in the challenging knight gain either the Guardian sphere or a Gladiator talent of their choice.",
+     "options": [
+      {
+       "label": "The Guardian sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Guardian"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "A Gladiator talent of their choice",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Gladiator"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/chemist",
+   "name": "Chemist",
+   "url": "Spheres-Of-Might/Martial-Traditions#chemist",
+   "summary": "Bonus Talents: - Equipment: Fast Draw - Alchemy sphere (formulae package) - Barroom sphere - Variable: Chemists gain one additional talent of their choice from either the Barroom sphere or Alchemy…",
+   "md": "Chemists who go adventuring often find the bottle makes as good of a weapon as what might be inside it.\n\n**Bonus Talents:**\n\n- **Equipment:** Fast Draw\n- **Alchemy sphere (formulae package)**\n- **Barroom sphere**\n- **Variable:** Chemists gain one additional talent of their choice from either the Barroom sphere or Alchemy sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Fast Draw"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Alchemy"
+    },
+    {
+     "type": "package",
+     "sphere": "Alchemy",
+     "name": "(formulae) package"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Barroom"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Chemists gain one additional talent of their choice from either the Barroom sphere or Alchemy sphere.",
+     "options": [
+      {
+       "label": "One additional talent of their choice from either the Barroom sphere or Alchemy sphere",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Barroom",
+          "Alchemy"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/combat-gunner",
+   "name": "Combat Gunner",
+   "url": "Spheres-Of-Might/Martial-Traditions#combat-gunner",
+   "summary": "Bonus Talents: - Equipment: Firearm Proficiency, Gun Kata - Open Hand sphere - Variable: Combat gunners gain either Barrage sphere or Sniper sphere.",
+   "md": "Guns aren’t the most friendly of weapons, making the efforts of combat gunners all the more impressive. Willing to duck and weave into melee combat as well as fire from a distance, these masters of close and long range combat lack any fear.\n\n**Bonus Talents:**\n\n- **Equipment:** Firearm Proficiency, Gun Kata\n- **Open Hand sphere**\n- **Variable:** Combat gunners gain either Barrage sphere or Sniper sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Firearm Proficiency"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Gun Kata"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Open Hand"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Combat gunners gain either Barrage sphere or Sniper sphere.",
+     "options": [
+      {
+       "label": "Barrage sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Barrage"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "Sniper sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Sniper"
+        }
+       ],
+       "picks": []
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/commando",
+   "name": "Commando",
+   "url": "Spheres-Of-Might/Martial-Traditions#commando",
+   "summary": "Bonus Talents - Equipment: Rogue Weapon Training - Leadership sphere (cohort) package - Scout sphere - Variable: Commandos gain a bonus talent from either the Equipment or Scout spheres.",
+   "md": "Specialists that lead small groups in stealthy raids and sabotage.\n\n**Bonus Talents**\n\n- **Equipment:** Rogue Weapon Training\n- **Leadership sphere** (cohort) package\n- **Scout sphere**\n- **Variable:** Commandos gain a bonus talent from either the Equipment or Scout spheres.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Rogue Weapon Training"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Leadership"
+    },
+    {
+     "type": "package",
+     "sphere": "Leadership",
+     "name": "(cohort) package"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Scout"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Commandos gain a bonus talent from either the Equipment or Scout spheres.",
+     "options": [
+      {
+       "label": "A bonus talent from either the Equipment or Scout spheres",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Equipment",
+          "Scout"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/courtesan",
+   "name": "Courtesan",
+   "url": "Spheres-Of-Might/Martial-Traditions#courtesan",
+   "summary": "Bonus Talents: - Equipment: Dancer Training, Unarmored Training - Fencing sphere - Variable: Courtesans gain either the Dual Wielding sphere or a talent from the Fencing sphere.",
+   "md": "Courtesans are students of courtly manners and artistic pursuits, and are often experts at painting, dancing, music, and engaging conversation. In a world of magic and court intrigue, courtesans are often also trained as bodyguards and assassins.\n\n**Bonus Talents:**\n\n- **Equipment:** Dancer Training, Unarmored Training\n- **Fencing sphere**\n- **Variable:** Courtesans gain either the Dual Wielding sphere or a talent from the Fencing sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Dancer Training"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Unarmored Training"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Fencing"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Courtesans gain either the Dual Wielding sphere or a talent from the Fencing sphere.",
+     "options": [
+      {
+       "label": "The Dual Wielding sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Dual Wielding"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "A talent from the Fencing sphere",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Fencing"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/cunning-leader",
+   "name": "Cunning Leader",
+   "url": "Spheres-Of-Might/Martial-Traditions#cunning-leader",
+   "summary": "The battlefield is an ever shifting place, causing chaos and anarchy to reign supreme.",
+   "md": "The battlefield is an ever shifting place, causing chaos and anarchy to reign supreme. Only a cunning leader is able to properly navigate the terrain, commanding their troops while controlling the flow of combat in a way unique to them.\n\n**Bonus Talents:**\n\n- **Equipment:** One (discipline) talent of their choice\n- **Fencing sphere**, **Expert Feint**\n- **Warleader sphere**",
+   "grants": [
+    {
+     "type": "sphere",
+     "sphere": "Fencing"
+    },
+    {
+     "type": "talent",
+     "sphere": "Fencing",
+     "name": "Expert Feint"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Warleader"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Equipment: One (discipline) talent of their choice",
+     "options": [
+      {
+       "label": "One (discipline) talent of their choice",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Equipment"
+         ],
+         "filter": "discipline"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/crushing-juggernaut",
+   "name": "Crushing Juggernaut",
+   "url": "Spheres-Of-Might/Martial-Traditions#crushing-juggernaut",
+   "summary": "Bonus Talents: - Equipment: Armor Training - Brute sphere - Variable: Crushing juggernauts gain a bonus talent of their choice from both the Brute sphere and the Equipment sphere.",
+   "md": "Crushing juggernauts specialize in using their bulk and the mass of their heavy armor to grind their opponents into dust.\n\n**Bonus Talents:**\n\n- **Equipment:** Armor Training\n- **Brute sphere**\n- **Variable:** Crushing juggernauts gain a bonus talent of their choice from both the Brute sphere and the Equipment sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Armor Training"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Brute"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Crushing juggernauts gain a bonus talent of their choice from both the Brute sphere and the Equipment sphere.",
+     "options": [
+      {
+       "label": "A bonus talent of their choice from both the Brute sphere and the Equipment sphere",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Brute"
+         ]
+        },
+        {
+         "count": 1,
+         "from": [
+          "Equipment"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/daring-scholar",
+   "name": "Daring Scholar",
+   "url": "Spheres-Of-Might/Martial-Traditions#daring-scholar",
+   "summary": "Bonus Talents: - Equipment: Staff Mastery - Alchemy sphere - Scout sphere - Variable: Daring scholars gain a talent from either the Alchemy or Scout sphere.",
+   "md": "While many adventurers train with weapons and armor to protect them from the dangers of their chosen lifestyle, others trust in their wits and ingenuity to keep them safe. Daring scholars use a combination of explosive chemical compounds and careful observation to overcome any challenge, considering a spyglass and an alchemist’s lab to be a preferable burden to a knight’s heavy plate.\n\n**Bonus Talents:**\n\n- **Equipment:** Staff Mastery\n- **Alchemy sphere**\n- **Scout sphere**\n- **Variable:** Daring scholars gain a talent from either the Alchemy or Scout sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Staff Mastery"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Alchemy"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Scout"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Daring scholars gain a talent from either the Alchemy or Scout sphere.",
+     "options": [
+      {
+       "label": "A talent from either the Alchemy or Scout sphere",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Alchemy",
+          "Scout"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/decisive-fist",
+   "name": "Decisive Fist",
+   "url": "Spheres-Of-Might/Martial-Traditions#decisive-fist",
+   "summary": "Bonus Talents: - Equipment: Critical Genius - Boxing sphere - Open Hand sphere - Variable: Decisive fists gain either Finesse Fighting, Unarmed Training, or Unarmored Training from the Equipment…",
+   "md": "Disciples of the decisive fist prefer to end fights with one powerful punch. These inspired combatants coil up like a spring, choosing the perfect moment to disrupt their foes with a brutal blow.\n\n**Bonus Talents:**\n\n- **Equipment:** Critical Genius\n- **Boxing sphere**\n- **Open Hand sphere**\n- **Variable:** Decisive fists gain either Finesse Fighting, Unarmed Training, or Unarmored Training from the Equipment sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Critical Genius"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Boxing"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Open Hand"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Decisive fists gain either Finesse Fighting, Unarmed Training, or Unarmored Training from the Equipment sphere.",
+     "options": [
+      {
+       "label": "Finesse Fighting",
+       "grants": [
+        {
+         "type": "talent",
+         "sphere": "Equipment",
+         "name": "Finesse Fighting"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "Unarmed Training",
+       "grants": [
+        {
+         "type": "talent",
+         "sphere": "Equipment",
+         "name": "Unarmed Training"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "Unarmored Training from the Equipment sphere",
+       "grants": [
+        {
+         "type": "talent",
+         "sphere": "Equipment",
+         "name": "Unarmored Training"
+        }
+       ],
+       "picks": []
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/dedicated-duelist",
+   "name": "Dedicated Duelist",
+   "url": "Spheres-Of-Might/Martial-Traditions#dedicated-duelist",
+   "summary": "Bonus Talents: - Equipment: Duelist Training, Finesse Fighting - Variable: Dedicated duelists gain either the Duelist sphere or Fencing sphere - Variable: Dedicated duelists gain either Gauntlet…",
+   "md": "Dedicated duelists are individuals devoted to the art of the duel. Whether they simply revel in the art of single combat, or if they believe that they can prevent larger battles by risking their life alone, these deadly men and women are focused and skilled in the tools of their chosen trade.\n\n**Bonus Talents:**\n\n- **Equipment:** Duelist Training, Finesse Fighting\n- **Variable:** Dedicated duelists gain either the Duelist sphere or Fencing sphere\n- **Variable:** Dedicated duelists gain either Gauntlet Shield or Unarmored Training from the Equipment sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Duelist Training"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Finesse Fighting"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Dedicated duelists gain either the Duelist sphere or Fencing sphere",
+     "options": [
+      {
+       "label": "The Duelist sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Duelist"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "Fencing sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Fencing"
+        }
+       ],
+       "picks": []
+      }
+     ]
+    },
+    {
+     "text": "Dedicated duelists gain either Gauntlet Shield or Unarmored Training from the Equipment sphere.",
+     "options": [
+      {
+       "label": "Gauntlet Shield",
+       "grants": [
+        {
+         "type": "talent",
+         "sphere": "Equipment",
+         "name": "Gauntlet Shield"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "Unarmored Training from the Equipment sphere",
+       "grants": [
+        {
+         "type": "talent",
+         "sphere": "Equipment",
+         "name": "Unarmored Training"
+        }
+       ],
+       "picks": []
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/dedicated-lancer",
+   "name": "Dedicated Lancer",
+   "url": "Spheres-Of-Might/Martial-Traditions#dedicated-lancer",
+   "summary": "Bonus Talents: - Equipment: Pikeman Training, Spear Dancer - Lancer sphere - Variable: Individuals trained as Dedicated Lancers gain either the Guardian sphere or a Lancer talent of their choice.",
+   "md": "Completely focused on their aims of goring opponents, dedicated lancers are masters of the spear, focusing on impaling foes and leaving them on the end of their weapon.\n\n**Bonus Talents:**\n\n- **Equipment:** Pikeman Training, Spear Dancer\n- **Lancer sphere**\n- **Variable:** Individuals trained as Dedicated Lancers gain either the Guardian sphere or a Lancer talent of their choice.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Pikeman Training"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Spear Dancer"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Lancer"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Individuals trained as Dedicated Lancers gain either the Guardian sphere or a Lancer talent of their choice.",
+     "options": [
+      {
+       "label": "The Guardian sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Guardian"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "A Lancer talent of their choice",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Lancer"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/drunken-brawler",
+   "name": "Drunken Brawler",
+   "url": "Spheres-Of-Might/Martial-Traditions#drunken-brawler",
+   "summary": "Bonus Talents: - Equipment: Unarmed Training - Barroom sphere - Wrestling sphere - Variable: Drunken brawlers gain a talent of their choice from either the Barroom or Wrestling sphere.",
+   "md": "Only a “tradition” in the vaguest sense of the word, drunken brawlers tend to learn their arts at the hands of other drunken brawlers, usually through an alcohol induced fog while their “teacher” attempts to put them through a bar. Or a wall. Or a ceiling. Occasionally a door.\n\n**Bonus Talents:**\n\n- **Equipment:** Unarmed Training\n- **Barroom sphere**\n- **Wrestling sphere**\n- **Variable:** Drunken brawlers gain a talent of their choice from either the Barroom or Wrestling sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Unarmed Training"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Barroom"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Wrestling"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Drunken brawlers gain a talent of their choice from either the Barroom or Wrestling sphere.",
+     "options": [
+      {
+       "label": "A talent of their choice from either the Barroom or Wrestling sphere",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Barroom",
+          "Wrestling"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/dual-blade-beast",
+   "name": "Dual Blade Beast",
+   "url": "Spheres-Of-Might/Martial-Traditions#dual-blade-beast",
+   "summary": "Bonus Talents: - Equipment: Bushido Training or Duelist Training, Dual Blade Savant - Dual Wielding sphere - Variable: Individuals trained in the Dual Blade Beast gain either the Duelist sphere or a…",
+   "md": "Not settling for an ordinary weapon, dual blade beasts focus on a more exotic weapon, using its modular nature in unique and interesting ways.\n\n**Bonus Talents:**\n\n- **Equipment:** Bushido Training or Duelist Training, Dual Blade Savant\n- **Dual Wielding sphere**\n- **Variable:** Individuals trained in the Dual Blade Beast gain either the Duelist sphere or a Dual Wielding talent of their choice.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Bushido Training"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Duelist Training"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Dual Blade Savant"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Dual Wielding"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Individuals trained in the Dual Blade Beast gain either the Duelist sphere or a Dual Wielding talent of their choice.",
+     "options": [
+      {
+       "label": "The Duelist sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Duelist"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "A Dual Wielding talent of their choice",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Dual Wielding"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/elven-duelist",
+   "name": "Elven Duelist",
+   "url": "Spheres-Of-Might/Martial-Traditions#elven-duelist",
+   "summary": "Bonus Talents - Equipment: Elvish Heritage, Finesse Fighting x2 - Variable: Elven Duelists gain either the Duelist sphere or the Fencing Sphere.",
+   "md": "Agile warriors trained in the traditional elven forms of personal combat.\n\n**Bonus Talents**\n\n- **Equipment:** Elvish Heritage, Finesse Fighting x2\n- **Variable:** Elven Duelists gain either the Duelist sphere or the Fencing Sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Elvish Heritage"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Finesse Fighting"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Elven Duelists gain either the Duelist sphere or the Fencing Sphere.",
+     "options": [
+      {
+       "label": "The Duelist sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Duelist"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "The Fencing Sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Fencing"
+        }
+       ],
+       "picks": []
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/fearless-thrower",
+   "name": "Fearless Thrower",
+   "url": "Spheres-Of-Might/Martial-Traditions#fearless-thrower",
+   "summary": "Bonus Talents: - Equipment: Huntsman Training, Throwing Mastery - Variable: Fearless throwers either gain Crushing Thrower or Thrower’s Reflexes from the Equipment sphere.",
+   "md": "From small blades to large spears, fearless throwers are adept at launching any such items into the air. Able to push the limits of thrown weapons far beyond what others can, they fill the air with a hail of knives, hammers, and spears.\n\n**Bonus Talents:**\n\n- **Equipment:** Huntsman Training, Throwing Mastery\n- **Variable:** Fearless throwers either gain Crushing Thrower or Thrower’s Reflexes from the Equipment sphere.\n- **Variable:** Fearless throwers gain either the Barrage sphere or the Berserker sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Huntsman Training"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Throwing Mastery"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Fearless throwers either gain Crushing Thrower or Thrower’s Reflexes from the Equipment sphere.",
+     "options": [
+      {
+       "label": "Crushing Thrower",
+       "grants": [
+        {
+         "type": "talent",
+         "sphere": "Equipment",
+         "name": "Crushing Thrower"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "Thrower’s Reflexes from the Equipment sphere",
+       "grants": [
+        {
+         "type": "talent",
+         "sphere": "Equipment",
+         "name": "Thrower’s Reflexes"
+        }
+       ],
+       "picks": []
+      }
+     ]
+    },
+    {
+     "text": "Fearless throwers gain either the Barrage sphere or the Berserker sphere.",
+     "options": [
+      {
+       "label": "The Barrage sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Barrage"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "The Berserker sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Berserker"
+        }
+       ],
+       "picks": []
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/expedition-spotter",
+   "name": "Expedition Spotter",
+   "url": "Spheres-Of-Might/Martial-Traditions#expedition-spotter",
+   "summary": "Bonus Talents - Equipment: Rogue Weapon Training - Trap sphere (Dismantler drawback) - Variable: Expedition spotters gain either the Duelist or Fencing sphere.",
+   "md": "Expedition spotters are often hired onto exploratory expeditions into regions famous for their tombs and long-abandoned structures. Sharp-eyed and observant, they make for decent adventurers into areas with lots of traps and fighting in tight spaces.\n\n**Bonus Talents**\n\n- **Equipment:** Rogue Weapon Training\n- **Trap sphere** (Dismantler drawback)\n- **Variable:** Expedition spotters gain either the Duelist or Fencing sphere.\n- **Variable:** Expedition spotters gain either the Scout sphere or Expert Eye from the Trap sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Rogue Weapon Training"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Trap"
+    },
+    {
+     "type": "drawback",
+     "sphere": "Trap",
+     "name": "Dismantler"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Expedition spotters gain either the Duelist or Fencing sphere.",
+     "options": [
+      {
+       "label": "The Duelist",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Duelist"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "Fencing sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Fencing"
+        }
+       ],
+       "picks": []
+      }
+     ]
+    },
+    {
+     "text": "Expedition spotters gain either the Scout sphere or Expert Eye from the Trap sphere.",
+     "options": [
+      {
+       "label": "The Scout sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Scout"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "Expert Eye from the Trap sphere",
+       "grants": [
+        {
+         "type": "talent",
+         "sphere": "Trap",
+         "name": "Expert Eye"
+        }
+       ],
+       "picks": []
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/field-medic",
+   "name": "Field Medic",
+   "url": "Spheres-Of-Might/Martial-Traditions#field-medic",
+   "summary": "Bonus Talents: - Equipment: Fast Draw - Alchemy sphere ((formulae) package): Salve - Scout sphere - Variable: The Field Medic gains one additional talent of their choice from either the Alchemy…",
+   "md": "While not as often to get the glory of the kill as the soldier, the field medic is as or even more important to the health and safety of his comrades.\n\n**Bonus Talents:**\n\n- **Equipment:** Fast Draw\n- **Alchemy sphere ((formulae) package):** Salve\n- **Scout sphere**\n- **Variable:** The Field Medic gains one additional talent of their choice from either the Alchemy sphere or Scout sphere.\n- **Drawbacks:** Alternative-Brew\n- **Special:** The Field Medic uses the Heal skill as the skill used for Alternative-Brew.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Fast Draw"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Alchemy"
+    },
+    {
+     "type": "package",
+     "sphere": "Alchemy",
+     "name": "(formulae) package"
+    },
+    {
+     "type": "talent",
+     "sphere": "Alchemy",
+     "name": "Salve"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Scout"
+    }
+   ],
+   "choices": [
+    {
+     "text": "The Field Medic gains one additional talent of their choice from either the Alchemy sphere or Scout sphere.",
+     "options": [
+      {
+       "label": "One additional talent of their choice from either the Alchemy sphere or Scout sphere",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Alchemy",
+          "Scout"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": [
+    "Drawback: Alternative-Brew",
+    "Special: The Field Medic uses the Heal skill as the skill used for Alternative-Brew."
+   ]
+  },
+  {
+   "id": "tradition/free-runner",
+   "name": "Free Runner",
+   "url": "Spheres-Of-Might/Martial-Traditions#free-runner",
+   "summary": "Bonus Talents: - Equipment: none - Athletics sphere (run) package, Expanded Training (leap) and one other package, Wall Stunt - Variable: Free runners gain a talent of their choice from the Athletics…",
+   "md": "Free runners treat the world as their gymnasium, practicing wild acrobatics, running on and leaping from surfaces most wouldn’t consider even climbing.\n\n**Bonus Talents:**\n\n- **Equipment:** none\n- **Athletics sphere** (run) package, **Expanded Training** (leap) and one other package, **Wall Stunt**\n- **Variable:** Free runners gain a talent of their choice from the Athletics sphere.",
+   "grants": [
+    {
+     "type": "sphere",
+     "sphere": "Athletics"
+    },
+    {
+     "type": "package",
+     "sphere": "Athletics",
+     "name": "(run) package"
+    },
+    {
+     "type": "talent",
+     "sphere": "Athletics",
+     "name": "Expanded Training"
+    },
+    {
+     "type": "talent",
+     "sphere": "Athletics",
+     "name": "Wall Stunt"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Free runners gain a talent of their choice from the Athletics sphere.",
+     "options": [
+      {
+       "label": "A talent of their choice from the Athletics sphere",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Athletics"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/gearhead",
+   "name": "Gearhead",
+   "url": "Spheres-Of-Might/Martial-Traditions#gearhead",
+   "summary": "Bonus Talents: - Equipment: Techmaniac, Toolkit Training - Tech sphere - Variable: Gearheads gain either Tech Savvy from the Tech sphere, or the Trap sphere as a bonus talent.",
+   "md": "Gearheads primarily utilize gadgets, guns, and other technological equipment in combat.\n\n**Bonus Talents:**\n\n- **Equipment:** Techmaniac, Toolkit Training\n- **Tech sphere**\n- **Variable:** Gearheads gain either Tech Savvy from the Tech sphere, or the Trap sphere as a bonus talent.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Techmaniac"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Toolkit Training"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Tech"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Gearheads gain either Tech Savvy from the Tech sphere, or the Trap sphere as a bonus talent.",
+     "options": [
+      {
+       "label": "Tech Savvy from the Tech sphere",
+       "grants": [
+        {
+         "type": "talent",
+         "sphere": "Tech",
+         "name": "Tech Savvy"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "The Trap sphere as a bonus talent",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Trap"
+        }
+       ],
+       "picks": []
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/giant",
+   "name": "Giant",
+   "url": "Spheres-Of-Might/Martial-Traditions#giant",
+   "summary": "Bonus Talents: - Equipment: Rock Toss - Brute sphere - Variable: Giants gain a talent of their choice from both the Brute sphere and the Equipment sphere.",
+   "md": "Creatures who are larger than their peers often learn to fight in fashions leveraging their enormous size, shoving their enemies around the battlefield and hurling objects far too large for their enemies to handle.\n\n**Bonus Talents:**\n\n- **Equipment:** Rock Toss\n- **Brute sphere**\n- **Variable:** Giants gain a talent of their choice from both the Brute sphere and the Equipment sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Rock Toss"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Brute"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Giants gain a talent of their choice from both the Brute sphere and the Equipment sphere.",
+     "options": [
+      {
+       "label": "A talent of their choice from both the Brute sphere and the Equipment sphere",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Brute"
+         ]
+        },
+        {
+         "count": 1,
+         "from": [
+          "Equipment"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/gladiator",
+   "name": "Gladiator",
+   "url": "Spheres-Of-Might/Martial-Traditions#gladiator",
+   "summary": "Bonus Talents: - Equipment: Gladiator Training - Gladiator sphere - Variable: Gladiators gain either Armor Training, Shield Training, or Gladiator Training a second time from the Equipment sphere.",
+   "md": "Trained in the tradition of pure physical prowess, gladiators are known for their ability to overpower lesser combatants, imposing their will upon lesser warriors. There are many different varieties of gladiator, but all of them specialize in putting on shows worthy of an emperor.\n\n**Bonus Talents:**\n\n- **Equipment:** Gladiator Training\n- **Gladiator sphere**\n- **Variable:** Gladiators gain either Armor Training, Shield Training, or Gladiator Training a second time from the Equipment sphere.\n- **Variable:** Gladiators gain a talent of their choice from the Gladiator sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Gladiator Training"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Gladiator"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Gladiators gain either Armor Training, Shield Training, or Gladiator Training a second time from the Equipment sphere.",
+     "options": [
+      {
+       "label": "Armor Training",
+       "grants": [
+        {
+         "type": "talent",
+         "sphere": "Equipment",
+         "name": "Armor Training"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "Shield Training",
+       "grants": [
+        {
+         "type": "talent",
+         "sphere": "Equipment",
+         "name": "Shield Training"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "Gladiator Training a second time from the Equipment sphere",
+       "grants": [
+        {
+         "type": "talent",
+         "sphere": "Equipment",
+         "name": "Gladiator Training"
+        }
+       ],
+       "picks": []
+      }
+     ]
+    },
+    {
+     "text": "Gladiators gain a talent of their choice from the Gladiator sphere.",
+     "options": [
+      {
+       "label": "A talent of their choice from the Gladiator sphere",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Gladiator"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/guild-training",
+   "name": "Guild Training",
+   "url": "Spheres-Of-Might/Martial-Traditions#guild-training",
+   "summary": "Bonus Talents: - Equipment: Finesse Fighting, Rogue Weapon Training - Alchemy sphere (poison) package - Variable: Individuals trained in the Guild Training tradition gain either the Fencing sphere or…",
+   "md": "While many combatants learn their arts in courtyards, dojos, or monasteries, those who learn through criminal guilds tend to have many masters, none more cruel and informative than experience. Whether their skills are assembled through observing more experienced thieves and thugs, or beaten into them by uncaring assassins who care more for their guild’s reputation than the well-being of its members, the guild trained who survive their training are invariably deadly, fast, and cunning.\n\n**Bonus Talents:**\n\n- **Equipment:** Finesse Fighting, Rogue Weapon Training\n- **Alchemy sphere** (poison) package\n- **Variable:** Individuals trained in the Guild Training tradition gain either the Fencing sphere or the Duelist sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Finesse Fighting"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Rogue Weapon Training"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Alchemy"
+    },
+    {
+     "type": "package",
+     "sphere": "Alchemy",
+     "name": "(poison) package"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Individuals trained in the Guild Training tradition gain either the Fencing sphere or the Duelist sphere.",
+     "options": [
+      {
+       "label": "The Fencing sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Fencing"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "The Duelist sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Duelist"
+        }
+       ],
+       "picks": []
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/hacker",
+   "name": "Hacker",
+   "url": "Spheres-Of-Might/Martial-Traditions#hacker",
+   "summary": "Bonus Talents: - Equipment: Techmaniac, Toolkit Training - Tech sphere: Remote Control - Bonus Feat: Remote Hacking - Variable: Hackers gain a talent from the Tech sphere, or the Trap sphere as a…",
+   "md": "The hacker fulfills a very underhanded, but vital role in controlling their enemies' technology.\n\n**Bonus Talents:**\n\n- **Equipment:** Techmaniac, Toolkit Training\n- **Tech sphere:** Remote Control\n- **Bonus Feat:** Remote Hacking\n- **Variable:** Hackers gain a talent from the Tech sphere, or the Trap sphere as a bonus talent.\n- **Drawbacks:** Unsecured",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Techmaniac"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Toolkit Training"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Tech"
+    },
+    {
+     "type": "talent",
+     "sphere": "Tech",
+     "name": "Remote Control"
+    },
+    {
+     "type": "feat",
+     "name": "Remote Hacking"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Hackers gain a talent from the Tech sphere, or the Trap sphere as a bonus talent.",
+     "options": [
+      {
+       "label": "A talent from the Tech sphere",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Tech"
+         ]
+        }
+       ]
+      },
+      {
+       "label": "The Trap sphere as a bonus talent",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Trap"
+        }
+       ],
+       "picks": []
+      }
+     ]
+    }
+   ],
+   "notes": [
+    "Drawback: Unsecured"
+   ]
+  },
+  {
+   "id": "tradition/heavy-armsman",
+   "name": "Heavy Armsman",
+   "url": "Spheres-Of-Might/Martial-Traditions#heavy-armsman",
+   "summary": "Bonus Talents: - Equipment: Dwarven Heritage, Armor Training - Berserker sphere - Variable: Individuals trained in the Heavy Armsman tradition gain one Equipment or Berserker talent of their choice.",
+   "md": "A heavy armsman specializes in using hammers, axes, and other large weapons to bring down even larger foes.\n\n**Bonus Talents:**\n\n- **Equipment:** Dwarven Heritage, Armor Training\n- **Berserker sphere**\n- **Variable:** Individuals trained in the Heavy Armsman tradition gain one Equipment or Berserker talent of their choice.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Dwarven Heritage"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Armor Training"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Berserker"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Individuals trained in the Heavy Armsman tradition gain one Equipment or Berserker talent of their choice.",
+     "options": [
+      {
+       "label": "One Equipment or Berserker talent of their choice",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Equipment",
+          "Berserker"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/highlander",
+   "name": "Highlander",
+   "url": "Spheres-Of-Might/Martial-Traditions#highlander",
+   "summary": "Highlanders are the inhabitants or soldiers who fight for or on behalf of the highlands, a cold, wet, and mountainous terrain.",
+   "md": "Highlanders are the inhabitants or soldiers who fight for or on behalf of the highlands, a cold, wet, and mountainous terrain. Well adapted to the climate, they make for decent adventurers, being trained in a variety of weapons, which they often dual wield.\n\n- **Equipment:** Gallowglass Training\n- **Duelist sphere**\n- **Variable:** Dual Wielding or Scout sphere, and one additional talent from the chosen sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Gallowglass Training"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Duelist"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Dual Wielding or Scout sphere, and one additional talent from the chosen sphere.",
+     "options": [
+      {
+       "label": "Dual Wielding sphere and one Dual Wielding talent",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Dual Wielding"
+        }
+       ],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Dual Wielding"
+         ]
+        }
+       ]
+      },
+      {
+       "label": "Scout sphere and one Scout talent",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Scout"
+        }
+       ],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Scout"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/imperialist",
+   "name": "Imperialist",
+   "url": "Spheres-Of-Might/Martial-Traditions#imperialist",
+   "summary": "Imperialists are the soldiers who fight for or on behalf of the empire.",
+   "md": "Imperialists are the soldiers who fight for or on behalf of the empire. Well trained, and equipped for the part, they make for decent adventurers, being trained in the tools of war.\n\n- **Equipment:** Firearm Proficiency, Knightly Training\n- **Duelist sphere**\n- **Variable:** Beastmastery (ride) package or Warleader sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Firearm Proficiency"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Knightly Training"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Duelist"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Beastmastery (ride) package or Warleader sphere.",
+     "options": [
+      {
+       "label": "Beastmastery (ride) package",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Beastmastery",
+         "note": "(ride) package"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "Warleader sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Warleader"
+        }
+       ],
+       "picks": []
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/iron-breaker-style",
+   "name": "Iron Breaker Style",
+   "url": "Spheres-Of-Might/Martial-Traditions#iron-breaker-style",
+   "summary": "- Open Hand sphere - Berserker sphere, Greater Sunder - Variable: Individuals trained in the Iron Breaker Style tradition gain either the Unarmored Training talent from the Equipment sphere or a…",
+   "md": "Eschewing weapons and armor as impediments on the path to self-perfection, students of the iron breaker style learn techniques to harden their bodies into living weapons.\n\n- **Open Hand sphere**\n- **Berserker sphere**, Greater Sunder\n- **Variable:** Individuals trained in the Iron Breaker Style tradition gain either the Unarmored Training talent from the Equipment sphere or a talent from either the Berserker or Open Hand sphere as a bonus talent.",
+   "grants": [
+    {
+     "type": "sphere",
+     "sphere": "Open Hand"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Berserker"
+    },
+    {
+     "type": "talent",
+     "sphere": "Berserker",
+     "name": "Greater Sunder"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Individuals trained in the Iron Breaker Style tradition gain either the Unarmored Training talent from the Equipment sphere or a talent from either the Berserker or Open Hand sphere as a bonus talent.",
+     "options": [
+      {
+       "label": "The Unarmored Training talent from the Equipment sphere",
+       "grants": [
+        {
+         "type": "talent",
+         "sphere": "Equipment",
+         "name": "Unarmored Training"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "A talent from either the Berserker or Open Hand sphere as a bonus talent",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Berserker",
+          "Open Hand"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/janjaweed",
+   "name": "Janjaweed",
+   "url": "Spheres-Of-Might/Martial-Traditions#janjaweed",
+   "summary": "A man with a horse and a gun; those who possess this martial tradition generally focus in either mounted combat or with gunmanship.",
+   "md": "A man with a horse and a gun; those who possess this martial tradition generally focus in either mounted combat or with gunmanship.\n\n- **Beastmastery sphere** (ride) package\n- **Equipment sphere** (Firearm Proficiency)\n- **Variable:** Janjaweed gain either the Barrage and Sniper spheres, or two talents of their choice from the Beastmastery sphere.",
+   "grants": [
+    {
+     "type": "sphere",
+     "sphere": "Beastmastery"
+    },
+    {
+     "type": "package",
+     "sphere": "Beastmastery",
+     "name": "(ride) package"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Equipment"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Firearm Proficiency"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Janjaweed gain either the Barrage and Sniper spheres, or two talents of their choice from the Beastmastery sphere.",
+     "options": [
+      {
+       "label": "The Barrage and Sniper spheres",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Barrage"
+        },
+        {
+         "type": "sphere",
+         "sphere": "Sniper"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "Two talents of their choice from the Beastmastery sphere",
+       "grants": [],
+       "picks": [
+        {
+         "count": 2,
+         "from": [
+          "Beastmastery"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/knightly-arts",
+   "name": "Knightly Arts",
+   "url": "Spheres-Of-Might/Martial-Traditions#knightly-arts",
+   "summary": "Bonus Talents: - Equipment: Armor Training, Knightly Training, Shield Training - Variable: Individuals trained in the Knightly Arts tradition gain either the Beastmastery sphere (ride) package, the…",
+   "md": "Training in the knightly arts includes learning how to wear and maneuver in chainmail, full plate, and other armor designed for warriors who fight in the vanguard, as well as learning how to wield weapons suitable for such combat. In addition, most knights are trained in horsemanship and the art of leadership.\n\n**Bonus Talents:**\n\n- **Equipment:** Armor Training, Knightly Training, Shield Training\n- **Variable:** Individuals trained in the Knightly Arts tradition gain either the Beastmastery sphere (ride) package, the Warleader sphere, or the Shield sphere as a bonus sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Armor Training"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Knightly Training"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Shield Training"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Individuals trained in the Knightly Arts tradition gain either the Beastmastery sphere (ride) package, the Warleader sphere, or the Shield sphere as a bonus sphere.",
+     "options": [
+      {
+       "label": "The Beastmastery sphere (ride) package",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Beastmastery",
+         "note": "(ride) package"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "The Warleader sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Warleader"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "The Shield sphere as a bonus sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Shield"
+        }
+       ],
+       "picks": []
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/liturgist",
+   "name": "Liturgist",
+   "url": "Spheres-Of-Might/Martial-Traditions#liturgist",
+   "summary": "Bonus Talents - Equipment: Custom Training (one of the selected weapons must be a favored weapon of your deity or philosophy) - Leadership Sphere ((follower) package) - Variable: Liturgists gain…",
+   "md": "Liturgist are usually ceremonial or religious servants trained in performing rites and maintaining the morale of the citizenry through public speaking and worship.\n\n**Bonus Talents**\n\n- **Equipment:** Custom Training (one of the selected weapons must be a favored weapon of your deity or philosophy)\n- **Leadership Sphere** ((follower) package)\n- **Variable:** Liturgists gain either the Base Of Operations talent from the Leadership sphere, or one additional talent of their choice from the Equipment sphere.\n- **Bonus Feat:** Basic Magical Training (selecting either the Death, Fate, or Life sphere)",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Custom Training"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Leadership"
+    },
+    {
+     "type": "package",
+     "sphere": "Leadership",
+     "name": "(follower) package"
+    },
+    {
+     "type": "feat",
+     "name": "Basic Magical Training (selecting either the Death, Fate, or Life sphere)"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Liturgists gain either the Base Of Operations talent from the Leadership sphere, or one additional talent of their choice from the Equipment sphere.",
+     "options": [
+      {
+       "label": "The Base Of Operations talent from the Leadership sphere",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Leadership"
+         ]
+        }
+       ]
+      },
+      {
+       "label": "One additional talent of their choice from the Equipment sphere",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Equipment"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/mechanic",
+   "name": "Mechanic",
+   "url": "Spheres-Of-Might/Martial-Traditions#mechanic",
+   "summary": "Bonus Talents: - Equipment: Expert Reloading - Trap sphere - Variable: Mechanics gain either Firearm Proficiency or Mechanical Training from the Equipment sphere.",
+   "md": "A mechanic is an engineer or craftsman adept at the working of machines and other complex systems. While not all engineers will go adventuring, those who do find their knowledge can be remarkably valuable to their allies.\n\n**Bonus Talents:**\n\n- **Equipment:** Expert Reloading\n- **Trap sphere**\n- **Variable:** Mechanics gain either Firearm Proficiency or Mechanical Training from the Equipment sphere.\n- **Variable:** Mechanics gain either the Barrage sphere or the Sniper sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Expert Reloading"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Trap"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Mechanics gain either Firearm Proficiency or Mechanical Training from the Equipment sphere.",
+     "options": [
+      {
+       "label": "Firearm Proficiency",
+       "grants": [
+        {
+         "type": "talent",
+         "sphere": "Equipment",
+         "name": "Firearm Proficiency"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "Mechanical Training from the Equipment sphere",
+       "grants": [
+        {
+         "type": "talent",
+         "sphere": "Equipment",
+         "name": "Mechanical Training"
+        }
+       ],
+       "picks": []
+      }
+     ]
+    },
+    {
+     "text": "Mechanics gain either the Barrage sphere or the Sniper sphere.",
+     "options": [
+      {
+       "label": "The Barrage sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Barrage"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "The Sniper sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Sniper"
+        }
+       ],
+       "picks": []
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/militia",
+   "name": "Militia",
+   "url": "Spheres-Of-Might/Martial-Traditions#militia",
+   "summary": "Bonus Talents: - Equipment: Peasant Training - Beastmastery sphere (handle animal) package - Scout sphere - Variable: Individuals with militia training gain an Equipment talent of their choice.",
+   "md": "Militias often rise in communities without the benefit of a formal military, where peasants of all stripes might one day have to take up arms in defense of their homes. While few militiamen have the benefits of formal war training, many are skilled at hunting, tracking, and handling animals, which can be quite handy in times of war.\n\n**Bonus Talents:**\n\n- **Equipment:** Peasant Training\n- **Beastmastery sphere** (handle animal) package\n- **Scout sphere**\n- **Variable:** Individuals with militia training gain an Equipment talent of their choice.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Peasant Training"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Beastmastery"
+    },
+    {
+     "type": "package",
+     "sphere": "Beastmastery",
+     "name": "(handle animal) package"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Scout"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Individuals with militia training gain an Equipment talent of their choice.",
+     "options": [
+      {
+       "label": "An Equipment talent of their choice",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Equipment"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/mixed-duelist",
+   "name": "Mixed Duelist",
+   "url": "Spheres-Of-Might/Martial-Traditions#mixed-duelist",
+   "summary": "A popular tradition among reapers, mixed duelists use elegant melee weapons and pistols simultaneously to threaten their foes regardless of positioning.",
+   "md": "A popular tradition among reapers, mixed duelists use elegant melee weapons and pistols simultaneously to threaten their foes regardless of positioning.\n\n**Bonus Talents:**\n\n- **Equipment:** Duelist Training\n- **Dual Wielding sphere**, Impossible Reload, Mixed Assault",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Duelist Training"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Dual Wielding"
+    },
+    {
+     "type": "talent",
+     "sphere": "Dual Wielding",
+     "name": "Impossible Reload"
+    },
+    {
+     "type": "talent",
+     "sphere": "Dual Wielding",
+     "name": "Mixed Assault"
+    }
+   ],
+   "choices": [],
+   "notes": []
+  },
+  {
+   "id": "tradition/monastic-path",
+   "name": "Monastic Path",
+   "url": "Spheres-Of-Might/Martial-Traditions#monastic-path",
+   "summary": "Bonus Talents: - Equipment: Monk Weapon Training, Staff Mastery - Open Hand sphere - Variable: Individuals trained in the Monastic Path tradition gain either the Athletics sphere or the Dual Wielding…",
+   "md": "Those who would seek enlightenment through contemplation hone their bodies and minds alike. Followers of the monastic path train with a wide variety of challenging weapons, learning truths in every new combat technique and finding greater mysteries as they stretch their boundaries.\n\n**Bonus Talents:**\n\n- **Equipment:** Monk Weapon Training, Staff Mastery\n- **Open Hand sphere**\n- **Variable:** Individuals trained in the Monastic Path tradition gain either the Athletics sphere or the Dual Wielding sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Monk Weapon Training"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Staff Mastery"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Open Hand"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Individuals trained in the Monastic Path tradition gain either the Athletics sphere or the Dual Wielding sphere.",
+     "options": [
+      {
+       "label": "The Athletics sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Athletics"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "The Dual Wielding sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Dual Wielding"
+        }
+       ],
+       "picks": []
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/ninjutsu",
+   "name": "Ninjutsu",
+   "url": "Spheres-Of-Might/Martial-Traditions#ninjutsu",
+   "summary": "Bonus Talents: - Equipment: Finesse Fighting, Monk Weapon Training - Scoundrel sphere - Variable: Individuals trained in the Ninjutsu tradition gain either the Scout sphere or the Trap sphere.",
+   "md": "Shadowy warriors learn underhanded combat styles, using everything at their disposal to level the playing field against superior forces. Those trained in ninjutsu combine grace with subterfuge, confident in the knowledge that disrupting their opponents shall defeat them even before blood is shed.\n\n**Bonus Talents:**\n\n- **Equipment:** Finesse Fighting, Monk Weapon Training\n- **Scoundrel sphere**\n- **Variable:** Individuals trained in the Ninjutsu tradition gain either the Scout sphere or the Trap sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Finesse Fighting"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Monk Weapon Training"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Scoundrel"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Individuals trained in the Ninjutsu tradition gain either the Scout sphere or the Trap sphere.",
+     "options": [
+      {
+       "label": "The Scout sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Scout"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "The Trap sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Trap"
+        }
+       ],
+       "picks": []
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/noble",
+   "name": "Noble",
+   "url": "Spheres-Of-Might/Martial-Traditions#noble",
+   "summary": "Bonus Talents - Equipment: Duelist Training, Finesse Fighting - Leadership sphere (follower) package - Variable: Nobles gain a bonus talent from either the Duelist or Leadership spheres.",
+   "md": "Born to privilege and gifted with the time to pursue the art of personal combat.\n\n**Bonus Talents**\n\n- **Equipment:** Duelist Training, Finesse Fighting\n- **Leadership sphere** (follower) package\n- **Variable:** Nobles gain a bonus talent from either the Duelist or Leadership spheres.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Duelist Training"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Finesse Fighting"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Leadership"
+    },
+    {
+     "type": "package",
+     "sphere": "Leadership",
+     "name": "(follower) package"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Nobles gain a bonus talent from either the Duelist or Leadership spheres.",
+     "options": [
+      {
+       "label": "A bonus talent from either the Duelist or Leadership spheres",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Duelist",
+          "Leadership"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/phalanx-soldier",
+   "name": "Phalanx Soldier",
+   "url": "Spheres-Of-Might/Martial-Traditions#phalanx-soldier",
+   "summary": "Bonus Talents: - Equipment: Shield Training, Spear Dancer - Shield sphere - Variable: Phalanx soldiers gain either Finesse Fighting from the Equipment sphere or a talent of their choice from the…",
+   "md": "The phalanx is a group of soldiers who combine spears and shields to create an impenetrable wall of death. Even when not flanked by their brothers-in-arms, a phalanx soldier is still a deadly force on any battlefield.\n\n**Bonus Talents:**\n\n- **Equipment:** Shield Training, Spear Dancer\n- **Shield sphere**\n- **Variable:** Phalanx soldiers gain either Finesse Fighting from the Equipment sphere or a talent of their choice from the Shield sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Shield Training"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Spear Dancer"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Shield"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Phalanx soldiers gain either Finesse Fighting from the Equipment sphere or a talent of their choice from the Shield sphere.",
+     "options": [
+      {
+       "label": "Finesse Fighting from the Equipment sphere",
+       "grants": [
+        {
+         "type": "talent",
+         "sphere": "Equipment",
+         "name": "Finesse Fighting"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "A talent of their choice from the Shield sphere",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Shield"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/pikeman",
+   "name": "Pikeman",
+   "url": "Spheres-Of-Might/Martial-Traditions#pikeman",
+   "summary": "Bonus Talents: - Equipment: Pikeman Training, Polearm Mastery - Lancer sphere - Variable: Pikemen gain either the Guardian sphere or a talent of their choice from the Lancer sphere.",
+   "md": "Pikemen are soldiers who specialize in using polearms to take down enemy cavalry and to keep enemies at a safe distance.\n\n**Bonus Talents:**\n\n- **Equipment:** Pikeman Training, Polearm Mastery\n- **Lancer sphere**\n- **Variable:** Pikemen gain either the Guardian sphere or a talent of their choice from the Lancer sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Pikeman Training"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Polearm Mastery"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Lancer"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Pikemen gain either the Guardian sphere or a talent of their choice from the Lancer sphere.",
+     "options": [
+      {
+       "label": "The Guardian sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Guardian"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "A talent of their choice from the Lancer sphere",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Lancer"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/pit-fighter",
+   "name": "Pit Fighter",
+   "url": "Spheres-Of-Might/Martial-Traditions#pit-fighter",
+   "summary": "Bonus Talents: - Equipment: Unarmed Training - Boxing sphere - Gladiator sphere - Variable: Pit fighters gain one talent of their choice from either the Boxing sphere or the Gladiator sphere.",
+   "md": "Like the gladiator or professional wrestler, the pit fighter puts on shows for money. However, unlike those other prize fighters, in the pits there are few grand traditions and even fewer rules; whoever’s alive at the end of the match is the winner.\n\n**Bonus Talents:**\n\n- **Equipment:** Unarmed Training\n- **Boxing sphere**\n- **Gladiator sphere**\n- **Variable:** Pit fighters gain one talent of their choice from either the Boxing sphere or the Gladiator sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Unarmed Training"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Boxing"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Gladiator"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Pit fighters gain one talent of their choice from either the Boxing sphere or the Gladiator sphere.",
+     "options": [
+      {
+       "label": "One talent of their choice from either the Boxing sphere or the Gladiator sphere",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Boxing",
+          "Gladiator"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/pirate",
+   "name": "Pirate",
+   "url": "Spheres-Of-Might/Martial-Traditions#pirate",
+   "summary": "Bonus Talents: - Equipment: Pirate Training, Unarmored Training - Fencing sphere - Variable: Pirates gain either the Duelist sphere or the Athletics sphere.",
+   "md": "Pirates learn to fight on the decks of ships, where one must be both fast and light in order to avoid being shot or drowned.\n\n**Bonus Talents:**\n\n- **Equipment:** Pirate Training, Unarmored Training\n- **Fencing sphere**\n- **Variable:** Pirates gain either the Duelist sphere or the Athletics sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Pirate Training"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Unarmored Training"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Fencing"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Pirates gain either the Duelist sphere or the Athletics sphere.",
+     "options": [
+      {
+       "label": "The Duelist sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Duelist"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "The Athletics sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Athletics"
+        }
+       ],
+       "picks": []
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/professional-wrestler",
+   "name": "Professional Wrestler",
+   "url": "Spheres-Of-Might/Martial-Traditions#professional-wrestler",
+   "summary": "Bonus Talents: - Equipment: Unarmored Training - Gladiator sphere - Wrestling sphere - Variable: Professional wrestlers gain one talent of their choice from either the Wrestling sphere or the…",
+   "md": "Professional wrestlers are equal parts showman and combatant. Whether using pain-wracking joint locks or high-flying aerial maneuvers, these skilled individuals revel in their own physical might, relishing the applause that follows a particularly daring stunt.\n\n**Bonus Talents:**\n\n- **Equipment:** Unarmored Training\n- **Gladiator sphere**\n- **Wrestling sphere**\n- **Variable:** Professional wrestlers gain one talent of their choice from either the Wrestling sphere or the Gladiator sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Unarmored Training"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Gladiator"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Wrestling"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Professional wrestlers gain one talent of their choice from either the Wrestling sphere or the Gladiator sphere.",
+     "options": [
+      {
+       "label": "One talent of their choice from either the Wrestling sphere or the Gladiator sphere",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Wrestling",
+          "Gladiator"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/pursuer",
+   "name": "Pursuer",
+   "url": "Spheres-Of-Might/Martial-Traditions#pursuer",
+   "summary": "Bonus Talents: - Duelist Sphere - Scout Sphere - Variable: A pursuer gains one (discipline) talent of their choice from the Equipment sphere.",
+   "md": "Bounty hunters, trackers, and ruthless assassins alike, a pursuer is a malicious and cruel combatant, harrying their foes with bleeding cuts and carefully placed strikes.\n\n**Bonus Talents:**\n\n- **Duelist Sphere**\n- **Scout Sphere**\n- **Variable:** A pursuer gains one (discipline) talent of their choice from the Equipment sphere.\n- **Variable:** A pursuer gains a talent of their choice from the Duelist or Scout sphere.",
+   "grants": [
+    {
+     "type": "sphere",
+     "sphere": "Duelist"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Scout"
+    }
+   ],
+   "choices": [
+    {
+     "text": "A pursuer gains one (discipline) talent of their choice from the Equipment sphere.",
+     "options": [
+      {
+       "label": "One (discipline) talent of their choice from the Equipment sphere",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Equipment"
+         ],
+         "filter": "discipline"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "text": "A pursuer gains a talent of their choice from the Duelist or Scout sphere.",
+     "options": [
+      {
+       "label": "A talent of their choice from the Duelist or Scout sphere",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Duelist",
+          "Scout"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/retiarius",
+   "name": "Retiarius",
+   "url": "Spheres-Of-Might/Martial-Traditions#retiarius",
+   "summary": "Bonus Talents: - Equipment: Gladiator Training, Net Master - Gladiator sphere - Variable: Individuals trained in the Retiarius tradition gain either the Duelist sphere or the Lancer sphere.",
+   "md": "This specialized gladiator style typically combines net in order to disable foes before dispatching them with a single stab. While it was born in the arena, the tradition proves effective on the battlefield.\n\n**Bonus Talents:**\n\n- **Equipment:** Gladiator Training, Net Master\n- **Gladiator sphere**\n- **Variable:** Individuals trained in the Retiarius tradition gain either the Duelist sphere or the Lancer sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Gladiator Training"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Net Master"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Gladiator"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Individuals trained in the Retiarius tradition gain either the Duelist sphere or the Lancer sphere.",
+     "options": [
+      {
+       "label": "The Duelist sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Duelist"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "The Lancer sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Lancer"
+        }
+       ],
+       "picks": []
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/rogue-gunner",
+   "name": "Rogue Gunner",
+   "url": "Spheres-Of-Might/Martial-Traditions#rogue-gunner",
+   "summary": "Bonus Talents: - Equipment: Firearm Proficiency, Expert Reloading - Scoundrel sphere - Variable: Individuals trained in the Rogue Gunner gain either the Athletics sphere or a Scoundrel talent of…",
+   "md": "Aware of the dangers of living on the streets, rogue gunners travel quick, fire fast, and leave anyone who would challenge them in a pool of blood.\n\n**Bonus Talents:**\n\n- **Equipment:** Firearm Proficiency, Expert Reloading\n- **Scoundrel sphere**\n- **Variable:** Individuals trained in the Rogue Gunner gain either the Athletics sphere or a Scoundrel talent of their choice.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Firearm Proficiency"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Expert Reloading"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Scoundrel"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Individuals trained in the Rogue Gunner gain either the Athletics sphere or a Scoundrel talent of their choice.",
+     "options": [
+      {
+       "label": "The Athletics sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Athletics"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "A Scoundrel talent of their choice",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Scoundrel"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/ruin-delver",
+   "name": "Ruin Delver",
+   "url": "Spheres-Of-Might/Martial-Traditions#ruin-delver",
+   "summary": "Bonus Talents: - Equipment: Toolkit Training - Athletics sphere (Climb) package, Rope Swing - Variable: Ruin delvers gain a talent of their choice from the Equipment sphere.",
+   "md": "Ruin delving requires quick wits and even quicker reflexes. With a backpack full of gear and a half-baked plan, ruin delvers live by the seat of their pants as they explore the leavings of past civilizations looking for what knowledge and artifacts they can recover.\n\n**Bonus Talents:**\n\n- **Equipment:** Toolkit Training\n- **Athletics sphere** (Climb) package, **Rope Swing**\n- **Variable:** Ruin delvers gain a talent of their choice from the Equipment sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Toolkit Training"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Athletics"
+    },
+    {
+     "type": "package",
+     "sphere": "Athletics",
+     "name": "(climb) package"
+    },
+    {
+     "type": "talent",
+     "sphere": "Athletics",
+     "name": "Rope Swing"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Ruin delvers gain a talent of their choice from the Equipment sphere.",
+     "options": [
+      {
+       "label": "A talent of their choice from the Equipment sphere",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Equipment"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/sergeant",
+   "name": "Sergeant",
+   "url": "Spheres-Of-Might/Martial-Traditions#sergeant",
+   "summary": "Bonus Talents - Leadership sphere (squad leader drawback), (cohort) package, Squad - Warleader sphere - Variable: Sergeants gain two talents from the Equipment sphere.",
+   "md": "Trained in leading a group of men into battle, sergeants are adept at commanding their men to act as a unit.\n\n**Bonus Talents**\n\n- **Leadership sphere** (squad leader drawback), (cohort) package, Squad\n- **Warleader sphere**\n- **Variable:** Sergeants gain two talents from the Equipment sphere.",
+   "grants": [
+    {
+     "type": "sphere",
+     "sphere": "Leadership"
+    },
+    {
+     "type": "package",
+     "sphere": "Leadership",
+     "name": "(cohort) package"
+    },
+    {
+     "type": "drawback",
+     "sphere": "Leadership",
+     "name": "squad leader"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Warleader"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Sergeants gain two talents from the Equipment sphere.",
+     "options": [
+      {
+       "label": "Two talents from the Equipment sphere",
+       "grants": [],
+       "picks": [
+        {
+         "count": 2,
+         "from": [
+          "Equipment"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": [
+    "Leadership sphere also lists: Squad"
+   ]
+  },
+  {
+   "id": "tradition/shield-master",
+   "name": "Shield Master",
+   "url": "Spheres-Of-Might/Martial-Traditions#shield-master",
+   "summary": "Bonus Talents: - Equipment: Shield Training - Shield sphere - Variable: Shield masters gain either the Brute sphere or a talent of their choice from the Equipment sphere.",
+   "md": "Shield masters are expert defenders, relying on their shields to defend both themselves and their allies. While some shield masters couple their shields with traditional weapons, others focus so exclusively on their shields that they become as much a weapon as a tool of defense, instead relying on brute force to knock their enemies around the battlefield and keep their allies out of danger.\n\n**Bonus Talents:**\n\n- **Equipment:** Shield Training\n- **Shield sphere**\n- **Variable:** Shield masters gain either the Brute sphere or a talent of their choice from the Equipment sphere.\n- **Variable:** Shield masters gain a talent of their choice from the Shield sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Shield Training"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Shield"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Shield masters gain either the Brute sphere or a talent of their choice from the Equipment sphere.",
+     "options": [
+      {
+       "label": "The Brute sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Brute"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "A talent of their choice from the Equipment sphere",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Equipment"
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "text": "Shield masters gain a talent of their choice from the Shield sphere.",
+     "options": [
+      {
+       "label": "A talent of their choice from the Shield sphere",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Shield"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/staff-master",
+   "name": "Staff Master",
+   "url": "Spheres-Of-Might/Martial-Traditions#staff-master",
+   "summary": "Whether they are magicians using magic staves as bludgeons or spearmen of exquisite skill, for some all that’s needed is speed and a stick to overcome most foes.",
+   "md": "Whether they are magicians using magic staves as bludgeons or spearmen of exquisite skill, for some all that’s needed is speed and a stick to overcome most foes.\n\n**Bonus Talents:**\n\n- **Equipment:** Finesse Fighting, Spear Dancer, Staff Mastery, Unarmored Training",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Finesse Fighting"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Spear Dancer"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Staff Mastery"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Unarmored Training"
+    }
+   ],
+   "choices": [],
+   "notes": []
+  },
+  {
+   "id": "tradition/steppe-rider",
+   "name": "Steppe Rider",
+   "url": "Spheres-Of-Might/Martial-Traditions#steppe-rider",
+   "summary": "Bonus Talents: - Equipment: Outrider Training, Shortbow Mastery - Beastmastery sphere (ride) package - Variable: Steppe riders gain either the Barrage sphere or the Sniper sphere.",
+   "md": "Training on the harsh steppes breeds talented warriors. Whether fierce raiders or guarded nomads, steppe riders are trained in horseback archery, relying on precision and mobility in place of bulky armor or heavy melee weapons.\n\n**Bonus Talents:**\n\n- **Equipment:** Outrider Training, Shortbow Mastery\n- **Beastmastery sphere** (ride) package\n- **Variable:** Steppe riders gain either the Barrage sphere or the Sniper sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Outrider Training"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Shortbow Mastery"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Beastmastery"
+    },
+    {
+     "type": "package",
+     "sphere": "Beastmastery",
+     "name": "(ride) package"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Steppe riders gain either the Barrage sphere or the Sniper sphere.",
+     "options": [
+      {
+       "label": "The Barrage sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Barrage"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "The Sniper sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Sniper"
+        }
+       ],
+       "picks": []
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/stone-thrower",
+   "name": "Stone Thrower",
+   "url": "Spheres-Of-Might/Martial-Traditions#stone-thrower",
+   "summary": "Bonus Talents: - Equipment: Halfling Heritage, Sling Combatant - Barrage sphere - Variable: Stone throwers gain a talent of their choice from the Barrage sphere.",
+   "md": "Masters of the humble sling learn that versatility is key to survival, and a skilled stone thrower quickly learns to use their slings in almost any situation, making them deadly at any range.\n\n**Bonus Talents:**\n\n- **Equipment:** Halfling Heritage, Sling Combatant\n- **Barrage sphere**\n- **Variable:** Stone throwers gain a talent of their choice from the Barrage sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Halfling Heritage"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Sling Combatant"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Barrage"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Stone throwers gain a talent of their choice from the Barrage sphere.",
+     "options": [
+      {
+       "label": "A talent of their choice from the Barrage sphere",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Barrage"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/street-fighter",
+   "name": "Street Fighter",
+   "url": "Spheres-Of-Might/Martial-Traditions#street-fighter",
+   "summary": "Bonus Talents: - Equipment: Unarmed Training - Brute sphere - Scoundrel sphere - Variable: Street fighters gain a talent of their choice from either the Brute sphere or the Scoundrel sphere.",
+   "md": "Street fighters learn combat in fights with no rules; where fakeouts and a handful of sand are all that stand between winning and losing.\n\n**Bonus Talents:**\n\n- **Equipment:** Unarmed Training\n- **Brute sphere**\n- **Scoundrel sphere**\n- **Variable:** Street fighters gain a talent of their choice from either the Brute sphere or the Scoundrel sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Unarmed Training"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Brute"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Scoundrel"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Street fighters gain a talent of their choice from either the Brute sphere or the Scoundrel sphere.",
+     "options": [
+      {
+       "label": "A talent of their choice from either the Brute sphere or the Scoundrel sphere",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Brute",
+          "Scoundrel"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/tattooed-warrior",
+   "name": "Tattooed Warrior",
+   "url": "Spheres-Of-Might/Martial-Traditions#tattooed-warrior",
+   "summary": "Bonus Talents: - Equipment: Unarmed Training, Unarmored Training - Bonus Feats: Dragon’s Tattoos, Zodiac Tattoos - Special: Tattooed warriors gain 1 bonus skill point that must be spent on Craft…",
+   "md": "Tattooed warriors turn their bodies into weapons through the use of magic symbols engraved onto their very flesh.\n\n**Bonus Talents:**\n\n- **Equipment:** Unarmed Training, Unarmored Training\n- **Bonus Feats:** Dragon’s Tattoos, Zodiac Tattoos\n- **Special:** Tattooed warriors gain 1 bonus skill point that must be spent on Craft (tattoos) each time they gain a level in any class.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Unarmed Training"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Unarmored Training"
+    },
+    {
+     "type": "feat",
+     "name": "Dragon’s Tattoos"
+    },
+    {
+     "type": "feat",
+     "name": "Zodiac Tattoos"
+    }
+   ],
+   "choices": [],
+   "notes": [
+    "Special: Tattooed warriors gain 1 bonus skill point that must be spent on Craft (tattoos) each time they gain a level in any class."
+   ]
+  },
+  {
+   "id": "tradition/thief",
+   "name": "Thief",
+   "url": "Spheres-Of-Might/Martial-Traditions#thief",
+   "summary": "Thieves avoid fair fights whenever possible.",
+   "md": "Thieves avoid fair fights whenever possible. Their favorite tactic is to take their opponents unaware, but barring that, a dirty trick or a well-placed feint will let them end the fight quickly.\n\n**Bonus Talents:**\n\n- **Equipment:** Rogue Weapon Training\n- **Scoundrel sphere**\n- **Fencing sphere**\n- **Variable:** Thieves gain either an Equipment talent of their choice, or a talent from the Scoundrel or Fencing spheres.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Rogue Weapon Training"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Scoundrel"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Fencing"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Thieves gain either an Equipment talent of their choice, or a talent from the Scoundrel or Fencing spheres.",
+     "options": [
+      {
+       "label": "An Equipment talent of their choice",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Equipment"
+         ]
+        }
+       ]
+      },
+      {
+       "label": "A talent from the Scoundrel or Fencing spheres",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Scoundrel",
+          "Fencing"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/tempest-dancer",
+   "name": "Tempest Dancer",
+   "url": "Spheres-Of-Might/Martial-Traditions#tempest-dancer",
+   "summary": "Bonus Talents: - Equipment: Double Weapon Training - Dual Wielding sphere - Variable: Tempest dancers gain either the Armor Training, Unarmored Training, or Finesse Fighting from the Equipment sphere.",
+   "md": "Wielding double-bladed weapons that others find impossible to master, tempest dancers are known for their ability to carve through through enemy ranks, their fluid movements beguiling even the most observant opponents.\n**Bonus Talents:**\n\n- **Equipment:** Double Weapon Training\n- **Dual Wielding sphere**\n- **Variable:** Tempest dancers gain either the Armor Training, Unarmored Training, or Finesse Fighting from the Equipment sphere.\n- **Variable:** Tempest Dancers gain a talent of their choice from the Dual Wielding sphere",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Double Weapon Training"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Dual Wielding"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Tempest dancers gain either the Armor Training, Unarmored Training, or Finesse Fighting from the Equipment sphere.",
+     "options": [
+      {
+       "label": "The Armor Training",
+       "grants": [
+        {
+         "type": "talent",
+         "sphere": "Equipment",
+         "name": "Armor Training"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "Unarmored Training",
+       "grants": [
+        {
+         "type": "talent",
+         "sphere": "Equipment",
+         "name": "Unarmored Training"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "Finesse Fighting from the Equipment sphere",
+       "grants": [
+        {
+         "type": "talent",
+         "sphere": "Equipment",
+         "name": "Finesse Fighting"
+        }
+       ],
+       "picks": []
+      }
+     ]
+    },
+    {
+     "text": "Tempest Dancers gain a talent of their choice from the Dual Wielding sphere",
+     "options": [
+      {
+       "label": "A talent of their choice from the Dual Wielding sphere",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Dual Wielding"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/wandering-martial-artist",
+   "name": "Wandering Martial Artist",
+   "url": "Spheres-Of-Might/Martial-Traditions#wandering-martial-artist",
+   "summary": "Bonus Talents - Equipment: Force Redirection Technique, Unarmored Training - Variable: Wandering martial artists gain either one (discipline) talent of their choice or the Improved Unarmed Strike…",
+   "md": "Wandering martial artists, also known as youxia, are passionate warriors living on the fringes of society. They exhibit masterful control over their bodies, using diverse combat styles to defeat their foes and leave their mark on the world.\n**Bonus Talents**\n\n- **Equipment:** Force Redirection Technique, Unarmored Training\n- **Variable:** Wandering martial artists gain either one (discipline) talent of their choice or the Improved Unarmed Strike feat as a bonus feat.\n- **Variable:** Wandering martial artists gain either the Athletics sphere or the Gladiator sphere.",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Force Redirection Technique"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Unarmored Training"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Wandering martial artists gain either one (discipline) talent of their choice or the Improved Unarmed Strike feat as a bonus feat.",
+     "options": [
+      {
+       "label": "One (discipline) talent of their choice",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Equipment"
+         ],
+         "filter": "discipline"
+        }
+       ]
+      },
+      {
+       "label": "The Improved Unarmed Strike feat as a bonus feat",
+       "grants": [
+        {
+         "type": "feat",
+         "name": "Improved Unarmed Strike"
+        }
+       ],
+       "picks": []
+      }
+     ]
+    },
+    {
+     "text": "Wandering martial artists gain either the Athletics sphere or the Gladiator sphere.",
+     "options": [
+      {
+       "label": "The Athletics sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Athletics"
+        }
+       ],
+       "picks": []
+      },
+      {
+       "label": "The Gladiator sphere",
+       "grants": [
+        {
+         "type": "sphere",
+         "sphere": "Gladiator"
+        }
+       ],
+       "picks": []
+      }
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "id": "tradition/warden",
+   "name": "Warden",
+   "url": "Spheres-Of-Might/Martial-Traditions#warden",
+   "summary": "These warriors know that defense is the best offense, especially when you have friends to outflank your foes.",
+   "md": "The path of the warden is one of a stalwart protector, often employed as bodyguards or garrisoned soldiers. These warriors know that defense is the best offense, especially when you have friends to outflank your foes.\n\n**Bonus Talents:**\n\n- **Equipment:** Armor Training, Shield Training\n- **Guardian sphere**\n- **Shield sphere**",
+   "grants": [
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Armor Training"
+    },
+    {
+     "type": "talent",
+     "sphere": "Equipment",
+     "name": "Shield Training"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Guardian"
+    },
+    {
+     "type": "sphere",
+     "sphere": "Shield"
+    }
+   ],
+   "choices": [],
+   "notes": []
+  },
+  {
+   "id": "tradition/weapon-master",
+   "name": "Weapon Master",
+   "url": "Spheres-Of-Might/Martial-Traditions#weapon-master",
+   "summary": "Bonus Talents: - Equipment: Weapon masters gain two discipline talents of their choice as bonus talents.",
+   "md": "Most warriors learn the art of combat in pursuit of a goal, such as serving in the army or to protect themselves while traveling. For the weapon master, mastery of combat is its own reward, and many will seek out exotic weapons and obscure disciplines simply for the joy of having learned them.\n\n**Bonus Talents:**\n\n- **Equipment:** Weapon masters gain two discipline talents of their choice as bonus talents.\n- **Dual Wielding sphere**\n- **Variable:** Weapon masters gain a talent of their choice from the Dual Wielding sphere.",
+   "grants": [
+    {
+     "type": "sphere",
+     "sphere": "Dual Wielding"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Equipment: Weapon masters gain two discipline talents of their choice as bonus talents",
+     "options": [
+      {
+       "label": "Weapon masters gain two discipline talents of their choice as bonus talents",
+       "grants": [],
+       "picks": [
+        {
+         "count": 2,
+         "from": [
+          "Equipment"
+         ],
+         "filter": "discipline"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "text": "Weapon masters gain a talent of their choice from the Dual Wielding sphere.",
+     "options": [
+      {
+       "label": "A talent of their choice from the Dual Wielding sphere",
+       "grants": [],
+       "picks": [
+        {
+         "count": 1,
+         "from": [
+          "Dual Wielding"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ]
+}

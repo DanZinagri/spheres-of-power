@@ -1082,6 +1082,7 @@ const panels = {
       h("div", { class: "row", style: "margin-top:.75rem" },
         adder,
         h("button", { onclick: () => adder.value && addSphereTalent(adder.value) }, "+ Add sphere"),
+        h("button", { onclick: () => openTraditionPicker() }, "+ Add martial tradition"),
       ),
     ]
   },
@@ -1192,6 +1193,127 @@ function sphereSelect(path) {
     changed(true)
   })
   return el
+}
+
+// ---------- martial traditions ----------
+// compendium/martial-traditions.json: each tradition's bonus talents (base spheres with their
+// packages / drawbacks, named talents, bonus feats) and its choices. "Add martial tradition" walks
+// through the choices, then adds an "Other" feature for the tradition and every talent to its sphere.
+// (Nothing marks a tradition as taken: adding one twice adds its talents twice.)
+const sphereKey = (name) => name.replace(/\s+(\w)/g, (_, c) => c.toUpperCase()).replace(/^./, (c) => c.toLowerCase())
+
+function openTraditionPicker() {
+  const box = h("input", { type: "search", placeholder: "Search martial traditions", "aria-label": "Search martial traditions" })
+  const results = h("div", { class: "picker-results", role: "list" }, h("p", { class: "muted" }, "Loading martial traditions…"))
+  const dlg = openDialog("Add martial tradition",
+    h("p", { class: "muted" }, "Pick a martial tradition; you'll make its choices next."),
+    h("div", { class: "row picker-filters" }, box), results)
+  let all = []
+  const render = () => {
+    const q = box.value.trim().toLowerCase()
+    const hits = all.filter((t) => !q || t.name.toLowerCase().includes(q) || t.md.toLowerCase().includes(q))
+    results.replaceChildren(...hits.map((t) => h("button", { class: "picker-item", role: "listitem", onclick: () => { dlg.done(); openTradition(t) } },
+      h("span", { class: "pi-name" }, t.name),
+      h("span", { class: "pi-sum" }, t.summary),
+      h("span", { class: "pi-pre" }, traditionLine(t)))),
+      hits.length ? null : h("p", { class: "muted" }, all.length ? "No traditions match." : "Couldn't load the martial traditions."))
+  }
+  box.addEventListener("input", render)
+  loadCompendium("martial-traditions.json", { traditions: [] }).then((d) => { all = d.traditions; render() })
+  box.focus()
+}
+
+// one line of what a tradition grants, for the picker list
+function traditionLine(t) {
+  const g = t.grants.map((x) => (x.type === "sphere" ? `${x.sphere} sphere` : x.type === "talent" ? x.name
+    : x.type === "feat" ? `${x.name} (feat)` : `${x.name} (${x.type})`))
+  return [...g, ...t.choices.map(() => "+ a choice")].join(", ")
+}
+
+async function openTradition(t) {
+  const index = await loadCompendium("index.json", [])
+  const talentKinds = new Set(["talent", "advanced talent", "legendary talent", "exceptional talent"])
+  const talentsOf = (sphere, filter) => index.filter((e) => e.sphere === sphere && talentKinds.has(e.kind)
+    && (!filter || (e.tags ?? []).includes(filter))).sort((a, b) => a.name.localeCompare(b.name))
+  // per choice: the chosen option, and per pick the selected talents ("sphere|name")
+  const picked = t.choices.map((c) => ({ option: c.options.length === 1 ? 0 : -1, picks: {} }))
+  const describe = (x) => (x.type === "sphere" ? `${x.sphere} sphere${x.note ? ` ${x.note}` : ""}` : x.type === "talent" ? `${x.name} (${x.sphere})`
+    : x.type === "feat" ? `${x.name} (bonus feat)` : `${x.name} (${x.sphere} ${x.type})`)
+  const pickSelect = (ci, oi, pi, n, pick) => {
+    const el = h("select", { "aria-label": `Talent choice ${n + 1}` }, h("option", { value: "" }, "Choose a talent…"),
+      ...pick.from.map((s) => h("optgroup", { label: `${s}${pick.filter ? ` (${pick.filter})` : ""}` },
+        ...talentsOf(s, pick.filter).map((e) => h("option", { value: `${s}|${e.name}`, selected: picked[ci].picks[`${oi}.${pi}.${n}`] === `${s}|${e.name}` }, e.name)))))
+    el.addEventListener("change", () => { picked[ci].picks[`${oi}.${pi}.${n}`] = el.value })
+    return el
+  }
+  const optionBody = (ci, oi, o) => h("div", { class: "trad-option" },
+    ...o.picks.flatMap((p, pi) => Array.from({ length: p.count }, (_, n) => pickSelect(ci, oi, pi, n, p))),
+    o.free ? h("p", { class: "note" }, "Not read automatically: add what this allows on the Spheres tab yourself.") : null)
+  const choiceBlock = (c, ci) => h("fieldset", { class: "card trad-choice" },
+    h("legend", {}, c.text),
+    c.options.length === 1
+      ? optionBody(ci, 0, c.options[0])
+      : c.options.map((o, oi) => h("div", {},
+          h("label", { class: "row", style: "gap:.4rem" },
+            h("input", { type: "radio", name: `choice-${ci}`, checked: picked[ci].option === oi, onchange: () => { picked[ci].option = oi } }),
+            [o.grants.map(describe).join(" + "), o.picks.map((p) => `${p.count} talent${p.count > 1 ? "s" : ""} from ${p.from.join(" or ")}${p.filter ? ` (${p.filter})` : ""}`).join(" + ")].filter(Boolean).join(" + ") || o.label),
+          o.picks.length ? optionBody(ci, oi, o) : null)))
+  const error = h("p", { class: "warn", hidden: true })
+  const dlg = openDialog(`Martial tradition: ${t.name}`,
+    h("details", { class: "cmp-text" }, h("summary", {}, "Tradition text"), h("div", { style: "white-space:pre-wrap" }, mdToText(t.md))),
+    h("p", {}, h("strong", {}, "Grants: "), t.grants.map(describe).join(", ") || "nothing fixed (all choices)"),
+    t.notes.length ? h("ul", { class: "note" }, t.notes.map((n) => h("li", {}, n))) : null,
+    t.choices.length ? h("div", { class: "trad-choices" }, t.choices.map(choiceBlock)) : null,
+    error,
+    h("div", { class: "row add-row" },
+      h("button", { class: "primary", onclick: async () => {
+        const grants = [...t.grants]
+        for (const [ci, c] of t.choices.entries()) {
+          const oi = picked[ci].option
+          if (oi < 0) return showError(`Choose an option for: ${c.text}`)
+          const o = c.options[oi]
+          grants.push(...o.grants)
+          for (const [pi, p] of o.picks.entries()) for (let n = 0; n < p.count; n++) {
+            const v = picked[ci].picks[`${oi}.${pi}.${n}`]
+            if (!v && !o.free) return showError(`Choose the talent${p.count > 1 ? "s" : ""} for: ${c.text}`)
+            if (v) { const [sphere, name] = v.split("|"); grants.push({ type: "talent", sphere, name }) }
+          }
+        }
+        await applyTradition(t, grants, index)
+        dlg.done()
+        toast(`Added the ${t.name} martial tradition`)
+      } }, "Add tradition"),
+      h("button", { onclick: () => dlg.done() }, "Cancel")))
+  function showError(msg) { error.textContent = msg; error.hidden = false }
+}
+
+async function applyTradition(t, grants, index) {
+  state.features.push(newFeature("misc", { name: `Martial tradition: ${t.name}`, desc: mdToText(t.md), ref: t.id }))
+  for (const g of grants) {
+    if (g.type === "feat") { state.features.push(newFeature("feat", { name: g.name })); continue }
+    const key = sphereKey(g.sphere)
+    const row = { name: "", kind: sphereKind(key) ?? "combat", sphere: key, tags: "", exclude: false, desc: "" }
+    // a package or drawback's own text, when the compendium has it ("(run) package" is Athletics' "Run")
+    const textOf = async (kind, name) => {
+      const want = name.replace(/^\((.+)\) package$/i, "$1").toLowerCase()
+      const e = index.find((x) => x.sphere === g.sphere && x.kind === kind
+        && [x.name.toLowerCase(), x.name.toLowerCase().replace(/ package$/, "")].includes(want))
+      const full = e ? (await loadCompendium(e.file, { entries: [] })).entries.find((x) => x.id === e.id) : null
+      return { ref: e?.id, desc: full ? mdToText(full.md) : "" }
+    }
+    if (g.type === "sphere") Object.assign(row, { name: `${g.sphere} sphere`, tags: ["base sphere", g.note].filter(Boolean).join(", "),
+      desc: `Base sphere from the ${t.name} martial tradition.` })
+    else if (g.type === "package") Object.assign(row, { name: `${g.name} (${g.sphere})`, tags: "package", exclude: true }, await textOf("package", g.name))
+    else if (g.type === "drawback") Object.assign(row, { name: `${g.name} (drawback)`, tags: "drawback", exclude: true }, await textOf("drawback", g.name))
+    else {
+      const e = index.find((x) => x.sphere === g.sphere && x.name.toLowerCase() === g.name.toLowerCase() && x.kind !== "drawback" && x.kind !== "feat")
+      const full = e ? (await loadCompendium(e.file, { entries: [] })).entries.find((x) => x.id === e.id) : null
+      Object.assign(row, { name: e?.name ?? g.name, tags: e?.tags?.join(", ") ?? "", ref: e?.id,
+        desc: [mdToText(full?.md ?? e?.summary ?? ""), ...(full?.options ?? []).map((o) => `${o.name}\n${mdToText(o.md)}`)].filter(Boolean).join("\n\n") })
+    }
+    state.talents.push(row)
+  }
+  changed(true)
 }
 
 // adding to a sphere offers its talents from the compendium (or a custom one); a talent with no

@@ -4297,6 +4297,235 @@ def build_race_compendium() -> dict[str, int]:
     return {"races": len(races), "racial traits": len(traits)}
 
 
+# ---------- martial traditions ----------
+# compendium/martial-traditions.json: each tradition on the Martial Traditions page as the bonus
+# talents it grants (base spheres, their packages and drawbacks, named talents) and the choices its
+# "Variable" lines offer, for the Character Builder's "Add martial tradition".
+MT_NUMBERS = {"a": 1, "an": 1, "one": 1, "two": 2, "three": 3}
+# lines the general reading gets wrong: tradition -> {line text start: choice}
+MT_OVERRIDES = {
+    "Dual Wielding or Scout sphere, and one additional talent from the chosen sphere": [
+        {"label": "Dual Wielding sphere and one Dual Wielding talent",
+         "grants": [{"type": "sphere", "sphere": "Dual Wielding"}], "picks": [{"count": 1, "from": ["Dual Wielding"]}]},
+        {"label": "Scout sphere and one Scout talent",
+         "grants": [{"type": "sphere", "sphere": "Scout"}], "picks": [{"count": 1, "from": ["Scout"]}]},
+    ],
+}
+
+
+def _mt_spheres(text: str, names: list[str]) -> list[str]:
+    """Sphere names in text, in order (longest names first so "Open Hand" beats "Hand")."""
+    found = []
+    for n in sorted(names, key=len, reverse=True):
+        for m in re.finditer(rf"\b{re.escape(n)}\b", text, re.I):
+            found.append((m.start(), n))
+            text = text[:m.start()] + "#" * len(m.group(0)) + text[m.end():]
+    return [n for _, n in sorted(found)]
+
+
+def _mt_talents(text: str, sphere: str, talents: dict[str, list[str]]) -> list[str]:
+    """Compendium talent names of sphere that text names, in order."""
+    found, t = [], text
+    for n in sorted(talents.get(sphere, []), key=len, reverse=True):
+        if (m := re.search(rf"(?<![\w-]){re.escape(n)}(?![\w-])", t, re.I)):
+            found.append((m.start(), n))
+            t = t[:m.start()] + "#" * len(m.group(0)) + t[m.end():]
+    return [n for _, n in sorted(found)]
+
+
+def _mt_option(text: str, default_sphere: str | None, names: list[str], talents: dict[str, list[str]]) -> dict:
+    """One alternative of a choice: grants (spheres, talents, feats) and/or picks of N talents."""
+    t = re.sub(r"\s+", " ", re.sub(r"[*_]", "", text)).strip(" .,")
+    opt = {"label": t[0].upper() + t[1:] if t else t, "grants": [], "picks": []}
+    spheres = _mt_spheres(t, names)
+    count = next((MT_NUMBERS[w.lower()] for w in re.findall(r"\b(a|an|one|two|three)\b(?= (?:bonus |additional |more )?(?:\(\w+\) )?\w*\s?(?:sphere )?talents?\b)", t, re.I)), 1)
+    # a named talent of the line's sphere first ("Shield Training" is an Equipment talent, not the Shield sphere)
+    home_named = _mt_talents(t, default_sphere, talents) if default_sphere else []
+    if re.search(r"\bfeat\b", t, re.I):
+        name = re.sub(r"^(?:the )|\s*feat\b.*$", "", t, flags=re.I)
+        opt["grants"].append({"type": "feat", "name": name.strip()})
+    elif home_named and not re.search(r"of (?:their|his|her) choice", t, re.I):
+        opt["grants"] += [{"type": "talent", "sphere": default_sphere, "name": n} for n in home_named]
+    elif (home := next(iter(reversed(spheres)), None)) and _mt_talents(t, home, talents) \
+            and not re.search(r"of (?:their|his|her) choice", t, re.I):  # "the Barbaric Throw talent from the Berserker sphere"
+        opt["grants"] += [{"type": "talent", "sphere": home, "name": n} for n in _mt_talents(t, home, talents)]
+    elif re.match(r"(?:the )?[A-Z][A-Za-z]*(?: [A-Z][A-Za-z]*)*(?: base)?(?: sphere)? as a bonus (?:talent|sphere)", t) and spheres:
+        # "the Trap sphere as a bonus talent", "Barroom as a bonus sphere": gaining the sphere
+        opt["grants"] += [{"type": "sphere", "sphere": s} for s in spheres]
+    elif re.search(r"talents?\b", t, re.I) and (re.search(r"of (?:their|his|her) choice|talents? from|chosen from|\btalents?$|bonus talent|talents?,", t, re.I)
+                                               and not any(_mt_talents(t, s, talents) for s in spheres or [default_sphere] if s)):
+        src = spheres or ([default_sphere] if default_sphere else []) or (["Equipment"] if "discipline" in t.lower() else [])
+        if re.search(r"\bboth\b", t, re.I) and len(src) > 1:
+            opt["picks"] = [{"count": 1, "from": [s]} for s in src]
+        else:
+            pick = {"count": count, "from": src}
+            if "discipline" in t.lower():
+                pick["filter"] = "discipline"
+            opt["picks"].append(pick)
+    else:
+        home = next((s for s in reversed(spheres)), None) or default_sphere
+        named = _mt_talents(t, home, talents) if home else []
+        if named:
+            opt["grants"] += [{"type": "talent", "sphere": home, "name": n} for n in named]
+        elif spheres:
+            for s in spheres:
+                g = {"type": "sphere", "sphere": s}
+                if (p := re.search(r"\((\w[\w ]*)\)\s*package", t, re.I)):
+                    g["note"] = f"({p.group(1).lower()}) package"
+                opt["grants"].append(g)
+    if not opt["grants"] and not opt["picks"]:
+        opt["free"] = True  # not read: the builder shows the sentence and lets the player add talents
+        if spheres:
+            opt["picks"].append({"count": count, "from": spheres})
+    return opt
+
+
+def _mt_choice(text: str, names: list[str], talents: dict[str, list[str]]) -> dict:
+    """A "Variable:" line -> {text, options}; one option when it's a pick with no alternatives."""
+    plain = re.sub(r"\s+", " ", re.sub(r"[*_]", "", text)).strip()
+    for start, opts in MT_OVERRIDES.items():
+        if plain.startswith(start):
+            return {"text": plain, "options": opts}
+    body = re.sub(r"^.*?\b(?:gains?|may select|selects?)\b\s*", "", plain, count=1) if re.search(r"\b(?:gains?|may select|selects?)\b", plain) else plain
+    default = (m.group(1) if (m := re.search(r"from the ([A-Z][\w ]*?) sphere\.?\s*$", plain)) else None)
+    either = re.search(r"\beither\b", body)
+    frm = re.search(r"\bfrom\b", body)
+    split = (either and (not frm or either.start() < frm.start())) or (not either and (re.search(r",\s+or\s+", body)
+                                                                                     or not re.search(r"talent", body)))
+    if not split:
+        return {"text": plain, "options": [_mt_option(body, default, names, talents)]}
+    body = body[either.end():] if either else body
+    # keep "from (either) the A or B sphere(s)" and "the A and B spheres" together
+    guard = lambda m: m.group(0).replace(" or ", " \x00or ").replace(" and ", " \x00and ")
+    cap = r"[A-Z][A-Za-z]*(?: [A-Z][A-Za-z]*)*"  # a sphere name: capitalized words only
+    body = re.sub(rf"(?:from|of) (?:either |both )?(?:the )?{cap} (?:sphere )?(?:or|and) (?:the )?{cap} spheres?", guard, body)
+    body = re.sub(rf"the {cap} and {cap} spheres", guard, body)
+    parts = [p.replace("\x00", "") for p in re.split(r",\s*or\s+|,\s+|\s+or\s+", body) if p.strip()]
+    return {"text": plain, "options": [_mt_option(p, default, names, talents) for p in parts]}
+
+
+def build_martial_traditions() -> int:
+    files = {f.stem: f for f in CONTENT.rglob("*.md") if ARCHIVE not in f.relative_to(CONTENT).parts}
+    f = files.get("Martial Traditions")
+    if not f:
+        return 0
+    index = json.loads((COMPENDIUM_OUT / "index.json").read_text(encoding="utf-8"))
+    names = sorted({e["sphere"] for e in index if e["system"] != "Spheres of Power"} | {"Equipment"})
+    talents: dict[str, list[str]] = {}
+    for e in index:
+        if e["kind"] in ("talent", "legendary talent", "exceptional talent", "advanced talent"):
+            talents.setdefault(e["sphere"], []).append(e["name"])
+    body = f.read_text(encoding="utf-8").split(GENERATED_MARK, 1)[-1]
+    lines = body.split("\n")
+    slug = _slugger()
+    ids = [slug(m.group(2)) if (m := re.match(r"(#{1,6}) (.+)$", l)) else "" for l in lines]
+    span = _section_span(lines, "# Martial Traditions")
+    out = []
+    if span is None:
+        print("warning: martial traditions: no section")
+        return 0
+    start, end, _ = span
+    heads = [k for k in range(start + 1, end) if lines[k].startswith("### ")]
+    for n, k in enumerate(heads):
+        stop = heads[n + 1] if n + 1 < len(heads) else end
+        md = "\n".join(lines[k + 1:stop]).strip()
+        name = lines[k][4:].strip()
+        trad = {"id": "tradition/" + ids[k], "name": name, "url": f"{_page_url(f)}#{ids[k]}",
+                "summary": _rules_summary(md, 200, whole=False), "md": md, "grants": [], "choices": [], "notes": []}
+        for raw in re.findall(r"^\s*[-*] (.+)$", md, re.M):
+            line = raw.strip()
+            label = (m.group(1).strip(": ") if (m := re.match(r"\*\*([^*]+?):?\*\*:?", line)) else "")
+            rest = re.sub(r"^\*\*[^*]+\*\*:?\s*", "", line).strip()
+            plain = re.sub(r"[*_]", "", line)
+            if label.lower() == "variable":
+                trad["choices"].append(_mt_choice(rest, names, talents))
+            elif label.lower() in ("bonus feat", "bonus feats"):
+                # commas inside a feat's parentheses ("(selecting either the Death, Fate, or Life sphere)") stay
+                for feat in re.split(r",\s*(?![^()]*\))", re.sub(r"[*_]", "", rest)):
+                    trad["grants"].append({"type": "feat", "name": feat.strip(" .")})
+            elif label.lower() in ("drawback", "drawbacks"):
+                trad["notes"].append(f"Drawback: {re.sub(r'[*_]', '', rest)}")
+            elif label.lower() == "special":
+                trad["notes"].append(f"Special: {re.sub(r'[*_]', '', rest)}")
+            elif label.lower() == "equipment":
+                text_ = re.sub(r"[*_]", "", rest).strip(" .")
+                named = _mt_talents(text_, "Equipment", talents)
+                if named:
+                    trad["grants"] += [{"type": "talent", "sphere": "Equipment", "name": t} for t in named]
+                elif re.search(r"of (?:their|his|her) choice", text_, re.I):  # "One (discipline) talent of their choice"
+                    trad["choices"].append({"text": f"Equipment: {text_}", "options": [_mt_option(text_, "Equipment", names, talents)]})
+                elif text_.lower() not in ("", "none"):
+                    trad["grants"] += [{"type": "talent", "sphere": "Equipment", "name": t.strip(" .")} for t in re.split(r",\s*", text_)]
+            else:
+                spheres = _mt_spheres(re.sub(r"\(.*?\)", "", label or plain), names)
+                if not spheres:
+                    trad["notes"].append(plain)
+                    continue
+                sphere = spheres[0]
+                g = {"type": "sphere", "sphere": sphere}
+                extra = []
+                for p in re.findall(r"\((?:\()?(\w[\w ]*?)(?:\))? (?:package|drawback)\)?|\((\w[\w ]*?)\) package", plain, re.I):
+                    pass
+                packs = re.findall(r"\((\w[\w ]*)\)\s*package", plain, re.I)
+                packs += re.findall(r"\((\w[\w ]*) package\)", plain, re.I)
+                draws = re.findall(r"\((\w[\w ]*?) drawback\)", plain, re.I)
+                if (sel := re.search(r"selecting either (?:the )?(.+?) package", plain, re.I)):
+                    choices = re.findall(r"\((\w+)\)", sel.group(1))
+                    packs = [p for p in packs if p.lower() not in [c.lower() for c in choices]]
+                    trad["choices"].append({"text": f"{sphere} sphere: choose a package", "options": [
+                        {"label": f"({c.lower()}) package", "grants": [{"type": "package", "sphere": sphere, "name": f"({c.lower()}) package"}], "picks": []}
+                        for c in choices]})
+                trad["grants"].append(g)
+                trad["grants"] += [{"type": "package", "sphere": sphere, "name": f"({p.lower()}) package"} for p in dict.fromkeys(packs)]
+                trad["grants"] += [{"type": "drawback", "sphere": sphere, "name": d} for d in draws]
+                tail = re.sub(r"\(.*?\)|selecting either.*?package", "", plain, flags=re.I)
+                # "Equipment sphere (Firearm Proficiency)": the talent is in the parentheses
+                found = _mt_talents(plain if sphere == "Equipment" else tail, sphere, talents)
+                trad["grants"] += [{"type": "talent", "sphere": sphere, "name": t} for t in found]
+                # anything else listed that isn't a known talent stays visible as a note ("Squad")
+                rest_items = [x.strip(" .:") for x in re.split(r",\s*", re.sub(rf"^\s*{re.escape(sphere)} sphere", "", tail, flags=re.I))]
+                left = [x for x in rest_items if x and x.lower() not in {f.lower() for f in found}
+                        and not re.search(r"package|drawback|and one other", x, re.I)]
+                if left:
+                    trad["notes"].append(f"{sphere} sphere also lists: {', '.join(left)}")
+        out.append(trad)
+    COMPENDIUM_OUT.mkdir(parents=True, exist_ok=True)
+    (COMPENDIUM_OUT / "martial-traditions.json").write_text(
+        json.dumps({"traditions": out}, ensure_ascii=False, indent=1), encoding="utf-8")
+    write_tradition_review(out)
+    return len(out)
+
+
+def write_tradition_review(traditions: list[dict]) -> None:
+    """Meta/Compendium Review/Martial Traditions (Compendium Review).md: what each tradition grants
+    and the choices the Character Builder offers for it."""
+    def grant(x: dict) -> str:
+        if x["type"] == "sphere":
+            return f"{x['sphere']} sphere" + (f" {x['note']}" if x.get("note") else "")
+        if x["type"] == "feat":
+            return f"{x['name']} (bonus feat)"
+        return x["name"] + ("" if x["type"] == "talent" else f" ({x['type']})") + f" [{x['sphere']}]"
+
+    def option(o: dict) -> str:
+        picks = [f"{p['count']} talent{'s' if p['count'] > 1 else ''} from {' or '.join(p['from'])}"
+                 + (f" ({p['filter']})" if p.get("filter") else "") for p in o["picks"]]
+        return " + ".join([grant(g) for g in o["grants"]] + picks) or o["label"]
+    cell = lambda s: s.replace("|", "\\|").replace("\n", " ")
+    out = [f"---\ntitle: {yaml_str('Compendium Review: Martial Traditions')}\nnosearch: true\n---\n{GENERATED_MARK}\n",
+           f"What the Character Builder's \"Add martial tradition\" reads from [[Martial Traditions]] "
+           f"({len(traditions)} traditions): the talents each grants and the choices it asks for. A wrong "
+           "grant or choice here means the reading needs a fix.", "",
+           "| Tradition | Grants | Choices | Notes |", "| --- | --- | --- | --- |"]
+    for t in traditions:
+        page, anchor = t["url"].split("#", 1)
+        choices = "<br>".join(" **or** ".join(option(o) for o in c["options"]) for c in t["choices"])
+        out.append(f"| [[{page.split('/')[-1]}#{anchor}\\|{cell(t['name'])}]] | {cell(', '.join(grant(g) for g in t['grants'])) or '—'} | "
+                   f"{cell(choices) or '—'} | {cell('; '.join(t['notes'])) or '—'} |")
+    dest = CONTENT / COMPENDIUM_REVIEW / "Martial Traditions (Compendium Review).md"
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    dest.write_text("\n".join(out) + "\n", encoding="utf-8")
+
+
 def write_feat_review(entries: list[dict], pf: list[dict]) -> None:
     """Meta/Compendium Review/Feats (Compendium Review).md: type counts, then the Spheres feats by page."""
     def count(es: list[dict]) -> dict[str, int]:
@@ -5496,6 +5725,7 @@ def convert(with_images: bool) -> None:
     print(f"Compendium feats: {build_feat_compendium()}")
     print(f"Compendium traits: {build_trait_compendium()}")
     print(f"Compendium races: {build_race_compendium()}")
+    print(f"Martial traditions: {build_martial_traditions()}")
 
     # folders emptied by exclusions or renames
     for d in sorted((d for d in CONTENT.rglob("*") if d.is_dir()), key=lambda d: -len(d.parts)):

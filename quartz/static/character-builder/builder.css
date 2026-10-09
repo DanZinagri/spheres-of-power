@@ -759,3 +759,28 @@ button.picker-item {
   flex: 0 1 auto;
   max-width: 100%;
 }
+
+/* Add martial tradition: one box per choice, its talent dropdowns under the option */
+.trad-choices {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  overflow-y: auto;
+}
+fieldset.trad-choice {
+  margin: 0;
+  padding: 0.5rem 0.75rem;
+}
+fieldset.trad-choice legend {
+  font-size: 0.9em;
+  padding: 0 0.25rem;
+}
+.trad-option {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 0.25rem 0 0.4rem 1.5rem;
+}
+.trad-option select {
+  max-width: 100%;
+}
