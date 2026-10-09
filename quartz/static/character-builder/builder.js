@@ -369,6 +369,55 @@ async function loadClassData() {
   if (tab === "classes") renderPanel()
 }
 
+// ---------- feat effects (Character Builder and Monster Creator) ----------
+// the monster's skill name ("Knowledge (arcana)", "Craft (traps)") -> builder key, and a specialty
+function skillKeyOf(name) {
+  const n = name.toLowerCase()
+  for (const [k, [label]] of Object.entries(SKILLS)) if (label.toLowerCase() === n) return [k, ""]
+  const m = n.match(/^(craft|perform|profession)\s*\((.+)\)$/)
+  if (m) return [{ craft: "crf", perform: "prf", profession: "pro" }[m[1]], m[2]]
+  return [null, ""]
+}
+
+// the numbers common feats change, as changes on the feat (so they follow edits: more HD, more ranks)
+const SKILL_PAIR_FEATS = { Acrobatic: ["acr", "fly"], Alertness: ["per", "sen"], "Animal Affinity": ["han", "rid"], Athletic: ["clm", "swm"],
+  Deceitful: ["blf", "dis"], "Deft Hands": ["dev", "slt"], "Magical Aptitude": ["spl", "umd"], Persuasive: ["dip", "int"],
+  "Self-Sufficient": ["hea", "sur"], Stealthy: ["esc", "ste"] }
+const rankBonus = (k, low, high) => `${low} + ${high - low} * min(1, floor(@skills.${k}.rank / 10))`
+function featChanges(name) {
+  const ch = (formula, target, type = "untyped") => ({ formula, target, type, operator: "add" })
+  const base = name.replace(/\s*\(.*\)$/, "").trim()
+  const inner = (name.match(/\(([^)]+)\)/) ?? [])[1] ?? ""
+  if (base === "Improved Initiative") return [ch("4", "init")]
+  if (base === "Great Fortitude") return [ch("2", "fort")]
+  if (base === "Lightning Reflexes") return [ch("2", "ref")]
+  if (base === "Iron Will") return [ch("2", "will")]
+  if (base === "Toughness") return [ch("max(3, @attributes.hd.total)", "mhp")]
+  if (base === "Dodge") return [ch("1", "ac", "dodge")]
+  if (base === "Improved Natural Armor") return [ch("1", "nac")]
+  if (base === "Agile Maneuvers") return [ch("max(0, @abilities.dex.mod - @abilities.str.mod)", "cmb")]
+  if (base === "Skill Focus") { const [k] = skillKeyOf(inner); return k ? [ch(rankBonus(k, 3, 6), `skill.${k}`)] : [] }
+  if (SKILL_PAIR_FEATS[base]) return SKILL_PAIR_FEATS[base].map((k) => ch(rankBonus(k, 2, 4), `skill.${k}`))
+  return []
+}
+
+// mythic feats' numbers (the rest work at the table: roll twice, spend mythic power): Toughness's hit
+// points twice, Dodge +1, the skill-pair feats +2 more; Mythic Improved Initiative (+MR) and Mythic
+// Weapon Finesse (Dex to damage) are worked out in the calc and attacks
+function mythicFeatChanges(name) {
+  const ch = (formula, target, type = "untyped") => ({ formula, target, type, operator: "add" })
+  const base = name.replace(/^Mythic\s+/, "").replace(/\s*\(.*\)$/, "").trim()
+  if (base === "Toughness") return [ch("max(3, @attributes.hd.total)", "mhp")]
+  if (base === "Dodge") return [ch("1", "ac", "dodge")]
+  if (SKILL_PAIR_FEATS[base]) return SKILL_PAIR_FEATS[base].map((k) => ch("2", `skill.${k}`))
+  // a character adds its mythic tier (the Monster Creator adds a monster's rank in its own calc)
+  if (base === "Improved Initiative" && MODE !== "monster") return [ch("@details.mythicTier", "init")]
+  return []
+}
+const hasFeat = (s, name) => s.features.some((f) => f.kind === "feat" && f.name.replace(/\s*\(.*\)$/, "") === name)
+// a feat picked on the Feats & Features tab gets its numbers
+HOOKS.featChanges ??= (name) => (/^Mythic /.test(name) ? mythicFeatChanges(name) : featChanges(name))
+
 // ---------- feats and traits (the site's compendium) ----------
 // An index (feats-index.json, traits-index.json) lists every Spheres entry and every Pathfinder one
 // from Archives of Nethys with a one-line summary; a picked entry's full text comes from its file
