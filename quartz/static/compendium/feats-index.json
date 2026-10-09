@@ -22417,6 +22417,21 @@
   "ref": "Bear Hug (Combat)"
  },
  {
+  "id": "pf1e/bear-s-balance-combat",
+  "name": "Bear's Balance",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Iron Will, rage class feature.",
+  "source": "The Harrow Handbook pg. 19",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Bear%27s%20Balance",
+  "summary": "You gain a +2 bonus on Intimidate checks when not raging.",
+  "file": "pf1e/feats.json",
+  "ref": "Bear's Balance (Combat)"
+ },
+ {
   "id": "pf1e/beartrap-bite-combat",
   "name": "Beartrap Bite",
   "system": "Pathfinder 1e",
@@ -22568,6 +22583,21 @@
   "ref": "Befuddling Strike (Combat)"
  },
  {
+  "id": "pf1e/belier-s-bite-combat",
+  "name": "Belier's Bite",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Improved Unarmed Strike.",
+  "source": "Cheliax, Empire of Devils pg. 26",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Belier%27s%20Bite",
+  "summary": "When you damage an opponent with an unarmed strike, you deal an extra 1d4 bleed damage.",
+  "file": "pf1e/feats.json",
+  "ref": "Belier's Bite (Combat)"
+ },
+ {
   "id": "pf1e/believable-veils",
   "name": "Believable Veils",
   "system": "Pathfinder 1e",
@@ -22581,6 +22611,36 @@
   "summary": "Once per day when you create a glamer or figment effect, you can empower the effect so that the DC to disbelieve it is 2 higher than normal.",
   "file": "pf1e/feats.json",
   "ref": "Believable Veils"
+ },
+ {
+  "id": "pf1e/believer-s-boon",
+  "name": "Believer's Boon",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Wis 13, alignment must be within one step of your deity’s.",
+  "source": "Advanced Class Guide pg. 142",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Believer%27s%20Boon",
+  "summary": "When you take this feat, choose one domain granted by your deity.",
+  "file": "pf1e/feats.json",
+  "ref": "Believer's Boon"
+ },
+ {
+  "id": "pf1e/believer-s-hands",
+  "name": "Believer's Hands",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Wis 13, Believer’s Boon, must be lawful good, alignment must be within one step of your deity’s.",
+  "source": "Advanced Class Guide pg. 142",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Believer%27s%20Hands",
+  "summary": "Once per day, you can use the paladin’s lay on hands ability.",
+  "file": "pf1e/feats.json",
+  "ref": "Believer's Hands"
  },
  {
   "id": "pf1e/bend-with-the-wind-meditation",
@@ -22611,6 +22671,21 @@
   "summary": "You can modify a spell that deals acid, cold, electricity, or fire damage to deal damage through high-pressure water instead.",
   "file": "pf1e/feats.json",
   "ref": "Benthic Spell (Metamagic)"
+ },
+ {
+  "id": "pf1e/berserker-s-cry",
+  "name": "Berserker's Cry",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Cha 13, Linnorm Kings affinity.",
+  "source": "Pathfinder Campaign Setting pg. 93",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Berserker%27s%20Cry",
+  "summary": "Once per day, as a move action, you may unleash a powerful, bloodthirsty scream of battle lust and fury.",
+  "file": "pf1e/feats.json",
+  "ref": "Berserker's Cry"
  },
  {
   "id": "pf1e/bestow-hope",
@@ -24746,6 +24821,21 @@
   "ref": "Bull-Catcher Wrangler (Combat)"
  },
  {
+  "id": "pf1e/bull-s-eye-blood-hex",
+  "name": "Bull's Eye",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Blood Hex"
+  ],
+  "spheres": [],
+  "prerequisites": "Dex 13, Int 13, Dodge, Mobility, Point-Blank Shot, Shot on the Run, base attack bonus +4, Use Magic Device 1 rank.",
+  "source": "Magic Tactics Toolbox pg. 29",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Bull%27s%20Eye",
+  "summary": "As a standard action, you can curse a creature you’ve dealt damage to with a ranged weapon attack since the beginning of your last turn.",
+  "file": "pf1e/feats.json",
+  "ref": "Bull's Eye (Blood Hex)"
+ },
+ {
   "id": "pf1e/bullseye-shot-combat",
   "name": "Bullseye Shot",
   "system": "Pathfinder 1e",
@@ -24925,6 +25015,21 @@
   "summary": "When an opponent confirms a critical hit against you with a melee weapon, you can attempt a special Bluff check against that opponent as an immediate action.",
   "file": "pf1e/feats.json",
   "ref": "But a Scratch (Combat)"
+ },
+ {
+  "id": "pf1e/butterfly-s-sting-combat",
+  "name": "Butterfly's Sting",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Combat Expertise, worshiper of Desna.",
+  "source": "Inner Sea Gods pg. 208",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Butterfly%27s%20Sting",
+  "summary": "When you confirm a critical hit against a creature, you can choose to forgo the effect of the critical hit and grant a critical hit to the next ally who hits…",
+  "file": "pf1e/feats.json",
+  "ref": "Butterfly's Sting (Combat)"
  },
  {
   "id": "pf1e/calculating-mind",
@@ -25169,6 +25274,21 @@
   "ref": "Casterbane Shot (Combat, Grit)"
  },
  {
+  "id": "pf1e/caster-s-champion-combat",
+  "name": "Caster's Champion",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "",
+  "source": "Path of the Hellknight pg. 21",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Caster%27s%20Champion",
+  "summary": "Three times per day as a swift action, when you are within 30 feet of an ally who is an arcane spellcaster, you can channel a portion of her arcane power into…",
+  "file": "pf1e/feats.json",
+  "ref": "Caster's Champion (Combat)"
+ },
+ {
   "id": "pf1e/casting-conduit-teamwork",
   "name": "Casting Conduit",
   "system": "Pathfinder 1e",
@@ -25242,6 +25362,21 @@
   "summary": "You can take the Aspect of the Beast feat even if you do not meet the normal prerequisites.",
   "file": "pf1e/feats.json",
   "ref": "Catfolk Exemplar"
+ },
+ {
+  "id": "pf1e/cat-s-fall",
+  "name": "Cat's Fall",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Dex 13, Acrobatics 1 rank.",
+  "source": "Ultimate Intrigue pg. 80",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Cat%27s%20Fall",
+  "summary": "When you succeed at a DC 15 Acrobatics skill check to soften a fall, you ignore the first 20 feet of that fall and convert the damage from the next 10 feet of…",
+  "file": "pf1e/feats.json",
+  "ref": "Cat's Fall"
  },
  {
   "id": "pf1e/caustic-slur",
@@ -26944,6 +27079,21 @@
   "summary": "When an ally who also has this feat attempts a trained Knowledge skill check while within 30 feet of you, you may attempt an aid another check as a free action…",
   "file": "pf1e/feats.json",
   "ref": "Collective Recollection (Teamwork)"
+ },
+ {
+  "id": "pf1e/collector-s-boon",
+  "name": "Collector's Boon",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Character level 5th.",
+  "source": "Chronicle of Legends pg. 24",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Collector%27s%20Boon",
+  "summary": "You can enhance the effects of certain magical items when wearing or wielding two or more sympathetic magic items.",
+  "file": "pf1e/feats.json",
+  "ref": "Collector's Boon"
  },
  {
   "id": "pf1e/combat-advice",
@@ -28977,6 +29127,36 @@
   "ref": "Cruelty"
  },
  {
+  "id": "pf1e/crusader-s-fist-combat",
+  "name": "Crusader's Fist",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Lay on hands class feature or touch of corruption class feature, Improved Unarmed Strike, base attack bonus +6.",
+  "source": "Ultimate Combat pg. 94",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Crusader%27s%20Fist",
+  "summary": "When you attack with an unarmed strike and hit a creature that you can harm with your lay on hands or touch of corruption feature, you can use a swift action…",
+  "file": "pf1e/feats.json",
+  "ref": "Crusader's Fist (Combat)"
+ },
+ {
+  "id": "pf1e/crusader-s-flurry",
+  "name": "Crusader's Flurry",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Channel energy class feature, flurry of blows class feature, Weapon Focus with your deity’s favored melee weapon.",
+  "source": "Ultimate Combat pg. 94",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Crusader%27s%20Flurry",
+  "summary": "You can use your deity’s favored weapon as if it were a monk weapon.",
+  "file": "pf1e/feats.json",
+  "ref": "Crusader's Flurry"
+ },
+ {
   "id": "pf1e/crushing-blow-combat",
   "name": "Crushing Blow",
   "system": "Pathfinder 1e",
@@ -29702,6 +29882,21 @@
   "ref": "Dauntless Destiny"
  },
  {
+  "id": "pf1e/dawn-s-blessing",
+  "name": "Dawn's Blessing",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Ability to cast divine spells, sandkin half-orc, worshiper of Sarenrae.",
+  "source": "Heroes from the Fringe pg. 25",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dawn%27s%20Blessing",
+  "summary": "When casting divine spells in bright light, you can treat your caster level as 1 higher.",
+  "file": "pf1e/feats.json",
+  "ref": "Dawn's Blessing"
+ },
+ {
   "id": "pf1e/dazing-assault-combat",
   "name": "Dazing Assault",
   "system": "Pathfinder 1e",
@@ -30169,6 +30364,36 @@
   "ref": "Deathless Zealot (Combat)"
  },
  {
+  "id": "pf1e/death-s-host",
+  "name": "Death's Host",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Spell Focus (necromancy).",
+  "source": "Haunted Heroes Handbook pg. 7",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Death%27s%20Host",
+  "summary": "Whenever you are possessed by an undead creature that you do not directly control, you gain a +4 bonus on saving throws against death effects.",
+  "file": "pf1e/feats.json",
+  "ref": "Death's Host"
+ },
+ {
+  "id": "pf1e/death-s-suitor-faction",
+  "name": "Death's Suitor",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Faction"
+  ],
+  "spheres": [],
+  "prerequisites": "Risen Guard 20 TPA.",
+  "source": "Faction Guide pg. 56",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Death%27s%20Suitor",
+  "summary": "Once per day, you may reroll a save or skill check if failure has a chance of killing you (whether from hit point damage, ability damage, or some instant…",
+  "file": "pf1e/feats.json",
+  "ref": "Death's Suitor (Faction)"
+ },
+ {
   "id": "pf1e/deceitful",
   "name": "Deceitful",
   "system": "Pathfinder 1e",
@@ -30272,6 +30497,21 @@
   "summary": "When counterspelling, you can use a spell of the same school that is the same or higher spell level as the target spell.",
   "file": "pf1e/feats.json",
   "ref": "Mythic Improved Counterspell"
+ },
+ {
+  "id": "pf1e/decoy-s-misdirection-familiar",
+  "name": "Decoy's Misdirection",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Familiar"
+  ],
+  "spheres": [],
+  "prerequisites": "Must have a familiar with the decoy archetype (see page 10).",
+  "source": "Familiar Folio pg. 18",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Decoy%27s%20Misdirection",
+  "summary": "As long as your familiar is within 30 feet of you, anytime you succeed at a Will save to negate a scrying effect (including scrying and greater scrying), you…",
+  "file": "pf1e/feats.json",
+  "ref": "Decoy's Misdirection (Familiar)"
  },
  {
   "id": "pf1e/dedicated-adversary-combat",
@@ -30968,6 +31208,21 @@
   "ref": "Destroy Identity (Combat, Critical)"
  },
  {
+  "id": "pf1e/destroyer-s-blessing-combat",
+  "name": "Destroyer's Blessing",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Half-orc or orc, rage class feature.",
+  "source": "Advanced Race Guide pg. 56",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Destroyer%27s%20Blessing",
+  "summary": "When you are raging and you succeed at a sunder combat maneuver, you regain 1 round of rage.",
+  "file": "pf1e/feats.json",
+  "ref": "Destroyer's Blessing (Combat)"
+ },
+ {
   "id": "pf1e/destructive-dispel",
   "name": "Destructive Dispel",
   "system": "Pathfinder 1e",
@@ -31086,6 +31341,21 @@
   "summary": "Whenever you attempt a Will save against a charm or compulsion spell cast by anyone who is not a worshiper of Asmodeus, you may roll twice and take the better…",
   "file": "pf1e/feats.json",
   "ref": "Devilish Pride"
+ },
+ {
+  "id": "pf1e/devil-s-foe-achievement",
+  "name": "Devil's Foe",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Achievement"
+  ],
+  "spheres": [],
+  "prerequisites": "Face 10 different devils in combat and take damage or suffer some other sort of injury from five or more attacks made by each one without falling unconscious, fleeing, or otherwise becoming unable to strike back at them.",
+  "source": "Andoran, Spirit of Liberty pg. 13",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Devil%27s%20Foe",
+  "summary": "Your attacks count as good-aligned for the purposes of bypassing the damage reduction of devils.",
+  "file": "pf1e/feats.json",
+  "ref": "Devil's Foe (Achievement)"
  },
  {
   "id": "pf1e/devotion-against-the-unnatural",
@@ -32355,6 +32625,21 @@
   "ref": "Divine Protection"
  },
  {
+  "id": "pf1e/diviner-s-delving",
+  "name": "Diviner's Delving",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Spell Focus (divination).",
+  "source": "Advanced Player's Guide pg. 158",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Diviner%27s%20Delving",
+  "summary": "You gain a +2 bonus on caster level checks with divinations to overcome spell resistance or effects that impede divination (for example, nondetection).",
+  "file": "pf1e/feats.json",
+  "ref": "Diviner's Delving"
+ },
+ {
   "id": "pf1e/djinni-spin-combat",
   "name": "Djinni Spin",
   "system": "Pathfinder 1e",
@@ -33231,6 +33516,21 @@
   "ref": "Druidic Decoder"
  },
  {
+  "id": "pf1e/drunkard-s-recovery",
+  "name": "Drunkard's Recovery",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Con 13.",
+  "source": "Ultimate Intrigue pg. 82",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Drunkard%27s%20Recovery",
+  "summary": "If you are dying and a creature gives you at least a sip of alcohol (a standard action for an adjacent creature), you immediately stabilize.",
+  "file": "pf1e/feats.json",
+  "ref": "Drunkard's Recovery"
+ },
+ {
   "id": "pf1e/drunken-brawler-combat",
   "name": "Drunken Brawler",
   "system": "Pathfinder 1e",
@@ -33246,6 +33546,21 @@
   "ref": "Drunken Brawler (Combat)"
  },
  {
+  "id": "pf1e/drunken-god-s-blessings",
+  "name": "Drunken God's Blessings",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Worshiper of Cayden Cailean.",
+  "source": "Inner Sea Taverns pg. 58",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Drunken%20God%27s%20Blessings",
+  "summary": "When you have had at least a number of drinks equal to your Constitution modifier (or get drunk or soused, if you are using the rules on pages 54–55) in a…",
+  "file": "pf1e/feats.json",
+  "ref": "Drunken God's Blessings"
+ },
+ {
   "id": "pf1e/drunken-sing-along",
   "name": "Drunken Sing-Along",
   "system": "Pathfinder 1e",
@@ -33259,6 +33574,36 @@
   "summary": "While in a tavern or other drinking establishment, you can change the attitude of the patrons from unfriendly to indifferent or from indifferent to friendly by…",
   "file": "pf1e/feats.json",
   "ref": "Drunken Sing-Along"
+ },
+ {
+  "id": "pf1e/dryad-s-apprentice",
+  "name": "Dryad's Apprentice",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Cha 13, gathlain.",
+  "source": "Wilderness Origins pg. 10",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dryad%27s%20Apprentice",
+  "summary": "You can cast wood shape as a spell-like ability at will, but only on a piece of wood no larger than 1 pound.",
+  "file": "pf1e/feats.json",
+  "ref": "Dryad's Apprentice"
+ },
+ {
+  "id": "pf1e/dryad-s-attendant",
+  "name": "Dryad's Attendant",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Cha 15, Dryad’s Apprentice, character level 9th, gathlain.",
+  "source": "Wilderness Origins pg. 10",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dryad%27s%20Attendant",
+  "summary": "You can cast meld into stone as a spell-like ability once per day with a caster level equal to your character level, except that you instead meld with wood.",
+  "file": "pf1e/feats.json",
+  "ref": "Dryad's Attendant"
  },
  {
   "id": "pf1e/dual-enhancement",
@@ -33471,6 +33816,21 @@
   "summary": "Your distance modifier to the DC of vision-based Perception checks is decreased to +1 per 50 feet in bright light or normal light, or +1 per 20 feet in dim…",
   "file": "pf1e/feats.json",
   "ref": "Eagle-Eyed"
+ },
+ {
+  "id": "pf1e/eagle-s-resolve",
+  "name": "Eagle's Resolve",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Iron Will.",
+  "source": "Adventurer's Guide pg. 76",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Eagle%27s%20Resolve",
+  "summary": "You receive a +1 bonus on saving throws against mind-affecting effects.",
+  "file": "pf1e/feats.json",
+  "ref": "Eagle's Resolve"
  },
  {
   "id": "pf1e/earth-child-binder-combat",
@@ -34377,6 +34737,21 @@
   "ref": "Emergency Attunement"
  },
  {
+  "id": "pf1e/emissary-s-emboldening-familiar",
+  "name": "Emissary's Emboldening",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Familiar"
+  ],
+  "spheres": [],
+  "prerequisites": "Must have a familiar with the emissary archetype (see page 10).",
+  "source": "Familiar Folio pg. 19",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Emissary%27s%20Emboldening",
+  "summary": "As long as your familiar is adjacent to you, you gain a +1 morale bonus against fear effects.",
+  "file": "pf1e/feats.json",
+  "ref": "Emissary's Emboldening (Familiar)"
+ },
+ {
   "id": "pf1e/emotional-conduit",
   "name": "Emotional Conduit",
   "system": "Pathfinder 1e",
@@ -34571,6 +34946,21 @@
   "summary": "The bonus on checks and saves from Endurance increases by half your tier.",
   "file": "pf1e/feats.json",
   "ref": "Mythic Endurance"
+ },
+ {
+  "id": "pf1e/endure-pain-zon-kuthon-s-kiss",
+  "name": "Endure Pain (Zon-Kuthon's Kiss)",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Survived being tortured 10 or more times.",
+  "source": "Cities of Golarion pg. 42",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Endure%20Pain%20%28Zon-Kuthon%27s%20Kiss%29",
+  "summary": "If you take nonlethal damage, you may attempt a Fortitude saving throw (DC equal to 10 + the nonlethal damage dealt) to reduce that damage by half.",
+  "file": "pf1e/feats.json",
+  "ref": "Endure Pain (Zon-Kuthon's Kiss)"
  },
  {
   "id": "pf1e/enduring-might",
@@ -34906,6 +35296,21 @@
   "ref": "Equipment Trick (Combat)"
  },
  {
+  "id": "pf1e/erastil-s-blessing-combat",
+  "name": "Erastil's Blessing",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Weapon Focus (longbow), must be a worshiper of Erastil.",
+  "source": "Paths of the Righteous pg. 19",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Erastil%27s%20Blessing",
+  "summary": "You can use your Wisdom modifier instead of your Dexterity modifier on ranged attack rolls when using a bow.",
+  "file": "pf1e/feats.json",
+  "ref": "Erastil's Blessing (Combat)"
+ },
+ {
   "id": "pf1e/eroding-strikes-combat-combination",
   "name": "Eroding Strikes",
   "system": "Pathfinder 1e",
@@ -35239,6 +35644,21 @@
   "ref": "Exhausting Critical (Combat, Critical)"
  },
  {
+  "id": "pf1e/exile-s-path",
+  "name": "Exile's Path",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Half-elf.",
+  "source": "Advanced Race Guide pg. 47",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Exile%27s%20Path",
+  "summary": "Once per day, when you fail a Will save against an enchantment spell or effect, you may reroll that saving throw, but must take the reroll result even if it’s…",
+  "file": "pf1e/feats.json",
+  "ref": "Exile's Path"
+ },
+ {
   "id": "pf1e/exorcising-mutilation",
   "name": "Exorcising Mutilation",
   "system": "Pathfinder 1e",
@@ -35252,6 +35672,21 @@
   "summary": "When you fail a saving throw to resist possession or a dominate spell, you can deal 4 points of Constitution damage to yourself and reroll your saving throw as…",
   "file": "pf1e/feats.json",
   "ref": "Exorcising Mutilation"
+ },
+ {
+  "id": "pf1e/exorcist-s-rebuttal",
+  "name": "Exorcist's Rebuttal",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Improved Iron Will, Iron Will.",
+  "source": "Demon Hunter's Handbook pg. 9",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Exorcist%27s%20Rebuttal",
+  "summary": "If you use your Improved Iron Will feat to reroll a Will save against a compulsion effect and successfully save against the effect, the creature that created…",
+  "file": "pf1e/feats.json",
+  "ref": "Exorcist's Rebuttal"
  },
  {
   "id": "pf1e/exotic-heritage",
@@ -36831,6 +37266,36 @@
   "ref": "Fabulist (Grit)"
  },
  {
+  "id": "pf1e/faerie-s-strike-combat",
+  "name": "Faerie's Strike",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Nature Magic or the ability to cast druid or ranger spells; Vital Strike, Knowledge (nature) 5 ranks.",
+  "source": "Advanced Class Guide pg. 147",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Faerie%27s%20Strike",
+  "summary": "When you use Vital Strike (or Improved Vital Strike or Greater Vital Strike), the creature you hit with the attack must succeed at a Will save (DC = 10 + 1/2…",
+  "file": "pf1e/feats.json",
+  "ref": "Faerie's Strike (Combat)"
+ },
+ {
+  "id": "pf1e/falcon-s-cry",
+  "name": "Falcon's Cry",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Cha 13, affiliated with the Steel Falcons.",
+  "source": "Adventurer's Guide pg. 76",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Falcon%27s%20Cry",
+  "summary": "You inspire a zeal for freedom in your allies.",
+  "file": "pf1e/feats.json",
+  "ref": "Falcon's Cry"
+ },
+ {
   "id": "pf1e/fall-guy-teamwork",
   "name": "Fall Guy",
   "system": "Pathfinder 1e",
@@ -37010,6 +37475,21 @@
   "summary": "You can go without feeding for a number of days equal to twice your Hit Dice before having to make hunger saves.",
   "file": "pf1e/feats.json",
   "ref": "Famine Tolerance"
+ },
+ {
+  "id": "pf1e/fan-bearer-at-the-king-s-right-hand-origin",
+  "name": "Fan-Bearer at the King's Right Hand",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Origin"
+  ],
+  "spheres": [],
+  "prerequisites": "Shabti.",
+  "source": "Pathfinder #139: The Dead Roads pg. 73",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Fan-Bearer%20at%20the%20King%27s%20Right%20Hand",
+  "summary": "As a swift action, you can designate an adjacent ally as your charge.",
+  "file": "pf1e/feats.json",
+  "ref": "Fan-Bearer at the King's Right Hand (Origin)"
  },
  {
   "id": "pf1e/fanged-crown-massacre",
@@ -38067,6 +38547,21 @@
   "ref": "Fighting Frenzy (Combat, Teamwork)"
  },
  {
+  "id": "pf1e/figment-s-fluidity-familiar",
+  "name": "Figment's Fluidity",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Familiar"
+  ],
+  "spheres": [],
+  "prerequisites": "Must have a familiar with the figment archetype (see page 10).",
+  "source": "Familiar Folio pg. 19",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Figment%27s%20Fluidity",
+  "summary": "Once per day, your familiar can spend a full-round action to manually reshape itself, reassigning 1 evolution point of eidolon evolutions.",
+  "file": "pf1e/feats.json",
+  "ref": "Figment's Fluidity (Familiar)"
+ },
+ {
   "id": "pf1e/filth-forager",
   "name": "Filth Forager",
   "system": "Pathfinder 1e",
@@ -38216,6 +38711,21 @@
   "summary": "The first time in a round you use a combination feat to apply a reduction or penalty to yourself or an enemy, you can double the feat’s numerical modifier.",
   "file": "pf1e/feats.json",
   "ref": "Finishing Cascade (Combat, Combination)"
+ },
+ {
+  "id": "pf1e/fire-god-s-blessing",
+  "name": "Fire God's Blessing",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Half-orc or orc, worshiper of the Fire God.",
+  "source": "Orcs of Golarion pg. 25",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Fire%20God%27s%20Blessing",
+  "summary": "When in combat, if you deal fire damage to an enemy, you heal 1 hit point.",
+  "file": "pf1e/feats.json",
+  "ref": "Fire God's Blessing"
  },
  {
   "id": "pf1e/fire-hand-combat",
@@ -39753,6 +40263,36 @@
   "ref": "Fury of the Tainted (Combat)"
  },
  {
+  "id": "pf1e/fury-s-fall-combat",
+  "name": "Fury's Fall",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Improved Trip.",
+  "source": "Cheliax, Empire of Devils pg. 26",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Fury%27s%20Fall",
+  "summary": "When making a trip attack, add your Dexterity bonus to your CMB.",
+  "file": "pf1e/feats.json",
+  "ref": "Fury's Fall (Combat)"
+ },
+ {
+  "id": "pf1e/fury-s-snare-combat",
+  "name": "Fury's Snare",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Fury’s Fall, Improved Trip.",
+  "source": "Cheliax, Empire of Devils pg. 26",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Fury%27s%20Snare",
+  "summary": "If you successfully use a whip to trip a foe, you can choose to drop your whip.",
+  "file": "pf1e/feats.json",
+  "ref": "Fury's Snare (Combat)"
+ },
+ {
   "id": "pf1e/galley-slave",
   "name": "Galley Slave",
   "system": "Pathfinder 1e",
@@ -39781,6 +40321,21 @@
   "summary": "You are considered to be flanking an opponent if at least two of your allies are threatening that opponent, regardless of your actual positioning.",
   "file": "pf1e/feats.json",
   "ref": "Gang Up (Combat)"
+ },
+ {
+  "id": "pf1e/garen-s-discipline-combat",
+  "name": "Garen's Discipline",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Alertness, Exotic Weapon Proficiency (Aldori dueling sword), Weapon Focus (Aldori dueling sword), base attack bonus +4.",
+  "source": "Adventurer's Guide pg. 26",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Garen%27s%20Discipline",
+  "summary": "Whenever you use Combat Expertise, fight defensively, or take the total defense action, choose a type of saving throw.",
+  "file": "pf1e/feats.json",
+  "ref": "Garen's Discipline (Combat)"
  },
  {
   "id": "pf1e/gate-breaker-combat",
@@ -39976,6 +40531,51 @@
   "summary": "You can treat any reach weapon you wield as having the brace property against creatures that are Large or larger.",
   "file": "pf1e/feats.json",
   "ref": "Giant-Killer Stance (Combat)"
+ },
+ {
+  "id": "pf1e/giant-s-crush-combat",
+  "name": "Giant's Crush",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Str 13, Power Attack, Vital Strike, base attack bonus +6, giant subtype.",
+  "source": "Pathfinder #91: Battle of Bloodmarch Hills pg. 69",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Giant%27s%20Crush",
+  "summary": "If you hit a creature at least one size category smaller than you with a melee attack while using both Power Attack and Vital Strike, the creature that you…",
+  "file": "pf1e/feats.json",
+  "ref": "Giant's Crush (Combat)"
+ },
+ {
+  "id": "pf1e/giant-s-smash-combat",
+  "name": "Giant's Smash",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Str 13, Power Attack, giant subtype.",
+  "source": "Pathfinder #91: Battle of Bloodmarch Hills pg. 69",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Giant%27s%20Smash",
+  "summary": "When you attack an inanimate, unattended object, you ignore the first 5 points of its hardness.",
+  "file": "pf1e/feats.json",
+  "ref": "Giant's Smash (Combat)"
+ },
+ {
+  "id": "pf1e/giant-s-wallop-combat",
+  "name": "Giant's Wallop",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Str 13, Power Attack, Vital Strike, base attack bonus +6, giant subtype.",
+  "source": "Pathfinder #91: Battle of Bloodmarch Hills pg. 69",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Giant%27s%20Wallop",
+  "summary": "If you hit a creature at least one size category smaller than you with a melee attack while using both Power Attack and Vital Strike, the creature you attacked…",
+  "file": "pf1e/feats.json",
+  "ref": "Giant's Wallop (Combat)"
  },
  {
   "id": "pf1e/giantslaying-team-combat-teamwork",
@@ -40310,6 +40910,36 @@
   "ref": "Golden League Tattoos"
  },
  {
+  "id": "pf1e/golden-legion-s-stayed-blade",
+  "name": "Golden Legion's Stayed Blade",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Base attack bonus +3.",
+  "source": "Champions of Purity pg. 23",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Golden%20Legion%27s%20Stayed%20Blade",
+  "summary": "If you deal an amount of damage to a creature that would slay it outright, you can pull that attack, instead dealing only enough damage to reduce its hit…",
+  "file": "pf1e/feats.json",
+  "ref": "Golden Legion's Stayed Blade"
+ },
+ {
+  "id": "pf1e/golem-s-conviction",
+  "name": "Golem's Conviction",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Improved Iron Will, Iron Will, base attack bonus +8.",
+  "source": "Druma, Profit and Prophecy pg. 19",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Golem%27s%20Conviction",
+  "summary": "When you fail a Will save against a mind-affecting effect that would cause you to lose control of your actions (such as dominate person or hideous laughter),…",
+  "file": "pf1e/feats.json",
+  "ref": "Golem's Conviction"
+ },
+ {
   "id": "pf1e/improved-iron-will",
   "name": "Improved Iron Will",
   "system": "Pathfinder 1e",
@@ -40368,6 +40998,36 @@
   "summary": "When you are raging and you confirm a critical hit with a melee weapon or a critical hit is confirmed on you (whether by a melee weapon, spell, or ranged…",
   "file": "pf1e/feats.json",
   "ref": "Gore Fiend"
+ },
+ {
+  "id": "pf1e/gorgon-s-fist-combat",
+  "name": "Gorgon's Fist",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Improved Unarmed Strike, Scorpion Style, base attack bonus +6.",
+  "source": "PRPG Core Rulebook pg. 124",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Gorgon%27s%20Fist",
+  "summary": "As a standard action, make a single unarmed melee attack against a foe whose speed is reduced (such as from Scorpion Style).",
+  "file": "pf1e/feats.json",
+  "ref": "Gorgon's Fist (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-gorgon-s-fist",
+  "name": "Mythic Gorgon's Fist",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Gorgon’s Fist.",
+  "source": "Mythic Adventures pg. 66",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Gorgon%27s%20Fist",
+  "summary": "When you hit a creature while using Gorgon’s Fist, if the target fails its Fortitude saving throw, it is dazed for 1 round instead of staggered.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Gorgon's Fist"
  },
  {
   "id": "pf1e/gory-finish-combat",
@@ -41137,6 +41797,21 @@
   "ref": "Greater Grapple (Combat)"
  },
  {
+  "id": "pf1e/greater-hunter-s-bond-combat",
+  "name": "Greater Hunter's Bond",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Improved Hunter’s Bond, hunter’s bond (hunting companions) class feature, ranger level 12th.",
+  "source": "Ultimate Wilderness pg. 113",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Hunter%27s%20Bond",
+  "summary": "When you activate hunter’s bond, you can select a number of targets equal to your Wisdom modifier as long as they all count as your favored enemy.",
+  "file": "pf1e/feats.json",
+  "ref": "Greater Hunter's Bond (Combat)"
+ },
+ {
   "id": "pf1e/greater-ironclad-reactions-armor-mastery-combat",
   "name": "Greater Ironclad Reactions",
   "system": "Pathfinder 1e",
@@ -41422,6 +42097,21 @@
   "summary": "Choose one type of shield (buckler, light, heavy, or tower shield) for which you possess the Shield Specialization feat.",
   "file": "pf1e/feats.json",
   "ref": "Greater Shield Specialization (Combat)"
+ },
+ {
+  "id": "pf1e/greater-skald-s-vigor",
+  "name": "Greater Skald's Vigor",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Skald’s Vigor, Perform (song) 10 ranks.",
+  "source": "Advanced Class Guide pg. 149",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Skald%27s%20Vigor",
+  "summary": "Your allies share in the fast healing granted by your Skald’s Vigor, starting in the round when you begin your performance.",
+  "file": "pf1e/feats.json",
+  "ref": "Greater Skald's Vigor"
  },
  {
   "id": "pf1e/greater-snap-shot-combat",
@@ -42055,6 +42745,21 @@
   "ref": "Guardian of Tradition"
  },
  {
+  "id": "pf1e/guardian-s-return-familiar",
+  "name": "Guardian's Return",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Familiar"
+  ],
+  "spheres": [],
+  "prerequisites": "Must have a familiar with the protector archetype (see page 11).",
+  "source": "Familiar Folio pg. 19",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Guardian%27s%20Return",
+  "summary": "Once per day when you take damage from a melee attack, as long as your familiar is within empathic link range, it can teleport back to your square as an…",
+  "file": "pf1e/feats.json",
+  "ref": "Guardian's Return (Familiar)"
+ },
+ {
   "id": "pf1e/guided-hand",
   "name": "Guided Hand",
   "system": "Pathfinder 1e",
@@ -42355,6 +43060,51 @@
   "ref": "Precise Shot (Combat)"
  },
  {
+  "id": "pf1e/hand-s-autonomy",
+  "name": "Hand's Autonomy",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Possessed Hand.",
+  "source": "Haunted Heroes Handbook pg. 24",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Hand%27s%20Autonomy",
+  "summary": "You reduce the penalties for fighting with two weapons (including fighting with double weapons or when throwing weapons from each hand) by 2, to a minimum…",
+  "file": "pf1e/feats.json",
+  "ref": "Hand's Autonomy"
+ },
+ {
+  "id": "pf1e/hand-s-detachment",
+  "name": "Hand's Detachment",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Hand’s Autonomy, Possessed Hand.",
+  "source": "Haunted Heroes Handbook pg. 24",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Hand%27s%20Detachment",
+  "summary": "You can remove your possessed hand, allowing the possessing spirit to animate and control its motion.",
+  "file": "pf1e/feats.json",
+  "ref": "Hand's Detachment"
+ },
+ {
+  "id": "pf1e/hand-s-knowledge",
+  "name": "Hand's Knowledge",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Possessed Hand.",
+  "source": "Haunted Heroes Handbook pg. 24",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Hand%27s%20Knowledge",
+  "summary": "Select one Knowledge skill; this skill becomes a class skill for you.",
+  "file": "pf1e/feats.json",
+  "ref": "Hand's Knowledge"
+ },
+ {
   "id": "pf1e/hands-of-valor",
   "name": "Hands of Valor",
   "system": "Pathfinder 1e",
@@ -42368,6 +43118,21 @@
   "summary": "Once per day when you use lay on hands, you can also imbue that ally with valor.",
   "file": "pf1e/feats.json",
   "ref": "Hands of Valor"
+ },
+ {
+  "id": "pf1e/hand-s-sight",
+  "name": "Hand's Sight",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Possessed Hand.",
+  "source": "Haunted Heroes Handbook pg. 25",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Hand%27s%20Sight",
+  "summary": "While your possessed hand isn’t carrying anything, you gain darkvision with a range of 60 feet and cannot be flanked.",
+  "file": "pf1e/feats.json",
+  "ref": "Hand's Sight"
  },
  {
   "id": "pf1e/harder-they-fall-combat-teamwork",
@@ -42582,6 +43347,36 @@
   "ref": "Haunted Gnome Shroud (Combat)"
  },
  {
+  "id": "pf1e/healer-s-hands-conduit",
+  "name": "Healer's Hands",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Conduit"
+  ],
+  "spheres": [],
+  "prerequisites": "Heal 1 rank, Knowledge (planes) 1 rank.",
+  "source": "Planar Adventures pg. 28",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Healer%27s%20Hands",
+  "summary": "You can use the Heal skill to treat deadly wounds as a full-round action.",
+  "file": "pf1e/feats.json",
+  "ref": "Healer's Hands (Conduit)"
+ },
+ {
+  "id": "pf1e/healer-s-touch-achievement",
+  "name": "Healer's Touch",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Achievement"
+  ],
+  "spheres": [],
+  "prerequisites": "Cure a cumulative total of 1, 000 points of damage for other creatures using healing spells. Dealing damage slows progress toward this goal achievement; for every 1 point of damage you deal to another creature, reduce your cumulative healing total by 2.",
+  "source": "Legacy of Fire Player's Guide pg. 29",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Healer%27s%20Touch",
+  "summary": "When you cast a healing spell to heal a target other than yourself, the spell is maximized as though using the Maximize Spell effect.",
+  "file": "pf1e/feats.json",
+  "ref": "Healer's Touch (Achievement)"
+ },
+ {
   "id": "pf1e/healing-potion",
   "name": "Healing Potion",
   "system": "Pathfinder 1e",
@@ -42625,6 +43420,36 @@
   "summary": "You gain one additional use per day of daylight.",
   "file": "pf1e/feats.json",
   "ref": "Heavenly Radiance"
+ },
+ {
+  "id": "pf1e/heaven-s-light-conduit",
+  "name": "Heaven's Light",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Conduit"
+  ],
+  "spheres": [],
+  "prerequisites": "Knowledge (planes) 1 rank.",
+  "source": "Planar Adventures pg. 28",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Heaven%27s%20Light",
+  "summary": "As a standard action, you can emit an aura of bright light centered on a glowing halo above or behind your head.",
+  "file": "pf1e/feats.json",
+  "ref": "Heaven's Light (Conduit)"
+ },
+ {
+  "id": "pf1e/heaven-s-step-combat",
+  "name": "Heaven's Step",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Dex 15, Following Step, Step Up, Step Up and Strike, Two-Weapon Fighting, base attack bonus +10.",
+  "source": "Pathfinder #132: The Six-Legend Soul pg. 73",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Heaven%27s%20Step",
+  "summary": "When you make an attack using Step Up and Strike, you can also make an extra attack with your offhand weapon using your highest base attack bonus.",
+  "file": "pf1e/feats.json",
+  "ref": "Heaven's Step (Combat)"
  },
  {
   "id": "pf1e/step-up-combat",
@@ -43002,6 +43827,37 @@
   "ref": "Heroic Will"
  },
  {
+  "id": "pf1e/hero-s-display-combat-performance",
+  "name": "Hero's Display",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat",
+   "Performance"
+  ],
+  "spheres": [],
+  "prerequisites": "Dazzling Display, Weapon Focus, and proficiency with the selected weapon.",
+  "source": "Ultimate Combat pg. 104",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Hero%27s%20Display",
+  "summary": "When you spend a swift action to make a performance combat check, you present the weapon in which you have Weapon Focus in a triumphant display.",
+  "file": "pf1e/feats.json",
+  "ref": "Hero's Display (Combat, Performance)"
+ },
+ {
+  "id": "pf1e/hero-s-fortune-hero-point",
+  "name": "Hero's Fortune",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Hero Point"
+  ],
+  "spheres": [],
+  "prerequisites": "",
+  "source": "Advanced Player's Guide pg. 324",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Hero%27s%20Fortune",
+  "summary": "You gain a hero point.",
+  "file": "pf1e/feats.json",
+  "ref": "Hero's Fortune (Hero Point)"
+ },
+ {
   "id": "pf1e/hex-strike-combat",
   "name": "Hex Strike",
   "system": "Pathfinder 1e",
@@ -43225,6 +44081,21 @@
   "summary": "You gain a +1 shield bonus to AC when lashed into a horn harness.",
   "file": "pf1e/feats.json",
   "ref": "Horn Rider (Combat)"
+ },
+ {
+  "id": "pf1e/horn-rider-s-charge-combat",
+  "name": "Horn Rider's Charge",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Horn Rider, base attack bonus +1.",
+  "source": "Monster Codex pg. 164",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Horn%20Rider%27s%20Charge",
+  "summary": "Whenever you’re lashed into a horn harness and you ready an action to make a melee attack against the target of a charge made by the creature you’re lashed to,…",
+  "file": "pf1e/feats.json",
+  "ref": "Horn Rider's Charge (Combat)"
  },
  {
   "id": "pf1e/horrific-gorging-combat",
@@ -43921,6 +44792,21 @@
   "ref": "Improved Cleaving Finish (Combat)"
  },
  {
+  "id": "pf1e/improved-collector-s-boon",
+  "name": "Improved Collector's Boon",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Collector's Boon, character level 9th.",
+  "source": "Chronicle of Legends pg. 24",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Collector%27s%20Boon",
+  "summary": "While you are wearing or wielding at least three items from a set, you can gain the benefits of the three-, four-, and five-item benefits listed in the set, as…",
+  "file": "pf1e/feats.json",
+  "ref": "Improved Collector's Boon"
+ },
+ {
   "id": "pf1e/improved-conceal-spell",
   "name": "Improved Conceal Spell",
   "system": "Pathfinder 1e",
@@ -44401,6 +45287,21 @@
   "summary": "With a successful DC 20 Handle Animal check, you can communicate with a horse as if you were using speak with animals for 1 round.",
   "file": "pf1e/feats.json",
   "ref": "Improved Horse Whisperer"
+ },
+ {
+  "id": "pf1e/improved-hunter-s-bond-combat",
+  "name": "Improved Hunter's Bond",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Hunter’s bond (hunting companions) class feature, ranger level 9th.",
+  "source": "Ultimate Wilderness pg. 113",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Hunter%27s%20Bond",
+  "summary": "When you activate hunter’s bond, you can grant your allies your full favored enemy bonus against a single target.",
+  "file": "pf1e/feats.json",
+  "ref": "Improved Hunter's Bond (Combat)"
  },
  {
   "id": "pf1e/improved-impaling-critical-combat-critical",
@@ -45396,6 +46297,21 @@
   "summary": "You do not suffer any penalties for using an improvised weapon.",
   "file": "pf1e/feats.json",
   "ref": "Improvised Weapon Mastery (Combat)"
+ },
+ {
+  "id": "pf1e/in-harm-s-way-combat",
+  "name": "In Harm's Way",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Bodyguard.",
+  "source": "Advanced Player's Guide pg. 164",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=In%20Harm%27s%20Way",
+  "summary": "While using the aid another action to improve an adjacent ally’s AC, you can intercept a successful attack against that ally as an immediate action, taking…",
+  "file": "pf1e/feats.json",
+  "ref": "In Harm's Way (Combat)"
  },
  {
   "id": "pf1e/incite-paranoia-combat",
@@ -47287,6 +48203,21 @@
   "ref": "Kobold Style (Combat, Style)"
  },
  {
+  "id": "pf1e/kraggodan-s-stance-combat",
+  "name": "Kraggodan's Stance",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Con 13, proficiency with heavy armor and shields.",
+  "source": "Elemental Master's Handbook pg. 11",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Kraggodan%27s%20Stance",
+  "summary": "As a move action when wearing heavy armor and using a heavy shield or tower shield, you increase the bonus to AC granted by your armor and your shield by 1…",
+  "file": "pf1e/feats.json",
+  "ref": "Kraggodan's Stance (Combat)"
+ },
+ {
   "id": "pf1e/kraken-style-combat-style",
   "name": "Kraken Style",
   "system": "Pathfinder 1e",
@@ -47422,6 +48353,21 @@
   "summary": "When using this style, you treat spiked chains as if they had the monk special weapon feature.",
   "file": "pf1e/feats.json",
   "ref": "Kyton Style (Combat, Style)"
+ },
+ {
+  "id": "pf1e/lamashtu-s-mark",
+  "name": "Lamashtu's Mark",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Con 13, Lamashtu as patron deity.",
+  "source": "Rise of the Runelords Anniversary Edition pg. 419",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Lamashtu%27s%20Mark",
+  "summary": "Your abdomen bears several ugly scars, as if your belly had been torn open by a clawed hand.",
+  "file": "pf1e/feats.json",
+  "ref": "Lamashtu's Mark"
  },
  {
   "id": "pf1e/landing-roll-combat",
@@ -47786,6 +48732,21 @@
   "ref": "Legendary Influence"
  },
  {
+  "id": "pf1e/legionnaire-s-inspiration",
+  "name": "Legionnaire's Inspiration",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Affiliated with the Golden Legion.",
+  "source": "Adventurer's Guide pg. 76",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Legionnaire%27s%20Inspiration",
+  "summary": "As a standard action, you can select one creature you can see.",
+  "file": "pf1e/feats.json",
+  "ref": "Legionnaire's Inspiration"
+ },
+ {
   "id": "pf1e/lengthy-potion",
   "name": "Lengthy Potion",
   "system": "Pathfinder 1e",
@@ -47980,6 +48941,21 @@
   "summary": "Your haunting gaze grants horrifying insights to the darker places of your inner psyche.",
   "file": "pf1e/feats.json",
   "ref": "Lifeless Gaze"
+ },
+ {
+  "id": "pf1e/life-s-blood",
+  "name": "Life's Blood",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Samsaran.",
+  "source": "Advanced Race Guide pg. 199",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Life%27s%20Blood",
+  "summary": "At will as a full-round action, you may perform a special bloodletting ritual through which you sacrifice some of your own vitality to heal another creature.",
+  "file": "pf1e/feats.json",
+  "ref": "Life's Blood"
  },
  {
   "id": "pf1e/light-bearer",
@@ -48301,6 +49277,21 @@
   "summary": "When you use the Linnorm Vengeance feat to allow an enemy to hit you, you can make a retaliatory unarmed strike attack against that opponent as an immediate…",
   "file": "pf1e/feats.json",
   "ref": "Linnorm Wrath (Combat)"
+ },
+ {
+  "id": "pf1e/lion-s-heart",
+  "name": "Lion's Heart",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Wis 15, Great Fortitude.",
+  "source": "Pathfinder #132: The Six-Legend Soul pg. 73",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Lion%27s%20Heart",
+  "summary": "Choose one ability.",
+  "file": "pf1e/feats.json",
+  "ref": "Lion's Heart"
  },
  {
   "id": "pf1e/lithe-attacker",
@@ -49178,6 +50169,21 @@
   "ref": "Marked for Glory"
  },
  {
+  "id": "pf1e/marksman-s-utility-weapon-mastery",
+  "name": "Marksman's Utility",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Weapon Mastery"
+  ],
+  "spheres": [],
+  "prerequisites": "Base attack bonus +6, weapon training class feature with a ranged weapon.",
+  "source": "Weapon Master's Handbook pg. 21",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Marksman%27s%20Utility",
+  "summary": "You can perform the utility shotUC gunslinger deed with an appropriate ranged weapon with which you are proficient.",
+  "file": "pf1e/feats.json",
+  "ref": "Marksman's Utility (Weapon Mastery)"
+ },
+ {
   "id": "pf1e/martial-dominance-combat",
   "name": "Martial Dominance",
   "system": "Pathfinder 1e",
@@ -49251,6 +50257,21 @@
   "summary": "You make attack rolls with the selected weapon normally (without the non-proficient penalty).",
   "file": "pf1e/feats.json",
   "ref": "Martial Weapon Proficiency (Combat)"
+ },
+ {
+  "id": "pf1e/mascot-s-affection-familiar",
+  "name": "Mascot's Affection",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Familiar"
+  ],
+  "spheres": [],
+  "prerequisites": "Must have a familiar with the mascot archetype (see page 11).",
+  "source": "Familiar Folio pg. 19",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Mascot%27s%20Affection",
+  "summary": "The maximum number of team members your familiar can have increases by two.",
+  "file": "pf1e/feats.json",
+  "ref": "Mascot's Affection (Familiar)"
  },
  {
   "id": "pf1e/mask-focus",
@@ -49600,6 +50621,21 @@
   "ref": "Masterful Flourish (Combat, Performance)"
  },
  {
+  "id": "pf1e/mauler-s-endurance-familiar",
+  "name": "Mauler's Endurance",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Familiar"
+  ],
+  "spheres": [],
+  "prerequisites": "Must have a familiar with the mauler archetype (see page 11).",
+  "source": "Familiar Folio pg. 19",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Mauler%27s%20Endurance",
+  "summary": "Your familiar gains 2 hit points per level you possess.",
+  "file": "pf1e/feats.json",
+  "ref": "Mauler's Endurance (Familiar)"
+ },
+ {
   "id": "pf1e/maximize-spell-metamagic",
   "name": "Maximize Spell",
   "system": "Pathfinder 1e",
@@ -49703,6 +50739,36 @@
   "summary": "For 1 round per character level after you perform combat meditation, whenever you attempt a concentration check to avoid losing a spell or a Fortitude save to…",
   "file": "pf1e/feats.json",
   "ref": "Meditative Concentration (Meditation)"
+ },
+ {
+  "id": "pf1e/medusa-s-wrath-combat",
+  "name": "Medusa's Wrath",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Improved Unarmed Strike, Gorgon's Fist, Scorpion Style, base attack bonus +11.",
+  "source": "PRPG Core Rulebook pg. 130",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Medusa%27s%20Wrath",
+  "summary": "Whenever you use the full-attack action and make at least one unarmed strike, you can make two additional unarmed strikes at your highest base attack bonus.",
+  "file": "pf1e/feats.json",
+  "ref": "Medusa's Wrath (Combat)"
+ },
+ {
+  "id": "pf1e/mythic-medusa-s-wrath",
+  "name": "Mythic Medusa's Wrath",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Mythic"
+  ],
+  "spheres": [],
+  "prerequisites": "Medusa’s Wrath.",
+  "source": "Mythic Adventures pg. 69",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Medusa%27s%20Wrath",
+  "summary": "You may forgo the two additional unarmed strikes of Medusa’s Wrath to instead make a single unarmed strike at your highest base attack bonus.",
+  "file": "pf1e/feats.json",
+  "ref": "Mythic Medusa's Wrath"
  },
  {
   "id": "pf1e/menacing-bane",
@@ -50079,6 +51145,21 @@
   "summary": "Choose one 1st-level spell that you know.",
   "file": "pf1e/feats.json",
   "ref": "Minor Spell Expertise"
+ },
+ {
+  "id": "pf1e/minotaur-s-charge",
+  "name": "Minotaur's Charge",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Str 13, Improved Bull Rush, powerful charge.",
+  "source": "Classic Monsters Revisited pg. 43",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Minotaur%27s%20Charge",
+  "summary": "When you hit an opponent with a charge attack, you might also initiate a bull rush as a free action.",
+  "file": "pf1e/feats.json",
+  "ref": "Minotaur's Charge"
  },
  {
   "id": "pf1e/mirror-kin-teamwork",
@@ -50717,6 +51798,36 @@
   "ref": "Moontouched"
  },
  {
+  "id": "pf1e/morrigna-s-wrappings",
+  "name": "Morrigna's Wrappings",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Character level 9th, duskwalker, ward against corruption racial trait.",
+  "source": "Pathfinder #139: The Dead Roads pg. 71",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Morrigna%27s%20Wrappings",
+  "summary": "So long as you have a spider web wrapped around some part of your body, the bonus provided by your ward against corruption racial trait increases to +4.",
+  "file": "pf1e/feats.json",
+  "ref": "Morrigna's Wrappings"
+ },
+ {
+  "id": "pf1e/mother-s-gift",
+  "name": "Mother's Gift",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Changeling.",
+  "source": "Advanced Race Guide pg. 185",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Mother%27s%20Gift",
+  "summary": "Your dark legacy manifests in one of the following ways.",
+  "file": "pf1e/feats.json",
+  "ref": "Mother's Gift"
+ },
+ {
   "id": "pf1e/motivated-march",
   "name": "Motivated March",
   "system": "Pathfinder 1e",
@@ -51019,6 +52130,22 @@
   "ref": "Multiweapon Specialist"
  },
  {
+  "id": "pf1e/murderer-s-circle-combat-performance",
+  "name": "Murderer's Circle",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat",
+   "Performance"
+  ],
+  "spheres": [],
+  "prerequisites": "Dodge, Acrobatics 4 ranks.",
+  "source": "Ultimate Combat pg. 111",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Murderer%27s%20Circle",
+  "summary": "When you spend a swift action to make a performance combat check after scoring a critical hit or performing a combat maneuver, and you are adjacent to the…",
+  "file": "pf1e/feats.json",
+  "ref": "Murderer's Circle (Combat, Performance)"
+ },
+ {
   "id": "pf1e/murderous-sniper-combat",
   "name": "Murderous Sniper",
   "system": "Pathfinder 1e",
@@ -51062,6 +52189,70 @@
   "summary": "You gain a limited form of tremorsense.",
   "file": "pf1e/feats.json",
   "ref": "Murmurs of Earth"
+ },
+ {
+  "id": "pf1e/musketeer-s-daring-combat-panache",
+  "name": "Musketeer's Daring",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat",
+   "Panache"
+  ],
+  "spheres": [],
+  "prerequisites": "Dex 15, derring-do deed, swashbuckler level 6th.",
+  "source": "Villain Codex pg. 56",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Musketeer%27s%20Daring",
+  "summary": "If the result of your d6 roll is a natural 5 or 6 when using the derring-do deed, you can roll another d6 and add it to the Acrobatics, Climb, Escape Artist,…",
+  "file": "pf1e/feats.json",
+  "ref": "Musketeer's Daring (Combat, Panache)"
+ },
+ {
+  "id": "pf1e/musketeer-s-dodge-combat-grit",
+  "name": "Musketeer's Dodge",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat",
+   "Grit"
+  ],
+  "spheres": [],
+  "prerequisites": "Exotic Weapon Proficiency (firearms) UC, gunslinger level 3rd, gunslinger’s dodge deed.",
+  "source": "Villain Codex pg. 56",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Musketeer%27s%20Dodge",
+  "summary": "When you use the gunslinger’s dodge deed to move, the movement granted by that deed does not provoke attacks of opportunity, and you gain a +4 dodge bonus to…",
+  "file": "pf1e/feats.json",
+  "ref": "Musketeer's Dodge (Combat, Grit)"
+ },
+ {
+  "id": "pf1e/musketeer-s-reposition-combat-grit",
+  "name": "Musketeer's Reposition",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat",
+   "Grit"
+  ],
+  "spheres": [],
+  "prerequisites": "Exotic Weapon Proficiency (firearms) UC, gunslinger level 6th, pistol-whip deed.",
+  "source": "Villain Codex pg. 56",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Musketeer%27s%20Reposition",
+  "summary": "When you hit an opponent with a two-handed firearm while using the pistol-whip deed, you can perform a repositionAPG combat maneuver instead of knocking the…",
+  "file": "pf1e/feats.json",
+  "ref": "Musketeer's Reposition (Combat, Grit)"
+ },
+ {
+  "id": "pf1e/musketeer-s-sidestep-combat-panache",
+  "name": "Musketeer's Sidestep",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat",
+   "Panache"
+  ],
+  "spheres": [],
+  "prerequisites": "Dodging panache deed, swashbuckler level 3rd.",
+  "source": "Villain Codex pg. 56",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Musketeer%27s%20Sidestep",
+  "summary": "When you use the dodging panache deed, the movement granted by that deed does not provoke attacks of opportunity from any creature, and you gain a +2 dodge…",
+  "file": "pf1e/feats.json",
+  "ref": "Musketeer's Sidestep (Combat, Panache)"
  },
  {
   "id": "pf1e/mutated-shape",
@@ -51408,6 +52599,51 @@
   "summary": "You get a +2 bonus on all Knowledge (nature) checks and Survival checks.",
   "file": "pf1e/feats.json",
   "ref": "Nature Soul"
+ },
+ {
+  "id": "pf1e/nature-s-freedom",
+  "name": "Nature's Freedom",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Animal or Plant domain; channel energy class feature.",
+  "source": "Ultimate Wilderness pg. 116",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Nature%27s%20Freedom",
+  "summary": "When you expend one additional use when you channel energy, you enable affected creatures to move freely through undergrowth as per the druid’s woodland stride…",
+  "file": "pf1e/feats.json",
+  "ref": "Nature's Freedom"
+ },
+ {
+  "id": "pf1e/nature-s-weapons",
+  "name": "Nature's Weapons",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Catch Off-Guard; base attack bonus +2; Knowledge (nature) or Survival 2 ranks.",
+  "source": "Ultimate Wilderness pg. 116",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Nature%27s%20Weapons",
+  "summary": "You can turn nearly anything you might find in the wilderness into an improvised melee weapon.",
+  "file": "pf1e/feats.json",
+  "ref": "Nature's Weapons"
+ },
+ {
+  "id": "pf1e/nature-s-wrath",
+  "name": "Nature's Wrath",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Int 1, any nongood alignment, plant type.",
+  "source": "Villain Codex pg. 140",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Nature%27s%20Wrath",
+  "summary": "You are no longer immune to effects that cause morale bonuses or effects with the emotion descriptor, and you take a –1 penalty on saves against anger or rage…",
+  "file": "pf1e/feats.json",
+  "ref": "Nature's Wrath"
  },
  {
   "id": "pf1e/neckbreaker-combat",
@@ -51843,6 +53079,21 @@
   "summary": "You receive 100 gp at the beginning of every week that you can spend only on services and nonmaterial goods.",
   "file": "pf1e/feats.json",
   "ref": "Noble Stipend"
+ },
+ {
+  "id": "pf1e/nosoi-s-spiritsense",
+  "name": "Nosoi's Spiritsense",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Duskwalker.",
+  "source": "Pathfinder #139: The Dead Roads pg. 71",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Nosoi%27s%20Spiritsense",
+  "summary": "You can cast detect undead as a spell-like ability at will.",
+  "file": "pf1e/feats.json",
+  "ref": "Nosoi's Spiritsense"
  },
  {
   "id": "pf1e/notorious-vigilante-combat",
@@ -54130,6 +55381,21 @@
   "ref": "Planar Wild Shape"
  },
  {
+  "id": "pf1e/planewalker-s-insight",
+  "name": "Planewalker's Insight",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "",
+  "source": "Planar Adventures pg. 31",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Planewalker%27s%20Insight",
+  "summary": "You gain a +2 bonus on Knowledge (planes) checks and on Sense Motive checks against outsiders, and Knowledge (planes) is a class skill for you.",
+  "file": "pf1e/feats.json",
+  "ref": "Planewalker's Insight"
+ },
+ {
   "id": "pf1e/planned-spontaneity",
   "name": "Planned Spontaneity",
   "system": "Pathfinder 1e",
@@ -54234,6 +55500,21 @@
   "summary": "You can spend 1 grit point to load your firearm with 1 dose of inhaled or ingested poison as a move action.",
   "file": "pf1e/feats.json",
   "ref": "Poison Shot Deed (Grit)"
+ },
+ {
+  "id": "pf1e/poisoner-s-channel",
+  "name": "Poisoner's Channel",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Channel energy 3d6, worshiper of Norgorber.",
+  "source": "Inner Sea Gods pg. 215",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Poisoner%27s%20Channel",
+  "summary": "Once per day when you channel negative energy to damage living creatures, you can cause any creatures that failed their save against your channel to take a –4…",
+  "file": "pf1e/feats.json",
+  "ref": "Poisoner's Channel"
  },
  {
   "id": "pf1e/polyglot-familiar-familiar",
@@ -54897,6 +56178,21 @@
   "summary": "You temporarily gain the Craft Construct feat for the purposes of building one golem to satisfy the goal of this story feat.",
   "file": "pf1e/feats.json",
   "ref": "Protector of the People (Story)"
+ },
+ {
+  "id": "pf1e/protector-s-strike",
+  "name": "Protector's Strike",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Base attack bonus +5, smite evil class feature.",
+  "source": "Inner Sea Gods pg. 215",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Protector%27s%20Strike",
+  "summary": "When you choose the target of your smite evil ability, you also choose one creature other than you within line of sight.",
+  "file": "pf1e/feats.json",
+  "ref": "Protector's Strike"
  },
  {
   "id": "pf1e/proxy-summoning",
@@ -57566,6 +58862,21 @@
   "ref": "Riving Strike (Combat)"
  },
  {
+  "id": "pf1e/robot-s-bane",
+  "name": "Robot's Bane",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Knowledge (engineering) 5 ranks",
+  "source": "Technology Guide pg. 6",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Robot%27s%20Bane",
+  "summary": "You gain a +1 bonus on attack and damage rolls against creatures with the robot subtype.",
+  "file": "pf1e/feats.json",
+  "ref": "Robot's Bane"
+ },
+ {
   "id": "pf1e/robust-stench",
   "name": "Robust Stench",
   "system": "Pathfinder 1e",
@@ -57912,6 +59223,21 @@
   "ref": "Saddle Shrieker (Combat)"
  },
  {
+  "id": "pf1e/sage-s-guidance-familiar",
+  "name": "Sage's Guidance",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Familiar"
+  ],
+  "spheres": [],
+  "prerequisites": "Must have a familiar with the sage archetype (see page 11).",
+  "source": "Familiar Folio pg. 19",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sage%27s%20Guidance",
+  "summary": "When your familiar succeeds at a Knowledge check to identify a hazard or an opponent’s weaknesses and abilities, you gain a +2 insight bonus on attacks and…",
+  "file": "pf1e/feats.json",
+  "ref": "Sage's Guidance (Familiar)"
+ },
+ {
   "id": "pf1e/sahir-afiyun",
   "name": "Sahir-Afiyun",
   "system": "Pathfinder 1e",
@@ -58109,6 +59435,21 @@
   "ref": "Mythic Saving Shield"
  },
  {
+  "id": "pf1e/savior-s-arrow",
+  "name": "Savior's Arrow",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Ability to cast cure spells, proficient with longbow, worshiper of Erastil.",
+  "source": "Inner Sea Gods pg. 215",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Savior%27s%20Arrow",
+  "summary": "Once per day when you cast a cure spell, you can replace the normal somatic component with drawing a longbow to create a shaft of green glowing light.",
+  "file": "pf1e/feats.json",
+  "ref": "Savior's Arrow"
+ },
+ {
   "id": "pf1e/scale-and-skin",
   "name": "Scale and Skin",
   "system": "Pathfinder 1e",
@@ -58212,6 +59553,36 @@
   "summary": "Choose one of your spell-like abilities, subject to the restrictions described in this feat.",
   "file": "pf1e/feats.json",
   "ref": "Scarring Spell-Like Ability (Monster)"
+ },
+ {
+  "id": "pf1e/scavenger-s-eye",
+  "name": "Scavenger's Eye",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Tengu.",
+  "source": "Advanced Race Guide pg. 165",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Scavenger%27s%20Eye",
+  "summary": "You gain a +2 bonus on Appraise checks.",
+  "file": "pf1e/feats.json",
+  "ref": "Scavenger's Eye"
+ },
+ {
+  "id": "pf1e/scavenger-s-luck",
+  "name": "Scavenger's Luck",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Knowledge (engineering) 1 rank",
+  "source": "Technology Guide pg. 7",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Scavenger%27s%20Luck",
+  "summary": "When your check for using a piece of timeworn technology results in a glitch, you can roll again.",
+  "file": "pf1e/feats.json",
+  "ref": "Scavenger's Luck"
  },
  {
   "id": "pf1e/scent-of-fear",
@@ -59058,6 +60429,21 @@
   "ref": "Serpentine Compression"
  },
  {
+  "id": "pf1e/serren-s-masterstroke-combat",
+  "name": "Serren's Masterstroke",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Exotic Weapon Proficiency (Aldori dueling sword), Weapon Focus (Aldori dueling sword), base attack bonus +6.",
+  "source": "Adventurer's Guide pg. 26",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Serren%27s%20Masterstroke",
+  "summary": "Once per round when you hit a foe you have successfully feinted against via a melee attack using an Aldori dueling sword, you deal an extra 2d6 points of…",
+  "file": "pf1e/feats.json",
+  "ref": "Serren's Masterstroke (Combat)"
+ },
+ {
   "id": "pf1e/servant-in-the-house-of-truth-origin",
   "name": "Servant in the House of Truth",
   "system": "Pathfinder 1e",
@@ -59223,6 +60609,21 @@
   "ref": "Shadow Walker"
  },
  {
+  "id": "pf1e/shadow-s-embrace",
+  "name": "Shadow's Embrace",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Shadow illusion class feature.",
+  "source": "Chronicle of Legends pg. 9",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shadow%27s%20Embrace",
+  "summary": "Your shadow illusion ability can encase you in shadows as the darkness spell, using your shadow dancer level as the caster level.",
+  "file": "pf1e/feats.json",
+  "ref": "Shadow's Embrace"
+ },
+ {
   "id": "pf1e/shadows-of-fear-combat",
   "name": "Shadows of Fear",
   "system": "Pathfinder 1e",
@@ -59236,6 +60637,21 @@
   "summary": "The first time each round that you hit a creature suffering from a fear effect, you can deal hidden strike or sneak attack damage as if you were flanking that…",
   "file": "pf1e/feats.json",
   "ref": "Shadows of Fear (Combat)"
+ },
+ {
+  "id": "pf1e/shadow-s-shroud-conduit",
+  "name": "Shadow's Shroud",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Conduit"
+  ],
+  "spheres": [],
+  "prerequisites": "Knowledge (planes) 5 ranks.",
+  "source": "Planar Adventures pg. 32",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shadow%27s%20Shroud",
+  "summary": "As a swift action, you can shroud yourself in shifting, camouflaging shadow.",
+  "file": "pf1e/feats.json",
+  "ref": "Shadow's Shroud (Conduit)"
  },
  {
   "id": "pf1e/shadowy-dash",
@@ -60167,6 +61583,36 @@
   "ref": "Shielded Stand (Combat, Shield Mastery)"
  },
  {
+  "id": "pf1e/shifter-s-edge",
+  "name": "Shifter's Edge",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Dex 13, Weapon Finesse, shifter claws class feature.",
+  "source": "Ultimate Wilderness pg. 117",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shifter%27s%20Edge",
+  "summary": "Whenever you use Weapon Finesse to make a melee attack with your claws or a natural attack augmented by your claws, and you use your Dexterity bonus on attack…",
+  "file": "pf1e/feats.json",
+  "ref": "Shifter's Edge"
+ },
+ {
+  "id": "pf1e/shifter-s-rush",
+  "name": "Shifter's Rush",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Wild shape class feature, shifter level 4th",
+  "source": "Ultimate Wilderness pg. 117",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shifter%27s%20Rush",
+  "summary": "When you use a move action to move 10 feet or more or when you charge, you can use wild shape as a free action during that movement.",
+  "file": "pf1e/feats.json",
+  "ref": "Shifter's Rush"
+ },
+ {
   "id": "pf1e/shifting-patterns",
   "name": "Shifting Patterns",
   "system": "Pathfinder 1e",
@@ -60271,6 +61717,21 @@
   "summary": "If you act in the surprise round of a combat, as a free action you can attempt a single Intimidate check to demoralize a creature within 30 feet that can…",
   "file": "pf1e/feats.json",
   "ref": "Shocking Bellow (Combat)"
+ },
+ {
+  "id": "pf1e/shoki-s-argument",
+  "name": "Shoki's Argument",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Ability to cast disrupt undead, character level 3rd, duskwalker.",
+  "source": "Pathfinder #139: The Dead Roads pg. 71",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shoki%27s%20Argument",
+  "summary": "The damage dealt by your disrupt undead spell increases by 1d6.",
+  "file": "pf1e/feats.json",
+  "ref": "Shoki's Argument"
  },
  {
   "id": "pf1e/shot-on-the-run-combat",
@@ -60832,6 +62293,21 @@
   "ref": "Sizzling Shot (Grit)"
  },
  {
+  "id": "pf1e/skald-s-vigor",
+  "name": "Skald's Vigor",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Raging song class feature.",
+  "source": "Advanced Class Guide pg. 156",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Skald%27s%20Vigor",
+  "summary": "While maintaining a raging song, you gain fast healing equal to the Strength bonus your song provides, starting in the round after you begin the song.",
+  "file": "pf1e/feats.json",
+  "ref": "Skald's Vigor"
+ },
+ {
   "id": "pf1e/skaveling-companion",
   "name": "Skaveling Companion",
   "system": "Pathfinder 1e",
@@ -60996,6 +62472,36 @@
   "summary": "Choose one kind of light or one-handed slashing weapon (such as the longsword).",
   "file": "pf1e/feats.json",
   "ref": "Slashing Grace (Combat)"
+ },
+ {
+  "id": "pf1e/slayer-s-feint-combat",
+  "name": "Slayer's Feint",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Dex 15, Acrobatic or slayer level 1st, Combat Expertise, Acrobatics 1 rank.",
+  "source": "Advanced Class Guide pg. 156",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Slayer%27s%20Feint",
+  "summary": "You can use Acrobatics instead of Bluff to feint in combat.",
+  "file": "pf1e/feats.json",
+  "ref": "Slayer's Feint (Combat)"
+ },
+ {
+  "id": "pf1e/slayer-s-knack",
+  "name": "Slayer's Knack",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Favored enemy class feature, base attack bonus +6.",
+  "source": "Ultimate Combat pg. 119",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Slayer%27s%20Knack",
+  "summary": "When you take this feat, choose one of your favored enemy types.",
+  "file": "pf1e/feats.json",
+  "ref": "Slayer's Knack"
  },
  {
   "id": "pf1e/slaying-sprint",
@@ -61663,6 +63169,21 @@
   "summary": "As a full-round action, you may make an attack that allows you to deal precision-based extra damage to a distance equal to your weapon’s range increment.",
   "file": "pf1e/feats.json",
   "ref": "Sniper Shot"
+ },
+ {
+  "id": "pf1e/sniper-s-lantern",
+  "name": "Sniper's Lantern",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Point-Blank Shot, dancing lights racial spell-like ability.",
+  "source": "Monster Codex pg. 32",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sniper%27s%20Lantern",
+  "summary": "You can use your dancing lights racial spell-like ability to create one orb of penetrating light.",
+  "file": "pf1e/feats.json",
+  "ref": "Sniper's Lantern"
  },
  {
   "id": "pf1e/snoutgrip-combat",
@@ -62748,6 +64269,21 @@
   "ref": "Mythic Spirited Charge"
  },
  {
+  "id": "pf1e/spirit-s-gift",
+  "name": "Spirit's Gift",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Animal companion class feature or familiar class feature.",
+  "source": "Advanced Class Guide pg. 157",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spirit%27s%20Gift",
+  "summary": "At the start of the day, you can choose to commune with a single shaman spirit.",
+  "file": "pf1e/feats.json",
+  "ref": "Spirit's Gift"
+ },
+ {
   "id": "pf1e/spiritual-balance",
   "name": "Spiritual Balance",
   "system": "Pathfinder 1e",
@@ -62791,6 +64327,21 @@
   "summary": "You gain a +2 competence bonus on Knowledge checks to identify creatures with the incorporeal subtype, and can attempt Knowledge checks dealing with…",
   "file": "pf1e/feats.json",
   "ref": "Spiritual Training"
+ },
+ {
+  "id": "pf1e/spiritualist-s-call",
+  "name": "Spiritualist's Call",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Phantom class feature.",
+  "source": "Occult Adventures pg. 140",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spiritualist%27s%20Call",
+  "summary": "Whenever you summon your phantom, you can give it a +2 enhancement bonus to its Strength, Dexterity, or Charisma.",
+  "file": "pf1e/feats.json",
+  "ref": "Spiritualist's Call"
  },
  {
   "id": "pf1e/spit-venom-combat",
@@ -62927,6 +64478,21 @@
   "summary": "You can change which spell your Spontaneous Metafocus feat applies to each morning when you restore your expended spell slots.",
   "file": "pf1e/feats.json",
   "ref": "Mythic Spontaneous Metafocus"
+ },
+ {
+  "id": "pf1e/spontaneous-nature-s-ally",
+  "name": "Spontaneous Nature's Ally",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Knowledge (nature) 5 ranks, ability to spontaneously cast cure or inflict spells, Animal or Plant domain.",
+  "source": "Advanced Class Guide pg. 157",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spontaneous%20Nature%27s%20Ally",
+  "summary": "You can “lose” a prepared spell in order to cast any summon nature’s ally spell of the same level or lower, instead of casting a cure spell or an inflict spell…",
+  "file": "pf1e/feats.json",
+  "ref": "Spontaneous Nature's Ally"
  },
  {
   "id": "pf1e/sprightly-armor-armor-mastery-combat",
@@ -63234,6 +64800,21 @@
   "summary": "When you damage a foe with your unarmed attack, you can also cause it to be staggered for 1 round (until just before your next turn).",
   "file": "pf1e/feats.json",
   "ref": "Staggering Fist (Combat)"
+ },
+ {
+  "id": "pf1e/stalker-s-focus",
+  "name": "Stalker's Focus",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Knowledge (nature) 3 ranks, Survival 3 ranks, no levels in a class that has the animal focus class feature.",
+  "source": "Advanced Class Guide pg. 157",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Stalker%27s%20Focus",
+  "summary": "Choose a single type of animal to emulate from the hunter’s animal focus class feature.",
+  "file": "pf1e/feats.json",
+  "ref": "Stalker's Focus"
  },
  {
   "id": "pf1e/stalwart",
@@ -64865,6 +66446,21 @@
   "ref": "Summon Plant Ally"
  },
  {
+  "id": "pf1e/summoner-s-call",
+  "name": "Summoner's Call",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Eidolon class feature.",
+  "source": "Advanced Player's Guide pg. 171",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Summoner%27s%20Call",
+  "summary": "Whenever you summon your eidolon, you may give it a +2 enhancement bonus to its Strength, Dexterity, or Constitution.",
+  "file": "pf1e/feats.json",
+  "ref": "Summoner's Call"
+ },
+ {
   "id": "pf1e/sun-striker-combat-critical",
   "name": "Sun Striker",
   "system": "Pathfinder 1e",
@@ -65654,6 +67250,21 @@
   "ref": "Swordplay Upset (Combat)"
  },
  {
+  "id": "pf1e/sword-s-shadow-combat",
+  "name": "Sword's Shadow",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Deft Hands, base attack bonus +7, wyrwood.",
+  "source": "Heroes of Golarion pg. 7",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sword%27s%20Shadow",
+  "summary": "When you successfully damage an enemy with the first attack of a full attack, you can attempt a Sleight of Hand check against that enemy’s CMD as an immediate…",
+  "file": "pf1e/feats.json",
+  "ref": "Sword's Shadow (Combat)"
+ },
+ {
   "id": "pf1e/sycophant",
   "name": "Sycophant",
   "system": "Pathfinder 1e",
@@ -65907,6 +67518,21 @@
   "summary": "You gain an additional daily use of each of your minor magic and major magic rogue talents.",
   "file": "pf1e/feats.json",
   "ref": "Talented Magician"
+ },
+ {
+  "id": "pf1e/talmandor-s-lifting-achievement",
+  "name": "Talmandor's Lifting",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Achievement"
+  ],
+  "spheres": [],
+  "prerequisites": "Take at least 10d6 falling damage on three different occasions and survive.",
+  "source": "Andoran, Spirit of Liberty pg. 13",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Talmandor%27s%20Lifting",
+  "summary": "When you cast a healing spell on an unharmed creature, it briefly manifests as a pair of wings made of golden light.",
+  "file": "pf1e/feats.json",
+  "ref": "Talmandor's Lifting (Achievement)"
  },
  {
   "id": "pf1e/tandem-evasion-combat-teamwork",
@@ -66953,6 +68579,21 @@
   "ref": "Tiring Critical (Combat, Critical)"
  },
  {
+  "id": "pf1e/titan-s-tangle-combat",
+  "name": "Titan's Tangle",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Int 13, Combat Expertise, Improved Trip, Tangled Limbs, Weapon Focus with the chosen weapon.",
+  "source": "Martial Arts Handbook pg. 25",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Titan%27s%20Tangle",
+  "summary": "Choose one weapon with the reach special quality.",
+  "file": "pf1e/feats.json",
+  "ref": "Titan's Tangle (Combat)"
+ },
+ {
   "id": "pf1e/to-the-last-combat",
   "name": "To the Last",
   "system": "Pathfinder 1e",
@@ -67556,6 +69197,21 @@
   "ref": "Trap Wrecker"
  },
  {
+  "id": "pf1e/trapper-s-setup",
+  "name": "Trapper's Setup",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Craft (traps) 5 ranks.",
+  "source": "Ultimate Combat pg. 122",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Trapper%27s%20Setup",
+  "summary": "When you manually trigger a trap against opponents, that trap receives either a +2 circumstance bonus on melee attack rolls or a +2 circumstance bonus to its…",
+  "file": "pf1e/feats.json",
+  "ref": "Trapper's Setup"
+ },
+ {
   "id": "pf1e/traumatic-spell-metamagic",
   "name": "Traumatic Spell",
   "system": "Pathfinder 1e",
@@ -67599,6 +69255,21 @@
   "summary": "When you make a sneak attack with a poisoned weapon, you can forgo some of your sneak attack damage to increase the save DC of your poison, increasing the…",
   "file": "pf1e/feats.json",
   "ref": "Treacherous Toxin"
+ },
+ {
+  "id": "pf1e/treant-s-call",
+  "name": "Treant's Call",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Cha 17, ability to cast speak with plants, character level 13th, gathlain.",
+  "source": "Wilderness Origins pg. 11",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Treant%27s%20Call",
+  "summary": "You can cast liveoak once per day as a spell-like ability, but its duration is only 10 minutes.",
+  "file": "pf1e/feats.json",
+  "ref": "Treant's Call"
  },
  {
   "id": "pf1e/tree-hanger-combat",
@@ -68336,6 +70007,21 @@
   "summary": "The damage of your Two-Weapon Rend increases to 2d8 points plus twice your Strength modifier.",
   "file": "pf1e/feats.json",
   "ref": "Mythic Two-Weapon Rend"
+ },
+ {
+  "id": "pf1e/tyrant-s-rebuke-conduit",
+  "name": "Tyrant's Rebuke",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Conduit"
+  ],
+  "spheres": [],
+  "prerequisites": "Knowledge (planes) 5 ranks.",
+  "source": "Planar Adventures pg. 33",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Tyrant%27s%20Rebuke",
+  "summary": "As a standard action, you can make a melee touch attack.",
+  "file": "pf1e/feats.json",
+  "ref": "Tyrant's Rebuke (Conduit)"
  },
  {
   "id": "pf1e/ultimate-mercy",
@@ -69244,6 +70930,21 @@
   "ref": "Ursurping Spell (Metamagic)"
  },
  {
+  "id": "pf1e/usurper-s-guard-teamwork",
+  "name": "Usurper's Guard",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Teamwork"
+  ],
+  "spheres": [],
+  "prerequisites": "Base attack bonus +3 or ability to cast 2nd-level spells.",
+  "source": "Pathfinder #132: The Six-Legend Soul pg. 73",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Usurper%27s%20Guard",
+  "summary": "When an adjacent ally with this feat attempts a concentration check to cast a spell or use a spell-like ability defensively, you can attempt a combat maneuver…",
+  "file": "pf1e/feats.json",
+  "ref": "Usurper's Guard (Teamwork)"
+ },
+ {
   "id": "pf1e/valiant-steed",
   "name": "Valiant Steed",
   "system": "Pathfinder 1e",
@@ -69351,6 +71052,21 @@
   "summary": "While using Vanguard Style, when an adjacent ally is attacked or required to make a Reflex saving throw, you can expend a use of an attack of opportunity to…",
   "file": "pf1e/feats.json",
   "ref": "Vanguard Ward (Combat, Shield Style)"
+ },
+ {
+  "id": "pf1e/vanth-s-scythe",
+  "name": "Vanth's Scythe",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Character level 9th, duskwalker, ghost hunter racial trait.",
+  "source": "Pathfinder #139: The Dead Roads pg. 71",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Vanth%27s%20Scythe",
+  "summary": "When you use your ghost hunter racial trait to grant a scythe, quarterstaff, whip, or bow the ghost touch weapon special ability, you also grant the…",
+  "file": "pf1e/feats.json",
+  "ref": "Vanth's Scythe"
  },
  {
   "id": "pf1e/vaporous-potion",
@@ -69681,6 +71397,21 @@
   "summary": "Pick any two templates from the following list (see Simple Summoning Templates below for details): aerial, aqueous, chthonic, dark, fiery, or primordial.",
   "file": "pf1e/feats.json",
   "ref": "Versatile Summon Monster"
+ },
+ {
+  "id": "pf1e/versatile-summon-nature-s-ally",
+  "name": "Versatile Summon Nature's Ally",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Augment Summoning, Spell Focus (conjuration), Knowledge (nature) 1 rank, Knowledge (planes) 1 rank.",
+  "source": "Monster Summoner's Handbook pg. 18",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Versatile%20Summon%20Nature%27s%20Ally",
+  "summary": "When you summon one or more animals, humanoids, or vermin using a summon nature’s ally spell (or an effect that mimics such a spell), instead of granting them…",
+  "file": "pf1e/feats.json",
+  "ref": "Versatile Summon Nature's Ally"
  },
  {
   "id": "pf1e/vestigial-head",
@@ -70074,6 +71805,21 @@
   "ref": "Wand Dancer"
  },
  {
+  "id": "pf1e/wanderer-s-fortune-conduit",
+  "name": "Wanderer's Fortune",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Conduit"
+  ],
+  "spheres": [],
+  "prerequisites": "Knowledge (planes) 3 ranks.",
+  "source": "Planar Adventures pg. 33",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Wanderer%27s%20Fortune",
+  "summary": "As a swift action, you gain the benefits of freedom of movement until the end of your turn or until you benefit from the effects to escape a grapple or magical…",
+  "file": "pf1e/feats.json",
+  "ref": "Wanderer's Fortune (Conduit)"
+ },
+ {
   "id": "pf1e/wandering-mind",
   "name": "Wandering Mind",
   "system": "Pathfinder 1e",
@@ -70132,6 +71878,21 @@
   "summary": "You can spend 10 minutes and two uses of your vishkanya venom to coat an area no larger than 10 feet by 10 feet with your blood.",
   "file": "pf1e/feats.json",
   "ref": "Warding Blood"
+ },
+ {
+  "id": "pf1e/warleader-s-rage",
+  "name": "Warleader's Rage",
+  "system": "Pathfinder 1e",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Cha 13, half-orc or orc, non-lawful.",
+  "source": "Orcs of Golarion pg. 25",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Warleader%27s%20Rage",
+  "summary": "Feats and abilities that allow an ally to rage or enhance a rage if adjacent to you (such as Amplified Rage and Sympathetic Rage) persist as long as your ally…",
+  "file": "pf1e/feats.json",
+  "ref": "Warleader's Rage"
  },
  {
   "id": "pf1e/warmonger",
@@ -71079,6 +72840,21 @@
   "summary": "You gain a +2 bonus to AC against charge attacks.",
   "file": "pf1e/feats.json",
   "ref": "Wings of the Androsphinx (Combat)"
+ },
+ {
+  "id": "pf1e/winter-s-strike-combat",
+  "name": "Winter's Strike",
+  "system": "Pathfinder 1e",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Nature Magic or the ability to cast druid or ranger spells; Vital Strike, Knowledge (nature) 5 ranks.",
+  "source": "Advanced Class Guide pg. 159",
+  "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Winter%27s%20Strike",
+  "summary": "A number of times per day equal to your Wisdom modifier (minimum 1), when you use Vital Strike (or Improved Vital Strike or Greater Vital Strike), your strike…",
+  "file": "pf1e/feats.json",
+  "ref": "Winter's Strike (Combat)"
  },
  {
   "id": "pf1e/witch-knife",

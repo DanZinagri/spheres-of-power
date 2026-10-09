@@ -188,7 +188,11 @@ function calcCore(m) {
       asf += num(g.asf)
     }
   }
-  const acp = worstAcp.armor + worstAcp.shield
+  // encumbrance: a medium or heavy load caps Dex to AC and sets a check penalty (the worse of it
+  // and the armor's applies) and slows you down
+  const enc = encumbrance(s, abl.str.total + m("carryStr"))
+  if (enc.slow) maxDex = Math.min(maxDex, enc.maxDex)
+  const acp = Math.max(worstAcp.armor + worstAcp.shield, enc.acp ?? 0)
   const dexAc = Math.min(abl.dex.mod, maxDex)
   const acMods = m("ac") + m("aac") + m("sac") + m("nac")
   const ac = 10 + armor + shield + dexAc + size + acMods
@@ -197,7 +201,8 @@ function calcCore(m) {
   const cmb = bab + abl.str.mod - size + m("cmb")
   const cmd = 10 + bab + abl.str.mod + abl.dex.mod - size + m("cmd")
   const init = abl.dex.mod + m("init")
-  const speed = num(s.race.speed) + m("landSpeed") + m("allSpeeds")
+  const baseSpeed = num(s.race.speed) + m("landSpeed") + m("allSpeeds")
+  const speed = enc.slow ? baseSpeed - 5 * Math.floor(baseSpeed / 15) : baseSpeed // 30 -> 20, 20 -> 15
   const attackMod = { melee: m("attack") + m("wattack") + m("mattack"), ranged: m("attack") + m("wattack") + m("rattack") }
   const damageMod = { melee: m("damage") + m("wdamage") + m("mwdamage") + m("mdamage"), ranged: m("damage") + m("wdamage") + m("rwdamage") + m("rdamage") }
   const skillExtra = (k, a, rank) => m("skills") + m(`${a}Skills`) + m(`skill.${k}`) + (rank ? 0 : m("unskills"))
@@ -234,7 +239,7 @@ function calcCore(m) {
   const spheres = { cl, msb, msd: 11 + msb + sm("msd"), concentration: msb + castMod + sm("sphereConcentration"), talents: {} }
   for (const t of s.talents) if (t.sphere && !t.exclude) spheres.talents[t.sphere] = (spheres.talents[t.sphere] ?? 0) + 1
   const pointsSpent = ABL.reduce((a, k) => a + (POINT_COST[num(s.abilities[k])] ?? NaN), 0)
-  return { abl, hd, bab, saves, saveTotals, hp, classHp, ac, touch, flat, cmb, cmd, init, speed, attackMod, damageMod, skillExtra, acp, asf, classSkills, skillBudget, bonusSkill, ranksUsed, bgUsed, bgBudget, featSlots, featsTaken, cl, spheres, pointsSpent, size }
+  return { abl, hd, bab, saves, saveTotals, hp, classHp, enc, ac, touch, flat, cmb, cmd, init, speed, attackMod, damageMod, skillExtra, acp, asf, classSkills, skillBudget, bonusSkill, ranksUsed, bgUsed, bgBudget, featSlots, featsTaken, cl, spheres, pointsSpent, size }
 }
 
 function classHpFor(c, i) {
@@ -262,6 +267,10 @@ function h(tag, attrs = {}, ...kids) {
   }
   for (const kid of kids.flat()) if (kid != null && kid !== false) el.append(kid instanceof Node ? kid : String(kid))
   return el
+}
+// replace an element's contents, skipping empty (null / false) parts (replaceChildren would print "null")
+function fill(el, ...kids) {
+  el.replaceChildren(...kids.flat().filter((k) => k != null && k !== false))
 }
 function getPath(obj, path) {
   return path.split(".").reduce((o, k) => o?.[k], obj)
@@ -447,7 +456,7 @@ function openCompendiumSearch(kind, ctx = {}) {
   let all = []
   let texts = null // entry id -> lowercased rules text, once loaded for the text search
   const pick = async (f) => {
-    results.replaceChildren(h("p", { class: "muted" }, `Adding ${f.name}…`))
+    fill(results, h("p", { class: "muted" }, `Adding ${f.name}…`))
     const data = await loadCompendium(f.file, { entries: [] })
     const full = data.entries.find((x) => (f.ref ? x.name === f.ref : x.id === f.id))
     if (P.onPick) P.onPick(f, full, ctx)
@@ -490,7 +499,7 @@ function openCompendiumSearch(kind, ctx = {}) {
     const rank = (f) => (!q ? 0 : f.name.toLowerCase().startsWith(q) ? 0 : f.name.toLowerCase().includes(q) ? 1 : 2)
     hits.sort((a, b) => rank(a) - rank(b) || a.name.localeCompare(b.name))
     const shown = hits.slice(0, 60)
-    results.replaceChildren(
+    fill(results, 
       ...shown.map((f) => h("button", { class: "picker-item", role: "listitem", onclick: () => pick(f) },
         h("span", { class: "pi-name" }, f.name,
           h("span", { class: "pi-meta" }, P.meta ? ` ${P.meta(f)}` : ` ${P.cats(f).join(", ")}${P.byRace ? ` · ${f.race}` : ""} · ${isPf(f) ? "Pathfinder" : f.system}`)),
@@ -505,7 +514,7 @@ function openCompendiumSearch(kind, ctx = {}) {
   onlyRace.addEventListener("change", () => { fillCategories(); render() })
   fullText.addEventListener("change", async () => {
     if (fullText.checked && !texts) {
-      results.replaceChildren(h("p", { class: "muted" }, "Loading rules text…"))
+      fill(results, h("p", { class: "muted" }, "Loading rules text…"))
       await loadTexts()
     }
     render()
@@ -642,6 +651,7 @@ function changed(rerender) {
   renderHeader()
   renderTabs()
   if (rerender) renderPanel()
+  else document.getElementById("carry-card")?.replaceWith(carryCard())
 }
 
 function toast(msg) {
@@ -1125,14 +1135,16 @@ const panels = {
     return [
       h("h2", {}, "Gear"),
       h("div", { class: "card grid" }, ["pp", "gp", "sp", "cp"].map((k) => field(k.toUpperCase(), input(`currency.${k}`, { type: "number", min: 0 })))),
+      carryCard(),
       h("h3", {}, "Items"),
       entryList("gear", () => ({ name: "", kind: "loot", qty: 1, weight: 0, price: 0, equipped: false, desc: "" }), (e, p) => {
         const out = [
           field("Name", input(p + "name", { placeholder: "Longsword" })),
           field("Type", select(p + "kind", GEAR_KINDS)),
           field("Qty", input(p + "qty", { type: "number", min: 0 })),
-          field("Weight (lb.)", input(p + "weight", { type: "number", min: 0, step: 0.5 })),
-          field("Price (gp)", input(p + "price", { type: "number", min: 0 })),
+          field("Weight (lb.)", input(p + "weight", { type: "number", min: 0, step: "any" })),
+          field("Price (gp)", input(p + "price", { type: "number", min: 0, step: "any" })),
+          h("div", { class: "field" }, h("span", {}, " "), carriedBox(p)),
         ]
         if (["weapon", "armor", "shield", "equipment"].includes(e.kind)) out.push(h("div", { class: "field" }, h("span", {}, " "), checkbox(p + "equipped", "Equipped")))
         if (e.kind === "weapon") out.push(
@@ -1151,7 +1163,7 @@ const panels = {
           field("Spell failure %", input(p + "asf", { type: "number", min: 0, step: 5 })),
         )
         return out
-      }, "+ Add item", groupBy("kind", GEAR_KINDS)),
+      }, () => h("button", { style: "margin-top:.75rem", onclick: () => openGearChooser() }, "+ Add item"), groupBy("kind", GEAR_KINDS)),
     ]
   },
 
@@ -1220,7 +1232,7 @@ function openTraditionPicker() {
   const render = () => {
     const q = box.value.trim().toLowerCase()
     const hits = all.filter((t) => !q || t.name.toLowerCase().includes(q) || t.md.toLowerCase().includes(q))
-    results.replaceChildren(...hits.map((t) => h("button", { class: "picker-item", role: "listitem", onclick: () => { dlg.done(); openTradition(t) } },
+    fill(results, ...hits.map((t) => h("button", { class: "picker-item", role: "listitem", onclick: () => { dlg.done(); openTradition(t) } },
       h("span", { class: "pi-name" }, t.name),
       h("span", { class: "pi-sum" }, t.summary),
       h("span", { class: "pi-pre" }, traditionLine(t)))),
@@ -1449,7 +1461,7 @@ async function openCastingTradition() {
         h("span", { class: "pi-sum ct-sum" }, b.summary), rules(b))
     }
     const q = sel.filter.trim().toLowerCase()
-    body.replaceChildren(
+    fill(body, 
       h("div", { class: "row picker-filters" },
         field("Start from", templateSel), field("Name", nameBox), field("Casting ability", abil)),
       tpl ? h("p", { class: "note" }, tpl.summary, tpl.notes.length ? h("br") : null, tpl.notes.join(" · ")) : null,
@@ -1583,7 +1595,7 @@ async function openTradeTradition() {
       !sel.sphere && "choose a Guile sphere",
       sel.adroit && (sel.bonusKind === "sphere" ? !sel.bonusSphere && "choose the adroit bonus sphere" : !sel.bonusTalent && "choose the adroit bonus talent"),
     ].filter(Boolean)
-    body.replaceChildren(
+    fill(body, 
       h("div", { class: "row picker-filters" }, field("Start from", templateSel), field("Name", nameBox),
         h("label", { class: "row", style: "gap:.4rem;align-self:end" }, adroit, "Adroit (5 + Int or more skill ranks per level)")),
       tpl ? h("p", { class: "note" }, tpl.summary) : null,
@@ -1743,7 +1755,7 @@ function openSpellSearch() {
     const shown = hits.slice(0, 60)
     const levelText = (f) => cls.value ? `${cls.value} ${f.levels[cls.value]}`
       : Object.entries(f.levels).slice(0, 6).map(([c, n]) => `${c} ${n}`).join(", ") + (Object.keys(f.levels).length > 6 ? ", …" : "")
-    results.replaceChildren(
+    fill(results, 
       ...shown.map((f) => h("button", { class: "picker-item", role: "listitem", onclick: () => pick(f) },
         h("span", { class: "pi-name" }, f.name, h("span", { class: "pi-meta" }, ` ${f.school} · ${levelText(f) || "no class level"}`)),
         f.summary ? h("span", { class: "pi-sum" }, f.summary) : null,
@@ -1752,7 +1764,7 @@ function openSpellSearch() {
       hits.length ? null : h("p", { class: "muted" }, all.length ? "No spells match." : "Couldn't load the spells."))
   }
   const pick = async (f) => {
-    results.replaceChildren(h("p", { class: "muted" }, `Adding ${f.name}…`))
+    fill(results, h("p", { class: "muted" }, `Adding ${f.name}…`))
     const data = await loadCompendium(f.file, { entries: [] })
     const full = data.entries.find((x) => x.id === f.id)
     const castLevel = Object.entries(f.levels).find(([c]) => c.toLowerCase() === castName)?.[1]
@@ -1767,7 +1779,7 @@ function openSpellSearch() {
   lvl.addEventListener("change", render)
   fullText.addEventListener("change", async () => {
     if (fullText.checked && !texts) {
-      results.replaceChildren(h("p", { class: "muted" }, "Loading spell text…"))
+      fill(results, h("p", { class: "muted" }, "Loading spell text…"))
       const data = await loadCompendium("spells.json", { entries: [] })
       texts = Object.fromEntries(data.entries.map((x) => [x.id, mdToText(x.md).toLowerCase()]))
     }
@@ -1782,6 +1794,380 @@ function openSpellSearch() {
     render()
   })
   box.focus()
+}
+
+// ---------- gear (the site's compendium) ----------
+// compendium/gear-index-<cat>.json lists each category's items (Archives of Nethys and the Spheres
+// pages) with price, weight and stats; gear-<cat>.json holds their text. Consumables can also be
+// made from a spell (potion, scroll or wand), priced by the item creation rules.
+const GEAR_PICK_CATS = { weapon: "Weapons", armor: "Armor", shield: "Shields", gear: "Adventuring gear", consumable: "Consumables", magic: "Magic items" }
+const COIN_CP = { pp: 1000, gp: 100, sp: 10, cp: 1 }
+// spell-made consumables: highest spell level, price per spell level x caster level, weight (lb.)
+const SPELL_ITEMS = {
+  potion: { label: "Potion or oil", noun: "Potion", maxLevel: 3, rate: 50, weight: 0.0625, mat: 1 },
+  scroll: { label: "Scroll", noun: "Scroll", maxLevel: 9, rate: 25, weight: 0, mat: 1 },
+  wand: { label: "Wand (50 charges)", noun: "Wand", maxLevel: 4, rate: 750, weight: 0.0625, mat: 50 },
+}
+// a class's caster level when it first casts spells of a level: 9-level prepared casters 2n-1,
+// spontaneous ones 2n, 6- and 4-level casters 3n-2 (Core Rulebook, Magic Items: potion and scroll costs)
+const SPONTANEOUS_9 = ["Sorcerer", "Oracle", "Arcanist", "Psychic"]
+const FULL_9 = ["Cleric", "Druid", "Wizard", "Witch", "Shaman"]
+function minCasterLevel(cls, level) {
+  if (level <= 0) return 1
+  if (SPONTANEOUS_9.includes(cls)) return level === 1 ? 1 : 2 * level
+  if (FULL_9.includes(cls) || !cls) return 2 * level - 1
+  return 3 * level - 2
+}
+function spellItemPrice(type, level, cl, materialGp = 0) {
+  const T = SPELL_ITEMS[type]
+  return (level === 0 ? T.rate / 2 : T.rate * level) * cl + materialGp * T.mat
+}
+// "M (diamond dust worth 500 gp)" -> 500
+const materialCost = (components) => [...(components ?? "").matchAll(/worth\s+([\d,]+)\s*gp/gi)].reduce((a, m) => a + +m[1].replace(/,/g, ""), 0)
+
+const gp = (n) => (n == null ? "—" : n >= 1 || n === 0 ? `${+n.toFixed(2)} gp` : n >= 0.1 ? `${+(n * 10).toFixed(1)} sp` : `${Math.round(n * 100)} cp`)
+const lb = (n) => (n == null ? "" : n === 0 ? "—" : `${+n.toFixed(3)} lb.`)
+// a magic item's slot as one of the body slots ("boots" -> feet, "neck or shoulder" -> neck)
+const MAGIC_SLOTS = [[/^armor/, "armor"], [/^shield/, "shield"], [/^(belt|waist)/, "belt"], [/^(body|torso)/, "body"],
+  [/^chest/, "chest"], [/^(eye|goggles)/, "eyes"], [/^(feet|boots)/, "feet"], [/^(hand|glove|gauntlet)/, "hands"],
+  [/^headband/, "headband"], [/^(head|helm|mask|face)/, "head"], [/^(neck|amulet)/, "neck"], [/^ring/, "ring"],
+  [/^(shoulder|cloak|mantle|back)/, "shoulders"], [/^wrist/, "wrist"], [/^weapon/, "weapon"]]
+const magicSlot = (f) => { const s = (f.slot ?? "").toLowerCase().trim(); return MAGIC_SLOTS.find(([re]) => re.test(s))?.[1] ?? "none" }
+// enhancement for a weapon, armor or shield bought from the compendium: name prefix and extra price
+// (a list: an object would put the number keys first)
+const ENHANCEMENTS = [["", "Not magical"], ["mw", "Masterwork"], ...[1, 2, 3, 4, 5].map((n) => [n, `+${n}`])]
+function enhancementPrice(cat, enh) {
+  const [mw, per] = cat === "weapon" ? [300, 2000] : [150, 1000]
+  return enh === "mw" ? mw : enh ? mw + per * enh * enh : 0
+}
+
+// the purse: the total in copper, and paying an amount (in gp) out of it, making change from a
+// bigger coin when the smaller ones run out. Returns false (and pays nothing) when it can't.
+const purseCp = () => Object.entries(COIN_CP).reduce((a, [k, v]) => a + num(state.currency[k]) * v, 0)
+function pay(priceGp) {
+  let due = Math.round(priceGp * 100)
+  if (due <= 0) return true
+  if (due > purseCp()) return false
+  const coins = Object.fromEntries(Object.keys(COIN_CP).map((k) => [k, Math.max(0, Math.floor(num(state.currency[k])))]))
+  for (const [k, v] of Object.entries(COIN_CP)) {
+    const use = Math.min(coins[k], Math.floor(due / v))
+    coins[k] -= use
+    due -= use * v
+  }
+  if (due > 0) {
+    // break the smallest coin worth more than what's left; the change comes back in smaller coins
+    const [k, v] = Object.entries(COIN_CP).reverse().find(([k, v]) => coins[k] > 0 && v > due)
+    coins[k] -= 1
+    let change = v - due
+    for (const [k2, v2] of Object.entries(COIN_CP)) {
+      if (v2 >= v) continue
+      coins[k2] += Math.floor(change / v2)
+      change %= v2
+    }
+  }
+  Object.assign(state.currency, coins)
+  return true
+}
+
+function addGear(extra = {}) {
+  state.gear.push({ name: "", kind: "loot", qty: 1, weight: 0, price: 0, equipped: false, desc: "", ...extra })
+  changed(true)
+  if (!extra.name) focusNewEntry()
+}
+
+function openGearChooser() {
+  const dlg = openDialog("Add item",
+    h("p", { class: "muted" }, "Pick an item from the compendium to fill in its price, weight, stats and text, or add your own."),
+    h("div", { class: "row add-row" },
+      ...Object.entries(GEAR_PICK_CATS).map(([cat, label]) =>
+        h("button", { class: "primary", onclick: () => { dlg.done(); openGearSearch(cat) } }, label)),
+      h("button", { onclick: () => { dlg.done(); addGear() } }, "Custom item")))
+}
+
+// a select of value -> label (the first option is "any")
+const gearSelect = (aria, options) => h("select", { "aria-label": aria },
+  ...(Array.isArray(options) ? options : Object.entries(options)).map(([v, l]) => h("option", { value: v }, l)))
+
+// names and searches compare with curly quotes made straight ("Alchemist’s fire")
+const fold = (t) => t.toLowerCase().replace(/[’‘]/g, "'")
+function openGearSearch(cat) {
+  const box = h("input", { type: "search", placeholder: `Search ${GEAR_PICK_CATS[cat].toLowerCase()} by name`, "aria-label": "Search items" })
+  const fullText = h("input", { type: "checkbox" })
+  const systems = { all: "All systems", pf: "Pathfinder", spheres: "Spheres" }
+  const sys = gearSelect("System", systems)
+  // the category's own filters: [key, select, test(entry, value)]
+  const filters = {
+    weapon: [
+      ["prof", gearSelect("Proficiency", { "": "Any proficiency", Simple: "Simple", Martial: "Martial", Exotic: "Exotic" }), (f, v) => f.prof === v],
+      ["attack", gearSelect("Melee or ranged", { "": "Melee or ranged", melee: "Melee", ranged: "Ranged" }),
+        (f, v) => f.attack === v || (v === "ranged" && f.thrown)],
+      ["hands", gearSelect("Hands", { "": "Any handedness", light: "Light", one: "One-handed", two: "Two-handed" }), (f, v) => f.hands === v],
+      ["sub", gearSelect("Kind", { "": "Weapons and ammunition", Weapon: "Weapons", Ammunition: "Ammunition", Firearm: "Firearms",
+        "Firearm ammunition and gear": "Firearm ammunition and gear", Explosive: "Explosives", "Siege engine": "Siege engines",
+        Modification: "Modifications" }), (f, v) => f.sub === v],
+    ],
+    armor: [["armorType", gearSelect("Armor type", { "": "Any armor", light: "Light", medium: "Medium", heavy: "Heavy",
+      extra: "Extras (spikes, gauntlet)", mod: "Modifications" }), (f, v) => f.armorType === v]],
+    shield: [
+      ["shieldType", gearSelect("Shield type", { "": "Any shield", buckler: "Buckler", light: "Light", heavy: "Heavy", tower: "Tower" }), (f, v) => f.shieldType === v],
+      ["material", gearSelect("Material", { "": "Any material", wood: "Wooden", steel: "Steel", leather: "Leather", other: "Other" }), (f, v) => f.material === v],
+    ],
+    gear: [["sub", gearSelect("Category", { "": "All categories" }), (f, v) => f.sub === v]],
+    magic: [
+      ["sub", gearSelect("Group", { "": "All groups" }), (f, v) => f.sub === v],
+      ["slot", gearSelect("Slot", { "": "Any slot" }), (f, v) => magicSlot(f) === v],
+    ],
+    consumable: [["sub", gearSelect("Group", { "": "All groups" }), (f, v) => f.sub === v]],
+  }[cat]
+  // consumables: made from a spell, or picked from the list
+  const mode = gearSelect("Consumable", { list: "Potions, compounds and scrolls (listed)",
+    ...Object.fromEntries(Object.entries(SPELL_ITEMS).map(([k, T]) => [k, `${T.label} of a spell`])) })
+  const spellCls = h("select", { "aria-label": "Class" }, h("option", { value: "" }, "Cheapest class"))
+  const spellLvl = h("select", { "aria-label": "Spell level" }, h("option", { value: "" }, "Any level"))
+  const clBox = h("input", { type: "number", min: 1, max: 20, placeholder: "min", style: "width:4.5rem", "aria-label": "Caster level" })
+  const qty = h("input", { type: "number", min: 1, value: 1, style: "width:4rem", "aria-label": "Quantity" })
+  const enh = gearSelect("Enhancement", ENHANCEMENTS)
+  const buy = h("input", { type: "checkbox" })
+  const purse = h("span", { class: "note" })
+  const showPurse = () => purse.replaceChildren(`You have ${Object.keys(COIN_CP).map((k) => `${num(state.currency[k])} ${k}`).join(", ")}`)
+  showPurse()
+  const results = h("div", { class: "picker-results", role: "list" }, h("p", { class: "muted" }, "Loading…"))
+  const spellRow = h("div", { class: "row picker-filters", style: "display:none" }, spellCls, spellLvl,
+    h("label", { class: "row", style: "gap:.3rem" }, "Caster level", clBox))
+  const filterRow = h("div", { class: "row picker-filters" }, ...(filters ?? []).map(([, el]) => el))
+  const dlg = openDialog(`Add ${GEAR_PICK_CATS[cat].toLowerCase()} from the compendium`,
+    cat === "consumable" ? h("div", { class: "row picker-filters" }, mode) : null,
+    h("div", { class: "row picker-filters" }, box, state.spheresModule ? sys : null),
+    filterRow, spellRow,
+    h("div", { class: "row picker-filters" },
+      h("label", { class: "row", style: "gap:.3rem" }, fullText, "Search item text too"),
+      h("label", { class: "row", style: "gap:.3rem" }, "Qty", qty),
+      ["weapon", "armor", "shield"].includes(cat) ? h("label", { class: "row", style: "gap:.3rem" }, "Enhancement", enh) : null),
+    h("div", { class: "row picker-filters" },
+      h("label", { class: "row", style: "gap:.3rem" }, buy, "Buy it (pay from your coins)"), purse),
+    state.spheresModule ? null : h("p", { class: "note" }, "Spheres items are listed when Spheres is turned on."),
+    results)
+  let all = [], spells = null, texts = null, spellTexts = null
+  const spellMode = () => cat === "consumable" && mode.value !== "list"
+  const inSystem = (f) => (state.spheresModule || isPf(f)) && (sys.value === "all" || (sys.value === "pf") === isPf(f))
+  // dropdowns that list what the data has (gear categories, magic item groups and slots)
+  const fillOptions = () => {
+    for (const [key, el] of filters ?? []) {
+      if (el.options.length > 1 && key !== "sub" && key !== "slot") continue
+      if (!["gear", "magic", "consumable"].includes(cat)) continue
+      const counts = {}
+      for (const f of all) if (inSystem(f)) { const v = key === "slot" ? magicSlot(f) : f[key]; if (v) counts[v] = (counts[v] || 0) + 1 }
+      const keep = el.value
+      el.replaceChildren(el.options[0], ...Object.keys(counts).sort((a, b) => a.localeCompare(b))
+        .map((v) => h("option", { value: v }, `${v[0].toUpperCase()}${v.slice(1)} (${counts[v]})`)))
+      el.value = keep in counts ? keep : ""
+    }
+  }
+  const metaOf = (f) => {
+    const bits = [gp(f.price ?? null) === "—" ? f.priceText || "no price" : gp(f.price), lb(f.weight)]
+    if (cat === "weapon") bits.push([f.prof, f.attack === "ranged" ? "ranged" : f.thrown ? "melee, thrown" : f.attack,
+      { light: "light", one: "one-handed", two: "two-handed" }[f.hands]].filter(Boolean).join(" "),
+    [f.dmgM, f.critMult && `${f.critRange < 20 ? `${f.critRange}-20/` : ""}×${f.critMult}`, f.dmgType].filter(Boolean).join(" "))
+    if (cat === "armor") bits.push(`${f.armorType}`, f.ac ? `AC +${f.ac}` : "", f.maxDex != null ? `max Dex +${f.maxDex}` : "", f.acp ? `ACP −${f.acp}` : "")
+    if (cat === "shield") bits.push(f.shieldType, f.material !== "other" ? f.material : "", `AC +${f.ac}`, f.acp ? `ACP −${f.acp}` : "")
+    if (cat === "gear" || cat === "consumable") bits.push(f.sub)
+    if (cat === "magic") bits.push(f.sub, f.slot && f.slot !== "none" ? `slot ${f.slot}` : "", f.base ? `+${f.enh} ${f.base.toLowerCase()}` : "")
+    if (!isPf(f)) bits.push(f.system)
+    return bits.filter(Boolean).join(" · ")
+  }
+  // a spell's item in the chosen form: the class and level it's made at, caster level and price
+  const spellItem = (f) => {
+    const T = SPELL_ITEMS[mode.value]
+    const options = Object.entries(f.levels).filter(([c, n]) => (!spellCls.value || c === spellCls.value) && n <= T.maxLevel)
+    if (!options.length) return null
+    const mat = materialCost(f.components)
+    const priced = options.map(([c, n]) => {
+      const cl = Math.max(minCasterLevel(c, n), num(clBox.value) || 0)
+      return { cls: c, level: n, cl, price: spellItemPrice(mode.value, n, cl, mat) }
+    })
+    return priced.sort((a, b) => a.price - b.price)[0]
+  }
+  const render = () => {
+    const q = fold(box.value.trim())
+    // (.row sets display, which beats the hidden attribute)
+    filterRow.style.display = spellMode() ? "none" : ""
+    spellRow.style.display = spellMode() ? "" : "none"
+    sys.style.display = spellMode() ? "none" : ""
+    if (spellMode()) return renderSpells(q)
+    const hits = all.filter((f) => inSystem(f) && (filters ?? []).every(([, el, test]) => !el.value || test(f, el.value))
+      && (!q || fold(f.name).includes(q) || (fullText.checked && texts?.[f.id]?.includes(q))))
+    const rank = (f) => (!q ? 0 : fold(f.name).startsWith(q) ? 0 : fold(f.name).includes(q) ? 1 : 2)
+    hits.sort((a, b) => rank(a) - rank(b) || a.name.localeCompare(b.name))
+    const shown = hits.slice(0, 60)
+    fill(results, 
+      ...shown.map((f) => h("button", { class: "picker-item", role: "listitem", onclick: () => pick(f) },
+        h("span", { class: "pi-name" }, f.name, h("span", { class: "pi-meta" }, ` ${metaOf(f)}`)),
+        f.summary ? h("span", { class: "pi-sum" }, f.summary) : null)),
+      hits.length > shown.length ? h("p", { class: "note" }, `Showing ${shown.length} of ${hits.length}; type more of the name or narrow the filters.`) : null,
+      hits.length ? null : h("p", { class: "muted" }, all.length ? "Nothing matches." : "Couldn't load the list."))
+  }
+  const renderSpells = (q) => {
+    if (!spells) return
+    const T = SPELL_ITEMS[mode.value]
+    const hits = spells.map((f) => [f, spellItem(f)]).filter(([f, it]) => it && (!spellLvl.value || String(it.level) === spellLvl.value)
+      && (!q || fold(f.name).includes(q) || (fullText.checked && spellTexts?.[f.id]?.includes(q))))
+    const rank = (f) => (!q ? 0 : fold(f.name).startsWith(q) ? 0 : fold(f.name).includes(q) ? 1 : 2)
+    hits.sort(([a, x], [b, y]) => rank(a) - rank(b) || x.level - y.level || a.name.localeCompare(b.name))
+    const shown = hits.slice(0, 60)
+    fill(results, 
+      ...shown.map(([f, it]) => h("button", { class: "picker-item", role: "listitem", onclick: () => pickSpell(f) },
+        h("span", { class: "pi-name" }, `${T.noun} of ${f.name}`,
+          h("span", { class: "pi-meta" }, ` ${gp(it.price)} · ${it.cls} ${it.level}, CL ${it.cl}${materialCost(f.components) ? " · includes material cost" : ""}`)),
+        f.summary ? h("span", { class: "pi-sum" }, f.summary) : null)),
+      hits.length > shown.length ? h("p", { class: "note" }, `Showing ${shown.length} of ${hits.length}; type more of the name or pick a class and level.`) : null,
+      hits.length ? null : h("p", { class: "muted" }, `No spells of level ${T.maxLevel} or lower match.`))
+  }
+  const fillSpellLevels = () => {
+    const T = SPELL_ITEMS[mode.value]
+    if (!T) return
+    const keep = spellLvl.value
+    spellLvl.replaceChildren(h("option", { value: "" }, "Any level"),
+      ...Array.from({ length: T.maxLevel + 1 }, (_, n) => h("option", { value: n }, n === 0 ? "0 (cantrips / orisons)" : `Level ${n}`)))
+    spellLvl.value = +keep <= T.maxLevel ? keep : ""
+  }
+  // buy (if asked) and add: false when the purse is short
+  const acquire = (item, price) => {
+    const n = Math.max(1, num(qty.value) || 1)
+    const total = (price ?? 0) * n
+    if (buy.checked && !pay(total)) {
+      results.prepend(h("p", { class: "warn" }, `You can't afford ${item.name} (${gp(total)}); you have ${gp(purseCp() / 100)}. Uncheck "Buy it" to add it anyway.`))
+      return false
+    }
+    addGear({ ...item, qty: n })
+    if (buy.checked) toast(`Bought ${n > 1 ? `${n} × ` : ""}${item.name} for ${gp(total)}`)
+    dlg.done()
+    return true
+  }
+  const pick = async (f) => {
+    const data = await loadCompendium(f.file ?? `gear-${cat}.json`, { entries: [] })
+    const full = data.entries.find((x) => x.id === f.id)
+    const small = ["sm", "tiny", "dim", "fine"].includes(state.race.size)
+    const as = f.as ?? cat
+    const e = Number(enh.value) || (enh.value === "mw" ? "mw" : 0)
+    let name = f.name, price = f.price ?? 0
+    const item = { kind: { weapon: "weapon", armor: "armor", shield: "shield", gear: f.consumable ? "consumable" : "loot",
+      consumable: "consumable", magic: "equipment" }[as] ?? "equipment",
+    weight: (f.weight ?? 0) * (small && ["weapon", "armor", "shield"].includes(cat) ? 0.5 : 1), ref: f.id,
+    desc: mdToText(full?.md ?? f.summary) }
+    if (cat === "consumable") item.subType = /scroll/i.test(f.sub) ? "scroll" : "potion"
+    else if (f.consumable) item.subType = "misc" // alchemical items, herbs, food
+    if (as === "weapon") {
+      Object.assign(item, { attack: f.attack === "ranged" ? "ranged" : "melee", damage: (small ? f.dmgS : f.dmgM) || f.dmgM || "",
+        dmgType: (f.dmgType ?? "").match(/[BPS]/g)?.join("/") ?? "", critRange: f.critRange ?? 20, critMult: f.critMult ?? 2, enh: f.enh ?? 0 })
+    }
+    if (as === "armor" || as === "shield") {
+      Object.assign(item, { ac: f.ac ?? 0, maxDex: f.maxDex ?? "", acp: f.acp ?? 0, asf: f.asf ?? 0, enh: f.enh ?? 0,
+        armorType: as === "armor" ? `${["light", "medium", "heavy"].includes(f.armorType) ? f.armorType : "light"}Armor`
+          : { buckler: "other", light: "lightShield", heavy: "heavyShield", tower: "towerShield" }[f.shieldType] ?? "other" })
+    }
+    if (e && ["weapon", "armor", "shield"].includes(cat) && ["Weapon", "Firearm", undefined].includes(f.sub)) {
+      price += enhancementPrice(cat, e)
+      name = e === "mw" ? `Masterwork ${fold(f.name)}` : `+${e} ${fold(f.name)}`
+      if (e !== "mw") item.enh = e
+      if (cat !== "weapon") item.acp = Math.max(0, num(item.acp) - 1) // masterwork armor and shields
+    }
+    acquire({ ...item, name, price }, price)
+  }
+  const pickSpell = async (f) => {
+    const it = spellItem(f)
+    const T = SPELL_ITEMS[mode.value]
+    const data = await loadCompendium("spells.json", { entries: [] })
+    const full = data.entries.find((x) => x.id === f.id)
+    const name = `${T.noun} of ${f.name}${mode.value === "potion" ? "" : ` (CL ${it.cl})`}`
+    acquire({ name, kind: "consumable", subType: mode.value, weight: T.weight, price: it.price, ref: f.id,
+      desc: `${T.label}: ${f.name} (${it.cls} ${it.level}), caster level ${it.cl}, ${gp(it.price)}.\n\n${mdToText(full?.md ?? f.summary)}` }, it.price)
+  }
+  const loadSpells = async () => {
+    if (spells) return
+    fill(results, h("p", { class: "muted" }, "Loading spells…"))
+    spells = await loadCompendium("spells-index.json", [])
+    const classes = [...new Set(spells.flatMap((f) => Object.keys(f.levels)))].sort((a, b) => a.localeCompare(b))
+    const castName = (state.classes[state.spellcasting.cls]?.name ?? "").trim().toLowerCase()
+    spellCls.replaceChildren(h("option", { value: "" }, "Cheapest class"), ...classes.map((c) => h("option", { value: c }, c)))
+    spellCls.value = classes.find((c) => c.toLowerCase() === castName) ?? ""
+  }
+  const loadTexts = async () => {
+    if (spellMode()) {
+      if (spellTexts) return
+      const data = await loadCompendium("spells.json", { entries: [] })
+      spellTexts = Object.fromEntries(data.entries.map((x) => [x.id, mdToText(x.md).toLowerCase()]))
+    } else if (!texts) {
+      const data = await loadCompendium(`gear-${cat}.json`, { entries: [] })
+      texts = Object.fromEntries(data.entries.map((x) => [x.id, mdToText(x.md).toLowerCase()]))
+    }
+  }
+  box.addEventListener("input", render)
+  sys.addEventListener("change", () => { fillOptions(); render() })
+  for (const [, el] of filters ?? []) el.addEventListener("change", render)
+  for (const el of [spellCls, spellLvl]) el.addEventListener("change", render)
+  clBox.addEventListener("input", render)
+  mode.addEventListener("change", async () => {
+    if (spellMode()) { await loadSpells(); fillSpellLevels() }
+    if (fullText.checked) await loadTexts()
+    render()
+  })
+  fullText.addEventListener("change", async () => {
+    if (fullText.checked) {
+      fill(results, h("p", { class: "muted" }, "Loading item text…"))
+      await loadTexts()
+    }
+    render()
+  })
+  loadCompendium(`gear-index-${cat}.json`, []).then((list) => {
+    all = list.map((f) => ({ ...f, file: `gear-${cat}.json` }))
+    fillOptions()
+    render()
+  })
+  box.focus()
+}
+
+// carrying capacity (Core Rulebook table 7-4; x4 for every 10 points above 20), by size for a biped
+const CARRY_TABLE = [100, 115, 130, 150, 175, 200, 230, 260, 300, 350]
+const CARRY_SIZE = { fine: 0.125, dim: 0.25, tiny: 0.5, sm: 0.75, med: 1, lg: 2, huge: 4, grg: 8, col: 16 }
+function carryCapacity(str, size) {
+  str = Math.floor(str)
+  if (str <= 0) return { light: 0, medium: 0, heavy: 0 }
+  const heavy = (str <= 10 ? 10 * str : CARRY_TABLE[(str - 10) % 10] * 4 ** Math.floor((str - 10) / 10)) * (CARRY_SIZE[size] ?? 1)
+  return { light: Math.floor(heavy / 3), medium: Math.floor((heavy * 2) / 3), heavy }
+}
+// what's carried (items not marked as left behind, and coins at 50 to the pound) and the load
+function encumbrance(s, strTotal) {
+  const items = s.gear.reduce((a, g) => a + (g.carried === false ? 0 : num(g.weight) * num(g.qty)), 0)
+  const coins = Object.keys(COIN_CP).reduce((a, k) => a + num(s.currency[k]), 0) / 50
+  const cap = carryCapacity(strTotal, s.race.size)
+  const total = items + coins
+  const load = total <= cap.light ? "light" : total <= cap.medium ? "medium" : total <= cap.heavy ? "heavy" : "overloaded"
+  // medium: max Dex +3, check penalty -3; heavy: +1 / -6; both slow you down
+  const effect = { light: {}, medium: { maxDex: 3, acp: 3, slow: true }, heavy: { maxDex: 1, acp: 6, slow: true },
+    overloaded: { maxDex: 0, acp: 6, slow: true } }[load]
+  return { items, coins, total, cap, load, ...effect }
+}
+// Gear tab: capacity and what's carried (refreshed in place as weights change; see changed())
+function carryCard() {
+  const c = calc()
+  const e = c.enc
+  const loads = { light: "Light", medium: "Medium", heavy: "Heavy", overloaded: "Over your heavy load" }
+  return h("div", { class: "card", id: "carry-card" },
+    h("div", { class: "group-title", style: "margin-top:0" }, "Carrying capacity"),
+    h("dl", { class: "kv" },
+      h("dt", {}, "Light / medium / heavy load"), h("dd", {}, `${e.cap.light} / ${e.cap.medium} / ${e.cap.heavy} lb.`),
+      h("dt", {}, "Carried"), h("dd", {}, `${+e.total.toFixed(2)} lb. (items ${+e.items.toFixed(2)}, coins ${+e.coins.toFixed(2)})`),
+      h("dt", {}, "Load"), h("dd", { class: e.load === "light" ? "" : "warn" }, loads[e.load] +
+        (e.slow ? ` (max Dex +${e.maxDex}, check penalty −${e.acp}, slower speed)` : "")),
+    ),
+    h("p", { class: "note", style: "margin:.4rem 0 0" },
+      `From Strength ${Math.floor(c.abl.str.total + (c.changeTotals.carryStr ?? 0))} and ${SIZES[state.race.size]?.[0] ?? "Medium"} size; 50 coins weigh a pound. Small characters' weapons and armor weigh half.`))
+}
+// an item can be left behind (on the mount, at the inn): it then doesn't count toward the load
+function carriedBox(p) {
+  const el = h("input", { type: "checkbox", checked: getPath(state, p + "carried") !== false })
+  el.addEventListener("change", () => { setPath(state, p + "carried", el.checked); changed() })
+  return h("label", { class: "row", style: "gap:.3rem" }, el, "Carried")
 }
 
 // adding to a sphere offers its talents from the compendium (or a custom one); a talent with no
@@ -2051,6 +2437,7 @@ function gearItem(g) {
     quantity: num(g.qty),
     weight: { value: num(g.weight) },
     price: num(g.price),
+    carried: g.carried !== false,
     description: { value: toHtml(g.desc) },
   }
   switch (g.kind) {
@@ -2084,7 +2471,7 @@ function gearItem(g) {
     case "equipment":
       return item("equipment", g.name, { ...base, subType: "wondrous", slot: "slotless", equipped: !!g.equipped })
     case "consumable":
-      return item("consumable", g.name, { ...base, subType: "potion" })
+      return item("consumable", g.name, { ...base, subType: ["potion", "scroll", "wand"].includes(g.subType) ? g.subType : g.subType ? "misc" : "potion" })
     default:
       return item("loot", g.name, { ...base, subType: "gear" })
   }

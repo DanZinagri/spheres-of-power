@@ -449,5 +449,3 @@ In addition to the rulesets listed above, this site offers a number of other res
 - [[Running Cataclysmic Games]] - This guide covers tips and concepts for running apocalyptic games with material from The Cataclysm Handbook.
 
 - [[Running Guile Games]] - This section has rules for running games that focus on Spheres of Guile and general intrigue.
-
-- [[Talented Monster Creation]] - These rules offer a streamlined approach to creating creatures.

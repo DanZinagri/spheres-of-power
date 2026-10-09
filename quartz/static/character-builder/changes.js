@@ -290,7 +290,7 @@ const previewTargetList = () => [
   ...ABL, ...ABL.map((k) => `${k}Mod`), ...ABL.map((k) => `${k}Skills`),
   "bab", "attack", "wattack", "mattack", "rattack", "damage", "wdamage", "mwdamage", "mdamage", "rwdamage", "rdamage",
   "ac", "aac", "sac", "nac", "tac", "ffac", "cmb", "cmd", "init", "fort", "ref", "will", "allSavingThrows", "mhp",
-  "skills", "unskills", "landSpeed", "allSpeeds", "bonusFeats", "bonusSkillRanks", "acpA", "acpS", "mDexA",
+  "skills", "unskills", "landSpeed", "allSpeeds", "carryStr", "bonusFeats", "bonusSkillRanks", "acpA", "acpS", "mDexA",
   "spherecl", "msb", "msd", "sphereConcentration",
 ]
 const TARGET_HINTS = {

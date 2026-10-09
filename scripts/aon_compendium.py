@@ -14,6 +14,7 @@ The rules text is Open Game Content (OGL 1.0a); see compendium/pf1e/LICENSE.md. 
 ("Ecology" onward) is left out, as it's mostly Paizo setting material (Product Identity).
 """
 import hashlib
+import html as htmllib
 import json
 import re
 import sys
@@ -111,8 +112,11 @@ def fetch(path: str) -> str:
 
 def links(html: str, pattern: str) -> list[str]:
     seen, out = set(), []
-    for m in re.finditer(r'href="([^"#]+)"', html):
-        href = m.group(1).lstrip("/").replace("&amp;", "&")
+    for m in re.finditer(r'href="([^"]+)"', html):
+        # entities decoded before the #fragment goes: "ItemName=Bear&#39;s Balance" is Bear's Balance
+        href = htmllib.unescape(m.group(1)).split("#", 1)[0].lstrip("/")
+        if not href:
+            continue
         if re.match(pattern, href) and href not in seen:
             seen.add(href)
             out.append(href)
@@ -352,6 +356,36 @@ def class_stats() -> int:
     return len(out)
 
 
+def gear_data() -> int:
+    """pf1e/gear-data.json: where AoN lists each equipment and magic item - the sub-list
+    ("Proficiency=Martial", "Category=Light", "FinalSlot=Belts") and the table heading above it
+    ("Two-Handed Weapons", "One-Handed Firearms (Early)") - read from the cached index pages. The
+    item pages themselves don't say whether armor is light or heavy, or a ranged weapon's hands."""
+    out: dict[str, dict] = {}
+    for top, pattern in (("equipment", r"^(Equipment\w*Display|Vehicles)\.aspx\?ItemName="),
+                         ("magic-items", r"^Magic\w*Display\.aspx\?")):
+        for page in CATEGORIES[top][0]:
+            if isinstance(page, tuple):
+                continue
+            html = fetch(page)
+            subs = links(html, rf"^{re.escape(page)}\?\w+=") or [page]
+            for sub in subs:
+                main = BeautifulSoup(fetch(sub), "html.parser").find(id="main")
+                if not main:
+                    continue
+                listed = sub.partition("?")[2].partition("=")[2] or page.split(".")[0]
+                section = ""
+                for el in main.descendants:
+                    if getattr(el, "name", None) == "h1" and "title" in (el.get("class") or []):
+                        section = text_of(el)
+                    elif getattr(el, "name", None) == "a" and el.get("href"):
+                        href = el["href"].lstrip("/").replace("&amp;", "&")
+                        if re.match(pattern, href):
+                            out.setdefault(page_url(href), {"index": page.split(".")[0], "list": listed, "section": section})
+    (OUT / "gear-data.json").write_text(json.dumps(out, ensure_ascii=False, indent=0), encoding="utf-8")
+    return len(out)
+
+
 if __name__ == "__main__":
     cmd, *args = sys.argv[1:] or ["discover"]
     cats = list(CATEGORIES) if args in ([], ["all"]) else args
@@ -365,5 +399,7 @@ if __name__ == "__main__":
         crawl(cats, build_only=True)
     elif cmd == "class-stats":
         print(f"class stats: {class_stats()}")
+    elif cmd == "gear-data":
+        print(f"gear data: {gear_data()}")
     elif cmd == "race-data":
         print(f"race data: {race_data()}")

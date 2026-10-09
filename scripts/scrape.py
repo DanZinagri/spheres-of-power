@@ -108,6 +108,8 @@ EXCLUDED_PAGES = {
     "other-options", "alternate-justicar",
     # the citation tags are stripped site-wide (strip_citation_tags), so their guide goes too
     "citations-guide",
+    # Rogue Genius Games' Talented Monster Creation (and its continuation pages)
+    "talented-monster-creation", "talented-monster-creation-2", "talented-monster-creation-3",
     # the home page's House Rules section: the wiki's own house rules (Deific Talents and its
     # subpages, Recharge Sphere Magic, Virtues) and its newsletters / change log
     "divine-talents", "recharge-sphere-magic", "virtues", "newsletters", "recent-changes",
@@ -4851,6 +4853,458 @@ def build_spell_compendium() -> int:
     return len(entries)
 
 
+# ---------- gear ----------
+# compendium/gear-index.json (+ gear-<cat>.json with each entry's text): weapons, armor, shields,
+# adventuring gear, consumables and magic items for the Character Builder's Gear tab. Pathfinder
+# items come from Archives of Nethys (pf1e/equipment.json, pf1e/magic-items.json, and
+# pf1e/gear-data.json for where AoN lists each one: armor category, weapon table); Spheres items
+# from the wiki's equipment and magic item pages. Weapon and armor qualities (Flaming, Fortification)
+# aren't items of their own and stay out.
+GEAR_CATS = ["weapon", "armor", "shield", "gear", "consumable", "magic"]
+# the wiki's gear pages that aren't magic items (magic items are found on any page by their stat block)
+SPHERES_GEAR_PAGES = {"Adventuring Gear": "Adventuring Gear", "Technological Gear": "Technological Gear",
+                      "Equipment": "Spheres Equipment", "Alchemical Items": "Alchemical Items",
+                      "Metamagic Apparatuses": None}
+# a magic item's group by the page it's on (others: "Class items", or the page's name)
+SPHERES_MAGIC_GROUPS = {
+    "Armor": "Specific armor and shields", "Weapons": "Specific weapons",
+    "Charms Rings (Constant Bonus Items)": "Charms (rings)", "Charms Rings (Constant Bonus Items) (rings)": "Charms (rings)",
+    "Apparatuses Rods (ConstantAt-Will Items)": "Apparatuses (rods)",
+    "Apparatuses Rods (ConstantAt-Will Items) (rods)": "Apparatuses (rods)", "Metamagic Apparatuses": "Apparatuses (rods)",
+    "Implements Staves (Caster LevelTalent Access)": "Implements (staves)",
+    "Implements Staves (Caster LevelTalent Access) (staves)": "Implements (staves)",
+    "Marvelous Items Wondrous Items": "Marvelous items", "Marvelous Items Wondrous Items (wondrous-items)": "Marvelous items",
+    "Marvelous Items 2": "Marvelous items", "Practitioner Magic Items": "Practitioner magic items",
+    "Spell Engines Wands": "Spell engines (wands)", "Spell Engines Wands (wands)": "Spell engines (wands)",
+    "Rituals": "Ritual books", "Schematics": "Schematics",
+}
+SPHERES_CONSUMABLE_GROUPS = {"Compounds Potions (Consumable Items)": "Compounds (potions)",
+                             "Compounds Potions (Consumable Items) (potions)": "Compounds (potions)",
+                             "Scrolls": "Scrolls"}
+GEAR_SKIP_DIRS = {"Archive", "Meta", "Sphere Bestiary", "Practitioner Bestiary"}
+AON_MISC_CONSUMABLE = {"AlchemicalRemedies", "AlchemicalTools", "AlchemicalWeapons", "Herbs", "Tincture", "Concoction",
+                       "FoodDrink"}
+AON_MISC_LABELS = {"AdventuringGear": "Adventuring Gear", "AlchemicalRemedies": "Alchemical Remedies",
+                   "AlchemicalTools": "Alchemical Tools", "AlchemicalWeapons": "Alchemical Weapons",
+                   "AnimalGear": "Animal Gear", "BlackMarket": "Black Market", "ChannelFoci": "Channel Foci",
+                   "Concoction": "Concoctions", "DungeonGuides": "Dungeon Guides", "FoodDrink": "Food and Drink",
+                   "Kit": "Kits", "LodgingServices": "Lodging and Services", "MountsPets": "Mounts and Pets",
+                   "PFChronicle": "Pathfinder Chronicles", "Torture": "Torture Implements",
+                   "TransportAir": "Transport (Air)", "TransportLand": "Transport (Land)", "TransportSea": "Transport (Sea)"}
+AON_MAGIC_GROUPS = {"SpecificArmor": "Specific armor", "SpecificShield": "Specific shields",
+                    "SpecificWeapon": "Specific weapons", "MagicRings": "Rings", "Metamagic": "Rods (metamagic)",
+                    "Other": "Rods", "MagicStaves": "Staves", "Minor": "Artifacts (minor)", "Major": "Artifacts (major)",
+                    "Metagame": "Artifacts (metagame)", "Transcendent": "Artifacts (transcendent)",
+                    "MagicCursed": "Cursed items", "MagicIntelligent": "Intelligent items", "MagicPotions": "Potions and elixirs"}
+WONDROUS_SLOTS = {"Belts": "Belt", "Body": "Body", "Chest": "Chest", "Eyes": "Eyes", "Feet": "Feet", "Hands": "Hands",
+                  "Head": "Head", "Headband": "Headband", "Neck": "Neck", "Shoulders": "Shoulders", "Wrist": "Wrist",
+                  "Other": "Slotless", "Ioun": "Ioun stones"}
+COIN_GP = {"pp": 10, "gp": 1, "sp": 0.1, "cp": 0.01}
+MATERIAL_WORDS = ("mithral", "adamantine", "darkwood", "cold iron", "alchemical silver", "silver", "silversheen",
+                  "dragonhide", "masterwork", "elysian bronze", "angelskin", "blood crystal", "griffon mane")
+
+
+def _gear_dash(v: str) -> str:
+    return (v or "").replace("\ufffd", "—").strip()
+
+
+def _gear_price(text: str) -> float | None:
+    t = _gear_dash(text).replace(",", "").lstrip("+ ").lower()
+    if re.match(r"^\d+ bonus", t):
+        return None
+    if t in ("—", "-", "–"):
+        return 0.0
+    if re.fullmatch(r"\d+(?:\.\d+)?", t):  # "20,000": gold pieces
+        return float(t)
+    total = 0.0
+    hit = False
+    for m in re.finditer(r"(\d+(?:\.\d+)?)\s*(pp|gp|sp|cp)\b", t):
+        total += float(m.group(1)) * COIN_GP[m.group(2)]
+        hit = True
+        if not re.match(r"\s*(?:and|\+)\s*\d", t[m.end():]):  # "1 gp 5 sp" style sums; stop at anything else
+            if not re.match(r"\s*\d+(?:\.\d+)?\s*(?:pp|gp|sp|cp)", t[m.end():]):
+                break
+    return round(total, 2) if hit else None
+
+
+def _gear_weight(text: str) -> float | None:
+    t = _gear_dash(text).lower().lstrip("+ ")
+    if not t or t[0] in "—-–":
+        return 0.0 if t else None
+    m = re.match(r"(\d+)(?:[- ](\d+)/(\d+)|/(\d+)|\.(\d+))?\s*(lbs?\.?|oz\.?|tons?)?", t)
+    if not m:
+        return None
+    if m.group(2):
+        v = int(m.group(1)) + int(m.group(2)) / int(m.group(3))
+    elif m.group(4):
+        v = int(m.group(1)) / int(m.group(4))
+    elif m.group(5):
+        v = float(f"{m.group(1)}.{m.group(5)}")
+    else:
+        v = float(m.group(1))
+    unit = m.group(6) or "lb"
+    if unit.startswith("oz"):
+        v /= 16
+    elif unit.startswith("ton"):
+        v *= 2000
+    return round(v, 3)
+
+
+def _gear_crit(text: str) -> tuple[int, int]:
+    t = _gear_dash(text)
+    rng = int(m.group(1)) if (m := re.search(r"(\d+)-20", t)) else 20
+    mult = int(m.group(1)) if (m := re.search(r"[x×](\d)", t)) else 2
+    return rng, mult
+
+
+def _gear_dmg(text: str) -> tuple[str, str]:
+    t = _gear_dash(text)
+    s = m.group(1) if (m := re.search(r"([^,]+?)\s*\(small\)", t)) else ""
+    med = m.group(1) if (m := re.search(r"([^,]+?)\s*\(medium\)", t)) else ""
+    return s.strip(), med.strip()
+
+
+def _gear_range(text: str) -> int:
+    return int(m.group(1)) if (m := re.search(r"(\d+)\s*ft", _gear_dash(text))) else 0
+
+
+def _gear_entry(cat: str, name: str, system: str, source: str, url: str, md: str, price_text: str, weight_text: str,
+                **extra) -> dict:
+    return {"cat": cat, "name": name, "system": system, "source": source, "url": url, "md": md,
+            "priceText": _gear_dash(price_text), "price": _gear_price(price_text),
+            "weightText": _gear_dash(weight_text), "weight": _gear_weight(weight_text), **extra}
+
+
+def _aon_weapon(e: dict, where: dict) -> dict:
+    f = {k: _gear_dash(v) for k, v in e["fields"].items()}
+    section = where.get("section", "")
+    listed = where.get("list", "")
+    dmg_s, dmg_m = _gear_dmg(f.get("Damage", ""))
+    crit_range, crit_mult = _gear_crit(f.get("Critical", ""))
+    rng = _gear_range(f.get("Range", ""))
+    category = f.get("Category", "")
+    ranged = "Ranged" in section or "Firearm" in section or category == "Ranged" or listed == "Siege"
+    # the table AoN lists it in decides (an item page's own category can disagree)
+    by_table = next((h for k, h in (("Light", "light"), ("One-Handed", "one"), ("Two-Handed", "two")) if k in section), None)
+    by_page = {"Light": "light", "One-Handed": "one", "Two-Handed": "two"}.get(category)
+    if by_table or by_page:
+        hands = by_table or by_page
+    elif ranged and listed not in ("Siege", "Ammo"):
+        bow = re.search(r"\bbow\b|longbow|shortbow|crossbow", e["name"].lower()) and "hand crossbow" not in e["name"].lower()
+        hands = "two" if bow else "one"
+    else:
+        hands = ""
+    sub = {"Ammo": "Ammunition", "Mod": "Modification", "Siege": "Siege engine"}.get(listed, "Weapon")
+    if listed == "Firearm":
+        sub = "Firearm ammunition and gear" if "Ammunition" in section or "Gear" in section else "Firearm"
+        if "Explosive" in section:
+            sub = "Explosive"
+    prof = f.get("Proficiency", "") or {"Firearm": "Exotic"}.get(listed, "")
+    if prof not in ("Simple", "Martial", "Exotic"):
+        prof = "Exotic" if listed == "Firearm" else ""
+    return {"sub": sub, "prof": prof, "attack": "ranged" if ranged else "melee", "thrown": bool(not ranged and rng),
+            "hands": hands, "dmgS": dmg_s, "dmgM": dmg_m, "critRange": crit_range, "critMult": crit_mult,
+            "range": rng, "dmgType": f.get("Type", "").replace("—", ""), "special": f.get("Special", "").replace("—", ""),
+            "groups": f.get("Weapon Groups", "")}
+
+
+def _armor_stats(f: dict) -> dict:
+    g = lambda k: _gear_dash(f.get(k, ""))
+    numof = lambda v: int(m.group(0)) if (m := re.search(r"[+-]?\d+", v)) else None
+    return {"ac": numof(g("Armor Bonus")) or 0, "maxDex": numof(g("Max Dex Bonus")),
+            "acp": abs(numof(g("Armor Check Penalty")) or 0), "asf": numof(g("Arcane Spell Failure Chance")) or 0,
+            "speed": g("Speed")}
+
+
+def _shield_type(name: str, ac: int) -> str:
+    n = name.lower()
+    return "buckler" if "buckler" in n else "tower" if "tower" in n or ac >= 4 else "heavy" if ac >= 2 else "light"
+
+
+def _shield_material(name: str) -> str:
+    n = name.lower()
+    return "wood" if "wood" in n else "steel" if "steel" in n else "leather" if "leather" in n else "other"
+
+
+def _spheres_fields(md: str) -> dict:
+    out = {}
+    for label in ("Aura", "CL", "Slot", "Price", "Cost", "Weight", "Scaling"):
+        if (m := re.search(rf"\*\*{label}\*\*:?\s*([–—-]|[^;—\n*]+)", md)):  # a dash alone is "none"
+            out[label] = m.group(1).replace("_", "").strip(" .;")
+    return out
+
+
+def _gear_base(md: str, bases: list[tuple[str, dict]]) -> tuple[dict | None, int]:
+    """A specific magic weapon or armor's base item and enhancement: "This +1 longsword ..."."""
+    text = re.sub(r"[*_]", "", md).lower()
+    for m in re.finditer(r"\+(\d)\s+", text):
+        rest = text[m.end():m.end() + 80]
+        changed_ = True
+        while changed_:
+            changed_ = False
+            for w in MATERIAL_WORDS:
+                if rest.startswith(w + " "):
+                    rest, changed_ = rest[len(w) + 1:], True
+        for key, base in bases:
+            after = rest[len(key):]
+            if rest.startswith(key) and re.match(r"(?:e?s)?(?![a-z])", after):  # "waraxe" / "waraxes", not "waraxeman"
+                return base, int(m.group(1))
+    return None, 0
+
+
+def build_gear_compendium() -> int:
+    pf = COMPENDIUM_OUT / "pf1e"
+    where = json.loads((pf / "gear-data.json").read_text(encoding="utf-8")) if (pf / "gear-data.json").exists() else {}
+    entries: list[dict] = []
+    # ---- Archives of Nethys equipment
+    if (pf / "equipment.json").exists():
+        for e in json.loads((pf / "equipment.json").read_text(encoding="utf-8"))["entries"]:
+            w = where.get(e["url"], {})
+            f = e["fields"]
+            md = _gear_dash(e["md"])
+            base = {"system": "Pathfinder 1e", "source": e["source"], "url": e["url"], "md": md}
+            price = f.get("Cost") or f.get("Price", "")
+            if w.get("index") == "EquipmentWeapons":
+                entries.append(_gear_entry("weapon", e["name"], **base, price_text=price, weight_text=f.get("Weight", ""),
+                                           **_aon_weapon(e, w)))
+            elif w.get("index") == "EquipmentArmor":
+                stats = _armor_stats(f)
+                if w["list"] == "Shield":
+                    entries.append(_gear_entry("shield", e["name"], **base, price_text=price, weight_text=f.get("Weight", ""),
+                                               **stats, shieldType=_shield_type(e["name"], stats["ac"]),
+                                               material=_shield_material(e["name"])))
+                elif w["list"] in ("Light", "Medium", "Heavy"):
+                    entries.append(_gear_entry("armor", e["name"], **base, price_text=price, weight_text=f.get("Weight", ""),
+                                               **stats, armorType=w["list"].lower()))
+                else:  # armor spikes, locked gauntlet; armor modifications
+                    entries.append(_gear_entry("armor", e["name"], **base, price_text=price, weight_text=f.get("Weight", ""),
+                                               **stats, armorType="extra" if w["list"] == "Extra" else "mod"))
+            elif w.get("index") == "EquipmentMisc":
+                entries.append(_gear_entry("gear", e["name"], **base, price_text=price, weight_text=f.get("Weight", ""),
+                                           sub=AON_MISC_LABELS.get(w["list"], w["list"]),
+                                           consumable=w["list"] in AON_MISC_CONSUMABLE))
+    by_name = {(x["cat"], x["name"].lower()): x for x in entries}
+    # base items a specific magic weapon / armor names ("+1 heavy steel shield")
+    bases: list[tuple[str, dict]] = []
+    for x in entries:
+        if x["cat"] == "weapon" and x["sub"] in ("Weapon", "Firearm") or x["cat"] in ("armor", "shield") and x.get("armorType") not in ("extra", "mod"):
+            n = x["name"].lower()
+            keys = {n}
+            if x["cat"] == "shield":
+                keys |= {n + " shield", n.replace(" quickdraw", "") + " quickdraw shield"}
+            if (m := re.match(r"(.+), (.+)$", n)):  # "sword, bastard" -> "bastard sword"
+                keys.add(f"{m.group(2)} {m.group(1)}")
+            if x["cat"] == "armor" and not n.endswith(("armor", "mail", "plate")):
+                keys.add(n + " armor")
+            bases += [(k, x) for k in keys]
+    bases.sort(key=lambda kv: -len(kv[0]))
+    # ---- Archives of Nethys magic items
+    if (pf / "magic-items.json").exists():
+        for e in json.loads((pf / "magic-items.json").read_text(encoding="utf-8"))["entries"]:
+            w = where.get(e["url"], {})
+            listed = w.get("list", "")
+            if listed.endswith("Quality"):
+                continue
+            f = {k: _gear_dash(v) for k, v in e["fields"].items()}
+            md = _gear_dash(e["md"])
+            group = (f"Wondrous ({WONDROUS_SLOTS.get(listed, listed)})" if w.get("index") == "MagicWondrous"
+                     else AON_MAGIC_GROUPS.get(listed, "Other"))
+            extra = {"sub": group, "slot": f.get("Slot", "").replace("—", ""), "aura": f.get("Aura", ""), "cl": f.get("CL", "")}
+            if listed in ("SpecificArmor", "SpecificShield", "SpecificWeapon"):
+                b, enh = _gear_base(md, bases)
+                if b:
+                    extra["base"] = b["name"]
+                    extra["enh"] = enh
+                    for k in ("sub", "prof", "attack", "thrown", "hands", "dmgS", "dmgM", "critRange", "critMult", "range",
+                              "dmgType", "special", "ac", "maxDex", "acp", "asf", "armorType", "shieldType"):
+                        if k in b and k != "sub":
+                            extra[k] = b[k]
+                extra["as"] = {"SpecificArmor": "armor", "SpecificShield": "shield", "SpecificWeapon": "weapon"}[listed]
+            cat = "consumable" if listed == "MagicPotions" else "magic"
+            entries.append(_gear_entry(cat, e["name"], "Pathfinder 1e", e["source"], e["url"], md,
+                                       f.get("Price", ""), f.get("Weight", ""), **extra))
+    # ---- the wiki's pages
+    families = json.loads(FAMILY_FILE.read_text(encoding="utf-8")) if FAMILY_FILE.exists() else {}
+    files = sorted((f for f in CONTENT.rglob("*.md") if not GEAR_SKIP_DIRS & set(f.relative_to(CONTENT).parts)),
+                   key=lambda f: (len(f.stem), f.stem))
+    seen = {(x["system"], x["cat"], x["name"].lower()) for x in entries}
+    for f in files:
+        body = f.read_text(encoding="utf-8").split(GENERATED_MARK, 1)[-1]
+        lines = body.split("\n")
+        slug = _slugger()
+        ids = [slug(m.group(2)) if (m := re.match(r"(#{1,6}) (.+)$", l)) else "" for l in lines]
+        system = FEAT_SYSTEMS.get(families.get(f.relative_to(CONTENT).as_posix(), ""), "Spheres of Power")
+        page_src = m.group(1) if (m := re.search(r"^\*Source: \[([^\]]+)\]", body, re.M)) else ""
+        gear_page = f.stem in SPHERES_GEAR_PAGES
+        table = _practitioner_weapon_rows(lines) if f.stem == "Practitioner Weapons" else {}
+        for k, line in enumerate(lines):
+            if not (hm := re.match(r"(#{2,4}) (.+)$", line)):
+                continue
+            level = len(hm.group(1))
+            stop = next((j for j in range(k + 1, len(lines)) if (m := re.match(r"(#{1,6}) ", lines[j])) and len(m.group(1)) <= level),
+                        len(lines))
+            md = "\n".join(lines[k + 1:stop]).strip()
+            head = "\n".join(lines[k + 1:k + 8])
+            name = re.sub(r"\s*\((?:Divination|Nature|Life|Weather|Alteration|[A-Z][a-z]+)\)$", "", hm.group(2).strip()) \
+                if f.stem == "Rituals" else hm.group(2).strip()
+            source = page_src
+            for j in range(k, -1, -1):
+                if (s := re.match(r"^\*Source: \[([^\]]+)\]", lines[j])):
+                    source = s.group(1)
+                    break
+            url = f"{_page_url(f)}#{ids[k]}"
+            row = table.pop(name.lower(), None)
+            if row:
+                if (system, "weapon", name.lower()) not in seen:
+                    seen.add((system, "weapon", name.lower()))
+                    entries.append(_gear_entry("weapon", name, system, source, url, md, row["cost"], row["weight"], **row["stats"]))
+                continue
+            has_price = re.search(r"\*\*(Price|Cost)\*\*", head) and re.search(r"\*\*Weight\*\*", head)
+            if not has_price:
+                continue
+            fl = _spheres_fields(md)
+            price = fl.get("Price") or fl.get("Cost", "")
+            if not price:  # the price in the window belongs to the next heading's item
+                continue
+            magic = re.search(r"\*\*(Aura|CL)\*\*", head)
+            cat = ("consumable" if f.stem in SPHERES_CONSUMABLE_GROUPS and magic
+                   else "magic" if magic or (gear_page and SPHERES_GEAR_PAGES[f.stem] is None) else "gear" if gear_page
+                   else "weapon" if f.stem == "Weapons" else None)
+            if not cat or (system, cat, name.lower()) in seen:
+                continue
+            seen.add((system, cat, name.lower()))
+            if cat == "weapon":  # Weapons: a few mundane weapons and ammunition among the magic ones
+                t = re.sub(r"[*_]", "", head).lower()
+                kind = m.group(1) if (m := re.search(r"type\s+([\w -]+?)(?:;|$)", t, re.M)) else ""
+                prof = m.group(1).title() if (m := re.search(r"proficiency\s+(\w+)", t)) else ""
+                entries.append(_gear_entry("weapon", name, system, source, url, md, price, fl.get("Weight", ""),
+                    sub="Weapon" if kind else "Ammunition", prof=prof, attack="ranged" if "ranged" in kind or not kind else "melee",
+                    hands="light" if "light" in kind else "two" if "two" in kind else "one" if kind else ""))
+            elif cat == "consumable":
+                entries.append(_gear_entry("consumable", name, system, source, url, md, price, fl.get("Weight", ""),
+                                           sub=SPHERES_CONSUMABLE_GROUPS[f.stem], aura=fl.get("Aura", ""), cl=fl.get("CL", "")))
+            elif cat == "magic":
+                group = SPHERES_MAGIC_GROUPS.get(f.stem) or ("Class items" if f.parent != CONTENT and f.parent.name == f.stem
+                                                            or f.stem in CLASS_ITEM_PAGES else f.stem)
+                slot = fl.get("Slot", "").lower()
+                extra = {"sub": group, "slot": slot.replace("—", ""), "aura": fl.get("Aura", ""), "cl": fl.get("CL", "")}
+                if f.stem == "Armor":
+                    extra["as"] = "shield" if "shield" in slot or k > _first_heading(lines, "New Shields") > 0 else "armor"
+                elif f.stem == "Weapons":
+                    extra["as"] = "weapon"
+                entries.append(_gear_entry("magic", name, system, source, url, md, price, fl.get("Weight", ""), **extra))
+            else:
+                entries.append(_gear_entry("gear", name, system, source, url, md, price, fl.get("Weight", ""),
+                                           sub=SPHERES_GEAR_PAGES[f.stem], consumable=f.stem == "Alchemical Items"))
+        for key, row in table.items():  # a table weapon with no write-up of its own
+            if (system, "weapon", key) not in seen:
+                seen.add((system, "weapon", key))
+                entries.append(_gear_entry("weapon", row["name"], system, page_src, _page_url(f), "", row["cost"], row["weight"],
+                                           **row["stats"]))
+    # ids, files and the index
+    used: set[str] = set()
+    for x in entries:
+        stem = ("pf-" if x["system"] == "Pathfinder 1e" else "") + re.sub(r"[^a-z0-9]+", "-", x["name"].lower()).strip("-")
+        gid, n = f"gear/{x['cat']}/{stem}", 2
+        while gid in used:
+            gid, n = f"gear/{x['cat']}/{stem}-{n}", n + 1
+        used.add(gid)
+        x["id"] = gid
+    COMPENDIUM_OUT.mkdir(parents=True, exist_ok=True)
+    groups: dict[str, list[dict]] = {}
+    for x in entries:
+        groups.setdefault(x["cat"], []).append(x)
+    for cat in GEAR_CATS:
+        (COMPENDIUM_OUT / f"gear-{cat}.json").write_text(json.dumps(
+            {"category": f"gear-{cat}", "source": "Archives of Nethys (www.aonprd.com) and the Spheres wiki",
+             "license": "OGL 1.0a - see pf1e/LICENSE.md",
+             "entries": [{"id": x["id"], "name": x["name"], "md": x["md"]} for x in groups.get(cat, [])]},
+            ensure_ascii=False), encoding="utf-8")
+    # one index per category (the picker loads the one it shows)
+    for cat in GEAR_CATS:
+        index = []
+        for x in sorted(groups.get(cat, []), key=lambda x: x["name"].lower()):
+            rec = {k: v for k, v in x.items() if k not in ("md", "cat") and v not in ("", None, False)}
+            if x["price"] == 0:
+                rec["price"] = 0
+            if x["weight"] == 0:
+                rec["weight"] = 0
+            rec["summary"] = _rules_summary(re.sub(r"(?m)^.*\*\*(Aura|Slot|Price|Cost|Weight|CL)\*\*.*$", "", x["md"]), 140)
+            index.append(rec)
+        (COMPENDIUM_OUT / f"gear-index-{cat}.json").write_text(json.dumps(index, ensure_ascii=False), encoding="utf-8")
+    (COMPENDIUM_OUT / "gear-index.json").unlink(missing_ok=True)
+    write_gear_review(entries)
+    return len(entries)
+
+
+# class pages whose magic items sit in a subfolder page named for the class
+CLASS_ITEM_PAGES = {"Conscript", "Savant (Class Version)"}
+
+
+def _first_heading(lines: list[str], text: str) -> int:
+    return next((k for k, l in enumerate(lines) if re.match(rf"#+ {re.escape(text)}\s*$", l)), -1)
+
+
+def _practitioner_weapon_rows(lines: list[str]) -> dict[str, dict]:
+    """Practitioner Weapons' table: "(Martial) One-Handed Melee Weapons" header rows, then a row per weapon."""
+    out: dict[str, dict] = {}
+    prof = hands = attack = None
+    for l in lines:
+        cells = [c.strip() for c in l.strip().strip("|").split("|")] if l.startswith("|") else []
+        if len(cells) < 9 or set(cells[0]) <= set("- "):
+            continue
+        if (m := re.match(r"\((\w+)\) (Light|One-Handed|Two-Handed|Ranged)", cells[0])):
+            prof, kind = m.group(1), m.group(2)
+            hands = {"Light": "light", "One-Handed": "one", "Two-Handed": "two"}.get(kind, "two")
+            attack = "ranged" if kind == "Ranged" else "melee"
+            continue
+        if cells[0] == "Modifications":
+            prof = None
+            continue
+        if not prof:
+            continue
+        name = re.sub(r"\s*\(\d+\)$", "", cells[0]).strip()
+        crit_range, crit_mult = _gear_crit(cells[4])
+        rng = _gear_range(cells[5])
+        if attack == "ranged" and name.lower() == "needle launcher":
+            hands = "one"
+        out[name.lower()] = {"name": name[0].upper() + name[1:], "cost": cells[1], "weight": cells[6], "stats": {
+            "sub": "Weapon", "prof": prof, "attack": attack, "thrown": bool(attack == "melee" and rng), "hands": hands,
+            "dmgS": cells[2].replace("-", "") if cells[2] != "-" else "", "dmgM": cells[3] if cells[3] != "-" else "",
+            "critRange": crit_range, "critMult": crit_mult, "range": rng, "dmgType": cells[7].strip("-"),
+            "special": cells[8], "groups": ""}}
+    return out
+
+
+def write_gear_review(entries: list[dict]) -> None:
+    cell = lambda s: str(s).replace("|", "\\|").replace("\n", " ")
+    out = [f"---\ntitle: {yaml_str('Compendium Review: Gear')}\nnosearch: true\n---\n{GENERATED_MARK}\n",
+           "What the Character Builder's gear picker reads: Pathfinder items from Archives of Nethys, and the "
+           "Spheres items found on the wiki's pages. Counts by category and group, then every Spheres item.", ""]
+    for cat in GEAR_CATS:
+        xs = [x for x in entries if x["cat"] == cat]
+        out += [f"## {cat.title()} ({len(xs)})", "", "| Group | Pathfinder | Spheres |", "| --- | --- | --- |"]
+        key = (lambda x: x.get("armorType") or "") if cat == "armor" else (lambda x: x.get("shieldType") or "") \
+            if cat == "shield" else (lambda x: f"{x.get('prof') or '—'} {x.get('attack', '')} {x.get('hands') or ''} ({x.get('sub')})") \
+            if cat == "weapon" else (lambda x: x.get("sub") or "")
+        counts: dict[str, list[int]] = {}
+        for x in xs:
+            counts.setdefault(key(x), [0, 0])[0 if x["system"] == "Pathfinder 1e" else 1] += 1
+        out += [f"| {cell(k) or '—'} | {a or '—'} | {b or '—'} |" for k, (a, b) in sorted(counts.items())]
+        out.append("")
+    sp = [x for x in entries if x["system"] != "Pathfinder 1e"]
+    out += [f"## Spheres items ({len(sp)})", "", "| Item | Category | Group | Price | Weight |", "| --- | --- | --- | --- | --- |"]
+    for x in sp:
+        page, _, anchor = x["url"].partition("#")
+        link = f"[[{page.split('/')[-1]}#{anchor}\\|{cell(x['name'])}]]" if anchor else f"[[{page.split('/')[-1]}\\|{cell(x['name'])}]]"
+        price = f"{x['price']:g} gp" if x["price"] is not None else f"**{cell(x['priceText']) or 'not read'}**"
+        weight = f"{x['weight']:g} lb." if x["weight"] is not None else f"**{cell(x['weightText']) or 'not read'}**"
+        out.append(f"| {link} | {x['cat']} | {cell(x.get('sub', ''))} | {price} | {weight} |")
+    dest = CONTENT / COMPENDIUM_REVIEW / "Gear (Compendium Review).md"
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    dest.write_text("\n".join(out) + "\n", encoding="utf-8")
+
+
 def write_feat_review(entries: list[dict], pf: list[dict]) -> None:
     """Meta/Compendium Review/Feats (Compendium Review).md: type counts, then the Spheres feats by page."""
     def count(es: list[dict]) -> dict[str, int]:
@@ -6054,6 +6508,7 @@ def convert(with_images: bool) -> None:
     print(f"Casting tradition drawbacks: {build_casting_traditions()}")
     print(f"Trade talents: {build_trade_traditions()}")
     print(f"Spells: {build_spell_compendium()}")
+    print(f"Gear: {build_gear_compendium()}")
 
     # folders emptied by exclusions or renames
     for d in sorted((d for d in CONTENT.rglob("*") if d.is_dir()), key=lambda d: -len(d.parts)):
