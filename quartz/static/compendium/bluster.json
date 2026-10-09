@@ -1,7 +1,7 @@
 {
  "sphere": "Bluster",
  "system": "Spheres of Guile",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "bluster/flaunt-secrets-ex",

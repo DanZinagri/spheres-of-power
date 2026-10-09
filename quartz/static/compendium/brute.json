@@ -1,7 +1,7 @@
 {
  "sphere": "Brute",
  "system": "Spheres of Might",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "brute/shove",

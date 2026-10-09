@@ -1,7 +1,7 @@
 {
  "sphere": "Barroom",
  "system": "Spheres of Might",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "barroom/brutal-breaker",

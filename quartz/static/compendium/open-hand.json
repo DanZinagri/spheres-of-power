@@ -1,7 +1,7 @@
 {
  "sphere": "Open Hand",
  "system": "Spheres of Might",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "open-hand/sweep",

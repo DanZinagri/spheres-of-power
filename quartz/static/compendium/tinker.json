@@ -1,7 +1,7 @@
 {
  "sphere": "Tinker",
  "system": "Spheres of Might",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "tinker/augmentation",

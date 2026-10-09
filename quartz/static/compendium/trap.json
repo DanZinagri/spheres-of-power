@@ -1,7 +1,7 @@
 {
  "sphere": "Trap",
  "system": "Spheres of Might",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "trap/darts",

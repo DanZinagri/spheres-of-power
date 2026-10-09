@@ -1,7 +1,7 @@
 {
  "sphere": "Occultism",
  "system": "Spheres of Guile",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "occultism/attuned-approach-su",

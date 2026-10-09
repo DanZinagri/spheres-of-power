@@ -1,7 +1,7 @@
 {
  "sphere": "Dual Wielding",
  "system": "Spheres of Might",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "dual-wielding/dual-attack",

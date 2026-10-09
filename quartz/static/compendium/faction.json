@@ -1,7 +1,7 @@
 {
  "sphere": "Faction",
  "system": "Spheres of Guile",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "faction/requisition-ex",

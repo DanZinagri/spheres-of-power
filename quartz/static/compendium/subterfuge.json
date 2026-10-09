@@ -1,7 +1,7 @@
 {
  "sphere": "Subterfuge",
  "system": "Spheres of Guile",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "subterfuge/baffling-revelation-ex",

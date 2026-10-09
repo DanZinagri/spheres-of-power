@@ -1,7 +1,7 @@
 {
  "sphere": "Spellhacking",
  "system": "Spheres of Guile",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "spellhacking/control-mishap-su",

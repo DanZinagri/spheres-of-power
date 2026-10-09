@@ -1,7 +1,7 @@
 {
  "sphere": "Performance",
  "system": "Spheres of Guile",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "performance/act-package",

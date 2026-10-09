@@ -1,7 +1,7 @@
 {
  "sphere": "Body Control",
  "system": "Spheres of Guile",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "body-control/meditate-approach-ex",

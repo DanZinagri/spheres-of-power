@@ -1,7 +1,7 @@
 {
  "sphere": "Investigation",
  "system": "Spheres of Guile",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "investigation/analyze-ex",

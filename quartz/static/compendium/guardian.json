@@ -1,7 +1,7 @@
 {
  "sphere": "Guardian",
  "system": "Spheres of Might",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "guardian/challenge",

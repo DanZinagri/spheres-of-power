@@ -2898,7 +2898,7 @@ COMPENDIUM = {
     # generated from each page's headings (base abilities, packages, talent sections, feats, drawbacks)
     "Artifice": {
         "system": "Spheres of Guile",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Artifice', '## Trinket (Ex)', 'sphere ability', 2, 4),
             ('Artifice', '## Cobbled Creation [approach] (Ex)', 'sphere ability', 2, 4),
@@ -2914,7 +2914,7 @@ COMPENDIUM = {
     },
     "Bluster": {
         "system": "Spheres of Guile",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Bluster', '## Flaunt Secrets (Ex)', 'sphere ability', 2, 4),
             ('Bluster', '## Quip (Ex)', 'sphere ability', 2, 4),
@@ -2928,7 +2928,7 @@ COMPENDIUM = {
     },
     "Body Control": {
         "system": "Spheres of Guile",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Body Control', '## Meditate [approach] (Ex)', 'sphere ability', 2, 4),
             ('Body Control', '## Slip Past (Ex)', 'sphere ability', 2, 4),
@@ -2942,7 +2942,7 @@ COMPENDIUM = {
     },
     "Communication": {
         "system": "Spheres of Guile",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Communication', '## Betray (Ex)', 'sphere ability', 2, 4),
             ('Communication', '## Build Rapport (Ex)', 'sphere ability', 2, 4),
@@ -2957,7 +2957,7 @@ COMPENDIUM = {
     },
     "Faction": {
         "system": "Spheres of Guile",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Faction', '## Requisition (Ex)', 'sphere ability', 2, 5),
             ('Faction', '## Requisition (Ex)', 'package', 3, 4),
@@ -2973,7 +2973,7 @@ COMPENDIUM = {
     },
     "Herbalism": {
         "system": "Spheres of Guile",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Herbalism', '## Herbalism Packages', 'package', 3, 4),
             ('Herbalism', '## Herbalism Talents', 'talent', 4),
@@ -2987,7 +2987,7 @@ COMPENDIUM = {
     },
     "Infiltration": {
         "system": "Spheres of Guile",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Infiltration', '## Fast Sabotage (Ex)', 'sphere ability', 2, 4),
             ('Infiltration', '## Light Step [approach] (Ex)', 'sphere ability', 2, 4),
@@ -3002,7 +3002,7 @@ COMPENDIUM = {
     },
     "Investigation": {
         "system": "Spheres of Guile",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Investigation', '## Analyze (Ex)', 'sphere ability', 2, 4),
             ('Investigation', '## Reveal Evidence (Ex)', 'sphere ability', 2, 4),
@@ -3018,7 +3018,7 @@ COMPENDIUM = {
     },
     "Navigation": {
         "system": "Spheres of Guile",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Navigation', '## Acclimate (Ex)', 'sphere ability', 2, 4),
             ('Navigation', '## Pathing (Ex)', 'sphere ability', 2, 4),
@@ -3034,7 +3034,7 @@ COMPENDIUM = {
     },
     "Performance": {
         "system": "Spheres of Guile",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Performance', '## Performance Sphere Packages', 'package', 4),
             ('Performance', '## Performance Talents', 'talent', 4),
@@ -3049,7 +3049,7 @@ COMPENDIUM = {
     },
     "Spellhacking": {
         "system": "Spheres of Guile",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Spellhacking', '## Control Mishap (Su)', 'sphere ability', 2, 4),
             ('Spellhacking', '## Hack Magic (Su)', 'sphere ability', 2, 4),
@@ -3064,7 +3064,7 @@ COMPENDIUM = {
     },
     "Study": {
         "system": "Spheres of Guile",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Study', '## Knowledgeable (Ex)', 'sphere ability', 2, 4),
             ('Study', '## Prescient Study [plan] (Ex)', 'sphere ability', 2, 4),
@@ -3080,7 +3080,7 @@ COMPENDIUM = {
     },
     "Subterfuge": {
         "system": "Spheres of Guile",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Subterfuge', '## Baffling Revelation (Ex)', 'sphere ability', 2, 4),
             ('Subterfuge', '## Confident Subtlety [approach] (Ex)', 'sphere ability', 2, 4),
@@ -3095,7 +3095,7 @@ COMPENDIUM = {
     },
     "Survivalism": {
         "system": "Spheres of Guile",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Survivalism', '## Canny Survivor (Ex)', 'sphere ability', 2, 4),
             ('Survivalism', '## Survivalism Packages', 'package', 3, 4),
@@ -3110,7 +3110,7 @@ COMPENDIUM = {
     },
     "Vocation": {
         "system": "Spheres of Guile",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Vocation', '## Vocation Talents', 'talent', 4),
             ('Vocation', '## Specialty Talents', 'talent', 4),
@@ -3123,7 +3123,7 @@ COMPENDIUM = {
     },
     "Occultism": {
         "system": "Spheres of Guile",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Occultism', '## Attuned [approach] (Su)', 'sphere ability', 2, 4),
             ('Occultism', '## Awakened Psyche', 'sphere ability', 2, 4),
@@ -3138,7 +3138,7 @@ COMPENDIUM = {
     },
     "Alchemy": {
         "system": "Spheres of Might",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Alchemy', '# Formulae', 'sphere ability', 1, 4),
             ('Alchemy', '# Poison', 'sphere ability', 1, 4),
@@ -3154,7 +3154,7 @@ COMPENDIUM = {
     },
     "Athletics": {
         "system": "Spheres of Might",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Athletics', '# Coordinated Movement', 'sphere ability', 1, 4),
             ('Athletics', '# Athletics Packages', 'package', 4),
@@ -3176,7 +3176,7 @@ COMPENDIUM = {
     },
     "Barrage": {
         "system": "Spheres of Might",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Barrage', '# Melee Archer', 'sphere ability', 1, 4),
             ('Barrage', '# Barrage', 'sphere ability', 1, 4),
@@ -3191,7 +3191,7 @@ COMPENDIUM = {
     },
     "Barroom": {
         "system": "Spheres of Might",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Barroom', '# Brutal Breaker', 'sphere ability', 1, 4),
             ('Barroom', '# Hard Drinker', 'sphere ability', 1, 4),
@@ -3207,7 +3207,7 @@ COMPENDIUM = {
     },
     "Beastmastery": {
         "system": "Spheres of Might",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Beastmastery', '# Beastmastery Packages', 'package', 3, 4),
             ('Beastmastery', '# Beastmastery Talents', 'talent', 4),
@@ -3222,7 +3222,7 @@ COMPENDIUM = {
     },
     "Berserker": {
         "system": "Spheres of Might",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Berserker', '## Berserking', 'sphere ability', 2, 4),
             ('Berserker', '## Brutal Strike', 'sphere ability', 2, 4),
@@ -3238,7 +3238,7 @@ COMPENDIUM = {
     },
     "Boxing": {
         "system": "Spheres of Might",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Boxing', '## Counter Punch', 'sphere ability', 2, 4),
             ('Boxing', '# Boxing Talents', 'talent', 4),
@@ -3253,7 +3253,7 @@ COMPENDIUM = {
     },
     "Brute": {
         "system": "Spheres of Might",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Brute', '## Shove', 'sphere ability', 2, 4),
             ('Brute', '# Brute Talents', 'talent', 4),
@@ -3268,7 +3268,7 @@ COMPENDIUM = {
     },
     "Dual Wielding": {
         "system": "Spheres of Might",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Dual Wielding', '## Dual Attack', 'sphere ability', 2, 4),
             ('Dual Wielding', '# Dual Wielding Talents', 'talent', 4),
@@ -3281,7 +3281,7 @@ COMPENDIUM = {
     },
     "Duelist": {
         "system": "Spheres of Might",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Duelist', '## Blooded Strike', 'sphere ability', 2, 4),
             ('Duelist', '# Duelist Talents', 'talent', 4),
@@ -3296,7 +3296,7 @@ COMPENDIUM = {
     },
     "Equipment": {
         "system": "Spheres of Might",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Equipment Sphere', '# Equipment Talents', 'talent', 4),
             ('Equipment Sphere', '# Discipline Talents', 'talent', 4),
@@ -3308,7 +3308,7 @@ COMPENDIUM = {
     },
     "Fencing": {
         "system": "Spheres of Might",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Fencing', '## Fatal Thrust', 'sphere ability', 2, 4),
             ('Fencing', '# Fencing Talents', 'talent', 4),
@@ -3322,7 +3322,7 @@ COMPENDIUM = {
     },
     "Gladiator": {
         "system": "Spheres of Might",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Gladiator', '## Boast', 'sphere ability', 2, 4),
             ('Gladiator', '## Demoralization', 'sphere ability', 2, 4),
@@ -3338,7 +3338,7 @@ COMPENDIUM = {
     },
     "Guardian": {
         "system": "Spheres of Might",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Guardian', '## Challenge', 'sphere ability', 2, 4),
             ('Guardian', '## Patrol', 'sphere ability', 2, 4),
@@ -3353,7 +3353,7 @@ COMPENDIUM = {
     },
     "Lancer": {
         "system": "Spheres of Might",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Lancer', '## Impale', 'sphere ability', 2, 4),
             ('Lancer', '# Lancer Talents', 'talent', 4),
@@ -3367,7 +3367,7 @@ COMPENDIUM = {
     },
     "Open Hand": {
         "system": "Spheres of Might",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Open Hand', '## Sweep', 'sphere ability', 2, 4),
             ('Open Hand', '# Open Hand Talents', 'talent', 4),
@@ -3381,7 +3381,7 @@ COMPENDIUM = {
     },
     "Scoundrel": {
         "system": "Spheres of Might",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Scoundrel', '## Swift Hands', 'sphere ability', 2, 4),
             ('Scoundrel', '## Marked Target', 'sphere ability', 2, 4),
@@ -3396,7 +3396,7 @@ COMPENDIUM = {
     },
     "Scout": {
         "system": "Spheres of Might",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Scout', '## Scout', 'sphere ability', 2, 4),
             ('Scout', '# Scout Talents', 'talent', 4),
@@ -3409,7 +3409,7 @@ COMPENDIUM = {
     },
     "Shield": {
         "system": "Spheres of Might",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Shield', '## Active Defense', 'sphere ability', 2, 4),
             ('Shield', '# Shield Talents', 'talent', 4),
@@ -3423,7 +3423,7 @@ COMPENDIUM = {
     },
     "Sniper": {
         "system": "Spheres of Might",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Sniper', '## Deadly Shot', 'sphere ability', 2, 4),
             ('Sniper', '# Sniper Talents', 'talent', 4),
@@ -3437,7 +3437,7 @@ COMPENDIUM = {
     },
     "Trap": {
         "system": "Spheres of Might",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Trap', '## Darts', 'sphere ability', 2, 4),
             ('Trap', '## Snares', 'sphere ability', 2, 4),
@@ -3453,7 +3453,7 @@ COMPENDIUM = {
     },
     "Wrestling": {
         "system": "Spheres of Might",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Wrestling', '## Snag', 'sphere ability', 2, 4),
             ('Wrestling', '# Wrestling Talents', 'talent', 4),
@@ -3468,7 +3468,7 @@ COMPENDIUM = {
     },
     "Tech": {
         "system": "Spheres of Might",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Tech', '## Charge Pool', 'sphere ability', 2, 4),
             ('Tech', '## Gadgets', 'sphere ability', 2, 4),
@@ -3490,7 +3490,7 @@ COMPENDIUM = {
     },
     "Tinker": {
         "system": "Spheres of Might",
-        "approved": False,
+        "approved": True,
         "pages": [
             ('Tinker', '## Tinker Packages', 'package', 3, 4),
             ('Tinker', '## Tinker Talents', 'talent', 4),

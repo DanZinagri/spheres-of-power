@@ -343,7 +343,22 @@ const PICKERS = {
   // a race's own features (standard racial traits) and the alternate racial traits that replace them
   racial: { noun: "racial trait", index: "racial-traits-index.json", cats: (e) => [e.kind],
     catLabel: "Standard and alternate", req: (e) => e.replaces, reqLabel: "Replaces", byRace: true },
+  // one sphere's talents (Spheres tab): its talent sections, packages and advanced / legendary /
+  // exceptional talents from compendium/index.json; the picker is scoped to that sphere
+  talent: { noun: "talent", index: "index.json", cats: (e) => [e.group || TALENT_ENTRY_KINDS[e.kind]],
+    catLabel: "All talents", req: (e) => e.options?.join(", "), reqLabel: "Options", scoped: true,
+    filter: (e, ctx) => e.sphere === label(ctx.sphere) && e.kind in TALENT_ENTRY_KINDS,
+    title: (ctx) => `Add ${label(ctx.sphere)} talent`,
+    meta: (e) => [TALENT_ENTRY_KINDS[e.kind], ...(e.tags ?? []).map((t) => `(${t})`), ...(e.talentTags ?? []).map((t) => `[${t}]`)].join(" "),
+    custom: (ctx) => addTalent(ctx.sphere),
+    onPick: (f, full, ctx) => addTalent(ctx.sphere, {
+      name: f.name, tags: f.tags?.join(", ") ?? "", ref: f.id,
+      desc: [mdToText(full?.md ?? f.summary), ...(full?.options ?? []).map((o) => `${o.name}\n${mdToText(o.md)}`)].filter(Boolean).join("\n\n"),
+    }) },
 }
+// the compendium entry kinds a sphere's talent picker offers
+const TALENT_ENTRY_KINDS = { talent: "Talent", package: "Package", "advanced talent": "Advanced talent",
+  "legendary talent": "Legendary talent", "exceptional talent": "Exceptional talent" }
 const COMPENDIUM_FILES = {}
 function loadCompendium(file, empty) {
   COMPENDIUM_FILES[file] ??= fetch(`../compendium/${file}`).then((r) => (r.ok ? r.json() : empty))
@@ -394,16 +409,18 @@ function openDialog(title, ...body) {
 }
 
 // "Add feat" / "Add trait" / "Add racial trait": from the compendium, or a blank one to fill in
-function openCompendiumChooser(kind) {
-  const { noun } = PICKERS[kind]
-  const dlg = openDialog(`Add ${noun}`,
+// ctx: what the picker is for (a talent picker's sphere)
+function openCompendiumChooser(kind, ctx = {}) {
+  const P = PICKERS[kind]
+  const { noun } = P
+  const dlg = openDialog(P.title ? P.title(ctx) : `Add ${noun}`,
     h("p", { class: "muted" }, `Pick a ${noun} from the compendium to fill in its name and rules text, or add your own.`),
     h("div", { class: "row add-row" },
-      h("button", { class: "primary", onclick: () => { dlg.done(); openCompendiumSearch(kind) } }, "From the compendium"),
-      h("button", { onclick: () => { dlg.done(); addFeature(kind) } }, `Custom ${noun}`)))
+      h("button", { class: "primary", onclick: () => { dlg.done(); openCompendiumSearch(kind, ctx) } }, "From the compendium"),
+      h("button", { onclick: () => { dlg.done(); P.custom ? P.custom(ctx) : addFeature(kind) } }, `Custom ${noun}`)))
 }
 
-function openCompendiumSearch(kind) {
+function openCompendiumSearch(kind, ctx = {}) {
   const P = PICKERS[kind]
   const box = h("input", { type: "search", placeholder: `Search ${P.noun}s by name`, "aria-label": `Search ${P.noun}s` })
   const systems = { all: "All systems", "Pathfinder 1e": "Pathfinder" }
@@ -418,13 +435,13 @@ function openCompendiumSearch(kind) {
   const raceName = currentRaceName()
   const onlyRace = h("input", { type: "checkbox", checked: !!raceName, disabled: !raceName })
   const results = h("div", { class: "picker-results", role: "list" }, h("p", { class: "muted" }, `Loading ${P.noun}s…`))
-  const dlg = openDialog(`Add ${P.noun} from the compendium`,
-    h("div", { class: "row picker-filters" }, box, sys, cat),
+  const dlg = openDialog(`${P.title ? P.title(ctx) : `Add ${P.noun}`} from the compendium`,
+    h("div", { class: "row picker-filters" }, box, P.scoped ? null : sys, cat),
     h("div", { class: "row picker-filters" },
       h("label", { class: "row", style: "gap:.3rem" }, fullText, "Search rules text too"),
       P.byRace ? h("label", { class: "row", style: "gap:.3rem" }, onlyRace,
         raceName ? `Only ${raceName} racial traits` : "Only my race's racial traits (pick a race on the Race tab)") : null),
-    state.spheresModule ? null : h("p", { class: "note" }, `Spheres ${P.noun}s are listed when Spheres is turned on.`),
+    state.spheresModule || P.scoped ? null : h("p", { class: "note" }, `Spheres ${P.noun}s are listed when Spheres is turned on.`),
     results)
   let all = []
   let texts = null // entry id -> lowercased rules text, once loaded for the text search
@@ -432,7 +449,8 @@ function openCompendiumSearch(kind) {
     results.replaceChildren(h("p", { class: "muted" }, `Adding ${f.name}…`))
     const data = await loadCompendium(f.file, { entries: [] })
     const full = data.entries.find((x) => (f.ref ? x.name === f.ref : x.id === f.id))
-    addFeature(kind, { name: f.name, desc: mdToText(full?.md ?? f.summary), ref: f.id })
+    if (P.onPick) P.onPick(f, full, ctx)
+    else addFeature(kind, { name: f.name, desc: mdToText(full?.md ?? f.summary), ref: f.id })
     dlg.done()
   }
   const loadTexts = async () => {
@@ -449,7 +467,8 @@ function openCompendiumSearch(kind) {
   }
   const raceMatch = (f) => !P.byRace || !onlyRace.checked || f.race === "Any"
     || f.race.toLowerCase() === raceName.toLowerCase()
-  const inSystem = (f) => (state.spheresModule || isPf(f))
+  // a scoped picker (one sphere's talents) has already narrowed its list
+  const inSystem = (f) => P.scoped || (state.spheresModule || isPf(f))
     && (sys.value === "all" || f.system === sys.value || (sys.value === "spheres" && !isPf(f)))
   // the type / category list follows the other filters (a category picked earlier stays if it still has entries)
   const fillCategories = () => {
@@ -473,7 +492,7 @@ function openCompendiumSearch(kind) {
     results.replaceChildren(
       ...shown.map((f) => h("button", { class: "picker-item", role: "listitem", onclick: () => pick(f) },
         h("span", { class: "pi-name" }, f.name,
-          h("span", { class: "pi-meta" }, ` ${P.cats(f).join(", ")}${P.byRace ? ` · ${f.race}` : ""} · ${isPf(f) ? "Pathfinder" : f.system}`)),
+          h("span", { class: "pi-meta" }, P.meta ? ` ${P.meta(f)}` : ` ${P.cats(f).join(", ")}${P.byRace ? ` · ${f.race}` : ""} · ${isPf(f) ? "Pathfinder" : f.system}`)),
         f.summary ? h("span", { class: "pi-sum" }, f.summary) : null,
         P.req(f) ? h("span", { class: "pi-pre" }, `${P.reqLabel}: ${mdToText(P.req(f))}`) : null)),
       hits.length > shown.length ? h("p", { class: "note" }, `Showing ${shown.length} of ${hits.length}; type more${cat.value ? "" : ` or pick ${kind === "feat" ? "a type" : "a category"}`} to narrow it down.`) : null,
@@ -490,7 +509,11 @@ function openCompendiumSearch(kind) {
     }
     render()
   })
-  loadCompendium(P.index, []).then((list) => { all = list; fillCategories(); render() })
+  loadCompendium(P.index, []).then((list) => {
+    all = P.scoped ? list.filter((f) => P.filter(f, ctx)) : list
+    fillCategories()
+    render()
+  })
   box.focus()
 }
 // a class's page: Spheres pages are on this site (the builder lives at static/character-builder/)
@@ -1000,6 +1023,7 @@ const panels = {
         t.sphere ? null : field("Kind", select(p + "kind", Object.fromEntries(Object.entries(TALENT_KINDS).map(([k, v]) => [k, v[1]])))),
         field("Sphere", sphereSelect(p + "sphere")),
         h("div", { class: "field" }, h("span", {}, " "), checkbox(p + "exclude", "Exclude from talent count")),
+        t.ref ? h("span", { class: "note", style: "align-self:center" }, "From the compendium") : null,
         h("div", { class: "spacer" }),
         h("button", { class: "small danger", "aria-label": `Remove ${t.name || "talent"}`, onclick: () => { state.talents.splice(i, 1); changed(true) } }, "Remove"),
         h("details", { style: "flex-basis:100%" }, h("summary", { class: "note" }, t.desc ? "Description" : "Add description"), desc),
@@ -1021,7 +1045,7 @@ const panels = {
           level ? h("span", { class: "sphere-level" }, h("span", { class: "muted" }, level[0] + " "), h("b", {}, level[1])) : null,
         ),
         h("div", { class: "picked-list" }, idxs.map(talentRow)),
-        h("button", { class: "small", style: "margin-top:.5rem", onclick: () => addTalent(key) }, `+ Add ${key ? label(key) : ""} talent`.replace("  ", " ")),
+        h("button", { class: "small", style: "margin-top:.5rem", onclick: () => addSphereTalent(key) }, `+ Add ${key ? label(key) : ""} talent`.replace("  ", " ")),
       )
     })
 
@@ -1057,7 +1081,7 @@ const panels = {
       blocks.length ? h("div", { class: "picked-list" }, blocks) : h("p", { class: "muted" }, "No talents yet. Pick a sphere below to start."),
       h("div", { class: "row", style: "margin-top:.75rem" },
         adder,
-        h("button", { onclick: () => adder.value && addTalent(adder.value) }, "+ Add sphere"),
+        h("button", { onclick: () => adder.value && addSphereTalent(adder.value) }, "+ Add sphere"),
       ),
     ]
   },
@@ -1170,9 +1194,18 @@ function sphereSelect(path) {
   return el
 }
 
-function addTalent(sphere) {
-  state.talents.push({ name: "", kind: sphereKind(sphere) ?? "magic", sphere, tags: "", exclude: false, desc: "" })
+// adding to a sphere offers its talents from the compendium (or a custom one); a talent with no
+// sphere set is just a blank row
+function addSphereTalent(sphere) {
+  if (sphere) openCompendiumChooser("talent", { sphere })
+  else addTalent(sphere)
+}
+
+// a talent in a sphere: blank to fill in, or (extra) filled from the compendium
+function addTalent(sphere, extra = {}) {
+  state.talents.push({ name: "", kind: sphereKind(sphere) ?? "magic", sphere, tags: "", exclude: false, desc: "", ...extra })
   changed(true)
+  if (extra.name) return
   const rows = [...document.querySelectorAll("#panel .sphere-block")]
   const block = rows.find((b) => b.querySelector("h3")?.textContent === (sphere ? label(sphere) : "No sphere set"))
   const inputs = block?.querySelectorAll('input[placeholder="Talent name"]')

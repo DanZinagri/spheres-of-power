@@ -1,7 +1,7 @@
 {
  "sphere": "Infiltration",
  "system": "Spheres of Guile",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "infiltration/fast-sabotage-ex",

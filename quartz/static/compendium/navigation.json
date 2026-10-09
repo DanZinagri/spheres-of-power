@@ -1,7 +1,7 @@
 {
  "sphere": "Navigation",
  "system": "Spheres of Guile",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "navigation/acclimate-ex",

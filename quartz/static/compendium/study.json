@@ -1,7 +1,7 @@
 {
  "sphere": "Study",
  "system": "Spheres of Guile",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "study/knowledgeable-ex",

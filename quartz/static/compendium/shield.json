@@ -1,7 +1,7 @@
 {
  "sphere": "Shield",
  "system": "Spheres of Might",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "shield/active-defense",
