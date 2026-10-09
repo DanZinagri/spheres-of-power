@@ -4567,9 +4567,9 @@ def _ct_resolve(name: str, known: list[str]) -> str | None:
 # Sample traditions' sphere-specific drawbacks that are no longer drawbacks (older Dark / Enhancement /
 # Weather versions; see the Archive): (tradition, name) -> (current drawback, its option) or None to drop
 CT_SPHERE_DRAWBACK_FIXES = {
-    # "You cannot create darkness" (retired Ultimate Dark sphere): Darkness Speciality, losing gloom
-    ("Chi Tracer", "Meld Into Dark"): ("Darkness Speciality", "gloom"),
-    ("Monastic", "Meld Into Dark"): ("Darkness Speciality", "gloom"),
+    # retired Ultimate Dark sphere drawback: Personal Darkness, like these traditions' other "personal" drawbacks
+    ("Chi Tracer", "Meld Into Dark"): ("Personal Darkness", ""),
+    ("Monastic", "Meld Into Dark"): ("Personal Darkness", ""),
     # paired with Shadowed Brew, which now stands alone
     ("Alchemist", "Meld Into Dark"): None,
     # original Enhancement drawback (one category of creatures) with no current equivalent
@@ -4590,7 +4590,7 @@ def _ct_fix_sphere_drawbacks(tradition: str, items: list[dict]) -> tuple[list[di
             notes.append(f"{x['name']} is an older {x['sphere']} drawback that no longer exists; left out")
         else:
             out.append({**x, "name": fix[0], "detail": fix[1], "missing": False, "replaces": x["name"]})
-            notes.append(f"{x['name']} is an older {x['sphere']} drawback; {fix[0]} ({fix[1]}) replaces it")
+            notes.append(f"{x['name']} is an older {x['sphere']} drawback; {fix[0]}{f' ({fix[1]})' if fix[1] else ''} replaces it")
     return out, notes
 
 

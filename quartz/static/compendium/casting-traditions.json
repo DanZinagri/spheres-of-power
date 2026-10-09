@@ -1866,7 +1866,7 @@
    "feats": [],
    "notes": [
     "Sphere-specific drawbacks: Lycanthropic (Alteration), Meld Into Dark (Dark), Deathful Touch (Death), Destructive Touch (Destruction), Bodily Enhancement and Personal Magics (Enhancement), Personal Fate (Fate), Personal Illusion (Illusion), Touch Of Light (Light), Regenerate (Life), Tactile Charm (Mind), Limited Nature x2, Limited Protection (ward), Personal Time (Time), Solo Combatant (War), Personal Warp (Warp)",
-    "Meld Into Dark is an older Dark drawback; Darkness Speciality (gloom) replaces it"
+    "Meld Into Dark is an older Dark drawback; Personal Darkness replaces it"
    ],
    "ability": "Wisdom",
    "sphereDrawbacks": [
@@ -1877,9 +1877,9 @@
      "count": 1
     },
     {
-     "name": "Darkness Speciality",
+     "name": "Personal Darkness",
      "sphere": "Dark",
-     "detail": "gloom",
+     "detail": "",
      "count": 1,
      "missing": false,
      "replaces": "Meld Into Dark"
@@ -2678,7 +2678,7 @@
    "feats": [],
    "notes": [
     "Sphere-specific drawbacks: Lycanthropic (Alteration), Meld Into Dark (Dark), Deathful Touch (Death), Destructive Touch (Destruction), Bodily Enhancement and Personal Magics (Enhancement), Personal Fate (Fate), Personal Illusion (Illusion), Touch Of Light (Light), Regenerate (Life), Limited Nature x2, Protected Soul (Protection), Personal Time (Time), Solo Combatant (War), Personal Warp (Warp)",
-    "Meld Into Dark is an older Dark drawback; Darkness Speciality (gloom) replaces it"
+    "Meld Into Dark is an older Dark drawback; Personal Darkness replaces it"
    ],
    "ability": "Wisdom",
    "sphereDrawbacks": [
@@ -2689,9 +2689,9 @@
      "count": 1
     },
     {
-     "name": "Darkness Speciality",
+     "name": "Personal Darkness",
      "sphere": "Dark",
-     "detail": "gloom",
+     "detail": "",
      "count": 1,
      "missing": false,
      "replaces": "Meld Into Dark"
