@@ -2784,7 +2784,7 @@ COMPENDIUM = {
     },
     "Protection": {
         "system": "Spheres of Power",
-        "approved": False,
+        "approved": True,
         "pages": [
             # Aegis (with Deflection) and Ward (with Barrier)
             ("Protection", "## Aegis", "sphere ability", 2, 4),
@@ -2798,6 +2798,22 @@ COMPENDIUM = {
         ],
         # the (succor) talent type note under Ward
         "not_options": r"^Table|^Note|^Succor$",
+    },
+    "Telekinesis": {
+        "system": "Spheres of Power",
+        "approved": False,
+        "pages": [
+            # Telekinesis, with Bludgeon, Catch, Hostile Lift and Sustained Force (its wiki notes
+            # stay in its text)
+            ("Telekinesis", "## Telekinesis", "sphere ability", 2, 4),
+            ("Telekinesis", "Telekinesis Talents", "talent", 4),
+            ("Telekinesis", "Advanced Telekinesis Talents", "advanced talent", 4),
+            ("Telekinesis Sphere Feats", "(page)", "feat", 4),
+            # the protokinesis feats printed on the Telekinesis page itself
+            ("Telekinesis", "Protokinesis Feats", "feat", 4, {"group": "Protokinesis Feats"}),
+            ("Telekinesis Sphere Drawbacks", "(page)", "drawback", 4),
+        ],
+        "not_options": r"^Table|^Note",
     },
     "Warleader": {
         "system": "Spheres of Might",

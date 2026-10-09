@@ -31417,7 +31417,7 @@
   ],
   "summary": "As a standard action, you may touch a creature and spend a spell point, granting them an aegis for 1 hour per caster level.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/ward",
@@ -31436,7 +31436,7 @@
   ],
   "summary": "As a standard action, you may create a ward centered on yourself with a radius of up to 10 feet + 5 feet per caster level, but can also be made so small as to…",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/buttressing",
@@ -31453,7 +31453,7 @@
   "options": [],
   "summary": "You may repair any barrier you created (including those created using Greater Barrier) causing it to regain a number of hit points equal to twice your caster…",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/community",
@@ -31470,7 +31470,7 @@
   "options": [],
   "summary": "So long as you are on the same plane and are aware of it happening, whenever a creature under one of your aegises takes damage, you may spend a spell point as…",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/continuous-ward",
@@ -31487,7 +31487,7 @@
   "options": [],
   "summary": "Wards you create may be completely sealed spheres.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/distant-protection-range",
@@ -31506,7 +31506,7 @@
   "options": [],
   "summary": "When creating a ward, you may center it anywhere within close range.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/durable-barrier",
@@ -31523,7 +31523,7 @@
   "options": [],
   "summary": "Barriers you create reduce all bludgeoning, piercing, and slashing damage dealt to it by an amount equal to half your caster level (minimum 1).",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/enduring-protection",
@@ -31540,7 +31540,7 @@
   "options": [],
   "summary": "When you spend a spell point to make a ward last without concentration, it lasts 1 minute per caster level.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/fortifier",
@@ -31557,7 +31557,7 @@
   "options": [],
   "summary": "You may apply an aegis or succor to an object as if it were a creature.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/glyph",
@@ -31574,7 +31574,7 @@
   "options": [],
   "summary": "At the time of casting a ward you may choose to shape the ward into a glyph: a magical trap whose effects are not immediately active until triggered.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/greater-barrier",
@@ -31591,7 +31591,7 @@
   "options": [],
   "summary": "You may fashion your barrier into a flat plane if you so choose.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/instill-aegis-instill",
@@ -31610,7 +31610,7 @@
   "options": [],
   "summary": "As a standard action you may touch a small container of liquid and instill an aegis inside it, which functions as a potion or oil.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/lingering-succor",
@@ -31627,7 +31627,7 @@
   "options": [],
   "summary": "Whenever you use a (succor) talent, the effects of the aegis sacrificed do not end until the end of your second turn.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/mass-aegis-mass",
@@ -31646,7 +31646,7 @@
   "options": [],
   "summary": "When using an aegis, you may spend an additional spell point to affect an additional 1 creature per 2 caster levels (minimum 1) with the aegis at the same time.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/persistent-succor",
@@ -31663,7 +31663,7 @@
   "options": [],
   "summary": "Whenever you use a (succor) talent that sacrifices an aegis, you may instead spend two spell points in place of sacrificing the aegis.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/reactive-barrier",
@@ -31680,7 +31680,7 @@
   "options": [],
   "summary": "When you create a barrier, you may spend a spell point or increase the casting time by one step (usually from a standard to a full-round action) to allow the…",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/selective-barrier",
@@ -31697,7 +31697,7 @@
   "options": [],
   "summary": "When you create a barrier, you may spend a spell point to make its structure more complicated, allowing certain kinds of activities to pass through the barrier.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/shaped-ward",
@@ -31714,7 +31714,7 @@
   "options": [],
   "summary": "When you create a ward, you may alter its shape so that it takes the form of a close-range cone or a medium-range line, each emanating from yourself (or from…",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/shared-aegis",
@@ -31731,7 +31731,7 @@
   "options": [],
   "summary": "This requires active effort from the creature wearing the aegis, and they can not use their aegis to defend another creature if they would be denied their…",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/status-utility",
@@ -31750,7 +31750,7 @@
   "options": [],
   "summary": "You always know the direction and distance to all creatures benefiting from your aegises and are aware of any conditions affecting them (confused, disabled,…",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/ablating-aegis",
@@ -31769,7 +31769,7 @@
   "options": [],
   "summary": "You may create an aegis that has a chance of negating attacks against the protected creature.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/armored-magic-aegis",
@@ -31788,7 +31788,7 @@
   "options": [],
   "summary": "You may create an aegis that wraps the target in protective barriers, granting them either a +3 armor bonus or a +1 shield bonus to AC (your choice).",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/breathless-aegis",
@@ -31807,7 +31807,7 @@
   "options": [],
   "summary": "You may create an aegis that suspends the body’s needs.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/clarity-ward",
@@ -31826,7 +31826,7 @@
   "options": [],
   "summary": "Within the area of this ward, attempts to conceal, obfuscate, or disguise oneself are hindered.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/deathless-aegis",
@@ -31845,7 +31845,7 @@
   "options": [],
   "summary": "You may create an aegis that blocks direct attacks on one’s life.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/destructionless-aegis",
@@ -31864,7 +31864,7 @@
   "options": [],
   "summary": "You may create an aegis that protects against direct magical attacks.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/energy-resistance-aegis-ward",
@@ -31884,7 +31884,7 @@
   "options": [],
   "summary": "You may create a ward that suppresses one energy type of your choice (acid, cold, electricity, fire, or sonic).",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/exclusion-ward",
@@ -31903,7 +31903,7 @@
   "options": [],
   "summary": "You can create a ward that prevents entry of a common material or element chosen when you create the ward.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/eyeless-aegis",
@@ -31922,7 +31922,7 @@
   "options": [],
   "summary": "You may create an aegis that protects against effects dependent on light, dark, or that attack the senses.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/fateless-aegis",
@@ -31941,7 +31941,7 @@
   "options": [],
   "summary": "You may create an aegis that protects against tugs on the strands of fate.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/friendship-aegis",
@@ -31960,7 +31960,7 @@
   "options": [],
   "summary": "You may create an aegis that gives a creature special protection from the spell, spell-like, sphere and supernatural abilities of his allies.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/guardian-aegis",
@@ -31979,7 +31979,7 @@
   "options": [],
   "summary": "You may create an aegis that draws harmful attention to its bearer and away from their allies.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/impartiality-aegis-ward",
@@ -31999,7 +31999,7 @@
   "options": [],
   "summary": "Creatures within this ward or bearing this aegis are treated as having no alignment for all magical effects.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/impedance-aegis-ward",
@@ -32019,7 +32019,7 @@
   "options": [],
   "summary": "You may create a ward that makes it difficult for creatures to approach the center of the ward.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/inner-peace-aegis",
@@ -32038,7 +32038,7 @@
   "options": [],
   "summary": "You may create an aegis that grants the target a +4 morale bonus to saving throws against all fear, emotional and mind-affecting abilities, both magical or…",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/iron-shield-aegis",
@@ -32057,7 +32057,7 @@
   "options": [],
   "summary": "You may create an aegis that protects against the forces of nature.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/logic-ward",
@@ -32076,7 +32076,7 @@
   "options": [],
   "summary": "This ward presents subtle inconsistencies and misdirections that prevent entry.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/magnetic-shield-ward",
@@ -32095,7 +32095,7 @@
   "options": [],
   "summary": "Creatures within this ward have damage reduction equal to your caster level against all metal weapons or metal tipped weapons, with the exception of silver…",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/mettle-aegis",
@@ -32114,7 +32114,7 @@
   "options": [],
   "summary": "A creature with this aegis receives an untyped bonus to their AC equal to 5 + your caster level against critical hit confirmation rolls.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/missile-shield-ward",
@@ -32133,7 +32133,7 @@
   "options": [],
   "summary": "You may create a ward that protects creatures within from projectiles, including projectile weapons, thrown rocks, rays made up of projectiles (such as created…",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/mystic-shell-aegis",
@@ -32152,7 +32152,7 @@
   "options": [],
   "summary": "You may create an aegis that protects magical effects on the character.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/obscurity-aegis-ward",
@@ -32172,7 +32172,7 @@
   "options": [],
   "summary": "Creatures with this aegis or within this ward appear unremarkable and unimportant to those around them.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/obstruction-aegis",
@@ -32191,7 +32191,7 @@
   "options": [],
   "summary": "You may create an aegis that absorbs damage.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/painful-aegis-aegis",
@@ -32210,7 +32210,7 @@
   "options": [],
   "summary": "You may create an aegis that inflicts pain on creatures that hurt its bearer.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/peacebound-aegis-ward",
@@ -32230,7 +32230,7 @@
   "options": [],
   "summary": "You may create a ward that renders all creatures within incapable of causing violence.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/plexing-aegis-aegis",
@@ -32249,7 +32249,7 @@
   "options": [],
   "summary": "A Plexing aegis offers no specific protection until activated, but at any time during its duration you may spend an immediate action to activate it, turning it…",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/quantum-lock-ward",
@@ -32268,7 +32268,7 @@
   "options": [],
   "summary": "You may create a ward that represses all effects that alter reality, including sphere abilities that change the rate of time, teleportation, gravitational…",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/ray-deflection-aegis",
@@ -32287,7 +32287,7 @@
   "options": [],
   "summary": "Whenever a ray attack is used against a creature with this aegis, there is a 20% chance the ray will be deflected back at the caster.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/repel-chaosevilgoodlaw-ward",
@@ -32306,7 +32306,7 @@
   "options": [],
   "summary": "You may create a ward that repels creatures of one end of the alignment spectrum (chaotic, evil, good, lawful), chosen by you when this ward is created.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/resist-transformation-aegis",
@@ -32325,7 +32325,7 @@
   "options": [],
   "summary": "You may create an aegis that holds the target’s shape together.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/resistance-aegis",
@@ -32344,7 +32344,7 @@
   "options": [],
   "summary": "You may create an aegis that grants +1 resistance bonus to all saving throws.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/slippery-aegis",
@@ -32363,7 +32363,7 @@
   "options": [],
   "summary": "You may create an aegis that protects a creature from being physically restrained or manipulated.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/spell-ward-aegis-ward",
@@ -32383,7 +32383,7 @@
   "options": [],
   "summary": "You may spend a spell point to create a ward that represses all magic within its area of effect.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/stabilize-aegis",
@@ -32402,7 +32402,7 @@
   "options": [],
   "summary": "You may create an aegis that stabilizes the target against planar effects or effects that warp time and space.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/blast-shield-succor",
@@ -32421,7 +32421,7 @@
   "options": [],
   "summary": "As an immediate action, you may dismiss an aegis on an ally to give them energy resistance to all types of energy damage equal to your caster level until the…",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/bulwark-succor",
@@ -32440,7 +32440,7 @@
   "options": [],
   "summary": "As an immediate action, you may dismiss an aegis on an ally to give them DR/- equal to your caster level until the beginning of your next turn.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/healing-aegis-succor",
@@ -32459,7 +32459,7 @@
   "options": [],
   "summary": "As an immediate action, you may dismiss one or more of your aegises on a target, healing that target for an amount equal to your casting ability modifier +…",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/helping-hand-succor",
@@ -32478,7 +32478,7 @@
   "options": [],
   "summary": "As an immediate action, you may dismiss an aegis on a target to allow them to reroll a skill or ability check they just made before the results are revealed.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/luck-succor",
@@ -32497,7 +32497,7 @@
   "options": [],
   "summary": "As an immediate action, you may dismiss an aegis on a target to allow them to reroll a saving throw they have just made.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/negation-succor",
@@ -32516,7 +32516,7 @@
   "options": [],
   "summary": "When a creature with an aegis you created becomes the target of an attack or sphere effect, you may spend a spell point and sacrifice an aegis they are bearing…",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/punishment-succor",
@@ -32535,7 +32535,7 @@
   "options": [],
   "summary": "When a creature successfully hits a creature you have placed an aegis on with an attack, you may sacrifice an aegis they are bearing as an immediate action to…",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/reflection-succor",
@@ -32554,7 +32554,7 @@
   "options": [],
   "summary": "When a creature with an aegis you created becomes the target of a spell or sphere ability that affects only them, you may spend a spell point and sacrifice an…",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/vengeance-succor",
@@ -32573,7 +32573,7 @@
   "options": [],
   "summary": "When an enemy you can see successfully hits a creature you have placed an aegis on with an attack, you may sacrifice an aegis they are bearing as an immediate…",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/adaptation-aegis",
@@ -32592,7 +32592,7 @@
   "options": [],
   "summary": "You may spend 2 spell points to grant a target an aegis that makes them immune to one damage type of your choice (acid, cold, electricity, fire, or sonic).",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/antimagic-aura",
@@ -32609,7 +32609,7 @@
   "options": [],
   "summary": "When creating a Spell Ward, you may spend an additional spell point to improve the ward’s abilities: The ward stops all magic and summoned creatures without…",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/automatic-fortification",
@@ -32626,7 +32626,7 @@
   "options": [],
   "summary": "Prerequisites: Protection sphere (Fortifier), caster level 5th Whenever you create an item using a magic sphere effect (or when you create any sphere effect,…",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/complex-glyph",
@@ -32643,7 +32643,7 @@
   "options": [],
   "summary": "When you create a glyph, you may substitute an ability that you possess from another sphere in place of a ward.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/improved-negation",
@@ -32660,7 +32660,7 @@
   "options": [],
   "summary": "Prerequisites: Protection sphere (Negation (succor)), caster level 10th When you attempt a magic skill check using negation, you may dispel one additional…",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/mobile-ward",
@@ -32677,7 +32677,7 @@
   "options": [],
   "summary": "When you move, you may have any ward that you have cast move so that it remains centered on you.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/layered-glyph",
@@ -32694,7 +32694,7 @@
   "options": [],
   "summary": "Prerequisites: Protection sphere (glyph) When you create a glyph, you may place multiple glyphs in the same location as part of a single casting, paying the…",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/permanent-ward",
@@ -32711,7 +32711,7 @@
   "options": [],
   "summary": "When creating a ward, you may spend 2 spell points to increase its duration to permanent.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/pithing-protection",
@@ -32728,7 +32728,7 @@
   "options": [],
   "summary": "When you use Spell Selectivity to affect one or more specific spheres or schools of magic (rather than nullify all except a chosen number of spheres), you may…",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/planar-refuge-aegis-ward",
@@ -32748,7 +32748,7 @@
   "options": [],
   "summary": "You may create a ward that protects against and grants immunity to harmful environmental effects, such as extreme temperatures, toxicity, and lack of air.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/preserve-integrity-aegis",
@@ -32767,7 +32767,7 @@
   "options": [],
   "summary": "You may grant the target an aegis that makes them immune to ability damage and ability drain.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/rapid-glyph",
@@ -32784,7 +32784,7 @@
   "options": [],
   "summary": "Prerequisites: Protection sphere (glyph) You may create a glyph as a standard action rather than using the normal casting time.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/spell-eater-aegis",
@@ -32803,7 +32803,7 @@
   "options": [],
   "summary": "Prerequisites: Protection sphere (Negation (succor)), caster level 10th You may spend 3 spell points to create an aegis that absorbs magic effects on attackers.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/spell-selectivity",
@@ -32820,7 +32820,7 @@
   "options": [],
   "summary": "Whenever you create a Spell Ward as an aegis or ward, you may spend an additional spell point to choose one sphere of magic plus an additional one for every 5…",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/subtle-aegis",
@@ -32839,7 +32839,7 @@
   "options": [],
   "summary": "Prerequisites: Protection sphere, caster level 5th.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/true-protection",
@@ -32856,7 +32856,7 @@
   "options": [],
   "summary": "Whenever you create an aegis or ward, you may tie it to a specific creature.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/undying-aegis",
@@ -32875,7 +32875,7 @@
   "options": [],
   "summary": "When you create a Deathless aegis, you may spend an additional spell point to create an Undying aegis instead.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/unplottable-aegis",
@@ -32894,7 +32894,7 @@
   "options": [],
   "summary": "You may grant the target an aegis that makes them undetectable through divination magic of any sort.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/benevolence-dual-sphere",
@@ -32913,7 +32913,7 @@
   "options": [],
   "summary": "Whenever an ally within range of your cure ability that is under the effects of an aegis is damaged, you may spend a spell point as an immediate action to heal…",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/blurred-boundary-dual-sphere",
@@ -32932,7 +32932,7 @@
   "options": [],
   "summary": "When creating a non-trick glamer you may also grant the effects of a single aegis you possess to the target.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/catty-observer",
@@ -32949,7 +32949,7 @@
   "options": [],
   "summary": "” – Meowlin the Omnicatster Prerequisites: Life sphere (Diagnose) or Protection sphere (Status); magic skill bonus +3.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/companionship",
@@ -32966,7 +32966,7 @@
   "options": [],
   "summary": "When you use an aegis on an ally, they are considered physically closer to you.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/confining-circle",
@@ -32983,7 +32983,7 @@
   "options": [],
   "summary": "When you create a Repel ward, you may invert it, so that creatures of the repelled alignment can enter freely, but must attempt a Will saving throw to leave…",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/defensive-vigilance-dual-sphere",
@@ -33002,7 +33002,7 @@
   "options": [],
   "summary": "While an ally is within the area of one of your wards, you may rally that ally.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/dimensional-aegis-dual-sphere",
@@ -33021,7 +33021,7 @@
   "options": [],
   "summary": "You gain a (succor) talent that lets you sacrifice an aegis borne by an ally other than yourself to swap places with them by teleporting.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/energy-reflection",
@@ -33038,7 +33038,7 @@
   "options": [],
   "summary": "Whenever a creature attacks the bearer of your Energy Resistance aegis, and the damage is reduced by that aegis, you may choose for that creature to suffer…",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/enmity-ward",
@@ -33055,7 +33055,7 @@
   "options": [],
   "summary": "You may create a ward that repels all your favored enemies, as the Repel ward.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/forceful-hand-dual-sphere",
@@ -33074,7 +33074,7 @@
   "options": [],
   "summary": "You gain a (succor) talent that lets you sacrifice an aegis to use a telekinetic effect to defend the creature that bore the aegis.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/graphomancy",
@@ -33091,7 +33091,7 @@
   "options": [],
   "summary": "When you create a ward, you gain a bonus to your caster level equal to half the number of ranks you have in the Craft (calligraphy) skill, rounded up.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/guarded-step-dual-sphere",
@@ -33110,7 +33110,7 @@
   "options": [],
   "summary": "When teleporting yourself or a group that includes yourself to a location within a ward you created, you may reduce the action required by one step, from a…",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/guarding-dark-dual-sphere",
@@ -33129,7 +33129,7 @@
   "options": [],
   "summary": "You gain the following abilities based on the Dark sphere and Protection sphere talents you possess: - Darkness’s Embrace: You may use (succor) talents to…",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/homeguard-magic-dual-sphere",
@@ -33148,7 +33148,7 @@
   "options": [],
   "summary": "Whenever you create a ward, you may also use your shuffle inside that ward’s area of effect.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/immutable-protection",
@@ -33165,7 +33165,7 @@
   "options": [],
   "summary": "You receive a +4 insight bonus to MSB and MSD for any magical skill check made by your wards.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/luminous-aegis-dual-sphere",
@@ -33184,7 +33184,7 @@
   "options": [],
   "summary": "As a swift action, you may make an ally glow if they are bearing an aegis you created.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/malediction-dual-sphere",
@@ -33203,7 +33203,7 @@
   "options": [],
   "summary": "Prerequisites: Fate sphere, Protection sphere (Punishment) Benefit: When you use the Punishment succor, you may target the attacker with a word in place of…",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/martial-aegis-combat",
@@ -33222,7 +33222,7 @@
   "options": [],
   "summary": "Prerequisites: Protection sphere, base attack bonus +1.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/plexing-boon-dual-sphere",
@@ -33241,7 +33241,7 @@
   "options": [],
   "summary": "Prerequisites: Enhancement Sphere, Protection Sphere (Plexing Aegis) Benefit: Whenever you would activate a Plexing aegis, you may turn it into a single…",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/tribal-fortification-dual-sphere",
@@ -33260,7 +33260,7 @@
   "options": [],
   "summary": "When you create a ward, you may spend a spell point to add the effects of a totem ability you have to it.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/warded-bones-dual-sphere",
@@ -33279,7 +33279,7 @@
   "options": [],
   "summary": "When you reanimate a corpse, you can also apply an aegis to the undead.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/warning-sign-dual-sphere",
@@ -33298,7 +33298,7 @@
   "options": [],
   "summary": "Allies receive a +1 circumstance bonus to initiative per aegis they bear that you created.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/alternate-aegis",
@@ -33315,7 +33315,7 @@
   "options": [],
   "summary": "You do not gain the Deflection aegis.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/aligned-protection",
@@ -33332,7 +33332,7 @@
   "options": [],
   "summary": "Choose an end of the alignment spectrum that you possess (good, evil, lawful, or chaotic).",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/circle-of-symbols",
@@ -33349,7 +33349,7 @@
   "options": [],
   "summary": "You must use the bonus talent gained from this drawback to select a (ward) talent.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/crystalline",
@@ -33366,7 +33366,7 @@
   "options": [],
   "summary": "Your aegis abilities create a physical lattice of crystal around the creature bearing the aegis.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/limited-protection",
@@ -33383,7 +33383,7 @@
   "options": [],
   "summary": "Choose either aegis or ward.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/luminous",
@@ -33400,7 +33400,7 @@
   "options": [],
   "summary": "You must use the bonus talent gained from this drawback to gain an (aegis) talent.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/protected-soul",
@@ -33417,7 +33417,7 @@
   "options": [],
   "summary": "You must use the bonus talent gained from this drawback to gain an (aegis) talent.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/protective-brew",
@@ -33434,7 +33434,7 @@
   "options": [],
   "summary": "You must select the Instill Aegis talent with the bonus talent granted by this drawback, and you can only use your aegises through this talent.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/second-skin",
@@ -33451,7 +33451,7 @@
   "options": [],
   "summary": "You may only apply an aegis to a creature who is wearing no armor, and wearing armor suppresses its effects.",
   "file": "protection.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "protection/shielding",
@@ -33468,6 +33468,1438 @@
   "options": [],
   "summary": "You can not create any aegis that protects a creature from the environment (such as Breathless), and creatures lose the benefit of your aegis against attacks…",
   "file": "protection.json",
+  "approved": true
+ },
+ {
+  "id": "telekinesis/telekinesis",
+  "name": "Telekinesis",
+  "kind": "sphere ability",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#telekinesis",
+  "options": [
+   "Bludgeon",
+   "Catch",
+   "Hostile Lift",
+   "Sustained Force"
+  ],
+  "summary": "As a standard action, you can use telekinesis to lift one willing creature or unattended object within close range and move it up to 20 feet + 5 feet per 5…",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/acceleration",
+  "name": "Acceleration",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#acceleration",
+  "options": [],
+  "summary": "When you move a target with telekinesis you can double the distance you can move it that turn by having all of its movement be in a straight line.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/dampening-field",
+  "name": "Dampening Field",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#dampening-field",
+  "options": [],
+  "summary": "You may use your telekinetic force to protect and stabilize creatures and objects that you are lifting.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/dancing-weapon",
+  "name": "Dancing Weapon",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#dancing-weapon",
+  "options": [],
+  "summary": "You may add your casting ability modifier to all damage rolls made with a Bludgeon.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/divided-mind-mass",
+  "name": "Divided Mind",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [
+   "mass"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#divided-mind-mass",
+  "options": [],
+  "summary": "You may lift multiple targets at once (up to 1 + 1 per caster level) whose combined size does not exceed your maximum telekinesis size.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/excessive-force",
+  "name": "Excessive Force",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#excessive-force",
+  "options": [],
+  "summary": "Whenever you could perform a Bludgeon as part of a standard action or greater, you may instead violently slam the target under your telekinesis into another…",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/finesse-utility",
+  "name": "Finesse",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#finesse-utility",
+  "options": [],
+  "summary": "You may use telekinesis to perform fine manipulations, such as turning a key in a lock, unrolling a scroll, or tying a knot.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/flight",
+  "name": "Flight",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#flight",
+  "options": [],
+  "summary": "When using telekinesis to lift a creature or creatures and spending a spell point to create a Sustained Force on them, you may grant that creature the ability…",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/floating-shield",
+  "name": "Floating Shield",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#floating-shield",
+  "options": [],
+  "summary": "When using your telekinesis to lift a shield, you may apply its shield bonus to the armor class of anything in its square, though this does not stack with any…",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/forceful-telekinesis",
+  "name": "Forceful Telekinesis",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#forceful-telekinesis",
+  "options": [],
+  "summary": "When you are using an object or weapon as a Bludgeon, it is effectively one size larger for determining how much damage it deals.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/gravity-shift",
+  "name": "Gravity Shift",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#gravity-shift",
+  "options": [],
+  "summary": "By concentrating your telekinetic powers on an area you may effectively increase or decrease the area’s gravity.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/gravity-wardwell",
+  "name": "Gravity Ward/Well",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#gravity-wardwell",
+  "options": [],
+  "summary": "As a standard action, you can create an area of gravity that either pulls objects in or keeps them out.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/greater-speed",
+  "name": "Greater Speed",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#greater-speed",
+  "options": [],
+  "summary": "Your telekinesis speed increases to 30 feet + 5 feet per 2 caster levels per round.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/homing",
+  "name": "Homing",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#homing",
+  "options": [],
+  "summary": "When you miss with a Bludgeon attack, you may spend a spell point as an immediate action to make the Bludgeon home back in on the target.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/idle-concentration",
+  "name": "Idle Concentration",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#idle-concentration",
+  "options": [],
+  "summary": "You may choose to maintain concentration on your telekinesis as a swift action.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/increased-range-range",
+  "name": "Increased Range",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [
+   "range"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#increased-range-range",
+  "options": [],
+  "summary": "Increase the range of your telekinesis by one step (close to medium, medium to long).",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/kinetic-field",
+  "name": "Kinetic Field",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#kinetic-field",
+  "options": [],
+  "summary": "You may spend a spell point to apply your telekinesis as kinetic energy across an area instead of directly onto targets.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/kinetic-sense",
+  "name": "Kinetic Sense",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#kinetic-sense",
+  "options": [],
+  "summary": "In addition, you may spend a spell point to gain 30 feet blindsense for one minute per caster level.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/mobile-bludgeon",
+  "name": "Mobile Bludgeon",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#mobile-bludgeon",
+  "options": [],
+  "summary": "When you use your telekinesis to make a Bludgeon attack, you may continue to move the object after the attack roll is made if it has any movement remaining.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/orbit",
+  "name": "Orbit",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#orbit",
+  "options": [],
+  "summary": "When you lift an object with your telekinesis and move it into your square or drop an item you are holding, you may place it in a passive orbit around you.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/pantomime-cage",
+  "name": "Pantomime Cage",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#pantomime-cage",
+  "options": [],
+  "summary": "You may spend a spell point to trap the target in a box made of telekinetic force.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/parry",
+  "name": "Parry",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#parry",
+  "options": [],
+  "summary": "You may use the Catch function of telekinesis to block attacks with melee weapons, though they retain their hold on their weapon even if you successfully block…",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/powerful-telekinesis",
+  "name": "Powerful Telekinesis",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#powerful-telekinesis",
+  "options": [],
+  "summary": "Increase the maximum-sized object or creature you may affect with telekinesis by 1 size category.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/quick-reactions",
+  "name": "Quick Reactions",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#quick-reactions",
+  "options": [],
+  "summary": "You may spend a spell point to make a telekinetic Catch as an immediate action.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/return",
+  "name": "Return",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#return",
+  "options": [],
+  "summary": "When you stop a ranged attack with telekinetic Catch, you may immediately fling it back at the attacker if they are in range of your telekinesis.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/seizing-strike-strike",
+  "name": "Seizing Strike",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [
+   "Strike"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#seizing-strike-strike",
+  "options": [],
+  "summary": "As a standard action, you may make a single weapon attack in conjunction with using a lift.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/steal",
+  "name": "Steal",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#steal",
+  "options": [],
+  "summary": "You may use telekinesis on attended objects.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/sweeping-bludgeons",
+  "name": "Sweeping Bludgeons",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#sweeping-bludgeons",
+  "options": [],
+  "summary": "Whenever you perform a Bludgeon, instead of making an attack roll, you may choose to swing the Bludgeon in a sweeping arc at the target.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/telekinetic-crush",
+  "name": "Telekinetic Crush",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#telekinetic-crush",
+  "options": [],
+  "summary": "When using your telekinesis on a target, you may crush it with your grip.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/telekinetic-maneuver",
+  "name": "Telekinetic Maneuver",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#telekinetic-maneuver",
+  "options": [],
+  "summary": "You can use telekinesis to manipulate a target with more finesse than a Hostile Lift.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/telekinetic-push",
+  "name": "Telekinetic Push",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#telekinetic-push",
+  "options": [],
+  "summary": "You may throw your telekinetic power at an object, aiding or impeding its natural movement.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/telekinetic-tools",
+  "name": "Telekinetic Tools",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#telekinetic-tools",
+  "options": [],
+  "summary": "You may use your telekinesis to mimic simple tools, such as shovels, hammers, or scissors by using your telekinesis as if manipulating an item of the…",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/tether",
+  "name": "Tether",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#tether",
+  "options": [],
+  "summary": "You can create a telekinetic connection between two objects of any size, tethering them together.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/whirlwind-assembly",
+  "name": "Whirlwind Assembly",
+  "kind": "talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#whirlwind-assembly",
+  "options": [],
+  "summary": "You can use your telekinesis to ready yourself for any given situation.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/affix",
+  "name": "Affix",
+  "kind": "advanced talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Advanced Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#affix",
+  "options": [],
+  "summary": "Prerequisites: Telekinesis sphere (Effortless Telekinesis (advanced), Idle Concentration), caster level 10th By spending two spell points, you may permanently…",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/astral-affixation",
+  "name": "Astral Affixation",
+  "kind": "advanced talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Advanced Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#astral-affixation",
+  "options": [],
+  "summary": "When you affix a target permanently in place, you may spend an additional spell point to strengthen the effect by pinning them to astral leylines.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/choking-grasp",
+  "name": "Choking Grasp",
+  "kind": "advanced talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Advanced Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#choking-grasp",
+  "options": [],
+  "summary": "As either a stand-alone standard action or as part of maintaining a Hostile Lift, you may spend 2 spell points to suffocate a target within your telekinesis…",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/disperse-force",
+  "name": "Disperse Force",
+  "kind": "advanced talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Advanced Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#disperse-force",
+  "options": [],
+  "summary": "You can apply an opposing force at the right times, canceling out offensive forces.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/effortless-telekinesis",
+  "name": "Effortless Telekinesis",
+  "kind": "advanced talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Advanced Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#effortless-telekinesis",
+  "options": [],
+  "summary": "When you use your telekinesis to lift creatures or objects and spend a spell point to create a Sustained Force on them, the Sustained Force persists for 1 hour…",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/focused-power",
+  "name": "Focused Power",
+  "kind": "advanced talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Advanced Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#focused-power",
+  "options": [],
+  "summary": "By spending a spell point you can further advance the strength of your telekinesis.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/gravity-manipulation",
+  "name": "Gravity Manipulation",
+  "kind": "advanced talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Advanced Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#gravity-manipulation",
+  "options": [],
+  "summary": "When you use Gravity Shift, you may spend two spell points (instead of one, if you are already spending a spell point for Gravity Shift, otherwise you must…",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/linear-acceleration",
+  "name": "Linear Acceleration",
+  "kind": "advanced talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Advanced Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#linear-acceleration",
+  "options": [],
+  "summary": "You may spend 2 spell points as a standard action to fling an object you are currently lifting at immense speeds, tying it to a target or location within line…",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/puppet",
+  "name": "Puppet",
+  "kind": "advanced talent",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Advanced Telekinesis Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#puppet",
+  "options": [],
+  "summary": "When you lift a creature with your telekinesis you may spend a spell point to take precise control over their physical form.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/alloy-telekinesis-dual-sphere",
+  "name": "Alloy Telekinesis",
+  "kind": "feat",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis-Sphere-Feats#alloy-telekinesis-dual-sphere",
+  "options": [],
+  "summary": "Whenever you use the (metal) geomancing Recover Ore ability, you may use telekinesis to Bludgeon another target creature or object with the metal ore recovered…",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/beam-propulsion-dual-sphere",
+  "name": "Beam Propulsion",
+  "kind": "feat",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis-Sphere-Feats#beam-propulsion-dual-sphere",
+  "options": [],
+  "summary": "By amplifying and focusing the tiny pressure exerted by light with your powers of telekinesis, you can move a target with the force of light alone.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/enhancing-telekinesis-dual-sphere",
+  "name": "Enhancing Telekinesis",
+  "kind": "feat",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis-Sphere-Feats#enhancing-telekinesis-dual-sphere",
+  "options": [],
+  "summary": "When you lift an object with your telekinesis, as part of the same action you may enhance it with one enhancement you possess.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/extradimensional-assembly",
+  "name": "Extradimensional Assembly",
+  "kind": "feat",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis-Sphere-Feats#extradimensional-assembly",
+  "options": [],
+  "summary": "When you use your Whirlwind Assembly talent you may access and swap items in and out of your extradimensional storage freely, without the need to use a second…",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/floating-panoply",
+  "name": "Floating Panoply",
+  "kind": "feat",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis-Sphere-Feats#floating-panoply",
+  "options": [],
+  "summary": "When you use the Enhancing Telekinesis feat, you may spend a spell point to enhance every item you lift with Divided Mind, following the restrictions of Mass…",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/forceful-creation-dual-sphere",
+  "name": "Forceful Creation",
+  "kind": "feat",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis-Sphere-Feats#forceful-creation-dual-sphere",
+  "options": [],
+  "summary": "When you create an object, you may initiate and maintain the Sustained Force or Bludgeon telekinesis abilities as part of creating the object, so long as the…",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/forceful-hand-dual-sphere",
+  "name": "Forceful Hand",
+  "kind": "feat",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis-Sphere-Feats#forceful-hand-dual-sphere",
+  "options": [],
+  "summary": "You gain a (succor) talent that lets you sacrifice an aegis to use a telekinetic effect to defend the creature that bore the aegis.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/kinetic-creation-dual-sphere",
+  "name": "Kinetic Creation",
+  "kind": "feat",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis-Sphere-Feats#kinetic-creation-dual-sphere",
+  "options": [],
+  "summary": "You can create items out of telekinetic force instead of matter.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/mind-against-body",
+  "name": "Mind Against Body",
+  "kind": "feat",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis-Sphere-Feats#mind-against-body",
+  "options": [],
+  "summary": "You may substitute 10 + your Telekinesis sphere caster level + your casting ability modifier for your CMD when you are defending against a combat maneuver.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/piecemeal-animation-dual-sphere",
+  "name": "Piecemeal Animation",
+  "kind": "feat",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis-Sphere-Feats#piecemeal-animation-dual-sphere",
+  "options": [],
+  "summary": "When you reanimate a dead body, it does not need to be intact.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/poltergeists-malice-dual-sphere",
+  "name": "Poltergeist’s Malice",
+  "kind": "feat",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis-Sphere-Feats#poltergeists-malice-dual-sphere",
+  "options": [],
+  "summary": "You gain a bonus on CMB checks equal to your Poltergeist penalty when making Telekinetic Maneuver attempts against creatures suffering from your Poltergeist…",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/propulsive-creation-dual-sphere",
+  "name": "Propulsive Creation",
+  "kind": "feat",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis-Sphere-Feats#propulsive-creation-dual-sphere",
+  "options": [],
+  "summary": "You may spend a spell point to cause an object, gas, or liquid you alter or create to either possess a powerful attractive force or to violently repel nearby…",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/pushpull-mastery-drawback",
+  "name": "Push/Pull Mastery",
+  "kind": "feat",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Drawback"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis-Sphere-Feats#pushpull-mastery-drawback",
+  "options": [],
+  "summary": "You may use telekinesis to move objects both directly towards you and directly away from you.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/skillful-force",
+  "name": "Skillful Force",
+  "kind": "feat",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis-Sphere-Feats#skillful-force",
+  "options": [],
+  "summary": "When using your telekinesis to perform skill checks as described in Finesse or Steal, you do not suffer the normal -5 skill check penalty.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/tactile-illusion-dual-sphere",
+  "name": "Tactile Illusion",
+  "kind": "feat",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis-Sphere-Feats#tactile-illusion-dual-sphere",
+  "options": [],
+  "summary": "By weaving your illusions together with a hint of telekinetic force you can allow them to exert force more appropriate to their apparent nature.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/aggressive-mind-limb-combat-protokinesis",
+  "name": "Aggressive Mind Limb",
+  "kind": "feat",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Protokinesis Feats",
+  "tags": [
+   "combat",
+   "Protokinesis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#aggressive-mind-limb-combat-protokinesis",
+  "options": [],
+  "summary": "Prerequisites: Telekinesis sphere, Mind Limb, base attack bonus +5.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/counterweight-protokinesis",
+  "name": "Counterweight",
+  "kind": "feat",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Protokinesis Feats",
+  "tags": [
+   "Protokinesis"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Protokinesis Feats",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#counterweight-protokinesis",
+  "options": [],
+  "summary": "By applying your telekinetic powers to your own body you can stand on surfaces that could not normally support your weight, allowing you to balance on a single…",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/equal-and-opposite-combat-protokinesis",
+  "name": "Equal and Opposite",
+  "kind": "feat",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Protokinesis Feats",
+  "tags": [
+   "combat",
+   "Protokinesis"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Protokinesis Feats",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#equal-and-opposite-combat-protokinesis",
+  "options": [],
+  "summary": "When an enemy performs a combat maneuver against you, you may spend an immediate action to roll your own bull rush check opposing your opponent’s, using your…",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/force-shield-protokinesis",
+  "name": "Force Shield",
+  "kind": "feat",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Protokinesis Feats",
+  "tags": [
+   "Protokinesis"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Protokinesis Feats",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#force-shield-protokinesis",
+  "options": [],
+  "summary": "By forming a thin field of telekinetic force with your hand as a swift action you can gain a +2 shield bonus to your armor class, +1 per 5 caster levels in…",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/force-shield-improved-combat-protokinesis",
+  "name": "Force Shield, Improved",
+  "kind": "feat",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Protokinesis Feats",
+  "tags": [
+   "Combat",
+   "Protokinesis"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Protokinesis Feats",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#force-shield-improved-combat-protokinesis",
+  "options": [],
+  "summary": "The shield bonus to armor class provided by your force shield increases to +3, +1 per 5 caster levels, and while benefiting from it you count as wielding a…",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/gravitic-anomaly-protokinesis",
+  "name": "Gravitic Anomaly",
+  "kind": "feat",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Protokinesis Feats",
+  "tags": [
+   "Protokinesis"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Protokinesis Feats",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#gravitic-anomaly-protokinesis",
+  "options": [],
+  "summary": "Due to your control over your personal gravity, you can move on walls and ceilings and other surfaces as if they were the ground.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/kinetic-drift-protokinesis",
+  "name": "Kinetic Drift",
+  "kind": "feat",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Protokinesis Feats",
+  "tags": [
+   "Protokinesis"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Protokinesis Feats",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#kinetic-drift-protokinesis",
+  "options": [],
+  "summary": "You can float above the ground instead of walking.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/kinetic-juggler-protokinesis",
+  "name": "Kinetic Juggler",
+  "kind": "feat",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Protokinesis Feats",
+  "tags": [
+   "Protokinesis"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Protokinesis Feats",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#kinetic-juggler-protokinesis",
+  "options": [],
+  "summary": "Prerequisites: Telekinesis sphere, base attack bonus +1.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/mind-limb-protokinesis",
+  "name": "Mind Limb",
+  "kind": "feat",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Protokinesis Feats",
+  "tags": [
+   "Protokinesis"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Protokinesis Feats",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#mind-limb-protokinesis",
+  "options": [],
+  "summary": "As a swift action you can use it to draw a sheathed or hidden weapon, ready a shield, retrieve a stored item, load a crossbow, open a door, pick up an…",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/poltergeists-fingers-protokinesis",
+  "name": "Poltergeist’s Fingers",
+  "kind": "feat",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Protokinesis Feats",
+  "tags": [
+   "Protokinesis"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Protokinesis Feats",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#poltergeists-fingers-protokinesis",
+  "options": [],
+  "summary": "You can use your telekinetic limb to perform steal combat maneuvers and make Sleight of Hand checks to hide an object, palm a weapon, or take something…",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/remote-jostle-combat-protokinesis",
+  "name": "Remote Jostle",
+  "kind": "feat",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Protokinesis Feats",
+  "tags": [
+   "Combat",
+   "Protokinesis"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Protokinesis Feats",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#remote-jostle-combat-protokinesis",
+  "options": [],
+  "summary": "As a swift action you may push a creature within close range (25 feet + 5 feet per 2 caster levels) off balance.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/telekinetic-exoskeleton-protokinesis",
+  "name": "Telekinetic Exoskeleton",
+  "kind": "feat",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Protokinesis Feats",
+  "tags": [
+   "Protokinesis"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Protokinesis Feats",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#telekinetic-exoskeleton-protokinesis",
+  "options": [],
+  "summary": "With your telekinesis you can supplement your physical skills.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/telekinetic-fist-combat-protokinesis",
+  "name": "Telekinetic Fist",
+  "kind": "feat",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Protokinesis Feats",
+  "tags": [
+   "Combat",
+   "Protokinesis"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Protokinesis Feats",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#telekinetic-fist-combat-protokinesis",
+  "options": [],
+  "summary": "Prerequisites: Telekinesis sphere, Improved Unarmed Strike, base attack bonus +5.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/telekinetic-trigger-protokinesis",
+  "name": "Telekinetic Trigger",
+  "kind": "feat",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Protokinesis Feats",
+  "tags": [
+   "Protokinesis"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Protokinesis Feats",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#telekinetic-trigger-protokinesis",
+  "options": [],
+  "summary": "You can activate any command word, spell trigger, or spell completion magical item held in your telekinetic limb.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/telekineticat-protokinesis",
+  "name": "Telekineticat",
+  "kind": "feat",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Protokinesis Feats",
+  "tags": [
+   "Protokinesis"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Protokinesis Feats",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#telekineticat-protokinesis",
+  "options": [],
+  "summary": "You gain a familiar, as the wizard arcane bond class feature.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/touchsense-protokinesis",
+  "name": "Touchsense",
+  "kind": "feat",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Protokinesis Feats",
+  "tags": [
+   "Protokinesis"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Protokinesis Feats",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis#touchsense-protokinesis",
+  "options": [],
+  "summary": "You can use your telekinesis to sense your surroundings, passively measuring vibrations in the ground.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/directional-control",
+  "name": "Directional Control",
+  "kind": "drawback",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis-Sphere-Drawbacks#directional-control",
+  "options": [],
+  "summary": "Choose either directly towards you or directly away from you.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/flight",
+  "name": "Flight",
+  "kind": "drawback",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis-Sphere-Drawbacks#flight",
+  "options": [],
+  "summary": "You can only use telekinesis to lift creatures.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/gravity",
+  "name": "Gravity",
+  "kind": "drawback",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis-Sphere-Drawbacks#gravity",
+  "options": [],
+  "summary": "You can only gain Telekinesis talents that affect gravity such as Gravity Shift, Gravity Ward, or Gravity Well, and must choose one such talent as the bonus…",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/limited-telekinesis",
+  "name": "Limited Telekinesis",
+  "kind": "drawback",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis-Sphere-Drawbacks#limited-telekinesis",
+  "options": [],
+  "summary": "You may only use your telekinesis on one type of material (water, metal, stone, etc.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/orbit",
+  "name": "Orbit",
+  "kind": "drawback",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis-Sphere-Drawbacks#orbit",
+  "options": [],
+  "summary": "You must choose Orbit as the bonus talent gained from this drawback.",
+  "file": "telekinesis.json",
+  "approved": false
+ },
+ {
+  "id": "telekinesis/passive-telekinesis",
+  "name": "Passive Telekinesis",
+  "kind": "drawback",
+  "sphere": "Telekinesis",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Telekinesis/Telekinesis-Sphere-Drawbacks#passive-telekinesis",
+  "options": [],
+  "summary": "You must select Telekinetic Tools as the bonus talent gained from this drawback.",
+  "file": "telekinesis.json",
   "approved": false
  },
  {
