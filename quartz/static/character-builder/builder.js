@@ -489,7 +489,7 @@ function openCompendiumSearch(kind, ctx = {}) {
     const data = await loadCompendium(f.file, { entries: [] })
     const full = data.entries.find((x) => (f.ref ? x.name === f.ref : x.id === f.id))
     if (P.onPick) P.onPick(f, full, ctx)
-    else addFeature(kind, { name: f.name, desc: mdToText(full?.md ?? f.summary), ref: f.id })
+    else addFeature(kind, { name: f.name, desc: mdToText(full?.md ?? f.summary), ref: f.id, changes: HOOKS.featChanges?.(f.name) ?? [] })
     dlg.done()
   }
   const loadTexts = async () => {
@@ -507,7 +507,9 @@ function openCompendiumSearch(kind, ctx = {}) {
   const raceMatch = (f) => !P.byRace || !onlyRace.checked || f.race === "Any"
     || f.race.toLowerCase() === raceName.toLowerCase()
   // a scoped picker (one sphere's talents) has already narrowed its list
-  const inSystem = (f) => P.scoped || (state.spheresModule || isPf(f))
+  // (the Monster Creator lists mythic feats only when mythic is on)
+  const mythicOk = (f) => MODE !== "monster" || state.mythicEnabled || !(f.types ?? []).includes("Mythic")
+  const inSystem = (f) => mythicOk(f) && (P.scoped || (state.spheresModule || isPf(f)))
     && (sys.value === "all" || f.system === sys.value || (sys.value === "spheres" && !isPf(f)))
   // the type / category list follows the other filters (a category picked earlier stays if it still has entries)
   const fillCategories = () => {

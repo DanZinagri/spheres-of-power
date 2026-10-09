@@ -76,6 +76,21 @@ function featChanges(name) {
   return []
 }
 
+// mythic feats' numbers (the rest work at the table: roll twice, spend mythic power): Toughness's hit
+// points twice, Dodge +1, the skill-pair feats +2 more; Mythic Improved Initiative (+MR) and Mythic
+// Weapon Finesse (Dex to damage) are worked out in the calc and attacks
+function mythicFeatChanges(name) {
+  const ch = (formula, target, type = "untyped") => ({ formula, target, type, operator: "add" })
+  const base = name.replace(/^Mythic\s+/, "").replace(/\s*\(.*\)$/, "").trim()
+  if (base === "Toughness") return [ch("max(3, @attributes.hd.total)", "mhp")]
+  if (base === "Dodge") return [ch("1", "ac", "dodge")]
+  if (SKILL_PAIR_FEATS[base]) return SKILL_PAIR_FEATS[base].map((k) => ch("2", `skill.${k}`))
+  return []
+}
+const hasFeat = (s, name) => s.features.some((f) => f.kind === "feat" && f.name.replace(/\s*\(.*\)$/, "") === name)
+// a feat added on the Feats & Features tab gets its numbers too
+HOOKS.featChanges = (name) => (/^Mythic /.test(name) ? mythicFeatChanges(name) : featChanges(name))
+
 const crText = (cr) => `CR ${cr}`
 const xpOf = (cr) => CR_XP[String(cr)] ?? 0
 const sizeName = (k) => SIZES[k]?.[0] ?? "Medium"
@@ -180,12 +195,20 @@ async function loadMonster(entry) {
   }
   // feats (names; the compendium's text when it has them)
   const featIndex = await loadCompendium("feats-index.json", [])
-  for (const f of mon.feats) {
-    const base = f.replace(/\s*\(.*\)$/, "").replace(/[BMR]$/, "").trim()
-    const e = featIndex.find((x) => isPf(x) && x.name.replace(/\s*\(.*\)$/, "").toLowerCase() === base.toLowerCase())
-    const name = f.replace(/[BMR]$/, "").trim()
-    // "Improved InitiativeM": the feat's mythic version (Mythic Adventures)
-    s.features.push(newFeature("feat", { name, ref: e?.id, desc: e?.summary ?? "", changes: featChanges(name), mythicFeat: /M$/.test(f.trim()) }))
+  const featOf = (name) => featIndex.find((x) => isPf(x) && x.name.replace(/\s*\(.*\)$/, "").toLowerCase() === name.replace(/\s*\(.*\)$/, "").toLowerCase())
+  for (const raw of mon.feats) {
+    // stat block markers: B (bonus feat), M (mythic version too), R (racial)
+    const f = raw.replace(/[;,]+$/, "").trim()
+    const mythic = /M$/.test(f)
+    const name = f.replace(/[BMRU]+$/, "").trim()
+    const e = featOf(name)
+    s.features.push(newFeature("feat", { name, ref: e?.id, desc: e?.summary ?? "", changes: featChanges(name) }))
+    // the feat's mythic version (Mythic Adventures) as its own feat, with what it adds
+    if (mythic) {
+      const mname = `Mythic ${name}`
+      const me = featOf(mname)
+      s.features.push(newFeature("feat", { name: mname, ref: me?.id, desc: me?.summary ?? "", changes: mythicFeatChanges(mname) }))
+    }
   }
   // the stat block's own text: special abilities, DR / SR / resistances and so on stay with the monster
   for (const a of mon.specialAbilities) s.features.push(newFeature("misc", { name: `${a.name} (${a.kind})`, desc: a.text, monster: true }))
@@ -327,7 +350,7 @@ function attackBonus(a, c) {
   return c.bab + abl + c.size + num(a.enh) + (a.natural && !a.primary ? -5 : 0) + c.attackMod[a.range === "ranged" ? "ranged" : "melee"]
 }
 function damageBonus(a, c) {
-  const str = c.abl.str.mod
+  const str = a.finesse && hasFeat(state, "Mythic Weapon Finesse") ? c.abl.dex.mod : c.abl.str.mod
   if (a.range === "ranged") return (a.thrown ? str : 0) + num(a.enh)
   // a lone natural attack adds 1.5 x Str; secondary natural attacks add 1/2 Str; two-handed weapons 1.5 x
   const mult = a.natural ? (!a.primary ? 0.5 : naturalCount() === 1 ? 1.5 : 1) : a.twoHanded ? 1.5 : 1
@@ -446,7 +469,7 @@ HOOKS.calc = (out, s, m) => {
   out.flat += natDelta
   out.mythic = ranks ? { mr: ranks, perRank, surge: SURGE[Math.min(10, Math.max(1, ranks))] } : null
   // Mythic Improved Initiative adds the mythic rank to initiative
-  if (ranks && s.features.some((f) => f.mythicFeat && /^Improved Initiative/.test(f.name))) out.init += ranks
+  if (ranks && hasFeat(s, "Mythic Improved Initiative")) out.init += ranks
   out.spellPool = spellPool(s, out)
 }
 // ---------- mythic (Mythic Adventures) ----------
