@@ -86,6 +86,8 @@ function blankState() {
     backgroundSkills: false,
     fractionalBonuses: false,
     tradeTraditions: false,
+    // full speed in medium / heavy armor (Slow and Steady, Armor Training): Foundry's change flags
+    armorFullSpeed: { medium: false, heavy: false },
     sphere: { casting: "", practitioner: "", operative: "", tradition: "" },
     spellcasting: { cls: -1, ability: "int", type: "prepared", progression: "high" },
     spells: [],
@@ -99,7 +101,7 @@ function blankState() {
 function normalize(s) {
   const base = blankState()
   const out = { ...base, ...s }
-  for (const k of ["details", "abilities", "race", "sphere", "spellcasting", "currency", "subSkills", "skillAbility"]) out[k] = { ...base[k], ...(s[k] || {}) }
+  for (const k of ["details", "abilities", "race", "sphere", "spellcasting", "currency", "subSkills", "skillAbility", "armorFullSpeed"]) out[k] = { ...base[k], ...(s[k] || {}) }
   out.race.mods = { ...base.race.mods, ...(s.race?.mods || {}) }
   out.classes = (s.classes?.length ? s.classes : base.classes).map((c, i) => ({ ...blankClass(i === 0), ...c }))
   for (const k of ["features", "talents", "buffs", "spells", "gear"]) out[k] = Array.isArray(s[k]) ? s[k] : []
@@ -203,7 +205,12 @@ function calcCore(m) {
   const init = abl.dex.mod + m("init")
   const baseSpeed = num(s.race.speed) + m("landSpeed") + m("allSpeeds")
     + s.gear.reduce((a, g) => a + (g.equipped && (g.kind === "armor" || g.kind === "shield") ? modSpeed(g) : 0), 0)
-  const speed = enc.slow ? baseSpeed - 5 * Math.floor(baseSpeed / 15) : baseSpeed // 30 -> 20, 20 -> 15
+  // the heaviest armor worn, and whether it slows you (unless you have full speed in it)
+  const worn = s.gear.filter((g) => g.equipped && g.kind === "armor").map((g) => g.armorType)
+  const armorWeight = worn.includes("heavyArmor") ? "heavy" : worn.includes("mediumArmor") ? "medium" : ""
+  const armorSlow = !!armorWeight && !s.armorFullSpeed?.[armorWeight]
+  const slowedBy = [armorSlow ? `${armorWeight} armor` : "", enc.slow ? `${enc.load} load` : ""].filter(Boolean)
+  const speed = slowedBy.length ? baseSpeed - 5 * Math.floor(baseSpeed / 15) : baseSpeed // 30 -> 20, 20 -> 15
   const attackMod = { melee: m("attack") + m("wattack") + m("mattack"), ranged: m("attack") + m("wattack") + m("rattack") }
   const damageMod = { melee: m("damage") + m("wdamage") + m("mwdamage") + m("mdamage"), ranged: m("damage") + m("wdamage") + m("rwdamage") + m("rdamage") }
   const skillExtra = (k, a, rank) => m("skills") + m(`${a}Skills`) + m(`skill.${k}`) + (rank ? 0 : m("unskills"))
@@ -240,7 +247,7 @@ function calcCore(m) {
   const spheres = { cl, msb, msd: 11 + msb + sm("msd"), concentration: msb + castMod + sm("sphereConcentration"), talents: {} }
   for (const t of s.talents) if (t.sphere && !t.exclude) spheres.talents[t.sphere] = (spheres.talents[t.sphere] ?? 0) + 1
   const pointsSpent = ABL.reduce((a, k) => a + (POINT_COST[num(s.abilities[k])] ?? NaN), 0)
-  return { abl, hd, bab, saves, saveTotals, hp, classHp, enc, ac, touch, flat, cmb, cmd, init, speed, attackMod, damageMod, skillExtra, acp, asf, classSkills, skillBudget, bonusSkill, ranksUsed, bgUsed, bgBudget, featSlots, featsTaken, cl, spheres, pointsSpent, size }
+  return { abl, hd, bab, saves, saveTotals, hp, classHp, enc, slowedBy, ac, touch, flat, cmb, cmd, init, speed, attackMod, damageMod, skillExtra, acp, asf, classSkills, skillBudget, bonusSkill, ranksUsed, bgUsed, bgBudget, featSlots, featsTaken, cl, spheres, pointsSpent, size }
 }
 
 function classHpFor(c, i) {
@@ -2410,7 +2417,15 @@ function carryCard() {
         (e.slow ? ` (max Dex +${e.maxDex}, check penalty −${e.acp}, slower speed)` : "")),
     ),
     h("p", { class: "note", style: "margin:.4rem 0 0" },
-      `From Strength ${Math.floor(c.abl.str.total + (c.changeTotals.carryStr ?? 0))} and ${SIZES[state.race.size]?.[0] ?? "Medium"} size; 50 coins weigh a pound. Small characters' weapons and armor weigh half.`))
+      `From Strength ${Math.floor(c.abl.str.total + (c.changeTotals.carryStr ?? 0))} and ${SIZES[state.race.size]?.[0] ?? "Medium"} size; 50 coins weigh a pound. Small characters' weapons and armor weigh half.`),
+    h("dl", { class: "kv", style: "margin-top:.6rem" },
+      h("dt", {}, "Speed"), h("dd", { class: c.slowedBy.length ? "warn" : "" },
+        `${c.speed} ft.${c.slowedBy.length ? ` (slowed by ${c.slowedBy.join(" and ")})` : ""}`)),
+    h("div", { class: "row", style: "gap:1rem;margin-top:.3rem" },
+      checkbox("armorFullSpeed.medium", "Full speed in medium armor"),
+      checkbox("armorFullSpeed.heavy", "Full speed in heavy armor")),
+    h("p", { class: "note", style: "margin:.2rem 0 0" },
+      "For dwarves (Slow and Steady) or a fighter's Armor Training. Exported as Foundry's \"Medium / Heavy armor full speed\" options."))
 }
 // an item can be left behind (on the mount, at the inn): it then doesn't count toward the load
 function carriedBox(p) {
@@ -2552,6 +2567,14 @@ function buildActor() {
     if (num(s.race.bonusFeats)) changes.push({ _id: randomId(8).toLowerCase(), formula: String(num(s.race.bonusFeats)), target: "bonusFeats", type: "untyped" })
     if (num(s.race.bonusSkillPerLevel)) changes.push({ _id: randomId(8).toLowerCase(), formula: `${num(s.race.bonusSkillPerLevel)} * @attributes.hd.total`, target: "bonusSkillRanks", type: "untyped" })
     items.push(item("race", s.race.name, { size: s.race.size, speeds: { land: num(s.race.speed) }, changes }))
+  }
+  if (s.armorFullSpeed?.medium || s.armorFullSpeed?.heavy) {
+    const which = ["medium", "heavy"].filter((k) => s.armorFullSpeed[k])
+    items.push(item("feat", `Full speed in ${which.join(" and ")} armor`, {
+      subType: "misc",
+      description: { value: toHtml(`Moves at full speed in ${which.join(" and ")} armor (set in the character builder).`) },
+      changeFlags: { mediumArmorFullSpeed: !!s.armorFullSpeed.medium, heavyArmorFullSpeed: !!s.armorFullSpeed.heavy },
+    }))
   }
 
   const tags = {}

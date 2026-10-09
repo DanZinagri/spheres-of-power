@@ -195,8 +195,8 @@ async function buildSheetPdf() {
   ry = bar(region.x, ry, region.w, "Combat") - 4
   const sw = (region.w - 2 * 6) / 3
   const statRows = [
-    [["Hit points", c.hp], ["Armor class", c.ac], ["Initiative", signed(c.init)]],
-    [["Touch", c.touch], ["Flat-footed", c.flat], ["Base attack", signed(c.bab)]],
+    [["Hit points", c.hp], ["Base attack", signed(c.bab)], ["Initiative", signed(c.init)]],
+    [["Armor class", c.ac], ["Touch", c.touch], ["Flat-footed", c.flat]],
     [["CMB", signed(c.cmb)], ["CMD", c.cmd], ["Speed", `${c.speed} ft`]],
   ]
   for (const r of statRows) {
