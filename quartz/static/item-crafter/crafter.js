@@ -131,6 +131,53 @@ const entryUrl = (e) => `../../${e.url}`
 const datalist = (id, list) => `<datalist id="${id}">${list.map((e) => `<option value="${esc(e.name)}"></option>`).join("")}</datalist>`
 const cmpLink = (e) => (e ? `<a class="cmp-link" href="${esc(entryUrl(e))}" target="_blank" rel="noopener" title="${esc(e.summary || e.name)}">rules ↗</a>` : "")
 
+// full rules text: a sphere's file (dark.json, ...) or feats.json, fetched the first time an
+// effect needs it; the effect rerenders when it arrives
+const FULL = { files: {}, byId: {} }
+function fullText(e) {
+  const file = e.file
+  if (!file) return null
+  if (!FULL.files[file]) {
+    FULL.files[file] = fetch(`../compendium/${file}`).then((r) => (r.ok ? r.json() : { entries: [] })).catch(() => ({ entries: [] }))
+      .then((d) => {
+        for (const x of d.entries) FULL.byId[x.id] = x
+        renderAll()
+      })
+    return null
+  }
+  return FULL.byId[e.id] ?? null
+}
+// compendium markdown -> a little HTML: paragraphs, lists, bold / italics, links reduced to text
+function mdHtml(md) {
+  const inline = (s) => esc(s)
+    .replace(/\[\[(?:[^\]|]*\\?\|)?([^\]]*)\]\]/g, "$1")
+    .replace(/\[([^\]]*)\]\([^)]*\)/g, "$1")
+    .replace(/\*\*\*([^*]+)\*\*\*/g, "<b><i>$1</i></b>")
+    .replace(/\*\*([^*]+)\*\*/g, "<b>$1</b>")
+    .replace(/(^|[\s(])\*([^*\n]+)\*/g, "$1<i>$2</i>")
+    .replace(/\\\|/g, "|")
+  return String(md ?? "").trim().split(/\n\s*\n/).map((block) => {
+    const lines = block.split("\n")
+    if (lines.every((l) => /^\s*[-*] /.test(l))) return `<ul>${lines.map((l) => `<li>${inline(l.replace(/^\s*[-*] /, ""))}</li>`).join("")}</ul>`
+    if (/^#{1,6} /.test(lines[0])) return `<p><b>${inline(lines[0].replace(/^#+ /, ""))}</b>${lines.length > 1 ? "<br>" + lines.slice(1).map(inline).join("<br>") : ""}</p>`
+    if (/^---+$/.test(block.trim())) return ""
+    return `<p>${lines.map(inline).join("<br>")}</p>`
+  }).join("")
+}
+// which rules-text boxes are open (kept across rerenders while the page is open)
+const OPEN = new Set()
+document.addEventListener("toggle", (e) => {
+  const key = e.target.dataset?.open
+  if (key) e.target.open ? OPEN.add(key) : OPEN.delete(key)
+}, true)
+// a collapsible box with an entry's rules text (or a loading line until its file arrives)
+function rulesBox(key, title, e) {
+  const full = fullText(e)
+  const body = full ? mdHtml(full.md) + (full.options?.length ? full.options.map((o) => `<p><b>${esc(o.name)}</b></p>${mdHtml(o.md)}`).join("") : "")
+    : `<p class="muted">Loading the rules text…</p>`
+  return `<details class="cmp-text" data-open="${esc(key)}" ${OPEN.has(key) ? "open" : ""}><summary>${title}</summary>${body}</details>`
+}
+
 // ---------- state ----------
 
 const uid = () => Math.random().toString(36).slice(2, 10)
@@ -588,6 +635,8 @@ function renderTalentBody(c, P, i) {
       ${custom ? field("Base range", sel(`${P}.baseRange`, c.baseRange, RANGES.map((r, k) => [k, r]))) + field("Base duration", sel(`${P}.baseDur`, c.baseDur, Object.entries(DURATIONS))) : ""}
     </div>
     <p class="note">Base: range ${RANGES[bp.range].toLowerCase()}, duration ${DURATIONS[bp.dur].toLowerCase()}.</p>
+    ${COMPENDIUM.entries.filter((e) => e.sphere === c.sphere && e.kind === "sphere ability")
+      .map((e) => rulesBox(`base:${i}:${e.id}`, `${esc(c.sphere)}: ${esc(e.name)} (base ability rules)`, e)).join("")}
     <div class="grid">
       ${field("Range (±1 per step)", sel(`${P}.range`, c.range, RANGES.map((r, k) => [k, r]), false))}
       ${field(isStep(bp.dur) ? "Duration (±2 per step)" : "Duration (fixed)", sel(`${P}.dur`, c.dur, durOpts, false, isStep(bp.dur) ? "" : "disabled"))}
@@ -646,7 +695,11 @@ function renderRow(r, P, i, j, sphere) {
     <td>${k.access ? `<input type="checkbox" data-bind="${P}.has" ${r.has !== false ? "checked" : ""} aria-label="Crafter has it" />` : ""}</td>
     <td class="num" data-out="row-${i}-${j}"></td>
     <td>${btn("delRow", "✕", `data-i="${i}" data-j="${j}"`, "small ghost danger", "Remove")}</td>
-  </tr>`
+  </tr>${(() => {
+    // the talent's or feat's own rules text, under its row
+    const hit = rowMatch(r, sphere)?.entry
+    return hit ? `<tr class="cmp-text-row"><td colspan="7">${rulesBox(`row:${i}:${hit.id}`, `${esc(hit.name)}: rules text`, hit)}</td></tr>` : ""
+  })()}`
 }
 
 // a "talent" column suggests the base sphere's compendium talents and links a recognized one

@@ -155,3 +155,25 @@ table.mods td.num[data-out] {
   font-size: 0.8em;
   white-space: nowrap;
 }
+
+/* a compendium entry's rules text, collapsible: under a talent row, or the base sphere's abilities */
+details.cmp-text {
+  margin: 0.25rem 0;
+  font-size: 0.9em;
+}
+details.cmp-text > summary {
+  cursor: pointer;
+  color: var(--secondary);
+}
+details.cmp-text[open] {
+  padding: 0.25rem 0.6rem 0.5rem;
+  border-left: 2px solid var(--lightgray);
+}
+details.cmp-text p,
+details.cmp-text ul {
+  margin: 0.35rem 0;
+}
+tr.cmp-text-row > td {
+  padding-top: 0;
+  border-top: none;
+}
