@@ -188,6 +188,14 @@ Every drawback possessed that could be heard or seen (materials, somatic compone
 
 If the magic sphere effect is obvious (such as a summoned creature or a destructive blast), you also take a –4 penalty on the Bluff check, and even if your check is successful, observers still see the effect (though they fail to notice that you are responsible for it).
 
+#### Defiant Magic
+*Source: [Polished Dark](https://www.drivethrurpg.com/en/product/497811/diamond-polished-spheres-dark-sphere?affiliate_id=549120)*
+
+*Your magic bows to none.*
+**Prerequisites:** Casting class feature.
+
+**Benefit:** You add +2 to your MSB and MSD for the purposes of conflicting sphere abilities. When creating a sphere ability that will conflict with another effect (i.e. you are creating the effect and it will immediately conflict with another effect), you may spend +1 spell point to double this feat’s bonuses for the initial magic skill check made by the conflicting sphere effect (but not for future conflicts).
+
 #### Dimensional Tether
 
 **Prerequisite:** Destruction Sphere (energy tether) or Mana Sphere (hardened bond)
@@ -436,6 +444,25 @@ If you spend 2 additional spell points on the magic sphere effect, any target wh
 You cannot use this feat in the same dreamscape more than once every 24 hours.
 
 **Special:** If a creature possesses special abilities which would apply additional effects to their nightmare spell-like ability (such as the dreams of madness ability of Cthulhu and similar abilities possessed by other Great Old Ones), those effects also apply to any sphere effects created through this feat. If these abilities also expand the targeting possibilities of nightmare (such as dreams of madness targeting any creature with 1 or more ranks in a Craft or Perform skill), the creature with this feat automatically locates the dreamscapes of such creatures and may travel to them through normal means.
+
+#### Organization Obedience
+*Source: Diamond Spheres: Magical Organizations*
+
+**Prerequisites:** Knowledge (any) 3 ranks; membership in an organization.
+
+**Benefit:** Select a single organization you are a member of. You devote yourself to this organization and, once selected, this feat's benefits cannot be changed (nor can you be a member of any other organization for their organization benefits).
+
+Choose 2 skills associated with your organization's organization check. You gain a +2 bonus on skill checks made with the chosen skills, increasing to +4 at 10th level.
+
+If you have 8 or more Hit Dice, you gain the 5 Fame award from your organization.
+
+If you have 12 or more Hit Dice, you gain the 20 Fame award from your organization.
+
+If you have 16 or more Hit Dice, you gain the 50 Fame award from your organization.
+
+The awards granted by this feat are constant so long as you maintain membership with your organization. If you are ever removed from your organization, you lose access to the organization's awards. This feat does not grant an organization's rewards, nor does it grant Fame or PP with that organization.
+
+**Author's Note:** This feat is intended to serve as a more regimented means of access to a magical organization's awards without engaging with the organization rules. Just like the Deific Obedience feat (and similar), certain organization awards may be unsuitable for a game, subject to GM discretion (just as a deity's boons may be restricted or disallowed for being disruptive or undesirable).
 
 #### Otherworldly Mind
 

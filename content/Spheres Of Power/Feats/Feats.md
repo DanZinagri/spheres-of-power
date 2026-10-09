@@ -219,35 +219,3 @@ Theurge feats are a new category of feat designed for characters who utilize mul
 #### [[Wild Magic Feats]]
 
 Feats that modify [[Wild Magic|wild magic]] chance for yourself or others or manipulate the result of a wild magic event carry the (Wild Magic) descriptor. Many wild magic feats have improved effects depending on the number of wild magic feats you possess.
-
----
-
-### DRS Feats
-
-*Source: [Polished Dark](https://www.drivethrurpg.com/en/product/497811/diamond-polished-spheres-dark-sphere?affiliate_id=549120)*
-
-#### Defiant Magic
-
-*Your magic bows to none.*
-**Prerequisites:** Casting class feature.
-
-**Benefit:** You add +2 to your MSB and MSD for the purposes of conflicting sphere abilities. When creating a sphere ability that will conflict with another effect (i.e. you are creating the effect and it will immediately conflict with another effect), you may spend +1 spell point to double this feat’s bonuses for the initial magic skill check made by the conflicting sphere effect (but not for future conflicts).
-
-#### Organization Obedience
-*Source: Diamond Spheres: Magical Organizations*
-
-**Prerequisites:** Knowledge (any) 3 ranks; membership in an organization.
-
-**Benefit:** Select a single organization you are a member of. You devote yourself to this organization and, once selected, this feat's benefits cannot be changed (nor can you be a member of any other organization for their organization benefits).
-
-Choose 2 skills associated with your organization's organization check. You gain a +2 bonus on skill checks made with the chosen skills, increasing to +4 at 10th level.
-
-If you have 8 or more Hit Dice, you gain the 5 Fame award from your organization.
-
-If you have 12 or more Hit Dice, you gain the 20 Fame award from your organization.
-
-If you have 16 or more Hit Dice, you gain the 50 Fame award from your organization.
-
-The awards granted by this feat are constant so long as you maintain membership with your organization. If you are ever removed from your organization, you lose access to the organization's awards. This feat does not grant an organization's rewards, nor does it grant Fame or PP with that organization.
-
-**Author's Note:** This feat is intended to serve as a more regimented means of access to a magical organization's awards without engaging with the organization rules. Just like the Deific Obedience feat (and similar), certain organization awards may be unsuitable for a game, subject to GM discretion (just as a deity's boons may be restricted or disallowed for being disruptive or undesirable).

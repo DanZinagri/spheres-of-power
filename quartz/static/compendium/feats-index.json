@@ -12655,34 +12655,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/defiant-magic",
-  "name": "Defiant Magic",
-  "system": "Spheres of Power",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Casting class feature.",
-  "source": "Polished Dark",
-  "url": "Spheres-Of-Power/Feats/Feats#defiant-magic",
-  "summary": "You add +2 to your MSB and MSD for the purposes of conflicting sphere abilities.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/organization-obedience",
-  "name": "Organization Obedience",
-  "system": "Spheres of Power",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Knowledge (any) 3 ranks; membership in an organization.",
-  "source": "Polished Dark",
-  "url": "Spheres-Of-Power/Feats/Feats#organization-obedience",
-  "summary": "Select a single organization you are a member of.",
-  "file": "feats.json"
- },
- {
   "id": "feat/advanced-magic-training",
   "name": "Advanced Magic Training",
   "system": "Spheres of Power",
@@ -12965,6 +12937,20 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/defiant-magic",
+  "name": "Defiant Magic",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Casting class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Feats/General-Feats#defiant-magic",
+  "summary": "You add +2 to your MSB and MSD for the purposes of conflicting sphere abilities.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/dreamwalking-initiate",
   "name": "Dreamwalking Initiate",
   "system": "Spheres of Power",
@@ -12973,7 +12959,7 @@
   ],
   "spheres": [],
   "prerequisites": "Dreamspace.",
-  "source": "Ultimate Spheres of Power",
+  "source": "Polished Dark",
   "url": "Spheres-Of-Power/Feats/General-Feats#dreamwalking-initiate",
   "summary": "You gain the acolyte dreaming hedgewitch secret.",
   "file": "feats.json"
@@ -12987,7 +12973,7 @@
   ],
   "spheres": [],
   "prerequisites": "Outsider with the native subtype, alignment matching either an extraplanar ancestor or a patron.",
-  "source": "Ultimate Spheres of Power",
+  "source": "Polished Dark",
   "url": "Spheres-Of-Power/Feats/General-Feats#embraced-by-kindred",
   "summary": "You lose the native subtype, no longer aging or requiring food but becoming incapable of being resurrected by normal means.",
   "file": "feats.json"
@@ -13288,6 +13274,20 @@
   "source": "Diamond Spheres: Erudition & Esoterica",
   "url": "Spheres-Of-Power/Feats/General-Feats#oneiric-assault",
   "summary": "When you are in the dreamscape of another creature, you may target that creature’s real body with a single magic sphere effect as if you were adjacent to the…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/organization-obedience",
+  "name": "Organization Obedience",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Knowledge (any) 3 ranks; membership in an organization.",
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "url": "Spheres-Of-Power/Feats/General-Feats#organization-obedience",
+  "summary": "Select a single organization you are a member of.",
   "file": "feats.json"
  },
  {

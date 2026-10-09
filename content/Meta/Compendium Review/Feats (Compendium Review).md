@@ -26,53 +26,53 @@ What the feat extractor takes from the site (1265 Spheres feats; approved), plus
 | Critical | — | 28 |
 | Squadron | 28 | — |
 | Admixture | 24 | — |
-| Aristeia | 23 | — |
 | Conduit | — | 23 |
+| Aristeia | 23 | — |
 | Grit | — | 21 |
 | Counterspell | 20 | — |
 | Item Mastery | — | 19 |
-| Weapon Mastery | — | 17 |
 | Faction | — | 17 |
 | Gizmo | 17 | — |
+| Weapon Mastery | — | 17 |
 | Protokinesis | 16 | — |
 | Stare | — | 16 |
-| Performance | — | 15 |
 | Companion | 15 | — |
+| Performance | — | 15 |
 | Meditation | — | 14 |
 | Shield Mastery | — | 14 |
-| Wild Magic | 12 | — |
-| Shield Style | — | 12 |
-| Surreal | 12 | — |
 | Defiler | 12 | — |
 | Necrosis | 12 | — |
+| Surreal | 12 | — |
+| Shield Style | — | 12 |
+| Wild Magic | 12 | — |
 | Proxy | 12 | — |
-| Panache | — | 11 |
 | Channeling | 11 | — |
 | Purring | 11 | — |
+| Panache | — | 11 |
 | Achievement | — | 11 |
 | Armor Mastery | — | 11 |
 | Rune | 10 | — |
-| Armor Style | — | 9 |
-| Alignment | — | 9 |
 | Origin | — | 9 |
+| Alignment | — | 9 |
+| Armor Style | — | 9 |
 | Esoteric | — | 9 |
 | Familiar | — | 8 |
 | Blood Hex | — | 8 |
 | Damnation | 3 | 4 |
 | Theurge | 7 | — |
 | Combination | — | 7 |
-| Chance | 6 | — |
-| Trick | — | 6 |
-| Betrayal | — | 6 |
-| Plague | 6 | — |
 | Anathema | 6 | — |
-| Targeting | — | 4 |
+| Chance | 6 | — |
+| Betrayal | — | 6 |
+| Trick | — | 6 |
+| Plague | 6 | — |
 | Gathlain Court Title | — | 4 |
+| Targeting | — | 4 |
 | Hero Point | — | 3 |
 | Words of Power | — | 3 |
+| Called Shot | — | 2 |
 | Coven | — | 2 |
 | Luck | 2 | — |
-| Called Shot | — | 2 |
 
 ## Spheres of Power (958)
 
@@ -728,14 +728,7 @@ What the feat extractor takes from the site (1265 Spheres feats; approved), plus
 | [[Extra-Feats#extra-unseen-augmentation\|Extra Unseen Augmentation]] | General | — | — | Unseen forces class feature. |
 | [[Extra-Feats#extra-wraith-haunt\|Extra Wraith Haunt]] | General | — | — | Wraith haunt class feature. |
 
-### Feats: DRS Feats (2)
-
-| Feat | Types | Spheres | Other | Prerequisites |
-| --- | --- | --- | --- | --- |
-| [[Feats#defiant-magic\|Defiant Magic]] | General | — | — | Casting class feature. |
-| [[Feats#organization-obedience\|Organization Obedience]] | General | — | — | Knowledge (any) 3 ranks; membership in an organization. |
-
-### General Feats (74)
+### General Feats (76)
 
 | Feat | Types | Spheres | Other | Prerequisites |
 | --- | --- | --- | --- | --- |
@@ -759,6 +752,7 @@ What the feat extractor takes from the site (1265 Spheres feats; approved), plus
 | [[General-Feats#contingency-spread\|Contingency, Spread]] | General | — | — | Contingency, any [mass] talent |
 | [[General-Feats#contingency-tampering\|Contingency Tampering]] | General | — | — | Enhanced Contingency (see [[Enhancement]] feats). |
 | [[General-Feats#cunning-caster\|Cunning Caster]] | General | — | — | Deceitful, caster level 1st. |
+| [[General-Feats#defiant-magic\|Defiant Magic]] | General | — | — | Casting class feature. |
 | [[General-Feats#dreamwalking-initiate\|Dreamwalking Initiate]] | General | — | — | Dreamspace. |
 | [[General-Feats#embraced-by-kindred\|Embraced By Kindred]] | General | — | — | Outsider with the native subtype, alignment matching either an extraplanar ancestor or a patron. |
 | [[General-Feats#expedited-incantation\|Expedited Incantation]] | General | — | — | 3 ranks in any 1 skill. |
@@ -782,6 +776,7 @@ What the feat extractor takes from the site (1265 Spheres feats; approved), plus
 | [[General-Feats#mage-of-spore-and-fungus\|Mage of Spore and Fungus]] | General | Nature | — | Nature sphere ((plant) package), Plant Mastery. |
 | [[General-Feats#metamagic-aficionado\|Metamagic Aficionado]] | General | — | — | Favored Metamagic (any three metamagic feats), caster level 15th. |
 | [[General-Feats#oneiric-assault\|Oneiric Assault]] | General | — | — | Dreamspace, caster level 10th. |
+| [[General-Feats#organization-obedience\|Organization Obedience]] | General | — | — | Knowledge (any) 3 ranks; membership in an organization. |
 | [[General-Feats#otherworldly-mind\|Otherworldly Mind]] | General | — | — | — |
 | [[General-Feats#pacified-strike\|Pacified Strike]] | General | — | — | Casting class feature, one talent from any sphere that has the strike descriptor, caster level 3rd |
 | [[General-Feats#primal-emblem\|Primal Emblem]] | General | — | — | Banner class feature. |
