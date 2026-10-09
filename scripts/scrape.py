@@ -2663,7 +2663,7 @@ COMPENDIUM = {
     },
     "Fate": {
         "system": "Spheres of Power",
-        "approved": False,
+        "approved": True,
         "pages": [
             # Consecration (with Serendipity) and Word (with Hallow)
             ("Fate", "Consecration", "sphere ability", 2, 4),
@@ -2678,6 +2678,24 @@ COMPENDIUM = {
         ],
         # the (arcana) / (motif) rules under Word's talent types
         "not_options": r"^Table|^Note|^Arcana$|^Motifs$|^Harrow Deck",
+    },
+    "Illusion": {
+        "system": "Spheres of Power",
+        "approved": False,
+        "pages": [
+            # the Illusion ability (with Illusionary Disguise) and Trick (with minor figments / glamers)
+            ("Illusion", "## Illusion", "sphere ability", 2, 4),
+            ("Illusion", "Trick", "sphere ability", 2, 4),
+            ("Illusion", "Illusion Talents", "talent", 4),
+            ("Illusion", "Sensory Talents", "talent", 4),
+            ("Illusion", "Advanced Illusion Talents", "advanced talent", 4),
+            ("Illusion Sphere Feats", "(page)", "feat", 4),
+            # the surreal feats printed on the Illusion page itself
+            ("Illusion", "Surreal Feats", "feat", 4),
+            ("Illusion Sphere Drawbacks", "(page)", "drawback", 4),
+        ],
+        # the (sensory) talent type note under Trick
+        "not_options": r"^Table|^Note|^Sensory$",
     },
     "Warleader": {
         "system": "Spheres of Might",

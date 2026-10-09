@@ -19528,7 +19528,7 @@
   ],
   "summary": "As a standard action, you may affect a 20-foot radius + 5 feet per 5 caster levels area centered on you with a consecration.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/word",
@@ -19547,7 +19547,7 @@
   ],
   "summary": "As a standard action, you may invoke a word of power, affecting a single creature or object within close range.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/bound-consecration",
@@ -19564,7 +19564,7 @@
   "options": [],
   "summary": "When using a consecration, you may choose to have the area remain in place rather than move with you.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/echoing-word-mass",
@@ -19583,7 +19583,7 @@
   "options": [],
   "summary": "When using a word, you may spend an additional spell point to affect an additional 1 target per 2 caster levels (minimum 1) at the same time.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/greater-serendipity",
@@ -19600,7 +19600,7 @@
   "options": [],
   "summary": "When you use your Serendipity consecration, in addition to bestowing a luck bonus upon your allies, all enemies within the area of effect also suffer a penalty…",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/instill-fate-instill",
@@ -19619,7 +19619,7 @@
   "options": [],
   "summary": "As a standard action you may touch a small container of liquid and instill a motif or word inside it, which functions as a potion or oil.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/lingering-fate",
@@ -19636,7 +19636,7 @@
   "options": [],
   "summary": "When you use a consecration or word ability that requires concentration, the ability continues to maintain itself for 2 rounds after you stop concentrating.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/pair-of-myths",
@@ -19653,7 +19653,7 @@
   "options": [],
   "summary": "By spending an extra spell point you can simultaneously apply two motifs you possess to a target.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/resounding-word-range",
@@ -19672,7 +19672,7 @@
   "options": [],
   "summary": "You may place words on targets within medium range.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/shrieking-strike-strike",
@@ -19691,7 +19691,7 @@
   "options": [],
   "summary": "You may deliver words via a melee touch attack.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/bind-wyrd-consecration",
@@ -19710,7 +19710,7 @@
   "options": [],
   "summary": "Choose confine or ward.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/consequences-consecration",
@@ -19729,7 +19729,7 @@
   "options": [],
   "summary": "This consecration can affect a target once per round, +1 time per 5 caster levels.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/divine-force-consecration",
@@ -19748,7 +19748,7 @@
   "options": [],
   "summary": "You may fill an area with the influence of an alignment type you are connected to (good, evil, lawful, or chaotic).",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/divine-pressure-consecration",
@@ -19767,7 +19767,7 @@
   "options": [],
   "summary": "You may spend a spell point to fill an area with an enduring presence of an alignment you possess (chaotic, evil, good, or lawful).",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/reveal-alignment-consecration-utility",
@@ -19788,7 +19788,7 @@
   "options": [],
   "summary": "You may spend a spell point to create a consecration that reveals the alignment of all creatures inside it.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/stricture-consecration",
@@ -19807,7 +19807,7 @@
   "options": [],
   "summary": "You may spend a spell point to create a consecration that dictates the actions of all creatures within its area of effect.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/tug-fate-consecration-curse",
@@ -19828,7 +19828,7 @@
   "options": [],
   "summary": "You may spend a spell point to create a consecration that lets you manipulate luck and fate.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/undo-harm-consecration",
@@ -19847,7 +19847,7 @@
   "options": [],
   "summary": "This consecration affects all creatures, but you may spend a spell point when you create this consecration to make it only affect your allies.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/cups-motif-arcana",
@@ -19867,7 +19867,7 @@
   "options": [],
   "summary": "When granted as a motif, the target gains a +2 bonus on Intelligence-, Wisdom-, and Charisma-based skill checks.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/pentacles-motif-arcana",
@@ -19887,7 +19887,7 @@
   "options": [],
   "summary": "When granted as a motif, the target gains a +1 bonus on one saving throw, chosen when granted as a motif.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/swords-motif-arcana",
@@ -19907,7 +19907,7 @@
   "options": [],
   "summary": "When granted as a motif, the target gains a +1 bonus on attack rolls.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/wands-motif-arcana",
@@ -19927,7 +19927,7 @@
   "options": [],
   "summary": "When granted as a motif, the target gains a +2 bonus on initiative checks.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/the-chariot-motif",
@@ -19946,7 +19946,7 @@
   "options": [],
   "summary": "You may grant a motif that ensures the target is always able to act.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/the-devil-motif",
@@ -19965,7 +19965,7 @@
   "options": [],
   "summary": "You may grant a motif that allows the target to recognize the greatest threat to their goals.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/the-emperor-motif",
@@ -19984,7 +19984,7 @@
   "options": [],
   "summary": "You may grant a motif that allows its bearer to better project their power.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/the-empress-motif",
@@ -20003,7 +20003,7 @@
   "options": [],
   "summary": "You may grant a motif that subtly improves the target’s ability to make their own fate.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/the-fool-motif",
@@ -20022,7 +20022,7 @@
   "options": [],
   "summary": "You may allow a target to surrender themselves to fate.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/the-hanged-man-motif",
@@ -20041,7 +20041,7 @@
   "options": [],
   "summary": "You may allow the target to benefit from their sacrifices.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/the-hermit-motif",
@@ -20060,7 +20060,7 @@
   "options": [],
   "summary": "You may improve a target’s ability to work alone.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/the-hierophant-motif",
@@ -20079,7 +20079,7 @@
   "options": [],
   "summary": "You may grant a motif that allows the target to subsume themselves in the group.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/judgment-motif",
@@ -20098,7 +20098,7 @@
   "options": [],
   "summary": "You may grant a motif that heightens the target’s discernment.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/justice-motif",
@@ -20117,7 +20117,7 @@
   "options": [],
   "summary": "You may grant a motif that enforces balance.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/the-king-motif",
@@ -20136,7 +20136,7 @@
   "options": [],
   "summary": "The target gains a +1 insight bonus on concentration checks.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/the-knight-motif",
@@ -20155,7 +20155,7 @@
   "options": [],
   "summary": "You emphasize the target’s drive and eagerness for action.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/the-lovers-motif",
@@ -20174,7 +20174,7 @@
   "options": [],
   "summary": "You may grant a motif that empowers a target when near its allies.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/the-magician-motif",
@@ -20193,7 +20193,7 @@
   "options": [],
   "summary": "You may grant a motif that helps the target make the most of their current circumstances.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/the-moon-motif",
@@ -20212,7 +20212,7 @@
   "options": [],
   "summary": "You may grant a motif that protects the target’s subconscious and allows them to project their mind onto attackers.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/the-page-motif",
@@ -20231,7 +20231,7 @@
   "options": [],
   "summary": "Any morale bonus on the target has its duration extended by 1 round, plus an additional round for every 10 caster levels.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/the-queen-motif",
@@ -20250,7 +20250,7 @@
   "options": [],
   "summary": "In addition, you reduce any damage you would take from the triggering attack by 1 for every 2 caster levels (minimum 1 reduced damage).",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/the-star-motif",
@@ -20269,7 +20269,7 @@
   "options": [],
   "summary": "You may grant a motif that gives guidance in difficult circumstances.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/strength-motif",
@@ -20288,7 +20288,7 @@
   "options": [],
   "summary": "You may grant a motif that enhances a target’s might and will.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/the-sun-motif",
@@ -20307,7 +20307,7 @@
   "options": [],
   "summary": "You may grant a motif that ensures a glorious dawn after the darkest night.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/temperance-motif",
@@ -20326,7 +20326,7 @@
   "options": [],
   "summary": "You may grant a motif that protects against the whims of luck.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/the-tower-motif",
@@ -20345,7 +20345,7 @@
   "options": [],
   "summary": "You may grant a motif that lets the target focus the vagaries of time on a creature or object.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/the-wheel-motif",
@@ -20364,7 +20364,7 @@
   "options": [],
   "summary": "You may grant a motif that empowers the target almost at random.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/the-world-motif-utility",
@@ -20385,7 +20385,7 @@
   "options": [],
   "summary": "You may grant a motif that enhances the target’s ability to succeed in all their endeavors whenever they commit their efforts.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/align-object-word",
@@ -20404,7 +20404,7 @@
   "options": [],
   "summary": "You may spend a spell point to apply this word to an object or weapon.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/axe-you-a-question-word",
@@ -20423,7 +20423,7 @@
   "options": [],
   "summary": "This damage is not modified by your Strength or any other modifiers you may possess which would otherwise apply to a damage roll.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/bargain-word",
@@ -20442,7 +20442,7 @@
   "options": [],
   "summary": "You may spend a spell point as an immediate action when the target is subject to an attack or effect that deals hit point damage, after attack rolls and saving…",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/bless-word",
@@ -20461,7 +20461,7 @@
   "options": [],
   "summary": "When you or one of your allies is making an attack roll, skill check, ability score check, or saving throw, you may spend a spell point as an immediate action…",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/borrow-luck-word",
@@ -20480,7 +20480,7 @@
   "options": [],
   "summary": "When a creature within range fails a saving throw, skill check, or ability check, or misses with an attack, you may spend a spell point as an immediate action…",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/borrow-trouble-word-curse",
@@ -20501,7 +20501,7 @@
   "options": [],
   "summary": "When a creature within range succeeds on a saving throw, skill check, or ability check, or hits with an attack, you may spend a spell point as an immediate…",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/classify-word-utility",
@@ -20522,7 +20522,7 @@
   "options": [],
   "summary": "You may spend a spell point to force a target creature to state their name, the kind of creature they are (typically their creature type, subtypes, or both),…",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/conjunction-word",
@@ -20541,7 +20541,7 @@
   "options": [],
   "summary": "When an ally within range fails a saving throw, you may spend a spell point as an immediate action to allow them to reroll it using your modifier.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/confine-word-curse",
@@ -20562,7 +20562,7 @@
   "options": [],
   "summary": "This effect lasts as long as you concentrate, but you may always spend a spell point as a free action to allow this word to continue for 1 round per caster…",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/curse-word-curse",
@@ -20583,7 +20583,7 @@
   "options": [],
   "summary": "When an enemy within range is making an attack roll, skill check, ability score check, or saving throw, you may spend a spell point as an immediate action to…",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/enmity-word-curse",
@@ -20604,7 +20604,7 @@
   "options": [],
   "summary": "You may spend a spell point as a standard action to place a word on a target debilitating them more severely the less similar their outlook on life is to yours.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/exorcism-word",
@@ -20623,7 +20623,7 @@
   "options": [],
   "summary": "As a standard action, you may spend a spell point to place this word on a target suffering from a mind-affecting, curse, or possession effect and attempt a…",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/freedom-word",
@@ -20642,7 +20642,7 @@
   "options": [],
   "summary": "You may spend a spell point to speak a word that frees the target from physical bondage.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/harm-word-curse",
@@ -20663,7 +20663,7 @@
   "options": [],
   "summary": "Whenever the target of this word suffers damage, they suffer an additional amount of untyped damage equal to 1/2 your caster level (minimum 1).",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/malice-word-curse",
@@ -20684,7 +20684,7 @@
   "options": [],
   "summary": "You may place this word on a creature, who then designates a victim within range that is entitled to a Will save to negate the effect.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/mercy-word-curse",
@@ -20705,7 +20705,7 @@
   "options": [],
   "summary": "You may spend a spell point to reduce the target’s ability to deal lethal damage.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/metaphysical-cloak-word",
@@ -20724,7 +20724,7 @@
   "options": [],
   "summary": "Choose an alignment within one step of your own on each axis.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/openclose-word-utility",
@@ -20745,7 +20745,7 @@
   "options": [],
   "summary": "You may spend a spell point to open a door or container, as if you were attempting a Disable Device check to unlock it or, if the opening is stuck and no lock…",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/pain-word-curse",
@@ -20766,7 +20766,7 @@
   "options": [],
   "summary": "You may spend a spell point to cause this target to suffer this damage each round for a total number of rounds equal to your caster level.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/perfect-word",
@@ -20785,7 +20785,7 @@
   "options": [],
   "summary": "You may spend a spell point to place a word on a creature that enhances its existing strengths.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/subvert-weapon-word-curse",
@@ -20806,7 +20806,7 @@
   "options": [],
   "summary": "You may spend a spell point to place a curse upon a weapon that causes it to turn against its wielder.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/truth-word-curse-utility",
@@ -20828,7 +20828,7 @@
   "options": [],
   "summary": "This effect lasts as long as you concentrate, but you may always spend a spell point to allow the effect to endure for 1 minute per caster level without…",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/villainy-word-curse",
@@ -20849,7 +20849,7 @@
   "options": [],
   "summary": "You may place this word on a creature marking them as a villain regardless of their actual role in fate’s story.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/atonement-word-utility",
@@ -20870,7 +20870,7 @@
   "options": [],
   "summary": "You may act as an intermediary on behalf of your alignment.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/cats-luck-consecration-word",
@@ -20890,7 +20890,7 @@
   "options": [],
   "summary": "You gain the following Fate sphere abilities which manipulate luck and rolled dice: - Felicity (consecration): While this consecration is in effect, the…",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/compel-possessor-curse",
@@ -20909,7 +20909,7 @@
   "options": [],
   "summary": "When you successfully remove an effect or possessor using the Exorcism word, you may spend 3 spell points and one hour to bind the spirit of the target’s…",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/consecrated-ground",
@@ -20926,7 +20926,7 @@
   "options": [],
   "summary": "When you use a consecration that remains in place using Bound Consecration, you may spend three spell points to allow the effect to continue for 2 hours per…",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/death-motif",
@@ -20945,7 +20945,7 @@
   "options": [],
   "summary": "You may grant a motif that allows a target to preserve and, ultimately, change the other motifs they bear.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/declare-fate-word-curse",
@@ -20966,7 +20966,7 @@
   "options": [],
   "summary": "You may spend two spell points to place a word on a creature to peer into its near future.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/elude-fate-word",
@@ -20985,7 +20985,7 @@
   "options": [],
   "summary": "You may spend three spell points to place a word on a creature that protects it from a single doom.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/entropic-aura-consecration-curse",
@@ -21006,7 +21006,7 @@
   "options": [],
   "summary": "You may spend a spell point to create a consecration that makes healing difficult.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/excise-triumph-word-curse",
@@ -21027,7 +21027,7 @@
   "options": [],
   "summary": "Prerequisites: Fate Sphere, caster level 5th Whenever the target would roll a d20, they roll a d16 instead.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/execration",
@@ -21044,7 +21044,7 @@
   "options": [],
   "summary": "When you spend a spell point to allow a word with the [curse] descriptor to continue without concentration, you may spend an additional 2 spell points to…",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/falsehood-word-curse-utility",
@@ -21066,7 +21066,7 @@
   "options": [],
   "summary": "In addition, you may force the creature to speak only lies; this word is only a [curse] effect if you do.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/flounder-word-curse",
@@ -21087,7 +21087,7 @@
   "options": [],
   "summary": "Whenever the target misses with an attack, that attack is automatically a critical fumble threat.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/geas-word-curse-utility",
@@ -21109,7 +21109,7 @@
   "options": [],
   "summary": "You may spend 2 spell points and 10 minutes to place a geas on a touched target with fewer Hit Dice than your caster level.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/get-a-word-in",
@@ -21126,7 +21126,7 @@
   "options": [],
   "summary": "Prerequisites: Fate Sphere You may use any [word] with a duration of at least 1 round per caster level as an immediate action rather than a standard action.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/greater-geas-utility",
@@ -21145,7 +21145,7 @@
   "options": [],
   "summary": "Targets of your geas no longer gain a saving throw against the effect, and you may target any creature, not only those with fewer Hit Dice than your caster…",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/heroism-word",
@@ -21164,7 +21164,7 @@
   "options": [],
   "summary": "You may spend a spell point to place a word on a target that marks them as a protagonist in fate’s story, granting them a temporary hero point that disappears…",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/the-high-priestess-motif",
@@ -21183,7 +21183,7 @@
   "options": [],
   "summary": "You may grant a motif that extends the benefits of other motifs affecting a target to their allies.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/mark-of-judgment-curse",
@@ -21202,7 +21202,7 @@
   "options": [],
   "summary": "If the target breaks the geas even once, it immediately suffers a permanent -8 penalty to all ability scores or another punishment of equal strength designated…",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/undying-obstinance-consecration",
@@ -21221,7 +21221,7 @@
   "options": [],
   "summary": "You may spend a spell point to create a consecration filled with positive energy that sustains the living beyond what their bodies can withstand.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/weave-the-fates",
@@ -21238,7 +21238,7 @@
   "options": [],
   "summary": "In addition, when you cast a motif and attach an (arcana), you may spend an additional spell point to attach up to three (arcana) to that motif, instead of…",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/weight-of-command-word",
@@ -21257,7 +21257,7 @@
   "options": [],
   "summary": "Prerequisites: Fate Sphere, caster level 10th You may spend a spell point to apply this word to a weapon.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/blessed-necromancy-dual-sphere",
@@ -21276,7 +21276,7 @@
   "options": [],
   "summary": "You may use your word abilities as ghost strikes (using your Death sphere caster level to determine range and number of targets but your Fate sphere caster…",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/consecrated-affinity-dual-sphere",
@@ -21295,7 +21295,7 @@
   "options": [],
   "summary": "As a free action that can be taken outside of your turn when you have a consecration active, you may create a manabond with any willing creature within the…",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/doublespeak-dual-sphere",
@@ -21314,7 +21314,7 @@
   "options": [],
   "summary": "When you use a charm, cloud, or word, you may spend 1 additional spell point to affect the target, targets, or creatures in the area with a different charm,…",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/ecumenicism",
@@ -21331,7 +21331,7 @@
   "options": [],
   "summary": "Whenever you use a word or consecration (or spell or ritual based on a word or consecration), you may choose an alignment within one step of your own.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/endless-possibilities-dual-sphere",
@@ -21350,7 +21350,7 @@
   "options": [],
   "summary": "Whenever you use a Life sphere ability on an ally, they receive a +1 luck bonus to all attack rolls, saving throws, skill checks and ability checks until the…",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/fated-summons-dual-sphere",
@@ -21369,7 +21369,7 @@
   "options": [],
   "summary": "Prerequisites: Conjuration Sphere, Fate Sphere Benefit: Whenever you summon a companion, you may spend one spell point to apply a word or motif to them as part…",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/lifebound-auspician",
@@ -21386,7 +21386,7 @@
   "options": [],
   "summary": "Whenever a Fate sphere effect you create would use an alignment, you may instead choose living or undead.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/malediction-dual-sphere",
@@ -21405,7 +21405,7 @@
   "options": [],
   "summary": "Prerequisites: Fate sphere, Protection sphere (Punishment) Benefit: When you use the Punishment succor, you may target the attacker with a word in place of…",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/sanctified-vigilance-dual-sphere",
@@ -21424,7 +21424,7 @@
   "options": [],
   "summary": "You may use rallies on allies within the area of your consecrations even if you do not share a mandate with them and they are not within range of one of your…",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/whole-set-blast-dual-sphere",
@@ -21443,7 +21443,7 @@
   "options": [],
   "summary": "Prerequisites: Destruction Sphere (Conflagrant Cluster), Fate Sphere Benefits: Whenever you use your destructive blast, you gain a +1 bonus to MSB checks made…",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/cursed-brew",
@@ -21460,7 +21460,7 @@
   "options": [],
   "summary": "You must select the Instill Fate talent with the bonus talent granted by this drawback, and you can only use your Fate sphere abilities through this talent.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/luckless",
@@ -21477,7 +21477,7 @@
   "options": [],
   "summary": "You must choose a (consecration) talent with the bonus talent gained from this drawback.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/neutrality",
@@ -21494,7 +21494,7 @@
   "options": [],
   "summary": "You must choose a (word) talent with the bonus talent gained from this drawback.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/non-judgemental",
@@ -21511,7 +21511,7 @@
   "options": [],
   "summary": "You must use this drawback to select one of the following talents: Align Object, Divine Force, Divine Pressure, or Enmity.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/personal-fate",
@@ -21528,7 +21528,7 @@
   "options": [],
   "summary": "You may only target yourself with your words and motifs, and your consecrations only affect you.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/sanctified",
@@ -21545,7 +21545,7 @@
   "options": [],
   "summary": "You may not create words.",
   "file": "fate.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "fate/tongue-of-ages",
@@ -21562,6 +21562,1622 @@
   "options": [],
   "summary": "You may not create consecrations.",
   "file": "fate.json",
+  "approved": true
+ },
+ {
+  "id": "illusion/illusion",
+  "name": "Illusion",
+  "kind": "sphere ability",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#illusion",
+  "options": [
+   "Illusionary Disguise"
+  ],
+  "summary": "As a standard action, you may spend a spell point to create an illusion within close range.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/trick",
+  "name": "Trick",
+  "kind": "sphere ability",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#trick",
+  "options": [
+   "Minor Figments",
+   "Minor Glamers"
+  ],
+  "summary": "As a standard action, you may create small, simple illusions called tricks.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/aggrandizing-strike-strike",
+  "name": "Aggrandizing Strike",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [],
+  "talentTags": [
+   "Strike"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#aggrandizing-strike-strike",
+  "options": [],
+  "summary": "As a standard action, you may make a single weapon attack in conjunction with using a [glamer] or [trick] effect.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/bestow-focus",
+  "name": "Bestow Focus",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#bestow-focus",
+  "options": [],
+  "summary": "When creating a glamer on a target you may have the target use their action to maintain concentration of the glamer instead of yourself.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/blur-glamer",
+  "name": "Blur",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [
+   "glamer"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#blur-glamer",
+  "options": [],
+  "summary": "As a trick you may designate a single 5-foot cube as a figment that distorts perception.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/committed-deception",
+  "name": "Committed Deception",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#committed-deception",
+  "options": [],
+  "summary": "You may increase the casting time of an illusion by one step to reduce its total spell point cost by one (minimum 0).",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/complex-illusion-mass",
+  "name": "Complex Illusion",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [],
+  "talentTags": [
+   "mass"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#complex-illusion-mass",
+  "options": [],
+  "summary": "When creating a figment, you may spend an additional spell point to divide the figment into multiple, independent components.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/control-figment",
+  "name": "Control Figment",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#control-figment",
+  "options": [],
+  "summary": "As a full-round action you may attempt a magic skill check against the magic skill defense of the controller of an existing figment.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/distracting-phantoms",
+  "name": "Distracting Phantoms",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#distracting-phantoms",
+  "options": [],
+  "summary": "As a trick, you may designate a 5-foot cube within your illusion range as a flanking partner for you and your allies.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/decoy-glamer",
+  "name": "Decoy",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [
+   "glamer"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#decoy-glamer",
+  "options": [],
+  "summary": "As a trick you may create an illusionary creature in the same square as a real creature, called a decoy.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/enlarged-illusion",
+  "name": "Enlarged Illusion",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#enlarged-illusion",
+  "options": [],
+  "summary": "Increase your illusion’s maximum size by one size category.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/focused-imagination",
+  "name": "Focused Imagination",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#focused-imagination",
+  "options": [],
+  "summary": "When you create an illusion, the illusion remains for 2 rounds after you stop concentrating, and you may maintain it through concentration for up to 10 minutes…",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/greater-illusionary-disguise-utility",
+  "name": "Greater Illusionary Disguise",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#greater-illusionary-disguise-utility",
+  "options": [],
+  "summary": "When creating an Illusionary Disguise, you gain a +4 circumstance bonus to your Disguise check, +2 per (sensory) talent you possess (other than Manipulate…",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/hostile-glamers-glamer",
+  "name": "Hostile Glamers",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [
+   "glamer"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#hostile-glamers-glamer",
+  "options": [],
+  "summary": "You can create glamers that affect the wearer.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/illusionary-labyrinth",
+  "name": "Illusionary Labyrinth",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#illusionary-labyrinth",
+  "options": [],
+  "summary": "As a trick, you may choose to perform a reposition maneuver on any target within your illusion range using your (caster level + your casting modifier -5) in…",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/illusionary-terrain",
+  "name": "Illusionary Terrain",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#illusionary-terrain",
+  "options": [],
+  "summary": "As a trick, you may designate a single cube (no larger than your maximum illusion size) as difficult terrain for one round per caster level.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/insistent-illusions",
+  "name": "Insistent Illusions",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#insistent-illusions",
+  "options": [],
+  "summary": "As a swift action, you may spend 2 spell points to force all creatures that currently disbelieve any of your figments to re-roll their Will saves to disbelieve.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/inspire-doubt",
+  "name": "Inspire Doubt",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#inspire-doubt",
+  "options": [],
+  "summary": "You may combine real effects and illusionary effects to effectively confuse targets as to which are real and which are not.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/instill-glamer-instill",
+  "name": "Instill Glamer",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [],
+  "talentTags": [
+   "instill"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#instill-glamer-instill",
+  "options": [],
+  "summary": "As a standard action you may touch a small container of liquid and instill a glamer inside it, which functions as a potion or oil.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/lingering-illusion",
+  "name": "Lingering Illusion",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#lingering-illusion",
+  "options": [],
+  "summary": "You may spend a spell point to allow the illusion to remain for 1 minute per caster level without the need for concentration.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/mage-feint",
+  "name": "Mage Feint",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#mage-feint",
+  "options": [],
+  "summary": "As a trick, you may force a target to succeed at a Will save or lose their Dexterity bonus to armor class until their turn.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/masques-glamer-utility",
+  "name": "Masques",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [
+   "glamer"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#masques-glamer-utility",
+  "options": [],
+  "summary": "You may create glamers that subtly change the way someone is perceived, aiding in their social interactions.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/novel-deception",
+  "name": "Novel Deception",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#novel-deception",
+  "options": [],
+  "summary": "As a standard action, you may pretend to cast an Illusion sphere effect and attempt a Bluff check.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/oblivious",
+  "name": "Oblivious",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#oblivious",
+  "options": [],
+  "summary": "When applying a glamer to a target, you may choose to do so subtly, such that they might not even realize they have been affected by one.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/overwhelming-sensations",
+  "name": "Overwhelming Sensations",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#overwhelming-sensations",
+  "options": [],
+  "summary": "As a trick you may force a target to succeed at a Will save or suffer extreme sensation for one round per two caster levels (minimum 1).",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/patterns",
+  "name": "Patterns",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#patterns",
+  "options": [],
+  "summary": "You may create disorienting and impossible forms and sensations with your figments.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/programmed-illusion",
+  "name": "Programmed Illusion",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#programmed-illusion",
+  "options": [],
+  "summary": "Whenever you create an illusion, you may add a specific circumstance that, when met, changes the nature of the illusion immediately.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/ranged-illusion-range",
+  "name": "Ranged Illusion",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [],
+  "talentTags": [
+   "range"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#ranged-illusion-range",
+  "options": [],
+  "summary": "Increase the distance by which you may manifest an illusion or trick by one category (close to medium, medium to long).",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/selective-illusions",
+  "name": "Selective Illusions",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#selective-illusions",
+  "options": [],
+  "summary": "By spending an additional spell point at the time you create an illusion, you may designate any number of targets to be immune to the illusion.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/shadow-infusion",
+  "name": "Shadow Infusion",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#shadow-infusion",
+  "options": [],
+  "summary": "When using an Illusion sphere effect you may spend an additional spell point to render the illusion quasi-real, granting it the shadow descriptor.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/shift-glamers",
+  "name": "Shift Glamers",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#shift-glamers",
+  "options": [],
+  "summary": "As a standard action, you may move any number of your glamers still within your maximum illusion range to new targets also within your maximum illusion range.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/suppression-glamer",
+  "name": "Suppression",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [
+   "glamer"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#suppression-glamer",
+  "options": [],
+  "summary": "As an illusion, you may create glamers that suppress and eliminate sensation rather than creating their own.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/swift-figments",
+  "name": "Swift Figments",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#swift-figments",
+  "options": [],
+  "summary": "The speed your figments may move within a single round improves to 25 feet + 5 feet per 2 caster levels.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/synesthesia",
+  "name": "Synesthesia",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#synesthesia",
+  "options": [],
+  "summary": "As a trick, you can link two senses allowing you to, for example, see sound or smell color.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/talented-trickster",
+  "name": "Talented Trickster",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#talented-trickster",
+  "options": [],
+  "summary": "You may spend a spell point to use any trick you know as a swift action.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/windtalker",
+  "name": "Windtalker",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#windtalker",
+  "options": [],
+  "summary": "As a trick you may use your illusions to signal or communicate.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/illusionary-odor-sensory-taste--smell",
+  "name": "Illusionary Odor",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Sensory Talents",
+  "tags": [
+   "sensory",
+   "taste & smell"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#illusionary-odor-sensory-taste--smell",
+  "options": [],
+  "summary": "You may add smell and taste to your illusions.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/illusionary-sound-sensory-sound",
+  "name": "Illusionary Sound",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Sensory Talents",
+  "tags": [
+   "sensory",
+   "sound"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#illusionary-sound-sensory-sound",
+  "options": [],
+  "summary": "You may add whatever sounds you desire to an illusion.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/illusionary-touch-sensory-touch",
+  "name": "Illusionary Touch",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Sensory Talents",
+  "tags": [
+   "sensory",
+   "touch"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#illusionary-touch-sensory-touch",
+  "options": [],
+  "summary": "You may make an illusion that feels real to the touch, including temperature and texture.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/manipulate-aura-sensory-magic",
+  "name": "Manipulate Aura",
+  "kind": "talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Sensory Talents",
+  "tags": [
+   "sensory",
+   "magic"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#manipulate-aura-sensory-magic",
+  "options": [],
+  "summary": "You may make illusions that create or change magical auras.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/advanced-invisibility",
+  "name": "Advanced Invisibility",
+  "kind": "advanced talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Advanced Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#advanced-invisibility",
+  "options": [],
+  "summary": "You may spend an additional spell point when using the Suppression glamer to make the target completely invisible.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/deceive-dweomer",
+  "name": "Deceive Dweomer",
+  "kind": "advanced talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Advanced Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#deceive-dweomer",
+  "options": [],
+  "summary": "As a trick, you may add half your caster level as an enhancement bonus to Use Magic Device checks to emulate a race, class feature, ability score or alignment.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/distant-deception",
+  "name": "Distant Deception",
+  "kind": "advanced talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Advanced Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#distant-deception",
+  "options": [],
+  "summary": "Prerequisites: Illusion sphere (Ranged Illusion [range] x2), caster level 5th.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/expand-illusion",
+  "name": "Expand Illusion",
+  "kind": "advanced talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Advanced Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#expand-illusion",
+  "options": [],
+  "summary": "When creating an illusion, you may spend an additional spell point to improve its size by one step.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/impawsible-perspective",
+  "name": "Impawsible Perspective",
+  "kind": "advanced talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Advanced Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#impawsible-perspective",
+  "options": [],
+  "summary": "Whenever you create an illusion, you may empower it to be incredibly difficult to perceive and disbelieve.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/permanent-image",
+  "name": "Permanent Image",
+  "kind": "advanced talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Advanced Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#permanent-image",
+  "options": [],
+  "summary": "When creating an illusion, you may spend 2 spell points to increase its duration to permanent.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/phantom-mind",
+  "name": "Phantom Mind",
+  "kind": "advanced talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Advanced Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#phantom-mind",
+  "options": [],
+  "summary": "Prerequisites: Illusion sphere (Lingering Illusion, Programmed Illusion), caster level 8th.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/phantom-pain",
+  "name": "Phantom Pain",
+  "kind": "advanced talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Advanced Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#phantom-pain",
+  "options": [],
+  "summary": "Prerequisites Illusion sphere (Illusionary Touch (sensory, touch) x2), caster level 5th.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/spell-disruption",
+  "name": "Spell Disruption",
+  "kind": "advanced talent",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Advanced Illusion Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#spell-disruption",
+  "options": [],
+  "summary": "You may spend an additional spell point when using Blur to have it also cause spell failure chance equal to its miss chance.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/asymmetrical-warfare-dual-sphere",
+  "name": "Asymmetrical Warfare",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion-Sphere-Feats#asymmetrical-warfare-dual-sphere",
+  "options": [],
+  "summary": "You may use your rally abilities on those under the effects of your glamers or in the areas of your figment as if they can see and hear you and are within the…",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/aura-engineering-dual-sphere",
+  "name": "Aura Engineering",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion-Sphere-Feats#aura-engineering-dual-sphere",
+  "options": [],
+  "summary": "You may attempt Use Magic Device checks on any object within close range using the greater caster level of your Divination or Illusion spheres.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/blurred-boundary-dual-sphere",
+  "name": "Blurred Boundary",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion-Sphere-Feats#blurred-boundary-dual-sphere",
+  "options": [],
+  "summary": "When creating a non-trick glamer you may also grant the effects of a single aegis you possess to the target.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/concealed-command",
+  "name": "Concealed Command",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion-Sphere-Feats#concealed-command",
+  "options": [],
+  "summary": "Your agents are abnormally difficult to shake from your grip.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/deep-cover-dual-sphere",
+  "name": "Deep Cover",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion-Sphere-Feats#deep-cover-dual-sphere",
+  "options": [],
+  "summary": "In place of an Alteration trait you may apply the effects of your illusionary disguise to your form.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/explanatory-illusion-dual-sphere",
+  "name": "Explanatory Illusion",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion-Sphere-Feats#explanatory-illusion-dual-sphere",
+  "options": [],
+  "summary": "Prerequisites: Divination Sphere, Illusion Sphere Benefit: As a free action whenever you are observing a target or location using your divine ability, you may…",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/fools-counterspell-counterspell",
+  "name": "Fool’s Counterspell",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Counterspell"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion-Sphere-Feats#fools-counterspell-counterspell",
+  "options": [],
+  "summary": "When you successfully counter a spell, the caster must succeed at a Will save equal to your Illusion sphere DC or Mind sphere DC (whichever is greater), or…",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/illusionary-blast-dual-sphere",
+  "name": "Illusionary Blast",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion-Sphere-Feats#illusionary-blast-dual-sphere",
+  "options": [],
+  "summary": "When creating a destructive blast, you may spend an additional spell point to allow your destructive blast to behave as if it were an illusion in specific…",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/illustrious-light-dual-sphere",
+  "name": "Illustrious Light",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion-Sphere-Feats#illustrious-light-dual-sphere",
+  "options": [],
+  "summary": "Whenever you create a figment or glamer you may, as part of the same action, affect the figment or the creature or object subject to the glamer with your glow.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/implausible-deniability-dual-sphere",
+  "name": "Implausible Deniability",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion-Sphere-Feats#implausible-deniability-dual-sphere",
+  "options": [],
+  "summary": "You may have your illusions interact with Detect Thoughts and similar abilities as if they had an Intelligence score of up to twice your caster level.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/invisible-friend-dual-sphere",
+  "name": "Invisible Friend",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion-Sphere-Feats#invisible-friend-dual-sphere",
+  "options": [],
+  "summary": "As a free action, you may spend a spell point to allow your shadow companion to fully manifest itself.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/seeing-shadows-dual-sphere",
+  "name": "Seeing Shadows",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion-Sphere-Feats#seeing-shadows-dual-sphere",
+  "options": [],
+  "summary": "You gain the following abilities based on the Dark sphere and Illusion sphere talents you possess: - Body Double (requires Living Shadow): When using the…",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/solid-illusions-dual-sphere",
+  "name": "Solid Illusions",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion-Sphere-Feats#solid-illusions-dual-sphere",
+  "options": [],
+  "summary": "You may enhance any illusions you create as if they were actually the creatures and objects they appear to be.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/superpositioned-dual-sphere",
+  "name": "Superpositioned",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion-Sphere-Feats#superpositioned-dual-sphere",
+  "options": [],
+  "summary": "While under the effects of the Suppression talent, you may use the Warp sphere teleporting only yourself and carried gear as a move action rather than a…",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/suppressed-spell-metamagic",
+  "name": "Suppressed Spell",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Metamagic"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion-Sphere-Feats#suppressed-spell-metamagic",
+  "options": [],
+  "summary": "This has no effect on spells or sphere abilities that rely on a suppressed sensation( s) to function, but you may always forgo the +2 bonus to the Perception…",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/surreinforcement-dual-sphere",
+  "name": "Surreinforcement",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion-Sphere-Feats#surreinforcement-dual-sphere",
+  "options": [],
+  "summary": "When you create materials with the Creation sphere, they are laced with shadowstuff that grants you increased control over them.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/tactile-illusion-dual-sphere",
+  "name": "Tactile Illusion",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion-Sphere-Feats#tactile-illusion-dual-sphere",
+  "options": [],
+  "summary": "By weaving your illusions together with a hint of telekinetic force you can allow them to exert force more appropriate to their apparent nature.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/vudu-dual-sphere",
+  "name": "Vudu",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion-Sphere-Feats#vudu-dual-sphere",
+  "options": [],
+  "summary": "Prerequisites: Death sphere, Illusion sphere (Illusionary Touch (sensory, touch) x2, Illusionary Disguise ability).",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/wave-particle-duality-dual-sphere",
+  "name": "Wave-Particle Duality",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion-Sphere-Feats#wave-particle-duality-dual-sphere",
+  "options": [],
+  "summary": "Prerequisites: Illusion sphere, Light sphere.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/weird-assault-combat",
+  "name": "Weird Assault",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion-Sphere-Feats#weird-assault-combat",
+  "options": [],
+  "summary": "Prerequisites: Illusion sphere (Decoy (glamer), Mage Feint), base attack bonus +3.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/weird-defense-combat",
+  "name": "Weird Defense",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion-Sphere-Feats#weird-defense-combat",
+  "options": [],
+  "summary": "As a swift action, you may grant yourself a miss chance equal to 10% + 5% per 2 caster levels (maximum 95%) until the start of your next turn or until an…",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/weird-motion-combat",
+  "name": "Weird Motion",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion-Sphere-Feats#weird-motion-combat",
+  "options": [],
+  "summary": "Prerequisites: Illusion sphere (Mage Feint), base attack bonus +3.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/emulation-expert-surreal",
+  "name": "Emulation Expert",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Surreal Feats",
+  "tags": [
+   "Surreal"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#emulation-expert-surreal",
+  "options": [],
+  "summary": "When using the Shadow Magic feat or create reality class feature to duplicate effects from another sphere, you may spend a shadow point to treat the effect as…",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/gather-shadowstuff-surreal",
+  "name": "Gather Shadowstuff",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Surreal Feats",
+  "tags": [
+   "Surreal"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#gather-shadowstuff-surreal",
+  "options": [],
+  "summary": "In place of spending a shadow point you may use shadowmark as a full-round action.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/greater-shadowmark-surreal",
+  "name": "Greater Shadowmark",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Surreal Feats",
+  "tags": [
+   "Surreal"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#greater-shadowmark-surreal",
+  "options": [],
+  "summary": "Prerequisite: Shadowmark 1d6.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/shadow-magic-surreal",
+  "name": "Shadow Magic",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Surreal Feats",
+  "tags": [
+   "Surreal"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#shadow-magic-surreal",
+  "options": [],
+  "summary": "You may mimic other spheres of magic by shaping shadowstuff.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/shadow-shield-surreal",
+  "name": "Shadow Shield",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Surreal Feats",
+  "tags": [
+   "Surreal"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#shadow-shield-surreal",
+  "options": [],
+  "summary": "You may, as a swift action, spend a shadow point to create a protective layer of shadowstuff around a creature or object within 25 feet + 5 feet per 2…",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/shadow-shield-improved-surreal",
+  "name": "Shadow Shield, Improved",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Surreal Feats",
+  "tags": [
+   "Surreal"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#shadow-shield-improved-surreal",
+  "options": [],
+  "summary": "Prerequisite: Shadow Shield.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/shadowblast-surreal",
+  "name": "Shadowblast",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Surreal Feats",
+  "tags": [
+   "Surreal"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#shadowblast-surreal",
+  "options": [],
+  "summary": "When using your shadowmark, you may spend an extra shadow point to change the effect from a ranged touch attack into a close-ranged cone.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/shadowstuff-armament-surreal",
+  "name": "Shadowstuff Armament",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Surreal Feats",
+  "tags": [
+   "Surreal"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#shadowstuff-armament-surreal",
+  "options": [],
+  "summary": "As a move action or a free action with the expenditure of a shadow point, you may create and instantaneously equip a non-magical version of a weapon, piece of…",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/shadowy-slay-surreal",
+  "name": "Shadowy Slay",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Surreal Feats",
+  "tags": [
+   "Surreal"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#shadowy-slay-surreal",
+  "options": [],
+  "summary": "Any time you deal damage to a creature from an illusion source you may spend a shadow point to allow the creature to be briefly attacked through its shadow.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/surreal-strike-surreal",
+  "name": "Surreal Strike",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Surreal Feats",
+  "tags": [
+   "Surreal"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#surreal-strike-surreal",
+  "options": [],
+  "summary": "You gain shadowmark as the fey adept class feature, but use your character level -4 (minimum 1) as your fey adept level for the purposes of determining damage…",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/violent-shadow-surreal",
+  "name": "Violent Shadow",
+  "kind": "feat",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Surreal Feats",
+  "tags": [
+   "Surreal"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion#violent-shadow-surreal",
+  "options": [],
+  "summary": "You may spend a shadow point as a full-round action to make a single attack with your shadowmark.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/disappearance",
+  "name": "Disappearance",
+  "kind": "drawback",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion-Sphere-Drawbacks#disappearance",
+  "options": [],
+  "summary": "You must select the Suppression talent as your bonus talent for this drawback.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/glamered-brew",
+  "name": "Glamered Brew",
+  "kind": "drawback",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion-Sphere-Drawbacks#glamered-brew",
+  "options": [],
+  "summary": "You must select the Instill Glamer talent with the bonus talent granted by this drawback, and you can only use your Illusion sphere abilities through this…",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/limited-sensation",
+  "name": "Limited Sensation",
+  "kind": "drawback",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion-Sphere-Drawbacks#limited-sensation",
+  "options": [],
+  "summary": "You may not take additional (sensory) talents from the Illusion sphere.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/obscura-mage",
+  "name": "Obscura Mage",
+  "kind": "drawback",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion-Sphere-Drawbacks#obscura-mage",
+  "options": [],
+  "summary": "You may not create figments with your tricks and illusions.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/personal-illusion",
+  "name": "Personal Illusion",
+  "kind": "drawback",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion-Sphere-Drawbacks#personal-illusion",
+  "options": [],
+  "summary": "You can only apply glamers to yourself, and the range of your figments and tricks that target an area is reduced to 0 feet; you may only target squares that…",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/theme-fixation",
+  "name": "Theme Fixation",
+  "kind": "drawback",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion-Sphere-Drawbacks#theme-fixation",
+  "options": [],
+  "summary": "You may only create figments and glamers within a specific and narrow theme such as dragons, cubes, insects, cards, weapons, hands, etc.",
+  "file": "illusion.json",
+  "approved": false
+ },
+ {
+  "id": "illusion/tricksters-grudge",
+  "name": "Tricksters Grudge",
+  "kind": "drawback",
+  "sphere": "Illusion",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Illusion/Illusion-Sphere-Drawbacks#tricksters-grudge",
+  "options": [],
+  "summary": "When you select this drawback you must select a creature type.",
+  "file": "illusion.json",
   "approved": false
  },
  {
