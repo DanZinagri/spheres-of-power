@@ -366,11 +366,12 @@ const PICKERS = {
   talent: { noun: "talent", index: "index.json", cats: (e) => [e.group || TALENT_ENTRY_KINDS[e.kind]],
     catLabel: "All talents", req: (e) => e.options?.join(", "), reqLabel: "Options", scoped: true,
     filter: (e, ctx) => e.sphere === label(ctx.sphere) && e.kind in TALENT_ENTRY_KINDS,
-    title: (ctx) => `Add ${label(ctx.sphere)} talent`,
+    title: (ctx) => `Add ${label(ctx.sphere)} ${ctx.free ? "bonus talent (free)" : "talent"}`,
     meta: (e) => [TALENT_ENTRY_KINDS[e.kind], ...(e.tags ?? []).map((t) => `(${t})`), ...(e.talentTags ?? []).map((t) => `[${t}]`)].join(" "),
     custom: (ctx) => addTalent(ctx.sphere),
     onPick: (f, full, ctx) => addTalent(ctx.sphere, {
-      name: f.name, tags: f.tags?.join(", ") ?? "", ref: f.id,
+      name: f.name, tags: [...(f.tags ?? []), ...(ctx.free ? ["bonus talent"] : [])].join(", "), ref: f.id,
+      ...(ctx.free ? { exclude: true } : {}),
       desc: [mdToText(full?.md ?? f.summary), ...(full?.options ?? []).map((o) => `${o.name}\n${mdToText(o.md)}`)].filter(Boolean).join("\n\n"),
     }) },
 }
@@ -1036,6 +1037,7 @@ const panels = {
     const bySphere = {}
     state.talents.forEach((t, i) => (bySphere[t.sphere || ""] ??= []).push(i))
     const order = Object.keys(bySphere).sort((x, y) => (x === "" ? 1 : y === "" ? -1 : label(x).localeCompare(label(y))))
+    const collapsed = collapsedSpheres()
 
     const talentRow = (i) => {
       const t = state.talents[i]
@@ -1046,7 +1048,12 @@ const panels = {
         field("Tags", input(p + "tags", { placeholder: "e.g. Blast Type", style: "width:10rem" }), "Comma separated"),
         t.sphere ? null : field("Kind", select(p + "kind", Object.fromEntries(Object.entries(TALENT_KINDS).map(([k, v]) => [k, v[1]])))),
         field("Sphere", sphereSelect(p + "sphere")),
-        h("div", { class: "field" }, h("span", {}, " "), checkbox(p + "exclude", "Exclude from talent count")),
+        hasTag(t, "drawback")
+          ? h("div", { class: "field" }, h("span", {}, " "), boughtOffBox(i))
+          : h("div", { class: "field" }, h("span", {}, " "), checkbox(p + "exclude", "Exclude from talent count")),
+        t.grantedBy ? h("span", { class: "note", style: "align-self:center" }, `Free: granted by ${t.grantedBy}`)
+          : hasTag(t, "bonus talent") ? h("span", { class: "note", style: "align-self:center" }, "Free bonus talent")
+            : hasTag(t, "base sphere") ? h("span", { class: "note", style: "align-self:center" }, "The base sphere") : null,
         t.ref ? h("span", { class: "note", style: "align-self:center" }, "From the compendium") : null,
         h("div", { class: "spacer" }),
         h("button", { class: "small danger", "aria-label": `Remove ${t.name || "talent"}`, onclick: () => { state.talents.splice(i, 1); changed(true) } }, "Remove"),
@@ -1060,16 +1067,21 @@ const panels = {
       const idxs = bySphere[key]
       const counted = idxs.filter((i) => !state.talents[i].exclude).length
       const level = kind === "magic" ? ["CL", c.spheres.cl] : kind === "combat" ? ["BAB", signed(c.bab)] : null
-      return h("section", { class: "card sphere-block" },
+      const shut = collapsed.has(key)
+      const toggle = () => { setCollapsed(key, !shut); renderPanel() }
+      return h("section", { class: `card sphere-block${shut ? " collapsed" : ""}` },
         h("div", { class: "row sphere-head" },
-          h("h3", { style: "margin:0" }, key ? label(key) : "No sphere set"),
+          h("button", { class: "small ghost sphere-toggle", "aria-expanded": String(!shut), "aria-label": `${shut ? "Expand" : "Collapse"} ${key ? label(key) : "talents with no sphere"}`, onclick: toggle }, shut ? "▸" : "▾"),
+          h("h3", { style: "margin:0;cursor:pointer", onclick: toggle }, key ? label(key) : "No sphere set"),
           kind ? h("span", { class: `chip ${kind}` }, { magic: "Power", combat: "Might", skill: "Guile" }[kind]) : null,
           h("span", { class: "muted" }, `Talents: ${counted}${counted !== idxs.length ? ` (${idxs.length - counted} excluded)` : ""}`),
           h("div", { class: "spacer" }),
           level ? h("span", { class: "sphere-level" }, h("span", { class: "muted" }, level[0] + " "), h("b", {}, level[1])) : null,
         ),
-        h("div", { class: "picked-list" }, idxs.map(talentRow)),
-        h("button", { class: "small", style: "margin-top:.5rem", onclick: () => addSphereTalent(key) }, `+ Add ${key ? label(key) : ""} talent`.replace("  ", " ")),
+        shut ? null : h("div", { class: "picked-list" }, idxs.map(talentRow)),
+        shut ? null : h("div", { class: "row", style: "margin-top:.5rem" },
+          h("button", { class: "small", onclick: () => addSphereTalent(key) }, `+ Add ${key ? label(key) : ""} talent`.replace("  ", " ")),
+          key ? h("button", { class: "small", onclick: () => openSphereAdder(key) }, "Base sphere, packages and drawbacks…") : null),
       )
     })
 
@@ -1101,11 +1113,15 @@ const panels = {
       !state.classes.some((cl) => cl.caster !== "none")
         ? h("p", { class: "note" }, "No class has a caster level progression yet, so CL and MSB are 0. Set one on the Classes tab.")
         : null,
-      h("h3", {}, "Spheres and talents"),
+      h("div", { class: "row", style: "margin-top:1rem" },
+        h("h3", { style: "margin:0" }, "Spheres and talents"),
+        h("div", { class: "spacer" }),
+        order.length ? h("button", { class: "small ghost", onclick: () => { order.forEach((k) => setCollapsed(k, true)); renderPanel() } }, "Collapse all") : null,
+        order.length ? h("button", { class: "small ghost", onclick: () => { order.forEach((k) => setCollapsed(k, false)); renderPanel() } }, "Expand all") : null),
       blocks.length ? h("div", { class: "picked-list" }, blocks) : h("p", { class: "muted" }, "No talents yet. Pick a sphere below to start."),
       h("div", { class: "row", style: "margin-top:.75rem" },
         adder,
-        h("button", { onclick: () => adder.value && addSphereTalent(adder.value) }, "+ Add sphere"),
+        h("button", { onclick: () => adder.value && openSphereAdder(adder.value) }, "+ Add sphere"),
         h("button", { onclick: () => openTraditionPicker() }, "+ Add martial tradition"),
         h("button", { onclick: () => openCastingTradition() }, "+ Add casting tradition"),
         h("button", { onclick: () => openTradeTradition() }, "+ Add trade tradition"),
@@ -2434,8 +2450,106 @@ function carriedBox(p) {
   return h("label", { class: "row", style: "gap:.3rem" }, el, "Carried")
 }
 
+// ---------- adding a sphere ----------
+// "Add sphere" (or a sphere's "Base, drawbacks and packages"): the base sphere as a talent of its own
+// (compendium/sphere-bases.json: what gaining it gives), its packages, its drawbacks (a drawback is
+// free until bought off, which costs a talent; a talent a drawback grants is free), and the free
+// bonus talent some spheres come with, picked next.
+const COLLAPSE_KEY = "sop-builder-collapsed-spheres"
+function collapsedSpheres() {
+  try { return new Set(JSON.parse(localStorage.getItem(COLLAPSE_KEY) || "[]")) } catch { return new Set() }
+}
+function setCollapsed(key, on) {
+  const set = collapsedSpheres()
+  on ? set.add(key) : set.delete(key)
+  try { localStorage.setItem(COLLAPSE_KEY, JSON.stringify([...set])) } catch {}
+}
+const hasTag = (t, tag) => (t.tags ?? "").split(",").map((x) => x.trim().toLowerCase()).includes(tag)
+
+async function openSphereAdder(key) {
+  const name = label(key)
+  const loading = openDialog(`Add the ${name} sphere`, h("p", { class: "muted" }, "Loading…"))
+  const [bases, index] = await Promise.all([loadCompendium("sphere-bases.json", {}), loadCompendium("index.json", [])])
+  loading.done()
+  const base = bases[name]
+  const mine = state.talents.filter((t) => t.sphere === key)
+  const hasBase = mine.some((t) => hasTag(t, "base sphere"))
+  const taken = new Set(mine.map((t) => t.ref).filter(Boolean))
+  const packages = index.filter((e) => e.sphere === name && e.kind === "package")
+  const drawbacks = index.filter((e) => e.sphere === name && e.kind === "drawback")
+  const baseBox = h("input", { type: "checkbox", checked: !hasBase, disabled: hasBase })
+  const bonusBox = h("input", { type: "checkbox", checked: !!base?.bonus && !hasBase })
+  const pick = (list) => list.map((e) => [e, h("input", { type: "checkbox", disabled: taken.has(e.id) })])
+  const pkgs = pick(packages)
+  const draws = pick(drawbacks)
+  const option = ([e, box], extra) => h("label", { class: "trad-option" }, box,
+    h("span", {}, h("b", {}, e.name), taken.has(e.id) ? h("span", { class: "muted" }, " (already taken)") : null,
+      e.summary ? h("span", { class: "note", style: "display:block" }, mdToText(e.summary)) : null, extra ?? null))
+  const grantsOf = (e) => [...mdToText(e.summary ?? "").matchAll(/gain the ([A-Z][\w’' -]+?) talent/g)].map((m) => m[1])
+  const dlg = openDialog(`Add the ${name} sphere`,
+    base ? h("p", { class: "note" }, base.summary) : h("p", { class: "muted" }, "No base sphere text found for this sphere."),
+    base ? h("details", {}, h("summary", { class: "note" }, "What gaining the sphere gives"),
+      h("div", { class: "note", style: "white-space:pre-wrap;max-height:16rem;overflow:auto" }, mdToText(base.md)),
+      h("a", { href: `../../${base.url}`, target: "_blank", rel: "noopener" }, `${name} sphere page`)) : null,
+    h("fieldset", { class: "trad-choice" },
+      h("legend", {}, "Base sphere"),
+      h("label", { class: "trad-option" }, baseBox,
+        h("span", {}, h("b", {}, `${name} sphere`), hasBase ? h("span", { class: "muted" }, " (already added)") : null,
+          h("span", { class: "note", style: "display:block" }, `Counts as 1 talent${base?.abilities?.length ? `; gives ${base.abilities.filter((a) => !/^(table|note|rule)/i.test(a)).join(", ")}` : ""}.`))),
+      base?.bonus ? h("label", { class: "trad-option" }, bonusBox,
+        h("span", {}, h("b", {}, "Pick the free bonus talent next"),
+          h("span", { class: "note", style: "display:block" }, `${base.bonus} It doesn't count toward your talents (the sphere and its bonus talent count as one).`))) : null),
+    packages.length ? h("fieldset", { class: "trad-choice" },
+      h("legend", {}, "Package"),
+      h("p", { class: "note" }, "Usually one when you gain the sphere (more with an Expanded … talent). Packages don't count as talents."),
+      ...pkgs.map((o) => option(o))) : null,
+    drawbacks.length ? h("fieldset", { class: "trad-choice" },
+      h("legend", {}, "Drawbacks"),
+      h("p", { class: "note" }, "A drawback doesn't count as a talent until it's bought off (tick Bought off on its row later; that costs a talent). A talent a drawback grants is free."),
+      ...draws.map((o) => option(o, grantsOf(o[0]).length ? h("span", { class: "note", style: "display:block" }, `Adds ${grantsOf(o[0]).join(", ")} (free).`) : null))) : null,
+    h("div", { class: "row add-row" },
+      h("button", { class: "primary", onclick: () => add() }, "Add"),
+      h("button", { onclick: () => dlg.done() }, "Cancel")))
+  dlg.classList.add("wide")
+  const textOf = async (e) => {
+    const data = await loadCompendium(e.file, { entries: [] })
+    const full = data.entries.find((x) => x.id === e.id)
+    return mdToText(full?.md ?? e.summary ?? "")
+  }
+  const row = (extra) => ({ name: "", kind: sphereKind(key) ?? "magic", sphere: key, tags: "", exclude: false, desc: "", ...extra })
+  const add = async () => {
+    const rows = []
+    if (baseBox.checked && !hasBase) rows.push(row({ name: `${name} sphere`, tags: "base sphere", ref: `sphere/${key}`, desc: base ? mdToText(base.md) : "" }))
+    for (const [e, box] of pkgs) if (box.checked) rows.push(row({ name: e.name, tags: "package", exclude: true, ref: e.id, desc: await textOf(e) }))
+    for (const [e, box] of draws) {
+      if (!box.checked) continue
+      rows.push(row({ name: e.name, tags: "drawback", exclude: true, boughtOff: false, ref: e.id, desc: await textOf(e) }))
+      for (const g of grantsOf(e)) {
+        const t = index.find((x) => x.sphere === name && x.name.toLowerCase() === g.toLowerCase() && x.kind in TALENT_ENTRY_KINDS)
+        rows.push(row({ name: t?.name ?? g, tags: [...(t?.tags ?? []), "granted"].join(", "), exclude: true, grantedBy: e.name,
+          ref: t?.id, desc: `Granted by the ${e.name} drawback (free).${t ? `\n\n${await textOf(t)}` : ""}` }))
+      }
+    }
+    state.talents.push(...rows)
+    setCollapsed(key, false)
+    dlg.done()
+    changed(true)
+    // a drawback can take the bonus talent away (Zen Mind: "do not gain the bonus (control) talent")
+    const noBonus = draws.some(([e, box]) => box.checked && /do not gain the bonus/i.test(e.summary ?? ""))
+    if (bonusBox.checked && base?.bonus && !noBonus) openCompendiumSearch("talent", { sphere: key, free: true })
+    else if (!rows.length) addSphereTalent(key)
+  }
+}
+
 // adding to a sphere offers its talents from the compendium (or a custom one); a talent with no
 // sphere set is just a blank row
+// a sphere drawback's "Bought off" box: buying it off costs a talent, so it then counts
+function boughtOffBox(i) {
+  const t = state.talents[i]
+  const el = h("input", { type: "checkbox", checked: !!t.boughtOff })
+  el.addEventListener("change", () => { t.boughtOff = el.checked; t.exclude = !el.checked; changed(true) })
+  return h("label", { class: "row", style: "gap:.3rem" }, el, "Bought off (counts as a talent)")
+}
 function addSphereTalent(sphere) {
   if (sphere) openCompendiumChooser("talent", { sphere })
   else addTalent(sphere)

@@ -18,6 +18,7 @@ from __future__ import annotations
 import argparse
 import concurrent.futures as cf
 import html
+import collections
 import json
 import re
 from collections import Counter
@@ -4775,6 +4776,54 @@ def build_trade_traditions() -> int:
     dest.write_text("\n".join(out) + "\n", encoding="utf-8")
     return len(talents)
 
+# ---------- sphere bases ----------
+# compendium/sphere-bases.json: what gaining each sphere gives (its page's opening text and base
+# abilities, up to the first talent / drawback / package section), and the free talent some spheres
+# come with ("Bonus Talent: You gain a (control) talent ...", "choose one Equipment talent ... and gain
+# it for free"), for the Character Builder's "Add sphere".
+SPHERE_BASE_STOP = re.compile(r"talent|drawback|package|alternate|feats?$|specialt|archetype", re.I)
+SPHERE_BONUS_RES = [
+    re.compile(r"\*\*Bonus Talent:?\*\*:?\s*([^\n]+)"),
+    re.compile(r"([^.\n]*\b(?:gain|choose)[^.\n]*\btalent[^.\n]*\b(?:for free|bonus talent)[^.\n]*\.)", re.I),
+    re.compile(r"([^.\n]*\bgain (?:a|one) bonus [^.\n]*talent[^.\n]*when you (?:first )?gain the [^.\n]*sphere[^.\n]*\.)", re.I),
+    re.compile(r"([^.\n]*when you (?:first )?gain the [^.\n]*sphere, [^.\n]*\b(?:free|bonus)\b[^.\n]*talent[^.\n]*\.)", re.I),
+    re.compile(r"([^.\n]*\bgain the [^.\n]*\btalent when you gain this sphere[^.\n]*\.)", re.I),  # Navigation
+    re.compile(r"([^.\n]*when you (?:first )?gain the [^.\n]*sphere, you gain [^.\n]*?\b(?:1|one|a) \(\w+\)(?: or \(\w+\))? talent[^.\n]*\.)", re.I),
+]
+
+
+def build_sphere_bases() -> int:
+    idx = COMPENDIUM_OUT / "index.json"
+    if not idx.exists():
+        return 0
+    pages: dict[str, collections.Counter] = {}
+    for e in json.loads(idx.read_text(encoding="utf-8")):
+        if e.get("url") and "talent" in e["kind"]:
+            pages.setdefault(e["sphere"], collections.Counter())[e["url"].split("#")[0]] += 1
+    by_url = {_page_url(f).lstrip("/"): f for f in CONTENT.rglob("*.md") if ARCHIVE not in f.relative_to(CONTENT).parts}
+    out = {}
+    for sphere, urls in sorted(pages.items()):
+        url = urls.most_common(1)[0][0]
+        f = by_url.get(url.lstrip("/"))
+        if not f:
+            continue
+        body = f.read_text(encoding="utf-8").split(GENERATED_MARK, 1)[-1]
+        lines = body.split("\n")
+        stop = next((k for k, l in enumerate(lines) if (m := re.match(r"#{1,4} (.+)$", l)) and SPHERE_BASE_STOP.search(m.group(1))), len(lines))
+        intro = "\n".join(l for l in lines[:stop] if not l.startswith("*Source:") and l.strip() != "---").strip()
+        bonus = ""
+        for rx in SPHERE_BONUS_RES:
+            if (m := rx.search(intro)):
+                bonus = re.sub(r"[*_]", "", m.group(1)).strip()
+                break
+        abilities = [re.sub(r"\s*[\[(].*$", "", m.group(2)).strip() for l in lines[:stop] if (m := re.match(r"(#{2,4}) (.+)$", l))]
+        out[sphere] = {"sphere": sphere, "url": url, "md": intro, "summary": _rules_summary(intro, 220), "bonus": bonus,
+                       "abilities": abilities}
+    COMPENDIUM_OUT.mkdir(parents=True, exist_ok=True)
+    (COMPENDIUM_OUT / "sphere-bases.json").write_text(json.dumps(out, ensure_ascii=False), encoding="utf-8")
+    return len(out)
+
+
 
 # ---------- spells ----------
 # compendium/spells.json + spells-index.json: the Pathfinder spells from Archives of Nethys
@@ -6599,6 +6648,7 @@ def convert(with_images: bool) -> None:
     print("Citation tags removed, links re-pointed: %d, %d" % strip_citation_tags())
     print(f"Search types: {tag_search_types()}")
     print(f"Compendium entries: {build_compendium()}")
+    print(f"Sphere bases: {build_sphere_bases()}")
     print(f"Compendium classes: {build_class_compendium()}")
     print(f"Compendium feats: {build_feat_compendium()}")
     print(f"Compendium traits: {build_trait_compendium()}")

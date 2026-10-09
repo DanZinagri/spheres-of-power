@@ -147,40 +147,69 @@ async function buildSheetPdf() {
     ly -= 20
   }
 
-  // skills: squeeze row height so the whole list fits the rest of the column
-  ly = bar(LX, ly - 6, LW, "Skills") - 2
-  const skillRows = []
+  // skills: rows stay readable (at least SKILL_MIN_ROW tall); what doesn't fit the column continues
+  // in two columns at the start of the following pages. With background skills on, those (Craft,
+  // Perform, Profession and their specialties) are listed as a group of their own.
+  const SKILL_MIN_ROW = 9.5, SKILL_ROW = 11
+  const skillRow = (k, label, abl, trainedOnly, acp) => ({ label, abl: skillAbl(k), rank: num(s.skills[k]), total: skillTotal(k, num(s.skills[k]), c), cs: c.classSkills.has(k), trainedOnly, acp })
+  const groups = [{ title: s.backgroundSkills ? "Adventuring skills" : "Skills", rows: [] }]
+  if (s.backgroundSkills) groups.push({ title: "Background skills", rows: [] })
   for (const [k, [label, abl, trainedOnly, acp]] of Object.entries(SKILLS)) {
     if (BG_ONLY.includes(k) && !s.backgroundSkills) continue
-    const bg = s.backgroundSkills && BG_SKILLS.includes(k)
-    skillRows.push({ label, abl: skillAbl(k), rank: num(s.skills[k]), total: skillTotal(k, num(s.skills[k]), c), cs: c.classSkills.has(k), trainedOnly, acp, bg })
+    const g = groups[s.backgroundSkills && BG_SKILLS.includes(k) ? 1 : 0]
+    g.rows.push(skillRow(k, label, abl, trainedOnly, acp))
     if (SUB_SKILLS.includes(k))
       for (const sub of s.subSkills[k]) {
         const a = sub.ability || abl
-        skillRows.push({ label: `  ${sub.name || "(specialty)"}`, abl: a, rank: num(sub.rank), total: skillTotal(k, num(sub.rank), c, a), cs: c.classSkills.has(k), bg, sub: true })
+        g.rows.push({ label: `  ${sub.name || "(specialty)"}`, abl: a, rank: num(sub.rank), total: skillTotal(k, num(sub.rank), c, a), cs: c.classSkills.has(k), sub: true })
       }
   }
-  const sk = { cs: LX + 6, name: LX + 16, abl: LX + 168, rank: LX + 212, total: LX + LW - 6 }
-  text("CS", sk.cs - 3, ly - 8, 5.5, bold, SOFT)
-  text("SKILL", sk.name, ly - 8, 6, bold, SOFT)
-  textC("ABIL", sk.abl, ly - 8, 6, bold, SOFT)
-  textR("RANKS", sk.rank, ly - 8, 6, bold, SOFT)
-  textR("TOTAL", sk.total, ly - 8, 6, bold, SOFT)
+  // one list: a group's heading (after the first) is a row of its own
+  const skillItems = groups.flatMap((g, i) => [...(i ? [{ heading: g.title }] : []), ...g.rows])
+  function skillHeader(x, w, yTop) {
+    const col = { cs: x + 6, name: x + 16, abl: x + w - 82, rank: x + w - 38, total: x + w - 6 }
+    text("CS", col.cs - 3, yTop - 8, 5.5, bold, SOFT)
+    text("SKILL", col.name, yTop - 8, 6, bold, SOFT)
+    textC("ABIL", col.abl, yTop - 8, 6, bold, SOFT)
+    textR("RANKS", col.rank, yTop - 8, 6, bold, SOFT)
+    textR("TOTAL", col.total, yTop - 8, 6, bold, SOFT)
+    return col
+  }
+  // draws rows from yTop down; returns the y below the last one
+  function skillRows(items, x, w, yTop, rowH, col) {
+    const size = Math.min(8, rowH - 2.2)
+    let yy = yTop
+    items.forEach((r, i) => {
+      if (r.heading) {
+        text(r.heading.toUpperCase(), x + 4, yy - rowH + 2.5, 6.5, bold, ACCENT)
+        line(x, yy - rowH, x + w, yy - rowH, ACCENT, 0.8)
+        yy -= rowH
+        return
+      }
+      const base = yy - rowH + (rowH - size) / 2 + 0.8
+      if (i % 2 === 0) rect(x, yy - rowH, w, rowH, { color: TINT })
+      if (r.cs && !r.sub) page.drawCircle({ x: col.cs, y: base + size * 0.35, size: Math.min(2.2, rowH / 4), color: ACCENT })
+      const name = r.label + (r.trainedOnly ? "*" : "") + (r.acp ? " †" : "")
+      text(fit(name, size, col.abl - col.name - 18, r.sub ? italic : font), col.name, base, size, r.sub ? italic : font)
+      textC(r.abl.toUpperCase(), col.abl, base, size - 0.5, font, SOFT)
+      textR(r.rank ? String(r.rank) : "-", col.rank, base, size, font, SOFT)
+      textR(signed(r.total), col.total, base, size, bold)
+      yy -= rowH
+    })
+    return yy
+  }
+  ly = bar(LX, ly - 6, LW, groups[0].title) - 2
+  const skCol = skillHeader(LX, LW, ly)
   ly -= 11
   const footerY = M + 4
-  const rowH = Math.min(11, (ly - footerY) / Math.max(skillRows.length, 1))
-  const skSize = Math.min(8, rowH - 2.2)
-  skillRows.forEach((r, i) => {
-    const base = ly - rowH * (i + 1) + (rowH - skSize) / 2 + 0.8
-    if (i % 2 === 0) rect(LX, ly - rowH * (i + 1), LW, rowH, { color: TINT })
-    if (r.cs && !r.sub) page.drawCircle({ x: sk.cs, y: base + skSize * 0.35, size: Math.min(2.2, rowH / 4), color: ACCENT })
-    const name = r.label + (r.trainedOnly ? "*" : "") + (r.acp ? " †" : "") + (r.bg ? " (bg)" : "")
-    text(fit(name, skSize, sk.abl - sk.name - 18, r.sub ? italic : font), sk.name, base, skSize, r.sub ? italic : font)
-    textC(r.abl.toUpperCase(), sk.abl, base, skSize - 0.5, font, SOFT)
-    textR(r.rank ? String(r.rank) : "-", sk.rank, base, skSize, font, SOFT)
-    textR(signed(r.total), sk.total, base, skSize, bold)
-  })
-  text("* trained only   † armor check penalty applies   dot = class skill", LX, footerY - 8, 5.5, italic, SOFT)
+  const fitRows = Math.floor((ly - footerY) / SKILL_MIN_ROW)
+  const firstPart = skillItems.length <= fitRows ? skillItems : skillItems.slice(0, fitRows)
+  const skillOverflow = skillItems.slice(firstPart.length)
+  // a trailing heading with no rows under it moves to the continuation
+  if (firstPart.length && firstPart[firstPart.length - 1].heading) skillOverflow.unshift(firstPart.pop())
+  const firstRowH = Math.max(SKILL_MIN_ROW, Math.min(SKILL_ROW, (ly - footerY) / Math.max(firstPart.length, 1)))
+  skillRows(firstPart, LX, LW, ly, firstRowH, skCol)
+  text(`* trained only   † armor check penalty applies   dot = class skill${skillOverflow.length ? "   (more skills on the next page)" : ""}`, LX, footerY - 8, 5.5, italic, SOFT)
 
   // right column: overflow continues on a new full-width page
   let ry = topOfColumns
@@ -321,6 +350,27 @@ async function buildSheetPdf() {
     }
     line(FX, fy - 2, FX + FW, fy - 2)
     fy -= 5
+  }
+
+  // skills that didn't fit page 1: two columns per page
+  if (skillOverflow.length) {
+    let rest = [...skillOverflow]
+    const gap = 14, cw = (FW - gap) / 2
+    while (rest.length) {
+      section("Skills (continued)")
+      const perCol = Math.floor((fy - 11 - (M + 4)) / SKILL_ROW)
+      const cols = [rest.slice(0, perCol), rest.slice(perCol, 2 * perCol)]
+      rest = rest.slice(2 * perCol)
+      let low = fy
+      cols.forEach((items, i) => {
+        if (!items.length) return
+        const x = FX + i * (cw + gap)
+        const col = skillHeader(x, cw, fy)
+        low = Math.min(low, skillRows(items, x, cw, fy - 11, SKILL_ROW, col))
+      })
+      fy = low - 4
+      if (rest.length) flowPage()
+    }
   }
 
   if (s.spheresModule && s.talents.length) {

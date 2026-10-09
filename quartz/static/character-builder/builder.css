@@ -850,3 +850,13 @@ dialog.picker.wide {
 .mchip button.small {
   padding: 0 0.35rem;
 }
+
+/* Character builder: collapsible sphere sections */
+.sphere-toggle {
+  padding: 0 0.4rem;
+  font-size: 1rem;
+  line-height: 1.2;
+}
+.sphere-block.collapsed .sphere-head {
+  margin-bottom: 0;
+}
