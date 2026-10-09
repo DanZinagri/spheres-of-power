@@ -2496,22 +2496,57 @@ async function openSphereAdder(key) {
   // drawbacks that can't be taken together (sphere-bases.json), with ones already on the character
   const incompatible = base?.incompatible ?? {}
   const takenDraws = new Set(mine.filter((t) => hasTag(t, "drawback")).map((t) => t.name))
+  // what a drawback needs (sphere-bases.json): another drawback, a package, and what its bonus talent must be
+  const requires = base?.requires ?? {}
+  const takenPkgs = new Set(mine.filter((t) => hasTag(t, "package")).map((t) => t.name))
   const why = new Map(draws.map(([e]) => [e.name, h("span", { class: "warn", style: "display:block" })]))
+  // the bonus talent a drawback gives: a choice limited to the talents it allows
+  const talents = index.filter((x) => x.sphere === name && x.kind in TALENT_ENTRY_KINDS)
+  const allowedFor = (r) => talents.filter((t) => r.names.includes(t.name)
+    || [...(t.tags ?? []), ...(t.talentTags ?? [])].some((tg) => r.tags.includes(String(tg).toLowerCase())))
+  const bonusPick = new Map(draws.filter(([e]) => requires[e.name]?.bonus).map(([e]) => {
+    const r = requires[e.name].bonus
+    const list = allowedFor(r)
+    const sel = h("select", { "aria-label": `${e.name}: bonus talent`, style: "display:none;margin-top:.25rem;max-width:100%" },
+      h("option", { value: "" }, list.length ? "Choose its bonus talent…" : "No matching talent in the compendium"),
+      ...list.map((t) => h("option", { value: t.id }, t.name + (t.tags?.length ? ` (${t.tags.join(", ")})` : ""))))
+    return [e.name, sel]
+  }))
   const recheck = () => {
-    const chosen = new Set([...takenDraws, ...draws.filter(([, box]) => box.checked).map(([e]) => e.name)])
-    for (const [e, box] of draws) {
-      if (taken.has(e.id)) continue
-      const clash = (incompatible[e.name] ?? []).filter((n) => chosen.has(n))
-      box.disabled = clash.length > 0 && !box.checked
-      why.get(e.name).textContent = clash.length && !box.checked ? `Not with ${clash.join(", ")}.` : ""
+    // unticking something another choice needs unticks that one too (until nothing changes)
+    for (let pass = 0; pass < 5; pass++) {
+      const chosenD = new Set([...takenDraws, ...draws.filter(([, box]) => box.checked).map(([e]) => e.name)])
+      const chosenP = new Set([...takenPkgs, ...pkgs.filter(([, box]) => box.checked).map(([e]) => e.name)])
+      let changedAny = false
+      for (const [e, box] of draws) {
+        if (taken.has(e.id)) continue
+        const r = requires[e.name] ?? {}
+        const clash = (incompatible[e.name] ?? []).filter((n) => chosenD.has(n))
+        const needD = (r.drawbacks ?? []).filter((n) => !chosenD.has(n))
+        const needP = r.packages?.length && !r.packages.some((n) => chosenP.has(n)) ? r.packages : []
+        const blocked = clash.length || needD.length || needP.length
+        if (blocked && box.checked && !clash.length) { box.checked = false; changedAny = true }
+        box.disabled = !!blocked && !box.checked
+        why.get(e.name).textContent = !box.checked ? [clash.length ? `Not with ${clash.join(", ")}.` : "",
+          needD.length ? `Needs the ${needD.join(" and ")} drawback.` : "",
+          needP.length ? `Needs the ${needP.join(" or ")}${needP.some((n) => /package$/i.test(n)) ? "" : " package"}.` : ""].filter(Boolean).join(" ") : ""
+        const sel = bonusPick.get(e.name)
+        if (sel) sel.style.display = box.checked ? "" : "none"
+      }
+      if (!changedAny) break
     }
   }
-  for (const [, box] of draws) box.addEventListener("change", recheck)
+  for (const [, box] of [...draws, ...pkgs]) box.addEventListener("change", recheck)
   const option = ([e, box], extra) => h("label", { class: "sa-option" }, box,
     h("span", {}, h("b", {}, e.name), taken.has(e.id) ? h("span", { class: "muted" }, " (already taken)") : null,
       e.summary ? h("span", { class: "note", style: "display:block" }, mdToText(e.summary)) : null, extra ?? null,
       why.get(e.name) ?? null,
-      incompatible[e.name]?.length ? h("span", { class: "note", style: "display:block" }, `Incompatible with ${incompatible[e.name].join(", ")}.`) : null))
+      incompatible[e.name]?.length ? h("span", { class: "note", style: "display:block" }, `Incompatible with ${incompatible[e.name].join(", ")}.`) : null,
+      requires[e.name]?.drawbacks ? h("span", { class: "note", style: "display:block" }, `Requires the ${requires[e.name].drawbacks.join(" and ")} drawback.`) : null,
+      requires[e.name]?.packages ? h("span", { class: "note", style: "display:block" }, `Requires the ${requires[e.name].packages.join(" or ")}.`) : null,
+      requires[e.name]?.bonus ? h("span", { class: "note", style: "display:block" },
+        `Bonus talent: ${requires[e.name].bonus.names.concat(requires[e.name].bonus.tags.map((t) => `a (${t}) talent`)).join(" or ")}.`) : null,
+      bonusPick.get(e.name) ?? null))
   const grantsOf = (e) => [...mdToText(e.summary ?? "").matchAll(/gain the ([A-Z][\w’' -]+?) talent/g)].map((m) => m[1])
   const dlg = openDialog(`Add the ${name} sphere`,
     base ? h("p", { class: "note" }, base.summary) : h("p", { class: "muted" }, "No base sphere text found for this sphere."),
@@ -2533,7 +2568,7 @@ async function openSphereAdder(key) {
     drawbacks.length ? h("fieldset", { class: "trad-choice" },
       h("legend", {}, "Drawbacks"),
       h("p", { class: "note" }, "A drawback doesn't count as a talent until it's bought off (tick Bought off on its row later; that costs a talent). A talent a drawback grants is free."),
-      ...draws.map((o) => option(o, grantsOf(o[0]).length ? h("span", { class: "note", style: "display:block" }, `Adds ${grantsOf(o[0]).join(", ")} (free).`) : null))) : null,
+      ...draws.map((o) => option(o, grantsOf(o[0]).length && !requires[o[0].name]?.bonus ? h("span", { class: "note", style: "display:block" }, `Adds ${grantsOf(o[0]).join(", ")} (free).`) : null))) : null,
     h("div", { class: "row add-row" },
       h("button", { class: "primary", onclick: () => add() }, "Add"),
       h("button", { onclick: () => dlg.done() }, "Cancel")))
@@ -2545,14 +2580,25 @@ async function openSphereAdder(key) {
     return mdToText(full?.md ?? e.summary ?? "")
   }
   const row = (extra) => ({ name: "", kind: sphereKind(key) ?? "magic", sphere: key, tags: "", exclude: false, desc: "", ...extra })
+  const problem = h("p", { class: "warn" })
+  dlg.querySelector(".add-row").before(problem)
   const add = async () => {
+    const missing = draws.filter(([e, box]) => box.checked && bonusPick.get(e.name) && !bonusPick.get(e.name).value
+      && bonusPick.get(e.name).options.length > 1).map(([e]) => e.name)
+    if (missing.length) {
+      problem.textContent = `Choose the bonus talent for ${missing.join(", ")}.`
+      return
+    }
     const rows = []
     if (baseBox.checked && !hasBase) rows.push(row({ name: `${name} sphere`, tags: "base sphere", ref: `sphere/${key}`, desc: base ? mdToText(base.md) : "" }))
     for (const [e, box] of pkgs) if (box.checked) rows.push(row({ name: e.name, tags: "package", exclude: true, ref: e.id, desc: await textOf(e) }))
     for (const [e, box] of draws) {
       if (!box.checked) continue
       rows.push(row({ name: e.name, tags: "drawback", exclude: true, boughtOff: false, ref: e.id, desc: await textOf(e) }))
-      for (const g of grantsOf(e)) {
+      const picked = talents.find((t) => t.id === bonusPick.get(e.name)?.value)
+      if (picked) rows.push(row({ name: picked.name, tags: [...(picked.tags ?? []), "granted"].join(", "), exclude: true, grantedBy: e.name,
+        ref: picked.id, desc: `Bonus talent from the ${e.name} drawback (free).\n\n${await textOf(picked)}` }))
+      for (const g of requires[e.name]?.bonus ? [] : grantsOf(e)) {
         const t = index.find((x) => x.sphere === name && x.name.toLowerCase() === g.toLowerCase() && x.kind in TALENT_ENTRY_KINDS)
         rows.push(row({ name: t?.name ?? g, tags: [...(t?.tags ?? []), "granted"].join(", "), exclude: true, grantedBy: e.name,
           ref: t?.id, desc: `Granted by the ${e.name} drawback (free).${t ? `\n\n${await textOf(t)}` : ""}` }))

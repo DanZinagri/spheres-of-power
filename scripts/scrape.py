@@ -4792,6 +4792,56 @@ SPHERE_BONUS_RES = [
 ]
 
 
+def _drawback_requirements(entries: list[dict], draws: list[dict], by_key: dict, key) -> dict:
+    """What a sphere drawback needs: another drawback ("You must possess the Obscura Mage drawback"), a
+    package ("Prerequisites: Herbal package", "(requires (act) or (dance) package)"), and what the bonus
+    talent it grants must be ("You must select the Instill Shapeshift talent with the bonus talent",
+    "a (transformation) talent", "Heavy Counter or Hair Trigger"). Conditional wording ("If ...",
+    "unless ...") isn't enforced."""
+    talents = [e for e in entries if e.get("kind") in ("talent", "advanced talent", "legendary talent", "exceptional talent")]
+    tal_by = {_norm(t["name"]): t["name"] for t in talents}
+    tags = {tg.lower() for t in talents for tg in t.get("tags", []) + t.get("talentTags", [])}
+    packages = [e["name"] for e in entries if e.get("kind") == "package"]
+    pkg_by = {_norm(re.sub(r"\s+package$", "", p, flags=re.I)): p for p in packages}
+    out = {}
+    for e in draws:
+        t = re.sub(r"[*_]", "", e.get("md", "")).replace("’", "'")
+        req: dict = {}
+        # another drawback
+        need = [by_key.get(key(m.group(1))) for m in re.finditer(r"must possess the ([\w' -]+?) drawback to (?:gain|select|take)", t, re.I)]
+        if need := [n for n in need if n]:
+            req["drawbacks"] = need
+        # a package (in the name or the text)
+        pk_text = " ".join([m.group(1) for m in re.finditer(r"\(requires (.+?) package\)", e["name"])]
+                           + [m.group(1) for m in re.finditer(r"Prerequisites?:\s*([^.\n]+?) package", t)]
+                           + [m.group(1) for m in re.finditer(r"must select \(or possess\) the (\S+) package", t)])
+        if pk_text and pkg_by:
+            want = [pkg_by[_norm(w)] for w in re.findall(r"\(?([A-Za-z][\w -]*?)\)?(?:,|\s+or\s+|$)", pk_text.strip()) if _norm(w) in pkg_by]
+            if want:
+                req["packages"] = want
+        # the bonus talent the drawback grants
+        for m in re.finditer(r"(?:^|(?<=[.!?]\s))([^.\n]*?\bmust (?:select|take|choose)\s+(.+?)\s+(?:with|as|when taking)\b[^.\n]*)", t):
+            sentence, obj = m.group(1), m.group(2)
+            if re.match(r"\s*If\b", sentence) or re.search(r"\bunless\b", sentence, re.I) or "bonus talent" not in sentence and "this drawback" not in sentence and "this talent" not in sentence:
+                continue
+            names, tagged = [], []
+            for part in re.split(r",\s*(?:or\s+)?|\s+or\s+", obj):
+                part = part.strip()
+                if (tg := re.search(r"\(([\w ]+)\)", part)) and tg.group(1).lower() in tags:
+                    tagged.append(tg.group(1).lower())
+                    continue
+                n = re.sub(r"^(?:either|any|the|an?)\s+|\s+(?:advanced\s+)?talents?$|\s+as\s+.*$", "", part, flags=re.I).strip()
+                n = re.sub(r"^(?:the)\s+", "", n, flags=re.I)
+                if _norm(n) in tal_by:
+                    names.append(tal_by[_norm(n)])
+            if names or tagged:
+                req["bonus"] = {"names": names, "tags": tagged, "text": sentence.strip()}
+                break
+        if req:
+            out[e["name"]] = req
+    return out
+
+
 def build_sphere_bases() -> int:
     idx = COMPENDIUM_OUT / "index.json"
     if not idx.exists():
@@ -4844,6 +4894,7 @@ def build_sphere_bases() -> int:
                     inc[e["name"]].add(other)
                     inc[other].add(e["name"])
         out[data["sphere"]]["incompatible"] = {k: sorted(v) for k, v in inc.items() if v}
+        out[data["sphere"]]["requires"] = _drawback_requirements(data["entries"], draws, by_key, key)
     COMPENDIUM_OUT.mkdir(parents=True, exist_ok=True)
     (COMPENDIUM_OUT / "sphere-bases.json").write_text(json.dumps(out, ensure_ascii=False), encoding="utf-8")
     return len(out)
