@@ -21,6 +21,7 @@ const KIND_TYPE = {
   "legendary talent": "Talents",
   "cohort job": "Talents",
   "companion archetype": "Talents",
+  "alternate divination": "Spheres",
   // class maps (Commander): its features and the options it picks from
   "class feature": "Class Options",
   "enhanced tactic": "Class Options",

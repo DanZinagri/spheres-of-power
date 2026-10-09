@@ -1,0 +1,1891 @@
+{
+ "sphere": "Divination",
+ "system": "Spheres of Power",
+ "approved": false,
+ "entries": [
+  {
+   "id": "divination/divine",
+   "name": "Divine",
+   "kind": "sphere ability",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#divine",
+   "md": "You may divine to gain information. To divine, you must spend 1 minute meditating, although you may spend a spell point to decrease this time to a single standard action. Divining always has a duration of concentration, but you must spend a full-round action concentrating (you can take no other action except free actions); you are flat-footed while concentrating on divining. Divining reveals information from sources within medium range of you as an emanation; it reveals information each round the effect it is maintained. Divining can penetrate most barriers, but 3 feet of wood or dirt, 1 foot of stone, 1 inch of common metal, or a thin sheet of lead blocks it.\n\nWhen you gain the Divination sphere, you gain the ability to divine for magical auras, learning their strength and location. You do not know the exact caster level of an item or spell, but you may sense the aura’s general strength according to the chart below. To determine the spell school or sphere of the effect, you must succeed at a Knowledge (arcana) check with a DC equal to 15 + 1/2 the caster level.\n\n**Table: Aura Strength**\n\n| Caster Level | Aura Strength |\n| --- | --- |\n| 1-5 | Faint |\n| 6-11 | Moderate |\n| 12-20 | Strong |\n| 21+ | Overwhelming |\n\nA magical aura lingers after its original source dissipates (in the case of spells and sphere effects) or is destroyed (in the case of a magic item). In such a case, divining reveals an aura strength of dim (even weaker than a faint aura). How long the aura lingers at this dim level depends on its original power:\n\n**Table: Lingering Aura**\n\n| Original Strength | Duration of Lingering Aura |\n| --- | --- |\n| Faint | 1d6 rounds |\n| Moderate | 1d6 minutes |\n| Strong | 1d6 x 10 minutes |\n| Overwhelming | 1d6 days |\n\nWhen using Spellcraft to identify the properties of a magic item or ongoing effect, you may use divine in place of the detect magic spell. Outsiders and elementals are not magical in and of themselves, but if they are summoned, the conjuration effect registers.\n\n**Overwhelming Auras:** Whenever an individual divines or senses an aura whose strength is overwhelming, from a source whose Hit Dice or caster level is equal to or greater than the caster's character level + 10, that individual becomes stunned for 1 round.",
+   "options": []
+  },
+  {
+   "id": "divination/alteration",
+   "name": "Alteration",
+   "kind": "alternate divination",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Alternate Divinations",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#alteration",
+   "md": "**Divine Shapechanger:** You may divine for creatures with the shapechanger subtype. The strength of a shapechanger aura is determined according to Table: Shapechanger. If a creature is not a shapechanger but is under the effect of a shapeshift Alteration sphere (or similar) ability, it shows up with a dim aura.\n\n**Table: Shapechanger**\n\n| HD | Strength | Lingering Aura Duration |\n| --- | --- | --- |\n| Under a polymorph effect | Dim | 1 round |\n| 1 or lower | Faint | 1d6 rounds |\n| 2-4 | Moderate | 1d6 minutes |\n| 5-10 | Strong | 1d6 x 10 minutes |\n| 11+ | Overwhelming | 1d6 days |",
+   "options": []
+  },
+  {
+   "id": "divination/blood",
+   "name": "Blood",
+   "kind": "alternate divination",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Alternate Divinations",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#blood",
+   "md": "**Divine Bleeding:** You may divine the location of any creature that has taken bleed damage in the last 10 minutes per caster level or that is under half its maximum hit points. Creatures immune to bleed damage cannot be detected with this divination.",
+   "options": []
+  },
+  {
+   "id": "divination/conjuration",
+   "name": "Conjuration",
+   "kind": "alternate divination",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Alternate Divinations",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#conjuration",
+   "md": "**Divine Unnaturals:** You may divine the presence of outsiders and aberrations. In all other ways, this functions as divining for shapeshifters.",
+   "options": []
+  },
+  {
+   "id": "divination/creation",
+   "name": "Creation",
+   "kind": "alternate divination",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Alternate Divinations",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#creation",
+   "md": "**Divine Components:** You may divine for a material of which you can create using the Creation sphere.",
+   "options": []
+  },
+  {
+   "id": "divination/dark",
+   "name": "Dark",
+   "kind": "alternate divination",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Alternate Divinations",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#dark",
+   "md": "**Divine Dark:** You may divine the light levels of the surrounding area within range. When using this alternate divination, you may spend an additional spell point to also divine the location and size of shadows cast by creatures or objects. You do not gain additional information, such as whether the shadow was cast by a creature or an object, or the size of said creatures or objects.\n\n**Divine Shadow:** You may divine the presence of creatures or objects native to the Plane of Shadow. In all other ways, this functions as divining for shapeshifters. Shadowstuff, such as that created from the fey adept class or those with the sphere-specific drawback Limited Creation (shadowstuff) count as originating from the Plane of Shadow for the purpose of this divination.",
+   "options": []
+  },
+  {
+   "id": "divination/death",
+   "name": "Death",
+   "kind": "alternate divination",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Alternate Divinations",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#death",
+   "md": "**Divine Undead:** You may divine for undead creatures. In all other ways, this functions as divining for shapeshifters.",
+   "options": []
+  },
+  {
+   "id": "divination/destruction",
+   "name": "Destruction",
+   "kind": "alternate divination",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Alternate Divinations",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#destruction",
+   "md": "**Divine Hostility:** You may divine whenever a creature or an object within range takes hit point damage. In addition, you gain knowledge as to the amount and type of damage dealt and from what direction the damage was dealt from. If the source of the damage is inside the area of your divine effect, you also learn what square the source occupied.",
+   "options": []
+  },
+  {
+   "id": "divination/enhancement",
+   "name": "Enhancement",
+   "kind": "alternate divination",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Alternate Divinations",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#enhancement",
+   "md": "**Divine Enhancement:** You may divine what short-term effects creatures you have pinpointed are undergoing. You may divine all creatures you can see within range and determine which (if any) are benefiting from temporary bonuses, and the sources of the bonuses be they magical, alchemical, supernatural, etc.",
+   "options": []
+  },
+  {
+   "id": "divination/fallen-fey",
+   "name": "Fallen Fey",
+   "kind": "alternate divination",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Alternate Divinations",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#fallen-fey",
+   "md": "**Detect Faetouched:** You may divine the location of any creature that possesses the elf, fey, gnome, sidheir, or similar types or subtypes. In all other ways, this functions as divining for shapeshifters.",
+   "options": []
+  },
+  {
+   "id": "divination/fate",
+   "name": "Fate",
+   "kind": "alternate divination",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Alternate Divinations",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#fate",
+   "md": "**Detect Loyalties:** You may divine the top three general things that matter most to the creatures you can see within range. Examples of base loyalties may include but are not limited to: Country, Faith, Family, Power, and Self. Subcategories for base loyalties may also exist where appropriate such as Self (survival) or Self (perfection), but they are generally not revealed with Detect Loyalties. While you do not learn specific details such as proper names of the associated loyalties, you do acquire the order in which the loyalties stand.\n\nFor example, a paladin might have loyalties of Country, Power, and Self, but would not reveal the particular country they are loyal to or the particular power they serve. Mindless creatures might have only 1 loyalty such as Self (survival), whereas creatures with low animal-like intelligence might only have 2 loyalties such as Family (pack) and Self (survival). Only the top three loyalties are revealed, even if they have more.\n\nWhen you divine for loyalties, you may name a specific motivation. If you do, you detect whether creatures in range possess that motivation and whether it is a minor or major motivation.\n\n**Divine Alignment:** You may divine for a specific part of the alignment spectrum: evil, good, lawful, or chaotic. The strength of these auras are determined according to Chart: Alignment.\n\nTraps, poisons, and other potential perils have no alignment. Creatures with aligned intents (killing in anger, aiding those in need for their own sakes, etc.) may temporarily detect according to their actions.\n\n**Chart: Alignment**\n\n|  | Aura Power | | | | |\n| --- | --- | --- | --- | --- | --- |\n| Creature/Object | None | Faint | Moderate | Strong | Overwhelming |\n| Aligned Creature^ (HD) | 4 or lower | 5-10 | 11-25 | 26-50 | 51 or higher |\n| Aligned Undead (HD) | - | 2 or lower | 3-8 | 9-20 | 21 or higher |\n| Aligned Outsider (HD) | - | 1 or lower | 2-4 | 5-10 | 11 or higher |\n| Cleric^^ or paladin of an aligned deity (class levels) | - | 1 | 2-4 | 5-10 | 11 or higher |\n| Aligned magic item or spell (caster level) | 5 or lower | 6-10 | 11-15 | 16-20 | 21 or higher |\n\n^ Except for undead and outsider, which have their own entries on the table.\n^^ Some characters who are not clerics may radiate an aura of equivalent power. The class description will indicate whether this applies.\n\n*Source: Arcforge Players Compendium*\n\n**Divine Fate:** You may divine the alignment auras of creatures you can see within range. Such creatures emit a colored aura depending upon what alignments or loyalties you share with them. Creatures that share the same moral alignment (good/neutral/evil) emit a red aura. Creatures that share the same ethical alignment (lawful/neutral/chaotic) emit a blue aura. Creatures that share a primary base loyalty (see Detect Loyalties) emit a yellow aura. Creatures that share multiple colors have their colors combined, i.e. a creature that shares the primary base loyalty of family and the ethical alignment of chaos will emit a green aura. Creatures that share all three primary colors (red, blue, and yellow) emit a glowing white aura. Refer to Table: Divine Fate below for more information on how colored auras combine. Creatures that do not share any alignment or loyalties do not emit any aura that you can see.\n\n**Table: Divine Fate**\n\n| Primary Colors | Secondary/Combination Color |\n| --- | --- |\n| Blue and red | Purple |\n| Blue and yellow | Green |\n| Red and yellow | Orange |\n| Blue, red, and yellow | White |",
+   "options": []
+  },
+  {
+   "id": "divination/illusion",
+   "name": "Illusion",
+   "kind": "alternate divination",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Alternate Divinations",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#illusion",
+   "md": "**Divine Illusions:** You may divine for illusions. This grants you a free Will save or Perception check (in the case of illusionary disguises or invisibility) against any illusions or invisibility within the area.",
+   "options": []
+  },
+  {
+   "id": "divination/life",
+   "name": "Life",
+   "kind": "alternate divination",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Alternate Divinations",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#life",
+   "md": "**Divine Life:** You may divine the wound thresholds and conditions of seen living creatures. In addition to learning the creature’s wound status, you also learn which creatures, if any, are afflicted with a disease. The strength of Divine Life’s aura reveals a creature’s current wound threshold and condition according to Chart: Divine Life.\n\n**Chart: Divine Life**\n\n| Aura Strength | Wound Threshold | Current Hit Points |\n| --- | --- | --- |\n| None | Dead | Dead |\n| Dim | Disabled | 0 or fewer hit points remaining. |\n| Faint | Critical | Less than 25% of full normal hit points remaining. |\n| Moderate | Wounded | 25% to 50% of full normal hit points remaining. |\n| Strong | Grazed | 50% to 75% of full normal hit points remaining. |\n| Overwhelming | Healthy | Has at least 75% of full normal hit points |",
+   "options": []
+  },
+  {
+   "id": "divination/light",
+   "name": "Light",
+   "kind": "alternate divination",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Alternate Divinations",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#light",
+   "md": "**Ultravision:** You may divine to give yourself an added level of perception. Once per round you may attempt a Perception check as a free action (normally a move action) with a circumstance bonus to Perception checks equal to your caster level.",
+   "options": []
+  },
+  {
+   "id": "divination/mana",
+   "name": "Mana",
+   "kind": "alternate divination",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Alternate Divinations",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#mana",
+   "md": "**Divine Mana Capacity:** If you possess the Mana sphere, you may divine for the amount of spell points a creature has. Each round while divining for mana capacity, you may choose one creature you can see within range each round to learn their current amount of real spell points, temporary spell points (as well as when they end), and maximum spell point pool capacity.",
+   "options": []
+  },
+  {
+   "id": "divination/mind",
+   "name": "Mind",
+   "kind": "alternate divination",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Alternate Divinations",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#mind",
+   "md": "**Divine Cares Given [Jester's HB]:** You may divine for a specific subject of interest, chosen when you divine. This is similar to reading the surface thoughts of nearby creatures, but only locates creatures with strong opinions about a specific topic or subject chosen when you divine, such as politics, war, entertainment, or professional associations. Creatures may have a positive, negative, or uninterested opinion regarding a subject. Only creatures with a positive or negative opinion are located. This effect does not discern what opinion each located creature may hold, only that the creature has an opinion.\n\nFor example, divining about a specific criminal organization, both members of the organization and opposing factions may hold strong feelings, positive or negative. Unconcerned or uninvolved individuals would not be located by the effect, and a located creature’s precise opinion is not made known to you.\n\n**Divine Charm:** You may divine for the presence of charm, compulsion, possession, and Mind sphere effects. You do not need to attempt a Knowledge (arcana) check to identify the school or sphere of these abilities.",
+   "options": []
+  },
+  {
+   "id": "divination/nature",
+   "name": "Nature",
+   "kind": "alternate divination",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Alternate Divinations",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#nature",
+   "md": "**Divine Elements:** You may divine for the elements, depending on which packages you possess.\n\n- If you possess the (air) package, you may divine and identify the presence of breathable air, and toxic gases or vapor (or lack thereof if in a vacuum).\n- If you possess the (earth) package you may divine and identify the presence of dirt, gems, sand, and stone.\n- If you possess the (fire) package you may divine the presence and strength of fires.\n- If you possess the (metal) package, you may divine and identify the presence of ore deposits and metals.\n- If you possess the (plant) package you may divine the location of plantlife and plant creatures. In all other ways, this functions as divining for shapeshifters.\n- If you possess a Nature (spirit) talent, you may divine the location of animal creatures. In all other ways, this functions as divining for shapeshifters.\n- If you possess the (water) package you may divine the location and size of bodies of water.",
+   "options": []
+  },
+  {
+   "id": "divination/protection",
+   "name": "Protection",
+   "kind": "alternate divination",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Alternate Divinations",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#protection",
+   "md": "**Divine Protection:** You may divine all creatures you have pinpointed within range and determine which of those creatures have the lowest and highest armor class. Alternatively, you may divine the lowest and highest saving throw each of these creatures has. You do not however determine the values for any of these attributes.",
+   "options": []
+  },
+  {
+   "id": "divination/telekinesis",
+   "name": "Telekinesis",
+   "kind": "alternate divination",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Alternate Divinations",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#telekinesis",
+   "md": "**Divine Density:** You may divine the density and weight of nearby objects and creatures that you can see. Utilize the following chart when determining density:\n\n**Chart: Divine Density**\n\n| Density | Example | Aura Strength |\n| --- | --- | --- |\n| Weightless | Balsa wood, feathers, shredded paper | Faint |\n| Light | Charcoal, cork, darkwood, flour, hay, snow | Moderate |\n| Dense | Flesh, iron, mithral, sand, soil, stone, water, wood | Strong |\n| Superdense | Adamantine, lead, gold, silver | Overwhelming |\n\n**Divine Force:** You may divine the presence or absence of creatures with the incorporeal subtype. For the purpose of this ability, creatures such as unseen servant and other similar creatures of force are considered to have the incorporeal subtype. This ability will not reveal the general location or direction in which the incorporeal creatures are, it will, however, give you knowledge of the incorporeal creature’s aura utilizing the same table as divining for shapeshifters.",
+   "options": []
+  },
+  {
+   "id": "divination/time",
+   "name": "Time",
+   "kind": "alternate divination",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Alternate Divinations",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#time",
+   "md": "*Source: Arcforge Players Compendium*\n\n**Divine Time:** You may divine the events that happened within range. You can only divine what occurred up to 1 hour per caster level in the past. When you divine time you are only given the following details: The number of creatures that were in the area, their size, how long they remained in the area, and any movements they made while in the area. In addition, if objects were left unattended or unattended objects were moved during this time, you learn the size and vague shape of such objects.\n\n*Source: Arcforge Players Compendium*",
+   "options": []
+  },
+  {
+   "id": "divination/war",
+   "name": "War",
+   "kind": "alternate divination",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Alternate Divinations",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#war",
+   "md": "**Divine Allegiance:** You may target an individual within range which allows you to divine through mud, blood, sweat, and wear or tear upon cloth or armor as if such was not there, revealing any colors, patterns, or insignia it may have previously bore. In addition, other creatures within range of the target glows with a particular aura allowing the caster to know who they openly allied with and who are not. Creatures under the affect of mind-affecting effects (such as charms and compulsions) are shown to be loyal to their controller and their allies. This does not properly function on those who are using subterfuge or are pretending to be on someone’s side, as it will present them as who they pretend to side with. Once each round as a free action while maintaining concentration on this effect, you may target a different individual within range with this divine ability.",
+   "options": []
+  },
+  {
+   "id": "divination/warp",
+   "name": "Warp",
+   "kind": "alternate divination",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Alternate Divinations",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#warp",
+   "md": "Alternatively, you may divine the timeline of origin for creatures you can perceive within range, learning which alternate timelines these targets originally come from using the same parameters as determining your current timeline. If you are not aware of the timeline that a target came from, this divination provides a new name and distinguishing detail for this new timeline.\n\n*Source: Arcforge Players Compendium*\n\n**Divine Warp:** You may divine the presence of portals, rifts (including extradimensional spaces), and teleportation circles, both active and inactive within range. If you perceived a target teleport within the last hour, this also reveals to you the general direction and distance of their teleportation. If the creature teleports to a different plane, you immediately learn this, but you do not learn to what plane the creature teleported unless your caster level is at least 10. Should you find yourself on that plane before the hour is up, you can divine their general direction and distance.",
+   "options": []
+  },
+  {
+   "id": "divination/weather",
+   "name": "Weather",
+   "kind": "alternate divination",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Alternate Divinations",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#weather",
+   "md": "**Divine Weather:** You may divine the weather at your location for the next 24 hours, providing you with advance warning of storms, tornadoes, and so on. This reveals only the weather that would arise naturally and does not take into account any magical occurrences that might change the weather.",
+   "options": []
+  },
+  {
+   "id": "divination/sense",
+   "name": "Sense",
+   "kind": "sphere ability",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#sense",
+   "md": "As a standard action, you may grant yourself paranormal senses for 1 hour/caster level. When you gain the Divination sphere, you gain the following sense.\n\n### Divination Talent Types\n\nSome talents are marked (divine). These grant you different things you may divine for in place of magic.\n\nSome talents are marked (sense). These talents grant you additional senses you may grant.",
+   "options": [
+    {
+     "name": "Read Magic",
+     "tags": [],
+     "talentTags": [],
+     "anchor": "read-magic",
+     "md": "You may spend a spell point to gain a sense that allows you to decipher all magical writings, such as those found in books, scrolls, on weapons, or in other places intelligible to you. This does not invoke the magic contained in the writing, although it may do so in the case of a cursed or trapped scroll. Furthermore, once you have read a magical inscription through this ability, you are thereafter able to read that particular writing even without this sense. You can read at the rate of one page (250 words) per minute. You can identify glyphs, runes, and symbol spells with a Spellcraft check (DC 10 + 1/2 caster level)."
+    }
+   ]
+  },
+  {
+   "id": "divination/alarm-utility",
+   "name": "Alarm",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Divination Talents",
+   "tags": [],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#alarm-utility",
+   "md": "When you divine, instead of concentrating on the effect, you may spend an additional spell point to create an immobile sensor within your Divination sphere range which lasts for 10 minutes per caster level or 1 hour per caster level if you spend an additional spell point. This sensor can be detected as though it were a scrying sensor (Perception DC 20 + caster level) and dispelled.\n\nWhen you create a sensor, you may choose to either divine for creatures, detecting any creature which enters the sensor’s range, or divine with a (divine) effect which locates information in an area (such as the base Divination sphere effect, the Divine Undead alternate divination, or the Detect Spellcaster talent, but not the Ultravision alternate divination or the Augury talent).\n\nThe sensor constantly divines the area for the chosen information as though you were divining, and the sensor’s ability to divine is modified by any effects that alter your divine ability (such as the Limited Penetration or Shaped Divination drawbacks would affect the alarm’s ability to penetrate materials or require you to choose a direction in a cone or line when creating the alarm). The sensor does not pinpoint or reveal the location of something it divines, but otherwise reveals the presence, number, and power of each detected piece of chosen information (such as revealing the presence, number, and power of all fey with Detect Faetouched, but not their location).\n\nOptionally, when creating a sensor, you may choose to set any combination of an audible alarm, a mental alarm, or a password.\n\n- An audible alarm produces a gentle sound, centered on the sensor’s location, whenever the sensor detects something, such as a chime or bell. This sound can be heard within the sensor’s range, but can be muffled by walls and doors, reducing the range of the sound by 10 feet for each interposing door or wall. Silence effects can muffle this sound.\n- A mental alarm alerts you with a mental “ping” whenever the sensor detects something and you are within 1 mile of the sensor. This ping can awaken you from sleep, but otherwise does not disturb concentration. Silence effects cannot muffle this ping.\n- A password is a phrase chosen when creating a sensor with this talent. Any creature who speaks the password out loud when entering the sensor’s range is not detected by the sensor.",
+   "options": []
+  },
+  {
+   "id": "divination/expanded-divinations",
+   "name": "Expanded Divinations",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Divination Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#expanded-divinations",
+   "md": "Pick any three alternate divinations which you do not currently possess. You gain access to those alternate divinations as if you possessed the requisite spheres. If the alternate divination has an additional prerequisite such as the Nature sphere’s Divine Elements, you pick which one you gain access to upon acquiring it. This talent may be taken multiple times. Each time you may pick three alternate divinations which you do not possess.",
+   "options": []
+  },
+  {
+   "id": "divination/fast-divinations",
+   "name": "Fast Divinations",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Divination Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#fast-divinations",
+   "md": "Divining takes 1 round instead of 1 minute to perform without a spell point.",
+   "options": []
+  },
+  {
+   "id": "divination/grant-divination",
+   "name": "Grant Divination",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Divination Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#grant-divination",
+   "md": "You may grant your senses to a touched target instead of only yourself. You may also spend a spell point to grant a divine ability to a touched target. The touched target must concentrate to maintain the divine ability.",
+   "options": []
+  },
+  {
+   "id": "divination/greater-divine-range",
+   "name": "Greater Divine",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Divination Talents",
+   "tags": [],
+   "talentTags": [
+    "range"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#greater-divine-range",
+   "md": "Your divine ability works out to long range instead of medium range.",
+   "options": []
+  },
+  {
+   "id": "divination/instill-divination-instill",
+   "name": "Instill Divination",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Divination Talents",
+   "tags": [],
+   "talentTags": [
+    "instill"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#instill-divination-instill",
+   "md": "As a standard action you may touch a small container of liquid and instill a sense inside it, or spend a spell point to instill a divine ability inside it. This liquid functions as a potion or oil.\n\nIf you do not have the ability to grant divine or sense effects to other creatures, the instilled liquid is only usable by you. An instilled liquid remains potent until you rest to regain spell points. If you have equipment on hand (such as an alchemy lab), the cost of bottles and water is considered negligible.\n\nYou may target food but not an already-magical item, such as a potion. All spell points must be spent and all variables of the sphere effect must be chosen at the time the instilled liquid is created. You cannot instill multiple effects in a single liquid, nor create multiple instilled liquids with a single action.",
+   "options": []
+  },
+  {
+   "id": "divination/lingering-divination",
+   "name": "Lingering Divination",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Divination Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#lingering-divination",
+   "md": "When you divine, the ability lasts 2 rounds after you stop concentrating.",
+   "options": []
+  },
+  {
+   "id": "divination/revealing-strike-strike",
+   "name": "Revealing Strike",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Divination Talents",
+   "tags": [],
+   "talentTags": [
+    "strike"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#revealing-strike-strike",
+   "md": "*Source: Expanded Spheres: Baron's Lost Apocrypha*\n\nAs a standard action, you may make a single weapon attack in conjunction with using a [divine] or [sense] effect. This casting cannot be reduced below a standard action, and does not provoke attacks of opportunity, unless as usual if making a ranged attack. If the target is struck by the attack, it is also affected by the [divine] or [sense]. An unwilling target is allowed a Will save to negate [divine] or [sense] if a saving throw is not normally allowed. If using a scatter weapon, the [divine] or [sense] only applies to a single target, chosen at the time of attack.\nIn addition, when you successfully hit a target with a weapon attack made as a standard action, you may spend a spell point as an immediate action to divine the target. A divine effect cast using this talent must be one which gathers information about a creature, such as divining to gain information with the Divination sphere base sphere effect or (divine) talents such as Detect Spellcaster or Detect Thoughts.",
+   "options": []
+  },
+  {
+   "id": "divination/augury-divine-utility",
+   "name": "Augury",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Divine Talents",
+   "tags": [
+    "divine"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#augury-divine-utility",
+   "md": "You may spend a spell point to divine whether a particular action will bring good or bad results for you in the immediate future.\n\nThe base chance for receiving a meaningful reply is 70% + 1% per caster level, to a maximum of 90%; this roll is made secretly.\n\nA question may be so straightforward that a successful result is automatic, or so vague as to have no chance of success. If the augury succeeds, you get one of four results:\n\n- Weal (if the action will probably bring good results).\n- Woe (for bad results).\n- Weal and woe (for both).\n- Nothing (for actions that do not have especially good or bad results).\n\nIf the check fails, you get the “nothing” result. A caster who gets the “nothing” result has no way to tell whether it was the consequence of a failed or successful augury.\n\nThe augury can see into the future up to one hour per caster level, so anything that might happen after that does not affect the result. Thus, the result might not take into account the long-term consequences of a contemplated action. All auguries cast by the same person, in the same day about the same topic, use the same die result as the first casting.",
+   "options": []
+  },
+  {
+   "id": "divination/detect-secrets-divine-utility",
+   "name": "Detect Secrets",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Divine Talents",
+   "tags": [
+    "divine"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#detect-secrets-divine-utility",
+   "md": "You may spend a spell point to divine for things expressly designed to be hidden. This includes secret doors, hidden caches, and secret compartments. Not only does this detect the presence of such secrets, but it also gives you knowledge of their trigger mechanisms. This only detects doors, passages, and openings specifically designed to avoid detection.",
+   "options": []
+  },
+  {
+   "id": "divination/detect-spellcaster-divine",
+   "name": "Detect Spellcaster",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Divine Talents",
+   "tags": [
+    "divine"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#detect-spellcaster-divine",
+   "md": "You may spend a spell point to divine the spellcasting capabilities of a creature you can see within range, utilizing the chart below. Targeted individuals who only have extraordinary and supernatural abilities show up as having no spellcasting aura, whereas those who have spherecasting, spells, or spell-like abilities show an aura depending on the highest effective spell level of an ability they can use. As always, treat a spherecaster’s caster level divided by 2 as their effective spell level. You may also attempt a Spellcraft check to discover the caster’s casting tradition, even if they have not produced any magical effects for you to observe.\n\nMulticlass core spellcasting classes only reveal as the highest aura between the two. Spherecasters with varying caster levels depending on spheres show auras according to their current highest sphere casting ability. If you are participating in a setting with other forms of magic or spellcasting systems, they are detected as appropriate.\n\n**Chart: Detect Spellcaster**\n\n| Class Example | Highest Effective Spell Level | Aura Strength |\n| --- | --- | --- |\n| Core human fighter | Only natural, (Ex), or (Su) abilities | None |\n| Armorist (CL 1) | Level 0-1 spells | Dim |\n| Hedgewitch (CL 5) | Level 2-3 spells | Faint |\n| Mageknight (CL 10) | Level 4-5 spells | Moderate |\n| Eliciter (CL 14) | Level 6-7 spells | Strong |\n| Fey adept (CL 18) | Level 8 or higher spells | Overwhelming |",
+   "options": []
+  },
+  {
+   "id": "divination/detect-thoughts-divine-utility",
+   "name": "Detect Thoughts",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Divine Talents",
+   "tags": [
+    "divine"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#detect-thoughts-divine-utility",
+   "md": "You may divine the emotions of creatures you can see within range (Will negates), and you gain a circumstance bonus to Sense Motive checks equal to 1/2 your caster level vs. creatures you have thus successfully divined. You do not know the motivation or source behind why a creature is feeling the emotion. If you spend an additional spell point, you divine not only the emotions of those within range, but also the surface thoughts (Will negates).",
+   "options": []
+  },
+  {
+   "id": "divination/divine-biohazard-divine",
+   "name": "Divine Biohazard",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Divine Talents",
+   "tags": [
+    "divine"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#divine-biohazard-divine",
+   "md": "You may divine the presence of any diseases, poisons, or radiation within range. You determine whether any creature, object, or area has been poisoned, is poisonous, carries any sort of disease or infestation, or possesses any abilities which can inflict the sickened or nauseated conditions. You can determine the exact type of poison with a DC 20 Wisdom check. A character with the Craft (alchemy) skill may try a DC 20 Craft (alchemy) check if the Wisdom check fails, or may try the Craft (alchemy) check prior to the Wisdom check. If there is a disease present, you know what disease it is and its effects. You gain an insight bonus on Heal checks equal to half your caster level to treat a disease you divine with this sphere effect.",
+   "options": []
+  },
+  {
+   "id": "divination/divine-future-divine",
+   "name": "Divine Future",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Divine Talents",
+   "tags": [
+    "divine"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#divine-future-divine",
+   "md": "You may divine for a glimpse of the future, giving yourself insight into the happenings of that day. At any time during that day, you may add an insight bonus equal to 1d4 + 1 per 5 caster levels to one attack roll, skill check, saving throw, ability check, initiative roll, or combat maneuver roll you are about to make.\n\nAs an immediate action, you may instead grant this benefit to an ally who can both see and hear you. You may take this talent multiple times, to a maximum of 5 times. You can only have one use of this ability waiting to be used at a time per time you have taken this talent. Every time you divine for the future, you regain all your uses of this ability for that day.",
+   "options": []
+  },
+  {
+   "id": "divination/divine-information-divine-utility",
+   "name": "Divine Information",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Divine Talents",
+   "tags": [
+    "divine"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#divine-information-divine-utility",
+   "md": "You may spend a spell point to divine for information. This grants you the ability to reroll a failed Knowledge check (or to attempt a Knowledge check untrained), with an insight bonus equal to 1/2 your caster level. You may only divine for information once per Knowledge check.",
+   "options": []
+  },
+  {
+   "id": "divination/divine-relationships-divine-utility",
+   "name": "Divine Relationships",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Divine Talents",
+   "tags": [
+    "divine"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#divine-relationships-divine-utility",
+   "md": "*Source: Baron's Hallowed Archive*\n\nYou can determine whether or not two or more creatures have any sort of relationship. The amount of information gleaned depends on how long you study a particular area or set of subjects.\n\n**1st round:** Whether or not the subjects share any sort of interpersonal relationship (be it a friendship, romance, or blood relation).\n\n**2nd round:** Number of related subjects and their general relationships to one another. The types of relationship divined by this talent are generally divided between blood, friendship, professional, familial, and romantic, although other terminology may be utilized based on setting at GM discretion. For example, divining a couple would reveal a romantic relationship while divining a parent and their biological child would reveal both a blood and familial relationship.\n\n**3rd round:** Precise relationship between subjects in the area. In the above examples, this divination would clarify that the couple are committed lovers and that the family is parent and child. A target’s Will save prevents you from determining its exact relationship with another creature, and only one subject needs to succeed at this save to prevent you from determining its relationship with another creature. (So, for instance, if two brothers are in the area and one succeeds at his Will save, you could tell that they are siblings, but could not distinguish whether they are full- or half-siblings.)\n\nAlthough this talent can discern blood relations and personal relationships between people, it cannot divine legal associations and would have no way of determining constructs such as marriage, parental rights, or the legitimacy of children.",
+   "options": []
+  },
+  {
+   "id": "divination/divine-treasure-divine-utility",
+   "name": "Divine Treasure",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Divine Talents",
+   "tags": [
+    "divine"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#divine-treasure-divine-utility",
+   "md": "You may divine the presence of valuable items within range. Items exude an aura depending on their gold piece value and collections of material (such as piles of gold coins, a bushel of exotic fruit, or chests full of gemstones) radiate their auras as a single aura. You gain an insight bonus on Appraise checks equal to half your caster level to discern the value of objects you divine with this sphere effect. Utilize the following chart when determining value:\n\n**Table: Divine Treasure values and auras**\n\n| Value | Examples | Aura |\n| --- | --- | --- |\n| Inconsequential (10 gp or less) | Commonplace clothing and goods, simple tools and weapons | Faint |\n| Valuable (11-999 gp) | Armor, expensive clothing, jewelry | Moderate |\n| Incredibly valuable (1,000-9,999 gp) | Magic items, finely-crafted jewelry | Strong |\n| Extremely valuable (10,000 gp or more) | Powerful magic items, exotic relics | Overwhelming |",
+   "options": []
+  },
+  {
+   "id": "divination/dowsing-divine-utility",
+   "name": "Dowsing",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Divine Talents",
+   "tags": [
+    "divine"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#dowsing-divine-utility",
+   "md": "You may spend a spell point to divine the location of a creature or object within range. This may be a specific creature or object or a kind of creature or object, but either way you must have a clear mental image of the creature or object to divine for it (thus, you could not divine broadly for traps, creatures of a broad creature type, etc.). If divining for a kind of creature or object, you only locate the closest item of that kind. This method of using divine is not blocked by wood or stone, but is still blocked by lead.",
+   "options": []
+  },
+  {
+   "id": "divination/object-reading-divine-utility",
+   "name": "Object Reading",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Divine Talents",
+   "tags": [
+    "divine"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#object-reading-divine-utility",
+   "md": "You may perform psychometry on a target object you touch gaining information about its history or previous owners, including its creator. In addition to the information you acquire below, you gain a circumstance bonus to Appraise checks with that object equal to 1/2 your caster level for as long as you continue to divine the object. For every 1 minute you divine the object you gain one additional piece of information found in the following order: Last owner’s race, last owner’s gender, last owner’s age, last owner’s alignment, how the last owner lost or gained the object. Upon learning this last piece of information, you may spend a spell point, if you do you begin to learn information on the owner before the last at the same rate in the same order. Should object reading be interrupted for 2 or more consecutive rounds, you must start again at the beginning unless you spend 1 spell point per past owner.",
+   "options": []
+  },
+  {
+   "id": "divination/sensory-overload-divine",
+   "name": "Sensory Overload",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Divine Talents",
+   "tags": [
+    "divine"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#sensory-overload-divine",
+   "md": "You may spend a spell point and target a creature you can see within range; instead of gaining information, you instead flood all of its senses (and temporarily granting senses that it does not normally have) to overload it with information. The target cannot take any actions, not even walking, and is considered flat-footed. When first casting Sensory Overload and at the end of each round that you continue to concentrate on the effect, the targeted creature takes your caster level in nonlethal damage (Fortitude negates), and may attempt to end Sensory Overload with a Will save. Creatures that are mindless are particularly vulnerable to this effect and take a -2 penalty on their saves.",
+   "options": []
+  },
+  {
+   "id": "divination/viewing-divine-utility",
+   "name": "Viewing",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Divine Talents",
+   "tags": [
+    "divine"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#viewing-divine-utility",
+   "md": "You may spend a spell point to divine, transferring your point of view to any point within range. You may see and hear from this location. This method of using divine is not blocked by wood or stone, but is still blocked by lead. However, the locale must be known—a place familiar to you, or an obvious one such as a distance and direction. Once you have selected the locale, the sensor does not move, but you can rotate it in all directions to view the area as desired, in all ways as if you were standing where your sensor is located. This ability creates a scrying sensor, which can be detected (Perception DC 20 + caster level) and dispelled.",
+   "options": []
+  },
+  {
+   "id": "divination/witness-the-city-divine-utility",
+   "name": "Witness The City",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Divine Talents",
+   "tags": [
+    "divine"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#witness-the-city-divine-utility",
+   "md": "You may spend a spell point to see, hear, smell, feel, and even taste a torrent of past scenes and pieces of conversations related to anything in a settlement you are currently in. At the end of each of your turns for the duration of this divination, attempt a single Diplomacy check to gather information as though you had spent 1d4 hours talking to local people, without having to use an action to do so. Multiple Diplomacy checks made to gather information on the same topic always grants the same information as the first check. You can use your Perception bonus in place of your Diplomacy bonus if you so wish, but with a -5 penalty.\n\n**Note:** Settlements range in population size from fewer than 20 (thorp) to greater than 25,000 (metropolis). In order to maintain the balance of this talent, it is suggested that when working with particularly large settlements that GMs restrict the use of the talent to districts of the settlement.",
+   "options": []
+  },
+  {
+   "id": "divination/battlefield-sense-sense",
+   "name": "Battlefield Sense",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Sense Talents",
+   "tags": [
+    "sense"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#battlefield-sense-sense",
+   "md": "You may spend a spell point to grant yourself greater perception. You can no longer be flanked, except by a creature with 4 more rogue levels than your caster level.",
+   "options": []
+  },
+  {
+   "id": "divination/blindfolded-oracle-sense",
+   "name": "Blindfolded Oracle",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Sense Talents",
+   "tags": [
+    "sense"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#blindfolded-oracle-sense",
+   "md": "You may spend a spell point to grant yourself blindsense to a range of close. You must close your eyes to use this ability. For the purpose of this ability, opening or closing your eyes is a free action you may take once per round. You may spend an additional spell point to upgrade this ability to blindsight.",
+   "options": []
+  },
+  {
+   "id": "divination/detect-scrying-sense",
+   "name": "Detect Scrying",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Sense Talents",
+   "tags": [
+    "sense"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#detect-scrying-sense",
+   "md": "You may spend a spell point to detect the scryings of others. Any attempt to scry or divine on a location or creature within close range of you (unless you purposefully lower this defense) becomes impossible unless the caster succeeds in a magic skill check against you. In addition, you sense if any creature within range is using the divine ability or a divination spell, as well as the location of any sensors in the area (such as with the Viewing talent or the clairaudience/clairvoyance spell). You become aware of any attempt to scry on you, such as with a divination (scrying) school spell or the Scrying advanced Divination talent. If these spells and effects originate within your sense’s area, you immediately know their location. Otherwise, if you match or exceed the other caster in an opposed magic skill check, you gain a visual image of the diviner and know their direction and distance from you. You may suppress or resume this sense as a free action.",
+   "options": []
+  },
+  {
+   "id": "divination/discern-individual-sense",
+   "name": "Discern Individual",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Sense Talents",
+   "tags": [
+    "sense"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#discern-individual-sense",
+   "md": "You may spend a spell point to gain a sense granting an insight bonus to monster lore equal to 1/2 your caster level (minimum 1). You may attempt monster lore checks untrained.",
+   "options": []
+  },
+  {
+   "id": "divination/foreshadow-sense",
+   "name": "Foreshadow",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Sense Talents",
+   "tags": [
+    "sense"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#foreshadow-sense",
+   "md": "You may spend a spell point to gain a sense that warns you of impending danger. You are not flat-footed during the surprise round or the first round of combat before you act, and gain a +1 dodge bonus to AC, and a +2 bonus to Reflex saves and initiative checks. These bonuses increase by 1 for every 10 caster levels possessed.\n\n**Normal:** You are flat-footed until you have acted once in the initiative order.",
+   "options": []
+  },
+  {
+   "id": "divination/ghost-sight-sense",
+   "name": "Ghost Sight",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Sense Talents",
+   "tags": [
+    "sense"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#ghost-sight-sense",
+   "md": "You may spend a spell point to gain a sense that adds your caster level to Perception checks made to notice invisible or ethereal creatures. If you succeed at this check, the creature’s outline becomes visible to you. This negates both the usual penalties you would suffer attacking an invisible creature, and the bonuses the creature would normally gain against you. This continues until you lose line of sight to the creature, in which case you must succeed at a new Perception check to see them.",
+   "options": []
+  },
+  {
+   "id": "divination/logos-sense",
+   "name": "Logos",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Sense Talents",
+   "tags": [
+    "sense"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#logos-sense",
+   "md": "You may spend a spell point to understand all spoken and written words, regardless of language. You may spend an additional spell point to also be understood by any creature with a language. You do not learn the creature’s language, but instead every creature hears you speak in whatever language is most comfortable for it.\n\nWhile this sense is active, you may understand languages even if you lack the senses to normally interpret them. For example, a blind character can use this sense to “read” written language by touching it or a deaf character can use it to read the lips of any creature they can perceive.",
+   "options": []
+  },
+  {
+   "id": "divination/nature-sense-sense",
+   "name": "Nature Sense",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Sense Talents",
+   "tags": [
+    "sense"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#nature-sense-sense",
+   "md": "You may spend a spell point as a standard action to gain a special sense that grants you a +1 bonus on Knowledge (nature) and Survival checks. This bonus increases by +1 every 5 caster levels. You may dismiss this sense at any time as an immediate action to reroll any failed Survival check avoiding natural hazards or getting lost, gaining a bonus to the roll equal to that granted by Nature Sense. This stacks with any class features with the same name.",
+   "options": []
+  },
+  {
+   "id": "divination/prescience-sense",
+   "name": "Prescience",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Sense Talents",
+   "tags": [
+    "sense"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#prescience-sense",
+   "md": "You may spend a spell point to gain a special sense granting a +1 insight bonus to attack rolls. This bonus increases by +1 every 10 caster levels. In addition, you may dismiss this sense before making an attack or combat maneuver to instead gain an insight bonus of 10 + 1/2 your caster level to the roll as a free action.",
+   "options": []
+  },
+  {
+   "id": "divination/prying-sight-sense",
+   "name": "Prying Sight",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Sense Talents",
+   "tags": [
+    "sense"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#prying-sight-sense",
+   "md": "You may spend a spell point and target a creature within close range, allowing you to borrow the target’s vision as though it were your own. An unwilling creature may attempt a Will saving throw to negate this effect. At any time during this effect, as long as the target is within long range, you may concentrate on this effect as a move action and perceive that creature’s surroundings as if you were standing where that creature was, granting you the ability to see, smell, hear and otherwise perceive things as though you were the target. A target is not made aware when you perceive the target’s surroundings using their senses.",
+   "options": []
+  },
+  {
+   "id": "divination/scent-sense",
+   "name": "Scent",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Sense Talents",
+   "tags": [
+    "sense"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#scent-sense",
+   "md": "You may spend a spell point to gain scent. You may spend an additional spell point to upgrade this ability to keen scent (which functions both inside and outside of water).",
+   "options": []
+  },
+  {
+   "id": "divination/see-hazard-sense",
+   "name": "See Hazard",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Sense Talents",
+   "tags": [
+    "sense"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#see-hazard-sense",
+   "md": "You may spend a spell point to gain a free Perception check to notice traps and hazards when you are within 10 ft of them, be they mechanical (trip wires, dart throwers, etc.) magical (rune spells, sigils, etc.) or natural (quick sand, pit falls, etc.). This does not give you insight into disabling such traps or hazards.",
+   "options": []
+  },
+  {
+   "id": "divination/sense-magic-sense",
+   "name": "Sense Magic",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Sense Talents",
+   "tags": [
+    "sense"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#sense-magic-sense",
+   "md": "You may spend 2 spell points to grant yourself the ability to sense magic, as if using your basic divine ability as a constant ability, but only to a distance of close.",
+   "options": []
+  },
+  {
+   "id": "divination/sense-presence-sense",
+   "name": "Sense Presence",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Sense Talents",
+   "tags": [
+    "sense"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#sense-presence-sense",
+   "md": "You may spend 1 spell point and select a kind of creature, material, or other effect that you could divine for or that you could distinguish using divine (for example, if you possess Divine Alignment, you could select all creatures of a specific alignment). You automatically detect the presence of entities of the specified kind within the range of your divine. This does not tell you the exact location of such entities, just whether or not any are within the area. You may change the type of creature, material, or effect whose presence you are sensing with this talent as a full-round action.",
+   "options": []
+  },
+  {
+   "id": "divination/shared-perception-sense",
+   "name": "Shared Perception",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Sense Talents",
+   "tags": [
+    "sense"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#shared-perception-sense",
+   "md": "You may spend 2 spell points, instead of 1, to grant a special sense to two touched creatures. The maximum number of targets increase by +1 per 5 caster levels. As long as the targets remain within long range of each other, the first target shares perception with the second, and vice versa. This grants the targets the ability to see, smell, hear, etc. whatever the other targets do. This sense, while not requiring line of sight, is blocked by dense materials just like the divine ability. Once created, each character is considered to be under a unique sense effect.",
+   "options": []
+  },
+  {
+   "id": "divination/snipers-eye-sense",
+   "name": "Sniper’s Eye",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Sense Talents",
+   "tags": [
+    "sense"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#snipers-eye-sense",
+   "md": "You may spend a spell point to gain a sense that reduces the distance-based DC adjustment for Perception checks by an amount equal to your caster level. (For example, if the DC would normally increase by 10 due to being 100 feet away and you have caster level of 3, the DC increase would only be by 7.) While this sense is active, you also reduce environmental and range increment-based penalties to your ranged attack rolls by an amount equal to half your caster level. This can only ever reduce penalties, and can never grant a bonus.",
+   "options": []
+  },
+  {
+   "id": "divination/tremorsense-sense",
+   "name": "Tremorsense",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Sense Talents",
+   "tags": [
+    "sense"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#tremorsense-sense",
+   "md": "You may spend a spell point to gain the tremorsense ability with a range of close. You gain sensitivity to vibrations in the ground allowing you to automatically pinpoint the location of anything that is in contact with the ground; or if underwater, you can instead pinpoint the location of creatures moving through the water.",
+   "options": []
+  },
+  {
+   "id": "divination/unhooded-sight-sense",
+   "name": "Unhooded Sight",
+   "kind": "talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Sense Talents",
+   "tags": [
+    "sense"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#unhooded-sight-sense",
+   "md": "You may spend a spell point to gain a sense that grants you a bonus equal to 1/2 your caster level (minimum 1) to all Will saves, Perception checks, or magic skill checks made to disbelieve an illusion.",
+   "options": []
+  },
+  {
+   "id": "divination/alternate-divinations-advanced-sense",
+   "name": "Alternate Divinations, Advanced",
+   "kind": "advanced talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Advanced Divination Talents",
+   "tags": [
+    "sense"
+   ],
+   "talentTags": [],
+   "prerequisites": "Divination sphere, caster level 1st.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#alternate-divinations-advanced-sense",
+   "md": "**Prerequisites:** Divination sphere, caster level 1st.\n\nLike alternate divinations, this advanced talent grants additional divinations depending upon what other spheres you know. Unlike alternate divinations, however, this advanced talent grants new sense abilities instead of divine abilities.\n\n**Creation: Material Sense:** You may spend 2 spell points to gain material sense, automatically detecting the presence of a single material you could create or alter within close range as if you could see it (the material is chosen when you cast this sense). A character can use material sense to distinguish color or visual contrast so long as the distinct components are perceptible if one can only see the specific materials sensed (for example, a character who selects ink with material sense could read documents written in ink but could not see goldfoil illuminations). However, the character is not subject to gaze attacks, blinding, or visual effects when perceiving a target with only this sense. A character can detect creatures who have the material as part of their body but does need line of effect to detect objects made of the material. Material Sense can be foiled by illusions with the Manipulate Aura talent.\n\n**Dark: See in Darkness:** You may spend 2 spell points to gain the see in darkness ability. The creature can see perfectly in all darkness, including magical darkness that otherwise might obstruct darkvision.\n\n**Death: Spirit Sense:** You may spend a spell point to gain the spirit sense ability, which allows you to know when immortal or deathless beings are nearby. You automatically sense the presence of undead; fey; outsiders; and astral, ethereal, or incorporeal creatures within close range, as if you could see them. A character cannot use spirit sense to distinguish color or visual contrast and is not subject to gaze attacks, blinding, or visual effects when perceiving a target with only this sense. A character cannot perceive noncreature nonliving material using spirit sense but does need line of effect to detect creatures. Spirit sense can be foiled by illusions with the Manipulate Aura talent.\n\n**Life: Lifesense:** You may spend 2 spell points to gain lifesense, automatically detecting the life force of beings within close range as if you could see them. A character cannot use lifesense to distinguish color or visual contrast and is not subject to gaze attacks, blinding, or visual effects when perceiving a target with only this sense. A character cannot perceive nonliving material or nonliving creatures (such as constructs or undead) using lifesense, but does need line of effect to detect creatures. Lifesense can be foiled by illusions with the Manipulate Aura talent.\n\n**Mind: Thoughtsense:** You may spend a spell point to gain the thoughtsense ability. You automatically detect and locate conscious creatures within close range who you could target with your Mind sphere abilities as if you could see them.\n\nIf you spend an additional spell point, you may detect and locate all types of conscious creatures, not just those that you could affect with mind-affecting effects. Nondetection, Unplottable, and similar effects block thoughtsense.\n\nThoughtsense can distinguish between sentient (Intelligence 3 or greater) and nonsentient (Intelligence 1–2) creatures, but otherwise provides no information about the creatures it detects. Creatures lacking an Intelligence score, or with a score less than 1, cannot be detected or located with thoughtsense unless you have selected that creature’s type with the Recondite Stimuli talent. A character cannot use thoughtsense to distinguish color or visual contrast and is not subject to gaze attacks, blinding, or visual effects when perceiving a target with only this sense. A character cannot perceive nonliving material using thoughtsense, but does need line of effect to detect creatures. Thoughtsense can be foiled by illusions with the Implausible Deniability feat.\n\n**Telekinesis: Touchsight:** You may spend 2 spell points to gain the touchsight ability. You gain the ability to “feel” your surroundings even when your sight would otherwise be obscured by your physical environment. Your touchsight field emanates from you out to close range. You ignore invisibility, darkness, and concealment, though you must have line of effect to a creature or an object to discern it. You automatically detect and pinpoint all creatures within close range as if you could see them. In many circumstances, comparing your regular senses to what you learn with touchsight is enough to tell you the difference between visible, invisible, hiding, and concealed creatures. A character cannot use touchsight to distinguish color or visual contrast and is not subject to gaze attacks, blinding, or visual effects when perceiving a target with only this sense. Touchsight can be foiled by illusions with the Illusionary Touch talent.\n\n**Weather: Storm Vision:** You may spend a spell point to gain a special sense granting the ability to negate any concealment, miss chance, and penalties to Perception directly caused by weather such as rain or fog (be they magical or natural).",
+   "options": []
+  },
+  {
+   "id": "divination/cartographers-divinations-divine-utility",
+   "name": "Cartographer’s Divinations",
+   "kind": "advanced talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Advanced Divination Talents",
+   "tags": [
+    "divine"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "Divination sphere, caster level 5th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#cartographers-divinations-divine-utility",
+   "md": "Great diviners often learn a number of wide-reaching but imprecise tools which can map entire regions and battlefields, grant precise directions, and learn about the terrain.\n\n**Prerequisites:** Divination sphere, caster level 5th.\n\nYou gain a number of new (divine) abilities. The abilities granted by this talent are improved if you possess certain alternate divinations. These additional options are noted as expanded options. If you possess the Divination sphere Greater Divine talent, the range of the sphere effects granted by this advanced talent increase by 1 step (1 mile to 10 miles per caster level, 10 miles to 100 miles per caster level).",
+   "options": [
+    {
+     "name": "Divine Chart",
+     "tags": [],
+     "talentTags": [],
+     "anchor": "divine-chart",
+     "md": "You may spend 2 spell points to divine a location within 1 mile per caster level, granting you vision of the specified location in up to a 1,000-foot radius as though viewed with a map. You gain accurate knowledge of the terrain and topography, including buildings and other structures, although fine topographical features or concealed or hidden locations are not revealed. In addition, all normally visible creatures are located, but no identifying characteristics of those creatures are known, appearing as an indistinct speck. This effect does not reveal invisible or incorporeal creatures or give any information about the interiors of locations (such as buildings or caves). Only information as viewed from above is made known to the caster.\n\n**Expanded Options:**\n\n- If you possess the Divine Allegiance alternate divination, obvious war camps and contingents of troops are also made known to the caster with a symbol of their banner (if they openly carry such a symbol).\n- If you possess the Divine Illusions or Divine Force alternate divinations, the locations of invisible or incorporeal creatures are located respectively, as though detecting a normal creature.\n- If you possess the Divine Warp alternate divination, the locations of extraplanar gates, teleportation circles, and other permanent magical teleportation effects are made known to the caster (although where they connect to is not revealed).\n\nThis sphere effect is instantaneous and does not adjust for changes that occur after this effect is cast. When casting this sphere effect, a blank piece of parchment or other reasonably flat surface may be used as an optional focus component, the divined information is scribed as a readable map. Alternatively, a sufficiently large table with a malleable substance (such as clay or sand) or bowl of water or other liquid may be used to instead create a still model of the divined area, which crumbles if the table or bowl is disturbed."
+    },
+    {
+     "name": "Lay of the Land",
+     "tags": [],
+     "talentTags": [],
+     "anchor": "lay-of-the-land",
+     "md": "You may spend 2 spell points to divine the surrounding lands within up to 10 miles per caster level, extending underground and through objects without hindrance (unless you possess the Divination sphere Limited Penetration sphere-specific drawback). You instantly learn 2 facts + 1 fact per 4 caster levels about any of the following information pertaining to the surrounding lands: terrain, plantlife, minerals, bodies of water, people and civilizations, animal populations, the presence of powerful and unnatural creatures, supernatural phenomenon and landmarks (such as ley lines, fairy rings, extraplanar portals, etc.), or even the general state of the natural area.\n\n**Expanded Options:**\n\n- If you possess the Divine Elements alternate divination, you may learn 1 additional fact about any element you could divine information for (such as air or water quality, active fires, etc.).\n- If you possess the Divine Warp alternate divination, when you learn a fact about a nearby supernatural phenomenon, if that supernatural phenomenon is connected to another location by a permanent teleportation effect, you learn the type of plane or location it connects to (such as geographical traits, if the same plane, or planar traits if extraplanar).\n- If you possess the Divine Weather alternate divination, you may learn 1 additional fact about the weather in the area, including past weather patterns or an accurate forecast of the natural weather for the next day per caster level. This fact is only accurate to naturally occurring weather, not any magical occurrences which could change the weather.\n\nThis sphere effect provides facts and information which can pertain to any relevant information about the surrounding lands, subject to GM discretion, but should generally be limited to the topography, natural features, and overall qualities about such information (such as total population numbers, locations of major natural bodies, categories of and presence of plant life or minerals, including rare resources, general locations of animals or unnatural creatures, etc.). This sphere effect does not provide precise information about the nature of communities, signs of civilization, or constructed locations, but may reveal their general locations (such as knowing there is something man-made and constructed located inside a mountain, but not being aware of the nature of the construction, such as being a dungeon, shrine, or tower)."
+    },
+    {
+     "name": "Pathfinder",
+     "tags": [],
+     "talentTags": [],
+     "anchor": "pathfinder",
+     "md": "You may spend 2 spell points to divine the shortest, most direct physical route to a prominent and specific destination, such as a castle, city, lake, crypt, or dungeon. The destination can be outdoors or underground as long as it is prominent. If no specific destination is named (such as “a nearby lake” or “the nearest city”, instead of “Fort Lotheed”), this sphere effect locates the nearest destination which meets the description (subject to GM discretion). This sphere effect has no maximum range, but is limited to a destination on the same plane as the caster. This sphere effect is blocked by effects which protect against scrying and other forms of divination (such as not locating a dungeon which is warded against divination effects).\n\n**Expanded Options:**\n\n- If you possess the Divine Warp alternate divination, you may designate an extraplanar gate, teleportation circle, and other permanent magical teleportation effect leading to a specific plane as your destination. If no such effect exists, this ability fails and grants no directions.\n\nFor 1 day per caster level, the caster gains knowledge of the destination’s general location and the destination’s distance and direction from the caster. In addition, the caster gains a supernatural sense for any actions which must be taken to reach that destination (such as which corridor in a cavern to take). This sphere effect otherwise functions as the find the path spell for the purposes of interactions with the maze spell.\n\n**Pathfinder Example:** The caster could not specify a specific cabin or home, but could specify the specific logging camp where the structure is located (such as “The Maple Forest Logging Camp”). Subject to GM discretion, sufficiently prominent individual buildings (such as landmarks or a noble’s mansion) may qualify as a prominent destination if it is notable or unique to the location.\n\n[[/div]]"
+    }
+   ]
+  },
+  {
+   "id": "divination/discern-location-divine-utility",
+   "name": "Discern Location",
+   "kind": "advanced talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Advanced Divination Talents",
+   "tags": [
+    "divine"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "Divination sphere (Dowsing (divine), Greater Divine [range]), caster level 15th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#discern-location-divine-utility",
+   "md": "**Prerequisites:** Divination sphere (Dowsing (divine), Greater Divine [range]), caster level 15th.\n\nYou may spend 3 spell points to divine the location of any one creature or object. To find a creature, you must have seen the creature or have some item that once belonged to it. To find an object, you must have touched it at least once.\n\nDiscern Location has no maximum range and circumvents normal means of protection from scrying or other means of nondetection. Indeed, nothing short of a mind blank spell, the Unplottable advanced Protection talent, or the direct intervention of a deity keeps you from learning the exact location of the targeted individual or object. You learn the name of the creature or object’s location (place, name, business name, building name, or the like), community, county (or similar political division), country, continent, and the plane of existence where the target lies.",
+   "options": []
+  },
+  {
+   "id": "divination/divine-identity-divine-utility",
+   "name": "Divine Identity",
+   "kind": "advanced talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Advanced Divination Talents",
+   "tags": [
+    "divine"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "Divination sphere (Discern Individual (sense)), caster level 1st.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#divine-identity-divine-utility",
+   "md": "**Prerequisites:** Divination sphere (Discern Individual (sense)), caster level 1st.\n\nYou may divine the presence of individual auras. When divining in a location, you sense which creatures have recently been in that area. This does not reveal any information about those creatures other than the strength of their aura, but each aura possesses a unique signature; if you sense the same creature more than once, you can easily connect that they are the same creature.\n\n**Table: Divine Identity**\n\n| Hit Dice | Aura Strength | Aura Duration |\n| --- | --- | --- |\n| 1-4 | Dim | 1 round |\n| 5-8 | Faint | 1d6 rounds |\n| 9-12 | Moderate | 1d6 minutes |\n| 13-16 | Strong | 1d6x10 minutes |\n| 17+ | Overwhelming | 1d6 days |\n\nIt is also possible for someone to adopt an alias, as the same aura is detected multiple places, but may be more difficult to identify as the same person. If you possess a secret identity, such as with the vigilante class or in another way with GM approval, your secret identity and primary identity will detect as different people.\n\n**Vigilantes, Fugitives, and Divine Identity:** While it is very easy to identify lower level creatures individually, their auras do not last very long, which is why many petty thieves can go undetected, even in settlements that have access to this ability. However, thieves of great skill or renown can quickly become easy to spot, becoming celebrities in their own right as their deeds are easily identified, even if they themselves are difficult to capture.",
+   "options": []
+  },
+  {
+   "id": "divination/divine-knowledge-divine-utility",
+   "name": "Divine Knowledge",
+   "kind": "advanced talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Advanced Divination Talents",
+   "tags": [
+    "divine"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "Divination sphere (Read Omens (advanced, divine)), caster level 10th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#divine-knowledge-divine-utility",
+   "md": "**Prerequisites:** Divination sphere (Read Omens (advanced, divine)), caster level 10th.\n\nYou may spend 3 spell points to divine for knowledge, delving the universe for the answer to a specific question. Delving in this manner is not an exact practice, and the only answers you may receive are ‘yes’, ‘no’, ‘unclear’, or ‘unknown’. You have a 50% chance + 1% per caster level of gaining a true answer. A failed roll produces an ‘unknown’ answer, while a roll of 90% or higher produces a lie. If you use this ability to ask the same question twice, the same answer repeats.\n\n**Note:** GMs are fully encouraged to use their own numbers and methods for determining when true, untrue, or unknown answers are gained. A caster divining knowledge could be asking friendly gods, bargaining with the Fates, reading the tablets of life, or using any number of alternate methods for gaining knowledge. As such, the specifics of this ability can vary widely between campaigns—friendly gods may always answer truthfully, while Fates may require specific bargains to be made in exchange for knowledge. It is always possible that the source of information being asked simply does not know the answers to certain questions.",
+   "options": []
+  },
+  {
+   "id": "divination/expansive-vision",
+   "name": "Expansive Vision",
+   "kind": "advanced talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Advanced Divination Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Divination sphere, caster level 10th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#expansive-vision",
+   "md": "**Prerequisites:** Divination sphere, caster level 10th.\n\nYou may spend an additional spell point to increase the range of a sense from close range to medium range, or medium range to long range. This advanced talent may be taken up-to two times, increasing the range by two steps instead of one.",
+   "options": []
+  },
+  {
+   "id": "divination/eye-in-the-sky",
+   "name": "Eye in the Sky",
+   "kind": "advanced talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Advanced Divination Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Divination Sphere (Viewing)",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#eye-in-the-sky",
+   "md": "**Prerequisites:** Divination Sphere (Viewing)\n\nYou may create a scrying sensor which floats directly above you at any height within range and moves with you. You can see and hear from this location at the same time that you can see and hear from your normal location. When viewing through this scrying sensor, you do not take penalties to Perception checks for distance.\n\n*Source: Card Casting 3: Volatile Variance*",
+   "options": []
+  },
+  {
+   "id": "divination/eyes-of-the-cabal",
+   "name": "Eyes Of The Cabal",
+   "kind": "advanced talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Advanced Divination Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Divination sphere (Prying Sight (sense)), caster level 5th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#eyes-of-the-cabal",
+   "md": "**Prerequisites:** Divination sphere (Prying Sight (sense)), caster level 5th.\n\nThe duration of the Prying Sight talent increases from 1 hour per caster level to 1 day per caster level and you may concentrate on a target under the effects of prying sight no matter how far away they are, as long as they are on the same plane as you.\n\nWhile concentrating as a move action on a target under the effects of prying sight, you may target another creature within close range of the target as a free action and transfer this sphere effect to the creature, treating that creature as the new target of this effect. The duration of this effect is shared between targets, and successfully transferring this effect to a new target ends this effect on the previous target. An unwilling target may attempt a Will saving throw to negate this effect, and a creature who succeeds at their saving throw cannot be targeted in this way again for 24 hours. Unlike other sphere effects, an unwilling target is not made aware when they succeed at a saving throw against this effect.\n\nIf you spend two additional spell points when casting prying sight, you no longer transfer the effects of prying sight to a new target, and instead copy the effect onto the new target, treating both targets as being under the effects of the same prying sight. There is no limit to the number of creatures you may copy the effects of prying sight onto, but the duration of the effect is still shared between targets, and ends for all affected targets when the effect’s duration expires. However, copying prying sight onto new targets treats each copy as a separate sphere effect. If a copy of prying sight ends early or is dispelled for one target, it does not end for all affected targets.",
+   "options": []
+  },
+  {
+   "id": "divination/greater-scrying-divine-utility",
+   "name": "Greater Scrying",
+   "kind": "advanced talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Advanced Divination Talents",
+   "tags": [
+    "divine"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "Divination sphere (Greater Divine [range], Scrying (advanced), Viewing (divine)), caster level 15th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#greater-scrying-divine-utility",
+   "md": "**Prerequisites:** Divination sphere (Greater Divine [range], Scrying (advanced), Viewing (divine)), caster level 15th.\n\nWhen using the Scrying advanced talent, you may spend an additional spell point to decrease the action needed to concentrate on the effect by 1 step (normally a full-round action to a standard). In addition, you may move your sensor without following a target with a speed of 150 feet once each round as a free action.",
+   "options": []
+  },
+  {
+   "id": "divination/hear-name-sense-utility",
+   "name": "Hear Name",
+   "kind": "advanced talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Advanced Divination Talents",
+   "tags": [
+    "sense"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "Divination sphere, caster level 5th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#hear-name-sense-utility",
+   "md": "**Prerequisites:** Divination sphere, caster level 5th.\n\nYou may spend a spell point to hear your name or another specific phrase of your choice whenever it is mentioned. When you activate this sense, designate a word, phrase, or name. If a creature within 1 mile per caster level of you uses that word, phrase, or name to refer to you or an action in relation to you (such as attacking your base or intent to find something that belongs to you), you immediately hear the rest of the sentence in which they used the word, phrase, or name. You may dismiss this sense to learn the speaker’s name, appearance, and location.",
+   "options": []
+  },
+  {
+   "id": "divination/penetrating-divination",
+   "name": "Penetrating Divination",
+   "kind": "advanced talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Advanced Divination Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Divination sphere, caster level 1st.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#penetrating-divination",
+   "md": "**Prerequisites:** Divination sphere, caster level 1st.\n\nWhen using Divination sphere talents or abilities, any divine or sense abilities normally blocked by dense substances, can now penetrate 15 feet of wood or dirt, 5 feet of stone, 6 inches of common metal, or a half inch of lead. You may take this advanced talent a second time increasing the thickness you can penetrate to 30 feet of wood or dirt, 10 feet of stone, 1 foot of common metal, or an inch of lead.",
+   "options": []
+  },
+  {
+   "id": "divination/power-of-the-name-utility",
+   "name": "Power Of The Name",
+   "kind": "advanced talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Advanced Divination Talents",
+   "tags": [],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "Divination sphere (Hear Name (advanced)), caster level 10th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#power-of-the-name-utility",
+   "md": "**Prerequisites:** Divination sphere (Hear Name (advanced)), caster level 10th.\n\nThe range of Hear Name improves to unlimited and can even function across planes. In addition, you no longer need to dismiss this sense to learn the speaker’s name, appearance, and location.",
+   "options": []
+  },
+  {
+   "id": "divination/read-omens-divine-utility",
+   "name": "Read Omens",
+   "kind": "advanced talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Advanced Divination Talents",
+   "tags": [
+    "divine"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "Divination sphere, caster level 5th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#read-omens-divine-utility",
+   "md": "**Prerequisites:** Divination sphere, caster level 5th.\n\nYou may spend 2 spell points to divine for knowledge of the future. You gain useful advice in reply to one question regarding a specific goal, event, or activity to occur within 1 week. This advice could be a useful phrase or a cryptic omen or rhyme. If you do not act on the information, the conditions may change so that the information is no longer useful. The base chance for a correct divination is 70% + 1% per caster level, to a maximum of 90%. If the die roll fails, you receive no information and know the attempt failed, unless specific magic yielding false information is at work. Multiple divinations about the same topic by the same caster use the same dice result as the first attempt and yield the same answer each time.",
+   "options": []
+  },
+  {
+   "id": "divination/remote-casting-divine",
+   "name": "Remote Casting",
+   "kind": "advanced talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Advanced Divination Talents",
+   "tags": [
+    "divine"
+   ],
+   "talentTags": [],
+   "prerequisites": "Divination sphere (Viewing (divine)), caster level 5th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#remote-casting-divine",
+   "md": "**Prerequisites:** Divination sphere (Viewing (divine)), caster level 5th.\n\nYou may spend 1 spell point to cast one magic sphere effect through your viewing viewpoint, using it as your location for the purpose of determining line of sight, line of effect, and range. If an ability requires a successful melee or ranged touch attack, use your normal bonuses for these attacks. You must pay for the spell point cost of the magic sphere effect as normal. Casting a magic sphere effect in this way immediately ends the viewing or scrying effect you are using - the scrying effect remains until the spell you cast is resolved, after which it ends.",
+   "options": []
+  },
+  {
+   "id": "divination/scrying-utility",
+   "name": "Scrying",
+   "kind": "advanced talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Advanced Divination Talents",
+   "tags": [],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "Divination sphere (Greater Divine [range], Viewing (divine)), caster level 10th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#scrying-utility",
+   "md": "**Prerequisites:** Divination sphere (Greater Divine [range], Viewing (divine)), caster level 10th.\n\nYou may spend 2 spell points and 1 hour to observe a creature or object as if using the Viewing talent, but over any distance. If targeting a creature, the target is allowed a Will save to resist being viewed, which is subject to the following modifiers depending on your knowledge and connection to the desired creature. Creatures or objects on a different plane receive an extra +5 bonus to their Will save. If viewing an object, the object may attempt a save (if intelligent), or any creature holding the object, or that could be considered to ‘possess’ the object is allowed to attempt this save on its behalf. If no such creature is available, assume a default Will save of 15.\n\n**Table: Familiarity (Scrying)**\n\n| Knowledge | Will Save Modifier |\n| --- | --- |\n| None^ | +10 |\n| Secondhand (you have heard of the subject) | +5 |\n| Firsthand (you have met the subject) | +0 |\n| Familiar (you know the subject well) | -5 |\n\n^You must have some sort of connection (see below) to a creature of which you have no knowledge\n\n**Table: Connection (Scrying)**\n\n| Connection | Will Save Modifier |\n| --- | --- |\n| Likeness or picture | -2 |\n| You have one of the creature’s possessions, or have a person present who once owned the object | -4 |\n| You possess a piece of the subject (body part, lock of hair, broken fragment, etc.) | -10 |\n\nIf the save fails, you can see and hear the subject and its surroundings (approximately 10 feet in all directions of the subject) as if you were present. If the saving throw succeeds, you cannot scry on the target again for 24 hours. If the subject moves, the sensor follows at a speed of up to 150 feet.",
+   "options": []
+  },
+  {
+   "id": "divination/sense-observation-sense",
+   "name": "Sense Observation",
+   "kind": "advanced talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Advanced Divination Talents",
+   "tags": [
+    "sense"
+   ],
+   "talentTags": [],
+   "prerequisites": "Divination sphere (Detect Scrying (sense)).",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#sense-observation-sense",
+   "md": "**Prerequisites:** Divination sphere (Detect Scrying (sense)).\n\nYou may spend 1 spell point to detect any awareness of your presence. You know when any creatures are aware of your presence or when they are looking at you or a representation of you. If you have familiar knowledge of a subject, you know when that creature is thinking of you. You know the number of creatures that are observing you and what senses each creature is using to observe you (including indirect means such as scrying or cameras). This does not discern the identity of these beings, just the knowledge that you are being observed. This effect applies only to creatures which are on the same plane as you. If you sense that a creature senses you, you are considered to have secondhand knowledge of that creature for the purpose of scrying on it.",
+   "options": []
+  },
+  {
+   "id": "divination/sensitive-divinations",
+   "name": "Sensitive Divinations",
+   "kind": "advanced talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Advanced Divination Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Divination sphere, caster level 1st.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#sensitive-divinations",
+   "md": "**Prerequisites:** Divination sphere, caster level 1st.\n\nWhenever you would divine for magic auras, you can detect the lingering aura for up to 1 day per caster level you possess, regardless of the aura’s original strength. The effects of this talent also benefit Alternate Divinations that have a strength or duration of a lingering aura (such as Divine Shapechanger or Divine Alignment).",
+   "options": []
+  },
+  {
+   "id": "divination/speak-and-i-listen",
+   "name": "Speak And I Listen",
+   "kind": "advanced talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Advanced Divination Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Divination sphere (Hear Name (advanced)); Divination sphere (Greater Divine [range], Viewing (divine), Scrying (advanced)) or Warp sphere (Distant Teleport, Unseeing Teleport, True Teleport); caster level 10th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#speak-and-i-listen",
+   "md": "**Prerequisites:** Divination sphere (Hear Name (advanced)); Divination sphere (Greater Divine [range], Viewing (divine), Scrying (advanced)) or Warp sphere (Distant Teleport, Unseeing Teleport, True Teleport); caster level 10th.\n\nWhenever you learn the name, appearance and location of a creature through Hear Name or Power Of The Name, you may spend a spell point to use Scrying to spy on the creature or try to teleport to their location as an immediate action. This is restricted by the normal range limitations for these abilities and costs spell points as normal in addition to the one spent to use this talent.",
+   "options": []
+  },
+  {
+   "id": "divination/trapfinding-sense",
+   "name": "Trapfinding",
+   "kind": "advanced talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Advanced Divination Talents",
+   "tags": [
+    "sense"
+   ],
+   "talentTags": [],
+   "prerequisites": "Divination sphere (See Hazard (sense)), caster level 1st.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#trapfinding-sense",
+   "md": "**Prerequisites:** Divination sphere (See Hazard (sense)), caster level 1st.\n\nYou may spend a spell point to gain a special sense that lets you add 1/2 your caster level to Perception checks made to locate traps and to Disable Device checks (minimum +1). In addition, you may disable magic traps as a rogue.",
+   "options": []
+  },
+  {
+   "id": "divination/true-perception-sense",
+   "name": "True Perception",
+   "kind": "advanced talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Advanced Divination Talents",
+   "tags": [
+    "sense"
+   ],
+   "talentTags": [],
+   "prerequisites": "Divination sphere (Ghost Sight (sense), Unhooded Sight (sense)), caster level 10th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#true-perception-sense",
+   "md": "**Prerequisites:** Divination sphere (Ghost Sight (sense), Unhooded Sight (sense)), caster level 10th.\n\nYou may spend 2 spell points to gain the ability to perceive all things as they actually are for 1 minute per caster level using either sight, sound, touch, or taste/odor. If you choose sight, you see through normal and magical darkness, notice secret doors hidden by magic, see the exact locations of creatures or objects under blur or displacement effects, see invisible creatures or objects normally, see through illusions, and see the true form of polymorphed, changed, or transmuted things.\n\nFurther, you can focus your vision to see into the Ethereal Plane (but not into extradimensional spaces). If you choose sound, you can hear through soundless environments and magical silence, hear the exact locations of creatures or objects under blur or displacement effects, hear creatures or objects rendered inaudible by illusions, and automatically discern when a sound is illusory. If you choose touch or taste/odor (the latter two being a single sense), you discern when such sensations are illusory and can sense through such illusions. The range of true perception conferred is 120 feet.\n\nThis ability does not grant the ability to perceive through solid objects and does not negate concealment, including that caused by fog and the like. True Perception does not help the viewer see through mundane disguises, spot creatures who are simply hiding, or notice secret doors hidden by mundane means. In addition, these senses do not work in conjunction with other viewing magic, such as Scrying or Viewing Divination talents.\n\nTrue Perception now replaces the older True Seeing talent.",
+   "options": []
+  },
+  {
+   "id": "divination/unobscured-vision-sense",
+   "name": "Unobscured Vision",
+   "kind": "advanced talent",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Advanced Divination Talents",
+   "tags": [
+    "sense"
+   ],
+   "talentTags": [],
+   "prerequisites": "Divination sphere (Ghost Sight (sense)), caster level 10th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination#unobscured-vision-sense",
+   "md": "**Prerequisites:** Divination sphere (Ghost Sight (sense)), caster level 10th.\n\nYou may spend 3 spell points to gain a special sense that grants the ability to see into and through solid matter within close range, with the viewer seeing as if he were looking at something in normal light even if there is no illumination. Unobscured Vision, despite the name, can be blocked by dense materials as if it were a divine talent or ability.\n\n---\n\n*Archived: [[Divination (Original)|Original version]] (from before *Ultimate Spheres of Power*)*",
+   "options": []
+  },
+  {
+   "id": "divination/analyze-caster-dual-sphere",
+   "name": "Analyze Caster",
+   "kind": "feat",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Mana sphere, Divination sphere (Detect Spellcaster (divine)), caster level 9th.",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#analyze-caster-dual-sphere",
+   "md": "**Prerequisites:** Mana sphere, Divination sphere (Detect Spellcaster (divine)), caster level 9th.\n\n**Benefit:** You shorten the casting time of the Detect Spellcaster (divine) talent to 1 round (or one move action, if you possess Fast Divination) and do not need to spend a spell point to use it. Additionally, you gain a +5 bonus to your Spellcraft check when determining a creature’s casting tradition this way. If you successfully determine the creature’s casting tradition, you can spend a spell point to deeply analyze that caster, allowing you to learn all base magic spheres possessed by the spherecaster, as well as their current and maximum spell points, casting ability modifier, and caster levels with each sphere they possess. At 15th caster level, you may also select a single sphere you know they possess: you learn all magic talents they possess in that sphere.\n\nIf the target is a spellcaster and utilizes spell lists and spell slots, when deeply analyzing the caster you instead learn the highest spell level they are capable of casting, which spell list they draw their spells from, and whether they prepare their spells or cast them spontaneously. At 15th caster level, you may also select a single spell level to learn all spells they have prepared, or in the case of spontaneous casters all spells they know, of that spell level.\n\nWhenever you use a (manipulation) or (expunge) talent on a creature successfully, you may spend a spell point as a free action to analyze that creature as if using the Detect Spellcaster (divine) talent.",
+   "options": []
+  },
+  {
+   "id": "divination/arcing-strike-combat",
+   "name": "Arcing Strike",
+   "kind": "feat",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction sphere (Guided Strike (blast shape)), caster level 11th.",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#arcing-strike-combat",
+   "md": "**Prerequisites:** Destruction sphere (Guided Strike (blast shape)), caster level 11th.\n\n**Benefit:** You may spend a spell point to make your destructive blast fly in an erratic path, unerringly striking your target no matter what lies between you. Your destructive blast ignores the AC bonus granted to targets by anything less than total cover, and the miss chance granted to targets by anything less than total concealment. Total cover and total concealment provide their normal benefits against your ranged attacks.\n\n**Special:** If you possess the Divination sphere Viewing talent, you can use Arcing Strike to strike any target that you can see that is within range of both your destructive blast and your divination, as long as it is not inside a completely enclosed space (GM’s discretion).",
+   "options": []
+  },
+  {
+   "id": "divination/area-bypass",
+   "name": "Area Bypass",
+   "kind": "feat",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Divination Sphere, War Sphere (any momentum talent)",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#area-bypass",
+   "md": "*Source: Baron’s Glorious Arena*\n\n**Prerequisites:** Divination Sphere, War Sphere (any momentum talent)\n\n**Benefits:** Whenever an ally moves through the area of effect of a sphere effect you have successfully identified, they may spend a number of momentum points equal to 1 + the number of spell points spent on the sphere effect. If they do, you may attempt an MSB check against the sphere effect’s MSD, with the moving creature ignoring the sphere effect until the end of their movement on a success.",
+   "options": []
+  },
+  {
+   "id": "divination/aura-engineering-dual-sphere",
+   "name": "Aura Engineering",
+   "kind": "feat",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Divination sphere, Illusion sphere (Deceive Dweomer, Manipulate Aura (sensory, magic)).",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#aura-engineering-dual-sphere",
+   "md": "**Prerequisites:** Divination sphere, Illusion sphere (Deceive Dweomer, Manipulate Aura (sensory, magic)).\n\n**Benefit:** You may attempt Use Magic Device checks on any object within close range using the greater caster level of your Divination or Illusion spheres. Additionally you may take 10 or 20 on Use Magic Device checks and apply the bonus granted from the Deceive Dweomer trick to all Use Magic Device checks. This is a supernatural ability and attended or intelligent objects are allowed a Will save as if this was an Illusion (glamer) to negate the effect but you may use your Divination caster level to determine the DC if it is higher.",
+   "options": []
+  },
+  {
+   "id": "divination/divining-beacon-dual-sphere",
+   "name": "Divining Beacon",
+   "kind": "feat",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Divination sphere, Warp sphere (Teleport Beacon (space)).",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#divining-beacon-dual-sphere",
+   "md": "**Prerequisites:** Divination sphere, Warp sphere (Teleport Beacon (space)).\n\n**Benefit:** You may create teleport beacons that you can sense, giving you impressions of everything that happens around them. You know the size and movement of anything in a 10- foot radius around a beacon created this way. In addition, you may divine to see and hear from the location of such a teleport beacon as if you were standing in its position, regardless of your distance from it. Using divine in this way creates a scrying sensor which can be detected with a Perception check (DC 20 + caster level), but can only be dispelled by dispelling the teleport beacon.",
+   "options": []
+  },
+  {
+   "id": "divination/ensouled-vision",
+   "name": "Ensouled Vision",
+   "kind": "feat",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Divination sphere, bound nexus class feature.",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#ensouled-vision",
+   "md": "**Prerequisites:** Divination sphere, bound nexus class feature.\n\n**Benefit:** You can share perception with your souls, allowing you to see, smell, hear, etc. as though you were in that soul’s space.\n\nWhenever you divine to gain information in an area (such as with the base Divination sphere effect, alternate divinations, or the Detect Spellcaster or Detect Thoughts talents but not the Augury or Divine Future talents), you may expend a soul to instead create a bound sensor, attaching the divine effect to the bound sensor. A bound sensor is a soul which constantly divines the area around it in a close range, informing you of anything that would be detected by it. The bound sensor lasts 10 minutes per level in the class that grants you the bound nexus class feature. The bound sensor can move as if it were a soul but, unlike a regular soul, can be given a route or area to patrol, allowing you to sleep or rest without needing to direct the soul to move each round.\n\nIf you possess the Divination sphere Alarm talent, the bound sensor instead lasts for 1 hour per level and can be augmented as though it were created with the Alarm talent, allowing you to set an audible or mental alarm or a password. In addition, you may change the attached divine effect on the bound sensor by divining again.",
+   "options": []
+  },
+  {
+   "id": "divination/explanatory-illusion-dual-sphere",
+   "name": "Explanatory Illusion",
+   "kind": "feat",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Divination Sphere, Illusion Sphere",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#explanatory-illusion-dual-sphere",
+   "md": "*Source: Expanded Spheres: Baron's Lost Apocrypha*\n\n**Prerequisites:** Divination Sphere, Illusion Sphere\n\n**Benefit:** As a free action whenever you are observing a target or location using your divine ability, you may create an illusory representation of anything that you can perceive using your divine abilities. For example, when divining for alignment you may surround all creatures within your divine area with auras of light or floating signs indicating their alignment or may create an illusory replica of everything you can see when using viewing. These illusions last for the duration of the divine ability, though you may spend a spell point to make them last for an additional minute per caster level afterwards. These illusions are considered tricks and do not cost spell points.",
+   "options": []
+  },
+  {
+   "id": "divination/eyes-of-battle-dual-sphere",
+   "name": "Eyes Of Battle",
+   "kind": "feat",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Divination sphere, War sphere",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#eyes-of-battle-dual-sphere",
+   "md": "**Prerequisites:** Divination sphere, War sphere\n\n**Benefit:** Whenever you would use a (divine) talent that targets a space or creature within the area of one of your totems, you may reduce the casting time by 1 step, to a minimum of a swift action.",
+   "options": []
+  },
+  {
+   "id": "divination/practiced-seer",
+   "name": "Practiced Seer",
+   "kind": "feat",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Divination sphere.",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#practiced-seer",
+   "md": "**Prerequisite:** Divination sphere.\n\n**Benefit:** You may use your magic skill bonus or caster level, whichever is higher for the purposes of determining the duration of Divination (sense) talents or abilities.",
+   "options": []
+  },
+  {
+   "id": "divination/precogniscent-protection-combat",
+   "name": "Precogniscent Protection",
+   "kind": "feat",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Divination sphere (one or more (sense) talents or abilities).",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#precogniscent-protection-combat",
+   "md": "**Prerequisites:** Divination sphere (one or more (sense) talents or abilities).\n\n**Benefit:** You gain an insight bonus to armor class equal to the number of senses from the Divination sphere you have active (maximum 1 + 1 per 5 Hit Dice). In addition, you may as an immediate action spend a spell point and dismiss a sense you have active to cause a critical hit against you to become a regular hit instead.",
+   "options": []
+  },
+  {
+   "id": "divination/precogniscent-resistance-combat",
+   "name": "Precogniscent Resistance",
+   "kind": "feat",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Divination sphere (one or more (sense) talents or abilities).",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#precogniscent-resistance-combat",
+   "md": "**Prerequisites:** Divination sphere (one or more (sense) talents or abilities).\n\n**Benefit:** You gain a resistance bonus to saves equal to the number of senses from the Divination sphere you have active (maximum 1 + 1 per 4 Hit Dice). In addition, you may as an immediate action spend a spell point and dismiss a sense you have active to reroll a saving throw you have failed.",
+   "options": []
+  },
+  {
+   "id": "divination/precogniscent-smite-combat",
+   "name": "Precogniscent Smite",
+   "kind": "feat",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Divination sphere (one or more (sense) talents or abilities).",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#precogniscent-smite-combat",
+   "md": "**Prerequisites:** Divination sphere (one or more (sense) talents or abilities).\n\n**Benefit:** You gain an insight bonus to attack and damage equal to the number of senses from the Divination sphere you currently have active (maximum 1 + 1 per 5 Hit Dice). You may as an immediate action spend a spell point and dismiss a sense you have active to ignore a percentage of miss chance (maximum 5% + 5% per 5 Hit Dice) for 1 round.",
+   "options": []
+  },
+  {
+   "id": "divination/scholar-of-past-and-future",
+   "name": "Scholar Of Past And Future",
+   "kind": "feat",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Knowledge (history) 1 rank, Divination sphere.",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#scholar-of-past-and-future",
+   "md": "**Prerequisites:** Knowledge (history) 1 rank, Divination sphere.\n\n**Benefit:** You get a +2 bonus on all Knowledge (history) checks. If you have 10 or more ranks in Knowledge (history), this bonus increases to +4.\n\nIn addition, you gain a bonus to your caster level equal to 1/2 the number of ranks you have in the Knowledge (history) skill, rounded up, when determining the effects of your divine ability. This can not increase your caster level above your Hit Dice.",
+   "options": []
+  },
+  {
+   "id": "divination/survey-of-your-realm-dual-sphere",
+   "name": "Survey of your Realm",
+   "kind": "feat",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Divination sphere (Viewing), Warp sphere (Extradimensional Room).",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#survey-of-your-realm-dual-sphere",
+   "md": "When you create a realm, you are sure to keep a close eye on it.\n\n**Prerequisites:** Divination sphere (Viewing), Warp sphere (Extradimensional Room).\n\n**Benefit:** So long as your Extradimensional Room exists, you may keep a constant viewing sensor placed in any location in the room. This sensor lasts for the duration of your room, does not cost spell points, and may be moved to any other location in your Extradimensional Room as a free action once per round. You may perceive what this sensor perceives simultaneously with whatever you perceive. If this sensor is dismissed, dispelled, or would otherwise end, you may reform it as a standard action.\n\nAs a free action once per round, you may have this sensor touch an unattended object or willing creature it is adjacent to. Until the end of your next turn, you are considered to be touching (but not wielding) that object or creature.",
+   "options": []
+  },
+  {
+   "id": "divination/tabulated-mind",
+   "name": "Tabulated Mind",
+   "kind": "feat",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Divination sphere.",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#tabulated-mind",
+   "md": "**Prerequisite:** Divination sphere.\n\n**Benefit:** When you concentrate to maintain a divine effect, you are no longer considered flat-footed due to maintaining concentration, and may also take swift or immediate actions during the same action. In addition, as a free action you may spend a spell point to reduce the concentration action for divine effects by 1 step for 1 round per caster level, thus reducing a normally full-round action into a standard action, and also allowing for additional move actions to be performed. If you also possess the boon Easy Focus, you reduce instead the concentration action without spending a spell point to a standard action, allowing for additional move actions, and with spending spell points from 1 full-round action to 1 move action, allowing for additional standard actions.\n\n**Normal:** Concentrating on a divine effect is usually a fullround action, while also preventing any other standard, move, immediate and swift actions, and granting the flat-footed condition.",
+   "options": []
+  },
+  {
+   "id": "divination/totemic-radar-dual-sphere",
+   "name": "Totemic Radar",
+   "kind": "feat",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Divination sphere (Blindfolded Oracle (sense)), War sphere.",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#totemic-radar-dual-sphere",
+   "md": "**Prerequisites:** Divination sphere (Blindfolded Oracle (sense)), War sphere.\n\n**Benefit:** When you close your eyes to use Blindfolded Oracle while within the area of your totem, you may choose to have your blindsense extend to the entire area of the totem rather than close range. When used in this way, your blindsense stops at the edge of your totem’s area.",
+   "options": []
+  },
+  {
+   "id": "divination/divining-concoction",
+   "name": "Divining Concoction",
+   "kind": "drawback",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Drawbacks",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Drawbacks#divining-concoction",
+   "md": "You must select the Instill Divination talent with the bonus talent granted by this drawback, and you can only use your Divination sphere abilities through this talent.",
+   "options": []
+  },
+  {
+   "id": "divination/limited-divination",
+   "name": "Limited Divination",
+   "kind": "drawback",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Drawbacks",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Drawbacks#limited-divination",
+   "md": "Choose either sense or divine. You can only use this ability and cannot use the other type.",
+   "options": []
+  },
+  {
+   "id": "divination/limited-penetration",
+   "name": "Limited Penetration",
+   "kind": "drawback",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Drawbacks",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Drawbacks#limited-penetration",
+   "md": "When using Divination talents or abilities to divine you cannot penetrate solid objects. You must select a (divine) talent with the bonus talent granted by this drawback.\n\n**Incompatible:** Limited Divination (sense)",
+   "options": []
+  },
+  {
+   "id": "divination/hidden-magic",
+   "name": "Hidden Magic",
+   "kind": "drawback",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Drawbacks",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Drawbacks#hidden-magic",
+   "md": "You do not gain the base divine ability to detect magic, nor the base sense ability to decipher magical text. You may still gain other senses through magic talents and gain the ability to detect other things (undead, charms, etc.) through the divine ability.",
+   "options": []
+  },
+  {
+   "id": "divination/shaped-divination",
+   "name": "Shaped Divination",
+   "kind": "drawback",
+   "sphere": "Divination",
+   "system": "Spheres of Power",
+   "group": "Drawbacks",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Divination/Divination-Sphere-Drawbacks#shaped-divination",
+   "md": "Your divine area changes to a cone rather than a sphere centered upon yourself. You may take this drawback a second time, limiting your ability to only divine targets inside a line instead of a cone. This drawback does in no other way change the range at which you may divine targets. In regards to this drawback, your divination shape (be it cone or line) remains fixed pointing in one direction, and once each round as a free action you may change the direction of the shape. You must select (divine) talent(s) with the bonus talent(s) granted by this drawback.\n\n**Incompatible:** Limited Divination (sense)",
+   "options": []
+  }
+ ]
+}

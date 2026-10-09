@@ -1,7 +1,7 @@
 {
  "sphere": "Destruction",
  "system": "Spheres of Power",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "destruction/destructive-blast",

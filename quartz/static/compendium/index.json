@@ -10791,7 +10791,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#destructive-blast",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/admixture",
@@ -10807,7 +10807,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#admixture",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/cascade-failure",
@@ -10823,7 +10823,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#cascade-failure",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/clinging-blast",
@@ -10839,7 +10839,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#clinging-blast",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/crafted-blast",
@@ -10855,7 +10855,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#crafted-blast",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/damage-control",
@@ -10871,7 +10871,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#damage-control",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/demolition",
@@ -10887,7 +10887,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#demolition",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/energetic-response",
@@ -10903,7 +10903,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#energetic-response",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/epicenter",
@@ -10919,7 +10919,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#epicenter",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/extended-range-range",
@@ -10937,7 +10937,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#extended-range-range",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/focused-blast",
@@ -10953,7 +10953,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#focused-blast",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/gather-energy",
@@ -10969,7 +10969,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#gather-energy",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/selective-blast",
@@ -10985,7 +10985,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#selective-blast",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/spirit-blast",
@@ -11001,7 +11001,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#spirit-blast",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/wingbind",
@@ -11017,7 +11017,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#wingbind",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/blast-salvo-blast-shape",
@@ -11035,7 +11035,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#blast-salvo-blast-shape",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/blast-trap-blast-shape",
@@ -11053,7 +11053,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#blast-trap-blast-shape",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/chain-blast-blast-shape",
@@ -11071,7 +11071,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#chain-blast-blast-shape",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/energy-aura-blast-shape",
@@ -11089,7 +11089,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#energy-aura-blast-shape",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/energy-beam-blast-shape",
@@ -11107,7 +11107,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#energy-beam-blast-shape",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/energy-bomb-blast-shape-instill",
@@ -11127,7 +11127,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#energy-bomb-blast-shape-instill",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/energy-leap-blast-shape",
@@ -11145,7 +11145,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#energy-leap-blast-shape",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/energy-satellite-blast-shape",
@@ -11163,7 +11163,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#energy-satellite-blast-shape",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/energy-sphere-blast-shape",
@@ -11181,7 +11181,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#energy-sphere-blast-shape",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/energy-strike-blast-shape-strike",
@@ -11201,7 +11201,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#energy-strike-blast-shape-strike",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/energy-tether-blast-shape",
@@ -11219,7 +11219,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#energy-tether-blast-shape",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/energy-wall-blast-shape",
@@ -11237,7 +11237,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#energy-wall-blast-shape",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/explosive-orb-blast-shape",
@@ -11255,7 +11255,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#explosive-orb-blast-shape",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/guided-strike-blast-shape",
@@ -11273,7 +11273,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#guided-strike-blast-shape",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/knights-blast-blast-shape",
@@ -11291,7 +11291,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#knights-blast-blast-shape",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/mutable-blast-blast-shape",
@@ -11309,7 +11309,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#mutable-blast-blast-shape",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/rebuff-blast-shape",
@@ -11327,7 +11327,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#rebuff-blast-shape",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/retributive-blast-blast-shape",
@@ -11345,7 +11345,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#retributive-blast-blast-shape",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/sculpt-blast-blast-shape",
@@ -11363,7 +11363,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#sculpt-blast-blast-shape",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/acid-blast-blast-type-acid",
@@ -11382,7 +11382,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#acid-blast-blast-type-acid",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/adhesive-blast-blast-type-acid",
@@ -11401,7 +11401,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#adhesive-blast-blast-type-acid",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/air-blast-blast-type-air",
@@ -11420,7 +11420,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#air-blast-blast-type-air",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/alkali-blast-blast-type-acid",
@@ -11439,7 +11439,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#alkali-blast-blast-type-acid",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/alternyating-current-blast-type-electricity",
@@ -11458,7 +11458,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#alternyating-current-blast-type-electricity",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/battering-blast-blast-type-stone",
@@ -11477,7 +11477,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#battering-blast-blast-type-stone",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/blinding-blast-blast-type-light",
@@ -11496,7 +11496,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#blinding-blast-blast-type-light",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/blistering-blast-blast-type-fire",
@@ -11515,7 +11515,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#blistering-blast-blast-type-fire",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/corrosive-blast-blast-type-acid",
@@ -11534,7 +11534,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#corrosive-blast-blast-type-acid",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/crystal-blast-blast-type-crystal",
@@ -11553,7 +11553,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#crystal-blast-blast-type-crystal",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/drenching-blast-blast-type-cold",
@@ -11572,7 +11572,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#drenching-blast-blast-type-cold",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/drowning-blast-blast-type-cold",
@@ -11591,7 +11591,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#drowning-blast-blast-type-cold",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/electric-blast-blast-type-electricity",
@@ -11610,7 +11610,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#electric-blast-blast-type-electricity",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/fire-blast-blast-type-fire",
@@ -11629,7 +11629,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#fire-blast-blast-type-fire",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/force-blast-blast-type-force",
@@ -11648,7 +11648,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#force-blast-blast-type-force",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/freezing-blast-blast-type-cold",
@@ -11667,7 +11667,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#freezing-blast-blast-type-cold",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/frost-blast-blast-type-cold",
@@ -11686,7 +11686,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#frost-blast-blast-type-cold",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/gale-blast-blast-type-air",
@@ -11705,7 +11705,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#gale-blast-blast-type-air",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/gloom-blast-blast-type-negative",
@@ -11724,7 +11724,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#gloom-blast-blast-type-negative",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/gore-blast-blast-type-negative",
@@ -11743,7 +11743,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#gore-blast-blast-type-negative",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/hurricane-blast-blast-type-air",
@@ -11762,7 +11762,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#hurricane-blast-blast-type-air",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/incandescent-blast-blast-type-light",
@@ -11781,7 +11781,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#incandescent-blast-blast-type-light",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/invigorating-blast-blast-type-force",
@@ -11800,7 +11800,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#invigorating-blast-blast-type-force",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/living-crystal-blast-blast-type-crystal",
@@ -11819,7 +11819,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#living-crystal-blast-blast-type-crystal",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/mana-siphon-blast-type-force",
@@ -11838,7 +11838,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#mana-siphon-blast-type-force",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/nether-blast-blast-type-negative",
@@ -11857,7 +11857,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#nether-blast-blast-type-negative",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/numbing-blast-blast-type-cold",
@@ -11876,7 +11876,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#numbing-blast-blast-type-cold",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/paradigm-blast-blast-type-holy",
@@ -11895,7 +11895,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#paradigm-blast-blast-type-holy",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/radiant-blast-blast-type-light",
@@ -11914,7 +11914,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#radiant-blast-blast-type-light",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/razor-blast-blast-type-crystal",
@@ -11933,7 +11933,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#razor-blast-blast-type-crystal",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/resonating-blast-blast-type-sonic",
@@ -11952,7 +11952,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#resonating-blast-blast-type-sonic",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/reverberating-blast-blast-type-sonic",
@@ -11971,7 +11971,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#reverberating-blast-blast-type-sonic",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/searing-blast-blast-type-fire",
@@ -11990,7 +11990,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#searing-blast-blast-type-fire",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/shattering-blast-blast-type-sonic",
@@ -12009,7 +12009,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#shattering-blast-blast-type-sonic",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/shock-blast-blast-type-electricity",
@@ -12028,7 +12028,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#shock-blast-blast-type-electricity",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/shrapnel-blast-blast-type-stone",
@@ -12047,7 +12047,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#shrapnel-blast-blast-type-stone",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/smiting-blast-blast-type-holy",
@@ -12066,7 +12066,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#smiting-blast-blast-type-holy",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/static-blast-blast-type-electricity",
@@ -12085,7 +12085,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#static-blast-blast-type-electricity",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/stone-blast-blast-type-stone",
@@ -12104,7 +12104,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#stone-blast-blast-type-stone",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/sweltering-blast-blast-type-fire",
@@ -12123,7 +12123,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#sweltering-blast-blast-type-fire",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/tenebrous-blast-blast-type-negative",
@@ -12142,7 +12142,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#tenebrous-blast-blast-type-negative",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/thunder-blast-blast-type-sonic",
@@ -12161,7 +12161,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#thunder-blast-blast-type-sonic",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/vacuum-blast-blast-type-air",
@@ -12180,7 +12180,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#vacuum-blast-blast-type-air",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/blast-array",
@@ -12196,7 +12196,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#blast-array",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/calamity-blast-shape",
@@ -12214,7 +12214,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#calamity-blast-shape",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/conflagrant-cluster",
@@ -12230,7 +12230,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#conflagrant-cluster",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/crystal-cocoon",
@@ -12246,7 +12246,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#crystal-cocoon",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/disintegrate-blast-type",
@@ -12264,7 +12264,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#disintegrate-blast-type",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/energy-cloud-blast-shape",
@@ -12282,7 +12282,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#energy-cloud-blast-shape",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/erratic-blast-blast-type",
@@ -12300,7 +12300,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#erratic-blast-blast-type",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/extreme-range",
@@ -12316,7 +12316,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#extreme-range",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/grandmaster",
@@ -12332,7 +12332,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#grandmaster",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/greater-admixture",
@@ -12348,7 +12348,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#greater-admixture",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/magnifying-blast-blast-type",
@@ -12366,7 +12366,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#magnifying-blast-blast-type",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/penetrating-blast",
@@ -12382,7 +12382,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#penetrating-blast",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/radiation-blast-blast-type-fire-light",
@@ -12402,7 +12402,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#radiation-blast-blast-type-fire-light",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/split-blast",
@@ -12418,7 +12418,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#split-blast",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/arcing-strike-combat",
@@ -12436,7 +12436,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#arcing-strike-combat",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/atmospheric-imbuement-dual-sphere",
@@ -12454,7 +12454,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#atmospheric-imbuement-dual-sphere",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/channel-destruction-channeling",
@@ -12472,7 +12472,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#channel-destruction-channeling",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/cooperative-destruction-dual-sphere",
@@ -12490,7 +12490,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#cooperative-destruction-dual-sphere",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/corpse-explosion-dual-sphere",
@@ -12508,7 +12508,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#corpse-explosion-dual-sphere",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/deadly-targeting-combat",
@@ -12526,7 +12526,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#deadly-targeting-combat",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/destructive-companion-dual-sphere",
@@ -12544,7 +12544,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#destructive-companion-dual-sphere",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/destructive-radiance-dual-sphere",
@@ -12562,7 +12562,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#destructive-radiance-dual-sphere",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/dimensional-tether",
@@ -12578,7 +12578,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#dimensional-tether",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/energy-cascade",
@@ -12594,7 +12594,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#energy-cascade",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/energy-laser",
@@ -12610,7 +12610,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#energy-laser",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/energy-snake-combat",
@@ -12628,7 +12628,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#energy-snake-combat",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/fan-the-flame-dual-sphere",
@@ -12646,7 +12646,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#fan-the-flame-dual-sphere",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/fear-and-flame-combat",
@@ -12664,7 +12664,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#fear-and-flame-combat",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/fissile-creation-dual-sphere",
@@ -12682,7 +12682,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#fissile-creation-dual-sphere",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/flexible-ghost-strike-dual-sphere",
@@ -12700,7 +12700,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#flexible-ghost-strike-dual-sphere",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/focused-blast-type-group",
@@ -12716,7 +12716,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#focused-blast-type-group",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/frozen-to-the-bone-combat",
@@ -12734,7 +12734,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#frozen-to-the-bone-combat",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/heavy-hand-combat",
@@ -12752,7 +12752,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#heavy-hand-combat",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/illusionary-blast-dual-sphere",
@@ -12770,7 +12770,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#illusionary-blast-dual-sphere",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/imbue-with-nature-dual-sphere",
@@ -12788,7 +12788,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#imbue-with-nature-dual-sphere",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/improved-chain-blast-combat",
@@ -12806,7 +12806,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#improved-chain-blast-combat",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/improved-energy-leap-combat",
@@ -12824,7 +12824,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#improved-energy-leap-combat",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/improved-energy-wall-combat",
@@ -12842,7 +12842,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#improved-energy-wall-combat",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/material-infusion-dual-sphere",
@@ -12860,7 +12860,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#material-infusion-dual-sphere",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/perpetual-sphere-combat",
@@ -12878,7 +12878,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#perpetual-sphere-combat",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/primal-blast-dual-sphere",
@@ -12896,7 +12896,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#primal-blast-dual-sphere",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/rebuff-improved-combat",
@@ -12914,7 +12914,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#rebuff-improved-combat",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/rebuff-superior-combat",
@@ -12932,7 +12932,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#rebuff-superior-combat",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/selective-admixture",
@@ -12948,7 +12948,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#selective-admixture",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/shape-expert-combat",
@@ -12966,7 +12966,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#shape-expert-combat",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/soul-scorching-blast",
@@ -12982,7 +12982,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#soul-scorching-blast",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/stellar-evoker",
@@ -12998,7 +12998,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#stellar-evoker",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/supernatural-elements-dual-sphere",
@@ -13016,7 +13016,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#supernatural-elements-dual-sphere",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/tether-adept-combat",
@@ -13034,7 +13034,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#tether-adept-combat",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/warp-burst-dual-sphere",
@@ -13052,7 +13052,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#warp-burst-dual-sphere",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/whole-set-blast-dual-sphere",
@@ -13070,7 +13070,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Feats#whole-set-blast-dual-sphere",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/auspicious-admixture-admixture",
@@ -13088,7 +13088,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#auspicious-admixture-admixture",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/boundary-admixture-admixture",
@@ -13106,7 +13106,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#boundary-admixture-admixture",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/blood-wrack-admixture",
@@ -13124,7 +13124,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#blood-wrack-admixture",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/curative-admixture-admixture",
@@ -13142,7 +13142,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#curative-admixture-admixture",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/dispelling-admixture-admixture-counterspell",
@@ -13161,7 +13161,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#dispelling-admixture-admixture-counterspell",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/enhancing-admixture-admixture",
@@ -13179,7 +13179,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#enhancing-admixture-admixture",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/faerie-admixture-admixture",
@@ -13197,7 +13197,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#faerie-admixture-admixture",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/generative-admixture-admixture",
@@ -13215,7 +13215,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#generative-admixture-admixture",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/ghostly-admixture-admixture",
@@ -13233,7 +13233,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#ghostly-admixture-admixture",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/illuminating-admixture-admixture",
@@ -13251,7 +13251,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#illuminating-admixture-admixture",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/introductory-admixture-admixture",
@@ -13269,7 +13269,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#introductory-admixture-admixture",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/militant-admixture-admixture",
@@ -13287,7 +13287,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#militant-admixture-admixture",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/mind-wrack-admixture",
@@ -13305,7 +13305,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#mind-wrack-admixture",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/morphic-admixture-admixture",
@@ -13323,7 +13323,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#morphic-admixture-admixture",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/nebulous-admixture-admixture",
@@ -13341,7 +13341,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#nebulous-admixture-admixture",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/primal-admixture-admixture",
@@ -13359,7 +13359,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#primal-admixture-admixture",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/soft-admixture-specialty",
@@ -13375,7 +13375,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#soft-admixture-specialty",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/space-rending-admixture-admixture",
@@ -13393,7 +13393,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#space-rending-admixture-admixture",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/spectacular-admixture-admixture",
@@ -13411,7 +13411,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#spectacular-admixture-admixture",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/spellshock-admixture-admixture",
@@ -13429,7 +13429,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#spellshock-admixture-admixture",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/telekinetic-admixture-admixture",
@@ -13447,7 +13447,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#telekinetic-admixture-admixture",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/time-thiefs-admixture-admixture",
@@ -13465,7 +13465,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#time-thiefs-admixture-admixture",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/umbral-admixture-admixture",
@@ -13483,7 +13483,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#umbral-admixture-admixture",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/unveiling-admixture-admixture",
@@ -13501,7 +13501,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction#unveiling-admixture-admixture",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/aligned-combatant",
@@ -13517,7 +13517,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Drawbacks#aligned-combatant",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/destructive-touch",
@@ -13533,7 +13533,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Drawbacks#destructive-touch",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/energy-focus",
@@ -13549,7 +13549,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Drawbacks#energy-focus",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/shape-focus",
@@ -13565,7 +13565,7 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Drawbacks#shape-focus",
   "options": [],
   "file": "destruction.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "destruction/uncontrolled-blaster",
@@ -13581,6 +13581,1866 @@
   "url": "Spheres-Of-Power/Destruction/Destruction-Sphere-Drawbacks#uncontrolled-blaster",
   "options": [],
   "file": "destruction.json",
+  "approved": true
+ },
+ {
+  "id": "divination/divine",
+  "name": "Divine",
+  "kind": "sphere ability",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#divine",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/alteration",
+  "name": "Alteration",
+  "kind": "alternate divination",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Alternate Divinations",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#alteration",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/blood",
+  "name": "Blood",
+  "kind": "alternate divination",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Alternate Divinations",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#blood",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/conjuration",
+  "name": "Conjuration",
+  "kind": "alternate divination",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Alternate Divinations",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#conjuration",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/creation",
+  "name": "Creation",
+  "kind": "alternate divination",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Alternate Divinations",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#creation",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/dark",
+  "name": "Dark",
+  "kind": "alternate divination",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Alternate Divinations",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#dark",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/death",
+  "name": "Death",
+  "kind": "alternate divination",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Alternate Divinations",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#death",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/destruction",
+  "name": "Destruction",
+  "kind": "alternate divination",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Alternate Divinations",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#destruction",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/enhancement",
+  "name": "Enhancement",
+  "kind": "alternate divination",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Alternate Divinations",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#enhancement",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/fallen-fey",
+  "name": "Fallen Fey",
+  "kind": "alternate divination",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Alternate Divinations",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#fallen-fey",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/fate",
+  "name": "Fate",
+  "kind": "alternate divination",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Alternate Divinations",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#fate",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/illusion",
+  "name": "Illusion",
+  "kind": "alternate divination",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Alternate Divinations",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#illusion",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/life",
+  "name": "Life",
+  "kind": "alternate divination",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Alternate Divinations",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#life",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/light",
+  "name": "Light",
+  "kind": "alternate divination",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Alternate Divinations",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#light",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/mana",
+  "name": "Mana",
+  "kind": "alternate divination",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Alternate Divinations",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#mana",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/mind",
+  "name": "Mind",
+  "kind": "alternate divination",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Alternate Divinations",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#mind",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/nature",
+  "name": "Nature",
+  "kind": "alternate divination",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Alternate Divinations",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#nature",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/protection",
+  "name": "Protection",
+  "kind": "alternate divination",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Alternate Divinations",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#protection",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/telekinesis",
+  "name": "Telekinesis",
+  "kind": "alternate divination",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Alternate Divinations",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#telekinesis",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/time",
+  "name": "Time",
+  "kind": "alternate divination",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Alternate Divinations",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#time",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/war",
+  "name": "War",
+  "kind": "alternate divination",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Alternate Divinations",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#war",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/warp",
+  "name": "Warp",
+  "kind": "alternate divination",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Alternate Divinations",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#warp",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/weather",
+  "name": "Weather",
+  "kind": "alternate divination",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Alternate Divinations",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#weather",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/sense",
+  "name": "Sense",
+  "kind": "sphere ability",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#sense",
+  "options": [
+   "Read Magic"
+  ],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/alarm-utility",
+  "name": "Alarm",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Divination Talents",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#alarm-utility",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/expanded-divinations",
+  "name": "Expanded Divinations",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Divination Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#expanded-divinations",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/fast-divinations",
+  "name": "Fast Divinations",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Divination Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#fast-divinations",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/grant-divination",
+  "name": "Grant Divination",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Divination Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#grant-divination",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/greater-divine-range",
+  "name": "Greater Divine",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Divination Talents",
+  "tags": [],
+  "talentTags": [
+   "range"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#greater-divine-range",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/instill-divination-instill",
+  "name": "Instill Divination",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Divination Talents",
+  "tags": [],
+  "talentTags": [
+   "instill"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#instill-divination-instill",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/lingering-divination",
+  "name": "Lingering Divination",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Divination Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#lingering-divination",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/revealing-strike-strike",
+  "name": "Revealing Strike",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Divination Talents",
+  "tags": [],
+  "talentTags": [
+   "strike"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#revealing-strike-strike",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/augury-divine-utility",
+  "name": "Augury",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Divine Talents",
+  "tags": [
+   "divine"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#augury-divine-utility",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/detect-secrets-divine-utility",
+  "name": "Detect Secrets",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Divine Talents",
+  "tags": [
+   "divine"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#detect-secrets-divine-utility",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/detect-spellcaster-divine",
+  "name": "Detect Spellcaster",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Divine Talents",
+  "tags": [
+   "divine"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#detect-spellcaster-divine",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/detect-thoughts-divine-utility",
+  "name": "Detect Thoughts",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Divine Talents",
+  "tags": [
+   "divine"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#detect-thoughts-divine-utility",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/divine-biohazard-divine",
+  "name": "Divine Biohazard",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Divine Talents",
+  "tags": [
+   "divine"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#divine-biohazard-divine",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/divine-future-divine",
+  "name": "Divine Future",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Divine Talents",
+  "tags": [
+   "divine"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#divine-future-divine",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/divine-information-divine-utility",
+  "name": "Divine Information",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Divine Talents",
+  "tags": [
+   "divine"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#divine-information-divine-utility",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/divine-relationships-divine-utility",
+  "name": "Divine Relationships",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Divine Talents",
+  "tags": [
+   "divine"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#divine-relationships-divine-utility",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/divine-treasure-divine-utility",
+  "name": "Divine Treasure",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Divine Talents",
+  "tags": [
+   "divine"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#divine-treasure-divine-utility",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/dowsing-divine-utility",
+  "name": "Dowsing",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Divine Talents",
+  "tags": [
+   "divine"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#dowsing-divine-utility",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/object-reading-divine-utility",
+  "name": "Object Reading",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Divine Talents",
+  "tags": [
+   "divine"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#object-reading-divine-utility",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/sensory-overload-divine",
+  "name": "Sensory Overload",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Divine Talents",
+  "tags": [
+   "divine"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#sensory-overload-divine",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/viewing-divine-utility",
+  "name": "Viewing",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Divine Talents",
+  "tags": [
+   "divine"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#viewing-divine-utility",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/witness-the-city-divine-utility",
+  "name": "Witness The City",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Divine Talents",
+  "tags": [
+   "divine"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#witness-the-city-divine-utility",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/battlefield-sense-sense",
+  "name": "Battlefield Sense",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Sense Talents",
+  "tags": [
+   "sense"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#battlefield-sense-sense",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/blindfolded-oracle-sense",
+  "name": "Blindfolded Oracle",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Sense Talents",
+  "tags": [
+   "sense"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#blindfolded-oracle-sense",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/detect-scrying-sense",
+  "name": "Detect Scrying",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Sense Talents",
+  "tags": [
+   "sense"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#detect-scrying-sense",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/discern-individual-sense",
+  "name": "Discern Individual",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Sense Talents",
+  "tags": [
+   "sense"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#discern-individual-sense",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/foreshadow-sense",
+  "name": "Foreshadow",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Sense Talents",
+  "tags": [
+   "sense"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#foreshadow-sense",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/ghost-sight-sense",
+  "name": "Ghost Sight",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Sense Talents",
+  "tags": [
+   "sense"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#ghost-sight-sense",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/logos-sense",
+  "name": "Logos",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Sense Talents",
+  "tags": [
+   "sense"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#logos-sense",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/nature-sense-sense",
+  "name": "Nature Sense",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Sense Talents",
+  "tags": [
+   "sense"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#nature-sense-sense",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/prescience-sense",
+  "name": "Prescience",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Sense Talents",
+  "tags": [
+   "sense"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#prescience-sense",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/prying-sight-sense",
+  "name": "Prying Sight",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Sense Talents",
+  "tags": [
+   "sense"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#prying-sight-sense",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/scent-sense",
+  "name": "Scent",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Sense Talents",
+  "tags": [
+   "sense"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#scent-sense",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/see-hazard-sense",
+  "name": "See Hazard",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Sense Talents",
+  "tags": [
+   "sense"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#see-hazard-sense",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/sense-magic-sense",
+  "name": "Sense Magic",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Sense Talents",
+  "tags": [
+   "sense"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#sense-magic-sense",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/sense-presence-sense",
+  "name": "Sense Presence",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Sense Talents",
+  "tags": [
+   "sense"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#sense-presence-sense",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/shared-perception-sense",
+  "name": "Shared Perception",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Sense Talents",
+  "tags": [
+   "sense"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#shared-perception-sense",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/snipers-eye-sense",
+  "name": "Sniper’s Eye",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Sense Talents",
+  "tags": [
+   "sense"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#snipers-eye-sense",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/tremorsense-sense",
+  "name": "Tremorsense",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Sense Talents",
+  "tags": [
+   "sense"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#tremorsense-sense",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/unhooded-sight-sense",
+  "name": "Unhooded Sight",
+  "kind": "talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Sense Talents",
+  "tags": [
+   "sense"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#unhooded-sight-sense",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/alternate-divinations-advanced-sense",
+  "name": "Alternate Divinations, Advanced",
+  "kind": "advanced talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Advanced Divination Talents",
+  "tags": [
+   "sense"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#alternate-divinations-advanced-sense",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/cartographers-divinations-divine-utility",
+  "name": "Cartographer’s Divinations",
+  "kind": "advanced talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Advanced Divination Talents",
+  "tags": [
+   "divine"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#cartographers-divinations-divine-utility",
+  "options": [
+   "Divine Chart",
+   "Lay of the Land",
+   "Pathfinder"
+  ],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/discern-location-divine-utility",
+  "name": "Discern Location",
+  "kind": "advanced talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Advanced Divination Talents",
+  "tags": [
+   "divine"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#discern-location-divine-utility",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/divine-identity-divine-utility",
+  "name": "Divine Identity",
+  "kind": "advanced talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Advanced Divination Talents",
+  "tags": [
+   "divine"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#divine-identity-divine-utility",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/divine-knowledge-divine-utility",
+  "name": "Divine Knowledge",
+  "kind": "advanced talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Advanced Divination Talents",
+  "tags": [
+   "divine"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#divine-knowledge-divine-utility",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/expansive-vision",
+  "name": "Expansive Vision",
+  "kind": "advanced talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Advanced Divination Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#expansive-vision",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/eye-in-the-sky",
+  "name": "Eye in the Sky",
+  "kind": "advanced talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Advanced Divination Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#eye-in-the-sky",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/eyes-of-the-cabal",
+  "name": "Eyes Of The Cabal",
+  "kind": "advanced talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Advanced Divination Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#eyes-of-the-cabal",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/greater-scrying-divine-utility",
+  "name": "Greater Scrying",
+  "kind": "advanced talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Advanced Divination Talents",
+  "tags": [
+   "divine"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#greater-scrying-divine-utility",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/hear-name-sense-utility",
+  "name": "Hear Name",
+  "kind": "advanced talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Advanced Divination Talents",
+  "tags": [
+   "sense"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#hear-name-sense-utility",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/penetrating-divination",
+  "name": "Penetrating Divination",
+  "kind": "advanced talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Advanced Divination Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#penetrating-divination",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/power-of-the-name-utility",
+  "name": "Power Of The Name",
+  "kind": "advanced talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Advanced Divination Talents",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#power-of-the-name-utility",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/read-omens-divine-utility",
+  "name": "Read Omens",
+  "kind": "advanced talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Advanced Divination Talents",
+  "tags": [
+   "divine"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#read-omens-divine-utility",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/remote-casting-divine",
+  "name": "Remote Casting",
+  "kind": "advanced talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Advanced Divination Talents",
+  "tags": [
+   "divine"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#remote-casting-divine",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/scrying-utility",
+  "name": "Scrying",
+  "kind": "advanced talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Advanced Divination Talents",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#scrying-utility",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/sense-observation-sense",
+  "name": "Sense Observation",
+  "kind": "advanced talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Advanced Divination Talents",
+  "tags": [
+   "sense"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#sense-observation-sense",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/sensitive-divinations",
+  "name": "Sensitive Divinations",
+  "kind": "advanced talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Advanced Divination Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#sensitive-divinations",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/speak-and-i-listen",
+  "name": "Speak And I Listen",
+  "kind": "advanced talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Advanced Divination Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#speak-and-i-listen",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/trapfinding-sense",
+  "name": "Trapfinding",
+  "kind": "advanced talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Advanced Divination Talents",
+  "tags": [
+   "sense"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#trapfinding-sense",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/true-perception-sense",
+  "name": "True Perception",
+  "kind": "advanced talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Advanced Divination Talents",
+  "tags": [
+   "sense"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#true-perception-sense",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/unobscured-vision-sense",
+  "name": "Unobscured Vision",
+  "kind": "advanced talent",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Advanced Divination Talents",
+  "tags": [
+   "sense"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination#unobscured-vision-sense",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/analyze-caster-dual-sphere",
+  "name": "Analyze Caster",
+  "kind": "feat",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#analyze-caster-dual-sphere",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/arcing-strike-combat",
+  "name": "Arcing Strike",
+  "kind": "feat",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#arcing-strike-combat",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/area-bypass",
+  "name": "Area Bypass",
+  "kind": "feat",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#area-bypass",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/aura-engineering-dual-sphere",
+  "name": "Aura Engineering",
+  "kind": "feat",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#aura-engineering-dual-sphere",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/divining-beacon-dual-sphere",
+  "name": "Divining Beacon",
+  "kind": "feat",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#divining-beacon-dual-sphere",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/ensouled-vision",
+  "name": "Ensouled Vision",
+  "kind": "feat",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#ensouled-vision",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/explanatory-illusion-dual-sphere",
+  "name": "Explanatory Illusion",
+  "kind": "feat",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#explanatory-illusion-dual-sphere",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/eyes-of-battle-dual-sphere",
+  "name": "Eyes Of Battle",
+  "kind": "feat",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#eyes-of-battle-dual-sphere",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/practiced-seer",
+  "name": "Practiced Seer",
+  "kind": "feat",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#practiced-seer",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/precogniscent-protection-combat",
+  "name": "Precogniscent Protection",
+  "kind": "feat",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#precogniscent-protection-combat",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/precogniscent-resistance-combat",
+  "name": "Precogniscent Resistance",
+  "kind": "feat",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#precogniscent-resistance-combat",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/precogniscent-smite-combat",
+  "name": "Precogniscent Smite",
+  "kind": "feat",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#precogniscent-smite-combat",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/scholar-of-past-and-future",
+  "name": "Scholar Of Past And Future",
+  "kind": "feat",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#scholar-of-past-and-future",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/survey-of-your-realm-dual-sphere",
+  "name": "Survey of your Realm",
+  "kind": "feat",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#survey-of-your-realm-dual-sphere",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/tabulated-mind",
+  "name": "Tabulated Mind",
+  "kind": "feat",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#tabulated-mind",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/totemic-radar-dual-sphere",
+  "name": "Totemic Radar",
+  "kind": "feat",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination-Sphere-Feats#totemic-radar-dual-sphere",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/divining-concoction",
+  "name": "Divining Concoction",
+  "kind": "drawback",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination-Sphere-Drawbacks#divining-concoction",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/limited-divination",
+  "name": "Limited Divination",
+  "kind": "drawback",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination-Sphere-Drawbacks#limited-divination",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/limited-penetration",
+  "name": "Limited Penetration",
+  "kind": "drawback",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination-Sphere-Drawbacks#limited-penetration",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/hidden-magic",
+  "name": "Hidden Magic",
+  "kind": "drawback",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination-Sphere-Drawbacks#hidden-magic",
+  "options": [],
+  "file": "divination.json",
+  "approved": false
+ },
+ {
+  "id": "divination/shaped-divination",
+  "name": "Shaped Divination",
+  "kind": "drawback",
+  "sphere": "Divination",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Divination/Divination-Sphere-Drawbacks#shaped-divination",
+  "options": [],
+  "file": "divination.json",
   "approved": false
  },
  {

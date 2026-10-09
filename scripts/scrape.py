@@ -2594,7 +2594,7 @@ COMPENDIUM = {
     },
     "Destruction": {
         "system": "Spheres of Power",
-        "approved": False,
+        "approved": True,
         "pages": [
             # Destructive Blast (its talent type and blast type group notes stay in its text)
             ("Destruction", "Destructive Blast", "sphere ability", 2, 5),
@@ -2606,6 +2606,24 @@ COMPENDIUM = {
             # the admixture feats printed on the Destruction page itself
             ("Destruction", "Admixture Feats", "feat", 4),
             ("Destruction Sphere Drawbacks", "(page)", "drawback", 4),
+        ],
+        "not_options": r"^Table|^Note",
+    },
+    "Divination": {
+        "system": "Spheres of Power",
+        "approved": False,
+        "pages": [
+            ("Divination", "Divine", "sphere ability", 2, 4),
+            # what divining each sphere's effects reveals, one heading per sphere
+            ("Divination", "Alternate Divinations", "alternate divination", 3),
+            # Sense, with Read Magic
+            ("Divination", "Sense", "sphere ability", 2, 4),
+            ("Divination", "Divination Talents", "talent", 4),
+            ("Divination", "Divine Talents", "talent", 4),
+            ("Divination", "Sense Talents", "talent", 4),
+            ("Divination", "Advanced Divination Talents", "advanced talent", 4),
+            ("Divination Sphere Feats", "(page)", "feat", 4),
+            ("Divination Sphere Drawbacks", "(page)", "drawback", 4),
         ],
         "not_options": r"^Table|^Note",
     },
