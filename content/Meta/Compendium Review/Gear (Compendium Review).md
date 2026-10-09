@@ -6,7 +6,7 @@ nosearch: true
 
 What the Character Builder's gear picker reads: Pathfinder items from Archives of Nethys, and the Spheres items found on the wiki's pages. Counts by category and group, then every Spheres item.
 
-## Weapon (490)
+## Weapon (413)
 
 | Group | Pathfinder | Spheres |
 | --- | --- | --- |
@@ -14,7 +14,6 @@ What the Character Builder's gear picker reads: Pathfinder items from Archives o
 | Exotic melee light (Weapon) | 36 | 4 |
 | Exotic melee one (Weapon) | 31 | 2 |
 | Exotic melee two (Weapon) | 44 | 4 |
-| Exotic ranged one (Firearm ammunition and gear) | 27 | — |
 | Exotic ranged one (Firearm) | 16 | — |
 | Exotic ranged one (Weapon) | 27 | 2 |
 | Exotic ranged two (Firearm) | 21 | — |
@@ -29,11 +28,19 @@ What the Character Builder's gear picker reads: Pathfinder items from Archives o
 | Simple melee two (Weapon) | 10 | — |
 | Simple ranged one (Weapon) | 6 | — |
 | Simple ranged two (Weapon) | 4 | — |
-| — melee  (Ammunition) | 35 | — |
 | — melee  (Modification) | 7 | — |
 | — melee light (Weapon) | 6 | — |
-| — ranged  (Ammunition) | — | 5 |
-| — ranged  (Siege engine) | 53 | — |
+| — ranged  (Siege engine) | 43 | — |
+
+## Ammo (93)
+
+| Group | Pathfinder | Spheres |
+| --- | --- | --- |
+| Adventuring Gear | 2 | — |
+| Alchemical Weapons | 14 | — |
+| Ammunition | 35 | 5 |
+| Firearm ammunition and gear | 27 | — |
+| Siege engine | 10 | — |
 
 ## Armor (62)
 
@@ -54,15 +61,15 @@ What the Character Builder's gear picker reads: Pathfinder items from Archives o
 | light | 8 | — |
 | tower | 1 | — |
 
-## Gear (1874)
+## Gear (1858)
 
 | Group | Pathfinder | Spheres |
 | --- | --- | --- |
-| Adventuring Gear | 435 | 34 |
+| Adventuring Gear | 433 | 34 |
 | Alchemical Items | — | 15 |
 | Alchemical Remedies | 79 | — |
 | Alchemical Tools | 217 | — |
-| Alchemical Weapons | 111 | — |
+| Alchemical Weapons | 97 | — |
 | Animal Gear | 57 | — |
 | Black Market | 37 | — |
 | Channel Foci | 18 | — |
@@ -251,12 +258,12 @@ What the Character Builder's gear picker reads: Pathfinder items from Archives o
 | [[Weapons#thunderstrike\|Thunderstrike]] | magic | Specific weapons | 45950 gp | 8 lb. |
 | [[Weapons#unerring-blade\|Unerring Blade]] | magic | Specific weapons | 9900 gp | 1 lb. |
 | [[Weapons#whip-of-command\|Whip of Command]] | magic | Specific weapons | 30707.5 gp | 2 lb. |
-| [[Weapons#arrow-vial\|Arrow, Vial]] | weapon | Ammunition | 5 gp | 0.3 lb. |
-| [[Weapons#bolt-vial\|Bolt, Vial]] | weapon | Ammunition | 5 gp | 0.3 lb. |
-| [[Weapons#injector-shot\|Injector Shot]] | weapon | Ammunition | 15 gp | 0.1 lb. |
+| [[Weapons#arrow-vial\|Arrow, Vial]] | ammo | Ammunition | 5 gp | 0.3 lb. |
+| [[Weapons#bolt-vial\|Bolt, Vial]] | ammo | Ammunition | 5 gp | 0.3 lb. |
+| [[Weapons#injector-shot\|Injector Shot]] | ammo | Ammunition | 15 gp | 0.1 lb. |
 | [[Weapons#living-crystal-bullet\|Living Crystal Bullet]] | magic | Specific weapons | 160 gp | 0 lb. |
-| [[Weapons#shatter-shot\|Shatter Shot]] | weapon | Ammunition | 15 gp | 0.1 lb. |
-| [[Weapons#splatter-shot\|Splatter Shot]] | weapon | Ammunition | 25 gp | 0 lb. |
+| [[Weapons#shatter-shot\|Shatter Shot]] | ammo | Ammunition | 15 gp | 0.1 lb. |
+| [[Weapons#splatter-shot\|Splatter Shot]] | ammo | Ammunition | 25 gp | 0 lb. |
 | [[Weapons#eclipse-blade-major-artifact\|Eclipse Blade (Major Artifact)]] | magic | Specific weapons | 0 gp | 8 lb. |
 | [[Weapons#holy-kings-blade-minor-artifact\|Holy King’s Blade (Minor Artifact)]] | magic | Specific weapons | 0 gp | 4 lb. |
 | [[Weapons#the-canceller-minor-artifact\|The Canceller (Minor Artifact)]] | magic | Specific weapons | 0 gp | 2 lb. |

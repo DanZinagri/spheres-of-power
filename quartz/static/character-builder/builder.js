@@ -46,7 +46,7 @@ const MAGIC_SPHERES = ["alteration", "bear", "blood", "conjuration", "creation",
 const COMBAT_SPHERES = ["alchemy", "athletics", "barrage", "barroom", "beastmastery", "berserker", "boxing", "brute", "dualWielding", "duelist", "equipment", "fencing", "gladiator", "guardian", "lancer", "leadership", "openHand", "scoundrel", "scout", "shield", "sniper", "trap", "warleader", "wrestling"]
 const SKILL_SPHERES = ["artifice", "bluster", "bodyControl", "communication", "faction", "herbalism", "infiltration", "investigation", "navigation", "performance", "spellhacking", "study", "subterfuge", "survivalism", "vocation"]
 const sphereKind = (key) => (MAGIC_SPHERES.includes(key) ? "magic" : COMBAT_SPHERES.includes(key) ? "combat" : SKILL_SPHERES.includes(key) ? "skill" : null)
-const GEAR_KINDS = { weapon: "Weapon", armor: "Armor", shield: "Shield", equipment: "Wondrous / worn", consumable: "Consumable", loot: "Gear / loot" }
+const GEAR_KINDS = { weapon: "Weapon", ammo: "Ammunition", armor: "Armor", shield: "Shield", equipment: "Wondrous / worn", consumable: "Consumable", loot: "Gear / loot" }
 const ARMOR_TYPES = { lightArmor: "Light", mediumArmor: "Medium", heavyArmor: "Heavy" }
 const SHIELD_TYPES = { lightShield: "Light", heavyShield: "Heavy", towerShield: "Tower", other: "Other" }
 const DAMAGE_TYPES = { B: "bludgeoning", P: "piercing", S: "slashing" }
@@ -1800,7 +1800,7 @@ function openSpellSearch() {
 // compendium/gear-index-<cat>.json lists each category's items (Archives of Nethys and the Spheres
 // pages) with price, weight and stats; gear-<cat>.json holds their text. Consumables can also be
 // made from a spell (potion, scroll or wand), priced by the item creation rules.
-const GEAR_PICK_CATS = { weapon: "Weapons", armor: "Armor", shield: "Shields", gear: "Adventuring gear", consumable: "Consumables", magic: "Magic items" }
+const GEAR_PICK_CATS = { weapon: "Weapons", ammo: "Ammunition", armor: "Armor", shield: "Shields", gear: "Adventuring gear", consumable: "Consumables", magic: "Magic items" }
 const COIN_CP = { pp: 1000, gp: 100, sp: 10, cp: 1 }
 // spell-made consumables: highest spell level, price per spell level x caster level, weight (lb.)
 const SPELL_ITEMS = {
@@ -1902,10 +1902,11 @@ function openGearSearch(cat) {
       ["attack", gearSelect("Melee or ranged", { "": "Melee or ranged", melee: "Melee", ranged: "Ranged" }),
         (f, v) => f.attack === v || (v === "ranged" && f.thrown)],
       ["hands", gearSelect("Hands", { "": "Any handedness", light: "Light", one: "One-handed", two: "Two-handed" }), (f, v) => f.hands === v],
-      ["sub", gearSelect("Kind", { "": "Weapons and ammunition", Weapon: "Weapons", Ammunition: "Ammunition", Firearm: "Firearms",
-        "Firearm ammunition and gear": "Firearm ammunition and gear", Explosive: "Explosives", "Siege engine": "Siege engines",
-        Modification: "Modifications" }), (f, v) => f.sub === v],
+      ["sub", gearSelect("Kind", { "": "All weapons", Weapon: "Weapons", Firearm: "Firearms", Explosive: "Explosives",
+        "Siege engine": "Siege engines", Modification: "Modifications" }), (f, v) => f.sub === v],
     ],
+    ammo: [["ammoFor", gearSelect("For", { "": "For any weapon", Bows: "Bows", Crossbows: "Crossbows", Firearms: "Firearms (and powder, gear)",
+      Slings: "Slings", "Darts and blowguns": "Darts and blowguns", "Siege engines": "Siege engines" }), (f, v) => f.ammoFor === v]],
     armor: [["armorType", gearSelect("Armor type", { "": "Any armor", light: "Light", medium: "Medium", heavy: "Heavy",
       extra: "Extras (spikes, gauntlet)", mod: "Modifications" }), (f, v) => f.armorType === v]],
     shield: [
@@ -1971,6 +1972,7 @@ function openGearSearch(cat) {
     if (cat === "armor") bits.push(`${f.armorType}`, f.ac ? `AC +${f.ac}` : "", f.maxDex != null ? `max Dex +${f.maxDex}` : "", f.acp ? `ACP −${f.acp}` : "")
     if (cat === "shield") bits.push(f.shieldType, f.material !== "other" ? f.material : "", `AC +${f.ac}`, f.acp ? `ACP −${f.acp}` : "")
     if (cat === "gear" || cat === "consumable") bits.push(f.sub)
+    if (cat === "ammo") bits.push(`for ${f.ammoFor.toLowerCase()}`)
     if (cat === "magic") bits.push(f.sub, f.slot && f.slot !== "none" ? `slot ${f.slot}` : "", f.base ? `+${f.enh} ${f.base.toLowerCase()}` : "")
     if (!isPf(f)) bits.push(f.system)
     return bits.filter(Boolean).join(" · ")
@@ -2050,7 +2052,7 @@ function openGearSearch(cat) {
     const as = f.as ?? cat
     const e = Number(enh.value) || (enh.value === "mw" ? "mw" : 0)
     let name = f.name, price = f.price ?? 0
-    const item = { kind: { weapon: "weapon", armor: "armor", shield: "shield", gear: f.consumable ? "consumable" : "loot",
+    const item = { kind: { weapon: "weapon", ammo: "ammo", armor: "armor", shield: "shield", gear: f.consumable ? "consumable" : "loot",
       consumable: "consumable", magic: "equipment" }[as] ?? "equipment",
     weight: (f.weight ?? 0) * (small && ["weapon", "armor", "shield"].includes(cat) ? 0.5 : 1), ref: f.id,
     desc: mdToText(full?.md ?? f.summary) }
@@ -2472,6 +2474,8 @@ function gearItem(g) {
       return item("equipment", g.name, { ...base, subType: "wondrous", slot: "slotless", equipped: !!g.equipped })
     case "consumable":
       return item("consumable", g.name, { ...base, subType: ["potion", "scroll", "wand"].includes(g.subType) ? g.subType : g.subType ? "misc" : "potion" })
+    case "ammo":
+      return item("loot", g.name, { ...base, subType: "ammo" })
     default:
       return item("loot", g.name, { ...base, subType: "gear" })
   }

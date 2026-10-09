@@ -4860,7 +4860,7 @@ def build_spell_compendium() -> int:
 # pf1e/gear-data.json for where AoN lists each one: armor category, weapon table); Spheres items
 # from the wiki's equipment and magic item pages. Weapon and armor qualities (Flaming, Fortification)
 # aren't items of their own and stay out.
-GEAR_CATS = ["weapon", "armor", "shield", "gear", "consumable", "magic"]
+GEAR_CATS = ["weapon", "ammo", "armor", "shield", "gear", "consumable", "magic"]
 # the wiki's gear pages that aren't magic items (magic items are found on any page by their stat block)
 SPHERES_GEAR_PAGES = {"Adventuring Gear": "Adventuring Gear", "Technological Gear": "Technological Gear",
                       "Equipment": "Spheres Equipment", "Alchemical Items": "Alchemical Items",
@@ -5201,6 +5201,22 @@ def build_gear_compendium() -> int:
                 seen.add((system, "weapon", key))
                 entries.append(_gear_entry("weapon", row["name"], system, page_src, _page_url(f), "", row["cost"], row["weight"],
                                            **row["stats"]))
+    # ammunition (and firearm gear: powder, cartridges) is its own category, with what fires it;
+    # AoN lists alchemical arrows and bolts as gear, siege ammunition with the siege engines
+    for x in entries:
+        sect = where.get(x["url"], {}).get("section", "")
+        n = x["name"].lower()
+        ammo = (x["cat"] == "weapon" and (x.get("sub") in ("Ammunition", "Firearm ammunition and gear")
+                                          or x.get("sub") == "Siege engine" and "Ammunition" in sect)
+                or x["cat"] == "gear" and re.match(r"(arrows?|bolts?|firearm bullets?)\b", n))
+        if ammo:
+            x["cat"] = "ammo"
+            x["ammoFor"] = ("Siege engines" if "Siege" in sect or x.get("sub") == "Siege engine"
+                            else "Firearms" if x.get("sub") == "Firearm ammunition and gear"
+                            or re.search(r"firearm|cartridge|black powder|powder horn|pellets|\bshot$", n)
+                            else "Bows" if "arrow" in n else "Crossbows" if "bolt" in n
+                            else "Slings" if re.search(r"sling|bullet|stone", n)
+                            else "Darts and blowguns" if re.search(r"dart|thorns", n) else "Other")
     # ids, files and the index
     used: set[str] = set()
     for x in entries:
