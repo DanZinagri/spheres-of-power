@@ -1,7 +1,7 @@
 {
  "sphere": "Creation",
  "system": "Spheres of Power",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "creation/alter",

@@ -2559,7 +2559,7 @@ COMPENDIUM = {
     },
     "Creation": {
         "system": "Spheres of Power",
-        "approved": False,
+        "approved": True,
         "pages": [
             # Alter (with Destroy and Repair) and Create (its clarifications stay in its text)
             ("Creation", "Alter", "sphere ability", 2, 4),
@@ -2572,6 +2572,25 @@ COMPENDIUM = {
             ("Creation Sphere Drawbacks", "(page)", "drawback", 4),
         ],
         "not_options": r"^Table|^Note",
+    },
+    "Death": {
+        "system": "Spheres of Power",
+        "approved": False,
+        "pages": [
+            # Ghost Strike (with Exhausting Strike) and Reanimate
+            ("Death", "Ghost Strike", "sphere ability", 2, 4),
+            ("Death", "Reanimate", "sphere ability", 2, 4),
+            ("Death", "Death Talents", "talent", 4),
+            ("Death", "Dominion Talents", "talent", 4),
+            ("Death", "Ghost Strike Talents", "talent", 4),
+            ("Death", "Advanced Death Talents", "advanced talent", 4),
+            ("Death Sphere Feats", "(page)", "feat", 4),
+            # the necrosis feats printed on the Death page itself
+            ("Death", "Necrosis Feats", "feat", 4),
+            ("Death Sphere Drawbacks", "(page)", "drawback", 4),
+        ],
+        # rules notes: the (dominion) errata note, and Create Soul Gem's notes on souls
+        "not_options": r"^Table|^Note|^Dominion$|^The Value of Souls|^Oath of Loyalty",
     },
     "Warleader": {
         "system": "Spheres of Might",

@@ -7594,7 +7594,7 @@
    "Repair"
   ],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/create",
@@ -7610,7 +7610,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#create",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/altering-burst",
@@ -7626,7 +7626,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#altering-burst",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/created-momentum",
@@ -7642,7 +7642,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#created-momentum",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/distant-creation-range",
@@ -7660,7 +7660,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#distant-creation-range",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/divided-creation-mass",
@@ -7678,7 +7678,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#divided-creation-mass",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/exquisite-detail-utility",
@@ -7696,7 +7696,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#exquisite-detail-utility",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/instill-alteration-instill",
@@ -7714,7 +7714,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#instill-alteration-instill",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/larger-creation",
@@ -7730,7 +7730,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#larger-creation",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/lengthened-creation",
@@ -7746,7 +7746,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#lengthened-creation",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/mass-liquid-generation",
@@ -7762,7 +7762,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#mass-liquid-generation",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/potent-alteration",
@@ -7778,7 +7778,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#potent-alteration",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/practiced-creation",
@@ -7794,7 +7794,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#practiced-creation",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/precise-destruction-utility",
@@ -7812,7 +7812,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#precise-destruction-utility",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/replication",
@@ -7828,7 +7828,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#replication",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/restrictive-casing",
@@ -7844,7 +7844,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#restrictive-casing",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/transmuting-strike-strike",
@@ -7862,7 +7862,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#transmuting-strike-strike",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/change-material-alter",
@@ -7880,7 +7880,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#change-material-alter",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/crack-alter",
@@ -7898,7 +7898,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#crack-alter",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/forge-alter",
@@ -7916,7 +7916,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#forge-alter",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/magnifyminimize-alter",
@@ -7934,7 +7934,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#magnifyminimize-alter",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/rigidity-alter",
@@ -7952,7 +7952,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#rigidity-alter",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/transparency-alter-utility",
@@ -7972,7 +7972,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#transparency-alter-utility",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/acidic-creation-material",
@@ -7990,7 +7990,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#acidic-creation-material",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/alchemical-creation-material",
@@ -8008,7 +8008,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#alchemical-creation-material",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/expanded-materials-material",
@@ -8026,7 +8026,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#expanded-materials-material",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/gaseous-generation-material",
@@ -8044,7 +8044,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#gaseous-generation-material",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/object-of-force-material",
@@ -8062,7 +8062,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#object-of-force-material",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/plasma-production-material",
@@ -8080,7 +8080,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#plasma-production-material",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/corp-criadhach",
@@ -8096,7 +8096,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#corp-criadhach",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/costly-creation",
@@ -8112,7 +8112,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#costly-creation",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/create-materials",
@@ -8128,7 +8128,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#create-materials",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/create-minds-think-alike",
@@ -8144,7 +8144,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#create-minds-think-alike",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/dissolution-alter",
@@ -8162,7 +8162,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#dissolution-alter",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/duplicate",
@@ -8178,7 +8178,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#duplicate",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/fabricate",
@@ -8194,7 +8194,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#fabricate",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/fleshcraft-material",
@@ -8212,7 +8212,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#fleshcraft-material",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/imperfect-recreation",
@@ -8228,7 +8228,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#imperfect-recreation",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/internal-creation",
@@ -8244,7 +8244,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#internal-creation",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/magma-mastery-material",
@@ -8262,7 +8262,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#magma-mastery-material",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/material-body-alter",
@@ -8280,7 +8280,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#material-body-alter",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/mythical-material-maker-material",
@@ -8298,7 +8298,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#mythical-material-maker-material",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/ooze-originator-create",
@@ -8316,7 +8316,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#ooze-originator-create",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/permanent-change",
@@ -8332,7 +8332,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#permanent-change",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/plasma-projection",
@@ -8348,7 +8348,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#plasma-projection",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/state-shift-alter",
@@ -8366,7 +8366,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#state-shift-alter",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/sustenance-material-utility",
@@ -8386,7 +8386,7 @@
   "url": "Spheres-Of-Power/Creation/Creation#sustenance-material-utility",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/alloy-creation-dual-sphere",
@@ -8404,7 +8404,7 @@
   "url": "Spheres-Of-Power/Creation/Creation-Sphere-Feats#alloy-creation-dual-sphere",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/before-creation-comes-destruction",
@@ -8420,7 +8420,7 @@
   "url": "Spheres-Of-Power/Creation/Creation-Sphere-Feats#before-creation-comes-destruction",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/cooperative-destruction-dual-sphere",
@@ -8438,7 +8438,7 @@
   "url": "Spheres-Of-Power/Creation/Creation-Sphere-Feats#cooperative-destruction-dual-sphere",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/creation-mastery",
@@ -8454,7 +8454,7 @@
   "url": "Spheres-Of-Power/Creation/Creation-Sphere-Feats#creation-mastery",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/destructive-counter-combat",
@@ -8472,7 +8472,7 @@
   "url": "Spheres-Of-Power/Creation/Creation-Sphere-Feats#destructive-counter-combat",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/enhanced-creation-dual-sphere",
@@ -8490,7 +8490,7 @@
   "url": "Spheres-Of-Power/Creation/Creation-Sphere-Feats#enhanced-creation-dual-sphere",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/fissile-creation-dual-sphere",
@@ -8508,7 +8508,7 @@
   "url": "Spheres-Of-Power/Creation/Creation-Sphere-Feats#fissile-creation-dual-sphere",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/floating-creation-dual-sphere",
@@ -8526,7 +8526,7 @@
   "url": "Spheres-Of-Power/Creation/Creation-Sphere-Feats#floating-creation-dual-sphere",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/forceful-creation-dual-sphere",
@@ -8544,7 +8544,7 @@
   "url": "Spheres-Of-Power/Creation/Creation-Sphere-Feats#forceful-creation-dual-sphere",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/hard-light-dual-sphere",
@@ -8562,7 +8562,7 @@
   "url": "Spheres-Of-Power/Creation/Creation-Sphere-Feats#hard-light-dual-sphere",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/kinetic-creation-dual-sphere",
@@ -8580,7 +8580,7 @@
   "url": "Spheres-Of-Power/Creation/Creation-Sphere-Feats#kinetic-creation-dual-sphere",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/master-of-remaking",
@@ -8596,7 +8596,7 @@
   "url": "Spheres-Of-Power/Creation/Creation-Sphere-Feats#master-of-remaking",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/precision-bombardment-combat",
@@ -8614,7 +8614,7 @@
   "url": "Spheres-Of-Power/Creation/Creation-Sphere-Feats#precision-bombardment-combat",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/precocious-creation",
@@ -8630,7 +8630,7 @@
   "url": "Spheres-Of-Power/Creation/Creation-Sphere-Feats#precocious-creation",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/propulsive-creation-dual-sphere",
@@ -8648,7 +8648,7 @@
   "url": "Spheres-Of-Power/Creation/Creation-Sphere-Feats#propulsive-creation-dual-sphere",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/reforge-object-dual-sphere",
@@ -8666,7 +8666,7 @@
   "url": "Spheres-Of-Power/Creation/Creation-Sphere-Feats#reforge-object-dual-sphere",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/shape-quintessence-dual-sphere",
@@ -8684,7 +8684,7 @@
   "url": "Spheres-Of-Power/Creation/Creation-Sphere-Feats#shape-quintessence-dual-sphere",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/surreinforcement-dual-sphere",
@@ -8702,7 +8702,7 @@
   "url": "Spheres-Of-Power/Creation/Creation-Sphere-Feats#surreinforcement-dual-sphere",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/wall-master",
@@ -8718,7 +8718,7 @@
   "url": "Spheres-Of-Power/Creation/Creation-Sphere-Feats#wall-master",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/wondrous-wardrobe",
@@ -8734,7 +8734,7 @@
   "url": "Spheres-Of-Power/Creation/Creation-Sphere-Feats#wondrous-wardrobe",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/counterfeit",
@@ -8750,7 +8750,7 @@
   "url": "Spheres-Of-Power/Creation/Creation-Sphere-Drawbacks#counterfeit",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/down-to-earth",
@@ -8766,7 +8766,7 @@
   "url": "Spheres-Of-Power/Creation/Creation-Sphere-Drawbacks#down-to-earth",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/fission",
@@ -8782,7 +8782,7 @@
   "url": "Spheres-Of-Power/Creation/Creation-Sphere-Drawbacks#fission",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/limited-creation",
@@ -8798,7 +8798,7 @@
   "url": "Spheres-Of-Power/Creation/Creation-Sphere-Drawbacks#limited-creation",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/material-focus",
@@ -8814,7 +8814,7 @@
   "url": "Spheres-Of-Power/Creation/Creation-Sphere-Drawbacks#material-focus",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/material-mimic",
@@ -8830,7 +8830,7 @@
   "url": "Spheres-Of-Power/Creation/Creation-Sphere-Drawbacks#material-mimic",
   "options": [],
   "file": "creation.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "creation/water-wizard",
@@ -8846,6 +8846,1935 @@
   "url": "Spheres-Of-Power/Creation/Creation-Sphere-Drawbacks#water-wizard",
   "options": [],
   "file": "creation.json",
+  "approved": true
+ },
+ {
+  "id": "death/ghost-strike",
+  "name": "Ghost Strike",
+  "kind": "sphere ability",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#ghost-strike",
+  "options": [
+   "Exhausting Strike"
+  ],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/reanimate",
+  "name": "Reanimate",
+  "kind": "sphere ability",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#reanimate",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/corpse-bomb",
+  "name": "Corpse Bomb",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Death Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#corpse-bomb",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/corpse-manipulation",
+  "name": "Corpse Manipulation",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Death Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#corpse-manipulation",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/cryptic-strike-strike",
+  "name": "Cryptic Strike",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Death Talents",
+  "tags": [],
+  "talentTags": [
+   "strike"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#cryptic-strike-strike",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/empowered-reanimate",
+  "name": "Empowered Reanimate",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Death Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#empowered-reanimate",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/expanded-necromancy",
+  "name": "Expanded Necromancy",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Death Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#expanded-necromancy",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/gravetongue-utility",
+  "name": "Gravetongue",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Death Talents",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#gravetongue-utility",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/greater-reanimate",
+  "name": "Greater Reanimate",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Death Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#greater-reanimate",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/haunting-apparition",
+  "name": "Haunting Apparition",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Death Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#haunting-apparition",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/icy-grip",
+  "name": "Icy Grip",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Death Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#icy-grip",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/instill-death-instill",
+  "name": "Instill Death",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Death Talents",
+  "tags": [],
+  "talentTags": [
+   "instill"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#instill-death-instill",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/killing-curse",
+  "name": "Killing Curse",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Death Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#killing-curse",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/mass-death-magic-mass",
+  "name": "Mass Death Magic",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Death Talents",
+  "tags": [],
+  "talentTags": [
+   "mass"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#mass-death-magic-mass",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/necromantic-conscription",
+  "name": "Necromantic Conscription",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Death Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#necromantic-conscription",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/ranged-death-range",
+  "name": "Ranged Death",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Death Talents",
+  "tags": [],
+  "talentTags": [
+   "range"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#ranged-death-range",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/sustained-necromancy",
+  "name": "Sustained Necromancy",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Death Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#sustained-necromancy",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/taint-soul",
+  "name": "Taint Soul",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Death Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#taint-soul",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/tomb-of-flesh",
+  "name": "Tomb Of Flesh",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Death Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#tomb-of-flesh",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/dark-sacrifice-dominion",
+  "name": "Dark Sacrifice",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Dominion Talents",
+  "tags": [
+   "dominion"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#dark-sacrifice-dominion",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/masters-presence-dominion",
+  "name": "Master’s Presence",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Dominion Talents",
+  "tags": [
+   "dominion"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#masters-presence-dominion",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/necrotic-conduit-dominion",
+  "name": "Necrotic Conduit",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Dominion Talents",
+  "tags": [
+   "dominion"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#necrotic-conduit-dominion",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/piecemeal-reanimation-dominion",
+  "name": "Piecemeal Reanimation",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Dominion Talents",
+  "tags": [
+   "dominion"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#piecemeal-reanimation-dominion",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/reanimated-warriors-dominion",
+  "name": "Reanimated Warriors",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Dominion Talents",
+  "tags": [
+   "dominion"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#reanimated-warriors-dominion",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/shroud-dominion",
+  "name": "Shroud",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Dominion Talents",
+  "tags": [
+   "dominion"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#shroud-dominion",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/undead-whisperer-dominion",
+  "name": "Undead Whisperer",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Dominion Talents",
+  "tags": [
+   "dominion"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#undead-whisperer-dominion",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/bleeding-wounds-ghost-strike",
+  "name": "Bleeding Wounds",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Ghost Strike Talents",
+  "tags": [
+   "ghost strike"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#bleeding-wounds-ghost-strike",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/bonerattle-ghost-strike",
+  "name": "Bonerattle",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Ghost Strike Talents",
+  "tags": [
+   "ghost strike"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#bonerattle-ghost-strike",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/command-undead-ghost-strike",
+  "name": "Command Undead",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Ghost Strike Talents",
+  "tags": [
+   "ghost strike"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#command-undead-ghost-strike",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/curse-ghost-strike-curse",
+  "name": "Curse",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Ghost Strike Talents",
+  "tags": [
+   "ghost strike"
+  ],
+  "talentTags": [
+   "curse"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#curse-ghost-strike-curse",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/drain-ghost-strike",
+  "name": "Drain",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Ghost Strike Talents",
+  "tags": [
+   "ghost strike"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#drain-ghost-strike",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/fowl-infestation-ghost-strike-curse",
+  "name": "Fowl Infestation",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Ghost Strike Talents",
+  "tags": [
+   "ghost strike"
+  ],
+  "talentTags": [
+   "curse"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#fowl-infestation-ghost-strike-curse",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/hunger-ghost-strike",
+  "name": "Hunger",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Ghost Strike Talents",
+  "tags": [
+   "ghost strike"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#hunger-ghost-strike",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/inflict-disease-ghost-strike",
+  "name": "Inflict Disease",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Ghost Strike Talents",
+  "tags": [
+   "ghost strike"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#inflict-disease-ghost-strike",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/lich-strike-ghost-strike",
+  "name": "Lich Strike",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Ghost Strike Talents",
+  "tags": [
+   "ghost strike"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#lich-strike-ghost-strike",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/manipulate-undeath-ghost-strike",
+  "name": "Manipulate Undeath",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Ghost Strike Talents",
+  "tags": [
+   "ghost strike"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#manipulate-undeath-ghost-strike",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/necrotic-feeding-ghost-strike",
+  "name": "Necrotic Feeding",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Ghost Strike Talents",
+  "tags": [
+   "ghost strike"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#necrotic-feeding-ghost-strike",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/poltergeist-ghost-strike",
+  "name": "Poltergeist",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Ghost Strike Talents",
+  "tags": [
+   "ghost strike"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#poltergeist-ghost-strike",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/sickening-ghost-strike",
+  "name": "Sickening",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Ghost Strike Talents",
+  "tags": [
+   "ghost strike"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#sickening-ghost-strike",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/spectral-distortion-ghost-strike",
+  "name": "Spectral Distortion",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Ghost Strike Talents",
+  "tags": [
+   "ghost strike"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#spectral-distortion-ghost-strike",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/vampiric-strike-ghost-strike",
+  "name": "Vampiric Strike",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Ghost Strike Talents",
+  "tags": [
+   "ghost strike"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#vampiric-strike-ghost-strike",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/weakening-ghost-strike",
+  "name": "Weakening",
+  "kind": "talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Ghost Strike Talents",
+  "tags": [
+   "ghost strike"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#weakening-ghost-strike",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/astral-projection-utility",
+  "name": "Astral Projection",
+  "kind": "advanced talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Advanced Death Talents",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#astral-projection-utility",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/astral-travel-utility",
+  "name": "Astral Travel",
+  "kind": "advanced talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Advanced Death Talents",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#astral-travel-utility",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/avasculation-ghost-strike",
+  "name": "Avasculation",
+  "kind": "advanced talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Advanced Death Talents",
+  "tags": [
+   "ghost strike"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#avasculation-ghost-strike",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/corpse-forge-dominion",
+  "name": "Corpse Forge",
+  "kind": "advanced talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Advanced Death Talents",
+  "tags": [
+   "dominion"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#corpse-forge-dominion",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/create-haunt",
+  "name": "Create Haunt",
+  "kind": "advanced talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Advanced Death Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#create-haunt",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/create-soul-gem",
+  "name": "Create Soul Gem",
+  "kind": "advanced talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Advanced Death Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#create-soul-gem",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/deadlords-reach-dominion",
+  "name": "Deadlord’s Reach",
+  "kind": "advanced talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Advanced Death Talents",
+  "tags": [
+   "dominion"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#deadlords-reach-dominion",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/enervation",
+  "name": "Enervation",
+  "kind": "advanced talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Advanced Death Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#enervation",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/evisceration-ghost-strike",
+  "name": "Evisceration",
+  "kind": "advanced talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Advanced Death Talents",
+  "tags": [
+   "ghost strike"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#evisceration-ghost-strike",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/extended-command",
+  "name": "Extended Command",
+  "kind": "advanced talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Advanced Death Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#extended-command",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/greater-curse",
+  "name": "Greater Curse",
+  "kind": "advanced talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Advanced Death Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#greater-curse",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/greater-undead",
+  "name": "Greater Undead",
+  "kind": "advanced talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Advanced Death Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#greater-undead",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/hollow-body",
+  "name": "Hollow Body",
+  "kind": "advanced talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Advanced Death Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#hollow-body",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/mercy-killing",
+  "name": "Mercy Killing",
+  "kind": "advanced talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Advanced Death Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#mercy-killing",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/permanent-undead",
+  "name": "Permanent Undead",
+  "kind": "advanced talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Advanced Death Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#permanent-undead",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/possession",
+  "name": "Possession",
+  "kind": "advanced talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Advanced Death Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#possession",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/project-spirit",
+  "name": "Project Spirit",
+  "kind": "advanced talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Advanced Death Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#project-spirit",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/soul-drain",
+  "name": "Soul Drain",
+  "kind": "advanced talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Advanced Death Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#soul-drain",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/soul-trap",
+  "name": "Soul Trap",
+  "kind": "advanced talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Advanced Death Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#soul-trap",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/summon-spirit",
+  "name": "Summon Spirit",
+  "kind": "advanced talent",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Advanced Death Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#summon-spirit",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/anemic-wounds",
+  "name": "Anemic Wounds",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#anemic-wounds",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/animating-possession-dual-sphere",
+  "name": "Animating Possession",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#animating-possession-dual-sphere",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/baleful-storm-dual-sphere",
+  "name": "Baleful Storm",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#baleful-storm-dual-sphere",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/blessed-necromancy-dual-sphere",
+  "name": "Blessed Necromancy",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#blessed-necromancy-dual-sphere",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/channel-resistance",
+  "name": "Channel Resistance",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#channel-resistance",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/channeled-detonation-channeling",
+  "name": "Channeled Detonation",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Channeling"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#channeled-detonation-channeling",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/cooperative-reanimate-teamwork",
+  "name": "Cooperative Reanimate",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Teamwork"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#cooperative-reanimate-teamwork",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/corpse-explosion-dual-sphere",
+  "name": "Corpse Explosion",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#corpse-explosion-dual-sphere",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/crimson-theurgy-dual-sphere",
+  "name": "Crimson Theurgy",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#crimson-theurgy-dual-sphere",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/deadcaller",
+  "name": "Deadcaller",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#deadcaller",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/dispatch-the-weak",
+  "name": "Dispatch The Weak",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#dispatch-the-weak",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/extradimensional-gullet-combat",
+  "name": "Extradimensional Gullet",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#extradimensional-gullet-combat",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/flesh-absorption-master",
+  "name": "Flesh Absorption Master",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#flesh-absorption-master",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/flexible-ghost-strike-dual-sphere",
+  "name": "Flexible Ghost Strike",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#flexible-ghost-strike-dual-sphere",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/lifebound-auspician",
+  "name": "Lifebound Auspician",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#lifebound-auspician",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/might-of-the-grave-dual-sphere",
+  "name": "Might Of The Grave",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#might-of-the-grave-dual-sphere",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/parts-and-pieces-dual-sphere",
+  "name": "Parts And Pieces",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#parts-and-pieces-dual-sphere",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/piecemeal-animation-dual-sphere",
+  "name": "Piecemeal Animation",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#piecemeal-animation-dual-sphere",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/plague-lord",
+  "name": "Plague Lord",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#plague-lord",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/poltergeists-malice-dual-sphere",
+  "name": "Poltergeist’s Malice",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#poltergeists-malice-dual-sphere",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/rage-of-the-grave-combat",
+  "name": "Rage Of The Grave",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#rage-of-the-grave-combat",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/soul-seer",
+  "name": "Soul Seer",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#soul-seer",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/strange-corpsecraft",
+  "name": "Strange Corpsecraft",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#strange-corpsecraft",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/superior-reanimation",
+  "name": "Superior Reanimation",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#superior-reanimation",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/swift-demise-dual-sphere",
+  "name": "Swift Demise",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#swift-demise-dual-sphere",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/sylvan-necromancy-dual-sphere",
+  "name": "Sylvan Necromancy",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#sylvan-necromancy-dual-sphere",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/twisted-reanimation-dual-sphere",
+  "name": "Twisted Reanimation",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#twisted-reanimation-dual-sphere",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/undead-animal-companion",
+  "name": "Undead Animal Companion",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#undead-animal-companion",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/versatile-feeding",
+  "name": "Versatile Feeding",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#versatile-feeding",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/vudu-dual-sphere",
+  "name": "Vudu",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#vudu-dual-sphere",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/warded-bones-dual-sphere",
+  "name": "Warded Bones",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#warded-bones-dual-sphere",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/warlord-of-the-damned-dual-sphere",
+  "name": "Warlord Of The Damned",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Feats#warlord-of-the-damned-dual-sphere",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/banshees-sotto-voce-necrosis",
+  "name": "Banshee’s Sotto Voce",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Necrosis Feats",
+  "tags": [
+   "Necrosis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#banshees-sotto-voce-necrosis",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/between-two-worlds-necrosis",
+  "name": "Between Two Worlds",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Necrosis Feats",
+  "tags": [
+   "Necrosis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#between-two-worlds-necrosis",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/cold-heart-necrosis",
+  "name": "Cold Heart",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Necrosis Feats",
+  "tags": [
+   "Necrosis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#cold-heart-necrosis",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/deadened-flesh-necrosis",
+  "name": "Deadened Flesh",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Necrosis Feats",
+  "tags": [
+   "Necrosis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#deadened-flesh-necrosis",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/deathknights-purchase-combat-necrosis",
+  "name": "Deathknight’s Purchase",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Necrosis Feats",
+  "tags": [
+   "Combat",
+   "Necrosis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#deathknights-purchase-combat-necrosis",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/hemomancy-necrosis",
+  "name": "Hemomancy",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Necrosis Feats",
+  "tags": [
+   "Necrosis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#hemomancy-necrosis",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/inhuman-defiler-defiler-drawback-necrosis",
+  "name": "Inhuman Defiler",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Necrosis Feats",
+  "tags": [
+   "Defiler",
+   "Drawback",
+   "Necrosis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#inhuman-defiler-defiler-drawback-necrosis",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/necrotic-heart-necrosis",
+  "name": "Necrotic Heart",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Necrosis Feats",
+  "tags": [
+   "Necrosis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#necrotic-heart-necrosis",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/numb-mind-necrosis",
+  "name": "Numb Mind",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Necrosis Feats",
+  "tags": [
+   "Necrosis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#numb-mind-necrosis",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/wandering-spirit-necrosis",
+  "name": "Wandering Spirit",
+  "kind": "feat",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Necrosis Feats",
+  "tags": [
+   "Necrosis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death#wandering-spirit-necrosis",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/death-to-the-living",
+  "name": "Death To The Living",
+  "kind": "drawback",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Drawbacks#death-to-the-living",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/deathful-touch",
+  "name": "Deathful Touch",
+  "kind": "drawback",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Drawbacks#deathful-touch",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/favored-undead",
+  "name": "Favored Undead",
+  "kind": "drawback",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Drawbacks#favored-undead",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/flesh-artisan",
+  "name": "Flesh Artisan",
+  "kind": "drawback",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Drawbacks#flesh-artisan",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/necromantic-concoction",
+  "name": "Necromantic Concoction",
+  "kind": "drawback",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Drawbacks#necromantic-concoction",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/necromantic-limit",
+  "name": "Necromantic Limit",
+  "kind": "drawback",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Drawbacks#necromantic-limit",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/spiritual-voyager",
+  "name": "Spiritual Voyager",
+  "kind": "drawback",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Drawbacks#spiritual-voyager",
+  "options": [],
+  "file": "death.json",
+  "approved": false
+ },
+ {
+  "id": "death/undead-trainer",
+  "name": "Undead Trainer",
+  "kind": "drawback",
+  "sphere": "Death",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Death/Death-Sphere-Drawbacks#undead-trainer",
+  "options": [],
+  "file": "death.json",
   "approved": false
  },
  {
