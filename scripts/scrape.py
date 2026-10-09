@@ -4774,6 +4774,83 @@ def build_trade_traditions() -> int:
     return len(talents)
 
 
+# ---------- spells ----------
+# compendium/spells.json + spells-index.json: the Pathfinder spells from Archives of Nethys
+# (pf1e/spells.json), one entry per spell. An AoN spell page can print other spells too (Fireball's
+# page holds Controlled Fireball; the lesser / greater pages hold the base spell) and the spell's
+# mythic version: those become their own spells (when they aren't already) and a "mythic" field.
+# The index gives each spell's level per class, for the Character Builder's spell picker.
+SPELL_CLASS_NAMES = {"redmantisassassin": "Red Mantis Assassin", "sahirafiyun": "Sahir-Afiyun",
+                     "summoner (unchained)": "Summoner (Unchained)"}
+SPELL_FIELDS = ["Source", "School", "Level", "Casting Time", "Components", "Range", "Area", "Effect", "Target",
+                "Targets", "Duration", "Saving Throw", "Spell Resistance"]
+
+
+def _spell_fields(md: str) -> dict:
+    t = re.sub(r"[*_]", "", md)
+    out = {}
+    for name in SPELL_FIELDS:
+        if (m := re.search(rf"(?:^|;\s*|\n){re.escape(name)}:?\s+(.+?)(?=;\s*(?:{'|'.join(map(re.escape, SPELL_FIELDS))})\b|\s*$)",
+                           t, re.M)):
+            out[name] = m.group(1).strip(" ;")
+    return out
+
+
+def _spell_levels(text: str) -> dict:
+    """"sorcerer/wizard 3, cleric/oracle 4" -> {"Sorcerer": 3, "Wizard": 3, "Cleric": 4, "Oracle": 4}."""
+    out = {}
+    for part in re.split(r",\s*", text or ""):
+        # "druid 7 (Kellid)": a level for some members of the class only
+        m = re.match(r"(.+?)\s+(\d)(?:\s*\([^)]*\))?$", part.strip())
+        if not m:
+            continue
+        for c in m.group(1).split("/"):
+            c = c.strip().lower()
+            out[SPELL_CLASS_NAMES.get(c, c.title())] = int(m.group(2))
+    return out
+
+
+def build_spell_compendium() -> int:
+    src = COMPENDIUM_OUT / "pf1e" / "spells.json"
+    if not src.exists():
+        return 0
+    raw = json.loads(src.read_text(encoding="utf-8"))["entries"]
+    page_of = {e["name"].lower(): e["url"] for e in raw}
+    spells: dict[str, dict] = {}
+    # every "# Name" block is a spell, its fields read from its own text: a page shows its whole spell
+    # family (Controlled Fireball's page starts with Fireball), so the page's own fields can belong
+    # to another spell
+    for e in raw:
+        for block in (b for b in re.split(r"(?m)^(?=# )", e["md"]) if b.strip()):
+            name = (m.group(1).strip() if (m := re.match(r"# (.+)", block)) else e["name"])
+            if name.lower() in spells:
+                continue
+            body = re.sub(r"^# .+\n+", "", block)
+            mythic = ""
+            if (m := re.search(r"(?m)^## Mythic .+$", body)):
+                mythic, body = body[m.start():].strip(), body[:m.start()].strip()
+            fields = {k: v for k, v in _spell_fields(body).items() if v}
+            levels = _spell_levels(fields.get("Level", ""))
+            spells[name.lower()] = {
+                "id": "spell/" + re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-"), "name": name,
+                "school": fields.get("School", ""), "levels": levels, "fields": fields,
+                "source": fields.get("Source", e["source"]), "url": page_of.get(name.lower(), e["url"]), "md": body.strip(), "mythic": mythic,
+            }
+    entries = sorted(spells.values(), key=lambda s: s["name"].lower())
+    COMPENDIUM_OUT.mkdir(parents=True, exist_ok=True)
+    (COMPENDIUM_OUT / "spells.json").write_text(json.dumps(
+        {"category": "spells", "source": "Archives of Nethys (www.aonprd.com)", "license": "OGL 1.0a - see pf1e/LICENSE.md",
+         "entries": [{k: s[k] for k in ("id", "name", "md", "mythic")} for s in entries]}, ensure_ascii=False), encoding="utf-8")
+    f = lambda s, k: s["fields"].get(k, "")
+    index = [{"id": s["id"], "name": s["name"], "school": s["school"], "levels": s["levels"],
+              "castingTime": f(s, "Casting Time"), "components": f(s, "Components"), "range": f(s, "Range"),
+              "duration": f(s, "Duration"), "save": f(s, "Saving Throw"), "sr": f(s, "Spell Resistance"),
+              "source": s["source"], "url": s["url"], "summary": _rules_summary(s["md"].split("### Description", 1)[-1], 160),
+              "mythic": bool(s["mythic"]), "file": "spells.json"} for s in entries]
+    (COMPENDIUM_OUT / "spells-index.json").write_text(json.dumps(index, ensure_ascii=False), encoding="utf-8")
+    return len(entries)
+
+
 def write_feat_review(entries: list[dict], pf: list[dict]) -> None:
     """Meta/Compendium Review/Feats (Compendium Review).md: type counts, then the Spheres feats by page."""
     def count(es: list[dict]) -> dict[str, int]:
@@ -5976,6 +6053,7 @@ def convert(with_images: bool) -> None:
     print(f"Martial traditions: {build_martial_traditions()}")
     print(f"Casting tradition drawbacks: {build_casting_traditions()}")
     print(f"Trade talents: {build_trade_traditions()}")
+    print(f"Spells: {build_spell_compendium()}")
 
     # folders emptied by exclusions or renames
     for d in sorted((d for d in CONTENT.rglob("*") if d.is_dir()), key=lambda d: -len(d.parts)):

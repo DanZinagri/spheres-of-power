@@ -1113,7 +1113,7 @@ const panels = {
         field("Name", input(p + "name", { placeholder: "Magic Missile" })),
         field("Level", input(p + "level", { type: "number", min: 0, max: 9 })),
         field("School", select(p + "school", SCHOOLS)),
-      ], "+ Add spell", (list) => {
+      ], () => h("button", { style: "margin-top:.75rem", onclick: () => openSpellChooser() }, "+ Add spell"), (list) => {
         const groups = {}
         list.map((e, i) => [num(e.level), i]).sort((a, b) => a[0] - b[0]).forEach(([lvl, i]) => (groups[lvl === 0 ? "Cantrips / orisons" : `Level ${lvl}`] ??= []).push(i))
         return groups
@@ -1688,6 +1688,100 @@ async function pickMulticlassTrade(cls) {
         toast(`Added ${t.name} for multiclassing`)
       } }, "Add"),
       h("button", { onclick: () => dlg.done() }, "Cancel")))
+}
+
+// ---------- spells (Spells tab) ----------
+// compendium/spells-index.json: every Pathfinder spell with its level per class. The picker filters by
+// class first (a spell's level differs by class: holy sword is paladin 4), then by that class's spell
+// level; a picked spell comes in at its level for the chosen class (or the spellcasting class).
+const SCHOOL_KEYS = { abjuration: "abj", conjuration: "con", divination: "div", enchantment: "enc", evocation: "evo",
+  illusion: "ill", necromancy: "nec", transmutation: "trs", universal: "uni" }
+const schoolKey = (s) => SCHOOL_KEYS[(s ?? "").split(/[\s(\[]/)[0].toLowerCase()] ?? "misc"
+
+function addSpell(extra = {}) {
+  state.spells.push({ name: "", level: 1, school: "evo", desc: "", ...extra })
+  changed(true)
+  if (!extra.name) focusNewEntry()
+}
+
+function openSpellChooser() {
+  const dlg = openDialog("Add spell",
+    h("p", { class: "muted" }, "Pick a spell from the compendium to fill in its name, level, school and text, or add your own."),
+    h("div", { class: "row add-row" },
+      h("button", { class: "primary", onclick: () => { dlg.done(); openSpellSearch() } }, "From the compendium"),
+      h("button", { onclick: () => { dlg.done(); addSpell() } }, "Custom spell")))
+}
+
+function openSpellSearch() {
+  // the spellcasting class (Spells tab), when it's a class the spell lists name
+  const castName = (state.classes[state.spellcasting.cls]?.name ?? "").trim().toLowerCase()
+  const box = h("input", { type: "search", placeholder: "Search spells by name", "aria-label": "Search spells" })
+  const fullText = h("input", { type: "checkbox" })
+  const cls = h("select", { "aria-label": "Class" }, h("option", { value: "" }, "All classes"))
+  const lvl = h("select", { "aria-label": "Spell level", disabled: true }, h("option", { value: "" }, "Any level"))
+  const results = h("div", { class: "picker-results", role: "list" }, h("p", { class: "muted" }, "Loading spells…"))
+  const dlg = openDialog("Add spell from the compendium",
+    h("div", { class: "row picker-filters" }, box, cls, lvl),
+    h("div", { class: "row picker-filters" }, h("label", { class: "row", style: "gap:.3rem" }, fullText, "Search spell text too")),
+    results)
+  let all = [], texts = null
+  const levelOf = (f) => (cls.value ? f.levels[cls.value] : null)
+  const fillLevels = () => {
+    const keep = lvl.value
+    const levels = cls.value ? [...new Set(all.filter((f) => cls.value in f.levels).map((f) => f.levels[cls.value]))].sort((a, b) => a - b) : []
+    lvl.replaceChildren(h("option", { value: "" }, "Any level"),
+      ...levels.map((n) => h("option", { value: n, selected: String(n) === keep }, n === 0 ? "0 (cantrips / orisons)" : `Level ${n}`)))
+    lvl.disabled = !cls.value
+    if (!levels.map(String).includes(keep)) lvl.value = ""
+  }
+  const render = () => {
+    const q = box.value.trim().toLowerCase()
+    const hits = all.filter((f) => (!cls.value || cls.value in f.levels) && (!lvl.value || String(f.levels[cls.value]) === lvl.value)
+      && (!q || f.name.toLowerCase().includes(q) || (fullText.checked && texts?.[f.id]?.includes(q))))
+    const rank = (f) => (!q ? 0 : f.name.toLowerCase().startsWith(q) ? 0 : f.name.toLowerCase().includes(q) ? 1 : 2)
+    hits.sort((a, b) => rank(a) - rank(b) || (levelOf(a) ?? 0) - (levelOf(b) ?? 0) || a.name.localeCompare(b.name))
+    const shown = hits.slice(0, 60)
+    const levelText = (f) => cls.value ? `${cls.value} ${f.levels[cls.value]}`
+      : Object.entries(f.levels).slice(0, 6).map(([c, n]) => `${c} ${n}`).join(", ") + (Object.keys(f.levels).length > 6 ? ", …" : "")
+    results.replaceChildren(
+      ...shown.map((f) => h("button", { class: "picker-item", role: "listitem", onclick: () => pick(f) },
+        h("span", { class: "pi-name" }, f.name, h("span", { class: "pi-meta" }, ` ${f.school} · ${levelText(f) || "no class level"}`)),
+        f.summary ? h("span", { class: "pi-sum" }, f.summary) : null,
+        h("span", { class: "pi-pre" }, [f.castingTime, f.range, f.duration, f.save && `Save ${f.save}`].filter(Boolean).join(" · ")))),
+      hits.length > shown.length ? h("p", { class: "note" }, `Showing ${shown.length} of ${hits.length}; type more of the name${cls.value ? "" : " or pick a class"} to narrow it down.`) : null,
+      hits.length ? null : h("p", { class: "muted" }, all.length ? "No spells match." : "Couldn't load the spells."))
+  }
+  const pick = async (f) => {
+    results.replaceChildren(h("p", { class: "muted" }, `Adding ${f.name}…`))
+    const data = await loadCompendium(f.file, { entries: [] })
+    const full = data.entries.find((x) => x.id === f.id)
+    const castLevel = Object.entries(f.levels).find(([c]) => c.toLowerCase() === castName)?.[1]
+    const level = levelOf(f) ?? castLevel ?? Math.min(...Object.values(f.levels), 9)
+    // the spell's own text: source, school and levels, casting, effect and description
+    addSpell({ name: f.name, level: Number.isFinite(level) ? level : 1, school: schoolKey(f.school), ref: f.id,
+      desc: mdToText(full?.md ?? f.summary) })
+    dlg.done()
+  }
+  box.addEventListener("input", render)
+  cls.addEventListener("change", () => { fillLevels(); render() })
+  lvl.addEventListener("change", render)
+  fullText.addEventListener("change", async () => {
+    if (fullText.checked && !texts) {
+      results.replaceChildren(h("p", { class: "muted" }, "Loading spell text…"))
+      const data = await loadCompendium("spells.json", { entries: [] })
+      texts = Object.fromEntries(data.entries.map((x) => [x.id, mdToText(x.md).toLowerCase()]))
+    }
+    render()
+  })
+  loadCompendium("spells-index.json", []).then((list) => {
+    all = list
+    const classes = [...new Set(list.flatMap((f) => Object.keys(f.levels)))].sort((a, b) => a.localeCompare(b))
+    cls.replaceChildren(h("option", { value: "" }, "All classes"), ...classes.map((c) => h("option", { value: c, selected: c.toLowerCase() === castName }, c)))
+    if (classes.some((c) => c.toLowerCase() === castName)) cls.value = classes.find((c) => c.toLowerCase() === castName)
+    fillLevels()
+    render()
+  })
+  box.focus()
 }
 
 // adding to a sphere offers its talents from the compendium (or a custom one); a talent with no
