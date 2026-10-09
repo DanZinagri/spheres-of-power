@@ -1,7 +1,7 @@
 {
  "sphere": "Fallen Fey",
  "system": "Spheres of Power",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "fallen-fey/fey-link",

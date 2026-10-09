@@ -2649,7 +2649,7 @@ COMPENDIUM = {
     },
     "Fallen Fey": {
         "system": "Spheres of Power",
-        "approved": False,
+        "approved": True,
         "pages": [
             # Fey-Link, with Nature-Connection (its rule notes stay in its text)
             ("Fallen Fey", "Fey-Link", "sphere ability", 2, 4),
@@ -2660,6 +2660,24 @@ COMPENDIUM = {
             ("Fallen Fey Sphere Drawbacks", "(page)", "drawback", 4),
         ],
         "not_options": r"^Table|^Note",
+    },
+    "Fate": {
+        "system": "Spheres of Power",
+        "approved": False,
+        "pages": [
+            # Consecration (with Serendipity) and Word (with Hallow)
+            ("Fate", "Consecration", "sphere ability", 2, 4),
+            ("Fate", "Word", "sphere ability", 2, 4),
+            ("Fate", "Fate Talents", "talent", 4),
+            ("Fate", "Consecration Talents", "talent", 4),
+            ("Fate", "Motif Talents", "talent", 4),
+            ("Fate", "Word Talents", "talent", 4),
+            ("Fate", "Advanced Fate Talents", "advanced talent", 4),
+            ("Fate Sphere Feats", "(page)", "feat", 4),
+            ("Fate Sphere Drawbacks", "(page)", "drawback", 4),
+        ],
+        # the (arcana) / (motif) rules under Word's talent types
+        "not_options": r"^Table|^Note|^Arcana$|^Motifs$|^Harrow Deck",
     },
     "Warleader": {
         "system": "Spheres of Might",

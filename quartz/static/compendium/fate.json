@@ -1,0 +1,1965 @@
+{
+ "sphere": "Fate",
+ "system": "Spheres of Power",
+ "approved": false,
+ "entries": [
+  {
+   "id": "fate/consecration",
+   "name": "Consecration",
+   "kind": "sphere ability",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#consecration",
+   "md": "As a standard action, you may affect a 20-foot radius + 5 feet per 5 caster levels area centered on you with a consecration. This aura moves as you do. The effects of consecrations are subject to spell resistance. When you gain the Fate sphere, you gain the following consecration:",
+   "options": [
+    {
+     "name": "Serendipity",
+     "tags": [],
+     "talentTags": [],
+     "anchor": "serendipity",
+     "md": "You bestow luck upon your allies. All allies within range gain a +1 luck bonus to attack rolls, skill checks, ability checks, and saving throws. This bonus lasts as long as you concentrate. You may spend a spell point as a free action to allow this effect to continue for 1 round per caster level without concentration."
+    }
+   ]
+  },
+  {
+   "id": "fate/word",
+   "name": "Word",
+   "kind": "sphere ability",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#word",
+   "md": "As a standard action, you may invoke a word of power, affecting a single creature or object within close range. Words are subject to spell resistance.\n\nWhen you gain the Fate sphere, you gain the following word:\n\n### Fate Talent Types\n\nSome talents are marked (word). These grant you additional words of power.\n\nSome talents are marked (consecration). These grant you additional consecrations.\n\n#### Arcana\n\nWhere most normal motifs grant a brief glimpse of the target’s fate, and ends with a short lived burst of power, some Fate casters learn to weave additional prophecy into their motifs.\n\n(Arcana) talents are unique (motif) talents which can either be cast normally as a motif or attached to another motif as part of casting it. When casting any motif, the caster may attach one (arcana) to that motif, which is hereafter referred to as the “attached motif”. Attaching an (arcana) to a motif does not cost the caster any additional spell points or increase the casting time of the attached motif.\n\nWhile attached to another motif, an (arcana) talent functions in the following ways:\n\n- An (arcana) shares its duration with the attached motif, and ends when the attached motif ends.\n- An (arcana) does not grant bonuses while attached to another motif, and only adds its discharge effect to the attached motif’s discharge (e.g. the pentacle’s bonus to one saving throw would not apply while being attached and only grants the discharge benefit for rerolls on saving throws).\n- An (arcana) cannot be discharged for its additional effect independently, and only grants its discharge effect when the attached motif is discharged.\n- A caster may only attach one (arcana) to another (motif) talent, though feats, items, and other features may affect this. An (arcana) talent can not be attached to the same (arcana) when cast as a motif. For example, you cannot attach Swords to Swords as a motif, but can attach Swords to Cups as a motif.\n\n#### Motifs\n\nSome talents are marked (motif). These grant you motifs you can grant to targets.\n\nLess precise than divination, but more proactive, (motif) talents give an auspician a glimpse at the pattern of Fate’s tapestry and allow her to nudge one or two threads in a direction she chooses. Unless otherwise noted, a talent with the (motif) tag is cast as a standard action on a target with a range of touch and costs one spell point. A successful Will save negates a motif, and motifs are subject to spell resistance. While they normally have a duration of 1 hour per level, the target can also discharge a (motif) talent as an immediate action to gain an instantaneous or short-lived benefit, after which the effect ends. The normal effect ends immediately upon being discharged, and is replaced by the instantaneous or short-lived benefit.\n\nA given creature can never have more than one instance of a particular (motif) talent active on them at a time; a second casting at an equal or higher caster level replaces the first, while a second casting at a lower level has no effect.\n\n##### Harrow Deck Motifs\n\nIf it better suits your game, names of harrow cards can be substituted for the major arcana that lend their names to motifs. Suggested replacements are:\n\n**The Chariot:** The Cricket or the Teamster\n**Death (advanced talent):** The Uprising or the Wanderer\n**The Devil:** The Mute Hag or the Rakshasa\n**The Emperor:** The Keep or the Tyrant\n**The Empress:** The Publican or the Queen Mother\n**The Fool:** The Juggler or the Rabbit Prince\n**The Hanged Man:** The Beating or the Eclipse\n**The Hermit:** The Desert or the Empty Throne\n**The Hierophant:** The Trumpet or the Winged Serpent\n**The High Priestess (advanced talent):** The Unicorn or the Vision\n**Judgment:** The Demon’s Lantern or the Theater\n**Justice:** The Inquisitor or the Owl\n**The Lovers:** The Courtesan or the Marriage\n**The Magician:** The Dance or the Locksmith\n**The Moon:** The Liar or the Peacock\n**The Star:** The Foreign Trader or the Hidden Truth\n**Strength:** The Brass Dwarf or the Paladin\n**The Sun:** The Sickness or the Survivor\n**Temperance:** The Midwife or the Twin\n**The Tower:** The Avalanche or the Cyclone\n**The Wheel:** The Forge or the Joke\n**The World:** The Bear or the Mountain Man",
+   "options": [
+    {
+     "name": "Hallow",
+     "tags": [],
+     "talentTags": [],
+     "anchor": "hallow",
+     "md": "You may spend a spell point to hallow a target for 1 minute per caster level. Choose an end of the alignment spectrum (good, evil, lawful, chaotic); you must choose an alignment that you possess. The target of this word gains a +1 sacred bonus (profane bonus if you are evil; if you are neither good nor evil you must choose whether you grant sacred or profane bonuses with this sphere) to attack rolls, AC, and saving throws made against targets of your opposed alignment (evil for good, lawful for chaotic, etc.). This bonus increases by 1 for every 10 caster levels possessed.\n\nThe target also gains immunity to any spell or sphere effect that possesses or exercises mental control over them (including enchantment charm effects and enchantment compulsion effects), so long as that effect originates from a creature who possesses your opposed alignment. If the target is already under the influence of such an effect, the target is allowed to attempt a new saving throw against the controlling effect. Success means the effect is suppressed for the duration of this word, but resumes when this word expires. This does not expel a controlling life force (such as a ghost or projected spirit), but it does prevent them from controlling the target."
+    }
+   ]
+  },
+  {
+   "id": "fate/bound-consecration",
+   "name": "Bound Consecration",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Fate Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#bound-consecration",
+   "md": "When using a consecration, you may choose to have the area remain in place rather than move with you. Alternatively, you may apply a consecration to an object with a touch. The area of effect is centered on the object and moves with it (as normal, choose one corner of the object’s space to be the center of the consecration). You must make this choice when you first use the consecration.",
+   "options": []
+  },
+  {
+   "id": "fate/echoing-word-mass",
+   "name": "Echoing Word",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Fate Talents",
+   "tags": [],
+   "talentTags": [
+    "mass"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#echoing-word-mass",
+   "md": "When using a word, you may spend an additional spell point to affect an additional 1 target per 2 caster levels (minimum 1) at the same time. Each target must be within range and must be affected by the same word (thus, if using the Open/Close talent, you could only target objects with this ability). Once created, each word is considered a separate sphere effect.",
+   "options": []
+  },
+  {
+   "id": "fate/greater-serendipity",
+   "name": "Greater Serendipity",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Fate Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#greater-serendipity",
+   "md": "When you use your Serendipity consecration, in addition to bestowing a luck bonus upon your allies, all enemies within the area of effect also suffer a penalty to their own attack rolls, skill checks, ability checks, and saving throws equal to the bonus you grant to your allies. When used this way, serendipity is considered a curse effect on your enemies.",
+   "options": []
+  },
+  {
+   "id": "fate/instill-fate-instill",
+   "name": "Instill Fate",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Fate Talents",
+   "tags": [],
+   "talentTags": [
+    "instill"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#instill-fate-instill",
+   "md": "As a standard action you may touch a small container of liquid and instill a motif or word inside it, which functions as a potion or oil. The word cannot have a duration of concentration, nor have a trigger/normally require an immediate action to activate.\n\nAn instilled liquid remains potent until you rest to regain spell points. If you have equipment on hand (such as an alchemy lab), the cost of bottles and water is considered negligible. You may target food but not an already-magical item, such as a potion. All spell points must be spent and all variables of the sphere effect must be chosen at the time the instilled liquid is created. You cannot instill multiple effects in a single liquid, nor create multiple instilled liquids with a single action.",
+   "options": []
+  },
+  {
+   "id": "fate/lingering-fate",
+   "name": "Lingering Fate",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Fate Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#lingering-fate",
+   "md": "*Source: Expanded Spheres: Baron's Lost Apocrypha*\n\nWhen you use a consecration or word ability that requires concentration, the ability continues to maintain itself for 2 rounds after you stop concentrating.",
+   "options": []
+  },
+  {
+   "id": "fate/pair-of-myths",
+   "name": "Pair Of Myths",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Fate Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#pair-of-myths",
+   "md": "By spending an extra spell point you can simultaneously apply two motifs you possess to a target. The effects of each talent are resolved separately and the durations are tracked separately. You must pay the motifs’ spell point costs, although other costs (such as for metamagic) are only incurred once.",
+   "options": []
+  },
+  {
+   "id": "fate/resounding-word-range",
+   "name": "Resounding Word",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Fate Talents",
+   "tags": [],
+   "talentTags": [
+    "range"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#resounding-word-range",
+   "md": "You may place words on targets within medium range. You may take this talent twice. The second time it is taken, increase the range from medium to long.",
+   "options": []
+  },
+  {
+   "id": "fate/shrieking-strike-strike",
+   "name": "Shrieking Strike",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Fate Talents",
+   "tags": [],
+   "talentTags": [
+    "strike"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#shrieking-strike-strike",
+   "md": "You may deliver words via a melee touch attack. As a standard action, you may make a single weapon attack in conjunction with using a word. This cannot affect words usable as an immediate action. This casting cannot be reduced below a standard action, and does not provoke attacks of opportunity, unless as usual if making a ranged attack. If the target is struck by the attack, it is also affected by the word. If using a scatter weapon, the word only applies to a single target, chosen at the time of attack.",
+   "options": []
+  },
+  {
+   "id": "fate/bind-wyrd-consecration",
+   "name": "Bind Wyrd",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Consecration Talents",
+   "tags": [
+    "consecration"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#bind-wyrd-consecration",
+   "md": "*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*\n\nYou create a consecration that anchors fate and destiny. Choose confine or ward.\n\nIf you choose ward, whenever a creature within the area would be forced to reroll a die or roll a die twice and take the worst (or lowest) result, if they are unwilling, the originator of the effect must succeed at a magic skill check against your magic skill defense or have the effect fail and action wasted. Also, whenever a creature within the area would reroll a d20 roll and keep the new result, they can choose to use their original dice result.\n\nIf you choose confine, whenever a creature within the area is allowed to reroll a die or roll a die twice and take the best (or highest) result, the originator of the effect must succeed at a magic skill check against your magic skill defense or have the effect fail and action wasted.\n\nYou can spend 1 spell point when you create this ward to have it only affect your allies or enemies.\n\nYou must concentrate to maintain this consecration, to a maximum of 1 minute per caster level. You may always spend a spell point as a free action to allow this consecration to continue for 1 minute per caster level without concentration.",
+   "options": []
+  },
+  {
+   "id": "fate/consequences-consecration",
+   "name": "Consequences",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Consecration Talents",
+   "tags": [
+    "consecration"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#consequences-consecration",
+   "md": "While this consecration is in effect, any creature in the area that attacks any other creature (whether in the area or not) takes untyped damage equal to your caster level. For purposes of this effect, an attack includes any non-harmless spell, spell-like ability, sphere effect, or supernatural ability targeting a hostile creature or whose area of effect includes a hostile creature. This consecration can affect a target once per round, +1 time per 5 caster levels.\n\nYou must concentrate to maintain this consecration. You may always spend an additional spell point as a free action to allow this consecration to continue for 1 minute per caster level without concentration.",
+   "options": []
+  },
+  {
+   "id": "fate/divine-force-consecration",
+   "name": "Divine Force",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Consecration Talents",
+   "tags": [
+    "consecration"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#divine-force-consecration",
+   "md": "You may fill an area with the influence of an alignment type you are connected to (good, evil, lawful, or chaotic). You must possess this alignment type. Creatures of that alignment’s opposite (good for evil, lawful for chaotic, etc.) within this area suffer one of the following detriments, chosen at random (Fortitude negates):\n\n1. blind 1 round\n2. deaf 2d4 rounds\n3. staggered 1d4 rounds\n4. sickened 1d4 rounds\n5. dazed 1 round\n6. shaken 1d4 rounds\n\nAs this power is cosmic in origin, it can affect undead, even though undead are usually immune to some of these conditions.\n\nIf you are true neutral, you may choose neutrality with this consecration, in which case all creatures at the extremes of the alignment spectrum (chaotic evil, chaotic good, lawful evil, and lawful good) suffer the ill effects. This is an instantaneous effect.",
+   "options": []
+  },
+  {
+   "id": "fate/divine-pressure-consecration",
+   "name": "Divine Pressure",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Consecration Talents",
+   "tags": [
+    "consecration"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#divine-pressure-consecration",
+   "md": "You may spend a spell point to fill an area with an enduring presence of an alignment you possess (chaotic, evil, good, or lawful).\n\nAny creature of that alignment’s opposite (good for evil, lawful for chaotic, etc.) who enters or begins their turn inside the consecration must succeed at a Fortitude saving throw or suffer one of the following conditions: deafened, exhausted, or sickened (chosen at the time of casting). Creatures who fail their saving throw remain under the effects of the condition until they leave the area of the consecration or the consecration ends.\n\nAs this power is cosmic in origin, it can affect undead and constructs, even though they are usually immune to effects requiring a Fortitude saving throw. If you are true neutral, you may choose neutrality with this consecration, in which case all creatures at the extremes of the alignment spectrum (chaotic evil, chaotic good, lawful evil, and lawful good) suffer the ill effects.\n\nYou must concentrate to maintain this consecration. You may always spend an additional spell point as a free action to allow this consecration to continue for 1 minute per caster level without concentration.",
+   "options": []
+  },
+  {
+   "id": "fate/reveal-alignment-consecration-utility",
+   "name": "Reveal Alignment",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Consecration Talents",
+   "tags": [
+    "consecration"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#reveal-alignment-consecration-utility",
+   "md": "You may spend a spell point to create a consecration that reveals the alignment of all creatures inside it. While this consecration is in effect, the alignment of all creatures within the area is plain to any who observe them. How this manifests is unique to each observer—some might see a good creature with a halo and an evil creature with horns, while others might hear musical themes and chords evoking an alignment—but however it does the interpretation is unambiguous in the observer’s mind.\n\nAn observer must still be able to sense a creature in order to discern its alignment. You must concentrate to maintain this consecration, but you may spend a spell point as a free action to allow this effect to continue for 1 round per caster level without concentration.",
+   "options": []
+  },
+  {
+   "id": "fate/stricture-consecration",
+   "name": "Stricture",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Consecration Talents",
+   "tags": [
+    "consecration"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#stricture-consecration",
+   "md": "You may spend a spell point to create a consecration that dictates the actions of all creatures within its area of effect. When you create this consecration, you must declare a course of action that is at most one sentence long and whether this action is to be avoided or emulated. Example strictures include “No one can attack”, “everyone must trade fairly”, etc. If your stricture would cause a creature to attack itself or perform another obviously suicidal action, they are immune to that stricture. For as long as you maintain this consecration, all creatures within this area must obey this stricture. Each individual creature is allowed a Will save to negate this requirement and allow itself to act normally. If a creature succeeds at their saving throw, they become immune to that stricture for the rest of its duration.\n\nYou must always follow your own stricture. You must concentrate to maintain this consecration, to a maximum of 1 minute per caster level. You may always spend a spell point as a free action to allow this consecration to continue for 1 minute per caster level without concentration.",
+   "options": []
+  },
+  {
+   "id": "fate/tug-fate-consecration-curse",
+   "name": "Tug Fate",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Consecration Talents",
+   "tags": [
+    "consecration"
+   ],
+   "talentTags": [
+    "curse"
+   ],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#tug-fate-consecration-curse",
+   "md": "You may spend a spell point to create a consecration that lets you manipulate luck and fate. For as long as this consecration is in effect, any creature within the area who rolls a 10 on an attack roll, initiative roll, skill check, ability check, or saving throw receives either a +10 luck bonus or a -10 penalty to their roll (your choice). This bonus and penalty increase by 1 per 2 caster levels, and do not apply when the creature takes 10; only a d20 roll will do. Additionally, once per round any time a creature within the area rolls a natural 1 or natural 20, you may change the roll into the opposite. This does not require an action, but may only be used once per round. Converting a natural 20 to a natural 1 is a curse effect and may be negated with a successful Will save. You must concentrate to maintain this consecration, but you may spend a spell point as a free action to allow this effect to continue for 1 round per caster level without concentration.",
+   "options": []
+  },
+  {
+   "id": "fate/undo-harm-consecration",
+   "name": "Undo Harm",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Consecration Talents",
+   "tags": [
+    "consecration"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#undo-harm-consecration",
+   "md": "While this consecration is in effect, every creature within the area regains 5 hit points plus 1 hit point per caster level at the beginning of their turn, but only up to the amount of damage they have taken since their last turn and since you created this consecration. This consecration affects all creatures, but you may spend a spell point when you create this consecration to make it only affect your allies. If a creature has taken enough damage to kill or destroy it, this consecration has no effect on them. This stacks with fast healing and, as it is cosmic in origin rather than positive energy, affects non-living creatures such as undead and constructs. You must concentrate to maintain this consecration, but you may spend a spell point as a free action to allow this effect to continue for 1 round per caster level without concentration.\n\nIf you take this talent a second time you may cause the consecration to reverse negative conditions in addition to damage. While this consecration is in effect, as an immediate action you may spend a spell point to allow any one creature suffering from bleed damage or the blinded, confused, dazed, dazzled, deafened, exhausted, fatigued, frightened, nauseated, panicked, paralyzed, shakened, sickened, or stunned conditions to be cured of one of these conditions of their choice at the end of their turn. For every 10 caster levels, they may cure one additional condition. This effect can only remove effects that have been inflicted since the end of the sufferer’s last turn and since you created this consecration.",
+   "options": []
+  },
+  {
+   "id": "fate/cups-motif-arcana",
+   "name": "Cups",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Motif Talents",
+   "tags": [
+    "motif",
+    "arcana"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#cups-motif-arcana",
+   "md": "You actualize the target’s heightened empathy and creativity. When granted as a motif, the target gains a +2 bonus on Intelligence-, Wisdom-, and Charisma-based skill checks. This bonus increases by +1 for every 10 caster levels.\n\nThe target may discharge this effect as an immediate action and roll 2d20 plus an additional d20 per 7 caster levels, retaining the results of each die roll. For the next minute per caster level, whenever the target attempts a skill check, instead of rolling a d20, the target can instead use one retained die roll (using a retained die roll expends it).",
+   "options": []
+  },
+  {
+   "id": "fate/pentacles-motif-arcana",
+   "name": "Pentacles",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Motif Talents",
+   "tags": [
+    "motif",
+    "arcana"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#pentacles-motif-arcana",
+   "md": "You actualize the target’s success and prosperity. When granted as a motif, the target gains a +1 bonus on one saving throw, chosen when granted as a motif. This bonus increases by +1 for every 10 caster levels.\n\nThe target may discharge this effect as an immediate action to gain a prenatural sense for success. For the next minute per caster level, after the target misses or fails a d20 roll, such as missing their target with an attack roll, failing a saving throw, or failing a skill check, the target may reroll their attempt and accept the new result. The target may reroll this way once during the discharge effect’s duration, plus an additional time per 10 caster levels you possess.",
+   "options": []
+  },
+  {
+   "id": "fate/swords-motif-arcana",
+   "name": "Swords",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Motif Talents",
+   "tags": [
+    "motif",
+    "arcana"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#swords-motif-arcana",
+   "md": "You actualize the target’s power to bring about action. When granted as a motif, the target gains a +1 bonus on attack rolls. This bonus increases by +1 for every 10 caster levels.\n\nThe target may discharge this effect as an immediate action and become unerring in purpose. For the next minute, the target ignores any miss chance due to concealment. Once during this effect’s duration, when the target threatens a critical hit, the target may choose to gain a bonus on their attack roll to confirm that critical hit equal to 1/2 your caster level (minimum 1). This effect may not be combined with any ability or effect that automatically threatens critical hits.",
+   "options": []
+  },
+  {
+   "id": "fate/wands-motif-arcana",
+   "name": "Wands",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Motif Talents",
+   "tags": [
+    "motif",
+    "arcana"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#wands-motif-arcana",
+   "md": "You actualize the target’s abundant energy and passion. When granted as a motif, the target gains a +2 bonus on initiative checks. This bonus increases by +1 for every 10 caster levels.\n\nThe target may discharge this effect as an immediate action to cling to momentary advantages and make the most of them. For the next minute per caster level, whenever a circumstance, competence, insight, or luck bonus or bonus due to battlefield positioning, such as flanking, higher ground, or cover, would end, the target retains the benefits of that bonus until the end of their next turn.",
+   "options": []
+  },
+  {
+   "id": "fate/the-chariot-motif",
+   "name": "The Chariot",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Motif Talents",
+   "tags": [
+    "motif"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#the-chariot-motif",
+   "md": "You may grant a motif that ensures the target is always able to act. The target gains a +2 insight bonus on saving throws against effects that would prevent them from acting (such as dazing or paralysis) or make them staggered. This bonus increases by +1 for every 10 caster levels.\n\nThe target may discharge this effect to ignore one such effect for a number of rounds equal to your casting ability modifier, and may do so even when they would otherwise not be able to take an immediate action, such as when dazed or nauseated.",
+   "options": []
+  },
+  {
+   "id": "fate/the-devil-motif",
+   "name": "The Devil",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Motif Talents",
+   "tags": [
+    "motif"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#the-devil-motif",
+   "md": "You may grant a motif that allows the target to recognize the greatest threat to their goals. As a free action once per round they may assess an opponent they can see. The target learns the enemy’s approximate CR (see Table: Enemy CR). For every five caster levels, the target may use this an additional time per round.\n\nThe target may discharge this effect to gain a +2 insight bonus to AC and attack rolls against any enemy they have assessed using this motif ’s benefit for one round per caster level. This bonus increases by +1 for every 4 caster levels.\n\n**Table: Enemy CR**\n\n| Enemy’s CR | Result |\n| --- | --- |\n| 4+ lower than the target’s level | Trivial |\n| 1–3 lower than the target’s level | Easy |\n| Equal to the target’s level | Fair fight |\n| 1–3 higher than the target’s level | Difficult |\n| 4+ higher than the target’s level | Overwhelming |",
+   "options": []
+  },
+  {
+   "id": "fate/the-emperor-motif",
+   "name": "The Emperor",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Motif Talents",
+   "tags": [
+    "motif"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#the-emperor-motif",
+   "md": "You may grant a motif that allows its bearer to better project their power. Whenever the target suffers from penalties to attack rolls, damage rolls, saving throws, skill checks, or ability checks, they reduce their total penalty by 1, to a minimum penalty of -1. For every 10 caster levels, they reduce the penalty by an additional 1.\n\nThe target may discharge this effect to ignore any one penalty effect to an attack roll, damage roll, saving throw, skill check, or ability check and gain an insight bonus to any rolls that would be affected by that penalty equal to the penalty for 1 round per caster level. If they choose to ignore a penalty from the target’s own abilities, actions, or choices (such as backlash from a thaumaturge’s forbidden lore, the attack penalty from Power Attack, or The Hanged Man motif), they do not gain this insight bonus.",
+   "options": []
+  },
+  {
+   "id": "fate/the-empress-motif",
+   "name": "The Empress",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Motif Talents",
+   "tags": [
+    "motif"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#the-empress-motif",
+   "md": "You may grant a motif that subtly improves the target’s ability to make their own fate. The target gains a floating pool of bonus points they can use throughout the duration of this motif. This pool has 1 point, plus 1 point per caster level when you first grant the motif. The target may spend up to 1 point for every 5 caster levels (minimum 1) to gain an insight bonus to an attack roll, weapon damage roll, skill check, ability check, or saving throw equal to the points they spend. The effect does not end if they spend all of these points, but they can no longer spend them.\n\nThe target may discharge this effect to gain an insight bonus equal to +5 plus +1 for every 4 remaining points to any one attack roll, skill check, ability check, or saving throw.",
+   "options": []
+  },
+  {
+   "id": "fate/the-fool-motif",
+   "name": "The Fool",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Motif Talents",
+   "tags": [
+    "motif"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#the-fool-motif",
+   "md": "You may allow a target to surrender themselves to fate. The target takes a -3 penalty to all saving throws, but rolls each saving throw twice and chooses the better roll. This penalty decreases by 1 for every 10 caster levels.\n\nThe target may discharge this effect to roll a saving throw three times and choose the best roll (with the same penalty). The target may also end this motif as a free action with no further effect.",
+   "options": []
+  },
+  {
+   "id": "fate/the-hanged-man-motif",
+   "name": "The Hanged Man",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Motif Talents",
+   "tags": [
+    "motif"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#the-hanged-man-motif",
+   "md": "You may allow the target to benefit from their sacrifices. Each round as a free action the target may decide to gain a +2 insight bonus to two of Fortitude, Reflex, and Will saving throws and a -2 penalty to the other, or to gain neither bonus nor penalty. This choice remains until they decide to change it. This bonus (but not the penalty) increases by 1 for every 10 caster levels.\n\nThe target may discharge this effect to take damage equal to their Hit Dice (to a maximum of your caster level) and gain half this amount (minimum 1) as an insight bonus to a single saving throw, attack roll, combat maneuver check, skill check, or ability check.",
+   "options": []
+  },
+  {
+   "id": "fate/the-hermit-motif",
+   "name": "The Hermit",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Motif Talents",
+   "tags": [
+    "motif"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#the-hermit-motif",
+   "md": "You may improve a target’s ability to work alone. The target can use the aid another action to aid themselves as a swift action. The bonus they gain from doing so is equal to +3 instead of +2, and increases by +1 for every 5 caster levels. In any round they do so, they may not benefit from another creature aiding them.\n\nThe target may discharge this effect to treat all enemies as flanked as long as none of the target’s allies threaten the enemy. This effect lasts one round per caster level.",
+   "options": []
+  },
+  {
+   "id": "fate/the-hierophant-motif",
+   "name": "The Hierophant",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Motif Talents",
+   "tags": [
+    "motif"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#the-hierophant-motif",
+   "md": "You may grant a motif that allows the target to subsume themselves in the group. The target gains an aura with a radius of 30 feet that gives allies other than the target a +2 insight bonus to saving throws against mind-affecting effects. This bonus increases by +1 for every 5 caster levels.\n\nThe target may discharge this effect when an ally within close range takes damage to shift up to half the damage the ally takes to themselves. The target may discharge this effect even if the damage their ally would take would normally reduce them below 1 hit point, and even if it would kill them outright. Damage is transferred after the effects of damage reduction, energy resistance, immunity and similar effects. The damage transferred is empathic in nature and cannot be further reduced, divided, or transferred.",
+   "options": []
+  },
+  {
+   "id": "fate/judgment-motif",
+   "name": "Judgment",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Motif Talents",
+   "tags": [
+    "motif"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#judgment-motif",
+   "md": "You may grant a motif that heightens the target’s discernment. It requires only a full-round action for the target to attempt a Sense Motive check to get a hunch about a situation and a swift action to attempt a Perception check to intentionally search for a stimulus.\n\nThe target may discharge this effect to automatically pinpoint all invisible creatures within close range until the end of his turn.",
+   "options": []
+  },
+  {
+   "id": "fate/justice-motif",
+   "name": "Justice",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Motif Talents",
+   "tags": [
+    "motif"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#justice-motif",
+   "md": "You may grant a motif that enforces balance. Any time a hostile creature deals damage to the target, the target gains a +2 insight bonus to attack and damage rolls against that enemy for one round. This bonus increases by +1 for every 5 caster levels. The target may discharge this effect when an enemy deals damage to them to shift up to half the damage to the enemy who dealt the damage. A successful Fortitude save negates this effect and the target still takes the full damage. The target may discharge this effect even if the damage they take would normally reduce them below 1 hit point, and even if it would kill them outright. Damage is transferred after the effects of damage reduction, energy resistance, immunity and similar effects.\n\nThe damage transferred is empathic in nature and cannot be further reduced, divided, or transferred.",
+   "options": []
+  },
+  {
+   "id": "fate/the-king-motif",
+   "name": "The King",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Motif Talents",
+   "tags": [
+    "motif"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#the-king-motif",
+   "md": "*Source: Expanded Spheres: Baron's Lost Apocrypha*\n\nYou assert the target’s authority over magic and others. The target gains a +1 insight bonus on concentration checks. This bonus increases by +1 for every 10 caster levels. The target may discharge this effect as an immediate action to transfer a magic effect currently affecting themself to a creature within close range (so long as they are conscious, the original target may transfer the effect even if they are incapable of taking actions). Unwilling targets of this transfer are allowed a Will save to negate this transfer, in which case the effect remains on the original target. This cannot transfer an effect to a target that could not have been initially targeted (for example, attempting to transfer an enlarge person spell to a dragon would fail).",
+   "options": []
+  },
+  {
+   "id": "fate/the-knight-motif",
+   "name": "The Knight",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Motif Talents",
+   "tags": [
+    "motif"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#the-knight-motif",
+   "md": "*Source: Expanded Spheres: Baron's Lost Apocrypha*\n\nYou emphasize the target’s drive and eagerness for action. The target ignores any penalties they would suffer to initiative rolls as a result of conditions such as deafened, entangled, or exhausted. The target may discharge this effect as an immediate action to apply a metamagic feat they have to a sphere effect without altering its casting time (but paying additional spell points as normal). At caster level 10, they may discharge this motif as a free action usable outside of their turn (instead of an immediate action).",
+   "options": []
+  },
+  {
+   "id": "fate/the-lovers-motif",
+   "name": "The Lovers",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Motif Talents",
+   "tags": [
+    "motif"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#the-lovers-motif",
+   "md": "You may grant a motif that empowers a target when near its allies. The target gains an insight bonus to saving throws equal to the number of allies adjacent to them, up to a maximum of 2 + 1 per 5 caster levels. The target may discharge this effect when they take damage to shift up to half the damage they take to a willing ally within close range.\n\nThe target may discharge this effect even if the damage they take would normally reduce them below 1 hit point, and even if it would kill them outright. Damage is transferred after the effects of damage reduction, energy resistance, immunity and similar effects. The damage transferred is empathic in nature and cannot be further reduced, divided, or transferred.",
+   "options": []
+  },
+  {
+   "id": "fate/the-magician-motif",
+   "name": "The Magician",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Motif Talents",
+   "tags": [
+    "motif"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#the-magician-motif",
+   "md": "You may grant a motif that helps the target make the most of their current circumstances. The target gains a +2 insight bonus to attacks of opportunity and untrained skill checks. This bonus increases by +1 for every five caster levels.\n\nThe target may discharge this motif to roll initiative and take a standard action or move action in a surprise round when they would not normally be able to or to take a full-round action or a standard action and a move action in a surprise round when they would normally be able to take only a standard action or a move action. This does not cause a surprise round to occur if it would not normally. The target may discharge this motif even when they are flat-footed.",
+   "options": []
+  },
+  {
+   "id": "fate/the-moon-motif",
+   "name": "The Moon",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Motif Talents",
+   "tags": [
+    "motif"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#the-moon-motif",
+   "md": "You may grant a motif that protects the target’s subconscious and allows them to project their mind onto attackers. The target gains a +2 insight bonus to saving throws against mind-affecting effects. This bonus increases by +1 for every 10 caster levels.\n\nThe target may discharge this effect when they are the target of a mind-affecting spell, spell-like ability, supernatural ability, or sphere effect to force the effect’s user to attempt a saving throw against the effect’s DC. On a failed save, the target is unaffected by the effect, while the effect’s user suffers the effects of a failed save. On a successful save, the target is affected by the effect as normal. (If the effect would not normally have a DC, calculate it as if it did using the normal rules for that type of effect.)",
+   "options": []
+  },
+  {
+   "id": "fate/the-page-motif",
+   "name": "The Page",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Motif Talents",
+   "tags": [
+    "motif"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#the-page-motif",
+   "md": "*Source: Expanded Spheres: Baron's Lost Apocrypha*\n\nYour power exacerbates the target’s excitement and ambition. Any morale bonus on the target has its duration extended by 1 round, plus an additional round for every 10 caster levels. The target may discharge this effect as an immediate action to double any morale bonuses affecting them for a single die roll. After this round, the bonuses return to their normal values.",
+   "options": []
+  },
+  {
+   "id": "fate/the-queen-motif",
+   "name": "The Queen",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Motif Talents",
+   "tags": [
+    "motif"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#the-queen-motif",
+   "md": "*Source: Expanded Spheres: Baron's Lost Apocrypha*\n\nThe target’s calm and clarity shields them in time of distress. The duration of any fear effect on the target is reduced by 2 rounds, to a minimum of 1. This reduction in duration increases by 1 round for every 5 caster levels.\nThe target may discharge this effect as an immediate action when they are damaged to treat the damage roll as having rolled the minimum possible result or to cause a critical hit against them to become a normal hit. In addition, you reduce any damage you would take from the triggering attack by 1 for every 2 caster levels (minimum 1 reduced damage). This can reduce an attack’s damage to 0, causing that attack to be treated as a miss.",
+   "options": []
+  },
+  {
+   "id": "fate/the-star-motif",
+   "name": "The Star",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Motif Talents",
+   "tags": [
+    "motif"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#the-star-motif",
+   "md": "You may grant a motif that gives guidance in difficult circumstances. The target gains a +2 insight bonus to armor class against attacks of opportunity. This bonus increases by +1 for every 5 caster levels.\n\nThe target may discharge this effect to avoid provoking attacks of opportunity for one round.",
+   "options": []
+  },
+  {
+   "id": "fate/strength-motif",
+   "name": "Strength",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Motif Talents",
+   "tags": [
+    "motif"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#strength-motif",
+   "md": "You may grant a motif that enhances a target’s might and will. The target gains a +2 insight bonus to CMB and CMD, as well as to Strength checks and Strength-based skill checks. This bonus increases by +1 for every 4 caster levels.\n\nWhen another creature attempts and fails to demoralize the target or targets them with a fear effect that they successfully resist, the target may discharge this effect to make the other creature frightened until the end of their next turn, or shaken for one round with a successful Will save.",
+   "options": []
+  },
+  {
+   "id": "fate/the-sun-motif",
+   "name": "The Sun",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Motif Talents",
+   "tags": [
+    "motif"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#the-sun-motif",
+   "md": "You may grant a motif that ensures a glorious dawn after the darkest night. Whenever the target is below 50% of their maximum hit points, they roll twice on all saving throws and take the better result.\n\nThe target may discharge this effect when they are below 50% of their maximum hit points and succeed on a saving throw against a non-harmless effect to regain a number of hit points equal to the caster level + your casting ability modifier and gain an insight bonus to armor class and saving throws equal to your casting ability modifier for 1 round.",
+   "options": []
+  },
+  {
+   "id": "fate/temperance-motif",
+   "name": "Temperance",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Motif Talents",
+   "tags": [
+    "motif"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#temperance-motif",
+   "md": "You may grant a motif that protects against the whims of luck. When the target rolls a natural 1 on a saving throw or attack roll, they may reroll it. If the new roll is also a natural 1, this effect does not allow them to reroll again, though the motif ’s discharge effect may allow them to.\n\nThe target may discharge this effect to reroll a single saving throw they have just made but before the results of that roll are revealed. They must take the result of the reroll, even if it is worse than the original roll.",
+   "options": []
+  },
+  {
+   "id": "fate/the-tower-motif",
+   "name": "The Tower",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Motif Talents",
+   "tags": [
+    "motif"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#the-tower-motif",
+   "md": "You may grant a motif that lets the target focus the vagaries of time on a creature or object. The target’s unarmed strikes, natural attacks, and manufactured weapons ignore a number of points of damage reduction and hardness up to 5 + 1 per 4 caster levels.\n\nThe target may discharge this effect when struck by a manufactured weapon and after taking damage (if any). The weapon takes 1d4 untyped damage per caster level, ignoring hardness. A successful Reflex save halves the damage, but nonmagical items take the full damage regardless of the result. If the weapon’s wielder has evasion, that ability does not apply to this saving throw.",
+   "options": []
+  },
+  {
+   "id": "fate/the-wheel-motif",
+   "name": "The Wheel",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Motif Talents",
+   "tags": [
+    "motif"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#the-wheel-motif",
+   "md": "You may grant a motif that empowers the target almost at random. Roll 1d4 when you grant the motif. The target gains a +1 insight bonus to rolls indicated on the table below. This bonus increases by +1 for every 10 caster levels. In addition, for every 10 caster levels, roll an additional 1d4, applying the bonus to that category as well. Bonuses from rolling the same result more than once stack.\n\nThe target may discharge this effect to gain an insight bonus to a single attack roll, saving throw, skill check, ability check, initiative roll, or concentration check equal to twice the sum of the d4 rolls. They must choose to do so before rolling.\n\n**Table: The Wheel**\n\n| d4 | Bonus |\n| --- | --- |\n| 1 | Attack and damage rolls |\n| 2 | Saving throws |\n| 3 | Initiative and skill checks |\n| 4 | Concentration checks, combat maneuver checks, and CMD |",
+   "options": []
+  },
+  {
+   "id": "fate/the-world-motif-utility",
+   "name": "The World",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Motif Talents",
+   "tags": [
+    "motif"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#the-world-motif-utility",
+   "md": "You may grant a motif that enhances the target’s ability to succeed in all their endeavors whenever they commit their efforts. Whenever they take 10 or take 20 on a skill check, they gain a +2 insight bonus to the result. This bonus increases by +1 for every 5 caster levels.\n\nThe target may discharge this effect to take 15 (as if they were taking 20) on any skill check without spending additional time, so long as they could normally take 20 with that skill and are trained in it. At 10th caster level, when the target discharges the effect they may take 15 on a skill check without spending additional time even if they are not trained in the skill. At 20th caster level, when the target discharges the effect they attempt the check as though they had ranks in the skill equal to their Hit Dice (to a maximum of your caster level). The insight bonus from this motif applies to this skill check.",
+   "options": []
+  },
+  {
+   "id": "fate/align-object-word",
+   "name": "Align Object",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Word Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#align-object-word",
+   "md": "You may spend a spell point to apply this word to an object or weapon. If placed on an object, it counts as a divine focus for all purposes. If placed on a weapon, it becomes chaotic, evil, good, or lawful, as you choose, overcomes that type of damage reduction, and deals an additional 2d6 damage to creatures of the opposite alignment. This effect lasts as long as you concentrate, but you may always spend a spell point to allow the effect to endure for 1 minute per caster level without concentration.",
+   "options": []
+  },
+  {
+   "id": "fate/axe-you-a-question-word",
+   "name": "Axe You A Question",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Word Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#axe-you-a-question-word",
+   "md": "You utter an ominous question towards the target. The target takes damage as though hit by a greataxe appropriately sized to you (Medium 1d12) and is shaken for a number of rounds equal to half your caster level. This damage is not modified by your Strength or any other modifiers you may possess which would otherwise apply to a damage roll.\n\nIf you spend an additional spell point when casting this sphere effect, for a number of rounds equal to half your caster level, whenever an effect other than this talent would cause the target to become shaken (such as being demoralized with the Intimidate skill), the target take damage as though hit by a greataxe appropriately sized to you. The target cannot take damage this way more than once per round.\n\nA successful Will saving throw negates this effect. This is a language- dependent fear effect.",
+   "options": []
+  },
+  {
+   "id": "fate/bargain-word",
+   "name": "Bargain",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Word Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#bargain-word",
+   "md": "You may spend a spell point as an immediate action when the target is subject to an attack or effect that deals hit point damage, after attack rolls and saving throws have been rolled but before the damage is determined. The attack or effect’s damage is delayed for the target for a number of rounds equal to 1/2 your caster level (minimum 1). Any additional effects of the attack or effect, such as poison, inflicting bleed damage, or a saving throw against the effect, are also delayed. When this word ends (or immediately if this word is dispelled), the target immediately takes the delayed damage and incurs any additional effects of the delayed attack or effect, subject to any changes to immunity, resistances, damage reduction, etc. A given attack or effect cannot be delayed more than once. Abilities contingent on taking damage, such as redirecting damage with the Protection sphere Community talent, are resolved as normal when the target takes the delayed damage.\n\nAn unwilling creature cannot be targeted by this word. If a creature is subject to this word while already under the effects of a previous Bargain word, the previous Bargain word ends and the creature takes the delayed attack or effect’s damage immediately.\n\n**Note:** Damage delayed by this word cannot be delayed further by the Guardian sphere’s delayed damage pool or any other effect which delays damage.",
+   "options": []
+  },
+  {
+   "id": "fate/bless-word",
+   "name": "Bless",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Word Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#bless-word",
+   "md": "When you or one of your allies is making an attack roll, skill check, ability score check, or saving throw, you may spend a spell point as an immediate action to allow them to make the roll twice and take the highest roll. You must use this word before the roll in question is made.",
+   "options": []
+  },
+  {
+   "id": "fate/borrow-luck-word",
+   "name": "Borrow Luck",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Word Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#borrow-luck-word",
+   "md": "When a creature within range fails a saving throw, skill check, or ability check, or misses with an attack, you may spend a spell point as an immediate action to allow them to reroll the saving throw, skill check, ability check, or attack roll. However, starting after the reroll, they take a -4 penalty to that category of roll until they fail another such saving throw or check or, if they reroll an attack roll, until they miss with another attack.\n\nFailing the rerolled saving throw or check or missing with the rerolled attack does not end this effect, nor does deliberately failing a saving throw, failing a saving throw against a harmless effect, or attacking an object or ally.",
+   "options": []
+  },
+  {
+   "id": "fate/borrow-trouble-word-curse",
+   "name": "Borrow Trouble",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Word Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [
+    "curse"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#borrow-trouble-word-curse",
+   "md": "When a creature within range succeeds on a saving throw, skill check, or ability check, or hits with an attack, you may spend a spell point as an immediate action to force them to reroll the saving throw, skill check, ability check, or attack roll. However, starting after the reroll, they gain a +4 bonus to that category of roll until they succeed on another such saving throw or check or, if they reroll an attack roll, until they hit with another attack. Succeeding on the rerolled saving throw or check or hitting with the rerolled attack does not end this effect.",
+   "options": []
+  },
+  {
+   "id": "fate/classify-word-utility",
+   "name": "Classify",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Word Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#classify-word-utility",
+   "md": "You may spend a spell point to force a target creature to state their name, the kind of creature they are (typically their creature type, subtypes, or both), where they came from, why they are where they are, and where they are going. They speak in whichever language they are most comfortable with (usually one of the ones gained from their race), which you may or may not understand.\n\nA successful Will saving throw negates this effect. This is a mind-affecting compulsion effect and creatures that do not speak any languages (including telepathy) are immune to it.",
+   "options": []
+  },
+  {
+   "id": "fate/conjunction-word",
+   "name": "Conjunction",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Word Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#conjunction-word",
+   "md": "When an ally within range fails a saving throw, you may spend a spell point as an immediate action to allow them to reroll it using your modifier. Alternatively, when you fail a saving throw, you may spend a spell point as an immediate action to reroll it using the modifier of an ally within range. If they or you still fail, whatever effect required your ally to attempt that saving throw affects your ally and you as if both of you had been the target, had been in its area of effect, or were subject to its ongoing effect. If the saving throw was to end an ongoing effect and a failure has no penalty other than the effect remaining, you (if your ally rerolled the saving throw) or your ally (if you rerolled the saving throw) are affected by it until the end of your next turn.",
+   "options": []
+  },
+  {
+   "id": "fate/confine-word-curse",
+   "name": "Confine",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Word Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [
+    "curse"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#confine-word-curse",
+   "md": "The target cannot take immediate actions or attacks of opportunity (Will negates). This effect lasts as long as you concentrate, but you may always spend a spell point as a free action to allow this word to continue for 1 round per caster level without concentration.\n\n*Source: Card Casting 2: Counters and Control*",
+   "options": []
+  },
+  {
+   "id": "fate/curse-word-curse",
+   "name": "Curse",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Word Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [
+    "curse"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#curse-word-curse",
+   "md": "When an enemy within range is making an attack roll, skill check, ability score check, or saving throw, you may spend a spell point as an immediate action to force that target to make the roll twice and take the lower result. You must use this word before the roll in question is made.",
+   "options": []
+  },
+  {
+   "id": "fate/enmity-word-curse",
+   "name": "Enmity",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Word Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [
+    "curse"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#enmity-word-curse",
+   "md": "You may spend a spell point as a standard action to place a word on a target debilitating them more severely the less similar their outlook on life is to yours. The effect of this word depends on the number of steps away its alignment is from your own. A target with the same alignment as you is unaffected, while all others are affected as follows:\n\n**Table: Enmity**\n\n| Steps | Effect |\n| --- | --- |\n| 1 | Sickened 1 minute |\n| 2 | Staggered 1 round |\n| 3 | Blind 1 round |\n| 4 | Dazed 1 round |\n\nThese effects are cumulative and consecutive; for example, if a chaotic evil creature were affected by an Enmity word produced by a lawful good creature, it would be dazed for one round, then blind for one round, then staggered for one round, and finally sickened for one minute. As this power is cosmic in origin, it can affect undead, even though undead are usually immune to some of these conditions.\n\nA successful Will save negates this effect, but targets with an especially strong alignment aura opposing your alignment (such as chaotic or good for a lawful evil caster) take a penalty to their save: strong, -1; overwhelming, -2.\n\nIf a target has multiple alignment auras, the penalty is determined by the strongest one.",
+   "options": []
+  },
+  {
+   "id": "fate/exorcism-word",
+   "name": "Exorcism",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Word Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#exorcism-word",
+   "md": "As a standard action, you may spend a spell point to place this word on a target suffering from a mind-affecting, curse, or possession effect and attempt a magic skill check.\n\nIf you succeed, the effect ends and you may spend a spell point to learn the name and creature type and subtypes of the effect’s originator, along with why it placed the target under the effect. The description of the reason for placing the target under the effect is specific but no more than one short sentence. (For example, “He killed my father,” is generally appropriate, but “I hate him,” is not because it is not specific enough.) If the target is affected by more than one such effect, you may either choose a specific one you are aware of to remove or select one at random. You may not attempt to remove a given effect with this talent more than once per day.",
+   "options": []
+  },
+  {
+   "id": "fate/freedom-word",
+   "name": "Freedom",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Word Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#freedom-word",
+   "md": "You may spend a spell point to speak a word that frees the target from physical bondage. You must concentrate to maintain this ability, to a maximum of 1 round per caster level. You may spend an additional spell point as a free action to allow this ability to continue for 1 round per caster level without concentration. The target may move and attack normally, even when under the influence of magic and effects that would otherwise impede movement. This includes paralysis, slow effects, entanglement, Blood Puppet, Hostile Lifts, etc. All combat maneuver checks made to grapple the target automatically fail, and the subject automatically succeeds on any combat maneuver checks and Escape Artist checks made to escape a grapple or a pin. The subject may even move and attack normally while underwater, provided that the weapon is wielded in the hand rather than hurled. This does not, however, grant waterbreathing.",
+   "options": []
+  },
+  {
+   "id": "fate/harm-word-curse",
+   "name": "Harm",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Word Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [
+    "curse"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#harm-word-curse",
+   "md": "Whenever the target of this word suffers damage, they suffer an additional amount of untyped damage equal to 1/2 your caster level (minimum 1). This effect lasts as long as you concentrate, but you may always spend a spell point as a free action to allow this word to continue for 1 round per caster level without concentration.",
+   "options": []
+  },
+  {
+   "id": "fate/malice-word-curse",
+   "name": "Malice",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Word Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [
+    "curse"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#malice-word-curse",
+   "md": "You may place this word on a creature, who then designates a victim within range that is entitled to a Will save to negate the effect. This is a curse effect only on the victim, while it is harmless to the attacker. Once per round when the attacker deals damage to or succeeds on a combat maneuver check against the victim the attacker gains a +1 bonus on attack rolls, damage rolls, and saving throws for a number of rounds equal to your casting ability modifier. This bonus increases by +1 for every 10 caster levels. Multiple bonuses from a single instance of this word stack with each other, up to your casting ability modifier, but not from other instances of the same word.\n\nOnly direct damage gives the attacker this bonus; ongoing damage such as from acid arrow does not. As a swift action the attacker may change victims; this resets the bonus, and if the new victim succeeds on their Will save the effect ends.\n\nYou may choose to instead place this word on a single creature, in which case it gains the bonus once per round when any other creature deals damage to or succeeds on a combat maneuver check against them.\n\nThis effect lasts as long as you concentrate, but you may always spend a spell point to allow the effect to endure for 1 minute per caster level without concentration.",
+   "options": []
+  },
+  {
+   "id": "fate/mercy-word-curse",
+   "name": "Mercy",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Word Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [
+    "curse"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#mercy-word-curse",
+   "md": "You may spend a spell point to reduce the target’s ability to deal lethal damage. The target is allowed a Will save, and on a failure, deals nonlethal damage with all of its weapon attacks for 1 round per caster level. Damage taken by creatures or objects that are not subject to nonlethal damage is not converted to nonlethal and remains lethal damage.",
+   "options": []
+  },
+  {
+   "id": "fate/metaphysical-cloak-word",
+   "name": "Metaphysical Cloak",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Word Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#metaphysical-cloak-word",
+   "md": "Choose an alignment within one step of your own on each axis. The target of this word is treated as this alignment instead of their own for all purposes unless they succeed on a Will saving throw. This does not change its actual alignment, and so does not influence the target’s actions or cause it to violate any code of conduct it might have. This effect lasts as long as you concentrate, but you may always spend a spell point to allow the effect to endure for 1 hour per caster level without concentration.",
+   "options": []
+  },
+  {
+   "id": "fate/openclose-word-utility",
+   "name": "Open/Close",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Word Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#openclose-word-utility",
+   "md": "Rather than targeting creatures, this word targets doors, chests, and other objects that can open or close. You may spend a spell point to open a door or container, as if you were attempting a Disable Device check to unlock it or, if the opening is stuck and no lock is present, a Strength check to force it open. Attempt a magic skill check with a +10 bonus against the lock’s Disable Device DC or the door’s Stuck DC.\n\nIf the check is successful, the portal unlocks and opens. This word may open doors, chests, shackles, and chains, and any other type of fastening. It cannot, however, raise a barred gate, lift a portcullis, or otherwise provide force in and of itself.\n\nYou may also spend a spell point and speak a word that magically holds shut a door, gate, chest, window, or shutter of wood, metal, or stone. The portal closes and, if a lock is present, becomes locked. The DC to open the lock or force open the portal both increase by 10. Once the opening or portal has been forced or picked open, this effect ends.",
+   "options": []
+  },
+  {
+   "id": "fate/pain-word-curse",
+   "name": "Pain",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Word Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [
+    "curse"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#pain-word-curse",
+   "md": "The target suffers debilitating pain. The target suffers 1d4 + 1/2 your caster level in nonlethal damage (no save). You may spend a spell point to cause this target to suffer this damage each round for a total number of rounds equal to your caster level. For 1 round (or as long as this word is in effect) the target suffers a -4 penalty to all mental skill checks (such as Bluff, Spellcraft, Sense Motive, or Survival), and must succeed at a magic skill check (DC 10 + 1/2 the damage dealt + 1/2 the caster level) to use a sphere effect or spell.",
+   "options": []
+  },
+  {
+   "id": "fate/perfect-word",
+   "name": "Perfect",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Word Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#perfect-word",
+   "md": "You may spend a spell point to place a word on a creature that enhances its existing strengths. Choose an ability score. The target gains a +1 bonus to ability checks and skill checks based on that ability score. In addition, the target gains a benefit for the chosen ability score as detailed on the table below.\n\nThis effect lasts as long as you concentrate, but you may always spend a spell point to allow the effect to endure for 1 minute per caster level without concentration.\n\n**Table: Perfect (word)**\n\n| Ability Score | Bonus |\n| --- | --- |\n| Strength | The target does not provoke attacks of opportunity when performing a bull rush, overrun, or trip maneuver. If the target can already perform one of these combat maneuvers without provoking an attack of opportunity, they instead gain a +2 bonus to combat maneuver checks to perform that maneuver. This bonus increases by +1 for every 4 caster levels. |\n| Dexterity | The target gains a +10 feet bonus to all movement speeds and whenever they move the first square is not considered threatened by any enemy. This bonus increases by +5 feet for every 5 caster levels. |\n| Constitution | The target gains 1 temporary hit point, plus 1 temporary hit point for every 5 caster levels. These temporary hit points refresh each round, but do not stack. |\n| Intelligence | The target treats all untrained skills as though they had one skill rank in them, and gains a +2 bonus to all trained skills. This bonus increases by +1 for every 5 caster levels. |\n| Wisdom | The target can attempt either a Perception or Sense Motive check as a free action once per round and gains a +1 bonus to initiative checks. This bonus increases by +1 for every 5 caster levels. |\n| Charisma | The target may use Intimidate to demoralize as a swift action (or a free action once per round if they can already do so as a swift action) and attempt to influence a creature’s attitude using Diplomacy in 1 round by taking a -10 penalty. |",
+   "options": []
+  },
+  {
+   "id": "fate/subvert-weapon-word-curse",
+   "name": "Subvert Weapon",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Word Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [
+    "curse"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#subvert-weapon-word-curse",
+   "md": "You may spend a spell point to place a curse upon a weapon that causes it to turn against its wielder. The next time it is used to make an attack, the attack automatically hits the wielder.\n\nThis word itself does not obviously modify the weapon, so unless alerted by other means (such as detect magic or the divine use of the Divination sphere) the wielder cannot attempt to deal nonlethal damage. At 10th level, the attack automatically threatens a critical hit. An attended or magic weapon is entitled to a Will saving throw to negate this effect. This curse remains up to 1 hour per caster level or until discharged.",
+   "options": []
+  },
+  {
+   "id": "fate/truth-word-curse-utility",
+   "name": "Truth",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Word Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [
+    "curse",
+    "utility"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#truth-word-curse-utility",
+   "md": "The target cannot speak deliberate or intentional lies (Will negates). They are always aware of this word being placed on them and the caster always knows if the target made its saving throw. An affected target may still be evasive, refuse to answer, or word their responses carefully. This effect lasts as long as you concentrate, but you may always spend a spell point to allow the effect to endure for 1 minute per caster level without concentration.",
+   "options": []
+  },
+  {
+   "id": "fate/villainy-word-curse",
+   "name": "Villainy",
+   "kind": "talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Word Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [
+    "curse"
+   ],
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#villainy-word-curse",
+   "md": "You may place this word on a creature marking them as a villain regardless of their actual role in fate’s story. A successful Will save negates this effect. While this word is in effect, any of your allies may use their smite, challenge, or similar ability that requires marking a particular adversary, or a class feature that only affects a particular alignment, even if the target would not normally be affected by the ability (such as a neutral creature by a paladin’s smite evil). When this word’s effect ends, so does the effect of these abilities. You may also, as a free action even when it is not your turn, spend a spell point to allow an ally to use such an effect without spending a daily use or to give an ally without one of these abilities or who choose not to use that ability a +1 bonus to attack and weapon damage rolls against the target of this word. This bonus increases by +1 for every 3 caster levels.\n\nThis effect lasts as long as you concentrate, but you may always spend an additional spell point to allow the effect to endure for 1 round per caster level without concentration.",
+   "options": []
+  },
+  {
+   "id": "fate/atonement-word-utility",
+   "name": "Atonement",
+   "kind": "advanced talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Advanced Fate Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "Fate sphere, caster level 10th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#atonement-word-utility",
+   "md": "**Prerequisites:** Fate sphere, caster level 10th.\n\nYou may act as an intermediary on behalf of your alignment. If you are connected to a deity or another source of power, you may also intercede on its behalf.\n\nBy spending 2 spell points, you may allow the target to change its alignment or make amends for indiscretions in one of the following ways:\n\n- If a creature has had its alignment magically changed, atonement returns its alignment to its original status at no additional cost.\n- A paladin, cleric, druid, or any other caster whose casting tradition dictates their power comes from an aligned source may lose their powers through indiscretions or alignment changes. You may use this ability to restore that character’s class levels or magic powers. Sometimes you or the deity you represent may require the target to undertake a quest, make a sacrifice, or perform some other action to prove its desire to atone before it can have its power restored in this fashion.\n- You grant the creature the chance to instantly change its own alignment to match yours. The target may freely choose whether it retains its original alignment or acquiesces to your offer and changes to your alignment. No duress, compulsion, or magical influence can force the subject to take advantage of the opportunity offered if it is unwilling to abandon its old alignment. Unless specified by the GM, this cannot work on outsiders or any other creature incapable of changing its alignment naturally.\n\n**Note:** Normally, changing alignment is up to the player. This use of atonement offers a method for a character to change his or her alignment drastically, suddenly, and definitively.",
+   "options": []
+  },
+  {
+   "id": "fate/cats-luck-consecration-word",
+   "name": "Cat’s Luck",
+   "kind": "advanced talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Advanced Fate Talents",
+   "tags": [
+    "consecration",
+    "word"
+   ],
+   "talentTags": [],
+   "prerequisites": "Fate sphere, caster level 5th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#cats-luck-consecration-word",
+   "md": "A white cat and black cat both watched on, as the tall ones quibbled. They laughed, and played, and so the tall ones experienced both fortune and misfortune with a wave of their paws.\n\n**Prerequisites:** Fate sphere, caster level 5th.\n\nYou gain the following Fate sphere abilities which manipulate luck and rolled dice:\n\n- **Felicity (consecration):** While this consecration is in effect, the success and failure of all creatures in the area is manipulated. When you create this consecration, choose “weal” or “woe”. If you chose “weal”, all creatures treat a naturally rolled 19 on a d20 as though it were a natural 20. If you chose “woe”, all creatures treat a naturally rolled 2 on a d20 as though it were a natural 1. This consecration’s “woe” effect is considered a curse effect. For every 10 caster levels you possess, the range which weal and woe manipulate naturally rolls as 20 and 1 respectively increases by +1 (e.g. caster level 10 weal would treat a naturally rolled 18-20 as a natural 20). You must concentrate to maintain this consecration. You may always spend an additional spell point as a free action to allow this consecration to continue for 1 minute per caster level without concentration.\n- **Boon (word):** After a creature within range makes a d20 roll, as an immediate action, you may grant the target a +1 luck bonus to that roll. If you spend 1 additional spell point, this bonus increases to +2 + 1 per 10 caster levels. You may use this word after the results of the d20 roll are revealed, which may change the results of the d20 roll into a success.\n- **Jinx (word) [curse]:** After a creature within range makes a d20 roll, as an immediate action, you may cause the target to suffer a -1 penalty to that roll. If you spend 1 additional spell point, this penalty increases to -2 - 1 per 10 caster levels. You may use this word after the results of the target’s d20 roll are revealed, which may change the results of the d20 roll into a failure. An unwilling target may attempt a Will saving throw to negate this effect.\n\n**Note:** A d20 roll modified by the Felicity (consecration) cannot be modified by other effects (such as the Tug Fate (consecration)) but can be rerolled.",
+   "options": []
+  },
+  {
+   "id": "fate/compel-possessor-curse",
+   "name": "Compel Possessor",
+   "kind": "advanced talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Advanced Fate Talents",
+   "tags": [],
+   "talentTags": [
+    "curse"
+   ],
+   "prerequisites": "Fate sphere (Exorcism (word), Geas (advanced, word), Greater Geas (advanced), Mark Of Judgment (advanced)), caster level 15th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#compel-possessor-curse",
+   "md": "**Prerequisites:** Fate sphere (Exorcism (word), Geas (advanced, word), Greater Geas (advanced), Mark Of Judgment (advanced)), caster level 15th.\n\nWhen you successfully remove an effect or possessor using the Exorcism word, you may spend 3 spell points and one hour to bind the spirit of the target’s possessor. The originator of the effect or possession is placed under the effect of your Geas or Mark Of Judgment (your choice), regardless of its distance from you.",
+   "options": []
+  },
+  {
+   "id": "fate/consecrated-ground",
+   "name": "Consecrated Ground",
+   "kind": "advanced talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Advanced Fate Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Fate sphere (Bound Consecration), caster level 5th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#consecrated-ground",
+   "md": "**Prerequisites:** Fate sphere (Bound Consecration), caster level 5th.\n\nWhen you use a consecration that remains in place using Bound Consecration, you may spend three spell points to allow the effect to continue for 2 hours per caster level without concentration. You may take this talent a second time at 10th caster level, which allows you to spend three spell points to make the effect permanent.",
+   "options": []
+  },
+  {
+   "id": "fate/death-motif",
+   "name": "Death",
+   "kind": "advanced talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Advanced Fate Talents",
+   "tags": [
+    "motif"
+   ],
+   "talentTags": [],
+   "prerequisites": "Fate sphere (one (motif) talent), caster level 5th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#death-motif",
+   "md": "**Prerequisites:** Fate sphere (one (motif) talent), caster level 5th.\n\nYou may grant a motif that allows a target to preserve and, ultimately, change the other motifs they bear. While this motif is active, whenever the target discharges a (motif) talent other than Death there is a 50% chance that it does not end. The target may discharge this effect to immediately bring one other (motif) talent you or they know into effect with a duration equal to this motif ’s remaining duration. Granting this motif costs two spell points.",
+   "options": []
+  },
+  {
+   "id": "fate/declare-fate-word-curse",
+   "name": "Declare Fate",
+   "kind": "advanced talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Advanced Fate Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [
+    "curse"
+   ],
+   "prerequisites": "Fate sphere, caster level 15th.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#declare-fate-word-curse",
+   "md": "*Source: [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)*\n\n**Prerequisites:** Fate sphere, caster level 15th.\n\nYou may spend two spell points to place a word on a creature to peer into its near future. Each round, at the end of the creature’s turn, the creature must succeed at a Will saving throw or be forced to declare all actions that it will take on its next turn and be unable to change them. If a declared action would become impossible to perform (such as casting a spell on a creature that is no longer within range), that action is lost. You are aware of what actions an affected creature intends to take.\n\nThis effect lasts as long as you concentrate, but you may always spend a spell point to allow the effect to endure for 1 minute per caster level without concentration.\n\n**Author's Note:** This does not affect attacks of opportunity, which are normally free actions.",
+   "options": []
+  },
+  {
+   "id": "fate/elude-fate-word",
+   "name": "Elude Fate",
+   "kind": "advanced talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Advanced Fate Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [],
+   "prerequisites": "Fate sphere, caster level 10th.",
+   "source": "Spheres Apocrypha: Debilitating Talents 2",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#elude-fate-word",
+   "md": "**Prerequisites:** Fate sphere, caster level 10th.\n\nYou may spend three spell points to place a word on a creature that protects it from a single doom. Choose a set of circumstances. If the circumstances would kill the target of this word the target is instead left at 1 hit point and the word ends. In order for this word to function, the circumstances must be sufficiently specific. For example, “death at the hands of an orc,” “death in an ambush,” “death by fire,” or “death caused by the Telekinesis sphere” would be acceptable; “death by hit point damage” or “death at the hands of an enemy” would not.\n\nThe GM is the ultimate arbiter both of what is sufficiently specific (though if a set of circumstances is ruled to not be, the caster does not spend spell points) and of whether a particular death meets the specified conditions.\n\nThis word lasts 1 hour per caster level or until discharged.",
+   "options": []
+  },
+  {
+   "id": "fate/entropic-aura-consecration-curse",
+   "name": "Entropic Aura",
+   "kind": "advanced talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Advanced Fate Talents",
+   "tags": [
+    "consecration"
+   ],
+   "talentTags": [
+    "curse"
+   ],
+   "prerequisites": "Fate sphere, Death sphere, caster level 10th.",
+   "source": "Spheres Apocrypha: Debilitating Talents 2",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#entropic-aura-consecration-curse",
+   "md": "**Prerequisites:** Fate sphere, Death sphere, caster level 10th.\n\nYou may spend a spell point to create a consecration that makes healing difficult. All fast healing and regeneration possessed by creatures in the area of this consecration is suppressed, and all effects within the area that would heal hit point damage or restore ability damage or drain are halved. In addition, any damage dealt to creatures in the area (including you) is difficult to heal, even after this consecration ends. Half of it may be healed normally. The rest cannot be healed naturally (including by fast healing). Other effects can heal the damage only if the effect’s originator succeeds on a Heal check against a DC of your MSD + your casting ability modifier. This DC increases by 8 unless it is made within an area infused with positive energy, such as produced by a consecrate spell or ritual.\n\nYou must concentrate to maintain this consecration, but you may spend an additional spell point as a free action to allow this effect to continue for 1 round per caster level without concentration.",
+   "options": []
+  },
+  {
+   "id": "fate/excise-triumph-word-curse",
+   "name": "Excise Triumph",
+   "kind": "advanced talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Advanced Fate Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [
+    "curse"
+   ],
+   "prerequisites": "Fate Sphere, caster level 5th",
+   "source": "Spheres Apocrypha: Debilitating Talents 2",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#excise-triumph-word-curse",
+   "md": "**Prerequisites:** Fate Sphere, caster level 5th\n\nWhenever the target would roll a d20, they roll a d16 instead. The target threatens a critical hit on a 16 when making attack rolls. This effect lasts as long as you concentrate, but you may always spend a spell point to allow the effect to endure for 1 minute per caster level without concentration.\n\n*Source: Card Casting 3: Volatile Variance*",
+   "options": []
+  },
+  {
+   "id": "fate/execration",
+   "name": "Execration",
+   "kind": "advanced talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Advanced Fate Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Fate sphere (at least one [curse] (word) talent), caster level 10th.",
+   "source": "Spheres Apocrypha: Debilitating Talents 2",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#execration",
+   "md": "**Prerequisites:** Fate sphere (at least one [curse] (word) talent), caster level 10th.\n\nWhen you spend a spell point to allow a word with the [curse] descriptor to continue without concentration, you may spend an additional 2 spell points to increase the duration to permanent. A permanent curse cannot be dispelled, but it may be broken through the Break Enchantment Life talent, as well as spells such as break enchantment, limited wish, miracle, remove curse, or wish. You may remove a permanent curse that you placed on a target as a standard action as long as the target is within your word range.",
+   "options": []
+  },
+  {
+   "id": "fate/falsehood-word-curse-utility",
+   "name": "Falsehood",
+   "kind": "advanced talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Advanced Fate Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [
+    "curse",
+    "utility"
+   ],
+   "prerequisites": "Fate sphere, caster level 1st.",
+   "source": "Spheres Apocrypha: Debilitating Talents 2",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#falsehood-word-curse-utility",
+   "md": "**Prerequisites:** Fate sphere, caster level 1st.\n\nAny magical effect which would detect lies or force to speak the truth requires a magical skill check to affect the target. Failure means the effect does not detect your target’s lies or force it to speak only the truth. In addition, you may force the creature to speak only lies; this word is only a [curse] effect if you do. Unless the target succeeds on a Will saving throw, they cannot speak the truth as they understand it. They are always aware of this word being placed on them and the caster always knows if the target made its saving throw. An affected target may still be evasive, refuse to answer, or word their responses carefully.\n\nYou may spend an additional spell point to grant the target a bonus to Bluff checks equal to +5 plus your caster level. This bonus only applies to checks made to convince another of the truth of the target’s words. It does not apply to other uses of the Bluff skill, such as feinting in combat, creating a diversion to hide, or communicating a hidden message via innuendo.\n\nThis effect lasts as long as you concentrate, but you may always spend a spell point to allow the effect to endure for 1 minute per caster level without concentration.",
+   "options": []
+  },
+  {
+   "id": "fate/flounder-word-curse",
+   "name": "Flounder",
+   "kind": "advanced talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Advanced Fate Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [
+    "curse"
+   ],
+   "prerequisites": "Fate sphere, caster level 5th",
+   "source": "Spheres Apocrypha: Debilitating Talents 2",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#flounder-word-curse",
+   "md": "**Prerequisites:** Fate sphere, caster level 5th\n\nYou place a curse on the target that amplifies their failures (Will negates). Whenever the target misses with an attack, that attack is automatically a critical fumble threat. The target must confirm the critical fumble as normal. This effect lasts as long as you concentrate, but you may always spend a spell point to allow the effect to endure for 1 minute per caster level without concentration. Whenever the target confirms a critical fumble threat, they are allowed a new Will save to end this effect.\n\n*Source: Card Casting 3: Volatile Variance*",
+   "options": []
+  },
+  {
+   "id": "fate/geas-word-curse-utility",
+   "name": "Geas",
+   "kind": "advanced talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Advanced Fate Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [
+    "curse",
+    "utility"
+   ],
+   "prerequisites": "Fate sphere, caster level 10th.",
+   "source": "Spheres Apocrypha: Debilitating Talents 2",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#geas-word-curse-utility",
+   "md": "**Prerequisites:** Fate sphere, caster level 10th.\n\nYou may spend 2 spell points and 10 minutes to place a geas on a touched target with fewer Hit Dice than your caster level. A geas is a magical command that compels the target to carry out some service or to refrain from some action or course of activity, as declared when the geas is placed. The target is allowed a Will save to negate this effect. While a geas cannot compel a creature to kill itself or perform acts that would result in certain death, it can cause almost any other course of activity.\n\nThe geased creature must follow the given instructions until the geas is completed, no matter how long it takes. If the instructions involve some open-ended task that the recipient cannot complete through his own actions, the geas remains in effect for a maximum of 1 day per caster level. A clever recipient can subvert some instructions.\n\nIf the subject is prevented from obeying the geas for 24 hours, it takes a -2 penalty to each of its ability scores. Each day, another -2 penalty accumulates, up to a total of -8. No ability score can be reduced to less than 1 by this effect. The ability score penalties are removed 24 hours after the subject resumes obeying the geas.\n\nA geas cannot be dispelled, but it may be broken through the Break Enchantment Life talent, as well spells such as break enchantment, limited wish, miracle, remove curse, or wish. You may remove a geas that you placed on a target as a standard action.",
+   "options": []
+  },
+  {
+   "id": "fate/get-a-word-in",
+   "name": "Get a Word In",
+   "kind": "advanced talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Advanced Fate Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Fate Sphere",
+   "source": "Spheres Apocrypha: Debilitating Talents 2",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#get-a-word-in",
+   "md": "*Source: [Expanded Spheres: Weaves of War](https://www.drivethrurpg.com/en/product/482352/expanded-spheres-weaves-of-war=3028400)*\n\n**Prerequisites:** Fate Sphere\n\nYou may use any [word] with a duration of at least 1 round per caster level as an immediate action rather than a standard action. If you do, the duration of the [word] is reduced to 1 round.",
+   "options": []
+  },
+  {
+   "id": "fate/greater-geas-utility",
+   "name": "Greater Geas",
+   "kind": "advanced talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Advanced Fate Talents",
+   "tags": [],
+   "talentTags": [
+    "utility"
+   ],
+   "prerequisites": "Fate sphere (Geas (advanced)), caster level 10th.",
+   "source": "Expanded Spheres: Weaves of War",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#greater-geas-utility",
+   "md": "**Prerequisites:** Fate sphere (Geas (advanced)), caster level 10th.\n\nYour geas becomes more powerful. Targets of your geas no longer gain a saving throw against the effect, and you may target any creature, not only those with fewer Hit Dice than your caster level. In addition, the geas can only be broken through the Break Enchantment Life talent or the remove curse or break enchantment spells if the target’s caster level is at least two higher than yours. Limited wish, miracle, and wish may still remove a geas.",
+   "options": []
+  },
+  {
+   "id": "fate/heroism-word",
+   "name": "Heroism",
+   "kind": "advanced talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Advanced Fate Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [],
+   "prerequisites": "Fate sphere (Bless (word)), caster level 5th.",
+   "source": "Expanded Spheres: Weaves of War",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#heroism-word",
+   "md": "**Prerequisites:** Fate sphere (Bless (word)), caster level 5th.\n\nYou may spend a spell point to place a word on a target that marks them as a protagonist in fate’s story, granting them a temporary hero point that disappears in one round or once used.",
+   "options": []
+  },
+  {
+   "id": "fate/the-high-priestess-motif",
+   "name": "The High Priestess",
+   "kind": "advanced talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Advanced Fate Talents",
+   "tags": [
+    "motif"
+   ],
+   "talentTags": [],
+   "prerequisites": "Fate sphere (one (motif) talent), caster level 5th.",
+   "source": "Expanded Spheres: Weaves of War",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#the-high-priestess-motif",
+   "md": "**Prerequisites:** Fate sphere (one (motif) talent), caster level 5th.\n\nYou may grant a motif that extends the benefits of other motifs affecting a target to their allies. When you use this ability, choose a motif currently affecting the target to link this motif to. The target’s allies gain the normal effect as long as they are within 30 feet of the target. When the target discharges the chosen motif, they may either choose a different motif affecting the target to link this motif to or discharge this motif as part of the same action to grant all allies within 30 feet of them an insight bonus to saving throws equal to half your caster level for one round. If the target discharges the chosen motif but it does not end (such as if they also have the Death motif), they may not choose a different motif to link to this motif (it instead remains linked to the chosen motif), but may discharge this motif.",
+   "options": []
+  },
+  {
+   "id": "fate/mark-of-judgment-curse",
+   "name": "Mark Of Judgment",
+   "kind": "advanced talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Advanced Fate Talents",
+   "tags": [],
+   "talentTags": [
+    "curse"
+   ],
+   "prerequisites": "Fate sphere (Geas (advanced, word), Greater Geas (advanced)), caster level 10th.",
+   "source": "Expanded Spheres: Weaves of War",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#mark-of-judgment-curse",
+   "md": "**Prerequisites:** Fate sphere (Geas (advanced, word), Greater Geas (advanced)), caster level 10th.\n\nYour geas gains a permanent duration, as well as a more immediate effect. If the target breaks the geas even once, it immediately suffers a permanent -8 penalty to all ability scores or another punishment of equal strength designated at the time of casting. This punishment may only be removed if the geas is removed or at your discretion, whether or not the target returns to obeying the geas.",
+   "options": []
+  },
+  {
+   "id": "fate/undying-obstinance-consecration",
+   "name": "Undying Obstinance",
+   "kind": "advanced talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Advanced Fate Talents",
+   "tags": [
+    "consecration"
+   ],
+   "talentTags": [],
+   "prerequisites": "Fate sphere, Life sphere, caster level 15th.",
+   "source": "Expanded Spheres: Weaves of War",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#undying-obstinance-consecration",
+   "md": "**Prerequisites:** Fate sphere, Life sphere, caster level 15th.\n\nYou may spend a spell point to create a consecration filled with positive energy that sustains the living beyond what their bodies can withstand. While this consecration is in effect, no living creature becomes disabled or dying within its area, nor do creatures die from loss of hit points. This does not protect creatures from these effects once this consecration ends or they leave the area, nor does it protect them from death from other causes. This counts as a Life talent for the purpose of talents, drawbacks, or other abilities that change who you can affect with Life talents or abilities.\n\nYou must concentrate to maintain this consecration, but you may spend an additional spell point as a free action to allow this effect to continue for 1 round per two caster levels without concentration.",
+   "options": []
+  },
+  {
+   "id": "fate/weave-the-fates",
+   "name": "Weave The Fates",
+   "kind": "advanced talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Advanced Fate Talents",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Fate sphere (any one (motif), any one (arcana)), caster level 10th.",
+   "source": "Expanded Spheres: Weaves of War",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#weave-the-fates",
+   "md": "**Prerequisites:** Fate sphere (any one (motif), any one (arcana)), caster level 10th.\n\nYour ability to glimpse and actualize your target’s fate heightens. (Arcana) talents attached to a motif grant bonuses as though they were granted as a motif. A target cannot benefit from an (arcana)’s bonuses more than once, and they do not stack (wands attached to two different motifs do not grant separate bonuses to initiative).\n\nIn addition, when you cast a motif and attach an (arcana), you may spend an additional spell point to attach up to three (arcana) to that motif, instead of just one. When a motif with multiple attached (arcana) is discharged, each (arcana) talent’s discharge effects occur simultaneously.\n\nIf the same (arcana) is attached to one motif multiple times, that (arcana)’s bonuses do not stack and the discharge’s duration and effects resolve cumulatively.\n\n**Example:** A sphere caster with a Fate sphere caster level of 10 grants the target a motif with 3 attached wands. The target would gain +3 initiative as normal for the Wands talent when granted as a motif and no additional benefit for the two additional wands. A target who discharges an attached motif with three attached swords would ignore concealment for three minutes and receive three separate critical confirmation bonuses after the motif is discharged.",
+   "options": []
+  },
+  {
+   "id": "fate/weight-of-command-word",
+   "name": "Weight of Command",
+   "kind": "advanced talent",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Advanced Fate Talents",
+   "tags": [
+    "word"
+   ],
+   "talentTags": [],
+   "prerequisites": "Fate Sphere, caster level 10th",
+   "source": "Expanded Spheres: Weaves of War",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate#weight-of-command-word",
+   "md": "**Prerequisites:** Fate Sphere, caster level 10th\n\nYou may spend a spell point to apply this word to a weapon. Whenever this weapon deals damage to a subordinate, called creature, summoned creature, or creature animated by a magic effect (such as a zombie or animated object), any excess damage beyond the amount needed to reduce the creature to 0 hit points is instead applied to the subordinate’s master or the caster of the animating, calling, or summoning spell. Such a master is allowed a Will save to negate this damage. This movement of damage may only be applied once per subordinate or summoned/called/animated creature.\n\n*Source: Card Casting 3: Volatile Variance*",
+   "options": []
+  },
+  {
+   "id": "fate/blessed-necromancy-dual-sphere",
+   "name": "Blessed Necromancy",
+   "kind": "feat",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Death sphere, Fate sphere.",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate-Sphere-Feats#blessed-necromancy-dual-sphere",
+   "md": "Your power over the dead extends to influence over their destiny.\n\n**Prerequisites:** Death sphere, Fate sphere.\n\n**Benefit:** You may use your word abilities as ghost strikes (using your Death sphere caster level to determine range and number of targets but your Fate sphere caster level for any other effects). Additionally, when you reanimate one or more targets, you may target them with a single word ability as a free action. If the undead creatures are maintained through concentration (such as through the Sustained Reanimation talent), you may concentrate on this word and the reanimation as part of the same action.",
+   "options": []
+  },
+  {
+   "id": "fate/consecrated-affinity-dual-sphere",
+   "name": "Consecrated Affinity",
+   "kind": "feat",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Fate sphere, Mana sphere (Magical Conduit).",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate-Sphere-Feats#consecrated-affinity-dual-sphere",
+   "md": "Your presence warps the fabric of magic, binding creatures together.\n\n**Prerequisites:** Fate sphere, Mana sphere (Magical Conduit).\n\n**Benefit:** As a free action that can be taken outside of your turn when you have a consecration active, you may create a manabond with any willing creature within the area or creature which has failed its saving throw against the consecration. This manabond lasts for as long as the bonded creature remains within your consecration, but you do not otherwise need to concentrate on the manabond to continue its effects.",
+   "options": []
+  },
+  {
+   "id": "fate/doublespeak-dual-sphere",
+   "name": "Doublespeak",
+   "kind": "feat",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Fate sphere (Echoing Word [mass]), Mind sphere; or Fate sphere, Mind sphere (Mass Charm [mass]).",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate-Sphere-Feats#doublespeak-dual-sphere",
+   "md": "What might spell doom for one listener brings the greatest of joy to another.\n\n**Prerequisites:** Fate sphere (Echoing Word [mass]), Mind sphere; or Fate sphere, Mind sphere (Mass Charm [mass]).\n\n**Benefit:** When you use a charm, cloud, or word, you may spend 1 additional spell point to affect the target, targets, or creatures in the area with a different charm, cloud, or word you may create if they are of a certain alignment (designations may include specifications such as lawful good, any good, or any nongood). Creatures of that alignment are instead affected by a different charm or cloud effect of your choice of the same strength that you may create, or a word you may cast, chosen when you cast the first effect. You must spend spell points for the secondary effect as normal.",
+   "options": []
+  },
+  {
+   "id": "fate/ecumenicism",
+   "name": "Ecumenicism",
+   "kind": "feat",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Fate sphere.",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate-Sphere-Feats#ecumenicism",
+   "md": "**Prerequisite:** Fate sphere.\n\n**Benefit:** Whenever you use a word or consecration (or spell or ritual based on a word or consecration), you may choose an alignment within one step of your own. Determine the effect of the word or consecration as if you had that alignment.",
+   "options": []
+  },
+  {
+   "id": "fate/endless-possibilities-dual-sphere",
+   "name": "Endless Possibilities",
+   "kind": "feat",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Fate sphere, Life sphere.",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate-Sphere-Feats#endless-possibilities-dual-sphere",
+   "md": "**Prerequisites:** Fate sphere, Life sphere.\n\n**Benefit:** Whenever you use a Life sphere ability on an ally, they receive a +1 luck bonus to all attack rolls, saving throws, skill checks and ability checks until the end of their next turn. This bonus increases by +1 for every 5 Life caster levels you possess.",
+   "options": []
+  },
+  {
+   "id": "fate/fated-summons-dual-sphere",
+   "name": "Fated Summons",
+   "kind": "feat",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Conjuration Sphere, Fate Sphere",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate-Sphere-Feats#fated-summons-dual-sphere",
+   "md": "*Source: Expanded Spheres: Baron's Lost Apocrypha*\n\n**Prerequisites:** Conjuration Sphere, Fate Sphere\n\n**Benefit:** Whenever you summon a companion, you may spend one spell point to apply a word or motif to them as part of the same standard action. If you do so, the word or motif lasts for its normal duration.",
+   "options": []
+  },
+  {
+   "id": "fate/lifebound-auspician",
+   "name": "Lifebound Auspician",
+   "kind": "feat",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Fate sphere; Death sphere or Life sphere; caster level 3rd.",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate-Sphere-Feats#lifebound-auspician",
+   "md": "You bend the forces of the cosmos to the heartbeat of mortality.\n\n**Prerequisites:** Fate sphere; Death sphere or Life sphere; caster level 3rd.\n\n**Benefits:** Whenever a Fate sphere effect you create would use an alignment, you may instead choose living or undead. Living and undead are considered opposite alignments that are 3 steps away from each other and do not have an alignment aura (such as determining additional penalties to the saving throw associated with the Enmity (word) talent or the Reveal Alignment (consecration) revealing whether the creatures inside are living or dead).\n\nYou must possess the Death sphere to choose living or the Life sphere to choose undead. You may treat yourself as either living or undead when creating a consecration to exclude yourself from its effects (as you would normally be your own alignment and unaffected).\n\nIn addition, whenever you use the Serendipity consecration, you may modify it with one of the following:\n\n- **Living Bastion (requires Life sphere):** Instead of its regular effects, your Serendipity consecration bonus changes to sacred and only grants bonuses to living creatures (or penalizes undead creatures if you possess the Greater Serendipity talent), increasing by +1 for every 10 caster levels you possess. Any living creature healed by a magical effect inside this consecration heals up to an additional +1 hit point per Hit Dice they possess (to a maximum of the original amount healed).\n- **Unliving Bastion (requires Death sphere):** Instead of its regular effects, your Serendipity consecration bonus changes to profane and only grants bonuses to undead (or penalizes living creatures if you possess the Greater Serendipity talent), increasing by +1 for every 10 caster levels you possess. Any undead created inside this consecration gains an additional +1 hit points per Hit Dice they possess.\n\nSphere effects modified with this feat are still treated as the original talent for all purposes, and as such, do not stack with those same talents unmodified by this feat. This prevents a character from benefiting from both the Hallow (word) against evil and the Hallow (word) against undead, as modified by this feat, against the same target or effect. Likewise, a regular Serendipity consecration and the Living Bastion-modified Serendipity consecration’s effects would not stack, despite granting different bonus types.\n\n**Note:** For the purposes of this feat, a living creature is any creature with a Constitution score.\n\n**Example:** A Fate sphere caster uses the Divine Force (consecration) talent. Instead of using the Fate sphere caster’s alignment, the caster chooses living and affects any undead, regardless of their alignment, and does not affect living creatures. That same caster uses the Enmity (word) talent, choosing undead and targeting a living creature. The living creature must succeed at a Will saving throw or be blinded as though their alignment were 3 steps away from the caster’s.",
+   "options": []
+  },
+  {
+   "id": "fate/malediction-dual-sphere",
+   "name": "Malediction",
+   "kind": "feat",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Fate sphere, Protection sphere (Punishment)",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate-Sphere-Feats#malediction-dual-sphere",
+   "md": "**Prerequisites:** Fate sphere, Protection sphere (Punishment)\n\n**Benefit:** When you use the Punishment succor, you may target the attacker with a word in place of dealing the damage from Punishment. The spell point cost of such a word is reduced by 1, to a minimum of 0. In addition, when using the Punishment succor, you may end a word or motif effect which you have spent at least one spell point on in place of ending an aegis.\n\n*Source: Card Casting 2: Counters and Control*",
+   "options": []
+  },
+  {
+   "id": "fate/sanctified-vigilance-dual-sphere",
+   "name": "Sanctified Vigilance",
+   "kind": "feat",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Fate sphere, War sphere (any (rally) talent).",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate-Sphere-Feats#sanctified-vigilance-dual-sphere",
+   "md": "**Prerequisites:** Fate sphere, War sphere (any (rally) talent).\n\n**Benefit:** You may use rallies on allies within the area of your consecrations even if you do not share a mandate with them and they are not within range of one of your totems.",
+   "options": []
+  },
+  {
+   "id": "fate/whole-set-blast-dual-sphere",
+   "name": "Whole-Set Blast",
+   "kind": "feat",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "General",
+   "tags": [
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Destruction Sphere (Conflagrant Cluster), Fate Sphere",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate-Sphere-Feats#whole-set-blast-dual-sphere",
+   "md": "**Prerequisites:** Destruction Sphere (Conflagrant Cluster), Fate Sphere\n\n**Benefits:** Whenever you use your destructive blast, you gain a +1 bonus to MSB checks made to bypass spell resistance for each different size of damage die beyond the first used in the destructive blast’s damage.\n\n*Source: Card Casting 3: Volatile Variance*",
+   "options": []
+  },
+  {
+   "id": "fate/cursed-brew",
+   "name": "Cursed Brew",
+   "kind": "drawback",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Drawbacks",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate-Sphere-Drawbacks#cursed-brew",
+   "md": "You must select the Instill Fate talent with the bonus talent granted by this drawback, and you can only use your Fate sphere abilities through this talent. You must possess the Tongue Of Ages drawback to gain this one.",
+   "options": []
+  },
+  {
+   "id": "fate/luckless",
+   "name": "Luckless",
+   "kind": "drawback",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Drawbacks",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate-Sphere-Drawbacks#luckless",
+   "md": "You cannot use the Serendipity consecration. You must choose a (consecration) talent with the bonus talent gained from this drawback.\n\n**Incompatible:** Tongue Of Ages",
+   "options": []
+  },
+  {
+   "id": "fate/neutrality",
+   "name": "Neutrality",
+   "kind": "drawback",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Drawbacks",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate-Sphere-Drawbacks#neutrality",
+   "md": "You lack a strong connection to any alignment type. You cannot use the Hallow word. You must choose a (word) talent with the bonus talent gained from this drawback.\n\n**Incompatible:** Sanctified",
+   "options": []
+  },
+  {
+   "id": "fate/non-judgemental",
+   "name": "Non-Judgemental",
+   "kind": "drawback",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Drawbacks",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate-Sphere-Drawbacks#non-judgemental",
+   "md": "Your Fate sphere abilities treat creatures as not possessing an alignment unless they possess the chaotic, evil, good, or lawful subtypes or draw their abilities from a source with such subtypes (gods should generally be considered outsiders with subtypes corresponding to their alignment for the purposes of this drawback). Such creatures are treated as if they had alignments corresponding to their subtypes. You must use this drawback to select one of the following talents: Align Object, Divine Force, Divine Pressure, or Enmity.",
+   "options": []
+  },
+  {
+   "id": "fate/personal-fate",
+   "name": "Personal Fate",
+   "kind": "drawback",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Drawbacks",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate-Sphere-Drawbacks#personal-fate",
+   "md": "You may only target yourself with your words and motifs, and your consecrations only affect you. You cannot take Echoing Word or any other talent that would increase the range or expand the targets for your Fate sphere effects.",
+   "options": []
+  },
+  {
+   "id": "fate/sanctified",
+   "name": "Sanctified",
+   "kind": "drawback",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Drawbacks",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate-Sphere-Drawbacks#sanctified",
+   "md": "You may not create words.\n\n**Incompatible:** Neutrality",
+   "options": []
+  },
+  {
+   "id": "fate/tongue-of-ages",
+   "name": "Tongue Of Ages",
+   "kind": "drawback",
+   "sphere": "Fate",
+   "system": "Spheres of Power",
+   "group": "Drawbacks",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Power/Fate/Fate-Sphere-Drawbacks#tongue-of-ages",
+   "md": "You may not create consecrations.\n\n**Incompatible:** Luckless",
+   "options": []
+  }
+ ]
+}
