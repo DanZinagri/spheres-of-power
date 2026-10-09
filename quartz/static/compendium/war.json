@@ -1,7 +1,7 @@
 {
  "sphere": "War",
  "system": "Spheres of Power",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "war/totem",

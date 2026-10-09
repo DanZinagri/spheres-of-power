@@ -2832,7 +2832,7 @@ COMPENDIUM = {
     },
     "War": {
         "system": "Spheres of Power",
-        "approved": False,
+        "approved": True,
         "pages": [
             # Totem (with Totem of War) and Rally (with Commanding Aid)
             ("War", "## Totem", "sphere ability", 2, 4),
@@ -2850,6 +2850,20 @@ COMPENDIUM = {
         ],
         # the (mandate) / (momentum) talent type notes under Rally
         "not_options": r"^Table|^Note|^Mandate$|^Momentum$",
+    },
+    "Warp": {
+        "system": "Spheres of Power",
+        "approved": False,
+        "pages": [
+            ("Warp", "## Teleport", "sphere ability", 2, 4),
+            ("Warp", "Warp Talents", "talent", 4),
+            ("Warp", "Space Talents", "talent", 4),
+            ("Warp", "Advanced Warp Talents", "advanced talent", 4),
+            ("Warp Sphere Feats", "(page)", "feat", 4),
+            ("Warp Sphere Drawbacks", "(page)", "drawback", 4),
+        ],
+        # rules notes: the (space) talent type note, and Teleport Structure's note on structures
+        "not_options": r"^Table|^Note|^Bend Space$|^Warping Structures",
     },
     "Warleader": {
         "system": "Spheres of Might",
