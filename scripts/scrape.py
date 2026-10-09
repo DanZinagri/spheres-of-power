@@ -4865,7 +4865,19 @@ GEAR_CATS = ["weapon", "ammo", "armor", "shield", "gear", "consumable", "magic",
 # armor or shield. AoN's quality lists say what a special ability goes on.
 QUALITY_APPLIES = {"MeleeWeaponQuality": "melee", "RangedWeaponQuality": "ranged", "ArmorQuality": "armor",
                    "ShieldQuality": "shield"}
-WEAPON_MOD_DRAWBACK = "A modified weapon is treated as one category more difficult to wield (simple → martial → exotic) unless you have Weapon Adept for this modification."
+# Adventurer's Armory 2 armor modifications' numbers (the rest of their text is situational): the
+# benefit, and the drawback Armor Adept ignores. ac = armor bonus, acp = check penalty, speed in
+# feet, armorStep = the armor's category (light / medium / heavy) moves this many steps heavier.
+ARMOR_MOD_EFFECTS = {
+    "double-plated": ({"ac": 1, "maxDex": -2}, {"armorStep": 1}),
+    "nimble": ({"maxDex": 2, "acp": -1}, {"ac": -1}),
+    "slumbering": ({}, {"acp": 1}),
+    "deflecting": ({}, {"speed": -5}),
+    "jarring": ({}, {"speed": -5}),
+    "razored": ({}, {"speed": -5}),
+    "vitalguard": ({}, {"speed": -5}),
+}
+WEAPON_MOD_DRAWBACK ="A modified weapon is treated as one category more difficult to wield (simple → martial → exotic) unless you have Weapon Adept for this modification."
 
 
 def _ability_prices(text: str) -> list[dict]:
@@ -5280,6 +5292,8 @@ def build_gear_compendium() -> int:
                      drawback=m.group(1).strip() if (m := re.search(r"#+ Drawback\s*\n+(.+?)(?=\n#|\Z)", x["md"], re.S)) else "")
             for k in ("ac", "maxDex", "acp", "asf", "speed", "armorType"):
                 x.pop(k, None)
+            benefit, drawback = ARMOR_MOD_EFFECTS.get(x["name"].lower(), ({}, {}))
+            x.update(effects=benefit, drawbackEffects=drawback)
     # ids, files and the index
     used: set[str] = set()
     for x in entries:

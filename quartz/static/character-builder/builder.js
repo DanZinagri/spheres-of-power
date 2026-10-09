@@ -202,6 +202,7 @@ function calcCore(m) {
   const cmd = 10 + bab + abl.str.mod + abl.dex.mod - size + m("cmd")
   const init = abl.dex.mod + m("init")
   const baseSpeed = num(s.race.speed) + m("landSpeed") + m("allSpeeds")
+    + s.gear.reduce((a, g) => a + (g.equipped && (g.kind === "armor" || g.kind === "shield") ? modSpeed(g) : 0), 0)
   const speed = enc.slow ? baseSpeed - 5 * Math.floor(baseSpeed / 15) : baseSpeed // 30 -> 20, 20 -> 15
   const attackMod = { melee: m("attack") + m("wattack") + m("mattack"), ranged: m("attack") + m("wattack") + m("rattack") }
   const damageMod = { melee: m("damage") + m("wdamage") + m("mwdamage") + m("mdamage"), ranged: m("damage") + m("wdamage") + m("rwdamage") + m("rdamage") }
@@ -2183,6 +2184,42 @@ function adeptAllowance() {
 }
 const PROF_STEPS = ["Simple", "Martial", "Exotic"]
 
+// an armor modification's numbers (compendium effects / drawbackEffects): applied to the row's own
+// fields, and recorded (m.applied) so removing it, or ignoring its drawback, undoes exactly what it did
+const ARMOR_STEPS = ["lightArmor", "mediumArmor", "heavyArmor"]
+const hasMaxDex = (g) => g.maxDex !== "" && g.maxDex != null
+function applyModEffects(g, m, part, on) {
+  m.applied ??= {}
+  const rec = m.applied[part]
+  if (!on) {
+    if (!rec) return
+    if (rec.ac) g.ac = num(g.ac) - rec.ac
+    if (rec.maxDex && hasMaxDex(g)) g.maxDex = num(g.maxDex) - rec.maxDex
+    if (rec.acp) g.acp = Math.max(0, num(g.acp) - rec.acp)
+    if (rec.armorStep) g.armorType = ARMOR_STEPS[Math.max(0, ARMOR_STEPS.indexOf(g.armorType || "lightArmor") - rec.armorStep)]
+    delete m.applied[part]
+    return
+  }
+  if (rec) return
+  const eff = (part === "benefit" ? m.effects : m.drawbackEffects) ?? {}
+  const out = {}
+  for (const [k, v] of Object.entries(eff)) {
+    if (k === "ac") { g.ac = num(g.ac) + v; out.ac = v }
+    else if (k === "maxDex" && hasMaxDex(g)) { g.maxDex = num(g.maxDex) + v; out.maxDex = v }
+    else if (k === "acp") { const nv = Math.max(0, num(g.acp) + v); out.acp = nv - num(g.acp); g.acp = nv }
+    else if (k === "armorStep" && g.kind === "armor") {
+      const at = Math.max(0, ARMOR_STEPS.indexOf(g.armorType || "lightArmor"))
+      const to = Math.min(ARMOR_STEPS.length - 1, at + v)
+      out.armorStep = to - at
+      if (at + v > to) out.tooHeavy = true // heavy armor made heavier: unusable without Armor Adept
+      g.armorType = ARMOR_STEPS[to]
+    } else if (k === "speed") out.speed = v // read by calcCore and the export
+  }
+  m.applied[part] = out
+}
+// the speed an equipped item's modifications take off (feet; negative)
+const modSpeed = (g) => (g.mods ?? []).reduce((a, m) => a + num(m.applied?.benefit?.speed) + num(m.applied?.drawback?.speed), 0)
+
 // the row's "Magic and modifications" block
 function magicBlock(g, i) {
   g.abilities ??= []
@@ -2199,6 +2236,7 @@ function magicBlock(g, i) {
   const warnings = [
     g.abilities.some((a) => a.bonus) && !num(g.enh) ? "Special abilities need at least a +1 enhancement bonus." : "",
     bonus > MAX_TOTAL_BONUS ? `The total bonus is +${bonus}; the most is +${MAX_TOTAL_BONUS}.` : "",
+    g.mods.some((m) => m.applied?.drawback?.tooHeavy) ? "Heavy armor made a category heavier is too restrictive to use without Armor Adept for that modification." : "",
     adept[modKind].used > adept[modKind].allowed
       ? `${adept[modKind].used} ${modKind} modification${adept[modKind].used > 1 ? "s" : ""} ignored, but ${modKind === "weapon" ? "Weapon" : "Armor"} Adept (taken ${adept[modKind].feats} time${adept[modKind].feats === 1 ? "" : "s"}) covers ${adept[modKind].allowed}.` : "",
   ].filter(Boolean)
@@ -2226,9 +2264,14 @@ function magicBlock(g, i) {
         () => set((x) => { x.abilities.splice(k, 1) }))),
       ...g.mods.map((m, k) => {
         const ign = h("input", { type: "checkbox", checked: !!m.ignored, title: "Ignore its drawback (Armor Adept / Weapon Adept)" })
-        ign.addEventListener("change", () => { m.ignored = ign.checked; changed(true) })
+        ign.addEventListener("change", () => { m.ignored = ign.checked; applyModEffects(g, m, "drawback", !m.ignored); changed(true) })
         return chip(`${m.name} ${gp(num(m.price))}`, m.drawback ? `Drawback: ${m.drawback}` : "",
-          () => set((x) => { x.mods.splice(k, 1); x.weight = Math.max(0, num(x.weight) - num(m.weight)) }),
+          () => set((x) => {
+            applyModEffects(x, m, "benefit", false)
+            applyModEffects(x, m, "drawback", false)
+            x.mods.splice(k, 1)
+            x.weight = Math.max(0, num(x.weight) - num(m.weight))
+          }),
           m.drawback ? h("label", { class: "row", style: "gap:.2rem;font-size:.85em" }, ign, "ignore drawback") : null)
       })) : null,
     h("p", { class: "note", style: "margin:.35rem 0 0" },
@@ -2266,8 +2309,12 @@ function openUpgradePicker(i, which) {
   const apply = (f, o) => (x) => {
     if (isAbility) x.abilities.push({ ref: f.id, name: f.name, label: o.label || "", bonus: o.bonus ?? 0, gp: o.gp ?? 0, summary: f.summary ?? "" })
     else {
-      x.mods.push({ ref: f.id, name: f.name, price: f.price ?? 0, weight: f.weight ?? 0, drawback: f.drawback ?? "", ignored: !!f.drawback && ignore.checked })
+      const m = { ref: f.id, name: f.name, price: f.price ?? 0, weight: f.weight ?? 0, drawback: f.drawback ?? "",
+        ignored: !!f.drawback && ignore.checked, effects: f.effects ?? {}, drawbackEffects: f.drawbackEffects ?? {} }
+      x.mods.push(m)
       x.weight = num(x.weight) + num(f.weight)
+      applyModEffects(x, m, "benefit", true)
+      if (!m.ignored) applyModEffects(x, m, "drawback", true)
     }
   }
   const render = () => {
@@ -2653,6 +2700,9 @@ function magicText(g) {
   return [`Total bonus +${totalBonus(g)}${num(g.enh) ? ` (+${num(g.enh)} enhancement)` : ""}.`, ...lines].join("\n")
 }
 
+// a modification's speed penalty as a change on the item (Foundry applies it while it's equipped)
+const speedChanges = (g) => (modSpeed(g) ? [{ _id: randomId(8).toLowerCase(), formula: String(modSpeed(g)), operator: "add",
+  target: "landSpeed", type: "untyped", priority: 0 }] : [])
 function gearItem(g) {
   const base = {
     quantity: num(g.qty),
@@ -2681,13 +2731,13 @@ function gearItem(g) {
       return item("equipment", g.name, {
         ...base, subType: "armor", equipmentSubtype: g.armorType || "lightArmor", slot: "armor", equipped: !!g.equipped,
         armor: { value: num(g.ac), enh: num(g.enh), dex: g.maxDex === "" || g.maxDex == null ? null : num(g.maxDex), acp: Math.abs(num(g.acp)) },
-        spellFailure: num(g.asf),
+        spellFailure: num(g.asf), changes: speedChanges(g),
       })
     case "shield":
       return item("equipment", g.name, {
         ...base, subType: "shield", equipmentSubtype: g.armorType || "lightShield", slot: "shield", equipped: !!g.equipped,
         armor: { value: num(g.ac), enh: num(g.enh), acp: Math.abs(num(g.acp)) },
-        spellFailure: num(g.asf),
+        spellFailure: num(g.asf), changes: speedChanges(g),
       })
     case "equipment":
       return item("equipment", g.name, { ...base, subType: "wondrous", slot: "slotless", equipped: !!g.equipped })
