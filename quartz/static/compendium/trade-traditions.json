@@ -1,0 +1,1898 @@
+{
+ "tradeTalents": [
+  {
+   "id": "vocation/aberration-hunter-trade-utility",
+   "name": "Aberration Hunter",
+   "classSkills": [
+    "kdu",
+    "hea",
+    "spl",
+    "ste"
+   ],
+   "classSkillsText": "Heal, Knowledge (dungeoneering), Spellcraft, and Stealth",
+   "summary": "You gain Heal, Knowledge (dungeoneering), Spellcraft, and Stealth as class skills."
+  },
+  {
+   "id": "vocation/anthropologist-trade-utility",
+   "name": "Anthropologist",
+   "classSkills": [
+    "kge",
+    "khi",
+    "klo",
+    "kno",
+    "kre"
+   ],
+   "classSkillsText": "Knowledge (geography), Knowledge (history), Knowledge (local), Knowledge (nobility), and Knowledge (religion)",
+   "summary": "You gain Knowledge (geography), Knowledge (history), Knowledge (local), Knowledge (nobility), and Knowledge (religion) as class skills."
+  },
+  {
+   "id": "vocation/apothecary-trade-utility",
+   "name": "Apothecary",
+   "classSkills": [
+    "kar",
+    "kna",
+    "hea",
+    "umd"
+   ],
+   "classSkillsText": "Heal, Knowledge (arcana), Knowledge (nature), and Use Magic Device",
+   "summary": "You gain Heal, Knowledge (arcana), Knowledge (nature), and Use Magic Device as class skills."
+  },
+  {
+   "id": "vocation/archaeologist-trade-utility",
+   "name": "Archaeologist",
+   "classSkills": [
+    "khi",
+    "apr",
+    "spl",
+    "umd"
+   ],
+   "classSkillsText": "Appraise, Knowledge (history), Spellcraft, and Use Magic Device",
+   "summary": "You gain Appraise, Knowledge (history), Spellcraft, and Use Magic Device as class skills."
+  },
+  {
+   "id": "vocation/artificer-trade-utility",
+   "name": "Artificer",
+   "classSkills": [
+    "kar",
+    "ken",
+    "apr",
+    "spl"
+   ],
+   "classSkillsText": "Appraise, Knowledge (arcana), Knowledge (engineering), and Spellcraft",
+   "summary": "You gain Appraise, Knowledge (arcana), Knowledge (engineering), and Spellcraft as class skills."
+  },
+  {
+   "id": "vocation/artisan-trade-utility",
+   "name": "Artisan",
+   "classSkills": [
+    "ken",
+    "dev",
+    "dis",
+    "slt"
+   ],
+   "classSkillsText": "Disable Device, Disguise, Knowledge (engineering), and Sleight of Hand",
+   "summary": "You gain Disable Device, Disguise, Knowledge (engineering), and Sleight of Hand as class skills."
+  },
+  {
+   "id": "vocation/athlete-trade-utility",
+   "name": "Athlete",
+   "classSkills": [
+    "acr",
+    "clm",
+    "fly",
+    "swm"
+   ],
+   "classSkillsText": "Acrobatics, Climb, Fly, and Swim",
+   "summary": "You gain Acrobatics, Climb, Fly, and Swim as class skills."
+  },
+  {
+   "id": "vocation/builder-trade-utility",
+   "name": "Builder",
+   "classSkills": [
+    "ken",
+    "clm",
+    "dev",
+    "esc"
+   ],
+   "classSkillsText": "Climb, Disable Device, Escape Artist, and Knowledge (engineering)",
+   "summary": "You gain Climb, Disable Device, Escape Artist, and Knowledge (engineering) as class skills."
+  },
+  {
+   "id": "vocation/burglar-trade-utility",
+   "name": "Burglar",
+   "classSkills": [
+    "clm",
+    "dev",
+    "slt",
+    "ste"
+   ],
+   "classSkillsText": "Climb, Disable Device, Sleight of Hand, and Stealth",
+   "summary": "You gain Climb, Disable Device, Sleight of Hand, and Stealth as class skills."
+  },
+  {
+   "id": "vocation/commander-trade-utility",
+   "name": "Commander",
+   "classSkills": [
+    "khi",
+    "kno",
+    "dip",
+    "rid"
+   ],
+   "classSkillsText": "Diplomacy, Knowledge (history), Knowledge (nobility), and Ride",
+   "summary": "You gain Diplomacy, Knowledge (history), Knowledge (nobility), and Ride as class skills."
+  },
+  {
+   "id": "vocation/con-artist-trade-utility",
+   "name": "Con Artist",
+   "classSkills": [
+    "klo",
+    "blf",
+    "dis",
+    "lin"
+   ],
+   "classSkillsText": "Bluff, Disguise, Knowledge (local), and Linguistics",
+   "summary": "You gain Bluff, Disguise, Knowledge (local), and Linguistics as class skills."
+  },
+  {
+   "id": "vocation/counterfeiter-trade-utility",
+   "name": "Counterfeiter",
+   "classSkills": [
+    "apr",
+    "blf",
+    "lin",
+    "slt"
+   ],
+   "classSkillsText": "Appraise, Bluff, Linguistics, and Sleight of Hand",
+   "summary": "You gain Appraise, Bluff, Linguistics, and Sleight of Hand as class skills."
+  },
+  {
+   "id": "vocation/courtier-trade-utility",
+   "name": "Courtier",
+   "classSkills": [
+    "kno",
+    "blf",
+    "dip",
+    "sen"
+   ],
+   "classSkillsText": "Bluff, Diplomacy, Knowledge (nobility), and Sense Motive",
+   "summary": "You gain Bluff, Diplomacy, Knowledge (nobility), and Sense Motive as class skills."
+  },
+  {
+   "id": "vocation/cutpurse-trade-utility",
+   "name": "Cutpurse",
+   "classSkills": [
+    "acr",
+    "esc",
+    "slt",
+    "ste"
+   ],
+   "classSkillsText": "Acrobatics, Escape Artist, Sleight of Hand, and Stealth",
+   "summary": "You gain Acrobatics, Escape Artist, Sleight of Hand, and Stealth as class skills."
+  },
+  {
+   "id": "vocation/dazzler-trade-utility",
+   "name": "Dazzler",
+   "classSkills": [
+    "kno",
+    "blf",
+    "fly",
+    "ste"
+   ],
+   "classSkillsText": "Bluff, Fly, Knowledge (nobility), and Stealth",
+   "summary": "You gain Bluff, Fly, Knowledge (nobility), and Stealth as class skills."
+  },
+  {
+   "id": "vocation/dilettante-trade-utility",
+   "name": "Dilettante",
+   "classSkills": [],
+   "classSkillsText": "four skills of your choice",
+   "summary": "You gain four skills of your choice as class skills, at least one of which must be a background skill."
+  },
+  {
+   "id": "vocation/diplomat-trade-utility",
+   "name": "Diplomat",
+   "classSkills": [
+    "klo",
+    "dip",
+    "lin",
+    "sen"
+   ],
+   "classSkillsText": "Diplomacy, Knowledge (local), Linguistics, and Sense Motive",
+   "summary": "You gain Diplomacy, Knowledge (local), Linguistics, and Sense Motive as class skills."
+  },
+  {
+   "id": "vocation/doctor-trade-utility",
+   "name": "Doctor",
+   "classSkills": [
+    "kna",
+    "kre",
+    "hea",
+    "spl"
+   ],
+   "classSkillsText": "Heal, Knowledge (nature), Knowledge (religion), and Spellcraft",
+   "summary": "You gain Heal, Knowledge (nature), Knowledge (religion), and Spellcraft as class skills."
+  },
+  {
+   "id": "vocation/dragon-envoy-trade-utility",
+   "name": "Dragon Envoy",
+   "classSkills": [
+    "kar",
+    "kpl",
+    "dip",
+    "fly"
+   ],
+   "classSkillsText": "Diplomacy, Fly, Knowledge (arcana), and Knowledge (planes)",
+   "summary": "You gain Diplomacy, Fly, Knowledge (arcana), and Knowledge (planes) as class skills."
+  },
+  {
+   "id": "vocation/duelist-trade-utility",
+   "name": "Duelist",
+   "classSkills": [
+    "blf",
+    "int",
+    "lin",
+    "sen"
+   ],
+   "classSkillsText": "Bluff, Intimidate, Linguistics, and Sense Motive",
+   "summary": "You gain Bluff, Intimidate, Linguistics, and Sense Motive as class skills."
+  },
+  {
+   "id": "vocation/dungeon-delver-trade-utility",
+   "name": "Dungeon Delver",
+   "classSkills": [
+    "kdu",
+    "acr",
+    "dev",
+    "umd"
+   ],
+   "classSkillsText": "Acrobatics, Disable Device, Knowledge (dungeoneering), and Use Magic Device",
+   "summary": "You gain Acrobatics, Disable Device, Knowledge (dungeoneering), and Use Magic Device as class skills."
+  },
+  {
+   "id": "vocation/engineer-trade-utility",
+   "name": "Engineer",
+   "classSkills": [
+    "kdu",
+    "ken",
+    "apr",
+    "dev"
+   ],
+   "classSkillsText": "Appraise, Disable Device, Knowledge (dungeoneering), and Knowledge (engineering)",
+   "summary": "You gain Appraise, Disable Device, Knowledge (dungeoneering), and Knowledge (engineering) as class skills."
+  },
+  {
+   "id": "vocation/entertainer-trade-utility",
+   "name": "Entertainer",
+   "classSkills": [
+    "acr",
+    "dis",
+    "esc",
+    "slt"
+   ],
+   "classSkillsText": "Acrobatics, Disguise, Escape Artist, and Sleight of Hand",
+   "summary": "You gain Acrobatics, Disguise, Escape Artist, and Sleight of Hand as class skills."
+  },
+  {
+   "id": "vocation/escapologist-trade-utility",
+   "name": "Escapologist",
+   "classSkills": [
+    "kar",
+    "ken",
+    "acr",
+    "esc"
+   ],
+   "classSkillsText": "Acrobatics, Escape Artist, Knowledge (arcana), and Knowledge (engineering)",
+   "summary": "You gain Acrobatics, Escape Artist, Knowledge (arcana), and Knowledge (engineering) as class skills."
+  },
+  {
+   "id": "vocation/esoteric-scholar-trade-utility",
+   "name": "Esoteric Scholar",
+   "classSkills": [
+    "kdu",
+    "kna",
+    "kpl",
+    "kre"
+   ],
+   "classSkillsText": "Knowledge (dungeoneering), Knowledge (nature), Knowledge (planes), and Knowledge (religion)",
+   "summary": "You gain Knowledge (dungeoneering), Knowledge (nature), Knowledge (planes), and Knowledge (religion) as class skills."
+  },
+  {
+   "id": "vocation/experimenter-trade-utility",
+   "name": "Experimenter",
+   "classSkills": [
+    "ken",
+    "fly",
+    "int",
+    "umd"
+   ],
+   "classSkillsText": "Fly, Intimidate, Knowledge (engineering), and Use Magic Device",
+   "summary": "You gain Fly, Intimidate, Knowledge (engineering), and Use Magic Device as class skills."
+  },
+  {
+   "id": "vocation/explorer-trade-utility",
+   "name": "Explorer",
+   "classSkills": [
+    "kge",
+    "clm",
+    "sur",
+    "swm"
+   ],
+   "classSkillsText": "Climb, Knowledge (geography), Survival, and Swim",
+   "summary": "You gain Climb, Knowledge (geography), Survival, and Swim as class skills."
+  },
+  {
+   "id": "vocation/faith-healer-trade-utility",
+   "name": "Faith Healer",
+   "classSkills": [
+    "kre",
+    "blf",
+    "dip",
+    "hea"
+   ],
+   "classSkillsText": "Bluff, Diplomacy, Heal, and Knowledge (religion)",
+   "summary": "You gain Bluff, Diplomacy, Heal, and Knowledge (religion) as class skills."
+  },
+  {
+   "id": "vocation/falconer-trade-utility",
+   "name": "Falconer",
+   "classSkills": [
+    "kna",
+    "clm",
+    "fly",
+    "han"
+   ],
+   "classSkillsText": "Climb, Fly, Handle Animal, and Knowledge (nature)",
+   "summary": "You gain Climb, Fly, Handle Animal, and Knowledge (nature) as class skills."
+  },
+  {
+   "id": "vocation/false-mage-trade-utility",
+   "name": "False Mage",
+   "classSkills": [
+    "kar",
+    "blf",
+    "slt",
+    "umd"
+   ],
+   "classSkillsText": "Bluff, Knowledge (arcana), Sleight of Hand, and Use Magic Device",
+   "summary": "You gain Bluff, Knowledge (arcana), Sleight of Hand, and Use Magic Device as class skills."
+  },
+  {
+   "id": "vocation/farmer-trade-utility",
+   "name": "Farmer",
+   "classSkills": [
+    "kna",
+    "apr",
+    "han",
+    "rid"
+   ],
+   "classSkillsText": "Appraise, Handle Animal, Knowledge (nature), and Ride",
+   "summary": "You gain Appraise, Handle Animal, Knowledge (nature), and Ride as class skills."
+  },
+  {
+   "id": "vocation/fey-friend-trade-utility",
+   "name": "Fey Friend",
+   "classSkills": [
+    "kna",
+    "kno",
+    "lin",
+    "spl"
+   ],
+   "classSkillsText": "Knowledge (nature), Knowledge (nobility), Linguistics, and Spellcraft",
+   "summary": "You gain Knowledge (nature), Knowledge (nobility), Linguistics, and Spellcraft as class skills."
+  },
+  {
+   "id": "vocation/gambler-trade-utility",
+   "name": "Gambler",
+   "classSkills": [
+    "apr",
+    "blf",
+    "sen",
+    "slt"
+   ],
+   "classSkillsText": "Appraise, Bluff, Sense Motive, and Sleight of Hand",
+   "summary": "You gain Appraise, Bluff, Sense Motive, and Sleight of Hand as class skills."
+  },
+  {
+   "id": "vocation/geometer-trade-utility",
+   "name": "Geometer",
+   "classSkills": [
+    "kar",
+    "ken",
+    "kge",
+    "umd"
+   ],
+   "classSkillsText": "Knowledge (arcana), Knowledge (engineering), Knowledge (geography), and Use Magic Device",
+   "summary": "You gain Knowledge (arcana), Knowledge (engineering), Knowledge (geography), and Use Magic Device as class skills."
+  },
+  {
+   "id": "vocation/gossip-trade-utility",
+   "name": "Gossip",
+   "classSkills": [
+    "klo",
+    "kno",
+    "dip",
+    "sen"
+   ],
+   "classSkillsText": "Diplomacy, Knowledge (local), Knowledge (nobility), and Sense Motive",
+   "summary": "You gain Diplomacy, Knowledge (local), Knowledge (nobility), and Sense Motive as class skills."
+  },
+  {
+   "id": "vocation/greenskeeper-trade-utility",
+   "name": "Greenskeeper",
+   "classSkills": [
+    "kge",
+    "kna",
+    "hea",
+    "sur"
+   ],
+   "classSkillsText": "Heal, Knowledge (geography), Knowledge (nature), and Survival",
+   "summary": "You gain Heal, Knowledge (geography), Knowledge (nature), and Survival as class skills."
+  },
+  {
+   "id": "vocation/guard-trade-utility",
+   "name": "Guard",
+   "classSkills": [
+    "klo",
+    "dip",
+    "int",
+    "sen"
+   ],
+   "classSkillsText": "Diplomacy, Intimidate, Knowledge (local), and Sense Motive",
+   "summary": "You gain Diplomacy, Intimidate, Knowledge (local), and Sense Motive as class skills."
+  },
+  {
+   "id": "vocation/guide-trade-utility",
+   "name": "Guide",
+   "classSkills": [
+    "kge",
+    "kna",
+    "rid",
+    "sur"
+   ],
+   "classSkillsText": "Knowledge (geography), Knowledge (nature), Ride, and Survival",
+   "summary": "You gain Knowledge (geography), Knowledge (nature), Ride, and Survival as class skills."
+  },
+  {
+   "id": "vocation/handler-trade-utility",
+   "name": "Handler",
+   "classSkills": [
+    "kna",
+    "han",
+    "rid",
+    "sur"
+   ],
+   "classSkillsText": "Handle Animal, Knowledge (nature), Ride, and Survival",
+   "summary": "You gain Handle Animal, Knowledge (nature), Ride, and Survival as class skills."
+  },
+  {
+   "id": "vocation/historian-trade-utility",
+   "name": "Historian",
+   "classSkills": [
+    "kar",
+    "khi",
+    "kre",
+    "lin"
+   ],
+   "classSkillsText": "Knowledge (arcana), Knowledge (history), Knowledge (religion), and Linguistics",
+   "summary": "You gain Knowledge (arcana), Knowledge (history), Knowledge (religion), and Linguistics as class skills."
+  },
+  {
+   "id": "vocation/interlocutor-trade-utility",
+   "name": "Interlocutor",
+   "classSkills": [
+    "blf",
+    "dip",
+    "lin",
+    "sen"
+   ],
+   "classSkillsText": "Bluff, Diplomacy, Linguistics, and Sense Motive",
+   "summary": "You gain Bluff, Diplomacy, Linguistics, and Sense Motive as class skills."
+  },
+  {
+   "id": "vocation/intuiter-trade-utility",
+   "name": "Intuiter",
+   "classSkills": [
+    "kar",
+    "apr",
+    "lin",
+    "spl"
+   ],
+   "classSkillsText": "Appraise, Knowledge (arcana), Linguistics, and Spellcraft",
+   "summary": "You gain Appraise, Knowledge (arcana), Linguistics, and Spellcraft as class skills."
+  },
+  {
+   "id": "vocation/knight-trade-utility",
+   "name": "Knight",
+   "classSkills": [
+    "kno",
+    "han",
+    "int",
+    "rid"
+   ],
+   "classSkillsText": "Handle Animal, Intimidate, Knowledge (nobility), and Ride",
+   "summary": "You gain Handle Animal, Intimidate, Knowledge (nobility), and Ride as class skills."
+  },
+  {
+   "id": "vocation/loner-trade-utility",
+   "name": "Loner",
+   "classSkills": [
+    "blf",
+    "hea",
+    "int",
+    "sur"
+   ],
+   "classSkillsText": "Bluff, Heal, Intimidate, and Survival",
+   "summary": "You gain Bluff, Heal, Intimidate, and Survival as class skills."
+  },
+  {
+   "id": "vocation/mage-hunter-trade-utility",
+   "name": "Mage Hunter",
+   "classSkills": [
+    "kar",
+    "dev",
+    "dis",
+    "spl"
+   ],
+   "classSkillsText": "Disable Device, Disguise, Knowledge (arcana), and Spellcraft",
+   "summary": "You gain Disable Device, Disguise, Knowledge (arcana), and Spellcraft as class skills."
+  },
+  {
+   "id": "vocation/medium-trade-utility",
+   "name": "Medium",
+   "classSkills": [
+    "kpl",
+    "kre",
+    "dip",
+    "fly"
+   ],
+   "classSkillsText": "Diplomacy, Fly, Knowledge (planes), and Knowledge (religion)",
+   "summary": "You gain Diplomacy, Fly, Knowledge (planes), and Knowledge (religion) as class skills."
+  },
+  {
+   "id": "vocation/merchant-trade-utility",
+   "name": "Merchant",
+   "classSkills": [
+    "klo",
+    "apr",
+    "blf",
+    "dip"
+   ],
+   "classSkillsText": "Appraise, Bluff, Diplomacy, and Knowledge (local)",
+   "summary": "You gain Appraise, Bluff, Diplomacy, and Knowledge (local) as class skills."
+  },
+  {
+   "id": "vocation/miner-trade-utility",
+   "name": "Miner",
+   "classSkills": [
+    "kdu",
+    "ken",
+    "apr",
+    "esc"
+   ],
+   "classSkillsText": "Appraise, Escape Artist, Knowledge (dungeoneering), and Knowledge (engineering)",
+   "summary": "You gain Appraise, Escape Artist, Knowledge (dungeoneering), and Knowledge (engineering) as class skills."
+  },
+  {
+   "id": "vocation/minstrel-trade-utility",
+   "name": "Minstrel",
+   "classSkills": [
+    "klo",
+    "acr",
+    "dip",
+    "slt"
+   ],
+   "classSkillsText": "Acrobatics, Diplomacy, Knowledge (local), and Sleight of Hand",
+   "summary": "You gain Acrobatics, Diplomacy, Knowledge (local), and Sleight of Hand as class skills."
+  },
+  {
+   "id": "vocation/monster-hunter-trade-utility",
+   "name": "Monster Hunter",
+   "classSkills": [
+    "kar",
+    "apr",
+    "int",
+    "sur"
+   ],
+   "classSkillsText": "Appraise, Intimidate, Knowledge (arcana), and Survival",
+   "summary": "You gain Appraise, Intimidate, Knowledge (arcana), and Survival as class skills."
+  },
+  {
+   "id": "vocation/mystic-trade-utility",
+   "name": "Mystic",
+   "classSkills": [
+    "kpl",
+    "kre",
+    "hea",
+    "spl"
+   ],
+   "classSkillsText": "Heal, Knowledge (planes), Knowledge (religion), and Spellcraft",
+   "summary": "You gain Heal, Knowledge (planes), Knowledge (religion), and Spellcraft as class skills."
+  },
+  {
+   "id": "vocation/occultist-trade-utility",
+   "name": "Occultist",
+   "classSkills": [
+    "kdu",
+    "kpl",
+    "lin",
+    "umd"
+   ],
+   "classSkillsText": "Knowledge (dungeoneering), Knowledge (planes), Linguistics, and Use Magic Device",
+   "summary": "You gain Knowledge (dungeoneering), Knowledge (planes), Linguistics, and Use Magic Device as class skills."
+  },
+  {
+   "id": "vocation/orator-trade-utility",
+   "name": "Orator",
+   "classSkills": [
+    "khi",
+    "blf",
+    "dip",
+    "int"
+   ],
+   "classSkillsText": "Bluff, Diplomacy, Intimidate, and Knowledge (history)",
+   "summary": "You gain Bluff, Diplomacy, Intimidate, and Knowledge (history) as class skills."
+  },
+  {
+   "id": "vocation/philosopher-trade-utility",
+   "name": "Philosopher",
+   "classSkills": [
+    "khi",
+    "kna",
+    "kre",
+    "sen"
+   ],
+   "classSkillsText": "Knowledge (history), Knowledge (nature), Knowledge (religion), and Sense Motive",
+   "summary": "You gain Knowledge (history), Knowledge (nature), Knowledge (religion), and Sense Motive as class skills."
+  },
+  {
+   "id": "vocation/pirate-trade-utility",
+   "name": "Pirate",
+   "classSkills": [
+    "apr",
+    "clm",
+    "int",
+    "swm"
+   ],
+   "classSkillsText": "Appraise, Climb, Intimidate, and Swim",
+   "summary": "You gain Appraise, Climb, Intimidate, and Swim as class skills."
+  },
+  {
+   "id": "vocation/plane-walker-trade-utility",
+   "name": "Plane-walker",
+   "classSkills": [
+    "kpl",
+    "fly",
+    "lin",
+    "umd"
+   ],
+   "classSkillsText": "Fly, Knowledge (planes), Linguistics, and Use Magic Device",
+   "summary": "You gain Fly, Knowledge (planes), Linguistics, and Use Magic Device as class skills."
+  },
+  {
+   "id": "vocation/priest-trade-utility",
+   "name": "Priest",
+   "classSkills": [
+    "kpl",
+    "kre",
+    "sen",
+    "spl"
+   ],
+   "classSkillsText": "Knowledge (planes), Knowledge (religion), Sense Motive, and Spellcraft",
+   "summary": "You gain Knowledge (planes), Knowledge (religion), Sense Motive, and Spellcraft as class skills."
+  },
+  {
+   "id": "vocation/quicksilver-trade-utility",
+   "name": "Quicksilver",
+   "classSkills": [
+    "acr",
+    "apr",
+    "esc",
+    "sen"
+   ],
+   "classSkillsText": "Acrobatics, Appraise, Escape Artist, and Sense Motive",
+   "summary": "You gain Acrobatics, Appraise, Escape Artist, and Sense Motive as class skills."
+  },
+  {
+   "id": "vocation/racer-trade-utility",
+   "name": "Racer",
+   "classSkills": [
+    "fly",
+    "han",
+    "rid",
+    "swm"
+   ],
+   "classSkillsText": "Fly, Handle Animal, Ride, and Swim",
+   "summary": "You gain Fly, Handle Animal, Ride, and Swim as class skills."
+  },
+  {
+   "id": "vocation/reliquarian-trade-utility",
+   "name": "Reliquarian",
+   "classSkills": [
+    "kpl",
+    "kre",
+    "slt",
+    "ste"
+   ],
+   "classSkillsText": "Knowledge (planes), Knowledge (religion), Sleight of Hand, and Stealth",
+   "summary": "You gain Knowledge (planes), Knowledge (religion), Sleight of Hand, and Stealth as class skills."
+  },
+  {
+   "id": "vocation/rescuer-trade-utility",
+   "name": "Rescuer",
+   "classSkills": [
+    "clm",
+    "esc",
+    "hea",
+    "swm"
+   ],
+   "classSkillsText": "Climb, Escape Artist, Heal, and Swim",
+   "summary": "You gain Climb, Escape Artist, Heal, and Swim as class skills."
+  },
+  {
+   "id": "vocation/roughrider-trade-utility",
+   "name": "Roughrider",
+   "classSkills": [
+    "clm",
+    "han",
+    "rid",
+    "swm"
+   ],
+   "classSkillsText": "Climb, Handle Animal, Ride, and Swim",
+   "summary": "You gain Climb, Handle Animal, Ride, and Swim as class skills."
+  },
+  {
+   "id": "vocation/sailor-trade-utility",
+   "name": "Sailor",
+   "classSkills": [
+    "kge",
+    "acr",
+    "sur",
+    "swm"
+   ],
+   "classSkillsText": "Acrobatics, Knowledge (geography), Survival, and Swim",
+   "summary": "You gain Acrobatics, Knowledge (geography), Survival, and Swim as class skills."
+  },
+  {
+   "id": "vocation/scout-trade-utility",
+   "name": "Scout",
+   "classSkills": [
+    "kge",
+    "acr",
+    "ste",
+    "sur"
+   ],
+   "classSkillsText": "Acrobatics, Knowledge (geography), Stealth, and Survival",
+   "summary": "You gain Acrobatics, Knowledge (geography), Stealth, and Survival as class skills."
+  },
+  {
+   "id": "vocation/scrounger-trade-utility",
+   "name": "Scrounger",
+   "classSkills": [
+    "klo",
+    "slt",
+    "sur",
+    "swm"
+   ],
+   "classSkillsText": "Knowledge (local), Sleight of Hand, Survival, and Swim",
+   "summary": "You gain Knowledge (local), Sleight of Hand, Survival, and Swim as class skills."
+  },
+  {
+   "id": "vocation/sea-cultist-trade-utility",
+   "name": "Sea Cultist",
+   "classSkills": [
+    "kdu",
+    "kre",
+    "swm",
+    "umd"
+   ],
+   "classSkillsText": "Knowledge (dungeoneering), Knowledge (religion), Swim, and Use Magic Device",
+   "summary": "You gain Knowledge (dungeoneering), Knowledge (religion), Swim, and Use Magic Device as class skills."
+  },
+  {
+   "id": "vocation/servant-trade-utility",
+   "name": "Servant",
+   "classSkills": [
+    "kno",
+    "han",
+    "hea",
+    "ste"
+   ],
+   "classSkillsText": "Handle Animal, Heal, Knowledge (nobility), and Stealth",
+   "summary": "You gain Handle Animal, Heal, Knowledge (nobility), and Stealth as class skills."
+  },
+  {
+   "id": "vocation/sky-pilot-trade-utility",
+   "name": "Sky Pilot",
+   "classSkills": [
+    "kge",
+    "acr",
+    "fly",
+    "sur"
+   ],
+   "classSkillsText": "Acrobatics, Fly, Knowledge (geography), and Survival",
+   "summary": "You gain Acrobatics, Fly, Knowledge (geography), and Survival as class skills."
+  },
+  {
+   "id": "vocation/sleuth-trade-utility",
+   "name": "Sleuth",
+   "classSkills": [
+    "apr",
+    "lin",
+    "sen",
+    "sur"
+   ],
+   "classSkillsText": "Appraise, Linguistics, Sense Motive, and Survival",
+   "summary": "You gain Appraise, Linguistics, Sense Motive, and Survival as class skills."
+  },
+  {
+   "id": "vocation/smuggler-trade-utility",
+   "name": "Smuggler",
+   "classSkills": [
+    "blf",
+    "dis",
+    "slt",
+    "ste"
+   ],
+   "classSkillsText": "Bluff, Disguise, Sleight of Hand, and Stealth",
+   "summary": "You gain Bluff, Disguise, Sleight of Hand, and Stealth as class skills."
+  },
+  {
+   "id": "vocation/soldier-of-fortune-trade-utility",
+   "name": "Soldier Of Fortune",
+   "classSkills": [
+    "klo",
+    "apr",
+    "int",
+    "sen"
+   ],
+   "classSkillsText": "Appraise, Intimidate, Knowledge (local), and Sense Motive",
+   "summary": "You gain Appraise, Intimidate, Knowledge (local), and Sense Motive as class skills."
+  },
+  {
+   "id": "vocation/spy-trade-utility",
+   "name": "Spy",
+   "classSkills": [
+    "dis",
+    "esc",
+    "sen",
+    "ste"
+   ],
+   "classSkillsText": "Disguise, Escape Artist, Sense Motive, and Stealth",
+   "summary": "You gain Disguise, Escape Artist, Sense Motive, and Stealth as class skills."
+  },
+  {
+   "id": "vocation/squire-trade-utility",
+   "name": "Squire",
+   "classSkills": [
+    "kno",
+    "apr",
+    "han",
+    "hea"
+   ],
+   "classSkillsText": "Appraise, Handle Animal, Heal, and Knowledge (nobility)",
+   "summary": "You gain Appraise, Handle Animal, Heal, and Knowledge (nobility) as class skills."
+  },
+  {
+   "id": "vocation/storyteller-trade-utility",
+   "name": "Storyteller",
+   "classSkills": [
+    "khi",
+    "klo",
+    "kno",
+    "dip"
+   ],
+   "classSkillsText": "Diplomacy, Knowledge (history), Knowledge (local), and Knowledge (nobility)",
+   "summary": "You gain Diplomacy, Knowledge (history), Knowledge (local), and Knowledge (nobility) as class skills."
+  },
+  {
+   "id": "vocation/strongarm-trade-utility",
+   "name": "Strongarm",
+   "classSkills": [
+    "dip",
+    "esc",
+    "fly",
+    "rid"
+   ],
+   "classSkillsText": "Diplomacy, Escape Artist, Fly, and Ride",
+   "summary": "You gain Diplomacy, Escape Artist, Fly, and Ride as class skills."
+  },
+  {
+   "id": "vocation/technician-trade-utility",
+   "name": "Technician",
+   "classSkills": [
+    "kdu",
+    "ken",
+    "dev",
+    "hea"
+   ],
+   "classSkillsText": "Disable Device, Heal, Knowledge (dungeoneering), and Knowledge (engineering)",
+   "summary": "You gain Disable Device, Heal, Knowledge (dungeoneering), and Knowledge (engineering) as class skills."
+  },
+  {
+   "id": "vocation/thug-trade-utility",
+   "name": "Thug",
+   "classSkills": [
+    "klo",
+    "dis",
+    "int",
+    "ste"
+   ],
+   "classSkillsText": "Disguise, Intimidate, Knowledge (local), and Stealth",
+   "summary": "You gain Disguise, Intimidate, Knowledge (local), and Stealth as class skills."
+  },
+  {
+   "id": "vocation/translator-trade-utility",
+   "name": "Translator",
+   "classSkills": [
+    "klo",
+    "kno",
+    "lin",
+    "sen"
+   ],
+   "classSkillsText": "Knowledge (local), Knowledge (nobility), Linguistics, and Sense Motive",
+   "summary": "You gain Knowledge (local), Knowledge (nobility), Linguistics, and Sense Motive as class skills."
+  },
+  {
+   "id": "vocation/trapper-trade-utility",
+   "name": "Trapper",
+   "classSkills": [
+    "kge",
+    "kna",
+    "dev",
+    "sur"
+   ],
+   "classSkillsText": "Disable Device, Knowledge (geography), Knowledge (nature), and Survival",
+   "summary": "You gain Disable Device, Knowledge (geography), Knowledge (nature), and Survival as class skills."
+  },
+  {
+   "id": "vocation/undead-slayer-trade-utility",
+   "name": "Undead Slayer",
+   "classSkills": [
+    "kre",
+    "kpl",
+    "int",
+    "sur"
+   ],
+   "classSkillsText": "Intimidate, Knowledge (religion), Knowledge (planes), and Survival",
+   "summary": "You gain Intimidate, Knowledge (religion), Knowledge (planes), and Survival as class skills."
+  },
+  {
+   "id": "vocation/veterinarian-trade-utility",
+   "name": "Veterinarian",
+   "classSkills": [
+    "klo",
+    "han",
+    "hea",
+    "rid"
+   ],
+   "classSkillsText": "Handle Animal, Heal, Knowledge (local), and Ride",
+   "summary": "You gain Handle Animal, Heal, Knowledge (local), and Ride as class skills."
+  },
+  {
+   "id": "vocation/virtuoso-trade-utility",
+   "name": "Virtuoso",
+   "classSkills": [
+    "khi",
+    "kno",
+    "dis",
+    "lin"
+   ],
+   "classSkillsText": "Disguise, Knowledge (history), Knowledge (nobility), and Linguistics",
+   "summary": "You gain Disguise, Knowledge (history), Knowledge (nobility), and Linguistics as class skills."
+  },
+  {
+   "id": "vocation/wildsoul-trade-utility",
+   "name": "Wildsoul",
+   "classSkills": [
+    "klo",
+    "kna",
+    "dip",
+    "sur"
+   ],
+   "classSkillsText": "Diplomacy, Knowledge (local), Knowledge (nature), and Survival",
+   "summary": "You gain Diplomacy, Knowledge (local), Knowledge (nature), and Survival as class skills."
+  }
+ ],
+ "automaticClassSkills": [
+  "crf",
+  "per",
+  "prf",
+  "pro"
+ ],
+ "backgroundClassSkills": [
+  "art",
+  "lor"
+ ],
+ "guileSpheres": [
+  "Artifice",
+  "Bluster",
+  "Body Control",
+  "Communication",
+  "Faction",
+  "Herbalism",
+  "Infiltration",
+  "Investigation",
+  "Navigation",
+  "Occultism",
+  "Performance",
+  "Spellhacking",
+  "Study",
+  "Subterfuge",
+  "Survivalism",
+  "Vocation"
+ ],
+ "templates": [
+  {
+   "name": "Aerialist",
+   "url": "Other-Pages/Trade-Traditions#aerialist",
+   "summary": "Automatic Skill Sphere: Body Control sphere Adroit Trade Talents: Roughrider, Sky Pilot Trade Talent Class Skills: Acrobatics, Knowledge (geography), Ride, Survival, and Swim; R Heal in place of…",
+   "md": "**Automatic Trade Talents:** Duelist, Falconer\n\n*Trade Talent Class Skills:* Bluff, ClimbR, Fly, Handle Animal*, Intimidate, Knowledge (nature), Linguistics, and Sense Motive.\n\n**Automatic Skill Sphere:** Body Control sphere\n\n**Adroit Trade Talents:** Roughrider, Sky Pilot\n\n*Trade Talent Class Skills:* Acrobatics, Knowledge (geography), Ride, Survival, and Swim;\nR Heal in place of redundant Climb, * increased class skill bonus to Handle Animal checks.\n\n**Adroit Bonus Skill Talent:** Bluster sphere or the Body Control (Breath Control) talent.",
+   "auto": [
+    "Duelist",
+    "Falconer"
+   ],
+   "sphere": "Body Control",
+   "sphereText": "Body Control sphere",
+   "adroit": [
+    "Roughrider",
+    "Sky Pilot"
+   ],
+   "bonus": [
+    {
+     "sphere": "Bluster"
+    },
+    {
+     "sphere": "Body Control",
+     "talent": "Breath Control"
+    }
+   ],
+   "bonusText": "Bluster sphere or the Body Control (Breath Control) talent"
+  },
+  {
+   "name": "Artist",
+   "url": "Other-Pages/Trade-Traditions#artist",
+   "summary": "Automatic Skill Sphere: Artifice sphere (artwork package) Adroit Trade Talents: Builder, Merchant Trade Talent Class Skills: Appraise, Bluff, Climb, Escape Artist, Knowledge (engineering); R Sense…",
+   "md": "**Automatic Trade Talents:** Artisan, Storyteller\n\n*Trade Talent Class Skills:* Diplomacy*, Disable DeviceR, Disguise, Knowledge (engineering)R, Knowledge (history), Knowledge (local)*, Knowledge (nobility), and Sleight of Hand.\n\n**Automatic Skill Sphere:** Artifice sphere (artwork package)\n\n**Adroit Trade Talents:** Builder, Merchant\n\n*Trade Talent Class Skills:* Appraise, Bluff, Climb, Escape Artist, Knowledge (engineering);\nR Sense Motive and Knowledge (geography) in place of redundant Disable Device and Knowledge (engineering), * increased class skill bonus to Diplomacy and Knowledge (local) checks.\n\n**Adroit Bonus Skill Talent:** Faction sphere or the Artifice sphere (Inspiring Composition) talent.",
+   "auto": [
+    "Artisan",
+    "Storyteller"
+   ],
+   "sphere": "Artifice",
+   "sphereText": "Artifice sphere (artwork package)",
+   "adroit": [
+    "Builder",
+    "Merchant"
+   ],
+   "bonus": [
+    {
+     "sphere": "Faction"
+    },
+    {
+     "sphere": "Artifice",
+     "talent": "Inspiring Composition"
+    }
+   ],
+   "bonusText": "Faction sphere or the Artifice sphere (Inspiring Composition) talent"
+  },
+  {
+   "name": "Astronomer",
+   "url": "Other-Pages/Trade-Traditions#astronomer",
+   "summary": "R Spellcraft in place of redundant Knowledge (planes), increased class skill bonus to Linguistics and Stealth checks.",
+   "md": "*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*\n\n**Automatic Trade Talents:** Scout, Sleuth\n\n*Trade Talent Class Skills*: Acrobatics, Appraise, Knowledge (geography), Knowledge (nature), Linguistics *, Sense Motive, Stealth *, and Survival R.\n\nR Knowledge (nature) in place of redundant Survival.\n\n**Automatic Skill Sphere:** Occultism sphere.\n\n**Adroit Trade Talents:** Occultist, Reliquarian\n\n*Trade Talent Class Skills:* Knowledge (dungeoneering), Knowledge (planes) R, Knowledge (religion), Sleight of Hand, Spellcraft, and Use Magic Device.\n\nR Spellcraft in place of redundant Knowledge (planes), * increased class skill bonus to Linguistics and Stealth checks.\n\n**Adroit Bonus Skill Talent:** Study sphere or Foretell (Occultism sphere).",
+   "auto": [
+    "Scout",
+    "Sleuth"
+   ],
+   "sphere": "Occultism",
+   "sphereText": "Occultism sphere",
+   "adroit": [
+    "Occultist",
+    "Reliquarian"
+   ],
+   "bonus": [
+    {
+     "sphere": "Study"
+    },
+    {
+     "sphere": "Occultism"
+    }
+   ],
+   "bonusText": "Study sphere or Foretell (Occultism sphere)"
+  },
+  {
+   "name": "Buccaneer",
+   "url": "Other-Pages/Trade-Traditions#buccaneer",
+   "summary": "Trade Talent Class Skills: Escape Artist, Knowledge (dungeoneering), Knowledge (religion), Sleight of Hand, Stealth, Use Magic Device; R Climb in place of redundant Acrobatics skill, increased class…",
+   "md": "**Automatic Trade Talents:** Duelist, Sailor\n\n*Trade Talent Class Skills:* AcrobaticsR, Bluff, Intimidate, Knowledge (geography), Linguistics, Sense Motive, Survival, and Swim*.\n\n**Automatic Skill Sphere:** Navigation sphere (nautical) package\n\n**Adroit Trade Talents:** Cutpurse, Sea Cultist.\n\n*Trade Talent Class Skills:* Escape Artist, Knowledge (dungeoneering), Knowledge (religion), Sleight of Hand, Stealth, Use Magic Device;\nR Climb in place of redundant Acrobatics skill, * increased class skill bonus to Swim checks.\n\n**Adroit Bonus Skill Talent:** Bluster sphere or the Navigation sphere (Fleet Movement) talent.",
+   "auto": [
+    "Duelist",
+    "Sailor"
+   ],
+   "sphere": "Navigation",
+   "sphereText": "Navigation sphere (nautical) package",
+   "adroit": [
+    "Cutpurse",
+    "Sea Cultist"
+   ],
+   "bonus": [
+    {
+     "sphere": "Bluster"
+    },
+    {
+     "sphere": "Navigation",
+     "talent": "Fleet Movement"
+    }
+   ],
+   "bonusText": "Bluster sphere or the Navigation sphere (Fleet Movement) talent"
+  },
+  {
+   "name": "Cantor",
+   "url": "Other-Pages/Trade-Traditions#cantor",
+   "summary": "Trade Talent Class Skills: Appraise, Bluff, Heal, Knowledge (dungeoneering), Knowledge (history) Swim, and Use Magic Device R Appraise and Knowledge (history) in place of redundant Diplomacy and…",
+   "md": "*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*\n\n**Automatic Trade Talents:** Priest, Minstrel.\n\n*Trade Talent Class Skills*: Acrobatics, Diplomacy R, Knowledge (local), Knowledge (planes), Knowledge (religion) R/*, Sense Motive, Sleight of Hand, and Spellcraft.\n\n**Automatic Skill Sphere:** Performance sphere ((lyric) package) or Crowd Pleaser (Vocation sphere).\n\n**Adroit Trade Talents:** Faith Healer, Sea Cultist.\n\n*Trade Talent Class Skills*: Appraise, Bluff, Heal, Knowledge (dungeoneering), Knowledge (history) Swim, and Use Magic Device\nR Appraise and Knowledge (history) in place of redundant Diplomacy and Knowledge (religion), * increased class skill bonus to Knowledge (religion) checks.\n\n**Adroit Bonus Skill Talent:** Occultism sphere or Rallying Tune (Performance sphere).",
+   "auto": [
+    "Minstrel",
+    "Priest"
+   ],
+   "sphere": "Performance",
+   "sphereText": "Performance sphere ((lyric) package) or Crowd Pleaser (Vocation sphere)",
+   "adroit": [
+    "Faith Healer",
+    "Sea Cultist"
+   ],
+   "bonus": [
+    {
+     "sphere": "Occultism"
+    },
+    {
+     "sphere": "Performance"
+    }
+   ],
+   "bonusText": "Occultism sphere or Rallying Tune (Performance sphere)"
+  },
+  {
+   "name": "Carpenter",
+   "url": "Other-Pages/Trade-Traditions#carpenter",
+   "summary": "Adroit Bonus Skill Talent: Adept Laborer (Vocation sphere) or Reinforce Material (Artifice sphere).",
+   "md": "*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*\n\n**Automatic Trade Talents:** Artisan, Squire\n\n*Trade Talent Class Skills:* Appraise, Disable Device, Disguise, Handle Animal, Heal, Knowledge (engineering), Knowledge (nobility), Sleight of Hand.\n\n**Automatic Skill Sphere:** Adept Gatherer (Vocation sphere) or Artifice sphere.\n\n**Adroit Trade Talents:** Greenskeeper, Intuiter\n\n*Trade Talent Class Skills:* Knowledge (arcana), Knowledge (nature), Knowledge (geography), Linguistics, Spellcraft, and Survival.\nR Climb and Knowledge (local) in place of redundant Appraise and Heal.\n\n**Adroit Bonus Skill Talent:** Adept Laborer (Vocation sphere) or Reinforce Material (Artifice sphere).",
+   "auto": [
+    "Artisan",
+    "Squire"
+   ],
+   "sphere": "Artifice",
+   "sphereText": "Adept Gatherer (Vocation sphere) or Artifice sphere",
+   "adroit": [
+    "Greenskeeper",
+    "Intuiter"
+   ],
+   "bonus": [
+    {
+     "sphere": "Vocation"
+    },
+    {
+     "sphere": "Artifice"
+    }
+   ],
+   "bonusText": "Adept Laborer (Vocation sphere) or Reinforce Material (Artifice sphere)"
+  },
+  {
+   "name": "Charmer",
+   "url": "Other-Pages/Trade-Traditions#charmer",
+   "summary": "R Linguistics in place of redundant Knowledge (local), increased class skill bonus to Diplomacy and Knowledge (nobility) checks.",
+   "md": "*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*\n\n**Automatic Trade Talents:** Dazzler, Gossip.\n\n*Trade Talent Class Skills:* Bluff, Diplomacy *, Fly, Knowledge (local) R, Knowledge (nobility) R/*, Sense Motive, and Stealth.\nR Stealth in place of redundant Knowledge (nobility).\n\n**Automatic Skill Sphere:** Adept Socialite (Vocation sphere) or Communication sphere.\n\n**Adroit Trade Talents:** Entertainer, Storyteller.\n\n*Trade Talent Class Skills:* Acrobatics, Disguise, Escape Artist, Knowledge (history), Sleight of Hand.\nR Linguistics in place of redundant Knowledge (local), * increased class skill bonus to Diplomacy and Knowledge (nobility) checks.\n\n**Adroit Bonus Skill Talent:** Adept Assistant (Vocation sphere) or Performance sphere ((act) or (lyric) package).",
+   "auto": [
+    "Dazzler",
+    "Gossip"
+   ],
+   "sphere": "Communication",
+   "sphereText": "Adept Socialite (Vocation sphere) or Communication sphere",
+   "adroit": [
+    "Entertainer",
+    "Storyteller"
+   ],
+   "bonus": [
+    {
+     "sphere": "Vocation"
+    },
+    {
+     "sphere": "Performance"
+    }
+   ],
+   "bonusText": "Adept Assistant (Vocation sphere) or Performance sphere ((act) or (lyric) package)"
+  },
+  {
+   "name": "Charming Actor",
+   "url": "Other-Pages/Trade-Traditions#charming-actor",
+   "summary": "Automatic Trade Talents: Courtier, Diplomat Trade Talent Class Skills: Bluff, Diplomacy, Knowledge (history)R, Knowledge (local), Knowledge (nobility), Linguistics, Sense MotiveR; R Knowledge…",
+   "md": "**Automatic Trade Talents:** Courtier, Diplomat\n\n*Trade Talent Class Skills:* Bluff, Diplomacy*, Knowledge (history)R, Knowledge (local), Knowledge (nobility), Linguistics, Sense MotiveR;\nR Knowledge (history) in place of redundant Sense Motive, * increased class skill bonus to Diplomacy checks.\n\n**Automatic Skill Sphere:** Performance sphere (act) or (lyric) package.\n\n**Adroit Trade Talents:** Entertainer, Virtuoso\n\n*Trade Talent Class Skills:* Acrobatics, Disguise*, Escape Artist, Sleight of Hand, and Stealth;\nR Stealth in place of redundant Knowledge (history), * increased class skill bonus to Disguise checks.\n\n**Adroit Bonus Skill Talent:** Communication sphere or the Performance sphere (Pleasant Serenade (lyric) or A Gilded Tower (act)) talent.",
+   "auto": [
+    "Courtier",
+    "Diplomat"
+   ],
+   "sphere": "Performance",
+   "sphereText": "Performance sphere (act) or (lyric) package",
+   "adroit": [
+    "Entertainer",
+    "Virtuoso"
+   ],
+   "bonus": [
+    {
+     "sphere": "Communication"
+    },
+    {
+     "sphere": "Performance"
+    }
+   ],
+   "bonusText": "Communication sphere or the Performance sphere (Pleasant Serenade (lyric) or A Gilded Tower (act)) talent"
+  },
+  {
+   "name": "Chef",
+   "url": "Other-Pages/Trade-Traditions#chef",
+   "summary": "R Bluff in place of redundant Handle Animal, increased class skill bonus to Knowledge (nobility) checks.",
+   "md": "*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*\n\n**Automatic Trade Talents:** Scrounger, Storyteller\n\n*Trade Talent Class Skills:* Diplomacy, Knowledge (history), Knowledge (local), Knowledge (nobility) * R, Sleight of Hand, Survival, Swim.\nR Knowledge (geography) in place of redundant Knowledge (local).\n\n**Automatic Skill Sphere:** Survivalism sphere (Hunter drawback, choosing the Meat (harvest) talent) or Vocation sphere (Adept Culinarian).\n\n**Adroit Trade Talents:** Farmer, Servant\n\n*Trade Talent Class Skills:* Appraise, Handle Animal R, Heal, Knowledge (nature), Ride, Stealth.\nR Bluff in place of redundant Handle Animal, * increased class skill bonus to Knowledge (nobility) checks.\n\n**Adroit Bonus Skill Talent:** Herbalism sphere ((herbal) package (Unconventional Practices [Profession (cook)]) or Vocation sphere (Industrious Worker).",
+   "auto": [
+    "Scrounger",
+    "Storyteller"
+   ],
+   "sphere": "Survivalism",
+   "sphereText": "Survivalism sphere (Hunter drawback, choosing the Meat (harvest) talent) or Vocation sphere (Adept Culinarian)",
+   "adroit": [
+    "Farmer",
+    "Servant"
+   ],
+   "bonus": [
+    {
+     "sphere": "Herbalism"
+    },
+    {
+     "sphere": "Vocation"
+    }
+   ],
+   "bonusText": "Herbalism sphere ((herbal) package (Unconventional Practices [Profession (cook)]) or Vocation sphere (Industrious Worker)"
+  },
+  {
+   "name": "Detective",
+   "url": "Other-Pages/Trade-Traditions#detective",
+   "summary": "Automatic Skill Sphere: Investigation sphere Adroit Trade Talents: Orator, Spy Trade Talent Class Skills: Bluff, Diplomacy, Disguise, Escape Artist, and Intimidate; R Knowledge (local) in place of…",
+   "md": "**Automatic Trade Talents:** Burglar, Philosopher\n\n*Trade Talent Class Skills:* Climb, Disable Device, Knowledge (history)R, Knowledge (nature), Knowledge (religion), Sense Motive*, Sleight of Hand, Stealth*.\n\n**Automatic Skill Sphere:** Investigation sphere\n\n**Adroit Trade Talents:** Orator, Spy\n\n*Trade Talent Class Skills:* Bluff, Diplomacy, Disguise, Escape Artist, and Intimidate;\nR Knowledge (local) in place of redundant Knowledge (history), * increased class skill bonus to Sense Motive and Stealth checks.\n\n**Adroit Bonus Skill Talent:** Infiltration sphere or the Investigation sphere (Ascertain Activities) talent.",
+   "auto": [
+    "Burglar",
+    "Philosopher"
+   ],
+   "sphere": "Investigation",
+   "sphereText": "Investigation sphere",
+   "adroit": [
+    "Orator",
+    "Spy"
+   ],
+   "bonus": [
+    {
+     "sphere": "Infiltration"
+    },
+    {
+     "sphere": "Investigation",
+     "talent": "Ascertain Activities"
+    }
+   ],
+   "bonusText": "Infiltration sphere or the Investigation sphere (Ascertain Activities) talent"
+  },
+  {
+   "name": "Ensouled Muscle",
+   "url": "Other-Pages/Trade-Traditions#ensouled-muscle",
+   "summary": "R Spellcraft in place of redundant Survival, increased class skill bonus to Heal checks.",
+   "md": "*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*\n\n**Automatic Trade Talents:** Loner, Greenskeeper.\n\n*Trade Talent Class Skills*: Bluff, Heal *, Intimidate, Knowledge (geography), Knowledge (nature), Spellcraft, Survival R.\nR Spellcraft in place of redundant Survival, * increased class skill bonus to Heal checks.\n\n**Automatic Skill Sphere:** Occultism sphere.\n\n**Adroit Trade Talents:** Quicksilver, Strongarm.\n\n*Trade Talent Class Skills*: Acrobatics, Appraise, Diplomacy, Escape Artist R, Fly, Knowledge (religion), Ride, and Sense Motive.\n\nR Knowledge (religion) in place of redundant Escape Artist.\n\n**Adroit Bonus Skill Talent:** Body Control sphere or Envessel (Occultism sphere).",
+   "auto": [
+    "Greenskeeper",
+    "Loner"
+   ],
+   "sphere": "Occultism",
+   "sphereText": "Occultism sphere",
+   "adroit": [
+    "Quicksilver",
+    "Strongarm"
+   ],
+   "bonus": [
+    {
+     "sphere": "Body Control"
+    },
+    {
+     "sphere": "Occultism"
+    }
+   ],
+   "bonusText": "Body Control sphere or Envessel (Occultism sphere)"
+  },
+  {
+   "name": "Fixer",
+   "url": "Other-Pages/Trade-Traditions#fixer",
+   "summary": "Automatic Trade Talents: Engineer, Quicksilver Trade Talent Class Skills: Acrobatics, Appraise R, Disable Device, Escape Artist, Knowledge (dungeoneering), Knowledge (engineering), and Sense Motive.",
+   "md": "*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*\n\n**Automatic Trade Talents:** Engineer, Quicksilver\n\n*Trade Talent Class Skills:* Acrobatics, Appraise R, Disable Device, Escape Artist, Knowledge (dungeoneering), Knowledge (engineering), and Sense Motive.\nR Stealth in place of redundant Appraise.\n\n**Automatic Skill Sphere:** Infiltration sphere or Adept Administrator (Vocation sphere)\n\n**Adroit Trade Talents:** Con Artist, Medium\n\n*Trade Talent Class Skills:* Bluff, Diplomacy, Disguise, Fly, Knowledge (local), Knowledge (planes), Knowledge (religion), Linguistics\n\n**Adroit Bonus Skill Talent:** Communication sphere or Case the Joint (Infiltration sphere)",
+   "auto": [
+    "Engineer",
+    "Quicksilver"
+   ],
+   "sphere": "Infiltration",
+   "sphereText": "Infiltration sphere or Adept Administrator (Vocation sphere)",
+   "adroit": [
+    "Con Artist",
+    "Medium"
+   ],
+   "bonus": [
+    {
+     "sphere": "Communication"
+    },
+    {
+     "sphere": "Infiltration"
+    }
+   ],
+   "bonusText": "Communication sphere or Case the Joint (Infiltration sphere)"
+  },
+  {
+   "name": "Keeper",
+   "url": "Other-Pages/Trade-Traditions#keeper",
+   "summary": "Automatic Trade Talents: Farmer, Handler Trade Talent Class Skills: Appraise, Handle AnimalR, Knowledge (nature)R/, Ride, and Survival; R Diplomacy in place of redundant Handle Animal, increased…",
+   "md": "**Automatic Trade Talents:** Farmer, Handler\n\n*Trade Talent Class Skills:* Appraise, Handle AnimalR, Knowledge (nature)R/*, Ride*, and Survival*;\nR Diplomacy in place of redundant Handle Animal, * increased class skill bonus to Knowledge (nature) and Ride checks.\n\n**Automatic Skill Sphere:** Herbalism sphere (Rancher alternate start)\n\n**Adroit Trade Talents:** Guide, Racer\n\n*Trade Talent Class Skills:* Fly, Knowledge (geography), Swim;\nR Sleight of Hand in place of redundant Knowledge (nature), * increased class skill bonus to Survival checks.\n\n**Adroit Bonus Skill Talent:** Communication sphere (Animal Whisperer alternate start) or the Herbalism sphere (Expanded Herbalist or Pleasant Fragrance (aroma)) talent.",
+   "auto": [
+    "Farmer",
+    "Handler"
+   ],
+   "sphere": "Herbalism",
+   "sphereText": "Herbalism sphere (Rancher alternate start)",
+   "adroit": [
+    "Guide",
+    "Racer"
+   ],
+   "bonus": [
+    {
+     "sphere": "Communication"
+    },
+    {
+     "sphere": "Herbalism"
+    }
+   ],
+   "bonusText": "Communication sphere (Animal Whisperer alternate start) or the Herbalism sphere (Expanded Herbalist or Pleasant Fragrance (aroma)) talent"
+  },
+  {
+   "name": "Green Witch",
+   "url": "Other-Pages/Trade-Traditions#green-witch",
+   "summary": "Automatic Skill Sphere: Survivalism sphere (harvest package) Adroit Trade Talents: Greenskeeper, Fey Friend Trade Talent Class Skills: Knowledge (geography), Knowledge (nobility), Linguistics,…",
+   "md": "**Automatic Trade Talents:** Apothecary, Faith Healer\n\n*Trade Talent Class Skills:* Bluff, Diplomacy, HealR/*, Knowledge (arcana), Knowledge (nature)R, Knowledge (religion), Use Magic Device.\nR Knowledge (local) in place of redundant Heal.\n\n**Automatic Skill Sphere:** Survivalism sphere (harvest package)\n\n**Adroit Trade Talents:** Greenskeeper, Fey Friend\n\n*Trade Talent Class Skills:* Knowledge (geography), Knowledge (nobility), Linguistics, Spellcraft, and Survival;\nR Knowledge (history) in place of redundant Knowledge (nature), * increased class skill bonus to Heal checks.\n\n**Adroit Bonus Skill Talent:** Herbalism sphere (herbal package) or Survivalism sphere (any one (harvest) talent).",
+   "auto": [
+    "Apothecary",
+    "Faith Healer"
+   ],
+   "sphere": "Survivalism",
+   "sphereText": "Survivalism sphere (harvest package)",
+   "adroit": [
+    "Fey Friend",
+    "Greenskeeper"
+   ],
+   "bonus": [
+    {
+     "sphere": "Herbalism"
+    },
+    {
+     "sphere": "Survivalism",
+     "talent": "harvest"
+    }
+   ],
+   "bonusText": "Herbalism sphere (herbal package) or Survivalism sphere (any one (harvest) talent)"
+  },
+  {
+   "name": "Guild Artist",
+   "url": "Other-Pages/Trade-Traditions#guild-artist",
+   "summary": "Automatic Skill Sphere: Faction sphere (supply) package Adroit Trade Talents: Smuggler, Entertainer Trade Talent Class Skills: Acrobatics, DisguiseR, Escape Artist, Sleight of Hand, Stealth; R…",
+   "md": "**Automatic Trade Talents:** Merchant, Translator\n\n*Trade Talent Class Skills:* Appraise, Diplomacy, Bluff*, Knowledge (local)R, Knowledge (nobility), Sense Motive, Linguistics;\nR Knowledge (engineering) in place of redundant Knowledge (local).\n\n**Automatic Skill Sphere:** Faction sphere (supply) package\n\n**Adroit Trade Talents:** Smuggler, Entertainer\n\n*Trade Talent Class Skills:* Acrobatics, DisguiseR, Escape Artist, Sleight of Hand*, Stealth;\nR Knowledge (geography) in place of redundant Disguise, * increased class skill bonus to Bluff and Sleight of Hand checks.\n\n**Adroit Bonus Skill Talent:** Performance sphere or the Faction sphere (Social Clout) talent.",
+   "auto": [
+    "Merchant",
+    "Translator"
+   ],
+   "sphere": "Faction",
+   "sphereText": "Faction sphere (supply) package",
+   "adroit": [
+    "Entertainer",
+    "Smuggler"
+   ],
+   "bonus": [
+    {
+     "sphere": "Performance"
+    },
+    {
+     "sphere": "Faction",
+     "talent": "Social Clout"
+    }
+   ],
+   "bonusText": "Performance sphere or the Faction sphere (Social Clout) talent"
+  },
+  {
+   "name": "Luminary",
+   "url": "Other-Pages/Trade-Traditions#luminary",
+   "summary": "Automatic Skill Sphere: Study sphere Adroit Trade Talents: Dilettante, Orator Trade Talent Class Skills: Bluff, Diplomacy, Intimidate, Knowledge (dungeoneering), Knowledge (local), Knowledge…",
+   "md": "**Automatic Trade Talents:** Explorer, Historian\n\n*Trade Talent Class Skills:* Climb, Knowledge (arcana), Knowledge (geography), Knowledge (history)R, Knowledge (religion), Linguistics, Survival, and Swim.\n\n**Automatic Skill Sphere:** Study sphere\n\n**Adroit Trade Talents:** Dilettante, Orator\n\n*Trade Talent Class Skills:* Bluff, Diplomacy, Intimidate, Knowledge (dungeoneering), Knowledge (local), Knowledge (nature), Knowledge (planes);\nR Knowledge (engineering) in place of redundant Knowledge (history)\n\n**Adroit Bonus Skill Talent:** Any Vocation sphere talent or the Study (Tangential Recollection) talent.",
+   "auto": [
+    "Explorer",
+    "Historian"
+   ],
+   "sphere": "Study",
+   "sphereText": "Study sphere",
+   "adroit": [
+    "Dilettante",
+    "Orator"
+   ],
+   "bonus": [
+    {
+     "sphere": "Vocation"
+    },
+    {
+     "sphere": "Study",
+     "talent": "Tangential Recollection"
+    }
+   ],
+   "bonusText": "Any Vocation sphere talent or the Study (Tangential Recollection) talent"
+  },
+  {
+   "name": "Magical Scholar",
+   "url": "Other-Pages/Trade-Traditions#magical-scholar",
+   "summary": "Automatic Skill Sphere: Spellhacking sphere Adroit Trade Talents: Experimenter, Philosopher Trade Talent Class Skills: Fly, Intimidate, Knowledge (history), Knowledge (nature), Knowledge (religion),…",
+   "md": "**Automatic Trade Talents:** Artificer, Occultist\n\n*Trade Talent Class Skills:* Appraise, Knowledge (arcana), Knowledge (dungeoneering), Knowledge (engineering)R, Knowledge (planes), Linguistics, Spellcraft, Use Magic Device*.\n\n**Automatic Skill Sphere:** Spellhacking sphere\n\n**Adroit Trade Talents:** Experimenter, Philosopher\n\n*Trade Talent Class Skills:* Fly, Intimidate, Knowledge (history), Knowledge (nature), Knowledge (religion), and Sense Motive;\nR Knowledge (local) in place of redundant Knowledge (engineering), * increased class skill bonus to Use Magic Device checks.\n\n**Adroit Bonus Skill Talent:** Study sphere or the Spellhacking sphere (Hacker’s Analysis) talent.",
+   "auto": [
+    "Artificer",
+    "Occultist"
+   ],
+   "sphere": "Spellhacking",
+   "sphereText": "Spellhacking sphere",
+   "adroit": [
+    "Experimenter",
+    "Philosopher"
+   ],
+   "bonus": [
+    {
+     "sphere": "Study"
+    },
+    {
+     "sphere": "Spellhacking",
+     "talent": "Hacker’s Analysis"
+    }
+   ],
+   "bonusText": "Study sphere or the Spellhacking sphere (Hacker’s Analysis) talent"
+  },
+  {
+   "name": "Mercenary",
+   "url": "Other-Pages/Trade-Traditions#mercenary",
+   "summary": "Automatic Trade Talents: Gambler, Soldier Of Fortune Trade Talent Class Skills: Appraise, Bluff, Intimidate, Knowledge (local), Sense MotiveR, and Sleight of HandR; R Escape Artist in place of…",
+   "md": "**Automatic Trade Talents:** Gambler, Soldier Of Fortune\n\n*Trade Talent Class Skills:* Appraise*, Bluff, Intimidate, Knowledge (local)*, Sense MotiveR, and Sleight of HandR;\nR Escape Artist in place of redundant Sense Motive, * increased class skill bonus to Appraise checks\n\n**Automatic Skill Sphere:** Faction sphere\n\n**Adroit Trade Talents:** Knight, Scrounger\n\n*Trade Talent Class Skills:* Handle Animal, Knowledge (nobility), Ride, Survival, Swim;\nR Stealth in place of redundant Sleight of Hand, * increased class skill bonus to Knowledge (local) checks.\n\n**Adroit Bonus Skill Talent:** Body Control sphere or the Faction sphere (Review Intelligence) talent.",
+   "auto": [
+    "Gambler",
+    "Soldier Of Fortune"
+   ],
+   "sphere": "Faction",
+   "sphereText": "Faction sphere",
+   "adroit": [
+    "Knight",
+    "Scrounger"
+   ],
+   "bonus": [
+    {
+     "sphere": "Body Control"
+    },
+    {
+     "sphere": "Faction",
+     "talent": "Review Intelligence"
+    }
+   ],
+   "bonusText": "Body Control sphere or the Faction sphere (Review Intelligence) talent"
+  },
+  {
+   "name": "Outlander",
+   "url": "Other-Pages/Trade-Traditions#outlander",
+   "summary": "Automatic Trade Talents: Guide, Roughrider Trade Talent Class Skills: Climb, Handle Animal, Knowledge (geography), Knowledge (nature), RideR, Swim, Survival; R Swim in place of redundant Ride…",
+   "md": "**Automatic Trade Talents:** Guide, Roughrider\n\n*Trade Talent Class Skills:* Climb, Handle Animal, Knowledge (geography), Knowledge (nature), RideR, Swim, Survival*;\nR Swim in place of redundant Ride\n\n**Automatic Skill Sphere:** Survivalism sphere\n\n**Adroit Trade Talents:** Aberration Hunter, Scout\n\n*Trade Talent Class Skills:* Heal, Knowledge (dungeoneering), Spellcraft, Acrobatics, Knowledge (geography), and StealthR;\nR either Disable Device or Fly instead of redundant Stealth; * increased class skill bonus to Survival checks\n\n**Adroit Skill Talent:** Navigation sphere or the Survivalism sphere (Hunter’s Eye) talent.",
+   "auto": [
+    "Guide",
+    "Roughrider"
+   ],
+   "sphere": "Survivalism",
+   "sphereText": "Survivalism sphere",
+   "adroit": [
+    "Aberration Hunter",
+    "Scout"
+   ],
+   "bonus": [
+    {
+     "sphere": "Navigation"
+    },
+    {
+     "sphere": "Survivalism",
+     "talent": "Hunter’s Eye"
+    }
+   ],
+   "bonusText": "Navigation sphere or the Survivalism sphere (Hunter’s Eye) talent"
+  },
+  {
+   "name": "Philosopher",
+   "url": "Other-Pages/Trade-Traditions#philosopher",
+   "summary": "Automatic Skill Sphere: Investigation sphere Adroit Trade Talents: Mage Hunter, Occultist Trade Talent Class Skills: Disable Device, Disguise, Knowledge (dungeoneering), Knowledge (planes),…",
+   "md": "**Automatic Trade Talents:** Archaeologist, False Mage\n\n*Trade Talent Class Skills:* Appraise, Bluff, Knowledge (arcana)R, Knowledge (history), Sleight of Hand, Spellcraft*, Use Magic DeviceR;\nR Sense Motive in place of redundant Use Magic Device.\n\n**Automatic Skill Sphere:** Investigation sphere\n\n**Adroit Trade Talents:** Mage Hunter, Occultist\n\n*Trade Talent Class Skills:* Disable Device, Disguise, Knowledge (dungeoneering), Knowledge (planes), Linguistics;\nR Knowledge (religion) in place of redundant Knowledge (arcana), * increased class skill bonus to Spellcraft checks.\n\n**Adroit Bonus Skill Talent:** Spellhacking sphere or the Investigation sphere (Discern Esoterics) talent.",
+   "auto": [
+    "Archaeologist",
+    "False Mage"
+   ],
+   "sphere": "Investigation",
+   "sphereText": "Investigation sphere",
+   "adroit": [
+    "Mage Hunter",
+    "Occultist"
+   ],
+   "bonus": [
+    {
+     "sphere": "Spellhacking"
+    },
+    {
+     "sphere": "Investigation",
+     "talent": "Discern Esoterics"
+    }
+   ],
+   "bonusText": "Spellhacking sphere or the Investigation sphere (Discern Esoterics) talent"
+  },
+  {
+   "name": "Physician",
+   "url": "Other-Pages/Trade-Traditions#physician",
+   "summary": "Automatic Skill Sphere: Herbalism sphere (remedy package) Adroit Trade Talents: Mystic, Servant Trade Talent Class Skills: Handle Animal, Knowledge (nobility), Knowledge (planes), Stealth; :…",
+   "md": "**Automatic Trade Talents:** Doctor, Rescuer\n\n*Trade Talent Class Skills:* Climb, Escape Artist, HealR/*, Knowledge (nature), Knowledge (religion)*, Spellcraft*, Swim;\nR Knowledge (local) in place of redundant Heal skill.\n\n**Automatic Skill Sphere:** Herbalism sphere (remedy package)\n\n**Adroit Trade Talents:** Mystic, Servant\n\n*Trade Talent Class Skills:* Handle Animal, Knowledge (nobility), Knowledge (planes), Stealth;\n*: increased class skill bonus Heal, Knowledge (religion), and Spellcraft checks.\n\n**Adroit Bonus Skill Talent:** Investigation sphere (Unorthodox Methods alternate start, choosing the Assess Physicality or Examine Damage talent), or the Herbalism sphere (any one (remedy) talent).",
+   "auto": [
+    "Doctor",
+    "Rescuer"
+   ],
+   "sphere": "Herbalism",
+   "sphereText": "Herbalism sphere (remedy package)",
+   "adroit": [
+    "Mystic",
+    "Servant"
+   ],
+   "bonus": [
+    {
+     "sphere": "Investigation"
+    },
+    {
+     "sphere": "Herbalism",
+     "talent": "remedy"
+    }
+   ],
+   "bonusText": "Investigation sphere (Unorthodox Methods alternate start, choosing the Assess Physicality or Examine Damage talent), or the Herbalism sphere (any one (remedy) talent)"
+  },
+  {
+   "name": "Rural Doctor",
+   "url": "Other-Pages/Trade-Traditions#rural-doctor",
+   "summary": "Adroit Bonus Skill Talent: Inoculative Treatment (Herbalism sphere) or Communication sphere.",
+   "md": "*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*\n\n**Automatic Trade Talents:** Doctor, Veterinarian.\n\n*Trade Talent Class Skills*: Handle Animal, Heal R, Knowledge (local), Knowledge (nature), Knowledge (religion) R, Ride, Spellcraft, and Survival.\n\nR Survival in place of redundant Heal.\n\n**Automatic Skill Sphere:** Herbalism sphere ((remedy) package) or Adept Handler (Vocation sphere).\n\n**Adroit Trade Talents:** Gambler, Medium.\n\n*Trade Talent Class Skills*: Appraise, Bluff, Diplomacy, Fly, Knowledge (history), Knowledge (planes), Sense Motive, and Sleight of Hand.\n\nR Knowledge (history) in place of redundant Knowledge (religion).\n\n**Adroit Bonus Skill Talent:** Inoculative Treatment (Herbalism sphere) or Communication sphere.",
+   "auto": [
+    "Doctor",
+    "Veterinarian"
+   ],
+   "sphere": "Herbalism",
+   "sphereText": "Herbalism sphere ((remedy) package) or Adept Handler (Vocation sphere)",
+   "adroit": [
+    "Gambler",
+    "Medium"
+   ],
+   "bonus": [
+    {
+     "sphere": "Herbalism"
+    },
+    {
+     "sphere": "Communication"
+    }
+   ],
+   "bonusText": "Inoculative Treatment (Herbalism sphere) or Communication sphere"
+  },
+  {
+   "name": "Schemer",
+   "url": "Other-Pages/Trade-Traditions#schemer",
+   "summary": "Automatic Skill Sphere: Subterfuge sphere Adroit Trade Talents: Esoteric Scholar, False Mage Trade Talent Class Skills: Knowledge (arcana, dungeoneering, nature, planes, religion), Sleight of Hand,…",
+   "md": "**Automatic Trade Talents:** Con Artist, Spy\n\n*Trade Talent Class Skills:* Bluff*, DisguiseR, Escape Artist, Knowledge (local), Linguistics, Sense Motive, Stealth;\nR Diplomacy in place of redundant Disguise skill.\n\n**Automatic Skill Sphere:** Subterfuge sphere\n\n**Adroit Trade Talents:** Esoteric Scholar, False Mage\n\n*Trade Talent Class Skills:* Knowledge (arcana, dungeoneering, nature, planes, religion), Sleight of Hand, Use Magic Device;\n*: increased class skill bonus to Bluff checks.\n\n**Adroit Skill Talent:** Communication sphere or the Subterfuge sphere (Community Contacts) talent.",
+   "auto": [
+    "Con Artist",
+    "Spy"
+   ],
+   "sphere": "Subterfuge",
+   "sphereText": "Subterfuge sphere",
+   "adroit": [
+    "Esoteric Scholar",
+    "False Mage"
+   ],
+   "bonus": [
+    {
+     "sphere": "Communication"
+    },
+    {
+     "sphere": "Subterfuge",
+     "talent": "Community Contacts"
+    }
+   ],
+   "bonusText": "Communication sphere or the Subterfuge sphere (Community Contacts) talent"
+  },
+  {
+   "name": "Sentry",
+   "url": "Other-Pages/Trade-Traditions#sentry",
+   "summary": "R Appraise and Climb in place of redundant Survival and Stealth, increased class skill bonus to Intimidate and Knowledge (local) checks.",
+   "md": "*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*\n\n**Automatic Trade Talents:** Guard, Scout\n\n*Trade Talent Class Skills:* Acrobatics, Diplomacy, Intimidate *, Knowledge (geography), Knowledge (local) *, Sense Motive, Stealth R, and Survival R.\n\n**Automatic Skill Sphere:** Investigation sphere or Vocation sphere (Adept Adventurer).\n\n**Adroit Trade Talents:** Loner, Thug\n\n*Trade Talent Class Skills:* Bluff, Disguise, Heal.\nR Appraise and Climb in place of redundant Survival and Stealth, * increased class skill bonus to Intimidate and Knowledge (local) checks.\n\n**Adroit Bonus Skill Talent:** Acute Senses (Investigation sphere) or Navigation sphere.",
+   "auto": [
+    "Guard",
+    "Scout"
+   ],
+   "sphere": "Investigation",
+   "sphereText": "Investigation sphere or Vocation sphere (Adept Adventurer)",
+   "adroit": [
+    "Loner",
+    "Thug"
+   ],
+   "bonus": [
+    {
+     "sphere": "Investigation"
+    },
+    {
+     "sphere": "Navigation"
+    }
+   ],
+   "bonusText": "Acute Senses (Investigation sphere) or Navigation sphere"
+  },
+  {
+   "name": "Scholar",
+   "url": "Other-Pages/Trade-Traditions#scholar",
+   "summary": "Automatic Skill Sphere: Study sphere Adroit Trade Talents: Medium, Storyteller Trade Talent Class Skills: Diplomacy, Fly, Knowledge (arcana), Knowledge (planes); R Knowledge (dungeoneering) and…",
+   "md": "**Automatic Trade Talents:** Anthropologist, Archaeologist\n\n*Trade Talent Class Skills:* Appraise, Knowledge (geography), Knowledge (history)R, Knowledge (local)*, Knowledge (nobility)R, Knowledge (religion)R, Spellcraft, Use Magic Device;\nR Knowledge (engineering) in place of redundant Knowledge (history).\n\n**Automatic Skill Sphere:** Study sphere\n\n**Adroit Trade Talents:** Medium, Storyteller\n\n*Trade Talent Class Skills:* Diplomacy, Fly, Knowledge (arcana), Knowledge (planes);\nR Knowledge (dungeoneering) and Knowledge (nature) in place of redundant Knowledge (nobility) and Knowledge (religion), * increased class skill bonus to Knowledge (history) and Knowledge (local) checks.\n\n**Adroit Bonus Skill Talent:** Investigation sphere or the Study sphere (Efficient Researcher) talent.",
+   "auto": [
+    "Anthropologist",
+    "Archaeologist"
+   ],
+   "sphere": "Study",
+   "sphereText": "Study sphere",
+   "adroit": [
+    "Medium",
+    "Storyteller"
+   ],
+   "bonus": [
+    {
+     "sphere": "Investigation"
+    },
+    {
+     "sphere": "Study",
+     "talent": "Efficient Researcher"
+    }
+   ],
+   "bonusText": "Investigation sphere or the Study sphere (Efficient Researcher) talent"
+  },
+  {
+   "name": "Shadow",
+   "url": "Other-Pages/Trade-Traditions#shadow",
+   "summary": "Automatic Skill Sphere: Subterfuge sphere Adroit Trade Talents: Trapper, Thug Trade Talent Class Skills: Disable Device, Intimidate, Knowledge (geography), Knowledge (local), Knowledge (nature),…",
+   "md": "**Automatic Trade Talents:** Counterfeiter, Cutpurse\n\n*Trade Talent Class Skills:* Acrobatics, Appraise, Bluff, Escape Artist, Linguistics, Sleight of HandR, Stealth;\nR Disguise in place of redundant Sleight of Hand.\n\n**Automatic Skill Sphere:** Subterfuge sphere\n\n**Adroit Trade Talents:** Trapper, Thug\n\n*Trade Talent Class Skills:* Disable Device, Intimidate, Knowledge (geography), Knowledge (local), Knowledge (nature), Survival;\n*: increased class skill bonus on Disguise and Stealth checks.\n\n**Adroit Bonus Skill Talent:** Infiltration sphere or the Subterfuge sphere (Clever Charlatan) talent.",
+   "auto": [
+    "Counterfeiter",
+    "Cutpurse"
+   ],
+   "sphere": "Subterfuge",
+   "sphereText": "Subterfuge sphere",
+   "adroit": [
+    "Thug",
+    "Trapper"
+   ],
+   "bonus": [
+    {
+     "sphere": "Infiltration"
+    },
+    {
+     "sphere": "Subterfuge",
+     "talent": "Clever Charlatan"
+    }
+   ],
+   "bonusText": "Infiltration sphere or the Subterfuge sphere (Clever Charlatan) talent"
+  },
+  {
+   "name": "Slayer Of The Arcane",
+   "url": "Other-Pages/Trade-Traditions#slayer-of-the-arcane",
+   "summary": "Automatic Skill Sphere: Spellhacking sphere Adroit Trade Talents: Dragon Envoy, Undead Slayer Trade Talent Class Skills: Diplomacy, Fly, Intimidate, Knowledge (arcana)R, and Knowledge (planes),…",
+   "md": "**Automatic Trade Talents:** Mage Hunter, Monster Hunter\n\n*Trade Talent Class Skills:* Appraise, Disable Device, Disguise, Intimidate, Knowledge (arcana)R, Spellcraft, and Survival;\nR Knowledge (local) in place of Knowledge (arcana).\n\n**Automatic Skill Sphere:** Spellhacking sphere\n\n**Adroit Trade Talents:** Dragon Envoy, Undead Slayer\n\n*Trade Talent Class Skills:* Diplomacy, Fly, Intimidate*, Knowledge (arcana)R, and Knowledge (planes)*, Knowledge (religion), Survival*;\nR Sense Motive in place of Knowledge (arcana), * increased class skill bonus to Intimidate, Knowledge (planes), and Survival checks.\n\n**Adroit Bonus Skill Talent:** Body Control sphere or the Spellhacking sphere (Track Caster) talent.",
+   "auto": [
+    "Mage Hunter",
+    "Monster Hunter"
+   ],
+   "sphere": "Spellhacking",
+   "sphereText": "Spellhacking sphere",
+   "adroit": [
+    "Dragon Envoy",
+    "Undead Slayer"
+   ],
+   "bonus": [
+    {
+     "sphere": "Body Control"
+    },
+    {
+     "sphere": "Spellhacking",
+     "talent": "Track Caster"
+    }
+   ],
+   "bonusText": "Body Control sphere or the Spellhacking sphere (Track Caster) talent"
+  },
+  {
+   "name": "Smithy",
+   "url": "Other-Pages/Trade-Traditions#smithy",
+   "summary": "Automatic Trade Talents: Builder, Miner Trade Talent Class Skills: ClimbR, Disable Device, Escape Artist, Knowledge (dungeoneering)R, Knowledge (engineering)R/; R Knowledge (local) in place of…",
+   "md": "**Automatic Trade Talents:** Builder, Miner\n\n*Trade Talent Class Skills:* ClimbR, Disable Device*, Escape Artist*, Knowledge (dungeoneering)R, Knowledge (engineering)R/*;\nR Knowledge (local) in place of redundant Climb skill, * increased class skill bonus to Escape Artist and Knowledge (engineering) checks.\n\n**Automatic Skill Sphere:** Artifice sphere\n\n**Adroit Trade Talents:** Engineer, Technician\n\n*Trade Talent Class Skills:* Appraise and Heal;\nR Knowledge (arcana) and Knowledge (history) in place of redundant Knowledge (dungeoneering) and Knowledge (engineering), * increased class skill bonus to Disable Device checks.\n\n**Adroit Bonus Skill Talent:** Survivalism sphere (dredge) package or the Artifice sphere (Favorite Tools) talent.",
+   "auto": [
+    "Builder",
+    "Miner"
+   ],
+   "sphere": "Artifice",
+   "sphereText": "Artifice sphere",
+   "adroit": [
+    "Engineer",
+    "Technician"
+   ],
+   "bonus": [
+    {
+     "sphere": "Survivalism"
+    },
+    {
+     "sphere": "Artifice",
+     "talent": "Favorite Tools"
+    }
+   ],
+   "bonusText": "Survivalism sphere (dredge) package or the Artifice sphere (Favorite Tools) talent"
+  },
+  {
+   "name": "Socialite",
+   "url": "Other-Pages/Trade-Traditions#socialite",
+   "summary": "Automatic Trade Talents: Courtier, Gossip Trade Talent Class Skills: Bluff, Diplomacy, Knowledge (local), Knowledge (nobility)R/, Sense Motive; R Linguistics in place of redundant Knowledge…",
+   "md": "**Automatic Trade Talents:** Courtier, Gossip\n\n*Trade Talent Class Skills:* Bluff, Diplomacy*, Knowledge (local), Knowledge (nobility)R/*, Sense Motive*;\nR Linguistics in place of redundant Knowledge (nobility), * increased class skill bonus to Diplomacy and Sense Motive checks.\n\n**Automatic Skill Sphere:** Communication sphere\n\n**Adroit Trade Talents:** Diplomat, Storyteller\n\n*Trade Talent Class Skills:* Knowledge (history);\nR Sleight of Hand and Intimidate in place of redundant Diplomacy, and Sense Motive skills, * increased class skill bonus to Knowledge (local), Knowledge (nobility), and Linguistics checks.\n\n**Adroit Bonus Skill Talent:** Communication sphere (Wordmonger) talent or the Subterfuge sphere.",
+   "auto": [
+    "Courtier",
+    "Gossip"
+   ],
+   "sphere": "Communication",
+   "sphereText": "Communication sphere",
+   "adroit": [
+    "Diplomat",
+    "Storyteller"
+   ],
+   "bonus": [
+    {
+     "sphere": "Communication",
+     "talent": "Wordmonger"
+    },
+    {
+     "sphere": "Subterfuge"
+    }
+   ],
+   "bonusText": "Communication sphere (Wordmonger) talent or the Subterfuge sphere"
+  },
+  {
+   "name": "Thief",
+   "url": "Other-Pages/Trade-Traditions#thief",
+   "summary": "Automatic Skill Sphere: Infiltration sphere Adroit Trade Talents: Dungeon Delver, Pirate Trade Talent Class Skills: Acrobatics, Disable DeviceR, Knowledge (dungeoneering), Use Magic Device, Appraise,…",
+   "md": "**Automatic Trade Talents:** Burglar, Con Artist\n\n*Trade Talent Class Skills:* Bluff, Disable Device, Disguise, Escape Artist, Knowledge (local), Linguistics, Sleight of Hand, Stealth.\n\n**Automatic Skill Sphere:** Infiltration sphere\n\n**Adroit Trade Talents:** Dungeon Delver, Pirate\n\n*Trade Talent Class Skills:* Acrobatics, Disable DeviceR, Knowledge (dungeoneering), Use Magic Device, Appraise, Climb, Intimidate, Swim;\nR Diplomacy in place of redundant Disable Device skill\n\n**Adroit Bonus Skill Talent:** Subterfuge sphere or the Infiltration sphere (Light Touch) talent.",
+   "auto": [
+    "Burglar",
+    "Con Artist"
+   ],
+   "sphere": "Infiltration",
+   "sphereText": "Infiltration sphere",
+   "adroit": [
+    "Dungeon Delver",
+    "Pirate"
+   ],
+   "bonus": [
+    {
+     "sphere": "Subterfuge"
+    },
+    {
+     "sphere": "Infiltration",
+     "talent": "Light Touch"
+    }
+   ],
+   "bonusText": "Subterfuge sphere or the Infiltration sphere (Light Touch) talent"
+  },
+  {
+   "name": "Tracer",
+   "url": "Other-Pages/Trade-Traditions#tracer",
+   "summary": "Adroit Bonus Skill Talent: Body Control sphere or the Infiltration sphere (Frantic Escape) talent.",
+   "md": "**Automatic Trade Talents:** Athlete, Scout\n\n*Trade Talent Class Skills:* AcrobaticsR, Climb, Fly, Knowledge (geography), StealthR, Survival, and Swim.\nR Disable Device in place of redundant Acrobatics.\n\n**Automatic Skill Sphere:** Infiltration sphere (Ghost alternate start)\n\n**Adroit Trade Talents:** Escapologist, Smuggler\n\n*Trade Talent Class Skills:* Bluff, Disguise, Escape Artist, Knowledge (arcana), Knowledge (engineering), and Sleight of Hand.\nR Knowledge (local) in place of redundant Stealth.\n\n**Adroit Bonus Skill Talent:** Body Control sphere or the Infiltration sphere (Frantic Escape) talent.",
+   "auto": [
+    "Athlete",
+    "Scout"
+   ],
+   "sphere": "Infiltration",
+   "sphereText": "Infiltration sphere (Ghost alternate start)",
+   "adroit": [
+    "Escapologist",
+    "Smuggler"
+   ],
+   "bonus": [
+    {
+     "sphere": "Body Control"
+    },
+    {
+     "sphere": "Infiltration",
+     "talent": "Frantic Escape"
+    }
+   ],
+   "bonusText": "Body Control sphere or the Infiltration sphere (Frantic Escape) talent"
+  },
+  {
+   "name": "Voice of the Land",
+   "url": "Other-Pages/Trade-Traditions#voice-of-the-land",
+   "summary": "R Knowledge (planes) and Intimidate in place of redundant Diplomacy and Use Magic Device, increased class skill bonus to Knowledge (local) checks.",
+   "md": "*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*\n\n**Automatic Trade Talents:** Geometer, Wildsoul.\n\n*Trade Talent Class Skills:* Diplomacy R, Knowledge (arcana), Knowledge (engineering), Knowledge (geography), Knowledge (local) *, Knowledge (nature), Survival, and Use Magic Device R.\n\n**Automatic Skill Sphere:** Communication sphere or Occultism sphere.\n\n**Adroit Trade Talents:** Storyteller, Sea Cultist.\n\n*Trade Talent Class Skills:* Intimidate, Knowledge (dungeoneering), Knowledge (history), Knowledge (nobility), Knowledge (planes), Knowledge (religion), Swim.\n\nR Knowledge (planes) and Intimidate in place of redundant Diplomacy and Use Magic Device, * increased class skill bonus to Knowledge (local) checks.\n\n**Adroit Bonus Skill Talent:** Search (Occultism sphere) or Navigation sphere.",
+   "auto": [
+    "Geometer",
+    "Wildsoul"
+   ],
+   "sphere": "Communication",
+   "sphereText": "Communication sphere or Occultism sphere",
+   "adroit": [
+    "Sea Cultist",
+    "Storyteller"
+   ],
+   "bonus": [
+    {
+     "sphere": "Occultism"
+    },
+    {
+     "sphere": "Navigation"
+    }
+   ],
+   "bonusText": "Search (Occultism sphere) or Navigation sphere"
+  },
+  {
+   "name": "Wanderer",
+   "url": "Other-Pages/Trade-Traditions#wanderer",
+   "summary": "Automatic Skill Sphere: Navigation sphere Adroit Trade Talents: Falconer, Farmer Trade Talent Class Skills: Appraise, Climb, Handle AnimalR, Knowledge (nature), Ride R Sense Motive in place of…",
+   "md": "**Automatic Trade Talents:** Plane-walker, Sky Pilot\n\n*Trade Talent Class Skills:* Acrobatics, FlyR/*, Knowledge (geography), Knowledge (planes), Linguistics, Survival, and Use Magic Device; R Diplomacy in place of redundant Fly.\n\n**Automatic Skill Sphere:** Navigation sphere\n\n**Adroit Trade Talents:** Falconer, Farmer\n\n*Trade Talent Class Skills:* Appraise, Climb, Handle AnimalR, Knowledge (nature)*, Ride\nR Sense Motive in place of redundant Handle Animal, * increased class skill bonus to Fly and Knowledge (nature) checks.\n\n**Adroit Bonus Skill Talent:** Performance sphere or the Navigation sphere (Lay Of The Land) talent.",
+   "auto": [
+    "Plane-walker",
+    "Sky Pilot"
+   ],
+   "sphere": "Navigation",
+   "sphereText": "Navigation sphere",
+   "adroit": [
+    "Falconer",
+    "Farmer"
+   ],
+   "bonus": [
+    {
+     "sphere": "Performance"
+    },
+    {
+     "sphere": "Navigation",
+     "talent": "Lay Of The Land"
+    }
+   ],
+   "bonusText": "Performance sphere or the Navigation sphere (Lay Of The Land) talent"
+  },
+  {
+   "name": "Zealot",
+   "url": "Other-Pages/Trade-Traditions#zealot",
+   "summary": "Automatic Skill Sphere: Bluster sphere Adroit Trade Talents: Commander, Undead Slayer Trade Talent Class Skills: Intimidate, Knowledge (history), Knowledge (nobility), Ride, and Survival R Heal in…",
+   "md": "**Automatic Trade Talents:** Interlocutor, Priest\n\n*Trade Talent Class Skills:* Bluff, DiplomacyR, Knowledge (planes)R, Knowledge (religion)*, Linguistics, Sense MotiveR, and Spellcraft\nR Knowledge (local) in place of redundant Sense Motive.\n\n**Automatic Skill Sphere:** Bluster sphere\n\n**Adroit Trade Talents:** Commander, Undead Slayer\n\n*Trade Talent Class Skills:* Intimidate, Knowledge (history), Knowledge (nobility), Ride, and Survival\nR Heal in place of redundant Diplomacy and Knowledge (planes) skills, * increased class skill bonus to Knowledge (religion) checks.\n\n**Adroit Bonus Skill Talent:** Faction sphere (retainer) package (Knowledge (religion) as associated skill) or the Bluster sphere (Embarrassing Critique) talent.",
+   "auto": [
+    "Interlocutor",
+    "Priest"
+   ],
+   "sphere": "Bluster",
+   "sphereText": "Bluster sphere",
+   "adroit": [
+    "Commander",
+    "Undead Slayer"
+   ],
+   "bonus": [
+    {
+     "sphere": "Faction"
+    },
+    {
+     "sphere": "Bluster",
+     "talent": "Embarrassing Critique"
+    }
+   ],
+   "bonusText": "Faction sphere (retainer) package (Knowledge (religion) as associated skill) or the Bluster sphere (Embarrassing Critique) talent"
+  }
+ ]
+}

@@ -4692,6 +4692,88 @@ def write_casting_review(drawbacks: list[dict], boons: list[dict], templates: li
     dest.write_text("\n".join(out) + "\n", encoding="utf-8")
 
 
+# ---------- trade traditions ----------
+# compendium/trade-traditions.json: the Vocation sphere's (trade) talents with the class skills each
+# grants, the class skills every trade tradition gives, and the sample trade traditions as
+# templates (automatic trade talents and skill sphere; the adroit trade talents and bonus), for the
+# Character Builder's "Add trade tradition".
+TT_AUTOMATIC_SKILLS = ["crf", "per", "prf", "pro"]  # Craft, Perception, Perform, Profession
+TT_BACKGROUND_SKILLS = ["art", "lor"]  # Artistry, Lore (with background skills)
+
+
+def build_trade_traditions() -> int:
+    files = {f.stem: f for f in CONTENT.rglob("*.md") if ARCHIVE not in f.relative_to(CONTENT).parts}
+    voc = COMPENDIUM_OUT / "vocation.json"
+    if not voc.exists() or "Trade Traditions" not in files:
+        return 0
+    talents = []
+    for e in json.loads(voc.read_text(encoding="utf-8"))["entries"]:
+        if "trade" not in e["tags"]:
+            continue
+        m = re.search(r"You gain (.+?) as (?:a )?class skills?", re.sub(r"[*_]", "", e["md"]))
+        talents.append({"id": e["id"], "name": e["name"], "classSkills": class_skill_keys(m.group(1)) if m else [],
+                        "classSkillsText": m.group(1) if m else "", "summary": _rules_summary(e["md"], 200)})
+    trade_names = [t["name"] for t in talents]
+    f = files["Trade Traditions"]
+    body = f.read_text(encoding="utf-8").split(GENERATED_MARK, 1)[-1]
+    lines = body.split("\n")
+    slug = _slugger()
+    ids = [slug(m.group(2)) if (m := re.match(r"(#{1,6}) (.+)$", l)) else "" for l in lines]
+    span = _section_span(lines, "Sample Trade Traditions")
+    guile = sorted({e["sphere"] for e in json.loads((COMPENDIUM_OUT / "index.json").read_text(encoding="utf-8"))
+                    if e["system"] == "Spheres of Guile"})
+    talent_names: dict[str, list[str]] = {}
+    for e in json.loads((COMPENDIUM_OUT / "index.json").read_text(encoding="utf-8")):
+        if e["system"] == "Spheres of Guile" and "talent" in e["kind"]:
+            talent_names.setdefault(e["sphere"], []).append(e["name"])
+    names_of = lambda text: [n for n in trade_names if re.search(rf"(?<![\w-]){re.escape(n)}(?![\w-])", text, re.I)]
+    templates = []
+    if span:
+        start, end, _ = span
+        heads = [k for k in range(start + 1, end) if lines[k].startswith("### ")]
+        for n, k in enumerate(heads):
+            stop = heads[n + 1] if n + 1 < len(heads) else end
+            md = "\n".join(lines[k + 1:stop]).strip()
+            t = re.sub(r"[*_]", "", md)
+            field_ = lambda label: (m.group(1).strip(" .") if (m := re.search(rf"^{label}:\s*(.+)$", t, re.M)) else "")
+            auto, sphere_text, adroit, bonus = (field_("Automatic Trade Talents"), field_("Automatic Skill Sphere"),
+                                               field_("Adroit Trade Talents"), field_("Adroit (?:Bonus )?Skill Talent"))
+            sphere = next((s for s in guile if re.search(rf"\b{re.escape(s)}\b", sphere_text)), None)
+            options = []
+            for part in re.split(r",?\s+or\s+", bonus):
+                ps = next((s for s in guile if re.search(rf"\b{re.escape(s)}\b", part)), None)
+                tn = (m.group(1) if (m := re.search(r"\(([^()]+)\)\s*talent", part)) else None)
+                if ps and tn:
+                    options.append({"sphere": ps, "talent": tn})
+                elif ps:
+                    options.append({"sphere": ps})
+            templates.append({"name": lines[k][4:].strip(), "url": f"{_page_url(f)}#{ids[k]}",
+                              "summary": _rules_summary(md, 200, whole=False), "md": md,
+                              "auto": names_of(auto), "sphere": sphere, "sphereText": sphere_text,
+                              "adroit": names_of(adroit), "bonus": options, "bonusText": bonus})
+    COMPENDIUM_OUT.mkdir(parents=True, exist_ok=True)
+    (COMPENDIUM_OUT / "trade-traditions.json").write_text(json.dumps(
+        {"tradeTalents": talents, "automaticClassSkills": TT_AUTOMATIC_SKILLS, "backgroundClassSkills": TT_BACKGROUND_SKILLS,
+         "guileSpheres": guile, "templates": templates}, ensure_ascii=False, indent=1), encoding="utf-8")
+    cell = lambda s: s.replace("|", "\\|").replace("\n", " ")
+    out = [f"---\ntitle: {yaml_str('Compendium Review: Trade Traditions')}\nnosearch: true\n---\n{GENERATED_MARK}\n",
+           "What the Character Builder's \"Add trade tradition\" reads: the Vocation sphere's (trade) talents with "
+           "the class skills each grants, and the sample traditions from [[Trade Traditions]] as templates.", "",
+           f"## Trade talents ({len(talents)})", "", "| Trade talent | Class skills |", "| --- | --- |"]
+    out += [f"| {cell(t['name'])} | {cell(t['classSkillsText']) or '**not read**'} |" for t in talents]
+    out += ["", f"## Sample trade traditions ({len(templates)})", "",
+            "| Tradition | Trade talents | Skill sphere | Adroit talents | Adroit bonus |", "| --- | --- | --- | --- | --- |"]
+    for t in templates:
+        page, anchor = t["url"].split("#", 1)
+        bonus = " or ".join(f"{o['sphere']} ({o['talent']})" if o.get("talent") else f"{o['sphere']} sphere" for o in t["bonus"])
+        out.append(f"| [[{page.split('/')[-1]}#{anchor}\\|{cell(t['name'])}]] | {cell(', '.join(t['auto']))} | "
+                   f"{cell(t['sphere'] or t['sphereText'] or '—')} | {cell(', '.join(t['adroit']))} | {cell(bonus or t['bonusText'] or '—')} |")
+    dest = CONTENT / COMPENDIUM_REVIEW / "Trade Traditions (Compendium Review).md"
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    dest.write_text("\n".join(out) + "\n", encoding="utf-8")
+    return len(talents)
+
+
 def write_feat_review(entries: list[dict], pf: list[dict]) -> None:
     """Meta/Compendium Review/Feats (Compendium Review).md: type counts, then the Spheres feats by page."""
     def count(es: list[dict]) -> dict[str, int]:
@@ -5893,6 +5975,7 @@ def convert(with_images: bool) -> None:
     print(f"Compendium races: {build_race_compendium()}")
     print(f"Martial traditions: {build_martial_traditions()}")
     print(f"Casting tradition drawbacks: {build_casting_traditions()}")
+    print(f"Trade talents: {build_trade_traditions()}")
 
     # folders emptied by exclusions or renames
     for d in sorted((d for d in CONTENT.rglob("*") if d.is_dir()), key=lambda d: -len(d.parts)):

@@ -85,6 +85,7 @@ function blankState() {
     spheresModule: false,
     backgroundSkills: false,
     fractionalBonuses: false,
+    tradeTraditions: false,
     sphere: { casting: "", practitioner: "", operative: "", tradition: "" },
     spellcasting: { cls: -1, ability: "int", type: "prepared", progression: "high" },
     spells: [],
@@ -545,7 +546,8 @@ function classPicker(cls) {
       cls.ref = d.ref ?? cls.ref
       cls.will = d.will ?? cls.will
       cls.skills = d.skills ?? cls.skills
-      cls.classSkills = [...(d.classSkills ?? [])]
+      // with trade traditions, class skills come from the tradition and multiclass trade talents
+      if (!state.tradeTraditions) cls.classSkills = [...(d.classSkills ?? [])]
       cls.caster = d.caster ?? cls.caster
     }
     changed(true)
@@ -868,9 +870,13 @@ const panels = {
       h("p", { class: "muted" }, "Each class exports as a Foundry class item, so BAB, saves, HP and skill ranks update when you level up there. With Spheres enabled, each class also gets a sphere caster level progression."),
       h("div", { class: "card" }, rows),
       h("div", { class: "row", style: "margin-top:.75rem" },
-        h("button", { onclick: () => { state.classes.push(blankClass(false)); changed(true) } }, "+ Add class"),
+        h("button", { onclick: () => { if (state.tradeTraditions) addClassWithTrade(); else { state.classes.push(blankClass(false)); changed(true) } } }, "+ Add class"),
         h("div", { class: "spacer" }),
         field("Hit points", select("hpMode", { pfs: "Max at 1st level, then half + 1", max: "Maximum every level", custom: "Enter per class" })),
+      ),
+      h("div", { class: "card row", style: "margin-top:.75rem" },
+        checkbox("tradeTraditions", h("strong", {}, "Using trade traditions")),
+        h("span", { class: "note", style: "flex:1 1 260px" }, "Class skills come from a trade tradition (Spheres tab) instead of your classes: picking a class no longer fills in its class skills, and each class added after the first offers a Vocation trade talent for multiclassing."),
       ),
       h("div", { class: "card row", style: "margin-top:.75rem" },
         checkbox("fractionalBonuses", h("strong", {}, "Fractional base bonuses")),
@@ -1084,6 +1090,7 @@ const panels = {
         h("button", { onclick: () => adder.value && addSphereTalent(adder.value) }, "+ Add sphere"),
         h("button", { onclick: () => openTraditionPicker() }, "+ Add martial tradition"),
         h("button", { onclick: () => openCastingTradition() }, "+ Add casting tradition"),
+        h("button", { onclick: () => openTradeTradition() }, "+ Add trade tradition"),
       ),
     ]
   },
@@ -1493,6 +1500,194 @@ async function openCastingTradition() {
     state.sphere.tradition = ""
     changed(true)
   }
+}
+
+// ---------- trade traditions ----------
+// compendium/trade-traditions.json: the Vocation sphere's (trade) talents with the class skills each
+// grants, plus the sample trade traditions as templates. A trade tradition replaces the first class's
+// class skills: competent is two trade talents and a Guile sphere; adroit adds two more trade talents
+// and another Guile sphere or a talent from the chosen one. A class skill granted by more than one
+// trade talent gets +1 more once it has a rank (+4 instead of +3), as a change on that skill.
+const skillLabel = (k) => SKILLS[k]?.[0] ?? k
+const overlapChange = (k) => ({ formula: `min(1, @skills.${k}.rank)`, target: `skill.${k}`, type: "untyped", operator: "add" })
+
+// a trade talent as a Spheres tab row (in the Vocation sphere), with its rules text
+async function tradeTalentRow(t, extra = {}) {
+  const index = await loadCompendium("index.json", [])
+  const e = index.find((x) => x.id === t.id)
+  const full = e ? (await loadCompendium(e.file, { entries: [] })).entries.find((x) => x.id === e.id) : null
+  return { name: t.name, kind: "skill", sphere: "vocation", tags: (e?.tags ?? ["trade"]).join(", "), exclude: false, ref: t.id,
+    desc: mdToText(full?.md ?? t.summary), ...extra }
+}
+// skills a set of trade talents grants more than once (each gets the +1 once)
+function tradeOverlaps(talents) {
+  const seen = new Set(), twice = new Set()
+  for (const t of talents) for (const k of t.classSkills) (seen.has(k) ? twice : seen).add(k)
+  return [...twice]
+}
+const tradeSelect = (list, value, label, onchange) => {
+  const el = h("select", { "aria-label": label }, h("option", { value: "" }, "Choose a trade talent…"),
+    ...list.map((t) => h("option", { value: t.name, selected: t.name === value }, `${t.name} — ${t.classSkills.map(skillLabel).join(", ") || t.classSkillsText}`)))
+  el.addEventListener("change", () => onchange(el.value))
+  return el
+}
+
+async function openTradeTradition() {
+  const [data, index] = await Promise.all([
+    loadCompendium("trade-traditions.json", { tradeTalents: [], automaticClassSkills: [], backgroundClassSkills: [], guileSpheres: [], templates: [] }),
+    loadCompendium("index.json", []),
+  ])
+  const T = Object.fromEntries(data.tradeTalents.map((t) => [t.name, t]))
+  const list = [...data.tradeTalents].sort((a, b) => a.name.localeCompare(b.name))
+  const sel = { template: "", name: "", adroit: false, talents: ["", "", "", ""], sphere: "", bonusKind: "sphere", bonusSphere: "", bonusTalent: "" }
+  const cls = state.classes[0]
+  const body = h("div", { class: "ct-body" })
+  const dlg = openDialog("Add trade tradition", body)
+  dlg.classList.add("wide")
+  const sphereTalents = (s) => index.filter((e) => e.sphere === s && /talent$/.test(e.kind)).sort((a, b) => a.name.localeCompare(b.name))
+  const applyTemplate = (name) => {
+    const t = data.templates.find((x) => x.name === name)
+    sel.template = name
+    if (!t) return
+    sel.name = t.name
+    sel.talents = [t.auto[0] ?? "", t.auto[1] ?? "", t.adroit[0] ?? "", t.adroit[1] ?? ""]
+    sel.sphere = t.sphere ?? ""
+    const o = t.bonus[0]
+    sel.bonusKind = o?.talent ? "talent" : "sphere"
+    sel.bonusSphere = o && !o.talent ? o.sphere : ""
+    sel.bonusTalent = t.bonus.find((x) => x.talent)?.talent ?? ""
+  }
+  const chosen = () => sel.talents.slice(0, sel.adroit ? 4 : 2).filter(Boolean).map((n) => T[n])
+  const render = () => {
+    const picked = chosen()
+    const auto = [...data.automaticClassSkills, ...(state.backgroundSkills ? data.backgroundClassSkills : [])]
+    const skills = [...new Set([...auto, ...picked.flatMap((t) => t.classSkills)])]
+    const overlaps = tradeOverlaps(picked)
+    const templateSel = h("select", { "aria-label": "Template" }, h("option", { value: "" }, "Custom (start from nothing)"),
+      ...data.templates.map((t) => h("option", { value: t.name, selected: sel.template === t.name }, t.name)))
+    templateSel.addEventListener("change", () => { applyTemplate(templateSel.value); render() })
+    const nameBox = h("input", { value: sel.name, placeholder: "Tradition name", "aria-label": "Tradition name" })
+    nameBox.addEventListener("input", () => { sel.name = nameBox.value })
+    const adroit = h("input", { type: "checkbox", checked: sel.adroit })
+    adroit.addEventListener("change", () => { sel.adroit = adroit.checked; render() })
+    const talentPick = (i) => tradeSelect(list, sel.talents[i], `Trade talent ${i + 1}`, (v) => { sel.talents[i] = v; render() })
+    const sphereSel = (value, label, onchange) => {
+      const el = h("select", { "aria-label": label }, h("option", { value: "" }, "Choose a Guile sphere…"),
+        ...data.guileSpheres.filter((s) => s !== "Vocation").map((s) => h("option", { value: s, selected: s === value }, s)))
+      el.addEventListener("change", () => onchange(el.value))
+      return el
+    }
+    const tpl = data.templates.find((t) => t.name === sel.template)
+    const problems = [
+      picked.length < (sel.adroit ? 4 : 2) && `choose ${sel.adroit ? 4 : 2} trade talents`,
+      !sel.sphere && "choose a Guile sphere",
+      sel.adroit && (sel.bonusKind === "sphere" ? !sel.bonusSphere && "choose the adroit bonus sphere" : !sel.bonusTalent && "choose the adroit bonus talent"),
+    ].filter(Boolean)
+    body.replaceChildren(
+      h("div", { class: "row picker-filters" }, field("Start from", templateSel), field("Name", nameBox),
+        h("label", { class: "row", style: "gap:.4rem;align-self:end" }, adroit, "Adroit (5 + Int or more skill ranks per level)")),
+      tpl ? h("p", { class: "note" }, tpl.summary) : null,
+      h("p", { class: "warn" }, `Warning: this erases ${cls?.name ? `${cls.name}'s` : "your first class's"} class skills. They'll be unchecked and replaced by the tradition's (more class skills from feats, traits and other sources still apply; add those back on the Classes tab).`),
+      h("h3", {}, "Competent"),
+      h("div", { class: "row picker-filters" }, field("Trade talent", talentPick(0)), field("Trade talent", talentPick(1)),
+        field("Guile sphere", sphereSel(sel.sphere, "Guile sphere", (v) => { sel.sphere = v; render() }))),
+      sel.adroit ? h("div", {},
+        h("h3", {}, "Adroit"),
+        h("div", { class: "row picker-filters" }, field("Trade talent", talentPick(2)), field("Trade talent", talentPick(3))),
+        h("div", { class: "row picker-filters" },
+          h("label", { class: "row", style: "gap:.4rem" }, h("input", { type: "radio", name: "tt-bonus", checked: sel.bonusKind === "sphere", onchange: () => { sel.bonusKind = "sphere"; render() } }), "Another Guile sphere"),
+          sel.bonusKind === "sphere" ? sphereSel(sel.bonusSphere, "Bonus sphere", (v) => { sel.bonusSphere = v }) : null,
+          h("label", { class: "row", style: "gap:.4rem" }, h("input", { type: "radio", name: "tt-bonus", checked: sel.bonusKind === "talent", onchange: () => { sel.bonusKind = "talent"; render() } }), `A talent from ${sel.sphere || "your chosen sphere"}`),
+          sel.bonusKind === "talent" && sel.sphere ? (() => {
+            const el = h("select", { "aria-label": "Bonus talent" }, h("option", { value: "" }, "Choose a talent…"),
+              ...sphereTalents(sel.sphere).map((e) => h("option", { value: e.name, selected: e.name === sel.bonusTalent }, e.name)))
+            el.addEventListener("change", () => { sel.bonusTalent = el.value })
+            return el
+          })() : null)) : null,
+      h("div", { class: "ct-points" },
+        h("b", {}, "Class skills: "), skills.map(skillLabel).join(", "),
+        overlaps.length ? h("div", {}, h("b", {}, "Granted twice (+4 with a rank): "), overlaps.map(skillLabel).join(", ")) : null),
+      problems.length ? h("p", { class: "note" }, `To add it: ${problems.join(", ")}.`) : null,
+      h("div", { class: "row add-row" },
+        h("button", { class: "primary", disabled: problems.length > 0, onclick: async () => {
+          await applyTradeTradition(picked, skills, overlaps)
+          dlg.done()
+          toast(`Added the ${sel.name || "custom"} trade tradition`)
+        } }, "Add trade tradition"),
+        h("button", { onclick: () => dlg.done() }, "Cancel")))
+  }
+  render()
+
+  async function applyTradeTradition(picked, skills, overlaps) {
+    const name = sel.name.trim() || "Custom trade tradition"
+    const rank = sel.adroit ? "Adroit" : "Competent"
+    const bonus = !sel.adroit ? null : sel.bonusKind === "sphere" ? `${sel.bonusSphere} sphere` : `${sel.bonusTalent} (${sel.sphere})`
+    state.features.push(newFeature("misc", { name: `Trade tradition: ${name} (${rank})`, changes: overlaps.map(overlapChange),
+      desc: [`Trade rank: ${rank}`, `Trade talents: ${picked.map((t) => t.name).join(", ")}`, `Skill sphere: ${sel.sphere}`,
+        bonus ? `Adroit bonus: ${bonus}` : "", `Class skills: ${skills.map(skillLabel).join(", ")}`,
+        overlaps.length ? `Granted by more than one trade talent (+1 with a rank, so +4): ${overlaps.map(skillLabel).join(", ")}` : ""].filter(Boolean).join("\n") }))
+    for (const t of picked) state.talents.push(await tradeTalentRow(t))
+    const sphereRow = (s) => {
+      const key = sphereKey(s)
+      return { name: `${s} sphere`, kind: sphereKind(key) ?? "skill", sphere: key, tags: "base sphere", exclude: false,
+        desc: `Skill sphere from the ${name} trade tradition.` }
+    }
+    state.talents.push(sphereRow(sel.sphere))
+    if (sel.adroit && sel.bonusKind === "sphere") state.talents.push(sphereRow(sel.bonusSphere))
+    if (sel.adroit && sel.bonusKind === "talent") {
+      const e = index.find((x) => x.sphere === sel.sphere && x.name === sel.bonusTalent)
+      const full = e ? (await loadCompendium(e.file, { entries: [] })).entries.find((x) => x.id === e.id) : null
+      const key = sphereKey(sel.sphere)
+      state.talents.push({ name: sel.bonusTalent, kind: sphereKind(key) ?? "skill", sphere: key, tags: (e?.tags ?? []).join(", "),
+        exclude: false, ref: e?.id, desc: mdToText(full?.md ?? e?.summary ?? "") })
+    }
+    if (cls) cls.classSkills = skills
+    state.tradeTraditions = true
+    changed(true)
+  }
+}
+
+// "+ Add class" with trade traditions on: the new class's class skills come from a trade talent
+function addClassWithTrade() {
+  const cls = blankClass(false)
+  state.classes.push(cls)
+  changed(true)
+  const dlg = openDialog("Multiclassing with a trade tradition",
+    h("p", {}, "You ignore a new class's class skills. Add a Vocation trade talent for multiclassing? Its class skills become this class's."),
+    h("div", { class: "row add-row" },
+      h("button", { class: "primary", onclick: () => { dlg.done(); pickMulticlassTrade(cls) } }, "Add a trade talent"),
+      h("button", { onclick: () => dlg.done() }, "No")))
+}
+
+async function pickMulticlassTrade(cls) {
+  const data = await loadCompendium("trade-traditions.json", { tradeTalents: [] })
+  const list = [...data.tradeTalents].sort((a, b) => a.name.localeCompare(b.name))
+  // skills an earlier trade talent already grants: a repeat gets the +1 (if it doesn't have it yet)
+  const tradeRows = state.talents.filter((t) => t.sphere === "vocation" && /\btrade\b/.test(t.tags ?? ""))
+  const granted = tradeRows.flatMap((t) => data.tradeTalents.find((x) => x.id === t.ref || x.name === t.name)?.classSkills ?? [])
+  const boosted = new Set([...state.features, ...state.talents].flatMap((x) => (x.changes ?? [])
+    .filter((ch) => /^min\(1, @skills\./.test(ch.formula ?? "")).map((ch) => ch.target.replace(/^skill\./, ""))))
+  let choice = ""
+  const info = h("p", { class: "note" })
+  const pick = tradeSelect(list, "", "Trade talent", (v) => {
+    choice = v
+    const t = data.tradeTalents.find((x) => x.name === v)
+    const repeats = (t?.classSkills ?? []).filter((k) => granted.includes(k) && !boosted.has(k))
+    info.textContent = t ? `Class skills for this class: ${t.classSkills.map(skillLabel).join(", ") || t.classSkillsText}${repeats.length ? `. Already granted by a trade talent (+1 with a rank): ${repeats.map(skillLabel).join(", ")}` : ""}` : ""
+  })
+  const dlg = openDialog("Trade talent for multiclassing", field("Trade talent", pick), info,
+    h("div", { class: "row add-row" },
+      h("button", { class: "primary", onclick: async () => {
+        const t = data.tradeTalents.find((x) => x.name === choice)
+        if (!t) return
+        const repeats = t.classSkills.filter((k) => granted.includes(k) && !boosted.has(k))
+        state.talents.push(await tradeTalentRow(t, { changes: repeats.map(overlapChange) }))
+        cls.classSkills = [...t.classSkills]
+        changed(true)
+        dlg.done()
+        toast(`Added ${t.name} for multiclassing`)
+      } }, "Add"),
+      h("button", { onclick: () => dlg.done() }, "Cancel")))
 }
 
 // adding to a sphere offers its talents from the compendium (or a custom one); a talent with no
