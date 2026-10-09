@@ -2853,7 +2853,7 @@ COMPENDIUM = {
     },
     "Warp": {
         "system": "Spheres of Power",
-        "approved": False,
+        "approved": True,
         "pages": [
             ("Warp", "## Teleport", "sphere ability", 2, 4),
             ("Warp", "Warp Talents", "talent", 4),
@@ -2864,6 +2864,22 @@ COMPENDIUM = {
         ],
         # rules notes: the (space) talent type note, and Teleport Structure's note on structures
         "not_options": r"^Table|^Note|^Bend Space$|^Warping Structures",
+    },
+    "Weather": {
+        "system": "Spheres of Power",
+        "approved": False,
+        "pages": [
+            # Control Weather, its weather types (wind, cold, heat, precipitation, aridity, and the
+            # ash / fallout / vog effects) as options
+            ("Weather", "Control Weather", "sphere ability", 2, 4),
+            ("Weather", "Weather Talents", "talent", 4),
+            ("Weather", "Mantle Talents", "talent", 4),
+            ("Weather", "Shroud Talents", "talent", 4),
+            ("Weather", "Advanced Weather Talents", "advanced talent", 4),
+            ("Weather Sphere Feats", "(page)", "feat", 4),
+            ("Weather Sphere Drawbacks", "(page)", "drawback", 4),
+        ],
+        "not_options": r"^Table|^Note",
     },
     "Warleader": {
         "system": "Spheres of Might",

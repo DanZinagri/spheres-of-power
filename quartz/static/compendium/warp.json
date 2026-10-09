@@ -1,7 +1,7 @@
 {
  "sphere": "Warp",
  "system": "Spheres of Power",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "warp/teleport",
