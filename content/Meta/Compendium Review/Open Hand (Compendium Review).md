@@ -10,7 +10,7 @@ What the compendium extractor takes from the Open Hand pages (54 entries; **not 
 
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
-| [[Open-Hand#sweep\|Sweep]] |  |  | Unarmed Combatants | — | Spheres of Might |
+| [[Open-Hand#sweep\|Sweep]] |  |  | — | — | Spheres of Might |
 
 ## Talents (37)
 

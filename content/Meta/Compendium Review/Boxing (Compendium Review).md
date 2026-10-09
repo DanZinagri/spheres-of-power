@@ -10,7 +10,7 @@ What the compendium extractor takes from the Boxing pages (51 entries; **not yet
 
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
-| [[Boxing#counter-punch\|Counter Punch]] |  |  | Unarmed Combatants | — | Spheres of Might |
+| [[Boxing#counter-punch\|Counter Punch]] |  |  | — | — | Spheres of Might |
 
 ## Talents (35)
 

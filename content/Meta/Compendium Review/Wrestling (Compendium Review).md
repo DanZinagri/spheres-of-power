@@ -10,7 +10,7 @@ What the compendium extractor takes from the Wrestling pages (47 entries; **not 
 
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
-| [[Wrestling#snag\|Snag]] |  |  | Unarmed Combatants | — | Spheres of Might |
+| [[Wrestling#snag\|Snag]] |  |  | — | — | Spheres of Might |
 
 ## Talents (34)
 

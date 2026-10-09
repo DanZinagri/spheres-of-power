@@ -3248,7 +3248,8 @@ COMPENDIUM = {
             ('Champion Feats', '(page)', 'feat', 4, {'prereq': '\\bBoxing\\b(?=\\s+sphere|\\s*\\(|\\s+\\d|\\s+associated|\\s+package)', 'group': 'General'}),
             ('Boxing Sphere Drawbacks', '(page)', 'drawback', 4),
         ],
-        "not_options": r"^Table|^Note|^Optional|^Author|Talent Types$",
+        # the shared note on unarmed damage under the base ability is rules text
+        "not_options": r"^Table|^Note|^Optional|^Author|Talent Types$|^Unarmed Combatants$",
     },
     "Brute": {
         "system": "Spheres of Might",
@@ -3262,7 +3263,8 @@ COMPENDIUM = {
             ('Champion Feats', '(page)', 'feat', 4, {'prereq': '\\bBrute\\b(?=\\s+sphere|\\s*\\(|\\s+\\d|\\s+associated|\\s+package)', 'group': 'General'}),
             ('Brute Sphere Drawbacks', '(page)', 'drawback', 4),
         ],
-        "not_options": r"^Table|^Note|^Optional|^Author|Talent Types$",
+        # the shared note on unarmed damage under the base ability is rules text
+        "not_options": r"^Table|^Note|^Optional|^Author|Talent Types$|^Unarmed Combatants$",
     },
     "Dual Wielding": {
         "system": "Spheres of Might",
@@ -3374,7 +3376,8 @@ COMPENDIUM = {
             ('Champion Feats', '(page)', 'feat', 4, {'prereq': '\\bOpen\\ Hand\\b(?=\\s+sphere|\\s*\\(|\\s+\\d|\\s+associated|\\s+package)', 'group': 'General'}),
             ('Open Hand Sphere Drawbacks', '(page)', 'drawback', 4),
         ],
-        "not_options": r"^Table|^Note|^Optional|^Author|Talent Types$",
+        # the shared note on unarmed damage under the base ability is rules text
+        "not_options": r"^Table|^Note|^Optional|^Author|Talent Types$|^Unarmed Combatants$",
     },
     "Scoundrel": {
         "system": "Spheres of Might",
@@ -3460,7 +3463,8 @@ COMPENDIUM = {
             ('Champion Feats', '(page)', 'feat', 4, {'prereq': '\\bWrestling\\b(?=\\s+sphere|\\s*\\(|\\s+\\d|\\s+associated|\\s+package)', 'group': 'General'}),
             ('Wrestling Sphere Drawbacks', '(page)', 'drawback', 4),
         ],
-        "not_options": r"^Table|^Note|^Optional|^Author|Talent Types$",
+        # the shared note on unarmed damage under the base ability is rules text
+        "not_options": r"^Table|^Note|^Optional|^Author|Talent Types$|^Unarmed Combatants$",
     },
     "Tech": {
         "system": "Spheres of Might",

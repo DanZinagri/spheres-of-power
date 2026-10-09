@@ -10,7 +10,7 @@ What the compendium extractor takes from the Brute pages (48 entries; **not yet 
 
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
-| [[Brute#shove\|Shove]] |  |  | Unarmed Combatants | — | Spheres of Might |
+| [[Brute#shove\|Shove]] |  |  | — | — | Spheres of Might |
 
 ## Talents (33)
 

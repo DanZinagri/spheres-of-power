@@ -70125,9 +70125,7 @@
   "source": "Spheres of Might",
   "status": "current",
   "url": "Spheres-Of-Might/Boxing/Boxing#counter-punch",
-  "options": [
-   "Unarmed Combatants"
-  ],
+  "options": [],
   "summary": "You may ready an action to make an attack with a light melee weapon against the next enemy who makes a non-maneuver melee attack roll against you before the…",
   "file": "boxing.json",
   "approved": false
@@ -71043,9 +71041,7 @@
   "source": "Spheres of Might",
   "status": "current",
   "url": "Spheres-Of-Might/Brute/Brute#shove",
-  "options": [
-   "Unarmed Combatants"
-  ],
+  "options": [],
   "summary": "As a move action, you may move up to half your speed and make a melee touch attack against a creature.",
   "file": "brute.json",
   "approved": false
@@ -79434,9 +79430,7 @@
   "source": "Spheres of Might",
   "status": "current",
   "url": "Spheres-Of-Might/Open-Hand/Open-Hand#sweep",
-  "options": [
-   "Unarmed Combatants"
-  ],
+  "options": [],
   "summary": "You may attempt a trip combat maneuver with a -2 penalty as a move action, although you may not use a manufactured weapon to make this trip attempt.",
   "file": "open-hand.json",
   "approved": false
@@ -85009,9 +85003,7 @@
   "source": "Spheres of Might",
   "status": "current",
   "url": "Spheres-Of-Might/Wrestling/Wrestling#snag",
-  "options": [
-   "Unarmed Combatants"
-  ],
+  "options": [],
   "summary": "As a swift action, you may attempt to snag a target as a melee touch attack, latching onto part of their clothing, armor, or flesh and making them battered.",
   "file": "wrestling.json",
   "approved": false
