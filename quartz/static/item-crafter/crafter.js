@@ -1,6 +1,7 @@
 // Spheres of Power magic item crafter: prices an item from the Ultimate Spheres of Power crafting
 // rules (Magical Items page) and works out crafting cost, time, the item creation check and
-// construction requirements. Talents and effects are typed in; only the rule framework is built in.
+// construction requirements. Talents and effects are typed in (with suggestions and rules links from
+// the site's compendium for the spheres it covers); only the rule framework is built in.
 "use strict"
 
 const STORAGE_KEY = "sop-item-crafter"
@@ -91,6 +92,44 @@ const SLOTS = {
   shoulders: ["Shoulders", "Transformation, protection (resistance)"], weapon: ["Weapon", "Offense"], wrists: ["Wrists", "Bracelets: allies · Bracers: combat"],
 }
 const WORK = { normal: ["Quiet workshop (8 h/day)", 8], distracted: ["Distracting place (half benefit)", 4], adventuring: ["While adventuring (2 h/day)", 2] }
+
+// ---------- the site's compendium ----------
+// compendium/index.json (every mapped sphere's talents, abilities and drawbacks) and
+// feats-index.json (Spheres feats): name boxes suggest the base sphere's talents and feats, and a
+// recognized name links to its rules. Spheres not mapped yet stay free text.
+const COMPENDIUM = { entries: [], feats: [], loaded: false }
+async function loadCompendium() {
+  const get = (url, empty) => fetch(url).then((r) => (r.ok ? r.json() : empty)).catch(() => empty)
+  const [index, feats] = await Promise.all([get("../compendium/index.json", []), get("../compendium/feats-index.json", [])])
+  COMPENDIUM.entries = index
+  COMPENDIUM.feats = feats.filter((f) => f.system !== "Pathfinder 1e")
+  COMPENDIUM.loaded = true
+  renderAll()
+}
+const ROW_KIND_SOURCES = { talent: "talent", advanced: "advanced talent" }
+// the compendium entries a row of this kind can name, for this base sphere
+function rowSources(kind, sphere) {
+  if (ROW_KIND_SOURCES[kind]) return COMPENDIUM.entries.filter((e) => e.sphere === sphere && e.kind === ROW_KIND_SOURCES[kind])
+  if (kind === "feat") return COMPENDIUM.feats.filter((f) => f.spheres.includes(sphere))
+  if (kind === "metamagic") return COMPENDIUM.feats.filter((f) => f.types.includes("Metamagic"))
+  return []
+}
+const norm = (s) => String(s ?? "").trim().toLowerCase().replace(/[’']/g, "'")
+// the compendium entry a row's name matches: its own kind first, then (talents) the other talent kind
+function rowMatch(r, sphere) {
+  const n = norm(r.name)
+  if (!n) return null
+  const kinds = r.kind === "talent" ? ["talent", "advanced"] : r.kind === "advanced" ? ["advanced", "talent"] : [r.kind]
+  for (const k of kinds) {
+    const hit = rowSources(k, sphere).find((e) => norm(e.name) === n)
+    if (hit) return { entry: hit, kind: k }
+  }
+  return null
+}
+const talentSources = (sphere) => COMPENDIUM.entries.filter((e) => e.sphere === sphere && /talent$/.test(e.kind))
+const entryUrl = (e) => `../../${e.url}`
+const datalist = (id, list) => `<datalist id="${id}">${list.map((e) => `<option value="${esc(e.name)}"></option>`).join("")}</datalist>`
+const cmpLink = (e) => (e ? `<a class="cmp-link" href="${esc(entryUrl(e))}" target="_blank" rel="noopener" title="${esc(e.summary || e.name)}">rules ↗</a>` : "")
 
 // ---------- state ----------
 
@@ -562,11 +601,13 @@ function renderTalentBody(c, P, i) {
       ${c.kind === "apparatus" ? chk(`${P}.continual`, c.continual, "Continual from an instantaneous effect (base complexity 6)", false, "e.g. Life: continual cure becomes fast healing 1, continual restore becomes an immunity") : ""}
     </div>
     <h3>Talents and modifiers</h3>
+    ${compendiumNote(c.sphere)}
+    ${["talent", "advanced", "feat", "metamagic"].map((k) => datalist(`cmp-${i}-${k}`, rowSources(k, c.sphere))).join("")}
     ${
       c.rows.length
         ? `<div class="table-wrap"><table class="mods">
       <thead><tr><th>Type</th><th>Name</th><th class="num">SP / CX</th><th title="An option the user picks between: half cost beyond the most expensive">Variant</th><th title="Crafter has this (or a helper does)">Have</th><th class="num">Complexity</th><th></th></tr></thead>
-      <tbody>${c.rows.map((r, j) => renderRow(r, `${P}.rows.${j}`, i, j)).join("")}</tbody></table></div>`
+      <tbody>${c.rows.map((r, j) => renderRow(r, `${P}.rows.${j}`, i, j, c.sphere)).join("")}</tbody></table></div>`
         : `<p class="muted">No talents added yet: the effect is just the base power.</p>`
     }
     <div class="row add-row">
@@ -583,12 +624,23 @@ function renderTalentBody(c, P, i) {
     </div>`
 }
 
-function renderRow(r, P, i, j) {
+// how much of a sphere the compendium covers, above its talent rows
+function compendiumNote(sphere) {
+  if (!COMPENDIUM.loaded) return ""
+  const t = talentSources(sphere).length
+  const f = COMPENDIUM.feats.filter((x) => x.spheres.includes(sphere)).length
+  return t
+    ? `<p class="note">Name boxes suggest the ${t} ${esc(sphere)} talents${f ? ` and ${f} feats` : ""} in the site's compendium; a recognized name links to its rules.</p>`
+    : `<p class="note">The site's compendium doesn't cover ${esc(sphere)} talents yet, so type their names in${f ? ` (its ${f} feats are suggested)` : ""}.</p>`
+}
+
+function renderRow(r, P, i, j, sphere) {
   const k = ROW_KINDS[r.kind] ?? ROW_KINDS.custom
   const kinds = Object.entries(ROW_KINDS).map(([key, v]) => [key, v.label])
+  const listAttr = rowSources(r.kind, sphere).length ? `list="cmp-${i}-${r.kind}"` : ""
   return `<tr>
     <td>${sel(`${P}.kind`, r.kind, kinds)}</td>
-    <td>${txt(`${P}.name`, r.name, k.access ? "Talent or feat name" : "What it changes")}</td>
+    <td>${txt(`${P}.name`, r.name, k.access ? "Talent or feat name" : "What it changes", `${listAttr} data-rerender data-row-name`)}${cmpLink(rowMatch(r, sphere)?.entry)}</td>
     <td class="num">${k.custom ? num(`${P}.cx`, r.cx, 'step="1" title="Complexity"') : k.sp ? num(`${P}.sp`, r.sp, `min="0" title="${k.sp}"`) : ""}</td>
     <td><input type="checkbox" data-bind="${P}.variant" ${r.variant ? "checked" : ""} aria-label="Variant option" /></td>
     <td>${k.access ? `<input type="checkbox" data-bind="${P}.has" ${r.has !== false ? "checked" : ""} aria-label="Crafter has it" />` : ""}</td>
@@ -597,14 +649,20 @@ function renderRow(r, P, i, j) {
   </tr>`
 }
 
+// a "talent" column suggests the base sphere's compendium talents and links a recognized one
 function listTable(c, P, i, list, cols, addLabel) {
+  const talents = talentSources(c.sphere)
+  const talentCell = (path, x, key, extra) => {
+    const hit = talents.find((e) => norm(e.name) === norm(x[key]))
+    return txt(path, x[key], extra ?? "", talents.length ? `list="cmp-${i}-sphere" data-rerender` : "") + cmpLink(hit)
+  }
   const rows = c[list]
     .map(
-      (x, j) => `<tr>${cols.map(([key, , type, extra]) => `<td class="${type === "num" ? "num" : ""}">${type === "num" ? num(`${P}.${list}.${j}.${key}`, x[key], extra ?? "") : type === "has" ? `<input type="checkbox" data-bind="${P}.${list}.${j}.${key}" ${x[key] !== false ? "checked" : ""} aria-label="Crafter has it" />` : type === "sphere" ? sel(`${P}.${list}.${j}.${key}`, x[key], sphereOpts, false) : txt(`${P}.${list}.${j}.${key}`, x[key], extra ?? "")}</td>`).join("")}
+      (x, j) => `<tr>${cols.map(([key, , type, extra]) => `<td class="${type === "num" ? "num" : ""}">${type === "num" ? num(`${P}.${list}.${j}.${key}`, x[key], extra ?? "") : type === "has" ? `<input type="checkbox" data-bind="${P}.${list}.${j}.${key}" ${x[key] !== false ? "checked" : ""} aria-label="Crafter has it" />` : type === "sphere" ? sel(`${P}.${list}.${j}.${key}`, x[key], sphereOpts, false) : type === "talent" ? talentCell(`${P}.${list}.${j}.${key}`, x, key, extra) : txt(`${P}.${list}.${j}.${key}`, x[key], extra ?? "")}</td>`).join("")}
       <td>${btn("delItem", "✕", `data-i="${i}" data-list="${list}" data-j="${j}"`, "small ghost danger", "Remove")}</td></tr>`,
     )
     .join("")
-  return `${c[list].length ? `<div class="table-wrap"><table class="mods"><thead><tr>${cols.map(([, label, type]) => `<th class="${type === "num" ? "num" : ""}">${label}</th>`).join("")}<th></th></tr></thead><tbody>${rows}</tbody></table></div>` : ""}
+  return `${cols.some(([, , type]) => type === "talent") ? datalist(`cmp-${i}-sphere`, talents) : ""}${c[list].length ? `<div class="table-wrap"><table class="mods"><thead><tr>${cols.map(([, label, type]) => `<th class="${type === "num" ? "num" : ""}">${label}</th>`).join("")}<th></th></tr></thead><tbody>${rows}</tbody></table></div>` : ""}
     <div class="row add-row">${btn("addItem", addLabel, `data-i="${i}" data-list="${list}"`)}</div>`
 }
 
@@ -620,7 +678,7 @@ function renderEngine(c, P, i) {
     </div>
     <p class="note">Base engine: CL 2, 1 spell point, 1,000 gp. Every 2 caster levels adds one talent or spell point. Uses the item's caster level.</p>
     <h3>Talents</h3>
-    ${listTable(c, P, i, "talents", [["name", "Talent", "text", "Talent name"], ["has", "Have", "has"]], "+ Talent")}`
+    ${listTable(c, P, i, "talents", [["name", "Talent", "talent", "Talent name"], ["has", "Have", "has"]], "+ Talent")}`
 }
 
 function renderImplement(c, P, i) {
@@ -634,7 +692,7 @@ function renderImplement(c, P, i) {
     <h3>Extra spheres</h3>
     ${listTable(c, P, i, "extraSpheres", [["name", "Sphere", "sphere"]], "+ Sphere")}
     <h3>Granted talents</h3>
-    ${listTable(c, P, i, "talents", [["name", "Talent", "text", "Talent name"], ["has", "Have", "has"]], "+ Talent")}
+    ${listTable(c, P, i, "talents", [["name", "Talent", "talent", "Talent name"], ["has", "Have", "has"]], "+ Talent")}
     <h3>Other special abilities</h3>
     ${listTable(c, P, i, "abilities", [["name", "Ability", "text", "Name"], ["bonus", "+Bonus", "num", 'min="0"'], ["gp", "Flat gp", "num", 'min="0" step="any"']], "+ Ability")}`
 }
@@ -815,6 +873,12 @@ function onBind(e) {
   if (el.tagName === "SELECT" && path.endsWith(".baseDur")) {
     const c = getPath(path)[0]
     c.dur = c.baseDur
+  }
+  // a talent row named after an advanced talent (or the other way round) takes that row type
+  if (e.type === "change" && el.hasAttribute("data-row-name")) {
+    const comp = item().components[Number(path.split(".")[2])]
+    const hit = rowMatch(o, comp.sphere)
+    if (hit && hit.kind !== o.kind) o.kind = hit.kind
   }
   if (path.endsWith(".charm")) {
     const c = getPath(path)[0]
@@ -1005,3 +1069,4 @@ try {
 window.addEventListener("storage", (e) => e.key === "theme" && applyTheme(e.newValue))
 
 renderAll()
+loadCompendium()

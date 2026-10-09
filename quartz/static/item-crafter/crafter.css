@@ -148,3 +148,10 @@ table.mods td.num[data-out] {
   margin: 0;
   color: var(--dark);
 }
+
+/* a talent or feat name the site's compendium recognizes links to its rules */
+.cmp-link {
+  margin-left: 0.4rem;
+  font-size: 0.8em;
+  white-space: nowrap;
+}

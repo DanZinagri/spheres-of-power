@@ -28,27 +28,27 @@ What the feat extractor takes from the site (1233 Spheres feats; approved), plus
 | Admixture | 24 | — |
 | Aristeia | 23 | — |
 | Counterspell | 20 | — |
-| Item Mastery | — | 19 |
 | Grit | — | 19 |
+| Item Mastery | — | 19 |
 | Conduit | — | 18 |
 | Gizmo | 17 | — |
 | Weapon Mastery | — | 16 |
-| Protokinesis | 16 | — |
 | Stare | — | 16 |
 | Faction | — | 16 |
+| Protokinesis | 16 | — |
 | Companion | 15 | — |
 | Meditation | — | 14 |
 | Shield Mastery | — | 14 |
 | Performance | — | 13 |
+| Shield Style | — | 12 |
 | Proxy | 12 | — |
-| Necrosis | 12 | — |
 | Defiler | 12 | — |
 | Wild Magic | 12 | — |
-| Shield Style | — | 12 |
+| Necrosis | 12 | — |
+| Channeling | 11 | — |
 | Armor Mastery | — | 11 |
 | Purring | 11 | — |
 | Surreal | 11 | — |
-| Channeling | 11 | — |
 | Rune | 10 | — |
 | Armor Style | — | 9 |
 | Panache | — | 9 |
@@ -56,22 +56,22 @@ What the feat extractor takes from the site (1233 Spheres feats; approved), plus
 | Esoteric | — | 9 |
 | Achievement | — | 8 |
 | Origin | — | 8 |
-| Damnation | 3 | 4 |
 | Combination | — | 7 |
-| Theurge | 7 | — |
 | Blood Hex | — | 7 |
-| Betrayal | — | 6 |
-| Chance | 6 | — |
+| Damnation | 3 | 4 |
+| Theurge | 7 | — |
 | Trick | — | 6 |
+| Chance | 6 | — |
 | Plague | 6 | — |
+| Betrayal | — | 6 |
 | Anathema | 5 | — |
 | Gathlain Court Title | — | 4 |
 | Targeting | — | 4 |
 | Words of Power | — | 3 |
-| Luck | 2 | — |
-| Called Shot | — | 2 |
-| Coven | — | 2 |
 | Hero Point | — | 2 |
+| Called Shot | — | 2 |
+| Luck | 2 | — |
+| Coven | — | 2 |
 | Familiar | — | 1 |
 
 ## Spheres of Power (926)
