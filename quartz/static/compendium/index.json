@@ -33490,7 +33490,7 @@
   ],
   "summary": "As a standard action, you can use telekinesis to lift one willing creature or unattended object within close range and move it up to 20 feet + 5 feet per 5…",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/acceleration",
@@ -33507,7 +33507,7 @@
   "options": [],
   "summary": "When you move a target with telekinesis you can double the distance you can move it that turn by having all of its movement be in a straight line.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/dampening-field",
@@ -33524,7 +33524,7 @@
   "options": [],
   "summary": "You may use your telekinetic force to protect and stabilize creatures and objects that you are lifting.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/dancing-weapon",
@@ -33541,7 +33541,7 @@
   "options": [],
   "summary": "You may add your casting ability modifier to all damage rolls made with a Bludgeon.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/divided-mind-mass",
@@ -33560,7 +33560,7 @@
   "options": [],
   "summary": "You may lift multiple targets at once (up to 1 + 1 per caster level) whose combined size does not exceed your maximum telekinesis size.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/excessive-force",
@@ -33577,7 +33577,7 @@
   "options": [],
   "summary": "Whenever you could perform a Bludgeon as part of a standard action or greater, you may instead violently slam the target under your telekinesis into another…",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/finesse-utility",
@@ -33596,7 +33596,7 @@
   "options": [],
   "summary": "You may use telekinesis to perform fine manipulations, such as turning a key in a lock, unrolling a scroll, or tying a knot.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/flight",
@@ -33613,7 +33613,7 @@
   "options": [],
   "summary": "When using telekinesis to lift a creature or creatures and spending a spell point to create a Sustained Force on them, you may grant that creature the ability…",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/floating-shield",
@@ -33630,7 +33630,7 @@
   "options": [],
   "summary": "When using your telekinesis to lift a shield, you may apply its shield bonus to the armor class of anything in its square, though this does not stack with any…",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/forceful-telekinesis",
@@ -33647,7 +33647,7 @@
   "options": [],
   "summary": "When you are using an object or weapon as a Bludgeon, it is effectively one size larger for determining how much damage it deals.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/gravity-shift",
@@ -33664,7 +33664,7 @@
   "options": [],
   "summary": "By concentrating your telekinetic powers on an area you may effectively increase or decrease the area’s gravity.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/gravity-wardwell",
@@ -33681,7 +33681,7 @@
   "options": [],
   "summary": "As a standard action, you can create an area of gravity that either pulls objects in or keeps them out.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/greater-speed",
@@ -33698,7 +33698,7 @@
   "options": [],
   "summary": "Your telekinesis speed increases to 30 feet + 5 feet per 2 caster levels per round.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/homing",
@@ -33715,7 +33715,7 @@
   "options": [],
   "summary": "When you miss with a Bludgeon attack, you may spend a spell point as an immediate action to make the Bludgeon home back in on the target.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/idle-concentration",
@@ -33732,7 +33732,7 @@
   "options": [],
   "summary": "You may choose to maintain concentration on your telekinesis as a swift action.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/increased-range-range",
@@ -33751,7 +33751,7 @@
   "options": [],
   "summary": "Increase the range of your telekinesis by one step (close to medium, medium to long).",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/kinetic-field",
@@ -33768,7 +33768,7 @@
   "options": [],
   "summary": "You may spend a spell point to apply your telekinesis as kinetic energy across an area instead of directly onto targets.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/kinetic-sense",
@@ -33785,7 +33785,7 @@
   "options": [],
   "summary": "In addition, you may spend a spell point to gain 30 feet blindsense for one minute per caster level.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/mobile-bludgeon",
@@ -33802,7 +33802,7 @@
   "options": [],
   "summary": "When you use your telekinesis to make a Bludgeon attack, you may continue to move the object after the attack roll is made if it has any movement remaining.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/orbit",
@@ -33819,7 +33819,7 @@
   "options": [],
   "summary": "When you lift an object with your telekinesis and move it into your square or drop an item you are holding, you may place it in a passive orbit around you.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/pantomime-cage",
@@ -33836,7 +33836,7 @@
   "options": [],
   "summary": "You may spend a spell point to trap the target in a box made of telekinetic force.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/parry",
@@ -33853,7 +33853,7 @@
   "options": [],
   "summary": "You may use the Catch function of telekinesis to block attacks with melee weapons, though they retain their hold on their weapon even if you successfully block…",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/powerful-telekinesis",
@@ -33870,7 +33870,7 @@
   "options": [],
   "summary": "Increase the maximum-sized object or creature you may affect with telekinesis by 1 size category.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/quick-reactions",
@@ -33887,7 +33887,7 @@
   "options": [],
   "summary": "You may spend a spell point to make a telekinetic Catch as an immediate action.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/return",
@@ -33904,7 +33904,7 @@
   "options": [],
   "summary": "When you stop a ranged attack with telekinetic Catch, you may immediately fling it back at the attacker if they are in range of your telekinesis.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/seizing-strike-strike",
@@ -33923,7 +33923,7 @@
   "options": [],
   "summary": "As a standard action, you may make a single weapon attack in conjunction with using a lift.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/steal",
@@ -33940,7 +33940,7 @@
   "options": [],
   "summary": "You may use telekinesis on attended objects.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/sweeping-bludgeons",
@@ -33957,7 +33957,7 @@
   "options": [],
   "summary": "Whenever you perform a Bludgeon, instead of making an attack roll, you may choose to swing the Bludgeon in a sweeping arc at the target.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/telekinetic-crush",
@@ -33974,7 +33974,7 @@
   "options": [],
   "summary": "When using your telekinesis on a target, you may crush it with your grip.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/telekinetic-maneuver",
@@ -33991,7 +33991,7 @@
   "options": [],
   "summary": "You can use telekinesis to manipulate a target with more finesse than a Hostile Lift.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/telekinetic-push",
@@ -34008,7 +34008,7 @@
   "options": [],
   "summary": "You may throw your telekinetic power at an object, aiding or impeding its natural movement.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/telekinetic-tools",
@@ -34025,7 +34025,7 @@
   "options": [],
   "summary": "You may use your telekinesis to mimic simple tools, such as shovels, hammers, or scissors by using your telekinesis as if manipulating an item of the…",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/tether",
@@ -34042,7 +34042,7 @@
   "options": [],
   "summary": "You can create a telekinetic connection between two objects of any size, tethering them together.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/whirlwind-assembly",
@@ -34059,7 +34059,7 @@
   "options": [],
   "summary": "You can use your telekinesis to ready yourself for any given situation.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/affix",
@@ -34076,7 +34076,7 @@
   "options": [],
   "summary": "Prerequisites: Telekinesis sphere (Effortless Telekinesis (advanced), Idle Concentration), caster level 10th By spending two spell points, you may permanently…",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/astral-affixation",
@@ -34093,7 +34093,7 @@
   "options": [],
   "summary": "When you affix a target permanently in place, you may spend an additional spell point to strengthen the effect by pinning them to astral leylines.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/choking-grasp",
@@ -34110,7 +34110,7 @@
   "options": [],
   "summary": "As either a stand-alone standard action or as part of maintaining a Hostile Lift, you may spend 2 spell points to suffocate a target within your telekinesis…",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/disperse-force",
@@ -34127,7 +34127,7 @@
   "options": [],
   "summary": "You can apply an opposing force at the right times, canceling out offensive forces.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/effortless-telekinesis",
@@ -34144,7 +34144,7 @@
   "options": [],
   "summary": "When you use your telekinesis to lift creatures or objects and spend a spell point to create a Sustained Force on them, the Sustained Force persists for 1 hour…",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/focused-power",
@@ -34161,7 +34161,7 @@
   "options": [],
   "summary": "By spending a spell point you can further advance the strength of your telekinesis.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/gravity-manipulation",
@@ -34178,7 +34178,7 @@
   "options": [],
   "summary": "When you use Gravity Shift, you may spend two spell points (instead of one, if you are already spending a spell point for Gravity Shift, otherwise you must…",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/linear-acceleration",
@@ -34195,7 +34195,7 @@
   "options": [],
   "summary": "You may spend 2 spell points as a standard action to fling an object you are currently lifting at immense speeds, tying it to a target or location within line…",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/puppet",
@@ -34212,7 +34212,7 @@
   "options": [],
   "summary": "When you lift a creature with your telekinesis you may spend a spell point to take precise control over their physical form.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/alloy-telekinesis-dual-sphere",
@@ -34231,7 +34231,7 @@
   "options": [],
   "summary": "Whenever you use the (metal) geomancing Recover Ore ability, you may use telekinesis to Bludgeon another target creature or object with the metal ore recovered…",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/beam-propulsion-dual-sphere",
@@ -34250,7 +34250,7 @@
   "options": [],
   "summary": "By amplifying and focusing the tiny pressure exerted by light with your powers of telekinesis, you can move a target with the force of light alone.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/enhancing-telekinesis-dual-sphere",
@@ -34269,7 +34269,7 @@
   "options": [],
   "summary": "When you lift an object with your telekinesis, as part of the same action you may enhance it with one enhancement you possess.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/extradimensional-assembly",
@@ -34286,7 +34286,7 @@
   "options": [],
   "summary": "When you use your Whirlwind Assembly talent you may access and swap items in and out of your extradimensional storage freely, without the need to use a second…",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/floating-panoply",
@@ -34303,7 +34303,7 @@
   "options": [],
   "summary": "When you use the Enhancing Telekinesis feat, you may spend a spell point to enhance every item you lift with Divided Mind, following the restrictions of Mass…",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/forceful-creation-dual-sphere",
@@ -34322,7 +34322,7 @@
   "options": [],
   "summary": "When you create an object, you may initiate and maintain the Sustained Force or Bludgeon telekinesis abilities as part of creating the object, so long as the…",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/forceful-hand-dual-sphere",
@@ -34341,7 +34341,7 @@
   "options": [],
   "summary": "You gain a (succor) talent that lets you sacrifice an aegis to use a telekinetic effect to defend the creature that bore the aegis.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/kinetic-creation-dual-sphere",
@@ -34360,7 +34360,7 @@
   "options": [],
   "summary": "You can create items out of telekinetic force instead of matter.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/mind-against-body",
@@ -34377,7 +34377,7 @@
   "options": [],
   "summary": "You may substitute 10 + your Telekinesis sphere caster level + your casting ability modifier for your CMD when you are defending against a combat maneuver.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/piecemeal-animation-dual-sphere",
@@ -34396,7 +34396,7 @@
   "options": [],
   "summary": "When you reanimate a dead body, it does not need to be intact.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/poltergeists-malice-dual-sphere",
@@ -34415,7 +34415,7 @@
   "options": [],
   "summary": "You gain a bonus on CMB checks equal to your Poltergeist penalty when making Telekinetic Maneuver attempts against creatures suffering from your Poltergeist…",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/propulsive-creation-dual-sphere",
@@ -34434,7 +34434,7 @@
   "options": [],
   "summary": "You may spend a spell point to cause an object, gas, or liquid you alter or create to either possess a powerful attractive force or to violently repel nearby…",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/pushpull-mastery-drawback",
@@ -34453,7 +34453,7 @@
   "options": [],
   "summary": "You may use telekinesis to move objects both directly towards you and directly away from you.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/skillful-force",
@@ -34470,7 +34470,7 @@
   "options": [],
   "summary": "When using your telekinesis to perform skill checks as described in Finesse or Steal, you do not suffer the normal -5 skill check penalty.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/tactile-illusion-dual-sphere",
@@ -34489,7 +34489,7 @@
   "options": [],
   "summary": "By weaving your illusions together with a hint of telekinetic force you can allow them to exert force more appropriate to their apparent nature.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/aggressive-mind-limb-combat-protokinesis",
@@ -34509,7 +34509,7 @@
   "options": [],
   "summary": "Prerequisites: Telekinesis sphere, Mind Limb, base attack bonus +5.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/counterweight-protokinesis",
@@ -34528,7 +34528,7 @@
   "options": [],
   "summary": "By applying your telekinetic powers to your own body you can stand on surfaces that could not normally support your weight, allowing you to balance on a single…",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/equal-and-opposite-combat-protokinesis",
@@ -34548,7 +34548,7 @@
   "options": [],
   "summary": "When an enemy performs a combat maneuver against you, you may spend an immediate action to roll your own bull rush check opposing your opponent’s, using your…",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/force-shield-protokinesis",
@@ -34567,7 +34567,7 @@
   "options": [],
   "summary": "By forming a thin field of telekinetic force with your hand as a swift action you can gain a +2 shield bonus to your armor class, +1 per 5 caster levels in…",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/force-shield-improved-combat-protokinesis",
@@ -34587,7 +34587,7 @@
   "options": [],
   "summary": "The shield bonus to armor class provided by your force shield increases to +3, +1 per 5 caster levels, and while benefiting from it you count as wielding a…",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/gravitic-anomaly-protokinesis",
@@ -34606,7 +34606,7 @@
   "options": [],
   "summary": "Due to your control over your personal gravity, you can move on walls and ceilings and other surfaces as if they were the ground.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/kinetic-drift-protokinesis",
@@ -34625,7 +34625,7 @@
   "options": [],
   "summary": "You can float above the ground instead of walking.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/kinetic-juggler-protokinesis",
@@ -34644,7 +34644,7 @@
   "options": [],
   "summary": "Prerequisites: Telekinesis sphere, base attack bonus +1.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/mind-limb-protokinesis",
@@ -34663,7 +34663,7 @@
   "options": [],
   "summary": "As a swift action you can use it to draw a sheathed or hidden weapon, ready a shield, retrieve a stored item, load a crossbow, open a door, pick up an…",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/poltergeists-fingers-protokinesis",
@@ -34682,7 +34682,7 @@
   "options": [],
   "summary": "You can use your telekinetic limb to perform steal combat maneuvers and make Sleight of Hand checks to hide an object, palm a weapon, or take something…",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/remote-jostle-combat-protokinesis",
@@ -34702,7 +34702,7 @@
   "options": [],
   "summary": "As a swift action you may push a creature within close range (25 feet + 5 feet per 2 caster levels) off balance.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/telekinetic-exoskeleton-protokinesis",
@@ -34721,7 +34721,7 @@
   "options": [],
   "summary": "With your telekinesis you can supplement your physical skills.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/telekinetic-fist-combat-protokinesis",
@@ -34741,7 +34741,7 @@
   "options": [],
   "summary": "Prerequisites: Telekinesis sphere, Improved Unarmed Strike, base attack bonus +5.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/telekinetic-trigger-protokinesis",
@@ -34760,7 +34760,7 @@
   "options": [],
   "summary": "You can activate any command word, spell trigger, or spell completion magical item held in your telekinetic limb.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/telekineticat-protokinesis",
@@ -34779,7 +34779,7 @@
   "options": [],
   "summary": "You gain a familiar, as the wizard arcane bond class feature.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/touchsense-protokinesis",
@@ -34798,7 +34798,7 @@
   "options": [],
   "summary": "You can use your telekinesis to sense your surroundings, passively measuring vibrations in the ground.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/directional-control",
@@ -34815,7 +34815,7 @@
   "options": [],
   "summary": "Choose either directly towards you or directly away from you.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/flight",
@@ -34832,7 +34832,7 @@
   "options": [],
   "summary": "You can only use telekinesis to lift creatures.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/gravity",
@@ -34849,7 +34849,7 @@
   "options": [],
   "summary": "You can only gain Telekinesis talents that affect gravity such as Gravity Shift, Gravity Ward, or Gravity Well, and must choose one such talent as the bonus…",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/limited-telekinesis",
@@ -34866,7 +34866,7 @@
   "options": [],
   "summary": "You may only use your telekinesis on one type of material (water, metal, stone, etc.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/orbit",
@@ -34883,7 +34883,7 @@
   "options": [],
   "summary": "You must choose Orbit as the bonus talent gained from this drawback.",
   "file": "telekinesis.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "telekinesis/passive-telekinesis",
@@ -34900,6 +34900,1067 @@
   "options": [],
   "summary": "You must select Telekinetic Tools as the bonus talent gained from this drawback.",
   "file": "telekinesis.json",
+  "approved": true
+ },
+ {
+  "id": "time/alter-time",
+  "name": "Alter Time",
+  "kind": "sphere ability",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#alter-time",
+  "options": [
+   "Haste",
+   "Slow"
+  ],
+  "summary": "When you gain the Time sphere, you gain the following ways to alter time: Some Time talents are marked (time).",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/augment-healing",
+  "name": "Augment Healing",
+  "kind": "talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Time Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#augment-healing",
+  "options": [],
+  "summary": "When you use Haste or Slow on a creature (or group of creatures, such as with the Mass Time talent), you may spend an extra spell point to augment the natural…",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/improved-haste",
+  "name": "Improved Haste",
+  "kind": "talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Time Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#improved-haste",
+  "options": [],
+  "summary": "When you use Haste on a target, that target may either make an additional attack at their highest base attack bonus when making a full attack, or make…",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/improved-slow",
+  "name": "Improved Slow",
+  "kind": "talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Time Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#improved-slow",
+  "options": [],
+  "summary": "When you use Slow on a creature, the target also becomes staggered.",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/instill-time-instill",
+  "name": "Instill Time",
+  "kind": "talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Time Sphere Talents",
+  "tags": [],
+  "talentTags": [
+   "instill"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#instill-time-instill",
+  "options": [],
+  "summary": "As a standard action you may touch a small container of liquid and instill an alter time effect that targets a single creature or object inside it, which…",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/lingering-time",
+  "name": "Lingering Time",
+  "kind": "talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Time Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#lingering-time",
+  "options": [],
+  "summary": "When you use a time ability that requires concentration, the ability continues to maintain itself for 2 rounds after you stop concentrating.",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/mass-time-mass",
+  "name": "Mass Time",
+  "kind": "talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Time Sphere Talents",
+  "tags": [],
+  "talentTags": [
+   "mass"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#mass-time-mass",
+  "options": [],
+  "summary": "When using an alter time effect that targets creatures, you may spend an additional spell point to affect an additional 1 creature per 2 caster levels (minimum…",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/ranged-time-range",
+  "name": "Ranged Time",
+  "kind": "talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Time Sphere Talents",
+  "tags": [],
+  "talentTags": [
+   "range"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#ranged-time-range",
+  "options": [],
+  "summary": "You may select this talent multiple times.",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/retroactive-preparation",
+  "name": "Retroactive Preparation",
+  "kind": "talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Time Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#retroactive-preparation",
+  "options": [],
+  "summary": "As a standard action, you may spend a spell point to edit the past, retroactively obtaining a generic object, such as a mundane item or a commonly-available…",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/second-chance",
+  "name": "Second Chance",
+  "kind": "talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Time Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#second-chance",
+  "options": [],
+  "summary": "As an immediate action, you may spend a spell point to allow any creature currently benefiting from one of your alter time effects to reroll a saving throw…",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/temporal-trap",
+  "name": "Temporal Trap",
+  "kind": "talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Time Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#temporal-trap",
+  "options": [],
+  "summary": "You may spend a spell point to place an alter time effect onto an adjacent, unoccupied 5-foot square in addition to the normal costs of that effect.",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/time-strike-strike",
+  "name": "Time Strike",
+  "kind": "talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Time Sphere Talents",
+  "tags": [],
+  "talentTags": [
+   "strike"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#time-strike-strike",
+  "options": [],
+  "summary": "As a standard action, you may make a single weapon attack in conjunction with using an alter time effect that targets a single creature.",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/time-zone",
+  "name": "Time Zone",
+  "kind": "talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Time Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#time-zone",
+  "options": [],
+  "summary": "When activating a (time) effect that targets an area, you may adjust the affected area to one of the following shapes: - Globe: Radius of up to 10 feet + 5…",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/after-image-time",
+  "name": "After Image",
+  "kind": "talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Time Talents",
+  "tags": [
+   "time"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#after-image-time",
+  "options": [],
+  "summary": "You may cause a target to bleed through time, blurring their image so that they appear to be in multiple places at once.",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/age-time",
+  "name": "Age",
+  "kind": "talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Time Talents",
+  "tags": [
+   "time"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#age-time",
+  "options": [],
+  "summary": "You may spend a spell point to increase or decrease a target’s age by 1 category (unwilling creatures attempt a Fortitude save to negate).",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/broken-time-time",
+  "name": "Broken Time",
+  "kind": "talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Time Talents",
+  "tags": [
+   "time"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#broken-time-time",
+  "options": [],
+  "summary": "Targets who fail their saving throw take a penalty on all skill checks and attack rolls equal to 1/2 your caster level and must succeed on a concentration…",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/causality-time",
+  "name": "Causality",
+  "kind": "talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Time Talents",
+  "tags": [
+   "time"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#causality-time",
+  "options": [],
+  "summary": "You may spend a spell point to pull causality from an alternate timeline, making cause follow effect rather than the other way around.",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/delay-pain-time",
+  "name": "Delay Pain",
+  "kind": "talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Time Talents",
+  "tags": [
+   "time"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#delay-pain-time",
+  "options": [],
+  "summary": "As an immediate action, when an ally or object with your natural reach (or within Time sphere range, if you possess the Ranged Time talent) would take damage…",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/eject-time",
+  "name": "Eject",
+  "kind": "talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Time Talents",
+  "tags": [
+   "time"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#eject-time",
+  "options": [],
+  "summary": "You may spend a spell point to attempt to eject a creature from time itself for 1 round per caster level (Will negates).",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/fast-time-time",
+  "name": "Fast Time",
+  "kind": "talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Time Talents",
+  "tags": [
+   "time"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#fast-time-time",
+  "options": [],
+  "summary": "You may spend a spell point to accelerate time within a 10-foot radius burst, +5 feet per 5 caster levels.",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/lethargy-time",
+  "name": "Lethargy",
+  "kind": "talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Time Talents",
+  "tags": [
+   "time"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#lethargy-time",
+  "options": [],
+  "summary": "You may spend a spell point and make a melee or ranged touch attack against a target within range, causing them to experience a massive amount of time in a…",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/rapid-response-time",
+  "name": "Rapid Response",
+  "kind": "talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Time Talents",
+  "tags": [
+   "time"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#rapid-response-time",
+  "options": [],
+  "summary": "You grant the target a competence bonus to initiative checks equal to 1/2 your caster level (minimum 1) and the ability to act in the surprise round even if…",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/repetition-time",
+  "name": "Repetition",
+  "kind": "talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Time Talents",
+  "tags": [
+   "time"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#repetition-time",
+  "options": [],
+  "summary": "You may spend a spell point to momentarily extend time for a target, allowing them to take extra care when performing an action.",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/retry-time",
+  "name": "Retry",
+  "kind": "talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Time Talents",
+  "tags": [
+   "time"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#retry-time",
+  "options": [],
+  "summary": "As an immediate action, you may spend 2 spell points to force a target to redo their turn (Will negates if unwilling).",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/shift-time-time",
+  "name": "Shift Time",
+  "kind": "talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Time Talents",
+  "tags": [
+   "time"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#shift-time-time",
+  "options": [],
+  "summary": "You may spend a spell point to grant the target the ability to immediately take a standard, move, or swift action if they choose.",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/steal-time-time",
+  "name": "Steal Time",
+  "kind": "talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Time Talents",
+  "tags": [
+   "time"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#steal-time-time",
+  "options": [],
+  "summary": "You may spend a spell point to attempt to erase a creature’s turn from existence.",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/stretch-time-time",
+  "name": "Stretch Time",
+  "kind": "talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Time Talents",
+  "tags": [
+   "time"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#stretch-time-time",
+  "options": [],
+  "summary": "You may spend a spell point to decelerate time within a 10-foot radius burst, +5 feet per 5 caster levels.",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/time-bubble-time",
+  "name": "Time Bubble",
+  "kind": "talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Time Talents",
+  "tags": [
+   "time"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#time-bubble-time",
+  "options": [],
+  "summary": "You may spend a spell point to create a bubble of distorted time around yourself that extends outward in a sphere with a radius of up to 15-foot + 5 feet per 5…",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/time-freeze-time",
+  "name": "Time Freeze",
+  "kind": "talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Time Talents",
+  "tags": [
+   "time"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#time-freeze-time",
+  "options": [],
+  "summary": "You may spend one spell point to freeze all activity within a 10-foot radius burst, + 5 feet per 5 caster levels.",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/time-of-the-season-time",
+  "name": "Time Of The Season",
+  "kind": "talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Time Talents",
+  "tags": [
+   "time"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#time-of-the-season-time",
+  "options": [],
+  "summary": "Create a sphere with a radius of 10 feet + 5 feet per 2 caster levels centered on a creature, object, or square within reach (or within your Time sphere range,…",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/timeline-bridge-time",
+  "name": "Timeline Bridge",
+  "kind": "talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Time Talents",
+  "tags": [
+   "time"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#timeline-bridge-time",
+  "options": [],
+  "summary": "By connecting the target to versions of themselves that exist in alternate timelines, you grant the target an insight bonus on all Knowledge checks equal to…",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/advanced-rewind",
+  "name": "Advanced Rewind",
+  "kind": "advanced talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Advanced Time Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#advanced-rewind",
+  "options": [],
+  "summary": "You may use the Age (time) talent to not only alter the age of creatures or objects, but also enchantments.",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/grey-hawks-gambit",
+  "name": "Grey Hawk’s Gambit",
+  "kind": "advanced talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Advanced Time Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#grey-hawks-gambit",
+  "options": [],
+  "summary": "You may spend 1 spell point to allow this effect to continue for 1 round per caster level without concentration.",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/improved-eject-time",
+  "name": "Improved Eject",
+  "kind": "advanced talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Advanced Time Talents",
+  "tags": [
+   "time"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#improved-eject-time",
+  "options": [],
+  "summary": "You may spend 5 spell points to touch a target and attempt to permanently eject a creature from the space-time continuum unless they succeed on a Will saving…",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/past-sight-utility",
+  "name": "Past Sight",
+  "kind": "advanced talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Advanced Time Talents",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#past-sight-utility",
+  "options": [],
+  "summary": "You may spend one minute and a spell point to view the past of your present location out to close range, viewing the past hour.",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/query-self-utility",
+  "name": "Query Self",
+  "kind": "advanced talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Advanced Time Talents",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#query-self-utility",
+  "options": [],
+  "summary": "You may spend 2 spell points to reach through time to contact a possible future self.",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/reversion-utility",
+  "name": "Reversion",
+  "kind": "advanced talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Advanced Time Talents",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#reversion-utility",
+  "options": [],
+  "summary": "You gain the ability to allow a character to completely retrain the last class level they gained by returning them to an earlier point in time.",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/reversion-complete-utility",
+  "name": "Reversion, Complete",
+  "kind": "advanced talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Advanced Time Talents",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#reversion-complete-utility",
+  "options": [],
+  "summary": "When using the Reversion talent, you may allow the target to retrain any and all class levels they possess, choosing a new class, feats, spells, skills, or…",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/shuffle-time-time",
+  "name": "Shuffle Time",
+  "kind": "advanced talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Advanced Time Talents",
+  "tags": [
+   "time"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#shuffle-time-time",
+  "options": [],
+  "summary": "Prerequisites: Time sphere You adjust a target’s readiness to act.",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/temporal-haste",
+  "name": "Temporal Haste",
+  "kind": "advanced talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Advanced Time Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#temporal-haste",
+  "options": [],
+  "summary": "When applying Haste to a target, you may spend an additional spell point to grant them the ability to take 1 additional move or swift action each round for the…",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/temporal-stasis",
+  "name": "Temporal Stasis",
+  "kind": "advanced talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Advanced Time Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#temporal-stasis",
+  "options": [],
+  "summary": "You may touch a target and spend 3 spell points to place it into a state of suspended animation (Fortitude negates).",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/time-clone-time",
+  "name": "Time Clone",
+  "kind": "advanced talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Advanced Time Talents",
+  "tags": [
+   "time"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#time-clone-time",
+  "options": [],
+  "summary": "Prerequisites: Time sphere, caster level 10th.",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/timeless-cranes-hourglass-time",
+  "name": "Timeless Crane’s Hourglass",
+  "kind": "advanced talent",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Advanced Time Talents",
+  "tags": [
+   "time"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time#timeless-cranes-hourglass-time",
+  "options": [],
+  "summary": "You may spend 1 spell point to allow this effect to continue for 1 round per caster level without concentration.",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/localized-changes-dual-sphere",
+  "name": "Localized Changes",
+  "kind": "feat",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time-Sphere-Feats#localized-changes-dual-sphere",
+  "options": [],
+  "summary": "While concentrating on Time Of The Season, instead of choosing a season’s additional effects (such as spring’s overgrowth or summer’s intensified heat) you may…",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/pawstpone",
+  "name": "Pawstpone",
+  "kind": "feat",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time-Sphere-Feats#pawstpone",
+  "options": [],
+  "summary": "Whenever you cast a sphere effect, you may instead delay the sphere effect and create a temporal mote attached to either the targets of the spell or the…",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/shape-quintessence-dual-sphere",
+  "name": "Shape Quintessence",
+  "kind": "feat",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time-Sphere-Feats#shape-quintessence-dual-sphere",
+  "options": [],
+  "summary": "When you create an object, you may work with quintessence in addition to any materials you could normally work with.",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/spacetime-drift-dual-sphere",
+  "name": "Spacetime Drift",
+  "kind": "feat",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time-Sphere-Feats#spacetime-drift-dual-sphere",
+  "options": [],
+  "summary": "Whenever you affect a creature with an alter time effect, you may spend a spell point to also teleport them to any place within close range that you could…",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/spell-capacitor",
+  "name": "Spell Capacitor",
+  "kind": "feat",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time-Sphere-Feats#spell-capacitor",
+  "options": [],
+  "summary": "You may cast sphere effects into a temporary rift in time, creating a spell capacitor, storing them for a short time before discharging them simultaneously.",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/spell-capacitor-focused",
+  "name": "Spell Capacitor, Focused",
+  "kind": "feat",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time-Sphere-Feats#spell-capacitor-focused",
+  "options": [],
+  "summary": "Prerequisites: Spell Capacitor Benefit: When you store magic effects with the Spell Capacitor feat, you may choose to reduce the casting time of storing these…",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/spell-saga",
+  "name": "Spell Saga",
+  "kind": "feat",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time-Sphere-Feats#spell-saga",
+  "options": [],
+  "summary": "Prerequisites: Cascade Spell, Pawstpone Benefit: When you use Cascade Spell, you may delay the effects of specific magic sphere effects as time motes, each set…",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/stasis-storage-dual-sphere",
+  "name": "Stasis Storage",
+  "kind": "feat",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time-Sphere-Feats#stasis-storage-dual-sphere",
+  "options": [],
+  "summary": "By spending one minute in concentration, you can lock away part of your extradimensional storage, sending it beyond time and placing its contents in stasis.",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/summon-capacitor",
+  "name": "Summon Capacitor",
+  "kind": "feat",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time-Sphere-Feats#summon-capacitor",
+  "options": [],
+  "summary": "Prerequisites: Conjuration Sphere, Time Sphere, Spell Capacitor Benefit: When you summon your companion, you may release any number of your effects from your…",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/swift-demise-dual-sphere",
+  "name": "Swift Demise",
+  "kind": "feat",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time-Sphere-Feats#swift-demise-dual-sphere",
+  "options": [],
+  "summary": "You may use your Slow and Haste abilities as ghost strikes.",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/swift-warrior-combat",
+  "name": "Swift Warrior",
+  "kind": "feat",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time-Sphere-Feats#swift-warrior-combat",
+  "options": [],
+  "summary": "When targeting yourself and only yourself with an alter time effect, you gain a +1 bonus to your caster level, increasing by +1 at 5 Hit Dice and every 4 Hit…",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/altered-time",
+  "name": "Altered Time",
+  "kind": "drawback",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time-Sphere-Drawbacks#altered-time",
+  "options": [],
+  "summary": "Choose either Haste or Slow.",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/personal-time",
+  "name": "Personal Time",
+  "kind": "drawback",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time-Sphere-Drawbacks#personal-time",
+  "options": [],
+  "summary": "You may only affect yourself when using alter time abilities that affect creatures.",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/temporal-blade",
+  "name": "Temporal Blade",
+  "kind": "drawback",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time-Sphere-Drawbacks#temporal-blade",
+  "options": [],
+  "summary": "You must select the Time Strike talent with the bonus talent gained from this drawback.",
+  "file": "time.json",
+  "approved": false
+ },
+ {
+  "id": "time/temporal-brew",
+  "name": "Temporal Brew",
+  "kind": "drawback",
+  "sphere": "Time",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Time/Time-Sphere-Drawbacks#temporal-brew",
+  "options": [],
+  "summary": "You must select the Instill Time talent with the bonus talent granted by this drawback, and you can only use your Time sphere abilities through this talent.",
+  "file": "time.json",
   "approved": false
  },
  {

@@ -2801,7 +2801,7 @@ COMPENDIUM = {
     },
     "Telekinesis": {
         "system": "Spheres of Power",
-        "approved": False,
+        "approved": True,
         "pages": [
             # Telekinesis, with Bludgeon, Catch, Hostile Lift and Sustained Force (its wiki notes
             # stay in its text)
@@ -2814,6 +2814,21 @@ COMPENDIUM = {
             ("Telekinesis Sphere Drawbacks", "(page)", "drawback", 4),
         ],
         "not_options": r"^Table|^Note",
+    },
+    "Time": {
+        "system": "Spheres of Power",
+        "approved": False,
+        "pages": [
+            # Alter Time, with Haste and Slow
+            ("Time", "Alter Time", "sphere ability", 2, 4),
+            ("Time", "Time Sphere Talents", "talent", 4),
+            ("Time", "## Time Talents", "talent", 4),
+            ("Time", "Advanced Time Talents", "advanced talent", 4),
+            ("Time Sphere Feats", "(page)", "feat", 4),
+            ("Time Sphere Drawbacks", "(page)", "drawback", 4),
+        ],
+        # the note comparing Reversion and Complete Reversion
+        "not_options": r"^Table|^Note|^Reversion and Complete",
     },
     "Warleader": {
         "system": "Spheres of Might",

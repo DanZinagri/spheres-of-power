@@ -1,7 +1,7 @@
 {
  "sphere": "Telekinesis",
  "system": "Spheres of Power",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "telekinesis/telekinesis",
