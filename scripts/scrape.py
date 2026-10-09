@@ -2769,7 +2769,7 @@ COMPENDIUM = {
     },
     "Nature": {
         "system": "Spheres of Power",
-        "approved": False,
+        "approved": True,
         "pages": [
             # Geomancing, with its six packages (Air, Earth, Fire, Metal, Plant, Water)
             ("Nature", "## Geomancing", "sphere ability", 2, 4),
@@ -2781,6 +2781,23 @@ COMPENDIUM = {
             ("Nature Sphere Drawbacks", "(page)", "drawback", 4),
         ],
         "not_options": r"^Table|^Note",
+    },
+    "Protection": {
+        "system": "Spheres of Power",
+        "approved": False,
+        "pages": [
+            # Aegis (with Deflection) and Ward (with Barrier)
+            ("Protection", "## Aegis", "sphere ability", 2, 4),
+            ("Protection", "## Ward", "sphere ability", 2, 4),
+            ("Protection", "Protection Talents", "talent", 4),
+            ("Protection", "Aegis/Ward Talents", "talent", 4),
+            ("Protection", "Succor Talents", "talent", 4),
+            ("Protection", "Advanced Protection Talents", "advanced talent", 4),
+            ("Protection Sphere Feats", "(page)", "feat", 4),
+            ("Protection Sphere Drawbacks", "(page)", "drawback", 4),
+        ],
+        # the (succor) talent type note under Ward
+        "not_options": r"^Table|^Note|^Succor$",
     },
     "Warleader": {
         "system": "Spheres of Might",

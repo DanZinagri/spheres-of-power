@@ -29705,7 +29705,7 @@
   ],
   "summary": "As a standard action, you may command terrain and natural effects to act on your behalf.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/deep-nature",
@@ -29722,7 +29722,7 @@
   "options": [],
   "summary": "When you use a geomancing or spirit ability that requires concentration, the ability continues to maintain itself for 2 rounds after you stop concentrating.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/elemental-strike-strike",
@@ -29741,7 +29741,7 @@
   "options": [],
   "summary": "As a standard action, you may make a single weapon attack in conjunction with using a geomancing effect which can target a creature or object.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/environmental-presence-mass",
@@ -29760,7 +29760,7 @@
   "options": [],
   "summary": "When using a geomancing or spirit effect which targets a creature or object, you may spend an additional spell point to affect an additional 1 target per 2…",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/expanded-geomancing",
@@ -29777,7 +29777,7 @@
   "options": [],
   "summary": "Choose and gain a Nature package you do not already possess.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/grant-spirit",
@@ -29794,7 +29794,7 @@
   "options": [],
   "summary": "When activating one of your spirit Nature abilities, you may touch a willing target and grant them the benefit of your (spirit) talent, rather than gaining it…",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/instill-spirit-instill",
@@ -29813,7 +29813,7 @@
   "options": [],
   "summary": "As a standard action you may touch a small container of liquid and instill a spirit effect inside it, which functions as a potion or oil.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/ranged-geomancy-range",
@@ -29832,7 +29832,7 @@
   "options": [],
   "summary": "You may select this talent up to 2 times.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/wild-instinct",
@@ -29849,7 +29849,7 @@
   "options": [],
   "summary": "While concentrating on any Nature sphere ability, you gain the benefits of uncanny dodge.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/air-mastery-air-geomancing",
@@ -29869,7 +29869,7 @@
   "options": [],
   "summary": "When you use the Gust Of Wind ability, you may create a cone area of effect instead of a line.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/aquatic-adept-water-geomancing-spirit",
@@ -29890,7 +29890,7 @@
   "options": [],
   "summary": "You gain several abilities which improve your capacity to operate underwater.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/breeze-mastery-air-geomancing",
@@ -29910,7 +29910,7 @@
   "options": [],
   "summary": "When using Breeze, you may spend a spell point to have it affect an area, granting its benefits to all creatures within a 15-foot radius + 5 feet per 5 caster…",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/create-nature-geomancing",
@@ -29929,7 +29929,7 @@
   "options": [],
   "summary": "As an instantaneous effect, you may spend a spell point to create your geomancing element anywhere within range.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/earth-mastery-earth-geomancing",
@@ -29949,7 +29949,7 @@
   "options": [],
   "summary": "Increase the maximum radius of your Bury and Tremor by an additional 5 feet per 5 caster levels.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/elevated-nature-geomancing",
@@ -29968,7 +29968,7 @@
   "options": [],
   "summary": "When using Entangle or Tremor, you may affect flying creatures up to 10 feet per caster level over the effect.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/fire-mastery-fire-geomancing",
@@ -29988,7 +29988,7 @@
   "options": [],
   "summary": "You gain a number of ways of expressing mastery over fire.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/fog-mastery-water-geomancing",
@@ -30008,7 +30008,7 @@
   "options": [],
   "summary": "When you create Fog, you may add one of the following additional effects depending on what other packages you possess.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/hazardous-terrain-geomancing",
@@ -30027,7 +30027,7 @@
   "options": [],
   "summary": "When using the Freeze or Tremor geomancing abilities, you may cause the affected area to grow spike-like formations which last 1 round per caster level.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/manipulate-nature-geomancing",
@@ -30046,7 +30046,7 @@
   "options": [],
   "summary": "You may manipulate the elements to take on different shapes.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/metal-mastery-metal-geomancing",
@@ -30066,7 +30066,7 @@
   "options": [],
   "summary": "Whenever you use Recover Ore, you gain the ability to Recover Ore of iron, lead, or steel.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/nature-lord-geomancing",
@@ -30085,7 +30085,7 @@
   "options": [],
   "summary": "Treat your caster level as 5 higher when determining the maximum area radius and height you can affect with your geomancing abilities that affect an area (such…",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/plant-mastery-plant-geomancing",
@@ -30105,7 +30105,7 @@
   "options": [],
   "summary": "Increase the maximum radius of your Entangle by an additional 5 feet per 5 caster levels.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/primordial-branches-plant-geomancing",
@@ -30125,7 +30125,7 @@
   "options": [],
   "summary": "When you use the Pummel geomancing ability, you can add one of the following additional effects depending on what other packages you possess.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/pummel-mastery-plant-geomancing",
@@ -30145,7 +30145,7 @@
   "options": [],
   "summary": "You may direct your animated branches to attack as a free action instead of a move action.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/purify-nature-geomancing",
@@ -30164,7 +30164,7 @@
   "options": [],
   "summary": "You may purify the nature around you, making brackish water drinkable, poisonous plants edible, and hazardous air breathable.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/reforge-mastery-metal-geomancing",
@@ -30184,7 +30184,7 @@
   "options": [],
   "summary": "As a concentration effect, you may use a limited form of Reforge that can even affect attended objects.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/repress-element-geomancing",
@@ -30203,7 +30203,7 @@
   "options": [],
   "summary": "As a concentration effect, you may temporarily obliterate an element within a 5-foot radius + 5 feet per 5 caster levels area within range.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/riding-fog-water-geomancing",
@@ -30223,7 +30223,7 @@
   "options": [],
   "summary": "You may create clouds of fog attached to yourself or to other creatures.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/temperature-fire-geomancing",
@@ -30243,7 +30243,7 @@
   "options": [],
   "summary": "You gain the following geomancing abilities.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/thrown-pummel-plant-geomancing",
@@ -30263,7 +30263,7 @@
   "options": [],
   "summary": "When using the Pummel geomancing ability, the tree branches may throw vegetation as a ranged attack instead of only making melee slam attacks.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/water-mastery-water-geomancing",
@@ -30283,7 +30283,7 @@
   "options": [],
   "summary": "You may manipulate snow as if it were liquid water.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/destroy-element-spirit",
@@ -30302,7 +30302,7 @@
   "options": [],
   "summary": "As a standard action you may spend a spell point to remove and deconstruct your elements.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/dragonlung-spirit",
@@ -30321,7 +30321,7 @@
   "options": [],
   "summary": "You gain a breath weapon as a supernatural ability when you gain this talent.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/friend-to-wildlife-spirit-utility",
@@ -30342,7 +30342,7 @@
   "options": [],
   "summary": "Choose either animals or vermin.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/master-of-elements-spirit",
@@ -30361,7 +30361,7 @@
   "options": [],
   "summary": "You count as possessing three additional Nature packages of your choice when determining what (spirit) talents you can gain and use.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/natures-carapace-spirit",
@@ -30380,7 +30380,7 @@
   "options": [],
   "summary": "You may spend a spell point as a move action to wrap an element around yourself for 1 minute per caster level.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/natures-movement-spirit",
@@ -30399,7 +30399,7 @@
   "options": [],
   "summary": "You may spend a standard action to gain one of the following benefits for 1 round.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/natures-weapon-spirit",
@@ -30418,7 +30418,7 @@
   "options": [],
   "summary": "You may perform one of the following special attacks or gain one of the following benefits.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/nature-sight-spirit",
@@ -30437,7 +30437,7 @@
   "options": [],
   "summary": "You may gain a supernatural sense depending on what Nature packages you possess for as long as you concentrate, or you may spend a spell point to gain the…",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/rejuvenation-spirit",
@@ -30456,7 +30456,7 @@
   "options": [],
   "summary": "As a standard action, you may heal yourself an amount equal to 1/2 your caster level (minimum 1) per round for as long as you concentrate.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/resist-elements-spirit",
@@ -30475,7 +30475,7 @@
   "options": [],
   "summary": "As a swift or move action, you may grant yourself one of the following benefits for 1 round, depending on what packages you possess.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/ride-the-elements-spirit",
@@ -30494,7 +30494,7 @@
   "options": [],
   "summary": "You may spend a spell point as a move action to increase or decrease your movement speeds by 10 feet + 10 feet per 5 caster levels (applying to all movement…",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/speak-with-the-elements-spirit-utility",
@@ -30515,7 +30515,7 @@
   "options": [],
   "summary": "You may spend a spell point to commune with the elements for 1 minute per caster level.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/speak-with-wildlife-spirit-utility",
@@ -30536,7 +30536,7 @@
   "options": [],
   "summary": "Choose either animals or vermin.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/wreath-of-elements-spirit",
@@ -30555,7 +30555,7 @@
   "options": [],
   "summary": "As an immediate action, (or a free action usable even when it is not your turn by spending a spell point) you may reach out with one of your elements.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/cyclone-air-geomancing",
@@ -30575,7 +30575,7 @@
   "options": [],
   "summary": "As a concentration effect, you may spend 2 spell points to create a powerful cyclone of raging wind that moves through the air, along the ground, or over water…",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/earthquake-earth-geomancing",
@@ -30595,7 +30595,7 @@
   "options": [],
   "summary": "As an instantaneous effect, you may spend 3 spell points to create an earthquake, affecting an 80-foot radius area.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/eternal-steel-metal-and-plant-geomancing",
@@ -30615,7 +30615,7 @@
   "options": [],
   "summary": "As a standard action, you may spend 3 spell points to permanently grant one metal creature or metal object regeneration 1 (acid).",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/freezing-geyser-fire-water-geomancing",
@@ -30636,7 +30636,7 @@
   "options": [],
   "summary": "As a concentration effect, you may spend 2 spell points to create an eruption coming from a 10- foot square of solid ground within range.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/living-steel-metal-and-plant-geomancing",
@@ -30656,7 +30656,7 @@
   "options": [],
   "summary": "As an instantaneous effect, you may as a standard action spend 2 spell points to permanently grant the effects of living steel to a metal creature or object…",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/materials-of-legend-metal-geomancing",
@@ -30676,7 +30676,7 @@
   "options": [],
   "summary": "You may spend 2 additional spell points when using your Recover Ore ability, if you do you may treat the ore in the ground so that when it surfaces, you…",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/natural-ally-spirit",
@@ -30695,7 +30695,7 @@
   "options": [],
   "summary": "As an instantaneous effect, you may, as a standard action, spend 3 spell points to call a specific fey, magical beast, plant or vermin of a type you designate…",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/peace-and-love-spirit",
@@ -30714,7 +30714,7 @@
   "options": [],
   "summary": "All enemies within this aura take a -1 penalty on any attack rolls they make.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/persistent-fog-cloud-water-spirit",
@@ -30734,7 +30734,7 @@
   "options": [],
   "summary": "You may spend 2 additional spell points when using the (water) geomancing Fog ability to change the duration of the fog from concentration to permanent.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/phoenix-resurgence-fire-spirit",
@@ -30754,7 +30754,7 @@
   "options": [],
   "summary": "In response to gaining the disabled or dying condition, as an instantaneous effect, you may as an immediate action spend 3 spell points to explode into a ball…",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/rapid-growth-plant-geomancing",
@@ -30774,7 +30774,7 @@
   "options": [],
   "summary": "You may spend 3 spell points to create a massive growth of plantlife.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/tsunami-water-geomancing",
@@ -30794,7 +30794,7 @@
   "options": [],
   "summary": "Hardness does not reduce this damage, nor is it halved as damage dealt to objects normally is.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/volcano-fire-geomancing",
@@ -30814,7 +30814,7 @@
   "options": [],
   "summary": "As a concentration effect, you may spend 2 spell points to call lava up from deep within the earth.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/whispering-elements-geomancing-utility",
@@ -30835,7 +30835,7 @@
   "options": [],
   "summary": "As an instantaneous effect, you may as a standard action spend a spell point to send a message or sound through an element corresponding to a package you…",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/wildfire-fire",
@@ -30854,7 +30854,7 @@
   "options": [],
   "summary": "When using affect fire, you may spend 3 spell points to send forth a burst of heat that targets everything within a radius of 1000 feet + 100 feet per caster…",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/zoetic-geomancy",
@@ -30871,7 +30871,7 @@
   "options": [],
   "summary": "As an instantaneous effect you may spend 10 minutes and 3 spell points to target a portion of material within close range from one of your packages to create a…",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/alloy-creation-dual-sphere",
@@ -30890,7 +30890,7 @@
   "options": [],
   "summary": "When using your Creation sphere abilities, you may create and alter objects made from metals you can summon with your Recover Ore Nature sphere ability, even…",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/alloy-enhancement-dual-sphere",
@@ -30909,7 +30909,7 @@
   "options": [],
   "summary": "Whenever you use a (metal) geomancing ability which creates or affects metal (such as Recover Ore) you may choose to enhance the metal via the Enhancement…",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/alloy-telekinesis-dual-sphere",
@@ -30928,7 +30928,7 @@
   "options": [],
   "summary": "Whenever you use the (metal) geomancing Recover Ore ability, you may use telekinesis to Bludgeon another target creature or object with the metal ore recovered…",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/coastal-infusion",
@@ -30945,7 +30945,7 @@
   "options": [],
   "summary": "When using either the (earth) package or the (water) package within close range of both land and a substantial body of water (such as a lake, river, ocean, or…",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/fan-the-flame-dual-sphere",
@@ -30964,7 +30964,7 @@
   "options": [],
   "summary": "When a creature is set on fire by your fire blast, the fire does not deal 1d6 damage the following round, but rather deals damage equal to the largest fire you…",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/fertilize-nature",
@@ -30981,7 +30981,7 @@
   "options": [],
   "summary": "Prerequisites: Nature sphere ((earth) package, (plant) package).",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/formulae-geomancing",
@@ -30998,7 +30998,7 @@
   "options": [],
   "summary": "You may read and use an alchemist’s formulae book, creating extracts for use during the day as an alchemist does.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/hemothermia-dual-sphere",
@@ -31017,7 +31017,7 @@
   "options": [],
   "summary": "You gain the following two (blood arts), which allow you to alter the temperature of the target’s blood.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/imbue-with-nature-dual-sphere",
@@ -31036,7 +31036,7 @@
   "options": [],
   "summary": "When using a (blast type) talent from a blast type category corresponding to a geomancing talent you possess, you may increase the casting time by one step or…",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/luminous-flame-dual-sphere",
@@ -31055,7 +31055,7 @@
   "options": [],
   "summary": "Whenever you use the Create Fire or Affect Fire geomancing ability, you may also cause the fire to glow.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/mage-of-ice-and-rime",
@@ -31072,7 +31072,7 @@
   "options": [],
   "summary": "You gain resistance to cold equal to 1/2 your MSB (rounded down, this stacks with any other cold resistance you have).",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/mage-of-spore-and-fungus",
@@ -31089,7 +31089,7 @@
   "options": [],
   "summary": "See General Feats for the full feat .",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/march-of-the-treants-dual-sphere",
@@ -31108,7 +31108,7 @@
   "options": [],
   "summary": "Whenever you cast Pummel, you may choose to spend an additional spell point to enhance the target, allowing the tree to uproot itself (or break free from the…",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/material-infusion-dual-sphere",
@@ -31127,7 +31127,7 @@
   "options": [],
   "summary": "When using a destructive blast that deals bludgeoning, piercing, or slashing damage, you may choose to have the blast count as cold iron or silver.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/natures-enhancement-dual-sphere",
@@ -31146,7 +31146,7 @@
   "options": [],
   "summary": "Whenever you enhance a creature, you may also imbue the target with a non-instantaneous spirit ability.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/primal-admixture-admixture",
@@ -31165,7 +31165,7 @@
   "options": [],
   "summary": "When using Admixture, you may spend an additional spell point to affect one target damaged by the destructive blast with a geomancing or spirit effect which…",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/primal-blast-dual-sphere",
@@ -31184,7 +31184,7 @@
   "options": [],
   "summary": "When using a (blast type) talent from a blast type category corresponding to a geomancing talent you possess, you may add your casting ability modifier to any…",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/smolder-resin",
@@ -31201,7 +31201,7 @@
   "options": [],
   "summary": "Prerequisites: Nature sphere ((fire) package and (plant) package).",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/spirit-form-dual-sphere",
@@ -31220,7 +31220,7 @@
   "options": [],
   "summary": "When you use shapeshift on a creature, you may also imbue the target with a non-instantaneous spirit ability.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/steam-geomancing",
@@ -31237,7 +31237,7 @@
   "options": [],
   "summary": "When using any Nature sphere ability that deals cold or fire damage, you may change the damage to half cold damage and half fire damage.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/supernatural-elements-dual-sphere",
@@ -31256,7 +31256,7 @@
   "options": [],
   "summary": "Whenever you create a geomancing or spirit effect, you may change its damage type to a damage type corresponding to a (blast type) talent you possess.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/sylvan-necromancy-dual-sphere",
@@ -31275,7 +31275,7 @@
   "options": [],
   "summary": "You can use your (plant) geomancing abilities on corpses instead of plants.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/terrain-focus-drawback",
@@ -31294,7 +31294,7 @@
   "options": [],
   "summary": "Choose one of the following terrains: Cold, Desert, Forest, Jungle, Mountain, Plains, Planes (pick one, other than the Material Plane), Swamp, Underground,…",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/terrain-strider",
@@ -31311,7 +31311,7 @@
   "options": [],
   "summary": "Gain a +4 circumstance bonus to saving throws against any Nature sphere talents or abilities from a package you possess.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/water-manipulator-dual-sphere",
@@ -31330,7 +31330,7 @@
   "options": [],
   "summary": "You gain the benefits of Water Creature as a (spirit) talent; you may use them at any time without needing to activate a fey-blessing first.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/wildspeaker",
@@ -31347,7 +31347,7 @@
   "options": [],
   "summary": "You gain the benefits of your Speak With Wildlife talent as a constant sphere-like effect, and may suppress or resume this ability as a standard action.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/world-in-miniature",
@@ -31364,7 +31364,7 @@
   "options": [],
   "summary": "By increasing the action of geomancing by one step, you can simultaneously open a portal to your world to access the elements within.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/holistic-brew",
@@ -31381,7 +31381,7 @@
   "options": [],
   "summary": "You must select the Instill Spirit talent with the bonus talent granted by this drawback, and you can only use your Nature sphere abilities through this talent.",
   "file": "nature.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "nature/limited-nature",
@@ -31398,6 +31398,2076 @@
   "options": [],
   "summary": "You gain only a single geomancing ability of your starting Nature package.",
   "file": "nature.json",
+  "approved": true
+ },
+ {
+  "id": "protection/aegis",
+  "name": "Aegis",
+  "kind": "sphere ability",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#aegis",
+  "options": [
+   "Deflection"
+  ],
+  "summary": "As a standard action, you may touch a creature and spend a spell point, granting them an aegis for 1 hour per caster level.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/ward",
+  "name": "Ward",
+  "kind": "sphere ability",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#ward",
+  "options": [
+   "Barrier"
+  ],
+  "summary": "As a standard action, you may create a ward centered on yourself with a radius of up to 10 feet + 5 feet per caster level, but can also be made so small as to…",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/buttressing",
+  "name": "Buttressing",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Protection Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#buttressing",
+  "options": [],
+  "summary": "You may repair any barrier you created (including those created using Greater Barrier) causing it to regain a number of hit points equal to twice your caster…",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/community",
+  "name": "Community",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Protection Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#community",
+  "options": [],
+  "summary": "So long as you are on the same plane and are aware of it happening, whenever a creature under one of your aegises takes damage, you may spend a spell point as…",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/continuous-ward",
+  "name": "Continuous Ward",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Protection Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#continuous-ward",
+  "options": [],
+  "summary": "Wards you create may be completely sealed spheres.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/distant-protection-range",
+  "name": "Distant Protection",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Protection Talents",
+  "tags": [],
+  "talentTags": [
+   "range"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#distant-protection-range",
+  "options": [],
+  "summary": "When creating a ward, you may center it anywhere within close range.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/durable-barrier",
+  "name": "Durable Barrier",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Protection Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#durable-barrier",
+  "options": [],
+  "summary": "Barriers you create reduce all bludgeoning, piercing, and slashing damage dealt to it by an amount equal to half your caster level (minimum 1).",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/enduring-protection",
+  "name": "Enduring Protection",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Protection Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#enduring-protection",
+  "options": [],
+  "summary": "When you spend a spell point to make a ward last without concentration, it lasts 1 minute per caster level.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/fortifier",
+  "name": "Fortifier",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Protection Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#fortifier",
+  "options": [],
+  "summary": "You may apply an aegis or succor to an object as if it were a creature.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/glyph",
+  "name": "Glyph",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Protection Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#glyph",
+  "options": [],
+  "summary": "At the time of casting a ward you may choose to shape the ward into a glyph: a magical trap whose effects are not immediately active until triggered.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/greater-barrier",
+  "name": "Greater Barrier",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Protection Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#greater-barrier",
+  "options": [],
+  "summary": "You may fashion your barrier into a flat plane if you so choose.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/instill-aegis-instill",
+  "name": "Instill Aegis",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Protection Talents",
+  "tags": [],
+  "talentTags": [
+   "instill"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#instill-aegis-instill",
+  "options": [],
+  "summary": "As a standard action you may touch a small container of liquid and instill an aegis inside it, which functions as a potion or oil.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/lingering-succor",
+  "name": "Lingering Succor",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Protection Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#lingering-succor",
+  "options": [],
+  "summary": "Whenever you use a (succor) talent, the effects of the aegis sacrificed do not end until the end of your second turn.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/mass-aegis-mass",
+  "name": "Mass Aegis",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Protection Talents",
+  "tags": [],
+  "talentTags": [
+   "mass"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#mass-aegis-mass",
+  "options": [],
+  "summary": "When using an aegis, you may spend an additional spell point to affect an additional 1 creature per 2 caster levels (minimum 1) with the aegis at the same time.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/persistent-succor",
+  "name": "Persistent Succor",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Protection Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#persistent-succor",
+  "options": [],
+  "summary": "Whenever you use a (succor) talent that sacrifices an aegis, you may instead spend two spell points in place of sacrificing the aegis.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/reactive-barrier",
+  "name": "Reactive Barrier",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Protection Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#reactive-barrier",
+  "options": [],
+  "summary": "When you create a barrier, you may spend a spell point or increase the casting time by one step (usually from a standard to a full-round action) to allow the…",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/selective-barrier",
+  "name": "Selective Barrier",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Protection Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#selective-barrier",
+  "options": [],
+  "summary": "When you create a barrier, you may spend a spell point to make its structure more complicated, allowing certain kinds of activities to pass through the barrier.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/shaped-ward",
+  "name": "Shaped Ward",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Protection Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#shaped-ward",
+  "options": [],
+  "summary": "When you create a ward, you may alter its shape so that it takes the form of a close-range cone or a medium-range line, each emanating from yourself (or from…",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/shared-aegis",
+  "name": "Shared Aegis",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Protection Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#shared-aegis",
+  "options": [],
+  "summary": "This requires active effort from the creature wearing the aegis, and they can not use their aegis to defend another creature if they would be denied their…",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/status-utility",
+  "name": "Status",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Protection Talents",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#status-utility",
+  "options": [],
+  "summary": "You always know the direction and distance to all creatures benefiting from your aegises and are aware of any conditions affecting them (confused, disabled,…",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/ablating-aegis",
+  "name": "Ablating",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "aegis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#ablating-aegis",
+  "options": [],
+  "summary": "You may create an aegis that has a chance of negating attacks against the protected creature.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/armored-magic-aegis",
+  "name": "Armored Magic",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "aegis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#armored-magic-aegis",
+  "options": [],
+  "summary": "You may create an aegis that wraps the target in protective barriers, granting them either a +3 armor bonus or a +1 shield bonus to AC (your choice).",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/breathless-aegis",
+  "name": "Breathless",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "aegis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#breathless-aegis",
+  "options": [],
+  "summary": "You may create an aegis that suspends the body’s needs.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/clarity-ward",
+  "name": "Clarity",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "ward"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#clarity-ward",
+  "options": [],
+  "summary": "Within the area of this ward, attempts to conceal, obfuscate, or disguise oneself are hindered.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/deathless-aegis",
+  "name": "Deathless",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "aegis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#deathless-aegis",
+  "options": [],
+  "summary": "You may create an aegis that blocks direct attacks on one’s life.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/destructionless-aegis",
+  "name": "Destructionless",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "aegis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#destructionless-aegis",
+  "options": [],
+  "summary": "You may create an aegis that protects against direct magical attacks.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/energy-resistance-aegis-ward",
+  "name": "Energy Resistance",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "aegis",
+   "ward"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#energy-resistance-aegis-ward",
+  "options": [],
+  "summary": "You may create a ward that suppresses one energy type of your choice (acid, cold, electricity, fire, or sonic).",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/exclusion-ward",
+  "name": "Exclusion",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "ward"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#exclusion-ward",
+  "options": [],
+  "summary": "You can create a ward that prevents entry of a common material or element chosen when you create the ward.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/eyeless-aegis",
+  "name": "Eyeless",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "aegis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#eyeless-aegis",
+  "options": [],
+  "summary": "You may create an aegis that protects against effects dependent on light, dark, or that attack the senses.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/fateless-aegis",
+  "name": "Fateless",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "aegis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#fateless-aegis",
+  "options": [],
+  "summary": "You may create an aegis that protects against tugs on the strands of fate.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/friendship-aegis",
+  "name": "Friendship",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "aegis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#friendship-aegis",
+  "options": [],
+  "summary": "You may create an aegis that gives a creature special protection from the spell, spell-like, sphere and supernatural abilities of his allies.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/guardian-aegis",
+  "name": "Guardian",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "aegis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#guardian-aegis",
+  "options": [],
+  "summary": "You may create an aegis that draws harmful attention to its bearer and away from their allies.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/impartiality-aegis-ward",
+  "name": "Impartiality",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "aegis",
+   "ward"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#impartiality-aegis-ward",
+  "options": [],
+  "summary": "Creatures within this ward or bearing this aegis are treated as having no alignment for all magical effects.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/impedance-aegis-ward",
+  "name": "Impedance",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "aegis",
+   "ward"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#impedance-aegis-ward",
+  "options": [],
+  "summary": "You may create a ward that makes it difficult for creatures to approach the center of the ward.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/inner-peace-aegis",
+  "name": "Inner Peace",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "aegis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#inner-peace-aegis",
+  "options": [],
+  "summary": "You may create an aegis that grants the target a +4 morale bonus to saving throws against all fear, emotional and mind-affecting abilities, both magical or…",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/iron-shield-aegis",
+  "name": "Iron Shield",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "aegis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#iron-shield-aegis",
+  "options": [],
+  "summary": "You may create an aegis that protects against the forces of nature.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/logic-ward",
+  "name": "Logic",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "ward"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#logic-ward",
+  "options": [],
+  "summary": "This ward presents subtle inconsistencies and misdirections that prevent entry.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/magnetic-shield-ward",
+  "name": "Magnetic Shield",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "ward"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#magnetic-shield-ward",
+  "options": [],
+  "summary": "Creatures within this ward have damage reduction equal to your caster level against all metal weapons or metal tipped weapons, with the exception of silver…",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/mettle-aegis",
+  "name": "Mettle",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "aegis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#mettle-aegis",
+  "options": [],
+  "summary": "A creature with this aegis receives an untyped bonus to their AC equal to 5 + your caster level against critical hit confirmation rolls.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/missile-shield-ward",
+  "name": "Missile Shield",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "ward"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#missile-shield-ward",
+  "options": [],
+  "summary": "You may create a ward that protects creatures within from projectiles, including projectile weapons, thrown rocks, rays made up of projectiles (such as created…",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/mystic-shell-aegis",
+  "name": "Mystic Shell",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "aegis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#mystic-shell-aegis",
+  "options": [],
+  "summary": "You may create an aegis that protects magical effects on the character.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/obscurity-aegis-ward",
+  "name": "Obscurity",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "aegis",
+   "ward"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#obscurity-aegis-ward",
+  "options": [],
+  "summary": "Creatures with this aegis or within this ward appear unremarkable and unimportant to those around them.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/obstruction-aegis",
+  "name": "Obstruction",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "aegis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#obstruction-aegis",
+  "options": [],
+  "summary": "You may create an aegis that absorbs damage.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/painful-aegis-aegis",
+  "name": "Painful Aegis",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "aegis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#painful-aegis-aegis",
+  "options": [],
+  "summary": "You may create an aegis that inflicts pain on creatures that hurt its bearer.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/peacebound-aegis-ward",
+  "name": "Peacebound",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "aegis",
+   "ward"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#peacebound-aegis-ward",
+  "options": [],
+  "summary": "You may create a ward that renders all creatures within incapable of causing violence.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/plexing-aegis-aegis",
+  "name": "Plexing Aegis",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "aegis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#plexing-aegis-aegis",
+  "options": [],
+  "summary": "A Plexing aegis offers no specific protection until activated, but at any time during its duration you may spend an immediate action to activate it, turning it…",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/quantum-lock-ward",
+  "name": "Quantum Lock",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "ward"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#quantum-lock-ward",
+  "options": [],
+  "summary": "You may create a ward that represses all effects that alter reality, including sphere abilities that change the rate of time, teleportation, gravitational…",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/ray-deflection-aegis",
+  "name": "Ray Deflection",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "aegis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#ray-deflection-aegis",
+  "options": [],
+  "summary": "Whenever a ray attack is used against a creature with this aegis, there is a 20% chance the ray will be deflected back at the caster.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/repel-chaosevilgoodlaw-ward",
+  "name": "Repel Chaos/Evil/Good/Law",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "ward"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#repel-chaosevilgoodlaw-ward",
+  "options": [],
+  "summary": "You may create a ward that repels creatures of one end of the alignment spectrum (chaotic, evil, good, lawful), chosen by you when this ward is created.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/resist-transformation-aegis",
+  "name": "Resist Transformation",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "aegis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#resist-transformation-aegis",
+  "options": [],
+  "summary": "You may create an aegis that holds the target’s shape together.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/resistance-aegis",
+  "name": "Resistance",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "aegis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#resistance-aegis",
+  "options": [],
+  "summary": "You may create an aegis that grants +1 resistance bonus to all saving throws.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/slippery-aegis",
+  "name": "Slippery",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "aegis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#slippery-aegis",
+  "options": [],
+  "summary": "You may create an aegis that protects a creature from being physically restrained or manipulated.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/spell-ward-aegis-ward",
+  "name": "Spell Ward",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "aegis",
+   "ward"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#spell-ward-aegis-ward",
+  "options": [],
+  "summary": "You may spend a spell point to create a ward that represses all magic within its area of effect.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/stabilize-aegis",
+  "name": "Stabilize",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Aegis/Ward Talents",
+  "tags": [
+   "aegis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#stabilize-aegis",
+  "options": [],
+  "summary": "You may create an aegis that stabilizes the target against planar effects or effects that warp time and space.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/blast-shield-succor",
+  "name": "Blast Shield",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Succor Talents",
+  "tags": [
+   "succor"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#blast-shield-succor",
+  "options": [],
+  "summary": "As an immediate action, you may dismiss an aegis on an ally to give them energy resistance to all types of energy damage equal to your caster level until the…",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/bulwark-succor",
+  "name": "Bulwark",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Succor Talents",
+  "tags": [
+   "succor"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#bulwark-succor",
+  "options": [],
+  "summary": "As an immediate action, you may dismiss an aegis on an ally to give them DR/- equal to your caster level until the beginning of your next turn.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/healing-aegis-succor",
+  "name": "Healing Aegis",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Succor Talents",
+  "tags": [
+   "succor"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#healing-aegis-succor",
+  "options": [],
+  "summary": "As an immediate action, you may dismiss one or more of your aegises on a target, healing that target for an amount equal to your casting ability modifier +…",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/helping-hand-succor",
+  "name": "Helping Hand",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Succor Talents",
+  "tags": [
+   "succor"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#helping-hand-succor",
+  "options": [],
+  "summary": "As an immediate action, you may dismiss an aegis on a target to allow them to reroll a skill or ability check they just made before the results are revealed.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/luck-succor",
+  "name": "Luck",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Succor Talents",
+  "tags": [
+   "succor"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#luck-succor",
+  "options": [],
+  "summary": "As an immediate action, you may dismiss an aegis on a target to allow them to reroll a saving throw they have just made.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/negation-succor",
+  "name": "Negation",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Succor Talents",
+  "tags": [
+   "Succor"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#negation-succor",
+  "options": [],
+  "summary": "When a creature with an aegis you created becomes the target of an attack or sphere effect, you may spend a spell point and sacrifice an aegis they are bearing…",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/punishment-succor",
+  "name": "Punishment",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Succor Talents",
+  "tags": [
+   "succor"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#punishment-succor",
+  "options": [],
+  "summary": "When a creature successfully hits a creature you have placed an aegis on with an attack, you may sacrifice an aegis they are bearing as an immediate action to…",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/reflection-succor",
+  "name": "Reflection",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Succor Talents",
+  "tags": [
+   "succor"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#reflection-succor",
+  "options": [],
+  "summary": "When a creature with an aegis you created becomes the target of a spell or sphere ability that affects only them, you may spend a spell point and sacrifice an…",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/vengeance-succor",
+  "name": "Vengeance",
+  "kind": "talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Succor Talents",
+  "tags": [
+   "succor"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#vengeance-succor",
+  "options": [],
+  "summary": "When an enemy you can see successfully hits a creature you have placed an aegis on with an attack, you may sacrifice an aegis they are bearing as an immediate…",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/adaptation-aegis",
+  "name": "Adaptation",
+  "kind": "advanced talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Advanced Protection Talents",
+  "tags": [
+   "aegis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#adaptation-aegis",
+  "options": [],
+  "summary": "You may spend 2 spell points to grant a target an aegis that makes them immune to one damage type of your choice (acid, cold, electricity, fire, or sonic).",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/antimagic-aura",
+  "name": "Antimagic Aura",
+  "kind": "advanced talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Advanced Protection Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#antimagic-aura",
+  "options": [],
+  "summary": "When creating a Spell Ward, you may spend an additional spell point to improve the ward’s abilities: The ward stops all magic and summoned creatures without…",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/automatic-fortification",
+  "name": "Automatic Fortification",
+  "kind": "advanced talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Advanced Protection Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#automatic-fortification",
+  "options": [],
+  "summary": "Prerequisites: Protection sphere (Fortifier), caster level 5th Whenever you create an item using a magic sphere effect (or when you create any sphere effect,…",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/complex-glyph",
+  "name": "Complex Glyph",
+  "kind": "advanced talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Advanced Protection Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#complex-glyph",
+  "options": [],
+  "summary": "When you create a glyph, you may substitute an ability that you possess from another sphere in place of a ward.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/improved-negation",
+  "name": "Improved Negation",
+  "kind": "advanced talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Advanced Protection Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#improved-negation",
+  "options": [],
+  "summary": "Prerequisites: Protection sphere (Negation (succor)), caster level 10th When you attempt a magic skill check using negation, you may dispel one additional…",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/mobile-ward",
+  "name": "Mobile Ward",
+  "kind": "advanced talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Advanced Protection Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#mobile-ward",
+  "options": [],
+  "summary": "When you move, you may have any ward that you have cast move so that it remains centered on you.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/layered-glyph",
+  "name": "Layered Glyph",
+  "kind": "advanced talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Advanced Protection Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#layered-glyph",
+  "options": [],
+  "summary": "Prerequisites: Protection sphere (glyph) When you create a glyph, you may place multiple glyphs in the same location as part of a single casting, paying the…",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/permanent-ward",
+  "name": "Permanent Ward",
+  "kind": "advanced talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Advanced Protection Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#permanent-ward",
+  "options": [],
+  "summary": "When creating a ward, you may spend 2 spell points to increase its duration to permanent.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/pithing-protection",
+  "name": "Pithing Protection",
+  "kind": "advanced talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Advanced Protection Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#pithing-protection",
+  "options": [],
+  "summary": "When you use Spell Selectivity to affect one or more specific spheres or schools of magic (rather than nullify all except a chosen number of spheres), you may…",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/planar-refuge-aegis-ward",
+  "name": "Planar Refuge",
+  "kind": "advanced talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Advanced Protection Talents",
+  "tags": [
+   "aegis",
+   "ward"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#planar-refuge-aegis-ward",
+  "options": [],
+  "summary": "You may create a ward that protects against and grants immunity to harmful environmental effects, such as extreme temperatures, toxicity, and lack of air.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/preserve-integrity-aegis",
+  "name": "Preserve Integrity",
+  "kind": "advanced talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Advanced Protection Talents",
+  "tags": [
+   "aegis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#preserve-integrity-aegis",
+  "options": [],
+  "summary": "You may grant the target an aegis that makes them immune to ability damage and ability drain.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/rapid-glyph",
+  "name": "Rapid Glyph",
+  "kind": "advanced talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Advanced Protection Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#rapid-glyph",
+  "options": [],
+  "summary": "Prerequisites: Protection sphere (glyph) You may create a glyph as a standard action rather than using the normal casting time.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/spell-eater-aegis",
+  "name": "Spell-Eater",
+  "kind": "advanced talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Advanced Protection Talents",
+  "tags": [
+   "aegis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#spell-eater-aegis",
+  "options": [],
+  "summary": "Prerequisites: Protection sphere (Negation (succor)), caster level 10th You may spend 3 spell points to create an aegis that absorbs magic effects on attackers.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/spell-selectivity",
+  "name": "Spell Selectivity",
+  "kind": "advanced talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Advanced Protection Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#spell-selectivity",
+  "options": [],
+  "summary": "Whenever you create a Spell Ward as an aegis or ward, you may spend an additional spell point to choose one sphere of magic plus an additional one for every 5…",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/subtle-aegis",
+  "name": "Subtle",
+  "kind": "advanced talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Advanced Protection Talents",
+  "tags": [
+   "aegis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#subtle-aegis",
+  "options": [],
+  "summary": "Prerequisites: Protection sphere, caster level 5th.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/true-protection",
+  "name": "True Protection",
+  "kind": "advanced talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Advanced Protection Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#true-protection",
+  "options": [],
+  "summary": "Whenever you create an aegis or ward, you may tie it to a specific creature.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/undying-aegis",
+  "name": "Undying",
+  "kind": "advanced talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Advanced Protection Talents",
+  "tags": [
+   "aegis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#undying-aegis",
+  "options": [],
+  "summary": "When you create a Deathless aegis, you may spend an additional spell point to create an Undying aegis instead.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/unplottable-aegis",
+  "name": "Unplottable",
+  "kind": "advanced talent",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Advanced Protection Talents",
+  "tags": [
+   "aegis"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection#unplottable-aegis",
+  "options": [],
+  "summary": "You may grant the target an aegis that makes them undetectable through divination magic of any sort.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/benevolence-dual-sphere",
+  "name": "Benevolence",
+  "kind": "feat",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Feats#benevolence-dual-sphere",
+  "options": [],
+  "summary": "Whenever an ally within range of your cure ability that is under the effects of an aegis is damaged, you may spend a spell point as an immediate action to heal…",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/blurred-boundary-dual-sphere",
+  "name": "Blurred Boundary",
+  "kind": "feat",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Feats#blurred-boundary-dual-sphere",
+  "options": [],
+  "summary": "When creating a non-trick glamer you may also grant the effects of a single aegis you possess to the target.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/catty-observer",
+  "name": "Catty Observer",
+  "kind": "feat",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Feats#catty-observer",
+  "options": [],
+  "summary": "” – Meowlin the Omnicatster Prerequisites: Life sphere (Diagnose) or Protection sphere (Status); magic skill bonus +3.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/companionship",
+  "name": "Companionship",
+  "kind": "feat",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Feats#companionship",
+  "options": [],
+  "summary": "When you use an aegis on an ally, they are considered physically closer to you.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/confining-circle",
+  "name": "Confining Circle",
+  "kind": "feat",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Feats#confining-circle",
+  "options": [],
+  "summary": "When you create a Repel ward, you may invert it, so that creatures of the repelled alignment can enter freely, but must attempt a Will saving throw to leave…",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/defensive-vigilance-dual-sphere",
+  "name": "Defensive Vigilance",
+  "kind": "feat",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Feats#defensive-vigilance-dual-sphere",
+  "options": [],
+  "summary": "While an ally is within the area of one of your wards, you may rally that ally.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/dimensional-aegis-dual-sphere",
+  "name": "Dimensional Aegis",
+  "kind": "feat",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Feats#dimensional-aegis-dual-sphere",
+  "options": [],
+  "summary": "You gain a (succor) talent that lets you sacrifice an aegis borne by an ally other than yourself to swap places with them by teleporting.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/energy-reflection",
+  "name": "Energy Reflection",
+  "kind": "feat",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Feats#energy-reflection",
+  "options": [],
+  "summary": "Whenever a creature attacks the bearer of your Energy Resistance aegis, and the damage is reduced by that aegis, you may choose for that creature to suffer…",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/enmity-ward",
+  "name": "Enmity Ward",
+  "kind": "feat",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Feats#enmity-ward",
+  "options": [],
+  "summary": "You may create a ward that repels all your favored enemies, as the Repel ward.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/forceful-hand-dual-sphere",
+  "name": "Forceful Hand",
+  "kind": "feat",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Feats#forceful-hand-dual-sphere",
+  "options": [],
+  "summary": "You gain a (succor) talent that lets you sacrifice an aegis to use a telekinetic effect to defend the creature that bore the aegis.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/graphomancy",
+  "name": "Graphomancy",
+  "kind": "feat",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Feats#graphomancy",
+  "options": [],
+  "summary": "When you create a ward, you gain a bonus to your caster level equal to half the number of ranks you have in the Craft (calligraphy) skill, rounded up.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/guarded-step-dual-sphere",
+  "name": "Guarded Step",
+  "kind": "feat",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Feats#guarded-step-dual-sphere",
+  "options": [],
+  "summary": "When teleporting yourself or a group that includes yourself to a location within a ward you created, you may reduce the action required by one step, from a…",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/guarding-dark-dual-sphere",
+  "name": "Guarding Dark",
+  "kind": "feat",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Feats#guarding-dark-dual-sphere",
+  "options": [],
+  "summary": "You gain the following abilities based on the Dark sphere and Protection sphere talents you possess: - Darkness’s Embrace: You may use (succor) talents to…",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/homeguard-magic-dual-sphere",
+  "name": "Homeguard Magic",
+  "kind": "feat",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Feats#homeguard-magic-dual-sphere",
+  "options": [],
+  "summary": "Whenever you create a ward, you may also use your shuffle inside that ward’s area of effect.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/immutable-protection",
+  "name": "Immutable Protection",
+  "kind": "feat",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Feats#immutable-protection",
+  "options": [],
+  "summary": "You receive a +4 insight bonus to MSB and MSD for any magical skill check made by your wards.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/luminous-aegis-dual-sphere",
+  "name": "Luminous Aegis",
+  "kind": "feat",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Feats#luminous-aegis-dual-sphere",
+  "options": [],
+  "summary": "As a swift action, you may make an ally glow if they are bearing an aegis you created.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/malediction-dual-sphere",
+  "name": "Malediction",
+  "kind": "feat",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Feats#malediction-dual-sphere",
+  "options": [],
+  "summary": "Prerequisites: Fate sphere, Protection sphere (Punishment) Benefit: When you use the Punishment succor, you may target the attacker with a word in place of…",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/martial-aegis-combat",
+  "name": "Martial Aegis",
+  "kind": "feat",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Feats#martial-aegis-combat",
+  "options": [],
+  "summary": "Prerequisites: Protection sphere, base attack bonus +1.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/plexing-boon-dual-sphere",
+  "name": "Plexing Boon",
+  "kind": "feat",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Feats#plexing-boon-dual-sphere",
+  "options": [],
+  "summary": "Prerequisites: Enhancement Sphere, Protection Sphere (Plexing Aegis) Benefit: Whenever you would activate a Plexing aegis, you may turn it into a single…",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/tribal-fortification-dual-sphere",
+  "name": "Tribal Fortification",
+  "kind": "feat",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Feats#tribal-fortification-dual-sphere",
+  "options": [],
+  "summary": "When you create a ward, you may spend a spell point to add the effects of a totem ability you have to it.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/warded-bones-dual-sphere",
+  "name": "Warded Bones",
+  "kind": "feat",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Feats#warded-bones-dual-sphere",
+  "options": [],
+  "summary": "When you reanimate a corpse, you can also apply an aegis to the undead.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/warning-sign-dual-sphere",
+  "name": "Warning Sign",
+  "kind": "feat",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Feats#warning-sign-dual-sphere",
+  "options": [],
+  "summary": "Allies receive a +1 circumstance bonus to initiative per aegis they bear that you created.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/alternate-aegis",
+  "name": "Alternate Aegis",
+  "kind": "drawback",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Drawbacks#alternate-aegis",
+  "options": [],
+  "summary": "You do not gain the Deflection aegis.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/aligned-protection",
+  "name": "Aligned Protection",
+  "kind": "drawback",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Drawbacks#aligned-protection",
+  "options": [],
+  "summary": "Choose an end of the alignment spectrum that you possess (good, evil, lawful, or chaotic).",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/circle-of-symbols",
+  "name": "Circle Of Symbols",
+  "kind": "drawback",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Drawbacks#circle-of-symbols",
+  "options": [],
+  "summary": "You must use the bonus talent gained from this drawback to select a (ward) talent.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/crystalline",
+  "name": "Crystalline",
+  "kind": "drawback",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Drawbacks#crystalline",
+  "options": [],
+  "summary": "Your aegis abilities create a physical lattice of crystal around the creature bearing the aegis.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/limited-protection",
+  "name": "Limited Protection",
+  "kind": "drawback",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Drawbacks#limited-protection",
+  "options": [],
+  "summary": "Choose either aegis or ward.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/luminous",
+  "name": "Luminous",
+  "kind": "drawback",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Drawbacks#luminous",
+  "options": [],
+  "summary": "You must use the bonus talent gained from this drawback to gain an (aegis) talent.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/protected-soul",
+  "name": "Protected Soul",
+  "kind": "drawback",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Drawbacks#protected-soul",
+  "options": [],
+  "summary": "You must use the bonus talent gained from this drawback to gain an (aegis) talent.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/protective-brew",
+  "name": "Protective Brew",
+  "kind": "drawback",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Drawbacks#protective-brew",
+  "options": [],
+  "summary": "You must select the Instill Aegis talent with the bonus talent granted by this drawback, and you can only use your aegises through this talent.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/second-skin",
+  "name": "Second Skin",
+  "kind": "drawback",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Drawbacks#second-skin",
+  "options": [],
+  "summary": "You may only apply an aegis to a creature who is wearing no armor, and wearing armor suppresses its effects.",
+  "file": "protection.json",
+  "approved": false
+ },
+ {
+  "id": "protection/shielding",
+  "name": "Shielding",
+  "kind": "drawback",
+  "sphere": "Protection",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Protection/Protection-Sphere-Drawbacks#shielding",
+  "options": [],
+  "summary": "You can not create any aegis that protects a creature from the environment (such as Breathless), and creatures lose the benefit of your aegis against attacks…",
+  "file": "protection.json",
   "approved": false
  },
  {
