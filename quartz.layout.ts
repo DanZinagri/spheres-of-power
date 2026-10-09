@@ -10,7 +10,6 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "Character Builder": `https://${BASE_URL}/Character-Builder`,
-      "Item Crafter": `https://${BASE_URL}/Item-Crafter`,
       "Open Game License": `https://${BASE_URL}/Meta/Legal-and-Open-Game-License`,
       "Diamond Recreational Studios": "https://legacy.drivethrurpg.com/browse/pub/19182/Diamond-Recreational-Studios",
       "Drop Dead Studios": "https://www.dropdeadstudios.com",

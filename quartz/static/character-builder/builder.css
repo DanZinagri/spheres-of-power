@@ -876,3 +876,13 @@ dialog.picker.wide {
   flex: 1 1 auto;
   min-width: 0;
 }
+
+/* Monster Creator: the stat block vs rebuilt numbers */
+.mon-compare {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(92px, 1fr));
+  gap: 0.4rem;
+}
+.mon-compare .stat.warn b {
+  color: var(--warn);
+}

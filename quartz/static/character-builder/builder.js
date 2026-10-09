@@ -3,7 +3,11 @@
 // class items (HD, BAB/save progressions, skill ranks) so Foundry derives BAB, saves and HP.
 "use strict"
 
-const STORAGE_KEY = "sop-character-builder"
+// "character" (the Character Builder) or "monster" (the Monster Creator: monster.html sets
+// window.BUILDER_MODE and loads monster.js, which fills in BUILDER_HOOKS)
+const MODE = (typeof window !== "undefined" && window.BUILDER_MODE) || "character"
+const HOOKS = (typeof window !== "undefined" && (window.BUILDER_HOOKS ??= {})) || {}
+const STORAGE_KEY = MODE === "monster" ? "sop-monster-creator" : "sop-character-builder"
 const FLAG_SCOPE = "sop-builder"
 
 const ABILITIES = { str: "Strength", dex: "Dexterity", con: "Constitution", int: "Intelligence", wis: "Wisdom", cha: "Charisma" }
@@ -99,6 +103,8 @@ function blankState() {
     currency: { pp: 0, gp: 0, sp: 0, cp: 0 },
     bio: "",
     notes: "",
+    // Monster Creator: the base monster, templates, advancement, attacks, defenses, CR adjustments
+    monster: null,
   }
 }
 // fill in any keys a saved state predates
@@ -113,7 +119,7 @@ function normalize(s) {
 }
 
 let state = load()
-let tab = "details"
+let tab = MODE === "monster" ? "monster" : "details"
 
 function load() {
   try {
@@ -152,6 +158,7 @@ function calcCore(m) {
   const s = state
   const abl = {}
   for (const k of ABL) {
+    if (s.abilities[k] === null || s.abilities[k] === "") { abl[k] = { total: null, mod: 0 }; continue }
     const total = num(s.abilities[k]) + num(s.race.mods[k]) + m(k)
     abl[k] = { total, mod: mod(total) + m(`${k}Mod`) }
   }
@@ -203,9 +210,12 @@ function calcCore(m) {
   const acMods = m("ac") + m("aac") + m("sac") + m("nac")
   const ac = 10 + armor + shield + dexAc + size + acMods
   const touch = 10 + dexAc + size + m("ac") + m("tac")
-  const flat = 10 + armor + shield + Math.min(0, dexAc) + size + acMods + m("ffac")
+  // flat-footed: no Dex and no dodge bonuses; CMD: adds the AC's circumstance, deflection, dodge,
+  // insight, luck, morale, profane and sacred bonuses (and the size modifier is the special one)
+  const flat = 10 + armor + shield + Math.min(0, dexAc) + size + acMods - m("ac#dodge") + m("ffac")
+  const cmdAc = ["circumstance", "deflection", "dodge", "insight", "luck", "morale", "profane", "sacred"].reduce((a, t) => a + m(`ac#${t}`), 0)
   const cmb = bab + abl.str.mod - size + m("cmb")
-  const cmd = 10 + bab + abl.str.mod + abl.dex.mod - size + m("cmd")
+  const cmd = 10 + bab + abl.str.mod + abl.dex.mod - size + cmdAc + m("cmd")
   const init = abl.dex.mod + m("init")
   const baseSpeed = num(s.race.speed) + m("landSpeed") + m("allSpeeds")
     + s.gear.reduce((a, g) => a + (g.equipped && (g.kind === "armor" || g.kind === "shield") ? modSpeed(g) : 0), 0)
@@ -217,7 +227,10 @@ function calcCore(m) {
   const speed = slowedBy.length ? baseSpeed - 5 * Math.floor(baseSpeed / 15) : baseSpeed // 30 -> 20, 20 -> 15
   const attackMod = { melee: m("attack") + m("wattack") + m("mattack"), ranged: m("attack") + m("wattack") + m("rattack") }
   const damageMod = { melee: m("damage") + m("wdamage") + m("mwdamage") + m("mdamage"), ranged: m("damage") + m("wdamage") + m("rwdamage") + m("rdamage") }
-  const skillExtra = (k, a, rank) => m("skills") + m(`${a}Skills`) + m(`skill.${k}`) + (rank ? 0 : m("unskills"))
+  // size modifies Stealth and Fly (Small +4 / +2, Large -4 / -2, ...), as Foundry does
+  const sizeSkill = { ste: { fine: 16, dim: 12, tiny: 8, sm: 4, med: 0, lg: -4, huge: -8, grg: -12, col: -16 },
+    fly: { fine: 8, dim: 6, tiny: 4, sm: 2, med: 0, lg: -2, huge: -4, grg: -6, col: -8 } }
+  const skillExtra = (k, a, rank) => m("skills") + m(`${a}Skills`) + m(`skill.${k}`) + (rank ? 0 : m("unskills")) + (sizeSkill[k]?.[s.race.size] ?? 0)
 
   const classSkills = new Set(classes.flatMap((c) => c.classSkills))
   let skillBudget = 0
@@ -251,13 +264,16 @@ function calcCore(m) {
   const spheres = { cl, msb, msd: 11 + msb + sm("msd"), concentration: msb + castMod + sm("sphereConcentration"), talents: {} }
   for (const t of s.talents) if (t.sphere && !t.exclude) spheres.talents[t.sphere] = (spheres.talents[t.sphere] ?? 0) + 1
   const pointsSpent = ABL.reduce((a, k) => a + (POINT_COST[num(s.abilities[k])] ?? NaN), 0)
-  return { abl, hd, bab, saves, saveTotals, hp, classHp, enc, slowedBy, ac, touch, flat, cmb, cmd, init, speed, attackMod, damageMod, skillExtra, acp, asf, classSkills, skillBudget, bonusSkill, ranksUsed, bgUsed, bgBudget, featSlots, featsTaken, cl, spheres, pointsSpent, size }
+  const out = { abl, hd, bab, saves, saveTotals, hp, classHp, enc, slowedBy, ac, touch, flat, cmb, cmd, init, speed, attackMod, damageMod, skillExtra, acp, asf, classSkills, skillBudget, bonusSkill, ranksUsed, bgUsed, bgBudget, featSlots, featsTaken, cl, spheres, pointsSpent, size }
+  HOOKS.calc?.(out, s, m)
+  return out
 }
 
 function classHpFor(c, i) {
   const lvl = num(c.level), hd = num(c.hd)
   if (lvl <= 0) return 0
   if (state.hpMode === "custom") return num(c.hpCustom ?? 0)
+  if (state.hpMode === "average") return lvl * (hd / 2 + 0.5)
   if (state.hpMode === "max") return hd * lvl
   // PFS style: max at the character's first level, then half + 1
   const fixed = hd / 2 + 1
@@ -687,10 +703,12 @@ function renderHeader() {
 }
 
 function visibleTabs() {
-  return TABS.filter(([id]) => id !== "spheres" || state.spheresModule)
+  const tabs = MODE === "monster" ? [["monster", "Monster"], ...TABS.filter(([id]) => id !== "race")] : TABS
+  return tabs.filter(([id]) => id !== "spheres" || state.spheresModule)
 }
+const HOME_TAB = MODE === "monster" ? "monster" : "details"
 function renderTabs() {
-  if (!visibleTabs().some(([id]) => id === tab)) tab = "details"
+  if (!visibleTabs().some(([id]) => id === tab)) tab = HOME_TAB
   const counts = { features: state.features.length, buffs: state.buffs.length, spheres: state.talents.length, spells: state.spells.length, gear: state.gear.length }
   const nav = document.getElementById("tabs")
   nav.replaceChildren(
@@ -707,9 +725,10 @@ function renderSummary() {
   const budget = (label, used, total) =>
     h("div", { class: "budget" }, h("span", {}, label), h("span", { class: used > total ? "warn" : used === total ? "ok" : "" }, `${used} / ${total}`))
   document.getElementById("summary").replaceChildren(...[
+    ...(HOOKS.summary?.(c) ?? []),
     h("div", { class: "card" },
       h("div", { class: "stat-grid" },
-        ...ABL.map((k) => stat(k.toUpperCase(), `${c.abl[k].total} (${signed(c.abl[k].mod)})`)),
+        ...ABL.map((k) => stat(k.toUpperCase(), c.abl[k].total == null ? "—" : `${c.abl[k].total} (${signed(c.abl[k].mod)})`)),
       ),
     ),
     h("div", { class: "card" },
@@ -2853,7 +2872,7 @@ function buildActor() {
     while (Object.values(tags).includes(tag)) tag += "X"
     tags[i] = tag
     const system = {
-      subType: "base",
+      subType: cls.racial ? "racial" : "base",
       tag,
       level: num(cls.level),
       hd: num(cls.hd),
@@ -2960,17 +2979,19 @@ function buildActor() {
   }
   if (Object.keys(sphereFlags).length) flags.pf1spheres = sphereFlags
 
-  const name = s.name || "New Character"
-  return {
+  const name = s.name || (MODE === "monster" ? "New Monster" : "New Character")
+  const actor = {
     name,
-    type: "character",
+    type: MODE === "monster" ? "npc" : "character",
     img: "icons/svg/mystery-man.svg",
     system,
-    prototypeToken: { name, actorLink: true, disposition: 1 },
+    prototypeToken: { name, actorLink: MODE !== "monster", disposition: MODE === "monster" ? -1 : 1 },
     items,
     effects: [],
     flags,
   }
+  HOOKS.exportActor?.(actor, c)
+  return actor
 }
 
 // Foundry's items have no place for special abilities or modifications: they go at the top of
@@ -3157,7 +3178,7 @@ document.getElementById("spheresToggle").addEventListener("change", (e) => {
 document.getElementById("btnNew").addEventListener("click", () => {
   if (!confirm("Start a new character? The current one is only kept if you've exported or saved it.")) return
   state = blankState()
-  tab = "details"
+  tab = HOME_TAB
   save()
   renderAll()
 })
@@ -3175,6 +3196,7 @@ try {
 } catch {}
 window.addEventListener("storage", (e) => e.key === "theme" && applyTheme(e.newValue))
 
-renderAll()
+// the Monster Creator's own script (monster.js) adds its tab, then renders
+if (MODE !== "monster") renderAll()
 loadClassData()
 loadRaceData()

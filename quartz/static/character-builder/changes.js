@@ -163,7 +163,10 @@ function changeTotals(rd) {
     for (const [type, values] of Object.entries(types)) {
       const neg = values.filter((v) => v < 0).reduce((a, v) => a + v, 0)
       const pos = values.filter((v) => v > 0)
-      sum += neg + (STACKING_TYPES.has(type) ? pos.reduce((a, v) => a + v, 0) : pos.length ? Math.max(...pos) : 0)
+      const part = neg + (STACKING_TYPES.has(type) ? pos.reduce((a, v) => a + v, 0) : pos.length ? Math.max(...pos) : 0)
+      sum += part
+      // per bonus type too ("ac#dodge"): flat-footed AC loses dodge bonuses, CMD gains some AC bonus types
+      totals[`${target}#${type}`] = Math.floor(part)
     }
     totals[target] = Math.floor(sum)
   }

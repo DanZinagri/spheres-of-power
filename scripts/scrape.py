@@ -6803,6 +6803,10 @@ def convert(with_images: bool) -> None:
     print(f"Trade talents: {build_trade_traditions()}")
     print(f"Spells: {build_spell_compendium()}")
     print(f"Gear: {build_gear_compendium()}")
+    # the Monster Creator's monsters (scripts/monsters.py parses the AoN stat blocks)
+    sys.path.insert(0, str(Path(__file__).parent))
+    import monsters
+    print(f"Monsters: {monsters.build()}")
 
     # folders emptied by exclusions or renames
     for d in sorted((d for d in CONTENT.rglob("*") if d.is_dir()), key=lambda d: -len(d.parts)):

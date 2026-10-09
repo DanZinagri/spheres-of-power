@@ -178,8 +178,18 @@ def extract(cat: str, href: str, html: str) -> dict | list[dict] | None:
         lore_cut = next((h for h in box.find_all(["h3", "h2"]) if text_of(h).lower() in ("ecology", "description")), None)
     name = text_of(title)
     html_box = str(box)
-    if lore_cut is not None:  # everything from the Ecology heading on (loose text included) goes
-        html_box = html_box[:html_box.find(str(lore_cut))] if str(lore_cut) in html_box else html_box
+    if lore_cut is not None:
+        # the Ecology and Description sections go (loose text included); the Special Abilities section,
+        # which AoN prints between them, stays: it's the rules for the stat block's abilities
+        heads = [h for h in box.find_all(["h3", "h2"]) if str(h) in html_box]
+        at = lambda h: html_box.find(str(h))
+        cuts = []
+        for n, h in enumerate(heads):
+            if text_of(h).lower() in ("ecology", "description"):
+                nxt = next((at(x) for x in heads[n + 1:] if text_of(x).lower() == "special abilities" and at(x) > at(h)), None)
+                cuts.append((at(h), nxt if nxt is not None else len(html_box)))
+        for a, b in sorted(cuts, reverse=True):
+            html_box = html_box[:a] + html_box[b:]
     # a feat page also prints the feat's mythic version ("Mythic Power Attack") under its own
     # heading: that becomes an entry of its own. (Combat Trick sections stay with the feat.)
     mythic: list[tuple[str, str]] = []

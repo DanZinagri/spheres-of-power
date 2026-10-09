@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Monster Creator</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@500;700&family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,400&display=swap"
+    />
+    <link rel="stylesheet" href="builder.css" />
+    <script>
+      // pick up the wiki's light/dark choice before first paint (same key Quartz uses)
+      try {
+        const saved = localStorage.getItem("theme")
+        const dark = saved ? saved === "dark" : matchMedia("(prefers-color-scheme: dark)").matches
+        document.documentElement.dataset.theme = dark ? "dark" : "light"
+      } catch {}
+    </script>
+  </head>
+  <body>
+    <div class="app">
+      <header class="topbar">
+        <div class="title">
+          <input id="charName" class="name-input" placeholder="Monster name" aria-label="Monster name" />
+          <span id="charLine" class="char-line"></span>
+        </div>
+        <div class="actions">
+          <label class="toggle" title="Match the Spheres for Pathfinder 1e module: adds the Spheres tab, caster level progression on classes, and sphere talents in the export">
+            <input id="spheresToggle" type="checkbox" /> Spheres for PF1e
+          </label>
+          <button id="btnNew" class="ghost" title="Start a new monster">New</button>
+          <label class="ghost button" title="Load a builder save or a file exported from here">
+            Load<input id="fileLoad" type="file" accept=".json,application/json" hidden />
+          </label>
+          <button id="btnPdf" title="Download a printable PDF character sheet">PDF sheet</button>
+          <button id="btnExport" class="primary" title="Download a Foundry NPC actor file">Export for Foundry</button>
+        </div>
+      </header>
+      <nav class="tabs" id="tabs" role="tablist"></nav>
+      <div class="layout">
+        <main id="panel" class="panel"></main>
+        <aside id="summary" class="summary" aria-label="Character summary"></aside>
+      </div>
+    </div>
+    <div id="toast" class="toast" role="status" hidden></div>
+    <script src="formula-data.js"></script>
+    <script src="changes.js"></script>
+    <script>window.BUILDER_MODE = "monster"</script>
+    <script src="builder.js"></script>
+    <script src="monster.js"></script>
+  </body>
+</html>
