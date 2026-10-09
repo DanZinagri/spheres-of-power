@@ -11,6 +11,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "Character Builder": `https://${BASE_URL}/Character-Builder`,
       "Open Game License": `https://${BASE_URL}/Meta/Legal-and-Open-Game-License`,
+      "Game Icons (CC BY 3.0)": `https://${BASE_URL}/Meta/Game-Icons-License`,
       "Diamond Recreational Studios": "https://legacy.drivethrurpg.com/browse/pub/19182/Diamond-Recreational-Studios",
       "Drop Dead Studios": "https://www.dropdeadstudios.com",
     },

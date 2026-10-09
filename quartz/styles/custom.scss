@@ -307,3 +307,28 @@ iframe.sop-tool {
   border-radius: 8px;
   background: var(--light);
 }
+
+// Home "Spheres" headers: game-icons.net icons (Lorc, CC BY 3.0; see Meta/Game Icons License),
+// drawn as masks so they take the system's color in light and dark mode
+.sop-icon {
+  display: inline-block;
+  width: 1.35em;
+  height: 1.35em;
+  margin-right: 0.45em;
+  vertical-align: -0.3em;
+  background-color: currentColor;
+  -webkit-mask: var(--icon) center / contain no-repeat;
+  mask: var(--icon) center / contain no-repeat;
+}
+.sop-icon-magic {
+  --icon: url("/static/icons/game-icons/bolt-eye.png");
+  color: var(--secondary);
+}
+.sop-icon-combat {
+  --icon: url("/static/icons/game-icons/crossed-swords.png");
+  color: var(--fam-might);
+}
+.sop-icon-skill {
+  --icon: url("/static/icons/game-icons/cubes.png");
+  color: var(--fam-guile);
+}

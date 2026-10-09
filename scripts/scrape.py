@@ -336,6 +336,8 @@ HOME_SPHERE_COLUMNS = [
     ("Skill Spheres", "Using Spheres Of Guile|Using Spheres of Guile"),
     ("Combat Spheres", "Using Spheres Of Might|Using Spheres of Might"),
 ]
+# the icons beside those headers (quartz/static/icons/game-icons/, styled in custom.scss)
+HOME_SPHERE_ICONS = {"Magic Spheres": "magic", "Skill Spheres": "skill", "Combat Spheres": "combat"}
 # Other home sections whose heading gets a small "(Using ...)" link
 HOME_HEADER_LINKS: dict[str, str] = {}
 # Home "Feat Types" gets its own full-width block; these general feat pages join it (first),
@@ -1006,7 +1008,10 @@ def rebalance_home_columns(md: str) -> str:
                 body.pop(0)
             while body and body[-1].strip() in ("", "---"):
                 body.pop()
-            body[0] = f"**{title}** *([[{using}]])*"
+            # a game-icons.net icon before the title (custom.scss draws it; credits on Game Icons License)
+            icon = HOME_SPHERE_ICONS.get(title)
+            mark = f'<span class="sop-icon sop-icon-{icon}" aria-hidden="true"></span>' if icon else ""
+            body[0] = f"{mark}**{title}** *([[{using}]])*"
             sphere_cols.append(body)
             break
     for _, sections in parsed:
@@ -1799,7 +1804,7 @@ def original_spheres_index(home: str, archived: dict[str, tuple[str, str]]) -> s
         s = line.strip()
         if m := re.match(r"#{2,3} (.+)$", s):
             ctx = m.group(1)
-        elif m := re.match(r"\*\*([^*]+)\*\*(?:\s*\*\(.*\)\*)?$", s):
+        elif m := re.match(r"(?:<span[^>]*></span>)?\*\*([^*]+)\*\*(?:\s*\*\(.*\)\*)?$", s):  # (a header icon first)
             ctx = m.group(1)
         else:
             for t in re.findall(r"\[\[([^\]|#\\]+)", s):
@@ -1916,7 +1921,8 @@ def add_feats_links(home_md: str, feats: dict[str, str], drawbacks: dict[str, st
     """Home page Magic Spheres list: "[[Alteration]]" -> "[[Alteration]] | [[Alteration Sphere Feats|Feats]]"."""
     out, inside = [], False
     for line in home_md.split("\n"):
-        if line.strip().startswith(("**Magic Spheres**", "**Skill Spheres**", "**Combat Spheres**")):
+        # (the header may start with its icon: <span class="sop-icon ..."></span>)
+        if re.sub(r"^<span[^>]*></span>", "", line.strip()).startswith(("**Magic Spheres**", "**Skill Spheres**", "**Combat Spheres**")):
             inside = True
         elif inside and (re.fullmatch(r"\*\*[^*]+\*\*", line.strip()) or line.strip() in ("---", "</div>")):
             inside = False
@@ -6259,7 +6265,7 @@ def archive_skeleton_index(home: str, entries: dict[str, tuple[str, str]], intro
         s = line.strip()
         if m := re.match(r"#{2,3} (.+)$", s):
             ctx = m.group(1)
-        elif m := re.match(r"\*\*([^*]+)\*\*(?:\s*\*\(.*\)\*)?$", s):
+        elif m := re.match(r"(?:<span[^>]*></span>)?\*\*([^*]+)\*\*(?:\s*\*\(.*\)\*)?$", s):  # (a header icon first)
             ctx = m.group(1)
         else:
             if ctx and re.search(r"\[\[", s):

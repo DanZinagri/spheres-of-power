@@ -31,7 +31,7 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 <div class="sop-spheres">
 
-**Magic Spheres** *([[Using Spheres Of Power|Using Spheres of Power]])*
+<span class="sop-icon sop-icon-magic" aria-hidden="true"></span>**Magic Spheres** *([[Using Spheres Of Power|Using Spheres of Power]])*
 
 - [[Alteration]] · [[Alteration Sphere Feats|Feats]] · [[Alteration Sphere Drawbacks|Drawbacks]]
 - [[Blood]] · [[Blood Sphere Feats|Feats]] · [[Blood Sphere Drawbacks|Drawbacks]]
@@ -58,7 +58,7 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 - [[Weather]] · [[Weather Sphere Feats|Feats]] · [[Weather Sphere Drawbacks|Drawbacks]]
 - [[Bear]]
 
-**Skill Spheres** *([[Using Spheres Of Guile|Using Spheres of Guile]])*
+<span class="sop-icon sop-icon-skill" aria-hidden="true"></span>**Skill Spheres** *([[Using Spheres Of Guile|Using Spheres of Guile]])*
 
 - [[Artifice]] · [[Artifice Sphere Feats|Feats]] · [[Artifice Sphere Drawbacks|Drawbacks]]
 - [[Bluster]] · [[Bluster Sphere Feats|Feats]] · [[Bluster Sphere Drawbacks|Drawbacks]]
@@ -77,7 +77,7 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 - [[Vocation]]
 - [[Occultism]] · [[Occultism Sphere Feats|Feats]] · [[Occultism Sphere Drawbacks|Drawbacks]]
 
-**Combat Spheres** *([[Using Spheres Of Might|Using Spheres of Might]])*
+<span class="sop-icon sop-icon-combat" aria-hidden="true"></span>**Combat Spheres** *([[Using Spheres Of Might|Using Spheres of Might]])*
 
 - [[Alchemy]] · [[Alchemy Sphere Drawbacks|Drawbacks]]
 - [[Athletics]] · [[Athletics Sphere Drawbacks|Drawbacks]]
