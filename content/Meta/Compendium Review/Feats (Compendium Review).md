@@ -26,53 +26,53 @@ What the feat extractor takes from the site (1233 Spheres feats; approved), plus
 | Squadron | 28 | — |
 | Critical | — | 28 |
 | Admixture | 24 | — |
-| Conduit | — | 23 |
 | Aristeia | 23 | — |
+| Conduit | — | 23 |
 | Grit | — | 21 |
 | Counterspell | 20 | — |
 | Item Mastery | — | 19 |
+| Weapon Mastery | — | 17 |
 | Gizmo | 17 | — |
 | Faction | — | 17 |
-| Weapon Mastery | — | 17 |
 | Stare | — | 16 |
 | Protokinesis | 16 | — |
-| Performance | — | 15 |
 | Companion | 15 | — |
-| Shield Mastery | — | 14 |
+| Performance | — | 15 |
 | Meditation | — | 14 |
+| Shield Mastery | — | 14 |
 | Shield Style | — | 12 |
+| Necrosis | 12 | — |
 | Proxy | 12 | — |
 | Defiler | 12 | — |
 | Wild Magic | 12 | — |
-| Necrosis | 12 | — |
-| Channeling | 11 | — |
-| Panache | — | 11 |
-| Armor Mastery | — | 11 |
-| Purring | 11 | — |
-| Achievement | — | 11 |
 | Surreal | 11 | — |
+| Armor Mastery | — | 11 |
+| Panache | — | 11 |
+| Channeling | 11 | — |
+| Achievement | — | 11 |
+| Purring | 11 | — |
 | Rune | 10 | — |
-| Alignment | — | 9 |
 | Armor Style | — | 9 |
-| Origin | — | 9 |
 | Esoteric | — | 9 |
-| Blood Hex | — | 8 |
+| Alignment | — | 9 |
+| Origin | — | 9 |
 | Familiar | — | 8 |
-| Theurge | 7 | — |
+| Blood Hex | — | 8 |
 | Damnation | 3 | 4 |
 | Combination | — | 7 |
-| Betrayal | — | 6 |
+| Theurge | 7 | — |
 | Chance | 6 | — |
-| Plague | 6 | — |
 | Trick | — | 6 |
+| Betrayal | — | 6 |
+| Plague | 6 | — |
 | Anathema | 5 | — |
-| Targeting | — | 4 |
 | Gathlain Court Title | — | 4 |
-| Words of Power | — | 3 |
+| Targeting | — | 4 |
 | Hero Point | — | 3 |
-| Coven | — | 2 |
+| Words of Power | — | 3 |
 | Called Shot | — | 2 |
 | Luck | 2 | — |
+| Coven | — | 2 |
 
 ## Spheres of Power (926)
 

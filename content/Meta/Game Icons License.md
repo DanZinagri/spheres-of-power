@@ -7,8 +7,11 @@ Some icons on this site come from [game-icons.net](https://game-icons.net), used
 
 | Icon | Used for | Made by |
 | --- | --- | --- |
-| Bolt eye | Magic Spheres (home page) | [Lorc](http://lorcblog.blogspot.com) |
-| Crossed swords | Combat Spheres (home page) | [Lorc](http://lorcblog.blogspot.com) |
-| Cubes | Skill Spheres (home page) | [Lorc](http://lorcblog.blogspot.com) |
+| Bolt eye | Magic Spheres and Spherecaster Classes (home page) | [Lorc](http://lorcblog.blogspot.com) |
+| Crossed swords | Combat Spheres and Practitioner Classes (home page) | [Lorc](http://lorcblog.blogspot.com) |
+| Cubes | Skill Spheres and Operative Classes (home page) | [Lorc](http://lorcblog.blogspot.com) |
+| Zeus sword | Champion Classes (home page) | [Lorc](http://lorcblog.blogspot.com) |
+| Achievement | Feat Types (home page) | Skoll |
+| Allied star | Base PF1e Classes (home page) | Skoll |
 
-Icons made by Lorc, available on [game-icons.net](https://game-icons.net) under CC BY 3.0.
+Icons made by Lorc and Skoll, available on [game-icons.net](https://game-icons.net) under CC BY 3.0.

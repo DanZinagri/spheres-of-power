@@ -336,8 +336,27 @@ HOME_SPHERE_COLUMNS = [
     ("Skill Spheres", "Using Spheres Of Guile|Using Spheres of Guile"),
     ("Combat Spheres", "Using Spheres Of Might|Using Spheres of Might"),
 ]
-# the icons beside those headers (quartz/static/icons/game-icons/, styled in custom.scss)
-HOME_SPHERE_ICONS = {"Magic Spheres": "magic", "Skill Spheres": "skill", "Combat Spheres": "combat"}
+# game-icons.net icons beside home page headers (quartz/static/icons/game-icons/, drawn by custom.scss;
+# credits on Meta/Game Icons License): header line start -> icon class
+# (the class headings get theirs from custom.scss by heading id: markup inside a heading would show
+# in the table of contents and change its anchor)
+HOME_ICONS = [("**Magic Spheres**", "magic"), ("**Skill Spheres**", "skill"), ("**Combat Spheres**", "combat"),
+              ("**Feat Types**", "feats")]
+
+
+def home_icons(md: str) -> str:
+    """The icons before home page headers: "**Magic Spheres**" and "### Spherecaster Classes" lines get a
+    <span class="sop-icon ..."> first (after the "### " of a heading). Done last, so the steps that read
+    those header lines see them plain."""
+    out = []
+    for line in md.split("\n"):
+        for start, icon in HOME_ICONS:
+            if line.startswith(start):
+                mark = f'<span class="sop-icon sop-icon-{icon}" aria-hidden="true"></span>'
+                line = (f"### {mark}" + line[4:]) if start.startswith("### ") else mark + line
+                break
+        out.append(line)
+    return "\n".join(out)
 # Other home sections whose heading gets a small "(Using ...)" link
 HOME_HEADER_LINKS: dict[str, str] = {}
 # Home "Feat Types" gets its own full-width block; these general feat pages join it (first),
@@ -1008,10 +1027,7 @@ def rebalance_home_columns(md: str) -> str:
                 body.pop(0)
             while body and body[-1].strip() in ("", "---"):
                 body.pop()
-            # a game-icons.net icon before the title (custom.scss draws it; credits on Game Icons License)
-            icon = HOME_SPHERE_ICONS.get(title)
-            mark = f'<span class="sop-icon sop-icon-{icon}" aria-hidden="true"></span>' if icon else ""
-            body[0] = f"{mark}**{title}** *([[{using}]])*"
+            body[0] = f"**{title}** *([[{using}]])*"
             sphere_cols.append(body)
             break
     for _, sections in parsed:
@@ -1812,7 +1828,7 @@ def original_spheres_index(home: str, archived: dict[str, tuple[str, str]]) -> s
                     placed.add(t)
                     groups.setdefault(ctx, []).append(t)
             continue
-        ctx = re.sub(r"\s*\*\(.*?\)\*", "", re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1", ctx)).strip()
+        ctx = re.sub(r"<span[^>]*></span>", "", re.sub(r"\s*\*\(.*?\)\*", "", re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1", ctx))).strip()
     for t in sorted(set(archived) - placed):
         groups.setdefault("Other Pages", []).append(t)
     out = ["The original (pre-*Ultimate*) versions of Spheres of Power pages, as they appeared before "
@@ -6277,7 +6293,7 @@ def archive_skeleton_index(home: str, entries: dict[str, tuple[str, str]], intro
                         placed.add(t)
                         groups[ctx].append(t)
             continue
-        ctx = re.sub(r"\s*\*\(.*?\)\*", "", re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1", ctx)).strip()
+        ctx = re.sub(r"<span[^>]*></span>", "", re.sub(r"\s*\*\(.*?\)\*", "", re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1", ctx))).strip()
     rest = sorted(set(entries) - placed)
     if rest:
         order.append("Other Pages")
@@ -6747,7 +6763,7 @@ def convert(with_images: bool) -> None:
         home = add_feats_links(out, feats_pages, drawback_pages)
         home = sphere_lists(drop_merged_links(home, merge_links))
         home = add_home_archetypes(fill_class_archetypes(home, class_archetypes))
-        dest.write_text(home, encoding="utf-8")
+        dest.write_text(home_icons(home), encoding="utf-8")
         # the Archive: a folder note listing archived material, and the Original Spheres index
         nos = "nosearch: true"
         (CONTENT / ARCHIVE).mkdir(parents=True, exist_ok=True)

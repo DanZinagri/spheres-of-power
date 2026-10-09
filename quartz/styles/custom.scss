@@ -332,3 +332,47 @@ iframe.sop-tool {
   --icon: url("/static/icons/game-icons/cubes.png");
   color: var(--fam-guile);
 }
+.sop-icon-feats {
+  --icon: url("/static/icons/game-icons/achievement.png");
+}
+.sop-icon-pf1e {
+  --icon: url("/static/icons/game-icons/allied-star.png");
+}
+// the home page's class headings: the icon comes from the heading's id (markup inside a heading
+// would show up in the table of contents)
+#spherecaster-classes-using-spheres-of-power,
+#operative-classes-using-spheres-of-guile,
+#practitioner-classes-using-spheres-of-might,
+#champion-classes-using-champions-of-the-spheres,
+#base-pf1e-classes-archetype-rules {
+  &::before {
+    content: "";
+    display: inline-block;
+    width: 1.35em;
+    height: 1.35em;
+    margin-right: 0.45em;
+    vertical-align: -0.3em;
+    background-color: currentColor;
+    -webkit-mask: var(--icon) center / contain no-repeat;
+    mask: var(--icon) center / contain no-repeat;
+  }
+}
+#spherecaster-classes-using-spheres-of-power::before {
+  --icon: url("/static/icons/game-icons/bolt-eye.png");
+  background-color: var(--secondary);
+}
+#operative-classes-using-spheres-of-guile::before {
+  --icon: url("/static/icons/game-icons/cubes.png");
+  background-color: var(--fam-guile);
+}
+#practitioner-classes-using-spheres-of-might::before {
+  --icon: url("/static/icons/game-icons/crossed-swords.png");
+  background-color: var(--fam-might);
+}
+#champion-classes-using-champions-of-the-spheres::before {
+  --icon: url("/static/icons/game-icons/zeus-sword.png");
+  background-color: var(--fam-champion);
+}
+#base-pf1e-classes-archetype-rules::before {
+  --icon: url("/static/icons/game-icons/allied-star.png");
+}
