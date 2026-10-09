@@ -4526,6 +4526,172 @@ def write_tradition_review(traditions: list[dict]) -> None:
     dest.write_text("\n".join(out) + "\n", encoding="utf-8")
 
 
+# ---------- casting traditions ----------
+# compendium/casting-traditions.json: the general drawbacks and boons on the Casting Traditions page
+# (each drawback's point value, whether it can be taken twice, what it's incompatible with; each
+# boon's requirements), the bonus spell point table, and the sample traditions as templates, for
+# the Character Builder's "Add casting tradition".
+CT_WORDS = {"two": 2, "three": 3, "four": 4, "2": 2, "3": 3, "4": 4}
+
+
+def _ct_entries(lines: list[str], ids: list[str], section: str, url: str) -> list[dict]:
+    span = _section_span(lines, section)
+    if span is None:
+        print(f"warning: casting traditions: no section {section!r}")
+        return []
+    start, end, _ = span
+    heads = [k for k in range(start + 1, end) if lines[k].startswith("#### ")]
+    out = []
+    for n, k in enumerate(heads):
+        stop = heads[n + 1] if n + 1 < len(heads) else end
+        md = "\n".join(lines[k + 1:stop]).strip()
+        out.append({"name": lines[k][5:].strip(), "url": f"{url}#{ids[k]}", "md": md,
+                    "summary": _rules_summary(md, 200)})
+    return out
+
+
+def _ct_resolve(name: str, known: list[str]) -> str | None:
+    """A drawback named loosely ("Prepared Casting", "Focus Casting drawbacks") -> its entry name."""
+    n = _norm(re.sub(r"\s+drawbacks?$", "", name.strip(" .")))
+    for k in known:
+        if _norm(k) == n:
+            return k
+    first = n.split(" ")[0]
+    hits = [k for k in known if _norm(k).split(" ")[0] == first]
+    return hits[0] if len(hits) == 1 else None
+
+
+def build_casting_traditions() -> int:
+    files = {f.stem: f for f in CONTENT.rglob("*.md") if ARCHIVE not in f.relative_to(CONTENT).parts}
+    f = files.get("Casting Traditions")
+    if not f:
+        return 0
+    body = f.read_text(encoding="utf-8").split(GENERATED_MARK, 1)[-1]
+    lines = body.split("\n")
+    slug = _slugger()
+    ids = [slug(m.group(2)) if (m := re.match(r"(#{1,6}) (.+)$", l)) else "" for l in lines]
+    url = _page_url(f)
+    drawbacks = _ct_entries(lines, ids, "General Drawbacks", url)
+    names = [d["name"] for d in drawbacks]
+    for d in drawbacks:
+        t = re.sub(r"[*_]", "", d["md"])
+        # "counts as 2 drawbacks" (not "may count as two", the GM's call: see values)
+        first = 2 if re.search(r"(?<!may )counts? as (?:2|two) drawbacks", t, re.I) else 1
+        d["points"] = [first]
+        if re.search(r"(?:take|select) this drawback (?:a second time|twice)", t, re.I):
+            total = re.search(r"total of (\d) drawbacks|as (\d) drawbacks if taken twice", t, re.I)
+            d["points"].append(int(total.group(1) or total.group(2)) - first if total else first)
+        # a value the GM or another rule sets
+        if re.search(r"oath points", t, re.I):
+            d["values"] = [1, 2, 3]
+        elif re.search(r"may count as two drawbacks|might even be worth two", t, re.I):
+            d["values"] = [1, 2]
+        inc: list[str] = []
+        if (m := re.search(r"^Incompatible:\s*(.+)$", t, re.M | re.I)):
+            inc += re.split(r",\s*(?:or\s+)?|\s+or\s+", m.group(1))
+        if (m := re.search(r"may not select this drawback if you possess the (.+?) drawbacks?\.", t, re.I)):
+            inc += re.split(r",\s*(?:or\s+)?|\s+or\s+", m.group(1))
+        d["incompatible"] = sorted({r for x in inc if (r := _ct_resolve(x, names)) and r != d["name"]})
+    # incompatibility goes both ways
+    by = {d["name"]: d for d in drawbacks}
+    for d in drawbacks:
+        for other in d["incompatible"]:
+            if d["name"] not in by[other]["incompatible"]:
+                by[other]["incompatible"].append(d["name"])
+    boons = _ct_entries(lines, ids, "# Boons", url)
+    for b in boons:
+        t = re.sub(r"[*_]", "", b["md"])
+        b["repeatable"] = bool(re.search(r"(?:may take this boon|boon may be taken) multiple times", t, re.I))
+        b["requires"] = sorted({r for m in re.finditer(r"must (?:possess|have) the ([\w ’']+?) drawback", t, re.I)
+                                if (r := _ct_resolve(m.group(1), names))})
+        b["excludes"] = []
+        if (m := re.search(r"cannot possess drawbacks such as (.+?) that", t, re.I)):
+            b["excludes"] = sorted({r for x in re.split(r",\s*(?:or\s+)?|\s+or\s+", m.group(1)) if (r := _ct_resolve(x, names))})
+        if re.search(r"You gain the Conjuration sphere", t):
+            b["grantsSphere"] = "Conjuration"
+        b["feat"] = b["name"] == "Drawback Feat"
+    # the bonus spell point table
+    table = {}
+    for l in lines:
+        if (m := re.match(r"^\|\s*(\d)\s*\|\s*(\+[^|]+?)\s*\|$", l)):
+            table[m.group(1)] = m.group(2)
+    # sample traditions as templates: "Drawbacks: A, B x2; Sphere drawback (Sphere)", "Boons: X, Drawback Feat (Y), +1 spell point…"
+    boon_names = [b["name"] for b in boons]
+    templates = []
+    # (the card casting traditions are left out: their Card Casting drawback isn't on this site)
+    for section, group in (("Standard Traditions", "Standard"), ("Sample Custom Casting Traditions", "Sample")):
+        for e in _ct_entries(lines, ids, section, url):
+            t = re.sub(r"[*_]", "", e["md"])
+            tpl = {"name": e["name"], "group": group, "url": e["url"], "summary": e["summary"], "drawbacks": [], "boons": [],
+                   "feats": [], "notes": []}
+            if (m := re.search(r"^Casting Ability Modifier:\s*(.+)$", t, re.M)):
+                tpl["ability"] = m.group(1).strip(" .")
+            if (m := re.search(r"^Drawbacks?:\s*(.+)$", t, re.M)):
+                general, _, specific = m.group(1).partition(";")
+                for part in re.split(r",\s*(?![^()]*\))", general):
+                    part = part.strip(" .")
+                    if not part or part.lower() == "none":
+                        continue
+                    count = int(c.group(1)) if (c := re.search(r"\s+x(\d)\b", part)) else 1
+                    base = re.sub(r"\s+x\d\b|\s*\(.*?\)", "", part).strip()
+                    if (r := _ct_resolve(base, names)):
+                        tpl["drawbacks"].append({"name": r, "count": count, "detail": part})
+                    else:
+                        tpl["notes"].append(f"Drawback not on the list: {part}")
+                if specific.strip():
+                    tpl["notes"].append(f"Sphere-specific drawbacks: {specific.strip(' .')}")
+            if (m := re.search(r"^Boons?:\s*(.+)$", t, re.M)):
+                for part in re.split(r",\s*(?![^()]*\))", m.group(1)):
+                    part = part.strip(" .")
+                    if part.startswith("+") or not part or part.lower() == "none":
+                        continue  # the bonus spell points the builder works out from the drawbacks
+                    base = re.sub(r"\s*\(.*?\)", "", part).strip()
+                    if base.lower() == "drawback feat":
+                        # "Drawback feat (Careful Magic, Magical Focus)": one boon per feat
+                        feats = [x.strip() for x in re.split(r",\s*", p.group(1))] if (p := re.search(r"\((.+?)\)", part)) else []
+                        tpl["boons"] += ["Drawback Feat"] * max(1, len(feats))
+                        tpl["feats"] += feats
+                    elif base in boon_names:
+                        tpl["boons"].append(base)
+                    else:
+                        tpl["notes"].append(f"Boon: {part}")
+            templates.append(tpl)
+    COMPENDIUM_OUT.mkdir(parents=True, exist_ok=True)
+    (COMPENDIUM_OUT / "casting-traditions.json").write_text(json.dumps(
+        {"drawbacks": drawbacks, "boons": boons, "spellPoints": table, "templates": templates},
+        ensure_ascii=False, indent=1), encoding="utf-8")
+    write_casting_review(drawbacks, boons, templates)
+    return len(drawbacks)
+
+
+def write_casting_review(drawbacks: list[dict], boons: list[dict], templates: list[dict]) -> None:
+    cell = lambda s: s.replace("|", "\\|").replace("\n", " ")
+    link = lambda e: f"[[{e['url'].split('#')[0].split('/')[-1]}#{e['url'].split('#')[1]}\\|{cell(e['name'])}]]"
+    out = [f"---\ntitle: {yaml_str('Compendium Review: Casting Traditions')}\nnosearch: true\n---\n{GENERATED_MARK}\n",
+           "What the Character Builder's \"Add casting tradition\" reads from [[Casting Traditions]]: each general "
+           "drawback's points (and its points when taken a second time), its incompatibilities, the boons' "
+           "requirements, and the sample traditions offered as templates.", "",
+           f"## General drawbacks ({len(drawbacks)})", "", "| Drawback | Points | Incompatible with |", "| --- | --- | --- |"]
+    for d in drawbacks:
+        pts = " then ".join(str(p) for p in d["points"]) + (f" (or {'/'.join(map(str, d['values']))}, GM's call)" if d.get("values") else "")
+        out.append(f"| {link(d)} | {pts} | {cell(', '.join(d['incompatible'])) or '—'} |")
+    out += ["", f"## Boons ({len(boons)})", "", "| Boon | Requires | Notes |", "| --- | --- | --- |"]
+    for b in boons:
+        notes = ", ".join(x for x in [("can be taken more than once" if b["repeatable"] else ""),
+                                      (f"not with {', '.join(b['excludes'])}" if b["excludes"] else ""),
+                                      (f"grants the {b['grantsSphere']} sphere" if b.get("grantsSphere") else ""),
+                                      ("pick a (drawback) feat" if b["feat"] else "")] if x)
+        out.append(f"| {link(b)} | {cell(', '.join(b['requires'])) or '—'} | {notes or '—'} |")
+    out += ["", f"## Templates ({len(templates)})", "", "| Tradition | Group | Drawbacks | Boons | Not read |", "| --- | --- | --- | --- | --- |"]
+    for t in templates:
+        dr = ", ".join(f"{d['name']}" + (f" x{d['count']}" if d["count"] > 1 else "") for d in t["drawbacks"])
+        bo = ", ".join(t["boons"] + [f"feat: {x}" for x in t["feats"]])
+        out.append(f"| {link(t)} | {t['group']} | {cell(dr) or '—'} | {cell(bo) or '—'} | {cell('; '.join(t['notes'])) or '—'} |")
+    dest = CONTENT / COMPENDIUM_REVIEW / "Casting Traditions (Compendium Review).md"
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    dest.write_text("\n".join(out) + "\n", encoding="utf-8")
+
+
 def write_feat_review(entries: list[dict], pf: list[dict]) -> None:
     """Meta/Compendium Review/Feats (Compendium Review).md: type counts, then the Spheres feats by page."""
     def count(es: list[dict]) -> dict[str, int]:
@@ -5726,6 +5892,7 @@ def convert(with_images: bool) -> None:
     print(f"Compendium traits: {build_trait_compendium()}")
     print(f"Compendium races: {build_race_compendium()}")
     print(f"Martial traditions: {build_martial_traditions()}")
+    print(f"Casting tradition drawbacks: {build_casting_traditions()}")
 
     # folders emptied by exclusions or renames
     for d in sorted((d for d in CONTENT.rglob("*") if d.is_dir()), key=lambda d: -len(d.parts)):

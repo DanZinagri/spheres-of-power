@@ -784,3 +784,50 @@ fieldset.trad-choice legend {
 .trad-option select {
   max-width: 100%;
 }
+
+/* Add casting tradition: a wider dialog, the running point total, and a row per drawback / boon */
+dialog.picker.wide {
+  width: min(860px, calc(100vw - 2rem));
+  max-height: min(90vh, 900px);
+  overflow-y: auto;
+}
+.ct-points {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  padding: 0.4rem 0.6rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  background: var(--card);
+}
+.ct-points.warn {
+  border-color: var(--warn);
+}
+.ct-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+.ct-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.25rem 0.75rem;
+  padding: 0.3rem 0.5rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+}
+.ct-row.ct-on {
+  border-color: var(--secondary);
+}
+.ct-row.ct-blocked {
+  opacity: 0.55;
+}
+.ct-row .ct-sum {
+  flex-basis: 100%;
+  font-size: 0.85em;
+}
+.ct-row details.cmp-text {
+  flex-basis: 100%;
+  margin: 0;
+}

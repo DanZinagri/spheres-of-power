@@ -1083,6 +1083,7 @@ const panels = {
         adder,
         h("button", { onclick: () => adder.value && addSphereTalent(adder.value) }, "+ Add sphere"),
         h("button", { onclick: () => openTraditionPicker() }, "+ Add martial tradition"),
+        h("button", { onclick: () => openCastingTradition() }, "+ Add casting tradition"),
       ),
     ]
   },
@@ -1314,6 +1315,181 @@ async function applyTradition(t, grants, index) {
     state.talents.push(row)
   }
   changed(true)
+}
+
+// ---------- casting traditions ----------
+// compendium/casting-traditions.json: the general drawbacks (points, taken-twice, incompatibilities),
+// boons (cost 2 drawback points; requirements), the bonus spell point table and the sample traditions
+// as templates. "Add casting tradition" builds one: drawbacks give points, boons spend 2 each, and the
+// points left become bonus spell points, added to the tradition's "Other" feature as a spellPoints
+// change Foundry works out from the levels in casting classes.
+const CT_ABILITIES = { int: "Intelligence", wis: "Wisdom", cha: "Charisma", con: "Constitution" }
+// "+1, +1 per 6 levels in casting classes" etc. as a formula over L (levels in casting classes)
+const CT_FORMULAS = { 1: (L) => `1 + floor(${L} / 6)`, 2: (L) => `1 + floor(${L} / 3)`, 3: (L) => `ceil(${L} / 2)`,
+  4: (L) => `1 + floor(${L} * 2 / 3)`, 5: (L) => `${L}` }
+
+// levels in casting classes, as Foundry roll data: the classes with a caster level progression
+function castingLevelsFormula() {
+  const parts = state.classes.filter((c) => c.caster && c.caster !== "none" && num(c.level) > 0)
+    .map((c, i) => `@classes.${tagFor(c.name || `Class ${i + 1}`)}.level`)
+  return parts.length ? (parts.length > 1 ? `(${parts.join(" + ")})` : parts[0]) : null
+}
+
+async function openCastingTradition() {
+  const [data, feats] = await Promise.all([
+    loadCompendium("casting-traditions.json", { drawbacks: [], boons: [], spellPoints: {}, templates: [] }),
+    loadCompendium("feats-index.json", []),
+  ])
+  const drawbackFeats = feats.filter((f) => !isPf(f) && f.types.includes("Drawback")).sort((a, b) => a.name.localeCompare(b.name))
+  const D = Object.fromEntries(data.drawbacks.map((d) => [d.name, d]))
+  const B = Object.fromEntries(data.boons.map((b) => [b.name, b]))
+  // the tradition being built
+  const sel = { name: "", ability: state.sphere.casting || "cha", drawbacks: {}, boons: {}, feats: [], template: "", filter: "" }
+  const taken = (n) => sel.drawbacks[n]?.count > 0
+  const pointsOf = (n) => {
+    const d = D[n], s = sel.drawbacks[n]
+    if (!s?.count) return 0
+    return (s.value ?? d.points[0]) + (s.count > 1 ? d.points[1] ?? d.points[0] : 0)
+  }
+  const total = () => Object.keys(sel.drawbacks).reduce((a, n) => a + pointsOf(n), 0)
+  const boonCount = () => Object.values(sel.boons).reduce((a, c) => a + c, 0)
+  const left = () => total() - 2 * boonCount()
+  const blockedBy = (n) => D[n].incompatible.find(taken) || Object.keys(sel.boons).find((b) => sel.boons[b] && B[b].excludes.includes(n))
+  const boonProblem = (b) => {
+    const need = B[b].requires.filter((r) => !taken(r))
+    if (need.length) return `needs ${need.join(", ")}`
+    const ex = B[b].excludes.filter(taken)
+    if (ex.length) return `not with ${ex.join(", ")}`
+    return null
+  }
+  const applyTemplate = (name) => {
+    const t = data.templates.find((x) => x.name === name)
+    sel.template = name
+    sel.drawbacks = {}
+    sel.boons = {}
+    sel.feats = []
+    if (!t) { sel.name = ""; return }
+    sel.name = t.name
+    const ab = Object.entries(CT_ABILITIES).find(([, l]) => (t.ability ?? "").startsWith(l))
+    if (ab) sel.ability = ab[0]
+    for (const d of t.drawbacks) if (D[d.name]) sel.drawbacks[d.name] = { count: Math.min(d.count, D[d.name].points.length) }
+    for (const b of t.boons) if (B[b]) sel.boons[b] = (sel.boons[b] ?? 0) + 1
+    sel.feats = t.feats.map((f) => drawbackFeats.find((x) => x.name.toLowerCase() === f.toLowerCase())?.name ?? "")
+  }
+  const body = h("div", { class: "ct-body" })
+  const dlg = openDialog("Add casting tradition", body)
+  dlg.classList.add("wide")
+  const render = () => {
+    const pts = total(), boons = boonCount(), rest = left()
+    const L = castingLevelsFormula()
+    const sp = Math.min(Math.max(rest, 0), 5)
+    const spLine = sp ? `${sp} left: ${data.spellPoints[sp]} spell points` : "No points left for bonus spell points"
+    const templateSel = h("select", { "aria-label": "Template" }, h("option", { value: "" }, "Custom (start from nothing)"),
+      ...["Standard", "Sample"].map((g) => h("optgroup", { label: g === "Standard" ? "Standard traditions (classes)" : "Sample traditions" },
+        ...data.templates.filter((t) => t.group === g).map((t) => h("option", { value: t.name, selected: sel.template === t.name }, t.name)))))
+    templateSel.addEventListener("change", () => { applyTemplate(templateSel.value); render() })
+    const nameBox = h("input", { value: sel.name, placeholder: "Tradition name", "aria-label": "Tradition name" })
+    nameBox.addEventListener("input", () => { sel.name = nameBox.value })
+    const abil = h("select", { "aria-label": "Casting ability" }, ...Object.entries(CT_ABILITIES).map(([k, l]) => h("option", { value: k, selected: sel.ability === k }, l)))
+    abil.addEventListener("change", () => { sel.ability = abil.value })
+    const tpl = data.templates.find((t) => t.name === sel.template)
+    const filter = h("input", { type: "search", value: sel.filter, placeholder: "Filter drawbacks", "aria-label": "Filter drawbacks" })
+    filter.addEventListener("input", () => { sel.filter = filter.value; const pos = filter.selectionStart; render(); const f = body.querySelector('input[aria-label="Filter drawbacks"]'); f.focus(); f.setSelectionRange(pos, pos) })
+    const rules = (e) => h("details", { class: "cmp-text" }, h("summary", {}, "Rules"), h("div", { style: "white-space:pre-wrap" }, mdToText(e.md)))
+    const drawbackRow = (d) => {
+      const s = sel.drawbacks[d.name] ?? { count: 0 }
+      const block = !taken(d.name) && blockedBy(d.name)
+      const set = (count) => { if (count) sel.drawbacks[d.name] = { ...s, count }; else delete sel.drawbacks[d.name]; render() }
+      const control = d.points.length > 1
+        ? h("select", { "aria-label": `${d.name} times taken`, disabled: !!block, onchange: (e) => set(+e.target.value) },
+            ...[0, 1, 2].map((n) => h("option", { value: n, selected: s.count === n }, n === 0 ? "—" : n === 1 ? "Taken" : "Taken twice")))
+        : h("input", { type: "checkbox", checked: s.count > 0, disabled: !!block, "aria-label": d.name, onchange: (e) => set(e.target.checked ? 1 : 0) })
+      const value = d.values && s.count ? h("select", { "aria-label": `${d.name} worth`, onchange: (e) => { sel.drawbacks[d.name].value = +e.target.value; render() } },
+        ...d.values.map((v) => h("option", { value: v, selected: (s.value ?? d.points[0]) === v }, `worth ${v}`))) : null
+      const ptsLabel = d.points.length > 1 ? `${d.points[0]} pt${d.points[0] > 1 ? "s" : ""}, twice: ${d.points[0] + d.points[1]}` : `${d.points[0]} pt${d.points[0] > 1 ? "s" : ""}`
+      return h("div", { class: `ct-row${block ? " ct-blocked" : ""}${s.count ? " ct-on" : ""}` },
+        h("label", { class: "row", style: "gap:.4rem" }, control, h("b", {}, d.name)),
+        h("span", { class: "pi-meta" }, ptsLabel + (d.values ? ` (or ${d.values.join("/")}, GM's call)` : "")),
+        value,
+        block ? h("span", { class: "note" }, `incompatible with ${block}`) : null,
+        h("span", { class: "pi-sum ct-sum" }, d.summary), rules(d))
+    }
+    const boonRow = (b) => {
+      const c = sel.boons[b.name] ?? 0
+      const problem = boonProblem(b.name)
+      const cantAfford = !c && rest < 2
+      const disabled = !c && (problem || cantAfford)
+      const set = (n) => {
+        if (n > 0) sel.boons[b.name] = n; else delete sel.boons[b.name]
+        if (b.feat) sel.feats = sel.feats.slice(0, n).concat(Array(Math.max(0, n - sel.feats.length)).fill(""))
+        render()
+      }
+      const control = b.repeatable
+        ? h("select", { "aria-label": `${b.name} times`, onchange: (e) => set(+e.target.value) },
+            ...[0, 1, 2, 3, 4, 5].map((n) => h("option", { value: n, selected: c === n, disabled: n > c && (problem || rest < 2 * (n - c)) }, n ? `×${n}` : "—")))
+        : h("input", { type: "checkbox", checked: c > 0, disabled: !!disabled, "aria-label": b.name, onchange: (e) => set(e.target.checked ? 1 : 0) })
+      const featPickers = b.feat && c ? Array.from({ length: c }, (_, i) => {
+        const s = h("select", { "aria-label": `Drawback feat ${i + 1}` }, h("option", { value: "" }, "Choose a (drawback) feat…"),
+          ...drawbackFeats.map((f) => h("option", { value: f.name, selected: sel.feats[i] === f.name }, f.name)))
+        s.addEventListener("change", () => { sel.feats[i] = s.value })
+        return s
+      }) : []
+      return h("div", { class: `ct-row${disabled ? " ct-blocked" : ""}${c ? " ct-on" : ""}` },
+        h("label", { class: "row", style: "gap:.4rem" }, control, h("b", {}, b.name)),
+        h("span", { class: "pi-meta" }, "2 pts" + (b.repeatable ? " each, can be taken more than once" : "")),
+        problem && !c ? h("span", { class: "note" }, problem) : cantAfford && !problem ? h("span", { class: "note" }, "needs 2 points") : null,
+        ...featPickers,
+        h("span", { class: "pi-sum ct-sum" }, b.summary), rules(b))
+    }
+    const q = sel.filter.trim().toLowerCase()
+    body.replaceChildren(
+      h("div", { class: "row picker-filters" },
+        field("Start from", templateSel), field("Name", nameBox), field("Casting ability", abil)),
+      tpl ? h("p", { class: "note" }, tpl.summary, tpl.notes.length ? h("br") : null, tpl.notes.join(" · ")) : null,
+      h("div", { class: `ct-points${rest < 0 ? " warn" : ""}` },
+        h("b", {}, `Drawback points: ${pts}`), ` · Boons: ${boons} (−${2 * boons}) · `, h("b", {}, spLine),
+        rest > 5 ? h("span", { class: "note" }, " (the table stops at 5: spend the rest on boons)") : null,
+        rest < 0 ? h("span", {}, " — boons cost more than the drawbacks give") : null,
+        sp && !L ? h("span", { class: "note" }, " No class has a caster level progression yet; the spell points formula needs one (Classes tab).") : null),
+      h("h3", {}, "Drawbacks"), filter,
+      h("div", { class: "ct-list" }, data.drawbacks.filter((d) => !q || d.name.toLowerCase().includes(q) || d.md.toLowerCase().includes(q)).map(drawbackRow)),
+      h("h3", {}, "Boons"),
+      h("div", { class: "ct-list" }, data.boons.map(boonRow)),
+      h("div", { class: "row add-row" },
+        h("button", { class: "primary", disabled: rest < 0 || !pts && !boons, onclick: async () => { await applyCastingTradition(sel, data, drawbackFeats, D, B); dlg.done(); toast(`Added the ${sel.name || "custom"} casting tradition`) } }, "Add casting tradition"),
+        h("button", { onclick: () => dlg.done() }, "Cancel")))
+  }
+  render()
+
+  async function applyCastingTradition() {
+    const name = sel.name.trim() || "Custom tradition"
+    const rest = left(), sp = Math.min(Math.max(rest, 0), 5)
+    const L = castingLevelsFormula()
+    const dList = Object.keys(sel.drawbacks).filter(taken)
+    const bList = Object.keys(sel.boons).filter((b) => sel.boons[b])
+    const lines = [
+      `Casting ability: ${CT_ABILITIES[sel.ability]}`,
+      `Drawbacks: ${dList.map((n) => `${n}${sel.drawbacks[n].count > 1 ? " ×2" : ""} (${pointsOf(n)})`).join(", ") || "none"}`,
+      `Boons: ${bList.map((b) => `${b}${sel.boons[b] > 1 ? ` ×${sel.boons[b]}` : ""}`).join(", ") || "none"}`,
+      `Bonus spell points: ${sp ? `${sp} drawback point${sp > 1 ? "s" : ""} left: ${data.spellPoints[sp]}` : "none"}`,
+    ]
+    const texts = [...dList.map((n) => `${n}${sel.drawbacks[n].count > 1 ? " (taken twice)" : ""}\n${mdToText(D[n].md)}`),
+      ...bList.map((b) => `${b}${sel.boons[b] > 1 ? ` (×${sel.boons[b]})` : ""}\n${mdToText(B[b].md)}`)]
+    const changes = sp && L ? [{ formula: CT_FORMULAS[sp](L), target: "spellPoints", type: "untyped", operator: "add" }] : []
+    state.features.push(newFeature("misc", { name: `Casting tradition: ${name}`, desc: [lines.join("\n"), ...texts].join("\n\n"), changes }))
+    for (const f of sel.feats.filter(Boolean)) {
+      const e = drawbackFeats.find((x) => x.name === f)
+      const full = e ? (await loadCompendium(e.file, { entries: [] })).entries.find((x) => x.id === e.id) : null
+      state.features.push(newFeature("feat", { name: f, desc: mdToText(full?.md ?? e?.summary ?? ""), ref: e?.id }))
+    }
+    for (const b of bList) if (B[b].grantsSphere) {
+      const key = sphereKey(B[b].grantsSphere)
+      state.talents.push({ name: `${B[b].grantsSphere} sphere`, kind: sphereKind(key) ?? "magic", sphere: key, tags: "base sphere",
+        exclude: false, desc: `Gained from the ${b} boon of the ${name} casting tradition.` })
+    }
+    state.sphere.casting = sel.ability
+    changed(true)
+  }
 }
 
 // adding to a sphere offers its talents from the compendium (or a custom one); a talent with no

@@ -1,0 +1,2967 @@
+{
+ "drawbacks": [
+  {
+   "name": "Addictive Casting",
+   "url": "Spheres-Of-Power/Casting-Traditions#addictive-casting",
+   "md": "Your magic is addictive. Whenever you spend one or more spell points, you must succeed at a Fortitude save against your addiction DC. Your addiction DC is 10, + 1 for each roll you have previously made, to a maximum of 15 + your caster level (thus, your first roll would be a DC 10, the second a DC 11, the third a DC 12, etc.). If you fail this save, you gain a minor addiction, suffering a -2 penalty to Constitution. If you already possess a minor addiction and fail your Fortitude save after spending spell points, you gain a moderate addiction. This increases the penalty to a -2 penalty to Constitution and Strength, and requires 3 saves to overcome. If you fail your save and already have a moderate addiction, you gain a severe addiction, suffering instead a -2 penalty to Dexterity, Constitution, Strength, Wisdom, and your primary casting attribute (if not Wisdom or Constitution). All penalties from your addiction are suppressed for 1 minute whenever you spend a spell point, whether or not you succeeded at your Fortitude save.\n\nEach day you do not use a spell point, you may attempt a Fortitude save against your addiction DC. After succeeding at a save in this fashion, your addiction DC is reduced by 2. If you succeed at 2 consecutive saves, your addiction also reduces by one level (or disappears, if you only have a minor addiction). Unlike normal addictions, an addiction to magic cannot be cured with magic, although the Heal skill can be used to help overcome addictions similar to overcoming diseases.\n\nThis counts as 2 drawbacks when determining boons and bonus spell points.",
+   "summary": "Whenever you spend one or more spell points, you must succeed at a Fortitude save against your addiction DC.",
+   "points": [
+    2
+   ],
+   "incompatible": []
+  },
+  {
+   "name": "Age of Reason",
+   "url": "Spheres-Of-Power/Casting-Traditions#age-of-reason",
+   "md": "*The presence of science and technology interrupts your flow of magic.*\n\nWhen within close range (25 feet + 5 feet per 2 MSB) of an active Tinker sphere gizmo (or other reasonably technological or “invented” item, subject to GM discretion) you increase your wild magic chance by 25%.\n\n**Incompatible:** Clarke Compliance",
+   "summary": "When within close range (25 feet + 5 feet per 2 MSB) of an active Tinker sphere gizmo (or other reasonably technological or “invented” item, subject to GM discretion) you increase your wild magic…",
+   "points": [
+    1
+   ],
+   "incompatible": [
+    "Clarke Compliance"
+   ]
+  },
+  {
+   "name": "Anemic",
+   "url": "Spheres-Of-Power/Casting-Traditions#anemic",
+   "md": "*Source: [Spheres Apocrypha: Casting Traditions 2](https://www.drivethrurpg.com/product/286903/Spheres-Apocrypha-Casting-Traditions-2?affiliate_id=549120)*\n\nYour magic interferes with your natural circulation. If you are immune to bleed damage, you lose that immunity. If you are not subject to bleed damage (such as because of your creature type), you become subject to it. Whenever you take slashing or piercing damage, as well as bleed damage from any other source, you suffer 1 point of bleed damage plus an additional point of bleed damage for every 10 points of your magic skill bonus; this stacks with all other sources of bleed damage. The Heal DC to stop yourself from bleeding increases by your magic skill bonus. Healing from magical sources does not stop you from bleeding unless the caster succeeds on a magic skill check against your magic skill defense. If you receive healing from a non-magical source (including fast healing or regeneration) you must still receive a Heal check in order to stop the bleeding.",
+   "summary": "Whenever you take slashing or piercing damage, as well as bleed damage from any other source, you suffer 1 point of bleed damage plus an additional point of bleed damage for every 10 points of your…",
+   "points": [
+    1
+   ],
+   "incompatible": []
+  },
+  {
+   "name": "Area Bound",
+   "url": "Spheres-Of-Power/Casting-Traditions#area-bound",
+   "md": "You are mystically bonded to a single notable location such as a cave, large tree, spring, a magical laboratory or prominent stone formation and draw your magic from it. You must remain within a number of miles equal to your MSB to use your magic normally. Using magic outside this area requires you to attempt a concentration check (DC 20 + 1/2 the caster level) to produce the desired effect. Failure means time (and any spell points) are spent, but no effect happens. You may bond to a new site of the same general type with an 8 hour ritual.",
+   "summary": "You may bond to a new site of the same general type with an 8 hour ritual.",
+   "points": [
+    1
+   ],
+   "incompatible": []
+  },
+  {
+   "name": "Burdened Magic",
+   "url": "Spheres-Of-Power/Casting-Traditions#burdened-magic",
+   "md": "Without expending proper energy, it becomes difficult for you to utilize your magic. Whenever you attempt to create a sphere effect that costs less than 2 spell points, you must succeed at a concentration check (DC 15 + your caster level if the effect costs no spell points, or DC 10 + your caster level if it costs 1 spell point) or else the sphere effect fails to manifest and any actions and spell points spent on it are wasted. As part of creating a sphere effect, you may raise the spell point cost of the sphere effect to 2 if it would be lower.\n\nWhen using any effect that can enhance or change a sphere effect by spending additional spell points such as (amp) effects, metamagic feats, and dual sphere feats you may include the spellpoint cost of the effect when determining the cost of the sphere effect for this drawback.\n\nThis includes the cost from spending a spell point to allow an effect to remain without concentration, but only if it is spent as part of the action to create the sphere effect.\n\n**Growing Burden:** For every 4 caster levels you possess, the minimum number of spell points you may use without requiring a concentration check increases by 1. You take a -4 penalty on your concentration check from Burdened Magic for each spell point used below the minimum.",
+   "summary": "Whenever you attempt to create a sphere effect that costs less than 2 spell points, you must succeed at a concentration check (DC 15 + your caster level if the effect costs no spell points, or DC 10…",
+   "points": [
+    1
+   ],
+   "incompatible": []
+  },
+  {
+   "name": "Center Of Power",
+   "url": "Spheres-Of-Power/Casting-Traditions#center-of-power",
+   "md": "You have an obvious physical feature which is the source of your magical power. Whenever you cast, any creature observing you can clearly see that your magic originates from your center of power.\n\nIf a critical hit is confirmed on you, your center is disrupted and you lose 1d4 spell points (if you have them) and are dazed for 1 round. A creature can also target your center of power with a called shot, which also causes a disruption. The center of power is considered a challenging shot (-10).\n\nAt the GM’s discretion, certain kinds of physical restraint might also make spellcasting require a concentration check (DC 20 + caster level), depending on the nature of the center of power and the restraint. An undesirable polymorph effect may also produce the same results.\n\nYou may not select this drawback if you possess the Focus Casting or Galvanized drawbacks.",
+   "summary": "Whenever you cast, any creature observing you can clearly see that your magic originates from your center of power.",
+   "points": [
+    1
+   ],
+   "incompatible": [
+    "Focus Casting",
+    "Galvanized"
+   ]
+  },
+  {
+   "name": "Charged Spells",
+   "url": "Spheres-Of-Power/Casting-Traditions#charged-spells",
+   "md": "*Source: [Spheres Apocrypha: Casting Traditions](https://www.drivethrurpg.com/product/286411/Spheres-Apocrypha-Casting-Traditions?affiliate_id=549120)*\n\nYou must prepare a sphere effect into a charge before you can use it yourself. Preparing a charge takes 10 full-round actions (without allowing swift or free actions) in a row that provoke attacks of opportunity. If you are disrupted before you finish your charge, you must start all over to create it, but any spell points invested into its creation are not lost.\n\nYou must determine spell points that will be used as part of the charge as well as the talents, feats, class abilities, and any other modifiers or variables at the time of casting. Any temporary increase to caster level, ability score or other such modifier must be active during the entire creation process in order to benefit you when expended.\n\nExpending a charge to use the sphere effect takes up the same action as using it regularly, and provokes (or does not provoke) attacks of opportunity as would normally happen with the effect. Spell points invested in a charge are locked and cannot be used for any other purpose until expended in the charge. A charge remains until you rest and regain spell points, but can be dismissed prematurely as a free action (this wastes the charge). You can maintain a number of charges at once equal to your magic skill bonus plus your casting ability modifier.\n\nThis drawback counts as 2 drawbacks for the purposes of determining boons. Temporary talents (such as those granted by the prodigy’s adaptation ability) cannot be used as part of a charge.\n\n**Incompatible:** Diagram Magic, Prepared Casting\n\n**Daily Power:** Once you have prepared a charge that requires 3 or more spell points, you cannot prepare any charges that use the same combination of spell point cost and use of talents, feats, class abilities, and any other modifiers or variables until you rest to regain spell points. Any magic sphere effects you use that cost 2 or fewer spell points have their duration reduced to 1 minute if they would normally be higher.\n\n**Divided Power:** No two charges you prepare may have the same combination of spell point cost and use of talents, feats, class abilities, and any other modifiers or variables. This does not stop you from preparing charges that use all of the same talents and feats but have different total spell point costs or preparing charges that use the same spell point cost but different talents and feats among them.\n\n**Sequenced Magic: [Baron’s Imposing Mausoleum]** Your charges must be used in the order they are prepared. Whenever you prepare a charge, you may not use that charge unless you have used or dismissed every charge that you have prepared prior to that charge. You may prepare a single charge at a time as a “priority charge”, in which case you can use the priority charge freely but cannot use any other charges until you have spent the priority charge.\n**Incompatible:** Extended Casting",
+   "summary": "You must prepare a sphere effect into a charge before you can use it yourself.",
+   "points": [
+    2
+   ],
+   "incompatible": [
+    "Diagram Magic",
+    "Prepared Caster"
+   ]
+  },
+  {
+   "name": "Clarke Compliance",
+   "url": "Spheres-Of-Power/Casting-Traditions#clarke-compliance",
+   "md": "*Your magic is created or assisted through an external advanced mechanism, and as such is subject to many of the same limitations.*\n\nYour magic sphere effects are treated as both magical and mechanical for effects, whichever is more disadvantageous (such as for being countered, disabled, disrupted, resisted, or suppressed by abilities and effects that would interact with a magic or mechanical effect). Treat the gizmo level of your magic sphere effects as being equal to your magic skill bonus for the purposes of effects that depend on gizmo level.\n\nCreatures in contact with an active Tinker sphere gizmo (or other reasonably technological or “invented” item, subject to GM discretion) receive a +2 circumstance bonus on saving throws against your magic sphere effects.\n\n**Incompatible:** Age of Reason",
+   "summary": "Treat the gizmo level of your magic sphere effects as being equal to your magic skill bonus for the purposes of effects that depend on gizmo level.",
+   "points": [
+    1
+   ],
+   "incompatible": [
+    "Age of Reason"
+   ]
+  },
+  {
+   "name": "Consciousness Linked",
+   "url": "Spheres-Of-Power/Casting-Traditions#consciousness-linked",
+   "md": "Your effects are linked to you even after you spend a spell point to have them continue without concentration. If you fall asleep or unconscious, or are dazed, stunned, confused, reduced to animal intelligence, or otherwise unable to take coherent mental actions, all of your magical effects immediately end.",
+   "summary": "Your effects are linked to you even after you spend a spell point to have them continue without concentration.",
+   "points": [
+    1
+   ],
+   "incompatible": []
+  },
+  {
+   "name": "Coy Caster",
+   "url": "Spheres-Of-Power/Casting-Traditions#coy-caster",
+   "md": "Your magic is a fickle thing, or perhaps you are simply possessed of performance anxiety. If you attempt to use magic while you know you are being observed, you must attempt a concentration check (DC 15 + 1/2 the caster level) to produce the desired effect. Failure means time (and any spell points) are spent, but no effect happens. If you believe you are hidden or alone, even if you are not, you may use magic normally.\n\n**Addendum:** You may take this drawback a second time. If you do, observation of your magic by any creature other than yourself or a creature created by the effect negates its effects (as if they were inside a dead magic plane) for the duration that the effect or area of the effect is observed. If it has any remaining duration, the effect resumes as soon as nobody else is looking. A magic effect is considered to be observed if creatures can discern an overt effect as it is taking place (for example, a shapeshift or glamer would be suppressed if somebody is looking at it, but observing an active aegis or enhancement with no visible component would require some method of divination in order to be suppressed).",
+   "summary": "If you believe you are hidden or alone, even if you are not, you may use magic normally.",
+   "points": [
+    1,
+    1
+   ],
+   "incompatible": []
+  },
+  {
+   "name": "Decrepit Casting",
+   "url": "Spheres-Of-Power/Casting-Traditions#decrepit-casting",
+   "md": "Your magic uses your own body as fuel, rapidly withering your form the more you utilize it. The first time each round you spend one or more spell points, you must succeed at a Fortitude save against a DC of 10 + 1/2 your caster level or have your body temporarily age. When you age, you suffer the penalties (but not the benefits) as if you had aged one age category.\n\nIf you are already venerable or are treated as such, you instead suffer a cumulative -1 penalty to your Constitution, Dexterity and Strength scores. Your apparent age also changes (though your size category never changes), although you may disguise your age through magical or mundane means as normal. This penalty cannot reduce an ability score below 1, and you return to your normal age and lose all related penalties when you rest and recover your spell points each day. Creatures with no physical ability scores cannot take this drawback, and effects that reduce or remove penalties due to aging have no effect on the penalties bestowed by this drawback.",
+   "summary": "When you age, you suffer the penalties (but not the benefits) as if you had aged one age category.",
+   "points": [
+    1
+   ],
+   "incompatible": []
+  },
+  {
+   "name": "Diagram Magic",
+   "url": "Spheres-Of-Power/Casting-Traditions#diagram-magic",
+   "md": "In order to perform any magical effect, either you or your target must be entirely contained within the boundaries of a special diagram. Creating this diagram requires a full-round action for every 5-foot square contained within the diagram. Once the circle has been drawn, attempt a Spellcraft check as part of the full-round action to draw the final part of the circle against DC 15 + the maximum caster level of any effect to be performed within the circle to determine if it was done correctly. You may take 10 on this check even if in combat or stressed. You can increase the speed at which you draw the diagram but at greater risk of making a mistake. Doing so prevents you from taking 10 on the check, and for every step by which you reduce the time required to draw the diagram, increase the spellcraft DC by +5 to a maximum of +20 to draw the circle as a free action.\n\nThe diagram need not be drawn with any special materials, and can be done with sprinkled salt, paint, blood, a finger in sand, or anything else that may be on hand so long as it is clearly visible. Permanent portable diagrams are usually not possible (as any scuff to the diagram disrupts the magic), but a diagram may be made out of fixed, permanent material such as metal. If a diagram is disrupted (any amount of damage dealt to the surface it is carved upon, or sufficient force from water, wind, or any other effect that might disperse the material the diagram was created with) then any magic currently being maintained by concentration via the diagram immediately ends, and no further magic may be used until a new circle is drawn. Spells and effects created by magic within the diagram (including summoned creatures) never disrupt it even if they would otherwise.\n\nThis counts as 2 drawbacks when determining boons and bonus spell points.",
+   "summary": "You may take 10 on this check even if in combat or stressed.",
+   "points": [
+    2
+   ],
+   "incompatible": [
+    "Charged Spells"
+   ]
+  },
+  {
+   "name": "Draining Casting",
+   "url": "Spheres-Of-Power/Casting-Traditions#draining-casting",
+   "md": "Using magic saps your lifeforce. Whenever you spend one or more spell points you are dealt 1 point of nonlethal damage which cannot be avoided by nonlethal damage immunity, reduced by damage reduction, and cannot be healed through any means except rest (a full night’s rest heals all nonlethal damage caused by this drawback at once). This nonlethal damage increases by 1 point for every 5 caster levels.",
+   "summary": "Whenever you spend one or more spell points you are dealt 1 point of nonlethal damage which cannot be avoided by nonlethal damage immunity, reduced by damage reduction, and cannot be healed through…",
+   "points": [
+    1
+   ],
+   "incompatible": []
+  },
+  {
+   "name": "Emotional Casting",
+   "url": "Spheres-Of-Power/Casting-Traditions#emotional-casting",
+   "md": "Your magic requires heightened emotional states of mind to use. When subject to a non-harmless effect that invokes an emotion (such as fear effects, demoralization, spells with the emotion descriptor, or (charms) such as Fear or Hostility) you are unable to use magic. You may use the metamagic feat Logical Spell to overcome this drawback.",
+   "summary": "You may use the metamagic feat Logical Spell to overcome this drawback.",
+   "points": [
+    1
+   ],
+   "incompatible": [
+    "Madness Mantra"
+   ]
+  },
+  {
+   "name": "Expensive Locus",
+   "url": "Spheres-Of-Power/Casting-Traditions#expensive-locus",
+   "md": "*Source: [Spheres Apocrypha: Casting Traditions](https://www.drivethrurpg.com/product/286411/Spheres-Apocrypha-Casting-Traditions?affiliate_id=549120)*\n\nResting to regain your magic requires an increasingly expensive locus, requiring you to dedicate more and more of your wealth to sustaining your magical power. This locus, and the way you gain power from it can take multiple different forms depending on what is appropriate for the character concept; from setting up expensive runes and talismans to calibrate your astral self, requiring an expensive laboratory to process your material components, or simply sleeping on a dedicated pile of gold to get in touch with your draconic side.\n\nWhenever you rest to regain your spell points, it must be with a locus with a cost of 50 gp x your magic skill bonus squared. The base cost of the locus increases to 100 gp at a magic skill bonus of 10 or higher. This wealth has to be dedicated purely towards fulfilling the locus, with no other utility; meaning that magic items, or equipment you possess cannot count towards this drawback.\n\nUsing magic without your locus requires you to make a concentration check (DC 20 + 1/2 the caster level) to produce the desired effect. Failure means time (and any spell points) are spent, but no effect happens. If a locus is lost, stolen, or broken, the caster must create a new locus by securing the necessary items of the requisite monetary value and spending 8 hours bonding with it. At the GM’s discretion, however, another caster’s locus may be used instead.",
+   "summary": "This locus, and the way you gain power from it can take multiple different forms depending on what is appropriate for the character concept; from setting up expensive runes and talismans to calibrate…",
+   "points": [
+    1
+   ],
+   "incompatible": []
+  },
+  {
+   "name": "Extended Casting",
+   "url": "Spheres-Of-Power/Casting-Traditions#extended-casting",
+   "md": "Your magic takes longer to use than normal. When using an ability gained from a sphere or talent, increase the casting time by one step: swift and immediate actions become move actions, move actions become standard actions, standard actions become full-round actions, full-round actions take 1 round to complete, and 1-round actions take 1 minute to complete. This drawback counts as 2 drawbacks when determining boons and bonus spell points.\n\nYou may take this drawback twice. If taken twice, your casting takes a minimum of 1 minute to perform, regardless of the sphere effect being used. Taking this drawback twice grants a total of 4 drawbacks when determining boons and bonus spell points.",
+   "summary": "When using an ability gained from a sphere or talent, increase the casting time by one step: swift and immediate actions become move actions, move actions become standard actions, standard actions…",
+   "points": [
+    2,
+    2
+   ],
+   "incompatible": []
+  },
+  {
+   "name": "Fey-Infused Magic",
+   "url": "Spheres-Of-Power/Casting-Traditions#fey-infused-magic",
+   "md": "Your magic is intrinsically linked to the realm of Faerie and shares its inhabitants aversion to iron. Any creature wearing light armor consisting of cold iron, steel or iron gains a +1 circumstance bonus to saving throws against sphere effects originating from you. Wearing medium armor increases this bonus to +2 and wearing heavy armor increases it to +3. Wielding a weapon made of cold iron increases this bonus by +1. When a target under the effects of one of your sphere abilities takes damage from iron or steel weapons, that target is treated as if it had been affected by the Counterspell feat, with a magic skill check equal to 10 +1/4th the damage dealt. This Counterspell is applied at the beginning of that creature’s turn, adding together all damage suffered from applicable sources since the beginning of its last turn, and ignores all effects that do not have the Fey-Infused Magic drawback. If the target is struck by a weapon made out of cold iron, the Counterspell is capable of dispelling one additional sphere effect per 5 points of base attack bonus that the attacker possesses.",
+   "summary": "Any creature wearing light armor consisting of cold iron, steel or iron gains a +1 circumstance bonus to saving throws against sphere effects originating from you.",
+   "points": [
+    1
+   ],
+   "incompatible": []
+  },
+  {
+   "name": "Focus Casting",
+   "url": "Spheres-Of-Power/Casting-Traditions#focus-casting",
+   "md": "Your magic requires you to use an item such as a wand, holy symbol, ring, or staff to create magic. The focus must be wielded or equipped to be used (for example, a wand must be held, a ring must be equipped in a ring slot, etc.) Using magic without your focus requires you to attempt a concentration check (DC 20 + 1/2 the caster level) to produce the desired effect. Failure means time (and any spell points) are spent, but no effect happens. If a focus is lost, stolen, or broken, the caster must create a new focus by securing the necessary item and spending 8 hours bonding with it. At the GM’s discretion, however, another caster’s focus may be used instead.\n\nIf you are carrying your focus when subject to a polymorph effect that would normally meld your equipment into your new form, your focus melds into your body as well, causing this drawback to function as the Center of Power drawback for the duration of the effect.\n\nYou may not select this drawback if you possess the Center Of Power or Galvanized drawbacks.",
+   "summary": "You may not select this drawback if you possess the Center Of Power or Galvanized drawbacks.",
+   "points": [
+    1
+   ],
+   "incompatible": [
+    "Center Of Power",
+    "Galvanized"
+   ]
+  },
+  {
+   "name": "Galvanized",
+   "url": "Spheres-Of-Power/Casting-Traditions#galvanized",
+   "md": "Your magic was forged by war, and is integrated with your fighting abilities. To use or concentrate on your abilities, you must be wielding a martial or exotic weapon with at least some metal components (even some metal decorations on a wooden weapon are sufficient). You must be able to attack with the weapon (it cannot be tied down or otherwise unusable), and you must have proficiency with it. The weapon itself does not need to have any special abilities, but cannot have the broken condition.\n\nBeing disarmed or having the weapon sundered counters any sphere abilities you are casting or maintaining. If a polymorph spell causes the weapon to become part of your body you lose your abilities, unless you can still attack with the weapon somehow. You can still switch between weapons while maintaining sphere abilities.\n\nYou may not select this drawback if you possess the Center Of Power or Focus Casting drawbacks.",
+   "summary": "If a polymorph spell causes the weapon to become part of your body you lose your abilities, unless you can still attack with the weapon somehow.",
+   "points": [
+    1
+   ],
+   "incompatible": [
+    "Center Of Power",
+    "Focus Casting"
+   ]
+  },
+  {
+   "name": "Incompatible Energies",
+   "url": "Spheres-Of-Power/Casting-Traditions#incompatible-energies",
+   "md": "The magic of your foes adversely affects yours to an extreme degree. When calculating your MSD, you use half your casting class levels instead of your full casting class levels. Whenever a spell you create is successfully dispelled, you cannot spend spell points for 1 round. In addition, if you possess the Alien Source boon, this drawback does not apply against other casters who draw from the same Alien Source as you.",
+   "summary": "Whenever a spell you create is successfully dispelled, you cannot spend spell points for 1 round.",
+   "points": [
+    1
+   ],
+   "incompatible": []
+  },
+  {
+   "name": "Innate Curse",
+   "url": "Spheres-Of-Power/Casting-Traditions#innate-curse",
+   "md": "*Source: [Spheres Apocrypha: Casting Traditions 2](https://www.drivethrurpg.com/product/286903/Spheres-Apocrypha-Casting-Traditions-2?affiliate_id=549120)*\n\nYour magic comes from a source that curses you, or your cursed condition is a side effect of your casting ability. You suffer the hindrance of a singular oracle curse, and do not get its benefit, nor the benefits that come with increased level. Use your magic skill bonus as your oracle level to determine any penalties from its hindrance. This curse is permanent and cannot be removed.\n\nNot all curses are appropriate for this drawback, and the GM is the ultimate arbiter of which oracle curse you suffer from.\n\n**Special:** If you already possess an oracle’s curse (or gain one later), then you retain this curse in addition to the other curse, but each curse must be a different type of curse and provide different kinds of benefits (even if you don’t possess the curse mastery feat).",
+   "summary": "Use your magic skill bonus as your oracle level to determine any penalties from its hindrance.",
+   "points": [
+    1
+   ],
+   "incompatible": []
+  },
+  {
+   "name": "Madness Mantra",
+   "url": "Spheres-Of-Power/Casting-Traditions#madness-mantra",
+   "md": "*Source: [Spheres Apocrypha: Casting Traditions](https://www.drivethrurpg.com/product/286411/Spheres-Apocrypha-Casting-Traditions?affiliate_id=549120)*\n\nYour magic fights against you for control. At the end of any round in which you spend 1 or more spell points you must succeed at a Will saving throw with a DC of 10 + 1/2 your magic skill bonus or enter into an enraged state at the beginning of your next turn. While enraged, you gain the antagonized condition, always treating the creature(s) closest to you as your antagonist(s).\n\nThe GM may rule that the nature of your power will make you focus specifically on your allies, or beings of great importance to you (for example power that comes from a demon bound inside you may cause you to inflict harm to those you value the most before it can be contained).\n\nWhen you attempt a Sense Motive check to end the antagonized condition, the skill check is made against your own magic skill defense + your casting ability modifier (minimum DC 15).\n\n**Incompatible:** Emotional Casting\n\n**Antagonized:** An antagonized creature can only target its antagonist (the one who caused the antagonized condition) with hostile actions. A hostile action is any attack or effect that causes direct harm to an opponent in the form of damage, negative conditions, or any other effect that penalizes or hinders a creature. Furthermore, an antagonized creature does not threaten any opponents except its antagonist: it cannot make attacks of opportunity or be used to determine flanking bonuses against other opponents. A creature is no longer antagonized if its antagonist is helpless, unconscious, or cannot participate in combat. If an antagonized creature uses an ability that targets multiple creatures, the antagonist must be chosen among these targets. If an antagonized creature uses an ability that targets an area, its antagonist must be within the ability's targeted area.\n\nOn each round after the first, an antagonized creature may attempt a Sense Motive skill check as a swift action to realize the folly of its actions. This skill check is opposed by the antagonist's original antagonize skill check. If the creature succeeds on its Sense Motive skill check, the antagonized condition ends, but the creature suffers a -2 penalty on attack rolls and a -2 penalty to the saving throw DC of its abilities and any spells it casts for 1 minute. These penalties do not apply against the antagonist.",
+   "summary": "At the end of any round in which you spend 1 or more spell points you must succeed at a Will saving throw with a DC of 10 + 1/2 your magic skill bonus or enter into an enraged state at the beginning…",
+   "points": [
+    1
+   ],
+   "incompatible": [
+    "Emotional Casting"
+   ]
+  },
+  {
+   "name": "Magical Signs",
+   "url": "Spheres-Of-Power/Casting-Traditions#magical-signs",
+   "md": "Your magic is accompanied by tell-tale signs; for example, your body glows brightly, the sound of tortured souls shriek as you cast, a deep chill affects all nearby creatures, etc. Using magic automatically breaks stealth, and whenever you use magic all creatures within 60 feet who are observing you are considered to have automatically succeeded at a Spellcraft check to know which sphere effect, talents, and casting tradition you used.\n\nYou may not select this drawback if you possess the Witchmarked drawback.",
+   "summary": "Using magic automatically breaks stealth, and whenever you use magic all creatures within 60 feet who are observing you are considered to have automatically succeeded at a Spellcraft check to know…",
+   "points": [
+    1
+   ],
+   "incompatible": [
+    "Witchmarked"
+   ]
+  },
+  {
+   "name": "Material Casting",
+   "url": "Spheres-Of-Power/Casting-Traditions#material-casting",
+   "md": "Your magic requires the expenditure of specific materials: precious metals, rare components, etc. The exact nature of this material should be worked out with the GM, but as a rule of thumb, this should cost a silver piece worth of materials per caster level per ability used. A player who does not want to track the cost of such material components can instead simply spend 10 gp per caster level per month on components, which is assumed to cover his costs for spells cast and research performed. You must possess a spell component pouch or otherwise have access to your components to use your magic. The gp cost of materials listed in this drawback are certainly not the only metric that can be used to reflect the role of magic materials in a setting, and GMs are encouraged to consider what role magic materials might play in their game.\n\nPerhaps magic in one world requires a pearl to use per spell point, and players must track how many pearls they possess. Perhaps magic is fueled by a rare mineral, the buying and selling of which is heavily regulated by powerful kings, merchants, and other world powers; in such a world, Material Casting might even be worth two drawbacks to reflect its rare usage.",
+   "summary": "Your magic requires the expenditure of specific materials: precious metals, rare components, etc.",
+   "points": [
+    1
+   ],
+   "values": [
+    1,
+    2
+   ],
+   "incompatible": []
+  },
+  {
+   "name": "Mental Focus",
+   "url": "Spheres-Of-Power/Casting-Traditions#mental-focus",
+   "md": "Your magic requires you to have a focus that is not always possible to achieve. You normally have focus, but lose it whenever you fail a save versus mind-affecting magic, have a critical hit confirmed on you, or a condition causes you to lose the ability to concentrate (such as being nauseated or helpless or failing a forced concentration check such as from being entangled). Using magic without your mental focus requires you to attempt a concentration check (DC 20 + 1/2 caster level) to produce the desired effect. Failure means time (and any spell points) are spent, but no effect happens. If focus is lost, the caster can refocus by meditating as a full-round action that provokes attacks of opportunity.",
+   "summary": "You normally have focus, but lose it whenever you fail a save versus mind-affecting magic, have a critical hit confirmed on you, or a condition causes you to lose the ability to concentrate (such as…",
+   "points": [
+    1
+   ],
+   "incompatible": []
+  },
+  {
+   "name": "Narcoleptic Casting",
+   "url": "Spheres-Of-Power/Casting-Traditions#narcoleptic-casting",
+   "md": "Your magic has a pacifying effect that can lull you to sleep. At the end of any round in which you spend 1 or more spell points you must succeed at a Fortitude saving throw with a DC of 10 + 1/2 your magic skill bonus (minimum DC 11) or fall asleep standing up for 1 round. Sleeping creatures are helpless. Slapping or wounding awakens an affected creature, but normal noise does not. Awakening a creature without dealing damage is a standard action (an application of the aid another action). Creatures immune to sleep cannot gain this drawback; if a creature later becomes immune to sleep after gaining this drawback, they must immediately retrain it for another drawback or lose it, recalculating their spell points as appropriate.\n\nThis counts as 2 drawbacks when determining the number of spell points gained.",
+   "summary": "At the end of any round in which you spend 1 or more spell points you must succeed at a Fortitude saving throw with a DC of 10 + 1/2 your magic skill bonus (minimum DC 11) or fall asleep standing up…",
+   "points": [
+    2
+   ],
+   "incompatible": []
+  },
+  {
+   "name": "Oathbound Casting",
+   "url": "Spheres-Of-Power/Casting-Traditions#oathbound-casting",
+   "md": "Your magic derives from a covenant created with yourself or some other powerful entity. Select an Oath you have sworn. In the event that you break that Oath, forsake it, or have no Oaths to upkeep, you lose your spellcasting abilities until you atone, or select a new Oath to be the focus for your spellcasting in a ritual that takes 8 hours to complete.\n\nYour oaths connections to your magic leaves openings for others to exploit, even without forcing you to break your oath. Creatures that succeed at a Spellcraft check to identify your magic become aware of the Oath sworn as well as the vulnerabilities to exploit. By succeeding at a Spellcraft check as a move action, they gain a +2 bonus to AC and saving throws against your magical effects for 1 minute. The DC of this check is equal to 15 + your magic skill bonus.\n\nThe Oaths that you can select for this drawback are the following: Oath against Harm, Oath against Mercy, Oath of Loyalty, Oath of Secrecy, and Oath of Silence. These count as a number of drawbacks equal to the number of oath points they are usually worth. With GM permission, other Oaths or paladin/antipaladin codes can be selected as well.",
+   "summary": "Select an Oath you have sworn.",
+   "points": [
+    1
+   ],
+   "values": [
+    1,
+    2,
+    3
+   ],
+   "incompatible": []
+  },
+  {
+   "name": "Painful Magic",
+   "url": "Spheres-Of-Power/Casting-Traditions#painful-magic",
+   "md": "Your magic debilitates you the more you rely on it. Whenever you spend one or more spell points, you must succeed at a Fortitude save (DC 10 + 1/2 the ability’s caster level) or be sickened for 1 round. If you fail this save while already sickened, you are instead nauseated for 1 round. If you fail this save while nauseated, increase the duration of the nauseated condition by 1 round. Creatures immune to the sickened condition cannot take this drawback.",
+   "summary": "Whenever you spend one or more spell points, you must succeed at a Fortitude save (DC 10 + 1/2 the ability’s caster level) or be sickened for 1 round.",
+   "points": [
+    1
+   ],
+   "incompatible": []
+  },
+  {
+   "name": "Prepared Caster",
+   "url": "Spheres-Of-Power/Casting-Traditions#prepared-caster",
+   "md": "You must prepare your magic before you can use it. After resting to regain spell points, you must assign each of your spell points to a sphere you possess. You cannot spend more spell points in a given sphere in a day than you have assigned to that sphere. Class features and feats that use spell points (such as the Counterspell feat) are considered a single unified ‘sphere’ for this purpose.\n\n**Author's Note:** Temporary spell points interact poorly with prepared casting. A caster with prepared casting assigns how many spell points they can spend on each sphere when they rest and regain spell points. Notably, temporary spell points would generally be spent towards this daily limit. Consult your GM if looking to make temporary spell points work with the Prepared Casting drawback.",
+   "summary": "You must prepare your magic before you can use it.",
+   "points": [
+    1
+   ],
+   "incompatible": [
+    "Charged Spells"
+   ]
+  },
+  {
+   "name": "Rigorous Concentration",
+   "url": "Spheres-Of-Power/Casting-Traditions#rigorous-concentration",
+   "md": "Your magic requires intense amounts of concentration to use. When attempting a concentration check (such as to cast defensively or while taking damage), the DC increases by +10. You may increase the casting time by one step to take extra time focusing and negate this penalty.",
+   "summary": "You may increase the casting time by one step to take extra time focusing and negate this penalty.",
+   "points": [
+    1
+   ],
+   "incompatible": []
+  },
+  {
+   "name": "Skilled Casting",
+   "url": "Spheres-Of-Power/Casting-Traditions#skilled-casting",
+   "md": "You must create your magic through singing, drawing, or performing some other activity. Your magic is tied to a particular Perform, Profession, or Craft skill (although with GM permission another skill may be substituted). You must succeed at a skill check to use any sphere ability. The DC of this skill check is 15 + the ability’s caster level. For every 2 points by which this skill check falls short of this DC, the ability manifests at -1 caster level. If this reduces the ability to a caster level below 0, the manifested ability fails and any spell points used are lost.\n\nA caster with Skilled Casting must be able to perform their skill to use their magic, which is similar to but not the same as possessing other drawbacks. For example, a caster who must draw to create magic must have at least one hand free, although unless he also possesses Somatic Casting he may do so while wearing any armor without a chance of arcane spell failure. Likewise, a caster who uses music to create magic must be able to speak, but unless he also possesses Verbal Casting he can do so by whispering and thus not automatically break stealth.\n\nAt the GM’s discretion, this drawback may count as two drawbacks if the skill involved requires bulky equipment or the use of both hands (for example, the Perform (strings) skill, or Craft (stonework)).",
+   "summary": "You must create your magic through singing, drawing, or performing some other activity.",
+   "points": [
+    1
+   ],
+   "values": [
+    1,
+    2
+   ],
+   "incompatible": []
+  },
+  {
+   "name": "Somatic Casting",
+   "url": "Spheres-Of-Power/Casting-Traditions#somatic-casting",
+   "md": "You must gesture to cast spells—a process that requires you to have at least 1 hand unoccupied. When using magic, you cannot wear armor heavier than light without incurring a chance of arcane spell failure.\n\nYou may select this drawback twice. If taken a second time, you cannot wear any armor or use a shield without incurring a chance of arcane spell failure.\n\n**Note:** With GM permission, it is possible to modify this drawback so that, when taken once, the caster may wear either light or medium armor but cannot use a shield without incurring a chance of arcane spell failure, mimicking the core bloodrager.",
+   "summary": "You may select this drawback twice.",
+   "points": [
+    1,
+    1
+   ],
+   "incompatible": []
+  },
+  {
+   "name": "Spell Stand-In",
+   "url": "Spheres-Of-Power/Casting-Traditions#spell-stand-in",
+   "md": "*Source: [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)*\n\nIn place of being able to cast spells directly, you must channel them through a summoned companion. You lose the ability to cast any sphere effect through yourself outside of summoning your companions. You gain the Conjuration sphere and the Spell Conduit talent as bonus talents, and the Spell Channel feat as a bonus feat.",
+   "summary": "You gain the Conjuration sphere and the Spell Conduit talent as bonus talents, and the Spell Channel feat as a bonus feat.",
+   "points": [
+    1
+   ],
+   "incompatible": []
+  },
+  {
+   "name": "Substantial Magic",
+   "url": "Spheres-Of-Power/Casting-Traditions#substantial-magic",
+   "md": "Your magic manifests into tangible, corporeal substances, leaving them open to disruption. Any magic sphere effect you cast that has a duration longer than instantaneous manifests as a solid magic object that lasts for as long as the effect does.\n\nMagic sphere effects that either target one or more creatures, or are centered and move with a creature (such as an aegis, a consecration, or a spirit ability) manifest as a worn item on the creature, such as an amulet or set of armor (which does not occupy an item slot, provides no additional benefits based on its form, and cannot be removed); summoned or polymorphed creatures appear with such an item worn.\n\nMagic sphere effects that affect a defined area (such as a totem, ward, or entangle) appear as a Tiny-sized object, centered in the area. The object cannot be moved unless the sphere effect would normally be able to be moved (such as when using the Redeployment War sphere talent).\n\nMagic objects created by this drawback do not block line of sight or line of effect. The magic objects have a hardness equal to your casting ability modifier, AC equal to 10 + your magic skill bonus + the object’s size modifier (+2 for a Tinysized object), a number of hit points equal to your magic skill bonus + your casting ability modifier, a Break DC of 15 + 1/2 your magic skill bonus, and saving throw bonuses equal to 2 + 1/2 your magic skill bonus. The magic object is immune to its own effects. When worn, a magic object created by this drawback can be sundered.\n\nMagic objects can be identified as being the source of a magic sphere effect (but not what the sphere effect is) with a Spellcraft check against a DC equal to 15 + your magic skill bonus. If the object is destroyed, the sphere effect is immediately dispelled. If a magic sphere effect would already create an object (such as create or the Energy Tether talent), they are not subject to this drawback.\n\n**Incompatible:** Crystalline (Protection), Manifest Totem (War).\n\n**Note:** Unique to the Substantial Magic casting drawback is that it is incompatible with some sphere-specific drawbacks. Characters cannot select these sphere-specific drawbacks and, if they would possess them, cannot use those sphere effects. Characters may buy back those drawbacks as normal to regain use of those sphere effects.",
+   "summary": "The magic objects have a hardness equal to your casting ability modifier, AC equal to 10 + your magic skill bonus + the object’s size modifier (+2 for a Tinysized object), a number of hit points…",
+   "points": [
+    1
+   ],
+   "incompatible": []
+  },
+  {
+   "name": "Terrain Casting",
+   "url": "Spheres-Of-Power/Casting-Traditions#terrain-casting",
+   "md": "Your magic draws upon the primal energy and nutrients of the terrain. Whenever you use a sphere talent or ability you must either spend an additional spell point or increase your casting time by one step, else your magic drains and corrupts your space and all adjacent squares. Terrain that has been blighted in such a manner prevents those who possess the Terrain Casting drawback from using sphere talents or abilities as if it were a dead magic zone. Areas that have had its nutrients drained are affected in different ways depending upon location (water may turn brackish or stagnant, while soil may become barren or salted); regardless of location, blighted areas will generally heal naturally after a year.",
+   "summary": "Whenever you use a sphere talent or ability you must either spend an additional spell point or increase your casting time by one step, else your magic drains and corrupts your space and all adjacent…",
+   "points": [
+    1
+   ],
+   "incompatible": []
+  },
+  {
+   "name": "Unsettling Casting",
+   "url": "Spheres-Of-Power/Casting-Traditions#unsettling-casting",
+   "md": "You take 1 point of strain damage every time you cast a spell, plus an additional point of strain damage for every spell point beyond the first that you spend. This strain damage cannot be removed until at least 24 hours after it is taken. Strain damage gained from effects created within 1 minute of each other is cumulative for the purpose of determining if a character gains a severance.",
+   "summary": "You take 1 point of strain damage every time you cast a spell, plus an additional point of strain damage for every spell point beyond the first that you spend.",
+   "points": [
+    1
+   ],
+   "incompatible": []
+  },
+  {
+   "name": "Unstable Storage",
+   "url": "Spheres-Of-Power/Casting-Traditions#unstable-storage",
+   "md": "The methods you have developed to store your magical potency are improperly practiced, dangerous, or otherwise fragile to others. You have some sort of obvious indicator of the levels of your magical reserves that alert any creature who can see you of how many spell points you have in reserve. The exact indicator varies across different casters, ranging from crystalline growths on their body that fade after magical use, to their skin color and tone draining the lower their spell point pool is.\n\nAdditionally, your spell point pool also serves as a bridge to your vitality. When you have less than 1/2 of your total capacity of spell points (rounded down), you are fatigued. When you have less than 1/4 of your total spell point capacity, you are exhausted. When you have no spell points remaining, you must attempt a concentration check (DC 15 + your caster level, +2 for every check succeeded, which resets when you rest to regain spell points) every hour and when you cast sphere effects or otherwise fall asleep. These conditions may only be cured by gaining spell points (including temporary ones) above the thresholds whether via use of Mana sphere, consumables, or rest. This drawback counts as 2 drawbacks when determining the number of spell points gained. The fatigued, exhausted and sleep conditions caused by this drawback bypass any immunities you may have. You can be woken up from sleep normally unless a different effect would prevent you from waking.\n\n**Author's Note:** The exhausted, fatigued, and sleep conditions caused by this drawback bypass any immunity to those conditions. You can be woken up from sleep normally unless some other effect prevents that.",
+   "summary": "When you have less than 1/2 of your total capacity of spell points (rounded down), you are fatigued.",
+   "points": [
+    2
+   ],
+   "incompatible": []
+  },
+  {
+   "name": "Vampiric Casting",
+   "url": "Spheres-Of-Power/Casting-Traditions#vampiric-casting",
+   "md": "Your magic is conjured through the lifeforce of creatures you have consumed. After you rest and regain spell points, your caster level with all spheres you possess is reduced to 1 (after any bonuses, but before penalties are applied). If your caster level with a sphere was already 1 or lower, it instead becomes 0.\n\nYou may drain the blood of a helpless or willing creature within reach by spending a full-round action, which causes them to suffer a -2 penalty to their Constitution score for 24 hours, which cannot be cured, reduced or ignored by any effect. You cannot drain the blood of creatures with Hit Dice less than half your MSB, your subordinates, or creatures that do not possess a Constitution score. You may not drain the same creature more than once in any 48 hour period of time. The first time each day that you drain blood from a creature, your caster level is instead reduced by half (minimum 1, applied after bonuses but before penalties) rather than set to 1. The second time you drain blood, you suffer no penalty to your caster level.\n\nIf your caster level with a sphere is 0 due to this drawback, you cannot utilize magic with that sphere. You may continue draining blood from creatures after removing this penalty, which reduces the penalty you would gain after your next rest at the same rate, but you may not reduce the penalty of any future days beyond your next rest.\n\nYou may take this drawback a second time, if you do, your hunger for blood intensifies, and the drawback is altered in the following ways:\n\nAfter draining the blood of one creature, your caster level becomes equal to 1/3 your caster level with each sphere (after any bonuses, but before penalties). After draining the blood of a second creature, it becomes equal to 2/3 your caster level with each sphere (after bonuses, but before penalties). After draining the blood of three creatures, you do not suffer a penalty to your caster level. If you attempt to utilize magic without draining at least one creature, or a full day passes where you do not drain a creature, you must make a Will save against berserking (DC 5 + 1/2 your MSB + 2 for each save made against berserking in the past week, maximum of 20 + your MSB). Failure indicates you berserk for 1 hour or until you next drain blood, losing control of your actions as your body takes every action it possibly can (including utilizing magic, which never suffers from the penalty to your caster level while berserking) in order to a drain a suitable creature's blood. If you fail your saving throw against berserking 3 consecutive times, your berserk becomes permanent and does not end when draining a creature's blood. Your berserk is considered a magical emotion effect with a magic skill defense equal to your MSD+5, and can be ended through the Break Enchantment talent or similar effects, but cannot be dispelled through the Counterspell feat. Draining creatures after removing your penalty to your caster level no longer allows you to reduce the penalty you would incur after your next rest.\n\nThis drawback counts as 2 drawbacks when determining the number of spell points gained, or as 3 drawbacks if taken twice.",
+   "summary": "You may drain the blood of a helpless or willing creature within reach by spending a full-round action, which causes them to suffer a -2 penalty to their Constitution score for 24 hours, which cannot…",
+   "points": [
+    2,
+    1
+   ],
+   "incompatible": []
+  },
+  {
+   "name": "Verbal Casting",
+   "url": "Spheres-Of-Power/Casting-Traditions#verbal-casting",
+   "md": "You must speak in a loud, clear voice to cast spells. Using magic alerts all nearby hearing creatures to your presence and location, effectively breaking stealth. You cannot cast in an area of magical silence, or in any other situation where you are unable to speak clearly.",
+   "summary": "You must speak in a loud, clear voice to cast spells.",
+   "points": [
+    1
+   ],
+   "incompatible": []
+  },
+  {
+   "name": "Vulnerable Spellcaster",
+   "url": "Spheres-Of-Power/Casting-Traditions#vulnerable-spellcaster",
+   "md": "Your magical capabilities are directly linked to your physical state. When suffering from a condition or effect that bestows an attack penalty (or penalty, ability damage or ability drain to any physical ability score), you apply the largest penalty (counting ability damage or drain as a penalty) to your caster level. These penalties stack if you have multiple conditions, although they may not reduce your caster level below 1. Other penalties to your caster level may reduce your caster level to below 1, in which case any attempt to cast a sphere effect automatically fails, and the spell points are wasted. Additionally, you may not utilize magic while suffering from the frightened or panicked conditions.\n\nIf your caster level is brought below the requirement needed to cast certain advanced magic, rituals, incantations or to qualify for certain feats, you cannot make use of them while your caster level is reduced under the amount needed to cast the sphere effect or qualify for the feat.\n\n**Note:** Under the GM’s discretion, other effects that would penalize the caster in a physical way may apply a similar penalty to their caster level.",
+   "summary": "When suffering from a condition or effect that bestows an attack penalty (or penalty, ability damage or ability drain to any physical ability score), you apply the largest penalty (counting ability…",
+   "points": [
+    1
+   ],
+   "incompatible": []
+  },
+  {
+   "name": "Wild Magic / Variant Wild Magic",
+   "url": "Spheres-Of-Power/Casting-Traditions#wild-magic--variant-wild-magic",
+   "md": "Your magic is not entirely stable and can result in a variety of unwanted effects. You have a base wild magic chance of 10% (whenever you cast a spell or magical sphere ability, you have a 10% chance of activating a wild magic event). When you activate a wild magic event, roll as if you had activated a rod of wonder, then add that effect to those you produce with your magic. GMs may always use their own wild magic tables (such as the [[Wild Magic|wild magic]] tables on this wiki) to determine the nature of a wild magic event.",
+   "summary": "You have a base wild magic chance of 10% (whenever you cast a spell or magical sphere ability, you have a 10% chance of activating a wild magic event).",
+   "points": [
+    1
+   ],
+   "incompatible": []
+  },
+  {
+   "name": "Witchmarked",
+   "url": "Spheres-Of-Power/Casting-Traditions#witchmarked",
+   "md": "Some aspect of your visage is a dead giveaway about your magical nature. This could be any purely cosmetic modification or sensation that is hard to hide such as a vestigial tail (or tails), glowing eyes, an aura visible to the naked eye or the stench of death clinging to you. The intensity of this trait grows proportional to your power. Anyone who sees you may attempt a Knowledge (arcana) check (DC 20 - your MSB, minimum DC 0) to learn your magic skill bonus, caster level and what base magic spheres you possess.\n\nYou may attempt to hide your witchmark trait, but doing so requires a successful Disguise check (DC 10 + your MSB, roll is hidden). Alternatively, if attempting to hide your witchmark as part of a more elaborate disguise, this gives a penalty to that Disguise check equal to your MSB. Using an illusion, shapechange, or other magical disguise to hide your witchmark automatically succeeds, but any use of magic that does not explicitly hide your witchmark instead immediately reveals your witchmark to all observers.\n\nYou may not select this drawback if you possess the Magical Signs drawback.",
+   "summary": "Anyone who sees you may attempt a Knowledge (arcana) check (DC 20 - your MSB, minimum DC 0) to learn your magic skill bonus, caster level and what base magic spheres you possess.",
+   "points": [
+    1
+   ],
+   "incompatible": [
+    "Magical Signs"
+   ]
+  }
+ ],
+ "boons": [
+  {
+   "name": "Alien Source",
+   "url": "Spheres-Of-Power/Casting-Traditions#alien-source",
+   "md": "You draw your magic from an unusual location, such as technology or an alternate matrix of magic (the specifics of this source should be determined by the player and GM together). Those who do not understand the mechanics of your powers struggle to resist them. Casters take a -2 penalty on any attempts to counterspell your abilities. Spell resistance against your abilities is reduced by 2. In addition, you gain a bonus to MSD equal to half your character level against effects which would suppress your magic (such as the Spell Ward talent of the Protection sphere) and do not take the penalty to MSD from Incompatible Energies when resisting such effects. These abilities can be ignored by a caster if they possess the same Alien Source as you from this boon, the Harmonic Counter feat, or a certain magic sphere that you possess (the magic sphere is chosen by you at the time you select this boon).",
+   "summary": "Casters take a -2 penalty on any attempts to counterspell your abilities.",
+   "repeatable": false,
+   "requires": [],
+   "excludes": [],
+   "feat": false
+  },
+  {
+   "name": "Atmoturgy",
+   "url": "Spheres-Of-Power/Casting-Traditions#atmoturgy",
+   "md": "Choose a weather category (Aridity, Cold, Heat, Precipitation, or Wind). While in weather of this type of severity level 3 or higher, you gain a +1 competence bonus to your caster level. At severity level 6 or higher, this bonus becomes +2.",
+   "summary": "Choose a weather category (Aridity, Cold, Heat, Precipitation, or Wind).",
+   "repeatable": false,
+   "requires": [],
+   "excludes": [],
+   "feat": false
+  },
+  {
+   "name": "Bound Creature",
+   "url": "Spheres-Of-Power/Casting-Traditions#bound-creature",
+   "md": "Your magic is tied to a magical creature, who shares essence and power with you.\n\nYou gain the Conjuration sphere (or the Extra Companion talent if you already possess the Conjuration sphere), and a companion who serves as the source of your power. Your companion can possess companion archetypes and gain (form) talents as a normal companion, but does not gain the extraplanar subtype; it cannot be summoned, dismissed, or banished, and costs no spell points to use. (Form) talents that require the expenditure of spell points when a companion is summoned can be activated by spending those points after you rest to regain spell points, in which case the benefit lasts until the next time you rest to regain spell points. Bound creatures cannot benefit from talents gained from implements or that you do not permanently possess.\n\nYou do not suffer a chance of failure from the Focus Casting drawback so long as your bound creature is on the same plane as you and is within medium range (100 feet + 10 feet per caster level). If your bound creature dies, you suffer a chance of spell failure as outlined in the Focus Casting drawback until you gain another bound creature or bring the previous one back to life somehow. You cannot bond with a new creature for 30 days or until you gain another level, whichever comes first. A caster must possess the Focus Casting drawback to select this boon.",
+   "summary": "You gain the Conjuration sphere (or the Extra Companion talent if you already possess the Conjuration sphere), and a companion who serves as the source of your power.",
+   "repeatable": false,
+   "requires": [
+    "Focus Casting"
+   ],
+   "excludes": [],
+   "grantsSphere": "Conjuration",
+   "feat": false
+  },
+  {
+   "name": "Deathful Magic",
+   "url": "Spheres-Of-Power/Casting-Traditions#deathful-magic",
+   "md": "The closer you are to death, the more powerful your magic. While you are at half hit points or less, you gain a +1 competence bonus to your caster level. While you are at 1/4th your total hit points or less, this competence bonus increases to +2.",
+   "summary": "While you are at half hit points or less, you gain a +1 competence bonus to your caster level.",
+   "repeatable": false,
+   "requires": [],
+   "excludes": [],
+   "feat": false
+  },
+  {
+   "name": "Draw Magic",
+   "url": "Spheres-Of-Power/Casting-Traditions#draw-magic",
+   "md": "You gain a +1 competence bonus to your caster level whenever at least 3 creatures under the effects of your sphere abilities are within 30 feet of you. This competence bonus increases to +2 if there are at least 6 such creatures within 30 feet.",
+   "summary": "You gain a +1 competence bonus to your caster level whenever at least 3 creatures under the effects of your sphere abilities are within 30 feet of you.",
+   "repeatable": false,
+   "requires": [],
+   "excludes": [],
+   "feat": false
+  },
+  {
+   "name": "Drawback Feat",
+   "url": "Spheres-Of-Power/Casting-Traditions#drawback-feat",
+   "md": "You gain a (drawback) feat, chosen when this casting tradition is created. You may take this boon multiple times.\n\n**See Also:** [[DrawbackDefiler Feats|Drawback Feats]]",
+   "summary": "You gain a (drawback) feat, chosen when this casting tradition is created.",
+   "repeatable": true,
+   "requires": [],
+   "excludes": [],
+   "feat": true
+  },
+  {
+   "name": "Easy Focus",
+   "url": "Spheres-Of-Power/Casting-Traditions#easy-focus",
+   "md": "When maintaining a sphere ability through concentration, effects that normally require a standard action to concentrate on only require a move action for you. This does not decrease the sphere ability’s casting time, only the action used to maintain concentration.",
+   "summary": "When maintaining a sphere ability through concentration, effects that normally require a standard action to concentrate on only require a move action for you.",
+   "repeatable": false,
+   "requires": [],
+   "excludes": [],
+   "feat": false
+  },
+  {
+   "name": "Embodiment",
+   "url": "Spheres-Of-Power/Casting-Traditions#embodiment",
+   "md": "You have come to mentally embody some substance in spirit. Select some substance to which you have a mental or philosophical kinship. Magic that can only affect that substance or work through that substance can still affect you if you wish to be so affected.\n\nThis does not allow you to use talents or abilities that only affect items of a particular nature on yourself, but allows you to use abilities that could reasonably apply to you apart from a material limitation. For instance, you could not use the Nature sphere to use Elevated Nature on yourself via Embodiment (trees), but you could use Limited Telekinesis (ice) to move yourself via Embodiment (ice). Similarly, having Embodiment (trees) would allow another with Limited Warp (trees) to teleport to your location if you knew they wished to and allowed it to happen.",
+   "summary": "Select some substance to which you have a mental or philosophical kinship.",
+   "repeatable": false,
+   "requires": [],
+   "excludes": [],
+   "feat": false
+  },
+  {
+   "name": "Empowered Abilities",
+   "url": "Spheres-Of-Power/Casting-Traditions#empowered-abilities",
+   "md": "Your magic grows in strength the more you use it. While your current number of spell points is half your total spell points or less, you gain a +1 competence bonus to your caster level. While your current number of spell points is 0, the competence bonus to your caster level becomes +2.",
+   "summary": "While your current number of spell points is half your total spell points or less, you gain a +1 competence bonus to your caster level.",
+   "repeatable": false,
+   "requires": [],
+   "excludes": [],
+   "feat": false
+  },
+  {
+   "name": "Fortified Casting",
+   "url": "Spheres-Of-Power/Casting-Traditions#fortified-casting",
+   "md": "You may use your Constitution as your casting ability modifier if it is higher than your usual casting ability modifier. You must possess the Draining Casting drawback to select this boon.",
+   "summary": "You may use your Constitution as your casting ability modifier if it is higher than your usual casting ability modifier.",
+   "repeatable": false,
+   "requires": [
+    "Draining Casting"
+   ],
+   "excludes": [],
+   "feat": false
+  },
+  {
+   "name": "Metamagic Expert",
+   "url": "Spheres-Of-Power/Casting-Traditions#metamagic-expert",
+   "md": "Your sphere abilities are cast with a +1 competence bonus to caster level whenever you augment it with a metamagic feat.",
+   "summary": "Your sphere abilities are cast with a +1 competence bonus to caster level whenever you augment it with a metamagic feat.",
+   "repeatable": false,
+   "requires": [],
+   "excludes": [],
+   "feat": false
+  },
+  {
+   "name": "Overcharge",
+   "url": "Spheres-Of-Power/Casting-Traditions#overcharge",
+   "md": "You may overcharge your magic, giving yourself great power at the cost of your own strength. Whenever you use a sphere ability, you may give yourself a +2 competence bonus to your caster level for that ability, but you become fatigued afterward. If you are already fatigued, you become exhausted. If you are exhausted, you collapse to the ground unconscious for 1d4 rounds. Creatures immune to fatigue cannot benefit from this boon.",
+   "summary": "You may overcharge your magic, giving yourself great power at the cost of your own strength.",
+   "repeatable": false,
+   "requires": [],
+   "excludes": [],
+   "feat": false
+  },
+  {
+   "name": "Overconsumption",
+   "url": "Spheres-Of-Power/Casting-Traditions#overconsumption",
+   "md": "If you have fully removed your penalty from your Vampiric Casting drawback and drain a creature’s blood, instead of having the blood drain count towards how many creatures you have drained blood from in the next day, you can choose to instead gain a +1 competence bonus to your caster level, or +2 if you have the Vampiric Casting drawback twice, on the next sphere effect you create in the next minute. This bonus stacks with itself, up to a maximum of a +2 competence bonus. You must have the Vampiric Casting drawback to select this boon.",
+   "summary": "If you have fully removed your penalty from your Vampiric Casting drawback and drain a creature’s blood, instead of having the blood drain count towards how many creatures you have drained blood from…",
+   "repeatable": false,
+   "requires": [
+    "Vampiric Casting"
+   ],
+   "excludes": [],
+   "feat": false
+  },
+  {
+   "name": "Overwhelming Power",
+   "url": "Spheres-Of-Power/Casting-Traditions#overwhelming-power",
+   "md": "Creatures under the effects of at least 1 of your sphere abilities suffer a -1 penalty to their saves against your other sphere abilities. This penalty increases to -2 if they are under the effects of at least 3 of your sphere abilities.",
+   "summary": "Creatures under the effects of at least 1 of your sphere abilities suffer a -1 penalty to their saves against your other sphere abilities.",
+   "repeatable": false,
+   "requires": [],
+   "excludes": [],
+   "feat": false
+  },
+  {
+   "name": "Sanguine Empowerment",
+   "url": "Spheres-Of-Power/Casting-Traditions#sanguine-empowerment",
+   "md": "At the beginning of your turn when you take damage from an ongoing bleed effect, you gain a +1 competence bonus to your caster level until the start of your next turn.",
+   "summary": "At the beginning of your turn when you take damage from an ongoing bleed effect, you gain a +1 competence bonus to your caster level until the start of your next turn.",
+   "repeatable": false,
+   "requires": [],
+   "excludes": [],
+   "feat": false
+  },
+  {
+   "name": "Unbound Magic",
+   "url": "Spheres-Of-Power/Casting-Traditions#unbound-magic",
+   "md": "*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*\n\nYou can dismiss any sphere effect you create with a duration, and can do so as a free action.\n\nAdditionally, the lingering aura of a dismissed spell cannot be detected by magic unless the caster succeeds at a magic skill check against your magic skill defense.\n\nIf you create a magical effect that is an area of effect and can be moved during its casting (such as an Illusion sphere figment, a darkness or blot with the Rolling Darkness talent, or a totem with the Redeployment talent) you can do so one step faster (standard, move, swift, free usable once per turn).",
+   "summary": "You can dismiss any sphere effect you create with a duration, and can do so as a free action.",
+   "repeatable": false,
+   "requires": [],
+   "excludes": [],
+   "feat": false
+  },
+  {
+   "name": "Virtuoso",
+   "url": "Spheres-Of-Power/Casting-Traditions#virtuoso",
+   "md": "Your magic is blended into your performance making it more difficult to identify. Observers must attempt a Perception or Sense Motive check opposed by your Skilled Casting check to realize that you are even invoking magic. You must possess the Skilled Casting drawback to select this boon, and cannot possess drawbacks such as Center of Power, Magical Signs, or Witchmarked that specifically reveal the nature of your casting.",
+   "summary": "You must possess the Skilled Casting drawback to select this boon, and cannot possess drawbacks such as Center of Power, Magical Signs, or Witchmarked that specifically reveal the nature of your…",
+   "repeatable": false,
+   "requires": [
+    "Skilled Casting"
+   ],
+   "excludes": [
+    "Center Of Power",
+    "Magical Signs",
+    "Witchmarked"
+   ],
+   "feat": false
+  },
+  {
+   "name": "Wild Surge",
+   "url": "Spheres-Of-Power/Casting-Traditions#wild-surge",
+   "md": "As a free action, you may gain a +2 competence bonus to caster level to the next sphere effect you cast before the start of your next turn by increasing your wild magic chance by 100% for the same period.",
+   "summary": "As a free action, you may gain a +2 competence bonus to caster level to the next sphere effect you cast before the start of your next turn by increasing your wild magic chance by 100% for the same…",
+   "repeatable": false,
+   "requires": [],
+   "excludes": [],
+   "feat": false
+  },
+  {
+   "name": "Wild Will",
+   "url": "Spheres-Of-Power/Casting-Traditions#wild-will",
+   "md": "Choose an environment from the ranger’s favored terrain list. Animals, vermin, and magical beasts commonly found in your selected environment are especially susceptible to your magic; your talents are treated as 2 caster levels higher when affecting these creatures. Vermin common to these environments are treated as animals with an Intelligence score of 1 for the purposes of affecting them with your mind-affecting talents.\n\nThis boon may be taken multiple times, each time using a different environmental setting.",
+   "summary": "Choose an environment from the ranger’s favored terrain list.",
+   "repeatable": true,
+   "requires": [],
+   "excludes": [],
+   "feat": false
+  }
+ ],
+ "spellPoints": {
+  "1": "+1, +1 per 6 levels in casting classes",
+  "2": "+1, +1 per 3 levels in casting classes",
+  "3": "+1 per odd level in a casting class (1, 3, 5, etc.)",
+  "4": "+1, +1 per 1.5 levels in a casting class (2, 3, 5, 6, etc.)",
+  "5": "+1 per level in a casting class"
+ },
+ "templates": [
+  {
+   "name": "Alchemist",
+   "group": "Standard",
+   "url": "Spheres-Of-Power/Casting-Traditions#alchemist",
+   "summary": "Magic Type: Arcane Casting Ability Modifier: Intelligence Drawbacks: Extended Casting x2, Material Casting; Transformative Brew (Alteration), Humors (Blood), Meld Into Dark and Shadowed Brew (Dark),…",
+   "drawbacks": [
+    {
+     "name": "Extended Casting",
+     "count": 2,
+     "detail": "Extended Casting x2"
+    },
+    {
+     "name": "Material Casting",
+     "count": 1,
+     "detail": "Material Casting"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [
+    "Sphere-specific drawbacks: Transformative Brew (Alteration), Humors (Blood), Meld Into Dark and Shadowed Brew (Dark), Necromantic Concoction (Death), Shape Focus (Energy Bomb) (Destruction), Divining Concoction (Divination), Special Delivery (Enhancement), Cursed Brew and Tongue Of Ages (Fate), Glamered Brew and Obscura Mage (Illusion), Medicinal (Life), Glowing Brew (Light), Addling Brew (Mind), Holistic Brew and Limited Nature x2 (Nature), Limited Protection (aegis) and Protective Brew (Protection), Temporal Brew (Time), Warping Brew (Warp), Atmospheric Brew and Localized Weather (Weather)"
+   ],
+   "ability": "Intelligence"
+  },
+  {
+   "name": "Arcanist",
+   "group": "Standard",
+   "url": "Spheres-Of-Power/Casting-Traditions#arcanist",
+   "summary": "Magic Type: Arcane Casting Ability Modifier: Intelligence Drawbacks: Material Casting, Prepared Caster, Somatic Casting x2, Verbal Casting Boon: +1 spell point per level gained in casting classes.",
+   "drawbacks": [
+    {
+     "name": "Material Casting",
+     "count": 1,
+     "detail": "Material Casting"
+    },
+    {
+     "name": "Prepared Caster",
+     "count": 1,
+     "detail": "Prepared Caster"
+    },
+    {
+     "name": "Somatic Casting",
+     "count": 2,
+     "detail": "Somatic Casting x2"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [],
+   "ability": "Intelligence"
+  },
+  {
+   "name": "Bard",
+   "group": "Standard",
+   "url": "Spheres-Of-Power/Casting-Traditions#bard",
+   "summary": "Magic Type: Arcane Casting Ability Modifier: Charisma Drawbacks: Somatic Casting, Verbal Casting Boon: +1 spell point, +1 per three levels gained in casting classes.",
+   "drawbacks": [
+    {
+     "name": "Somatic Casting",
+     "count": 1,
+     "detail": "Somatic Casting"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [],
+   "ability": "Charisma"
+  },
+  {
+   "name": "Bloodrager",
+   "group": "Standard",
+   "url": "Spheres-Of-Power/Casting-Traditions#bloodrager",
+   "summary": "Magic Type: Arcane Casting Ability Modifier: Charisma Drawbacks: Somatic Casting (alternate), Verbal Casting Boon: +1 spell point at 1st level, +1 per 3 levels in casting classes.",
+   "drawbacks": [
+    {
+     "name": "Somatic Casting",
+     "count": 1,
+     "detail": "Somatic Casting (alternate)"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [],
+   "ability": "Charisma"
+  },
+  {
+   "name": "Cleric",
+   "group": "Standard",
+   "url": "Spheres-Of-Power/Casting-Traditions#cleric",
+   "summary": "Magic Type: Divine Casting Ability Modifier: Wisdom Drawbacks: Focus Casting, Prepared Caster, Verbal Casting; Aligned Combatant (Destruction), Aligned Protection (Protection) Boon: +1 spell point…",
+   "drawbacks": [
+    {
+     "name": "Focus Casting",
+     "count": 1,
+     "detail": "Focus Casting"
+    },
+    {
+     "name": "Prepared Caster",
+     "count": 1,
+     "detail": "Prepared Caster"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [
+    "Sphere-specific drawbacks: Aligned Combatant (Destruction), Aligned Protection (Protection)"
+   ],
+   "ability": "Wisdom"
+  },
+  {
+   "name": "Druid",
+   "group": "Standard",
+   "url": "Spheres-Of-Power/Casting-Traditions#druid",
+   "summary": "Magic Type: Divine Casting Ability Modifier: Wisdom Drawbacks: Focus Casting, Prepared Caster, Verbal Casting; Animal Shaman (Mind) Boon: +1 spell point, +1 per odd level in casting classes.",
+   "drawbacks": [
+    {
+     "name": "Focus Casting",
+     "count": 1,
+     "detail": "Focus Casting"
+    },
+    {
+     "name": "Prepared Caster",
+     "count": 1,
+     "detail": "Prepared Caster"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [
+    "Sphere-specific drawbacks: Animal Shaman (Mind)"
+   ],
+   "ability": "Wisdom"
+  },
+  {
+   "name": "Hunter",
+   "group": "Standard",
+   "url": "Spheres-Of-Power/Casting-Traditions#hunter",
+   "summary": "Magic Type: Divine Casting Ability Modifier: Wisdom Drawbacks: Focus Casting, Verbal Casting; Animal Shaman (Mind) Boon: +1 spell point, +1 per three levels in casting classes.",
+   "drawbacks": [
+    {
+     "name": "Focus Casting",
+     "count": 1,
+     "detail": "Focus Casting"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [
+    "Sphere-specific drawbacks: Animal Shaman (Mind)"
+   ],
+   "ability": "Wisdom"
+  },
+  {
+   "name": "Inquisitor",
+   "group": "Standard",
+   "url": "Spheres-Of-Power/Casting-Traditions#inquisitor",
+   "summary": "Magic Type: Divine Casting Ability Modifier: Wisdom Drawbacks: Focus Casting, Verbal Casting Boon: +1 spell point, +1 per three levels in casting classes.",
+   "drawbacks": [
+    {
+     "name": "Focus Casting",
+     "count": 1,
+     "detail": "Focus Casting"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [],
+   "ability": "Wisdom"
+  },
+  {
+   "name": "Magus",
+   "group": "Standard",
+   "url": "Spheres-Of-Power/Casting-Traditions#magus",
+   "summary": "Magic Type: Arcane Casting Ability Modifier: Intelligence Drawbacks: Material Casting, Prepared Caster, Somatic Casting, Verbal Casting Boon: +1 spell point, +1 per one and a half levels in casting…",
+   "drawbacks": [
+    {
+     "name": "Material Casting",
+     "count": 1,
+     "detail": "Material Casting"
+    },
+    {
+     "name": "Prepared Caster",
+     "count": 1,
+     "detail": "Prepared Caster"
+    },
+    {
+     "name": "Somatic Casting",
+     "count": 1,
+     "detail": "Somatic Casting"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [],
+   "ability": "Intelligence"
+  },
+  {
+   "name": "Medium",
+   "group": "Standard",
+   "url": "Spheres-Of-Power/Casting-Traditions#medium",
+   "summary": "Magic Type: Psychic Casting Ability Modifier: Charisma Drawbacks: Emotional Casting, Rigorous Concentration Boon: +1 spell point, +1 per three levels in casting classes.",
+   "drawbacks": [
+    {
+     "name": "Emotional Casting",
+     "count": 1,
+     "detail": "Emotional Casting"
+    },
+    {
+     "name": "Rigorous Concentration",
+     "count": 1,
+     "detail": "Rigorous Concentration"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [],
+   "ability": "Charisma"
+  },
+  {
+   "name": "Mesmerist",
+   "group": "Standard",
+   "url": "Spheres-Of-Power/Casting-Traditions#mesmerist",
+   "summary": "Magic Type: Psychic Casting Ability Modifier: Charisma Drawbacks: Emotional Casting, Rigorous Concentration Boon: +1 spell point, +1 per three levels in casting classes.",
+   "drawbacks": [
+    {
+     "name": "Emotional Casting",
+     "count": 1,
+     "detail": "Emotional Casting"
+    },
+    {
+     "name": "Rigorous Concentration",
+     "count": 1,
+     "detail": "Rigorous Concentration"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [],
+   "ability": "Charisma"
+  },
+  {
+   "name": "Occultist",
+   "group": "Standard",
+   "url": "Spheres-Of-Power/Casting-Traditions#occultist",
+   "summary": "Magic Type: Psychic Casting Ability Modifier: Intelligence Drawbacks: Emotional Casting, Rigorous Concentration Boon: +1 spell point, +1 per three levels in casting classes.",
+   "drawbacks": [
+    {
+     "name": "Emotional Casting",
+     "count": 1,
+     "detail": "Emotional Casting"
+    },
+    {
+     "name": "Rigorous Concentration",
+     "count": 1,
+     "detail": "Rigorous Concentration"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [],
+   "ability": "Intelligence"
+  },
+  {
+   "name": "Oracle",
+   "group": "Standard",
+   "url": "Spheres-Of-Power/Casting-Traditions#oracle",
+   "summary": "Magic Type: Divine Casting Ability Modifier: Charisma Drawback: Verbal Casting Boon: +1 spell point, +1 per six levels in casting classes.",
+   "drawbacks": [
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [],
+   "ability": "Charisma"
+  },
+  {
+   "name": "Paladin",
+   "group": "Standard",
+   "url": "Spheres-Of-Power/Casting-Traditions#paladin",
+   "summary": "Magic Type: Divine Casting Ability Modifier: Charisma Drawbacks: Focus Casting, Prepared Caster, Verbal Casting; Aligned Combatant (Destruction), Aligned Protection (Protection) Boon: +1 spell point…",
+   "drawbacks": [
+    {
+     "name": "Focus Casting",
+     "count": 1,
+     "detail": "Focus Casting"
+    },
+    {
+     "name": "Prepared Caster",
+     "count": 1,
+     "detail": "Prepared Caster"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [
+    "Sphere-specific drawbacks: Aligned Combatant (Destruction), Aligned Protection (Protection)"
+   ],
+   "ability": "Charisma"
+  },
+  {
+   "name": "Psychic",
+   "group": "Standard",
+   "url": "Spheres-Of-Power/Casting-Traditions#psychic",
+   "summary": "Magic Type: Psychic Casting Ability Modifier: Intelligence Drawbacks: Emotional Casting, Rigorous Concentration Boon: +1 spell point, +1 per three levels in casting classes.",
+   "drawbacks": [
+    {
+     "name": "Emotional Casting",
+     "count": 1,
+     "detail": "Emotional Casting"
+    },
+    {
+     "name": "Rigorous Concentration",
+     "count": 1,
+     "detail": "Rigorous Concentration"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [],
+   "ability": "Intelligence"
+  },
+  {
+   "name": "Ranger",
+   "group": "Standard",
+   "url": "Spheres-Of-Power/Casting-Traditions#ranger",
+   "summary": "Magic Type: Divine Casting Ability Modifier: Wisdom Drawbacks: Prepared Caster, Verbal Casting; Animal Shaman (Mind) Boon: +1 spell point, +1 per three levels in casting classes.",
+   "drawbacks": [
+    {
+     "name": "Prepared Caster",
+     "count": 1,
+     "detail": "Prepared Caster"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [
+    "Sphere-specific drawbacks: Animal Shaman (Mind)"
+   ],
+   "ability": "Wisdom"
+  },
+  {
+   "name": "Shaman",
+   "group": "Standard",
+   "url": "Spheres-Of-Power/Casting-Traditions#shaman",
+   "summary": "Magic Type: Divine Casting Ability Modifier: Wisdom Drawbacks: Prepared Caster, Verbal Casting Boon: +1 spell point, +1 per three levels in casting classes.",
+   "drawbacks": [
+    {
+     "name": "Prepared Caster",
+     "count": 1,
+     "detail": "Prepared Caster"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [],
+   "ability": "Wisdom"
+  },
+  {
+   "name": "Skald",
+   "group": "Standard",
+   "url": "Spheres-Of-Power/Casting-Traditions#skald",
+   "summary": "Magic Type: Arcane Casting Ability Modifier: Charisma Drawbacks: Somatic Casting, Verbal Casting Boon: +1 spell point, +1 per three levels in casting classes.",
+   "drawbacks": [
+    {
+     "name": "Somatic Casting",
+     "count": 1,
+     "detail": "Somatic Casting"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [],
+   "ability": "Charisma"
+  },
+  {
+   "name": "Sorcerer",
+   "group": "Standard",
+   "url": "Spheres-Of-Power/Casting-Traditions#sorcerer",
+   "summary": "Magic Type: Arcane Casting Ability Modifier: Charisma Drawbacks: Somatic Casting x2, Verbal Casting Boon: +1 spell point per odd level in casting classes.",
+   "drawbacks": [
+    {
+     "name": "Somatic Casting",
+     "count": 2,
+     "detail": "Somatic Casting x2"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [],
+   "ability": "Charisma"
+  },
+  {
+   "name": "Spiritualist",
+   "group": "Standard",
+   "url": "Spheres-Of-Power/Casting-Traditions#spiritualist",
+   "summary": "Magic Type: Psychic Casting Ability Modifier: Wisdom Drawbacks: Emotional Casting, Rigorous Concentration Boon: +1 spell point, +1 per three levels in casting classes.",
+   "drawbacks": [
+    {
+     "name": "Emotional Casting",
+     "count": 1,
+     "detail": "Emotional Casting"
+    },
+    {
+     "name": "Rigorous Concentration",
+     "count": 1,
+     "detail": "Rigorous Concentration"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [],
+   "ability": "Wisdom"
+  },
+  {
+   "name": "Summoner",
+   "group": "Standard",
+   "url": "Spheres-Of-Power/Casting-Traditions#summoner",
+   "summary": "Magic Type: Arcane Casting Ability Modifier: Charisma Drawbacks: Somatic Casting, Verbal Casting Boon: +1 spell point, +1 per three levels in casting classes.",
+   "drawbacks": [
+    {
+     "name": "Somatic Casting",
+     "count": 1,
+     "detail": "Somatic Casting"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [],
+   "ability": "Charisma"
+  },
+  {
+   "name": "Warpriest",
+   "group": "Standard",
+   "url": "Spheres-Of-Power/Casting-Traditions#warpriest",
+   "summary": "Magic Type: Divine Casting Ability Modifier: Wisdom Drawbacks: Focus Casting, Prepared Caster, Verbal Casting; Aligned Combatant (Destruction), Aligned Protection (Protection) Boon: +1 spell point…",
+   "drawbacks": [
+    {
+     "name": "Focus Casting",
+     "count": 1,
+     "detail": "Focus Casting"
+    },
+    {
+     "name": "Prepared Caster",
+     "count": 1,
+     "detail": "Prepared Caster"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [
+    "Sphere-specific drawbacks: Aligned Combatant (Destruction), Aligned Protection (Protection)"
+   ],
+   "ability": "Wisdom"
+  },
+  {
+   "name": "Witch",
+   "group": "Standard",
+   "url": "Spheres-Of-Power/Casting-Traditions#witch",
+   "summary": "Magic Type: Arcane Casting Ability Modifier: Intelligence Drawbacks: Material Casting, Prepared Caster, Somatic Casting x2, Verbal Casting Boon: +1 spell point per level in casting classes.",
+   "drawbacks": [
+    {
+     "name": "Material Casting",
+     "count": 1,
+     "detail": "Material Casting"
+    },
+    {
+     "name": "Prepared Caster",
+     "count": 1,
+     "detail": "Prepared Caster"
+    },
+    {
+     "name": "Somatic Casting",
+     "count": 2,
+     "detail": "Somatic Casting x2"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [],
+   "ability": "Intelligence"
+  },
+  {
+   "name": "Wizard",
+   "group": "Standard",
+   "url": "Spheres-Of-Power/Casting-Traditions#wizard",
+   "summary": "Magic Type: Arcane Casting Ability Modifier: Intelligence Drawbacks: Material Casting, Prepared Caster, Somatic Casting x2, Verbal Casting Boon: +1 spell point per level in casting classes.",
+   "drawbacks": [
+    {
+     "name": "Material Casting",
+     "count": 1,
+     "detail": "Material Casting"
+    },
+    {
+     "name": "Prepared Caster",
+     "count": 1,
+     "detail": "Prepared Caster"
+    },
+    {
+     "name": "Somatic Casting",
+     "count": 2,
+     "detail": "Somatic Casting x2"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [],
+   "ability": "Intelligence"
+  },
+  {
+   "name": "Addled",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#addled",
+   "summary": "Hidden within the ramblings of the insane, one word is often repeated.",
+   "drawbacks": [
+    {
+     "name": "Addictive Casting",
+     "count": 1,
+     "detail": "Addictive Casting"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    },
+    {
+     "name": "Wild Magic / Variant Wild Magic",
+     "count": 1,
+     "detail": "Wild Magic"
+    }
+   ],
+   "boons": [
+    "Easy Focus"
+   ],
+   "feats": [],
+   "notes": [],
+   "ability": "Charisma"
+  },
+  {
+   "name": "Apothecary",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#apothecary",
+   "summary": "Apothecaries are masters of tinctures and tonics, who are capable of turning mere bottles of water or pinches of salt into potions and magic powders.",
+   "drawbacks": [
+    {
+     "name": "Material Casting",
+     "count": 1,
+     "detail": "Material Casting"
+    },
+    {
+     "name": "Skilled Casting",
+     "count": 1,
+     "detail": "Skilled Casting (Craft (alchemy) or Profession (apothecary))"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [
+    "Sphere-specific drawbacks: Special Delivery (Enhancement)"
+   ],
+   "ability": "Intelligence"
+  },
+  {
+   "name": "Artificery",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#artificery",
+   "summary": "Artificers construct magical implements (known as an artificer’s focus) to direct and control their magic.",
+   "drawbacks": [
+    {
+     "name": "Focus Casting",
+     "count": 1,
+     "detail": "Focus Casting (artificer’s focus)"
+    },
+    {
+     "name": "Wild Magic / Variant Wild Magic",
+     "count": 1,
+     "detail": "Wild Magic"
+    }
+   ],
+   "boons": [
+    "Easy Focus"
+   ],
+   "feats": [],
+   "notes": [],
+   "ability": "Intelligence"
+  },
+  {
+   "name": "Bardic Magic",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#bardic-magic",
+   "summary": "Bardic magic is a holistic style of magic that transforms the natural magic of music into powerful magical force.",
+   "drawbacks": [
+    {
+     "name": "Skilled Casting",
+     "count": 1,
+     "detail": "Skilled Casting (Perform (any))"
+    },
+    {
+     "name": "Somatic Casting",
+     "count": 1,
+     "detail": "Somatic Casting"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [],
+   "ability": "Charisma"
+  },
+  {
+   "name": "Beast Charming",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#beast-charming",
+   "summary": "Many practitioners develop specialties that cause them to become more comfortable with certain kinds of animals, but whether they choose to catch rats, charm snakes, or divert locusts from crops the…",
+   "drawbacks": [
+    {
+     "name": "Skilled Casting",
+     "count": 1,
+     "detail": "Skilled Casting (Perform (any))"
+    },
+    {
+     "name": "Somatic Casting",
+     "count": 2,
+     "detail": "Somatic Casting x2"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [
+    "Sphere-specific drawbacks: Animal Shaman (Mind)"
+   ],
+   "ability": "Charisma"
+  },
+  {
+   "name": "Blighter",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#blighter",
+   "summary": "Drawing power from the destruction of life, blighters are twisted divine casters who reduce the land around them to a desiccated echo of its former virility.",
+   "drawbacks": [
+    {
+     "name": "Focus Casting",
+     "count": 1,
+     "detail": "Focus Casting"
+    },
+    {
+     "name": "Charged Spells",
+     "count": 1,
+     "detail": "Charged Spells"
+    },
+    {
+     "name": "Terrain Casting",
+     "count": 1,
+     "detail": "Terrain Casting"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [
+    "Drawback Feat"
+   ],
+   "feats": [
+    "Charged Despoilation"
+   ],
+   "notes": [],
+   "ability": "Wisdom"
+  },
+  {
+   "name": "Bloodletting",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#bloodletting",
+   "summary": "Casters of the bloodletting tradition use their ornate ritual knife to make precise incisions, drawing forth trickles of blood that is smeared, thrown, or otherwise manipulated to cast their spells.",
+   "drawbacks": [
+    {
+     "name": "Draining Casting",
+     "count": 1,
+     "detail": "Draining Casting"
+    },
+    {
+     "name": "Focus Casting",
+     "count": 1,
+     "detail": "Focus Casting (ritual knife)"
+    },
+    {
+     "name": "Magical Signs",
+     "count": 1,
+     "detail": "Magical Signs"
+    },
+    {
+     "name": "Painful Magic",
+     "count": 1,
+     "detail": "Painful Magic"
+    },
+    {
+     "name": "Somatic Casting",
+     "count": 1,
+     "detail": "Somatic Casting"
+    }
+   ],
+   "boons": [
+    "Fortified Casting",
+    "Sanguine Empowerment"
+   ],
+   "feats": [],
+   "notes": [],
+   "ability": "Constitution"
+  },
+  {
+   "name": "Blood Magic",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#blood-magic",
+   "summary": "One of the most dangerous forms of magic, blood magic, promises great power to its practitioners, but with a price.",
+   "drawbacks": [
+    {
+     "name": "Draining Casting",
+     "count": 1,
+     "detail": "Draining Casting"
+    },
+    {
+     "name": "Extended Casting",
+     "count": 1,
+     "detail": "Extended Casting"
+    },
+    {
+     "name": "Somatic Casting",
+     "count": 2,
+     "detail": "Somatic Casting x2"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [
+    "Deathful Magic",
+    "Fortified Casting",
+    "Overcharge"
+   ],
+   "feats": [],
+   "notes": [],
+   "ability": "Constitution"
+  },
+  {
+   "name": "Bonneteur",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#bonneteur",
+   "summary": "This method of fast talking con artistry has been developed to the point where it is undeniably supernatural in nature.",
+   "drawbacks": [
+    {
+     "name": "Draining Casting",
+     "count": 1,
+     "detail": "Draining Casting"
+    },
+    {
+     "name": "Somatic Casting",
+     "count": 1,
+     "detail": "Somatic Casting"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [
+    "Sphere-specific drawbacks: Lost In Translation (Mind)"
+   ],
+   "ability": "Charisma"
+  },
+  {
+   "name": "Caffiend",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#caffiend",
+   "summary": "Caffiends are an odd blend of addicts and savants who draw strength from their love of coffee, tea, or other caffeine-laden drinks.",
+   "drawbacks": [
+    {
+     "name": "Material Casting",
+     "count": 1,
+     "detail": "Material Casting (coffee or tea)"
+    },
+    {
+     "name": "Rigorous Concentration",
+     "count": 1,
+     "detail": "Rigorous Concentrating"
+    },
+    {
+     "name": "Witchmarked",
+     "count": 1,
+     "detail": "Witchmarked (scent of coffee or tea)"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [],
+   "ability": "Intelligence"
+  },
+  {
+   "name": "Cartomancy",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#cartomancy",
+   "summary": "Most commonly practiced by itinerant fortune-tellers, cartomancy is the art of divining by cards.",
+   "drawbacks": [
+    {
+     "name": "Extended Casting",
+     "count": 1,
+     "detail": "Extended Casting"
+    },
+    {
+     "name": "Focus Casting",
+     "count": 1,
+     "detail": "Focus Casting (deck of cards)"
+    },
+    {
+     "name": "Skilled Casting",
+     "count": 1,
+     "detail": "Skilled Casting (Profession (fortuneteller))"
+    }
+   ],
+   "boons": [
+    "Easy Focus"
+   ],
+   "feats": [],
+   "notes": [
+    "Sphere-specific drawbacks: Limited Divination (sense) (Divination), Sanctified and Tongue Of Ages (Fate)"
+   ],
+   "ability": "Wisdom"
+  },
+  {
+   "name": "Chi Tracer",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#chi-tracer",
+   "summary": "Considered a subset of the monastic casting tradition, monks who train their minds as well as their body and spirit have a greater endurance for performing their techniques, though their feats of…",
+   "drawbacks": [
+    {
+     "name": "Somatic Casting",
+     "count": 2,
+     "detail": "Somatic Casting x2"
+    }
+   ],
+   "boons": [
+    "Easy Focus"
+   ],
+   "feats": [],
+   "notes": [
+    "Sphere-specific drawbacks: Lycanthropic (Alteration), Meld Into Dark (Dark), Deathful Touch (Death), Destructive Touch (Destruction), Bodily Enhancement and Personal Magics (Enhancement), Personal Fate (Fate), Personal Illusion (Illusion), Touch Of Light (Light), Regenerate (Life), Tactile Charm (Mind), Limited Nature x2, Limited Protection (ward), Personal Time (Time), Solo Combatant (War), Personal Warp (Warp)"
+   ],
+   "ability": "Wisdom"
+  },
+  {
+   "name": "Cholmic Traditionalist",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#cholmic-traditionalist",
+   "summary": "A tradition that dates back to the long dead Cholmic civilization, the methods of their cultural magic have been lost to all but a few liches and fragments of old, rotten tomes.",
+   "drawbacks": [
+    {
+     "name": "Addictive Casting",
+     "count": 1,
+     "detail": "Addictive Casting"
+    },
+    {
+     "name": "Magical Signs",
+     "count": 1,
+     "detail": "Magical Signs"
+    },
+    {
+     "name": "Painful Magic",
+     "count": 1,
+     "detail": "Painful Magic"
+    },
+    {
+     "name": "Somatic Casting",
+     "count": 2,
+     "detail": "Somatic Casting x2"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [
+    "Overwhelming Power"
+   ],
+   "feats": [],
+   "notes": [],
+   "ability": "Intelligence"
+  },
+  {
+   "name": "Contaminated",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#contaminated",
+   "summary": "The lab was destroyed as magic users descended on it to increase their supply and steal the secret of its creation.",
+   "drawbacks": [
+    {
+     "name": "Addictive Casting",
+     "count": 1,
+     "detail": "Addictive Casting"
+    },
+    {
+     "name": "Material Casting",
+     "count": 1,
+     "detail": "Material Casting"
+    },
+    {
+     "name": "Wild Magic / Variant Wild Magic",
+     "count": 1,
+     "detail": "Wild Magic"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [],
+   "ability": "Intelligence"
+  },
+  {
+   "name": "Corrupted Apostle",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#corrupted-apostle",
+   "summary": "Sometimes, those who delve into the arts of magic find themselves drawn towards dark paths, paths which lead them to sacrifice their very humanity for promises of greater power.",
+   "drawbacks": [
+    {
+     "name": "Addictive Casting",
+     "count": 1,
+     "detail": "Addictive Casting"
+    },
+    {
+     "name": "Innate Curse",
+     "count": 1,
+     "detail": "Innate Curse"
+    },
+    {
+     "name": "Unsettling Casting",
+     "count": 1,
+     "detail": "Unsettling Casting"
+    },
+    {
+     "name": "Witchmarked",
+     "count": 1,
+     "detail": "Witchmarked"
+    }
+   ],
+   "boons": [
+    "Drawback Feat"
+   ],
+   "feats": [
+    "Witchwarped"
+   ],
+   "notes": [],
+   "ability": "Charisma"
+  },
+  {
+   "name": "Defiler",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#defiler",
+   "summary": "Defilers are a distinct type of arcanist who have discovered how to draw magic from the environment around them.",
+   "drawbacks": [
+    {
+     "name": "Magical Signs",
+     "count": 1,
+     "detail": "Magical Signs"
+    },
+    {
+     "name": "Material Casting",
+     "count": 1,
+     "detail": "Material Casting"
+    },
+    {
+     "name": "Prepared Caster",
+     "count": 1,
+     "detail": "Prepared Caster"
+    },
+    {
+     "name": "Somatic Casting",
+     "count": 1,
+     "detail": "Somatic Casting (2)"
+    },
+    {
+     "name": "Terrain Casting",
+     "count": 1,
+     "detail": "Terrain Casting"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [
+    "Drawback Feat"
+   ],
+   "feats": [
+    "any one Defiler feat"
+   ],
+   "notes": [],
+   "ability": "Intelligence"
+  },
+  {
+   "name": "Demonology",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#demonology",
+   "summary": "This arcane casting tradition is a subdivision of the Blood Magic casting tradition.",
+   "drawbacks": [
+    {
+     "name": "Draining Casting",
+     "count": 1,
+     "detail": "Draining Casting"
+    },
+    {
+     "name": "Mental Focus",
+     "count": 1,
+     "detail": "Mental Focus"
+    }
+   ],
+   "boons": [
+    "Fortified Casting"
+   ],
+   "feats": [],
+   "notes": [],
+   "ability": "Charisma (or Constitution if higher)"
+  },
+  {
+   "name": "Divine Petitioner",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#divine-petitioner",
+   "summary": "A divine petitioner gains their magic through service and prayer to a divine source, such as a deity.",
+   "drawbacks": [
+    {
+     "name": "Focus Casting",
+     "count": 1,
+     "detail": "Focus Casting"
+    },
+    {
+     "name": "Prepared Caster",
+     "count": 1,
+     "detail": "Prepared Caster"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [
+    "Sphere-specific drawbacks: Aligned Combatant (Destruction), Aligned Protection (Protection)"
+   ],
+   "ability": "Wisdom"
+  },
+  {
+   "name": "Dream Casting",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#dream-casting",
+   "summary": "Dream casters are aloof individuals often viewed as extremely odd by other types of magic users.",
+   "drawbacks": [
+    {
+     "name": "Focus Casting",
+     "count": 1,
+     "detail": "Focus Casting"
+    },
+    {
+     "name": "Magical Signs",
+     "count": 1,
+     "detail": "Magical Signs"
+    },
+    {
+     "name": "Narcoleptic Casting",
+     "count": 1,
+     "detail": "Narcoleptic Casting"
+    }
+   ],
+   "boons": [
+    "Overcharge"
+   ],
+   "feats": [],
+   "notes": [],
+   "ability": "Wisdom"
+  },
+  {
+   "name": "Druidic",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#druidic",
+   "summary": "A druid gains their magic through communion with nature and the spirits contained therein.",
+   "drawbacks": [
+    {
+     "name": "Focus Casting",
+     "count": 1,
+     "detail": "Focus Casting"
+    },
+    {
+     "name": "Prepared Caster",
+     "count": 1,
+     "detail": "Prepared Caster"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [
+    "Sphere-specific drawbacks: Animal Shaman (Mind)"
+   ],
+   "ability": "Wisdom"
+  },
+  {
+   "name": "Elemental Shaman",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#elemental-shaman",
+   "summary": "Scattered across the world are emissaries of the elemental planes, shamans of immense power who serve the primordial denizens of the elemental and paraelemental planes.",
+   "drawbacks": [
+    {
+     "name": "Area Bound",
+     "count": 1,
+     "detail": "Area Bound"
+    },
+    {
+     "name": "Charged Spells",
+     "count": 1,
+     "detail": "Charged Spells"
+    },
+    {
+     "name": "Material Casting",
+     "count": 1,
+     "detail": "Material Casting"
+    },
+    {
+     "name": "Material Casting",
+     "count": 1,
+     "detail": "Material Focus (Creation, chosen element)"
+    },
+    {
+     "name": "Unsettling Casting",
+     "count": 1,
+     "detail": "Unsettling Casting"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    },
+    {
+     "name": "Witchmarked",
+     "count": 1,
+     "detail": "Witchmarked"
+    }
+   ],
+   "boons": [
+    "Atmoturgy",
+    "Drawback Feat"
+   ],
+   "feats": [
+    "Environment Charge"
+   ],
+   "notes": [],
+   "ability": "Wisdom"
+  },
+  {
+   "name": "Entropic Conduit",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#entropic-conduit",
+   "summary": "Beholden to an entity of pure destructive chaos, these cursed individuals (by choice or not) withstand great physical and mental agony to stop themselves from being overwhelmed by this entity, even…",
+   "drawbacks": [
+    {
+     "name": "Expensive Locus",
+     "count": 1,
+     "detail": "Expensive Locus"
+    },
+    {
+     "name": "Madness Mantra",
+     "count": 1,
+     "detail": "Madness Mantra"
+    },
+    {
+     "name": "Painful Magic",
+     "count": 1,
+     "detail": "Painful Magic"
+    },
+    {
+     "name": "Substantial Magic",
+     "count": 1,
+     "detail": "Substantial Magic"
+    },
+    {
+     "name": "Wild Magic / Variant Wild Magic",
+     "count": 1,
+     "detail": "Wild Magic"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [
+    "Boon: Bound Creature or Overwhelming Power"
+   ],
+   "ability": "Wisdom"
+  },
+  {
+   "name": "Fey Magic",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#fey-magic",
+   "summary": "To the fey, magic is simply a part of life - and those who study their styles often find that their emotions are a problem, but magic is stronger and easier to control.",
+   "drawbacks": [
+    {
+     "name": "Emotional Casting",
+     "count": 1,
+     "detail": "Emotional Casting"
+    },
+    {
+     "name": "Fey-Infused Magic",
+     "count": 1,
+     "detail": "Fey-Infused Magic"
+    },
+    {
+     "name": "Somatic Casting",
+     "count": 1,
+     "detail": "Somatic Casting"
+    },
+    {
+     "name": "Wild Magic / Variant Wild Magic",
+     "count": 1,
+     "detail": "Wild Magic"
+    }
+   ],
+   "boons": [
+    "Easy Focus",
+    "Overcharge"
+   ],
+   "feats": [],
+   "notes": [],
+   "ability": "Charisma"
+  },
+  {
+   "name": "Flame-Blooded",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#flame-blooded",
+   "summary": "There exist those who bear in their blood a touch of pure fire.",
+   "drawbacks": [],
+   "boons": [],
+   "feats": [],
+   "notes": [
+    "Drawback not on the list: Energy Focus (fire) (Destruction)",
+    "Drawback not on the list: Limited Warp (requires fire) (Warp)",
+    "Drawback not on the list: Focused Weather (Heat) (Weather)"
+   ],
+   "ability": "Charisma"
+  },
+  {
+   "name": "Gadgeteer",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#gadgeteer",
+   "summary": "Not often thought of as a mentalist or magician (even amongst themselves), gadgeteers have a knack for constructs, magic devices, and machinery.",
+   "drawbacks": [
+    {
+     "name": "Focus Casting",
+     "count": 1,
+     "detail": "Focus Casting (artisan tools)"
+    },
+    {
+     "name": "Magical Signs",
+     "count": 1,
+     "detail": "Magical Signs"
+    },
+    {
+     "name": "Material Casting",
+     "count": 1,
+     "detail": "Material Casting"
+    },
+    {
+     "name": "Rigorous Concentration",
+     "count": 1,
+     "detail": "Rigorous Concentration"
+    },
+    {
+     "name": "Skilled Casting",
+     "count": 1,
+     "detail": "Skilled Casting (Craft (mechanical))"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [
+    "Sphere-specific drawbacks: Unnatural Transformation (gadgets and gears) (Alteration), Elongated Summoning (Conjuration), Kindred Knack (construct) (Mind)"
+   ],
+   "ability": "Intelligence"
+  },
+  {
+   "name": "Hypnotism",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#hypnotism",
+   "summary": "Often unsettling and always mysterious, the art of hypnotism, sometimes called mesmerism, has its roots in the magic of the mind, but a flick of the wrist, sway of a pendulum, and penetrating stare…",
+   "drawbacks": [
+    {
+     "name": "Extended Casting",
+     "count": 1,
+     "detail": "Extended Casting"
+    },
+    {
+     "name": "Focus Casting",
+     "count": 1,
+     "detail": "Focus Casting"
+    },
+    {
+     "name": "Skilled Casting",
+     "count": 1,
+     "detail": "Skilled Casting (Profession (hypnotist))"
+    },
+    {
+     "name": "Somatic Casting",
+     "count": 1,
+     "detail": "Somatic Casting"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [],
+   "ability": "Intelligence"
+  },
+  {
+   "name": "Inherent Divinity",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#inherent-divinity",
+   "summary": "A caster with this tradition can select and gain up to 2 sphere-specific drawbacks of their choice.",
+   "drawbacks": [
+    {
+     "name": "Emotional Casting",
+     "count": 1,
+     "detail": "Emotional Casting"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [
+    "Easy Focus"
+   ],
+   "feats": [],
+   "notes": [],
+   "ability": "Charisma"
+  },
+  {
+   "name": "Keeper",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#keeper",
+   "summary": "Keepers have pledged themselves to protecting a certain domain from devastation, be it a grove, an oasis, a religious landmark, or some other important location.",
+   "drawbacks": [
+    {
+     "name": "Area Bound",
+     "count": 1,
+     "detail": "Area Bound"
+    },
+    {
+     "name": "Focus Casting",
+     "count": 1,
+     "detail": "Focus Casting"
+    },
+    {
+     "name": "Prepared Caster",
+     "count": 1,
+     "detail": "Prepared Caster"
+    },
+    {
+     "name": "Terrain Casting",
+     "count": 1,
+     "detail": "Terrain Casting"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [],
+   "ability": "Wisdom"
+  },
+  {
+   "name": "Ley-line Tapper",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#ley-line-tapper",
+   "summary": "Ley-line tappers draw their power from the innate mystic potential of the leylines connected to notable natural locations.",
+   "drawbacks": [
+    {
+     "name": "Area Bound",
+     "count": 1,
+     "detail": "Area Bound"
+    },
+    {
+     "name": "Extended Casting",
+     "count": 1,
+     "detail": "Extended Casting"
+    }
+   ],
+   "boons": [
+    "Easy Focus"
+   ],
+   "feats": [],
+   "notes": [],
+   "ability": "Intelligence"
+  },
+  {
+   "name": "Lycanthrope",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#lycanthrope",
+   "summary": "Curses are terrible things and lycanthropy more so than most.",
+   "drawbacks": [
+    {
+     "name": "Wild Magic / Variant Wild Magic",
+     "count": 1,
+     "detail": "Wild Magic"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [
+    "Sphere-specific drawbacks: Lycanthropic (Alteration)"
+   ],
+   "ability": "Charisma"
+  },
+  {
+   "name": "Material Transmuter",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#material-transmuter",
+   "summary": "Oftentimes viewing themselves more as scientists than mages, material transmuters use advanced diagrams and a tremendous understanding of the physical world to reshape reality around them in myriad…",
+   "drawbacks": [
+    {
+     "name": "Diagram Magic",
+     "count": 1,
+     "detail": "Diagram Magic"
+    },
+    {
+     "name": "Magical Signs",
+     "count": 1,
+     "detail": "Magical Signs"
+    },
+    {
+     "name": "Material Casting",
+     "count": 1,
+     "detail": "Material Casting"
+    },
+    {
+     "name": "Somatic Casting",
+     "count": 1,
+     "detail": "Somatic Casting"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [
+    "Sphere-specific drawbacks: Material Mimic (Creation)",
+    "Boon: Forge (Creation)"
+   ],
+   "ability": "Intelligence"
+  },
+  {
+   "name": "Mind",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#mind",
+   "summary": "For some people, magic is an expression of their will, and a little mental focus is enough to call it into being.",
+   "drawbacks": [
+    {
+     "name": "Emotional Casting",
+     "count": 1,
+     "detail": "Emotional Casting"
+    },
+    {
+     "name": "Rigorous Concentration",
+     "count": 1,
+     "detail": "Rigorous Concentration"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [],
+   "ability": "Intelligence"
+  },
+  {
+   "name": "Monastic",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#monastic",
+   "summary": "When the power of the spirit is properly cultivated through physical discipline and meditation, it can elevate itself to a form of magic.",
+   "drawbacks": [
+    {
+     "name": "Somatic Casting",
+     "count": 2,
+     "detail": "Somatic Casting x2"
+    }
+   ],
+   "boons": [
+    "Easy Focus"
+   ],
+   "feats": [],
+   "notes": [
+    "Sphere-specific drawbacks: Lycanthropic (Alteration), Meld Into Dark (Dark), Deathful Touch (Death), Destructive Touch (Destruction), Bodily Enhancement and Personal Magics (Enhancement), Personal Fate (Fate), Personal Illusion (Illusion), Touch Of Light (Light), Regenerate (Life), Limited Nature x2, Protected Soul (Protection), Personal Time (Time), Solo Combatant (War), Personal Warp (Warp)"
+   ],
+   "ability": "Wisdom"
+  },
+  {
+   "name": "Morose Essentialist",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#morose-essentialist",
+   "summary": "A morose essentialist possesses a grim, pensive mindset to their applications of magic, often using undead they create or the treated, preserved bones of those they respect.",
+   "drawbacks": [
+    {
+     "name": "Focus Casting",
+     "count": 1,
+     "detail": "Focus Casting (a skull, body part, or undead creature under your control)"
+    },
+    {
+     "name": "Mental Focus",
+     "count": 1,
+     "detail": "Mental Focus"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [],
+   "ability": "Wisdom"
+  },
+  {
+   "name": "Mysticism",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#mysticism",
+   "summary": "Mysticism is less about strict hierarchies and more about learning from the divine forces that empower the world.",
+   "drawbacks": [
+    {
+     "name": "Focus Casting",
+     "count": 1,
+     "detail": "Focus Casting (any)"
+    },
+    {
+     "name": "Magical Signs",
+     "count": 1,
+     "detail": "Magical Signs"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    },
+    {
+     "name": "Wild Magic / Variant Wild Magic",
+     "count": 1,
+     "detail": "Wild Magic"
+    }
+   ],
+   "boons": [
+    "Empowered Abilities",
+    "Metamagic Expert"
+   ],
+   "feats": [],
+   "notes": [],
+   "ability": "Wisdom"
+  },
+  {
+   "name": "Natural",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#natural",
+   "summary": "Creatures with Natural casting have innate magical abilities with no drawbacks or boons.",
+   "drawbacks": [],
+   "boons": [],
+   "feats": [],
+   "notes": [],
+   "ability": "Charisma"
+  },
+  {
+   "name": "Nomad Shamans",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#nomad-shamans",
+   "summary": "An oral magical tradition, the nomad shamans are members of nomadic tribes who have honed their connection to the natural world through ritual deprivation.",
+   "drawbacks": [
+    {
+     "name": "Magical Signs",
+     "count": 1,
+     "detail": "Magical Signs"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [
+    "Draw Magic"
+   ],
+   "feats": [],
+   "notes": [
+    "Sphere-specific drawbacks: Bodily Enhancement and Restricted Enhancement (tribe members) (Enhancement), Limited Nature x2"
+   ],
+   "ability": "Charisma"
+  },
+  {
+   "name": "Pact Magic",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#pact-magic",
+   "summary": "Pact Magic focuses on summoning beings to cast magic on the user’s behalf.",
+   "drawbacks": [
+    {
+     "name": "Addictive Casting",
+     "count": 1,
+     "detail": "Addictive Casting"
+    }
+   ],
+   "boons": [
+    "Easy Focus"
+   ],
+   "feats": [],
+   "notes": [],
+   "ability": "Charisma"
+  },
+  {
+   "name": "Runist",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#runist",
+   "summary": "Runists study the first language—the language of creation itself.",
+   "drawbacks": [
+    {
+     "name": "Extended Casting",
+     "count": 1,
+     "detail": "Extended Casting"
+    },
+    {
+     "name": "Skilled Casting",
+     "count": 1,
+     "detail": "Skilled Casting (Craft (calligraphy))"
+    },
+    {
+     "name": "Somatic Casting",
+     "count": 2,
+     "detail": "Somatic Casting x2"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [],
+   "ability": "Intelligence"
+  },
+  {
+   "name": "Scion Of The Crown",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#scion-of-the-crown",
+   "summary": "In a small Western kingdom, the princes and princesses are taught a unique casting tradition that draws on the symbolism of permanence through ponderous recitations of their family line back…",
+   "drawbacks": [
+    {
+     "name": "Extended Casting",
+     "count": 1,
+     "detail": "Extended Casting"
+    },
+    {
+     "name": "Focus Casting",
+     "count": 1,
+     "detail": "Focus Casting (crown or coronet)"
+    },
+    {
+     "name": "Skilled Casting",
+     "count": 1,
+     "detail": "Skilled Casting (Knowledge (nobility))"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [
+    "Drawback Feat",
+    "Drawback Feat"
+   ],
+   "feats": [
+    "Careful Magic",
+    "Magical Focus"
+   ],
+   "notes": [],
+   "ability": "Charisma"
+  },
+  {
+   "name": "Shadow Tapper",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#shadow-tapper",
+   "summary": "Shadow tappers draw upon a parallel field of magic which lies beneath the one commonly known, paying for knowledge of this arcane matrix with their willpower and humanity.",
+   "drawbacks": [
+    {
+     "name": "Incompatible Energies",
+     "count": 1,
+     "detail": "Incompatible Energies"
+    },
+    {
+     "name": "Somatic Casting",
+     "count": 2,
+     "detail": "Somatic Casting x2"
+    },
+    {
+     "name": "Unsettling Casting",
+     "count": 1,
+     "detail": "Unsettling Casting"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [
+    "Alien Source"
+   ],
+   "feats": [],
+   "notes": [],
+   "ability": "Intelligence"
+  },
+  {
+   "name": "Shardbound",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#shardbound",
+   "summary": "There are some casters, known typically as shardbound, who fuse artistic expression and magic into their way of casting.",
+   "drawbacks": [
+    {
+     "name": "Center Of Power",
+     "count": 1,
+     "detail": "Center Of Power"
+    },
+    {
+     "name": "Charged Spells",
+     "count": 1,
+     "detail": "Charged Spells"
+    },
+    {
+     "name": "Consciousness Linked",
+     "count": 1,
+     "detail": "Consciousness Linked"
+    },
+    {
+     "name": "Somatic Casting",
+     "count": 1,
+     "detail": "Somatic Casting"
+    },
+    {
+     "name": "Substantial Magic",
+     "count": 1,
+     "detail": "Substantial Magic"
+    },
+    {
+     "name": "Unstable Storage",
+     "count": 1,
+     "detail": "Unstable Storage"
+    }
+   ],
+   "boons": [
+    "Drawback Feat",
+    "Easy Focus"
+   ],
+   "feats": [
+    "Combat Recharge"
+   ],
+   "notes": [],
+   "ability": "Charisma, Intelligence, or Wisdom"
+  },
+  {
+   "name": "Sin Wizard",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#sin-wizard",
+   "summary": "Scattered among ancient tomes and strange relics are archives of an arcane tradition known as sin magic, a dangerous tradition which allows a wizard to unleash their unbridled vice upon the world.",
+   "drawbacks": [
+    {
+     "name": "Material Casting",
+     "count": 1,
+     "detail": "Material Casting"
+    },
+    {
+     "name": "Prepared Caster",
+     "count": 1,
+     "detail": "Prepared Caster"
+    },
+    {
+     "name": "Somatic Casting",
+     "count": 2,
+     "detail": "Somatic Casting x2"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [
+    "Drawback not on the list: other drawbacks based upon chosen sin",
+    "Boon: other boon based upon chosen sin"
+   ],
+   "ability": "Intelligence"
+  },
+  {
+   "name": "Song-Wielder",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#song-wielder",
+   "summary": "Born of ancient royalty, a song-wielder makes magic through the power of their voice.",
+   "drawbacks": [
+    {
+     "name": "Skilled Casting",
+     "count": 1,
+     "detail": "Skilled Casting (Perform (sing))"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [
+    "Empowered Abilities"
+   ],
+   "feats": [],
+   "notes": [],
+   "ability": "Intelligence"
+  },
+  {
+   "name": "Sorcerous Blood",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#sorcerous-blood",
+   "summary": "For some individuals, magic is truly in the blood, and all it takes to use it is a flick of the wrist and a quick chant of arcane words.",
+   "drawbacks": [
+    {
+     "name": "Somatic Casting",
+     "count": 2,
+     "detail": "Somatic Casting x2"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [],
+   "ability": "Charisma"
+  },
+  {
+   "name": "Spellscourged",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#spellscourged",
+   "summary": "Those that are spellscourged often carry a strange mutation of magic that causes it to manifest physically on the caster’s body, often leading to physical exhaustion.",
+   "drawbacks": [
+    {
+     "name": "Center Of Power",
+     "count": 1,
+     "detail": "Center Of Power"
+    },
+    {
+     "name": "Draining Casting",
+     "count": 1,
+     "detail": "Draining Casting"
+    },
+    {
+     "name": "Substantial Magic",
+     "count": 1,
+     "detail": "Substantial Magic"
+    },
+    {
+     "name": "Unstable Storage",
+     "count": 1,
+     "detail": "Unstable Storage"
+    },
+    {
+     "name": "Witchmarked",
+     "count": 1,
+     "detail": "Witchmarked"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [
+    "Boon: Empowered Abilities or Fortified Casting"
+   ],
+   "ability": "Charisma (or Constitution, see below)"
+  },
+  {
+   "name": "Strange Mentalist",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#strange-mentalist",
+   "summary": "Certain varieties of psychic power defy normal conventions of magic, resulting in unusual mages with a distinctive presence to their abilities.",
+   "drawbacks": [
+    {
+     "name": "Incompatible Energies",
+     "count": 1,
+     "detail": "Incompatible Energies"
+    },
+    {
+     "name": "Magical Signs",
+     "count": 1,
+     "detail": "Magical Signs"
+    },
+    {
+     "name": "Mental Focus",
+     "count": 1,
+     "detail": "Mental Focus"
+    }
+   ],
+   "boons": [
+    "Alien Source"
+   ],
+   "feats": [],
+   "notes": [],
+   "ability": "Intelligence"
+  },
+  {
+   "name": "Sword-Bound",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#sword-bound",
+   "summary": "Sometimes, when a magic-user dies, a part of their spirit (called an echo) remains attached to the objects they wielded in life.",
+   "drawbacks": [
+    {
+     "name": "Draining Casting",
+     "count": 1,
+     "detail": "Draining Casting"
+    },
+    {
+     "name": "Focus Casting",
+     "count": 1,
+     "detail": "Focus Casting (sword)"
+    }
+   ],
+   "boons": [
+    "Fortified Casting"
+   ],
+   "feats": [],
+   "notes": [],
+   "ability": "Charisma"
+  },
+  {
+   "name": "Traditional Magic",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#traditional-magic",
+   "summary": "Traditional magic is the study of the natural world, astronomy, alchemy, and ancient learning to create magic through a combination of gestures, words, and magical components.",
+   "drawbacks": [
+    {
+     "name": "Material Casting",
+     "count": 1,
+     "detail": "Material Casting"
+    },
+    {
+     "name": "Prepared Caster",
+     "count": 1,
+     "detail": "Prepared Caster"
+    },
+    {
+     "name": "Somatic Casting",
+     "count": 2,
+     "detail": "Somatic Casting x2"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [],
+   "ability": "Intelligence"
+  },
+  {
+   "name": "Ur-Priest",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#ur-priest",
+   "summary": "Many spellcasters gather divine power through a communion with their god, but there are some who steal the might of the gods without giving anything in return.",
+   "drawbacks": [
+    {
+     "name": "Focus Casting",
+     "count": 1,
+     "detail": "Focus Casting"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    },
+    {
+     "name": "Wild Magic / Variant Wild Magic",
+     "count": 1,
+     "detail": "Wild Magic"
+    }
+   ],
+   "boons": [
+    "Wild Surge"
+   ],
+   "feats": [],
+   "notes": [],
+   "ability": "Wisdom"
+  },
+  {
+   "name": "Vitalist",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#vitalist",
+   "summary": "Where some spellcasters learn their magical talents through their blood or through study; some unfortunate spellcasters were born with a soul intrinsically tied to magic.",
+   "drawbacks": [
+    {
+     "name": "Magical Signs",
+     "count": 1,
+     "detail": "Magical Signs"
+    },
+    {
+     "name": "Unstable Storage",
+     "count": 1,
+     "detail": "Unstable Storage"
+    },
+    {
+     "name": "Vulnerable Spellcaster",
+     "count": 1,
+     "detail": "Vulnerable Spellcaster"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [],
+   "ability": "Charisma"
+  },
+  {
+   "name": "Void Priest",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#void-priest",
+   "summary": "Sometimes, clerics extend their devotion to gods who will not listen, either because their gods are dead, unwilling to answer prayers, or in truth have never existed at all.",
+   "drawbacks": [
+    {
+     "name": "Focus Casting",
+     "count": 1,
+     "detail": "Focus Casting"
+    },
+    {
+     "name": "Prepared Caster",
+     "count": 1,
+     "detail": "Prepared Caster"
+    },
+    {
+     "name": "Unsettling Casting",
+     "count": 1,
+     "detail": "Unsettling Casting"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [],
+   "feats": [],
+   "notes": [],
+   "ability": "Wisdom"
+  },
+  {
+   "name": "Water-Magi",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#water-magi",
+   "summary": "There exists an order of monks who pull power from an ancient pact formed with the spirit of the moon.",
+   "drawbacks": [
+    {
+     "name": "Somatic Casting",
+     "count": 2,
+     "detail": "Somatic Casting x2"
+    }
+   ],
+   "boons": [
+    "Easy Focus"
+   ],
+   "feats": [],
+   "notes": [
+    "Sphere-specific drawbacks: Water Wizard (Creation), Energy Focus (cold) (Destruction), Limited Telekinesis (requires water) (Telekinesis), Focused Weather (Precipitation) (Weather)"
+   ],
+   "ability": "Wisdom"
+  },
+  {
+   "name": "Wild-Born",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#wild-born",
+   "summary": "A wild-born is someone who was raised by magical creatures: the adopted children of dragons, fey beings, or other creatures of natural inborn magic.",
+   "drawbacks": [
+    {
+     "name": "Focus Casting",
+     "count": 1,
+     "detail": "Focus Casting"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [
+    "Bound Creature"
+   ],
+   "feats": [],
+   "notes": [],
+   "ability": "Charisma"
+  },
+  {
+   "name": "Wilder",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#wilder",
+   "summary": "Similar to strange mentalists, wilders tap into warped energies within their mind to fuel their powers.",
+   "drawbacks": [
+    {
+     "name": "Emotional Casting",
+     "count": 1,
+     "detail": "Emotional Casting"
+    },
+    {
+     "name": "Incompatible Energies",
+     "count": 1,
+     "detail": "Incompatible Energies"
+    },
+    {
+     "name": "Magical Signs",
+     "count": 1,
+     "detail": "Magical Signs"
+    },
+    {
+     "name": "Mental Focus",
+     "count": 1,
+     "detail": "Mental Focus"
+    },
+    {
+     "name": "Wild Magic / Variant Wild Magic",
+     "count": 1,
+     "detail": "Wild Magic"
+    }
+   ],
+   "boons": [
+    "Alien Source",
+    "Wild Surge"
+   ],
+   "feats": [],
+   "notes": [],
+   "ability": "Charisma"
+  },
+  {
+   "name": "Wizardry",
+   "group": "Sample",
+   "url": "Spheres-Of-Power/Casting-Traditions#wizardry",
+   "summary": "Considered a subset of traditional magic, wizardry takes a lot of study, using magic wands and exotic materials to bend natural powers to the user’s will in very obvious displays of power.",
+   "drawbacks": [
+    {
+     "name": "Focus Casting",
+     "count": 1,
+     "detail": "Focus Casting"
+    },
+    {
+     "name": "Magical Signs",
+     "count": 1,
+     "detail": "Magical Signs"
+    },
+    {
+     "name": "Material Casting",
+     "count": 1,
+     "detail": "Material Casting"
+    },
+    {
+     "name": "Prepared Caster",
+     "count": 1,
+     "detail": "Prepared Caster"
+    },
+    {
+     "name": "Somatic Casting",
+     "count": 2,
+     "detail": "Somatic Casting x2"
+    },
+    {
+     "name": "Verbal Casting",
+     "count": 1,
+     "detail": "Verbal Casting"
+    }
+   ],
+   "boons": [
+    "Metamagic Expert"
+   ],
+   "feats": [],
+   "notes": [],
+   "ability": "Intelligence"
+  }
+ ]
+}
