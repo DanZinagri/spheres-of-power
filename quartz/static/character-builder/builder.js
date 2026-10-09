@@ -2493,9 +2493,25 @@ async function openSphereAdder(key) {
   const pick = (list) => list.map((e) => [e, h("input", { type: "checkbox", disabled: taken.has(e.id) })])
   const pkgs = pick(packages)
   const draws = pick(drawbacks)
-  const option = ([e, box], extra) => h("label", { class: "trad-option" }, box,
+  // drawbacks that can't be taken together (sphere-bases.json), with ones already on the character
+  const incompatible = base?.incompatible ?? {}
+  const takenDraws = new Set(mine.filter((t) => hasTag(t, "drawback")).map((t) => t.name))
+  const why = new Map(draws.map(([e]) => [e.name, h("span", { class: "warn", style: "display:block" })]))
+  const recheck = () => {
+    const chosen = new Set([...takenDraws, ...draws.filter(([, box]) => box.checked).map(([e]) => e.name)])
+    for (const [e, box] of draws) {
+      if (taken.has(e.id)) continue
+      const clash = (incompatible[e.name] ?? []).filter((n) => chosen.has(n))
+      box.disabled = clash.length > 0 && !box.checked
+      why.get(e.name).textContent = clash.length && !box.checked ? `Not with ${clash.join(", ")}.` : ""
+    }
+  }
+  for (const [, box] of draws) box.addEventListener("change", recheck)
+  const option = ([e, box], extra) => h("label", { class: "sa-option" }, box,
     h("span", {}, h("b", {}, e.name), taken.has(e.id) ? h("span", { class: "muted" }, " (already taken)") : null,
-      e.summary ? h("span", { class: "note", style: "display:block" }, mdToText(e.summary)) : null, extra ?? null))
+      e.summary ? h("span", { class: "note", style: "display:block" }, mdToText(e.summary)) : null, extra ?? null,
+      why.get(e.name) ?? null,
+      incompatible[e.name]?.length ? h("span", { class: "note", style: "display:block" }, `Incompatible with ${incompatible[e.name].join(", ")}.`) : null))
   const grantsOf = (e) => [...mdToText(e.summary ?? "").matchAll(/gain the ([A-Z][\w’' -]+?) talent/g)].map((m) => m[1])
   const dlg = openDialog(`Add the ${name} sphere`,
     base ? h("p", { class: "note" }, base.summary) : h("p", { class: "muted" }, "No base sphere text found for this sphere."),
@@ -2504,10 +2520,10 @@ async function openSphereAdder(key) {
       h("a", { href: `../../${base.url}`, target: "_blank", rel: "noopener" }, `${name} sphere page`)) : null,
     h("fieldset", { class: "trad-choice" },
       h("legend", {}, "Base sphere"),
-      h("label", { class: "trad-option" }, baseBox,
+      h("label", { class: "sa-option" }, baseBox,
         h("span", {}, h("b", {}, `${name} sphere`), hasBase ? h("span", { class: "muted" }, " (already added)") : null,
           h("span", { class: "note", style: "display:block" }, `Counts as 1 talent${base?.abilities?.length ? `; gives ${base.abilities.filter((a) => !/^(table|note|rule)/i.test(a)).join(", ")}` : ""}.`))),
-      base?.bonus ? h("label", { class: "trad-option" }, bonusBox,
+      base?.bonus ? h("label", { class: "sa-option" }, bonusBox,
         h("span", {}, h("b", {}, "Pick the free bonus talent next"),
           h("span", { class: "note", style: "display:block" }, `${base.bonus} It doesn't count toward your talents (the sphere and its bonus talent count as one).`))) : null),
     packages.length ? h("fieldset", { class: "trad-choice" },
@@ -2522,6 +2538,7 @@ async function openSphereAdder(key) {
       h("button", { class: "primary", onclick: () => add() }, "Add"),
       h("button", { onclick: () => dlg.done() }, "Cancel")))
   dlg.classList.add("wide")
+  recheck()
   const textOf = async (e) => {
     const data = await loadCompendium(e.file, { entries: [] })
     const full = data.entries.find((x) => x.id === e.id)

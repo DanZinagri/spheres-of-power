@@ -860,3 +860,19 @@ dialog.picker.wide {
 .sphere-block.collapsed .sphere-head {
   margin-bottom: 0;
 }
+
+/* Character builder: Add sphere's options (the checkbox stays beside its text) */
+.sa-option {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+  margin: 0.3rem 0 0.5rem;
+}
+.sa-option > input {
+  flex: none;
+  margin-top: 0.2rem;
+}
+.sa-option > span {
+  flex: 1 1 auto;
+  min-width: 0;
+}

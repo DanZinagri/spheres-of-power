@@ -4819,6 +4819,31 @@ def build_sphere_bases() -> int:
         abilities = [re.sub(r"\s*[\[(].*$", "", m.group(2)).strip() for l in lines[:stop] if (m := re.match(r"(#{2,4}) (.+)$", l))]
         out[sphere] = {"sphere": sphere, "url": url, "md": intro, "summary": _rules_summary(intro, 220), "bonus": bonus,
                        "abilities": abilities}
+    # sphere drawbacks that can't be taken together ("Incompatible: A, B." / "You cannot possess both
+    # this and the X drawback"), both ways; general wording ("Any Dark sphere drawback that ...") is left to the text
+    for f in COMPENDIUM_OUT.glob("*.json"):
+        try:
+            data = json.loads(f.read_text(encoding="utf-8"))
+        except ValueError:
+            continue
+        if not isinstance(data, dict) or data.get("sphere") not in out:
+            continue
+        draws = [e for e in data["entries"] if e.get("kind") == "drawback"]
+        key = lambda n: _norm(re.sub(r"\s*\(.*\)\s*$", "", n)).replace("-", " ")
+        by_key = {key(e["name"]): e["name"] for e in draws}
+        inc: dict[str, set[str]] = {e["name"]: set() for e in draws}
+        for e in draws:
+            t = re.sub(r"[*_]", "", e.get("md", ""))
+            names = []
+            for m in re.finditer(r"Incompatible:\s*([^\n]+)", t):
+                names += re.split(r",\s*(?:or\s+|and\s+)?|\s+or\s+|\s+and\s+", m.group(1).strip(" ."))
+            names += [m.group(1) for m in re.finditer(r"cannot (?:possess|have|take) both this and the ([\w’' -]+?) drawback", t, re.I)]
+            for n in names:
+                other = by_key.get(key(n.strip(" .")))
+                if other and other != e["name"]:
+                    inc[e["name"]].add(other)
+                    inc[other].add(e["name"])
+        out[data["sphere"]]["incompatible"] = {k: sorted(v) for k, v in inc.items() if v}
     COMPENDIUM_OUT.mkdir(parents=True, exist_ok=True)
     (COMPENDIUM_OUT / "sphere-bases.json").write_text(json.dumps(out, ensure_ascii=False), encoding="utf-8")
     return len(out)
