@@ -210,6 +210,12 @@ body {
   }
 }
 
+// Home "Character Options": the traditions (listed first) fill the first column on their own;
+// the rest start the next one
+.sop-options > ul > li:has(> a[href$="-Traditions"]) + li:not(:has(> a[href$="-Traditions"])) {
+  break-before: column;
+}
+
 // Wikidot side-by-side [[div float]] blocks (home page navigation etc.)
 // Home "Classes": every table full width with the same first-column width, so the book tables
 // line up with the Base PF1e Classes table under them

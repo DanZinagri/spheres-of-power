@@ -331,6 +331,8 @@ HOME_SECTION_MERGES = [("Practitioner Gear", "Gear")]
 # (styled like Feat Types), placed under Feat Types
 HOME_OPTION_ROW = ["Magic Options", "Martial Options", "Skill Options", "Champion Options"]
 HOME_OPTIONS_TITLE = "Character Options"
+# ...except these, which join another home section's list instead: page -> section
+HOME_OPTION_MOVES = {"Operative Gear": "Gear"}
 # Home page sections replaced by the generated "Sample Characters" page, which is linked from
 # the end of the Creatures section instead.
 SAMPLE_SECTIONS = ("Sample Spherecasters", "Sample Practitioners", "Sample Champions")
@@ -1152,10 +1154,24 @@ def rebalance_home_columns(md: str) -> str:
                                    and not any(l.strip().startswith(f"[[{x}]]") for x in [*PAGE_FOLDS, *FCB_FOLDS])]
                 break
     shown = lambda e: _norm(re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1", e))
+    for page, to in HOME_OPTION_MOVES.items():
+        entry = next((e for e in option_entries if e.startswith((f"[[{page}]]", f"[[{page}|"))), None)
+        target = next((s for _, sections in parsed for s in sections if s[0] == to), None)
+        if entry is None or target is None:
+            print(f"warning: home: can't move {page!r} to {to!r}")
+            continue
+        option_entries.remove(entry)
+        tbody = target[1]
+        at = len(tbody)
+        while at > 0 and tbody[at - 1].strip() in ("", "---"):
+            at -= 1
+        tbody.insert(at, entry)  # at the end of the section's last group
     option_row = []
     if option_entries:
+        # the traditions together first (custom.scss gives them the first column), then the rest
+        option_entries.sort(key=lambda e: (not shown(e).endswith("traditions"), shown(e)))
         option_row = ['<div class="sop-spheres sop-options">', "", f"**{HOME_OPTIONS_TITLE}**", "",
-                      *sorted(option_entries, key=shown), "", "</div>", ""]
+                      *option_entries, "", "</div>", ""]
 
     rebuilt, kept, archetypes_col = [], 0, None
     for prefix, sections in parsed:

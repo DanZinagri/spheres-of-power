@@ -155,18 +155,17 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 **Character Options**
 
-- [[Alternate Racial Traits]]
 - [[Casting Traditions]]
 - [[Generation Traditions]]
 - [[Martial Traditions]]
-- [[Operative Gear]]
+- [[Trade Traditions]]
+- [[Unified Traditions]]
+- [[Alternate Racial Traits]]
 - [[Origins]]
 - [[Skill Rules]]
 - [[Techniques]]
-- [[Trade Traditions]]
 - [[Traits]]
 - [[Ultimate Engineering]]
-- [[Unified Traditions]]
 
 </div>
 
@@ -228,6 +227,7 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 [[Technological Gear]]
 [[Practitioner Magic Items]]
 [[Practitioner Weapons]]
+[[Operative Gear]]
 
 </div>
 

@@ -56,8 +56,8 @@ The original (pre-*Ultimate*) versions of Spheres of Power pages, as they appear
 
 **Character Options**
 
-- [[Alternate Racial Traits (Original)|Alternate Racial Traits]]
 - [[Casting Traditions (Original)|Casting Traditions]]
+- [[Alternate Racial Traits (Original)|Alternate Racial Traits]]
 - [[Traits (Original)|Traits]]
 
 **Advanced Magic**
