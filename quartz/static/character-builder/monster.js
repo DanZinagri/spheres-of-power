@@ -351,18 +351,20 @@ function classCr(c) {
   }
   return { total, rows }
 }
-// sphere talents: Might and Guile talents count like bonus feats (no CR); Power talents count more,
-// like adding spells: +1 CR per CR_PER_POWER talents added
+// sphere talents: Might and Guile talents count like bonus feats (no CR). Power talents count more:
+// about 2 talents to a spell, and (as with caster class levels, Table 2-4) a spell's worth is +1 CR
+// when spellcasting is the monster's role, +1/2 otherwise: +1 CR per 2 talents, or per 4
+const powerTalentsPer = (mon) => num(mon.powerTalentsPerCr) || (mon.role === "spell" ? 2 : 4)
 function talentCr() {
   const mon = state.monster
-  const per = num(mon.powerTalentsPerCr) || 2
+  const per = powerTalentsPer(mon)
   const added = state.talents.filter((t) => sphereKind(t.sphere) === "magic" && !t.exclude && !t.fromBase).length
   return { added, per, cr: Math.floor(added / per) }
 }
-function monsterCr() {
+function monsterCr(c = null) {
   const mon = state.monster
   if (!mon) return null
-  const c = calc()
+  c ??= calc()
   const rows = [{ label: `${mon.base.name} (stat block)`, cr: 0, base: true }]
   let steps = 0
   if (num(mon.addedHd) > 0) {
@@ -396,13 +398,47 @@ HOOKS.calc = (out, s, m) => {
   out.hp = Math.floor(classHp + pcFirst) + (ab ? out.abl[ab].mod * out.hd : 0) + constructHp(s) + num(s.monster.bonusHp) + m("mhp")
   // Tiny and smaller creatures, and incorporeal ones, use Dex for CMB
   if (["fine", "dim", "tiny"].includes(s.race.size) || (s.monster.subtypes ?? []).includes("incorporeal")) out.cmb += out.abl.dex.mod - out.abl.str.mod
+  // racial spherecasting (Sphere Bestiary): MSB equals the creature's CR, MSD is 11 + MSB
+  if (racialCasting(s)) {
+    const cr = monsterCr(out).cr
+    const msb = cr.includes("/") ? 0 : Number(cr)
+    const castMod = s.sphere.casting ? out.abl[s.sphere.casting].mod : 0
+    out.spheres.msbBase = out.spheres.msb
+    out.spheres.msb = msb + m("msb")
+    out.spheres.msd = 11 + out.spheres.msb + m("msd")
+    out.spheres.concentration = out.spheres.msb + castMod + m("sphereConcentration")
+  }
+  out.spellPool = spellPool(s, out)
+}
+// the type's racial spherecasting progression (Sphere Bestiary: Creature Type Racial Spherecasting)
+const TYPE_SPHERECASTING = { aberration: "mid", animal: "low", construct: "high", dragon: "high", fey: "mid", humanoid: "mid",
+  "magical beast": "mid", "monstrous humanoid": "mid", ooze: "mid", outsider: "mid", plant: "mid", undead: "mid", vermin: "low" }
+// a monster with magic talents and no casting class casts racially: its racial Hit Dice get the type's progression
+const hasMagicTalents = (s) => s.spheresModule && s.talents.some((t) => sphereKind(t.sphere) === "magic")
+const castingClass = (s) => s.classes.some((cl) => !cl.racial && num(cl.level) > 0 && cl.caster && cl.caster !== "none")
+const racialCasting = (s) => !!s.monster && hasMagicTalents(s) && s.classes.some((cl) => cl.racial && cl.caster && cl.caster !== "none")
+HOOKS.changed = () => {
+  const s = state
+  const racial = s.monster && s.classes.find((cl) => cl.racial)
+  if (!racial) return
+  // switch racial casting on when the monster gets magic talents (and no class casts for it), off when they go
+  const want = hasMagicTalents(s) && !castingClass(s) ? (s.monster.castingProgression || TYPE_SPHERECASTING[s.monster.type] || "mid") : "none"
+  if ((racial.caster || "none") !== want) racial.caster = want
+}
+// spell points (Spheres of Power): caster level + casting ability modifier + the tradition's bonus;
+// a monster starts an encounter with half
+function spellPool(s, c) {
+  if (!hasMagicTalents(s)) return null
+  const castMod = s.sphere.casting ? c.abl[s.sphere.casting].mod : 0
+  const max = Math.max(0, c.spheres.cl + castMod + num(s.monster.extraSpellPoints))
+  return { max, start: Math.floor(max / 2), castMod }
 }
 const NPC_CLASS_NAMES = ["adept", "aristocrat", "commoner", "expert", "warrior"]
 // constructs' bonus hit points by size (Bestiary, construct type)
 const CONSTRUCT_HP = { sm: 10, med: 20, lg: 30, huge: 40, grg: 60, col: 80 }
 const constructHp = (s) => (s.monster?.type === "construct" ? CONSTRUCT_HP[s.race.size] ?? 0 : 0)
 HOOKS.summary = (c) => {
-  const r = monsterCr()
+  const r = monsterCr(c)
   if (!r) return []
   return [h("div", { class: "card" },
     h("div", { class: "stat-grid" }, h("div", { class: "stat" }, h("b", {}, `CR ${r.cr}`), h("span", {}, "Challenge")),
@@ -441,6 +477,16 @@ HOOKS.exportActor = (actor, c) => {
       }],
     }))
   }
+  // racial spherecasting: MSB = CR (the module would give the casting levels), spell points starting at half
+  if (racialCasting(state)) {
+    const diff = c.spheres.msb - (c.spheres.msbBase ?? 0) - 0
+    actor.items.push(item("feat", "Racial spherecasting", { subType: "racial",
+      description: { value: toHtml(`Casts as a ${state.classes.find((cl) => cl.racial)?.caster ?? "mid"}-caster with its racial Hit Dice. MSB equals its CR (${r.cr}); MSD is 11 + MSB (Sphere Bestiary).`) },
+      changes: diff ? [{ _id: randomId(8).toLowerCase(), formula: String(diff), operator: "add", target: "msb", type: "untyped", priority: 0 }] : [] }))
+  }
+  if (c.spellPool) actor.items.push(item("feat", "Spell points", { subType: "misc",
+    description: { value: toHtml(`Spell pool: ${c.spellPool.max} (caster level ${c.spheres.cl} + casting modifier ${c.spellPool.castMod}${num(mon.extraSpellPoints) ? ` + ${num(mon.extraSpellPoints)} from its tradition` : ""}). A monster starts an encounter with half: ${c.spellPool.start}.`) },
+    uses: { per: "day", maxFormula: String(c.spellPool.max), value: c.spellPool.start } }))
   // the stat block's text pieces, for reference
   const notes = [["Aura", mon.aura], ["Defensive abilities", mon.defensive], ["Special attacks", mon.specialAttacks],
     ["Spell-like abilities", mon.sla], ["Spells", mon.spells], ["Special qualities", mon.sq], ["Gear", mon.gearText]].filter(([, v]) => v)
@@ -479,7 +525,8 @@ panels.monster = () => {
       h("dl", { class: "kv" }, ...r.rows.flatMap((x) => [h("dt", {}, x.label), h("dd", {}, x.base ? `CR ${mon.baseCr}` : x.cr ? signed(x.cr) : "+0")])),
       h("div", { class: "row", style: "margin-top:.5rem" },
         field("Role (for class levels)", (() => { const el = select("monster.role", ROLES); return el })(), "Table 2-4: which classes are key"),
-        field("Power talents per +1 CR", input("monster.powerTalentsPerCr", { type: "number", min: 1, placeholder: "2" }, { rerender: true }), "Might and Guile talents count like feats (no CR)"),
+        field("Power talents per +1 CR", input("monster.powerTalentsPerCr", { type: "number", min: 1, placeholder: String(mon.role === "spell" ? 2 : 4) }, { rerender: true }),
+          "2 talents ~ a spell; +1 CR per 2 (spell role) or 4. Might and Guile talents count like feats (no CR)"),
         h("button", { class: "small", onclick: () => { mon.adjustments.push({ label: "", cr: 1 }); changed(true) } }, "+ CR adjustment")),
       ...mon.adjustments.map((a, i) => h("div", { class: "row" },
         input(`monster.adjustments.${i}.label`, { placeholder: "Why (e.g. extra special ability)" }),
@@ -507,6 +554,19 @@ panels.monster = () => {
         t.applied.length ? h("p", { class: "note" }, "Applied: ", t.applied.join("; ")) : null,
         t.review.length ? h("details", {}, h("summary", { class: "note" }, `${t.review.length} rule${t.review.length > 1 ? "s" : ""} to apply by hand`),
           h("ul", { class: "note" }, t.review.map((x) => h("li", {}, x)))) : null))),
+    // spherecasting: racial (MSB = CR) or from a casting class; spell points start at half
+    hasMagicTalents(state) ? h("div", { class: "card" },
+      h("div", { class: "group-title", style: "margin-top:0" }, racialCasting(state) ? "Racial spherecasting" : "Spherecasting (from its class)"),
+      h("div", { class: "row" },
+        racialCasting(state) ? field("Progression", select("monster.castingProgression", { "": `By type (${TYPE_SPHERECASTING[mon.type] ?? "mid"})`, low: "Low-caster", mid: "Mid-caster", high: "High-caster" })) : null,
+        field("Extra spell points", input("monster.extraSpellPoints", { type: "number", min: 0, style: "width:5rem" }), "From its casting tradition")),
+      h("dl", { class: "kv" },
+        h("dt", {}, "Caster level"), h("dd", {}, String(c.spheres.cl)),
+        h("dt", {}, "MSB / MSD"), h("dd", {}, `${signed(c.spheres.msb)} / ${c.spheres.msd}${racialCasting(state) ? " (MSB = CR)" : ""}`),
+        h("dt", {}, "Concentration"), h("dd", {}, signed(c.spheres.concentration)),
+        c.spellPool ? h("dt", {}, "Spell points") : null,
+        c.spellPool ? h("dd", {}, `${c.spellPool.max}; starts an encounter with ${c.spellPool.start}`) : null),
+      h("p", { class: "note" }, "Set the casting ability and add talents or a casting tradition on the Spheres tab. Racial casting uses the type's progression (Sphere Bestiary).")) : null,
     // identity, speeds, defenses
     h("div", { class: "card grid" },
       text("type", "Type"), field("Subtypes", (() => { const el = h("input", { value: mon.subtypes.join(", ") }); el.addEventListener("input", () => setMon("subtypes", el.value.split(",").map((x) => x.trim()).filter(Boolean))); return el })()),
@@ -826,6 +886,10 @@ function statBlockText() {
   if (ranged) L.push(`Ranged ${ranged}`)
   if (mon.space || mon.reach) L.push(`Space ${mon.space || "5 ft."}; Reach ${mon.reach || "5 ft."}`)
   if (mon.specialAttacks) L.push(`Special Attacks ${mon.specialAttacks}`)
+  if (hasMagicTalents(s)) {
+    const sp = c.spellPool
+    L.push(`Spherecasting (CL ${c.spheres.cl}; MSB ${signed(c.spheres.msb)}, MSD ${c.spheres.msd}; concentration ${signed(c.spheres.concentration)})${sp ? `; spell points ${sp.start} (of ${sp.max})` : ""}`)
+  }
   if (mon.sla) L.push(mon.sla)
   if (mon.spells) L.push(mon.spells)
   L.push("", "STATISTICS")

@@ -675,6 +675,7 @@ function currentRaceName() {
 }
 
 function changed(rerender) {
+  HOOKS.changed?.()
   save()
   renderSummary()
   renderHeader()
