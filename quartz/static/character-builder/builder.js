@@ -1488,6 +1488,9 @@ async function openCastingTradition() {
         exclude: false, desc: `Gained from the ${b} boon of the ${name} casting tradition.` })
     }
     state.sphere.casting = sel.ability
+    // the tradition is now this "Other" feature: clear the settings' name field, which exports as its
+    // own class feature, so Foundry doesn't get the tradition twice
+    state.sphere.tradition = ""
     changed(true)
   }
 }
