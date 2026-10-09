@@ -2817,7 +2817,7 @@ COMPENDIUM = {
     },
     "Time": {
         "system": "Spheres of Power",
-        "approved": False,
+        "approved": True,
         "pages": [
             # Alter Time, with Haste and Slow
             ("Time", "Alter Time", "sphere ability", 2, 4),
@@ -2829,6 +2829,27 @@ COMPENDIUM = {
         ],
         # the note comparing Reversion and Complete Reversion
         "not_options": r"^Table|^Note|^Reversion and Complete",
+    },
+    "War": {
+        "system": "Spheres of Power",
+        "approved": False,
+        "pages": [
+            # Totem (with Totem of War) and Rally (with Commanding Aid)
+            ("War", "## Totem", "sphere ability", 2, 4),
+            ("War", "## Rally", "sphere ability", 2, 4),
+            ("War", "War Talents", "talent", 4),
+            ("War", "Mandate Talents", "talent", 4),
+            ("War", "Momentum Talents", "talent", 4),
+            ("War", "Rally Talents", "talent", 4),
+            ("War", "Totem Talents", "talent", 4),
+            ("War", "Advanced War Talents", "advanced talent", 4),
+            ("War Sphere Feats", "(page)", "feat", 4),
+            # the squadron feats printed on the War page itself
+            ("War", "Squadron Feats", "feat", 4),
+            ("War Sphere Drawbacks", "(page)", "drawback", 4),
+        ],
+        # the (mandate) / (momentum) talent type notes under Rally
+        "not_options": r"^Table|^Note|^Mandate$|^Momentum$",
     },
     "Warleader": {
         "system": "Spheres of Might",

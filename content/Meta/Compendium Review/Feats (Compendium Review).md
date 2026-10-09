@@ -28,42 +28,42 @@ What the feat extractor takes from the site (1233 Spheres feats; approved), plus
 | Admixture | 24 | — |
 | Aristeia | 23 | — |
 | Counterspell | 20 | — |
-| Grit | — | 19 |
 | Item Mastery | — | 19 |
+| Grit | — | 19 |
 | Conduit | — | 18 |
 | Gizmo | 17 | — |
-| Protokinesis | 16 | — |
-| Stare | — | 16 |
-| Weapon Mastery | — | 16 |
 | Faction | — | 16 |
+| Stare | — | 16 |
+| Protokinesis | 16 | — |
+| Weapon Mastery | — | 16 |
 | Companion | 15 | — |
 | Shield Mastery | — | 14 |
 | Meditation | — | 14 |
 | Performance | — | 13 |
 | Proxy | 12 | — |
-| Defiler | 12 | — |
-| Wild Magic | 12 | — |
-| Shield Style | — | 12 |
 | Necrosis | 12 | — |
-| Surreal | 11 | — |
+| Shield Style | — | 12 |
+| Wild Magic | 12 | — |
+| Defiler | 12 | — |
+| Armor Mastery | — | 11 |
 | Purring | 11 | — |
 | Channeling | 11 | — |
-| Armor Mastery | — | 11 |
+| Surreal | 11 | — |
 | Rune | 10 | — |
 | Panache | — | 9 |
-| Esoteric | — | 9 |
-| Alignment | — | 9 |
 | Armor Style | — | 9 |
-| Achievement | — | 8 |
+| Alignment | — | 9 |
+| Esoteric | — | 9 |
 | Origin | — | 8 |
+| Achievement | — | 8 |
 | Theurge | 7 | — |
+| Damnation | 3 | 4 |
 | Blood Hex | — | 7 |
 | Combination | — | 7 |
-| Damnation | 3 | 4 |
-| Betrayal | — | 6 |
-| Chance | 6 | — |
-| Trick | — | 6 |
 | Plague | 6 | — |
+| Chance | 6 | — |
+| Betrayal | — | 6 |
+| Trick | — | 6 |
 | Anathema | 5 | — |
 | Gathlain Court Title | — | 4 |
 | Targeting | — | 4 |

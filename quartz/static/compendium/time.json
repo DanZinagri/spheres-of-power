@@ -1,7 +1,7 @@
 {
  "sphere": "Time",
  "system": "Spheres of Power",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "time/alter-time",

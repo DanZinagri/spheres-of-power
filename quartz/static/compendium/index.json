@@ -34920,7 +34920,7 @@
   ],
   "summary": "When you gain the Time sphere, you gain the following ways to alter time: Some Time talents are marked (time).",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/augment-healing",
@@ -34937,7 +34937,7 @@
   "options": [],
   "summary": "When you use Haste or Slow on a creature (or group of creatures, such as with the Mass Time talent), you may spend an extra spell point to augment the natural…",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/improved-haste",
@@ -34954,7 +34954,7 @@
   "options": [],
   "summary": "When you use Haste on a target, that target may either make an additional attack at their highest base attack bonus when making a full attack, or make…",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/improved-slow",
@@ -34971,7 +34971,7 @@
   "options": [],
   "summary": "When you use Slow on a creature, the target also becomes staggered.",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/instill-time-instill",
@@ -34990,7 +34990,7 @@
   "options": [],
   "summary": "As a standard action you may touch a small container of liquid and instill an alter time effect that targets a single creature or object inside it, which…",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/lingering-time",
@@ -35007,7 +35007,7 @@
   "options": [],
   "summary": "When you use a time ability that requires concentration, the ability continues to maintain itself for 2 rounds after you stop concentrating.",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/mass-time-mass",
@@ -35026,7 +35026,7 @@
   "options": [],
   "summary": "When using an alter time effect that targets creatures, you may spend an additional spell point to affect an additional 1 creature per 2 caster levels (minimum…",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/ranged-time-range",
@@ -35045,7 +35045,7 @@
   "options": [],
   "summary": "You may select this talent multiple times.",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/retroactive-preparation",
@@ -35062,7 +35062,7 @@
   "options": [],
   "summary": "As a standard action, you may spend a spell point to edit the past, retroactively obtaining a generic object, such as a mundane item or a commonly-available…",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/second-chance",
@@ -35079,7 +35079,7 @@
   "options": [],
   "summary": "As an immediate action, you may spend a spell point to allow any creature currently benefiting from one of your alter time effects to reroll a saving throw…",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/temporal-trap",
@@ -35096,7 +35096,7 @@
   "options": [],
   "summary": "You may spend a spell point to place an alter time effect onto an adjacent, unoccupied 5-foot square in addition to the normal costs of that effect.",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/time-strike-strike",
@@ -35115,7 +35115,7 @@
   "options": [],
   "summary": "As a standard action, you may make a single weapon attack in conjunction with using an alter time effect that targets a single creature.",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/time-zone",
@@ -35132,7 +35132,7 @@
   "options": [],
   "summary": "When activating a (time) effect that targets an area, you may adjust the affected area to one of the following shapes: - Globe: Radius of up to 10 feet + 5…",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/after-image-time",
@@ -35151,7 +35151,7 @@
   "options": [],
   "summary": "You may cause a target to bleed through time, blurring their image so that they appear to be in multiple places at once.",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/age-time",
@@ -35170,7 +35170,7 @@
   "options": [],
   "summary": "You may spend a spell point to increase or decrease a target’s age by 1 category (unwilling creatures attempt a Fortitude save to negate).",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/broken-time-time",
@@ -35189,7 +35189,7 @@
   "options": [],
   "summary": "Targets who fail their saving throw take a penalty on all skill checks and attack rolls equal to 1/2 your caster level and must succeed on a concentration…",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/causality-time",
@@ -35208,7 +35208,7 @@
   "options": [],
   "summary": "You may spend a spell point to pull causality from an alternate timeline, making cause follow effect rather than the other way around.",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/delay-pain-time",
@@ -35227,7 +35227,7 @@
   "options": [],
   "summary": "As an immediate action, when an ally or object with your natural reach (or within Time sphere range, if you possess the Ranged Time talent) would take damage…",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/eject-time",
@@ -35246,7 +35246,7 @@
   "options": [],
   "summary": "You may spend a spell point to attempt to eject a creature from time itself for 1 round per caster level (Will negates).",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/fast-time-time",
@@ -35265,7 +35265,7 @@
   "options": [],
   "summary": "You may spend a spell point to accelerate time within a 10-foot radius burst, +5 feet per 5 caster levels.",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/lethargy-time",
@@ -35284,7 +35284,7 @@
   "options": [],
   "summary": "You may spend a spell point and make a melee or ranged touch attack against a target within range, causing them to experience a massive amount of time in a…",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/rapid-response-time",
@@ -35303,7 +35303,7 @@
   "options": [],
   "summary": "You grant the target a competence bonus to initiative checks equal to 1/2 your caster level (minimum 1) and the ability to act in the surprise round even if…",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/repetition-time",
@@ -35322,7 +35322,7 @@
   "options": [],
   "summary": "You may spend a spell point to momentarily extend time for a target, allowing them to take extra care when performing an action.",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/retry-time",
@@ -35341,7 +35341,7 @@
   "options": [],
   "summary": "As an immediate action, you may spend 2 spell points to force a target to redo their turn (Will negates if unwilling).",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/shift-time-time",
@@ -35360,7 +35360,7 @@
   "options": [],
   "summary": "You may spend a spell point to grant the target the ability to immediately take a standard, move, or swift action if they choose.",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/steal-time-time",
@@ -35379,7 +35379,7 @@
   "options": [],
   "summary": "You may spend a spell point to attempt to erase a creature’s turn from existence.",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/stretch-time-time",
@@ -35398,7 +35398,7 @@
   "options": [],
   "summary": "You may spend a spell point to decelerate time within a 10-foot radius burst, +5 feet per 5 caster levels.",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/time-bubble-time",
@@ -35417,7 +35417,7 @@
   "options": [],
   "summary": "You may spend a spell point to create a bubble of distorted time around yourself that extends outward in a sphere with a radius of up to 15-foot + 5 feet per 5…",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/time-freeze-time",
@@ -35436,7 +35436,7 @@
   "options": [],
   "summary": "You may spend one spell point to freeze all activity within a 10-foot radius burst, + 5 feet per 5 caster levels.",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/time-of-the-season-time",
@@ -35455,7 +35455,7 @@
   "options": [],
   "summary": "Create a sphere with a radius of 10 feet + 5 feet per 2 caster levels centered on a creature, object, or square within reach (or within your Time sphere range,…",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/timeline-bridge-time",
@@ -35474,7 +35474,7 @@
   "options": [],
   "summary": "By connecting the target to versions of themselves that exist in alternate timelines, you grant the target an insight bonus on all Knowledge checks equal to…",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/advanced-rewind",
@@ -35491,7 +35491,7 @@
   "options": [],
   "summary": "You may use the Age (time) talent to not only alter the age of creatures or objects, but also enchantments.",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/grey-hawks-gambit",
@@ -35508,7 +35508,7 @@
   "options": [],
   "summary": "You may spend 1 spell point to allow this effect to continue for 1 round per caster level without concentration.",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/improved-eject-time",
@@ -35527,7 +35527,7 @@
   "options": [],
   "summary": "You may spend 5 spell points to touch a target and attempt to permanently eject a creature from the space-time continuum unless they succeed on a Will saving…",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/past-sight-utility",
@@ -35546,7 +35546,7 @@
   "options": [],
   "summary": "You may spend one minute and a spell point to view the past of your present location out to close range, viewing the past hour.",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/query-self-utility",
@@ -35565,7 +35565,7 @@
   "options": [],
   "summary": "You may spend 2 spell points to reach through time to contact a possible future self.",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/reversion-utility",
@@ -35584,7 +35584,7 @@
   "options": [],
   "summary": "You gain the ability to allow a character to completely retrain the last class level they gained by returning them to an earlier point in time.",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/reversion-complete-utility",
@@ -35603,7 +35603,7 @@
   "options": [],
   "summary": "When using the Reversion talent, you may allow the target to retrain any and all class levels they possess, choosing a new class, feats, spells, skills, or…",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/shuffle-time-time",
@@ -35622,7 +35622,7 @@
   "options": [],
   "summary": "Prerequisites: Time sphere You adjust a target’s readiness to act.",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/temporal-haste",
@@ -35639,7 +35639,7 @@
   "options": [],
   "summary": "When applying Haste to a target, you may spend an additional spell point to grant them the ability to take 1 additional move or swift action each round for the…",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/temporal-stasis",
@@ -35656,7 +35656,7 @@
   "options": [],
   "summary": "You may touch a target and spend 3 spell points to place it into a state of suspended animation (Fortitude negates).",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/time-clone-time",
@@ -35675,7 +35675,7 @@
   "options": [],
   "summary": "Prerequisites: Time sphere, caster level 10th.",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/timeless-cranes-hourglass-time",
@@ -35694,7 +35694,7 @@
   "options": [],
   "summary": "You may spend 1 spell point to allow this effect to continue for 1 round per caster level without concentration.",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/localized-changes-dual-sphere",
@@ -35713,7 +35713,7 @@
   "options": [],
   "summary": "While concentrating on Time Of The Season, instead of choosing a season’s additional effects (such as spring’s overgrowth or summer’s intensified heat) you may…",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/pawstpone",
@@ -35730,7 +35730,7 @@
   "options": [],
   "summary": "Whenever you cast a sphere effect, you may instead delay the sphere effect and create a temporal mote attached to either the targets of the spell or the…",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/shape-quintessence-dual-sphere",
@@ -35749,7 +35749,7 @@
   "options": [],
   "summary": "When you create an object, you may work with quintessence in addition to any materials you could normally work with.",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/spacetime-drift-dual-sphere",
@@ -35768,7 +35768,7 @@
   "options": [],
   "summary": "Whenever you affect a creature with an alter time effect, you may spend a spell point to also teleport them to any place within close range that you could…",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/spell-capacitor",
@@ -35785,7 +35785,7 @@
   "options": [],
   "summary": "You may cast sphere effects into a temporary rift in time, creating a spell capacitor, storing them for a short time before discharging them simultaneously.",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/spell-capacitor-focused",
@@ -35802,7 +35802,7 @@
   "options": [],
   "summary": "Prerequisites: Spell Capacitor Benefit: When you store magic effects with the Spell Capacitor feat, you may choose to reduce the casting time of storing these…",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/spell-saga",
@@ -35819,7 +35819,7 @@
   "options": [],
   "summary": "Prerequisites: Cascade Spell, Pawstpone Benefit: When you use Cascade Spell, you may delay the effects of specific magic sphere effects as time motes, each set…",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/stasis-storage-dual-sphere",
@@ -35838,7 +35838,7 @@
   "options": [],
   "summary": "By spending one minute in concentration, you can lock away part of your extradimensional storage, sending it beyond time and placing its contents in stasis.",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/summon-capacitor",
@@ -35855,7 +35855,7 @@
   "options": [],
   "summary": "Prerequisites: Conjuration Sphere, Time Sphere, Spell Capacitor Benefit: When you summon your companion, you may release any number of your effects from your…",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/swift-demise-dual-sphere",
@@ -35874,7 +35874,7 @@
   "options": [],
   "summary": "You may use your Slow and Haste abilities as ghost strikes.",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/swift-warrior-combat",
@@ -35893,7 +35893,7 @@
   "options": [],
   "summary": "When targeting yourself and only yourself with an alter time effect, you gain a +1 bonus to your caster level, increasing by +1 at 5 Hit Dice and every 4 Hit…",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/altered-time",
@@ -35910,7 +35910,7 @@
   "options": [],
   "summary": "Choose either Haste or Slow.",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/personal-time",
@@ -35927,7 +35927,7 @@
   "options": [],
   "summary": "You may only affect yourself when using alter time abilities that affect creatures.",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/temporal-blade",
@@ -35944,7 +35944,7 @@
   "options": [],
   "summary": "You must select the Time Strike talent with the bonus talent gained from this drawback.",
   "file": "time.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "time/temporal-brew",
@@ -35961,6 +35961,2926 @@
   "options": [],
   "summary": "You must select the Instill Time talent with the bonus talent granted by this drawback, and you can only use your Time sphere abilities through this talent.",
   "file": "time.json",
+  "approved": true
+ },
+ {
+  "id": "war/totem",
+  "name": "Totem",
+  "kind": "sphere ability",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#totem",
+  "options": [
+   "Totem Of War"
+  ],
+  "summary": "As a standard action, you may place a totem.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/rally",
+  "name": "Rally",
+  "kind": "sphere ability",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#rally",
+  "options": [
+   "Commanding Aid"
+  ],
+  "summary": "A rally is a magical effect you may enact as an immediate action, targeting a creature within the area of effect of one of your totems (or with whom you share…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/bleeding-battlefield",
+  "name": "Bleeding Battlefield",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "War Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#bleeding-battlefield",
+  "options": [],
+  "summary": "When you create a totem, enemies within your totem cannot heal naturally, and fast healing and regeneration are halved.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/blood-bond",
+  "name": "Blood Bond",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "War Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#blood-bond",
+  "options": [],
+  "summary": "When you create a mandate and spend a spell point to maintain it without concentration, the mandate lasts for 10 minutes per caster level rather than 1 minute…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/call-to-arms",
+  "name": "Call To Arms",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "War Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#call-to-arms",
+  "options": [],
+  "summary": "You may create a totem or mandate as a move action, or spend an additional spell point to create one as a swift action.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/close-cooperation",
+  "name": "Close Cooperation",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "War Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#close-cooperation",
+  "options": [],
+  "summary": "Allies you share mandates with are considered within touch range for the purposes of your sphere abilities and supernatural abilities.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/combat-inertia",
+  "name": "Combat Inertia",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "War Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#combat-inertia",
+  "options": [],
+  "summary": "Whenever you spend a spell point to use a War sphere ability, you regain a point of momentum + 1 per 10 caster levels, provided you currently have at least one…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/declaration-of-war",
+  "name": "Declaration Of War",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "War Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#declaration-of-war",
+  "options": [],
+  "summary": "When you create a totem, you may designate a type or subtype of creature (using the ranger’s favored enemy categories).",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/eternal-vigilance",
+  "name": "Eternal Vigilance",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "War Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#eternal-vigilance",
+  "options": [],
+  "summary": "You may rally any ally within 30 feet of you even without a totem in place, and you can always rally yourself.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/hammer-and-anvil",
+  "name": "Hammer And Anvil",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "War Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#hammer-and-anvil",
+  "options": [],
+  "summary": "Whenever you enter a mandate with an ally, you may choose a combat or teamwork feat you possess.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/lingering-resentment",
+  "name": "Lingering Resentment",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "War Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#lingering-resentment",
+  "options": [],
+  "summary": "When you cease concentrating on a totem or mandate effect, you may choose to have it remain for two rounds before dissipating.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/mass-rally-mass",
+  "name": "Mass Rally",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "War Talents",
+  "tags": [],
+  "talentTags": [
+   "mass"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#mass-rally-mass",
+  "options": [],
+  "summary": "When rallying a target, you may spend an extra spell point to rally up to 1 additional creature per 2 caster levels (minimum 1).",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/mental-assault",
+  "name": "Mental Assault",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "War Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#mental-assault",
+  "options": [],
+  "summary": "When you use a mind-affecting ability against an enemy that is within the area of one of your totems, the DC to resist increases by +2.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/ranged-totem-range",
+  "name": "Ranged Totem",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "War Talents",
+  "tags": [],
+  "talentTags": [
+   "range"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#ranged-totem-range",
+  "options": [],
+  "summary": "When placing a totem, you may center it anywhere within close range.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/redeployment",
+  "name": "Redeployment",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "War Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#redeployment",
+  "options": [],
+  "summary": "You can move totems you created as a swift action.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/resounding-rally",
+  "name": "Resounding Rally",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "War Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#resounding-rally",
+  "options": [],
+  "summary": "Whenever you rally an ally other than yourself, you may also rally yourself at the same time with the same rally without expending any additional spell points.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/resourcefulness",
+  "name": "Resourcefulness",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "War Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#resourcefulness",
+  "options": [],
+  "summary": "In addition, when you refill your momentum pool, it refills to its maximum value, including these additional points.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totem-merger",
+  "name": "Totem Merger",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "War Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#totem-merger",
+  "options": [],
+  "summary": "Whenever one of your totems contains one of your other totems or the totem of an allied spellcaster within its area, the effects of each totem extends into the…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totemic-aura",
+  "name": "Totemic Aura",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "War Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#totemic-aura",
+  "options": [],
+  "summary": "You may create totems attached to yourself or to other creatures.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totemic-emblem",
+  "name": "Totemic Emblem",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "War Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#totemic-emblem",
+  "options": [],
+  "summary": "You may create totems attached to objects.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/adroitness-mandate",
+  "name": "Adroitness",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Mandate Talents",
+  "tags": [
+   "mandate"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#adroitness-mandate",
+  "options": [],
+  "summary": "When a member of this mandate is missed by an enemy, the other member of this mandate receives a +4 morale bonus to damage rolls against that enemy.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/aptitude-mandate",
+  "name": "Aptitude",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Mandate Talents",
+  "tags": [
+   "mandate"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#aptitude-mandate",
+  "options": [],
+  "summary": "When a member of this mandate succeeds in a skill check, the other member gains +4 morale bonus to the same skill.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/awareness-mandate",
+  "name": "Awareness",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Mandate Talents",
+  "tags": [
+   "mandate"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#awareness-mandate",
+  "options": [],
+  "summary": "When a member of this mandate damages an enemy, the other member can make attacks without the enemy benefiting from any form of concealment, displacement,…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/guile-mandate",
+  "name": "Guile",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Mandate Talents",
+  "tags": [
+   "mandate"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#guile-mandate",
+  "options": [],
+  "summary": "When a member of this mandate succeeds in a combat maneuver against an enemy, the other member gains total concealment against that enemy.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/impose-mandate",
+  "name": "Impose",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Mandate Talents",
+  "tags": [
+   "mandate"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#impose-mandate",
+  "options": [],
+  "summary": "Whenever a member of this mandate takes damage, the other member of this mandate may choose to transfer up to an amount of damage equal to twice your caster…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/mobility-mandate",
+  "name": "Mobility",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Mandate Talents",
+  "tags": [
+   "mandate"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#mobility-mandate",
+  "options": [],
+  "summary": "When a member of this mandate moves adjacent to a creature, the other member may use an immediate action to move up to their speed, provided this movement ends…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/perseverance-mandate",
+  "name": "Perseverance",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Mandate Talents",
+  "tags": [
+   "mandate"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#perseverance-mandate",
+  "options": [],
+  "summary": "When a member of this mandate regains hit points, the other member gains an equal number of temporary hit points, up to a maximum equal to their maximum hit…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/resolve-mandate",
+  "name": "Resolve",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Mandate Talents",
+  "tags": [
+   "mandate"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#resolve-mandate",
+  "options": [],
+  "summary": "When a member of this mandate hits an enemy with an attack, the other member gains a +4 morale bonus to AC and CMD against that enemy, and a +4 morale bonus to…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/ruthlessness-mandate",
+  "name": "Ruthlessness",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Mandate Talents",
+  "tags": [
+   "mandate"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#ruthlessness-mandate",
+  "options": [],
+  "summary": "When a member of this mandate misses an enemy with an attack, the other member may use an immediate action to use a combat maneuver against that enemy.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/tenacity-mandate",
+  "name": "Tenacity",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Mandate Talents",
+  "tags": [
+   "mandate"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#tenacity-mandate",
+  "options": [],
+  "summary": "When a member of this mandate succeeds in a saving throw, the other member gains +4 morale bonus to saving throws.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/vindictiveness-mandate",
+  "name": "Vindictiveness",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Mandate Talents",
+  "tags": [
+   "mandate"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#vindictiveness-mandate",
+  "options": [],
+  "summary": "When a member of this mandate is hit by an enemy, the other member of this mandate receives a +2 morale bonus to attack rolls and CMB against that enemy.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/aggressive-momentum-momentum",
+  "name": "Aggressive Momentum",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Momentum Talents",
+  "tags": [
+   "momentum"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#aggressive-momentum-momentum",
+  "options": [],
+  "summary": "As a swift action, any ally may spend three points of momentum to grant themselves an additional attack made at their highest base attack bonus for that round.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/cooperative-momentum-momentum",
+  "name": "Cooperative Momentum",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Momentum Talents",
+  "tags": [
+   "momentum"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#cooperative-momentum-momentum",
+  "options": [],
+  "summary": "Whenever an ally would be affected by an ability originating from another ally that is subject to spell resistance and covers an area, the ally may spend a…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/damaging-momentum-momentum",
+  "name": "Damaging Momentum",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Momentum Talents",
+  "tags": [
+   "momentum"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#damaging-momentum-momentum",
+  "options": [],
+  "summary": "Whenever an ally hits an enemy with a weapon attack, natural weapon attack or unarmed strike, they may spend two points of momentum to add your casting ability…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/demoralizing-momentum-momentum",
+  "name": "Demoralizing Momentum",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Momentum Talents",
+  "tags": [
+   "momentum"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#demoralizing-momentum-momentum",
+  "options": [],
+  "summary": "Whenever an ally hits an enemy with an attack, they may spend a point of momentum as an immediate action to try and demoralize that enemy with their Intimidate…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/disrupting-momentum-momentum",
+  "name": "Disrupting Momentum",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Momentum Talents",
+  "tags": [
+   "momentum"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#disrupting-momentum-momentum",
+  "options": [],
+  "summary": "Whenever an ally would be attacked with a melee attack or combat maneuver, the ally may spend 2 points of momentum as an immediate action to force the attacker…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/favorable-momentum-momentum",
+  "name": "Favorable Momentum",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Momentum Talents",
+  "tags": [
+   "momentum"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#favorable-momentum-momentum",
+  "options": [],
+  "summary": "Allies may spend two points of momentum to add a 1d6 circumstance bonus to any skill or ability check.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/focusing-momentum-momentum",
+  "name": "Focusing Momentum",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Momentum Talents",
+  "tags": [
+   "momentum"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#focusing-momentum-momentum",
+  "options": [],
+  "summary": "As a move action, an ally may spend 2 points of momentum to regain their martial focus.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/marauding-momentum-momentum",
+  "name": "Marauding Momentum",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Momentum Talents",
+  "tags": [
+   "momentum"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#marauding-momentum-momentum",
+  "options": [],
+  "summary": "On their turn, an ally may spend a point of momentum to move 5 feet.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/resilient-momentum-momentum",
+  "name": "Resilient Momentum",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Momentum Talents",
+  "tags": [
+   "momentum"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#resilient-momentum-momentum",
+  "options": [],
+  "summary": "Whenever an ally takes hit point damage, they may spend a point of momentum to reduce the damage of the attack by your casting ability modifier (minimum 1).",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/revitalizing-momentum-momentum",
+  "name": "Revitalizing Momentum",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Momentum Talents",
+  "tags": [
+   "momentum"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#revitalizing-momentum-momentum",
+  "options": [],
+  "summary": "As a swift action, an ally may spend any amount of momentum (maximum equal to your casting ability modifier).",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/tactical-momentum-momentum",
+  "name": "Tactical Momentum",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Momentum Talents",
+  "tags": [
+   "momentum"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#tactical-momentum-momentum",
+  "options": [],
+  "summary": "When an ally attempts a combat maneuver, they may spend a point of momentum to receive an insight bonus equal to 1/2 your casting ability modifier (minimum 1).",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/threatening-momentum-momentum",
+  "name": "Threatening Momentum",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Momentum Talents",
+  "tags": [
+   "momentum"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#threatening-momentum-momentum",
+  "options": [],
+  "summary": "When an ally hits an enemy with a weapon attack with a natural roll of 16 or greater, they may spend a point of momentum to have the attack be considered a…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/absorb-rally",
+  "name": "Absorb",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Rally Talents",
+  "tags": [
+   "rally"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#absorb-rally",
+  "options": [],
+  "summary": "When an enemy deals damage to an ally you can rally, you may spend a spell point to transfer half of this damage to another ally you can rally.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/counterattack-rally",
+  "name": "Counterattack",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Rally Talents",
+  "tags": [
+   "rally"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#counterattack-rally",
+  "options": [],
+  "summary": "When an enemy misses an ally with a melee attack, you may spend a spell point to rally that ally, allowing them to make an attack with a natural or…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/empower-rally",
+  "name": "Empower",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Rally Talents",
+  "tags": [
+   "rally"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#empower-rally",
+  "options": [],
+  "summary": "You may spend a spell point to rally a target, giving them a +4 morale bonus to either attack rolls and CMB, AC and CMD, saving throws, or concentration checks…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/engage-rally",
+  "name": "Engage",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Rally Talents",
+  "tags": [
+   "rally"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#engage-rally",
+  "options": [],
+  "summary": "You may spend a spell point to rally a target, allowing them to attempt an Escape Artist check, draw a weapon, ready a shield, set a weapon against a charge,…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/finish-rally",
+  "name": "Finish",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Rally Talents",
+  "tags": [
+   "rally"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#finish-rally",
+  "options": [],
+  "summary": "You may spend a spell point to rally an ally, allowing them to reroll an attack roll (even an attack roll to confirm a critical hit) or CMB check.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/intercept-rally",
+  "name": "Intercept",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Rally Talents",
+  "tags": [
+   "rally"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#intercept-rally",
+  "options": [],
+  "summary": "You may spend a spell point to rally a target, allowing them to swap positions with an adjacent ally.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/position-rally",
+  "name": "Position",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Rally Talents",
+  "tags": [
+   "rally"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#position-rally",
+  "options": [],
+  "summary": "You may spend a spell point to rally a target, allowing it to immediately move up to 5 feet per 2 caster levels (minimum 5 feet).",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/replenish-rally",
+  "name": "Replenish",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Rally Talents",
+  "tags": [
+   "rally"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#replenish-rally",
+  "options": [],
+  "summary": "You may spend a spell point to rally a target, allowing them to reroll a saving throw they just failed.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/retribution-rally",
+  "name": "Retribution",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Rally Talents",
+  "tags": [
+   "rally"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#retribution-rally",
+  "options": [],
+  "summary": "When an enemy deals damage to an ally and both ally and enemy are within the area you can rally, you may spend a spell point to deal 1d6 damage to the attacker…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/safety-rally",
+  "name": "Safety",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Rally Talents",
+  "tags": [
+   "rally"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#safety-rally",
+  "options": [],
+  "summary": "When a creature confirms a critical hit against the target, you may spend a spell point to cause that critical hit to resolve as a normal hit instead.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/strike-rally",
+  "name": "Strike",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Rally Talents",
+  "tags": [
+   "rally"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#strike-rally",
+  "options": [],
+  "summary": "You may spend a spell point to rally an ally, allowing them to use a combat maneuver (but not an Escape Artist check or grapple) on an enemy they threaten.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/absolute-totem-totem",
+  "name": "Absolute Totem",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#absolute-totem-totem",
+  "options": [],
+  "summary": "Within this totem, the weapons, armor and equipment allies are wearing or carrying receive a bonus to their hardness equal to your caster level.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/blood-totem-totem",
+  "name": "Blood Totem",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#blood-totem-totem",
+  "options": [],
+  "summary": "Whenever an enemy within this totem’s area deals damage to an ally within this totem’s area, the damage roll is reduced by 1 (to a minimum of 0), and the…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/divisive-totem-totem",
+  "name": "Divisive Totem",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#divisive-totem-totem",
+  "options": [],
+  "summary": "You must spend a spell point to create a divisive totem.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/giving-totem-totem",
+  "name": "Giving Totem",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#giving-totem-totem",
+  "options": [],
+  "summary": "Whenever a creature is subjected to a positive energy effect that causes them to regain or lose hit points (but not temporary hit points granted or ability…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/gyroscopic-totem-totem",
+  "name": "Gyroscopic Totem",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#gyroscopic-totem-totem",
+  "options": [],
+  "summary": "If the creature has more than 2 legs, it gains a +1 bonus to this saving throw for each additional leg, and creatures that are flying, crawling, swimming, or…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/hallowedunhallowed-totem-totem",
+  "name": "Hallowed/Unhallowed Totem",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#hallowedunhallowed-totem-totem",
+  "options": [],
+  "summary": "You may create either a hallowed or unhallowed totem.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/haunting-totem-totem",
+  "name": "Haunting Totem",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#haunting-totem-totem",
+  "options": [],
+  "summary": "Enemies within this totem must succeed at a Will save, or become distracted by hallucinations at the edge of their perception.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/invigorating-totem-totem",
+  "name": "Invigorating Totem",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#invigorating-totem-totem",
+  "options": [],
+  "summary": "You and your allies gain 1 temporary hit point per round at the end of your turn, +1 per 5 caster levels.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/quickening-totem-totem",
+  "name": "Quickening Totem",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#quickening-totem-totem",
+  "options": [],
+  "summary": "You and your allies gain a +2 dodge bonus to AC vs.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/rebellious-totem-totem",
+  "name": "Rebellious Totem",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#rebellious-totem-totem",
+  "options": [],
+  "summary": "Whenever a creature attempts to exert or maintain mental control over another creature inside your totem, they must attempt a magic skill check against your…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/scourging-totem-totem",
+  "name": "Scourging Totem",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#scourging-totem-totem",
+  "options": [],
+  "summary": "This totem emits pulses of energy, damaging every enemy within your totem’s range for an amount per round equal to 1/2 your caster level (minimum 1).",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/tactical-totem-totem",
+  "name": "Tactical Totem",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#tactical-totem-totem",
+  "options": [],
+  "summary": "When you activate this totem, choose a teamwork feat you possess.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/taking-totem-totem",
+  "name": "Taking Totem",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#taking-totem-totem",
+  "options": [],
+  "summary": "Whenever a creature is subjected to a negative energy effect that causes them to regain or lose hit points (but not temporary hit points granted or ability…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totem-of-agility-totem",
+  "name": "Totem Of Agility",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#totem-of-agility-totem",
+  "options": [],
+  "summary": "You and your allies ignore nonmagical difficult terrain within the area of the totem.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totem-of-allegiance-totem",
+  "name": "Totem Of Allegiance",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#totem-of-allegiance-totem",
+  "options": [],
+  "summary": "Choose an end of the alignment spectrum (chaotic, evil, good, or lawful) when you create this totem.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totem-of-courage-totem",
+  "name": "Totem Of Courage",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#totem-of-courage-totem",
+  "options": [],
+  "summary": "You and your allies gain a +1 competence bonus to attack rolls and a +1 morale bonus to saves vs.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totem-of-deep-thought-totem",
+  "name": "Totem Of Deep Thought",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#totem-of-deep-thought-totem",
+  "options": [],
+  "summary": "Your allies gain a +1 competence bonus to concentration.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totem-of-doom-totem",
+  "name": "Totem Of Doom",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#totem-of-doom-totem",
+  "options": [],
+  "summary": "You may take this talent a total of three times.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totem-of-dread-totem",
+  "name": "Totem Of Dread",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#totem-of-dread-totem",
+  "options": [],
+  "summary": "Enemies within the totem’s area must attempt a Will save.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totem-of-enemies-totem",
+  "name": "Totem Of Enemies",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#totem-of-enemies-totem",
+  "options": [],
+  "summary": "Choose an end of the alignment spectrum (chaotic, evil, good, or lawful) when you create the totem.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totem-of-expulsion-totem",
+  "name": "Totem Of Expulsion",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#totem-of-expulsion-totem",
+  "options": [],
+  "summary": "In addition, they receive a penalty to any damage reduction, energy resistance, and spell resistance they possess equal to your caster level.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totem-of-foresight-totem",
+  "name": "Totem Of Foresight",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#totem-of-foresight-totem",
+  "options": [],
+  "summary": "Whenever an ally in the area of the totem attacks, they may choose two possible target enemies for the attack, and then roll the d20 for each target.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totem-of-insanity-totem",
+  "name": "Totem Of Insanity",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#totem-of-insanity-totem",
+  "options": [],
+  "summary": "You must spend a spell point to create a totem of insanity.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totem-of-iron-totem",
+  "name": "Totem Of Iron",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#totem-of-iron-totem",
+  "options": [],
+  "summary": "This grants you and your allies a +1 natural armor bonus.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totem-of-liberation-totem",
+  "name": "Totem Of Liberation",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#totem-of-liberation-totem",
+  "options": [],
+  "summary": "You and your allies gain a +1 insight bonus against all mind-altering effects, enchantment (charm) effects, enchantment (compulsion) effects, and Mind sphere…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totem-of-mobility-totem",
+  "name": "Totem Of Mobility",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#totem-of-mobility-totem",
+  "options": [],
+  "summary": "You must spend a spell point to create a totem of mobility.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totem-of-screaming-skin-totem",
+  "name": "Totem Of Screaming Skin",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#totem-of-screaming-skin-totem",
+  "options": [],
+  "summary": "Whenever their skin is even slightly broken, a wound rips open in the shape of a mouth and screams, making even the smallest injuries horrific.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totem-of-shared-sight-totem",
+  "name": "Totem Of Shared Sight",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#totem-of-shared-sight-totem",
+  "options": [],
+  "summary": "You and your allies can share perception, seeing through each other’s eyes and hearing through each other’s ears.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totem-of-speed-totem",
+  "name": "Totem Of Speed",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#totem-of-speed-totem",
+  "options": [],
+  "summary": "You and your allies gain a +5 bonus to all movement speeds, + 5-foot per 5 caster levels.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totem-of-stability-totem",
+  "name": "Totem Of Stability",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#totem-of-stability-totem",
+  "options": [],
+  "summary": "You and your allies gain a +2 bonus to CMD.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totem-of-stumbling-totem",
+  "name": "Totem Of Stumbling",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#totem-of-stumbling-totem",
+  "options": [],
+  "summary": "All enemies suffer a -2 penalty to their CMD.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totem-of-tactical-coordination-totem",
+  "name": "Totem Of Tactical Coordination",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#totem-of-tactical-coordination-totem",
+  "options": [],
+  "summary": "Allies within this totem do not take hit point damage from attacks, spells, or abilities of other allies within this totem, and may choose to automatically…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totem-of-tactical-prowess-totem",
+  "name": "Totem Of Tactical Prowess",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#totem-of-tactical-prowess-totem",
+  "options": [],
+  "summary": "Whenever you or your allies would gain a bonus to attack rolls or to AC due to battlefield positioning, such as flanking, higher ground, or cover, that bonus…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totem-of-the-dragonslayer-totem",
+  "name": "Totem Of The Dragonslayer",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#totem-of-the-dragonslayer-totem",
+  "options": [],
+  "summary": "You and your allies gain a +1 competence bonus to Reflex saves vs.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totem-of-the-heroic-heart-totem",
+  "name": "Totem Of The Heroic Heart",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#totem-of-the-heroic-heart-totem",
+  "options": [],
+  "summary": "Allies gain a +4 competence bonus to ability and skill checks using Strength, Constitution, or Dexterity.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totem-of-the-war-dance-totem",
+  "name": "Totem Of The War Dance",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#totem-of-the-war-dance-totem",
+  "options": [],
+  "summary": "You must spend a spell point to create a totem of the war dance.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totem-of-whispers-totem",
+  "name": "Totem Of Whispers",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#totem-of-whispers-totem",
+  "options": [],
+  "summary": "Enemies take a -1 penalty to their concentration checks and Perception checks involving listening.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/what-is-it-good-for-totem",
+  "name": "What Is It Good For?",
+  "kind": "talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Totem Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#what-is-it-good-for-totem",
+  "options": [],
+  "summary": "You create a totem that amplifies the futility of war.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/carry-the-flag",
+  "name": "Carry The Flag",
+  "kind": "advanced talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Advanced War Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#carry-the-flag",
+  "options": [],
+  "summary": "If you are the commander of a ship or similar large vessel weighing at least 2,000 pounds, you may create a totem attached to the vessel itself.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/commander-utility",
+  "name": "Commander",
+  "kind": "advanced talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Advanced War Talents",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#commander-utility",
+  "options": [],
+  "summary": "If you are the commander of an army, that army gains a +1 bonus to its Offensive Modifier, Defensive Value, and to all morale checks.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/monument",
+  "name": "Monument",
+  "kind": "advanced talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Advanced War Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#monument",
+  "options": [],
+  "summary": "Prerequisites: War sphere, caster level 10th.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/penetrating-totems",
+  "name": "Penetrating Totems",
+  "kind": "advanced talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Advanced War Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#penetrating-totems",
+  "options": [],
+  "summary": "Prerequisites: War sphere, caster level 5th.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totem-of-tenuous-mortality-totem",
+  "name": "Totem Of Tenuous Mortality",
+  "kind": "advanced talent",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Advanced War Talents",
+  "tags": [
+   "totem"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#totem-of-tenuous-mortality-totem",
+  "options": [],
+  "summary": "Whenever an enemy within this totem’s area would be reduced to 0 hit points or fewer, they must succeed at a Fortitude saving throw or instantly die.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/asymmetrical-warfare-dual-sphere",
+  "name": "Asymmetrical Warfare",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#asymmetrical-warfare-dual-sphere",
+  "options": [],
+  "summary": "You may use your rally abilities on those under the effects of your glamers or in the areas of your figment as if they can see and hear you and are within the…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/area-bypass",
+  "name": "Area Bypass",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#area-bypass",
+  "options": [],
+  "summary": "Prerequisites: Divination Sphere, War Sphere (any momentum talent) Benefits: Whenever an ally moves through the area of effect of a sphere effect you have…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/dark-monuments-dual-sphere",
+  "name": "Dark Monuments",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#dark-monuments-dual-sphere",
+  "options": [],
+  "summary": "You gain the following abilities based on the Dark sphere and War sphere talents you possess: - Black Totem: Totems you create are treated as a gloom you…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/deduction",
+  "name": "Deduction",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#deduction",
+  "options": [],
+  "summary": "Whenever you create a mandate that you share with another ally, they benefit from your studied combat ability, receiving the same bonuses you do against the…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/defensive-vigilance-dual-sphere",
+  "name": "Defensive Vigilance",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#defensive-vigilance-dual-sphere",
+  "options": [],
+  "summary": "While an ally is within the area of one of your wards, you may rally that ally.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/enhanced-vigilance-dual-sphere",
+  "name": "Enhanced Vigilance",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#enhanced-vigilance-dual-sphere",
+  "options": [],
+  "summary": "While an ally is under the effect of one of your enhancements, you may rally that ally.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/expanding-presence",
+  "name": "Expanding Presence",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#expanding-presence",
+  "options": [],
+  "summary": "Prerequisites: War sphere (Totemic Aura); antipaladin or paladin.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/eyes-of-battle-dual-sphere",
+  "name": "Eyes Of Battle",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#eyes-of-battle-dual-sphere",
+  "options": [],
+  "summary": "Prerequisites: Divination sphere, War sphere Benefit: Whenever you would use a (divine) talent that targets a space or creature within the area of one of your…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/hail",
+  "name": "Hail",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#hail",
+  "options": [],
+  "summary": "You may spend a spell point to rally an ally who has the ability to gain martial focus to restore their martial focus.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/illuminated-vigilance-dual-sphere",
+  "name": "Illuminated Vigilance",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#illuminated-vigilance-dual-sphere",
+  "options": [],
+  "summary": "While an ally is within 30 feet of any object that you have caused to glow, you may rally them.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/invigorating-rally-dual-sphere",
+  "name": "Invigorating Rally",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#invigorating-rally-dual-sphere",
+  "options": [],
+  "summary": "Whenever you rally an ally, you may also invigorate them.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/martial-presence-combat",
+  "name": "Martial Presence",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#martial-presence-combat",
+  "options": [],
+  "summary": "Prerequisites: Combat Stamina, base attack bonus +1.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/martial-totem-combat",
+  "name": "Martial Totem",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#martial-totem-combat",
+  "options": [],
+  "summary": "Prerequisites: War sphere, base attack bonus +1.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/mystical-reinforcement",
+  "name": "Mystical Reinforcement",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#mystical-reinforcement",
+  "options": [],
+  "summary": "You may use your circle casting to aid other spellcasters within totems you control or whom you share a mandate with as if they had the Circle Casting feat.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/reflexive-magic",
+  "name": "Reflexive Magic",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#reflexive-magic",
+  "options": [],
+  "summary": "Prerequisites: War sphere, base attack bonus +11.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/sanctified-vigilance-dual-sphere",
+  "name": "Sanctified Vigilance",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#sanctified-vigilance-dual-sphere",
+  "options": [],
+  "summary": "You may use rallies on allies within the area of your consecrations even if you do not share a mandate with them and they are not within range of one of your…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/savagery",
+  "name": "Savagery",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#savagery",
+  "options": [],
+  "summary": "Whenever you create a mandate that you share with another ally, they benefit from any animal focuses you have active.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/shoulder-to-shoulder",
+  "name": "Shoulder To Shoulder",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#shoulder-to-shoulder",
+  "options": [],
+  "summary": "When you gain this feat, choose a mandate from the War sphere.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/spirit-beacon",
+  "name": "Spirit Beacon",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#spirit-beacon",
+  "options": [],
+  "summary": "When you create a totem, you may make it manifest as a glowing pillar of ethereal light that extends upward for hundreds of feet (though not through ceilings).",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/succor",
+  "name": "Succor",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#succor",
+  "options": [],
+  "summary": "You may spend a spell point to rally an ally, and use your lay on hands class feature on them.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/tides-of-war-dual-sphere",
+  "name": "Tides Of War",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#tides-of-war-dual-sphere",
+  "options": [],
+  "summary": "You may create a manabond as part of using a rally with the target of your rally, or as part of creating a mandate on one or both creatures.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totem-of-undoing",
+  "name": "Totem Of Undoing",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#totem-of-undoing",
+  "options": [],
+  "summary": "Faded creatures suffer a penalty equal to your caster level to their Strength score (to a minimum Strength of 1) when determining their CMB, CMD, as well as…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totem-tactics-combat",
+  "name": "Totem Tactics",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#totem-tactics-combat",
+  "options": [],
+  "summary": "Allies inside any of your totems or sharing a mandate with you are treated as if they possessed the same teamwork feats as you for the purpose of determining…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totemic-channeling-channeling",
+  "name": "Totemic Channeling",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Channeling"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#totemic-channeling-channeling",
+  "options": [],
+  "summary": "When you use your channel energy feature, instead of affecting everyone in a specific radius, you may spend a spell point to have it affect all allies or all…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totemic-radar-dual-sphere",
+  "name": "Totemic Radar",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#totemic-radar-dual-sphere",
+  "options": [],
+  "summary": "When you close your eyes to use Blindfolded Oracle while within the area of your totem, you may choose to have your blindsense extend to the entire area of the…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/totemic-stamina-combat",
+  "name": "Totemic Stamina",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#totemic-stamina-combat",
+  "options": [],
+  "summary": "When you create a totem or mandate, you may spend a stamina point each round to maintain it as a free action.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/tribal-fortification-dual-sphere",
+  "name": "Tribal Fortification",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#tribal-fortification-dual-sphere",
+  "options": [],
+  "summary": "When you create a ward, you may spend a spell point to add the effects of a totem ability you have to it.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/tribal-mark-dual-sphere",
+  "name": "Tribal Mark",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#tribal-mark-dual-sphere",
+  "options": [],
+  "summary": "You may create enhancements that duplicate the effect of being within totems.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/tribal-rhythm",
+  "name": "Tribal Rhythm",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#tribal-rhythm",
+  "options": [],
+  "summary": "In the case of a raging song, the ally need only have the choice to be affected; they do not need to choose to be affected in order for the caster to be able…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/warlord-of-the-damned-dual-sphere",
+  "name": "Warlord Of The Damned",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#warlord-of-the-damned-dual-sphere",
+  "options": [],
+  "summary": "You can rally the hearts of your people - even after they have stopped beating.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/warning-sign-dual-sphere",
+  "name": "Warning Sign",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#warning-sign-dual-sphere",
+  "options": [],
+  "summary": "Allies receive a +1 circumstance bonus to initiative per aegis they bear that you created.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/witch-hunt",
+  "name": "Witch Hunt",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Feats#witch-hunt",
+  "options": [],
+  "summary": "Whenever you create a mandate that you share with another ally, they benefit from judgments you have active.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/battlefield-tactics-squadron",
+  "name": "Battlefield Tactics",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Squadron Feats",
+  "tags": [
+   "Squadron"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#battlefield-tactics-squadron",
+  "options": [],
+  "summary": "You may give your actions to members of your squadron.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/close-formation-squadron",
+  "name": "Close Formation",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Squadron Feats",
+  "tags": [
+   "Squadron"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#close-formation-squadron",
+  "options": [],
+  "summary": "When members of your squadron use the aid another action on other squadron members, they grant their ally an additional +2 bonus.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/focused-fire-tactics-squadron",
+  "name": "Focused Fire Tactics",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Squadron Feats",
+  "tags": [
+   "Squadron"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#focused-fire-tactics-squadron",
+  "options": [],
+  "summary": "As a swift action, you may spend a spell point or expend your martial focus and designate a target.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/hive-mind-squadron",
+  "name": "Hive Mind",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Squadron Feats",
+  "tags": [
+   "Squadron"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#hive-mind-squadron",
+  "options": [],
+  "summary": "You gain the ability to communicate telepathically with all members of your squadron regardless of range, allowing you to send messages and for them to send…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/instructive-command-squadron",
+  "name": "Instructive Command",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Squadron Feats",
+  "tags": [
+   "Squadron"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#instructive-command-squadron",
+  "options": [],
+  "summary": "Choose a skill you are trained in.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/lightning-tactics-squadron",
+  "name": "Lightning Tactics",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Squadron Feats",
+  "tags": [
+   "Squadron"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#lightning-tactics-squadron",
+  "options": [],
+  "summary": "After you roll initiative, you may spend a spell point or expend your martial focus.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/mass-command-squadron",
+  "name": "Mass Command",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Squadron Feats",
+  "tags": [
+   "Squadron"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#mass-command-squadron",
+  "options": [],
+  "summary": "When using a sphere ability on a single creature in your squadron other than yourself, you may spend an additional spell point to target any number of…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/mixed-formation-squadron",
+  "name": "Mixed Formation",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Squadron Feats",
+  "tags": [
+   "Squadron"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#mixed-formation-squadron",
+  "options": [],
+  "summary": "Prerequisites: War sphere, Squadron Commander; or Warleader sphere, Troop Commander.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/mobile-tactics-squadron",
+  "name": "Mobile Tactics",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Squadron Feats",
+  "tags": [
+   "Squadron"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#mobile-tactics-squadron",
+  "options": [],
+  "summary": "Prerequisites: War sphere, Squadron Commander; or Warleader sphere, Troop Commander.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/phalanx-formation-squadron",
+  "name": "Phalanx Formation",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Squadron Feats",
+  "tags": [
+   "Squadron"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#phalanx-formation-squadron",
+  "options": [],
+  "summary": "While a member of your squadron is adjacent to another member of your squadron, they receive a +2 circumstance bonus to AC and melee attack rolls.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/pincer-formation-squadron",
+  "name": "Pincer Formation",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Squadron Feats",
+  "tags": [
+   "Squadron"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#pincer-formation-squadron",
+  "options": [],
+  "summary": "When two or more members of your squadron flank an enemy, their flanking bonus applies to damage rolls as well as attack rolls.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/platoon-commander-squadron",
+  "name": "Platoon Commander",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Squadron Feats",
+  "tags": [
+   "Squadron"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#platoon-commander-squadron",
+  "options": [],
+  "summary": "You may add troop or crew creatures to your squadron, with each counting as 4 creatures.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/ranged-command-squadron",
+  "name": "Ranged Command",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Squadron Feats",
+  "tags": [
+   "Squadron"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#ranged-command-squadron",
+  "options": [],
+  "summary": "You may choose to have your sphere talents or abilities which target a willing creature have a range of close rather than touch when targeting members of your…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/requested-command-squadron",
+  "name": "Requested Command",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Squadron Feats",
+  "tags": [
+   "Squadron"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#requested-command-squadron",
+  "options": [],
+  "summary": "You may immediately respond by using a sphere ability that targets them (and only them, not an area around them) as a free action.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/scouting-tactics-squadron",
+  "name": "Scouting Tactics",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Squadron Feats",
+  "tags": [
+   "Squadron"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#scouting-tactics-squadron",
+  "options": [],
+  "summary": "As a swift action, you may spend a spell point or expend your martial focus to mentally communicate with the rest of your squadron the location of an enemy you…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/shielded-formation-squadron",
+  "name": "Shielded Formation",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Squadron Feats",
+  "tags": [
+   "Squadron"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#shielded-formation-squadron",
+  "options": [],
+  "summary": "Whenever a member of your squadron leaves a square adjacent to another member of your squadron, they do not provoke attacks of opportunity from adjacent…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/squad-triangulation-squadron",
+  "name": "Squad Triangulation",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Squadron Feats",
+  "tags": [
+   "Squadron"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#squad-triangulation-squadron",
+  "options": [],
+  "summary": "In addition, you are treated as having line of sight on all members of your squadron at all times but increase the action necessary to affect creatures you…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/squadron-commander-squadron",
+  "name": "Squadron Commander",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Squadron Feats",
+  "tags": [
+   "Squadron"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#squadron-commander-squadron",
+  "options": [],
+  "summary": "You can change the membership any time you rest and regain spell points, but you must touch a creature to add it to your squadron.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/squadron-network-squadron",
+  "name": "Squadron Network",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Squadron Feats",
+  "tags": [
+   "Squadron"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#squadron-network-squadron",
+  "options": [],
+  "summary": "If a creature is a member of the squadron of one of your squadron members, you may treat that creature as a member of your squadron.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/vigilant-command-squadron",
+  "name": "Vigilant Command",
+  "kind": "feat",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Squadron Feats",
+  "tags": [
+   "Squadron"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War#vigilant-command-squadron",
+  "options": [],
+  "summary": "You may rally any ally in your squadron within long range or that you can see, even if they are not within range of a totem, and you can always rally yourself.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/alternate-rally",
+  "name": "Alternate Rally",
+  "kind": "drawback",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Drawbacks#alternate-rally",
+  "options": [],
+  "summary": "You must choose a (rally) talent with the bonus talent gained from this drawback.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/alternate-totem",
+  "name": "Alternate Totem",
+  "kind": "drawback",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Drawbacks#alternate-totem",
+  "options": [],
+  "summary": "You must choose a (totem) talent with the bonus talent gained from this drawback.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/battle-manipulation",
+  "name": "Battle Manipulation",
+  "kind": "drawback",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Drawbacks#battle-manipulation",
+  "options": [],
+  "summary": "You must select Eternal Vigilance with the bonus talent gained through this drawback, unless you also possess Solo Combatant, in which case any War talent you…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/commando",
+  "name": "Commando",
+  "kind": "drawback",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Drawbacks#commando",
+  "options": [],
+  "summary": "You must select a (mandate) talent or a (momentum) talent with the bonus talent gained through this drawback.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/manifest-totem",
+  "name": "Manifest Totem",
+  "kind": "drawback",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Drawbacks#manifest-totem",
+  "options": [],
+  "summary": "You must select a (totem) talent as the talent gained from this drawback.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/personal-conflict",
+  "name": "Personal Conflict",
+  "kind": "drawback",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Drawbacks#personal-conflict",
+  "options": [],
+  "summary": "You can only create totems attached to creatures.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/small-unit-strategist",
+  "name": "Small Unit Strategist",
+  "kind": "drawback",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Drawbacks#small-unit-strategist",
+  "options": [],
+  "summary": "You must select a (mandate) talent or a (momentum) talent with the bonus talent gained through this drawback.",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/solo-combatant",
+  "name": "Solo Combatant",
+  "kind": "drawback",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Drawbacks#solo-combatant",
+  "options": [],
+  "summary": "You must select Eternal Vigilance with the bonus talent gained through this drawback, unless you also possess Battle Manipulation, in which case any War talent…",
+  "file": "war.json",
+  "approved": false
+ },
+ {
+  "id": "war/squadron-elite",
+  "name": "Squadron Elite",
+  "kind": "drawback",
+  "sphere": "War",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/War/War-Sphere-Drawbacks#squadron-elite",
+  "options": [],
+  "summary": "When you take this drawback, you do not gain a bonus talent.",
+  "file": "war.json",
   "approved": false
  },
  {
