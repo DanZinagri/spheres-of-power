@@ -4564,6 +4564,36 @@ def _ct_resolve(name: str, known: list[str]) -> str | None:
     return hits[0] if len(hits) == 1 else None
 
 
+# Sample traditions' sphere-specific drawbacks that are no longer drawbacks (older Dark / Enhancement /
+# Weather versions; see the Archive): (tradition, name) -> (current drawback, its option) or None to drop
+CT_SPHERE_DRAWBACK_FIXES = {
+    # "You cannot create darkness" (retired Ultimate Dark sphere): Darkness Speciality, losing gloom
+    ("Chi Tracer", "Meld Into Dark"): ("Darkness Speciality", "gloom"),
+    ("Monastic", "Meld Into Dark"): ("Darkness Speciality", "gloom"),
+    # paired with Shadowed Brew, which now stands alone
+    ("Alchemist", "Meld Into Dark"): None,
+    # original Enhancement drawback (one category of creatures) with no current equivalent
+    ("Nomad Shamans", "Restricted Enhancement"): None,
+    # the original Focused Weather drawback (one weather category) is today's Limited Weather
+    ("Water-Magi", "Focused Weather"): ("Limited Weather", "Precipitation"),
+}
+
+
+def _ct_fix_sphere_drawbacks(tradition: str, items: list[dict]) -> tuple[list[dict], list[str]]:
+    """Apply CT_SPHERE_DRAWBACK_FIXES; returns the drawbacks and a note per change."""
+    out, notes = [], []
+    for x in items:
+        fix = CT_SPHERE_DRAWBACK_FIXES.get((tradition, x["name"]), ...)
+        if fix is ...:
+            out.append(x)
+        elif fix is None:
+            notes.append(f"{x['name']} is an older {x['sphere']} drawback that no longer exists; left out")
+        else:
+            out.append({**x, "name": fix[0], "detail": fix[1], "missing": False, "replaces": x["name"]})
+            notes.append(f"{x['name']} is an older {x['sphere']} drawback; {fix[0]} ({fix[1]}) replaces it")
+    return out, notes
+
+
 def _ct_sphere_drawbacks(text: str) -> list[dict]:
     """A sample tradition's sphere-specific drawbacks: "Meld Into Dark and Shadowed Brew (Dark), Shape Focus
     (Energy Bomb) (Destruction), Limited Nature x2" -> [{name, sphere, detail, count}], names as the
@@ -4680,7 +4710,8 @@ def build_casting_traditions() -> int:
                         tpl["notes"].append(f"Drawback not on the list: {part}")
                 if specific.strip():
                     tpl["notes"].append(f"Sphere-specific drawbacks: {specific.strip(' .')}")
-                    tpl["sphereDrawbacks"] = _ct_sphere_drawbacks(specific)
+                    tpl["sphereDrawbacks"], fixes = _ct_fix_sphere_drawbacks(e["name"], _ct_sphere_drawbacks(specific))
+                    tpl["notes"] += fixes
             if (m := re.search(r"^Boons?:\s*(.+)$", t, re.M)):
                 for part in re.split(r",\s*(?![^()]*\))", m.group(1)):
                     part = part.strip(" .")

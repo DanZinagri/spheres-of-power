@@ -699,7 +699,8 @@
    "boons": [],
    "feats": [],
    "notes": [
-    "Sphere-specific drawbacks: Transformative Brew (Alteration), Humors (Blood), Meld Into Dark and Shadowed Brew (Dark), Necromantic Concoction (Death), Shape Focus (Energy Bomb) (Destruction), Divining Concoction (Divination), Special Delivery (Enhancement), Cursed Brew and Tongue Of Ages (Fate), Glamered Brew and Obscura Mage (Illusion), Medicinal (Life), Glowing Brew (Light), Addling Brew (Mind), Holistic Brew and Limited Nature x2 (Nature), Limited Protection (aegis) and Protective Brew (Protection), Temporal Brew (Time), Warping Brew (Warp), Atmospheric Brew and Localized Weather (Weather)"
+    "Sphere-specific drawbacks: Transformative Brew (Alteration), Humors (Blood), Meld Into Dark and Shadowed Brew (Dark), Necromantic Concoction (Death), Shape Focus (Energy Bomb) (Destruction), Divining Concoction (Divination), Special Delivery (Enhancement), Cursed Brew and Tongue Of Ages (Fate), Glamered Brew and Obscura Mage (Illusion), Medicinal (Life), Glowing Brew (Light), Addling Brew (Mind), Holistic Brew and Limited Nature x2 (Nature), Limited Protection (aegis) and Protective Brew (Protection), Temporal Brew (Time), Warping Brew (Warp), Atmospheric Brew and Localized Weather (Weather)",
+    "Meld Into Dark is an older Dark drawback that no longer exists; left out"
    ],
    "ability": "Intelligence",
    "sphereDrawbacks": [
@@ -714,13 +715,6 @@
      "sphere": "Blood",
      "detail": "",
      "count": 1
-    },
-    {
-     "name": "Meld Into Dark",
-     "sphere": "Dark",
-     "detail": "",
-     "count": 1,
-     "missing": true
     },
     {
      "name": "Shadowed Brew",
@@ -1871,7 +1865,8 @@
    ],
    "feats": [],
    "notes": [
-    "Sphere-specific drawbacks: Lycanthropic (Alteration), Meld Into Dark (Dark), Deathful Touch (Death), Destructive Touch (Destruction), Bodily Enhancement and Personal Magics (Enhancement), Personal Fate (Fate), Personal Illusion (Illusion), Touch Of Light (Light), Regenerate (Life), Tactile Charm (Mind), Limited Nature x2, Limited Protection (ward), Personal Time (Time), Solo Combatant (War), Personal Warp (Warp)"
+    "Sphere-specific drawbacks: Lycanthropic (Alteration), Meld Into Dark (Dark), Deathful Touch (Death), Destructive Touch (Destruction), Bodily Enhancement and Personal Magics (Enhancement), Personal Fate (Fate), Personal Illusion (Illusion), Touch Of Light (Light), Regenerate (Life), Tactile Charm (Mind), Limited Nature x2, Limited Protection (ward), Personal Time (Time), Solo Combatant (War), Personal Warp (Warp)",
+    "Meld Into Dark is an older Dark drawback; Darkness Speciality (gloom) replaces it"
    ],
    "ability": "Wisdom",
    "sphereDrawbacks": [
@@ -1882,11 +1877,12 @@
      "count": 1
     },
     {
-     "name": "Meld Into Dark",
+     "name": "Darkness Speciality",
      "sphere": "Dark",
-     "detail": "",
+     "detail": "gloom",
      "count": 1,
-     "missing": true
+     "missing": false,
+     "replaces": "Meld Into Dark"
     },
     {
      "name": "Deathful Touch",
@@ -2681,7 +2677,8 @@
    ],
    "feats": [],
    "notes": [
-    "Sphere-specific drawbacks: Lycanthropic (Alteration), Meld Into Dark (Dark), Deathful Touch (Death), Destructive Touch (Destruction), Bodily Enhancement and Personal Magics (Enhancement), Personal Fate (Fate), Personal Illusion (Illusion), Touch Of Light (Light), Regenerate (Life), Limited Nature x2, Protected Soul (Protection), Personal Time (Time), Solo Combatant (War), Personal Warp (Warp)"
+    "Sphere-specific drawbacks: Lycanthropic (Alteration), Meld Into Dark (Dark), Deathful Touch (Death), Destructive Touch (Destruction), Bodily Enhancement and Personal Magics (Enhancement), Personal Fate (Fate), Personal Illusion (Illusion), Touch Of Light (Light), Regenerate (Life), Limited Nature x2, Protected Soul (Protection), Personal Time (Time), Solo Combatant (War), Personal Warp (Warp)",
+    "Meld Into Dark is an older Dark drawback; Darkness Speciality (gloom) replaces it"
    ],
    "ability": "Wisdom",
    "sphereDrawbacks": [
@@ -2692,11 +2689,12 @@
      "count": 1
     },
     {
-     "name": "Meld Into Dark",
+     "name": "Darkness Speciality",
      "sphere": "Dark",
-     "detail": "",
+     "detail": "gloom",
      "count": 1,
-     "missing": true
+     "missing": false,
+     "replaces": "Meld Into Dark"
     },
     {
      "name": "Deathful Touch",
@@ -2873,7 +2871,8 @@
    ],
    "feats": [],
    "notes": [
-    "Sphere-specific drawbacks: Bodily Enhancement and Restricted Enhancement (tribe members) (Enhancement), Limited Nature x2"
+    "Sphere-specific drawbacks: Bodily Enhancement and Restricted Enhancement (tribe members) (Enhancement), Limited Nature x2",
+    "Restricted Enhancement is an older Enhancement drawback that no longer exists; left out"
    ],
    "ability": "Charisma",
    "sphereDrawbacks": [
@@ -2882,13 +2881,6 @@
      "sphere": "Enhancement",
      "detail": "",
      "count": 1
-    },
-    {
-     "name": "Restricted Enhancement",
-     "sphere": "Enhancement",
-     "detail": "tribe members",
-     "count": 1,
-     "missing": true
     },
     {
      "name": "Limited Nature",
@@ -3373,7 +3365,8 @@
    ],
    "feats": [],
    "notes": [
-    "Sphere-specific drawbacks: Water Wizard (Creation), Energy Focus (cold) (Destruction), Limited Telekinesis (requires water) (Telekinesis), Focused Weather (Precipitation) (Weather)"
+    "Sphere-specific drawbacks: Water Wizard (Creation), Energy Focus (cold) (Destruction), Limited Telekinesis (requires water) (Telekinesis), Focused Weather (Precipitation) (Weather)",
+    "Focused Weather is an older Weather drawback; Limited Weather (Precipitation) replaces it"
    ],
    "ability": "Wisdom",
    "sphereDrawbacks": [
@@ -3396,11 +3389,12 @@
      "count": 1
     },
     {
-     "name": "Focused Weather",
+     "name": "Limited Weather",
      "sphere": "Weather",
      "detail": "Precipitation",
      "count": 1,
-     "missing": true
+     "missing": false,
+     "replaces": "Focused Weather"
     }
    ]
   },
