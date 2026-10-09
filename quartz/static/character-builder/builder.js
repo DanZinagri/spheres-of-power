@@ -45,6 +45,10 @@ const SCHOOLS = { abj: "Abjuration", con: "Conjuration", div: "Divination", enc:
 const MAGIC_SPHERES = ["alteration", "bear", "blood", "conjuration", "creation", "dark", "death", "destruction", "divination", "enhancement", "fallenFey", "fate", "illusion", "life", "light", "mana", "mind", "nature", "protection", "telekinesis", "time", "war", "warp", "weather"]
 const COMBAT_SPHERES = ["alchemy", "athletics", "barrage", "barroom", "beastmastery", "berserker", "boxing", "brute", "dualWielding", "duelist", "equipment", "fencing", "gladiator", "guardian", "lancer", "leadership", "openHand", "scoundrel", "scout", "shield", "sniper", "trap", "warleader", "wrestling"]
 const SKILL_SPHERES = ["artifice", "bluster", "bodyControl", "communication", "faction", "herbalism", "infiltration", "investigation", "navigation", "performance", "spellhacking", "study", "subterfuge", "survivalism", "vocation"]
+// spheres listed by system (Power, Might, Guile), then by name; talents with no sphere last
+const SPHERE_SYSTEMS = [["magic", "Spheres of Power"], ["combat", "Spheres of Might"], ["skill", "Spheres of Guile"], [null, "Other"]]
+const sphereSystem = (key) => (key ? SPHERE_SYSTEMS.findIndex(([k]) => k === sphereKind(key)) : SPHERE_SYSTEMS.length)
+const sphereOrder = (x, y) => sphereSystem(x) - sphereSystem(y) || (x === "" ? 1 : y === "" ? -1 : label(x).localeCompare(label(y)))
 const sphereKind = (key) => (MAGIC_SPHERES.includes(key) ? "magic" : COMBAT_SPHERES.includes(key) ? "combat" : SKILL_SPHERES.includes(key) ? "skill" : null)
 const GEAR_KINDS = { weapon: "Weapon", ammo: "Ammunition", armor: "Armor", shield: "Shield", equipment: "Wondrous / worn", consumable: "Consumable", loot: "Gear / loot" }
 const ARMOR_TYPES = { lightArmor: "Light", mediumArmor: "Medium", heavyArmor: "Heavy" }
@@ -1036,7 +1040,7 @@ const panels = {
     const attr = (label, value) => h("div", { class: "stat" }, h("b", {}, value), h("span", {}, label))
     const bySphere = {}
     state.talents.forEach((t, i) => (bySphere[t.sphere || ""] ??= []).push(i))
-    const order = Object.keys(bySphere).sort((x, y) => (x === "" ? 1 : y === "" ? -1 : label(x).localeCompare(label(y))))
+    const order = Object.keys(bySphere).sort(sphereOrder)
     const collapsed = collapsedSpheres()
 
     const talentRow = (i) => {
@@ -1118,7 +1122,14 @@ const panels = {
         h("div", { class: "spacer" }),
         order.length ? h("button", { class: "small ghost", onclick: () => { order.forEach((k) => setCollapsed(k, true)); renderPanel() } }, "Collapse all") : null,
         order.length ? h("button", { class: "small ghost", onclick: () => { order.forEach((k) => setCollapsed(k, false)); renderPanel() } }, "Expand all") : null),
-      blocks.length ? h("div", { class: "picked-list" }, blocks) : h("p", { class: "muted" }, "No talents yet. Pick a sphere below to start."),
+      blocks.length
+        ? h("div", { class: "picked-list" }, ...order.flatMap((key, n) => {
+          // a heading where a new system starts (Spheres of Power, of Might, of Guile)
+          const sys = Math.min(sphereSystem(key), SPHERE_SYSTEMS.length - 1)
+          const first = n === 0 || Math.min(sphereSystem(order[n - 1]), SPHERE_SYSTEMS.length - 1) !== sys
+          return [first ? h("div", { class: "group-title" }, SPHERE_SYSTEMS[sys][1]) : null, blocks[n]]
+        }))
+        : h("p", { class: "muted" }, "No talents yet. Pick a sphere below to start."),
       h("div", { class: "row", style: "margin-top:.75rem" },
         adder,
         h("button", { onclick: () => adder.value && openSphereAdder(adder.value) }, "+ Add sphere"),

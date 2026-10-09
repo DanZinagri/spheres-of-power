@@ -377,7 +377,7 @@ async function buildSheetPdf() {
     section("Sphere talents")
     const groups = {}
     for (const t of s.talents) (groups[t.sphere || ""] ??= []).push(t)
-    for (const key of Object.keys(groups).sort((a, b) => (a === "" ? 1 : b === "" ? -1 : label(a).localeCompare(label(b))))) {
+    for (const key of Object.keys(groups).sort(sphereOrder)) {
       const kind = sphereKind(key)
       fRoom(30)
       const head = key ? `${label(key)} sphere` : "Other talents"
