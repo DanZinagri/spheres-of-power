@@ -2699,7 +2699,7 @@ COMPENDIUM = {
     },
     "Life": {
         "system": "Spheres of Power",
-        "approved": False,
+        "approved": True,
         "pages": [
             ("Life", "## Cure", "sphere ability", 2, 4),
             ("Life", "Invigorate", "sphere ability", 2, 4),
@@ -2713,6 +2713,24 @@ COMPENDIUM = {
         ],
         # the (cure) / (vitality) talent type notes under Restore
         "not_options": r"^Table|^Note|^Cure$|^Vitality$",
+    },
+    "Light": {
+        "system": "Spheres of Power",
+        "approved": False,
+        "pages": [
+            # Glow (with Bright Light) and Lens (with Telescope)
+            ("Light", "Glow", "sphere ability", 2, 4),
+            ("Light", "Lens", "sphere ability", 2, 4),
+            ("Light", "Light Sphere Talents", "talent", 4),
+            ("Light", "Lens Talents", "talent", 4),
+            ("Light", "## Light Talents", "talent", 4),
+            ("Light", "Nimbus Talents", "talent", 4),
+            ("Light", "Advanced Light Talents", "advanced talent", 4),
+            ("Light Sphere Feats", "(page)", "feat", 4),
+            ("Light Sphere Drawbacks", "(page)", "drawback", 4),
+        ],
+        # the (light) / (nimbus) talent type notes under Lens
+        "not_options": r"^Table|^Note|^Light$|^Nimbus$",
     },
     "Warleader": {
         "system": "Spheres of Might",

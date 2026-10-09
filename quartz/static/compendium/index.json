@@ -23195,7 +23195,7 @@
   "options": [],
   "summary": "As a standard action, you may spend a spell point to touch a target and heal it an amount of damage equal to 1d8 + your caster level.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/invigorate",
@@ -23212,7 +23212,7 @@
   "options": [],
   "summary": "As a standard action, you may invigorate a touched creature, granting them temporary hit points equal to your caster level (minimum 1).",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/restore",
@@ -23229,7 +23229,7 @@
   "options": [],
   "summary": "As a standard action, you may touch a target and spend a spell point to restore their health (Will negates (harmless)).",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/adrenaline-surge",
@@ -23246,7 +23246,7 @@
   "options": [],
   "summary": "When you use a Life sphere talent or ability on an ally other than yourself, you may spend one spell point to also give them an adrenaline surge.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/affliction",
@@ -23263,7 +23263,7 @@
   "options": [],
   "summary": "When using cure you may invert the effect from positive energy to negative energy.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/break-enchantment",
@@ -23280,7 +23280,7 @@
   "options": [],
   "summary": "As a special application of restore, you may spend an additional spell point to remove all magic from the target that has a duration instead of restoring mind,…",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/clarified-strike-strike",
@@ -23299,7 +23299,7 @@
   "options": [],
   "summary": "As a standard action, you may make a single ranged or melee attack coupled with a Life sphere ability.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/deeper-healing",
@@ -23316,7 +23316,7 @@
   "options": [],
   "summary": "Your invigorate grants 2 temporary hit points per caster level instead of 1.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/diagnose-utility",
@@ -23335,7 +23335,7 @@
   "options": [],
   "summary": "As a swift action, you can learn any conditions that are affecting a living creature (unconscious, dying, nauseated, panicked, stunned, poisoned, diseased,…",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/empathic-healing",
@@ -23352,7 +23352,7 @@
   "options": [],
   "summary": "You may restore others by taking on their injuries yourself.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/esoteric-healing",
@@ -23369,7 +23369,7 @@
   "options": [],
   "summary": "When you use your Life sphere abilities, you may choose for them to not be positive energy effects.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/fount-of-life",
@@ -23386,7 +23386,7 @@
   "options": [],
   "summary": "You may store a cure within yourself, allowing you to access that healing as needed throughout the day.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/greater-invigorate",
@@ -23403,7 +23403,7 @@
   "options": [],
   "summary": "When placing an invigorate on a target, add your casting ability modifier to the amount of temporary hit points granted, and increase the duration to 1 hour…",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/greater-restore",
@@ -23420,7 +23420,7 @@
   "options": [],
   "summary": "When using your restore ability, you may spend an additional spell point to select two options when using restore instead of one (such as restoring both mind…",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/instill-life-instill",
@@ -23439,7 +23439,7 @@
   "options": [],
   "summary": "As a standard action you may touch a small container of liquid and instill a cure, a restore, or an invigorate used in conjunction with the Greater Invigorate…",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/latent-healing",
@@ -23456,7 +23456,7 @@
   "options": [],
   "summary": "When you use cure or invigorate on a target, you may choose to delay its effects.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/lingering-resilience",
@@ -23473,7 +23473,7 @@
   "options": [],
   "summary": "Whenever you remove a condition completely from a creature using your restore ability, they are completely immune to that condition for 2 rounds.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/lingering-vitality",
@@ -23490,7 +23490,7 @@
   "options": [],
   "summary": "Whenever a creature benefiting from one of your (vitality) talents would lose its benefits due to taking damage from failing a saving throw or being hit with…",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/mass-healing-mass",
@@ -23509,7 +23509,7 @@
   "options": [],
   "summary": "When using a cure, invigorate, or restore, you may spend an additional spell point to affect an additional 1 creature per 2 caster levels (minimum 1) at the…",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/painkiller",
@@ -23526,7 +23526,7 @@
   "options": [],
   "summary": "Whenever you invigorate a target, they are also healed of an equal amount of nonlethal damage.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/ranged-healing-range",
@@ -23545,7 +23545,7 @@
   "options": [],
   "summary": "Your cure, invigorate, and restore abilities have a range of close rather than touch.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/restorative-cure",
@@ -23562,7 +23562,7 @@
   "options": [],
   "summary": "When using your cure or invigorate abilities on a target or targets, you may spend an additional spell point to restore them as well.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/resuscitate",
@@ -23579,7 +23579,7 @@
   "options": [],
   "summary": "Your cure and invigorate abilities function on creatures who have died within no more than 1 round.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/revitalize",
@@ -23596,7 +23596,7 @@
   "options": [],
   "summary": "You may choose for your cure to grant the target fast healing instead of directly healing damage.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/sanctify",
@@ -23613,7 +23613,7 @@
   "options": [],
   "summary": "As a special application of restore, you may cause a creature damaged by positive energy to suffer 1d2 temporary negative levels for one hour per caster level…",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/self-renewal",
@@ -23630,7 +23630,7 @@
   "options": [],
   "summary": "You may spend an additional spell point to use your cure or restore ability on yourself as a swift action.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/stabilizing-invigoration",
@@ -23647,7 +23647,7 @@
   "options": [],
   "summary": "In addition to its other effects, using invigorate immediately stabilizes a dying creature, and you may immediately attempt a Heal check as a free action to…",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/sudden-invigoration",
@@ -23664,7 +23664,7 @@
   "options": [],
   "summary": "By spending a spell point, you can use invigorate as an immediate action.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/taste-of-victory",
@@ -23681,7 +23681,7 @@
   "options": [],
   "summary": "Whenever you successfully hit a creature with at least half as many Hit Dice as your character level with an attack that requires an attack roll, you may spend…",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/violent-recuperation",
@@ -23698,7 +23698,7 @@
   "options": [],
   "summary": "Whenever you would have damage dealt to you that is completely negated through damage reduction, energy resistance, or energy immunity, you may use a Life…",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/restore-capacity-cure",
@@ -23717,7 +23717,7 @@
   "options": [],
   "summary": "As a special application of restore, you may restore a creature’s movement and physical capacity instead of restoring mind, body, or soul.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/restore-health-cure",
@@ -23736,7 +23736,7 @@
   "options": [],
   "summary": "When restoring a target’s body, the exhausted and nauseated conditions are completely removed rather than lessened, and you may attempt a magic skill check…",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/restore-senses-cure",
@@ -23755,7 +23755,7 @@
   "options": [],
   "summary": "If playing with the strain rules, this talent can restore 1d4 strain damage once per day (see 'Reducing Strain Damage').",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/restore-spirit-cure",
@@ -23774,7 +23774,7 @@
   "options": [],
   "summary": "Your cure ability heals an additional 1 hit point per caster level.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/aggressive-vitality-vitality",
@@ -23793,7 +23793,7 @@
   "options": [],
   "summary": "This grants the target a +2 circumstance bonus on attack and damage rolls with weapon attacks.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/calming-vitality-vitality",
@@ -23812,7 +23812,7 @@
   "options": [],
   "summary": "This grants the target a +4 morale bonus to concentration checks.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/energizing-vitality-vitality",
@@ -23831,7 +23831,7 @@
   "options": [],
   "summary": "Your Life magic makes your ally restless and full of energy, granting them a +30 feet circumstance bonus to all forms of movement.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/high-on-vitality-vitality",
@@ -23850,7 +23850,7 @@
   "options": [],
   "summary": "Your Life magic alleviates the target’s worries, making them feel lighter.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/securing-vitality-vitality",
@@ -23869,7 +23869,7 @@
   "options": [],
   "summary": "This grants the target a +2 circumstance bonus to CMB and CMD.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/sustaining-vitality-vitality",
@@ -23888,7 +23888,7 @@
   "options": [],
   "summary": "Your ally receives a +2 circumstance bonus to AC and saving throws.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/feline-good",
@@ -23905,7 +23905,7 @@
   "options": [],
   "summary": "If you spend an additional spell point, you may use this talent as an immediate action; however, the duration of a protective mark applied as part of a swift…",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/hypervitalize",
@@ -23922,7 +23922,7 @@
   "options": [],
   "summary": "When you use the Revitalize talent on a creature, you may spend 2 additional spell points to make the creature exceptionally vital on a cellular level for the…",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/make-whole",
@@ -23939,7 +23939,7 @@
   "options": [],
   "summary": "You may spend an additional spell point when restoring soul to remove one permanent negative level from the target in addition to the other effects.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/resurrection",
@@ -23956,7 +23956,7 @@
   "options": [],
   "summary": "You may spend 3 spell points and 1 minute to bring a dead target back to life.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/resurrection-greater",
@@ -23973,7 +23973,7 @@
   "options": [],
   "summary": "When you bring a target back to life with your Resurrection talent, they only suffer 1 permanent negative level, they may have been dead for up to 10 years per…",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/resurrection-supreme",
@@ -23990,7 +23990,7 @@
   "options": [],
   "summary": "When you bring a target back to life with your Resurrection talent, they suffer no permanent negative levels, in addition to having all ability score damage…",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/soul-consumption",
@@ -24007,7 +24007,7 @@
   "options": [],
   "summary": "When you use Revitalize, you may destroy a soul gem in your possession as part of creating the effect.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/transfiguration",
@@ -24024,7 +24024,7 @@
   "options": [],
   "summary": "Prerequisites: Life sphere (Restore Health (cure)), caster level 10th.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/benevolence-dual-sphere",
@@ -24043,7 +24043,7 @@
   "options": [],
   "summary": "Whenever an ally within range of your cure ability that is under the effects of an aegis is damaged, you may spend a spell point as an immediate action to heal…",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/catty-observer",
@@ -24060,7 +24060,7 @@
   "options": [],
   "summary": "” – Meowlin the Omnicatster Prerequisites: Life sphere (Diagnose) or Protection sphere (Status); magic skill bonus +3.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/channel-life-channeling",
@@ -24079,7 +24079,7 @@
   "options": [],
   "summary": "You may channel energy and augment it with your Life sphere abilities.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/crescendo",
@@ -24096,7 +24096,7 @@
   "options": [],
   "summary": "You may invigorate any target affected by your bardic performance or raging song, and you may spend a spell point to invigorate them as a swift action.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/endless-possibilities-dual-sphere",
@@ -24115,7 +24115,7 @@
   "options": [],
   "summary": "Whenever you use a Life sphere ability on an ally, they receive a +1 luck bonus to all attack rolls, saving throws, skill checks and ability checks until the…",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/extended-resuscitate",
@@ -24132,7 +24132,7 @@
   "options": [],
   "summary": "Prerequisites: Life sphere (Resuscitate), caster level 5th.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/first-response",
@@ -24149,7 +24149,7 @@
   "options": [],
   "summary": "When you use a standard action to use a Life sphere ability on an ally other than yourself, you may take 10 on any concentration checks required.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/fortified-healing",
@@ -24166,7 +24166,7 @@
   "options": [],
   "summary": "Whenever you use a Life sphere ability on an ally that restores hit points or grants temporary hit points, they regain 1 point of stamina for every 5 points…",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/fount-of-mercy",
@@ -24183,7 +24183,7 @@
   "options": [],
   "summary": "Prerequisites: Life sphere (Fount Of Life).",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/fount-of-stolen-life-dual-sphere",
@@ -24202,7 +24202,7 @@
   "options": [],
   "summary": "As a move action, you may deal 2 Constitution burn to any amount of creatures you have established blood control with.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/healing-touch",
@@ -24219,7 +24219,7 @@
   "options": [],
   "summary": "Whenever you use your lay on hands or fervor ability to heal a creature, you may invigorate or restore the same creature as part of the same action.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/invigorating-rally-dual-sphere",
@@ -24238,7 +24238,7 @@
   "options": [],
   "summary": "Whenever you rally an ally, you may also invigorate them.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/karmic-healing-chance",
@@ -24257,7 +24257,7 @@
   "options": [],
   "summary": "When you heal another creature’s hit points, whether using the Life sphere or another ability, you may spend a kismet point to regain an equal number of your…",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/lifebound-auspician",
@@ -24274,7 +24274,7 @@
   "options": [],
   "summary": "Whenever a Fate sphere effect you create would use an alignment, you may instead choose living or undead.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/purrging-transformation-dual-sphere",
@@ -24293,7 +24293,7 @@
   "options": [],
   "summary": "Whenever you use the Alteration sphere shapeshift sphere ability, you may spend 1 additional spell point to affect each target of that shapeshift with a Life…",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/rain-of-renewal-dual-sphere",
@@ -24312,7 +24312,7 @@
   "options": [],
   "summary": "When you use control weather to create or control Precipitation of severity 2 or more, you may choose to spend 1 additional spell point.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/revitalizing-grasp",
@@ -24329,7 +24329,7 @@
   "options": [],
   "summary": "Whenever you would use your lay on hands class feature, you may grant the affected creature the benefits of a single (vitality) talent you possess.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/rigorous-defense",
@@ -24346,7 +24346,7 @@
   "options": [],
   "summary": "Whenever you use inspiration, you may invigorate yourself as part of the same action.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/studied-healing",
@@ -24363,7 +24363,7 @@
   "options": [],
   "summary": "When you use your cure ability, you gain a bonus to your caster level equal to half the number of ranks you have in the Heal skill, rounded up.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/transpatial-reconstitution-dual-sphere",
@@ -24382,7 +24382,7 @@
   "options": [],
   "summary": "When teleporting a creature, you may increase the casting time by one step or spend a spell point to target the teleported creature with a cure, invigorate, or…",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/treat-injury",
@@ -24399,7 +24399,7 @@
   "options": [],
   "summary": "Whenever you treat deadly wounds, you may use restore on the target.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/vampiric-disruption",
@@ -24416,7 +24416,7 @@
   "options": [],
   "summary": "Upon successfully using your Affliction talent, you may use a swift action to use a Life sphere ability on yourself.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/wellspring-of-life",
@@ -24433,7 +24433,7 @@
   "options": [],
   "summary": "Prerequisites: Life sphere (Fount Of Life).",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/wound-manipulator-dual-sphere",
@@ -24452,7 +24452,7 @@
   "options": [],
   "summary": "When you shapeshift a creature, you may spend a spell point as a free action to allow them to regain one hit point for every Hit Die they possess.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/fueled-by-futility",
@@ -24469,7 +24469,7 @@
   "options": [],
   "summary": "You must select Violent Recuperation with this talent.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/glorious",
@@ -24486,7 +24486,7 @@
   "options": [],
   "summary": "You gain the Taste Of Victory talent as your bonus talent for this drawback, but you can only use your Life abilities when Taste Of Victory is triggered.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/inhuman-healing",
@@ -24503,7 +24503,7 @@
   "options": [],
   "summary": "You gain Esoteric Healing with the bonus talent gained through this drawback.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/limited-restoration",
@@ -24520,7 +24520,7 @@
   "options": [],
   "summary": "Choose either restore or cure/invigorate.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/medicinal",
@@ -24537,7 +24537,7 @@
   "options": [],
   "summary": "You must select the Instill Life talent with the bonus talent granted by this drawback, and you can only use your Life sphere abilities through this talent.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/regenerate",
@@ -24554,7 +24554,7 @@
   "options": [],
   "summary": "You may only target yourself with your Life sphere abilities.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/slow-recovery",
@@ -24571,7 +24571,7 @@
   "options": [],
   "summary": "You must select the Revitalize talent with the bonus talent granted by this drawback, and cannot use cure unless you use it through the Revitalize talent.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/sympathetic",
@@ -24588,7 +24588,7 @@
   "options": [],
   "summary": "You may only restore others by taking their afflictions unto yourself.",
   "file": "life.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "life/unnatural-remedy",
@@ -24605,6 +24605,1705 @@
   "options": [],
   "summary": "Whenever you use cure, restore, or invigorate on a target (even yourself), they reflexively resist (even while unconscious), and must attempt a Will saving…",
   "file": "life.json",
+  "approved": true
+ },
+ {
+  "id": "light/glow",
+  "name": "Glow",
+  "kind": "sphere ability",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#glow",
+  "options": [
+   "Bright Light"
+  ],
+  "summary": "As a standard action, you may cause an object or creature in medium range to glow for 1 minute per caster level, outlining it with light as a candle, which may…",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/lens",
+  "name": "Lens",
+  "kind": "sphere ability",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#lens",
+  "options": [
+   "Telescope"
+  ],
+  "summary": "A lens lasts as long as you concentrate, but you may spend a spell point to allow a lens to remain for 1 hour per caster level without concentration.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/area-glow",
+  "name": "Area Glow",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#area-glow",
+  "options": [],
+  "summary": "You may spend a spell point to create an eruption of light, causing all creatures and objects within a 10 feet + 5 feet per 5 caster levels radius centered…",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/bend-radiance",
+  "name": "Bend Radiance",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#bend-radiance",
+  "options": [],
+  "summary": "You may bend the light produced by your glows, allowing you to create spaces untouched by their light.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/black-light",
+  "name": "Black Light",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#black-light",
+  "options": [],
+  "summary": "As a free action you may cause any glow within your range to shed non-visible light.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/dancing-lights",
+  "name": "Dancing Lights",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#dancing-lights",
+  "options": [],
+  "summary": "You may create a glow effect without the need for a creature or object.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/doubled-nimbus",
+  "name": "Doubled Nimbus",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#doubled-nimbus",
+  "options": [],
+  "summary": "By increasing the casting time of your glow by one step or by spending a spell point you may apply two (nimbus) talents to a single glow effect, causing it to…",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/dual-light",
+  "name": "Dual Light",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#dual-light",
+  "options": [],
+  "summary": "By spending a spell point you can simultaneously apply two different (light) talents you possess to your glow.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/flare",
+  "name": "Flare",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#flare",
+  "options": [],
+  "summary": "As a swift action you can expend one of your glow effects within range of your glow ability, causing it to blaze up momentarily before dying completely, ending…",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/flash",
+  "name": "Flash",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#flash",
+  "options": [],
+  "summary": "You may choose to apply the effects of (light) talents at any point during your turn as a free action instead of only at the end of your turn.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/glory",
+  "name": "Glory",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#glory",
+  "options": [],
+  "summary": "As a free action you may cause any glow placed on yourself or an item in your possession to shed bright light in a 5-foot radius, activating the effects of…",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/instill-glow-instill",
+  "name": "Instill Glow",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Sphere Talents",
+  "tags": [],
+  "talentTags": [
+   "instill"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#instill-glow-instill",
+  "options": [],
+  "summary": "As a standard action you may touch a small container of liquid and instill a lens inside it, which functions as a potion or oil.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/intensity-control",
+  "name": "Intensity Control",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#intensity-control",
+  "options": [],
+  "summary": "You may add up to 10 feet from the radius of your normal and bright light, as well as the distance to which light is increased by one step, or subtract any…",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/light-link",
+  "name": "Light Link",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#light-link",
+  "options": [],
+  "summary": "You always know the direction and distance to any creature or object under the effect of your glow.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/lingering-glow",
+  "name": "Lingering Glow",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#lingering-glow",
+  "options": [],
+  "summary": "When you produce a glow, it lasts for 10 minutes per caster level instead of 1 minute per caster level.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/mass-lens-mass",
+  "name": "Mass Lens",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Sphere Talents",
+  "tags": [],
+  "talentTags": [
+   "mass"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#mass-lens-mass",
+  "options": [],
+  "summary": "When using a lens, you may spend an additional spell point to affect an additional 1 creature per 2 caster levels (minimum 1) with the same lens at the same…",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/ranged-light-range",
+  "name": "Ranged Light",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Sphere Talents",
+  "tags": [],
+  "talentTags": [
+   "range"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#ranged-light-range",
+  "options": [],
+  "summary": "You may target creatures and objects within long range rather than medium range when applying a glow or lens, and when causing a glow effect to shed normal or…",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/solar-strike-strike",
+  "name": "Solar Strike",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Sphere Talents",
+  "tags": [],
+  "talentTags": [
+   "strike"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#solar-strike-strike",
+  "options": [],
+  "summary": "As a standard action, you may make a single weapon attack in conjunction with making a target glow.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/style-utility",
+  "name": "Style",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Sphere Talents",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#style-utility",
+  "options": [],
+  "summary": "When you cause your glow to shed light, you may also create patterns and different colors in the light it sheds, casting intricate designs on surfaces.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/aiming-scope-lens",
+  "name": "Aiming Scope",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Lens Talents",
+  "tags": [
+   "lens"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#aiming-scope-lens",
+  "options": [],
+  "summary": "In addition, they gain a +1 competence bonus to all ranged attack rolls.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/chameleon-lens",
+  "name": "Chameleon",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Lens Talents",
+  "tags": [
+   "lens"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#chameleon-lens",
+  "options": [],
+  "summary": "You can cause light and color to shift around a target, granting it the ability to blend in with its surroundings.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/dim-light-lens",
+  "name": "Dim Light",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Lens Talents",
+  "tags": [
+   "lens"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#dim-light-lens",
+  "options": [],
+  "summary": "You cause a target to suffer no ill effects from light.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/halo-effect-lens-utility",
+  "name": "Halo Effect",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Lens Talents",
+  "tags": [
+   "lens"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#halo-effect-lens-utility",
+  "options": [],
+  "summary": "You may place a lens upon a creature that subtly controls light around them.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/infravision-lens",
+  "name": "Infravision",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Lens Talents",
+  "tags": [
+   "lens"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#infravision-lens",
+  "options": [],
+  "summary": "You may slightly shift the spectrum of light, granting the target the ability to see heat.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/obscure-lens",
+  "name": "Obscure",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Lens Talents",
+  "tags": [
+   "lens"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#obscure-lens",
+  "options": [],
+  "summary": "Once per round when the target is attacked, but before the attack is rolled, they can choose to have the attacker roll twice and take the lower result.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/periscope-lens-utility",
+  "name": "Periscope",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Lens Talents",
+  "tags": [
+   "lens"
+  ],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#periscope-lens-utility",
+  "options": [],
+  "summary": "By altering the path of light you can see from unusual positions.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/rose-tinted-lens",
+  "name": "Rose-Tinted",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Lens Talents",
+  "tags": [
+   "lens"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#rose-tinted-lens",
+  "options": [],
+  "summary": "The target’s vision is tinted a soft-red.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/beacon-of-hope-light",
+  "name": "Beacon Of Hope",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Talents",
+  "tags": [
+   "light"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#beacon-of-hope-light",
+  "options": [],
+  "summary": "When you place a glow effect on a creature, you may choose to grant that creature a +1 morale bonus on saves against fear.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/blinding-light-light",
+  "name": "Blinding Light",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Talents",
+  "tags": [
+   "light"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#blinding-light-light",
+  "options": [],
+  "summary": "When you cause a creature to glow, you may choose to make that target dazzled, giving it a -1 penalty to attack rolls and Perception checks.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/bound-light-light",
+  "name": "Bound Light",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Talents",
+  "tags": [
+   "light"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#bound-light-light",
+  "options": [],
+  "summary": "You may spend a spell point to create a bright light that binds the glowing target inside a prison of light.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/disorienting-patterns-light",
+  "name": "Disorienting Patterns",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Talents",
+  "tags": [
+   "light"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#disorienting-patterns-light",
+  "options": [],
+  "summary": "You may create bright light that covers an area in confusing colors and designs.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/encompassing-light-light",
+  "name": "Encompassing Light",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Talents",
+  "tags": [
+   "light"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#encompassing-light-light",
+  "options": [],
+  "summary": "You may spend a spell point to create bright light that encompasses the glowing creature, allowing it to function as if it were larger than it is.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/fenestrate-light",
+  "name": "Fenestrate",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Talents",
+  "tags": [
+   "light"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#fenestrate-light",
+  "options": [],
+  "summary": "You can create bright light that makes everything and everyone within the area of the bright light translucent enough that they can be seen through.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/flicker-light",
+  "name": "Flicker",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Talents",
+  "tags": [
+   "light"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#flicker-light",
+  "options": [],
+  "summary": "You may create bright light that partially assimilates a glowing creature and its carried equipment, allowing them to momentarily shed their physical form.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/guiding-light-light",
+  "name": "Guiding Light",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Talents",
+  "tags": [
+   "light"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#guiding-light-light",
+  "options": [],
+  "summary": "When you cause a creature to glow, you may choose to grant all creatures a +1 circumstance bonus to attack rolls against that target, +1 per 10 caster levels.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/hypnotic-pattern-light",
+  "name": "Hypnotic Pattern",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Talents",
+  "tags": [
+   "light"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#hypnotic-pattern-light",
+  "options": [],
+  "summary": "You may spend a spell point when creating bright light to fascinate creatures.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/inner-sun-light",
+  "name": "Inner Sun",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Talents",
+  "tags": [
+   "light"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#inner-sun-light",
+  "options": [],
+  "summary": "The weapon can be shaped into any melee weapon the holder is proficient with as a swift action, and initially appears as whatever weapon they choose.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/irradiance-light",
+  "name": "Irradiance",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Talents",
+  "tags": [
+   "light"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#irradiance-light",
+  "options": [],
+  "summary": "When you cause a target to glow you may choose to make it sickened, giving it a -2 penalty to attack rolls, weapon damage rolls, saving throws, skill checks,…",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/lure-light-light",
+  "name": "Lure Light",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Talents",
+  "tags": [
+   "light"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#lure-light-light",
+  "options": [],
+  "summary": "You may create an area of bright light that lures creatures towards it.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/precious-light",
+  "name": "Precious",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Talents",
+  "tags": [
+   "light"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#precious-light",
+  "options": [],
+  "summary": "You may spend a spell point to create bright light on an object 2 or more sizes smaller than yourself, that compels those who see it to try and acquire it.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/purifying-light-light",
+  "name": "Purifying Light",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Talents",
+  "tags": [
+   "light"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#purifying-light-light",
+  "options": [],
+  "summary": "When you cause a creature to glow, you can help eradicate toxic substances they are afflicted with, granting them a +1 circumstance bonus on all Fortitude…",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/repelling-light-light",
+  "name": "Repelling Light",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Talents",
+  "tags": [
+   "light"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#repelling-light-light",
+  "options": [],
+  "summary": "You may spend a spell point to create light that repels unwanted creatures.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/revealing-light-light",
+  "name": "Revealing Light",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Talents",
+  "tags": [
+   "light"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#revealing-light-light",
+  "options": [],
+  "summary": "You may spend a spell point to create bright light that reveals all invisible creatures and objects.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/revelation-light",
+  "name": "Revelation",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Talents",
+  "tags": [
+   "light"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#revelation-light",
+  "options": [],
+  "summary": "You may place a glow on a source of written information, such as a book, to cause it to reveal any information deliberately recorded in it.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/searing-light-light",
+  "name": "Searing Light",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Talents",
+  "tags": [
+   "light"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#searing-light-light",
+  "options": [],
+  "summary": "You may create bright light that burns targets in its area.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/shining-arsenal-light",
+  "name": "Shining Arsenal",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Talents",
+  "tags": [
+   "light"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#shining-arsenal-light",
+  "options": [],
+  "summary": "You may place a glow on a manufactured weapon, a piece of armor or a shield.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/sunstroke-light",
+  "name": "Sunstroke",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Talents",
+  "tags": [
+   "light"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#sunstroke-light",
+  "options": [],
+  "summary": "When you place a glow effect on a creature, you may choose to deal it 1d4 nonlethal fire damage per 2 caster levels (minimum 1d4).",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/visual-overload-light",
+  "name": "Visual Overload",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Light Talents",
+  "tags": [
+   "light"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#visual-overload-light",
+  "options": [],
+  "summary": "When you cause a creature to glow, you may spend a spell point to overwhelm the target of the glow with visual stimulation.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/beam-nimbus",
+  "name": "Beam",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Nimbus Talents",
+  "tags": [
+   "nimbus"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#beam-nimbus",
+  "options": [],
+  "summary": "When you cause a glow effect to shed normal or bright light, you can focus this light into a cone (doubling the affected distance) or a line (quadrupling the…",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/trail-nimbus",
+  "name": "Trail",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Nimbus Talents",
+  "tags": [
+   "nimbus"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#trail-nimbus",
+  "options": [],
+  "summary": "When causing a glow effect to shed normal or bright light, as a free action you may cause it to trail light behind it rather than radiate light normally.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/weird-radiance-nimbus",
+  "name": "Weird Radiance",
+  "kind": "talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Nimbus Talents",
+  "tags": [
+   "nimbus"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#weird-radiance-nimbus",
+  "options": [],
+  "summary": "When causing a glow effect to shed normal light or bright light, you may shape this light into strange shapes as a free action.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/daylight-light",
+  "name": "Daylight",
+  "kind": "advanced talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Advanced Light Talents",
+  "tags": [
+   "light"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#daylight-light",
+  "options": [],
+  "summary": "When causing an object to shed bright light, you may spend 2 additional spell points to cause the object to shed bright light for a 2 mile radius and normal…",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/diffuse-body",
+  "name": "Diffuse Body",
+  "kind": "advanced talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Advanced Light Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#diffuse-body",
+  "options": [],
+  "summary": "When a creature under the effects of your Flicker takes a move action, they may choose to move in two separate directions and end their move in two different…",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/everglow",
+  "name": "Everglow",
+  "kind": "advanced talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Advanced Light Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#everglow",
+  "options": [],
+  "summary": "By spending a spell point you can make a glow permanent, so long as it is not placed on an unwilling target.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/incarnate-glow",
+  "name": "Incarnate Glow",
+  "kind": "advanced talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Advanced Light Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#incarnate-glow",
+  "options": [],
+  "summary": "When using the Flicker (light) talent, you can spend two spell points to more completely assimilate the target, turning them into a form composed of pure light.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/light-speed",
+  "name": "Light Speed",
+  "kind": "advanced talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Advanced Light Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#light-speed",
+  "options": [],
+  "summary": "Whenever the target takes a move, run, withdraw or 5-foot step action, as long as they move in a straight line and there are no factors that block normal sight…",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/prismatic-radiance-light",
+  "name": "Prismatic Radiance",
+  "kind": "advanced talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Advanced Light Talents",
+  "tags": [
+   "light"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#prismatic-radiance-light",
+  "options": [],
+  "summary": "Prerequisites: Light sphere (Searing Light (light), Style), caster level 15th.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/radiation-light",
+  "name": "Radiation",
+  "kind": "advanced talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Advanced Light Talents",
+  "tags": [
+   "light"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#radiation-light",
+  "options": [],
+  "summary": "When you spend a spell point to create bright light with the Irradiance talent, you may spend an additional spell point to create higher energy radiation.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/star-genesis",
+  "name": "Star Genesis",
+  "kind": "advanced talent",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Advanced Light Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light#star-genesis",
+  "options": [],
+  "summary": "When you use the Intensity Control talent you may spend a spell point to increase the radius of your normal and bright light (as well as the distance at which…",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/afterglow",
+  "name": "Afterglow",
+  "kind": "feat",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Feats#afterglow",
+  "options": [],
+  "summary": "When you affect a creature with a positive energy ability (such as with channel energy, fervor, lay on hands, or most Life sphere abilities), you may cause…",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/aurora-dual-sphere",
+  "name": "Aurora",
+  "kind": "feat",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Feats#aurora-dual-sphere",
+  "options": [],
+  "summary": "When you use control weather, you may also choose to increase the light level by one step in the same area, up to a maximum of normal light.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/beam-propulsion-dual-sphere",
+  "name": "Beam Propulsion",
+  "kind": "feat",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Feats#beam-propulsion-dual-sphere",
+  "options": [],
+  "summary": "By amplifying and focusing the tiny pressure exerted by light with your powers of telekinesis, you can move a target with the force of light alone.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/bioluminescent-transformation-dual-sphere",
+  "name": "Bioluminescent Transformation",
+  "kind": "feat",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Feats#bioluminescent-transformation-dual-sphere",
+  "options": [],
+  "summary": "When you shapeshift a target, you may also cause that target to glow.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/constellation",
+  "name": "Constellation",
+  "kind": "feat",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Feats#constellation",
+  "options": [],
+  "summary": "By spending a spell point when you create a glow effect, you may cause it to take the form of a number of motes equal to your caster level.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/coronal-shroud-dual-sphere",
+  "name": "Coronal Shroud",
+  "kind": "feat",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Feats#coronal-shroud-dual-sphere",
+  "options": [],
+  "summary": "When you spend a spell point to cause a creature to glow with bright light, you may either choose to have them count as under the effect of your mantle as long…",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/crimson-flash",
+  "name": "Crimson Flash",
+  "kind": "feat",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Feats#crimson-flash",
+  "options": [],
+  "summary": "During combat, as a swift action, you may spend a spell point to expel a blast of light seen only by one ally that can see you who has not yet acted in combat.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/defiant-radiance",
+  "name": "Defiant Radiance",
+  "kind": "feat",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Feats#defiant-radiance",
+  "options": [],
+  "summary": "Double this bonus when attempting an opposed magic skill check against magical darkness effects.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/destructive-radiance-dual-sphere",
+  "name": "Destructive Radiance",
+  "kind": "feat",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Feats#destructive-radiance-dual-sphere",
+  "options": [],
+  "summary": "Whenever you use your destructive blast, you can choose to have it take on the properties of light.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/ensouled-illuminations",
+  "name": "Ensouled Illuminations",
+  "kind": "feat",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Feats#ensouled-illuminations",
+  "options": [],
+  "summary": "As a free action, you may choose to have any number of your souls shed light as a torch, shedding normal light to 20 feet and increasing the light level by one…",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/flash-warp-dual-sphere",
+  "name": "Flash Warp",
+  "kind": "feat",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Feats#flash-warp-dual-sphere",
+  "options": [],
+  "summary": "You can disappear or appear in a flash of brilliant light.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/hard-light-dual-sphere",
+  "name": "Hard Light",
+  "kind": "feat",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Feats#hard-light-dual-sphere",
+  "options": [],
+  "summary": "When you create an object, you may make it out of hardened light instead of matter.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/illuminated-vigilance-dual-sphere",
+  "name": "Illuminated Vigilance",
+  "kind": "feat",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Feats#illuminated-vigilance-dual-sphere",
+  "options": [],
+  "summary": "While an ally is within 30 feet of any object that you have caused to glow, you may rally them.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/illustrious-light-dual-sphere",
+  "name": "Illustrious Light",
+  "kind": "feat",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Feats#illustrious-light-dual-sphere",
+  "options": [],
+  "summary": "Whenever you create a figment or glamer you may, as part of the same action, affect the figment or the creature or object subject to the glamer with your glow.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/lightshow",
+  "name": "Lightshow",
+  "kind": "feat",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Feats#lightshow",
+  "options": [],
+  "summary": "When you activate a bardic performance, you may cause one ally affected by that performance to glow as part of the same beginning action.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/luminous-aegis-dual-sphere",
+  "name": "Luminous Aegis",
+  "kind": "feat",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Feats#luminous-aegis-dual-sphere",
+  "options": [],
+  "summary": "As a swift action, you may make an ally glow if they are bearing an aegis you created.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/luminous-flame-dual-sphere",
+  "name": "Luminous Flame",
+  "kind": "feat",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Feats#luminous-flame-dual-sphere",
+  "options": [],
+  "summary": "Whenever you use the Create Fire or Alter Fire geomancing ability, you may also cause the fire to glow.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/night-sky-dual-sphere",
+  "name": "Night Sky",
+  "kind": "feat",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Feats#night-sky-dual-sphere",
+  "options": [],
+  "summary": "You gain the following abilities based on the Dark sphere and Light sphere talents you possess: - Dusk / Dawn: Whenever you grant a lens to a creature, you may…",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/photosynthesis",
+  "name": "Photosynthesis",
+  "kind": "feat",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Feats#photosynthesis",
+  "options": [],
+  "summary": "If you are in an area of bright light, you can regain hit points equal to your character level as a move action.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/searing-brilliance",
+  "name": "Searing Brilliance",
+  "kind": "feat",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Feats#searing-brilliance",
+  "options": [],
+  "summary": "Prerequisites: Light sphere (Searing Light (light)), caster level 5th.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/seraphic-glow",
+  "name": "Seraphic Glow",
+  "kind": "feat",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Feats#seraphic-glow",
+  "options": [],
+  "summary": "Prerequisites: Light sphere, good alignment.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/sense-light",
+  "name": "Sense Light",
+  "kind": "feat",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Feats#sense-light",
+  "options": [],
+  "summary": "Prerequisites: Perception 5 ranks, Light sphere.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/shining-stars",
+  "name": "Shining Stars",
+  "kind": "feat",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Feats#shining-stars",
+  "options": [],
+  "summary": "You may apply the effects of your Glory talent to glow effects you create as Dancing Lights as if they were placed on yourself, though you may still only apply…",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/sunlight-strike-combat",
+  "name": "Sunlight Strike",
+  "kind": "feat",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Feats#sunlight-strike-combat",
+  "options": [],
+  "summary": "Whenever you successfully hit an enemy that is vulnerable to light (such as by the light blindness, light sensitivity, or sunlight powerlessness universal…",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/twilight-adept-teamwork",
+  "name": "Twilight Adept",
+  "kind": "feat",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Teamwork"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Feats#twilight-adept-teamwork",
+  "options": [],
+  "summary": "You may choose to have your Dark and Light sphere talents or abilities interact normally if you wish.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/wave-particle-duality-dual-sphere",
+  "name": "Wave-Particle Duality",
+  "kind": "feat",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Dark",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Feats#wave-particle-duality-dual-sphere",
+  "options": [],
+  "summary": "Prerequisites: Illusion sphere, Light sphere.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/flexible-lens",
+  "name": "Flexible Lens",
+  "kind": "drawback",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Drawbacks#flexible-lens",
+  "options": [],
+  "summary": "You must choose a (lens) talent with the bonus talent gained from this drawback.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/glowing-brew",
+  "name": "Glowing Brew",
+  "kind": "drawback",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Drawbacks#glowing-brew",
+  "options": [],
+  "summary": "You must select the Instill Glow talent with the bonus talent granted by this drawback, and you can only use your Light sphere abilities through this talent.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/lens-focus",
+  "name": "Lens Focus",
+  "kind": "drawback",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Drawbacks#lens-focus",
+  "options": [],
+  "summary": "You cannot create glow effects.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/light-focus",
+  "name": "Light Focus",
+  "kind": "drawback",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Drawbacks#light-focus",
+  "options": [],
+  "summary": "You cannot create lenses.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/nimbus-focus",
+  "name": "Nimbus Focus",
+  "kind": "drawback",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Drawbacks#nimbus-focus",
+  "options": [],
+  "summary": "You may only cause your glows to shed light in a specific shape.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/roving-glow",
+  "name": "Roving Glow",
+  "kind": "drawback",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Drawbacks#roving-glow",
+  "options": [],
+  "summary": "You must select the Dancing Lights talent with the bonus talent gained from this drawback.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/subtle-light",
+  "name": "Subtle Light",
+  "kind": "drawback",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Drawbacks#subtle-light",
+  "options": [],
+  "summary": "You must select the Black Light talent as the bonus talent gained from this drawback, and must use this talent on every glow you create.",
+  "file": "light.json",
+  "approved": false
+ },
+ {
+  "id": "light/touch-of-light",
+  "name": "Touch Of Light",
+  "kind": "drawback",
+  "sphere": "Light",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Light/Light-Sphere-Drawbacks#touch-of-light",
+  "options": [],
+  "summary": "You cannot take Ranged Light, and you may only apply Solar Strike to melee attacks.",
+  "file": "light.json",
   "approved": false
  },
  {
