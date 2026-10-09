@@ -2248,12 +2248,14 @@ function openUpgradePicker(i, which) {
   const fullText = h("input", { type: "checkbox" })
   const cost = gearSelect("Cost", [["", "Any cost"], ...[1, 2, 3, 4, 5].map((n) => [String(n), `+${n} bonus`]), ["gp", "Flat gp cost"]])
   const buy = h("input", { type: "checkbox" })
+  const ignore = h("input", { type: "checkbox" })
   const results = h("div", { class: "picker-results", role: "list" }, h("p", { class: "muted" }, "Loading…"))
   const dlg = openDialog(`Add ${isAbility ? "a special ability" : "a modification"} to ${g.name || `this ${slotName}`}`,
     h("div", { class: "row picker-filters" }, box, isAbility ? cost : null),
     h("div", { class: "row picker-filters" },
       h("label", { class: "row", style: "gap:.3rem" }, fullText, "Search the text too"),
-      h("label", { class: "row", style: "gap:.3rem" }, buy, "Buy it (pay the difference from your coins)")),
+      h("label", { class: "row", style: "gap:.3rem" }, buy, "Buy it (pay the difference from your coins)"),
+      isAbility ? null : h("label", { class: "row", style: "gap:.3rem" }, ignore, `Ignore its drawback (${g.kind === "weapon" ? "Weapon" : "Armor"} Adept)`)),
     h("p", { class: "note" }, isAbility ? `Special abilities for a ${slotName}. A +N ability counts toward the +${MAX_TOTAL_BONUS} limit; flat-cost ones don't.`
       : g.kind === "weapon" ? "Each Adventurer's Armory modification makes the weapon one category harder to wield (Weapon Adept ignores that for one modification)."
         : "Each modification has a drawback (Armor Adept ignores the drawbacks of two)."),
@@ -2264,7 +2266,7 @@ function openUpgradePicker(i, which) {
   const apply = (f, o) => (x) => {
     if (isAbility) x.abilities.push({ ref: f.id, name: f.name, label: o.label || "", bonus: o.bonus ?? 0, gp: o.gp ?? 0, summary: f.summary ?? "" })
     else {
-      x.mods.push({ ref: f.id, name: f.name, price: f.price ?? 0, weight: f.weight ?? 0, drawback: f.drawback ?? "", ignored: false })
+      x.mods.push({ ref: f.id, name: f.name, price: f.price ?? 0, weight: f.weight ?? 0, drawback: f.drawback ?? "", ignored: !!f.drawback && ignore.checked })
       x.weight = num(x.weight) + num(f.weight)
     }
   }
@@ -2632,13 +2634,32 @@ function buildActor() {
   }
 }
 
+// Foundry's items have no place for special abilities or modifications: they go at the top of
+// the item's description (the enhancement bonus, masterwork, price and weight export as data)
+function magicText(g) {
+  if (!MAGIC_KINDS.includes(g.kind)) return ""
+  const lines = []
+  for (const a of g.abilities ?? []) {
+    lines.push(`Special ability: ${a.name}${a.label ? ` (${a.label})` : ""}, ${a.bonus ? `+${a.bonus} bonus` : `${gp(num(a.gp))} flat`}${a.summary ? `. ${a.summary}` : ""}`)
+  }
+  for (const m of g.mods ?? []) {
+    lines.push(`Modification: ${m.name}, ${gp(num(m.price))}${m.drawback ? `. Drawback${m.ignored ? ` (ignored: ${g.kind === "weapon" ? "Weapon" : "Armor"} Adept)` : ""}: ${m.drawback}` : ""}`)
+  }
+  if (g.kind === "weapon" && (g.mods ?? []).some((m) => m.drawback && !m.ignored)) {
+    const steps = g.mods.filter((m) => m.drawback && !m.ignored).length
+    lines.push(`Wielded ${steps} categor${steps > 1 ? "ies" : "y"} harder than ${g.prof ? g.prof.toLowerCase() : "normal"} (modifications).`)
+  }
+  if (!lines.length) return ""
+  return [`Total bonus +${totalBonus(g)}${num(g.enh) ? ` (+${num(g.enh)} enhancement)` : ""}.`, ...lines].join("\n")
+}
+
 function gearItem(g) {
   const base = {
     quantity: num(g.qty),
     weight: { value: num(g.weight) },
     price: num(g.price),
     carried: g.carried !== false,
-    description: { value: toHtml(g.desc) },
+    description: { value: toHtml([magicText(g), g.desc].filter(Boolean).join("\n\n")) },
   }
   switch (g.kind) {
     case "weapon": {
