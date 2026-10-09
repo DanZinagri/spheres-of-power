@@ -53,6 +53,8 @@ CATEGORIES = {
                                                   "Potions", "Artifacts", "Cursed", "Intelligent", "Other")],
                     r"^Magic\w*Display\.aspx\?"),
     "monsters": (["Monsters.aspx?Letter=All"], r"^MonsterDisplay\.aspx\?ItemName="),
+    # mythic monsters are a separate list on AoN (the Monster Creator shows them when mythic is on)
+    "mythic-monsters": (["MythicMonsters.aspx?Letter=All"], r"^MythicMonsterDisplay\.aspx\?ItemName="),
     "templates": (["MonsterTemplates.aspx?ItemName=All"], r"^MonsterTemplates\.aspx\?ItemName=(?!All$)"),
 }
 
@@ -174,7 +176,7 @@ def extract(cat: str, href: str, html: str) -> dict | list[dict] | None:
     for nav in box.find_all(["script", "style"]):
         nav.decompose()
     lore_cut = None
-    if cat == "monsters":  # lore and setting text (mostly Product Identity) stays on AoN
+    if cat in ("monsters", "mythic-monsters"):  # lore and setting text (mostly Product Identity) stays on AoN
         lore_cut = next((h for h in box.find_all(["h3", "h2"]) if text_of(h).lower() in ("ecology", "description")), None)
     name = text_of(title)
     html_box = str(box)

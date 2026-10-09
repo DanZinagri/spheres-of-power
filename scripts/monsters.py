@@ -15,6 +15,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 COMP = ROOT / "quartz" / "static" / "compendium"
 SRC = COMP / "pf1e" / "monsters.json"
+MYTHIC_SRC = COMP / "pf1e" / "mythic-monsters.json"
 OUT_DIR = COMP / "monsters"
 CHUNKS = 48
 
@@ -100,12 +101,13 @@ def parse_special_abilities(md: str) -> list[dict]:
 
 def parse(e: dict) -> dict | None:
     md = e["md"]
-    head = re.search(r"(?m)^## (.+?) CR ([\d/]+)(?:/MR \d+)?\s*$", md)
+    head = re.search(r"(?m)^## (.+?) CR ([\d/]+)(?:/MR (\d+))?\s*$", md)
     if not head:
         return None
     body = md[head.end():]
     lines = [clean(l) for l in body.split("\n") if clean(l)]
-    m = {"name": e["name"], "statName": head.group(1).strip(), "cr": head.group(2), "url": e["url"], "source": e["source"]}
+    m = {"name": e["name"], "statName": head.group(1).strip(), "cr": head.group(2), "url": e["url"], "source": e["source"],
+         "mr": int(head.group(3)) if head.group(3) else 0}
     xp = next((l for l in lines if l.startswith("XP ")), "")
     m["xp"] = int(re.sub(r"\D", "", xp) or 0)
     # the identity lines: an optional "Goblin warrior 1" (race + class levels), then "NE Small humanoid (goblinoid)"
@@ -205,6 +207,9 @@ def parse(e: dict) -> dict | None:
 
 def build() -> int:
     raw = json.loads(SRC.read_text(encoding="utf-8"))["entries"]
+    # mythic monsters (a separate AoN list): named as their stat block names them ("Mythic Aboleth")
+    if MYTHIC_SRC.exists():
+        raw += [{**e, "mythicList": True} for e in json.loads(MYTHIC_SRC.read_text(encoding="utf-8"))["entries"]]
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     chunks: dict[int, list[dict]] = {}
     index, used, failed = [], set(), []
@@ -217,6 +222,9 @@ def build() -> int:
         if not m:
             failed.append((e["name"], "no CR heading"))
             continue
+        m["mythic"] = bool(m["mr"] or e.get("mythicList"))
+        if e.get("mythicList"):
+            m["name"] = m["statName"]
         mid = "monster/" + re.sub(r"[^a-z0-9]+", "-", m["name"].lower()).strip("-")
         n = 2
         while mid in used:
@@ -228,7 +236,7 @@ def build() -> int:
         chunks.setdefault(c, []).append(m)
         index.append({"id": mid, "name": m["name"], "cr": m["cr"], "xp": m["xp"], "type": m.get("type", ""),
                       "subtypes": m.get("subtypes", []), "size": m.get("size", ""), "alignment": m.get("alignment", ""),
-                      "hd": m["hd"], "source": m["source"], "file": m["file"],
+                      "hd": m["hd"], "source": m["source"], "file": m["file"], "mythic": m["mythic"], "mr": m["mr"],
                       "classes": [f"{c['name']} {c['level']}" for c in m["classes"]]})
     for c, ms in chunks.items():
         (OUT_DIR / f"m{c:02d}.json").write_text(json.dumps({"entries": ms}, ensure_ascii=False), encoding="utf-8")

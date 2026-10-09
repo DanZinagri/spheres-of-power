@@ -86,23 +86,40 @@ async function openMonsterPicker() {
   const box = h("input", { type: "search", placeholder: "Search monsters by name", "aria-label": "Search monsters" })
   const typeSel = h("select", { "aria-label": "Creature type" }, h("option", { value: "" }, "Any type"),
     ...Object.keys(TYPE_RULES).map((t) => h("option", { value: t }, t[0].toUpperCase() + t.slice(1))))
+  // subtypes of the chosen type ("humanoid" -> elf, dwarf, goblinoid, ...), with how many monsters have each
+  const subSel = h("select", { "aria-label": "Subtype", disabled: true }, h("option", { value: "" }, "Any subtype"))
   const crSel = h("select", { "aria-label": "CR" }, h("option", { value: "" }, "Any CR"), ...CR_LADDER.map((cr) => h("option", { value: cr }, `CR ${cr}`)))
+  const mythicBox = h("input", { type: "checkbox", checked: !!state.mythicEnabled })
   const results = h("div", { class: "picker-results", role: "list" }, h("p", { class: "muted" }, "Loading monsters…"))
-  const dlg = openDialog("Load a monster", h("div", { class: "row picker-filters" }, box, typeSel, crSel), results)
+  const dlg = openDialog("Load a monster", h("div", { class: "row picker-filters" }, box, typeSel, subSel, crSel),
+    h("div", { class: "row picker-filters" }, h("label", { class: "row", style: "gap:.3rem" }, mythicBox, "Mythic (show mythic monsters)")), results)
   let all = []
+  const fillSubtypes = () => {
+    const counts = {}
+    for (const m of all) if (m.type === typeSel.value && (mythicBox.checked || !m.mythic)) for (const st of m.subtypes) counts[st] = (counts[st] || 0) + 1
+    const keep = subSel.value
+    subSel.replaceChildren(h("option", { value: "" }, "Any subtype"),
+      ...Object.keys(counts).sort((a, b) => a.localeCompare(b)).map((st) => h("option", { value: st, selected: st === keep }, `${st} (${counts[st]})`)))
+    subSel.disabled = !typeSel.value
+    if (!(keep in counts)) subSel.value = ""
+  }
   const render = () => {
     const q = box.value.trim().toLowerCase()
-    const hits = all.filter((m) => (!q || m.name.toLowerCase().includes(q)) && (!typeSel.value || m.type === typeSel.value) && (!crSel.value || m.cr === crSel.value))
+    const hits = all.filter((m) => (mythicBox.checked || !m.mythic) && (!q || m.name.toLowerCase().includes(q))
+      && (!typeSel.value || m.type === typeSel.value) && (!subSel.value || m.subtypes.includes(subSel.value)) && (!crSel.value || m.cr === crSel.value))
     const rank = (m) => (!q ? 0 : m.name.toLowerCase().startsWith(q) ? 0 : 1)
     hits.sort((a, b) => rank(a) - rank(b) || a.name.localeCompare(b.name))
     const shown = hits.slice(0, 60)
     fill(results, ...shown.map((m) => h("button", { class: "picker-item", role: "listitem", onclick: async () => { dlg.done(); await loadMonster(m) } },
-      h("span", { class: "pi-name" }, m.name, h("span", { class: "pi-meta" }, ` CR ${m.cr} · ${m.size} ${m.type}${m.subtypes.length ? ` (${m.subtypes.join(", ")})` : ""} · ${m.hd} HD${m.classes.length ? ` · ${m.classes.join(", ")}` : ""}`)),
+      h("span", { class: "pi-name" }, m.name, h("span", { class: "pi-meta" }, ` CR ${m.cr}${m.mr ? `/MR ${m.mr}` : ""} · ${m.size} ${m.type}${m.subtypes.length ? ` (${m.subtypes.join(", ")})` : ""} · ${m.hd} HD${m.classes.length ? ` · ${m.classes.join(", ")}` : ""}`)),
       h("span", { class: "pi-pre" }, m.source))),
     hits.length > shown.length ? h("p", { class: "note" }, `Showing ${shown.length} of ${hits.length}; type more of the name or filter.`) : null,
     hits.length ? null : h("p", { class: "muted" }, all.length ? "No monsters match." : "Couldn't load the monsters."))
   }
-  for (const el of [box, typeSel, crSel]) el.addEventListener(el === box ? "input" : "change", render)
+  box.addEventListener("input", render)
+  typeSel.addEventListener("change", () => { fillSubtypes(); render() })
+  for (const el of [subSel, crSel]) el.addEventListener("change", render)
+  mythicBox.addEventListener("change", () => { state.mythicEnabled = mythicBox.checked; save(); fillSubtypes(); render() })
   loadCompendium("monsters-index.json", []).then((list) => { all = list; render() })
   box.focus()
 }
@@ -167,7 +184,8 @@ async function loadMonster(entry) {
     const base = f.replace(/\s*\(.*\)$/, "").replace(/[BMR]$/, "").trim()
     const e = featIndex.find((x) => isPf(x) && x.name.replace(/\s*\(.*\)$/, "").toLowerCase() === base.toLowerCase())
     const name = f.replace(/[BMR]$/, "").trim()
-    s.features.push(newFeature("feat", { name, ref: e?.id, desc: e?.summary ?? "", changes: featChanges(name) }))
+    // "Improved InitiativeM": the feat's mythic version (Mythic Adventures)
+    s.features.push(newFeature("feat", { name, ref: e?.id, desc: e?.summary ?? "", changes: featChanges(name), mythicFeat: /M$/.test(f.trim()) }))
   }
   // the stat block's own text: special abilities, DR / SR / resistances and so on stay with the monster
   for (const a of mon.specialAbilities) s.features.push(newFeature("misc", { name: `${a.name} (${a.kind})`, desc: a.text, monster: true }))
@@ -184,11 +202,15 @@ async function loadMonster(entry) {
       ref: mon.saves.ref, will: mon.saves.will, bab: mon.bab, cmb: mon.cmb, cmd: mon.cmd,
       skills: Object.fromEntries(mon.skills.map((x) => [x.name, x.total])) },
     racialMods: mon.racialMods, monsterChanges: [],
+    // mythic: the stat block's rank (its numbers already include it), the rank now, mythic simple templates
+    baseMr: mon.mr || 0, mr: mon.mr || 0, mythicTemplates: [], baseDr: mon.dr, baseSr: mon.sr, baseSpecialAttacks: mon.specialAttacks,
   }
   // Weapon Finesse: Dex to attack with natural attacks and light weapons
   if (mon.feats.some((f) => /^Weapon Finesse/.test(f)))
     for (const a of s.monster.attacks) if (a.range === "melee" && (a.natural || /dagger|rapier|short ?sword|kukri|sickle|sap|whip|light|cestus|gauntlet|unarmed|curve blade/i.test(a.name))) a.finesse = true
   if (changes.length) s.features.push(newFeature("misc", { name: "Armor class (stat block)", changes, desc: "Natural armor and other AC bonuses from the stat block.", monster: true }))
+  if (mon.mythic) s.mythicEnabled = true
+  else s.mythicEnabled = state.mythicEnabled
   state = normalize(s)
   state.monster = s.monster
   // derived parts: good saves on the racial Hit Dice, skill ranks and leftovers, attack modifiers
@@ -381,6 +403,10 @@ function monsterCr(c = null) {
   steps += cls.total
   const tal = talentCr()
   if (tal.added) { rows.push({ label: `${tal.added} Power talent${tal.added > 1 ? "s" : ""} added (+1 CR per ${tal.per})`, cr: tal.cr }); steps += tal.cr }
+  // mythic: the subtype adds 1/2 its rank (over the stat block's own); each mythic simple template +1
+  const mrSteps = Math.floor(num(mon.mr) / 2) - Math.floor(num(mon.baseMr) / 2)
+  if (num(mon.mr) !== num(mon.baseMr)) { rows.push({ label: `Mythic rank ${num(mon.mr)}${num(mon.baseMr) ? ` (stat block ${mon.baseMr})` : ""}: +1/2 MR`, cr: mrSteps }); steps += mrSteps }
+  for (const t of mon.mythicTemplates ?? []) { rows.push({ label: `${t.name} (mythic simple template, MR ${t.mr})`, cr: 1 }); steps += 1 }
   for (const a of mon.adjustments) { rows.push({ label: a.label || "Adjustment", cr: num(a.cr) }); steps += num(a.cr) }
   const cr = crAdd(mon.baseCr, steps)
   return { cr, xp: xpOf(cr), rows }
@@ -408,8 +434,103 @@ HOOKS.calc = (out, s, m) => {
     out.spheres.msd = 11 + out.spheres.msb + m("msd")
     out.spheres.concentration = out.spheres.msb + castMod + m("sphereConcentration")
   }
+  // mythic: bonus hit points by HD die for every rank (subtype and templates) beyond the stat block's; the
+  // subtype's natural armor rank by rank
+  const mon = s.monster
+  const racialDie = num(s.classes.find((cl) => cl.racial)?.hd) || num(s.classes.find((cl) => num(cl.level) > 0)?.hd) || 8
+  const perRank = racialDie <= 6 ? 6 : racialDie <= 8 ? 8 : 10
+  const ranks = totalMr(mon)
+  out.hp += perRank * ranks // (the rebuild counts the stat block's own ranks too: its hit points include them)
+  const natDelta = num(mon.mr) - num(mon.baseMr)
+  out.ac += natDelta
+  out.flat += natDelta
+  out.mythic = ranks ? { mr: ranks, perRank, surge: SURGE[Math.min(10, Math.max(1, ranks))] } : null
+  // Mythic Improved Initiative adds the mythic rank to initiative
+  if (ranks && s.features.some((f) => f.mythicFeat && /^Improved Initiative/.test(f.name))) out.init += ranks
   out.spellPool = spellPool(s, out)
 }
+// ---------- mythic (Mythic Adventures) ----------
+// surge die by rank (Table 6-5)
+const SURGE = { 1: "1d6", 2: "1d6", 3: "1d6", 4: "1d8", 5: "1d8", 6: "1d8", 7: "1d10", 8: "1d10", 9: "1d10", 10: "1d12" }
+const totalMr = (mon) => (mon ? num(mon.mr) + (mon.mythicTemplates ?? []).reduce((a, t) => a + num(t.mr), 0) : 0)
+// "10/cold iron or good" + the subtype's epic DR (5/epic at 5-10 HD, 10/epic at 11+): adds epic, takes the higher number
+function epicDr(base, hd) {
+  const epic = hd >= 11 ? 10 : hd >= 5 ? 5 : 0
+  if (!epic) return base ?? ""
+  if (!base) return `${epic}/epic`
+  if (/epic/i.test(base)) return base.replace(/^(\d+)/, (n) => String(Math.max(+n, epic)))
+  const m = base.match(/^(\d+)\/(.+)$/)
+  return m ? `${Math.max(+m[1], epic)}/${m[2]} and epic` : `${base}; ${epic}/epic`
+}
+// the stat block text that follows the mythic rank: DR (epic), SR (+ rank), mythic power
+function refreshMythicText() {
+  const mon = state.monster
+  const hd = calc().hd
+  const ranks = totalMr(mon)
+  const extraDr = (mon.mythicTemplates ?? []).map((t) => t.dr).filter(Boolean)
+  const base = num(mon.mr) ? epicDr(mon.baseDr, hd) : mon.baseDr
+  // several epic DRs (subtype, invincible / savage) are one: the highest
+  const drs = [base, ...extraDr].filter(Boolean)
+  const epics = drs.filter((d) => /^\d+\/epic$/i.test(d))
+  const best = epics.length ? `${Math.max(...epics.map((d) => parseInt(d)))}/epic` : null
+  mon.dr = [...new Set([...drs.filter((d) => !/^\d+\/epic$/i.test(d)), ...(best && !drs.some((d) => /and epic/i.test(d)) ? [best] : [])])].join("; ")
+  const sr = num(mon.baseSr)
+  const arcane = (mon.mythicTemplates ?? []).find((t) => t.srCr)
+  mon.sr = arcane ? String(num(monsterCr().cr) + arcane.srCr) : sr ? String(sr + num(mon.mr) - num(mon.baseMr)) : mon.baseSr ?? ""
+  const power = ranks ? `mythic power (${ranks}/day, surge +${SURGE[Math.min(10, ranks)]})` : ""
+  const sa = String(mon.baseSpecialAttacks ?? "").replace(/,?\s*mythic power \([^)]*\)/i, "").trim().replace(/^,\s*/, "")
+  const tplSa = (mon.mythicTemplates ?? []).map((t) => t.specialAttacks).filter(Boolean)
+  mon.specialAttacks = [sa, ...tplSa, power].filter(Boolean).join(", ")
+  if (ranks && !mon.subtypes.includes("mythic") && num(mon.mr)) mon.subtypes = [...mon.subtypes, "mythic"]
+  if (!num(mon.mr)) mon.subtypes = mon.subtypes.filter((x) => x !== "mythic")
+}
+function setMythicRank(n) {
+  const mon = state.monster
+  mon.mr = Math.max(0, Math.min(10, n))
+  refreshMythicText()
+  changed(true)
+}
+// the five mythic simple templates (Mythic Adventures): rank 1, or 2 at 11+ HD (agile is always 1); CR +1
+const MYTHIC_TEMPLATES = {
+  Agile: { always1: true, rules: "Init +20; AC +2 dodge; mythic bonus hit points; evasion; +30 ft. to all speeds (up to double); dual initiative.",
+    changes: [["20", "init", "untyped"], ["2", "ac", "dodge"]], defensive: "evasion", specialAttacks: "dual initiative", speed: 30 },
+  Arcane: { rules: "AC +2 deflection; mythic bonus hit points; SR equal to its new CR + 11; mythic magic, simple arcane casting.",
+    changes: [["2", "ac", "deflection"]], specialAttacks: "mythic magic, simple arcane casting", srCr: 11 },
+  Divine: { rules: "Aura of grace (+2 sacred, or profane if evil, bonus on saves to it and allies within 10 ft.); AC +2 deflection; mythic bonus hit points; mythic magic, simple divine spellcasting.",
+    changes: [["2", "ac", "deflection"]], aura: "aura of grace (10 ft.)", specialAttacks: "mythic magic, simple divine spellcasting" },
+  Invincible: { rules: "Natural armor +2 (+4 at 11+ HD); mythic bonus hit points; DR and resistance to all energy by HD; block attacks, second save.",
+    natural: [2, 4], energy: true, defensive: "block attacks, second save" },
+  Savage: { rules: "Natural armor +2; mythic bonus hit points; DR and resistance to all energy by HD; all attacks gain bleed 1; feral savagery (full attack).",
+    natural: [2, 2], energy: true, specialAttacks: "bleed 1 (all attacks), feral savagery (full attack)" },
+}
+function applyMythicTemplate(name) {
+  const mon = state.monster
+  const T = MYTHIC_TEMPLATES[name]
+  const hd = calc().hd
+  const mr = T.always1 || hd < 11 ? 1 : 2
+  const entry = { name, mr }
+  if (T.changes) state.features.push(newFeature("misc", { name: `${name} (mythic template)`, monster: true, desc: T.rules,
+    changes: T.changes.map(([formula, target, type]) => ({ formula, target, type, operator: "add" })) }))
+  if (T.natural) addNaturalArmor(hd >= 11 ? T.natural[1] : T.natural[0])
+  if (T.energy) {
+    const res = hd >= 11 ? 15 : hd >= 5 ? 10 : 5
+    mon.resist = [mon.resist, ["acid", "cold", "electricity", "fire", "sonic"].map((e) => `${e} ${res}`).join(", ")].filter(Boolean).join(", ")
+    entry.dr = hd >= 11 ? "10/epic" : hd >= 5 ? "5/epic" : ""
+  }
+  if (T.defensive) mon.defensive = [mon.defensive, T.defensive].filter(Boolean).join(", ")
+  if (T.aura) mon.aura = [mon.aura, T.aura].filter(Boolean).join(", ")
+  if (T.specialAttacks) entry.specialAttacks = T.specialAttacks
+  if (T.srCr) entry.srCr = T.srCr
+  if (T.speed) {
+    state.race.speed = Math.min(num(state.race.speed) * 2, num(state.race.speed) + T.speed)
+    for (const k of ["fly", "swim", "climb", "burrow"]) if (num(mon.speeds?.[k])) mon.speeds[k] = Math.min(num(mon.speeds[k]) * 2, num(mon.speeds[k]) + T.speed)
+  }
+  mon.mythicTemplates = [...(mon.mythicTemplates ?? []), entry]
+  refreshMythicText()
+  toast(`Applied ${name}: MR ${mr}, CR +1`)
+  changed(true)
+}
+
 // the type's racial spherecasting progression (Sphere Bestiary: Creature Type Racial Spherecasting)
 const TYPE_SPHERECASTING = { aberration: "mid", animal: "low", construct: "high", dragon: "high", fey: "mid", humanoid: "mid",
   "magical beast": "mid", "monstrous humanoid": "mid", ooze: "mid", outsider: "mid", plant: "mid", undead: "mid", vermin: "low" }
@@ -487,6 +608,9 @@ HOOKS.exportActor = (actor, c) => {
   if (c.spellPool) actor.items.push(item("feat", "Spell points", { subType: "misc",
     description: { value: toHtml(`Spell pool: ${c.spellPool.max} (caster level ${c.spheres.cl} + casting modifier ${c.spellPool.castMod}${num(mon.extraSpellPoints) ? ` + ${num(mon.extraSpellPoints)} from its tradition` : ""}). A monster starts an encounter with half: ${c.spellPool.start}.`) },
     uses: { per: "day", maxFormula: String(c.spellPool.max), value: c.spellPool.start } }))
+  if (c.mythic) actor.items.push(item("feat", "Mythic power", { subType: "racial",
+    description: { value: toHtml(`Mythic rank ${c.mythic.mr}: mythic power ${c.mythic.mr}/day, surge +${c.mythic.surge}.`) },
+    uses: { per: "day", maxFormula: String(c.mythic.mr), value: c.mythic.mr } }))
   // the stat block's text pieces, for reference
   const notes = [["Aura", mon.aura], ["Defensive abilities", mon.defensive], ["Special attacks", mon.specialAttacks],
     ["Spell-like abilities", mon.sla], ["Spells", mon.spells], ["Special qualities", mon.sq], ["Gear", mon.gearText]].filter(([, v]) => v)
@@ -514,11 +638,14 @@ panels.monster = () => {
     ["Ref", mon.printed.ref, c.saveTotals.ref], ["Will", mon.printed.will, c.saveTotals.will], ["BAB", mon.printed.bab, c.bab],
     ["CMB", mon.printed.cmb, c.cmb], ["CMD", mon.printed.cmd, c.cmd]]
   const edited = mon.templates.length || num(mon.addedHd) || state.classes.some((cl) => !cl.racial && !cl.fromBase)
+    || num(mon.mr) !== num(mon.baseMr) || (mon.mythicTemplates ?? []).length
   return [
     h("div", { class: "row" }, h("h2", { style: "margin:0" }, mon.base.name), h("span", { class: "muted" }, `${mon.base.source}`),
       h("div", { class: "spacer" }), h("a", { href: mon.base.url, target: "_blank", rel: "noopener" }, "On Archives of Nethys"),
       h("button", { onclick: () => openMonsterPicker() }, "Load another"),
       h("button", { class: "primary", onclick: () => exportStatBlock() }, "Stat block")),
+    h("div", { class: "row" }, checkbox("mythicEnabled", "Mythic (mythic ranks, mythic templates, mythic monsters in the search)")),
+    state.mythicEnabled ? mythicCard(c) : null,
     // CR and XP, with each adjustment
     h("div", { class: "card" },
       h("div", { class: "group-title", style: "margin-top:0" }, `Challenge rating: CR ${r.cr} (${xpOf(r.cr).toLocaleString("en-US")} XP)`),
@@ -606,6 +733,30 @@ panels.monster = () => {
   ]
 }
 
+function mythicCard(c) {
+  const mon = state.monster
+  const mr = num(mon.mr)
+  const ranks = totalMr(mon)
+  const rankBox = h("input", { type: "number", min: 0, max: 10, value: mr, style: "width:5rem", "aria-label": "Mythic rank" })
+  rankBox.addEventListener("change", () => setMythicRank(+rankBox.value))
+  const gained = (fn) => fn(mr) - fn(num(mon.baseMr))
+  const abilityBonuses = gained((r) => Math.floor(r / 2))
+  const feats = gained((r) => Math.ceil(r / 2))
+  const abilities = gained((r) => (r ? r + 1 : 0))
+  const suggest = Math.max(1, Math.floor((Number(mon.baseCr) || 1) / 2))
+  return h("div", { class: "card" },
+    h("div", { class: "group-title", style: "margin-top:0" }, `Mythic${ranks ? `: MR ${ranks}` : ""}`),
+    h("div", { class: "row" },
+      field("Mythic rank (subtype)", rankBox, `Usually half the original CR (${suggest}). CR +1/2 MR.`),
+      h("span", { class: "note" }, "Mythic simple templates (MR 1, or 2 at 11+ HD; CR +1):"),
+      ...Object.keys(MYTHIC_TEMPLATES).map((n) => h("button", { class: "small", title: MYTHIC_TEMPLATES[n].rules, disabled: (mon.mythicTemplates ?? []).some((t) => t.name === n),
+        onclick: () => applyMythicTemplate(n) }, n))),
+    ranks ? h("p", { class: "note" }, `Mythic power ${ranks}/day (surge +${SURGE[Math.min(10, ranks)]}); +${c.mythic.perRank} hp per rank${mr ? `; natural armor +${mr}${num(mon.baseMr) ? " (stat block's included)" : ""}; DR ${mon.dr || "—"}${mon.sr ? `; SR ${mon.sr}` : ""}` : ""}.`) : null,
+    mr && (abilityBonuses > 0 || feats > 0 || abilities > 0) ? h("p", { class: "note" }, `To add by hand for the ranks gained: ${[abilityBonuses > 0 ? `${abilityBonuses} × +2 to an ability score (Abilities tab)` : "", feats > 0 ? `${feats} mythic feat${feats > 1 ? "s" : ""}` : "", abilities > 0 ? `${abilities} mythic abilit${abilities > 1 ? "ies" : "y"} (path abilities or universal monster rules)` : ""].filter(Boolean).join(", ")}.`) : null,
+    (mon.mythicTemplates ?? []).length ? h("div", {}, ...mon.mythicTemplates.map((t, i) => h("div", { class: "row" },
+      h("b", {}, `${t.name}`), h("span", { class: "muted" }, `MR ${t.mr}, CR +1`), h("span", { class: "note" }, MYTHIC_TEMPLATES[t.name].rules),
+      h("button", { class: "small danger", onclick: () => { mon.mythicTemplates.splice(i, 1); refreshMythicText(); toast("Removed from the CR and MR; stat changes it made stay"); changed(true) } }, "Remove")))) : null)
+}
 function advancementNotes(c) {
   const mon = state.monster
   const added = num(mon.addedHd)
@@ -867,7 +1018,7 @@ function statBlockText() {
   const classLine = s.classes.filter((cl) => !cl.racial && num(cl.level) > 0).map((cl) => `${cl.name.toLowerCase()} ${num(cl.level)}`).join("/")
   const ab = (k) => (s.abilities[k] == null ? "—" : c.abl[k].total)
   const L = []
-  L.push(`${s.name || mon.base.name}    CR ${r.cr}`)
+  L.push(`${s.name || mon.base.name}    CR ${r.cr}${totalMr(mon) ? `/MR ${totalMr(mon)}` : ""}`)
   L.push(`XP ${xpOf(r.cr).toLocaleString("en-US")}`)
   if (classLine) L.push(`${mon.base.name} ${classLine}`)
   L.push(`${al} ${sizeName(s.race.size)} ${type}`)
