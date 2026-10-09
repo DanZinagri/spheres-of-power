@@ -2867,7 +2867,7 @@ COMPENDIUM = {
     },
     "Weather": {
         "system": "Spheres of Power",
-        "approved": False,
+        "approved": True,
         "pages": [
             # Control Weather, its weather types (wind, cold, heat, precipitation, aridity, and the
             # ash / fallout / vog effects) as options
@@ -2878,6 +2878,20 @@ COMPENDIUM = {
             ("Weather", "Advanced Weather Talents", "advanced talent", 4),
             ("Weather Sphere Feats", "(page)", "feat", 4),
             ("Weather Sphere Drawbacks", "(page)", "drawback", 4),
+        ],
+        "not_options": r"^Table|^Note",
+    },
+    "Bear": {
+        "system": "Spheres of Power",
+        "approved": False,
+        "pages": [
+            # Bear Spirit, with Bear Strength (the page's sections are top-level headings)
+            ("Bear", "Bear Spirit", "sphere ability", 1, 4),
+            ("Bear", "Bear Talents", "talent", 4),
+            ("Bear", "Bearacteristics", "talent", 4),
+            ("Bear", "Advanced Bear Talents", "advanced talent", 4),
+            # its one feat is on Champion Feats
+            ("Champion Feats", "(page)", "feat", 4, {"prereq": r"\bBear sphere", "group": "General"}),
         ],
         "not_options": r"^Table|^Note",
     },

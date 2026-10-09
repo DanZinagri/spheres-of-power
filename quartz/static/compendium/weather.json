@@ -1,7 +1,7 @@
 {
  "sphere": "Weather",
  "system": "Spheres of Power",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "weather/control-weather",
