@@ -59,6 +59,7 @@ function masterCard(fields, note) {
 // An archetype's abilities are added as features to apply by hand; the standard abilities it
 // replaces (share spells, evasion, ...) come off the sheet.
 const kindState = () => (VARIANT === "companion" ? state.companion : state.familiar)
+const ARCHETYPE_STACK_NOTE = "Tick as many as you want: archetypes can be combined as long as they don't replace or alter the same abilities, which isn't checked here. Each one's abilities are added as features, and the standard abilities it replaces come off the sheet; nothing else is changed for you."
 const baseName = (n) => String(n).replace(/\s*\((?:Ex|Su|Sp)\)/g, "").trim().toLowerCase()
 const replacedByArchetypes = () => new Set((kindState()?.archetypes ?? []).flatMap((a) => a.replaces ?? []))
 function addArchetype(a) {
@@ -67,7 +68,6 @@ function addArchetype(a) {
   state.features = state.features.filter((f) => f.archetype !== a.name)
   for (const ab of a.abilities) state.features.push(newFeature("misc", { name: ab.name, desc: ab.text, monster: true, archetype: a.name }))
   changed(true)
-  toast(`${a.name} added`)
 }
 function removeArchetype(name) {
   const k = kindState()
@@ -78,15 +78,20 @@ function removeArchetype(name) {
 async function openArchetypePicker() {
   const box = h("input", { type: "search", placeholder: "Search archetypes", "aria-label": "Search archetypes" })
   const results = h("div", { class: "picker-results", role: "list" }, h("p", { class: "muted" }, "Loading archetypes…"))
-  const dlg = openDialog(VARIANT === "companion" ? "Add a companion archetype" : "Add a familiar archetype", h("div", { class: "row picker-filters" }, box), results)
+  const dlg = openDialog(VARIANT === "companion" ? "Companion archetypes" : "Familiar archetypes",
+    h("p", { class: "note" }, ARCHETYPE_STACK_NOTE), h("div", { class: "row picker-filters" }, box), results,
+    h("div", { class: "row add-row" }, h("button", { class: "primary", onclick: () => dlg.done() }, "Done")))
   let all = []
-  const have = new Set((kindState().archetypes ?? []).map((a) => a.name))
   const render = () => {
     const q = box.value.trim().toLowerCase()
     const hits = all.filter((a) => !q || a.name.toLowerCase().includes(q) || a.intro.toLowerCase().includes(q))
-    fill(results, ...hits.map((a) => h("button", { class: "picker-item", role: "listitem", disabled: have.has(a.name), onclick: () => { dlg.done(); addArchetype(a) } },
-      h("span", { class: "pi-name" }, a.name, h("span", { class: "pi-meta" }, ` ${a.abilities.map((x) => baseName(x.name)).join(", ")}`)),
-      h("span", { class: "pi-pre" }, `${a.replaces.length ? `Replaces ${a.replaces.join(", ")}. ` : ""}${a.source}`))),
+    fill(results, ...hits.map((a) => {
+      const cb = h("input", { type: "checkbox", checked: (kindState().archetypes ?? []).some((x) => x.name === a.name) })
+      cb.addEventListener("change", () => (cb.checked ? addArchetype(a) : removeArchetype(a.name)))
+      return h("label", { class: "picker-item", role: "listitem", style: "cursor:pointer" },
+        h("span", { class: "pi-name" }, cb, " ", a.name, h("span", { class: "pi-meta" }, ` ${a.abilities.map((x) => baseName(x.name)).join(", ")}`)),
+        h("span", { class: "pi-pre" }, `${a.replaces.length ? `Replaces ${a.replaces.join(", ")}. ` : ""}${a.source}`))
+    }),
     hits.length ? null : h("p", { class: "muted" }, all.length ? "No archetypes match." : "Couldn't load the archetypes."))
   }
   box.addEventListener("input", render)
@@ -97,14 +102,14 @@ function archetypeCard() {
   const list = kindState().archetypes ?? []
   return h("div", { class: "card" },
     h("div", { class: "row" }, h("div", { class: "group-title", style: "margin:0" }, "Archetypes"), h("div", { class: "spacer" }),
-      h("button", { class: "small", onclick: () => openArchetypePicker() }, "+ Add archetype")),
+      h("button", { class: "small", onclick: () => openArchetypePicker() }, "+ Add archetypes")),
     ...list.map((a) => h("div", { class: "row" }, h("b", {}, a.name), h("span", { class: "muted" }, a.source),
       a.replaces?.length ? h("span", { class: "note" }, `Replaces ${a.replaces.join(", ")}.`) : null, h("div", { class: "spacer" }),
       h("a", { href: a.url, target: "_blank", rel: "noopener" }, "On Archives of Nethys"),
       h("button", { class: "small danger", onclick: () => removeArchetype(a.name) }, "Remove"))),
     h("p", { class: "note" }, list.length
       ? "The archetype's abilities are on the Feats & Features tab: apply any numbers they change there or on this tab. The standard abilities it replaces have been taken off the sheet."
-      : "An archetype's abilities are added as features, and the standard abilities it replaces are taken off the sheet."))
+      : ARCHETYPE_STACK_NOTE))
 }
 
 // features this file keeps up to date carry auto: <variant>; they are rebuilt, the rest are the user's

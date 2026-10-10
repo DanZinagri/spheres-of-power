@@ -5,7 +5,7 @@
 "use strict"
 
 const COHORT = { data: null }
-const blankCohort = () => ({ leader: "", ranks: 1, skill: "dip", job: null, growth: [], increases: [], skillChoices: [], caster: "", casting: "prepared", utility: false })
+const blankCohort = () => ({ hpSet: false, leader: "", ranks: 1, skill: "dip", job: null, growth: [], increases: [], skillChoices: [], caster: "", casting: "prepared", utility: false })
 const cohortRow = () => {
   const table = COHORT.data?.progression ?? []
   return table[Math.min(table.length, Math.max(1, Math.floor(num(state.cohort?.ranks)))) - 1] ?? { ranks: 1, hd: 1, bab: 1, good: 2, bad: 0, feats: 1, talents: 0 }
@@ -20,6 +20,8 @@ function cohortNum(path, attrs = {}) {
 // everything the job and the leader's ranks decide, worked out again whenever either changes
 function syncCohort() {
   const co = (state.cohort ??= blankCohort()), job = co.job
+  // a cohort is a nonplayer character: average hit points per Hit Die (the Classes tab can change it)
+  if (!co.hpSet) { state.hpMode = "average"; co.hpSet = true }
   if (!job || !COHORT.data) return
   const row = cohortRow()
   const growths = Math.floor(row.ranks / 4), increases = Math.floor(row.hd / 4)
@@ -157,6 +159,8 @@ panels.cohort = () => {
 
 // ---------- hooks ----------
 HOOKS.changed = () => syncCohort()
+// average hit points round down once, as a creature's do
+HOOKS.calc = (out, s) => { if (s.cohort && s.hpMode === "average") out.hp = Math.floor(out.hp) }
 HOOKS.summary = () => {
   const co = state.cohort
   if (!co?.job) return []

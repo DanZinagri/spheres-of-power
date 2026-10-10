@@ -101,7 +101,7 @@ async function buildSheetPdf() {
   const headW = px - M - 12
   let y = H - M
   text(fit(charName, 22, headW, bold), M, y - 20, 22, bold)
-  const classLine = s.classes.filter((cl) => cl.name && num(cl.level) > 0).map((cl) => `${cl.name} ${cl.level}`).join(" / ")
+  const classLine = s.classes.filter((cl) => cl.name && num(cl.level) > 0).map((cl) => `${classFullName(cl)} ${cl.level}`).join(" / ")
   text(fit([s.race.name, classLine].filter(Boolean).join("  ·  ") || "Pathfinder 1e character", 10.5, headW), M, y - 36, 10.5, font, SOFT)
   line(M, y - 44, M + headW, y - 44, ACCENT, 1.5)
   y -= 52

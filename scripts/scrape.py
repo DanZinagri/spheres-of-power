@@ -4415,6 +4415,46 @@ def _rules_summary(text: str, limit: int = 160, whole: bool = False) -> str:
     return s if len(s) <= limit else s[:limit].rsplit(" ", 1)[0] + "…"
 
 
+def build_class_archetypes() -> int:
+    """compendium/class-archetypes.json for the builders' "Archetypes" picker: each class's archetypes by
+    class name. Spheres archetypes come from the home Classes tables (Spheres classes, and the Spheres
+    archetypes for Pathfinder classes); Pathfinder ones from the Archives of Nethys crawl
+    (compendium/pf1e/archetypes.json). Names only: the builders add them to the class's name."""
+    files = {f.stem: f for f in CONTENT.rglob("*.md") if ARCHIVE not in f.relative_to(CONTENT).parts}
+    home = (CONTENT / "index.md").read_text(encoding="utf-8")
+    out: dict[str, list[dict]] = {}
+    at = home.find("## Classes")
+    for line in home[at:].split("\n") if at >= 0 else []:
+        cells = re.split(r"(?<!\\)\|", line)
+        if not line.startswith("| **") or len(cells) < 4:
+            continue
+        m = re.search(r"\[\[([^\]|\\]+)|\[([^\]]+)\]\(", cells[1])
+        if not m:
+            continue
+        # "Monk, Unchained" is "Monk (Unchained)" in the class data
+        cls = re.sub(r"^(.+), (Unchained)$", r"\1 (\2)", (m.group(1) or m.group(2)).strip())
+        for target, label in re.findall(r"\[\[([^\]|\\#]+)(?:\\?\|([^\]]*))?\]\]", cells[2]):
+            f = files.get(target.strip())
+            out.setdefault(cls, []).append({"name": (label or target).strip(), "system": "Spheres", "url": _page_url(f) if f else "",
+                                            "source": ""})
+    pf = COMPENDIUM_OUT / "pf1e" / "archetypes.json"
+    stats = COMPENDIUM_OUT / "pf1e" / "class-stats.json"
+    names = sorted((c["name"] for c in json.loads(stats.read_text(encoding="utf-8")).get("classes", [])), key=len, reverse=True) \
+        if stats.exists() else []
+    for e in json.loads(pf.read_text(encoding="utf-8"))["entries"] if pf.exists() else []:
+        m = re.search(r"FixedName=(.+)$", e["url"])
+        fixed = urllib.parse.unquote(m.group(1)) if m else ""
+        cls = next((n for n in names if fixed.startswith(n + " ")), None) or fixed[:-len(e["name"])].strip()
+        if not cls or cls in ("Companion", "Familiar"):
+            continue
+        out.setdefault(cls, []).append({"name": e["name"], "system": "Pathfinder", "url": e["url"], "source": e["source"]})
+    for cls in out:
+        out[cls].sort(key=lambda a: (a["system"] != "Spheres", a["name"].lower()))
+    COMPENDIUM_OUT.mkdir(parents=True, exist_ok=True)
+    (COMPENDIUM_OUT / "class-archetypes.json").write_text(json.dumps({"classes": out}, ensure_ascii=False, indent=1), encoding="utf-8")
+    return sum(len(v) for v in out.values())
+
+
 COHORT_PAGE = "Leadership"  # the Leadership sphere: Table: Cohort, the cohort jobs, the caster tables
 
 
@@ -7319,6 +7359,7 @@ def convert(with_images: bool) -> None:
     print(f"Compendium feats: {build_feat_compendium()}")
     print(f"Compendium traits: {build_trait_compendium()}")
     print(f"Cohort jobs: {build_cohort_jobs()}")
+    print(f"Class archetypes: {build_class_archetypes()}")
     print(f"Compendium races: {build_race_compendium()}")
     print(f"Martial traditions: {build_martial_traditions()}")
     print(f"Casting tradition drawbacks: {build_casting_traditions()}")

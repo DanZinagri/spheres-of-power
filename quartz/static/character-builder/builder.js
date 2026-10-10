@@ -615,6 +615,61 @@ function classLink(d) {
   return d.system === "Pathfinder" ? d.url : `../../${d.url}`
 }
 
+// ---------- class archetypes ----------
+// A class's archetypes are picked by name (compendium/class-archetypes.json: Spheres archetypes
+// from this site, Pathfinder ones from Archives of Nethys) and added to the class's name in the
+// header, the PDF and the export. They don't change the class's features here: any number can be
+// ticked, and what they replace is applied by hand.
+const ARCHETYPE_NOTE = "Archetypes are added to the class's name; the builder doesn't change class features for them. Several can be combined as long as they don't replace or alter the same features (that isn't checked here), so apply what they change by hand."
+const classFullName = (cls, fallback = "") => `${cls.name || fallback}${(cls.archetypes ?? []).length ? ` (${cls.archetypes.join(", ")})` : ""}`
+function archetypesFor(cls, data) {
+  const d = CLASS_DATA.byKey[cls.classRef]
+  // by the class's name, or its page's name ("Warden (warden-class)"), whatever the punctuation
+  const norm = (t) => String(t).toLowerCase().replace(/[^a-z0-9]/g, "")
+  const keys = [d?.name, d?.label, d?.url ? decodeURIComponent(d.url.split("/").pop()) : "", cls.name].filter(Boolean).map(norm)
+  for (const k of keys) {
+    const hit = Object.keys(data.classes).find((name) => norm(name) === k)
+    if (hit) return data.classes[hit]
+  }
+  return []
+}
+async function openClassArchetypes(cls) {
+  const box = h("input", { type: "search", placeholder: "Search archetypes", "aria-label": "Search archetypes" })
+  const results = h("div", { class: "picker-results", role: "list" }, h("p", { class: "muted" }, "Loading archetypes…"))
+  const custom = h("input", { placeholder: "Another archetype's name", "aria-label": "Another archetype's name", style: "flex:1" })
+  const picked = () => (cls.archetypes ??= [])
+  let all = []
+  const finish = () => { dlg.done(); changed(true) }
+  const dlg = openDialog(`Archetypes: ${cls.name || "class"}`, h("p", { class: "note" }, ARCHETYPE_NOTE), h("div", { class: "row picker-filters" }, box), results,
+    h("div", { class: "row add-row" }, custom,
+      h("button", { onclick: () => { const n = custom.value.trim(); if (n && !picked().includes(n)) picked().push(n); custom.value = ""; changed(); render() } }, "Add by name"),
+      h("button", { class: "primary", onclick: finish }, "Done")))
+  dlg.addEventListener("close", () => changed(true))
+  const toggle = (name, on) => {
+    cls.archetypes = on ? [...picked().filter((n) => n !== name), name] : picked().filter((n) => n !== name)
+    changed()
+  }
+  const row = (name, meta, url) => {
+    const cb = h("input", { type: "checkbox", checked: picked().includes(name) })
+    cb.addEventListener("change", () => toggle(name, cb.checked))
+    return h("label", { class: "picker-item", role: "listitem", style: "cursor:pointer" },
+      h("span", { class: "pi-name" }, cb, " ", name, url ? h("a", { class: "pi-meta", href: url, target: "_blank", rel: "noopener", onclick: (e) => e.stopPropagation() }, " open") : null),
+      h("span", { class: "pi-pre" }, meta))
+  }
+  const render = () => {
+    const q = box.value.trim().toLowerCase()
+    const listed = new Set(all.map((a) => a.name))
+    const extra = picked().filter((n) => !listed.has(n))
+    const hits = all.filter((a) => !q || a.name.toLowerCase().includes(q))
+    fill(results, ...extra.map((n) => row(n, "Added by name")),
+      ...hits.map((a) => row(a.name, a.system === "Spheres" ? "Spheres" : a.source || "Pathfinder", a.system === "Spheres" ? (a.url ? `../../${a.url}` : "") : a.url)),
+      hits.length || extra.length ? null : h("p", { class: "muted" }, all.length ? "No archetypes match." : "No archetypes are listed for this class; add one by name below."))
+  }
+  box.addEventListener("input", render)
+  loadCompendium("class-archetypes.json", { classes: {} }).then((d) => { all = archetypesFor(cls, d); render() })
+  box.focus()
+}
+
 function classPicker(cls) {
   const groups = {}
   // Spheres classes only when "Spheres for PF1e" is on (a row already set to one keeps it listed)
@@ -753,7 +808,7 @@ function renderHeader() {
   const nameEl = document.getElementById("charName")
   if (document.activeElement !== nameEl) nameEl.value = state.name
   document.getElementById("spheresToggle").checked = !!state.spheresModule
-  const classes = state.classes.filter((c) => c.name && num(c.level) > 0).map((c) => `${c.name} ${c.level}`)
+  const classes = state.classes.filter((c) => c.name && num(c.level) > 0).map((c) => `${classFullName(c)} ${c.level}`)
   const bits = [ALIGNMENTS[state.details.alignment], state.race.name, classes.join(" / ")].filter(Boolean)
   document.getElementById("charLine").textContent = bits.join(" · ") || "Pathfinder 1e character for Foundry VTT"
 }
@@ -923,6 +978,8 @@ const panels = {
       return h("div", { class: "class-row" },
         field("Class", classPicker(cls)),
         field(cls.classRef ? "Name" : "Class name", input(p + "name", { placeholder: "Fighter, Incanter, …", style: "width:12rem" })),
+        cls.racial || cls.cohort ? null : h("div", { class: "field" }, h("span", {}, "Archetypes"),
+          h("button", { class: "small", title: ARCHETYPE_NOTE, onclick: () => openClassArchetypes(cls) }, (cls.archetypes ?? []).length ? cls.archetypes.join(", ") : "+ Add archetype")),
         field("Level", input(p + "level", { type: "number", min: 0, max: 40 })),
         field("Hit die", select(p + "hd", { 4: "d4", 6: "d6", 8: "d8", 10: "d10", 12: "d12" }, {}, { number: true })),
         field("BAB", select(p + "bab", PROGRESSION)),
@@ -971,7 +1028,7 @@ const panels = {
       h("div", { class: "row", style: "margin-top:.75rem" },
         h("button", { onclick: () => { if (state.tradeTraditions) addClassWithTrade(); else { state.classes.push(blankClass(false)); changed(true) } } }, "+ Add class"),
         h("div", { class: "spacer" }),
-        field("Hit points", select("hpMode", { ...(MODE === "monster" ? { average: "Average per Hit Die (no maximum at 1st)" } : {}),
+        field("Hit points", select("hpMode", { ...(MODE === "monster" || VARIANT === "cohort" ? { average: "Average per Hit Die (no maximum at 1st)" } : {}),
           pfs: "Max at 1st level, then half + 1", max: "Maximum every level", custom: "Enter per class" })),
       ),
       h("div", { class: "card row", style: "margin-top:.75rem" },
@@ -2937,7 +2994,7 @@ function buildActor() {
       tag,
       level: num(cls.level),
       hd: num(cls.hd),
-      hp: c.classHp[i],
+      hp: state.hpMode === "average" ? Math.floor(c.classHp[i]) : c.classHp[i],
       bab: cls.bab,
       skillsPerLevel: num(cls.skills),
       savingThrows: { fort: { value: cls.fort }, ref: { value: cls.ref }, will: { value: cls.will } },
@@ -2945,7 +3002,7 @@ function buildActor() {
       fc: { hp: { value: cls.favored ? num(cls.fcbHp) : 0 }, skill: { value: cls.favored ? num(cls.fcbSkill) : 0 }, alt: { value: 0 } },
     }
     const extra = s.spheresModule && cls.caster !== "none" ? { flags: { pf1spheres: { casterProgression: cls.caster } } } : {}
-    items.push(item("class", cls.name || `Class ${i + 1}`, system, extra))
+    items.push(item("class", classFullName(cls, `Class ${i + 1}`), system, extra))
   })
 
   for (const f of s.features)
