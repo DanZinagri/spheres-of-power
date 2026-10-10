@@ -20,7 +20,9 @@ const POWERS = {
   Blood: { powers: [["Blood control", 1, "r"], ["Extract blood construct", 1, "r"]], mods: [["Change (quicken)/(still) effect", 1]] },
   Conjuration: { powers: [["Summon companion", 0, "r"]], mods: [["(form) talent", 1], ["Duration step (Lingering Companion / Greater Summoning)", 1]] },
   Creation: { powers: [["Alter (repair or destroy)", 1, "inst"], ["Create object", 0, "r"]], mods: [["Change alter effect", 1]] },
-  Dark: { powers: [["Darkness", 0, "r"]], mods: [["Shadow talent effect", 1]] },
+  // the rules page prices the older sphere's "darkness", which is what gloom now does; cloak (the
+  // single-target half of the Polished sphere) isn't on it, and follows the other touch powers here
+  Dark: { powers: [["Gloom (area of darkness)", 0, "r"], ["Cloak (one target; not on the rules page)", 1, "r"]], mods: [["Shadow talent effect", 1]] },
   Death: { powers: [["Ghost strike", 1, "var"], ["Reanimate", 1, "r"]], mods: [["Empowered ghost strike", 1], ["Change ghost strike", 1], ["Reanimate multiple targets", 2], ["+1 HD reanimated", 1]] },
   Destruction: { powers: [["Destructive blast", 1, "inst"]], mods: [["1 damage die per caster level", 1]] },
   Divination: { powers: [["Divine", 2, "conc"], ["Sense", 0, "m"]], mods: [["Change divine subject", 1]] },
@@ -260,6 +262,12 @@ function talentRule(r, c) {
       if (name === "mass alteration") return [2, "Mass Alteration is +2"]
       break
     case "Dark":
+      // gloom: one (blot) changes the darkness for free, as does swapping it for a (meld);
+      // cloak: its effect is a (meld) (free) or a (shadow) (the usual +1)
+      if (Number(c.power) === 1) {
+        if (tags.includes("meld") && firstWith("meld")) return [0, "a cloak carries one (meld) for free"]
+        break
+      }
       if (tags.includes("blot") && firstWith("blot")) return [0, "one (blot) talent replaces the darkness for free"]
       if (tags.includes("meld") && firstWith("meld")) return [0, "one (meld) talent replaces the darkness for free"]
       break
@@ -328,6 +336,13 @@ function rowChecks(r, c, cl) {
       const either = /\bor\b/.test(String(hit.prerequisites ?? ""))
       if (named.length && (either ? missing.length === named.length : missing.length))
         out.warnings.push(`${hit.name} needs ${either ? "one of " : ""}${missing.join(either ? " or " : ", ")} added to the effect first (its prerequisites: ${hit.prerequisites}).`)
+    }
+    // Dark: (blot) and (darkness) options shape a gloom; a cloak takes a (meld) or a (shadow)
+    if (c.sphere === "Dark" && Number(c.power) === 1) {
+      const t = (hit.tags ?? []).map((x) => String(x).toLowerCase())
+      if (t.length && !t.includes("meld") && !t.includes("shadow")) out.warnings.push(`${hit.name} is a (${t.join(", ")}) option, which modifies a gloom: a cloak takes a (meld) or (shadow) option.`)
+      if (c.rows.filter((x) => x.kind === "talent" && rowTags(x, c.sphere).some((g) => g === "meld" || g === "shadow")).length > 1 && c.rows.find((x) => rowMatch(x, c.sphere)?.entry === hit) === r && t.some((g) => g === "meld" || g === "shadow"))
+        out.notes.push("Only one (meld) or (shadow) can be added to a single cloak: mark the others as variant options if the user chooses between them.")
     }
     // Mana's manipulation: no Transfer, and Gift Of Knowledge needs a talent to give
     if (c.sphere === "Mana" && Number(c.power) === 1) {
@@ -732,7 +747,7 @@ function renderComp(c, i, it) {
 
 // the sphere's base abilities the chosen base power is built on: Cure for a Life cure, not Restore
 // or Invigorate. A power none of them is named for (or a custom one) shows them all.
-const POWER_ABILITY = { "Life:2": "Invigorate", "Illusion:0": "Illusion", "Mana:1": "Manipulation/Amp" }
+const POWER_ABILITY = { "Life:2": "Invigorate", "Illusion:0": "Illusion", "Mana:1": "Manipulation/Amp", "Dark:0": "Gloom", "Dark:1": "Cloak" }
 function baseAbilities(c) {
   const all = COMPENDIUM.entries.filter((e) => e.sphere === c.sphere && e.kind === "sphere ability")
   const power = POWERS[c.sphere]?.powers[c.power]
@@ -1016,7 +1031,7 @@ function refresh() {
     }
     foot.push(...x.r.lines.map(esc))
     // what the compendium says about the rows: sphere pricing rules applied, likely spell point costs
-    foot.push(...(x.r.notes ?? []).map((n) => `<span class="note">${esc(n)}</span>`))
+    foot.push(...[...new Set(x.r.notes ?? [])].map((n) => `<span class="note">${esc(n)}</span>`))
     foot.push(`Price ${esc(x.r.formula)} = <b>${gp(x.r.price)}</b>${x.r.saveDc ? ` · save DC ${x.r.saveDc}` : ""}${x.r.minCl > 1 ? ` · min CL ${x.r.minCl}` : ""}`)
     out(`foot-${i}`, foot.map((f) => `<div>${f}</div>`).join(""))
   })
@@ -1248,7 +1263,7 @@ document.getElementById("fileLoad").addEventListener("change", async (e) => {
 // which talent tags fit each base power (others are still possible, just less likely)
 const POWER_TAGS = {
   "Alteration:0": ["transformation", "body"], "Bear:0": ["bearacteristic"], "Blood:0": ["quicken", "still", "blood art"],
-  "Conjuration:0": ["form"], "Creation:0": ["alter"], "Creation:1": ["material"], "Dark:0": ["darkness", "shadow", "blot"],
+  "Conjuration:0": ["form"], "Creation:0": ["alter"], "Creation:1": ["material"], "Dark:0": ["darkness", "blot"], "Dark:1": ["meld", "shadow"],
   "Death:0": ["ghost strike"], "Destruction:0": ["blast type", "blast shape"], "Divination:0": ["divine"], "Divination:1": ["sense"],
   "Enhancement:0": ["enhance"], "Fallen Fey:0": ["fey-blessing"], "Fate:0": ["consecration", "word", "motif"], "Illusion:0": ["glamer", "sensory"],
   "Life:0": ["cure"], "Life:2": ["vitality"], "Light:0": ["light", "lens", "nimbus"], "Mana:0": ["expunge"], "Mana:1": ["manipulation"], "Mind:0": ["charm"],
