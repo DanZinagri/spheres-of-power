@@ -420,9 +420,8 @@ body[data-slug="Tools/index"] .page-listing {
 .sop-icon-tool-conjuration {
   --icon: url("/static/icons/game-icons/robot-golem.png");
 }
-// a tool with no icon yet keeps the same indent as the rest
-.sop-icon-none {
-  visibility: hidden;
+.sop-icon-tool-loot {
+  --icon: url("/static/icons/game-icons/open-treasure-chest.png");
 }
 .sop-icon-tool-cohort {
   --icon: url("/static/icons/game-icons/crested-helmet.png");

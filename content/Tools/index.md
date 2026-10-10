@@ -10,7 +10,7 @@ This is a list of resources to help with character or campaign crafting.
 
 - <span class="sop-icon sop-icon-tool-character" aria-hidden="true"></span>[[Character Builder]] - Build a Pathfinder 1e character, with or without Spheres, and export it as a file you can import into Foundry VTT.
 - <span class="sop-icon sop-icon-tool-crafter" aria-hidden="true"></span>[[Item Crafter]] - Price a Spheres of Power magic item and work out its crafting cost, time, check DC and requirements.
-- <span class="sop-icon sop-icon-none" aria-hidden="true"></span>[[Loot Generator]] - Generate a treasure pile to a budget and a theme: coins, gems, art and jewelry, mundane gear and magic items, from Pathfinder and Spheres tables.
+- <span class="sop-icon sop-icon-tool-loot" aria-hidden="true"></span>[[Loot Generator]] - Generate a treasure pile to a budget and a theme: coins, gems, art and jewelry, mundane gear and magic items, from Pathfinder and Spheres tables.
 - <span class="sop-icon sop-icon-tool-monster" aria-hidden="true"></span>[[Monster Creator]] - Load a Pathfinder monster, apply templates, add Hit Dice, class levels or sphere talents, and export a Foundry NPC or a stat block, with the CR worked out for you.
 - <span class="sop-icon sop-icon-tool-companion" aria-hidden="true"></span>[[Animal Companion Builder]] - Build an animal companion at any level, with the Beastmastery sphere's options, and export a Foundry actor, a PDF sheet or a stat block.
 - <span class="sop-icon sop-icon-tool-familiar" aria-hidden="true"></span>[[Familiar Builder]] - Build a familiar, an improved familiar or a Beastmastery pet from its master's statistics, and export a Foundry actor, a PDF sheet or a stat block.

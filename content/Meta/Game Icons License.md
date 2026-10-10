@@ -27,6 +27,7 @@ Some icons on this site come from [game-icons.net](https://game-icons.net), used
 | Cat | Familiar Builder (Tools page) | [Lorc](http://lorcblog.blogspot.com) |
 | Crested helmet | Cohort Builder (Tools page) | [Lorc](http://lorcblog.blogspot.com) |
 | Robot golem | Conjuration Companion Builder (Tools page) | [Lorc](http://lorcblog.blogspot.com) |
+| Open treasure chest | Loot Generator (Tools page) | Skoll |
 | Achievement | Feat Types (home page) | Skoll |
 | Allied star | Base PF1e Classes (home page) | Skoll |
 
