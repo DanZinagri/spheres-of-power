@@ -376,6 +376,34 @@ iframe.sop-tool {
 .sop-icon-creatures {
   --icon: url("/static/icons/game-icons/squid.png");
 }
+// the Tools page: an icon beside each tool, no bullets
+.sop-tools > ul {
+  list-style: none;
+  padding-left: 0;
+
+  & > li {
+    margin: 0.5rem 0;
+  }
+}
+.sop-icon-tool-character {
+  --icon: url("/static/icons/game-icons/barbute.png");
+}
+.sop-icon-tool-crafter {
+  --icon: url("/static/icons/game-icons/battle-gear.png");
+}
+.sop-icon-tool-monster {
+  --icon: url("/static/icons/game-icons/crowned-skull.png");
+}
+.sop-icon-tool-companion {
+  --icon: url("/static/icons/game-icons/hawk-emblem.png");
+}
+.sop-icon-tool-familiar {
+  --icon: url("/static/icons/game-icons/hollow-cat.png");
+}
+// a tool with no icon yet keeps the same indent as the rest
+.sop-icon-none {
+  visibility: hidden;
+}
 .sop-icon-pf1e {
   --icon: url("/static/icons/game-icons/allied-star.png");
 }
