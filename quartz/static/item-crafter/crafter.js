@@ -33,7 +33,7 @@ const POWERS = {
   Life: { powers: [["Cure", 1, "inst"], ["Restore", 1, "inst"], ["Temporary hit points (1 per caster level)", 1, "m"]],
     mods: [["Usable as a cure or a restore, or another restore variant (per extra option)", 1], ["All options in one use", 2], ["Add temporary hit points to a cure or restore", 1]] },
   Light: { powers: [["Glow", 0, "m"]], mods: [["Lesser light (normal light only)", -1], ["Lens instead of light", 1], ["(nimbus) talent", 1]] },
-  Mana: { powers: [["Expunge (Spellburn)", 2, "inst"], ["Manipulate", 2, "1rd"]], mods: [["Alternate expunge / manipulation", 1], ["Enhanced expunge / manipulation", 2], ["Manabond", 2]] },
+  Mana: { powers: [["Expunge (Spellburn)", 2, "inst"], ["Manipulate", 2, "1rd"]], mods: [["Alternate expunge / manipulation (not in the compendium)", 1], ["Enhanced expunge / manipulation (not in the compendium)", 2], ["Manabond (not in the compendium)", 2]] },
   Mind: { powers: [["Suggestion charm", 1, "charm"]], mods: [["Alternate charm", 1], ["Open Mind (any creature type)", 1], ["Mass charm", 2], ["Greater charm", 1], ["Powerful charm", 3], ["Cloud", 2]] },
   Nature: { powers: [["Geomancing", 0, "r"]], mods: [["Greater geomancing", 1], ["Nature spirit", 1]] },
   Protection: { powers: [["Aegis", 0, "m"], ["Ward", 0, "r"]], mods: [["Change aegis or ward", 1], ["Keep the aegis alongside a (succor)", 1]] },
@@ -269,9 +269,16 @@ function talentRule(r, c) {
     case "Illusion":
       if (name === "suppression") return [2, "Suppression is +2"]
       break
-    case "Mana":
+    case "Mana": {
       if (tags.includes("manabond")) return [2, "a manabond talent is +2"]
+      // an (expunge) or (manipulation) talent swaps the base effect (+1, the usual price); an untagged
+      // talent that changes how the expunge or the manipulation works is "enhanced" (+2)
+      const about = `${hit.name} ${hit.summary ?? ""}`.toLowerCase()
+      const expunge = Number(c.power) === 0
+      const modifies = expunge ? /expunge|spellburn/.test(about) : /manipulat|shuffle/.test(about) || name === "retained imbuement"
+      if (!tags.length && modifies) return [2, `a talent that modifies the ${expunge ? "expunge" : "manipulation"} is +2`]
       break
+    }
     case "Mind":
       if (tags.includes("cloud")) return [2, "a (cloud) talent is +2"]
       break
@@ -321,6 +328,12 @@ function rowChecks(r, c, cl) {
       const either = /\bor\b/.test(String(hit.prerequisites ?? ""))
       if (named.length && (either ? missing.length === named.length : missing.length))
         out.warnings.push(`${hit.name} needs ${either ? "one of " : ""}${missing.join(either ? " or " : ", ")} added to the effect first (its prerequisites: ${hit.prerequisites}).`)
+    }
+    // Mana's manipulation: no Transfer, and Gift Of Knowledge needs a talent to give
+    if (c.sphere === "Mana" && Number(c.power) === 1) {
+      if (norm(hit.name) === "transfer") out.warnings.push("The Transfer talent can't be put in an item's manipulation effect.")
+      if (norm(hit.name) === "gift of knowledge" && c.rows.filter((x) => x.kind === "talent" || x.kind === "advanced").length < 2)
+        out.warnings.push("Gift Of Knowledge needs another talent in the item for it to grant.")
     }
     const sp = guessSp(hit)
     if (sp && !(Number(r.sp) > 0)) out.notes.push(`${hit.name}'s text mentions spending ${sp > 1 ? `${sp} spell points` : "a spell point"}: set its SP if this use needs it (+1 complexity each).`)
