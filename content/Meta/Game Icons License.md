@@ -19,7 +19,7 @@ Some icons on this site come from [game-icons.net](https://game-icons.net), used
 | Stone tablet | Other Options (home page) | [Lorc](http://lorcblog.blogspot.com) |
 | Squid | Creatures (home page) | [Lorc](http://lorcblog.blogspot.com) |
 | Stone sphere | About the Spheres (home page) | [Lorc](http://lorcblog.blogspot.com) |
-| Cog | Other Resources (home page) | [Lorc](http://lorcblog.blogspot.com) |
+| Cog | Other Resources (home page) and the Tools page title | [Lorc](http://lorcblog.blogspot.com) |
 | Barbute | Character Builder (Tools page) | [Lorc](http://lorcblog.blogspot.com) |
 | Battle gear | Item Crafter (Tools page) | [Lorc](http://lorcblog.blogspot.com) |
 | Crowned skull | Monster Creator (Tools page) | [Lorc](http://lorcblog.blogspot.com) |

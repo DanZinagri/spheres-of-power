@@ -376,6 +376,18 @@ iframe.sop-tool {
 .sop-icon-creatures {
   --icon: url("/static/icons/game-icons/squid.png");
 }
+// the Tools page's title gets the cog too (the same icon as the home page's Other Resources, which lists it)
+body[data-slug="Tools"] h1.article-title::before {
+  content: "";
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin-right: 0.35em;
+  vertical-align: -0.12em;
+  background-color: currentColor;
+  -webkit-mask: url("/static/icons/game-icons/cog.png") center / contain no-repeat;
+  mask: url("/static/icons/game-icons/cog.png") center / contain no-repeat;
+}
 // the Tools page: an icon beside each tool, no bullets
 .sop-tools > ul {
   list-style: none;
