@@ -518,7 +518,11 @@ function familiarPanel() {
       h("button", { onclick: () => exportStatBlock() }, "Stat block")),
     h("div", { class: "card" },
       h("div", { class: "row" },
-        field("Kind", select("familiar.kind", { familiar: "Familiar (class feature)", pet: "Pet (Beastmastery sphere)" })),
+        (() => {
+          const box = h("input", { type: "checkbox", checked: pet })
+          box.addEventListener("change", () => { fam.kind = box.checked ? "pet" : "familiar"; changed(true) })
+          return h("div", { class: "field" }, h("span", {}, " "), h("label", { class: "row", style: "gap:.3rem" }, box, "Pet (Beastmastery sphere)"))
+        })(),
         h("div", { class: "field" }, h("span", {}, " "), checkbox("familiar.improved", pet ? "Improved Pet" : "Improved Familiar")),
         pet ? null : field("Master's familiar level", numField("familiar.level", { min: 1, max: 20, style: "width:5.5rem" }), "Levels of classes that grant a familiar"),
         h("div", { class: "stat", style: "min-width:7rem" }, h("b", {}, String(L)), h("span", {}, "Effective level"))),
