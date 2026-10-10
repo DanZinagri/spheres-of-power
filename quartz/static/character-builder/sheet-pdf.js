@@ -109,7 +109,7 @@ async function buildSheetPdf() {
   const colW = headW / 3
   let rows = [
     [["Player", d.player], ["Alignment", ALIGNMENTS[d.alignment]], ["Deity", d.deity]],
-    [["Race", s.race.name], ["Size", SIZES[s.race.size]?.[0]], ["Speed", `${num(s.race.speed)} ft.`]],
+    [["Race", s.race.name], ["Size", SIZES[s.race.size]?.[0]], ["Speed", [`${num(s.race.speed)} ft.`, ...["climb", "swim", "fly", "burrow"].filter((k) => num(s.race[k])).map((k) => `${k} ${num(s.race[k])} ft.`)].join(", ")]],
     [["Gender", d.gender], ["Age", d.age], ["Homeland", d.homeland]],
     [["Height", d.height], ["Weight", d.weight], ["Level", String(c.hd)]],
   ]

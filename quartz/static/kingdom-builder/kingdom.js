@@ -70,13 +70,73 @@ const save = () => { try { localStorage.setItem(STORAGE_KEY, JSON.stringify(stat
 const n0 = (v) => Math.max(0, Number(v) || 0)
 
 // ---- the sums ----
+// ---- the district grid ----
+// A district is 6 lots by 6 (nine blocks of four, with streets between the blocks). Each settlement
+// keeps a grid per district: the buildings placed on it (name and the lots covered) and whether each
+// border is land or water. Buildings that take no lot (walls, moats, streets, sewers) are "extras".
+const SIDE = 6
+const SIDES = [["n", "North"], ["e", "East"], ["s", "South"], ["w", "West"]]
+const blankGrid = () => ({ borders: { n: "land", e: "land", s: "land", w: "land" }, placed: [] })
+const owners = (grid) => { const map = new Array(LOTS).fill(-1); grid.placed.forEach((b, i) => b.cells.forEach((c) => (map[c] = i))); return map }
+// the lots a building covers from its top-left one: 1, 2 (side by side, or one above the other) or a square of 4
+function shape(lots, cell, tall) {
+  const r = Math.floor(cell / SIDE), c = cell % SIDE
+  const at = lots >= 4 ? [[0, 0], [0, 1], [1, 0], [1, 1]] : lots === 2 ? (tall ? [[0, 0], [1, 0]] : [[0, 0], [0, 1]]) : [[0, 0]]
+  const cells = at.map(([dr, dc]) => (r + dr < SIDE && c + dc < SIDE ? (r + dr) * SIDE + c + dc : -1))
+  return cells.includes(-1) ? null : cells
+}
+function fits(grid, lots, cell, tall) {
+  const cells = shape(lots, cell, tall), map = owners(grid)
+  return cells && cells.every((c) => map[c] < 0) ? cells : null
+}
+// put a building on the first free lots (a new district when every one is full)
+function autoPlace(set, name) {
+  const def = DATA.byName.get(name)
+  if (!def) return
+  if (!def.lots) { addExtra(set, name); return }
+  for (;;) {
+    for (const grid of set.grids) for (let cell = 0; cell < LOTS; cell++) for (const tall of [false, true]) {
+      const cells = fits(grid, def.lots, cell, tall)
+      if (cells) { grid.placed.push({ name, cells }); return }
+    }
+    set.grids.push(blankGrid())
+  }
+}
+function addExtra(set, name, qty = 1) {
+  set.extras ??= []
+  const hit = set.extras.find((b) => b.name === name)
+  if (hit) hit.qty = n0(hit.qty) + qty
+  else set.extras.push({ name, qty })
+}
+// a settlement saved before the grid kept a plain list: lay it out
+function ensureGrids(set) {
+  if (!Array.isArray(set.grids)) {
+    const old = set.buildings ?? []
+    set.grids = Array.from({ length: Math.max(1, n0(set.districts) || 1) }, blankGrid)
+    set.extras = []
+    for (const r of old) for (let k = 0; k < n0(r.qty); k++) autoPlace(set, r.name)
+    delete set.buildings
+  }
+  if (!set.grids.length) set.grids.push(blankGrid())
+  set.extras ??= []
+  for (const g of set.grids) { g.borders = { ...blankGrid().borders, ...(g.borders ?? {}) }; g.placed = (g.placed ?? []).filter((b) => DATA.byName.has(b.name)) }
+  set.districts = set.grids.length
+}
+const neighbours = (cell) => { const r = Math.floor(cell / SIDE), c = cell % SIDE; return [r > 0 ? cell - SIDE : -1, r < SIDE - 1 ? cell + SIDE : -1, c > 0 ? cell - 1 : -1, c < SIDE - 1 ? cell + 1 : -1].filter((x) => x >= 0) }
+const edges = (cell) => { const r = Math.floor(cell / SIDE), c = cell % SIDE; return [r === 0 ? "n" : "", r === SIDE - 1 ? "s" : "", c === 0 ? "w" : "", c === SIDE - 1 ? "e" : ""].filter(Boolean) }
+const kindList = (text) => text.replace(/\b(?:a|an)\s+/g, "").split(/,\s*or\s+|,\s*|\s+or\s+/).map((k) => k.trim().replace(/^Houses$/, "House")).filter((k) => DATA.byName.has(k))
+
 function settlementTotals(s) {
-  const rows = (s.buildings ?? []).map((r) => ({ row: r, def: DATA.byName.get(r.name), qty: n0(r.qty) })).filter((x) => x.def)
-  const districts = Math.max(1, n0(s.districts) || 1)
-  const present = new Set(rows.filter((x) => x.qty).map((x) => x.def.name))
+  ensureGrids(s)
+  const districts = s.grids.length
+  const count = new Map()
+  for (const g of s.grids) for (const b of g.placed) count.set(b.name, (count.get(b.name) ?? 0) + 1)
+  const rows = [...[...count].map(([name, qty]) => ({ def: DATA.byName.get(name), qty })),
+    ...s.extras.map((row, j) => ({ row, j, def: DATA.byName.get(row.name), qty: n0(row.qty), extra: true })).filter((x) => x.def)]
+    .sort((a, b) => a.def.name.localeCompare(b.def.name))
   // a building halves the cost of the first of each kind it discounts
   const discounted = new Set(rows.filter((x) => x.qty).flatMap((x) => x.def.discount))
-  const out = { rows, districts, lots: 0, bp: 0, bpDiscounted: 0, economy: 0, loyalty: 0, stability: 0, unrest: 0, fame: 0, defense: 0, baseValue: 0, settlement: {}, items: [], notes: [] }
+  const out = { rows, districts, lots: 0, bp: 0, bpDiscounted: 0, economy: 0, loyalty: 0, stability: 0, unrest: 0, fame: 0, defense: 0, baseValue: 0, settlement: {}, items: [], notes: [], flagged: new Set() }
   for (const { def, qty } of rows) {
     if (!qty) continue
     out.lots += def.lots * qty
@@ -87,20 +147,39 @@ function settlementTotals(s) {
     out.baseValue += def.baseValue * qty
     for (const [k, v] of Object.entries(def.settlement)) out.settlement[k] = (out.settlement[k] ?? 0) + v * qty
     if (def.magicItems) out.items.push(`${qty > 1 ? qty + " × " : ""}${def.name}: ${def.magicItems}`)
-    const per = /1 per settlement/.test(def.limit) ? 1 : /1 per district/.test(def.limit) ? districts : 0
-    if (per && qty > per) out.notes.push(`${def.name}: ${def.limit.match(/1 per \w+/)[0]}.`)
-    const need = def.limit.match(/Adjacent to (\d) (House[^,]*(?:, [A-Z][a-z]+(?: [A-Z][a-z]+)?)*(?:,? or [A-Z][a-z]+(?: [A-Z][a-z]+)?)?)/)
-    if (need) {
-      const kinds = [...new Set([...need[2].replace(/Houses/, "House").split(/, or |, | or /), "Tenement"])].filter((k) => DATA.byName.has(k))
-      if (!kinds.some((k) => present.has(k))) out.notes.push(`${def.name} must be next to ${need[1] === "2" ? "2 Houses" : need[2].replace(/, or /, " or ")}.`)
-    }
+    if (/1 per settlement/.test(def.limit) && qty > 1) out.notes.push(`${def.name}: 1 per settlement.`)
+    if (def.extra !== false && !def.lots && /1 per district/.test(def.limit) && qty > districts) out.notes.push(`${def.name}: 1 per district.`)
   }
+  // where things stand: limits that depend on the lots beside a building and the district's borders
+  s.grids.forEach((g, gi) => {
+    const map = owners(g), where = districts > 1 ? ` (district ${gi + 1})` : ""
+    const beside = g.placed.map((b) => [...new Set(b.cells.flatMap(neighbours).map((c) => map[c]).filter((i) => i >= 0 && g.placed[i] !== b))])
+    const used = new Set() // a House can only meet one neighbour's need
+    const perDistrict = new Map()
+    g.placed.forEach((b, bi) => {
+      const def = DATA.byName.get(b.name)
+      const flag = (text) => { out.notes.push(`${text}${where}.`); out.flagged.add(`${gi}.${bi}`) }
+      perDistrict.set(b.name, (perDistrict.get(b.name) ?? 0) + 1)
+      if (/1 per district/.test(def.limit) && perDistrict.get(b.name) === 2) flag(`${b.name}: 1 per district`)
+      const need = def.limit.match(/Adjacent to (\d) ([A-Z][^;]*?)(?:,? 1 per|$)/)
+      if (need) {
+        const kinds = [...new Set([...kindList(need[2]), ...(/House/.test(need[2]) ? ["Tenement"] : [])])]
+        const free = beside[bi].filter((i) => kinds.includes(g.placed[i].name) && !used.has(i)).slice(0, Number(need[1]))
+        free.forEach((i) => used.add(i))
+        if (free.length < Number(need[1])) flag(`${b.name} must stand beside ${need[1] === "1" ? "a" : need[1]} ${need[2].replace(/^1 /, "")} not already serving another building`)
+      }
+      const bar = def.limit.match(/Cannot be adjacent to (.+)$/)
+      if (bar) { const hit = beside[bi].find((i) => kindList(bar[1]).includes(g.placed[i].name)); if (hit !== undefined) flag(`${b.name} can't stand beside a ${g.placed[hit].name}`) }
+      if (/water district border/.test(def.limit) && !b.cells.flatMap(edges).some((e) => g.borders[e] === "water")) flag(`${b.name} must be on a water border`)
+    })
+  })
+  const land = s.grids.reduce((a, g) => a + SIDES.filter(([k]) => g.borders[k] === "land").length, 0)
+  for (const { def, qty } of rows) if (/^Land district border/.test(def.limit) && qty > land) out.notes.push(`${def.name}: one per land border, and the settlement has ${land}.`)
   out.population = out.lots * 250
   const size = SETTLEMENT_SIZE.find((r) => out.population <= r[0])
   out.sizeName = size[1]
   out.value = Math.min(out.baseValue, size[2])
   out.cap = size[2]
-  if (out.lots > districts * LOTS) out.notes.push(`${out.lots} lots of buildings; ${districts} district${districts === 1 ? " has" : "s have"} ${districts * LOTS}.`)
   return out
 }
 
@@ -205,24 +284,58 @@ function leaderRow(role, t) {
     <td>${l.filled ? adds : "—"}</td></tr>`
 }
 
+// what is being placed in each settlement (not saved), and the building picked on a grid
+const tools = {}
+let picked = null // { i, g, p }
+const track = (c) => c + Math.floor(c / 2) + 1 // a lot's grid line: a narrow track stands in for each street
+const span = (cells) => { const rs = cells.map((c) => Math.floor(c / SIDE)), cs = cells.map((c) => c % SIDE); return `grid-row:${track(Math.min(...rs))}/${track(Math.max(...rs)) + 1};grid-column:${track(Math.min(...cs))}/${track(Math.max(...cs)) + 1}` }
+const EDGE = { land: "var(--tertiary)", water: "var(--secondary)" }
+
+function districtGrid(s, t, i, g, gi) {
+  const map = owners(g), tool = tools[i]
+  const tracks = "repeat(2,minmax(0,1fr)) 7px repeat(2,minmax(0,1fr)) 7px repeat(2,minmax(0,1fr))"
+  const empty = map.map((o, c) => (o < 0 ? `<button type="button" data-lot="${i}.${gi}.${c}" title="Lot ${c + 1}${tool?.name ? `: build a ${esc(tool.name)}` : ""}"
+      style="${span([c])};border:1px dashed var(--gray);background:transparent;border-radius:3px;min-height:0;padding:0;cursor:${tool?.name ? "copy" : "default"}"></button>` : "")).join("")
+  const built = g.placed.map((b, bi) => { const on = picked && picked.i === i && picked.g === gi && picked.p === bi, bad = t.flagged.has(`${gi}.${bi}`); return `<button type="button" data-placed="${i}.${gi}.${bi}" title="${esc(b.name)}"
+      style="${span(b.cells)};border:${on ? 2 : 1}px solid ${bad ? "var(--warn)" : on ? "var(--secondary)" : "var(--gray)"};background:var(--highlight);color:inherit;border-radius:3px;min-height:0;padding:1px 2px;font-size:.68rem;line-height:1.05;overflow:hidden;cursor:pointer">${esc(b.name)}</button>` }).join("")
+  const b = g.borders
+  return `<div style="flex:1 1 24rem;max-width:32rem;min-width:17rem">
+    <div class="row" style="gap:.4rem;align-items:center"><b>District ${gi + 1}</b> <span class="pi-meta">${g.placed.reduce((a, x) => a + x.cells.length, 0)} of ${LOTS} lots</span><span class="spacer"></span>
+      ${s.grids.length > 1 && !g.placed.length ? `<button type="button" data-deldistrict="${i}.${gi}">Remove</button>` : ""}</div>
+    <div style="display:grid;grid-template-columns:${tracks};grid-template-rows:${tracks};gap:3px;aspect-ratio:1;padding:5px;margin:.3rem 0;
+      border-top:5px solid ${EDGE[b.n]};border-right:5px solid ${EDGE[b.e]};border-bottom:5px solid ${EDGE[b.s]};border-left:5px solid ${EDGE[b.w]};border-radius:4px">${empty}${built}</div>
+    <div class="row" style="gap:.35rem">${SIDES.map(([k, l]) => `<label class="pi-meta">${l} <select data-border="${i}.${gi}.${k}">${opt("land", "land", b[k])}${opt("water", "water", b[k])}</select></label>`).join("")}</div>
+  </div>`
+}
+
 function settlementCard(x, i) {
   const { s, t } = x
-  const row = ({ row, def, qty }, j) => `<tr>
-      <td>${numIn(`data-bqty="${i}.${j}" min="0" max="99"`, row.qty, "3.6rem")}</td>
+  const tool = (tools[i] ??= { name: "", tall: false })
+  const toolDef = DATA.byName.get(tool.name)
+  const row = ({ row, j, def, qty, extra }) => `<tr>
+      <td>${extra ? numIn(`data-xqty="${i}.${j}" min="0" max="99"`, row.qty, "3.6rem") : qty}</td>
       <td>${ext(DATA.urls.buildings, def.name)} <span class="pi-meta">${def.lots ? `${def.lots} lot${def.lots === 1 ? "" : "s"}` : "no lot"}</span>
-        ${def.limit || def.special ? `<div class="note">${esc([def.limit, def.special].filter(Boolean).join(". "))}</div>` : ""}
-        ${def.upgradeTo.length ? `<div class="note">Upgrades to ${def.upgradeTo.map((n) => { const to = DATA.byName.get(n); return to ? `<a href="#" data-upgrade="${i}.${j}" data-to="${esc(n)}" title="Swap one for a ${esc(n)}: pay the difference, ${Math.max(0, to.bp - def.bp)} BP">${esc(n)}</a>` : esc(n) }).join(", ")}</div>` : ""}</td>
+        ${def.limit || def.special ? `<div class="note">${esc([def.limit, def.special].filter(Boolean).join(". "))}</div>` : ""}</td>
       <td>${esc(modsText(def.kingdom)) || "—"}</td>
       <td>${esc([modsText(def.settlement), def.baseValue ? `base value +${num(def.baseValue)} gp` : "", def.defense ? `Defense +${def.defense}` : ""].filter(Boolean).join("; ")) || "—"}</td>
       <td class="num">${num(def.bp * (qty || 1))} BP</td>
-      <td><button type="button" data-bremove="${i}.${j}" title="Remove">✕</button></td></tr>`
+      <td>${extra ? `<button type="button" data-xremove="${i}.${j}" title="Remove">✕</button>` : ""}</td></tr>`
+  const sel = picked && picked.i === i ? s.grids[picked.g]?.placed[picked.p] : null
+  const selDef = sel ? DATA.byName.get(sel.name) : null
   return `<section class="card">
     <div class="row">
       ${field("Settlement", `<input type="text" data-set="${i}" data-key="name" value="${esc(s.name ?? "")}" placeholder="Name" style="width:14rem" />`)}
-      ${field("Districts", numIn(`data-set="${i}" data-key="districts" min="1" max="20"`, s.districts ?? 1, "4.5rem"), `${t.lots} of ${t.districts * LOTS} lots used`)}
-      ${field("Add a building", `<select data-addbuilding="${i}"><option value="">Choose…</option>${DATA.buildings.map((b) => `<option value="${esc(b.name)}">${esc(b.name)} (${b.bp} BP${b.lots > 1 ? `, ${b.lots} lots` : ""})</option>`).join("")}</select>`)}
-      <span class="spacer"></span><button type="button" data-setremove="${i}">Remove settlement</button>
+      ${field("Build", `<select data-tool="${i}"><option value="">Choose a building…</option>${DATA.buildings.map((b) => `<option value="${esc(b.name)}" ${b.name === tool.name ? "selected" : ""}>${esc(b.name)} (${b.bp} BP, ${b.lots ? `${b.lots} lot${b.lots === 1 ? "" : "s"}` : "no lot"})</option>`).join("")}</select>`,
+        toolDef ? `Click an empty lot to build it${toolDef.lots === 4 ? " (the lot is its top-left corner)" : ""}` : "Then click an empty lot; buildings with no lot are added straight away")}
+      ${toolDef?.lots === 2 ? `<label class="field"><span>&nbsp;</span><span class="row" style="gap:.3rem"><input type="checkbox" data-tall="${i}" ${tool.tall ? "checked" : ""} /> North to south</span></label>` : ""}
+      <span class="spacer"></span><button type="button" data-adddistrict="${i}">Add a district</button><button type="button" data-setremove="${i}">Remove settlement</button>
     </div>
+    ${toolDef ? `<p class="note" style="margin:.2rem 0">${esc([toolDef.name, modsText(toolDef.kingdom), toolDef.limit, toolDef.special].filter(Boolean).join(" · "))}</p>` : ""}
+    ${sel ? `<p style="margin:.3rem 0"><b>${esc(sel.name)}</b> <span class="pi-meta">${esc([modsText(selDef.kingdom), selDef.limit].filter(Boolean).join(" · "))}</span>
+      <button type="button" data-premove="1">Demolish</button>
+      ${selDef.upgradeTo.filter((n) => DATA.byName.has(n)).map((n) => `<button type="button" data-pupgrade="${esc(n)}" title="Pay the difference: ${Math.max(0, DATA.byName.get(n).bp - selDef.bp)} BP">Upgrade to ${esc(n)}</button>`).join("")}</p>` : ""}
+    <div class="row" style="align-items:flex-start;gap:1.2rem">${s.grids.map((g, gi) => districtGrid(s, t, i, g, gi)).join("")}</div>
+    <p class="note">Borders: <span style="color:${EDGE.land}">■</span> land, <span style="color:${EDGE.water}">■</span> water. Click a building to demolish or upgrade it. Lots that share an edge count as adjacent, across alleys and streets alike.</p>
     ${t.rows.length ? `<div class="table-wrap"><table class="mods">
       <thead><tr><th>#</th><th>Building</th><th>Kingdom</th><th>Settlement</th><th class="num">Cost</th><th></th></tr></thead><tbody>${t.rows.map(row).join("")}</tbody></table></div>
       <div class="table-wrap"><table class="mods"><tbody>
@@ -234,7 +347,7 @@ function settlementCard(x, i) {
       </tbody></table></div>
       ${t.items.length ? `<p class="note"><b>Magic item slots:</b> ${esc(t.items.join("; "))}</p>` : ""}
       ${t.notes.map((n) => `<p class="warn">⚠ ${esc(n)}</p>`).join("")}`
-      : `<p class="muted">Add this settlement's buildings. A first settlement usually starts with an Inn, Shrine, Monastery or Watchtower, and a House or Tenement.</p>`}
+      : `<p class="muted">Choose a building and click a lot. A first settlement usually starts with an Inn, Shrine, Monastery or Watchtower, and a House or Tenement beside it.</p>`}
   </section>`
 }
 
@@ -310,7 +423,7 @@ function render() {
       ${t.flags.Ruler ? `<p class="warn">⚠ No Ruler: the kingdom can't claim hexes, make Farms, build Roads or buy districts.</p>` : ""}
     </section>
     <section class="card">
-      <p class="note">Rules: ${ext(DATA.urls.rules, "Kingdom Building")} (${ext(DATA.urls.leadership, "leadership roles")}, ${ext(DATA.urls.edicts, "edicts")}, ${ext(DATA.urls.improvements, "terrain improvements")}, ${ext(DATA.urls.settlements, "settlements")}, ${ext(DATA.urls.buildings, "buildings")}) on Archives of Nethys, from Pathfinder RPG Ultimate Campaign. A building's Unrest change happens once when it is finished, so set Unrest yourself. Not modeled: the district grid (which lots are adjacent, and land or water borders), events, armies, special terrain, and the optional rules (fame and infamy, forms of government, trade and special edicts).</p>
+      <p class="note">Rules: ${ext(DATA.urls.rules, "Kingdom Building")} (${ext(DATA.urls.leadership, "leadership roles")}, ${ext(DATA.urls.edicts, "edicts")}, ${ext(DATA.urls.improvements, "terrain improvements")}, ${ext(DATA.urls.settlements, "settlements")}, ${ext(DATA.urls.buildings, "buildings")}) on Archives of Nethys, from Pathfinder RPG Ultimate Campaign. A building's Unrest change happens once when it is finished, so set Unrest yourself. Not modeled: events, armies, special terrain, and the optional rules (fame and infamy, forms of government, trade and special edicts).</p>
     </section>`
 }
 
@@ -336,21 +449,21 @@ function toast(msg) {
   toast.timer = setTimeout(() => (t.hidden = true), 2500)
 }
 const value = (el) => (el.type === "checkbox" ? el.checked : el.type === "number" ? Number(el.value) || 0 : el.value)
-function addBuilding(set, name, qty = 1) {
-  set.buildings ??= []
-  const hit = set.buildings.find((b) => b.name === name)
-  if (hit) hit.qty = n0(hit.qty) + qty
-  else set.buildings.push({ name, qty })
-}
 
 $("panel").addEventListener("change", (e) => {
   const el = e.target, d = el.dataset
   if (d.leader) state.leaders[d.leader][d.key] = value(el)
   else if (d.improved) state.improved[d.improved] = n0(el.value)
   else if (d.other) state.other[d.other] = Number(el.value) || 0
-  else if (d.addbuilding && el.value) addBuilding(state.settlements[Number(d.addbuilding)], el.value)
+  else if (d.tool) {
+    const i = Number(d.tool), def = DATA.byName.get(el.value)
+    tools[i] = { name: def?.lots ? el.value : "", tall: tools[i]?.tall ?? false }
+    if (def && !def.lots) addExtra(state.settlements[i], def.name)
+    picked = null
+  } else if (d.tall) tools[Number(d.tall)].tall = el.checked
+  else if (d.border) { const [i, g, k] = d.border.split("."); state.settlements[Number(i)].grids[Number(g)].borders[k] = el.value }
+  else if (d.xqty) { const [i, j] = d.xqty.split(".").map(Number); state.settlements[i].extras[j].qty = n0(el.value) }
   else if (d.set) state.settlements[Number(d.set)][d.key] = value(el)
-  else if (d.bqty) { const [i, j] = d.bqty.split(".").map(Number); state.settlements[i].buildings[j].qty = n0(el.value) }
   else if (d.opt) state[d.opt] = value(el)
   else return
   save()
@@ -358,16 +471,36 @@ $("panel").addEventListener("change", (e) => {
 })
 $("panel").addEventListener("click", (e) => {
   const el = e.target, d = el.dataset
-  if (d.bremove) { const [i, j] = d.bremove.split(".").map(Number); state.settlements[i].buildings.splice(j, 1) }
-  else if (d.upgrade) {
-    e.preventDefault()
-    const [i, j] = d.upgrade.split(".").map(Number), set = state.settlements[i], row = set.buildings[j]
-    row.qty = n0(row.qty) - 1
-    if (row.qty <= 0) set.buildings.splice(j, 1)
-    addBuilding(set, d.to)
-  } else if (d.setremove) state.settlements.splice(Number(d.setremove), 1)
-  else if (el.id === "btnSettlement") state.settlements.push({ name: state.settlements.length ? "" : "Capital", districts: 1, buildings: [] })
-  else if (el.id === "btnClear") state = blank()
+  if (d.lot) {
+    const [i, g, c] = d.lot.split(".").map(Number), tool = tools[i], def = DATA.byName.get(tool?.name)
+    if (!def) { toast("Choose a building to place first"); return }
+    const grid = state.settlements[i].grids[g]
+    const cells = fits(grid, def.lots, c, tool.tall) ?? (def.lots === 2 ? fits(grid, def.lots, c, !tool.tall) : null)
+    if (!cells) { toast(`A ${def.name} doesn't fit there`); return }
+    grid.placed.push({ name: def.name, cells })
+    picked = null
+  } else if (d.placed) {
+    const [i, g, p2] = d.placed.split(".").map(Number)
+    picked = picked && picked.i === i && picked.g === g && picked.p === p2 ? null : { i, g, p: p2 }
+    render()
+    return
+  } else if (d.premove && picked) { state.settlements[picked.i].grids[picked.g].placed.splice(picked.p, 1); picked = null }
+  else if (d.pupgrade && picked) {
+    const grid = state.settlements[picked.i].grids[picked.g], old = grid.placed[picked.p], def = DATA.byName.get(d.pupgrade)
+    grid.placed.splice(picked.p, 1)
+    // the new building keeps the old one's lots, growing onto free ones beside it if it is bigger
+    const anchors = Array.from({ length: LOTS }, (_, c) => c)
+    let cells = def.lots === old.cells.length ? old.cells : null
+    for (const a of anchors) for (const tall of [false, true]) { const f = !cells && fits(grid, def.lots, a, tall); if (f && old.cells.every((c) => f.includes(c))) cells = f }
+    if (!cells) { grid.placed.splice(picked.p, 0, old); toast(`No room for a ${def.name}: free the lots beside it`); return }
+    grid.placed.push({ name: def.name, cells })
+    picked = null
+  } else if (d.xremove) { const [i, j] = d.xremove.split(".").map(Number); state.settlements[i].extras.splice(j, 1) }
+  else if (d.adddistrict) state.settlements[Number(d.adddistrict)].grids.push(blankGrid())
+  else if (d.deldistrict) { const [i, g] = d.deldistrict.split(".").map(Number); state.settlements[i].grids.splice(g, 1); picked = null }
+  else if (d.setremove) { state.settlements.splice(Number(d.setremove), 1); picked = null }
+  else if (el.id === "btnSettlement") state.settlements.push({ name: state.settlements.length ? "" : "Capital", grids: [blankGrid()], extras: [] })
+  else if (el.id === "btnClear") { state = blank(); picked = null }
   else if (el.id === "btnCopy") { navigator.clipboard?.writeText(summary()).then(() => toast("Copied"), () => toast("Couldn't copy")); return }
   else return
   save()
