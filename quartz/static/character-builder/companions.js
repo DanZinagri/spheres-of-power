@@ -57,11 +57,14 @@ function masterCard(fields, note) {
 
 // ---------- archetypes (companion and familiar archetypes, Archives of Nethys) ----------
 // An archetype's abilities are added as features to apply by hand; the standard abilities it
-// replaces (share spells, evasion, ...) come off the sheet.
+// replaces (share spells, evasion, ...) are listed beside it and stay on the sheet for the user to
+// disregard.
 const kindState = () => (VARIANT === "companion" ? state.companion : state.familiar)
-const ARCHETYPE_STACK_NOTE = "Tick as many as you want: archetypes can be combined as long as they don't replace or alter the same abilities, which isn't checked here. Each one's abilities are added as features, and the standard abilities it replaces come off the sheet; nothing else is changed for you."
+const ARCHETYPE_STACK_NOTE = "Tick as many as you want: archetypes can be combined as long as they don't replace or alter the same abilities, which isn't checked here. Each one's abilities are added as features. Nothing is taken off the sheet for you: what an archetype replaces is listed beside it, to apply by hand."
 const baseName = (n) => String(n).replace(/\s*\((?:Ex|Su|Sp)\)/g, "").trim().toLowerCase()
-const replacedByArchetypes = () => new Set((kindState()?.archetypes ?? []).flatMap((a) => a.replaces ?? []))
+// what the applied archetypes replace is shown beside each one, and left to the user: nothing comes
+// off the sheet for an archetype (so this is always empty)
+const replacedByArchetypes = () => new Set()
 function addArchetype(a) {
   const k = kindState()
   k.archetypes = [...(k.archetypes ?? []).filter((x) => x.name !== a.name), { name: a.name, url: a.url, source: a.source, replaces: a.replaces }]
@@ -108,7 +111,7 @@ function archetypeCard() {
       h("a", { href: a.url, target: "_blank", rel: "noopener" }, "On Archives of Nethys"),
       h("button", { class: "small danger", onclick: () => removeArchetype(a.name) }, "Remove"))),
     h("p", { class: "note" }, list.length
-      ? "The archetype's abilities are on the Feats & Features tab: apply any numbers they change there or on this tab. The standard abilities it replaces have been taken off the sheet."
+      ? "The archetypes' abilities are on the Feats & Features tab. Nothing has been taken off the sheet: disregard what each one replaces, and apply any numbers they change there or on this tab."
       : ARCHETYPE_STACK_NOTE))
 }
 
