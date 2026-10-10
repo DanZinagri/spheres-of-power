@@ -4938,11 +4938,25 @@ def build_race_compendium() -> dict[str, int]:
     # the ability adjustment line is shown on the Race tab, not offered as a racial trait
     is_stat_line = lambda name: bool(re.match(r"^[+\-–−]\d", name.strip())) or \
         bool(re.match(r"^(?:ability score (?:adjustments?|modifiers?)|ability scores?)$", name.strip(), re.I))
+    def subrace_swaps(md: str, alternates: list[str]) -> dict:
+        """What a subrace / heritage trades: its labelled lines ("Alternate Skill Modifiers": "Heal,
+        Knowledge (planes)"), the race's alternate racial traits it names, and the standard traits its
+        own traits replace ("The following racial traits replace blood sense and sense poison")."""
+        stats = [[m.group(1).strip(), re.sub(r"[*_]", "", m.group(2)).strip(" :.")]
+                 for m in re.finditer(r"^\s*\*\*([^*\n]{3,40}?)\*\*:?[ \t]+(\S[^\n]*)$", md, re.M)]
+        flat = re.sub(r"[*_]", "", md).lower().replace("’", "'")
+        named = [a for a in sorted(alternates, key=len, reverse=True)
+                 if len(a) > 3 and re.search(rf"(?<![a-z]){re.escape(a.lower().replace('’', chr(39)))}(?![a-z])", flat)]
+        rp = re.search(r"racial traits? replaces? ([^.]+)\.", flat)
+        replaces = [x.strip() for x in re.split(r",\s*(?:and\s+)?|\s+and\s+", rp.group(1))] if rp else []
+        return {"stats": stats, "alts": sorted(named), "replaces": [x for x in replaces if x]}
+
     for r in pf:
         races.append({"id": rid("Pathfinder 1e", r["name"]), "name": r["name"], "system": "Pathfinder 1e",
                       "url": r["url"], "source": r["source"]}
                      | {k: r[k] for k in ("size", "speed", "mods", "flexMod", "bonusFeats", "bonusSkillPerLevel")}
                      | {"subraces": [{"name": s["name"], "mods": s["mods"], "summary": _rules_summary(s["md"], 360, whole=True)}
+                                     | subrace_swaps(s["md"], [t["name"] for t in r["traits"] if t["kind"] == "Alternate"])
                                      for s in r.get("subraces", [])]})
         for t in r["traits"]:
             if t["kind"] == "Standard" and is_stat_line(t["name"]):
@@ -4969,7 +4983,7 @@ def build_race_compendium() -> dict[str, int]:
                 for x, y in zip(h2, h2[1:]):
                     text = "\n".join(lines[x + 1:y]).strip()
                     subraces.append({"name": lines[x][3:].strip(), "mods": ability_mods(text),
-                                     "summary": _rules_summary(text, 360, whole=True)})
+                                     "summary": _rules_summary(text, 360, whole=True), "md": text} | subrace_swaps(text, []))
             elif re.match(rf"^(?:{re.escape(f.stem)} )?Racial Traits$", title, re.I):
                 h2 = [i for i in range(a + 1, b) if lines[i].startswith("## ")] + [b]
                 for x, y in zip(h2, h2[1:]):

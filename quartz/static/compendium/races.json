@@ -23,52 +23,131 @@
     {
      "name": "Deep Delver",
      "mods": null,
-     "summary": "Dwarves living far below the earth have the minesight and deep warrior racial traits. Deep delver spellcasters may exchange stonecunning for the stonesinger trait."
+     "summary": "Dwarves living far below the earth have the minesight and deep warrior racial traits. Deep delver spellcasters may exchange stonecunning for the stonesinger trait.",
+     "stats": [],
+     "alts": [
+      "Deep Warrior",
+      "Minesight",
+      "Stonesinger"
+     ],
+     "replaces": []
     },
     {
      "name": "Desert Dwarves",
      "mods": null,
-     "summary": "In southern peaks of the Shattered Range, near Geb and the Screaming Jungle, clans of nomadic dwarves live and travel through ancient tunnels by day, moving to the surface only at night. Though there are no known dwarven cities in this region, the Garundi dwarves claim the extensive tunnels and caverns they move through are the remains of a once=powerful…"
+     "summary": "In southern peaks of the Shattered Range, near Geb and the Screaming Jungle, clans of nomadic dwarves live and travel through ancient tunnels by day, moving to the surface only at night. Though there are no known dwarven cities in this region, the Garundi dwarves claim the extensive tunnels and caverns they move through are the remains of a once=powerful…",
+     "stats": [],
+     "alts": [
+      "Craftsman",
+      "Desert Delver",
+      "Mountaineer",
+      "Rock Stepper"
+     ],
+     "replaces": []
     },
     {
      "name": "Elder Dwarf",
      "mods": null,
-     "summary": "Traditionalist dwarves of ancient lineage have the ancient enmity, lorekeeper, and either the magic resistant or stubborn racial traits."
+     "summary": "Traditionalist dwarves of ancient lineage have the ancient enmity, lorekeeper, and either the magic resistant or stubborn racial traits.",
+     "stats": [],
+     "alts": [
+      "Ancient Enmity",
+      "Lorekeeper",
+      "Magic Resistant",
+      "Stubborn"
+     ],
+     "replaces": []
     },
     {
      "name": "Exiled Dwarf",
      "mods": null,
-     "summary": "Dwarves who have lost their homelands usually have the relentless and stubborn racial traits, and often have wyrmscourged as well."
+     "summary": "Dwarves who have lost their homelands usually have the relentless and stubborn racial traits, and often have wyrmscourged as well.",
+     "stats": [],
+     "alts": [
+      "Relentless",
+      "Stubborn",
+      "Wyrmscourged"
+     ],
+     "replaces": []
     },
     {
      "name": "Mountain Dwarf",
      "mods": null,
-     "summary": "Dwarves living atop high peaks have the mountaineer racial trait and often surface survivalist as well. Mountain dwarves are also trained to defend their homes, and may take the sky sentinel and xenophobic traits instead."
+     "summary": "Dwarves living atop high peaks have the mountaineer racial trait and often surface survivalist as well. Mountain dwarves are also trained to defend their homes, and may take the sky sentinel and xenophobic traits instead.",
+     "stats": [],
+     "alts": [
+      "Mountaineer",
+      "Sky Sentinel",
+      "Surface Survivalist",
+      "Xenophobic"
+     ],
+     "replaces": []
     },
     {
      "name": "Mwangi Dwarves",
      "mods": null,
-     "summary": "Two tribes of dwarves reside in the Mwangi Expanse: the Mbe’ke and the Taralu. The Mbe’ke build cities in the mountains of the Terwa Uplands, while the Taralu live in small clans in the eastern jungle. Although there is little contact between the two groups, they share a reverence for and affinity with dragons—most especially cloud dragons— as well as any…"
+     "summary": "Two tribes of dwarves reside in the Mwangi Expanse: the Mbe’ke and the Taralu. The Mbe’ke build cities in the mountains of the Terwa Uplands, while the Taralu live in small clans in the eastern jungle. Although there is little contact between the two groups, they share a reverence for and affinity with dragons—most especially cloud dragons— as well as any…",
+     "stats": [],
+     "alts": [
+      "Breath Weapon",
+      "Magic Resistant",
+      "Surface Survivalist"
+     ],
+     "replaces": []
     },
     {
      "name": "Ouat Caste Dwarves",
      "mods": null,
-     "summary": "The Ouat caste dwarves are a sect of the Pahmet dwarves of Osirion who pursue self-perfection in the style of Irori. Ouat caste dwarves seek to become closer to divinity by overcoming their mortal limitations. They train themselves and others in the monastic city of Tar Kuata, constantly striving to put aside petty material concerns to focus on spiritual…"
+     "summary": "The Ouat caste dwarves are a sect of the Pahmet dwarves of Osirion who pursue self-perfection in the style of Irori. Ouat caste dwarves seek to become closer to divinity by overcoming their mortal limitations. They train themselves and others in the monastic city of Tar Kuata, constantly striving to put aside petty material concerns to focus on spiritual…",
+     "stats": [],
+     "alts": [
+      "Iron Within",
+      "Relentless",
+      "Stubborn"
+     ],
+     "replaces": []
     },
     {
      "name": "Pahmet Dwarves",
      "mods": null,
-     "summary": "The Pahmet have been present in Osirion since ancient days and claim to have been sent by the gods to warn the pharaohs of impending crises and disasters. Though most scholars suspect that claim is more legend than history, the ancient pharaohs of Osirion treated the Pahmet with great reverence. In return, the Pahmet guard Erekrus, a necropolis in the…"
+     "summary": "The Pahmet have been present in Osirion since ancient days and claim to have been sent by the gods to warn the pharaohs of impending crises and disasters. Though most scholars suspect that claim is more legend than history, the ancient pharaohs of Osirion treated the Pahmet with great reverence. In return, the Pahmet guard Erekrus, a necropolis in the…",
+     "stats": [],
+     "alts": [
+      "Death's End",
+      "Lorekeeper",
+      "Mountaineer",
+      "Rock Stepper",
+      "Surface Survivalist",
+      "Xenophobic"
+     ],
+     "replaces": []
     },
     {
      "name": "Paraheen Dwarves",
      "mods": null,
-     "summary": "The Paraheen are a small but important part of the society of Katheer, where they operate numerous forges and weapon shops within the city. Not quite a clan, the Paraheen are a set of related, family-run businesses respected for their great craftsmanship and work ethic. While most Paraheen are not citizens of Qadira, they are treated as a valued subclass of…"
+     "summary": "The Paraheen are a small but important part of the society of Katheer, where they operate numerous forges and weapon shops within the city. Not quite a clan, the Paraheen are a set of related, family-run businesses respected for their great craftsmanship and work ethic. While most Paraheen are not citizens of Qadira, they are treated as a valued subclass of…",
+     "stats": [],
+     "alts": [
+      "Craftsman",
+      "Iron Citizen",
+      "Saltbeard"
+     ],
+     "replaces": []
     },
     {
      "name": "Sky Citadel Dwarves",
      "mods": null,
-     "summary": "When the dwarves successfully completed the Quest for Sky, they set about constructing 10 Sky Citadels, massive fortresses that formed the basis for dwarven kingdoms in the Inner Sea region. While several of those Sky Citadels have been lost or overrun, a few—such as Highhelm, Janderhoff, and Dongun Hold—remain bastions of dwarven tradition and authority.…"
+     "summary": "When the dwarves successfully completed the Quest for Sky, they set about constructing 10 Sky Citadels, massive fortresses that formed the basis for dwarven kingdoms in the Inner Sea region. While several of those Sky Citadels have been lost or overrun, a few—such as Highhelm, Janderhoff, and Dongun Hold—remain bastions of dwarven tradition and authority.…",
+     "stats": [],
+     "alts": [
+      "Ancient Enmity",
+      "Deep Tradition",
+      "Deep Warrior",
+      "Giant Hunter",
+      "Sky Sentinel",
+      "Wyrmscourged"
+     ],
+     "replaces": []
     }
    ]
   },
@@ -95,52 +174,125 @@
     {
      "name": "Aquatic Elves",
      "mods": null,
-     "summary": "Aquatic elves are the oceanic cousins of landborn elves. These elves have developed gills and webbed fingers and toes that allow them to survive and navigate the waters of Golarion, and often have blue, coral, or seaweed-black skin to blend into their environment. A significant number of aquatic elves live in the Steaming Sea near Mordant Spire, and in the…"
+     "summary": "Aquatic elves are the oceanic cousins of landborn elves. These elves have developed gills and webbed fingers and toes that allow them to survive and navigate the waters of Golarion, and often have blue, coral, or seaweed-black skin to blend into their environment. A significant number of aquatic elves live in the Steaming Sea near Mordant Spire, and in the…",
+     "stats": [],
+     "alts": [
+      "Aquatic Mastery"
+     ],
+     "replaces": []
     },
     {
      "name": "Arctic Elf",
      "mods": null,
-     "summary": "These elves were born and raised in the frozen lands of the far north or south, and have dealt with freezing deserts, nights that last for weeks, and the horrors that roam the cold terrain. These elves have the darkvision, desert runner, and elemental resistance alternate racial traits."
+     "summary": "These elves were born and raised in the frozen lands of the far north or south, and have dealt with freezing deserts, nights that last for weeks, and the horrors that roam the cold terrain. These elves have the darkvision, desert runner, and elemental resistance alternate racial traits.",
+     "stats": [],
+     "alts": [
+      "Darkvision",
+      "Desert Runner",
+      "Elemental Resistance"
+     ],
+     "replaces": []
     },
     {
      "name": "Dusk Elf",
      "mods": null,
-     "summary": "Rather than being tied to the terrain around them, some elves are linked to the night itself. Though not tied to demon worship and evil as drow are, these elves are similarly attuned to the magical concepts of darkness and shadow. These elves have the arcane focus, darkvision, dreamspeaker, and silent hunter alternate racial traits."
+     "summary": "Rather than being tied to the terrain around them, some elves are linked to the night itself. Though not tied to demon worship and evil as drow are, these elves are similarly attuned to the magical concepts of darkness and shadow. These elves have the arcane focus, darkvision, dreamspeaker, and silent hunter alternate racial traits.",
+     "stats": [],
+     "alts": [
+      "Arcane Focus",
+      "Darkvision",
+      "Dreamspeaker",
+      "Silent Hunter"
+     ],
+     "replaces": []
     },
     {
      "name": "Ekujae Elves",
      "mods": null,
-     "summary": "Though the Ekujae clans are often mistaken for unaffiliated tribes, they are in fact a united nation and still hold vestiges of the power that their ancient kingdom once wielded. Ekujae elves reside within the Mwangi Expanse in hidden jungle villages so interwoven with the surrounding trees that the buildings there are overlooked even by travelers passing…"
+     "summary": "Though the Ekujae clans are often mistaken for unaffiliated tribes, they are in fact a united nation and still hold vestiges of the power that their ancient kingdom once wielded. Ekujae elves reside within the Mwangi Expanse in hidden jungle villages so interwoven with the surrounding trees that the buildings there are overlooked even by travelers passing…",
+     "stats": [],
+     "alts": [
+      "Light against Darkness",
+      "Long-Limbed",
+      "Sense Thoughts",
+      "Silent Hunter",
+      "Woodcraft"
+     ],
+     "replaces": []
     },
     {
      "name": "Forlorn Elves",
      "mods": null,
-     "summary": "Forlorn elves rarely refer to themselves by that name; instead, other elves use the term to refer to elves who reside among shorter-lived races. Forlorn elves often watch many of their friends and family die before their first century is past. Some Forlorn have adopted a variety of unhealthy coping mechanisms as a result, such as recklessness or substance…"
+     "summary": "Forlorn elves rarely refer to themselves by that name; instead, other elves use the term to refer to elves who reside among shorter-lived races. Forlorn elves often watch many of their friends and family die before their first century is past. Some Forlorn have adopted a variety of unhealthy coping mechanisms as a result, such as recklessness or substance…",
+     "stats": [],
+     "alts": [
+      "Devoted Companion",
+      "Envoy",
+      "Urbanite"
+     ],
+     "replaces": []
     },
     {
      "name": "Jininese Elves",
      "mods": null,
-     "summary": "The elves of Jinin are descended from those who traveled underground millennia ago to escape Earthfall. Led by the oracle Jininsiel and guided by a vast, treelike vein of mithral, these elves emerged in Tian Xia, where they founded the nation of Jinin. Jininese elves have adopted many of the customs of their human and samsaran neighbors—Jinin’s culture…"
+     "summary": "The elves of Jinin are descended from those who traveled underground millennia ago to escape Earthfall. Led by the oracle Jininsiel and guided by a vast, treelike vein of mithral, these elves emerged in Tian Xia, where they founded the nation of Jinin. Jininese elves have adopted many of the customs of their human and samsaran neighbors—Jinin’s culture…",
+     "stats": [],
+     "alts": [
+      "Dreamspeaker",
+      "Envoy",
+      "Jininese Weapon Mastery"
+     ],
+     "replaces": []
     },
     {
      "name": "Savage Elf",
      "mods": null,
-     "summary": "In lands where every day is a constant struggle to survive and the niceties of civilization are rare, elves adapt to depend on swift strikes and lifelong vigilance to keep their families alive. These elves have the eternal grudge and fleet-footed alternate racial traits."
+     "summary": "In lands where every day is a constant struggle to survive and the niceties of civilization are rare, elves adapt to depend on swift strikes and lifelong vigilance to keep their families alive. These elves have the eternal grudge and fleet-footed alternate racial traits.",
+     "stats": [],
+     "alts": [
+      "Eternal Grudge",
+      "Fleet-Footed",
+      "Vigilance"
+     ],
+     "replaces": []
     },
     {
      "name": "Snowcaster Elves",
      "mods": null,
-     "summary": "The Snowcaster tribes of the far north are extraordinarily reclusive, hiding their settlements in icy caverns, mountain valleys, the hearts of snow-shrouded pine forests, and other difficult-to-reach places. Their loyalty to their homes borders on religious reverence, whether they are ancestral burial grounds, ancient elven ruins, or simply places they’ve…"
+     "summary": "The Snowcaster tribes of the far north are extraordinarily reclusive, hiding their settlements in icy caverns, mountain valleys, the hearts of snow-shrouded pine forests, and other difficult-to-reach places. Their loyalty to their homes borders on religious reverence, whether they are ancestral burial grounds, ancient elven ruins, or simply places they’ve…",
+     "stats": [],
+     "alts": [
+      "Desert Runner",
+      "Elemental Resistance",
+      "Fleet-Footed",
+      "Frostmelding"
+     ],
+     "replaces": []
     },
     {
      "name": "Spiresworn Elves",
      "mods": null,
-     "summary": "The Mordant Spire’s elves, with their eerie masks and off-putting mannerisms, are a mystery to most Avistani. These elves have sworn to prevent exploration of Azlant in order to preserve and isolate the remnants of the Azlanti culture and protect Golarion from another Earthfall. The reclusive Spiresworn use enchantment and water magic to dissuade explorers;…"
+     "summary": "The Mordant Spire’s elves, with their eerie masks and off-putting mannerisms, are a mystery to most Avistani. These elves have sworn to prevent exploration of Azlant in order to preserve and isolate the remnants of the Azlanti culture and protect Golarion from another Earthfall. The reclusive Spiresworn use enchantment and water magic to dissuade explorers;…",
+     "stats": [],
+     "alts": [
+      "Crossbow Training",
+      "Keeper of Secrets",
+      "Moonkissed",
+      "Natural Swimmer",
+      "Tongue of the Sea"
+     ],
+     "replaces": []
     },
     {
      "name": "Tower Elf",
      "mods": null,
-     "summary": "Some elven institutions of magical learning date back centuries, and entire clans of elves have lived for generations as caretakers, students, and instructors of these self-sufficient schools of wizardry. These elves have the arcane focus and urbanite alternate racial traits."
+     "summary": "Some elven institutions of magical learning date back centuries, and entire clans of elves have lived for generations as caretakers, students, and instructors of these self-sufficient schools of wizardry. These elves have the arcane focus and urbanite alternate racial traits.",
+     "stats": [],
+     "alts": [
+      "Arcane Focus",
+      "Urbanite"
+     ],
+     "replaces": []
     }
    ]
   },
@@ -167,37 +319,85 @@
     {
      "name": "Bleachlings",
      "mods": null,
-     "summary": "While most gnomes who undergo the harrowing process of the Bleaching physically waste away from boredom, some gnomes do survive the process, emerging as humorless, monochrome versions of their former selves. Referred to as “bleachlings,” these gnomes are eerily serene and placid. In addition to the effects of the Bleaching itself, many bleachlings have the…"
+     "summary": "While most gnomes who undergo the harrowing process of the Bleaching physically waste away from boredom, some gnomes do survive the process, emerging as humorless, monochrome versions of their former selves. Referred to as “bleachlings,” these gnomes are eerily serene and placid. In addition to the effects of the Bleaching itself, many bleachlings have the…",
+     "stats": [],
+     "alts": [
+      "Academician",
+      "Bleachling",
+      "Bleachling Magic",
+      "Eternal Hope",
+      "Nature Affinity"
+     ],
+     "replaces": []
     },
     {
      "name": "Dread Gnomes",
      "mods": null,
-     "summary": "Moodier, less forgiving, and often crueler than other gnomes, dread gnomes trace their heritage to the darker, more bloodthirsty lines of fey. Though not all dread gnomes are evil, they all find humor in watching others suffer, and have little use for the bright colors and joyful pursuits of their more cheerful cousins. Dread gnomes have the fell magic and…"
+     "summary": "Moodier, less forgiving, and often crueler than other gnomes, dread gnomes trace their heritage to the darker, more bloodthirsty lines of fey. Though not all dread gnomes are evil, they all find humor in watching others suffer, and have little use for the bright colors and joyful pursuits of their more cheerful cousins. Dread gnomes have the fell magic and…",
+     "stats": [],
+     "alts": [
+      "Fell Magic"
+     ],
+     "replaces": []
     },
     {
      "name": "First World Gnomes",
      "mods": null,
-     "summary": "The gnomes of Golarion are immigrants from the First World, the primordial realm of the fey. While Golarion’s gnomes have had generations to adapt to the realities of the Material Plane, many gnomes remain in the First World to this day. In addition to the First World creature template (Pathfinder Campaign Setting: First World, Realm of the Fey 57), most…"
+     "summary": "The gnomes of Golarion are immigrants from the First World, the primordial realm of the fey. While Golarion’s gnomes have had generations to adapt to the realities of the Material Plane, many gnomes remain in the First World to this day. In addition to the First World creature template (Pathfinder Campaign Setting: First World, Realm of the Fey 57), most…",
+     "stats": [],
+     "alts": [
+      "Bond to the Land",
+      "Fey Fortitude"
+     ],
+     "replaces": []
     },
     {
      "name": "Gear Gnomes",
      "mods": null,
-     "summary": "Sometimes rather than a single gnome becoming obsessed with a project, whole families of gnomes undertake a project so massive it requires generations of artisans to complete. Such projects often involve complex clockwork devices (or entire clockwork buildings), and those born into families dedicated to lifetimes of work on them are known as gear gnomes.…"
+     "summary": "Sometimes rather than a single gnome becoming obsessed with a project, whole families of gnomes undertake a project so massive it requires generations of artisans to complete. Such projects often involve complex clockwork devices (or entire clockwork buildings), and those born into families dedicated to lifetimes of work on them are known as gear gnomes.…",
+     "stats": [],
+     "alts": [
+      "Academician",
+      "Master Tinker"
+     ],
+     "replaces": []
     },
     {
      "name": "Lava Gnomes",
      "mods": null,
-     "summary": "Fascinated by the power of magma and living in vast caverns beneath active volcanoes, lava gnomes are considered hot-tempered and dangerously unstable even by other gnomes. Lava gnomes have the darkvision and pyromaniac alternate racial traits."
+     "summary": "Fascinated by the power of magma and living in vast caverns beneath active volcanoes, lava gnomes are considered hot-tempered and dangerously unstable even by other gnomes. Lava gnomes have the darkvision and pyromaniac alternate racial traits.",
+     "stats": [],
+     "alts": [
+      "Darkvision",
+      "Pyromaniac"
+     ],
+     "replaces": []
     },
     {
      "name": "Segada Gnomes",
      "mods": null,
-     "summary": "The city of Segada on the continent of Arcadia has a substantial gnomish population, which emigrated from the tall peaks of the Akrandida Mountains. Known for their creativity and love all forms of artistic expression, many of Segada’s gnomes make their living as entertainers. Even more so than other gnomes, Segada gnomes are fond of wearing bright colors,…"
+     "summary": "The city of Segada on the continent of Arcadia has a substantial gnomish population, which emigrated from the tall peaks of the Akrandida Mountains. Known for their creativity and love all forms of artistic expression, many of Segada’s gnomes make their living as entertainers. Even more so than other gnomes, Segada gnomes are fond of wearing bright colors,…",
+     "stats": [],
+     "alts": [
+      "Artistic",
+      "Darkvision",
+      "Gift of Tongues",
+      "Magical Linguist",
+      "Sound Mimicry"
+     ],
+     "replaces": []
     },
     {
      "name": "Traveler Gnomes",
      "mods": null,
-     "summary": "These gnomes were born on the move, their families living on a ship or in a caravan wagon. These gnomes have the magical linguist and either the explorer or the gift of tongues alternate racial traits."
+     "summary": "These gnomes were born on the move, their families living on a ship or in a caravan wagon. These gnomes have the magical linguist and either the explorer or the gift of tongues alternate racial traits.",
+     "stats": [],
+     "alts": [
+      "Explorer",
+      "Gift of Tongues",
+      "Magical Linguist"
+     ],
+     "replaces": []
     }
    ]
   },
@@ -224,42 +424,75 @@
     {
      "name": "Aquatic Half-Elves (Shoreborn)",
      "mods": null,
-     "summary": "The children of aquatic elves and land-bound humans feel the disparity between their heritages more than any other. These half-elves show their parentage on their faces, with sandy, russet, or green-black skin to match their elven parent. Slightly webbed fingers and toes aid in swimming, but their neck slits almost never function as gills. A few aquatic…"
+     "summary": "The children of aquatic elves and land-bound humans feel the disparity between their heritages more than any other. These half-elves show their parentage on their faces, with sandy, russet, or green-black skin to match their elven parent. Slightly webbed fingers and toes aid in swimming, but their neck slits almost never function as gills. A few aquatic…",
+     "stats": [],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Drow-Descended",
      "mods": null,
-     "summary": "These half-elves clearly bear the features of their dark elf parents, branding them immediately as a potential threat in the eyes of others no matter what their intent or character. These half-elves have the drow-blooded and drow magic alternate racial traits."
+     "summary": "These half-elves clearly bear the features of their dark elf parents, branding them immediately as a potential threat in the eyes of others no matter what their intent or character. These half-elves have the drow-blooded and drow magic alternate racial traits.",
+     "stats": [],
+     "alts": [
+      "Drow Magic",
+      "Drow-Blooded"
+     ],
+     "replaces": []
     },
     {
      "name": "Ekujae Half-Elves (Wildborn)",
      "mods": null,
-     "summary": "The half-elves of the Mwangi Expanse have the dark skin of their Ekujae parents, but they tend to be closer in stature and build to their human parents, allowing wildborn to pass for human more easily than most of their fellow half-elves. These half-elves are equally at home in the wilds of the jungle or arranging trade deals in the larger Mwangi cities.…"
+     "summary": "The half-elves of the Mwangi Expanse have the dark skin of their Ekujae parents, but they tend to be closer in stature and build to their human parents, allowing wildborn to pass for human more easily than most of their fellow half-elves. These half-elves are equally at home in the wilds of the jungle or arranging trade deals in the larger Mwangi cities.…",
+     "stats": [],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Elf-Raised",
      "mods": null,
-     "summary": "These half-elves represent those embraced by their elven relatives, and raised with all of the traditional cultural training and education typical of most full-blooded elves. These half-elves have the ancestral arms and arcane training alternate racial traits."
+     "summary": "These half-elves represent those embraced by their elven relatives, and raised with all of the traditional cultural training and education typical of most full-blooded elves. These half-elves have the ancestral arms and arcane training alternate racial traits.",
+     "stats": [],
+     "alts": [
+      "Ancestral Arms",
+      "Arcane Training"
+     ],
+     "replaces": []
     },
     {
      "name": "Half-Drow (Darkborn)",
      "mods": null,
-     "summary": "Scorned by both drow, who call them thinbloods, and humans, who call them darkborn, half-drow face discrimination and tribulation from an early age. Those half-drow who are not crushed by persecution are forced to age into particularly strong and independent adults. Some give into bitterness from their upbringing, becoming hardened assassins or wanton…"
+     "summary": "Scorned by both drow, who call them thinbloods, and humans, who call them darkborn, half-drow face discrimination and tribulation from an early age. Those half-drow who are not crushed by persecution are forced to age into particularly strong and independent adults. Some give into bitterness from their upbringing, becoming hardened assassins or wanton…",
+     "stats": [],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Human-Raised",
      "mods": null,
-     "summary": "These half-elves were born and raised into accepting human communities, often raised by generations of a single family, or through the charity of churches and temples. These half-elves have the integrated and wary racial traits."
+     "summary": "These half-elves were born and raised into accepting human communities, often raised by generations of a single family, or through the charity of churches and temples. These half-elves have the integrated and wary racial traits.",
+     "stats": [],
+     "alts": [
+      "Integrated",
+      "Wary"
+     ],
+     "replaces": []
     },
     {
      "name": "Mordant Spire Half-Elves (Spireborn)",
      "mods": null,
-     "summary": "Mordant Spire elves and humans almost never meet by accident. Their offspring, the Spireborn, only come about when Mordant Spire elves travel to human villages. Spireborn half-elves are almost always taken back to the Mordant Spire by their elven parent, and they are usually trained from youth to go on important missions outside of the Mordant Spire.…"
+     "summary": "Mordant Spire elves and humans almost never meet by accident. Their offspring, the Spireborn, only come about when Mordant Spire elves travel to human villages. Spireborn half-elves are almost always taken back to the Mordant Spire by their elven parent, and they are usually trained from youth to go on important missions outside of the Mordant Spire.…",
+     "stats": [],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Snowcaster Half-Elves (Snowborn)",
      "mods": null,
-     "summary": "Found throughout the northern countries, snowborn are typically the children of twilight speakers—religious envoys from the normally distrustful Snowcaster clans, who consider it a sacred duty to befriend humans and other non-elves. Snowcaster clans vary in their acceptance of these children, but the average clan’s seclusion from humanity and inability to…"
+     "summary": "Found throughout the northern countries, snowborn are typically the children of twilight speakers—religious envoys from the normally distrustful Snowcaster clans, who consider it a sacred duty to befriend humans and other non-elves. Snowcaster clans vary in their acceptance of these children, but the average clan’s seclusion from humanity and inability to…",
+     "stats": [],
+     "alts": [],
+     "replaces": []
     }
    ]
   },
@@ -286,27 +519,60 @@
     {
      "name": "Avenging",
      "mods": null,
-     "summary": "Unlike most halflings, members of this subtype actively look for trouble in their quest to avenge slights and wrongdoings. Whether resisting a local bully, monster, or troops of an oppressive ruler, halfling warriors of this secret subculture don masks and strike back on behalf of their community. These halflings have the low blow, underfoot, and warslinger…"
+     "summary": "Unlike most halflings, members of this subtype actively look for trouble in their quest to avenge slights and wrongdoings. Whether resisting a local bully, monster, or troops of an oppressive ruler, halfling warriors of this secret subculture don masks and strike back on behalf of their community. These halflings have the low blow, underfoot, and warslinger…",
+     "stats": [],
+     "alts": [
+      "Low Blow",
+      "Underfoot",
+      "Warslinger"
+     ],
+     "replaces": []
     },
     {
      "name": "Nomadic",
      "mods": null,
-     "summary": "These halflings were born on the road and most follow it until the end of their days. They travel fast and light and never miss a chance for either profit or adventure. These halflings have the fleet-footed, polyglot, and wanderlust alternate racial traits."
+     "summary": "These halflings were born on the road and most follow it until the end of their days. They travel fast and light and never miss a chance for either profit or adventure. These halflings have the fleet-footed, polyglot, and wanderlust alternate racial traits.",
+     "stats": [],
+     "alts": [
+      "Polyglot",
+      "Wanderlust"
+     ],
+     "replaces": []
     },
     {
      "name": "Segadan Halflings",
      "mods": null,
-     "summary": "Hailing from the bureaucratic Degasi city of Segada, Segadan halflings relish the comforts their prosperous city provides. The halflings of Segada nonetheless remain suspicious of Chelish settlers in the Segadan protectorates of Anchor’s End and Canorus, given Cheliax’s history of enslaving halflings. Segadan halflings are well suited to take the attentive…"
+     "summary": "Hailing from the bureaucratic Degasi city of Segada, Segadan halflings relish the comforts their prosperous city provides. The halflings of Segada nonetheless remain suspicious of Chelish settlers in the Segadan protectorates of Anchor’s End and Canorus, given Cheliax’s history of enslaving halflings. Segadan halflings are well suited to take the attentive…",
+     "stats": [],
+     "alts": [
+      "Attentive",
+      "Festive",
+      "Small Quarter Ally"
+     ],
+     "replaces": []
     },
     {
      "name": "Slave Born",
      "mods": null,
-     "summary": "These halflings come from lineages that have spent countless generations as property. Though usually free themselves, the weight of slavery still bears down on their souls, making them eager to please and prone to sudden fits of fear. These halflings have the craven and ingratiating alternate racial traits."
+     "summary": "These halflings come from lineages that have spent countless generations as property. Though usually free themselves, the weight of slavery still bears down on their souls, making them eager to please and prone to sudden fits of fear. These halflings have the craven and ingratiating alternate racial traits.",
+     "stats": [],
+     "alts": [
+      "Craven",
+      "Ingratiating"
+     ],
+     "replaces": []
     },
     {
      "name": "Song'o Halflings",
      "mods": null,
-     "summary": "Deep in the jungles outside the former Chelish colony of Sargava in the Mwangi Expanse, the mysterious Song’o halflings avoid almost all non-Mwangi. These halflings live in temporary villages, abandoning sites when they are discovered and resettling in ever more isolated areas of the jungle. Many believe this intense aversion to outside interaction is due…"
+     "summary": "Deep in the jungles outside the former Chelish colony of Sargava in the Mwangi Expanse, the mysterious Song’o halflings avoid almost all non-Mwangi. These halflings live in temporary villages, abandoning sites when they are discovered and resettling in ever more isolated areas of the jungle. Many believe this intense aversion to outside interaction is due…",
+     "stats": [],
+     "alts": [
+      "Danger Detection",
+      "Deep Jungle",
+      "Evasive Nomad"
+     ],
+     "replaces": []
     }
    ]
   },
@@ -333,52 +599,99 @@
     {
      "name": "Arena-Bred",
      "mods": null,
-     "summary": "Many half-orcs are born and raised to fight in the arena, and in many cases have two half-orc parents or even a half-orc and a human parent. These arena-bred half-orcs lose the brutal physical appearance of their orc ancestors and look more human. They have the city-raised and skilled alternate racial traits."
+     "summary": "Many half-orcs are born and raised to fight in the arena, and in many cases have two half-orc parents or even a half-orc and a human parent. These arena-bred half-orcs lose the brutal physical appearance of their orc ancestors and look more human. They have the city-raised and skilled alternate racial traits.",
+     "stats": [],
+     "alts": [
+      "City-Raised",
+      "Skilled"
+     ],
+     "replaces": []
     },
     {
      "name": "Darklands Half-Orcs (Gloomkin)",
      "mods": null,
-     "summary": "At the end of the Age of Darkness, when light returned to Golarion, many orcs lost their footholds on the surface world and returned to the Darklands, taking their half-orc progeny with them. Of all the half-orcs, gloomkin face the harshest treatment; they are punished and abused from birth for what orcs consider the taint of their bloodline. As the bottom…"
+     "summary": "At the end of the Age of Darkness, when light returned to Golarion, many orcs lost their footholds on the surface world and returned to the Darklands, taking their half-orc progeny with them. Of all the half-orcs, gloomkin face the harshest treatment; they are punished and abused from birth for what orcs consider the taint of their bloodline. As the bottom…",
+     "stats": [],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Deep Kin",
      "mods": null,
-     "summary": "Some half-orcs are descended from clans that remained in the eternal darkness below the surface. Half-orcs from these clans tend to be smaller and more at home underground than those descended from surface-dwelling orcs. These half-orcs have the acute darkvision and cavewight alternate racial traits."
+     "summary": "Some half-orcs are descended from clans that remained in the eternal darkness below the surface. Half-orcs from these clans tend to be smaller and more at home underground than those descended from surface-dwelling orcs. These half-orcs have the acute darkvision and cavewight alternate racial traits.",
+     "stats": [],
+     "alts": [
+      "Acute Darkvision",
+      "Cavewight"
+     ],
+     "replaces": []
     },
     {
      "name": "Desert Half-Orcs (Sandkin)",
      "mods": null,
-     "summary": "Desert half-orcs are born primarily in northern Garund and Osirion and often hold a level of esteem and self-assurance that is rare for half-orcs. Among desert orc tribes, the ability to tolerate harsh sunlight is a sign of strength, and weathering the sun is a rite of passage. Lacking their ancestors’ light sensitivity, half-orcs excel at these contests of…"
+     "summary": "Desert half-orcs are born primarily in northern Garund and Osirion and often hold a level of esteem and self-assurance that is rare for half-orcs. Among desert orc tribes, the ability to tolerate harsh sunlight is a sign of strength, and weathering the sun is a rite of passage. Lacking their ancestors’ light sensitivity, half-orcs excel at these contests of…",
+     "stats": [],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Feral",
      "mods": null,
-     "summary": "Half-orc children who are abandoned as infants or small children rarely survive in the wild, but a few manage to scrape out a meager existence as \"wild children,\" tough enough to live but completely uncivilized. Feral half-orcs have the forest walker and toothy alternate racial traits."
+     "summary": "Half-orc children who are abandoned as infants or small children rarely survive in the wild, but a few manage to scrape out a meager existence as \"wild children,\" tough enough to live but completely uncivilized. Feral half-orcs have the forest walker and toothy alternate racial traits.",
+     "stats": [],
+     "alts": [
+      "Forest Walker",
+      "Toothy"
+     ],
+     "replaces": []
     },
     {
      "name": "Jungle Half-Orcs (Rainkin)",
      "mods": null,
-     "summary": "In the jungles of the Mwangi Expanse, the few remaining orc tribes have been largely cut off from others of their kind. Isolated since the orc empires collapsed after the Age of Darkness, only a handful of oral retellings recall the true heritage of these orcs and half-orcs, and their culture diverges greatly from other orc societies. It is said that some…"
+     "summary": "In the jungles of the Mwangi Expanse, the few remaining orc tribes have been largely cut off from others of their kind. Isolated since the orc empires collapsed after the Age of Darkness, only a handful of oral retellings recall the true heritage of these orcs and half-orcs, and their culture diverges greatly from other orc societies. It is said that some…",
+     "stats": [],
+     "alts": [
+      "Skilled"
+     ],
+     "replaces": []
     },
     {
      "name": "Mountain Clan",
      "mods": null,
-     "summary": "Half-orcs from the more mountainous regions tend to be more agile and alert to the echoing sounds of their homeland. Mountain clan half-orcs have the bestial and rock climber racial traits."
+     "summary": "Half-orcs from the more mountainous regions tend to be more agile and alert to the echoing sounds of their homeland. Mountain clan half-orcs have the bestial and rock climber racial traits.",
+     "stats": [],
+     "alts": [
+      "Bestial",
+      "Rock Climber"
+     ],
+     "replaces": []
     },
     {
      "name": "Mountain Half-Orcs (Cragkin)",
      "mods": null,
-     "summary": "Cragkin are widespread across Golarion, found across all the mountain ranges of western Avistan. Thanks to their thin frames and quick wits, mountain-born half-orcs excel at climbing and acrobatic stunts. Anything less than a vertical cliff face is traversable, and often even that isn’t enough to stop them. To mountain half-orcs, obstacles are merely a…"
+     "summary": "Cragkin are widespread across Golarion, found across all the mountain ranges of western Avistan. Thanks to their thin frames and quick wits, mountain-born half-orcs excel at climbing and acrobatic stunts. Anything less than a vertical cliff face is traversable, and often even that isn’t enough to stop them. To mountain half-orcs, obstacles are merely a…",
+     "stats": [],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Mystic",
      "mods": null,
-     "summary": "Orc shamans are brutal teachers who sometimes kill or maim their most promising students in order to eliminate what could be a potential rival. Half-orcs who survive years of abuse by an orc shaman master are deeply scarred and altered by the experience. Shaman trainees learn early that cunning and luck are often the only things that offer a chance of…"
+     "summary": "Orc shamans are brutal teachers who sometimes kill or maim their most promising students in order to eliminate what could be a potential rival. Half-orcs who survive years of abuse by an orc shaman master are deeply scarred and altered by the experience. Shaman trainees learn early that cunning and luck are often the only things that offer a chance of…",
+     "stats": [],
+     "alts": [
+      "Sacred Tattoo",
+      "Shaman’s Apprentice"
+     ],
+     "replaces": []
     },
     {
      "name": "Winter Half-Orcs (Frostkin)",
      "mods": null,
-     "summary": "At the Crown of the World, nomadic clans of orcs live on the frozen wastes. The winter half-orcs that live among them are treated as the runts of the pack. However, strength in numbers is vital in the north, as many young do not survive the harsh winters. Even the weakest are provided for as long as they can prove their usefulness. Sewing, cooking, and…"
+     "summary": "At the Crown of the World, nomadic clans of orcs live on the frozen wastes. The winter half-orcs that live among them are treated as the runts of the pack. However, strength in numbers is vital in the north, as many young do not survive the harsh winters. Even the weakest are provided for as long as they can prove their usefulness. Sewing, cooking, and…",
+     "stats": [],
+     "alts": [],
+     "replaces": []
     }
    ]
   },
@@ -405,32 +718,72 @@
     {
      "name": "Cosmopolitan",
      "mods": null,
-     "summary": "Adept as city living, these humans can navigate crowds and fulfill the need for skilled labor in such settlements. Replace the skilled racial trait with heart of the streets and the bonus feat racial trait with focused study."
+     "summary": "Adept as city living, these humans can navigate crowds and fulfill the need for skilled labor in such settlements. Replace the skilled racial trait with heart of the streets and the bonus feat racial trait with focused study.",
+     "stats": [],
+     "alts": [
+      "Focused Study",
+      "Heart of the Streets"
+     ],
+     "replaces": []
     },
     {
      "name": "Country Folk",
      "mods": null,
-     "summary": "These humans are suited to life in the countryside. Replace the skilled racial trait with heart of the fields and the bonus feat racial trait with focused study."
+     "summary": "These humans are suited to life in the countryside. Replace the skilled racial trait with heart of the fields and the bonus feat racial trait with focused study.",
+     "stats": [],
+     "alts": [
+      "Focused Study",
+      "Heart of the Fields"
+     ],
+     "replaces": []
     },
     {
      "name": "Gutter Rat",
      "mods": null,
-     "summary": "Often second-class citizens living in sprawling ghettos and slums, these humans work hard to eke out an existence in a city. Replace the skilled racial trait with heart of the slums and the bonus feat racial trait with mixed heritage (heart of the streets)."
+     "summary": "Often second-class citizens living in sprawling ghettos and slums, these humans work hard to eke out an existence in a city. Replace the skilled racial trait with heart of the slums and the bonus feat racial trait with mixed heritage (heart of the streets).",
+     "stats": [],
+     "alts": [
+      "Heart of the Slums",
+      "Heart of the Streets",
+      "Mixed Heritage"
+     ],
+     "replaces": []
     },
     {
      "name": "Imperious Human",
      "mods": null,
-     "summary": "Hailing from either an empire, an emerging nation, or a controlling city-state, these humans are arrogant expansionists, absorbing others to their causes and culture. Replace the skilled racial trait with silver tongued and the bonus feat racial trait with eye for talent."
+     "summary": "Hailing from either an empire, an emerging nation, or a controlling city-state, these humans are arrogant expansionists, absorbing others to their causes and culture. Replace the skilled racial trait with silver tongued and the bonus feat racial trait with eye for talent.",
+     "stats": [],
+     "alts": [
+      "Eye for Talent",
+      "Silver Tongued"
+     ],
+     "replaces": []
     },
     {
      "name": "Trailblazer",
      "mods": null,
-     "summary": "Adaptive and inventive, these humans must have quick wits and a dose of heroic luck to survive in the lands they settle. Replace the skilled racial trait with heart of the wilderness and the bonus feat racial trait with heroic. At the GM’s discretion, you can swap out the heart of the wilderness racial trait for either heart of the mountains, heart of the…"
+     "summary": "Adaptive and inventive, these humans must have quick wits and a dose of heroic luck to survive in the lands they settle. Replace the skilled racial trait with heart of the wilderness and the bonus feat racial trait with heroic. At the GM’s discretion, you can swap out the heart of the wilderness racial trait for either heart of the mountains, heart of the…",
+     "stats": [],
+     "alts": [
+      "Heart of the Mountains",
+      "Heart of the Sea",
+      "Heart of the Snows",
+      "Heart of the Sun",
+      "Heart of the Wilderness",
+      "Heroic"
+     ],
+     "replaces": []
     },
     {
      "name": "Versatile Human",
      "mods": null,
-     "summary": "While they lack some of the training of other humans, the natural talents of versatile humans more than make up for this lack. Replace the +2 bonus to any ability score, the skilled racial trait, and the bonus feat racial trait with dual talent."
+     "summary": "While they lack some of the training of other humans, the natural talents of versatile humans more than make up for this lack. Replace the +2 bonus to any ability score, the skilled racial trait, and the bonus feat racial trait with dual talent.",
+     "stats": [],
+     "alts": [
+      "Dual Talent"
+     ],
+     "replaces": []
     }
    ]
   },
@@ -464,7 +817,31 @@
       "wis": 0,
       "cha": 2
      },
-     "summary": "Idyllkin possess bestial aspects and calm dispositions, and often act as peaceful intermediaries between lawful and chaotic agents of good. Ancestry Agathion Typical Alignment NG Ability Modifiers +2 Con, +2 Cha Alternate Skill Modifiers Handle Animal, Survival Alternate Spell-Like Ability Idyllkin gain summon nature’s ally II as a spell-like ability."
+     "summary": "Idyllkin possess bestial aspects and calm dispositions, and often act as peaceful intermediaries between lawful and chaotic agents of good. Ancestry Agathion Typical Alignment NG Ability Modifiers +2 Con, +2 Cha Alternate Skill Modifiers Handle Animal, Survival Alternate Spell-Like Ability Idyllkin gain summon nature’s ally II as a spell-like ability.",
+     "stats": [
+      [
+       "Ancestry",
+       "Agathion"
+      ],
+      [
+       "Typical Alignment",
+       "NG"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Con, +2 Cha"
+      ],
+      [
+       "Alternate Skill Modifiers",
+       "Handle Animal, Survival"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "Idyllkin gain summon nature’s ally II as a spell-like ability"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Angel-Blooded (Angelkin)",
@@ -476,7 +853,31 @@
       "wis": 0,
       "cha": 2
      },
-     "summary": "Angelkin are mortal paragons of exceptional beauty, and they serve as exemplars of good and light regardless of the myriad forms they may take. Ancestry Angel Typical Alignment Any good Ability Modifiers +2 Str, +2 Cha Alternate Skill Modifiers Heal, Knowledge (planes) Alternate Spell-Like Ability Angelkin gain alter self as a spell-like ability."
+     "summary": "Angelkin are mortal paragons of exceptional beauty, and they serve as exemplars of good and light regardless of the myriad forms they may take. Ancestry Angel Typical Alignment Any good Ability Modifiers +2 Str, +2 Cha Alternate Skill Modifiers Heal, Knowledge (planes) Alternate Spell-Like Ability Angelkin gain alter self as a spell-like ability.",
+     "stats": [
+      [
+       "Ancestry",
+       "Angel"
+      ],
+      [
+       "Typical Alignment",
+       "Any good"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Str, +2 Cha"
+      ],
+      [
+       "Alternate Skill Modifiers",
+       "Heal, Knowledge (planes)"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "Angelkin gain alter self as a spell-like ability"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Archon-Blooded (Lawbringers)",
@@ -488,7 +889,31 @@
       "wis": 2,
       "cha": 0
      },
-     "summary": "Lawbringers are champions of justice and of doling out punishment to the wicked, and often believe chaos is the cause of all mortal suffering. Ancestry Archon Typical Alignment LG Ability Modifiers +2 Con, +2 Wis Alternate Skill Modifiers Intimidate, Sense Motive Alternate Spell-Like Ability Lawbringers gain continual flame as a spell-like ability."
+     "summary": "Lawbringers are champions of justice and of doling out punishment to the wicked, and often believe chaos is the cause of all mortal suffering. Ancestry Archon Typical Alignment LG Ability Modifiers +2 Con, +2 Wis Alternate Skill Modifiers Intimidate, Sense Motive Alternate Spell-Like Ability Lawbringers gain continual flame as a spell-like ability.",
+     "stats": [
+      [
+       "Ancestry",
+       "Archon"
+      ],
+      [
+       "Typical Alignment",
+       "LG"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Con, +2 Wis"
+      ],
+      [
+       "Alternate Skill Modifiers",
+       "Intimidate, Sense Motive"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "Lawbringers gain continual flame as a spell-like ability"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Azata-Blooded (Musetouched)",
@@ -500,7 +925,31 @@
       "wis": 0,
       "cha": 2
      },
-     "summary": "The musetouched epitomize freedom and joy, and travel the world to liberate less fortunate individuals. Ancestry Azata Typical Alignment CG Ability Modifiers +2 Dex, +2 Cha Alternate Skill Modifiers Diplomacy, Perform Alternate Spell-Like Ability Musetouched gain glitterdust as a spell-like ability."
+     "summary": "The musetouched epitomize freedom and joy, and travel the world to liberate less fortunate individuals. Ancestry Azata Typical Alignment CG Ability Modifiers +2 Dex, +2 Cha Alternate Skill Modifiers Diplomacy, Perform Alternate Spell-Like Ability Musetouched gain glitterdust as a spell-like ability.",
+     "stats": [
+      [
+       "Ancestry",
+       "Azata"
+      ],
+      [
+       "Typical Alignment",
+       "CG"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Dex, +2 Cha"
+      ],
+      [
+       "Alternate Skill Modifiers",
+       "Diplomacy, Perform"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "Musetouched gain glitterdust as a spell-like ability"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Garuda-Blooded (Plumekith)",
@@ -512,7 +961,31 @@
       "wis": 2,
       "cha": 0
      },
-     "summary": "Their shimmering avian features make plumekith instantly recognizable. Though they can act rashly, plumekith never shirk their duty after making a commitment. Ancestry Garuda Typical Alignment CG Ability Modifiers +2 Dex, +2 Wis Alternate Skill Modifiers Acrobatics, Fly Alternate Spell-Like Ability Plumekith gain see invisibility as a spell-like ability."
+     "summary": "Their shimmering avian features make plumekith instantly recognizable. Though they can act rashly, plumekith never shirk their duty after making a commitment. Ancestry Garuda Typical Alignment CG Ability Modifiers +2 Dex, +2 Wis Alternate Skill Modifiers Acrobatics, Fly Alternate Spell-Like Ability Plumekith gain see invisibility as a spell-like ability.",
+     "stats": [
+      [
+       "Ancestry",
+       "Garuda"
+      ],
+      [
+       "Typical Alignment",
+       "CG"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Dex, +2 Wis"
+      ],
+      [
+       "Alternate Skill Modifiers",
+       "Acrobatics, Fly"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "Plumekith gain see invisibility as a spell-like ability"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Peri-Blooded (Emberkin)",
@@ -524,7 +997,31 @@
       "wis": 0,
       "cha": 2
      },
-     "summary": "Masters of fire magic, emberkin feel the dual pull of their peri forebear as well as that of a fallen angel further down their ancestry, and wrestle with their urges to do both good and evil. Ancestry Peri Typical Alignment NG Ability Modifiers +2 Int, +2 Cha Alternate Skill Modifiers Knowledge (planes), Spellcraft Alternate Spell-Like Ability Emberkin gain…"
+     "summary": "Masters of fire magic, emberkin feel the dual pull of their peri forebear as well as that of a fallen angel further down their ancestry, and wrestle with their urges to do both good and evil. Ancestry Peri Typical Alignment NG Ability Modifiers +2 Int, +2 Cha Alternate Skill Modifiers Knowledge (planes), Spellcraft Alternate Spell-Like Ability Emberkin gain…",
+     "stats": [
+      [
+       "Ancestry",
+       "Peri"
+      ],
+      [
+       "Typical Alignment",
+       "NG"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Int, +2 Cha"
+      ],
+      [
+       "Alternate Skill Modifiers",
+       "Knowledge (planes), Spellcraft"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "Emberkin gain pyrotechnics as a spell-like ability"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     }
    ]
   },
@@ -768,7 +1265,31 @@
       "wis": 0,
       "cha": 2
      },
-     "summary": "Broad-shouldered and athletic, slag mays demonstrate incredible talent for all physical tasks. They share a vivacity, an addiction to new sights and experiences, and a tendency to collect souvenirs wherever they go. Ancestry Annis hag Typical Alignment CN Ability Modifiers +2 Str, +2 Cha, –2 Con Hag Racial Trait Annis-born changelings gain a +1 racial bonus…"
+     "summary": "Broad-shouldered and athletic, slag mays demonstrate incredible talent for all physical tasks. They share a vivacity, an addiction to new sights and experiences, and a tendency to collect souvenirs wherever they go. Ancestry Annis hag Typical Alignment CN Ability Modifiers +2 Str, +2 Cha, –2 Con Hag Racial Trait Annis-born changelings gain a +1 racial bonus…",
+     "stats": [
+      [
+       "Ancestry",
+       "Annis hag"
+      ],
+      [
+       "Typical Alignment",
+       "CN"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Str, +2 Cha, –2 Con"
+      ],
+      [
+       "Hag Racial Trait",
+       "Annis-born changelings gain a +1 racial bonus on melee damage rolls"
+      ],
+      [
+       "Awakened Hag Heritage",
+       "Your jagged claws cause gaping wounds, dealing 1 point of bleed damage on a successful critical hit"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Ash-Born (Hearth May)",
@@ -780,7 +1301,31 @@
       "wis": 2,
       "cha": 2
      },
-     "summary": "Possessed of a blazing inner fire, hearth mays are passionate and excitable. Ranging from bubbly to irate, they lack emotional nuance, but their drive and discipline can overcome nearly any obstacle. Ancestry Ash hag Typical Alignment LN Ability Modifiers +2 Wis, +2 Cha, -2 Con Hag Racial Trait Ash-born changelings gain a +1 racial bonus on damage rolls for…"
+     "summary": "Possessed of a blazing inner fire, hearth mays are passionate and excitable. Ranging from bubbly to irate, they lack emotional nuance, but their drive and discipline can overcome nearly any obstacle. Ancestry Ash hag Typical Alignment LN Ability Modifiers +2 Wis, +2 Cha, -2 Con Hag Racial Trait Ash-born changelings gain a +1 racial bonus on damage rolls for…",
+     "stats": [
+      [
+       "Ancestry",
+       "Ash hag"
+      ],
+      [
+       "Typical Alignment",
+       "LN"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Wis, +2 Cha, -2 Con"
+      ],
+      [
+       "Hag Racial Trait",
+       "Ash-born changelings gain a +1 racial bonus on damage rolls for spells with the fire descriptor. This bonus increases by 1 for every 4 character levels the changeling has beyond 1st"
+      ],
+      [
+       "Awakened Hag Heritage",
+       "You gain immunity to extremely warm conditions, as if you were under the effects of a permanent endure elements spell (heat only) that cannot be dispelled"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Blood-Born (Veil May)",
@@ -792,7 +1337,31 @@
       "wis": 2,
       "cha": 2
      },
-     "summary": "Gifted with a face for every occasion, veil mays can adjust to any social situation, showing those around them exactly what they want to see. As easily as they read others, they are equally gifted at hiding their true intentions. Ancestry Blood hag Typical Alignment N Ability Modifiers +2 Wis, +2 Cha, -2 Int Hag Racial Trait The DCs of Sense Motive checks…"
+     "summary": "Gifted with a face for every occasion, veil mays can adjust to any social situation, showing those around them exactly what they want to see. As easily as they read others, they are equally gifted at hiding their true intentions. Ancestry Blood hag Typical Alignment N Ability Modifiers +2 Wis, +2 Cha, -2 Int Hag Racial Trait The DCs of Sense Motive checks…",
+     "stats": [
+      [
+       "Ancestry",
+       "Blood hag"
+      ],
+      [
+       "Typical Alignment",
+       "N"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Wis, +2 Cha, -2 Int"
+      ],
+      [
+       "Hag Racial Trait",
+       "The DCs of Sense Motive checks to gain a hunch about a blood-born changeling increase by 5"
+      ],
+      [
+       "Awakened Hag Heritage",
+       "You gain a +2 racial bonus on Bluff, Diplomacy, and Sense Motive skill checks as your gifts for reading and manipulating others matures"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Dreamthief-Born (Waker May)",
@@ -804,7 +1373,31 @@
       "wis": -2,
       "cha": 2
      },
-     "summary": "Rare beyond measure, waker mays exist only as the result of horrific rituals and bear stained souls. Cursed from birth, they mature like foul fruit into the deadliest of and most powerful of hags. Ancestry Dreamthief hag Typical Alignment NE Ability Modifiers +2 Str, +2 Cha, -2 Wis Hag Racial Trait Dreamthief-born changelings gain a +2 racial bonus on…"
+     "summary": "Rare beyond measure, waker mays exist only as the result of horrific rituals and bear stained souls. Cursed from birth, they mature like foul fruit into the deadliest of and most powerful of hags. Ancestry Dreamthief hag Typical Alignment NE Ability Modifiers +2 Str, +2 Cha, -2 Wis Hag Racial Trait Dreamthief-born changelings gain a +2 racial bonus on…",
+     "stats": [
+      [
+       "Ancestry",
+       "Dreamthief hag"
+      ],
+      [
+       "Typical Alignment",
+       "NE"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Str, +2 Cha, -2 Wis"
+      ],
+      [
+       "Hag Racial Trait",
+       "Dreamthief-born changelings gain a +2 racial bonus on saving throws against mind-affecting effects"
+      ],
+      [
+       "Awakened Hag Heritage",
+       "You no longer need to sleep and cannot become fatigued due to lack of sleep. You can still be affected by other effects that inflict the fatigued condition, and must rest for 8 hours in order to prepare spells or regain uses of class abilities as normal, even if this time is not spent sleeping"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Green-Born (Callow May)",
@@ -816,7 +1409,31 @@
       "wis": 2,
       "cha": 2
      },
-     "summary": "Shy and soft-spoken, but possessed of grace and insight, callow mays are masterful manipulators who deeply appreciate the beautiful things in the world. Ancestry Green hag Typical Alignment CN Ability Modifiers +2 Wis, +2 Cha, -2 Con Hag Racial Trait Green-born changelings gain a +2 racial bonus on Bluff checks against creatures that could be sexually…"
+     "summary": "Shy and soft-spoken, but possessed of grace and insight, callow mays are masterful manipulators who deeply appreciate the beautiful things in the world. Ancestry Green hag Typical Alignment CN Ability Modifiers +2 Wis, +2 Cha, -2 Con Hag Racial Trait Green-born changelings gain a +2 racial bonus on Bluff checks against creatures that could be sexually…",
+     "stats": [
+      [
+       "Ancestry",
+       "Green hag"
+      ],
+      [
+       "Typical Alignment",
+       "CN"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Wis, +2 Cha, -2 Con"
+      ],
+      [
+       "Hag Racial Trait",
+       "Green-born changelings gain a +2 racial bonus on Bluff checks against creatures that could be sexually attracted to them"
+      ],
+      [
+       "Awakened Hag Heritage",
+       "You can cast disguise self once per day as a spell-like ability, treating your character level as your caster level. The bonus on Bluff checks you gain from your hag racial trait applies when someone could be sexually attracted to your disguised form as well"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Mute-Born (Sorrow May)",
@@ -828,7 +1445,31 @@
       "wis": 2,
       "cha": 0
      },
-     "summary": "Unique among their kind, sorrow mays manifest spontaneously without the need for hag mothers, and likewise hold the potential to corrupt themselves, transforming into hags should their hearts grow cold. Ancestry Mute hag Typical Alignment CN Ability Modifiers +2 Int, +2 Wis, -2 Con Hag Racial Trait Mute-born changelings gain a +2 racial bonus on saving…"
+     "summary": "Unique among their kind, sorrow mays manifest spontaneously without the need for hag mothers, and likewise hold the potential to corrupt themselves, transforming into hags should their hearts grow cold. Ancestry Mute hag Typical Alignment CN Ability Modifiers +2 Int, +2 Wis, -2 Con Hag Racial Trait Mute-born changelings gain a +2 racial bonus on saving…",
+     "stats": [
+      [
+       "Ancestry",
+       "Mute hag"
+      ],
+      [
+       "Typical Alignment",
+       "CN"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Int, +2 Wis, -2 Con"
+      ],
+      [
+       "Hag Racial Trait",
+       "Mute-born changelings gain a +2 racial bonus on saving throws against gaze attacks"
+      ],
+      [
+       "Awakened Hag Heritage",
+       "When you confirm a critical hit with your claw attack, your opponent is blinded for 1d6 rounds. A target that succeeds at a Fortitude saving throw (DC = 10 + half your character level + your Charisma modifier) is dazzled for 1 round instead"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Night-Born (Moon May)",
@@ -840,7 +1481,31 @@
       "wis": 2,
       "cha": 2
      },
-     "summary": "As much made as born, moon mays are deliberately created by night hags with foul futures in mind. Destiny haunts their lives, fanning pride and natural talent into megalomania. Ancestry Night hag Typical Alignment N Ability Modifiers +2 Wis, +2 Cha, -2 Dex Hag Racial Trait Night-born changelings gain a +2 racial bonus on saving throws against disease.…"
+     "summary": "As much made as born, moon mays are deliberately created by night hags with foul futures in mind. Destiny haunts their lives, fanning pride and natural talent into megalomania. Ancestry Night hag Typical Alignment N Ability Modifiers +2 Wis, +2 Cha, -2 Dex Hag Racial Trait Night-born changelings gain a +2 racial bonus on saving throws against disease.…",
+     "stats": [
+      [
+       "Ancestry",
+       "Night hag"
+      ],
+      [
+       "Typical Alignment",
+       "N"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Wis, +2 Cha, -2 Dex"
+      ],
+      [
+       "Hag Racial Trait",
+       "Night-born changelings gain a +2 racial bonus on saving throws against disease"
+      ],
+      [
+       "Awakened Hag Heritage",
+       "You can form a lesser heartstone by performing an 8-hour ritual over any gem worth at least 500 gp. While you carry it, a lesser heartstone allows you to apply your +2 racial bonus on saving throws against disease to all Fortitude saves. A lesser heartstone can also be used as a focus to replace any material spell components worth 10 gp or less. A lesser heartstone is considered to have a caster level equal to your character level at the time of its creation"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Sea-Born (Brine May)",
@@ -852,7 +1517,31 @@
       "wis": 2,
       "cha": 0
      },
-     "summary": "Dauntless free spirits, brine mays wander like the wind and water, and just like the elements, they have little concern for others' plans. Ancestry Sea hag Typical Alignment CN Ability Modifiers +2 Dex, +2 Wis, -2 Con Hag Racial Trait Sea-born changelings can hold their breath for a number of rounds equal to three times their Constitution score before they…"
+     "summary": "Dauntless free spirits, brine mays wander like the wind and water, and just like the elements, they have little concern for others' plans. Ancestry Sea hag Typical Alignment CN Ability Modifiers +2 Dex, +2 Wis, -2 Con Hag Racial Trait Sea-born changelings can hold their breath for a number of rounds equal to three times their Constitution score before they…",
+     "stats": [
+      [
+       "Ancestry",
+       "Sea hag"
+      ],
+      [
+       "Typical Alignment",
+       "CN"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Dex, +2 Wis, -2 Con"
+      ],
+      [
+       "Hag Racial Trait",
+       "Sea-born changelings can hold their breath for a number of rounds equal to three times their Constitution score before they risk drowning"
+      ],
+      [
+       "Awakened Hag Heritage",
+       "You gain a swim speed equal to your base speed and can move in water without attempting Swim checks. Swim is a class skill for you"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Storm-Born (Virga May)",
@@ -864,7 +1553,31 @@
       "wis": 2,
       "cha": 2
      },
-     "summary": "Born with cold temperaments but hot passions, virga mays reject large crowds and open spaces and prefer to keep their emotions under tight control, all too aware of raging torrents that burble below their calm exteriors. Ancestry Storm hag Typical Alignment CN Ability Modifiers +2 Wis, +2 Cha, -2 Con Hag Racial Trait Storm-born changelings are treated as…"
+     "summary": "Born with cold temperaments but hot passions, virga mays reject large crowds and open spaces and prefer to keep their emotions under tight control, all too aware of raging torrents that burble below their calm exteriors. Ancestry Storm hag Typical Alignment CN Ability Modifiers +2 Wis, +2 Cha, -2 Con Hag Racial Trait Storm-born changelings are treated as…",
+     "stats": [
+      [
+       "Ancestry",
+       "Storm hag"
+      ],
+      [
+       "Typical Alignment",
+       "CN"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Wis, +2 Cha, -2 Con"
+      ],
+      [
+       "Hag Racial Trait",
+       "Storm-born changelings are treated as two size categories larger for the purpose of resolving wind effects"
+      ],
+      [
+       "Awakened Hag Heritage",
+       "You can cast following spell-like abilities: 1/day—alter winds, create water, and obscuring mist. The caster level for these effects is equal to your level. The DC for these spells is equal to 10 + the spell's level + your Charisma modifier"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Winter-Born (Snow May)",
@@ -876,7 +1589,31 @@
       "wis": 0,
       "cha": 2
      },
-     "summary": "Playful and easily amused, snow mays are lighthearted but terribly creative once their anger is roused. Little phases these capricious women for long, and their casual cruelty can easily melt back to kindness. Ancestry Winter hag Typical Alignment CN Ability Modifiers +2 Int, +2 Cha, -2 Con Hag Racial Trait Winter-born changelings gain a +5 racial bonus on…"
+     "summary": "Playful and easily amused, snow mays are lighthearted but terribly creative once their anger is roused. Little phases these capricious women for long, and their casual cruelty can easily melt back to kindness. Ancestry Winter hag Typical Alignment CN Ability Modifiers +2 Int, +2 Cha, -2 Con Hag Racial Trait Winter-born changelings gain a +5 racial bonus on…",
+     "stats": [
+      [
+       "Ancestry",
+       "Winter hag"
+      ],
+      [
+       "Typical Alignment",
+       "CN"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Int, +2 Cha, -2 Con"
+      ],
+      [
+       "Hag Racial Trait",
+       "Winter-born changelings gain a +5 racial bonus on Acrobatics and Climb checks on icy or slippery surfaces"
+      ],
+      [
+       "Awakened Hag Heritage",
+       "You gain cold resistance equal to your character level and are no longer affected by severe cold or extreme cold"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     }
    ]
   },
@@ -931,7 +1668,27 @@
       "wis": 0,
       "cha": 0
      },
-     "summary": "The ru-shi are dhampirs who descend from the jiang-shi of Tian Xia. They generally lack any interest in physical contact, and their movements are stiff and awkward. Alternate Ability Modifiers: +2 Strength, +2 Intelligence, –2 Dexterity. Alternate Skill Modifiers: Acrobatics, Knowledge (engineering). Alternate Spell-Like Ability: Erase. Alternate Weakness:…"
+     "summary": "The ru-shi are dhampirs who descend from the jiang-shi of Tian Xia. They generally lack any interest in physical contact, and their movements are stiff and awkward. Alternate Ability Modifiers: +2 Strength, +2 Intelligence, –2 Dexterity. Alternate Skill Modifiers: Acrobatics, Knowledge (engineering). Alternate Spell-Like Ability: Erase. Alternate Weakness:…",
+     "stats": [
+      [
+       "Alternate Ability Modifiers",
+       "+2 Strength, +2 Intelligence, –2 Dexterity"
+      ],
+      [
+       "Alternate Skill Modifiers",
+       "Acrobatics, Knowledge (engineering)"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "Erase"
+      ],
+      [
+       "Alternate Weakness",
+       "Ru-shi take a –1 penalty on saves against sonic effects and spells"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Moroi-Born (Svetocher)",
@@ -943,7 +1700,27 @@
       "wis": 0,
       "cha": 2
      },
-     "summary": "These dhampirs are blessed with unnatural grace, beauty, and charm, and they often feel most at home among a region's aristocracy. Alternate Ability Modifiers: +2 Strength, +2 Charisma, –2 Constitution. Alternate Skill Modifiers: Diplomacy, Knowledge (nobility). Alternate Spell-Like Ability: Obscuring mist. Alternate Weakness: Svetochers take a –1 penalty…"
+     "summary": "These dhampirs are blessed with unnatural grace, beauty, and charm, and they often feel most at home among a region's aristocracy. Alternate Ability Modifiers: +2 Strength, +2 Charisma, –2 Constitution. Alternate Skill Modifiers: Diplomacy, Knowledge (nobility). Alternate Spell-Like Ability: Obscuring mist. Alternate Weakness: Svetochers take a –1 penalty…",
+     "stats": [
+      [
+       "Alternate Ability Modifiers",
+       "+2 Strength, +2 Charisma, –2 Constitution"
+      ],
+      [
+       "Alternate Skill Modifiers",
+       "Diplomacy, Knowledge (nobility)"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "Obscuring mist"
+      ],
+      [
+       "Alternate Weakness",
+       "Svetochers take a –1 penalty on saves against effects that deal positive energy damage"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Nosferatu-Born (Ancient-Born)",
@@ -955,7 +1732,27 @@
       "wis": 2,
       "cha": 0
      },
-     "summary": "Many of the ancient-born dhampirs possess a deep hatred for humanity—a hatred most humans return in kind. Alternate Ability Modifiers: +2 Strength, +2 Wisdom, –2 Constitution. Alternate Skill Modifiers: Climb, Survival. Alternate Spell-Like Ability: Doom. Alternate Weakness: Ancient-born take a –1 penalty on saves against effects that damage, drain, or…"
+     "summary": "Many of the ancient-born dhampirs possess a deep hatred for humanity—a hatred most humans return in kind. Alternate Ability Modifiers: +2 Strength, +2 Wisdom, –2 Constitution. Alternate Skill Modifiers: Climb, Survival. Alternate Spell-Like Ability: Doom. Alternate Weakness: Ancient-born take a –1 penalty on saves against effects that damage, drain, or…",
+     "stats": [
+      [
+       "Alternate Ability Modifiers",
+       "+2 Strength, +2 Wisdom, –2 Constitution"
+      ],
+      [
+       "Alternate Skill Modifiers",
+       "Climb, Survival"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "Doom"
+      ],
+      [
+       "Alternate Weakness",
+       "Ancient-born take a –1 penalty on saves against effects that damage, drain, or reduce physical ability scores"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Vetala-Born (Ajibachana)",
@@ -967,7 +1764,27 @@
       "wis": -2,
       "cha": 0
      },
-     "summary": "These dhampirs are more often the result of magical experiments than mating. Alternate Ability Modifiers: +2 Dexterity, +2 Intelligence, –2 Wisdom. Alternate Skill Modifiers: Escape Artist, Use Magic Device. Alternate Spell-Like Ability: Comprehend languages. Alternate Weakness: Ajibachanas take a –1 penalty to their caster levels when they're in an area…"
+     "summary": "These dhampirs are more often the result of magical experiments than mating. Alternate Ability Modifiers: +2 Dexterity, +2 Intelligence, –2 Wisdom. Alternate Skill Modifiers: Escape Artist, Use Magic Device. Alternate Spell-Like Ability: Comprehend languages. Alternate Weakness: Ajibachanas take a –1 penalty to their caster levels when they're in an area…",
+     "stats": [
+      [
+       "Alternate Ability Modifiers",
+       "+2 Dexterity, +2 Intelligence, –2 Wisdom"
+      ],
+      [
+       "Alternate Skill Modifiers",
+       "Escape Artist, Use Magic Device"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "Comprehend languages"
+      ],
+      [
+       "Alternate Weakness",
+       "Ajibachanas take a –1 penalty to their caster levels when they're in an area affected by consecrate, hallow, or a similar spell that makes an area holy"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     }
    ]
   },
@@ -1099,7 +1916,39 @@
     {
      "name": "Expanded Oddities",
      "mods": null,
-     "summary": "Due to the Maelstrom’s entropic influence on their compositions, ganzis each have an unusual but defining feature—referred to as an oddity—that sets them apart from other races and even from other members of their own race. These oddities vary wildly from ganzi to ganzi, and they can manifest as physical features, such as feathers, scales, or a tail, or as…"
+     "summary": "Due to the Maelstrom’s entropic influence on their compositions, ganzis each have an unusual but defining feature—referred to as an oddity—that sets them apart from other races and even from other members of their own race. These oddities vary wildly from ganzi to ganzi, and they can manifest as physical features, such as feathers, scales, or a tail, or as…",
+     "stats": [
+      [
+       "1–3: Amorphous Limbs (Su)",
+       "The influence of the Maelstrom manifests in the ganzi’s ability to transform one of her limbs at will, often into a natural weapon such as a massive clawed arm. Every 1d4 rounds as a swift action, a ganzi can transform one of her limbs into a natural melee weapon that deals 1d6 points of damage. The transformation lasts until the beginning of the ganzi’s next turn. The damage dealt by this natural weapon can be lethal or nonlethal, at the ganzi’s discretion, and she chooses whether the damage type is bludgeoning, piercing, or slashing"
+      ],
+      [
+       "4–6: Ink (Ex)",
+       "As a standard action, the ganzi can spit a stream of opaque, black ink from her mouth to a distance of up to 20 feet. The ganzi can target either a creature or a square on the ground, each with different effects, as detailed below. The ganzi can use this ability once per day, plus one additional time per day for every 4 Hit Dice she has"
+      ],
+      [
+       "7–10: Racing Mind (Ex)",
+       "A ganzi whose lineage is linked to hunduns might inherit an aspect of the outsiders’ chaotic minds. The ganzi’s churning vortex of thoughts bolsters it against mental attacks, granting the ganzi a +2 bonus on Will saves against mind-affecting effects"
+      ],
+      [
+       "11–13: Spell-Like Ability (Sp)",
+       "Ganzis whose chaotic influences rise from sources other than the Maelstrom or its inhabitants often manifest an oddity that duplicates the effects of a specific spell. Such a ganzi gains one of the following spell-like abilities, which can be used once per day with a caster level equal to the ganzi’s HD: acid arrow, gust of wind, mirror image, resist energy, scorching ray, see invisibility, or warp wood"
+      ],
+      [
+       "14–16: Uncanny Aura (Su)",
+       "Some ganzis have an unsettling aura of chaos that rattles hostile creatures that venture too close. Once per day as a standard action, such a ganzi can activate an uncanny aura; enemies within 30 feet must succeed at a Will saving throw (DC = 10 + half the ganzi’s Hit Dice + the ganzi’s Charisma modifier) or become frightened until the beginning of the ganzi’s next turn. The aura remains for a number of rounds equal to the ganzi’s Charisma modifier (minimum 1 round). Once a creature has been affected by an uncanny aura, whether it failed its save or not, it cannot be affected again for 24 hours"
+      ],
+      [
+       "17–18: Vestigial Wings (Ex)",
+       "The ganzi has a pair of small, vestigial wings, likely but not limited to resembling those of a flying creature or some manner of construct. Though these appendages do not grant flight, these ganzis can use their wings to stabilize themselves when they’re thrown off balance. Such ganzis gain a +1 bonus on Reflex saving throws and a +2 bonus on Acrobatics checks to balance"
+      ],
+      [
+       "19–20: Void Touch (Su)",
+       "A ganzi whose lineage is influenced strongly by voidworms might exhibit the ability to inflict chaos on others’ minds. Three times per day when such a ganzi hits a creature with a melee attack, the ganzi can deliver a burst of chaos to that creature as a free action. The target must succeed at a Will save (DC = 10 + half the ganzi’s Hit Dice + the ganzi’s Constitution modifier) or be confused for 1 round"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     }
    ]
   },
@@ -1189,7 +2038,10 @@
     {
      "name": "Oversized Goblins",
      "mods": null,
-     "summary": "A few goblins attain a much larger size than their kin. No one is exactly sure why they grow to be giants among their kind, but it’s probably due to a combination of luck, diet, and constant access to food. These goblins are monsters among their own kind, not just in height, but also in girth and in strength. If not cast out for eating all of the tribe’s…"
+     "summary": "A few goblins attain a much larger size than their kin. No one is exactly sure why they grow to be giants among their kind, but it’s probably due to a combination of luck, diet, and constant access to food. These goblins are monsters among their own kind, not just in height, but also in girth and in strength. If not cast out for eating all of the tribe’s…",
+     "stats": [],
+     "alts": [],
+     "replaces": []
     }
    ]
   },
@@ -1307,7 +2159,27 @@
       "wis": 0,
       "cha": 0
      },
-     "summary": "Like the primal fires of creation, lavasoul ifrits are both fluid and fixed, alternating between stability and violent alteration. Typical Alignment CN Ability Modifiers +2 Con, +2 Int, –2 Dex Alternate Spell-Like Ability Lavasouls gain burning sands as a spell-like ability. Magma Affinity This racial trait functions as and can be replaced as the base…"
+     "summary": "Like the primal fires of creation, lavasoul ifrits are both fluid and fixed, alternating between stability and violent alteration. Typical Alignment CN Ability Modifiers +2 Con, +2 Int, –2 Dex Alternate Spell-Like Ability Lavasouls gain burning sands as a spell-like ability. Magma Affinity This racial trait functions as and can be replaced as the base…",
+     "stats": [
+      [
+       "Typical Alignment",
+       "CN"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Con, +2 Int, –2 Dex"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "Lavasouls gain burning sands as a spell-like ability"
+      ],
+      [
+       "Magma Affinity",
+       "This racial trait functions as and can be replaced as the base ifrit’s fire affinity, except it benefits sorcerers with the efreeti bloodline and spellcasters with the Ash subdomain"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Sunsoul (Solar Ifrit)",
@@ -1319,7 +2191,27 @@
       "wis": -2,
       "cha": 2
      },
-     "summary": "Strong in character and in body, sunsoul ifrits are incurably optimistic agents of positive change. Typical Alignment LG Ability Modifiers +2 Str, +2 Cha, –2 Wis Alternate Spell-Like Ability Sunsouls gain sun metal as a spell-like ability. Solar Affinity This racial trait functions as and can be replaced as the base ifrit’s fire affinity, except it benefits…"
+     "summary": "Strong in character and in body, sunsoul ifrits are incurably optimistic agents of positive change. Typical Alignment LG Ability Modifiers +2 Str, +2 Cha, –2 Wis Alternate Spell-Like Ability Sunsouls gain sun metal as a spell-like ability. Solar Affinity This racial trait functions as and can be replaced as the base ifrit’s fire affinity, except it benefits…",
+     "stats": [
+      [
+       "Typical Alignment",
+       "LG"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Str, +2 Cha, –2 Wis"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "Sunsouls gain sun metal as a spell-like ability"
+      ],
+      [
+       "Solar Affinity",
+       "This racial trait functions as and can be replaced as the base ifrit’s fire affinity, except it benefits sorcerers with the celestial bloodline and spellcasters with the Sun domain"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     }
    ]
   },
@@ -1472,7 +2364,12 @@
     {
      "name": "Outsear Merfolk",
      "mods": null,
-     "summary": "The settlement of Outsea is a bizarre environment: a saltwater oasis for merfolk and sahuagin in the freshwater River Kingdoms. Centuries ago, a sahuagin nation from the Inner Sea mobilized a city-sized saltwater bolus for an overland assault on a merfolk state located near modern-day Korvosa. The merfolk learned of this ambitious plan and sent an elite…"
+     "summary": "The settlement of Outsea is a bizarre environment: a saltwater oasis for merfolk and sahuagin in the freshwater River Kingdoms. Centuries ago, a sahuagin nation from the Inner Sea mobilized a city-sized saltwater bolus for an overland assault on a merfolk state located near modern-day Korvosa. The merfolk learned of this ambitious plan and sent an elite…",
+     "stats": [],
+     "alts": [
+      "Unexpected Ally"
+     ],
+     "replaces": []
     }
    ]
   },
@@ -1632,7 +2529,27 @@
       "wis": -2,
       "cha": 2
      },
-     "summary": "With scintillating personalities to match their captivating appearances, gemsoul oreads command attention—and prefer it that way. Typical Alignment N Ability Modifiers +2 Str, +2 Cha, –2 Wis Alternate Spell-Like Ability Gemsouls gain color spray as a spell-like ability. Crystal Affinity This racial trait functions as and can be replaced as the base oread’s…"
+     "summary": "With scintillating personalities to match their captivating appearances, gemsoul oreads command attention—and prefer it that way. Typical Alignment N Ability Modifiers +2 Str, +2 Cha, –2 Wis Alternate Spell-Like Ability Gemsouls gain color spray as a spell-like ability. Crystal Affinity This racial trait functions as and can be replaced as the base oread’s…",
+     "stats": [
+      [
+       "Typical Alignment",
+       "N"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Str, +2 Cha, –2 Wis"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "Gemsouls gain color spray as a spell-like ability"
+      ],
+      [
+       "Crystal Affinity",
+       "This racial trait functions as and can be replaced as the base oread’s earth affinity, except it benefits sorcerers with the deep earth bloodline and spellcasters with the Charm domain"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Ironsoul (Metal Oread)",
@@ -1644,7 +2561,27 @@
       "wis": 2,
       "cha": 0
      },
-     "summary": "Stolid and indomitable, ironsoul oreads undertake great works, both physical and conceptual, with unwavering determination. Typical Alignment LN Ability Modifiers +2 Con, +2 Wis, –2 Dex Alternate Spell-Like Ability Ironsouls gain unerring weapon as a spell-like ability. Metal Affinity This racial trait functions as and can be replaced as the base oread’s…"
+     "summary": "Stolid and indomitable, ironsoul oreads undertake great works, both physical and conceptual, with unwavering determination. Typical Alignment LN Ability Modifiers +2 Con, +2 Wis, –2 Dex Alternate Spell-Like Ability Ironsouls gain unerring weapon as a spell-like ability. Metal Affinity This racial trait functions as and can be replaced as the base oread’s…",
+     "stats": [
+      [
+       "Typical Alignment",
+       "LN"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Con, +2 Wis, –2 Dex"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "Ironsouls gain unerring weapon as a spell-like ability"
+      ],
+      [
+       "Metal Affinity",
+       "This racial trait functions as and can be replaced as the base oread’s earth affinity, except it benefits sorcerers with the shaitan bloodline and spellcasters with the Metal subdomain"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     }
    ]
   },
@@ -1776,7 +2713,13 @@
     {
      "name": "Outsear Sahuagin",
      "mods": null,
-     "summary": "The settlement of Outsea is a bizarre environment: a saltwater oasis for merfolk and sahuagin in the freshwater River Kingdoms. Centuries ago, a sahuagin nation from the Inner Sea mobilized a city-sized saltwater bolus for an overland assault on a merfolk state located near modern-day Korvosa. The merfolk learned of this ambitious plan and sent an elite…"
+     "summary": "The settlement of Outsea is a bizarre environment: a saltwater oasis for merfolk and sahuagin in the freshwater River Kingdoms. Centuries ago, a sahuagin nation from the Inner Sea mobilized a city-sized saltwater bolus for an overland assault on a merfolk state located near modern-day Korvosa. The merfolk learned of this ambitious plan and sent an elite…",
+     "stats": [],
+     "alts": [
+      "Sahuagin Song",
+      "Stoic Defender"
+     ],
+     "replaces": []
     }
    ]
   },
@@ -1852,7 +2795,23 @@
       "wis": -2,
       "cha": 0
      },
-     "summary": "These skinwalkers are usually communal and defer readily to their superiors. They prefer dwelling in areas of dense foliage, such as jungles or forests. They often have little trust for those not in their immediate clan. Ability Modifiers +2 Intelligence, –2 Wisdom (+2 Dexterity while shapechanged) Alternate Skill Modifiers Fly, Perception at night…"
+     "summary": "These skinwalkers are usually communal and defer readily to their superiors. They prefer dwelling in areas of dense foliage, such as jungles or forests. They often have little trust for those not in their immediate clan. Ability Modifiers +2 Intelligence, –2 Wisdom (+2 Dexterity while shapechanged) Alternate Skill Modifiers Fly, Perception at night…",
+     "stats": [
+      [
+       "Ability Modifiers",
+       "+2 Intelligence, –2 Wisdom (+2 Dexterity while shapechanged)"
+      ],
+      [
+       "Alternate Skill Modifiers",
+       "Fly, Perception at night"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "obscuring mist 1/day"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Werebear-Kin (Coldborn)",
@@ -1864,7 +2823,23 @@
       "wis": 2,
       "cha": -2
      },
-     "summary": "Known and respected as the defenders of the wild in many parts of the Lands of the Linnorm Kings, these skinwalkers often prefer to live as recluses. Ability Modifiers +2 Constitution, –2 Charisma (+2 Wisdom while shapechanged) Alternate Skill Modifiers Climb, wild empathy Alternate Spell-Like Ability calm animals 1/day Bestial Features Bite attack that…"
+     "summary": "Known and respected as the defenders of the wild in many parts of the Lands of the Linnorm Kings, these skinwalkers often prefer to live as recluses. Ability Modifiers +2 Constitution, –2 Charisma (+2 Wisdom while shapechanged) Alternate Skill Modifiers Climb, wild empathy Alternate Spell-Like Ability calm animals 1/day Bestial Features Bite attack that…",
+     "stats": [
+      [
+       "Ability Modifiers",
+       "+2 Constitution, –2 Charisma (+2 Wisdom while shapechanged)"
+      ],
+      [
+       "Alternate Skill Modifiers",
+       "Climb, wild empathy"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "calm animals 1/day"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Wereboar-Kin (Ragebred)",
@@ -1876,7 +2851,23 @@
       "wis": 0,
       "cha": -2
      },
-     "summary": "These skinwalkers are known for their fiery tempers and stubborn streaks, features that have earned them respect in remote corners of Garund, Cheliax, and Varisia as freedom fighters. Ability Modifiers +2 Strength, –2 Charisma (+2 Constitution while shapechanged) Alternate Skill Modifiers Handle Animal, Perception Alternate Spell-Like Ability speak with…"
+     "summary": "These skinwalkers are known for their fiery tempers and stubborn streaks, features that have earned them respect in remote corners of Garund, Cheliax, and Varisia as freedom fighters. Ability Modifiers +2 Strength, –2 Charisma (+2 Constitution while shapechanged) Alternate Skill Modifiers Handle Animal, Perception Alternate Spell-Like Ability speak with…",
+     "stats": [
+      [
+       "Ability Modifiers",
+       "+2 Strength, –2 Charisma (+2 Constitution while shapechanged)"
+      ],
+      [
+       "Alternate Skill Modifiers",
+       "Handle Animal, Perception"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "speak with animals (pigs and boars only) 3/day"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Werecrocodile-Kin (Scaleheart)",
@@ -1888,7 +2879,23 @@
       "wis": -2,
       "cha": 0
      },
-     "summary": "Found most often in areas such as the Shackles and the Sodden lands, these skinwalkers are often brutish and cruel. Ability Modifiers +2 Constitution, –2 Wisdom (+2 Strength while shapechanged) Alternate Skill Modifiers Stealth, wild empathy Alternate Spell-Like Ability scare 1/day Bestial Features Bite attack that deals 1d6 points of damage Darkvision to a…"
+     "summary": "Found most often in areas such as the Shackles and the Sodden lands, these skinwalkers are often brutish and cruel. Ability Modifiers +2 Constitution, –2 Wisdom (+2 Strength while shapechanged) Alternate Skill Modifiers Stealth, wild empathy Alternate Spell-Like Ability scare 1/day Bestial Features Bite attack that deals 1d6 points of damage Darkvision to a…",
+     "stats": [
+      [
+       "Ability Modifiers",
+       "+2 Constitution, –2 Wisdom (+2 Strength while shapechanged)"
+      ],
+      [
+       "Alternate Skill Modifiers",
+       "Stealth, wild empathy"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "scare 1/day"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Wereraptor-Kin (Aerieborn)",
@@ -1900,7 +2907,31 @@
       "wis": 2,
       "cha": -2
      },
-     "summary": "Ancestry wereraptor Typical Alignment LN Ability Modifiers +2 Wis, –2 Cha (+2 Dex while shapechanged) Alternate Skill Modifiers Perception, Sense Motive Alternate Spell-Like Ability feather fall 1/day Bestial Features Bite attack that deals 1d6 points of damage 2 talon attacks that each deal 1d4 points of damage +4 racial bonus on Perception checks Increase…"
+     "summary": "Ancestry wereraptor Typical Alignment LN Ability Modifiers +2 Wis, –2 Cha (+2 Dex while shapechanged) Alternate Skill Modifiers Perception, Sense Motive Alternate Spell-Like Ability feather fall 1/day Bestial Features Bite attack that deals 1d6 points of damage 2 talon attacks that each deal 1d4 points of damage +4 racial bonus on Perception checks Increase…",
+     "stats": [
+      [
+       "Ancestry",
+       "wereraptor"
+      ],
+      [
+       "Typical Alignment",
+       "LN"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Wis, –2 Cha (+2 Dex while shapechanged)"
+      ],
+      [
+       "Alternate Skill Modifiers",
+       "Perception, Sense Motive"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "feather fall 1/day"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Wererat-Kin (Nightskulk)",
@@ -1912,7 +2943,23 @@
       "wis": 0,
       "cha": 0
      },
-     "summary": "These creatures, who are among the more common of the skinwalkers, prefer to dwell in urban areas. Ability Modifiers +2 Intelligence, –2 Strength (+2 Dexterity while shapechanged) Alternate Skill Modifiers Handle Animal, Stealth in urban environments Alternate Spell-Like Ability speak with animals (rodents only) 3/day Bestial Features Bite attack that deals…"
+     "summary": "These creatures, who are among the more common of the skinwalkers, prefer to dwell in urban areas. Ability Modifiers +2 Intelligence, –2 Strength (+2 Dexterity while shapechanged) Alternate Skill Modifiers Handle Animal, Stealth in urban environments Alternate Spell-Like Ability speak with animals (rodents only) 3/day Bestial Features Bite attack that deals…",
+     "stats": [
+      [
+       "Ability Modifiers",
+       "+2 Intelligence, –2 Strength (+2 Dexterity while shapechanged)"
+      ],
+      [
+       "Alternate Skill Modifiers",
+       "Handle Animal, Stealth in urban environments"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "speak with animals (rodents only) 3/day"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Wereshark-Kin (Seascarred)",
@@ -1924,7 +2971,23 @@
       "wis": 2,
       "cha": 0
      },
-     "summary": "These unusual skinwalkers tend to be strong-willed and brisk in their patterns of speech. They often serve aboard pirate ships, where their traits are well appreciated. Ability Modifiers +2 Wisdom, –2 Intelligence (+2 Constitution while shapechanged) Alternate Skill Modifiers Perception, Swim Alternate Spell-Like Ability charm animal (aquatic animals only)…"
+     "summary": "These unusual skinwalkers tend to be strong-willed and brisk in their patterns of speech. They often serve aboard pirate ships, where their traits are well appreciated. Ability Modifiers +2 Wisdom, –2 Intelligence (+2 Constitution while shapechanged) Alternate Skill Modifiers Perception, Swim Alternate Spell-Like Ability charm animal (aquatic animals only)…",
+     "stats": [
+      [
+       "Ability Modifiers",
+       "+2 Wisdom, –2 Intelligence (+2 Constitution while shapechanged)"
+      ],
+      [
+       "Alternate Skill Modifiers",
+       "Perception, Swim"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "charm animal (aquatic animals only) 3/day"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Weretiger-Kin (Fanglord)",
@@ -1936,7 +2999,23 @@
       "wis": -2,
       "cha": 2
      },
-     "summary": "More common in Vudra than the Inner Sea region, these skinwalkers are notorious for their fickle attitudes. Ability Modifiers +2 Dexterity, –2 Wisdom (+2 Charisma while shapechanged) Alternate Skill Modifiers Acrobatics, Perception Alternate Spell-Like Ability jump 1/day Bestial Features Bite attack that deals 1d6 points of damage 2 claw attacks that each…"
+     "summary": "More common in Vudra than the Inner Sea region, these skinwalkers are notorious for their fickle attitudes. Ability Modifiers +2 Dexterity, –2 Wisdom (+2 Charisma while shapechanged) Alternate Skill Modifiers Acrobatics, Perception Alternate Spell-Like Ability jump 1/day Bestial Features Bite attack that deals 1d6 points of damage 2 claw attacks that each…",
+     "stats": [
+      [
+       "Ability Modifiers",
+       "+2 Dexterity, –2 Wisdom (+2 Charisma while shapechanged)"
+      ],
+      [
+       "Alternate Skill Modifiers",
+       "Acrobatics, Perception"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "jump 1/day"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Werewolf-Kin (Witchwolf)",
@@ -1948,7 +3027,23 @@
       "wis": 2,
       "cha": 0
      },
-     "summary": "Perhaps the most prevalent breed of skinwalker, witchwolves prefer dwelling with others of their kind. Ability Modifiers +2 Constitution, –2 Intelligence (+2 Wisdom while shapechanged) Alternate Skill Modifiers Perception, wild empathy Alternate Spell-Like Ability magic fang 1/day Bestial Features Bite attack that deals 1d6 points of damage 2 claw attacks…"
+     "summary": "Perhaps the most prevalent breed of skinwalker, witchwolves prefer dwelling with others of their kind. Ability Modifiers +2 Constitution, –2 Intelligence (+2 Wisdom while shapechanged) Alternate Skill Modifiers Perception, wild empathy Alternate Spell-Like Ability magic fang 1/day Bestial Features Bite attack that deals 1d6 points of damage 2 claw attacks…",
+     "stats": [
+      [
+       "Ability Modifiers",
+       "+2 Constitution, –2 Intelligence (+2 Wisdom while shapechanged)"
+      ],
+      [
+       "Alternate Skill Modifiers",
+       "Perception, wild empathy"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "magic fang 1/day"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     }
    ]
   },
@@ -2045,7 +3140,27 @@
       "wis": 0,
       "cha": 2
      },
-     "summary": "Veiled and surreptitious, smokesoul sylphs are natural deceivers, always concealing their true intentions. Typical Alignment CE Ability Modifiers +2 Dex, +2 Cha, –2 Con Alternate Spell-Like Ability Smokesouls gain blurred movement as a spell-like ability. Smoke Affinity This racial trait functions as and can be replaced as the base sylph’s air affinity,…"
+     "summary": "Veiled and surreptitious, smokesoul sylphs are natural deceivers, always concealing their true intentions. Typical Alignment CE Ability Modifiers +2 Dex, +2 Cha, –2 Con Alternate Spell-Like Ability Smokesouls gain blurred movement as a spell-like ability. Smoke Affinity This racial trait functions as and can be replaced as the base sylph’s air affinity,…",
+     "stats": [
+      [
+       "Typical Alignment",
+       "CE"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Dex, +2 Cha, –2 Con"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "Smokesouls gain blurred movement as a spell-like ability"
+      ],
+      [
+       "Smoke Affinity",
+       "This racial trait functions as and can be replaced as the base sylph’s air affinity, except it benefits sorcerers with the shadow bloodline and spellcasters with the Smoke subdomain"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Stormsoul (Lightning Sylph)",
@@ -2057,7 +3172,27 @@
       "wis": -2,
       "cha": 2
      },
-     "summary": "With an abundance of confidence and a shortage of patience, stormsoul sylphs are personalities who cannot be ignored. Typical Alignment CN Ability Modifiers +2 Dex, +2 Cha, –2 Wis Alternate Spell-Like Ability Stormsouls gain shocking grasp as a spell-like ability. Lightning Affinity This racial trait functions as and can be replaced as the base sylph’s air…"
+     "summary": "With an abundance of confidence and a shortage of patience, stormsoul sylphs are personalities who cannot be ignored. Typical Alignment CN Ability Modifiers +2 Dex, +2 Cha, –2 Wis Alternate Spell-Like Ability Stormsouls gain shocking grasp as a spell-like ability. Lightning Affinity This racial trait functions as and can be replaced as the base sylph’s air…",
+     "stats": [
+      [
+       "Typical Alignment",
+       "CN"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Dex, +2 Cha, –2 Wis"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "Stormsouls gain shocking grasp as a spell-like ability"
+      ],
+      [
+       "Lightning Affinity",
+       "This racial trait functions as and can be replaced as the base sylph’s air affinity, except it benefits sorcerers with the stormborn bloodline and spellcasters with the Weather domain"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     }
    ]
   },
@@ -2133,7 +3268,31 @@
       "wis": 2,
       "cha": 0
      },
-     "summary": "Lacking any sense of empathy or pity, faultspawn often abhor all ways of life but their own. They inflict severe emotional and physical pain on others, and never stop picking at the resulting psychological scars. Ancestry Asura Typical Alignment LE Ability Modifiers +2 Dex, +2 Wis, –2 Int Alternate Skill Modifiers Appraise, Knowledge (local) Alternate…"
+     "summary": "Lacking any sense of empathy or pity, faultspawn often abhor all ways of life but their own. They inflict severe emotional and physical pain on others, and never stop picking at the resulting psychological scars. Ancestry Asura Typical Alignment LE Ability Modifiers +2 Dex, +2 Wis, –2 Int Alternate Skill Modifiers Appraise, Knowledge (local) Alternate…",
+     "stats": [
+      [
+       "Ancestry",
+       "Asura"
+      ],
+      [
+       "Typical Alignment",
+       "LE"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Dex, +2 Wis, –2 Int"
+      ],
+      [
+       "Alternate Skill Modifiers",
+       "Appraise, Knowledge (local)"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "Faultspawn gain hideous laughter as a spell-like ability"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Daemon-Spawn (Grimspawn)",
@@ -2145,7 +3304,31 @@
       "wis": -2,
       "cha": 0
      },
-     "summary": "Dreary and pessimistic, grimspawn are so enthralled by death, disease, and dilapidation that they often dedicate themselves to ending lives from behind the scenes as macabre saboteurs. Ancestry Daemon Typical Alignment NE Ability Modifiers +2 Dex, +2 Int, –2 Wis Alternate Skill Modifiers Disable Device, Sleight of Hand Alternate Spell-Like Ability Grimspawn…"
+     "summary": "Dreary and pessimistic, grimspawn are so enthralled by death, disease, and dilapidation that they often dedicate themselves to ending lives from behind the scenes as macabre saboteurs. Ancestry Daemon Typical Alignment NE Ability Modifiers +2 Dex, +2 Int, –2 Wis Alternate Skill Modifiers Disable Device, Sleight of Hand Alternate Spell-Like Ability Grimspawn…",
+     "stats": [
+      [
+       "Ancestry",
+       "Daemon"
+      ],
+      [
+       "Typical Alignment",
+       "NE"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Dex, +2 Int, –2 Wis"
+      ],
+      [
+       "Alternate Skill Modifiers",
+       "Disable Device, Sleight of Hand"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "Grimspawn gain death knell as a spell-like ability"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Demodand-Spawn (Foulspawn)",
@@ -2157,7 +3340,31 @@
       "wis": 2,
       "cha": 0
      },
-     "summary": "Crude and boorish, foulspawn take a particular delight in giving offense and scandalizing polite society. They enjoy violating taboos even more than breaking laws, especially if it means degrading or repulsing an innocent. Ancestry Demodand Typical Alignment CE Ability Modifiers +2 Con, +2 Wis, –2 Int Alternate Skill Modifiers Intimidate, Knowledge…"
+     "summary": "Crude and boorish, foulspawn take a particular delight in giving offense and scandalizing polite society. They enjoy violating taboos even more than breaking laws, especially if it means degrading or repulsing an innocent. Ancestry Demodand Typical Alignment CE Ability Modifiers +2 Con, +2 Wis, –2 Int Alternate Skill Modifiers Intimidate, Knowledge…",
+     "stats": [
+      [
+       "Ancestry",
+       "Demodand"
+      ],
+      [
+       "Typical Alignment",
+       "CE"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Con, +2 Wis, –2 Int"
+      ],
+      [
+       "Alternate Skill",
+       "Modifiers Intimidate, Knowledge (religion)"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "Foulspawn gain bear’s endurance as a spell-like ability"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Demon-Spawn (Pitborn)",
@@ -2169,7 +3376,31 @@
       "wis": 0,
       "cha": 2
      },
-     "summary": "Pitborn delight in destruction, especially while unleashing their havoc on what others consider valuable or precious. Perhaps because of this volatility, others tend to simply defer to pitborn, an act that often grants them the dominance they crave. Ancestry Demon Typical Alignment CE Ability Modifiers +2 Str, +2 Cha, –2 Int Alternate Skill Modifiers…"
+     "summary": "Pitborn delight in destruction, especially while unleashing their havoc on what others consider valuable or precious. Perhaps because of this volatility, others tend to simply defer to pitborn, an act that often grants them the dominance they crave. Ancestry Demon Typical Alignment CE Ability Modifiers +2 Str, +2 Cha, –2 Int Alternate Skill Modifiers…",
+     "stats": [
+      [
+       "Ancestry",
+       "Demon"
+      ],
+      [
+       "Typical Alignment",
+       "CE"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Str, +2 Cha, –2 Int"
+      ],
+      [
+       "Alternate Skill Modifiers",
+       "Disable Device, Perception"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "Pitborn gain shatter as a spell-like ability"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Devil-Spawn (Hellspawn)",
@@ -2181,7 +3412,27 @@
       "wis": 2,
       "cha": -2
      },
-     "summary": "While often rigid, stubborn, and highly focused on sticking to plans and schedules, hellspawn also have a rare talent for penetrating others’ facades. They know a lie when they hear one, and can often determine what hidden vice or secret shame motivates another. Ancestry Devil Typical Alignment LE Ability Modifiers +2 Con, +2 Wis, –2 Cha Alternate Skill…"
+     "summary": "While often rigid, stubborn, and highly focused on sticking to plans and schedules, hellspawn also have a rare talent for penetrating others’ facades. They know a lie when they hear one, and can often determine what hidden vice or secret shame motivates another. Ancestry Devil Typical Alignment LE Ability Modifiers +2 Con, +2 Wis, –2 Cha Alternate Skill…",
+     "stats": [
+      [
+       "Ancestry",
+       "Devil Typical Alignment LE"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Con, +2 Wis, –2 Cha"
+      ],
+      [
+       "Alternate Skill Modifiers",
+       "Diplomacy, Sense Motive"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "Hellspawn gain pyrotechnics as a spell-like ability"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Div-Spawn (Spitespawn)",
@@ -2193,7 +3444,31 @@
       "wis": 0,
       "cha": 2
      },
-     "summary": "An innate sense of jealousy and pure malice drives spitespawn to spread misery and despair. Unable to experience joy themselves, they devote their lives to promoting gloom, all the while hiding the hatefulness that lurks at their core. Ancestry Div Typical Alignment NE Ability Modifiers +2 Dex, +2 Cha, –2 Int Alternate Skill Modifiers Diplomacy, Linguistics…"
+     "summary": "An innate sense of jealousy and pure malice drives spitespawn to spread misery and despair. Unable to experience joy themselves, they devote their lives to promoting gloom, all the while hiding the hatefulness that lurks at their core. Ancestry Div Typical Alignment NE Ability Modifiers +2 Dex, +2 Cha, –2 Int Alternate Skill Modifiers Diplomacy, Linguistics…",
+     "stats": [
+      [
+       "Ancestry",
+       "Div"
+      ],
+      [
+       "Typical Alignment",
+       "NE"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Dex, +2 Cha, –2 Int"
+      ],
+      [
+       "Alternate Skill Modifiers",
+       "Diplomacy, Linguistics"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "Spitespawn gain misdirection as a spell-like ability"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Kyton-Spawn (Shackleborn)",
@@ -2205,7 +3480,31 @@
       "wis": -2,
       "cha": 2
      },
-     "summary": "Shackleborn are fascinated by mutilation and torture. Though they prefer to practice their cruel art on others, they accept that sometimes the wheel must turn and greet their own moments of anguish and confinement with an odd serenity. Ancestry Kyton Typical Alignment LE Ability Modifiers +2 Con, +2 Cha, –2 Wis Alternate Skill Modifiers Escape Artist,…"
+     "summary": "Shackleborn are fascinated by mutilation and torture. Though they prefer to practice their cruel art on others, they accept that sometimes the wheel must turn and greet their own moments of anguish and confinement with an odd serenity. Ancestry Kyton Typical Alignment LE Ability Modifiers +2 Con, +2 Cha, –2 Wis Alternate Skill Modifiers Escape Artist,…",
+     "stats": [
+      [
+       "Ancestry",
+       "Kyton"
+      ],
+      [
+       "Typical Alignment",
+       "LE"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Con, +2 Cha, –2 Wis"
+      ],
+      [
+       "Alternate Skill Modifiers",
+       "Escape Artist, Intimidate"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "Shackleborn gain web as a spell-like ability"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Oni-Spawn (Hungerseed)",
@@ -2217,7 +3516,31 @@
       "wis": 2,
       "cha": -2
      },
-     "summary": "Endowed with brawny muscles and thick bones, hungerseed always seem poised to explode into some larger, more powerful form, and have a voracious appetite for sensory pleasures and carnal delights. Ancestry Oni Typical Alignment LE Ability Modifiers +2 Str, +2 Wis, –2 Cha Alternate Skill Modifiers Disguise, Intimidate Alternate Spell-Like Ability Hungerseed…"
+     "summary": "Endowed with brawny muscles and thick bones, hungerseed always seem poised to explode into some larger, more powerful form, and have a voracious appetite for sensory pleasures and carnal delights. Ancestry Oni Typical Alignment LE Ability Modifiers +2 Str, +2 Wis, –2 Cha Alternate Skill Modifiers Disguise, Intimidate Alternate Spell-Like Ability Hungerseed…",
+     "stats": [
+      [
+       "Ancestry",
+       "Oni"
+      ],
+      [
+       "Typical Alignment",
+       "LE"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Str, +2 Wis, –2 Cha"
+      ],
+      [
+       "Alternate Skill Modifiers",
+       "Disguise, Intimidate"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "Hungerseed gain alter self as a spell-like ability"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Qlippoth-Spawn (the Motherless)",
@@ -2229,7 +3552,31 @@
       "wis": 2,
       "cha": 0
      },
-     "summary": "No woman survives the birth of a babe whose qlippoth ancestry has emerged. At best, qlippoth-spawn rip their mothers apart during labor. At worst, they tear themselves out even earlier. Ancestry Qlippoth Typical Alignment CE Ability Modifiers +2 Str, +2 Wis, –2 Int Alternate Skill Modifiers Escape Artist, Survival Alternate Spell-Like Ability The motherless…"
+     "summary": "No woman survives the birth of a babe whose qlippoth ancestry has emerged. At best, qlippoth-spawn rip their mothers apart during labor. At worst, they tear themselves out even earlier. Ancestry Qlippoth Typical Alignment CE Ability Modifiers +2 Str, +2 Wis, –2 Int Alternate Skill Modifiers Escape Artist, Survival Alternate Spell-Like Ability The motherless…",
+     "stats": [
+      [
+       "Ancestry",
+       "Qlippoth"
+      ],
+      [
+       "Typical Alignment",
+       "CE"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Str, +2 Wis, –2 Int"
+      ],
+      [
+       "Alternate Skill Modifiers",
+       "Escape Artist, Survival"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "The motherless gain blur as a spell-like ability"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Rakshasa-Spawn (Beastbrood)",
@@ -2241,7 +3588,31 @@
       "wis": -2,
       "cha": 2
      },
-     "summary": "Beastbrood regard themselves as deserving of appreciation and opulence. Through deceit and sheer willpower, they often achieve privileged stations in society. Ancestry Rakshasa Typical Alignment LE Ability Modifiers +2 Dex, +2 Cha, –2 Wis Alternate Skill Modifiers Disguise, Sense Motive Alternate Spell-Like Ability Beastbrood gain detect thoughts as a…"
+     "summary": "Beastbrood regard themselves as deserving of appreciation and opulence. Through deceit and sheer willpower, they often achieve privileged stations in society. Ancestry Rakshasa Typical Alignment LE Ability Modifiers +2 Dex, +2 Cha, –2 Wis Alternate Skill Modifiers Disguise, Sense Motive Alternate Spell-Like Ability Beastbrood gain detect thoughts as a…",
+     "stats": [
+      [
+       "Ancestry",
+       "Rakshasa"
+      ],
+      [
+       "Typical Alignment",
+       "LE"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Dex, +2 Cha, –2 Wis"
+      ],
+      [
+       "Alternate Skill Modifiers",
+       "Disguise, Sense Motive"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "Beastbrood gain detect thoughts as a spell-like ability"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     }
    ]
   },
@@ -2338,7 +3709,27 @@
       "wis": 2,
       "cha": 0
      },
-     "summary": "Soothing and insightful, mistsoul undines move through the world with airy resilience and earnest action. Typical Alignment NG Ability Modifiers +2 Con, +2 Wis, –2 Int Alternate Spell-Like Ability Mistsouls gain obscuring mist as a spell-like ability. Mist Affinity This racial trait functions as and can be replaced as the base undine’s water affinity,…"
+     "summary": "Soothing and insightful, mistsoul undines move through the world with airy resilience and earnest action. Typical Alignment NG Ability Modifiers +2 Con, +2 Wis, –2 Int Alternate Spell-Like Ability Mistsouls gain obscuring mist as a spell-like ability. Mist Affinity This racial trait functions as and can be replaced as the base undine’s water affinity,…",
+     "stats": [
+      [
+       "Typical Alignment",
+       "NG"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Con, +2 Wis, –2 Int"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "Mistsouls gain obscuring mist as a spell-like ability"
+      ],
+      [
+       "Mist Affinity",
+       "This racial trait functions as and can be replaced as the base undine’s water affinity, except it benefits sorcerers with the dreamspun bloodline and spellcasters with the Repose domain"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     },
     {
      "name": "Rimesoul (Frost Undine)",
@@ -2350,7 +3741,27 @@
       "wis": 0,
       "cha": -2
      },
-     "summary": "Rimesoul undines are distant and imperious, aloof in their intellect and hesitant to change their ways. Typical Alignment LN Ability Modifiers +2 Dex, +2 Int, –2 Cha Alternate Spell-Like Ability Rimesouls gain chill touch as a spell-like ability. Ice Affinity This racial trait functions as and can be replaced as the base undine’s water affinity, except it…"
+     "summary": "Rimesoul undines are distant and imperious, aloof in their intellect and hesitant to change their ways. Typical Alignment LN Ability Modifiers +2 Dex, +2 Int, –2 Cha Alternate Spell-Like Ability Rimesouls gain chill touch as a spell-like ability. Ice Affinity This racial trait functions as and can be replaced as the base undine’s water affinity, except it…",
+     "stats": [
+      [
+       "Typical Alignment",
+       "LN"
+      ],
+      [
+       "Ability Modifiers",
+       "+2 Dex, +2 Int, –2 Cha"
+      ],
+      [
+       "Alternate Spell-Like Ability",
+       "Rimesouls gain chill touch as a spell-like ability"
+      ],
+      [
+       "Ice Affinity",
+       "This racial trait functions as and can be replaced as the base undine’s water affinity, except it benefits sorcerers with the boreal bloodline and spellcasters with the Ice subdomain"
+      ]
+     ],
+     "alts": [],
+     "replaces": []
     }
    ]
   },
@@ -2524,27 +3935,120 @@
     {
      "name": "Draide Alraun",
      "mods": null,
-     "summary": "Draide alraun possess the ability to extend multiple vines from their person, giving them a sure grip and enhanced abilities. The following racial traits replace blood sense, sense poison, and silver tongued. Additional Vine: A draide alraun possesses two prehensile vines instead of only one. Climber: Draide alraun have a climb speed of 20 feet, and gain…"
+     "summary": "Draide alraun possess the ability to extend multiple vines from their person, giving them a sure grip and enhanced abilities. The following racial traits replace blood sense, sense poison, and silver tongued. Additional Vine: A draide alraun possesses two prehensile vines instead of only one. Climber: Draide alraun have a climb speed of 20 feet, and gain…",
+     "md": "Draide alraun possess the ability to extend multiple vines from their person, giving them a sure grip and enhanced abilities. The following racial traits replace blood sense, sense poison, and silver tongued.\n\n**Additional Vine:** A draide alraun possesses two prehensile vines instead of only one.\n\n**Climber:** Draide alraun have a climb speed of 20 feet, and gain the +8 racial bonus on Climb checks that a climb speed normally grants.\n\n**Viney Grip:** A Draide’s vines can extend from any part of their body, wrapping objects and equipment with ease. A draide gains a +2 racial bonus to combat maneuver checks to disarm or grapple, and to their CMD against disarm and grapple attempts.",
+     "stats": [
+      [
+       "Additional Vine:",
+       "A draide alraun possesses two prehensile vines instead of only one"
+      ],
+      [
+       "Climber:",
+       "Draide alraun have a climb speed of 20 feet, and gain the +8 racial bonus on Climb checks that a climb speed normally grants"
+      ],
+      [
+       "Viney Grip:",
+       "A Draide’s vines can extend from any part of their body, wrapping objects and equipment with ease. A draide gains a +2 racial bonus to combat maneuver checks to disarm or grapple, and to their CMD against disarm and grapple attempts"
+      ]
+     ],
+     "alts": [],
+     "replaces": [
+      "blood sense",
+      "sense poison",
+      "silver tongued"
+     ]
     },
     {
      "name": "Fermon Alraun",
      "mods": null,
-     "summary": "Fermon alrun secrete pheromones that make them remarkably amiable. The following racial traits replace blood sense, sense poison, and prehensile vine. Emissary: Once per day, fermon alraun can roll twice when making a Bluff or Diplomacy check and take the better roll. Odor of Susceptibility: Any non-ally creatures within a 10-ft-radius of a fermon alraun…"
+     "summary": "Fermon alrun secrete pheromones that make them remarkably amiable. The following racial traits replace blood sense, sense poison, and prehensile vine. Emissary: Once per day, fermon alraun can roll twice when making a Bluff or Diplomacy check and take the better roll. Odor of Susceptibility: Any non-ally creatures within a 10-ft-radius of a fermon alraun…",
+     "md": "Fermon alrun secrete pheromones that make them remarkably amiable. The following racial traits replace blood sense, sense poison, and prehensile vine.\n\n**Emissary:** Once per day, fermon alraun can roll twice when making a Bluff or Diplomacy check and take the better roll.\n\n**Odor of Susceptibility:** Any non-ally creatures within a 10-ft-radius of a fermon alraun suffer a -1 penalty to Will saving throws and Sense Motive checks. Creatures that do not breathe are immune to this ability, but creatures with scent are affected when within 20 ft. of a fermon alraun. Creatures can only be effected by one fermon alraun’s odor of susceptibility at a time (the penalty incurred by the ability does not stack with itself).",
+     "stats": [
+      [
+       "Emissary:",
+       "Once per day, fermon alraun can roll twice when making a Bluff or Diplomacy check and take the better roll"
+      ],
+      [
+       "Odor of Susceptibility:",
+       "Any non-ally creatures within a 10-ft-radius of a fermon alraun suffer a -1 penalty to Will saving throws and Sense Motive checks. Creatures that do not breathe are immune to this ability, but creatures with scent are affected when within 20 ft. of a fermon alraun. Creatures can only be effected by one fermon alraun’s odor of susceptibility at a time (the penalty incurred by the ability does not stack with itself)"
+      ]
+     ],
+     "alts": [],
+     "replaces": [
+      "blood sense",
+      "sense poison",
+      "prehensile vine"
+     ]
     },
     {
      "name": "Merral Alraun",
      "mods": null,
-     "summary": "Merral alraun are never birthed very far from a pond, stream, or lake, and their abilities make them particularly well suited to aquatic environments. The following racial traits replace blood sense, sense poison, and silver tongued. Amphibious: Merral alraun can breathe both air and water. Sensitive Hairs: While underwater, a merral alraun’s hairs extend…"
+     "summary": "Merral alraun are never birthed very far from a pond, stream, or lake, and their abilities make them particularly well suited to aquatic environments. The following racial traits replace blood sense, sense poison, and silver tongued. Amphibious: Merral alraun can breathe both air and water. Sensitive Hairs: While underwater, a merral alraun’s hairs extend…",
+     "md": "Merral alraun are never birthed very far from a pond, stream, or lake, and their abilities make them particularly well suited to aquatic environments. The following racial traits replace blood sense, sense poison, and silver tongued.\n\n**Amphibious:** Merral alraun can breathe both air and water.\n\n**Sensitive Hairs:** While underwater, a merral alraun’s hairs extend several feet away from its body, granting it blindsense 15 feet.\n\n**Swim:** Merral alraun have a swim speed of 30 feet, gaining the +8 racial bonus on Swim checks that a swim speed normally grants.",
+     "stats": [
+      [
+       "Amphibious:",
+       "Merral alraun can breathe both air and water"
+      ],
+      [
+       "Sensitive Hairs:",
+       "While underwater, a merral alraun’s hairs extend several feet away from its body, granting it blindsense 15 feet"
+      ],
+      [
+       "Swim:",
+       "Merral alraun have a swim speed of 30 feet, gaining the +8 racial bonus on Swim checks that a swim speed normally grants"
+      ]
+     ],
+     "alts": [],
+     "replaces": [
+      "blood sense",
+      "sense poison",
+      "silver tongued"
+     ]
     },
     {
      "name": "Poison Eater Alraun",
      "mods": null,
-     "summary": "Poison eater alraun are filled with vicious toxins and use their poisoned blood to deadly effect in combat. The following racial traits replace blood sense, prehensile vine, and silver tongued. Poison Eater: Poison eater alraun are immune to poison and a number of times per day equal to its Constitution modifier (minimum 1/day), can envenom a weapon that it…"
+     "summary": "Poison eater alraun are filled with vicious toxins and use their poisoned blood to deadly effect in combat. The following racial traits replace blood sense, prehensile vine, and silver tongued. Poison Eater: Poison eater alraun are immune to poison and a number of times per day equal to its Constitution modifier (minimum 1/day), can envenom a weapon that it…",
+     "md": "Poison eater alraun are filled with vicious toxins and use their poisoned blood to deadly effect in combat. The following racial traits replace blood sense, prehensile vine, and silver tongued.\n\n**Poison Eater:** Poison eater alraun are immune to poison and a number of times per day equal to its Constitution modifier (minimum 1/day), can envenom a weapon that it wields with its toxic blood (a poison eater alraun must be injured when it uses this ability). Applying venom in this way is a swift action.\n\n- **Alraun Poison:** Injury; **save** Fort DC 10 + 1/2 the user’s Hit Dice + the user’s Constitution modifier; **frequency** 1/round for 6 rounds; **effect** 1d2 Dex; **cure** 1 save.\n\n**Poison Taster:** For every dose of poison that an alraun consumes, they gain one additional use of their own poison. If not used within 24 hours of ingestion, any additional doses of poison eater poison are lost.",
+     "stats": [
+      [
+       "Poison Eater:",
+       "Poison eater alraun are immune to poison and a number of times per day equal to its Constitution modifier (minimum 1/day), can envenom a weapon that it wields with its toxic blood (a poison eater alraun must be injured when it uses this ability). Applying venom in this way is a swift action"
+      ],
+      [
+       "Poison Taster:",
+       "For every dose of poison that an alraun consumes, they gain one additional use of their own poison. If not used within 24 hours of ingestion, any additional doses of poison eater poison are lost"
+      ]
+     ],
+     "alts": [],
+     "replaces": [
+      "blood sense",
+      "prehensile vine",
+      "silver tongued"
+     ]
     },
     {
      "name": "Sanguine Alraun",
      "mods": null,
-     "summary": "Sanguine alraun find that the taste for blood never leaves them. The following racial traits replace sense poison, prehensile vine, and silver tongued. Sanguine Magnet: When a sanguine alraun deals a critical hit, the target of the attack takes bleed damage equal to the weapons critical multiplier. This bleed damage stacks with other spells and effects that…"
+     "summary": "Sanguine alraun find that the taste for blood never leaves them. The following racial traits replace sense poison, prehensile vine, and silver tongued. Sanguine Magnet: When a sanguine alraun deals a critical hit, the target of the attack takes bleed damage equal to the weapons critical multiplier. This bleed damage stacks with other spells and effects that…",
+     "md": "Sanguine alraun find that the taste for blood never leaves them. The following racial traits replace sense poison, prehensile vine, and silver tongued.\n\n**Sanguine Magnet:** When a sanguine alraun deals a critical hit, the target of the attack takes bleed damage equal to the weapons critical multiplier. This bleed damage stacks with other spells and effects that deal bleed damage, but not with itself.\n\n**Sanguine Target:** A sanguine alraun can use a target’s blood as a component to heighten its magic. If the sanguine alraun possesses some of a target’s creature’s blood (for instance, when holding a weapon that has inflicted bleed damage or a critical hit on the target) the creature suffers a -1 penalty to all saving throws against the alraun’s supernatural abilities and magic.\n\n---",
+     "stats": [
+      [
+       "Sanguine Magnet:",
+       "When a sanguine alraun deals a critical hit, the target of the attack takes bleed damage equal to the weapons critical multiplier. This bleed damage stacks with other spells and effects that deal bleed damage, but not with itself"
+      ],
+      [
+       "Sanguine Target:",
+       "A sanguine alraun can use a target’s blood as a component to heighten its magic. If the sanguine alraun possesses some of a target’s creature’s blood (for instance, when holding a weapon that has inflicted bleed damage or a critical hit on the target) the creature suffers a -1 penalty to all saving throws against the alraun’s supernatural abilities and magic"
+      ]
+     ],
+     "alts": [],
+     "replaces": [
+      "sense poison",
+      "prehensile vine",
+      "silver tongued"
+     ]
     }
    ]
   },
