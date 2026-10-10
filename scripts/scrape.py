@@ -4415,6 +4415,78 @@ def _rules_summary(text: str, limit: int = 160, whole: bool = False) -> str:
     return s if len(s) <= limit else s[:limit].rsplit(" ", 1)[0] + "…"
 
 
+def build_airship_data() -> int:
+    """compendium/airships.json for the Airship Builder: the Airship Rules page's engine, dirigible,
+    siege engine, weapon component and speed tables, and each room's price."""
+    f = next((x for x in CONTENT.rglob("Airship Rules.md") if ARCHIVE not in x.relative_to(CONTENT).parts), None)
+    if not f:
+        print("warning: airships: no Airship Rules page")
+        return 0
+    lines = f.read_text(encoding="utf-8").split(GENERATED_MARK, 1)[-1].split("\n")
+    slug = _slugger()
+    ids = [slug(m.group(2)) if (m := re.match(r"(#{1,6}) (.+)$", l)) else "" for l in lines]
+    url = _page_url(f)
+    num = lambda t: float(m.group().replace(",", "")) if (m := re.search(r"\d[\d,]*(?:\.\d+)?|\.\d+", t or "")) else 0.0
+    frac = lambda t: 0.5 if "1/2" in t else num(t)
+    last = lambda title: max((i for i, l in enumerate(lines) if re.fullmatch(rf"#{{1,6}} {re.escape(title)}\s*", l)), default=None)
+
+    def table(title: str) -> tuple[list[list[str]], str]:
+        at = last(title)
+        return (_md_table(lines, at + 1)[1:], f"{url}#{ids[at]}") if at is not None else ([], url)
+
+    engines = []
+    rows, engines_url = table("Airship Engines")
+    for r in rows:
+        if len(r) < 10:
+            continue
+        special = r[9].lower()
+        crew = r[5].lower()
+        engines.append({"name": r[0], "cost": num(r[1]), "power": num(r[3]), "weight": num(r[4].split("/")[0]),
+                        # required crew, as "1 per this many Hardpoints of engine" (0: none)
+                        "crewPer": 0 if "none" in crew else 45 if "5 decks" in crew else 9 if "deck" in crew else 1,
+                        "crew": r[5], "skill": r[6], "hp": num(r[7]),
+                        "liftless": "liftless" in special, "maneuverable": "maneuverable" in special,
+                        "hidden": "hidden" in special, "unprotected": "unprotected" in special, "external": r[0].lower() == "sails"})
+    dirigibles = []
+    rows, dirigibles_url = table("Dirigibles")
+    for r in rows:
+        if len(r) >= 6:
+            name = m.group(1) if (m := re.search(r"\((\w+)\)", r[0])) else r[0]
+            dirigibles.append({"name": name.capitalize(), "cost": num(r[1]), "hardness": int(num(r[3])), "hp": num(r[4]), "location": name.lower() != "magic"})
+    rooms = []
+    start, end = last("Rooms"), last("Siege Engines")
+    for i in range(start or 0, end or 0):
+        m = re.match(r"#### (.+)$", lines[i])
+        price = next((l for l in lines[i + 1:i + 4] if l.strip()), "") if m else ""
+        if m and "per Hardpoint" in price:
+            rooms.append({"name": m.group(1).replace("’", "'"), "cost": num(price), "min": int(num(n.group(1))) if (n := re.search(r"minimum (\d+)", price)) else 1,
+                          "url": f"{url}#{ids[i]}"})
+    weapons = []
+    siege_at = last("Siege Engines") or 0
+    extras_at = last("Extras") or len(lines)
+    for i in range(siege_at, extras_at):
+        m = re.match(r"#### (.+)$", lines[i])
+        if not m:
+            continue
+        for r in _md_table(lines, i + 1)[1:]:
+            if len(r) < 16:
+                continue
+            weapons.append({"name": r[0], "group": m.group(1).strip(), "size": r[1], "hardpoints": frac(r[2]), "perDeck": int(num(r[3])), "cost": num(r[4]),
+                            "damage": r[5], "critical": r[6], "range": r[7] if re.search(r"\d", r[7]) else "", "type": r[8],
+                            "team": int(num(r[9])), "reload": r[10] if re.search(r"\d", r[10]) else "", "hardness": int(num(r[11])), "hp": int(num(r[12])),
+                            "weight": num(r[13]), "ammoCost": num(r[14]), "ammoWeight": r[15] if re.search(r"\d", r[15]) else ""})
+    rows, _ = table("Special Weapon Components")
+    components = [{"name": r[0], "cost": num(r[1])} for r in rows if len(r) >= 2]
+    rows, speed_url = table("Table: Speed")
+    speeds = [{"speed": int(num(r[0])), "feet": int(num(r[1])), "mph": num(r[2])} for r in rows if len(r) >= 3]
+    COMPENDIUM_OUT.mkdir(parents=True, exist_ok=True)
+    out = {"url": url, "urls": {"engines": engines_url, "dirigibles": dirigibles_url, "speed": speed_url,
+                                 "rooms": f"{url}#{ids[start]}" if start is not None else url, "weapons": f"{url}#{ids[siege_at]}"},
+           "engines": engines, "dirigibles": dirigibles, "rooms": rooms, "weapons": weapons, "components": components, "speeds": speeds}
+    (COMPENDIUM_OUT / "airships.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
+    return len(engines) + len(dirigibles) + len(rooms) + len(weapons)
+
+
 def build_spheres_loot_tables() -> int:
     """compendium/loot-tables-spheres.json for the Loot Generator: the Loot Tables page's item tables
     by price band (Minor ... Grand, Artifacts) and its compound tables by adventure tier."""
@@ -7514,6 +7586,7 @@ def convert(with_images: bool) -> None:
     print(f"Conjuration companion forms: {build_conjuration_companion()}")
     print(f"Spheres companion and familiar archetypes: {build_spheres_companion_archetypes()}")
     print(f"Spheres loot tables: {build_spheres_loot_tables()}")
+    print(f"Airship parts: {build_airship_data()}")
     print(f"Compendium races: {build_race_compendium()}")
     print(f"Martial traditions: {build_martial_traditions()}")
     print(f"Casting tradition drawbacks: {build_casting_traditions()}")

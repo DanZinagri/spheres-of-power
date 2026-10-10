@@ -1,0 +1,5753 @@
+{
+ "source": "Archives of Nethys (www.aonprd.com), Pathfinder RPG Ultimate Campaign",
+ "urls": {
+  "rules": "https://www.aonprd.com/Rules.aspx?ID=1245",
+  "rooms": "https://www.aonprd.com/Rules.aspx?Name=Rooms&Category=Rooms%20and%20Teams",
+  "teams": "https://www.aonprd.com/Rules.aspx?Name=Teams&Category=Rooms%20and%20Teams",
+  "buildings": "https://www.aonprd.com/Rules.aspx?ID=1296",
+  "organizations": "https://www.aonprd.com/Rules.aspx?ID=1297",
+  "managers": "https://www.aonprd.com/Rules.aspx?ID=1284"
+ },
+ "capital": {
+  "goods": {
+   "buy": 20,
+   "earn": 10
+  },
+  "influence": {
+   "buy": 30,
+   "earn": 15
+  },
+  "labor": {
+   "buy": 20,
+   "earn": 10
+  },
+  "magic": {
+   "buy": 100,
+   "earn": 50
+  }
+ },
+ "rooms": [
+  {
+   "name": "Alchemy Lab",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods",
+     "magic"
+    ],
+    "bonus": 10,
+    "text": "gp, Goods, or Magic +10"
+   },
+   "benefit": "counts as an alchemist's lab",
+   "create": {
+    "goods": 8,
+    "influence": 1,
+    "labor": 5,
+    "magic": 1,
+    "gp": 390
+   },
+   "days": 16,
+   "size": "8-16 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Altar",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "influence"
+    ],
+    "bonus": 3,
+    "text": "Influence +3"
+   },
+   "benefit": "counts as a permanent fixture dedicated to your deity for the purpose of consecrate and similar spells",
+   "create": {
+    "goods": 2,
+    "influence": 1,
+    "labor": 2,
+    "magic": 1,
+    "gp": 210
+   },
+   "days": 4,
+   "size": "2-8 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Animal Pen",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods",
+     "labor"
+    ],
+    "bonus": 8,
+    "text": "gp, Goods, or Labor +8"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 6,
+    "influence": 1,
+    "labor": 5,
+    "magic": 0,
+    "gp": 250
+   },
+   "days": 16,
+   "size": "4-16 squares",
+   "upgradesTo": [
+    "Habitat"
+   ],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Armory",
+   "kind": "room",
+   "earnings": null,
+   "benefit": "provides for 1 Bunks or Guard Post, hastens donning armor",
+   "create": {
+    "goods": 9,
+    "influence": 3,
+    "labor": 6,
+    "magic": 0,
+    "gp": 390
+   },
+   "days": 16,
+   "size": "5-15 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Artisan's Workshop",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods",
+     "influence"
+    ],
+    "bonus": 10,
+    "text": "gp, Goods, or Influence +10"
+   },
+   "benefit": "counts as masterwork artisan's tools for one Craft skill",
+   "create": {
+    "goods": 9,
+    "influence": 0,
+    "labor": 9,
+    "magic": 0,
+    "gp": 360
+   },
+   "days": 20,
+   "size": "8-16 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Auditorium",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence"
+    ],
+    "bonus": 15,
+    "text": "gp or Influence +15"
+   },
+   "benefit": "bonus on Perform checks",
+   "create": {
+    "goods": 19,
+    "influence": 1,
+    "labor": 25,
+    "magic": 0,
+    "gp": 910
+   },
+   "days": 40,
+   "size": "40-100 squares",
+   "upgradesTo": [],
+   "upgradesFrom": [
+    "Ballroom"
+   ]
+  },
+  {
+   "name": "Ballroom",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence"
+    ],
+    "bonus": 10,
+    "text": "gp or Influence +10"
+   },
+   "benefit": "bonus on Perform checks",
+   "create": {
+    "goods": 19,
+    "influence": 0,
+    "labor": 19,
+    "magic": 0,
+    "gp": 760
+   },
+   "days": 40,
+   "size": "40-60 squares",
+   "upgradesTo": [
+    "Auditorium"
+   ],
+   "upgradesFrom": [
+    "Common Room"
+   ]
+  },
+  {
+   "name": "Bar",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence"
+    ],
+    "bonus": 10,
+    "text": "gp or Influence +10"
+   },
+   "benefit": "bonus on Diplomacy checks to gather information",
+   "create": {
+    "goods": 6,
+    "influence": 1,
+    "labor": 5,
+    "magic": 0,
+    "gp": 250
+   },
+   "days": 16,
+   "size": "10-20 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Bath",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence"
+    ],
+    "bonus": 3,
+    "text": "gp or Influence +3"
+   },
+   "benefit": "bonus on Fortitude saves against disease",
+   "create": {
+    "goods": 3,
+    "influence": 1,
+    "labor": 2,
+    "magic": 0,
+    "gp": 130
+   },
+   "days": 8,
+   "size": "3-6 squares",
+   "upgradesTo": [],
+   "upgradesFrom": [
+    "Sauna"
+   ]
+  },
+  {
+   "name": "Battle Ring",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence"
+    ],
+    "bonus": 15,
+    "text": "gp or Influence +15"
+   },
+   "benefit": "contestant gains a bonus on Intimidate and performance combat checks",
+   "create": {
+    "goods": 18,
+    "influence": 4,
+    "labor": 16,
+    "magic": 0,
+    "gp": 800
+   },
+   "days": 40,
+   "size": "40-100 squares",
+   "upgradesTo": [
+    "Sports Field"
+   ],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Bedroom",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence"
+    ],
+    "bonus": 3,
+    "text": "gp or Influence +3"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 8,
+    "influence": 0,
+    "labor": 7,
+    "magic": 0,
+    "gp": 300
+   },
+   "days": 20,
+   "size": "4-8 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Bell Tower",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods",
+     "influence",
+     "labor",
+     "magic"
+    ],
+    "bonus": 1,
+    "text": "capital +1 (of a type the building already generates)"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 11,
+    "influence": 3,
+    "labor": 7,
+    "magic": 0,
+    "gp": 450
+   },
+   "days": 28,
+   "size": "9-25 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Book Repository",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence"
+    ],
+    "bonus": 8,
+    "text": "gp or Influence +8"
+   },
+   "benefit": "bonus on Knowledge checks of one type",
+   "create": {
+    "goods": 8,
+    "influence": 2,
+    "labor": 7,
+    "magic": 1,
+    "gp": 460
+   },
+   "days": 16,
+   "size": "4-12 squares",
+   "upgradesTo": [
+    "Magical Repository"
+   ],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Brewery",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence"
+    ],
+    "bonus": 10,
+    "text": "gp or Influence +10"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 9,
+    "influence": 2,
+    "labor": 7,
+    "magic": 0,
+    "gp": 380
+   },
+   "days": 24,
+   "size": "12-24 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Bunks",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "labor"
+    ],
+    "bonus": 8,
+    "text": "gp or Labor +8"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 7,
+    "influence": 4,
+    "labor": 7,
+    "magic": 0,
+    "gp": 400
+   },
+   "days": 24,
+   "size": "15-35 squares",
+   "upgradesTo": [
+    "Lodging"
+   ],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Burial Ground",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence"
+    ],
+    "bonus": 4,
+    "text": "gp or Influence +4"
+   },
+   "benefit": "prevents or creates undead",
+   "create": {
+    "goods": 4,
+    "influence": 3,
+    "labor": 4,
+    "magic": 1,
+    "gp": 350
+   },
+   "days": 8,
+   "size": "20-30 squares",
+   "upgradesTo": [
+    "Crypt"
+   ],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Cell",
+   "kind": "room",
+   "earnings": null,
+   "benefit": "",
+   "create": {
+    "goods": 5,
+    "influence": 0,
+    "labor": 4,
+    "magic": 0,
+    "gp": 180
+   },
+   "days": 16,
+   "size": "1-9 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Ceremonial Room",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods",
+     "influence",
+     "labor",
+     "magic"
+    ],
+    "bonus": 10,
+    "text": "Capital +10"
+   },
+   "benefit": "bonus on Bluff, Diplomacy, and Intimidate checks (see below)",
+   "create": {
+    "goods": 16,
+    "influence": 2,
+    "labor": 15,
+    "magic": 5,
+    "gp": 1180
+   },
+   "days": 40,
+   "size": "40-100 squares",
+   "upgradesTo": [
+    "Throne Room"
+   ],
+   "upgradesFrom": [
+    "Common Room"
+   ]
+  },
+  {
+   "name": "Classroom",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods",
+     "influence",
+     "labor",
+     "magic"
+    ],
+    "bonus": 8,
+    "text": "capital +8"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 6,
+    "influence": 1,
+    "labor": 5,
+    "magic": 0,
+    "gp": 250
+   },
+   "days": 14,
+   "size": "5-20 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Clockwork Shop",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods",
+     "labor"
+    ],
+    "bonus": 10,
+    "text": "gp, Goods, or Labor +10"
+   },
+   "benefit": "counts as masterwork artisan's tools for Craft (clockwork)",
+   "create": {
+    "goods": 9,
+    "influence": 0,
+    "labor": 9,
+    "magic": 0,
+    "gp": 360
+   },
+   "days": 20,
+   "size": "8-16 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Common Room",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence"
+    ],
+    "bonus": 7,
+    "text": "gp or Influence +7"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 7,
+    "influence": 0,
+    "labor": 8,
+    "magic": 0,
+    "gp": 300
+   },
+   "days": 16,
+   "size": "10-30 squares",
+   "upgradesTo": [
+    "Ballroom",
+    "Ceremonial Room",
+    "Throne Room"
+   ],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Confessional",
+   "kind": "room",
+   "earnings": null,
+   "benefit": "bonus on Stealth checks",
+   "create": {
+    "goods": 2,
+    "influence": 0,
+    "labor": 3,
+    "magic": 0,
+    "gp": 100
+   },
+   "days": 4,
+   "size": "2-4 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Courtyard",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods",
+     "influence",
+     "labor",
+     "magic"
+    ],
+    "bonus": 5,
+    "text": "capital +5 (of a type the building already generates)"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 4,
+    "influence": 0,
+    "labor": 5,
+    "magic": 0,
+    "gp": 180
+   },
+   "days": 24,
+   "size": "20-40 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Crypt",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence",
+     "magic"
+    ],
+    "bonus": 5,
+    "text": "gp, Influence, or Magic +5"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 5,
+    "influence": 3,
+    "labor": 5,
+    "magic": 2,
+    "gp": 490
+   },
+   "days": 16,
+   "size": "8-30 squares",
+   "upgradesTo": [],
+   "upgradesFrom": [
+    "Burial Ground"
+   ]
+  },
+  {
+   "name": "Defensive Wall",
+   "kind": "room",
+   "earnings": null,
+   "benefit": "",
+   "create": {
+    "goods": 5,
+    "influence": 2,
+    "labor": 5,
+    "magic": 0,
+    "gp": 260
+   },
+   "days": 12,
+   "size": "20-40 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Dock",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods",
+     "influence",
+     "labor"
+    ],
+    "bonus": 12,
+    "text": "gp, Goods, Influence, or Labor +12"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 7,
+    "influence": 2,
+    "labor": 6,
+    "magic": 0,
+    "gp": 320
+   },
+   "days": 20,
+   "size": "10-30 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Dojo",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence",
+     "labor"
+    ],
+    "bonus": 8,
+    "text": "gp, Influence, or Labor +8"
+   },
+   "benefit": "counts as a training facility for training or retraining",
+   "create": {
+    "goods": 7,
+    "influence": 1,
+    "labor": 7,
+    "magic": 0,
+    "gp": 310
+   },
+   "days": 20,
+   "size": "15-30 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Drawbridge",
+   "kind": "room",
+   "earnings": null,
+   "benefit": "",
+   "create": {
+    "goods": 8,
+    "influence": 2,
+    "labor": 5,
+    "magic": 0,
+    "gp": 320
+   },
+   "days": 6,
+   "size": "4-8 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Escape Route",
+   "kind": "room",
+   "earnings": null,
+   "benefit": "",
+   "create": {
+    "goods": 9,
+    "influence": 0,
+    "labor": 9,
+    "magic": 0,
+    "gp": 360
+   },
+   "days": 16,
+   "size": "6-12 squares",
+   "upgradesTo": [],
+   "upgradesFrom": [
+    "Secret Room"
+   ]
+  },
+  {
+   "name": "False Front",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods"
+    ],
+    "bonus": 2,
+    "text": "gp or Goods +2"
+   },
+   "benefit": "bonus to Perception and Sense Motive DCs",
+   "create": {
+    "goods": 4,
+    "influence": 1,
+    "labor": 4,
+    "magic": 0,
+    "gp": 190
+   },
+   "days": 12,
+   "size": "10-20 squares",
+   "upgradesTo": [
+    "Storage"
+   ],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Farmland",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods"
+    ],
+    "bonus": 10,
+    "text": "gp or Goods +10"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 15,
+    "influence": 0,
+    "labor": 15,
+    "magic": 0,
+    "gp": 600
+   },
+   "days": 20,
+   "size": "60-100 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Forge",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods"
+    ],
+    "bonus": 10,
+    "text": "gp or Goods +10"
+   },
+   "benefit": "counts as masterwork artisan's tools for smithing skills",
+   "create": {
+    "goods": 9,
+    "influence": 1,
+    "labor": 8,
+    "magic": 0,
+    "gp": 370
+   },
+   "days": 20,
+   "size": "8-16 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Game Room",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp"
+    ],
+    "bonus": 10,
+    "text": "gp +10 (see below)"
+   },
+   "benefit": "Crime +1, Danger +10 (see below)",
+   "create": {
+    "goods": 8,
+    "influence": 0,
+    "labor": 7,
+    "magic": 0,
+    "gp": 300
+   },
+   "days": 16,
+   "size": "10-20 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Garden",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods"
+    ],
+    "bonus": 8,
+    "text": "gp or Goods +8"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 5,
+    "influence": 0,
+    "labor": 4,
+    "magic": 0,
+    "gp": 180
+   },
+   "days": 12,
+   "size": "10-20 squares",
+   "upgradesTo": [
+    "Greenhouse"
+   ],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Gatehouse",
+   "kind": "room",
+   "earnings": null,
+   "benefit": "defenders get bonus on initiative and Perception checks",
+   "create": {
+    "goods": 15,
+    "influence": 3,
+    "labor": 12,
+    "magic": 0,
+    "gp": 630
+   },
+   "days": 40,
+   "size": "8-12 squares",
+   "upgradesTo": [],
+   "upgradesFrom": [
+    "Gauntlet",
+    "Guard Post"
+   ]
+  },
+  {
+   "name": "Gauntlet",
+   "kind": "room",
+   "earnings": null,
+   "benefit": "defenders get improved cover",
+   "create": {
+    "goods": 4,
+    "influence": 0,
+    "labor": 4,
+    "magic": 0,
+    "gp": 160
+   },
+   "days": 10,
+   "size": "4-8 squares",
+   "upgradesTo": [
+    "Gatehouse"
+   ],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Greenhouse",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods",
+     "influence"
+    ],
+    "bonus": 12,
+    "text": "gp, Goods, or Influence +12"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 8,
+    "influence": 0,
+    "labor": 7,
+    "magic": 0,
+    "gp": 300
+   },
+   "days": 16,
+   "size": "10-20 squares",
+   "upgradesTo": [],
+   "upgradesFrom": [
+    "Garden"
+   ]
+  },
+  {
+   "name": "Guard Post",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods"
+    ],
+    "bonus": 4,
+    "text": "gp or Goods +4"
+   },
+   "benefit": "defenders get a bonus on initiative and Perception checks",
+   "create": {
+    "goods": 7,
+    "influence": 2,
+    "labor": 6,
+    "magic": 0,
+    "gp": 320
+   },
+   "days": 20,
+   "size": "6-10 squares",
+   "upgradesTo": [
+    "Gatehouse"
+   ],
+   "upgradesFrom": [
+    "Tollbooth"
+   ]
+  },
+  {
+   "name": "Habitat",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence"
+    ],
+    "bonus": 12,
+    "text": "gp or Influence +12"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 18,
+    "influence": 3,
+    "labor": 17,
+    "magic": 0,
+    "gp": 790
+   },
+   "days": 40,
+   "size": "40-60 squares",
+   "upgradesTo": [],
+   "upgradesFrom": [
+    "Animal Pen",
+    "Stall"
+   ]
+  },
+  {
+   "name": "Hatchery",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods"
+    ],
+    "bonus": 5,
+    "text": "gp or Goods +5"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 4,
+    "influence": 1,
+    "labor": 3,
+    "magic": 0,
+    "gp": 170
+   },
+   "days": 10,
+   "size": "2-6 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Infirmary",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence"
+    ],
+    "bonus": 8,
+    "text": "gp or Influence +8"
+   },
+   "benefit": "counts as a healer's kit (see below)",
+   "create": {
+    "goods": 6,
+    "influence": 1,
+    "labor": 6,
+    "magic": 1,
+    "gp": 370
+   },
+   "days": 16,
+   "size": "4-12 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Kitchen",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods"
+    ],
+    "bonus": 4,
+    "text": "gp or Goods +4"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 4,
+    "influence": 0,
+    "labor": 4,
+    "magic": 0,
+    "gp": 160
+   },
+   "days": 12,
+   "size": "2-6 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Labyrinth",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence"
+    ],
+    "bonus": 5,
+    "text": "gp or Influence +5"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 15,
+    "influence": 0,
+    "labor": 15,
+    "magic": 0,
+    "gp": 370
+   },
+   "days": 30,
+   "size": "40-100 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Laundry",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods"
+    ],
+    "bonus": 3,
+    "text": "gp or Goods +3"
+   },
+   "benefit": "bonus on Fortitude saves against contracting disease",
+   "create": {
+    "goods": 3,
+    "influence": 0,
+    "labor": 3,
+    "magic": 0,
+    "gp": 120
+   },
+   "days": 8,
+   "size": "2-6 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Lavatory",
+   "kind": "room",
+   "earnings": null,
+   "benefit": "Bonus on Fortitude saves against contracting disease",
+   "create": {
+    "goods": 3,
+    "influence": 0,
+    "labor": 3,
+    "magic": 0,
+    "gp": 120
+   },
+   "days": 4,
+   "size": "1-4 squares",
+   "upgradesTo": [],
+   "upgradesFrom": [
+    "Shack"
+   ]
+  },
+  {
+   "name": "Leather Workshop",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods"
+    ],
+    "bonus": 10,
+    "text": "gp or Goods +10"
+   },
+   "benefit": "counts as masterwork artisan's tools for leatherworking skills",
+   "create": {
+    "goods": 7,
+    "influence": 1,
+    "labor": 7,
+    "magic": 0,
+    "gp": 310
+   },
+   "days": 16,
+   "size": "4-10 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Lodging",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp"
+    ],
+    "bonus": 12,
+    "text": "gp +12"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 10,
+    "influence": 1,
+    "labor": 10,
+    "magic": 0,
+    "gp": 430
+   },
+   "days": 30,
+   "size": "20-35 squares",
+   "upgradesTo": [],
+   "upgradesFrom": [
+    "Bunks"
+   ]
+  },
+  {
+   "name": "Magical Repository",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence",
+     "magic"
+    ],
+    "bonus": 12,
+    "text": "gp, Influence, or Magic +12"
+   },
+   "benefit": "bonus on Knowledge (arcana), Spellcraft, and spell research checks",
+   "create": {
+    "goods": 9,
+    "influence": 3,
+    "labor": 8,
+    "magic": 3,
+    "gp": 730
+   },
+   "days": 20,
+   "size": "4-12 squares",
+   "upgradesTo": [],
+   "upgradesFrom": [
+    "Book Repository"
+   ]
+  },
+  {
+   "name": "Mill Room",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods"
+    ],
+    "bonus": 8,
+    "text": "gp or Goods +8"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 8,
+    "influence": 0,
+    "labor": 7,
+    "magic": 0,
+    "gp": 300
+   },
+   "days": 20,
+   "size": "20-30 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Nursery",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence"
+    ],
+    "bonus": 6,
+    "text": "gp or Influence +6"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 6,
+    "influence": 1,
+    "labor": 5,
+    "magic": 0,
+    "gp": 250
+   },
+   "days": 14,
+   "size": "8-16 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Observation Dome",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence",
+     "magic"
+    ],
+    "bonus": 5,
+    "text": "gp, Influence, or Magic +5"
+   },
+   "benefit": "bonus on Knowledge (geography), Knowledge (nature), and Knowledge (planes) checks",
+   "create": {
+    "goods": 8,
+    "influence": 0,
+    "labor": 9,
+    "magic": 1,
+    "gp": 440
+   },
+   "days": 20,
+   "size": "10-20 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Office",
+   "kind": "room",
+   "earnings": null,
+   "benefit": "",
+   "create": {
+    "goods": 3,
+    "influence": 0,
+    "labor": 3,
+    "magic": 0,
+    "gp": 120
+   },
+   "days": 8,
+   "size": "2-5 squares",
+   "upgradesTo": [],
+   "upgradesFrom": [
+    "Storage"
+   ]
+  },
+  {
+   "name": "Pit",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "labor"
+    ],
+    "bonus": 1,
+    "text": "gp or Labor +1"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 1,
+    "influence": 0,
+    "labor": 1,
+    "magic": 0,
+    "gp": 40
+   },
+   "days": 2,
+   "size": "1-5 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Printer",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods",
+     "influence",
+     "labor"
+    ],
+    "bonus": 8,
+    "text": "gp, Goods, Influence, or Labor +8"
+   },
+   "benefit": "counts as masterwork artisan's tools for writing and printing skills",
+   "create": {
+    "goods": 9,
+    "influence": 2,
+    "labor": 7,
+    "magic": 0,
+    "gp": 380
+   },
+   "days": 20,
+   "size": "5-16 squares",
+   "upgradesTo": [],
+   "upgradesFrom": [
+    "Scriptorium"
+   ]
+  },
+  {
+   "name": "Reliquary",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence"
+    ],
+    "bonus": 5,
+    "text": "gp or Influence +5"
+   },
+   "benefit": "bonus on Knowledge (religion) checks relating to its contents",
+   "create": {
+    "goods": 4,
+    "influence": 0,
+    "labor": 4,
+    "magic": 1,
+    "gp": 260
+   },
+   "days": 12,
+   "size": "1-4 squares",
+   "upgradesTo": [
+    "Vault"
+   ],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Sanctum",
+   "kind": "room",
+   "earnings": null,
+   "benefit": "bonus on one Will save",
+   "create": {
+    "goods": 2,
+    "influence": 1,
+    "labor": 1,
+    "magic": 1,
+    "gp": 190
+   },
+   "days": 6,
+   "size": "1-4 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Sauna",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence"
+    ],
+    "bonus": 3,
+    "text": "gp or Influence +3"
+   },
+   "benefit": "bonus on disease and negative level recovery saves",
+   "create": {
+    "goods": 3,
+    "influence": 0,
+    "labor": 3,
+    "magic": 0,
+    "gp": 120
+   },
+   "days": 8,
+   "size": "2-5 squares",
+   "upgradesTo": [
+    "Bath"
+   ],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Scriptorium",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods",
+     "influence",
+     "labor",
+     "magic"
+    ],
+    "bonus": 5,
+    "text": "gp, Goods, Influence, Labor, or Magic +5"
+   },
+   "benefit": "counts as masterwork artisan's tools for writing skills",
+   "create": {
+    "goods": 7,
+    "influence": 2,
+    "labor": 6,
+    "magic": 0,
+    "gp": 320
+   },
+   "days": 16,
+   "size": "5-16 squares",
+   "upgradesTo": [
+    "Printer"
+   ],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Scrying Room",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence"
+    ],
+    "bonus": 2,
+    "text": "gp or Influence +2"
+   },
+   "benefit": "increases the DC of scrying effects",
+   "create": {
+    "goods": 6,
+    "influence": 1,
+    "labor": 5,
+    "magic": 3,
+    "gp": 550
+   },
+   "days": 16,
+   "size": "4-16 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Secret Room",
+   "kind": "room",
+   "earnings": null,
+   "benefit": "",
+   "create": {
+    "goods": 5,
+    "influence": 0,
+    "labor": 6,
+    "magic": 0,
+    "gp": 220
+   },
+   "days": 16,
+   "size": "6-10 squares",
+   "upgradesTo": [
+    "Escape Route"
+   ],
+   "upgradesFrom": [
+    "Vault"
+   ]
+  },
+  {
+   "name": "Sewer Access",
+   "kind": "room",
+   "earnings": null,
+   "benefit": "",
+   "create": {
+    "goods": 2,
+    "influence": 1,
+    "labor": 2,
+    "magic": 0,
+    "gp": 110
+   },
+   "days": 4,
+   "size": "4-6 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Sewing Room",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods",
+     "influence"
+    ],
+    "bonus": 10,
+    "text": "gp, Goods, or Influence +10"
+   },
+   "benefit": "counts as masterwork artisan's tools for one Craft skill",
+   "create": {
+    "goods": 8,
+    "influence": 0,
+    "labor": 7,
+    "magic": 0,
+    "gp": 300
+   },
+   "days": 16,
+   "size": "6-12 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Shack",
+   "kind": "room",
+   "earnings": null,
+   "benefit": "",
+   "create": {
+    "goods": 3,
+    "influence": 0,
+    "labor": 2,
+    "magic": 0,
+    "gp": 100
+   },
+   "days": 3,
+   "size": "2-4 squares",
+   "upgradesTo": [
+    "Lavatory",
+    "Storage"
+   ],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Sitting Room",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "influence"
+    ],
+    "bonus": 4,
+    "text": "Influence +4"
+   },
+   "benefit": "bonus on Bluff, Diplomacy, Intimidate, Knowledge (local), and Perform checks",
+   "create": {
+    "goods": 12,
+    "influence": 0,
+    "labor": 12,
+    "magic": 0,
+    "gp": 480
+   },
+   "days": 24,
+   "size": "6-10 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Sports Field",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence"
+    ],
+    "bonus": 10,
+    "text": "gp or Influence +10"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 17,
+    "influence": 3,
+    "labor": 18,
+    "magic": 0,
+    "gp": 790
+   },
+   "days": 20,
+   "size": "40-100 squares",
+   "upgradesTo": [],
+   "upgradesFrom": [
+    "Battle Ring"
+   ]
+  },
+  {
+   "name": "Stall",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods",
+     "labor"
+    ],
+    "bonus": 8,
+    "text": "gp, Goods, or Labor +8"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 6,
+    "influence": 1,
+    "labor": 5,
+    "magic": 0,
+    "gp": 250
+   },
+   "days": 16,
+   "size": "6-16 squares",
+   "upgradesTo": [
+    "Habitat"
+   ],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Statue",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence"
+    ],
+    "bonus": 1,
+    "text": "gp or Influence +1"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 1,
+    "influence": 0,
+    "labor": 2,
+    "magic": 0,
+    "gp": 60
+   },
+   "days": 2,
+   "size": "1-9 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Storage",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp"
+    ],
+    "bonus": 2,
+    "text": "gp +2"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 3,
+    "influence": 0,
+    "labor": 3,
+    "magic": 0,
+    "gp": 120
+   },
+   "days": 8,
+   "size": "4-8 squares",
+   "upgradesTo": [
+    "Office",
+    "Vault"
+   ],
+   "upgradesFrom": [
+    "False Front",
+    "Shack"
+   ]
+  },
+  {
+   "name": "Storefront",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods",
+     "influence",
+     "labor",
+     "magic"
+    ],
+    "bonus": 5,
+    "text": "capital +5 (of a type the building already generates)"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 5,
+    "influence": 1,
+    "labor": 3,
+    "magic": 0,
+    "gp": 190
+   },
+   "days": 12,
+   "size": "2-4 squares",
+   "upgradesTo": [],
+   "upgradesFrom": [
+    "False Front"
+   ]
+  },
+  {
+   "name": "Summoning Chamber",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "magic"
+    ],
+    "bonus": 3,
+    "text": "Magic +3"
+   },
+   "benefit": "bonus on Charisma, Diplomacy, Intimidate, and Knowledge (planes) checks",
+   "create": {
+    "goods": 11,
+    "influence": 4,
+    "labor": 10,
+    "magic": 5,
+    "gp": 1040
+   },
+   "days": 28,
+   "size": "6-16 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Throne Room",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "influence"
+    ],
+    "bonus": 15,
+    "text": "Influence +15"
+   },
+   "benefit": "bonus on Bluff, Diplomacy, and Intimidate, Knowledge (local), and Perform checks",
+   "create": {
+    "goods": 25,
+    "influence": 5,
+    "labor": 25,
+    "magic": 5,
+    "gp": 1650
+   },
+   "days": 40,
+   "size": "40-80 squares",
+   "upgradesTo": [],
+   "upgradesFrom": [
+    "Ceremonial Room",
+    "Common Room"
+   ]
+  },
+  {
+   "name": "Tollbooth",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods"
+    ],
+    "bonus": 4,
+    "text": "gp or Goods +4"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 2,
+    "influence": 1,
+    "labor": 2,
+    "magic": 0,
+    "gp": 110
+   },
+   "days": 6,
+   "size": "1-5 squares",
+   "upgradesTo": [
+    "Guard Post"
+   ],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Torture Chamber",
+   "kind": "room",
+   "earnings": null,
+   "benefit": "bonus on Intimidate checks",
+   "create": {
+    "goods": 7,
+    "influence": 3,
+    "labor": 5,
+    "magic": 0,
+    "gp": 330
+   },
+   "days": 20,
+   "size": "6-16 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Trophy Room",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence"
+    ],
+    "bonus": 5,
+    "text": "gp or Influence +5"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 6,
+    "influence": 1,
+    "labor": 5,
+    "magic": 0,
+    "gp": 250
+   },
+   "days": 16,
+   "size": "4-20 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Vault",
+   "kind": "room",
+   "earnings": null,
+   "benefit": "",
+   "create": {
+    "goods": 8,
+    "influence": 0,
+    "labor": 7,
+    "magic": 0,
+    "gp": 300
+   },
+   "days": 16,
+   "size": "4-8 squares",
+   "upgradesTo": [
+    "Secret Room"
+   ],
+   "upgradesFrom": [
+    "Reliquary",
+    "Storage"
+   ]
+  },
+  {
+   "name": "War Room",
+   "kind": "room",
+   "earnings": null,
+   "benefit": "bonus on mass combat and skill checks while scheming",
+   "create": {
+    "goods": 8,
+    "influence": 0,
+    "labor": 7,
+    "magic": 0,
+    "gp": 300
+   },
+   "days": 16,
+   "size": "4-12 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Workstation",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods",
+     "influence"
+    ],
+    "bonus": 8,
+    "text": "gp, Goods, or Influence +8"
+   },
+   "benefit": "counts as masterwork artisan's tools for one Craft or Profession skill",
+   "create": {
+    "goods": 8,
+    "influence": 0,
+    "labor": 7,
+    "magic": 0,
+    "gp": 300
+   },
+   "days": 16,
+   "size": "8-16 squares",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Fortification (Augmentation)",
+   "kind": "room",
+   "earnings": null,
+   "benefit": "increases room's durability",
+   "create": {
+    "goods": 8,
+    "influence": 0,
+    "labor": 7,
+    "magic": 0,
+    "gp": 300
+   },
+   "days": 30,
+   "size": "As original room",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Furnishings (Augmentation)",
+   "kind": "room",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods",
+     "influence",
+     "labor",
+     "magic"
+    ],
+    "bonus": 5,
+    "text": "+5 on the room's check to generate capital"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 9,
+    "influence": 0,
+    "labor": 6,
+    "magic": 0,
+    "gp": 300
+   },
+   "days": 20,
+   "size": "as original room",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  }
+ ],
+ "teams": [
+  {
+   "name": "Acolyte",
+   "kind": "team",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence",
+     "magic"
+    ],
+    "bonus": 4,
+    "text": "gp, Influence, or Magic + 4"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 2,
+    "influence": 2,
+    "labor": 2,
+    "magic": 3,
+    "gp": 440
+   },
+   "days": 3,
+   "size": "1 person",
+   "upgradesTo": [
+    "Priest",
+    "Sage"
+   ],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Apprentice",
+   "kind": "team",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence",
+     "magic"
+    ],
+    "bonus": 4,
+    "text": "gp, Influence, or Magic +4"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 2,
+    "influence": 2,
+    "labor": 1,
+    "magic": 4,
+    "gp": 520
+   },
+   "days": 3,
+   "size": "1 person",
+   "upgradesTo": [
+    "Mage",
+    "Sage"
+   ],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Archers",
+   "kind": "team",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence",
+     "labor"
+    ],
+    "bonus": 6,
+    "text": "gp, Influence, or Labor +6"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 4,
+    "influence": 3,
+    "labor": 7,
+    "magic": 0,
+    "gp": 310
+   },
+   "days": 4,
+   "size": "5 people",
+   "upgradesTo": [
+    "Elite Archers"
+   ],
+   "upgradesFrom": [
+    "Soldiers"
+   ]
+  },
+  {
+   "name": "Bureaucrats",
+   "kind": "team",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence"
+    ],
+    "bonus": 4,
+    "text": "gp or Influence +4"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 2,
+    "influence": 4,
+    "labor": 2,
+    "magic": 0,
+    "gp": 200
+   },
+   "days": 2,
+   "size": "5 people",
+   "upgradesTo": [],
+   "upgradesFrom": [
+    "Scofflaws",
+    "Soldiers"
+   ]
+  },
+  {
+   "name": "Cavalry",
+   "kind": "team",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence",
+     "labor"
+    ],
+    "bonus": 7,
+    "text": "gp, Influence, or Labor +7"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 8,
+    "influence": 3,
+    "labor": 8,
+    "magic": 0,
+    "gp": 410
+   },
+   "days": 6,
+   "size": "5 people",
+   "upgradesTo": [
+    "Cavalry Archers"
+   ],
+   "upgradesFrom": [
+    "Elite Soldiers",
+    "Soldiers"
+   ]
+  },
+  {
+   "name": "Cavalry Archers",
+   "kind": "team",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence",
+     "labor"
+    ],
+    "bonus": 8,
+    "text": "gp, Influence, or Labor +8"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 9,
+    "influence": 3,
+    "labor": 10,
+    "magic": 0,
+    "gp": 470
+   },
+   "days": 7,
+   "size": "5 people",
+   "upgradesTo": [],
+   "upgradesFrom": [
+    "Cavalry",
+    "Elite Archers"
+   ]
+  },
+  {
+   "name": "Craftspeople",
+   "kind": "team",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods",
+     "labor"
+    ],
+    "bonus": 4,
+    "text": "gp, Goods, or Labor +4"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 3,
+    "influence": 2,
+    "labor": 4,
+    "magic": 0,
+    "gp": 200
+   },
+   "days": 2,
+   "size": "3 people",
+   "upgradesTo": [],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Cutpurses",
+   "kind": "team",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods",
+     "labor"
+    ],
+    "bonus": 3,
+    "text": "gp, Goods, or Labor +3"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 0,
+    "influence": 3,
+    "labor": 1,
+    "magic": 0,
+    "gp": 110
+   },
+   "days": 1,
+   "size": "5 people",
+   "upgradesTo": [
+    "Robbers"
+   ],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Driver",
+   "kind": "team",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods",
+     "labor"
+    ],
+    "bonus": 2,
+    "text": "gp, Goods, or Labor +2"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 2,
+    "influence": 1,
+    "labor": 1,
+    "magic": 0,
+    "gp": 90
+   },
+   "days": 0,
+   "size": "1 person",
+   "upgradesTo": [
+    "Lackeys"
+   ],
+   "upgradesFrom": [
+    "Laborers"
+   ]
+  },
+  {
+   "name": "Elite Archers",
+   "kind": "team",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence",
+     "labor"
+    ],
+    "bonus": 7,
+    "text": "gp, Influence, or Labor +7"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 5,
+    "influence": 4,
+    "labor": 8,
+    "magic": 0,
+    "gp": 380
+   },
+   "days": 6,
+   "size": "5 people",
+   "upgradesTo": [
+    "Cavalry Archers"
+   ],
+   "upgradesFrom": [
+    "Archers",
+    "Elite Soldiers"
+   ]
+  },
+  {
+   "name": "Elite Guards",
+   "kind": "team",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence",
+     "labor"
+    ],
+    "bonus": 4,
+    "text": "gp, Influence, or Labor +4"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 3,
+    "influence": 1,
+    "labor": 4,
+    "magic": 0,
+    "gp": 170
+   },
+   "days": 2,
+   "size": "5 people",
+   "upgradesTo": [
+    "Elite Soldiers"
+   ],
+   "upgradesFrom": [
+    "Guards"
+   ]
+  },
+  {
+   "name": "Elite Soldiers",
+   "kind": "team",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence",
+     "labor"
+    ],
+    "bonus": 6,
+    "text": "gp, Influence, or Labor +6"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 5,
+    "influence": 3,
+    "labor": 7,
+    "magic": 0,
+    "gp": 330
+   },
+   "days": 5,
+   "size": "5 people",
+   "upgradesTo": [
+    "Cavalry",
+    "Elite Archers"
+   ],
+   "upgradesFrom": [
+    "Elite Guards",
+    "Soldiers"
+   ]
+  },
+  {
+   "name": "Guards",
+   "kind": "team",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence",
+     "labor"
+    ],
+    "bonus": 2,
+    "text": "gp, Influence, or Labor +2"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 2,
+    "influence": 0,
+    "labor": 3,
+    "magic": 0,
+    "gp": 100
+   },
+   "days": 1,
+   "size": "5 people",
+   "upgradesTo": [
+    "Elite Guards",
+    "Soldiers"
+   ],
+   "upgradesFrom": [
+    "Laborers"
+   ]
+  },
+  {
+   "name": "Laborers",
+   "kind": "team",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "labor"
+    ],
+    "bonus": 2,
+    "text": "gp or Labor +2"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 0,
+    "influence": 1,
+    "labor": 2,
+    "magic": 0,
+    "gp": 70
+   },
+   "days": 0,
+   "size": "5 people",
+   "upgradesTo": [
+    "Driver",
+    "Guards",
+    "Lackeys",
+    "Sailors",
+    "Scofflaws"
+   ],
+   "upgradesFrom": []
+  },
+  {
+   "name": "Lackeys",
+   "kind": "team",
+   "earnings": {
+    "kinds": [
+     "influence",
+     "labor"
+    ],
+    "bonus": 2,
+    "text": "Influence or Labor +2"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 1,
+    "influence": 2,
+    "labor": 2,
+    "magic": 0,
+    "gp": 120
+   },
+   "days": 1,
+   "size": "5 people",
+   "upgradesTo": [],
+   "upgradesFrom": [
+    "Driver",
+    "Laborers"
+   ]
+  },
+  {
+   "name": "Mage",
+   "kind": "team",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence",
+     "magic"
+    ],
+    "bonus": 7,
+    "text": "gp, Influence, or Magic +7"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 3,
+    "influence": 2,
+    "labor": 2,
+    "magic": 8,
+    "gp": 960
+   },
+   "days": 7,
+   "size": "1 person",
+   "upgradesTo": [],
+   "upgradesFrom": [
+    "Apprentice"
+   ]
+  },
+  {
+   "name": "Priest",
+   "kind": "team",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence",
+     "magic"
+    ],
+    "bonus": 7,
+    "text": "gp, Influence, or Magic +7"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 3,
+    "influence": 3,
+    "labor": 3,
+    "magic": 6,
+    "gp": 810
+   },
+   "days": 7,
+   "size": "1 person",
+   "upgradesTo": [],
+   "upgradesFrom": [
+    "Acolyte"
+   ]
+  },
+  {
+   "name": "Robbers",
+   "kind": "team",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods",
+     "influence"
+    ],
+    "bonus": 4,
+    "text": "gp, Goods, or Influence +4"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 1,
+    "influence": 4,
+    "labor": 3,
+    "magic": 0,
+    "gp": 200
+   },
+   "days": 3,
+   "size": "5 people",
+   "upgradesTo": [],
+   "upgradesFrom": [
+    "Cutpurses"
+   ]
+  },
+  {
+   "name": "Sage",
+   "kind": "team",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence"
+    ],
+    "bonus": 5,
+    "text": "gp or Influence +5"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 5,
+    "influence": 2,
+    "labor": 2,
+    "magic": 0,
+    "gp": 200
+   },
+   "days": 4,
+   "size": "1 person",
+   "upgradesTo": [],
+   "upgradesFrom": [
+    "Acolyte",
+    "Apprentice"
+   ]
+  },
+  {
+   "name": "Sailors",
+   "kind": "team",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods",
+     "labor"
+    ],
+    "bonus": 2,
+    "text": "gp, Goods, or Labor +2"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 1,
+    "influence": 1,
+    "labor": 2,
+    "magic": 0,
+    "gp": 90
+   },
+   "days": 0,
+   "size": "5 people",
+   "upgradesTo": [],
+   "upgradesFrom": [
+    "Laborers"
+   ]
+  },
+  {
+   "name": "Scofflaws",
+   "kind": "team",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "goods",
+     "influence"
+    ],
+    "bonus": 2,
+    "text": "gp, Goods, or Influence +2"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 0,
+    "influence": 3,
+    "labor": 2,
+    "magic": 0,
+    "gp": 130
+   },
+   "days": 1,
+   "size": "5 people",
+   "upgradesTo": [
+    "Bureaucrats"
+   ],
+   "upgradesFrom": [
+    "Laborers"
+   ]
+  },
+  {
+   "name": "Soldiers",
+   "kind": "team",
+   "earnings": {
+    "kinds": [
+     "gp",
+     "influence",
+     "labor"
+    ],
+    "bonus": 5,
+    "text": "gp, Influence, or Labor +5"
+   },
+   "benefit": "",
+   "create": {
+    "goods": 3,
+    "influence": 2,
+    "labor": 5,
+    "magic": 0,
+    "gp": 220
+   },
+   "days": 2,
+   "size": "5 people",
+   "upgradesTo": [
+    "Archers",
+    "Bureaucrats",
+    "Cavalry",
+    "Elite Soldiers"
+   ],
+   "upgradesFrom": [
+    "Guards"
+   ]
+  }
+ ],
+ "buildings": [
+  {
+   "name": "Academy",
+   "create": {
+    "goods": 120,
+    "influence": 16,
+    "labor": 109,
+    "magic": 3,
+    "gp": 5360
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Alchemy Lab"
+    },
+    {
+     "qty": 2,
+     "name": "Bath"
+    },
+    {
+     "qty": 1,
+     "name": "Bedroom"
+    },
+    {
+     "qty": 1,
+     "name": "Bell Tower"
+    },
+    {
+     "qty": 1,
+     "name": "Book Repository"
+    },
+    {
+     "qty": 1,
+     "name": "Bunks"
+    },
+    {
+     "qty": 2,
+     "name": "Classroom"
+    },
+    {
+     "qty": 1,
+     "name": "Common Room"
+    },
+    {
+     "qty": 1,
+     "name": "Courtyard"
+    },
+    {
+     "qty": 1,
+     "name": "Greenhouse"
+    },
+    {
+     "qty": 1,
+     "name": "Kitchen"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Observation Dome"
+    },
+    {
+     "qty": 2,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Scriptorium"
+    },
+    {
+     "qty": 1,
+     "name": "Sitting Room"
+    },
+    {
+     "qty": 1,
+     "name": "Statue"
+    }
+   ]
+  },
+  {
+   "name": "Alchemist",
+   "create": {
+    "goods": 48,
+    "influence": 2,
+    "labor": 41,
+    "magic": 1,
+    "gp": 1940
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Alchemy Lab"
+    },
+    {
+     "qty": 1,
+     "name": "Bedroom"
+    },
+    {
+     "qty": 1,
+     "name": "Garden"
+    },
+    {
+     "qty": 1,
+     "name": "Kitchen"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Sitting Room"
+    },
+    {
+     "qty": 1,
+     "name": "Storage"
+    },
+    {
+     "qty": 1,
+     "name": "Storefront"
+    }
+   ]
+  },
+  {
+   "name": "Arena",
+   "create": {
+    "goods": 109,
+    "influence": 20,
+    "labor": 96,
+    "magic": 1,
+    "gp": 4800
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Bar"
+    },
+    {
+     "qty": 1,
+     "name": "Bath"
+    },
+    {
+     "qty": 4,
+     "name": "Battle Ring"
+    },
+    {
+     "qty": 1,
+     "name": "Game Room"
+    },
+    {
+     "qty": 1,
+     "name": "Infirmary"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Storage"
+    },
+    {
+     "qty": 1,
+     "name": "Storefront"
+    }
+   ]
+  },
+  {
+   "name": "Bank",
+   "create": {
+    "goods": 39,
+    "influence": 3,
+    "labor": 35,
+    "magic": 0,
+    "gp": 1570
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Guard Post"
+    },
+    {
+     "qty": 2,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Secret Room"
+    },
+    {
+     "qty": 1,
+     "name": "Storefront"
+    },
+    {
+     "qty": 2,
+     "name": "Vault"
+    }
+   ]
+  },
+  {
+   "name": "Bardic College",
+   "create": {
+    "goods": 107,
+    "influence": 13,
+    "labor": 109,
+    "magic": 1,
+    "gp": 4810
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Auditorium"
+    },
+    {
+     "qty": 2,
+     "name": "Bath"
+    },
+    {
+     "qty": 1,
+     "name": "Bedroom"
+    },
+    {
+     "qty": 1,
+     "name": "Book Repository"
+    },
+    {
+     "qty": 1,
+     "name": "Bunks"
+    },
+    {
+     "qty": 2,
+     "name": "Classroom"
+    },
+    {
+     "qty": 1,
+     "name": "Common Room"
+    },
+    {
+     "qty": 1,
+     "name": "Courtyard"
+    },
+    {
+     "qty": 1,
+     "name": "Kitchen"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 2,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Scriptorium"
+    },
+    {
+     "qty": 1,
+     "name": "Sitting Room"
+    },
+    {
+     "qty": 1,
+     "name": "Statue"
+    },
+    {
+     "qty": 1,
+     "name": "Storage"
+    }
+   ]
+  },
+  {
+   "name": "Barracks",
+   "create": {
+    "goods": 80,
+    "influence": 18,
+    "labor": 73,
+    "magic": 1,
+    "gp": 3700
+   },
+   "units": [
+    {
+     "qty": 2,
+     "name": "Armory"
+    },
+    {
+     "qty": 1,
+     "name": "Bedroom"
+    },
+    {
+     "qty": 2,
+     "name": "Bunks"
+    },
+    {
+     "qty": 1,
+     "name": "Common Room"
+    },
+    {
+     "qty": 1,
+     "name": "Dojo"
+    },
+    {
+     "qty": 1,
+     "name": "Guard Post"
+    },
+    {
+     "qty": 1,
+     "name": "Infirmary"
+    },
+    {
+     "qty": 1,
+     "name": "Kitchen"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Storage"
+    }
+   ]
+  },
+  {
+   "name": "Black Market",
+   "create": {
+    "goods": 53,
+    "influence": 6,
+    "labor": 48,
+    "magic": 0,
+    "gp": 2200
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Armory"
+    },
+    {
+     "qty": 1,
+     "name": "Cell"
+    },
+    {
+     "qty": 1,
+     "name": "Escape Route"
+    },
+    {
+     "qty": 1,
+     "name": "False Front"
+    },
+    {
+     "qty": 1,
+     "name": "Guard Post"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Secret Room"
+    },
+    {
+     "qty": 1,
+     "name": "Storage"
+    },
+    {
+     "qty": 1,
+     "name": "Vault"
+    }
+   ]
+  },
+  {
+   "name": "Brewery",
+   "create": {
+    "goods": 36,
+    "influence": 3,
+    "labor": 32,
+    "magic": 0,
+    "gp": 1450
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Bar"
+    },
+    {
+     "qty": 1,
+     "name": "Brewery"
+    },
+    {
+     "qty": 1,
+     "name": "Kitchen"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 2,
+     "name": "Storage"
+    },
+    {
+     "qty": 1,
+     "name": "Workstation"
+    }
+   ]
+  },
+  {
+   "name": "Bureau",
+   "create": {
+    "goods": 55,
+    "influence": 6,
+    "labor": 52,
+    "magic": 1,
+    "gp": 2420
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Book Repository"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 4,
+     "name": "Office"
+    },
+    {
+     "qty": 2,
+     "name": "Scriptorium"
+    },
+    {
+     "qty": 1,
+     "name": "Sitting Room"
+    },
+    {
+     "qty": 2,
+     "name": "Storage"
+    }
+   ]
+  },
+  {
+   "name": "Caster's Tower",
+   "create": {
+    "goods": 88,
+    "influence": 9,
+    "labor": 81,
+    "magic": 11,
+    "gp": 4750
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Artisan's Workshop"
+    },
+    {
+     "qty": 1,
+     "name": "Bath"
+    },
+    {
+     "qty": 1,
+     "name": "Bedroom"
+    },
+    {
+     "qty": 1,
+     "name": "Cell"
+    },
+    {
+     "qty": 1,
+     "name": "Ceremonial Room"
+    },
+    {
+     "qty": 1,
+     "name": "Kitchen"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Magical Repository"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Scriptorium"
+    },
+    {
+     "qty": 1,
+     "name": "Scrying Room"
+    },
+    {
+     "qty": 1,
+     "name": "Sitting Room"
+    },
+    {
+     "qty": 1,
+     "name": "Storage"
+    }
+   ]
+  },
+  {
+   "name": "Castle",
+   "create": {
+    "goods": 165,
+    "influence": 31,
+    "labor": 148,
+    "magic": 2,
+    "gp": 7390
+   },
+   "units": [
+    {
+     "qty": 2,
+     "name": "Armory"
+    },
+    {
+     "qty": 3,
+     "name": "Bedroom"
+    },
+    {
+     "qty": 2,
+     "name": "Bunks"
+    },
+    {
+     "qty": 1,
+     "name": "Cell"
+    },
+    {
+     "qty": 1,
+     "name": "Courtyard"
+    },
+    {
+     "qty": 1,
+     "name": "Crypt"
+    },
+    {
+     "qty": 4,
+     "name": "Defensive Wall"
+    },
+    {
+     "qty": 1,
+     "name": "Drawbridge"
+    },
+    {
+     "qty": 1,
+     "name": "Escape Route"
+    },
+    {
+     "qty": 1,
+     "name": "Garden"
+    },
+    {
+     "qty": 1,
+     "name": "Gatehouse"
+    },
+    {
+     "qty": 1,
+     "name": "Gauntlet"
+    },
+    {
+     "qty": 1,
+     "name": "Kitchen"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Sitting Room"
+    },
+    {
+     "qty": 1,
+     "name": "Stall"
+    },
+    {
+     "qty": 2,
+     "name": "Storage"
+    }
+   ]
+  },
+  {
+   "name": "Cathedral",
+   "create": {
+    "goods": 91,
+    "influence": 12,
+    "labor": 84,
+    "magic": 11,
+    "gp": 4960
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Altar"
+    },
+    {
+     "qty": 1,
+     "name": "Bedroom"
+    },
+    {
+     "qty": 1,
+     "name": "Bell Tower"
+    },
+    {
+     "qty": 1,
+     "name": "Book Repository"
+    },
+    {
+     "qty": 1,
+     "name": "Cell"
+    },
+    {
+     "qty": 1,
+     "name": "Ceremonial Room"
+    },
+    {
+     "qty": 1,
+     "name": "Confessional"
+    },
+    {
+     "qty": 1,
+     "name": "Courtyard"
+    },
+    {
+     "qty": 1,
+     "name": "Crypt"
+    },
+    {
+     "qty": 1,
+     "name": "Garden"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Reliquary"
+    },
+    {
+     "qty": 1,
+     "name": "Sanctum"
+    },
+    {
+     "qty": 1,
+     "name": "Sitting Room"
+    },
+    {
+     "qty": 1,
+     "name": "Statue"
+    },
+    {
+     "qty": 1,
+     "name": "Storage"
+    }
+   ]
+  },
+  {
+   "name": "Courthouse",
+   "create": {
+    "goods": 43,
+    "influence": 2,
+    "labor": 41,
+    "magic": 1,
+    "gp": 1840
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Book Repository"
+    },
+    {
+     "qty": 2,
+     "name": "Cell"
+    },
+    {
+     "qty": 1,
+     "name": "Common Room"
+    },
+    {
+     "qty": 2,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Sitting Room"
+    }
+   ]
+  },
+  {
+   "name": "Dance Hall",
+   "create": {
+    "goods": 53,
+    "influence": 1,
+    "labor": 53,
+    "magic": 0,
+    "gp": 2150
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Ballroom"
+    },
+    {
+     "qty": 1,
+     "name": "Bar"
+    },
+    {
+     "qty": 1,
+     "name": "Common Room"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Sitting Room"
+    },
+    {
+     "qty": 1,
+     "name": "Storage"
+    }
+   ]
+  },
+  {
+   "name": "Exotic Artisan",
+   "create": {
+    "goods": 44,
+    "influence": 1,
+    "labor": 41,
+    "magic": 0,
+    "gp": 1730
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Artisan's Workshop"
+    },
+    {
+     "qty": 1,
+     "name": "Bedroom"
+    },
+    {
+     "qty": 1,
+     "name": "Kitchen"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Sitting Room"
+    },
+    {
+     "qty": 1,
+     "name": "Storage"
+    },
+    {
+     "qty": 1,
+     "name": "Storefront"
+    }
+   ]
+  },
+  {
+   "name": "Farm",
+   "create": {
+    "goods": 53,
+    "influence": 1,
+    "labor": 50,
+    "magic": 0,
+    "gp": 2090
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Animal Pen"
+    },
+    {
+     "qty": 1,
+     "name": "Bedroom"
+    },
+    {
+     "qty": 1,
+     "name": "Farmland"
+    },
+    {
+     "qty": 1,
+     "name": "Garden"
+    },
+    {
+     "qty": 1,
+     "name": "Kitchen"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Sitting Room"
+    }
+   ]
+  },
+  {
+   "name": "Fort",
+   "create": {
+    "goods": 136,
+    "influence": 25,
+    "labor": 124,
+    "magic": 1,
+    "gp": 6050
+   },
+   "units": [
+    {
+     "qty": 2,
+     "name": "Armory"
+    },
+    {
+     "qty": 1,
+     "name": "Bedroom"
+    },
+    {
+     "qty": 2,
+     "name": "Bunks"
+    },
+    {
+     "qty": 1,
+     "name": "Cell"
+    },
+    {
+     "qty": 1,
+     "name": "Common Room"
+    },
+    {
+     "qty": 1,
+     "name": "Courtyard"
+    },
+    {
+     "qty": 3,
+     "name": "Defensive Wall"
+    },
+    {
+     "qty": 1,
+     "name": "Dojo"
+    },
+    {
+     "qty": 2,
+     "name": "Fortification (Augmentation)",
+     "note": "in the Common Room and Gatehouse"
+    },
+    {
+     "qty": 1,
+     "name": "Gatehouse"
+    },
+    {
+     "qty": 1,
+     "name": "Infirmary"
+    },
+    {
+     "qty": 1,
+     "name": "Kitchen"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Storage"
+    },
+    {
+     "qty": 1,
+     "name": "War Room"
+    }
+   ]
+  },
+  {
+   "name": "Garrison",
+   "create": {
+    "goods": 126,
+    "influence": 32,
+    "labor": 112,
+    "magic": 1,
+    "gp": 5820
+   },
+   "units": [
+    {
+     "qty": 4,
+     "name": "Armory"
+    },
+    {
+     "qty": 2,
+     "name": "Bedroom"
+    },
+    {
+     "qty": 4,
+     "name": "Bunks"
+    },
+    {
+     "qty": 1,
+     "name": "Common Room"
+    },
+    {
+     "qty": 1,
+     "name": "Dojo"
+    },
+    {
+     "qty": 1,
+     "name": "Guard Post"
+    },
+    {
+     "qty": 1,
+     "name": "Infirmary"
+    },
+    {
+     "qty": 1,
+     "name": "Kitchen"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 2,
+     "name": "Office"
+    },
+    {
+     "qty": 2,
+     "name": "Storage"
+    }
+   ]
+  },
+  {
+   "name": "Granery",
+   "create": {
+    "goods": 30,
+    "influence": 0,
+    "labor": 30,
+    "magic": 0,
+    "gp": 1200
+   },
+   "units": [
+    {
+     "qty": 10,
+     "name": "Storage"
+    }
+   ]
+  },
+  {
+   "name": "Graveyard",
+   "create": {
+    "goods": 18,
+    "influence": 12,
+    "labor": 19,
+    "magic": 5,
+    "gp": 1600
+   },
+   "units": [
+    {
+     "qty": 3,
+     "name": "Burial Ground"
+    },
+    {
+     "qty": 1,
+     "name": "Crypt"
+    },
+    {
+     "qty": 1,
+     "name": "Statue"
+    }
+   ]
+  },
+  {
+   "name": "Guildhall",
+   "create": {
+    "goods": 67,
+    "influence": 0,
+    "labor": 66,
+    "magic": 0,
+    "gp": 2660
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Common Room"
+    },
+    {
+     "qty": 1,
+     "name": "Kitchen"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 2,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Secret Room"
+    },
+    {
+     "qty": 1,
+     "name": "Sitting Room"
+    },
+    {
+     "qty": 2,
+     "name": "Storage"
+    },
+    {
+     "qty": 3,
+     "name": "Workstation"
+    }
+   ]
+  },
+  {
+   "name": "Herbalist",
+   "create": {
+    "goods": 52,
+    "influence": 1,
+    "labor": 48,
+    "magic": 0,
+    "gp": 2030
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Artisan's Workshop"
+    },
+    {
+     "qty": 1,
+     "name": "Bedroom"
+    },
+    {
+     "qty": 1,
+     "name": "Greenhouse"
+    },
+    {
+     "qty": 1,
+     "name": "Kitchen"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Sitting Room"
+    },
+    {
+     "qty": 1,
+     "name": "Storage"
+    },
+    {
+     "qty": 1,
+     "name": "Storefront"
+    }
+   ]
+  },
+  {
+   "name": "Hospital",
+   "create": {
+    "goods": 45,
+    "influence": 4,
+    "labor": 43,
+    "magic": 2,
+    "gp": 2080
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Bath"
+    },
+    {
+     "qty": 1,
+     "name": "Common Room"
+    },
+    {
+     "qty": 2,
+     "name": "Infirmary"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Statue"
+    },
+    {
+     "qty": 1,
+     "name": "Storage"
+    },
+    {
+     "qty": 1,
+     "name": "Storefront"
+    },
+    {
+     "qty": 1,
+     "name": "Workstation"
+    }
+   ]
+  },
+  {
+   "name": "House",
+   "create": {
+    "goods": 32,
+    "influence": 1,
+    "labor": 31,
+    "magic": 0,
+    "gp": 1290
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Bedroom"
+    },
+    {
+     "qty": 1,
+     "name": "Kitchen"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Sewer Access"
+    },
+    {
+     "qty": 1,
+     "name": "Sitting Room"
+    },
+    {
+     "qty": 1,
+     "name": "Storage"
+    }
+   ]
+  },
+  {
+   "name": "Inn",
+   "create": {
+    "goods": 52,
+    "influence": 5,
+    "labor": 47,
+    "magic": 0,
+    "gp": 2130
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Bar"
+    },
+    {
+     "qty": 1,
+     "name": "Bath"
+    },
+    {
+     "qty": 1,
+     "name": "Bedroom"
+    },
+    {
+     "qty": 1,
+     "name": "Common Room"
+    },
+    {
+     "qty": 1,
+     "name": "Kitchen"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Lodging"
+    },
+    {
+     "qty": 1,
+     "name": "Stall"
+    },
+    {
+     "qty": 1,
+     "name": "Storefront"
+    }
+   ]
+  },
+  {
+   "name": "Jail",
+   "create": {
+    "goods": 40,
+    "influence": 5,
+    "labor": 33,
+    "magic": 0,
+    "gp": 1610
+   },
+   "units": [
+    {
+     "qty": 4,
+     "name": "Cell"
+    },
+    {
+     "qty": 1,
+     "name": "Guard Post"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Storage"
+    },
+    {
+     "qty": 1,
+     "name": "Torture Chamber"
+    }
+   ]
+  },
+  {
+   "name": "Library",
+   "create": {
+    "goods": 29,
+    "influence": 4,
+    "labor": 28,
+    "magic": 2,
+    "gp": 1460
+   },
+   "units": [
+    {
+     "qty": 2,
+     "name": "Book Repository"
+    },
+    {
+     "qty": 1,
+     "name": "Common Room"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Storage"
+    }
+   ]
+  },
+  {
+   "name": "Luxary Store",
+   "create": {
+    "goods": 28,
+    "influence": 1,
+    "labor": 22,
+    "magic": 0,
+    "gp": 1030
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Furnishings (Augmentation)",
+     "note": "Storefront"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Storage"
+    },
+    {
+     "qty": 1,
+     "name": "Storefront"
+    },
+    {
+     "qty": 1,
+     "name": "Vault"
+    }
+   ]
+  },
+  {
+   "name": "Magic Shop",
+   "create": {
+    "goods": 40,
+    "influence": 1,
+    "labor": 33,
+    "magic": 1,
+    "gp": 1590
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Furnishings (Augmentation)",
+     "note": "Storefront"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Reliquary"
+    },
+    {
+     "qty": 1,
+     "name": "Storage"
+    },
+    {
+     "qty": 1,
+     "name": "Storefront"
+    },
+    {
+     "qty": 2,
+     "name": "Vault"
+    }
+   ]
+  },
+  {
+   "name": "Magical Academy",
+   "create": {
+    "goods": 121,
+    "influence": 17,
+    "labor": 110,
+    "magic": 5,
+    "gp": 5630
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Alchemy Lab"
+    },
+    {
+     "qty": 2,
+     "name": "Bath"
+    },
+    {
+     "qty": 1,
+     "name": "Bedroom"
+    },
+    {
+     "qty": 1,
+     "name": "Bell Tower"
+    },
+    {
+     "qty": 1,
+     "name": "Bunks"
+    },
+    {
+     "qty": 2,
+     "name": "Classroom"
+    },
+    {
+     "qty": 1,
+     "name": "Common Room"
+    },
+    {
+     "qty": 1,
+     "name": "Courtyard"
+    },
+    {
+     "qty": 1,
+     "name": "Greenhouse"
+    },
+    {
+     "qty": 1,
+     "name": "Kitchen"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Magical Repository"
+    },
+    {
+     "qty": 1,
+     "name": "Observation Dome"
+    },
+    {
+     "qty": 2,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Scriptorium"
+    },
+    {
+     "qty": 1,
+     "name": "Sitting Room"
+    },
+    {
+     "qty": 1,
+     "name": "Statue"
+    }
+   ]
+  },
+  {
+   "name": "Mansion",
+   "create": {
+    "goods": 132,
+    "influence": 4,
+    "labor": 120,
+    "magic": 0,
+    "gp": 5160
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Bar"
+    },
+    {
+     "qty": 1,
+     "name": "Bath"
+    },
+    {
+     "qty": 4,
+     "name": "Bedroom"
+    },
+    {
+     "qty": 1,
+     "name": "Escape Route"
+    },
+    {
+     "qty": 2,
+     "name": "Furnishings (Augmentation)",
+     "note": "Bedroom and Sitting Room"
+    },
+    {
+     "qty": 1,
+     "name": "Kitchen"
+    },
+    {
+     "qty": 1,
+     "name": "Laundry"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Lodging"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Secret Room"
+    },
+    {
+     "qty": 2,
+     "name": "Sitting Room"
+    },
+    {
+     "qty": 1,
+     "name": "Stall"
+    },
+    {
+     "qty": 2,
+     "name": "Storage"
+    }
+   ]
+  },
+  {
+   "name": "Menagerie",
+   "create": {
+    "goods": 200,
+    "influence": 33,
+    "labor": 188,
+    "magic": 0,
+    "gp": 8750
+   },
+   "units": [
+    {
+     "qty": 2,
+     "name": "Animal Pen"
+    },
+    {
+     "qty": 1,
+     "name": "Courtyard"
+    },
+    {
+     "qty": 4,
+     "name": "Defensive Wall"
+    },
+    {
+     "qty": 1,
+     "name": "Farmland"
+    },
+    {
+     "qty": 1,
+     "name": "Guard Post"
+    },
+    {
+     "qty": 6,
+     "name": "Habitat"
+    },
+    {
+     "qty": 1,
+     "name": "Hatchery"
+    },
+    {
+     "qty": 1,
+     "name": "Kitchen"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 2,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Stall"
+    },
+    {
+     "qty": 2,
+     "name": "Storage"
+    },
+    {
+     "qty": 1,
+     "name": "Storefront"
+    }
+   ]
+  },
+  {
+   "name": "Military Academy",
+   "create": {
+    "goods": 142,
+    "influence": 16,
+    "labor": 129,
+    "magic": 2,
+    "gp": 6100
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Armory"
+    },
+    {
+     "qty": 1,
+     "name": "Bath"
+    },
+    {
+     "qty": 1,
+     "name": "Bedroom"
+    },
+    {
+     "qty": 1,
+     "name": "Bell Tower"
+    },
+    {
+     "qty": 1,
+     "name": "Book Repository"
+    },
+    {
+     "qty": 1,
+     "name": "Cell"
+    },
+    {
+     "qty": 2,
+     "name": "Classroom"
+    },
+    {
+     "qty": 1,
+     "name": "Common Room"
+    },
+    {
+     "qty": 1,
+     "name": "Courtyard"
+    },
+    {
+     "qty": 1,
+     "name": "Dojo"
+    },
+    {
+     "qty": 1,
+     "name": "Greenhouse"
+    },
+    {
+     "qty": 1,
+     "name": "Infirmary"
+    },
+    {
+     "qty": 1,
+     "name": "Kitchen"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Lodging"
+    },
+    {
+     "qty": 2,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Scriptorium"
+    },
+    {
+     "qty": 1,
+     "name": "Sitting Room"
+    },
+    {
+     "qty": 1,
+     "name": "Statue"
+    },
+    {
+     "qty": 1,
+     "name": "Storage"
+    },
+    {
+     "qty": 1,
+     "name": "War Room"
+    }
+   ]
+  },
+  {
+   "name": "Mill",
+   "create": {
+    "goods": 17,
+    "influence": 0,
+    "labor": 16,
+    "magic": 0,
+    "gp": 660
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Mill Room"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 2,
+     "name": "Storage"
+    }
+   ]
+  },
+  {
+   "name": "Mint",
+   "create": {
+    "goods": 49,
+    "influence": 2,
+    "labor": 45,
+    "magic": 0,
+    "gp": 1940
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Artisan's Workshop"
+    },
+    {
+     "qty": 1,
+     "name": "Fortification (Augmentation)",
+     "note": "Vault"
+    },
+    {
+     "qty": 1,
+     "name": "Guard Post"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Storage"
+    },
+    {
+     "qty": 2,
+     "name": "Vault"
+    }
+   ]
+  },
+  {
+   "name": "Monastery",
+   "create": {
+    "goods": 58,
+    "influence": 15,
+    "labor": 53,
+    "magic": 6,
+    "gp": 3270
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Altar"
+    },
+    {
+     "qty": 1,
+     "name": "Bath"
+    },
+    {
+     "qty": 1,
+     "name": "Book Repository"
+    },
+    {
+     "qty": 1,
+     "name": "Bunks"
+    },
+    {
+     "qty": 1,
+     "name": "Courtyard"
+    },
+    {
+     "qty": 1,
+     "name": "Crypt"
+    },
+    {
+     "qty": 1,
+     "name": "Garden"
+    },
+    {
+     "qty": 1,
+     "name": "Kitchen"
+    },
+    {
+     "qty": 1,
+     "name": "Laundry"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 2,
+     "name": "Sanctum"
+    },
+    {
+     "qty": 1,
+     "name": "Scriptorium"
+    }
+   ]
+  },
+  {
+   "name": "Monument",
+   "create": {
+    "goods": 10,
+    "influence": 0,
+    "labor": 8,
+    "magic": 0,
+    "gp": 360
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Furnishings (Augmentation)",
+     "note": "Statue"
+    },
+    {
+     "qty": 1,
+     "name": "Statue"
+    }
+   ]
+  },
+  {
+   "name": "Museum",
+   "create": {
+    "goods": 47,
+    "influence": 5,
+    "labor": 43,
+    "magic": 1,
+    "gp": 2050
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Guard Post"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Reliquary"
+    },
+    {
+     "qty": 2,
+     "name": "Statue"
+    },
+    {
+     "qty": 2,
+     "name": "Storage"
+    },
+    {
+     "qty": 1,
+     "name": "Storefront"
+    },
+    {
+     "qty": 2,
+     "name": "Trophy Room"
+    },
+    {
+     "qty": 1,
+     "name": "Vault"
+    }
+   ]
+  },
+  {
+   "name": "Noble Villa",
+   "create": {
+    "goods": 218,
+    "influence": 16,
+    "labor": 204,
+    "magic": 0,
+    "gp": 8920
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Bar"
+    },
+    {
+     "qty": 1,
+     "name": "Bath"
+    },
+    {
+     "qty": 4,
+     "name": "Bedroom"
+    },
+    {
+     "qty": 2,
+     "name": "Courtyard"
+    },
+    {
+     "qty": 4,
+     "name": "Defensive Wall"
+    },
+    {
+     "qty": 1,
+     "name": "Escape Route"
+    },
+    {
+     "qty": 2,
+     "name": "Furnishings (Augmentation)",
+     "note": "Bedroom and Sitting Room"
+    },
+    {
+     "qty": 1,
+     "name": "Garden"
+    },
+    {
+     "qty": 1,
+     "name": "Gatehouse"
+    },
+    {
+     "qty": 1,
+     "name": "Kitchen"
+    },
+    {
+     "qty": 1,
+     "name": "Labyrinth"
+    },
+    {
+     "qty": 1,
+     "name": "Laundry"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Lodging"
+    },
+    {
+     "qty": 2,
+     "name": "Office"
+    },
+    {
+     "qty": 2,
+     "name": "Secret Room"
+    },
+    {
+     "qty": 2,
+     "name": "Sitting Room"
+    },
+    {
+     "qty": 1,
+     "name": "Stall"
+    },
+    {
+     "qty": 1,
+     "name": "Statue"
+    },
+    {
+     "qty": 2,
+     "name": "Storage"
+    },
+    {
+     "qty": 1,
+     "name": "Trophy Room"
+    },
+    {
+     "qty": 1,
+     "name": "Vault"
+    }
+   ]
+  },
+  {
+   "name": "Observatory",
+   "create": {
+    "goods": 32,
+    "influence": 4,
+    "labor": 31,
+    "magic": 2,
+    "gp": 1580
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Book Repository"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Observation Dome"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Scriptorium"
+    },
+    {
+     "qty": 1,
+     "name": "Storage"
+    }
+   ]
+  },
+  {
+   "name": "Orphanage",
+   "create": {
+    "goods": 63,
+    "influence": 7,
+    "labor": 62,
+    "magic": 1,
+    "gp": 2810
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Bedroom"
+    },
+    {
+     "qty": 1,
+     "name": "Bunks"
+    },
+    {
+     "qty": 1,
+     "name": "Classroom"
+    },
+    {
+     "qty": 1,
+     "name": "Common Room"
+    },
+    {
+     "qty": 1,
+     "name": "Courtyard"
+    },
+    {
+     "qty": 1,
+     "name": "Infirmary"
+    },
+    {
+     "qty": 1,
+     "name": "Kitchen"
+    },
+    {
+     "qty": 1,
+     "name": "Laundry"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Nursery"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 2,
+     "name": "Storage"
+    }
+   ]
+  },
+  {
+   "name": "Palace",
+   "create": {
+    "goods": 453,
+    "influence": 42,
+    "labor": 421,
+    "magic": 9,
+    "gp": 19640
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Altar"
+    },
+    {
+     "qty": 1,
+     "name": "Ballroom"
+    },
+    {
+     "qty": 1,
+     "name": "Bar"
+    },
+    {
+     "qty": 2,
+     "name": "Bath"
+    },
+    {
+     "qty": 6,
+     "name": "Bedroom"
+    },
+    {
+     "qty": 1,
+     "name": "Bunks"
+    },
+    {
+     "qty": 1,
+     "name": "Cell"
+    },
+    {
+     "qty": 1,
+     "name": "Common Room"
+    },
+    {
+     "qty": 2,
+     "name": "Courtyard"
+    },
+    {
+     "qty": 1,
+     "name": "Crypt"
+    },
+    {
+     "qty": 6,
+     "name": "Defensive Wall"
+    },
+    {
+     "qty": 1,
+     "name": "Escape Route"
+    },
+    {
+     "qty": 6,
+     "name": "Furnishings (Augmentation)",
+     "note": "in the Ballroom, 2 Bedrooms, Office, Sitting Room, and the Throne Room"
+    },
+    {
+     "qty": 1,
+     "name": "Garden"
+    },
+    {
+     "qty": 1,
+     "name": "Gatehouse"
+    },
+    {
+     "qty": 2,
+     "name": "Kitchen"
+    },
+    {
+     "qty": 1,
+     "name": "Labyrinth"
+    },
+    {
+     "qty": 1,
+     "name": "Laundry"
+    },
+    {
+     "qty": 2,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 2,
+     "name": "Lodging"
+    },
+    {
+     "qty": 2,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Sanctum"
+    },
+    {
+     "qty": 3,
+     "name": "Secret Room"
+    },
+    {
+     "qty": 3,
+     "name": "Sitting Room"
+    },
+    {
+     "qty": 1,
+     "name": "Sports Field"
+    },
+    {
+     "qty": 4,
+     "name": "Stall"
+    },
+    {
+     "qty": 2,
+     "name": "Statue"
+    },
+    {
+     "qty": 6,
+     "name": "Storage"
+    },
+    {
+     "qty": 1,
+     "name": "Throne Room"
+    },
+    {
+     "qty": 1,
+     "name": "Trophy Room"
+    },
+    {
+     "qty": 2,
+     "name": "Vault"
+    },
+    {
+     "qty": 1,
+     "name": "War Room"
+    }
+   ]
+  },
+  {
+   "name": "Pier",
+   "create": {
+    "goods": 22,
+    "influence": 3,
+    "labor": 20,
+    "magic": 0,
+    "gp": 930
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Animal Pen"
+    },
+    {
+     "qty": 1,
+     "name": "Dock"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 2,
+     "name": "Storage"
+    }
+   ]
+  },
+  {
+   "name": "School",
+   "create": {
+    "goods": 58,
+    "influence": 5,
+    "labor": 53,
+    "magic": 0,
+    "gp": 2370
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Bell Tower"
+    },
+    {
+     "qty": 2,
+     "name": "Classroom"
+    },
+    {
+     "qty": 1,
+     "name": "Common Room"
+    },
+    {
+     "qty": 1,
+     "name": "Courtyard"
+    },
+    {
+     "qty": 1,
+     "name": "Kitchen"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 2,
+     "name": "Storage"
+    },
+    {
+     "qty": 1,
+     "name": "Workstation"
+    }
+   ]
+  },
+  {
+   "name": "Shop",
+   "create": {
+    "goods": 14,
+    "influence": 1,
+    "labor": 12,
+    "magic": 0,
+    "gp": 550
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Storage"
+    },
+    {
+     "qty": 1,
+     "name": "Storefront"
+    }
+   ]
+  },
+  {
+   "name": "Shrine",
+   "create": {
+    "goods": 3,
+    "influence": 1,
+    "labor": 4,
+    "magic": 1,
+    "gp": 270
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Altar"
+    },
+    {
+     "qty": 1,
+     "name": "Statue"
+    }
+   ]
+  },
+  {
+   "name": "Smithy",
+   "create": {
+    "goods": 18,
+    "influence": 1,
+    "labor": 17,
+    "magic": 0,
+    "gp": 730
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Forge"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 2,
+     "name": "Storage"
+    }
+   ]
+  },
+  {
+   "name": "Stable",
+   "create": {
+    "goods": 42,
+    "influence": 3,
+    "labor": 39,
+    "magic": 0,
+    "gp": 1710
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Animal Pen"
+    },
+    {
+     "qty": 1,
+     "name": "Farmland"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 2,
+     "name": "Stall"
+    },
+    {
+     "qty": 1,
+     "name": "Storage"
+    }
+   ]
+  },
+  {
+   "name": "Stockyard",
+   "create": {
+    "goods": 42,
+    "influence": 4,
+    "labor": 37,
+    "magic": 0,
+    "gp": 1700
+   },
+   "units": [
+    {
+     "qty": 4,
+     "name": "Animal Pen"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Pit"
+    },
+    {
+     "qty": 1,
+     "name": "Storage"
+    },
+    {
+     "qty": 1,
+     "name": "Workstation"
+    }
+   ]
+  },
+  {
+   "name": "Tannery",
+   "create": {
+    "goods": 20,
+    "influence": 1,
+    "labor": 20,
+    "magic": 0,
+    "gp": 830
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Laundry"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Leather Workshop"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Pit"
+    },
+    {
+     "qty": 1,
+     "name": "Storage"
+    }
+   ]
+  },
+  {
+   "name": "Tavern",
+   "create": {
+    "goods": 22,
+    "influence": 1,
+    "labor": 22,
+    "magic": 0,
+    "gp": 910
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Bar"
+    },
+    {
+     "qty": 1,
+     "name": "Common Room"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Storage"
+    }
+   ]
+  },
+  {
+   "name": "Temple",
+   "create": {
+    "goods": 28,
+    "influence": 2,
+    "labor": 29,
+    "magic": 2,
+    "gp": 1400
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Altar"
+    },
+    {
+     "qty": 1,
+     "name": "Bedroom"
+    },
+    {
+     "qty": 1,
+     "name": "Common Room"
+    },
+    {
+     "qty": 1,
+     "name": "Confessional"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Sanctum"
+    },
+    {
+     "qty": 1,
+     "name": "Statue"
+    },
+    {
+     "qty": 1,
+     "name": "Storage"
+    }
+   ]
+  },
+  {
+   "name": "Tenement",
+   "create": {
+    "goods": 41,
+    "influence": 16,
+    "labor": 41,
+    "magic": 0,
+    "gp": 2120
+   },
+   "units": [
+    {
+     "qty": 4,
+     "name": "Bunks"
+    },
+    {
+     "qty": 1,
+     "name": "Kitchen"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Storage"
+    }
+   ]
+  },
+  {
+   "name": "Theater",
+   "create": {
+    "goods": 41,
+    "influence": 2,
+    "labor": 46,
+    "magic": 0,
+    "gp": 1800
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Auditorium"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Secret Room"
+    },
+    {
+     "qty": 2,
+     "name": "Storage"
+    },
+    {
+     "qty": 1,
+     "name": "Storefront"
+    }
+   ]
+  },
+  {
+   "name": "Town Hall",
+   "create": {
+    "goods": 23,
+    "influence": 2,
+    "labor": 23,
+    "magic": 0,
+    "gp": 980
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Common Room"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Scriptorium"
+    },
+    {
+     "qty": 1,
+     "name": "Storage"
+    }
+   ]
+  },
+  {
+   "name": "Trade Shop",
+   "create": {
+    "goods": 19,
+    "influence": 1,
+    "labor": 16,
+    "magic": 0,
+    "gp": 730
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Storage"
+    },
+    {
+     "qty": 1,
+     "name": "Storefront"
+    },
+    {
+     "qty": 1,
+     "name": "Workstation"
+    }
+   ]
+  },
+  {
+   "name": "University",
+   "create": {
+    "goods": 94,
+    "influence": 10,
+    "labor": 88,
+    "magic": 2,
+    "gp": 4140
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Bath"
+    },
+    {
+     "qty": 1,
+     "name": "Bell Tower"
+    },
+    {
+     "qty": 1,
+     "name": "Book Repository"
+    },
+    {
+     "qty": 2,
+     "name": "Classroom"
+    },
+    {
+     "qty": 1,
+     "name": "Common Room"
+    },
+    {
+     "qty": 1,
+     "name": "Courtyard"
+    },
+    {
+     "qty": 1,
+     "name": "Greenhouse"
+    },
+    {
+     "qty": 1,
+     "name": "Kitchen"
+    },
+    {
+     "qty": 1,
+     "name": "Lavatory"
+    },
+    {
+     "qty": 1,
+     "name": "Observation Dome"
+    },
+    {
+     "qty": 2,
+     "name": "Office"
+    },
+    {
+     "qty": 1,
+     "name": "Scriptorium"
+    },
+    {
+     "qty": 1,
+     "name": "Sitting Room"
+    },
+    {
+     "qty": 1,
+     "name": "Statue"
+    }
+   ]
+  },
+  {
+   "name": "Watchtower",
+   "create": {
+    "goods": 35,
+    "influence": 9,
+    "labor": 25,
+    "magic": 0,
+    "gp": 1470
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Armory"
+    },
+    {
+     "qty": 1,
+     "name": "Bell Tower"
+    },
+    {
+     "qty": 1,
+     "name": "Gatehouse"
+    }
+   ]
+  },
+  {
+   "name": "Waterfront",
+   "create": {
+    "goods": 63,
+    "influence": 10,
+    "labor": 56,
+    "magic": 0,
+    "gp": 2680
+   },
+   "units": [
+    {
+     "qty": 2,
+     "name": "Animal Pen"
+    },
+    {
+     "qty": 4,
+     "name": "Dock"
+    },
+    {
+     "qty": 1,
+     "name": "Office"
+    },
+    {
+     "qty": 4,
+     "name": "Storage"
+    },
+    {
+     "qty": 1,
+     "name": "Workstation"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Artisans' Guild",
+   "create": {
+    "goods": 8,
+    "influence": 10,
+    "labor": 14,
+    "magic": 0,
+    "gp": 740
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Bureaucrats"
+    },
+    {
+     "qty": 2,
+     "name": "Craftspeople"
+    },
+    {
+     "qty": 2,
+     "name": "Laborers"
+    }
+   ]
+  },
+  {
+   "name": "Bounty Hunters",
+   "create": {
+    "goods": 8,
+    "influence": 8,
+    "labor": 10,
+    "magic": 0,
+    "gp": 600
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Archers"
+    },
+    {
+     "qty": 1,
+     "name": "Bureaucrats"
+    },
+    {
+     "qty": 1,
+     "name": "Driver"
+    }
+   ]
+  },
+  {
+   "name": "Brute Squad",
+   "create": {
+    "goods": 7,
+    "influence": 8,
+    "labor": 13,
+    "magic": 0,
+    "gp": 640
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Robbers"
+    },
+    {
+     "qty": 2,
+     "name": "Soldiers"
+    }
+   ]
+  },
+  {
+   "name": "Cabal",
+   "create": {
+    "goods": 16,
+    "influence": 12,
+    "labor": 8,
+    "magic": 24,
+    "gp": 3240
+   },
+   "units": [
+    {
+     "qty": 4,
+     "name": "Apprentice"
+    },
+    {
+     "qty": 1,
+     "name": "Mage"
+    },
+    {
+     "qty": 1,
+     "name": "Sage"
+    }
+   ]
+  },
+  {
+   "name": "Caravan Crew",
+   "create": {
+    "goods": 6,
+    "influence": 3,
+    "labor": 7,
+    "magic": 0,
+    "gp": 350
+   },
+   "units": [
+    {
+     "qty": 2,
+     "name": "Driver"
+    },
+    {
+     "qty": 1,
+     "name": "Guards"
+    },
+    {
+     "qty": 1,
+     "name": "Laborers"
+    }
+   ]
+  },
+  {
+   "name": "Cult Create 15 Goods, 11 Influence, 17 Labor, 18 Magic (2,770 gp) Teams 4 Acolytes, 2 Guards, 1 Priest A splinter religion or secret society that believes yours is the true faith. Entourage",
+   "create": {
+    "goods": 6,
+    "influence": 9,
+    "labor": 7,
+    "magic": 0,
+    "gp": 530
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Bureaucrats"
+    },
+    {
+     "qty": 1,
+     "name": "Driver"
+    },
+    {
+     "qty": 2,
+     "name": "Lackeys"
+    }
+   ]
+  },
+  {
+   "name": "Fight Club",
+   "create": {
+    "goods": 5,
+    "influence": 7,
+    "labor": 10,
+    "magic": 0,
+    "gp": 510
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Driver"
+    },
+    {
+     "qty": 1,
+     "name": "Guards"
+    },
+    {
+     "qty": 1,
+     "name": "Laborers"
+    },
+    {
+     "qty": 1,
+     "name": "Lackeys"
+    },
+    {
+     "qty": 1,
+     "name": "Scofflaws"
+    }
+   ]
+  },
+  {
+   "name": "Hunting Party",
+   "create": {
+    "goods": 5,
+    "influence": 6,
+    "labor": 11,
+    "magic": 0,
+    "gp": 500
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Archers"
+    },
+    {
+     "qty": 1,
+     "name": "Laborers"
+    },
+    {
+     "qty": 1,
+     "name": "Lackeys"
+    }
+   ]
+  },
+  {
+   "name": "Mercenary Company",
+   "create": {
+    "goods": 18,
+    "influence": 13,
+    "labor": 25,
+    "magic": 6,
+    "gp": 1850
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Elite Archers"
+    },
+    {
+     "qty": 2,
+     "name": "Elite Soldiers"
+    },
+    {
+     "qty": 1,
+     "name": "Priest"
+    }
+   ]
+  },
+  {
+   "name": "Ship Crew",
+   "create": {
+    "goods": 1,
+    "influence": 2,
+    "labor": 4,
+    "magic": 0,
+    "gp": 160
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Laborers"
+    },
+    {
+     "qty": 1,
+     "name": "Sailors"
+    }
+   ]
+  },
+  {
+   "name": "Theater Company",
+   "create": {
+    "goods": 15,
+    "influence": 17,
+    "labor": 13,
+    "magic": 20,
+    "gp": 3070
+   },
+   "units": [
+    {
+     "qty": 5,
+     "name": "Apprentice"
+    },
+    {
+     "qty": 1,
+     "name": "Bureaucrats"
+    },
+    {
+     "qty": 1,
+     "name": "Craftspeople"
+    },
+    {
+     "qty": 1,
+     "name": "Laborers"
+    }
+   ]
+  },
+  {
+   "name": "Thieves' Guild",
+   "create": {
+    "goods": 4,
+    "influence": 15,
+    "labor": 12,
+    "magic": 0,
+    "gp": 770
+   },
+   "units": [
+    {
+     "qty": 2,
+     "name": "Cutpurses"
+    },
+    {
+     "qty": 1,
+     "name": "Robbers"
+    },
+    {
+     "qty": 1,
+     "name": "Scofflaws"
+    },
+    {
+     "qty": 1,
+     "name": "Soldiers"
+    }
+   ]
+  },
+  {
+   "name": "Vagabonds",
+   "create": {
+    "goods": 10,
+    "influence": 13,
+    "labor": 13,
+    "magic": 7,
+    "gp": 1550
+   },
+   "units": [
+    {
+     "qty": 1,
+     "name": "Acolyte"
+    },
+    {
+     "qty": 1,
+     "name": "Apprentice"
+    },
+    {
+     "qty": 1,
+     "name": "Cutpurses"
+    },
+    {
+     "qty": 2,
+     "name": "Driver"
+    },
+    {
+     "qty": 1,
+     "name": "Guards"
+    },
+    {
+     "qty": 1,
+     "name": "Laborers"
+    },
+    {
+     "qty": 1,
+     "name": "Scofflaws"
+    }
+   ]
+  }
+ ],
+ "managers": [
+  {
+   "name": "Abbot",
+   "wage": 4.0,
+   "skills": "Diplomacy, Heal, Knowledge (local), Knowledge (religion)"
+  },
+  {
+   "name": "Accountant",
+   "wage": 3.0,
+   "skills": "Appraise, Knowledge (local), Linguistics, Profession (accountant)"
+  },
+  {
+   "name": "Captain",
+   "wage": 5.0,
+   "skills": "Acrobatics, Diplomacy, Knowledge (geography), Profession (sailor)"
+  },
+  {
+   "name": "Doctor",
+   "wage": 5.0,
+   "skills": "Heal, Perception, Sense Motive, Survival"
+  },
+  {
+   "name": "Guildmaster (Artisan's Guild)",
+   "wage": 3.0,
+   "skills": "Appraise, Craft (any one), Diplomacy, Profession (any one)"
+  },
+  {
+   "name": "Guildmaster (Thieves' Guild)",
+   "wage": 5.0,
+   "skills": "Appraise, Bluff, Disable Device, Knowledge (local)"
+  },
+  {
+   "name": "Headmaster",
+   "wage": 3.0,
+   "skills": "Diplomacy, Knowledge (any two), Profession (any one)"
+  },
+  {
+   "name": "Innkeeper",
+   "wage": 2.0,
+   "skills": "Appraise, Diplomacy, Knowledge (local), Profession (any one)"
+  },
+  {
+   "name": "Lieutenant",
+   "wage": 4.0,
+   "skills": "Diplomacy, Intimidate, Knowledge (engineering), Perception"
+  },
+  {
+   "name": "Master Smith",
+   "wage": 4.0,
+   "skills": "Appraise, Craft (any one), Perception, Profession (any one)"
+  },
+  {
+   "name": "Partner",
+   "wage": 4.0,
+   "skills": "Bluff, Diplomacy, Knowledge (any one), Profession (barrister)"
+  },
+  {
+   "name": "Sensei",
+   "wage": 2.0,
+   "skills": "Acrobatics, Intimidate, Knowledge (history), Perception"
+  },
+  {
+   "name": "Smuggler",
+   "wage": 3.0,
+   "skills": "Appraise, Bluff, Knowledge (local), Sleight of Hand"
+  },
+  {
+   "name": "Stage Manager",
+   "wage": 2.0,
+   "skills": "Diplomacy, Disguise, Perform (any two)"
+  },
+  {
+   "name": "Steward",
+   "wage": 2.0,
+   "skills": "Diplomacy, Knowledge (local), Knowledge (nobility), Sense Motive"
+  },
+  {
+   "name": "Underboss",
+   "wage": 2.0,
+   "skills": "Appraise, Bluff, Intimidate, Knowledge (local)"
+  },
+  {
+   "name": "Warden",
+   "wage": 2.0,
+   "skills": "Diplomacy, Intimidate, Knowledge (local), Sense Motive"
+  }
+ ]
+}
