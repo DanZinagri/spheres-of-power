@@ -31,47 +31,47 @@ What the feat extractor takes from the site (1261 Spheres feats; approved), plus
 | Grit | — | 21 |
 | Counterspell | 20 | — |
 | Item Mastery | — | 19 |
-| Faction | — | 17 |
 | Weapon Mastery | — | 17 |
 | Gizmo | 17 | — |
-| Protokinesis | 16 | — |
+| Faction | — | 17 |
 | Stare | — | 16 |
+| Protokinesis | 16 | — |
 | Companion | 15 | — |
 | Performance | — | 15 |
-| Meditation | — | 14 |
 | Shield Mastery | — | 14 |
+| Meditation | — | 14 |
 | Defiler | 12 | — |
 | Proxy | 12 | — |
 | Wild Magic | 12 | — |
 | Surreal | 12 | — |
-| Shield Style | — | 12 |
 | Necrosis | 12 | — |
-| Achievement | — | 11 |
-| Panache | — | 11 |
-| Armor Mastery | — | 11 |
-| Channeling | 11 | — |
+| Shield Style | — | 12 |
 | Purring | 11 | — |
+| Panache | — | 11 |
+| Achievement | — | 11 |
+| Channeling | 11 | — |
+| Armor Mastery | — | 11 |
 | Rune | 10 | — |
+| Armor Style | — | 9 |
 | Origin | — | 9 |
 | Esoteric | — | 9 |
 | Alignment | — | 9 |
-| Armor Style | — | 9 |
 | Blood Hex | — | 8 |
 | Familiar | — | 8 |
-| Damnation | 3 | 4 |
 | Combination | — | 7 |
+| Damnation | 3 | 4 |
 | Theurge | 7 | — |
 | Chance | 6 | — |
-| Anathema | 6 | — |
-| Plague | 6 | — |
 | Trick | — | 6 |
+| Plague | 6 | — |
 | Betrayal | — | 6 |
+| Anathema | 6 | — |
 | Targeting | — | 4 |
 | Gathlain Court Title | — | 4 |
-| Hero Point | — | 3 |
 | Words of Power | — | 3 |
-| Luck | 2 | — |
+| Hero Point | — | 3 |
 | Coven | — | 2 |
+| Luck | 2 | — |
 | Called Shot | — | 2 |
 
 ## Spheres of Power (954)

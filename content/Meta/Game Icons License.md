@@ -18,6 +18,8 @@ Some icons on this site come from [game-icons.net](https://game-icons.net), used
 | Steeltoe boots | Gear (home page) | [Lorc](http://lorcblog.blogspot.com) |
 | Stone tablet | Other Options (home page) | [Lorc](http://lorcblog.blogspot.com) |
 | Squid | Creatures (home page) | [Lorc](http://lorcblog.blogspot.com) |
+| Stone sphere | About the Spheres (home page) | [Lorc](http://lorcblog.blogspot.com) |
+| Cog | Other Resources (home page) | [Lorc](http://lorcblog.blogspot.com) |
 | Achievement | Feat Types (home page) | Skoll |
 | Allied star | Base PF1e Classes (home page) | Skoll |
 

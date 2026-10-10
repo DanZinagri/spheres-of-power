@@ -1201,7 +1201,8 @@ def rebalance_home_columns(md: str) -> str:
             hit = next((s for s in sections if s[0] == sec_title), None)
             if hit:
                 sections.remove(hit)
-                links = [l.strip()[2:] if l.strip().startswith("- [[") else l.strip()
+                # just the link: notes after it ("(formerly Madness)") would sit apart in the grid
+                links = [re.match(r"(?:- )?(\[\[[^\]]+\]\])", l.strip()).group(1)
                          for l in hit[1] if l.strip().startswith(("[[", "- [["))]
                 slug = re.sub(r"[^a-z]+", "-", sec_title.lower()).strip("-")
                 row_blocks += [f'<div class="sop-spheres sop-{slug}">', "", f"**{sec_title}**", "", *links, "", "</div>", ""]

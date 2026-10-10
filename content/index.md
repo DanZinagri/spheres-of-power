@@ -232,7 +232,7 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 - [[Spheres Gestalt Rules|Gestalt Rules]]
 - [[Oaths]]
 - [[Organizations]]
-- [[Strain (formerly Madness)|Strain]] (formerly Madness)
+- [[Strain (formerly Madness)|Strain]]
 - [[Variant Rules]]
 - [[Wilderness]]
 

@@ -362,6 +362,26 @@ iframe.sop-tool {
 .sop-icon-pf1e {
   --icon: url("/static/icons/game-icons/allied-star.png");
 }
+// home page headings with icons (About the Spheres, Other Resources): drawn by CSS so the headings
+// (and the table of contents built from them) stay plain text
+body[data-slug="index"] article {
+  h2#about-the-spheres,
+  h1#other-resources {
+    &::before {
+      content: "";
+      display: inline-block;
+      width: 1.1em;
+      height: 1.1em;
+      margin-right: 0.4em;
+      vertical-align: -0.15em;
+      background-color: currentColor;
+      -webkit-mask: var(--icon) center / contain no-repeat;
+      mask: var(--icon) center / contain no-repeat;
+    }
+  }
+  h2#about-the-spheres { --icon: url("/static/icons/game-icons/stone-sphere.png"); }
+  h1#other-resources { --icon: url("/static/icons/game-icons/cog.png"); }
+}
 // the home page's Classes tabs: each tab button gets its system's icon (in the button's text color,
 // so it reads on the selected tab too)
 .sop-class-tabs > .sop-tab-bar > button {
