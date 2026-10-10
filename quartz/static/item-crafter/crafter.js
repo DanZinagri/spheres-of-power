@@ -20,7 +20,7 @@ const POWERS = {
   Blood: { powers: [["Blood control", 1, "r"], ["Extract blood construct", 1, "r"]], mods: [["Change (quicken)/(still) effect", 1]] },
   Conjuration: { powers: [["Summon companion", 0, "r"]], mods: [["(form) talent", 1], ["Duration step (Lingering Companion / Greater Summoning)", 1]] },
   Creation: { powers: [["Alter (repair or destroy)", 1, "inst"], ["Create object", 0, "r"]], mods: [["Change alter effect", 1]] },
-  Dark: { powers: [["Darkness", 0, "r"]], mods: [["Shadow talent effect", 1], ["Feed On Darkness (meld)", 2]] },
+  Dark: { powers: [["Darkness", 0, "r"]], mods: [["Shadow talent effect", 1]] },
   Death: { powers: [["Ghost strike", 1, "var"], ["Reanimate", 1, "r"]], mods: [["Empowered ghost strike", 1], ["Change ghost strike", 1], ["Reanimate multiple targets", 2], ["+1 HD reanimated", 1]] },
   Destruction: { powers: [["Destructive blast", 1, "inst"]], mods: [["1 damage die per caster level", 1]] },
   Divination: { powers: [["Divine", 2, "conc"], ["Sense", 0, "m"]], mods: [["Change divine subject", 1]] },
@@ -36,7 +36,7 @@ const POWERS = {
   Mana: { powers: [["Expunge (Spellburn)", 2, "inst"], ["Manipulate", 2, "1rd"]], mods: [["Alternate expunge / manipulation", 1], ["Enhanced expunge / manipulation", 2], ["Manabond", 2]] },
   Mind: { powers: [["Suggestion charm", 1, "charm"]], mods: [["Alternate charm", 1], ["Open Mind (any creature type)", 1], ["Mass charm", 2], ["Greater charm", 1], ["Powerful charm", 3], ["Cloud", 2]] },
   Nature: { powers: [["Geomancing", 0, "r"]], mods: [["Greater geomancing", 1], ["Nature spirit", 1]] },
-  Protection: { powers: [["Aegis", 0, "m"], ["Ward", 0, "r"]], mods: [["Change aegis or ward", 1], ["Add (succor)", 1]] },
+  Protection: { powers: [["Aegis", 0, "m"], ["Ward", 0, "r"]], mods: [["Change aegis or ward", 1], ["Keep the aegis alongside a (succor)", 1]] },
   Telekinesis: { powers: [["Sustained force", 0, "r"]], mods: [] },
   Time: { powers: [["Haste or slow", 0, "r"]], mods: [["Change alter time effect", 1]] },
   War: { powers: [["Totem", 0, "r"]], mods: [["Rally instead of totem", 2], ["Greater Rally", 2], ["Momentum", 1], ["Change totem", 1]] },
@@ -260,7 +260,6 @@ function talentRule(r, c) {
       if (name === "mass alteration") return [2, "Mass Alteration is +2"]
       break
     case "Dark":
-      if (name === "feed on darkness") return [2, "Feed On Darkness is +2"]
       if (tags.includes("blot") && firstWith("blot")) return [0, "one (blot) talent replaces the darkness for free"]
       if (tags.includes("meld") && firstWith("meld")) return [0, "one (meld) talent replaces the darkness for free"]
       break
@@ -275,6 +274,11 @@ function talentRule(r, c) {
       break
     case "Mind":
       if (tags.includes("cloud")) return [2, "a (cloud) talent is +2"]
+      break
+    case "Protection":
+      // a (succor) that replaces the aegis is free; with an (aegis) talent in the effect it is added to it (+1)
+      if (tags.includes("succor") && firstWith("succor") && !c.rows.some((x) => x.kind === "talent" && rowTags(x, c.sphere).includes("aegis")))
+        return [0, "one (succor) talent replaces the aegis for free"]
       break
     case "War":
       if (tags.includes("rally")) return [2, "a rally in place of the totem is +2"]
