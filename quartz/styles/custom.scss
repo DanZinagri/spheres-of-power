@@ -74,6 +74,23 @@ body {
   opacity: 1;
 }
 
+// reader mode (the book button) hides the table of contents column and gives its width to the page
+// on desktop; below that the table of contents sits under the page, so there's nothing to hide
+:root[reader-mode="on"] .page > #quartz-body {
+  @media all and ($desktop) {
+    grid-template-columns: minmax(0, 1fr) 0;
+    column-gap: 0;
+  }
+  & .sidebar.right {
+    display: none;
+  }
+}
+.readermode {
+  @media all and not ($desktop) {
+    display: none;
+  }
+}
+
 // the right sidebar sits under the sticky bar instead of behind it
 .page > #quartz-body .sidebar.right {
   @media all and ($desktop) {
@@ -95,7 +112,7 @@ body {
   }
 }
 
-:is(h1, h2, h3, h4, h5, h6, .sop-tabs) {
+:is(h1, h2, h3, h4, h5, h6, .sop-tabs, .sop-spheres > p[id]) {
   scroll-margin-top: var(--top-bar-offset);
 }
 
