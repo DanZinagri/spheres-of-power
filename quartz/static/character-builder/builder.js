@@ -741,7 +741,7 @@ function chooseRace(id) {
 function racePicker() {
   const r = RACE_DATA.byId[state.race.ref]
   return h("div", { class: "row", style: "gap:.4rem;flex-wrap:nowrap" },
-    h("span", { style: "flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap" }, r ? h("strong", {}, r.name) : h("span", { class: "muted" }, "Custom (entered below)")),
+    r ? h("strong", { style: "flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap" }, r.name) : null,
     h("button", { class: "small primary", disabled: !RACE_DATA.loaded, onclick: openRaceSearch }, RACE_DATA.loaded ? (r ? "Change" : "Choose a race") : "Loading…"),
     r ? h("button", { class: "small", title: "Keep what's filled in, as a race of your own", onclick: () => { state.race.ref = ""; changed(true) } }, "Make custom") : null)
 }
