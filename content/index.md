@@ -189,7 +189,7 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 <div class="sop-spheres sop-advanced-magic">
 
-**Advanced Magic**
+<span class="sop-icon sop-icon-advanced" aria-hidden="true"></span>**Advanced Magic**
 
 - [[About Advanced Magic]]
 - [[Advanced Talents]]
@@ -205,7 +205,7 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 <div class="sop-spheres sop-gear">
 
-**Gear**
+<span class="sop-icon sop-icon-gear" aria-hidden="true"></span>**Gear**
 
 - [[Weapons]]
 - [[Armor]]
@@ -223,7 +223,7 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 <div class="sop-spheres sop-other-options">
 
-**Other Options**
+<span class="sop-icon sop-icon-other" aria-hidden="true"></span>**Other Options**
 
 - [[Accrual]]
 - [[Airship Rules]]
@@ -240,7 +240,7 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 <div class="sop-spheres sop-creatures">
 
-**Creatures**
+<span class="sop-icon sop-icon-creatures" aria-hidden="true"></span>**Creatures**
 
 - [[Sphere Bestiary]]
 - [[Sphere Races]]

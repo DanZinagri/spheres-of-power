@@ -356,7 +356,9 @@ HOME_SPHERE_COLUMNS = [
 # (the class headings get theirs from custom.scss by heading id: markup inside a heading would show
 # in the table of contents and change its anchor)
 HOME_ICONS = [("**Magic Spheres**", "magic"), ("**Skill Spheres**", "skill"), ("**Combat Spheres**", "combat"),
-              ("**Feat Types**", "feats"), ("**Character Options**", "options"), ("**[[Magical Items]]**", "items")]
+              ("**Feat Types**", "feats"), ("**Character Options**", "options"), ("**[[Magical Items]]**", "items"),
+              ("**Advanced Magic**", "advanced"), ("**Gear**", "gear"), ("**Other Options**", "other"),
+              ("**Creatures**", "creatures")]
 
 
 # the home page's Classes section as tabs: heading -> tab label, in tab order (prestige classes last)

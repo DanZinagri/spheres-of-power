@@ -14,6 +14,10 @@ Some icons on this site come from [game-icons.net](https://game-icons.net), used
 | Crown | Prestige Classes (home page) | [Lorc](http://lorcblog.blogspot.com) |
 | Jigsaw piece | Character Options (home page) | [Lorc](http://lorcblog.blogspot.com) |
 | Locked chest | Magical Items (home page) | [Lorc](http://lorcblog.blogspot.com) |
+| Crumbling ball | Advanced Magic (home page) | [Lorc](http://lorcblog.blogspot.com) |
+| Steeltoe boots | Gear (home page) | [Lorc](http://lorcblog.blogspot.com) |
+| Stone tablet | Other Options (home page) | [Lorc](http://lorcblog.blogspot.com) |
+| Squid | Creatures (home page) | [Lorc](http://lorcblog.blogspot.com) |
 | Achievement | Feat Types (home page) | Skoll |
 | Allied star | Base PF1e Classes (home page) | Skoll |
 
