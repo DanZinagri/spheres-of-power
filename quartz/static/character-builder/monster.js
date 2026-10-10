@@ -301,7 +301,8 @@ function addMonsterChange(name, changes, desc) {
 const naturalCount = () => state.monster.attacks.filter((a) => a.natural && a.group === 0).reduce((n, a) => n + num(a.count), 0)
 function attackBonus(a, c) {
   const abl = a.range === "ranged" || a.finesse ? c.abl.dex.mod : c.abl.str.mod
-  return c.bab + abl + c.size + num(a.enh) + (a.natural && !a.primary ? -5 : 0) + c.attackMod[a.range === "ranged" ? "ranged" : "melee"]
+  const secondary = a.natural && !a.primary ? (hasFeat(state, "Multiattack") ? -2 : -5) : 0
+  return c.bab + abl + c.size + num(a.enh) + secondary + c.attackMod[a.range === "ranged" ? "ranged" : "melee"]
 }
 function damageBonus(a, c) {
   const str = a.finesse && hasFeat(state, "Mythic Weapon Finesse") ? c.abl.dex.mod : c.abl.str.mod
@@ -995,8 +996,11 @@ function statBlockText() {
   const classLine = s.classes.filter((cl) => !cl.racial && num(cl.level) > 0).map((cl) => `${cl.name.toLowerCase()} ${num(cl.level)}`).join("/")
   const ab = (k) => (s.abilities[k] == null ? "—" : c.abl[k].total)
   const L = []
-  L.push(`${s.name || mon.base.name}    CR ${r.cr}${totalMr(mon) ? `/MR ${totalMr(mon)}` : ""}`)
-  L.push(`XP ${xpOf(r.cr).toLocaleString("en-US")}`)
+  if (HOOKS.statHeader) L.push(...HOOKS.statHeader(c))
+  else {
+    L.push(`${s.name || mon.base.name}    CR ${r.cr}${totalMr(mon) ? `/MR ${totalMr(mon)}` : ""}`)
+    L.push(`XP ${xpOf(r.cr).toLocaleString("en-US")}`)
+  }
   if (classLine) L.push(`${mon.base.name} ${classLine}`)
   L.push(`${al} ${sizeName(s.race.size)} ${type}`)
   L.push(`Init ${signed(c.init)}; Senses ${[mon.senses, `Perception ${signed(skillTotal("per", num(s.skills.per), c))}`].filter(Boolean).join("; ")}`)
@@ -1048,6 +1052,9 @@ function exportStatBlock() {
   dlg.classList.add("wide")
 }
 
-// the Monster Creator's own buttons
-document.getElementById("btnPdf")?.replaceWith(h("button", { id: "btnStat", title: "The monster as a text stat block", onclick: () => (state.monster ? exportStatBlock() : toast("Load a monster first")) }, "Stat block"))
-renderAll()
+// the Monster Creator's own buttons (the companion and familiar builders keep the PDF sheet and
+// render once their own script has loaded)
+if (!VARIANT) {
+  document.getElementById("btnPdf")?.replaceWith(h("button", { id: "btnStat", title: "The monster as a text stat block", onclick: () => (state.monster ? exportStatBlock() : toast("Load a monster first")) }, "Stat block"))
+  renderAll()
+}

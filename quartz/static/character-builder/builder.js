@@ -7,7 +7,11 @@
 // window.BUILDER_MODE and loads monster.js, which fills in BUILDER_HOOKS)
 const MODE = (typeof window !== "undefined" && window.BUILDER_MODE) || "character"
 const HOOKS = (typeof window !== "undefined" && (window.BUILDER_HOOKS ??= {})) || {}
-const STORAGE_KEY = MODE === "monster" ? "sop-monster-creator" : "sop-character-builder"
+// A page built on one of the two (the companion, familiar and cohort builders) sets
+// window.BUILDER_VARIANT and its own save slot, home tab label and default name.
+const VARIANT = (typeof window !== "undefined" && window.BUILDER_VARIANT) || ""
+const CHARACTER_KEY = "sop-character-builder"
+const STORAGE_KEY = (typeof window !== "undefined" && window.BUILDER_STORAGE_KEY) || (MODE === "monster" ? "sop-monster-creator" : CHARACTER_KEY)
 const FLAG_SCOPE = "sop-builder"
 
 const ABILITIES = { str: "Strength", dex: "Dexterity", con: "Constitution", int: "Intelligence", wis: "Wisdom", cha: "Charisma" }
@@ -119,7 +123,7 @@ function normalize(s) {
 }
 
 let state = load()
-let tab = MODE === "monster" ? "monster" : "details"
+let tab = MODE === "monster" ? "monster" : HOOKS.homeTab ? HOOKS.homeTab[0] : "details"
 
 function load() {
   try {
@@ -755,10 +759,11 @@ function renderHeader() {
 }
 
 function visibleTabs() {
-  const tabs = MODE === "monster" ? [["monster", "Monster"], ...TABS.filter(([id]) => id !== "race")] : TABS
+  const tabs = MODE === "monster" ? [["monster", window.BUILDER_HOME_LABEL || "Monster"], ...TABS.filter(([id]) => id !== "race")]
+    : HOOKS.homeTab ? [HOOKS.homeTab, ...TABS] : TABS
   return tabs.filter(([id]) => id !== "spheres" || state.spheresModule)
 }
-const HOME_TAB = MODE === "monster" ? "monster" : "details"
+const HOME_TAB = MODE === "monster" ? "monster" : HOOKS.homeTab ? HOOKS.homeTab[0] : "details"
 function renderTabs() {
   if (!visibleTabs().some(([id]) => id === tab)) tab = HOME_TAB
   const counts = { features: state.features.length, buffs: state.buffs.length, spheres: state.talents.length, spells: state.spells.length, gear: state.gear.length }
@@ -3031,7 +3036,7 @@ function buildActor() {
   }
   if (Object.keys(sphereFlags).length) flags.pf1spheres = sphereFlags
 
-  const name = s.name || (MODE === "monster" ? "New Monster" : "New Character")
+  const name = s.name || window.BUILDER_DEFAULT_NAME || (MODE === "monster" ? "New Monster" : "New Character")
   const actor = {
     name,
     type: MODE === "monster" ? "npc" : "character",
@@ -3249,6 +3254,6 @@ try {
 window.addEventListener("storage", (e) => e.key === "theme" && applyTheme(e.newValue))
 
 // the Monster Creator's own script (monster.js) adds its tab, then renders
-if (MODE !== "monster") renderAll()
+if (MODE !== "monster" && !VARIANT) renderAll()
 loadClassData()
 loadRaceData()

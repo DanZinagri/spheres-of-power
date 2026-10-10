@@ -1,0 +1,1655 @@
+{
+ "source": "Archives of Nethys (www.aonprd.com)",
+ "familiars": [
+  {
+   "name": "Archaeopteryx",
+   "monster": "Archaeopteryx",
+   "special": "Master gains a +2 bonus on Reflex saves",
+   "source": "Bestiary 4 pg. 96",
+   "monsterId": "monster/familiar-archaeopteryx",
+   "file": "monsters/m30.json"
+  },
+  {
+   "name": "Arctic fox",
+   "monster": "Fox",
+   "special": "Master gains a +2 bonus on Reflex saves (use fox statistics, +4 Stealth to blend into snow)",
+   "source": "Ultimate Wilderness pg. 190, Reign of Winter Player's Guide pg. 10",
+   "monsterId": "monster/familiar-fox",
+   "file": "monsters/m37.json"
+  },
+  {
+   "name": "Arctic hare",
+   "monster": "Arctic Hare",
+   "special": "Master gains a +4 bonus on initiative checks",
+   "source": "Ultimate Wilderness pg. 190, Reign of Winter Player's Guide pg. 10",
+   "monsterId": "monster/familiar-arctic-hare",
+   "file": "monsters/m37.json"
+  },
+  {
+   "name": "Arctic tern",
+   "monster": "Arctic Tern",
+   "special": "Master gains a +3 bonus on Fly checks",
+   "source": "Ultimate Wilderness pg. 190, Reign of Winter Player's Guide pg. 10",
+   "monsterId": "monster/familiar-arctic-tern",
+   "file": "monsters/m22.json"
+  },
+  {
+   "name": "Armadillo",
+   "monster": "Armadillo",
+   "special": "Master gains a +1 natural armor bonus to AC",
+   "source": "Ultimate Wilderness pg. 190, Animal Archive pg. 10",
+   "monsterId": "monster/familiar-armadillo",
+   "file": "monsters/m47.json"
+  },
+  {
+   "name": "Bat",
+   "monster": "Bat",
+   "special": "Master gains a +3 bonus on Fly checks",
+   "source": "Animal Archive pg. 10, PRPG Core Rulebook pg. 82",
+   "monsterId": "monster/familiar-bat",
+   "file": "monsters/m44.json"
+  },
+  {
+   "name": "Butterfly",
+   "monster": "Butterfly/Moth",
+   "special": "Master gains a +3 bonus on Perform checks",
+   "source": "Ultimate Wilderness pg. 190"
+  },
+  {
+   "name": "Cat",
+   "monster": "Cat",
+   "special": "Master gains a +3 bonus on Stealth checks",
+   "source": "Animal Archive pg. 10, PRPG Core Rulebook pg. 82",
+   "monsterId": "monster/familiar-cat",
+   "file": "monsters/m43.json"
+  },
+  {
+   "name": "Cat, margay",
+   "monster": "Margay Cat",
+   "special": "Master gains a +3 bonus on Bluff checks",
+   "source": "Ultimate Wilderness pg. 190",
+   "monsterId": "monster/familiar-margay-cat",
+   "file": "monsters/m41.json"
+  },
+  {
+   "name": "Centipede, house",
+   "monster": "House Centipede",
+   "special": "Master gains a +3 bonus on Stealth checks",
+   "source": "Animal Archive pg. 10, Ultimate Magic pg. 1",
+   "monsterId": "monster/familiar-house-centipede",
+   "file": "monsters/m31.json"
+  },
+  {
+   "name": "Chicken",
+   "monster": "Chicken",
+   "special": "Master gains a +3 hit points",
+   "source": "Ultimate Wilderness pg. 190, Bestiary 5 pg. 112, Familiar Folio pg. 0",
+   "monsterId": "monster/familiar-chicken",
+   "file": "monsters/m40.json"
+  },
+  {
+   "name": "Cockroach",
+   "monster": "Cockroach",
+   "special": "Master gains a +3 hit points",
+   "source": "Ultimate Wilderness pg. 190",
+   "monsterId": "monster/familiar-cockroach",
+   "file": "monsters/m09.json"
+  },
+  {
+   "name": "Compsognathus dinosaur",
+   "monster": "Compsognathus",
+   "special": "Master gains a +4 bonus on initiative checks",
+   "source": "Animal Archive pg. 10, Bestiary 2 pg. 90",
+   "monsterId": "monster/dinosaur-compsognathus",
+   "file": "monsters/m28.json"
+  },
+  {
+   "name": "Crab, king",
+   "monster": "King Crab",
+   "special": "Master gains a +2 bonus on combat maneuver checks to start and maintain a grapple",
+   "source": "Animal Archive pg. 10, Ultimate Magic pg. 1",
+   "monsterId": "monster/familiar-king-crab",
+   "file": "monsters/m42.json"
+  },
+  {
+   "name": "Creeper ivy",
+   "monster": "Creeper Ivy",
+   "special": "Master gains a +3 bonus on Climb checks",
+   "source": "Ultimate Wilderness pg. 190",
+   "monsterId": "monster/familiar-creeper-ivy",
+   "file": "monsters/m29.json"
+  },
+  {
+   "name": "Dodo",
+   "monster": "Dodo",
+   "special": "Master gains a +4 bonus on initiative checks",
+   "source": "Ultimate Wilderness pg. 190, Animal Archive pg. 10, Bestiary 4 pg. 96",
+   "monsterId": "monster/familiar-dodo",
+   "file": "monsters/m47.json"
+  },
+  {
+   "name": "Dolphin, popoto",
+   "monster": "Popoto Dolphin",
+   "special": "Master gains a +3 bonus on Swim checks",
+   "source": "Ultimate Wilderness pg. 190, Familiar Folio pg. 0",
+   "monsterId": "monster/familiar-popoto-dolphin",
+   "file": "monsters/m41.json"
+  },
+  {
+   "name": "Donkey rat",
+   "monster": "Donkey Rat",
+   "special": "Master gains a +2 bonus on Fortitude saves",
+   "source": "Animal Archive pg. 10, Ultimate Magic pg. 1",
+   "monsterId": "monster/familiar-donkey-rat",
+   "file": "monsters/m32.json"
+  },
+  {
+   "name": "Dwarf caiman",
+   "monster": "Dwarf Caiman",
+   "special": "Master gains a +3 bonus on Stealth checks",
+   "source": "Ultimate Wilderness pg. 190, Animal Archive pg. 10",
+   "monsterId": "monster/familiar-dwarf-caiman",
+   "file": "monsters/m43.json"
+  },
+  {
+   "name": "Dweomer cap",
+   "monster": "Dweomer Cap",
+   "special": "Master gains a +3 bonus on Spellcraft checks to identify magic items",
+   "source": "Ultimate Wilderness pg. 190",
+   "monsterId": "monster/familiar-dweomer-cap",
+   "file": "monsters/m24.json"
+  },
+  {
+   "name": "Ermine",
+   "monster": "Weasel",
+   "special": "Master gains a +2 bonus on Reflex saves (use weasal statistics, +4 Stealth to blend into snow)",
+   "source": "Ultimate Wilderness pg. 190, Reign of Winter Player's Guide pg. 10",
+   "monsterId": "monster/familiar-weasel",
+   "file": "monsters/m12.json"
+  },
+  {
+   "name": "Fire salamander",
+   "monster": "Fire Salamander",
+   "special": "Master gains a +3 bonus on Escape Artist checks",
+   "source": "Ultimate Wilderness pg. 190",
+   "monsterId": "monster/familiar-fire-salamander",
+   "file": "monsters/m02.json"
+  },
+  {
+   "name": "Flowering lattice",
+   "monster": "Flowering Lattice",
+   "special": "Master gains a +3 bonus on Diplomacy checks",
+   "source": "Ultimate Wilderness pg. 190",
+   "monsterId": "monster/familiar-flowering-lattice",
+   "file": "monsters/m08.json"
+  },
+  {
+   "name": "Flying fox",
+   "monster": "Flying Fox",
+   "special": "Master gains a +2 bonus on Fortitude saves",
+   "source": "Bestiary 5 pg. 112",
+   "monsterId": "monster/familiar-flying-fox",
+   "file": "monsters/m26.json"
+  },
+  {
+   "name": "Flying squirrel",
+   "monster": "Flying Squirrel",
+   "special": "Master gains a +3 bonus on Fly checks",
+   "source": "Animal Archive pg. 10, Bestiary 3 pg. 112",
+   "monsterId": "monster/familiar-flying-squirrel",
+   "file": "monsters/m10.json"
+  },
+  {
+   "name": "Fox",
+   "monster": "Fox",
+   "special": "Master gains a +2 bonus on Reflex saves",
+   "source": "Animal Archive pg. 10, Bestiary 3 pg. 112, Ultimate Magic pg. 1",
+   "monsterId": "monster/familiar-fox",
+   "file": "monsters/m37.json"
+  },
+  {
+   "name": "Giant flea",
+   "monster": "Giant Flea",
+   "special": "Master gains a +3 bonus on Fortitude saves against disease (witch only)",
+   "source": "Bestiary 4 pg. 99",
+   "monsterId": "monster/flea-giant-flea",
+   "file": "monsters/m03.json"
+  },
+  {
+   "name": "Giant isopod",
+   "monster": "Giant Isopod",
+   "special": "Master gains a +1 natural armor bonus to AC",
+   "source": "Animal Archive pg. 10",
+   "monsterId": "monster/familiar-giant-isopod",
+   "file": "monsters/m30.json"
+  },
+  {
+   "name": "Goat",
+   "monster": "Goat",
+   "special": "Master gains a +3 bonus on Survival checks",
+   "source": "Animal Archive pg. 10, Ultimate Magic pg. 1, Bestiary 3 pg. 112",
+   "monsterId": "monster/familiar-goat",
+   "file": "monsters/m08.json"
+  },
+  {
+   "name": "Hawk",
+   "monster": "Hawk",
+   "special": "Master gains a +3 bonus on sight-based and opposed Perception checks in bright light",
+   "source": "Animal Archive pg. 10, PRPG Core Rulebook pg. 82",
+   "monsterId": "monster/familiar-hawk",
+   "file": "monsters/m06.json"
+  },
+  {
+   "name": "Hedgehog",
+   "monster": "Hedgehog",
+   "special": "Master gains a +2 bonus on Will saves",
+   "source": "Animal Archive pg. 10, Ultimate Magic pg. 1",
+   "monsterId": "monster/familiar-hedgehog",
+   "file": "monsters/m24.json"
+  },
+  {
+   "name": "Horned lizard",
+   "monster": "Horned Lizard",
+   "special": "Master gains a +2 bonus on Fortitude saves",
+   "source": "Ultimate Wilderness pg. 190",
+   "monsterId": "monster/familiar-horned-lizard",
+   "file": "monsters/m13.json"
+  },
+  {
+   "name": "Ioun wyrd",
+   "monster": "Ioun Wyrd",
+   "special": "Master gains a +1 natural armor bonus to AC",
+   "source": "Ultimate Wilderness pg. 190, Familiar Folio pg. 0",
+   "monsterId": "monster/familiar-ioun-wyrd",
+   "file": "monsters/m09.json"
+  },
+  {
+   "name": "Isopod, giant",
+   "monster": "Giant Isopod",
+   "special": "Master gains a +2 bonus on Reflex saves",
+   "source": "Ultimate Wilderness pg. 190",
+   "monsterId": "monster/familiar-giant-isopod",
+   "file": "monsters/m30.json"
+  },
+  {
+   "name": "Jerboa",
+   "monster": "Jerboa",
+   "special": "Master gains a +4 bonus on initiative checks",
+   "source": "Ultimate Wilderness pg. 190",
+   "monsterId": "monster/familiar-jerboa",
+   "file": "monsters/m08.json"
+  },
+  {
+   "name": "Kakapo",
+   "monster": "Kakapo",
+   "special": "Master gains a +3 bonus on Climb checks",
+   "source": "Ultimate Wilderness pg. 190, Familiar Folio pg. 0",
+   "monsterId": "monster/familiar-kakapo",
+   "file": "monsters/m24.json"
+  },
+  {
+   "name": "Keulia",
+   "monster": "Keulia",
+   "special": "Master gains a +3 bonus to Disguise checks",
+   "source": "Druma, Profit and Prophecy pg. 62",
+   "monsterId": "monster/keulia",
+   "file": "monsters/m37.json"
+  },
+  {
+   "name": "Koala",
+   "monster": "Koala",
+   "special": "Master gains a +3 bonus on Climb checks",
+   "source": "Ultimate Wilderness pg. 190, Familiar Folio pg. 0",
+   "monsterId": "monster/familiar-koala",
+   "file": "monsters/m25.json"
+  },
+  {
+   "name": "Lamprey",
+   "monster": "Lamprey",
+   "special": "Master gains a +3 hit points",
+   "source": "Ultimate Wilderness pg. 190",
+   "monsterId": "monster/familiar-lamprey",
+   "file": "monsters/m00.json"
+  },
+  {
+   "name": "Lemming",
+   "monster": "Lemming",
+   "special": "Master gains a +2 bonus on Fortitude saves",
+   "source": "Ultimate Wilderness pg. 190, Reign of Winter Player's Guide pg. 10",
+   "monsterId": "monster/familiar-lemming",
+   "file": "monsters/m13.json"
+  },
+  {
+   "name": "Leopard slug",
+   "monster": "Leopard Slug",
+   "special": "Master gains a +3 bonus on Climb checks",
+   "source": "Ultimate Wilderness pg. 190, Familiar Folio pg. 0"
+  },
+  {
+   "name": "Lich newt",
+   "monster": "Lich Newt",
+   "special": "Master gains a +2 bonus on Fortitude saves against disease and poison",
+   "source": "Pathfinder #115: Trail of the Hunted pg. 82",
+   "monsterId": "monster/lich-newt",
+   "file": "monsters/m20.json"
+  },
+  {
+   "name": "Lizard",
+   "monster": "Lizard",
+   "special": "Master gains a +3 bonus on Climb checks",
+   "source": "Animal Archive pg. 10, PRPG Core Rulebook pg. 82",
+   "monsterId": "monster/familiar-lizard",
+   "file": "monsters/m01.json"
+  },
+  {
+   "name": "Marine iguana",
+   "monster": "Dwarf Caiman",
+   "special": "Master gains a +3 bonus on Swim checks (use dwarf caiman stats for marine iguanas)",
+   "source": "Ultimate Wilderness pg. 190, Animal Archive pg. 10",
+   "monsterId": "monster/familiar-dwarf-caiman",
+   "file": "monsters/m43.json"
+  },
+  {
+   "name": "Meerkat",
+   "monster": "Meerkat",
+   "special": "Master gains a +3 bonus on Escape Artist checks",
+   "source": "Ultimate Wilderness pg. 190",
+   "monsterId": "monster/familiar-meerkat",
+   "file": "monsters/m46.json"
+  },
+  {
+   "name": "Mole",
+   "monster": "Mole",
+   "special": "Master gains a +3 bonus on smell-, taste-, and touch-based Perception checks",
+   "source": "Ultimate Wilderness pg. 190, Familiar Folio pg. 0",
+   "monsterId": "monster/familiar-mole",
+   "file": "monsters/m19.json"
+  },
+  {
+   "name": "Mongoose",
+   "monster": "Weasel",
+   "special": "Master gains a +2 bonus on Fortitude saves (use weasel stats for mongooses)",
+   "source": "Ultimate Wilderness pg. 190, Animal Archive pg. 10",
+   "monsterId": "monster/familiar-weasel",
+   "file": "monsters/m12.json"
+  },
+  {
+   "name": "Monkey",
+   "monster": "Monkey",
+   "special": "Master gains a +3 bonus on Acrobatics checks",
+   "source": "Animal Archive pg. 10, PRPG Core Rulebook pg. 82",
+   "monsterId": "monster/familiar-monkey",
+   "file": "monsters/m21.json"
+  },
+  {
+   "name": "Moth",
+   "monster": "Butterfly/Moth",
+   "special": "Master gains a +3 bonus on Survival checks",
+   "source": "Ultimate Wilderness pg. 190"
+  },
+  {
+   "name": "Octopus, blue-ringed",
+   "monster": "Blue-Ringed Octopus",
+   "special": "Master gains a +3 bonus on Swim checks",
+   "source": "Animal Archive pg. 10, Ultimate Magic pg. 1",
+   "monsterId": "monster/familiar-blue-ringed-octopus",
+   "file": "monsters/m25.json"
+  },
+  {
+   "name": "Osprey",
+   "monster": "Hawk",
+   "special": "Master gains a +3 bonus on Survival checks (use hawk stats for ospreys)",
+   "source": "Ultimate Wilderness pg. 190, Animal Archive pg. 10",
+   "monsterId": "monster/familiar-hawk",
+   "file": "monsters/m06.json"
+  },
+  {
+   "name": "Otter",
+   "monster": "Otter",
+   "special": "Master gains a +3 bonus on Swim checks",
+   "source": "Animal Archive pg. 10, Bestiary 3 pg. 112",
+   "monsterId": "monster/familiar-otter",
+   "file": "monsters/m43.json"
+  },
+  {
+   "name": "Owl",
+   "monster": "Owl",
+   "special": "Master gains a +3 bonus on sight-based and opposed Perception checks in shadows or darkness",
+   "source": "Animal Archive pg. 10, PRPG Core Rulebook pg. 82",
+   "monsterId": "monster/familiar-owl",
+   "file": "monsters/m30.json"
+  },
+  {
+   "name": "Parrot",
+   "monster": "Raven",
+   "special": "Master gains a +3 bonus on Linguistics checks (use raven stats for parrots)",
+   "source": "Ultimate Wilderness pg. 190, Animal Archive pg. 10",
+   "monsterId": "monster/familiar-raven",
+   "file": "monsters/m04.json"
+  },
+  {
+   "name": "Peacock",
+   "monster": "Peacock",
+   "special": "Master gains a +3 bonus on Intimidate checks",
+   "source": "Familiar Folio pg. 0",
+   "monsterId": "monster/familiar-peacock",
+   "file": "monsters/m01.json"
+  },
+  {
+   "name": "Peafowl",
+   "monster": "Peafowl",
+   "special": "Master gains a +3 bonus on Intimidate checks",
+   "source": "Ultimate Wilderness pg. 190",
+   "monsterId": "monster/familiar-peafowl",
+   "file": "monsters/m05.json"
+  },
+  {
+   "name": "Penguin",
+   "monster": "Penguin",
+   "special": "Master gains a +3 bonus on Swim checks",
+   "source": "Ultimate Wilderness pg. 190, Familiar Folio pg. 0, Bestiary 5 pg. 112",
+   "monsterId": "monster/familiar-penguin",
+   "file": "monsters/m36.json"
+  },
+  {
+   "name": "Petrifern",
+   "monster": "Petrifern",
+   "special": "Master gains a +1 natural armor bonus to AC",
+   "source": "Ultimate Wilderness pg. 190, Familiar Folio pg. 0",
+   "monsterId": "monster/familiar-petrifern",
+   "file": "monsters/m38.json"
+  },
+  {
+   "name": "Petromin",
+   "monster": "Petromin",
+   "special": "Master gains a +3 bonus on Stealth checks",
+   "source": "Pathfinder #85: Fires of Creation pg. 82",
+   "monsterId": "monster/petromin",
+   "file": "monsters/m45.json"
+  },
+  {
+   "name": "Pig",
+   "monster": "Pig",
+   "special": "Master gains a +3 bonus on Diplomacy checks",
+   "source": "Animal Archive pg. 10, Ultimate Magic pg. 1, Bestiary 3 pg. 112",
+   "monsterId": "monster/familiar-pig",
+   "file": "monsters/m04.json"
+  },
+  {
+   "name": "Platypus",
+   "monster": "Platypus",
+   "special": "Master gains a +3 bonus on Swim checks",
+   "source": "Ultimate Wilderness pg. 190, Animal Archive pg. 10, Bestiary 4 pg. 96",
+   "monsterId": "monster/familiar-platypus",
+   "file": "monsters/m13.json"
+  },
+  {
+   "name": "Ptarmigan",
+   "monster": "Ptarmigan",
+   "special": "Master gains a +3 bonus on Stealth checks",
+   "source": "Ultimate Wilderness pg. 190, Reign of Winter Player's Guide pg. 10",
+   "monsterId": "monster/familiar-ptarmigan",
+   "file": "monsters/m32.json"
+  },
+  {
+   "name": "Pufferfish",
+   "monster": "Pufferfish",
+   "special": "Master gains a +2 bonus on Fortitude saves",
+   "source": "Ultimate Wilderness pg. 190, Familiar Folio pg. 0",
+   "monsterId": "monster/familiar-pufferfish",
+   "file": "monsters/m08.json"
+  },
+  {
+   "name": "Puffin",
+   "monster": "Puffin",
+   "special": "Master gains a +2 bonus on Stealth checks",
+   "source": "Ultimate Wilderness pg. 190, Reign of Winter Player's Guide pg. 10",
+   "monsterId": "monster/familiar-puffin",
+   "file": "monsters/m04.json"
+  },
+  {
+   "name": "Rabbit",
+   "monster": "Rabbit",
+   "special": "Master gains a +4 bonus on initiative checks",
+   "source": "Ultimate Wilderness pg. 190, Animal Archive pg. 30",
+   "monsterId": "monster/familiar-rabbit",
+   "file": "monsters/m28.json"
+  },
+  {
+   "name": "Raccoon",
+   "monster": "Raccoon",
+   "special": "Master gains a +3 bonus on Sleight of Hand checks",
+   "source": "Animal Archive pg. 10, Bestiary 3 pg. 112",
+   "monsterId": "monster/familiar-raccoon",
+   "file": "monsters/m29.json"
+  },
+  {
+   "name": "Rat",
+   "monster": "Rat",
+   "special": "Master gains a +2 bonus on Fortitude saves",
+   "source": "Animal Archive pg. 10, PRPG Core Rulebook pg. 82",
+   "monsterId": "monster/familiar-rat",
+   "file": "monsters/m28.json"
+  },
+  {
+   "name": "Raven*",
+   "monster": "Raven",
+   "special": "Master gains a +3 bonus on Appraise checks",
+   "source": "Animal Archive pg. 10, PRPG Core Rulebook pg. 82",
+   "monsterId": "monster/familiar-raven",
+   "file": "monsters/m04.json"
+  },
+  {
+   "name": "Ravenous tumbleweed",
+   "monster": "Ravenous Tumbleweed",
+   "special": "Master gains a 10-foot bonus to speed when using the charge, run, or withdraw actions",
+   "source": "Ultimate Wilderness pg. 190",
+   "monsterId": "monster/familiar-ravenous-tumbleweed",
+   "file": "monsters/m36.json"
+  },
+  {
+   "name": "Razor fern",
+   "monster": "Razor Fern",
+   "special": "Master gains a +3 bonus on Stealth checks",
+   "source": "Ultimate Wilderness pg. 190",
+   "monsterId": "monster/familiar-razor-fern",
+   "file": "monsters/m22.json"
+  },
+  {
+   "name": "Red panda",
+   "monster": "Red Panda",
+   "special": "Master gains a +3 bonus on Acrobatics checks",
+   "source": "Bestiary 5 pg. 112",
+   "monsterId": "monster/familiar-red-panda",
+   "file": "monsters/m01.json"
+  },
+  {
+   "name": "Rhamphorhynchus",
+   "monster": "Rhamphorhynchus",
+   "special": "Master gains a +4 bonus on initiative checks",
+   "source": "Ultimate Wilderness pg. 190, Pathfinder #37: Souls for Smuggler's Shiv pg. 83, Animal Archive pg. 10",
+   "monsterId": "monster/familiar-rhamphorhynchus",
+   "file": "monsters/m20.json"
+  },
+  {
+   "name": "Rock Tuatara",
+   "monster": "Rock Tuatara",
+   "special": "Master gains a +3 bonus on Stealth checks in rocky environments",
+   "source": "Pathfinder #118: Siege of Stone pg. 83",
+   "monsterId": "monster/rock-tuatara",
+   "file": "monsters/m06.json"
+  },
+  {
+   "name": "Sawleg locust",
+   "monster": "Sawleg Locust",
+   "special": "Master gains a +3 bonus on Acrobatics checks",
+   "source": "Ultimate Wilderness pg. 190",
+   "monsterId": "monster/familiar-sawleg-locust",
+   "file": "monsters/m42.json"
+  },
+  {
+   "name": "Scorpion, greensting",
+   "monster": "Greensting Scorpion",
+   "special": "Master gains a +4 bonus on initiative checks (if familiar is within 1 mile)",
+   "source": "Bestiary 4 pg. 232, Animal Archive pg. 10, Ultimate Magic pg. 1",
+   "monsterId": "monster/scorpion-greensting-scorpion",
+   "file": "monsters/m46.json"
+  },
+  {
+   "name": "Sea krait",
+   "monster": "Viper",
+   "special": "Master gains a +2 bonus on Fortitude saves (use viper stats for sea kraits)",
+   "source": "Ultimate Wilderness pg. 190, Animal Archive pg. 10",
+   "monsterId": "monster/familiar-viper",
+   "file": "monsters/m06.json"
+  },
+  {
+   "name": "Seal",
+   "monster": "Seal",
+   "special": "Master gains a +3 bonus on Swim checks",
+   "source": "Ultimate Wilderness pg. 190, Bestiary 5 pg. 112, Animal Archive pg. 10",
+   "monsterId": "monster/familiar-seal",
+   "file": "monsters/m00.json"
+  },
+  {
+   "name": "Shimmerwing dragonfly",
+   "monster": "Shimmerwing Dragonfly",
+   "special": "Master gains a +3 bonus on Fly checks",
+   "source": "Ultimate Wilderness pg. 190",
+   "monsterId": "monster/familiar-shimmerwing-dragonfly",
+   "file": "monsters/m39.json"
+  },
+  {
+   "name": "Skunk",
+   "monster": "Skunk",
+   "special": "Master gains a +2 bonus on Fortitude saves",
+   "source": "Ultimate Wilderness pg. 190, Animal Archive pg. 10",
+   "monsterId": "monster/skunk",
+   "file": "monsters/m06.json"
+  },
+  {
+   "name": "Sloth",
+   "monster": "Sloth",
+   "special": "Master gains a +3 bonus on Climb checks",
+   "source": "Bestiary 4 pg. 96",
+   "monsterId": "monster/familiar-sloth",
+   "file": "monsters/m03.json"
+  },
+  {
+   "name": "Snail kite",
+   "monster": "Hawk",
+   "special": "Master gains a +3 bonus on Fly checks (use hawk stats for snail kites)",
+   "source": "Ultimate Wilderness pg. 190, Animal Archive pg. 10",
+   "monsterId": "monster/familiar-hawk",
+   "file": "monsters/m06.json"
+  },
+  {
+   "name": "Snapping turtle",
+   "monster": "Snapping Turtle",
+   "special": "Master gains a +2 bonus on Fortitude saves",
+   "source": "Animal Archive pg. 10, Bestiary 2 pg. 273",
+   "monsterId": "monster/turtle-snapping-turtle",
+   "file": "monsters/m16.json"
+  },
+  {
+   "name": "Snark",
+   "monster": "Snark",
+   "special": "Master gains a +3 bonus on Stealth checks",
+   "source": "Pathfinder #119: Prisoners of the Blight pg. 83",
+   "monsterId": "monster/snark",
+   "file": "monsters/m37.json"
+  },
+  {
+   "name": "Snowy owl",
+   "monster": "Owl",
+   "special": "Master gains a +3 bonus on sight-based and opposed Perception checks when in shadows or darkness (use owl statistics, +4 Stealth to blend into snow)",
+   "source": "Reign of Winter Player's Guide pg. 10",
+   "monsterId": "monster/familiar-owl",
+   "file": "monsters/m30.json"
+  },
+  {
+   "name": "Spider, scarlet",
+   "monster": "Scarlet Spider",
+   "special": "Master gains a +3 bonus on Climb checks (if familiar is within 1 mile)",
+   "source": "Bestiary 4 pg. 252, Animal Archive pg. 10, Ultimate Magic pg. 1",
+   "monsterId": "monster/familiar-scarlet-spider",
+   "file": "monsters/m02.json"
+  },
+  {
+   "name": "Spiny starfish",
+   "monster": "Spiny Starfish",
+   "special": "Master treats his effective character level as 4 higher to recover hit points by resting",
+   "source": "Ultimate Wilderness pg. 190",
+   "monsterId": "monster/familiar-spiny-starfish",
+   "file": "monsters/m18.json"
+  },
+  {
+   "name": "Squirrel",
+   "monster": "Squirrel",
+   "special": "Master gains a +3 bonus on Escape Artist checks",
+   "source": "Ultimate Wilderness pg. 190, Animal Archive pg. 10",
+   "monsterId": "monster/familiar-squirrel",
+   "file": "monsters/m21.json"
+  },
+  {
+   "name": "Suture vine",
+   "monster": "Suture Vine",
+   "special": "Master gains a +3 bonus on Heal checks",
+   "source": "Ultimate Wilderness pg. 190",
+   "monsterId": "monster/familiar-suture-vine",
+   "file": "monsters/m00.json"
+  },
+  {
+   "name": "Tardigrade, giant",
+   "monster": "Giant Tardigrade",
+   "special": "Master gains a +2 bonus on Fortitude saves",
+   "source": "Ultimate Wilderness pg. 190",
+   "monsterId": "monster/familiar-giant-tardigrade",
+   "file": "monsters/m06.json"
+  },
+  {
+   "name": "Tarsier",
+   "monster": "Tarsier",
+   "special": "Master gains a +3 bonus on Acrobatics checks",
+   "source": "Ultimate Wilderness pg. 190",
+   "monsterId": "monster/familiar-tarsier",
+   "file": "monsters/m13.json"
+  },
+  {
+   "name": "Tauhoti",
+   "monster": "Tauhoti",
+   "special": "Master gains a +3 bonus on one Profession check of her choice, selected when gaining the familiar",
+   "source": "Druma, Profit and Prophecy pg. 63",
+   "monsterId": "monster/tauhoti",
+   "file": "monsters/m38.json"
+  },
+  {
+   "name": "Thrush*",
+   "monster": "Thrush",
+   "special": "Master gains a +3 bonus on Diplomacy checks",
+   "source": "Animal Archive pg. 10, Ultimate Magic pg. 1",
+   "monsterId": "monster/familiar-thrush",
+   "file": "monsters/m14.json"
+  },
+  {
+   "name": "Toad",
+   "monster": "Toad",
+   "special": "Master gains 3 hit points",
+   "source": "Animal Archive pg. 10, PRPG Core Rulebook pg. 82",
+   "monsterId": "monster/familiar-toad",
+   "file": "monsters/m29.json"
+  },
+  {
+   "name": "Torble",
+   "monster": "Torble",
+   "special": "Master gains a +2 bonus on Craft (alchemy) checks",
+   "source": "Pathfinder #25: The Bastards of Erebus pg. 85",
+   "monsterId": "monster/torble",
+   "file": "monsters/m21.json"
+  },
+  {
+   "name": "Toucan",
+   "monster": "Raven",
+   "special": "Master gains a +3 bonus on Diplomacy checks (use raven stats for toucans [cannot speak])",
+   "source": "Ultimate Wilderness pg. 190, Animal Archive pg. 10",
+   "monsterId": "monster/familiar-raven",
+   "file": "monsters/m04.json"
+  },
+  {
+   "name": "Trilobite",
+   "monster": "Trilobite",
+   "special": "Master gains a +1 natural armor bonus to AC",
+   "source": "Bestiary 5 pg. 112",
+   "monsterId": "monster/familiar-trilobite",
+   "file": "monsters/m16.json"
+  },
+  {
+   "name": "Tuatara",
+   "monster": "Tuatara",
+   "special": "Master gains a +3 bonus on Survival checks",
+   "source": "Bestiary 4 pg. 96",
+   "monsterId": "monster/familiar-tuatara",
+   "file": "monsters/m27.json"
+  },
+  {
+   "name": "Tullimonstrum",
+   "monster": "Tullimonstrum",
+   "special": "Master gains a +3 bonus on Perception checks",
+   "source": "Pathfinder #124: City in the Deep pg. 87",
+   "monsterId": "monster/tullimonstrum",
+   "file": "monsters/m27.json"
+  },
+  {
+   "name": "Turtle",
+   "monster": "Turtle",
+   "special": "Master gains a +1 natural armor bonus to AC",
+   "source": "Animal Archive pg. 10, Ultimate Magic pg. 1",
+   "monsterId": "monster/turtle",
+   "file": "monsters/m36.json"
+  },
+  {
+   "name": "Vampire squid",
+   "monster": "Vampire Squid",
+   "special": "Master gains a +2 bonus on Reflex saves",
+   "source": "Ultimate Wilderness pg. 190",
+   "monsterId": "monster/familiar-vampire-squid",
+   "file": "monsters/m04.json"
+  },
+  {
+   "name": "Viper",
+   "monster": "Viper",
+   "special": "Master gains a +3 bonus on Bluff checks",
+   "source": "Animal Archive pg. 10, PRPG Core Rulebook pg. 82",
+   "monsterId": "monster/familiar-viper",
+   "file": "monsters/m06.json"
+  },
+  {
+   "name": "Wallaby",
+   "monster": "Wallaby",
+   "special": "Master gains a +3 bonus on Acrobatics checks",
+   "source": "Ultimate Wilderness pg. 190, Familiar Folio pg. 0",
+   "monsterId": "monster/familiar-wallaby",
+   "file": "monsters/m13.json"
+  },
+  {
+   "name": "Weasel",
+   "monster": "Weasel",
+   "special": "Master gains a +2 bonus on Reflex saves",
+   "source": "Animal Archive pg. 10, PRPG Core Rulebook pg. 82",
+   "monsterId": "monster/familiar-weasel",
+   "file": "monsters/m12.json"
+  }
+ ],
+ "improved": [
+  {
+   "name": "Aether wysp",
+   "monster": "Aether Wysp",
+   "alignment": "",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Bestiary 5 pg. 282",
+   "monsterId": "monster/wysp-aether-wysp",
+   "file": "monsters/m46.json"
+  },
+  {
+   "name": "Air wysp",
+   "monster": "Air Wysp",
+   "alignment": "",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Bestiary 5 pg. 282",
+   "monsterId": "monster/wysp-air-wysp",
+   "file": "monsters/m43.json"
+  },
+  {
+   "name": "Almiraj",
+   "monster": "Almiraj",
+   "alignment": "Any",
+   "level": 5,
+   "levelText": "5th",
+   "source": "Bestiary 4 pg. 8",
+   "monsterId": "monster/almiraj",
+   "file": "monsters/m26.json"
+  },
+  {
+   "name": "Arbiter inevitable",
+   "monster": "Arbiter",
+   "alignment": "Lawful neutral",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Ultimate Magic pg. 1, Bestiary 2 pg. 162",
+   "monsterId": "monster/inevitable-arbiter",
+   "file": "monsters/m44.json"
+  },
+  {
+   "name": "Augur kyton",
+   "monster": "Augur",
+   "alignment": "Lawful evil",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Bestiary 3 pg. 171",
+   "monsterId": "monster/kyton-augur",
+   "file": "monsters/m15.json"
+  },
+  {
+   "name": "Bat, sootwing",
+   "monster": "Sootwing Bat",
+   "alignment": "Any evil",
+   "level": 5,
+   "levelText": "5th",
+   "source": "Monster Codex pg. 88",
+   "monsterId": "monster/bat-sootwing-bat",
+   "file": "monsters/m42.json"
+  },
+  {
+   "name": "Beheaded",
+   "monster": "Beheaded",
+   "alignment": "Neutral evil",
+   "level": 3,
+   "levelText": "3rd",
+   "source": "Bestiary 4 pg. 17, Pathfinder #43: Haunting of Harrowstone pg. 83",
+   "monsterId": "monster/beheaded",
+   "file": "monsters/m39.json"
+  },
+  {
+   "name": "Brain Mole",
+   "monster": "Brain Mole",
+   "alignment": "One step of neutral",
+   "level": 5,
+   "levelText": "5th",
+   "source": "Bestiary 5 pg. 46",
+   "monsterId": "monster/brain-mole",
+   "file": "monsters/m32.json"
+  },
+  {
+   "name": "Brownie",
+   "monster": "Brownie",
+   "alignment": "Neutral",
+   "level": 5,
+   "levelText": "5th",
+   "source": "Ultimate Magic pg. 1, Bestiary 2 pg. 49",
+   "monsterId": "monster/brownie",
+   "file": "monsters/m13.json"
+  },
+  {
+   "name": "Cacodaemon daemon",
+   "monster": "Cacodaemon",
+   "alignment": "Neutral evil",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Ultimate Magic pg. 1, Bestiary 2 pg. 64",
+   "monsterId": "monster/daemon-cacodaemon",
+   "file": "monsters/m40.json"
+  },
+  {
+   "name": "Caligraphy Wyrm",
+   "monster": "Caligraphy Wyrm",
+   "alignment": "Neutral",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Legacy of Dragons pg. 26",
+   "monsterId": "monster/caligraphy-wyrm",
+   "file": "monsters/m39.json"
+  },
+  {
+   "name": "Carbuncle",
+   "monster": "Carbuncle",
+   "alignment": "Neutral",
+   "level": 5,
+   "levelText": "5th",
+   "source": "Bestiary 3 pg. 44, Pathfinder #31: Stolen Land pg. 77",
+   "monsterId": "monster/carbuncle",
+   "file": "monsters/m28.json"
+  },
+  {
+   "name": "Cassisian angel",
+   "monster": "Cassisian",
+   "alignment": "Neutral good",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Ultimate Magic pg. 1, Bestiary 2 pg. 26",
+   "monsterId": "monster/angel-cassisian",
+   "file": "monsters/m36.json"
+  },
+  {
+   "name": "Cat sith",
+   "monster": "Cat Sith",
+   "alignment": "Chaotic neutral",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Familiar Folio pg. 28",
+   "monsterId": "monster/cat-sith",
+   "file": "monsters/m46.json"
+  },
+  {
+   "name": "Caypup",
+   "monster": "Caypup",
+   "alignment": "Chaotic good",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Familiar Folio pg. 29",
+   "monsterId": "monster/caypup",
+   "file": "monsters/m11.json"
+  },
+  {
+   "name": "Celestial hawk1",
+   "monster": "Hawk",
+   "alignment": "Neutral good",
+   "level": 3,
+   "levelText": "3rd",
+   "source": "PRPG Core Rulebook pg. 127",
+   "monsterId": "monster/familiar-hawk",
+   "file": "monsters/m06.json"
+  },
+  {
+   "name": "Ceru",
+   "monster": "Ceru",
+   "alignment": "Neutral good",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Inner Sea Bestiary pg. 9",
+   "monsterId": "monster/ceru",
+   "file": "monsters/m34.json"
+  },
+  {
+   "name": "Chuspiki",
+   "monster": "Chuspiki",
+   "alignment": "Chaotic",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Bestiary 5 pg. 56",
+   "monsterId": "monster/chuspiki",
+   "file": "monsters/m04.json"
+  },
+  {
+   "name": "Clockwork familiar",
+   "monster": "Clockwork Familiar",
+   "alignment": "Any",
+   "level": 7,
+   "levelText": "7th; needs crafting; see monstery entry",
+   "source": "Bestiary 5 pg. 57, Pathfinder #63: The Asylum Stone pg. 86",
+   "monsterId": "monster/clockwork-clockwork-familiar",
+   "file": "monsters/m29.json"
+  },
+  {
+   "name": "Coral Capuchin",
+   "monster": "Coral Capuchin",
+   "alignment": "One step of neutral",
+   "level": 3,
+   "levelText": "3rd",
+   "source": "Bestiary 6 pg. 66, Pathfinder #58: Island of Empty Eyes pg. 83",
+   "monsterId": "monster/coral-capuchin",
+   "file": "monsters/m16.json"
+  },
+  {
+   "name": "Cyphergull",
+   "monster": "Cyphergull",
+   "alignment": "One step of neutral",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Pathfinder #133: Secrets of Roderic's Cove pg. 82",
+   "monsterId": "monster/cyphergull",
+   "file": "monsters/m29.json"
+  },
+  {
+   "name": "Cythnigot qlippoth",
+   "monster": "Cythnigot",
+   "alignment": "Chaotic evil",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Ultimate Magic pg. 1, Bestiary 2 pg. 221",
+   "monsterId": "monster/qlippoth-cythnigot",
+   "file": "monsters/m19.json"
+  },
+  {
+   "name": "Dire rat",
+   "monster": "Dire Rat",
+   "alignment": "Neutral",
+   "level": 3,
+   "levelText": "3rd",
+   "source": "PRPG Core Rulebook pg. 127",
+   "monsterId": "monster/rat-dire-rat",
+   "file": "monsters/m36.json"
+  },
+  {
+   "name": "Doru div",
+   "monster": "Doru",
+   "alignment": "Neutral evil",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Bestiary 3 pg. 86, Pathfinder #19: Howl of the Carrion King pg. 81",
+   "monsterId": "monster/div-doru",
+   "file": "monsters/m00.json"
+  },
+  {
+   "name": "Dragon, faerie",
+   "monster": "Faerie Dragon",
+   "alignment": "Chaotic good (within 1 step)",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Bestiary 3 pg. 91",
+   "monsterId": "monster/dragon-other-faerie-dragon",
+   "file": "monsters/m27.json"
+  },
+  {
+   "name": "Dragon, tidepool",
+   "monster": "Tidepool Dragon",
+   "alignment": "Chaotic neutral (within one step)",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Pathfinder #55: The Wormwood Mutiny pg. 83",
+   "monsterId": "monster/dragon-other-tidepool-dragon",
+   "file": "monsters/m39.json"
+  },
+  {
+   "name": "Dweomercat Cub",
+   "monster": "Dweomercat Cub",
+   "alignment": "Chaotic neutral",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Pathfinder #36: Sound of a Thousand Screams pg. 83",
+   "monsterId": "monster/dweomercat-dweomercat-cub",
+   "file": "monsters/m44.json"
+  },
+  {
+   "name": "Earth wysp",
+   "monster": "Earth Wysp",
+   "alignment": "",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Bestiary 5 pg. 282",
+   "monsterId": "monster/wysp-earth-wysp",
+   "file": "monsters/m40.json"
+  },
+  {
+   "name": "Elemental, Small (any type)",
+   "monster": "Small Air Elemental",
+   "alignment": "Neutral",
+   "level": 5,
+   "levelText": "5th",
+   "source": "PRPG Core Rulebook pg. 127",
+   "monsterId": "monster/elemental-air-small-air-elemental",
+   "file": "monsters/m02.json"
+  },
+  {
+   "name": "Entropic monkey1",
+   "monster": "Monkey",
+   "alignment": "Chaotic neutral",
+   "level": 3,
+   "levelText": "3rd",
+   "source": "Ultimate Magic pg. 1",
+   "monsterId": "monster/familiar-monkey",
+   "file": "monsters/m21.json"
+  },
+  {
+   "name": "Esipil sahkil",
+   "monster": "Esipil",
+   "alignment": "Neutral Evil",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Bestiary 5 pg. 213",
+   "monsterId": "monster/sahkil-esipil",
+   "file": "monsters/m33.json"
+  },
+  {
+   "name": "Familiar automaton",
+   "monster": "Familiar Automaton",
+   "alignment": "Lawful",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Construct Handbook pg. 24",
+   "monsterId": "monster/automaton-familiar-automaton",
+   "file": "monsters/m27.json"
+  },
+  {
+   "name": "Fey-touched toad1",
+   "monster": "Toad",
+   "alignment": "",
+   "level": 3,
+   "levelText": "3rd",
+   "source": "Heroes from the Fringe pg. 17",
+   "monsterId": "monster/familiar-toad",
+   "file": "monsters/m29.json"
+  },
+  {
+   "name": "Fiendish viper1",
+   "monster": "Viper",
+   "alignment": "Neutral evil",
+   "level": 3,
+   "levelText": "3rd",
+   "source": "PRPG Core Rulebook pg. 127",
+   "monsterId": "monster/familiar-viper",
+   "file": "monsters/m06.json"
+  },
+  {
+   "name": "Fire wysp",
+   "monster": "Fire Wysp",
+   "alignment": "",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Bestiary 5 pg. 283",
+   "monsterId": "monster/wysp-fire-wysp",
+   "file": "monsters/m14.json"
+  },
+  {
+   "name": "Galluvix",
+   "monster": "Galluvix",
+   "alignment": "",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Pathfinder #128: Songbird, Scion, Saboteur pg. 84",
+   "monsterId": "monster/galluvix",
+   "file": "monsters/m34.json"
+  },
+  {
+   "name": "Harbinger archon",
+   "monster": "Harbinger Archon",
+   "alignment": "Lawful good",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Bestiary 3 pg. 18",
+   "monsterId": "monster/archon-harbinger-archon",
+   "file": "monsters/m44.json"
+  },
+  {
+   "name": "Hellfire Ignis",
+   "monster": "Hellfire Ignis",
+   "alignment": "Any",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Cheliax, the Infernal Empire pg. 62",
+   "monsterId": "monster/hellfire-ignis",
+   "file": "monsters/m28.json"
+  },
+  {
+   "name": "Homunculus2",
+   "monster": "Homunculus",
+   "alignment": "Any",
+   "level": 7,
+   "levelText": "7th",
+   "source": "PRPG Core Rulebook pg. 127",
+   "monsterId": "monster/homunculus",
+   "file": "monsters/m02.json"
+  },
+  {
+   "name": "House drake",
+   "monster": "House Drake",
+   "alignment": "Chaotic good",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Curse of the Crimson Throne (PFRPG) pg. 474",
+   "monsterId": "monster/house-drake",
+   "file": "monsters/m15.json"
+  },
+  {
+   "name": "Imp (Devil)",
+   "monster": "Imp",
+   "alignment": "Lawful evil",
+   "level": 7,
+   "levelText": "7th",
+   "source": "PRPG Core Rulebook pg. 127",
+   "monsterId": "monster/devil-imp",
+   "file": "monsters/m19.json"
+  },
+  {
+   "name": "Impundulu",
+   "monster": "Impundulu",
+   "alignment": "Neutral evil",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Pathfinder #40: Vaults of Madness pg. 81",
+   "monsterId": "monster/impundulu",
+   "file": "monsters/m06.json"
+  },
+  {
+   "name": "Isitoq",
+   "monster": "Isitoq",
+   "alignment": "Any evil",
+   "level": 5,
+   "levelText": "5th",
+   "source": "Bestiary 4 pg. 159",
+   "monsterId": "monster/isitoq",
+   "file": "monsters/m17.json"
+  },
+  {
+   "name": "Katroome",
+   "monster": "Katroome",
+   "alignment": "Any",
+   "level": 5,
+   "levelText": "5th",
+   "source": "Gallows of Madness pg. 62",
+   "monsterId": "monster/katroome",
+   "file": "monsters/m17.json"
+  },
+  {
+   "name": "Liminal sprite",
+   "monster": "Liminal Sprite",
+   "alignment": "Chaotic",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Bestiary 5 pg. 158",
+   "monsterId": "monster/liminal-sprite",
+   "file": "monsters/m11.json"
+  },
+  {
+   "name": "Lyrakien azata",
+   "monster": "Lyrakien",
+   "alignment": "Chaotic good",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Ultimate Magic pg. 1, Pathfinder #2: The Skinsaw Murders pg. 87, Bestiary 2 pg. 38",
+   "monsterId": "monster/azata-lyrakien",
+   "file": "monsters/m09.json"
+  },
+  {
+   "name": "Mamiwa",
+   "monster": "Mamiwa",
+   "alignment": "Neutral-aligned",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Ire of the Storm pg. 63",
+   "monsterId": "monster/mamiwa",
+   "file": "monsters/m28.json"
+  },
+  {
+   "name": "Mandragora",
+   "monster": "Mandragora",
+   "alignment": "Chaotic evil",
+   "level": 9,
+   "levelText": "9th",
+   "source": "Pathfinder #17: A Memory of Darkness pg. 85",
+   "monsterId": "monster/mandragora",
+   "file": "monsters/m47.json"
+  },
+  {
+   "name": "Mephit (any type)",
+   "monster": "Mephit",
+   "alignment": "Neutral",
+   "level": 7,
+   "levelText": "7th",
+   "source": "PRPG Core Rulebook pg. 127",
+   "monsterId": "monster/mephit",
+   "file": "monsters/m45.json"
+  },
+  {
+   "name": "Mockingfey",
+   "monster": "Mockingfey",
+   "alignment": "Chaotic neutral",
+   "level": 4,
+   "levelText": "4th",
+   "source": "Pathfinder #87: The Choking Tower pg. 189, Inner Sea Bestiary pg. 31",
+   "monsterId": "monster/mockingfey",
+   "file": "monsters/m19.json"
+  },
+  {
+   "name": "Nehushtan",
+   "monster": "Nehushtan",
+   "alignment": "Good-aligned",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Pathfinder #107: Scourge of the Godclaw pg. 87",
+   "monsterId": "monster/nehushtan",
+   "file": "monsters/m46.json"
+  },
+  {
+   "name": "Nosoi (Psychopomp)",
+   "monster": "Nosoi",
+   "alignment": "True neutral",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Bestiary 4 pg. 220, Pathfinder #47: Ashes at Dawn pg. 86",
+   "monsterId": "monster/psychopomp-nosoi",
+   "file": "monsters/m25.json"
+  },
+  {
+   "name": "Nuglub gremlin",
+   "monster": "Nuglub",
+   "alignment": "Chaotic evil",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Ultimate Magic pg. 1",
+   "monsterId": "monster/gremlin-nuglub",
+   "file": "monsters/m10.json"
+  },
+  {
+   "name": "Nycar",
+   "monster": "Nycar",
+   "alignment": "Chaotic neutral",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Bestiary 4 pg. 207",
+   "monsterId": "monster/nycar",
+   "file": "monsters/m12.json"
+  },
+  {
+   "name": "Paracletus aeon",
+   "monster": "Paracletus",
+   "alignment": "Neutral",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Ultimate Magic pg. 1, Bestiary 2 pg. 11",
+   "monsterId": "monster/aeon-paracletus",
+   "file": "monsters/m03.json"
+  },
+  {
+   "name": "Pipefox",
+   "monster": "Pipefox",
+   "alignment": "Any",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Bestiary 4 pg. 215",
+   "monsterId": "monster/pipefox",
+   "file": "monsters/m18.json"
+  },
+  {
+   "name": "Pooka",
+   "monster": "Pooka",
+   "alignment": "Any non-lawful",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Bestiary 4 pg. 216",
+   "monsterId": "monster/pooka",
+   "file": "monsters/m12.json"
+  },
+  {
+   "name": "Pseudodragon",
+   "monster": "Pseudodragon",
+   "alignment": "Neutral good",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Advanced Race Guide pg. 229, PRPG Core Rulebook pg. 127",
+   "monsterId": "monster/pseudodragon",
+   "file": "monsters/m45.json"
+  },
+  {
+   "name": "Pseudosphinx",
+   "monster": "Pseudosphinx",
+   "alignment": "Neutral",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Familiar Folio pg. 29",
+   "monsterId": "monster/pseudosphinx",
+   "file": "monsters/m46.json"
+  },
+  {
+   "name": "Pseudowyvern",
+   "monster": "Pseudowyvern",
+   "alignment": "Neutral",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Legacy of Dragons pg. 27",
+   "monsterId": "monster/pseudowyvern",
+   "file": "monsters/m45.json"
+  },
+  {
+   "name": "Psyche serpent",
+   "monster": "Psyche Serpent",
+   "alignment": "Any neutral",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Occult Bestiary pg. 44",
+   "monsterId": "monster/psyche-serpent",
+   "file": "monsters/m35.json"
+  },
+  {
+   "name": "Pyrausta3",
+   "monster": "Pyrausta",
+   "alignment": "Chaotic neutral (within 1 step)",
+   "level": 3,
+   "levelText": "3rd",
+   "source": "Legacy of Dragons pg. 27",
+   "monsterId": "monster/pyrausta",
+   "file": "monsters/m20.json"
+  },
+  {
+   "name": "Quasit (Demon)",
+   "monster": "Quasit",
+   "alignment": "Chaotic evil",
+   "level": 7,
+   "levelText": "7th",
+   "source": "PRPG Core Rulebook pg. 127",
+   "monsterId": "monster/demon-quasit",
+   "file": "monsters/m29.json"
+  },
+  {
+   "name": "Raktavarna rakshasa",
+   "monster": "Raktavarna",
+   "alignment": "Lawful evil",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Bestiary 3 pg. 229",
+   "monsterId": "monster/rakshasa-raktavarna",
+   "file": "monsters/m34.json"
+  },
+  {
+   "name": "Ratling",
+   "monster": "Ratling",
+   "alignment": "Chaotic evil",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Bestiary 4 pg. 226",
+   "monsterId": "monster/ratling",
+   "file": "monsters/m21.json"
+  },
+  {
+   "name": "Resolute owl1",
+   "monster": "Owl",
+   "alignment": "Lawful neutral",
+   "level": 3,
+   "levelText": "3rd",
+   "source": "Ultimate Magic pg. 1",
+   "monsterId": "monster/familiar-owl",
+   "file": "monsters/m30.json"
+  },
+  {
+   "name": "Seru",
+   "monster": "Seru",
+   "alignment": "Any evil",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Monster Codex pg. 208",
+   "monsterId": "monster/seru",
+   "file": "monsters/m45.json"
+  },
+  {
+   "name": "Shadow drake",
+   "monster": "Shadow Drake",
+   "alignment": "Any evil",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Bestiary 4 pg. 80",
+   "monsterId": "monster/drake-shadow-drake",
+   "file": "monsters/m21.json"
+  },
+  {
+   "name": "Shikigami kami",
+   "monster": "Shikigami",
+   "alignment": "Lawful neutral",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Bestiary 3 pg. 163",
+   "monsterId": "monster/kami-shikigami",
+   "file": "monsters/m01.json"
+  },
+  {
+   "name": "Silvanshee agathion",
+   "monster": "Silvanshee",
+   "alignment": "Neutral good",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Ultimate Magic pg. 1, Bestiary 2 pg. 21",
+   "monsterId": "monster/agathion-silvanshee",
+   "file": "monsters/m43.json"
+  },
+  {
+   "name": "Sin seeker",
+   "monster": "Sin Seeker",
+   "alignment": "See text",
+   "level": 5,
+   "levelText": "5th",
+   "source": "Pathfinder #73: The Worldwound Incursion pg. 89",
+   "monsterId": "monster/sin-seeker",
+   "file": "monsters/m12.json"
+  },
+  {
+   "name": "Skvader",
+   "monster": "Skvader",
+   "alignment": "Neutral",
+   "level": 3,
+   "levelText": "3rd",
+   "source": "Pathfinder #61: Shards of Sin pg. 86",
+   "monsterId": "monster/skvader",
+   "file": "monsters/m09.json"
+  },
+  {
+   "name": "Smokeshade",
+   "monster": "Smokeshade",
+   "alignment": "Neutral evil",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Nidal, Land of Shadows pg. 63",
+   "monsterId": "monster/smokeshade",
+   "file": "monsters/m20.json"
+  },
+  {
+   "name": "Spirit oni",
+   "monster": "Spirit Oni",
+   "alignment": "Lawful evil",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Bestiary 3 pg. 209",
+   "monsterId": "monster/oni-spirit-oni",
+   "file": "monsters/m17.json"
+  },
+  {
+   "name": "Sprite",
+   "monster": "Sprite",
+   "alignment": "Chaotic neutral",
+   "level": 5,
+   "levelText": "5th",
+   "source": "Bestiary 3 pg. 256",
+   "monsterId": "monster/sprite",
+   "file": "monsters/m38.json"
+  },
+  {
+   "name": "Stirge",
+   "monster": "Stirge",
+   "alignment": "Neutral",
+   "level": 5,
+   "levelText": "5th",
+   "source": "PRPG Core Rulebook pg. 127",
+   "monsterId": "monster/stirge",
+   "file": "monsters/m27.json"
+  },
+  {
+   "name": "Tripurasura asura",
+   "monster": "Tripurasura",
+   "alignment": "Lawful evil",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Bestiary 3 pg. 26",
+   "monsterId": "monster/asura-tripurasura",
+   "file": "monsters/m43.json"
+  },
+  {
+   "name": "Typhilipede",
+   "monster": "Typhilipede",
+   "alignment": "Lawful evil",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Pathfinder #103: The Hellfire Compact pg. 88",
+   "monsterId": "monster/typhilipede",
+   "file": "monsters/m42.json"
+  },
+  {
+   "name": "Voidworm protean",
+   "monster": "Voidworm",
+   "alignment": "Chaotic neutral",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Ultimate Magic pg. 1, Bestiary 2 pg. 217",
+   "monsterId": "monster/protean-voidworm",
+   "file": "monsters/m43.json"
+  },
+  {
+   "name": "Water wysp",
+   "monster": "Water Wysp",
+   "alignment": "",
+   "level": 7,
+   "levelText": "7th",
+   "source": "Bestiary 5 pg. 283",
+   "monsterId": "monster/wysp-water-wysp",
+   "file": "monsters/m13.json"
+  },
+  {
+   "name": "Wolpertinger",
+   "monster": "Wolpertinger",
+   "alignment": "Neutral",
+   "level": 5,
+   "levelText": "5th",
+   "source": "Pathfinder #61: Shards of Sin pg. 86",
+   "monsterId": "monster/wolpertinger",
+   "file": "monsters/m00.json"
+  },
+  {
+   "name": "Xiao",
+   "monster": "Xiao",
+   "alignment": "",
+   "level": 7,
+   "levelText": "7th level arcane caster",
+   "source": "Bestiary 5 pg. 284",
+   "monsterId": "monster/xiao",
+   "file": "monsters/m00.json"
+  },
+  {
+   "name": "Zoog",
+   "monster": "Zoog",
+   "alignment": "Chaotic evil",
+   "level": 5,
+   "levelText": "5th",
+   "source": "Bestiary 3 pg. 288",
+   "monsterId": "monster/zoog",
+   "file": "monsters/m37.json"
+  }
+ ]
+}

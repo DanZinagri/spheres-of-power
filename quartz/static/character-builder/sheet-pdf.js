@@ -107,17 +107,24 @@ async function buildSheetPdf() {
   y -= 52
   const d = s.details
   const colW = headW / 3
-  const rows = [
+  let rows = [
     [["Player", d.player], ["Alignment", ALIGNMENTS[d.alignment]], ["Deity", d.deity]],
     [["Race", s.race.name], ["Size", SIZES[s.race.size]?.[0]], ["Speed", `${num(s.race.speed)} ft.`]],
     [["Gender", d.gender], ["Age", d.age], ["Homeland", d.homeland]],
     [["Height", d.height], ["Weight", d.weight], ["Level", String(c.hd)]],
   ]
+  // a companion, familiar or cohort builder's own identity rows and full-width lines (its master,
+  // kind, senses, tricks, ...)
+  rows = HOOKS.pdfRows?.(rows, c) ?? rows
   for (const r of rows) {
-    r.forEach(([label, value], i) => cell(M + i * colW, y, colW, label, value))
+    r.forEach(([label, value], i) => cell(M + i * colW, y, colW, label, fit(String(value ?? ""), 10, colW - 8)))
     y -= 26
   }
   cell(M, y, headW, "Languages", d.languages)
+  for (const [label, value] of HOOKS.pdfWide?.(c) ?? []) {
+    y -= 26
+    cell(M, y, headW, label, fit(String(value ?? ""), 10, headW - 8))
+  }
   y = Math.min(y - 30, pyTop - portraitH - 10)
 
   // left column
@@ -279,11 +286,24 @@ async function buildSheetPdf() {
     ry -= 28
   }
 
-  // attacks from equipped/listed weapons
+  // attacks: a creature's own (natural attacks and its stat block's), then equipped/listed weapons
   const weapons = s.gear.filter((g) => g.kind === "weapon")
-  if (weapons.length) {
+  const natural = typeof attackBonus === "function" ? s.monster?.attacks ?? [] : []
+  if (weapons.length || natural.length) {
     room(15 + 30)
     ry = bar(region.x, ry - 4, region.w, "Attacks") - 2
+    for (const a of natural) {
+      room(30)
+      const bonus = attackBonus(a, c) + num(a.atkMisc)
+      const iter = a.natural ? [bonus] : [bonus, ...Array.from({ length: Math.max(0, Math.ceil(c.bab / 5) - 1) }, (_, i) => bonus - 5 * (i + 1))]
+      const dmgMod = damageBonus(a, c) + num(a.dmgMisc)
+      const dmg = a.dice ? `${a.dice}${dmgMod ? signed(dmgMod) : ""}` : a.printedDamage || "-"
+      text(fit(`${num(a.count) > 1 ? `${a.count} ` : ""}${a.name}`, 9.5, region.w * 0.55, bold), region.x + 2, ry - 11, 9.5, bold)
+      textR(iter.map(signed).join("/"), region.x + region.w - 2, ry - 11, 9.5, bold, ACCENT)
+      text(fit(`${a.range === "ranged" ? "Ranged" : "Melee"}${a.natural ? (a.primary ? " (primary)" : " (secondary)") : ""}   Damage ${dmg}${a.crit ? `   Critical ${a.crit}` : ""}${a.extra ? `   plus ${a.extra}` : ""}`, 7.5, region.w - 4), region.x + 2, ry - 22, 7.5, font, SOFT)
+      line(region.x, ry - 27, region.x + region.w, ry - 27)
+      ry -= 30
+    }
     for (const wpn of weapons) {
       room(30)
       const ranged = wpn.attack === "ranged"
