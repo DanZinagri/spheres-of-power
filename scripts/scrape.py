@@ -4415,6 +4415,88 @@ def _rules_summary(text: str, limit: int = 160, whole: bool = False) -> str:
     return s if len(s) <= limit else s[:limit].rsplit(" ", 1)[0] + "…"
 
 
+def build_conjuration_companion() -> int:
+    """compendium/conjuration-companion.json for the Conjuration Companion Builder: Table: Companion and
+    the base forms from the Conjuration sphere page, and the avatar companion archetype (Voidrusher).
+    The (form) and (type) talents and the other companion archetypes are in compendium/conjuration.json."""
+    files = {f.stem: f for f in CONTENT.rglob("*.md") if ARCHIVE not in f.relative_to(CONTENT).parts}
+    f = files.get("Conjuration")
+    if not f:
+        print("warning: conjuration companion: no Conjuration page")
+        return 0
+    lines = f.read_text(encoding="utf-8").split(GENERATED_MARK, 1)[-1].split("\n")
+    url = _page_url(f)
+    num = lambda t: int(m.group()) if (m := re.search(r"-?\d+", t)) else 0
+    at = next((i for i, l in enumerate(lines) if l.strip() == "**Table: Companion**"), None)
+    table = [{"cl": num(r[0]), "hd": num(r[1]), "bab": num(r[2]), "skills": num(r[3]), "feats": num(r[4]), "natural": num(r[5]),
+              "good": num(r[6]), "bad": num(r[7])} for r in (_md_table(lines, at + 1)[1:] if at is not None else [])]
+
+    def attacks(text: str) -> list[dict]:
+        out, depth, cur, parts = [], 0, "", []
+        for ch in text:  # split on commas outside parentheses
+            depth += ch == "("
+            depth -= ch == ")"
+            if ch == "," and depth == 0:
+                parts.append(cur)
+                cur = ""
+            else:
+                cur += ch
+        for part in [x.strip() for x in parts + [cur] if x.strip()]:
+            m = re.match(r"(?:(\d+)\s+)?([^()]+?)\s*((?:\([^)]*\)\s*)+)$", part)
+            if not m:
+                continue
+            inner = " ".join(re.findall(r"\(([^)]*)\)", m.group(3)))
+            dice = re.findall(r"\d+d\d+", inner)
+            name = m.group(2).strip().lower()
+            choice = ""
+            if " or " in name:  # "bite or slam (choose 1)"
+                choice, name = f"choose {name}", name.split(" or ")[0]
+            notes = [x.strip() for x in re.split(r",", re.sub(r"\d+d\d+(?: (?:Medium|Small))?", "", inner))
+                     if x.strip() and x.strip().lower() not in ("primary", "secondary", "choose 1")]
+            out.append({"name": name, "count": int(m.group(1) or 1), "primary": "secondary" not in inner.lower(),
+                        "medium": dice[0] if dice else "", "small": dice[1] if len(dice) > 1 else "",
+                        "note": "; ".join([choice, *notes]).strip("; ")})
+        return out
+
+    forms = []
+    start = next((i for i, l in enumerate(lines) if l.strip() == "## Summon"), 0)
+    end = next((i for i in range(start + 1, len(lines)) if lines[i].startswith("### Companion Features")), len(lines))
+    heads = [i for i in range(start, end - 1) if re.fullmatch(r"\*\*[A-Z][A-Za-z ]+\*\*", lines[i].strip()) and lines[i + 1].startswith("**Size**")]
+    for a, b in zip(heads, heads[1:] + [end]):
+        stat = lines[a + 1]
+        field = lambda label: (m.group(1).strip() if (m := re.search(rf"\*\*{label}\*\*\s*(.+?)(?=;\s*\*\*|$)", stat)) else "")
+        speed = field("Speed")
+        speeds = {"land": num(speed)}
+        for mode in ("fly", "climb", "swim", "burrow"):
+            if (m := re.search(rf"{mode}\s+(\d+)", speed, re.I)):
+                speeds[mode] = int(m.group(1))
+        abilities = {}
+        for k, v in re.findall(r"\*\*(Str|Dex|Con|Int|Wis|Cha)\*\*\s*(\d+)", stat):
+            abilities[k.lower()] = int(v) if int(v) <= 30 else int(v[:-1])  # "Int 102": a footnote mark ran in
+        saves = {kk[:4].lower().replace("refl", "ref"): ("high" if g == "good" else "low")
+                 for kk, g in re.findall(r"(Fort|Ref|Will)\w*\s*\((good|bad)\)", field("Saves"))}
+        forms.append({"name": lines[a].strip().strip("*"), "size": field("Size") or "Medium", "speeds": speeds, "speedText": speed,
+                      "natural": num(field("AC")), "saves": {"fort": saves.get("fort", "low"), "ref": saves.get("ref", "low"), "will": saves.get("will", "low")},
+                      "attacks": attacks(field("Attack")), "attackText": field("Attack"), "abilities": abilities,
+                      "text": "\n\n".join(l.strip() for l in lines[a + 2:b] if l.strip() and l.strip() != "---")})
+    # the avatar archetype lives on the Voidrusher page (granted by the voidrusher and void conduit)
+    avatar = None
+    v = files.get("Voidrusher")
+    if v:
+        vl = v.read_text(encoding="utf-8").split(GENERATED_MARK, 1)[-1].split("\n")
+        a = next((i for i, l in enumerate(vl) if l.startswith("## Avatar (Conjuration Companion)")), None)
+        if a is not None:
+            b = next((i for i in range(a + 1, len(vl)) if re.match(r"#{1,2} ", vl[i]) or vl[i].strip() == "---"), len(vl))
+            text = "\n".join(vl[a + 1:b]).strip()
+            abl = {k.lower(): int(x) for k, x in re.findall(r"\*\*(Str|Dex|Con|Int|Wis|Cha)\*\*\s*(\d+)", text)}
+            avatar = {"name": "Avatar", "text": text, "abilities": abl, "source": "Diamond Classes: Avatar Companion and Void Archetypes",
+                      "url": f"{_page_url(v)}#avatar-conjuration-companion"}
+    COMPENDIUM_OUT.mkdir(parents=True, exist_ok=True)
+    (COMPENDIUM_OUT / "conjuration-companion.json").write_text(json.dumps(
+        {"url": url, "table": table, "forms": forms, "avatar": avatar}, ensure_ascii=False, indent=1), encoding="utf-8")
+    return len(forms)
+
+
 def build_class_archetypes() -> int:
     """compendium/class-archetypes.json for the builders' "Archetypes" picker: each class's archetypes by
     class name. Spheres archetypes come from the home Classes tables (Spheres classes, and the Spheres
@@ -7360,6 +7442,7 @@ def convert(with_images: bool) -> None:
     print(f"Compendium traits: {build_trait_compendium()}")
     print(f"Cohort jobs: {build_cohort_jobs()}")
     print(f"Class archetypes: {build_class_archetypes()}")
+    print(f"Conjuration companion forms: {build_conjuration_companion()}")
     print(f"Compendium races: {build_race_compendium()}")
     print(f"Martial traditions: {build_martial_traditions()}")
     print(f"Casting tradition drawbacks: {build_casting_traditions()}")

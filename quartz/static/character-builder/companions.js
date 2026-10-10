@@ -30,7 +30,9 @@ function masterFromBuilder() {
     if (r > 0) ranks[k] = r
   }
   state.master = { ...blankMaster(), name: saved.name || "", level: c.hd, bab: c.bab, fort: c.saves.fort, ref: c.saves.ref, will: c.saves.will,
-    hp: c.hp, han: num(ranks.han), rid: num(ranks.rid), skills: ranks }
+    hp: c.hp, han: num(ranks.han), rid: num(ranks.rid), skills: ranks, cl: num(c.spheres?.cl) }
+  // a Conjuration companion follows its caster's caster level
+  if (state.conjuration && state.master.cl > 0) state.conjuration.cl = state.master.cl
   toast(`Master: ${saved.name || "the Character Builder's character"} (level ${c.hd})`)
   changed(true)
 }
@@ -59,7 +61,7 @@ function masterCard(fields, note) {
 // An archetype's abilities are added as features to apply by hand; the standard abilities it
 // replaces (share spells, evasion, ...) are listed beside it and stay on the sheet for the user to
 // disregard.
-const kindState = () => (VARIANT === "companion" ? state.companion : state.familiar)
+const kindState = () => (VARIANT === "companion" ? state.companion : VARIANT === "conjuration" ? state.conjuration : state.familiar)
 const ARCHETYPE_STACK_NOTE = "Tick as many as you want: archetypes can be combined as long as they don't replace or alter the same abilities, which isn't checked here. Each one's abilities are added as features. Nothing is taken off the sheet for you: what an archetype replaces is listed beside it, to apply by hand."
 const baseName = (n) => String(n).replace(/\s*\((?:Ex|Su|Sp)\)/g, "").trim().toLowerCase()
 // what the applied archetypes replace is shown beside each one, and left to the user: nothing comes
@@ -81,7 +83,7 @@ function removeArchetype(name) {
 async function openArchetypePicker() {
   const box = h("input", { type: "search", placeholder: "Search archetypes", "aria-label": "Search archetypes" })
   const results = h("div", { class: "picker-results", role: "list" }, h("p", { class: "muted" }, "Loading archetypes…"))
-  const dlg = openDialog(VARIANT === "companion" ? "Companion archetypes" : "Familiar archetypes",
+  const dlg = openDialog(VARIANT === "familiar" ? "Familiar archetypes" : "Companion archetypes",
     h("p", { class: "note" }, ARCHETYPE_STACK_NOTE), h("div", { class: "row picker-filters" }, box), results,
     h("div", { class: "row add-row" }, h("button", { class: "primary", onclick: () => dlg.done() }, "Done")))
   let all = []
@@ -98,7 +100,9 @@ async function openArchetypePicker() {
     hits.length ? null : h("p", { class: "muted" }, all.length ? "No archetypes match." : "Couldn't load the archetypes."))
   }
   box.addEventListener("input", render)
-  loadCompendium("companion-archetypes.json", { companion: [], familiar: [] }).then((d) => { all = d[VARIANT] ?? []; render() })
+  // (the Conjuration Companion Builder lists the sphere's own companion archetypes: HOOKS.archetypeList)
+  ;(HOOKS.archetypeList ? HOOKS.archetypeList() : loadCompendium("companion-archetypes.json", { companion: [], familiar: [] }).then((d) => d[VARIANT] ?? []))
+    .then((list) => { all = list; render() })
   box.focus()
 }
 function archetypeCard() {
@@ -108,7 +112,7 @@ function archetypeCard() {
       h("button", { class: "small", onclick: () => openArchetypePicker() }, "+ Add archetypes")),
     ...list.map((a) => h("div", { class: "row" }, h("b", {}, a.name), h("span", { class: "muted" }, a.source),
       a.replaces?.length ? h("span", { class: "note" }, `Replaces ${a.replaces.join(", ")}.`) : null, h("div", { class: "spacer" }),
-      h("a", { href: a.url, target: "_blank", rel: "noopener" }, "On Archives of Nethys"),
+      a.url ? h("a", { href: a.url, target: "_blank", rel: "noopener" }, /^https?:/.test(a.url) ? "On Archives of Nethys" : "On the wiki") : null,
       h("button", { class: "small danger", onclick: () => removeArchetype(a.name) }, "Remove"))),
     h("p", { class: "note" }, list.length
       ? "The archetypes' abilities are on the Feats & Features tab. Nothing has been taken off the sheet: disregard what each one replaces, and apply any numbers they change there or on this tab."

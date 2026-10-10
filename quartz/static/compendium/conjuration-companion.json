@@ -1,0 +1,677 @@
+{
+ "url": "Spheres-Of-Power/Conjuration/Conjuration",
+ "table": [
+  {
+   "cl": 1,
+   "hd": 1,
+   "bab": 1,
+   "skills": 1,
+   "feats": 1,
+   "natural": 0,
+   "good": 2,
+   "bad": 0
+  },
+  {
+   "cl": 2,
+   "hd": 2,
+   "bab": 2,
+   "skills": 2,
+   "feats": 1,
+   "natural": 1,
+   "good": 3,
+   "bad": 0
+  },
+  {
+   "cl": 3,
+   "hd": 3,
+   "bab": 3,
+   "skills": 3,
+   "feats": 2,
+   "natural": 1,
+   "good": 3,
+   "bad": 1
+  },
+  {
+   "cl": 4,
+   "hd": 3,
+   "bab": 3,
+   "skills": 3,
+   "feats": 2,
+   "natural": 1,
+   "good": 3,
+   "bad": 1
+  },
+  {
+   "cl": 5,
+   "hd": 4,
+   "bab": 4,
+   "skills": 4,
+   "feats": 2,
+   "natural": 2,
+   "good": 4,
+   "bad": 1
+  },
+  {
+   "cl": 6,
+   "hd": 5,
+   "bab": 5,
+   "skills": 5,
+   "feats": 3,
+   "natural": 2,
+   "good": 4,
+   "bad": 1
+  },
+  {
+   "cl": 7,
+   "hd": 6,
+   "bab": 6,
+   "skills": 6,
+   "feats": 3,
+   "natural": 3,
+   "good": 5,
+   "bad": 2
+  },
+  {
+   "cl": 8,
+   "hd": 6,
+   "bab": 6,
+   "skills": 6,
+   "feats": 3,
+   "natural": 3,
+   "good": 5,
+   "bad": 2
+  },
+  {
+   "cl": 9,
+   "hd": 7,
+   "bab": 7,
+   "skills": 7,
+   "feats": 4,
+   "natural": 3,
+   "good": 5,
+   "bad": 2
+  },
+  {
+   "cl": 10,
+   "hd": 8,
+   "bab": 8,
+   "skills": 8,
+   "feats": 4,
+   "natural": 4,
+   "good": 6,
+   "bad": 2
+  },
+  {
+   "cl": 11,
+   "hd": 9,
+   "bab": 9,
+   "skills": 9,
+   "feats": 5,
+   "natural": 4,
+   "good": 6,
+   "bad": 3
+  },
+  {
+   "cl": 12,
+   "hd": 9,
+   "bab": 9,
+   "skills": 9,
+   "feats": 5,
+   "natural": 4,
+   "good": 6,
+   "bad": 3
+  },
+  {
+   "cl": 13,
+   "hd": 10,
+   "bab": 10,
+   "skills": 10,
+   "feats": 5,
+   "natural": 5,
+   "good": 7,
+   "bad": 3
+  },
+  {
+   "cl": 14,
+   "hd": 11,
+   "bab": 11,
+   "skills": 11,
+   "feats": 6,
+   "natural": 5,
+   "good": 7,
+   "bad": 3
+  },
+  {
+   "cl": 15,
+   "hd": 12,
+   "bab": 12,
+   "skills": 12,
+   "feats": 6,
+   "natural": 6,
+   "good": 8,
+   "bad": 4
+  },
+  {
+   "cl": 16,
+   "hd": 12,
+   "bab": 12,
+   "skills": 12,
+   "feats": 6,
+   "natural": 6,
+   "good": 8,
+   "bad": 4
+  },
+  {
+   "cl": 17,
+   "hd": 13,
+   "bab": 13,
+   "skills": 13,
+   "feats": 7,
+   "natural": 6,
+   "good": 8,
+   "bad": 4
+  },
+  {
+   "cl": 18,
+   "hd": 14,
+   "bab": 14,
+   "skills": 14,
+   "feats": 7,
+   "natural": 7,
+   "good": 9,
+   "bad": 4
+  },
+  {
+   "cl": 19,
+   "hd": 15,
+   "bab": 15,
+   "skills": 15,
+   "feats": 8,
+   "natural": 7,
+   "good": 9,
+   "bad": 5
+  },
+  {
+   "cl": 20,
+   "hd": 15,
+   "bab": 15,
+   "skills": 15,
+   "feats": 8,
+   "natural": 7,
+   "good": 9,
+   "bad": 5
+  },
+  {
+   "cl": 21,
+   "hd": 16,
+   "bab": 16,
+   "skills": 16,
+   "feats": 8,
+   "natural": 8,
+   "good": 10,
+   "bad": 5
+  },
+  {
+   "cl": 22,
+   "hd": 17,
+   "bab": 17,
+   "skills": 17,
+   "feats": 9,
+   "natural": 8,
+   "good": 10,
+   "bad": 5
+  },
+  {
+   "cl": 23,
+   "hd": 18,
+   "bab": 18,
+   "skills": 18,
+   "feats": 9,
+   "natural": 9,
+   "good": 11,
+   "bad": 6
+  },
+  {
+   "cl": 24,
+   "hd": 18,
+   "bab": 18,
+   "skills": 18,
+   "feats": 9,
+   "natural": 9,
+   "good": 11,
+   "bad": 6
+  },
+  {
+   "cl": 25,
+   "hd": 19,
+   "bab": 19,
+   "skills": 19,
+   "feats": 10,
+   "natural": 9,
+   "good": 11,
+   "bad": 6
+  },
+  {
+   "cl": 26,
+   "hd": 20,
+   "bab": 20,
+   "skills": 20,
+   "feats": 10,
+   "natural": 10,
+   "good": 12,
+   "bad": 6
+  },
+  {
+   "cl": 27,
+   "hd": 21,
+   "bab": 21,
+   "skills": 21,
+   "feats": 11,
+   "natural": 10,
+   "good": 12,
+   "bad": 7
+  },
+  {
+   "cl": 28,
+   "hd": 21,
+   "bab": 21,
+   "skills": 21,
+   "feats": 11,
+   "natural": 10,
+   "good": 12,
+   "bad": 7
+  },
+  {
+   "cl": 29,
+   "hd": 22,
+   "bab": 22,
+   "skills": 22,
+   "feats": 11,
+   "natural": 11,
+   "good": 13,
+   "bad": 7
+  },
+  {
+   "cl": 30,
+   "hd": 23,
+   "bab": 23,
+   "skills": 23,
+   "feats": 12,
+   "natural": 11,
+   "good": 13,
+   "bad": 7
+  },
+  {
+   "cl": 31,
+   "hd": 24,
+   "bab": 24,
+   "skills": 24,
+   "feats": 12,
+   "natural": 12,
+   "good": 14,
+   "bad": 8
+  },
+  {
+   "cl": 32,
+   "hd": 24,
+   "bab": 24,
+   "skills": 24,
+   "feats": 12,
+   "natural": 12,
+   "good": 14,
+   "bad": 8
+  },
+  {
+   "cl": 33,
+   "hd": 25,
+   "bab": 25,
+   "skills": 25,
+   "feats": 13,
+   "natural": 12,
+   "good": 14,
+   "bad": 8
+  },
+  {
+   "cl": 34,
+   "hd": 26,
+   "bab": 26,
+   "skills": 26,
+   "feats": 13,
+   "natural": 13,
+   "good": 15,
+   "bad": 8
+  },
+  {
+   "cl": 35,
+   "hd": 27,
+   "bab": 27,
+   "skills": 27,
+   "feats": 14,
+   "natural": 13,
+   "good": 15,
+   "bad": 9
+  },
+  {
+   "cl": 36,
+   "hd": 27,
+   "bab": 27,
+   "skills": 27,
+   "feats": 14,
+   "natural": 13,
+   "good": 15,
+   "bad": 9
+  },
+  {
+   "cl": 37,
+   "hd": 28,
+   "bab": 28,
+   "skills": 28,
+   "feats": 14,
+   "natural": 14,
+   "good": 16,
+   "bad": 9
+  },
+  {
+   "cl": 38,
+   "hd": 29,
+   "bab": 29,
+   "skills": 29,
+   "feats": 15,
+   "natural": 14,
+   "good": 16,
+   "bad": 9
+  },
+  {
+   "cl": 39,
+   "hd": 30,
+   "bab": 30,
+   "skills": 30,
+   "feats": 15,
+   "natural": 15,
+   "good": 17,
+   "bad": 10
+  },
+  {
+   "cl": 40,
+   "hd": 30,
+   "bab": 30,
+   "skills": 30,
+   "feats": 15,
+   "natural": 15,
+   "good": 17,
+   "bad": 10
+  }
+ ],
+ "forms": [
+  {
+   "name": "Avian",
+   "size": "Medium",
+   "speeds": {
+    "land": 20,
+    "fly": 15
+   },
+   "speedText": "20 ft., Fly 15 ft*. (average)",
+   "natural": 2,
+   "saves": {
+    "fort": "high",
+    "ref": "high",
+    "will": "low"
+   },
+   "attacks": [
+    {
+     "name": "bite",
+     "count": 1,
+     "primary": true,
+     "medium": "1d4",
+     "small": "1d3",
+     "note": ""
+    },
+    {
+     "name": "talons",
+     "count": 2,
+     "primary": true,
+     "medium": "1d4",
+     "small": "1d3",
+     "note": "creature must be airborne to use"
+    }
+   ],
+   "attackText": "Bite (primary, 1d4 Medium, 1d3 Small), 2 talons (primary, 1d4 Medium, 1d3 Small, creature must be airborne to use)",
+   "abilities": {
+    "str": 12,
+    "dex": 16,
+    "con": 13,
+    "int": 7,
+    "wis": 10,
+    "cha": 11
+   },
+   "text": "Avian creatures are birds and bird-like magical beasts and outsiders. An avian companion has a head, 2 legs, and 2 wings\n\n*This fly speed only functions on the companion’s turn. If the companion is not on a surface that can support it on the end of its turn, it glides to the ground, taking no falling damage. If the companion gains a natural fly speed from the Avian Creature (form) talent, increase the maneuverability of that speed by 1 step."
+  },
+  {
+   "name": "Biped",
+   "size": "Medium",
+   "speeds": {
+    "land": 30
+   },
+   "speedText": "30 ft.",
+   "natural": 2,
+   "saves": {
+    "fort": "high",
+    "ref": "low",
+    "will": "high"
+   },
+   "attacks": [
+    {
+     "name": "slams",
+     "count": 2,
+     "primary": true,
+     "medium": "1d4",
+     "small": "",
+     "note": ""
+    }
+   ],
+   "attackText": "2 slams (1d4)",
+   "abilities": {
+    "str": 16,
+    "dex": 12,
+    "con": 13,
+    "int": 7,
+    "wis": 10,
+    "cha": 11
+   },
+   "text": "Bipeds are usually humanoids, and begin with 2 legs, 2 arms, and a head."
+  },
+  {
+   "name": "Ooze",
+   "size": "Medium",
+   "speeds": {
+    "land": 20
+   },
+   "speedText": "20 ft.",
+   "natural": 4,
+   "saves": {
+    "fort": "high",
+    "ref": "low",
+    "will": "low"
+   },
+   "attacks": [
+    {
+     "name": "slam",
+     "count": 1,
+     "primary": true,
+     "medium": "1d6",
+     "small": "1d4",
+     "note": ""
+    }
+   ],
+   "attackText": "slam (primary, 1d6 Medium, 1d4 Small)",
+   "abilities": {
+    "str": 16,
+    "dex": 8,
+    "con": 16,
+    "int": 7,
+    "wis": 12,
+    "cha": 11
+   },
+   "text": "Ooze creatures are usually oozes, puddings, or other amorphous creatures and lack discernable limbs. An ooze companion may not be tripped unless gaining legs from another source."
+  },
+  {
+   "name": "Orb",
+   "size": "Medium",
+   "speeds": {
+    "land": 5
+   },
+   "speedText": "5 ft. Hover1, 30 ft. (average)",
+   "natural": 2,
+   "saves": {
+    "fort": "low",
+    "ref": "high",
+    "will": "high"
+   },
+   "attacks": [
+    {
+     "name": "bite",
+     "count": 1,
+     "primary": true,
+     "medium": "1d6",
+     "small": "",
+     "note": "choose bite or slam"
+    }
+   ],
+   "attackText": "bite or slam (choose 1) (1d6)",
+   "abilities": {
+    "str": 7,
+    "dex": 16,
+    "con": 13,
+    "int": 10,
+    "wis": 12,
+    "cha": 11
+   },
+   "text": "Orb creatures are lantern archons, will-o-wisps, gibbering orbs, and other mystical fey, outsiders, constructs, or aberrations with a floating sphere-like appearance and supernatural movement. An orb lacks any limbs, but may treat its body as a head for the purpose of adding natural attacks. An orb companion may not be tripped unless gaining legs from another source.\n\n1: An orb may float up to 5 feet plus 5 feet per 5 Hit Dice above the ground, with a horizontal movement speed of 30 feet. When floating this way, Fly checks are not required to hover or change direction. When falling the orb may choose to descend at a slower rate to control its fall and to negate all falling damage it would take. Each round it descends 30 feet, and may move in another direction for 30 feet. It may choose to drift sideways, gliding forwards while descending, or down, safely increasing its rate of descent. It may even choose to drift ‘upwards’ to reduce its rate of descent, even allowing it to negate it entirely and hover midair (though cannot move horizontally if it begins its turn doing so). This is a supernatural ability.\n\n2: The Skillful Companion (form) talent increases Int to 13 if taken."
+  },
+  {
+   "name": "Quadruped",
+   "size": "Medium",
+   "speeds": {
+    "land": 40
+   },
+   "speedText": "40 ft.",
+   "natural": 2,
+   "saves": {
+    "fort": "high",
+    "ref": "high",
+    "will": "low"
+   },
+   "attacks": [
+    {
+     "name": "bite",
+     "count": 1,
+     "primary": true,
+     "medium": "1d6",
+     "small": "",
+     "note": ""
+    }
+   ],
+   "attackText": "bite (1d6)",
+   "abilities": {
+    "str": 14,
+    "dex": 14,
+    "con": 13,
+    "int": 7,
+    "wis": 10,
+    "cha": 11
+   },
+   "text": "Quadrupeds are usually beasts, and begin with 4 legs and a head."
+  },
+  {
+   "name": "Serpentine",
+   "size": "Medium",
+   "speeds": {
+    "land": 20
+   },
+   "speedText": "20 ft.",
+   "natural": 4,
+   "saves": {
+    "fort": "low",
+    "ref": "high",
+    "will": "high"
+   },
+   "attacks": [
+    {
+     "name": "bite",
+     "count": 1,
+     "primary": true,
+     "medium": "1d6",
+     "small": "",
+     "note": ""
+    },
+    {
+     "name": "tail slap",
+     "count": 1,
+     "primary": true,
+     "medium": "1d6",
+     "small": "",
+     "note": ""
+    }
+   ],
+   "attackText": "bite (1d6), tail slap (1d6)",
+   "abilities": {
+    "str": 12,
+    "dex": 16,
+    "con": 13,
+    "int": 7,
+    "wis": 10,
+    "cha": 11
+   },
+   "text": "Serpentine creatures are snakes, fish, and other elongated creatures. They begin with a head, but no arms or legs."
+  },
+  {
+   "name": "Vermin",
+   "size": "Medium",
+   "speeds": {
+    "land": 20,
+    "climb": 20
+   },
+   "speedText": "20 ft., Climb 20 ft.",
+   "natural": 2,
+   "saves": {
+    "fort": "high",
+    "ref": "high",
+    "will": "low"
+   },
+   "attacks": [
+    {
+     "name": "bite",
+     "count": 1,
+     "primary": true,
+     "medium": "1d6",
+     "small": "",
+     "note": ""
+    }
+   ],
+   "attackText": "bite (1d6)",
+   "abilities": {
+    "str": 12,
+    "dex": 16,
+    "con": 13,
+    "int": 7,
+    "wis": 10,
+    "cha": 11
+   },
+   "text": "Vermin are usually insects or arachnids, and begin with either 6 or 8 legs and a head and gain a +6 bonus to CMD vs. trip attempts from its additional legs."
+  }
+ ],
+ "avatar": {
+  "name": "Avatar",
+  "text": "The avatar is a unique Conjuration companion granted by specific archetypes or classes. An avatar always gains the avatar companion archetype (and can never select other companion archetypes except the aquatic companion archetype). The avatar companion archetype is otherwise not generally available due to it being a far stronger companion that is limited (and subsequently enabled) by its summoner’s class features.\n\nThe statistics of a Conjuration companion with the avatar archetype are as follows (including unique abilities granted by this archetype):\n\n**Avatar**\nThe avatar’s ability scores are as listed (this replaces the ability scores of the avatar’s base form):\n**Str** 18, **Dex** 18, **Con** 16, **Int** 8, **Wis** 12, **Cha** 12\n\nThe avatar gains the following special abilities:\n\n**Mirror of the Master (Ex):** The avatar is a mirror of their caster, sharing in their strengths and weaknesses. While possessing the caster, the avatar gains the following benefits:\n\n- The avatar is affected by any non-instantaneous effects which affect its caster, both beneficial and detrimental. An effect applied to the avatar this way ignores all immunities the avatar possesses, and if the effect ends for the caster, it ends for the avatar.\n- Whenever the avatar’s caster would benefit from an effect that restores hit points or removes a condition or effect (such as ability damage, negative levels, etc.), the avatar also benefits from that effect.\n- The avatar shares the effects of any magic items the caster benefits from (with the exception of magic weapons, armor, shields, or which otherwise need to be wielded to function). The avatar does not need to possess the appropriate appendages to benefit from a magic item this way.\n\n**Example:** The avatar’s caster is benefitting from a bard’s inspire courage and has the sickened condition. The avatar would also benefit from the bard’s inspire courage and be penalized by the sickened condition for as long as the master is affected by those effects. If the caster was wearing a belt of giant’s strength +4, the avatar would also benefit from that belt’s effects.\n\n**Otherworldly Paragon (Ex):** The avatar’s Strength, Dexterity, and Constitution increase by +2 + 1 per 2 Hit Dice the avatar possesses; treat this ability as a (form) talent. The avatar cannot benefit from other (form) talents which grant an untyped bonus to their Strength, Dexterity, or Constitution (such as the Powerful Form (form) talent).\n\n**Shredding Attacks (Ex):** An avatar’s primary natural attacks deal their indicated damage plus 1-1/2 times the avatar’s Strength bonus (even if it would have more than one natural attack).\n\n**Sole Entity (Ex):** An avatar is a singular possessive force. A caster can never gain more than one Conjuration companion with the avatar companion archetype. If the caster would gain an additional Conjuration companion with the avatar companion archetype, they instead gain a bonus (form) talent for their avatar Conjuration companion. Class features, abilities, and effects which would interact with the caster’s avatar always refer to this singular Conjuration companion, even if they would be abilities from different sources (such as a multiclassed character with an avatar from two sources would have a single avatar companion and use that companion for any of their abilities).\n\n**Unbodied (Ex):** An avatar is incapable of being summoned normally and instead constantly possesses the caster (as though passively possessing the caster using the wraith’s possession class feature). However, unlike a wraith’s possession, the avatar can never independently take actions (including mental actions) unless granted actions through the caster’s other abilities (most often from a class which grants an avatar companion); if a form talent would grant the avatar abilities that require spending an action or the ability to take an action, the caster must spend the equivalent action to activate that ability (such as the Conjuration sphere Aligned Creature (form) talent’s smite ability could be used if the caster expended the swift action for their avatar). Abilities or actions granted by feats, combat talents, and magic talents cannot be used this way. This possession ignores any immunity to possession effects (such as that granted by the (protection from evil spell).\n\nIf the avatar would have its possession effect interrupted (such as being exorcized, banished, etc.), the avatar is instead banished for 1d4 rounds. When this banish duration ends, the avatar is automatically resummoned and repossesses the summoner, bypassing any effect that would prevent a summoning or possession effect.\n\nIf the avatar would die (or be unsummoned due to reaching 0 hit points), it cannot be resummoned until their summoner rests and regains spell points. The summoner may use the Conjuration sphere Call the Departed talent to resummon their avatar, but only to “revive” it and allow it to repossess the summoner per this ability.\n\nWhenever the avatar would be granted an action through its summoner’s class features, the avatar uses their summoner's occupied square(s) to determine the avatar’s reach, line of sight, etc. as though the avatar occupied the summoner’s space. The avatar determines their attack bonus for any attack made this way using their summoner’s base attack bonus and the avatar’s ability scores, feats, and other modifiers. Penalties to attack rolls are still incurred (such as attacking through cover or against concealment). If the avatar would be granted movement (such as being granted a move action or performing a bull rush combat maneuver), the avatar may have their summoner perform that movement, limited by the summoner’s total movement and movement modes. If the avatar makes an attack or uses an ability that could be maintained (such as a grapple, or grapple maintained by the grab universal monster ability), the summoner must spend any required actions to maintain that ability or action, and suffers any penalties associated with maintaining that action.\n\n**Unsummonable (Ex):** The avatar cannot be summoned as a normal Conjuration companion (instead always passively possessing the summoner as detailed in unbodied) unless otherwise specified, such as by the unbodied avatar archetype ability. When the avatar’s summoner would bypass the avatar’s unsummonable ability (normally by summoning the avatar, or using an ability such as the void conduit’s merge with the void ability), the avatar is not banished for having its possession interrupted (and ceases possessing the summoner until the summon effect’s duration ends).",
+  "abilities": {
+   "str": 18,
+   "dex": 18,
+   "con": 16,
+   "int": 8,
+   "wis": 12,
+   "cha": 12
+  },
+  "source": "Diamond Classes: Avatar Companion and Void Archetypes",
+  "url": "Spheres-Of-Might/Striker/Voidrusher#avatar-conjuration-companion"
+ }
+}
