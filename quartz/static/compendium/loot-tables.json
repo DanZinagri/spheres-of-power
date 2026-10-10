@@ -1,0 +1,988 @@
+{
+ "source": "Archives of Nethys (www.aonprd.com), Pathfinder RPG Core Rulebook",
+ "perEncounter": [
+  {
+   "level": 1,
+   "slow": 170.0,
+   "medium": 260.0,
+   "fast": 400.0
+  },
+  {
+   "level": 2,
+   "slow": 350.0,
+   "medium": 550.0,
+   "fast": 800.0
+  },
+  {
+   "level": 3,
+   "slow": 550.0,
+   "medium": 800.0,
+   "fast": 1200.0
+  },
+  {
+   "level": 4,
+   "slow": 750.0,
+   "medium": 1150.0,
+   "fast": 1700.0
+  },
+  {
+   "level": 5,
+   "slow": 1000.0,
+   "medium": 1550.0,
+   "fast": 2300.0
+  },
+  {
+   "level": 6,
+   "slow": 1350.0,
+   "medium": 2000.0,
+   "fast": 3000.0
+  },
+  {
+   "level": 7,
+   "slow": 1750.0,
+   "medium": 2600.0,
+   "fast": 3900.0
+  },
+  {
+   "level": 8,
+   "slow": 2200.0,
+   "medium": 3350.0,
+   "fast": 6000.0
+  },
+  {
+   "level": 9,
+   "slow": 2850.0,
+   "medium": 4250.0,
+   "fast": 6400.0
+  },
+  {
+   "level": 10,
+   "slow": 3650.0,
+   "medium": 5450.0,
+   "fast": 8200.0
+  },
+  {
+   "level": 11,
+   "slow": 4650.0,
+   "medium": 7000.0,
+   "fast": 10500.0
+  },
+  {
+   "level": 12,
+   "slow": 6000.0,
+   "medium": 9000.0,
+   "fast": 13500.0
+  },
+  {
+   "level": 13,
+   "slow": 7750.0,
+   "medium": 11600.0,
+   "fast": 17500.0
+  },
+  {
+   "level": 14,
+   "slow": 10000.0,
+   "medium": 15000.0,
+   "fast": 22000.0
+  },
+  {
+   "level": 15,
+   "slow": 13000.0,
+   "medium": 19500.0,
+   "fast": 29000.0
+  },
+  {
+   "level": 16,
+   "slow": 16500.0,
+   "medium": 25000.0,
+   "fast": 38000.0
+  },
+  {
+   "level": 17,
+   "slow": 22000.0,
+   "medium": 32000.0,
+   "fast": 48000.0
+  },
+  {
+   "level": 18,
+   "slow": 28000.0,
+   "medium": 41000.0,
+   "fast": 72000.0
+  },
+  {
+   "level": 19,
+   "slow": 35000.0,
+   "medium": 53000.0,
+   "fast": 79000.0
+  },
+  {
+   "level": 20,
+   "slow": 44000.0,
+   "medium": 67000.0,
+   "fast": 100000.0
+  }
+ ],
+ "kinds": [
+  {
+   "minor": [
+    1,
+    4
+   ],
+   "medium": [
+    1,
+    10
+   ],
+   "major": [
+    1,
+    10
+   ],
+   "item": "Armor and shields"
+  },
+  {
+   "minor": [
+    5,
+    9
+   ],
+   "medium": [
+    11,
+    20
+   ],
+   "major": [
+    11,
+    20
+   ],
+   "item": "Weapons"
+  },
+  {
+   "minor": [
+    10,
+    44
+   ],
+   "medium": [
+    21,
+    30
+   ],
+   "major": [
+    21,
+    25
+   ],
+   "item": "Potions"
+  },
+  {
+   "minor": [
+    45,
+    46
+   ],
+   "medium": [
+    31,
+    40
+   ],
+   "major": [
+    26,
+    35
+   ],
+   "item": "Rings"
+  },
+  {
+   "minor": null,
+   "medium": [
+    41,
+    50
+   ],
+   "major": [
+    36,
+    45
+   ],
+   "item": "Rods"
+  },
+  {
+   "minor": [
+    47,
+    81
+   ],
+   "medium": [
+    51,
+    65
+   ],
+   "major": [
+    46,
+    55
+   ],
+   "item": "Scrolls"
+  },
+  {
+   "minor": null,
+   "medium": [
+    66,
+    68
+   ],
+   "major": [
+    56,
+    75
+   ],
+   "item": "Staves"
+  },
+  {
+   "minor": [
+    82,
+    91
+   ],
+   "medium": [
+    69,
+    83
+   ],
+   "major": [
+    56,
+    80
+   ],
+   "item": "Wands"
+  },
+  {
+   "minor": [
+    92,
+    100
+   ],
+   "medium": [
+    84,
+    100
+   ],
+   "major": [
+    81,
+    100
+   ],
+   "item": "Wondrous items"
+  }
+ ],
+ "armor": [
+  {
+   "minor": [
+    1,
+    60
+   ],
+   "medium": [
+    1,
+    5
+   ],
+   "major": null,
+   "item": "+1 shield",
+   "price": 1000.0
+  },
+  {
+   "minor": [
+    61,
+    80
+   ],
+   "medium": [
+    6,
+    10
+   ],
+   "major": null,
+   "item": "+1 armor",
+   "price": 1000.0
+  },
+  {
+   "minor": [
+    81,
+    85
+   ],
+   "medium": [
+    11,
+    20
+   ],
+   "major": null,
+   "item": "+2 shield",
+   "price": 4000.0
+  },
+  {
+   "minor": [
+    86,
+    87
+   ],
+   "medium": [
+    21,
+    30
+   ],
+   "major": null,
+   "item": "+2 armor",
+   "price": 4000.0
+  },
+  {
+   "minor": null,
+   "medium": [
+    31,
+    40
+   ],
+   "major": [
+    1,
+    8
+   ],
+   "item": "+3 shield",
+   "price": 9000.0
+  },
+  {
+   "minor": null,
+   "medium": [
+    41,
+    50
+   ],
+   "major": [
+    9,
+    16
+   ],
+   "item": "+3 armor",
+   "price": 9000.0
+  },
+  {
+   "minor": null,
+   "medium": [
+    51,
+    55
+   ],
+   "major": [
+    17,
+    27
+   ],
+   "item": "+4 shield",
+   "price": 16000.0
+  },
+  {
+   "minor": null,
+   "medium": [
+    56,
+    57
+   ],
+   "major": [
+    28,
+    38
+   ],
+   "item": "+4 armor",
+   "price": 16000.0
+  },
+  {
+   "minor": null,
+   "medium": null,
+   "major": [
+    39,
+    49
+   ],
+   "item": "+5 shield",
+   "price": 25000.0
+  },
+  {
+   "minor": null,
+   "medium": null,
+   "major": [
+    50,
+    57
+   ],
+   "item": "+5 armor",
+   "price": 25000.0
+  },
+  {
+   "minor": null,
+   "medium": null,
+   "major": null,
+   "item": "+6 armor/shield 1",
+   "price": 36000.0
+  },
+  {
+   "minor": null,
+   "medium": null,
+   "major": null,
+   "item": "+7 armor/shield 1",
+   "price": 49000.0
+  },
+  {
+   "minor": null,
+   "medium": null,
+   "major": null,
+   "item": "+8 armor/shield 1",
+   "price": 64000.0
+  },
+  {
+   "minor": null,
+   "medium": null,
+   "major": null,
+   "item": "+9 armor/shield 1",
+   "price": 81000.0
+  },
+  {
+   "minor": null,
+   "medium": null,
+   "major": null,
+   "item": "+10 armor/shield 1",
+   "price": 100000.0
+  },
+  {
+   "minor": [
+    88,
+    89
+   ],
+   "medium": [
+    58,
+    60
+   ],
+   "major": [
+    58,
+    60
+   ],
+   "item": "Specific armor 2",
+   "price": 0.0
+  },
+  {
+   "minor": [
+    90,
+    91
+   ],
+   "medium": [
+    61,
+    63
+   ],
+   "major": [
+    61,
+    63
+   ],
+   "item": "Specific shield 3",
+   "price": 0.0
+  },
+  {
+   "minor": [
+    92,
+    100
+   ],
+   "medium": [
+    64,
+    100
+   ],
+   "major": [
+    64,
+    100
+   ],
+   "item": "Special ability and roll again 4",
+   "price": 0.0
+  }
+ ],
+ "weapons": [
+  {
+   "minor": [
+    1,
+    70
+   ],
+   "medium": [
+    1,
+    10
+   ],
+   "major": null,
+   "item": "+1",
+   "price": 2000.0
+  },
+  {
+   "minor": [
+    71,
+    85
+   ],
+   "medium": [
+    11,
+    29
+   ],
+   "major": null,
+   "item": "+2",
+   "price": 8000.0
+  },
+  {
+   "minor": null,
+   "medium": [
+    30,
+    58
+   ],
+   "major": [
+    1,
+    20
+   ],
+   "item": "+3",
+   "price": 18000.0
+  },
+  {
+   "minor": null,
+   "medium": [
+    59,
+    62
+   ],
+   "major": [
+    21,
+    38
+   ],
+   "item": "+4",
+   "price": 32000.0
+  },
+  {
+   "minor": null,
+   "medium": null,
+   "major": [
+    39,
+    49
+   ],
+   "item": "+5",
+   "price": 50000.0
+  },
+  {
+   "minor": null,
+   "medium": null,
+   "major": null,
+   "item": "+6 2",
+   "price": 72000.0
+  },
+  {
+   "minor": null,
+   "medium": null,
+   "major": null,
+   "item": "+7 2",
+   "price": 98000.0
+  },
+  {
+   "minor": null,
+   "medium": null,
+   "major": null,
+   "item": "+8 2",
+   "price": 128000.0
+  },
+  {
+   "minor": null,
+   "medium": null,
+   "major": null,
+   "item": "+9 2",
+   "price": 162000.0
+  },
+  {
+   "minor": null,
+   "medium": null,
+   "major": null,
+   "item": "+10 2",
+   "price": 200000.0
+  },
+  {
+   "minor": [
+    86,
+    90
+   ],
+   "medium": [
+    63,
+    68
+   ],
+   "major": [
+    50,
+    63
+   ],
+   "item": "Specifc weapon 3",
+   "price": 0.0
+  },
+  {
+   "minor": [
+    92,
+    100
+   ],
+   "medium": [
+    69,
+    100
+   ],
+   "major": [
+    64,
+    100
+   ],
+   "item": "Special ability and roll again 4",
+   "price": 0.0
+  }
+ ],
+ "potions": [
+  {
+   "minor": [
+    1,
+    20
+   ],
+   "medium": null,
+   "major": null,
+   "level": 0,
+   "cl": 1
+  },
+  {
+   "minor": [
+    21,
+    60
+   ],
+   "medium": [
+    1,
+    20
+   ],
+   "major": null,
+   "level": 1,
+   "cl": 1
+  },
+  {
+   "minor": [
+    61,
+    100
+   ],
+   "medium": [
+    21,
+    60
+   ],
+   "major": [
+    1,
+    20
+   ],
+   "level": 2,
+   "cl": 3
+  },
+  {
+   "minor": null,
+   "medium": [
+    61,
+    100
+   ],
+   "major": [
+    21,
+    100
+   ],
+   "level": 3,
+   "cl": 5
+  }
+ ],
+ "scrolls": [
+  {
+   "minor": [
+    1,
+    5
+   ],
+   "medium": null,
+   "major": null,
+   "level": 0,
+   "cl": 1
+  },
+  {
+   "minor": [
+    6,
+    50
+   ],
+   "medium": null,
+   "major": null,
+   "level": 1,
+   "cl": 1
+  },
+  {
+   "minor": [
+    51,
+    95
+   ],
+   "medium": [
+    1,
+    5
+   ],
+   "major": null,
+   "level": 2,
+   "cl": 3
+  },
+  {
+   "minor": [
+    96,
+    100
+   ],
+   "medium": [
+    6,
+    65
+   ],
+   "major": null,
+   "level": 3,
+   "cl": 5
+  },
+  {
+   "minor": null,
+   "medium": [
+    66,
+    95
+   ],
+   "major": [
+    1,
+    5
+   ],
+   "level": 4,
+   "cl": 7
+  },
+  {
+   "minor": null,
+   "medium": [
+    96,
+    100
+   ],
+   "major": [
+    6,
+    50
+   ],
+   "level": 5,
+   "cl": 9
+  },
+  {
+   "minor": null,
+   "medium": null,
+   "major": [
+    51,
+    70
+   ],
+   "level": 6,
+   "cl": 11
+  },
+  {
+   "minor": null,
+   "medium": null,
+   "major": [
+    71,
+    85
+   ],
+   "level": 7,
+   "cl": 13
+  },
+  {
+   "minor": null,
+   "medium": null,
+   "major": [
+    86,
+    95
+   ],
+   "level": 8,
+   "cl": 15
+  },
+  {
+   "minor": null,
+   "medium": null,
+   "major": [
+    96,
+    100
+   ],
+   "level": 9,
+   "cl": 17
+  }
+ ],
+ "wands": [
+  {
+   "minor": [
+    1,
+    5
+   ],
+   "medium": null,
+   "major": null,
+   "level": 0,
+   "cl": 1
+  },
+  {
+   "minor": [
+    6,
+    60
+   ],
+   "medium": null,
+   "major": null,
+   "level": 1,
+   "cl": 1
+  },
+  {
+   "minor": [
+    61,
+    100
+   ],
+   "medium": [
+    1,
+    60
+   ],
+   "major": null,
+   "level": 2,
+   "cl": 3
+  },
+  {
+   "minor": null,
+   "medium": [
+    61,
+    100
+   ],
+   "major": [
+    1,
+    60
+   ],
+   "level": 3,
+   "cl": 5
+  },
+  {
+   "minor": null,
+   "medium": null,
+   "major": [
+    61,
+    100
+   ],
+   "level": 4,
+   "cl": 7
+  }
+ ],
+ "curses": [
+  {
+   "range": [
+    1,
+    15
+   ],
+   "curse": "Delusion"
+  },
+  {
+   "range": [
+    16,
+    35
+   ],
+   "curse": "Opposite effect or target"
+  },
+  {
+   "range": [
+    36,
+    45
+   ],
+   "curse": "Intermittent functioning"
+  },
+  {
+   "range": [
+    46,
+    60
+   ],
+   "curse": "Requirement"
+  },
+  {
+   "range": [
+    61,
+    75
+   ],
+   "curse": "Drawback"
+  },
+  {
+   "range": [
+    76,
+    90
+   ],
+   "curse": "Completely different effect"
+  },
+  {
+   "range": [
+    91,
+    100
+   ],
+   "curse": "Substitute specific cursed item"
+  }
+ ],
+ "gems": [
+  {
+   "grade": "Low-Quality Gems",
+   "value": 10.0,
+   "stones": [
+    "agates",
+    "azurite",
+    "blue quartz",
+    "hematite",
+    "lapis lazuli",
+    "malachite",
+    "obsidian",
+    "rhodochrosite",
+    "tigereye",
+    "turquoise",
+    "freshwater (irregular) pearl"
+   ]
+  },
+  {
+   "grade": "Semi-Precious Gems",
+   "value": 50.0,
+   "stones": [
+    "bloodstone",
+    "carnelian",
+    "chalcedony",
+    "chrysoprase",
+    "citrine",
+    "jasper",
+    "moonstone",
+    "onyx",
+    "peridot",
+    "rock crystal (clear quartz)",
+    "sard",
+    "sardonyx",
+    "rose, smoky, or star rose quartz",
+    "zircon"
+   ]
+  },
+  {
+   "grade": "Medium Quality Gemstones",
+   "value": 100.0,
+   "stones": [
+    "amber",
+    "amethyst",
+    "chrysoberyl",
+    "coral",
+    "red or brown-green garnet",
+    "jade",
+    "jet",
+    "white, golden, pink, or silver pearl",
+    "red, red-brown, or deep green spinel",
+    "tourmaline"
+   ]
+  },
+  {
+   "grade": "High Quality Gemstones",
+   "value": 500.0,
+   "stones": [
+    "alexandrite",
+    "aquamarine",
+    "violet garnet",
+    "black pearl",
+    "deep blue spinel",
+    "golden yellow topaz"
+   ]
+  },
+  {
+   "grade": "Jewels",
+   "value": 1000.0,
+   "stones": [
+    "emerald",
+    "white, black, or fire opal",
+    "blue sapphire",
+    "fiery yellow or rich purple corundum",
+    "blue or black star sapphire"
+   ]
+  },
+  {
+   "grade": "Grand Jewels",
+   "value": 5000.0,
+   "stones": [
+    "clearest bright green emerald",
+    "diamond",
+    "jacinth",
+    "ruby"
+   ]
+  }
+ ],
+ "valuables": [
+  {
+   "name": "Fine Artwork",
+   "min": 100.0,
+   "max": 1000.0
+  },
+  {
+   "name": "Jewelry, Minor",
+   "min": 50.0,
+   "max": 50.0
+  },
+  {
+   "name": "Jewelry, Normal",
+   "min": 100.0,
+   "max": 500.0
+  },
+  {
+   "name": "Jewelry, Precious",
+   "min": 500.0,
+   "max": 5000.0
+  },
+  {
+   "name": "Masterwork Tools",
+   "min": 100.0,
+   "max": 300.0
+  }
+ ]
+}

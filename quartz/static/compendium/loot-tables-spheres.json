@@ -1,0 +1,3324 @@
+{
+ "url": "Other-Pages/Loot-Tables",
+ "bands": [
+  {
+   "name": "Minor",
+   "title": "Minor Items (0-1,000 gp)",
+   "url": "Other-Pages/Loot-Tables#table-minor-items-0-1000-gp",
+   "min": 0.0,
+   "max": 1000.0,
+   "die": 100,
+   "entries": [
+    {
+     "lo": 1,
+     "hi": 1,
+     "name": "Apprentice’s first wand",
+     "type": "Spell Engine"
+    },
+    {
+     "lo": 2,
+     "hi": 2,
+     "name": "Basic wand",
+     "type": "Spell Engine"
+    },
+    {
+     "lo": 3,
+     "hi": 3,
+     "name": "Battle blessing",
+     "type": "Compound"
+    },
+    {
+     "lo": 4,
+     "hi": 4,
+     "name": "Blessed stick",
+     "type": "Compound"
+    },
+    {
+     "lo": 5,
+     "hi": 5,
+     "name": "Break enchantment potion",
+     "type": "Compound"
+    },
+    {
+     "lo": 6,
+     "hi": 6,
+     "name": "Brew of battle reflexes",
+     "type": "Compound"
+    },
+    {
+     "lo": 7,
+     "hi": 7,
+     "name": "Cape of resistance +1",
+     "type": "Charm"
+    },
+    {
+     "lo": 8,
+     "hi": 8,
+     "name": "Chainblade spell engine",
+     "type": "Weapon"
+    },
+    {
+     "lo": 9,
+     "hi": 9,
+     "name": "Chattergem",
+     "type": "Spell Engine"
+    },
+    {
+     "lo": 10,
+     "hi": 19,
+     "name": "Common cure",
+     "type": "Compound"
+    },
+    {
+     "lo": 20,
+     "hi": 20,
+     "name": "Cursed stick",
+     "type": "Compound"
+    },
+    {
+     "lo": 21,
+     "hi": 21,
+     "name": "Elemental oil",
+     "type": "Compound"
+    },
+    {
+     "lo": 22,
+     "hi": 22,
+     "name": "Energy converter",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 23,
+     "hi": 23,
+     "name": "Gauntlet of maneuvers +1",
+     "type": "Charm"
+    },
+    {
+     "lo": 24,
+     "hi": 24,
+     "name": "Gem of energy ward",
+     "type": "Compound"
+    },
+    {
+     "lo": 25,
+     "hi": 34,
+     "name": "Healing potion, standard",
+     "type": "Compound"
+    },
+    {
+     "lo": 35,
+     "hi": 44,
+     "name": "Healing potion, improved",
+     "type": "Compound"
+    },
+    {
+     "lo": 45,
+     "hi": 50,
+     "name": "Healing potion, greater",
+     "type": "Compound"
+    },
+    {
+     "lo": 51,
+     "hi": 51,
+     "name": "Infravision lenses",
+     "type": "Compound"
+    },
+    {
+     "lo": 52,
+     "hi": 52,
+     "name": "Magical toolkit +1",
+     "type": "Charm"
+    },
+    {
+     "lo": 53,
+     "hi": 53,
+     "name": "Magical toolkit +2",
+     "type": "Charm"
+    },
+    {
+     "lo": 54,
+     "hi": 54,
+     "name": "Oil of bleeding serum",
+     "type": "Compound"
+    },
+    {
+     "lo": 55,
+     "hi": 55,
+     "name": "Oil of enhancement +1",
+     "type": "Compound"
+    },
+    {
+     "lo": 56,
+     "hi": 56,
+     "name": "Oil of enhancement +2",
+     "type": "Compound"
+    },
+    {
+     "lo": 57,
+     "hi": 57,
+     "name": "Oil of enhancement +3",
+     "type": "Compound"
+    },
+    {
+     "lo": 58,
+     "hi": 58,
+     "name": "Oil of enhancement +4",
+     "type": "Compound"
+    },
+    {
+     "lo": 59,
+     "hi": 59,
+     "name": "Oil of enhancement +5",
+     "type": "Compound"
+    },
+    {
+     "lo": 60,
+     "hi": 60,
+     "name": "Oil of forged reach",
+     "type": "Compound"
+    },
+    {
+     "lo": 61,
+     "hi": 61,
+     "name": "Oil of keen edge",
+     "type": "Compound"
+    },
+    {
+     "lo": 62,
+     "hi": 62,
+     "name": "Potion of agility +2",
+     "type": "Compound"
+    },
+    {
+     "lo": 63,
+     "hi": 63,
+     "name": "Potion of agility +4",
+     "type": "Compound"
+    },
+    {
+     "lo": 64,
+     "hi": 64,
+     "name": "Potion of the amphibian, lesser",
+     "type": "Compound"
+    },
+    {
+     "lo": 65,
+     "hi": 65,
+     "name": "Potion of breathlessness",
+     "type": "Compound"
+    },
+    {
+     "lo": 66,
+     "hi": 66,
+     "name": "Potion of cognition +2",
+     "type": "Compound"
+    },
+    {
+     "lo": 67,
+     "hi": 67,
+     "name": "Potion of cognition +4",
+     "type": "Compound"
+    },
+    {
+     "lo": 68,
+     "hi": 68,
+     "name": "Potion of confidence+2",
+     "type": "Compound"
+    },
+    {
+     "lo": 69,
+     "hi": 69,
+     "name": "Potion of confidence+4",
+     "type": "Compound"
+    },
+    {
+     "lo": 70,
+     "hi": 70,
+     "name": "Potion of darkvision",
+     "type": "Compound"
+    },
+    {
+     "lo": 71,
+     "hi": 71,
+     "name": "Potion of durability +2",
+     "type": "Compound"
+    },
+    {
+     "lo": 72,
+     "hi": 72,
+     "name": "Potion of durability +4",
+     "type": "Compound"
+    },
+    {
+     "lo": 73,
+     "hi": 73,
+     "name": "Potion of energy resistance",
+     "type": "Compound"
+    },
+    {
+     "lo": 74,
+     "hi": 74,
+     "name": "Potion of enlargement/reduction, lesser",
+     "type": "Compound"
+    },
+    {
+     "lo": 75,
+     "hi": 75,
+     "name": "Potion of enlargement/reduction, greater",
+     "type": "Compound"
+    },
+    {
+     "lo": 76,
+     "hi": 76,
+     "name": "Potion of hide in darkness",
+     "type": "Compound"
+    },
+    {
+     "lo": 77,
+     "hi": 77,
+     "name": "Potion of insight +2",
+     "type": "Compound"
+    },
+    {
+     "lo": 78,
+     "hi": 78,
+     "name": "Potion of insight +4",
+     "type": "Compound"
+    },
+    {
+     "lo": 79,
+     "hi": 79,
+     "name": "Potion of might +2",
+     "type": "Compound"
+    },
+    {
+     "lo": 80,
+     "hi": 80,
+     "name": "Potion of might +4",
+     "type": "Compound"
+    },
+    {
+     "lo": 81,
+     "hi": 81,
+     "name": "Potion of winged flight, lesser",
+     "type": "Compound"
+    },
+    {
+     "lo": 82,
+     "hi": 85,
+     "name": "Restoration potion, body",
+     "type": "Compound"
+    },
+    {
+     "lo": 86,
+     "hi": 89,
+     "name": "Restoration potion, mind",
+     "type": "Compound"
+    },
+    {
+     "lo": 90,
+     "hi": 92,
+     "name": "Restoration potion, soul",
+     "type": "Compound"
+    },
+    {
+     "lo": 93,
+     "hi": 93,
+     "name": "Revitalization potion, minor",
+     "type": "Compound"
+    },
+    {
+     "lo": 94,
+     "hi": 94,
+     "name": "Revitalization potion, standard",
+     "type": "Compound"
+    },
+    {
+     "lo": 95,
+     "hi": 95,
+     "name": "Revitalization potion, improved",
+     "type": "Compound"
+    },
+    {
+     "lo": 96,
+     "hi": 96,
+     "name": "Revitalizing scroll, lesser",
+     "type": "Scroll"
+    },
+    {
+     "lo": 97,
+     "hi": 97,
+     "name": "Revitalizing scroll",
+     "type": "Scroll"
+    },
+    {
+     "lo": 98,
+     "hi": 98,
+     "name": "Scroll of the Silent Stroll",
+     "type": "Scroll"
+    },
+    {
+     "lo": 99,
+     "hi": 99,
+     "name": "Sneakster’s brew",
+     "type": "Compound"
+    },
+    {
+     "lo": 100,
+     "hi": 100,
+     "name": "Wand of truthtelling",
+     "type": "Spell Engine"
+    }
+   ]
+  },
+  {
+   "name": "Medium",
+   "title": "Medium Items (1,001-10,000 gp)",
+   "url": "Other-Pages/Loot-Tables#table-medium-items-1001-10000-gp",
+   "min": 1001.0,
+   "max": 10000.0,
+   "die": 100,
+   "entries": [
+    {
+     "lo": 1,
+     "hi": 1,
+     "name": "+1 Implement",
+     "type": "Any one sphere"
+    },
+    {
+     "lo": 2,
+     "hi": 2,
+     "name": "+1 Implement",
+     "type": "Any two spheres"
+    },
+    {
+     "lo": 3,
+     "hi": 3,
+     "name": "+2 Implement",
+     "type": "Any one sphere"
+    },
+    {
+     "lo": 4,
+     "hi": 4,
+     "name": "Aegis ring +1",
+     "type": "Charm"
+    },
+    {
+     "lo": 5,
+     "hi": 5,
+     "name": "Aegis ring +2",
+     "type": "Charm"
+    },
+    {
+     "lo": 6,
+     "hi": 6,
+     "name": "Belt of avian speed +2",
+     "type": "Charm"
+    },
+    {
+     "lo": 7,
+     "hi": 7,
+     "name": "Belt of mountains +2",
+     "type": "Charm"
+    },
+    {
+     "lo": 8,
+     "hi": 8,
+     "name": "Belt of wild might +2",
+     "type": "Charm"
+    },
+    {
+     "lo": 9,
+     "hi": 9,
+     "name": "Blasting stick",
+     "type": "Weapon"
+    },
+    {
+     "lo": 10,
+     "hi": 10,
+     "name": "Blessing of the fates +1",
+     "type": "Charm"
+    },
+    {
+     "lo": 11,
+     "hi": 11,
+     "name": "Blessing of the fates +2",
+     "type": "Charm"
+    },
+    {
+     "lo": 12,
+     "hi": 12,
+     "name": "Bloody mess",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 13,
+     "hi": 13,
+     "name": "Boots of striding",
+     "type": "Apparatus"
+    },
+    {
+     "lo": 14,
+     "hi": 14,
+     "name": "Bug-out scroll",
+     "type": "Scroll"
+    },
+    {
+     "lo": 15,
+     "hi": 15,
+     "name": "Cape of resistance +2",
+     "type": "Charm"
+    },
+    {
+     "lo": 16,
+     "hi": 16,
+     "name": "Cape of resistance +3",
+     "type": "Charm"
+    },
+    {
+     "lo": 17,
+     "hi": 17,
+     "name": "Corpse party",
+     "type": "Spell Engine"
+    },
+    {
+     "lo": 18,
+     "hi": 18,
+     "name": "Cursed sign",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 19,
+     "hi": 19,
+     "name": "Dagger of false death",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 20,
+     "hi": 20,
+     "name": "Disposable magic sword",
+     "type": "Compound"
+    },
+    {
+     "lo": 21,
+     "hi": 21,
+     "name": "Elemental ward",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 22,
+     "hi": 22,
+     "name": "Energy resisting ring (10)",
+     "type": "Charm"
+    },
+    {
+     "lo": 23,
+     "hi": 23,
+     "name": "Firefighter’s wand",
+     "type": "Spell Engine"
+    },
+    {
+     "lo": 24,
+     "hi": 24,
+     "name": "Flame bearer’s mask",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 25,
+     "hi": 25,
+     "name": "Flask of the dawn",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 26,
+     "hi": 26,
+     "name": "Foodmaker",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 27,
+     "hi": 27,
+     "name": "Fragment of destiny +1",
+     "type": "Charm"
+    },
+    {
+     "lo": 28,
+     "hi": 28,
+     "name": "Fragment of destiny +2",
+     "type": "Charm"
+    },
+    {
+     "lo": 29,
+     "hi": 29,
+     "name": "Full healing scroll",
+     "type": "Scroll"
+    },
+    {
+     "lo": 30,
+     "hi": 30,
+     "name": "Gauntlet of maneuvers +2",
+     "type": "Charm"
+    },
+    {
+     "lo": 31,
+     "hi": 31,
+     "name": "Gauntlet of maneuvers +3",
+     "type": "Charm"
+    },
+    {
+     "lo": 32,
+     "hi": 32,
+     "name": "Greater metamagic apparatus",
+     "type": "worth 10,000 gp"
+    },
+    {
+     "lo": 33,
+     "hi": 33,
+     "name": "Group healing scroll",
+     "type": "Scroll"
+    },
+    {
+     "lo": 34,
+     "hi": 34,
+     "name": "Hammer of expulsion",
+     "type": "Weapon"
+    },
+    {
+     "lo": 35,
+     "hi": 35,
+     "name": "Headband of alluring magnetism +2",
+     "type": "Charm"
+    },
+    {
+     "lo": 36,
+     "hi": 36,
+     "name": "Headband of genius +2",
+     "type": "Charm"
+    },
+    {
+     "lo": 37,
+     "hi": 37,
+     "name": "Headband of sages +2",
+     "type": "Charm"
+    },
+    {
+     "lo": 38,
+     "hi": 38,
+     "name": "Healer’s staff",
+     "type": "Implement"
+    },
+    {
+     "lo": 39,
+     "hi": 39,
+     "name": "Healing shiv",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 40,
+     "hi": 40,
+     "name": "Inspiring crest",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 41,
+     "hi": 41,
+     "name": "Invisible edge",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 42,
+     "hi": 42,
+     "name": "Lesser metamagic apparatus",
+     "type": "worth 2,500 gp"
+    },
+    {
+     "lo": 43,
+     "hi": 43,
+     "name": "Lesser metamagic apparatus",
+     "type": "worth 5,000 gp"
+    },
+    {
+     "lo": 44,
+     "hi": 44,
+     "name": "Lesser metamagic apparatus",
+     "type": "worth 10,000 gp"
+    },
+    {
+     "lo": 45,
+     "hi": 45,
+     "name": "Lightening wand",
+     "type": "Spell Engine"
+    },
+    {
+     "lo": 46,
+     "hi": 46,
+     "name": "Lucky charm",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 47,
+     "hi": 47,
+     "name": "Magical toolkit +5",
+     "type": "Charm"
+    },
+    {
+     "lo": 48,
+     "hi": 48,
+     "name": "Magical toolkit +10",
+     "type": "Charm"
+    },
+    {
+     "lo": 49,
+     "hi": 49,
+     "name": "Magic-shielding tattoo",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 50,
+     "hi": 50,
+     "name": "Mind-shielding ring",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 51,
+     "hi": 51,
+     "name": "Necklace of natural armor +1",
+     "type": "Charm"
+    },
+    {
+     "lo": 52,
+     "hi": 52,
+     "name": "Necklace of natural armor +2",
+     "type": "Charm"
+    },
+    {
+     "lo": 53,
+     "hi": 53,
+     "name": "Normal metamagic apparatus",
+     "type": "worth 5,000 gp"
+    },
+    {
+     "lo": 54,
+     "hi": 54,
+     "name": "Normal metamagic apparatus",
+     "type": "worth 10,000 gp"
+    },
+    {
+     "lo": 55,
+     "hi": 55,
+     "name": "Obstructing shield",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 56,
+     "hi": 56,
+     "name": "Oil of carthus rouge",
+     "type": "Compound"
+    },
+    {
+     "lo": 57,
+     "hi": 57,
+     "name": "Oil of freedom",
+     "type": "Compound"
+    },
+    {
+     "lo": 58,
+     "hi": 58,
+     "name": "Performer’s edge",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 59,
+     "hi": 59,
+     "name": "Pixie partner",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 60,
+     "hi": 60,
+     "name": "Pocket dimension",
+     "type": "Spell Engine"
+    },
+    {
+     "lo": 61,
+     "hi": 61,
+     "name": "Portable shell",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 62,
+     "hi": 62,
+     "name": "Portable room",
+     "type": "Spell Engine"
+    },
+    {
+     "lo": 63,
+     "hi": 63,
+     "name": "Potion of agility +6",
+     "type": "Compound"
+    },
+    {
+     "lo": 64,
+     "hi": 64,
+     "name": "Potion of the amphibian, greater",
+     "type": "Compound"
+    },
+    {
+     "lo": 65,
+     "hi": 65,
+     "name": "Potion of the amphibian, superior",
+     "type": "Compound"
+    },
+    {
+     "lo": 66,
+     "hi": 66,
+     "name": "Potion of cognition +6",
+     "type": "Compound"
+    },
+    {
+     "lo": 67,
+     "hi": 67,
+     "name": "Potion of confidence +6",
+     "type": "Compound"
+    },
+    {
+     "lo": 68,
+     "hi": 68,
+     "name": "Potion of durability +6",
+     "type": "Compound"
+    },
+    {
+     "lo": 69,
+     "hi": 69,
+     "name": "Potion of insight +6",
+     "type": "Compound"
+    },
+    {
+     "lo": 70,
+     "hi": 70,
+     "name": "Potion of might +6",
+     "type": "Compound"
+    },
+    {
+     "lo": 71,
+     "hi": 71,
+     "name": "Potion of powerful courage",
+     "type": "Compound"
+    },
+    {
+     "lo": 72,
+     "hi": 72,
+     "name": "Potion of waterwalking",
+     "type": "Compound"
+    },
+    {
+     "lo": 73,
+     "hi": 73,
+     "name": "Potion of winged flight, greater",
+     "type": "Compound"
+    },
+    {
+     "lo": 74,
+     "hi": 74,
+     "name": "Potion of winged flight, superior",
+     "type": "Compound"
+    },
+    {
+     "lo": 75,
+     "hi": 75,
+     "name": "Pugilist’s charm +1",
+     "type": "Charm"
+    },
+    {
+     "lo": 76,
+     "hi": 76,
+     "name": "Quickdraw scabbard",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 77,
+     "hi": 77,
+     "name": "Returning javelin",
+     "type": "Weapon"
+    },
+    {
+     "lo": 78,
+     "hi": 78,
+     "name": "Revitalization potion, greater",
+     "type": "Compound"
+    },
+    {
+     "lo": 79,
+     "hi": 79,
+     "name": "Revitalization potion, superior",
+     "type": "Compound"
+    },
+    {
+     "lo": 80,
+     "hi": 80,
+     "name": "Ring of shielding +1",
+     "type": "Charm"
+    },
+    {
+     "lo": 81,
+     "hi": 81,
+     "name": "Sharpening stone",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 82,
+     "hi": 82,
+     "name": "Shattering wand",
+     "type": "Spell Engine"
+    },
+    {
+     "lo": 83,
+     "hi": 83,
+     "name": "Shield of the vanguard",
+     "type": "Armor and Shields"
+    },
+    {
+     "lo": 84,
+     "hi": 84,
+     "name": "Space-linking gloves",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 85,
+     "hi": 85,
+     "name": "Specialist’s staff",
+     "type": "Implement"
+    },
+    {
+     "lo": 86,
+     "hi": 86,
+     "name": "Staunching wraps",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 87,
+     "hi": 87,
+     "name": "Striking ribbon",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 88,
+     "hi": 88,
+     "name": "Talisman of techniques +1",
+     "type": "Charm"
+    },
+    {
+     "lo": 89,
+     "hi": 89,
+     "name": "Tattoo of potion storing",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 90,
+     "hi": 90,
+     "name": "Timeshifting gloves",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 91,
+     "hi": 91,
+     "name": "Thunderbolt ring",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 92,
+     "hi": 92,
+     "name": "Totem wand",
+     "type": "Spell Engine"
+    },
+    {
+     "lo": 93,
+     "hi": 93,
+     "name": "Troll hunter’s friend",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 94,
+     "hi": 94,
+     "name": "Truth serum",
+     "type": "Compound"
+    },
+    {
+     "lo": 95,
+     "hi": 95,
+     "name": "Vampiric maw",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 96,
+     "hi": 96,
+     "name": "Vanishing vest",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 97,
+     "hi": 97,
+     "name": "War drum",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 98,
+     "hi": 98,
+     "name": "Ward and peace",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 99,
+     "hi": 99,
+     "name": "Ward and peace, improved",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 100,
+     "hi": 100,
+     "name": "Warrior’s blessing",
+     "type": "Marvelous Item"
+    }
+   ]
+  },
+  {
+   "name": "Major",
+   "title": "Major Items (10,001-40,000 gp)",
+   "url": "Other-Pages/Loot-Tables#table-major-items-10001-40000-gp",
+   "min": 10001.0,
+   "max": 40000.0,
+   "die": 100,
+   "entries": [
+    {
+     "lo": 1,
+     "hi": 1,
+     "name": "+2 Implement",
+     "type": "Any two spheres"
+    },
+    {
+     "lo": 2,
+     "hi": 2,
+     "name": "+3 Implement",
+     "type": "Any one sphere"
+    },
+    {
+     "lo": 3,
+     "hi": 3,
+     "name": "+3 Implement",
+     "type": "Any two spheres"
+    },
+    {
+     "lo": 4,
+     "hi": 4,
+     "name": "+4 Implement",
+     "type": "Any one sphere"
+    },
+    {
+     "lo": 5,
+     "hi": 5,
+     "name": "Aegis ring +3",
+     "type": "Charm"
+    },
+    {
+     "lo": 6,
+     "hi": 6,
+     "name": "Aegis ring +4",
+     "type": "Charm"
+    },
+    {
+     "lo": 7,
+     "hi": 7,
+     "name": "Amulet of channeled might",
+     "type": "Apparatus"
+    },
+    {
+     "lo": 8,
+     "hi": 8,
+     "name": "Amulet of channeled might, greater",
+     "type": "Apparatus"
+    },
+    {
+     "lo": 9,
+     "hi": 9,
+     "name": "Amulet of soulreaving",
+     "type": "Apparatus"
+    },
+    {
+     "lo": 10,
+     "hi": 10,
+     "name": "Banishing blade",
+     "type": "Weapon"
+    },
+    {
+     "lo": 11,
+     "hi": 11,
+     "name": "Banner of the saints",
+     "type": "Weapon"
+    },
+    {
+     "lo": 12,
+     "hi": 12,
+     "name": "Battle banner",
+     "type": "Implement"
+    },
+    {
+     "lo": 13,
+     "hi": 13,
+     "name": "Belt of avian speed +4",
+     "type": "Charm"
+    },
+    {
+     "lo": 14,
+     "hi": 14,
+     "name": "Belt of avian speed +6",
+     "type": "Charm"
+    },
+    {
+     "lo": 15,
+     "hi": 15,
+     "name": "Belt of mountains +4",
+     "type": "Charm"
+    },
+    {
+     "lo": 16,
+     "hi": 16,
+     "name": "Belt of mountains +6",
+     "type": "Charm"
+    },
+    {
+     "lo": 17,
+     "hi": 17,
+     "name": "Belt of wild might +4",
+     "type": "Charm"
+    },
+    {
+     "lo": 18,
+     "hi": 18,
+     "name": "Belt of wild might +6",
+     "type": "Charm"
+    },
+    {
+     "lo": 19,
+     "hi": 19,
+     "name": "Blessing of the fates +3",
+     "type": "Charm"
+    },
+    {
+     "lo": 20,
+     "hi": 20,
+     "name": "Bow of order",
+     "type": "Weapon"
+    },
+    {
+     "lo": 21,
+     "hi": 21,
+     "name": "Brawler’s vest",
+     "type": "Apparatus"
+    },
+    {
+     "lo": 22,
+     "hi": 22,
+     "name": "Cadaver converter",
+     "type": "Spell Engine"
+    },
+    {
+     "lo": 23,
+     "hi": 23,
+     "name": "Cape of resistance +4",
+     "type": "Charm"
+    },
+    {
+     "lo": 24,
+     "hi": 24,
+     "name": "Cape of resistance +5",
+     "type": "Charm"
+    },
+    {
+     "lo": 25,
+     "hi": 25,
+     "name": "Chainblade",
+     "type": "Weapon"
+    },
+    {
+     "lo": 26,
+     "hi": 26,
+     "name": "Claw of chaos",
+     "type": "Weapon"
+    },
+    {
+     "lo": 27,
+     "hi": 27,
+     "name": "Cleric’s ward",
+     "type": "Implement"
+    },
+    {
+     "lo": 28,
+     "hi": 28,
+     "name": "Commander’s blade",
+     "type": "Weapon"
+    },
+    {
+     "lo": 29,
+     "hi": 29,
+     "name": "Corpse party, greater",
+     "type": "Spell Engine"
+    },
+    {
+     "lo": 30,
+     "hi": 30,
+     "name": "Crystal laser axe",
+     "type": "Weapon"
+    },
+    {
+     "lo": 31,
+     "hi": 31,
+     "name": "Cursebreaker",
+     "type": "Implement"
+    },
+    {
+     "lo": 32,
+     "hi": 32,
+     "name": "Devouring axe",
+     "type": "Weapon"
+    },
+    {
+     "lo": 33,
+     "hi": 33,
+     "name": "Dimensional blocker",
+     "type": "Implement"
+    },
+    {
+     "lo": 34,
+     "hi": 34,
+     "name": "Duelist’s rapier",
+     "type": "Weapon"
+    },
+    {
+     "lo": 35,
+     "hi": 35,
+     "name": "Elemental attuners",
+     "type": "Implement"
+    },
+    {
+     "lo": 36,
+     "hi": 36,
+     "name": "Elixir of lifegiving",
+     "type": "Compound"
+    },
+    {
+     "lo": 37,
+     "hi": 37,
+     "name": "Emergency exit",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 38,
+     "hi": 38,
+     "name": "Energy resisting ring (20)",
+     "type": "Charm"
+    },
+    {
+     "lo": 39,
+     "hi": 39,
+     "name": "Fragment of destiny +3",
+     "type": "Charm"
+    },
+    {
+     "lo": 40,
+     "hi": 40,
+     "name": "Gauntlet of maneuvers +4",
+     "type": "Charm"
+    },
+    {
+     "lo": 41,
+     "hi": 41,
+     "name": "Gauntlet of maneuvers +5",
+     "type": "Charm"
+    },
+    {
+     "lo": 42,
+     "hi": 42,
+     "name": "Greater metamagic apparatus",
+     "type": "worth 20,000 gp"
+    },
+    {
+     "lo": 43,
+     "hi": 43,
+     "name": "Greater metamagic apparatus",
+     "type": "worth 40,000 gp"
+    },
+    {
+     "lo": 44,
+     "hi": 44,
+     "name": "Headband of alluring magnetism +4",
+     "type": "Charm"
+    },
+    {
+     "lo": 45,
+     "hi": 45,
+     "name": "Headband of alluring magnetism +6",
+     "type": "Charm"
+    },
+    {
+     "lo": 46,
+     "hi": 46,
+     "name": "Headband of genius +4",
+     "type": "Charm"
+    },
+    {
+     "lo": 47,
+     "hi": 47,
+     "name": "Headband of genius +6",
+     "type": "Charm"
+    },
+    {
+     "lo": 48,
+     "hi": 48,
+     "name": "Headband of psionic reach",
+     "type": "Apparatus"
+    },
+    {
+     "lo": 49,
+     "hi": 49,
+     "name": "Headband of sages +4",
+     "type": "Charm"
+    },
+    {
+     "lo": 50,
+     "hi": 50,
+     "name": "Headband of sages +6",
+     "type": "Charm"
+    },
+    {
+     "lo": 51,
+     "hi": 51,
+     "name": "Hungering pistol",
+     "type": "Weapon"
+    },
+    {
+     "lo": 52,
+     "hi": 52,
+     "name": "Iron wall",
+     "type": "Weapon"
+    },
+    {
+     "lo": 53,
+     "hi": 53,
+     "name": "Lesser metamagic apparatus",
+     "type": "worth 15,000 gp"
+    },
+    {
+     "lo": 54,
+     "hi": 54,
+     "name": "Lesser metamagic apparatus",
+     "type": "worth 20,000 gp"
+    },
+    {
+     "lo": 55,
+     "hi": 55,
+     "name": "Lucky pistol",
+     "type": "Weapon"
+    },
+    {
+     "lo": 56,
+     "hi": 56,
+     "name": "Magebane",
+     "type": "Weapon"
+    },
+    {
+     "lo": 57,
+     "hi": 57,
+     "name": "Magical toolkit +20",
+     "type": "Charm"
+    },
+    {
+     "lo": 58,
+     "hi": 58,
+     "name": "Mass appeal",
+     "type": "Implement"
+    },
+    {
+     "lo": 59,
+     "hi": 59,
+     "name": "Necklace of natural armor +3",
+     "type": "Charm"
+    },
+    {
+     "lo": 60,
+     "hi": 60,
+     "name": "Necklace of natural armor +4",
+     "type": "Charm"
+    },
+    {
+     "lo": 61,
+     "hi": 61,
+     "name": "Negater",
+     "type": "Implement"
+    },
+    {
+     "lo": 62,
+     "hi": 62,
+     "name": "Normal metamagic apparatus",
+     "type": "worth 20,000 gp"
+    },
+    {
+     "lo": 63,
+     "hi": 63,
+     "name": "Normal metamagic apparatus",
+     "type": "worth 30,000 gp"
+    },
+    {
+     "lo": 64,
+     "hi": 64,
+     "name": "Normal metamagic apparatus",
+     "type": "worth 40,000 gp"
+    },
+    {
+     "lo": 65,
+     "hi": 65,
+     "name": "Phasing glaive",
+     "type": "Weapon"
+    },
+    {
+     "lo": 66,
+     "hi": 66,
+     "name": "Pocket dimension, greater",
+     "type": "Spell Engine"
+    },
+    {
+     "lo": 67,
+     "hi": 67,
+     "name": "Pugilist’s charm +2",
+     "type": "Charm"
+    },
+    {
+     "lo": 68,
+     "hi": 68,
+     "name": "Rainbows bright",
+     "type": "Implement"
+    },
+    {
+     "lo": 69,
+     "hi": 69,
+     "name": "Reanimator’s shawl",
+     "type": "Implement"
+    },
+    {
+     "lo": 70,
+     "hi": 70,
+     "name": "Ring of elemental conflux",
+     "type": "Apparatus"
+    },
+    {
+     "lo": 71,
+     "hi": 71,
+     "name": "Ring of shielding +2",
+     "type": "Charm"
+    },
+    {
+     "lo": 72,
+     "hi": 72,
+     "name": "Ring of shielding +3",
+     "type": "Charm"
+    },
+    {
+     "lo": 73,
+     "hi": 73,
+     "name": "Runewrap",
+     "type": "Implement"
+    },
+    {
+     "lo": 74,
+     "hi": 74,
+     "name": "Searchglobe",
+     "type": "Implement"
+    },
+    {
+     "lo": 75,
+     "hi": 75,
+     "name": "Shadow axe",
+     "type": "Weapon"
+    },
+    {
+     "lo": 76,
+     "hi": 76,
+     "name": "Sheltering shield",
+     "type": "Armor and Shields"
+    },
+    {
+     "lo": 77,
+     "hi": 77,
+     "name": "Sheltering shield, specialized",
+     "type": "Armor and Shields"
+    },
+    {
+     "lo": 78,
+     "hi": 78,
+     "name": "Shrapnel glove",
+     "type": "Weapon"
+    },
+    {
+     "lo": 79,
+     "hi": 79,
+     "name": "Staff of boldness",
+     "type": "Implement"
+    },
+    {
+     "lo": 80,
+     "hi": 80,
+     "name": "Talisman of spell resistance",
+     "type": "Charm"
+    },
+    {
+     "lo": 81,
+     "hi": 81,
+     "name": "Talisman of techniques +2",
+     "type": "Charm"
+    },
+    {
+     "lo": 82,
+     "hi": 82,
+     "name": "Talisman of techniques +3",
+     "type": "Charm"
+    },
+    {
+     "lo": 83,
+     "hi": 83,
+     "name": "Talisman of the ancestor’s might",
+     "type": "Spell Engine"
+    },
+    {
+     "lo": 84,
+     "hi": 84,
+     "name": "Talisman of the ancestor’s will",
+     "type": "Spell Engine"
+    },
+    {
+     "lo": 85,
+     "hi": 85,
+     "name": "Tome of very forbidden lore",
+     "type": "Apparatus"
+    },
+    {
+     "lo": 86,
+     "hi": 86,
+     "name": "Unseen reacher",
+     "type": "Implement"
+    },
+    {
+     "lo": 87,
+     "hi": 87,
+     "name": "Wands of search and rescue",
+     "type": "Spell Engine"
+    },
+    {
+     "lo": 88,
+     "hi": 88,
+     "name": "Weather vane, greater",
+     "type": "Implement"
+    },
+    {
+     "lo": 89,
+     "hi": 89,
+     "name": "Whip of command",
+     "type": "Weapon"
+    },
+    {
+     "lo": 90,
+     "hi": 90,
+     "name": "Windowmakers",
+     "type": "Implement"
+    },
+    {
+     "lo": 91,
+     "hi": 100,
+     "name": "Reroll",
+     "type": ""
+    }
+   ]
+  },
+  {
+   "name": "Superior",
+   "title": "Superior Items (40,001-79,999 gp)",
+   "url": "Other-Pages/Loot-Tables#table-superior-items-40001-79999-gp",
+   "min": 40001.0,
+   "max": 79999.0,
+   "die": 20,
+   "entries": [
+    {
+     "lo": 1,
+     "hi": 1,
+     "name": "+5 Implement",
+     "type": "Any one sphere"
+    },
+    {
+     "lo": 2,
+     "hi": 2,
+     "name": "+5 Implement",
+     "type": "Any two spheres"
+    },
+    {
+     "lo": 3,
+     "hi": 3,
+     "name": "Aegis ring +5",
+     "type": "Charm"
+    },
+    {
+     "lo": 4,
+     "hi": 4,
+     "name": "Blurring bandana",
+     "type": "Apparatus"
+    },
+    {
+     "lo": 5,
+     "hi": 5,
+     "name": "Bracelet of everlasting friendship",
+     "type": "Apparatus"
+    },
+    {
+     "lo": 6,
+     "hi": 6,
+     "name": "Cloak of weather resistance, minor",
+     "type": "Apparatus"
+    },
+    {
+     "lo": 7,
+     "hi": 7,
+     "name": "Cloak of weather resistance, greater",
+     "type": "Apparatus"
+    },
+    {
+     "lo": 8,
+     "hi": 8,
+     "name": "Energy resisting ring (30)",
+     "type": "Charm"
+    },
+    {
+     "lo": 9,
+     "hi": 9,
+     "name": "Greater metamagic apparatus",
+     "type": "worth 60,000 gp"
+    },
+    {
+     "lo": 10,
+     "hi": 10,
+     "name": "Invisible gun",
+     "type": "Weapon"
+    },
+    {
+     "lo": 11,
+     "hi": 11,
+     "name": "Knife wife",
+     "type": "Weapon"
+    },
+    {
+     "lo": 12,
+     "hi": 12,
+     "name": "Liquid courage",
+     "type": "Implement"
+    },
+    {
+     "lo": 13,
+     "hi": 13,
+     "name": "Necklace of natural armor +5",
+     "type": "Charm"
+    },
+    {
+     "lo": 14,
+     "hi": 14,
+     "name": "Pugilist’s charm +3",
+     "type": "Charm"
+    },
+    {
+     "lo": 15,
+     "hi": 15,
+     "name": "Ring of shielding +4",
+     "type": "Charm"
+    },
+    {
+     "lo": 16,
+     "hi": 16,
+     "name": "Rod of lifegiving",
+     "type": "Apparatus"
+    },
+    {
+     "lo": 17,
+     "hi": 17,
+     "name": "Talisman of techniques +4",
+     "type": "Charm"
+    },
+    {
+     "lo": 18,
+     "hi": 18,
+     "name": "The shiniest of spears",
+     "type": "Weapon"
+    },
+    {
+     "lo": 19,
+     "hi": 19,
+     "name": "Wizard’s foe",
+     "type": "Implement"
+    },
+    {
+     "lo": 20,
+     "hi": 20,
+     "name": "Reroll",
+     "type": ""
+    }
+   ]
+  },
+  {
+   "name": "Grand",
+   "title": "Grand Items (80,000+ gp)",
+   "url": "Other-Pages/Loot-Tables#table-grand-items-80000-gp",
+   "min": 80000.0,
+   "max": 0,
+   "die": 20,
+   "entries": [
+    {
+     "lo": 1,
+     "hi": 1,
+     "name": "Alfur vendi",
+     "type": "Weapon"
+    },
+    {
+     "lo": 2,
+     "hi": 2,
+     "name": "Banishing blade, greater",
+     "type": "Weapon"
+    },
+    {
+     "lo": 3,
+     "hi": 3,
+     "name": "Dragonstone",
+     "type": "Apparatus"
+    },
+    {
+     "lo": 4,
+     "hi": 4,
+     "name": "Ejector",
+     "type": "Implement"
+    },
+    {
+     "lo": 5,
+     "hi": 5,
+     "name": "Elemental blade, greater",
+     "type": "Weapon"
+    },
+    {
+     "lo": 6,
+     "hi": 6,
+     "name": "Greater metamagic apparatus",
+     "type": "worth 80,000 gp"
+    },
+    {
+     "lo": 7,
+     "hi": 7,
+     "name": "Inferno blade",
+     "type": "Weapon"
+    },
+    {
+     "lo": 8,
+     "hi": 8,
+     "name": "Murderer’s wand",
+     "type": "Implement"
+    },
+    {
+     "lo": 9,
+     "hi": 9,
+     "name": "Pugilist’s charm +4",
+     "type": "Charm"
+    },
+    {
+     "lo": 10,
+     "hi": 10,
+     "name": "Pugilist’s charm +5",
+     "type": "Charm"
+    },
+    {
+     "lo": 11,
+     "hi": 11,
+     "name": "Railway gun",
+     "type": "Spell Engine"
+    },
+    {
+     "lo": 12,
+     "hi": 12,
+     "name": "Ring of shielding +5",
+     "type": "Charm"
+    },
+    {
+     "lo": 13,
+     "hi": 13,
+     "name": "Scourging symbol",
+     "type": "Apparatus"
+    },
+    {
+     "lo": 14,
+     "hi": 14,
+     "name": "Staff of annihilation",
+     "type": "Implement"
+    },
+    {
+     "lo": 15,
+     "hi": 15,
+     "name": "Sword of the storm",
+     "type": "Weapon"
+    },
+    {
+     "lo": 16,
+     "hi": 16,
+     "name": "Talisman of techniques +5",
+     "type": "Charm"
+    },
+    {
+     "lo": 17,
+     "hi": 17,
+     "name": "The golden flute",
+     "type": "Apparatus"
+    },
+    {
+     "lo": 18,
+     "hi": 18,
+     "name": "Warmage’s staff",
+     "type": "Implement"
+    },
+    {
+     "lo": 19,
+     "hi": 19,
+     "name": "Wizard’s foe, greater",
+     "type": "Implement"
+    },
+    {
+     "lo": 20,
+     "hi": 20,
+     "name": "Reroll",
+     "type": ""
+    }
+   ]
+  },
+  {
+   "name": "Artifacts",
+   "title": "Artifacts",
+   "url": "Other-Pages/Loot-Tables#table-artifacts",
+   "min": 0,
+   "max": 0,
+   "die": 20,
+   "entries": [
+    {
+     "lo": 1,
+     "hi": 1,
+     "name": "Crystal of the hero",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 2,
+     "hi": 2,
+     "name": "Deck of fates",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 3,
+     "hi": 3,
+     "name": "Goblinburner",
+     "type": "Fabled Item"
+    },
+    {
+     "lo": 4,
+     "hi": 4,
+     "name": "Hammer of majesty",
+     "type": "Fabled Item"
+    },
+    {
+     "lo": 5,
+     "hi": 5,
+     "name": "Holy king’s blade",
+     "type": "Weapon"
+    },
+    {
+     "lo": 6,
+     "hi": 6,
+     "name": "Jewel of chaos",
+     "type": "Fabled Item"
+    },
+    {
+     "lo": 7,
+     "hi": 7,
+     "name": "Key of azathoth",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 8,
+     "hi": 8,
+     "name": "Scroll of the ancients",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 9,
+     "hi": 9,
+     "name": "Shard of secrets",
+     "type": "Marvelous Item"
+    },
+    {
+     "lo": 10,
+     "hi": 10,
+     "name": "Shield of the spirit",
+     "type": "Fabled Item"
+    },
+    {
+     "lo": 11,
+     "hi": 11,
+     "name": "Staff of sacred light",
+     "type": "Fabled Item"
+    },
+    {
+     "lo": 12,
+     "hi": 12,
+     "name": "Talent crystal, regular",
+     "type": ""
+    },
+    {
+     "lo": 13,
+     "hi": 13,
+     "name": "Talent crystal, greater",
+     "type": ""
+    },
+    {
+     "lo": 14,
+     "hi": 14,
+     "name": "Talent crystal, grand",
+     "type": ""
+    },
+    {
+     "lo": 15,
+     "hi": 15,
+     "name": "The canceller",
+     "type": "Weapon"
+    },
+    {
+     "lo": 16,
+     "hi": 16,
+     "name": "Tome of eldritch lore",
+     "type": "Fabled Item"
+    },
+    {
+     "lo": 17,
+     "hi": 17,
+     "name": "Transformation wand",
+     "type": "Fabled Item"
+    },
+    {
+     "lo": 18,
+     "hi": 18,
+     "name": "Trident of the sea king",
+     "type": "Fabled Item"
+    },
+    {
+     "lo": 19,
+     "hi": 19,
+     "name": "White scythe",
+     "type": "Weapon"
+    },
+    {
+     "lo": 20,
+     "hi": 20,
+     "name": "Wishing stones",
+     "type": "Marvelous Item"
+    }
+   ]
+  }
+ ],
+ "compounds": [
+  {
+   "tier": 1,
+   "title": "Tier 1 Compounds",
+   "url": "Other-Pages/Loot-Tables#table-tier-1-compounds",
+   "entries": [
+    {
+     "lo": 1,
+     "hi": 3,
+     "name": "Acceleration dust, minor",
+     "price": 50.0
+    },
+    {
+     "lo": 4,
+     "hi": 6,
+     "name": "Common cure",
+     "price": 50.0
+    },
+    {
+     "lo": 7,
+     "hi": 8,
+     "name": "Flash step dust",
+     "price": 50.0
+    },
+    {
+     "lo": 9,
+     "hi": 10,
+     "name": "Hemorrhage poison, lesser",
+     "price": 50.0
+    },
+    {
+     "lo": 11,
+     "hi": 12,
+     "name": "Magical competence dust",
+     "price": 50.0
+    },
+    {
+     "lo": 13,
+     "hi": 14,
+     "name": "Magic detection incense",
+     "price": 50.0
+    },
+    {
+     "lo": 15,
+     "hi": 17,
+     "name": "Object repair oil, lesser",
+     "price": 50.0
+    },
+    {
+     "lo": 18,
+     "hi": 20,
+     "name": "Physician’s dust",
+     "price": 50.0
+    },
+    {
+     "lo": 21,
+     "hi": 24,
+     "name": "Protection potion, lesser",
+     "price": 50.0
+    },
+    {
+     "lo": 25,
+     "hi": 26,
+     "name": "Runesight potion",
+     "price": 50.0
+    },
+    {
+     "lo": 27,
+     "hi": 30,
+     "name": "Catfolk guise potion, minor",
+     "price": 100.0
+    },
+    {
+     "lo": 31,
+     "hi": 35,
+     "name": "Contingent energy resistance potion, minor",
+     "price": 100.0
+    },
+    {
+     "lo": 36,
+     "hi": 37,
+     "name": "Halfling black bread",
+     "price": 100.0
+    },
+    {
+     "lo": 38,
+     "hi": 39,
+     "name": "Size increase potion",
+     "price": 100.0
+    },
+    {
+     "lo": 40,
+     "hi": 41,
+     "name": "Size reduction potion",
+     "price": 100.0
+    },
+    {
+     "lo": 42,
+     "hi": 45,
+     "name": "Sphere focus stimulant (+1)",
+     "price": 100.0
+    },
+    {
+     "lo": 46,
+     "hi": 49,
+     "name": "Armored mage potion, lesser",
+     "price": 150.0
+    },
+    {
+     "lo": 50,
+     "hi": 51,
+     "name": "Barkskin elixir",
+     "price": 150.0
+    },
+    {
+     "lo": 52,
+     "hi": 55,
+     "name": "Crystal grenade, minor",
+     "price": 150.0
+    },
+    {
+     "lo": 56,
+     "hi": 60,
+     "name": "Splinter orb",
+     "price": 150.0
+    },
+    {
+     "lo": 61,
+     "hi": 65,
+     "name": "Wellspring bucket",
+     "price": 150.0
+    },
+    {
+     "lo": 66,
+     "hi": 69,
+     "name": "Acceleration dust, superior",
+     "price": 200.0
+    },
+    {
+     "lo": 70,
+     "hi": 71,
+     "name": "Current events incense",
+     "price": 200.0
+    },
+    {
+     "lo": 72,
+     "hi": 75,
+     "name": "Deathlessness potion",
+     "price": 200.0
+    },
+    {
+     "lo": 77,
+     "hi": 78,
+     "name": "Ghost sight potion, lesser",
+     "price": 200.0
+    },
+    {
+     "lo": 79,
+     "hi": 80,
+     "name": "Gourmand dust",
+     "price": 200.0
+    },
+    {
+     "lo": 81,
+     "hi": 85,
+     "name": "Hallow word oil",
+     "price": 200.0
+    },
+    {
+     "lo": 86,
+     "hi": 87,
+     "name": "Mother’s \\",
+     "price": 0.0
+    },
+    {
+     "lo": 88,
+     "hi": 89,
+     "name": "Past sight dust",
+     "price": 200.0
+    },
+    {
+     "lo": 90,
+     "hi": 91,
+     "name": "Relic blessing oil",
+     "price": 200.0
+    },
+    {
+     "lo": 92,
+     "hi": 93,
+     "name": "Saving stone",
+     "price": 200.0
+    },
+    {
+     "lo": 94,
+     "hi": 96,
+     "name": "Serendipity consecration oil",
+     "price": 200.0
+    },
+    {
+     "lo": 97,
+     "hi": 99,
+     "name": "Whetstone of honed edges, lesser",
+     "price": 200.0
+    },
+    {
+     "lo": 100,
+     "hi": 100,
+     "name": "GM’s choice",
+     "price": 0.0
+    }
+   ]
+  },
+  {
+   "tier": 2,
+   "title": "Tier 2 Compounds",
+   "url": "Other-Pages/Loot-Tables#table-tier-2-compounds",
+   "entries": [
+    {
+     "lo": 1,
+     "hi": 3,
+     "name": "Form breaker oil, lesser",
+     "price": 250.0
+    },
+    {
+     "lo": 4,
+     "hi": 5,
+     "name": "Protection potion, common",
+     "price": 250.0
+    },
+    {
+     "lo": 6,
+     "hi": 9,
+     "name": "Renewal elixir",
+     "price": 250.0
+    },
+    {
+     "lo": 10,
+     "hi": 13,
+     "name": "Spell cleansing elixir, lesser",
+     "price": 250.0
+    },
+    {
+     "lo": 14,
+     "hi": 17,
+     "name": "Acorn of pummeling branches, small",
+     "price": 300.0
+    },
+    {
+     "lo": 18,
+     "hi": 19,
+     "name": "Animate object oil, very weak",
+     "price": 300.0
+    },
+    {
+     "lo": 20,
+     "hi": 22,
+     "name": "Electric oil, minor",
+     "price": 300.0
+    },
+    {
+     "lo": 23,
+     "hi": 26,
+     "name": "Fire poison, minor",
+     "price": 300.0
+    },
+    {
+     "lo": 27,
+     "hi": 28,
+     "name": "Faerie fight dust",
+     "price": 350.0
+    },
+    {
+     "lo": 29,
+     "hi": 30,
+     "name": "Sphere focus stimulant (+2)",
+     "price": 400.0
+    },
+    {
+     "lo": 31,
+     "hi": 32,
+     "name": "Stoneskin elixir",
+     "price": 400.0
+    },
+    {
+     "lo": 33,
+     "hi": 36,
+     "name": "Acorn of pummeling branches, medium",
+     "price": 450.0
+    },
+    {
+     "lo": 37,
+     "hi": 40,
+     "name": "Clearsight dust",
+     "price": 450.0
+    },
+    {
+     "lo": 41,
+     "hi": 45,
+     "name": "Dark sacrifice potion, minor",
+     "price": 450.0
+    },
+    {
+     "lo": 46,
+     "hi": 48,
+     "name": "Extract blood construct oil, tiny",
+     "price": 450.0
+    },
+    {
+     "lo": 49,
+     "hi": 50,
+     "name": "Reveal alignment consecration oil",
+     "price": 450.0
+    },
+    {
+     "lo": 51,
+     "hi": 52,
+     "name": "Catfolk guise potion, moderate",
+     "price": 500.0
+    },
+    {
+     "lo": 53,
+     "hi": 54,
+     "name": "Contingent energy resistance potion, moderate",
+     "price": 500.0
+    },
+    {
+     "lo": 55,
+     "hi": 55,
+     "name": "Force bubble grenade",
+     "price": 500.0
+    },
+    {
+     "lo": 56,
+     "hi": 56,
+     "name": "Hemorrhage poison, greater",
+     "price": 500.0
+    },
+    {
+     "lo": 57,
+     "hi": 58,
+     "name": "Protection potion, uncommon",
+     "price": 500.0
+    },
+    {
+     "lo": 59,
+     "hi": 60,
+     "name": "Quintessential oil",
+     "price": 500.0
+    },
+    {
+     "lo": 61,
+     "hi": 62,
+     "name": "Vitalist’s secret tonic",
+     "price": 500.0
+    },
+    {
+     "lo": 63,
+     "hi": 64,
+     "name": "Manipulation poison",
+     "price": 550.0
+    },
+    {
+     "lo": 65,
+     "hi": 66,
+     "name": "Animate object oil, small",
+     "price": 600.0
+    },
+    {
+     "lo": 67,
+     "hi": 67,
+     "name": "Ghost sight potion, moderate",
+     "price": 600.0
+    },
+    {
+     "lo": 68,
+     "hi": 69,
+     "name": "Revealing dust, minor",
+     "price": 600.0
+    },
+    {
+     "lo": 70,
+     "hi": 72,
+     "name": "Vanishing dust, minor",
+     "price": 600.0
+    },
+    {
+     "lo": 73,
+     "hi": 75,
+     "name": "Whetstone of honed edges, moderate",
+     "price": 600.0
+    },
+    {
+     "lo": 76,
+     "hi": 77,
+     "name": "Clear skies incense",
+     "price": 650.0
+    },
+    {
+     "lo": 78,
+     "hi": 81,
+     "name": "Fire poison, moderate",
+     "price": 700.0
+    },
+    {
+     "lo": 82,
+     "hi": 85,
+     "name": "Armored mage potion, common",
+     "price": 750.0
+    },
+    {
+     "lo": 86,
+     "hi": 87,
+     "name": "Electric oil, moderate",
+     "price": 750.0
+    },
+    {
+     "lo": 88,
+     "hi": 89,
+     "name": "Monstrous transformation potion",
+     "price": 750.0
+    },
+    {
+     "lo": 90,
+     "hi": 91,
+     "name": "Protection potion, rare",
+     "price": 750.0
+    },
+    {
+     "lo": 92,
+     "hi": 92,
+     "name": "Scrying incense, lesser",
+     "price": 750.0
+    },
+    {
+     "lo": 93,
+     "hi": 94,
+     "name": "Stricture consecration oil",
+     "price": 750.0
+    },
+    {
+     "lo": 95,
+     "hi": 95,
+     "name": "Blindfold poison",
+     "price": 800.0
+    },
+    {
+     "lo": 96,
+     "hi": 97,
+     "name": "Object repair oil, greater",
+     "price": 800.0
+    },
+    {
+     "lo": 98,
+     "hi": 99,
+     "name": "See hazard potion, lesser",
+     "price": 800.0
+    },
+    {
+     "lo": 100,
+     "hi": 100,
+     "name": "GM’s choice",
+     "price": 0.0
+    }
+   ]
+  },
+  {
+   "tier": 3,
+   "title": "Tier 3 Compounds",
+   "url": "Other-Pages/Loot-Tables#table-tier-3-compounds",
+   "entries": [
+    {
+     "lo": 1,
+     "hi": 2,
+     "name": "Acorn of pummeling branches, medium",
+     "price": 450.0
+    },
+    {
+     "lo": 3,
+     "hi": 4,
+     "name": "Clearsight dust",
+     "price": 450.0
+    },
+    {
+     "lo": 5,
+     "hi": 6,
+     "name": "Dark sacrifice potion, minor",
+     "price": 450.0
+    },
+    {
+     "lo": 7,
+     "hi": 8,
+     "name": "Extract blood construct oil, tiny",
+     "price": 450.0
+    },
+    {
+     "lo": 9,
+     "hi": 10,
+     "name": "Reveal alignment consecration oil",
+     "price": 450.0
+    },
+    {
+     "lo": 11,
+     "hi": 12,
+     "name": "Catfolk guise potion, moderate",
+     "price": 500.0
+    },
+    {
+     "lo": 13,
+     "hi": 14,
+     "name": "Contingent energy resistance potion, moderate",
+     "price": 500.0
+    },
+    {
+     "lo": 15,
+     "hi": 15,
+     "name": "Force bubble grenade",
+     "price": 500.0
+    },
+    {
+     "lo": 16,
+     "hi": 16,
+     "name": "Hemorrhage poison, greater",
+     "price": 500.0
+    },
+    {
+     "lo": 17,
+     "hi": 18,
+     "name": "Protection potion, uncommon",
+     "price": 500.0
+    },
+    {
+     "lo": 19,
+     "hi": 20,
+     "name": "Quintessential oil",
+     "price": 500.0
+    },
+    {
+     "lo": 21,
+     "hi": 22,
+     "name": "Vitalist’s secret tonic",
+     "price": 500.0
+    },
+    {
+     "lo": 23,
+     "hi": 23,
+     "name": "Manipulation poison",
+     "price": 550.0
+    },
+    {
+     "lo": 24,
+     "hi": 24,
+     "name": "Animate object oil, weak",
+     "price": 600.0
+    },
+    {
+     "lo": 25,
+     "hi": 25,
+     "name": "Ghost sight potion, moderate",
+     "price": 600.0
+    },
+    {
+     "lo": 26,
+     "hi": 26,
+     "name": "Revealing dust, minor",
+     "price": 600.0
+    },
+    {
+     "lo": 27,
+     "hi": 28,
+     "name": "Vanishing dust, minor",
+     "price": 600.0
+    },
+    {
+     "lo": 29,
+     "hi": 30,
+     "name": "Whetstone of honed edges, moderate",
+     "price": 600.0
+    },
+    {
+     "lo": 31,
+     "hi": 32,
+     "name": "Clear skies incense",
+     "price": 650.0
+    },
+    {
+     "lo": 33,
+     "hi": 34,
+     "name": "Fire poison, moderate",
+     "price": 700.0
+    },
+    {
+     "lo": 35,
+     "hi": 36,
+     "name": "Armored mage potion, common",
+     "price": 750.0
+    },
+    {
+     "lo": 37,
+     "hi": 38,
+     "name": "Electric oil, moderate",
+     "price": 750.0
+    },
+    {
+     "lo": 39,
+     "hi": 39,
+     "name": "Monstrous transformation potion",
+     "price": 750.0
+    },
+    {
+     "lo": 40,
+     "hi": 40,
+     "name": "Protection potion, rare",
+     "price": 750.0
+    },
+    {
+     "lo": 41,
+     "hi": 41,
+     "name": "Scrying incense, lesser",
+     "price": 750.0
+    },
+    {
+     "lo": 42,
+     "hi": 42,
+     "name": "Stricture consecration oil",
+     "price": 750.0
+    },
+    {
+     "lo": 43,
+     "hi": 43,
+     "name": "Blindfold poison",
+     "price": 800.0
+    },
+    {
+     "lo": 44,
+     "hi": 44,
+     "name": "Object repair oil, greater",
+     "price": 800.0
+    },
+    {
+     "lo": 45,
+     "hi": 45,
+     "name": "See hazard potion, lesser",
+     "price": 800.0
+    },
+    {
+     "lo": 46,
+     "hi": 46,
+     "name": "Clean air incense",
+     "price": 850.0
+    },
+    {
+     "lo": 47,
+     "hi": 47,
+     "name": "Acorn of pummeling branches, large",
+     "price": 900.0
+    },
+    {
+     "lo": 48,
+     "hi": 49,
+     "name": "Animate object oil, mild",
+     "price": 900.0
+    },
+    {
+     "lo": 50,
+     "hi": 51,
+     "name": "Extract blood construct oil, small",
+     "price": 900.0
+    },
+    {
+     "lo": 52,
+     "hi": 54,
+     "name": "Infiltration potion, lesser",
+     "price": 900.0
+    },
+    {
+     "lo": 55,
+     "hi": 56,
+     "name": "Sphere focus stimulant (+3)",
+     "price": 900.0
+    },
+    {
+     "lo": 57,
+     "hi": 58,
+     "name": "Dark sacrifice potion, moderate",
+     "price": 1000.0
+    },
+    {
+     "lo": 59,
+     "hi": 60,
+     "name": "Embalming oil",
+     "price": 1000.0
+    },
+    {
+     "lo": 61,
+     "hi": 62,
+     "name": "Incendiary grenade",
+     "price": 1000.0
+    },
+    {
+     "lo": 63,
+     "hi": 64,
+     "name": "Peerless courage potion",
+     "price": 1000.0
+    },
+    {
+     "lo": 65,
+     "hi": 66,
+     "name": "Protection potion, legendary",
+     "price": 1000.0
+    },
+    {
+     "lo": 67,
+     "hi": 68,
+     "name": "Spell cleansing elixir, greater",
+     "price": 1000.0
+    },
+    {
+     "lo": 69,
+     "hi": 70,
+     "name": "Animate object oil, mediocre",
+     "price": 1200.0
+    },
+    {
+     "lo": 71,
+     "hi": 72,
+     "name": "Sphere focus stimulant (+4)",
+     "price": 1200.0
+    },
+    {
+     "lo": 73,
+     "hi": 75,
+     "name": "Whetstone of honed edges, strong",
+     "price": 1200.0
+    },
+    {
+     "lo": 76,
+     "hi": 78,
+     "name": "Extract blood construct oil, medium",
+     "price": 1350.0
+    },
+    {
+     "lo": 79,
+     "hi": 81,
+     "name": "Armored mage potion, uncommon",
+     "price": 1500.0
+    },
+    {
+     "lo": 82,
+     "hi": 84,
+     "name": "Contingent energy resistance potion, superior",
+     "price": 1500.0
+    },
+    {
+     "lo": 85,
+     "hi": 86,
+     "name": "Electric oil, superior",
+     "price": 1500.0
+    },
+    {
+     "lo": 87,
+     "hi": 87,
+     "name": "Form breaker oil, greater",
+     "price": 1500.0
+    },
+    {
+     "lo": 88,
+     "hi": 88,
+     "name": "Infiltration potion, greater",
+     "price": 1500.0
+    },
+    {
+     "lo": 89,
+     "hi": 89,
+     "name": "Sphere focus stimulant (+5)",
+     "price": 1500.0
+    },
+    {
+     "lo": 90,
+     "hi": 90,
+     "name": "Troll’s claret",
+     "price": 1500.0
+    },
+    {
+     "lo": 91,
+     "hi": 91,
+     "name": "Ghost sight potion, greater",
+     "price": 1600.0
+    },
+    {
+     "lo": 92,
+     "hi": 92,
+     "name": "Crystal grenade, moderate",
+     "price": 1650.0
+    },
+    {
+     "lo": 93,
+     "hi": 93,
+     "name": "Acorn of pummeling branches, huge",
+     "price": 1800.0
+    },
+    {
+     "lo": 94,
+     "hi": 94,
+     "name": "Animate object oil, huge",
+     "price": 1800.0
+    },
+    {
+     "lo": 95,
+     "hi": 95,
+     "name": "Beast warden flask",
+     "price": 1800.0
+    },
+    {
+     "lo": 96,
+     "hi": 96,
+     "name": "Dissolution oil",
+     "price": 1800.0
+    },
+    {
+     "lo": 97,
+     "hi": 97,
+     "name": "Revealing dust, moderate",
+     "price": 1800.0
+    },
+    {
+     "lo": 98,
+     "hi": 98,
+     "name": "Vanishing dust, moderate",
+     "price": 1800.0
+    },
+    {
+     "lo": 99,
+     "hi": 99,
+     "name": "Whetstone of honed edges, overwhelming",
+     "price": 1800.0
+    },
+    {
+     "lo": 100,
+     "hi": 100,
+     "name": "GM’s choice",
+     "price": 0.0
+    }
+   ]
+  },
+  {
+   "tier": 4,
+   "title": "Tier 4 Compounds",
+   "url": "Other-Pages/Loot-Tables#table-tier-4-compounds",
+   "entries": [
+    {
+     "lo": 1,
+     "hi": 3,
+     "name": "Fire poison, moderate",
+     "price": 700.0
+    },
+    {
+     "lo": 4,
+     "hi": 5,
+     "name": "Armored mage potion, common",
+     "price": 750.0
+    },
+    {
+     "lo": 6,
+     "hi": 7,
+     "name": "Electric oil, moderate",
+     "price": 750.0
+    },
+    {
+     "lo": 8,
+     "hi": 8,
+     "name": "Monstrous transformation potion",
+     "price": 750.0
+    },
+    {
+     "lo": 9,
+     "hi": 9,
+     "name": "Protection potion, rare",
+     "price": 750.0
+    },
+    {
+     "lo": 10,
+     "hi": 10,
+     "name": "Scrying incense, lesser",
+     "price": 750.0
+    },
+    {
+     "lo": 11,
+     "hi": 11,
+     "name": "Stricture consecration oil",
+     "price": 750.0
+    },
+    {
+     "lo": 12,
+     "hi": 12,
+     "name": "Blindfold poison",
+     "price": 800.0
+    },
+    {
+     "lo": 13,
+     "hi": 13,
+     "name": "Object repair oil, greater",
+     "price": 800.0
+    },
+    {
+     "lo": 14,
+     "hi": 15,
+     "name": "See hazard potion, lesser",
+     "price": 800.0
+    },
+    {
+     "lo": 16,
+     "hi": 16,
+     "name": "Clean air incense",
+     "price": 850.0
+    },
+    {
+     "lo": 17,
+     "hi": 17,
+     "name": "Acorn of pummeling branches, large",
+     "price": 900.0
+    },
+    {
+     "lo": 18,
+     "hi": 19,
+     "name": "Animate object oil, mild",
+     "price": 900.0
+    },
+    {
+     "lo": 20,
+     "hi": 21,
+     "name": "Extract blood construct oil, small",
+     "price": 900.0
+    },
+    {
+     "lo": 22,
+     "hi": 23,
+     "name": "Infiltration potion, lesser",
+     "price": 900.0
+    },
+    {
+     "lo": 24,
+     "hi": 25,
+     "name": "Sphere focus stimulant (+3)",
+     "price": 900.0
+    },
+    {
+     "lo": 26,
+     "hi": 27,
+     "name": "Dark sacrifice potion, moderate",
+     "price": 1000.0
+    },
+    {
+     "lo": 28,
+     "hi": 29,
+     "name": "Embalming oil",
+     "price": 1000.0
+    },
+    {
+     "lo": 30,
+     "hi": 31,
+     "name": "Incendiary grenade",
+     "price": 1000.0
+    },
+    {
+     "lo": 32,
+     "hi": 33,
+     "name": "Peerless courage potion",
+     "price": 1000.0
+    },
+    {
+     "lo": 34,
+     "hi": 35,
+     "name": "Protection potion, legendary",
+     "price": 1000.0
+    },
+    {
+     "lo": 36,
+     "hi": 37,
+     "name": "Sidhe visage potion",
+     "price": 1000.0
+    },
+    {
+     "lo": 38,
+     "hi": 39,
+     "name": "Spell cleansing elixir, greater",
+     "price": 1000.0
+    },
+    {
+     "lo": 40,
+     "hi": 41,
+     "name": "Animate object oil, large",
+     "price": 1200.0
+    },
+    {
+     "lo": 42,
+     "hi": 43,
+     "name": "Sphere focus stimulant (+4)",
+     "price": 1200.0
+    },
+    {
+     "lo": 44,
+     "hi": 45,
+     "name": "Whetstone of honed edges, strong",
+     "price": 1200.0
+    },
+    {
+     "lo": 46,
+     "hi": 47,
+     "name": "Extract blood construct oil, medium",
+     "price": 1350.0
+    },
+    {
+     "lo": 48,
+     "hi": 50,
+     "name": "Armored mage potion, uncommon",
+     "price": 1500.0
+    },
+    {
+     "lo": 51,
+     "hi": 53,
+     "name": "Contingent energy resistance potion, superior",
+     "price": 1500.0
+    },
+    {
+     "lo": 54,
+     "hi": 56,
+     "name": "Electric oil, superior",
+     "price": 1500.0
+    },
+    {
+     "lo": 57,
+     "hi": 57,
+     "name": "Form breaker oil, greater",
+     "price": 1500.0
+    },
+    {
+     "lo": 58,
+     "hi": 58,
+     "name": "Infiltration potion, greater",
+     "price": 1500.0
+    },
+    {
+     "lo": 59,
+     "hi": 59,
+     "name": "Sphere focus stimulant (+5)",
+     "price": 1500.0
+    },
+    {
+     "lo": 60,
+     "hi": 60,
+     "name": "Troll’s claret",
+     "price": 1500.0
+    },
+    {
+     "lo": 61,
+     "hi": 62,
+     "name": "Ghost sight potion, greater",
+     "price": 1600.0
+    },
+    {
+     "lo": 63,
+     "hi": 64,
+     "name": "Crystal grenade, moderate",
+     "price": 1650.0
+    },
+    {
+     "lo": 65,
+     "hi": 65,
+     "name": "Acorn of pummeling branches, huge",
+     "price": 1800.0
+    },
+    {
+     "lo": 66,
+     "hi": 66,
+     "name": "Animate object oil, strong",
+     "price": 1800.0
+    },
+    {
+     "lo": 67,
+     "hi": 67,
+     "name": "Beast warden flask",
+     "price": 1800.0
+    },
+    {
+     "lo": 68,
+     "hi": 68,
+     "name": "Dissolution oil",
+     "price": 1800.0
+    },
+    {
+     "lo": 69,
+     "hi": 69,
+     "name": "Revealing dust, moderate",
+     "price": 1800.0
+    },
+    {
+     "lo": 70,
+     "hi": 70,
+     "name": "Vanishing dust, moderate",
+     "price": 1800.0
+    },
+    {
+     "lo": 71,
+     "hi": 71,
+     "name": "Whetstone of honed edges, overwhelming",
+     "price": 1800.0
+    },
+    {
+     "lo": 72,
+     "hi": 74,
+     "name": "Catfolk guise potion, superior",
+     "price": 2000.0
+    },
+    {
+     "lo": 75,
+     "hi": 76,
+     "name": "Fire poison, superior",
+     "price": 2100.0
+    },
+    {
+     "lo": 77,
+     "hi": 78,
+     "name": "Anathema poison",
+     "price": 2250.0
+    },
+    {
+     "lo": 79,
+     "hi": 80,
+     "name": "Armored mage potion, rare",
+     "price": 2250.0
+    },
+    {
+     "lo": 81,
+     "hi": 82,
+     "name": "Extract blood construct oil, large",
+     "price": 2250.0
+    },
+    {
+     "lo": 83,
+     "hi": 84,
+     "name": "Animate object oil, very strong",
+     "price": 2400.0
+    },
+    {
+     "lo": 85,
+     "hi": 85,
+     "name": "Light of true magic",
+     "price": 2500.0
+    },
+    {
+     "lo": 86,
+     "hi": 86,
+     "name": "Scrying incense, greater",
+     "price": 2500.0
+    },
+    {
+     "lo": 87,
+     "hi": 88,
+     "name": "Acorn of pummeling branches, gargantuan",
+     "price": 2700.0
+    },
+    {
+     "lo": 89,
+     "hi": 90,
+     "name": "Extract blood construct oil, huge",
+     "price": 2700.0
+    },
+    {
+     "lo": 91,
+     "hi": 92,
+     "name": "Armored mage potion, legendary",
+     "price": 3000.0
+    },
+    {
+     "lo": 93,
+     "hi": 94,
+     "name": "Dark sacrifice potion, superior",
+     "price": 3000.0
+    },
+    {
+     "lo": 95,
+     "hi": 96,
+     "name": "Crystal grenade, superior",
+     "price": 3150.0
+    },
+    {
+     "lo": 97,
+     "hi": 97,
+     "name": "Extract blood construct oil, gargantuan",
+     "price": 3150.0
+    },
+    {
+     "lo": 98,
+     "hi": 98,
+     "name": "Animate object oil, perfect",
+     "price": 3200.0
+    },
+    {
+     "lo": 99,
+     "hi": 99,
+     "name": "See hazard potion, greater",
+     "price": 3200.0
+    },
+    {
+     "lo": 100,
+     "hi": 100,
+     "name": "GM’s choice",
+     "price": 0.0
+    }
+   ]
+  },
+  {
+   "tier": 5,
+   "title": "Tier 5 Compounds",
+   "url": "Other-Pages/Loot-Tables#table-tier-5-compounds",
+   "entries": [
+    {
+     "lo": 1,
+     "hi": 2,
+     "name": "Acorn of pummeling branches, huge",
+     "price": 1800.0
+    },
+    {
+     "lo": 3,
+     "hi": 4,
+     "name": "Animate object oil, huge",
+     "price": 1800.0
+    },
+    {
+     "lo": 5,
+     "hi": 6,
+     "name": "Beast warden flask",
+     "price": 1800.0
+    },
+    {
+     "lo": 7,
+     "hi": 9,
+     "name": "Dissolution oil",
+     "price": 1800.0
+    },
+    {
+     "lo": 10,
+     "hi": 11,
+     "name": "Revealing dust, moderate",
+     "price": 1800.0
+    },
+    {
+     "lo": 12,
+     "hi": 13,
+     "name": "Vanishing dust, moderate",
+     "price": 1800.0
+    },
+    {
+     "lo": 14,
+     "hi": 15,
+     "name": "Whetstone of honed edges, overwhelming",
+     "price": 1800.0
+    },
+    {
+     "lo": 16,
+     "hi": 18,
+     "name": "Catfolk guise potion, superior",
+     "price": 2000.0
+    },
+    {
+     "lo": 19,
+     "hi": 23,
+     "name": "Fire poison, superior",
+     "price": 2100.0
+    },
+    {
+     "lo": 24,
+     "hi": 25,
+     "name": "Anathema poison",
+     "price": 2250.0
+    },
+    {
+     "lo": 26,
+     "hi": 30,
+     "name": "Armored mage potion, rare",
+     "price": 2250.0
+    },
+    {
+     "lo": 31,
+     "hi": 35,
+     "name": "Extract blood construct oil, large",
+     "price": 2250.0
+    },
+    {
+     "lo": 36,
+     "hi": 37,
+     "name": "Animate object oil, gargantuan",
+     "price": 2400.0
+    },
+    {
+     "lo": 38,
+     "hi": 42,
+     "name": "Light of true magic",
+     "price": 2500.0
+    },
+    {
+     "lo": 43,
+     "hi": 48,
+     "name": "Acorn of pummeling branches, gargantuan",
+     "price": 2700.0
+    },
+    {
+     "lo": 49,
+     "hi": 54,
+     "name": "Extract blood construct oil, huge",
+     "price": 2700.0
+    },
+    {
+     "lo": 55,
+     "hi": 61,
+     "name": "Armored magic potion, legendary",
+     "price": 3000.0
+    },
+    {
+     "lo": 62,
+     "hi": 67,
+     "name": "Dark sacrifice potion, superior",
+     "price": 3000.0
+    },
+    {
+     "lo": 68,
+     "hi": 73,
+     "name": "Crystal grenade, superior",
+     "price": 3150.0
+    },
+    {
+     "lo": 74,
+     "hi": 78,
+     "name": "Extract blood construct oil, gargantuan",
+     "price": 3150.0
+    },
+    {
+     "lo": 79,
+     "hi": 80,
+     "name": "Animate object oil, perfect",
+     "price": 3200.0
+    },
+    {
+     "lo": 81,
+     "hi": 83,
+     "name": "See hazard potion, greater",
+     "price": 3200.0
+    },
+    {
+     "lo": 84,
+     "hi": 85,
+     "name": "Acorn of pummeling branches, colossal",
+     "price": 3600.0
+    },
+    {
+     "lo": 86,
+     "hi": 87,
+     "name": "Extract blood construct oil, colossal",
+     "price": 3600.0
+    },
+    {
+     "lo": 88,
+     "hi": 89,
+     "name": "Revealing dust, superior",
+     "price": 3600.0
+    },
+    {
+     "lo": 90,
+     "hi": 91,
+     "name": "Vanishing dust, superior",
+     "price": 3600.0
+    },
+    {
+     "lo": 92,
+     "hi": 95,
+     "name": "Love everlasting potion",
+     "price": 4000.0
+    },
+    {
+     "lo": 96,
+     "hi": 99,
+     "name": "Seed of life",
+     "price": 5000.0
+    },
+    {
+     "lo": 100,
+     "hi": 100,
+     "name": "GM’s choice",
+     "price": 0.0
+    }
+   ]
+  }
+ ]
+}

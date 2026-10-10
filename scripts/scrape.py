@@ -4415,6 +4415,51 @@ def _rules_summary(text: str, limit: int = 160, whole: bool = False) -> str:
     return s if len(s) <= limit else s[:limit].rsplit(" ", 1)[0] + "…"
 
 
+def build_spheres_loot_tables() -> int:
+    """compendium/loot-tables-spheres.json for the Loot Generator: the Loot Tables page's item tables
+    by price band (Minor ... Grand, Artifacts) and its compound tables by adventure tier."""
+    f = next((x for x in CONTENT.rglob("Loot Tables.md") if ARCHIVE not in x.relative_to(CONTENT).parts), None)
+    if not f:
+        print("warning: loot tables: no Loot Tables page")
+        return 0
+    lines = f.read_text(encoding="utf-8").split(GENERATED_MARK, 1)[-1].split("\n")
+    slug = _slugger()
+    ids = [slug(m.group(2)) if (m := re.match(r"(#{1,6}) (.+)$", l)) else "" for l in lines]
+    url = _page_url(f)
+    money = lambda t: float(m.group().replace(",", "")) if (m := re.search(r"[\d,]+(?:\.\d+)?", t or "")) else 0.0
+    span = lambda t: ([int(n) for n in re.findall(r"\d+", t)] or [0])
+    bands, tiers = [], []
+    for i, l in enumerate(lines):
+        m = re.match(r"### Table: (.+)$", l)
+        if not m:
+            continue
+        title = m.group(1).strip()
+        rows = _md_table(lines, i + 1)
+        if not rows:
+            continue
+        if (t := re.match(r"Tier (\d+) Compounds", title)):
+            entries = [{"lo": span(r[0])[0], "hi": span(r[0])[-1], "name": r[1], "price": money(r[2])} for r in rows[1:] if len(r) >= 3 and r[1]]
+            tiers.append({"tier": int(t.group(1)), "title": title, "url": f"{url}#{ids[i]}", "entries": entries})
+            continue
+        price = re.search(r"\(([\d,]+)\s*(?:-\s*([\d,]+)|\+)?\s*gp\)", title)
+        entries = []
+        for r in rows[1:]:
+            for k in range(0, len(r) - 1, 2):  # the table runs in two "roll | item" column pairs
+                if not r[k + 1]:
+                    continue
+                kind = re.search(r"\(([^()]+)\)\s*$", r[k + 1])
+                entries.append({"lo": span(r[k])[0], "hi": span(r[k])[-1], "name": re.sub(r"\s*\([^()]+\)\s*$", "", r[k + 1]) if kind else r[k + 1],
+                                "type": kind.group(1) if kind else ""})
+        entries.sort(key=lambda e: e["lo"])
+        bands.append({"name": re.sub(r"\s*\(.*$", "", title).replace(" Items", ""), "title": title, "url": f"{url}#{ids[i]}",
+                      "min": money(price.group(1)) if price else 0, "max": money(price.group(2)) if price and price.group(2) else 0,
+                      "die": max((e["hi"] for e in entries), default=100), "entries": entries})
+    COMPENDIUM_OUT.mkdir(parents=True, exist_ok=True)
+    (COMPENDIUM_OUT / "loot-tables-spheres.json").write_text(json.dumps({"url": url, "bands": bands, "compounds": tiers}, ensure_ascii=False, indent=1),
+                                                             encoding="utf-8")
+    return len(bands) + len(tiers)
+
+
 def build_spheres_companion_archetypes() -> int:
     """compendium/companion-archetypes-spheres.json: this site's own animal companion and familiar
     archetypes (pages named "<Name> (Animal Companion Archetype)" / "(Familiar Archetype)"), which the
@@ -7468,6 +7513,7 @@ def convert(with_images: bool) -> None:
     print(f"Class archetypes: {build_class_archetypes()}")
     print(f"Conjuration companion forms: {build_conjuration_companion()}")
     print(f"Spheres companion and familiar archetypes: {build_spheres_companion_archetypes()}")
+    print(f"Spheres loot tables: {build_spheres_loot_tables()}")
     print(f"Compendium races: {build_race_compendium()}")
     print(f"Martial traditions: {build_martial_traditions()}")
     print(f"Casting tradition drawbacks: {build_casting_traditions()}")
