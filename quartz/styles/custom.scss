@@ -388,6 +388,11 @@ body[data-slug="Tools/index"] h1.article-title::before {
   -webkit-mask: url("/static/icons/game-icons/cog.png") center / contain no-repeat;
   mask: url("/static/icons/game-icons/cog.png") center / contain no-repeat;
 }
+// the Tools page is its folder's index: its own list covers the tools, so the automatic
+// "items under this folder" listing is left out
+body[data-slug="Tools/index"] .page-listing {
+  display: none;
+}
 // the Tools page: an icon beside each tool, no bullets
 .sop-tools > ul {
   list-style: none;
