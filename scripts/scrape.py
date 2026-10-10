@@ -4151,10 +4151,14 @@ def build_class_compendium() -> int:
     targets: list[tuple[str, str]] = []  # (note name, group)
     group = ""
     for line in home[home.find("## Classes"):].split("\n"):
-        if m := re.match(r"### (.+?)(?: \*\(.*)?$", line):
+        # each Classes tab opens with "*Spherecaster Classes · [[Using ...]]*" (home_class_tabs); the
+        # Prestige tab is a list with no such line
+        if m := re.match(r"(?:### |\*)([^*·]+? Classes)\b", line):
             group = m.group(1).strip()
-        elif line.startswith("**Prestige Classes**"):
+        elif line.startswith("**Prestige Classes**") or line.strip() == '<div class="sop-tab-label">Prestige</div>':
             group = "Prestige Classes"
+        elif group == "Prestige Classes" and line.strip() == '<div class="sop-spheres sop-prestige">':
+            continue
         elif group == "Prestige Classes" and (line.strip() == "</div>" or line.startswith("#")):
             break  # the end of the prestige block (Other Resources and the rest aren't classes)
         if (m := re.match(r"\| \*\*\[\[([^\]|\\]+)", line)) or (group == "Prestige Classes" and

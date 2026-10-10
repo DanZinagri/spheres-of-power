@@ -394,7 +394,7 @@ function syncFamiliar() {
   // becomes a magical beast (its Hit Dice, attack bonus, saves and skills stay as they were)
   if (fam.base.int != null || full) state.abilities.int = full ? Math.max(num(fam.base.int), 5 + step) : fam.base.int
   mon.type = full && fam.base.type === "animal" ? "magical beast" : fam.base.type
-  mon.sr = full && L >= 11 ? String(num(m.level) + 5) : fam.base.sr
+  mon.sr = full && L >= 11 && !replacedByArchetypes().has("spell resistance") ? String(num(m.level) + 5) : fam.base.sr
   // the master's skill ranks where they beat the creature's own
   for (const k of new Set([...Object.keys(fam.base.skills), ...Object.keys(m.skills ?? {})])) {
     if (!(k in SKILLS) || SUB_SKILLS.includes(k)) continue
@@ -550,7 +550,7 @@ function familiarNotes(c) {
   const what = fam.kind === "pet" ? (fam.improved ? "improved pet (Beastmastery sphere)" : "pet (Beastmastery sphere)") : fam.improved ? "improved familiar" : "familiar"
   return [`${state.master?.name ? `${state.master.name}'s ${what}` : what[0].toUpperCase() + what.slice(1)}: ${fam.entry.name}, effective level ${L}.`,
     `Counts as ${familiarHd(c)} Hit Dice for effects. Hit points are half the master's.`,
-    `The master gains: ${[fam.entry.special, "Alertness while the familiar is within arm's reach"].filter(Boolean).join("; ")}.`].join("\n\n")
+    `The master gains: ${familiarMasterGains()}.`, (fam.archetypes ?? []).length ? `Archetypes: ${fam.archetypes.map((a) => a.name).join(", ")}.` : ""].filter(Boolean).join("\n\n")
 }
 
 // ---------- hooks: the variant's rules over the Monster Creator's ----------
@@ -615,7 +615,7 @@ if (VARIANT === "companion" || VARIANT === "familiar") {
     const special = [mon.specialAttacks, mon.sq, mon.sr ? `SR ${mon.sr}` : "", mon.dr ? `DR ${mon.dr}` : ""].filter(Boolean).join("; ")
     return [["Special attacks & qualities", special || "-"],
       VARIANT === "companion" ? ["Tricks", `${companionRow(companionLevel()).tricks} bonus${state.companion.tricks ? `: ${state.companion.tricks}` : ""}`]
-        : ["Master gains", [k.entry.special, "Alertness within arm's reach"].filter(Boolean).join("; ")]]
+        : ["Master gains", familiarMasterGains()]]
   }
   HOOKS.skillLocked = (key, c) => {
     if (VARIANT !== "companion" || !state.companion?.entry) return ""
