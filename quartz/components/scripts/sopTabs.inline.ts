@@ -15,7 +15,9 @@ function activate(tabs: HTMLElement, index: number) {
 function syncToc() {
   document.querySelectorAll<HTMLAnchorElement>(".toc a[data-for]").forEach((a) => {
     const heading = document.getElementById(a.dataset.for ?? "")
-    const pane = heading?.closest<HTMLElement>(".sop-tab")
+    // an entry for a tab itself (toc.inline.ts lists them) stays: only what's inside a hidden tab goes
+    const from = heading?.classList.contains("sop-tab") ? heading.parentElement : heading
+    const pane = from?.closest<HTMLElement>(".sop-tab")
     const li = a.closest("li")
     if (li) li.hidden = !!pane?.hidden
   })
