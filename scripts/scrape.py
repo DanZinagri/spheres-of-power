@@ -337,6 +337,9 @@ HOME_OPTION_MOVES = {"Operative Gear": "Gear"}
 # types): the sub-list leaves for its own horizontal block under Character Options, the link
 # (a rules page) its header. (section, link page)
 HOME_SUBLIST_BLOCKS = [("Gear", "Magical Items")]
+# Home grid sections that become horizontal blocks too (after Magical Items), in this order; their
+# links keep the section's order (Gear's groups run on one after another)
+HOME_ROW_BLOCKS = ["Advanced Magic", "Gear", "Other Options", "Creatures"]
 # Home page sections replaced by the generated "Sample Characters" page, which is linked from
 # the end of the Creatures section instead.
 SAMPLE_SECTIONS = ("Sample Spherecasters", "Sample Practitioners", "Sample Champions")
@@ -1190,6 +1193,19 @@ def rebalance_home_columns(md: str) -> str:
         tbody[at:stop] = [""]
         sublist_blocks += [f'<div class="sop-spheres sop-{re.sub(r"[^a-z]+", "-", page.lower())}">', "",
                            f"**{header}**", "", *items, "", "</div>", ""]
+    row_blocks = []
+    for sec_title in HOME_ROW_BLOCKS:
+        for _, sections in parsed:
+            hit = next((s for s in sections if s[0] == sec_title), None)
+            if hit:
+                sections.remove(hit)
+                links = [l.strip()[2:] if l.strip().startswith("- [[") else l.strip()
+                         for l in hit[1] if l.strip().startswith(("[[", "- [["))]
+                slug = re.sub(r"[^a-z]+", "-", sec_title.lower()).strip("-")
+                row_blocks += [f'<div class="sop-spheres sop-{slug}">', "", f"**{sec_title}**", "", *links, "", "</div>", ""]
+                break
+        else:
+            print(f"warning: home: no {sec_title!r} section")
     option_row = []
     if option_entries:
         # the traditions together first (custom.scss gives them the first column), then the rest
@@ -1230,7 +1246,9 @@ def rebalance_home_columns(md: str) -> str:
         for col in sphere_cols:
             spheres += [*col, ""]
         spheres += ["</div>", "", "## Character Options", ""]
-    out = lines[:start] + spheres + feat_block + option_row + sublist_blocks + [lines[start], ""] + rebuilt + [lines[end]] + classes + lines[end + 1:]
+    # (the grid itself goes once every column has moved out to a block of its own)
+    grid = [lines[start], ""] + rebuilt + [lines[end]] if kept else []
+    out = lines[:start] + spheres + feat_block + option_row + sublist_blocks + row_blocks + grid + classes + lines[end + 1:]
     return tidy_home(remove_using_row("\n".join(out)))
 
 

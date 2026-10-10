@@ -187,85 +187,70 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 </div>
 
-<div class="sop-columns" style="--cols: 3">
-
-<div class="sop-col">
-
-
-
----
+<div class="sop-spheres sop-advanced-magic">
 
 **Advanced Magic**
 
-[[About Advanced Magic]]
-[[Advanced Talents]]
-[[Divine Traditions]]
-[[Incantations]]
-[[Mythic Spheres]]
-[[Mythic Path Archetypes]]
-[[Rituals]]
-[[Spellcrafting]]
-[[Wild Magic]]
+- [[About Advanced Magic]]
+- [[Advanced Talents]]
+- [[Divine Traditions]]
+- [[Incantations]]
+- [[Mythic Spheres]]
+- [[Mythic Path Archetypes]]
+- [[Rituals]]
+- [[Spellcrafting]]
+- [[Wild Magic]]
 
 </div>
 
-<div class="sop-col">
-
-
-
----
+<div class="sop-spheres sop-gear">
 
 **Gear**
 
-[[Weapons]]
-[[Armor]]
-[[Equipment]]
-[[Special Materials]]
-
-[[Loot Tables]]
-
-[[Adventuring Gear]]
-[[Mechanical Parts]]
-[[Technological Gear]]
-[[Practitioner Magic Items]]
-[[Practitioner Weapons]]
-[[Operative Gear]]
+- [[Weapons]]
+- [[Armor]]
+- [[Equipment]]
+- [[Special Materials]]
+- [[Loot Tables]]
+- [[Adventuring Gear]]
+- [[Mechanical Parts]]
+- [[Technological Gear]]
+- [[Practitioner Magic Items]]
+- [[Practitioner Weapons]]
+- [[Operative Gear]]
 
 </div>
 
-<div class="sop-col">
-
-
-
----
+<div class="sop-spheres sop-other-options">
 
 **Other Options**
 
-[[Accrual]]
-[[Airship Rules]]
-[[Aristeia]]
-[[Churches And Powers Of Faith|Churches and Powers of Faith]]
-[[Spheres Gestalt Rules|Gestalt Rules]]
-[[Oaths]]
-[[Organizations]]
-[[Strain (formerly Madness)|Strain]] (formerly Madness)
-[[Variant Rules]]
-[[Wilderness]]
+- [[Accrual]]
+- [[Airship Rules]]
+- [[Aristeia]]
+- [[Churches And Powers Of Faith|Churches and Powers of Faith]]
+- [[Spheres Gestalt Rules|Gestalt Rules]]
+- [[Oaths]]
+- [[Organizations]]
+- [[Strain (formerly Madness)|Strain]] (formerly Madness)
+- [[Variant Rules]]
+- [[Wilderness]]
 
----
+</div>
+
+<div class="sop-spheres sop-creatures">
 
 **Creatures**
 
-[[Sphere Bestiary]]
-[[Sphere Races]]
-[[Sphere Templates]]
-[[Practitioner Bestiary]]
-[[Starfinder Conversion]]
-[[Sample Characters]]
+- [[Sphere Bestiary]]
+- [[Sphere Races]]
+- [[Sphere Templates]]
+- [[Practitioner Bestiary]]
+- [[Starfinder Conversion]]
+- [[Sample Characters]]
 
 </div>
 
-</div>
 
 
 ---
