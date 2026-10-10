@@ -55,6 +55,58 @@ function masterCard(fields, note) {
     note ? h("p", { class: "note" }, note) : null)
 }
 
+// ---------- archetypes (companion and familiar archetypes, Archives of Nethys) ----------
+// An archetype's abilities are added as features to apply by hand; the standard abilities it
+// replaces (share spells, evasion, ...) come off the sheet.
+const kindState = () => (VARIANT === "companion" ? state.companion : state.familiar)
+const baseName = (n) => String(n).replace(/\s*\((?:Ex|Su|Sp)\)/g, "").trim().toLowerCase()
+const replacedByArchetypes = () => new Set((kindState()?.archetypes ?? []).flatMap((a) => a.replaces ?? []))
+function addArchetype(a) {
+  const k = kindState()
+  k.archetypes = [...(k.archetypes ?? []).filter((x) => x.name !== a.name), { name: a.name, url: a.url, source: a.source, replaces: a.replaces }]
+  state.features = state.features.filter((f) => f.archetype !== a.name)
+  for (const ab of a.abilities) state.features.push(newFeature("misc", { name: ab.name, desc: ab.text, monster: true, archetype: a.name }))
+  changed(true)
+  toast(`${a.name} added`)
+}
+function removeArchetype(name) {
+  const k = kindState()
+  k.archetypes = (k.archetypes ?? []).filter((x) => x.name !== name)
+  state.features = state.features.filter((f) => f.archetype !== name)
+  changed(true)
+}
+async function openArchetypePicker() {
+  const box = h("input", { type: "search", placeholder: "Search archetypes", "aria-label": "Search archetypes" })
+  const results = h("div", { class: "picker-results", role: "list" }, h("p", { class: "muted" }, "Loading archetypes…"))
+  const dlg = openDialog(VARIANT === "companion" ? "Add a companion archetype" : "Add a familiar archetype", h("div", { class: "row picker-filters" }, box), results)
+  let all = []
+  const have = new Set((kindState().archetypes ?? []).map((a) => a.name))
+  const render = () => {
+    const q = box.value.trim().toLowerCase()
+    const hits = all.filter((a) => !q || a.name.toLowerCase().includes(q) || a.intro.toLowerCase().includes(q))
+    fill(results, ...hits.map((a) => h("button", { class: "picker-item", role: "listitem", disabled: have.has(a.name), onclick: () => { dlg.done(); addArchetype(a) } },
+      h("span", { class: "pi-name" }, a.name, h("span", { class: "pi-meta" }, ` ${a.abilities.map((x) => baseName(x.name)).join(", ")}`)),
+      h("span", { class: "pi-pre" }, `${a.replaces.length ? `Replaces ${a.replaces.join(", ")}. ` : ""}${a.source}`))),
+    hits.length ? null : h("p", { class: "muted" }, all.length ? "No archetypes match." : "Couldn't load the archetypes."))
+  }
+  box.addEventListener("input", render)
+  loadCompendium("companion-archetypes.json", { companion: [], familiar: [] }).then((d) => { all = d[VARIANT] ?? []; render() })
+  box.focus()
+}
+function archetypeCard() {
+  const list = kindState().archetypes ?? []
+  return h("div", { class: "card" },
+    h("div", { class: "row" }, h("div", { class: "group-title", style: "margin:0" }, "Archetypes"), h("div", { class: "spacer" }),
+      h("button", { class: "small", onclick: () => openArchetypePicker() }, "+ Add archetype")),
+    ...list.map((a) => h("div", { class: "row" }, h("b", {}, a.name), h("span", { class: "muted" }, a.source),
+      a.replaces?.length ? h("span", { class: "note" }, `Replaces ${a.replaces.join(", ")}.`) : null, h("div", { class: "spacer" }),
+      h("a", { href: a.url, target: "_blank", rel: "noopener" }, "On Archives of Nethys"),
+      h("button", { class: "small danger", onclick: () => removeArchetype(a.name) }, "Remove"))),
+    h("p", { class: "note" }, list.length
+      ? "The archetype's abilities are on the Feats & Features tab: apply any numbers they change there or on this tab. The standard abilities it replaces have been taken off the sheet."
+      : "An archetype's abilities are added as features, and the standard abilities it replaces are taken off the sheet."))
+}
+
 // features this file keeps up to date carry auto: <variant>; they are rebuilt, the rest are the user's
 function setAutoFeatures(tag, list) {
   state.features = [...list.map((f) => ({ ...f, auto: tag })), ...state.features.filter((f) => f.auto !== tag)]
@@ -144,8 +196,9 @@ function syncCompanion() {
   }
   const qualities = [...(e.start.sq ?? []), ...adv.flatMap((a) => a.sq ?? [])].map(cleanName).filter((q) => q && !/secondary|see Combat/i.test(q))
   mon.senses = qualities.filter((q) => SENSE_WORDS.test(q)).join(", ")
-  const specials = COMPANION_SPECIALS.filter(([lvl]) => L >= lvl)
-  const multi = L >= 9
+  const replaced = replacedByArchetypes()
+  const specials = COMPANION_SPECIALS.filter(([lvl, name]) => L >= lvl && !replaced.has(name.toLowerCase()))
+  const multi = L >= 9 && !replaced.has("multiattack")
   const naturals = mon.attacks.filter((a) => a.natural).reduce((n, a) => n + num(a.count), 0)
   mon.sq = [...qualities.filter((q) => !SENSE_WORDS.test(q)), ...specials.map(([, name]) => name.toLowerCase()), ...(multi ? ["multiattack"] : [])].join(", ")
   mon.specialAttacks = [...(e.start.sa ?? []), ...adv.flatMap((a) => a.sa ?? [])].map(cleanName).join(", ")
@@ -295,6 +348,7 @@ function companionPanel() {
     h("div", { class: "card" },
       h("div", { class: "group-title", style: "margin-top:0" }, `Tricks (${row.tricks} bonus trick${row.tricks > 1 ? "s" : ""}, plus those taught with Handle Animal)`),
       textarea("companion.tricks", { rows: 2, placeholder: "Attack, Come, Defend, Down, Guard, Heel…" })),
+    archetypeCard(),
     ...attackEditor(c),
   ]
 }
@@ -328,7 +382,8 @@ const ownBab = () => state.classes.filter((cl) => num(cl.level) > 0).reduce((a, 
 const ownSave = (k) => state.classes.filter((cl) => num(cl.level) > 0).reduce((a, cl) => a + (cl[k] === "high" ? 2 + Math.floor(num(cl.level) / 2) : Math.floor(num(cl.level) / 3)), 0)
 function familiarSpecials() {
   const fam = state.familiar, L = familiarLevel(), full = familiarFull()
-  return FAMILIAR_SPECIALS.filter(([lvl, name, fullOnly]) => L >= lvl && (full || !fullOnly) && !(fam.improved && /of Its Kind/.test(name)))
+  const replaced = replacedByArchetypes()
+  return FAMILIAR_SPECIALS.filter(([lvl, name, fullOnly]) => L >= lvl && (full || !fullOnly) && !(fam.improved && /of Its Kind/.test(name)) && !replaced.has(baseName(name)))
 }
 
 function syncFamiliar() {
@@ -358,7 +413,7 @@ function syncFamiliar() {
     const diff = num(m[k]) - ownSave(k)
     if (diff > 0) changes.push({ formula: String(diff), target: k, type: "untyped", operator: "add" })
   }
-  const auto = [
+  const auto = replacedByArchetypes().has("natural armor adjustment") ? [] : [
     newFeature("misc", { name: "Natural armor adjustment", monster: true, desc: `+${step} to the creature's natural armor at master level ${L}.`,
       changes: [{ formula: String(step), target: "nac", type: "untyped", operator: "add" }] }),
   ]
@@ -473,13 +528,21 @@ function familiarPanel() {
           .map(([k, v]) => h("div", { class: "stat" }, h("b", {}, v), h("span", {}, k)))),
       num(state.master?.hp) > 0 ? null : h("p", { class: "note" }, "Enter the master's hit points for the familiar's (half of them); until then it shows the creature's own."),
       h("p", { class: "note" }, `Special abilities: ${specials.map(([, n]) => n.replace(/ \((?:Ex|Su|Sp)\)/, "")).join(", ")}.`),
-      h("p", { class: "note" }, `The master gains: ${[e.special, "Alertness while the familiar is within arm's reach"].filter(Boolean).join("; ")}.`)),
+      h("p", { class: "note" }, `The master gains: ${familiarMasterGains()}.`)),
     h("div", { class: "card grid" },
       field("Size", h("input", { value: SIZES[state.race.size]?.[0] ?? "", disabled: true })),
       field("Speed", h("input", { value: [`${num(state.race.speed)} ft.`, ...Object.entries(mon.speeds ?? {}).filter(([k, v]) => k !== "flyManeuver" && num(v)).map(([k, v]) => `${k} ${v} ft.`)].join(", "), disabled: true })),
       field("Senses", input("monster.senses")), field("Special attacks", input("monster.specialAttacks")), field("Special qualities", input("monster.sq"))),
+    archetypeCard(),
     ...attackEditor(c),
   ]
+}
+
+// what the master gets: the familiar's own bonus, and Alertness (unless an archetype replaces it)
+function familiarMasterGains() {
+  const replaced = replacedByArchetypes()
+  return [replaced.has("the variable familiar bonus") ? "" : state.familiar.entry.special,
+    replaced.has("alertness") ? "" : "Alertness while the familiar is within arm's reach"].filter(Boolean).join("; ") || "nothing (replaced by its archetype)"
 }
 
 function familiarNotes(c) {
@@ -553,6 +616,11 @@ if (VARIANT === "companion" || VARIANT === "familiar") {
     return [["Special attacks & qualities", special || "-"],
       VARIANT === "companion" ? ["Tricks", `${companionRow(companionLevel()).tricks} bonus${state.companion.tricks ? `: ${state.companion.tricks}` : ""}`]
         : ["Master gains", [k.entry.special, "Alertness within arm's reach"].filter(Boolean).join("; ")]]
+  }
+  HOOKS.skillLocked = (key, c) => {
+    if (VARIANT !== "companion" || !state.companion?.entry) return ""
+    if (state.abilities.int == null) return "A mindless companion has no skill ranks."
+    return num(c.abl.int.total) < 3 && !ANIMAL_SKILLS.includes(key) ? "With Intelligence 2 or lower, a companion's ranks go in the animal skills: Acrobatics, Climb, Escape Artist, Fly, Intimidate, Perception, Stealth, Survival and Swim." : ""
   }
   panels.monster = () => (VARIANT === "companion" ? companionPanel() : familiarPanel())
   document.getElementById("btnNew")?.addEventListener("click", () => { tab = "monster" })

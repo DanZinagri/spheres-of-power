@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [Component.SopTabs(), Component.SopRoller(), Component.SopFold()],
   footer: Component.Footer({
     links: {
-      "Character Builder": `https://${BASE_URL}/Character-Builder`,
+      "Character Builder": `https://${BASE_URL}/Tools/Character-Builder`,
       "Open Game License": `https://${BASE_URL}/Meta/Legal-and-Open-Game-License`,
       "Game Icons (CC BY 3.0)": `https://${BASE_URL}/Meta/Game-Icons-License`,
       "Diamond Recreational Studios": "https://legacy.drivethrurpg.com/browse/pub/19182/Diamond-Recreational-Studios",

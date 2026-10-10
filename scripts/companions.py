@@ -189,6 +189,26 @@ def familiars() -> dict:
     return {"familiars": regular, "improved": improved}
 
 
+def archetypes() -> dict:
+    """Companion and familiar archetypes out of the AoN archetype crawl (compendium/pf1e/archetypes.json):
+    each one's abilities, and the standard abilities they say they replace or alter."""
+    src = json.loads((COMP / "pf1e" / "archetypes.json").read_text(encoding="utf-8"))["entries"]
+    out = {"companion": [], "familiar": []}
+    for e in src:
+        m = re.search(r"FixedName=(Companion|Familiar)%20", e["url"])
+        if not m:
+            continue
+        abilities = [{"name": k, "text": v} for k, v in e["fields"].items() if k != "Source"]
+        replaces = []
+        for found in re.finditer(r"This (?:ability )?replaces ([^.]+)\.", e["md"]):
+            replaces += [re.sub(r"^replaces ", "", x.strip().lower()) for x in re.split(r",| and ", found.group(1))
+                         if x.strip() and not x.strip().lower().startswith("alters ")]
+        intro = re.split(r"\n\s*\*\*", re.sub(r"^# .*\n+\*\*Source\*\*[^\n]*\n", "", e["md"]), maxsplit=1)[0].strip()
+        out[m.group(1).lower()].append({"name": e["name"], "source": e["source"], "url": e["url"], "intro": intro,
+                                         "abilities": abilities, "replaces": sorted(set(replaces))})
+    return out
+
+
 def main() -> None:
     comp = companions()
     (COMP / "companions.json").write_text(json.dumps(
@@ -196,7 +216,11 @@ def main() -> None:
     fam = familiars()
     (COMP / "familiars.json").write_text(json.dumps(
         {"source": "Archives of Nethys (www.aonprd.com)", **fam}, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"Companions: {len(comp)}; familiars: {len(fam['familiars'])}; improved familiars: {len(fam['improved'])}")
+    arch = archetypes()
+    (COMP / "companion-archetypes.json").write_text(json.dumps(
+        {"source": "Archives of Nethys (www.aonprd.com)", **arch}, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"Companions: {len(comp)}; familiars: {len(fam['familiars'])}; improved familiars: {len(fam['improved'])}; "
+          f"archetypes: {len(arch['companion'])} companion, {len(arch['familiar'])} familiar")
 
 
 if __name__ == "__main__":

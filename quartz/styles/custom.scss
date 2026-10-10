@@ -377,7 +377,7 @@ iframe.sop-tool {
   --icon: url("/static/icons/game-icons/squid.png");
 }
 // the Tools page's title gets the cog too (the same icon as the home page's Other Resources, which lists it)
-body[data-slug="Tools"] h1.article-title::before {
+body[data-slug="Tools/index"] h1.article-title::before {
   content: "";
   display: inline-block;
   width: 1em;

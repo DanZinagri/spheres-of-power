@@ -1,0 +1,1310 @@
+{
+ "source": "Archives of Nethys (www.aonprd.com)",
+ "companion": [
+  {
+   "name": "Aberrant Companion",
+   "source": "Ultimate Wilderness pg. 186",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Companion%20Aberrant%20Companion",
+   "intro": "There’s something oddly wrong about aberrant companions. Yet though they’re touched by eldritch magic or mutated by strange influences, they are still loyal, if unnatural, allies.",
+   "abilities": [
+    {
+     "name": "Aberrant Skills",
+     "text": "Aberrant companions treat Escape Artist and Intimidate as class skills."
+    },
+    {
+     "name": "Not Quite Animal",
+     "text": "The DC to use Handle Animal on an aberrant companion is 5 higher, as if it were a nonanimal with an Intelligence score of 1 or 2."
+    },
+    {
+     "name": "Aberrant Sight (Ex)",
+     "text": "An aberrant companion gains darkvision with a range of 60 feet."
+    },
+    {
+     "name": "Alien Mind (Ex)",
+     "text": "At 6th level, an aberrant companion is immune to mind-affecting effects that specifically target animals, such as charm animal. Anyone who attempts to use such an effect against it takes 1d4 points of Wisdom damage (Will DC 20 half )."
+    },
+    {
+     "name": "Fluid Bones (Ex)",
+     "text": "At 9th level, an aberrant companion gains compression as per the universal monster rule, though it can use the ability while carrying a rider only if the rider has compression."
+    }
+   ],
+   "replaces": [
+    "devotion",
+    "multiattack",
+    "share spells",
+    "the +2 natural armor increase at 9th level"
+   ]
+  },
+  {
+   "name": "Accursed Companion",
+   "source": "Horror Realms pg. 10",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Companion%20Accursed%20Companion",
+   "intro": "When a character calls upon the aid and companionship of one of nature’s children, she forges a sacred pact to care for and cherish that creature. In exchange, the animal companion serves as her guide and guardian. The bond between the two strengthens, and the animal companion moves beyond its primal instincts and its soul blossoms. This transcendence is both beautiful and wondrous, but as with all magic, there is always a cost. As an animal companion’s consciousness grows, it can sometimes attract the attention of the spiritual energies that hide in plain sight everywhere. While some of these forces are good or indifferent, others lurk in the void, in the deepest shadows where death waits. When the right moment comes, these darker entities latch onto these proud companions with a vicious hunger. Should the character fail to protect her companion, corruption ebbs forth and fills the once-magnificent creatures with vile intent. Cursed and corrupted, these companions return to their masters broken, scarred, and distraught. Theirs is a curse they are bound to share, for when mortals fail to protect their bonded companions, so too shall those mortals suffer.  \n  \n When a cavalier, druid, hunter, ranger, or other character loses an animal companion to a disturbingly gruesome death, particularly if that fate could have been avoided through an act the character chose not to or was unable to take, the soul of the slain animal companion sometimes remains bound to the character. In such cases, this scarred soul infests the next companion the character takes.  \n  \n\n## Gaining an Accursed Companion\n\nAny character with the animal companion or mount class ability can choose to gain an accursed animal companion once a previous animal companion has suffered a violent, humiliating, or particularly horrible death. The character must then choose to gain an accursed companion while performing the ritual to replace the slain companion. At the GM’s discretion, the player might automatically gain an accursed companion unless she takes the time to seek atonement for allowing her previous companion to die.  \n  \n\n## Accursed Companion Manifestations\n\nAn accursed companion’s unnatural condition manifests in one of the following ways, chosen at the time the companion is gained. Once selected, the choice cannot be changed. Who gets to choose the manifestation depends on the GM’s preference (the manifestation may even be randomly determined).  \n  \n All manifestations grant a boon in combat to the animal companion but a disadvantage to the master. An animal companion’s accursed manifestation can be activated in one of two ways: the companion’s master can deliberately trigger a manifestation by making a successful DC 20 Handle Animal or wild empathy check as a move action, or the manifestation can take place when a specific trigger occurs, as detailed in each manifestation’s entry.  \n  \n When an accursed companion manifests its condition, the companion’s master can resist or mitigate the debilitating side effect with a successful Will save (DC = 10 + 1/2 the accursed companion’s HD + the accursed companion’s Wisdom modifier [minimum +0]). However, manifestations that are constant (such as festering flesh or unsavory friends) have an equally constant effect on the companion’s master, and these effects cannot be mitigated or resisted in any way. An accursed companion can only be affected by a manifestation once per hour unless the manifestation is constant. All side effects on an accursed companion’s master are mind-affecting effects.",
+   "abilities": [
+    {
+     "name": "Bestial Flashes (Su)",
+     "text": "The companion is haunted by the previous companion’s fear and pain during its death. This manifestation is triggered automatically whenever the accursed companion takes damage from a single blow in excess of half its current hit points. When an accursed companion suffers bestial flashes, it gains a +2 morale bonus on all attack rolls and damage rolls made on natural attacks, and gains a +4 morale bonus on rolls to confirm critical hits. Once triggered, a bestial flash lasts for 1 minute. When a bestial flash occurs, the mind of the companion’s master is overwhelmed with images of feral savagery. She becomes confused for 1d4 rounds and is then sickened for the remainder of the minute that the bestial flash persists. On a successful Will save, the master is instead sickened for only 1d4 rounds."
+    },
+    {
+     "name": "Bloodthirsty (Su)",
+     "text": "The companion becomes consumed with bloodlust that drives it into a frenzy of savage ferocity. This manifestation is triggered automatically whenever the accursed companion makes a successful critical hit with a natural attack. When the companion becomes bloodthirsty, it flies into a rage and gains +2 Constitution and +2 Strength, but it also takes a –2 penalty to its AC. The rage lasts until the battle is over or for 1 minute, whichever is shorter. It cannot end its rage voluntarily. The companion’s master is overwhelmed with rage as well for this period, although this rage is unfocused and distracting, preventing the master from doing anything but growling, hissing, shrieking, and making other animalistic howls, during which time the master cannot speak or use spells with verbal components. A successful Will save reduces the duration of the master’s rage to 1 round."
+    },
+    {
+     "name": "Festering Flesh (Su)",
+     "text": "The companion looks horrific and smells worse. Its rancid flesh reeks of rot and crawls with fleas, ticks, and other vile parasites. Despite its obvious grotesqueness, the creature is quite affectionate, perhaps even overly and inappropriately so. This manifestation is always active—the accursed companion is immune to the sickened and nauseated condition. The master, on the other hand, becomes consumed by fears of contagion to the extent that she takes a –2 penalty on all saving throws against disease effects."
+    },
+    {
+     "name": "Palsy (Su)",
+     "text": "The poor creature is stricken with palsy. It drools constantly and its muscles spasm with tics and twitches. The palsy doesn’t impact its abilities, and actually aids the accursed companion when it loses mobility from other sources. The first time each day that the accursed companion becomes paralyzed, grappled or otherwise has its movement impaired, a freedom of movement effect automatically activates on the accursed companion. This effect persists for 1 minute, during which time the companion’s master becomes nauseated unless she succeeds at a Will save (in which case she is merely sickened for the duration)."
+    },
+    {
+     "name": "Rabid Vomit (Ex)",
+     "text": "A crust of froth lines the rim of the accursed companion’s mouth. This manifestation is triggered automatically on the third round of any combat—on this round, the accursed companion always takes a standard action to vomit diseased pus and bile in a 15-foot cone (after moving, if it can, to capture as many enemies in the area of effect as possible). All creatures in this area must succeed at a Fortitude saving throw (DC = 10 + 1/2 the accursed companion’s HD + the accursed companion’s Constitution modifier) or become nauseated for 1d4 rounds and contract rabies (Pathfinder RPG Bestiary 87). On a successful save, the targets are merely sickened for 1d4 rounds. When the accursed companion makes this vomit attack, its master is overwhelmed by the sensation of a mouthful of diseased bile. She is stunned for 1 round and nauseated for 1d4 rounds thereafter unless she succeeds at a Will save, in which case she is merely sickened for 1d4 rounds."
+    },
+    {
+     "name": "Scavenger (Su)",
+     "text": "This companion is particularly intrigued by undeath, often playing with carcasses and presenting decaying body parts as gifts to its master. This manifestation is triggered automatically when the companion successfully damages a corporeal undead with a natural attack. For 1 minute, the companion gains a +2 bonus on all attack rolls, damage rolls, and saving throws against undead. During this time, the companion’s master becomes more susceptible to the undead, and takes a –2 penalty to all mind-affecting effects created by any undead creature."
+    },
+    {
+     "name": "Unexpected Frenzy (Su)",
+     "text": "The accursed companion looks normal, but some conditions or phrases cause the animal to fly into a murderous frenzy. When an accursed companion gains this condition, the GM determines three specific situations that can trigger the manifestation of the unexpected frenzy, such as a character petting the companion on the head, a keyword or key phrase such as “good dog,” or the sight of a specific type of creature within 10 feet. The first time each day one of the three triggers occurs, the accursed companion flies into its frenzy. Its eyes glow, and any sounds it makes take on an eerie, hollow echo. The companion acts as if under the effects of haste for 1d4 rounds before returning to normal, and it typically attacks the source of its trigger. While her companion is frenzied, the master is overwhelmed with shame and despair, suffering as if under the effects of a crushing despair spell for twice the length of the accursed companion’s frenzy. A successful Will save negates this effect."
+    },
+    {
+     "name": "Unsavory Friends (Su)",
+     "text": "The companion manages to attract the company of less desirable species. It has an uncanny knack for finding centipedes, bats, mice, and other vermin, even in areas where such pests might not be all that common. Even more unusual, the companion makes it a habit to play with such creatures and becomes angry and defensive if anything threatens its vermin friends. This manifestation is constant. Immune to the distraction effect caused by all swarms, the animal companion is comfortable and even welcomes the nauseating sensation of its crawling friends. The companion’s master, unfortunately, never gets used to finding squirming bugs or wriggling maggots in the companion’s vicinity and takes a –4 penalty on all saving throws against any swarm’s distraction ability."
+    }
+   ],
+   "replaces": []
+  },
+  {
+   "name": "Ambusher",
+   "source": "Ultimate Wilderness pg. 186",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Companion%20Ambusher",
+   "intro": "Ambushers sneak up on unsuspecting prey, pouncing on targets when they least expect it.",
+   "abilities": [
+    {
+     "name": "Camouflage (Ex)",
+     "text": "An ambusher gains a +4 racial bonus on Stealth checks in its natural environment (if this is unclear, use the environment in its Bestiary entry). At 15th level, an ambusher can use the Stealth skill to hide in its natural environment, even if the environment doesn’t grant cover or concealment."
+    },
+    {
+     "name": "Cunning Ambusher (Ex)",
+     "text": "At 3rd level, an ambusher gains uncanny dodge. At 6th level, an ambusher gains a +2 racial bonus on initiative checks, and during the surprise round, opponents are always considered flat-footed against the ambusher’s attacks, even if they have already acted. At 9th level, an ambusher gains a +2 morale bonus on attack and damage rolls during a surprise round."
+    }
+   ],
+   "replaces": [
+    "devotion",
+    "evasion",
+    "improved evasion",
+    "multiattack",
+    "share spells"
+   ]
+  },
+  {
+   "name": "Apex Species",
+   "source": "Wilderness Origins pg. 20",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Companion%20Apex%20Species",
+   "intro": "Some animals have no serious competitors and no real predators. They are masters of their habitats, perfectly evolved to take advantage of their native terrain. They need not be predators, of course—some herbivores are just as lethally suited to their homes.",
+   "abilities": [
+    {
+     "name": "Native Environment (Ex)",
+     "text": "An apex species selects a specific terrain type from the ranger list of favored terrains. While in that terrain, the apex species gains a bonus equal to half its level on checks and saves to deal with environmental hazards. An apex species may not select a plane as its native environment."
+    },
+    {
+     "name": "Favored Terrain (Ex)",
+     "text": "At 3rd level, the apex species gains the ranger’s favored terrain ability for the terrain that matches its native environment, except that the bonus is +1 instead of the ranger’s +2. The bonus improves by 1 at 8th, 13th, and 18th levels, but the animal companion does not gain additional favored terrains."
+    },
+    {
+     "name": "Natural Selection (Ex)",
+     "text": "At 6th level, the apex species gains an ability based on their favored terrain, as follows"
+    },
+    {
+     "name": "Master of the Wild (Ex)",
+     "text": "At 9th level, the apex species gains an ability based on its favored terrain, as follows."
+    }
+   ],
+   "replaces": [
+    "devotion",
+    "evasion",
+    "improved evasion",
+    "multiattack",
+    "share spells"
+   ]
+  },
+  {
+   "name": "Augmented Companion",
+   "source": "Ultimate Wilderness pg. 186",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Companion%20Augmented%20Companion",
+   "intro": "Augmented companions have suffered an injury, such as the loss of a wing, and parts of their bodies have been replaced by a master construct crafter. This procedure grants them unusual abilities.",
+   "abilities": [
+    {
+     "name": "Not Quite Animal",
+     "text": "The DC to use Handle Animal on an augmented companion is 5 higher, as if it were a nonanimal with an Intelligence score of 1 or 2."
+    },
+    {
+     "name": "Augmented Body (Ex)",
+     "text": "An augmented companion heals only half as much as normal from positive energy healing effects but also heals half the usual amount from effects that specifically heal constructs."
+    },
+    {
+     "name": "Augmented Sight (Ex)",
+     "text": "An augmented companion gains low-light vision and darkvision to a range of 60 feet."
+    },
+    {
+     "name": "Constructed Form (Ex)",
+     "text": "At 6th level, an augmented companion gains a +4 morale bonus on Fortitude saves against effects that could not normally affect objects or constructs, and it takes only half damage from bleed effects. However, it can be affected by attacks that specifically target constructs."
+    }
+   ],
+   "replaces": [
+    "devotion",
+    "share spells"
+   ]
+  },
+  {
+   "name": "Auspice",
+   "source": "Ultimate Wilderness pg. 187",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Companion%20Auspice",
+   "intro": "Auspices were born with a birthmark or other feature that seems to be in the shape of their master’s deity’s holy symbol; they are usually animal sacred to that deity’s religion.",
+   "abilities": [
+    {
+     "name": "Aligned (Ex)",
+     "text": "Even though an auspice is an animal, its connection to its associated deity allows it to be chaotic neutral, lawful neutral, neutral evil, or neutral good, whichever is closest to the deity’s alignment, or it can remain true neutral."
+    },
+    {
+     "name": "Auspicious Boon (Sp, Su)",
+     "text": "At 1st level, the auspice can cast guidance as a spell-like ability at will as a full-round action. At 3rd level, the auspice can access a spark of its associated deity’s favor. Choose one of that deity’s domains that grants a 1st-level domain power usable a number of times per day equal to 3 + the user’s Wisdom modifier. The auspice can use that power once per day."
+    },
+    {
+     "name": "Aligned Strike (Ex)",
+     "text": "At 15th level, an auspice’s attacks count as chaotic, evil, good, or lawful (whichever matches its alignment) for the purpose of overcoming damage reduction, unless the auspice is true neutral."
+    }
+   ],
+   "replaces": [
+    "evasion",
+    "improved evasion",
+    "share spells"
+   ]
+  },
+  {
+   "name": "Bodyguard",
+   "source": "Ultimate Wilderness pg. 187",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Companion%20Bodyguard",
+   "intro": "Some companions live lives of faithful devotion and steady vigilance, standing watch through long hours and always ready to leap into action to protect their masters.",
+   "abilities": [
+    {
+     "name": "Animal Feats",
+     "text": "In addition to the standard feats available to animal companions, a bodyguard can select Bodyguard, Combat Patrol, Heroic Defiance, Heroic Recovery, and In Harm’s Way."
+    },
+    {
+     "name": "Shared Vigilance (Ex)",
+     "text": "Both a bodyguard and its master gain Alertness as a bonus feat whenever they are adjacent."
+    },
+    {
+     "name": "Tenacious Guardian (Ex)",
+     "text": "At 3rd level, a bodyguard can always act in a surprise round (though it remains flat-footed until it acts). As long as its master is adjacent, a bodyguard remains conscious (though it becomes staggered) when its hit points fall below 0. While below 0 hit points, the bodyguard loses 1 hit point per round but gains a +2 morale bonus on attack rolls, saving throws, and skill checks, dying only if its hit points reach a negative total equal to its Constitution score plus its master’s class level."
+    },
+    {
+     "name": "Uncanny Dodge (Ex)",
+     "text": "At 9th level, a bodyguard gains uncanny dodge as per the rogue class feature of the same name."
+    },
+    {
+     "name": "Greater Tenacity (Ex)",
+     "text": "At 15th level, a bodyguard with fewer than 0 hit points gains a +4 morale bonus on attack rolls, saving throws, and skill checks; immunity to fear effects; and temporary hit points equal to its master’s class level (maximum 20). It dies only if its hit points reach a negative total equal to twice its Constitution score plus its master’s class level."
+    }
+   ],
+   "replaces": [
+    "evasion",
+    "improved evasion",
+    "multiattack",
+    "share spells"
+   ]
+  },
+  {
+   "name": "Bully",
+   "source": "Ultimate Wilderness pg. 187",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Companion%20Bully",
+   "intro": "Bigger than others of its kind, a bully is used to winning fights and displays of dominance for its choice of mates, territory, or other privileges.",
+   "abilities": [
+    {
+     "name": "Bully Feats",
+     "text": "In addition to the standard feats available to animal companions, a bully can select Greater Bull Rush, Greater Overrun, Greater Reposition, Greater Trip, Improved Reposition, and Improved Trip. It can use Power Attack instead of Combat Expertise as a prerequisite to qualify for feats on this list."
+    },
+    {
+     "name": "Bullying Thrill (Ex)",
+     "text": "At 9th level, whenever a bully succeeds at a bull rush, overrun, reposition, or trip combat maneuver check, after fully resolving the combat maneuver, it gains a +2 morale bonus on attack and damage rolls until the end of its next turn."
+    }
+   ],
+   "replaces": [
+    "multiattack",
+    "share spells"
+   ]
+  },
+  {
+   "name": "Charger",
+   "source": "Animal Archive pg. 20",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Companion%20Charger",
+   "intro": "The mighty charger is a boon to heavily armored and armed champions, bearing them and their ironmongery into battle without hesitation.",
+   "abilities": [
+    {
+     "name": "Animal Feats",
+     "text": "In addition to the standard animal companion feats, a charger may select Charge ThroughAPG, Greater Overrun, Improved Great Fortitude, and Improved Iron Will."
+    },
+    {
+     "name": "Animal Skills",
+     "text": "Chargers treat Intimidate as a class skill."
+    },
+    {
+     "name": "Mounted Challenge (Ex)",
+     "text": "When ridden by a cavalier, chargers gain half of the bonuses and penalties granted by the cavalier’s challenge class feature. This ability replaces share spells."
+    },
+    {
+     "name": "Barding Training (Ex)",
+     "text": "At 3rd level, a charger’s armor check penalty for wearing barding or for carrying a medium load is reduced by 1 and the maximum Dexterity bonus for its armor and load increases by 1. Reduce the armor check and medium load penalties by an additional 1 for every 6 levels after 3rd; increase the maximum Dexterity bonus for the charger’s armor by an additional 1 for every 6 levels after 3rd. In addition, the charger’s speed does not decrease when wearing medium armor or carrying a medium load. At 9th level, a charger can move at normal speed in heavy armor or while carrying a heavy load. This ability replaces evasion and Multiattack."
+    },
+    {
+     "name": "Indefatigable (Ex)",
+     "text": "At 6th level, a charger becomes immune to fatigue. This ability replaces devotion."
+    },
+    {
+     "name": "Stalwart Steed (Ex)",
+     "text": "At 15th level, the charger gains the ability to withstand great punishment and stress. Whenever the charger succeeds at a Fortitude or Will save that would normally result in a reduced or partial effect, the charger is unaffected. This ability replaces improved evasion."
+    }
+   ],
+   "replaces": [
+    "devotion",
+    "evasion",
+    "improved evasion",
+    "multiattack",
+    "share spells"
+   ]
+  },
+  {
+   "name": "Daredevil",
+   "source": "Ultimate Wilderness pg. 187",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Companion%20Daredevil",
+   "intro": "Daredevil companions join the fray with graceful leaps or swooping dives, heedless of the danger.",
+   "abilities": [
+    {
+     "name": "Artful Acrobat (Ex)",
+     "text": "A daredevil gains a competence bonus on Acrobatics checks equal to half its Hit Dice."
+    },
+    {
+     "name": "Uncanny Dodge (Ex)",
+     "text": "At 6th level, a daredevil gains Mobility as a bonus feat without needing to meet the prerequisites. If it already has Mobility, it gains Spring Attack instead."
+    },
+    {
+     "name": "Devil May Care (Ex)",
+     "text": "At 9th level, a daredevil can’t be flanked."
+    }
+   ],
+   "replaces": [
+    "devotion",
+    "multiattack",
+    "share spells"
+   ]
+  },
+  {
+   "name": "Deathtouched Companion",
+   "source": "Ultimate Wilderness pg. 187",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Companion%20Deathtouched%20Companion",
+   "intro": "Whether the result of a partially successful attempt at revival, a strange blight, or repeated exposure to undead, deathtouched companions are living animals with a trace of the undead, somewhat like dhampirs.",
+   "abilities": [
+    {
+     "name": "Deathtouched Skills",
+     "text": "Deathtouched companions treat Intimidate as a class skill."
+    },
+    {
+     "name": "Not Quite Animal",
+     "text": "The DC to use Handle Animal on a deathtouched companion is 5 higher, as if it were a nonanimal with an Intelligence score of 1 or 2. It doesn’t count as an animal for the purpose of an undead’s unnatural aura."
+    },
+    {
+     "name": "Dead Sight (Ex)",
+     "text": "A deathtouched companion gains darkvision to a range of 60 feet."
+    },
+    {
+     "name": "Negative Energy Affinity (Ex)",
+     "text": "Though a living creature, a deathtouched companion reacts to positive and negative energy as if it were undead—positive energy harms it, while negative energy heals it."
+    },
+    {
+     "name": "One Foot in the Grave (Ex)",
+     "text": "At 6th level, a deathtouched companion gains a +4 morale bonus on Fortitude saves against effects that could not normally affect objects or undead, and it takes only half damage from bleed effects. However, it can be affected by attacks that specifically target undead, such as halt undead."
+    }
+   ],
+   "replaces": [
+    "devotion",
+    "share spells"
+   ]
+  },
+  {
+   "name": "Draconic Companion",
+   "source": "Ultimate Wilderness pg. 188",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Companion%20Draconic%20Companion",
+   "intro": "Draconic companions bear a faint trace of dragon blood that grants them special abilities.",
+   "abilities": [
+    {
+     "name": "Draconic Skills",
+     "text": "Draconic companions treat Intimidate as a class skill."
+    },
+    {
+     "name": "Not Quite Animal",
+     "text": "The DC to use Handle Animal on a draconic companion is 5 higher, as if it were a nonanimal with an Intelligence score of 1 or 2."
+    },
+    {
+     "name": "Draconic Sight (Ex)",
+     "text": "A draconic companion gains lowlight vision and darkvision to a range of 60 feet."
+    },
+    {
+     "name": "Draconic Resistance (Ex)",
+     "text": "At 3rd level, choose acid, cold, electricity, or fire, based on the draconic companion’s draconic ancestor. The draconic companion gains resistance 5 against the chosen energy type, as well as a +2 racial bonus on saves against paralysis and sleep."
+    },
+    {
+     "name": "Breath Weapon (Ex)",
+     "text": "At 9th level, a draconic companion gains a breath weapon, usable once per day, that deals 1d6 points of damage per Hit Dice of the energy type matching its draconic resistance in either a 30-foot cone or a 60-foot line (chosen when the draconic companion gains this ability). At 15th level, it can use the breath weapon three times per day, but it must wait 1d4 rounds between uses. Targets of this breath weapon can attempt a Reflex save (DC = 10 + half the draconic companion’s Hit Dice + the draconic companion’s Constitution modifier) for half damage."
+    }
+   ],
+   "replaces": [
+    "devotion",
+    "evasion",
+    "improved evasion",
+    "multiattack",
+    "share spells"
+   ]
+  },
+  {
+   "name": "Elemental Companion",
+   "source": "Plane-Hopper's Handbook pg. 26",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Companion%20Elemental%20Companion",
+   "intro": "The heart of this companion beats with primal energy.",
+   "abilities": [
+    {
+     "name": "Elemental Type (Ex)",
+     "text": "An elemental companion gains a subtype that matches its element: air, earth, fire, or water."
+    }
+   ],
+   "replaces": [
+    "evasion",
+    "improved evasion",
+    "multiattack"
+   ]
+  },
+  {
+   "name": "Feytouched Companion",
+   "source": "Ultimate Wilderness pg. 188",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Companion%20Feytouched%20Companion",
+   "intro": "Feytouched companions are strangely colored fauna native to the First World, the primal realm of the fey. They gain strange abilities tied to the fey.",
+   "abilities": [
+    {
+     "name": "Feytouched Skills",
+     "text": "Feytouched companions treat Perform as a class skill."
+    },
+    {
+     "name": "Not Quite Animal",
+     "text": "The DC to use Handle Animal on a feytouched companion is 5 higher, as if it were a nonanimal with an Intelligence score of 1 or 2."
+    },
+    {
+     "name": "Small but Fierce (Ex)",
+     "text": "A feytouched companion must be an animal companion that normally starts as Small or smaller. At 4th or 7th level, whenever the feytouched companion would normally gain the choice of a listed advancement or a +2 bonus to its Dexterity and Constitution scores, it instead gains a +2 bonus to its Strength, Dexterity, and Constitution scores."
+    },
+    {
+     "name": "Fey Magic (Sp)",
+     "text": "A feytouched companion can cast dancing lights at will as a spell-like ability as a full-round action. At 3rd level, a feytouched companion can ready an action for its master’s spellcasting while adjacent to its master, to allow its master to spontaneously cast one of the following spells by sacrificing a spell slot of equal or higher level: faerie fire (1st), glitterdust (2nd), deep slumber (3rd), major image (4th), confusion (5th), feeblemind (7th), mislead (8th). A feytouched companion’s master can cast each of the spells on the list only once each day in this way."
+    },
+    {
+     "name": "Iron Bane (Ex)",
+     "text": "At 3rd level, a feytouched companion gains damage reduction 1/cold iron. This damage reduction increases by 1 for every 3 levels beyond 3rd. Any creature holding or wearing an item made out of cold iron takes a –10 penalty on Handle Animal checks to handle the feytouched companion."
+    }
+   ],
+   "replaces": [
+    "devotion",
+    "evasion",
+    "improved evasion",
+    "multiattack",
+    "share spells",
+    "size advancement",
+    "the 4th- or 7th-level ability score"
+   ]
+  },
+  {
+   "name": "Precocious Companion",
+   "source": "Ultimate Wilderness pg. 188",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Companion%20Precocious%20Companion",
+   "intro": "Precocious companions are able to learn far more tricks than other companions; this ability to learn allows their masters to use them for a wider variety of tasks.",
+   "abilities": [
+    {
+     "name": "Expanded Tricks (Ex)",
+     "text": "At 3rd level, a precocious companion gains twice as many bonus tricks as normal for an animal companion. A hunter’s animal companion can’t use the additional bonus tricks to learn hunter’s tricks. At 15th level, the DC of the Handle Animal check to push a precocious companion to perform an unlearned trick is only 15, instead of 25."
+    },
+    {
+     "name": "Perspicacious Mind (Ex)",
+     "text": "At 4th or 7th level, whenever the precocious companion would normally gain the choice of a listed score advancement or a +2 bonus to Dexterity and Constitution, it instead gains a +2 bonus to its Intelligence score and a +4 bonus to its Wisdom and Charisma scores."
+    }
+   ],
+   "replaces": [
+    "evasion",
+    "improved evasion",
+    "the 4th- or 7th-level ability score advancement"
+   ]
+  },
+  {
+   "name": "Racer",
+   "source": "Ultimate Wilderness pg. 188",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Companion%20Racer",
+   "intro": "Some companions have uncanny speed, providing their masters with swift transport.",
+   "abilities": [
+    {
+     "name": "Racer Feats",
+     "text": "In addition to the standard feats available to animal companions, a racer can select Acrobatic Steps, Charge Through, Improved Lightning Reflexes, Lightning Stance, Nimble Moves, and Wind Stance."
+    },
+    {
+     "name": "Fast Movement (Ex)",
+     "text": "A racer’s speed is 10 feet greater than that of typical animals of its kind when it is wearing no armor and carrying a light load."
+    },
+    {
+     "name": "Sprint (Ex)",
+     "text": "At 6th level, once per hour a racer can move at 10 times its normal speed when it makes a charge or uses the run action."
+    }
+   ],
+   "replaces": [
+    "devotion",
+    "share spells"
+   ]
+  },
+  {
+   "name": "Totem Guide",
+   "source": "Ultimate Wilderness pg. 189",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Companion%20Totem%20Guide",
+   "intro": "Totem guides embody the wisdom and spirituality of the natural world, providing guidance as well as aid in combat. Once a totem guide is chosen, a character can replace the companion if it is slain but must choose the same kind of totem guide.",
+   "abilities": [
+    {
+     "name": "Spiritual Guidance (Sp)",
+     "text": "At 3rd level, a totem guide can use guidance as a spell-like ability at will as a full-round action, targeting itself or its master. In addition, a totem guide’s master can spontaneously cast the following spells while adjacent to the totem guide by sacrificing a spell slot of equal or higher level: detect animals or plants (1st), augury (2nd), helping hand (3rd), divination (4th), commune with nature (5th), and find the path (6th). The totem guide serves as a divine focus for these spells, but costly material components must still be provided."
+    },
+    {
+     "name": "Beast Speech (Ex)",
+     "text": "At 6th level, a totem guide can speak with its master as though the two share a common language, and it can speak with other animals of its species (or, at the GM’s discretion, other creatures with similar types)."
+    },
+    {
+     "name": "Eldritch Claws",
+     "text": "At 9th level, a totem guide gains Eldritch Claws as a bonus feat."
+    },
+    {
+     "name": "Ghost Guardian (Ex)",
+     "text": "At 15th level, a totem guide’s natural weapons deal full damage to incorporeal creatures, and its natural armor bonus applies against incorporeal touch attacks. A totem guide can never be transformed into or animated as an undead creature."
+    }
+   ],
+   "replaces": [
+    "devotion",
+    "evasion",
+    "improved evasion",
+    "multiattack"
+   ]
+  },
+  {
+   "name": "Tracker",
+   "source": "Ultimate Wilderness pg. 189",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Companion%20Tracker",
+   "intro": "Some companions are expert trackers, able to use their scent ability to follow any trail.",
+   "abilities": [
+    {
+     "name": "Keen Nose",
+     "text": "A tracker must be an animal companion with the scent ability."
+    },
+    {
+     "name": "Tracker Skills",
+     "text": "Trackers treat Survival as a class skill."
+    },
+    {
+     "name": "Expert Tracker (Ex)",
+     "text": "A tracker gains a competence bonus on Survival checks to track via scent equal to half its total Hit Dice. At 6th level, it can move at its normal speed while using Survival to follow tracks without taking the normal –5 penalty. It takes only a –10 penalty (instead of the normal –20 penalty) when moving at up to twice its normal speed while tracking."
+    }
+   ],
+   "replaces": [
+    "devotion",
+    "share spells"
+   ]
+  },
+  {
+   "name": "Unexpected Intellectual",
+   "source": "Wilderness Origins pg. 20",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Companion%20Unexpected%20Intellectual",
+   "intro": "Sometimes, when an insect or other vermin is chosen to be an animal companion, it proves cleverer than expected. On occasion, it proves much cleverer.",
+   "abilities": [
+    {
+     "name": "Special Requirement",
+     "text": "Only vermin companions may become unexpected intellectuals."
+    }
+   ],
+   "replaces": [
+    "share spells"
+   ]
+  },
+  {
+   "name": "Verdant Companion",
+   "source": "Ultimate Wilderness pg. 189",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Companion%20Verdant%20Companion",
+   "intro": "Favorites of druids who balance their responsibilities between flora and fauna, verdant companions are animals with some of the abilities and physical aspects of plants.",
+   "abilities": [
+    {
+     "name": "Not Quite Animal",
+     "text": "The DC to use Handle Animal on a verdant companion is 5 higher, as if it were a nonanimal with an Intelligence score of 1 or 2."
+    },
+    {
+     "name": "Photosynthesis (Ex)",
+     "text": "As long as it stays in the sunlight for at least 8 hours per day, a verdant companion doesn’t need to eat. Otherwise, it eats normally for an animal of its kind."
+    },
+    {
+     "name": "Verdant Resistance (Ex)",
+     "text": "A verdant companion gains a +1 racial bonus on saving throws against mind-affecting effects, paralysis, poison, polymorph, sleep effects, and stunning. This bonus increases to +2 at 3rd level, +3 at 6th level, and +4 at 15th level. At 6th level, a verdant companion gains roots it can plant or retract as a swift action. With its roots planted, it can’t move, but it gains a +4 bonus to its CMD against bull rush, pull, push, reposition, trip, and other combat maneuvers that would knock it over or move it."
+    }
+   ],
+   "replaces": [
+    "devotion",
+    "evasion",
+    "improved evasion",
+    "share spells"
+   ]
+  },
+  {
+   "name": "Wrecker",
+   "source": "Ultimate Wilderness pg. 189",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Companion%20Wrecker",
+   "intro": "Like unruly pets, some companions have a tendency to destroy nearby objects while unsupervised, and their masters can channel these destructive impulses into an advantage in battle.",
+   "abilities": [
+    {
+     "name": "Wrecker Feats",
+     "text": "In addition to the standard feats available to animal companions, a wrecker can select Improved Sunder and Greater Sunder."
+    },
+    {
+     "name": "Destructive Wrecker (Ex)",
+     "text": "A wrecker’s natural attacks ignore an inanimate object’s first 5 points of hardness. At 9th level, a wrecker’s natural attacks count as if they were adamantine for the purpose of overcoming a construct’s damage reduction."
+    }
+   ],
+   "replaces": [
+    "multiattack",
+    "share spells"
+   ]
+  }
+ ],
+ "familiar": [
+  {
+   "name": "Ambassador",
+   "source": "Ultimate Wilderness pg. 210",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Familiar%20Ambassador",
+   "intro": "An ambassador speaks on its master’s behalf and sometimes on behalf of its master’s patron or other extraplanar contacts.",
+   "abilities": [
+    {
+     "name": "Special Requirement",
+     "text": "An ambassador familiar must be able to speak at least one language, either as a special familiar ability (as in the case of a raven or thrush) or by being an improved familiar. A familiar that can’t speak (or can speak only to its master or other animals) can’t be an ambassador."
+    },
+    {
+     "name": "Ambassador Skills",
+     "text": "An ambassador treats Bluff, Diplomacy, and Intimidate as class skills."
+    },
+    {
+     "name": "Persuasive (Ex)",
+     "text": "An ambassador gains Persuasive as a bonus feat."
+    },
+    {
+     "name": "Enhanced Personality (Ex)",
+     "text": "An ambassador gains a Charisma score equal to the typical Intelligence score of a familiar of its level, if that would be higher than its normal Charisma score. The familiar’s Intelligence score remains 6 (or its normal starting Intelligence for an improved familiar) and doesn’t increase by level."
+    }
+   ],
+   "replaces": [
+    "alertness",
+    "the familiar’s intelligence score advancement"
+   ]
+  },
+  {
+   "name": "Animal Exemplar",
+   "source": "Ultimate Wilderness pg. 210",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Familiar%20Animal%20Exemplar",
+   "intro": "An animal exemplar is a paragon of its species, able to command the loyalty of others of its kind.",
+   "abilities": [
+    {
+     "name": "Special Requirement",
+     "text": "An animal exemplar familiar cannot be an improved familiar, plant, vermin, or other nonanimal themed familiar."
+    },
+    {
+     "name": "Animal Exemplar Skills",
+     "text": "An animal exemplar treats Handle Animal as a class skill."
+    },
+    {
+     "name": "Influence Animals (Ex, Sp)",
+     "text": "An animal exemplar gains speak with animals with respect to others of its kind at 3rd level instead of 7th level. At 7th level, it gains the ability to influence animals of its kind, as per the wild empathy ability of a druid of its master’s level with a +4 racial bonus on the check, but only for animals of its kind. At 11th level, it can cast charm animal three times per day as a spell-like ability against animals of its kind, and at 13th level, it can cast dominate animal once per day as a spell-like ability against animals of its kind."
+    }
+   ],
+   "replaces": []
+  },
+  {
+   "name": "Arcane Amplifier",
+   "source": "Wilderness Origins pg. 20",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Familiar%20Arcane%20Amplifier",
+   "intro": "The secret of the arcane amplifier familiar was first discovered in Irrisen, where the winter witches used white-furred foxes or hares to strengthen their spells. More recently, the practice has spread to Nex and Cheliax, and to haunted Ustalav where necromancers use black-eyed ravens for their spells.",
+   "abilities": [
+    {
+     "name": "Echo (Su)",
+     "text": "Once per day when delivering a touch spell, an arcane amplifier can apply the Extend Spell metamagic feat to the spell. An arcane amplifier can use this ability twice per day at 8th level, and three times per day at 13th level."
+    },
+    {
+     "name": "Reverberate (Su)",
+     "text": "At 7th level, once per day when delivering a touch spell, an arcane amplifier can apply either the Empower Spell metamagic feat to the spell or use the Heighten Spell metamagic feat to increase its spell level by 2. An arcane amplifier can use this ability twice per day at 11th level."
+    },
+    {
+     "name": "Resonate (Su)",
+     "text": "At 13th level, once per day when delivering a touch spell, an arcane amplifier can apply the Maximize Spell metamagic feat to the spell."
+    }
+   ],
+   "replaces": [
+    "alertness",
+    "improved evasion",
+    "scry on familiar",
+    "speak with animals of its kind",
+    "spell resistance"
+   ]
+  },
+  {
+   "name": "Bloodline Familiars",
+   "source": "Familiar Folio pg. 16",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Familiar%20Bloodline%20Familiars",
+   "intro": "Those with an inherent connection to magic often attract creatures who feel a similar instinctive pull toward magical forces. At 1st level, a sorcerer, bloodrager, or any other character with one of the following bloodlines can choose to gain a bloodline familiar. The character gains a familiar (as a wizard’s familiar), treating her class level as her wizard level for the purposes of this ability. This familiar has an additional ability listed below based on the master’s bloodline.  \n  \n This replaces the 1st-level bloodline power granted by the character’s bloodline; in addition, the character gains bonus spells from her bloodline one level later than she normally would. For example, a sorcerer with the aberrant bloodline who takes a bloodline familiar would not gain the acidic ray bloodline power, and she would gain her first bonus spell at 4th level, her second bonus spell at 6th level, and so on.  \n  \n GMs may use the following bloodline familiar abilities as written, or employ them as guidelines for devising bloodline familiar abilities for bloodlines not listed below.",
+   "abilities": [
+    {
+     "name": "Aberrant—Squeezer (Ex)",
+     "text": "The familiar gains the compression ability, allowing it to move through an area as small as one-quarter its space without squeezing or one-eighth its space when squeezing."
+    },
+    {
+     "name": "Arcane—Spell Catalyst (Su)",
+     "text": "Spells you cast that target your familiar are treated as having a caster level 2 levels higher than your actual caster level."
+    },
+    {
+     "name": "Celestial—Heavenly Touch (Su)",
+     "text": "A number of times per day equal to 3 + your Charisma modif ier, your familiar can grant fast healing 1 to an allied creature it’s touching. This effect lasts a number of rounds equal to your Charisma modif ier (minimum 1) or until the familiar stops touching the creature, whichever comes first. At 10th level, the familiar grants fast healing 2 instead. At 20th level, the familiar grants fast healing 3 instead."
+    },
+    {
+     "name": "Destined—Foretold Touch (Su)",
+     "text": "The familiar gains a +1 luck bonus on attack rolls to deliver touch spells, and the DC of touch spells delivered by the familiar increases by 1. These benefits increase by 1 at 10th level and again at 20th level."
+    },
+    {
+     "name": "Draconic—Dragon’s Flight (Ex)",
+     "text": "The familiar can sprout draconic wings, granting it a fly speed of 30 feet with average maneuverability for a number of minutes per day equal to 1/2 your caster level (minimum 1). These minutes need not be consecutive, but they must be spent in 1-minute increments. At 10th level, the familiar’s fly speed increases to 60 feet with good maneuverability. At 20th level, the familiar’s fly speed increases to 90 feet."
+    },
+    {
+     "name": "Fey—Amusing Familiar (Su)",
+     "text": "The familiar can fascinate other creatures as the fascinate bardic performance, treating your caster level as its bard level and using your Charisma modifier for the purpose of calculating the Will save DC. The familiar cannot perform any other actions while using this ability."
+    },
+    {
+     "name": "Infernal—Hellish Aura (Su)",
+     "text": "Animals don’t willingly approach the familiar unless the animal’s master succeeds at a DC 15 Handle Animal, Ride, or wild empathy check. This DC increases to 20 at 10th level, and to 25 at 20th level. Animal companions, familiars and mounts are immune to this effect."
+    }
+   ],
+   "replaces": [
+    "the 1st-level bloodline power granted by the character’s bloodline; in addition",
+    "the character gains bonus spells from her bloodline one level later than she normally would"
+   ]
+  },
+  {
+   "name": "Decoy",
+   "source": "Familiar Folio pg. 10",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Familiar%20Decoy",
+   "intro": "A decoy misdirects its master’s enemies, allowing the master to strike by surprise.",
+   "abilities": [
+    {
+     "name": "Class Skills",
+     "text": "A decoy treats Bluff as a class skill."
+    },
+    {
+     "name": "Deceitful",
+     "text": "A decoy gains Deceitful as a bonus feat. This replaces alertness."
+    },
+    {
+     "name": "Mockingbird (Ex)",
+     "text": "At 5th level, a decoy can speak any of its master’s languages. At 7th level, it can mimic its master’s voice and intonation perfectly. This ability replaces speak with master and speak with animals of its kind."
+    },
+    {
+     "name": "Master’s Guise (Sp)",
+     "text": "At 11th level, a decoy can transform into a perfect likeness of its master, as the alter self spell. It can hold this form for up to 1 minute per caster level; upon changing back, the decoy must remain in its natural form for an equal amount of time before transforming again. This ability replaces spell resistance."
+    }
+   ],
+   "replaces": [
+    "alertness",
+    "speak with animals of its kind",
+    "speak with master",
+    "spell resistance"
+   ]
+  },
+  {
+   "name": "Egotist",
+   "source": "Ultimate Wilderness pg. 210",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Familiar%20Egotist",
+   "intro": "An egotist believes itself to be the real master in the relationship—the power behind the throne. It often attempts to communicate “orders” for its master as best it can, interfering in matters ranging from spell choices and tactical combat decisions to its master’s love life.",
+   "abilities": [
+    {
+     "name": "Egotist Skills",
+     "text": "An egotist treats Intimidate as a class skill."
+    },
+    {
+     "name": "Song of Myself (Ex)",
+     "text": "An egotist gains Alertness as a bonus feat rather than providing that feat to its master. It gains the variable familiar bonus (such as the bat’s +3 bonus on Fly checks) instead of granting the bonus to its master."
+    },
+    {
+     "name": "Order Master (Ex)",
+     "text": "An egotist gains speak with master at 3rd level instead of 5th level."
+    },
+    {
+     "name": "Receive Touch Spells (Ex)",
+     "text": "At 5th level, an egotist can demand a particular touch spell as a standard action. If it does so, until the egotist’s next turn, its master can cast that spell on the egotist once as a ranged touch within close range, as if using Reach Spell."
+    },
+    {
+     "name": "Scry on Master (Sp)",
+     "text": "At 11th level, an egotist can scry on its master (as if casting the scrying spell) once per day."
+    }
+   ],
+   "replaces": [
+    "deliver touch spells",
+    "scry on familiar"
+   ]
+  },
+  {
+   "name": "Elemental Familiar",
+   "source": "Plane-Hopper's Handbook pg. 26",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Familiar%20Elemental%20Familiar",
+   "intro": "The raw power of an elemental plane suffuses the body of an elemental familiar.",
+   "abilities": [
+    {
+     "name": "Elemental Type (Ex)",
+     "text": "An elemental familiar gains a subtype that matches its element: air, earth, fire, or water."
+    },
+    {
+     "name": "Elemental Manifestation (Ex)",
+     "text": "An elemental familiar gains one or more special abilities based on its element. An air familiar gains a fly speed of 20 feet (good maneuverability); an air familiar that already has a fly speed instead improves its maneuverability by one category or increases its fly speed by 10 feet. An air familiar is considered three size categories larger than its actual size when calculating whether it can be moved by wind. An earth familiar increases the natural armor bonus it gains from its master’s class level by 50% (minimum +1). A fire familiar can spit a globule of fire as a ranged touch attack once every 1d4 rounds; this attack has a range of 30 feet and deals 1d4 fire damage for every 3 character levels the master has. A water familiar can breathe underwater and gains a swim speed of 20 feet; a water familiar that already has a swim speed instead increases its swim speed by 10 feet. A water familiar also gains a bonus to its CMD when resisting bull rush, drag, reposition, and trip combat maneuvers; this bonus is equal to the natural armor adjustment gained from its master’s level."
+    },
+    {
+     "name": "Elemental Speech (Ex)",
+     "text": "An elemental familiar gains the ability to speak and understand a language based on its element: Aquan (water), Auran (air), Ignan (fire), or Terran (earth)."
+    }
+   ],
+   "replaces": [
+    "improved evasion",
+    "speak with animals of its kind"
+   ]
+  },
+  {
+   "name": "Emissary",
+   "source": "Ultimate Wilderness pg. 210",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Familiar%20Emissary",
+   "intro": "The emissary is touched by the divine, serving as a font of wisdom and a moral compass for its master.",
+   "abilities": [
+    {
+     "name": "Special Requirement",
+     "text": "An emissary familiar can serve only a master who worships a single deity."
+    },
+    {
+     "name": "Emissary Skills",
+     "text": "An emissary treats Heal, Knowledge (religion), and Sense Motive as class skills."
+    },
+    {
+     "name": "Divine Guidance (Sp)",
+     "text": "An emissary can cast guidance at will."
+    },
+    {
+     "name": "Share Will (Su)",
+     "text": "Whenever an emissary or its master fails a saving throw against a mind-affecting effect that affects only one of them, the other can attempt the saving throw as well. If this second saving throw is a success, treat the original result as a success, and the emissary and its master can’t use this ability again for 24 hours. On a failure, both the emissary and its master suffer the effects of the failed saving throw, even if one of them wouldn’t ordinarily be a valid target."
+    },
+    {
+     "name": "Domain Influence (Sp or Su)",
+     "text": "At 3rd level, the emissary gains a spark of divine power from the deity its master worships. Choose one of that deity’s domains that grants a 1st-level domain power usable a number of times per day equal to 3 + the user’s Wisdom modifier. The emissary can use that power once per day."
+    }
+   ],
+   "replaces": [
+    "alertness",
+    "deliver touch spells",
+    "share spells"
+   ]
+  },
+  {
+   "name": "Figment",
+   "source": "Ultimate Wilderness pg. 211",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Familiar%20Figment",
+   "intro": "Figments are born from their masters’ imaginations rather than being ordinary creatures that are awakened.",
+   "abilities": [
+    {
+     "name": "Recurring Dream (Su)",
+     "text": "A figment has a total number of hit points equal to 1/4 of its master’s total hit points. If the figment dies, it vanishes, appearing again with 1 hit point after its master awakens from a full night’s sleep. If a figment ever strays more than 100 feet from its master or enters an antimagic field, or if a figment’s master is unconscious or asleep, the figment disappears until the next time its master prepares spells or regains her spells per day. Because it is a being of its master’s mind, a figment can never serve as a witch’s familiar, a shaman’s spirit animal, or any other spell-granting familiar, and it can’t use any divination spells or spell-like abilities the base creature has."
+    },
+    {
+     "name": "Manifest Dreams (Su)",
+     "text": "At 3rd level, a figment is shaped by its master’s dreams. Each time the master awakens from a full night’s rest, he can apply to the figment 1 evolution point’s worth of eidolon evolutions that don’t have a base form requirement. At 7th level, he can apply 2 points’ worth of eidolon evolutions; at 13th level, he can apply 3 points’ worth of eidolon evolutions."
+    }
+   ],
+   "replaces": [
+    "deliver touch spells",
+    "improved evasion",
+    "scry on familiar",
+    "speak with animals of its kind"
+   ]
+  },
+  {
+   "name": "Infiltrator",
+   "source": "Ultimate Wilderness pg. 211",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Familiar%20Infiltrator",
+   "intro": "Familiars can be skilled spies, and infiltrators are the very best of their kind at the subtle art of espionage.",
+   "abilities": [
+    {
+     "name": "Infiltrator Skills",
+     "text": "An infiltrator treats Bluff and Disguise as class skills."
+    },
+    {
+     "name": "Alertness (Ex)",
+     "text": "An infiltrator gains Alertness as a bonus feat rather than providing that feat to its master."
+    },
+    {
+     "name": "Share Spells (Ex)",
+     "text": "An infiltrator can share only divination spells that have a target of “you” via this ability."
+    },
+    {
+     "name": "Uncanny Stealth (Ex)",
+     "text": "An infiltrator gains uncanny dodge and improved uncanny dodge, treating its master’s level as its effective rogue level."
+    },
+    {
+     "name": "Scry on Familiar (Sp)",
+     "text": "At 7th level, an infiltrator’s master can scry on it for up to 1 minute per level per day. The duration does not need to be consecutive, but it must be used in 1-minute increments."
+    },
+    {
+     "name": "Telepathic Bond (Sp)",
+     "text": "At 11th level, an infiltrator gains a permanent telepathic bond with its master. This bond has no range limit as long as the familiar and its master are on the same plane."
+    }
+   ],
+   "replaces": [
+    "improved evasion",
+    "speak with animals of its kind",
+    "spell resistance"
+   ]
+  },
+  {
+   "name": "Mascot",
+   "source": "Ultimate Wilderness pg. 211",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Familiar%20Mascot",
+   "intro": "A familiar sometimes serves as the centerpiece of an adventuring party. Known as a mascot, this type of familiar eventually treats the entire party as its master.",
+   "abilities": [
+    {
+     "name": "Mascot Skills",
+     "text": "A mascot treats all Perform skills as class skills."
+    },
+    {
+     "name": "Affinity for My Team (Su)",
+     "text": "A mascot is the heart and soul of its team. At first, the team consists of only the familiar and its master, but at 3rd level and every 3 levels thereafter, a mascot can add an additional member to its team. A mascot’s empathic link extends to all members of its team. A mascot can add or remove one team member over the course of a day."
+    },
+    {
+     "name": "Lucky Mascot (Su)",
+     "text": "Whenever a mascot uses the aid another action to improve a team member’s attack roll or AC, that team member also gains a +1 luck bonus to AC for 1 round."
+    },
+    {
+     "name": "Share Spells (Ex)",
+     "text": "At 3rd level, spells that target a mascot via its share spells ability function at its master’s caster level – 2. The mascot also benefit from the spells of any team member when it is using share spells."
+    },
+    {
+     "name": "Deliver Touch Spells (Su)",
+     "text": "At 5th level, spells delivered by a mascot’s deliver touch spells ability function at its master’s caster level – 2. The mascot can deliver the touch spells of any of its team members."
+    },
+    {
+     "name": "Speak with Team (Ex)",
+     "text": "At 7th level, a mascot gains the ability to speak with all members of its team verbally as if using speak with master."
+    },
+    {
+     "name": "Heart of the Team (Ex)",
+     "text": "Once per day at 13th level, as a full-round action, a mascot can designate any member of its team as its master for the purpose of calculating its base attack bonus, Hit Dice, hit points, saving throws, and skill ranks."
+    }
+   ],
+   "replaces": [
+    "alertness",
+    "improved evasion",
+    "scry on familiar",
+    "speak with animals of its kind",
+    "speak with master",
+    "spell resistance"
+   ]
+  },
+  {
+   "name": "Mauler",
+   "source": "Ultimate Wilderness pg. 212",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Familiar%20Mauler",
+   "intro": "While most familiars are scouts and assistants, the mauler familiar cares only for the thrill of battle. A mauler often serves a bloodthirsty or martial-minded master.",
+   "abilities": [
+    {
+     "name": "Mauler Skills",
+     "text": "A mauler treats Intimidate as a class skill."
+    },
+    {
+     "name": "Bond Forged in Blood (Su)",
+     "text": "A mauler isn’t impressed by fancy words—only furious battle. A mauler can’t speak or communicate via language in any way, even if it’s a type of creature that normally could."
+    },
+    {
+     "name": "Increased Strength (Ex)",
+     "text": "At 3rd level and every 2 levels thereafter, a mauler’s Strength score increases by 1. As a result of this ability, the familiar’s Intelligence score remains 6; a mauler can never have an Intelligence score higher than 6."
+    },
+    {
+     "name": "Battle Form (Su)",
+     "text": "At 3rd level, a mauler gains the ability to transform into a larger, more ferocious form and back as a standard action three times per day. In battle form, the mauler’s size becomes Medium and it gains a +2 size bonus to its Strength score. Since many familiars are Tiny or Diminutive, be sure to check for any additional Strength and Dexterity adjustments for increasing in size from Tiny or Diminutive to Medium (Pathfinder RPG Core Rulebook 212). This is a polymorph effect."
+    },
+    {
+     "name": "Damage Reduction (Su)",
+     "text": "At 11th level, a mauler gains DR 5/magic."
+    }
+   ],
+   "replaces": [
+    "deliver touch spells",
+    "speak with animals of its kind",
+    "speak with master",
+    "spell resistance"
+   ]
+  },
+  {
+   "name": "Occult Messenger",
+   "source": "Wilderness Origins pg. 21",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Familiar%20Occult%20Messenger",
+   "intro": "Some familiars are messengers of greater powers than themselves. The witch’s familiar comes from her patron and the emissary is the servant of a god, but the occult messenger is envoy of an odder power still.",
+   "abilities": [
+    {
+     "name": "See the Unseen (Ex)",
+     "text": "While an occult messenger is within arm’s reach, the master gains the Psychic Sensitivity feat."
+    },
+    {
+     "name": "Teacher from Afar (Ex)",
+     "text": "When the occult messenger's master uses a psychic skill unlock while the occult messenger is within arm's reach, the master gains a competence bonus on skill unlocks equal to half the occult messenger's level."
+    }
+   ],
+   "replaces": [
+    "alertness",
+    "deliver touch spells"
+   ]
+  },
+  {
+   "name": "Parasite",
+   "source": "Wilderness Origins pg. 21",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Familiar%20Parasite",
+   "intro": "Most familiars are still something akin to normal animals, conduits for power rather than powers themselves. The parasite is one of the more disturbing exceptions.",
+   "abilities": [
+    {
+     "name": "Infest (Su)",
+     "text": "As a full-round action, a parasite can infest a willing or helpless target at least two size categories larger than the parasite. This deals 1d6 points of Constitution damage as the parasite burrows through viscera before attaching itself to the target’s brain or spinal cord (or equivalent). There, the parasite curls up, with no ability to see or hear anything itself, but with access to its host’s senses."
+    },
+    {
+     "name": "Puppeteer (Sp)",
+     "text": "Beginning at 3rd level, the parasite can attempt to control its host once per day. This functions as suggestion. At 7th level, the parasite can use this ability to replicate dominate person instead. At 15th level, the parasite can replicate dominate monster. The DC for this ability is calculated as if the parasite’s master had cast the spell (defaulting to Charisma if the owner has no spellcasting ability)."
+    }
+   ],
+   "replaces": [
+    "deliver touch spells",
+    "improved evasion",
+    "scry on familiar",
+    "share spells",
+    "speak with animals of its kind",
+    "spell resistance"
+   ]
+  },
+  {
+   "name": "Patron Familiars",
+   "source": "Familiar Folio pg. 17",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Familiar%20Patron%20Familiars",
+   "intro": "Witches’ familiars are often tied to their patrons, enhancing and reinforcing the spellcasters’ connections to the sources of their magical might. Just as a sorcerer can gain a bloodline familiar, a witch can gain a patron familiar by choosing one at 1st level in place of her standard familiar. A patron familiar acts in all ways like a standard witch’s familiar, with the addition of the special ability indicated below according to the witch’s patron. In addition, the witch gains her patron spells 1 level later than she normally would—gaining the patron spell she’d normally receive at 2nd level at 3rd level instead, and so on.",
+   "abilities": [
+    {
+     "name": "Animals—Animal Speaker (Su)",
+     "text": "The familiar gains the ability to speak with animals of its kind at 1st level. If it would normally gain this ability at 7th level, the familiar gains the ability to speak with all animals (as though constantly under the effects of speak with animals) at 7th level."
+    },
+    {
+     "name": "Elements—Elemental Touch (Su)",
+     "text": "Choose an energy type: acid, cold, electricity, or fire. The familiar gains resistance 5 to the selected energy type. Whenever the familiar delivers a touch spell that deals energy damage, it can change the type of energy damage dealt to the selected energy type."
+    },
+    {
+     "name": "Plague—Diseased Touch (Ex)",
+     "text": "Once per day, the familiar can inflict filth fever with its natural attacks for 1 round. At 10th level, the familiar can inflict red ache instead. At 20th level, it can inflict demon fever instead. See page 557 of the Pathfinder RPG Core Rulebook for details on these diseases. The familiar may be able to inflict other injury diseases instead at the GM’s discretion."
+    },
+    {
+     "name": "Shadow—Fearsome Shadows (Sp)",
+     "text": "Once per day, the familiar can use cause fear as a spell-like ability as long as it is in an area of normal or dim light, affecting a single living creature with a number of Hit Dice up to the familiar’s Intelligence score. Thus, creatures normally immune to cause fear because they have 6 or more Hit Dice may not be immune to the familiar’s cause fear spell-like ability."
+    },
+    {
+     "name": "Strength—Strength of Mind (Su)",
+     "text": "A number of times per day equal to its master’s Intelligence modifier (minimum once per day), the familiar can swap its Strength and Intelligence scores as a standard action. This effect lasts for a number of rounds equal to 1/2 the master’s caster level."
+    },
+    {
+     "name": "Water—Amphibious Familiar (Su)",
+     "text": "The familiar can breathe water for a number of minutes per day equal to 1/2 its master’s witch level. These minutes need not be consecutive, but they must be spent in 1-minute intervals. If the familiar can already breathe water, it can breathe air for the same duration. At 10th level, the familiar gains a swim speed of 30 feet (or a land speed of 30 feet if it already has a swim speed) while using this ability. At 20th level, the familiar can move through water as though under the effects of freedom of movement while using this ability."
+    }
+   ],
+   "replaces": []
+  },
+  {
+   "name": "Pilferer",
+   "source": "Ultimate Wilderness pg. 212",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Familiar%20Pilferer",
+   "intro": "Some familiars are stealthy pilferers that perform tricks of thievery or simple spying on their master’s behalf.",
+   "abilities": [
+    {
+     "name": "Pilferer Skills",
+     "text": "A pilferer treats Disable Device, Escape Artist, and Sleight of Hand as class skills."
+    },
+    {
+     "name": "Improved Steal (Ex)",
+     "text": "A pilferer gains Improved Steal as a bonus feat."
+    },
+    {
+     "name": "Nondetection (Su)",
+     "text": "A pilferer is under the constant effect of nondetection with a caster level equal to its master’s class level. The DC of the caster level check to penetrate this nondetection effect is equal to 15 + the master’s caster level."
+    },
+    {
+     "name": "Sneak (Ex)",
+     "text": "At 3rd level, a pilferer gains a competence bonus equal to half its master’s class level on Sleight of Hand and Stealth checks."
+    },
+    {
+     "name": "Greater Steal (Ex)",
+     "text": "At 9th level, a pilferer gains Greater Steal as a bonus feat."
+    }
+   ],
+   "replaces": [
+    "alertness",
+    "deliver touch spells",
+    "improved evasion",
+    "speak with animals of its kind"
+   ]
+  },
+  {
+   "name": "Prankster",
+   "source": "Ultimate Wilderness pg. 212",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Familiar%20Prankster",
+   "intro": "Some familiars love to perform pranks on their unsuspecting masters, as well as on those around their masters—allies and enemies alike. While good-aligned pranksters’ tricks are usually good natured except against foes, evil pranksters play tricks that are mean spirited or even downright cruel.",
+   "abilities": [
+    {
+     "name": "Prankster Skills",
+     "text": "A prankster treats Bluff, Disguise, Perform (comedy), and Sleight of Hand as class skills."
+    },
+    {
+     "name": "Autonomous Link (Ex)",
+     "text": "A prankster can hide its feelings from its master via its empathic link at will. It can also try to project a false emotion through the link by attempting a Bluff check opposed by its master’s Sense Motive."
+    },
+    {
+     "name": "Improved Dirty Trick (Ex)",
+     "text": "A prankster gains Improved Dirty Trick as a bonus feat."
+    },
+    {
+     "name": "Magical Pranks (Sp)",
+     "text": "A prankster can cast ghost sound, mage hand, and prestidigitation at will as spell-like abilities."
+    },
+    {
+     "name": "Glib Comedy (Ex)",
+     "text": "At 3rd level, a prankster gains a competence bonus equal to half its master’s class level on Bluff, Disguise, and Perform (comedy) checks."
+    },
+    {
+     "name": "Greater Dirty Trick (Ex)",
+     "text": "At 11th level, a prankster gains Greater Dirty Trick as a bonus feat."
+    },
+    {
+     "name": "Unreliable Narrator (Sp)",
+     "text": "At 13th level, whenever its master uses scry on familiar, a prankster can use false vision to fool that ability; this doesn’t affect any other divination (scrying) effects in the area, only its master’s scry on familiar ability."
+    }
+   ],
+   "replaces": [
+    "alertness",
+    "deliver touch spells",
+    "improved evasion",
+    "share spells",
+    "spell resistance"
+   ]
+  },
+  {
+   "name": "Protector",
+   "source": "Ultimate Wilderness pg. 212",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Familiar%20Protector",
+   "intro": "Protector familiars are so devoted that they would give their lives for their masters. A tumor familiar can’t be a protector.",
+   "abilities": [
+    {
+     "name": "Loyal Bodyguard (Ex)",
+     "text": "A protector gains Bodyguard and Combat Reflexes as bonus feats. If the familiar is sharing its master’s square, it can use Bodyguard to aid another to improve its master’s AC even if it doesn’t threaten the attacking foe, though it still needs line of effect to its master and the attacker."
+    },
+    {
+     "name": "Shield Master (Su)",
+     "text": "At 5th level, whenever a protector or its master takes hit point damage, as long as the protector and its master are touching, its master can split the damage evenly between them as if under the effects of shield other."
+    },
+    {
+     "name": "Able Defender (Ex)",
+     "text": "At 11th level, a protector gains In Harm’s Way as a bonus feat. In addition, the familiar’s hit points are now equal to its master’s total hit points (not including temporary hit points), regardless of its actual Hit Dice."
+    }
+   ],
+   "replaces": [
+    "alertness",
+    "deliver touch spells",
+    "improved evasion",
+    "speak with animals of its kind",
+    "spell resistance"
+   ]
+  },
+  {
+   "name": "Sage",
+   "source": "Ultimate Wilderness pg. 213",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Familiar%20Sage",
+   "intro": "Sages are masters of useful facts, able to recall them for their masters’ benefit, though this leads many to become haughty and proud.",
+   "abilities": [
+    {
+     "name": "Sage Skills",
+     "text": "A sage treats all Knowledge skills as class skills."
+    },
+    {
+     "name": "Dazzling Intellect (Ex)",
+     "text": "A sage’s Intelligence score is always equal to 5 + its master’s class level, but it gains natural armor increases as if its master’s class level were half what of the actual class level."
+    },
+    {
+     "name": "Sage’s Knowledge (Ex)",
+     "text": "A sage stores information on every topic and is happy to lecture its master on the finer points of a subject. A sage can attempt all Knowledge checks untrained and gains a bonus on Knowledge checks equal to half its master’s class level. Additionally, a sage gains 2 skill ranks each time its master gains a class level. Its maximum number of ranks in any given skill is equal to its master’s class level."
+    }
+   ],
+   "replaces": [
+    "alertness",
+    "the familiar’s ability to share its master’s skill ranks"
+   ]
+  },
+  {
+   "name": "School Familiar",
+   "source": "Familiar Folio pg. 14",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Familiar%20School%20Familiar",
+   "intro": "School familiars are tightly bound to the power of their master’s chosen school of magic. A school familiar cannot have any other familiar archetype (see page 10). At the GM’s discretion, other schools of magic (such as elemental arcane schools from *Pathfinder RPG Ultimate Magic*) may have their own school familiars.",
+   "abilities": [
+    {
+     "name": "School Link (Su)",
+     "text": "A school familiar can use the share spells and deliver touch spells abilities only with spells of its master’s specialized arcane school."
+    },
+    {
+     "name": "School Cantrip (Sp)",
+     "text": "A school familiar can cast at will one cantrip selected from its associated arcane school, using its master’s caster level."
+    },
+    {
+     "name": "Specialty Stowaway (Sp or Su)",
+     "text": "A school familiar can use any granted abilities of its master’s arcane school that have a limited number of uses or rounds per day, expending twice the number of uses or rounds as usual."
+    },
+    {
+     "name": "Lesser School Power",
+     "text": "A school familiar gains the lesser school power matching its associated arcane school."
+    },
+    {
+     "name": "Greater School Power",
+     "text": "A school familiar whose master has taken the Greater School Familiar feat gains the indicated greater school power of its associated arcane school."
+    },
+    {
+     "name": "Lesser—Energy Block (Su)",
+     "text": "Choose an energy type: acid, cold, electricity, fire, or sonic. The familiar gains energy resistance equal to 1/2 its master’s level (minimum 1) to the chosen energy type and can share this resistance with one ally within 5 feet. As a standard action, the familiar’s master can change this energy type. The familiar is immune to magic missile as if protected by shield."
+    },
+    {
+     "name": "Greater—Disruptive Spirit (Su)",
+     "text": "Whenever the familiar hits a creature with a natural attack, that creature is subject to a targeted dispel magic effect at the master’s caster level. This ability can’t be used while delivering a touch spell, and can’t affect the same creature more than once in 24 hours."
+    },
+    {
+     "name": "Lesser—Master’s Side (Sp)",
+     "text": "The familiar can use dimension door to return to its master’s side a number of times per day equal to 3 + its Intelligence modifier (minimum once per day)."
+    },
+    {
+     "name": "Greater—Summoned Shell (Sp)",
+     "text": "Whenever the familiar’s master casts a summon monster spell, if the familiar is within the spell’s range, it can choose to inhabit the body of one creature summoned by the spell. While inhabiting the body, the familiar maintains its own Intelligence, Wisdom, and Charisma scores and its familiar powers, but otherwise gains the statistics and abilities of the summoned creature. When the spell ends, or the summoned creature’s hit points are reduced to 0, the familiar is expelled without suffering any negative effects."
+    },
+    {
+     "name": "Lesser—Ever Ready (Su)",
+     "text": "At the start of combat, the familiar and its master each roll initiative separately, and the master can choose to trade his initiative result with his familiar’s. The familiar gains the benefits of the diviner’s forewarned school power and can always act on the surprise round."
+    },
+    {
+     "name": "Greater—Puppet Master (Su)",
+     "text": "The familiar can strongly influence a creature through physical contact. Once per day, the familiar can make a melee touch attack against a creature and force it to make a Will save (DC = 10 + 1/2 the familiar’s Hit Dice + its Charisma modifier) or be affected as if by charm monster. The effect lasts for as long as the familiar remains conscious and within 5 feet of the target (to a maximum of 24 hours). As soon as the effect ends, the freed victim is forever immune to that familiar’s puppet master ability."
+    },
+    {
+     "name": "Lesser—Energy Boost (Su)",
+     "text": "Choose an energy type: acid, cold, electricity, or fire. The familiar gains resistance 10 to the selected energy type. Whenever an ally casts an evocation spell that has the chosen energy type as a descriptor while within 5 feet of the familiar, the spell deals bonus energy damage equal to its spell level."
+    },
+    {
+     "name": "Greater—Eldritch Battery (Su)",
+     "text": "The familiar becomes immune to the energy type chosen for its energy boost ability. If the familiar’s master casts an evocation spell that has that energy type as a descriptor, and targets the familiar or includes it in the spell’s area, the familiar can choose to absorb the spell. Instead of the spell’s normal effect, the familiar gains the spell (including any metamagic feats applied to it) as a spell-like ability. It can use this ability once, at half the spell’s original caster level. If the halved caster level is insufficient to cast a spell of that level, the familiar doesn’t gain the spell as a spell-like ability. The effect fades after 1 minute if not used."
+    },
+    {
+     "name": "Lesser—Illusory Maestro (Su)",
+     "text": "As a move action, the familiar’s master can transfer control of any illusion spell that requires concentration to the familiar. The familiar’s affinity for illusions also enhances the quality of the illusion, increasing the illusion’s save DC (if any) by 1 for as long as the familiar concentrates on the spell."
+    },
+    {
+     "name": "Greater—Phantom Swarm (Su)",
+     "text": "As a standard action, the familiar can conjure hundreds of illusory duplicates of itself. The familiar can direct the phantom swarm as a normal swarm by moving along with it. The familiar gains a swarm attack that deals 1d6 points of damage with a distraction DC equal to 10 + the familiar’s Constitution modifier. Opponents who fail to disbelieve the effect (Will DC = 10 + 1/2 the master’s level + the familiar’s Charisma modifier) treat the familiar as if it had the swarm subtype. The familiar takes any damage dealt to the swarm, including extra damage from area attacks, though it takes only half damage from slashing and piercing weapons. Creatures who successfully disbelieve the swarm are immune to the swarm’s effects and can target the familiar as an individual creature. Only Tiny or smaller familiars can use this ability. This is an illusion (shadow) effect."
+    },
+    {
+     "name": "Lesser—Spirit Warden (Su)",
+     "text": "Whenever the familiar successfully uses aid another to aid an attack, that attack deals full damage to incorporeal creatures. When encountering a haunt, the familiar always acts on the surprise round, and can make touch attacks against the haunt that deal 1d6 points of damage per 2 levels its master possesses."
+    },
+    {
+     "name": "Lesser—Dispel Bait (Su)",
+     "text": "As a standard action, the familiar’s master can expend a spell or an open spell slot to imbue the familiar with the ability to protect his transmutations. Whenever one of the master’s transmutations would be successfully dispelled, if the familiar is within 10 feet of the transmutation effect and the imbued spell slot is of a level equal to or higher than the transmutation, the familiar can choose to lose the imbued spell slot to prevent the transmutation effect from being dispelled. The familiar can be imbued with only one dispel bait effect at a time."
+    },
+    {
+     "name": "Greater—Infinite Forms (Su)",
+     "text": "Once per day as a standard action, the familiar can transform into any animal familiar (but not an improved familiar), losing all of its racial abilities and becoming a typical familiar of the chosen type, including granting a different familiar bonus to its master."
+    }
+   ],
+   "replaces": []
+  },
+  {
+   "name": "Soulbound Familiar",
+   "source": "Ultimate Wilderness pg. 213",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Familiar%20Soulbound%20Familiar",
+   "intro": "Soulbound familiars are born when a master uses the magical principles behind soulbound dolls to bind a soul fragment to an animal.",
+   "abilities": [
+    {
+     "name": "Soul Focus (Ex)",
+     "text": "The soul fragment bound to the familiar lives within a focus crystal surgically inserted into the animal. As long as this soul focus remains intact, it can be used to bind the soul fragment into another familiar, with the same cost and time requirements as replacing a familiar. Once bound into the soul focus, the soul continues to learn, and so if it is later put into a new familiar body, the soul retains its personality and memories from its previous body or bodies. A soul focus has hardness 8, 12 hit points, and a break DC of 20, though it can be attacked only when surgically removed from the familiar. If the soul focus is destroyed, creating a new soul focus with none of the old one’s memories costs as much as replacing a familiar, in addition to the normal cost of replacing the familiar itself. Because it is born of another creature’s soul, a soulbound familiar can never serve as a witch’s familiar, a shaman’s spirit animal, or any other spell-granting familiar. The soulbound familiar gains Skill Focus in a skill important to the creature whose soul provided the fragment."
+    },
+    {
+     "name": "Alignment Variation (Ex)",
+     "text": "A soulbound familiar’s alignment is always at least partially neutral, although it can also be chaotic, evil, good, or lawful, depending on the creature whose soul provided the fragment rather than on the master’s alignment (unless the master donates a fragment of her own soul). At 8th level, it gains one of the following spell-like abilities, usable once per day and based on its alignment (caster level = its master’s caster level – 3): chaotic neutral: rage; lawful neutral: suggestion; neutral: deep slumber; neutral evil: inflict serious wounds; or neutral good: heroism. At 13th level, its caster level increases to its master’s caster level."
+    }
+   ],
+   "replaces": [
+    "alertness",
+    "scry on familiar",
+    "speak with animals of its kind"
+   ]
+  },
+  {
+   "name": "Valet",
+   "source": "Ultimate Wilderness pg. 213",
+   "url": "https://www.aonprd.com/ArchetypeDisplay.aspx?FixedName=Familiar%20Valet",
+   "intro": "A valet is a consummate personal servant, able to fetch, deliver, and perform for its master’s every need.",
+   "abilities": [
+    {
+     "name": "Valet Skills",
+     "text": "A valet treats Craft, Perform, and Profession as class skills."
+    },
+    {
+     "name": "Able Assistant (Ex)",
+     "text": "A valet’s master treats the valet as if it had the Cooperative Crafting feat and shares Craft skills and item creation feats with the valet."
+    },
+    {
+     "name": "Magical Manipulation (Sp)",
+     "text": "A valet can cast open/close and prestidigitation at will."
+    },
+    {
+     "name": "Teammate (Ex)",
+     "text": "A valet is considered to have all the teamwork feats its master has."
+    },
+    {
+     "name": "Deliver Touch Spells (Su)",
+     "text": "At 3rd level, when delivering a harmless touch spell to a willing creature, a valet can move before and after delivering the spell, as long as its total movement does not exceed its speed."
+    },
+    {
+     "name": "Deliver Aid (Ex)",
+     "text": "At 7th level, a valet can move before and after using the aid another action, as long as its total movement does not exceed its speed."
+    },
+    {
+     "name": "Aide to All (Ex)",
+     "text": "At 13th level, a valet can use the aid another action as a full-round action to grant up to three adjacent creatures bonuses from this action. Each bonus can apply to the same action or check or to different actions or checks."
+    }
+   ],
+   "replaces": [
+    "alertness",
+    "improved evasion",
+    "scry on familiar",
+    "share spells",
+    "speak with animals of its kind"
+   ]
+  }
+ ]
+}

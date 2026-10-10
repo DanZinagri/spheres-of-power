@@ -971,7 +971,8 @@ const panels = {
       h("div", { class: "row", style: "margin-top:.75rem" },
         h("button", { onclick: () => { if (state.tradeTraditions) addClassWithTrade(); else { state.classes.push(blankClass(false)); changed(true) } } }, "+ Add class"),
         h("div", { class: "spacer" }),
-        field("Hit points", select("hpMode", { pfs: "Max at 1st level, then half + 1", max: "Maximum every level", custom: "Enter per class" })),
+        field("Hit points", select("hpMode", { ...(MODE === "monster" ? { average: "Average per Hit Die (no maximum at 1st)" } : {}),
+          pfs: "Max at 1st level, then half + 1", max: "Maximum every level", custom: "Enter per class" })),
       ),
       h("div", { class: "card row", style: "margin-top:.75rem" },
         checkbox("tradeTraditions", h("strong", {}, "Using trade traditions")),
@@ -986,8 +987,11 @@ const panels = {
 
   skills() {
     const c = calc()
-    const rankInput = (getter, setter, label, ablOf) => {
+    const rankInput = (getter, setter, label, ablOf, key) => {
       const el = h("input", { type: "number", min: 0, max: Math.max(c.hd, 1), value: getter() || 0, "aria-label": `${label} ranks` })
+      // a skill the builder's rules close (an animal companion's non-animal skills); ranks already there can still be taken out
+      const locked = HOOKS.skillLocked?.(key, c)
+      if (locked && !getter()) { el.disabled = true; el.title = locked }
       el.addEventListener("input", () => {
         setter(el.value === "" ? 0 : +el.value)
         changed()
@@ -1016,7 +1020,7 @@ const panels = {
       rows.push(h("tr", { class: c.classSkills.has(k) ? "cs" : "", "data-key": k },
         h("td", {}, label, trainedOnly ? h("span", { class: "note" }, " (trained)") : null),
         h("td", {}, ablSelect(skillAbl(k), abl, (v) => (v ? (state.skillAbility[k] = v) : delete state.skillAbility[k]), label), acp ? h("span", { class: "note" }, " ACP") : null),
-        h("td", { class: "num" }, rankInput(() => num(state.skills[k]), (v) => (state.skills[k] = v), label, () => skillAbl(k))),
+        h("td", { class: "num" }, rankInput(() => num(state.skills[k]), (v) => (state.skills[k] = v), label, () => skillAbl(k), k)),
         h("td", { class: "num tot" }, signed(skillTotal(k, rank, c, skillAbl(k)))),
       ))
       if (SUB_SKILLS.includes(k)) {
@@ -1032,7 +1036,7 @@ const panels = {
               h("button", { class: "small danger", "aria-label": "Remove specialty", onclick: () => { state.subSkills[k].splice(i, 1); changed(true) } }, "×"),
             ),
             h("td", {}, ablSelect(sub.ability || abl, abl, (v) => (v ? (sub.ability = v) : delete sub.ability), sub.name || label)),
-            h("td", { class: "num" }, rankInput(() => num(sub.rank), (v) => (sub.rank = v), sub.name || label, () => sub.ability || abl)),
+            h("td", { class: "num" }, rankInput(() => num(sub.rank), (v) => (sub.rank = v), sub.name || label, () => sub.ability || abl, k)),
             h("td", { class: "num tot" }, signed(skillTotal(k, num(sub.rank), c, sub.ability || abl))),
           ))
         })

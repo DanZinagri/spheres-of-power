@@ -23,49 +23,49 @@ What the feat extractor takes from the site (1261 Spheres feats; approved), plus
 | Item Creation | 20 | 28 |
 | Racial | 39 | — |
 | Monster | 3 | 27 |
-| Critical | — | 28 |
 | Squadron | 28 | — |
+| Critical | — | 28 |
 | Admixture | 24 | — |
-| Conduit | — | 23 |
 | Aristeia | 23 | — |
+| Conduit | — | 23 |
 | Grit | — | 21 |
 | Counterspell | 20 | — |
 | Item Mastery | — | 19 |
-| Faction | — | 17 |
 | Gizmo | 17 | — |
+| Faction | — | 17 |
 | Weapon Mastery | — | 17 |
-| Stare | — | 16 |
 | Protokinesis | 16 | — |
-| Performance | — | 15 |
+| Stare | — | 16 |
 | Companion | 15 | — |
-| Shield Mastery | — | 14 |
+| Performance | — | 15 |
 | Meditation | — | 14 |
-| Shield Style | — | 12 |
-| Defiler | 12 | — |
-| Surreal | 12 | — |
+| Shield Mastery | — | 14 |
 | Proxy | 12 | — |
 | Wild Magic | 12 | — |
+| Surreal | 12 | — |
+| Defiler | 12 | — |
+| Shield Style | — | 12 |
 | Necrosis | 12 | — |
 | Purring | 11 | — |
+| Armor Mastery | — | 11 |
 | Channeling | 11 | — |
 | Panache | — | 11 |
 | Achievement | — | 11 |
-| Armor Mastery | — | 11 |
 | Rune | 10 | — |
-| Origin | — | 9 |
 | Alignment | — | 9 |
 | Esoteric | — | 9 |
 | Armor Style | — | 9 |
+| Origin | — | 9 |
 | Blood Hex | — | 8 |
 | Familiar | — | 8 |
+| Damnation | 3 | 4 |
 | Theurge | 7 | — |
 | Combination | — | 7 |
-| Damnation | 3 | 4 |
-| Plague | 6 | — |
-| Trick | — | 6 |
 | Anathema | 6 | — |
-| Betrayal | — | 6 |
 | Chance | 6 | — |
+| Plague | 6 | — |
+| Betrayal | — | 6 |
+| Trick | — | 6 |
 | Targeting | — | 4 |
 | Gathlain Court Title | — | 4 |
 | Words of Power | — | 3 |
