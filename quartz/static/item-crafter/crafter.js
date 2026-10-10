@@ -1112,6 +1112,193 @@ document.getElementById("fileLoad").addEventListener("change", async (e) => {
   }
 })
 
+// ---------- loot generator (compounds, scrolls and spell engines) ----------
+// Random consumables put together from the same parts as a hand-built one: a base sphere, one of
+// its base powers, and a few of that sphere's talents from the compendium, then priced by the
+// rules above. A first pass at loot generation: the picks are random, so read the result (and the
+// talents' spell point costs, which are guessed from their text) before handing it out.
+//
+// which talent tags fit each base power (others are still possible, just less likely)
+const POWER_TAGS = {
+  "Alteration:0": ["transformation", "body"], "Bear:0": ["bearacteristic"], "Blood:0": ["quicken", "still", "blood art"],
+  "Conjuration:0": ["form"], "Creation:0": ["alter"], "Creation:1": ["material"], "Dark:0": ["darkness", "shadow", "blot"],
+  "Death:0": ["ghost strike"], "Destruction:0": ["blast type", "blast shape"], "Divination:0": ["divine"], "Divination:1": ["sense"],
+  "Enhancement:0": ["enhance"], "Fallen Fey:0": ["fey-blessing"], "Fate:0": ["consecration", "word", "motif"], "Illusion:0": ["glamer", "sensory"],
+  "Life:0": ["cure", "vitality"], "Light:0": ["light", "lens", "nimbus"], "Mana:0": ["expunge"], "Mana:1": ["manipulation"], "Mind:0": ["charm"],
+  "Nature:0": ["geomancing", "spirit"], "Protection:0": ["aegis", "succor"], "Protection:1": ["ward", "succor"], "Time:0": ["time"],
+  "War:0": ["totem", "rally", "momentum"], "Warp:0": ["space"], "Weather:0": ["precipitation", "cold", "heat", "wind", "aridity", "storm"],
+}
+const LOOT = { kind: "all", count: 5, clMin: 1, clMax: 10, talents: 2, sphere: "", results: [] }
+const rnd = (n) => Math.floor(Math.random() * n)
+const pick = (list) => list[rnd(list.length)]
+function weightedPick(list, weight) {
+  const total = list.reduce((s, x) => s + weight(x), 0)
+  let roll = Math.random() * total
+  for (const x of list) if ((roll -= weight(x)) <= 0) return x
+  return list[list.length - 1]
+}
+// the spell points a talent adds to an effect, guessed from its summary ("spend an additional spell point")
+function guessSp(e) {
+  const t = (e.summary || "").toLowerCase()
+  const m = t.match(/spend(?:ing)? (?:an additional |an extra |a |one |1 |two |2 )?(two|2)? ?(?:additional |extra )?spell points?/)
+  return m ? (m[1] || / (two|2) /.test(m[0]) ? 2 : 1) : 0
+}
+
+// a spell engine (a wand, in base Pathfinder terms): a sphere at an even caster level, with talents
+// and extra spell points filling the slots its caster level allows
+function generateEngine(opts) {
+  const sphere = opts.sphere || pick(Object.keys(POWERS))
+  const c = blankComp("engine")
+  c.sphere = sphere
+  const it = { ...blankItem(), type: "engine", components: [c], slot: "slotless", generated: true }
+  const lo = Math.max(2, Number(opts.clMin) || 2), hi = Math.min(20, Math.max(lo, Number(opts.clMax) || lo))
+  it.cl = Math.max(2, 2 * Math.floor((lo + rnd(hi - lo + 1)) / 2))
+  const slots = Math.max(0, it.cl / 2 - 1)
+  const pool = COMPENDIUM.entries.filter((e) => e.sphere === sphere && e.kind === "talent" && e.status !== "retired")
+  const n = Math.min(slots, pool.length, rnd(Number(opts.talents) + 1))
+  const names = new Set()
+  for (let i = 0; i < n; i++) {
+    const e = pick(pool.filter((x) => !names.has(x.name)))
+    names.add(e.name)
+    c.talents.push({ name: e.name, has: true })
+  }
+  // some of the slots left over go to extra spell points
+  c.extraSp = rnd(Math.min(3, slots - n) + 1)
+  it.name = `${sphere} Spell Engine${c.talents.length ? ` (${c.talents[0].name}${c.talents.length > 1 ? ", …" : ""})` : ""}`
+  const ev = evalItem(it, state.crafter)
+  it.description = `A spell engine of the ${sphere} sphere at caster level ${it.cl}${c.talents.length ? `, with ${c.talents.map((x) => x.name).join(", ")}` : ""}. Spell point pool ${1 + c.extraSp}; save DC ${10 + Math.floor(it.cl / 2)}.`
+  return { it, ev, sphere, powerName: "spell engine", talents: c.talents.map((x) => x.name) }
+}
+
+function generateLootItem(opts) {
+  const kind = opts.kind === "either" ? pick(["compound", "scroll"]) : opts.kind === "all" ? pick(["compound", "scroll", "engine"]) : opts.kind
+  if (kind === "engine") return generateEngine(opts)
+  const sphere = opts.sphere || pick(Object.keys(POWERS))
+  const power = rnd(POWERS[sphere].powers.length)
+  const c = blankComp(kind)
+  const bp = { range: POWERS[sphere].powers[power][1], dur: POWERS[sphere].powers[power][2] }
+  Object.assign(c, { sphere, power, baseRange: bp.range, baseDur: bp.dur, range: bp.range, dur: bp.dur, activation: "standard", rows: [] })
+  // a scroll sometimes reaches further or lasts longer than the base power
+  if (kind === "scroll" && bp.range < RANGES.length - 1 && Math.random() < 0.25) c.range = bp.range + 1
+  if (isStep(bp.dur) && bp.dur !== "h" && Math.random() < (kind === "scroll" ? 0.25 : 0.15)) c.dur = DUR_STEPS[DUR_STEPS.indexOf(bp.dur) + 1]
+  // talents: those tagged for this power first, untagged ones next, one per tag
+  const want = POWER_TAGS[`${sphere}:${power}`] ?? []
+  const pool = COMPENDIUM.entries.filter((e) => e.sphere === sphere && e.kind === "talent" && e.status !== "retired")
+  const tagsOf = (e) => (e.tags ?? []).map((t) => String(t).toLowerCase())
+  const weight = (e) => (tagsOf(e).some((t) => want.includes(t)) ? 6 : tagsOf(e).length ? 0.4 : 1)
+  const used = new Set(), names = new Set()
+  const n = Math.min(pool.length, rnd(Number(opts.talents) + 1))
+  for (let i = 0; i < n; i++) {
+    const open = pool.filter((e) => !names.has(e.name) && !tagsOf(e).some((t) => used.has(t)))
+    if (!open.length) break
+    const e = weightedPick(open, weight)
+    names.add(e.name)
+    for (const t of tagsOf(e)) used.add(t)
+    c.rows.push({ kind: "talent", name: e.name, sp: guessSp(e), cx: 1, variant: false, has: true })
+  }
+  if (kind === "compound") c.form = c.range >= 2 ? "powder" : c.range === 1 && Math.random() < 0.35 ? "oil" : "potion"
+  const it = { ...blankItem(), type: kind, components: [c], slot: "slotless", generated: true }
+  // caster level: in the asked range, and never below the effect's complexity
+  const lo = Math.max(1, Number(opts.clMin) || 1), hi = Math.max(lo, Number(opts.clMax) || lo)
+  it.cl = lo + rnd(hi - lo + 1)
+  const cx = evalComp(c, it, state.crafter).complexity
+  if (it.cl < cx) it.cl = Math.ceil(cx)
+  const powerName = POWERS[sphere].powers[power][0]
+  const lead = c.rows[0]?.name ?? powerName
+  const form = kind === "scroll" ? "Scroll" : COMPOUND_FORMS[c.form]
+  it.name = `${form} of ${lead}${c.rows.length > 1 ? ` and ${c.rows[1].name}` : ""}`
+  const ev = evalItem(it, state.crafter)
+  const r = ev.comps[0].r
+  it.description = `${kind === "scroll" ? "A scroll holding" : `A ${COMPOUND_FORMS[c.form].toLowerCase()} carrying`} the ${sphere} sphere's ${powerName.toLowerCase()}${c.rows.length ? `, with ${c.rows.map((x) => x.name).join(", ")}` : ""}. Caster level ${it.cl}; range ${r.range.toLowerCase()}; duration ${String(r.duration).toLowerCase()}${r.saveDc ? `; save DC ${r.saveDc}` : ""}.`
+  return { it, ev, sphere, powerName, talents: c.rows.map((x) => x.name + (x.sp ? ` (${x.sp} SP)` : "")) }
+}
+
+function lootLine(x) {
+  return `${x.it.name} (CL ${x.it.cl}; ${x.sphere}: ${x.powerName}${x.talents.length ? ` + ${x.talents.join(", ")}` : ""}; ${gp(x.ev.market)})`
+}
+
+function openLootDialog() {
+  document.querySelector("dialog.loot")?.remove()
+  const dlg = document.createElement("dialog")
+  dlg.className = "picker wide loot"
+  const opt = (v, label, cur) => `<option value="${esc(v)}" ${String(v) === String(cur) ? "selected" : ""}>${esc(label)}</option>`
+  const draw = () => {
+    const total = LOOT.results.reduce((s, x) => s + x.ev.market, 0)
+    dlg.innerHTML = `
+      <div class="picker-head"><h3>Generate loot</h3><button type="button" class="small ghost" data-loot="close" aria-label="Close">✕</button></div>
+      <p class="note">Random compounds, scrolls and spell engines. A compound or scroll is built from a sphere's base power and a few of its talents; a spell engine from a sphere, an even caster level, and talents and spell points up to its slots. All are priced like any other item here. The picks are random and the talents' spell point costs are guessed from their text, so check an item before using it: add it to your items to edit it.</p>
+      <div class="row">
+        ${field("Kind", `<select data-loot-opt="kind">${opt("all", "Compounds, scrolls and spell engines", LOOT.kind)}${opt("either", "Compounds and scrolls", LOOT.kind)}${opt("compound", "Compounds (potions, oils, powders)", LOOT.kind)}${opt("scroll", "Scrolls", LOOT.kind)}${opt("engine", "Spell engines (wands)", LOOT.kind)}</select>`)}
+        ${field("How many", `<input type="number" min="1" max="30" data-loot-opt="count" value="${LOOT.count}" style="width:5rem" />`)}
+        ${field("Caster level from", `<input type="number" min="1" max="30" data-loot-opt="clMin" value="${LOOT.clMin}" style="width:5rem" />`)}
+        ${field("to", `<input type="number" min="1" max="30" data-loot-opt="clMax" value="${LOOT.clMax}" style="width:5rem" />`)}
+        ${field("Talents each (up to)", `<input type="number" min="0" max="5" data-loot-opt="talents" value="${LOOT.talents}" style="width:5rem" />`)}
+        ${field("Sphere", `<select data-loot-opt="sphere">${opt("", "Any sphere", LOOT.sphere)}${Object.keys(POWERS).map((s) => opt(s, s, LOOT.sphere)).join("")}</select>`)}
+      </div>
+      <div class="row add-row">
+        <button type="button" class="primary" data-loot="roll">${LOOT.results.length ? "Roll again" : "Generate"}</button>
+        ${LOOT.results.length ? `<button type="button" data-loot="addAll">Add all to my items</button><button type="button" data-loot="copy">Copy the list</button><span class="muted">${LOOT.results.length} items, ${gp(total)} in all</span>` : ""}
+      </div>
+      <div class="picker-results">
+        ${LOOT.results.map((x, i) => {
+          return `<div class="picker-item" style="cursor:default">
+            <span class="pi-name">${esc(x.it.name)} <span class="pi-meta">CL ${x.it.cl} · ${gp(x.ev.market)} · ${esc(x.sphere)}: ${esc(x.powerName)}${x.talents.length ? ` + ${esc(x.talents.join(", "))}` : ""}</span></span>
+            <span class="pi-pre">${esc(x.it.description)}${x.ev.comps[0].r.warnings.length ? ` <b>Check:</b> ${esc(x.ev.comps[0].r.warnings.join(" "))}` : ""}</span>
+            <span class="row" style="margin-top:.3rem"><button type="button" class="small" data-loot="add" data-i="${i}">${x.added ? "Added" : "Add to my items"}</button><button type="button" class="small ghost" data-loot="reroll" data-i="${i}">Reroll</button></span>
+          </div>`
+        }).join("")}
+        ${COMPENDIUM.loaded ? "" : `<p class="muted">The talents are still loading; items generated now have none.</p>`}
+      </div>`
+  }
+  const addItem = (x) => {
+    if (x.added) return
+    const { generated, ...it } = x.it
+    state.items.push({ ...it, id: uid() })
+    state.activeId = state.items[state.items.length - 1].id
+    x.added = true
+  }
+  dlg.addEventListener("change", (e) => {
+    const k = e.target.dataset.lootOpt
+    if (k) LOOT[k] = e.target.type === "number" ? Number(e.target.value) || 0 : e.target.value
+  })
+  dlg.addEventListener("click", (e) => {
+    if (e.target === dlg) return dlg.close()
+    const b = e.target.closest("[data-loot]")
+    if (!b) return
+    const i = Number(b.dataset.i)
+    switch (b.dataset.loot) {
+      case "close": return dlg.close()
+      case "roll":
+        LOOT.results = Array.from({ length: Math.min(30, Math.max(1, LOOT.count)) }, () => generateLootItem(LOOT))
+        break
+      case "reroll":
+        LOOT.results[i] = generateLootItem(LOOT)
+        break
+      case "add":
+        addItem(LOOT.results[i])
+        save()
+        renderAll()
+        toast(`Added ${LOOT.results[i].it.name}`)
+        break
+      case "addAll":
+        LOOT.results.forEach(addItem)
+        save()
+        renderAll()
+        toast(`Added ${LOOT.results.length} items`)
+        break
+      case "copy":
+        navigator.clipboard?.writeText(LOOT.results.map(lootLine).join("\n")).then(() => toast("Copied the list"), () => toast("Couldn't copy"))
+        return
+    }
+    draw()
+  })
+  dlg.addEventListener("close", () => dlg.remove())
+  document.body.append(dlg)
+  draw()
+  dlg.showModal()
+}
+document.getElementById("btnLoot").addEventListener("click", openLootDialog)
+
 // follow the wiki's dark-mode toggle when embedded on the site
 function applyTheme(theme) {
   if (theme === "dark" || theme === "light") document.documentElement.dataset.theme = theme
