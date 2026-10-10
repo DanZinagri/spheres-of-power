@@ -15,6 +15,10 @@ const CONJ_SPECIALS = [
   [11, "Improved Evasion (Ex)", "As evasion, and only half damage on a failed Reflex save."],
 ]
 const hasConjArchetype = (name) => (state.conjuration?.archetypes ?? []).some((a) => a.name === name)
+// the companion's (form) and (type) talents: the ticked ones, and the avatar archetype's Otherworldly
+// Paragon, which is treated as a (form) talent
+const conjTalents = () => [...(state.conjuration?.talents ?? []),
+  ...(hasConjArchetype("Avatar") ? [{ name: "Otherworldly Paragon", kind: "form", fromArchetype: "Avatar" }] : [])]
 
 // the caster level its statistics use (a familiar-archetype companion counts half), and its Hit Dice
 function conjLevel() {
@@ -87,8 +91,8 @@ function syncConjuration() {
     desc: "No Intelligence score: immune to mind-affecting effects, with no feats or skill points.",
     changes: [{ formula: String(-2 * row.hd), target: "bonusSkillRanks", type: "untyped", operator: "add" },
       { formula: String(-Math.ceil(row.hd / 2)), target: "bonusFeats", type: "untyped", operator: "add" }] }))
-  if (avatar) auto.push(newFeature("misc", { name: "Otherworldly Paragon (Ex)", monster: true,
-    desc: `Strength, Dexterity and Constitution +${paragon} (2 + 1 per 2 Hit Dice), already in the ability scores. Treated as a (form) talent.` }))
+  if (avatar) auto.push(newFeature("misc", { name: "Otherworldly Paragon (form)", monster: true,
+    desc: `Strength, Dexterity and Constitution +${paragon} (2 + 1 per 2 Hit Dice), already in the ability scores. Treated as a (form) talent: the avatar can't benefit from other (form) talents that give an untyped bonus to those scores.` }))
   setAutoFeatures("conjuration", auto)
   state.race.name = `${form.name} companion`
 }
@@ -203,11 +207,13 @@ function conjurationPanel() {
       incr.length ? h("div", { class: "row" }, h("span", { class: "note" }, "Ability score increases:"), ...incr) : null,
       form.text ? h("details", {}, h("summary", { class: "note" }, `About the ${form.name.toLowerCase()} form`), h("p", { class: "note", style: "white-space:pre-wrap" }, form.text)) : null),
     h("div", { class: "card" },
-      h("div", { class: "row" }, h("div", { class: "group-title", style: "margin:0" }, `Form and type talents (${(co.talents ?? []).length})`), h("div", { class: "spacer" }),
+      h("div", { class: "row" }, h("div", { class: "group-title", style: "margin:0" }, `Form and type talents (${conjTalents().length})`), h("div", { class: "spacer" }),
         h("button", { class: "small", onclick: () => openConjTalentPicker() }, "+ Add talents")),
-      ...(co.talents ?? []).map((t) => h("div", { class: "row" }, h("b", {}, t.name), h("span", { class: "muted" }, `(${t.kind})${t.advanced ? " · advanced" : ""}`), h("div", { class: "spacer" }),
-        h("a", { href: `../../${t.url}`, target: "_blank", rel: "noopener" }, "On the wiki"),
-        h("button", { class: "small danger", onclick: () => toggleConjTalent({ name: t.name, tags: [t.kind] }, false) }, "Remove"))),
+      ...conjTalents().map((t) => h("div", { class: "row" }, h("b", {}, t.name), h("span", { class: "muted" }, `(${t.kind})${t.advanced ? " · advanced" : ""}`),
+        t.fromArchetype ? h("span", { class: "note" }, `From the ${t.fromArchetype} archetype: Strength, Dexterity and Constitution +${2 + Math.floor(row.hd / 2)}, already in the ability scores. No other (form) talent can add an untyped bonus to those.`) : null,
+        h("div", { class: "spacer" }),
+        t.fromArchetype ? null : h("a", { href: `../../${t.url}`, target: "_blank", rel: "noopener" }, "On the wiki"),
+        t.fromArchetype ? null : h("button", { class: "small danger", onclick: () => toggleConjTalent({ name: t.name, tags: [t.kind] }, false) }, "Remove"))),
       h("p", { class: "note" }, "Every companion gets one (form) or (type) talent free; the rest are talents its caster spends. Their text is on the Feats & Features tab: apply what they change to the size, speeds, senses and attacks below, or as changes on the feature.")),
     archetypeCard(),
     numeric.length ? h("p", { class: "note" }, `Worked into the numbers above for ${numeric.join(", ")}: ${[
@@ -229,7 +235,7 @@ function conjurationPanel() {
 function conjurationNotes() {
   const co = state.conjuration, row = conjRow()
   return [`${state.master?.name ? `${state.master.name}'s Conjuration companion` : "Conjuration sphere companion"}: ${co.entry.name.toLowerCase()} form, caster level ${num(co.cl)}${hasConjArchetype("Familiar") ? ` (counts as ${conjLevel()})` : ""}, ${row.hd} Hit Dice.`,
-    (co.talents ?? []).length ? `Talents: ${co.talents.map((t) => `${t.name} (${t.kind})`).join(", ")}.` : "",
+    conjTalents().length ? `Talents: ${conjTalents().map((t) => `${t.name} (${t.kind})`).join(", ")}.` : "",
     (co.archetypes ?? []).length ? `Archetypes: ${co.archetypes.map((a) => a.name).join(", ")}.` : ""].filter(Boolean).join("\n\n")
 }
 
@@ -242,7 +248,7 @@ if (VARIANT === "conjuration") {
     if (!state.conjuration?.entry) return []
     const stat = (v, label) => h("div", { class: "stat" }, h("b", {}, v), h("span", {}, label))
     return [h("div", { class: "card" }, h("div", { class: "stat-grid" }, stat(String(num(state.conjuration.cl)), "Caster level"), stat(String(c.hd), "HD"),
-      stat(String((state.conjuration.talents ?? []).length), "Form talents")))]
+      stat(String(conjTalents().length), "Form talents")))]
   }
   HOOKS.statHeader = () => [state.name || `${state.conjuration.entry.name} companion`,
     `${state.master?.name ? `${state.master.name}'s ` : ""}Conjuration sphere companion (${state.conjuration.entry.name.toLowerCase()} form), caster level ${num(state.conjuration.cl)}`]
@@ -269,7 +275,7 @@ if (VARIANT === "conjuration") {
   HOOKS.pdfWide = () => {
     const co = state.conjuration, mon = state.monster
     if (!co?.entry || !mon) return []
-    return [["Form and type talents", (co.talents ?? []).map((t) => t.name).join(", ") || "-"],
+    return [["Form and type talents", conjTalents().map((t) => t.name).join(", ") || "-"],
       ["Archetypes & special", [(co.archetypes ?? []).map((a) => a.name).join(", "), mon.specialAttacks, mon.sq, mon.dr ? `DR ${mon.dr}` : ""].filter(Boolean).join("; ") || "-"]]
   }
   panels.monster = () => conjurationPanel()

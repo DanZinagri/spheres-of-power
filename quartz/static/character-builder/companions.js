@@ -101,7 +101,11 @@ async function openArchetypePicker() {
   }
   box.addEventListener("input", render)
   // (the Conjuration Companion Builder lists the sphere's own companion archetypes: HOOKS.archetypeList)
-  ;(HOOKS.archetypeList ? HOOKS.archetypeList() : loadCompendium("companion-archetypes.json", { companion: [], familiar: [] }).then((d) => d[VARIANT] ?? []))
+  // this site's own archetypes (Martial Beast, ...) first, then the Archives of Nethys ones
+  const listed = () => Promise.all([loadCompendium("companion-archetypes-spheres.json", { companion: [], familiar: [] }),
+    loadCompendium("companion-archetypes.json", { companion: [], familiar: [] })])
+    .then(([site, aon]) => [...(site[VARIANT] ?? []).map((a) => ({ ...a, url: `../../${a.url}`, abilities: a.abilities.map((x) => ({ ...x, text: mdToText(x.text) })) })), ...(aon[VARIANT] ?? [])])
+  ;(HOOKS.archetypeList ? HOOKS.archetypeList() : listed())
     .then((list) => { all = list; render() })
   box.focus()
 }

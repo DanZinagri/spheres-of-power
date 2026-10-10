@@ -1,0 +1,71 @@
+{
+ "companion": [
+  {
+   "name": "Martial Beast",
+   "source": "Spheres",
+   "url": "Archetypes-(Unsorted)/Martial-Beast-(Animal-Companion-Archetype)",
+   "intro": "A martial beast may combine combat spheres and talents to create powerful martial techniques. Martial beasts use the Proficient talent progression. Martial beasts use Wisdom as their practitioner modifier. A martial beast does not gain the evasion, devotion, multiattack, and improved evasion special abilities. A martial beast adds Extra Combat Talent to the list of feats it may take even with animal intelligence (Intelligence 2 or lower).",
+   "abilities": [
+    {
+     "name": "Martial Beast (archetype)",
+     "text": "A martial beast may combine combat spheres and talents to create powerful martial techniques. Martial beasts use the Proficient talent progression. Martial beasts use Wisdom as their practitioner modifier. A martial beast does not gain the evasion, devotion, multiattack, and improved evasion special abilities. A martial beast adds Extra Combat Talent to the list of feats it may take even with animal intelligence (Intelligence 2 or lower).\n\n**Wiki Note:** This does not innately grant a martial tradition, although some martial beasts may qualify to trade things for a martial tradition."
+    }
+   ],
+   "replaces": []
+  }
+ ],
+ "familiar": [
+  {
+   "name": "Dream Guide",
+   "source": "The Beast Tamer's Handbook",
+   "url": "Archetypes-(Unsorted)/Dream-Guide-(Familiar-Archetype)",
+   "intro": "The dream guide is often a reflection of its master’s own spirit, ethics, and subconscious. Unlike a figment familiar, which eventually learns to manifest these properties in the waking realm, the dream guide joins its master in the dream, serving as a guide and aide.",
+   "abilities": [
+    {
+     "name": "Dream Guide (archetype)",
+     "text": "The dream guide is often a reflection of its master’s own spirit, ethics, and subconscious. Unlike a figment familiar, which eventually learns to manifest these properties in the waking realm, the dream guide joins its master in the dream, serving as a guide and aide.\n\n## Dreamer (Ex)\n\nAt 1st level, while a dream guide is within arm’s reach, the dream guide’s master gains the Dreamspace feat (Ultimate Spheres of Power pg. 505) even if he does not meet the normal requirements.\n\nThis replaces alertness.\n\n## Dream With You (Su)\n\nAt 3rd level, a dream guide may join its master in his dreamspace provided by the Dreamspace feat. While in its master’s dreamspace, a dream guide’s form may shift and adjust to its master’s subconscious, changing colors, shapes, and taking on surreal properties as it accompanies its master’s dreamspace. These changes are cosmetic and do not grant the dream guide any additional abilities or properties. For example, if the dream guide’s master is worried, the dream guide may appear to be made of sad rainclouds.\n\nIf the dream guide does not possess the speak with master ability, the dream guide gains that ability while in its master’s dreamspace.\n\nAfter 8 hours of sleep, the dream guide’s master may change the familiar special ability the dream guide grants to its master (such as a fox’s +2 bonus on Reflex saves or a cat’s +3 bonus on Stealth checks). The dream guide grants the chosen bonus to its master as though it were a familiar of that kind (even if the familiar is an Improved Familiar and would not normally grant this bonus). This change manifests similarly to the cosmetic changes the dream guide may take on while its master is dreaming.\n\nThis replaces deliver touch spells.\n\n## Lead The Dream (Su)\n\nAt 7th level, the dream guide may assist its master by providing great insight and knowledge. Once per week, while the dream guide and its master are in the dreamspace, the dream guide may answer one question from its master. This functions as the Divination sphere Read Omens (divine) advanced talent with a caster level equal to its master’s level. An answer or advice provided by this ability should be a cryptic omen or rhyme when able."
+    }
+   ],
+   "replaces": []
+  },
+  {
+   "name": "Willing Martyr",
+   "source": "The Gravecaller's Handbook",
+   "url": "Archetypes-(Unsorted)/Willing-Martyr-(Familiar-Archetype)",
+   "intro": "A willing martyr is an unendingly loyal companion to its master, willing to suffer and even die for the master’s needs. The master of a willing martyr understands the need to treat their familiar with respect, and treats their body with the utmost reverence.",
+   "abilities": [
+    {
+     "name": "Willing Martyr (archetype)",
+     "text": "A willing martyr is an unendingly loyal companion to its master, willing to suffer and even die for the master’s needs. The master of a willing martyr understands the need to treat their familiar with respect, and treats their body with the utmost reverence.\n\n**Note:** This familiar archetype is designed for a spherecaster, but can work alongside other casters or content which get access to similar effects. If not using Spheres of Power, the master uses their spellcasting’s casting modifier (or other appropriate modifier) when determining the willing martyr’s abilities.\n\n## Born Again (Su)\n\nIf the willing martyr dies, as long as its bones (exoskeleton, carapace, or otherwise majority of its body) are all in one place when its master prepares spells or regains her spells per day (or spell points, if a spherecaster), it is resurrected with full hit points, any missing body parts restored, and cured of any ability drain, ability damage, or negative levels.\n\nA number of times each day equal to the willing martyr’s master’s casting ability modifier (minimum 1), the willing martyr’s master can use a magic sphere effect or spell (such as the Death sphere reanimate sphere effect, Life sphere Resuscitate talent or Resurrection advanced talent, raise dead spell, or another similar effect) to return the willing martyr to life as though using this ability, except the willing martyr is only resurrected with half of its maximum hit points. A spell or magic sphere effect used this way must only target the willing martyr, and its normal effects are replaced by this ability. A sphere effect used this way has its spell point cost reduced by 2 (minimum 0) and does not require any material components.\n\nThis replaces improved evasion.\n\n## For The Master’s Merriment (Su)\n\nAt 3rd level, the willing martyr can be sacrificed as part of a 10 minute process to be consumed, acting as the create food and water spell (Pathfinder RPG Core Rulebook pg. 261) with a caster level equal to its master’s caster level. The food is not bland, and may be seasoned as though preparing a regular meal.\n\nAt 9th level, the willing martyr may instead be consumed as a luxurious meal, acting as the heroes’ feast spell (Pathfinder RPG Core Rulebook pg. 295) with a caster level equal to its master’s caster level.\n\nThis replaces deliver touch spells.\n\n## For The Master’s Strength (Su)\n\nAt 8th level, the willing martyr’s master may sacrifice the willing martyr as part of casting any spell or sphere effect to add the effects of the Extend Spell, Reach Spell (for a single range increment increase), Silent Spell, Still Spell, Vast Spell, or Widen Spell metamagic to that spell or sphere effect. The willing martyr must be within its master’s natural reach to use this ability and dies when used this way. The willing martyr’s master may not use this ability to apply a metamagic already being used for that spell or sphere effect (such as trying to apply the Reach Spell metamagic to an effect twice).\n\nAt 11th level, the willing martyr’s master adds Apocalyptic Spell, Authoritative Spell, Blissful Spell, Selective Spell, and Tumultuous Spell to the list of metamagic she may add to the spell or sphere effect.\n\nThis replaces speak with animals of its kind and spell resistance.\n\n**Note:** Subject to GM discretion, other appropriate +1 spell level adjustment metamagics can be added to the list available at 8th or 11th level."
+    }
+   ],
+   "replaces": []
+  },
+  {
+   "name": "Beast Of Omen",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Beast-Of-Omen-(Familiar-Archetype)",
+   "intro": "## Shared Senses (Su)",
+   "abilities": [
+    {
+     "name": "Beast Of Omen (archetype)",
+     "text": "## Shared Senses (Su)\n\nWhenever the familiar’s master uses a Divination talent or ability granting himself a sense, he may also grant his familiar the sense.\n\nThis ability replaces share spells."
+    }
+   ],
+   "replaces": []
+  },
+  {
+   "name": "Shadow Familiar",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Shadow-Familiar-(Familiar-Archetype)",
+   "intro": "## Class Skills",
+   "abilities": [
+    {
+     "name": "Shadow Familiar (archetype)",
+     "text": "## Class Skills\n\nSleight of Hand (Dex) and Stealth (Dex) become class skills for a shadow familiar.\n\n## Adumbral\n\nA shadow familiar has hit points equal to 1/4 the master’s total hit points. If a shadow familiar dies, it vanishes, re-emerging from its master’s shadow with 1 hit point the next time its master rests and refreshes his pool of spell points or prepares spells. The shadow familiar similarly vanishes if it is ever caught in normal or brighter light more than 100 feet from its master, or may simply choose to vanish as a free action. A shadow familiar does not need to eat, breathe, or sleep.\n\nThis ability replaces deliver touch spells and improved evasion.\n\n## Shadow Rider\n\nAt 7th level, a shadow familiar can attempt a single Stealth check to covertly merge with another creature’s shadow. When merged, it is completely undetectable by non-magical means and may safely travel through bright conditions beyond 100 feet from its master so long as its target casts a shadow to hide in. The shadow familiar travels with the creature even if they teleport. Effects that eliminate the shadow (such as having their shadow stolen) cause the shadow familiar to reappear in an adjacent space, but effects that only obscure the shadow (such as entering a dark room or flying high above the ground) do not. A shadow familiar can merge with a willing target’s shadow without need of a Stealth check.\n\nThe master always knows the location of his shadow familiar, as if using the Dowsing Divination talent without a range limitation.\n\nAt 13th level, once per day the master may use Shared Perception, as the Divination sphere talent, between himself and his shadow familiar over any distance. This effect is not blocked by the master’s use of the Obfuscation talent.\n\nThis replaces speak with animals of its own kind and scry on familiar."
+    }
+   ],
+   "replaces": []
+  }
+ ]
+}

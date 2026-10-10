@@ -4415,6 +4415,30 @@ def _rules_summary(text: str, limit: int = 160, whole: bool = False) -> str:
     return s if len(s) <= limit else s[:limit].rsplit(" ", 1)[0] + "…"
 
 
+def build_spheres_companion_archetypes() -> int:
+    """compendium/companion-archetypes-spheres.json: this site's own animal companion and familiar
+    archetypes (pages named "<Name> (Animal Companion Archetype)" / "(Familiar Archetype)"), which the
+    Animal Companion and Familiar builders list ahead of the Archives of Nethys ones."""
+    out: dict[str, list[dict]] = {"companion": [], "familiar": []}
+    for f in sorted(CONTENT.rglob("*.md")):
+        if ARCHIVE in f.relative_to(CONTENT).parts:
+            continue
+        m = re.fullmatch(r"(.+) \((Animal Companion|Familiar) Archetype\)", f.stem)
+        if not m:
+            continue
+        body = f.read_text(encoding="utf-8").split(GENERATED_MARK, 1)[-1]
+        src = re.search(r"^\*Source: \[([^\]]+)\]", body, re.M)
+        text = re.sub(r"^\*Source: .*\*\s*$", "", body, flags=re.M)
+        text = re.sub(r"\n---\n+\*Archived: .*$", "", text, flags=re.S).strip()
+        text = re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1", text)
+        out["companion" if m.group(2) == "Animal Companion" else "familiar"].append(
+            {"name": m.group(1), "source": src.group(1) if src else "Spheres", "url": _page_url(f),
+             "intro": text.split("\n\n")[0], "abilities": [{"name": f"{m.group(1)} (archetype)", "text": text}], "replaces": []})
+    COMPENDIUM_OUT.mkdir(parents=True, exist_ok=True)
+    (COMPENDIUM_OUT / "companion-archetypes-spheres.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
+    return len(out["companion"]) + len(out["familiar"])
+
+
 def build_conjuration_companion() -> int:
     """compendium/conjuration-companion.json for the Conjuration Companion Builder: Table: Companion and
     the base forms from the Conjuration sphere page, and the avatar companion archetype (Voidrusher).
@@ -7443,6 +7467,7 @@ def convert(with_images: bool) -> None:
     print(f"Cohort jobs: {build_cohort_jobs()}")
     print(f"Class archetypes: {build_class_archetypes()}")
     print(f"Conjuration companion forms: {build_conjuration_companion()}")
+    print(f"Spheres companion and familiar archetypes: {build_spheres_companion_archetypes()}")
     print(f"Compendium races: {build_race_compendium()}")
     print(f"Martial traditions: {build_martial_traditions()}")
     print(f"Casting tradition drawbacks: {build_casting_traditions()}")
