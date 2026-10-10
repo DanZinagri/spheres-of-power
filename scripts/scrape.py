@@ -4059,7 +4059,7 @@ def build_compendium() -> dict[str, int]:
             json.dumps({"sphere": sphere, "system": cfg["system"], "approved": cfg["approved"], "entries": entries},
                        ensure_ascii=False, indent=1), encoding="utf-8")
         index += [{k: e[k] for k in ("id", "name", "kind", "sphere", "system", "group", "tags", "talentTags",
-                                     "source", "status", "url")} | {"options": [o["name"] for o in e["options"]], "summary": _rules_summary(e["md"]),
+                                     "prerequisites", "source", "status", "url")} | {"options": [o["name"] for o in e["options"]], "summary": _rules_summary(e["md"]),
                                                                      "file": f"{key}.json",
                                                                      "approved": cfg["approved"]}
                   for e in entries]

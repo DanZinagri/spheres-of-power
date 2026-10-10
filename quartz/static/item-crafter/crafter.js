@@ -241,9 +241,98 @@ function basePower(c) {
   return p ? { name: p[0], range: p[1], dur: p[2] } : { name: "Custom base effect", range: Number(c.baseRange) || 0, dur: c.baseDur || "r" }
 }
 
-function rowComplexity(r, crafter) {
+// Item Base Powers: the talents a sphere prices differently from the usual +1, told apart by the
+// compendium's tags (or name). Returns [base complexity, why], or null for the usual price.
+const rowTags = (r, sphere) => (rowMatch(r, sphere)?.entry.tags ?? []).map((t) => String(t).toLowerCase())
+function talentRule(r, c) {
+  if (r.kind !== "talent") return null
+  const hit = rowMatch(r, c.sphere)?.entry
+  if (!hit) return null
+  const tags = (hit.tags ?? []).map((t) => String(t).toLowerCase())
+  const name = norm(hit.name)
+  // "change the effect to ...": the first talent of that tag replaces the base effect
+  const firstWith = (tag) => c.rows.find((x) => x.kind === "talent" && rowTags(x, c.sphere).includes(tag)) === r
+  switch (c.sphere) {
+    case "Alteration":
+      if (name === "mass alteration") return [2, "Mass Alteration is +2"]
+      break
+    case "Dark":
+      if (name === "feed on darkness") return [2, "Feed On Darkness is +2"]
+      if (tags.includes("blot") && firstWith("blot")) return [0, "one (blot) talent replaces the darkness for free"]
+      if (tags.includes("meld") && firstWith("meld")) return [0, "one (meld) talent replaces the darkness for free"]
+      break
+    case "Destruction":
+      if (name === "admixture") return [0, "Admixture is free; each blast type added costs as usual"]
+      break
+    case "Illusion":
+      if (name === "suppression") return [2, "Suppression is +2"]
+      break
+    case "Mana":
+      if (tags.includes("manabond")) return [2, "a manabond talent is +2"]
+      break
+    case "Mind":
+      if (tags.includes("cloud")) return [2, "a (cloud) talent is +2"]
+      break
+    case "War":
+      if (tags.includes("rally")) return [2, "a rally in place of the totem is +2"]
+      break
+    case "Weather":
+      for (const tag of ["mantle", "shroud"]) if (tags.includes(tag) && firstWith(tag)) return [0, `one (${tag}) talent replaces the weather change for free (range becomes touch)`]
+      break
+  }
+  return null
+}
+
+// what the compendium knows about a row that the crafter should hear about: a talent from the wrong
+// sphere, an advanced talent's prerequisites, a feat's caster level, a likely spell point cost
+function rowChecks(r, c, cl) {
+  const out = { warnings: [], notes: [] }
   const k = ROW_KINDS[r.kind] ?? ROW_KINDS.custom
-  let cx = k.custom ? Number(r.cx) || 0 : k.base + (k.sp ? Number(r.sp) || 0 : 0)
+  if (!COMPENDIUM.loaded || !k.access || !norm(r.name)) return out
+  const n = norm(r.name)
+  const needCl = (text) => { const m = String(text ?? "").match(/caster level (\d+)|(\d+)(?:st|nd|rd|th) caster level/i); return m ? Number(m[1] || m[2]) : 0 }
+  if (r.kind === "talent" || r.kind === "advanced") {
+    const hit = rowMatch(r, c.sphere)?.entry
+    if (!hit) {
+      const other = COMPENDIUM.entries.find((e) => /talent$/.test(e.kind) && norm(e.name) === n)
+      if (other) out.warnings.push(`${r.name} is ${/^[aeiou]/i.test(other.sphere) ? "an" : "a"} ${other.sphere} talent: an effect takes talents from its base sphere (${c.sphere}). Mix in a second effect for another sphere.`)
+      else out.notes.push(`${r.name} isn't a ${c.sphere} talent in the compendium (check the spelling, or leave it as your own).`)
+      return out
+    }
+    if (hit.kind === "advanced talent") {
+      const need = needCl(hit.prerequisites)
+      if (need > cl) out.warnings.push(`${hit.name} needs caster level ${need}; the item is caster level ${cl}.`)
+      // talents of this sphere named in its prerequisites must be part of the effect too
+      let text = (String(hit.prerequisites ?? "").match(/\(([\s\S]*)\)/)?.[1] ?? "").toLowerCase()
+      const named = []
+      for (const e of talentSources(c.sphere).filter((e) => e.id !== hit.id).sort((a, b) => b.name.length - a.name.length)) {
+        const en = norm(e.name)
+        if (en.length > 2 && text.includes(en)) { named.push(e.name); text = text.split(en).join(" ") }
+      }
+      const have = new Set(c.rows.map((x) => norm(x.name)))
+      const missing = named.filter((x) => !have.has(norm(x)))
+      const either = /\bor\b/.test(String(hit.prerequisites ?? ""))
+      if (named.length && (either ? missing.length === named.length : missing.length))
+        out.warnings.push(`${hit.name} needs ${either ? "one of " : ""}${missing.join(either ? " or " : ", ")} added to the effect first (its prerequisites: ${hit.prerequisites}).`)
+    }
+    const sp = guessSp(hit)
+    if (sp && !(Number(r.sp) > 0)) out.notes.push(`${hit.name}'s text mentions spending ${sp > 1 ? `${sp} spell points` : "a spell point"}: set its SP if this use needs it (+1 complexity each).`)
+  } else if (r.kind === "feat" || r.kind === "metamagic") {
+    const f = COMPENDIUM.feats.find((x) => norm(x.name.replace(/\s*\(.*\)\*?$/, "")) === n.replace(/\s*\(.*\)\*?$/, "") || norm(x.name) === n)
+    if (!f) { out.notes.push(`${r.name} isn't a Spheres feat in the compendium (check the spelling, or leave it as your own).`); return out }
+    const meta = (f.types ?? []).includes("Metamagic")
+    if (meta && r.kind === "feat") out.warnings.push(`${f.name} is a metamagic feat: use a Metamagic row (+1, +1 per spell point it costs).`)
+    if (!meta && r.kind === "metamagic") out.warnings.push(`${f.name} isn't a metamagic feat: use a Feat row (+1).`)
+    const need = needCl(f.prerequisites)
+    if (need > cl) out.warnings.push(`${f.name} needs caster level ${need}; the item is caster level ${cl}.`)
+  }
+  return out
+}
+
+function rowComplexity(r, crafter, c) {
+  const k = ROW_KINDS[r.kind] ?? ROW_KINDS.custom
+  const rule = c ? talentRule(r, c) : null
+  let cx = k.custom ? Number(r.cx) || 0 : (rule ? rule[0] : k.base) + (k.sp ? Number(r.sp) || 0 : 0)
   if (r.kind === "advanced" && crafter.mythic) cx -= 1
   return r.variant ? cx / 2 : cx
 }
@@ -252,7 +341,7 @@ function rowComplexity(r, crafter) {
 function evalComp(c, it, crafter) {
   const K = KINDS[c.kind]
   const cl = Number(it.cl) || 0
-  const out = { price: 0, minCl: 1, warnings: [], blockers: [], talents: [], missing: 0, formula: "", lines: [] }
+  const out = { price: 0, minCl: 1, warnings: [], notes: [], blockers: [], talents: [], missing: 0, formula: "", lines: [] }
   const needTalent = (name, has, bypass, why) => {
     if (!name) return
     out.talents.push(name)
@@ -275,7 +364,11 @@ function evalComp(c, it, crafter) {
     if (c.permanent) parts.push(["Permanency", 2])
     for (const r of c.rows) {
       const k = ROW_KINDS[r.kind] ?? ROW_KINDS.custom
-      parts.push([`${k.label}${r.name ? ": " + r.name : ""}${r.variant ? " (variant option, half)" : ""}`, rowComplexity(r, crafter)])
+      const rule = talentRule(r, c)
+      parts.push([`${k.label}${r.name ? ": " + r.name : ""}${rule ? ` (${rule[1]})` : ""}${r.variant ? " (variant option, half)" : ""}`, rowComplexity(r, crafter, c)])
+      const checks = rowChecks(r, c, cl)
+      out.warnings.push(...checks.warnings)
+      out.notes.push(...checks.notes, ...(rule ? [`${r.name}: ${rule[1]}.`] : []))
       if (k.access) needTalent(r.name || k.label, r.has !== false, k.bypass, r.kind === "advanced" ? "advanced talents can't be bypassed" : null)
     }
     if (crafter.simple) parts.push(["Simple (crafting tradition boon)", -1])
@@ -679,8 +772,8 @@ function compendiumNote(sphere) {
   const t = talentSources(sphere).length
   const f = COMPENDIUM.feats.filter((x) => x.spheres.includes(sphere)).length
   return t
-    ? `<p class="note">Name boxes suggest the ${t} ${esc(sphere)} talents${f ? ` and ${f} feats` : ""} in the site's compendium; a recognized name links to its rules.</p>`
-    : `<p class="note">The site's compendium doesn't cover ${esc(sphere)} talents yet, so type their names in${f ? ` (its ${f} feats are suggested)` : ""}.</p>`
+    ? `<p class="note">Name boxes suggest the ${t} ${esc(sphere)} talents${f ? ` and ${f} feats` : ""} in the site's compendium; a recognized name links to its rules, is priced by the ${esc(sphere)} rules where they differ from +1, and is checked against its prerequisites.</p>`
+    : `<p class="note">The site's compendium has no ${esc(sphere)} talents, so type their names in${f ? ` (its ${f} feats are suggested)` : ""}.</p>`
 }
 
 function renderRow(r, P, i, j, sphere) {
@@ -887,9 +980,11 @@ function refresh() {
     const foot = []
     if (x.r.complexity != null) {
       foot.push(`<b>Complexity ${fmt(x.r.complexity)}</b> = ${x.r.parts.map(([l, v], n) => `<span title="${esc(l)}">${n ? signed(v) : fmt(v)} ${esc(l.toLowerCase())}</span>`).join(" ")}`)
-      ;(x.c.rows ?? []).forEach((r, j) => out(`row-${i}-${j}`, fmt(rowComplexity(r, state.crafter))))
+      ;(x.c.rows ?? []).forEach((r, j) => out(`row-${i}-${j}`, fmt(rowComplexity(r, state.crafter, x.c))))
     }
     foot.push(...x.r.lines.map(esc))
+    // what the compendium says about the rows: sphere pricing rules applied, likely spell point costs
+    foot.push(...(x.r.notes ?? []).map((n) => `<span class="note">${esc(n)}</span>`))
     foot.push(`Price ${esc(x.r.formula)} = <b>${gp(x.r.price)}</b>${x.r.saveDc ? ` · save DC ${x.r.saveDc}` : ""}${x.r.minCl > 1 ? ` · min CL ${x.r.minCl}` : ""}`)
     out(`foot-${i}`, foot.map((f) => `<div>${f}</div>`).join(""))
   })
