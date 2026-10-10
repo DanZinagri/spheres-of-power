@@ -24,7 +24,8 @@ Some icons on this site come from [game-icons.net](https://game-icons.net), used
 | Battle gear | Item Crafter (Tools page) | [Lorc](http://lorcblog.blogspot.com) |
 | Crowned skull | Monster Creator (Tools page) | [Lorc](http://lorcblog.blogspot.com) |
 | Hawk emblem | Animal Companion Builder (Tools page) | [Lorc](http://lorcblog.blogspot.com) |
-| Hollow cat | Familiar Builder (Tools page) | [Lorc](http://lorcblog.blogspot.com) |
+| Cat | Familiar Builder (Tools page) | [Lorc](http://lorcblog.blogspot.com) |
+| Crested helmet | Cohort Builder (Tools page) | [Lorc](http://lorcblog.blogspot.com) |
 | Achievement | Feat Types (home page) | Skoll |
 | Allied star | Base PF1e Classes (home page) | Skoll |
 

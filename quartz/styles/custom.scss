@@ -398,11 +398,10 @@ iframe.sop-tool {
   --icon: url("/static/icons/game-icons/hawk-emblem.png");
 }
 .sop-icon-tool-familiar {
-  --icon: url("/static/icons/game-icons/hollow-cat.png");
+  --icon: url("/static/icons/game-icons/cat.png");
 }
-// a tool with no icon yet keeps the same indent as the rest
-.sop-icon-none {
-  visibility: hidden;
+.sop-icon-tool-cohort {
+  --icon: url("/static/icons/game-icons/crested-helmet.png");
 }
 .sop-icon-pf1e {
   --icon: url("/static/icons/game-icons/allied-star.png");

@@ -13,6 +13,6 @@ This is a list of resources to help with character or campaign crafting.
 - <span class="sop-icon sop-icon-tool-monster" aria-hidden="true"></span>[[Monster Creator]] - Load a Pathfinder monster, apply templates, add Hit Dice, class levels or sphere talents, and export a Foundry NPC or a stat block, with the CR worked out for you.
 - <span class="sop-icon sop-icon-tool-companion" aria-hidden="true"></span>[[Animal Companion Builder]] - Build an animal companion at any level, with the Beastmastery sphere's options, and export a Foundry actor, a PDF sheet or a stat block.
 - <span class="sop-icon sop-icon-tool-familiar" aria-hidden="true"></span>[[Familiar Builder]] - Build a familiar, an improved familiar or a Beastmastery pet from its master's statistics, and export a Foundry actor, a PDF sheet or a stat block.
-- <span class="sop-icon sop-icon-none" aria-hidden="true"></span>[[Cohort Builder]] - Build a Leadership sphere cohort from its leader's associated skill ranks and its job, and export a Foundry actor or a PDF sheet.
+- <span class="sop-icon sop-icon-tool-cohort" aria-hidden="true"></span>[[Cohort Builder]] - Build a Leadership sphere cohort from its leader's associated skill ranks and its job, and export a Foundry actor or a PDF sheet.
 
 </div>
