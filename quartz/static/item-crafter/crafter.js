@@ -730,6 +730,19 @@ function renderComp(c, i, it) {
     <div class="comp-foot" data-out="foot-${i}"></div></div>`
 }
 
+// the sphere's base abilities the chosen base power is built on: Cure for a Life cure, not Restore
+// or Invigorate. A power none of them is named for (or a custom one) shows them all.
+const POWER_ABILITY = { "Life:2": "Invigorate", "Illusion:0": "Illusion", "Mana:1": "Manipulation/Amp" }
+function baseAbilities(c) {
+  const all = COMPENDIUM.entries.filter((e) => e.sphere === c.sphere && e.kind === "sphere ability")
+  const power = POWERS[c.sphere]?.powers[c.power]
+  if (!power) return all
+  const named = POWER_ABILITY[`${c.sphere}:${c.power}`]
+  const words = power[0].toLowerCase()
+  const fits = all.filter((e) => (named ? e.name === named : e.name.toLowerCase().split(/[^a-z]+/).some((w) => w.length > 3 && words.includes(w))))
+  return fits.length ? fits : all
+}
+
 function hasSphereBox(c, P) {
   return chk(`${P}.hasSphere`, c.hasSphere, "Crafter has the base sphere", false, "Yourself or through an ally, implement, spell engine or scroll present for the whole crafting time")
 }
@@ -748,8 +761,7 @@ function renderTalentBody(c, P, i) {
       ${custom ? field("Base range", sel(`${P}.baseRange`, c.baseRange, RANGES.map((r, k) => [k, r]))) + field("Base duration", sel(`${P}.baseDur`, c.baseDur, Object.entries(DURATIONS))) : ""}
     </div>
     <p class="note">Base: range ${RANGES[bp.range].toLowerCase()}, duration ${DURATIONS[bp.dur].toLowerCase()}.</p>
-    ${COMPENDIUM.entries.filter((e) => e.sphere === c.sphere && e.kind === "sphere ability")
-      .map((e) => rulesBox(`base:${i}:${e.id}`, `${esc(c.sphere)}: ${esc(e.name)} (base ability rules)`, e)).join("")}
+    ${baseAbilities(c).map((e) => rulesBox(`base:${i}:${e.id}`, `${esc(c.sphere)}: ${esc(e.name)} (base ability rules)`, e)).join("")}
     <div class="grid">
       ${field("Range (±1 per step)", sel(`${P}.range`, c.range, RANGES.map((r, k) => [k, r]), false))}
       ${field(isStep(bp.dur) ? "Duration (±2 per step)" : "Duration (fixed)", sel(`${P}.dur`, c.dur, durOpts, false, isStep(bp.dur) ? "" : "disabled"))}
