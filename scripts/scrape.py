@@ -4411,6 +4411,99 @@ def _rules_summary(text: str, limit: int = 160, whole: bool = False) -> str:
     return s if len(s) <= limit else s[:limit].rsplit(" ", 1)[0] + "…"
 
 
+COHORT_PAGE = "Leadership"  # the Leadership sphere: Table: Cohort, the cohort jobs, the caster tables
+
+
+def _md_table(lines: list[str], at: int) -> list[list[str]]:
+    """The markdown table starting at or after line `at`, as rows of cells (header first)."""
+    rows = []
+    for l in lines[at:]:
+        if l.startswith("|"):
+            if not re.fullmatch(r"\|[\s\-|:]+\|?", l.strip()):
+                rows.append([c.strip() for c in l.strip().strip("|").split("|")])
+        elif rows:
+            break
+    return rows
+
+
+def build_cohort_jobs() -> int:
+    """compendium/cohort-jobs.json for the Cohort Builder: the Leadership sphere's Table: Cohort, every
+    cohort job (ability scores, saves, class skills, base attack bonus, the benefits by level) and the
+    caster cohort tables."""
+    f = next((x for x in CONTENT.rglob(f"{COHORT_PAGE}.md") if ARCHIVE not in x.relative_to(CONTENT).parts
+              and "## Cohort Jobs" in x.read_text(encoding="utf-8")), None)
+    if not f:
+        print("warning: cohort jobs: no Leadership page with a Cohort Jobs section")
+        return 0
+    lines = f.read_text(encoding="utf-8").split(GENERATED_MARK, 1)[-1].split("\n")
+    slug = _slugger()
+    ids = [slug(m.group(2)) if (m := re.match(r"(#{1,6}) (.+)$", l)) else "" for l in lines]
+    url = _page_url(f)
+    num = lambda t: int(m.group()) if (m := re.search(r"-?\d+", t.replace("—", ""))) else 0
+
+    def table_after(title: str) -> list[list[str]]:
+        at = next((i for i, l in enumerate(lines) if re.fullmatch(rf"#{{1,6}} {re.escape(title)}\s*", l)), None)
+        return _md_table(lines, at + 1) if at is not None else []
+
+    progression = [{"ranks": num(r[0]), "hd": num(r[1]), "bab": num(r[2]), "good": num(r[3]), "bad": num(r[4]), "feats": num(r[5]),
+                    "talents": num(r[6]), "other": r[7] if len(r) > 7 else ""} for r in table_after("Table: Cohort")[1:]]
+    per_day = [[num(c) for c in r] for r in table_after("Table: Leadership Cohort Spells Per Day")[1:]]
+    known = [[num(c) for c in r] for r in table_after("Table: Leadership Cohort Spells Known")[1:]]
+
+    jobs = []
+    for section, sample in (("Cohort Jobs", False), ("Sample Cohort Jobs", True)):
+        start = next((i for i, l in enumerate(lines) if l.strip() == f"## {section}"), None)
+        if start is None:
+            continue
+        end = next((i for i in range(start + 1, len(lines)) if re.match(r"#{1,2} ", lines[i])), len(lines))
+        heads = [i for i in range(start + 1, end) if lines[i].startswith("### ")] + [end]
+        for a, b in zip(heads, heads[1:]):
+            body = lines[a + 1:b]
+            text = "\n".join(body)
+            field = lambda label: (m.group(1).strip() if (m := re.search(rf"^\*\*{label}[^*]*:\*\*\s*(.+)$", text, re.M)) else "")
+            abilities = {k.lower(): int(v) for k, v in re.findall(r"\b(Str|Dex|Con|Int|Wis|Cha) (\d+)", field("Ability Scores"))}
+            if len(abilities) < 6:
+                continue  # not a job entry
+            saves = {k: ("high" if g == "good" else "low") for k, g in
+                     ((kk[:4].lower().replace("fort", "fort").replace("refl", "ref"), gg)
+                      for kk, gg in re.findall(r"(Fortitude|Reflex|Will) \((good|bad)\)", field("Saving Throws")))}
+            skills_text = field("Class Skills")
+            special = field("Special")
+            benefits, cur = [], None
+            for l in body:
+                # "- [**Name**] (3rd level): ...", "- **[Name] (3rd level):** ...", "- (1st level): ..."
+                cut = re.search(r"level\):", l)
+                head = l[:cut.end()].replace("*", "") if cut and l.startswith("- ") else ""
+                m = re.match(r"- (?:\[([^\]]*)\])?\s*\((\d+)(?:st|nd|rd|th) level\):$", head)
+                if m:
+                    m = (None, m.group(1) or "", m.group(2), l[cut.end():].lstrip("* "))
+                if m:
+                    cur = {"level": int(m[2]), "name": m[1].strip(), "text": m[3].strip()}
+                    benefits.append(cur)
+                elif cur and (l.startswith("  ") or not l.strip()):
+                    cur["text"] += "\n" + l.strip() if l.strip() else "\n"
+                elif cur and l.strip():
+                    cur = None
+            for ben in benefits:
+                ben["text"] = re.sub(r"\n{3,}", "\n\n", ben["text"]).strip()
+            name = lines[a][4:].strip()
+            jobs.append({"id": "job/" + re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-"), "name": name, "sample": sample,
+                         "prerequisite": field("Prerequisite"), "abilities": abilities,
+                         "saves": {"fort": saves.get("fort", "low"), "ref": saves.get("ref", "low"), "will": saves.get("will", "low")},
+                         "classSkills": class_skill_keys(skills_text), "classSkillsText": skills_text,
+                         "choices": int(m.group(1)) if (m := re.search(r"\+(\d+) class skills", skills_text)) else 0,
+                         "special": special, "note": field("Note"),
+                         "bab": "med" if re.search(r"base attack bonus is equal to 3/4", special) else "high",
+                         "hd": int(m.group(1)) if (m := re.search(r"Hit Dice (?:value )?(?:is|are) (?:a )?d(\d+)", special)) else 10,
+                         "caster": bool(re.search(r"cohort caster|spherecaster cohort", text)),
+                         "benefits": benefits, "url": f"{url}#{ids[a]}"})
+    COMPENDIUM_OUT.mkdir(parents=True, exist_ok=True)
+    (COMPENDIUM_OUT / "cohort-jobs.json").write_text(json.dumps(
+        {"url": url, "progression": progression, "spellsPerDay": per_day, "spellsKnown": known, "jobs": jobs},
+        ensure_ascii=False, indent=1), encoding="utf-8")
+    return len(jobs)
+
+
 def build_trait_compendium() -> dict[str, int]:
     """compendium/traits.json: the Spheres traits (Traits, Practitioner Traits) with their category
     and requirements; compendium/traits-index.json: those plus the Pathfinder traits
@@ -7221,6 +7314,7 @@ def convert(with_images: bool) -> None:
     print(f"Compendium classes: {build_class_compendium()}")
     print(f"Compendium feats: {build_feat_compendium()}")
     print(f"Compendium traits: {build_trait_compendium()}")
+    print(f"Cohort jobs: {build_cohort_jobs()}")
     print(f"Compendium races: {build_race_compendium()}")
     print(f"Martial traditions: {build_martial_traditions()}")
     print(f"Casting tradition drawbacks: {build_casting_traditions()}")

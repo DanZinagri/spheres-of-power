@@ -1,0 +1,1485 @@
+{
+ "url": "Spheres-Of-Might/Leadership/Leadership",
+ "progression": [
+  {
+   "ranks": 1,
+   "hd": 1,
+   "bab": 1,
+   "good": 2,
+   "bad": 0,
+   "feats": 1,
+   "talents": 0,
+   "other": "Job Select, job benefit (1st), traditions"
+  },
+  {
+   "ranks": 2,
+   "hd": 2,
+   "bab": 2,
+   "good": 3,
+   "bad": 0,
+   "feats": 1,
+   "talents": 1,
+   "other": "Job benefit (2nd)"
+  },
+  {
+   "ranks": 3,
+   "hd": 3,
+   "bab": 3,
+   "good": 3,
+   "bad": 1,
+   "feats": 2,
+   "talents": 2,
+   "other": "Job benefit (3rd)"
+  },
+  {
+   "ranks": 4,
+   "hd": 3,
+   "bab": 3,
+   "good": 3,
+   "bad": 1,
+   "feats": 2,
+   "talents": 2,
+   "other": "Stat growth"
+  },
+  {
+   "ranks": 5,
+   "hd": 4,
+   "bab": 4,
+   "good": 4,
+   "bad": 1,
+   "feats": 2,
+   "talents": 3,
+   "other": "Ability score increase"
+  },
+  {
+   "ranks": 6,
+   "hd": 5,
+   "bab": 5,
+   "good": 4,
+   "bad": 1,
+   "feats": 3,
+   "talents": 3,
+   "other": "Job benefit (5th)"
+  },
+  {
+   "ranks": 7,
+   "hd": 6,
+   "bab": 6,
+   "good": 5,
+   "bad": 2,
+   "feats": 3,
+   "talents": 4,
+   "other": ""
+  },
+  {
+   "ranks": 8,
+   "hd": 6,
+   "bab": 6,
+   "good": 5,
+   "bad": 2,
+   "feats": 3,
+   "talents": 4,
+   "other": "Stat growth"
+  },
+  {
+   "ranks": 9,
+   "hd": 7,
+   "bab": 7,
+   "good": 5,
+   "bad": 2,
+   "feats": 4,
+   "talents": 5,
+   "other": ""
+  },
+  {
+   "ranks": 10,
+   "hd": 8,
+   "bab": 8,
+   "good": 6,
+   "bad": 2,
+   "feats": 4,
+   "talents": 6,
+   "other": "Ability score increase"
+  },
+  {
+   "ranks": 11,
+   "hd": 9,
+   "bab": 9,
+   "good": 6,
+   "bad": 3,
+   "feats": 5,
+   "talents": 6,
+   "other": ""
+  },
+  {
+   "ranks": 12,
+   "hd": 9,
+   "bab": 9,
+   "good": 6,
+   "bad": 3,
+   "feats": 5,
+   "talents": 6,
+   "other": "Stat growth"
+  },
+  {
+   "ranks": 13,
+   "hd": 10,
+   "bab": 10,
+   "good": 7,
+   "bad": 3,
+   "feats": 5,
+   "talents": 7,
+   "other": ""
+  },
+  {
+   "ranks": 14,
+   "hd": 11,
+   "bab": 11,
+   "good": 7,
+   "bad": 3,
+   "feats": 6,
+   "talents": 8,
+   "other": ""
+  },
+  {
+   "ranks": 15,
+   "hd": 12,
+   "bab": 12,
+   "good": 8,
+   "bad": 4,
+   "feats": 6,
+   "talents": 9,
+   "other": "Ability score increase"
+  },
+  {
+   "ranks": 16,
+   "hd": 12,
+   "bab": 12,
+   "good": 8,
+   "bad": 4,
+   "feats": 6,
+   "talents": 9,
+   "other": "Stat growth"
+  },
+  {
+   "ranks": 17,
+   "hd": 13,
+   "bab": 13,
+   "good": 8,
+   "bad": 4,
+   "feats": 7,
+   "talents": 9,
+   "other": ""
+  },
+  {
+   "ranks": 18,
+   "hd": 14,
+   "bab": 14,
+   "good": 9,
+   "bad": 4,
+   "feats": 7,
+   "talents": 10,
+   "other": ""
+  },
+  {
+   "ranks": 19,
+   "hd": 15,
+   "bab": 15,
+   "good": 9,
+   "bad": 5,
+   "feats": 8,
+   "talents": 11,
+   "other": ""
+  },
+  {
+   "ranks": 20,
+   "hd": 15,
+   "bab": 15,
+   "good": 9,
+   "bad": 5,
+   "feats": 8,
+   "talents": 11,
+   "other": "Stat growth"
+  },
+  {
+   "ranks": 21,
+   "hd": 16,
+   "bab": 16,
+   "good": 10,
+   "bad": 5,
+   "feats": 8,
+   "talents": 12,
+   "other": "Ability score increase"
+  },
+  {
+   "ranks": 22,
+   "hd": 17,
+   "bab": 17,
+   "good": 10,
+   "bad": 5,
+   "feats": 9,
+   "talents": 12,
+   "other": ""
+  },
+  {
+   "ranks": 23,
+   "hd": 18,
+   "bab": 18,
+   "good": 11,
+   "bad": 6,
+   "feats": 9,
+   "talents": 13,
+   "other": ""
+  },
+  {
+   "ranks": 24,
+   "hd": 18,
+   "bab": 18,
+   "good": 11,
+   "bad": 6,
+   "feats": 9,
+   "talents": 13,
+   "other": "Stat growth"
+  },
+  {
+   "ranks": 25,
+   "hd": 19,
+   "bab": 19,
+   "good": 11,
+   "bad": 6,
+   "feats": 9,
+   "talents": 14,
+   "other": ""
+  },
+  {
+   "ranks": 26,
+   "hd": 20,
+   "bab": 20,
+   "good": 12,
+   "bad": 6,
+   "feats": 10,
+   "talents": 15,
+   "other": "Ability score increase"
+  },
+  {
+   "ranks": 27,
+   "hd": 21,
+   "bab": 21,
+   "good": 12,
+   "bad": 7,
+   "feats": 10,
+   "talents": 15,
+   "other": ""
+  },
+  {
+   "ranks": 28,
+   "hd": 21,
+   "bab": 21,
+   "good": 12,
+   "bad": 7,
+   "feats": 11,
+   "talents": 15,
+   "other": "Stat growth"
+  },
+  {
+   "ranks": 29,
+   "hd": 22,
+   "bab": 22,
+   "good": 13,
+   "bad": 7,
+   "feats": 11,
+   "talents": 16,
+   "other": ""
+  },
+  {
+   "ranks": 30,
+   "hd": 23,
+   "bab": 23,
+   "good": 13,
+   "bad": 7,
+   "feats": 12,
+   "talents": 17,
+   "other": ""
+  }
+ ],
+ "spellsPerDay": [
+  [
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   2,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   3,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   4,
+   3,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   5,
+   4,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   6,
+   4,
+   3,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   7,
+   4,
+   3,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   8,
+   4,
+   4,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   9,
+   5,
+   4,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
+   10,
+   5,
+   4,
+   3,
+   1,
+   0,
+   0
+  ],
+  [
+   11,
+   5,
+   4,
+   4,
+   2,
+   0,
+   0
+  ],
+  [
+   12,
+   5,
+   5,
+   4,
+   3,
+   0,
+   0
+  ],
+  [
+   13,
+   5,
+   5,
+   4,
+   3,
+   1,
+   0
+  ],
+  [
+   14,
+   5,
+   5,
+   4,
+   4,
+   2,
+   0
+  ],
+  [
+   15,
+   5,
+   5,
+   5,
+   4,
+   3,
+   0
+  ],
+  [
+   16,
+   5,
+   5,
+   5,
+   4,
+   3,
+   1
+  ],
+  [
+   17,
+   5,
+   5,
+   5,
+   4,
+   4,
+   2
+  ],
+  [
+   18,
+   5,
+   5,
+   5,
+   5,
+   4,
+   3
+  ],
+  [
+   19,
+   5,
+   5,
+   5,
+   5,
+   5,
+   4
+  ],
+  [
+   20,
+   5,
+   5,
+   5,
+   5,
+   5,
+   5
+  ]
+ ],
+ "spellsKnown": [
+  [
+   1,
+   4,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   2,
+   5,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   3,
+   6,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   4,
+   6,
+   4,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   5,
+   6,
+   4,
+   3,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   6,
+   6,
+   4,
+   4,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   7,
+   6,
+   4,
+   3,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   8,
+   6,
+   4,
+   4,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
+   9,
+   6,
+   4,
+   4,
+   4,
+   0,
+   0,
+   0
+  ],
+  [
+   10,
+   6,
+   4,
+   4,
+   4,
+   2,
+   0,
+   0
+  ],
+  [
+   11,
+   6,
+   4,
+   4,
+   4,
+   3,
+   0,
+   0
+  ],
+  [
+   12,
+   6,
+   4,
+   4,
+   4,
+   4,
+   0,
+   0
+  ],
+  [
+   13,
+   6,
+   4,
+   4,
+   4,
+   4,
+   2,
+   0
+  ],
+  [
+   14,
+   6,
+   4,
+   4,
+   4,
+   4,
+   3,
+   0
+  ],
+  [
+   15,
+   6,
+   4,
+   4,
+   4,
+   4,
+   4,
+   0
+  ],
+  [
+   16,
+   6,
+   4,
+   4,
+   4,
+   4,
+   4,
+   2
+  ],
+  [
+   17,
+   6,
+   4,
+   4,
+   4,
+   4,
+   4,
+   3
+  ],
+  [
+   18,
+   6,
+   4,
+   4,
+   4,
+   4,
+   4,
+   4
+  ],
+  [
+   19,
+   6,
+   4,
+   4,
+   4,
+   4,
+   4,
+   4
+  ],
+  [
+   20,
+   6,
+   4,
+   4,
+   4,
+   4,
+   4,
+   4
+  ]
+ ],
+ "jobs": [
+  {
+   "id": "job/acolyte",
+   "name": "Acolyte",
+   "sample": false,
+   "prerequisite": "Advanced Cohorts (magic cohorts).",
+   "abilities": {
+    "str": 8,
+    "dex": 13,
+    "con": 12,
+    "int": 10,
+    "wis": 15,
+    "cha": 14
+   },
+   "saves": {
+    "fort": "high",
+    "ref": "low",
+    "will": "high"
+   },
+   "classSkills": [
+    "kna",
+    "kpl",
+    "per",
+    "spl",
+    "sur",
+    "umd"
+   ],
+   "classSkillsText": "Knowledge (nature) (Int), Knowledge (planes) (Int), Perception (Wis), Spellcraft (Int), Survival (Wis), Use Magic Device (Cha), +2 class skills of the acolyte's choice",
+   "choices": 2,
+   "special": "An acolyte's base attack bonus is equal to 3/4 their cohort level.",
+   "note": "",
+   "bab": "med",
+   "hd": 10,
+   "caster": true,
+   "benefits": [
+    {
+     "level": 1,
+     "name": "",
+     "text": "The acolyte is a cohort caster. If the acolyte is a classic cohort caster, they select either the druid or shaman list as their spell list and use Wisdom as their casting modifier. If the acolyte is a spherecaster cohort, they gain either the Fate or the Nature sphere plus one additional sphere of their choice, and are treated as a High-Caster in each of these spheres."
+    },
+    {
+     "level": 2,
+     "name": "",
+     "text": "The acolyte gains a circumstance bonus equal to 1/2 their acolyte level on Knowledge (nature), Knowledge (planes), and Spellcraft checks."
+    },
+    {
+     "level": 3,
+     "name": "Acolyte's Spirit Connection",
+     "text": "The acolyte gains the shaman's spirit feature, treating their acolyte level as their shaman level for this purpose. At 3rd level, the acolyte gains the spirit ability of their chosen spirit, gaining the greater spirit ability at 9th level and true spirit ability at 15th level."
+    },
+    {
+     "level": 5,
+     "name": "Acolyte's Hex",
+     "text": "The acolyte gains a single shaman hex, treating their acolyte level as their shaman level for this purpose. The acolyte must choose a hex from their chosen shaman spirit. At 11th level, the acolyte gains a second hex from their chosen spirit, and may now reselect one of these hexes each day after preparing their spells."
+    }
+   ],
+   "url": "Spheres-Of-Might/Leadership/Leadership#acolyte"
+  },
+  {
+   "id": "job/apprentice",
+   "name": "Apprentice",
+   "sample": false,
+   "prerequisite": "Advanced Cohorts (magic cohorts).",
+   "abilities": {
+    "str": 10,
+    "dex": 14,
+    "con": 12,
+    "int": 15,
+    "wis": 13,
+    "cha": 8
+   },
+   "saves": {
+    "fort": "high",
+    "ref": "high",
+    "will": "low"
+   },
+   "classSkills": [
+    "kar",
+    "crf",
+    "hea",
+    "per",
+    "spl"
+   ],
+   "classSkillsText": "Craft (alchemy) (Int), Heal (Wis), Knowledge (arcana) (Int), Perception (Wis), Spellcraft (Int), +2 class skills of the apprentice's choice",
+   "choices": 2,
+   "special": "An apprentice's base attack bonus is equal to 3/4 their cohort level.",
+   "note": "",
+   "bab": "med",
+   "hd": 10,
+   "caster": true,
+   "benefits": [
+    {
+     "level": 1,
+     "name": "",
+     "text": "The apprentice is a cohort caster. If the apprentice is a classic cohort caster, they use the alchemist list as their spell list and Intelligence as their casting modifier. An apprentice must be a prepared caster, preparing their spells as extracts, the same as an alchemist. The apprentice gains the infusion discovery as a bonus alchemist discovery. If the apprentice is a spherecaster cohort, they gain either the Alteration or Enhancement sphere plus one additional sphere of their choice, and are treated as a High-Caster in each of these spheres. The apprentice may use the (instill) option for each sphere they possess, and cannot use a magic sphere ability without its (instill) option."
+    },
+    {
+     "level": 2,
+     "name": "",
+     "text": "The apprentice gains a circumstance bonus equal to 1/2 their apprentice level on Craft (alchemy), Heal, and Spellcraft checks."
+    },
+    {
+     "level": 3,
+     "name": "Apprentice's Discovery",
+     "text": "The apprentice gains a single alchemist discovery, treating their apprentice level as their alchemist level to determine the effects of and to qualify for alchemist discoveries, plus an additional alchemist discovery at 9th and 13th level."
+    },
+    {
+     "level": 5,
+     "name": "Brew Potion",
+     "text": "The apprentice gains Brew Potion as a bonus feat. At 11th level, the apprentice may double the potion's gold cost to ignore a single spell prerequisite (but not any expensive material components or other required checks)."
+    }
+   ],
+   "url": "Spheres-Of-Might/Leadership/Leadership#apprentice"
+  },
+  {
+   "id": "job/cutpurse",
+   "name": "Cutpurse",
+   "sample": false,
+   "prerequisite": "",
+   "abilities": {
+    "str": 10,
+    "dex": 15,
+    "con": 12,
+    "int": 14,
+    "wis": 8,
+    "cha": 13
+   },
+   "saves": {
+    "fort": "low",
+    "ref": "high",
+    "will": "high"
+   },
+   "classSkills": [
+    "acr",
+    "blf",
+    "dev",
+    "per",
+    "ste"
+   ],
+   "classSkillsText": "Acrobatics (Dex), Bluff (Cha), Disable Device (Dex), Perception (Wis), Stealth (Dex), +2 class skills of the cutpurse's choice",
+   "choices": 2,
+   "special": "",
+   "note": "",
+   "bab": "high",
+   "hd": 10,
+   "caster": false,
+   "benefits": [
+    {
+     "level": 1,
+     "name": "",
+     "text": "The cutpurse gains the Equipment sphere Finesse Training talent and the Scoundrel sphere as a bonus sphere. If using *Spheres of Guile*, the cutpurse may exchange the Scoundrel sphere for the Infiltration or Subterfuge sphere."
+    },
+    {
+     "level": 2,
+     "name": "",
+     "text": "The cutpurse gains a circumstance bonus equal to 1/2 their cutpurse level on Disable Device and Stealth, as well as Perception checks made to avoid an ambush or notice traps. The cutpurse can disable magical traps. The cutpurse is treated as having the trap sense feature for the purpose of any feat or class prerequisite."
+    },
+    {
+     "level": 3,
+     "name": "Sneak Attack",
+     "text": "The cutpurse gains +1d6 sneak attack, +1d6 for every 4 cutpurse levels after 3rd level. This sneak attack functions as the unchained rogue's sneak attack class feature."
+    },
+    {
+     "level": 5,
+     "name": "Cutpurse Talents",
+     "text": "The cutpurse gains a rogue talent, treating their cutpurse level as their rogue level to determine the effects of and to qualify for rogue talents, plus an additional rogue talent every 3 levels after 5th."
+    }
+   ],
+   "url": "Spheres-Of-Might/Leadership/Leadership#cutpurse"
+  },
+  {
+   "id": "job/disciple",
+   "name": "Disciple",
+   "sample": false,
+   "prerequisite": "",
+   "abilities": {
+    "str": 12,
+    "dex": 15,
+    "con": 13,
+    "int": 10,
+    "wis": 14,
+    "cha": 8
+   },
+   "saves": {
+    "fort": "high",
+    "ref": "high",
+    "will": "low"
+   },
+   "classSkills": [
+    "acr",
+    "esc",
+    "hea",
+    "per",
+    "sen"
+   ],
+   "classSkillsText": "Acrobatics (Dex), Escape Artist (Dex), Heal (Wis), Perception (Wis), Sense Motive (Wis), +2 class skills of the disciple's choice",
+   "choices": 2,
+   "special": "",
+   "note": "",
+   "bab": "high",
+   "hd": 10,
+   "caster": false,
+   "benefits": [
+    {
+     "level": 1,
+     "name": "",
+     "text": "The disciple gains the Open Hand sphere and either the Equipment sphere Monk Weapon Training or Unarmed Weapon Training (discipline) talent. If using *Spheres of Guile*, the disciple may exchange the Open Hand sphere for the Body Control sphere."
+    },
+    {
+     "level": 2,
+     "name": "",
+     "text": "The disciple gains a circumstance bonus equal to 1/2 their disciple level on Acrobatics, Sense Motive, and Perception."
+    },
+    {
+     "level": 3,
+     "name": "Disciple's Flurry",
+     "text": "Whenever the disciple performs an attack action, the disciple may make an additional attack as a free action with a monk weapon or unarmed strike at a -2 penalty. At 11th level, the disciple may instead make two additional attacks, but both at a -4 penalty.\n\nThe disciple treats this ability as the monk's flurry of blows class feature when performing an attack action, such as for the path of striking's benefits below or for other abilities and effects. The disciple does not receive additional attacks from other abilities or effects that grant benefits for possessing the flurry of blows feature (such as the Monk Weapon Training talent)."
+    },
+    {
+     "level": 5,
+     "name": "Disciple's Path",
+     "text": "The disciple chooses either the path of mysticism or the path of striking:\n- *Path of Mysticism*: The disciple gains the unchained monk's ki pool feature, treating their disciple level as their unchained monk level for this purpose and to determine the effects of and to qualify for ki powers. The disciple gains an unchained monk ki power, plus 1 additional ki power at 9th level and every 4 levels thereafter.\n- *Path of Striking*: The disciple gains the unchained monk's style strikes feature, treating their disciple level as their unchained monk level for this purpose. The additional attacks granted by the disciple's flurry feature are modified by the disciple's style strikes (or modifying two attacks at 15th level).\n\nIf the disciple would use a style strike that requires another class feature, the disciple is treated as possessing that feature at its minimum bonus (such as, if performing the flying kick style strike, the disciple would be treated as having 10 feet of fast movement)."
+    }
+   ],
+   "url": "Spheres-Of-Might/Leadership/Leadership#disciple"
+  },
+  {
+   "id": "job/fortune-teller",
+   "name": "Fortune Teller",
+   "sample": false,
+   "prerequisite": "Advanced Cohorts (magic cohorts).",
+   "abilities": {
+    "str": 8,
+    "dex": 12,
+    "con": 13,
+    "int": 14,
+    "wis": 10,
+    "cha": 15
+   },
+   "saves": {
+    "fort": "low",
+    "ref": "high",
+    "will": "high"
+   },
+   "classSkills": [
+    "kar",
+    "khi",
+    "per",
+    "spl",
+    "umd"
+   ],
+   "classSkillsText": "Knowledge (arcana) (Int), Knowledge (history) (Int), Perception (Wis), Spellcraft (Int), Use Magic Device (Cha), +2 class skills of the fortune teller's choice",
+   "choices": 2,
+   "special": "A fortune teller's base attack bonus is equal to 3/4 their cohort level.",
+   "note": "",
+   "bab": "med",
+   "hd": 10,
+   "caster": true,
+   "benefits": [
+    {
+     "level": 1,
+     "name": "",
+     "text": "The fortune teller is a cohort caster. If the fortune teller is a classic cohort caster, they select either the psychic or witch spell list and Intelligence or Charisma as their casting modifier. If the fortune teller is a spherecaster cohort, they receive the Divination or Mind sphere as a bonus sphere plus one additional sphere of their choice, and are treated as a High-Caster in each of these spheres."
+    },
+    {
+     "level": 2,
+     "name": "",
+     "text": "The fortune teller gains a circumstance bonus equal to 1/2 their fortune teller level on Knowledge (history), Spellcraft, and Use Magic Device checks."
+    },
+    {
+     "level": 3,
+     "name": "Fortune Teller's Implement",
+     "text": "The fortune teller gains the occultist mental focus feature with a number of points of mental focus equal to 1/2 their fortune teller level + their casting modifier. In addition, the fortune teller gains a single occultist implement, treating their fortune teller as their occultist level when determining the implement's resonant power and focus powers."
+    },
+    {
+     "level": 5,
+     "name": "Fortune Teller's Focus",
+     "text": "The fortune teller gains a single focus power for their occultist implement, plus an additional focus power at 9th level and 13th level."
+    }
+   ],
+   "url": "Spheres-Of-Might/Leadership/Leadership#fortune-teller"
+  },
+  {
+   "id": "job/minstrel",
+   "name": "Minstrel",
+   "sample": false,
+   "prerequisite": "",
+   "abilities": {
+    "str": 8,
+    "dex": 15,
+    "con": 12,
+    "int": 14,
+    "wis": 10,
+    "cha": 13
+   },
+   "saves": {
+    "fort": "low",
+    "ref": "high",
+    "will": "high"
+   },
+   "classSkills": [
+    "khi",
+    "kno",
+    "dip",
+    "per",
+    "prf"
+   ],
+   "classSkillsText": "Diplomacy (Cha), Knowledge (history) (Int), Knowledge (nobility) (Int), Perception (Wis), Perform (any) (Cha), +2 class skills of the minstrel's choice",
+   "choices": 2,
+   "special": "",
+   "note": "",
+   "bab": "high",
+   "hd": 10,
+   "caster": false,
+   "benefits": [
+    {
+     "level": 1,
+     "name": "",
+     "text": "The minstrel gains Cunning and Skill Focus as bonus feats and the Warleader sphere with the music man drawback. If using *Spheres of Guile*, the minstrel may gain the Bluster or Performance sphere instead of the Warleader sphere."
+    },
+    {
+     "level": 2,
+     "name": "",
+     "text": "The minstrel gains a circumstance bonus equal to 1/2 their minstrel level on Knowledge (history), Knowledge (nobility), and all Perform checks. The minstrel may make Knowledge (history) and Knowledge (nobility) checks untrained."
+    },
+    {
+     "level": 3,
+     "name": "Minstrel's Performance",
+     "text": "The minstrel gains the bard's bardic performance feature, treating their minstrel level as their bard level for this purpose. The minstrel gains access to the countersong, distraction, fascinate, and inspire competence bardic performances. The minstrel does not gain any other bardic performances nor does the minstrel qualify for bardic masterpieces."
+    },
+    {
+     "level": 5,
+     "name": "Minstrel-of-All-Trades",
+     "text": "The minstrel may take 10 on any skill check they are trained in, even if in immediate danger or distracted. Once per round, if another ally is benefitting from the minstrel's bardic performance, the minstrel may allow that ally to take 10 on a skill check, even if in immediate danger or distracted, provided that the ally is trained in that skill."
+    }
+   ],
+   "url": "Spheres-Of-Might/Leadership/Leadership#minstrel"
+  },
+  {
+   "id": "job/naturalist",
+   "name": "Naturalist",
+   "sample": false,
+   "prerequisite": "",
+   "abilities": {
+    "str": 13,
+    "dex": 15,
+    "con": 12,
+    "int": 10,
+    "wis": 14,
+    "cha": 8
+   },
+   "saves": {
+    "fort": "high",
+    "ref": "high",
+    "will": "low"
+   },
+   "classSkills": [
+    "kna",
+    "han",
+    "hea",
+    "per",
+    "sur"
+   ],
+   "classSkillsText": "Handle Animal (Cha), Heal (Wis), Knowledge (nature) (Int), Perception (Wis), Survival (Wis), +2 class skills of the naturalist's choice",
+   "choices": 2,
+   "special": "",
+   "note": "",
+   "bab": "high",
+   "hd": 10,
+   "caster": false,
+   "benefits": [
+    {
+     "level": 1,
+     "name": "",
+     "text": "The naturalist gains the Alchemy sphere as a bonus sphere and a single Equipment sphere (discipline) talent of their choice. If using *Spheres of Guile*, the naturalist may gain the Herbalism sphere instead of the Alchemy sphere."
+    },
+    {
+     "level": 2,
+     "name": "",
+     "text": "The naturalist gains a circumstance bonus equal to 1/2 their naturalist level on Craft (alchemy), Heal, and Survival. If the naturalist selected a different associated skill for the Alchemy or Herbalism spheres, they may choose to exchange one of these skills for that skill (the new skill should still be appropriate for a naturalist cohort, subject to GM discretion)."
+    },
+    {
+     "level": 3,
+     "name": "Naturalist's Enemy",
+     "text": "The naturalist gains a single favored enemy, as the ranger's favored enemy feature, with a +2 favored enemy bonus. The naturalist can change their favored enemy selection once per day with 1 hour of preparation.\n\nAt 11th level, the naturalist's favored enemy bonus increases to +4. The naturalist does not select an additional favored enemy."
+    },
+    {
+     "level": 5,
+     "name": "Naturalist Specialty",
+     "text": "The naturalist chooses either the hunter specialty or the traveler's specialty:\n- *Hunter's Specialty*: As a move action, the naturalist may make a single Knowledge check to identify a creature they can see, gaining a circumstance bonus on this check equal to 1/2 the naturalist's level. This Knowledge check may be made even if untrained. On a success, the naturalist may treat the target as though they were their favored enemy for 1 minute. If the target is already the naturalist's favored enemy, the naturalist deals an additional +1d6 precision damage on weapon attacks against the target. At 9th level, the naturalist may now use this ability as a move or swift action. At 13th level, the bonus precision damage improves to +2d6 and the naturalist always receives this bonus damage, even if the target is not the naturalist's favored enemy.\n- *Traveler's Specialty*: The naturalist gains the ranger's woodland stride feature and selects a single favored terrain, as the ranger's favored terrain feature. The naturalist may reselect their favored terrain once per week. At 9th level, the naturalist may move unimpeded through any terrain, natural or magical. At 13th level, once per day, the naturalist may share this traveler's specialty with a number of creatures within 30 feet equal to 1/2 their naturalist level; this benefit lasts for 1 minute per naturalist level."
+    }
+   ],
+   "url": "Spheres-Of-Might/Leadership/Leadership#naturalist"
+  },
+  {
+   "id": "job/priest",
+   "name": "Priest",
+   "sample": false,
+   "prerequisite": "Advanced Cohorts (magic cohorts).",
+   "abilities": {
+    "str": 13,
+    "dex": 10,
+    "con": 12,
+    "int": 8,
+    "wis": 15,
+    "cha": 14
+   },
+   "saves": {
+    "fort": "high",
+    "ref": "low",
+    "will": "high"
+   },
+   "classSkills": [
+    "kre",
+    "hea",
+    "per",
+    "sen",
+    "spl",
+    "umd"
+   ],
+   "classSkillsText": "Heal (Wis), Knowledge (religion) (Int), Perception (Wis), Sense Motive (Wis), Spellcraft (Int), Use Magic Device (Cha), +2 class skills of the priest's choice",
+   "choices": 2,
+   "special": "A priest's base attack bonus is equal to 3/4 their cohort level.",
+   "note": "",
+   "bab": "med",
+   "hd": 10,
+   "caster": true,
+   "benefits": [
+    {
+     "level": 1,
+     "name": "Priestly Worship",
+     "text": "The priest worships a deity or other source that could grant a cleric spells. A priest must be within 1 step of their deity's alignment and they must channel energy as a cleric appropriate to their deity."
+    },
+    {
+     "level": 1,
+     "name": "",
+     "text": "The priest is a cohort caster. If the priest is a classic cohort caster, they use the cleric spell list and Wisdom or Charisma as their casting modifier. If the priest is a spherecaster cohort, they gain a bonus magic talent from a sphere associated with one of their deity's domain (as a sphere cleric) and either the Life sphere or the Death sphere based on whether they channel positive or negative energy respectively, and are treated as a High-Caster in each of these spheres."
+    },
+    {
+     "level": 2,
+     "name": "",
+     "text": "The priest gains a circumstance bonus equal to 1/2 their priest level on Heal, Knowledge (religion), and Sense Motive checks."
+    },
+    {
+     "level": 3,
+     "name": "Priest's Domain",
+     "text": "The priest selects a single cleric domain, treating their priest level as their cleric level for this purpose. If the priest is a classic cohort caster, the priest may prepare domain spells or select them as spells known as though they were on the cleric spell list. If the priest is a spherecaster cohort, the priest gains a bonus magic talent from a sphere associated with their domain."
+    },
+    {
+     "level": 5,
+     "name": "Channel Energy",
+     "text": "The priest gains the channel energy class feature, channeling either positive or negative energy based on their selection for priestly worship. The priest's channel energy is equal to 1d6 per 3 priest levels, and they may channel energy a number of times per day equal to 1 + their casting modifier."
+    }
+   ],
+   "url": "Spheres-Of-Might/Leadership/Leadership#priest"
+  },
+  {
+   "id": "job/squire",
+   "name": "Squire",
+   "sample": false,
+   "prerequisite": "",
+   "abilities": {
+    "str": 14,
+    "dex": 12,
+    "con": 15,
+    "int": 10,
+    "wis": 13,
+    "cha": 8
+   },
+   "saves": {
+    "fort": "high",
+    "ref": "high",
+    "will": "low"
+   },
+   "classSkills": [
+    "kno",
+    "dip",
+    "han",
+    "rid",
+    "sen"
+   ],
+   "classSkillsText": "Diplomacy (Cha), Handle Animal (Cha), Knowledge (nobility) (Int), Ride (Dex), Sense Motive (Wis), +2 class skills of the squire's choice",
+   "choices": 2,
+   "special": "",
+   "note": "",
+   "bab": "high",
+   "hd": 10,
+   "caster": false,
+   "benefits": [
+    {
+     "level": 1,
+     "name": "",
+     "text": "The squire gains the Guardian sphere and an additional Equipment sphere talent of their choice. If using *Spheres of Guile*, the squire may gain the Artifice sphere instead of the Guardian sphere, and must select the gear package."
+    },
+    {
+     "level": 2,
+     "name": "",
+     "text": "The squire gains a circumstance bonus equal to 1/2 their squire level on all Diplomacy, Handle Animal, Knowledge (nobility), and Ride checks. The squire can make Knowledge (nobility) checks even if untrained."
+    },
+    {
+     "level": 3,
+     "name": "Squire's Order",
+     "text": "The squire gains a cavalier order, including its order benefits, challenge bonus, skill bonus, and order abilities, treating their squire level as their cavalier level for this purpose.\n\nIf the squire possesses the Guardian (challenge) package, their order's challenge bonus applies against a target affected by their Guardian *challenge*. If the squire possesses the Guardian (patrol) package, their order's challenge bonus applies on attacks of opportunity made as part of their *patrol*."
+    },
+    {
+     "level": 5,
+     "name": "Aide de Camp",
+     "text": "The squire is uniquely adept at assisting their leader. The squire gains Quick Draw as a bonus feat, and can retrieve any kind of equipment or item from their person using the Quick Draw feat, not just weapons. When within reach, the squire or leader may retrieve items from one another as a free action (or items may be handed to one another as a free action, provided the other has a free hand to receive it).\n\nThis does not allow the squire or their leader to retrieve items that are inside containers faster, but would allow the leader to take a readied polearm from their squire as they advance on the enemy."
+    }
+   ],
+   "url": "Spheres-Of-Might/Leadership/Leadership#squire"
+  },
+  {
+   "id": "job/student",
+   "name": "Student",
+   "sample": false,
+   "prerequisite": "Advanced Cohorts (magic cohorts).",
+   "abilities": {
+    "str": 10,
+    "dex": 12,
+    "con": 13,
+    "int": 15,
+    "wis": 14,
+    "cha": 8
+   },
+   "saves": {
+    "fort": "low",
+    "ref": "high",
+    "will": "high"
+   },
+   "classSkills": [
+    "kar",
+    "per",
+    "spl",
+    "umd"
+   ],
+   "classSkillsText": "Knowledge (arcana) (Int), Knowledge (any one) (Int), Perception (Wis), Spellcraft (Int), Use Magic Device (Cha), +2 class skills of the student's choice",
+   "choices": 2,
+   "special": "A student's base attack bonus is equal to 3/4 their cohort level.",
+   "note": "",
+   "bab": "med",
+   "hd": 10,
+   "caster": true,
+   "benefits": [
+    {
+     "level": 1,
+     "name": "",
+     "text": "The student is a cohort caster. If the student is a classic cohort caster, they use the wizard spell list and Intelligence as their casting modifier, preparing their spells from a spellbook. If the student is a spherecaster cohort, they receive any two magic spheres as bonus spheres, and are treated as a Mid-Caster."
+    },
+    {
+     "level": 2,
+     "name": "",
+     "text": "The student gains a circumstance bonus equal to 1/2 their student level on Knowledge (arcana), Spellcraft, and Use Magic Device checks."
+    },
+    {
+     "level": 3,
+     "name": "Arcane School",
+     "text": "The student selects a single arcane school, treating their student level as their wizard level for this purpose."
+    },
+    {
+     "level": 5,
+     "name": "Student's Scrolls",
+     "text": "The student gains Scribe Scroll as a bonus feat. At 11th level, the student may double the scroll's gold cost to ignore a single spell prerequisite (but not any expensive material components or other required checks)."
+    }
+   ],
+   "url": "Spheres-Of-Might/Leadership/Leadership#student"
+  },
+  {
+   "id": "job/warrior",
+   "name": "Warrior",
+   "sample": false,
+   "prerequisite": "",
+   "abilities": {
+    "str": 15,
+    "dex": 14,
+    "con": 12,
+    "int": 13,
+    "wis": 10,
+    "cha": 8
+   },
+   "saves": {
+    "fort": "high",
+    "ref": "low",
+    "will": "high"
+   },
+   "classSkills": [
+    "kdu",
+    "clm",
+    "per",
+    "pro",
+    "swm"
+   ],
+   "classSkillsText": "Climb (Str), Knowledge (dungeoneering) (Int), Perception (Wis), Profession (soldier), Swim (Str), +2 class skills of the warrior's choice",
+   "choices": 2,
+   "special": "",
+   "note": "",
+   "bab": "high",
+   "hd": 10,
+   "caster": false,
+   "benefits": [
+    {
+     "level": 1,
+     "name": "",
+     "text": "The warrior gains the Equipment sphere Armor Training talent and an additional Equipment sphere (discipline) talent of their choice. In addition, a warrior may qualify for feats as though they were a fighter, treating their warrior level as their fighter level for this purpose."
+    },
+    {
+     "level": 2,
+     "name": "",
+     "text": "The warrior gains a circumstance bonus equal to 1/2 their warrior level on all Strength-based skill checks, Intimidate, and Knowledge (dungoneering). The warrior can make Knowledge (dungeoneering) checks even if untrained."
+    },
+    {
+     "level": 3,
+     "name": "Armor Experience",
+     "text": "The warrior gains the fighter's armor training feature, treating their warrior level as their fighter level for this purpose."
+    },
+    {
+     "level": 5,
+     "name": "Weapon Experience",
+     "text": "The warrior chooses a (discipline) talent (except Custom Training). The warrior gains a +1 bonus on attack and damage rolls with weapons belonging to the chosen (discipline). This bonus improves by an additional +1 every 4 levels after 5th. The warrior is treated as having the fighter's weapon training feature, and treats their weapon experience bonus as their weapon training bonus for this purpose."
+    }
+   ],
+   "url": "Spheres-Of-Might/Leadership/Leadership#warrior"
+  },
+  {
+   "id": "job/wildling",
+   "name": "Wildling",
+   "sample": false,
+   "prerequisite": "",
+   "abilities": {
+    "str": 15,
+    "dex": 12,
+    "con": 14,
+    "int": 10,
+    "wis": 13,
+    "cha": 8
+   },
+   "saves": {
+    "fort": "high",
+    "ref": "high",
+    "will": "low"
+   },
+   "classSkills": [
+    "kna",
+    "clm",
+    "per",
+    "sur",
+    "swm"
+   ],
+   "classSkillsText": "Climb (Str), Knowledge (nature) (Int), Perception (Wis), Survival (Wis), Swim (Str), +2 class skills of the wildling's choice",
+   "choices": 2,
+   "special": "",
+   "note": "",
+   "bab": "high",
+   "hd": 10,
+   "caster": false,
+   "benefits": [
+    {
+     "level": 1,
+     "name": "",
+     "text": "The wildling gains Endurance and Toughness as bonus feats and the Berserker sphere as a bonus sphere. If using *Spheres of Guile*, the wildling may gain the Survivalism sphere instead of the Berserker sphere."
+    },
+    {
+     "level": 2,
+     "name": "",
+     "text": "The wildling gains a circumstance bonus equal to 1/2 their wildling level on Knowledge (nature), Perception, and Survival. The wildling can make Knowledge (nature) checks even if untrained."
+    },
+    {
+     "level": 3,
+     "name": "Wildling Rage",
+     "text": "The wildling can rage as the barbarian's rage feature, treating their wildling level as their barbarian level for this purpose. When the wildling first gains the rage feature this way, they must choose whether their rage functions as a barbarian's or an unchained barbarian's rage.\n\nAt 11th level, the wildling gains the greater rage feature."
+    },
+    {
+     "level": 5,
+     "name": "Totemic Rage",
+     "text": "The wildling gains a single blood or totem rage power, treating their wildling level as their barbarian level to determine the effects of and to qualify for rage powers. The wildling gains their selected blood or totem rage power's improvement at 9th level and again at 13th level."
+    }
+   ],
+   "url": "Spheres-Of-Might/Leadership/Leadership#wildling"
+  },
+  {
+   "id": "job/hedgeprentice",
+   "name": "Hedgeprentice",
+   "sample": true,
+   "prerequisite": "Advanced Cohorts (magic cohorts) (see note).",
+   "abilities": {
+    "str": 8,
+    "dex": 12,
+    "con": 13,
+    "int": 14,
+    "wis": 15,
+    "cha": 10
+   },
+   "saves": {
+    "fort": "low",
+    "ref": "high",
+    "will": "high"
+   },
+   "classSkills": [
+    "kar",
+    "kna",
+    "hea",
+    "per",
+    "spl"
+   ],
+   "classSkillsText": "Heal (Wis), Knowledge (arcana) (Int), Knowledge (nature) (Int), Perception (Wis), Spellcraft (Int), +2 class skills of the hedgeprentice's choice",
+   "choices": 2,
+   "special": "",
+   "note": "*Recruiting* a hedgeprentice requires the Advanced Cohorts legendary talent if the hedgeprentice would be a spherecaster cohort; the talent is not required if they would not gain spherecasting (such as by picking the combat hedgewitch path).",
+   "bab": "high",
+   "hd": 10,
+   "caster": true,
+   "benefits": [
+    {
+     "level": 1,
+     "name": "Hedgewitch Path",
+     "text": "The hedgeprentice selects one hedgewitch path (their chosen path). The hedgeprentice gains their chosen path's path benefit at 1st level, and other path abilities at later levels (see below). The hedgeprentice treats their cohort level as their hedgewitch level or caster level, as appropriate, when determining the effects of and to qualify for their chosen path's abilities and for hedgewitch secrets.\n\nIf the chosen path's path benefit does not grant a bonus magic sphere or spell points, the Hedgeprentice gains any one combat talent and one [utility] talent as bonus talents. If the chosen path's path benefit does grant a bonus magic sphere or spell points, the hedgeprentice is a spherecaster cohort and gains a single sphere of their choice as a bonus sphere. Do not adjust the hedgeprentice's base attack bonus; the hedgeprentice is a Mid-Caster with their chosen sphere and the bonus sphere granted by their path benefit."
+    },
+    {
+     "level": 2,
+     "name": "",
+     "text": "The hedgeprentice gains their chosen path's class skills as bonus class skills, and gains a circumstance bonus on each of these skills equal to 1/2 their hedgeprentice level."
+    },
+    {
+     "level": 3,
+     "name": "Hedge Magic",
+     "text": "The hedgeprentice gains the path power belonging to their chosen path."
+    },
+    {
+     "level": 5,
+     "name": "Hedge Secrets",
+     "text": "The hedgeprentice gains a single hedgewitch secret, plus an additional hedgewitch secret at 9th and 13th level. These hedgewitch secrets must be secrets belonging to their chosen hedgewitch path.\n\nIf the hedgeprentice would gain more hedgewitch secrets (such as through the Extra Secret feat), they may choose any secret they qualify for as normal."
+    }
+   ],
+   "url": "Spheres-Of-Might/Leadership/Leadership#hedgeprentice"
+  },
+  {
+   "id": "job/dragonheir-scion",
+   "name": "Dragonheir Scion",
+   "sample": true,
+   "prerequisite": "",
+   "abilities": {
+    "str": 15,
+    "dex": 10,
+    "con": 14,
+    "int": 8,
+    "wis": 12,
+    "cha": 13
+   },
+   "saves": {
+    "fort": "high",
+    "ref": "low",
+    "will": "high"
+   },
+   "classSkills": [
+    "kar",
+    "int",
+    "per",
+    "spl"
+   ],
+   "classSkillsText": "Intimidate (Cha), Knowledge (arcana) (Int), Perception (Wis), Spellcraft (Int), +2 class skills of the dragonheir scion's choice",
+   "choices": 2,
+   "special": "A dragonheir scion's Hit Dice is a d12.",
+   "note": "",
+   "bab": "high",
+   "hd": 12,
+   "caster": false,
+   "benefits": [
+    {
+     "level": 1,
+     "name": "Draconic Legacy",
+     "text": "The dragonheir scion selects a single dragon type, the same as a draconic sorcerer. This selection determines the damage type of the dragonheir scion's other abilities."
+    },
+    {
+     "level": 1,
+     "name": "",
+     "text": "The dragonheir scion gains Endurance and Dragon Style as bonus feats, even if they do not meet the prerequisites. In addition, the dragonheir scion gains resistance 5 to their dragon's damage type. This energy resistance improves to 10 at 9th level and 20 at 15th level. If the dragonheir scion's dragon damage type is physical, they instead receive half this much as damage reduction."
+    },
+    {
+     "level": 2,
+     "name": "",
+     "text": "The dragonheir scion gains a circumstance bonus equal to 1/2 their dragonheir scion level on Intimidate, Knowledge (arcana), and Perception checks."
+    },
+    {
+     "level": 3,
+     "name": "Draconic Strikes",
+     "text": "The dragonheir scion's manufactured weapon attacks, natural attacks, and unarmed strikes deal an additional 1d4 damage of their dragon's damage type, +1d4 at 7th level and every 4 levels thereafter."
+    },
+    {
+     "level": 5,
+     "name": "Breath Weapon",
+     "text": "The dragonheir scion gains a breath weapon. The dragonheir scion may use this breath weapon as a standard action, dealing 1d6 energy damage of their dragon damage type per 2 dragonheir scion levels in a 15-foot cone or 30-foot line (choose which shape when the dragonheir scion first gains this ability). A successful Reflex save halves this damage (DC 10 + 1/2 the dragonheir scion's level + their Constitution modifier). After being used, this breath weapon cannot be used again for 1d4 rounds. At 11th level, the dragonheir scion may use their breath weapon as part of a special attack action, making a single weapon attack before using their breath weapon."
+    }
+   ],
+   "url": "Spheres-Of-Might/Leadership/Leadership#dragonheir-scion"
+  }
+ ]
+}

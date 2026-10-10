@@ -31,41 +31,41 @@ What the feat extractor takes from the site (1261 Spheres feats; approved), plus
 | Grit | — | 21 |
 | Counterspell | 20 | — |
 | Item Mastery | — | 19 |
-| Weapon Mastery | — | 17 |
-| Gizmo | 17 | — |
 | Faction | — | 17 |
+| Gizmo | 17 | — |
+| Weapon Mastery | — | 17 |
 | Stare | — | 16 |
 | Protokinesis | 16 | — |
-| Companion | 15 | — |
 | Performance | — | 15 |
+| Companion | 15 | — |
 | Shield Mastery | — | 14 |
 | Meditation | — | 14 |
+| Shield Style | — | 12 |
 | Defiler | 12 | — |
+| Surreal | 12 | — |
 | Proxy | 12 | — |
 | Wild Magic | 12 | — |
-| Surreal | 12 | — |
 | Necrosis | 12 | — |
-| Shield Style | — | 12 |
 | Purring | 11 | — |
+| Channeling | 11 | — |
 | Panache | — | 11 |
 | Achievement | — | 11 |
-| Channeling | 11 | — |
 | Armor Mastery | — | 11 |
 | Rune | 10 | — |
-| Armor Style | — | 9 |
 | Origin | — | 9 |
-| Esoteric | — | 9 |
 | Alignment | — | 9 |
+| Esoteric | — | 9 |
+| Armor Style | — | 9 |
 | Blood Hex | — | 8 |
 | Familiar | — | 8 |
+| Theurge | 7 | — |
 | Combination | — | 7 |
 | Damnation | 3 | 4 |
-| Theurge | 7 | — |
-| Chance | 6 | — |
-| Trick | — | 6 |
 | Plague | 6 | — |
-| Betrayal | — | 6 |
+| Trick | — | 6 |
 | Anathema | 6 | — |
+| Betrayal | — | 6 |
+| Chance | 6 | — |
 | Targeting | — | 4 |
 | Gathlain Court Title | — | 4 |
 | Words of Power | — | 3 |
