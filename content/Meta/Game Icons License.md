@@ -30,7 +30,8 @@ Some icons on this site come from [game-icons.net](https://game-icons.net), used
 | Open treasure chest | Loot Generator (Tools page) | Skoll |
 | Achievement | Feat Types (home page) | Skoll |
 | Allied star | Base PF1e Classes (home page) | Skoll |
+| Castle | Kingdom Builder (Tools page) | [Lorc](http://lorcblog.blogspot.com) |
 | Receive money | Business Builder (Tools page) | [Delapouite](https://delapouite.com) |
-| Air balloon | Airship Builder (Tools page) | [Delapouite](https://delapouite.com) |
+| Air balloon | Ship Builder (Tools page) | [Delapouite](https://delapouite.com) |
 
 Icons made by Lorc, Skoll and Delapouite, available on [game-icons.net](https://game-icons.net) under CC BY 3.0.

@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Kingdom Builder</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@500;700&family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,400&display=swap"
+    />
+    <!-- shared look with the character builder -->
+    <link rel="stylesheet" href="../character-builder/builder.css" />
+    <script>
+      // pick up the wiki's light/dark choice before first paint (same key Quartz uses)
+      try {
+        const saved = localStorage.getItem("theme")
+        const dark = saved ? saved === "dark" : matchMedia("(prefers-color-scheme: dark)").matches
+        document.documentElement.dataset.theme = dark ? "dark" : "light"
+      } catch {}
+    </script>
+  </head>
+  <body>
+    <div class="app">
+      <header class="topbar">
+        <div class="title">
+          <span class="name-input" style="display:inline-block">Kingdom Builder</span>
+          <span class="char-line">Leaders, edicts, hexes, settlements and buildings with the Pathfinder kingdom rules</span>
+        </div>
+      </header>
+      <div class="layout" style="display:block">
+        <main id="panel" class="panel"></main>
+      </div>
+    </div>
+    <div id="toast" class="toast" role="status" hidden></div>
+    <script src="kingdom.js"></script>
+  </body>
+</html>

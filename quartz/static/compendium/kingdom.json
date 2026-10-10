@@ -1,0 +1,1640 @@
+{
+ "source": "Archives of Nethys (www.aonprd.com), Pathfinder RPG Ultimate Campaign",
+ "urls": {
+  "rules": "https://www.aonprd.com/Rules.aspx?ID=1489",
+  "buildings": "https://www.aonprd.com/Rules.aspx?ID=1544",
+  "improvements": "https://www.aonprd.com/Rules.aspx?ID=1525",
+  "leadership": "https://www.aonprd.com/Rules.aspx?ID=1494",
+  "edicts": "https://www.aonprd.com/Rules.aspx?ID=1518",
+  "settlements": "https://www.aonprd.com/Rules.aspx?ID=1539"
+ },
+ "buildings": [
+  {
+   "name": "Academy",
+   "bp": 52,
+   "lots": 2,
+   "kingdom": {
+    "economy": 2,
+    "loyalty": 2
+   },
+   "discount": [
+    "Caster's Tower",
+    "Library",
+    "Magic Shop"
+   ],
+   "limit": "",
+   "upgradeFrom": [
+    "Library"
+   ],
+   "upgradeTo": [
+    "University"
+   ],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "3 minor scrolls or wondrous items, 2 medium scrolls or wondrous items",
+   "settlement": {
+    "lore": 2,
+    "productivity": 1,
+    "society": 2
+   }
+  },
+  {
+   "name": "Alchemist",
+   "bp": 18,
+   "lots": 1,
+   "kingdom": {
+    "economy": 1
+   },
+   "discount": [],
+   "limit": "Adjacent to 1 House",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "Base value +1,000 gp",
+   "baseValue": 1000,
+   "defense": 0,
+   "magicItems": "1 minor potion or wondrous item",
+   "settlement": {}
+  },
+  {
+   "name": "Arena",
+   "bp": 40,
+   "lots": 4,
+   "kingdom": {
+    "stability": 4,
+    "fame": 1
+   },
+   "discount": [
+    "Dance Hall",
+    "Garrison",
+    "Inn",
+    "Stable",
+    "Theater"
+   ],
+   "limit": "1 per settlement",
+   "upgradeFrom": [
+    "Theater"
+   ],
+   "upgradeTo": [],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {
+    "crime": 1
+   }
+  },
+  {
+   "name": "Bank",
+   "bp": 28,
+   "lots": 1,
+   "kingdom": {
+    "economy": 4
+   },
+   "discount": [],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "Base value +2,000 gp",
+   "baseValue": 2000,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {}
+  },
+  {
+   "name": "Bardic College",
+   "bp": 40,
+   "lots": 2,
+   "kingdom": {
+    "economy": 1,
+    "loyalty": 3,
+    "stability": 1,
+    "fame": 1
+   },
+   "discount": [
+    "Library",
+    "Museum",
+    "Theater"
+   ],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "2 minor scrolls or wondrous items",
+   "settlement": {}
+  },
+  {
+   "name": "Barracks",
+   "bp": 6,
+   "lots": 1,
+   "kingdom": {
+    "unrest": -1
+   },
+   "discount": [],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [
+    "Garrison"
+   ],
+   "special": "Defense +2",
+   "baseValue": 0,
+   "defense": 2,
+   "magicItems": "",
+   "settlement": {
+    "law": 1
+   }
+  },
+  {
+   "name": "Black Market",
+   "bp": 50,
+   "lots": 1,
+   "kingdom": {
+    "economy": 2,
+    "stability": 1,
+    "unrest": 1
+   },
+   "discount": [
+    "Dance Hall"
+   ],
+   "limit": "Adjacent to 2 Houses",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "Base value +2,000 gp",
+   "baseValue": 2000,
+   "defense": 0,
+   "magicItems": "2 minor items, 1 medium item, 1 major item",
+   "settlement": {
+    "corruption": 2,
+    "crime": 2
+   }
+  },
+  {
+   "name": "Brewery",
+   "bp": 6,
+   "lots": 1,
+   "kingdom": {
+    "loyalty": 1,
+    "stability": 1
+   },
+   "discount": [],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {}
+  },
+  {
+   "name": "Bridge",
+   "bp": 6,
+   "lots": 1,
+   "kingdom": {
+    "economy": 1
+   },
+   "discount": [],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "Shares the space with a river or Waterway lot",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {}
+  },
+  {
+   "name": "Bureau",
+   "bp": 10,
+   "lots": 2,
+   "kingdom": {
+    "economy": 1,
+    "loyalty": -1,
+    "stability": 1
+   },
+   "discount": [],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {
+    "corruption": 1,
+    "law": 1
+   }
+  },
+  {
+   "name": "Caster's Tower",
+   "bp": 30,
+   "lots": 1,
+   "kingdom": {
+    "economy": 1,
+    "loyalty": 1
+   },
+   "discount": [],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "3 minor items, 2 medium items",
+   "settlement": {}
+  },
+  {
+   "name": "Castle",
+   "bp": 54,
+   "lots": 4,
+   "kingdom": {
+    "economy": 2,
+    "loyalty": 2,
+    "stability": 2,
+    "unrest": -4,
+    "fame": 1
+   },
+   "discount": [
+    "Noble Villa",
+    "Town Hall"
+   ],
+   "limit": "1 per settlement",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "Defense +8",
+   "baseValue": 0,
+   "defense": 8,
+   "magicItems": "",
+   "settlement": {}
+  },
+  {
+   "name": "Cathedral",
+   "bp": 58,
+   "lots": 4,
+   "kingdom": {
+    "loyalty": 4,
+    "stability": 4,
+    "unrest": -4,
+    "fame": 1
+   },
+   "discount": [
+    "Academy",
+    "Temple"
+   ],
+   "limit": "1 per settlement",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "Halves Consumption increase for Promotion edicts",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "3 minor potions or wondrous items, 2 medium potions or wondrous items",
+   "settlement": {
+    "law": 2
+   }
+  },
+  {
+   "name": "Cistern",
+   "bp": 6,
+   "lots": 1,
+   "kingdom": {
+    "stability": 1
+   },
+   "discount": [],
+   "limit": "Cannot be adjacent to a Dump, Graveyard, Stable, Stockyard, or Tannery",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "\u0001",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {}
+  },
+  {
+   "name": "City Wall",
+   "bp": 2,
+   "lots": 0,
+   "kingdom": {
+    "unrest": -2
+   },
+   "discount": [],
+   "limit": "Land district border",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "Defense +1",
+   "baseValue": 0,
+   "defense": 1,
+   "magicItems": "",
+   "settlement": {}
+  },
+  {
+   "name": "Dance Hall",
+   "bp": 4,
+   "lots": 1,
+   "kingdom": {
+    "economy": 1,
+    "loyalty": 2,
+    "unrest": 1
+   },
+   "discount": [],
+   "limit": "Adjacent to 1 House",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {
+    "corruption": 1,
+    "crime": 1
+   }
+  },
+  {
+   "name": "Dump",
+   "bp": 4,
+   "lots": 1,
+   "kingdom": {
+    "stability": 1
+   },
+   "discount": [],
+   "limit": "Cannot be adjacent to House, Mansion, or Noble Villa",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {}
+  },
+  {
+   "name": "Everflowing Spring",
+   "bp": 5,
+   "lots": 0,
+   "kingdom": {},
+   "discount": [],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "Can share lot with Castle, Cathedral, Market, Monument, Park, or Town Hall",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {}
+  },
+  {
+   "name": "Exotic Artisan",
+   "bp": 10,
+   "lots": 1,
+   "kingdom": {
+    "economy": 1,
+    "stability": 1
+   },
+   "discount": [],
+   "limit": "Adjacent to 1 House",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "1 minor ring, wand, or wondrous item",
+   "settlement": {}
+  },
+  {
+   "name": "Foreign Quarter",
+   "bp": 30,
+   "lots": 4,
+   "kingdom": {
+    "economy": 3,
+    "stability": -1
+   },
+   "discount": [],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "Increase the value of trade routes (see Trade Edicts by 5% (maximum 100%)",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {
+    "crime": 1,
+    "lore": 1,
+    "society": 2
+   }
+  },
+  {
+   "name": "Foundry",
+   "bp": 16,
+   "lots": 2,
+   "kingdom": {
+    "economy": 1,
+    "stability": 1,
+    "unrest": 1
+   },
+   "discount": [
+    "Smithy"
+   ],
+   "limit": "Adjacent to water district border",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "Increase the Economy and BP earned per turn by 1 for 1 Mine connected to this settlement by a river or Road",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {
+    "productivity": 1
+   }
+  },
+  {
+   "name": "Garrison",
+   "bp": 28,
+   "lots": 2,
+   "kingdom": {
+    "loyalty": 2,
+    "stability": 2,
+    "unrest": -2
+   },
+   "discount": [
+    "City Wall",
+    "Granary",
+    "Jail"
+   ],
+   "limit": "",
+   "upgradeFrom": [
+    "Barracks"
+   ],
+   "upgradeTo": [],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {}
+  },
+  {
+   "name": "Granary",
+   "bp": 12,
+   "lots": 1,
+   "kingdom": {
+    "loyalty": 1,
+    "stability": 1
+   },
+   "discount": [],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "If Farms reduce Consumption below 0, store up to 5 BP of excess production for use on a later turn when Consumption exceeds the Treasury",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {}
+  },
+  {
+   "name": "Graveyard",
+   "bp": 4,
+   "lots": 1,
+   "kingdom": {
+    "loyalty": 1
+   },
+   "discount": [],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {}
+  },
+  {
+   "name": "Guildhall",
+   "bp": 34,
+   "lots": 2,
+   "kingdom": {
+    "economy": 2,
+    "loyalty": 2
+   },
+   "discount": [
+    "Pier",
+    "Stable",
+    "Trade Shop"
+   ],
+   "limit": "",
+   "upgradeFrom": [
+    "Trade Shop"
+   ],
+   "upgradeTo": [],
+   "special": "Base value +1,000 gp",
+   "baseValue": 1000,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {
+    "law": 1,
+    "productivity": 2
+   }
+  },
+  {
+   "name": "Herbalist",
+   "bp": 10,
+   "lots": 1,
+   "kingdom": {
+    "loyalty": 1,
+    "stability": 1
+   },
+   "discount": [],
+   "limit": "Adjacent to 1 House",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "1 minor potion or wondrous item",
+   "settlement": {}
+  },
+  {
+   "name": "Hospital",
+   "bp": 30,
+   "lots": 2,
+   "kingdom": {
+    "loyalty": 1,
+    "stability": 2
+   },
+   "discount": [],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "Increase Stability by 2 during plague events",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {
+    "lore": 1,
+    "productivity": 2
+   }
+  },
+  {
+   "name": "House",
+   "bp": 3,
+   "lots": 1,
+   "kingdom": {
+    "unrest": -1
+   },
+   "discount": [],
+   "limit": "",
+   "upgradeFrom": [
+    "Tenement"
+   ],
+   "upgradeTo": [],
+   "special": "The first House you build during the Improvement phase does not count against the total number of buildings you can build during the phase",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {}
+  },
+  {
+   "name": "Inn",
+   "bp": 10,
+   "lots": 1,
+   "kingdom": {
+    "economy": 1,
+    "loyalty": 1
+   },
+   "discount": [],
+   "limit": "Adjacent to 1 House",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "Base value +500 gp",
+   "baseValue": 500,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {
+    "society": 1
+   }
+  },
+  {
+   "name": "Jail",
+   "bp": 14,
+   "lots": 1,
+   "kingdom": {
+    "loyalty": 2,
+    "stability": 2,
+    "unrest": -2
+   },
+   "discount": [],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {
+    "crime": -1,
+    "law": 1
+   }
+  },
+  {
+   "name": "Library",
+   "bp": 6,
+   "lots": 1,
+   "kingdom": {
+    "economy": 1,
+    "loyalty": 1
+   },
+   "discount": [],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [
+    "Academy"
+   ],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {
+    "lore": 1
+   }
+  },
+  {
+   "name": "Luxury Store",
+   "bp": 28,
+   "lots": 1,
+   "kingdom": {
+    "economy": 1
+   },
+   "discount": [],
+   "limit": "Adjacent to 1 House",
+   "upgradeFrom": [
+    "Shop"
+   ],
+   "upgradeTo": [
+    "Magic Shop"
+   ],
+   "special": "Base value +2,000 gp",
+   "baseValue": 2000,
+   "defense": 0,
+   "magicItems": "2 minor rings, wands, or wondrous items",
+   "settlement": {}
+  },
+  {
+   "name": "Magic Shop",
+   "bp": 68,
+   "lots": 1,
+   "kingdom": {
+    "economy": 1
+   },
+   "discount": [],
+   "limit": "Adjacent to 2 Houses",
+   "upgradeFrom": [
+    "Luxury Store"
+   ],
+   "upgradeTo": [],
+   "special": "Base value +2,000 gp",
+   "baseValue": 2000,
+   "defense": 0,
+   "magicItems": "4 minor wondrous items, 2 medium wondrous items, 1 major wondrous item",
+   "settlement": {}
+  },
+  {
+   "name": "Magical Academy",
+   "bp": 58,
+   "lots": 2,
+   "kingdom": {
+    "economy": 2,
+    "fame": 1
+   },
+   "discount": [
+    "Caster's Tower",
+    "Library",
+    "Magic Shop"
+   ],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "3 minor potions, scrolls, or wondrous items; 1 medium potion, scroll, or wondrous item",
+   "settlement": {
+    "lore": 2,
+    "society": 1
+   }
+  },
+  {
+   "name": "Magical Streetlamps",
+   "bp": 5,
+   "lots": 0,
+   "kingdom": {},
+   "discount": [],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "Can share a lot with any building or improvement",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {}
+  },
+  {
+   "name": "Mansion",
+   "bp": 10,
+   "lots": 1,
+   "kingdom": {
+    "stability": 1
+   },
+   "discount": [],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [
+    "Noble Villa"
+   ],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {
+    "law": 1,
+    "society": 1
+   }
+  },
+  {
+   "name": "Market",
+   "bp": 48,
+   "lots": 2,
+   "kingdom": {
+    "economy": 2,
+    "stability": 2
+   },
+   "discount": [
+    "Black Market",
+    "Inn",
+    "Shop"
+   ],
+   "limit": "Adjacent to 2 Houses",
+   "upgradeFrom": [
+    "Shop"
+   ],
+   "upgradeTo": [],
+   "special": "Base value +2,000 gp",
+   "baseValue": 2000,
+   "defense": 0,
+   "magicItems": "2 minor wondrous items",
+   "settlement": {}
+  },
+  {
+   "name": "Menagerie",
+   "bp": 16,
+   "lots": 4,
+   "kingdom": {
+    "economy": 1,
+    "fame": 1
+   },
+   "discount": [],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "Increase Loyalty by 1/4 the CR of the highest-CR creature in the Menagerie",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {}
+  },
+  {
+   "name": "Military Academy",
+   "bp": 36,
+   "lots": 2,
+   "kingdom": {
+    "loyalty": 2,
+    "stability": 1,
+    "fame": 1
+   },
+   "discount": [
+    "Barracks"
+   ],
+   "limit": "1 per settlement",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "Armies and commanders recruited at the settlement gain one bonus tactic (see Army Tactics )",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "1 minor armor, shield, or weapon; 1 medium armor, shield, or weapon",
+   "settlement": {
+    "law": 1,
+    "lore": 1
+   }
+  },
+  {
+   "name": "Mill",
+   "bp": 6,
+   "lots": 1,
+   "kingdom": {
+    "economy": 1,
+    "stability": 1
+   },
+   "discount": [],
+   "limit": "Adjacent to water district border",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "With GM approval, you can construct a windmill at the same cost without the water district border requirement",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {
+    "productivity": 1
+   }
+  },
+  {
+   "name": "Mint",
+   "bp": 30,
+   "lots": 1,
+   "kingdom": {
+    "economy": 3,
+    "loyalty": 3,
+    "stability": 1,
+    "fame": 1
+   },
+   "discount": [],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {}
+  },
+  {
+   "name": "Moat",
+   "bp": 2,
+   "lots": 0,
+   "kingdom": {
+    "unrest": -1
+   },
+   "discount": [],
+   "limit": "Land district border",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "Defense +1; cannot be damaged by siege engines",
+   "baseValue": 0,
+   "defense": 1,
+   "magicItems": "",
+   "settlement": {}
+  },
+  {
+   "name": "Monastery",
+   "bp": 16,
+   "lots": 2,
+   "kingdom": {
+    "stability": 1
+   },
+   "discount": [],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {
+    "law": 1,
+    "lore": 1
+   }
+  },
+  {
+   "name": "Monument",
+   "bp": 6,
+   "lots": 1,
+   "kingdom": {
+    "loyalty": 1,
+    "unrest": -1
+   },
+   "discount": [],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {}
+  },
+  {
+   "name": "Museum",
+   "bp": 30,
+   "lots": 2,
+   "kingdom": {
+    "economy": 1,
+    "loyalty": 1,
+    "fame": 1
+   },
+   "discount": [],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {
+    "lore": 2,
+    "society": 1
+   }
+  },
+  {
+   "name": "Noble Villa",
+   "bp": 24,
+   "lots": 2,
+   "kingdom": {
+    "economy": 1,
+    "loyalty": 1,
+    "stability": 1,
+    "fame": 1
+   },
+   "discount": [
+    "Exotic Artisan",
+    "Luxury Store",
+    "Mansion"
+   ],
+   "limit": "",
+   "upgradeFrom": [
+    "Mansion"
+   ],
+   "upgradeTo": [],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {
+    "society": 1
+   }
+  },
+  {
+   "name": "Observatory",
+   "bp": 12,
+   "lots": 1,
+   "kingdom": {
+    "stability": 1
+   },
+   "discount": [],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "1 minor scroll or wondrous item",
+   "settlement": {
+    "lore": 2
+   }
+  },
+  {
+   "name": "Orphanage",
+   "bp": 6,
+   "lots": 1,
+   "kingdom": {
+    "stability": 1,
+    "unrest": -1
+   },
+   "discount": [],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {}
+  },
+  {
+   "name": "Palace",
+   "bp": 108,
+   "lots": 4,
+   "kingdom": {
+    "economy": 2,
+    "loyalty": 6,
+    "stability": 2,
+    "fame": 1
+   },
+   "discount": [
+    "Mansion",
+    "Mint",
+    "Noble Villa"
+   ],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "Base value +1,000 gp; you may make two special edicts per turn , but take a –2 penalty on kingdom checks associated with each special edict",
+   "baseValue": 1000,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {
+    "law": 2
+   }
+  },
+  {
+   "name": "Park",
+   "bp": 4,
+   "lots": 1,
+   "kingdom": {
+    "loyalty": 1,
+    "unrest": -1
+   },
+   "discount": [],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {}
+  },
+  {
+   "name": "Paved Streets",
+   "bp": 24,
+   "lots": 0,
+   "kingdom": {
+    "economy": 2,
+    "stability": 1
+   },
+   "discount": [],
+   "limit": "1 per district",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {
+    "productivity": 2
+   }
+  },
+  {
+   "name": "Pier",
+   "bp": 16,
+   "lots": 1,
+   "kingdom": {
+    "economy": 1,
+    "stability": 1
+   },
+   "discount": [],
+   "limit": "Adjacent to water district border",
+   "upgradeFrom": [],
+   "upgradeTo": [
+    "Waterfront"
+   ],
+   "special": "Base value +1,000 gp",
+   "baseValue": 1000,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {
+    "crime": 1
+   }
+  },
+  {
+   "name": "Sewer System",
+   "bp": 24,
+   "lots": 0,
+   "kingdom": {
+    "loyalty": 1,
+    "stability": 2
+   },
+   "discount": [
+    "Cistern",
+    "Dump"
+   ],
+   "limit": "1 per district",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {
+    "crime": 1,
+    "productivity": 1
+   }
+  },
+  {
+   "name": "Shop",
+   "bp": 8,
+   "lots": 1,
+   "kingdom": {
+    "economy": 1
+   },
+   "discount": [],
+   "limit": "Adjacent to 1 House or Mansion",
+   "upgradeFrom": [],
+   "upgradeTo": [
+    "Luxury Store",
+    "Market"
+   ],
+   "special": "Base value +500 gp",
+   "baseValue": 500,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {
+    "productivity": 1
+   }
+  },
+  {
+   "name": "Shrine",
+   "bp": 8,
+   "lots": 1,
+   "kingdom": {
+    "loyalty": 1,
+    "unrest": -1
+   },
+   "discount": [],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [
+    "Temple"
+   ],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "1 minor potion, scroll, or wondrous item",
+   "settlement": {}
+  },
+  {
+   "name": "Smithy",
+   "bp": 6,
+   "lots": 1,
+   "kingdom": {
+    "economy": 1,
+    "stability": 1
+   },
+   "discount": [],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {}
+  },
+  {
+   "name": "Stable",
+   "bp": 10,
+   "lots": 1,
+   "kingdom": {
+    "economy": 1,
+    "loyalty": 1
+   },
+   "discount": [],
+   "limit": "Adjacent to 1 House, Mansion, or Noble Villa",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "Base value +500 gp",
+   "baseValue": 500,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {}
+  },
+  {
+   "name": "Stockyard",
+   "bp": 20,
+   "lots": 4,
+   "kingdom": {
+    "economy": 1,
+    "stability": -1
+   },
+   "discount": [
+    "Stable",
+    "Tannery"
+   ],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "Farms in this hex or adjacent hexes reduce Consumption by 3 instead of 2",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {
+    "productivity": 1
+   }
+  },
+  {
+   "name": "Tannery",
+   "bp": 6,
+   "lots": 1,
+   "kingdom": {
+    "economy": 1,
+    "stability": 1
+   },
+   "discount": [],
+   "limit": "Cannot be adjacent to House, Mansion, Noble Villa, or Tenement",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {
+    "society": -1
+   }
+  },
+  {
+   "name": "Tavern",
+   "bp": 12,
+   "lots": 1,
+   "kingdom": {
+    "economy": 1,
+    "loyalty": 1
+   },
+   "discount": [],
+   "limit": "Adjacent to 1 House or Mansion",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "Base value +500 gp",
+   "baseValue": 500,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {
+    "corruption": 1
+   }
+  },
+  {
+   "name": "Temple",
+   "bp": 32,
+   "lots": 2,
+   "kingdom": {
+    "loyalty": 2,
+    "stability": 2,
+    "unrest": -2
+   },
+   "discount": [
+    "Graveyard",
+    "Monument",
+    "Shrine"
+   ],
+   "limit": "",
+   "upgradeFrom": [
+    "Shrine"
+   ],
+   "upgradeTo": [],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "2 minor items",
+   "settlement": {}
+  },
+  {
+   "name": "Tenement",
+   "bp": 1,
+   "lots": 1,
+   "kingdom": {
+    "unrest": 2
+   },
+   "discount": [],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [
+    "House"
+   ],
+   "special": "Counts as House for buildings that must be adjacent to a House",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {}
+  },
+  {
+   "name": "Theater",
+   "bp": 24,
+   "lots": 2,
+   "kingdom": {
+    "economy": 2,
+    "stability": 2
+   },
+   "discount": [
+    "Dance Hall",
+    "Exotic Artisan",
+    "Inn",
+    "Park",
+    "Tavern"
+   ],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [
+    "Arena"
+   ],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {}
+  },
+  {
+   "name": "Town Hall",
+   "bp": 22,
+   "lots": 2,
+   "kingdom": {
+    "economy": 1,
+    "loyalty": 1,
+    "stability": 1
+   },
+   "discount": [
+    "Barracks",
+    "Cistern",
+    "Dump",
+    "Jail",
+    "Watchtower"
+   ],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {
+    "law": 1
+   }
+  },
+  {
+   "name": "Trade Shop",
+   "bp": 10,
+   "lots": 1,
+   "kingdom": {
+    "economy": 1,
+    "stability": 1
+   },
+   "discount": [],
+   "limit": "Adjacent to 1 House",
+   "upgradeFrom": [],
+   "upgradeTo": [
+    "Guildhall"
+   ],
+   "special": "Base value +500 gp",
+   "baseValue": 500,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {
+    "productivity": 1
+   }
+  },
+  {
+   "name": "University",
+   "bp": 78,
+   "lots": 4,
+   "kingdom": {
+    "economy": 3,
+    "loyalty": 3,
+    "fame": 1
+   },
+   "discount": [
+    "Academy",
+    "Bardic College",
+    "Library",
+    "Magical Academy",
+    "Military Academy",
+    "Museum"
+   ],
+   "limit": "",
+   "upgradeFrom": [
+    "Academy"
+   ],
+   "upgradeTo": [],
+   "special": "",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "4 minor scrolls or wondrous items, 2 medium scrolls or wondrous items",
+   "settlement": {
+    "lore": 4,
+    "society": 3
+   }
+  },
+  {
+   "name": "Watchtower",
+   "bp": 12,
+   "lots": 1,
+   "kingdom": {
+    "stability": 1,
+    "unrest": -1
+   },
+   "discount": [],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "Defense +2",
+   "baseValue": 0,
+   "defense": 2,
+   "magicItems": "",
+   "settlement": {}
+  },
+  {
+   "name": "Watergate",
+   "bp": 2,
+   "lots": 0,
+   "kingdom": {},
+   "discount": [],
+   "limit": "",
+   "upgradeFrom": [],
+   "upgradeTo": [],
+   "special": "Shares City Wall",
+   "baseValue": 0,
+   "defense": 0,
+   "magicItems": "",
+   "settlement": {}
+  },
+  {
+   "name": "Waterfront",
+   "bp": 90,
+   "lots": 4,
+   "kingdom": {
+    "economy": 4
+   },
+   "discount": [
+    "Black Market",
+    "Guildhall",
+    "Market",
+    "Pier"
+   ],
+   "limit": "Adjacent to water district border, 1 per settlement",
+   "upgradeFrom": [
+    "Pier"
+   ],
+   "upgradeTo": [],
+   "special": "Base value +4,000 gp; halves Loyalty penalty for Taxation edicts",
+   "baseValue": 4000,
+   "defense": 0,
+   "magicItems": "2 minor wondrous items, 1 medium wondrous item, 1 major wondrous item",
+   "settlement": {
+    "productivity": 2
+   }
+  }
+ ],
+ "improvements": [
+  {
+   "name": "Aqueduct",
+   "shares": true,
+   "terrain": "One end must be hill or mountain hex; can pass through any type of hex",
+   "effect": "Loyalty +1, Stability +1, allows settlement to build water-dependent buildings",
+   "cost": null,
+   "costText": "As a Road, except the cost is not doubled for hexes with rivers (see Table 4–6: Terrain and Terrain Improvements )."
+  },
+  {
+   "name": "Canal",
+   "shares": true,
+   "terrain": "Desert, hill, or plain",
+   "effect": "Settlements in a hex with a Canal treat the hex as if it had a river",
+   "cost": null,
+   "costText": "Twice the cost of a Road (see Table 4–6: Terrain and Terrain Improvements )."
+  },
+  {
+   "name": "Farm",
+   "shares": true,
+   "terrain": "Desert (requires canal, coastline, or river), hill, or plain",
+   "effect": "Consumption decreases by 2 BP",
+   "cost": null,
+   "costText": "See Table 4–6: Terrain and Terrain Improvements ."
+  },
+  {
+   "name": "Fishery",
+   "shares": true,
+   "terrain": "Coastline, water, river, or marsh",
+   "effect": "Consumption decreases by 1 BP",
+   "cost": 4,
+   "costText": ""
+  },
+  {
+   "name": "Fort",
+   "shares": true,
+   "terrain": "Any land",
+   "effect": "Stability +2, Defense +4, increase Consumption by 1 BP; Unrest decreases by 1 when completed. If this hex becomes a settlement, this improvement counts as one Barracks and one Stables building",
+   "cost": 24,
+   "costText": ""
+  },
+  {
+   "name": "Highway",
+   "shares": true,
+   "terrain": "Any hex with a Road",
+   "effect": "Economy +1 for every 4 hexes of Highway, Stability +1 for every 8 hexes of Highway; improves overland travel speed ",
+   "cost": null,
+   "costText": "Twice the cost of a Road (see Table 4–6: Terrain and Terrain Improvements )."
+  },
+  {
+   "name": "Mine",
+   "shares": false,
+   "terrain": "Cavern, desert, hill, or mountain",
+   "effect": "Economy +1, earn +1 BP per turn when collecting taxes during the Income phase",
+   "cost": 6,
+   "costText": ""
+  },
+  {
+   "name": "Quarry",
+   "shares": false,
+   "terrain": "Cavern, hill, or mountain",
+   "effect": "Stability +1, earn +1 BP per turn when collecting taxes during the Income phase",
+   "cost": 6,
+   "costText": ""
+  },
+  {
+   "name": "Road",
+   "shares": true,
+   "terrain": "Any land",
+   "effect": "Economy +1 for every 4 hexes of Road, Stability +1 for every 8 hexes of Road; improves overland travel speed ",
+   "cost": null,
+   "costText": "See the Road column of Table 4–6: Terrain and Terrain Improvements."
+  },
+  {
+   "name": "Sawmill",
+   "shares": false,
+   "terrain": "Forest or jungle",
+   "effect": "Stability +1, earn +1 BP per turn when collecting taxes during the Income phase",
+   "cost": 3,
+   "costText": ""
+  },
+  {
+   "name": "Watchtower",
+   "shares": true,
+   "terrain": "Any land",
+   "effect": "Stability +1, Defense +2; Unrest decreases by 1 when completed. If this hex becomes a settlement, this improvement counts as a Watchtower building",
+   "cost": 12,
+   "costText": ""
+  }
+ ],
+ "terrain": [
+  {
+   "name": "Cavern",
+   "exploration": "3 days",
+   "preparation": "3 months",
+   "prepare": 8,
+   "farm": null,
+   "road": 4
+  },
+  {
+   "name": "Coastline",
+   "exploration": "Special",
+   "preparation": "Special",
+   "prepare": null,
+   "farm": null,
+   "road": null
+  },
+  {
+   "name": "Desert",
+   "exploration": "2 days",
+   "preparation": "1 month",
+   "prepare": 4,
+   "farm": 8,
+   "road": 4
+  },
+  {
+   "name": "Forest",
+   "exploration": "2 days",
+   "preparation": "2 months",
+   "prepare": 4,
+   "farm": null,
+   "road": 2
+  },
+  {
+   "name": "Hills",
+   "exploration": "1 day",
+   "preparation": "1 month",
+   "prepare": 2,
+   "farm": 4,
+   "road": 3
+  },
+  {
+   "name": "Jungle",
+   "exploration": "2 days",
+   "preparation": "4 months",
+   "prepare": 12,
+   "farm": null,
+   "road": 4
+  },
+  {
+   "name": "Marsh",
+   "exploration": "3 days",
+   "preparation": "3 months",
+   "prepare": 8,
+   "farm": null,
+   "road": 4
+  },
+  {
+   "name": "Mountains",
+   "exploration": "3 days",
+   "preparation": "4 months",
+   "prepare": 12,
+   "farm": null,
+   "road": 4
+  },
+  {
+   "name": "Plains",
+   "exploration": "1 day",
+   "preparation": "Immediate",
+   "prepare": 1,
+   "farm": 2,
+   "road": 1
+  },
+  {
+   "name": "Water",
+   "exploration": "2 days",
+   "preparation": "—",
+   "prepare": null,
+   "farm": null,
+   "road": null
+  }
+ ]
+}
