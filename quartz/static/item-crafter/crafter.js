@@ -28,7 +28,10 @@ const POWERS = {
   "Fallen Fey": { powers: [["Fey-link", 0, "m"]], mods: [["Improved fey-blessing / extra terrain", 1], ["Talent costing a spell point", 2]] },
   Fate: { powers: [["Serendipity consecration", 0, "r"]], mods: [["Word instead of consecration", 1], ["Motif", 1]] },
   Illusion: { powers: [["Silent visual figment", 1, "r"]], mods: [["Glamer", 1], ["Suppression glamer", 2]] },
-  Life: { powers: [["Cure or restore", 1, "inst"]], mods: [["Extra restore/cure option", 1], ["All options in one use", 2], ["Add temporary hit points", 1]] },
+  // the rules say "cure or restore"; which one is set when the item is made (being usable as either
+  // is Versatile Restoration, +1), so they are separate base powers here
+  Life: { powers: [["Cure", 1, "inst"], ["Restore", 1, "inst"], ["Temporary hit points (1 per caster level)", 1, "m"]],
+    mods: [["Usable as a cure or a restore, or another restore variant (per extra option)", 1], ["All options in one use", 2], ["Add temporary hit points to a cure or restore", 1]] },
   Light: { powers: [["Glow", 0, "m"]], mods: [["Lesser light (normal light only)", -1], ["Lens instead of light", 1], ["(nimbus) talent", 1]] },
   Mana: { powers: [["Expunge (Spellburn)", 2, "inst"], ["Manipulate", 2, "1rd"]], mods: [["Alternate expunge / manipulation", 1], ["Enhanced expunge / manipulation", 2], ["Manabond", 2]] },
   Mind: { powers: [["Suggestion charm", 1, "charm"]], mods: [["Alternate charm", 1], ["Open Mind (any creature type)", 1], ["Mass charm", 2], ["Greater charm", 1], ["Powerful charm", 3], ["Cloud", 2]] },
@@ -1219,7 +1222,7 @@ const POWER_TAGS = {
   "Conjuration:0": ["form"], "Creation:0": ["alter"], "Creation:1": ["material"], "Dark:0": ["darkness", "shadow", "blot"],
   "Death:0": ["ghost strike"], "Destruction:0": ["blast type", "blast shape"], "Divination:0": ["divine"], "Divination:1": ["sense"],
   "Enhancement:0": ["enhance"], "Fallen Fey:0": ["fey-blessing"], "Fate:0": ["consecration", "word", "motif"], "Illusion:0": ["glamer", "sensory"],
-  "Life:0": ["cure", "vitality"], "Light:0": ["light", "lens", "nimbus"], "Mana:0": ["expunge"], "Mana:1": ["manipulation"], "Mind:0": ["charm"],
+  "Life:0": ["cure"], "Life:2": ["vitality"], "Light:0": ["light", "lens", "nimbus"], "Mana:0": ["expunge"], "Mana:1": ["manipulation"], "Mind:0": ["charm"],
   "Nature:0": ["geomancing", "spirit"], "Protection:0": ["aegis", "succor"], "Protection:1": ["ward", "succor"], "Time:0": ["time"],
   "War:0": ["totem", "rally", "momentum"], "Warp:0": ["space"], "Weather:0": ["precipitation", "cold", "heat", "wind", "aridity", "storm"],
 }
@@ -1280,7 +1283,14 @@ function generateLootItem(opts) {
   const want = POWER_TAGS[`${sphere}:${power}`] ?? []
   const pool = COMPENDIUM.entries.filter((e) => e.sphere === sphere && e.kind === "talent" && e.status !== "retired")
   const tagsOf = (e) => (e.tags ?? []).map((t) => String(t).toLowerCase())
-  const weight = (e) => (tagsOf(e).some((t) => want.includes(t)) ? 6 : tagsOf(e).length ? 0.4 : 1)
+  // ...and those whose text is about this base power rather than the sphere's other one (a restore
+  // talent on a Restore item, not on a Cure)
+  const keyOf = (p) => p[0].split(/[ (]/)[0].toLowerCase()
+  const mine = keyOf(POWERS[sphere].powers[power])
+  const others = POWERS[sphere].powers.filter((_, k) => k !== power).map(keyOf).filter((k) => k !== mine)
+  const about = (e) => `${e.name} ${e.summary ?? ""}`.toLowerCase()
+  const fit = (e) => (about(e).includes(mine) ? 4 : others.some((k) => about(e).includes(k)) ? 0.15 : 1)
+  const weight = (e) => (tagsOf(e).some((t) => want.includes(t)) ? 6 : tagsOf(e).length ? 0.4 : 1) * fit(e)
   const used = new Set(), names = new Set()
   const n = Math.min(pool.length, rnd(Number(opts.talents) + 1))
   for (let i = 0; i < n; i++) {
