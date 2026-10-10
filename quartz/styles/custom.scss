@@ -367,6 +367,14 @@ iframe.sop-tool {
 body[data-slug="index"] article {
   h2#about-the-spheres,
   h1#other-resources {
+    // the fold toggle (sopFold) stays first, out in the left gutter, with the icon after it
+    display: flex;
+    align-items: center;
+
+    & > .sop-fold {
+      order: -1;
+    }
+
     &::before {
       content: "";
       display: inline-block;
