@@ -150,7 +150,7 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 <div class="sop-spheres sop-options">
 
-**Character Options**
+<span class="sop-icon sop-icon-options" aria-hidden="true"></span>**Character Options**
 
 - [[Casting Traditions]]
 - [[Generation Traditions]]
@@ -168,7 +168,7 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 <div class="sop-spheres sop-magical-items">
 
-**[[Magical Items]]**
+<span class="sop-icon sop-icon-items" aria-hidden="true"></span>**[[Magical Items]]**
 
 - [[Alchemical Items]]
 - [[Apparatuses Rods (ConstantAt-Will Items)|Apparatuses]]

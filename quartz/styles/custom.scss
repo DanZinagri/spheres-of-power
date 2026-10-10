@@ -341,6 +341,12 @@ iframe.sop-tool {
 .sop-icon-feats {
   --icon: url("/static/icons/game-icons/achievement.png");
 }
+.sop-icon-options {
+  --icon: url("/static/icons/game-icons/jigsaw-piece.png");
+}
+.sop-icon-items {
+  --icon: url("/static/icons/game-icons/locked-chest.png");
+}
 .sop-icon-pf1e {
   --icon: url("/static/icons/game-icons/allied-star.png");
 }
@@ -364,7 +370,7 @@ iframe.sop-tool {
   &[data-tab="guile"] { --icon: url("/static/icons/game-icons/cubes.png"); }
   &[data-tab="champions"] { --icon: url("/static/icons/game-icons/zeus-sword.png"); }
   &[data-tab="pf1e-archetypes"] { --icon: url("/static/icons/game-icons/allied-star.png"); }
-  &[data-tab="prestige"] { display: inline-block; &::before { display: none; } }
+  &[data-tab="prestige"] { --icon: url("/static/icons/game-icons/crown.png"); }
 }
 // the "Spherecaster Classes · Using Spheres of Power" line above each tab's table
 .sop-class-tabs > .sop-tab > p:first-of-type > em {

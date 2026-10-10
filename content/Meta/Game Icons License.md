@@ -11,6 +11,9 @@ Some icons on this site come from [game-icons.net](https://game-icons.net), used
 | Crossed swords | Combat Spheres and Practitioner Classes (home page) | [Lorc](http://lorcblog.blogspot.com) |
 | Cubes | Skill Spheres and Operative Classes (home page) | [Lorc](http://lorcblog.blogspot.com) |
 | Zeus sword | Champion Classes (home page) | [Lorc](http://lorcblog.blogspot.com) |
+| Crown | Prestige Classes (home page) | [Lorc](http://lorcblog.blogspot.com) |
+| Jigsaw piece | Character Options (home page) | [Lorc](http://lorcblog.blogspot.com) |
+| Locked chest | Magical Items (home page) | [Lorc](http://lorcblog.blogspot.com) |
 | Achievement | Feat Types (home page) | Skoll |
 | Allied star | Base PF1e Classes (home page) | Skoll |
 
