@@ -3048,7 +3048,23 @@ async function openSphereAdder(key) {
   const draws = pick(drawbacks)
   // drawbacks that can't be taken together (sphere-bases.json), with ones already on the character
   const incompatible = base?.incompatible ?? {}
-  const takenDraws = new Set(mine.filter((t) => hasTag(t, "drawback")).map((t) => t.name))
+  // ... and those that only clash with one choice another drawback offers: Slow Recovery with Limited
+  // Restoration (restore). The drawback with the choice gets a box to say which it is.
+  const incompatibleIf = base?.incompatibleIf ?? {}
+  const bareName = (n) => String(n).replace(/\s*\(([^()]*)\)\s*$/, "")
+  const choiceIn = (n) => String(n).match(/\(([^()]*)\)\s*$/)?.[1].trim().toLowerCase() ?? ""
+  const mineDraws = mine.filter((t) => hasTag(t, "drawback"))
+  const takenDraws = new Set(mineDraws.map((t) => bareName(t.name)))
+  const takenChoice = Object.fromEntries(mineDraws.map((t) => [bareName(t.name), choiceIn(t.name)]))
+  const choicesOf = (name) => [...new Set(Object.values(incompatibleIf).flatMap((m) => m[name] ?? []))]
+  const choicePick = new Map(draws.filter(([e]) => choicesOf(e.name).length).map(([e]) => {
+    const el = h("select", { "aria-label": `${e.name}: which`, style: "display:none;margin-top:.25rem;max-width:100%" },
+      h("option", { value: "" }, "Which? (choose…)"), ...choicesOf(e.name).map((c) => h("option", { value: c }, c)),
+      h("option", { value: "other" }, "another choice"))
+    return [e.name, el]
+  }))
+  // the choice a drawback with one stands at: picked here, or in the name of one already on the character
+  const choiceOf = (name) => (choicePick.get(name)?.value || takenChoice[name] || "")
   // what a drawback needs (sphere-bases.json): another drawback, a package, and what its bonus talent must be
   const requires = base?.requires ?? {}
   const takenPkgs = new Set(mine.filter((t) => hasTag(t, "package")).map((t) => t.name))
@@ -3074,7 +3090,21 @@ async function openSphereAdder(key) {
       for (const [e, box] of draws) {
         if (taken.has(e.id)) continue
         const r = requires[e.name] ?? {}
-        const clash = (incompatible[e.name] ?? []).filter((n) => chosenD.has(n))
+        const clash = [...(incompatible[e.name] ?? []).filter((n) => chosenD.has(n)),
+          ...Object.entries(incompatibleIf[e.name] ?? {}).filter(([n, cs]) => chosenD.has(n) && cs.includes(choiceOf(n))).map(([n]) => `${n} (${choiceOf(n)})`)]
+        // its own choice: one that a chosen drawback rules out can't be picked
+        const mine2 = choicePick.get(e.name)
+        if (mine2) {
+          mine2.style.display = box.checked ? "" : "none"
+          for (const o of mine2.options) {
+            if (!o.value) continue
+            const by = Object.entries(incompatibleIf).find(([a, m]) => chosenD.has(a) && (m[e.name] ?? []).includes(o.value))
+            o.disabled = !!by
+            const label = o.value === "other" ? "another choice" : o.value
+            o.textContent = by ? `${label} (not with ${by[0]})` : label
+          }
+          if (mine2.selectedOptions[0]?.disabled) { mine2.value = ""; changedAny = true }
+        }
         const needD = (r.drawbacks ?? []).filter((n) => !chosenD.has(n))
         const needP = r.packages?.length && !r.packages.some((n) => chosenP.has(n)) ? r.packages : []
         const blocked = clash.length || needD.length || needP.length
@@ -3090,11 +3120,14 @@ async function openSphereAdder(key) {
     }
   }
   for (const [, box] of [...draws, ...pkgs]) box.addEventListener("change", recheck)
+  for (const el of choicePick.values()) el.addEventListener("change", recheck)
   const option = ([e, box], extra) => h("label", { class: "sa-option" }, box,
     h("span", {}, h("b", {}, e.name), taken.has(e.id) ? h("span", { class: "muted" }, " (already taken)") : null,
       e.summary ? h("span", { class: "note", style: "display:block" }, mdToText(e.summary)) : null, extra ?? null,
       why.get(e.name) ?? null,
-      incompatible[e.name]?.length ? h("span", { class: "note", style: "display:block" }, `Incompatible with ${incompatible[e.name].join(", ")}.`) : null,
+      incompatible[e.name]?.length || incompatibleIf[e.name] ? h("span", { class: "note", style: "display:block" },
+        `Incompatible with ${[...(incompatible[e.name] ?? []), ...Object.entries(incompatibleIf[e.name] ?? {}).map(([n, cs]) => `${n} (${cs.join(" or ")})`)].join(", ")}.`) : null,
+      choicePick.get(e.name) ?? null,
       requires[e.name]?.drawbacks ? h("span", { class: "note", style: "display:block" }, `Requires the ${requires[e.name].drawbacks.join(" and ")} drawback.`) : null,
       requires[e.name]?.packages ? h("span", { class: "note", style: "display:block" }, `Requires the ${requires[e.name].packages.join(" or ")}.`) : null,
       requires[e.name]?.bonus ? h("span", { class: "note", style: "display:block" },
@@ -3147,7 +3180,7 @@ async function openSphereAdder(key) {
     for (const [e, box] of pkgs) if (box.checked) rows.push(row({ name: e.name, tags: "package", exclude: true, ref: e.id, desc: await textOf(e) }))
     for (const [e, box] of draws) {
       if (!box.checked) continue
-      rows.push(row({ name: e.name, tags: "drawback", exclude: true, boughtOff: false, ref: e.id, desc: await textOf(e) }))
+      rows.push(row({ name: e.name + (choicePick.get(e.name)?.value && choicePick.get(e.name).value !== "other" ? ` (${choicePick.get(e.name).value})` : ""), tags: "drawback", exclude: true, boughtOff: false, ref: e.id, desc: await textOf(e) }))
       const picked = talents.find((t) => t.id === bonusPick.get(e.name)?.value)
       if (picked) rows.push(row({ name: picked.name, tags: [...(picked.tags ?? []), "granted"].join(", "), exclude: true, grantedBy: e.name,
         ref: picked.id, desc: `Bonus talent from the ${e.name} drawback (free).\n\n${await textOf(picked)}` }))

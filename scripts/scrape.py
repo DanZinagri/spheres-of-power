@@ -6357,6 +6357,8 @@ def build_sphere_bases() -> int:
         key = lambda n: _norm(re.sub(r"\s*\(.*\)\s*$", "", n)).replace("-", " ")
         by_key = {key(e["name"]): e["name"] for e in draws}
         inc: dict[str, set[str]] = {e["name"]: set() for e in draws}
+        # ... only for one choice the other drawback offers: {drawback: {other: [choices]}}
+        inc_if: dict[str, dict[str, list[str]]] = {}
         for e in draws:
             t = re.sub(r"[*_]", "", e.get("md", ""))
             names = []
@@ -6365,10 +6367,18 @@ def build_sphere_bases() -> int:
             names += [m.group(1) for m in re.finditer(r"cannot (?:possess|have|take) both this and the ([\w’' -]+?) drawback", t, re.I)]
             for n in names:
                 other = by_key.get(key(n.strip(" .")))
-                if other and other != e["name"]:
+                choice = re.search(r"\(([^()]+)\)\s*$", n.strip(" ."))
+                if other and other != e["name"] and choice and "(" not in other:
+                    inc_if.setdefault(e["name"], {}).setdefault(other, []).append(choice.group(1).strip().lower())
+                elif other and other != e["name"]:
                     inc[e["name"]].add(other)
                     inc[other].add(e["name"])
+        for a, others in inc_if.items():  # (a pair that is conditional is not also flatly incompatible)
+            for b in others:
+                inc[a].discard(b)
+                inc[b].discard(a)
         out[data["sphere"]]["incompatible"] = {k: sorted(v) for k, v in inc.items() if v}
+        out[data["sphere"]]["incompatibleIf"] = inc_if
         out[data["sphere"]]["requires"] = _drawback_requirements(data["entries"], draws, by_key, key)
     COMPENDIUM_OUT.mkdir(parents=True, exist_ok=True)
     (COMPENDIUM_OUT / "sphere-bases.json").write_text(json.dumps(out, ensure_ascii=False), encoding="utf-8")
