@@ -39,12 +39,4 @@ At 3rd level the protean gains quick transformation as the shifter class feature
 
 # New Feat
 
-#### Extra Breadth Of Form
-
-**Prerequisite:** Breadth of form class feature.
-
-**Benefit:** Increase the number of times per day you may use breadth of form by 2. You may take this feat multiple times. The effects stack.
-
----
-
-*Archived: [[Protean (Original)|Original version]] (from before *Ultimate Spheres of Power*)*
+*This archetype's feats are on the [[Shifter Feats#Protean Feats|Shifter Feats]] page.*

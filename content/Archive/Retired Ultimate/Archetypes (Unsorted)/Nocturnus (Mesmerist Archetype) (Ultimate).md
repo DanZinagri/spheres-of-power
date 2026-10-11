@@ -118,16 +118,4 @@ In addition, whenever the nocturnus uses his shroud ability, he may choose to al
 
 ## Nocturnus Feats
 
-The nocturnus can select from the following feats to empower their shroud, and may select them in place of a bold stare improvement.
-
-#### Long Shadows
-
-**Prerequisites:** Shroud class feature, 7th-level nocturnus.
-
-**Benefits:** The range the nocturnus may use and maintain the effects of his shroud increases to 100 feet plus 10 feet per mesmerist level.
-
-#### Persisting Shroud
-
-**Prerequisites:** Shroud class feature, 5th-level nocturnus.
-
-**Benefits:** When the nocturnus uses a whisper of night and ends a shroud, that shroud lingers for 2 rounds. It cannot be used for a whisper of night again, but continues to apply its penalties for this duration. Placing a new shroud on a target with a persisting shroud ends the persisting shroud immediately.
+*This archetype's feats are on the [[Mesmerist Feats#Nocturnus Feats|Mesmerist Feats]] page.*

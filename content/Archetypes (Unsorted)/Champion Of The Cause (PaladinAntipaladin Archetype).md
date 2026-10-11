@@ -90,10 +90,4 @@ This ability replaces divine bond or fiendish boon.
 
 ## Feats
 
-##### Extra Boon Of Purpose
-
-**Prerequisite:** Boon of purpose class feature.
-
-**Benefit:** You may use your boon of purpose class feature one additional time per day.
-
-**Special:** You may take this feat multiple times. The effects stack.
+*This archetype's feats are on the [[Paladin Feats#Champion Of The Cause Feats|Paladin Feats]] page.*

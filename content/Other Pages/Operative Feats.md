@@ -102,18 +102,6 @@ You have mastered your body so completely that you can control its processes wit
 
 **Benefit:** Choose one (control) talent you have. You have its effects permanently, as if constantly meditating on it. While you maintain the meditate approach, the chosen (control) talent does not count towards the maximum number of (control) talents you can have applied at one time. You can spend a free action to suppress (or reactivate) the effects of the chosen (control) talent.
 
-#### Extra Conspiracy Feature
-
-**Prerequisites:** Base skill sphere granted by the chosen conspiracy, agent 1 or mastermind 1.
-
-**Benefit:** Gain the features of a conspiracy for your class that you do not have but already possess the base sphere for. You must have access to the web of secrets, coordinated combat, put off-guard, or stratagem abilities to use features that depend on those abilities.
-
-#### Extra Skill Leverage
-
-**Prerequisite:** Skill leverage.
-
-**Benefit:** Your skill leverage maximum increases by 2.
-
 #### Fane of Power (Su)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*

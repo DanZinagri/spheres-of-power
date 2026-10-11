@@ -39,3 +39,17 @@ The following feats are particularly appropriate or useful for mageknights.
 **Prerequisite:** Casting class feature.
 
 **Benefit:** Choose a sphere. You gain a +1 bonus to saving throw DCs for all abilities from that sphere. You may take this feat multiple times. The effects do not stack. Each time it is gained, apply this benefit to a different sphere.
+
+### Doomblade Feats
+
+*For the [[Doomblade|Doomblade]] archetype.*
+
+#### Reach Blade (Combat)
+
+**Prerequisites:** Destruction sphere, destructive blade class feature.
+
+**Benefit:** Your destructive blade may be shaped with the reach property. This property can be added or removed each time you shape the blade.
+
+---
+
+*Archived: [[Doomblade (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

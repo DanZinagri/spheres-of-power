@@ -43,12 +43,4 @@ This alters marked.
 
 # New Feats
 
-#### Reach Blade (Combat)
-
-**Prerequisites:** Destruction sphere, destructive blade class feature.
-
-**Benefit:** Your destructive blade may be shaped with the reach property. This property can be added or removed each time you shape the blade.
-
----
-
-*Archived: [[Doomblade (Original)|Original version]] (from before *Ultimate Spheres of Power*)*
+*This archetype's feats are on the [[Mageknight Feats#Doomblade Feats|Mageknight Feats]] page.*

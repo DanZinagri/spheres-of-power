@@ -141,14 +141,4 @@ This replaces greater psionics.
 
 # New Feat
 
-#### Extra Swarm Powers
-
-**Prerequisite:** Swarm powers class feature.
-
-**Benefit:** You gain an additional swarm power you qualify for.
-
-**Special:** This feat can be taken multiple times.
-
----
-
-*Archived: [[Gravecrawler (Original)|Original version]] (from before *Ultimate Spheres of Power*)*
+*This archetype's feats are on the [[Symbiat Feats#Gravecrawler Feats|Symbiat Feats]] page.*

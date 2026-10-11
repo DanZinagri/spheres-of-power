@@ -19,3 +19,17 @@ The following feats are particularly appropriate or useful for incanters
 **Benefits:** Choose a single sphere you possess. You may exchange any abilities from your sphere specialization or professional method for abilities corresponding to the chosen sphere (or any of its sub-specializations) which would be gained at the corresponding level. For example, if you have the warp sphere specialization and select destruction with hybridized specialty, you could exchange shift for intense magic, dimensional lord for penetrating blast, and/or warp mastery for indestructible.
 
 **Special:** You may select this feat multiple times, each time selecting a different sphere.
+
+### Frostweaver Feats
+
+*For the [[Frostweaver|Frostweaver]] archetype.*
+
+The following are feats exclusive to the frostweaver.
+
+#### Extra Frost Motes
+
+**Prerequisites:** Frost motes class feature.
+
+**Benefit:** Increase the maximum number of frost motes you may possess by 2, and increase the number of frost motes you gain at the start of the day by 2.
+
+**Special:** You may take this feat multiple times. The effects stack.

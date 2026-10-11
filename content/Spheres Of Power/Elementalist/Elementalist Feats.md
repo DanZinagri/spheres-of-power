@@ -51,3 +51,27 @@ The following feats are particularly appropriate or useful for elementalists.
 **Prerequisite:** Electrokinetic stunt class feature.
 
 **Benefit:** You gain an additional electrokinetic stunt for which you qualify. You may take this feat multiple times. The effects stack.
+
+### Arcanopulser Feats
+
+*For the [[Arcanopulser|Arcanopulser]] archetype.*
+
+#### Pulsemage’s Arsenal
+
+**Prerequisites:** 5th-level arcanopulser, Pulse shield class feature.
+
+**Benefits:** You can transfuse power spent elsewhere in order to fuel your magical wrath. Whenever you spend a spell point for any reason, you can also conjure a pulse shield without spending its spell point cost. Whenever you cast a sphere effect using at least a move action, you may spend 1 additional spell point to empower your pulse shots as normal.
+
+### Geomancer Feats
+
+*For the [[Geomancer|Geomancer]] archetype.*
+
+#### Improved Favored Package
+
+**Prerequisites:** Two favored packages (geomancer elementalist archetype).
+
+**Benefit:** Your second and third favored packages receive the same bonus as your first favored package.
+
+---
+
+*Archived: [[Geomancer (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

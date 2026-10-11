@@ -239,13 +239,5 @@ The following changes are made when creating a variant frostweaver major changes
 
 # New Feats
 
-The following are feats exclusive to the frostweaver.
-
-#### Extra Frost Motes
-
-**Prerequisites:** Frost motes class feature.
-
-**Benefit:** Increase the maximum number of frost motes you may possess by 2, and increase the number of frost motes you gain at the start of the day by 2.
-
-**Special:** You may take this feat multiple times. The effects stack.
+*This archetype's feats are on the [[Incanter Feats#Frostweaver Feats|Incanter Feats]] page.*
 

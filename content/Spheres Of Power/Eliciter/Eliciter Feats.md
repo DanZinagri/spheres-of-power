@@ -87,3 +87,17 @@ When using Soul-Piercing Gaze, it is difficult for observers to detect the use o
 **Prerequisite:** Emotion class feature.
 
 **Benefit:** You may apply any emotion power with ‘touch’ in the name to yourself as a move action instead of a standard action. Doing so does not provoke an attack of opportunity.
+
+### Hypnotist Feats
+
+*For the [[Hypnotist|Hypnotist]] archetype.*
+
+#### Rigorous Defense
+
+**Prerequisites:** Life sphere, inspiration class feature.
+
+**Benefit:** Whenever you use inspiration, you may invigorate yourself as part of the same action.
+
+---
+
+*Archived: [[Hypnotist (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

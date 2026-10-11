@@ -61,12 +61,4 @@ This replaces the blessing/blight class feature.
 
 # New Feat
 
-#### Extra Iatrogen
-
-**Prerequisite:** Iatrogen class feature.
-
-**Benefit:** Gain an additional iatrogen for which you meet the prerequisites. You may take this feat multiple times. The effects stack.
-
----
-
-*Archived: [[Pharmakon (Original)|Original version]] (from before *Ultimate Spheres of Power*)*
+*This archetype's feats are on the [[Soul Weaver Feats#Pharmakon Feats|Soul Weaver Feats]] page.*

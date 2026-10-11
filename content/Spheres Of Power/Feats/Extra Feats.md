@@ -22,6 +22,12 @@ Your knowledge of combat is easily expanded.
 
 **Special:** You may take this feat multiple times. The effects stack.
 
+#### Extra Conspiracy Feature
+
+**Prerequisites:** Base skill sphere granted by the chosen conspiracy, agent 1 or mastermind 1.
+
+**Benefit:** Gain the features of a conspiracy for your class that you do not have but already possess the base sphere for. You must have access to the web of secrets, coordinated combat, put off-guard, or stratagem abilities to use features that depend on those abilities.
+
 #### Extra Divine Works
 
 **Prerequisite:** Divine works class feature.
@@ -47,6 +53,12 @@ Your knowledge of combat is easily expanded.
 **Benefit:** You gain an additional origin talent.
 
 **Special:** This feat may be selected multiple times. The effects stack.
+
+#### Extra Skill Leverage
+
+**Prerequisite:** Skill leverage.
+
+**Benefit:** Your skill leverage maximum increases by 2.
 
 #### Extra Skill Talent
 

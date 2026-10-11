@@ -175,11 +175,5 @@ This refraction may be selected multiple times.
 
 ## Feats
 
-##### Extra Refraction
-
-**Prerequisite:** Refraction class feature.
-
-**Benefit:** Gain a refraction for which you meet the prerequisites.
-
-**Special:** You may take this feat multiple times. The effects stack.
+*This archetype's feats are on the [[Swashbuckler Feats#Prismatic Duelist Feats|Swashbuckler Feats]] page.*
 

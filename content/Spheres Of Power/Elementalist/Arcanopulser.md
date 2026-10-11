@@ -221,9 +221,5 @@ At 13th level, while ascended, the arcanopulser gains a flight speed equal to hi
 
 # Arcanopulser Feats
 
-#### Pulsemage’s Arsenal
-
-**Prerequisites:** 5th-level arcanopulser, Pulse shield class feature.
-
-**Benefits:** You can transfuse power spent elsewhere in order to fuel your magical wrath. Whenever you spend a spell point for any reason, you can also conjure a pulse shield without spending its spell point cost. Whenever you cast a sphere effect using at least a move action, you may spend 1 additional spell point to empower your pulse shots as normal.
+*This archetype's feats are on the [[Elementalist Feats#Arcanopulser Feats|Elementalist Feats]] page.*
 

@@ -28,6 +28,164 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/advanced-rune-invocation-rune",
+  "name": "Advanced Rune Invocation",
+  "system": "Spheres of Power",
+  "types": [
+   "Rune"
+  ],
+  "spheres": [],
+  "prerequisites": "Runes class feature, runesinger 16.",
+  "source": "",
+  "url": "Archetypes-(Unsorted)/Fighter-Feats#advanced-rune-invocation-rune",
+  "summary": "Once per day, you may expend your martial focus as a swift action to brighten all of your runes.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/ancient-word-rune",
+  "name": "Ancient Word",
+  "system": "Spheres of Power",
+  "types": [
+   "Rune"
+  ],
+  "spheres": [],
+  "prerequisites": "Runes class feature.",
+  "source": "",
+  "url": "Archetypes-(Unsorted)/Fighter-Feats#ancient-word-rune",
+  "summary": "When you use a rune, you may expend your martial focus to unleash a battlecry.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/defenders-sigil-rune",
+  "name": "Defender’s Sigil",
+  "system": "Spheres of Power",
+  "types": [
+   "Rune"
+  ],
+  "spheres": [],
+  "prerequisites": "Runes class feature, runesinger 4.",
+  "source": "",
+  "url": "Archetypes-(Unsorted)/Fighter-Feats#defenders-sigil-rune",
+  "summary": "Whenever you would make an attack of opportunity, if you have martial focus, you may instead use an immediate action to attack with a rune.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/double-stroke-rune",
+  "name": "Double Stroke",
+  "system": "Spheres of Power",
+  "types": [
+   "Rune"
+  ],
+  "spheres": [
+   "Dual Wielding"
+  ],
+  "prerequisites": "Dual Wielding sphere, runes class feature.",
+  "source": "",
+  "url": "Archetypes-(Unsorted)/Fighter-Feats#double-stroke-rune",
+  "summary": "When you use your dual attack ability, you may expend your martial focus to use another rune attack ability with your first off hand attack.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/engraved-weapon-rune",
+  "name": "Engraved Weapon",
+  "system": "Spheres of Power",
+  "types": [
+   "Rune"
+  ],
+  "spheres": [],
+  "prerequisites": "Runes class feature, runesinger 4.",
+  "source": "",
+  "url": "Archetypes-(Unsorted)/Fighter-Feats#engraved-weapon-rune",
+  "summary": "Whenever you use a rune that does acid, cold, electricity, fire, or sonic damage, you may place a mark on the weapon that converts all of that weapons damage…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/extra-rune-rune",
+  "name": "Extra Rune",
+  "system": "Spheres of Power",
+  "types": [
+   "Rune"
+  ],
+  "spheres": [],
+  "prerequisites": "Runes class feature.",
+  "source": "",
+  "url": "Archetypes-(Unsorted)/Fighter-Feats#extra-rune-rune",
+  "summary": "You gain an additional rune.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/final-word-rune",
+  "name": "Final Word",
+  "system": "Spheres of Power",
+  "types": [
+   "Rune"
+  ],
+  "spheres": [],
+  "prerequisites": "Runes class feature, runesinger 16.",
+  "source": "",
+  "url": "Archetypes-(Unsorted)/Fighter-Feats#final-word-rune",
+  "summary": "Whenever you confirm a critical hit on a target while you have martial focus, you may use an immediate action to attack them with a rune.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/fletchers-mark",
+  "name": "Fletcher’s Mark",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Sniper"
+  ],
+  "prerequisites": "Sniper sphere, runes class feature.",
+  "source": "",
+  "url": "Archetypes-(Unsorted)/Fighter-Feats#fletchers-mark",
+  "summary": "You may use rune attack abilities with your deadly shot ability, as if it were a standard attack action.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/signature-technique-rune",
+  "name": "Signature Technique",
+  "system": "Spheres of Power",
+  "types": [
+   "Rune"
+  ],
+  "spheres": [],
+  "prerequisites": "Runes class feature, runesinger 8.",
+  "source": "",
+  "url": "Archetypes-(Unsorted)/Fighter-Feats#signature-technique-rune",
+  "summary": "When you gain this ability, choose a rune you possess.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/sign-of-devotion-rune",
+  "name": "Sign of Devotion",
+  "system": "Spheres of Power",
+  "types": [
+   "Rune"
+  ],
+  "spheres": [],
+  "prerequisites": "Runes class feature, runesinger 4.",
+  "source": "",
+  "url": "Archetypes-(Unsorted)/Fighter-Feats#sign-of-devotion-rune",
+  "summary": "While you have martial focus, when you use a rune ability, the rune does not darken until the end of the round, allowing you to use the other ability of the…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/uncial-script-rune",
+  "name": "Uncial Script",
+  "system": "Spheres of Power",
+  "types": [
+   "Rune"
+  ],
+  "spheres": [],
+  "prerequisites": "Runes class feature, runesinger 4.",
+  "source": "",
+  "url": "Archetypes-(Unsorted)/Fighter-Feats#uncial-script-rune",
+  "summary": "You have learned to write your runes with more precision, giving you the ability to add greater detail that leads to greater control.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/long-shadows",
   "name": "Long Shadows",
   "system": "Spheres of Power",
@@ -36,8 +194,8 @@
   ],
   "spheres": [],
   "prerequisites": "Shroud class feature, 7th-level nocturnus.",
-  "source": "The Gravecaller's Handbook",
-  "url": "Archetypes-(Unsorted)/Nocturnus-(Mesmerist-Archetype)#long-shadows",
+  "source": "",
+  "url": "Archetypes-(Unsorted)/Mesmerist-Feats#long-shadows",
   "summary": "The range the nocturnus may use and maintain the effects of his shroud increases to 100 feet plus 10 feet per mesmerist level.",
   "file": "feats.json"
  },
@@ -50,181 +208,37 @@
   ],
   "spheres": [],
   "prerequisites": "Shroud class feature, 5th-level nocturnus.",
-  "source": "The Gravecaller's Handbook",
-  "url": "Archetypes-(Unsorted)/Nocturnus-(Mesmerist-Archetype)#persisting-shroud",
+  "source": "",
+  "url": "Archetypes-(Unsorted)/Mesmerist-Feats#persisting-shroud",
   "summary": "When the nocturnus uses a whisper of night and ends a shroud, that shroud lingers for 2 rounds.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/extra-boon-of-purpose",
+  "name": "Extra Boon Of Purpose",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Boon of purpose class feature.",
+  "source": "",
+  "url": "Archetypes-(Unsorted)/Paladin-Feats#extra-boon-of-purpose",
+  "summary": "You may use your boon of purpose class feature one additional time per day.",
   "file": "feats.json"
  },
  {
   "id": "feat/extra-refraction",
   "name": "Extra Refraction",
-  "system": "Champions",
+  "system": "Spheres of Power",
   "types": [
    "General"
   ],
   "spheres": [],
   "prerequisites": "Refraction class feature.",
-  "source": "Spheres Apocrypha: Prismatic Duelist",
-  "url": "Archetypes-(Unsorted)/Prismatic-Duelist-(Swashbuckler-Archetype)#extra-refraction",
+  "source": "",
+  "url": "Archetypes-(Unsorted)/Swashbuckler-Feats#extra-refraction",
   "summary": "Gain a refraction for which you meet the prerequisites.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/advanced-rune-invocation-rune",
-  "name": "Advanced Rune Invocation",
-  "system": "Champions",
-  "types": [
-   "Rune"
-  ],
-  "spheres": [],
-  "prerequisites": "Runes class feature, runesinger 16.",
-  "source": "Ultimate Spheres of Power",
-  "url": "Archetypes-(Unsorted)/Runesinger-(Fighter-Archetype)#advanced-rune-invocation-rune",
-  "summary": "Once per day, you may expend your martial focus as a swift action to brighten all of your runes.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/ancient-word-rune",
-  "name": "Ancient Word",
-  "system": "Champions",
-  "types": [
-   "Rune"
-  ],
-  "spheres": [],
-  "prerequisites": "Runes class feature.",
-  "source": "Ultimate Spheres of Power",
-  "url": "Archetypes-(Unsorted)/Runesinger-(Fighter-Archetype)#ancient-word-rune",
-  "summary": "When you use a rune, you may expend your martial focus to unleash a battlecry.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/defenders-sigil-rune",
-  "name": "Defender’s Sigil",
-  "system": "Champions",
-  "types": [
-   "Rune"
-  ],
-  "spheres": [],
-  "prerequisites": "Runes class feature, runesinger 4.",
-  "source": "Ultimate Spheres of Power",
-  "url": "Archetypes-(Unsorted)/Runesinger-(Fighter-Archetype)#defenders-sigil-rune",
-  "summary": "Whenever you would make an attack of opportunity, if you have martial focus, you may instead use an immediate action to attack with a rune.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/double-stroke-rune",
-  "name": "Double Stroke",
-  "system": "Champions",
-  "types": [
-   "Rune"
-  ],
-  "spheres": [
-   "Dual Wielding"
-  ],
-  "prerequisites": "Dual Wielding sphere, runes class feature.",
-  "source": "Ultimate Spheres of Power",
-  "url": "Archetypes-(Unsorted)/Runesinger-(Fighter-Archetype)#double-stroke-rune",
-  "summary": "When you use your dual attack ability, you may expend your martial focus to use another rune attack ability with your first off hand attack.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/engraved-weapon-rune",
-  "name": "Engraved Weapon",
-  "system": "Champions",
-  "types": [
-   "Rune"
-  ],
-  "spheres": [],
-  "prerequisites": "Runes class feature, runesinger 4.",
-  "source": "Ultimate Spheres of Power",
-  "url": "Archetypes-(Unsorted)/Runesinger-(Fighter-Archetype)#engraved-weapon-rune",
-  "summary": "Whenever you use a rune that does acid, cold, electricity, fire, or sonic damage, you may place a mark on the weapon that converts all of that weapons damage…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-rune-rune",
-  "name": "Extra Rune",
-  "system": "Champions",
-  "types": [
-   "Rune"
-  ],
-  "spheres": [],
-  "prerequisites": "Runes class feature.",
-  "source": "Ultimate Spheres of Power",
-  "url": "Archetypes-(Unsorted)/Runesinger-(Fighter-Archetype)#extra-rune-rune",
-  "summary": "You gain an additional rune.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/final-word-rune",
-  "name": "Final Word",
-  "system": "Champions",
-  "types": [
-   "Rune"
-  ],
-  "spheres": [],
-  "prerequisites": "Runes class feature, runesinger 16.",
-  "source": "Ultimate Spheres of Power",
-  "url": "Archetypes-(Unsorted)/Runesinger-(Fighter-Archetype)#final-word-rune",
-  "summary": "Whenever you confirm a critical hit on a target while you have martial focus, you may use an immediate action to attack them with a rune.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/fletchers-mark",
-  "name": "Fletcher’s Mark",
-  "system": "Champions",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Sniper"
-  ],
-  "prerequisites": "Sniper sphere, runes class feature.",
-  "source": "Ultimate Spheres of Power",
-  "url": "Archetypes-(Unsorted)/Runesinger-(Fighter-Archetype)#fletchers-mark",
-  "summary": "You may use rune attack abilities with your deadly shot ability, as if it were a standard attack action.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/signature-technique-rune",
-  "name": "Signature Technique",
-  "system": "Champions",
-  "types": [
-   "Rune"
-  ],
-  "spheres": [],
-  "prerequisites": "Runes class feature, runesinger 8.",
-  "source": "Ultimate Spheres of Power",
-  "url": "Archetypes-(Unsorted)/Runesinger-(Fighter-Archetype)#signature-technique-rune",
-  "summary": "When you gain this ability, choose a rune you possess.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/sign-of-devotion-rune",
-  "name": "Sign of Devotion",
-  "system": "Champions",
-  "types": [
-   "Rune"
-  ],
-  "spheres": [],
-  "prerequisites": "Runes class feature, runesinger 4.",
-  "source": "Ultimate Spheres of Power",
-  "url": "Archetypes-(Unsorted)/Runesinger-(Fighter-Archetype)#sign-of-devotion-rune",
-  "summary": "While you have martial focus, when you use a rune ability, the rune does not darken until the end of the round, allowing you to use the other ability of the…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/uncial-script-rune",
-  "name": "Uncial Script",
-  "system": "Champions",
-  "types": [
-   "Rune"
-  ],
-  "spheres": [],
-  "prerequisites": "Runes class feature, runesinger 4.",
-  "source": "Ultimate Spheres of Power",
-  "url": "Archetypes-(Unsorted)/Runesinger-(Fighter-Archetype)#uncial-script-rune",
-  "summary": "You have learned to write your runes with more precision, giving you the ability to add greater detail that leads to greater control.",
   "file": "feats.json"
  },
  {
@@ -1069,34 +1083,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/extra-conspiracy-feature",
-  "name": "Extra Conspiracy Feature",
-  "system": "Spheres of Guile",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Base skill sphere granted by the chosen conspiracy, agent 1 or mastermind 1.",
-  "source": "Diamond Spheres: Thaumic Potential",
-  "url": "Other-Pages/Operative-Feats#extra-conspiracy-feature",
-  "summary": "Gain the features of a conspiracy for your class that you do not have but already possess the base sphere for.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-skill-leverage",
-  "name": "Extra Skill Leverage",
-  "system": "Spheres of Guile",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Skill leverage.",
-  "source": "Diamond Spheres: Thaumic Potential",
-  "url": "Other-Pages/Operative-Feats#extra-skill-leverage",
-  "summary": "Your skill leverage maximum increases by 2.",
-  "file": "feats.json"
- },
- {
   "id": "feat/operative-feats/fane-of-power-su",
   "name": "Fane of Power",
   "system": "Spheres of Guile",
@@ -1908,6 +1894,20 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/extra-smithing-insight",
+  "name": "Extra Smithing Insight",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Blacksmith 7.",
+  "source": "Spheres of Might",
+  "url": "Spheres-Of-Might/Blacksmith/Blacksmith-Feats#extra-smithing-insight",
+  "summary": "Gain an additional smithing insight for which you qualify.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/part-time-barista",
   "name": "Part-Time Barista",
   "system": "Spheres of Might",
@@ -1916,8 +1916,8 @@
   ],
   "spheres": [],
   "prerequisites": "Invigorating brews class feature.",
-  "source": "Spheres Apocrypha: The Barista",
-  "url": "Spheres-Of-Might/Blacksmith/Barista#part-time-barista",
+  "source": "Spheres of Might",
+  "url": "Spheres-Of-Might/Blacksmith/Blacksmith-Feats#part-time-barista",
   "summary": "Add 1/2 your ranks in Profession (barista) to your barista class level when determining the effects of your invigorating brews class feature.",
   "file": "feats.json"
  },
@@ -1930,23 +1930,9 @@
   ],
   "spheres": [],
   "prerequisites": "",
-  "source": "Spheres Apocrypha: The Barista",
-  "url": "Spheres-Of-Might/Blacksmith/Barista#ill-sleep-when-im-dead-aristeia",
-  "summary": "You require half the amount of time you otherwise would to get the benefits of a full night’s rest.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-smithing-insight",
-  "name": "Extra Smithing Insight",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Blacksmith 7.",
   "source": "Spheres of Might",
-  "url": "Spheres-Of-Might/Blacksmith/Blacksmith-Feats#extra-smithing-insight",
-  "summary": "Gain an additional smithing insight for which you qualify.",
+  "url": "Spheres-Of-Might/Blacksmith/Blacksmith-Feats#ill-sleep-when-im-dead-aristeia",
+  "summary": "You require half the amount of time you otherwise would to get the benefits of a full night’s rest.",
   "file": "feats.json"
  },
  {
@@ -4717,6 +4703,34 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/extra-divine-works",
+  "name": "Extra Divine Works",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Divine works class feature.",
+  "source": "",
+  "url": "Spheres-Of-Power/Cleric-Feats#extra-divine-works",
+  "summary": "You may choose an additional option from the list of possible divine works class features.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/cleric-feats/sphere-focus",
+  "name": "Sphere Focus",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Casting class feature.",
+  "source": "",
+  "url": "Spheres-Of-Power/Cleric-Feats#sphere-focus",
+  "summary": "Choose a sphere.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/ability-channel",
   "name": "Ability Channel",
   "system": "Spheres of Power",
@@ -7054,6 +7068,34 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/pulsemages-arsenal",
+  "name": "Pulsemage’s Arsenal",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "5th-level arcanopulser, Pulse shield class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Elementalist/Elementalist-Feats#pulsemages-arsenal",
+  "summary": "You can transfuse power spent elsewhere in order to fuel your magical wrath.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/improved-favored-package",
+  "name": "Improved Favored Package",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Two favored packages (geomancer elementalist archetype).",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Elementalist/Elementalist-Feats#improved-favored-package",
+  "summary": "Your second and third favored packages receive the same bonus as your first favored package.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/dynopathy",
   "name": "Dynopathy",
   "system": "Spheres of Power",
@@ -7183,6 +7225,22 @@
   "source": "Ultimate Spheres of Power",
   "url": "Spheres-Of-Power/Eliciter/Eliciter-Feats#trance",
   "summary": "You may apply any emotion power with ‘touch’ in the name to yourself as a move action instead of a standard action.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/rigorous-defense",
+  "name": "Rigorous Defense",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Life"
+  ],
+  "prerequisites": "Life sphere, inspiration class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Eliciter/Eliciter-Feats#rigorous-defense",
+  "summary": "Whenever you use inspiration, you may invigorate yourself as part of the same action.",
   "file": "feats.json"
  },
  {
@@ -11711,17 +11769,17 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/extra-divine-works",
-  "name": "Extra Divine Works",
+  "id": "feat/extra-conspiracy-feature",
+  "name": "Extra Conspiracy Feature",
   "system": "Spheres of Power",
   "types": [
    "General"
   ],
   "spheres": [],
-  "prerequisites": "Divine works class feature.",
+  "prerequisites": "Base skill sphere granted by the chosen conspiracy, agent 1 or mastermind 1.",
   "source": "Ultimate Spheres of Power",
-  "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-divine-works",
-  "summary": "You may choose an additional option from the list of possible divine works class features.",
+  "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-conspiracy-feature",
+  "summary": "Gain the features of a conspiracy for your class that you do not have but already possess the base sphere for.",
   "file": "feats.json"
  },
  {
@@ -11750,6 +11808,20 @@
   "source": "Ultimate Spheres of Power",
   "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-origin-talent",
   "summary": "You gain an additional origin talent.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/extra-skill-leverage",
+  "name": "Extra Skill Leverage",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Skill leverage.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-skill-leverage",
+  "summary": "Your skill leverage maximum increases by 2.",
   "file": "feats.json"
  },
  {
@@ -16757,6 +16829,20 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/extra-frost-motes",
+  "name": "Extra Frost Motes",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Frost motes class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Incanter/Incanter-Feats#extra-frost-motes",
+  "summary": "Increase the maximum number of frost motes you may possess by 2, and increase the number of frost motes you gain at the start of the day by 2.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/benevolence-dual-sphere",
   "name": "Benevolence",
   "system": "Spheres of Power",
@@ -16937,7 +17023,7 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/rigorous-defense",
+  "id": "feat/life-sphere-feats/rigorous-defense",
   "name": "Rigorous Defense",
   "system": "Spheres of Power",
   "types": [
@@ -17405,6 +17491,22 @@
   "source": "Ultimate Spheres of Power",
   "url": "Spheres-Of-Power/Mageknight/Mageknight-Feats#improved-spell-combat-combat",
   "summary": "When activating a magic sphere talent with the strike descriptor, you may spend a spell point to instead use the sphere effect in conjunction with making a…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/mageknight-feats/reach-blade-combat",
+  "name": "Reach Blade",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [
+   "Destruction"
+  ],
+  "prerequisites": "Destruction sphere, destructive blade class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Mageknight/Mageknight-Feats#reach-blade-combat",
+  "summary": "Your destructive blade may be shaped with the reach property.",
   "file": "feats.json"
  },
  {

@@ -2300,7 +2300,7 @@ EXTRA_FEAT_PAGES = ["extra-feats", "practitioner-feats", "operative-feats"]
 # on another note that has the feature (under a "Feats" heading), or kept on / moved to the Extra Feats page
 EXTRA_FEAT_OWNERS = {"Extra Enhanced Tactics": ["Advisor", "Commander"]}
 EXTRA_FEAT_HOMES = {"Extra Boon Of Purpose": "Champion Of The Cause (PaladinAntipaladin Archetype)", "Extra Swarm Enhancement": "Hive"}
-EXTRA_FEATS_SHARED = {"Extra Combat Talent", "Extra Ki Power", "Extra Magic Talent", "Extra Spell Points", "Extra Origin Talent", "Extra Skill Talent"}
+EXTRA_FEATS_SHARED = {"Extra Conspiracy Feature", "Extra Skill Leverage", "Extra Combat Talent", "Extra Ki Power", "Extra Magic Talent", "Extra Spell Points", "Extra Origin Talent", "Extra Skill Talent"}
 EXTRA_FEATS_PAGE = "Extra Feats"
 
 
@@ -2460,6 +2460,123 @@ def distribute_extra_feats(pages: dict, class_pages: set, class_options: dict, d
         if changed:
             path.write_text(collapse_dividers("\n".join(lines)), encoding="utf-8")
     print("Extra feats:", "; ".join(report))
+
+
+PF_CLASS_NAMES = ["Alchemist", "Antipaladin", "Arcanist", "Barbarian", "Bard", "Bloodrager", "Brawler", "Cavalier", "Cleric", "Druid", "Fighter",
+                  "Gunslinger", "Hunter", "Inquisitor", "Investigator", "Kineticist", "Magus", "Medium", "Mesmerist", "Monk", "Ninja", "Occultist",
+                  "Oracle", "Paladin", "Psychic", "Ranger", "Rogue", "Samurai", "Shaman", "Skald", "Slayer", "Sorcerer", "Spiritualist", "Summoner",
+                  "Swashbuckler", "Vigilante", "Warpriest", "Witch", "Wizard"]
+
+
+def collect_archetype_feats(pages: dict, class_pages: set, class_options: dict, derived_notes: list) -> dict[str, str]:
+    """An archetype's own feats (its "Feats" / "New Feats" / "<Name> Feats" section) move to its class's
+    feats page, under a heading naming the archetype, so every class's feats are in one place (and
+    in the feat compendium). A Spheres class's archetypes are the other notes in its folder; a
+    Pathfinder class's are named "(<Class> Archetype)", and get a "<Class> Feats" page of their own.
+    Returns {Pathfinder class name: its feats page} for the home tables' Class Options column."""
+    level_of = lambda l: len(m.group(1)) if (m := re.match(r"(#{1,6}) ", l)) else 0
+    norm = lambda t: re.sub(r"[^a-z0-9 ]", "", t.lower().replace("’", "").replace("'", "")).strip()
+    by_folder = {}
+    for pg in pages.values():
+        if pg.slug in class_pages and Path(pg.folder).name == pg.filename:
+            by_folder[pg.folder] = pg
+    pf_pages: dict[str, str] = {}
+    moved = []
+    for pg in sorted(pages.values(), key=lambda x: x.filename):
+        if pg.slug in class_pages or pg.filename.endswith((" Feats", " Drawbacks")):
+            continue
+        cls = by_folder.get(pg.folder)
+        paren = re.search(r"\(([^()]*?) Archetype\)\s*$", pg.title)
+        if not cls and not paren:
+            continue
+        path = CONTENT / pg.folder / f"{pg.filename}.md"
+        if not path.exists():
+            continue
+        lines = path.read_text(encoding="utf-8").split("\n")
+        short = re.sub(r"\s*\([^()]*\)\s*$", "", pg.title)
+        start = next((i for i, l in enumerate(lines) if level_of(l)
+                      and re.fullmatch(rf"(New Feats?|Feats?|{re.escape(short)} Feats?|[A-Z][a-z]+ Feats)", l.lstrip("#").strip())
+                      and not re.search(r"Bonus|Combat|Style|Champion|Surreal|Protokinesis", l)), None)
+        if start is None:
+            continue
+        lvl = level_of(lines[start])
+        end = next((i for i in range(start + 1, len(lines)) if 0 < level_of(lines[i]) <= lvl), len(lines))
+        while end - 1 > start and lines[end - 1].strip() in ("", "---"):
+            end -= 1
+        chunk = lines[start + 1:end]
+        heads = [i for i, l in enumerate(chunk) if level_of(l)]
+        if not heads or "**Benefit" not in "\n".join(chunk):
+            continue
+        entry_lvl = min(level_of(chunk[i]) for i in heads)
+        intro = "\n".join(chunk[:heads[0]]).strip()
+        bounds = [i for i in heads if level_of(chunk[i]) == entry_lvl] + [len(chunk)]
+        entries = []
+        for a, b in zip(bounds, bounds[1:]):
+            body = [("#" * min(6, level_of(l) - entry_lvl + 4) + " " + l.lstrip("#").lstrip()) if level_of(l) else l for l in chunk[a:b]]
+            entries.append("\n".join(body).strip("\n"))
+        # whose feats page
+        if cls:
+            title = re.sub(r"\s*\(.*\)$", "", cls.title)
+            folder, parent, class_file, key = cls.folder, cls.filename, CONTENT / cls.folder / f"{cls.filename}.md", cls.filename
+        else:
+            x = paren.group(1)
+            named = (["Monk, Unchained"] if "Unchained Monk" in x else [])
+            rest = x.replace("Unchained Monk", "")
+            for n in sorted(PF_CLASS_NAMES, key=len, reverse=True):
+                if n in rest:
+                    named.append(n)
+                    rest = rest.replace(n, "")
+            named.sort(key=lambda n: (n == "Antipaladin", n))
+            if not named:
+                continue
+            title, folder, parent, class_file, key = named[0].replace(", Unchained", ""), pg.folder, "", None, None
+        feats_name = clean_filename(f"{title} Feats")
+        # (one page per Pathfinder class, wherever its first archetype with feats is filed)
+        existing = next((f for f in CONTENT.rglob(f"{feats_name}.md") if ARCHIVE not in f.relative_to(CONTENT).parts), None)
+        dest = existing or CONTENT / folder / f"{feats_name}.md"
+        section = f"### {short} Feats\n\n*For the [[{pg.filename}|{short}]] archetype.*" + ("\n\n" + intro if intro else "")
+        if dest.exists():
+            text = dest.read_text(encoding="utf-8")
+            have = {norm(re.sub(r"\s*[\[(].*$", "", l.lstrip("#"))) for l in text.split("\n") if level_of(l)}
+            entries = [e for e in entries if norm(re.sub(r"\s*[\[(].*$", "", e.split("\n")[0].lstrip("#"))) not in have]
+            if entries:
+                dest.write_text(text.rstrip("\n") + "\n\n" + section + "\n\n" + "\n\n".join(entries) + "\n", encoding="utf-8")
+        else:
+            credit = ""
+            if class_file and class_file.exists():
+                credit = m.group(0) if (m := re.search(r"^\*Source: .+\*$", class_file.read_text(encoding="utf-8"), re.M)) else ""
+            fm = ["---", f"title: {yaml_str(title + ' Feats')}", f"source: {SITE}/{pg.slug}"] + (["parent: " + yaml_str(f"[[{parent}]]")] if parent else []) \
+                + ["searchtype: Class Options", "---"]
+            dest.write_text("\n".join(fm) + "\n" + GENERATED_MARK + "\n\n" + (credit + "\n\n" if credit else "")
+                            + f"The following feats are particularly appropriate or useful for a {title.lower()}.\n\n" + section + "\n\n" + "\n\n".join(entries) + "\n",
+                            encoding="utf-8")
+            if key:
+                class_options.setdefault(key, []).append(f"[[{feats_name}\\|Feats]]")
+                derived_notes.append((f"{folder}/{feats_name}.md".lstrip("/"), f"{folder}/{parent}.md".lstrip("/")))
+        if not cls:
+            for n in named:
+                pf_pages[n] = feats_name
+        # the archetype keeps a pointer where its feats were
+        lines[start + 1:end] = ["", f"*This archetype's feats are on the [[{feats_name}#{short} Feats|{title} Feats]] page.*"]
+        path.write_text(collapse_dividers("\n".join(lines)), encoding="utf-8")
+        moved.append(f"{short} -> {feats_name}")
+    print("Archetype feats:", "; ".join(moved))
+    return pf_pages
+
+
+def link_pf_class_feats(home_md: str, pf_pages: dict[str, str]) -> str:
+    """Home Classes tables: a Pathfinder class's row gets its feats page in the Class Options column."""
+    out = []
+    for line in home_md.split("\n"):
+        m = re.match(r"\| \*\*\[([^\]]+)\]\(https?://[^)]*\)\*\* \|", line)
+        if m and m.group(1) in pf_pages and line.rstrip().endswith("|"):
+            cells = line.rstrip()[:-1].rstrip().rsplit(" | ", 1)
+            link = f"[[{pf_pages[m.group(1)]}\\|Feats]]"
+            if len(cells) == 2 and link not in cells[1]:
+                last = cells[1].strip()
+                line = f"{cells[0]} | {link if last in ('', '—', '-') else last + ', ' + link} |"
+        out.append(line)
+    return "\n".join(out)
 
 
 def drop_pointer_section(pages: dict, slug: str, title: str) -> None:
@@ -7767,13 +7884,14 @@ def convert(with_images: bool) -> None:
         dest.write_text(f"---\ntitle: {yaml_str(title)}\n---\n{GENERATED_MARK}\n\n{body}\n", encoding="utf-8")
     move_practitioner_feats(pages, feats_pages, derived_notes)
     distribute_extra_feats(pages, class_pages, class_options, derived_notes)
+    pf_class_feats = collect_archetype_feats(pages, class_pages, class_options, derived_notes)
     write_sample_page(sample_groups, pages)
     write_link_families(pages, derived_notes)
     if home_page:
         dest, out = home_page
         home = add_feats_links(out, feats_pages, drawback_pages)
         home = sphere_lists(drop_merged_links(home, merge_links))
-        home = add_home_archetypes(fill_class_archetypes(home, class_archetypes, class_options))
+        home = link_pf_class_feats(add_home_archetypes(fill_class_archetypes(home, class_archetypes, class_options)), pf_class_feats)
         # pages folded into another page (PAGE_FOLDS) leave the home lists; their target is listed
         home = re.sub(r"^\[\[(?:" + "|".join(map(re.escape, [*PAGE_FOLDS, *FCB_FOLDS])) + r")\]\][ \t]*\r?\n", "", home, flags=re.M)
         dest.write_text(home_icons(home_class_tabs(home)), encoding="utf-8")

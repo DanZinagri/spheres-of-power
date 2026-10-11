@@ -87,12 +87,4 @@ An electrokinetic with the Energy Focus (electric blast) drawback may make destr
 
 # New Feats
 
-#### Extra Electrokinetic Stunt
-
-**Prerequisite:** Electrokinetic stunt class feature.
-
-**Benefit:** You gain an additional electrokinetic stunt for which you qualify. You may take this feat multiple times. The effects stack
-
----
-
-*Archived: [[Electrokinetic (Original)|Original version]] (from before *Ultimate Spheres of Power*)*
+*This archetype's feats are on the [[Elementalist Feats#Electrokinetic Feats|Elementalist Feats]] page.*

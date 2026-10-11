@@ -19,3 +19,19 @@ Your experience and skill unlock new insights into the smith’s craft.
 **Benefit:** Gain an additional smithing insight for which you qualify.
 
 **Special:** This feat may be taken a second time starting at 15th level.
+
+### Barista Feats
+
+*For the [[Barista|Barista]] archetype.*
+
+#### Part-Time Barista
+
+**Prerequisite:** Invigorating brews class feature.
+
+**Benefit:** Add 1/2 your ranks in Profession (barista) to your barista class level when determining the effects of your invigorating brews class feature. This cannot increase your effective barista class level above your Hit Dice.
+
+#### I’ll Sleep When I’m Dead (Aristeia)
+
+**Benefit:** You require half the amount of time you otherwise would to get the benefits of a full night’s rest.
+
+In addition, you may activate Aristeia even while unconscious (and even if your unconsciousness would make you unaware of the reason to activate Aristeia in the first place), and doing so immediately brings you fully awake. While in Aristeia, you can still suffer from crashes from the barista blacksmith’s invigorating brew class feature, but all negative crash effects, as well as any penalties from fatigue and exhaustion, are delayed until after you leave Aristeia.

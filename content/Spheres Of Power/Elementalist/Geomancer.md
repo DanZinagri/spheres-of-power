@@ -25,12 +25,4 @@ This replaces favored element.
 
 # New Feat
 
-#### Improved Favored Package
-
-**Prerequisites:** Two favored packages (geomancer elementalist archetype).
-
-**Benefit:** Your second and third favored packages receive the same bonus as your first favored package.
-
----
-
-*Archived: [[Geomancer (Original)|Original version]] (from before *Ultimate Spheres of Power*)*
+*This archetype's feats are on the [[Elementalist Feats#Geomancer Feats|Elementalist Feats]] page.*
