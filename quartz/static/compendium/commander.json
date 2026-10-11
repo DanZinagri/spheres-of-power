@@ -928,7 +928,17 @@
    "status": "current",
    "url": "Spheres-Of-Power/Feats/General-Feats#expanded-battlefield-specialty-plan",
    "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*Always plan for the next battlefield.*\n\n**Prerequisite:** Commander 10th level, battlefield specialty class feature.\n\n**Benefit:** You gain an additional battlefield specialty. In addition, you gain the following plan:",
-   "options": []
+   "options": [
+    {
+     "name": "Prepare for the Battlefield",
+     "tags": [],
+     "talentTags": [
+      "plan"
+     ],
+     "anchor": "prepare-for-the-battlefield-plan",
+     "md": "**Effect:** When you reveal this plan, you immediately retrain the battlefield specialty granted by this feat.\n\nYou can reveal this plan once per week."
+    }
+   ]
   }
  ]
 }

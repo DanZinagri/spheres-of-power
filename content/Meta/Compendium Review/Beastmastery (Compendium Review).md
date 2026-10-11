@@ -77,16 +77,16 @@ What the compendium extractor takes from the Beastmastery pages (68 entries; app
 
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
-| [[General-Feats#mounted-athlete\|Mounted Athlete]] | General |  | — | Athletics sphere, Beastmastery sphere ((ride) package). | The Player's Guide to Skybourne |
-| [[General-Feats#mounted-protector\|Mounted Protector]] | General |  | — | Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package). | The Player's Guide to Skybourne |
 | [[Champion-Feats#arcane-opening-champion\|Arcane Opening]] | General | (Champion) | — | Casting and either Leadership sphere and Cohort Attack or Beastmastery sphere and Coordinated Attack. | Spheres Apocrypha: Alchemy Poisons 2 |
 | [[Champion-Feats#darkrider-champion\|Darkrider]] | General | (Champion) | — | Beastmastery sphere, Dark sphere. | Diamond Spheres: Hustle & Bustle |
 | [[Champion-Feats#speak-with-animal-allies-champion\|Speak with Animal Allies]] | General | (Champion) | — | Beastmastery sphere, Nature sphere, Speak With Animals. | Spheres Apocrypha: Radiant and Righteous |
 | [[Beastmastery-Sphere-Feats#adopt-animal-ally\|Adopt Animal Ally]] | General |  | — | Beastmastery sphere (handle animal) package, an animal or vermin companion. |  |
 | [[Beastmastery-Sphere-Feats#companion-trigger-combat\|Companion Trigger]] | General | (combat) | — | Animal Companion class feature, Mount class feature, or Beastmastery sphere. |  |
 | [[Beastmastery-Sphere-Feats#defenders-bonds\|Defender’s Bonds]] | General |  | — | Beastmastery sphere; lay on hands or sentinel’s reserve class feature, character level 3rd. |  |
+| [[Beastmastery-Sphere-Feats#mixed-coordinator-combat\|Mixed Coordinator]] | General | (combat) | — | Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package. |  |
+| [[Beastmastery-Sphere-Feats#mounted-athlete\|Mounted Athlete]] | General |  | — | Athletics sphere, Beastmastery sphere ((ride) package). |  |
+| [[Beastmastery-Sphere-Feats#mounted-protector\|Mounted Protector]] | General |  | — | Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package). |  |
 | [[Beastmastery-Sphere-Feats#vermin-master\|Vermin Master]] | General |  | — | Beastmastery sphere (Bee Keeper), able to tame creatures of the vermin type. |  |
-| [[Combat-Feats#mixed-coordinator-combat\|Mixed Coordinator]] | General | (combat) | — | Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package. | Polished Commander & Warleader |
 
 ## Drawbacks (6)
 

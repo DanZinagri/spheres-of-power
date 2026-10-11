@@ -73,10 +73,10 @@ What the compendium extractor takes from the Berserker pages (59 entries; approv
 | [[Champion-Feats#furious-flare-champion\|Furious Flare]] | General | (Champion) | — | Berserker sphere, Destruction sphere (any (blast type) talent). | Diamond Spheres: Hustle & Bustle |
 | [[Champion-Feats#lights-lasting-fury-champion\|Light’s Lasting Fury]] | General | (Champion) | — | Berserker sphere (Deathless), Life sphere, Light sphere. | Spheres Apocrypha: Radiant and Righteous |
 | [[Champion-Feats#primal-dancer-champion-dual-sphere\|Primal Dancer]] | General | (Champion), (Dual Sphere) | — | Perform (dance) 3 ranks, Performance sphere ((dance) package); either the Berserker sphere or Destruction sphere (one (b | Diamond Spheres: Erudition & Esoterica |
+| [[Berserker-Sphere-Feats#adrenaline-fueled-frenzy-combat\|Adrenaline-Fueled Frenzy]] | General | (Combat) | — | Berserker sphere (any (adrenaline) talent), Duelist sphere (Bloodied Shark’s Frenzy), base attack bonus +3. | Spheres Apocrypha: Radiant and Righteous |
 | [[Berserker-Sphere-Feats#desperate-focus-combat\|Desperate Focus]] | General | (Combat) | — | Berserker sphere (Deathless). | Spheres Apocrypha: Radiant and Righteous |
 | [[Berserker-Sphere-Feats#improved-atavism\|Improved Atavism]] | General |  | — | Berserker sphere (Atavism (adrenaline)), base attack bonus +3. | Spheres Apocrypha: Radiant and Righteous |
 | [[Berserker-Sphere-Feats#true-rage-combat\|True Rage]] | General | (combat) | — | Berserker sphere (any (adrenaline) talent), base attack bonus +6. | Spheres Apocrypha: The Inheritor and Improved Atavism Heritages |
-| [[Combat-Feats#adrenaline-fueled-frenzy-combat\|Adrenaline-Fueled Frenzy]] | General | (Combat) | — | Berserker sphere (any (adrenaline) talent), Duelist sphere (Bloodied Shark’s Frenzy), base attack bonus +3. | Ultimate Spheres of Power |
 
 ## Drawbacks (7)
 

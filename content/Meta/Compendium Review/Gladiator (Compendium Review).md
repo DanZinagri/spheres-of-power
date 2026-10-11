@@ -90,7 +90,7 @@ What the compendium extractor takes from the Gladiator pages (75 entries; approv
 | [[Champion-Feats#phantom-of-the-colosseum-champion\|Phantom Of The Colosseum]] | General | (Champion) | — | Intimidate 3 ranks, Gladiator sphere, Illusion sphere. | Spheres Apocrypha: Radiant and Righteous |
 | [[Champion-Feats#thunderbolts-and-lightning-very-very-frightening-champion\|Thunderbolts And Lightning, Very Very Frightening]] | General | (Champion) | — | Gladiator sphere, Weather sphere (Storm Lord). | Spheres Apocrypha: Radiant and Righteous |
 | [[Champion-Feats#vicious-performer-champion-dual-sphere\|Vicious Performer]] | General | (Champion), (Dual Sphere) | — | Performance sphere; either the Gladiator sphere or War sphere. | Diamond Spheres: Harmony & Discord |
-| [[Combat-Feats#booming-boast-combat-dual-sphere\|Booming Boast]] | General | (Combat), (Dual Sphere) | — | Gladiator sphere, Warleader sphere ((shout) package). | Ultimate Spheres of Power |
+| [[Gladiator-Sphere-Feats#booming-boast-combat-dual-sphere\|Booming Boast]] | General | (Combat), (Dual Sphere) | — | Gladiator sphere, Warleader sphere ((shout) package). | Polished Commander & Warleader |
 
 ## Drawbacks (9)
 

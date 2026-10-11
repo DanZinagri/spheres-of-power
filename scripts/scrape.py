@@ -2042,6 +2042,8 @@ def apply_extras(md: str, slug: str, extras: list[tuple[str, str, str]]) -> str:
             if not heads:
                 continue
             elevel = len(blines[heads[0]].split(" ")[0])
+            # (a deeper heading is part of the entry above it: an option a feat grants)
+            heads = [k for k in heads if len(blines[k].split(" ")[0]) <= elevel]
             entries = [blines[a:b] for a, b in zip(heads, heads[1:] + [len(blines)])]
             for entry in entries:
                 name = _entry_name(entry[0])
@@ -2597,7 +2599,7 @@ def link_pf_class_feats(home_md: str, pf_pages: dict[str, str]) -> str:
 
 
 # the shared feat pages whose feats for one sphere alone move to that sphere's feats page
-SPHERE_FEAT_PAGES = ["practitioner-feats", "operative-feats"]
+SPHERE_FEAT_PAGES = ["practitioner-feats", "operative-feats"]  # (a feat for two spheres goes to both spheres' pages)
 
 
 def distribute_sphere_feats(pages: dict, feats_pages: dict[str, str], derived_notes: list, plan: bool = False) -> None:
@@ -2622,19 +2624,19 @@ def distribute_sphere_feats(pages: dict, feats_pages: dict[str, str], derived_no
                 talents.setdefault(norm(e["name"]), set()).add(e["sphere"])
     names = sorted(spheres, key=len, reverse=True)
 
-    def sphere_of(heading: str, block: str):
-        if re.search(r"dual sphere", heading, re.I):
-            return None
+    def spheres_of(block: str) -> list[str]:
+        """The spheres a feat's prerequisites name: the sphere itself ("Duelist sphere", "Warleader
+        ((shout) package)", "Leadership associated skill") or a talent only one sphere has."""
         pre = re.search(r"\*\*Prerequisites?:?\*\*:?\s*(.*)", block)
         if not pre:
-            return None
+            return []
         text = pre.group(1)
-        found = {s for s in names if re.search(rf"\b{re.escape(s)}\b(?=\s+sphere|\s*\(|\s+associated)", text)}
+        found = {s for s in names if re.search(rf"\b{re.escape(s)}\b(?=\s+[Ss]phere|\s*\(|\s+associated)", text)}
         for part in re.split(r"[,;()]|\bor\b|\band\b", text):
             hit = talents.get(norm(part))
             if hit and len(hit) == 1:
                 found |= hit
-        return next(iter(found)) if len(found) == 1 else None
+        return sorted(found)
 
     report = []
     for slug in SPHERE_FEAT_PAGES:
@@ -2650,38 +2652,41 @@ def distribute_sphere_feats(pages: dict, feats_pages: dict[str, str], derived_no
                 continue
             end = next((j for j in range(i + 1, len(lines)) if 0 < level_of(lines[j]) <= 4 or lines[j].strip() == "---"), len(lines))
             block = lines[i:end]
-            sphere = sphere_of(lines[i], "\n".join(block))
-            pg = spheres.get(sphere) if sphere else None
-            if not pg:
-                i = end
-                continue
-            title = f"{sphere} Sphere Feats"
-            fname = feats_pages.get(pg.filename) or clean_filename(title)
-            dest = next((f for f in (CONTENT / pg.folder / f"{fname}.md", *CONTENT.rglob(f"{fname}.md")) if f.exists() and ARCHIVE not in f.relative_to(CONTENT).parts), None)
+            # every sphere the feat needs gets it (a dual sphere feat is printed on both spheres' pages)
+            found = [s for s in spheres_of("\n".join(block)) if s in spheres]
             feat = re.sub(r"\s*[\[(].*$", "", lines[i][5:].strip())
-            if plan:
-                # only make the page a feat will need (so the home page can link it); the feats move later
+            placed = []
+            for sphere in found:
+                pg = spheres[sphere]
+                title = f"{sphere} Sphere Feats"
+                fname = feats_pages.get(pg.filename) or clean_filename(title)
+                dest = next((f for f in (CONTENT / pg.folder / f"{fname}.md", *CONTENT.rglob(f"{fname}.md")) if f.exists() and ARCHIVE not in f.relative_to(CONTENT).parts), None)
+                if plan:
+                    # only make the page a feat will need (so the home page can link it); the feats move later
+                    if not dest:
+                        dest = CONTENT / pg.folder / f"{fname}.md"
+                        dest.write_text("\n".join(["---", f"title: {yaml_str(title)}", f"source: {SITE}/{src.slug}", "parent: " + yaml_str(f"[[{pg.filename}]]"), "---"])
+                                        + "\n" + GENERATED_MARK + "\n", encoding="utf-8")
+                        feats_pages[pg.filename] = fname
+                        derived_notes.append((f"{pg.folder}/{fname}.md".lstrip("/"), f"{pg.folder}/{pg.filename}.md".lstrip("/")))
+                        if not any(t[0] == fname for t in COMPENDIUM[sphere]["pages"]):
+                            COMPENDIUM[sphere]["pages"].append((fname, "(page)", "feat", 4))
+                    continue
                 if not dest:
-                    dest = CONTENT / pg.folder / f"{fname}.md"
-                    dest.write_text("\n".join(["---", f"title: {yaml_str(title)}", f"source: {SITE}/{src.slug}", "parent: " + yaml_str(f"[[{pg.filename}]]"), "---"])
-                                    + "\n" + GENERATED_MARK + "\n", encoding="utf-8")
-                    feats_pages[pg.filename] = fname
-                    derived_notes.append((f"{pg.folder}/{fname}.md".lstrip("/"), f"{pg.folder}/{pg.filename}.md".lstrip("/")))
-                    if not any(t[0] == fname for t in COMPENDIUM[sphere]["pages"]):
-                        COMPENDIUM[sphere]["pages"].append((fname, "(page)", "feat", 4))
-                i = end
-                continue
-            if dest:
+                    continue
                 text = dest.read_text(encoding="utf-8")
                 tl = text.split("\n")
                 levels = [level_of(l) for l in tl if level_of(l) >= 2]
-                mark = "#" * (max(set(levels), key=levels.count) if levels else 4)
+                depth = max(set(levels), key=levels.count) if levels else 4
                 if not any(level_of(l) and norm(re.sub(r"\s*[\[(].*$", "", l.lstrip("#"))) == norm(feat) for l in tl):
-                    dest.write_text(text.rstrip("\n") + "\n\n" + "\n".join([f"{mark} {block[0][5:].strip()}", *block[1:]]).strip("\n") + "\n", encoding="utf-8")
-            else:
+                    # (headings inside the feat, an option it grants, keep their depth below it)
+                    body = [("#" * min(6, level_of(l) - 4 + depth) + " " + l.lstrip("#").strip()) if level_of(l) else l for l in block]
+                    dest.write_text(text.rstrip("\n") + "\n\n" + "\n".join(body).strip("\n") + "\n", encoding="utf-8")
+                placed.append(sphere)
+            if not placed:
                 i = end
                 continue
-            report.append(f"{feat} -> {sphere}")
+            report.append(f"{feat} -> {', '.join(placed)}")
             lines = lines[:i] + lines[end:]
             changed = True
         if changed:
@@ -2700,8 +2705,7 @@ PRACTITIONER_TAG_PAGES = [("combat", "combat-feats"), ("item creation", "item-cr
 PRACTITIONER_FEATS_DROP = {"Gunsmithing", "Flyby Attack", "Piranha Strike", "Two-Weapon Rend"}
 NAMED_FEAT_MOVES = [("champion-feats", "Biochemical Brews", "general-feats"), ("champion-feats", "Unarmored Mastery", "general-feats"),
                     ("operative-feats", "Utilitarian Dilettante", "extra-feats"),
-                    ("operative-feats", "Terrain Adaptation", "Investigation Sphere Feats"),
-                    ("operative-feats", "Hymnal Verse", "dual-sphere-feats")]
+                    ("operative-feats", "Terrain Adaptation", "Investigation Sphere Feats")]
 # shared feat pages whose remaining feats, once the rest are placed, join General Feats (the page then goes)
 FOLD_INTO_GENERAL = ["operative-feats"]
 TAG_SORTED_PAGES = ["operative-feats"]

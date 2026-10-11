@@ -877,8 +877,7 @@
    "source": "Diamond Spheres: Invention & Ingenuity",
    "url": "Other-Pages/Artifice/Artifice-Sphere-Feats#tug-the-heartstrings",
    "alsoOn": [
-    "Other-Pages/Performance/Performance-Sphere-Feats#tug-the-heartstrings",
-    "Spheres-Of-Power/Feats/General-Feats#tug-the-heartstrings"
+    "Other-Pages/Performance/Performance-Sphere-Feats#tug-the-heartstrings"
    ],
    "md": "Your expressions of creativity possess a deeper meaning, making them harder to ignore to those who understand your experience.\n\n**Prerequisites:** Artifice sphere ((artwork) package) or Performance sphere.\n\n**Benefit:** Whenever you create an Artifice sphere artwork or use a Performance sphere ability, choose a motivation, even if you do not possess the motivation. Creatures who perceive the sphere ability or engage with the artwork that possess a similar (or the same) motivation must succeed at a Will saving throw or suffer a -2 penalty to any saving throws or checks associated with the sphere ability or artwork.\n\nIf the motivation is a major motivation of the creature, they gain a +4 bonus to the saving throw against this effect, although the penalty increases to -4 if they fail.\n\nYou can spend 1 use of skill leverage to also have creatures who fail their saving throw against this ability be forced to reveal the associated motivation to any creatures who are observing them. Creatures who are affected by this feat become immune to its effects for 8 hours, regardless of the result. If you do not possess the chosen motivation, affected creatures can attempt a Sense Motive check against an opposed Bluff check. If they succeed, they discover your deception and gain a +4 bonus to their saving throw against this feat."
   },
@@ -1141,8 +1140,7 @@
    "source": "",
    "url": "Other-Pages/Investigation/Investigation-Sphere-Feats#detailed-charting",
    "alsoOn": [
-    "Other-Pages/Navigation/Navigation-Sphere-Feats#detailed-charting",
-    "Spheres-Of-Power/Feats/General-Feats#detailed-charting"
+    "Other-Pages/Navigation/Navigation-Sphere-Feats#detailed-charting"
    ],
    "md": "**Prerequisites:** Investigation sphere, Navigation sphere.\n\n**Benefit:** As a standard action, you may analyze an area or target in that area while also applying your pathing to a location in that area. The targeted area, creature, or object must be within range of both your analyze and pathing abilities."
   },
@@ -1166,8 +1164,7 @@
    "source": "",
    "url": "Other-Pages/Investigation/Investigation-Sphere-Feats#speculative-analysis",
    "alsoOn": [
-    "Other-Pages/Study/Study-Sphere-Feats#speculative-analysis",
-    "Spheres-Of-Power/Feats/General-Feats#speculative-analysis"
+    "Other-Pages/Study/Study-Sphere-Feats#speculative-analysis"
    ],
    "md": "**Prerequisite:** Investigation sphere, Study sphere.\n\n**Benefit:** Whenever you successfully use the analyze Investigation sphere ability, you can begin a theory on the analyzed target as a free action. If the analyze attempt gains a detailed analysis, the theory starts with one notion.\n\nAdditionally, you gain a +1 insight bonus to analyze skill checks made against the subject of your theory for every notion the theory possesses."
   },
@@ -1729,6 +1726,28 @@
    "md": "*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*\n\n**Prerequisite:** Performance sphere; either the Gladiator sphere or War sphere.\n\n**Benefit:** You gain the following abilities based on the spheres you possess:\n\n- *Brutal Percussion (Performance sphere, War sphere)*: Creatures within the area of your acts, dance and instrumentals (or benefitting from your lyrics) are treated as if they were inside the radius of a totem you created.\n  Whenever you create a mandate, you can spend 1 spell point or increase the casting time by one step to apply the effects of a (lyric) talent you possess to the affected allies, which lasts for 1 minute.\n  Lastly, whenever you start an act, dance, or instrumental, or use a lyric, you can use your momentum ability to gain (or replenish) your momentum pool–paying any costs associated with it as normal.\n\n- *Hardcore (Gladiator sphere, Performance sphere)*: Whenever you start an act, dance, or instrumental, or use a lyric, as a free action, you can attempt an Intimidate check to demoralize a creature that is within the ability’s area or would be affected by the ability.\n  Additionally, whenever a creature contributes to one of your act’s scenes, joins your dance, or expends one of your lyrics, you can boast as an immediate action."
   },
   {
+   "id": "feat/performance-sphere-feats/hymnal-verse-dual-sphere",
+   "name": "Hymnal Verse",
+   "system": "Spheres of Guile",
+   "types": [
+    "Dual Sphere"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "Performance",
+   "spheres": [
+    "Occultism",
+    "Performance"
+   ],
+   "group": "Performance Sphere Feats",
+   "prerequisites": "Occultism sphere, Performance sphere ((lyric) package).",
+   "source": "Diamond Spheres: Harmony & Discord",
+   "url": "Other-Pages/Performance/Performance-Sphere-Feats#hymnal-verse-dual-sphere",
+   "alsoOn": [],
+   "md": "*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*\n\n**Prerequisites:** Occultism sphere, Performance sphere ((lyric) package).\n\n**Benefit:** Whenever you use a rite (and do so at least using a standard action), you can use a lyric as a free action."
+  },
+  {
    "id": "feat/song-in-your-soul",
    "name": "Song In Your Soul",
    "system": "Spheres of Guile",
@@ -1744,7 +1763,7 @@
    ],
    "group": "Performance Sphere Feats",
    "prerequisites": "Performance sphere ((instrumental or lyric) package), associated ranks 10.",
-   "source": "Diamond Spheres: Harmony & Discord",
+   "source": "Diamond Spheres: Erudition & Esoterica",
    "url": "Other-Pages/Performance/Performance-Sphere-Feats#song-in-your-soul",
    "alsoOn": [],
    "md": "*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*\n\n**Prerequisites:** Performance sphere ((instrumental or lyric) package), associated ranks 10.\n\n**Benefit:** Choose a single (instrumental) or (lyric) talent that you possess and have the appropriate package for—you gain the benefits of the chosen instrumental or lyric as a constant effect.\n\nDue to not being an actual use of this ability, it does not need to be maintained (nor does it receive benefits for being maintained), and only affects you. Such a lyric does not count towards the number of lyrics you can be affected by at one time and can still be expended, returning after 1 minute has elapsed.\n\nYou can spend 1 hour to change the chosen (instrumental) or (lyric) talent to a different talent that you possess. You cannot have both a constant instrumental and lyric active at the same time."
@@ -2370,7 +2389,7 @@
    "source": "Diamond Spheres: Erudition & Esoterica",
    "url": "Spheres-Of-Might/Alchemy/Alchemy-Sphere-Feats#compound-mutagen",
    "alsoOn": [],
-   "md": "*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*\n\n**Prerequisites:** Craft (alchemy) 10 ranks, Alchemy sphere ((toxin) package).\n**Benefit:** Whenever you create a mutagen that gives a choice between multiple options, you can choose two such options—for example, a Performance Enhancer could grant its benefits to both Strength and Dexterity, as well as its associated penalties.\n\nIf such a mutagen would only apply to a single instance of a roll (such as Psychotropic Hallucinogen), the mutagen applies to both chosen instances of the roll—for example, a Psychotropic Hallucinogen would apply to the next check made with an Intelligence-based skill check, as well as to the next check made with a Wisdom-based skill check.\n\n##### Constant Chatter\n\nThis modifies the *shout* sphere ability.\n\n**Action:** free action (once per round)\n\n**Duration:** 1 round\n\n**Target(s):** one creature (line of sight or chosen square)\n\n**Effect:** You *shout*, but only affect a single creature of your choice within range (this typically requires you target that creature, having line of sight or knowing the space they are occupying). The *shout*'s duration is reduced to 1 round and cannot be extended by other effects.\n\nYou cannot use this option with any of the following: instantaneous duration (shout)s, (dual sphere) abilities, and abilities and effects that would occur after performing a *shout*."
+   "md": "*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*\n\n**Prerequisites:** Craft (alchemy) 10 ranks, Alchemy sphere ((toxin) package).\n**Benefit:** Whenever you create a mutagen that gives a choice between multiple options, you can choose two such options—for example, a Performance Enhancer could grant its benefits to both Strength and Dexterity, as well as its associated penalties.\n\nIf such a mutagen would only apply to a single instance of a roll (such as Psychotropic Hallucinogen), the mutagen applies to both chosen instances of the roll—for example, a Psychotropic Hallucinogen would apply to the next check made with an Intelligence-based skill check, as well as to the next check made with a Wisdom-based skill check."
   },
   {
    "id": "feat/designer-drugs",
@@ -2476,6 +2495,78 @@
    "md": "You know how to better utilize your armiger abilities.\n\n**Prerequisite:** Armiger 5.\n\n**Benefit:** Gain an additional prowess for which you qualify.\n\n**Special:** This feat may be taken a second time starting at 11th and a third time starting 17th level."
   },
   {
+   "id": "feat/mounted-athlete",
+   "name": "Mounted Athlete",
+   "system": "Spheres of Might",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "Athletics",
+   "spheres": [
+    "Athletics",
+    "Beastmastery"
+   ],
+   "group": "Athletics Sphere Feats",
+   "prerequisites": "Athletics sphere, Beastmastery sphere ((ride) package).",
+   "source": "",
+   "url": "Spheres-Of-Might/Athletics/Athletics-Sphere-Feats#mounted-athlete",
+   "alsoOn": [
+    "Spheres-Of-Might/Beastmastery/Beastmastery-Sphere-Feats#mounted-athlete"
+   ],
+   "md": "The handler is often as athletic as the mount.\n\n**Prerequisites:** Athletics sphere, Beastmastery sphere ((ride) package).\n\n**Benefit:** Whenever your mount would attempt a skill check associated with an Athletics sphere package you possess, you may attempt that skill check for your mount, using your bonus in that skill. For example, if you possess the (leap) or (run) packages, you may attempt Acrobatics checks for your mount whenever your mount would attempt such a check.\n\nIn addition, you share your Athletics sphere talents with your mount. Your mount is treated as possessing any packages or talents you possess and uses your skill ranks and Athletics sphere save DC when determining the effects of shared talents.\n\nIf your mount cannot maintain martial focus, shared Athletics sphere talents do not grant the ability to maintain martial focus.\n\nAs long as you have martial focus, your mount counts as possessing martial focus when determining the benefits of shared Athletics sphere talents that require you to have martial focus (such as the Swift Movement talent). If your mount would expend martial focus to use a shared Athletics sphere talent, you must expend your martial focus and both you and your mount benefit from the shared talent’s effects (where applicable). A mount that is a practitioner and can maintain martial focus cannot use its own martial focus with shared Athletics sphere talents, but may use shared talents in combination with any talents it possesses.\n\nYour mount’s movement made using a movement mode corresponding to an Athletics sphere package you possess counts as your own movement for the purposes of Athletics sphere talents. This allows you to use Athletics sphere talents while mounted, such as using the Reflexive Twist talent to avoid an attack despite being mounted. Whenever your mount’s movement would allow you or your mount to use a (motion) talent, both you and your mount must use the same (motion) talent. If a (motion) talent would affect another creature, it only affects that creature a single time (such as the Dizzying Tumble (motion) talent only occurring once). If a (motion) talent would benefit you, it benefits both you and your mount normally (such as both you and your mount gaining miss chance from the Moving Target (motion) talent).\n\nAthletics sphere talents which allow you or your mount to take an action are only used by the creature that spent the required actions, unless both creatures spend the required actions. For example, if your mount uses the Diving Strike talent, only your mount gains the benefits and suffers the risks of the talent unless you also take the charge action with your mount, gaining the bonus damage to your attack but also suffering the fall damage."
+  },
+  {
+   "id": "feat/pouncing-sweep-combat",
+   "name": "Pouncing Sweep",
+   "system": "Spheres of Might",
+   "types": [
+    "Combat"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "Athletics",
+   "spheres": [
+    "Athletics",
+    "Open Hand"
+   ],
+   "group": "Athletics Sphere Feats",
+   "prerequisites": "Athletics sphere, Open Hand sphere.",
+   "source": "",
+   "url": "Spheres-Of-Might/Athletics/Athletics-Sphere-Feats#pouncing-sweep-combat",
+   "alsoOn": [
+    "Spheres-Of-Might/Open-Hand/Open-Hand-Sphere-Feats#pouncing-sweep-combat"
+   ],
+   "md": "**Prerequisites:** Athletics sphere, Open Hand sphere.\n\n**Benefits:** Whenever you use the sweep ability of the Open Hand sphere, you may move 5 feet immediately before performing the trip using any movement mode associated with Athletics sphere packages you possess. This movement provokes attacks of opportunity as normal. At +6 base attack bonus and every 5 base attack bonus higher, you may add up to +5 feet of movement to the sweep."
+  },
+  {
+   "id": "feat/rolling-serpent-combat",
+   "name": "Rolling Serpent",
+   "system": "Spheres of Might",
+   "types": [
+    "Combat"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "Athletics",
+   "spheres": [
+    "Athletics",
+    "Boxing"
+   ],
+   "group": "Athletics Sphere Feats",
+   "prerequisites": "Athletics sphere, Boxing sphere (Shoulder Roll).",
+   "source": "",
+   "url": "Spheres-Of-Might/Athletics/Athletics-Sphere-Feats#rolling-serpent-combat",
+   "alsoOn": [
+    "Spheres-Of-Might/Boxing/Boxing-Sphere-Feats#rolling-serpent-combat"
+   ],
+   "md": "**Prerequisites:** Athletics sphere, Boxing sphere (Shoulder Roll).\n\n**Benefits:** As long as you have martial focus, whenever a creature makes a melee attack against you while you are using a movement mode corresponding to a package you possess, you may use shoulder roll against the attack without it counting towards your one usage per round."
+  },
+  {
    "id": "feat/cerebrevores-ecstasy-combat",
    "name": "Cerebrevore’s Ecstasy",
    "system": "Spheres of Might",
@@ -2491,10 +2582,35 @@
    ],
    "group": "Barroom Sphere Feats",
    "prerequisites": "Barroom sphere, Brain Consumption.",
-   "source": "Spheres Apocrypha: Dipsomania",
+   "source": "Polished Commander & Warleader",
    "url": "Spheres-Of-Might/Barroom/Barroom-Sphere-Feats#cerebrevores-ecstasy-combat",
    "alsoOn": [],
    "md": "**Prerequisites:** Barroom sphere, Brain Consumption.\n\n**Benefit:** Whenever you consume a creature’s brain using the Brain Consumption feat, you may gain the drunk status as if you had consumed an alcoholic drink. Alternatively, while you possess a bonus talent from Brain Consumption Consumptive Intuition, you may end the bonus talent’s duration to gain the drunk status as a free action. When you gain the drunk status in either of these ways, you gain the status for double the duration (twice Constitution modifier rounds + 1 per 2 points of base attack bonus)."
+  },
+  {
+   "id": "feat/drink-and-directive-combat-dual-sphere",
+   "name": "Drink and Directive",
+   "system": "Spheres of Might",
+   "types": [
+    "Combat",
+    "Dual Sphere"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "Barroom",
+   "spheres": [
+    "Barroom",
+    "Warleader"
+   ],
+   "group": "Barroom Sphere Feats",
+   "prerequisites": "Barroom sphere; Warleader sphere.",
+   "source": "Polished Commander & Warleader",
+   "url": "Spheres-Of-Might/Barroom/Barroom-Sphere-Feats#drink-and-directive-combat-dual-sphere",
+   "alsoOn": [
+    "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Feats#drink-and-directive-combat-dual-sphere"
+   ],
+   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*The second afternoon scotch was rarely questioned by the men. Despite the slurred speech, his tactical prowess seemed sharper than ever.*\n\n**Prerequisites:** Barroom sphere; Warleader sphere.\n\n**Benefit:** You may use both *hard drinker* and *engage tactics* as part of the same action, using the longer of the two actions required.\n\nIn addition, you gain the following option:\n\n##### Belching Shout (drunk) (dual sphere)\n\n**Descriptor:** poison\n\n**Action:** as part of a *shout*\n\n**Target(s):** All other creatures\n\n**Saving Throw:** Fortitude (negates)\n\n**Effect:** Reduce the *shout*'s radius to 5 feet, + 5 feet per 4 Warleader associated skill ranks. In addition to the *shout*'s normal effects, other creatures within the *shout*'s radius are sickened for 1 minute (Fortitude negates).\n\nCreatures with the scent special ability suffer a -2 penalty to their saving throw against this effect."
   },
   {
    "id": "feat/projectile-vomit",
@@ -2512,7 +2628,7 @@
    ],
    "group": "Barroom Sphere Feats",
    "prerequisites": "Barroom sphere (Purge), base attack bonus +5.",
-   "source": "Spheres Apocrypha: Dipsomania",
+   "source": "Polished Commander & Warleader",
    "url": "Spheres-Of-Might/Barroom/Barroom-Sphere-Feats#projectile-vomit",
    "alsoOn": [],
    "md": "*Source: [Spheres Apocrypha: Dipsomania](https://www.drivethrurpg.com/product/299935/Spheres-Apocrypha-Dipsomania?affiliate_id=549120)*\n\n**Prerequisites:** Barroom sphere (Purge), base attack bonus +5.\n\n**Benefits:** When you utilize your Purge talent, you can instead perform it as a standard action, vomiting on all squares in a close-ranged cone, instead of the normal area. All affected squares are treated affected as per the Purge talent, and creatures in the cone must succeed at a Fortitude save or become sickened for one round. At base attack bonus +10 or higher, creatures that fail their Fortitude save are instead nauseated for one round, and sickened for one minute afterwards. A success negates the nauseate and reduces the sickened duration to one round."
@@ -2581,6 +2697,54 @@
    "md": "The bonds between a warrior and his faithful companions shine in combat.\n\n**Prerequisites:** Beastmastery sphere; lay on hands or sentinel’s reserve class feature, character level 3rd.\n\n**Benefit:** Whenever you would heal yourself or gain temporary hit points from your lay on hands ability or by spending a reserve point, you may also affect one animal ally within your natural reach, granting that animal ally half the numeric benefits you received as though they were targeted by the ability plus any additional effects, such as the paladin’s mercy or sentinel’s defender’s determination abilities.\n\nWhenever you restore hit points or grant temporary hit points to an animal ally within your natural reach, that animal ally gains the benefits of any damage reduction you possess from your class features for 1 round (such as damage reduction granted by the dedicated defense class feature, not damage reduction from an item, combat or magic sphere effect, or other ability).\n\n**Example:** A sentinel uses their sentinel’s reserve to gain 14 temporary hit points. One animal ally within the sentinel’s natural reach would gain 7 temporary hit points and any damage reduction the sentinel possesses for 1 round."
   },
   {
+   "id": "feat/mixed-coordinator-combat",
+   "name": "Mixed Coordinator",
+   "system": "Spheres of Might",
+   "types": [
+    "Combat"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "Beastmastery",
+   "spheres": [
+    "Beastmastery",
+    "Leadership"
+   ],
+   "group": "Beastmastery Sphere Feats",
+   "prerequisites": "Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package.",
+   "source": "",
+   "url": "Spheres-Of-Might/Beastmastery/Beastmastery-Sphere-Feats#mixed-coordinator-combat",
+   "alsoOn": [
+    "Spheres-Of-Might/Leadership/Leadership-Sphere-Feats#mixed-coordinator-combat"
+   ],
+   "md": "**Prerequisites:** Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package.\n\nWhen you tame a creature or recruit a cohort, you may choose to have its Hit Dice count against both your tame and recruit limits. When doing so, the creature counts as both an animal ally and a cohort for the purpose of talents that grant actions to or are triggered by cohorts and animal allies."
+  },
+  {
+   "id": "feat/mounted-protector",
+   "name": "Mounted Protector",
+   "system": "Spheres of Might",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "Beastmastery",
+   "spheres": [
+    "Beastmastery",
+    "Guardian"
+   ],
+   "group": "Beastmastery Sphere Feats",
+   "prerequisites": "Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package).",
+   "source": "",
+   "url": "Spheres-Of-Might/Beastmastery/Beastmastery-Sphere-Feats#mounted-protector",
+   "alsoOn": [
+    "Spheres-Of-Might/Guardian/Guardian-Sphere-Feats#mounted-protector"
+   ],
+   "md": "Your protective might is delivered on the swift heels of your mount.\n\n**Prerequisites:** Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package).\n\n**Benefit:** While mounted, you may use your mount’s movement whenever you could move as part of your patrol, provided your mount’s total movement before its next turn does not exceed its base speed. Any movement you or your mount make provoke attacks of opportunity as normal. In addition, whenever you could make an attack of opportunity as part of your patrol, you may have your mount make an attack of opportunity against that target instead.\n\n**Normal:** You cannot move with your mount as part of your patrol."
+  },
+  {
    "id": "feat/vermin-master",
    "name": "Vermin Master",
    "system": "Spheres of Might",
@@ -2600,6 +2764,30 @@
    "url": "Spheres-Of-Might/Beastmastery/Beastmastery-Sphere-Feats#vermin-master",
    "alsoOn": [],
    "md": "**Prerequisites:** Beastmastery sphere (Bee Keeper), able to tame creatures of the vermin type.\n\n**Benefit:** Swarms and creatures of the vermin type no longer count as twice their Hit Dice against the total amount of Hit Dice you may have tame at once."
+  },
+  {
+   "id": "feat/adrenaline-fueled-frenzy-combat",
+   "name": "Adrenaline-Fueled Frenzy",
+   "system": "Spheres of Might",
+   "types": [
+    "Combat"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "Berserker",
+   "spheres": [
+    "Berserker",
+    "Duelist"
+   ],
+   "group": "Berserker Sphere Feats",
+   "prerequisites": "Berserker sphere (any (adrenaline) talent), Duelist sphere (Bloodied Shark’s Frenzy), base attack bonus +3.",
+   "source": "Spheres Apocrypha: Radiant and Righteous",
+   "url": "Spheres-Of-Might/Berserker/Berserker-Sphere-Feats#adrenaline-fueled-frenzy-combat",
+   "alsoOn": [
+    "Spheres-Of-Might/Duelist/Duelist-Sphere-Feats#adrenaline-fueled-frenzy-combat"
+   ],
+   "md": "The shark’s frenzy turns to a churning rage.\n\n**Prerequisites:** Berserker sphere (any (adrenaline) talent), Duelist sphere (Bloodied Shark’s Frenzy), base attack bonus +3.\n\n**Benefit:** Whenever you enter a blood frenzy using the Bloodied Shark’s Frenzy talent, you may also gain the benefits of one (adrenaline) talent you possess for the blood frenzy’s duration. If an (adrenaline) talent requires you to expend your martial focus to use each round, you do not need to expend martial focus when first entering a blood frenzy, but must expend martial focus at the start of each subsequent round to gain the benefits of that (adrenaline).\n\n**Special:** When you successfully make a brutal strike special attack action and deal bleed damage with that attack, you may expend your martial focus as a free action to enter a blood frenzy."
   },
   {
    "id": "feat/desperate-focus-combat",
@@ -2722,6 +2910,30 @@
    "md": "**Benefit:** You require half the amount of time you otherwise would to get the benefits of a full night’s rest.\n\nIn addition, you may activate Aristeia even while unconscious (and even if your unconsciousness would make you unaware of the reason to activate Aristeia in the first place), and doing so immediately brings you fully awake. While in Aristeia, you can still suffer from crashes from the barista blacksmith’s invigorating brew class feature, but all negative crash effects, as well as any penalties from fatigue and exhaustion, are delayed until after you leave Aristeia."
   },
   {
+   "id": "feat/backup-breaker-combat",
+   "name": "Backup Breaker",
+   "system": "Spheres of Might",
+   "types": [
+    "Combat"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "Boxing",
+   "spheres": [
+    "Boxing",
+    "Dual Wielding"
+   ],
+   "group": "Boxing Sphere Feats",
+   "prerequisites": "Boxing sphere, Dual Wielding sphere.",
+   "source": "",
+   "url": "Spheres-Of-Might/Boxing/Boxing-Sphere-Feats#backup-breaker-combat",
+   "alsoOn": [
+    "Spheres-Of-Might/Dual-Wielding/Dual-Wielding-Sphere-Feats#backup-breaker-combat"
+   ],
+   "md": "**Prerequisites:** Boxing sphere, Dual Wielding sphere.\n\n**Benefit:** When you ready a counter punch to make a dual attack, you may make only the attack with your primary or off-hand weapon when your counter punch is triggered. If you do, you may make your other attack when another creature would perform an action that would trigger your counter punch before the start of your next turn. You may only apply a (counter) talent to one of these attacks made as part of this counter punch. The bonus damage from a counter punch is applied to both attacks. These counter punches count as attacks in a dual attack for the purposes of Dual Wielding talents."
+  },
+  {
    "id": "feat/stinging-bee-combat",
    "name": "Stinging Bee",
    "system": "Spheres of Might",
@@ -2762,6 +2974,29 @@
    "md": "Your expertise extends to a new battlefield environment.\n\n**Prerequisite:** Commander 5.\n\n**Benefit:** Gain an additional battlefield specialization for which you qualify.\n\n**Special:** This feat may be taken a second time starting at 11th and a third time starting 17th level."
   },
   {
+   "id": "feat/dual-wielding-mystic-fusion",
+   "name": "Dual Wielding Mystic Fusion",
+   "system": "Spheres of Might",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "Dual Wielding",
+   "spheres": [
+    "Dual Wielding"
+   ],
+   "group": "Dual Wielding Sphere Feats",
+   "prerequisites": "Dual Wielding Sphere, Spherecasting.",
+   "source": "",
+   "url": "Spheres-Of-Might/Dual-Wielding/Dual-Wielding-Sphere-Feats#dual-wielding-mystic-fusion",
+   "alsoOn": [
+    "Spheres-Of-Power/Feats/Champion-Feats#dual-wielding-mystic-fusion"
+   ],
+   "md": "**Prerequisites:** Dual Wielding Sphere, Spherecasting.\n\n**Benefit:** As a special attack action, while you have martial focus you can use your Dual Attack or Combo Maneuvers ability with a sphere ability in place of your first offhand weapon attack. The ability must be one that requires a touch attack or that can be made with a weapon attack and that can be cast with a standard action. The sphere ability has its caster level (excluding enhancement bonuses) limited to your BAB and provokes attacks of opportunity normally.\n\nIf the sphere ability is a ranged attack, it does not provoke an attack of opportunity if you possess the Mixed Assault talent."
+  },
+  {
    "id": "feat/harmonious-swordplay-combat",
    "name": "Harmonious Swordplay",
    "system": "Spheres of Might",
@@ -2783,6 +3018,30 @@
    "md": "**Prerequisites:** Dual Wielding sphere, Improved Unarmed Strike.\n\n**Benefits:** As long as you have martial focus, dual attacks made with a manufactured weapon and an unarmed strike remove the attack penalty from dual attack for one manufactured weapon (as long as it is not being treated as an unarmed strike), and any unarmed strikes add your full Strength bonus to damage rolls instead of half for an off-hand attack."
   },
   {
+   "id": "feat/bloodrunner",
+   "name": "Bloodrunner",
+   "system": "Spheres of Might",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "Duelist",
+   "spheres": [
+    "Blood",
+    "Duelist"
+   ],
+   "group": "Duelist Sphere Feats",
+   "prerequisites": "Blood sphere or Duelist sphere, character level 7th.",
+   "source": "Polished Commander & Warleader",
+   "url": "Spheres-Of-Might/Duelist/Duelist-Sphere-Feats#bloodrunner",
+   "alsoOn": [
+    "Spheres-Of-Power/Blood/Blood-Sphere-Feats#bloodrunner"
+   ],
+   "md": "**Prerequisites:** Blood sphere or Duelist sphere, character level 7th.\n\n**Benefit:** Your body has grown a tolerance for the blood of others, and you have learned to use it to your advantage. You ignore any detriment from traversing on bloody terrain, such as difficult terrain or the terrain being considered slippery (as long as blood is the only reason that terrain is detrimental), and you gain a +2 bonus on all saving throws against bleed effects and any effect from the Blood sphere. You can distinctly tell the difference between the blood of any two creatures, and can identify the blood of creatures you have witnessed before. You can attempt a Knowledge check to identify a creature by merely witnessing its blood, as if you had seen the creature by sight, but only if the blood was shed within an hour of you attempting to identify it."
+  },
+  {
    "id": "feat/great-iaijutsu",
    "name": "Great Iaijutsu",
    "system": "Spheres of Might",
@@ -2798,10 +3057,34 @@
    ],
    "group": "Duelist Sphere Feats",
    "prerequisites": "Duelist sphere (Iai Slash (bleed)), base attack bonus +5.",
-   "source": "",
+   "source": "Polished Commander & Warleader",
    "url": "Spheres-Of-Might/Duelist/Duelist-Sphere-Feats#great-iaijutsu",
    "alsoOn": [],
    "md": "**Prerequisites:** Duelist sphere (Iai Slash (bleed)), base attack bonus +5.\n\n**Benefit:** When utilizing your Iai Slash talent, you may expend your martial focus to additionally apply the effects of one (bleed) talent other than Iai Slash to a single creature struck as part of the talent. If you have more than one martial focus, you may expend two martial focuses to instead apply that (bleed) talent to all creatures struck."
+  },
+  {
+   "id": "feat/hunting-party-combat",
+   "name": "Hunting Party",
+   "system": "Spheres of Might",
+   "types": [
+    "Combat"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "Duelist",
+   "spheres": [
+    "Duelist",
+    "Warleader"
+   ],
+   "group": "Duelist Sphere Feats",
+   "prerequisites": "Warleader sphere 5 associated skill ranks; Duelist sphere; Warleader sphere.",
+   "source": "Polished Commander & Warleader",
+   "url": "Spheres-Of-Might/Duelist/Duelist-Sphere-Feats#hunting-party-combat",
+   "alsoOn": [
+    "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Feats#hunting-party-combat"
+   ],
+   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*Blood draws a crowd, and a crowd draws blood.*\n\n**Prerequisites:** Warleader sphere 5 associated skill ranks; Duelist sphere; Warleader sphere.\n\n**Benefit:** You and allies benefitting from your Warleader sphere effects gain a +2 bonus on critical confirmation rolls against bleeding targets and a +2 bonus on Perception and Survival checks made against bleeding targets. These bonuses increase to +4 at 10 associated skill ranks.\n\nIn addition, you gain the following option:\n\n##### Carve Them Up! (shout) (dual sphere)\n\n**Duration:** 2 rounds, +1 round per 4 associated skill ranks\n\n**Target(s):** allies\n\n**Effect:** When an ally hits a bleeding target, increase the bleeding target's current bleed by 1. A bleeding target can only have their bleed increased this way once per round per attacker.\n\nIf the attack is a critical hit, instead increase the bleeding target's current bleed by the weapon's critical hit multiplier, then the target takes damage from their current total bleed (as though starting their turn)."
   },
   {
    "id": "feat/zodiac-tattoos",
@@ -2825,6 +3108,79 @@
    "md": "Mystical tattoos ward you from harm and transform your skin into protective armor.\n\n**Prerequisites:** Craft (tattoos) 5 ranks, Unarmored Training or AC Bonus class feature.\n\n**Benefit:** Covering your body in these intricate tattoos etched by your own hand, you gain the ability to have your skin enchanted with armor special abilities as though it was a suit of +1 leather armor. You cannot have a total bonus of armor special abilities higher than +6. You cannot use this ability to add any armor special abilities that add a flat gp amount to their cost instead of a bonus equivalent.\n\n* This feat is previously published, and is reprinted here for ease of use."
   },
   {
+   "id": "feat/understand-thy-enemy",
+   "name": "Understand Thy Enemy",
+   "system": "Spheres of Might",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "Fencing",
+   "spheres": [
+    "Fencing",
+    "Scout"
+   ],
+   "group": "Fencing Sphere Feats",
+   "prerequisites": "Fencing sphere (Read Foe, Parry And Riposte) or Fencing sphere (Read Foe) and opportune parry and riposte deed, Scout sphere.",
+   "source": "Spheres Apocrypha: Swashbucklers",
+   "url": "Spheres-Of-Might/Fencing/Fencing-Sphere-Feats#understand-thy-enemy",
+   "alsoOn": [
+    "Spheres-Of-Might/Scout/Scout-Sphere-Feats#understand-thy-enemy"
+   ],
+   "md": "*Source: [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)*\n\n**Prerequisites:** Fencing sphere (Read Foe, Parry And Riposte) or Fencing sphere (Read Foe) and opportune parry and riposte deed, Scout sphere.\n\n**Benefit:** Whenever you scout a creature, the next parry and riposte you use against that creature does not cost martial focus, an attack of opportunity, or a panache point. When used in this way, the ability does not require you to have a panache point to perform an attack and you do not regain martial focus."
+  },
+  {
+   "id": "feat/wiggling-footsies-combat",
+   "name": "Wiggling Footsies",
+   "system": "Spheres of Might",
+   "types": [
+    "Combat"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "Fencing",
+   "spheres": [
+    "Fencing",
+    "Scout"
+   ],
+   "group": "Fencing Sphere Feats",
+   "prerequisites": "Fencing sphere (Footwork), Scout sphere (Calibrating Wiggle).",
+   "source": "Spheres Apocrypha: Swashbucklers",
+   "url": "Spheres-Of-Might/Fencing/Fencing-Sphere-Feats#wiggling-footsies-combat",
+   "alsoOn": [
+    "Spheres-Of-Might/Scout/Scout-Sphere-Feats#wiggling-footsies-combat"
+   ],
+   "md": "**Prerequisites:** Fencing sphere (Footwork), Scout sphere (Calibrating Wiggle).\n\n**Benefits:** Whenever you use the Fencing sphere Footwork talent in response to an attack made against you, you may also scout the attacker. If you successfully avoid the attack (e.g. missing or succeeding at a Reflex saving throw) and you have scouted the attacker (whether previously scouted or as part of this ability), you gain the Scout sphere Calibrating Wiggle’s bonus precision damage on your first successful attack made against the attacker before the end of your next turn, even if you do not make a charge attack against them.\n\nIn addition, whenever you deal the Scout sphere Calibrating Wiggle’s bonus precision damage to a target, you may regain martial focus as a free action that can be taken even when it is not your turn.\n\n**Special:** Abilities which function similarly to the Fencing sphere Footwork talent may be used to qualify for this feat in place of the Footwork talent (such as the Warp sphere Emergency Teleport talent, swashbuckler’s dodging panache deed, or other ability subject to GM discretion), and may treat evading an attack with such an abilities as using the Footwork talent for the purposes of this feat."
+  },
+  {
+   "id": "feat/booming-boast-combat-dual-sphere",
+   "name": "Booming Boast",
+   "system": "Spheres of Might",
+   "types": [
+    "Combat",
+    "Dual Sphere"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "Gladiator",
+   "spheres": [
+    "Gladiator",
+    "Warleader"
+   ],
+   "group": "Gladiator Sphere Feats",
+   "prerequisites": "Gladiator sphere, Warleader sphere ((shout) package).",
+   "source": "Polished Commander & Warleader",
+   "url": "Spheres-Of-Might/Gladiator/Gladiator-Sphere-Feats#booming-boast-combat-dual-sphere",
+   "alsoOn": [
+    "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Feats#booming-boast-combat-dual-sphere"
+   ],
+   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*Confident and loud.*\n\n**Prerequisites:** Gladiator sphere, Warleader sphere ((shout) package).\n\n**Benefit:** Whenever you *boast*, you may instead *shout*. Enemies affected by your *shouts* are treated as being demoralized for the purposes of your Gladiator (demoralization) talents."
+  },
+  {
    "id": "feat/overwatch-combat",
    "name": "Overwatch",
    "system": "Spheres of Might",
@@ -2840,10 +3196,34 @@
    ],
    "group": "Guardian Sphere Feats",
    "prerequisites": "Covering Fire talent, Guardian sphere (patrol package)",
-   "source": "",
+   "source": "Polished Commander & Warleader",
    "url": "Spheres-Of-Might/Guardian/Guardian-Sphere-Feats#overwatch-combat",
    "alsoOn": [],
    "md": "**Prerequisites:** Covering Fire talent, Guardian sphere (patrol package)\n\n**Benefit:** You may treat the area you threaten with the Covering Fire talent as if it were a patrol, benefiting from guardian sphere talents as normal, except that you cannot move within this threatened area outside of normal turn order like with a standard patrol."
+  },
+  {
+   "id": "feat/tactical-patrol-combat",
+   "name": "Tactical Patrol",
+   "system": "Spheres of Might",
+   "types": [
+    "Combat"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "Guardian",
+   "spheres": [
+    "Guardian",
+    "Warleader"
+   ],
+   "group": "Guardian Sphere Feats",
+   "prerequisites": "Guardian sphere ((patrol) package); Warleader sphere ((tactic) package).",
+   "source": "Polished Commander & Warleader",
+   "url": "Spheres-Of-Might/Guardian/Guardian-Sphere-Feats#tactical-patrol-combat",
+   "alsoOn": [
+    "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Feats#tactical-patrol-combat"
+   ],
+   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n**Prerequisites:** Guardian sphere ((patrol) package); Warleader sphere ((tactic) package).\n\n**Benefit:** Your *tactic* always includes the area of your *patrol*, even if you centered your *tactic* elsewhere.\n\nIn addition, you gain the following option:\n\n- **Engaging Patrol (dual sphere):** Whenever you *patrol*, you may *engage tactics* as part of that same action. If you do, instead of selecting a (zone) talent, you may select an additional (tactic); the chosen (tactic)'s *tactical presence* and *tactical coordination* apply to the area of your patrol."
   },
   {
    "id": "feat/camp-of-operations",
@@ -3176,7 +3556,7 @@
    ],
    "group": "Scout Sphere Feats",
    "prerequisites": "Perception 5 ranks, Scout sphere.",
-   "source": "",
+   "source": "Spheres Apocrypha: Swashbucklers",
    "url": "Spheres-Of-Might/Scout/Scout-Sphere-Feats#observant-oppurrtunist-combat",
    "alsoOn": [],
    "md": "The soft paws pace around their target, slowly analyzing and waiting for the moment to pounce.\n\n**Prerequisites:** Perception 5 ranks, Scout sphere.\n\n**Benefits:** The first attack of opportunity you make each round against a scouted target does not require you to expend an attack of opportunity.\n\nAfter a successful attack action or attack of opportunity against an unscouted target, you may scout that target as an immediate action. You may expend 1 attack of opportunity to use this ability instead of spending an immediate action. A scout attempt made this way is performed before damage is rolled (and may allow you to use effects or abilities which apply against a scouted target as part of this attack)."
@@ -3197,7 +3577,7 @@
    ],
    "group": "Scout Sphere Feats",
    "prerequisites": "Scout sphere, studied target or studied combat class feature.",
-   "source": "",
+   "source": "Spheres Apocrypha: Swashbucklers",
    "url": "Spheres-Of-Might/Scout/Scout-Sphere-Feats#studied-scout",
    "alsoOn": [],
    "md": "**Prerequisites:** Scout sphere, studied target or studied combat class feature.\n\n**Benefit:** When you use your studied target or studied combat class feature, you may use your scout ability on the same target as a free action."
@@ -3218,7 +3598,7 @@
    ],
    "group": "Scout Sphere Feats",
    "prerequisites": "Scout sphere, favored enemy class feature.",
-   "source": "",
+   "source": "Spheres Apocrypha: Swashbucklers",
    "url": "Spheres-Of-Might/Scout/Scout-Sphere-Feats#target-spotting",
    "alsoOn": [],
    "md": "**Prerequisites:** Scout sphere, favored enemy class feature.\n\n**Benefit:** Whenever you scout an enemy, you may expend your martial focus to treat them, for the duration of the scout, as your favored enemy for the purpose of your favored enemy ability. You receive the maximum bonuses against them that your favored enemy feature can grant."
@@ -3243,6 +3623,30 @@
    "md": "**Prerequisites:** Sentinel’s reserve class feature.\n\n**Benefit:** Choose an (aegis) talent from the [[Protection]] sphere. You may create that aegis as a supernatural ability, but only on yourself, using points from your reserve in place of spell points. For the purpose of this aegis, your caster level is equal to your sentinel level, and your casting ability is the ability used to determine your reserve points. You may acquire this feat multiple times, choosing a different (aegis) talent each time."
   },
   {
+   "id": "feat/escutcheon-combat",
+   "name": "Escutcheon",
+   "system": "Spheres of Might",
+   "types": [
+    "Combat"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "Shield",
+   "spheres": [
+    "Shield",
+    "Warleader"
+   ],
+   "group": "Shield Sphere Feats",
+   "prerequisites": "Shield sphere; Warleader sphere (Heraldry) or banner class feature.",
+   "source": "Polished Commander & Warleader",
+   "url": "Spheres-Of-Might/Shield/Shield-Sphere-Feats#escutcheon-combat",
+   "alsoOn": [
+    "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Feats#escutcheon-combat"
+   ],
+   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*A shield can guard a body. Yours guards an army.*\n\n**Prerequisites:** Shield sphere; Warleader sphere (Heraldry) or banner class feature.\n\n**Benefit:** When using your standard as a shield, you increase the radius of your Warleader sphere abilities by 5 feet, +5 feet per enhancement bonus of your shield.\n\nIn addition, you gain the following option:\n\n##### Clangorous Shout (deflect) (dual sphere)\n\n**Effect:** When an attack misses a creature benefitting from your *active defense*, you *shout*. A *shout* performed this way only affects a single target within range. If the chosen (shout) affects enemies, you must target the attacking creature that missed."
+  },
+  {
    "id": "feat/iron-palm-combat",
    "name": "Iron Palm",
    "system": "Spheres of Might",
@@ -3258,7 +3662,7 @@
    ],
    "group": "Shield Sphere Feats",
    "prerequisites": "Shield sphere, Improved Unarmed Strike.",
-   "source": "",
+   "source": "Polished Commander & Warleader",
    "url": "Spheres-Of-Might/Shield/Shield-Sphere-Feats#iron-palm-combat",
    "alsoOn": [],
    "md": "**Prerequisite:** Shield sphere, Improved Unarmed Strike.\n\n**Benefit:** As long as you have one hand free, your free hand is considered to be a shield for the purposes of using active defense and talents that augment active defense. Talents that require you to be wielding a shield or have a shield equipped such as Deflecting Shield, Hardened Shield and Shield Skate do not gain the benefits of this talent.\n\nAdditionally, the talents you possess within the Shield sphere count towards your unarmed damage progression.\n\n**Author's Note:** This feat does not allow you to perform shield bashes with a free hand or unarmed strike."
@@ -3679,7 +4083,7 @@
    "source": "Polished Commander & Warleader",
    "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Feats#constant-chatter-combat",
    "alsoOn": [],
-   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*You never learned how to stop talking. You have learned how to make it count.*\n\n**Prerequisites:** Warleader associated skill 6 ranks; Warleader ((shout) package).\n\n**Benefit:** You gain the following option:"
+   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*You never learned how to stop talking. You have learned how to make it count.*\n\n**Prerequisites:** Warleader associated skill 6 ranks; Warleader ((shout) package).\n\n**Benefit:** You gain the following option:\n\n##### Constant Chatter\n\nThis modifies the *shout* sphere ability.\n\n**Action:** free action (once per round)\n\n**Duration:** 1 round\n\n**Target(s):** one creature (line of sight or chosen square)\n\n**Effect:** You *shout*, but only affect a single creature of your choice within range (this typically requires you target that creature, having line of sight or knowing the space they are occupying). The *shout*'s duration is reduced to 1 round and cannot be extended by other effects.\n\nYou cannot use this option with any of the following: instantaneous duration (shout)s, (dual sphere) abilities, and abilities and effects that would occur after performing a *shout*."
   },
   {
    "id": "feat/improvised-doctrine-combat",
@@ -4528,30 +4932,6 @@
    "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#blood-thirst",
    "alsoOn": [],
    "md": "**Prerequisites:** Blood sphere, bite attack.\n\n**Benefit:** You gain the blood drain universal monster ability with your bite attack, and thus may inflict 1 point of Constitution damage whenever you end a turn grappling a creature. Additionally, each time you inflict Constitution damage with this ability, you heal a number of hit points equal to the creature’s Hit Dice. You cannot heal more than 10 hit points per character level per day using this ability."
-  },
-  {
-   "id": "feat/bloodrunner",
-   "name": "Bloodrunner",
-   "system": "Spheres of Power",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "Blood",
-   "spheres": [
-    "Blood",
-    "Duelist"
-   ],
-   "group": "Blood Sphere Feats",
-   "prerequisites": "Blood sphere or Duelist sphere, character level 7th.",
-   "source": "",
-   "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#bloodrunner",
-   "alsoOn": [
-    "Spheres-Of-Power/Feats/General-Feats#bloodrunner"
-   ],
-   "md": "**Prerequisites:** Blood sphere or Duelist sphere, character level 7th.\n\n**Benefit:** Your body has grown a tolerance for the blood of others, and you have learned to use it to your advantage. You ignore any detriment from traversing on bloody terrain, such as difficult terrain or the terrain being considered slippery (as long as blood is the only reason that terrain is detrimental), and you gain a +2 bonus on all saving throws against bleed effects and any effect from the Blood sphere. You can distinctly tell the difference between the blood of any two creatures, and can identify the blood of creatures you have witnessed before. You can attempt a Knowledge check to identify a creature by merely witnessing its blood, as if you had seen the creature by sight, but only if the blood was shed within an hour of you attempting to identify it."
   },
   {
    "id": "feat/bonds-of-blood-and-power-dual-sphere",
@@ -10826,29 +11206,6 @@
    "md": "**Prerequisites:** Counterspell feat, ability to gain martial focus.\n\nWhen you damage a creature while using an attack action, you may expend martial focus as a swift action to use Counterspell targeting that creature or its attended items. Additionally, you gain a +1 bonus to your MSB for the purposes of counterspelling, to a maximum MSB equal to your Hit Dice."
   },
   {
-   "id": "feat/dual-wielding-mystic-fusion",
-   "name": "Dual Wielding Mystic Fusion",
-   "system": "Champions",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [
-    "Dual Wielding"
-   ],
-   "group": "Champion Feats",
-   "prerequisites": "Dual Wielding Sphere, Spherecasting.",
-   "source": "Diamond Spheres: Hustle & Bustle",
-   "url": "Spheres-Of-Power/Feats/Champion-Feats#dual-wielding-mystic-fusion",
-   "alsoOn": [
-    "Spheres-Of-Power/Feats/General-Feats#dual-wielding-mystic-fusion"
-   ],
-   "md": "**Prerequisites:** Dual Wielding Sphere, Spherecasting.\n\n**Benefit:** As a special attack action, while you have martial focus you can use your Dual Attack or Combo Maneuvers ability with a sphere ability in place of your first offhand weapon attack. The ability must be one that requires a touch attack or that can be made with a weapon attack and that can be cast with a standard action. The sphere ability has its caster level (excluding enhancement bonuses) limited to your BAB and provokes attacks of opportunity normally.\n\nIf the sphere ability is a ranged attack, it does not provoke an attack of opportunity if you possess the Mixed Assault talent."
-  },
-  {
    "id": "feat/dual-wielding-mystic-strike",
    "name": "Dual Wielding Mystic Strike",
    "system": "Champions",
@@ -12003,28 +12360,6 @@
    "md": "**Benefit:** You may spend a kismet point to roll a d6 as a free action. At any time until you next regain kismet you may spend an immediate action to add the result of one of those die rolls to any attack roll, damage roll, or CMB, skill, or ability check. You may decide to use this after you roll but before you know the result. You may only have one use of Weighted Dice active at a time, and once you have used a die roll, it is expended.\n\n---\n\n*Archived: [[Chance Feats (Original)|Original version]] (from before *Ultimate Spheres of Power*)*"
   },
   {
-   "id": "feat/adrenaline-fueled-frenzy-combat",
-   "name": "Adrenaline-Fueled Frenzy",
-   "system": "Spheres of Power",
-   "types": [
-    "Combat"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [
-    "Berserker",
-    "Duelist"
-   ],
-   "group": "Combat Feats",
-   "prerequisites": "Berserker sphere (any (adrenaline) talent), Duelist sphere (Bloodied Shark’s Frenzy), base attack bonus +3.",
-   "source": "Ultimate Spheres of Power",
-   "url": "Spheres-Of-Power/Feats/Combat-Feats#adrenaline-fueled-frenzy-combat",
-   "alsoOn": [],
-   "md": "The shark’s frenzy turns to a churning rage.\n\n**Prerequisites:** Berserker sphere (any (adrenaline) talent), Duelist sphere (Bloodied Shark’s Frenzy), base attack bonus +3.\n\n**Benefit:** Whenever you enter a blood frenzy using the Bloodied Shark’s Frenzy talent, you may also gain the benefits of one (adrenaline) talent you possess for the blood frenzy’s duration. If an (adrenaline) talent requires you to expend your martial focus to use each round, you do not need to expend martial focus when first entering a blood frenzy, but must expend martial focus at the start of each subsequent round to gain the benefits of that (adrenaline).\n\n**Special:** When you successfully make a brutal strike special attack action and deal bleed damage with that attack, you may expend your martial focus as a free action to enter a blood frenzy."
-  },
-  {
    "id": "feat/aligned-attacks-combat",
    "name": "Aligned Attacks",
    "system": "Spheres of Power",
@@ -12125,51 +12460,6 @@
    "md": "**Prerequisite:** Int 13.\n\n**Benefit:** As long as you are last in the initiative count, use your Intelligence modifier for attack rolls in place of the ability modifier that you would normally use."
   },
   {
-   "id": "feat/backup-breaker-combat",
-   "name": "Backup Breaker",
-   "system": "Spheres of Power",
-   "types": [
-    "Combat"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [
-    "Boxing",
-    "Dual Wielding"
-   ],
-   "group": "Combat Feats",
-   "prerequisites": "Boxing sphere, Dual Wielding sphere.",
-   "source": "Ultimate Spheres of Power",
-   "url": "Spheres-Of-Power/Feats/Combat-Feats#backup-breaker-combat",
-   "alsoOn": [],
-   "md": "**Prerequisites:** Boxing sphere, Dual Wielding sphere.\n\n**Benefit:** When you ready a counter punch to make a dual attack, you may make only the attack with your primary or off-hand weapon when your counter punch is triggered. If you do, you may make your other attack when another creature would perform an action that would trigger your counter punch before the start of your next turn. You may only apply a (counter) talent to one of these attacks made as part of this counter punch. The bonus damage from a counter punch is applied to both attacks. These counter punches count as attacks in a dual attack for the purposes of Dual Wielding talents."
-  },
-  {
-   "id": "feat/booming-boast-combat-dual-sphere",
-   "name": "Booming Boast",
-   "system": "Spheres of Power",
-   "types": [
-    "Combat",
-    "Dual Sphere"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [
-    "Gladiator",
-    "Warleader"
-   ],
-   "group": "Combat Feats",
-   "prerequisites": "Gladiator sphere, Warleader sphere ((shout) package).",
-   "source": "Ultimate Spheres of Power",
-   "url": "Spheres-Of-Power/Feats/Combat-Feats#booming-boast-combat-dual-sphere",
-   "alsoOn": [],
-   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*Confident and loud.*\n\n**Prerequisites:** Gladiator sphere, Warleader sphere ((shout) package).\n\n**Benefit:** Whenever you *boast*, you may instead *shout*. Enemies affected by your *shouts* are treated as being demoralized for the purposes of your Gladiator (demoralization) talents."
-  },
-  {
    "id": "feat/calculated-shot-combat",
    "name": "Calculated Shot",
    "system": "Spheres of Power",
@@ -12183,7 +12473,7 @@
    "spheres": [],
    "group": "Combat Feats",
    "prerequisites": "Int 13, Focused Shot, Point-Blank Shot, Precise Shot.",
-   "source": "Polished Commander & Warleader",
+   "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#calculated-shot-combat",
    "alsoOn": [],
    "md": "Attack smarter, not harder.\n\n**Prerequisites:** Int 13, Focused Shot, Point-Blank Shot, Precise Shot.\n\n**Benefit:** You may use Focused Shot with any ranged weapon, not just bows or crossbows. You gain a +2 bonus to attack and damage rolls when using Focused Shot. If using Spheres of Might, this counts as a special attack action."
@@ -12202,7 +12492,7 @@
    "spheres": [],
    "group": "Combat Feats",
    "prerequisites": "Arcane Strike or Imbued Strike.",
-   "source": "Polished Commander & Warleader",
+   "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#champions-strike-combat",
    "alsoOn": [],
    "md": "**Prerequisite:** Arcane Strike or Imbued Strike.\n\n**Benefit:** Your arcane strike or imbued strike is in effect at all times without you needing to take an action to activate it. In addition, when you use this ability with an attack action that only affects one target and has only one attack roll, the bonus on damage rolls for your strike is increased 100% for every +5 base attack bonus you possess."
@@ -12221,7 +12511,7 @@
    "spheres": [],
    "group": "Combat Feats",
    "prerequisites": "Tail natural attack, base attack bonus +6.",
-   "source": "Polished Commander & Warleader",
+   "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#cherufe-sweep-combat",
    "alsoOn": [],
    "md": "*Source: [The Player's Guide to Skybourne](https://www.drivethrurpg.com/product/173399/The-Players-Guide-to-Skybourne?affiliate_id=549120)*\n\nWith lightning reflexes, you sweep your tail against an opponent that has left them exposed, knocking them down.\n\n**Prerequisites:** Tail natural attack, base attack bonus +6.\n\n**Benefit:** When using your tail to make an attack of opportunity, you may make a free trip combat maneuver that does not provoke attacks of opportunity against a target if you successfully hit it.\n\n**Special:** If you possess the Improved Trip feat or are otherwise unable to provoke an attack of opportunity when making a trip attempt, you gain a +2 bonus to your CMB with this trip attempt."
@@ -12363,29 +12653,6 @@
    "md": "**Benefit:** Whenever you are rallied, you receive a +4 dodge bonus to AC until the end of your next turn."
   },
   {
-   "id": "feat/drink-and-directive-combat-dual-sphere",
-   "name": "Drink and Directive",
-   "system": "Spheres of Power",
-   "types": [
-    "Combat",
-    "Dual Sphere"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [
-    "Barroom",
-    "Warleader"
-   ],
-   "group": "Combat Feats",
-   "prerequisites": "Barroom sphere; Warleader sphere.",
-   "source": "The Player's Guide to Skybourne",
-   "url": "Spheres-Of-Power/Feats/Combat-Feats#drink-and-directive-combat-dual-sphere",
-   "alsoOn": [],
-   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*The second afternoon scotch was rarely questioned by the men. Despite the slurred speech, his tactical prowess seemed sharper than ever.*\n\n**Prerequisites:** Barroom sphere; Warleader sphere.\n\n**Benefit:** You may use both *hard drinker* and *engage tactics* as part of the same action, using the longer of the two actions required.\n\nIn addition, you gain the following option:"
-  },
-  {
    "id": "feat/elemental-might-combat",
    "name": "Elemental Might",
    "system": "Spheres of Power",
@@ -12399,7 +12666,7 @@
    "spheres": [],
    "group": "Combat Feats",
    "prerequisites": "Ability to maintain martial focus, base attack bonus +1.",
-   "source": "Polished Commander & Warleader",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#elemental-might-combat",
    "alsoOn": [],
    "md": "You channel the elements through decisive strikes and furtive determination.\n\n**Prerequisites:** Ability to maintain martial focus, base attack bonus +1.\n\n**Benefit:** Whenever you make an attack action or attack of opportunity, you may expend your martial focus and choose acid, cold, electricity, or fire. If you do, your attack deals additional energy damage of the chosen type equal to 1d6 + your base attack bonus.\n\nWhenever you perform an attack action and expend martial focus to deal additional damage with a combat sphere ability (such as with Berserker sphere’s brutal strike or Fencing sphere’s fatal thrust precision damage modified with the Skewer talent), you may choose to have the additional damage be dealt as acid, cold, electricity, or fire damage, chosen when performing the attack action.\n\n**Note:** Fencing sphere fatal thrust damage is still precision damage, even if it would be dealt as energy damage rather than physical damage. Other attack action additional damage is likewise subject to any targeting restrictions or immunities a target might possess.\n\n**Special:** Elemental Might is treated as the Elemental Fist feat (Pathfinder Roleplaying Game: Advanced Player’s Guide) for the purposes of prerequisites. You treat maintaining martial focus as having 1 or more uses of the Elemental Fist feat; if an ability or effect would allow you to expend 1 or more uses of the Elemental Fist feat, you may expend your martial focus instead. Whenever you expend martial focus to deal energy damage with this feat (either with this feat or by converting an attack action’s additional damage), this damage is treated as damage dealt by the Elemental Fist feat for the purposes of other abilities and effects."
@@ -12420,32 +12687,10 @@
    ],
    "group": "Combat Feats",
    "prerequisites": "Destruction sphere (Energy Sphere (blast shape)).",
-   "source": "Polished Commander & Warleader",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#energy-snake-combat",
    "alsoOn": [],
    "md": "**Prerequisites:** Destruction sphere (Energy Sphere (blast shape)).\n\n**Benefit:** When using the Energy Sphere blast shape, you may spend 2 spell points instead of 1 to form the energy sphere into a serpent, which grows with every target it damages. Whenever the energy sphere successfully deals damage to a target, its size increases by 1 5-foot square. When moving the energy sphere each round, its squares must be arranged contiguously in an arrangement that follows the movement of the ‘head’ of the serpent."
-  },
-  {
-   "id": "feat/escutcheon-combat",
-   "name": "Escutcheon",
-   "system": "Spheres of Power",
-   "types": [
-    "Combat"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [
-    "Shield",
-    "Warleader"
-   ],
-   "group": "Combat Feats",
-   "prerequisites": "Shield sphere; Warleader sphere (Heraldry) or banner class feature.",
-   "source": "Polished Commander & Warleader",
-   "url": "Spheres-Of-Power/Feats/Combat-Feats#escutcheon-combat",
-   "alsoOn": [],
-   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*A shield can guard a body. Yours guards an army.*\n\n**Prerequisites:** Shield sphere; Warleader sphere (Heraldry) or banner class feature.\n\n**Benefit:** When using your standard as a shield, you increase the radius of your Warleader sphere abilities by 5 feet, +5 feet per enhancement bonus of your shield.\n\nIn addition, you gain the following option:\n\n##### Clangorous Shout (deflect) (dual sphere)\n\n**Effect:** When an attack misses a creature benefitting from your *active defense*, you *shout*. A *shout* performed this way only affects a single target within range. If the chosen (shout) affects enemies, you must target the attacking creature that missed."
   },
   {
    "id": "feat/extend-stance-combat",
@@ -12461,7 +12706,7 @@
    "spheres": [],
    "group": "Combat Feats",
    "prerequisites": "Any (stance) talent.",
-   "source": "Polished Commander & Warleader",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#extend-stance-combat",
    "alsoOn": [],
    "md": "**Prerequisite:** Any (stance) talent.\n\n**Benefit:** Whenever you successfully damage a creature with an attack action, you may choose to extend the duration of one of your active (stance) talents by 1 round."
@@ -12480,7 +12725,7 @@
    "spheres": [],
    "group": "Combat Feats",
    "prerequisites": "Tail natural attack, base attack bonus +6.",
-   "source": "Polished Commander & Warleader",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#flexible-tail-combat",
    "alsoOn": [],
    "md": "*Source: [The Player's Guide to Skybourne](https://www.drivethrurpg.com/product/173399/The-Players-Guide-to-Skybourne?affiliate_id=549120)*\n\n**Prerequisites:** Tail natural attack, base attack bonus +6.\n\n**Benefit:** You may use your tail as a normal natural attack, and are no longer limited to only using it to make attacks of opportunity."
@@ -12600,28 +12845,6 @@
    "md": "**Prerequisites:** Ability to gain martial focus, Constitution 13 or higher.\n\n**Benefit:** As a move action, you may expend focus to suppress a single instance of the dazzled, fatigued, shaken, or sickened condition for a number of rounds equal to your Constitution modifier (minimum 1). The duration of these conditions continues to expire while suppressed. You may instead choose to treat the frightened condition as shaken, the nauseated condition as sickened, the exhausted condition as fatigued, or the blinded condition as dazzled for the same duration. You may take this move action even if the condition would normally prevent you from taking move actions. You may only have one condition suppressed at a time; suppressing an additional condition forces you to stop suppressing the previous condition.\n\nIf your base attack bonus is +10 or higher, you may suppress the dazed, frightened, nauseated, shaken, staggered, and stunned conditions and treat the panicked condition as shaken, though the duration of the suppression is cut in half (minimum 1 round)."
   },
   {
-   "id": "feat/hunting-party-combat",
-   "name": "Hunting Party",
-   "system": "Spheres of Power",
-   "types": [
-    "Combat"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [
-    "Duelist",
-    "Warleader"
-   ],
-   "group": "Combat Feats",
-   "prerequisites": "Warleader sphere 5 associated skill ranks; Duelist sphere; Warleader sphere.",
-   "source": "The Player's Guide to Skybourne",
-   "url": "Spheres-Of-Power/Feats/Combat-Feats#hunting-party-combat",
-   "alsoOn": [],
-   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*Blood draws a crowd, and a crowd draws blood.*\n\n**Prerequisites:** Warleader sphere 5 associated skill ranks; Duelist sphere; Warleader sphere.\n\n**Benefit:** You and allies benefitting from your Warleader sphere effects gain a +2 bonus on critical confirmation rolls against bleeding targets and a +2 bonus on Perception and Survival checks made against bleeding targets. These bonuses increase to +4 at 10 associated skill ranks.\n\nIn addition, you gain the following option:"
-  },
-  {
    "id": "feat/imbued-strike-combat",
    "name": "Imbued Strike",
    "system": "Spheres of Power",
@@ -12635,7 +12858,7 @@
    "spheres": [],
    "group": "Combat Feats",
    "prerequisites": "Casting class feature, caster level 1st.",
-   "source": "Polished Commander & Warleader",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#imbued-strike-combat",
    "alsoOn": [],
    "md": "**Prerequisites:** Casting class feature, caster level 1st.\n\n**Benefit:** As a swift action, you can imbue your weapons with a fraction of your power. For 1 round, your weapons deal +1 damage and are treated as magic for the purpose of overcoming damage reduction. For every +5 magic skill bonus you possess, this bonus increases by +1, to a maximum of +5. This ability counts as Arcane Strike for the purposes of qualifying or using feats, items, and abilities, and the bonus from this ability does not stack with the bonus from Arcane Strike. Any feat, item, or ability referencing the caster level of Arcane Strike instead uses the magic skill bonus. In addition, you are considered an arcane caster for the purpose of qualifying for feats that require Arcane Strike as a prerequisite."
@@ -12656,7 +12879,7 @@
    ],
    "group": "Combat Feats",
    "prerequisites": "Destruction sphere (Chain Blast (blast shape)).",
-   "source": "Polished Commander & Warleader",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#improved-chain-blast-combat",
    "alsoOn": [],
    "md": "The energy at your fingertips hungers for mass ruin.\n\n**Prerequisites:** Destruction sphere (Chain Blast (blast shape)).\n\n**Benefit:** The number of targets you may select with Chain Blast improves to 1 + your caster level (minimum 3). You may spend an additional spell point when using Chain Blast to force targets to make a Reflex save for half damage rather than making an attack roll against them. The chain stops as normal if a target takes no damage."
@@ -12675,7 +12898,7 @@
    "spheres": [],
    "group": "Combat Feats",
    "prerequisites": "Casting class feature; any talent with the strike descriptor.",
-   "source": "Polished Commander & Warleader",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#improved-spell-combat-combat",
    "alsoOn": [],
    "md": "**Prerequisites:** Casting class feature; any talent with the strike descriptor.\n\n**Benefit:** When activating a magic sphere talent with the strike descriptor, you may spend a spell point to instead use the sphere effect in conjunction with making a full attack. The magic sphere effect is delivered through the first successful attack made as part of that full attack routine; if no attack is successful, no creature is targeted with the magic sphere effect and any spell points spent are wasted.\n\n**Author's Note:** \"Instead\" means if the spell effect is delivered with the first normal attack of your full attack action and not with the strike's \"normal\" attack; a spell delivered this way otherwise follows all the normal rules for a talent with the [strike] descriptor. This means that the Improved Spell Combat feat is not compatible with the Spell Attack champion feat."
@@ -12694,7 +12917,7 @@
    "spheres": [],
    "group": "Combat Feats",
    "prerequisites": "Discerning strike or expose vulnerability class feature.",
-   "source": "Polished Commander & Warleader",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#lingering-opening-combat",
    "alsoOn": [],
    "md": "**Prerequisite:** Discerning strike or expose vulnerability class feature.\n\n**Benefit:** When you deal discerning strike damage or expose vulnerability damage to a creature, you leave an opening you can exploit in the next 1 round. Whenever you meet the condition for the discerning strike or expose vulnerability damage again for that round but fail to deal the damage because it has already been dealt, you still deal an extra 1 precision damage per die of the ability."
@@ -12715,7 +12938,7 @@
    ],
    "group": "Combat Feats",
    "prerequisites": "Protection sphere, base attack bonus +1.",
-   "source": "Polished Commander & Warleader",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#martial-aegis-combat",
    "alsoOn": [
     "Spheres-Of-Power/Protection/Protection-Sphere-Feats#martial-aegis-combat"
@@ -12736,7 +12959,7 @@
    "spheres": [],
    "group": "Combat Feats",
    "prerequisites": "Combat Stamina, base attack bonus +1.",
-   "source": "Polished Commander & Warleader",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#martial-presence-combat",
    "alsoOn": [
     "Spheres-Of-Power/War/War-Sphere-Feats#martial-presence-combat"
@@ -12757,7 +12980,7 @@
    "spheres": [],
    "group": "Combat Feats",
    "prerequisites": "Combat Stamina or a grit pool, ki pool, luck pool, or panache class feature; base attack bonus +1.",
-   "source": "Polished Commander & Warleader",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#martial-reflexes-combat",
    "alsoOn": [],
    "md": "**Prerequisites:** Combat Stamina or a grit pool, ki pool, luck pool, or panache class feature; base attack bonus +1.\n\n**Benefit:** Choose a basic (rally) talent. You may rally yourself with this talent at any time by spending either 5 stamina points or one grit, ki, luck, or panache point for every spell point you would normally need to spend. If you do so, the rally is considered an extraordinary ability, and may be used within areas where magic does not function. For the purposes of this rally, you use your base attack bonus as your caster level and your highest mental ability for your casting ability, if you do not already possess a casting tradition. This ability is not a true rally and does not interact with other abilities that affect rallies."
@@ -12778,7 +13001,7 @@
    ],
    "group": "Combat Feats",
    "prerequisites": "War sphere, base attack bonus +1.",
-   "source": "Polished Commander & Warleader",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#martial-totem-combat",
    "alsoOn": [
     "Spheres-Of-Power/War/War-Sphere-Feats#martial-totem-combat"
@@ -12799,7 +13022,7 @@
    "spheres": [],
    "group": "Combat Feats",
    "prerequisites": "Combat Casting.",
-   "source": "Polished Commander & Warleader",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#melee-caster-combat",
    "alsoOn": [],
    "md": "**Prerequisite:** Combat Casting.\n\n**Benefit:** When using a magic sphere effect as (or as part of) a melee attack or melee touch attack, the casting does not provoke an attack of opportunity."
@@ -12820,34 +13043,12 @@
    ],
    "group": "Combat Feats",
    "prerequisites": "Mind sphere, caster level 5th.",
-   "source": "Polished Commander & Warleader",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#mind-over-matter-combat",
    "alsoOn": [
     "Spheres-Of-Power/Mind/Mind-Sphere-Feats#mind-over-matter-combat"
    ],
    "md": "**Prerequisites:** Mind sphere, caster level 5th.\n\n**Benefit:** When you take hit point damage and are not flat-footed against the damage’s source, you may choose to spend spell points as a free action (even when it is not your turn) to delay some or all of the damage, effectively nullifying it for the moment when it occurs. For every spell point spent, you may delay an amount of damage equal to twice your Mind caster level (meaning a level 7 thaumaturge could delay 28 points of damage by spending 2 spell points). The damage is delayed for a number of rounds equal to your casting ability modifier.\n\nIn addition, by spending a spell point as a standard action, you may will your metabolic functions to respond differently. You may delay the effect of poison on yourself by altering its frequency by one step (rounds to minutes, minutes to hours, or hours to days, only usable once per poison), you may use your casting ability score instead of Constitution for holding your breath, and you may add your casting ability modifier as a bonus to checks to disguise your health under close observation (such as when feigning death).\n\nThis is treated as a supernatural ability. Any delayed damage can be taken at a point prior to the expiration of the delay by dismissing the effect, as if dismissing a spell. Healing received while damage is delayed can preemptively negate the damage before the effect ends if you wish. If an attack’s damage is negated entirely, secondary effects of the damage are also negated if the secondary effect would be negated through damage reduction."
-  },
-  {
-   "id": "feat/mixed-coordinator-combat",
-   "name": "Mixed Coordinator",
-   "system": "Spheres of Power",
-   "types": [
-    "Combat"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [
-    "Beastmastery",
-    "Leadership"
-   ],
-   "group": "Combat Feats",
-   "prerequisites": "Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package.",
-   "source": "Polished Commander & Warleader",
-   "url": "Spheres-Of-Power/Feats/Combat-Feats#mixed-coordinator-combat",
-   "alsoOn": [],
-   "md": "**Prerequisites:** Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package.\n\nWhen you tame a creature or recruit a cohort, you may choose to have its Hit Dice count against both your tame and recruit limits. When doing so, the creature counts as both an animal ally and a cohort for the purpose of talents that grant actions to or are triggered by cohorts and animal allies."
   },
   {
    "id": "feat/muscular-reflexes-combat",
@@ -12863,7 +13064,7 @@
    "spheres": [],
    "group": "Combat Feats",
    "prerequisites": "",
-   "source": "Polished Commander & Warleader",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#muscular-reflexes-combat",
    "alsoOn": [],
    "md": "You rely on muscle memory and strength to enhance your reflexes.\n\n**Benefit:** You may make a number of additional attacks of opportunity per round equal to your Strength bonus. With this feat, you may also make attacks of opportunity while flat-footed.\n\n**Normal:** A character without this feat can make only one attack of opportunity per round and can’t make attacks of opportunity while flat-footed.\n\n**Special:** The Muscular Reflexes feat does not allow a rogue to use her opportunist ability more than once per round. The attacks of opportunity from this feat do not stack with those granted by Combat Reflexes or similar feats, but Muscular Reflexes counts as Combat Reflexes when meeting the prerequisites for feats."
@@ -12882,7 +13083,7 @@
    "spheres": [],
    "group": "Combat Feats",
    "prerequisites": "Casting class feature, base attack bonus +6.",
-   "source": "Polished Commander & Warleader",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#mystic-assault-combat",
    "alsoOn": [],
    "md": "**Prerequisites:** Casting class feature, base attack bonus +6.\n\n**Benefit:** When making a full attack, you may spend a spell point to replace the first attack with any sphere ability or supernatural ability that can be used as a standard action and requires an attack roll or touch attack roll. You must still pay any costs required by this sphere ability or supernatural ability (such as spell points), and if you are using two weapons, this replaces both the primary and secondary weapon attacks. Abilities that replace any of your attacks in a full-round attack are not compatible with mystic assault, nor are other abilities that allow you to use a supernatural or sphere ability as part of an attack.\n\nUsing the sphere or supernatural ability provokes an attack of opportunity if it normally would, and if the ability is disrupted, the associated attack is lost but the remaining iterative attacks are not. You may decide after you have used your sphere or supernatural ability whether to spend the spell point and continue with your full-round attack or if you wish to take a move action instead."
@@ -12901,7 +13102,7 @@
    "spheres": [],
    "group": "Combat Feats",
    "prerequisites": "Mystic Assault.",
-   "source": "Polished Commander & Warleader",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#mystic-assault-improved-combat",
    "alsoOn": [],
    "md": "**Prerequisite:** Mystic Assault.\n\n**Benefit:** You do not need to spend a spell point to use mystic assault."
@@ -12920,7 +13121,7 @@
    "spheres": [],
    "group": "Combat Feats",
    "prerequisites": "Martial focus.",
-   "source": "Polished Commander & Warleader",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#perfect-calm-combat",
    "alsoOn": [],
    "md": "**Prerequisite:** Martial focus.\n\n**Benefit:** You can expend your martial focus as part of any single Will saving throw or concentration check you make. When you expend your martial focus in this manner, your saving throw or concentration check is treated as if you rolled a 13, similarly to taking 10 on a skill check, except that the number you add to your saving throw or concentration check is 13.\n\n**Special:** This feat counts as having Iron Will for the purposes of meeting prerequisites of feats."
@@ -12941,7 +13142,7 @@
    ],
    "group": "Combat Feats",
    "prerequisites": "Destruction sphere (Energy Sphere (blast shape)).",
-   "source": "Polished Commander & Warleader",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#perpetual-sphere-combat",
    "alsoOn": [],
    "md": "**Prerequisites:** Destruction sphere (Energy Sphere (blast shape)).\n\n**Benefit:** Whenever you successfully deal damage to a target with your energy sphere, increase its duration by 1 round. You can only extend the sphere’s duration by up to a number of rounds equal to your Destruction caster level."
@@ -12960,32 +13161,10 @@
    "spheres": [],
    "group": "Combat Feats",
    "prerequisites": "Wis 13, base attack bonus +2.",
-   "source": "Polished Commander & Warleader",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#pierce-the-veil-combat",
    "alsoOn": [],
    "md": "**Prerequisites:** Wis 13, base attack bonus +2.\n\n**Benefit:** When attacking a target with a miss chance granted from a spell, sphere effect, supernatural or spell-like ability, you may take a penalty to your attack roll to reduce the miss chance for that attack. Each -1 penalty to the attack roll you take reduces the miss chance by 10%. You cannot use this feat to take a penalty greater than half of your base attack bonus (rounded up)."
-  },
-  {
-   "id": "feat/pouncing-sweep-combat",
-   "name": "Pouncing Sweep",
-   "system": "Spheres of Power",
-   "types": [
-    "Combat"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [
-    "Athletics",
-    "Open Hand"
-   ],
-   "group": "Combat Feats",
-   "prerequisites": "Athletics sphere, Open Hand sphere.",
-   "source": "Polished Commander & Warleader",
-   "url": "Spheres-Of-Power/Feats/Combat-Feats#pouncing-sweep-combat",
-   "alsoOn": [],
-   "md": "**Prerequisites:** Athletics sphere, Open Hand sphere.\n\n**Benefits:** Whenever you use the sweep ability of the Open Hand sphere, you may move 5 feet immediately before performing the trip using any movement mode associated with Athletics sphere packages you possess. This movement provokes attacks of opportunity as normal. At +6 base attack bonus and every 5 base attack bonus higher, you may add up to +5 feet of movement to the sweep."
   },
   {
    "id": "feat/practiced-interruption-combat",
@@ -13001,10 +13180,10 @@
    "spheres": [],
    "group": "Combat Feats",
    "prerequisites": "Extra Combat Talent or combat training class feature, base attack bonus +5.",
-   "source": "Polished Commander & Warleader",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#practiced-interruption-combat",
    "alsoOn": [],
-   "md": "You are adept at anticipating and interrupting spellcasters.\n\n**Prerequisites:** Extra Combat Talent or combat training class feature, base attack bonus +5.\n\n**Benefit:** You may expend your martial focus to ready an attack action to disrupt a spell caster’s casting as a move action. The spellcaster must be within reach or range of your wielded weapon. A single casting attempt cannot trigger more than one readied action to interrupt from you.\n\n**Special:** You may take this feat a second time. If you do, you may instead use this ability as a swift action.\n\n##### Prepare for the Battlefield [plan]\n\n**Effect:** When you reveal this plan, you immediately retrain the battlefield specialty granted by this feat.\n\nYou can reveal this plan once per week."
+   "md": "You are adept at anticipating and interrupting spellcasters.\n\n**Prerequisites:** Extra Combat Talent or combat training class feature, base attack bonus +5.\n\n**Benefit:** You may expend your martial focus to ready an attack action to disrupt a spell caster’s casting as a move action. The spellcaster must be within reach or range of your wielded weapon. A single casting attempt cannot trigger more than one readied action to interrupt from you.\n\n**Special:** You may take this feat a second time. If you do, you may instead use this ability as a swift action."
   },
   {
    "id": "feat/portal-combat-combat",
@@ -13022,7 +13201,7 @@
    ],
    "group": "Combat Feats",
    "prerequisites": "Warp sphere (Mass Teleport [mass], Portal (advanced), Wormhole (space)), caster level 5th.",
-   "source": "Polished Commander & Warleader",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#portal-combat-combat",
    "alsoOn": [
     "Spheres-Of-Power/Warp/Warp-Sphere-Feats#portal-combat-combat"
@@ -13045,7 +13224,7 @@
    ],
    "group": "Combat Feats",
    "prerequisites": "Mind sphere, Improved Unarmed Strike.",
-   "source": "Polished Commander & Warleader",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#pressure-point-proficiency-combat",
    "alsoOn": [
     "Spheres-Of-Power/Mind/Mind-Sphere-Feats#pressure-point-proficiency-combat"
@@ -13068,7 +13247,7 @@
    ],
    "group": "Combat Feats",
    "prerequisites": "Mind sphere, Improved Unarmed Strike, Pressure Point Proficiency, character level 5th.",
-   "source": "Polished Commander & Warleader",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#pressure-point-pugilist-combat",
    "alsoOn": [
     "Spheres-Of-Power/Mind/Mind-Sphere-Feats#pressure-point-pugilist-combat"
@@ -13091,7 +13270,7 @@
    ],
    "group": "Combat Feats",
    "prerequisites": "Destruction sphere, destructive blade class feature.",
-   "source": "Polished Commander & Warleader",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#reach-blade-combat",
    "alsoOn": [],
    "md": "**Prerequisites:** Destruction sphere, destructive blade class feature.\n\n**Benefit:** Your destructive blade may be shaped with the reach property. This property can be added or removed each time you shape the blade."
@@ -13110,32 +13289,10 @@
    "spheres": [],
    "group": "Combat Feats",
    "prerequisites": "Combat Expertise.",
-   "source": "Polished Commander & Warleader",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#resolute-expertise-combat",
    "alsoOn": [],
    "md": "**Prerequisite:** Combat Expertise.\n\n**Benefit:** Whenever you are benefiting from a dodge bonus to AC from Combat Expertise, you also gain a +1 competence bonus to saving throws. When your base attack bonus reaches +8, and every +8 thereafter, this bonus increases by +1."
-  },
-  {
-   "id": "feat/rolling-serpent-combat",
-   "name": "Rolling Serpent",
-   "system": "Spheres of Power",
-   "types": [
-    "Combat"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [
-    "Athletics",
-    "Boxing"
-   ],
-   "group": "Combat Feats",
-   "prerequisites": "Athletics sphere, Boxing sphere (Shoulder Roll).",
-   "source": "Polished Commander & Warleader",
-   "url": "Spheres-Of-Power/Feats/Combat-Feats#rolling-serpent-combat",
-   "alsoOn": [],
-   "md": "**Prerequisites:** Athletics sphere, Boxing sphere (Shoulder Roll).\n\n**Benefits:** As long as you have martial focus, whenever a creature makes a melee attack against you while you are using a movement mode corresponding to a package you possess, you may use shoulder roll against the attack without it counting towards your one usage per round."
   },
   {
    "id": "feat/siege-engineer-combat",
@@ -13151,7 +13308,7 @@
    "spheres": [],
    "group": "Combat Feats",
    "prerequisites": "Proficiency with at least 1 siege engine.",
-   "source": "Polished Commander & Warleader",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#siege-engineer-combat",
    "alsoOn": [],
    "md": "*Source: [The Player's Guide to Skybourne](https://www.drivethrurpg.com/product/173399/The-Players-Guide-to-Skybourne?affiliate_id=549120)*\n\nYour skill with large weapons is great.\n\n**Prerequisites:** Proficiency with at least 1 siege engine.\n\n**Benefit:** You are considered proficient with all siege engines, and no longer suffer a chance of misfire when rolling a 1 with a siege engine."
@@ -13364,28 +13521,6 @@
    "md": "Your aid fortifies your ally’s martial capabilities.\n\n**Benefit:** Whenever you use the aid another action, you may choose to increase the target’s base attack bonus by 2 for the duration of the aid another action rather than providing the normal benefit. This ability cannot be affected by effects which would increase the benefit granted from aid another."
   },
   {
-   "id": "feat/tactical-patrol-combat",
-   "name": "Tactical Patrol",
-   "system": "Spheres of Power",
-   "types": [
-    "Combat"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [
-    "Guardian",
-    "Warleader"
-   ],
-   "group": "Combat Feats",
-   "prerequisites": "Guardian sphere ((patrol) package); Warleader sphere ((tactic) package).",
-   "source": "The Player's Guide to Skybourne",
-   "url": "Spheres-Of-Power/Feats/Combat-Feats#tactical-patrol-combat",
-   "alsoOn": [],
-   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n**Prerequisites:** Guardian sphere ((patrol) package); Warleader sphere ((tactic) package).\n\n**Benefit:** Your *tactic* always includes the area of your *patrol*, even if you centered your *tactic* elsewhere.\n\nIn addition, you gain the following option:\n\n- **Engaging Patrol (dual sphere):** Whenever you *patrol*, you may *engage tactics* as part of that same action. If you do, instead of selecting a (zone) talent, you may select an additional (tactic); the chosen (tactic)'s *tactical presence* and *tactical coordination* apply to the area of your patrol."
-  },
-  {
    "id": "feat/combat-feats/technique-crafting-combat",
    "name": "Technique Crafting",
    "system": "Spheres of Power",
@@ -13399,7 +13534,7 @@
    "spheres": [],
    "group": "Combat Feats",
    "prerequisites": "",
-   "source": "Polished Commander & Warleader",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#technique-crafting-combat",
    "alsoOn": [],
    "md": "You have learned how to create elaborate and unique actions.\n\n**Benefit:** You gain the ability to create techniques, as per the technique rules."
@@ -13418,7 +13553,7 @@
    "spheres": [],
    "group": "Combat Feats",
    "prerequisites": "Base attack bonus +5 or monk 3, Tentacle Novice, Improved Unarmed Strike.",
-   "source": "Polished Commander & Warleader",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#tentacle-adept-combat",
    "alsoOn": [],
    "md": "*Source: [The Player's Guide to Skybourne](https://www.drivethrurpg.com/product/173399/The-Players-Guide-to-Skybourne?affiliate_id=549120)*\n\nHard training and dedication have taught you how to make the best use out of your tentacles, twisting, turning, pirouetting, and bending to strike opponents from farther away than they suspect.\n\n**Prerequisites:** Base attack bonus +5 or monk 3, Tentacle Novice, Improved Unarmed Strike.\n\n**Benefit:** Increase the reach of any attacks you make with your tentacles by +5 feet."
@@ -13761,29 +13896,7 @@
    "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/Combat-Feats#weird-motion-combat",
    "alsoOn": [],
-   "md": "**Prerequisites:** Illusion sphere (Mage Feint), base attack bonus +3.\n\n**Benefit:** Add your casting ability modifier as a circumstance bonus to AC against attacks of opportunity incurred when charging or making ranged attacks. In addition, as a full-round action you may make a single ranged or charge attack and use your Mage Feint talent as part of the same action against that target."
-  },
-  {
-   "id": "feat/wiggling-footsies-combat",
-   "name": "Wiggling Footsies",
-   "system": "Spheres of Power",
-   "types": [
-    "Combat"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [
-    "Fencing",
-    "Scout"
-   ],
-   "group": "Combat Feats",
-   "prerequisites": "Fencing sphere (Footwork), Scout sphere (Calibrating Wiggle).",
-   "source": "The Player's Guide to Skybourne",
-   "url": "Spheres-Of-Power/Feats/Combat-Feats#wiggling-footsies-combat",
-   "alsoOn": [],
-   "md": "**Prerequisites:** Fencing sphere (Footwork), Scout sphere (Calibrating Wiggle).\n\n**Benefits:** Whenever you use the Fencing sphere Footwork talent in response to an attack made against you, you may also scout the attacker. If you successfully avoid the attack (e.g. missing or succeeding at a Reflex saving throw) and you have scouted the attacker (whether previously scouted or as part of this ability), you gain the Scout sphere Calibrating Wiggle’s bonus precision damage on your first successful attack made against the attacker before the end of your next turn, even if you do not make a charge attack against them.\n\nIn addition, whenever you deal the Scout sphere Calibrating Wiggle’s bonus precision damage to a target, you may regain martial focus as a free action that can be taken even when it is not your turn.\n\n**Special:** Abilities which function similarly to the Fencing sphere Footwork talent may be used to qualify for this feat in place of the Footwork talent (such as the Warp sphere Emergency Teleport talent, swashbuckler’s dodging panache deed, or other ability subject to GM discretion), and may treat evading an attack with such an abilities as using the Footwork talent for the purposes of this feat.\n\n---\n\n*Archived: [[Combat Feats (Original)|Original version]] (from before *Ultimate Spheres of Power*)*"
+   "md": "**Prerequisites:** Illusion sphere (Mage Feint), base attack bonus +3.\n\n**Benefit:** Add your casting ability modifier as a circumstance bonus to AC against attacks of opportunity incurred when charging or making ranged attacks. In addition, as a full-round action you may make a single ranged or charge attack and use your Mage Feint talent as part of the same action against that target.\n\n---\n\n*Archived: [[Combat Feats (Original)|Original version]] (from before *Ultimate Spheres of Power*)*"
   },
   {
    "id": "feat/companion-feats/web-exemplar-companion",
@@ -15678,7 +15791,7 @@
    "source": "Diamond Spheres: Erudition & Esoterica",
    "url": "Spheres-Of-Power/Feats/General-Feats#brain-consumption",
    "alsoOn": [],
-   "md": "**Benefit:** You may consume the brain of an unconscious creature or a creature who has died within the last 24 hours as a fullround action. A corpse preserved by the Corpse Manipulation talent may have its brain consumed in this way within a week of its death. This functions as a coup de grace against a living creature with a base damage of 4d8 + your Strength modifier and a critical multiplier of x2. Doing so grants you a +2 insight bonus to two skills that the creature whose brain you ate possessed ranks in. You may only benefit from having one brain eaten at a time, but these bonuses last until the next time you consume a creature’s brain. You are immune to any non-magical diseases you are exposed to as part of consuming a creature’s brain and do not suffer any mundane negative health effects from consuming a creature’s brain, even if it would not normally be part of your natural diet. You gain no benefit from consuming the brains of subordinates. The creature’s brain is not eaten if they are not killed by this effect and you cannot consume the brains of creatures that lack brains (at GM discretion).\n\n##### Carve Them Up! (shout) (dual sphere)\n\n**Duration:** 2 rounds, +1 round per 4 associated skill ranks\n\n**Target(s):** allies\n\n**Effect:** When an ally hits a bleeding target, increase the bleeding target's current bleed by 1. A bleeding target can only have their bleed increased this way once per round per attacker.\n\nIf the attack is a critical hit, instead increase the bleeding target's current bleed by the weapon's critical hit multiplier, then the target takes damage from their current total bleed (as though starting their turn)."
+   "md": "**Benefit:** You may consume the brain of an unconscious creature or a creature who has died within the last 24 hours as a fullround action. A corpse preserved by the Corpse Manipulation talent may have its brain consumed in this way within a week of its death. This functions as a coup de grace against a living creature with a base damage of 4d8 + your Strength modifier and a critical multiplier of x2. Doing so grants you a +2 insight bonus to two skills that the creature whose brain you ate possessed ranks in. You may only benefit from having one brain eaten at a time, but these bonuses last until the next time you consume a creature’s brain. You are immune to any non-magical diseases you are exposed to as part of consuming a creature’s brain and do not suffer any mundane negative health effects from consuming a creature’s brain, even if it would not normally be part of your natural diet. You gain no benefit from consuming the brains of subordinates. The creature’s brain is not eaten if they are not killed by this effect and you cannot consume the brains of creatures that lack brains (at GM discretion)."
   },
   {
    "id": "feat/cantrips",
@@ -16138,7 +16251,7 @@
    "source": "Diamond Spheres: Erudition & Esoterica",
    "url": "Spheres-Of-Power/Feats/General-Feats#expanded-battlefield-specialty-plan",
    "alsoOn": [],
-   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*Always plan for the next battlefield.*\n\n**Prerequisite:** Commander 10th level, battlefield specialty class feature.\n\n**Benefit:** You gain an additional battlefield specialty. In addition, you gain the following plan:"
+   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*Always plan for the next battlefield.*\n\n**Prerequisite:** Commander 10th level, battlefield specialty class feature.\n\n**Benefit:** You gain an additional battlefield specialty. In addition, you gain the following plan:\n\n##### Prepare for the Battlefield [plan]\n\n**Effect:** When you reveal this plan, you immediately retrain the battlefield specialty granted by this feat.\n\nYou can reveal this plan once per week."
   },
   {
    "id": "feat/expedited-incantation",
@@ -16599,50 +16712,6 @@
    "url": "Spheres-Of-Power/Feats/General-Feats#metamagic-aficionado",
    "alsoOn": [],
    "md": "**Prerequisites:** Favored Metamagic (any three metamagic feats), caster level 15th.\n\n**Benefit:** The benefits of Favored Metamagic apply to all metamagic feats you possess, not just those specific metamagic feats you have chosen with Favored Metamagic."
-  },
-  {
-   "id": "feat/mounted-athlete",
-   "name": "Mounted Athlete",
-   "system": "Spheres of Power",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [
-    "Athletics",
-    "Beastmastery"
-   ],
-   "group": "General Feats",
-   "prerequisites": "Athletics sphere, Beastmastery sphere ((ride) package).",
-   "source": "The Player's Guide to Skybourne",
-   "url": "Spheres-Of-Power/Feats/General-Feats#mounted-athlete",
-   "alsoOn": [],
-   "md": "The handler is often as athletic as the mount.\n\n**Prerequisites:** Athletics sphere, Beastmastery sphere ((ride) package).\n\n**Benefit:** Whenever your mount would attempt a skill check associated with an Athletics sphere package you possess, you may attempt that skill check for your mount, using your bonus in that skill. For example, if you possess the (leap) or (run) packages, you may attempt Acrobatics checks for your mount whenever your mount would attempt such a check.\n\nIn addition, you share your Athletics sphere talents with your mount. Your mount is treated as possessing any packages or talents you possess and uses your skill ranks and Athletics sphere save DC when determining the effects of shared talents.\n\nIf your mount cannot maintain martial focus, shared Athletics sphere talents do not grant the ability to maintain martial focus.\n\nAs long as you have martial focus, your mount counts as possessing martial focus when determining the benefits of shared Athletics sphere talents that require you to have martial focus (such as the Swift Movement talent). If your mount would expend martial focus to use a shared Athletics sphere talent, you must expend your martial focus and both you and your mount benefit from the shared talent’s effects (where applicable). A mount that is a practitioner and can maintain martial focus cannot use its own martial focus with shared Athletics sphere talents, but may use shared talents in combination with any talents it possesses.\n\nYour mount’s movement made using a movement mode corresponding to an Athletics sphere package you possess counts as your own movement for the purposes of Athletics sphere talents. This allows you to use Athletics sphere talents while mounted, such as using the Reflexive Twist talent to avoid an attack despite being mounted. Whenever your mount’s movement would allow you or your mount to use a (motion) talent, both you and your mount must use the same (motion) talent. If a (motion) talent would affect another creature, it only affects that creature a single time (such as the Dizzying Tumble (motion) talent only occurring once). If a (motion) talent would benefit you, it benefits both you and your mount normally (such as both you and your mount gaining miss chance from the Moving Target (motion) talent).\n\nAthletics sphere talents which allow you or your mount to take an action are only used by the creature that spent the required actions, unless both creatures spend the required actions. For example, if your mount uses the Diving Strike talent, only your mount gains the benefits and suffers the risks of the talent unless you also take the charge action with your mount, gaining the bonus damage to your attack but also suffering the fall damage."
-  },
-  {
-   "id": "feat/mounted-protector",
-   "name": "Mounted Protector",
-   "system": "Spheres of Power",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [
-    "Beastmastery",
-    "Guardian"
-   ],
-   "group": "General Feats",
-   "prerequisites": "Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package).",
-   "source": "The Player's Guide to Skybourne",
-   "url": "Spheres-Of-Power/Feats/General-Feats#mounted-protector",
-   "alsoOn": [],
-   "md": "Your protective might is delivered on the swift heels of your mount.\n\n**Prerequisites:** Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package).\n\n**Benefit:** While mounted, you may use your mount’s movement whenever you could move as part of your patrol, provided your mount’s total movement before its next turn does not exceed its base speed. Any movement you or your mount make provoke attacks of opportunity as normal. In addition, whenever you could make an attack of opportunity as part of your patrol, you may have your mount make an attack of opportunity against that target instead.\n\n**Normal:** You cannot move with your mount as part of your patrol."
   },
   {
    "id": "feat/nebulous-preparation-plan",
@@ -17393,28 +17462,6 @@
    "md": "**Prerequisites:** Unarmored Training, +8 base attack bonus or 8 ranks in Acrobatics.\n\nYour mastery of unarmored combat is so great that even changes to your body do not impede you. You no longer lose the benefits of Unarmored Training when under any polymorph effect."
   },
   {
-   "id": "feat/understand-thy-enemy",
-   "name": "Understand Thy Enemy",
-   "system": "Spheres of Power",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [
-    "Fencing",
-    "Scout"
-   ],
-   "group": "General Feats",
-   "prerequisites": "Fencing sphere (Read Foe, Parry And Riposte) or Fencing sphere (Read Foe) and opportune parry and riposte deed, Scout sphere.",
-   "source": "The Player's Guide to Skybourne",
-   "url": "Spheres-Of-Power/Feats/General-Feats#understand-thy-enemy",
-   "alsoOn": [],
-   "md": "*Source: [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)*\n\n**Prerequisites:** Fencing sphere (Read Foe, Parry And Riposte) or Fencing sphere (Read Foe) and opportune parry and riposte deed, Scout sphere.\n\n**Benefit:** Whenever you scout a creature, the next parry and riposte you use against that creature does not cost martial focus, an attack of opportunity, or a panache point. When used in this way, the ability does not require you to have a panache point to perform an attack and you do not regain martial focus."
-  },
-  {
    "id": "feat/unseen-terror",
    "name": "Unseen Terror",
    "system": "Spheres of Power",
@@ -17428,7 +17475,7 @@
    "spheres": [],
    "group": "General Feats",
    "prerequisites": "Intimidate 3 ranks, Stealth 3 ranks.",
-   "source": "Spheres Apocrypha: Swashbucklers",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/General-Feats#unseen-terror",
    "alsoOn": [],
    "md": "The hunter stalks its prey. The prey knows, but can only run from the scraping, rattling, and growling noises which chase them.\n\n**Prerequisites:** Intimidate 3 ranks, Stealth 3 ranks.\n\n**Benefit:** You gain a +2 bonus on Intimidate and Stealth checks. Whenever your Stealth check to hide exceeds an opposing creature’s Perception check by 5 or more, you may attempt an Intimidate check as a swift action to demoralize one target creature within 30 feet who failed to notice you. The target does not need to be able to see you, but must be able to hear you. The target is not made aware of your location when you Intimidate them with this feat, and making an Intimidate check this way does not automatically reveal your location. If you are able to use the Intimidate skill to cause a target to become frightened or worse, and the target is unaware of your position, the frightened creature will attempt to flee to a location it feels is safe, treating the location it became frightened at as the source of its fear.\n\nIf you possess the Dazzling Display feat or Gladiator sphere, whenever you could attempt an Intimidate check as a swift action from this feat, you may instead use the Dazzling Display feat or Gladiator sphere strike fear ability as a standard action to intimidate all creatures within range instead of a single creature, even if you could not normally use those abilities as a standard action.\n\n**Special:** This feat counts as having the Skill Focus feat for either Intimidate or Stealth, chosen when you gain this feat, for the purposes of meeting prerequisites."
@@ -17447,7 +17494,7 @@
    "spheres": [],
    "group": "General Feats",
    "prerequisites": "",
-   "source": "Spheres Apocrypha: Swashbucklers",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/General-Feats#versed-student",
    "alsoOn": [],
    "md": "**Benefit:** Choose a class you have levels in. For the purpose of determining class features selected individually at advancing levels you may select (such as alchemist discoveries, shifter bestial traits, striker arts, and witch hexes), you treat your level in that class as 4 higher, to a maximum of your character level. For example, a character with 4 levels in mageknight and 6 levels in shifter who has selected shifter with this feat may select bestial traits as if they were a 10th-level shifter (although they would have a total of three bestial traits, not 5). This does not include advanced rogue talents, grand hexes, and other such abilities which would normally only be selectable starting at higher levels unless you already have access to such abilities from one of your classes. This feat does not grant any such abilities when it is taken, nor does it cause levels in any class to count as levels in other classes for the purpose of determining the effects of class abilities.\n\n**Special:** You may select this feat multiple times. The effects of this feat stack if applied to the same class multiple times."
@@ -17466,7 +17513,7 @@
    "spheres": [],
    "group": "General Feats",
    "prerequisites": "Perception 5 ranks and Sense Motive 5 ranks; or Alertness.",
-   "source": "Spheres Apocrypha: Swashbucklers",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/General-Feats#vigilant-skeptic",
    "alsoOn": [],
    "md": "**Prerequisites:** Perception 5 ranks and Sense Motive 5 ranks; or Alertness.\n\n**Benefit:** You are automatically treated as interacting with any figments you come within 5 feet of, increasing by an additional 5 feet per 2 ranks you have in Perception. As a full-round action you may interact with all figments within 30 feet. You get a +1 bonus to Perception and Sense Motive checks per 2 character levels against targets benefiting from glamers."
@@ -17485,7 +17532,7 @@
    "spheres": [],
    "group": "General Feats",
    "prerequisites": "Fervor or lay on hands class feature.",
-   "source": "Spheres Apocrypha: Swashbucklers",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/General-Feats#vital-magic",
    "alsoOn": [],
    "md": "**Prerequisite:** Fervor or lay on hands class feature.\n\n**Benefit:** You may spend 1 spell point as a free action to regain 1 use of your fervor or lay on hands ability."
@@ -17504,7 +17551,7 @@
    "spheres": [],
    "group": "General Feats",
    "prerequisites": "Craft Spell Engine, caster level 4th.",
-   "source": "Spheres Apocrypha: Swashbucklers",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/General-Feats#wand-charger",
    "alsoOn": [],
    "md": "**Prerequisites:** Craft Spell Engine, caster level 4th.\n\n**Benefit:** When recharging a spell engine, you may spend a number of spell points not exceeding half your caster level, restoring an equal number of spell points to the spell engine.\n\nYou may not exceed the spell engine’s maximum charges this way. You may recharge a spell engine more than once a day with this ability, but the total transferred spell points cannot exceed half your caster level. Additionally, you may count your caster level as 4 higher when determining what spell engines you can recharge."
@@ -17523,7 +17570,7 @@
    "spheres": [],
    "group": "General Feats",
    "prerequisites": "Caster level 10th.",
-   "source": "Spheres Apocrypha: Swashbucklers",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/General-Feats#wand-wielder",
    "alsoOn": [],
    "md": "**Prerequisite:** Caster level 10th.\n\n**Benefit:** When wielding a spell engine, use your caster level in place of the spell engine’s caster level (if it is higher) when calculating its abilities."
@@ -17542,7 +17589,7 @@
    "spheres": [],
    "group": "General Feats",
    "prerequisites": "",
-   "source": "Spheres Apocrypha: Swashbucklers",
+   "source": "The Player's Guide to Skybourne",
    "url": "Spheres-Of-Power/Feats/General-Feats#wind-dancer",
    "alsoOn": [],
    "md": "**Benefit:** Whenever you drive an air vehicle you treat the Wind severity level either one step higher or one step lower (to a minimum of 0 and a maximum of 7), whichever you prefer. You may change this decision once per round as a free action. If you have 11 ranks in Fly or Profession (pilot), you no longer suffer the negative effects of any Wind of severity level 5 or lower while driving an air vehicle. If you have 17 ranks in Fly or Profession (pilot) you no longer suffer the negative effects of any wind while driving an air vehicle. It cannot be sucked into or damaged by a tornado.\n\n---\n\n*Archived: [[General Feats (Original)|Original version]] (from before *Ultimate Spheres of Power*)*"

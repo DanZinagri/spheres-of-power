@@ -80,7 +80,7 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 <span class="sop-icon sop-icon-combat" aria-hidden="true"></span>**Combat Spheres** *([[Using Spheres Of Might|Using Spheres of Might]])*
 
 - [[Alchemy]] · [[Alchemy Sphere Feats|Feats]] · [[Alchemy Sphere Drawbacks|Drawbacks]]
-- [[Athletics]] · [[Athletics Sphere Drawbacks|Drawbacks]]
+- [[Athletics]] · [[Athletics Sphere Feats|Feats]] · [[Athletics Sphere Drawbacks|Drawbacks]]
 - [[Barrage]] · [[Barrage Sphere Drawbacks|Drawbacks]]
 - [[Barroom]] · [[Barroom Sphere Feats|Feats]] · [[Barroom Sphere Drawbacks|Drawbacks]]
 - [[Beastmastery]] · [[Beastmastery Sphere Feats|Feats]] · [[Beastmastery Sphere Drawbacks|Drawbacks]]
@@ -90,11 +90,11 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 - [[Dual Wielding]] · [[Dual Wielding Sphere Feats|Feats]] · [[Dual Wielding Sphere Drawbacks|Drawbacks]]
 - [[Duelist]] · [[Duelist Sphere Feats|Feats]] · [[Duelist Sphere Drawbacks|Drawbacks]]
 - [[Equipment Sphere|Equipment]] · [[Equipment Sphere Feats|Feats]]
-- [[Fencing]] · [[Fencing Sphere Drawbacks|Drawbacks]]
-- [[Gladiator]] · [[Gladiator Sphere Drawbacks|Drawbacks]]
+- [[Fencing]] · [[Fencing Sphere Feats|Feats]] · [[Fencing Sphere Drawbacks|Drawbacks]]
+- [[Gladiator]] · [[Gladiator Sphere Feats|Feats]] · [[Gladiator Sphere Drawbacks|Drawbacks]]
 - [[Guardian]] · [[Guardian Sphere Feats|Feats]] · [[Guardian Sphere Drawbacks|Drawbacks]]
 - [[Lancer]] · [[Lancer Sphere Drawbacks|Drawbacks]]
-- [[Open Hand]] · [[Open Hand Sphere Drawbacks|Drawbacks]]
+- [[Open Hand]] · [[Open Hand Sphere Feats|Feats]] · [[Open Hand Sphere Drawbacks|Drawbacks]]
 - [[Scoundrel]] · [[Scoundrel Sphere Drawbacks|Drawbacks]]
 - [[Scout]] · [[Scout Sphere Feats|Feats]] · [[Scout Sphere Drawbacks|Drawbacks]]
 - [[Shield]] · [[Shield Sphere Feats|Feats]] · [[Shield Sphere Drawbacks|Drawbacks]]

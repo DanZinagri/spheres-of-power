@@ -2491,6 +2491,26 @@
   "approved": true
  },
  {
+  "id": "leadership/mixed-coordinator-combat",
+  "name": "Mixed Coordinator",
+  "kind": "feat",
+  "sphere": "Leadership",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [
+   "combat"
+  ],
+  "talentTags": [],
+  "prerequisites": "Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package.",
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Leadership/Leadership-Sphere-Feats#mixed-coordinator-combat",
+  "options": [],
+  "summary": "When you tame a creature or recruit a cohort, you may choose to have its Hit Dice count against both your tame and recruit limits.",
+  "file": "leadership.json",
+  "approved": true
+ },
+ {
   "id": "leadership/radiant-quests",
   "name": "Radiant Quests",
   "kind": "feat",
@@ -2579,26 +2599,6 @@
   "url": "Spheres-Of-Might/Leadership/Leadership-Sphere-Feats#theurgical-disciples",
   "options": [],
   "summary": "You gain a +2 bonus to Knowledge (religion) skill checks.",
-  "file": "leadership.json",
-  "approved": true
- },
- {
-  "id": "leadership/mixed-coordinator-combat",
-  "name": "Mixed Coordinator",
-  "kind": "feat",
-  "sphere": "Leadership",
-  "system": "Spheres of Might",
-  "group": "General",
-  "tags": [
-   "combat"
-  ],
-  "talentTags": [],
-  "prerequisites": "Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package.",
-  "source": "Polished Commander & Warleader",
-  "status": "current",
-  "url": "Spheres-Of-Power/Feats/Combat-Feats#mixed-coordinator-combat",
-  "options": [],
-  "summary": "When you tame a creature or recruit a cohort, you may choose to have its Hit Dice count against both your tame and recruit limits.",
   "file": "leadership.json",
   "approved": true
  },
@@ -57228,6 +57228,26 @@
   "approved": true
  },
  {
+  "id": "performance/hymnal-verse-dual-sphere",
+  "name": "Hymnal Verse",
+  "kind": "feat",
+  "sphere": "Performance",
+  "system": "Spheres of Guile",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "prerequisites": "Occultism sphere, Performance sphere ((lyric) package).",
+  "source": "Diamond Spheres: Harmony & Discord",
+  "status": "current",
+  "url": "Other-Pages/Performance/Performance-Sphere-Feats#hymnal-verse-dual-sphere",
+  "options": [],
+  "summary": "Whenever you use a rite (and do so at least using a standard action), you can use a lyric as a free action.",
+  "file": "performance.json",
+  "approved": true
+ },
+ {
   "id": "performance/song-in-your-soul",
   "name": "Song In Your Soul",
   "kind": "feat",
@@ -57237,7 +57257,7 @@
   "tags": [],
   "talentTags": [],
   "prerequisites": "Performance sphere ((instrumental or lyric) package), associated ranks 10.",
-  "source": "Diamond Spheres: Harmony & Discord",
+  "source": "Diamond Spheres: Erudition & Esoterica",
   "status": "current",
   "url": "Other-Pages/Performance/Performance-Sphere-Feats#song-in-your-soul",
   "options": [],
@@ -67616,9 +67636,7 @@
   "source": "Diamond Spheres: Erudition & Esoterica",
   "status": "current",
   "url": "Spheres-Of-Might/Alchemy/Alchemy-Sphere-Feats#compound-mutagen",
-  "options": [
-   "Constant Chatter"
-  ],
+  "options": [],
   "summary": "Whenever you create a mutagen that gives a choice between multiple options, you can choose two such options—for example, a Performance Enhancer could grant its…",
   "file": "alchemy.json",
   "approved": true
@@ -69316,24 +69334,6 @@
   "approved": true
  },
  {
-  "id": "athletics/mounted-athlete",
-  "name": "Mounted Athlete",
-  "kind": "feat",
-  "sphere": "Athletics",
-  "system": "Spheres of Might",
-  "group": "General",
-  "tags": [],
-  "talentTags": [],
-  "prerequisites": "Athletics sphere, Beastmastery sphere ((ride) package).",
-  "source": "The Player's Guide to Skybourne",
-  "status": "current",
-  "url": "Spheres-Of-Power/Feats/General-Feats#mounted-athlete",
-  "options": [],
-  "summary": "Whenever your mount would attempt a skill check associated with an Athletics sphere package you possess, you may attempt that skill check for your mount, using…",
-  "file": "athletics.json",
-  "approved": true
- },
- {
   "id": "athletics/dimensional-athlete-champion",
   "name": "Dimensional Athlete",
   "kind": "feat",
@@ -69524,6 +69524,24 @@
   "approved": true
  },
  {
+  "id": "athletics/mounted-athlete",
+  "name": "Mounted Athlete",
+  "kind": "feat",
+  "sphere": "Athletics",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "prerequisites": "Athletics sphere, Beastmastery sphere ((ride) package).",
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Might/Athletics/Athletics-Sphere-Feats#mounted-athlete",
+  "options": [],
+  "summary": "Whenever your mount would attempt a skill check associated with an Athletics sphere package you possess, you may attempt that skill check for your mount, using…",
+  "file": "athletics.json",
+  "approved": true
+ },
+ {
   "id": "athletics/pouncing-sweep-combat",
   "name": "Pouncing Sweep",
   "kind": "feat",
@@ -69535,9 +69553,9 @@
   ],
   "talentTags": [],
   "prerequisites": "Athletics sphere, Open Hand sphere.",
-  "source": "Polished Commander & Warleader",
+  "source": "",
   "status": "current",
-  "url": "Spheres-Of-Power/Feats/Combat-Feats#pouncing-sweep-combat",
+  "url": "Spheres-Of-Might/Athletics/Athletics-Sphere-Feats#pouncing-sweep-combat",
   "options": [],
   "summary": "Whenever you use the sweep ability of the Open Hand sphere, you may move 5 feet immediately before performing the trip using any movement mode associated with…",
   "file": "athletics.json",
@@ -69555,9 +69573,9 @@
   ],
   "talentTags": [],
   "prerequisites": "Athletics sphere, Boxing sphere (Shoulder Roll).",
-  "source": "Polished Commander & Warleader",
+  "source": "",
   "status": "current",
-  "url": "Spheres-Of-Power/Feats/Combat-Feats#rolling-serpent-combat",
+  "url": "Spheres-Of-Might/Athletics/Athletics-Sphere-Feats#rolling-serpent-combat",
   "options": [],
   "summary": "As long as you have martial focus, whenever a creature makes a melee attack against you while you are using a movement mode corresponding to a package you…",
   "file": "athletics.json",
@@ -71447,29 +71465,11 @@
   ],
   "talentTags": [],
   "prerequisites": "Barroom sphere, Brain Consumption.",
-  "source": "Spheres Apocrypha: Dipsomania",
+  "source": "Polished Commander & Warleader",
   "status": "current",
   "url": "Spheres-Of-Might/Barroom/Barroom-Sphere-Feats#cerebrevores-ecstasy-combat",
   "options": [],
   "summary": "Whenever you consume a creature’s brain using the Brain Consumption feat, you may gain the drunk status as if you had consumed an alcoholic drink.",
-  "file": "barroom.json",
-  "approved": true
- },
- {
-  "id": "barroom/projectile-vomit",
-  "name": "Projectile Vomit",
-  "kind": "feat",
-  "sphere": "Barroom",
-  "system": "Spheres of Might",
-  "group": "General",
-  "tags": [],
-  "talentTags": [],
-  "prerequisites": "Barroom sphere (Purge), base attack bonus +5.",
-  "source": "Spheres Apocrypha: Dipsomania",
-  "status": "current",
-  "url": "Spheres-Of-Might/Barroom/Barroom-Sphere-Feats#projectile-vomit",
-  "options": [],
-  "summary": "Prerequisites: Barroom sphere (Purge), base attack bonus +5.",
   "file": "barroom.json",
   "approved": true
  },
@@ -71486,11 +71486,31 @@
   ],
   "talentTags": [],
   "prerequisites": "Barroom sphere; Warleader sphere.",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Polished Commander & Warleader",
   "status": "current",
-  "url": "Spheres-Of-Power/Feats/Combat-Feats#drink-and-directive-combat-dual-sphere",
-  "options": [],
+  "url": "Spheres-Of-Might/Barroom/Barroom-Sphere-Feats#drink-and-directive-combat-dual-sphere",
+  "options": [
+   "Belching Shout"
+  ],
   "summary": "You may use both hard drinker and engage tactics as part of the same action, using the longer of the two actions required.",
+  "file": "barroom.json",
+  "approved": true
+ },
+ {
+  "id": "barroom/projectile-vomit",
+  "name": "Projectile Vomit",
+  "kind": "feat",
+  "sphere": "Barroom",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "prerequisites": "Barroom sphere (Purge), base attack bonus +5.",
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Barroom/Barroom-Sphere-Feats#projectile-vomit",
+  "options": [],
+  "summary": "Prerequisites: Barroom sphere (Purge), base attack bonus +5.",
   "file": "barroom.json",
   "approved": true
  },
@@ -72507,42 +72527,6 @@
   "approved": true
  },
  {
-  "id": "beastmastery/mounted-athlete",
-  "name": "Mounted Athlete",
-  "kind": "feat",
-  "sphere": "Beastmastery",
-  "system": "Spheres of Might",
-  "group": "General",
-  "tags": [],
-  "talentTags": [],
-  "prerequisites": "Athletics sphere, Beastmastery sphere ((ride) package).",
-  "source": "The Player's Guide to Skybourne",
-  "status": "current",
-  "url": "Spheres-Of-Power/Feats/General-Feats#mounted-athlete",
-  "options": [],
-  "summary": "Whenever your mount would attempt a skill check associated with an Athletics sphere package you possess, you may attempt that skill check for your mount, using…",
-  "file": "beastmastery.json",
-  "approved": true
- },
- {
-  "id": "beastmastery/mounted-protector",
-  "name": "Mounted Protector",
-  "kind": "feat",
-  "sphere": "Beastmastery",
-  "system": "Spheres of Might",
-  "group": "General",
-  "tags": [],
-  "talentTags": [],
-  "prerequisites": "Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package).",
-  "source": "The Player's Guide to Skybourne",
-  "status": "current",
-  "url": "Spheres-Of-Power/Feats/General-Feats#mounted-protector",
-  "options": [],
-  "summary": "While mounted, you may use your mount’s movement whenever you could move as part of your patrol, provided your mount’s total movement before its next turn does…",
-  "file": "beastmastery.json",
-  "approved": true
- },
- {
   "id": "beastmastery/arcane-opening-champion",
   "name": "Arcane Opening",
   "kind": "feat",
@@ -72773,6 +72757,62 @@
   "approved": true
  },
  {
+  "id": "beastmastery/mixed-coordinator-combat",
+  "name": "Mixed Coordinator",
+  "kind": "feat",
+  "sphere": "Beastmastery",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [
+   "combat"
+  ],
+  "talentTags": [],
+  "prerequisites": "Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package.",
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Might/Beastmastery/Beastmastery-Sphere-Feats#mixed-coordinator-combat",
+  "options": [],
+  "summary": "When you tame a creature or recruit a cohort, you may choose to have its Hit Dice count against both your tame and recruit limits.",
+  "file": "beastmastery.json",
+  "approved": true
+ },
+ {
+  "id": "beastmastery/mounted-athlete",
+  "name": "Mounted Athlete",
+  "kind": "feat",
+  "sphere": "Beastmastery",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "prerequisites": "Athletics sphere, Beastmastery sphere ((ride) package).",
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Might/Beastmastery/Beastmastery-Sphere-Feats#mounted-athlete",
+  "options": [],
+  "summary": "Whenever your mount would attempt a skill check associated with an Athletics sphere package you possess, you may attempt that skill check for your mount, using…",
+  "file": "beastmastery.json",
+  "approved": true
+ },
+ {
+  "id": "beastmastery/mounted-protector",
+  "name": "Mounted Protector",
+  "kind": "feat",
+  "sphere": "Beastmastery",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "prerequisites": "Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package).",
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Might/Beastmastery/Beastmastery-Sphere-Feats#mounted-protector",
+  "options": [],
+  "summary": "While mounted, you may use your mount’s movement whenever you could move as part of your patrol, provided your mount’s total movement before its next turn does…",
+  "file": "beastmastery.json",
+  "approved": true
+ },
+ {
   "id": "beastmastery/vermin-master",
   "name": "Vermin Master",
   "kind": "feat",
@@ -72787,26 +72827,6 @@
   "url": "Spheres-Of-Might/Beastmastery/Beastmastery-Sphere-Feats#vermin-master",
   "options": [],
   "summary": "Swarms and creatures of the vermin type no longer count as twice their Hit Dice against the total amount of Hit Dice you may have tame at once.",
-  "file": "beastmastery.json",
-  "approved": true
- },
- {
-  "id": "beastmastery/mixed-coordinator-combat",
-  "name": "Mixed Coordinator",
-  "kind": "feat",
-  "sphere": "Beastmastery",
-  "system": "Spheres of Might",
-  "group": "General",
-  "tags": [
-   "combat"
-  ],
-  "talentTags": [],
-  "prerequisites": "Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package.",
-  "source": "Polished Commander & Warleader",
-  "status": "current",
-  "url": "Spheres-Of-Power/Feats/Combat-Feats#mixed-coordinator-combat",
-  "options": [],
-  "summary": "When you tame a creature or recruit a cohort, you may choose to have its Hit Dice count against both your tame and recruit limits.",
   "file": "beastmastery.json",
   "approved": true
  },
@@ -73857,6 +73877,26 @@
   "approved": true
  },
  {
+  "id": "berserker/adrenaline-fueled-frenzy-combat",
+  "name": "Adrenaline-Fueled Frenzy",
+  "kind": "feat",
+  "sphere": "Berserker",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "prerequisites": "Berserker sphere (any (adrenaline) talent), Duelist sphere (Bloodied Shark’s Frenzy), base attack bonus +3.",
+  "source": "Spheres Apocrypha: Radiant and Righteous",
+  "status": "current",
+  "url": "Spheres-Of-Might/Berserker/Berserker-Sphere-Feats#adrenaline-fueled-frenzy-combat",
+  "options": [],
+  "summary": "Prerequisites: Berserker sphere (any (adrenaline) talent), Duelist sphere (Bloodied Shark’s Frenzy), base attack bonus +3.",
+  "file": "berserker.json",
+  "approved": true
+ },
+ {
   "id": "berserker/desperate-focus-combat",
   "name": "Desperate Focus",
   "kind": "feat",
@@ -73911,26 +73951,6 @@
   "url": "Spheres-Of-Might/Berserker/Berserker-Sphere-Feats#true-rage-combat",
   "options": [],
   "summary": "Prerequisites: Berserker sphere (any (adrenaline) talent), base attack bonus +6.",
-  "file": "berserker.json",
-  "approved": true
- },
- {
-  "id": "berserker/adrenaline-fueled-frenzy-combat",
-  "name": "Adrenaline-Fueled Frenzy",
-  "kind": "feat",
-  "sphere": "Berserker",
-  "system": "Spheres of Might",
-  "group": "General",
-  "tags": [
-   "Combat"
-  ],
-  "talentTags": [],
-  "prerequisites": "Berserker sphere (any (adrenaline) talent), Duelist sphere (Bloodied Shark’s Frenzy), base attack bonus +3.",
-  "source": "Ultimate Spheres of Power",
-  "status": "current",
-  "url": "Spheres-Of-Power/Feats/Combat-Feats#adrenaline-fueled-frenzy-combat",
-  "options": [],
-  "summary": "Prerequisites: Berserker sphere (any (adrenaline) talent), Duelist sphere (Bloodied Shark’s Frenzy), base attack bonus +3.",
   "file": "berserker.json",
   "approved": true
  },
@@ -74842,26 +74862,6 @@
   "approved": true
  },
  {
-  "id": "boxing/stinging-bee-combat",
-  "name": "Stinging Bee",
-  "kind": "feat",
-  "sphere": "Boxing",
-  "system": "Spheres of Might",
-  "group": "General",
-  "tags": [
-   "combat"
-  ],
-  "talentTags": [],
-  "prerequisites": "Boxing sphere (Floating Butterfly (stance)), base attack bonus +4.",
-  "source": "",
-  "status": "current",
-  "url": "Spheres-Of-Might/Boxing/Boxing-Sphere-Feats#stinging-bee-combat",
-  "options": [],
-  "summary": "Prerequisites: Boxing sphere (Floating Butterfly (stance)), base attack bonus +4.",
-  "file": "boxing.json",
-  "approved": true
- },
- {
   "id": "boxing/backup-breaker-combat",
   "name": "Backup Breaker",
   "kind": "feat",
@@ -74873,9 +74873,9 @@
   ],
   "talentTags": [],
   "prerequisites": "Boxing sphere, Dual Wielding sphere.",
-  "source": "Ultimate Spheres of Power",
+  "source": "",
   "status": "current",
-  "url": "Spheres-Of-Power/Feats/Combat-Feats#backup-breaker-combat",
+  "url": "Spheres-Of-Might/Boxing/Boxing-Sphere-Feats#backup-breaker-combat",
   "options": [],
   "summary": "When you ready a counter punch to make a dual attack, you may make only the attack with your primary or off-hand weapon when your counter punch is triggered.",
   "file": "boxing.json",
@@ -74893,11 +74893,31 @@
   ],
   "talentTags": [],
   "prerequisites": "Athletics sphere, Boxing sphere (Shoulder Roll).",
-  "source": "Polished Commander & Warleader",
+  "source": "",
   "status": "current",
-  "url": "Spheres-Of-Power/Feats/Combat-Feats#rolling-serpent-combat",
+  "url": "Spheres-Of-Might/Boxing/Boxing-Sphere-Feats#rolling-serpent-combat",
   "options": [],
   "summary": "As long as you have martial focus, whenever a creature makes a melee attack against you while you are using a movement mode corresponding to a package you…",
+  "file": "boxing.json",
+  "approved": true
+ },
+ {
+  "id": "boxing/stinging-bee-combat",
+  "name": "Stinging Bee",
+  "kind": "feat",
+  "sphere": "Boxing",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [
+   "combat"
+  ],
+  "talentTags": [],
+  "prerequisites": "Boxing sphere (Floating Butterfly (stance)), base attack bonus +4.",
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Might/Boxing/Boxing-Sphere-Feats#stinging-bee-combat",
+  "options": [],
+  "summary": "Prerequisites: Boxing sphere (Floating Butterfly (stance)), base attack bonus +4.",
   "file": "boxing.json",
   "approved": true
  },
@@ -76521,6 +76541,44 @@
   "approved": true
  },
  {
+  "id": "dual-wielding/backup-breaker-combat",
+  "name": "Backup Breaker",
+  "kind": "feat",
+  "sphere": "Dual Wielding",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "prerequisites": "Boxing sphere, Dual Wielding sphere.",
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Might/Dual-Wielding/Dual-Wielding-Sphere-Feats#backup-breaker-combat",
+  "options": [],
+  "summary": "When you ready a counter punch to make a dual attack, you may make only the attack with your primary or off-hand weapon when your counter punch is triggered.",
+  "file": "dual-wielding.json",
+  "approved": true
+ },
+ {
+  "id": "dual-wielding/dual-wielding-mystic-fusion",
+  "name": "Dual Wielding Mystic Fusion",
+  "kind": "feat",
+  "sphere": "Dual Wielding",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "prerequisites": "Dual Wielding Sphere, Spherecasting.",
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Might/Dual-Wielding/Dual-Wielding-Sphere-Feats#dual-wielding-mystic-fusion",
+  "options": [],
+  "summary": "As a special attack action, while you have martial focus you can use your Dual Attack or Combo Maneuvers ability with a sphere ability in place of your first…",
+  "file": "dual-wielding.json",
+  "approved": true
+ },
+ {
   "id": "dual-wielding/harmonious-swordplay-combat",
   "name": "Harmonious Swordplay",
   "kind": "feat",
@@ -76537,26 +76595,6 @@
   "url": "Spheres-Of-Might/Dual-Wielding/Dual-Wielding-Sphere-Feats#harmonious-swordplay-combat",
   "options": [],
   "summary": "As long as you have martial focus, dual attacks made with a manufactured weapon and an unarmed strike remove the attack penalty from dual attack for one…",
-  "file": "dual-wielding.json",
-  "approved": true
- },
- {
-  "id": "dual-wielding/backup-breaker-combat",
-  "name": "Backup Breaker",
-  "kind": "feat",
-  "sphere": "Dual Wielding",
-  "system": "Spheres of Might",
-  "group": "General",
-  "tags": [
-   "Combat"
-  ],
-  "talentTags": [],
-  "prerequisites": "Boxing sphere, Dual Wielding sphere.",
-  "source": "Ultimate Spheres of Power",
-  "status": "current",
-  "url": "Spheres-Of-Power/Feats/Combat-Feats#backup-breaker-combat",
-  "options": [],
-  "summary": "When you ready a counter punch to make a dual attack, you may make only the attack with your primary or off-hand weapon when your counter punch is triggered.",
   "file": "dual-wielding.json",
   "approved": true
  },
@@ -77437,24 +77475,6 @@
   "approved": true
  },
  {
-  "id": "duelist/bloodrunner",
-  "name": "Bloodrunner",
-  "kind": "feat",
-  "sphere": "Duelist",
-  "system": "Spheres of Might",
-  "group": "General",
-  "tags": [],
-  "talentTags": [],
-  "prerequisites": "Blood sphere or Duelist sphere, character level 7th.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
-  "status": "current",
-  "url": "Spheres-Of-Power/Feats/General-Feats#bloodrunner",
-  "options": [],
-  "summary": "You ignore any detriment from traversing on bloody terrain, such as difficult terrain or the terrain being considered slippery (as long as blood is the only…",
-  "file": "duelist.json",
-  "approved": true
- },
- {
   "id": "duelist/bloodmonger-champion",
   "name": "Bloodmonger",
   "kind": "feat",
@@ -77589,24 +77609,6 @@
   "approved": true
  },
  {
-  "id": "duelist/great-iaijutsu",
-  "name": "Great Iaijutsu",
-  "kind": "feat",
-  "sphere": "Duelist",
-  "system": "Spheres of Might",
-  "group": "General",
-  "tags": [],
-  "talentTags": [],
-  "prerequisites": "Duelist sphere (Iai Slash (bleed)), base attack bonus +5.",
-  "source": "",
-  "status": "current",
-  "url": "Spheres-Of-Might/Duelist/Duelist-Sphere-Feats#great-iaijutsu",
-  "options": [],
-  "summary": "Prerequisites: Duelist sphere (Iai Slash (bleed)), base attack bonus +5.",
-  "file": "duelist.json",
-  "approved": true
- },
- {
   "id": "duelist/adrenaline-fueled-frenzy-combat",
   "name": "Adrenaline-Fueled Frenzy",
   "kind": "feat",
@@ -77618,11 +77620,47 @@
   ],
   "talentTags": [],
   "prerequisites": "Berserker sphere (any (adrenaline) talent), Duelist sphere (Bloodied Shark’s Frenzy), base attack bonus +3.",
-  "source": "Ultimate Spheres of Power",
+  "source": "Polished Commander & Warleader",
   "status": "current",
-  "url": "Spheres-Of-Power/Feats/Combat-Feats#adrenaline-fueled-frenzy-combat",
+  "url": "Spheres-Of-Might/Duelist/Duelist-Sphere-Feats#adrenaline-fueled-frenzy-combat",
   "options": [],
   "summary": "Prerequisites: Berserker sphere (any (adrenaline) talent), Duelist sphere (Bloodied Shark’s Frenzy), base attack bonus +3.",
+  "file": "duelist.json",
+  "approved": true
+ },
+ {
+  "id": "duelist/bloodrunner",
+  "name": "Bloodrunner",
+  "kind": "feat",
+  "sphere": "Duelist",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "prerequisites": "Blood sphere or Duelist sphere, character level 7th.",
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Duelist/Duelist-Sphere-Feats#bloodrunner",
+  "options": [],
+  "summary": "You ignore any detriment from traversing on bloody terrain, such as difficult terrain or the terrain being considered slippery (as long as blood is the only…",
+  "file": "duelist.json",
+  "approved": true
+ },
+ {
+  "id": "duelist/great-iaijutsu",
+  "name": "Great Iaijutsu",
+  "kind": "feat",
+  "sphere": "Duelist",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "prerequisites": "Duelist sphere (Iai Slash (bleed)), base attack bonus +5.",
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Duelist/Duelist-Sphere-Feats#great-iaijutsu",
+  "options": [],
+  "summary": "Prerequisites: Duelist sphere (Iai Slash (bleed)), base attack bonus +5.",
   "file": "duelist.json",
   "approved": true
  },
@@ -77638,10 +77676,12 @@
   ],
   "talentTags": [],
   "prerequisites": "Warleader sphere 5 associated skill ranks; Duelist sphere; Warleader sphere.",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Polished Commander & Warleader",
   "status": "current",
-  "url": "Spheres-Of-Power/Feats/Combat-Feats#hunting-party-combat",
-  "options": [],
+  "url": "Spheres-Of-Might/Duelist/Duelist-Sphere-Feats#hunting-party-combat",
+  "options": [
+   "Carve Them Up!"
+  ],
   "summary": "You and allies benefitting from your Warleader sphere effects gain a +2 bonus on critical confirmation rolls against bleeding targets and a +2 bonus on…",
   "file": "duelist.json",
   "approved": true
@@ -80505,24 +80545,6 @@
   "approved": true
  },
  {
-  "id": "fencing/understand-thy-enemy",
-  "name": "Understand Thy Enemy",
-  "kind": "feat",
-  "sphere": "Fencing",
-  "system": "Spheres of Might",
-  "group": "General",
-  "tags": [],
-  "talentTags": [],
-  "prerequisites": "Fencing sphere (Read Foe, Parry And Riposte) or Fencing sphere (Read Foe) and opportune parry and riposte deed, Scout sphere.",
-  "source": "The Player's Guide to Skybourne",
-  "status": "current",
-  "url": "Spheres-Of-Power/Feats/General-Feats#understand-thy-enemy",
-  "options": [],
-  "summary": "Whenever you scout a creature, the next parry and riposte you use against that creature does not cost martial focus, an attack of opportunity, or a panache…",
-  "file": "fencing.json",
-  "approved": true
- },
- {
   "id": "fencing/tactical-warping-champion",
   "name": "Tactical Warping",
   "kind": "feat",
@@ -80653,6 +80675,24 @@
   "approved": true
  },
  {
+  "id": "fencing/understand-thy-enemy",
+  "name": "Understand Thy Enemy",
+  "kind": "feat",
+  "sphere": "Fencing",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "prerequisites": "Fencing sphere (Read Foe, Parry And Riposte) or Fencing sphere (Read Foe) and opportune parry and riposte deed, Scout sphere.",
+  "source": "Spheres Apocrypha: Swashbucklers",
+  "status": "current",
+  "url": "Spheres-Of-Might/Fencing/Fencing-Sphere-Feats#understand-thy-enemy",
+  "options": [],
+  "summary": "Whenever you scout a creature, the next parry and riposte you use against that creature does not cost martial focus, an attack of opportunity, or a panache…",
+  "file": "fencing.json",
+  "approved": true
+ },
+ {
   "id": "fencing/wiggling-footsies-combat",
   "name": "Wiggling Footsies",
   "kind": "feat",
@@ -80664,9 +80704,9 @@
   ],
   "talentTags": [],
   "prerequisites": "Fencing sphere (Footwork), Scout sphere (Calibrating Wiggle).",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Spheres Apocrypha: Swashbucklers",
   "status": "current",
-  "url": "Spheres-Of-Power/Feats/Combat-Feats#wiggling-footsies-combat",
+  "url": "Spheres-Of-Might/Fencing/Fencing-Sphere-Feats#wiggling-footsies-combat",
   "options": [],
   "summary": "Whenever you use the Fencing sphere Footwork talent in response to an attack made against you, you may also scout the attacker.",
   "file": "fencing.json",
@@ -82118,9 +82158,9 @@
   ],
   "talentTags": [],
   "prerequisites": "Gladiator sphere, Warleader sphere ((shout) package).",
-  "source": "Ultimate Spheres of Power",
+  "source": "Polished Commander & Warleader",
   "status": "current",
-  "url": "Spheres-Of-Power/Feats/Combat-Feats#booming-boast-combat-dual-sphere",
+  "url": "Spheres-Of-Might/Gladiator/Gladiator-Sphere-Feats#booming-boast-combat-dual-sphere",
   "options": [],
   "summary": "Whenever you boast, you may instead shout.",
   "file": "gladiator.json",
@@ -82905,24 +82945,6 @@
   "approved": true
  },
  {
-  "id": "guardian/mounted-protector",
-  "name": "Mounted Protector",
-  "kind": "feat",
-  "sphere": "Guardian",
-  "system": "Spheres of Might",
-  "group": "General",
-  "tags": [],
-  "talentTags": [],
-  "prerequisites": "Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package).",
-  "source": "The Player's Guide to Skybourne",
-  "status": "current",
-  "url": "Spheres-Of-Power/Feats/General-Feats#mounted-protector",
-  "options": [],
-  "summary": "While mounted, you may use your mount’s movement whenever you could move as part of your patrol, provided your mount’s total movement before its next turn does…",
-  "file": "guardian.json",
-  "approved": true
- },
- {
   "id": "guardian/goading-malediction-champion",
   "name": "Goading Malediction",
   "kind": "feat",
@@ -83154,6 +83176,24 @@
   "approved": true
  },
  {
+  "id": "guardian/mounted-protector",
+  "name": "Mounted Protector",
+  "kind": "feat",
+  "sphere": "Guardian",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "prerequisites": "Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package).",
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Guardian/Guardian-Sphere-Feats#mounted-protector",
+  "options": [],
+  "summary": "While mounted, you may use your mount’s movement whenever you could move as part of your patrol, provided your mount’s total movement before its next turn does…",
+  "file": "guardian.json",
+  "approved": true
+ },
+ {
   "id": "guardian/overwatch-combat",
   "name": "Overwatch",
   "kind": "feat",
@@ -83165,11 +83205,31 @@
   ],
   "talentTags": [],
   "prerequisites": "Covering Fire talent, Guardian sphere (patrol package)",
-  "source": "",
+  "source": "Polished Commander & Warleader",
   "status": "current",
   "url": "Spheres-Of-Might/Guardian/Guardian-Sphere-Feats#overwatch-combat",
   "options": [],
   "summary": "Prerequisites: Covering Fire talent, Guardian sphere (patrol package) Benefit: You may treat the area you threaten with the Covering Fire talent as if it were…",
+  "file": "guardian.json",
+  "approved": true
+ },
+ {
+  "id": "guardian/tactical-patrol-combat",
+  "name": "Tactical Patrol",
+  "kind": "feat",
+  "sphere": "Guardian",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "prerequisites": "Guardian sphere ((patrol) package); Warleader sphere ((tactic) package).",
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Guardian/Guardian-Sphere-Feats#tactical-patrol-combat",
+  "options": [],
+  "summary": "In addition, you gain the following option: - Engaging Patrol (dual sphere): Whenever you patrol, you may engage tactics as part of that same action.",
   "file": "guardian.json",
   "approved": true
  },
@@ -83191,26 +83251,6 @@
   "url": "Spheres-Of-Power/Feats/Combat-Feats#spell-absorption-combat-counterspell",
   "options": [],
   "summary": "You may bind yourself to an oncoming spell at great risk.",
-  "file": "guardian.json",
-  "approved": true
- },
- {
-  "id": "guardian/tactical-patrol-combat",
-  "name": "Tactical Patrol",
-  "kind": "feat",
-  "sphere": "Guardian",
-  "system": "Spheres of Might",
-  "group": "General",
-  "tags": [
-   "Combat"
-  ],
-  "talentTags": [],
-  "prerequisites": "Guardian sphere ((patrol) package); Warleader sphere ((tactic) package).",
-  "source": "The Player's Guide to Skybourne",
-  "status": "current",
-  "url": "Spheres-Of-Power/Feats/Combat-Feats#tactical-patrol-combat",
-  "options": [],
-  "summary": "In addition, you gain the following option: - Engaging Patrol (dual sphere): Whenever you patrol, you may engage tactics as part of that same action.",
   "file": "guardian.json",
   "approved": true
  },
@@ -84774,9 +84814,9 @@
   ],
   "talentTags": [],
   "prerequisites": "Athletics sphere, Open Hand sphere.",
-  "source": "Polished Commander & Warleader",
+  "source": "",
   "status": "current",
-  "url": "Spheres-Of-Power/Feats/Combat-Feats#pouncing-sweep-combat",
+  "url": "Spheres-Of-Might/Open-Hand/Open-Hand-Sphere-Feats#pouncing-sweep-combat",
   "options": [],
   "summary": "Whenever you use the sweep ability of the Open Hand sphere, you may move 5 feet immediately before performing the trip using any movement mode associated with…",
   "file": "open-hand.json",
@@ -86689,24 +86729,6 @@
   "approved": true
  },
  {
-  "id": "scout/understand-thy-enemy",
-  "name": "Understand Thy Enemy",
-  "kind": "feat",
-  "sphere": "Scout",
-  "system": "Spheres of Might",
-  "group": "General",
-  "tags": [],
-  "talentTags": [],
-  "prerequisites": "Fencing sphere (Read Foe, Parry And Riposte) or Fencing sphere (Read Foe) and opportune parry and riposte deed, Scout sphere.",
-  "source": "The Player's Guide to Skybourne",
-  "status": "current",
-  "url": "Spheres-Of-Power/Feats/General-Feats#understand-thy-enemy",
-  "options": [],
-  "summary": "Whenever you scout a creature, the next parry and riposte you use against that creature does not cost martial focus, an attack of opportunity, or a panache…",
-  "file": "scout.json",
-  "approved": true
- },
- {
   "id": "scout/tactical-hypothesis-champion",
   "name": "Tactical Hypothesis",
   "kind": "feat",
@@ -86906,7 +86928,7 @@
   ],
   "talentTags": [],
   "prerequisites": "Perception 5 ranks, Scout sphere.",
-  "source": "",
+  "source": "Spheres Apocrypha: Swashbucklers",
   "status": "current",
   "url": "Spheres-Of-Might/Scout/Scout-Sphere-Feats#observant-oppurrtunist-combat",
   "options": [],
@@ -86924,7 +86946,7 @@
   "tags": [],
   "talentTags": [],
   "prerequisites": "Scout sphere, studied target or studied combat class feature.",
-  "source": "",
+  "source": "Spheres Apocrypha: Swashbucklers",
   "status": "current",
   "url": "Spheres-Of-Might/Scout/Scout-Sphere-Feats#studied-scout",
   "options": [],
@@ -86942,11 +86964,29 @@
   "tags": [],
   "talentTags": [],
   "prerequisites": "Scout sphere, favored enemy class feature.",
-  "source": "",
+  "source": "Spheres Apocrypha: Swashbucklers",
   "status": "current",
   "url": "Spheres-Of-Might/Scout/Scout-Sphere-Feats#target-spotting",
   "options": [],
   "summary": "Whenever you scout an enemy, you may expend your martial focus to treat them, for the duration of the scout, as your favored enemy for the purpose of your…",
+  "file": "scout.json",
+  "approved": true
+ },
+ {
+  "id": "scout/understand-thy-enemy",
+  "name": "Understand Thy Enemy",
+  "kind": "feat",
+  "sphere": "Scout",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "prerequisites": "Fencing sphere (Read Foe, Parry And Riposte) or Fencing sphere (Read Foe) and opportune parry and riposte deed, Scout sphere.",
+  "source": "Spheres Apocrypha: Swashbucklers",
+  "status": "current",
+  "url": "Spheres-Of-Might/Scout/Scout-Sphere-Feats#understand-thy-enemy",
+  "options": [],
+  "summary": "Whenever you scout a creature, the next parry and riposte you use against that creature does not cost martial focus, an attack of opportunity, or a panache…",
   "file": "scout.json",
   "approved": true
  },
@@ -86962,9 +87002,9 @@
   ],
   "talentTags": [],
   "prerequisites": "Fencing sphere (Footwork), Scout sphere (Calibrating Wiggle).",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Spheres Apocrypha: Swashbucklers",
   "status": "current",
-  "url": "Spheres-Of-Power/Feats/Combat-Feats#wiggling-footsies-combat",
+  "url": "Spheres-Of-Might/Scout/Scout-Sphere-Feats#wiggling-footsies-combat",
   "options": [],
   "summary": "Whenever you use the Fencing sphere Footwork talent in response to an attack made against you, you may also scout the attacker.",
   "file": "scout.json",
@@ -87695,26 +87735,6 @@
   "approved": true
  },
  {
-  "id": "shield/iron-palm-combat",
-  "name": "Iron Palm",
-  "kind": "feat",
-  "sphere": "Shield",
-  "system": "Spheres of Might",
-  "group": "General",
-  "tags": [
-   "combat"
-  ],
-  "talentTags": [],
-  "prerequisites": "Shield sphere, Improved Unarmed Strike.",
-  "source": "",
-  "status": "current",
-  "url": "Spheres-Of-Might/Shield/Shield-Sphere-Feats#iron-palm-combat",
-  "options": [],
-  "summary": "Prerequisite: Shield sphere, Improved Unarmed Strike.",
-  "file": "shield.json",
-  "approved": true
- },
- {
   "id": "shield/escutcheon-combat",
   "name": "Escutcheon",
   "kind": "feat",
@@ -87728,11 +87748,31 @@
   "prerequisites": "Shield sphere; Warleader sphere (Heraldry) or banner class feature.",
   "source": "Polished Commander & Warleader",
   "status": "current",
-  "url": "Spheres-Of-Power/Feats/Combat-Feats#escutcheon-combat",
+  "url": "Spheres-Of-Might/Shield/Shield-Sphere-Feats#escutcheon-combat",
   "options": [
    "Clangorous Shout"
   ],
   "summary": "When using your standard as a shield, you increase the radius of your Warleader sphere abilities by 5 feet, +5 feet per enhancement bonus of your shield.",
+  "file": "shield.json",
+  "approved": true
+ },
+ {
+  "id": "shield/iron-palm-combat",
+  "name": "Iron Palm",
+  "kind": "feat",
+  "sphere": "Shield",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [
+   "combat"
+  ],
+  "talentTags": [],
+  "prerequisites": "Shield sphere, Improved Unarmed Strike.",
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Shield/Shield-Sphere-Feats#iron-palm-combat",
+  "options": [],
+  "summary": "Prerequisite: Shield sphere, Improved Unarmed Strike.",
   "file": "shield.json",
   "approved": true
  },
@@ -95763,6 +95803,27 @@
   "approved": true
  },
  {
+  "id": "warleader/booming-boast-combat-dual-sphere",
+  "name": "Booming Boast",
+  "kind": "feat",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [
+   "Combat",
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "prerequisites": "Gladiator sphere, Warleader sphere ((shout) package).",
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Feats#booming-boast-combat-dual-sphere",
+  "options": [],
+  "summary": "Whenever you boast, you may instead shout.",
+  "file": "warleader.json",
+  "approved": true
+ },
+ {
   "id": "warleader/constant-chatter-combat",
   "name": "Constant Chatter",
   "kind": "feat",
@@ -95777,8 +95838,77 @@
   "source": "Polished Commander & Warleader",
   "status": "current",
   "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Feats#constant-chatter-combat",
-  "options": [],
+  "options": [
+   "Constant Chatter"
+  ],
   "summary": "You never learned how to stop talking.",
+  "file": "warleader.json",
+  "approved": true
+ },
+ {
+  "id": "warleader/drink-and-directive-combat-dual-sphere",
+  "name": "Drink and Directive",
+  "kind": "feat",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [
+   "Combat",
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "prerequisites": "Barroom sphere; Warleader sphere.",
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Feats#drink-and-directive-combat-dual-sphere",
+  "options": [
+   "Belching Shout"
+  ],
+  "summary": "You may use both hard drinker and engage tactics as part of the same action, using the longer of the two actions required.",
+  "file": "warleader.json",
+  "approved": true
+ },
+ {
+  "id": "warleader/escutcheon-combat",
+  "name": "Escutcheon",
+  "kind": "feat",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "prerequisites": "Shield sphere; Warleader sphere (Heraldry) or banner class feature.",
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Feats#escutcheon-combat",
+  "options": [
+   "Clangorous Shout"
+  ],
+  "summary": "When using your standard as a shield, you increase the radius of your Warleader sphere abilities by 5 feet, +5 feet per enhancement bonus of your shield.",
+  "file": "warleader.json",
+  "approved": true
+ },
+ {
+  "id": "warleader/hunting-party-combat",
+  "name": "Hunting Party",
+  "kind": "feat",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "prerequisites": "Warleader sphere 5 associated skill ranks; Duelist sphere; Warleader sphere.",
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Feats#hunting-party-combat",
+  "options": [
+   "Carve Them Up!"
+  ],
+  "summary": "You and allies benefitting from your Warleader sphere effects gain a +2 bonus on critical confirmation rolls against bleeding targets and a +2 bonus on…",
   "file": "warleader.json",
   "approved": true
  },
@@ -95861,6 +95991,26 @@
   "approved": true
  },
  {
+  "id": "warleader/tactical-patrol-combat",
+  "name": "Tactical Patrol",
+  "kind": "feat",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "prerequisites": "Guardian sphere ((patrol) package); Warleader sphere ((tactic) package).",
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Feats#tactical-patrol-combat",
+  "options": [],
+  "summary": "In addition, you gain the following option: - Engaging Patrol (dual sphere): Whenever you patrol, you may engage tactics as part of that same action.",
+  "file": "warleader.json",
+  "approved": true
+ },
+ {
   "id": "warleader/tacticians-acumen-combat",
   "name": "Tactician's Acumen",
   "kind": "feat",
@@ -95877,110 +96027,6 @@
   "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Feats#tacticians-acumen-combat",
   "options": [],
   "summary": "You gain the following benefits based on the following class features you possess: - Warleader (Heraldry) or Banner class feature: Allies benefitting from your…",
-  "file": "warleader.json",
-  "approved": true
- },
- {
-  "id": "warleader/booming-boast-combat-dual-sphere",
-  "name": "Booming Boast",
-  "kind": "feat",
-  "sphere": "Warleader",
-  "system": "Spheres of Might",
-  "group": "General",
-  "tags": [
-   "Combat",
-   "Dual Sphere"
-  ],
-  "talentTags": [],
-  "prerequisites": "Gladiator sphere, Warleader sphere ((shout) package).",
-  "source": "Ultimate Spheres of Power",
-  "status": "current",
-  "url": "Spheres-Of-Power/Feats/Combat-Feats#booming-boast-combat-dual-sphere",
-  "options": [],
-  "summary": "Whenever you boast, you may instead shout.",
-  "file": "warleader.json",
-  "approved": true
- },
- {
-  "id": "warleader/drink-and-directive-combat-dual-sphere",
-  "name": "Drink and Directive",
-  "kind": "feat",
-  "sphere": "Warleader",
-  "system": "Spheres of Might",
-  "group": "General",
-  "tags": [
-   "Combat",
-   "Dual Sphere"
-  ],
-  "talentTags": [],
-  "prerequisites": "Barroom sphere; Warleader sphere.",
-  "source": "The Player's Guide to Skybourne",
-  "status": "current",
-  "url": "Spheres-Of-Power/Feats/Combat-Feats#drink-and-directive-combat-dual-sphere",
-  "options": [],
-  "summary": "You may use both hard drinker and engage tactics as part of the same action, using the longer of the two actions required.",
-  "file": "warleader.json",
-  "approved": true
- },
- {
-  "id": "warleader/escutcheon-combat",
-  "name": "Escutcheon",
-  "kind": "feat",
-  "sphere": "Warleader",
-  "system": "Spheres of Might",
-  "group": "General",
-  "tags": [
-   "Combat"
-  ],
-  "talentTags": [],
-  "prerequisites": "Shield sphere; Warleader sphere (Heraldry) or banner class feature.",
-  "source": "Polished Commander & Warleader",
-  "status": "current",
-  "url": "Spheres-Of-Power/Feats/Combat-Feats#escutcheon-combat",
-  "options": [
-   "Clangorous Shout"
-  ],
-  "summary": "When using your standard as a shield, you increase the radius of your Warleader sphere abilities by 5 feet, +5 feet per enhancement bonus of your shield.",
-  "file": "warleader.json",
-  "approved": true
- },
- {
-  "id": "warleader/hunting-party-combat",
-  "name": "Hunting Party",
-  "kind": "feat",
-  "sphere": "Warleader",
-  "system": "Spheres of Might",
-  "group": "General",
-  "tags": [
-   "Combat"
-  ],
-  "talentTags": [],
-  "prerequisites": "Warleader sphere 5 associated skill ranks; Duelist sphere; Warleader sphere.",
-  "source": "The Player's Guide to Skybourne",
-  "status": "current",
-  "url": "Spheres-Of-Power/Feats/Combat-Feats#hunting-party-combat",
-  "options": [],
-  "summary": "You and allies benefitting from your Warleader sphere effects gain a +2 bonus on critical confirmation rolls against bleeding targets and a +2 bonus on…",
-  "file": "warleader.json",
-  "approved": true
- },
- {
-  "id": "warleader/tactical-patrol-combat",
-  "name": "Tactical Patrol",
-  "kind": "feat",
-  "sphere": "Warleader",
-  "system": "Spheres of Might",
-  "group": "General",
-  "tags": [
-   "Combat"
-  ],
-  "talentTags": [],
-  "prerequisites": "Guardian sphere ((patrol) package); Warleader sphere ((tactic) package).",
-  "source": "The Player's Guide to Skybourne",
-  "status": "current",
-  "url": "Spheres-Of-Power/Feats/Combat-Feats#tactical-patrol-combat",
-  "options": [],
-  "summary": "In addition, you gain the following option: - Engaging Patrol (dual sphere): Whenever you patrol, you may engage tactics as part of that same action.",
   "file": "warleader.json",
   "approved": true
  },
@@ -96962,7 +97008,9 @@
   "source": "Diamond Spheres: Erudition & Esoterica",
   "status": "current",
   "url": "Spheres-Of-Power/Feats/General-Feats#expanded-battlefield-specialty-plan",
-  "options": [],
+  "options": [
+   "Prepare for the Battlefield"
+  ],
   "summary": "You gain an additional battlefield specialty.",
   "file": "commander.json",
   "approved": true

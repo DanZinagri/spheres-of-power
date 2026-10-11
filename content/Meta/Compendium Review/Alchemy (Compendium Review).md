@@ -131,7 +131,7 @@ What the compendium extractor takes from the Alchemy pages (121 entries; approve
 | [[Champion-Feats#venomfire-champion\|Venomfire]] | General | (Champion) | — | Alchemy sphere (Painful Venin x2), Destruction sphere. | Spheres Apocrypha: Radiant and Righteous |
 | [[Champion-Feats#horticulturist-champion-dual-sphere\|Horticulturist]] | General | (Champion), (Dual Sphere) | — | Associated ranks 3, Herbalism sphere ((herbal) package); either the Alchemy sphere ((poison) package) or Creation sphere | Diamond Spheres: Harmony & Discord |
 | [[Champion-Feats#natural-sciences-champion-dual-sphere\|Natural Sciences]] | General | (Champion), (Dual Sphere) | — | Associated ranks 3, Herbalism sphere ((herbal) package); either the Alchemy sphere ((formulae) package) or Nature sphere | Diamond Spheres: Harmony & Discord |
-| [[Alchemy-Sphere-Feats#compound-mutagen\|Compound Mutagen]] | General |  | Constant Chatter | Craft (alchemy) 10 ranks, Alchemy sphere ((toxin) package). | Diamond Spheres: Erudition & Esoterica |
+| [[Alchemy-Sphere-Feats#compound-mutagen\|Compound Mutagen]] | General |  | — | Craft (alchemy) 10 ranks, Alchemy sphere ((toxin) package). | Diamond Spheres: Erudition & Esoterica |
 | [[Alchemy-Sphere-Feats#designer-drugs\|Designer Drugs]] | General |  | — | Craft (alchemy) 7 ranks, Alchemy sphere (Pill Popper). | Diamond Spheres: Erudition & Esoterica |
 | [[Alchemy-Sphere-Feats#inkbound-portents\|Inkbound Portents]] | General |  | — | Alchemy sphere (War Paint (formulae)). | Spheres Apocrypha: Alchemy Poisons 2 |
 | [[Alchemy-Sphere-Feats#potent-pigments\|Potent Pigments]] | General |  | — | Alchemy sphere (War Paint (formulae)). | Spheres Apocrypha: Alchemy Poisons 2 |

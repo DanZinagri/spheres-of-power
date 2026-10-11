@@ -1317,9 +1317,9 @@
    ],
    "talentTags": [],
    "prerequisites": "Gladiator sphere, Warleader sphere ((shout) package).",
-   "source": "Ultimate Spheres of Power",
+   "source": "Polished Commander & Warleader",
    "status": "current",
-   "url": "Spheres-Of-Power/Feats/Combat-Feats#booming-boast-combat-dual-sphere",
+   "url": "Spheres-Of-Might/Gladiator/Gladiator-Sphere-Feats#booming-boast-combat-dual-sphere",
    "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*Confident and loud.*\n\n**Prerequisites:** Gladiator sphere, Warleader sphere ((shout) package).\n\n**Benefit:** Whenever you *boast*, you may instead *shout*. Enemies affected by your *shouts* are treated as being demoralized for the purposes of your Gladiator (demoralization) talents.",
    "options": []
   }

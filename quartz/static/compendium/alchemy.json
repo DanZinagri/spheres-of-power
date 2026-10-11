@@ -2039,15 +2039,7 @@
    "status": "current",
    "url": "Spheres-Of-Might/Alchemy/Alchemy-Sphere-Feats#compound-mutagen",
    "md": "*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*\n\n**Prerequisites:** Craft (alchemy) 10 ranks, Alchemy sphere ((toxin) package).\n**Benefit:** Whenever you create a mutagen that gives a choice between multiple options, you can choose two such options—for example, a Performance Enhancer could grant its benefits to both Strength and Dexterity, as well as its associated penalties.\n\nIf such a mutagen would only apply to a single instance of a roll (such as Psychotropic Hallucinogen), the mutagen applies to both chosen instances of the roll—for example, a Psychotropic Hallucinogen would apply to the next check made with an Intelligence-based skill check, as well as to the next check made with a Wisdom-based skill check.",
-   "options": [
-    {
-     "name": "Constant Chatter",
-     "tags": [],
-     "talentTags": [],
-     "anchor": "constant-chatter",
-     "md": "This modifies the *shout* sphere ability.\n\n**Action:** free action (once per round)\n\n**Duration:** 1 round\n\n**Target(s):** one creature (line of sight or chosen square)\n\n**Effect:** You *shout*, but only affect a single creature of your choice within range (this typically requires you target that creature, having line of sight or knowing the space they are occupying). The *shout*'s duration is reduced to 1 round and cannot be extended by other effects.\n\nYou cannot use this option with any of the following: instantaneous duration (shout)s, (dual sphere) abilities, and abilities and effects that would occur after performing a *shout*."
-    }
-   ]
+   "options": []
   },
   {
    "id": "alchemy/designer-drugs",

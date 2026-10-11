@@ -68,9 +68,9 @@ What the compendium extractor takes from the Boxing pages (51 entries; approved)
 | --- | --- | --- | --- | --- | --- |
 | [[Champion-Feats#glimpse-the-flow-champion-combat\|Glimpse The Flow]] | General | (Champion), (Combat) | — | Boxing sphere, Divination sphere (any (sense) talent), Divination sphere caster level 6th. | Spheres Apocrypha: Radiant and Righteous |
 | [[Champion-Feats#spell-slugger-champion\|Spell Slugger]] | General | (Champion) | — | Boxing sphere, caster level 1st. | Spheres Apocrypha: Radiant and Righteous |
+| [[Boxing-Sphere-Feats#backup-breaker-combat\|Backup Breaker]] | General | (Combat) | — | Boxing sphere, Dual Wielding sphere. |  |
+| [[Boxing-Sphere-Feats#rolling-serpent-combat\|Rolling Serpent]] | General | (combat) | — | Athletics sphere, Boxing sphere (Shoulder Roll). |  |
 | [[Boxing-Sphere-Feats#stinging-bee-combat\|Stinging Bee]] | General | (combat) | — | Boxing sphere (Floating Butterfly (stance)), base attack bonus +4. |  |
-| [[Combat-Feats#backup-breaker-combat\|Backup Breaker]] | General | (Combat) | — | Boxing sphere, Dual Wielding sphere. | Ultimate Spheres of Power |
-| [[Combat-Feats#rolling-serpent-combat\|Rolling Serpent]] | General | (combat) | — | Athletics sphere, Boxing sphere (Shoulder Roll). | Polished Commander & Warleader |
 
 ## Drawbacks (5)
 

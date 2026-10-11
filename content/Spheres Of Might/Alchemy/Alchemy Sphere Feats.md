@@ -14,20 +14,6 @@ parent: "[[Alchemy]]"
 
 If such a mutagen would only apply to a single instance of a roll (such as Psychotropic Hallucinogen), the mutagen applies to both chosen instances of the roll—for example, a Psychotropic Hallucinogen would apply to the next check made with an Intelligence-based skill check, as well as to the next check made with a Wisdom-based skill check.
 
-##### Constant Chatter
-
-This modifies the *shout* sphere ability.
-
-**Action:** free action (once per round)
-
-**Duration:** 1 round
-
-**Target(s):** one creature (line of sight or chosen square)
-
-**Effect:** You *shout*, but only affect a single creature of your choice within range (this typically requires you target that creature, having line of sight or knowing the space they are occupying). The *shout*'s duration is reduced to 1 round and cannot be extended by other effects.
-
-You cannot use this option with any of the following: instantaneous duration (shout)s, (dual sphere) abilities, and abilities and effects that would occur after performing a *shout*.
-
 #### Designer Drugs
 
 *Source: [Spheres Apocrypha: Alchemy Poisons 2](https://www.drivethrurpg.com/product/320796/Spheres-Apocrypha-Alchemy-Poisons-2?affiliate_id=549120)*

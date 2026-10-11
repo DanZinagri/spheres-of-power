@@ -650,6 +650,40 @@
    "options": []
   },
   {
+   "id": "dual-wielding/backup-breaker-combat",
+   "name": "Backup Breaker",
+   "kind": "feat",
+   "sphere": "Dual Wielding",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Boxing sphere, Dual Wielding sphere.",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Might/Dual-Wielding/Dual-Wielding-Sphere-Feats#backup-breaker-combat",
+   "md": "**Prerequisites:** Boxing sphere, Dual Wielding sphere.\n\n**Benefit:** When you ready a counter punch to make a dual attack, you may make only the attack with your primary or off-hand weapon when your counter punch is triggered. If you do, you may make your other attack when another creature would perform an action that would trigger your counter punch before the start of your next turn. You may only apply a (counter) talent to one of these attacks made as part of this counter punch. The bonus damage from a counter punch is applied to both attacks. These counter punches count as attacks in a dual attack for the purposes of Dual Wielding talents.",
+   "options": []
+  },
+  {
+   "id": "dual-wielding/dual-wielding-mystic-fusion",
+   "name": "Dual Wielding Mystic Fusion",
+   "kind": "feat",
+   "sphere": "Dual Wielding",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Dual Wielding Sphere, Spherecasting.",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Might/Dual-Wielding/Dual-Wielding-Sphere-Feats#dual-wielding-mystic-fusion",
+   "md": "**Prerequisites:** Dual Wielding Sphere, Spherecasting.\n\n**Benefit:** As a special attack action, while you have martial focus you can use your Dual Attack or Combo Maneuvers ability with a sphere ability in place of your first offhand weapon attack. The ability must be one that requires a touch attack or that can be made with a weapon attack and that can be cast with a standard action. The sphere ability has its caster level (excluding enhancement bonuses) limited to your BAB and provokes attacks of opportunity normally.\n\nIf the sphere ability is a ranged attack, it does not provoke an attack of opportunity if you possess the Mixed Assault talent.",
+   "options": []
+  },
+  {
    "id": "dual-wielding/harmonious-swordplay-combat",
    "name": "Harmonious Swordplay",
    "kind": "feat",
@@ -665,24 +699,6 @@
    "status": "current",
    "url": "Spheres-Of-Might/Dual-Wielding/Dual-Wielding-Sphere-Feats#harmonious-swordplay-combat",
    "md": "**Prerequisites:** Dual Wielding sphere, Improved Unarmed Strike.\n\n**Benefits:** As long as you have martial focus, dual attacks made with a manufactured weapon and an unarmed strike remove the attack penalty from dual attack for one manufactured weapon (as long as it is not being treated as an unarmed strike), and any unarmed strikes add your full Strength bonus to damage rolls instead of half for an off-hand attack.",
-   "options": []
-  },
-  {
-   "id": "dual-wielding/backup-breaker-combat",
-   "name": "Backup Breaker",
-   "kind": "feat",
-   "sphere": "Dual Wielding",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [
-    "Combat"
-   ],
-   "talentTags": [],
-   "prerequisites": "Boxing sphere, Dual Wielding sphere.",
-   "source": "Ultimate Spheres of Power",
-   "status": "current",
-   "url": "Spheres-Of-Power/Feats/Combat-Feats#backup-breaker-combat",
-   "md": "**Prerequisites:** Boxing sphere, Dual Wielding sphere.\n\n**Benefit:** When you ready a counter punch to make a dual attack, you may make only the attack with your primary or off-hand weapon when your counter punch is triggered. If you do, you may make your other attack when another creature would perform an action that would trigger your counter punch before the start of your next turn. You may only apply a (counter) talent to one of these attacks made as part of this counter punch. The bonus damage from a counter punch is applied to both attacks. These counter punches count as attacks in a dual attack for the purposes of Dual Wielding talents.",
    "options": []
   }
  ]

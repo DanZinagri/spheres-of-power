@@ -1161,26 +1161,10 @@
    ],
    "talentTags": [],
    "prerequisites": "Barroom sphere, Brain Consumption.",
-   "source": "Spheres Apocrypha: Dipsomania",
+   "source": "Polished Commander & Warleader",
    "status": "current",
    "url": "Spheres-Of-Might/Barroom/Barroom-Sphere-Feats#cerebrevores-ecstasy-combat",
    "md": "**Prerequisites:** Barroom sphere, Brain Consumption.\n\n**Benefit:** Whenever you consume a creature’s brain using the Brain Consumption feat, you may gain the drunk status as if you had consumed an alcoholic drink. Alternatively, while you possess a bonus talent from Brain Consumption Consumptive Intuition, you may end the bonus talent’s duration to gain the drunk status as a free action. When you gain the drunk status in either of these ways, you gain the status for double the duration (twice Constitution modifier rounds + 1 per 2 points of base attack bonus).",
-   "options": []
-  },
-  {
-   "id": "barroom/projectile-vomit",
-   "name": "Projectile Vomit",
-   "kind": "feat",
-   "sphere": "Barroom",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [],
-   "talentTags": [],
-   "prerequisites": "Barroom sphere (Purge), base attack bonus +5.",
-   "source": "Spheres Apocrypha: Dipsomania",
-   "status": "current",
-   "url": "Spheres-Of-Might/Barroom/Barroom-Sphere-Feats#projectile-vomit",
-   "md": "*Source: [Spheres Apocrypha: Dipsomania](https://www.drivethrurpg.com/product/299935/Spheres-Apocrypha-Dipsomania?affiliate_id=549120)*\n\n**Prerequisites:** Barroom sphere (Purge), base attack bonus +5.\n\n**Benefits:** When you utilize your Purge talent, you can instead perform it as a standard action, vomiting on all squares in a close-ranged cone, instead of the normal area. All affected squares are treated affected as per the Purge talent, and creatures in the cone must succeed at a Fortitude save or become sickened for one round. At base attack bonus +10 or higher, creatures that fail their Fortitude save are instead nauseated for one round, and sickened for one minute afterwards. A success negates the nauseate and reduces the sickened duration to one round.",
    "options": []
   },
   {
@@ -1196,10 +1180,37 @@
    ],
    "talentTags": [],
    "prerequisites": "Barroom sphere; Warleader sphere.",
-   "source": "The Player's Guide to Skybourne",
+   "source": "Polished Commander & Warleader",
    "status": "current",
-   "url": "Spheres-Of-Power/Feats/Combat-Feats#drink-and-directive-combat-dual-sphere",
+   "url": "Spheres-Of-Might/Barroom/Barroom-Sphere-Feats#drink-and-directive-combat-dual-sphere",
    "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*The second afternoon scotch was rarely questioned by the men. Despite the slurred speech, his tactical prowess seemed sharper than ever.*\n\n**Prerequisites:** Barroom sphere; Warleader sphere.\n\n**Benefit:** You may use both *hard drinker* and *engage tactics* as part of the same action, using the longer of the two actions required.\n\nIn addition, you gain the following option:",
+   "options": [
+    {
+     "name": "Belching Shout",
+     "tags": [
+      "drunk",
+      "dual sphere"
+     ],
+     "talentTags": [],
+     "anchor": "belching-shout-drunk-dual-sphere",
+     "md": "**Descriptor:** poison\n\n**Action:** as part of a *shout*\n\n**Target(s):** All other creatures\n\n**Saving Throw:** Fortitude (negates)\n\n**Effect:** Reduce the *shout*'s radius to 5 feet, + 5 feet per 4 Warleader associated skill ranks. In addition to the *shout*'s normal effects, other creatures within the *shout*'s radius are sickened for 1 minute (Fortitude negates).\n\nCreatures with the scent special ability suffer a -2 penalty to their saving throw against this effect."
+    }
+   ]
+  },
+  {
+   "id": "barroom/projectile-vomit",
+   "name": "Projectile Vomit",
+   "kind": "feat",
+   "sphere": "Barroom",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Barroom sphere (Purge), base attack bonus +5.",
+   "source": "Polished Commander & Warleader",
+   "status": "current",
+   "url": "Spheres-Of-Might/Barroom/Barroom-Sphere-Feats#projectile-vomit",
+   "md": "*Source: [Spheres Apocrypha: Dipsomania](https://www.drivethrurpg.com/product/299935/Spheres-Apocrypha-Dipsomania?affiliate_id=549120)*\n\n**Prerequisites:** Barroom sphere (Purge), base attack bonus +5.\n\n**Benefits:** When you utilize your Purge talent, you can instead perform it as a standard action, vomiting on all squares in a close-ranged cone, instead of the normal area. All affected squares are treated affected as per the Purge talent, and creatures in the cone must succeed at a Fortitude save or become sickened for one round. At base attack bonus +10 or higher, creatures that fail their Fortitude save are instead nauseated for one round, and sickened for one minute afterwards. A success negates the nauseate and reduces the sickened duration to one round.",
    "options": []
   }
  ]

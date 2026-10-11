@@ -32,6 +32,16 @@ parent: "[[Warleader (warleader-sphere)]]"
 
 **Special - Bardic Performance-like features:** Subject to GM discretion, class features that function similar to bardic performance (such as symbiat's psionics) may be used with this feat, and may be used to meet this feat's prerequisites.
 
+#### Booming Boast (Combat, Dual Sphere)
+
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
+
+*Confident and loud.*
+
+**Prerequisites:** Gladiator sphere, Warleader sphere ((shout) package).
+
+**Benefit:** Whenever you *boast*, you may instead *shout*. Enemies affected by your *shouts* are treated as being demoralized for the purposes of your Gladiator (demoralization) talents.
+
 #### Constant Chatter (Combat)
 
 *Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
@@ -41,6 +51,84 @@ parent: "[[Warleader (warleader-sphere)]]"
 **Prerequisites:** Warleader associated skill 6 ranks; Warleader ((shout) package).
 
 **Benefit:** You gain the following option:
+
+##### Constant Chatter
+
+This modifies the *shout* sphere ability.
+
+**Action:** free action (once per round)
+
+**Duration:** 1 round
+
+**Target(s):** one creature (line of sight or chosen square)
+
+**Effect:** You *shout*, but only affect a single creature of your choice within range (this typically requires you target that creature, having line of sight or knowing the space they are occupying). The *shout*'s duration is reduced to 1 round and cannot be extended by other effects.
+
+You cannot use this option with any of the following: instantaneous duration (shout)s, (dual sphere) abilities, and abilities and effects that would occur after performing a *shout*.
+
+#### Drink and Directive (Combat, Dual Sphere)
+
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
+
+*The second afternoon scotch was rarely questioned by the men. Despite the slurred speech, his tactical prowess seemed sharper than ever.*
+
+**Prerequisites:** Barroom sphere; Warleader sphere.
+
+**Benefit:** You may use both *hard drinker* and *engage tactics* as part of the same action, using the longer of the two actions required.
+
+In addition, you gain the following option:
+
+##### Belching Shout (drunk) (dual sphere)
+
+**Descriptor:** poison
+
+**Action:** as part of a *shout*
+
+**Target(s):** All other creatures
+
+**Saving Throw:** Fortitude (negates)
+
+**Effect:** Reduce the *shout*'s radius to 5 feet, + 5 feet per 4 Warleader associated skill ranks. In addition to the *shout*'s normal effects, other creatures within the *shout*'s radius are sickened for 1 minute (Fortitude negates).
+
+Creatures with the scent special ability suffer a -2 penalty to their saving throw against this effect.
+
+#### Escutcheon (Combat)
+
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
+
+*A shield can guard a body. Yours guards an army.*
+
+**Prerequisites:** Shield sphere; Warleader sphere (Heraldry) or banner class feature.
+
+**Benefit:** When using your standard as a shield, you increase the radius of your Warleader sphere abilities by 5 feet, +5 feet per enhancement bonus of your shield.
+
+In addition, you gain the following option:
+
+##### Clangorous Shout (deflect) (dual sphere)
+
+**Effect:** When an attack misses a creature benefitting from your *active defense*, you *shout*. A *shout* performed this way only affects a single target within range. If the chosen (shout) affects enemies, you must target the attacking creature that missed.
+
+#### Hunting Party (Combat)
+
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
+
+*Blood draws a crowd, and a crowd draws blood.*
+
+**Prerequisites:** Warleader sphere 5 associated skill ranks; Duelist sphere; Warleader sphere.
+
+**Benefit:** You and allies benefitting from your Warleader sphere effects gain a +2 bonus on critical confirmation rolls against bleeding targets and a +2 bonus on Perception and Survival checks made against bleeding targets. These bonuses increase to +4 at 10 associated skill ranks.
+
+In addition, you gain the following option:
+
+##### Carve Them Up! (shout) (dual sphere)
+
+**Duration:** 2 rounds, +1 round per 4 associated skill ranks
+
+**Target(s):** allies
+
+**Effect:** When an ally hits a bleeding target, increase the bleeding target's current bleed by 1. A bleeding target can only have their bleed increased this way once per round per attacker.
+
+If the attack is a critical hit, instead increase the bleeding target's current bleed by the weapon's critical hit multiplier, then the target takes damage from their current total bleed (as though starting their turn).
 
 #### Improvised Doctrine (Combat)
 
@@ -101,6 +189,18 @@ Whenever you or an ally causes a creature penalized by this feat to become frigh
 **Benefit:** When you reveal your *combat stratagem* plan as a full-round action, you gain 1 additional swift action during that turn. These additional swift actions cannot be used to cast spells (such as with the Quicken Spell metamagic feat).
 
 If you use one of these additional swift actions to issue a cavalier's challenge, paladin's smite evil, or other similar ability that provides benefits against a single target, each ally benefitting from your Warleader sphere effects also receives half that challenge, smite evil, or other ability's numeric effects (numeric bonuses to rolls or statistics, but not other miscellaneous benefits of the smite or challenge, such as smite evil's ability to bypass damage reduction).
+
+#### Tactical Patrol (Combat)
+
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
+
+**Prerequisites:** Guardian sphere ((patrol) package); Warleader sphere ((tactic) package).
+
+**Benefit:** Your *tactic* always includes the area of your *patrol*, even if you centered your *tactic* elsewhere.
+
+In addition, you gain the following option:
+
+- **Engaging Patrol (dual sphere):** Whenever you *patrol*, you may *engage tactics* as part of that same action. If you do, instead of selecting a (zone) talent, you may select an additional (tactic); the chosen (tactic)'s *tactical presence* and *tactical coordination* apply to the area of your patrol.
 
 #### Tactician's Acumen (Combat)
 

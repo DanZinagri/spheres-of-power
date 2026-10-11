@@ -11,6 +11,32 @@ parent: "[[Barroom]]"
 
 **Benefit:** Whenever you consume a creature’s brain using the Brain Consumption feat, you may gain the drunk status as if you had consumed an alcoholic drink. Alternatively, while you possess a bonus talent from Brain Consumption Consumptive Intuition, you may end the bonus talent’s duration to gain the drunk status as a free action. When you gain the drunk status in either of these ways, you gain the status for double the duration (twice Constitution modifier rounds + 1 per 2 points of base attack bonus).
 
+#### Drink and Directive (Combat, Dual Sphere)
+
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
+
+*The second afternoon scotch was rarely questioned by the men. Despite the slurred speech, his tactical prowess seemed sharper than ever.*
+
+**Prerequisites:** Barroom sphere; Warleader sphere.
+
+**Benefit:** You may use both *hard drinker* and *engage tactics* as part of the same action, using the longer of the two actions required.
+
+In addition, you gain the following option:
+
+##### Belching Shout (drunk) (dual sphere)
+
+**Descriptor:** poison
+
+**Action:** as part of a *shout*
+
+**Target(s):** All other creatures
+
+**Saving Throw:** Fortitude (negates)
+
+**Effect:** Reduce the *shout*'s radius to 5 feet, + 5 feet per 4 Warleader associated skill ranks. In addition to the *shout*'s normal effects, other creatures within the *shout*'s radius are sickened for 1 minute (Fortitude negates).
+
+Creatures with the scent special ability suffer a -2 penalty to their saving throw against this effect.
+
 #### Projectile Vomit
 
 *Source: [Spheres Apocrypha: Dipsomania](https://www.drivethrurpg.com/product/299935/Spheres-Apocrypha-Dipsomania?affiliate_id=549120)*

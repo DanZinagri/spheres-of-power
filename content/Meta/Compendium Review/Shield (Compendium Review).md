@@ -60,8 +60,8 @@ What the compendium extractor takes from the Shield pages (41 entries; approved)
 | --- | --- | --- | --- | --- | --- |
 | [[Champion-Feats#portal-shield-champion\|Portal Shield]] | General | (Champion) | — | Shield sphere, Warp sphere (Mass Teleport [mass], Portal (advanced), Wormhole (space)), caster level 5th. | Spheres Apocrypha: Radiant and Righteous |
 | [[Champion-Feats#shielding-ward-champion\|Shielding Ward]] | General | (Champion) | — | Shield sphere, ability to cast a spell or magic sphere effect that grants a shield bonus to AC. | Spheres Apocrypha: Radiant and Righteous |
-| [[Shield-Sphere-Feats#iron-palm-combat\|Iron Palm]] | General | (combat) | — | Shield sphere, Improved Unarmed Strike. |  |
-| [[Combat-Feats#escutcheon-combat\|Escutcheon]] | General | (Combat) | Clangorous Shout (deflect) (dual sphere) | Shield sphere; Warleader sphere (Heraldry) or banner class feature. | Polished Commander & Warleader |
+| [[Shield-Sphere-Feats#escutcheon-combat\|Escutcheon]] | General | (Combat) | Clangorous Shout (deflect) (dual sphere) | Shield sphere; Warleader sphere (Heraldry) or banner class feature. | Polished Commander & Warleader |
+| [[Shield-Sphere-Feats#iron-palm-combat\|Iron Palm]] | General | (combat) | — | Shield sphere, Improved Unarmed Strike. | Polished Commander & Warleader |
 
 ## Drawbacks (4)
 

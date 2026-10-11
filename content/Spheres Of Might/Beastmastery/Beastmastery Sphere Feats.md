@@ -29,6 +29,40 @@ Whenever you restore hit points or grant temporary hit points to an animal ally 
 
 **Example:** A sentinel uses their sentinel’s reserve to gain 14 temporary hit points. One animal ally within the sentinel’s natural reach would gain 7 temporary hit points and any damage reduction the sentinel possesses for 1 round.
 
+#### Mixed Coordinator (combat)
+
+**Prerequisites:** Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package.
+
+When you tame a creature or recruit a cohort, you may choose to have its Hit Dice count against both your tame and recruit limits. When doing so, the creature counts as both an animal ally and a cohort for the purpose of talents that grant actions to or are triggered by cohorts and animal allies.
+
+#### Mounted Athlete
+
+The handler is often as athletic as the mount.
+
+**Prerequisites:** Athletics sphere, Beastmastery sphere ((ride) package).
+
+**Benefit:** Whenever your mount would attempt a skill check associated with an Athletics sphere package you possess, you may attempt that skill check for your mount, using your bonus in that skill. For example, if you possess the (leap) or (run) packages, you may attempt Acrobatics checks for your mount whenever your mount would attempt such a check.
+
+In addition, you share your Athletics sphere talents with your mount. Your mount is treated as possessing any packages or talents you possess and uses your skill ranks and Athletics sphere save DC when determining the effects of shared talents.
+
+If your mount cannot maintain martial focus, shared Athletics sphere talents do not grant the ability to maintain martial focus.
+
+As long as you have martial focus, your mount counts as possessing martial focus when determining the benefits of shared Athletics sphere talents that require you to have martial focus (such as the Swift Movement talent). If your mount would expend martial focus to use a shared Athletics sphere talent, you must expend your martial focus and both you and your mount benefit from the shared talent’s effects (where applicable). A mount that is a practitioner and can maintain martial focus cannot use its own martial focus with shared Athletics sphere talents, but may use shared talents in combination with any talents it possesses.
+
+Your mount’s movement made using a movement mode corresponding to an Athletics sphere package you possess counts as your own movement for the purposes of Athletics sphere talents. This allows you to use Athletics sphere talents while mounted, such as using the Reflexive Twist talent to avoid an attack despite being mounted. Whenever your mount’s movement would allow you or your mount to use a (motion) talent, both you and your mount must use the same (motion) talent. If a (motion) talent would affect another creature, it only affects that creature a single time (such as the Dizzying Tumble (motion) talent only occurring once). If a (motion) talent would benefit you, it benefits both you and your mount normally (such as both you and your mount gaining miss chance from the Moving Target (motion) talent).
+
+Athletics sphere talents which allow you or your mount to take an action are only used by the creature that spent the required actions, unless both creatures spend the required actions. For example, if your mount uses the Diving Strike talent, only your mount gains the benefits and suffers the risks of the talent unless you also take the charge action with your mount, gaining the bonus damage to your attack but also suffering the fall damage.
+
+#### Mounted Protector
+
+Your protective might is delivered on the swift heels of your mount.
+
+**Prerequisites:** Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package).
+
+**Benefit:** While mounted, you may use your mount’s movement whenever you could move as part of your patrol, provided your mount’s total movement before its next turn does not exceed its base speed. Any movement you or your mount make provoke attacks of opportunity as normal. In addition, whenever you could make an attack of opportunity as part of your patrol, you may have your mount make an attack of opportunity against that target instead.
+
+**Normal:** You cannot move with your mount as part of your patrol.
+
 #### Vermin Master
 
 **Prerequisites:** Beastmastery sphere (Bee Keeper), able to tame creatures of the vermin type.

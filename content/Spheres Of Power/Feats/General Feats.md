@@ -120,25 +120,9 @@ In addition, you may summon or manifest your eidolon or phantom as a full-round 
 
 Lastly, you treat mutagens as an alcoholic beverage—if you already do so, the drunk status lasts twice as long when imbibing an alcoholic mutagen.
 
-#### Bloodrunner
-
-**Prerequisites:** Blood sphere or Duelist sphere, character level 7th.
-
-**Benefit:** Your body has grown a tolerance for the blood of others, and you have learned to use it to your advantage. You ignore any detriment from traversing on bloody terrain, such as difficult terrain or the terrain being considered slippery (as long as blood is the only reason that terrain is detrimental), and you gain a +2 bonus on all saving throws against bleed effects and any effect from the Blood sphere. You can distinctly tell the difference between the blood of any two creatures, and can identify the blood of creatures you have witnessed before. You can attempt a Knowledge check to identify a creature by merely witnessing its blood, as if you had seen the creature by sight, but only if the blood was shed within an hour of you attempting to identify it.
-
 #### Brain Consumption
 
 **Benefit:** You may consume the brain of an unconscious creature or a creature who has died within the last 24 hours as a fullround action. A corpse preserved by the Corpse Manipulation talent may have its brain consumed in this way within a week of its death. This functions as a coup de grace against a living creature with a base damage of 4d8 + your Strength modifier and a critical multiplier of x2. Doing so grants you a +2 insight bonus to two skills that the creature whose brain you ate possessed ranks in. You may only benefit from having one brain eaten at a time, but these bonuses last until the next time you consume a creature’s brain. You are immune to any non-magical diseases you are exposed to as part of consuming a creature’s brain and do not suffer any mundane negative health effects from consuming a creature’s brain, even if it would not normally be part of your natural diet. You gain no benefit from consuming the brains of subordinates. The creature’s brain is not eaten if they are not killed by this effect and you cannot consume the brains of creatures that lack brains (at GM discretion).
-
-##### Carve Them Up! (shout) (dual sphere)
-
-**Duration:** 2 rounds, +1 round per 4 associated skill ranks
-
-**Target(s):** allies
-
-**Effect:** When an ally hits a bleeding target, increase the bleeding target's current bleed by 1. A bleeding target can only have their bleed increased this way once per round per attacker.
-
-If the attack is a critical hit, instead increase the bleeding target's current bleed by the weapon's critical hit multiplier, then the target takes damage from their current total bleed (as though starting their turn).
 
 #### Cantrips
 
@@ -317,12 +301,6 @@ Your commander's decorum bonus now also applies to the chosen skills.
 
 **Benefit:** You add +2 to your MSB and MSD for the purposes of conflicting sphere abilities. When creating a sphere ability that will conflict with another effect (i.e. you are creating the effect and it will immediately conflict with another effect), you may spend +1 spell point to double this feat’s bonuses for the initial magic skill check made by the conflicting sphere effect (but not for future conflicts).
 
-#### Detailed Charting
-
-**Prerequisites:** Investigation sphere, Navigation sphere.
-
-**Benefit:** As a standard action, you may analyze an area or target in that area while also applying your pathing to a location in that area. The targeted area, creature, or object must be within range of both your analyze and pathing abilities.
-
 #### Dimensional Tether
 
 **Prerequisite:** Destruction Sphere (energy tether) or Mana Sphere (hardened bond)
@@ -348,14 +326,6 @@ Etching your limbs with exquisite art, your body truly becomes a weapon.
 **Benefit:** You gain the acolyte dreaming hedgewitch secret. You may use this feat to qualify for the Extra Secret feat, but may only use it to select additional instances of the acolyte dreaming secret.
 
 **Note:** If you do not have hedgewitch levels, you may use your character level as your effective hedgewitch level for determining the power of the acolyte dreaming hedgewitch secret.
-
-#### Dual Wielding Mystic Fusion
-
-**Prerequisites:** Dual Wielding Sphere, Spherecasting.
-
-**Benefit:** As a special attack action, while you have martial focus you can use your Dual Attack or Combo Maneuvers ability with a sphere ability in place of your first offhand weapon attack. The ability must be one that requires a touch attack or that can be made with a weapon attack and that can be cast with a standard action. The sphere ability has its caster level (excluding enhancement bonuses) limited to your BAB and provokes attacks of opportunity normally.
-
-If the sphere ability is a ranged attack, it does not provoke an attack of opportunity if you possess the Mixed Assault talent.
 
 #### Dual Wielding Mystic Strike
 
@@ -408,6 +378,12 @@ Additionally, when shifting the beam, you can have it flicker, allowing you to �
 **Prerequisite:** Commander 10th level, battlefield specialty class feature.
 
 **Benefit:** You gain an additional battlefield specialty. In addition, you gain the following plan:
+
+##### Prepare for the Battlefield [plan]
+
+**Effect:** When you reveal this plan, you immediately retrain the battlefield specialty granted by this feat.
+
+You can reveal this plan once per week.
 
 #### Expedited Incantation
 
@@ -635,34 +611,6 @@ When you learn the ins and outs of an engine, you can coax more from it than ano
 
 **Benefit:** The benefits of Favored Metamagic apply to all metamagic feats you possess, not just those specific metamagic feats you have chosen with Favored Metamagic.
 
-#### Mounted Athlete
-
-The handler is often as athletic as the mount.
-
-**Prerequisites:** Athletics sphere, Beastmastery sphere ((ride) package).
-
-**Benefit:** Whenever your mount would attempt a skill check associated with an Athletics sphere package you possess, you may attempt that skill check for your mount, using your bonus in that skill. For example, if you possess the (leap) or (run) packages, you may attempt Acrobatics checks for your mount whenever your mount would attempt such a check.
-
-In addition, you share your Athletics sphere talents with your mount. Your mount is treated as possessing any packages or talents you possess and uses your skill ranks and Athletics sphere save DC when determining the effects of shared talents.
-
-If your mount cannot maintain martial focus, shared Athletics sphere talents do not grant the ability to maintain martial focus.
-
-As long as you have martial focus, your mount counts as possessing martial focus when determining the benefits of shared Athletics sphere talents that require you to have martial focus (such as the Swift Movement talent). If your mount would expend martial focus to use a shared Athletics sphere talent, you must expend your martial focus and both you and your mount benefit from the shared talent’s effects (where applicable). A mount that is a practitioner and can maintain martial focus cannot use its own martial focus with shared Athletics sphere talents, but may use shared talents in combination with any talents it possesses.
-
-Your mount’s movement made using a movement mode corresponding to an Athletics sphere package you possess counts as your own movement for the purposes of Athletics sphere talents. This allows you to use Athletics sphere talents while mounted, such as using the Reflexive Twist talent to avoid an attack despite being mounted. Whenever your mount’s movement would allow you or your mount to use a (motion) talent, both you and your mount must use the same (motion) talent. If a (motion) talent would affect another creature, it only affects that creature a single time (such as the Dizzying Tumble (motion) talent only occurring once). If a (motion) talent would benefit you, it benefits both you and your mount normally (such as both you and your mount gaining miss chance from the Moving Target (motion) talent).
-
-Athletics sphere talents which allow you or your mount to take an action are only used by the creature that spent the required actions, unless both creatures spend the required actions. For example, if your mount uses the Diving Strike talent, only your mount gains the benefits and suffers the risks of the talent unless you also take the charge action with your mount, gaining the bonus damage to your attack but also suffering the fall damage.
-
-#### Mounted Protector
-
-Your protective might is delivered on the swift heels of your mount.
-
-**Prerequisites:** Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package).
-
-**Benefit:** While mounted, you may use your mount’s movement whenever you could move as part of your patrol, provided your mount’s total movement before its next turn does not exceed its base speed. Any movement you or your mount make provoke attacks of opportunity as normal. In addition, whenever you could make an attack of opportunity as part of your patrol, you may have your mount make an attack of opportunity against that target instead.
-
-**Normal:** You cannot move with your mount as part of your patrol.
-
 #### Nebulous Preparation [Plan]
 
 You know how to prepare spells or extracts most of the way, and then finish the process at the last moment.
@@ -861,14 +809,6 @@ If the person you share the mandate with performs an action that would allow you
 
 *Source: Card Casting Bonus Content*
 
-#### Speculative Analysis
-
-**Prerequisite:** Investigation sphere, Study sphere.
-
-**Benefit:** Whenever you successfully use the analyze Investigation sphere ability, you can begin a theory on the analyzed target as a free action. If the analyze attempt gains a detailed analysis, the theory starts with one notion.
-
-Additionally, you gain a +1 insight bonus to analyze skill checks made against the subject of your theory for every notion the theory possesses.
-
 #### Spell Adept (General)
 *Source: [The Player's Guide to Skybourne](https://www.drivethrurpg.com/product/173399/The-Players-Guide-to-Skybourne?affiliate_id=549120)*
 
@@ -1008,31 +948,11 @@ If your transformation would grant you additional legs, you may instead gain the
 
 **Benefit:** You may spend a spell point or ki point to treat deadly wounds on a creature as a full-round action as per the Heal skill. You may do this even if the creature that has already received such treatment that day.
 
-#### Tug The Heartstrings
-
-Your expressions of creativity possess a deeper meaning, making them harder to ignore to those who understand your experience.
-
-**Prerequisites:** Artifice sphere ((artwork) package) or Performance sphere.
-
-**Benefit:** Whenever you create an Artifice sphere artwork or use a Performance sphere ability, choose a motivation, even if you do not possess the motivation. Creatures who perceive the sphere ability or engage with the artwork that possess a similar (or the same) motivation must succeed at a Will saving throw or suffer a -2 penalty to any saving throws or checks associated with the sphere ability or artwork.
-
-If the motivation is a major motivation of the creature, they gain a +4 bonus to the saving throw against this effect, although the penalty increases to -4 if they fail.
-
-You can spend 1 use of skill leverage to also have creatures who fail their saving throw against this ability be forced to reveal the associated motivation to any creatures who are observing them. Creatures who are affected by this feat become immune to its effects for 8 hours, regardless of the result. If you do not possess the chosen motivation, affected creatures can attempt a Sense Motive check against an opposed Bluff check. If they succeed, they discover your deception and gain a +4 bonus to their saving throw against this feat.
-
 #### Unarmored Mastery
 
 **Prerequisites:** Unarmored Training, +8 base attack bonus or 8 ranks in Acrobatics.
 
 Your mastery of unarmored combat is so great that even changes to your body do not impede you. You no longer lose the benefits of Unarmored Training when under any polymorph effect.
-
-#### Understand Thy Enemy
-
-*Source: [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)*
-
-**Prerequisites:** Fencing sphere (Read Foe, Parry And Riposte) or Fencing sphere (Read Foe) and opportune parry and riposte deed, Scout sphere.
-
-**Benefit:** Whenever you scout a creature, the next parry and riposte you use against that creature does not cost martial focus, an attack of opportunity, or a panache point. When used in this way, the ability does not require you to have a panache point to perform an attack and you do not regain martial focus.
 
 #### Unseen Terror
 

@@ -26,3 +26,21 @@ After a successful attack action or attack of opportunity against an unscouted t
 **Prerequisites:** Scout sphere, favored enemy class feature.
 
 **Benefit:** Whenever you scout an enemy, you may expend your martial focus to treat them, for the duration of the scout, as your favored enemy for the purpose of your favored enemy ability. You receive the maximum bonuses against them that your favored enemy feature can grant.
+
+#### Understand Thy Enemy
+
+*Source: [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)*
+
+**Prerequisites:** Fencing sphere (Read Foe, Parry And Riposte) or Fencing sphere (Read Foe) and opportune parry and riposte deed, Scout sphere.
+
+**Benefit:** Whenever you scout a creature, the next parry and riposte you use against that creature does not cost martial focus, an attack of opportunity, or a panache point. When used in this way, the ability does not require you to have a panache point to perform an attack and you do not regain martial focus.
+
+#### Wiggling Footsies (combat)
+
+**Prerequisites:** Fencing sphere (Footwork), Scout sphere (Calibrating Wiggle).
+
+**Benefits:** Whenever you use the Fencing sphere Footwork talent in response to an attack made against you, you may also scout the attacker. If you successfully avoid the attack (e.g. missing or succeeding at a Reflex saving throw) and you have scouted the attacker (whether previously scouted or as part of this ability), you gain the Scout sphere Calibrating Wiggle’s bonus precision damage on your first successful attack made against the attacker before the end of your next turn, even if you do not make a charge attack against them.
+
+In addition, whenever you deal the Scout sphere Calibrating Wiggle’s bonus precision damage to a target, you may regain martial focus as a free action that can be taken even when it is not your turn.
+
+**Special:** Abilities which function similarly to the Fencing sphere Footwork talent may be used to qualify for this feat in place of the Footwork talent (such as the Warp sphere Emergency Teleport talent, swashbuckler’s dodging panache deed, or other ability subject to GM discretion), and may treat evading an attack with such an abilities as using the Footwork talent for the purposes of this feat.

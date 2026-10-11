@@ -16,20 +16,6 @@ parent: "[[Retired Ultimate]]"
 
 Once per round you may recenter an ongoing tactic maintained as part of using bardic performance or raging song at a new location. Whenever the character creates a new tactic, they may attach it to their song or create it normally. Tactics attached to songs can be ended as a free action. Finally, as long as the song continues, the character may shout once per round as a swift or move action.
 
-##### Belching Shout (drunk) (dual sphere)
-
-**Descriptor:** poison
-
-**Action:** as part of a *shout*
-
-**Target(s):** All other creatures
-
-**Saving Throw:** Fortitude (negates)
-
-**Effect:** Reduce the *shout*'s radius to 5 feet, + 5 feet per 4 Warleader associated skill ranks. In addition to the *shout*'s normal effects, other creatures within the *shout*'s radius are sickened for 1 minute (Fortitude negates).
-
-Creatures with the scent special ability suffer a -2 penalty to their saving throw against this effect.
-
 #### Booming Boast (combat)
 
 **Prerequisites:** Gladiator sphere, Warleader sphere.

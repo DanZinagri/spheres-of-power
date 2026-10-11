@@ -1144,6 +1144,18 @@ Using a scanner is not treated as reading the text for effects that would occur 
 
 - **Writing Detector (gizmo):** This *detector* senses written information (including digitally stored written information. Determine the detected writing’s signature strength using **Table: Writing Signature Strength**. The user may pinpoint detected targets (but only for the purposes of targeting that source of written information, such as to then record with a text scanner).
 
+##### Table: Writing Signature Strength
+
+| Quantity of Text | Approximate Number of Words | Strength |
+| --- | --- | --- |
+| A few words or sentences | ~25 words | Diluted |
+| A few pages of information | ~250 words | Weak |
+| A typical book or a scroll or small spellbook1, such as a novice’s spellbook | ~2,500 words | Considerate |
+| A massive book or a medium spellbook | ~25,000 words | Potent |
+| Magical books of great size, such as an archmage’s spellbook, storage *routines* holding many books | ~250,000 words | Astounding |
+
+1: For the purposes of approximate number of words, magical writing is 10-times an equivalent amount of mundane writing (for example, 250 words in a magical source of writing would be a “Considerate” signature strength).
+
 #### Sensory Set (gizmo) [utility]
 
 *You learn to craft gizmos which can record and play back information, as well as augment and enhance a creature’s senses.*
@@ -1195,18 +1207,6 @@ You may choose to have verbal commands only be usable by a chosen creature (or c
 - **Sensory Gizmos (upgrade):** The *mechanoid* gains each sensory gizmo as an innate gizmo. Innate gizmos from this upgrade may transmit sensory information to the pilot and its passengers (or the *mechanoid*, if it is able to act independently). This allows the pilot and its passengers to use the *mechanoid’s* senses as if they were their own (primarily when piloting the *mechanoid*, using mounted weapons, etc.), but does not allow a passenger to ignore line of effect.
 
   **Special - Multimedia (accommodation):** The multimedia accommodation is treated as possessing the sensory gizmos upgrade (this does not count against the *mechanoid’s* maximum upgrades).
-
-##### Table: Writing Signature Strength
-
-| Quantity of Text | Approximate Number of Words | Strength |
-| --- | --- | --- |
-| A few words or sentences | ~25 words | Diluted |
-| A few pages of information | ~250 words | Weak |
-| A typical book or a scroll or small spellbook1, such as a novice’s spellbook | ~2,500 words | Considerate |
-| A massive book or a medium spellbook | ~25,000 words | Potent |
-| Magical books of great size, such as an archmage’s spellbook, storage *routines* holding many books | ~250,000 words | Astounding |
-
-1: For the purposes of approximate number of words, magical writing is 10-times an equivalent amount of mundane writing (for example, 250 words in a magical source of writing would be a “Considerate” signature strength).
 
 #### Technological Weapons (gizmo)
 

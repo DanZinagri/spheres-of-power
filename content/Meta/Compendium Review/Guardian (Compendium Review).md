@@ -67,16 +67,16 @@ What the compendium extractor takes from the Guardian pages (58 entries; approve
 
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
-| [[General-Feats#mounted-protector\|Mounted Protector]] | General |  | — | Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package). | The Player's Guide to Skybourne |
 | [[Champion-Feats#goading-malediction-champion\|Goading Malediction]] | General | (Champion) | — | Fate sphere, Guardian sphere ((challenge) package). | Spheres Apocrypha: Radiant and Righteous |
 | [[Champion-Feats#harrying-hospitaler-champion\|Harrying Hospitaler]] | General | (Champion) | — | Guardian sphere (Defend Other), Life sphere (Empathic Healing). | Spheres Apocrypha: Radiant and Righteous |
 | [[Champion-Feats#i-will-save-you-champion\|I Will Save You]] | General | (Champion) | — | Guardian sphere (Defend Other, I Will Hear, I Will Come), Life sphere (Empathic Healing), Harrying Hospitaler, base atta | Spheres Apocrypha: Radiant and Righteous |
 | [[Champion-Feats#otherworldly-host-champion\|Otherworldly Host]] | General | (Champion) | — | Alteration sphere (Outsider Body), Guardian sphere. | Spheres Apocrypha: Banshee's Gasp |
 | [[Champion-Feats#sword-of-omens-champion\|Sword Of Omens]] | General | (Champion) | — | Fate sphere, Guardian sphere, base attack bonus +5. | Spheres Apocrypha: Radiant and Righteous |
 | [[Champion-Feats#guarded-fane-champion-dual-sphere\|Guarded Fane]] | General | (Champion), (Dual Sphere) | — | Guardian sphere ((patrol) package), any magical sphere (see text). | Diamond Spheres: Harmony & Discord |
-| [[Guardian-Sphere-Feats#overwatch-combat\|Overwatch]] | General | (combat) | — | Covering Fire talent, Guardian sphere (patrol package) |  |
+| [[Guardian-Sphere-Feats#mounted-protector\|Mounted Protector]] | General |  | — | Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package). | Polished Commander & Warleader |
+| [[Guardian-Sphere-Feats#overwatch-combat\|Overwatch]] | General | (combat) | — | Covering Fire talent, Guardian sphere (patrol package) | Polished Commander & Warleader |
+| [[Guardian-Sphere-Feats#tactical-patrol-combat\|Tactical Patrol]] | General | (Combat) | — | Guardian sphere ((patrol) package); Warleader sphere ((tactic) package). | Polished Commander & Warleader |
 | [[Combat-Feats#spell-absorption-combat-counterspell\|Spell Absorption]] | General | (Combat), (Counterspell) | — | Guardian sphere (Cold Iron Call, Defend Other), Counterspell, Counterspell Mastery, magic skill bonus +7. | The Player's Guide to Skybourne |
-| [[Combat-Feats#tactical-patrol-combat\|Tactical Patrol]] | General | (Combat) | — | Guardian sphere ((patrol) package); Warleader sphere ((tactic) package). | The Player's Guide to Skybourne |
 
 ## Drawbacks (6)
 

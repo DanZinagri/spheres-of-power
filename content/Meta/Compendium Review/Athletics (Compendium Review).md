@@ -114,13 +114,13 @@ What the compendium extractor takes from the Athletics pages (97 entries; approv
 
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
-| [[General-Feats#mounted-athlete\|Mounted Athlete]] | General |  | — | Athletics sphere, Beastmastery sphere ((ride) package). | The Player's Guide to Skybourne |
 | [[Champion-Feats#dimensional-athlete-champion\|Dimensional Athlete]] | General | (Champion) | — | Athletics sphere, Warp sphere. | Diamond Spheres: Hustle & Bustle |
 | [[Champion-Feats#mobile-caster-champion\|Mobile Caster]] | General | (Champion) | — | Athletics sphere (Mobile Striker), caster level 1st. | Spheres Apocrypha: Banshee's Gasp |
 | [[Champion-Feats#sojourner-champion\|Sojourner]] | General | (Champion) | — | Perform (dance) 3 ranks, Performance sphere ((dance) package); Athletics sphere or Warp sphere. | Spheres Apocrypha: Radiant and Righteous |
 | [[Champion-Feats#trailblazer-champion\|Trailblazer]] | General | (Champion) | — | Athletics sphere, Navigation sphere. | Spheres Apocrypha: Radiant and Righteous |
-| [[Combat-Feats#pouncing-sweep-combat\|Pouncing Sweep]] | General | (combat) | — | Athletics sphere, Open Hand sphere. | Polished Commander & Warleader |
-| [[Combat-Feats#rolling-serpent-combat\|Rolling Serpent]] | General | (combat) | — | Athletics sphere, Boxing sphere (Shoulder Roll). | Polished Commander & Warleader |
+| [[Athletics-Sphere-Feats#mounted-athlete\|Mounted Athlete]] | General |  | — | Athletics sphere, Beastmastery sphere ((ride) package). |  |
+| [[Athletics-Sphere-Feats#pouncing-sweep-combat\|Pouncing Sweep]] | General | (combat) | — | Athletics sphere, Open Hand sphere. |  |
+| [[Athletics-Sphere-Feats#rolling-serpent-combat\|Rolling Serpent]] | General | (combat) | — | Athletics sphere, Boxing sphere (Shoulder Roll). |  |
 
 ## Drawbacks (6)
 

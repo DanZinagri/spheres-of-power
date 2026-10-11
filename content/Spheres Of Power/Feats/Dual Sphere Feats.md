@@ -10,14 +10,6 @@ parent: "[[Feats]]"
 
 In Ultimate Spheres of Power, Dual Sphere feats can be found on the pages for their respective feats. While this page is no longer in use, you can change to the Original Tab if you still want to use the older feats.
 
-#### Hymnal Verse (Dual Sphere)
-
-*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
-
-**Prerequisites:** Occultism sphere, Performance sphere ((lyric) package).
-
-**Benefit:** Whenever you use a rite (and do so at least using a standard action), you can use a lyric as a free action.
-
 ---
 
 *Archived: [[Dual Sphere Feats (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

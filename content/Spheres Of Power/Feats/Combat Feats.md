@@ -10,16 +10,6 @@ parent: "[[Feats]]"
 
 Combat feats are combat-related options, and most notably, they can be selected as bonus feats by a number of different classes.
 
-#### Adrenaline-Fueled Frenzy (Combat)
-
-The shark’s frenzy turns to a churning rage.
-
-**Prerequisites:** Berserker sphere (any (adrenaline) talent), Duelist sphere (Bloodied Shark’s Frenzy), base attack bonus +3.
-
-**Benefit:** Whenever you enter a blood frenzy using the Bloodied Shark’s Frenzy talent, you may also gain the benefits of one (adrenaline) talent you possess for the blood frenzy’s duration. If an (adrenaline) talent requires you to expend your martial focus to use each round, you do not need to expend martial focus when first entering a blood frenzy, but must expend martial focus at the start of each subsequent round to gain the benefits of that (adrenaline).
-
-**Special:** When you successfully make a brutal strike special attack action and deal bleed damage with that attack, you may expend your martial focus as a free action to enter a blood frenzy.
-
 #### Aligned Attacks (Combat)
 
 **Prerequisites:** Non-neutral alignment, caster level 5th.
@@ -51,22 +41,6 @@ You may spend a spell point to make your destructive blast fly in an erratic pat
 **Prerequisite:** Int 13.
 
 **Benefit:** As long as you are last in the initiative count, use your Intelligence modifier for attack rolls in place of the ability modifier that you would normally use.
-
-#### Backup Breaker (Combat)
-
-**Prerequisites:** Boxing sphere, Dual Wielding sphere.
-
-**Benefit:** When you ready a counter punch to make a dual attack, you may make only the attack with your primary or off-hand weapon when your counter punch is triggered. If you do, you may make your other attack when another creature would perform an action that would trigger your counter punch before the start of your next turn. You may only apply a (counter) talent to one of these attacks made as part of this counter punch. The bonus damage from a counter punch is applied to both attacks. These counter punches count as attacks in a dual attack for the purposes of Dual Wielding talents.
-
-#### Booming Boast (Combat, Dual Sphere)
-
-*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
-
-*Confident and loud.*
-
-**Prerequisites:** Gladiator sphere, Warleader sphere ((shout) package).
-
-**Benefit:** Whenever you *boast*, you may instead *shout*. Enemies affected by your *shouts* are treated as being demoralized for the purposes of your Gladiator (demoralization) talents.
 
 #### Calculated Shot (Combat)
 
@@ -173,18 +147,6 @@ The wielder cannot willingly reduce or deal nonlethal damage with this attack. O
 
 **Benefit:** Whenever you are rallied, you receive a +4 dodge bonus to AC until the end of your next turn.
 
-#### Drink and Directive (Combat, Dual Sphere)
-
-*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
-
-*The second afternoon scotch was rarely questioned by the men. Despite the slurred speech, his tactical prowess seemed sharper than ever.*
-
-**Prerequisites:** Barroom sphere; Warleader sphere.
-
-**Benefit:** You may use both *hard drinker* and *engage tactics* as part of the same action, using the longer of the two actions required.
-
-In addition, you gain the following option:
-
 #### Elemental Might (Combat)
 
 You channel the elements through decisive strikes and furtive determination.
@@ -210,22 +172,6 @@ Whenever you perform an attack action and expend martial focus to deal additiona
 **Prerequisites:** Destruction sphere (Energy Sphere (blast shape)).
 
 **Benefit:** When using the Energy Sphere blast shape, you may spend 2 spell points instead of 1 to form the energy sphere into a serpent, which grows with every target it damages. Whenever the energy sphere successfully deals damage to a target, its size increases by 1 5-foot square. When moving the energy sphere each round, its squares must be arranged contiguously in an arrangement that follows the movement of the ‘head’ of the serpent.
-
-#### Escutcheon (Combat)
-
-*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
-
-*A shield can guard a body. Yours guards an army.*
-
-**Prerequisites:** Shield sphere; Warleader sphere (Heraldry) or banner class feature.
-
-**Benefit:** When using your standard as a shield, you increase the radius of your Warleader sphere abilities by 5 feet, +5 feet per enhancement bonus of your shield.
-
-In addition, you gain the following option:
-
-##### Clangorous Shout (deflect) (dual sphere)
-
-**Effect:** When an attack misses a creature benefitting from your *active defense*, you *shout*. A *shout* performed this way only affects a single target within range. If the chosen (shout) affects enemies, you must target the attacking creature that missed.
 
 #### Extend Stance (combat)
 
@@ -311,18 +257,6 @@ Your experience with violence renders you resistant to mental stress.
 **Benefit:** As a move action, you may expend focus to suppress a single instance of the dazzled, fatigued, shaken, or sickened condition for a number of rounds equal to your Constitution modifier (minimum 1). The duration of these conditions continues to expire while suppressed. You may instead choose to treat the frightened condition as shaken, the nauseated condition as sickened, the exhausted condition as fatigued, or the blinded condition as dazzled for the same duration. You may take this move action even if the condition would normally prevent you from taking move actions. You may only have one condition suppressed at a time; suppressing an additional condition forces you to stop suppressing the previous condition.
 
 If your base attack bonus is +10 or higher, you may suppress the dazed, frightened, nauseated, shaken, staggered, and stunned conditions and treat the panicked condition as shaken, though the duration of the suppression is cut in half (minimum 1 round).
-
-#### Hunting Party (Combat)
-
-*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
-
-*Blood draws a crowd, and a crowd draws blood.*
-
-**Prerequisites:** Warleader sphere 5 associated skill ranks; Duelist sphere; Warleader sphere.
-
-**Benefit:** You and allies benefitting from your Warleader sphere effects gain a +2 bonus on critical confirmation rolls against bleeding targets and a +2 bonus on Perception and Survival checks made against bleeding targets. These bonuses increase to +4 at 10 associated skill ranks.
-
-In addition, you gain the following option:
 
 #### Imbued Strike (Combat)
 
@@ -428,12 +362,6 @@ In addition, by spending a spell point as a standard action, you may will your m
 
 This is treated as a supernatural ability. Any delayed damage can be taken at a point prior to the expiration of the delay by dismissing the effect, as if dismissing a spell. Healing received while damage is delayed can preemptively negate the damage before the effect ends if you wish. If an attack’s damage is negated entirely, secondary effects of the damage are also negated if the secondary effect would be negated through damage reduction.
 
-#### Mixed Coordinator (combat)
-
-**Prerequisites:** Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package.
-
-When you tame a creature or recruit a cohort, you may choose to have its Hit Dice count against both your tame and recruit limits. When doing so, the creature counts as both an animal ally and a cohort for the purpose of talents that grant actions to or are triggered by cohorts and animal allies.
-
 #### Muscular Reflexes (combat)
 
 You rely on muscle memory and strength to enhance your reflexes.
@@ -478,12 +406,6 @@ Using the sphere or supernatural ability provokes an attack of opportunity if it
 
 **Benefit:** When attacking a target with a miss chance granted from a spell, sphere effect, supernatural or spell-like ability, you may take a penalty to your attack roll to reduce the miss chance for that attack. Each -1 penalty to the attack roll you take reduces the miss chance by 10%. You cannot use this feat to take a penalty greater than half of your base attack bonus (rounded up).
 
-#### Pouncing Sweep (combat)
-
-**Prerequisites:** Athletics sphere, Open Hand sphere.
-
-**Benefits:** Whenever you use the sweep ability of the Open Hand sphere, you may move 5 feet immediately before performing the trip using any movement mode associated with Athletics sphere packages you possess. This movement provokes attacks of opportunity as normal. At +6 base attack bonus and every 5 base attack bonus higher, you may add up to +5 feet of movement to the sweep.
-
 #### Practiced Interruption (combat)
 
 You are adept at anticipating and interrupting spellcasters.
@@ -493,12 +415,6 @@ You are adept at anticipating and interrupting spellcasters.
 **Benefit:** You may expend your martial focus to ready an attack action to disrupt a spell caster’s casting as a move action. The spellcaster must be within reach or range of your wielded weapon. A single casting attempt cannot trigger more than one readied action to interrupt from you.
 
 **Special:** You may take this feat a second time. If you do, you may instead use this ability as a swift action.
-
-##### Prepare for the Battlefield [plan]
-
-**Effect:** When you reveal this plan, you immediately retrain the battlefield specialty granted by this feat.
-
-You can reveal this plan once per week.
 
 #### Precision Bombardment (Combat)
 
@@ -594,12 +510,6 @@ When one of your allies primes a technique, you respond immediately.
 
 **Benefit:** Whenever you are benefiting from a dodge bonus to AC from Combat Expertise, you also gain a +1 competence bonus to saving throws. When your base attack bonus reaches +8, and every +8 thereafter, this bonus increases by +1.
 
-#### Rolling Serpent (combat)
-
-**Prerequisites:** Athletics sphere, Boxing sphere (Shoulder Roll).
-
-**Benefits:** As long as you have martial focus, whenever a creature makes a melee attack against you while you are using a movement mode corresponding to a package you possess, you may use shoulder roll against the attack without it counting towards your one usage per round.
-
 #### Shape Expert (Combat)
 
 **Prerequisites:** Destruction sphere (Energy Wall (blast shape) or Explosive Orb (blast shape)).
@@ -688,18 +598,6 @@ You may bind yourself to an oncoming spell at great risk.
 Your aid fortifies your ally’s martial capabilities.
 
 **Benefit:** Whenever you use the aid another action, you may choose to increase the target’s base attack bonus by 2 for the duration of the aid another action rather than providing the normal benefit. This ability cannot be affected by effects which would increase the benefit granted from aid another.
-
-#### Tactical Patrol (Combat)
-
-*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
-
-**Prerequisites:** Guardian sphere ((patrol) package); Warleader sphere ((tactic) package).
-
-**Benefit:** Your *tactic* always includes the area of your *patrol*, even if you centered your *tactic* elsewhere.
-
-In addition, you gain the following option:
-
-- **Engaging Patrol (dual sphere):** Whenever you *patrol*, you may *engage tactics* as part of that same action. If you do, instead of selecting a (zone) talent, you may select an additional (tactic); the chosen (tactic)'s *tactical presence* and *tactical coordination* apply to the area of your patrol.
 
 #### Technique Crafting (Combat)
 
@@ -927,16 +825,6 @@ Additionally, as a full-round action, you may render a creature that is entangle
 **Prerequisites:** Illusion sphere (Mage Feint), base attack bonus +3.
 
 **Benefit:** Add your casting ability modifier as a circumstance bonus to AC against attacks of opportunity incurred when charging or making ranged attacks. In addition, as a full-round action you may make a single ranged or charge attack and use your Mage Feint talent as part of the same action against that target.
-
-#### Wiggling Footsies (combat)
-
-**Prerequisites:** Fencing sphere (Footwork), Scout sphere (Calibrating Wiggle).
-
-**Benefits:** Whenever you use the Fencing sphere Footwork talent in response to an attack made against you, you may also scout the attacker. If you successfully avoid the attack (e.g. missing or succeeding at a Reflex saving throw) and you have scouted the attacker (whether previously scouted or as part of this ability), you gain the Scout sphere Calibrating Wiggle’s bonus precision damage on your first successful attack made against the attacker before the end of your next turn, even if you do not make a charge attack against them.
-
-In addition, whenever you deal the Scout sphere Calibrating Wiggle’s bonus precision damage to a target, you may regain martial focus as a free action that can be taken even when it is not your turn.
-
-**Special:** Abilities which function similarly to the Fencing sphere Footwork talent may be used to qualify for this feat in place of the Footwork talent (such as the Warp sphere Emergency Teleport talent, swashbuckler’s dodging panache deed, or other ability subject to GM discretion), and may treat evading an attack with such an abilities as using the Footwork talent for the purposes of this feat.
 
 ---
 

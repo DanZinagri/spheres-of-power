@@ -85,9 +85,9 @@ What the compendium extractor takes from the Barroom pages (70 entries; approved
 | [[Champion-Feats#spirits-in-the-blood-champion\|Spirits In The Blood]] | General | (Champion) | — | Barroom sphere, Blood sphere. | Spheres Apocrypha: Radiant and Righteous |
 | [[Champion-Feats#bard-of-booze-dual-sphere\|Bard of Booze]] | General | (Dual Sphere) | — | Barroom sphere and Performance sphere. | Diamond Spheres: Invention & Ingenuity |
 | [[Champion-Feats#organic-spirits-dual-sphere\|Organic Spirits]] | General | (Dual Sphere) | — | Barroom sphere plus one other sphere: Nature sphere or Herbalism sphere. | Diamond Spheres: Invention & Ingenuity |
-| [[Barroom-Sphere-Feats#cerebrevores-ecstasy-combat\|Cerebrevore’s Ecstasy]] | General | (Combat) | — | Barroom sphere, Brain Consumption. | Spheres Apocrypha: Dipsomania |
-| [[Barroom-Sphere-Feats#projectile-vomit\|Projectile Vomit]] | General |  | — | Barroom sphere (Purge), base attack bonus +5. | Spheres Apocrypha: Dipsomania |
-| [[Combat-Feats#drink-and-directive-combat-dual-sphere\|Drink and Directive]] | General | (Combat), (Dual Sphere) | — | Barroom sphere; Warleader sphere. | The Player's Guide to Skybourne |
+| [[Barroom-Sphere-Feats#cerebrevores-ecstasy-combat\|Cerebrevore’s Ecstasy]] | General | (Combat) | — | Barroom sphere, Brain Consumption. | Polished Commander & Warleader |
+| [[Barroom-Sphere-Feats#drink-and-directive-combat-dual-sphere\|Drink and Directive]] | General | (Combat), (Dual Sphere) | Belching Shout (drunk) (dual sphere) | Barroom sphere; Warleader sphere. | Polished Commander & Warleader |
+| [[Barroom-Sphere-Feats#projectile-vomit\|Projectile Vomit]] | General |  | — | Barroom sphere (Purge), base attack bonus +5. | Polished Commander & Warleader |
 
 ## Drawbacks (7)
 

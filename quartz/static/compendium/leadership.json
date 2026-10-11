@@ -1411,6 +1411,24 @@
    "options": []
   },
   {
+   "id": "leadership/mixed-coordinator-combat",
+   "name": "Mixed Coordinator",
+   "kind": "feat",
+   "sphere": "Leadership",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [
+    "combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package.",
+   "source": "Polished Leadership",
+   "status": "current",
+   "url": "Spheres-Of-Might/Leadership/Leadership-Sphere-Feats#mixed-coordinator-combat",
+   "md": "**Prerequisites:** Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package.\n\nWhen you tame a creature or recruit a cohort, you may choose to have its Hit Dice count against both your tame and recruit limits. When doing so, the creature counts as both an animal ally and a cohort for the purpose of talents that grant actions to or are triggered by cohorts and animal allies.",
+   "options": []
+  },
+  {
    "id": "leadership/radiant-quests",
    "name": "Radiant Quests",
    "kind": "feat",
@@ -1490,24 +1508,6 @@
    "status": "current",
    "url": "Spheres-Of-Might/Leadership/Leadership-Sphere-Feats#theurgical-disciples",
    "md": "*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*\n\n*Faith is strongest when kneeling before the same altar.*\n\n**Prerequisite:** Leadership ((cohort) package); domain or inquisition class feature, cohort same alignment as you (see text).\n\n**Benefit:** You gain a +2 bonus to Knowledge (religion) skill checks. If you have 10 or more ranks in Knowledge (religion), this bonus increases to +4.\n\nIn addition, each cohort that shares an alignment with you and that worships the same deity as you gains access to a single domain or inquisition that could be granted by your deity's portfolio. Cohorts use their cohort level as their effective cleric level when determining the domain or inquisition's effects.",
-   "options": []
-  },
-  {
-   "id": "leadership/mixed-coordinator-combat",
-   "name": "Mixed Coordinator",
-   "kind": "feat",
-   "sphere": "Leadership",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [
-    "combat"
-   ],
-   "talentTags": [],
-   "prerequisites": "Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package.",
-   "source": "Polished Commander & Warleader",
-   "status": "current",
-   "url": "Spheres-Of-Power/Feats/Combat-Feats#mixed-coordinator-combat",
-   "md": "**Prerequisites:** Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package.\n\nWhen you tame a creature or recruit a cohort, you may choose to have its Hit Dice count against both your tame and recruit limits. When doing so, the creature counts as both an animal ally and a cohort for the purpose of talents that grant actions to or are triggered by cohorts and animal allies.",
    "options": []
   }
  ]

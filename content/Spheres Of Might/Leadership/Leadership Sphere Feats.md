@@ -71,6 +71,12 @@ Additional job benefits granted by this feat can be retrained similar to retrain
 
 A subordinate may now benefit from (cohort) talents, except those that permanently improve or modify a cohort, such as quartermaster's skill, talented cohorts, and training regiment. Class features or other abilities that further customize cohorts similarly do not apply to subordinates (such as a knight captain's squires or a sheriff's deputies).
 
+#### Mixed Coordinator (combat)
+
+**Prerequisites:** Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package.
+
+When you tame a creature or recruit a cohort, you may choose to have its Hit Dice count against both your tame and recruit limits. When doing so, the creature counts as both an animal ally and a cohort for the purpose of talents that grant actions to or are triggered by cohorts and animal allies.
+
 #### Radiant Quests
 
 *Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*

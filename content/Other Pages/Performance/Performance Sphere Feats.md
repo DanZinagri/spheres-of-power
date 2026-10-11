@@ -152,6 +152,14 @@ You can spend 1 use of skill leverage to also have creatures who fail their savi
 - *Hardcore (Gladiator sphere, Performance sphere)*: Whenever you start an act, dance, or instrumental, or use a lyric, as a free action, you can attempt an Intimidate check to demoralize a creature that is within the ability’s area or would be affected by the ability.
   Additionally, whenever a creature contributes to one of your act’s scenes, joins your dance, or expends one of your lyrics, you can boast as an immediate action.
 
+#### Hymnal Verse (Dual Sphere)
+
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
+
+**Prerequisites:** Occultism sphere, Performance sphere ((lyric) package).
+
+**Benefit:** Whenever you use a rite (and do so at least using a standard action), you can use a lyric as a free action.
+
 #### Song In Your Soul
 
 *Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
