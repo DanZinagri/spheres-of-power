@@ -719,7 +719,7 @@ async function loadRaceData() {
 const isPf = (e) => e.system === "Pathfinder 1e"
 
 // take a listed race ("" for a custom one): fills in its size, speed and bonuses and resets its trait choices
-function chooseRace(id, subrace = "") {
+function chooseRace(id, subrace = "", altId = "") {
   const race = state.race
   const r = RACE_DATA.byId[id]
   race.ref = r ? id : "" // the listed race this was filled from ("" = custom)
@@ -732,7 +732,8 @@ function chooseRace(id, subrace = "") {
     race.bonusSkillPerLevel = r.bonusSkillPerLevel
     for (const k of OTHER_SPEEDS) race[k] = 0
   }
-  race.alts = []
+  race.alts = altId ? [altId] : []
+  race.abilityAlt = ""
   applySubrace(subrace, true)
 }
 // take one of the race's subraces / heritages ("" for none): its ability adjustments go in, and the
@@ -800,14 +801,16 @@ function openRaceSearch() {
     const speeds = [`speed ${r.speed} ft.`, ...OTHER_SPEEDS.filter((k) => traits.some((t) => new RegExp(`\\b${k === "fly" ? "fl(y|ight)" : k}`, "i").test(t)))]
     // a row: the race itself, or one of its subraces / heritages with what it trades already counted
     const row = (sub) => {
-      const mods = sub?.mods ?? r.mods, flex = r.flexMod && !sub?.mods
+      const mods = sub?.mods ?? r.mods, flex = (r.flexMod && !sub?.mods) || !!sub?.choice
       const swaps = sub ? [...(sub.stats ?? []).filter(([l]) => !/^(ancestry|typical alignment|(alternate )?ability modifiers)/i.test(l)).map(([l, v]) => `${l.replace(/:$/, "")}: ${v}`), ...(sub.alts ?? [])] : []
-      const modText = [fmtMods(mods), flex ? "+2 to one ability score of your choice" : ""].filter(Boolean).join(", ") || "no ability adjustments"
+      const modText = sub?.choice ? "ability adjustments of your choice (see the trait)" : [fmtMods(mods), flex ? "+2 to one ability score of your choice" : ""].filter(Boolean).join(", ") || "no ability adjustments"
       const text = `${r.name} ${sub?.name ?? ""} ${SIZES[r.size]?.[0] ?? ""} ${speeds.join(" ")} ${modText} ${ABL.filter((k) => num(mods?.[k])).map((k) => `${signed(num(mods[k]))} ${ABILITIES[k]}`).join(" ")} ${traits.join(" ")} ${summaries} ${swaps.join(" ")} ${sub?.summary ?? ""}`
         .toLowerCase().replace(/−/g, "-")
       return { r, sub, mods, flex, modText, swaps, traits, text, name: sub ? `${r.name}: ${sub.name}` : r.name }
     }
-    return [row(null), ...(r.subraces ?? []).map(row)]
+    const scoreAlts = RACIAL.list.filter((e) => e.kind === "Alternate" && e.race.toLowerCase() === r.name.toLowerCase() && (isPf(e) || state.spheresModule)
+      && altSlots(e, []).some((sl) => sl.key === ABILITY_SLOT)).map((e) => { const mods = altMods(e, r.mods); return { name: e.name, mods: mods ?? r.mods, choice: !mods, summary: e.summary, altId: e.id, stats: [], alts: [] } })
+    return [row(null), ...(r.subraces ?? []).map(row), ...scoreAlts.map(row)]
   })
   const render = () => {
     const words = box.value.toLowerCase().replace(/−/g, "-").split(/[\s,]+/).filter(Boolean)
@@ -820,8 +823,8 @@ function openRaceSearch() {
     hits.sort((x, y) => rank(x) - rank(y) || x.r.name.localeCompare(y.r.name) || !!x.sub - !!y.sub || x.name.localeCompare(y.name))
     const shown = hits.slice(0, 120)
     fill(results,
-      ...shown.map(({ r, sub, modText, swaps, traits, name }) => h("button", { class: "picker-item", role: "listitem", onclick: () => { dlg.done(); chooseRace(r.id, sub?.name ?? "") } },
-        h("span", { class: "pi-name" }, name, h("span", { class: "pi-meta" }, ` ${sub ? "subrace · " : ""}${SIZES[r.size]?.[0] ?? ""} · ${r.speed} ft. · ${isPf(r) ? "Pathfinder" : r.system}`),
+      ...shown.map(({ r, sub, modText, swaps, traits, name }) => h("button", { class: "picker-item", role: "listitem", onclick: () => { dlg.done(); chooseRace(r.id, sub?.altId ? "" : sub?.name ?? "", sub?.altId ?? "") } },
+        h("span", { class: "pi-name" }, name, h("span", { class: "pi-meta" }, ` ${sub?.altId ? "alternate racial trait · " : sub ? "subrace · " : ""}${SIZES[r.size]?.[0] ?? ""} · ${r.speed} ft. · ${isPf(r) ? "Pathfinder" : r.system}`),
           h("a", { class: "pi-meta", href: isPf(r) ? r.url : `../../${r.url}`, target: "_blank", rel: "noopener", onclick: (ev) => ev.stopPropagation() }, " open")),
         h("span", { class: "pi-sum" }, modText),
         sub ? h("span", { class: "pi-pre" }, swaps.length ? `Trades in: ${swaps.join("; ")}` : sub.summary) : traits.length ? h("span", { class: "pi-pre" }, traits.join(", ")) : null)),
@@ -881,9 +884,11 @@ function currentRaceName() {
 // off the list, and no other alternate can then replace the same ones. What is left, with the
 // alternates chosen, is kept on the Feats & Features tab as racial trait features (marked auto, so
 // they follow the choices here); size, speed and languages are fields rather than features.
-const RACIAL = { list: [], loaded: false }
+const RACIAL = { list: [], md: {}, loaded: false }
 async function loadRacialTraits() {
-  RACIAL.list = await loadCompendium("racial-traits-index.json", [])
+  const [list, data] = await Promise.all([loadCompendium("racial-traits-index.json", []), loadCompendium("racial-traits.json", { entries: [] })])
+  RACIAL.list = list
+  RACIAL.md = Object.fromEntries(data.entries.map((x) => [x.id, x.md]))
   RACIAL.loaded = true
   if (tab === "race") renderPanel()
 }
@@ -905,12 +910,33 @@ function normTrait(text) {
 // Primordial Performer trades an elemental affinity and / or a spell-like ability: the ones this race has
 const primordialSlots = (standard) => standard.filter((s) => /^(air|earth|fire|water) affinity$/i.test(s.name.trim()) || /^spell-like abilit/i.test(s.name.trim()))
 // what an alternate replaces: [{ key, label, trait }] (trait: the standard trait matched, if any)
+// the race's ability score adjustments, as something an alternate (or a heritage) can replace once
+const ABILITY_SLOT = "?ability scores"
+const ablKey = (name) => ABL.find((k) => ABILITIES[k].toLowerCase().startsWith(String(name).toLowerCase().slice(0, 3)))
+// the ability adjustments an alternate racial trait leaves the race with, read from its text; null when it is a choice
+function altMods(alt, base) {
+  const text = mdToText(RACIAL.md[alt.id] ?? alt.summary ?? "").replace(/[–−]/g, "-")
+  const out = Object.fromEntries(ABL.map((k) => [k, num(base?.[k])]))
+  const A = "(Strength|Dexterity|Constitution|Intelligence|Wisdom|Charisma)"
+  if (/\b(one|any|two|choice|choose|pick)\b[^.]*\babilit|\bone (mental|physical)\b/i.test(text)) return null
+  let m = text.match(new RegExp(`\\+2 (?:racial )?bonus(?:es)? to ${A}(?: and ${A})? instead of (?:a \\+2 (?:racial )?bonus to )?${A}(?: and ${A})?`, "i"))
+  if (m) {
+    for (const n of [m[3], m[4]].filter(Boolean)) out[ablKey(n)] -= 2
+    for (const n of [m[1], m[2]].filter(Boolean)) out[ablKey(n)] += 2
+    return out
+  }
+  m = text.match(new RegExp(`\\+2 (?:racial )?bonus to ${A} with a \\+2 (?:racial )?bonus to ${A}`, "i"))
+  if (m) { out[ablKey(m[1])] -= 2; out[ablKey(m[2])] += 2; return out }
+  const all = [...text.matchAll(new RegExp(`([+-]\\d) ${A}`, "gi"))]
+  return all.length >= 2 ? Object.fromEntries(ABL.map((k) => [k, all.filter((x) => ablKey(x[2]) === k).reduce((a, x) => a + Number(x[1]), 0)])) : null
+}
 function altSlots(alt, standard) {
   if (alt.name === PRIMORDIAL) return primordialSlots(standard).map((s) => ({ key: s.id, label: s.name, trait: s }))
   const out = []
   for (const part of mdToText(alt.replaces ?? "").split(/,\s*(?:and\s+)?|\s+and\s+|;\s*/)) {
     const n = normTrait(part)
     if (!n || /^(but|whereas|nothing|none)\b/.test(n)) continue
+    if (/ability (score|modifier|adjustment)|^\+2 to one ability/.test(n)) { if (!out.some((o) => o.key === ABILITY_SLOT)) out.push({ key: ABILITY_SLOT, label: "Ability score modifiers" }); continue }
     const hit = standard.find((s) => { const ns = normTrait(s.name); return ns === n || ns.endsWith(` ${n}`) || n.endsWith(` ${ns}`) })
     if (!out.some((o) => o.key === (hit ? hit.id : `?${n}`))) out.push({ key: hit ? hit.id : `?${n}`, label: hit ? hit.name : part.trim(), trait: hit })
   }
@@ -936,9 +962,9 @@ function subraceTrait(standard) {
   if (!sub) return null
   const lines = (sub.stats ?? []).map(([l, v]) => [l.replace(/:$/, ""), v])
   const swaps = lines.filter(([l]) => !/^(ancestry|typical alignment|(alternate )?ability modifiers)/i.test(l))
-  if (!swaps.length && !(sub.replaces ?? []).length) return null
+  if (!swaps.length && !(sub.replaces ?? []).length && !sub.mods) return null
   const find = (test) => standard.find((x) => !fieldTrait(x) && test(x))
-  const slots = []
+  const slots = sub.mods ? [{ key: ABILITY_SLOT, label: "Ability score modifiers" }] : []
   const take = (t, label) => { if (t && !slots.some((x) => x.key === t.id)) slots.push({ key: t.id, label: t.name, trait: t }); else if (!t && label) slots.push({ key: `?${normTrait(label)}`, label }) }
   for (const [l] of swaps) {
     if (/skill modifiers/i.test(l)) take(find((x) => /\+2 racial bonus on [^.]*\bchecks/i.test(x.summary ?? "")))
@@ -956,7 +982,7 @@ function subraceTrait(standard) {
     return { id: `sub:${r.id}:${sub.name}:sla`, name: `Spell-Like Ability (${spell.toLowerCase()})`, system: r.system, url: r.url,
       text: [`${sub.name}: ${v}${/[.!]$/.test(v) ? "" : "."}`, usual?.summary ? `Used as the ${r.name.toLowerCase()}'s usual spell-like ability, which it replaces: ${usual.summary}` : ""].filter(Boolean).join("\n\n") }
   })
-  return { extra, e: { id: `sub:${r.id}:${sub.name}`, name: sub.name, summary: swaps.map(([l, v]) => `${l}: ${v}`).join("; "), text, changes: skills, system: r.system, url: r.url }, slots }
+  return { extra, bare: !swaps.length && !(sub.replaces ?? []).length, e: { id: `sub:${r.id}:${sub.name}`, name: sub.name, summary: swaps.map(([l, v]) => `${l}: ${v}`).join("; "), text, changes: skills, system: r.system, url: r.url }, slots }
 }
 function raceTraitModel() {
   const race = state.race
@@ -980,12 +1006,21 @@ async function syncRaceTraits(newRace) {
   const data = await loadCompendium("racial-traits.json", { entries: [] })
   const text = (e) => e.text ?? mdToText(data.entries.find((x) => x.id === e.id)?.md ?? e.summary ?? "")
   const kept = standard.filter((s) => !taken[s.id])
-  const want = [...kept.filter((s) => !fieldTrait(s)), ...(sub ? [sub.e, ...sub.extra] : []), ...chosen.map((a) => a.e)]
+  const want = [...kept.filter((s) => !fieldTrait(s)), ...(sub && !sub.bare ? [sub.e, ...sub.extra] : []), ...chosen.map((a) => a.e)]
   const wantIds = new Set(want.map((e) => e.id))
   state.features = state.features.filter((f) => !(f.auto === "race" && !wantIds.has(f.ref)))
   for (const e of want) {
     if (state.features.some((f) => f.kind === "racial" && (f.ref === e.id || f.name.trim().toLowerCase() === e.name.trim().toLowerCase()))) continue
     state.features.push(newFeature("racial", { name: e.name, desc: text(e), ref: e.id, auto: "race", changes: e.changes ?? racialSkillChanges(text(e)) }))
+  }
+  // an alternate that changes the ability scores puts them in (and they go back when it is unticked)
+  const listedRace = RACE_DATA.byId[state.race.ref]
+  const scores = chosen.find((a) => a.slots.some((sl) => sl.key === ABILITY_SLOT))
+  if (listedRace && (scores || state.race.abilityAlt)) {
+    const base = currentSubrace()?.mods ?? listedRace.mods
+    const mods = scores ? altMods(scores.e, base) : base
+    if (mods && (scores || !listedRace.flexMod)) state.race.mods = { ...state.race.mods, ...Object.fromEntries(ABL.map((k) => [k, num(mods[k])])) }
+    state.race.abilityAlt = scores?.e.id ?? ""
   }
   // climb, swim, fly and burrow speeds the race's own traits give (a custom race's entries are left alone)
   const all = [...standard, ...raceTraitsOf("Alternate"), ...(sub ? [sub.e] : [])]
