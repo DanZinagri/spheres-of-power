@@ -707,9 +707,9 @@
    "tags": [],
    "talentTags": [],
    "prerequisites": "Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package).",
-   "source": "Polished Commander & Warleader",
+   "source": "The Player's Guide to Skybourne",
    "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#mounted-protector",
+   "url": "Spheres-Of-Power/Feats/General-Feats#mounted-protector",
    "md": "Your protective might is delivered on the swift heels of your mount.\n\n**Prerequisites:** Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package).\n\n**Benefit:** While mounted, you may use your mount’s movement whenever you could move as part of your patrol, provided your mount’s total movement before its next turn does not exceed its base speed. Any movement you or your mount make provoke attacks of opportunity as normal. In addition, whenever you could make an attack of opportunity as part of your patrol, you may have your mount make an attack of opportunity against that target instead.\n\n**Normal:** You cannot move with your mount as part of your patrol.",
    "options": []
   },

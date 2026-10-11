@@ -103,7 +103,7 @@ While in this stance, when a creature targets you with a manufactured melee weap
 
 # Adrenaline Talents
 
-While berserking, instead of gaining temporary hit points, you may choose to benefit from one (adrenaline) talent. You must choose which (adrenaline) talent to use at the start of each turn, if any, and may only use one (adrenaline) talent each round. You still take a -2 penalty to AC as normal and any benefits you gain end at the start of your next turn. Some (adrenaline) talents require you to expend martial focus as part of the same action as berserking and must be expended each round you choose to use it. (*Note:* You may retain the temporary hit points if you take the True Rage (combat) feat. See [[Practitioner Feats]] for this option.)
+While berserking, instead of gaining temporary hit points, you may choose to benefit from one (adrenaline) talent. You must choose which (adrenaline) talent to use at the start of each turn, if any, and may only use one (adrenaline) talent each round. You still take a -2 penalty to AC as normal and any benefits you gain end at the start of your next turn. Some (adrenaline) talents require you to expend martial focus as part of the same action as berserking and must be expended each round you choose to use it. (*Note:* You may retain the temporary hit points if you take the True Rage (combat) feat. See [[General Feats]] for this option.)
 
 #### Absolute Determination (adrenaline)
 

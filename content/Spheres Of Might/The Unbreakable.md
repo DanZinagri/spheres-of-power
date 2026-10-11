@@ -126,7 +126,7 @@ Guardian talents can be left until your basic defensive combo is complete. Once 
 
 Your turns will mostly be spent moving into position and recharging your martial focus so you can use your active defense more effectively - your *real* impact will come from using Active Defense during your enemies' turns.
 
-When your BAB hits +6, the **Great Focus** feat (on the [[Practitioner Feats]] page) can give you a second martial focus and make it easier to use a pair of (deflect) talents with your Active Defense, rather than just one.
+When your BAB hits +6, the **Great Focus** feat (on the [[General Feats]] page) can give you a second martial focus and make it easier to use a pair of (deflect) talents with your Active Defense, rather than just one.
 
 You are proficient with all armor and should move up to heavy armor when you get the chance. You are proficient with tower shields, but cannot easily shield bash with them and don't want the accuracy penalty, so stick with the heavy spiked steel shield.
 

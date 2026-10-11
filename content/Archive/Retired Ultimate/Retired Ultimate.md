@@ -35,12 +35,12 @@ parent: "[[Archive]]"
 
 **Feat Types**
 
-- [[Practitioner Feats (Ultimate)|Practitioner Feats]]
 - [[Associated Feats & Skills (Ultimate)|Associated Feats & Skills]]
 
 **Character Options**
 
 - [[Unified Traditions (Ultimate)|Unified Traditions]]
+- [[Practitioner Feats (Ultimate)|Practitioner Feats]]
 
 **Magical Items**
 

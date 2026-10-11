@@ -82,6 +82,14 @@ Your acumen and expertise are easily expanded.
 
 **Benefit:** Your spell pool total increases by 2. You may gain this feat multiple times. The effects stack.
 
+#### Utilitarian Dilettante
+
+**Prerequisite:** Extra Skill Talent.
+
+**Benefit:** You gain two bonus skill talents with the [utility] tag.
+
+**Special:** You can take this feat multiple times if you have taken Extra Skill Talent multiple times, up to a maximum number of times equal to the number of times you have taken Extra Skill Talent.
+
 ---
 
 *Archived: [[Extra Feats (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

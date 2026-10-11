@@ -67,7 +67,7 @@ What the compendium extractor takes from the Guardian pages (58 entries; approve
 
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
-| [[Practitioner-Feats#mounted-protector\|Mounted Protector]] | General |  | — | Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package). | Polished Commander & Warleader |
+| [[General-Feats#mounted-protector\|Mounted Protector]] | General |  | — | Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package). | The Player's Guide to Skybourne |
 | [[Champion-Feats#goading-malediction-champion\|Goading Malediction]] | General | (Champion) | — | Fate sphere, Guardian sphere ((challenge) package). | Spheres Apocrypha: Radiant and Righteous |
 | [[Champion-Feats#harrying-hospitaler-champion\|Harrying Hospitaler]] | General | (Champion) | — | Guardian sphere (Defend Other), Life sphere (Empathic Healing). | Spheres Apocrypha: Radiant and Righteous |
 | [[Champion-Feats#i-will-save-you-champion\|I Will Save You]] | General | (Champion) | — | Guardian sphere (Defend Other, I Will Hear, I Will Come), Life sphere (Empathic Healing), Harrying Hospitaler, base atta | Spheres Apocrypha: Radiant and Righteous |

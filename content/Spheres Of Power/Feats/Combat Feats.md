@@ -370,6 +370,12 @@ The energy at your fingertips hungers for mass ruin.
 
 **Author's Note:** "Instead" means if the spell effect is delivered with the first normal attack of your full attack action and not with the strike's "normal" attack; a spell delivered this way otherwise follows all the normal rules for a talent with the [strike] descriptor. This means that the Improved Spell Combat feat is not compatible with the Spell Attack champion feat.
 
+#### Lingering Opening (Combat)
+
+**Prerequisite:** Discerning strike or expose vulnerability class feature.
+
+**Benefit:** When you deal discerning strike damage or expose vulnerability damage to a creature, you leave an opening you can exploit in the next 1 round. Whenever you meet the condition for the discerning strike or expose vulnerability damage again for that round but fail to deal the damage because it has already been dealt, you still deal an extra 1 precision damage per die of the ability.
+
 #### Martial Aegis (Combat)
 
 **Prerequisites:** Protection sphere, base attack bonus +1.
@@ -609,6 +615,12 @@ Your skill with large weapons is great.
 
 **Benefit:** You are considered proficient with all siege engines, and no longer suffer a chance of misfire when rolling a 1 with a siege engine.
 
+#### Single Strike Mastery (Combat)
+
+**Prerequisite:** Sneak attack +2d6.
+
+**Benefit:** Once per round, when you use sneak attack on a standard attack action, you may increase the damage dice from sneak attack by one size (usually from d6s to d8s).
+
 #### Skeletal Contortionist (Combat)
 
 You have extreme control over your bones and joints, allowing you to respond to a variety of physical threats.
@@ -626,6 +638,12 @@ You have extreme control over your bones and joints, allowing you to respond to 
 **Prerequisites:** Transformation, customized weapons class feature.
 
 **Benefit:** You may assign each form you can take (including your base form) to a specific customized weapon you possess. You may reassign these forms whenever you gain an additional customized weapon, a new instance of the Transformation feat, or a feat with Transformation as a prerequisite. When you swap to that specific customized weapon, you may swap to the corresponding form as part of the same action. This does not require the form you are currently in to be able to draw or use the customized weapon you are swapping to.
+
+#### Skill Sphere Focus (Combat)
+
+**Benefit:** Choose a skill sphere. You gain a +1 bonus to saving throw and target’s skill check DCs for all abilities from that sphere.
+
+**Special:** You may take this feat multiple times. The effects do not stack. Each time it is gained, apply this benefit to a different sphere.
 
 #### Spell Absorption (Combat, Counterspell)
 

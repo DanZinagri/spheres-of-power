@@ -71,7 +71,7 @@ What the compendium extractor takes from the Duelist pages (57 entries; approved
 
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
-| [[Practitioner-Feats#bloodrunner\|Bloodrunner]] | General |  | — | Blood sphere or Duelist sphere, character level 7th. | Polished Commander & Warleader |
+| [[General-Feats#bloodrunner\|Bloodrunner]] | General |  | — | Blood sphere or Duelist sphere, character level 7th. | Diamond Spheres: Erudition & Esoterica |
 | [[Champion-Feats#bloodmonger-champion\|Bloodmonger]] | General | (Champion) | — | Casting class feature, Duelist sphere. | Diamond Spheres: Hustle & Bustle |
 | [[Champion-Feats#kinematic-disarmer-champion-combat\|Kinematic Disarmer]] | General | (Champion), (Combat) | — | Duelist sphere, Telekinesis sphere. | Spheres Apocrypha: Radiant and Righteous |
 | [[Champion-Feats#sanguine-magic-champion-combat\|Sanguine Magic]] | General | (Champion), (Combat) | — | Duelist sphere (one (bleed) talent); Blood sphere (Hemorrhage) or Death sphere (Bleeding Wounds (ghost strike)). | Spheres Apocrypha: Radiant and Righteous |

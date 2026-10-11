@@ -114,7 +114,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 <span class="sop-icon sop-icon-feats" aria-hidden="true"></span>**Feat Types** *([[Feats]])*
 
-- [[Practitioner Feats]]
 - [[Operative Feats]]
 - [[Champion Feats]]
 - [[Associated Feats & Skills|Associated Feats & Skills (Martial)]]

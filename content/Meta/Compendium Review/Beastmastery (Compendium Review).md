@@ -77,8 +77,8 @@ What the compendium extractor takes from the Beastmastery pages (68 entries; app
 
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
-| [[Practitioner-Feats#mounted-athlete\|Mounted Athlete]] | General |  | — | Athletics sphere, Beastmastery sphere ((ride) package). | Polished Commander & Warleader |
-| [[Practitioner-Feats#mounted-protector\|Mounted Protector]] | General |  | — | Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package). | Polished Commander & Warleader |
+| [[General-Feats#mounted-athlete\|Mounted Athlete]] | General |  | — | Athletics sphere, Beastmastery sphere ((ride) package). | The Player's Guide to Skybourne |
+| [[General-Feats#mounted-protector\|Mounted Protector]] | General |  | — | Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package). | The Player's Guide to Skybourne |
 | [[Champion-Feats#arcane-opening-champion\|Arcane Opening]] | General | (Champion) | — | Casting and either Leadership sphere and Cohort Attack or Beastmastery sphere and Coordinated Attack. | Spheres Apocrypha: Alchemy Poisons 2 |
 | [[Champion-Feats#darkrider-champion\|Darkrider]] | General | (Champion) | — | Beastmastery sphere, Dark sphere. | Diamond Spheres: Hustle & Bustle |
 | [[Champion-Feats#speak-with-animal-allies-champion\|Speak with Animal Allies]] | General | (Champion) | — | Beastmastery sphere, Nature sphere, Speak With Animals. | Spheres Apocrypha: Radiant and Righteous |

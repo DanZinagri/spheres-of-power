@@ -86,4 +86,4 @@ What the compendium extractor takes from the Commander pages (52 entries; approv
 
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
-| [[Practitioner-Feats#expanded-battlefield-specialty-plan\|Expanded Battlefield Specialty]] | General | [plan] | — | Commander 10th level, battlefield specialty class feature. | Polished Commander & Warleader |
+| [[General-Feats#expanded-battlefield-specialty-plan\|Expanded Battlefield Specialty]] | General | [plan] | — | Commander 10th level, battlefield specialty class feature. | Diamond Spheres: Erudition & Esoterica |

@@ -22,6 +22,28 @@ parent: "[[Feats]]"
 
 **Benefit:** When you use Perform (wind) to produce a bardic performance or a raging song in an areas of wind, treat your relevant class level and ranks in Perform (wind) as 1 higher for each category above severity level 1.
 
+#### Aerial Trip
+
+**Prerequisites:** Base attack bonus +5, Improved Trip or a combat talent that allows you to perform a trip without provoking an attack of opportunity.
+
+**Benefit:** You can trip flying opponents. If you would successfully trip a flying opponent, it falls at a rate of 10 ft per round for every point of base attack bonus you possess (assuming it is conscious and attempting to remain airborne; otherwise, it falls at a rate of 500 ft per round) until it hits the ground. The creature falls immediately after being tripped, then again each round thereafter at the end of your turn.
+
+Upon impact, the creature falls prone and takes normal falling damage (maximum: 1d6 per 10 ft. in its falling speed). A falling creature is considered entangled until it hits the ground, but it can attempt a Fly check as a free action at the start of its turn to stop falling before it hits the ground (DC = 15 + your base attack bonus); otherwise, it is unable to move (other than falling) but can act normally. You can choose to descend with the opponent, although this movement cannot exceed two times your normal flight speed.
+
+#### Amateur Field Tactician
+
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
+
+*You're familiar enough with the terrain and feel confident enough to help guide others.*
+
+**Prerequisites:** Base attack bonus +5; favored terrain class feature.
+
+**Benefit:** You gain one battlefield specialty that is closely associated with a favored terrain you possess (subject to GM discretion), treating your effective commander level for this battlefield specialty as 1. The terrain skill bonus granted by this battlefield specialty is equal to 1/2 your favored terrain bonus for the associated terrain (minimum 1).
+
+You may share this battlefield specialty through your Warleader sphere abilities as normal. If you possess an ability to share your favored terrain benefits with allies, you may also share this battlefield specialty with those allies.
+
+**Special:** If you possess levels in a class that grants the battlefield specialty class feature, your levels in that class and the class that grants favored terrain stack when determining the effects of your battlefield specialties, including the battlefield specialty granted by this feat (instead of having an effective commander level of 1).
+
 #### Arcane Empowerment
 
 **Prerequisites:** Spell pool; the ability to cast arcane, divine, or psychic spells.
@@ -92,6 +114,26 @@ In addition, you may summon or manifest your eidolon or phantom as a full-round 
 
 Lastly, you treat mutagens as an alcoholic beverage—if you already do so, the drunk status lasts twice as long when imbibing an alcoholic mutagen.
 
+#### Bloodrunner
+
+**Prerequisites:** Blood sphere or Duelist sphere, character level 7th.
+
+**Benefit:** Your body has grown a tolerance for the blood of others, and you have learned to use it to your advantage. You ignore any detriment from traversing on bloody terrain, such as difficult terrain or the terrain being considered slippery (as long as blood is the only reason that terrain is detrimental), and you gain a +2 bonus on all saving throws against bleed effects and any effect from the Blood sphere. You can distinctly tell the difference between the blood of any two creatures, and can identify the blood of creatures you have witnessed before. You can attempt a Knowledge check to identify a creature by merely witnessing its blood, as if you had seen the creature by sight, but only if the blood was shed within an hour of you attempting to identify it.
+
+#### Brain Consumption
+
+**Benefit:** You may consume the brain of an unconscious creature or a creature who has died within the last 24 hours as a fullround action. A corpse preserved by the Corpse Manipulation talent may have its brain consumed in this way within a week of its death. This functions as a coup de grace against a living creature with a base damage of 4d8 + your Strength modifier and a critical multiplier of x2. Doing so grants you a +2 insight bonus to two skills that the creature whose brain you ate possessed ranks in. You may only benefit from having one brain eaten at a time, but these bonuses last until the next time you consume a creature’s brain. You are immune to any non-magical diseases you are exposed to as part of consuming a creature’s brain and do not suffer any mundane negative health effects from consuming a creature’s brain, even if it would not normally be part of your natural diet. You gain no benefit from consuming the brains of subordinates. The creature’s brain is not eaten if they are not killed by this effect and you cannot consume the brains of creatures that lack brains (at GM discretion).
+
+##### Carve Them Up! (shout) (dual sphere)
+
+**Duration:** 2 rounds, +1 round per 4 associated skill ranks
+
+**Target(s):** allies
+
+**Effect:** When an ally hits a bleeding target, increase the bleeding target's current bleed by 1. A bleeding target can only have their bleed increased this way once per round per attacker.
+
+If the attack is a critical hit, instead increase the bleeding target's current bleed by the weapon's critical hit multiplier, then the target takes damage from their current total bleed (as though starting their turn).
+
 #### Cantrips
 
 **Prerequisite:** Basic Magic Training or casting class feature.
@@ -127,6 +169,16 @@ You can make up new effects, but they should not be more powerful than those lis
 - You may create sounds or speech as loud as a human speaking at a location within range, although they are erratic and obviously magical. Any creature within 15 feet of the sound can attempt a DC 10 Perception check to hear the noise.
 - You may concentrate for 3 rounds on an object or creature within range to use the ability from the Cantrips feat to detect magic on them.
 
+#### Catisthenics
+
+**Prerequisite:** 1 rank in any Strength- or Dexterity-based skill.
+
+**Benefits:** By spending 10 minutes stretching (such as doing yoga, martial exercises, etc.), you gain a catisthenics pool with a number of dice equal to 1 + 1 for every 3 Hit Dice you possess.
+
+You may spend a catisthenics die as part of attempting a Strength- or Dexterity-based skill check to add +1d6 to that roll. You may spend 10 minutes to stretch and replenish your catisthenics pool, regaining up to the maximum number of catisthenics dice.
+
+If a catisthenics die is used at the same time as another ability which adds a bonus die to a check (such as investigator’s inspiration, sage’s meditation, etc.), the bonus granted by a catisthenics dice is decreased to +1d4.
+
 #### Catnip Connoisseur
 
 **Prerequisite:** Character level 3rd.
@@ -149,6 +201,14 @@ If consuming catnip (see section Recreational Substances for Cats in [[Alchemica
 
 **Benefit:** You may assist another spellcaster who also possesses this feat, granting them a temporary +1 bonus to their caster level, as well as granting them access to your spell points and talents as if they possessed them. You must spend a standard action every round to maintain this ability, and you must be within 30 feet of the caster you are aiding in this manner. A target may be helped by multiple casters at once in this manner, but all involved casters must remain within 30 feet of each other, and the effects are not strictly cumulative. It takes one assisting caster to add a +1 bonus, three to add a +2 bonus, six to add a +3 bonus, ten to add a +4 bonus, and fifteen to add a +5 bonus. No caster may receive more than a +5 bonus in this manner.
 
+#### Color Guard
+
+*Source: [Spheres Apocrypha: Banners](https://www.drivethrurpg.com/product/351351/Spheres-Apocrypha-Monster-Traditions?affiliate_id=549120)*
+
+**Prerequisites:** Banner class feature, character level 10th.
+
+**Benefit:** The time required to wave a banner is reduced by one step (i.e., full-round action becomes a standard action, standard action becomes a move action).
+
 #### Commanding Presence (General)
 *Source: [The Player's Guide to Skybourne](https://www.drivethrurpg.com/product/173399/The-Players-Guide-to-Skybourne?affiliate_id=549120)*
 
@@ -163,6 +223,20 @@ If consuming catnip (see section Recreational Substances for Cats in [[Alchemica
 **Benefit:** You may start a second bardic performance while maintaining another. Starting the second performance costs 2 rounds of bardic performance instead of 1. Maintaining both performances costs a total of 3 rounds of bardic performance for each round they are maintained.
 
 This ability does not stack with any other method of maintaining simultaneous bardic performances.
+
+#### Consumptive Intuition
+
+**Prerequisite:** Brain Consumption.
+
+**Benefit:** Whenever you consume a creature’s brain using the Brain Consumption feat, choose one combat talent or magic talent that the creature whose brain you consumed possessed. Once per day as a free action, you may gain that talent for a number of minutes equal to your character level. Upon consuming a creature’s brain, you learn of all talents that they possessed but must meet the prerequisites for a talent in order to select it. You still may only benefit from having one brain eaten at a time and may not exchange talents more than once every 24 hours. When you consume a new brain, you can no longer access talents from previous brains you have consumed.
+
+**Special:** You may take this feat an additional time for every 5 character levels you possess. Each time, you may select an additional talent which was known by the creature whose brain you ate. When you activate the temporary bonus talent from this feat, you gain the benefits of one talent for every time you have taken this feat.
+
+#### Consumptive Mutation
+
+**Prerequisites:** Consumptive Intuition, Improved Transformation, Transformation, character level 5th.
+
+**Benefit:** You may exchange one or more traits granted by Improved Transformation for any other traits you would qualify for whenever you consume a creature’s brain. These traits must emulate abilities that the consumed creature possessed or that are associated with the creature, subject to GM discretion.
 
 #### Contingency
 
@@ -211,6 +285,24 @@ Every drawback possessed that could be heard or seen (materials, somatic compone
 
 If the magic sphere effect is obvious (such as a summoned creature or a destructive blast), you also take a –4 penalty on the Bluff check, and even if your check is successful, observers still see the effect (though they fail to notice that you are responsible for it).
 
+#### Customized Bond
+
+**Prerequisites:** Bound equipment class feature, customized weapons class feature.
+
+**Benefit:** You may customize your bound weapons. You may summon a customized bound weapon as a free action whenever you would be able to draw a customized weapon as a free action. You may add half your armiger levels toward your armorist level for determining the maximum enhancement bonus value of your bound equipment. If you possess the enhanced customization class feature, you may add half your armorist levels toward your armiger level for determining the maximum enhancement bonus from enhanced customization.
+
+#### Decorated Insight
+
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
+
+**Prerequisites:** Decorum class feature.
+
+**Benefit:** Choose two additional skills, chosen from the following list: Appraise, Bluff, Handle Animal, Knowledge (any), Ride, Sense Motive.
+
+Your commander's decorum bonus now also applies to the chosen skills.
+
+**Special:** You are treated as possessing Skill Focus for each skill that decorum grants a bonus towards for the purposes of qualifying for prerequisites and other effects.
+
 #### Defiant Magic
 *Source: [Polished Dark](https://www.drivethrurpg.com/en/product/497811/diamond-polished-spheres-dark-sphere?affiliate_id=549120)*
 
@@ -227,6 +319,16 @@ If the magic sphere effect is obvious (such as a summoned creature or a destruct
 
 *Source: Expanded Spheres: Weaves of War*
 
+#### Dragon’s Tattoos
+
+Etching your limbs with exquisite art, your body truly becomes a weapon.
+
+**Prerequisites:** Improved Unarmed Strike, Craft (tattoos) 5 ranks.
+
+**Benefit:** You learn how to adorn yourself with the sacred tattoos that are said to have been first conceived by an ancient monk known only as “the Dragon”. Covering your body in these intricate tattoos etched by your own hand, your limbs, grapples, and unarmed strikes are now treated as masterwork weapons, and may be enhanced just as any other masterwork weapon. Enhancements applied via this ability apply to all unarmed strikes or grapple checks you make, regardless of the limb you choose to use; essentially, your entire body is treated as a single weapon.
+
+**Author's Note:** Dragon's Tattoos applies to all of your unarmed strikes and natural attacks, essentially like an amulet of mighty fists.
+
 #### Dreamwalking Initiate
 
 **Prerequisite:** Dreamspace.
@@ -234,6 +336,20 @@ If the magic sphere effect is obvious (such as a summoned creature or a destruct
 **Benefit:** You gain the acolyte dreaming hedgewitch secret. You may use this feat to qualify for the Extra Secret feat, but may only use it to select additional instances of the acolyte dreaming secret.
 
 **Note:** If you do not have hedgewitch levels, you may use your character level as your effective hedgewitch level for determining the power of the acolyte dreaming hedgewitch secret.
+
+#### Dual Wielding Mystic Fusion
+
+**Prerequisites:** Dual Wielding Sphere, Spherecasting.
+
+**Benefit:** As a special attack action, while you have martial focus you can use your Dual Attack or Combo Maneuvers ability with a sphere ability in place of your first offhand weapon attack. The ability must be one that requires a touch attack or that can be made with a weapon attack and that can be cast with a standard action. The sphere ability has its caster level (excluding enhancement bonuses) limited to your BAB and provokes attacks of opportunity normally.
+
+If the sphere ability is a ranged attack, it does not provoke an attack of opportunity if you possess the Mixed Assault talent.
+
+#### Dual Wielding Mystic Strike
+
+**Prerequisites:** Dual Wielding Mystic Fusion.
+
+**Benefit:** When you use dual wielding mystic fusion with a sphere ability, you may deliver the sphere ability with a melee weapon attack. The sphere ability uses its own threat range.
 
 #### Embraced By Kindred
 
@@ -270,6 +386,16 @@ Desperate times call for desperate measures. A working device can save your life
 **Benefit:** Whenever you shift an Energy Beam, you can now shift the beam’s end point by up to 25 feet + 5 feet per 2 caster levels, but doing so allows the affected creatures to negate the effects of the destructive blast instead of halving the damage on a successful Reflex saving throw unless you spend an additional spell point when you first create the Energy Beam.
 
 Additionally, when shifting the beam, you can have it flicker, allowing you to ‘turn off’ the beam for any given 5-foot interval to ignore all creatures within the area, and have it return on the subsequent 5-foot intervals (or otherwise); if you possess the Selective Blast talent, you can instead choose to ignore all allies within the arc.
+
+#### Expanded Battlefield Specialty [plan]
+
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
+
+*Always plan for the next battlefield.*
+
+**Prerequisite:** Commander 10th level, battlefield specialty class feature.
+
+**Benefit:** You gain an additional battlefield specialty. In addition, you gain the following plan:
 
 #### Expedited Incantation
 
@@ -309,6 +435,12 @@ When you gain this feat, you may decide if your chosen feline abilities cause yo
 **Prerequisites:** Destruction sphere (Energy Beam (blast shape)), caster level 10th.
 
 **Benefit:** Whenever you shift an Energy Beam, you can spend 1 spell point as a free action to instead choose to focus the beam itself, keeping it in place and making it difficult for those affected by it to move from the area. All creatures who begin their turn within the Energy Beam must succeed at a Fortitude saving throw or be unable to move until the beginning of their next turn. On a successful save, the creature becomes immune to subsequent uses of your focused Energy Beam for 24 hours.
+
+#### Focused Stamina
+
+**Prerequisites:** Martial focus, combat stamina.
+
+**Benefit:** Whenever you would expend your martial focus, you may instead spend 5 stamina points.
 
 #### Fool Magic
 
@@ -482,6 +614,34 @@ When you learn the ins and outs of an engine, you can coax more from it than ano
 **Prerequisites:** Favored Metamagic (any three metamagic feats), caster level 15th.
 
 **Benefit:** The benefits of Favored Metamagic apply to all metamagic feats you possess, not just those specific metamagic feats you have chosen with Favored Metamagic.
+
+#### Mounted Athlete
+
+The handler is often as athletic as the mount.
+
+**Prerequisites:** Athletics sphere, Beastmastery sphere ((ride) package).
+
+**Benefit:** Whenever your mount would attempt a skill check associated with an Athletics sphere package you possess, you may attempt that skill check for your mount, using your bonus in that skill. For example, if you possess the (leap) or (run) packages, you may attempt Acrobatics checks for your mount whenever your mount would attempt such a check.
+
+In addition, you share your Athletics sphere talents with your mount. Your mount is treated as possessing any packages or talents you possess and uses your skill ranks and Athletics sphere save DC when determining the effects of shared talents.
+
+If your mount cannot maintain martial focus, shared Athletics sphere talents do not grant the ability to maintain martial focus.
+
+As long as you have martial focus, your mount counts as possessing martial focus when determining the benefits of shared Athletics sphere talents that require you to have martial focus (such as the Swift Movement talent). If your mount would expend martial focus to use a shared Athletics sphere talent, you must expend your martial focus and both you and your mount benefit from the shared talent’s effects (where applicable). A mount that is a practitioner and can maintain martial focus cannot use its own martial focus with shared Athletics sphere talents, but may use shared talents in combination with any talents it possesses.
+
+Your mount’s movement made using a movement mode corresponding to an Athletics sphere package you possess counts as your own movement for the purposes of Athletics sphere talents. This allows you to use Athletics sphere talents while mounted, such as using the Reflexive Twist talent to avoid an attack despite being mounted. Whenever your mount’s movement would allow you or your mount to use a (motion) talent, both you and your mount must use the same (motion) talent. If a (motion) talent would affect another creature, it only affects that creature a single time (such as the Dizzying Tumble (motion) talent only occurring once). If a (motion) talent would benefit you, it benefits both you and your mount normally (such as both you and your mount gaining miss chance from the Moving Target (motion) talent).
+
+Athletics sphere talents which allow you or your mount to take an action are only used by the creature that spent the required actions, unless both creatures spend the required actions. For example, if your mount uses the Diving Strike talent, only your mount gains the benefits and suffers the risks of the talent unless you also take the charge action with your mount, gaining the bonus damage to your attack but also suffering the fall damage.
+
+#### Mounted Protector
+
+Your protective might is delivered on the swift heels of your mount.
+
+**Prerequisites:** Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package).
+
+**Benefit:** While mounted, you may use your mount’s movement whenever you could move as part of your patrol, provided your mount’s total movement before its next turn does not exceed its base speed. Any movement you or your mount make provoke attacks of opportunity as normal. In addition, whenever you could make an attack of opportunity as part of your patrol, you may have your mount make an attack of opportunity against that target instead.
+
+**Normal:** You cannot move with your mount as part of your patrol.
 
 #### Oneiric Assault
 
@@ -724,6 +884,10 @@ When salvaging an item with a limited number of uses, divide the cost of creatin
 
 *Source: Expanded Spheres: Cardcaster’s Gamble*
 
+#### Technological Training
+
+**Benefit:** Reduce the penalties you suffer when using technician inventions that are not your own by half. If the technician who made the invention possesses Aesthetic Insight, these penalties are reduced to 0.
+
 #### Tenacity
 
 **Prerequisite:** Judgment class ability.
@@ -799,6 +963,26 @@ If your transformation would grant you additional legs, you may instead gain the
 **Prerequisites:** Unarmored Training, +8 base attack bonus or 8 ranks in Acrobatics.
 
 Your mastery of unarmored combat is so great that even changes to your body do not impede you. You no longer lose the benefits of Unarmored Training when under any polymorph effect.
+
+#### Understand Thy Enemy
+
+*Source: [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)*
+
+**Prerequisites:** Fencing sphere (Read Foe, Parry And Riposte) or Fencing sphere (Read Foe) and opportune parry and riposte deed, Scout sphere.
+
+**Benefit:** Whenever you scout a creature, the next parry and riposte you use against that creature does not cost martial focus, an attack of opportunity, or a panache point. When used in this way, the ability does not require you to have a panache point to perform an attack and you do not regain martial focus.
+
+#### Unseen Terror
+
+The hunter stalks its prey. The prey knows, but can only run from the scraping, rattling, and growling noises which chase them.
+
+**Prerequisites:** Intimidate 3 ranks, Stealth 3 ranks.
+
+**Benefit:** You gain a +2 bonus on Intimidate and Stealth checks. Whenever your Stealth check to hide exceeds an opposing creature’s Perception check by 5 or more, you may attempt an Intimidate check as a swift action to demoralize one target creature within 30 feet who failed to notice you. The target does not need to be able to see you, but must be able to hear you. The target is not made aware of your location when you Intimidate them with this feat, and making an Intimidate check this way does not automatically reveal your location. If you are able to use the Intimidate skill to cause a target to become frightened or worse, and the target is unaware of your position, the frightened creature will attempt to flee to a location it feels is safe, treating the location it became frightened at as the source of its fear.
+
+If you possess the Dazzling Display feat or Gladiator sphere, whenever you could attempt an Intimidate check as a swift action from this feat, you may instead use the Dazzling Display feat or Gladiator sphere strike fear ability as a standard action to intimidate all creatures within range instead of a single creature, even if you could not normally use those abilities as a standard action.
+
+**Special:** This feat counts as having the Skill Focus feat for either Intimidate or Stealth, chosen when you gain this feat, for the purposes of meeting prerequisites.
 
 #### Versed Student
 

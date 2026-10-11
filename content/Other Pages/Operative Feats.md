@@ -18,22 +18,6 @@ The following feats are mainly designed for characters made using the rules from
 
 **Benefit:** Whenever you would use the change tactics skill leverage use to add 1d4 to the result of a roll, you may instead roll 1d6 and add the result to the roll. If such a check fails, the use of skill leverage is not expended, whereas if the check succeeds, there is a 50% chance that the use of skill leverage is not expended.
 
-#### Awesome Stunt (Combat)
-
-*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
-
-**Prerequisites:** Incredible stunt class feature.
-**Benefit:** Whenever you use an incredible stunt, its effects last for an additional round. Additionally, you are not fatigued (or have the condition worsen) when the incredible stunt ends.
-
-#### Cunning Accuracy (Combat)
-
-*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
-
-**Prerequisites:** Cunning celerity class feature.
-**Benefit:** Whenever an attack you attempt is subject to a miss chance, you can expend an attack of opportunity and reduce your dodge pool in increments of 5% to reduce the miss chance affecting the attack by the same amount. If the miss chance still causes the attack to miss, your dodge pool replenishes half the expended amount from the attack (or the entire amount if you possess an ability that would normally allow you to replenish the entire amount from an attack).
-
-If you also possess the dynamic dodge class feature, you can expend your martial focus as a free action and expend any amount from your dodge pool to have your attacks ignore half as much miss chance until the beginning of your next turn.
-
 #### Detailed Charting
 
 **Prerequisites:** Investigation sphere, Navigation sphere.
@@ -56,12 +40,6 @@ You layer strategies and preparations on top of each other
 
 **Benefit:** You may have 2 additional plans available at once.
 
-#### Lingering Opening (Combat)
-
-**Prerequisite:** Discerning strike or expose vulnerability class feature.
-
-**Benefit:** When you deal discerning strike damage or expose vulnerability damage to a creature, you leave an opening you can exploit in the next 1 round. Whenever you meet the condition for the discerning strike or expose vulnerability damage again for that round but fail to deal the damage because it has already been dealt, you still deal an extra 1 precision damage per die of the ability.
-
 #### Nebulous Preparation [Plan]
 
 You know how to prepare spells or extracts most of the way, and then finish the process at the last moment.
@@ -77,18 +55,6 @@ This is considered to be a plan talent for the purposes of determining the numbe
 **Prerequisite:** Diplomacy 7 ranks.
 
 **Benefit:** You gain the influence and rapid persuasion abilities of the envoy class, but cannot use the deep discouragement ability. The DC of trusted words is equal to 10 + 1/2 your ranks in Diplomacy + your Charisma modifier. If you already possess either of these class features, you gain the uses of influence and rapid persuasion provided by an envoy with no archetype in addition to any abilities granted by your archetype.
-
-#### Single Strike Mastery (Combat)
-
-**Prerequisite:** Sneak attack +2d6.
-
-**Benefit:** Once per round, when you use sneak attack on a standard attack action, you may increase the damage dice from sneak attack by one size (usually from d6s to d8s).
-
-#### Skill Sphere Focus (Combat)
-
-**Benefit:** Choose a skill sphere. You gain a +1 bonus to saving throw and target’s skill check DCs for all abilities from that sphere.
-
-**Special:** You may take this feat multiple times. The effects do not stack. Each time it is gained, apply this benefit to a different sphere.
 
 #### Speculative Analysis
 
@@ -121,12 +87,3 @@ Your expressions of creativity possess a deeper meaning, making them harder to i
 If the motivation is a major motivation of the creature, they gain a +4 bonus to the saving throw against this effect, although the penalty increases to -4 if they fail.
 
 You can spend 1 use of skill leverage to also have creatures who fail their saving throw against this ability be forced to reveal the associated motivation to any creatures who are observing them. Creatures who are affected by this feat become immune to its effects for 8 hours, regardless of the result. If you do not possess the chosen motivation, affected creatures can attempt a Sense Motive check against an opposed Bluff check. If they succeed, they discover your deception and gain a +4 bonus to their saving throw against this feat.
-
-#### Utilitarian Dilettante
-
-**Prerequisite:** Extra Skill Talent.
-
-**Benefit:** You gain two bonus skill talents with the [utility] tag.
-
-**Special:** You can take this feat multiple times if you have taken Extra Skill Talent multiple times, up to a maximum number of times equal to the number of times you have taken Extra Skill Talent.
-

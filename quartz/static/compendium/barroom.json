@@ -966,6 +966,22 @@
    "options": []
   },
   {
+   "id": "barroom/biochemical-brews",
+   "name": "Biochemical Brews",
+   "kind": "feat",
+   "sphere": "Barroom",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Alchemy sphere ((toxin) package)); either the Barroom sphere or Nature sphere.",
+   "source": "Polished Commander & Warleader",
+   "status": "current",
+   "url": "Spheres-Of-Power/Feats/General-Feats#biochemical-brews",
+   "md": "*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*\n\n**Prerequisites:** Alchemy sphere ((toxin) package)); either the Barroom sphere or Nature sphere.\n\n**Benefit:** You gain the following benefits, depending on the spheres you possess:\n\n*Mutagenic Suffusion (Alchemy sphere ((toxin) package, Nature sphere (Instill Spirit))*: You can spend 1 spell point as an immediate action to use Instill Spirit on a mutagen within your geomancing range. As per usual, if you do not have the ability to grant spirit effects to other creatures, the instilled spirit effect can only benefit you. Also, you can have up to two spirit effects instilled within a mutagen instead of just one, although each requires their own separate casting.\n\n*Same Burn, Same Taste (Alchemy sphere ((toxin) package, Barroom sphere):* You ignore a mutagen’s toxicity effect as long as you are drunk when you would be subject to it. You also gain the following (drunk) ability:\n\n- **Feel the Burn (drunk):** You can expend the drunk status as part of imbibing (or otherwise being subject to) a mutagen to treat your Craft (alchemy) ranks as being 2 higher for determining its effects. Additionally, you can benefit from the mutagen with no repercussions even if you had benefitted from it within the last hour.\n\nLastly, you treat mutagens as an alcoholic beverage—if you already do so, the drunk status lasts twice as long when imbibing an alcoholic mutagen.",
+   "options": []
+  },
+  {
    "id": "barroom/spirits-in-the-blood-champion",
    "name": "Spirits In The Blood",
    "kind": "feat",

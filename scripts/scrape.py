@@ -428,7 +428,6 @@ HOME_HEADER_LINKS: dict[str, str] = {}
 HOME_FEAT_SECTION = "Feat Types"
 HOME_FEAT_MOVES = [
     ("Feats", None),
-    ("Practitioner Feats", None),
     ("Operative Feats", None),
     ("Champion Feats", None),
     ("Associated Feats & Skills", "Associated Feats & Skills (Martial)"),
@@ -2300,6 +2299,8 @@ def split_drawbacks(md: str, overview: str = DRAWBACKS_HEADING) -> tuple[str, st
 # the shared feat pages whose "Extra ..." feats (more uses or picks of one class's feature) move to
 # that class's own feats page
 EXTRA_FEAT_PAGES = ["extra-feats", "practitioner-feats", "operative-feats", "champion-feats"]
+# pages where a feat with this tag whose prerequisite is one class's feature goes to that class's feats page too
+CLASS_FEAT_TAGS = {"operative-feats": "combat"}
 # "Extra ..." feats placed by hand: on every class's feats page named (two classes share the feature),
 # on another note that has the feature (under a "Feats" heading), or kept on / moved to the Extra Feats page
 EXTRA_FEAT_OWNERS = {"Extra Enhanced Tactics": ["Advisor", "Commander"], "Extra Adaptation": ["Prodigy"], "Extra Empathy": ["Eliciter"]}
@@ -2342,14 +2343,17 @@ def distribute_extra_feats(pages: dict, class_pages: set, class_options: dict, d
                    for l in c["feats"].read_text(encoding="utf-8").split("\n"))
 
     def owner(name: str, block: str):
-        feature = stem(name[len("Extra "):])
+        extra = name.startswith("Extra ")
+        feature = stem(name[len("Extra "):]) if extra else ""
         pre = re.search(r"\*\*Prerequisites?:?\*\*:?\s*(.*)", block)
-        wanted = {feature}
+        if not extra and not (pre and "class feature" in pre.group(1)):
+            return None  # (another kind of feat is a class's only by a class feature it needs)
+        wanted = {feature} if extra else set()
         if pre and (m := re.search(r"([A-Za-z’' -]+?) class feature", pre.group(1))):
             wanted.add(stem(m.group(1)))
         # "Extra Envoy Flair": the class is in the name
         named = [c for c in classes if re.search(rf"\b{re.escape(norm(c['title']))}\b", norm(name))]
-        if len(named) == 1:
+        if extra and len(named) == 1:
             return named[0]
         # "5th-level dissident", "Armiger 5": one class named in the prerequisites
         if pre:
@@ -2430,7 +2434,10 @@ def distribute_extra_feats(pages: dict, class_pages: set, class_options: dict, d
         lines = path.read_text(encoding="utf-8").split("\n")
         i, changed = 0, False
         while i < len(lines):
-            if not re.match(r"#{2,6}\s+Extra \S", lines[i]):
+            # ("Extra ..." feats; and on the pages in CLASS_FEAT_TAGS, feats with that tag that one class's
+            # feature is the prerequisite of: Awesome Stunt (Combat), for the incredible stunt class feature)
+            tagged = slug in CLASS_FEAT_TAGS and level_of(lines[i]) >= 2 and re.search(rf"\([^)]*{CLASS_FEAT_TAGS[slug]}[^)]*\)", lines[i], re.I)
+            if not (re.match(r"#{2,6}\s+Extra \S", lines[i]) or tagged):
                 i += 1
                 continue
             lvl = level_of(lines[i])
@@ -2685,7 +2692,9 @@ def distribute_sphere_feats(pages: dict, feats_pages: dict[str, str], derived_no
 # reprints of Pathfinder feats (on Archives of Nethys) that are simply dropped
 PRACTITIONER_TAG_PAGES = [("combat", "combat-feats"), ("item creation", "item-creation-feats")]
 PRACTITIONER_FEATS_DROP = {"Gunsmithing", "Flyby Attack", "Piranha Strike", "Two-Weapon Rend"}
-NAMED_FEAT_MOVES = [("champion-feats", "Biochemical Brews", "general-feats"), ("champion-feats", "Unarmored Mastery", "general-feats")]
+NAMED_FEAT_MOVES = [("champion-feats", "Biochemical Brews", "general-feats"), ("champion-feats", "Unarmored Mastery", "general-feats"),
+                    ("operative-feats", "Utilitarian Dilettante", "extra-feats")]
+TAG_SORTED_PAGES = ["operative-feats"]
 
 
 def sort_practitioner_feats(pages: dict) -> None:
@@ -2756,6 +2765,61 @@ def sort_practitioner_feats(pages: dict) -> None:
             if at is not None:
                 lines[at:at] = [note, ""]
         path.write_text(collapse_dividers("\n".join(lines)), encoding="utf-8")
+    # what is left on Practitioner Feats is general: it joins General Feats, and the emptied page goes
+    general = by_slug.get("general-feats")
+    gfile = CONTENT / general.folder / f"{general.filename}.md" if general else None
+    if gfile and gfile.exists():
+        lines = path.read_text(encoding="utf-8").split("\n")
+        i, n = 0, 0
+        while i < len(lines):
+            if not lines[i].startswith("#### "):
+                i += 1
+                continue
+            end = next((j for j in range(i + 1, len(lines)) if 0 < level_of(lines[j]) <= 4 or lines[j].strip() == "---"), len(lines))
+            insert(gfile, lines[i:end])
+            lines = lines[:i] + lines[end:]
+            n += 1
+        moved["general"] = n
+        if not any(level_of(l) >= 4 for l in lines):
+            path.unlink()
+            # links to the page lead to General Feats; a list entry that was only that link goes
+            link = re.compile(r"\[\[" + re.escape(src.filename) + r"(?:#[^\]|]*)?(?:\\?\|[^\]]*)?\]\]")
+            for f in CONTENT.rglob("*.md"):
+                if ARCHIVE in f.relative_to(CONTENT).parts:
+                    continue
+                text = f.read_text(encoding="utf-8")
+                if f"[[{src.filename}" not in text:
+                    continue
+                kept = [l for l in text.split("\n") if not re.fullmatch(r"\s*[-*]\s*" + link.pattern + r"\s*", l)]
+                f.write_text(link.sub(f"[[{general.filename}]]", "\n".join(kept)), encoding="utf-8")
+            for cfg in COMPENDIUM.values():
+                cfg["pages"] = [((general.filename, "(page)", *t[2:]) if t[0] == src.filename else t) for t in cfg.get("pages", [])]
+        else:
+            path.write_text(collapse_dividers("\n".join(lines)), encoding="utf-8")
+    # the other shared pages' tagged feats go the same way (their other feats stay)
+    for slug in TAG_SORTED_PAGES:
+        other = by_slug.get(slug)
+        opath = CONTENT / other.folder / f"{other.filename}.md" if other else None
+        if not (opath and opath.exists()):
+            continue
+        ol = opath.read_text(encoding="utf-8").split("\n")
+        i, n = 0, 0
+        while i < len(ol):
+            if not ol[i].startswith("#### "):
+                i += 1
+                continue
+            end = next((j for j in range(i + 1, len(ol)) if 0 < level_of(ol[j]) <= 4 or ol[j].strip() == "---"), len(ol))
+            tags = " ".join(re.findall(r"\(([^)]*)\)", ol[i])).lower()
+            tag = next((t for t, _ in PRACTITIONER_TAG_PAGES if t in targets and re.search(rf"(?<![a-z]){t}(?![a-z])", tags)), None)
+            if not tag:
+                i = end
+                continue
+            insert(targets[tag][1], ol[i:end])
+            ol = ol[:i] + ol[end:]
+            n += 1
+        if n:
+            opath.write_text(collapse_dividers("\n".join(ol)), encoding="utf-8")
+            moved[f"{other.filename}: by type"] = n
     # single feats placed by hand: (page they are on, feat, page they belong on)
     for from_slug, feat, to_slug in NAMED_FEAT_MOVES:
         a, b = by_slug.get(from_slug), by_slug.get(to_slug)
@@ -2782,11 +2846,12 @@ def drop_pointer_section(pages: dict, slug: str, title: str) -> None:
     if not (path and path.exists()):
         return
     lines = path.read_text(encoding="utf-8").split("\n")
-    start = next((i for i, l in enumerate(lines) if l.strip() == f"# {title}"), None)
+    start = next((i for i, l in enumerate(lines) if l.startswith("#") and l.lstrip("#").strip() == title), None)
     if start is None:
         return
-    end = next((i for i in range(start + 1, len(lines)) if lines[i].startswith("# ") or lines[i].strip() == "---"), len(lines))
-    if any(l.startswith("#") for l in lines[start + 1:end]):
+    depth = lambda l: len(l) - len(l.lstrip("#"))
+    end = next((i for i in range(start + 1, len(lines)) if lines[i].startswith("#") or lines[i].strip() == "---"), len(lines))
+    if end < len(lines) and lines[end].startswith("#") and depth(lines[end]) > depth(lines[start]):
         return  # it has entries of its own
     path.write_text(collapse_dividers("\n".join(lines[:start] + lines[end:])), encoding="utf-8")
 
@@ -8148,8 +8213,9 @@ def convert(with_images: bool) -> None:
     # and put some on class feats pages: a second look, now that they have)
     distribute_extra_feats(pages, class_pages, class_options, derived_notes, create=False)
     distribute_sphere_feats(pages, feats_pages, derived_notes)
-    sort_practitioner_feats(pages)
     drop_pointer_section(pages, "practitioner-feats", "Tinker Sphere Feats")
+    sort_practitioner_feats(pages)
+    drop_pointer_section(pages, "champion-feats", "General Feats")  # (its feats have all been placed elsewhere)
     print(f"Search types: {tag_search_types()}")
     print(f"Compendium entries: {build_compendium()}")
     print(f"Sphere bases: {build_sphere_bases()}")

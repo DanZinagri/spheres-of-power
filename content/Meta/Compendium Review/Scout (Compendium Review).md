@@ -66,7 +66,7 @@ What the compendium extractor takes from the Scout pages (56 entries; approved).
 
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
-| [[Practitioner-Feats#understand-thy-enemy\|Understand Thy Enemy]] | General |  | — | Fencing sphere (Read Foe, Parry And Riposte) or Fencing sphere (Read Foe) and opportune parry and riposte deed, Scout sp | Polished Commander & Warleader |
+| [[General-Feats#understand-thy-enemy\|Understand Thy Enemy]] | General |  | — | Fencing sphere (Read Foe, Parry And Riposte) or Fencing sphere (Read Foe) and opportune parry and riposte deed, Scout sp | The Player's Guide to Skybourne |
 | [[Champion-Feats#tactical-hypothesis-champion\|Tactical Hypothesis]] | General | (Champion) | — | Scout sphere, Study sphere. | Spheres Apocrypha: Radiant and Righteous |
 | [[Champion-Feats#unerring-eye-champion\|Unerring Eye]] | General | (Champion) | — | Sense Motive ranks 3, Investigation sphere; either the Divination sphere or Scout sphere. | Spheres Apocrypha: Radiant and Righteous |
 | [[Scout-Sphere-Feats#observant-oppurrtunist-combat\|Observant Oppurrtunist]] | General | (combat) | — | Perception 5 ranks, Scout sphere. |  |

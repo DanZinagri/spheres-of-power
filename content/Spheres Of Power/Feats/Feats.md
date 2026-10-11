@@ -140,7 +140,7 @@ Plague feats focus on creating and managing diseases, especially through the Vir
 
 ---
 
-#### [[Practitioner Feats]]
+#### [[General Feats]]
 
 Practitioner feats include feats intended for Spheres of Might characters. These broadly include combat, extra, and general feats, and are kept separate for ease of reference.
 

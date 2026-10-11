@@ -342,7 +342,7 @@ The armorist gains an item creation feat of her choice. She must meet the prereq
 
 #### Customized Bond
 
-The armorist gain the Customized Bond feat as a bonus feat (see [[Practitioner Feats]]). She must meet the feat’s prerequisites to select this arsenal trick.
+The armorist gain the Customized Bond feat as a bonus feat (see [[General Feats]]). She must meet the feat’s prerequisites to select this arsenal trick.
 
 #### Cut Magic
 

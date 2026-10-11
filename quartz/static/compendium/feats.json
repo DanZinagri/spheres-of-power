@@ -347,9 +347,7 @@
    "prerequisites": "Incredible stunt class feature.",
    "source": "Legends of the Spheres",
    "url": "Champions/Bravo/Bravo-Feats#awesome-stunt-combat",
-   "alsoOn": [
-    "Other-Pages/Operative-Feats#awesome-stunt-combat"
-   ],
+   "alsoOn": [],
    "md": "*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*\n\n**Prerequisites:** Incredible stunt class feature.\n**Benefit:** Whenever you use an incredible stunt, its effects last for an additional round. Additionally, you are not fatigued (or have the condition worsen) when the incredible stunt ends."
   },
   {
@@ -368,9 +366,7 @@
    "prerequisites": "Cunning celerity class feature.",
    "source": "Diamond Spheres: Hustle & Bustle",
    "url": "Champions/Bravo/Bravo-Feats#cunning-accuracy-combat",
-   "alsoOn": [
-    "Other-Pages/Operative-Feats#cunning-accuracy-combat"
-   ],
+   "alsoOn": [],
    "md": "*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*\n\n**Prerequisites:** Cunning celerity class feature.\n**Benefit:** Whenever an attack you attempt is subject to a miss chance, you can expend an attack of opportunity and reduce your dodge pool in increments of 5% to reduce the miss chance affecting the attack by the same amount. If the miss chance still causes the attack to miss, your dodge pool replenishes half the expended amount from the attack (or the entire amount if you possess an ability that would normally allow you to replenish the entire amount from an attack).\n\nIf you also possess the dynamic dodge class feature, you can expend your martial focus as a free action and expend any amount from your dodge pool to have your attacks ignore half as much miss chance until the beginning of your next turn."
   },
   {
@@ -522,6 +518,7 @@
     "Spheres-Of-Power/Cleric-Feats#extra-spell-points",
     "Spheres-Of-Power/Elementalist/Elementalist-Feats#extra-spell-points",
     "Spheres-Of-Power/Eliciter/Eliciter-Feats#extra-spell-points",
+    "Spheres-Of-Power/Feats/Extra-Feats#extra-spell-points",
     "Spheres-Of-Power/Fey-Adept/Fey-Adept-Feats#extra-spell-points",
     "Spheres-Of-Power/Hedgewitch/Hedgewitch-Feats#extra-spell-points",
     "Spheres-Of-Power/Mageknight/Mageknight-Feats#extra-spell-points",
@@ -1502,7 +1499,7 @@
    ],
    "group": "Operative Feats",
    "prerequisites": "Occultism sphere, Performance sphere ((lyric) package).",
-   "source": "Diamond Spheres: Hustle & Bustle",
+   "source": "Spheres of Guile",
    "url": "Other-Pages/Operative-Feats#hymnal-verse-dual-sphere",
    "alsoOn": [],
    "md": "*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*\n\n**Prerequisites:** Occultism sphere, Performance sphere ((lyric) package).\n\n**Benefit:** Whenever you use a rite (and do so at least using a standard action), you can use a lyric as a free action."
@@ -1525,25 +1522,6 @@
    "url": "Other-Pages/Operative-Feats#improved-planning",
    "alsoOn": [],
    "md": "You layer strategies and preparations on top of each other\n\n**Prerequisites:** 5 ranks in any skill, at least 2 [plan] talents.\n\n**Benefit:** You may have 2 additional plans available at once."
-  },
-  {
-   "id": "feat/lingering-opening-combat",
-   "name": "Lingering Opening",
-   "system": "Spheres of Guile",
-   "types": [
-    "Combat"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Operative Feats",
-   "prerequisites": "Discerning strike or expose vulnerability class feature.",
-   "source": "Diamond Spheres: Erudition & Esoterica",
-   "url": "Other-Pages/Operative-Feats#lingering-opening-combat",
-   "alsoOn": [],
-   "md": "**Prerequisite:** Discerning strike or expose vulnerability class feature.\n\n**Benefit:** When you deal discerning strike damage or expose vulnerability damage to a creature, you leave an opening you can exploit in the next 1 round. Whenever you meet the condition for the discerning strike or expose vulnerability damage again for that round but fail to deal the damage because it has already been dealt, you still deal an extra 1 precision damage per die of the ability."
   },
   {
    "id": "feat/nebulous-preparation-plan",
@@ -1586,44 +1564,6 @@
    "md": "**Prerequisite:** Diplomacy 7 ranks.\n\n**Benefit:** You gain the influence and rapid persuasion abilities of the envoy class, but cannot use the deep discouragement ability. The DC of trusted words is equal to 10 + 1/2 your ranks in Diplomacy + your Charisma modifier. If you already possess either of these class features, you gain the uses of influence and rapid persuasion provided by an envoy with no archetype in addition to any abilities granted by your archetype."
   },
   {
-   "id": "feat/single-strike-mastery-combat",
-   "name": "Single Strike Mastery",
-   "system": "Spheres of Guile",
-   "types": [
-    "Combat"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Operative Feats",
-   "prerequisites": "Sneak attack +2d6.",
-   "source": "Diamond Spheres: Erudition & Esoterica",
-   "url": "Other-Pages/Operative-Feats#single-strike-mastery-combat",
-   "alsoOn": [],
-   "md": "**Prerequisite:** Sneak attack +2d6.\n\n**Benefit:** Once per round, when you use sneak attack on a standard attack action, you may increase the damage dice from sneak attack by one size (usually from d6s to d8s)."
-  },
-  {
-   "id": "feat/skill-sphere-focus-combat",
-   "name": "Skill Sphere Focus",
-   "system": "Spheres of Guile",
-   "types": [
-    "Combat"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Operative Feats",
-   "prerequisites": "",
-   "source": "Diamond Spheres: Erudition & Esoterica",
-   "url": "Other-Pages/Operative-Feats#skill-sphere-focus-combat",
-   "alsoOn": [],
-   "md": "**Benefit:** Choose a skill sphere. You gain a +1 bonus to saving throw and target’s skill check DCs for all abilities from that sphere.\n\n**Special:** You may take this feat multiple times. The effects do not stack. Each time it is gained, apply this benefit to a different sphere."
-  },
-  {
    "id": "feat/theoretical-initiate",
    "name": "Theoretical Initiate",
    "system": "Spheres of Guile",
@@ -1641,25 +1581,6 @@
    "url": "Other-Pages/Operative-Feats#theoretical-initiate",
    "alsoOn": [],
    "md": "**Benefit:** You gain the hypothesis dice and theory bonus class features of a 1st-level theorist, gaining 2 additional hypothesis dice for every 4 levels you possess in classes other than theorist and increasing your theory bonus by 1 for every 6 levels you possess in classes other than theorist. If you already possess the hypothesis dice class feature, this feat grants 2 additional hypothesis dice. If you do not already possess the model class feature, you may select a single theorist model, allowing you to assign hypothesis dice to that model and use them to apply that model’s theory bonus. This feat does not grant you the magical underpinning of a selected model.\n\nYou may spend a plan or martial focus in place of spending a spell point to reroll your hypothesis dice, although such methods only allow you to reroll hypothesis dice granted by this feat."
-  },
-  {
-   "id": "feat/utilitarian-dilettante",
-   "name": "Utilitarian Dilettante",
-   "system": "Spheres of Guile",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Operative Feats",
-   "prerequisites": "Extra Skill Talent.",
-   "source": "Diamond Spheres: Erudition & Esoterica",
-   "url": "Other-Pages/Operative-Feats#utilitarian-dilettante",
-   "alsoOn": [],
-   "md": "**Prerequisite:** Extra Skill Talent.\n\n**Benefit:** You gain two bonus skill talents with the [utility] tag.\n\n**Special:** You can take this feat multiple times if you have taken Extra Skill Talent multiple times, up to a maximum number of times equal to the number of times you have taken Extra Skill Talent."
   },
   {
    "id": "feat/capoeirista-champion",
@@ -3321,448 +3242,6 @@
    "md": "Your followers maintain your traps in your stead.\n\n**Prerequisites:** Trap sphere (Persistent Trap), Leadership sphere ((followers) package, Base Of Operations).\n\n**Benefit:** When you create a Trap sphere trap (including trap doors) within an area you declared your base of operations you can have its duration increased to permanent as long as one of your cohorts or followers there spend at least an hour each day maintaining it (trap doors can be maintained with only 10 minutes of work). If a trap is activated, disabled, or broken it can be reset, enabled, and fixed with an hour of work from a follower.\n\nAs normal for followers, the space must be safe for them to visit reliably and maintain, and will not maintain traps in areas they find dangerous.\n\nYou can have a number of permanent traps this way equal to your practitioner modifier plus half your ranks in Diplomacy (and do not count towards the maximum persistent traps you can have at once). Trap doors do not count towards this limitation."
   },
   {
-   "id": "feat/aerial-trip",
-   "name": "Aerial Trip",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Practitioner Feats",
-   "prerequisites": "Base attack bonus +5, Improved Trip or a combat talent that allows you to perform a trip without provoking an attack of opportunity.",
-   "source": "Polished Commander & Warleader",
-   "url": "Spheres-Of-Might/Practitioner-Feats#aerial-trip",
-   "alsoOn": [],
-   "md": "**Prerequisites:** Base attack bonus +5, Improved Trip or a combat talent that allows you to perform a trip without provoking an attack of opportunity.\n\n**Benefit:** You can trip flying opponents. If you would successfully trip a flying opponent, it falls at a rate of 10 ft per round for every point of base attack bonus you possess (assuming it is conscious and attempting to remain airborne; otherwise, it falls at a rate of 500 ft per round) until it hits the ground. The creature falls immediately after being tripped, then again each round thereafter at the end of your turn.\n\nUpon impact, the creature falls prone and takes normal falling damage (maximum: 1d6 per 10 ft. in its falling speed). A falling creature is considered entangled until it hits the ground, but it can attempt a Fly check as a free action at the start of its turn to stop falling before it hits the ground (DC = 15 + your base attack bonus); otherwise, it is unable to move (other than falling) but can act normally. You can choose to descend with the opponent, although this movement cannot exceed two times your normal flight speed."
-  },
-  {
-   "id": "feat/amateur-field-tactician",
-   "name": "Amateur Field Tactician",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Practitioner Feats",
-   "prerequisites": "Base attack bonus +5; favored terrain class feature.",
-   "source": "Polished Commander & Warleader",
-   "url": "Spheres-Of-Might/Practitioner-Feats#amateur-field-tactician",
-   "alsoOn": [],
-   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*You're familiar enough with the terrain and feel confident enough to help guide others.*\n\n**Prerequisites:** Base attack bonus +5; favored terrain class feature.\n\n**Benefit:** You gain one battlefield specialty that is closely associated with a favored terrain you possess (subject to GM discretion), treating your effective commander level for this battlefield specialty as 1. The terrain skill bonus granted by this battlefield specialty is equal to 1/2 your favored terrain bonus for the associated terrain (minimum 1).\n\nYou may share this battlefield specialty through your Warleader sphere abilities as normal. If you possess an ability to share your favored terrain benefits with allies, you may also share this battlefield specialty with those allies.\n\n**Special:** If you possess levels in a class that grants the battlefield specialty class feature, your levels in that class and the class that grants favored terrain stack when determining the effects of your battlefield specialties, including the battlefield specialty granted by this feat (instead of having an effective commander level of 1)."
-  },
-  {
-   "id": "feat/bloodrunner",
-   "name": "Bloodrunner",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [
-    "Blood",
-    "Duelist"
-   ],
-   "group": "Practitioner Feats",
-   "prerequisites": "Blood sphere or Duelist sphere, character level 7th.",
-   "source": "Polished Commander & Warleader",
-   "url": "Spheres-Of-Might/Practitioner-Feats#bloodrunner",
-   "alsoOn": [
-    "Spheres-Of-Power/Blood/Blood-Sphere-Feats#bloodrunner"
-   ],
-   "md": "**Prerequisites:** Blood sphere or Duelist sphere, character level 7th.\n\n**Benefit:** Your body has grown a tolerance for the blood of others, and you have learned to use it to your advantage. You ignore any detriment from traversing on bloody terrain, such as difficult terrain or the terrain being considered slippery (as long as blood is the only reason that terrain is detrimental), and you gain a +2 bonus on all saving throws against bleed effects and any effect from the Blood sphere. You can distinctly tell the difference between the blood of any two creatures, and can identify the blood of creatures you have witnessed before. You can attempt a Knowledge check to identify a creature by merely witnessing its blood, as if you had seen the creature by sight, but only if the blood was shed within an hour of you attempting to identify it."
-  },
-  {
-   "id": "feat/brain-consumption",
-   "name": "Brain Consumption",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Practitioner Feats",
-   "prerequisites": "",
-   "source": "Polished Commander & Warleader",
-   "url": "Spheres-Of-Might/Practitioner-Feats#brain-consumption",
-   "alsoOn": [],
-   "md": "**Benefit:** You may consume the brain of an unconscious creature or a creature who has died within the last 24 hours as a fullround action. A corpse preserved by the Corpse Manipulation talent may have its brain consumed in this way within a week of its death. This functions as a coup de grace against a living creature with a base damage of 4d8 + your Strength modifier and a critical multiplier of x2. Doing so grants you a +2 insight bonus to two skills that the creature whose brain you ate possessed ranks in. You may only benefit from having one brain eaten at a time, but these bonuses last until the next time you consume a creature’s brain. You are immune to any non-magical diseases you are exposed to as part of consuming a creature’s brain and do not suffer any mundane negative health effects from consuming a creature’s brain, even if it would not normally be part of your natural diet. You gain no benefit from consuming the brains of subordinates. The creature’s brain is not eaten if they are not killed by this effect and you cannot consume the brains of creatures that lack brains (at GM discretion).\n\n##### Carve Them Up! (shout) (dual sphere)\n\n**Duration:** 2 rounds, +1 round per 4 associated skill ranks\n\n**Target(s):** allies\n\n**Effect:** When an ally hits a bleeding target, increase the bleeding target's current bleed by 1. A bleeding target can only have their bleed increased this way once per round per attacker.\n\nIf the attack is a critical hit, instead increase the bleeding target's current bleed by the weapon's critical hit multiplier, then the target takes damage from their current total bleed (as though starting their turn)."
-  },
-  {
-   "id": "feat/catisthenics",
-   "name": "Catisthenics",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Practitioner Feats",
-   "prerequisites": "1 rank in any Strength- or Dexterity-based skill.",
-   "source": "Polished Commander & Warleader",
-   "url": "Spheres-Of-Might/Practitioner-Feats#catisthenics",
-   "alsoOn": [],
-   "md": "**Prerequisite:** 1 rank in any Strength- or Dexterity-based skill.\n\n**Benefits:** By spending 10 minutes stretching (such as doing yoga, martial exercises, etc.), you gain a catisthenics pool with a number of dice equal to 1 + 1 for every 3 Hit Dice you possess.\n\nYou may spend a catisthenics die as part of attempting a Strength- or Dexterity-based skill check to add +1d6 to that roll. You may spend 10 minutes to stretch and replenish your catisthenics pool, regaining up to the maximum number of catisthenics dice.\n\nIf a catisthenics die is used at the same time as another ability which adds a bonus die to a check (such as investigator’s inspiration, sage’s meditation, etc.), the bonus granted by a catisthenics dice is decreased to +1d4."
-  },
-  {
-   "id": "feat/color-guard",
-   "name": "Color Guard",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Practitioner Feats",
-   "prerequisites": "Banner class feature, character level 10th.",
-   "source": "Polished Commander & Warleader",
-   "url": "Spheres-Of-Might/Practitioner-Feats#color-guard",
-   "alsoOn": [],
-   "md": "*Source: [Spheres Apocrypha: Banners](https://www.drivethrurpg.com/product/351351/Spheres-Apocrypha-Monster-Traditions?affiliate_id=549120)*\n\n**Prerequisites:** Banner class feature, character level 10th.\n\n**Benefit:** The time required to wave a banner is reduced by one step (i.e., full-round action becomes a standard action, standard action becomes a move action)."
-  },
-  {
-   "id": "feat/consumptive-intuition",
-   "name": "Consumptive Intuition",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Practitioner Feats",
-   "prerequisites": "Brain Consumption.",
-   "source": "Spheres Apocrypha: Banners",
-   "url": "Spheres-Of-Might/Practitioner-Feats#consumptive-intuition",
-   "alsoOn": [],
-   "md": "**Prerequisite:** Brain Consumption.\n\n**Benefit:** Whenever you consume a creature’s brain using the Brain Consumption feat, choose one combat talent or magic talent that the creature whose brain you consumed possessed. Once per day as a free action, you may gain that talent for a number of minutes equal to your character level. Upon consuming a creature’s brain, you learn of all talents that they possessed but must meet the prerequisites for a talent in order to select it. You still may only benefit from having one brain eaten at a time and may not exchange talents more than once every 24 hours. When you consume a new brain, you can no longer access talents from previous brains you have consumed.\n\n**Special:** You may take this feat an additional time for every 5 character levels you possess. Each time, you may select an additional talent which was known by the creature whose brain you ate. When you activate the temporary bonus talent from this feat, you gain the benefits of one talent for every time you have taken this feat."
-  },
-  {
-   "id": "feat/consumptive-mutation",
-   "name": "Consumptive Mutation",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Practitioner Feats",
-   "prerequisites": "Consumptive Intuition, Improved Transformation, Transformation, character level 5th.",
-   "source": "Spheres Apocrypha: Banners",
-   "url": "Spheres-Of-Might/Practitioner-Feats#consumptive-mutation",
-   "alsoOn": [],
-   "md": "**Prerequisites:** Consumptive Intuition, Improved Transformation, Transformation, character level 5th.\n\n**Benefit:** You may exchange one or more traits granted by Improved Transformation for any other traits you would qualify for whenever you consume a creature’s brain. These traits must emulate abilities that the consumed creature possessed or that are associated with the creature, subject to GM discretion."
-  },
-  {
-   "id": "feat/customized-bond",
-   "name": "Customized Bond",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Practitioner Feats",
-   "prerequisites": "Bound equipment class feature, customized weapons class feature.",
-   "source": "Spheres Apocrypha: Banners",
-   "url": "Spheres-Of-Might/Practitioner-Feats#customized-bond",
-   "alsoOn": [],
-   "md": "**Prerequisites:** Bound equipment class feature, customized weapons class feature.\n\n**Benefit:** You may customize your bound weapons. You may summon a customized bound weapon as a free action whenever you would be able to draw a customized weapon as a free action. You may add half your armiger levels toward your armorist level for determining the maximum enhancement bonus value of your bound equipment. If you possess the enhanced customization class feature, you may add half your armorist levels toward your armiger level for determining the maximum enhancement bonus from enhanced customization."
-  },
-  {
-   "id": "feat/decorated-insight",
-   "name": "Decorated Insight",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Practitioner Feats",
-   "prerequisites": "Decorum class feature.",
-   "source": "Spheres Apocrypha: Banners",
-   "url": "Spheres-Of-Might/Practitioner-Feats#decorated-insight",
-   "alsoOn": [],
-   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n**Prerequisites:** Decorum class feature.\n\n**Benefit:** Choose two additional skills, chosen from the following list: Appraise, Bluff, Handle Animal, Knowledge (any), Ride, Sense Motive.\n\nYour commander's decorum bonus now also applies to the chosen skills.\n\n**Special:** You are treated as possessing Skill Focus for each skill that decorum grants a bonus towards for the purposes of qualifying for prerequisites and other effects."
-  },
-  {
-   "id": "feat/dragons-tattoos",
-   "name": "Dragon’s Tattoos",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Practitioner Feats",
-   "prerequisites": "Improved Unarmed Strike, Craft (tattoos) 5 ranks.",
-   "source": "Polished Commander & Warleader",
-   "url": "Spheres-Of-Might/Practitioner-Feats#dragons-tattoos",
-   "alsoOn": [],
-   "md": "Etching your limbs with exquisite art, your body truly becomes a weapon.\n\n**Prerequisites:** Improved Unarmed Strike, Craft (tattoos) 5 ranks.\n\n**Benefit:** You learn how to adorn yourself with the sacred tattoos that are said to have been first conceived by an ancient monk known only as “the Dragon”. Covering your body in these intricate tattoos etched by your own hand, your limbs, grapples, and unarmed strikes are now treated as masterwork weapons, and may be enhanced just as any other masterwork weapon. Enhancements applied via this ability apply to all unarmed strikes or grapple checks you make, regardless of the limb you choose to use; essentially, your entire body is treated as a single weapon.\n\n**Author's Note:** Dragon's Tattoos applies to all of your unarmed strikes and natural attacks, essentially like an amulet of mighty fists."
-  },
-  {
-   "id": "feat/dual-wielding-mystic-fusion",
-   "name": "Dual Wielding Mystic Fusion",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [
-    "Dual Wielding"
-   ],
-   "group": "Practitioner Feats",
-   "prerequisites": "Dual Wielding Sphere, Spherecasting.",
-   "source": "Polished Commander & Warleader",
-   "url": "Spheres-Of-Might/Practitioner-Feats#dual-wielding-mystic-fusion",
-   "alsoOn": [
-    "Spheres-Of-Power/Feats/Champion-Feats#dual-wielding-mystic-fusion"
-   ],
-   "md": "**Prerequisites:** Dual Wielding Sphere, Spherecasting.\n\n**Benefit:** As a special attack action, while you have martial focus you can use your Dual Attack or Combo Maneuvers ability with a sphere ability in place of your first offhand weapon attack. The ability must be one that requires a touch attack or that can be made with a weapon attack and that can be cast with a standard action. The sphere ability has its caster level (excluding enhancement bonuses) limited to your BAB and provokes attacks of opportunity normally.\n\nIf the sphere ability is a ranged attack, it does not provoke an attack of opportunity if you possess the Mixed Assault talent."
-  },
-  {
-   "id": "feat/dual-wielding-mystic-strike",
-   "name": "Dual Wielding Mystic Strike",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Practitioner Feats",
-   "prerequisites": "Dual Wielding Mystic Fusion.",
-   "source": "Polished Commander & Warleader",
-   "url": "Spheres-Of-Might/Practitioner-Feats#dual-wielding-mystic-strike",
-   "alsoOn": [
-    "Spheres-Of-Power/Feats/Champion-Feats#dual-wielding-mystic-strike"
-   ],
-   "md": "**Prerequisites:** Dual Wielding Mystic Fusion.\n\n**Benefit:** When you use dual wielding mystic fusion with a sphere ability, you may deliver the sphere ability with a melee weapon attack. The sphere ability uses its own threat range."
-  },
-  {
-   "id": "feat/expanded-battlefield-specialty-plan",
-   "name": "Expanded Battlefield Specialty",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [
-    "plan"
-   ],
-   "sphere": "",
-   "spheres": [],
-   "group": "Practitioner Feats",
-   "prerequisites": "Commander 10th level, battlefield specialty class feature.",
-   "source": "Polished Commander & Warleader",
-   "url": "Spheres-Of-Might/Practitioner-Feats#expanded-battlefield-specialty-plan",
-   "alsoOn": [],
-   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*Always plan for the next battlefield.*\n\n**Prerequisite:** Commander 10th level, battlefield specialty class feature.\n\n**Benefit:** You gain an additional battlefield specialty. In addition, you gain the following plan:"
-  },
-  {
-   "id": "feat/focused-stamina",
-   "name": "Focused Stamina",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Practitioner Feats",
-   "prerequisites": "Martial focus, combat stamina.",
-   "source": "Polished Commander & Warleader",
-   "url": "Spheres-Of-Might/Practitioner-Feats#focused-stamina",
-   "alsoOn": [],
-   "md": "**Prerequisites:** Martial focus, combat stamina.\n\n**Benefit:** Whenever you would expend your martial focus, you may instead spend 5 stamina points."
-  },
-  {
-   "id": "feat/mounted-athlete",
-   "name": "Mounted Athlete",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [
-    "Athletics",
-    "Beastmastery"
-   ],
-   "group": "Practitioner Feats",
-   "prerequisites": "Athletics sphere, Beastmastery sphere ((ride) package).",
-   "source": "Polished Commander & Warleader",
-   "url": "Spheres-Of-Might/Practitioner-Feats#mounted-athlete",
-   "alsoOn": [],
-   "md": "The handler is often as athletic as the mount.\n\n**Prerequisites:** Athletics sphere, Beastmastery sphere ((ride) package).\n\n**Benefit:** Whenever your mount would attempt a skill check associated with an Athletics sphere package you possess, you may attempt that skill check for your mount, using your bonus in that skill. For example, if you possess the (leap) or (run) packages, you may attempt Acrobatics checks for your mount whenever your mount would attempt such a check.\n\nIn addition, you share your Athletics sphere talents with your mount. Your mount is treated as possessing any packages or talents you possess and uses your skill ranks and Athletics sphere save DC when determining the effects of shared talents.\n\nIf your mount cannot maintain martial focus, shared Athletics sphere talents do not grant the ability to maintain martial focus.\n\nAs long as you have martial focus, your mount counts as possessing martial focus when determining the benefits of shared Athletics sphere talents that require you to have martial focus (such as the Swift Movement talent). If your mount would expend martial focus to use a shared Athletics sphere talent, you must expend your martial focus and both you and your mount benefit from the shared talent’s effects (where applicable). A mount that is a practitioner and can maintain martial focus cannot use its own martial focus with shared Athletics sphere talents, but may use shared talents in combination with any talents it possesses.\n\nYour mount’s movement made using a movement mode corresponding to an Athletics sphere package you possess counts as your own movement for the purposes of Athletics sphere talents. This allows you to use Athletics sphere talents while mounted, such as using the Reflexive Twist talent to avoid an attack despite being mounted. Whenever your mount’s movement would allow you or your mount to use a (motion) talent, both you and your mount must use the same (motion) talent. If a (motion) talent would affect another creature, it only affects that creature a single time (such as the Dizzying Tumble (motion) talent only occurring once). If a (motion) talent would benefit you, it benefits both you and your mount normally (such as both you and your mount gaining miss chance from the Moving Target (motion) talent).\n\nAthletics sphere talents which allow you or your mount to take an action are only used by the creature that spent the required actions, unless both creatures spend the required actions. For example, if your mount uses the Diving Strike talent, only your mount gains the benefits and suffers the risks of the talent unless you also take the charge action with your mount, gaining the bonus damage to your attack but also suffering the fall damage."
-  },
-  {
-   "id": "feat/mounted-protector",
-   "name": "Mounted Protector",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [
-    "Beastmastery",
-    "Guardian"
-   ],
-   "group": "Practitioner Feats",
-   "prerequisites": "Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package).",
-   "source": "Polished Commander & Warleader",
-   "url": "Spheres-Of-Might/Practitioner-Feats#mounted-protector",
-   "alsoOn": [],
-   "md": "Your protective might is delivered on the swift heels of your mount.\n\n**Prerequisites:** Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package).\n\n**Benefit:** While mounted, you may use your mount’s movement whenever you could move as part of your patrol, provided your mount’s total movement before its next turn does not exceed its base speed. Any movement you or your mount make provoke attacks of opportunity as normal. In addition, whenever you could make an attack of opportunity as part of your patrol, you may have your mount make an attack of opportunity against that target instead.\n\n**Normal:** You cannot move with your mount as part of your patrol."
-  },
-  {
-   "id": "feat/rigorous-student",
-   "name": "Rigorous Student",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Practitioner Feats",
-   "prerequisites": "",
-   "source": "Polished Commander & Warleader",
-   "url": "Spheres-Of-Might/Practitioner-Feats#rigorous-student",
-   "alsoOn": [
-    "Spheres-Of-Power/Feats/General-Feats#rigorous-student"
-   ],
-   "md": "**Benefit:** Choose a class you have levels in. For the purpose of calculating the DCs of class features based on that class’ level (such as scholar material impositions and thaumaturge invocations), you treat your class level as 4 higher, to a maximum of your character level. This does not improve other effects of the class feature (for example, a character with 18 Intelligence, 5 levels in scholar, and 3 levels in conscript would have a flashbang save DC of 18, but their sulfuric detonation would only add 2d6 damage to their flashbang). This does not affect abilities which use your caster level to calculate the DC.\n\n**Special:** You may select this feat multiple times. The effects of this feat stack if applied to the same class multiple times."
-  },
-  {
-   "id": "feat/technological-training",
-   "name": "Technological Training",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Practitioner Feats",
-   "prerequisites": "",
-   "source": "Polished Commander & Warleader",
-   "url": "Spheres-Of-Might/Practitioner-Feats#technological-training",
-   "alsoOn": [],
-   "md": "**Benefit:** Reduce the penalties you suffer when using technician inventions that are not your own by half. If the technician who made the invention possesses Aesthetic Insight, these penalties are reduced to 0."
-  },
-  {
-   "id": "feat/understand-thy-enemy",
-   "name": "Understand Thy Enemy",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [
-    "Fencing",
-    "Scout"
-   ],
-   "group": "Practitioner Feats",
-   "prerequisites": "Fencing sphere (Read Foe, Parry And Riposte) or Fencing sphere (Read Foe) and opportune parry and riposte deed, Scout sphere.",
-   "source": "Polished Commander & Warleader",
-   "url": "Spheres-Of-Might/Practitioner-Feats#understand-thy-enemy",
-   "alsoOn": [],
-   "md": "*Source: [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)*\n\n**Prerequisites:** Fencing sphere (Read Foe, Parry And Riposte) or Fencing sphere (Read Foe) and opportune parry and riposte deed, Scout sphere.\n\n**Benefit:** Whenever you scout a creature, the next parry and riposte you use against that creature does not cost martial focus, an attack of opportunity, or a panache point. When used in this way, the ability does not require you to have a panache point to perform an attack and you do not regain martial focus."
-  },
-  {
-   "id": "feat/unseen-terror",
-   "name": "Unseen Terror",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Practitioner Feats",
-   "prerequisites": "Intimidate 3 ranks, Stealth 3 ranks.",
-   "source": "Spheres Apocrypha: Swashbucklers",
-   "url": "Spheres-Of-Might/Practitioner-Feats#unseen-terror",
-   "alsoOn": [],
-   "md": "The hunter stalks its prey. The prey knows, but can only run from the scraping, rattling, and growling noises which chase them.\n\n**Prerequisites:** Intimidate 3 ranks, Stealth 3 ranks.\n\n**Benefit:** You gain a +2 bonus on Intimidate and Stealth checks. Whenever your Stealth check to hide exceeds an opposing creature’s Perception check by 5 or more, you may attempt an Intimidate check as a swift action to demoralize one target creature within 30 feet who failed to notice you. The target does not need to be able to see you, but must be able to hear you. The target is not made aware of your location when you Intimidate them with this feat, and making an Intimidate check this way does not automatically reveal your location. If you are able to use the Intimidate skill to cause a target to become frightened or worse, and the target is unaware of your position, the frightened creature will attempt to flee to a location it feels is safe, treating the location it became frightened at as the source of its fear.\n\nIf you possess the Dazzling Display feat or Gladiator sphere, whenever you could attempt an Intimidate check as a swift action from this feat, you may instead use the Dazzling Display feat or Gladiator sphere strike fear ability as a standard action to intimidate all creatures within range instead of a single creature, even if you could not normally use those abilities as a standard action.\n\n**Special:** This feat counts as having the Skill Focus feat for either Intimidate or Stealth, chosen when you gain this feat, for the purposes of meeting prerequisites."
-  },
-  {
-   "id": "feat/versed-student",
-   "name": "Versed Student",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Practitioner Feats",
-   "prerequisites": "",
-   "source": "Spheres Apocrypha: Swashbucklers",
-   "url": "Spheres-Of-Might/Practitioner-Feats#versed-student",
-   "alsoOn": [],
-   "md": "**Benefit:** Choose a class you have levels in. For the purpose of determining class features selected individually at advancing levels you may select (such as alchemist discoveries, shifter bestial traits, striker arts, and witch hexes), you treat your level in that class as 4 higher, to a maximum of your character level. For example, a character with 4 levels in mageknight and 6 levels in shifter who has selected shifter with this feat may select bestial traits as if they were a 10th-level shifter (although they would have a total of three bestial traits, not 5). This does not include advanced rogue talents, grand hexes, and other such abilities which would normally only be selectable starting at higher levels unless you already have access to such abilities from one of your classes. This feat does not grant any such abilities when it is taken, nor does it cause levels in any class to count as levels in other classes for the purpose of determining the effects of class abilities.\n\n**Special:** You may select this feat multiple times. The effects of this feat stack if applied to the same class multiple times.\n\n---\n\n*Archived: [[Practitioner Feats (Ultimate)|Ultimate version]] (before *Polished*)*"
-  },
-  {
    "id": "feat/moderated-invocation",
    "name": "Moderated Invocation",
    "system": "Spheres of Might",
@@ -5170,6 +4649,30 @@
    "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#blood-thirst",
    "alsoOn": [],
    "md": "**Prerequisites:** Blood sphere, bite attack.\n\n**Benefit:** You gain the blood drain universal monster ability with your bite attack, and thus may inflict 1 point of Constitution damage whenever you end a turn grappling a creature. Additionally, each time you inflict Constitution damage with this ability, you heal a number of hit points equal to the creature’s Hit Dice. You cannot heal more than 10 hit points per character level per day using this ability."
+  },
+  {
+   "id": "feat/bloodrunner",
+   "name": "Bloodrunner",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "Blood",
+   "spheres": [
+    "Blood",
+    "Duelist"
+   ],
+   "group": "Blood Sphere Feats",
+   "prerequisites": "Blood sphere or Duelist sphere, character level 7th.",
+   "source": "",
+   "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#bloodrunner",
+   "alsoOn": [
+    "Spheres-Of-Power/Feats/General-Feats#bloodrunner"
+   ],
+   "md": "**Prerequisites:** Blood sphere or Duelist sphere, character level 7th.\n\n**Benefit:** Your body has grown a tolerance for the blood of others, and you have learned to use it to your advantage. You ignore any detriment from traversing on bloody terrain, such as difficult terrain or the terrain being considered slippery (as long as blood is the only reason that terrain is detrimental), and you gain a +2 bonus on all saving throws against bleed effects and any effect from the Blood sphere. You can distinctly tell the difference between the blood of any two creatures, and can identify the blood of creatures you have witnessed before. You can attempt a Knowledge check to identify a creature by merely witnessing its blood, as if you had seen the creature by sight, but only if the blood was shed within an hour of you attempting to identify it."
   },
   {
    "id": "feat/bonds-of-blood-and-power-dual-sphere",
@@ -11444,6 +10947,50 @@
    "md": "**Prerequisites:** Counterspell feat, ability to gain martial focus.\n\nWhen you damage a creature while using an attack action, you may expend martial focus as a swift action to use Counterspell targeting that creature or its attended items. Additionally, you gain a +1 bonus to your MSB for the purposes of counterspelling, to a maximum MSB equal to your Hit Dice."
   },
   {
+   "id": "feat/dual-wielding-mystic-fusion",
+   "name": "Dual Wielding Mystic Fusion",
+   "system": "Champions",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [
+    "Dual Wielding"
+   ],
+   "group": "Champion Feats",
+   "prerequisites": "Dual Wielding Sphere, Spherecasting.",
+   "source": "Diamond Spheres: Hustle & Bustle",
+   "url": "Spheres-Of-Power/Feats/Champion-Feats#dual-wielding-mystic-fusion",
+   "alsoOn": [
+    "Spheres-Of-Power/Feats/General-Feats#dual-wielding-mystic-fusion"
+   ],
+   "md": "**Prerequisites:** Dual Wielding Sphere, Spherecasting.\n\n**Benefit:** As a special attack action, while you have martial focus you can use your Dual Attack or Combo Maneuvers ability with a sphere ability in place of your first offhand weapon attack. The ability must be one that requires a touch attack or that can be made with a weapon attack and that can be cast with a standard action. The sphere ability has its caster level (excluding enhancement bonuses) limited to your BAB and provokes attacks of opportunity normally.\n\nIf the sphere ability is a ranged attack, it does not provoke an attack of opportunity if you possess the Mixed Assault talent."
+  },
+  {
+   "id": "feat/dual-wielding-mystic-strike",
+   "name": "Dual Wielding Mystic Strike",
+   "system": "Champions",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Champion Feats",
+   "prerequisites": "Dual Wielding Mystic Fusion.",
+   "source": "Diamond Spheres: Hustle & Bustle",
+   "url": "Spheres-Of-Power/Feats/Champion-Feats#dual-wielding-mystic-strike",
+   "alsoOn": [
+    "Spheres-Of-Power/Feats/General-Feats#dual-wielding-mystic-strike"
+   ],
+   "md": "**Prerequisites:** Dual Wielding Mystic Fusion.\n\n**Benefit:** When you use dual wielding mystic fusion with a sphere ability, you may deliver the sphere ability with a melee weapon attack. The sphere ability uses its own threat range."
+  },
+  {
    "id": "feat/exorcist-champion-combat",
    "name": "Exorcist",
    "system": "Champions",
@@ -13255,6 +12802,25 @@
    "md": "**Prerequisites:** Casting class feature; any talent with the strike descriptor.\n\n**Benefit:** When activating a magic sphere talent with the strike descriptor, you may spend a spell point to instead use the sphere effect in conjunction with making a full attack. The magic sphere effect is delivered through the first successful attack made as part of that full attack routine; if no attack is successful, no creature is targeted with the magic sphere effect and any spell points spent are wasted.\n\n**Author's Note:** \"Instead\" means if the spell effect is delivered with the first normal attack of your full attack action and not with the strike's \"normal\" attack; a spell delivered this way otherwise follows all the normal rules for a talent with the [strike] descriptor. This means that the Improved Spell Combat feat is not compatible with the Spell Attack champion feat."
   },
   {
+   "id": "feat/lingering-opening-combat",
+   "name": "Lingering Opening",
+   "system": "Spheres of Power",
+   "types": [
+    "Combat"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Combat Feats",
+   "prerequisites": "Discerning strike or expose vulnerability class feature.",
+   "source": "Polished Commander & Warleader",
+   "url": "Spheres-Of-Power/Feats/Combat-Feats#lingering-opening-combat",
+   "alsoOn": [],
+   "md": "**Prerequisite:** Discerning strike or expose vulnerability class feature.\n\n**Benefit:** When you deal discerning strike damage or expose vulnerability damage to a creature, you leave an opening you can exploit in the next 1 round. Whenever you meet the condition for the discerning strike or expose vulnerability damage again for that round but fail to deal the damage because it has already been dealt, you still deal an extra 1 precision damage per die of the ability."
+  },
+  {
    "id": "feat/martial-aegis-combat",
    "name": "Martial Aegis",
    "system": "Spheres of Power",
@@ -13712,6 +13278,25 @@
    "md": "*Source: [The Player's Guide to Skybourne](https://www.drivethrurpg.com/product/173399/The-Players-Guide-to-Skybourne?affiliate_id=549120)*\n\nYour skill with large weapons is great.\n\n**Prerequisites:** Proficiency with at least 1 siege engine.\n\n**Benefit:** You are considered proficient with all siege engines, and no longer suffer a chance of misfire when rolling a 1 with a siege engine."
   },
   {
+   "id": "feat/single-strike-mastery-combat",
+   "name": "Single Strike Mastery",
+   "system": "Spheres of Power",
+   "types": [
+    "Combat"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Combat Feats",
+   "prerequisites": "Sneak attack +2d6.",
+   "source": "The Player's Guide to Skybourne",
+   "url": "Spheres-Of-Power/Feats/Combat-Feats#single-strike-mastery-combat",
+   "alsoOn": [],
+   "md": "**Prerequisite:** Sneak attack +2d6.\n\n**Benefit:** Once per round, when you use sneak attack on a standard attack action, you may increase the damage dice from sneak attack by one size (usually from d6s to d8s)."
+  },
+  {
    "id": "feat/skeletal-contortionist-combat",
    "name": "Skeletal Contortionist",
    "system": "Spheres of Power",
@@ -13750,6 +13335,25 @@
    "url": "Spheres-Of-Power/Feats/Combat-Feats#shifting-style-combat",
    "alsoOn": [],
    "md": "**Prerequisites:** Transformation, customized weapons class feature.\n\n**Benefit:** You may assign each form you can take (including your base form) to a specific customized weapon you possess. You may reassign these forms whenever you gain an additional customized weapon, a new instance of the Transformation feat, or a feat with Transformation as a prerequisite. When you swap to that specific customized weapon, you may swap to the corresponding form as part of the same action. This does not require the form you are currently in to be able to draw or use the customized weapon you are swapping to."
+  },
+  {
+   "id": "feat/skill-sphere-focus-combat",
+   "name": "Skill Sphere Focus",
+   "system": "Spheres of Power",
+   "types": [
+    "Combat"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Combat Feats",
+   "prerequisites": "",
+   "source": "The Player's Guide to Skybourne",
+   "url": "Spheres-Of-Power/Feats/Combat-Feats#skill-sphere-focus-combat",
+   "alsoOn": [],
+   "md": "**Benefit:** Choose a skill sphere. You gain a +1 bonus to saving throw and target’s skill check DCs for all abilities from that sphere.\n\n**Special:** You may take this feat multiple times. The effects do not stack. Each time it is gained, apply this benefit to a different sphere."
   },
   {
    "id": "feat/spell-absorption-combat-counterspell",
@@ -15909,8 +15513,8 @@
    "md": "Your acumen and expertise are easily expanded.\n\n**Benefit:** Gain either an additional skill sphere or a talent from a skill sphere you possess.\n\n**Special:** You may take this feat multiple times. The effects stack."
   },
   {
-   "id": "feat/extra-feats/extra-spell-points",
-   "name": "Extra Spell Points",
+   "id": "feat/utilitarian-dilettante",
+   "name": "Utilitarian Dilettante",
    "system": "Spheres of Power",
    "types": [
     "General"
@@ -15921,11 +15525,11 @@
    "sphere": "",
    "spheres": [],
    "group": "Extra Feats",
-   "prerequisites": "Spell pool.",
+   "prerequisites": "Extra Skill Talent.",
    "source": "Ultimate Spheres of Power",
-   "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-spell-points",
+   "url": "Spheres-Of-Power/Feats/Extra-Feats#utilitarian-dilettante",
    "alsoOn": [],
-   "md": "**Prerequisite:** Spell pool.\n\n**Benefit:** Your spell pool total increases by 2. You may gain this feat multiple times. The effects stack.\n\n---\n\n*Archived: [[Extra Feats (Original)|Original version]] (from before *Ultimate Spheres of Power*)*"
+   "md": "**Prerequisite:** Extra Skill Talent.\n\n**Benefit:** You gain two bonus skill talents with the [utility] tag.\n\n**Special:** You can take this feat multiple times if you have taken Extra Skill Talent multiple times, up to a maximum number of times equal to the number of times you have taken Extra Skill Talent.\n\n---\n\n*Archived: [[Extra Feats (Original)|Original version]] (from before *Ultimate Spheres of Power*)*"
   },
   {
    "id": "feat/advanced-magic-training",
@@ -15966,6 +15570,44 @@
    "md": "**Prerequisite:** Bardic performance or raging song class feature.\n\n**Benefit:** When you use Perform (wind) to produce a bardic performance or a raging song in an areas of wind, treat your relevant class level and ranks in Perform (wind) as 1 higher for each category above severity level 1."
   },
   {
+   "id": "feat/aerial-trip",
+   "name": "Aerial Trip",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "General Feats",
+   "prerequisites": "Base attack bonus +5, Improved Trip or a combat talent that allows you to perform a trip without provoking an attack of opportunity.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Feats/General-Feats#aerial-trip",
+   "alsoOn": [],
+   "md": "**Prerequisites:** Base attack bonus +5, Improved Trip or a combat talent that allows you to perform a trip without provoking an attack of opportunity.\n\n**Benefit:** You can trip flying opponents. If you would successfully trip a flying opponent, it falls at a rate of 10 ft per round for every point of base attack bonus you possess (assuming it is conscious and attempting to remain airborne; otherwise, it falls at a rate of 500 ft per round) until it hits the ground. The creature falls immediately after being tripped, then again each round thereafter at the end of your turn.\n\nUpon impact, the creature falls prone and takes normal falling damage (maximum: 1d6 per 10 ft. in its falling speed). A falling creature is considered entangled until it hits the ground, but it can attempt a Fly check as a free action at the start of its turn to stop falling before it hits the ground (DC = 15 + your base attack bonus); otherwise, it is unable to move (other than falling) but can act normally. You can choose to descend with the opponent, although this movement cannot exceed two times your normal flight speed."
+  },
+  {
+   "id": "feat/amateur-field-tactician",
+   "name": "Amateur Field Tactician",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "General Feats",
+   "prerequisites": "Base attack bonus +5; favored terrain class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Feats/General-Feats#amateur-field-tactician",
+   "alsoOn": [],
+   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*You're familiar enough with the terrain and feel confident enough to help guide others.*\n\n**Prerequisites:** Base attack bonus +5; favored terrain class feature.\n\n**Benefit:** You gain one battlefield specialty that is closely associated with a favored terrain you possess (subject to GM discretion), treating your effective commander level for this battlefield specialty as 1. The terrain skill bonus granted by this battlefield specialty is equal to 1/2 your favored terrain bonus for the associated terrain (minimum 1).\n\nYou may share this battlefield specialty through your Warleader sphere abilities as normal. If you possess an ability to share your favored terrain benefits with allies, you may also share this battlefield specialty with those allies.\n\n**Special:** If you possess levels in a class that grants the battlefield specialty class feature, your levels in that class and the class that grants favored terrain stack when determining the effects of your battlefield specialties, including the battlefield specialty granted by this feat (instead of having an effective commander level of 1)."
+  },
+  {
    "id": "feat/arcane-empowerment",
    "name": "Arcane Empowerment",
    "system": "Spheres of Power",
@@ -15979,7 +15621,7 @@
    "spheres": [],
    "group": "General Feats",
    "prerequisites": "Spell pool; the ability to cast arcane, divine, or psychic spells.",
-   "source": "Ultimate Spheres of Power",
+   "source": "Polished Commander & Warleader",
    "url": "Spheres-Of-Power/Feats/General-Feats#arcane-empowerment",
    "alsoOn": [],
    "md": "**Prerequisites:** Spell pool; the ability to cast arcane, divine, or psychic spells.\n\n**Benefit:** When casting a spell, you may spend 1 spell point as a free action to either increase the caster level by 2 or increase the spell’s DC by 2. You cannot spend more than 1 spell point in this manner. This does not stack with an arcanist’s ability to increase a spell’s caster level or DC through the expenditure of points from their arcane reservoir.\n\n**Author's Note:** This feat interacts with traditional spells and does not work with magic sphere effects."
@@ -15998,7 +15640,7 @@
    "spheres": [],
    "group": "General Feats",
    "prerequisites": "One or more of the following class features: arcane pool, divine bond, sacred armor, sacred weapon.",
-   "source": "Ultimate Spheres of Power",
+   "source": "Polished Commander & Warleader",
    "url": "Spheres-Of-Power/Feats/General-Feats#armorist-training",
    "alsoOn": [],
    "md": "**Prerequisites:** One or more of the following class features: arcane pool, divine bond, sacred armor, sacred weapon.\n\n**Benefit:** You may add all the special abilities from the list of special abilities an armorist may add to their summon and bound weapons to the list of special abilities your weapons or armor may possess. When you add weapon special abilities to a weapon using your arcane pool, divine bond, or sacred weapon ability, you may choose from the special abilities an armorist has access to. Similarly, when you add special abilities to armor using your sacred armor ability, you may choose armor special abilities an armorist has access to."
@@ -16017,7 +15659,7 @@
    "spheres": [],
    "group": "General Feats",
    "prerequisites": "One or more of the following class features: arcane pool, divine bond, sacred armor, sacred weapon.",
-   "source": "Ultimate Spheres of Power",
+   "source": "Polished Commander & Warleader",
    "url": "Spheres-Of-Power/Feats/General-Feats#armorist-trick",
    "alsoOn": [],
    "md": "**Prerequisites:** One or more of the following class features: arcane pool, divine bond, sacred armor, sacred weapon.\n\n**Benefit:** You may choose an armorist’s arsenal trick that allows you to add special abilities to the list of special abilities your weapons or armor may possess. Treat your class level as your armorist level when meeting the prerequisites for this arsenal trick. When you add weapon special abilities to a weapon using your arcane pool, divine bond, or sacred weapon ability, you may choose from the special abilities provided by the trick. Similarly, when you add special abilities to armor using your sacred armor ability, you may choose armor special abilities provided by the trick. You may take this feat more than once. Each time you do, choose another arsenal trick."
@@ -16036,7 +15678,7 @@
    "spheres": [],
    "group": "General Feats",
    "prerequisites": "Any Craft or Profession 5 ranks.",
-   "source": "Ultimate Spheres of Power",
+   "source": "Polished Commander & Warleader",
    "url": "Spheres-Of-Power/Feats/General-Feats#artificery",
    "alsoOn": [],
    "md": "**Prerequisite:** Any Craft or Profession 5 ranks.\n\n**Benefit:** Select one Craft or Profession skill in which you have at least 5 ranks. You gain a +2 bonus on your chosen Craft or Profession skill. You may use your ranks in this Craft or Profession skill as if it were your caster level and magic skill bonus when qualifying for item creation feats, and when determining how powerful of an enchantment you may place upon an item. Possessing this feat does not, however, grant you access to any magic spheres when determining which enchantments you may place upon an item. You must use your chosen Craft or Profession skill when creating a magic item, and cannot work with any item or material not related to your chosen skill.\n\n**Special:** This feat counts as, and does not stack with, the Master Craftsman feat, and may be selected in place of Master Craftsman whenever that feat is gained."
@@ -16055,7 +15697,7 @@
    "spheres": [],
    "group": "General Feats",
    "prerequisites": "Any Craft or Profession 10 ranks, Artificery.",
-   "source": "Ultimate Spheres of Power",
+   "source": "Polished Commander & Warleader",
    "url": "Spheres-Of-Power/Feats/General-Feats#artificery-improved",
    "alsoOn": [],
    "md": "**Prerequisites:** Any Craft or Profession 10 ranks, Artificery.\n\n**Benefit:** When using the skill chosen with the Artificery feat to create a magic item, you may craft that magic item whether or not you possess its prerequisite base sphere. Crafting a magic item in this fashion increases the skill check required to make the item by +5."
@@ -16074,7 +15716,7 @@
    "spheres": [],
    "group": "General Feats",
    "prerequisites": "No casting class feature.",
-   "source": "Ultimate Spheres of Power",
+   "source": "Polished Commander & Warleader",
    "url": "Spheres-Of-Power/Feats/General-Feats#basic-magic-training",
    "alsoOn": [],
    "md": "**Prerequisite:** No casting class feature.\n\n**Benefit:** Choose a sphere of magic. You gain access to this basic sphere. You gain an effective caster level of 1, a magic skill bonus of 1, a magic skill defense of 12, and a spell pool of 1. You may also select a casting tradition when you gain this feat. You are considered to possess the casting class feature, but do not gain the +2 magic talents a caster gains for their 1st level in a casting class.\n\nIf you later gain levels in a class granting the casting class feature, exchange this feat for the Extra Magic Talent feat.\n\n**Special:** For retraining purposes, having the casting class feature counts as Basic Magic Training."
@@ -16093,7 +15735,7 @@
    "spheres": [],
    "group": "General Feats",
    "prerequisites": "Maker’s call class feature, phantom recall class feature, or other similar ability; spherecasting.",
-   "source": "Ultimate Spheres of Power",
+   "source": "Polished Commander & Warleader",
    "url": "Spheres-Of-Power/Feats/General-Feats#beckon-and-pspsps",
    "alsoOn": [],
    "md": "**Prerequisites:** Maker’s call class feature, phantom recall class feature, or other similar ability; spherecasting.\n\n**Benefits:** You may spend 1 spell point as a free action to regain 1 use of your maker’s call, phantom recall, or other similar class feature. This does not allow you to have more uses of that ability than you normally could.\n\nIn addition, you may summon or manifest your eidolon or phantom as a full-round action (instead of as 1 minute ritual).\n\n**Note:** A “similar ability” is an ability with a limited number of uses per day used to teleport your companion, eidolon, phantom, or other similar creature to your side. The unchained summoner and spiritualist are the two primary examples of this ability."
@@ -16116,10 +15758,29 @@
    ],
    "group": "General Feats",
    "prerequisites": "Alchemy sphere ((toxin) package)); either the Barroom sphere or Nature sphere.",
-   "source": "Ultimate Spheres of Power",
+   "source": "Polished Commander & Warleader",
    "url": "Spheres-Of-Power/Feats/General-Feats#biochemical-brews",
    "alsoOn": [],
    "md": "*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*\n\n**Prerequisites:** Alchemy sphere ((toxin) package)); either the Barroom sphere or Nature sphere.\n\n**Benefit:** You gain the following benefits, depending on the spheres you possess:\n\n*Mutagenic Suffusion (Alchemy sphere ((toxin) package, Nature sphere (Instill Spirit))*: You can spend 1 spell point as an immediate action to use Instill Spirit on a mutagen within your geomancing range. As per usual, if you do not have the ability to grant spirit effects to other creatures, the instilled spirit effect can only benefit you. Also, you can have up to two spirit effects instilled within a mutagen instead of just one, although each requires their own separate casting.\n\n*Same Burn, Same Taste (Alchemy sphere ((toxin) package, Barroom sphere):* You ignore a mutagen’s toxicity effect as long as you are drunk when you would be subject to it. You also gain the following (drunk) ability:\n\n- **Feel the Burn (drunk):** You can expend the drunk status as part of imbibing (or otherwise being subject to) a mutagen to treat your Craft (alchemy) ranks as being 2 higher for determining its effects. Additionally, you can benefit from the mutagen with no repercussions even if you had benefitted from it within the last hour.\n\nLastly, you treat mutagens as an alcoholic beverage—if you already do so, the drunk status lasts twice as long when imbibing an alcoholic mutagen."
+  },
+  {
+   "id": "feat/brain-consumption",
+   "name": "Brain Consumption",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "General Feats",
+   "prerequisites": "",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "url": "Spheres-Of-Power/Feats/General-Feats#brain-consumption",
+   "alsoOn": [],
+   "md": "**Benefit:** You may consume the brain of an unconscious creature or a creature who has died within the last 24 hours as a fullround action. A corpse preserved by the Corpse Manipulation talent may have its brain consumed in this way within a week of its death. This functions as a coup de grace against a living creature with a base damage of 4d8 + your Strength modifier and a critical multiplier of x2. Doing so grants you a +2 insight bonus to two skills that the creature whose brain you ate possessed ranks in. You may only benefit from having one brain eaten at a time, but these bonuses last until the next time you consume a creature’s brain. You are immune to any non-magical diseases you are exposed to as part of consuming a creature’s brain and do not suffer any mundane negative health effects from consuming a creature’s brain, even if it would not normally be part of your natural diet. You gain no benefit from consuming the brains of subordinates. The creature’s brain is not eaten if they are not killed by this effect and you cannot consume the brains of creatures that lack brains (at GM discretion).\n\n##### Carve Them Up! (shout) (dual sphere)\n\n**Duration:** 2 rounds, +1 round per 4 associated skill ranks\n\n**Target(s):** allies\n\n**Effect:** When an ally hits a bleeding target, increase the bleeding target's current bleed by 1. A bleeding target can only have their bleed increased this way once per round per attacker.\n\nIf the attack is a critical hit, instead increase the bleeding target's current bleed by the weapon's critical hit multiplier, then the target takes damage from their current total bleed (as though starting their turn)."
   },
   {
    "id": "feat/cantrips",
@@ -16158,6 +15819,25 @@
    "url": "Spheres-Of-Power/Feats/General-Feats#cantrips-improved",
    "alsoOn": [],
    "md": "**Prerequisites:** Basic Magic Training or casting class feature, Cantrips.\n\n**Benefit:** You can create a larger variety of small magical effects. You may create any of the following effects in addition to the normal effects you can create when utilizing Cantrips. Additionally, the range of your cantrips becomes medium (or long, if it was already medium) unless stated otherwise.\n\n- You may make a ranged touch attack, dealing 1d8 acid, electricity, fire or cold damage to a target. The damage increases by 1d8 at 5th caster level and every 6 levels thereafter.\n- You may create a floating orb of light that floats and follows you, emitting light as a torch. As a standard action, it can be moved to a spot within range, but remains there until returned to you; if it moves out of range, the effect ends.\n- You may create 1 cubic foot of water within range. The water is quick to dissipate, and disappears after 1 minute. This water cannot be used as a beverage, disappearing if a creature attempts to drink it.\n- You may create a stronger gust of wind, powerful enough to extinguish Tiny flames or push around loose, light objects (such as loose paper).\n- You can create a non-magical object of Tiny size or smaller. The object cannot be used as a weapon and provides no bonus to skill checks, but can function as a tool (such as a pen or magnifying glass), and disappears if it leaves your hands. It must be made of a common material of hardness no greater than 3.\n- You may create sounds or speech as loud as a human speaking at a location within range, although they are erratic and obviously magical. Any creature within 15 feet of the sound can attempt a DC 10 Perception check to hear the noise.\n- You may concentrate for 3 rounds on an object or creature within range to use the ability from the Cantrips feat to detect magic on them."
+  },
+  {
+   "id": "feat/catisthenics",
+   "name": "Catisthenics",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "General Feats",
+   "prerequisites": "1 rank in any Strength- or Dexterity-based skill.",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "url": "Spheres-Of-Power/Feats/General-Feats#catisthenics",
+   "alsoOn": [],
+   "md": "**Prerequisite:** 1 rank in any Strength- or Dexterity-based skill.\n\n**Benefits:** By spending 10 minutes stretching (such as doing yoga, martial exercises, etc.), you gain a catisthenics pool with a number of dice equal to 1 + 1 for every 3 Hit Dice you possess.\n\nYou may spend a catisthenics die as part of attempting a Strength- or Dexterity-based skill check to add +1d6 to that roll. You may spend 10 minutes to stretch and replenish your catisthenics pool, regaining up to the maximum number of catisthenics dice.\n\nIf a catisthenics die is used at the same time as another ability which adds a bonus die to a check (such as investigator’s inspiration, sage’s meditation, etc.), the bonus granted by a catisthenics dice is decreased to +1d4."
   },
   {
    "id": "feat/catnip-connoisseur",
@@ -16217,6 +15897,25 @@
    "md": "**Prerequisites:** Casting class feature, magic skill bonus +10.\n\n**Benefit:** You may assist another spellcaster who also possesses this feat, granting them a temporary +1 bonus to their caster level, as well as granting them access to your spell points and talents as if they possessed them. You must spend a standard action every round to maintain this ability, and you must be within 30 feet of the caster you are aiding in this manner. A target may be helped by multiple casters at once in this manner, but all involved casters must remain within 30 feet of each other, and the effects are not strictly cumulative. It takes one assisting caster to add a +1 bonus, three to add a +2 bonus, six to add a +3 bonus, ten to add a +4 bonus, and fifteen to add a +5 bonus. No caster may receive more than a +5 bonus in this manner."
   },
   {
+   "id": "feat/color-guard",
+   "name": "Color Guard",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "General Feats",
+   "prerequisites": "Banner class feature, character level 10th.",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "url": "Spheres-Of-Power/Feats/General-Feats#color-guard",
+   "alsoOn": [],
+   "md": "*Source: [Spheres Apocrypha: Banners](https://www.drivethrurpg.com/product/351351/Spheres-Apocrypha-Monster-Traditions?affiliate_id=549120)*\n\n**Prerequisites:** Banner class feature, character level 10th.\n\n**Benefit:** The time required to wave a banner is reduced by one step (i.e., full-round action becomes a standard action, standard action becomes a move action)."
+  },
+  {
    "id": "feat/commanding-presence-general",
    "name": "Commanding Presence",
    "system": "Spheres of Power",
@@ -16230,7 +15929,7 @@
    "spheres": [],
    "group": "General Feats",
    "prerequisites": "3rd level.",
-   "source": "Diamond Spheres: Erudition & Esoterica",
+   "source": "Spheres Apocrypha: Banners",
    "url": "Spheres-Of-Power/Feats/General-Feats#commanding-presence-general",
    "alsoOn": [],
    "md": "*Source: [The Player's Guide to Skybourne](https://www.drivethrurpg.com/product/173399/The-Players-Guide-to-Skybourne?affiliate_id=549120)*\n\n**Prerequisites:** 3rd level.\n\n**Benefit:** A creature with this feat can command two crews at once rather than just one. Both crews must still be able to see or hear this creature to gain the benefits of having him as their commanding officer."
@@ -16253,6 +15952,44 @@
    "url": "Spheres-Of-Power/Feats/General-Feats#complex-harmony",
    "alsoOn": [],
    "md": "**Prerequisites:** Bardic performance class feature, character level 10th.\n\n**Benefit:** You may start a second bardic performance while maintaining another. Starting the second performance costs 2 rounds of bardic performance instead of 1. Maintaining both performances costs a total of 3 rounds of bardic performance for each round they are maintained.\n\nThis ability does not stack with any other method of maintaining simultaneous bardic performances."
+  },
+  {
+   "id": "feat/consumptive-intuition",
+   "name": "Consumptive Intuition",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "General Feats",
+   "prerequisites": "Brain Consumption.",
+   "source": "The Player's Guide to Skybourne",
+   "url": "Spheres-Of-Power/Feats/General-Feats#consumptive-intuition",
+   "alsoOn": [],
+   "md": "**Prerequisite:** Brain Consumption.\n\n**Benefit:** Whenever you consume a creature’s brain using the Brain Consumption feat, choose one combat talent or magic talent that the creature whose brain you consumed possessed. Once per day as a free action, you may gain that talent for a number of minutes equal to your character level. Upon consuming a creature’s brain, you learn of all talents that they possessed but must meet the prerequisites for a talent in order to select it. You still may only benefit from having one brain eaten at a time and may not exchange talents more than once every 24 hours. When you consume a new brain, you can no longer access talents from previous brains you have consumed.\n\n**Special:** You may take this feat an additional time for every 5 character levels you possess. Each time, you may select an additional talent which was known by the creature whose brain you ate. When you activate the temporary bonus talent from this feat, you gain the benefits of one talent for every time you have taken this feat."
+  },
+  {
+   "id": "feat/consumptive-mutation",
+   "name": "Consumptive Mutation",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "General Feats",
+   "prerequisites": "Consumptive Intuition, Improved Transformation, Transformation, character level 5th.",
+   "source": "The Player's Guide to Skybourne",
+   "url": "Spheres-Of-Power/Feats/General-Feats#consumptive-mutation",
+   "alsoOn": [],
+   "md": "**Prerequisites:** Consumptive Intuition, Improved Transformation, Transformation, character level 5th.\n\n**Benefit:** You may exchange one or more traits granted by Improved Transformation for any other traits you would qualify for whenever you consume a creature’s brain. These traits must emulate abilities that the consumed creature possessed or that are associated with the creature, subject to GM discretion."
   },
   {
    "id": "feat/contingency",
@@ -16352,6 +16089,44 @@
    "md": "**Prerequisites:** Deceitful, caster level 1st.\n\n**Benefit:** When creating a magical sphere effect, you can attempt a Bluff check (opposed by observers’ Perception checks) to conceal your actions from onlookers.\n\nEvery drawback possessed that could be heard or seen (materials, somatic components, verbal components, requiring a focus, etc.) imposes a cumulative -4 penalty to this Bluff check.\n\nIf the magic sphere effect is obvious (such as a summoned creature or a destructive blast), you also take a –4 penalty on the Bluff check, and even if your check is successful, observers still see the effect (though they fail to notice that you are responsible for it)."
   },
   {
+   "id": "feat/customized-bond",
+   "name": "Customized Bond",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "General Feats",
+   "prerequisites": "Bound equipment class feature, customized weapons class feature.",
+   "source": "The Player's Guide to Skybourne",
+   "url": "Spheres-Of-Power/Feats/General-Feats#customized-bond",
+   "alsoOn": [],
+   "md": "**Prerequisites:** Bound equipment class feature, customized weapons class feature.\n\n**Benefit:** You may customize your bound weapons. You may summon a customized bound weapon as a free action whenever you would be able to draw a customized weapon as a free action. You may add half your armiger levels toward your armorist level for determining the maximum enhancement bonus value of your bound equipment. If you possess the enhanced customization class feature, you may add half your armorist levels toward your armiger level for determining the maximum enhancement bonus from enhanced customization."
+  },
+  {
+   "id": "feat/decorated-insight",
+   "name": "Decorated Insight",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "General Feats",
+   "prerequisites": "Decorum class feature.",
+   "source": "The Player's Guide to Skybourne",
+   "url": "Spheres-Of-Power/Feats/General-Feats#decorated-insight",
+   "alsoOn": [],
+   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n**Prerequisites:** Decorum class feature.\n\n**Benefit:** Choose two additional skills, chosen from the following list: Appraise, Bluff, Handle Animal, Knowledge (any), Ride, Sense Motive.\n\nYour commander's decorum bonus now also applies to the chosen skills.\n\n**Special:** You are treated as possessing Skill Focus for each skill that decorum grants a bonus towards for the purposes of qualifying for prerequisites and other effects."
+  },
+  {
    "id": "feat/defiant-magic",
    "name": "Defiant Magic",
    "system": "Spheres of Power",
@@ -16365,10 +16140,29 @@
    "spheres": [],
    "group": "General Feats",
    "prerequisites": "Casting class feature.",
-   "source": "The Player's Guide to Skybourne",
+   "source": "Polished Commander & Warleader",
    "url": "Spheres-Of-Power/Feats/General-Feats#defiant-magic",
    "alsoOn": [],
    "md": "*Source: [Polished Dark](https://www.drivethrurpg.com/en/product/497811/diamond-polished-spheres-dark-sphere?affiliate_id=549120)*\n\n*Your magic bows to none.*\n**Prerequisites:** Casting class feature.\n\n**Benefit:** You add +2 to your MSB and MSD for the purposes of conflicting sphere abilities. When creating a sphere ability that will conflict with another effect (i.e. you are creating the effect and it will immediately conflict with another effect), you may spend +1 spell point to double this feat’s bonuses for the initial magic skill check made by the conflicting sphere effect (but not for future conflicts)."
+  },
+  {
+   "id": "feat/dragons-tattoos",
+   "name": "Dragon’s Tattoos",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "General Feats",
+   "prerequisites": "Improved Unarmed Strike, Craft (tattoos) 5 ranks.",
+   "source": "Polished Dark",
+   "url": "Spheres-Of-Power/Feats/General-Feats#dragons-tattoos",
+   "alsoOn": [],
+   "md": "Etching your limbs with exquisite art, your body truly becomes a weapon.\n\n**Prerequisites:** Improved Unarmed Strike, Craft (tattoos) 5 ranks.\n\n**Benefit:** You learn how to adorn yourself with the sacred tattoos that are said to have been first conceived by an ancient monk known only as “the Dragon”. Covering your body in these intricate tattoos etched by your own hand, your limbs, grapples, and unarmed strikes are now treated as masterwork weapons, and may be enhanced just as any other masterwork weapon. Enhancements applied via this ability apply to all unarmed strikes or grapple checks you make, regardless of the limb you choose to use; essentially, your entire body is treated as a single weapon.\n\n**Author's Note:** Dragon's Tattoos applies to all of your unarmed strikes and natural attacks, essentially like an amulet of mighty fists."
   },
   {
    "id": "feat/dreamwalking-initiate",
@@ -16428,6 +16222,27 @@
    "md": "*Source: [The Player's Guide to Skybourne](https://www.drivethrurpg.com/product/173399/The-Players-Guide-to-Skybourne?affiliate_id=549120)*\n\nDesperate times call for desperate measures. A working device can save your life.\n\n**Prerequisite:** Technological racial trait.\n\n**Benefit:** As a full-round action, you may quickly jury-rig a repair on a destroyed object, elevating it to functional with the broken condition for 1d6 minutes. Any given item can only be so repaired once before real work has to be done to coax it back to life. Any additional damage will immediately destroy the item again. This does not restore magic to a destroyed magic item. Alternately, you may use this feat to remove the broken condition from an object for 1d6 minutes, but again, only once per object."
   },
   {
+   "id": "feat/expanded-battlefield-specialty-plan",
+   "name": "Expanded Battlefield Specialty",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [
+    "plan"
+   ],
+   "sphere": "",
+   "spheres": [],
+   "group": "General Feats",
+   "prerequisites": "Commander 10th level, battlefield specialty class feature.",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "url": "Spheres-Of-Power/Feats/General-Feats#expanded-battlefield-specialty-plan",
+   "alsoOn": [],
+   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*Always plan for the next battlefield.*\n\n**Prerequisite:** Commander 10th level, battlefield specialty class feature.\n\n**Benefit:** You gain an additional battlefield specialty. In addition, you gain the following plan:"
+  },
+  {
    "id": "feat/expedited-incantation",
    "name": "Expedited Incantation",
    "system": "Spheres of Power",
@@ -16441,7 +16256,7 @@
    "spheres": [],
    "group": "General Feats",
    "prerequisites": "3 ranks in any 1 skill.",
-   "source": "Diamond Spheres: Erudition & Esoterica",
+   "source": "Polished Commander & Warleader",
    "url": "Spheres-Of-Power/Feats/General-Feats#expedited-incantation",
    "alsoOn": [],
    "md": "**Prerequisite:** 3 ranks in any 1 skill.\n\n**Benefit:** When you perform an incantation, you may increase the DCs of all skill checks made for the incantation by 5. If you do, the incantation’s casting time is halved (minimum 1 minute)."
@@ -16460,7 +16275,7 @@
    "spheres": [],
    "group": "General Feats",
    "prerequisites": "Any metamagic feat.",
-   "source": "Diamond Spheres: Erudition & Esoterica",
+   "source": "Polished Commander & Warleader",
    "url": "Spheres-Of-Power/Feats/General-Feats#favored-metamagic",
    "alsoOn": [],
    "md": "**Prerequisite:** Any metamagic feat.\n\n**Benefit:** Choose one metamagic feat that you possess. When you apply that metamagic feat to an effect you create, you do not increase the casting time for the effect (you must still expend spell points as normal).\n\n**Special:** You may select this feat multiple times, each time selecting a different metamagic feat."
@@ -16479,7 +16294,7 @@
    "spheres": [],
    "group": "General Feats",
    "prerequisites": "",
-   "source": "Diamond Spheres: Erudition & Esoterica",
+   "source": "Polished Commander & Warleader",
    "url": "Spheres-Of-Power/Feats/General-Feats#feline-heritage",
    "alsoOn": [],
    "md": "You didn’t see anything wrong with calling your mother “maw”, but everyone always looked concerned about calling your father “paw”, given his… paws.\n\n**Benefits:** You count as both your current race and as a catfolk for any effects related to race; such as taking traits, feats, how spells and magic items affect you, qualifying for archetypes, and so on.\n\nIn addition, you gain one of the following feline abilities. Once chosen, this cannot be changed.\n\n- **Cat’s Eyes:** You gain low-light vision and a +2 bonus on Perception checks. If you have 10 or more ranks in Perception, this bonus increases to +4.\n- **Cat’s Meow:** You gain the ability to speak with cats, as though under a constant Nature sphere Speak With Wildlife effect as an extraordinary ability. This only grants the ability to speak with cats (of any kind, e.g. house cats, lions, etc.), not all animals.\n- **Deft Paws and Tricky Tail:** You gain a +2 bonus on Sleight of Hand checks. If you have 10 or more ranks in Sleight of Hand, this bonus increases to +4. In addition, you gain a tail (if you did not already have one), and may use your tail as though it were a free hand for the purposes of performing disarm and steal combat maneuvers and Sleight of Hand checks. You may hold and retrieve objects with this tail but cannot manipulate a held object or wield weapons with your tail unless you could with another ability.\n- **Quick Steps:** You gain a +10 feet bonus to your base land speed.\n\nWhen you gain this feat, you may decide if your chosen feline abilities cause you to gain subtle (or obvious) cat-like features, such as cat eyes, whiskers and a “nya”-ccent, paws, or a tail. These changes are purely cosmetic unless otherwise mentioned. You may choose to suppress or resume these cat-like features as a free action.\n\n**Special:** You can take this feat a second time. If you do, you gain the other three feline abilities you did not originally choose."
@@ -16500,10 +16315,29 @@
    ],
    "group": "General Feats",
    "prerequisites": "Destruction sphere (Energy Beam (blast shape)), caster level 10th.",
-   "source": "Diamond Spheres: Erudition & Esoterica",
+   "source": "Polished Commander & Warleader",
    "url": "Spheres-Of-Power/Feats/General-Feats#focused-beam",
    "alsoOn": [],
    "md": "*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*\n\n**Prerequisites:** Destruction sphere (Energy Beam (blast shape)), caster level 10th.\n\n**Benefit:** Whenever you shift an Energy Beam, you can spend 1 spell point as a free action to instead choose to focus the beam itself, keeping it in place and making it difficult for those affected by it to move from the area. All creatures who begin their turn within the Energy Beam must succeed at a Fortitude saving throw or be unable to move until the beginning of their next turn. On a successful save, the creature becomes immune to subsequent uses of your focused Energy Beam for 24 hours."
+  },
+  {
+   "id": "feat/focused-stamina",
+   "name": "Focused Stamina",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "General Feats",
+   "prerequisites": "Martial focus, combat stamina.",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "url": "Spheres-Of-Power/Feats/General-Feats#focused-stamina",
+   "alsoOn": [],
+   "md": "**Prerequisites:** Martial focus, combat stamina.\n\n**Benefit:** Whenever you would expend your martial focus, you may instead spend 5 stamina points."
   },
   {
    "id": "feat/fool-magic",
@@ -16850,6 +16684,50 @@
    "md": "**Prerequisites:** Favored Metamagic (any three metamagic feats), caster level 15th.\n\n**Benefit:** The benefits of Favored Metamagic apply to all metamagic feats you possess, not just those specific metamagic feats you have chosen with Favored Metamagic."
   },
   {
+   "id": "feat/mounted-athlete",
+   "name": "Mounted Athlete",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [
+    "Athletics",
+    "Beastmastery"
+   ],
+   "group": "General Feats",
+   "prerequisites": "Athletics sphere, Beastmastery sphere ((ride) package).",
+   "source": "The Player's Guide to Skybourne",
+   "url": "Spheres-Of-Power/Feats/General-Feats#mounted-athlete",
+   "alsoOn": [],
+   "md": "The handler is often as athletic as the mount.\n\n**Prerequisites:** Athletics sphere, Beastmastery sphere ((ride) package).\n\n**Benefit:** Whenever your mount would attempt a skill check associated with an Athletics sphere package you possess, you may attempt that skill check for your mount, using your bonus in that skill. For example, if you possess the (leap) or (run) packages, you may attempt Acrobatics checks for your mount whenever your mount would attempt such a check.\n\nIn addition, you share your Athletics sphere talents with your mount. Your mount is treated as possessing any packages or talents you possess and uses your skill ranks and Athletics sphere save DC when determining the effects of shared talents.\n\nIf your mount cannot maintain martial focus, shared Athletics sphere talents do not grant the ability to maintain martial focus.\n\nAs long as you have martial focus, your mount counts as possessing martial focus when determining the benefits of shared Athletics sphere talents that require you to have martial focus (such as the Swift Movement talent). If your mount would expend martial focus to use a shared Athletics sphere talent, you must expend your martial focus and both you and your mount benefit from the shared talent’s effects (where applicable). A mount that is a practitioner and can maintain martial focus cannot use its own martial focus with shared Athletics sphere talents, but may use shared talents in combination with any talents it possesses.\n\nYour mount’s movement made using a movement mode corresponding to an Athletics sphere package you possess counts as your own movement for the purposes of Athletics sphere talents. This allows you to use Athletics sphere talents while mounted, such as using the Reflexive Twist talent to avoid an attack despite being mounted. Whenever your mount’s movement would allow you or your mount to use a (motion) talent, both you and your mount must use the same (motion) talent. If a (motion) talent would affect another creature, it only affects that creature a single time (such as the Dizzying Tumble (motion) talent only occurring once). If a (motion) talent would benefit you, it benefits both you and your mount normally (such as both you and your mount gaining miss chance from the Moving Target (motion) talent).\n\nAthletics sphere talents which allow you or your mount to take an action are only used by the creature that spent the required actions, unless both creatures spend the required actions. For example, if your mount uses the Diving Strike talent, only your mount gains the benefits and suffers the risks of the talent unless you also take the charge action with your mount, gaining the bonus damage to your attack but also suffering the fall damage."
+  },
+  {
+   "id": "feat/mounted-protector",
+   "name": "Mounted Protector",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [
+    "Beastmastery",
+    "Guardian"
+   ],
+   "group": "General Feats",
+   "prerequisites": "Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package).",
+   "source": "The Player's Guide to Skybourne",
+   "url": "Spheres-Of-Power/Feats/General-Feats#mounted-protector",
+   "alsoOn": [],
+   "md": "Your protective might is delivered on the swift heels of your mount.\n\n**Prerequisites:** Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package).\n\n**Benefit:** While mounted, you may use your mount’s movement whenever you could move as part of your patrol, provided your mount’s total movement before its next turn does not exceed its base speed. Any movement you or your mount make provoke attacks of opportunity as normal. In addition, whenever you could make an attack of opportunity as part of your patrol, you may have your mount make an attack of opportunity against that target instead.\n\n**Normal:** You cannot move with your mount as part of your patrol."
+  },
+  {
    "id": "feat/oneiric-assault",
    "name": "Oneiric Assault",
    "system": "Spheres of Power",
@@ -17019,6 +16897,25 @@
    "url": "Spheres-Of-Power/Feats/General-Feats#resist-expulsion",
    "alsoOn": [],
    "md": "**Prerequisites:** Casting class feature\n\n**Benefit:** Whenever one of your subordinates would be banished or dispelled, you may spend a spell point as a free action (even outside of your turn) to allow the subordinate to remain for one additional round. Each turn, you may spend an additional spell point to allow them to remain for one additional round.\n\n*Source: Card Casting 2: Counters and Control*"
+  },
+  {
+   "id": "feat/rigorous-student",
+   "name": "Rigorous Student",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "General Feats",
+   "prerequisites": "",
+   "source": "The Player's Guide to Skybourne",
+   "url": "Spheres-Of-Power/Feats/General-Feats#rigorous-student",
+   "alsoOn": [],
+   "md": "**Benefit:** Choose a class you have levels in. For the purpose of calculating the DCs of class features based on that class’ level (such as scholar material impositions and thaumaturge invocations), you treat your class level as 4 higher, to a maximum of your character level. This does not improve other effects of the class feature (for example, a character with 18 Intelligence, 5 levels in scholar, and 3 levels in conscript would have a flashbang save DC of 18, but their sulfuric detonation would only add 2d6 damage to their flashbang). This does not affect abilities which use your caster level to calculate the DC.\n\n**Special:** You may select this feat multiple times. The effects of this feat stack if applied to the same class multiple times."
   },
   {
    "id": "feat/ritual-expert-general",
@@ -17330,6 +17227,25 @@
    "md": "**Benefit:** You may spend a spell point as an immediate action to dismiss any magic effect which you could normally dismiss as a standard action.\n\n**Special:** If you have the Card Casting drawback, this feat counts as both a Deck feat and a Drawback feat. Additionally, when you dismiss an effect you may return any cards used to create the dismissed effect to your hand (even if you do so as a standard action).\n\n*Source: Expanded Spheres: Cardcaster’s Gamble*"
   },
   {
+   "id": "feat/technological-training",
+   "name": "Technological Training",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "General Feats",
+   "prerequisites": "",
+   "source": "The Player's Guide to Skybourne",
+   "url": "Spheres-Of-Power/Feats/General-Feats#technological-training",
+   "alsoOn": [],
+   "md": "**Benefit:** Reduce the penalties you suffer when using technician inventions that are not your own by half. If the technician who made the invention possesses Aesthetic Insight, these penalties are reduced to 0."
+  },
+  {
    "id": "feat/tenacity",
    "name": "Tenacity",
    "system": "Spheres of Power",
@@ -17501,7 +17417,48 @@
    "md": "**Prerequisites:** Unarmored Training, +8 base attack bonus or 8 ranks in Acrobatics.\n\nYour mastery of unarmored combat is so great that even changes to your body do not impede you. You no longer lose the benefits of Unarmored Training when under any polymorph effect."
   },
   {
-   "id": "feat/general-feats/versed-student",
+   "id": "feat/understand-thy-enemy",
+   "name": "Understand Thy Enemy",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [
+    "Fencing",
+    "Scout"
+   ],
+   "group": "General Feats",
+   "prerequisites": "Fencing sphere (Read Foe, Parry And Riposte) or Fencing sphere (Read Foe) and opportune parry and riposte deed, Scout sphere.",
+   "source": "The Player's Guide to Skybourne",
+   "url": "Spheres-Of-Power/Feats/General-Feats#understand-thy-enemy",
+   "alsoOn": [],
+   "md": "*Source: [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)*\n\n**Prerequisites:** Fencing sphere (Read Foe, Parry And Riposte) or Fencing sphere (Read Foe) and opportune parry and riposte deed, Scout sphere.\n\n**Benefit:** Whenever you scout a creature, the next parry and riposte you use against that creature does not cost martial focus, an attack of opportunity, or a panache point. When used in this way, the ability does not require you to have a panache point to perform an attack and you do not regain martial focus."
+  },
+  {
+   "id": "feat/unseen-terror",
+   "name": "Unseen Terror",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "General Feats",
+   "prerequisites": "Intimidate 3 ranks, Stealth 3 ranks.",
+   "source": "Spheres Apocrypha: Swashbucklers",
+   "url": "Spheres-Of-Power/Feats/General-Feats#unseen-terror",
+   "alsoOn": [],
+   "md": "The hunter stalks its prey. The prey knows, but can only run from the scraping, rattling, and growling noises which chase them.\n\n**Prerequisites:** Intimidate 3 ranks, Stealth 3 ranks.\n\n**Benefit:** You gain a +2 bonus on Intimidate and Stealth checks. Whenever your Stealth check to hide exceeds an opposing creature’s Perception check by 5 or more, you may attempt an Intimidate check as a swift action to demoralize one target creature within 30 feet who failed to notice you. The target does not need to be able to see you, but must be able to hear you. The target is not made aware of your location when you Intimidate them with this feat, and making an Intimidate check this way does not automatically reveal your location. If you are able to use the Intimidate skill to cause a target to become frightened or worse, and the target is unaware of your position, the frightened creature will attempt to flee to a location it feels is safe, treating the location it became frightened at as the source of its fear.\n\nIf you possess the Dazzling Display feat or Gladiator sphere, whenever you could attempt an Intimidate check as a swift action from this feat, you may instead use the Dazzling Display feat or Gladiator sphere strike fear ability as a standard action to intimidate all creatures within range instead of a single creature, even if you could not normally use those abilities as a standard action.\n\n**Special:** This feat counts as having the Skill Focus feat for either Intimidate or Stealth, chosen when you gain this feat, for the purposes of meeting prerequisites."
+  },
+  {
+   "id": "feat/versed-student",
    "name": "Versed Student",
    "system": "Spheres of Power",
    "types": [
@@ -17514,7 +17471,7 @@
    "spheres": [],
    "group": "General Feats",
    "prerequisites": "",
-   "source": "The Player's Guide to Skybourne",
+   "source": "Spheres Apocrypha: Swashbucklers",
    "url": "Spheres-Of-Power/Feats/General-Feats#versed-student",
    "alsoOn": [],
    "md": "**Benefit:** Choose a class you have levels in. For the purpose of determining class features selected individually at advancing levels you may select (such as alchemist discoveries, shifter bestial traits, striker arts, and witch hexes), you treat your level in that class as 4 higher, to a maximum of your character level. For example, a character with 4 levels in mageknight and 6 levels in shifter who has selected shifter with this feat may select bestial traits as if they were a 10th-level shifter (although they would have a total of three bestial traits, not 5). This does not include advanced rogue talents, grand hexes, and other such abilities which would normally only be selectable starting at higher levels unless you already have access to such abilities from one of your classes. This feat does not grant any such abilities when it is taken, nor does it cause levels in any class to count as levels in other classes for the purpose of determining the effects of class abilities.\n\n**Special:** You may select this feat multiple times. The effects of this feat stack if applied to the same class multiple times."
@@ -17533,7 +17490,7 @@
    "spheres": [],
    "group": "General Feats",
    "prerequisites": "Perception 5 ranks and Sense Motive 5 ranks; or Alertness.",
-   "source": "The Player's Guide to Skybourne",
+   "source": "Spheres Apocrypha: Swashbucklers",
    "url": "Spheres-Of-Power/Feats/General-Feats#vigilant-skeptic",
    "alsoOn": [],
    "md": "**Prerequisites:** Perception 5 ranks and Sense Motive 5 ranks; or Alertness.\n\n**Benefit:** You are automatically treated as interacting with any figments you come within 5 feet of, increasing by an additional 5 feet per 2 ranks you have in Perception. As a full-round action you may interact with all figments within 30 feet. You get a +1 bonus to Perception and Sense Motive checks per 2 character levels against targets benefiting from glamers."
@@ -17552,7 +17509,7 @@
    "spheres": [],
    "group": "General Feats",
    "prerequisites": "Fervor or lay on hands class feature.",
-   "source": "The Player's Guide to Skybourne",
+   "source": "Spheres Apocrypha: Swashbucklers",
    "url": "Spheres-Of-Power/Feats/General-Feats#vital-magic",
    "alsoOn": [],
    "md": "**Prerequisite:** Fervor or lay on hands class feature.\n\n**Benefit:** You may spend 1 spell point as a free action to regain 1 use of your fervor or lay on hands ability."
@@ -17571,7 +17528,7 @@
    "spheres": [],
    "group": "General Feats",
    "prerequisites": "Craft Spell Engine, caster level 4th.",
-   "source": "The Player's Guide to Skybourne",
+   "source": "Spheres Apocrypha: Swashbucklers",
    "url": "Spheres-Of-Power/Feats/General-Feats#wand-charger",
    "alsoOn": [],
    "md": "**Prerequisites:** Craft Spell Engine, caster level 4th.\n\n**Benefit:** When recharging a spell engine, you may spend a number of spell points not exceeding half your caster level, restoring an equal number of spell points to the spell engine.\n\nYou may not exceed the spell engine’s maximum charges this way. You may recharge a spell engine more than once a day with this ability, but the total transferred spell points cannot exceed half your caster level. Additionally, you may count your caster level as 4 higher when determining what spell engines you can recharge."
@@ -17590,7 +17547,7 @@
    "spheres": [],
    "group": "General Feats",
    "prerequisites": "Caster level 10th.",
-   "source": "The Player's Guide to Skybourne",
+   "source": "Spheres Apocrypha: Swashbucklers",
    "url": "Spheres-Of-Power/Feats/General-Feats#wand-wielder",
    "alsoOn": [],
    "md": "**Prerequisite:** Caster level 10th.\n\n**Benefit:** When wielding a spell engine, use your caster level in place of the spell engine’s caster level (if it is higher) when calculating its abilities."
@@ -17609,7 +17566,7 @@
    "spheres": [],
    "group": "General Feats",
    "prerequisites": "",
-   "source": "The Player's Guide to Skybourne",
+   "source": "Spheres Apocrypha: Swashbucklers",
    "url": "Spheres-Of-Power/Feats/General-Feats#wind-dancer",
    "alsoOn": [],
    "md": "**Benefit:** Whenever you drive an air vehicle you treat the Wind severity level either one step higher or one step lower (to a minimum of 0 and a maximum of 7), whichever you prefer. You may change this decision once per round as a free action. If you have 11 ranks in Fly or Profession (pilot), you no longer suffer the negative effects of any Wind of severity level 5 or lower while driving an air vehicle. If you have 17 ranks in Fly or Profession (pilot) you no longer suffer the negative effects of any wind while driving an air vehicle. It cannot be sucked into or damaged by a tornado.\n\n---\n\n*Archived: [[General Feats (Original)|Original version]] (from before *Ultimate Spheres of Power*)*"

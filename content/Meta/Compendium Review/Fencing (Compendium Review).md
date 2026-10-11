@@ -67,7 +67,7 @@ What the compendium extractor takes from the Fencing pages (51 entries; approved
 
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
-| [[Practitioner-Feats#understand-thy-enemy\|Understand Thy Enemy]] | General |  | — | Fencing sphere (Read Foe, Parry And Riposte) or Fencing sphere (Read Foe) and opportune parry and riposte deed, Scout sp | Polished Commander & Warleader |
+| [[General-Feats#understand-thy-enemy\|Understand Thy Enemy]] | General |  | — | Fencing sphere (Read Foe, Parry And Riposte) or Fencing sphere (Read Foe) and opportune parry and riposte deed, Scout sp | The Player's Guide to Skybourne |
 | [[Champion-Feats#tactical-warping-champion\|Tactical Warping]] | General | (Champion) | — | Fencing sphere, Warp sphere, character level 8th. | Spheres Apocrypha: Radiant and Righteous |
 | [[Combat-Feats#wiggling-footsies-combat\|Wiggling Footsies]] | General | (combat) | — | Fencing sphere (Footwork), Scout sphere (Calibrating Wiggle). | The Player's Guide to Skybourne |
 
