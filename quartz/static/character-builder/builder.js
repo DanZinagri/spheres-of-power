@@ -2008,6 +2008,12 @@ async function openCastingTradition() {
         pick)
     }
     const q = sel.filter.trim().toLowerCase()
+    const section = (title, key, chosen) => h("div", {},
+      h("h3", { style: "display:flex;align-items:center;gap:.6rem;cursor:pointer", title: sel[key] ? "Show the list" : "Hide the list", onclick: () => { sel[key] = !sel[key]; render() } },
+        h("span", { "aria-hidden": "true" }, sel[key] ? "▸" : "▾"), title,
+        h("span", { class: "pi-meta" }, `${chosen.length} chosen`),
+        h("button", { class: "small", onclick: (ev) => { ev.stopPropagation(); sel[key] = !sel[key]; render() } }, sel[key] ? "Show" : "Hide")),
+      sel[key] ? h("p", { class: "note", style: "margin-top:0" }, chosen.length ? chosen.join(", ") : "None chosen.") : null)
     fill(body, 
       h("div", { class: "row picker-filters" },
         field("Start from", templateSel), field("Name", nameBox), field("Casting ability", abil)),
@@ -2017,10 +2023,12 @@ async function openCastingTradition() {
         rest > 5 ? h("span", { class: "note" }, " (the table stops at 5: spend the rest on boons)") : null,
         rest < 0 ? h("span", {}, " — boons cost more than the drawbacks give") : null,
         sp && !L ? h("span", { class: "note" }, " No class has a caster level progression yet; the spell points formula needs one (Classes tab).") : null),
-      h("h3", {}, "Drawbacks"), filter,
-      h("div", { class: "ct-list" }, data.drawbacks.filter((d) => !q || d.name.toLowerCase().includes(q) || d.md.toLowerCase().includes(q)).map(drawbackRow)),
-      h("h3", {}, "Boons"),
-      h("div", { class: "ct-list" }, data.boons.map(boonRow)),
+      // each list folds away (the drawbacks are long, and the boons sit below them), leaving what is chosen
+      section("Drawbacks", "hideDrawbacks", Object.keys(sel.drawbacks).filter(taken)),
+      sel.hideDrawbacks ? null : filter,
+      sel.hideDrawbacks ? null : h("div", { class: "ct-list" }, data.drawbacks.filter((d) => !q || d.name.toLowerCase().includes(q) || d.md.toLowerCase().includes(q)).map(drawbackRow)),
+      section("Boons", "hideBoons", Object.keys(sel.boons).filter((b) => sel.boons[b])),
+      sel.hideBoons ? null : h("div", { class: "ct-list" }, data.boons.map(boonRow)),
       sel.sphereDraws.length ? h("h3", {}, "Sphere-specific drawbacks") : null,
       sel.sphereDraws.length ? h("p", { class: "note" }, "From the tradition. They don't give drawback points; each gives a bonus talent in its sphere (free until the drawback is bought off). Ticked ones are those for spheres you already have.") : null,
       sel.sphereDraws.length ? h("div", { class: "ct-list" }, sel.sphereDraws.map(sphereDrawRow)) : null,
@@ -2149,7 +2157,11 @@ async function openTradeTradition() {
     const nameBox = h("input", { value: sel.name, placeholder: "Tradition name", "aria-label": "Tradition name" })
     nameBox.addEventListener("input", () => { sel.name = nameBox.value })
     const adroit = h("input", { type: "checkbox", checked: sel.adroit })
-    adroit.addEventListener("change", () => { sel.adroit = adroit.checked; render() })
+    adroit.addEventListener("change", () => {
+      sel.adroit = adroit.checked
+      if (!sel.adroit) Object.assign(sel, { talents: [sel.talents[0], sel.talents[1], "", ""], bonusSphere: "", bonusTalent: "" })
+      render()
+    })
     const talentPick = (i) => {
       const taken = new Set(sel.talents.slice(0, sel.adroit ? 4 : 2).filter((n, k) => n && k !== i))
       return tradeSelect(list.filter((t) => !taken.has(t.name)), sel.talents[i], `Trade talent ${i + 1}`, (v) => { sel.talents[i] = v; render() })
