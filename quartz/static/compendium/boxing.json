@@ -727,28 +727,10 @@
    ],
    "talentTags": [],
    "prerequisites": "Athletics sphere, Boxing sphere (Shoulder Roll).",
-   "source": "Polished Leadership",
+   "source": "Polished Commander & Warleader",
    "status": "current",
    "url": "Spheres-Of-Might/Practitioner-Feats#rolling-serpent-combat",
    "md": "**Prerequisites:** Athletics sphere, Boxing sphere (Shoulder Roll).\n\n**Benefits:** As long as you have martial focus, whenever a creature makes a melee attack against you while you are using a movement mode corresponding to a package you possess, you may use shoulder roll against the attack without it counting towards your one usage per round.",
-   "options": []
-  },
-  {
-   "id": "boxing/stinging-bee-combat",
-   "name": "Stinging Bee",
-   "kind": "feat",
-   "sphere": "Boxing",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [
-    "combat"
-   ],
-   "talentTags": [],
-   "prerequisites": "Boxing sphere (Floating Butterfly (stance)), base attack bonus +4.",
-   "source": "Polished Leadership",
-   "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#stinging-bee-combat",
-   "md": "**Prerequisites:** Boxing sphere (Floating Butterfly (stance)), base attack bonus +4.\n\nWhile maintaining the Floating Butterfly stance, you retain the competence bonus to damage rolls when making a counter punch, in addition to gaining an insight bonus to Reflex saving throws equal to the dodge bonus granted by the talent.",
    "options": []
   },
   {
@@ -866,6 +848,24 @@
    "status": "current",
    "url": "Spheres-Of-Might/Boxing/Boxing-Sphere-Drawbacks#wily-dodger",
    "md": "You do not gain the counter punch ability and cannot select (counter) talents or other talents that rely on counter punch. You gain Headfake with this drawback.\n\n**Incompatible:** Observant Fighter, Defensive Pugilist.",
+   "options": []
+  },
+  {
+   "id": "boxing/stinging-bee-combat",
+   "name": "Stinging Bee",
+   "kind": "feat",
+   "sphere": "Boxing",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [
+    "combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Boxing sphere (Floating Butterfly (stance)), base attack bonus +4.",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Might/Boxing/Boxing-Sphere-Feats#stinging-bee-combat",
+   "md": "**Prerequisites:** Boxing sphere (Floating Butterfly (stance)), base attack bonus +4.\n\nWhile maintaining the Floating Butterfly stance, you retain the competence bonus to damage rolls when making a counter punch, in addition to gaining an insight bonus to Reflex saving throws equal to the dodge bonus granted by the talent.",
    "options": []
   }
  ]

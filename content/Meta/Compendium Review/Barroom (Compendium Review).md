@@ -81,13 +81,13 @@ What the compendium extractor takes from the Barroom pages (70 entries; approved
 
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
-| [[Practitioner-Feats#cerebrevores-ecstasy-combat\|Cerebrevore’s Ecstasy]] | General | (Combat) | — | Barroom sphere, Brain Consumption. | Polished Leadership |
-| [[Practitioner-Feats#drink-and-directive-combat-dual-sphere\|Drink and Directive]] | General | (Combat), (Dual Sphere) | — | Barroom sphere; Warleader sphere. | Spheres Apocrypha: Radiant and Righteous |
-| [[Practitioner-Feats#projectile-vomit\|Projectile Vomit]] | General |  | — | Barroom sphere (Purge), base attack bonus +5. | Polished Commander & Warleader |
+| [[Practitioner-Feats#drink-and-directive-combat-dual-sphere\|Drink and Directive]] | General | (Combat), (Dual Sphere) | — | Barroom sphere; Warleader sphere. | Polished Commander & Warleader |
 | [[Champion-Feats#biochemical-brews\|Biochemical Brews]] | General |  | — | Alchemy sphere ((toxin) package)); either the Barroom sphere or Nature sphere. | Diamond Spheres: Erudition & Esoterica |
 | [[Champion-Feats#spirits-in-the-blood-champion\|Spirits In The Blood]] | General | (Champion) | — | Barroom sphere, Blood sphere. | Spheres Apocrypha: Radiant and Righteous |
 | [[Champion-Feats#bard-of-booze-dual-sphere\|Bard of Booze]] | General | (Dual Sphere) | — | Barroom sphere and Performance sphere. | Diamond Spheres: Invention & Ingenuity |
 | [[Champion-Feats#organic-spirits-dual-sphere\|Organic Spirits]] | General | (Dual Sphere) | — | Barroom sphere plus one other sphere: Nature sphere or Herbalism sphere. | Diamond Spheres: Invention & Ingenuity |
+| [[Barroom-Sphere-Feats#cerebrevores-ecstasy-combat\|Cerebrevore’s Ecstasy]] | General | (Combat) | — | Barroom sphere, Brain Consumption. | Spheres Apocrypha: Dipsomania |
+| [[Barroom-Sphere-Feats#projectile-vomit\|Projectile Vomit]] | General |  | — | Barroom sphere (Purge), base attack bonus +5. | Spheres Apocrypha: Dipsomania |
 
 ## Drawbacks (7)
 

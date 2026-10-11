@@ -62,7 +62,7 @@ What the compendium extractor takes from the Dual Wielding pages (42 entries; ap
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
 | [[Practitioner-Feats#backup-breaker-combat\|Backup Breaker]] | General | (Combat) | — | Boxing sphere, Dual Wielding sphere. | Polished Commander & Warleader |
-| [[Practitioner-Feats#harmonious-swordplay-combat\|Harmonious Swordplay]] | General | (combat) | — | Dual Wielding sphere, Improved Unarmed Strike. | Polished Leadership |
+| [[Dual-Wielding-Sphere-Feats#harmonious-swordplay-combat\|Harmonious Swordplay]] | General | (combat) | — | Dual Wielding sphere, Improved Unarmed Strike. |  |
 
 ## Drawbacks (4)
 

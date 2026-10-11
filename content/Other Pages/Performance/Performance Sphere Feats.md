@@ -151,3 +151,27 @@ You can spend 1 use of skill leverage to also have creatures who fail their savi
 
 - *Hardcore (Gladiator sphere, Performance sphere)*: Whenever you start an act, dance, or instrumental, or use a lyric, as a free action, you can attempt an Intimidate check to demoralize a creature that is within the ability’s area or would be affected by the ability.
   Additionally, whenever a creature contributes to one of your act’s scenes, joins your dance, or expends one of your lyrics, you can boast as an immediate action.
+
+#### Song In Your Soul
+
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
+
+**Prerequisites:** Performance sphere ((instrumental or lyric) package), associated ranks 10.
+
+**Benefit:** Choose a single (instrumental) or (lyric) talent that you possess and have the appropriate package for—you gain the benefits of the chosen instrumental or lyric as a constant effect.
+
+Due to not being an actual use of this ability, it does not need to be maintained (nor does it receive benefits for being maintained), and only affects you. Such a lyric does not count towards the number of lyrics you can be affected by at one time and can still be expended, returning after 1 minute has elapsed.
+
+You can spend 1 hour to change the chosen (instrumental) or (lyric) talent to a different talent that you possess. You cannot have both a constant instrumental and lyric active at the same time.
+
+#### Spring In Your Step
+
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
+
+**Prerequisites:** Performance sphere ((dance) package), associated ranks 10.
+
+**Benefit:** Choose a single (dance) talent that you possess—you gain the benefits of the chosen (dance) talent as a constant effect, treating your dance area as being your threatened area if the talent relies on it.
+
+Due to not being an actual use of this ability, it does not need to be maintained (nor does it receive benefits for being maintained), and only affects you and therefore cannot gain dancers. If you are dancing, you can choose to add the chosen (dance) talent to the dance without it counting towards the total number of (dance) talents you could apply to it.
+
+You can spend 1 hour to change the chosen (dance) talent to a different talent that you possess.

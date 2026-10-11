@@ -67,10 +67,10 @@ What the compendium extractor takes from the Boxing pages (51 entries; approved)
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
 | [[Practitioner-Feats#backup-breaker-combat\|Backup Breaker]] | General | (Combat) | — | Boxing sphere, Dual Wielding sphere. | Polished Commander & Warleader |
-| [[Practitioner-Feats#rolling-serpent-combat\|Rolling Serpent]] | General | (combat) | — | Athletics sphere, Boxing sphere (Shoulder Roll). | Polished Leadership |
-| [[Practitioner-Feats#stinging-bee-combat\|Stinging Bee]] | General | (combat) | — | Boxing sphere (Floating Butterfly (stance)), base attack bonus +4. | Polished Leadership |
+| [[Practitioner-Feats#rolling-serpent-combat\|Rolling Serpent]] | General | (combat) | — | Athletics sphere, Boxing sphere (Shoulder Roll). | Polished Commander & Warleader |
 | [[Champion-Feats#glimpse-the-flow-champion-combat\|Glimpse The Flow]] | General | (Champion), (Combat) | — | Boxing sphere, Divination sphere (any (sense) talent), Divination sphere caster level 6th. | Spheres Apocrypha: Radiant and Righteous |
 | [[Champion-Feats#spell-slugger-champion\|Spell Slugger]] | General | (Champion) | — | Boxing sphere, caster level 1st. | Spheres Apocrypha: Radiant and Righteous |
+| [[Boxing-Sphere-Feats#stinging-bee-combat\|Stinging Bee]] | General | (combat) | — | Boxing sphere (Floating Butterfly (stance)), base attack bonus +4. |  |
 
 ## Drawbacks (5)
 

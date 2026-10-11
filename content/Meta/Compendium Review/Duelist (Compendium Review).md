@@ -73,11 +73,11 @@ What the compendium extractor takes from the Duelist pages (57 entries; approved
 | --- | --- | --- | --- | --- | --- |
 | [[Practitioner-Feats#adrenaline-fueled-frenzy-combat\|Adrenaline-Fueled Frenzy]] | General | (Combat) | — | Berserker sphere (any (adrenaline) talent), Duelist sphere (Bloodied Shark’s Frenzy), base attack bonus +3. | Polished Commander & Warleader |
 | [[Practitioner-Feats#bloodrunner\|Bloodrunner]] | General |  | — | Blood sphere or Duelist sphere, character level 7th. | Polished Commander & Warleader |
-| [[Practitioner-Feats#great-iaijutsu\|Great Iaijutsu]] | General |  | — | Duelist sphere (Iai Slash (bleed)), base attack bonus +5. | Polished Leadership |
-| [[Practitioner-Feats#hunting-party-combat\|Hunting Party]] | General | (Combat) | — | Warleader sphere 5 associated skill ranks; Duelist sphere; Warleader sphere. | Polished Leadership |
+| [[Practitioner-Feats#hunting-party-combat\|Hunting Party]] | General | (Combat) | — | Warleader sphere 5 associated skill ranks; Duelist sphere; Warleader sphere. | Polished Commander & Warleader |
 | [[Champion-Feats#bloodmonger-champion\|Bloodmonger]] | General | (Champion) | — | Casting class feature, Duelist sphere. | Diamond Spheres: Hustle & Bustle |
 | [[Champion-Feats#kinematic-disarmer-champion-combat\|Kinematic Disarmer]] | General | (Champion), (Combat) | — | Duelist sphere, Telekinesis sphere. | Spheres Apocrypha: Radiant and Righteous |
 | [[Champion-Feats#sanguine-magic-champion-combat\|Sanguine Magic]] | General | (Champion), (Combat) | — | Duelist sphere (one (bleed) talent); Blood sphere (Hemorrhage) or Death sphere (Bleeding Wounds (ghost strike)). | Spheres Apocrypha: Radiant and Righteous |
+| [[Duelist-Sphere-Feats#great-iaijutsu\|Great Iaijutsu]] | General |  | — | Duelist sphere (Iai Slash (bleed)), base attack bonus +5. |  |
 
 ## Drawbacks (4)
 

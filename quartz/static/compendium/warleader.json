@@ -1157,40 +1157,6 @@
    "options": []
   },
   {
-   "id": "warleader/amateur-field-officer",
-   "name": "Amateur Field Officer",
-   "kind": "feat",
-   "sphere": "Warleader",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [],
-   "talentTags": [],
-   "prerequisites": "Base attack bonus +5; Warleader sphere; no levels in a class that grant the enhanced tactic class feature.",
-   "source": "Polished Commander & Warleader",
-   "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#amateur-field-officer",
-   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*You've read the field manuals and feel confident enough to start giving orders.*\n\n**Prerequisites:** Base attack bonus +5; Warleader sphere; no levels in a class that grant the enhanced tactic class feature.\n\n**Benefit:** You gain one commander enhanced tactic, treating your effective commander level as 1 for the purposes of qualifying for and the effects of the chosen enhanced tactic.\n\n**Special:** If you gain levels in a class that has the enhanced tactic class feature, you can immediately trade this feat for the Extra Enhanced Tactic feat.",
-   "options": []
-  },
-  {
-   "id": "warleader/battle-fanfare-combat",
-   "name": "Battle Fanfare",
-   "kind": "feat",
-   "sphere": "Warleader",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [
-    "Combat"
-   ],
-   "talentTags": [],
-   "prerequisites": "Warleader sphere; bardic performance or raging song class feature.",
-   "source": "Polished Commander & Warleader",
-   "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#battle-fanfare-combat",
-   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*The same songs carry a new meaning during war.*\n\n**Prerequisites:** Warleader sphere; bardic performance or raging song class feature.\n\n**Benefit:** You gain the following benefits based on the Warleader sphere packages you possess:\n\n- **(shout):** When you begin or continue your bardic performance or raging song, you may also *shout* as a move or swift action.\n- **(tactic):** When you begin or continue your bardic performance or raging song, you may also *engage tactics* without spending additional actions. Your *tactic*'s radius cannot exceed your bardic performance or raging song's radius when used this way.\n\n**Special - Bardic Performance-like features:** Subject to GM discretion, class features that function similar to bardic performance (such as symbiat's psionics) may be used with this feat, and may be used to meet this feat's prerequisites.",
-   "options": []
-  },
-  {
    "id": "warleader/booming-boast-combat-dual-sphere",
    "name": "Booming Boast",
    "kind": "feat",
@@ -1210,24 +1176,6 @@
    "options": []
   },
   {
-   "id": "warleader/constant-chatter-combat",
-   "name": "Constant Chatter",
-   "kind": "feat",
-   "sphere": "Warleader",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [
-    "Combat"
-   ],
-   "talentTags": [],
-   "prerequisites": "Warleader associated skill 6 ranks; Warleader ((shout) package).",
-   "source": "Diamond Spheres: Erudition & Esoterica",
-   "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#constant-chatter-combat",
-   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*You never learned how to stop talking. You have learned how to make it count.*\n\n**Prerequisites:** Warleader associated skill 6 ranks; Warleader ((shout) package).\n\n**Benefit:** You gain the following option:",
-   "options": []
-  },
-  {
    "id": "warleader/drink-and-directive-combat-dual-sphere",
    "name": "Drink and Directive",
    "kind": "feat",
@@ -1240,7 +1188,7 @@
    ],
    "talentTags": [],
    "prerequisites": "Barroom sphere; Warleader sphere.",
-   "source": "Spheres Apocrypha: Radiant and Righteous",
+   "source": "Polished Commander & Warleader",
    "status": "current",
    "url": "Spheres-Of-Might/Practitioner-Feats#drink-and-directive-combat-dual-sphere",
    "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*The second afternoon scotch was rarely questioned by the men. Despite the slurred speech, his tactical prowess seemed sharper than ever.*\n\n**Prerequisites:** Barroom sphere; Warleader sphere.\n\n**Benefit:** You may use both *hard drinker* and *engage tactics* as part of the same action, using the longer of the two actions required.\n\nIn addition, you gain the following option:",
@@ -1258,7 +1206,7 @@
    ],
    "talentTags": [],
    "prerequisites": "Shield sphere; Warleader sphere (Heraldry) or banner class feature.",
-   "source": "Polished Leadership",
+   "source": "Polished Commander & Warleader",
    "status": "current",
    "url": "Spheres-Of-Might/Practitioner-Feats#escutcheon-combat",
    "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*A shield can guard a body. Yours guards an army.*\n\n**Prerequisites:** Shield sphere; Warleader sphere (Heraldry) or banner class feature.\n\n**Benefit:** When using your standard as a shield, you increase the radius of your Warleader sphere abilities by 5 feet, +5 feet per enhancement bonus of your shield.\n\nIn addition, you gain the following option:",
@@ -1287,80 +1235,10 @@
    ],
    "talentTags": [],
    "prerequisites": "Warleader sphere 5 associated skill ranks; Duelist sphere; Warleader sphere.",
-   "source": "Polished Leadership",
+   "source": "Polished Commander & Warleader",
    "status": "current",
    "url": "Spheres-Of-Might/Practitioner-Feats#hunting-party-combat",
    "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*Blood draws a crowd, and a crowd draws blood.*\n\n**Prerequisites:** Warleader sphere 5 associated skill ranks; Duelist sphere; Warleader sphere.\n\n**Benefit:** You and allies benefitting from your Warleader sphere effects gain a +2 bonus on critical confirmation rolls against bleeding targets and a +2 bonus on Perception and Survival checks made against bleeding targets. These bonuses increase to +4 at 10 associated skill ranks.\n\nIn addition, you gain the following option:",
-   "options": []
-  },
-  {
-   "id": "warleader/improvised-doctrine-combat",
-   "name": "Improvised Doctrine",
-   "kind": "feat",
-   "sphere": "Warleader",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [
-    "Combat"
-   ],
-   "talentTags": [],
-   "prerequisites": "Warleader associated skill 8 ranks; Warleader (any three talents).",
-   "source": "Spheres Apocrypha: The Inheritor and Improved Atavism Heritages",
-   "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#improvised-doctrine-combat",
-   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*You've studied every playbook long enough to write one.*\n\n**Prerequisites:** Warleader associated skill 8 ranks; Warleader (any three talents).\n\n**Benefit:** Once per day as a free action, you may select a single Warleader sphere talent you do not possess. You gain that talent as a temporary talent for 24 hours, or until the next time you rest and regain your resources.",
-   "options": []
-  },
-  {
-   "id": "warleader/marking-quarry-combat",
-   "name": "Marking Quarry",
-   "kind": "feat",
-   "sphere": "Warleader",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [
-    "Combat"
-   ],
-   "talentTags": [],
-   "prerequisites": "Warleader ((tactic) package).",
-   "source": "Polished Leadership",
-   "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#marking-quarry-combat",
-   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*Nobody is better at pointing out the mission critical targets.*\n\n**Prerequisite:** Warleader ((tactic) package).\n\n**Effect:** Once per round as a free action, you may mark a creature within the area of your *tactic* for 1 round. The first time an ally successfully damages the marked target, that attack deals an additional 1d6 damage and the mark is consumed.\n\nWhen you mark a creature this way, you may have the mark carry one additional effect based on other Warleader sphere talents you possess (chosen each time you mark). If an additional effect requires a saving throw, the saving throw DC is equal to your Warleader sphere DC.\n\n- **Aggression Doctrine:** The marked target is also **exposed** (this functions identically to synchronized strikes, bypassing an amount of defenses, or all defenses if synchronized strike's *tactical coordination* is active).\n- **Alertness Doctrine:** When the marked target is struck, for 1 round, that creature suffers a -20 penalty on Stealth checks and cannot benefit from darkness, invisibility, *blur* or *displacement*, and other similar effects.\n- **Antimagic Doctrine:** When the marked target is struck, if that creature attempts to cast a spell within 1 round, they cannot choose to cast a spell without it being cast defensively.\n- **Control Doctrine:** When the marked target is struck, that creature is also battered for 1 round.\n- **Covert Doctrine:** When the marked target is struck, for 1 round, that creature treats all other creatures more than 5 feet away as having concealment and is unable to automatically pinpoint their locations with special senses (such as blindsight) (Will negates).\n- **Deescalation Doctrine:** When the marked target is struck, that creature exits or abandons any approach, stance, style (or similar ability) they are maintaining and loses concentration over any effects they are concentrating on (Will negates).\n- **Defense Doctrine:** When the marked target is struck, the striking ally gains a +2 circumstance bonus to their AC for 1 round.\n- **Fearmonger Doctrine:** When the marked target is struck, for 1 round, that creature must succeed on a Will save whenever it attempts to move closer to you, the striking ally, or the source of any fear effect currently affecting it. Failing this save does not prevent the creature from using that movement differently (for example, a creature could attempt to move closer to you, fail, and instead spend that movement moving toward a different creature).\n- **Mobility Doctrine:** When the marked target is struck, the striking ally may immediately move up to 10 feet. This movement does not provoke attacks of opportunity from the struck target.\n- **Safety Doctrine:** When the marked target is struck, the striking ally gains a +2 circumstance bonus to all saving throws for 1 round.\n- **Survival Doctrine:** When the marked target is struck, the striking ally gains a number of temporary hit points equal to 1d6 + 1/2 your Warleader associated skill ranks. These temporary hit points last for 1 round.",
-   "options": []
-  },
-  {
-   "id": "warleader/petrifying-pennant",
-   "name": "Petrifying Pennant",
-   "kind": "feat",
-   "sphere": "Warleader",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [],
-   "talentTags": [],
-   "prerequisites": "Warleader sphere 5 associated skill ranks; Warleader sphere (Heraldry) or banner class feature.",
-   "source": "Polished Leadership",
-   "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#petrifying-pennant",
-   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*The banner is more than enough to instill fear.*\n\n**Prerequisites:** Warleader sphere 5 associated skill ranks; Warleader sphere (Heraldry) or banner class feature.\n\n**Benefit:** Enemies within range of and able to see your presented banner suffer a -2 penalty on saving throws against fear effects. Intimidate checks made to demoralize enemies in the same area gain a +4 circumstance bonus.\n\nWhenever you or an ally causes a creature penalized by this feat to become frightened or panicked, they may have that creature treat your presented banner as the source of their fear (determining which direction they must then flee away from).\n\n**Special - (tactic) package:** If you possess the (tactic) package, your *tactic*'s area also applies these effects.",
-   "options": []
-  },
-  {
-   "id": "warleader/strategy-to-action-combat",
-   "name": "Strategy to Action",
-   "kind": "feat",
-   "sphere": "Warleader",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [
-    "Combat"
-   ],
-   "talentTags": [],
-   "prerequisites": "Warleader sphere 10 associated skill ranks; Warleader sphere (Wargames).",
-   "source": "Polished Leadership",
-   "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#strategy-to-action-combat",
-   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*\"I love it when a plan comes together.\"*\n\n**Prerequisites:** Warleader sphere 10 associated skill ranks; Warleader sphere (Wargames).\n\n**Benefit:** When you reveal your *combat stratagem* plan as a full-round action, you gain 1 additional swift action during that turn. These additional swift actions cannot be used to cast spells (such as with the Quicken Spell metamagic feat).\n\nIf you use one of these additional swift actions to issue a cavalier's challenge, paladin's smite evil, or other similar ability that provides benefits against a single target, each ally benefitting from your Warleader sphere effects also receives half that challenge, smite evil, or other ability's numeric effects (numeric bonuses to rolls or statistics, but not other miscellaneous benefits of the smite or challenge, such as smite evil's ability to bypass damage reduction).",
    "options": []
   },
   {
@@ -1382,6 +1260,128 @@
    "options": []
   },
   {
+   "id": "warleader/amateur-field-officer",
+   "name": "Amateur Field Officer",
+   "kind": "feat",
+   "sphere": "Warleader",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Base attack bonus +5; Warleader sphere; no levels in a class that grant the enhanced tactic class feature.",
+   "source": "Polished Commander & Warleader",
+   "status": "current",
+   "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Feats#amateur-field-officer",
+   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*You've read the field manuals and feel confident enough to start giving orders.*\n\n**Prerequisites:** Base attack bonus +5; Warleader sphere; no levels in a class that grant the enhanced tactic class feature.\n\n**Benefit:** You gain one commander enhanced tactic, treating your effective commander level as 1 for the purposes of qualifying for and the effects of the chosen enhanced tactic.\n\n**Special:** If you gain levels in a class that has the enhanced tactic class feature, you can immediately trade this feat for the Extra Enhanced Tactic feat.",
+   "options": []
+  },
+  {
+   "id": "warleader/battle-fanfare-combat",
+   "name": "Battle Fanfare",
+   "kind": "feat",
+   "sphere": "Warleader",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Warleader sphere; bardic performance or raging song class feature.",
+   "source": "Polished Commander & Warleader",
+   "status": "current",
+   "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Feats#battle-fanfare-combat",
+   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*The same songs carry a new meaning during war.*\n\n**Prerequisites:** Warleader sphere; bardic performance or raging song class feature.\n\n**Benefit:** You gain the following benefits based on the Warleader sphere packages you possess:\n\n- **(shout):** When you begin or continue your bardic performance or raging song, you may also *shout* as a move or swift action.\n- **(tactic):** When you begin or continue your bardic performance or raging song, you may also *engage tactics* without spending additional actions. Your *tactic*'s radius cannot exceed your bardic performance or raging song's radius when used this way.\n\n**Special - Bardic Performance-like features:** Subject to GM discretion, class features that function similar to bardic performance (such as symbiat's psionics) may be used with this feat, and may be used to meet this feat's prerequisites.",
+   "options": []
+  },
+  {
+   "id": "warleader/constant-chatter-combat",
+   "name": "Constant Chatter",
+   "kind": "feat",
+   "sphere": "Warleader",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Warleader associated skill 6 ranks; Warleader ((shout) package).",
+   "source": "Polished Commander & Warleader",
+   "status": "current",
+   "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Feats#constant-chatter-combat",
+   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*You never learned how to stop talking. You have learned how to make it count.*\n\n**Prerequisites:** Warleader associated skill 6 ranks; Warleader ((shout) package).\n\n**Benefit:** You gain the following option:",
+   "options": []
+  },
+  {
+   "id": "warleader/improvised-doctrine-combat",
+   "name": "Improvised Doctrine",
+   "kind": "feat",
+   "sphere": "Warleader",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Warleader associated skill 8 ranks; Warleader (any three talents).",
+   "source": "Polished Commander & Warleader",
+   "status": "current",
+   "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Feats#improvised-doctrine-combat",
+   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*You've studied every playbook long enough to write one.*\n\n**Prerequisites:** Warleader associated skill 8 ranks; Warleader (any three talents).\n\n**Benefit:** Once per day as a free action, you may select a single Warleader sphere talent you do not possess. You gain that talent as a temporary talent for 24 hours, or until the next time you rest and regain your resources.",
+   "options": []
+  },
+  {
+   "id": "warleader/marking-quarry-combat",
+   "name": "Marking Quarry",
+   "kind": "feat",
+   "sphere": "Warleader",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Warleader ((tactic) package).",
+   "source": "Polished Commander & Warleader",
+   "status": "current",
+   "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Feats#marking-quarry-combat",
+   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*Nobody is better at pointing out the mission critical targets.*\n\n**Prerequisite:** Warleader ((tactic) package).\n\n**Effect:** Once per round as a free action, you may mark a creature within the area of your *tactic* for 1 round. The first time an ally successfully damages the marked target, that attack deals an additional 1d6 damage and the mark is consumed.\n\nWhen you mark a creature this way, you may have the mark carry one additional effect based on other Warleader sphere talents you possess (chosen each time you mark). If an additional effect requires a saving throw, the saving throw DC is equal to your Warleader sphere DC.\n\n- **Aggression Doctrine:** The marked target is also **exposed** (this functions identically to synchronized strikes, bypassing an amount of defenses, or all defenses if synchronized strike's *tactical coordination* is active).\n- **Alertness Doctrine:** When the marked target is struck, for 1 round, that creature suffers a -20 penalty on Stealth checks and cannot benefit from darkness, invisibility, *blur* or *displacement*, and other similar effects.\n- **Antimagic Doctrine:** When the marked target is struck, if that creature attempts to cast a spell within 1 round, they cannot choose to cast a spell without it being cast defensively.\n- **Control Doctrine:** When the marked target is struck, that creature is also battered for 1 round.\n- **Covert Doctrine:** When the marked target is struck, for 1 round, that creature treats all other creatures more than 5 feet away as having concealment and is unable to automatically pinpoint their locations with special senses (such as blindsight) (Will negates).\n- **Deescalation Doctrine:** When the marked target is struck, that creature exits or abandons any approach, stance, style (or similar ability) they are maintaining and loses concentration over any effects they are concentrating on (Will negates).\n- **Defense Doctrine:** When the marked target is struck, the striking ally gains a +2 circumstance bonus to their AC for 1 round.\n- **Fearmonger Doctrine:** When the marked target is struck, for 1 round, that creature must succeed on a Will save whenever it attempts to move closer to you, the striking ally, or the source of any fear effect currently affecting it. Failing this save does not prevent the creature from using that movement differently (for example, a creature could attempt to move closer to you, fail, and instead spend that movement moving toward a different creature).\n- **Mobility Doctrine:** When the marked target is struck, the striking ally may immediately move up to 10 feet. This movement does not provoke attacks of opportunity from the struck target.\n- **Safety Doctrine:** When the marked target is struck, the striking ally gains a +2 circumstance bonus to all saving throws for 1 round.\n- **Survival Doctrine:** When the marked target is struck, the striking ally gains a number of temporary hit points equal to 1d6 + 1/2 your Warleader associated skill ranks. These temporary hit points last for 1 round.",
+   "options": []
+  },
+  {
+   "id": "warleader/petrifying-pennant",
+   "name": "Petrifying Pennant",
+   "kind": "feat",
+   "sphere": "Warleader",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Warleader sphere 5 associated skill ranks; Warleader sphere (Heraldry) or banner class feature.",
+   "source": "Polished Commander & Warleader",
+   "status": "current",
+   "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Feats#petrifying-pennant",
+   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*The banner is more than enough to instill fear.*\n\n**Prerequisites:** Warleader sphere 5 associated skill ranks; Warleader sphere (Heraldry) or banner class feature.\n\n**Benefit:** Enemies within range of and able to see your presented banner suffer a -2 penalty on saving throws against fear effects. Intimidate checks made to demoralize enemies in the same area gain a +4 circumstance bonus.\n\nWhenever you or an ally causes a creature penalized by this feat to become frightened or panicked, they may have that creature treat your presented banner as the source of their fear (determining which direction they must then flee away from).\n\n**Special - (tactic) package:** If you possess the (tactic) package, your *tactic*'s area also applies these effects.",
+   "options": []
+  },
+  {
+   "id": "warleader/strategy-to-action-combat",
+   "name": "Strategy to Action",
+   "kind": "feat",
+   "sphere": "Warleader",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Warleader sphere 10 associated skill ranks; Warleader sphere (Wargames).",
+   "source": "Polished Commander & Warleader",
+   "status": "current",
+   "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Feats#strategy-to-action-combat",
+   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*\"I love it when a plan comes together.\"*\n\n**Prerequisites:** Warleader sphere 10 associated skill ranks; Warleader sphere (Wargames).\n\n**Benefit:** When you reveal your *combat stratagem* plan as a full-round action, you gain 1 additional swift action during that turn. These additional swift actions cannot be used to cast spells (such as with the Quicken Spell metamagic feat).\n\nIf you use one of these additional swift actions to issue a cavalier's challenge, paladin's smite evil, or other similar ability that provides benefits against a single target, each ally benefitting from your Warleader sphere effects also receives half that challenge, smite evil, or other ability's numeric effects (numeric bonuses to rolls or statistics, but not other miscellaneous benefits of the smite or challenge, such as smite evil's ability to bypass damage reduction).",
+   "options": []
+  },
+  {
    "id": "warleader/tacticians-acumen-combat",
    "name": "Tactician's Acumen",
    "kind": "feat",
@@ -1395,7 +1395,7 @@
    "prerequisites": "Warleader sphere ((tactic) package); see text.",
    "source": "Polished Commander & Warleader",
    "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#tacticians-acumen-combat",
+   "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Feats#tacticians-acumen-combat",
    "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*Your intricate plans come into motion faster.*\n\n**Prerequisites:** Warleader sphere ((tactic) package); see text.\n\n**Benefit:** You gain the following benefits based on the following class features you possess:\n\n- **Warleader (Heraldry) or Banner class feature:** Allies benefitting from your *tactic* are always considered to be within range of and able to see your banner, including for when you wave your banner.\n- **Tactician class feature:** When you use your tactician ability, you may also *engage tactics* as part of that same action. In addition, an ally benefitting from your tactician ability benefits from your *tactic*'s *tactical presence*, even if they would not be within range.",
    "options": []
   }

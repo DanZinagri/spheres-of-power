@@ -822,22 +822,6 @@
    "options": []
   },
   {
-   "id": "duelist/great-iaijutsu",
-   "name": "Great Iaijutsu",
-   "kind": "feat",
-   "sphere": "Duelist",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [],
-   "talentTags": [],
-   "prerequisites": "Duelist sphere (Iai Slash (bleed)), base attack bonus +5.",
-   "source": "Polished Leadership",
-   "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#great-iaijutsu",
-   "md": "**Prerequisites:** Duelist sphere (Iai Slash (bleed)), base attack bonus +5.\n\n**Benefit:** When utilizing your Iai Slash talent, you may expend your martial focus to additionally apply the effects of one (bleed) talent other than Iai Slash to a single creature struck as part of the talent. If you have more than one martial focus, you may expend two martial focuses to instead apply that (bleed) talent to all creatures struck.",
-   "options": []
-  },
-  {
    "id": "duelist/hunting-party-combat",
    "name": "Hunting Party",
    "kind": "feat",
@@ -849,7 +833,7 @@
    ],
    "talentTags": [],
    "prerequisites": "Warleader sphere 5 associated skill ranks; Duelist sphere; Warleader sphere.",
-   "source": "Polished Leadership",
+   "source": "Polished Commander & Warleader",
    "status": "current",
    "url": "Spheres-Of-Might/Practitioner-Feats#hunting-party-combat",
    "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*Blood draws a crowd, and a crowd draws blood.*\n\n**Prerequisites:** Warleader sphere 5 associated skill ranks; Duelist sphere; Warleader sphere.\n\n**Benefit:** You and allies benefitting from your Warleader sphere effects gain a +2 bonus on critical confirmation rolls against bleeding targets and a +2 bonus on Perception and Survival checks made against bleeding targets. These bonuses increase to +4 at 10 associated skill ranks.\n\nIn addition, you gain the following option:",
@@ -973,6 +957,22 @@
    "status": "current",
    "url": "Spheres-Of-Might/Duelist/Duelist-Sphere-Drawbacks#sense-weakness",
    "md": "You do not gain the ability to perform disarm maneuvers without provoking attacks of opportunity against bleeding targets. You cannot select (disarm) talents. You gain Blooded Skeptic with this drawback.\n\n**Incompatible:** Bloody Slasher, Disarming Duelist, Scarred Duelist.",
+   "options": []
+  },
+  {
+   "id": "duelist/great-iaijutsu",
+   "name": "Great Iaijutsu",
+   "kind": "feat",
+   "sphere": "Duelist",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Duelist sphere (Iai Slash (bleed)), base attack bonus +5.",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Might/Duelist/Duelist-Sphere-Feats#great-iaijutsu",
+   "md": "**Prerequisites:** Duelist sphere (Iai Slash (bleed)), base attack bonus +5.\n\n**Benefit:** When utilizing your Iai Slash talent, you may expend your martial focus to additionally apply the effects of one (bleed) talent other than Iai Slash to a single creature struck as part of the talent. If you have more than one martial focus, you may expend two martial focuses to instead apply that (bleed) talent to all creatures struck.",
    "options": []
   }
  ]

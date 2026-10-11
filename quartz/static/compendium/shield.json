@@ -561,7 +561,7 @@
    ],
    "talentTags": [],
    "prerequisites": "Shield sphere; Warleader sphere (Heraldry) or banner class feature.",
-   "source": "Polished Leadership",
+   "source": "Polished Commander & Warleader",
    "status": "current",
    "url": "Spheres-Of-Might/Practitioner-Feats#escutcheon-combat",
    "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*A shield can guard a body. Yours guards an army.*\n\n**Prerequisites:** Shield sphere; Warleader sphere (Heraldry) or banner class feature.\n\n**Benefit:** When using your standard as a shield, you increase the radius of your Warleader sphere abilities by 5 feet, +5 feet per enhancement bonus of your shield.\n\nIn addition, you gain the following option:",
@@ -577,24 +577,6 @@
      "md": "**Effect:** When an attack misses a creature benefitting from your *active defense*, you *shout*. A *shout* performed this way only affects a single target within range. If the chosen (shout) affects enemies, you must target the attacking creature that missed."
     }
    ]
-  },
-  {
-   "id": "shield/iron-palm-combat",
-   "name": "Iron Palm",
-   "kind": "feat",
-   "sphere": "Shield",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [
-    "combat"
-   ],
-   "talentTags": [],
-   "prerequisites": "Shield sphere, Improved Unarmed Strike.",
-   "source": "Polished Commander & Warleader",
-   "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#iron-palm-combat",
-   "md": "**Prerequisite:** Shield sphere, Improved Unarmed Strike.\n\n**Benefit:** As long as you have one hand free, your free hand is considered to be a shield for the purposes of using active defense and talents that augment active defense. Talents that require you to be wielding a shield or have a shield equipped such as Deflecting Shield, Hardened Shield and Shield Skate do not gain the benefits of this talent.\n\nAdditionally, the talents you possess within the Shield sphere count towards your unarmed damage progression.\n\n**Author's Note:** This feat does not allow you to perform shield bashes with a free hand or unarmed strike.",
-   "options": []
   },
   {
    "id": "shield/portal-shield-champion",
@@ -694,6 +676,24 @@
    "status": "current",
    "url": "Spheres-Of-Might/Shield/Shield-Sphere-Drawbacks#passive-blocker",
    "md": "You do not gain the active defense ability and cannot take (deflect) talents or other talents that require the use of active defense. You gain Deflecting Shield with this drawback.",
+   "options": []
+  },
+  {
+   "id": "shield/iron-palm-combat",
+   "name": "Iron Palm",
+   "kind": "feat",
+   "sphere": "Shield",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [
+    "combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Shield sphere, Improved Unarmed Strike.",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Might/Shield/Shield-Sphere-Feats#iron-palm-combat",
+   "md": "**Prerequisite:** Shield sphere, Improved Unarmed Strike.\n\n**Benefit:** As long as you have one hand free, your free hand is considered to be a shield for the purposes of using active defense and talents that augment active defense. Talents that require you to be wielding a shield or have a shield equipped such as Deflecting Shield, Hardened Shield and Shield Skate do not gain the benefits of this talent.\n\nAdditionally, the talents you possess within the Shield sphere count towards your unarmed damage progression.\n\n**Author's Note:** This feat does not allow you to perform shield bashes with a free hand or unarmed strike.",
    "options": []
   }
  ]

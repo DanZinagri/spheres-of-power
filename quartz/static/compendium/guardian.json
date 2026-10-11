@@ -707,28 +707,10 @@
    "tags": [],
    "talentTags": [],
    "prerequisites": "Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package).",
-   "source": "Polished Leadership",
+   "source": "Polished Commander & Warleader",
    "status": "current",
    "url": "Spheres-Of-Might/Practitioner-Feats#mounted-protector",
    "md": "Your protective might is delivered on the swift heels of your mount.\n\n**Prerequisites:** Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package).\n\n**Benefit:** While mounted, you may use your mount’s movement whenever you could move as part of your patrol, provided your mount’s total movement before its next turn does not exceed its base speed. Any movement you or your mount make provoke attacks of opportunity as normal. In addition, whenever you could make an attack of opportunity as part of your patrol, you may have your mount make an attack of opportunity against that target instead.\n\n**Normal:** You cannot move with your mount as part of your patrol.",
-   "options": []
-  },
-  {
-   "id": "guardian/overwatch-combat",
-   "name": "Overwatch",
-   "kind": "feat",
-   "sphere": "Guardian",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [
-    "combat"
-   ],
-   "talentTags": [],
-   "prerequisites": "Covering Fire talent, Guardian sphere (patrol package)",
-   "source": "Polished Leadership",
-   "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#overwatch-combat",
-   "md": "**Prerequisites:** Covering Fire talent, Guardian sphere (patrol package)\n\n**Benefit:** You may treat the area you threaten with the Covering Fire talent as if it were a patrol, benefiting from guardian sphere talents as normal, except that you cannot move within this threatened area outside of normal turn order like with a standard patrol.",
    "options": []
   },
   {
@@ -954,6 +936,24 @@
    "status": "current",
    "url": "Spheres-Of-Might/Guardian/Guardian-Sphere-Drawbacks#without-delay",
    "md": "You do not gain a delayed damage pool and may not select any talent which relies on the delayed damage pool. You must take Swift Guardian with this drawback. You may not possess both this and the Indifferent Defender drawback.",
+   "options": []
+  },
+  {
+   "id": "guardian/overwatch-combat",
+   "name": "Overwatch",
+   "kind": "feat",
+   "sphere": "Guardian",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [
+    "combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Covering Fire talent, Guardian sphere (patrol package)",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Might/Guardian/Guardian-Sphere-Feats#overwatch-combat",
+   "md": "**Prerequisites:** Covering Fire talent, Guardian sphere (patrol package)\n\n**Benefit:** You may treat the area you threaten with the Covering Fire talent as if it were a patrol, benefiting from guardian sphere talents as normal, except that you cannot move within this threatened area outside of normal turn order like with a standard patrol.",
    "options": []
   }
  ]

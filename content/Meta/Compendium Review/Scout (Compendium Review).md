@@ -66,13 +66,13 @@ What the compendium extractor takes from the Scout pages (56 entries; approved).
 
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
-| [[Practitioner-Feats#observant-oppurrtunist-combat\|Observant Oppurrtunist]] | General | (combat) | — | Perception 5 ranks, Scout sphere. | Polished Leadership |
-| [[Practitioner-Feats#studied-scout\|Studied Scout]] | General |  | — | Scout sphere, studied target or studied combat class feature. | Polished Commander & Warleader |
-| [[Practitioner-Feats#target-spotting\|Target Spotting]] | General |  | — | Scout sphere, favored enemy class feature. | Polished Leadership |
 | [[Practitioner-Feats#understand-thy-enemy\|Understand Thy Enemy]] | General |  | — | Fencing sphere (Read Foe, Parry And Riposte) or Fencing sphere (Read Foe) and opportune parry and riposte deed, Scout sp | Spheres Apocrypha: Radiant and Righteous |
-| [[Practitioner-Feats#wiggling-footsies-combat\|Wiggling Footsies]] | General | (combat) | — | Fencing sphere (Footwork), Scout sphere (Calibrating Wiggle). | Tandem Talents |
+| [[Practitioner-Feats#wiggling-footsies-combat\|Wiggling Footsies]] | General | (combat) | — | Fencing sphere (Footwork), Scout sphere (Calibrating Wiggle). | Spheres Apocrypha: Swashbucklers |
 | [[Champion-Feats#tactical-hypothesis-champion\|Tactical Hypothesis]] | General | (Champion) | — | Scout sphere, Study sphere. | Spheres Apocrypha: Radiant and Righteous |
 | [[Champion-Feats#unerring-eye-champion\|Unerring Eye]] | General | (Champion) | — | Sense Motive ranks 3, Investigation sphere; either the Divination sphere or Scout sphere. | Spheres Apocrypha: Radiant and Righteous |
+| [[Scout-Sphere-Feats#observant-oppurrtunist-combat\|Observant Oppurrtunist]] | General | (combat) | — | Perception 5 ranks, Scout sphere. |  |
+| [[Scout-Sphere-Feats#studied-scout\|Studied Scout]] | General |  | — | Scout sphere, studied target or studied combat class feature. |  |
+| [[Scout-Sphere-Feats#target-spotting\|Target Spotting]] | General |  | — | Scout sphere, favored enemy class feature. |  |
 
 ## Drawbacks (8)
 

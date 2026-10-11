@@ -2514,6 +2514,24 @@
    "url": "Other-Pages/Vocation/Vocation#skill-constancy",
    "md": "*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*\n\n**Prerequisites:** 5 ranks in the chosen skills.\n\nWhenever you roll a skill check that you have unlocked skill leverage in and you roll a 9 or lower, you can spend 1 use of skill leverage to instead treat the roll as if you had taken 10 on the check.",
    "options": []
+  },
+  {
+   "id": "vocation/judge-jury-executioner-combat",
+   "name": "Judge, Jury, Executioner",
+   "kind": "feat",
+   "sphere": "Vocation",
+   "system": "Spheres of Guile",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Vocation sphere (Adept Administrator (specialty), Expert Administrator), crime sense specialty ability, Profession (barrister) 5 ranks.",
+   "source": "",
+   "status": "current",
+   "url": "Other-Pages/Vocation/Vocation-Sphere-Feats#judge-jury-executioner-combat",
+   "md": "*The letter of law often leaves little room for justice.*\n\n**Prerequisites:** Vocation sphere (Adept Administrator (specialty), Expert Administrator), crime sense specialty ability, Profession (barrister) 5 ranks.\n\n**Benefit:** Whenever you make an attack or combat maneuver against a creature you have determined is guilty by your crime sense specialty ability (and you have done so within the last 24 hours), you can use your Profession (barrister) ranks instead of your base attack bonus when determining your attack bonus against them—if your Profession (barrister) ranks is already equal to your base attack bonus, you instead gain a +1 competence bonus to such attack rolls and combat maneuver checks, increasing by +1 per 10 ranks in Profession (barrister) you possess.\n\nAdditionally, the first time in a day that you would damage such a creature, you gain a bonus to the damage roll equal to twice your ranks in Profession (barrister).",
+   "options": []
   }
  ]
 }

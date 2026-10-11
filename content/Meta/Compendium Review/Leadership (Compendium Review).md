@@ -94,14 +94,14 @@ What the compendium extractor takes from the Leadership pages (70 entries; appro
 
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
-| [[Practitioner-Feats#camp-of-operations\|Camp of Operations]] | General |  | — | Leadership 3 associated skill ranks; Leadership sphere ((follower) package); base of operations class feature. | Polished Commander & Warleader |
-| [[Practitioner-Feats#emergency-reserves-plan\|Emergency Reserves]] | General | [plan] | — | Leadership 5 associated skill ranks; Leadership ((cohort) package). | Polished Commander & Warleader |
-| [[Practitioner-Feats#friends-in-close-places-plan\|Friends In Close Places]] | General | [plan] | — | Leadership sphere 10 associated skill ranks; Leadership sphere (2 (follower) talents). | Polished Commander & Warleader |
-| [[Practitioner-Feats#journeyman-cohorts\|Journeyman Cohorts]] | General |  | — | Leadership sphere 3 associated skill ranks; Leadership sphere ((cohort) package). | Polished Commander & Warleader |
-| [[Practitioner-Feats#mixed-conscription\|Mixed Conscription]] | General |  | — | Leadership sphere 5 associated skill ranks; ability to control one or more non-Leadership sphere subordinates (see text) | Polished Commander & Warleader |
-| [[Practitioner-Feats#mixed-coordinator-combat\|Mixed Coordinator]] | General | (combat) | — | Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package. | Polished Leadership |
-| [[Practitioner-Feats#radiant-quests\|Radiant Quests]] | General |  | — | Leadership associated skill 5 ranks. | Spheres Apocrypha: Dipsomania |
-| [[Practitioner-Feats#shared-harmonies\|Shared Harmonies]] | General |  | — | Leadership sphere ((cohort) package); bardic performance or raging song class feature. | Polished Leadership |
-| [[Practitioner-Feats#shared-rage-combat\|Shared Rage]] | General | (Combat) | — | Leadership sphere ((cohort) package); rage or bloodrage class feature, or other ability to rage (see text). | Polished Leadership |
-| [[Practitioner-Feats#talented-followers-improved\|Talented Followers, Improved]] | General |  | — | Leadership sphere 5 associated skill ranks; Leadership ((follower) package, Good Help). | Polished Commander & Warleader |
-| [[Practitioner-Feats#theurgical-disciples\|Theurgical Disciples]] | General |  | — | Leadership ((cohort) package); domain or inquisition class feature, cohort same alignment as you (see text). | Polished Leadership |
+| [[Practitioner-Feats#mixed-coordinator-combat\|Mixed Coordinator]] | General | (combat) | — | Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package. | Polished Commander & Warleader |
+| [[Leadership-Sphere-Feats#camp-of-operations\|Camp of Operations]] | General |  | — | Leadership 3 associated skill ranks; Leadership sphere ((follower) package); base of operations class feature. | Polished Leadership |
+| [[Leadership-Sphere-Feats#emergency-reserves-plan\|Emergency Reserves]] | General | [plan] | — | Leadership 5 associated skill ranks; Leadership ((cohort) package). | Polished Leadership |
+| [[Leadership-Sphere-Feats#friends-in-close-places-plan\|Friends In Close Places]] | General | [plan] | — | Leadership sphere 10 associated skill ranks; Leadership sphere (2 (follower) talents). | Polished Leadership |
+| [[Leadership-Sphere-Feats#journeyman-cohorts\|Journeyman Cohorts]] | General |  | — | Leadership sphere 3 associated skill ranks; Leadership sphere ((cohort) package). | Polished Leadership |
+| [[Leadership-Sphere-Feats#mixed-conscription\|Mixed Conscription]] | General |  | — | Leadership sphere 5 associated skill ranks; ability to control one or more non-Leadership sphere subordinates (see text) | Polished Leadership |
+| [[Leadership-Sphere-Feats#radiant-quests\|Radiant Quests]] | General |  | — | Leadership associated skill 5 ranks. | Polished Leadership |
+| [[Leadership-Sphere-Feats#shared-harmonies\|Shared Harmonies]] | General |  | — | Leadership sphere ((cohort) package); bardic performance or raging song class feature. | Polished Leadership |
+| [[Leadership-Sphere-Feats#shared-rage-combat\|Shared Rage]] | General | (Combat) | — | Leadership sphere ((cohort) package); rage or bloodrage class feature, or other ability to rage (see text). | Polished Leadership |
+| [[Leadership-Sphere-Feats#talented-followers-improved\|Talented Followers, Improved]] | General |  | — | Leadership sphere 5 associated skill ranks; Leadership ((follower) package, Good Help). | Polished Leadership |
+| [[Leadership-Sphere-Feats#theurgical-disciples\|Theurgical Disciples]] | General |  | — | Leadership ((cohort) package); domain or inquisition class feature, cohort same alignment as you (see text). | Polished Leadership |

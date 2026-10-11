@@ -16,11 +16,7 @@ parent: "[[Spheres Of Might]]"
 
 # New Feats
 
-#### Adopt Animal Ally
-
-**Prerequisites:** Beastmastery sphere (handle animal) package, an animal or vermin companion.
-
-**Benefit:** If your animal or vermin companion dies, you may make one of your tame creatures your new companion without the normal mourning period. The creature assumes all abilities and statistics of an animal companion appropriate to your abilities. The creature must correspond to an available animal companion type. This takes 1 hour.
+*Feats that need only one sphere are on that sphere's own feats page (see the home page's sphere lists).*
 
 #### Adrenaline-Fueled Frenzy (Combat)
 
@@ -39,18 +35,6 @@ The shark’s frenzy turns to a churning rage.
 **Benefit:** You can trip flying opponents. If you would successfully trip a flying opponent, it falls at a rate of 10 ft per round for every point of base attack bonus you possess (assuming it is conscious and attempting to remain airborne; otherwise, it falls at a rate of 500 ft per round) until it hits the ground. The creature falls immediately after being tripped, then again each round thereafter at the end of your turn.
 
 Upon impact, the creature falls prone and takes normal falling damage (maximum: 1d6 per 10 ft. in its falling speed). A falling creature is considered entangled until it hits the ground, but it can attempt a Fly check as a free action at the start of its turn to stop falling before it hits the ground (DC = 15 + your base attack bonus); otherwise, it is unable to move (other than falling) but can act normally. You can choose to descend with the opponent, although this movement cannot exceed two times your normal flight speed.
-
-#### Amateur Field Officer
-
-*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
-
-*You've read the field manuals and feel confident enough to start giving orders.*
-
-**Prerequisites:** Base attack bonus +5; Warleader sphere; no levels in a class that grant the enhanced tactic class feature.
-
-**Benefit:** You gain one commander enhanced tactic, treating your effective commander level as 1 for the purposes of qualifying for and the effects of the chosen enhanced tactic.
-
-**Special:** If you gain levels in a class that has the enhanced tactic class feature, you can immediately trade this feat for the Extra Enhanced Tactic feat.
 
 #### Amateur Field Tactician
 
@@ -71,21 +55,6 @@ You may share this battlefield specialty through your Warleader sphere abilities
 **Prerequisites:** Boxing sphere, Dual Wielding sphere.
 
 **Benefit:** When you ready a counter punch to make a dual attack, you may make only the attack with your primary or off-hand weapon when your counter punch is triggered. If you do, you may make your other attack when another creature would perform an action that would trigger your counter punch before the start of your next turn. You may only apply a (counter) talent to one of these attacks made as part of this counter punch. The bonus damage from a counter punch is applied to both attacks. These counter punches count as attacks in a dual attack for the purposes of Dual Wielding talents.
-
-#### Battle Fanfare (Combat)
-
-*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
-
-*The same songs carry a new meaning during war.*
-
-**Prerequisites:** Warleader sphere; bardic performance or raging song class feature.
-
-**Benefit:** You gain the following benefits based on the Warleader sphere packages you possess:
-
-- **(shout):** When you begin or continue your bardic performance or raging song, you may also *shout* as a move or swift action.
-- **(tactic):** When you begin or continue your bardic performance or raging song, you may also *engage tactics* without spending additional actions. Your *tactic*'s radius cannot exceed your bardic performance or raging song's radius when used this way.
-
-**Special - Bardic Performance-like features:** Subject to GM discretion, class features that function similar to bardic performance (such as symbiat's psionics) may be used with this feat, and may be used to meet this feat's prerequisites.
 
 #### Bloodrunner
 
@@ -117,20 +86,6 @@ You may share this battlefield specialty through your Warleader sphere abilities
 
 If the attack is a critical hit, instead increase the bleeding target's current bleed by the weapon's critical hit multiplier, then the target takes damage from their current total bleed (as though starting their turn).
 
-#### Camp of Operations
-
-*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*
-
-*Home is wherever the hearth is.*
-
-**Prerequisites:** Leadership 3 associated skill ranks; Leadership sphere ((follower) package); base of operations class feature.
-
-**Benefit:** Whenever you establish a base of operations, you may also *make camp*.
-
-In addition, your base of operations gains 1 additional tailored advice benefit. An additional benefit added this way is chosen based on the sphere-related assistance your followers offer, not the base spheres you personally possess (such as selecting Artifice's base of operations benefit by having a blacksmith, whose assistance offers Artifice sphere effects, despite not having the Artifice sphere normally).
-
-**Note:** The base of operations feature was first printed with the advisor class, *Diamond Spheres: Harmony and Discord*.
-
 #### Catisthenics
 
 **Prerequisite:** 1 rank in any Strength- or Dexterity-based skill.
@@ -140,12 +95,6 @@ In addition, your base of operations gains 1 additional tailored advice benefit.
 You may spend a catisthenics die as part of attempting a Strength- or Dexterity-based skill check to add +1d6 to that roll. You may spend 10 minutes to stretch and replenish your catisthenics pool, regaining up to the maximum number of catisthenics dice.
 
 If a catisthenics die is used at the same time as another ability which adds a bonus die to a check (such as investigator’s inspiration, sage’s meditation, etc.), the bonus granted by a catisthenics dice is decreased to +1d4.
-
-#### Cerebrevore’s Ecstasy (Combat)
-
-**Prerequisites:** Barroom sphere, Brain Consumption.
-
-**Benefit:** Whenever you consume a creature’s brain using the Brain Consumption feat, you may gain the drunk status as if you had consumed an alcoholic drink. Alternatively, while you possess a bonus talent from Brain Consumption Consumptive Intuition, you may end the bonus talent’s duration to gain the drunk status as a free action. When you gain the drunk status in either of these ways, you gain the status for double the duration (twice Constitution modifier rounds + 1 per 2 points of base attack bonus).
 
 #### Color Guard
 
@@ -170,45 +119,6 @@ Your knowledge of one particular combat sphere is without peer.
 **Benefit:** Select one combat sphere you possess, you treat your base attack bonus as 1 higher for the purposes of its effects, but not for attacks made with talents from that sphere. At 5th level and every 4 levels afterwards, the chosen sphere’s base attack bonus is treated as an additional 1 higher, although the sphere’s effective base attack bonus cannot be higher than your character level.
 
 **Special:** You may select this feat multiple times, each time selecting a different sphere.
-
-#### Companion Trigger (combat)
-
-**Prerequisites:** Animal Companion class feature, Mount class feature, or Beastmastery sphere.
-
-**Benefit:** When your animal companion or a creature you are mounted on succeeds on a combat maneuver, you may expend your martial focus as a free action even when it is not your turn to count the maneuver as though you had performed it for the purpose of any feats or talents you possess.
-
-#### Compound Mutagen
-
-*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
-
-**Prerequisites:** Craft (alchemy) 10 ranks, Alchemy sphere ((toxin) package).
-**Benefit:** Whenever you create a mutagen that gives a choice between multiple options, you can choose two such options—for example, a Performance Enhancer could grant its benefits to both Strength and Dexterity, as well as its associated penalties.
-
-If such a mutagen would only apply to a single instance of a roll (such as Psychotropic Hallucinogen), the mutagen applies to both chosen instances of the roll—for example, a Psychotropic Hallucinogen would apply to the next check made with an Intelligence-based skill check, as well as to the next check made with a Wisdom-based skill check.
-
-##### Constant Chatter
-
-This modifies the *shout* sphere ability.
-
-**Action:** free action (once per round)
-
-**Duration:** 1 round
-
-**Target(s):** one creature (line of sight or chosen square)
-
-**Effect:** You *shout*, but only affect a single creature of your choice within range (this typically requires you target that creature, having line of sight or knowing the space they are occupying). The *shout*'s duration is reduced to 1 round and cannot be extended by other effects.
-
-You cannot use this option with any of the following: instantaneous duration (shout)s, (dual sphere) abilities, and abilities and effects that would occur after performing a *shout*.
-
-#### Constant Chatter (Combat)
-
-*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
-
-*You never learned how to stop talking. You have learned how to make it count.*
-
-**Prerequisites:** Warleader associated skill 6 ranks; Warleader ((shout) package).
-
-**Benefit:** You gain the following option:
 
 #### Consumptive Intuition
 
@@ -275,47 +185,11 @@ Your commander's decorum bonus now also applies to the chosen skills.
 
 **Special:** You are treated as possessing Skill Focus for each skill that decorum grants a bonus towards for the purposes of qualifying for prerequisites and other effects.
 
-#### Defender’s Bonds
-
-The bonds between a warrior and his faithful companions shine in combat.
-
-**Prerequisites:** Beastmastery sphere; lay on hands or sentinel’s reserve class feature, character level 3rd.
-
-**Benefit:** Whenever you would heal yourself or gain temporary hit points from your lay on hands ability or by spending a reserve point, you may also affect one animal ally within your natural reach, granting that animal ally half the numeric benefits you received as though they were targeted by the ability plus any additional effects, such as the paladin’s mercy or sentinel’s defender’s determination abilities.
-
-Whenever you restore hit points or grant temporary hit points to an animal ally within your natural reach, that animal ally gains the benefits of any damage reduction you possess from your class features for 1 round (such as damage reduction granted by the dedicated defense class feature, not damage reduction from an item, combat or magic sphere effect, or other ability).
-
-**Example:** A sentinel uses their sentinel’s reserve to gain 14 temporary hit points. One animal ally within the sentinel’s natural reach would gain 7 temporary hit points and any damage reduction the sentinel possesses for 1 round.
-
-#### Designer Drugs
-
-*Source: [Spheres Apocrypha: Alchemy Poisons 2](https://www.drivethrurpg.com/product/320796/Spheres-Apocrypha-Alchemy-Poisons-2?affiliate_id=549120)*
-
-You can fine tune your alchemical poisons to your own biology to get the most bang for your buck.
-
-**Prerequisites:** Craft (alchemy) 7 ranks, Alchemy sphere (Pill Popper).
-
-**Benefit:** Whenever you are subject to one of your Alchemy sphere mutagens, you can increase both the benefits and penalties by 2.
-
-#### Desperate Focus (Combat)
-
-*Source: [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)*
-
-**Prerequisites:** Berserker sphere (Deathless).
-
-**Benefit:** Once per round while berserking and below 0 hit points, you may use the benefits of a class feature, combat talent, feat, or other ability which requires you to expend your martial focus without expending your martial focus.
-
 #### Determined Defense (combat)
 
 **Prerequisite:** Combat Expertise.
 
 **Benefit:** When using the Combat Expertise feat, you do not suffer Combat Expertise’s penalty on melee attack rolls on the first attack you make each turn. You still suffer the penalty on any additional attacks, including attacks of opportunity.
-
-#### Devouring Finish (combat)
-
-**Prerequisites:** Wrestling sphere, Brain Consumption.
-
-**Benefit:** Whenever you reduce a creature that you are grappling to 0 or fewer hit points or render it unconscious, you may devour its brain as a free action. This kills the creature if it does not possess some form of regeneration or other ability which would allow it to survive without a brain.
 
 #### Dragon’s Tattoos
 
@@ -366,22 +240,6 @@ Whenever you perform an attack action and expend martial focus to deal additiona
 **Note:** Fencing sphere fatal thrust damage is still precision damage, even if it would be dealt as energy damage rather than physical damage. Other attack action additional damage is likewise subject to any targeting restrictions or immunities a target might possess.
 
 **Special:** Elemental Might is treated as the Elemental Fist feat (Pathfinder Roleplaying Game: Advanced Player’s Guide) for the purposes of prerequisites. You treat maintaining martial focus as having 1 or more uses of the Elemental Fist feat; if an ability or effect would allow you to expend 1 or more uses of the Elemental Fist feat, you may expend your martial focus instead. Whenever you expend martial focus to deal energy damage with this feat (either with this feat or by converting an attack action’s additional damage), this damage is treated as damage dealt by the Elemental Fist feat for the purposes of other abilities and effects.
-
-#### Emergency Reserves [plan]
-
-*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*
-
-*You can make preparations for a new cohort should your current cohort die or need to be replaced.*
-
-**Prerequisite:** Leadership 5 associated skill ranks; Leadership ((cohort) package).
-
-**Benefit:** You gain the following plan:
-
-> **Emergency Reserves [plan]**
->
-> **Effect:** When you prepare this plan, you must still spend the time to recruit, determining the cohort's statistics and abilities, but gaining that cohort as a contact instead of immediately gaining their services.
->
-> When you reveal this plan, the prepared cohort arrives in 15 minutes, as though just recruited. You may only reveal this plan if you have an available slot for a cohort (such as a cohort having recently died or needing replacement). This plan may only be prepared a single time, even if you could prepare multiple plans at once.
 
 #### Escutcheon (Combat)
 
@@ -437,22 +295,6 @@ This creature can make an attack before and after it moves while flying.
 
 **Benefits:** Whenever you would expend martial focus, you may take 1 point of nonlethal damage per character level instead of expending your martial focus, to a limit of once per action. This damage cannot be healed by any means other than getting a full night’s rest, which removes all associated nonlethal damage. This nonlethal damage cannot be reduced or redirected, and a character incapable of taking nonlethal damage cannot use this feat.
 
-#### Friends In Close Places [plan]
-
-*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*
-
-*Your retinue of followers has attracted some skilled individuals you can call on in a time of need.*
-
-**Prerequisites:** Leadership sphere 10 associated skill ranks; Leadership sphere (2 (follower) talents).
-
-**Benefit:** You gain a single Leadership sphere (follower) talent as a bonus talent. In addition, you gain the following plan:
-
-> **Friends in Close Places [plan]**
->
-> **Effect:** When you reveal this plan, you immediately retrain the (follower) talent granted by this feat. This is treated as dismissing one follower to gain the services of another, with the new follower arriving the next time you *make camp*. Any assistance provided by a follower is lost when that follower is dismissed (provided items become inert and useless, abilities or benefits end, and so on).
->
-> If you are in a settlement, you may reveal this plan once per day. Otherwise, you may only reveal this plan once per week or until you make camp in a settlement.
-
 #### Giantslayer (combat)*
 
 Your martial training and natural heartiness are the only tools you need to tackle even the mightiest foes.
@@ -469,12 +311,6 @@ Your martial training and natural heartiness are the only tools you need to tack
 
 **Wiki Note:** Remember that even with Great Focus, you can only gain Martial Focus once per round.
 
-#### Great Iaijutsu
-
-**Prerequisites:** Duelist sphere (Iai Slash (bleed)), base attack bonus +5.
-
-**Benefit:** When utilizing your Iai Slash talent, you may expend your martial focus to additionally apply the effects of one (bleed) talent other than Iai Slash to a single creature struck as part of the talent. If you have more than one martial focus, you may expend two martial focuses to instead apply that (bleed) talent to all creatures struck.
-
 #### Gunsmithing*
 
 You know the secrets of repairing and restoring firearms.
@@ -488,12 +324,6 @@ You know the secrets of repairing and restoring firearms.
 **Restoring a Broken Firearm:** Each day, with an hour’s worth of work, you can use this feat to repair a single firearm with the broken condition. You can take time during a rest period to restore a broken firearm with this feat.
 
 **Special:** If you are a gunslinger, this feat grants the following additional benefit. You can use this feat to repair and restore your initial, battered weapon. It costs 300 gp and 1 day of work to upgrade it to a masterwork firearm of its type.
-
-#### Harmonious Swordplay (combat)
-
-**Prerequisites:** Dual Wielding sphere, Improved Unarmed Strike.
-
-**Benefits:** As long as you have martial focus, dual attacks made with a manufactured weapon and an unarmed strike remove the attack penalty from dual attack for one manufactured weapon (as long as it is not being treated as an unarmed strike), and any unarmed strikes add your full Strength bonus to damage rolls instead of half for an off-hand attack.
 
 #### Heroic Resolve (combat)
 
@@ -514,110 +344,6 @@ If your base attack bonus is +10 or higher, you may suppress the dazed, frighten
 **Benefit:** You and allies benefitting from your Warleader sphere effects gain a +2 bonus on critical confirmation rolls against bleeding targets and a +2 bonus on Perception and Survival checks made against bleeding targets. These bonuses increase to +4 at 10 associated skill ranks.
 
 In addition, you gain the following option:
-
-#### Improved Atavism
-
-*Source: [Spheres Apocrypha: The Inheritor and Improved Atavism Heritages](https://www.drivethrurpg.com/product/347553/Spheres-Apocrypha-The-Inheritor-and-Improved-Atavism-Heritages?affiliate_id=549120)*
-
-Your powers are long known with stories untold. You have unlocked more of your latent bloodline’s potentials, harnessing the might of those who stood before you.
-
-**Prerequisites:** Berserker sphere (Atavism (adrenaline)), base attack bonus +3.
-
-**Benefit:** While benefiting from the Atavism (adrenaline) talent, you gain two additional abilities associated with your heritage you are benefiting from (see Table: Improved Atavism). Abilities granted by this feat are individually noted to be exceptional (Ex) or supernatural (Su).
-
-Calculate the effects of abilities granted by this feat with your effective Berserker sphere base attack bonus (including adjustments from effects like a conscript’s sphere specialization or the Combat Sphere Specialization feat). If an ability granted by this feat would require a saving throw, the DC is equal to your Berserker sphere DC (10 + 1/2 base attack bonus + practitioner modifier).
-
-**Table: Improved Atavism**
-
-| Heritage Creature Type | Heritage Ability 1 | Heritage Ability 2 |
-| --- | --- | --- |
-| Aberration | **Beyond Understanding (Su):** Whenever another creature uses an ability to gain information about you (such as a Knowledge check, the Scout sphere scout ability, Divination sphere divine sphere effect, detect alignment or discern lies spell, or other similar effect), that creature must succeed at a Will save or the ability’s target changes to another creature within medium range (100 feet + 10 feet per base attack bonus), chosen at random. The creature is not aware their ability targeted another creature but may make inferences based on the results (such as being told a human has weaknesses similar to a clockwork robot in the room). Abilities which would bypass a misdirection spell or similar effect also bypass this ability. <br> You are aware of creatures who have failed their saving throw against this effect, and for the next 24 hours you gain an insight bonus on attack and damage rolls against creatures who have failed their saving throw against this effect equal to +1 + 1 per 5 base attack bonus. | **Slip Between The Fabric (Su):** Whenever you successfully make an attack action or attack of opportunity against a creature, you may teleport 5 feet into an unoccupied space. You must have line of sight to that space to teleport into it. For every 10 base attack bonus you possess, increase the distance you can teleport with this effect by +5 feet. Teleporting more than 5 feet with this effect is taxing and may only be done a number of times each round equal to 1/2 your practitioner modifier (minimum 1). <br> In addition, whenever you take a 5-foot step, you may instead teleport 5 feet. This allows you to take a 5-foot step into difficult terrain. |
-| Animal | **Instincts (Ex):** If you would be caught flat-footed or lose your Dexterity bonus to AC for any reason, you may expend your martial focus as an immediate action. If you do, you cannot be caught flat-footed or lose your Dexterity bonus to AC for any reason until the start of your next turn. This can allow you to remove the penalties from being feinted in combat and may be used in response to an attack roll or effect targeting you while you would be flat-footed or be denied your Dexterity bonus to AC. If you possess uncanny dodge, such as the rogue class feature, you do not need to expend your martial focus to use this ability. <br> **Mythic Note:** If an effect from a mythic source would cause you to become flat-footed or lose your Dexterity bonus to AC, you do not negate that effect unless you are also mythic. | **Feral Offense (Ex):** Once per round you may declare an attack to be either a precise or feral attack. You must use this ability before the attack roll is made. <br> If you choose to make a precise attack, you may roll twice on your attack roll, taking the better result. <br> If you choose to make a feral attack, your attack gains one of the following: <br> * **Fell:** Your attack gains the trip universal monster ability, allowing you to trip as a free action that does not provoke an attack of opportunity if you successfully hit with the attack. <br> * **Howl:** If you successfully hit with the attack, you may attempt an Intimidate check to demoralize the target of your attack as a free action. <br> * **Tear:** Your attack deals an additional amount of bleed damage equal to your practitioner modifier (minimum 1). |
-| Construct | **Golem Blood (Su):** You gain a morale bonus on saving throws made to resist magical effects (e.g. spells, supernatural abilities, spell-like abilities) equal to +1 + 1 per 6 base attack bonus. You gain this bonus even if you could not normally benefit from a morale bonus (such as having immunity to mind-affecting effects). You cannot be a willing target of any spell or magic sphere effect and must attempt saving throws to resist all spells or magic sphere effects, even those cast by your allies, except your own. | **Overclock (Ex):** You may expend your martial focus as a free action to overclock your body for 2 rounds + 1 round per 10 base attack bonus. While overclocked you gain the following benefits: <br> * +10 feet bonus to all modes of movement you possess + 5 per 5 base attack bonus. <br> * Your weapon attacks deal an additional 1d4 damage + 1d4 per 5 base attack bonus that is half electricity and half fire damage. <br> * Whenever you make a successful attack action, you may make one extra attack as a swift action. <br> While you are overclocked, you must use your berserking ability with the Atavism (adrenaline) for your construct heritage each round otherwise overclock’s duration immediately ends. If you overclock while benefiting from this effect, the duration stacks. <br> When overclock’s duration ends, you are fatigued for 1 minute for each round you were overclocked, or exhausted for 1 hour if you are already fatigued by this effect. Fatigue and exhaustion from this ability bypass any immunity you may possess. |
-| Dragon | **Draconic Heir (Su):** Choose a single dragon type (see the sorcerer’s draconic bloodline for examples, Pathfinder Roleplaying Game Core Rulebook). Once chosen, this cannot be changed. <br> You gain energy resistance equal to your base attack bonus against your dragon’s energy type which stacks with all other forms of energy resistance you possess. If you select a dragon aligned with a physical damage type (e.g. an etheric esoteric dragon with bludgeoning damage), you instead gain damage reduction against that damage type equal to 1/2 your base attack bonus (minimum 1) which stacks with all other forms of damage reduction you possess. | **Dragon’s Fury (Su):** Whenever you successfully make an attack action, you may unleash your draconic power to create a 15-foot cone-shaped burst of energy. The cone originates from the struck target; the cone’s base includes the struck target’s square. Creatures in the cone’s area of effect take energy damage equal to 1d6 + your base attack bonus (Reflex half). The energy damage dealt is the same as your dragon’s energy type chosen for the draconic heir ability. You must wait at least 1d4 rounds between uses of this ability but may expend martial focus as a free action to ready this ability immediately. |
-| Fey | **Fey Trickster (Ex):** You reduce the action required to feint a creature by 1 step (standard to move, move to swift; minimum swift action). This reduction stacks with the Improved Feint feat, Fencing sphere Fast Feint talent, or other similar effects which reduce the action required to feint. <br> Whenever you successfully feint a creature, that creature is “bewildered” for 1d4 rounds. You do not provoke attacks of opportunity for moving through a bewildered creature’s threatened area. If you would perform an action that would provoke an attack of opportunity, you may expend your martial focus as a free action that can be taken even when it is not your turn. If you do, that action does not provoke an attack of opportunity from any bewildered creatures (but otherwise provokes normally). <br> The bewildered condition can be removed by any ability or effect which could remove the battered condition. <br> **Note:** Abilities which grant you the ability to feint as part of another action (Dual Wielding sphere Cunning Combo) or through a specific ability (Illusion sphere Mage Feint) do not have their action required reduced by this ability. | **Fairy Dust Strike (Su):** Whenever you successfully make an attack action against a creature, you gain concealment (20% miss chance) against that creature until the end of your next turn. The miss chance from this concealment increases by 5% for every 3 points of base attack bonus you possess; at 50% miss chance or higher, this is treated as total concealment. This concealment is an illusion effect. |
-| Humanoid | **Aura of Kings (Su):** You gain a 30-foot aura. Once per round, if another ally inside this aura would roll a saving throw, you may allow that ally to use your saving throw bonus instead. You must use this ability before the roll is made. | **Lead The Way (Ex):** Whenever you successfully make an attack action against a creature, that creature is marked until the end of your next turn. You and your allies gain a circumstance bonus on attack rolls against creatures marked with this ability equal to +1 + 1 per 10 base attack bonus. <br> Alternatively, you may spend a standard action to mark one creature you can see. The bonuses against a target marked this way increase by +1. <br> Whenever an ally attacks a creature marked by this ability, you may expend your martial focus as an immediate action to allow that ally to roll twice on their attack roll, taking the better result. You must use this ability before the first attack roll is made. |
-| Magical Beast | **Creature of Myth (Su):** You add 1/2 your base attack bonus (minimum 1) to the DC of any skill check made against you (such as to Intimidate you, feint you in combat, use the Scout sphere scout ability against you). <br> In addition, you gain an insight bonus equal to 1/4 your base attack bonus (minimum 1) on opposed skill checks you attempt (such as your Stealth check to hide opposed by other creatures’ Perception). You do not gain this bonus on opposed skill checks made to foil another creature’s check (such as your Perception check made to foil an opponent’s Stealth check). | **Rending Fang (Ex):** You gain a unique rending attack which may only be used as part of this ability. This rending attack deals damage using one natural weapon, unarmed strike, or manufactured weapon you wield plus 1-1/2 times your practitioner modifier (replacing your Strength modifier or other ability score used when dealing damage with this weapon). You may make this rending attack with a ranged weapon. <br> Once per round, whenever you confirm a critical hit or a creature fails a saving throw against a combat sphere effect used as part of an attack action made with a natural weapon, unarmed strike, or manufactured weapon (such as the Berserker sphere Heavy Swing (exertion), Dual Wielding sphere Dizzying Combination, etc.), you may use your rending attack against that creature as a free action that can be taken even when it is not your turn. |
-| Monstrous Humanoid | **Superiority (Su):** You gain an insight bonus on saving throws made to resist any effect originating from a creature that does not possess your base creature type equal to +1 + 1 per 7 base attack bonus (e.g. resisting an extraordinary effect from a construct, where your base creature type is humanoid). | **Monstrous Power (Ex):** Damage you deal ignores an amount of damage reduction, energy resistance, or hardness the target possesses equal to 1/2 your base attack bonus (minimum 1). <br> You may expend your martial focus as a free action to briefly surge with strength, gaining a size bonus to your Strength and Dexterity for 1 round equal to +2 + 2 per 5 base attack bonus. You may only use this ability once every 1d4 + 1 rounds. |
-| Ooze | **Adaptive Absorption (Su):** After you take hit point damage of any kind, you gain damage reduction (DR/adamantine) or energy resistance equal to 1/2 your base attack bonus (minimum 1) against that type of damage until the end of your next turn. This stacks with any other damage reduction or energy resistance you may possess. <br> This ability can provide damage reduction or energy resistance against unusual damage types (such as force, negative, or untyped energy damage). For the purposes of this ability, damage reduction and energy resistance are both referred to as “absorption”. Physical attacks which deal multiple damage types simultaneously (such as a bite natural attack) bypass the damage reduction granted by this ability if you do not possess damage reduction against each damage type dealt by the attack. <br> You may maintain up to 2 types of absorption + 1 absorption for every 10 base attack bonus you possess. If you would gain a new absorption while already maintaining the maximum number of absorptions, you may choose one absorption to replace, or choose to not gain the new absorption. <br> If an attack deals multiple damage types, choose only one type of damage to gain absorption against. For example, if you take damage from an attack dealing piercing, slashing, and fire damage, you choose only one of those damage types to gain absorption against. <br> If you use your berserking ability with the Atavism (adrenaline) for your ooze heritage, you retain each absorption you have gained from this ability for an additional round. | **Oozemolded Armaments (Su):** Any weapon you wield gains the greater transformative special ability. You may activate this greater transformative special ability once per round a free action while using your berserking ability with the Atavism (adrenaline) for your ooze heritage. Any round you are not using the Atavism (adrenaline) for your ooze heritage, any weapons transformed with this ability return to their normal form. Natural attacks, unarmed strikes, and ammunition (such as shuriken) cannot be transformed into other weapon types, and you cannot transform weapons into natural attacks, unarmed strikes, or ammunition. <br> In addition, you can treat any weapon transformed by this ability as though it were still the original weapon for any feats, effects, or abilities you have that specifically apply to that type of weapon (such as Weapon Focus, fighter’s weapon training, warpriest’s sacred weapon, or faithful shepherd cleric’s divine guidance divine work). For example, a battleaxe transformed into a spear would still be treated as a battleaxe for the Weapon Focus feat, weapon training for axes, or as your deity’s favored weapon despite being a different type of weapon, in addition to being treated as a spear and having the properties of a spear. Feats, effects and abilities cannot apply to a transformed weapon more than once (possessing Weapon Focus for the base weapon and the new form would not grant benefits twice). You cannot use abilities that require a specific type of weapon if the transformed weapon’s current form does not support it. |
-| Outsider | **Planar Heritor (Su):** Choose a single outsider subtype or specific outsider (subject to GM discretion). Once chosen, this cannot be changed. From your chosen outsider subtype, select a number of defensive abilities your outsider type possesses equal to your practitioner modifier (minimum 1). If you could choose more options than your outsider subtype possesses, you may choose additional options your outsider type does not possess (subject to GM discretion). These selections are made when you first gain this feat and may be changed after 8 hours of rest. <br> You do not gain the selected defensive abilities. Instead, whenever you attempt a saving throw against an effect with a descriptor that would be mitigated, resisted, or ignored by a selected defensive ability, you may roll twice, taking the better result. <br> **Note:** Defensive abilities include resistance, immunity, and saving throw bonuses (ex. acid resistance, petrification immunity, +2 vs. poison). If a defensive ability grants benefits against a creature type, alignment, or other open ended effect, you do not gain any benefits against that effect unless it is a descriptor or condition. For example, choosing “evil” would allow you to roll twice against effects with the evil descriptor, not any effect from an evil source. | **Planar Pressure (Su):** Any damage you deal is treated as being aligned damage for the purposes of overcoming damage reduction, regeneration, and other abilities. These alignment types are determined by the chosen outsider’s alignments for the planar heritor ability (ex. a chosen outsider being a devil would grant evil and lawful). If the outsider chosen for the planar heritor ability is true neutral, you may expend your martial focus as a free action to choose a single alignment for this ability for a number of rounds equal to your practitioner modifier (minimum 1). <br> In addition, opponents treat each square within 5 feet + 5 feet per 10 base attack bonus of you as difficult terrain. |
-| Plant | **Blossoming Barrier (Su):** Whenever you take hit point damage, reduce the amount of damage taken by the number of blossoms you have. Then, if you are still damaged by the effect, you gain 1 blossom for every 3 base attack bonus you possess. You may only have a number of blossoms equal to 3 + 1/2 your base attack bonus at any time, and you lose all blossoms at the start of your turn. Unlike damage reduction, damage prevented by this ability cannot be bypassed. | **Punishing Brambles (Su):** Whenever you successfully make an attack action, the target is entangled for 1 round + 1 round for every 3 base attack bonus you possess (Reflex negates). If a target entangled by this ability fails their saving throw against this ability again, the entangled condition’s duration stacks. A target entangled by this ability can attempt to remove the entangled condition as a move action that does not provoke attacks of opportunity by attempting a Reflex saving throw, Escape Artist check, or Strength ability check with a DC equal to this ability’s DC. Alternatively, the entangling mass of brambles and vines can be cut away as a standard action, or as a move action by another creature. <br> In addition, after a target entangled by this ability makes an attack roll or casts a non-harmless spell that targets you or includes you in its effect, the target takes piercing damage equal to your practitioner modifier (minimum 1) and must succeed at a Reflex saving throw or fall prone. A target that successfully avoids falling prone cannot be knocked prone by this ability until the start of their next turn. |
-| Undead | **Thief Of Life (Su):** You are healed by both positive and negative energy effects if they could heal a living or undead creature. You take damage from positive or negative energy effects normally if it could not heal a living or undead creature (such as a cleric’s channel negative energy to harm or a Destruction sphere Nether Blast dealing negative energy damage). <br> Whenever an opponent within 30 feet of you receives any amount of healing (except fast healing or regeneration), you also heal an amount equal to half the healing received unless that opponent succeeds at a Will saving throw. If multiple opponents would be healed simultaneously by the same effect, you only receive healing once from this ability even if multiple opponents fail their saving throw. | **Lash Of The Pale Court (Su):** Whenever you successfully make an attack action against a creature, that creature is marked with a necrotic scar. Necrotic scars last until the end of your next turn; whenever you mark a creature with a necrotic scar, refresh the duration of each active necrotic scar. A creature with a necrotic scar is referred to as a “scarred creature” by this ability. Necrotic scars from different sources are tracked separately. Abilities and effects which refer to scarred creatures or necrotic scars are limited to necrotic scars you have created, not necrotic scars from any source. <br> Scarred creatures suffer negative energy damage equal to your practitioner modifier at the start of their turn (to a maximum of your base attack bonus). If a scarred creature possesses necrotic scars from multiple sources, they only suffer this damage once. <br> You may expend your martial focus as an immediate action to end any number of active necrotic scars, causing each scarred creature to take negative energy damage equal to 1d6 + 1d6 per 5 base attack bonus (Fortitude half). For each necrotic scar ended this way, the saving throw DC increases by +1. <br> If a scarred creature would be marked by you an additional time, you may target 1 unmarked creature + 1 additional unmarked creature per 10 base attack bonus within close range of the creature (25 feet + 5 feet per 2 base attack bonus), marking them with a necrotic scar until the end of your next turn. <br> Negative energy damage from this ability cannot heal undead creatures. |
-| Vermin | **Vermin Heart (Ex):** You gain a natural armor bonus that stacks with other sources of natural armor equal to +1 + 1 per 5 base attack bonus. In addition, you reduce any damage taken from a swarm by 1/2 your base attack bonus (minimum 1). Whenever you would attempt a saving throw against a swarm’s abilities, you roll twice and take the better result. | **Swarmblade (Ex):** Your weapon attacks deal full damage to swarms, regardless of the swarm’s immunity to weapon damage (if any; damage reduction applies as normal). <br> In addition, whenever you successfully make an attack action against a non-swarm creature, that creature gains infested wounds (Fortitude negates). Whenever a creature with infested wounds attempts to take a standard or full-round action, they suffer untyped damage equal to your practitioner modifier + 1/2 your base attack bonus (minimum 1). This counts as taking damage when casting a spell for the purpose of concentration checks. This is treated as a swarm’s distraction ability for the purposes of immunities. Creatures immune to effects which require a Fortitude save are not immune to this ability, but instead gain a +4 bonus on their saving throw to resist the effects (such as constructs and undead). <br> A creature with infested wounds can end this effect by either receiving healing greater than or equal to the infesting attack’s damage or by spending a move action. The effects of infested wounds do not stack; if a creature would gain infested wounds more than once, use the strongest instance of infested wounds to determine how much healing is required to remove the effect and how much damage is inflicted. |
-
-#### Improvised Doctrine (Combat)
-
-*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
-
-*You've studied every playbook long enough to write one.*
-
-**Prerequisites:** Warleader associated skill 8 ranks; Warleader (any three talents).
-
-**Benefit:** Once per day as a free action, you may select a single Warleader sphere talent you do not possess. You gain that talent as a temporary talent for 24 hours, or until the next time you rest and regain your resources.
-
-#### Inkbound Portents
-
-Whether through acts of charlatanism or infusing your paints with latent magic, you’ve become skilled with using your paints to depict cryptic, almost prophetic imagery.
-
-**Prerequisites:** Alchemy sphere (War Paint (formulae)).
-
-**Benefit:** Instead of applying a prepared war paint to a creature, you may pour a prepared war paint over a blank piece of parchment, scroll, or other surface that can easily hold writing. You may then spend 10 minutes concentrating on a specific action or event in the near future, as the paint forms a short, cryptic phrase or abstract image. This acts as the Augury (divine) Divination talent, using your ranks in Craft (alchemy) as your caster level, except you always get a meaningful reply. You may use this ability a number of times per day equal to your casting or practitioner modifier, whichever is higher (minimum 1).
-
-**Special:** If you possess another (divine) talent from the Divination sphere, you may benefit from that sphere effect instead of Augury.
-
-#### Iron Palm (combat)
-
-**Prerequisite:** Shield sphere, Improved Unarmed Strike.
-
-**Benefit:** As long as you have one hand free, your free hand is considered to be a shield for the purposes of using active defense and talents that augment active defense. Talents that require you to be wielding a shield or have a shield equipped such as Deflecting Shield, Hardened Shield and Shield Skate do not gain the benefits of this talent.
-
-Additionally, the talents you possess within the Shield sphere count towards your unarmed damage progression.
-
-**Author's Note:** This feat does not allow you to perform shield bashes with a free hand or unarmed strike.
-
-#### Journeyman Cohorts
-
-*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*
-
-**Prerequisite:** Leadership sphere 3 associated skill ranks; Leadership sphere ((cohort) package).
-
-**Effect:** Each cohort you *recruit* also selects one cohort job they do not possess, gaining that job's 2nd-level benefit and their choice between that job's 3rd and 5th-level benefits. For example, a wildling could select warrior, gaining their 2nd-level skill bonuses and their choice between armor or weapon training.
-
-Additional job benefits granted by this feat can be retrained similar to retraining a feat, such as with Training Coordination's training regiment option.
-
-#### Marking Quarry (Combat)
-
-*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
-
-*Nobody is better at pointing out the mission critical targets.*
-
-**Prerequisite:** Warleader ((tactic) package).
-
-**Effect:** Once per round as a free action, you may mark a creature within the area of your *tactic* for 1 round. The first time an ally successfully damages the marked target, that attack deals an additional 1d6 damage and the mark is consumed.
-
-When you mark a creature this way, you may have the mark carry one additional effect based on other Warleader sphere talents you possess (chosen each time you mark). If an additional effect requires a saving throw, the saving throw DC is equal to your Warleader sphere DC.
-
-- **Aggression Doctrine:** The marked target is also **exposed** (this functions identically to synchronized strikes, bypassing an amount of defenses, or all defenses if synchronized strike's *tactical coordination* is active).
-- **Alertness Doctrine:** When the marked target is struck, for 1 round, that creature suffers a -20 penalty on Stealth checks and cannot benefit from darkness, invisibility, *blur* or *displacement*, and other similar effects.
-- **Antimagic Doctrine:** When the marked target is struck, if that creature attempts to cast a spell within 1 round, they cannot choose to cast a spell without it being cast defensively.
-- **Control Doctrine:** When the marked target is struck, that creature is also battered for 1 round.
-- **Covert Doctrine:** When the marked target is struck, for 1 round, that creature treats all other creatures more than 5 feet away as having concealment and is unable to automatically pinpoint their locations with special senses (such as blindsight) (Will negates).
-- **Deescalation Doctrine:** When the marked target is struck, that creature exits or abandons any approach, stance, style (or similar ability) they are maintaining and loses concentration over any effects they are concentrating on (Will negates).
-- **Defense Doctrine:** When the marked target is struck, the striking ally gains a +2 circumstance bonus to their AC for 1 round.
-- **Fearmonger Doctrine:** When the marked target is struck, for 1 round, that creature must succeed on a Will save whenever it attempts to move closer to you, the striking ally, or the source of any fear effect currently affecting it. Failing this save does not prevent the creature from using that movement differently (for example, a creature could attempt to move closer to you, fail, and instead spend that movement moving toward a different creature).
-- **Mobility Doctrine:** When the marked target is struck, the striking ally may immediately move up to 10 feet. This movement does not provoke attacks of opportunity from the struck target.
-- **Safety Doctrine:** When the marked target is struck, the striking ally gains a +2 circumstance bonus to all saving throws for 1 round.
-- **Survival Doctrine:** When the marked target is struck, the striking ally gains a number of temporary hit points equal to 1d6 + 1/2 your Warleader associated skill ranks. These temporary hit points last for 1 round.
-
-#### Mixed Conscription
-
-*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*
-
-**Prerequisites:** Leadership sphere 5 associated skill ranks; ability to control one or more non-Leadership sphere subordinates (see text).
-
-**Benefit:** Other subordinates under your control are treated as one of your cohorts, and you are treated as their leader.
-
-A subordinate may now benefit from (cohort) talents, except those that permanently improve or modify a cohort, such as quartermaster's skill, talented cohorts, and training regiment. Class features or other abilities that further customize cohorts similarly do not apply to subordinates (such as a knight captain's squires or a sheriff's deputies).
 
 #### Mixed Coordinator (combat)
 
@@ -663,22 +389,6 @@ You rely on muscle memory and strength to enhance your reflexes.
 
 **Special:** The Muscular Reflexes feat does not allow a rogue to use her opportunist ability more than once per round. The attacks of opportunity from this feat do not stack with those granted by Combat Reflexes or similar feats, but Muscular Reflexes counts as Combat Reflexes when meeting the prerequisites for feats.
 
-#### Observant Oppurrtunist (combat)
-
-The soft paws pace around their target, slowly analyzing and waiting for the moment to pounce.
-
-**Prerequisites:** Perception 5 ranks, Scout sphere.
-
-**Benefits:** The first attack of opportunity you make each round against a scouted target does not require you to expend an attack of opportunity.
-
-After a successful attack action or attack of opportunity against an unscouted target, you may scout that target as an immediate action. You may expend 1 attack of opportunity to use this ability instead of spending an immediate action. A scout attempt made this way is performed before damage is rolled (and may allow you to use effects or abilities which apply against a scouted target as part of this attack).
-
-#### Overwatch (combat)
-
-**Prerequisites:** Covering Fire talent, Guardian sphere (patrol package)
-
-**Benefit:** You may treat the area you threaten with the Covering Fire talent as if it were a patrol, benefiting from guardian sphere talents as normal, except that you cannot move within this threatened area outside of normal turn order like with a standard patrol.
-
 #### Perfect Calm (combat)
 
 **Prerequisite:** Martial focus.
@@ -687,20 +397,6 @@ After a successful attack action or attack of opportunity against an unscouted t
 
 **Special:** This feat counts as having Iron Will for the purposes of meeting prerequisites of feats.
 
-#### Petrifying Pennant
-
-*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
-
-*The banner is more than enough to instill fear.*
-
-**Prerequisites:** Warleader sphere 5 associated skill ranks; Warleader sphere (Heraldry) or banner class feature.
-
-**Benefit:** Enemies within range of and able to see your presented banner suffer a -2 penalty on saving throws against fear effects. Intimidate checks made to demoralize enemies in the same area gain a +4 circumstance bonus.
-
-Whenever you or an ally causes a creature penalized by this feat to become frightened or panicked, they may have that creature treat your presented banner as the source of their fear (determining which direction they must then flee away from).
-
-**Special - (tactic) package:** If you possess the (tactic) package, your *tactic*'s area also applies these effects.
-
 #### Piranha Strike (combat)*
 
 You make a combination of quick strikes, sacrificing accuracy for multiple, minor wounds that prove exceptionally deadly.
@@ -708,14 +404,6 @@ You make a combination of quick strikes, sacrificing accuracy for multiple, mino
 **Prerequisites:** Weapon Finesse, base attack bonus +1.
 
 **Benefit:** When wielding a light weapon, you can choose to take a -1 penalty on all melee attack rolls and combat maneuver checks to gain a +2 bonus on all melee damage rolls. This bonus to damage is halved (-50%) if you are making an attack with an off-hand weapon or secondary natural weapon. When your base attack bonus reaches +4, and for every 4 points thereafter, the penalty increases by -1 and the bonus on damage rolls increases by +2. You must choose to use this feat before the attack roll, and its effects last until your next turn. The bonus damage does not apply to touch attacks or effects that do not deal hit point damage. This feat cannot be used in conjunction with the Power Attack feat.
-
-#### Potent Pigments
-
-You’ve learned to mix your paints to be exceptionally vibrant, increasing their effects.
-
-**Prerequisites:** Alchemy sphere (War Paint (formulae)).
-
-**Benefit:** Treat the effects of any war paint you apply to yourself as though you had 5 additional ranks in Craft (alchemy). If you have 10 or more ranks in Craft (alchemy), you instead treat war paints you apply to yourself as though you had 10 additional ranks in Craft (alchemy).
 
 #### Pouncing Sweep (combat)
 
@@ -739,30 +427,6 @@ You are adept at anticipating and interrupting spellcasters.
 
 You can reveal this plan once per week.
 
-#### Projectile Vomit
-
-*Source: [Spheres Apocrypha: Dipsomania](https://www.drivethrurpg.com/product/299935/Spheres-Apocrypha-Dipsomania?affiliate_id=549120)*
-
-**Prerequisites:** Barroom sphere (Purge), base attack bonus +5.
-
-**Benefits:** When you utilize your Purge talent, you can instead perform it as a standard action, vomiting on all squares in a close-ranged cone, instead of the normal area. All affected squares are treated affected as per the Purge talent, and creatures in the cone must succeed at a Fortitude save or become sickened for one round. At base attack bonus +10 or higher, creatures that fail their Fortitude save are instead nauseated for one round, and sickened for one minute afterwards. A success negates the nauseate and reduces the sickened duration to one round.
-
-#### Radiant Quests
-
-*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*
-
-*Not every job needs a sword. Some just need someone willing to ask around.*
-
-**Prerequisites:** Leadership associated skill 5 ranks.
-
-**Benefits:** Once per week, you can complete various tasks for your contacts or followers to make money. Make a Leadership sphere associated skill check, earning a number of gold pieces equal to your check's result times your associated skill ranks. You can only complete a radiant quest once per week.
-
-When completing a radiant quest on behalf of a contact or follower, you must spend 8 hours working towards their radiant quest (similar to working a profession or spending downtime to make money). A radiant quest typically involves a negligible amount of combat, exploration, and travel, which you are considered to have succeeded on during the downtime.
-
-When you complete a radiant quest for a contact, if that contact is *recruited* as a cohort within 1 week, they gain a +2 morale bonus to attack rolls, damage rolls, saving throws, and skill checks for 48 hours.
-
-When you complete a radiant quest for a follower, for the next 48 hours, that follower provides their assistance as though your Leadership sphere associated skill ranks and practitioner modifier were 2 higher.
-
 #### Rigorous Student
 
 **Benefit:** Choose a class you have levels in. For the purpose of calculating the DCs of class features based on that class’ level (such as scholar material impositions and thaumaturge invocations), you treat your class level as 4 higher, to a maximum of your character level. This does not improve other effects of the class feature (for example, a character with 18 Intelligence, 5 levels in scholar, and 3 levels in conscript would have a flashbang save DC of 18, but their sulfuric detonation would only add 2d6 damage to their flashbang). This does not affect abilities which use your caster level to calculate the DC.
@@ -774,65 +438,6 @@ When you complete a radiant quest for a follower, for the next 48 hours, that fo
 **Prerequisites:** Athletics sphere, Boxing sphere (Shoulder Roll).
 
 **Benefits:** As long as you have martial focus, whenever a creature makes a melee attack against you while you are using a movement mode corresponding to a package you possess, you may use shoulder roll against the attack without it counting towards your one usage per round.
-
-#### Shared Harmonies
-
-*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*
-
-*Songs are better sung with two voices.*
-
-**Prerequisites:** Leadership sphere ((cohort) package); bardic performance or raging song class feature.
-
-**Benefit:** You gain the following abilities:
-
-- **Pass the Song:** When you begin or continue your bardic performance or raging song, as a free action, you may allow a cohort within close range (25 ft. + 5 ft. / 2 Leadership associated skill ranks) to continue performing the performance or song on your behalf. The cohort may maintain the performance or song as a standard action each round, and expends your rounds of bardic performance or raging song to do so.
-
-  You can begin new bardic performances or raging songs while a cohort maintains your previous performance or song; multiple instances of the same performance or song do not stack.
-- **Start a Harmony:** When you begin your bardic performance or raging song, your cohort may harmonize with you as a joint standard action. Each round the cohort harmonizes with you, or continues to harmonize each round after the first as a standard action, you treat the effects of your bardic performance or raging song as though your class level were 6 higher to determine its effects.
-
-  A cohort cannot harmonize with you after you've begun your performance or song, and only a single cohort can harmonize this way.
-
-**Special - Minstrel Cohorts (see text):** If your cohort possesses the bardic performance or raging song class feature, they may select this feat as though they met the prerequisites. When the cohort uses their bardic performance or raging song, you or other cohorts may harmonize with them.
-
-**Special - Bardic Performance-like features:** Subject to GM discretion, class features that function similar to bardic performance (such as symbiat's psionics) may be used with this feat, and may be used to meet this feat's prerequisites.
-
-#### Shared Rage (Combat)
-
-*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*
-
-*Sharing your feelings never smashed so many helmets.*
-
-**Prerequisites:** Leadership sphere ((cohort) package); rage or bloodrage class feature, or other ability to rage (see text).
-
-**Benefit:** Whenever you rage, as a joint swift action, cohorts within close range (25 ft. + 5 ft. / 2 Leadership associated skill ranks) may also begin raging as a "**shared rage**", gaining all the benefits and penalties of rage, except the shared rage's benefits are half your normal rage's benefits (i.e. if your rage would grant +4 Strength and Constitution, the cohort only gains +2 Strength and Constitution). A cohort can rage indefinitely, so long as you are raging, and becomes fatigued for a duration when they stop raging.
-
-You may choose to allow a cohort's shared rage to benefit from your full rage benefits (instead of half); however, if you do, each round the cohort spends raging expends your rounds of rage. If you rage due to a spell or similar effect with a fixed duration, the cohort instead expends time from that effect's total duration (such as reducing a *rage* spell's duration by an additional round).
-
-**Special - Wildling Cohorts (see text):** If your cohort possesses the rage class feature, they may select this feat as though they met the prerequisites. When the cohort rages, you may enter a shared rage with them.
-
-#### Stinging Bee (combat)
-
-**Prerequisites:** Boxing sphere (Floating Butterfly (stance)), base attack bonus +4.
-
-While maintaining the Floating Butterfly stance, you retain the competence bonus to damage rolls when making a counter punch, in addition to gaining an insight bonus to Reflex saving throws equal to the dodge bonus granted by the talent.
-
-#### Strategy to Action (Combat)
-
-*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
-
-*"I love it when a plan comes together."*
-
-**Prerequisites:** Warleader sphere 10 associated skill ranks; Warleader sphere (Wargames).
-
-**Benefit:** When you reveal your *combat stratagem* plan as a full-round action, you gain 1 additional swift action during that turn. These additional swift actions cannot be used to cast spells (such as with the Quicken Spell metamagic feat).
-
-If you use one of these additional swift actions to issue a cavalier's challenge, paladin's smite evil, or other similar ability that provides benefits against a single target, each ally benefitting from your Warleader sphere effects also receives half that challenge, smite evil, or other ability's numeric effects (numeric bonuses to rolls or statistics, but not other miscellaneous benefits of the smite or challenge, such as smite evil's ability to bypass damage reduction).
-
-#### Studied Scout
-
-**Prerequisites:** Scout sphere, studied target or studied combat class feature.
-
-**Benefit:** When you use your studied target or studied combat class feature, you may use your scout ability on the same target as a free action.
 
 #### Style Synthesis (combat)
 
@@ -852,52 +457,9 @@ In addition, you gain the following option:
 
 - **Engaging Patrol (dual sphere):** Whenever you *patrol*, you may *engage tactics* as part of that same action. If you do, instead of selecting a (zone) talent, you may select an additional (tactic); the chosen (tactic)'s *tactical presence* and *tactical coordination* apply to the area of your patrol.
 
-#### Tactician's Acumen (Combat)
-
-*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
-
-*Your intricate plans come into motion faster.*
-
-**Prerequisites:** Warleader sphere ((tactic) package); see text.
-
-**Benefit:** You gain the following benefits based on the following class features you possess:
-
-- **Warleader (Heraldry) or Banner class feature:** Allies benefitting from your *tactic* are always considered to be within range of and able to see your banner, including for when you wave your banner.
-- **Tactician class feature:** When you use your tactician ability, you may also *engage tactics* as part of that same action. In addition, an ally benefitting from your tactician ability benefits from your *tactic*'s *tactical presence*, even if they would not be within range.
-
-#### Talented Followers, Improved
-
-*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*
-
-*It's almost like they could do this all without me.*
-
-**Prerequisites:** Leadership sphere 5 associated skill ranks; Leadership ((follower) package, Good Help).
-
-**Benefit:** Followers can select 1 additional sphere option as part of their assistance (such as a blacksmith now selecting 3 Artifice flourishes instead of 2, thanks to the talented followers legendary option and this feat).
-
-**Special:** This feat may be selected an additional time at 10 Hit Dice and every 5 additional Hit Dice after; each time this feat is selected, your followers select 1 additional option.
-
-#### Target Spotting
-
-**Prerequisites:** Scout sphere, favored enemy class feature.
-
-**Benefit:** Whenever you scout an enemy, you may expend your martial focus to treat them, for the duration of the scout, as your favored enemy for the purpose of your favored enemy ability. You receive the maximum bonuses against them that your favored enemy feature can grant.
-
 #### Technological Training
 
 **Benefit:** Reduce the penalties you suffer when using technician inventions that are not your own by half. If the technician who made the invention possesses Aesthetic Insight, these penalties are reduced to 0.
-
-#### Theurgical Disciples
-
-*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*
-
-*Faith is strongest when kneeling before the same altar.*
-
-**Prerequisite:** Leadership ((cohort) package); domain or inquisition class feature, cohort same alignment as you (see text).
-
-**Benefit:** You gain a +2 bonus to Knowledge (religion) skill checks. If you have 10 or more ranks in Knowledge (religion), this bonus increases to +4.
-
-In addition, each cohort that shares an alignment with you and that worships the same deity as you gains access to a single domain or inquisition that could be granted by your deity's portfolio. Cohorts use their cohort level as their effective cleric level when determining the domain or inquisition's effects.
 
 #### Through The Long Night (combat)
 
@@ -918,16 +480,6 @@ You are the bane of those who believe they stand atop the world.
 **Prerequisites:** Con 15, Giantslayer, base attack bonus +10.
 
 **Benefit:** The bonus granted by your Giantslayer feat when performing or resisting a combat maneuver against a foe who is at least 1 size category larger than yourself increases to +2 per size category larger than yourself the opponent is. In addition, you can now use combat maneuvers against targets 2 size categories larger than would normally be allowed (instead of just 1 size category as allowed by the Giantslayer feat).
-
-#### True Rage (combat)
-
-Your mastery over adrenaline walks hand in hand with anger.
-
-**Prerequisites:** Berserker sphere (any (adrenaline) talent), base attack bonus +6.
-
-**Benefit:** When berserking, when you choose to benefit from an (adrenaline) talent, you do not lose the temporary hit points granted by the base berserking ability. This does not allow you to benefit from two (adrenaline) talents at the same time.
-
-**Normal:** When berserking, a creature who chooses to benefit from an (adrenaline) talent does not gain the temporary hit points from the base berserking ability.
 
 #### Two-Weapon Rend (combat)*
 
@@ -963,22 +515,6 @@ If you possess the Dazzling Display feat or Gladiator sphere, whenever you could
 
 **Special:** This feat counts as having the Skill Focus feat for either Intimidate or Stealth, chosen when you gain this feat, for the purposes of meeting prerequisites.
 
-#### Vaporized Formulae
-
-*Source: [Tandem Talents](https://www.drivethrurpg.com/product/282809/Spheres-Apocrypha-Tandem-Talents?affiliate_id=549120)*
-
-**Prerequisites:** Alchemy sphere ((formulae) package)
-
-**Benefit:** You can increase the Craft DC of a formulae by 10 to turn the formulae from a liquid to a gaseous state. A vaporized formulae that would require a Reflex save instead requires a Fortitude save, otherwise functioning as the original formulae. A formulae talent that can only be used on a single target (such as Panacea and Salve) can also be vaporized, allowing it to be thrown as a ranged touch attack with a range increment of 10 feet. Creatures within a 5-foot radius burst of the point of contact gain the benefits of the chosen formulae.
-
-**Note:** The 5-foot radius effect only applies to formulae that would normally affect a single target. Formulae that normally affect an area or multiple targets in an area have their radius unchanged when used with this feat.
-
-#### Vermin Master
-
-**Prerequisites:** Beastmastery sphere (Bee Keeper), able to tame creatures of the vermin type.
-
-**Benefit:** Swarms and creatures of the vermin type no longer count as twice their Hit Dice against the total amount of Hit Dice you may have tame at once.
-
 #### Versed Student
 
 **Benefit:** Choose a class you have levels in. For the purpose of determining class features selected individually at advancing levels you may select (such as alchemist discoveries, shifter bestial traits, striker arts, and witch hexes), you treat your level in that class as 4 higher, to a maximum of your character level. For example, a character with 4 levels in mageknight and 6 levels in shifter who has selected shifter with this feat may select bestial traits as if they were a 10th-level shifter (although they would have a total of three bestial traits, not 5). This does not include advanced rogue talents, grand hexes, and other such abilities which would normally only be selectable starting at higher levels unless you already have access to such abilities from one of your classes. This feat does not grant any such abilities when it is taken, nor does it cause levels in any class to count as levels in other classes for the purpose of determining the effects of class abilities.
@@ -994,16 +530,6 @@ If you possess the Dazzling Display feat or Gladiator sphere, whenever you could
 In addition, whenever you deal the Scout sphere Calibrating Wiggle’s bonus precision damage to a target, you may regain martial focus as a free action that can be taken even when it is not your turn.
 
 **Special:** Abilities which function similarly to the Fencing sphere Footwork talent may be used to qualify for this feat in place of the Footwork talent (such as the Warp sphere Emergency Teleport talent, swashbuckler’s dodging panache deed, or other ability subject to GM discretion), and may treat evading an attack with such an abilities as using the Footwork talent for the purposes of this feat.
-
-#### Zodiac Tattoos*
-
-Mystical tattoos ward you from harm and transform your skin into protective armor.
-
-**Prerequisites:** Craft (tattoos) 5 ranks, Unarmored Training or AC Bonus class feature.
-
-**Benefit:** Covering your body in these intricate tattoos etched by your own hand, you gain the ability to have your skin enchanted with armor special abilities as though it was a suit of +1 leather armor. You cannot have a total bonus of armor special abilities higher than +6. You cannot use this ability to add any armor special abilities that add a flat gp amount to their cost instead of a bonus equivalent.
-
-* This feat is previously published, and is reprinted here for ease of use.
 
 ---
 

@@ -706,24 +706,6 @@
    "options": []
   },
   {
-   "id": "wrestling/devouring-finish-combat",
-   "name": "Devouring Finish",
-   "kind": "feat",
-   "sphere": "Wrestling",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [
-    "combat"
-   ],
-   "talentTags": [],
-   "prerequisites": "Wrestling sphere, Brain Consumption.",
-   "source": "Spheres Apocrypha: Radiant and Righteous",
-   "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#devouring-finish-combat",
-   "md": "**Prerequisites:** Wrestling sphere, Brain Consumption.\n\n**Benefit:** Whenever you reduce a creature that you are grappling to 0 or fewer hit points or render it unconscious, you may devour its brain as a free action. This kills the creature if it does not possess some form of regeneration or other ability which would allow it to survive without a brain.",
-   "options": []
-  },
-  {
    "id": "wrestling/grappling-caster-champion-combat",
    "name": "Grappling Caster",
    "kind": "feat",
@@ -788,6 +770,24 @@
    "status": "current",
    "url": "Spheres-Of-Might/Wrestling/Wrestling-Sphere-Drawbacks#stage-wrestler",
    "md": "You do not gain the snag ability. You gain Worked Match with this drawback.\n\n**Incompatible:** Jobber.",
+   "options": []
+  },
+  {
+   "id": "wrestling/devouring-finish-combat",
+   "name": "Devouring Finish",
+   "kind": "feat",
+   "sphere": "Wrestling",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [
+    "combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Wrestling sphere, Brain Consumption.",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Might/Wrestling/Wrestling-Sphere-Feats#devouring-finish-combat",
+   "md": "**Prerequisites:** Wrestling sphere, Brain Consumption.\n\n**Benefit:** Whenever you reduce a creature that you are grappling to 0 or fewer hit points or render it unconscious, you may devour its brain as a free action. This kills the creature if it does not possess some form of regeneration or other ability which would allow it to survive without a brain.",
    "options": []
   }
  ]

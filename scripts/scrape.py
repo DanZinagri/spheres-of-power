@@ -2579,6 +2579,104 @@ def link_pf_class_feats(home_md: str, pf_pages: dict[str, str]) -> str:
     return "\n".join(out)
 
 
+# the shared feat pages whose feats for one sphere alone move to that sphere's feats page
+SPHERE_FEAT_PAGES = ["practitioner-feats", "operative-feats"]
+
+
+def distribute_sphere_feats(pages: dict, feats_pages: dict[str, str], derived_notes: list, plan: bool = False) -> None:
+    """A feat on the shared practitioner / operative feat pages whose prerequisites name exactly one
+    sphere (the sphere itself, one of its packages, or one of its talents) goes to that sphere's
+    "<Sphere> Sphere Feats" page (made if the sphere has none, and then linked from the home page and
+    read by the compendium). Feats for two spheres, and those that name none, stay."""
+    level_of = lambda l: len(m.group(1)) if (m := re.match(r"(#{1,6}) ", l)) else 0
+    norm = lambda t: re.sub(r"[^a-z0-9 ]", "", t.lower().replace("’", "").replace("'", "")).strip()
+    by_file = {pg.filename: pg for pg in pages.values()}
+    spheres = {}
+    for name, cfg in COMPENDIUM.items():
+        pg = by_file.get(cfg["pages"][0][0]) if cfg.get("pages") else None
+        if pg:
+            spheres[name] = pg
+    # talents by name, where only one sphere has a talent of that name (from the last compendium build)
+    talents: dict[str, set] = {}
+    index = COMPENDIUM_OUT / "index.json"
+    if index.exists():
+        for e in json.loads(index.read_text(encoding="utf-8")):
+            if e.get("sphere") in spheres and ("talent" in e.get("kind", "") or e.get("kind") == "package"):
+                talents.setdefault(norm(e["name"]), set()).add(e["sphere"])
+    names = sorted(spheres, key=len, reverse=True)
+
+    def sphere_of(heading: str, block: str):
+        if re.search(r"dual sphere", heading, re.I):
+            return None
+        pre = re.search(r"\*\*Prerequisites?:?\*\*:?\s*(.*)", block)
+        if not pre:
+            return None
+        text = pre.group(1)
+        found = {s for s in names if re.search(rf"\b{re.escape(s)}\b(?=\s+sphere|\s*\(|\s+associated)", text)}
+        for part in re.split(r"[,;()]|\bor\b|\band\b", text):
+            hit = talents.get(norm(part))
+            if hit and len(hit) == 1:
+                found |= hit
+        return next(iter(found)) if len(found) == 1 else None
+
+    report = []
+    for slug in SPHERE_FEAT_PAGES:
+        src = next((pg for pg in pages.values() if pg.slug == slug), None)
+        path = CONTENT / src.folder / f"{src.filename}.md" if src else None
+        if not (path and path.exists()):
+            continue
+        lines = path.read_text(encoding="utf-8").split("\n")
+        i, changed = 0, False
+        while i < len(lines):
+            if not lines[i].startswith("#### "):
+                i += 1
+                continue
+            end = next((j for j in range(i + 1, len(lines)) if 0 < level_of(lines[j]) <= 4 or lines[j].strip() == "---"), len(lines))
+            block = lines[i:end]
+            sphere = sphere_of(lines[i], "\n".join(block))
+            pg = spheres.get(sphere) if sphere else None
+            if not pg:
+                i = end
+                continue
+            title = f"{sphere} Sphere Feats"
+            fname = feats_pages.get(pg.filename) or clean_filename(title)
+            dest = next((f for f in (CONTENT / pg.folder / f"{fname}.md", *CONTENT.rglob(f"{fname}.md")) if f.exists() and ARCHIVE not in f.relative_to(CONTENT).parts), None)
+            feat = re.sub(r"\s*[\[(].*$", "", lines[i][5:].strip())
+            if plan:
+                # only make the page a feat will need (so the home page can link it); the feats move later
+                if not dest:
+                    dest = CONTENT / pg.folder / f"{fname}.md"
+                    dest.write_text("\n".join(["---", f"title: {yaml_str(title)}", f"source: {SITE}/{src.slug}", "parent: " + yaml_str(f"[[{pg.filename}]]"), "---"])
+                                    + "\n" + GENERATED_MARK + "\n", encoding="utf-8")
+                    feats_pages[pg.filename] = fname
+                    derived_notes.append((f"{pg.folder}/{fname}.md".lstrip("/"), f"{pg.folder}/{pg.filename}.md".lstrip("/")))
+                    if not any(t[0] == fname for t in COMPENDIUM[sphere]["pages"]):
+                        COMPENDIUM[sphere]["pages"].append((fname, "(page)", "feat", 4))
+                i = end
+                continue
+            if dest:
+                text = dest.read_text(encoding="utf-8")
+                tl = text.split("\n")
+                levels = [level_of(l) for l in tl if level_of(l) >= 2]
+                mark = "#" * (max(set(levels), key=levels.count) if levels else 4)
+                if not any(level_of(l) and norm(re.sub(r"\s*[\[(].*$", "", l.lstrip("#"))) == norm(feat) for l in tl):
+                    dest.write_text(text.rstrip("\n") + "\n\n" + "\n".join([f"{mark} {block[0][5:].strip()}", *block[1:]]).strip("\n") + "\n", encoding="utf-8")
+            else:
+                i = end
+                continue
+            report.append(f"{feat} -> {sphere}")
+            lines = lines[:i] + lines[end:]
+            changed = True
+        if changed:
+            note = "*Feats that need only one sphere are on that sphere's own feats page (see the home page's sphere lists).*"
+            if note not in lines:
+                at = next((k for k, l in enumerate(lines) if l.startswith("#### ")), None)
+                if at is not None:
+                    lines[at:at] = [note, ""]
+            path.write_text(collapse_dividers("\n".join(lines)), encoding="utf-8")
+    print(f"Sphere feats moved: {len(report)}:", "; ".join(report))
+
+
 def drop_pointer_section(pages: dict, slug: str, title: str) -> None:
     """Remove a top-level section that only points at another page (its link is on the home page now)."""
     pg = next((x for x in pages.values() if x.slug == slug), None)
@@ -7884,6 +7982,7 @@ def convert(with_images: bool) -> None:
         dest.write_text(f"---\ntitle: {yaml_str(title)}\n---\n{GENERATED_MARK}\n\n{body}\n", encoding="utf-8")
     move_practitioner_feats(pages, feats_pages, derived_notes)
     distribute_extra_feats(pages, class_pages, class_options, derived_notes)
+    distribute_sphere_feats(pages, feats_pages, derived_notes, plan=True)
     pf_class_feats = collect_archetype_feats(pages, class_pages, class_options, derived_notes)
     write_sample_page(sample_groups, pages)
     write_link_families(pages, derived_notes)
@@ -7949,6 +8048,7 @@ def convert(with_images: bool) -> None:
     # (the later steps can bring more "Extra ..." feats to the shared pages,
     # and put some on class feats pages: a second look, now that they have)
     distribute_extra_feats(pages, class_pages, class_options, derived_notes, create=False)
+    distribute_sphere_feats(pages, feats_pages, derived_notes)
     drop_pointer_section(pages, "practitioner-feats", "Tinker Sphere Feats")
     print(f"Search types: {tag_search_types()}")
     print(f"Compendium entries: {build_compendium()}")

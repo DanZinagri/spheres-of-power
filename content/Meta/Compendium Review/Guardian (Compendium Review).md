@@ -67,8 +67,7 @@ What the compendium extractor takes from the Guardian pages (57 entries; approve
 
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
-| [[Practitioner-Feats#mounted-protector\|Mounted Protector]] | General |  | — | Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package). | Polished Leadership |
-| [[Practitioner-Feats#overwatch-combat\|Overwatch]] | General | (combat) | — | Covering Fire talent, Guardian sphere (patrol package) | Polished Leadership |
+| [[Practitioner-Feats#mounted-protector\|Mounted Protector]] | General |  | — | Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package). | Polished Commander & Warleader |
 | [[Practitioner-Feats#tactical-patrol-combat\|Tactical Patrol]] | General | (Combat) | — | Guardian sphere ((patrol) package); Warleader sphere ((tactic) package). | Polished Commander & Warleader |
 | [[Champion-Feats#goading-malediction-champion\|Goading Malediction]] | General | (Champion) | — | Fate sphere, Guardian sphere ((challenge) package). | Spheres Apocrypha: Radiant and Righteous |
 | [[Champion-Feats#harrying-hospitaler-champion\|Harrying Hospitaler]] | General | (Champion) | — | Guardian sphere (Defend Other), Life sphere (Empathic Healing). | Spheres Apocrypha: Radiant and Righteous |
@@ -76,6 +75,7 @@ What the compendium extractor takes from the Guardian pages (57 entries; approve
 | [[Champion-Feats#otherworldly-host-champion\|Otherworldly Host]] | General | (Champion) | — | Alteration sphere (Outsider Body), Guardian sphere. | Spheres Apocrypha: Banshee's Gasp |
 | [[Champion-Feats#sword-of-omens-champion\|Sword Of Omens]] | General | (Champion) | — | Fate sphere, Guardian sphere, base attack bonus +5. | Spheres Apocrypha: Radiant and Righteous |
 | [[Champion-Feats#guarded-fane-champion-dual-sphere\|Guarded Fane]] | General | (Champion), (Dual Sphere) | — | Guardian sphere ((patrol) package), any magical sphere (see text). | Diamond Spheres: Harmony & Discord |
+| [[Guardian-Sphere-Feats#overwatch-combat\|Overwatch]] | General | (combat) | — | Covering Fire talent, Guardian sphere (patrol package) |  |
 
 ## Drawbacks (6)
 

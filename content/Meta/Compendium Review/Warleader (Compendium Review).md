@@ -77,16 +77,16 @@ What the compendium extractor takes from the Warleader pages (55 entries; approv
 
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
-| [[Practitioner-Feats#amateur-field-officer\|Amateur Field Officer]] | General |  | — | Base attack bonus +5; Warleader sphere; no levels in a class that grant the enhanced tactic class feature. | Polished Commander & Warleader |
-| [[Practitioner-Feats#battle-fanfare-combat\|Battle Fanfare]] | General | (Combat) | — | Warleader sphere; bardic performance or raging song class feature. | Polished Commander & Warleader |
 | [[Practitioner-Feats#booming-boast-combat-dual-sphere\|Booming Boast]] | General | (Combat), (Dual Sphere) | — | Gladiator sphere, Warleader sphere ((shout) package). | Polished Commander & Warleader |
-| [[Practitioner-Feats#constant-chatter-combat\|Constant Chatter]] | General | (Combat) | — | Warleader associated skill 6 ranks; Warleader ((shout) package). | Diamond Spheres: Erudition & Esoterica |
-| [[Practitioner-Feats#drink-and-directive-combat-dual-sphere\|Drink and Directive]] | General | (Combat), (Dual Sphere) | — | Barroom sphere; Warleader sphere. | Spheres Apocrypha: Radiant and Righteous |
-| [[Practitioner-Feats#escutcheon-combat\|Escutcheon]] | General | (Combat) | Clangorous Shout (deflect) (dual sphere) | Shield sphere; Warleader sphere (Heraldry) or banner class feature. | Polished Leadership |
-| [[Practitioner-Feats#hunting-party-combat\|Hunting Party]] | General | (Combat) | — | Warleader sphere 5 associated skill ranks; Duelist sphere; Warleader sphere. | Polished Leadership |
-| [[Practitioner-Feats#improvised-doctrine-combat\|Improvised Doctrine]] | General | (Combat) | — | Warleader associated skill 8 ranks; Warleader (any three talents). | Spheres Apocrypha: The Inheritor and Improved Atavism Heritages |
-| [[Practitioner-Feats#marking-quarry-combat\|Marking Quarry]] | General | (Combat) | — | Warleader ((tactic) package). | Polished Leadership |
-| [[Practitioner-Feats#petrifying-pennant\|Petrifying Pennant]] | General |  | — | Warleader sphere 5 associated skill ranks; Warleader sphere (Heraldry) or banner class feature. | Polished Leadership |
-| [[Practitioner-Feats#strategy-to-action-combat\|Strategy to Action]] | General | (Combat) | — | Warleader sphere 10 associated skill ranks; Warleader sphere (Wargames). | Polished Leadership |
+| [[Practitioner-Feats#drink-and-directive-combat-dual-sphere\|Drink and Directive]] | General | (Combat), (Dual Sphere) | — | Barroom sphere; Warleader sphere. | Polished Commander & Warleader |
+| [[Practitioner-Feats#escutcheon-combat\|Escutcheon]] | General | (Combat) | Clangorous Shout (deflect) (dual sphere) | Shield sphere; Warleader sphere (Heraldry) or banner class feature. | Polished Commander & Warleader |
+| [[Practitioner-Feats#hunting-party-combat\|Hunting Party]] | General | (Combat) | — | Warleader sphere 5 associated skill ranks; Duelist sphere; Warleader sphere. | Polished Commander & Warleader |
 | [[Practitioner-Feats#tactical-patrol-combat\|Tactical Patrol]] | General | (Combat) | — | Guardian sphere ((patrol) package); Warleader sphere ((tactic) package). | Polished Commander & Warleader |
-| [[Practitioner-Feats#tacticians-acumen-combat\|Tactician's Acumen]] | General | (Combat) | — | Warleader sphere ((tactic) package); see text. | Polished Commander & Warleader |
+| [[Warleader-Sphere-Feats#amateur-field-officer\|Amateur Field Officer]] | General |  | — | Base attack bonus +5; Warleader sphere; no levels in a class that grant the enhanced tactic class feature. | Polished Commander & Warleader |
+| [[Warleader-Sphere-Feats#battle-fanfare-combat\|Battle Fanfare]] | General | (Combat) | — | Warleader sphere; bardic performance or raging song class feature. | Polished Commander & Warleader |
+| [[Warleader-Sphere-Feats#constant-chatter-combat\|Constant Chatter]] | General | (Combat) | — | Warleader associated skill 6 ranks; Warleader ((shout) package). | Polished Commander & Warleader |
+| [[Warleader-Sphere-Feats#improvised-doctrine-combat\|Improvised Doctrine]] | General | (Combat) | — | Warleader associated skill 8 ranks; Warleader (any three talents). | Polished Commander & Warleader |
+| [[Warleader-Sphere-Feats#marking-quarry-combat\|Marking Quarry]] | General | (Combat) | — | Warleader ((tactic) package). | Polished Commander & Warleader |
+| [[Warleader-Sphere-Feats#petrifying-pennant\|Petrifying Pennant]] | General |  | — | Warleader sphere 5 associated skill ranks; Warleader sphere (Heraldry) or banner class feature. | Polished Commander & Warleader |
+| [[Warleader-Sphere-Feats#strategy-to-action-combat\|Strategy to Action]] | General | (Combat) | — | Warleader sphere 10 associated skill ranks; Warleader sphere (Wargames). | Polished Commander & Warleader |
+| [[Warleader-Sphere-Feats#tacticians-acumen-combat\|Tactician's Acumen]] | General | (Combat) | — | Warleader sphere ((tactic) package); see text. | Polished Commander & Warleader |

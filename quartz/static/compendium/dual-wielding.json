@@ -604,24 +604,6 @@
    "options": []
   },
   {
-   "id": "dual-wielding/harmonious-swordplay-combat",
-   "name": "Harmonious Swordplay",
-   "kind": "feat",
-   "sphere": "Dual Wielding",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [
-    "combat"
-   ],
-   "talentTags": [],
-   "prerequisites": "Dual Wielding sphere, Improved Unarmed Strike.",
-   "source": "Polished Leadership",
-   "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#harmonious-swordplay-combat",
-   "md": "**Prerequisites:** Dual Wielding sphere, Improved Unarmed Strike.\n\n**Benefits:** As long as you have martial focus, dual attacks made with a manufactured weapon and an unarmed strike remove the attack penalty from dual attack for one manufactured weapon (as long as it is not being treated as an unarmed strike), and any unarmed strikes add your full Strength bonus to damage rolls instead of half for an off-hand attack.",
-   "options": []
-  },
-  {
    "id": "dual-wielding/arrow-juggle",
    "name": "Arrow Juggle",
    "kind": "drawback",
@@ -683,6 +665,24 @@
    "status": "current",
    "url": "Spheres-Of-Might/Dual-Wielding/Dual-Wielding-Sphere-Drawbacks#versatile-weapon-wielder",
    "md": "You do not gain the dual attack ability. You gain Paired Proficiency with this drawback.",
+   "options": []
+  },
+  {
+   "id": "dual-wielding/harmonious-swordplay-combat",
+   "name": "Harmonious Swordplay",
+   "kind": "feat",
+   "sphere": "Dual Wielding",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [
+    "combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Dual Wielding sphere, Improved Unarmed Strike.",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Might/Dual-Wielding/Dual-Wielding-Sphere-Feats#harmonious-swordplay-combat",
+   "md": "**Prerequisites:** Dual Wielding sphere, Improved Unarmed Strike.\n\n**Benefits:** As long as you have martial focus, dual attacks made with a manufactured weapon and an unarmed strike remove the attack penalty from dual attack for one manufactured weapon (as long as it is not being treated as an unarmed strike), and any unarmed strikes add your full Strength bonus to damage rolls instead of half for an off-hand attack.",
    "options": []
   }
  ]

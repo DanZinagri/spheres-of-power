@@ -67,8 +67,8 @@ What the compendium extractor takes from the Wrestling pages (47 entries; approv
 
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
-| [[Practitioner-Feats#devouring-finish-combat\|Devouring Finish]] | General | (combat) | — | Wrestling sphere, Brain Consumption. | Spheres Apocrypha: Radiant and Righteous |
 | [[Champion-Feats#grappling-caster-champion-combat\|Grappling Caster]] | General | (Champion), (Combat) | — | Wrestling sphere or Improved Grapple; casting class feature or ability to cast spells. | Spheres Apocrypha: Radiant and Righteous |
+| [[Wrestling-Sphere-Feats#devouring-finish-combat\|Devouring Finish]] | General | (combat) | — | Wrestling sphere, Brain Consumption. |  |
 
 ## Drawbacks (3)
 

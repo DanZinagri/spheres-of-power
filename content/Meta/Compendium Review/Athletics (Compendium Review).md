@@ -114,9 +114,9 @@ What the compendium extractor takes from the Athletics pages (97 entries; approv
 
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
-| [[Practitioner-Feats#mounted-athlete\|Mounted Athlete]] | General |  | — | Athletics sphere, Beastmastery sphere ((ride) package). | Polished Leadership |
+| [[Practitioner-Feats#mounted-athlete\|Mounted Athlete]] | General |  | — | Athletics sphere, Beastmastery sphere ((ride) package). | Polished Commander & Warleader |
 | [[Practitioner-Feats#pouncing-sweep-combat\|Pouncing Sweep]] | General | (combat) | — | Athletics sphere, Open Hand sphere. | Polished Commander & Warleader |
-| [[Practitioner-Feats#rolling-serpent-combat\|Rolling Serpent]] | General | (combat) | — | Athletics sphere, Boxing sphere (Shoulder Roll). | Polished Leadership |
+| [[Practitioner-Feats#rolling-serpent-combat\|Rolling Serpent]] | General | (combat) | — | Athletics sphere, Boxing sphere (Shoulder Roll). | Polished Commander & Warleader |
 | [[Champion-Feats#dimensional-athlete-champion\|Dimensional Athlete]] | General | (Champion) | — | Athletics sphere, Warp sphere. | Diamond Spheres: Hustle & Bustle |
 | [[Champion-Feats#mobile-caster-champion\|Mobile Caster]] | General | (Champion) | — | Athletics sphere (Mobile Striker), caster level 1st. | Spheres Apocrypha: Banshee's Gasp |
 | [[Champion-Feats#sojourner-champion\|Sojourner]] | General | (Champion) | — | Perform (dance) 3 ranks, Performance sphere ((dance) package); Athletics sphere or Warp sphere. | Spheres Apocrypha: Radiant and Righteous |

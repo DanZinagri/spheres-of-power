@@ -684,56 +684,6 @@
    "options": []
   },
   {
-   "id": "scout/observant-oppurrtunist-combat",
-   "name": "Observant Oppurrtunist",
-   "kind": "feat",
-   "sphere": "Scout",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [
-    "combat"
-   ],
-   "talentTags": [],
-   "prerequisites": "Perception 5 ranks, Scout sphere.",
-   "source": "Polished Leadership",
-   "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#observant-oppurrtunist-combat",
-   "md": "The soft paws pace around their target, slowly analyzing and waiting for the moment to pounce.\n\n**Prerequisites:** Perception 5 ranks, Scout sphere.\n\n**Benefits:** The first attack of opportunity you make each round against a scouted target does not require you to expend an attack of opportunity.\n\nAfter a successful attack action or attack of opportunity against an unscouted target, you may scout that target as an immediate action. You may expend 1 attack of opportunity to use this ability instead of spending an immediate action. A scout attempt made this way is performed before damage is rolled (and may allow you to use effects or abilities which apply against a scouted target as part of this attack).",
-   "options": []
-  },
-  {
-   "id": "scout/studied-scout",
-   "name": "Studied Scout",
-   "kind": "feat",
-   "sphere": "Scout",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [],
-   "talentTags": [],
-   "prerequisites": "Scout sphere, studied target or studied combat class feature.",
-   "source": "Polished Commander & Warleader",
-   "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#studied-scout",
-   "md": "**Prerequisites:** Scout sphere, studied target or studied combat class feature.\n\n**Benefit:** When you use your studied target or studied combat class feature, you may use your scout ability on the same target as a free action.",
-   "options": []
-  },
-  {
-   "id": "scout/target-spotting",
-   "name": "Target Spotting",
-   "kind": "feat",
-   "sphere": "Scout",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [],
-   "talentTags": [],
-   "prerequisites": "Scout sphere, favored enemy class feature.",
-   "source": "Polished Leadership",
-   "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#target-spotting",
-   "md": "**Prerequisites:** Scout sphere, favored enemy class feature.\n\n**Benefit:** Whenever you scout an enemy, you may expend your martial focus to treat them, for the duration of the scout, as your favored enemy for the purpose of your favored enemy ability. You receive the maximum bonuses against them that your favored enemy feature can grant.",
-   "options": []
-  },
-  {
    "id": "scout/understand-thy-enemy",
    "name": "Understand Thy Enemy",
    "kind": "feat",
@@ -761,10 +711,10 @@
    ],
    "talentTags": [],
    "prerequisites": "Fencing sphere (Footwork), Scout sphere (Calibrating Wiggle).",
-   "source": "Tandem Talents",
+   "source": "Spheres Apocrypha: Swashbucklers",
    "status": "current",
    "url": "Spheres-Of-Might/Practitioner-Feats#wiggling-footsies-combat",
-   "md": "**Prerequisites:** Fencing sphere (Footwork), Scout sphere (Calibrating Wiggle).\n\n**Benefits:** Whenever you use the Fencing sphere Footwork talent in response to an attack made against you, you may also scout the attacker. If you successfully avoid the attack (e.g. missing or succeeding at a Reflex saving throw) and you have scouted the attacker (whether previously scouted or as part of this ability), you gain the Scout sphere Calibrating Wiggle’s bonus precision damage on your first successful attack made against the attacker before the end of your next turn, even if you do not make a charge attack against them.\n\nIn addition, whenever you deal the Scout sphere Calibrating Wiggle’s bonus precision damage to a target, you may regain martial focus as a free action that can be taken even when it is not your turn.\n\n**Special:** Abilities which function similarly to the Fencing sphere Footwork talent may be used to qualify for this feat in place of the Footwork talent (such as the Warp sphere Emergency Teleport talent, swashbuckler’s dodging panache deed, or other ability subject to GM discretion), and may treat evading an attack with such an abilities as using the Footwork talent for the purposes of this feat.",
+   "md": "**Prerequisites:** Fencing sphere (Footwork), Scout sphere (Calibrating Wiggle).\n\n**Benefits:** Whenever you use the Fencing sphere Footwork talent in response to an attack made against you, you may also scout the attacker. If you successfully avoid the attack (e.g. missing or succeeding at a Reflex saving throw) and you have scouted the attacker (whether previously scouted or as part of this ability), you gain the Scout sphere Calibrating Wiggle’s bonus precision damage on your first successful attack made against the attacker before the end of your next turn, even if you do not make a charge attack against them.\n\nIn addition, whenever you deal the Scout sphere Calibrating Wiggle’s bonus precision damage to a target, you may regain martial focus as a free action that can be taken even when it is not your turn.\n\n**Special:** Abilities which function similarly to the Fencing sphere Footwork talent may be used to qualify for this feat in place of the Footwork talent (such as the Warp sphere Emergency Teleport talent, swashbuckler’s dodging panache deed, or other ability subject to GM discretion), and may treat evading an attack with such an abilities as using the Footwork talent for the purposes of this feat.\n\n---\n\n*Archived: [[Practitioner Feats (Ultimate)|Ultimate version]] (before *Polished*)*",
    "options": []
   },
   {
@@ -933,6 +883,56 @@
    "status": "current",
    "url": "Spheres-Of-Might/Scout/Scout-Sphere-Drawbacks#veteran-warrior",
    "md": "You do not gain ranks in Stealth from the base sphere and cannot select talents that rely on or improve the Stealth skill. You gain Study Technique with this drawback. **Incompatible:** Hidden Eyes",
+   "options": []
+  },
+  {
+   "id": "scout/observant-oppurrtunist-combat",
+   "name": "Observant Oppurrtunist",
+   "kind": "feat",
+   "sphere": "Scout",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [
+    "combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Perception 5 ranks, Scout sphere.",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Might/Scout/Scout-Sphere-Feats#observant-oppurrtunist-combat",
+   "md": "The soft paws pace around their target, slowly analyzing and waiting for the moment to pounce.\n\n**Prerequisites:** Perception 5 ranks, Scout sphere.\n\n**Benefits:** The first attack of opportunity you make each round against a scouted target does not require you to expend an attack of opportunity.\n\nAfter a successful attack action or attack of opportunity against an unscouted target, you may scout that target as an immediate action. You may expend 1 attack of opportunity to use this ability instead of spending an immediate action. A scout attempt made this way is performed before damage is rolled (and may allow you to use effects or abilities which apply against a scouted target as part of this attack).",
+   "options": []
+  },
+  {
+   "id": "scout/studied-scout",
+   "name": "Studied Scout",
+   "kind": "feat",
+   "sphere": "Scout",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Scout sphere, studied target or studied combat class feature.",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Might/Scout/Scout-Sphere-Feats#studied-scout",
+   "md": "**Prerequisites:** Scout sphere, studied target or studied combat class feature.\n\n**Benefit:** When you use your studied target or studied combat class feature, you may use your scout ability on the same target as a free action.",
+   "options": []
+  },
+  {
+   "id": "scout/target-spotting",
+   "name": "Target Spotting",
+   "kind": "feat",
+   "sphere": "Scout",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Scout sphere, favored enemy class feature.",
+   "source": "",
+   "status": "current",
+   "url": "Spheres-Of-Might/Scout/Scout-Sphere-Feats#target-spotting",
+   "md": "**Prerequisites:** Scout sphere, favored enemy class feature.\n\n**Benefit:** Whenever you scout an enemy, you may expend your martial focus to treat them, for the duration of the scout, as your favored enemy for the purpose of your favored enemy ability. You receive the maximum bonuses against them that your favored enemy feature can grant.",
    "options": []
   }
  ]

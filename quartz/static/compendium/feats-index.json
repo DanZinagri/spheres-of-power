@@ -1035,102 +1035,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/catchy-tune",
-  "name": "Catchy Tune",
-  "system": "Spheres of Guile",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Performance"
-  ],
-  "prerequisites": "Associated skill 5 ranks, Performance sphere ((lyric) package).",
-  "source": "Diamond Spheres: Hustle & Bustle",
-  "url": "Other-Pages/Operative-Feats#catchy-tune",
-  "summary": "Whenever you would use a lyric on a creature, you may spend 1 use of skill leverage to delay its effects for up to a number of hours equal to your ranks in…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/dual-hack",
-  "name": "Dual Hack",
-  "system": "Spheres of Guile",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Spellhacking"
-  ],
-  "prerequisites": "Spellhacking sphere.",
-  "source": "Diamond Spheres: Invention & Ingenuity",
-  "url": "Other-Pages/Operative-Feats#dual-hack",
-  "summary": "Whenever you use hack magic as a standard action or longer, you can hack two targets instead of one–both targets must still be in range.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/earthly-aptitude",
-  "name": "Earthly Aptitude",
-  "system": "Spheres of Guile",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Study"
-  ],
-  "prerequisites": "Knowledge (dungeoneering) 3 ranks, Knowledge (engineering) 3 ranks, Knowledge (geography) 3 ranks, or Knowledge (nature) 3 ranks; Study sphere.",
-  "source": "Diamond Spheres: Thaumic Potential",
-  "url": "Other-Pages/Operative-Feats#earthly-aptitude",
-  "summary": "You are always aware of any changes of weather around you, and you can spend 1 minute to automatically predict the natural weather within the area for the next…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/operative-feats/fane-of-power-su",
-  "name": "Fane of Power",
-  "system": "Spheres of Guile",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Occultism"
-  ],
-  "prerequisites": "Occultism sphere, associated skill 5 ranks.",
-  "source": "Diamond Spheres: Thaumic Potential",
-  "url": "Other-Pages/Operative-Feats#fane-of-power-su",
-  "summary": "Whenever you perform a rite with unused ritual power, you can spend the remaining ritual power as a swift action to create a fane of power in the square(s) you…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/harmonizing-lyrics",
-  "name": "Harmonizing Lyrics",
-  "system": "Spheres of Guile",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Performance"
-  ],
-  "prerequisites": "Performance sphere ((lyric) package).",
-  "source": "Diamond Spheres: Erudition & Esoterica",
-  "url": "Other-Pages/Operative-Feats#harmonizing-lyrics",
-  "summary": "Your lyrics do not automatically end the effects of other lyrics (unless you choose to), allowing you to have multiple lyrics active on a single creature as…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/operative-feats/hex-woven-rite",
-  "name": "Hex-woven Rite",
-  "system": "Spheres of Guile",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Occultism"
-  ],
-  "prerequisites": "Occultism sphere, hex class feature.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
-  "url": "Other-Pages/Operative-Feats#hex-woven-rite",
-  "summary": "Whenever you perform a rite that targets 1 or more creatures, you can use a hex on one of the targets as a swift action.",
-  "file": "feats.json"
- },
- {
   "id": "feat/operative-feats/hymnal-verse-dual-sphere",
   "name": "Hymnal Verse",
   "system": "Spheres of Guile",
@@ -1142,7 +1046,7 @@
    "Performance"
   ],
   "prerequisites": "Occultism sphere, Performance sphere ((lyric) package).",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "Diamond Spheres: Hustle & Bustle",
   "url": "Other-Pages/Operative-Feats#hymnal-verse-dual-sphere",
   "summary": "Whenever you use a rite (and do so at least using a standard action), you can use a lyric as a free action.",
   "file": "feats.json"
@@ -1162,38 +1066,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/instant-defensive-hack",
-  "name": "Instant Defensive Hack",
-  "system": "Spheres of Guile",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Spellhacking"
-  ],
-  "prerequisites": "Associated skill 7 ranks, Spellhacking sphere, Prepared Hacking.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
-  "url": "Other-Pages/Operative-Feats#instant-defensive-hack",
-  "summary": "When another creature you are aware of casts a spell or other magical effect that targets you or includes you in its area, you can outwit that creature as a…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/judge-jury-executioner-combat",
-  "name": "Judge, Jury, Executioner",
-  "system": "Spheres of Guile",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [
-   "Vocation"
-  ],
-  "prerequisites": "Vocation sphere (Adept Administrator (specialty), Expert Administrator), crime sense specialty ability, Profession (barrister) 5 ranks.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
-  "url": "Other-Pages/Operative-Feats#judge-jury-executioner-combat",
-  "summary": "Whenever you make an attack or combat maneuver against a creature you have determined is guilty by your crime sense specialty ability (and you have done so…",
-  "file": "feats.json"
- },
- {
   "id": "feat/lingering-opening-combat",
   "name": "Lingering Opening",
   "system": "Spheres of Guile",
@@ -1205,22 +1077,6 @@
   "source": "Diamond Spheres: Erudition & Esoterica",
   "url": "Other-Pages/Operative-Feats#lingering-opening-combat",
   "summary": "When you deal discerning strike damage or expose vulnerability damage to a creature, you leave an opening you can exploit in the next 1 round.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/mystical-aptitude",
-  "name": "Mystical Aptitude",
-  "system": "Spheres of Guile",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Study"
-  ],
-  "prerequisites": "Knowledge (arcana) 3 ranks, Knowledge (planes) 3 ranks, or Knowledge (religion) 3 ranks; Study sphere.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
-  "url": "Other-Pages/Operative-Feats#mystical-aptitude",
-  "summary": "You can begin a theory as a free action whenever you successfully identify the magical technique of a creature or identify an extraplanar creature’s planar…",
   "file": "feats.json"
  },
  {
@@ -1238,54 +1094,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/operative-feats/omen-bound-strike-su",
-  "name": "Omen-bound Strike",
-  "system": "Spheres of Guile",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Occultism"
-  ],
-  "prerequisites": "Occultism sphere, associated skill 5 ranks.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
-  "url": "Other-Pages/Operative-Feats#omen-bound-strike-su",
-  "summary": "As a special attack action, you can make a single weapon attack in conjunction with performing an Occultism sphere rite.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/practiced-refinement",
-  "name": "Practiced Refinement",
-  "system": "Spheres of Guile",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Survivalism"
-  ],
-  "prerequisites": "Associated skill 5 ranks, Survivalism sphere ((harvest) package), favored enemy class feature.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
-  "url": "Other-Pages/Operative-Feats#practiced-refinement",
-  "summary": "You may have an additional refined component active at one time, as long as it originated from one of your favored enemies.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/prepared-hacking",
-  "name": "Prepared Hacking",
-  "system": "Spheres of Guile",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Spellhacking"
-  ],
-  "prerequisites": "Spellhacking sphere.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
-  "url": "Other-Pages/Operative-Feats#prepared-hacking",
-  "summary": "You can take a special move action to prepare yourself to hack magic using your spellhacking instrument to alter a magical effect as it activates.",
-  "file": "feats.json"
- },
- {
   "id": "feat/public-renown",
   "name": "Public Renown",
   "system": "Spheres of Guile",
@@ -1297,22 +1105,6 @@
   "source": "Diamond Spheres: Erudition & Esoterica",
   "url": "Other-Pages/Operative-Feats#public-renown",
   "summary": "You gain the influence and rapid persuasion abilities of the envoy class, but cannot use the deep discouragement ability.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/operative-feats/ritual-specialization",
-  "name": "Ritual Specialization",
-  "system": "Spheres of Guile",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Occultism"
-  ],
-  "prerequisites": "Occultism sphere, associated skill 5 ranks.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
-  "url": "Other-Pages/Operative-Feats#ritual-specialization",
-  "summary": "When you select this feat, choose one (ritual) talent you possess—you gain the following benefits when using the chosen (ritual) talent:",
   "file": "feats.json"
  },
  {
@@ -1344,54 +1136,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/societal-aptitude",
-  "name": "Societal Aptitude",
-  "system": "Spheres of Guile",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Study"
-  ],
-  "prerequisites": "Knowledge (local) 3 ranks, Knowledge (nobility) 3 ranks, Knowledge (geography) 3 ranks, or Knowledge (history) 3 ranks; Study sphere.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
-  "url": "Other-Pages/Operative-Feats#societal-aptitude",
-  "summary": "Whenever you fail a Knowledge, Lore, or similar skill check to recall information, you instead recall a place, faction, or person that does know the…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/song-in-your-soul",
-  "name": "Song In Your Soul",
-  "system": "Spheres of Guile",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Performance"
-  ],
-  "prerequisites": "Performance sphere ((instrumental or lyric) package), associated ranks 10.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
-  "url": "Other-Pages/Operative-Feats#song-in-your-soul",
-  "summary": "Choose a single (instrumental) or (lyric) talent that you possess and have the appropriate package for—you gain the benefits of the chosen instrumental or…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/spring-in-your-step",
-  "name": "Spring In Your Step",
-  "system": "Spheres of Guile",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Performance"
-  ],
-  "prerequisites": "Performance sphere ((dance) package), associated ranks 10.",
-  "source": "Diamond Spheres: Hustle & Bustle",
-  "url": "Other-Pages/Operative-Feats#spring-in-your-step",
-  "summary": "Choose a single (dance) talent that you possess—you gain the benefits of the chosen (dance) talent as a constant effect, treating your dance area as being your…",
-  "file": "feats.json"
- },
- {
   "id": "feat/theoretical-initiate",
   "name": "Theoretical Initiate",
   "system": "Spheres of Guile",
@@ -1400,25 +1144,9 @@
   ],
   "spheres": [],
   "prerequisites": "",
-  "source": "Diamond Spheres: Invention & Ingenuity",
+  "source": "Diamond Spheres: Erudition & Esoterica",
   "url": "Other-Pages/Operative-Feats#theoretical-initiate",
   "summary": "You gain the hypothesis dice and theory bonus class features of a 1st-level theorist, gaining 2 additional hypothesis dice for every 4 levels you possess in…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/totemic-effigy-su",
-  "name": "Totemic Effigy",
-  "system": "Spheres of Guile",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Survivalism"
-  ],
-  "prerequisites": "Survivalism sphere ((dredge) and (harvest) package).",
-  "source": "Diamond Spheres: Invention & Ingenuity",
-  "url": "Other-Pages/Operative-Feats#totemic-effigy-su",
-  "summary": "Whenever you dredge an area as a standard action or longer, you can utilize a talisman as part of it, expending it in the process.",
   "file": "feats.json"
  },
  {
@@ -1430,7 +1158,7 @@
   ],
   "spheres": [],
   "prerequisites": "Extra Skill Talent.",
-  "source": "Diamond Spheres: Invention & Ingenuity",
+  "source": "Diamond Spheres: Erudition & Esoterica",
   "url": "Other-Pages/Operative-Feats#utilitarian-dilettante",
   "summary": "You gain two bonus skill talents with the [utility] tag.",
   "file": "feats.json"
@@ -1450,6 +1178,22 @@
   "source": "Diamond Spheres: Harmony & Discord",
   "url": "Other-Pages/Performance/Performance-Sphere-Feats#capoeirista-champion",
   "summary": "While you are prone, you can move at half speed (provoking attacks of opportunity as normal); this can be done as part of beginning a Performance sphere dance…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/catchy-tune",
+  "name": "Catchy Tune",
+  "system": "Spheres of Guile",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Performance"
+  ],
+  "prerequisites": "Associated skill 5 ranks, Performance sphere ((lyric) package).",
+  "source": "Diamond Spheres: Harmony & Discord",
+  "url": "Other-Pages/Performance/Performance-Sphere-Feats#catchy-tune",
+  "summary": "Whenever you would use a lyric on a creature, you may spend 1 use of skill leverage to delay its effects for up to a number of hours equal to your ranks in…",
   "file": "feats.json"
  },
  {
@@ -1503,6 +1247,22 @@
   "source": "Diamond Spheres: Harmony & Discord",
   "url": "Other-Pages/Performance/Performance-Sphere-Feats#graveborn-expression-champion-dual-sphere",
   "summary": "All undead creatures under your control can benefit from your Performance sphere abilities, even if they would otherwise be unable to (such as being unable to…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/harmonizing-lyrics",
+  "name": "Harmonizing Lyrics",
+  "system": "Spheres of Guile",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Performance"
+  ],
+  "prerequisites": "Performance sphere ((lyric) package).",
+  "source": "Diamond Spheres: Harmony & Discord",
+  "url": "Other-Pages/Performance/Performance-Sphere-Feats#harmonizing-lyrics",
+  "summary": "Your lyrics do not automatically end the effects of other lyrics (unless you choose to), allowing you to have multiple lyrics active on a single creature as…",
   "file": "feats.json"
  },
  {
@@ -1598,6 +1358,134 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/song-in-your-soul",
+  "name": "Song In Your Soul",
+  "system": "Spheres of Guile",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Performance"
+  ],
+  "prerequisites": "Performance sphere ((instrumental or lyric) package), associated ranks 10.",
+  "source": "Diamond Spheres: Harmony & Discord",
+  "url": "Other-Pages/Performance/Performance-Sphere-Feats#song-in-your-soul",
+  "summary": "Choose a single (instrumental) or (lyric) talent that you possess and have the appropriate package for—you gain the benefits of the chosen instrumental or…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/spring-in-your-step",
+  "name": "Spring In Your Step",
+  "system": "Spheres of Guile",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Performance"
+  ],
+  "prerequisites": "Performance sphere ((dance) package), associated ranks 10.",
+  "source": "Diamond Spheres: Hustle & Bustle",
+  "url": "Other-Pages/Performance/Performance-Sphere-Feats#spring-in-your-step",
+  "summary": "Choose a single (dance) talent that you possess—you gain the benefits of the chosen (dance) talent as a constant effect, treating your dance area as being your…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/dual-hack",
+  "name": "Dual Hack",
+  "system": "Spheres of Guile",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Spellhacking"
+  ],
+  "prerequisites": "Spellhacking sphere.",
+  "source": "Diamond Spheres: Thaumic Potential",
+  "url": "Other-Pages/Spellhacking/Spellhacking-Sphere-Feats#dual-hack",
+  "summary": "Whenever you use hack magic as a standard action or longer, you can hack two targets instead of one–both targets must still be in range.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/instant-defensive-hack",
+  "name": "Instant Defensive Hack",
+  "system": "Spheres of Guile",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Spellhacking"
+  ],
+  "prerequisites": "Associated skill 7 ranks, Spellhacking sphere, Prepared Hacking.",
+  "source": "Diamond Spheres: Thaumic Potential",
+  "url": "Other-Pages/Spellhacking/Spellhacking-Sphere-Feats#instant-defensive-hack",
+  "summary": "When another creature you are aware of casts a spell or other magical effect that targets you or includes you in its area, you can outwit that creature as a…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/prepared-hacking",
+  "name": "Prepared Hacking",
+  "system": "Spheres of Guile",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Spellhacking"
+  ],
+  "prerequisites": "Spellhacking sphere.",
+  "source": "Diamond Spheres: Thaumic Potential",
+  "url": "Other-Pages/Spellhacking/Spellhacking-Sphere-Feats#prepared-hacking",
+  "summary": "You can take a special move action to prepare yourself to hack magic using your spellhacking instrument to alter a magical effect as it activates.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/earthly-aptitude",
+  "name": "Earthly Aptitude",
+  "system": "Spheres of Guile",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Study"
+  ],
+  "prerequisites": "Knowledge (dungeoneering) 3 ranks, Knowledge (engineering) 3 ranks, Knowledge (geography) 3 ranks, or Knowledge (nature) 3 ranks; Study sphere.",
+  "source": "",
+  "url": "Other-Pages/Study/Study-Sphere-Feats#earthly-aptitude",
+  "summary": "You are always aware of any changes of weather around you, and you can spend 1 minute to automatically predict the natural weather within the area for the next…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/mystical-aptitude",
+  "name": "Mystical Aptitude",
+  "system": "Spheres of Guile",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Study"
+  ],
+  "prerequisites": "Knowledge (arcana) 3 ranks, Knowledge (planes) 3 ranks, or Knowledge (religion) 3 ranks; Study sphere.",
+  "source": "",
+  "url": "Other-Pages/Study/Study-Sphere-Feats#mystical-aptitude",
+  "summary": "You can begin a theory as a free action whenever you successfully identify the magical technique of a creature or identify an extraplanar creature’s planar…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/societal-aptitude",
+  "name": "Societal Aptitude",
+  "system": "Spheres of Guile",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Study"
+  ],
+  "prerequisites": "Knowledge (local) 3 ranks, Knowledge (nobility) 3 ranks, Knowledge (geography) 3 ranks, or Knowledge (history) 3 ranks; Study sphere.",
+  "source": "",
+  "url": "Other-Pages/Study/Study-Sphere-Feats#societal-aptitude",
+  "summary": "Whenever you fail a Knowledge, Lore, or similar skill check to recall information, you instead recall a place, faction, or person that does know the…",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/tactical-hypothesis-champion",
   "name": "Tactical Hypothesis",
   "system": "Spheres of Guile",
@@ -1668,6 +1556,22 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/practiced-refinement",
+  "name": "Practiced Refinement",
+  "system": "Spheres of Guile",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Survivalism"
+  ],
+  "prerequisites": "Associated skill 5 ranks, Survivalism sphere ((harvest) package), favored enemy class feature.",
+  "source": "Diamond Spheres: Invention & Ingenuity",
+  "url": "Other-Pages/Survivalism/Survivalism-Sphere-Feats#practiced-refinement",
+  "summary": "You may have an additional refined component active at one time, as long as it originated from one of your favored enemies.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/strategic-terrain-champion-dual-sphere",
   "name": "Strategic Terrain",
   "system": "Spheres of Guile",
@@ -1683,6 +1587,22 @@
   "source": "Diamond Spheres: Invention & Ingenuity",
   "url": "Other-Pages/Survivalism/Survivalism-Sphere-Feats#strategic-terrain-champion-dual-sphere",
   "summary": "Whenever you dredge an area, you can expend your martial focus to also apply the effects of a tactic to the area.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/totemic-effigy-su",
+  "name": "Totemic Effigy",
+  "system": "Spheres of Guile",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Survivalism"
+  ],
+  "prerequisites": "Survivalism sphere ((dredge) and (harvest) package).",
+  "source": "Diamond Spheres: Harmony & Discord",
+  "url": "Other-Pages/Survivalism/Survivalism-Sphere-Feats#totemic-effigy-su",
+  "summary": "Whenever you dredge an area as a standard action or longer, you can utilize a talisman as part of it, expending it in the process.",
   "file": "feats.json"
  },
  {
@@ -1866,6 +1786,22 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/judge-jury-executioner-combat",
+  "name": "Judge, Jury, Executioner",
+  "system": "Spheres of Guile",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [
+   "Vocation"
+  ],
+  "prerequisites": "Vocation sphere (Adept Administrator (specialty), Expert Administrator), crime sense specialty ability, Profession (barrister) 5 ranks.",
+  "source": "",
+  "url": "Other-Pages/Vocation/Vocation-Sphere-Feats#judge-jury-executioner-combat",
+  "summary": "Whenever you make an attack or combat maneuver against a creature you have determined is guilty by your crime sense specialty ability (and you have done so…",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/hybridized-specialty",
   "name": "Hybridized Specialty",
   "system": "Spheres of Guile",
@@ -1880,6 +1816,86 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/compound-mutagen",
+  "name": "Compound Mutagen",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Alchemy"
+  ],
+  "prerequisites": "Craft (alchemy) 10 ranks, Alchemy sphere ((toxin) package).",
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "url": "Spheres-Of-Might/Alchemy/Alchemy-Sphere-Feats#compound-mutagen",
+  "summary": "Whenever you create a mutagen that gives a choice between multiple options, you can choose two such options—for example, a Performance Enhancer could grant its…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/designer-drugs",
+  "name": "Designer Drugs",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Alchemy"
+  ],
+  "prerequisites": "Craft (alchemy) 7 ranks, Alchemy sphere (Pill Popper).",
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "url": "Spheres-Of-Might/Alchemy/Alchemy-Sphere-Feats#designer-drugs",
+  "summary": "Whenever you are subject to one of your Alchemy sphere mutagens, you can increase both the benefits and penalties by 2.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/inkbound-portents",
+  "name": "Inkbound Portents",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Alchemy"
+  ],
+  "prerequisites": "Alchemy sphere (War Paint (formulae)).",
+  "source": "Spheres Apocrypha: Alchemy Poisons 2",
+  "url": "Spheres-Of-Might/Alchemy/Alchemy-Sphere-Feats#inkbound-portents",
+  "summary": "Instead of applying a prepared war paint to a creature, you may pour a prepared war paint over a blank piece of parchment, scroll, or other surface that can…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/potent-pigments",
+  "name": "Potent Pigments",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Alchemy"
+  ],
+  "prerequisites": "Alchemy sphere (War Paint (formulae)).",
+  "source": "Spheres Apocrypha: Alchemy Poisons 2",
+  "url": "Spheres-Of-Might/Alchemy/Alchemy-Sphere-Feats#potent-pigments",
+  "summary": "Treat the effects of any war paint you apply to yourself as though you had 5 additional ranks in Craft (alchemy).",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/vaporized-formulae",
+  "name": "Vaporized Formulae",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Alchemy"
+  ],
+  "prerequisites": "Alchemy sphere ((formulae) package)",
+  "source": "Spheres Apocrypha: Alchemy Poisons 2",
+  "url": "Spheres-Of-Might/Alchemy/Alchemy-Sphere-Feats#vaporized-formulae",
+  "summary": "You can increase the Craft DC of a formulae by 10 to turn the formulae from a liquid to a gaseous state.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/extra-prowess",
   "name": "Extra Prowess",
   "system": "Spheres of Might",
@@ -1891,6 +1907,150 @@
   "source": "Spheres of Might",
   "url": "Spheres-Of-Might/Armiger/Armiger-Feats#extra-prowess",
   "summary": "Gain an additional prowess for which you qualify.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/cerebrevores-ecstasy-combat",
+  "name": "Cerebrevore’s Ecstasy",
+  "system": "Spheres of Might",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [
+   "Barroom"
+  ],
+  "prerequisites": "Barroom sphere, Brain Consumption.",
+  "source": "Spheres Apocrypha: Dipsomania",
+  "url": "Spheres-Of-Might/Barroom/Barroom-Sphere-Feats#cerebrevores-ecstasy-combat",
+  "summary": "Whenever you consume a creature’s brain using the Brain Consumption feat, you may gain the drunk status as if you had consumed an alcoholic drink.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/projectile-vomit",
+  "name": "Projectile Vomit",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Barroom"
+  ],
+  "prerequisites": "Barroom sphere (Purge), base attack bonus +5.",
+  "source": "Spheres Apocrypha: Dipsomania",
+  "url": "Spheres-Of-Might/Barroom/Barroom-Sphere-Feats#projectile-vomit",
+  "summary": "When you utilize your Purge talent, you can instead perform it as a standard action, vomiting on all squares in a close-ranged cone, instead of the normal area.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/adopt-animal-ally",
+  "name": "Adopt Animal Ally",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Beastmastery"
+  ],
+  "prerequisites": "Beastmastery sphere (handle animal) package, an animal or vermin companion.",
+  "source": "",
+  "url": "Spheres-Of-Might/Beastmastery/Beastmastery-Sphere-Feats#adopt-animal-ally",
+  "summary": "If your animal or vermin companion dies, you may make one of your tame creatures your new companion without the normal mourning period.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/companion-trigger-combat",
+  "name": "Companion Trigger",
+  "system": "Spheres of Might",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [
+   "Beastmastery"
+  ],
+  "prerequisites": "Animal Companion class feature, Mount class feature, or Beastmastery sphere.",
+  "source": "",
+  "url": "Spheres-Of-Might/Beastmastery/Beastmastery-Sphere-Feats#companion-trigger-combat",
+  "summary": "When your animal companion or a creature you are mounted on succeeds on a combat maneuver, you may expend your martial focus as a free action even when it is…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/defenders-bonds",
+  "name": "Defender’s Bonds",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Beastmastery"
+  ],
+  "prerequisites": "Beastmastery sphere; lay on hands or sentinel’s reserve class feature, character level 3rd.",
+  "source": "",
+  "url": "Spheres-Of-Might/Beastmastery/Beastmastery-Sphere-Feats#defenders-bonds",
+  "summary": "Whenever you would heal yourself or gain temporary hit points from your lay on hands ability or by spending a reserve point, you may also affect one animal…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/vermin-master",
+  "name": "Vermin Master",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Beastmastery"
+  ],
+  "prerequisites": "Beastmastery sphere (Bee Keeper), able to tame creatures of the vermin type.",
+  "source": "",
+  "url": "Spheres-Of-Might/Beastmastery/Beastmastery-Sphere-Feats#vermin-master",
+  "summary": "Swarms and creatures of the vermin type no longer count as twice their Hit Dice against the total amount of Hit Dice you may have tame at once.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/desperate-focus-combat",
+  "name": "Desperate Focus",
+  "system": "Spheres of Might",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [
+   "Berserker"
+  ],
+  "prerequisites": "Berserker sphere (Deathless).",
+  "source": "Spheres Apocrypha: Radiant and Righteous",
+  "url": "Spheres-Of-Might/Berserker/Berserker-Sphere-Feats#desperate-focus-combat",
+  "summary": "Once per round while berserking and below 0 hit points, you may use the benefits of a class feature, combat talent, feat, or other ability which requires you…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/improved-atavism",
+  "name": "Improved Atavism",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Berserker"
+  ],
+  "prerequisites": "Berserker sphere (Atavism (adrenaline)), base attack bonus +3.",
+  "source": "Spheres Apocrypha: Radiant and Righteous",
+  "url": "Spheres-Of-Might/Berserker/Berserker-Sphere-Feats#improved-atavism",
+  "summary": "While benefiting from the Atavism (adrenaline) talent, you gain two additional abilities associated with your heritage you are benefiting from (see Table:…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/true-rage-combat",
+  "name": "True Rage",
+  "system": "Spheres of Might",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [
+   "Berserker"
+  ],
+  "prerequisites": "Berserker sphere (any (adrenaline) talent), base attack bonus +6.",
+  "source": "Spheres Apocrypha: The Inheritor and Improved Atavism Heritages",
+  "url": "Spheres-Of-Might/Berserker/Berserker-Sphere-Feats#true-rage-combat",
+  "summary": "When berserking, when you choose to benefit from an (adrenaline) talent, you do not lose the temporary hit points granted by the base berserking ability.",
   "file": "feats.json"
  },
  {
@@ -1936,6 +2096,22 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/stinging-bee-combat",
+  "name": "Stinging Bee",
+  "system": "Spheres of Might",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [
+   "Boxing"
+  ],
+  "prerequisites": "Boxing sphere (Floating Butterfly (stance)), base attack bonus +4.",
+  "source": "",
+  "url": "Spheres-Of-Might/Boxing/Boxing-Sphere-Feats#stinging-bee-combat",
+  "summary": "Prerequisites: Boxing sphere (Floating Butterfly (stance)), base attack bonus +4.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/extra-battlefield-specialization",
   "name": "Extra Battlefield Specialization",
   "system": "Spheres of Might",
@@ -1947,6 +2123,230 @@
   "source": "Spheres of Might",
   "url": "Spheres-Of-Might/Commander/Commander-Feats#extra-battlefield-specialization",
   "summary": "Gain an additional battlefield specialization for which you qualify.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/harmonious-swordplay-combat",
+  "name": "Harmonious Swordplay",
+  "system": "Spheres of Might",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [
+   "Dual Wielding"
+  ],
+  "prerequisites": "Dual Wielding sphere, Improved Unarmed Strike.",
+  "source": "",
+  "url": "Spheres-Of-Might/Dual-Wielding/Dual-Wielding-Sphere-Feats#harmonious-swordplay-combat",
+  "summary": "As long as you have martial focus, dual attacks made with a manufactured weapon and an unarmed strike remove the attack penalty from dual attack for one…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/great-iaijutsu",
+  "name": "Great Iaijutsu",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Duelist"
+  ],
+  "prerequisites": "Duelist sphere (Iai Slash (bleed)), base attack bonus +5.",
+  "source": "",
+  "url": "Spheres-Of-Might/Duelist/Duelist-Sphere-Feats#great-iaijutsu",
+  "summary": "When utilizing your Iai Slash talent, you may expend your martial focus to additionally apply the effects of one (bleed) talent other than Iai Slash to a…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/zodiac-tattoos",
+  "name": "Zodiac Tattoos*",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Equipment"
+  ],
+  "prerequisites": "Craft (tattoos) 5 ranks, Unarmored Training or AC Bonus class feature.",
+  "source": "",
+  "url": "Spheres-Of-Might/Equipment-Sphere/Equipment-Sphere-Feats#zodiac-tattoos",
+  "summary": "Covering your body in these intricate tattoos etched by your own hand, you gain the ability to have your skin enchanted with armor special abilities as though…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/overwatch-combat",
+  "name": "Overwatch",
+  "system": "Spheres of Might",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [
+   "Guardian"
+  ],
+  "prerequisites": "Covering Fire talent, Guardian sphere (patrol package)",
+  "source": "",
+  "url": "Spheres-Of-Might/Guardian/Guardian-Sphere-Feats#overwatch-combat",
+  "summary": "You may treat the area you threaten with the Covering Fire talent as if it were a patrol, benefiting from guardian sphere talents as normal, except that you…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/camp-of-operations",
+  "name": "Camp of Operations",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Leadership"
+  ],
+  "prerequisites": "Leadership 3 associated skill ranks; Leadership sphere ((follower) package); base of operations class feature.",
+  "source": "Polished Leadership",
+  "url": "Spheres-Of-Might/Leadership/Leadership-Sphere-Feats#camp-of-operations",
+  "summary": "Whenever you establish a base of operations, you may also make camp.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/emergency-reserves-plan",
+  "name": "Emergency Reserves",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Leadership"
+  ],
+  "prerequisites": "Leadership 5 associated skill ranks; Leadership ((cohort) package).",
+  "source": "Polished Leadership",
+  "url": "Spheres-Of-Might/Leadership/Leadership-Sphere-Feats#emergency-reserves-plan",
+  "summary": "You gain the following plan:",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/friends-in-close-places-plan",
+  "name": "Friends In Close Places",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Leadership"
+  ],
+  "prerequisites": "Leadership sphere 10 associated skill ranks; Leadership sphere (2 (follower) talents).",
+  "source": "Polished Leadership",
+  "url": "Spheres-Of-Might/Leadership/Leadership-Sphere-Feats#friends-in-close-places-plan",
+  "summary": "You gain a single Leadership sphere (follower) talent as a bonus talent.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/journeyman-cohorts",
+  "name": "Journeyman Cohorts",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Leadership"
+  ],
+  "prerequisites": "Leadership sphere 3 associated skill ranks; Leadership sphere ((cohort) package).",
+  "source": "Polished Leadership",
+  "url": "Spheres-Of-Might/Leadership/Leadership-Sphere-Feats#journeyman-cohorts",
+  "summary": "Source: Polished Leadership Prerequisite: Leadership sphere 3 associated skill ranks; Leadership sphere ((cohort) package).",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/mixed-conscription",
+  "name": "Mixed Conscription",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Leadership"
+  ],
+  "prerequisites": "Leadership sphere 5 associated skill ranks; ability to control one or more non-Leadership sphere subordinates (see text).",
+  "source": "Polished Leadership",
+  "url": "Spheres-Of-Might/Leadership/Leadership-Sphere-Feats#mixed-conscription",
+  "summary": "Other subordinates under your control are treated as one of your cohorts, and you are treated as their leader.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/radiant-quests",
+  "name": "Radiant Quests",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Leadership"
+  ],
+  "prerequisites": "Leadership associated skill 5 ranks.",
+  "source": "Polished Leadership",
+  "url": "Spheres-Of-Might/Leadership/Leadership-Sphere-Feats#radiant-quests",
+  "summary": "Once per week, you can complete various tasks for your contacts or followers to make money.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/shared-harmonies",
+  "name": "Shared Harmonies",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Leadership"
+  ],
+  "prerequisites": "Leadership sphere ((cohort) package); bardic performance or raging song class feature.",
+  "source": "Polished Leadership",
+  "url": "Spheres-Of-Might/Leadership/Leadership-Sphere-Feats#shared-harmonies",
+  "summary": "You gain the following abilities:",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/shared-rage-combat",
+  "name": "Shared Rage",
+  "system": "Spheres of Might",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [
+   "Leadership"
+  ],
+  "prerequisites": "Leadership sphere ((cohort) package); rage or bloodrage class feature, or other ability to rage (see text).",
+  "source": "Polished Leadership",
+  "url": "Spheres-Of-Might/Leadership/Leadership-Sphere-Feats#shared-rage-combat",
+  "summary": "Whenever you rage, as a joint swift action, cohorts within close range (25 ft.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/talented-followers-improved",
+  "name": "Talented Followers, Improved",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Leadership"
+  ],
+  "prerequisites": "Leadership sphere 5 associated skill ranks; Leadership ((follower) package, Good Help).",
+  "source": "Polished Leadership",
+  "url": "Spheres-Of-Might/Leadership/Leadership-Sphere-Feats#talented-followers-improved",
+  "summary": "Followers can select 1 additional sphere option as part of their assistance (such as a blacksmith now selecting 3 Artifice flourishes instead of 2, thanks to…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/theurgical-disciples",
+  "name": "Theurgical Disciples",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Leadership"
+  ],
+  "prerequisites": "Leadership ((cohort) package); domain or inquisition class feature, cohort same alignment as you (see text).",
+  "source": "Polished Leadership",
+  "url": "Spheres-Of-Might/Leadership/Leadership-Sphere-Feats#theurgical-disciples",
+  "summary": "You gain a +2 bonus to Knowledge (religion) skill checks.",
   "file": "feats.json"
  },
  {
@@ -1996,22 +2396,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/adopt-animal-ally",
-  "name": "Adopt Animal Ally",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Beastmastery"
-  ],
-  "prerequisites": "Beastmastery sphere (handle animal) package, an animal or vermin companion.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#adopt-animal-ally",
-  "summary": "If your animal or vermin companion dies, you may make one of your tame creatures your new companion without the normal mourning period.",
-  "file": "feats.json"
- },
- {
   "id": "feat/adrenaline-fueled-frenzy-combat",
   "name": "Adrenaline-Fueled Frenzy",
   "system": "Spheres of Might",
@@ -2043,22 +2427,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/amateur-field-officer",
-  "name": "Amateur Field Officer",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Warleader"
-  ],
-  "prerequisites": "Base attack bonus +5; Warleader sphere; no levels in a class that grant the enhanced tactic class feature.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#amateur-field-officer",
-  "summary": "You gain one commander enhanced tactic, treating your effective commander level as 1 for the purposes of qualifying for and the effects of the chosen enhanced…",
-  "file": "feats.json"
- },
- {
   "id": "feat/amateur-field-tactician",
   "name": "Amateur Field Tactician",
   "system": "Spheres of Might",
@@ -2087,22 +2455,6 @@
   "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Might/Practitioner-Feats#backup-breaker-combat",
   "summary": "When you ready a counter punch to make a dual attack, you may make only the attack with your primary or off-hand weapon when your counter punch is triggered.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/battle-fanfare-combat",
-  "name": "Battle Fanfare",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [
-   "Warleader"
-  ],
-  "prerequisites": "Warleader sphere; bardic performance or raging song class feature.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#battle-fanfare-combat",
-  "summary": "You gain the following benefits based on the Warleader sphere packages you possess:",
   "file": "feats.json"
  },
  {
@@ -2155,22 +2507,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/camp-of-operations",
-  "name": "Camp of Operations",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Leadership"
-  ],
-  "prerequisites": "Leadership 3 associated skill ranks; Leadership sphere ((follower) package); base of operations class feature.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#camp-of-operations",
-  "summary": "Whenever you establish a base of operations, you may also make camp.",
-  "file": "feats.json"
- },
- {
   "id": "feat/catisthenics",
   "name": "Catisthenics",
   "system": "Spheres of Might",
@@ -2179,25 +2515,9 @@
   ],
   "spheres": [],
   "prerequisites": "1 rank in any Strength- or Dexterity-based skill.",
-  "source": "Polished Leadership",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Might/Practitioner-Feats#catisthenics",
   "summary": "By spending 10 minutes stretching (such as doing yoga, martial exercises, etc.), you gain a catisthenics pool with a number of dice equal to 1 + 1 for every 3…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/cerebrevores-ecstasy-combat",
-  "name": "Cerebrevore’s Ecstasy",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [
-   "Barroom"
-  ],
-  "prerequisites": "Barroom sphere, Brain Consumption.",
-  "source": "Polished Leadership",
-  "url": "Spheres-Of-Might/Practitioner-Feats#cerebrevores-ecstasy-combat",
-  "summary": "Whenever you consume a creature’s brain using the Brain Consumption feat, you may gain the drunk status as if you had consumed an alcoholic drink.",
   "file": "feats.json"
  },
  {
@@ -2209,7 +2529,7 @@
   ],
   "spheres": [],
   "prerequisites": "Banner class feature, character level 10th.",
-  "source": "Polished Leadership",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Might/Practitioner-Feats#color-guard",
   "summary": "The time required to wave a banner is reduced by one step (i.e., full-round action becomes a standard action, standard action becomes a move action).",
   "file": "feats.json"
@@ -2243,54 +2563,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/companion-trigger-combat",
-  "name": "Companion Trigger",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [
-   "Beastmastery"
-  ],
-  "prerequisites": "Animal Companion class feature, Mount class feature, or Beastmastery sphere.",
-  "source": "Spheres Apocrypha: Banners",
-  "url": "Spheres-Of-Might/Practitioner-Feats#companion-trigger-combat",
-  "summary": "When your animal companion or a creature you are mounted on succeeds on a combat maneuver, you may expend your martial focus as a free action even when it is…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/compound-mutagen",
-  "name": "Compound Mutagen",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Alchemy"
-  ],
-  "prerequisites": "Craft (alchemy) 10 ranks, Alchemy sphere ((toxin) package).",
-  "source": "Spheres Apocrypha: Banners",
-  "url": "Spheres-Of-Might/Practitioner-Feats#compound-mutagen",
-  "summary": "Whenever you create a mutagen that gives a choice between multiple options, you can choose two such options—for example, a Performance Enhancer could grant its…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/constant-chatter-combat",
-  "name": "Constant Chatter",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [
-   "Warleader"
-  ],
-  "prerequisites": "Warleader associated skill 6 ranks; Warleader ((shout) package).",
-  "source": "Diamond Spheres: Erudition & Esoterica",
-  "url": "Spheres-Of-Might/Practitioner-Feats#constant-chatter-combat",
-  "summary": "You gain the following option:",
-  "file": "feats.json"
- },
- {
   "id": "feat/consumptive-intuition",
   "name": "Consumptive Intuition",
   "system": "Spheres of Might",
@@ -2299,7 +2571,7 @@
   ],
   "spheres": [],
   "prerequisites": "Brain Consumption.",
-  "source": "Polished Commander & Warleader",
+  "source": "Spheres Apocrypha: Banners",
   "url": "Spheres-Of-Might/Practitioner-Feats#consumptive-intuition",
   "summary": "Whenever you consume a creature’s brain using the Brain Consumption feat, choose one combat talent or magic talent that the creature whose brain you consumed…",
   "file": "feats.json"
@@ -2313,7 +2585,7 @@
   ],
   "spheres": [],
   "prerequisites": "Consumptive Intuition, Improved Transformation, Transformation, character level 5th.",
-  "source": "Polished Commander & Warleader",
+  "source": "Spheres Apocrypha: Banners",
   "url": "Spheres-Of-Might/Practitioner-Feats#consumptive-mutation",
   "summary": "You may exchange one or more traits granted by Improved Transformation for any other traits you would qualify for whenever you consume a creature’s brain.",
   "file": "feats.json"
@@ -2327,7 +2599,7 @@
   ],
   "spheres": [],
   "prerequisites": "Brew Potion, Craft Wondrous Item, Craft (alchemy) 3 ranks, caster level 5th.",
-  "source": "Polished Commander & Warleader",
+  "source": "Spheres Apocrypha: Banners",
   "url": "Spheres-Of-Might/Practitioner-Feats#craft-ooze-item-creation",
   "summary": "You can create living oozes as though they were magical items.",
   "file": "feats.json"
@@ -2341,7 +2613,7 @@
   ],
   "spheres": [],
   "prerequisites": "Improved Unarmed Strike, base attack bonus +4, martial focus.",
-  "source": "Polished Commander & Warleader",
+  "source": "Spheres Apocrypha: Banners",
   "url": "Spheres-Of-Might/Practitioner-Feats#cultivate-ki-combat",
   "summary": "You gain one ki power from the unchained monk’s list of ki powers, treating your base attack bonus as your unchained monk level and using your practitioner…",
   "file": "feats.json"
@@ -2355,7 +2627,7 @@
   ],
   "spheres": [],
   "prerequisites": "Bound equipment class feature, customized weapons class feature.",
-  "source": "Polished Commander & Warleader",
+  "source": "Spheres Apocrypha: Banners",
   "url": "Spheres-Of-Might/Practitioner-Feats#customized-bond",
   "summary": "You may customize your bound weapons.",
   "file": "feats.json"
@@ -2369,57 +2641,9 @@
   ],
   "spheres": [],
   "prerequisites": "Decorum class feature.",
-  "source": "Polished Commander & Warleader",
+  "source": "Spheres Apocrypha: Banners",
   "url": "Spheres-Of-Might/Practitioner-Feats#decorated-insight",
   "summary": "Choose two additional skills, chosen from the following list: Appraise, Bluff, Handle Animal, Knowledge (any), Ride, Sense Motive.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/defenders-bonds",
-  "name": "Defender’s Bonds",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Beastmastery"
-  ],
-  "prerequisites": "Beastmastery sphere; lay on hands or sentinel’s reserve class feature, character level 3rd.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#defenders-bonds",
-  "summary": "Whenever you would heal yourself or gain temporary hit points from your lay on hands ability or by spending a reserve point, you may also affect one animal…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/designer-drugs",
-  "name": "Designer Drugs",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Alchemy"
-  ],
-  "prerequisites": "Craft (alchemy) 7 ranks, Alchemy sphere (Pill Popper).",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#designer-drugs",
-  "summary": "Whenever you are subject to one of your Alchemy sphere mutagens, you can increase both the benefits and penalties by 2.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/desperate-focus-combat",
-  "name": "Desperate Focus",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [
-   "Berserker"
-  ],
-  "prerequisites": "Berserker sphere (Deathless).",
-  "source": "Spheres Apocrypha: Alchemy Poisons 2",
-  "url": "Spheres-Of-Might/Practitioner-Feats#desperate-focus-combat",
-  "summary": "Once per round while berserking and below 0 hit points, you may use the benefits of a class feature, combat talent, feat, or other ability which requires you…",
   "file": "feats.json"
  },
  {
@@ -2431,25 +2655,9 @@
   ],
   "spheres": [],
   "prerequisites": "Combat Expertise.",
-  "source": "Spheres Apocrypha: Radiant and Righteous",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Might/Practitioner-Feats#determined-defense-combat",
   "summary": "When using the Combat Expertise feat, you do not suffer Combat Expertise’s penalty on melee attack rolls on the first attack you make each turn.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/devouring-finish-combat",
-  "name": "Devouring Finish",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [
-   "Wrestling"
-  ],
-  "prerequisites": "Wrestling sphere, Brain Consumption.",
-  "source": "Spheres Apocrypha: Radiant and Righteous",
-  "url": "Spheres-Of-Might/Practitioner-Feats#devouring-finish-combat",
-  "summary": "Whenever you reduce a creature that you are grappling to 0 or fewer hit points or render it unconscious, you may devour its brain as a free action.",
   "file": "feats.json"
  },
  {
@@ -2461,7 +2669,7 @@
   ],
   "spheres": [],
   "prerequisites": "Improved Unarmed Strike, Craft (tattoos) 5 ranks.",
-  "source": "Spheres Apocrypha: Radiant and Righteous",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Might/Practitioner-Feats#dragons-tattoos",
   "summary": "You learn how to adorn yourself with the sacred tattoos that are said to have been first conceived by an ancient monk known only as “the Dragon”.",
   "file": "feats.json"
@@ -2479,7 +2687,7 @@
    "Warleader"
   ],
   "prerequisites": "Barroom sphere; Warleader sphere.",
-  "source": "Spheres Apocrypha: Radiant and Righteous",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Might/Practitioner-Feats#drink-and-directive-combat-dual-sphere",
   "summary": "You may use both hard drinker and engage tactics as part of the same action, using the longer of the two actions required.",
   "file": "feats.json"
@@ -2529,22 +2737,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/emergency-reserves-plan",
-  "name": "Emergency Reserves",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Leadership"
-  ],
-  "prerequisites": "Leadership 5 associated skill ranks; Leadership ((cohort) package).",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#emergency-reserves-plan",
-  "summary": "You gain the following plan:",
-  "file": "feats.json"
- },
- {
   "id": "feat/escutcheon-combat",
   "name": "Escutcheon",
   "system": "Spheres of Might",
@@ -2556,7 +2748,7 @@
    "Warleader"
   ],
   "prerequisites": "Shield sphere; Warleader sphere (Heraldry) or banner class feature.",
-  "source": "Polished Leadership",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Might/Practitioner-Feats#escutcheon-combat",
   "summary": "When using your standard as a shield, you increase the radius of your Warleader sphere abilities by 5 feet, +5 feet per enhancement bonus of your shield.",
   "file": "feats.json"
@@ -2632,22 +2824,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/friends-in-close-places-plan",
-  "name": "Friends In Close Places",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Leadership"
-  ],
-  "prerequisites": "Leadership sphere 10 associated skill ranks; Leadership sphere (2 (follower) talents).",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#friends-in-close-places-plan",
-  "summary": "You gain a single Leadership sphere (follower) talent as a bonus talent.",
-  "file": "feats.json"
- },
- {
   "id": "feat/giantslayer-combat",
   "name": "Giantslayer (combat)*",
   "system": "Spheres of Might",
@@ -2656,7 +2832,7 @@
   ],
   "spheres": [],
   "prerequisites": "Con 13, base attack bonus +5.",
-  "source": "Polished Leadership",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Might/Practitioner-Feats#giantslayer-combat",
   "summary": "When performing or resisting a combat maneuver against a foe who is at least 1 size category larger than yourself, you gain a bonus to your CMB and CMD equal…",
   "file": "feats.json"
@@ -2670,25 +2846,9 @@
   ],
   "spheres": [],
   "prerequisites": "2 or more combat spheres, base attack bonus +6 or higher.",
-  "source": "Polished Leadership",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Might/Practitioner-Feats#great-focus-combat",
   "summary": "You may maintain a second martial focus.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/great-iaijutsu",
-  "name": "Great Iaijutsu",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Duelist"
-  ],
-  "prerequisites": "Duelist sphere (Iai Slash (bleed)), base attack bonus +5.",
-  "source": "Polished Leadership",
-  "url": "Spheres-Of-Might/Practitioner-Feats#great-iaijutsu",
-  "summary": "When utilizing your Iai Slash talent, you may expend your martial focus to additionally apply the effects of one (bleed) talent other than Iai Slash to a…",
   "file": "feats.json"
  },
  {
@@ -2700,25 +2860,9 @@
   ],
   "spheres": [],
   "prerequisites": "",
-  "source": "Polished Leadership",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Might/Practitioner-Feats#gunsmithing",
   "summary": "If you have access to a gunsmith’s kit, you can create and restore firearms, craft bullets, and mix black powder for all types of firearms.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/harmonious-swordplay-combat",
-  "name": "Harmonious Swordplay",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [
-   "Dual Wielding"
-  ],
-  "prerequisites": "Dual Wielding sphere, Improved Unarmed Strike.",
-  "source": "Polished Leadership",
-  "url": "Spheres-Of-Might/Practitioner-Feats#harmonious-swordplay-combat",
-  "summary": "As long as you have martial focus, dual attacks made with a manufactured weapon and an unarmed strike remove the attack penalty from dual attack for one…",
   "file": "feats.json"
  },
  {
@@ -2730,7 +2874,7 @@
   ],
   "spheres": [],
   "prerequisites": "Ability to gain martial focus, Constitution 13 or higher.",
-  "source": "Polished Leadership",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Might/Practitioner-Feats#heroic-resolve-combat",
   "summary": "As a move action, you may expend focus to suppress a single instance of the dazzled, fatigued, shaken, or sickened condition for a number of rounds equal to…",
   "file": "feats.json"
@@ -2747,121 +2891,9 @@
    "Warleader"
   ],
   "prerequisites": "Warleader sphere 5 associated skill ranks; Duelist sphere; Warleader sphere.",
-  "source": "Polished Leadership",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Might/Practitioner-Feats#hunting-party-combat",
   "summary": "You and allies benefitting from your Warleader sphere effects gain a +2 bonus on critical confirmation rolls against bleeding targets and a +2 bonus on…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/improved-atavism",
-  "name": "Improved Atavism",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Berserker"
-  ],
-  "prerequisites": "Berserker sphere (Atavism (adrenaline)), base attack bonus +3.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#improved-atavism",
-  "summary": "While benefiting from the Atavism (adrenaline) talent, you gain two additional abilities associated with your heritage you are benefiting from (see Table:…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/improvised-doctrine-combat",
-  "name": "Improvised Doctrine",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [
-   "Warleader"
-  ],
-  "prerequisites": "Warleader associated skill 8 ranks; Warleader (any three talents).",
-  "source": "Spheres Apocrypha: The Inheritor and Improved Atavism Heritages",
-  "url": "Spheres-Of-Might/Practitioner-Feats#improvised-doctrine-combat",
-  "summary": "Once per day as a free action, you may select a single Warleader sphere talent you do not possess.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/inkbound-portents",
-  "name": "Inkbound Portents",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Alchemy"
-  ],
-  "prerequisites": "Alchemy sphere (War Paint (formulae)).",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#inkbound-portents",
-  "summary": "Instead of applying a prepared war paint to a creature, you may pour a prepared war paint over a blank piece of parchment, scroll, or other surface that can…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/iron-palm-combat",
-  "name": "Iron Palm",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [
-   "Shield"
-  ],
-  "prerequisites": "Shield sphere, Improved Unarmed Strike.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#iron-palm-combat",
-  "summary": "As long as you have one hand free, your free hand is considered to be a shield for the purposes of using active defense and talents that augment active defense.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/journeyman-cohorts",
-  "name": "Journeyman Cohorts",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Leadership"
-  ],
-  "prerequisites": "Leadership sphere 3 associated skill ranks; Leadership sphere ((cohort) package).",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#journeyman-cohorts",
-  "summary": "Source: Polished Leadership Prerequisite: Leadership sphere 3 associated skill ranks; Leadership sphere ((cohort) package).",
-  "file": "feats.json"
- },
- {
-  "id": "feat/marking-quarry-combat",
-  "name": "Marking Quarry",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [
-   "Warleader"
-  ],
-  "prerequisites": "Warleader ((tactic) package).",
-  "source": "Polished Leadership",
-  "url": "Spheres-Of-Might/Practitioner-Feats#marking-quarry-combat",
-  "summary": "Source: Polished Commander & Warleader Nobody is better at pointing out the mission critical targets.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/mixed-conscription",
-  "name": "Mixed Conscription",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Leadership"
-  ],
-  "prerequisites": "Leadership sphere 5 associated skill ranks; ability to control one or more non-Leadership sphere subordinates (see text).",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#mixed-conscription",
-  "summary": "Other subordinates under your control are treated as one of your cohorts, and you are treated as their leader.",
   "file": "feats.json"
  },
  {
@@ -2876,7 +2908,7 @@
    "Leadership"
   ],
   "prerequisites": "Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package.",
-  "source": "Polished Leadership",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Might/Practitioner-Feats#mixed-coordinator-combat",
   "summary": "Prerequisites: Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package.",
   "file": "feats.json"
@@ -2893,7 +2925,7 @@
    "Beastmastery"
   ],
   "prerequisites": "Athletics sphere, Beastmastery sphere ((ride) package).",
-  "source": "Polished Leadership",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Might/Practitioner-Feats#mounted-athlete",
   "summary": "Whenever your mount would attempt a skill check associated with an Athletics sphere package you possess, you may attempt that skill check for your mount, using…",
   "file": "feats.json"
@@ -2910,7 +2942,7 @@
    "Guardian"
   ],
   "prerequisites": "Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package).",
-  "source": "Polished Leadership",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Might/Practitioner-Feats#mounted-protector",
   "summary": "While mounted, you may use your mount’s movement whenever you could move as part of your patrol, provided your mount’s total movement before its next turn does…",
   "file": "feats.json"
@@ -2924,41 +2956,9 @@
   ],
   "spheres": [],
   "prerequisites": "",
-  "source": "Polished Leadership",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Might/Practitioner-Feats#muscular-reflexes-combat",
   "summary": "You may make a number of additional attacks of opportunity per round equal to your Strength bonus.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/observant-oppurrtunist-combat",
-  "name": "Observant Oppurrtunist",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [
-   "Scout"
-  ],
-  "prerequisites": "Perception 5 ranks, Scout sphere.",
-  "source": "Polished Leadership",
-  "url": "Spheres-Of-Might/Practitioner-Feats#observant-oppurrtunist-combat",
-  "summary": "The first attack of opportunity you make each round against a scouted target does not require you to expend an attack of opportunity.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/overwatch-combat",
-  "name": "Overwatch",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [
-   "Guardian"
-  ],
-  "prerequisites": "Covering Fire talent, Guardian sphere (patrol package)",
-  "source": "Polished Leadership",
-  "url": "Spheres-Of-Might/Practitioner-Feats#overwatch-combat",
-  "summary": "You may treat the area you threaten with the Covering Fire talent as if it were a patrol, benefiting from guardian sphere talents as normal, except that you…",
   "file": "feats.json"
  },
  {
@@ -2970,25 +2970,9 @@
   ],
   "spheres": [],
   "prerequisites": "Martial focus.",
-  "source": "Polished Leadership",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Might/Practitioner-Feats#perfect-calm-combat",
   "summary": "You can expend your martial focus as part of any single Will saving throw or concentration check you make.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/petrifying-pennant",
-  "name": "Petrifying Pennant",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Warleader"
-  ],
-  "prerequisites": "Warleader sphere 5 associated skill ranks; Warleader sphere (Heraldry) or banner class feature.",
-  "source": "Polished Leadership",
-  "url": "Spheres-Of-Might/Practitioner-Feats#petrifying-pennant",
-  "summary": "Enemies within range of and able to see your presented banner suffer a -2 penalty on saving throws against fear effects.",
   "file": "feats.json"
  },
  {
@@ -3003,22 +2987,6 @@
   "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Might/Practitioner-Feats#piranha-strike-combat",
   "summary": "When wielding a light weapon, you can choose to take a -1 penalty on all melee attack rolls and combat maneuver checks to gain a +2 bonus on all melee damage…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/potent-pigments",
-  "name": "Potent Pigments",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Alchemy"
-  ],
-  "prerequisites": "Alchemy sphere (War Paint (formulae)).",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#potent-pigments",
-  "summary": "Treat the effects of any war paint you apply to yourself as though you had 5 additional ranks in Craft (alchemy).",
   "file": "feats.json"
  },
  {
@@ -3053,38 +3021,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/projectile-vomit",
-  "name": "Projectile Vomit",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Barroom"
-  ],
-  "prerequisites": "Barroom sphere (Purge), base attack bonus +5.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#projectile-vomit",
-  "summary": "When you utilize your Purge talent, you can instead perform it as a standard action, vomiting on all squares in a close-ranged cone, instead of the normal area.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/radiant-quests",
-  "name": "Radiant Quests",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Leadership"
-  ],
-  "prerequisites": "Leadership associated skill 5 ranks.",
-  "source": "Spheres Apocrypha: Dipsomania",
-  "url": "Spheres-Of-Might/Practitioner-Feats#radiant-quests",
-  "summary": "Once per week, you can complete various tasks for your contacts or followers to make money.",
-  "file": "feats.json"
- },
- {
   "id": "feat/rigorous-student",
   "name": "Rigorous Student",
   "system": "Spheres of Might",
@@ -3093,7 +3029,7 @@
   ],
   "spheres": [],
   "prerequisites": "",
-  "source": "Polished Leadership",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Might/Practitioner-Feats#rigorous-student",
   "summary": "Choose a class you have levels in.",
   "file": "feats.json"
@@ -3110,89 +3046,9 @@
    "Boxing"
   ],
   "prerequisites": "Athletics sphere, Boxing sphere (Shoulder Roll).",
-  "source": "Polished Leadership",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Might/Practitioner-Feats#rolling-serpent-combat",
   "summary": "As long as you have martial focus, whenever a creature makes a melee attack against you while you are using a movement mode corresponding to a package you…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/shared-harmonies",
-  "name": "Shared Harmonies",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Leadership"
-  ],
-  "prerequisites": "Leadership sphere ((cohort) package); bardic performance or raging song class feature.",
-  "source": "Polished Leadership",
-  "url": "Spheres-Of-Might/Practitioner-Feats#shared-harmonies",
-  "summary": "You gain the following abilities:",
-  "file": "feats.json"
- },
- {
-  "id": "feat/shared-rage-combat",
-  "name": "Shared Rage",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [
-   "Leadership"
-  ],
-  "prerequisites": "Leadership sphere ((cohort) package); rage or bloodrage class feature, or other ability to rage (see text).",
-  "source": "Polished Leadership",
-  "url": "Spheres-Of-Might/Practitioner-Feats#shared-rage-combat",
-  "summary": "Whenever you rage, as a joint swift action, cohorts within close range (25 ft.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/stinging-bee-combat",
-  "name": "Stinging Bee",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [
-   "Boxing"
-  ],
-  "prerequisites": "Boxing sphere (Floating Butterfly (stance)), base attack bonus +4.",
-  "source": "Polished Leadership",
-  "url": "Spheres-Of-Might/Practitioner-Feats#stinging-bee-combat",
-  "summary": "Prerequisites: Boxing sphere (Floating Butterfly (stance)), base attack bonus +4.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/strategy-to-action-combat",
-  "name": "Strategy to Action",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [
-   "Warleader"
-  ],
-  "prerequisites": "Warleader sphere 10 associated skill ranks; Warleader sphere (Wargames).",
-  "source": "Polished Leadership",
-  "url": "Spheres-Of-Might/Practitioner-Feats#strategy-to-action-combat",
-  "summary": "When you reveal your combat stratagem plan as a full-round action, you gain 1 additional swift action during that turn.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/studied-scout",
-  "name": "Studied Scout",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Scout"
-  ],
-  "prerequisites": "Scout sphere, studied target or studied combat class feature.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#studied-scout",
-  "summary": "When you use your studied target or studied combat class feature, you may use your scout ability on the same target as a free action.",
   "file": "feats.json"
  },
  {
@@ -3227,54 +3083,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/tacticians-acumen-combat",
-  "name": "Tactician's Acumen",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [
-   "Warleader"
-  ],
-  "prerequisites": "Warleader sphere ((tactic) package); see text.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#tacticians-acumen-combat",
-  "summary": "You gain the following benefits based on the following class features you possess:",
-  "file": "feats.json"
- },
- {
-  "id": "feat/talented-followers-improved",
-  "name": "Talented Followers, Improved",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Leadership"
-  ],
-  "prerequisites": "Leadership sphere 5 associated skill ranks; Leadership ((follower) package, Good Help).",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#talented-followers-improved",
-  "summary": "Followers can select 1 additional sphere option as part of their assistance (such as a blacksmith now selecting 3 Artifice flourishes instead of 2, thanks to…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/target-spotting",
-  "name": "Target Spotting",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Scout"
-  ],
-  "prerequisites": "Scout sphere, favored enemy class feature.",
-  "source": "Polished Leadership",
-  "url": "Spheres-Of-Might/Practitioner-Feats#target-spotting",
-  "summary": "Whenever you scout an enemy, you may expend your martial focus to treat them, for the duration of the scout, as your favored enemy for the purpose of your…",
-  "file": "feats.json"
- },
- {
   "id": "feat/technological-training",
   "name": "Technological Training",
   "system": "Spheres of Might",
@@ -3283,25 +3091,9 @@
   ],
   "spheres": [],
   "prerequisites": "",
-  "source": "Polished Leadership",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Might/Practitioner-Feats#technological-training",
   "summary": "Reduce the penalties you suffer when using technician inventions that are not your own by half.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/theurgical-disciples",
-  "name": "Theurgical Disciples",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Leadership"
-  ],
-  "prerequisites": "Leadership ((cohort) package); domain or inquisition class feature, cohort same alignment as you (see text).",
-  "source": "Polished Leadership",
-  "url": "Spheres-Of-Might/Practitioner-Feats#theurgical-disciples",
-  "summary": "You gain a +2 bonus to Knowledge (religion) skill checks.",
   "file": "feats.json"
  },
  {
@@ -3313,7 +3105,7 @@
   ],
   "spheres": [],
   "prerequisites": "Heroic Resolve, ability to gain martial focus, Cha 15 or Con 15, good alignment.",
-  "source": "Polished Leadership",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Might/Practitioner-Feats#through-the-long-night-combat",
   "summary": "When you activate heroic resolve and suppress a condition, you may instead suppress it for a number of rounds equal to the highest bonus between your Charisma…",
   "file": "feats.json"
@@ -3330,22 +3122,6 @@
   "source": "Spheres Apocrypha: Radiant and Righteous",
   "url": "Spheres-Of-Might/Practitioner-Feats#titan-breaker-combat",
   "summary": "The bonus granted by your Giantslayer feat when performing or resisting a combat maneuver against a foe who is at least 1 size category larger than yourself…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/true-rage-combat",
-  "name": "True Rage",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [
-   "Berserker"
-  ],
-  "prerequisites": "Berserker sphere (any (adrenaline) talent), base attack bonus +6.",
-  "source": "Spheres Apocrypha: Radiant and Righteous",
-  "url": "Spheres-Of-Might/Practitioner-Feats#true-rage-combat",
-  "summary": "When berserking, when you choose to benefit from an (adrenaline) talent, you do not lose the temporary hit points granted by the base berserking ability.",
   "file": "feats.json"
  },
  {
@@ -3408,38 +3184,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/vaporized-formulae",
-  "name": "Vaporized Formulae",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Alchemy"
-  ],
-  "prerequisites": "Alchemy sphere ((formulae) package)",
-  "source": "Spheres Apocrypha: Swashbucklers",
-  "url": "Spheres-Of-Might/Practitioner-Feats#vaporized-formulae",
-  "summary": "You can increase the Craft DC of a formulae by 10 to turn the formulae from a liquid to a gaseous state.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/vermin-master",
-  "name": "Vermin Master",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Beastmastery"
-  ],
-  "prerequisites": "Beastmastery sphere (Bee Keeper), able to tame creatures of the vermin type.",
-  "source": "Tandem Talents",
-  "url": "Spheres-Of-Might/Practitioner-Feats#vermin-master",
-  "summary": "Swarms and creatures of the vermin type no longer count as twice their Hit Dice against the total amount of Hit Dice you may have tame at once.",
-  "file": "feats.json"
- },
- {
   "id": "feat/versed-student",
   "name": "Versed Student",
   "system": "Spheres of Might",
@@ -3448,7 +3192,7 @@
   ],
   "spheres": [],
   "prerequisites": "",
-  "source": "Tandem Talents",
+  "source": "Spheres Apocrypha: Swashbucklers",
   "url": "Spheres-Of-Might/Practitioner-Feats#versed-student",
   "summary": "Choose a class you have levels in.",
   "file": "feats.json"
@@ -3465,23 +3209,9 @@
    "Scout"
   ],
   "prerequisites": "Fencing sphere (Footwork), Scout sphere (Calibrating Wiggle).",
-  "source": "Tandem Talents",
+  "source": "Spheres Apocrypha: Swashbucklers",
   "url": "Spheres-Of-Might/Practitioner-Feats#wiggling-footsies-combat",
   "summary": "Whenever you use the Fencing sphere Footwork talent in response to an attack made against you, you may also scout the attacker.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/zodiac-tattoos",
-  "name": "Zodiac Tattoos*",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Craft (tattoos) 5 ranks, Unarmored Training or AC Bonus class feature.",
-  "source": "Tandem Talents",
-  "url": "Spheres-Of-Might/Practitioner-Feats#zodiac-tattoos",
-  "summary": "Covering your body in these intricate tattoos etched by your own hand, you gain the ability to have your skin enchanted with armor special abilities as though…",
   "file": "feats.json"
  },
  {
@@ -3513,6 +3243,54 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/observant-oppurrtunist-combat",
+  "name": "Observant Oppurrtunist",
+  "system": "Spheres of Might",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [
+   "Scout"
+  ],
+  "prerequisites": "Perception 5 ranks, Scout sphere.",
+  "source": "",
+  "url": "Spheres-Of-Might/Scout/Scout-Sphere-Feats#observant-oppurrtunist-combat",
+  "summary": "The first attack of opportunity you make each round against a scouted target does not require you to expend an attack of opportunity.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/studied-scout",
+  "name": "Studied Scout",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Scout"
+  ],
+  "prerequisites": "Scout sphere, studied target or studied combat class feature.",
+  "source": "",
+  "url": "Spheres-Of-Might/Scout/Scout-Sphere-Feats#studied-scout",
+  "summary": "When you use your studied target or studied combat class feature, you may use your scout ability on the same target as a free action.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/target-spotting",
+  "name": "Target Spotting",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Scout"
+  ],
+  "prerequisites": "Scout sphere, favored enemy class feature.",
+  "source": "",
+  "url": "Spheres-Of-Might/Scout/Scout-Sphere-Feats#target-spotting",
+  "summary": "Whenever you scout an enemy, you may expend your martial focus to treat them, for the duration of the scout, as your favored enemy for the purpose of your…",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/protective-reserve",
   "name": "Protective Reserve",
   "system": "Spheres of Might",
@@ -3524,6 +3302,22 @@
   "source": "Spheres of Might",
   "url": "Spheres-Of-Might/Sentinel/Sentinel-Feats#protective-reserve",
   "summary": "Choose an (aegis) talent from the Protection sphere.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/iron-palm-combat",
+  "name": "Iron Palm",
+  "system": "Spheres of Might",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [
+   "Shield"
+  ],
+  "prerequisites": "Shield sphere, Improved Unarmed Strike.",
+  "source": "",
+  "url": "Spheres-Of-Might/Shield/Shield-Sphere-Feats#iron-palm-combat",
+  "summary": "As long as you have one hand free, your free hand is considered to be a shield for the purposes of using active defense and talents that augment active defense.",
   "file": "feats.json"
  },
  {
@@ -3794,6 +3588,150 @@
   "source": "Spheres of Might",
   "url": "Spheres-Of-Might/Technician/Technician-Feats#extra-technical-insight",
   "summary": "Gain an additional technical insight for which you qualify.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/amateur-field-officer",
+  "name": "Amateur Field Officer",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Warleader"
+  ],
+  "prerequisites": "Base attack bonus +5; Warleader sphere; no levels in a class that grant the enhanced tactic class feature.",
+  "source": "Polished Commander & Warleader",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Feats#amateur-field-officer",
+  "summary": "You gain one commander enhanced tactic, treating your effective commander level as 1 for the purposes of qualifying for and the effects of the chosen enhanced…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/battle-fanfare-combat",
+  "name": "Battle Fanfare",
+  "system": "Spheres of Might",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [
+   "Warleader"
+  ],
+  "prerequisites": "Warleader sphere; bardic performance or raging song class feature.",
+  "source": "Polished Commander & Warleader",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Feats#battle-fanfare-combat",
+  "summary": "You gain the following benefits based on the Warleader sphere packages you possess:",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/constant-chatter-combat",
+  "name": "Constant Chatter",
+  "system": "Spheres of Might",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [
+   "Warleader"
+  ],
+  "prerequisites": "Warleader associated skill 6 ranks; Warleader ((shout) package).",
+  "source": "Polished Commander & Warleader",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Feats#constant-chatter-combat",
+  "summary": "You gain the following option:",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/improvised-doctrine-combat",
+  "name": "Improvised Doctrine",
+  "system": "Spheres of Might",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [
+   "Warleader"
+  ],
+  "prerequisites": "Warleader associated skill 8 ranks; Warleader (any three talents).",
+  "source": "Polished Commander & Warleader",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Feats#improvised-doctrine-combat",
+  "summary": "Once per day as a free action, you may select a single Warleader sphere talent you do not possess.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/marking-quarry-combat",
+  "name": "Marking Quarry",
+  "system": "Spheres of Might",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [
+   "Warleader"
+  ],
+  "prerequisites": "Warleader ((tactic) package).",
+  "source": "Polished Commander & Warleader",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Feats#marking-quarry-combat",
+  "summary": "Source: Polished Commander & Warleader Nobody is better at pointing out the mission critical targets.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/petrifying-pennant",
+  "name": "Petrifying Pennant",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Warleader"
+  ],
+  "prerequisites": "Warleader sphere 5 associated skill ranks; Warleader sphere (Heraldry) or banner class feature.",
+  "source": "Polished Commander & Warleader",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Feats#petrifying-pennant",
+  "summary": "Enemies within range of and able to see your presented banner suffer a -2 penalty on saving throws against fear effects.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/strategy-to-action-combat",
+  "name": "Strategy to Action",
+  "system": "Spheres of Might",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [
+   "Warleader"
+  ],
+  "prerequisites": "Warleader sphere 10 associated skill ranks; Warleader sphere (Wargames).",
+  "source": "Polished Commander & Warleader",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Feats#strategy-to-action-combat",
+  "summary": "When you reveal your combat stratagem plan as a full-round action, you gain 1 additional swift action during that turn.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/tacticians-acumen-combat",
+  "name": "Tactician's Acumen",
+  "system": "Spheres of Might",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [
+   "Warleader"
+  ],
+  "prerequisites": "Warleader sphere ((tactic) package); see text.",
+  "source": "Polished Commander & Warleader",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Feats#tacticians-acumen-combat",
+  "summary": "You gain the following benefits based on the following class features you possess:",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/devouring-finish-combat",
+  "name": "Devouring Finish",
+  "system": "Spheres of Might",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [
+   "Wrestling"
+  ],
+  "prerequisites": "Wrestling sphere, Brain Consumption.",
+  "source": "",
+  "url": "Spheres-Of-Might/Wrestling/Wrestling-Sphere-Feats#devouring-finish-combat",
+  "summary": "Whenever you reduce a creature that you are grappling to 0 or fewer hit points or render it unconscious, you may devour its brain as a free action.",
   "file": "feats.json"
  },
  {

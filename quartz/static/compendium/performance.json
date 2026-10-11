@@ -1437,6 +1437,38 @@
    "options": []
   },
   {
+   "id": "performance/song-in-your-soul",
+   "name": "Song In Your Soul",
+   "kind": "feat",
+   "sphere": "Performance",
+   "system": "Spheres of Guile",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Performance sphere ((instrumental or lyric) package), associated ranks 10.",
+   "source": "Diamond Spheres: Harmony & Discord",
+   "status": "current",
+   "url": "Other-Pages/Performance/Performance-Sphere-Feats#song-in-your-soul",
+   "md": "*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*\n\n**Prerequisites:** Performance sphere ((instrumental or lyric) package), associated ranks 10.\n\n**Benefit:** Choose a single (instrumental) or (lyric) talent that you possess and have the appropriate package for—you gain the benefits of the chosen instrumental or lyric as a constant effect.\n\nDue to not being an actual use of this ability, it does not need to be maintained (nor does it receive benefits for being maintained), and only affects you. Such a lyric does not count towards the number of lyrics you can be affected by at one time and can still be expended, returning after 1 minute has elapsed.\n\nYou can spend 1 hour to change the chosen (instrumental) or (lyric) talent to a different talent that you possess. You cannot have both a constant instrumental and lyric active at the same time.",
+   "options": []
+  },
+  {
+   "id": "performance/spring-in-your-step",
+   "name": "Spring In Your Step",
+   "kind": "feat",
+   "sphere": "Performance",
+   "system": "Spheres of Guile",
+   "group": "General",
+   "tags": [],
+   "talentTags": [],
+   "prerequisites": "Performance sphere ((dance) package), associated ranks 10.",
+   "source": "Diamond Spheres: Hustle & Bustle",
+   "status": "current",
+   "url": "Other-Pages/Performance/Performance-Sphere-Feats#spring-in-your-step",
+   "md": "*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*\n\n**Prerequisites:** Performance sphere ((dance) package), associated ranks 10.\n\n**Benefit:** Choose a single (dance) talent that you possess—you gain the benefits of the chosen (dance) talent as a constant effect, treating your dance area as being your threatened area if the talent relies on it.\n\nDue to not being an actual use of this ability, it does not need to be maintained (nor does it receive benefits for being maintained), and only affects you and therefore cannot gain dancers. If you are dancing, you can choose to add the chosen (dance) talent to the dance without it counting towards the total number of (dance) talents you could apply to it.\n\nYou can spend 1 hour to change the chosen (dance) talent to a different talent that you possess.",
+   "options": []
+  },
+  {
    "id": "performance/dramaturge-alternate-start",
    "name": "Dramaturge",
    "kind": "drawback",
