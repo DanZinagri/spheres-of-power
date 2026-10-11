@@ -79,3 +79,11 @@ You may even target creatures with your battlefield relay that are usually immun
 **Prerequisites:** Coordination class feature, psionics class feature.
 
 **Benefit:** When using the coordination class feature, you may receive the bonus to damage from a number of allies equal to your casting ability modifier. This expends 3 rounds of your daily uses of psionic effects for the day.
+
+#### Extra Swarm Powers
+
+**Prerequisite:** Swarm powers class feature.
+
+**Benefit:** You gain an additional swarm power you qualify for.
+
+**Special:** This feat can be taken multiple times.

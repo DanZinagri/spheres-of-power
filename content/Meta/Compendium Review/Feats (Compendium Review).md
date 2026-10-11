@@ -23,56 +23,56 @@ What the feat extractor takes from the site (1261 Spheres feats; approved), plus
 | Item Creation | 20 | 28 |
 | Racial | 39 | — |
 | Monster | 3 | 27 |
-| Squadron | 28 | — |
 | Critical | — | 28 |
+| Squadron | 28 | — |
 | Admixture | 24 | — |
 | Aristeia | 23 | — |
 | Conduit | — | 23 |
 | Grit | — | 21 |
 | Counterspell | 20 | — |
 | Item Mastery | — | 19 |
-| Weapon Mastery | — | 17 |
 | Faction | — | 17 |
 | Gizmo | 17 | — |
+| Weapon Mastery | — | 17 |
 | Stare | — | 16 |
 | Protokinesis | 16 | — |
 | Companion | 15 | — |
 | Performance | — | 15 |
 | Shield Mastery | — | 14 |
 | Meditation | — | 14 |
-| Necrosis | 12 | — |
 | Shield Style | — | 12 |
 | Proxy | 12 | — |
-| Wild Magic | 12 | — |
-| Surreal | 12 | — |
 | Defiler | 12 | — |
-| Armor Mastery | — | 11 |
-| Channeling | 11 | — |
-| Achievement | — | 11 |
+| Wild Magic | 12 | — |
+| Necrosis | 12 | — |
+| Surreal | 12 | — |
 | Panache | — | 11 |
+| Channeling | 11 | — |
 | Purring | 11 | — |
+| Armor Mastery | — | 11 |
+| Achievement | — | 11 |
 | Rune | 10 | — |
 | Alignment | — | 9 |
-| Armor Style | — | 9 |
 | Esoteric | — | 9 |
+| Armor Style | — | 9 |
 | Origin | — | 9 |
-| Familiar | — | 8 |
 | Blood Hex | — | 8 |
+| Familiar | — | 8 |
+| Damnation | 3 | 4 |
 | Combination | — | 7 |
 | Theurge | 7 | — |
-| Damnation | 3 | 4 |
-| Betrayal | — | 6 |
-| Anathema | 6 | — |
-| Plague | 6 | — |
-| Trick | — | 6 |
 | Chance | 6 | — |
-| Gathlain Court Title | — | 4 |
+| Trick | — | 6 |
+| Plague | 6 | — |
+| Anathema | 6 | — |
+| Betrayal | — | 6 |
 | Targeting | — | 4 |
+| Gathlain Court Title | — | 4 |
 | Words of Power | — | 3 |
 | Hero Point | — | 3 |
-| Coven | — | 2 |
 | Called Shot | — | 2 |
 | Luck | 2 | — |
+| Coven | — | 2 |
 
 ## Spheres of Power (954)
 
@@ -138,7 +138,7 @@ What the feat extractor takes from the site (1261 Spheres feats; approved), plus
 
 | Feat | Types | Spheres | Other | Prerequisites |
 | --- | --- | --- | --- | --- |
-| [[Armorist-Feats#extra-arsenal-trick\|Extra Arsenal Trick]] | General | — | also on 1 other page(s) | Arsenal trick class feature. |
+| [[Armorist-Feats#extra-arsenal-trick\|Extra Arsenal Trick]] | General | — | — | Arsenal trick class feature. |
 
 ### Blood Sphere Feats (17)
 
@@ -347,11 +347,12 @@ What the feat extractor takes from the site (1261 Spheres feats; approved), plus
 | [[Divination-Sphere-Feats#tabulated-mind\|Tabulated Mind]] | General | Divination | — | Divination sphere. |
 | [[Divination-Sphere-Feats#totemic-radar-dual-sphere\|Totemic Radar]] | Dual Sphere | Divination, War | also on 1 other page(s) | Divination sphere (Blindfolded Oracle (sense)), War sphere. |
 
-### Elementalist Feats (1)
+### Elementalist Feats (2)
 
 | Feat | Types | Spheres | Other | Prerequisites |
 | --- | --- | --- | --- | --- |
 | [[Elementalist-Feats#improved-favored-element\|Improved Favored Element]] | General | — | — | Two favored elements. |
+| [[Elementalist-Feats#extra-electrokinetic-stunt\|Extra Electrokinetic Stunt]] | General | — | — | Electrokinetic stunt class feature. |
 
 ### Eliciter Feats (9)
 
@@ -360,7 +361,7 @@ What the feat extractor takes from the site (1261 Spheres feats; approved), plus
 | [[Eliciter-Feats#dynopathy\|Dynopathy]] | General | Mind | — | Mind sphere, emotion class feature, caster level 5th. |
 | [[Eliciter-Feats#elicit-strike-combat\|Elicit Strike]] | Combat | — | also on 1 other page(s) | Emotion class feature. |
 | [[Eliciter-Feats#emotional-conduit\|Emotional Conduit]] | General | Leadership | — | Leadership sphere, (cohort) package, emotion class feature. |
-| [[Eliciter-Feats#extra-emotion\|Extra Emotion]] | General | — | also on 1 other page(s) | Emotion class feature. |
+| [[Eliciter-Feats#extra-emotion\|Extra Emotion]] | General | — | — | Emotion class feature. |
 | [[Eliciter-Feats#greater-hypnosis\|Greater Hypnosis]] | General | — | — | Hypnotism class feature. |
 | [[Eliciter-Feats#impassion\|Impassion]] | General | War | — | War sphere, emotion class feature. |
 | [[Eliciter-Feats#soul-piercing-gaze\|Soul-Piercing Gaze]] | General | — | — | Emotion class feature. |
@@ -654,25 +655,13 @@ What the feat extractor takes from the site (1261 Spheres feats; approved), plus
 | [[DrawbackDefiler-Feats#specialist-defiler-defiler-drawback\|Specialist Defiler]] | Defiler, Drawback | — | — | Terrain Casting drawback, non-good alignment. |
 | [[DrawbackDefiler-Feats#terrain-defiler-defiler-drawback\|Terrain Defiler]] | Defiler, Drawback | — | — | Terrain Casting drawback, non-good alignment. |
 
-### Extra Feats (15)
+### Extra Feats (3)
 
 | Feat | Types | Spheres | Other | Prerequisites |
 | --- | --- | --- | --- | --- |
-| [[Extra-Feats#extra-bestial-trait\|Extra Bestial Trait]] | General | — | also on 1 other page(s) | Bestial trait class feature. |
-| [[Extra-Feats#extra-breadth-of-form\|Extra Breadth Of Form]] | General | — | — | Breadth of form class feature. |
 | [[Extra-Feats#extra-divine-works\|Extra Divine Works]] | General | — | — | Divine works class feature. |
-| [[Extra-Feats#extra-electrokinetic-stunt\|Extra Electrokinetic Stunt]] | General | — | — | Electrokinetic stunt class feature. |
-| [[Extra-Feats#extra-iatrogen\|Extra Iatrogen]] | General | — | — | Iatrogen class feature. |
-| [[Extra-Feats#extra-invocations\|Extra Invocations]] | General | — | also on 1 other page(s) | Invocations class feature. |
-| [[Extra-Feats#extra-mystic-combat\|Extra Mystic Combat]] | General | — | also on 1 other page(s) | Mystic combat class feature. |
-| [[Extra-Feats#extra-nexus-powers\|Extra Nexus Powers]] | General | — | also on 1 other page(s) | Bound nexus class feature. |
 | [[Extra-Feats#extra-origin-talent\|Extra Origin Talent]] | General | — | — | — |
-| [[Extra-Feats#extra-psionics\|Extra Psionics]] | General | — | also on 1 other page(s) | Psionics class feature. |
-| [[Extra-Feats#extra-secret\|Extra Secret]] | General | — | also on 1 other page(s) | Secrets class feature. |
-| [[Extra-Feats#extra-shadowstuff\|Extra Shadowstuff]] | General | — | also on 1 other page(s) | Shadowstuff class feature. |
-| [[Extra-Feats#extra-swarm-powers\|Extra Swarm Powers]] | General | — | — | Swarm powers class feature. |
-| [[Extra-Feats#extra-unseen-augmentation\|Extra Unseen Augmentation]] | General | — | — | Unseen forces class feature. |
-| [[Extra-Feats#extra-wraith-haunt\|Extra Wraith Haunt]] | General | — | — | Wraith haunt class feature. |
+| [[Extra-Feats#extra-spell-points\|Extra Spell Points]] | General | — | — | Spell pool. |
 
 ### General Feats (85)
 
@@ -1069,13 +1058,20 @@ What the feat extractor takes from the site (1261 Spheres feats; approved), plus
 | [[Wild-Magic-Feats#shift-cost-wild-magic\|Shift Cost]] | Wild Magic | — | — | Spell point pool. |
 | [[Wild-Magic-Feats#shift-effect-wild-magic\|Shift Effect]] | Wild Magic | — | — | Spell point pool or casting class feature. |
 
-### Fey Adept Feats (3)
+### Fey Adept Feats (4)
 
 | Feat | Types | Spheres | Other | Prerequisites |
 | --- | --- | --- | --- | --- |
+| [[Fey-Adept-Feats#extra-shadowstuff\|Extra Shadowstuff]] | General | — | — | Shadowstuff class feature. |
 | [[Fey-Adept-Feats#psychosomatic-healing\|Psychosomatic Healing]] | General | — | — | Create reality class feature. |
 | [[Fey-Adept-Feats#shrouding-aegis\|Shrouding Aegis]] | General | Protection | — | Protection sphere, shadowstuff class feature. |
 | [[Fey-Adept-Feats#violent-shadow-surreal\|Violent Shadow]] | Surreal | — | — | Shadowmark 3d6, shadow pool. |
+
+### Hedgewitch Feats (1)
+
+| Feat | Types | Spheres | Other | Prerequisites |
+| --- | --- | --- | --- | --- |
+| [[Hedgewitch-Feats#extra-secret\|Extra Secret]] | General | — | — | Secrets class feature. |
 
 ### Illusion Sphere Feats (11)
 
@@ -1141,10 +1137,11 @@ What the feat extractor takes from the site (1261 Spheres feats; approved), plus
 | [[Light-Sphere-Feats#twilight-adept-teamwork\|Twilight Adept]] | Teamwork | Dark, Light | — | Dark sphere or Light sphere. |
 | [[Light-Sphere-Feats#wave-particle-duality-dual-sphere\|Wave-Particle Duality]] | Dual Sphere | Illusion, Light | — | Illusion sphere, Light sphere. |
 
-### Mageknight Feats (1)
+### Mageknight Feats (2)
 
 | Feat | Types | Spheres | Other | Prerequisites |
 | --- | --- | --- | --- | --- |
+| [[Mageknight-Feats#extra-mystic-combat\|Extra Mystic Combat]] | General | — | — | Mystic combat class feature. |
 | [[Mageknight-Feats#improved-spell-combat-combat\|Improved Spell Combat]] | Combat | — | — | Casting class feature; any talent with the strike descriptor. |
 
 ### Mana Sphere Feats (15)
@@ -1216,23 +1213,34 @@ What the feat extractor takes from the site (1261 Spheres feats; approved), plus
 | [[Protection-Sphere-Feats#warded-bones-dual-sphere\|Warded Bones]] | Dual Sphere | Death, Protection | — | Death sphere, Protection sphere. |
 | [[Protection-Sphere-Feats#warning-sign-dual-sphere\|Warning Sign]] | Dual Sphere | Protection, War | — | Protection sphere, War sphere. |
 
-### Soul Weaver Feats (2)
+### Shifter Feats (2)
+
+| Feat | Types | Spheres | Other | Prerequisites |
+| --- | --- | --- | --- | --- |
+| [[Shifter-Feats#extra-bestial-trait\|Extra Bestial Trait]] | General | — | — | Bestial trait class feature. |
+| [[Shifter-Feats#extra-breadth-of-form\|Extra Breadth Of Form]] | General | — | — | Breadth of form class feature. |
+
+### Soul Weaver Feats (4)
 
 | Feat | Types | Spheres | Other | Prerequisites |
 | --- | --- | --- | --- | --- |
 | [[Soul-Weaver-Feats#ensouled-totem\|Ensouled Totem]] | General | War | — | War sphere, bound nexus class feature. |
+| [[Soul-Weaver-Feats#extra-nexus-powers\|Extra Nexus Powers]] | General | — | — | Bound nexus class feature. |
 | [[Soul-Weaver-Feats#weaponized-anathema-anathema\|Weaponized Anathema]] | Anathema | — | — | Anathema. |
+| [[Soul-Weaver-Feats#extra-iatrogen\|Extra Iatrogen]] | General | — | — | Iatrogen class feature. |
 
-### Symbiat Feats (6)
+### Symbiat Feats (8)
 
 | Feat | Types | Spheres | Other | Prerequisites |
 | --- | --- | --- | --- | --- |
+| [[Symbiat-Feats#extra-psionics\|Extra Psionics]] | General | — | — | Psionics class feature. |
 | [[Symbiat-Feats#lingering-link\|Lingering Link]] | General | — | — | Psionics class feature, mind link psionic effect. |
 | [[Symbiat-Feats#lingering-psionics\|Lingering Psionics]] | General | — | — | Psionics class feature. |
 | [[Symbiat-Feats#mind-opener\|Mind Opener]] | General | — | — | Psionics class feature, battlefield relay psionic effect. |
 | [[Symbiat-Feats#perceptive-psionics\|Perceptive Psionics]] | General | — | — | Perception 7 ranks, Sense Motive 7 ranks, psionics class feature, battlefield relay psionic effect. |
 | [[Symbiat-Feats#psionic-vigilance\|Psionic Vigilance]] | General | War | — | War sphere, psionics class feature. |
 | [[Symbiat-Feats#psionic-vitality\|Psionic Vitality]] | General | Life | — | Life sphere, psionics class feature. |
+| [[Symbiat-Feats#extra-swarm-powers\|Extra Swarm Powers]] | General | — | — | Swarm powers class feature. |
 
 ### Telekinesis Sphere Feats (5)
 
@@ -1244,10 +1252,11 @@ What the feat extractor takes from the site (1261 Spheres feats; approved), plus
 | [[Telekinesis-Sphere-Feats#skillful-force\|Skillful Force]] | General | Telekinesis | — | Telekinesis sphere (Finesse, Steal, or Telekinetic Tools). |
 | [[Telekinesis-Sphere-Feats#tactile-illusion-dual-sphere\|Tactile Illusion]] | Dual Sphere | Illusion, Telekinesis | — | Illusion sphere (Illusionary Touch (sensory, touch) x2), Telekinesis sphere (Finesse). |
 
-### Thaumaturge Feats (8)
+### Thaumaturge Feats (10)
 
 | Feat | Types | Spheres | Other | Prerequisites |
 | --- | --- | --- | --- | --- |
+| [[Thaumaturge-Feats#extra-invocations\|Extra Invocations]] | General | — | — | Invocations class feature. |
 | [[Thaumaturge-Feats#forbidden-totem\|Forbidden Totem]] | General | War | — | War sphere, forbidden lore class feature. |
 | [[Thaumaturge-Feats#master-artisan\|Master Artisan]] | General | — | — | Forbidden lore class feature, any item creation feat. |
 | [[Thaumaturge-Feats#master-of-cosmos\|Master Of Cosmos]] | General | Conjuration | — | Conjuration sphere, forbidden lore class feature. |
@@ -1256,6 +1265,7 @@ What the feat extractor takes from the site (1261 Spheres feats; approved), plus
 | [[Thaumaturge-Feats#occult-savant\|Occult Savant]] | General | — | — | Spellcraft 10 ranks, Use Magic Device 10 ranks or any Knowledge skill 10 ranks; occult knowledge class feature. |
 | [[Thaumaturge-Feats#totem-of-the-darkest-aberration\|Totem Of The Darkest Aberration]] | General | War | — | War sphere, forbidden lore class feature. |
 | [[Thaumaturge-Feats#totem-of-the-deepest-curse\|Totem Of The Deepest Curse]] | General | War | — | War sphere, forbidden lore class feature. |
+| [[Thaumaturge-Feats#extra-unseen-augmentation\|Extra Unseen Augmentation]] | General | — | — | Unseen forces class feature. |
 
 ### Time Sphere Feats (8)
 
@@ -1342,12 +1352,30 @@ What the feat extractor takes from the site (1261 Spheres feats; approved), plus
 
 ## Spheres of Might (129)
 
+### Armiger Feats (1)
+
+| Feat | Types | Spheres | Other | Prerequisites |
+| --- | --- | --- | --- | --- |
+| [[Armiger-Feats#extra-prowess\|Extra Prowess]] | General | — | — | Armiger 5. |
+
 ### Barista: New Feats (2)
 
 | Feat | Types | Spheres | Other | Prerequisites |
 | --- | --- | --- | --- | --- |
 | [[Barista#part-time-barista\|Part-Time Barista]] | General | — | — | Invigorating brews class feature. |
 | [[Barista#ill-sleep-when-im-dead-aristeia\|I’ll Sleep When I’m Dead]] | Aristeia | — | — | — |
+
+### Blacksmith Feats (1)
+
+| Feat | Types | Spheres | Other | Prerequisites |
+| --- | --- | --- | --- | --- |
+| [[Blacksmith-Feats#extra-smithing-insight\|Extra Smithing Insight]] | General | — | — | Blacksmith 7. |
+
+### Commander Feats (1)
+
+| Feat | Types | Spheres | Other | Prerequisites |
+| --- | --- | --- | --- | --- |
+| [[Commander-Feats#extra-battlefield-specialization\|Extra Battlefield Specialization]] | General | — | — | Commander 5. |
 
 ### Practitioner Bestiary: Monster Feats (3)
 
@@ -1357,7 +1385,7 @@ What the feat extractor takes from the site (1261 Spheres feats; approved), plus
 | [[Practitioner-Bestiary#focusing-exhalation-monster\|Focusing Exhalation]] | Monster | — | — | Breath weapon universal monster ability, martial focus. |
 | [[Practitioner-Bestiary#tricky-underlings-combat-monster\|Tricky Underlings]] | Combat, Monster | Leadership, Trap | — | Trap sphere (Persistent Trap), Leadership sphere ((followers) package, Base Of Operations). |
 
-### Practitioner Feats (117)
+### Practitioner Feats (101)
 
 | Feat | Types | Spheres | Other | Prerequisites |
 | --- | --- | --- | --- | --- |
@@ -1400,16 +1428,10 @@ What the feat extractor takes from the site (1261 Spheres feats; approved), plus
 | [[Practitioner-Feats#escutcheon-combat\|Escutcheon]] | Combat | Shield, Warleader | — | Shield sphere; Warleader sphere (Heraldry) or banner class feature. |
 | [[Practitioner-Feats#expanded-battlefield-specialty-plan\|Expanded Battlefield Specialty]] | General | — | [plan] | Commander 10th level, battlefield specialty class feature. |
 | [[Practitioner-Feats#extend-stance-combat\|Extend Stance]] | Combat | — | — | Any (stance) talent. |
-| [[Practitioner-Feats#extra-battlefield-specialization\|Extra Battlefield Specialization]] | General | — | — | Commander 5. |
 | [[Practitioner-Feats#extra-boon-of-purpose\|Extra Boon Of Purpose]] | General | — | — | Boon of purpose class feature. |
 | [[Practitioner-Feats#extra-combat-talent-combat\|Extra Combat Talent]] | Combat | — | — | — |
 | [[Practitioner-Feats#extra-enhanced-tactics\|Extra Enhanced Tactics]] | General | — | — | Enhanced tactic class feature. |
 | [[Practitioner-Feats#extra-ki-power\|Extra Ki Power]] | General | — | — | Cultivate Ki or ki power class feature. |
-| [[Practitioner-Feats#extra-prowess\|Extra Prowess]] | General | — | — | Armiger 5. |
-| [[Practitioner-Feats#extra-scholars-knack\|Extra Scholar’s Knack]] | General | — | — | Scholar 7. |
-| [[Practitioner-Feats#extra-smithing-insight\|Extra Smithing Insight]] | General | — | — | Blacksmith 7. |
-| [[Practitioner-Feats#extra-striker-art\|Extra Striker Art]] | General | — | — | Striker 5. |
-| [[Practitioner-Feats#extra-technical-insight\|Extra Technical Insight]] | General | — | — | Technician 5. |
 | [[Practitioner-Feats#flyby-attack-monster\|Flyby Attack (Monster)*]] | General | — | — | Fly speed. |
 | [[Practitioner-Feats#focused-stamina\|Focused Stamina]] | General | — | — | Martial focus, combat stamina. |
 | [[Practitioner-Feats#forbidden-consumption-technique-combat\|Forbidden Consumption Technique]] | Combat | — | — | Base attack bonus +5. |
@@ -1468,16 +1490,6 @@ What the feat extractor takes from the site (1261 Spheres feats; approved), plus
 | [[Practitioner-Feats#versed-student\|Versed Student]] | General | — | also on 1 other page(s) | — |
 | [[Practitioner-Feats#wiggling-footsies-combat\|Wiggling Footsies]] | Combat | Fencing, Scout | — | Fencing sphere (Footwork), Scout sphere (Calibrating Wiggle). |
 | [[Practitioner-Feats#zodiac-tattoos\|Zodiac Tattoos*]] | General | — | — | Craft (tattoos) 5 ranks, Unarmored Training or AC Bonus class feature. |
-| [[Practitioner-Feats#mobile-drone\|Mobile Drone]] | General | Tech | — | Tech sphere, Drone. |
-| [[Practitioner-Feats#receptive-to-grafts\|Receptive to Grafts]] | General | — | — | — |
-| [[Practitioner-Feats#reckless-drone\|Reckless Drone]] | General | Tech | — | Tech sphere, Drone. |
-| [[Practitioner-Feats#recon-drone\|Recon Drone]] | General | Tech | — | Tech sphere, Drone. |
-| [[Practitioner-Feats#remote-hacking\|Remote Hacking]] | General | Tech | — | Tech sphere (Remote Control). |
-| [[Practitioner-Feats#sacrificial-augment-combat\|Sacrificial Augment]] | Combat | Guardian | — | Guardian sphere. |
-| [[Practitioner-Feats#shield-drone\|Shield Drone]] | General | Tech | — | Tech sphere, Drone. |
-| [[Practitioner-Feats#technical-compatibility\|Technical Compatibility]] | General | Tech | — | Independent Invention, Tech sphere, Drone. |
-| [[Practitioner-Feats#technologically-alchemical-ammo-dual-sphere\|Technologically Alchemical Ammo]] | Dual Sphere | Alchemy, Tech | — | Tech sphere, Ammo Spitter, Alchemy sphere (formulae) package. |
-| [[Practitioner-Feats#undetectable-hacking\|Undetectable Hacking]] | General | Tech | — | Tech sphere (Remote Control), Remote Hacking. |
 
 ### Savant Feats (1)
 
@@ -1485,11 +1497,38 @@ What the feat extractor takes from the site (1261 Spheres feats; approved), plus
 | --- | --- | --- | --- | --- |
 | [[Savant-Feats#moderated-invocation\|Moderated Invocation]] | General | — | also on 1 other page(s) | Forbidden Lore or Strain class feature |
 
+### Scholar Feats (1)
+
+| Feat | Types | Spheres | Other | Prerequisites |
+| --- | --- | --- | --- | --- |
+| [[Scholar-Feats#extra-scholars-knack\|Extra Scholar’s Knack]] | General | — | — | Scholar 7. |
+
 ### Sentinel Feats (1)
 
 | Feat | Types | Spheres | Other | Prerequisites |
 | --- | --- | --- | --- | --- |
 | [[Sentinel-Feats#protective-reserve\|Protective Reserve]] | General | — | — | Sentinel’s reserve class feature. |
+
+### Striker Feats (1)
+
+| Feat | Types | Spheres | Other | Prerequisites |
+| --- | --- | --- | --- | --- |
+| [[Striker-Feats#extra-striker-art\|Extra Striker Art]] | General | — | — | Striker 5. |
+
+### Tech Sphere Feats (10)
+
+| Feat | Types | Spheres | Other | Prerequisites |
+| --- | --- | --- | --- | --- |
+| [[Tech-Sphere-Feats#mobile-drone\|Mobile Drone]] | General | Tech | — | Tech sphere, Drone. |
+| [[Tech-Sphere-Feats#receptive-to-grafts\|Receptive to Grafts]] | General | Tech | — | — |
+| [[Tech-Sphere-Feats#reckless-drone\|Reckless Drone]] | General | Tech | — | Tech sphere, Drone. |
+| [[Tech-Sphere-Feats#recon-drone\|Recon Drone]] | General | Tech | — | Tech sphere, Drone. |
+| [[Tech-Sphere-Feats#remote-hacking\|Remote Hacking]] | General | Tech | — | Tech sphere (Remote Control). |
+| [[Tech-Sphere-Feats#sacrificial-augment-combat\|Sacrificial Augment]] | Combat | Guardian, Tech | — | Guardian sphere. |
+| [[Tech-Sphere-Feats#shield-drone\|Shield Drone]] | General | Tech | — | Tech sphere, Drone. |
+| [[Tech-Sphere-Feats#technical-compatibility\|Technical Compatibility]] | General | Tech | — | Independent Invention, Tech sphere, Drone. |
+| [[Tech-Sphere-Feats#technologically-alchemical-ammo-dual-sphere\|Technologically Alchemical Ammo]] | Dual Sphere | Alchemy, Tech | — | Tech sphere, Ammo Spitter, Alchemy sphere (formulae) package. |
+| [[Tech-Sphere-Feats#undetectable-hacking\|Undetectable Hacking]] | General | Tech | — | Tech sphere (Remote Control), Remote Hacking. |
 
 ### Tech: New Crafting Feats (5)
 
@@ -1501,7 +1540,43 @@ What the feat extractor takes from the site (1261 Spheres feats; approved), plus
 | [[Tech#craft-widgets-and-gizmos-item-creation\|Craft Widgets And Gizmos]] | Item Creation | Tech | — | Tech sphere, Craft (mechanical) 1 ranks. |
 | [[Tech#old-feat-craft-permanent-gadget-item-creation\|(Old Feat) Craft Permanent Gadget]] | Item Creation | Tech | — | Tech sphere, Craft (mechanical) 3 ranks. |
 
+### Technician Feats (1)
+
+| Feat | Types | Spheres | Other | Prerequisites |
+| --- | --- | --- | --- | --- |
+| [[Technician-Feats#extra-technical-insight\|Extra Technical Insight]] | General | — | — | Technician 5. |
+
 ## Spheres of Guile (77)
+
+### Advisor Feats (1)
+
+| Feat | Types | Spheres | Other | Prerequisites |
+| --- | --- | --- | --- | --- |
+| [[Advisor-Feats#extra-advisor-lesson\|Extra Advisor Lesson]] | General | — | — | Advisor 5. |
+
+### Conduit Feats (1)
+
+| Feat | Types | Spheres | Other | Prerequisites |
+| --- | --- | --- | --- | --- |
+| [[Conduit-Feats#extra-conduit-wonder\|Extra Conduit Wonder]] | General | — | — | Conduit 5. |
+
+### Courser Feats (1)
+
+| Feat | Types | Spheres | Other | Prerequisites |
+| --- | --- | --- | --- | --- |
+| [[Courser-Feats#extra-courser-venture\|Extra Courser Venture]] | General | — | — | Courser 5. |
+
+### Envoy Feats (1)
+
+| Feat | Types | Spheres | Other | Prerequisites |
+| --- | --- | --- | --- | --- |
+| [[Envoy-Feats#extra-envoy-flair\|Extra Envoy Flair]] | General | — | — | Envoy 5. |
+
+### Mastermind Feats (1)
+
+| Feat | Types | Spheres | Other | Prerequisites |
+| --- | --- | --- | --- | --- |
+| [[Mastermind-Feats#extra-mastermind-trick\|Extra Mastermind Trick]] | General | — | — | Mastermind 7. |
 
 ### Occultism Sphere Feats (5)
 
@@ -1575,7 +1650,7 @@ What the feat extractor takes from the site (1261 Spheres feats; approved), plus
 | [[Navigation-Sphere-Feats#scorched-path-champion\|Scorched Path]] | Champion | Destruction, Navigation | — | Destruction Sphere, Navigation Sphere |
 | [[Navigation-Sphere-Feats#trailblazer-champion\|Trailblazer]] | Champion | Athletics, Navigation | also on 1 other page(s) | Athletics sphere, Navigation sphere. |
 
-### Operative Feats (35)
+### Operative Feats (30)
 
 | Feat | Types | Spheres | Other | Prerequisites |
 | --- | --- | --- | --- | --- |
@@ -1583,12 +1658,7 @@ What the feat extractor takes from the site (1261 Spheres feats; approved), plus
 | [[Operative-Feats#catchy-tune\|Catchy Tune]] | General | Performance | also on 1 other page(s) | Associated skill 5 ranks, Performance sphere ((lyric) package). |
 | [[Operative-Feats#dual-hack\|Dual Hack]] | General | Spellhacking | also on 1 other page(s) | Spellhacking sphere. |
 | [[Operative-Feats#earthly-aptitude\|Earthly Aptitude]] | General | Study | also on 1 other page(s) | Knowledge (dungeoneering) 3 ranks, Knowledge (engineering) 3 ranks, Knowledge (geography) 3 ranks, or Knowledge (nature) |
-| [[Operative-Feats#extra-advisor-lesson\|Extra Advisor Lesson]] | General | — | — | Advisor 5. |
 | [[Operative-Feats#extra-conspiracy-feature\|Extra Conspiracy Feature]] | General | — | — | Base skill sphere granted by the chosen conspiracy, agent 1 or mastermind 1. |
-| [[Operative-Feats#extra-conduit-wonder\|Extra Conduit Wonder]] | General | — | — | Conduit 5. |
-| [[Operative-Feats#extra-courser-venture\|Extra Courser Venture]] | General | — | — | Courser 5. |
-| [[Operative-Feats#extra-envoy-flair\|Extra Envoy Flair]] | General | — | — | Envoy 5. |
-| [[Operative-Feats#extra-mastermind-trick\|Extra Mastermind Trick]] | General | — | — | Mastermind 7. |
 | [[Operative-Feats#extra-skill-leverage\|Extra Skill Leverage]] | General | — | — | Skill leverage. |
 | [[Operative-Feats#extra-skill-talent\|Extra Skill Talent]] | General | — | — | — |
 | [[Operative-Feats#fane-of-power-su\|Fane of Power]] | General | Occultism | Su | Occultism sphere, associated skill 5 ranks. |
@@ -1690,13 +1760,13 @@ What the feat extractor takes from the site (1261 Spheres feats; approved), plus
 
 | Feat | Types | Spheres | Other | Prerequisites |
 | --- | --- | --- | --- | --- |
-| [[Dissident-Feats#extra-nuance\|Extra Nuance]] | General | — | also on 1 other page(s) | 5th-level dissident. |
+| [[Dissident-Feats#extra-nuance\|Extra Nuance]] | General | — | — | 5th-level dissident. |
 
 ### Theorist Feats (1)
 
 | Feat | Types | Spheres | Other | Prerequisites |
 | --- | --- | --- | --- | --- |
-| [[Theorist-Feats#extra-model\|Extra Model]] | General | — | also on 1 other page(s) | Model class feature or Theoretical Initiate. |
+| [[Theorist-Feats#extra-model\|Extra Model]] | General | — | — | Model class feature or Theoretical Initiate. |
 
 ### Troubadour Feats (1)
 
@@ -1710,7 +1780,7 @@ What the feat extractor takes from the site (1261 Spheres feats; approved), plus
 | --- | --- | --- | --- | --- |
 | [[Warden-Feats#extra-magic-talent\|Extra Magic Talent]] | General | — | also on 12 other page(s) | Basic Magic Training or casting class feature. |
 | [[Warden-Feats#extra-reinforcement\|Extra Reinforcement]] | General | — | also on 1 other page(s) | Warden 5. |
-| [[Warden-Feats#extra-spell-points\|Extra Spell Points]] | General | — | also on 12 other page(s) | Spell pool. |
+| [[Warden-Feats#extra-spell-points\|Extra Spell Points]] | General | — | also on 11 other page(s) | Spell pool. |
 | [[Warden-Feats#minor-charm-specialist\|Minor Charm Specialist]] | General | Mind | also on 1 other page(s) | Mind sphere. |
 | [[Warden-Feats#sphere-focus\|Sphere Focus]] | General | — | also on 11 other page(s) | Casting class feature. |
 

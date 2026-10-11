@@ -2293,6 +2293,188 @@ def split_drawbacks(md: str, overview: str = DRAWBACKS_HEADING) -> tuple[str, st
     return "\n".join(lines[:start] + keep + lines[end:]), intro, spheres
 
 
+# the shared feat pages whose "Extra ..." feats (more uses or picks of one class's feature) move to
+# that class's own feats page
+EXTRA_FEAT_PAGES = ["extra-feats", "practitioner-feats", "operative-feats"]
+
+
+def distribute_extra_feats(pages: dict, class_pages: set, class_options: dict, derived_notes: list, create: bool = True) -> None:
+    """Each "Extra <feature>" feat on the shared feat pages that belongs to one class goes to that
+    class's "<Class> Feats" page (made if the class has none); one already there is simply dropped
+    from the shared page. Feats no single class owns (Extra Magic Talent, Extra Spell Points) stay."""
+    level_of = lambda l: len(m.group(1)) if (m := re.match(r"(#{1,6}) ", l)) else 0
+    norm = lambda t: re.sub(r"[^a-z0-9 ]", "", t.lower().replace("’", "").replace("'", "")).strip()
+    stem = lambda t: re.sub(r"s\b", "", norm(t))
+    classes = []
+    for pg in pages.values():
+        if pg.slug not in class_pages:
+            continue
+        f = CONTENT / pg.folder / f"{pg.filename}.md"
+        if not f.exists():
+            continue
+        text = f.read_text(encoding="utf-8")
+        # its archetypes' pages (the other notes in the class's own folder) count: their features are the class's too
+        if Path(pg.folder).name == pg.filename:
+            text += "".join("\n" + x.read_text(encoding="utf-8") for x in sorted(f.parent.glob("*.md"))
+                            if x != f and not x.stem.endswith((" Feats", " Drawbacks")))
+        heads = [stem(re.sub(r"\(.*?\)", "", l.lstrip("#*").split("**")[0])) for l in text.split("\n")
+                 if level_of(l) or re.match(r"\*\*[A-Z][^*]{2,40}\*\*", l)]
+        title = re.sub(r"\s*\(.*\)$", "", pg.title)
+        classes.append({"pg": pg, "title": title, "heads": [h for h in heads if h], "file": f,
+                        "feats": CONTENT / pg.folder / f"{clean_filename(title + ' Feats')}.md"})
+
+    def has_feat(c: dict, name: str) -> bool:
+        """Is the feat a heading on the class's feats page already?"""
+        if not c["feats"].exists():
+            return False
+        want = norm(re.sub(r"\s*[\[(].*$", "", name))
+        return any(level_of(l) and norm(re.sub(r"\s*[\[(].*$", "", l.lstrip("#"))) == want
+                   for l in c["feats"].read_text(encoding="utf-8").split("\n"))
+
+    def owner(name: str, block: str):
+        feature = stem(name[len("Extra "):])
+        pre = re.search(r"\*\*Prerequisites?:?\*\*:?\s*(.*)", block)
+        wanted = {feature}
+        if pre and (m := re.search(r"([A-Za-z’' -]+?) class feature", pre.group(1))):
+            wanted.add(stem(m.group(1)))
+        # "Extra Envoy Flair": the class is in the name
+        named = [c for c in classes if re.search(rf"\b{re.escape(norm(c['title']))}\b", norm(name))]
+        if len(named) == 1:
+            return named[0]
+        # "5th-level dissident", "Armiger 5": one class named in the prerequisites
+        if pre:
+            asked = [c for c in classes if re.search(rf"\b{re.escape(norm(c['title']))}\b", norm(pre.group(1)))]
+            if len(asked) == 1:
+                return asked[0]
+        if feature.endswith("talent") or feature in ("spell point",):
+            return None  # every caster's or practitioner's, not one class's
+        # a class whose feats page already lists it owns it
+        listed = [c for c in classes if has_feat(c, name)]
+        if listed:  # (on more than one: a duplicate here all the same)
+            return listed[0]
+        exact = [c for c in classes if any(w and w in c["heads"] for w in wanted)]
+        if len(exact) == 1:
+            return exact[0]
+        hits = [c for c in classes if any(w and any(h.startswith(w + " ") or h.endswith(" " + w) for h in c["heads"]) for w in wanted)]
+        if len(hits) == 1 and not exact:
+            return hits[0]
+        candidates[name] = sorted({c["title"] for c in exact + hits})
+        return None
+
+    report = []
+    candidates: dict[str, list[str]] = {}
+    for slug in EXTRA_FEAT_PAGES:
+        src = next((pg for pg in pages.values() if pg.slug == slug), None)
+        path = CONTENT / src.folder / f"{src.filename}.md" if src else None
+        if not (path and path.exists()):
+            continue
+        lines = path.read_text(encoding="utf-8").split("\n")
+        i, changed = 0, False
+        while i < len(lines):
+            if not re.match(r"#{2,6}\s+Extra \S", lines[i]):
+                i += 1
+                continue
+            lvl = level_of(lines[i])
+            end = next((j for j in range(i + 1, len(lines)) if 0 < level_of(lines[j]) <= lvl or lines[j].strip() == "---"), len(lines))
+            name = re.sub(r"\s*\(.*$", "", lines[i].lstrip("#").strip())
+            block = lines[i:end]
+            c = owner(name, "\n".join(block))
+            if not c or not (create or c["feats"].exists()):
+                report.append(f"{name}: stays on {src.filename}" + (f" (could be {', '.join(candidates[name])})" if candidates.get(name) else ""))
+                i = end
+                continue
+            entry = "\n".join(["#### " + block[0].lstrip("#").strip(), *block[1:]]).strip("\n")
+            if c["feats"].exists():
+                ftext = c["feats"].read_text(encoding="utf-8")
+                if has_feat(c, name):
+                    report.append(f"{name}: already on {c['feats'].stem}")
+                else:
+                    c["feats"].write_text(ftext.rstrip("\n") + "\n\n" + entry + "\n", encoding="utf-8")
+                    report.append(f"{name}: -> {c['feats'].stem}")
+            else:
+                pg = c["pg"]
+                ctitle = c["title"] + " Feats"
+                credit = m.group(0) if (m := re.search(r"^\*Source: .+\*$", c["file"].read_text(encoding="utf-8"), re.M)) else ""
+                c["feats"].write_text("\n".join(["---", f"title: {yaml_str(ctitle)}", f"source: {SITE}/{pg.slug}", "parent: " + yaml_str(f"[[{pg.filename}]]"),
+                                                 "searchtype: Class Options", "---"]) + "\n" + GENERATED_MARK + "\n\n" + (credit + "\n\n" if credit else "")
+                                      + f"The following feats are particularly appropriate or useful for a {c['title'].lower()}.\n\n" + entry + "\n", encoding="utf-8")
+                class_options.setdefault(pg.filename, []).append(f"[[{c['feats'].stem}\\|Feats]]")
+                derived_notes.append((f"{pg.folder}/{c['feats'].stem}.md".lstrip("/"), f"{pg.folder}/{pg.filename}.md".lstrip("/")))
+                report.append(f"{name}: -> new page {c['feats'].stem}")
+            lines = lines[:i] + lines[end:]
+            changed = True
+        if changed:
+            path.write_text(collapse_dividers("\n".join(lines)), encoding="utf-8")
+    print("Extra feats:", "; ".join(report))
+
+
+def drop_pointer_section(pages: dict, slug: str, title: str) -> None:
+    """Remove a top-level section that only points at another page (its link is on the home page now)."""
+    pg = next((x for x in pages.values() if x.slug == slug), None)
+    path = CONTENT / pg.folder / f"{pg.filename}.md" if pg else None
+    if not (path and path.exists()):
+        return
+    lines = path.read_text(encoding="utf-8").split("\n")
+    start = next((i for i, l in enumerate(lines) if l.strip() == f"# {title}"), None)
+    if start is None:
+        return
+    end = next((i for i in range(start + 1, len(lines)) if lines[i].startswith("# ") or lines[i].strip() == "---"), len(lines))
+    if any(l.startswith("#") for l in lines[start + 1:end]):
+        return  # it has entries of its own
+    path.write_text(collapse_dividers("\n".join(lines[:start] + lines[end:])), encoding="utf-8")
+
+
+def move_practitioner_feats(pages: dict, feats_pages: dict[str, str], derived_notes: list) -> None:
+    """Practitioner Feats, once written: its "Tech Sphere Feats" section becomes the Tech sphere's own
+    feats page (as the magic and skill spheres have), and its "Tinker Sphere Feats" pointer becomes the
+    Tinker sphere's home-page Feats link (to Gizmo Feats)."""
+    by_slug = {pg.slug: pg for pg in pages.values()}
+    src = by_slug.get("practitioner-feats")
+    if not src:
+        return
+    path = CONTENT / src.folder / f"{src.filename}.md"
+    if not path.exists():
+        return
+    lines = path.read_text(encoding="utf-8").split("\n")
+    level_of = lambda l: len(m.group(1)) if (m := re.match(r"(#{1,6}) ", l)) else 0
+
+    def cut_section(title: str) -> list[str]:
+        nonlocal lines
+        start = next((i for i, l in enumerate(lines) if re.fullmatch(rf"# {re.escape(title)}\s*", l)), None)
+        if start is None:
+            return []
+        end = next((i for i in range(start + 1, len(lines)) if level_of(lines[i]) == 1), len(lines))
+        chunk = lines[start + 1:end]
+        lines = lines[:start] + lines[end:]
+        return chunk
+
+    tech = cut_section("Tech Sphere Feats")
+    tinker = cut_section("Tinker Sphere Feats")
+    sphere = next((pg for pg in pages.values() if pg.filename == "Tech" and "Spheres Of Might" in pg.folder), None)
+    if tech and sphere and any(level_of(l) for l in tech):
+        while tech and tech[-1].strip() in ("", "---"):
+            tech.pop()
+        inner = min(level_of(l) for l in tech if level_of(l))
+        body = [("#" * max(2, level_of(l) - inner + 2) + " " + l.lstrip("#").lstrip()) if level_of(l) else l for l in tech]
+        name = clean_filename("Tech Sphere Feats")
+        (CONTENT / sphere.folder / f"{name}.md").write_text(
+            "\n".join(["---", 'title: "Tech Sphere Feats"', f"source: {SITE}/{src.slug}", "parent: " + yaml_str(f"[[{sphere.filename}]]"), "---"])
+            + "\n" + GENERATED_MARK + "\n\n" + collapse_dividers("\n".join(body).strip() + "\n"), encoding="utf-8")
+        feats_pages[sphere.filename] = name
+        derived_notes.append((f"{sphere.folder}/{name}.md".lstrip("/"), f"{sphere.folder}/{sphere.filename}.md".lstrip("/")))
+    # (the Tinker section, a pointer to the Gizmo Feats page, is added to the page later: drop_pointer_section)
+    if any(pg.filename == "Gizmo Feats" for pg in pages.values()):
+        feats_pages["Tinker"] = "Gizmo Feats"
+
+    notes = [f"**Sphere feats:** [[{feats_pages[sphere.filename]}]]" if sphere and sphere.filename in feats_pages else "",
+             f"[[{feats_pages['Tinker']}]] (Tinker)" if "Tinker" in feats_pages else ""]
+    if any(notes):
+        at = next((k for k, l in enumerate(lines) if l.startswith("**See Also:**")), None)
+        if at is not None:
+            lines[at + 1:at + 1] = ["", " · ".join(n for n in notes if n).replace("]] · [[", "]] (Tech) · [[", 1) if all(notes) else " ".join(n for n in notes if n)]
+    path.write_text(collapse_dividers("\n".join(lines)), encoding="utf-8")
+
+
 def add_feats_links(home_md: str, feats: dict[str, str], drawbacks: dict[str, str] | None = None) -> str:
     """Home page Magic Spheres list: "[[Alteration]]" -> "[[Alteration]] | [[Alteration Sphere Feats|Feats]]"."""
     out, inside = [], False
@@ -3866,6 +4048,7 @@ COMPENDIUM = {
             ('Tech', '## Accessory Talents', 'talent', 4),
             ('Tech', '## Gadget Talents', 'talent', 4),
             ('Tech', '# Legendary Talents', 'legendary talent', 4),
+            ('Tech Sphere Feats', '(page)', 'feat', 4),
             ('Practitioner Feats', 'New Feats', 'feat', 4, {'prereq': '\\bTech\\b(?=\\s+sphere|\\s*\\(|\\s+\\d|\\s+associated|\\s+package)', 'group': 'General'}),
             ('Champion Feats', '(page)', 'feat', 4, {'prereq': '\\bTech\\b(?=\\s+sphere|\\s*\\(|\\s+\\d|\\s+associated|\\s+package)', 'group': 'General'}),
             ('Tech Sphere Drawbacks', '(page)', 'drawback', 4),
@@ -7528,6 +7711,8 @@ def convert(with_images: bool) -> None:
         dest = CONTENT / f"{path}.md"
         dest.parent.mkdir(parents=True, exist_ok=True)
         dest.write_text(f"---\ntitle: {yaml_str(title)}\n---\n{GENERATED_MARK}\n\n{body}\n", encoding="utf-8")
+    move_practitioner_feats(pages, feats_pages, derived_notes)
+    distribute_extra_feats(pages, class_pages, class_options, derived_notes)
     write_sample_page(sample_groups, pages)
     write_link_families(pages, derived_notes)
     if home_page:
@@ -7589,6 +7774,10 @@ def convert(with_images: bool) -> None:
     write_link_families(pages, derived_notes)
     print(f"Retired Ultimate: {len(retired)} pages")
     print("Citation tags removed, links re-pointed: %d, %d" % strip_citation_tags())
+    # (the later steps can bring more "Extra ..." feats to the shared pages,
+    # and put some on class feats pages: a second look, now that they have)
+    distribute_extra_feats(pages, class_pages, class_options, derived_notes, create=False)
+    drop_pointer_section(pages, "practitioner-feats", "Tinker Sphere Feats")
     print(f"Search types: {tag_search_types()}")
     print(f"Compendium entries: {build_compendium()}")
     print(f"Sphere bases: {build_sphere_bases()}")

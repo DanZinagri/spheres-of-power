@@ -929,22 +929,6 @@
    "url": "Spheres-Of-Might/Practitioner-Feats#expanded-battlefield-specialty-plan",
    "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*Always plan for the next battlefield.*\n\n**Prerequisite:** Commander 10th level, battlefield specialty class feature.\n\n**Benefit:** You gain an additional battlefield specialty. In addition, you gain the following plan:",
    "options": []
-  },
-  {
-   "id": "commander/extra-battlefield-specialization",
-   "name": "Extra Battlefield Specialization",
-   "kind": "feat",
-   "sphere": "Commander",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [],
-   "talentTags": [],
-   "prerequisites": "Commander 5.",
-   "source": "Polished Commander & Warleader",
-   "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#extra-battlefield-specialization",
-   "md": "Your expertise extends to a new battlefield environment.\n\n**Prerequisite:** Commander 5.\n\n**Benefit:** Gain an additional battlefield specialization for which you qualify.\n\n**Special:** This feat may be taken a second time starting at 11th and a third time starting 17th level.",
-   "options": []
   }
  ]
 }

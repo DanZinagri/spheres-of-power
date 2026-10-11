@@ -3,6 +3,25 @@
  "approved": true,
  "entries": [
   {
+   "id": "feat/extra-advisor-lesson",
+   "name": "Extra Advisor Lesson",
+   "system": "Spheres of Guile",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Advisor Feats",
+   "prerequisites": "Advisor 5.",
+   "source": "Diamond Spheres: Harmony & Discord",
+   "url": "Advisor/Advisor-Feats#extra-advisor-lesson",
+   "alsoOn": [],
+   "md": "*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*\n\n**Prerequisite:** Advisor 5.\n\n**Benefit:** You gain an additional advisor lesson for which you qualify.\n\n**Special:** This feat may be taken a second time starting at 11th and a third time starting 17th level."
+  },
+  {
    "id": "feat/long-shadows",
    "name": "Long Shadows",
    "system": "Spheres of Power",
@@ -330,9 +349,7 @@
    "prerequisites": "5th-level dissident.",
    "source": "Legends of the Spheres",
    "url": "Champions/Dissident/Dissident-Feats#extra-nuance",
-   "alsoOn": [
-    "Other-Pages/Operative-Feats#extra-nuance"
-   ],
+   "alsoOn": [],
    "md": "**Prerequisite:** 5th-level dissident.\n\n**Benefit:** Gain an additional dissident nuance for which you qualify.\n\n**Special:** This feat may be taken a second time starting at 11th level and a third time starting at 17th level."
   },
   {
@@ -351,9 +368,7 @@
    "prerequisites": "Model class feature or Theoretical Initiate.",
    "source": "Legends of the Spheres",
    "url": "Champions/Theorist/Theorist-Feats#extra-model",
-   "alsoOn": [
-    "Other-Pages/Operative-Feats#extra-model"
-   ],
+   "alsoOn": [],
    "md": "**Prerequisite:** Model class feature or Theoretical Initiate.\n\n**Benefit:** You gain an additional theorist model which you can use with your hypothesis dice. If you have the model class feature, you gain the model’s magical underpinning as well.\n\n**Special:** You may select this feat an additional time for every 5 character levels you possess, each time selecting a new model."
   },
   {
@@ -448,7 +463,6 @@
     "Spheres-Of-Power/Armorist/Armorist-Feats#extra-spell-points",
     "Spheres-Of-Power/Elementalist/Elementalist-Feats#extra-spell-points",
     "Spheres-Of-Power/Eliciter/Eliciter-Feats#extra-spell-points",
-    "Spheres-Of-Power/Feats/Extra-Feats#extra-spell-points",
     "Spheres-Of-Power/Fey-Adept/Fey-Adept-Feats#extra-spell-points",
     "Spheres-Of-Power/Hedgewitch/Hedgewitch-Feats#extra-spell-points",
     "Spheres-Of-Power/Mageknight/Mageknight-Feats#extra-spell-points",
@@ -513,6 +527,82 @@
     "Spheres-Of-Power/Wraith/Wraith-Feats#sphere-focus"
    ],
    "md": "**Prerequisite:** Casting class feature.\n\n**Benefit:** Choose a sphere. You gain a +1 bonus to saving throw DCs for all abilities from that sphere. You may take this feat multiple times. The effects do not stack. Each time it is gained, apply this benefit to a different sphere."
+  },
+  {
+   "id": "feat/extra-conduit-wonder",
+   "name": "Extra Conduit Wonder",
+   "system": "Spheres of Guile",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Conduit Feats",
+   "prerequisites": "Conduit 5.",
+   "source": "Diamond Spheres: Thaumic Potential",
+   "url": "Conduit/Conduit-Feats#extra-conduit-wonder",
+   "alsoOn": [],
+   "md": "*Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*\n\n**Prerequisite:** Conduit 5.\n\n**Benefit:** You gain an additional conduit wonder for which you qualify.\n\n**Special:** This feat may be taken a second time starting at 11th and a third time starting 17th level."
+  },
+  {
+   "id": "feat/extra-courser-venture",
+   "name": "Extra Courser Venture",
+   "system": "Spheres of Guile",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Courser Feats",
+   "prerequisites": "Courser 5.",
+   "source": "Spheres of Guile",
+   "url": "Courser/Courser-Feats#extra-courser-venture",
+   "alsoOn": [],
+   "md": "**Prerequisite:** Courser 5.\n\n**Benefit:** Gain an additional courser venture for which you qualify.\n\n**Special:** This feat may be taken a second time starting at 11th level and a third time starting at 17th level."
+  },
+  {
+   "id": "feat/extra-envoy-flair",
+   "name": "Extra Envoy Flair",
+   "system": "Spheres of Guile",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Envoy Feats",
+   "prerequisites": "Envoy 5.",
+   "source": "Spheres of Guile",
+   "url": "Envoy/Envoy-Feats#extra-envoy-flair",
+   "alsoOn": [],
+   "md": "**Prerequisite:** Envoy 5.\n\n**Benefit:** Gain an additional envoy flair for which you qualify.\n\n**Special:** This feat may be taken a second time starting at 11th level and a third time starting at 17th level."
+  },
+  {
+   "id": "feat/extra-mastermind-trick",
+   "name": "Extra Mastermind Trick",
+   "system": "Spheres of Guile",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Mastermind Feats",
+   "prerequisites": "Mastermind 7.",
+   "source": "Spheres of Guile",
+   "url": "Mastermind/Mastermind-Feats#extra-mastermind-trick",
+   "alsoOn": [],
+   "md": "**Prerequisite:** Mastermind 7.\n\n**Benefit:** Gain an additional mastermind trick for which you qualify.\n\n**Special:** This feat may be taken a second time starting at 15th level."
   },
   {
    "id": "feat/fane-of-power-su",
@@ -1418,25 +1508,6 @@
    "md": "You possess a deep understanding of the natural world, and how it can be shaped, refined, and corrupted.\n\n**Prerequisites:** Knowledge (dungeoneering) 3 ranks, Knowledge (engineering) 3 ranks, Knowledge (geography) 3 ranks, or Knowledge (nature) 3 ranks; Study sphere.\n\n**Benefit:** You are always aware of any changes of weather around you, and you can spend 1 minute to automatically predict the natural weather within the area for the next 24 hours.\n\nAdditionally, whenever you come within 10 feet of a weakened or dangerous structure, a secret door or similar hidden opening, you receive an immediate Knowledge skill check associated with the surface or structure to notice the detail (as if using Perception). This check should be made in secret by the GM.\n\nYou add the following methods of gaining a notion to your theories:\n\n- The subject of your theory suffers damage from or fails a saving throw against a hazard that is naturally occuring (brambles, mundane weather), including any natural feature that is used as a hazard (such as cutting down a tree to collapse onto a creature, creating a makeshift trap out of nature, etc.).\n- Whenever an attack originating from the subject of your theory misses you while you are benefiting from cover or improved cover. This cover cannot be something that is suddenly created, used or placed, such as using a tower shield, the cover function from the Artifice sphere, or some spells.\n- You may only apply this notion to an active research topic. You identify a natural phenomenon or structure of incredible significance or power.\n\nYou add the following breakthroughs to your theories:\n\n- **Breakthrough:** You can spend 1 notion as a swift action to make a square within your reach difficult terrain against the subject of your theory for 1 minute.\n- **Breakthrough:** While in a natural environment, you can spend 2 notions as a swift action to grant yourself concealment against the subject of your theory until the end of your next turn; you can spend 3 additional notions when using this breakthrough to improve this to total concealment."
   },
   {
-   "id": "feat/extra-advisor-lesson",
-   "name": "Extra Advisor Lesson",
-   "system": "Spheres of Guile",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Operative Feats",
-   "prerequisites": "Advisor 5.",
-   "source": "Diamond Spheres: Thaumic Potential",
-   "url": "Other-Pages/Operative-Feats#extra-advisor-lesson",
-   "alsoOn": [],
-   "md": "*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*\n\n**Prerequisite:** Advisor 5.\n\n**Benefit:** You gain an additional advisor lesson for which you qualify.\n\n**Special:** This feat may be taken a second time starting at 11th and a third time starting 17th level."
-  },
-  {
    "id": "feat/extra-conspiracy-feature",
    "name": "Extra Conspiracy Feature",
    "system": "Spheres of Guile",
@@ -1450,86 +1521,10 @@
    "spheres": [],
    "group": "Operative Feats",
    "prerequisites": "Base skill sphere granted by the chosen conspiracy, agent 1 or mastermind 1.",
-   "source": "Diamond Spheres: Harmony & Discord",
+   "source": "Diamond Spheres: Thaumic Potential",
    "url": "Other-Pages/Operative-Feats#extra-conspiracy-feature",
    "alsoOn": [],
    "md": "**Prerequisites:** Base skill sphere granted by the chosen conspiracy, agent 1 or mastermind 1.\n\n**Benefit:** Gain the features of a conspiracy for your class that you do not have but already possess the base sphere for. You must have access to the web of secrets, coordinated combat, put off-guard, or stratagem abilities to use features that depend on those abilities."
-  },
-  {
-   "id": "feat/extra-conduit-wonder",
-   "name": "Extra Conduit Wonder",
-   "system": "Spheres of Guile",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Operative Feats",
-   "prerequisites": "Conduit 5.",
-   "source": "Diamond Spheres: Harmony & Discord",
-   "url": "Other-Pages/Operative-Feats#extra-conduit-wonder",
-   "alsoOn": [],
-   "md": "*Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*\n\n**Prerequisite:** Conduit 5.\n\n**Benefit:** You gain an additional conduit wonder for which you qualify.\n\n**Special:** This feat may be taken a second time starting at 11th and a third time starting 17th level."
-  },
-  {
-   "id": "feat/extra-courser-venture",
-   "name": "Extra Courser Venture",
-   "system": "Spheres of Guile",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Operative Feats",
-   "prerequisites": "Courser 5.",
-   "source": "Diamond Spheres: Thaumic Potential",
-   "url": "Other-Pages/Operative-Feats#extra-courser-venture",
-   "alsoOn": [],
-   "md": "**Prerequisite:** Courser 5.\n\n**Benefit:** Gain an additional courser venture for which you qualify.\n\n**Special:** This feat may be taken a second time starting at 11th level and a third time starting at 17th level."
-  },
-  {
-   "id": "feat/extra-envoy-flair",
-   "name": "Extra Envoy Flair",
-   "system": "Spheres of Guile",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Operative Feats",
-   "prerequisites": "Envoy 5.",
-   "source": "Diamond Spheres: Thaumic Potential",
-   "url": "Other-Pages/Operative-Feats#extra-envoy-flair",
-   "alsoOn": [],
-   "md": "**Prerequisite:** Envoy 5.\n\n**Benefit:** Gain an additional envoy flair for which you qualify.\n\n**Special:** This feat may be taken a second time starting at 11th level and a third time starting at 17th level."
-  },
-  {
-   "id": "feat/extra-mastermind-trick",
-   "name": "Extra Mastermind Trick",
-   "system": "Spheres of Guile",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Operative Feats",
-   "prerequisites": "Mastermind 7.",
-   "source": "Diamond Spheres: Thaumic Potential",
-   "url": "Other-Pages/Operative-Feats#extra-mastermind-trick",
-   "alsoOn": [],
-   "md": "**Prerequisite:** Mastermind 7.\n\n**Benefit:** Gain an additional mastermind trick for which you qualify.\n\n**Special:** This feat may be taken a second time starting at 15th level."
   },
   {
    "id": "feat/extra-skill-leverage",
@@ -2675,6 +2670,25 @@
    "md": "*Source: Baron’s Glorious Arena*\n\n**Prerequisites:** Sphere Specialization or Professional Method class feature\n\n**Benefits:** Choose a single sphere you possess. You may exchange any abilities from your sphere specialization or professional method for abilities corresponding to the chosen sphere (or any of its sub-specializations) which would be gained at the corresponding level. For example, if you have the warp sphere specialization and select destruction with hybridized specialty, you could exchange shift for intense magic, dimensional lord for penetrating blast, and/or warp mastery for indestructible.\n\n**Special:** You may select this feat multiple times, each time selecting a different sphere."
   },
   {
+   "id": "feat/extra-prowess",
+   "name": "Extra Prowess",
+   "system": "Spheres of Might",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Armiger Feats",
+   "prerequisites": "Armiger 5.",
+   "source": "Spheres of Might",
+   "url": "Spheres-Of-Might/Armiger/Armiger-Feats#extra-prowess",
+   "alsoOn": [],
+   "md": "You know how to better utilize your armiger abilities.\n\n**Prerequisite:** Armiger 5.\n\n**Benefit:** Gain an additional prowess for which you qualify.\n\n**Special:** This feat may be taken a second time starting at 11th and a third time starting 17th level."
+  },
+  {
    "id": "feat/part-time-barista",
    "name": "Part-Time Barista",
    "system": "Spheres of Might",
@@ -2711,6 +2725,44 @@
    "url": "Spheres-Of-Might/Blacksmith/Barista#ill-sleep-when-im-dead-aristeia",
    "alsoOn": [],
    "md": "**Benefit:** You require half the amount of time you otherwise would to get the benefits of a full night’s rest.\n\nIn addition, you may activate Aristeia even while unconscious (and even if your unconsciousness would make you unaware of the reason to activate Aristeia in the first place), and doing so immediately brings you fully awake. While in Aristeia, you can still suffer from crashes from the barista blacksmith’s invigorating brew class feature, but all negative crash effects, as well as any penalties from fatigue and exhaustion, are delayed until after you leave Aristeia."
+  },
+  {
+   "id": "feat/extra-smithing-insight",
+   "name": "Extra Smithing Insight",
+   "system": "Spheres of Might",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Blacksmith Feats",
+   "prerequisites": "Blacksmith 7.",
+   "source": "Spheres of Might",
+   "url": "Spheres-Of-Might/Blacksmith/Blacksmith-Feats#extra-smithing-insight",
+   "alsoOn": [],
+   "md": "Your experience and skill unlock new insights into the smith’s craft.\n\n**Prerequisite:** Blacksmith 7.\n\n**Benefit:** Gain an additional smithing insight for which you qualify.\n\n**Special:** This feat may be taken a second time starting at 15th level."
+  },
+  {
+   "id": "feat/extra-battlefield-specialization",
+   "name": "Extra Battlefield Specialization",
+   "system": "Spheres of Might",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Commander Feats",
+   "prerequisites": "Commander 5.",
+   "source": "Spheres of Might",
+   "url": "Spheres-Of-Might/Commander/Commander-Feats#extra-battlefield-specialization",
+   "alsoOn": [],
+   "md": "Your expertise extends to a new battlefield environment.\n\n**Prerequisite:** Commander 5.\n\n**Benefit:** Gain an additional battlefield specialization for which you qualify.\n\n**Special:** This feat may be taken a second time starting at 11th and a third time starting 17th level."
   },
   {
    "id": "feat/artisanal-breath-monster",
@@ -3573,25 +3625,6 @@
    "md": "**Prerequisite:** Any (stance) talent.\n\n**Benefit:** Whenever you successfully damage a creature with an attack action, you may choose to extend the duration of one of your active (stance) talents by 1 round."
   },
   {
-   "id": "feat/extra-battlefield-specialization",
-   "name": "Extra Battlefield Specialization",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Practitioner Feats",
-   "prerequisites": "Commander 5.",
-   "source": "Polished Commander & Warleader",
-   "url": "Spheres-Of-Might/Practitioner-Feats#extra-battlefield-specialization",
-   "alsoOn": [],
-   "md": "Your expertise extends to a new battlefield environment.\n\n**Prerequisite:** Commander 5.\n\n**Benefit:** Gain an additional battlefield specialization for which you qualify.\n\n**Special:** This feat may be taken a second time starting at 11th and a third time starting 17th level."
-  },
-  {
    "id": "feat/extra-boon-of-purpose",
    "name": "Extra Boon Of Purpose",
    "system": "Spheres of Might",
@@ -3666,101 +3699,6 @@
    "url": "Spheres-Of-Might/Practitioner-Feats#extra-ki-power",
    "alsoOn": [],
    "md": "**Prerequisites:** Cultivate Ki or ki power class feature.\n\n**Benefits:** Gain an additional ki power for which you qualify.\n\n**Special:** This feat may be taken a second time starting at 11th level and a third time starting at 17th level."
-  },
-  {
-   "id": "feat/extra-prowess",
-   "name": "Extra Prowess",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Practitioner Feats",
-   "prerequisites": "Armiger 5.",
-   "source": "Polished Commander & Warleader",
-   "url": "Spheres-Of-Might/Practitioner-Feats#extra-prowess",
-   "alsoOn": [],
-   "md": "You know how to better utilize your armiger abilities.\n\n**Prerequisite:** Armiger 5.\n\n**Benefit:** Gain an additional prowess for which you qualify.\n\n**Special:** This feat may be taken a second time starting at 11th and a third time starting 17th level."
-  },
-  {
-   "id": "feat/extra-scholars-knack",
-   "name": "Extra Scholar’s Knack",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Practitioner Feats",
-   "prerequisites": "Scholar 7.",
-   "source": "Polished Commander & Warleader",
-   "url": "Spheres-Of-Might/Practitioner-Feats#extra-scholars-knack",
-   "alsoOn": [],
-   "md": "Research and study lead you to new academic discoveries.\n\n**Prerequisite:** Scholar 7.\n\n**Benefit:** Gain an additional scholar’s knack for which you qualify.\n\n**Special:** This feat may be taken a second time starting at 15th level."
-  },
-  {
-   "id": "feat/extra-smithing-insight",
-   "name": "Extra Smithing Insight",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Practitioner Feats",
-   "prerequisites": "Blacksmith 7.",
-   "source": "Polished Commander & Warleader",
-   "url": "Spheres-Of-Might/Practitioner-Feats#extra-smithing-insight",
-   "alsoOn": [],
-   "md": "Your experience and skill unlock new insights into the smith’s craft.\n\n**Prerequisite:** Blacksmith 7.\n\n**Benefit:** Gain an additional smithing insight for which you qualify.\n\n**Special:** This feat may be taken a second time starting at 15th level."
-  },
-  {
-   "id": "feat/extra-striker-art",
-   "name": "Extra Striker Art",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Practitioner Feats",
-   "prerequisites": "Striker 5.",
-   "source": "Polished Commander & Warleader",
-   "url": "Spheres-Of-Might/Practitioner-Feats#extra-striker-art",
-   "alsoOn": [],
-   "md": "You know how to better utilize your striker abilities.\n\n**Prerequisite:** Striker 5.\n\n**Benefit:** Gain an additional striker art for which you qualify.\n\n**Special:** This feat may be taken a second time starting at 11th and a third time starting 17th level."
-  },
-  {
-   "id": "feat/extra-technical-insight",
-   "name": "Extra Technical Insight",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Practitioner Feats",
-   "prerequisites": "Technician 5.",
-   "source": "Polished Commander & Warleader",
-   "url": "Spheres-Of-Might/Practitioner-Feats#extra-technical-insight",
-   "alsoOn": [],
-   "md": "Your experimentations have unlocked new insights.\n\n**Prerequisite:** Technician 5.\n\n**Benefit:** Gain an additional technical insight for which you qualify.\n\n**Special:** This feat may be taken a second time starting at 11th and a third time starting 17th level."
   },
   {
    "id": "feat/flyby-attack-monster",
@@ -4953,216 +4891,7 @@
    "source": "Tandem Talents",
    "url": "Spheres-Of-Might/Practitioner-Feats#zodiac-tattoos",
    "alsoOn": [],
-   "md": "Mystical tattoos ward you from harm and transform your skin into protective armor.\n\n**Prerequisites:** Craft (tattoos) 5 ranks, Unarmored Training or AC Bonus class feature.\n\n**Benefit:** Covering your body in these intricate tattoos etched by your own hand, you gain the ability to have your skin enchanted with armor special abilities as though it was a suit of +1 leather armor. You cannot have a total bonus of armor special abilities higher than +6. You cannot use this ability to add any armor special abilities that add a flat gp amount to their cost instead of a bonus equivalent.\n\n* This feat is previously published, and is reprinted here for ease of use.\n\n---"
-  },
-  {
-   "id": "feat/mobile-drone",
-   "name": "Mobile Drone",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [
-    "Tech"
-   ],
-   "group": "Practitioner Feats",
-   "prerequisites": "Tech sphere, Drone.",
-   "source": "Tandem Talents",
-   "url": "Spheres-Of-Might/Practitioner-Feats#mobile-drone",
-   "alsoOn": [],
-   "md": "**Prerequisites:** Tech sphere, Drone.\n\n**Benefit:** Drones you create gain the Athletics sphere as a bonus talent. If the drone already possess the Athletics sphere, they instead gain a bonus talent from the Athletics sphere. In addition, each drone is created with Acrobatics, Climb, Fly, and Swim as class skills.\n\n**Special:** This feat may be taken multiple times, each time granting an additional talent from the Athletics sphere."
-  },
-  {
-   "id": "feat/receptive-to-grafts",
-   "name": "Receptive to Grafts",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Practitioner Feats",
-   "prerequisites": "",
-   "source": "Tandem Talents",
-   "url": "Spheres-Of-Might/Practitioner-Feats#receptive-to-grafts",
-   "alsoOn": [],
-   "md": "**Benefit:** Your body is more capable of handling a larger amount of cybertech, grafts, and other implants. When determining your maximum implantation value, increase it by 1 for every 2 Hit Dice you possess (minimum 1)."
-  },
-  {
-   "id": "feat/reckless-drone",
-   "name": "Reckless Drone",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [
-    "Tech"
-   ],
-   "group": "Practitioner Feats",
-   "prerequisites": "Tech sphere, Drone.",
-   "source": "Tandem Talents",
-   "url": "Spheres-Of-Might/Practitioner-Feats#reckless-drone",
-   "alsoOn": [],
-   "md": "**Prerequisites:** Tech sphere, Drone.\n\n**Benefit:** Drones you create add twice their base attack bonus to their maximum hit points. In addition, drones you create gain the Berserker sphere or Brute sphere as a bonus talent. If the drone already possess the sphere, they instead gain a bonus talent from either sphere.\n\n**Special:** This feat may be taken multiple times, each time granting an additional talent from the Berserker or Brute sphere."
-  },
-  {
-   "id": "feat/recon-drone",
-   "name": "Recon Drone",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [
-    "Tech"
-   ],
-   "group": "Practitioner Feats",
-   "prerequisites": "Tech sphere, Drone.",
-   "source": "Tandem Talents",
-   "url": "Spheres-Of-Might/Practitioner-Feats#recon-drone",
-   "alsoOn": [],
-   "md": "**Prerequisites:** Tech sphere, Drone.\n\n**Benefit:** Drones you create gain the Scout sphere as a bonus talent. If the drone already possess the Scout sphere, they instead gain a bonus talent from the Scout sphere. In addition, each drone is created with Perception, Sense Motive, and Stealth as class skills.\n\n**Special:** This feat may be taken multiple times, each time granting an additional talent from the Scout sphere."
-  },
-  {
-   "id": "feat/remote-hacking",
-   "name": "Remote Hacking",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [
-    "Tech"
-   ],
-   "group": "Practitioner Feats",
-   "prerequisites": "Tech sphere (Remote Control).",
-   "source": "Tandem Talents",
-   "url": "Spheres-Of-Might/Practitioner-Feats#remote-hacking",
-   "alsoOn": [],
-   "md": "**Prerequisites:** Tech sphere (Remote Control).\n\n**Benefit:** Your remote control can be used to override signals that don’t belong to you. Locating foreign signals with the remote control requires a Craft (mechanical) check opposed by their sphere DC. Each time you spend an action to control their gadgets you musts make a craft Craft (mechanical) check opposed by their sphere DC +5.\n\nIn place of an activation check or Craft (mechanical) check, each time you spend an action to control a foreign gadget, it gets to attempt a Will saving throw opposed by your Tech sphere DC."
-  },
-  {
-   "id": "feat/sacrificial-augment-combat",
-   "name": "Sacrificial Augment",
-   "system": "Spheres of Might",
-   "types": [
-    "Combat"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [
-    "Guardian"
-   ],
-   "group": "Practitioner Feats",
-   "prerequisites": "Guardian sphere.",
-   "source": "Tandem Talents",
-   "url": "Spheres-Of-Might/Practitioner-Feats#sacrificial-augment-combat",
-   "alsoOn": [],
-   "md": "**Prerequisite:** Guardian sphere.\n\n**Benefit:** When your delayed damage pool empties, you may as an immediate action redirect the damage you would take to augment or implant on your person or an innate gadget. The damage redirected this way is treated as untyped lethal damage, bypassing any damage reduction or hardness the augment or implant would possess otherwise.\n\n**Special:** This overrides the normal rules for the delayed damage pool which states that you cannot further redirect damage from the delayed damage pool."
-  },
-  {
-   "id": "feat/shield-drone",
-   "name": "Shield Drone",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [
-    "Tech"
-   ],
-   "group": "Practitioner Feats",
-   "prerequisites": "Tech sphere, Drone.",
-   "source": "Tandem Talents",
-   "url": "Spheres-Of-Might/Practitioner-Feats#shield-drone",
-   "alsoOn": [],
-   "md": "**Prerequisites:** Tech sphere, Drone.\n\n**Benefit:** Drones you create are proficient with all shields (including tower shields). In addition, drones you create gain the Guardian sphere or Shield sphere as a bonus talent. If the drone already possess the sphere, they instead gain a bonus talent from either sphere.\n\n**Special:** This feat may be taken multiple times, each time granting an additional talent from the Guardian or Shield sphere."
-  },
-  {
-   "id": "feat/technical-compatibility",
-   "name": "Technical Compatibility",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [
-    "Tech"
-   ],
-   "group": "Practitioner Feats",
-   "prerequisites": "Independent Invention, Tech sphere, Drone.",
-   "source": "Tandem Talents",
-   "url": "Spheres-Of-Might/Practitioner-Feats#technical-compatibility",
-   "alsoOn": [],
-   "md": "**Prerequisites:** Independent Invention, Tech sphere, Drone.\n\n**Benefit:** Your independent inventions are considered drones for purposes from benefiting from effects that affect drones, and vice versa. In addition as independent inventions you can select Drones as a base form (these independent inventions don’t count towards the maximum number of Hit Dice of drones you may maintain). Your independent inventions can be activated or deactivated as if they where drones.\n\nYou may also apply improvements and technical insights to your drones (1 improvement for every 10 levels of technician you possess (minimum 0))."
-  },
-  {
-   "id": "feat/technologically-alchemical-ammo-dual-sphere",
-   "name": "Technologically Alchemical Ammo",
-   "system": "Spheres of Might",
-   "types": [
-    "Dual Sphere"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [
-    "Alchemy",
-    "Tech"
-   ],
-   "group": "Practitioner Feats",
-   "prerequisites": "Tech sphere, Ammo Spitter, Alchemy sphere (formulae) package.",
-   "source": "Tandem Talents",
-   "url": "Spheres-Of-Might/Practitioner-Feats#technologically-alchemical-ammo-dual-sphere",
-   "alsoOn": [],
-   "md": "**Prerequisites:** Tech sphere, Ammo Spitter, Alchemy sphere (formulae) package.\n\n**Benefit:** Your ammo spitter may create alchemical or complex ammunition (such as alchemical cartridges and vial bolts) costing 50 gp or less. This alchemical ammunition doesn’t have to be made exclusively for firearms but the weapon firing it must still meet all the prerequisites (such as having the scatter quality)."
-  },
-  {
-   "id": "feat/undetectable-hacking",
-   "name": "Undetectable Hacking",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [
-    "Tech"
-   ],
-   "group": "Practitioner Feats",
-   "prerequisites": "Tech sphere (Remote Control), Remote Hacking.",
-   "source": "Tandem Talents",
-   "url": "Spheres-Of-Might/Practitioner-Feats#undetectable-hacking",
-   "alsoOn": [],
-   "md": "**Prerequisites:** Tech sphere (Remote Control), Remote Hacking.\n\nWhen you attempt to control a foreign gadget, whether it succeeds or fails on its Will save it must immediately succeed at a second Will save. If it fails this second save, it does not realize it it was subject to a hack attempt (including knowing if any routines were transferred).\n\n---\n\n*Archived: [[Practitioner Feats (Ultimate)|Ultimate version]] (before *Polished*)*"
+   "md": "Mystical tattoos ward you from harm and transform your skin into protective armor.\n\n**Prerequisites:** Craft (tattoos) 5 ranks, Unarmored Training or AC Bonus class feature.\n\n**Benefit:** Covering your body in these intricate tattoos etched by your own hand, you gain the ability to have your skin enchanted with armor special abilities as though it was a suit of +1 leather armor. You cannot have a total bonus of armor special abilities higher than +6. You cannot use this ability to add any armor special abilities that add a flat gp amount to their cost instead of a bonus equivalent.\n\n* This feat is previously published, and is reprinted here for ease of use.\n\n---\n\n*Archived: [[Practitioner Feats (Ultimate)|Ultimate version]] (before *Polished*)*"
   },
   {
    "id": "feat/moderated-invocation",
@@ -5186,6 +4915,25 @@
    "md": "*Source: Expanded Spheres: Baron's Lost Apocrypha*\n\n**Prerequisites:** Forbidden Lore or Strain class feature\n\n**Benefit:** When you use Forbidden Lore or strain, you may choose to gain a smaller bonus than normal from these class features, to a minimum of +1 to caster level or base attack bonus.\n\nWhenever you use Forbidden Lore and the sum of your normal caster level (before applying implement bonuses and any other temporary CL increases) and your forbidden lore bonus would not exceed your character level +½ your maximum forbidden lore bonus, you do not have any chance of backlash on the forbidden lore use. Whenever you use Strain and your total base attack bonus does not exceed your character level +½ your maximum strain bonus, you do not become fatigued."
   },
   {
+   "id": "feat/extra-scholars-knack",
+   "name": "Extra Scholar’s Knack",
+   "system": "Spheres of Might",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Scholar Feats",
+   "prerequisites": "Scholar 7.",
+   "source": "Spheres of Might",
+   "url": "Spheres-Of-Might/Scholar/Scholar-Feats#extra-scholars-knack",
+   "alsoOn": [],
+   "md": "Research and study lead you to new academic discoveries.\n\n**Prerequisite:** Scholar 7.\n\n**Benefit:** Gain an additional scholar’s knack for which you qualify.\n\n**Special:** This feat may be taken a second time starting at 15th level."
+  },
+  {
    "id": "feat/protective-reserve",
    "name": "Protective Reserve",
    "system": "Spheres of Might",
@@ -5203,6 +4951,237 @@
    "url": "Spheres-Of-Might/Sentinel/Sentinel-Feats#protective-reserve",
    "alsoOn": [],
    "md": "**Prerequisites:** Sentinel’s reserve class feature.\n\n**Benefit:** Choose an (aegis) talent from the [[Protection]] sphere. You may create that aegis as a supernatural ability, but only on yourself, using points from your reserve in place of spell points. For the purpose of this aegis, your caster level is equal to your sentinel level, and your casting ability is the ability used to determine your reserve points. You may acquire this feat multiple times, choosing a different (aegis) talent each time."
+  },
+  {
+   "id": "feat/extra-striker-art",
+   "name": "Extra Striker Art",
+   "system": "Spheres of Might",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Striker Feats",
+   "prerequisites": "Striker 5.",
+   "source": "Spheres of Might",
+   "url": "Spheres-Of-Might/Striker/Striker-Feats#extra-striker-art",
+   "alsoOn": [],
+   "md": "You know how to better utilize your striker abilities.\n\n**Prerequisite:** Striker 5.\n\n**Benefit:** Gain an additional striker art for which you qualify.\n\n**Special:** This feat may be taken a second time starting at 11th and a third time starting 17th level."
+  },
+  {
+   "id": "feat/mobile-drone",
+   "name": "Mobile Drone",
+   "system": "Spheres of Might",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "Tech",
+   "spheres": [
+    "Tech"
+   ],
+   "group": "Tech Sphere Feats",
+   "prerequisites": "Tech sphere, Drone.",
+   "source": "",
+   "url": "Spheres-Of-Might/Tech/Tech-Sphere-Feats#mobile-drone",
+   "alsoOn": [],
+   "md": "**Prerequisites:** Tech sphere, Drone.\n\n**Benefit:** Drones you create gain the Athletics sphere as a bonus talent. If the drone already possess the Athletics sphere, they instead gain a bonus talent from the Athletics sphere. In addition, each drone is created with Acrobatics, Climb, Fly, and Swim as class skills.\n\n**Special:** This feat may be taken multiple times, each time granting an additional talent from the Athletics sphere."
+  },
+  {
+   "id": "feat/receptive-to-grafts",
+   "name": "Receptive to Grafts",
+   "system": "Spheres of Might",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "Tech",
+   "spheres": [
+    "Tech"
+   ],
+   "group": "Tech Sphere Feats",
+   "prerequisites": "",
+   "source": "",
+   "url": "Spheres-Of-Might/Tech/Tech-Sphere-Feats#receptive-to-grafts",
+   "alsoOn": [],
+   "md": "**Benefit:** Your body is more capable of handling a larger amount of cybertech, grafts, and other implants. When determining your maximum implantation value, increase it by 1 for every 2 Hit Dice you possess (minimum 1)."
+  },
+  {
+   "id": "feat/reckless-drone",
+   "name": "Reckless Drone",
+   "system": "Spheres of Might",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "Tech",
+   "spheres": [
+    "Tech"
+   ],
+   "group": "Tech Sphere Feats",
+   "prerequisites": "Tech sphere, Drone.",
+   "source": "",
+   "url": "Spheres-Of-Might/Tech/Tech-Sphere-Feats#reckless-drone",
+   "alsoOn": [],
+   "md": "**Prerequisites:** Tech sphere, Drone.\n\n**Benefit:** Drones you create add twice their base attack bonus to their maximum hit points. In addition, drones you create gain the Berserker sphere or Brute sphere as a bonus talent. If the drone already possess the sphere, they instead gain a bonus talent from either sphere.\n\n**Special:** This feat may be taken multiple times, each time granting an additional talent from the Berserker or Brute sphere."
+  },
+  {
+   "id": "feat/recon-drone",
+   "name": "Recon Drone",
+   "system": "Spheres of Might",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "Tech",
+   "spheres": [
+    "Tech"
+   ],
+   "group": "Tech Sphere Feats",
+   "prerequisites": "Tech sphere, Drone.",
+   "source": "",
+   "url": "Spheres-Of-Might/Tech/Tech-Sphere-Feats#recon-drone",
+   "alsoOn": [],
+   "md": "**Prerequisites:** Tech sphere, Drone.\n\n**Benefit:** Drones you create gain the Scout sphere as a bonus talent. If the drone already possess the Scout sphere, they instead gain a bonus talent from the Scout sphere. In addition, each drone is created with Perception, Sense Motive, and Stealth as class skills.\n\n**Special:** This feat may be taken multiple times, each time granting an additional talent from the Scout sphere."
+  },
+  {
+   "id": "feat/remote-hacking",
+   "name": "Remote Hacking",
+   "system": "Spheres of Might",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "Tech",
+   "spheres": [
+    "Tech"
+   ],
+   "group": "Tech Sphere Feats",
+   "prerequisites": "Tech sphere (Remote Control).",
+   "source": "",
+   "url": "Spheres-Of-Might/Tech/Tech-Sphere-Feats#remote-hacking",
+   "alsoOn": [],
+   "md": "**Prerequisites:** Tech sphere (Remote Control).\n\n**Benefit:** Your remote control can be used to override signals that don’t belong to you. Locating foreign signals with the remote control requires a Craft (mechanical) check opposed by their sphere DC. Each time you spend an action to control their gadgets you musts make a craft Craft (mechanical) check opposed by their sphere DC +5.\n\nIn place of an activation check or Craft (mechanical) check, each time you spend an action to control a foreign gadget, it gets to attempt a Will saving throw opposed by your Tech sphere DC."
+  },
+  {
+   "id": "feat/sacrificial-augment-combat",
+   "name": "Sacrificial Augment",
+   "system": "Spheres of Might",
+   "types": [
+    "Combat"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "Tech",
+   "spheres": [
+    "Guardian",
+    "Tech"
+   ],
+   "group": "Tech Sphere Feats",
+   "prerequisites": "Guardian sphere.",
+   "source": "",
+   "url": "Spheres-Of-Might/Tech/Tech-Sphere-Feats#sacrificial-augment-combat",
+   "alsoOn": [],
+   "md": "**Prerequisite:** Guardian sphere.\n\n**Benefit:** When your delayed damage pool empties, you may as an immediate action redirect the damage you would take to augment or implant on your person or an innate gadget. The damage redirected this way is treated as untyped lethal damage, bypassing any damage reduction or hardness the augment or implant would possess otherwise.\n\n**Special:** This overrides the normal rules for the delayed damage pool which states that you cannot further redirect damage from the delayed damage pool."
+  },
+  {
+   "id": "feat/shield-drone",
+   "name": "Shield Drone",
+   "system": "Spheres of Might",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "Tech",
+   "spheres": [
+    "Tech"
+   ],
+   "group": "Tech Sphere Feats",
+   "prerequisites": "Tech sphere, Drone.",
+   "source": "",
+   "url": "Spheres-Of-Might/Tech/Tech-Sphere-Feats#shield-drone",
+   "alsoOn": [],
+   "md": "**Prerequisites:** Tech sphere, Drone.\n\n**Benefit:** Drones you create are proficient with all shields (including tower shields). In addition, drones you create gain the Guardian sphere or Shield sphere as a bonus talent. If the drone already possess the sphere, they instead gain a bonus talent from either sphere.\n\n**Special:** This feat may be taken multiple times, each time granting an additional talent from the Guardian or Shield sphere."
+  },
+  {
+   "id": "feat/technical-compatibility",
+   "name": "Technical Compatibility",
+   "system": "Spheres of Might",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "Tech",
+   "spheres": [
+    "Tech"
+   ],
+   "group": "Tech Sphere Feats",
+   "prerequisites": "Independent Invention, Tech sphere, Drone.",
+   "source": "",
+   "url": "Spheres-Of-Might/Tech/Tech-Sphere-Feats#technical-compatibility",
+   "alsoOn": [],
+   "md": "**Prerequisites:** Independent Invention, Tech sphere, Drone.\n\n**Benefit:** Your independent inventions are considered drones for purposes from benefiting from effects that affect drones, and vice versa. In addition as independent inventions you can select Drones as a base form (these independent inventions don’t count towards the maximum number of Hit Dice of drones you may maintain). Your independent inventions can be activated or deactivated as if they where drones.\n\nYou may also apply improvements and technical insights to your drones (1 improvement for every 10 levels of technician you possess (minimum 0))."
+  },
+  {
+   "id": "feat/technologically-alchemical-ammo-dual-sphere",
+   "name": "Technologically Alchemical Ammo",
+   "system": "Spheres of Might",
+   "types": [
+    "Dual Sphere"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "Tech",
+   "spheres": [
+    "Alchemy",
+    "Tech"
+   ],
+   "group": "Tech Sphere Feats",
+   "prerequisites": "Tech sphere, Ammo Spitter, Alchemy sphere (formulae) package.",
+   "source": "",
+   "url": "Spheres-Of-Might/Tech/Tech-Sphere-Feats#technologically-alchemical-ammo-dual-sphere",
+   "alsoOn": [],
+   "md": "**Prerequisites:** Tech sphere, Ammo Spitter, Alchemy sphere (formulae) package.\n\n**Benefit:** Your ammo spitter may create alchemical or complex ammunition (such as alchemical cartridges and vial bolts) costing 50 gp or less. This alchemical ammunition doesn’t have to be made exclusively for firearms but the weapon firing it must still meet all the prerequisites (such as having the scatter quality)."
+  },
+  {
+   "id": "feat/undetectable-hacking",
+   "name": "Undetectable Hacking",
+   "system": "Spheres of Might",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "Tech",
+   "spheres": [
+    "Tech"
+   ],
+   "group": "Tech Sphere Feats",
+   "prerequisites": "Tech sphere (Remote Control), Remote Hacking.",
+   "source": "",
+   "url": "Spheres-Of-Might/Tech/Tech-Sphere-Feats#undetectable-hacking",
+   "alsoOn": [],
+   "md": "**Prerequisites:** Tech sphere (Remote Control), Remote Hacking.\n\nWhen you attempt to control a foreign gadget, whether it succeeds or fails on its Will save it must immediately succeed at a second Will save. If it fails this second save, it does not realize it it was subject to a hack attempt (including knowing if any routines were transferred)."
   },
   {
    "id": "feat/brew-stable-formulae-item-creation",
@@ -5308,6 +5287,25 @@
    "url": "Spheres-Of-Might/Tech/Tech#old-feat-craft-permanent-gadget-item-creation",
    "alsoOn": [],
    "md": "**Prerequisites:** Tech sphere, Craft (mechanical) 3 ranks.\n\n**Benefit:** You can create permanent versions of Tech sphere gadgets that you know. Permanent gadgets don’t count towards the maximum amount of gadgets you can maintain with the Tech sphere. Unless otherwise stated, the cost to craft a permanent gadget using this feat is equal to 400 x the creator’s ranks in Craft (mechanical) gp. Permanent gadgets are crafted with a maximum charge capacity equal to half your ranks in Craft (mechanical) (minimum 1). Permanent gadgets may not be crafted with a maximum charge capacity lower than their minimum charge use. For example, a plasma thrower must be created with a maximum charge capacity with no less than 2 charges. Permanent gadgets with a listed capacity value (such as technological weapons) may not be filled above their maximum charge capacity. For example, a plasma pistol created with a maximum charge capacity of 2 cannot be filled to 10 charges, despite its normal capacity value of 10. Crafting a permanent gadget uses the same time crafting rules as magic items, and just as with magic items, you may reduce your effective number of ranks in Craft (mechanical) (minimum 2 ranks) when creating a permanent gadget. Permanent gadgets can be recharged with the Tech sphere during the same 15/30 minute time period as a battery.\n\nPermanent gadgets are considered masterwork quality and may be permanently enhanced with use of the Smith Magical Weapons and Armor item creation feat, when applicable."
+  },
+  {
+   "id": "feat/extra-technical-insight",
+   "name": "Extra Technical Insight",
+   "system": "Spheres of Might",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Technician Feats",
+   "prerequisites": "Technician 5.",
+   "source": "Spheres of Might",
+   "url": "Spheres-Of-Might/Technician/Technician-Feats#extra-technical-insight",
+   "alsoOn": [],
+   "md": "Your experimentations have unlocked new insights.\n\n**Prerequisite:** Technician 5.\n\n**Benefit:** Gain an additional technical insight for which you qualify.\n\n**Special:** This feat may be taken a second time starting at 11th and a third time starting 17th level."
   },
   {
    "id": "feat/adaptive-resistance",
@@ -5964,9 +5962,7 @@
    "prerequisites": "Arsenal trick class feature.",
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Armorist/Armorist-Feats#extra-arsenal-trick",
-   "alsoOn": [
-    "Spheres-Of-Power/Feats/Extra-Feats#extra-arsenal-trick"
-   ],
+   "alsoOn": [],
    "md": "**Prerequisite:** Arsenal trick class feature.\n\n**Benefit:** Gain an arsenal trick for which you meet the prerequisites. You may take this feat multiple times. The effects stack."
   },
   {
@@ -9765,6 +9761,25 @@
    "md": "**Prerequisites:** Two favored elements.\n\n**Benefit:** Your second and third favored elements receive the same damage bonus as your first favored element."
   },
   {
+   "id": "feat/extra-electrokinetic-stunt",
+   "name": "Extra Electrokinetic Stunt",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Elementalist Feats",
+   "prerequisites": "Electrokinetic stunt class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Elementalist/Elementalist-Feats#extra-electrokinetic-stunt",
+   "alsoOn": [],
+   "md": "**Prerequisite:** Electrokinetic stunt class feature.\n\n**Benefit:** You gain an additional electrokinetic stunt for which you qualify. You may take this feat multiple times. The effects stack."
+  },
+  {
    "id": "feat/dynopathy",
    "name": "Dynopathy",
    "system": "Spheres of Power",
@@ -9843,9 +9858,7 @@
    "prerequisites": "Emotion class feature.",
    "source": "Ultimate Spheres of Power",
    "url": "Spheres-Of-Power/Eliciter/Eliciter-Feats#extra-emotion",
-   "alsoOn": [
-    "Spheres-Of-Power/Feats/Extra-Feats#extra-emotion"
-   ],
+   "alsoOn": [],
    "md": "**Prerequisite:** Emotion class feature.\n\n**Benefit:** Gain the minor power of a new emotion or the next level of an emotion you already possess. You may take this feat multiple times. The effects stack."
   },
   {
@@ -16033,46 +16046,6 @@
    "md": "You can increase the damage to the land around you to amplify your power.\n\n**Prerequisites:** Terrain Casting drawback, non-good alignment.\n\n**Benefit:** Whenever you blight, corrupt, or drain an area of its nutrients with the Terrain Casting drawback, you may choose to increase the radius of the corrupted area by 10 feet + 5 feet per 5 caster levels of the sphere talent or ability used. Doing so decreases the spell point cost of any metamagic feat by 1 (minimum 0), but also increases the time required for the area to naturally recover to 10 years per caster level of the sphere talent or ability used.\n\n**Four Defiler Feats:** When using this feat, you may choose to increase the radius of the corrupted area by an additional 5 feet per 5 caster levels (minimum 5 feet) to decrease the spell point of cost of any metamagic feat by an additional 1.\n\n**Special:** You cannot gain this feat if you possess the Terrain Focus feat and vice versa.\n\n---"
   },
   {
-   "id": "feat/extra-bestial-trait",
-   "name": "Extra Bestial Trait",
-   "system": "Spheres of Power",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Extra Feats",
-   "prerequisites": "Bestial trait class feature.",
-   "source": "Ultimate Spheres of Power",
-   "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-bestial-trait",
-   "alsoOn": [
-    "Spheres-Of-Power/Shifter/Shifter-Feats#extra-bestial-trait"
-   ],
-   "md": "**Prerequisite:** Bestial trait class feature.\n\n**Benefit:** Gain an additional bestial trait for which you meet the prerequisites. You may take this feat multiple times. The effects stack."
-  },
-  {
-   "id": "feat/extra-breadth-of-form",
-   "name": "Extra Breadth Of Form",
-   "system": "Spheres of Power",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Extra Feats",
-   "prerequisites": "Breadth of form class feature.",
-   "source": "Ultimate Spheres of Power",
-   "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-breadth-of-form",
-   "alsoOn": [],
-   "md": "**Prerequisite:** Breadth of form class feature.\n\n**Benefit:** Increase the number of times per day you may use breadth of form by 2. You may take this feat multiple times. The effects stack."
-  },
-  {
    "id": "feat/extra-divine-works",
    "name": "Extra Divine Works",
    "system": "Spheres of Power",
@@ -16090,107 +16063,6 @@
    "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-divine-works",
    "alsoOn": [],
    "md": "**Prerequisite:** Divine works class feature.\n\n**Benefit:** You may choose an additional option from the list of possible divine works class features. You may choose this feat multiple times. Each time, choose another divine work."
-  },
-  {
-   "id": "feat/extra-electrokinetic-stunt",
-   "name": "Extra Electrokinetic Stunt",
-   "system": "Spheres of Power",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Extra Feats",
-   "prerequisites": "Electrokinetic stunt class feature.",
-   "source": "Ultimate Spheres of Power",
-   "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-electrokinetic-stunt",
-   "alsoOn": [],
-   "md": "**Prerequisite:** Electrokinetic stunt class feature.\n\n**Benefit:** You gain an additional electrokinetic stunt for which you qualify. You may take this feat multiple times. The effects stack."
-  },
-  {
-   "id": "feat/extra-iatrogen",
-   "name": "Extra Iatrogen",
-   "system": "Spheres of Power",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Extra Feats",
-   "prerequisites": "Iatrogen class feature.",
-   "source": "Ultimate Spheres of Power",
-   "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-iatrogen",
-   "alsoOn": [],
-   "md": "**Prerequisite:** Iatrogen class feature.\n\n**Benefit:** Gain an additional iatrogen for which you meet the prerequisites. You may take this feat multiple times. The effects stack."
-  },
-  {
-   "id": "feat/extra-invocations",
-   "name": "Extra Invocations",
-   "system": "Spheres of Power",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Extra Feats",
-   "prerequisites": "Invocations class feature.",
-   "source": "Ultimate Spheres of Power",
-   "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-invocations",
-   "alsoOn": [
-    "Spheres-Of-Power/Thaumaturge/Thaumaturge-Feats#extra-invocations"
-   ],
-   "md": "**Prerequisite:** Invocations class feature.\n\n**Benefit:** Increase the number of times per day you may use invocations by 2. You may take this feat multiple times. The effects stack."
-  },
-  {
-   "id": "feat/extra-mystic-combat",
-   "name": "Extra Mystic Combat",
-   "system": "Spheres of Power",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Extra Feats",
-   "prerequisites": "Mystic combat class feature.",
-   "source": "Ultimate Spheres of Power",
-   "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-mystic-combat",
-   "alsoOn": [
-    "Spheres-Of-Power/Mageknight/Mageknight-Feats#extra-mystic-combat"
-   ],
-   "md": "**Prerequisite:** Mystic combat class feature.\n\n**Benefit:** Gain an extra mystic combat ability for which you qualify. You may gain this feat multiple times. The effects stack."
-  },
-  {
-   "id": "feat/extra-nexus-powers",
-   "name": "Extra Nexus Powers",
-   "system": "Spheres of Power",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Extra Feats",
-   "prerequisites": "Bound nexus class feature.",
-   "source": "Ultimate Spheres of Power",
-   "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-nexus-powers",
-   "alsoOn": [
-    "Spheres-Of-Power/Soul-Weaver/Soul-Weaver-Feats#extra-nexus-powers"
-   ],
-   "md": "**Prerequisite:** Bound nexus class feature.\n\n**Benefit:** Increase the number of souls in your bound nexus by 2. You may gain this feat multiple times. The effects stack."
   },
   {
    "id": "feat/extra-origin-talent",
@@ -16212,8 +16084,8 @@
    "md": "**Benefit:** You gain an additional origin talent.\n\n**Special:** This feat may be selected multiple times. The effects stack."
   },
   {
-   "id": "feat/extra-psionics",
-   "name": "Extra Psionics",
+   "id": "feat/extra-feats/extra-spell-points",
+   "name": "Extra Spell Points",
    "system": "Spheres of Power",
    "types": [
     "General"
@@ -16224,112 +16096,11 @@
    "sphere": "",
    "spheres": [],
    "group": "Extra Feats",
-   "prerequisites": "Psionics class feature.",
+   "prerequisites": "Spell pool.",
    "source": "Ultimate Spheres of Power",
-   "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-psionics",
-   "alsoOn": [
-    "Spheres-Of-Power/Symbiat/Symbiat-Feats#extra-psionics"
-   ],
-   "md": "**Prerequisite:** Psionics class feature.\n\n**Benefit:** You may use psionics an extra 6 rounds per day. You may gain this feat multiple times. The effects stack."
-  },
-  {
-   "id": "feat/extra-secret",
-   "name": "Extra Secret",
-   "system": "Spheres of Power",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Extra Feats",
-   "prerequisites": "Secrets class feature.",
-   "source": "Ultimate Spheres of Power",
-   "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-secret",
-   "alsoOn": [
-    "Spheres-Of-Power/Hedgewitch/Hedgewitch-Feats#extra-secret"
-   ],
-   "md": "**Prerequisite:** Secrets class feature.\n\n**Benefit:** Gain an extra secret for which you qualify. You may gain this feat multiple times. The effects stack."
-  },
-  {
-   "id": "feat/extra-shadowstuff",
-   "name": "Extra Shadowstuff",
-   "system": "Spheres of Power",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Extra Feats",
-   "prerequisites": "Shadowstuff class feature.",
-   "source": "Ultimate Spheres of Power",
-   "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-shadowstuff",
-   "alsoOn": [
-    "Spheres-Of-Power/Fey-Adept/Fey-Adept-Feats#extra-shadowstuff"
-   ],
-   "md": "**Prerequisite:** Shadowstuff class feature.\n\n**Benefit:** Increase the number of shadow points you possess by 2. You may gain this feat multiple times. The effects stack."
-  },
-  {
-   "id": "feat/extra-swarm-powers",
-   "name": "Extra Swarm Powers",
-   "system": "Spheres of Power",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Extra Feats",
-   "prerequisites": "Swarm powers class feature.",
-   "source": "Ultimate Spheres of Power",
-   "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-swarm-powers",
+   "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-spell-points",
    "alsoOn": [],
-   "md": "**Prerequisite:** Swarm powers class feature.\n\n**Benefit:** You gain an additional swarm power you qualify for.\n\n**Special:** This feat can be taken multiple times."
-  },
-  {
-   "id": "feat/extra-unseen-augmentation",
-   "name": "Extra Unseen Augmentation",
-   "system": "Spheres of Power",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Extra Feats",
-   "prerequisites": "Unseen forces class feature.",
-   "source": "Ultimate Spheres of Power",
-   "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-unseen-augmentation",
-   "alsoOn": [],
-   "md": "**Prerequisite:** Unseen forces class feature.\n\n**Benefit:** You gain an additional unseen augmentation for which you qualify. You may take this feat multiple times. The effects stack."
-  },
-  {
-   "id": "feat/extra-wraith-haunt",
-   "name": "Extra Wraith Haunt",
-   "system": "Spheres of Power",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Extra Feats",
-   "prerequisites": "Wraith haunt class feature.",
-   "source": "Ultimate Spheres of Power",
-   "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-wraith-haunt",
-   "alsoOn": [],
-   "md": "**Prerequisite:** Wraith haunt class feature.\n\n**Benefit:** You gain an additional wraith haunt. You may take this feat multiple times. The effects stack.\n\n---\n\n*Archived: [[Extra Feats (Original)|Original version]] (from before *Ultimate Spheres of Power*)*"
+   "md": "**Prerequisite:** Spell pool.\n\n**Benefit:** Your spell pool total increases by 2. You may gain this feat multiple times. The effects stack.\n\n---\n\n*Archived: [[Extra Feats (Original)|Original version]] (from before *Ultimate Spheres of Power*)*"
   },
   {
    "id": "feat/advanced-magic-training",
@@ -22758,6 +22529,25 @@
    "md": "**Prerequisites:** Spell point pool or casting class feature.\n\n**Benefit:** When you trigger a wild magic event (but not a major event), you may spend a spell point as an immediate action after the result is revealed to roll 1d20. On a result of 1-10, subtract the result from the result of your wild magic roll and take the new result, even if it is worse.\n\nOn a result of 11-20, subtract ten from your roll, then add that number to your wild magic result, taking the new result even if it is worse. If you possess at least 6 wild magic feats, you may use this ability when triggering a major event (see Variant Rules)."
   },
   {
+   "id": "feat/extra-shadowstuff",
+   "name": "Extra Shadowstuff",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Fey Adept Feats",
+   "prerequisites": "Shadowstuff class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Fey-Adept/Fey-Adept-Feats#extra-shadowstuff",
+   "alsoOn": [],
+   "md": "**Prerequisite:** Shadowstuff class feature.\n\n**Benefit:** Increase the number of shadow points you possess by 2. You may gain this feat multiple times. The effects stack."
+  },
+  {
    "id": "feat/psychosomatic-healing",
    "name": "Psychosomatic Healing",
    "system": "Spheres of Power",
@@ -22815,6 +22605,25 @@
    "url": "Spheres-Of-Power/Fey-Adept/Fey-Adept-Feats#violent-shadow-surreal",
    "alsoOn": [],
    "md": "**Prerequisites:** Shadowmark 3d6, shadow pool.\n\n**Benefit:** You may spend a shadow point as a full-round action to make a single attack with your shadowmark. Rather than a ranged touch attack, treat your shadowmark as a melee touch attack with a 10-foot reach. Regardless of if your attack hits or not, you may make attacks of opportunity as melee touch attacks with a 10-foot reach with your shadowmark without additional expenditure of points from your shadow pool until the beginning of your next turn. If you have multiple attacks from a high base attack bonus or effects such as haste you can (as part of the full-round action) make as many attacks with your violent shadow as your base attack bonus allows."
+  },
+  {
+   "id": "feat/extra-secret",
+   "name": "Extra Secret",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Hedgewitch Feats",
+   "prerequisites": "Secrets class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Hedgewitch/Hedgewitch-Feats#extra-secret",
+   "alsoOn": [],
+   "md": "**Prerequisite:** Secrets class feature.\n\n**Benefit:** Gain an extra secret for which you qualify. You may gain this feat multiple times. The effects stack."
   },
   {
    "id": "feat/asymmetrical-warfare-dual-sphere",
@@ -23903,6 +23712,25 @@
    "url": "Spheres-Of-Power/Light/Light-Sphere-Feats#wave-particle-duality-dual-sphere",
    "alsoOn": [],
    "md": "**Prerequisites:** Illusion sphere, Light sphere.\n\n**Benefit:** The light from your bright light becomes a spread rather than an emanation allowing it to move around corners and through tight spaces and small holes as if it was a gas. This light may penetrate areas and containers that are not airtight by spreading at a rate of 1 cube per 3 caster levels each round through cracks in doors, keyholes or other small gaps in construction.\n\n---\n\n*Archived: [[Light Sphere Feats (Ultimate)|Ultimate version]] (before *Polished*)*"
+  },
+  {
+   "id": "feat/extra-mystic-combat",
+   "name": "Extra Mystic Combat",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Mageknight Feats",
+   "prerequisites": "Mystic combat class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Mageknight/Mageknight-Feats#extra-mystic-combat",
+   "alsoOn": [],
+   "md": "**Prerequisite:** Mystic combat class feature.\n\n**Benefit:** Gain an extra mystic combat ability for which you qualify. You may gain this feat multiple times. The effects stack."
   },
   {
    "id": "feat/mageknight-feats/improved-spell-combat-combat",
@@ -25005,6 +24833,44 @@
    "md": "**Prerequisites:** Protection sphere, War sphere.\n\n**Benefit:** Allies receive a +1 circumstance bonus to initiative per aegis they bear that you created. This bonus stacks with itself.\n\n---\n\n*Archived: [[Protection Sphere Feats (Ultimate)|Ultimate version]] (before *Polished*)*"
   },
   {
+   "id": "feat/extra-bestial-trait",
+   "name": "Extra Bestial Trait",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Shifter Feats",
+   "prerequisites": "Bestial trait class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Shifter/Shifter-Feats#extra-bestial-trait",
+   "alsoOn": [],
+   "md": "**Prerequisite:** Bestial trait class feature.\n\n**Benefit:** Gain an additional bestial trait for which you meet the prerequisites. You may take this feat multiple times. The effects stack."
+  },
+  {
+   "id": "feat/extra-breadth-of-form",
+   "name": "Extra Breadth Of Form",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Shifter Feats",
+   "prerequisites": "Breadth of form class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Shifter/Shifter-Feats#extra-breadth-of-form",
+   "alsoOn": [],
+   "md": "**Prerequisite:** Breadth of form class feature.\n\n**Benefit:** Increase the number of times per day you may use breadth of form by 2. You may take this feat multiple times. The effects stack."
+  },
+  {
    "id": "feat/ensouled-totem",
    "name": "Ensouled Totem",
    "system": "Spheres of Power",
@@ -25026,6 +24892,25 @@
    "md": "**Prerequisites:** War sphere, bound nexus class feature.\n\n**Benefit:** You may expend a soul from your bound nexus to create a bound totemic soul. A totemic soul works as a normal totem, but it can move as if it were a soul (they normally orbit the character, but the soul weaver can move any number of them as a free action once per round and they have a fly speed of 40 feet), and it has a radius of only 30 feet. A totemic soul continues to exist for 10 minutes per level in the class that grants you the bound nexus class feature without needing concentration. You must still pay the normal spell point cost for creating the totem."
   },
   {
+   "id": "feat/extra-nexus-powers",
+   "name": "Extra Nexus Powers",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Soul Weaver Feats",
+   "prerequisites": "Bound nexus class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Soul-Weaver/Soul-Weaver-Feats#extra-nexus-powers",
+   "alsoOn": [],
+   "md": "**Prerequisite:** Bound nexus class feature.\n\n**Benefit:** Increase the number of souls in your bound nexus by 2. You may gain this feat multiple times. The effects stack."
+  },
+  {
    "id": "feat/soul-weaver-feats/weaponized-anathema-anathema",
    "name": "Weaponized Anathema",
    "system": "Spheres of Power",
@@ -25043,6 +24928,44 @@
    "url": "Spheres-Of-Power/Soul-Weaver/Soul-Weaver-Feats#weaponized-anathema-anathema",
    "alsoOn": [],
    "md": "**Prerequisite:** Anathema.\n\n**Benefit:** Once per round, when you hit with a weapon attack, you may deliver your anathema through the attack as a free action. The damage from the anathema is not increased by critical hits.\n\n---"
+  },
+  {
+   "id": "feat/extra-iatrogen",
+   "name": "Extra Iatrogen",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Soul Weaver Feats",
+   "prerequisites": "Iatrogen class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Soul-Weaver/Soul-Weaver-Feats#extra-iatrogen",
+   "alsoOn": [],
+   "md": "**Prerequisite:** Iatrogen class feature.\n\n**Benefit:** Gain an additional iatrogen for which you meet the prerequisites. You may take this feat multiple times. The effects stack."
+  },
+  {
+   "id": "feat/extra-psionics",
+   "name": "Extra Psionics",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Symbiat Feats",
+   "prerequisites": "Psionics class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Symbiat/Symbiat-Feats#extra-psionics",
+   "alsoOn": [],
+   "md": "**Prerequisite:** Psionics class feature.\n\n**Benefit:** You may use psionics an extra 6 rounds per day. You may gain this feat multiple times. The effects stack."
   },
   {
    "id": "feat/lingering-link",
@@ -25163,6 +25086,25 @@
    "md": "**Prerequisites:** Life sphere, psionics class feature.\n\n**Benefit:** Whenever you expend a round of your psionics, you or an ally of your choice that is affected by your psionics regains 1d6 hit points. You may expend additional rounds of your psionics to increase the amount healed by 1d6 per round expended in this manner."
   },
   {
+   "id": "feat/extra-swarm-powers",
+   "name": "Extra Swarm Powers",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Symbiat Feats",
+   "prerequisites": "Swarm powers class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Symbiat/Symbiat-Feats#extra-swarm-powers",
+   "alsoOn": [],
+   "md": "**Prerequisite:** Swarm powers class feature.\n\n**Benefit:** You gain an additional swarm power you qualify for.\n\n**Special:** This feat can be taken multiple times."
+  },
+  {
    "id": "feat/extradimensional-assembly",
    "name": "Extradimensional Assembly",
    "system": "Spheres of Power",
@@ -25270,6 +25212,25 @@
    "url": "Spheres-Of-Power/Telekinesis/Telekinesis-Sphere-Feats#tactile-illusion-dual-sphere",
    "alsoOn": [],
    "md": "**Prerequisites:** Illusion sphere (Illusionary Touch (sensory, touch) x2), Telekinesis sphere (Finesse).\n\n**Benefit:** By weaving your illusions together with a hint of telekinetic force you can allow them to exert force more appropriate to their apparent nature. Your illusions can support weight or block movement of creatures or objects so long as all pressure and weight on it falls within the size limit of your telekinesis. However, anyone who disbelieves the illusion may choose to ignore the telekinetic effect, moving through the illusion as normal, as well as allowing them to throw or move items through it.\n\nIn addition, you may deal lethal damage with your illusions instead of nonlethal damage.\n\n---\n\n*Archived: [[Telekinesis Sphere Feats (Ultimate)|Ultimate version]] (before *Polished*)*"
+  },
+  {
+   "id": "feat/extra-invocations",
+   "name": "Extra Invocations",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Thaumaturge Feats",
+   "prerequisites": "Invocations class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Thaumaturge/Thaumaturge-Feats#extra-invocations",
+   "alsoOn": [],
+   "md": "**Prerequisite:** Invocations class feature.\n\n**Benefit:** Increase the number of times per day you may use invocations by 2. You may take this feat multiple times. The effects stack."
   },
   {
    "id": "feat/forbidden-totem",
@@ -25434,6 +25395,25 @@
    "url": "Spheres-Of-Power/Thaumaturge/Thaumaturge-Feats#totem-of-the-deepest-curse",
    "alsoOn": [],
    "md": "**Prerequisites:** War sphere, forbidden lore class feature.\n\n**Benefit:** You must spend 2 spell points to create a totem of the deepest curse. The area of this totem is desecrated with the aberrations you commune with. Enemies within this totem suffer the effects you currently suffer from due to any backlash you have accumulated."
+  },
+  {
+   "id": "feat/extra-unseen-augmentation",
+   "name": "Extra Unseen Augmentation",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Thaumaturge Feats",
+   "prerequisites": "Unseen forces class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Thaumaturge/Thaumaturge-Feats#extra-unseen-augmentation",
+   "alsoOn": [],
+   "md": "**Prerequisite:** Unseen forces class feature.\n\n**Benefit:** You gain an additional unseen augmentation for which you qualify. You may take this feat multiple times. The effects stack."
   },
   {
    "id": "feat/localized-changes-dual-sphere",
@@ -26187,7 +26167,7 @@
    "md": "**Prerequisites:** Weather sphere; animal companion with an effective druid level of 7.\n\n**Benefit:** You can select a tornado to serve as your companion. You acquire and advance this creature in the same way as the companion detailed in the class feature used as a prerequisite for this feat. You can also dismiss the creature as dictated by your class feature.\n\n##### Tornado (companion)\n\n**Starting Statistics**\n**Size** Large, **Speed** fly 50 ft. (Good); **AC** +3 natural armor, **Attack** slam (1d4); **Str** 16, **Dex** 17, **Con** -, **Int** -, **Wis** 3, **Cha** 1; **Special Qualities** fluid, whirlwind (10-15 ft. high, 1d4+3 damage, DC 10 + 1/2 HD + Str modifier), construct immunities, darkvision 60 ft. **CMD** cannot be tripped\n\n**Fluid:** A tornado companion is unusually fluid; it may squeeze through tight spaces as if it were two sizes smaller than it actually is.\n\n**Mindless:** Tornado companions have no Intelligence score and possess the mindless trait. In spite of this, tornado companions may learn one trick, plus additional bonus tricks as noted on Table: Animal Companion Base Statistics (in the Pathfinder RPG Core Rulebook). Tornado companions have no skill points, but they gain feats as if they had an Intelligence score as noted on Table: Animal Companion Base Statistics.\n\n**Whirlwind:** A tornado companion is always in whirlwind form (see Pathfinder RPG Bestiary Appendix 3: Glossary)\n\n**Note:** As a construct, a tornado companion does not gain increased hit points from a high Constitution score, but instead gains 30 bonus hit points from its size. It has base attack bonus and saving throws as normal for an animal companion."
   },
   {
-   "id": "feat/wraith-feats/extra-wraith-haunt",
+   "id": "feat/extra-wraith-haunt",
    "name": "Extra Wraith Haunt",
    "system": "Spheres of Power",
    "types": [

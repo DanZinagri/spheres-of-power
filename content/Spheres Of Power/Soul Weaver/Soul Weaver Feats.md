@@ -167,3 +167,9 @@ The powers of the beyond are sufficient to appease the bound force within.
 **Prerequisites:** War sphere, channel energy class feature.
 
 **Benefit:** When you use your channel energy feature, instead of affecting everyone in a specific radius, you may spend a spell point to have it affect all allies or all enemies in a totem you control. You do not need to be within the chosen totem.
+
+#### Extra Iatrogen
+
+**Prerequisite:** Iatrogen class feature.
+
+**Benefit:** Gain an additional iatrogen for which you meet the prerequisites. You may take this feat multiple times. The effects stack.

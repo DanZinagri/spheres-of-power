@@ -103,8 +103,8 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 - [[Warleader (warleader-sphere)|Warleader]] · [[Warleader Sphere Drawbacks|Drawbacks]]
 - [[Wrestling]] · [[Wrestling Sphere Drawbacks|Drawbacks]]
 - [[Leadership]] · [[Leadership Sphere Drawbacks|Drawbacks]]
-- [[Tech]] · [[Tech Sphere Drawbacks|Drawbacks]]
-- [[Tinker]] · [[Tinker Sphere Drawbacks|Drawbacks]]
+- [[Tech]] · [[Tech Sphere Feats|Feats]] · [[Tech Sphere Drawbacks|Drawbacks]]
+- [[Tinker]] · [[Gizmo Feats|Feats]] · [[Tinker Sphere Drawbacks|Drawbacks]]
 
 </div>
 
@@ -296,15 +296,15 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 | Class | Archetypes | Class Options |
 | --- | --- | --- |
-| **[[Armiger]]** | [[Antiquarian]], [[Awakener]], [[Battlefield Tinker]], [[Bladewalker]], [[Bounty Hunter]], [[Machinehead]], [[Stancemaster]], [[Tag Fighter]], [[Taskmaster]] | — |
-| **[[Blacksmith]]** | [[Artificer]], [[Barista]], [[Disciple Of Goibniu\|Disciple of Goibniu]], [[Essence Smith]], [[Fleshforger]], [[Iron Chef]], [[Master-At-Arms]], [[Peltmonger]], [[Spellforge]], [[Techsmith]] | — |
-| **[[Commander]]** | [[Administrator]], [[Battlesinger]], [[Bearon (Commander Archetype)\|Bearon]], [[Courtly Tactician]], [[Dreadlord]], [[Feylord]], [[Marshal]], [[Noble]], [[Roaming General]], [[Sea Captain]], [[Sworn Officer]], [[Visionary General]] | — |
+| **[[Armiger]]** | [[Antiquarian]], [[Awakener]], [[Battlefield Tinker]], [[Bladewalker]], [[Bounty Hunter]], [[Machinehead]], [[Stancemaster]], [[Tag Fighter]], [[Taskmaster]] | [[Armiger Feats\|Feats]] |
+| **[[Blacksmith]]** | [[Artificer]], [[Barista]], [[Disciple Of Goibniu\|Disciple of Goibniu]], [[Essence Smith]], [[Fleshforger]], [[Iron Chef]], [[Master-At-Arms]], [[Peltmonger]], [[Spellforge]], [[Techsmith]] | [[Blacksmith Feats\|Feats]] |
+| **[[Commander]]** | [[Administrator]], [[Battlesinger]], [[Bearon (Commander Archetype)\|Bearon]], [[Courtly Tactician]], [[Dreadlord]], [[Feylord]], [[Marshal]], [[Noble]], [[Roaming General]], [[Sea Captain]], [[Sworn Officer]], [[Visionary General]] | [[Commander Feats\|Feats]] |
 | **[[Conscript]]** | — | [[Conscript Feats\|Feats]] |
 | **[[Savant (Class Version)\|Savant]]** | — | [[Savant Feats\|Feats]] |
-| **[[Scholar]]** | [[Astrologian]], [[Caller]], [[Doctor]], [[Engineer]], [[Fell Archaeologist]], [[Harmacist]], [[Slime Savant]], [[Stitcher]], [[Surveyor]] | — |
+| **[[Scholar]]** | [[Astrologian]], [[Caller]], [[Doctor]], [[Engineer]], [[Fell Archaeologist]], [[Harmacist]], [[Slime Savant]], [[Stitcher]], [[Surveyor]] | [[Scholar Feats\|Feats]] |
 | **[[Sentinel]]** | [[Adamant Guardian]], [[Darkness Defender]], [[Darkthrone (Sentinel Archetype) (Champion)\|Darkthrone]], [[Dimensional Defender]], [[Garrison]], [[Iron Revenant]], [[Laughing Hyena]], [[Paragon]] | [[Sentinel Feats\|Feats]] |
-| **[[Striker]]** | [[Barfighter]], [[Black Powder Brawler]], [[Chaos Shifter]], [[Elemental Fist]], [[Shadowed Fist]], [[Skirmishing Scout]], [[Strong Style Grappler]], [[Voidrusher]] | — |
-| **[[Technician]]** | [[Adamantine Scientist]], [[Innovator]], [[Mad Scientist]], [[Mythbreaker]], [[Rigger]], [[Suit Pilots]] | — |
+| **[[Striker]]** | [[Barfighter]], [[Black Powder Brawler]], [[Chaos Shifter]], [[Elemental Fist]], [[Shadowed Fist]], [[Skirmishing Scout]], [[Strong Style Grappler]], [[Voidrusher]] | [[Striker Feats\|Feats]] |
+| **[[Technician]]** | [[Adamantine Scientist]], [[Innovator]], [[Mad Scientist]], [[Mythbreaker]], [[Rigger]], [[Suit Pilots]] | [[Technician Feats\|Feats]] |
 
 </div>
 
@@ -321,13 +321,13 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 | Class | Archetypes | Class Options |
 | --- | --- | --- |
 | **[[Agent]]** | [[Blackpowder Slayer]], [[Erudite Pugilist]], [[Imposter]], [[Superstar Spy]] | — |
-| **[[Courser]]** | [[Gourmand]], [[Nomad]], [[Ravener]], [[Survivor]], [[Venator]], [[Wildspeaker]] | — |
-| **[[Envoy]]** | [[Aristarch]], [[Beguiler]], [[Idol]], [[Luminary]], [[Officer]] | — |
+| **[[Courser]]** | [[Gourmand]], [[Nomad]], [[Ravener]], [[Survivor]], [[Venator]], [[Wildspeaker]] | [[Courser Feats\|Feats]] |
+| **[[Envoy]]** | [[Aristarch]], [[Beguiler]], [[Idol]], [[Luminary]], [[Officer]] | [[Envoy Feats\|Feats]] |
 | **[[Genius]]** | — | — |
-| **[[Mastermind]]** | [[Ambuscader]], [[Consigliere]], [[Malfeasant]], [[Saboteur]], [[Squad Operator]] | — |
+| **[[Mastermind]]** | [[Ambuscader]], [[Consigliere]], [[Malfeasant]], [[Saboteur]], [[Squad Operator]] | [[Mastermind Feats\|Feats]] |
 | **[[Professional]]** | [[Trader]] | [[Professional Feats\|Feats]] |
-| **[[Advisor]]** | [[Captain]], [[Caretaker]], [[Dramaturge]], [[Philosopher]], [[Regent]] | — |
-| **[[Conduit]]** | [[Runescriber]], [[Interdictor]] | — |
+| **[[Advisor]]** | [[Captain]], [[Caretaker]], [[Dramaturge]], [[Philosopher]], [[Regent]] | [[Advisor Feats\|Feats]] |
+| **[[Conduit]]** | [[Runescriber]], [[Interdictor]] | [[Conduit Feats\|Feats]] |
 
 </div>
 

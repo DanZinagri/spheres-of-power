@@ -97,3 +97,9 @@ Whenever you use Forbidden Lore and the sum of your normal caster level (before 
 **Prerequisites:** War sphere, forbidden lore class feature.
 
 **Benefit:** You must spend 2 spell points to create a totem of the deepest curse. The area of this totem is desecrated with the aberrations you commune with. Enemies within this totem suffer the effects you currently suffer from due to any backlash you have accumulated.
+
+#### Extra Unseen Augmentation
+
+**Prerequisite:** Unseen forces class feature.
+
+**Benefit:** You gain an additional unseen augmentation for which you qualify. You may take this feat multiple times. The effects stack.

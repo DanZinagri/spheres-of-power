@@ -102,71 +102,11 @@ You have mastered your body so completely that you can control its processes wit
 
 **Benefit:** Choose one (control) talent you have. You have its effects permanently, as if constantly meditating on it. While you maintain the meditate approach, the chosen (control) talent does not count towards the maximum number of (control) talents you can have applied at one time. You can spend a free action to suppress (or reactivate) the effects of the chosen (control) talent.
 
-#### Extra Advisor Lesson
-
-*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
-
-**Prerequisite:** Advisor 5.
-
-**Benefit:** You gain an additional advisor lesson for which you qualify.
-
-**Special:** This feat may be taken a second time starting at 11th and a third time starting 17th level.
-
 #### Extra Conspiracy Feature
 
 **Prerequisites:** Base skill sphere granted by the chosen conspiracy, agent 1 or mastermind 1.
 
 **Benefit:** Gain the features of a conspiracy for your class that you do not have but already possess the base sphere for. You must have access to the web of secrets, coordinated combat, put off-guard, or stratagem abilities to use features that depend on those abilities.
-
-#### Extra Conduit Wonder
-
-*Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
-
-**Prerequisite:** Conduit 5.
-
-**Benefit:** You gain an additional conduit wonder for which you qualify.
-
-**Special:** This feat may be taken a second time starting at 11th and a third time starting 17th level.
-
-#### Extra Courser Venture
-
-**Prerequisite:** Courser 5.
-
-**Benefit:** Gain an additional courser venture for which you qualify.
-
-**Special:** This feat may be taken a second time starting at 11th level and a third time starting at 17th level.
-
-#### Extra Envoy Flair
-
-**Prerequisite:** Envoy 5.
-
-**Benefit:** Gain an additional envoy flair for which you qualify.
-
-**Special:** This feat may be taken a second time starting at 11th level and a third time starting at 17th level.
-
-#### Extra Mastermind Trick
-
-**Prerequisite:** Mastermind 7.
-
-**Benefit:** Gain an additional mastermind trick for which you qualify.
-
-**Special:** This feat may be taken a second time starting at 15th level.
-
-#### Extra Model
-
-**Prerequisite:** Model class feature or Theoretical Initiate.
-
-**Benefit:** You gain an additional theorist model which you can use with your hypothesis dice. If you have the model class feature, you gain the model’s magical underpinning as well.
-
-**Special:** You may select this feat an additional time for every 5 character levels you possess, each time selecting a new model.
-
-#### Extra Nuance
-
-**Prerequisite:** 5th-level dissident.
-
-**Benefit:** Gain an additional dissident nuance for which you qualify.
-
-**Special:** This feat may be taken a second time starting at 11th level and a third time starting at 17th level.
 
 #### Extra Skill Leverage
 

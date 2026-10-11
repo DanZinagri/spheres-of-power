@@ -1,5 +1,19 @@
 [
  {
+  "id": "feat/extra-advisor-lesson",
+  "name": "Extra Advisor Lesson",
+  "system": "Spheres of Guile",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Advisor 5.",
+  "source": "Diamond Spheres: Harmony & Discord",
+  "url": "Advisor/Advisor-Feats#extra-advisor-lesson",
+  "summary": "You gain an additional advisor lesson for which you qualify.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/long-shadows",
   "name": "Long Shadows",
   "system": "Spheres of Power",
@@ -339,6 +353,62 @@
   "source": "The Warden",
   "url": "Champions/Warden-(warden-class)/Warden-Feats#sphere-focus",
   "summary": "Choose a sphere.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/extra-conduit-wonder",
+  "name": "Extra Conduit Wonder",
+  "system": "Spheres of Guile",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Conduit 5.",
+  "source": "Diamond Spheres: Thaumic Potential",
+  "url": "Conduit/Conduit-Feats#extra-conduit-wonder",
+  "summary": "You gain an additional conduit wonder for which you qualify.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/extra-courser-venture",
+  "name": "Extra Courser Venture",
+  "system": "Spheres of Guile",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Courser 5.",
+  "source": "Spheres of Guile",
+  "url": "Courser/Courser-Feats#extra-courser-venture",
+  "summary": "Gain an additional courser venture for which you qualify.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/extra-envoy-flair",
+  "name": "Extra Envoy Flair",
+  "system": "Spheres of Guile",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Envoy 5.",
+  "source": "Spheres of Guile",
+  "url": "Envoy/Envoy-Feats#extra-envoy-flair",
+  "summary": "Gain an additional envoy flair for which you qualify.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/extra-mastermind-trick",
+  "name": "Extra Mastermind Trick",
+  "system": "Spheres of Guile",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Mastermind 7.",
+  "source": "Spheres of Guile",
+  "url": "Mastermind/Mastermind-Feats#extra-mastermind-trick",
+  "summary": "Gain an additional mastermind trick for which you qualify.",
   "file": "feats.json"
  },
  {
@@ -985,20 +1055,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/extra-advisor-lesson",
-  "name": "Extra Advisor Lesson",
-  "system": "Spheres of Guile",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Advisor 5.",
-  "source": "Diamond Spheres: Thaumic Potential",
-  "url": "Other-Pages/Operative-Feats#extra-advisor-lesson",
-  "summary": "You gain an additional advisor lesson for which you qualify.",
-  "file": "feats.json"
- },
- {
   "id": "feat/extra-conspiracy-feature",
   "name": "Extra Conspiracy Feature",
   "system": "Spheres of Guile",
@@ -1007,65 +1063,9 @@
   ],
   "spheres": [],
   "prerequisites": "Base skill sphere granted by the chosen conspiracy, agent 1 or mastermind 1.",
-  "source": "Diamond Spheres: Harmony & Discord",
+  "source": "Diamond Spheres: Thaumic Potential",
   "url": "Other-Pages/Operative-Feats#extra-conspiracy-feature",
   "summary": "Gain the features of a conspiracy for your class that you do not have but already possess the base sphere for.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-conduit-wonder",
-  "name": "Extra Conduit Wonder",
-  "system": "Spheres of Guile",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Conduit 5.",
-  "source": "Diamond Spheres: Harmony & Discord",
-  "url": "Other-Pages/Operative-Feats#extra-conduit-wonder",
-  "summary": "You gain an additional conduit wonder for which you qualify.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-courser-venture",
-  "name": "Extra Courser Venture",
-  "system": "Spheres of Guile",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Courser 5.",
-  "source": "Diamond Spheres: Thaumic Potential",
-  "url": "Other-Pages/Operative-Feats#extra-courser-venture",
-  "summary": "Gain an additional courser venture for which you qualify.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-envoy-flair",
-  "name": "Extra Envoy Flair",
-  "system": "Spheres of Guile",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Envoy 5.",
-  "source": "Diamond Spheres: Thaumic Potential",
-  "url": "Other-Pages/Operative-Feats#extra-envoy-flair",
-  "summary": "Gain an additional envoy flair for which you qualify.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-mastermind-trick",
-  "name": "Extra Mastermind Trick",
-  "system": "Spheres of Guile",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Mastermind 7.",
-  "source": "Diamond Spheres: Thaumic Potential",
-  "url": "Other-Pages/Operative-Feats#extra-mastermind-trick",
-  "summary": "Gain an additional mastermind trick for which you qualify.",
   "file": "feats.json"
  },
  {
@@ -1894,6 +1894,20 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/extra-prowess",
+  "name": "Extra Prowess",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Armiger 5.",
+  "source": "Spheres of Might",
+  "url": "Spheres-Of-Might/Armiger/Armiger-Feats#extra-prowess",
+  "summary": "Gain an additional prowess for which you qualify.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/part-time-barista",
   "name": "Part-Time Barista",
   "system": "Spheres of Might",
@@ -1919,6 +1933,34 @@
   "source": "Spheres Apocrypha: The Barista",
   "url": "Spheres-Of-Might/Blacksmith/Barista#ill-sleep-when-im-dead-aristeia",
   "summary": "You require half the amount of time you otherwise would to get the benefits of a full night’s rest.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/extra-smithing-insight",
+  "name": "Extra Smithing Insight",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Blacksmith 7.",
+  "source": "Spheres of Might",
+  "url": "Spheres-Of-Might/Blacksmith/Blacksmith-Feats#extra-smithing-insight",
+  "summary": "Gain an additional smithing insight for which you qualify.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/extra-battlefield-specialization",
+  "name": "Extra Battlefield Specialization",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Commander 5.",
+  "source": "Spheres of Might",
+  "url": "Spheres-Of-Might/Commander/Commander-Feats#extra-battlefield-specialization",
+  "summary": "Gain an additional battlefield specialization for which you qualify.",
   "file": "feats.json"
  },
  {
@@ -2562,20 +2604,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/extra-battlefield-specialization",
-  "name": "Extra Battlefield Specialization",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Commander 5.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#extra-battlefield-specialization",
-  "summary": "Gain an additional battlefield specialization for which you qualify.",
-  "file": "feats.json"
- },
- {
   "id": "feat/extra-boon-of-purpose",
   "name": "Extra Boon Of Purpose",
   "system": "Spheres of Might",
@@ -2629,76 +2657,6 @@
   "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Might/Practitioner-Feats#extra-ki-power",
   "summary": "Gain an additional ki power for which you qualify.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-prowess",
-  "name": "Extra Prowess",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Armiger 5.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#extra-prowess",
-  "summary": "Gain an additional prowess for which you qualify.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-scholars-knack",
-  "name": "Extra Scholar’s Knack",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Scholar 7.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#extra-scholars-knack",
-  "summary": "Gain an additional scholar’s knack for which you qualify.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-smithing-insight",
-  "name": "Extra Smithing Insight",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Blacksmith 7.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#extra-smithing-insight",
-  "summary": "Gain an additional smithing insight for which you qualify.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-striker-art",
-  "name": "Extra Striker Art",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Striker 5.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#extra-striker-art",
-  "summary": "Gain an additional striker art for which you qualify.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-technical-insight",
-  "name": "Extra Technical Insight",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Technician 5.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#extra-technical-insight",
-  "summary": "Gain an additional technical insight for which you qualify.",
   "file": "feats.json"
  },
  {
@@ -3597,6 +3555,62 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/moderated-invocation",
+  "name": "Moderated Invocation",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Forbidden Lore or Strain class feature",
+  "source": "Spheres of Might",
+  "url": "Spheres-Of-Might/Savant-(Class-Version)/Savant-Feats#moderated-invocation",
+  "summary": "When you use Forbidden Lore or strain, you may choose to gain a smaller bonus than normal from these class features, to a minimum of +1 to caster level or base…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/extra-scholars-knack",
+  "name": "Extra Scholar’s Knack",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Scholar 7.",
+  "source": "Spheres of Might",
+  "url": "Spheres-Of-Might/Scholar/Scholar-Feats#extra-scholars-knack",
+  "summary": "Gain an additional scholar’s knack for which you qualify.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/protective-reserve",
+  "name": "Protective Reserve",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Sentinel’s reserve class feature.",
+  "source": "Spheres of Might",
+  "url": "Spheres-Of-Might/Sentinel/Sentinel-Feats#protective-reserve",
+  "summary": "Choose an (aegis) talent from the Protection sphere.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/extra-striker-art",
+  "name": "Extra Striker Art",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Striker 5.",
+  "source": "Spheres of Might",
+  "url": "Spheres-Of-Might/Striker/Striker-Feats#extra-striker-art",
+  "summary": "Gain an additional striker art for which you qualify.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/mobile-drone",
   "name": "Mobile Drone",
   "system": "Spheres of Might",
@@ -3607,8 +3621,8 @@
    "Tech"
   ],
   "prerequisites": "Tech sphere, Drone.",
-  "source": "Tandem Talents",
-  "url": "Spheres-Of-Might/Practitioner-Feats#mobile-drone",
+  "source": "",
+  "url": "Spheres-Of-Might/Tech/Tech-Sphere-Feats#mobile-drone",
   "summary": "Drones you create gain the Athletics sphere as a bonus talent.",
   "file": "feats.json"
  },
@@ -3619,10 +3633,12 @@
   "types": [
    "General"
   ],
-  "spheres": [],
+  "spheres": [
+   "Tech"
+  ],
   "prerequisites": "",
-  "source": "Tandem Talents",
-  "url": "Spheres-Of-Might/Practitioner-Feats#receptive-to-grafts",
+  "source": "",
+  "url": "Spheres-Of-Might/Tech/Tech-Sphere-Feats#receptive-to-grafts",
   "summary": "Your body is more capable of handling a larger amount of cybertech, grafts, and other implants.",
   "file": "feats.json"
  },
@@ -3637,8 +3653,8 @@
    "Tech"
   ],
   "prerequisites": "Tech sphere, Drone.",
-  "source": "Tandem Talents",
-  "url": "Spheres-Of-Might/Practitioner-Feats#reckless-drone",
+  "source": "",
+  "url": "Spheres-Of-Might/Tech/Tech-Sphere-Feats#reckless-drone",
   "summary": "Drones you create add twice their base attack bonus to their maximum hit points.",
   "file": "feats.json"
  },
@@ -3653,8 +3669,8 @@
    "Tech"
   ],
   "prerequisites": "Tech sphere, Drone.",
-  "source": "Tandem Talents",
-  "url": "Spheres-Of-Might/Practitioner-Feats#recon-drone",
+  "source": "",
+  "url": "Spheres-Of-Might/Tech/Tech-Sphere-Feats#recon-drone",
   "summary": "Drones you create gain the Scout sphere as a bonus talent.",
   "file": "feats.json"
  },
@@ -3669,8 +3685,8 @@
    "Tech"
   ],
   "prerequisites": "Tech sphere (Remote Control).",
-  "source": "Tandem Talents",
-  "url": "Spheres-Of-Might/Practitioner-Feats#remote-hacking",
+  "source": "",
+  "url": "Spheres-Of-Might/Tech/Tech-Sphere-Feats#remote-hacking",
   "summary": "Your remote control can be used to override signals that don’t belong to you.",
   "file": "feats.json"
  },
@@ -3682,11 +3698,12 @@
    "Combat"
   ],
   "spheres": [
-   "Guardian"
+   "Guardian",
+   "Tech"
   ],
   "prerequisites": "Guardian sphere.",
-  "source": "Tandem Talents",
-  "url": "Spheres-Of-Might/Practitioner-Feats#sacrificial-augment-combat",
+  "source": "",
+  "url": "Spheres-Of-Might/Tech/Tech-Sphere-Feats#sacrificial-augment-combat",
   "summary": "When your delayed damage pool empties, you may as an immediate action redirect the damage you would take to augment or implant on your person or an innate…",
   "file": "feats.json"
  },
@@ -3701,8 +3718,8 @@
    "Tech"
   ],
   "prerequisites": "Tech sphere, Drone.",
-  "source": "Tandem Talents",
-  "url": "Spheres-Of-Might/Practitioner-Feats#shield-drone",
+  "source": "",
+  "url": "Spheres-Of-Might/Tech/Tech-Sphere-Feats#shield-drone",
   "summary": "Drones you create are proficient with all shields (including tower shields).",
   "file": "feats.json"
  },
@@ -3717,8 +3734,8 @@
    "Tech"
   ],
   "prerequisites": "Independent Invention, Tech sphere, Drone.",
-  "source": "Tandem Talents",
-  "url": "Spheres-Of-Might/Practitioner-Feats#technical-compatibility",
+  "source": "",
+  "url": "Spheres-Of-Might/Tech/Tech-Sphere-Feats#technical-compatibility",
   "summary": "Your independent inventions are considered drones for purposes from benefiting from effects that affect drones, and vice versa.",
   "file": "feats.json"
  },
@@ -3734,8 +3751,8 @@
    "Tech"
   ],
   "prerequisites": "Tech sphere, Ammo Spitter, Alchemy sphere (formulae) package.",
-  "source": "Tandem Talents",
-  "url": "Spheres-Of-Might/Practitioner-Feats#technologically-alchemical-ammo-dual-sphere",
+  "source": "",
+  "url": "Spheres-Of-Might/Tech/Tech-Sphere-Feats#technologically-alchemical-ammo-dual-sphere",
   "summary": "Your ammo spitter may create alchemical or complex ammunition (such as alchemical cartridges and vial bolts) costing 50 gp or less.",
   "file": "feats.json"
  },
@@ -3750,37 +3767,9 @@
    "Tech"
   ],
   "prerequisites": "Tech sphere (Remote Control), Remote Hacking.",
-  "source": "Tandem Talents",
-  "url": "Spheres-Of-Might/Practitioner-Feats#undetectable-hacking",
+  "source": "",
+  "url": "Spheres-Of-Might/Tech/Tech-Sphere-Feats#undetectable-hacking",
   "summary": "Prerequisites: Tech sphere (Remote Control), Remote Hacking.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/moderated-invocation",
-  "name": "Moderated Invocation",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Forbidden Lore or Strain class feature",
-  "source": "Spheres of Might",
-  "url": "Spheres-Of-Might/Savant-(Class-Version)/Savant-Feats#moderated-invocation",
-  "summary": "When you use Forbidden Lore or strain, you may choose to gain a smaller bonus than normal from these class features, to a minimum of +1 to caster level or base…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/protective-reserve",
-  "name": "Protective Reserve",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Sentinel’s reserve class feature.",
-  "source": "Spheres of Might",
-  "url": "Spheres-Of-Might/Sentinel/Sentinel-Feats#protective-reserve",
-  "summary": "Choose an (aegis) talent from the Protection sphere.",
   "file": "feats.json"
  },
  {
@@ -3861,6 +3850,20 @@
   "source": "The Inventor's Handbook",
   "url": "Spheres-Of-Might/Tech/Tech#old-feat-craft-permanent-gadget-item-creation",
   "summary": "You can create permanent versions of Tech sphere gadgets that you know.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/extra-technical-insight",
+  "name": "Extra Technical Insight",
+  "system": "Spheres of Might",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Technician 5.",
+  "source": "Spheres of Might",
+  "url": "Spheres-Of-Might/Technician/Technician-Feats#extra-technical-insight",
+  "summary": "Gain an additional technical insight for which you qualify.",
   "file": "feats.json"
  },
  {
@@ -7090,6 +7093,20 @@
   "source": "Ultimate Spheres of Power",
   "url": "Spheres-Of-Power/Elementalist/Elementalist-Feats#improved-favored-element",
   "summary": "Your second and third favored elements receive the same damage bonus as your first favored element.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/extra-electrokinetic-stunt",
+  "name": "Extra Electrokinetic Stunt",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Electrokinetic stunt class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Elementalist/Elementalist-Feats#extra-electrokinetic-stunt",
+  "summary": "You gain an additional electrokinetic stunt for which you qualify.",
   "file": "feats.json"
  },
  {
@@ -11736,34 +11753,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/extra-bestial-trait",
-  "name": "Extra Bestial Trait",
-  "system": "Spheres of Power",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Bestial trait class feature.",
-  "source": "Ultimate Spheres of Power",
-  "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-bestial-trait",
-  "summary": "Gain an additional bestial trait for which you meet the prerequisites.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-breadth-of-form",
-  "name": "Extra Breadth Of Form",
-  "system": "Spheres of Power",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Breadth of form class feature.",
-  "source": "Ultimate Spheres of Power",
-  "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-breadth-of-form",
-  "summary": "Increase the number of times per day you may use breadth of form by 2.",
-  "file": "feats.json"
- },
- {
   "id": "feat/extra-divine-works",
   "name": "Extra Divine Works",
   "system": "Spheres of Power",
@@ -11775,76 +11764,6 @@
   "source": "Ultimate Spheres of Power",
   "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-divine-works",
   "summary": "You may choose an additional option from the list of possible divine works class features.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-electrokinetic-stunt",
-  "name": "Extra Electrokinetic Stunt",
-  "system": "Spheres of Power",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Electrokinetic stunt class feature.",
-  "source": "Ultimate Spheres of Power",
-  "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-electrokinetic-stunt",
-  "summary": "You gain an additional electrokinetic stunt for which you qualify.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-iatrogen",
-  "name": "Extra Iatrogen",
-  "system": "Spheres of Power",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Iatrogen class feature.",
-  "source": "Ultimate Spheres of Power",
-  "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-iatrogen",
-  "summary": "Gain an additional iatrogen for which you meet the prerequisites.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-invocations",
-  "name": "Extra Invocations",
-  "system": "Spheres of Power",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Invocations class feature.",
-  "source": "Ultimate Spheres of Power",
-  "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-invocations",
-  "summary": "Increase the number of times per day you may use invocations by 2.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-mystic-combat",
-  "name": "Extra Mystic Combat",
-  "system": "Spheres of Power",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Mystic combat class feature.",
-  "source": "Ultimate Spheres of Power",
-  "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-mystic-combat",
-  "summary": "Gain an extra mystic combat ability for which you qualify.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-nexus-powers",
-  "name": "Extra Nexus Powers",
-  "system": "Spheres of Power",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Bound nexus class feature.",
-  "source": "Ultimate Spheres of Power",
-  "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-nexus-powers",
-  "summary": "Increase the number of souls in your bound nexus by 2.",
   "file": "feats.json"
  },
  {
@@ -11862,87 +11781,17 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/extra-psionics",
-  "name": "Extra Psionics",
+  "id": "feat/extra-feats/extra-spell-points",
+  "name": "Extra Spell Points",
   "system": "Spheres of Power",
   "types": [
    "General"
   ],
   "spheres": [],
-  "prerequisites": "Psionics class feature.",
+  "prerequisites": "Spell pool.",
   "source": "Ultimate Spheres of Power",
-  "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-psionics",
-  "summary": "You may use psionics an extra 6 rounds per day.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-secret",
-  "name": "Extra Secret",
-  "system": "Spheres of Power",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Secrets class feature.",
-  "source": "Ultimate Spheres of Power",
-  "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-secret",
-  "summary": "Gain an extra secret for which you qualify.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-shadowstuff",
-  "name": "Extra Shadowstuff",
-  "system": "Spheres of Power",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Shadowstuff class feature.",
-  "source": "Ultimate Spheres of Power",
-  "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-shadowstuff",
-  "summary": "Increase the number of shadow points you possess by 2.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-swarm-powers",
-  "name": "Extra Swarm Powers",
-  "system": "Spheres of Power",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Swarm powers class feature.",
-  "source": "Ultimate Spheres of Power",
-  "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-swarm-powers",
-  "summary": "You gain an additional swarm power you qualify for.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-unseen-augmentation",
-  "name": "Extra Unseen Augmentation",
-  "system": "Spheres of Power",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Unseen forces class feature.",
-  "source": "Ultimate Spheres of Power",
-  "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-unseen-augmentation",
-  "summary": "You gain an additional unseen augmentation for which you qualify.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-wraith-haunt",
-  "name": "Extra Wraith Haunt",
-  "system": "Spheres of Power",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Wraith haunt class feature.",
-  "source": "Ultimate Spheres of Power",
-  "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-wraith-haunt",
-  "summary": "You gain an additional wraith haunt.",
+  "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-spell-points",
+  "summary": "Your spell pool total increases by 2.",
   "file": "feats.json"
  },
  {
@@ -16664,6 +16513,20 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/extra-shadowstuff",
+  "name": "Extra Shadowstuff",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Shadowstuff class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Fey-Adept/Fey-Adept-Feats#extra-shadowstuff",
+  "summary": "Increase the number of shadow points you possess by 2.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/psychosomatic-healing",
   "name": "Psychosomatic Healing",
   "system": "Spheres of Power",
@@ -16705,6 +16568,20 @@
   "source": "Ultimate Spheres of Power",
   "url": "Spheres-Of-Power/Fey-Adept/Fey-Adept-Feats#violent-shadow-surreal",
   "summary": "You may spend a shadow point as a full-round action to make a single attack with your shadowmark.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/extra-secret",
+  "name": "Extra Secret",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Secrets class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Hedgewitch/Hedgewitch-Feats#extra-secret",
+  "summary": "Gain an extra secret for which you qualify.",
   "file": "feats.json"
  },
  {
@@ -17514,6 +17391,20 @@
   "source": "Polished Dark",
   "url": "Spheres-Of-Power/Light/Light-Sphere-Feats#wave-particle-duality-dual-sphere",
   "summary": "The light from your bright light becomes a spread rather than an emanation allowing it to move around corners and through tight spaces and small holes as if it…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/extra-mystic-combat",
+  "name": "Extra Mystic Combat",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Mystic combat class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Mageknight/Mageknight-Feats#extra-mystic-combat",
+  "summary": "Gain an extra mystic combat ability for which you qualify.",
   "file": "feats.json"
  },
  {
@@ -18343,6 +18234,34 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/extra-bestial-trait",
+  "name": "Extra Bestial Trait",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Bestial trait class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Shifter/Shifter-Feats#extra-bestial-trait",
+  "summary": "Gain an additional bestial trait for which you meet the prerequisites.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/extra-breadth-of-form",
+  "name": "Extra Breadth Of Form",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Breadth of form class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Shifter/Shifter-Feats#extra-breadth-of-form",
+  "summary": "Increase the number of times per day you may use breadth of form by 2.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/ensouled-totem",
   "name": "Ensouled Totem",
   "system": "Spheres of Power",
@@ -18359,6 +18278,20 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/extra-nexus-powers",
+  "name": "Extra Nexus Powers",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Bound nexus class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Soul-Weaver/Soul-Weaver-Feats#extra-nexus-powers",
+  "summary": "Increase the number of souls in your bound nexus by 2.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/soul-weaver-feats/weaponized-anathema-anathema",
   "name": "Weaponized Anathema",
   "system": "Spheres of Power",
@@ -18370,6 +18303,34 @@
   "source": "Ultimate Spheres of Power",
   "url": "Spheres-Of-Power/Soul-Weaver/Soul-Weaver-Feats#weaponized-anathema-anathema",
   "summary": "Once per round, when you hit with a weapon attack, you may deliver your anathema through the attack as a free action.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/extra-iatrogen",
+  "name": "Extra Iatrogen",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Iatrogen class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Soul-Weaver/Soul-Weaver-Feats#extra-iatrogen",
+  "summary": "Gain an additional iatrogen for which you meet the prerequisites.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/extra-psionics",
+  "name": "Extra Psionics",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Psionics class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Symbiat/Symbiat-Feats#extra-psionics",
+  "summary": "You may use psionics an extra 6 rounds per day.",
   "file": "feats.json"
  },
  {
@@ -18461,6 +18422,20 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/extra-swarm-powers",
+  "name": "Extra Swarm Powers",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Swarm powers class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Symbiat/Symbiat-Feats#extra-swarm-powers",
+  "summary": "You gain an additional swarm power you qualify for.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/extradimensional-assembly",
   "name": "Extradimensional Assembly",
   "system": "Spheres of Power",
@@ -18540,6 +18515,20 @@
   "source": "Spheres Apocrypha: Battlefield Manipulation Talents",
   "url": "Spheres-Of-Power/Telekinesis/Telekinesis-Sphere-Feats#tactile-illusion-dual-sphere",
   "summary": "By weaving your illusions together with a hint of telekinetic force you can allow them to exert force more appropriate to their apparent nature.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/extra-invocations",
+  "name": "Extra Invocations",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Invocations class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Thaumaturge/Thaumaturge-Feats#extra-invocations",
+  "summary": "Increase the number of times per day you may use invocations by 2.",
   "file": "feats.json"
  },
  {
@@ -18664,6 +18653,20 @@
   "source": "Ultimate Spheres of Power",
   "url": "Spheres-Of-Power/Thaumaturge/Thaumaturge-Feats#totem-of-the-deepest-curse",
   "summary": "You must spend 2 spell points to create a totem of the deepest curse.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/extra-unseen-augmentation",
+  "name": "Extra Unseen Augmentation",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Unseen forces class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Thaumaturge/Thaumaturge-Feats#extra-unseen-augmentation",
+  "summary": "You gain an additional unseen augmentation for which you qualify.",
   "file": "feats.json"
  },
  {
@@ -19237,7 +19240,7 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/wraith-feats/extra-wraith-haunt",
+  "id": "feat/extra-wraith-haunt",
   "name": "Extra Wraith Haunt",
   "system": "Spheres of Power",
   "types": [

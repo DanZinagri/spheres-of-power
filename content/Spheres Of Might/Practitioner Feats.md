@@ -10,6 +10,8 @@ parent: "[[Spheres Of Might]]"
 
 **See Also:** [[Feats]] for Spherecasting options, and [[Champion Feats]] for options that blend the two systems together.
 
+**Sphere feats:** [[Tech Sphere Feats]] (Tech) · [[Gizmo Feats]] (Tinker)
+
 ---
 
 # New Feats
@@ -413,16 +415,6 @@ In addition, you gain the following option:
 
 **Benefit:** Whenever you successfully damage a creature with an attack action, you may choose to extend the duration of one of your active (stance) talents by 1 round.
 
-#### Extra Battlefield Specialization
-
-Your expertise extends to a new battlefield environment.
-
-**Prerequisite:** Commander 5.
-
-**Benefit:** Gain an additional battlefield specialization for which you qualify.
-
-**Special:** This feat may be taken a second time starting at 11th and a third time starting 17th level.
-
 #### Extra Boon Of Purpose
 
 **Prerequisite:** Boon of purpose class feature.
@@ -464,56 +456,6 @@ Your knowledge of combat is easily expanded.
 **Benefit:** You may select an additional swarm enhancement that you qualify for.
 
 **Special:** This feat may be taken more than once; each time you select an additional swarm enhancement.
-
-#### Extra Prowess
-
-You know how to better utilize your armiger abilities.
-
-**Prerequisite:** Armiger 5.
-
-**Benefit:** Gain an additional prowess for which you qualify.
-
-**Special:** This feat may be taken a second time starting at 11th and a third time starting 17th level.
-
-#### Extra Scholar’s Knack
-
-Research and study lead you to new academic discoveries.
-
-**Prerequisite:** Scholar 7.
-
-**Benefit:** Gain an additional scholar’s knack for which you qualify.
-
-**Special:** This feat may be taken a second time starting at 15th level.
-
-#### Extra Smithing Insight
-
-Your experience and skill unlock new insights into the smith’s craft.
-
-**Prerequisite:** Blacksmith 7.
-
-**Benefit:** Gain an additional smithing insight for which you qualify.
-
-**Special:** This feat may be taken a second time starting at 15th level.
-
-#### Extra Striker Art
-
-You know how to better utilize your striker abilities.
-
-**Prerequisite:** Striker 5.
-
-**Benefit:** Gain an additional striker art for which you qualify.
-
-**Special:** This feat may be taken a second time starting at 11th and a third time starting 17th level.
-
-#### Extra Technical Insight
-
-Your experimentations have unlocked new insights.
-
-**Prerequisite:** Technician 5.
-
-**Benefit:** Gain an additional technical insight for which you qualify.
-
-**Special:** This feat may be taken a second time starting at 11th and a third time starting 17th level.
 
 #### Flyby Attack (Monster)*
 
@@ -1104,88 +1046,6 @@ Mystical tattoos ward you from harm and transform your skin into protective armo
 **Benefit:** Covering your body in these intricate tattoos etched by your own hand, you gain the ability to have your skin enchanted with armor special abilities as though it was a suit of +1 leather armor. You cannot have a total bonus of armor special abilities higher than +6. You cannot use this ability to add any armor special abilities that add a flat gp amount to their cost instead of a bonus equivalent.
 
 * This feat is previously published, and is reprinted here for ease of use.
-
----
-
-# Tinker Sphere Feats
-
-Tinker sphere feats and feats with the (gizmo) tag can be found on the [[Gizmo Feats]] page.
-
----
-
-# Tech Sphere Feats
-
-#### Mobile Drone
-
-**Prerequisites:** Tech sphere, Drone.
-
-**Benefit:** Drones you create gain the Athletics sphere as a bonus talent. If the drone already possess the Athletics sphere, they instead gain a bonus talent from the Athletics sphere. In addition, each drone is created with Acrobatics, Climb, Fly, and Swim as class skills.
-
-**Special:** This feat may be taken multiple times, each time granting an additional talent from the Athletics sphere.
-
-#### Receptive to Grafts
-
-**Benefit:** Your body is more capable of handling a larger amount of cybertech, grafts, and other implants. When determining your maximum implantation value, increase it by 1 for every 2 Hit Dice you possess (minimum 1).
-
-#### Reckless Drone
-
-**Prerequisites:** Tech sphere, Drone.
-
-**Benefit:** Drones you create add twice their base attack bonus to their maximum hit points. In addition, drones you create gain the Berserker sphere or Brute sphere as a bonus talent. If the drone already possess the sphere, they instead gain a bonus talent from either sphere.
-
-**Special:** This feat may be taken multiple times, each time granting an additional talent from the Berserker or Brute sphere.
-
-#### Recon Drone
-
-**Prerequisites:** Tech sphere, Drone.
-
-**Benefit:** Drones you create gain the Scout sphere as a bonus talent. If the drone already possess the Scout sphere, they instead gain a bonus talent from the Scout sphere. In addition, each drone is created with Perception, Sense Motive, and Stealth as class skills.
-
-**Special:** This feat may be taken multiple times, each time granting an additional talent from the Scout sphere.
-
-#### Remote Hacking
-
-**Prerequisites:** Tech sphere (Remote Control).
-
-**Benefit:** Your remote control can be used to override signals that don’t belong to you. Locating foreign signals with the remote control requires a Craft (mechanical) check opposed by their sphere DC. Each time you spend an action to control their gadgets you musts make a craft Craft (mechanical) check opposed by their sphere DC +5.
-
-In place of an activation check or Craft (mechanical) check, each time you spend an action to control a foreign gadget, it gets to attempt a Will saving throw opposed by your Tech sphere DC.
-
-#### Sacrificial Augment (combat)
-
-**Prerequisite:** Guardian sphere.
-
-**Benefit:** When your delayed damage pool empties, you may as an immediate action redirect the damage you would take to augment or implant on your person or an innate gadget. The damage redirected this way is treated as untyped lethal damage, bypassing any damage reduction or hardness the augment or implant would possess otherwise.
-
-**Special:** This overrides the normal rules for the delayed damage pool which states that you cannot further redirect damage from the delayed damage pool.
-
-#### Shield Drone
-
-**Prerequisites:** Tech sphere, Drone.
-
-**Benefit:** Drones you create are proficient with all shields (including tower shields). In addition, drones you create gain the Guardian sphere or Shield sphere as a bonus talent. If the drone already possess the sphere, they instead gain a bonus talent from either sphere.
-
-**Special:** This feat may be taken multiple times, each time granting an additional talent from the Guardian or Shield sphere.
-
-#### Technical Compatibility
-
-**Prerequisites:** Independent Invention, Tech sphere, Drone.
-
-**Benefit:** Your independent inventions are considered drones for purposes from benefiting from effects that affect drones, and vice versa. In addition as independent inventions you can select Drones as a base form (these independent inventions don’t count towards the maximum number of Hit Dice of drones you may maintain). Your independent inventions can be activated or deactivated as if they where drones.
-
-You may also apply improvements and technical insights to your drones (1 improvement for every 10 levels of technician you possess (minimum 0)).
-
-#### Technologically Alchemical Ammo (dual sphere)
-
-**Prerequisites:** Tech sphere, Ammo Spitter, Alchemy sphere (formulae) package.
-
-**Benefit:** Your ammo spitter may create alchemical or complex ammunition (such as alchemical cartridges and vial bolts) costing 50 gp or less. This alchemical ammunition doesn’t have to be made exclusively for firearms but the weapon firing it must still meet all the prerequisites (such as having the scatter quality).
-
-#### Undetectable Hacking
-
-**Prerequisites:** Tech sphere (Remote Control), Remote Hacking.
-
-When you attempt to control a foreign gadget, whether it succeeds or fails on its Will save it must immediately succeed at a second Will save. If it fails this second save, it does not realize it it was subject to a hack attempt (including knowing if any routines were transferred).
 
 ---
 
