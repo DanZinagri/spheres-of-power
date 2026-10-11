@@ -2700,7 +2700,8 @@ PRACTITIONER_TAG_PAGES = [("combat", "combat-feats"), ("item creation", "item-cr
 PRACTITIONER_FEATS_DROP = {"Gunsmithing", "Flyby Attack", "Piranha Strike", "Two-Weapon Rend"}
 NAMED_FEAT_MOVES = [("champion-feats", "Biochemical Brews", "general-feats"), ("champion-feats", "Unarmored Mastery", "general-feats"),
                     ("operative-feats", "Utilitarian Dilettante", "extra-feats"),
-                    ("operative-feats", "Terrain Adaptation", "Investigation Sphere Feats")]
+                    ("operative-feats", "Terrain Adaptation", "Investigation Sphere Feats"),
+                    ("operative-feats", "Hymnal Verse", "dual-sphere-feats")]
 # shared feat pages whose remaining feats, once the rest are placed, join General Feats (the page then goes)
 FOLD_INTO_GENERAL = ["operative-feats"]
 TAG_SORTED_PAGES = ["operative-feats"]
@@ -2742,7 +2743,9 @@ def sort_practitioner_feats(pages: dict) -> None:
         at = next((k for k in starts if key(ls[k][len(mark):]) > name), None)
         if at is None:
             # after the last entry, before the divider and footer that close the page
-            last = starts[-1] if starts else len(ls)
+            # (a page with no entries yet: before the divider above its closing footer)
+            footer = max((k for k, l in enumerate(ls) if l.strip() == "---"), default=len(ls))
+            last = starts[-1] if starts else (footer if footer > 6 else len(ls))
             at = next((k for k in range(last, len(ls)) if ls[k].strip() == "---"), len(ls))
         ls[at:at] = [*entry, ""]
         f.write_text("\n".join(ls), encoding="utf-8")

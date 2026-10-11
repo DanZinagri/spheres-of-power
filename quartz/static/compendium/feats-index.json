@@ -12063,23 +12063,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/general-feats/hymnal-verse-dual-sphere",
-  "name": "Hymnal Verse",
-  "system": "Spheres of Power",
-  "types": [
-   "Dual Sphere"
-  ],
-  "spheres": [
-   "Occultism",
-   "Performance"
-  ],
-  "prerequisites": "Occultism sphere, Performance sphere ((lyric) package).",
-  "source": "Diamond Spheres: Erudition & Esoterica",
-  "url": "Spheres-Of-Power/Feats/General-Feats#hymnal-verse-dual-sphere",
-  "summary": "Whenever you use a rite (and do so at least using a standard action), you can use a lyric as a free action.",
-  "file": "feats.json"
- },
- {
   "id": "feat/improved-planning",
   "name": "Improved Planning",
   "system": "Spheres of Power",

@@ -550,14 +550,6 @@ In addition, you gain a +2 bonus on attack rolls, damage rolls, skill checks, an
 
 *Source: Diamond Classes: Disciple of Chaos*
 
-#### Hymnal Verse (Dual Sphere)
-
-*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
-
-**Prerequisites:** Occultism sphere, Performance sphere ((lyric) package).
-
-**Benefit:** Whenever you use a rite (and do so at least using a standard action), you can use a lyric as a free action.
-
 #### Improved Planning
 
 You layer strategies and preparations on top of each other
