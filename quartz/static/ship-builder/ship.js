@@ -481,7 +481,7 @@ function render() {
         ${field("Cargo (tons)", `<input type="number" data-opt="cargo" value="${esc(state.cargo)}" min="0" style="width:6rem" />`)}
         ${b.sails ? field("Wind at your back", `<input type="number" data-opt="wind" value="${esc(state.wind)}" min="0" max="7" style="width:5rem" />`, "Severity level: sails gain half of it in power") : ""}
         <span class="spacer"></span>
-        <button type="button" id="btnCopy">Copy as text</button><button type="button" id="btnClear">Start over</button>
+        <button type="button" id="btnCopy">Copy as text</button><button type="button" id="btnSave" title="Download this as a file you can load again later">Save to file</button><button type="button" id="btnLoad" title="Open a file saved from this tool">Load from file</button><button type="button" id="btnClear">Start over</button>
       </div>
     </section>
     ${b.warnings.length ? `<section class="card">${b.warnings.map((w) => `<p class="warn">⚠ ${esc(w)}</p>`).join("")}</section>` : ""}
@@ -613,6 +613,43 @@ $("panel").addEventListener("click", (e) => {
   else return
   save()
   render()
+})
+
+// ---- save to a file, load it back ----
+// The browser keeps the work in progress, but that goes with its site data: a file is the copy to keep.
+const FILE_KIND = STORAGE_KEY
+function saveFile() {
+  const blob = new Blob([JSON.stringify({ kind: FILE_KIND, version: 1, saved: new Date().toISOString(), state }, null, 1)], { type: "application/json" })
+  const a = document.createElement("a")
+  a.href = URL.createObjectURL(blob)
+  a.download = `${String(state.name || "vehicle").trim().replace(/[^\w .'-]+/g, "").replace(/\s+/g, "-").toLowerCase() || "vehicle"}.ship.json`
+  document.body.append(a)
+  a.click()
+  a.remove()
+  setTimeout(() => URL.revokeObjectURL(a.href), 1000)
+}
+function loadFile() {
+  const input = document.createElement("input")
+  input.type = "file"
+  input.accept = ".json,application/json"
+  input.addEventListener("change", async () => {
+    const file = input.files?.[0]
+    if (!file) return
+    try {
+      const data = JSON.parse(await file.text())
+      if (data?.kind !== FILE_KIND || typeof data.state !== "object" || !data.state) { toast("That file isn't one saved from this tool"); return }
+      // stored, then read back the way a saved session is (so older files get the same defaults filled in)
+      let stored = false
+      try { localStorage.setItem(STORAGE_KEY, JSON.stringify(data.state)); stored = localStorage.getItem(STORAGE_KEY) !== null } catch {}
+      if (stored) location.reload()
+      else { state = { ...blank(), ...data.state }; render(); toast("Loaded (this browser isn't keeping site data, so save to a file again when you're done)") }
+    } catch { toast("Couldn't read that file") }
+  })
+  input.click()
+}
+$("panel").addEventListener("click", (e) => {
+  if (e.target.id === "btnSave") saveFile()
+  else if (e.target.id === "btnLoad") loadFile()
 })
 
 // follow the wiki's dark-mode toggle when embedded on the site

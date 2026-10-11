@@ -118,8 +118,8 @@ function render() {
       ${t.rows.length ? `<div class="table-wrap"><table class="mods">
         <thead><tr><th>#</th><th>Room or team</th><th>Earnings</th><th>Create</th><th class="num">Bought</th><th class="num">Days</th><th>Size</th><th></th></tr></thead>
         <tbody>${t.rows.map(unitRow).join("")}</tbody></table></div>
-        <div class="row add-row"><button type="button" id="btnCopy">Copy as text</button><button type="button" id="btnClear">Clear</button></div>`
-        : `<p class="muted">Pick an example building or organization to start from, or add rooms and teams one at a time. A building is a set of rooms; an organization is a set of teams; a business can have both.</p>`}
+        <div class="row add-row"><button type="button" id="btnCopy">Copy as text</button><button type="button" id="btnSave" title="Download this as a file you can load again later">Save to file</button><button type="button" id="btnLoad" title="Open a file saved from this tool">Load from file</button><button type="button" id="btnClear">Clear</button></div>`
+        : `<div class="row add-row"><button type="button" id="btnLoad" title="Open a file saved from this tool">Load from file</button></div><p class="muted">Pick an example building or organization to start from, or add rooms and teams one at a time. A building is a set of rooms; an organization is a set of teams; a business can have both.</p>`}
     </section>
     ${t.rows.length ? `
     <section class="card">
@@ -216,6 +216,43 @@ $("panel").addEventListener("click", (e) => {
   else return
   save()
   render()
+})
+
+// ---- save to a file, load it back ----
+// The browser keeps the work in progress, but that goes with its site data: a file is the copy to keep.
+const FILE_KIND = STORAGE_KEY
+function saveFile() {
+  const blob = new Blob([JSON.stringify({ kind: FILE_KIND, version: 1, saved: new Date().toISOString(), state }, null, 1)], { type: "application/json" })
+  const a = document.createElement("a")
+  a.href = URL.createObjectURL(blob)
+  a.download = `${String(state.name || "business").trim().replace(/[^\w .'-]+/g, "").replace(/\s+/g, "-").toLowerCase() || "business"}.business.json`
+  document.body.append(a)
+  a.click()
+  a.remove()
+  setTimeout(() => URL.revokeObjectURL(a.href), 1000)
+}
+function loadFile() {
+  const input = document.createElement("input")
+  input.type = "file"
+  input.accept = ".json,application/json"
+  input.addEventListener("change", async () => {
+    const file = input.files?.[0]
+    if (!file) return
+    try {
+      const data = JSON.parse(await file.text())
+      if (data?.kind !== FILE_KIND || typeof data.state !== "object" || !data.state) { toast("That file isn't one saved from this tool"); return }
+      // stored, then read back the way a saved session is (so older files get the same defaults filled in)
+      let stored = false
+      try { localStorage.setItem(STORAGE_KEY, JSON.stringify(data.state)); stored = localStorage.getItem(STORAGE_KEY) !== null } catch {}
+      if (stored) location.reload()
+      else { state = { ...blank(), ...data.state }; render(); toast("Loaded (this browser isn't keeping site data, so save to a file again when you're done)") }
+    } catch { toast("Couldn't read that file") }
+  })
+  input.click()
+}
+$("panel").addEventListener("click", (e) => {
+  if (e.target.id === "btnSave") saveFile()
+  else if (e.target.id === "btnLoad") loadFile()
 })
 
 // follow the wiki's dark-mode toggle when embedded on the site
