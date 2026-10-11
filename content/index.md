@@ -411,7 +411,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 | **[Wizard](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Wizard)** | [[Cosmic Sage (Wizard Archetype)\|Cosmic Sage]], [[Eclectic Researcher (Wizard Archetype)\|Eclectic Researcher]], [[Magitect (Wizard Archetype)\|Magitect]], [[Sphere Wizard]] | [[Arcane Discoveries (DRS)\|Arcane Discoveries]] |
 | **[Animal Companions](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Companion)** | [[Martial Beast (Animal Companion Archetype)\|Martial Beast]] |  |
 | **[Familiars](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Familiar)** | [[Beast Of Omen (Familiar Archetype)\|Beast of Omen]], [[Dream Guide (Familiar Archetype)\|Dream Guide]], [[Shadow Familiar (Familiar Archetype)\|Shadow Familiar]], [[Willing Martyr (Familiar Archetype)\|Willing Martyr]] |  |
-| **Cantor** |  | [[Cantor Hymns]] |
 | **Soulknife** | [[Epoch-Walker (Soulknife Archetype)\|Epoch-Walker]] | [[Soulknife Blade Skills]] |
 
 </div>

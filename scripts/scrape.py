@@ -73,6 +73,8 @@ TAGGED_HEADING_TEXT_ONLY = ("Enhanced Racial Traits",)
 EXCLUDED_PAGES = {
     # Wikidot's own help / boilerplate pages
     "how-to-edit-pages", "what-is-a-wiki-site", "modules-reference", "bb-code-profile-template",
+    # a leftover: hymns for a class (the cantor) the wiki doesn't cover (its home row: HOME_DROP_ROWS)
+    "cantor-hymns",
     # unlinked, untitled older duplicates of the Nature sphere / Casting Traditions pages
     "nature-2", "casting-traditions-2",
     # wiki-made custom content (with the matching sections on Weapons, Rods and Wondrous Items:
@@ -291,6 +293,8 @@ HOME_ARCHETYPE_ADDS = {
 }
 
 # ...and to a class's Class Options cell
+# Home Classes table rows to leave out, by the class named in their first cell
+HOME_DROP_ROWS = ["Cantor"]
 HOME_CLASS_OPTION_ADDS = {
     "Wizard": [r"[[Arcane Discoveries (DRS)\|Arcane Discoveries]] [DRS]"],
 }
@@ -7991,6 +7995,7 @@ def convert(with_images: bool) -> None:
         home = add_feats_links(out, feats_pages, drawback_pages)
         home = sphere_lists(drop_merged_links(home, merge_links))
         home = link_pf_class_feats(add_home_archetypes(fill_class_archetypes(home, class_archetypes, class_options)), pf_class_feats)
+        home = "\n".join(l for l in home.split("\n") if not any(l.startswith(f"| **{name}** |") for name in HOME_DROP_ROWS))
         # pages folded into another page (PAGE_FOLDS) leave the home lists; their target is listed
         home = re.sub(r"^\[\[(?:" + "|".join(map(re.escape, [*PAGE_FOLDS, *FCB_FOLDS])) + r")\]\][ \t]*\r?\n", "", home, flags=re.M)
         dest.write_text(home_icons(home_class_tabs(home)), encoding="utf-8")
