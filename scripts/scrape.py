@@ -428,11 +428,12 @@ HOME_HEADER_LINKS: dict[str, str] = {}
 HOME_FEAT_SECTION = "Feat Types"
 HOME_FEAT_MOVES = [
     ("Feats", None),
-    ("Operative Feats", None),
-    ("Champion Feats", None),
+    ("Champion Feats", "Champion"),
     ("Associated Feats & Skills", "Associated Feats & Skills (Martial)"),
     ("Associated Feats & Skills (guile-associated-feats-skills)", "Associated Feats & Skills (Skill)"),
 ]
+# moved pages that are listed among the feat types by name, not first
+HOME_FEAT_SORTED = {"Champion Feats"}
 HOME_PRESTIGE_SECTION = "Prestige Classes"
 # Class lists that leave the navigation grid for tables in the "Classes" section:
 # (grid section, table heading, its "Using ..." link)
@@ -1139,6 +1140,11 @@ def rebalance_home_columns(md: str) -> str:
             sections.remove(hit)
             entries = [l.strip() for l in hit[1] if l.strip().startswith("[[")]
             # the Feats hub (it lists the feat types, not feats) is the header's link, like Spheres'
+            # (a moved page with a label in HOME_FEAT_SORTED takes its place among the types, by name)
+            among = [l for l in feat_lines if any(l.startswith(f"[[{t}|") or l.startswith(f"[[{t}]]") for t in HOME_FEAT_SORTED)]
+            feat_lines = [l for l in feat_lines if l not in among]
+            shown = lambda l: (m.group(2) or m.group(1)).lower() if (m := re.match(r"\[\[([^\]|]+)(?:\|([^\]]*))?\]\]", l)) else l.lower()
+            entries = sorted([*entries, *among], key=shown)
             hub = next((l for l in feat_lines if l.startswith("[[Feats]]")), None)
             title = f"**{HOME_FEAT_SECTION}**" + (" *([[Feats]])*" if hub else "")
             feat_block = ['<div class="sop-spheres sop-feats">', "", title, "",
@@ -2693,7 +2699,10 @@ def distribute_sphere_feats(pages: dict, feats_pages: dict[str, str], derived_no
 PRACTITIONER_TAG_PAGES = [("combat", "combat-feats"), ("item creation", "item-creation-feats")]
 PRACTITIONER_FEATS_DROP = {"Gunsmithing", "Flyby Attack", "Piranha Strike", "Two-Weapon Rend"}
 NAMED_FEAT_MOVES = [("champion-feats", "Biochemical Brews", "general-feats"), ("champion-feats", "Unarmored Mastery", "general-feats"),
-                    ("operative-feats", "Utilitarian Dilettante", "extra-feats")]
+                    ("operative-feats", "Utilitarian Dilettante", "extra-feats"),
+                    ("operative-feats", "Terrain Adaptation", "Investigation Sphere Feats")]
+# shared feat pages whose remaining feats, once the rest are placed, join General Feats (the page then goes)
+FOLD_INTO_GENERAL = ["operative-feats"]
 TAG_SORTED_PAGES = ["operative-feats"]
 
 
@@ -2765,37 +2774,44 @@ def sort_practitioner_feats(pages: dict) -> None:
             if at is not None:
                 lines[at:at] = [note, ""]
         path.write_text(collapse_dividers("\n".join(lines)), encoding="utf-8")
-    # what is left on Practitioner Feats is general: it joins General Feats, and the emptied page goes
+    # what is left on a shared page is general: it joins General Feats, and the emptied page goes
     general = by_slug.get("general-feats")
     gfile = CONTENT / general.folder / f"{general.filename}.md" if general else None
-    if gfile and gfile.exists():
-        lines = path.read_text(encoding="utf-8").split("\n")
+
+    def fold_rest(slug: str) -> None:
+        pg = by_slug.get(slug)
+        fpath = CONTENT / pg.folder / f"{pg.filename}.md" if pg else None
+        if not (gfile and gfile.exists() and fpath and fpath.exists()):
+            return
+        ls = fpath.read_text(encoding="utf-8").split("\n")
         i, n = 0, 0
-        while i < len(lines):
-            if not lines[i].startswith("#### "):
+        while i < len(ls):
+            if not ls[i].startswith("#### "):
                 i += 1
                 continue
-            end = next((j for j in range(i + 1, len(lines)) if 0 < level_of(lines[j]) <= 4 or lines[j].strip() == "---"), len(lines))
-            insert(gfile, lines[i:end])
-            lines = lines[:i] + lines[end:]
+            end = next((j for j in range(i + 1, len(ls)) if 0 < level_of(ls[j]) <= 4 or ls[j].strip() == "---"), len(ls))
+            insert(gfile, ls[i:end])
+            ls = ls[:i] + ls[end:]
             n += 1
-        moved["general"] = n
-        if not any(level_of(l) >= 4 for l in lines):
-            path.unlink()
-            # links to the page lead to General Feats; a list entry that was only that link goes
-            link = re.compile(r"\[\[" + re.escape(src.filename) + r"(?:#[^\]|]*)?(?:\\?\|[^\]]*)?\]\]")
-            for f in CONTENT.rglob("*.md"):
-                if ARCHIVE in f.relative_to(CONTENT).parts:
-                    continue
-                text = f.read_text(encoding="utf-8")
-                if f"[[{src.filename}" not in text:
-                    continue
-                kept = [l for l in text.split("\n") if not re.fullmatch(r"\s*[-*]\s*" + link.pattern + r"\s*", l)]
-                f.write_text(link.sub(f"[[{general.filename}]]", "\n".join(kept)), encoding="utf-8")
-            for cfg in COMPENDIUM.values():
-                cfg["pages"] = [((general.filename, "(page)", *t[2:]) if t[0] == src.filename else t) for t in cfg.get("pages", [])]
-        else:
-            path.write_text(collapse_dividers("\n".join(lines)), encoding="utf-8")
+        moved[f"{pg.filename}: general"] = n
+        if any(level_of(l) >= 4 for l in ls):
+            fpath.write_text(collapse_dividers("\n".join(ls)), encoding="utf-8")
+            return
+        fpath.unlink()
+        # links to the page lead to General Feats; a list entry that was only that link goes
+        link = re.compile(r"\[\[" + re.escape(pg.filename) + r"(?:#[^\]|]*)?(?:\\?\|[^\]]*)?\]\]")
+        for f in CONTENT.rglob("*.md"):
+            if ARCHIVE in f.relative_to(CONTENT).parts:
+                continue
+            text = f.read_text(encoding="utf-8")
+            if f"[[{pg.filename}" not in text:
+                continue
+            kept = [l for l in text.split("\n") if not re.fullmatch(r"\s*[-*]\s*" + link.pattern + r"\s*", l)]
+            f.write_text(link.sub(f"[[{general.filename}]]", "\n".join(kept)), encoding="utf-8")
+        for cfg in COMPENDIUM.values():
+            cfg["pages"] = [((general.filename, "(page)", *t[2:]) if t[0] == pg.filename else t) for t in cfg.get("pages", [])]
+
+    fold_rest("practitioner-feats")
     # the other shared pages' tagged feats go the same way (their other feats stay)
     for slug in TAG_SORTED_PAGES:
         other = by_slug.get(slug)
@@ -2824,7 +2840,8 @@ def sort_practitioner_feats(pages: dict) -> None:
     for from_slug, feat, to_slug in NAMED_FEAT_MOVES:
         a, b = by_slug.get(from_slug), by_slug.get(to_slug)
         fa = CONTENT / a.folder / f"{a.filename}.md" if a else None
-        fb = CONTENT / b.folder / f"{b.filename}.md" if b else None
+        fb = CONTENT / b.folder / f"{b.filename}.md" if b else next(
+            (f for f in CONTENT.rglob(f"{to_slug}.md") if ARCHIVE not in f.relative_to(CONTENT).parts), None)
         if not (fa and fb and fa.exists() and fb.exists()):
             continue
         ls = fa.read_text(encoding="utf-8").split("\n")
@@ -2835,7 +2852,9 @@ def sort_practitioner_feats(pages: dict) -> None:
         end = next((j for j in range(at + 1, len(ls)) if 0 < level_of(ls[j]) <= lvl or ls[j].strip() == "---"), len(ls))
         insert(fb, ls[at:end])
         fa.write_text(collapse_dividers("\n".join(ls[:at] + ls[end:])), encoding="utf-8")
-        dropped.append(f"{feat} -> {b.filename}")
+        dropped.append(f"{feat} -> {fb.stem}")
+    for slug in FOLD_INTO_GENERAL:
+        fold_rest(slug)
     print("Practitioner feats by type:", moved, "dropped / placed:", dropped)
 
 

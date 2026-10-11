@@ -23,58 +23,58 @@ What the feat extractor takes from the site (1258 Spheres feats; approved), plus
 | Item Creation | 20 | 28 |
 | Racial | 39 | — |
 | Monster | 3 | 27 |
-| Critical | — | 28 |
 | Squadron | 28 | — |
+| Critical | — | 28 |
 | Admixture | 24 | — |
-| Conduit | — | 23 |
 | Aristeia | 23 | — |
+| Conduit | — | 23 |
 | Grit | — | 21 |
 | Counterspell | 20 | — |
 | Item Mastery | — | 19 |
-| Faction | — | 17 |
-| Gizmo | 17 | — |
 | Weapon Mastery | — | 17 |
-| Stare | — | 16 |
+| Gizmo | 17 | — |
+| Faction | — | 17 |
 | Protokinesis | 16 | — |
+| Stare | — | 16 |
 | Performance | — | 15 |
 | Companion | 15 | — |
-| Meditation | — | 14 |
 | Shield Mastery | — | 14 |
-| Proxy | 12 | — |
-| Necrosis | 12 | — |
-| Shield Style | — | 12 |
+| Meditation | — | 14 |
 | Defiler | 12 | — |
-| Surreal | 12 | — |
+| Shield Style | — | 12 |
+| Proxy | 12 | — |
 | Wild Magic | 12 | — |
+| Necrosis | 12 | — |
+| Surreal | 12 | — |
 | Panache | — | 11 |
+| Armor Mastery | — | 11 |
 | Achievement | — | 11 |
 | Purring | 11 | — |
-| Armor Mastery | — | 11 |
 | Channeling | 11 | — |
 | Rune | 10 | — |
-| Armor Style | — | 9 |
 | Alignment | — | 9 |
 | Esoteric | — | 9 |
 | Origin | — | 9 |
-| Familiar | — | 8 |
+| Armor Style | — | 9 |
 | Blood Hex | — | 8 |
-| Combination | — | 7 |
+| Familiar | — | 8 |
 | Theurge | 7 | — |
+| Combination | — | 7 |
 | Damnation | 3 | 4 |
-| Chance | 6 | — |
-| Anathema | 6 | — |
 | Plague | 6 | — |
 | Trick | — | 6 |
+| Anathema | 6 | — |
 | Betrayal | — | 6 |
-| Targeting | — | 4 |
+| Chance | 6 | — |
 | Gathlain Court Title | — | 4 |
-| Words of Power | — | 3 |
+| Targeting | — | 4 |
 | Hero Point | — | 3 |
+| Words of Power | — | 3 |
+| Coven | — | 2 |
 | Luck | 2 | — |
 | Called Shot | — | 2 |
-| Coven | — | 2 |
 
-## Spheres of Power (1033)
+## Spheres of Power (1039)
 
 ### Fighter Feats (11)
 
@@ -738,11 +738,12 @@ What the feat extractor takes from the site (1258 Spheres feats; approved), plus
 | [[Extra-Feats#extra-skill-talent\|Extra Skill Talent]] | General | — | — | — |
 | [[Extra-Feats#utilitarian-dilettante\|Utilitarian Dilettante]] | General | — | — | Extra Skill Talent. |
 
-### General Feats (106)
+### General Feats (112)
 
 | Feat | Types | Spheres | Other | Prerequisites |
 | --- | --- | --- | --- | --- |
 | [[General-Feats#advanced-magic-training\|Advanced Magic Training]] | General | — | — | Basic Magic Training or casting class feature. |
+| [[General-Feats#advanced-tactics\|Advanced Tactics]] | General | — | — | 4 ranks in any skill, skill leverage. |
 | [[General-Feats#aeolian-flautist\|Aeolian Flautist]] | General | — | — | Bardic performance or raging song class feature. |
 | [[General-Feats#aerial-trip\|Aerial Trip]] | General | — | — | Base attack bonus +5, Improved Trip or a combat talent that allows you to perform a trip without provoking an attack of  |
 | [[General-Feats#amateur-field-tactician\|Amateur Field Tactician]] | General | — | — | Base attack bonus +5; favored terrain class feature. |
@@ -794,6 +795,8 @@ What the feat extractor takes from the site (1258 Spheres feats; approved), plus
 | [[General-Feats#hubris-style\|Hubris Style]] | General | — | — | Base attack bonus +3 or monk level 3rd, nonlawful. |
 | [[General-Feats#hubris-defiance\|Hubris Defiance]] | General | — | — | Hubris Style, base attack bonus +5 or monk level 5th, nonlawful. |
 | [[General-Feats#hubris-triumph\|Hubris Triumph]] | General | — | — | Hubris Style, Hubris Defiance, base attack bonus +9 or monk level 9th, nonlawful. |
+| [[General-Feats#hymnal-verse-dual-sphere\|Hymnal Verse]] | Dual Sphere | Occultism, Performance | — | Occultism sphere, Performance sphere ((lyric) package). |
+| [[General-Feats#improved-planning\|Improved Planning]] | General | — | — | 5 ranks in any skill, at least 2 [plan] talents. |
 | [[General-Feats#inspired-learning\|Inspired Learning]] | General | — | — | MSB +1 |
 | [[General-Feats#inspired-learning-improved\|Inspired Learning, Improved]] | General | — | — | Inspired Learning |
 | [[General-Feats#item-mastery\|Item Mastery]] | General | — | — | Caster level 10th. |
@@ -804,11 +807,13 @@ What the feat extractor takes from the site (1258 Spheres feats; approved), plus
 | [[General-Feats#metamagic-aficionado\|Metamagic Aficionado]] | General | — | — | Favored Metamagic (any three metamagic feats), caster level 15th. |
 | [[General-Feats#mounted-athlete\|Mounted Athlete]] | General | Athletics, Beastmastery | — | Athletics sphere, Beastmastery sphere ((ride) package). |
 | [[General-Feats#mounted-protector\|Mounted Protector]] | General | Beastmastery, Guardian | — | Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package). |
+| [[General-Feats#nebulous-preparation-plan\|Nebulous Preparation]] | General | — | [Plan] | Ability to prepare extracts or spells, ability to prepare [plan] talents or a similar ability. |
 | [[General-Feats#oneiric-assault\|Oneiric Assault]] | General | — | — | Dreamspace, caster level 10th. |
 | [[General-Feats#organization-obedience\|Organization Obedience]] | General | — | — | Knowledge (any) 3 ranks; membership in an organization. |
 | [[General-Feats#otherworldly-mind\|Otherworldly Mind]] | General | — | — | — |
 | [[General-Feats#pacified-strike\|Pacified Strike]] | General | — | — | Casting class feature, one talent from any sphere that has the strike descriptor, caster level 3rd |
 | [[General-Feats#primal-emblem\|Primal Emblem]] | General | — | — | Banner class feature. |
+| [[General-Feats#public-renown\|Public Renown]] | General | — | — | Diplomacy 7 ranks. |
 | [[General-Feats#range-virtuoso\|Range Virtuoso]] | General | — | — | Sphere Virtuoso, must have taken at least one range talent at least twice. |
 | [[General-Feats#realmwalker-adept\|Realmwalker Adept]] | General | — | — | Knowledge (planes) 3 ranks, Survival 3 ranks. |
 | [[General-Feats#realmwalker-master\|Realmwalker Master]] | General | — | — | Knowledge (planes) 7 ranks, Survival 7 ranks, Realmwalker Adept. |
@@ -833,6 +838,7 @@ What the feat extractor takes from the site (1258 Spheres feats; approved), plus
 | [[General-Feats#technological-training\|Technological Training]] | General | — | — | — |
 | [[General-Feats#tenacity\|Tenacity]] | General | — | — | Judgment class ability. |
 | [[General-Feats#termination-clause\|Termination Clause]] | General | — | — | Fleeting Spell. |
+| [[General-Feats#theoretical-initiate\|Theoretical Initiate]] | General | — | — | — |
 | [[General-Feats#tough-as-nails\|Tough As Nails]] | General | — | — | Grit, luck, or panache pool. |
 | [[General-Feats#transformation\|Transformation]] | General | — | — | — |
 | [[General-Feats#transformation-eternal\|Transformation, Eternal]] | General | — | — | — |
@@ -1651,7 +1657,7 @@ What the feat extractor takes from the site (1258 Spheres feats; approved), plus
 | --- | --- | --- | --- | --- |
 | [[Wrestling-Sphere-Feats#devouring-finish-combat\|Devouring Finish]] | Combat | Wrestling | — | Wrestling sphere, Brain Consumption. |
 
-## Spheres of Guile (67)
+## Spheres of Guile (61)
 
 ### Advisor Feats (2)
 
@@ -1744,7 +1750,7 @@ What the feat extractor takes from the site (1258 Spheres feats; approved), plus
 | --- | --- | --- | --- | --- |
 | [[Investigation-Sphere-Feats#detailed-charting\|Detailed Charting]] | General | Investigation, Navigation | also on 2 other page(s) | Investigation sphere, Navigation sphere. |
 | [[Investigation-Sphere-Feats#speculative-analysis\|Speculative Analysis]] | General | Investigation, Study | also on 2 other page(s) | Investigation sphere, Study sphere. |
-| [[Investigation-Sphere-Feats#terrain-adaptation\|Terrain Adaptation]] | General | Investigation | also on 1 other page(s) | Investigation Sphere, favored terrain class feature. |
+| [[Investigation-Sphere-Feats#terrain-adaptation\|Terrain Adaptation]] | General | Investigation | — | Investigation Sphere, favored terrain class feature. |
 | [[Investigation-Sphere-Feats#unerring-eye-champion\|Unerring Eye]] | Champion | Divination, Investigation, Scout | also on 1 other page(s) | Sense Motive ranks 3, Investigation sphere; either the Divination sphere or Scout sphere. |
 
 ### Navigation Sphere Feats (4)
@@ -1755,17 +1761,6 @@ What the feat extractor takes from the site (1258 Spheres feats; approved), plus
 | [[Navigation-Sphere-Feats#field-instruction-champion\|Field Instruction]] | Champion | Navigation, Warleader | also on 1 other page(s) | Navigation sphere, Warleader sphere. |
 | [[Navigation-Sphere-Feats#scorched-path-champion\|Scorched Path]] | Champion | Destruction, Navigation | — | Destruction Sphere, Navigation Sphere |
 | [[Navigation-Sphere-Feats#trailblazer-champion\|Trailblazer]] | Champion | Athletics, Navigation | also on 1 other page(s) | Athletics sphere, Navigation sphere. |
-
-### Operative Feats (6)
-
-| Feat | Types | Spheres | Other | Prerequisites |
-| --- | --- | --- | --- | --- |
-| [[Operative-Feats#advanced-tactics\|Advanced Tactics]] | General | — | — | 4 ranks in any skill, skill leverage. |
-| [[Operative-Feats#hymnal-verse-dual-sphere\|Hymnal Verse]] | Dual Sphere | Occultism, Performance | — | Occultism sphere, Performance sphere ((lyric) package). |
-| [[Operative-Feats#improved-planning\|Improved Planning]] | General | — | — | 5 ranks in any skill, at least 2 [plan] talents. |
-| [[Operative-Feats#nebulous-preparation-plan\|Nebulous Preparation]] | General | — | [Plan] | Ability to prepare extracts or spells, ability to prepare [plan] talents or a similar ability. |
-| [[Operative-Feats#public-renown\|Public Renown]] | General | — | — | Diplomacy 7 ranks. |
-| [[Operative-Feats#theoretical-initiate\|Theoretical Initiate]] | General | — | — | — |
 
 ### Performance Sphere Feats (13)
 

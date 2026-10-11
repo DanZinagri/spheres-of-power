@@ -1035,93 +1035,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/advanced-tactics",
-  "name": "Advanced Tactics",
-  "system": "Spheres of Guile",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "4 ranks in any skill, skill leverage.",
-  "source": "Spheres of Guile",
-  "url": "Other-Pages/Operative-Feats#advanced-tactics",
-  "summary": "Whenever you would use the change tactics skill leverage use to add 1d4 to the result of a roll, you may instead roll 1d6 and add the result to the roll.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/operative-feats/hymnal-verse-dual-sphere",
-  "name": "Hymnal Verse",
-  "system": "Spheres of Guile",
-  "types": [
-   "Dual Sphere"
-  ],
-  "spheres": [
-   "Occultism",
-   "Performance"
-  ],
-  "prerequisites": "Occultism sphere, Performance sphere ((lyric) package).",
-  "source": "Spheres of Guile",
-  "url": "Other-Pages/Operative-Feats#hymnal-verse-dual-sphere",
-  "summary": "Whenever you use a rite (and do so at least using a standard action), you can use a lyric as a free action.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/improved-planning",
-  "name": "Improved Planning",
-  "system": "Spheres of Guile",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "5 ranks in any skill, at least 2 [plan] talents.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
-  "url": "Other-Pages/Operative-Feats#improved-planning",
-  "summary": "You may have 2 additional plans available at once.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/nebulous-preparation-plan",
-  "name": "Nebulous Preparation",
-  "system": "Spheres of Guile",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Ability to prepare extracts or spells, ability to prepare [plan] talents or a similar ability.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
-  "url": "Other-Pages/Operative-Feats#nebulous-preparation-plan",
-  "summary": "As part of preparing this plan, you can leave a spell slot or extract unprepared.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/public-renown",
-  "name": "Public Renown",
-  "system": "Spheres of Guile",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Diplomacy 7 ranks.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
-  "url": "Other-Pages/Operative-Feats#public-renown",
-  "summary": "You gain the influence and rapid persuasion abilities of the envoy class, but cannot use the deep discouragement ability.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/theoretical-initiate",
-  "name": "Theoretical Initiate",
-  "system": "Spheres of Guile",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "",
-  "source": "Diamond Spheres: Erudition & Esoterica",
-  "url": "Other-Pages/Operative-Feats#theoretical-initiate",
-  "summary": "You gain the hypothesis dice and theory bonus class features of a 1st-level theorist, gaining 2 additional hypothesis dice for every 4 levels you possess in…",
-  "file": "feats.json"
- },
- {
   "id": "feat/capoeirista-champion",
   "name": "Capoeirista",
   "system": "Spheres of Guile",
@@ -11414,6 +11327,20 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/advanced-tactics",
+  "name": "Advanced Tactics",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "4 ranks in any skill, skill leverage.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Feats/General-Feats#advanced-tactics",
+  "summary": "Whenever you would use the change tactics skill leverage use to add 1d4 to the result of a roll, you may instead roll 1d6 and add the result to the roll.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/aeolian-flautist",
   "name": "Aeolian Flautist",
   "system": "Spheres of Power",
@@ -12136,6 +12063,37 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/general-feats/hymnal-verse-dual-sphere",
+  "name": "Hymnal Verse",
+  "system": "Spheres of Power",
+  "types": [
+   "Dual Sphere"
+  ],
+  "spheres": [
+   "Occultism",
+   "Performance"
+  ],
+  "prerequisites": "Occultism sphere, Performance sphere ((lyric) package).",
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "url": "Spheres-Of-Power/Feats/General-Feats#hymnal-verse-dual-sphere",
+  "summary": "Whenever you use a rite (and do so at least using a standard action), you can use a lyric as a free action.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/improved-planning",
+  "name": "Improved Planning",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "5 ranks in any skill, at least 2 [plan] talents.",
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "url": "Spheres-Of-Power/Feats/General-Feats#improved-planning",
+  "summary": "You may have 2 additional plans available at once.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/inspired-learning",
   "name": "Inspired Learning",
   "system": "Spheres of Power",
@@ -12284,6 +12242,20 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/nebulous-preparation-plan",
+  "name": "Nebulous Preparation",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Ability to prepare extracts or spells, ability to prepare [plan] talents or a similar ability.",
+  "source": "The Player's Guide to Skybourne",
+  "url": "Spheres-Of-Power/Feats/General-Feats#nebulous-preparation-plan",
+  "summary": "As part of preparing this plan, you can leave a spell slot or extract unprepared.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/oneiric-assault",
   "name": "Oneiric Assault",
   "system": "Spheres of Power",
@@ -12351,6 +12323,20 @@
   "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#primal-emblem",
   "summary": "Choose a totem from the War sphere that does not require spell points to be spent when it is created.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/public-renown",
+  "name": "Public Renown",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Diplomacy 7 ranks.",
+  "source": "The Player's Guide to Skybourne",
+  "url": "Spheres-Of-Power/Feats/General-Feats#public-renown",
+  "summary": "You gain the influence and rapid persuasion abilities of the envoy class, but cannot use the deep discouragement ability.",
   "file": "feats.json"
  },
  {
@@ -12690,6 +12676,20 @@
   "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/General-Feats#termination-clause",
   "summary": "When you create a magic sphere effect with the Fleeting Spell feat, you may set a condition in the same manner as the Contingency feat.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/theoretical-initiate",
+  "name": "Theoretical Initiate",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "",
+  "source": "The Player's Guide to Skybourne",
+  "url": "Spheres-Of-Power/Feats/General-Feats#theoretical-initiate",
+  "summary": "You gain the hypothesis dice and theory bonus class features of a 1st-level theorist, gaining 2 additional hypothesis dice for every 4 levels you possess in…",
   "file": "feats.json"
  },
  {

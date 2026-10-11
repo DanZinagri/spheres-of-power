@@ -877,8 +877,8 @@
    "source": "Diamond Spheres: Invention & Ingenuity",
    "url": "Other-Pages/Artifice/Artifice-Sphere-Feats#tug-the-heartstrings",
    "alsoOn": [
-    "Other-Pages/Operative-Feats#tug-the-heartstrings",
-    "Other-Pages/Performance/Performance-Sphere-Feats#tug-the-heartstrings"
+    "Other-Pages/Performance/Performance-Sphere-Feats#tug-the-heartstrings",
+    "Spheres-Of-Power/Feats/General-Feats#tug-the-heartstrings"
    ],
    "md": "Your expressions of creativity possess a deeper meaning, making them harder to ignore to those who understand your experience.\n\n**Prerequisites:** Artifice sphere ((artwork) package) or Performance sphere.\n\n**Benefit:** Whenever you create an Artifice sphere artwork or use a Performance sphere ability, choose a motivation, even if you do not possess the motivation. Creatures who perceive the sphere ability or engage with the artwork that possess a similar (or the same) motivation must succeed at a Will saving throw or suffer a -2 penalty to any saving throws or checks associated with the sphere ability or artwork.\n\nIf the motivation is a major motivation of the creature, they gain a +4 bonus to the saving throw against this effect, although the penalty increases to -4 if they fail.\n\nYou can spend 1 use of skill leverage to also have creatures who fail their saving throw against this ability be forced to reveal the associated motivation to any creatures who are observing them. Creatures who are affected by this feat become immune to its effects for 8 hours, regardless of the result. If you do not possess the chosen motivation, affected creatures can attempt a Sense Motive check against an opposed Bluff check. If they succeed, they discover your deception and gain a +4 bonus to their saving throw against this feat."
   },
@@ -1142,7 +1142,7 @@
    "url": "Other-Pages/Investigation/Investigation-Sphere-Feats#detailed-charting",
    "alsoOn": [
     "Other-Pages/Navigation/Navigation-Sphere-Feats#detailed-charting",
-    "Other-Pages/Operative-Feats#detailed-charting"
+    "Spheres-Of-Power/Feats/General-Feats#detailed-charting"
    ],
    "md": "**Prerequisites:** Investigation sphere, Navigation sphere.\n\n**Benefit:** As a standard action, you may analyze an area or target in that area while also applying your pathing to a location in that area. The targeted area, creature, or object must be within range of both your analyze and pathing abilities."
   },
@@ -1166,8 +1166,8 @@
    "source": "",
    "url": "Other-Pages/Investigation/Investigation-Sphere-Feats#speculative-analysis",
    "alsoOn": [
-    "Other-Pages/Operative-Feats#speculative-analysis",
-    "Other-Pages/Study/Study-Sphere-Feats#speculative-analysis"
+    "Other-Pages/Study/Study-Sphere-Feats#speculative-analysis",
+    "Spheres-Of-Power/Feats/General-Feats#speculative-analysis"
    ],
    "md": "**Prerequisite:** Investigation sphere, Study sphere.\n\n**Benefit:** Whenever you successfully use the analyze Investigation sphere ability, you can begin a theory on the analyzed target as a free action. If the analyze attempt gains a detailed analysis, the theory starts with one notion.\n\nAdditionally, you gain a +1 insight bonus to analyze skill checks made against the subject of your theory for every notion the theory possesses."
   },
@@ -1189,9 +1189,7 @@
    "prerequisites": "Investigation Sphere, favored terrain class feature.",
    "source": "",
    "url": "Other-Pages/Investigation/Investigation-Sphere-Feats#terrain-adaptation",
-   "alsoOn": [
-    "Other-Pages/Operative-Feats#terrain-adaptation"
-   ],
+   "alsoOn": [],
    "md": "**Prerequisites:** Investigation Sphere, favored terrain class feature.\n\n**Benefit:** You may treat an area which you analyze as being your favored terrain for the purpose of providing bonuses from the favored terrain class feature. You may only have one analyzed area treated as your favored terrain at any given time. You receive the maximum bonuses in this area that your favored terrain feature can grant."
   },
   {
@@ -1462,125 +1460,6 @@
    "url": "Other-Pages/Oaths#loyalist-inquisitor",
    "alsoOn": [],
    "md": "You are skilled at keeping dedicates in line.\n\n**Prerequisite:** Must have sworn an Oath of Loyalty or have creatures swear an Oath of Loyalty to you.\n\n**Benefits:** Creatures who have sworn an Oath of Loyalty to you or to whatever patron you have sworn an Oath of Loyalty to suffer a -1 penalty to saving throws against all of your abilities. This penalty increases by an additional -1 for every 5 character levels you possess, to a maximum of -5 at 20th level.\n\n---"
-  },
-  {
-   "id": "feat/advanced-tactics",
-   "name": "Advanced Tactics",
-   "system": "Spheres of Guile",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Operative Feats",
-   "prerequisites": "4 ranks in any skill, skill leverage.",
-   "source": "Spheres of Guile",
-   "url": "Other-Pages/Operative-Feats#advanced-tactics",
-   "alsoOn": [],
-   "md": "**Prerequisites:** 4 ranks in any skill, skill leverage.\n\n**Benefit:** Whenever you would use the change tactics skill leverage use to add 1d4 to the result of a roll, you may instead roll 1d6 and add the result to the roll. If such a check fails, the use of skill leverage is not expended, whereas if the check succeeds, there is a 50% chance that the use of skill leverage is not expended."
-  },
-  {
-   "id": "feat/operative-feats/hymnal-verse-dual-sphere",
-   "name": "Hymnal Verse",
-   "system": "Spheres of Guile",
-   "types": [
-    "Dual Sphere"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [
-    "Occultism",
-    "Performance"
-   ],
-   "group": "Operative Feats",
-   "prerequisites": "Occultism sphere, Performance sphere ((lyric) package).",
-   "source": "Spheres of Guile",
-   "url": "Other-Pages/Operative-Feats#hymnal-verse-dual-sphere",
-   "alsoOn": [],
-   "md": "*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*\n\n**Prerequisites:** Occultism sphere, Performance sphere ((lyric) package).\n\n**Benefit:** Whenever you use a rite (and do so at least using a standard action), you can use a lyric as a free action."
-  },
-  {
-   "id": "feat/improved-planning",
-   "name": "Improved Planning",
-   "system": "Spheres of Guile",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Operative Feats",
-   "prerequisites": "5 ranks in any skill, at least 2 [plan] talents.",
-   "source": "Diamond Spheres: Erudition & Esoterica",
-   "url": "Other-Pages/Operative-Feats#improved-planning",
-   "alsoOn": [],
-   "md": "You layer strategies and preparations on top of each other\n\n**Prerequisites:** 5 ranks in any skill, at least 2 [plan] talents.\n\n**Benefit:** You may have 2 additional plans available at once."
-  },
-  {
-   "id": "feat/nebulous-preparation-plan",
-   "name": "Nebulous Preparation",
-   "system": "Spheres of Guile",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [
-    "Plan"
-   ],
-   "sphere": "",
-   "spheres": [],
-   "group": "Operative Feats",
-   "prerequisites": "Ability to prepare extracts or spells, ability to prepare [plan] talents or a similar ability.",
-   "source": "Diamond Spheres: Erudition & Esoterica",
-   "url": "Other-Pages/Operative-Feats#nebulous-preparation-plan",
-   "alsoOn": [],
-   "md": "You know how to prepare spells or extracts most of the way, and then finish the process at the last moment.\n\n**Prerequisites:** Ability to prepare extracts or spells, ability to prepare [plan] talents or a similar ability.\n\n**Benefit:** As part of preparing this plan, you can leave a spell slot or extract unprepared. You can reveal this plan as a full-round action to finish preparing a spell or extract of that level that you could have prepared in an unprepared slot.\n\nThis is considered to be a plan talent for the purposes of determining the number of plans you can prepare in a day."
-  },
-  {
-   "id": "feat/public-renown",
-   "name": "Public Renown",
-   "system": "Spheres of Guile",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Operative Feats",
-   "prerequisites": "Diplomacy 7 ranks.",
-   "source": "Diamond Spheres: Erudition & Esoterica",
-   "url": "Other-Pages/Operative-Feats#public-renown",
-   "alsoOn": [],
-   "md": "**Prerequisite:** Diplomacy 7 ranks.\n\n**Benefit:** You gain the influence and rapid persuasion abilities of the envoy class, but cannot use the deep discouragement ability. The DC of trusted words is equal to 10 + 1/2 your ranks in Diplomacy + your Charisma modifier. If you already possess either of these class features, you gain the uses of influence and rapid persuasion provided by an envoy with no archetype in addition to any abilities granted by your archetype."
-  },
-  {
-   "id": "feat/theoretical-initiate",
-   "name": "Theoretical Initiate",
-   "system": "Spheres of Guile",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Operative Feats",
-   "prerequisites": "",
-   "source": "Diamond Spheres: Erudition & Esoterica",
-   "url": "Other-Pages/Operative-Feats#theoretical-initiate",
-   "alsoOn": [],
-   "md": "**Benefit:** You gain the hypothesis dice and theory bonus class features of a 1st-level theorist, gaining 2 additional hypothesis dice for every 4 levels you possess in classes other than theorist and increasing your theory bonus by 1 for every 6 levels you possess in classes other than theorist. If you already possess the hypothesis dice class feature, this feat grants 2 additional hypothesis dice. If you do not already possess the model class feature, you may select a single theorist model, allowing you to assign hypothesis dice to that model and use them to apply that model’s theory bonus. This feat does not grant you the magical underpinning of a selected model.\n\nYou may spend a plan or martial focus in place of spending a spell point to reroll your hypothesis dice, although such methods only allow you to reroll hypothesis dice granted by this feat."
   },
   {
    "id": "feat/capoeirista-champion",
@@ -15551,6 +15430,25 @@
    "md": "**Prerequisite:** Basic Magic Training or casting class feature.\n\n**Benefit:** Treat any racial Hit Dice not granting spherecasting and your levels in non-spherecasting classes as Low-Casting classes when determining your total caster level, magic skill bonus, and magic skill defense. You gain spell points from casting tradition drawbacks, but otherwise do not add these levels when determining your spell point pool. If you do not possess levels in an actual spherecasting class or racial Hit Dice granting spherecasting, increase your spell point pool to become equal your casting ability modifier (minimum 1).\n\n**Special:** For retraining purposes, having the casting class feature counts as Advanced Magic Training."
   },
   {
+   "id": "feat/advanced-tactics",
+   "name": "Advanced Tactics",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "General Feats",
+   "prerequisites": "4 ranks in any skill, skill leverage.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Feats/General-Feats#advanced-tactics",
+   "alsoOn": [],
+   "md": "**Prerequisites:** 4 ranks in any skill, skill leverage.\n\n**Benefit:** Whenever you would use the change tactics skill leverage use to add 1d4 to the result of a roll, you may instead roll 1d6 and add the result to the roll. If such a check fails, the use of skill leverage is not expended, whereas if the check succeeds, there is a 50% chance that the use of skill leverage is not expended."
+  },
+  {
    "id": "feat/aeolian-flautist",
    "name": "Aeolian Flautist",
    "system": "Spheres of Power",
@@ -16530,6 +16428,47 @@
    "md": "*Once all that would stop you, slow you down, or tell you to move aside have been surpassed, your achievement is where you stand and to stand proud. Now you show others.*\n\n**Prerequisites:** Hubris Style, Hubris Defiance, base attack bonus +9 or monk level 9th, nonlawful.\n\n**Benefit:** Creatures which succeed on their saving throw against Hubris Style’s attack action are no longer immune to its effects for 24 hours. Whenever you use Hubris Style’s attack action, instead of having the target treat all movement they make as difficult terrain, you may apply one of the following conditions instead:\n\n- For 1 round, the target does not treat any other creature as its ally, cannot benefit from teamwork feats or flanking bonuses with other creatures, and must attempt saving throws against all effects that allow for one (except their own).\n- For 1 round, all damage the target would deal is nonlethal; this has no effects on damage dealt to creatures that cannot take nonlethal damage (such as constructs or undead).\n- For 1 round, the target cannot move further away from you, or any creature it treats as an enemy, without succeeding on an additional Will saving throw.\n\nEach of these effects are mind-affecting effects and a successful Will saving throw negates their effects.\n\nIn addition, you gain a +2 bonus on attack rolls, damage rolls, skill checks, and ability checks against any creature which failed its saving throw against your Hubris Style attack action or created an effect which you made a successful saving throw against that Hubris Defiance protects against.\n\n*Source: Diamond Classes: Disciple of Chaos*"
   },
   {
+   "id": "feat/general-feats/hymnal-verse-dual-sphere",
+   "name": "Hymnal Verse",
+   "system": "Spheres of Power",
+   "types": [
+    "Dual Sphere"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [
+    "Occultism",
+    "Performance"
+   ],
+   "group": "General Feats",
+   "prerequisites": "Occultism sphere, Performance sphere ((lyric) package).",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "url": "Spheres-Of-Power/Feats/General-Feats#hymnal-verse-dual-sphere",
+   "alsoOn": [],
+   "md": "*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*\n\n**Prerequisites:** Occultism sphere, Performance sphere ((lyric) package).\n\n**Benefit:** Whenever you use a rite (and do so at least using a standard action), you can use a lyric as a free action."
+  },
+  {
+   "id": "feat/improved-planning",
+   "name": "Improved Planning",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "General Feats",
+   "prerequisites": "5 ranks in any skill, at least 2 [plan] talents.",
+   "source": "Diamond Spheres: Erudition & Esoterica",
+   "url": "Spheres-Of-Power/Feats/General-Feats#improved-planning",
+   "alsoOn": [],
+   "md": "You layer strategies and preparations on top of each other\n\n**Prerequisites:** 5 ranks in any skill, at least 2 [plan] talents.\n\n**Benefit:** You may have 2 additional plans available at once."
+  },
+  {
    "id": "feat/inspired-learning",
    "name": "Inspired Learning",
    "system": "Spheres of Power",
@@ -16728,6 +16667,27 @@
    "md": "Your protective might is delivered on the swift heels of your mount.\n\n**Prerequisites:** Beastmastery sphere or animal companion class feature, Guardian sphere ((patrol) package).\n\n**Benefit:** While mounted, you may use your mount’s movement whenever you could move as part of your patrol, provided your mount’s total movement before its next turn does not exceed its base speed. Any movement you or your mount make provoke attacks of opportunity as normal. In addition, whenever you could make an attack of opportunity as part of your patrol, you may have your mount make an attack of opportunity against that target instead.\n\n**Normal:** You cannot move with your mount as part of your patrol."
   },
   {
+   "id": "feat/nebulous-preparation-plan",
+   "name": "Nebulous Preparation",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [
+    "Plan"
+   ],
+   "sphere": "",
+   "spheres": [],
+   "group": "General Feats",
+   "prerequisites": "Ability to prepare extracts or spells, ability to prepare [plan] talents or a similar ability.",
+   "source": "The Player's Guide to Skybourne",
+   "url": "Spheres-Of-Power/Feats/General-Feats#nebulous-preparation-plan",
+   "alsoOn": [],
+   "md": "You know how to prepare spells or extracts most of the way, and then finish the process at the last moment.\n\n**Prerequisites:** Ability to prepare extracts or spells, ability to prepare [plan] talents or a similar ability.\n\n**Benefit:** As part of preparing this plan, you can leave a spell slot or extract unprepared. You can reveal this plan as a full-round action to finish preparing a spell or extract of that level that you could have prepared in an unprepared slot.\n\nThis is considered to be a plan talent for the purposes of determining the number of plans you can prepare in a day."
+  },
+  {
    "id": "feat/oneiric-assault",
    "name": "Oneiric Assault",
    "system": "Spheres of Power",
@@ -16821,6 +16781,25 @@
    "url": "Spheres-Of-Power/Feats/General-Feats#primal-emblem",
    "alsoOn": [],
    "md": "**Prerequisite:** Banner class feature.\n\n**Benefit:** Choose a totem from the War sphere that does not require spell points to be spent when it is created. Your banner can also create the effects of that totem, using your class level as your caster level and your Charisma modifier (or practitioner modifier, if using Spheres of Might) as your casting ability modifier, if you do not already possess a casting tradition. If the totem produces the same type of bonus as your banner, these bonuses stack and are considered a single bonus. You can create the effects of the totem for a maximum number of rounds per day equal to your casting ability modifier + 1/2 your base attack bonus (minimum 1). Activating this ability is a free action, and a free action must be spent each round to maintain it.\n\nYou may purchase this feat multiple times. Each time choose another totem. Rounds of use of one totem can not be used to fuel a different totem. You may only have one totem active at a time.\n\nThis is an extraordinary ability."
+  },
+  {
+   "id": "feat/public-renown",
+   "name": "Public Renown",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "General Feats",
+   "prerequisites": "Diplomacy 7 ranks.",
+   "source": "The Player's Guide to Skybourne",
+   "url": "Spheres-Of-Power/Feats/General-Feats#public-renown",
+   "alsoOn": [],
+   "md": "**Prerequisite:** Diplomacy 7 ranks.\n\n**Benefit:** You gain the influence and rapid persuasion abilities of the envoy class, but cannot use the deep discouragement ability. The DC of trusted words is equal to 10 + 1/2 your ranks in Diplomacy + your Charisma modifier. If you already possess either of these class features, you gain the uses of influence and rapid persuasion provided by an envoy with no archetype in addition to any abilities granted by your archetype."
   },
   {
    "id": "feat/range-virtuoso",
@@ -17282,6 +17261,25 @@
    "url": "Spheres-Of-Power/Feats/General-Feats#termination-clause",
    "alsoOn": [],
    "md": "The gifts you bestow can be taken away should their recipients fail to serve you.\n\n**Prerequisite:** Fleeting Spell.\n\n**Benefit:** When you create a magic sphere effect with the Fleeting Spell feat, you may set a condition in the same manner as the Contingency feat. When this condition is triggered, the sphere effect immediately ends as if you had dismissed it. In addition, you may apply the Fleeting Spell feat to permanent (but not instantaneous) magic sphere effects"
+  },
+  {
+   "id": "feat/theoretical-initiate",
+   "name": "Theoretical Initiate",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "General Feats",
+   "prerequisites": "",
+   "source": "The Player's Guide to Skybourne",
+   "url": "Spheres-Of-Power/Feats/General-Feats#theoretical-initiate",
+   "alsoOn": [],
+   "md": "**Benefit:** You gain the hypothesis dice and theory bonus class features of a 1st-level theorist, gaining 2 additional hypothesis dice for every 4 levels you possess in classes other than theorist and increasing your theory bonus by 1 for every 6 levels you possess in classes other than theorist. If you already possess the hypothesis dice class feature, this feat grants 2 additional hypothesis dice. If you do not already possess the model class feature, you may select a single theorist model, allowing you to assign hypothesis dice to that model and use them to apply that model’s theory bonus. This feat does not grant you the magical underpinning of a selected model.\n\nYou may spend a plan or martial focus in place of spending a spell point to reroll your hypothesis dice, although such methods only allow you to reroll hypothesis dice granted by this feat."
   },
   {
    "id": "feat/tough-as-nails",

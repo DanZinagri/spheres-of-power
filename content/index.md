@@ -114,13 +114,12 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 <span class="sop-icon sop-icon-feats" aria-hidden="true"></span>**Feat Types** *([[Feats]])*
 
-- [[Operative Feats]]
-- [[Champion Feats]]
 - [[Associated Feats & Skills|Associated Feats & Skills (Martial)]]
 - [[Associated Feats & Skills (guile-associated-feats-skills)|Associated Feats & Skills (Skill)]]
 - [[Admixture Feats|Admixture]]
 - [[Anathema Feats|Anathema]]
 - [[Aristeia Feats|Aristeia]]
+- [[Champion Feats|Champion]]
 - [[Chance Feats|Chance]]
 - [[Channeling Feats|Channeling]]
 - [[Combat Feats|Combat]]

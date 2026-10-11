@@ -16,6 +16,12 @@ parent: "[[Feats]]"
 
 **Special:** For retraining purposes, having the casting class feature counts as Advanced Magic Training.
 
+#### Advanced Tactics
+
+**Prerequisites:** 4 ranks in any skill, skill leverage.
+
+**Benefit:** Whenever you would use the change tactics skill leverage use to add 1d4 to the result of a roll, you may instead roll 1d6 and add the result to the roll. If such a check fails, the use of skill leverage is not expended, whereas if the check succeeds, there is a 50% chance that the use of skill leverage is not expended.
+
 #### Aeolian Flautist
 
 **Prerequisite:** Bardic performance or raging song class feature.
@@ -311,6 +317,12 @@ Your commander's decorum bonus now also applies to the chosen skills.
 
 **Benefit:** You add +2 to your MSB and MSD for the purposes of conflicting sphere abilities. When creating a sphere ability that will conflict with another effect (i.e. you are creating the effect and it will immediately conflict with another effect), you may spend +1 spell point to double this feat’s bonuses for the initial magic skill check made by the conflicting sphere effect (but not for future conflicts).
 
+#### Detailed Charting
+
+**Prerequisites:** Investigation sphere, Navigation sphere.
+
+**Benefit:** As a standard action, you may analyze an area or target in that area while also applying your pathing to a location in that area. The targeted area, creature, or object must be within range of both your analyze and pathing abilities.
+
 #### Dimensional Tether
 
 **Prerequisite:** Destruction Sphere (energy tether) or Mana Sphere (hardened bond)
@@ -538,6 +550,22 @@ In addition, you gain a +2 bonus on attack rolls, damage rolls, skill checks, an
 
 *Source: Diamond Classes: Disciple of Chaos*
 
+#### Hymnal Verse (Dual Sphere)
+
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
+
+**Prerequisites:** Occultism sphere, Performance sphere ((lyric) package).
+
+**Benefit:** Whenever you use a rite (and do so at least using a standard action), you can use a lyric as a free action.
+
+#### Improved Planning
+
+You layer strategies and preparations on top of each other
+
+**Prerequisites:** 5 ranks in any skill, at least 2 [plan] talents.
+
+**Benefit:** You may have 2 additional plans available at once.
+
 #### Inspired Learning
 
 **Prerequisites:** MSB +1
@@ -643,6 +671,16 @@ Your protective might is delivered on the swift heels of your mount.
 
 **Normal:** You cannot move with your mount as part of your patrol.
 
+#### Nebulous Preparation [Plan]
+
+You know how to prepare spells or extracts most of the way, and then finish the process at the last moment.
+
+**Prerequisites:** Ability to prepare extracts or spells, ability to prepare [plan] talents or a similar ability.
+
+**Benefit:** As part of preparing this plan, you can leave a spell slot or extract unprepared. You can reveal this plan as a full-round action to finish preparing a spell or extract of that level that you could have prepared in an unprepared slot.
+
+This is considered to be a plan talent for the purposes of determining the number of plans you can prepare in a day.
+
 #### Oneiric Assault
 
 **Prerequisites:** Dreamspace, caster level 10th.
@@ -695,6 +733,12 @@ The awards granted by this feat are constant so long as you maintain membership 
 You may purchase this feat multiple times. Each time choose another totem. Rounds of use of one totem can not be used to fuel a different totem. You may only have one totem active at a time.
 
 This is an extraordinary ability.
+
+#### Public Renown
+
+**Prerequisite:** Diplomacy 7 ranks.
+
+**Benefit:** You gain the influence and rapid persuasion abilities of the envoy class, but cannot use the deep discouragement ability. The DC of trusted words is equal to 10 + 1/2 your ranks in Diplomacy + your Charisma modifier. If you already possess either of these class features, you gain the uses of influence and rapid persuasion provided by an envoy with no archetype in addition to any abilities granted by your archetype.
 
 #### Range Virtuoso
 
@@ -825,6 +869,14 @@ If the person you share the mandate with performs an action that would allow you
 
 *Source: Card Casting Bonus Content*
 
+#### Speculative Analysis
+
+**Prerequisite:** Investigation sphere, Study sphere.
+
+**Benefit:** Whenever you successfully use the analyze Investigation sphere ability, you can begin a theory on the analyzed target as a free action. If the analyze attempt gains a detailed analysis, the theory starts with one notion.
+
+Additionally, you gain a +1 insight bonus to analyze skill checks made against the subject of your theory for every notion the theory possesses.
+
 #### Spell Adept (General)
 *Source: [The Player's Guide to Skybourne](https://www.drivethrurpg.com/product/173399/The-Players-Guide-to-Skybourne?affiliate_id=549120)*
 
@@ -902,6 +954,12 @@ The gifts you bestow can be taken away should their recipients fail to serve you
 
 **Benefit:** When you create a magic sphere effect with the Fleeting Spell feat, you may set a condition in the same manner as the Contingency feat. When this condition is triggered, the sphere effect immediately ends as if you had dismissed it. In addition, you may apply the Fleeting Spell feat to permanent (but not instantaneous) magic sphere effects
 
+#### Theoretical Initiate
+
+**Benefit:** You gain the hypothesis dice and theory bonus class features of a 1st-level theorist, gaining 2 additional hypothesis dice for every 4 levels you possess in classes other than theorist and increasing your theory bonus by 1 for every 6 levels you possess in classes other than theorist. If you already possess the hypothesis dice class feature, this feat grants 2 additional hypothesis dice. If you do not already possess the model class feature, you may select a single theorist model, allowing you to assign hypothesis dice to that model and use them to apply that model’s theory bonus. This feat does not grant you the magical underpinning of a selected model.
+
+You may spend a plan or martial focus in place of spending a spell point to reroll your hypothesis dice, although such methods only allow you to reroll hypothesis dice granted by this feat.
+
 #### Tough As Nails
 
 **Prerequisite:** Grit, luck, or panache pool.
@@ -957,6 +1015,18 @@ If your transformation would grant you additional legs, you may instead gain the
 **Prerequisites:** Heal 1 rank; casting class feature or ki pool class feature
 
 **Benefit:** You may spend a spell point or ki point to treat deadly wounds on a creature as a full-round action as per the Heal skill. You may do this even if the creature that has already received such treatment that day.
+
+#### Tug The Heartstrings
+
+Your expressions of creativity possess a deeper meaning, making them harder to ignore to those who understand your experience.
+
+**Prerequisites:** Artifice sphere ((artwork) package) or Performance sphere.
+
+**Benefit:** Whenever you create an Artifice sphere artwork or use a Performance sphere ability, choose a motivation, even if you do not possess the motivation. Creatures who perceive the sphere ability or engage with the artwork that possess a similar (or the same) motivation must succeed at a Will saving throw or suffer a -2 penalty to any saving throws or checks associated with the sphere ability or artwork.
+
+If the motivation is a major motivation of the creature, they gain a +4 bonus to the saving throw against this effect, although the penalty increases to -4 if they fail.
+
+You can spend 1 use of skill leverage to also have creatures who fail their saving throw against this ability be forced to reveal the associated motivation to any creatures who are observing them. Creatures who are affected by this feat become immune to its effects for 8 hours, regardless of the result. If you do not possess the chosen motivation, affected creatures can attempt a Sense Motive check against an opposed Bluff check. If they succeed, they discover your deception and gain a +4 bonus to their saving throw against this feat.
 
 #### Unarmored Mastery
 
