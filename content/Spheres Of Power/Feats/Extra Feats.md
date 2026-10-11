@@ -14,11 +14,27 @@ Most of these feats are available on the appropriate class pages, but they are a
 
 ---
 
+#### Extra Combat Talent (combat)
+
+Your knowledge of combat is easily expanded.
+
+**Benefit:** Gain an additional sphere or a talent from a combat sphere you possess.
+
+**Special:** You may take this feat multiple times. The effects stack.
+
 #### Extra Divine Works
 
 **Prerequisite:** Divine works class feature.
 
 **Benefit:** You may choose an additional option from the list of possible divine works class features. You may choose this feat multiple times. Each time, choose another divine work.
+
+#### Extra Ki Power
+
+**Prerequisites:** Cultivate Ki or ki power class feature.
+
+**Benefits:** Gain an additional ki power for which you qualify.
+
+**Special:** This feat may be taken a second time starting at 11th level and a third time starting at 17th level.
 
 #### Extra Magic Talent
 
@@ -31,6 +47,14 @@ Most of these feats are available on the appropriate class pages, but they are a
 **Benefit:** You gain an additional origin talent.
 
 **Special:** This feat may be selected multiple times. The effects stack.
+
+#### Extra Skill Talent
+
+Your acumen and expertise are easily expanded.
+
+**Benefit:** Gain either an additional skill sphere or a talent from a skill sphere you possess.
+
+**Special:** You may take this feat multiple times. The effects stack.
 
 #### Extra Spell Points
 

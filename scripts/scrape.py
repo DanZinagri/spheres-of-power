@@ -2296,6 +2296,12 @@ def split_drawbacks(md: str, overview: str = DRAWBACKS_HEADING) -> tuple[str, st
 # the shared feat pages whose "Extra ..." feats (more uses or picks of one class's feature) move to
 # that class's own feats page
 EXTRA_FEAT_PAGES = ["extra-feats", "practitioner-feats", "operative-feats"]
+# "Extra ..." feats placed by hand: on every class's feats page named (two classes share the feature),
+# on another note that has the feature (under a "Feats" heading), or kept on / moved to the Extra Feats page
+EXTRA_FEAT_OWNERS = {"Extra Enhanced Tactics": ["Advisor", "Commander"]}
+EXTRA_FEAT_HOMES = {"Extra Boon Of Purpose": "Champion Of The Cause (PaladinAntipaladin Archetype)", "Extra Swarm Enhancement": "Hive"}
+EXTRA_FEATS_SHARED = {"Extra Combat Talent", "Extra Ki Power", "Extra Magic Talent", "Extra Spell Points", "Extra Origin Talent", "Extra Skill Talent"}
+EXTRA_FEATS_PAGE = "Extra Feats"
 
 
 def distribute_extra_feats(pages: dict, class_pages: set, class_options: dict, derived_notes: list, create: bool = True) -> None:
@@ -2363,6 +2369,55 @@ def distribute_extra_feats(pages: dict, class_pages: set, class_options: dict, d
 
     report = []
     candidates: dict[str, list[str]] = {}
+
+    def give(c: dict, name: str, entry: str) -> str:
+        """Put the feat on the class's feats page (made if need be); says what happened."""
+        if c["feats"].exists():
+            if has_feat(c, name):
+                return f"already on {c['feats'].stem}"
+            c["feats"].write_text(c["feats"].read_text(encoding="utf-8").rstrip("\n") + "\n\n" + entry + "\n", encoding="utf-8")
+            return f"-> {c['feats'].stem}"
+        pg = c["pg"]
+        ctitle = c["title"] + " Feats"
+        credit = m.group(0) if (m := re.search(r"^\*Source: .+\*$", c["file"].read_text(encoding="utf-8"), re.M)) else ""
+        c["feats"].write_text("\n".join(["---", f"title: {yaml_str(ctitle)}", f"source: {SITE}/{pg.slug}", "parent: " + yaml_str(f"[[{pg.filename}]]"),
+                                         "searchtype: Class Options", "---"]) + "\n" + GENERATED_MARK + "\n\n" + (credit + "\n\n" if credit else "")
+                              + f"The following feats are particularly appropriate or useful for a {c['title'].lower()}.\n\n" + entry + "\n", encoding="utf-8")
+        class_options.setdefault(pg.filename, []).append(f"[[{c['feats'].stem}\\|Feats]]")
+        derived_notes.append((f"{pg.folder}/{c['feats'].stem}.md".lstrip("/"), f"{pg.folder}/{pg.filename}.md".lstrip("/")))
+        return f"-> new page {c['feats'].stem}"
+
+    def to_page(filename: str, name: str, entry: str, heading: str = "") -> str:
+        """Put the feat on another note: among its "#### " entries in name order, or (heading given)
+        under that top-level heading at the end of the page."""
+        pg = next((x for x in pages.values() if x.filename == filename), None)
+        f = CONTENT / pg.folder / f"{pg.filename}.md" if pg else None
+        if not (f and f.exists()):
+            return ""
+        ls = f.read_text(encoding="utf-8").split("\n")
+        want = norm(re.sub(r"\s*[\[(].*$", "", name))
+        if any(level_of(l) and norm(re.sub(r"\s*[\[(].*$", "", l.lstrip("#"))) == want for l in ls):
+            return f"already on {filename}"
+        if heading:
+            body = "\n".join(ls).rstrip("\n")
+            if not any(l.strip() == f"# {heading}" for l in ls):
+                body += f"\n\n---\n\n# {heading}"
+            f.write_text(body + "\n\n" + entry + "\n", encoding="utf-8")
+            return f"-> {filename}"
+        # the page's entries (at whatever heading level it uses just now), then anything after the last one's divider
+        levels = [level_of(l) for l in ls if level_of(l) >= 2]
+        lvl = max(set(levels), key=levels.count) if levels else 4
+        mark = "#" * lvl + " "
+        first = next((k for k, l in enumerate(ls) if l.startswith(mark)), len(ls))
+        starts = [k for k in range(first, len(ls)) if ls[k].startswith(mark)]
+        tail_at = next((k for k in range(starts[-1] if starts else first, len(ls)) if ls[k].strip() == "---"), len(ls))
+        bounds = starts + [tail_at]
+        blocks = ["\n".join(ls[a:b]).strip("\n") for a, b in zip(bounds, bounds[1:])] + [mark + entry.split("\n", 1)[0].lstrip("#").strip() + "\n" + entry.split("\n", 1)[1]]
+        blocks.sort(key=lambda b: norm(b.split("\n")[0].lstrip("#")))
+        tail = "\n".join(ls[tail_at:]).strip("\n")
+        f.write_text("\n".join(ls[:first]).rstrip("\n") + "\n\n" + "\n\n".join(blocks) + ("\n\n" + tail if tail else "") + "\n", encoding="utf-8")
+        return f"-> {filename}"
+
     for slug in EXTRA_FEAT_PAGES:
         src = next((pg for pg in pages.values() if pg.slug == slug), None)
         path = CONTENT / src.folder / f"{src.filename}.md" if src else None
@@ -2376,31 +2431,30 @@ def distribute_extra_feats(pages: dict, class_pages: set, class_options: dict, d
                 continue
             lvl = level_of(lines[i])
             end = next((j for j in range(i + 1, len(lines)) if 0 < level_of(lines[j]) <= lvl or lines[j].strip() == "---"), len(lines))
-            name = re.sub(r"\s*\(.*$", "", lines[i].lstrip("#").strip())
+            name = re.sub(r"\s*[\[(].*$", "", lines[i].lstrip("#").strip())
             block = lines[i:end]
-            c = owner(name, "\n".join(block))
-            if not c or not (create or c["feats"].exists()):
+            entry = "\n".join(["#### " + block[0].lstrip("#").strip(), *block[1:]]).strip("\n")
+            done = []
+            if name in EXTRA_FEATS_SHARED:
+                # every class's (or too many classes'): the Extra Feats page
+                if slug != "extra-feats":
+                    done = [to_page(EXTRA_FEATS_PAGE, name, entry)]
+            elif name in EXTRA_FEAT_HOMES:
+                done = [to_page(EXTRA_FEAT_HOMES[name], name, entry, "Feats")]
+            elif name in EXTRA_FEAT_OWNERS:
+                owners = [c for c in classes if c["title"] in EXTRA_FEAT_OWNERS[name]]
+                if len(owners) == len(EXTRA_FEAT_OWNERS[name]) and all(create or c["feats"].exists() for c in owners):
+                    done = [give(c, name, entry) for c in owners]
+            else:
+                c = owner(name, "\n".join(block))
+                if c and (create or c["feats"].exists()):
+                    done = [give(c, name, entry)]
+            done = [d for d in done if d]
+            if not done:
                 report.append(f"{name}: stays on {src.filename}" + (f" (could be {', '.join(candidates[name])})" if candidates.get(name) else ""))
                 i = end
                 continue
-            entry = "\n".join(["#### " + block[0].lstrip("#").strip(), *block[1:]]).strip("\n")
-            if c["feats"].exists():
-                ftext = c["feats"].read_text(encoding="utf-8")
-                if has_feat(c, name):
-                    report.append(f"{name}: already on {c['feats'].stem}")
-                else:
-                    c["feats"].write_text(ftext.rstrip("\n") + "\n\n" + entry + "\n", encoding="utf-8")
-                    report.append(f"{name}: -> {c['feats'].stem}")
-            else:
-                pg = c["pg"]
-                ctitle = c["title"] + " Feats"
-                credit = m.group(0) if (m := re.search(r"^\*Source: .+\*$", c["file"].read_text(encoding="utf-8"), re.M)) else ""
-                c["feats"].write_text("\n".join(["---", f"title: {yaml_str(ctitle)}", f"source: {SITE}/{pg.slug}", "parent: " + yaml_str(f"[[{pg.filename}]]"),
-                                                 "searchtype: Class Options", "---"]) + "\n" + GENERATED_MARK + "\n\n" + (credit + "\n\n" if credit else "")
-                                      + f"The following feats are particularly appropriate or useful for a {c['title'].lower()}.\n\n" + entry + "\n", encoding="utf-8")
-                class_options.setdefault(pg.filename, []).append(f"[[{c['feats'].stem}\\|Feats]]")
-                derived_notes.append((f"{pg.folder}/{c['feats'].stem}.md".lstrip("/"), f"{pg.folder}/{pg.filename}.md".lstrip("/")))
-                report.append(f"{name}: -> new page {c['feats'].stem}")
+            report.append(f"{name}: {', '.join(done)}")
             lines = lines[:i] + lines[end:]
             changed = True
         if changed:

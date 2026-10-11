@@ -114,14 +114,6 @@ You have mastered your body so completely that you can control its processes wit
 
 **Benefit:** Your skill leverage maximum increases by 2.
 
-#### Extra Skill Talent
-
-Your acumen and expertise are easily expanded.
-
-**Benefit:** Gain either an additional skill sphere or a talent from a skill sphere you possess.
-
-**Special:** You may take this feat multiple times. The effects stack.
-
 #### Fane of Power (Su)
 
 *Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*

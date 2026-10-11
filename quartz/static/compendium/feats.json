@@ -22,6 +22,27 @@
    "md": "*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*\n\n**Prerequisite:** Advisor 5.\n\n**Benefit:** You gain an additional advisor lesson for which you qualify.\n\n**Special:** This feat may be taken a second time starting at 11th and a third time starting 17th level."
   },
   {
+   "id": "feat/extra-enhanced-tactics",
+   "name": "Extra Enhanced Tactics",
+   "system": "Spheres of Guile",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Advisor Feats",
+   "prerequisites": "Enhanced tactic class feature.",
+   "source": "Diamond Spheres: Harmony & Discord",
+   "url": "Advisor/Advisor-Feats#extra-enhanced-tactics",
+   "alsoOn": [
+    "Spheres-Of-Might/Commander/Commander-Feats#extra-enhanced-tactics"
+   ],
+   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n**Prerequisite:** Enhanced tactic class feature.\n\n**Benefit:** You gain an additional enhanced tactic you qualify for.\n\n**Special:** You may take this feat multiple times; each time you do, you gain another enhanced tactic."
+  },
+  {
    "id": "feat/long-shadows",
    "name": "Long Shadows",
    "system": "Spheres of Power",
@@ -1046,9 +1067,7 @@
    "prerequisites": "Swarm enhancement class feature.",
    "source": "",
    "url": "Other-Pages/Hive#extra-swarm-enhancement",
-   "alsoOn": [
-    "Spheres-Of-Might/Practitioner-Feats#extra-swarm-enhancement"
-   ],
+   "alsoOn": [],
    "md": "**Prerequisite:** Swarm enhancement class feature.\n\n**Benefit:** You may select an additional swarm enhancement that you qualify for.\n\n**Special:** This feat may be taken more than once; each time you select an additional swarm enhancement."
   },
   {
@@ -1544,25 +1563,6 @@
    "url": "Other-Pages/Operative-Feats#extra-skill-leverage",
    "alsoOn": [],
    "md": "**Prerequisite:** Skill leverage.\n\n**Benefit:** Your skill leverage maximum increases by 2."
-  },
-  {
-   "id": "feat/extra-skill-talent",
-   "name": "Extra Skill Talent",
-   "system": "Spheres of Guile",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Operative Feats",
-   "prerequisites": "",
-   "source": "Diamond Spheres: Thaumic Potential",
-   "url": "Other-Pages/Operative-Feats#extra-skill-talent",
-   "alsoOn": [],
-   "md": "Your acumen and expertise are easily expanded.\n\n**Benefit:** Gain either an additional skill sphere or a talent from a skill sphere you possess.\n\n**Special:** You may take this feat multiple times. The effects stack."
   },
   {
    "id": "feat/operative-feats/fane-of-power-su",
@@ -3623,82 +3623,6 @@
    "url": "Spheres-Of-Might/Practitioner-Feats#extend-stance-combat",
    "alsoOn": [],
    "md": "**Prerequisite:** Any (stance) talent.\n\n**Benefit:** Whenever you successfully damage a creature with an attack action, you may choose to extend the duration of one of your active (stance) talents by 1 round."
-  },
-  {
-   "id": "feat/extra-boon-of-purpose",
-   "name": "Extra Boon Of Purpose",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Practitioner Feats",
-   "prerequisites": "Boon of purpose class feature.",
-   "source": "Polished Commander & Warleader",
-   "url": "Spheres-Of-Might/Practitioner-Feats#extra-boon-of-purpose",
-   "alsoOn": [],
-   "md": "**Prerequisite:** Boon of purpose class feature.\n\n**Benefit:** You may use your boon of purpose class feature one additional time per day.\n\n**Special:** You may take this feat multiple times. The effects stack."
-  },
-  {
-   "id": "feat/extra-combat-talent-combat",
-   "name": "Extra Combat Talent",
-   "system": "Spheres of Might",
-   "types": [
-    "Combat"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Practitioner Feats",
-   "prerequisites": "",
-   "source": "Polished Commander & Warleader",
-   "url": "Spheres-Of-Might/Practitioner-Feats#extra-combat-talent-combat",
-   "alsoOn": [],
-   "md": "Your knowledge of combat is easily expanded.\n\n**Benefit:** Gain an additional sphere or a talent from a combat sphere you possess.\n\n**Special:** You may take this feat multiple times. The effects stack."
-  },
-  {
-   "id": "feat/extra-enhanced-tactics",
-   "name": "Extra Enhanced Tactics",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Practitioner Feats",
-   "prerequisites": "Enhanced tactic class feature.",
-   "source": "Polished Commander & Warleader",
-   "url": "Spheres-Of-Might/Practitioner-Feats#extra-enhanced-tactics",
-   "alsoOn": [],
-   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n**Prerequisite:** Enhanced tactic class feature.\n\n**Benefit:** You gain an additional enhanced tactic you qualify for.\n\n**Special:** You may take this feat multiple times; each time you do, you gain another enhanced tactic."
-  },
-  {
-   "id": "feat/extra-ki-power",
-   "name": "Extra Ki Power",
-   "system": "Spheres of Might",
-   "types": [
-    "General"
-   ],
-   "ability": [],
-   "replaces": "",
-   "tags": [],
-   "sphere": "",
-   "spheres": [],
-   "group": "Practitioner Feats",
-   "prerequisites": "Cultivate Ki or ki power class feature.",
-   "source": "Polished Commander & Warleader",
-   "url": "Spheres-Of-Might/Practitioner-Feats#extra-ki-power",
-   "alsoOn": [],
-   "md": "**Prerequisites:** Cultivate Ki or ki power class feature.\n\n**Benefits:** Gain an additional ki power for which you qualify.\n\n**Special:** This feat may be taken a second time starting at 11th level and a third time starting at 17th level."
   },
   {
    "id": "feat/flyby-attack-monster",
@@ -16046,6 +15970,25 @@
    "md": "You can increase the damage to the land around you to amplify your power.\n\n**Prerequisites:** Terrain Casting drawback, non-good alignment.\n\n**Benefit:** Whenever you blight, corrupt, or drain an area of its nutrients with the Terrain Casting drawback, you may choose to increase the radius of the corrupted area by 10 feet + 5 feet per 5 caster levels of the sphere talent or ability used. Doing so decreases the spell point cost of any metamagic feat by 1 (minimum 0), but also increases the time required for the area to naturally recover to 10 years per caster level of the sphere talent or ability used.\n\n**Four Defiler Feats:** When using this feat, you may choose to increase the radius of the corrupted area by an additional 5 feet per 5 caster levels (minimum 5 feet) to decrease the spell point of cost of any metamagic feat by an additional 1.\n\n**Special:** You cannot gain this feat if you possess the Terrain Focus feat and vice versa.\n\n---"
   },
   {
+   "id": "feat/extra-combat-talent-combat",
+   "name": "Extra Combat Talent",
+   "system": "Spheres of Power",
+   "types": [
+    "Combat"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Extra Feats",
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-combat-talent-combat",
+   "alsoOn": [],
+   "md": "Your knowledge of combat is easily expanded.\n\n**Benefit:** Gain an additional sphere or a talent from a combat sphere you possess.\n\n**Special:** You may take this feat multiple times. The effects stack."
+  },
+  {
    "id": "feat/extra-divine-works",
    "name": "Extra Divine Works",
    "system": "Spheres of Power",
@@ -16065,6 +16008,25 @@
    "md": "**Prerequisite:** Divine works class feature.\n\n**Benefit:** You may choose an additional option from the list of possible divine works class features. You may choose this feat multiple times. Each time, choose another divine work."
   },
   {
+   "id": "feat/extra-ki-power",
+   "name": "Extra Ki Power",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Extra Feats",
+   "prerequisites": "Cultivate Ki or ki power class feature.",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-ki-power",
+   "alsoOn": [],
+   "md": "**Prerequisites:** Cultivate Ki or ki power class feature.\n\n**Benefits:** Gain an additional ki power for which you qualify.\n\n**Special:** This feat may be taken a second time starting at 11th level and a third time starting at 17th level."
+  },
+  {
    "id": "feat/extra-origin-talent",
    "name": "Extra Origin Talent",
    "system": "Spheres of Power",
@@ -16082,6 +16044,25 @@
    "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-origin-talent",
    "alsoOn": [],
    "md": "**Benefit:** You gain an additional origin talent.\n\n**Special:** This feat may be selected multiple times. The effects stack."
+  },
+  {
+   "id": "feat/extra-skill-talent",
+   "name": "Extra Skill Talent",
+   "system": "Spheres of Power",
+   "types": [
+    "General"
+   ],
+   "ability": [],
+   "replaces": "",
+   "tags": [],
+   "sphere": "",
+   "spheres": [],
+   "group": "Extra Feats",
+   "prerequisites": "",
+   "source": "Ultimate Spheres of Power",
+   "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-skill-talent",
+   "alsoOn": [],
+   "md": "Your acumen and expertise are easily expanded.\n\n**Benefit:** Gain either an additional skill sphere or a talent from a skill sphere you possess.\n\n**Special:** You may take this feat multiple times. The effects stack."
   },
   {
    "id": "feat/extra-feats/extra-spell-points",

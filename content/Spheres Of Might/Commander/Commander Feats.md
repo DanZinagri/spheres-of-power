@@ -19,3 +19,13 @@ Your expertise extends to a new battlefield environment.
 **Benefit:** Gain an additional battlefield specialization for which you qualify.
 
 **Special:** This feat may be taken a second time starting at 11th and a third time starting 17th level.
+
+#### Extra Enhanced Tactics
+
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
+
+**Prerequisite:** Enhanced tactic class feature.
+
+**Benefit:** You gain an additional enhanced tactic you qualify for.
+
+**Special:** You may take this feat multiple times; each time you do, you gain another enhanced tactic.

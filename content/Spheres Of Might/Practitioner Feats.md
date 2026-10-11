@@ -415,48 +415,6 @@ In addition, you gain the following option:
 
 **Benefit:** Whenever you successfully damage a creature with an attack action, you may choose to extend the duration of one of your active (stance) talents by 1 round.
 
-#### Extra Boon Of Purpose
-
-**Prerequisite:** Boon of purpose class feature.
-
-**Benefit:** You may use your boon of purpose class feature one additional time per day.
-
-**Special:** You may take this feat multiple times. The effects stack.
-
-#### Extra Combat Talent (combat)
-
-Your knowledge of combat is easily expanded.
-
-**Benefit:** Gain an additional sphere or a talent from a combat sphere you possess.
-
-**Special:** You may take this feat multiple times. The effects stack.
-
-#### Extra Enhanced Tactics
-
-*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
-
-**Prerequisite:** Enhanced tactic class feature.
-
-**Benefit:** You gain an additional enhanced tactic you qualify for.
-
-**Special:** You may take this feat multiple times; each time you do, you gain another enhanced tactic.
-
-#### Extra Ki Power
-
-**Prerequisites:** Cultivate Ki or ki power class feature.
-
-**Benefits:** Gain an additional ki power for which you qualify.
-
-**Special:** This feat may be taken a second time starting at 11th level and a third time starting at 17th level.
-
-#### Extra Swarm Enhancement
-
-**Prerequisite:** Swarm enhancement class feature.
-
-**Benefit:** You may select an additional swarm enhancement that you qualify for.
-
-**Special:** This feat may be taken more than once; each time you select an additional swarm enhancement.
-
 #### Flyby Attack (Monster)*
 
 This creature can make an attack before and after it moves while flying.

@@ -11,33 +11,33 @@ searchtype: Archetypes
 
 A champion of the cause is a chosen of divinity and servant of her deity’s ideals. She is the hammer of justice, the sword of truth, or the wicked axe of carnage in service to the will of her deity. Where they walk, the will of her deity follows, leaving the influence and image of her deity. Receiving boons and assistance from their deity, they can be found in parties of courageous heroes, at the front or armies, or in important positions in cities and governments.
 
-## Alignment
+### Alignment
 
 A champion of the cause can be any good or evil alignment, as a paladin or antipaladin respectively. This alters alignment.
 
-## Proficiencies
+### Proficiencies
 
 A champion of the cause is proficient with simple weapons, as well as light armor and bucklers. if this is this character’s first level in any class, they may select a martial tradition of their choice.
 
 This alters the paladin’s or antipaladin’s normal weapon and armor proficiencies.
 
-## Casting
+### Casting
 
 At 1st level, the champion of the cause may combine spheres and talents to create magical effects. The champion of the cause is considered a Low-Caster. (Note: All casters gain 2 bonus talents and a casting tradition the first time they gain the casting class feature.)
 
 This replaces the spells class feature.
 
-## Spell Pool
+### Spell Pool
 
 A champion of the cause gains a small reservoir of energy she can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to her level + her casting ability modifier (minimum 1). This pool replenishes once per day after roughly 8 hours of rest.
 
-## Blended Training
+### Blended Training
 
 A champion of the cause gains a combat or magic talent every time she gains a class level. Champions of the cause use their casting ability modifier as their practitioner modifier.
 
 This replaces aura of faith or aura of sin.
 
-## Boon of Purpose (Su)
+### Boon of Purpose (Su)
 
 At 4th level, once per day as a standard action, the champion of the cause can utter short prayers of conviction to her deity for a boon of purpose to overcome an obstacle. At 9th level and every 5 levels thereafter, the champion of the cause may use this ability one additional time per day.
 
@@ -58,11 +58,11 @@ At 14th level, the champion of the cause adds the following boons to the list of
 
 This ability replaces channel positive energy and aura of justice or channel negative energy and aura of vengeance.
 
-## Incarnation Bond
+### Incarnation Bond
 
 At 5th level, the champion of the cause manifests a unique divine bond with her deity, taking one of two forms. Once the form is chosen, it cannot be changed.
 
-#### Incarnation Form (Sp)
+##### Incarnation Form (Sp)
 
 The first unique bond allows the champion of the cause to manifest features that bring her close to her deity’s image. She gains the Alteration sphere as a bonus sphere and Outsider Body (body) as a bonus talent. The champion of the cause may not gain a drawback which would remove the Blank Transformation, and if she already has a drawback which would remove the Blank Transformation, she must buy off that drawback with the bonus Alteration sphere talent. The champion of the cause uses her class level as her caster level for the purposes of the Alteration sphere when targeting herself with a shapeshift. This stacks normally with caster levels gained from other sources. When the champion of the cause first gains this ability, she chooses one trait from the Outsider Body talent to use as her incarnation trait. Once chosen, this cannot be changed. The incarnation trait must be a trait that grants an alignment subtype matching the champion of the cause’s alignment (e.g. Celestial Form or Anarchic Form for a chaotic good champion of the cause) and not one that requires a subtype to apply (e.g. Angel Body or Daemon Body).
 
@@ -72,7 +72,7 @@ At level 8, and every 4 levels thereafter, the champion of the cause gains a bon
 
 For example, a 5th level champion of the cause that worships a deity of angels chooses the Celestial Form trait from Outsider Body (body) to use as her incarnation trait. When transforming into her incarnation form, she gains the Blank Transformation, applies the darkvision trait from the base sphere, cosmetic appearance trait from Blank Form’s options, and her incarnation trait, Celestial Form, as an additional trait not counting against her maximum.
 
-#### Incarnation Ally (Sp)
+##### Incarnation Ally (Sp)
 
 The second unique bond allows the champion of the cause to gain the assistance of a herald of her deity. She gains the Bound Creature casting boon, even if she does not have the Focus Casting drawback, and her bound creature companion does not lose the extraplanar subtype. The champion of the cause uses her class level as her caster level with the Conjuration sphere when determining the statistics and abilities of her bound companion. If the champion of the cause does not have the Focus Casting drawback, she does not suffer a chance of spell failure if her companion is not within medium range, dismissed, or dead. If the champion of the cause already possessed the Bound Creature casting boon prior to gaining this ability, she gains a bonus Conjuration (form) talent for her bound creature and her bound creature regains the extraplanar subtype.
 
@@ -86,3 +86,14 @@ At level 8, and every 4 levels thereafter, the champion of the cause gains a bon
 
 This ability replaces divine bond or fiendish boon.
 
+---
+
+## Feats
+
+##### Extra Boon Of Purpose
+
+**Prerequisite:** Boon of purpose class feature.
+
+**Benefit:** You may use your boon of purpose class feature one additional time per day.
+
+**Special:** You may take this feat multiple times. The effects stack.

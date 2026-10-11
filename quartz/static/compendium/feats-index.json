@@ -14,6 +14,20 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/extra-enhanced-tactics",
+  "name": "Extra Enhanced Tactics",
+  "system": "Spheres of Guile",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Enhanced tactic class feature.",
+  "source": "Diamond Spheres: Harmony & Discord",
+  "url": "Advisor/Advisor-Feats#extra-enhanced-tactics",
+  "summary": "You gain an additional enhanced tactic you qualify for.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/long-shadows",
   "name": "Long Shadows",
   "system": "Spheres of Power",
@@ -1080,20 +1094,6 @@
   "source": "Diamond Spheres: Thaumic Potential",
   "url": "Other-Pages/Operative-Feats#extra-skill-leverage",
   "summary": "Your skill leverage maximum increases by 2.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-skill-talent",
-  "name": "Extra Skill Talent",
-  "system": "Spheres of Guile",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "",
-  "source": "Diamond Spheres: Thaumic Potential",
-  "url": "Other-Pages/Operative-Feats#extra-skill-talent",
-  "summary": "Gain either an additional skill sphere or a talent from a skill sphere you possess.",
   "file": "feats.json"
  },
  {
@@ -2601,62 +2601,6 @@
   "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Might/Practitioner-Feats#extend-stance-combat",
   "summary": "Whenever you successfully damage a creature with an attack action, you may choose to extend the duration of one of your active (stance) talents by 1 round.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-boon-of-purpose",
-  "name": "Extra Boon Of Purpose",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Boon of purpose class feature.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#extra-boon-of-purpose",
-  "summary": "You may use your boon of purpose class feature one additional time per day.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-combat-talent-combat",
-  "name": "Extra Combat Talent",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [],
-  "prerequisites": "",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#extra-combat-talent-combat",
-  "summary": "Gain an additional sphere or a talent from a combat sphere you possess.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-enhanced-tactics",
-  "name": "Extra Enhanced Tactics",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Enhanced tactic class feature.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#extra-enhanced-tactics",
-  "summary": "You gain an additional enhanced tactic you qualify for.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-ki-power",
-  "name": "Extra Ki Power",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Cultivate Ki or ki power class feature.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#extra-ki-power",
-  "summary": "Gain an additional ki power for which you qualify.",
   "file": "feats.json"
  },
  {
@@ -11753,6 +11697,20 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/extra-combat-talent-combat",
+  "name": "Extra Combat Talent",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-combat-talent-combat",
+  "summary": "Gain an additional sphere or a talent from a combat sphere you possess.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/extra-divine-works",
   "name": "Extra Divine Works",
   "system": "Spheres of Power",
@@ -11767,6 +11725,20 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/extra-ki-power",
+  "name": "Extra Ki Power",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Cultivate Ki or ki power class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-ki-power",
+  "summary": "Gain an additional ki power for which you qualify.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/extra-origin-talent",
   "name": "Extra Origin Talent",
   "system": "Spheres of Power",
@@ -11778,6 +11750,20 @@
   "source": "Ultimate Spheres of Power",
   "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-origin-talent",
   "summary": "You gain an additional origin talent.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/extra-skill-talent",
+  "name": "Extra Skill Talent",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-skill-talent",
+  "summary": "Gain either an additional skill sphere or a talent from a skill sphere you possess.",
   "file": "feats.json"
  },
  {
