@@ -205,17 +205,23 @@ function build() {
   const half = tpl.glider && med.air ? 0.5 : 1
   const weight = Math.max(0, 2 * mass * half - dirigible)
   const wind = Math.max(0, Number(state.wind) || 0)
-  let power = 0, lift = 0, doubled = 0
-  for (const e of engines) {
-    const p = e.def.power * e.size + (e.def.external ? 0.5 * wind * e.size : 0)
-    power += p
-    if (!e.def.liftless) lift += p
-    if (e.def.doubleLift) doubled += p
+  // an engine that burns fuel can be pushed (half again its power) or overloaded (twice): sails, oars,
+  // manual engines and the flight enchantment can't
+  const pushable = (e) => !e.def.external && !/^(Oars|Manual|Enchantment)/.test(e.def.name)
+  const powerAt = (mult) => {
+    let power = 0, lift = 0, doubled = 0
+    for (const e of engines) {
+      const p = e.def.power * e.size * (pushable(e) ? mult : 1) + (e.def.external ? 0.5 * wind * e.size : 0)
+      power += p
+      if (!e.def.liftless) lift += p
+      if (e.def.doubleLift) doubled += p
+    }
+    // an air elemental engine's power counts double against weight
+    const airUsed = Math.min(doubled, weight / 2)
+    return { power, lift, airUsed, flies: lift + airUsed >= weight - 1e-9, propulsion: Math.max(0, power - (weight - airUsed)) }
   }
-  // an air elemental engine's power counts double against weight
-  const airUsed = Math.min(doubled, weight / 2)
-  const flies = lift + airUsed >= weight - 1e-9
-  const propulsion = Math.max(0, power - (weight - airUsed))
+  const { power, lift, airUsed, flies, propulsion } = powerAt(1)
+  const canPush = engines.some(pushable)
 
   // load
   const armorWeight = armor ? bySize(armor.weight, armor.weightLocation) * (state.armor.material === "Mithral" ? 0.5 : 1) : 0
@@ -259,23 +265,29 @@ function build() {
   const engineDriven = engines.length > 0
   const powerPer = tpl.maneuverable && engineDriven ? 2 : 1 // twice the power per point of speed
   const tread = TREADS.find((t) => t.name === state.tread) ?? TREADS[0]
-  const speeds = []
-  const finish = (label, pw, m, ok, factor = 1, note = "") => {
-    let speed = hull && ok ? speedFor(pw / powerPer, m) : 0
-    let accel = hull && ok ? Math.floor(pw / powerPer / 2 / m) : 0
-    if (tpl.aerodynamic && speed >= 1) { speed++; accel++ }
-    if (encumbered) { speed = Math.max(0, speed - 1); accel = Math.max(0, accel - 1) }
-    speed = Math.floor(speed * factor)
-    speeds.push({ label, speed, accel, note })
-  }
-  if (muscle) speeds.push({ label: "Drawn by creatures", speed: Math.max(0, muscle.speed - (encumbered ? 1 : 0)), accel: muscle.accel, note: `${muscle.have} of ${muscle.need} Large creatures` })
-  else {
+  const speedsAt = (pw) => {
+    const speeds = []
+    const finish = (label, power, m, ok, factor = 1, note = "") => {
+      let speed = hull && ok ? speedFor(power / powerPer, m) : 0
+      let accel = hull && ok ? Math.floor(power / powerPer / 2 / m) : 0
+      if (tpl.aerodynamic && speed >= 1) { speed++; accel++ }
+      if (encumbered) { speed = Math.max(0, speed - 1); accel = Math.max(0, accel - 1) }
+      speed = Math.floor(speed * factor)
+      speeds.push({ label, speed, accel, note })
+    }
     if (med.land) {
-      finish("Land", power, mass * (tpl.track ? 0.5 : 1), true, tread.speed ?? 1, tread.name.toLowerCase())
+      finish("Land", pw.power, mass * (tpl.track ? 0.5 : 1), true, tread.speed ?? 1, tread.name.toLowerCase())
       if (qty("Burrowers") || qty("Burrowers, magical")) speeds.push({ ...speeds[speeds.length - 1], label: "Underground", speed: qty("Earthglide enchantment") ? speeds[speeds.length - 1].speed : Math.floor(speeds[speeds.length - 1].speed / 2), note: qty("Earthglide enchantment") ? "earthglide" : "half speed" })
     }
-    if (med.water) finish("Water", power, mass, true, 1, qty("Buoyancy control") || qty("Swimming enchantment") ? "and underwater" : "")
-    if (med.air) finish("Air", propulsion, mass * half, flies)
+    if (med.water) finish("Water", pw.power, mass, true, 1, qty("Buoyancy control") || qty("Swimming enchantment") ? "and underwater" : "")
+    if (med.air) finish("Air", pw.propulsion, mass * half, pw.flies)
+    return speeds
+  }
+  let speeds
+  if (muscle) speeds = [{ label: "Drawn by creatures", speed: Math.max(0, muscle.speed - (encumbered ? 1 : 0)), accel: muscle.accel, note: `${muscle.have} of ${muscle.need} Large creatures` }]
+  else {
+    speeds = speedsAt(powerAt(1))
+    if (canPush) { const pushed = speedsAt(powerAt(1.5)), over = speedsAt(powerAt(2)); speeds.forEach((sp, i) => { sp.pushed = pushed[i].speed; sp.overload = over[i].speed }) }
   }
   const best = speeds.reduce((a, s) => (s.speed > a.speed ? s : a), speeds[0] ?? { speed: 0, accel: 0 })
   const maneuverable = engineDriven && engines.every((e) => e.def.maneuverable)
@@ -340,6 +352,11 @@ function build() {
   if (dirigible > 6 * hull) warnings.push(`A dirigible is limited to six times the hull (${sized(6 * hull)}).`)
   if (state.dirigible.type && !med.air) notes.push("A dirigible only fits an air vehicle.")
   if (tpl.glider && med.air && (sails || outside)) warnings.push("A glider loses the template's effects while it uses sails or a physical dirigible.")
+  else if (tpl.glider && med.air && weight > 0 && !muscle) {
+    const air = speeds.find((x) => x.label === "Air")
+    const top = Math.max(air?.speed ?? 0, air?.overload ?? 0)
+    warnings.push(`Glider: its weight isn't wholly negated by a magical dirigible, so below speed 10 it loses 1 altitude band a round for each point under 10. ${!air?.speed ? "" : air.speed >= 10 ? `It holds its height from speed 10 up to its top speed of ${air.speed}.` : top >= 10 ? `Its top speed is ${air.speed}, so it sinks ${10 - air.speed} band${10 - air.speed === 1 ? "" : "s"} a round even flat out, and only holds its height pushed or overloaded.` : `Its top speed is ${air.speed}${air.overload !== undefined ? ` (${air.overload} overloaded)` : ""}, so it can't hold its height: flat out it still sinks ${10 - air.speed} band${10 - air.speed === 1 ? "" : "s"} a round. It can glide down, not stay up.`}`)
+  }
   for (const t of TEMPLATES) if (tpl[t.key] && t.only && !med[t.only]) warnings.push(`The ${t.name.toLowerCase()} template is for ${t.only} vehicles.`)
   if (qty("Buoyancy control") && med.water && !tpl.covered) warnings.push("Buoyancy control needs the covered template.")
   if (used > hull) warnings.push(`The engines and rooms take ${sized(used)}; the hull has ${sized(hull)}.`)
@@ -361,13 +378,12 @@ function build() {
   if (encumbered) notes.push(`${burden} load${muscle?.lighter ? " (eased by extra creatures pulling)" : ""}: speed and acceleration −1, maneuverability ${encumbered} step${encumbered > 1 ? "s" : ""} worse.`)
   if (airUsed > 0) notes.push("The air elemental engine's power counts double against the vehicle's weight.")
   if (tpl.track && med.land) notes.push("On its track the vehicle is always Clumsy and never rolls.")
-  if (tpl.glider && med.air && weight > 0) notes.push("A glider with weight left to carry can't fly slower than speed 10.")
   if (rooms.some((r) => r.xd)) notes.push("What is kept in an extra-dimensional room doesn't count toward the load (take it off the cargo yourself).")
   if (hull > used) notes.push(`${sized(hull - used)} of the hull unassigned.`)
 
   return { hull, material, mediums, sails, dirigible, dirDef, total, size, plus, locations, locationCount, spaces, mass, weight, power, lift, propulsion, flies, speeds, best, maneuver, muscle,
     cmb: size.cmb + (plus ? locationCount - 1 : 0), ram: size.ram + (weapons.some((w) => w.def.name === "Ram") ? " + 3d8" : "") + (material.name === "Diamond" ? " + 4d8" : ""),
-    equipment, load, limits, burden, engines, rooms, weapons, used, crewRows, engineers, gunners, needed, hired, officers, people, passengers, beds, supplies, lines, cost, fuel, fitted, tread, armor,
+    canPush, pushPower: canPush ? powerAt(1.5).power : power, overPower: canPush ? powerAt(2).power : power, pushable, equipment, load, limits, burden, engines, rooms, weapons, used, crewRows, engineers, gunners, needed, hired, officers, people, passengers, beds, supplies, lines, cost, fuel, fitted, tread, armor,
     wages, officerPay, food, fuelMonth, upkeep, level, slaves, shifts, months, warnings, notes, wind, cargo, bySize, hours }
 }
 
@@ -487,6 +503,7 @@ function render() {
     ${b.warnings.length ? `<section class="card">${b.warnings.map((w) => `<p class="warn">⚠ ${esc(w)}</p>`).join("")}</section>` : ""}
     <section class="card">
       <div class="row"><h2 style="margin:0">${esc(state.name || "Vehicle")}: ${gp(b.cost)}</h2><span class="spacer"></span><span class="muted">${esc(vehicleKind)}</span></div>
+      ${b.notes.length ? `<ul style="margin:.4rem 0 .6rem;padding-left:1.2rem">${b.notes.map((n) => `<li>${esc(n)}</li>`).join("")}</ul>` : ""}
       <div class="row" style="align-items:flex-start;gap:1.5rem">
         <div style="flex:1 1 20rem"><div class="table-wrap"><table class="mods"><tbody>
           ${stat("Size", `${sized(b.total)}`, `hull ${sized(b.hull)}${b.sails ? `, sails ${sized(b.sails)}` : ""}${b.dirDef?.location && b.dirigible ? `, dirigible ${sized(b.dirigible)}` : ""}`)}
@@ -496,9 +513,9 @@ function render() {
           ${stat("Ram", esc(b.ram), "+1d8 per point of speed")}
         </tbody></table></div></div>
         <div style="flex:1 1 20rem"><div class="table-wrap"><table class="mods"><tbody>
-          ${b.speeds.map((s) => { const t = travel(s.speed); return stat(`${esc(s.label)} speed`, s.speed ? `${s.speed} <span class="pi-meta">${num(t.feet)} ft. a round, ${num(t.mph)} mph, ${num(t.day8)} miles in 8 hours</span>` : "0", `${s.note ? esc(s.note) + "; " : ""}acceleration ${s.accel || (s.speed ? "1 per 2 rounds" : 0)}`) }).join("") || stat("Speed", "0")}
+          ${b.speeds.map((s) => { const t = travel(s.speed); return stat(`${esc(s.label)} speed`, s.speed || s.overload ? `${s.speed}${s.pushed !== undefined ? ` <span class="pi-meta">(${s.pushed} pushed, ${s.overload} overload)</span>` : ""} <span class="pi-meta">${num(t.feet)} ft. a round, ${num(t.mph)} mph, ${num(t.day8)} miles in 8 hours</span>` : "0", `${s.note ? esc(s.note) + "; " : ""}acceleration ${s.accel || (s.speed ? "1 per 2 rounds" : 0)}`) }).join("") || stat("Speed", "0")}
           ${stat("Maneuverability", `${b.maneuver.name}`, `pilot checks ${signed(b.maneuver.pilot)}, ${b.maneuver.turns} turn${b.maneuver.turns === "1" ? "" : "s"} a round`)}
-          ${stat("Power", inUnit(b.power), med.air && b.lift < b.power ? `${inUnit(b.lift)} of it lifts` : "")}
+          ${stat("Power", `${inUnit(b.power)}${b.canPush ? ` <span class="pi-meta">(${inUnit(b.pushPower)} pushed, ${inUnit(b.overPower)} overload)</span>` : ""}`, med.air && b.lift < b.power ? `${inUnit(b.lift)} of it lifts` : "")}
           ${stat(med.air ? "Mass / Weight" : "Mass", med.air ? `${inUnit(b.mass)} / ${inUnit(b.weight)}` : inUnit(b.mass), state.hull.unit === "deck" ? "in Decks" : "in Hardpoints")}
           ${med.air ? stat("Propulsion", inUnit(b.propulsion), "power left after lifting the weight") : ""}
         </tbody></table></div></div>
@@ -536,16 +553,53 @@ function render() {
             ${stat("Paid once instead", gp(b.upkeep * 12), "twelve months' worth, if you'd rather not track upkeep")}
           </tbody></table></div></div>
       </div>
-      ${b.notes.map((n) => `<p class="note">${esc(n)}</p>`).join("")}
     </section>
+    ${helm(b)}
     <section class="card">
       <p class="note">Rules: the wiki's ${link(DATA.url, "Airship Rules")} (${link(DATA.urls.engines, "engines")}, ${link(DATA.urls.dirigibles, "dirigibles")}, ${link(DATA.urls.rooms, "rooms")}, ${link(DATA.urls.weapons, "siege engines")}, crews and officers) from The Player's Guide to Skybourne, with the hull materials, templates, mediums of travel, armor, further engines, rooms, siege engines and equipment of Ships of Skybourne. The samples are loaded as their parts and worked out by the rules, so a few numbers differ from their printed stat blocks. Not counted: ammunition, crew equipment and perks, and vehicles smaller than a Hardpoint.</p>
     </section>`
 }
 
+// what the pilot and the head engineer can do each round, with this vehicle's own numbers
+let helmOpen = false
+function helm(b) {
+  const air = state.mediums.air, s0 = b.speeds[0], top = b.best.speed
+  const pushed = b.engines.filter(b.pushable)
+  const li = (name, text) => `<li><b>${name}:</b> ${text}</li>`
+  const fuel = b.fuel.length ? ` It burns twice the fuel (${b.fuel.map((f) => `${tons(f.tons * 2)} of ${esc(f.name.toLowerCase())} fuel a day`).join(", ")}).` : " It uses twice the fuel."
+  return `<section class="card"><details id="helm" ${helmOpen ? "open" : ""}><summary><b>At the helm</b> <span class="muted">what the pilot and engineer can do each round</span></summary>
+    <h3>Moving</h3>
+    <ul style="padding-left:1.2rem;margin:.3rem 0">
+      ${li("Pilot", `a move action each round to keep control (piloting checks ${signed(b.maneuver.pilot)} from maneuverability); with no pilot the vehicle is uncontrolled: it keeps its speed and heading, can't turn, and loses its +${b.maneuver.dodge} dodge bonus.`)}
+      ${li("Speed", `up to ${top}${s0?.pushed !== undefined ? ` (${b.best.pushed} pushed, ${b.best.overload} overload)` : ""} spaces of 30 ft. a round, changing by ${b.best.accel || "1 every 2 rounds"}${b.best.accel ? " a round" : ""} at most (its acceleration).`)}
+      ${li("Turning", `${b.maneuver.turns} turn${b.maneuver.turns === "1" ? "" : "s"} of 45° a round, moving a space between turns.`)}
+      ${air ? li("Climbing and diving", `up or down ${Math.floor(top / 2)} altitude band${Math.floor(top / 2) === 1 ? "" : "s"} (50 ft. each) a round at full speed, half its current speed; an air vehicle can also give up 1 space of forward movement to drop a band, or 2 spaces to climb one.`) : ""}
+      ${b.sails ? li("Wind", "with the wind behind, its severity level is added to speed and sails gain half of it in power per Hardpoint; against it, the severity comes off speed and sails give nothing.") : ""}
+    </ul>
+    <h3>Piloting maneuvers <span class="muted">one a round, DC 20 piloting check</span></h3>
+    <ul style="padding-left:1.2rem;margin:.3rem 0">
+      ${li("Sharp turn", "DC 20 for one more turn than allowed, +5 for each beyond that (a second turn in the same space counts as an extra one). On a failure speed drops by 1, and 1 more per 5 the check missed by, and the vehicle starts to roll.")}
+      ${li("Dive or climb", "DC 20 + 1 per space of forward movement given up; half of what is given up is added to the bands climbed or dived. Unbraced creatures aboard make a DC 20 Reflex save or fall prone. On a failure the vehicle stalls.")}
+      ${li("Defensive piloting", "+1 dodge bonus to AC, +1 per 5 the check beats DC 20 by.")}
+      ${li("Offensive piloting", "+1 on attack rolls made from the vehicle against targets off it, +1 per 5 the check beats DC 20 by.")}
+    </ul>
+    <h3>Engineering <span class="muted">the head engineer's standard action</span></h3>
+    <ul style="padding-left:1.2rem;margin:.3rem 0">
+      ${li("Aid pilot", "DC 20: +4 on the pilot's checks this round, +1 per 5 over. Only with an engine giving at least half the vehicle's power (or creatures pulling it).")}
+      ${pushed.length ? li("Push", `half again the power of ${esc(pushed.map((e) => e.def.name.toLowerCase()).join(", "))}: speed ${b.speeds.map((x) => `${x.label.toLowerCase()} ${x.pushed}`).join(", ")}.${fuel} A standard action each round to keep up.`)
+        + li("Overload", `DC 25 to double it instead: speed ${b.speeds.map((x) => `${x.label.toLowerCase()} ${x.overload}`).join(", ")}. Each round it deals ${pushed.map((e) => `${num(e.size * 2)}d6 to the ${esc(e.def.name.toLowerCase())} engine`).join(", ")}, past all Hardness (2d6 per Hardpoint).`)
+        : li("Push and overload", "not possible here: only an engine that burns fuel can be pushed (not sails, oars, a manual engine or the flight enchantment).")}
+      ${b.muscle ? li("Running", "creatures pulling can be driven to a run: speed and acceleration double, in a straight line and without the dodge bonus, for as many rounds as the lowest Constitution modifier among them before they must make Constitution checks.") : ""}
+      ${li("Emergency repair", "DC 20: a damaged engine gains 10 temporary hit points, +1 per 5 over, for 24 hours.")}
+      ${li("Self-destruct", "DC 35 (no taking 10 or 20): the engine explodes in 1d3 minutes; DC 30 to stop it, at the cost of half its hit points.")}
+      ${li("Short-handed", "an engine with less than its crew but at least half gives half power; with at least a quarter, a quarter; with fewer, none. A broken engine (half its hit points gone) gives half power and burns twice the fuel.")}
+    </ul>
+  </details></section>`
+}
+
 function summary() {
   const b = build()
-  const speed = b.speeds.map((s) => `${s.label.toLowerCase()} ${s.speed}`).join(", ") || "0"
+  const speed = b.speeds.map((s) => `${s.label.toLowerCase()} ${s.speed}${s.pushed !== undefined ? ` (${s.pushed} pushed, ${s.overload} overload)` : ""}`).join(", ") || "0"
   const lines = [`${state.name || "Vehicle"}`, `${b.size.name}${b.plus ? "+" : ""} ${b.material.name} ${b.mediums.map((m) => m[1]).join("/")} Vehicle${TEMPLATES.filter((t) => state.templates[t.key]).length ? ` (${TEMPLATES.filter((t) => state.templates[t.key]).map((t) => t.name.toLowerCase()).join(", ")})` : ""}`,
     `Space ${b.spaces} vehicle space${b.spaces === 1 ? "" : "s"}; Cost ${gp(b.cost)}`, `Size ${sized(b.total)}; Hull ${sized(b.hull)}`, "",
     ...b.locations.map((l) => `${l.name}${l.count > 1 ? ` (${l.count} Locations, each)` : ""}: AC ${l.size.ac + b.maneuver.dodge + l.armor}; ${l.hp} hp, Hardness ${l.hardness}`),
@@ -575,6 +629,7 @@ function toast(msg) {
 const at = (path) => { const [key, i] = path.split("."); return i === undefined ? state[key] : state[key][Number(i)] }
 const value = (el) => (el.type === "checkbox" ? el.checked : el.type === "number" ? (el.value === "" ? "" : Number(el.value) || 0) : el.value)
 
+$("panel").addEventListener("toggle", (e) => { if (e.target.id === "helm") helmOpen = e.target.open }, true)
 $("panel").addEventListener("change", (e) => {
   const el = e.target, d = el.dataset
   if (el.id === "sample" && el.value) loadSample(el.value)
