@@ -2865,6 +2865,15 @@ def sort_practitioner_feats(pages: dict) -> None:
     print("Practitioner feats by type:", moved, "dropped / placed:", dropped)
 
 
+def drop_stub_page(pages: dict, slug: str) -> None:
+    """Remove a page that is only a note saying its entries are elsewhere (it has no headings); its
+    archived original version stays in the Archive."""
+    pg = next((x for x in pages.values() if x.slug == slug), None)
+    path = CONTENT / pg.folder / f"{pg.filename}.md" if pg else None
+    if path and path.exists() and not any(l.startswith("#") for l in path.read_text(encoding="utf-8").split(GENERATED_MARK, 1)[-1].splitlines()):
+        path.unlink()
+
+
 def drop_pointer_section(pages: dict, slug: str, title: str) -> None:
     """Remove a top-level section that only points at another page (its link is on the home page now)."""
     pg = next((x for x in pages.values() if x.slug == slug), None)
@@ -8241,6 +8250,7 @@ def convert(with_images: bool) -> None:
     distribute_sphere_feats(pages, feats_pages, derived_notes)
     drop_pointer_section(pages, "practitioner-feats", "Tinker Sphere Feats")
     sort_practitioner_feats(pages)
+    drop_stub_page(pages, "dual-sphere-feats")
     drop_pointer_section(pages, "champion-feats", "General Feats")  # (its feats have all been placed elsewhere)
     print(f"Search types: {tag_search_types()}")
     print(f"Compendium entries: {build_compendium()}")
