@@ -949,7 +949,14 @@ function subraceTrait(standard) {
   for (const n of sub.replaces ?? []) { const nn = normTrait(n); take(standard.find((x) => { const ns = normTrait(x.name); return ns === nn || ns.endsWith(` ${nn}`) || nn.endsWith(` ${ns}`) }), n) }
   const text = sub.md ? mdToText(sub.md) : lines.map(([l, v]) => `${l}: ${v}`).join("\n")
   const skills = swaps.filter(([l]) => /skill modifiers/i.test(l)).flatMap(([, v]) => skillChanges(v))
-  return { e: { id: `sub:${r.id}:${sub.name}`, name: sub.name, summary: swaps.map(([l, v]) => `${l}: ${v}`).join("; "), text, changes: skills, system: r.system, url: r.url }, slots }
+  // its spell-like ability is a racial trait of its own on the Feats & Features tab, in the standard one's place
+  const extra = swaps.filter(([l]) => /spell-like abilit/i.test(l)).map(([, v]) => {
+    const spell = (v.match(/gains? (.+?) as a spell-like/i)?.[1] ?? v).replace(/\s*\d+\/day.*$/i, "").trim()
+    const usual = find((x) => /^spell-like abilit/i.test(x.name.trim()))
+    return { id: `sub:${r.id}:${sub.name}:sla`, name: `Spell-Like Ability (${spell.toLowerCase()})`, system: r.system, url: r.url,
+      text: [`${sub.name}: ${v}${/[.!]$/.test(v) ? "" : "."}`, usual?.summary ? `Used as the ${r.name.toLowerCase()}'s usual spell-like ability, which it replaces: ${usual.summary}` : ""].filter(Boolean).join("\n\n") }
+  })
+  return { extra, e: { id: `sub:${r.id}:${sub.name}`, name: sub.name, summary: swaps.map(([l, v]) => `${l}: ${v}`).join("; "), text, changes: skills, system: r.system, url: r.url }, slots }
 }
 function raceTraitModel() {
   const race = state.race
@@ -973,7 +980,7 @@ async function syncRaceTraits(newRace) {
   const data = await loadCompendium("racial-traits.json", { entries: [] })
   const text = (e) => e.text ?? mdToText(data.entries.find((x) => x.id === e.id)?.md ?? e.summary ?? "")
   const kept = standard.filter((s) => !taken[s.id])
-  const want = [...kept.filter((s) => !fieldTrait(s)), ...(sub ? [sub.e] : []), ...chosen.map((a) => a.e)]
+  const want = [...kept.filter((s) => !fieldTrait(s)), ...(sub ? [sub.e, ...sub.extra] : []), ...chosen.map((a) => a.e)]
   const wantIds = new Set(want.map((e) => e.id))
   state.features = state.features.filter((f) => !(f.auto === "race" && !wantIds.has(f.ref)))
   for (const e of want) {
