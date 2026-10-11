@@ -2150,10 +2150,13 @@ async function openTradeTradition() {
     nameBox.addEventListener("input", () => { sel.name = nameBox.value })
     const adroit = h("input", { type: "checkbox", checked: sel.adroit })
     adroit.addEventListener("change", () => { sel.adroit = adroit.checked; render() })
-    const talentPick = (i) => tradeSelect(list, sel.talents[i], `Trade talent ${i + 1}`, (v) => { sel.talents[i] = v; render() })
-    const sphereSel = (value, label, onchange) => {
+    const talentPick = (i) => {
+      const taken = new Set(sel.talents.slice(0, sel.adroit ? 4 : 2).filter((n, k) => n && k !== i))
+      return tradeSelect(list.filter((t) => !taken.has(t.name)), sel.talents[i], `Trade talent ${i + 1}`, (v) => { sel.talents[i] = v; render() })
+    }
+    const sphereSel = (value, label, onchange, not = "") => {
       const el = h("select", { "aria-label": label }, h("option", { value: "" }, "Choose a Guile sphere…"),
-        ...data.guileSpheres.filter((s) => s !== "Vocation").map((s) => h("option", { value: s, selected: s === value }, s)))
+        ...data.guileSpheres.filter((s) => s !== "Vocation" && (s !== not || s === value)).map((s) => h("option", { value: s, selected: s === value }, s)))
       el.addEventListener("change", () => onchange(el.value))
       return el
     }
@@ -2170,18 +2173,23 @@ async function openTradeTradition() {
       h("p", { class: "warn" }, `Warning: this erases ${cls?.name ? `${cls.name}'s` : "your first class's"} class skills. They'll be unchecked and replaced by the tradition's (more class skills from feats, traits and other sources still apply; add those back on the Classes tab).`),
       h("h3", {}, "Competent"),
       h("div", { class: "row picker-filters" }, field("Trade talent", talentPick(0)), field("Trade talent", talentPick(1)),
-        field("Guile sphere", sphereSel(sel.sphere, "Guile sphere", (v) => { sel.sphere = v; render() }))),
+        field("Guile sphere", sphereSel(sel.sphere, "Guile sphere", (v) => {
+          sel.sphere = v
+          if (sel.bonusSphere === v) sel.bonusSphere = ""
+          if (sel.bonusTalent && !sphereTalents(v).some((e) => e.name === sel.bonusTalent)) sel.bonusTalent = ""
+          render()
+        }))),
       sel.adroit ? h("div", {},
         h("h3", {}, "Adroit"),
         h("div", { class: "row picker-filters" }, field("Trade talent", talentPick(2)), field("Trade talent", talentPick(3))),
         h("div", { class: "row picker-filters" },
           h("label", { class: "row", style: "gap:.4rem" }, h("input", { type: "radio", name: "tt-bonus", checked: sel.bonusKind === "sphere", onchange: () => { sel.bonusKind = "sphere"; render() } }), "Another Guile sphere"),
-          sel.bonusKind === "sphere" ? sphereSel(sel.bonusSphere, "Bonus sphere", (v) => { sel.bonusSphere = v }) : null,
+          sel.bonusKind === "sphere" ? sphereSel(sel.bonusSphere, "Bonus sphere", (v) => { sel.bonusSphere = v; render() }, sel.sphere) : null,
           h("label", { class: "row", style: "gap:.4rem" }, h("input", { type: "radio", name: "tt-bonus", checked: sel.bonusKind === "talent", onchange: () => { sel.bonusKind = "talent"; render() } }), `A talent from ${sel.sphere || "your chosen sphere"}`),
           sel.bonusKind === "talent" && sel.sphere ? (() => {
             const el = h("select", { "aria-label": "Bonus talent" }, h("option", { value: "" }, "Choose a talent…"),
               ...sphereTalents(sel.sphere).map((e) => h("option", { value: e.name, selected: e.name === sel.bonusTalent }, e.name)))
-            el.addEventListener("change", () => { sel.bonusTalent = el.value })
+            el.addEventListener("change", () => { sel.bonusTalent = el.value; render() })
             return el
           })() : null)) : null,
       h("div", { class: "ct-points" },
