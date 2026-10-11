@@ -916,6 +916,19 @@ function altSlots(alt, standard) {
   }
   return out
 }
+// "Heal, Knowledge (planes)" -> a racial bonus to each skill named (those that aren't skills are left to the text)
+function skillChanges(names, bonus = 2) {
+  return String(names ?? "").split(/,\s*(?:and\s+|or\s+)?|\s+and\s+|\s+or\s+/).map((n) => skillKeyOf(n.trim())[0]).filter(Boolean)
+    .map((k) => ({ formula: String(bonus), target: `skill.${k}`, type: "racial", operator: "add" }))
+}
+// a racial trait that is just "+2 racial bonus on Diplomacy and Perception checks.": that, as changes
+function racialSkillChanges(text) {
+  const m = String(text ?? "").match(/\+(\d+) racial bonus (?:on|to) ((?:(?!checks)[^.])+?) (?:skill )?checks\s*(?:\.|$)/i)
+  if (!m) return []
+  const names = m[2].split(/,\s*(?:and\s+)?|\s+and\s+/).map((n) => n.trim()).filter(Boolean)
+  const out = skillChanges(m[2], Number(m[1]))
+  return out.length === names.length ? out : [] // only when every one is a plain skill
+}
 const currentSubrace = () => RACE_DATA.byId[state.race.ref]?.subraces?.find((x) => x.name === state.race.subrace) ?? null
 // the chosen subrace / heritage as a trait of its own: what it trades for which standard traits
 function subraceTrait(standard) {
@@ -935,7 +948,8 @@ function subraceTrait(standard) {
   }
   for (const n of sub.replaces ?? []) { const nn = normTrait(n); take(standard.find((x) => { const ns = normTrait(x.name); return ns === nn || ns.endsWith(` ${nn}`) || nn.endsWith(` ${ns}`) }), n) }
   const text = sub.md ? mdToText(sub.md) : lines.map(([l, v]) => `${l}: ${v}`).join("\n")
-  return { e: { id: `sub:${r.id}:${sub.name}`, name: sub.name, summary: swaps.map(([l, v]) => `${l}: ${v}`).join("; "), text, system: r.system, url: r.url }, slots }
+  const skills = swaps.filter(([l]) => /skill modifiers/i.test(l)).flatMap(([, v]) => skillChanges(v))
+  return { e: { id: `sub:${r.id}:${sub.name}`, name: sub.name, summary: swaps.map(([l, v]) => `${l}: ${v}`).join("; "), text, changes: skills, system: r.system, url: r.url }, slots }
 }
 function raceTraitModel() {
   const race = state.race
@@ -964,7 +978,7 @@ async function syncRaceTraits(newRace) {
   state.features = state.features.filter((f) => !(f.auto === "race" && !wantIds.has(f.ref)))
   for (const e of want) {
     if (state.features.some((f) => f.kind === "racial" && (f.ref === e.id || f.name.trim().toLowerCase() === e.name.trim().toLowerCase()))) continue
-    state.features.push(newFeature("racial", { name: e.name, desc: text(e), ref: e.id, auto: "race" }))
+    state.features.push(newFeature("racial", { name: e.name, desc: text(e), ref: e.id, auto: "race", changes: e.changes ?? racialSkillChanges(text(e)) }))
   }
   // climb, swim, fly and burrow speeds the race's own traits give (a custom race's entries are left alone)
   const all = [...standard, ...raceTraitsOf("Alternate"), ...(sub ? [sub.e] : [])]
