@@ -57,13 +57,6 @@ What the compendium extractor takes from the Dual Wielding pages (42 entries; ap
 | [[Dual-Wielding#three-sword-style\|Three-Sword Style]] | Legendary Talents |  | — | Dual Wielding sphere, base attack bonus +6. | Spheres of Might |
 | [[Dual-Wielding#triangle-slash\|Triangle Slash]] | Legendary Talents |  | — | Dual Wielding sphere, Three-Sword Style, base attack bonus +16. | Spheres of Might |
 
-## Feats (2)
-
-| Entry | Group | Tags | Options | Prerequisites | Source |
-| --- | --- | --- | --- | --- | --- |
-| [[Practitioner-Feats#backup-breaker-combat\|Backup Breaker]] | General | (Combat) | — | Boxing sphere, Dual Wielding sphere. | Polished Commander & Warleader |
-| [[Dual-Wielding-Sphere-Feats#harmonious-swordplay-combat\|Harmonious Swordplay]] | General | (combat) | — | Dual Wielding sphere, Improved Unarmed Strike. |  |
-
 ## Drawbacks (4)
 
 | Entry | Group | Tags | Options | Prerequisites | Source |
@@ -72,3 +65,10 @@ What the compendium extractor takes from the Dual Wielding pages (42 entries; ap
 | [[Dual-Wielding-Sphere-Drawbacks#dancer\|Dancer]] | Drawbacks |  | — | — |  |
 | [[Dual-Wielding-Sphere-Drawbacks#guarded-shooter\|Guarded Shooter]] | Drawbacks |  | — | — |  |
 | [[Dual-Wielding-Sphere-Drawbacks#versatile-weapon-wielder\|Versatile Weapon-Wielder]] | Drawbacks |  | — | — |  |
+
+## Feats (2)
+
+| Entry | Group | Tags | Options | Prerequisites | Source |
+| --- | --- | --- | --- | --- | --- |
+| [[Dual-Wielding-Sphere-Feats#harmonious-swordplay-combat\|Harmonious Swordplay]] | General | (combat) | — | Dual Wielding sphere, Improved Unarmed Strike. |  |
+| [[Combat-Feats#backup-breaker-combat\|Backup Breaker]] | General | (Combat) | — | Boxing sphere, Dual Wielding sphere. | Ultimate Spheres of Power |

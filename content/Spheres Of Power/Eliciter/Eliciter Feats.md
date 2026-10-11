@@ -88,6 +88,14 @@ When using Soul-Piercing Gaze, it is difficult for observers to detect the use o
 
 **Benefit:** You may apply any emotion power with ‘touch’ in the name to yourself as a move action instead of a standard action. Doing so does not provoke an attack of opportunity.
 
+#### Extra Empathy
+
+**Prerequisite:** Empathic link class feature.
+
+You gain 2 additional uses of empathic link per day.
+
+**Special:** This feat may be taken more than once; the benefits stack.
+
 ### Hypnotist Feats
 
 *For the [[Hypnotist|Hypnotist]] archetype.*

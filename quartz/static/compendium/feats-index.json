@@ -284,6 +284,20 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/extra-adaptation",
+  "name": "Extra Adaptation",
+  "system": "Champions",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Adaptation class feature.",
+  "source": "Champions of the Spheres",
+  "url": "Champions/Prodigy/Prodigy-Feats#extra-adaptation",
+  "summary": "Prerequisites: Adaptation class feature.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/extra-model",
   "name": "Extra Model",
   "system": "Champions",
@@ -2396,23 +2410,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/adrenaline-fueled-frenzy-combat",
-  "name": "Adrenaline-Fueled Frenzy",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [
-   "Berserker",
-   "Duelist"
-  ],
-  "prerequisites": "Berserker sphere (any (adrenaline) talent), Duelist sphere (Bloodied Shark’s Frenzy), base attack bonus +3.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#adrenaline-fueled-frenzy-combat",
-  "summary": "Whenever you enter a blood frenzy using the Bloodied Shark’s Frenzy talent, you may also gain the benefits of one (adrenaline) talent you possess for the blood…",
-  "file": "feats.json"
- },
- {
   "id": "feat/aerial-trip",
   "name": "Aerial Trip",
   "system": "Spheres of Might",
@@ -2441,23 +2438,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/backup-breaker-combat",
-  "name": "Backup Breaker",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [
-   "Boxing",
-   "Dual Wielding"
-  ],
-  "prerequisites": "Boxing sphere, Dual Wielding sphere.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#backup-breaker-combat",
-  "summary": "When you ready a counter punch to make a dual attack, you may make only the attack with your primary or off-hand weapon when your counter punch is triggered.",
-  "file": "feats.json"
- },
- {
   "id": "feat/bloodrunner",
   "name": "Bloodrunner",
   "system": "Spheres of Might",
@@ -2472,24 +2452,6 @@
   "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Might/Practitioner-Feats#bloodrunner",
   "summary": "Your body has grown a tolerance for the blood of others, and you have learned to use it to your advantage.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/booming-boast-combat-dual-sphere",
-  "name": "Booming Boast",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat",
-   "Dual Sphere"
-  ],
-  "spheres": [
-   "Gladiator",
-   "Warleader"
-  ],
-  "prerequisites": "Gladiator sphere, Warleader sphere ((shout) package).",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#booming-boast-combat-dual-sphere",
-  "summary": "Whenever you boast, you may instead shout.",
   "file": "feats.json"
  },
  {
@@ -2535,34 +2497,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/combat-sphere-focus-combat",
-  "name": "Combat Sphere Focus",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [],
-  "prerequisites": "",
-  "source": "Spheres Apocrypha: Banners",
-  "url": "Spheres-Of-Might/Practitioner-Feats#combat-sphere-focus-combat",
-  "summary": "Choose a combat sphere.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/combat-sphere-specialization-combat",
-  "name": "Combat Sphere Specialization",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [],
-  "prerequisites": "1 or more combat spheres.",
-  "source": "Spheres Apocrypha: Banners",
-  "url": "Spheres-Of-Might/Practitioner-Feats#combat-sphere-specialization-combat",
-  "summary": "Select one combat sphere you possess, you treat your base attack bonus as 1 higher for the purposes of its effects, but not for attacks made with talents from…",
-  "file": "feats.json"
- },
- {
   "id": "feat/consumptive-intuition",
   "name": "Consumptive Intuition",
   "system": "Spheres of Might",
@@ -2588,34 +2522,6 @@
   "source": "Spheres Apocrypha: Banners",
   "url": "Spheres-Of-Might/Practitioner-Feats#consumptive-mutation",
   "summary": "You may exchange one or more traits granted by Improved Transformation for any other traits you would qualify for whenever you consume a creature’s brain.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/craft-ooze-item-creation",
-  "name": "Craft Ooze (Item Creation)*",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Brew Potion, Craft Wondrous Item, Craft (alchemy) 3 ranks, caster level 5th.",
-  "source": "Spheres Apocrypha: Banners",
-  "url": "Spheres-Of-Might/Practitioner-Feats#craft-ooze-item-creation",
-  "summary": "You can create living oozes as though they were magical items.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/cultivate-ki-combat",
-  "name": "Cultivate Ki",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [],
-  "prerequisites": "Improved Unarmed Strike, base attack bonus +4, martial focus.",
-  "source": "Spheres Apocrypha: Banners",
-  "url": "Spheres-Of-Might/Practitioner-Feats#cultivate-ki-combat",
-  "summary": "You gain one ki power from the unchained monk’s list of ki powers, treating your base attack bonus as your unchained monk level and using your practitioner…",
   "file": "feats.json"
  },
  {
@@ -2647,20 +2553,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/determined-defense-combat",
-  "name": "Determined Defense",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [],
-  "prerequisites": "Combat Expertise.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#determined-defense-combat",
-  "summary": "When using the Combat Expertise feat, you do not suffer Combat Expertise’s penalty on melee attack rolls on the first attack you make each turn.",
-  "file": "feats.json"
- },
- {
   "id": "feat/dragons-tattoos",
   "name": "Dragon’s Tattoos",
   "system": "Spheres of Might",
@@ -2672,24 +2564,6 @@
   "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Might/Practitioner-Feats#dragons-tattoos",
   "summary": "You learn how to adorn yourself with the sacred tattoos that are said to have been first conceived by an ancient monk known only as “the Dragon”.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/drink-and-directive-combat-dual-sphere",
-  "name": "Drink and Directive",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat",
-   "Dual Sphere"
-  ],
-  "spheres": [
-   "Barroom",
-   "Warleader"
-  ],
-  "prerequisites": "Barroom sphere; Warleader sphere.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#drink-and-directive-combat-dual-sphere",
-  "summary": "You may use both hard drinker and engage tactics as part of the same action, using the longer of the two actions required.",
   "file": "feats.json"
  },
  {
@@ -2723,37 +2597,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/elemental-might-combat",
-  "name": "Elemental Might",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [],
-  "prerequisites": "Ability to maintain martial focus, base attack bonus +1.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#elemental-might-combat",
-  "summary": "Whenever you make an attack action or attack of opportunity, you may expend your martial focus and choose acid, cold, electricity, or fire.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/escutcheon-combat",
-  "name": "Escutcheon",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [
-   "Shield",
-   "Warleader"
-  ],
-  "prerequisites": "Shield sphere; Warleader sphere (Heraldry) or banner class feature.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#escutcheon-combat",
-  "summary": "When using your standard as a shield, you increase the radius of your Warleader sphere abilities by 5 feet, +5 feet per enhancement bonus of your shield.",
-  "file": "feats.json"
- },
- {
   "id": "feat/expanded-battlefield-specialty-plan",
   "name": "Expanded Battlefield Specialty",
   "system": "Spheres of Might",
@@ -2768,34 +2611,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/extend-stance-combat",
-  "name": "Extend Stance",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [],
-  "prerequisites": "Any (stance) talent.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#extend-stance-combat",
-  "summary": "Whenever you successfully damage a creature with an attack action, you may choose to extend the duration of one of your active (stance) talents by 1 round.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/flyby-attack-monster",
-  "name": "Flyby Attack (Monster)*",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Fly speed.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#flyby-attack-monster",
-  "summary": "When flying, the creature can take a move action and another standard action at any point during the move.",
-  "file": "feats.json"
- },
- {
   "id": "feat/focused-stamina",
   "name": "Focused Stamina",
   "system": "Spheres of Might",
@@ -2807,110 +2622,6 @@
   "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Might/Practitioner-Feats#focused-stamina",
   "summary": "Whenever you would expend your martial focus, you may instead spend 5 stamina points.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/forbidden-consumption-technique-combat",
-  "name": "Forbidden Consumption Technique",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [],
-  "prerequisites": "Base attack bonus +5.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#forbidden-consumption-technique-combat",
-  "summary": "Whenever you would expend martial focus, you may take 1 point of nonlethal damage per character level instead of expending your martial focus, to a limit of…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/giantslayer-combat",
-  "name": "Giantslayer (combat)*",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Con 13, base attack bonus +5.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#giantslayer-combat",
-  "summary": "When performing or resisting a combat maneuver against a foe who is at least 1 size category larger than yourself, you gain a bonus to your CMB and CMD equal…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/great-focus-combat",
-  "name": "Great Focus",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [],
-  "prerequisites": "2 or more combat spheres, base attack bonus +6 or higher.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#great-focus-combat",
-  "summary": "You may maintain a second martial focus.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/gunsmithing",
-  "name": "Gunsmithing*",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#gunsmithing",
-  "summary": "If you have access to a gunsmith’s kit, you can create and restore firearms, craft bullets, and mix black powder for all types of firearms.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/heroic-resolve-combat",
-  "name": "Heroic Resolve",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [],
-  "prerequisites": "Ability to gain martial focus, Constitution 13 or higher.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#heroic-resolve-combat",
-  "summary": "As a move action, you may expend focus to suppress a single instance of the dazzled, fatigued, shaken, or sickened condition for a number of rounds equal to…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/hunting-party-combat",
-  "name": "Hunting Party",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [
-   "Duelist",
-   "Warleader"
-  ],
-  "prerequisites": "Warleader sphere 5 associated skill ranks; Duelist sphere; Warleader sphere.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#hunting-party-combat",
-  "summary": "You and allies benefitting from your Warleader sphere effects gain a +2 bonus on critical confirmation rolls against bleeding targets and a +2 bonus on…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/mixed-coordinator-combat",
-  "name": "Mixed Coordinator",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [
-   "Beastmastery",
-   "Leadership"
-  ],
-  "prerequisites": "Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#mixed-coordinator-combat",
-  "summary": "Prerequisites: Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package.",
   "file": "feats.json"
  },
  {
@@ -2948,79 +2659,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/muscular-reflexes-combat",
-  "name": "Muscular Reflexes",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [],
-  "prerequisites": "",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#muscular-reflexes-combat",
-  "summary": "You may make a number of additional attacks of opportunity per round equal to your Strength bonus.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/perfect-calm-combat",
-  "name": "Perfect Calm",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [],
-  "prerequisites": "Martial focus.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#perfect-calm-combat",
-  "summary": "You can expend your martial focus as part of any single Will saving throw or concentration check you make.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/piranha-strike-combat",
-  "name": "Piranha Strike (combat)*",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Weapon Finesse, base attack bonus +1.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#piranha-strike-combat",
-  "summary": "When wielding a light weapon, you can choose to take a -1 penalty on all melee attack rolls and combat maneuver checks to gain a +2 bonus on all melee damage…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/pouncing-sweep-combat",
-  "name": "Pouncing Sweep",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [
-   "Athletics",
-   "Open Hand"
-  ],
-  "prerequisites": "Athletics sphere, Open Hand sphere.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#pouncing-sweep-combat",
-  "summary": "Whenever you use the sweep ability of the Open Hand sphere, you may move 5 feet immediately before performing the trip using any movement mode associated with…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/practiced-interruption-combat",
-  "name": "Practiced Interruption",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [],
-  "prerequisites": "Extra Combat Talent or combat training class feature, base attack bonus +5.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#practiced-interruption-combat",
-  "summary": "You may expend your martial focus to ready an attack action to disrupt a spell caster’s casting as a move action.",
-  "file": "feats.json"
- },
- {
   "id": "feat/rigorous-student",
   "name": "Rigorous Student",
   "system": "Spheres of Might",
@@ -3032,54 +2670,6 @@
   "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Might/Practitioner-Feats#rigorous-student",
   "summary": "Choose a class you have levels in.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/rolling-serpent-combat",
-  "name": "Rolling Serpent",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [
-   "Athletics",
-   "Boxing"
-  ],
-  "prerequisites": "Athletics sphere, Boxing sphere (Shoulder Roll).",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#rolling-serpent-combat",
-  "summary": "As long as you have martial focus, whenever a creature makes a melee attack against you while you are using a movement mode corresponding to a package you…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/style-synthesis-combat",
-  "name": "Style Synthesis",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [],
-  "prerequisites": "Any (stance) talent, any style feat.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#style-synthesis-combat",
-  "summary": "Whenever you spend an action to activate a (stance) talent, you may activate a style feat as part of that action.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/tactical-patrol-combat",
-  "name": "Tactical Patrol",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [
-   "Guardian",
-   "Warleader"
-  ],
-  "prerequisites": "Guardian sphere ((patrol) package); Warleader sphere ((tactic) package).",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#tactical-patrol-combat",
-  "summary": "Your tactic always includes the area of your patrol, even if you centered your tactic elsewhere.",
   "file": "feats.json"
  },
  {
@@ -3097,48 +2687,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/through-the-long-night-combat",
-  "name": "Through The Long Night",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [],
-  "prerequisites": "Heroic Resolve, ability to gain martial focus, Cha 15 or Con 15, good alignment.",
-  "source": "Polished Commander & Warleader",
-  "url": "Spheres-Of-Might/Practitioner-Feats#through-the-long-night-combat",
-  "summary": "When you activate heroic resolve and suppress a condition, you may instead suppress it for a number of rounds equal to the highest bonus between your Charisma…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/titan-breaker-combat",
-  "name": "Titan Breaker (combat)*",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Con 15, Giantslayer, base attack bonus +10.",
-  "source": "Spheres Apocrypha: Radiant and Righteous",
-  "url": "Spheres-Of-Might/Practitioner-Feats#titan-breaker-combat",
-  "summary": "The bonus granted by your Giantslayer feat when performing or resisting a combat maneuver against a foe who is at least 1 size category larger than yourself…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/two-weapon-rend-combat",
-  "name": "Two-Weapon Rend (combat)*",
-  "system": "Spheres of Might",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Dex 17, Double Slice, Improved Two-Weapon Fighting, Two-Weapon Fighting, base attack bonus +11.",
-  "source": "Spheres Apocrypha: Radiant and Righteous",
-  "url": "Spheres-Of-Might/Practitioner-Feats#two-weapon-rend-combat",
-  "summary": "If you hit an opponent with both your primary hand and your off-hand weapon, you deal an additional 1d10 points of damage plus 1-1/2 times your Strength…",
-  "file": "feats.json"
- },
- {
   "id": "feat/understand-thy-enemy",
   "name": "Understand Thy Enemy",
   "system": "Spheres of Might",
@@ -3150,23 +2698,9 @@
    "Scout"
   ],
   "prerequisites": "Fencing sphere (Read Foe, Parry And Riposte) or Fencing sphere (Read Foe) and opportune parry and riposte deed, Scout sphere.",
-  "source": "Spheres Apocrypha: Radiant and Righteous",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Might/Practitioner-Feats#understand-thy-enemy",
   "summary": "Whenever you scout a creature, the next parry and riposte you use against that creature does not cost martial focus, an attack of opportunity, or a panache…",
-  "file": "feats.json"
- },
- {
-  "id": "feat/unorthodox-unarmed-training-combat",
-  "name": "Unorthodox Unarmed Training",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [],
-  "prerequisites": "Improved Unarmed Strike, base attack bonus +4.",
-  "source": "Spheres Apocrypha: Swashbucklers",
-  "url": "Spheres-Of-Might/Practitioner-Feats#unorthodox-unarmed-training-combat",
-  "summary": "Choose two combat spheres that you possess that do not have Improved Unarmed Strike as an associated feat.",
   "file": "feats.json"
  },
  {
@@ -3195,23 +2729,6 @@
   "source": "Spheres Apocrypha: Swashbucklers",
   "url": "Spheres-Of-Might/Practitioner-Feats#versed-student",
   "summary": "Choose a class you have levels in.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/wiggling-footsies-combat",
-  "name": "Wiggling Footsies",
-  "system": "Spheres of Might",
-  "types": [
-   "Combat"
-  ],
-  "spheres": [
-   "Fencing",
-   "Scout"
-  ],
-  "prerequisites": "Fencing sphere (Footwork), Scout sphere (Calibrating Wiggle).",
-  "source": "Spheres Apocrypha: Swashbucklers",
-  "url": "Spheres-Of-Might/Practitioner-Feats#wiggling-footsies-combat",
-  "summary": "Whenever you use the Fencing sphere Footwork talent in response to an attack made against you, you may also scout the attacker.",
   "file": "feats.json"
  },
  {
@@ -7166,6 +6683,20 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/extra-empathy",
+  "name": "Extra Empathy",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Empathic link class feature.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Eliciter/Eliciter-Feats#extra-empathy",
+  "summary": "Prerequisite: Empathic link class feature.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/rigorous-defense",
   "name": "Rigorous Defense",
   "system": "Spheres of Power",
@@ -8602,80 +8133,6 @@
   "file": "feats.json"
  },
  {
-  "id": "feat/biochemical-brews",
-  "name": "Biochemical Brews",
-  "system": "Champions",
-  "types": [
-   "General"
-  ],
-  "spheres": [
-   "Alchemy",
-   "Barroom",
-   "Nature"
-  ],
-  "prerequisites": "Alchemy sphere ((toxin) package)); either the Barroom sphere or Nature sphere.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
-  "url": "Spheres-Of-Power/Feats/Champion-Feats#biochemical-brews",
-  "summary": "You gain the following benefits, depending on the spheres you possess:",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-adaptation",
-  "name": "Extra Adaptation",
-  "system": "Champions",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Adaptation class feature.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
-  "url": "Spheres-Of-Power/Feats/Champion-Feats#extra-adaptation",
-  "summary": "Prerequisites: Adaptation class feature.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-blended-training-talent-champion",
-  "name": "Extra Blended Training Talent",
-  "system": "Champions",
-  "types": [
-   "Champion"
-  ],
-  "spheres": [],
-  "prerequisites": "Casting class feature, martial focus.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
-  "url": "Spheres-Of-Power/Feats/Champion-Feats#extra-blended-training-talent-champion",
-  "summary": "You gain one additional magic or combat sphere, or one talent from a magic or combat sphere you possess.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/extra-empathy",
-  "name": "Extra Empathy",
-  "system": "Champions",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Empathic link class feature.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
-  "url": "Spheres-Of-Power/Feats/Champion-Feats#extra-empathy",
-  "summary": "Prerequisite: Empathic link class feature.",
-  "file": "feats.json"
- },
- {
-  "id": "feat/unarmored-mastery",
-  "name": "Unarmored Mastery",
-  "system": "Champions",
-  "types": [
-   "General"
-  ],
-  "spheres": [],
-  "prerequisites": "Unarmored Training, +8 base attack bonus or 8 ranks in Acrobatics.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
-  "url": "Spheres-Of-Power/Feats/Champion-Feats#unarmored-mastery",
-  "summary": "Prerequisites: Unarmored Training, +8 base attack bonus or 8 ranks in Acrobatics.",
-  "file": "feats.json"
- },
- {
   "id": "feat/arcane-carnage-champion-combat",
   "name": "Arcane Carnage",
   "system": "Champions",
@@ -8687,7 +8144,7 @@
    "Berserker"
   ],
   "prerequisites": "Berserker sphere (Advancing Carnage), Spell Attack, casting class feature; any talent with the strike descriptor",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "Spheres Apocrypha: Alchemy Poisons 2",
   "url": "Spheres-Of-Power/Feats/Champion-Feats#arcane-carnage-champion-combat",
   "summary": "When using the Spell Attack feat as a standard action and taking the -2 penalty to use Advancing Carnage, you may spend an additional spell point or increase…",
   "file": "feats.json"
@@ -8704,7 +8161,7 @@
    "Leadership"
   ],
   "prerequisites": "Casting and either Leadership sphere and Cohort Attack or Beastmastery sphere and Coordinated Attack.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "Spheres Apocrypha: Alchemy Poisons 2",
   "url": "Spheres-Of-Power/Feats/Champion-Feats#arcane-opening-champion",
   "summary": "Prerequisites: Casting and either Leadership sphere and Cohort Attack or Beastmastery sphere and Coordinated Attack.",
   "file": "feats.json"
@@ -8720,7 +8177,7 @@
    "Alchemy"
   ],
   "prerequisites": "Alchemy sphere, casting class feature.",
-  "source": "Diamond Spheres: Erudition & Esoterica",
+  "source": "Spheres Apocrypha: Alchemy Poisons 2",
   "url": "Spheres-Of-Power/Feats/Champion-Feats#arcane-venin",
   "summary": "You may choose for your poison to afflict creatures with a magical effect of your creation instead of making them fatigued.",
   "file": "feats.json"
@@ -9528,6 +8985,20 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/through-the-long-night-combat",
+  "name": "Through The Long Night",
+  "system": "Champions",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Heroic Resolve, ability to gain martial focus, Cha 15 or Con 15, good alignment.",
+  "source": "Spheres Apocrypha: Radiant and Righteous",
+  "url": "Spheres-Of-Power/Feats/Champion-Feats#through-the-long-night-combat",
+  "summary": "When you activate heroic resolve and suppress a condition, you may instead suppress it for a number of rounds equal to the highest bonus between your Charisma…",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/thunderbolts-and-lightning-very-very-frightening-champion",
   "name": "Thunderbolts And Lightning, Very Very Frightening",
   "system": "Champions",
@@ -9752,6 +9223,23 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/adrenaline-fueled-frenzy-combat",
+  "name": "Adrenaline-Fueled Frenzy",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [
+   "Berserker",
+   "Duelist"
+  ],
+  "prerequisites": "Berserker sphere (any (adrenaline) talent), Duelist sphere (Bloodied Shark’s Frenzy), base attack bonus +3.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#adrenaline-fueled-frenzy-combat",
+  "summary": "Whenever you enter a blood frenzy using the Bloodied Shark’s Frenzy talent, you may also gain the benefits of one (adrenaline) talent you possess for the blood…",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/aligned-attacks-combat",
   "name": "Aligned Attacks",
   "system": "Spheres of Power",
@@ -9825,6 +9313,41 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/backup-breaker-combat",
+  "name": "Backup Breaker",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [
+   "Boxing",
+   "Dual Wielding"
+  ],
+  "prerequisites": "Boxing sphere, Dual Wielding sphere.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#backup-breaker-combat",
+  "summary": "When you ready a counter punch to make a dual attack, you may make only the attack with your primary or off-hand weapon when your counter punch is triggered.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/booming-boast-combat-dual-sphere",
+  "name": "Booming Boast",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat",
+   "Dual Sphere"
+  ],
+  "spheres": [
+   "Gladiator",
+   "Warleader"
+  ],
+  "prerequisites": "Gladiator sphere, Warleader sphere ((shout) package).",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#booming-boast-combat-dual-sphere",
+  "summary": "Whenever you boast, you may instead shout.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/calculated-shot-combat",
   "name": "Calculated Shot",
   "system": "Spheres of Power",
@@ -9833,7 +9356,7 @@
   ],
   "spheres": [],
   "prerequisites": "Int 13, Focused Shot, Point-Blank Shot, Precise Shot.",
-  "source": "Ultimate Spheres of Power",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#calculated-shot-combat",
   "summary": "You may use Focused Shot with any ranged weapon, not just bows or crossbows.",
   "file": "feats.json"
@@ -9847,7 +9370,7 @@
   ],
   "spheres": [],
   "prerequisites": "Arcane Strike or Imbued Strike.",
-  "source": "Ultimate Spheres of Power",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#champions-strike-combat",
   "summary": "Your arcane strike or imbued strike is in effect at all times without you needing to take an action to activate it.",
   "file": "feats.json"
@@ -9861,9 +9384,37 @@
   ],
   "spheres": [],
   "prerequisites": "Tail natural attack, base attack bonus +6.",
-  "source": "Ultimate Spheres of Power",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#cherufe-sweep-combat",
   "summary": "When using your tail to make an attack of opportunity, you may make a free trip combat maneuver that does not provoke attacks of opportunity against a target…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/combat-sphere-focus-combat",
+  "name": "Combat Sphere Focus",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "",
+  "source": "The Player's Guide to Skybourne",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#combat-sphere-focus-combat",
+  "summary": "Choose a combat sphere.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/combat-sphere-specialization-combat",
+  "name": "Combat Sphere Specialization",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "1 or more combat spheres.",
+  "source": "The Player's Guide to Skybourne",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#combat-sphere-specialization-combat",
+  "summary": "Select one combat sphere you possess, you treat your base attack bonus as 1 higher for the purposes of its effects, but not for attacks made with talents from…",
   "file": "feats.json"
  },
  {
@@ -9882,6 +9433,20 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/cultivate-ki-combat",
+  "name": "Cultivate Ki",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Improved Unarmed Strike, base attack bonus +4, martial focus.",
+  "source": "The Player's Guide to Skybourne",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#cultivate-ki-combat",
+  "summary": "You gain one ki power from the unchained monk’s list of ki powers, treating your base attack bonus as your unchained monk level and using your practitioner…",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/desensitized-combat",
   "name": "Desensitized",
   "system": "Spheres of Power",
@@ -9893,6 +9458,20 @@
   "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#desensitized-combat",
   "summary": "Whenever you would take strain damage, that strain damage is reduced by 1 for every lesser severance you possess and by 3 for every greater severance you…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/determined-defense-combat",
+  "name": "Determined Defense",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Combat Expertise.",
+  "source": "The Player's Guide to Skybourne",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#determined-defense-combat",
+  "summary": "When using the Combat Expertise feat, you do not suffer Combat Expertise’s penalty on melee attack rolls on the first attack you make each turn.",
   "file": "feats.json"
  },
  {
@@ -9910,6 +9489,38 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/drink-and-directive-combat-dual-sphere",
+  "name": "Drink and Directive",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat",
+   "Dual Sphere"
+  ],
+  "spheres": [
+   "Barroom",
+   "Warleader"
+  ],
+  "prerequisites": "Barroom sphere; Warleader sphere.",
+  "source": "The Player's Guide to Skybourne",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#drink-and-directive-combat-dual-sphere",
+  "summary": "You may use both hard drinker and engage tactics as part of the same action, using the longer of the two actions required.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/elemental-might-combat",
+  "name": "Elemental Might",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Ability to maintain martial focus, base attack bonus +1.",
+  "source": "Polished Commander & Warleader",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#elemental-might-combat",
+  "summary": "Whenever you make an attack action or attack of opportunity, you may expend your martial focus and choose acid, cold, electricity, or fire.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/combat-feats/energy-snake-combat",
   "name": "Energy Snake",
   "system": "Spheres of Power",
@@ -9920,9 +9531,40 @@
    "Destruction"
   ],
   "prerequisites": "Destruction sphere (Energy Sphere (blast shape)).",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#energy-snake-combat",
   "summary": "When using the Energy Sphere blast shape, you may spend 2 spell points instead of 1 to form the energy sphere into a serpent, which grows with every target it…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/escutcheon-combat",
+  "name": "Escutcheon",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [
+   "Shield",
+   "Warleader"
+  ],
+  "prerequisites": "Shield sphere; Warleader sphere (Heraldry) or banner class feature.",
+  "source": "Polished Commander & Warleader",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#escutcheon-combat",
+  "summary": "When using your standard as a shield, you increase the radius of your Warleader sphere abilities by 5 feet, +5 feet per enhancement bonus of your shield.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/extend-stance-combat",
+  "name": "Extend Stance",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Any (stance) talent.",
+  "source": "Polished Commander & Warleader",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#extend-stance-combat",
+  "summary": "Whenever you successfully damage a creature with an attack action, you may choose to extend the duration of one of your active (stance) talents by 1 round.",
   "file": "feats.json"
  },
  {
@@ -9934,9 +9576,51 @@
   ],
   "spheres": [],
   "prerequisites": "Tail natural attack, base attack bonus +6.",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#flexible-tail-combat",
   "summary": "You may use your tail as a normal natural attack, and are no longer limited to only using it to make attacks of opportunity.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/forbidden-consumption-technique-combat",
+  "name": "Forbidden Consumption Technique",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Base attack bonus +5.",
+  "source": "The Player's Guide to Skybourne",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#forbidden-consumption-technique-combat",
+  "summary": "Whenever you would expend martial focus, you may take 1 point of nonlethal damage per character level instead of expending your martial focus, to a limit of…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/giantslayer-combat",
+  "name": "Giantslayer (combat)*",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Con 13, base attack bonus +5.",
+  "source": "The Player's Guide to Skybourne",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#giantslayer-combat",
+  "summary": "When performing or resisting a combat maneuver against a foe who is at least 1 size category larger than yourself, you gain a bonus to your CMB and CMD equal…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/great-focus-combat",
+  "name": "Great Focus",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "2 or more combat spheres, base attack bonus +6 or higher.",
+  "source": "The Player's Guide to Skybourne",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#great-focus-combat",
+  "summary": "You may maintain a second martial focus.",
   "file": "feats.json"
  },
  {
@@ -9968,6 +9652,37 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/heroic-resolve-combat",
+  "name": "Heroic Resolve",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Ability to gain martial focus, Constitution 13 or higher.",
+  "source": "The Player's Guide to Skybourne",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#heroic-resolve-combat",
+  "summary": "As a move action, you may expend focus to suppress a single instance of the dazzled, fatigued, shaken, or sickened condition for a number of rounds equal to…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/hunting-party-combat",
+  "name": "Hunting Party",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [
+   "Duelist",
+   "Warleader"
+  ],
+  "prerequisites": "Warleader sphere 5 associated skill ranks; Duelist sphere; Warleader sphere.",
+  "source": "The Player's Guide to Skybourne",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#hunting-party-combat",
+  "summary": "You and allies benefitting from your Warleader sphere effects gain a +2 bonus on critical confirmation rolls against bleeding targets and a +2 bonus on…",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/imbued-strike-combat",
   "name": "Imbued Strike",
   "system": "Spheres of Power",
@@ -9976,7 +9691,7 @@
   ],
   "spheres": [],
   "prerequisites": "Casting class feature, caster level 1st.",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#imbued-strike-combat",
   "summary": "As a swift action, you can imbue your weapons with a fraction of your power.",
   "file": "feats.json"
@@ -9992,7 +9707,7 @@
    "Destruction"
   ],
   "prerequisites": "Destruction sphere (Chain Blast (blast shape)).",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#improved-chain-blast-combat",
   "summary": "The number of targets you may select with Chain Blast improves to 1 + your caster level (minimum 3).",
   "file": "feats.json"
@@ -10006,7 +9721,7 @@
   ],
   "spheres": [],
   "prerequisites": "Casting class feature; any talent with the strike descriptor.",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#improved-spell-combat-combat",
   "summary": "When activating a magic sphere talent with the strike descriptor, you may spend a spell point to instead use the sphere effect in conjunction with making a…",
   "file": "feats.json"
@@ -10022,7 +9737,7 @@
    "Protection"
   ],
   "prerequisites": "Protection sphere, base attack bonus +1.",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#martial-aegis-combat",
   "summary": "When you create an aegis on yourself, you may use your base attack bonus as your caster level for the purpose of effect (but not duration).",
   "file": "feats.json"
@@ -10036,7 +9751,7 @@
   ],
   "spheres": [],
   "prerequisites": "Combat Stamina, base attack bonus +1.",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#martial-presence-combat",
   "summary": "Choose a basic totem from the War sphere (including totem of war).",
   "file": "feats.json"
@@ -10050,7 +9765,7 @@
   ],
   "spheres": [],
   "prerequisites": "Combat Stamina or a grit pool, ki pool, luck pool, or panache class feature; base attack bonus +1.",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#martial-reflexes-combat",
   "summary": "Choose a basic (rally) talent.",
   "file": "feats.json"
@@ -10066,7 +9781,7 @@
    "War"
   ],
   "prerequisites": "War sphere, base attack bonus +1.",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#martial-totem-combat",
   "summary": "When you create a totem, you may use your base attack bonus as your War caster level for purposes of effect (but not size or duration).",
   "file": "feats.json"
@@ -10080,7 +9795,7 @@
   ],
   "spheres": [],
   "prerequisites": "Combat Casting.",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#melee-caster-combat",
   "summary": "When using a magic sphere effect as (or as part of) a melee attack or melee touch attack, the casting does not provoke an attack of opportunity.",
   "file": "feats.json"
@@ -10096,9 +9811,40 @@
    "Mind"
   ],
   "prerequisites": "Mind sphere, caster level 5th.",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#mind-over-matter-combat",
   "summary": "When you take hit point damage and are not flat-footed against the damage’s source, you may choose to spend spell points as a free action (even when it is not…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/mixed-coordinator-combat",
+  "name": "Mixed Coordinator",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [
+   "Beastmastery",
+   "Leadership"
+  ],
+  "prerequisites": "Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package.",
+  "source": "Polished Commander & Warleader",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#mixed-coordinator-combat",
+  "summary": "Prerequisites: Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/muscular-reflexes-combat",
+  "name": "Muscular Reflexes",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "",
+  "source": "Polished Commander & Warleader",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#muscular-reflexes-combat",
+  "summary": "You may make a number of additional attacks of opportunity per round equal to your Strength bonus.",
   "file": "feats.json"
  },
  {
@@ -10110,7 +9856,7 @@
   ],
   "spheres": [],
   "prerequisites": "Casting class feature, base attack bonus +6.",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#mystic-assault-combat",
   "summary": "When making a full attack, you may spend a spell point to replace the first attack with any sphere ability or supernatural ability that can be used as a…",
   "file": "feats.json"
@@ -10124,9 +9870,23 @@
   ],
   "spheres": [],
   "prerequisites": "Mystic Assault.",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#mystic-assault-improved-combat",
   "summary": "You do not need to spend a spell point to use mystic assault.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/perfect-calm-combat",
+  "name": "Perfect Calm",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Martial focus.",
+  "source": "Polished Commander & Warleader",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#perfect-calm-combat",
+  "summary": "You can expend your martial focus as part of any single Will saving throw or concentration check you make.",
   "file": "feats.json"
  },
  {
@@ -10140,7 +9900,7 @@
    "Destruction"
   ],
   "prerequisites": "Destruction sphere (Energy Sphere (blast shape)).",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#perpetual-sphere-combat",
   "summary": "Whenever you successfully deal damage to a target with your energy sphere, increase its duration by 1 round.",
   "file": "feats.json"
@@ -10154,9 +9914,40 @@
   ],
   "spheres": [],
   "prerequisites": "Wis 13, base attack bonus +2.",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#pierce-the-veil-combat",
   "summary": "When attacking a target with a miss chance granted from a spell, sphere effect, supernatural or spell-like ability, you may take a penalty to your attack roll…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/pouncing-sweep-combat",
+  "name": "Pouncing Sweep",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [
+   "Athletics",
+   "Open Hand"
+  ],
+  "prerequisites": "Athletics sphere, Open Hand sphere.",
+  "source": "Polished Commander & Warleader",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#pouncing-sweep-combat",
+  "summary": "Whenever you use the sweep ability of the Open Hand sphere, you may move 5 feet immediately before performing the trip using any movement mode associated with…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/practiced-interruption-combat",
+  "name": "Practiced Interruption",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Extra Combat Talent or combat training class feature, base attack bonus +5.",
+  "source": "Polished Commander & Warleader",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#practiced-interruption-combat",
+  "summary": "You may expend your martial focus to ready an attack action to disrupt a spell caster’s casting as a move action.",
   "file": "feats.json"
  },
  {
@@ -10170,7 +9961,7 @@
    "Warp"
   ],
   "prerequisites": "Warp sphere (Mass Teleport [mass], Portal (advanced), Wormhole (space)), caster level 5th.",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#portal-combat-combat",
   "summary": "You can use portals you create in a variety of offensive and defensive ways depending on what other abilities you have.",
   "file": "feats.json"
@@ -10186,7 +9977,7 @@
    "Mind"
   ],
   "prerequisites": "Mind sphere, Improved Unarmed Strike.",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#pressure-point-proficiency-combat",
   "summary": "By studying precisely where and how to strike your enemies, you can interrupt the biological processes that contribute to mental stability.",
   "file": "feats.json"
@@ -10202,7 +9993,7 @@
    "Mind"
   ],
   "prerequisites": "Mind sphere, Improved Unarmed Strike, Pressure Point Proficiency, character level 5th.",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#pressure-point-pugilist-combat",
   "summary": "The penalty from Pressure Point Proficiency increases to -2 if you successfully hit the target a second time in the same round.",
   "file": "feats.json"
@@ -10218,7 +10009,7 @@
    "Destruction"
   ],
   "prerequisites": "Destruction sphere, destructive blade class feature.",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#reach-blade-combat",
   "summary": "Your destructive blade may be shaped with the reach property.",
   "file": "feats.json"
@@ -10232,9 +10023,26 @@
   ],
   "spheres": [],
   "prerequisites": "Combat Expertise.",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#resolute-expertise-combat",
   "summary": "Whenever you are benefiting from a dodge bonus to AC from Combat Expertise, you also gain a +1 competence bonus to saving throws.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/rolling-serpent-combat",
+  "name": "Rolling Serpent",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [
+   "Athletics",
+   "Boxing"
+  ],
+  "prerequisites": "Athletics sphere, Boxing sphere (Shoulder Roll).",
+  "source": "Polished Commander & Warleader",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#rolling-serpent-combat",
+  "summary": "As long as you have martial focus, whenever a creature makes a melee attack against you while you are using a movement mode corresponding to a package you…",
   "file": "feats.json"
  },
  {
@@ -10246,7 +10054,7 @@
   ],
   "spheres": [],
   "prerequisites": "Proficiency with at least 1 siege engine.",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#siege-engineer-combat",
   "summary": "You are considered proficient with all siege engines, and no longer suffer a chance of misfire when rolling a 1 with a siege engine.",
   "file": "feats.json"
@@ -10296,6 +10104,20 @@
   "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#spell-absorption-combat-counterspell",
   "summary": "When counterspelling an effect that would affect you and only you, you may roll twice and take the higher result on the magic skill check to counterspell.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/style-synthesis-combat",
+  "name": "Style Synthesis",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Any (stance) talent, any style feat.",
+  "source": "The Player's Guide to Skybourne",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#style-synthesis-combat",
+  "summary": "Whenever you spend an action to activate a (stance) talent, you may activate a style feat as part of that action.",
   "file": "feats.json"
  },
  {
@@ -10359,6 +10181,23 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/tactical-patrol-combat",
+  "name": "Tactical Patrol",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [
+   "Guardian",
+   "Warleader"
+  ],
+  "prerequisites": "Guardian sphere ((patrol) package); Warleader sphere ((tactic) package).",
+  "source": "The Player's Guide to Skybourne",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#tactical-patrol-combat",
+  "summary": "Your tactic always includes the area of your patrol, even if you centered your tactic elsewhere.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/combat-feats/technique-crafting-combat",
   "name": "Technique Crafting",
   "system": "Spheres of Power",
@@ -10367,7 +10206,7 @@
   ],
   "spheres": [],
   "prerequisites": "",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#technique-crafting-combat",
   "summary": "You gain the ability to create techniques, as per the technique rules.",
   "file": "feats.json"
@@ -10381,7 +10220,7 @@
   ],
   "spheres": [],
   "prerequisites": "Base attack bonus +5 or monk 3, Tentacle Novice, Improved Unarmed Strike.",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Polished Commander & Warleader",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#tentacle-adept-combat",
   "summary": "Increase the reach of any attacks you make with your tentacles by +5 feet.",
   "file": "feats.json"
@@ -10430,6 +10269,20 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/titan-breaker-combat",
+  "name": "Titan Breaker (combat)*",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Con 15, Giantslayer, base attack bonus +10.",
+  "source": "Spheres Apocrypha: Radiant and Righteous",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#titan-breaker-combat",
+  "summary": "The bonus granted by your Giantslayer feat when performing or resisting a combat maneuver against a foe who is at least 1 size category larger than yourself…",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/totem-tactics-combat",
   "name": "Totem Tactics",
   "system": "Spheres of Power",
@@ -10440,7 +10293,7 @@
    "War"
   ],
   "prerequisites": "War sphere.",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Spheres Apocrypha: Radiant and Righteous",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#totem-tactics-combat",
   "summary": "Allies inside any of your totems or sharing a mandate with you are treated as if they possessed the same teamwork feats as you for the purpose of determining…",
   "file": "feats.json"
@@ -10456,7 +10309,7 @@
    "War"
   ],
   "prerequisites": "War sphere, Combat Stamina.",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Spheres Apocrypha: Radiant and Righteous",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#totemic-stamina-combat",
   "summary": "When you create a totem or mandate, you may spend a stamina point each round to maintain it as a free action.",
   "file": "feats.json"
@@ -10470,7 +10323,7 @@
   ],
   "spheres": [],
   "prerequisites": "Str 15, Power Attack, base attack bonus +3.",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Spheres Apocrypha: Radiant and Righteous",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#two-handed-fighting-combat",
   "summary": "When wielding a non-light manufactured weapon in two hands, increase your Strength bonus on damage rolls by an additional 1/2-times your Strength bonus…",
   "file": "feats.json"
@@ -10484,7 +10337,7 @@
   ],
   "spheres": [],
   "prerequisites": "Str 17, Power Attack, Two-Handed Fighting, base attack bonus +6.",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Spheres Apocrypha: Radiant and Righteous",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#two-handed-fighting-improved-combat",
   "summary": "When using the Two-Handed Fighting feat, increase your Strength bonus on damage rolls by an additional 1/2-times your Strength bonus on your first attack made…",
   "file": "feats.json"
@@ -10498,7 +10351,7 @@
   ],
   "spheres": [],
   "prerequisites": "Str 19, Power Attack, Two-Handed Fighting, Improved Two-Handed Fighting, base attack bonus +11.",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Spheres Apocrypha: Radiant and Righteous",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#two-handed-fighting-greater-combat",
   "summary": "When using the Two-Handed Fighting feat, increase your Strength bonus on damage rolls by an additional 1/2-times your Strength bonus on your first attack made…",
   "file": "feats.json"
@@ -10512,9 +10365,23 @@
   ],
   "spheres": [],
   "prerequisites": "Str 23, Power Attack, Two-Handed Fighting, Improved Two-Handed Fighting, Greater Two-Handed Fighting, base attack bonus +21.",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Spheres Apocrypha: Radiant and Righteous",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#two-handed-fighting-perfect-combat",
   "summary": "When using the Two-Handed Fighting feat, increase your Strength bonus on damage rolls by an additional 1-times your Strength bonus on your first attack made…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/unorthodox-unarmed-training-combat",
+  "name": "Unorthodox Unarmed Training",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [],
+  "prerequisites": "Improved Unarmed Strike, base attack bonus +4.",
+  "source": "Spheres Apocrypha: Radiant and Righteous",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#unorthodox-unarmed-training-combat",
+  "summary": "Choose two combat spheres that you possess that do not have Improved Unarmed Strike as an associated feat.",
   "file": "feats.json"
  },
  {
@@ -10526,7 +10393,7 @@
   ],
   "spheres": [],
   "prerequisites": "Three or more arms, base attack bonus +6, Dexterity 13, Two-Weapon Fighting.",
-  "source": "The Player's Guide to Skybourne",
+  "source": "Spheres Apocrypha: Radiant and Righteous",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#unreasonable-coordination-combat",
   "summary": "When two-weapon fighting, you may treat an additional hand as an off-hand, allowing you to make an additional off-hand attack with that hand whenever you make…",
   "file": "feats.json"
@@ -10605,6 +10472,23 @@
   "source": "The Player's Guide to Skybourne",
   "url": "Spheres-Of-Power/Feats/Combat-Feats#weird-motion-combat",
   "summary": "Add your casting ability modifier as a circumstance bonus to AC against attacks of opportunity incurred when charging or making ranged attacks.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/wiggling-footsies-combat",
+  "name": "Wiggling Footsies",
+  "system": "Spheres of Power",
+  "types": [
+   "Combat"
+  ],
+  "spheres": [
+   "Fencing",
+   "Scout"
+  ],
+  "prerequisites": "Fencing sphere (Footwork), Scout sphere (Calibrating Wiggle).",
+  "source": "The Player's Guide to Skybourne",
+  "url": "Spheres-Of-Power/Feats/Combat-Feats#wiggling-footsies-combat",
+  "summary": "Whenever you use the Fencing sphere Footwork talent in response to an attack made against you, you may also scout the attacker.",
   "file": "feats.json"
  },
  {
@@ -11693,6 +11577,20 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/extra-blended-training-talent-champion",
+  "name": "Extra Blended Training Talent",
+  "system": "Spheres of Power",
+  "types": [
+   "Champion"
+  ],
+  "spheres": [],
+  "prerequisites": "Casting class feature, martial focus.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Feats/Extra-Feats#extra-blended-training-talent-champion",
+  "summary": "You gain one additional magic or combat sphere, or one talent from a magic or combat sphere you possess.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/extra-combat-talent-combat",
   "name": "Extra Combat Talent",
   "system": "Spheres of Power",
@@ -11917,6 +11815,24 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/biochemical-brews",
+  "name": "Biochemical Brews",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [
+   "Alchemy",
+   "Barroom",
+   "Nature"
+  ],
+  "prerequisites": "Alchemy sphere ((toxin) package)); either the Barroom sphere or Nature sphere.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Feats/General-Feats#biochemical-brews",
+  "summary": "You gain the following benefits, depending on the spheres you possess:",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/cantrips",
   "name": "Cantrips",
   "system": "Spheres of Power",
@@ -11925,7 +11841,7 @@
   ],
   "spheres": [],
   "prerequisites": "Basic Magic Training or casting class feature.",
-  "source": "Ultimate Spheres of Power",
+  "source": "Diamond Spheres: Erudition & Esoterica",
   "url": "Spheres-Of-Power/Feats/General-Feats#cantrips",
   "summary": "You can create a variety of small magical effects.",
   "file": "feats.json"
@@ -11939,7 +11855,7 @@
   ],
   "spheres": [],
   "prerequisites": "Basic Magic Training or casting class feature, Cantrips.",
-  "source": "Ultimate Spheres of Power",
+  "source": "Diamond Spheres: Erudition & Esoterica",
   "url": "Spheres-Of-Power/Feats/General-Feats#cantrips-improved",
   "summary": "You can create a larger variety of small magical effects.",
   "file": "feats.json"
@@ -11953,7 +11869,7 @@
   ],
   "spheres": [],
   "prerequisites": "Character level 3rd.",
-  "source": "Ultimate Spheres of Power",
+  "source": "Diamond Spheres: Erudition & Esoterica",
   "url": "Spheres-Of-Power/Feats/General-Feats#catnip-connoisseur",
   "summary": "Whenever you consume a drug and succeed at your saving throw to avoid addiction, you do not suffer ability damage from that drug.",
   "file": "feats.json"
@@ -11967,7 +11883,7 @@
   ],
   "spheres": [],
   "prerequisites": "3 ranks in any 1 skill.",
-  "source": "Ultimate Spheres of Power",
+  "source": "Diamond Spheres: Erudition & Esoterica",
   "url": "Spheres-Of-Power/Feats/General-Feats#cautious-incantation",
   "summary": "Choose a skill that you have at least 3 ranks in.",
   "file": "feats.json"
@@ -11981,7 +11897,7 @@
   ],
   "spheres": [],
   "prerequisites": "Casting class feature, magic skill bonus +10.",
-  "source": "Ultimate Spheres of Power",
+  "source": "Diamond Spheres: Erudition & Esoterica",
   "url": "Spheres-Of-Power/Feats/General-Feats#circle-casting",
   "summary": "You may assist another spellcaster who also possesses this feat, granting them a temporary +1 bonus to their caster level, as well as granting them access to…",
   "file": "feats.json"
@@ -11995,7 +11911,7 @@
   ],
   "spheres": [],
   "prerequisites": "3rd level.",
-  "source": "Ultimate Spheres of Power",
+  "source": "Diamond Spheres: Erudition & Esoterica",
   "url": "Spheres-Of-Power/Feats/General-Feats#commanding-presence-general",
   "summary": "A creature with this feat can command two crews at once rather than just one.",
   "file": "feats.json"
@@ -12920,6 +12836,34 @@
   "file": "feats.json"
  },
  {
+  "id": "feat/unarmored-mastery",
+  "name": "Unarmored Mastery",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Unarmored Training, +8 base attack bonus or 8 ranks in Acrobatics.",
+  "source": "The Player's Guide to Skybourne",
+  "url": "Spheres-Of-Power/Feats/General-Feats#unarmored-mastery",
+  "summary": "Prerequisites: Unarmored Training, +8 base attack bonus or 8 ranks in Acrobatics.",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/general-feats/versed-student",
+  "name": "Versed Student",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "",
+  "source": "The Player's Guide to Skybourne",
+  "url": "Spheres-Of-Power/Feats/General-Feats#versed-student",
+  "summary": "Choose a class you have levels in.",
+  "file": "feats.json"
+ },
+ {
   "id": "feat/vigilant-skeptic",
   "name": "Vigilant Skeptic",
   "system": "Spheres of Power",
@@ -13057,6 +13001,20 @@
   "source": "Ultimate Spheres of Power",
   "url": "Spheres-Of-Power/Feats/Item-Creation-Feats#craft-marvelous-item-replaces-craft-wondrous-item-item-creation",
   "summary": "A marvelous item is a device that produces a magical effect that must be activated (usually activated as a standard action) often through the touch of a…",
+  "file": "feats.json"
+ },
+ {
+  "id": "feat/craft-ooze-item-creation",
+  "name": "Craft Ooze (Item Creation)*",
+  "system": "Spheres of Power",
+  "types": [
+   "General"
+  ],
+  "spheres": [],
+  "prerequisites": "Brew Potion, Craft Wondrous Item, Craft (alchemy) 3 ranks, caster level 5th.",
+  "source": "Ultimate Spheres of Power",
+  "url": "Spheres-Of-Power/Feats/Item-Creation-Feats#craft-ooze-item-creation",
+  "summary": "You can create living oozes as though they were magical items.",
   "file": "feats.json"
  },
  {

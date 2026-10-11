@@ -1157,109 +1157,6 @@
    "options": []
   },
   {
-   "id": "warleader/booming-boast-combat-dual-sphere",
-   "name": "Booming Boast",
-   "kind": "feat",
-   "sphere": "Warleader",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [
-    "Combat",
-    "Dual Sphere"
-   ],
-   "talentTags": [],
-   "prerequisites": "Gladiator sphere, Warleader sphere ((shout) package).",
-   "source": "Polished Commander & Warleader",
-   "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#booming-boast-combat-dual-sphere",
-   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*Confident and loud.*\n\n**Prerequisites:** Gladiator sphere, Warleader sphere ((shout) package).\n\n**Benefit:** Whenever you *boast*, you may instead *shout*. Enemies affected by your *shouts* are treated as being demoralized for the purposes of your Gladiator (demoralization) talents.",
-   "options": []
-  },
-  {
-   "id": "warleader/drink-and-directive-combat-dual-sphere",
-   "name": "Drink and Directive",
-   "kind": "feat",
-   "sphere": "Warleader",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [
-    "Combat",
-    "Dual Sphere"
-   ],
-   "talentTags": [],
-   "prerequisites": "Barroom sphere; Warleader sphere.",
-   "source": "Polished Commander & Warleader",
-   "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#drink-and-directive-combat-dual-sphere",
-   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*The second afternoon scotch was rarely questioned by the men. Despite the slurred speech, his tactical prowess seemed sharper than ever.*\n\n**Prerequisites:** Barroom sphere; Warleader sphere.\n\n**Benefit:** You may use both *hard drinker* and *engage tactics* as part of the same action, using the longer of the two actions required.\n\nIn addition, you gain the following option:",
-   "options": []
-  },
-  {
-   "id": "warleader/escutcheon-combat",
-   "name": "Escutcheon",
-   "kind": "feat",
-   "sphere": "Warleader",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [
-    "Combat"
-   ],
-   "talentTags": [],
-   "prerequisites": "Shield sphere; Warleader sphere (Heraldry) or banner class feature.",
-   "source": "Polished Commander & Warleader",
-   "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#escutcheon-combat",
-   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*A shield can guard a body. Yours guards an army.*\n\n**Prerequisites:** Shield sphere; Warleader sphere (Heraldry) or banner class feature.\n\n**Benefit:** When using your standard as a shield, you increase the radius of your Warleader sphere abilities by 5 feet, +5 feet per enhancement bonus of your shield.\n\nIn addition, you gain the following option:",
-   "options": [
-    {
-     "name": "Clangorous Shout",
-     "tags": [
-      "deflect",
-      "dual sphere"
-     ],
-     "talentTags": [],
-     "anchor": "clangorous-shout-deflect-dual-sphere",
-     "md": "**Effect:** When an attack misses a creature benefitting from your *active defense*, you *shout*. A *shout* performed this way only affects a single target within range. If the chosen (shout) affects enemies, you must target the attacking creature that missed."
-    }
-   ]
-  },
-  {
-   "id": "warleader/hunting-party-combat",
-   "name": "Hunting Party",
-   "kind": "feat",
-   "sphere": "Warleader",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [
-    "Combat"
-   ],
-   "talentTags": [],
-   "prerequisites": "Warleader sphere 5 associated skill ranks; Duelist sphere; Warleader sphere.",
-   "source": "Polished Commander & Warleader",
-   "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#hunting-party-combat",
-   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*Blood draws a crowd, and a crowd draws blood.*\n\n**Prerequisites:** Warleader sphere 5 associated skill ranks; Duelist sphere; Warleader sphere.\n\n**Benefit:** You and allies benefitting from your Warleader sphere effects gain a +2 bonus on critical confirmation rolls against bleeding targets and a +2 bonus on Perception and Survival checks made against bleeding targets. These bonuses increase to +4 at 10 associated skill ranks.\n\nIn addition, you gain the following option:",
-   "options": []
-  },
-  {
-   "id": "warleader/tactical-patrol-combat",
-   "name": "Tactical Patrol",
-   "kind": "feat",
-   "sphere": "Warleader",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [
-    "Combat"
-   ],
-   "talentTags": [],
-   "prerequisites": "Guardian sphere ((patrol) package); Warleader sphere ((tactic) package).",
-   "source": "Polished Commander & Warleader",
-   "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#tactical-patrol-combat",
-   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n**Prerequisites:** Guardian sphere ((patrol) package); Warleader sphere ((tactic) package).\n\n**Benefit:** Your *tactic* always includes the area of your *patrol*, even if you centered your *tactic* elsewhere.\n\nIn addition, you gain the following option:\n\n- **Engaging Patrol (dual sphere):** Whenever you *patrol*, you may *engage tactics* as part of that same action. If you do, instead of selecting a (zone) talent, you may select an additional (tactic); the chosen (tactic)'s *tactical presence* and *tactical coordination* apply to the area of your patrol.",
-   "options": []
-  },
-  {
    "id": "warleader/amateur-field-officer",
    "name": "Amateur Field Officer",
    "kind": "feat",
@@ -1397,6 +1294,109 @@
    "status": "current",
    "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Feats#tacticians-acumen-combat",
    "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*Your intricate plans come into motion faster.*\n\n**Prerequisites:** Warleader sphere ((tactic) package); see text.\n\n**Benefit:** You gain the following benefits based on the following class features you possess:\n\n- **Warleader (Heraldry) or Banner class feature:** Allies benefitting from your *tactic* are always considered to be within range of and able to see your banner, including for when you wave your banner.\n- **Tactician class feature:** When you use your tactician ability, you may also *engage tactics* as part of that same action. In addition, an ally benefitting from your tactician ability benefits from your *tactic*'s *tactical presence*, even if they would not be within range.",
+   "options": []
+  },
+  {
+   "id": "warleader/booming-boast-combat-dual-sphere",
+   "name": "Booming Boast",
+   "kind": "feat",
+   "sphere": "Warleader",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [
+    "Combat",
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Gladiator sphere, Warleader sphere ((shout) package).",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Feats/Combat-Feats#booming-boast-combat-dual-sphere",
+   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*Confident and loud.*\n\n**Prerequisites:** Gladiator sphere, Warleader sphere ((shout) package).\n\n**Benefit:** Whenever you *boast*, you may instead *shout*. Enemies affected by your *shouts* are treated as being demoralized for the purposes of your Gladiator (demoralization) talents.",
+   "options": []
+  },
+  {
+   "id": "warleader/drink-and-directive-combat-dual-sphere",
+   "name": "Drink and Directive",
+   "kind": "feat",
+   "sphere": "Warleader",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [
+    "Combat",
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Barroom sphere; Warleader sphere.",
+   "source": "The Player's Guide to Skybourne",
+   "status": "current",
+   "url": "Spheres-Of-Power/Feats/Combat-Feats#drink-and-directive-combat-dual-sphere",
+   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*The second afternoon scotch was rarely questioned by the men. Despite the slurred speech, his tactical prowess seemed sharper than ever.*\n\n**Prerequisites:** Barroom sphere; Warleader sphere.\n\n**Benefit:** You may use both *hard drinker* and *engage tactics* as part of the same action, using the longer of the two actions required.\n\nIn addition, you gain the following option:",
+   "options": []
+  },
+  {
+   "id": "warleader/escutcheon-combat",
+   "name": "Escutcheon",
+   "kind": "feat",
+   "sphere": "Warleader",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Shield sphere; Warleader sphere (Heraldry) or banner class feature.",
+   "source": "Polished Commander & Warleader",
+   "status": "current",
+   "url": "Spheres-Of-Power/Feats/Combat-Feats#escutcheon-combat",
+   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*A shield can guard a body. Yours guards an army.*\n\n**Prerequisites:** Shield sphere; Warleader sphere (Heraldry) or banner class feature.\n\n**Benefit:** When using your standard as a shield, you increase the radius of your Warleader sphere abilities by 5 feet, +5 feet per enhancement bonus of your shield.\n\nIn addition, you gain the following option:",
+   "options": [
+    {
+     "name": "Clangorous Shout",
+     "tags": [
+      "deflect",
+      "dual sphere"
+     ],
+     "talentTags": [],
+     "anchor": "clangorous-shout-deflect-dual-sphere",
+     "md": "**Effect:** When an attack misses a creature benefitting from your *active defense*, you *shout*. A *shout* performed this way only affects a single target within range. If the chosen (shout) affects enemies, you must target the attacking creature that missed."
+    }
+   ]
+  },
+  {
+   "id": "warleader/hunting-party-combat",
+   "name": "Hunting Party",
+   "kind": "feat",
+   "sphere": "Warleader",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Warleader sphere 5 associated skill ranks; Duelist sphere; Warleader sphere.",
+   "source": "The Player's Guide to Skybourne",
+   "status": "current",
+   "url": "Spheres-Of-Power/Feats/Combat-Feats#hunting-party-combat",
+   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*Blood draws a crowd, and a crowd draws blood.*\n\n**Prerequisites:** Warleader sphere 5 associated skill ranks; Duelist sphere; Warleader sphere.\n\n**Benefit:** You and allies benefitting from your Warleader sphere effects gain a +2 bonus on critical confirmation rolls against bleeding targets and a +2 bonus on Perception and Survival checks made against bleeding targets. These bonuses increase to +4 at 10 associated skill ranks.\n\nIn addition, you gain the following option:",
+   "options": []
+  },
+  {
+   "id": "warleader/tactical-patrol-combat",
+   "name": "Tactical Patrol",
+   "kind": "feat",
+   "sphere": "Warleader",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Guardian sphere ((patrol) package); Warleader sphere ((tactic) package).",
+   "source": "The Player's Guide to Skybourne",
+   "status": "current",
+   "url": "Spheres-Of-Power/Feats/Combat-Feats#tactical-patrol-combat",
+   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n**Prerequisites:** Guardian sphere ((patrol) package); Warleader sphere ((tactic) package).\n\n**Benefit:** Your *tactic* always includes the area of your *patrol*, even if you centered your *tactic* elsewhere.\n\nIn addition, you gain the following option:\n\n- **Engaging Patrol (dual sphere):** Whenever you *patrol*, you may *engage tactics* as part of that same action. If you do, instead of selecting a (zone) talent, you may select an additional (tactic); the chosen (tactic)'s *tactical presence* and *tactical coordination* apply to the area of your patrol.",
    "options": []
   }
  ]

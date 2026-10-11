@@ -924,24 +924,6 @@
    "options": []
   },
   {
-   "id": "beastmastery/mixed-coordinator-combat",
-   "name": "Mixed Coordinator",
-   "kind": "feat",
-   "sphere": "Beastmastery",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [
-    "combat"
-   ],
-   "talentTags": [],
-   "prerequisites": "Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package.",
-   "source": "Polished Commander & Warleader",
-   "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#mixed-coordinator-combat",
-   "md": "**Prerequisites:** Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package.\n\nWhen you tame a creature or recruit a cohort, you may choose to have its Hit Dice count against both your tame and recruit limits. When doing so, the creature counts as both an animal ally and a cohort for the purpose of talents that grant actions to or are triggered by cohorts and animal allies.",
-   "options": []
-  },
-  {
    "id": "beastmastery/mounted-athlete",
    "name": "Mounted Athlete",
    "kind": "feat",
@@ -985,7 +967,7 @@
    ],
    "talentTags": [],
    "prerequisites": "Casting and either Leadership sphere and Cohort Attack or Beastmastery sphere and Coordinated Attack.",
-   "source": "Diamond Spheres: Erudition & Esoterica",
+   "source": "Spheres Apocrypha: Alchemy Poisons 2",
    "status": "current",
    "url": "Spheres-Of-Power/Feats/Champion-Feats#arcane-opening-champion",
    "md": "**Prerequisites:** Casting and either Leadership sphere and Cohort Attack or Beastmastery sphere and Coordinated Attack.\n\nWhen dealing damage with a sphere effect or when a hostile creature fails a saving throw against a sphere effect that you cast with a casting time of at least 1 standard action, you may treat that sphere effect as an attack action for the purpose of using Cohort Attack or Coordinated Attack.",
@@ -1193,6 +1175,24 @@
    "status": "current",
    "url": "Spheres-Of-Might/Beastmastery/Beastmastery-Sphere-Feats#vermin-master",
    "md": "**Prerequisites:** Beastmastery sphere (Bee Keeper), able to tame creatures of the vermin type.\n\n**Benefit:** Swarms and creatures of the vermin type no longer count as twice their Hit Dice against the total amount of Hit Dice you may have tame at once.",
+   "options": []
+  },
+  {
+   "id": "beastmastery/mixed-coordinator-combat",
+   "name": "Mixed Coordinator",
+   "kind": "feat",
+   "sphere": "Beastmastery",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [
+    "combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package.",
+   "source": "Polished Commander & Warleader",
+   "status": "current",
+   "url": "Spheres-Of-Power/Feats/Combat-Feats#mixed-coordinator-combat",
+   "md": "**Prerequisites:** Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package.\n\nWhen you tame a creature or recruit a cohort, you may choose to have its Hit Dice count against both your tame and recruit limits. When doing so, the creature counts as both an animal ally and a cohort for the purpose of talents that grant actions to or are triggered by cohorts and animal allies.",
    "options": []
   }
  ]

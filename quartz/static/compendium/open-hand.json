@@ -744,24 +744,6 @@
    "options": []
   },
   {
-   "id": "open-hand/pouncing-sweep-combat",
-   "name": "Pouncing Sweep",
-   "kind": "feat",
-   "sphere": "Open Hand",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [
-    "combat"
-   ],
-   "talentTags": [],
-   "prerequisites": "Athletics sphere, Open Hand sphere.",
-   "source": "Polished Commander & Warleader",
-   "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#pouncing-sweep-combat",
-   "md": "**Prerequisites:** Athletics sphere, Open Hand sphere.\n\n**Benefits:** Whenever you use the sweep ability of the Open Hand sphere, you may move 5 feet immediately before performing the trip using any movement mode associated with Athletics sphere packages you possess. This movement provokes attacks of opportunity as normal. At +6 base attack bonus and every 5 base attack bonus higher, you may add up to +5 feet of movement to the sweep.",
-   "options": []
-  },
-  {
    "id": "open-hand/capoeirista-champion",
    "name": "Capoeirista",
    "kind": "feat",
@@ -876,6 +858,24 @@
    "status": "current",
    "url": "Spheres-Of-Might/Open-Hand/Open-Hand-Sphere-Drawbacks#soft-style",
    "md": "The Open Hand sphere does not grant increased unarmed damage, confer the benefits of Improved Unarmed Strike, or count as a sphere focused on unarmed combat. You do not treat Improved Unarmed Strike as an associated feat, and cannot select this drawback if you gained the Open Hand sphere instead of gaining Improved Unarmed Strike. You gain Greater Trip with this drawback.\n\n**Incompatible:** Closed Hand, Enlightened Focus, Hardened Palm, Savage Combatant",
+   "options": []
+  },
+  {
+   "id": "open-hand/pouncing-sweep-combat",
+   "name": "Pouncing Sweep",
+   "kind": "feat",
+   "sphere": "Open Hand",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [
+    "combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Athletics sphere, Open Hand sphere.",
+   "source": "Polished Commander & Warleader",
+   "status": "current",
+   "url": "Spheres-Of-Power/Feats/Combat-Feats#pouncing-sweep-combat",
+   "md": "**Prerequisites:** Athletics sphere, Open Hand sphere.\n\n**Benefits:** Whenever you use the sweep ability of the Open Hand sphere, you may move 5 feet immediately before performing the trip using any movement mode associated with Athletics sphere packages you possess. This movement provokes attacks of opportunity as normal. At +6 base attack bonus and every 5 base attack bonus higher, you may add up to +5 feet of movement to the sweep.",
    "options": []
   }
  ]

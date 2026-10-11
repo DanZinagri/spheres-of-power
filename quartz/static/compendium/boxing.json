@@ -698,42 +698,6 @@
    "options": []
   },
   {
-   "id": "boxing/backup-breaker-combat",
-   "name": "Backup Breaker",
-   "kind": "feat",
-   "sphere": "Boxing",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [
-    "Combat"
-   ],
-   "talentTags": [],
-   "prerequisites": "Boxing sphere, Dual Wielding sphere.",
-   "source": "Polished Commander & Warleader",
-   "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#backup-breaker-combat",
-   "md": "**Prerequisites:** Boxing sphere, Dual Wielding sphere.\n\n**Benefit:** When you ready a counter punch to make a dual attack, you may make only the attack with your primary or off-hand weapon when your counter punch is triggered. If you do, you may make your other attack when another creature would perform an action that would trigger your counter punch before the start of your next turn. You may only apply a (counter) talent to one of these attacks made as part of this counter punch. The bonus damage from a counter punch is applied to both attacks. These counter punches count as attacks in a dual attack for the purposes of Dual Wielding talents.",
-   "options": []
-  },
-  {
-   "id": "boxing/rolling-serpent-combat",
-   "name": "Rolling Serpent",
-   "kind": "feat",
-   "sphere": "Boxing",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [
-    "combat"
-   ],
-   "talentTags": [],
-   "prerequisites": "Athletics sphere, Boxing sphere (Shoulder Roll).",
-   "source": "Polished Commander & Warleader",
-   "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#rolling-serpent-combat",
-   "md": "**Prerequisites:** Athletics sphere, Boxing sphere (Shoulder Roll).\n\n**Benefits:** As long as you have martial focus, whenever a creature makes a melee attack against you while you are using a movement mode corresponding to a package you possess, you may use shoulder roll against the attack without it counting towards your one usage per round.",
-   "options": []
-  },
-  {
    "id": "boxing/glimpse-the-flow-champion-combat",
    "name": "Glimpse The Flow",
    "kind": "feat",
@@ -866,6 +830,42 @@
    "status": "current",
    "url": "Spheres-Of-Might/Boxing/Boxing-Sphere-Feats#stinging-bee-combat",
    "md": "**Prerequisites:** Boxing sphere (Floating Butterfly (stance)), base attack bonus +4.\n\nWhile maintaining the Floating Butterfly stance, you retain the competence bonus to damage rolls when making a counter punch, in addition to gaining an insight bonus to Reflex saving throws equal to the dodge bonus granted by the talent.",
+   "options": []
+  },
+  {
+   "id": "boxing/backup-breaker-combat",
+   "name": "Backup Breaker",
+   "kind": "feat",
+   "sphere": "Boxing",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Boxing sphere, Dual Wielding sphere.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Feats/Combat-Feats#backup-breaker-combat",
+   "md": "**Prerequisites:** Boxing sphere, Dual Wielding sphere.\n\n**Benefit:** When you ready a counter punch to make a dual attack, you may make only the attack with your primary or off-hand weapon when your counter punch is triggered. If you do, you may make your other attack when another creature would perform an action that would trigger your counter punch before the start of your next turn. You may only apply a (counter) talent to one of these attacks made as part of this counter punch. The bonus damage from a counter punch is applied to both attacks. These counter punches count as attacks in a dual attack for the purposes of Dual Wielding talents.",
+   "options": []
+  },
+  {
+   "id": "boxing/rolling-serpent-combat",
+   "name": "Rolling Serpent",
+   "kind": "feat",
+   "sphere": "Boxing",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [
+    "combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Athletics sphere, Boxing sphere (Shoulder Roll).",
+   "source": "Polished Commander & Warleader",
+   "status": "current",
+   "url": "Spheres-Of-Power/Feats/Combat-Feats#rolling-serpent-combat",
+   "md": "**Prerequisites:** Athletics sphere, Boxing sphere (Shoulder Roll).\n\n**Benefits:** As long as you have martial focus, whenever a creature makes a melee attack against you while you are using a movement mode corresponding to a package you possess, you may use shoulder roll against the attack without it counting towards your one usage per round.",
    "options": []
   }
  ]

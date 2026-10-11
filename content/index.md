@@ -346,7 +346,7 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 | **[[Bravo]]** | [[Daredevil]], [[Dreadnought]], [[Quicksilver]], [[Smasher]], [[Tracer]] | [[Bravo Feats\|Feats]] |
 | **[[Crimson Dancer]]** | [[Crimson Tempest]], [[Primeval]] | — |
 | **[[Dissident]]** | [[Symbiont]] | [[Dissident Feats\|Feats]] |
-| **[[Prodigy]]** | [[Battle-Born]], [[Chromamancer]], [[Exploitant]], [[Extemporizer]], [[Gutter Rat]], [[Mimic]], [[Sync (Prodigy Archetype)\|Sync]], [[Void Dancer]], [[Prodigy Class Features (DRS)\|DRS Prodigy Class Features]] | — |
+| **[[Prodigy]]** | [[Battle-Born]], [[Chromamancer]], [[Exploitant]], [[Extemporizer]], [[Gutter Rat]], [[Mimic]], [[Sync (Prodigy Archetype)\|Sync]], [[Void Dancer]], [[Prodigy Class Features (DRS)\|DRS Prodigy Class Features]] | [[Prodigy Feats\|Feats]] |
 | **[[Sage]]** | [[Battleshifter]], [[Confluence]], [[Resolute]], [[Votary]], [[Wand Master]] | — |
 | **[[Theorist]]** | [[Sophist]] | [[Theorist Feats\|Feats]] |
 | **[[Troubadour]]** | [[Binder]], [[Clone]], [[Method Actor]], [[Ringmaster]] | [[Troubadour Feats\|Feats]] |

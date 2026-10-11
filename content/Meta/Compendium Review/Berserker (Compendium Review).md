@@ -68,8 +68,7 @@ What the compendium extractor takes from the Berserker pages (59 entries; approv
 
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
-| [[Practitioner-Feats#adrenaline-fueled-frenzy-combat\|Adrenaline-Fueled Frenzy]] | General | (Combat) | — | Berserker sphere (any (adrenaline) talent), Duelist sphere (Bloodied Shark’s Frenzy), base attack bonus +3. | Polished Commander & Warleader |
-| [[Champion-Feats#arcane-carnage-champion-combat\|Arcane Carnage]] | General | (Champion), (Combat) | — | Berserker sphere (Advancing Carnage), Spell Attack, casting class feature; any talent with the strike descriptor | Diamond Spheres: Erudition & Esoterica |
+| [[Champion-Feats#arcane-carnage-champion-combat\|Arcane Carnage]] | General | (Champion), (Combat) | — | Berserker sphere (Advancing Carnage), Spell Attack, casting class feature; any talent with the strike descriptor | Spheres Apocrypha: Alchemy Poisons 2 |
 | [[Champion-Feats#bruinous-temper-champion\|Bruinous Temper]] | General | (Champion) | — | Bear sphere, Berserker sphere, Bear sphere caster level 5th. | Diamond Spheres: Hustle & Bustle |
 | [[Champion-Feats#furious-flare-champion\|Furious Flare]] | General | (Champion) | — | Berserker sphere, Destruction sphere (any (blast type) talent). | Diamond Spheres: Hustle & Bustle |
 | [[Champion-Feats#lights-lasting-fury-champion\|Light’s Lasting Fury]] | General | (Champion) | — | Berserker sphere (Deathless), Life sphere, Light sphere. | Spheres Apocrypha: Radiant and Righteous |
@@ -77,6 +76,7 @@ What the compendium extractor takes from the Berserker pages (59 entries; approv
 | [[Berserker-Sphere-Feats#desperate-focus-combat\|Desperate Focus]] | General | (Combat) | — | Berserker sphere (Deathless). | Spheres Apocrypha: Radiant and Righteous |
 | [[Berserker-Sphere-Feats#improved-atavism\|Improved Atavism]] | General |  | — | Berserker sphere (Atavism (adrenaline)), base attack bonus +3. | Spheres Apocrypha: Radiant and Righteous |
 | [[Berserker-Sphere-Feats#true-rage-combat\|True Rage]] | General | (combat) | — | Berserker sphere (any (adrenaline) talent), base attack bonus +6. | Spheres Apocrypha: The Inheritor and Improved Atavism Heritages |
+| [[Combat-Feats#adrenaline-fueled-frenzy-combat\|Adrenaline-Fueled Frenzy]] | General | (Combat) | — | Berserker sphere (any (adrenaline) talent), Duelist sphere (Bloodied Shark’s Frenzy), base attack bonus +3. | Ultimate Spheres of Power |
 
 ## Drawbacks (7)
 

@@ -94,7 +94,6 @@ What the compendium extractor takes from the Leadership pages (70 entries; appro
 
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
-| [[Practitioner-Feats#mixed-coordinator-combat\|Mixed Coordinator]] | General | (combat) | — | Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package. | Polished Commander & Warleader |
 | [[Leadership-Sphere-Feats#camp-of-operations\|Camp of Operations]] | General |  | — | Leadership 3 associated skill ranks; Leadership sphere ((follower) package); base of operations class feature. | Polished Leadership |
 | [[Leadership-Sphere-Feats#emergency-reserves-plan\|Emergency Reserves]] | General | [plan] | — | Leadership 5 associated skill ranks; Leadership ((cohort) package). | Polished Leadership |
 | [[Leadership-Sphere-Feats#friends-in-close-places-plan\|Friends In Close Places]] | General | [plan] | — | Leadership sphere 10 associated skill ranks; Leadership sphere (2 (follower) talents). | Polished Leadership |
@@ -105,3 +104,4 @@ What the compendium extractor takes from the Leadership pages (70 entries; appro
 | [[Leadership-Sphere-Feats#shared-rage-combat\|Shared Rage]] | General | (Combat) | — | Leadership sphere ((cohort) package); rage or bloodrage class feature, or other ability to rage (see text). | Polished Leadership |
 | [[Leadership-Sphere-Feats#talented-followers-improved\|Talented Followers, Improved]] | General |  | — | Leadership sphere 5 associated skill ranks; Leadership ((follower) package, Good Help). | Polished Leadership |
 | [[Leadership-Sphere-Feats#theurgical-disciples\|Theurgical Disciples]] | General |  | — | Leadership ((cohort) package); domain or inquisition class feature, cohort same alignment as you (see text). | Polished Leadership |
+| [[Combat-Feats#mixed-coordinator-combat\|Mixed Coordinator]] | General | (combat) | — | Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package. | Polished Commander & Warleader |

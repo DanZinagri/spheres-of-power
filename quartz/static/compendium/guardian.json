@@ -714,24 +714,6 @@
    "options": []
   },
   {
-   "id": "guardian/tactical-patrol-combat",
-   "name": "Tactical Patrol",
-   "kind": "feat",
-   "sphere": "Guardian",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [
-    "Combat"
-   ],
-   "talentTags": [],
-   "prerequisites": "Guardian sphere ((patrol) package); Warleader sphere ((tactic) package).",
-   "source": "Polished Commander & Warleader",
-   "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#tactical-patrol-combat",
-   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n**Prerequisites:** Guardian sphere ((patrol) package); Warleader sphere ((tactic) package).\n\n**Benefit:** Your *tactic* always includes the area of your *patrol*, even if you centered your *tactic* elsewhere.\n\nIn addition, you gain the following option:\n\n- **Engaging Patrol (dual sphere):** Whenever you *patrol*, you may *engage tactics* as part of that same action. If you do, instead of selecting a (zone) talent, you may select an additional (tactic); the chosen (tactic)'s *tactical presence* and *tactical coordination* apply to the area of your patrol.",
-   "options": []
-  },
-  {
    "id": "guardian/goading-malediction-champion",
    "name": "Goading Malediction",
    "kind": "feat",
@@ -954,6 +936,43 @@
    "status": "current",
    "url": "Spheres-Of-Might/Guardian/Guardian-Sphere-Feats#overwatch-combat",
    "md": "**Prerequisites:** Covering Fire talent, Guardian sphere (patrol package)\n\n**Benefit:** You may treat the area you threaten with the Covering Fire talent as if it were a patrol, benefiting from guardian sphere talents as normal, except that you cannot move within this threatened area outside of normal turn order like with a standard patrol.",
+   "options": []
+  },
+  {
+   "id": "guardian/spell-absorption-combat-counterspell",
+   "name": "Spell Absorption",
+   "kind": "feat",
+   "sphere": "Guardian",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [
+    "Combat",
+    "Counterspell"
+   ],
+   "talentTags": [],
+   "prerequisites": "Guardian sphere (Cold Iron Call, Defend Other), Counterspell, Counterspell Mastery, magic skill bonus +7.",
+   "source": "The Player's Guide to Skybourne",
+   "status": "current",
+   "url": "Spheres-Of-Power/Feats/Combat-Feats#spell-absorption-combat-counterspell",
+   "md": "You may bind yourself to an oncoming spell at great risk.\n\n**Prerequisites:** Guardian sphere (Cold Iron Call, Defend Other), Counterspell, Counterspell Mastery, magic skill bonus +7.\n\n**Benefit:** When counterspelling an effect that would affect you and only you, you may roll twice and take the higher result on the magic skill check to counterspell. If you fail, you take a -2 penalty on your AC, spell resistance, and saving throws against the effect. When using Defend Other to redirect a spell from an ally to yourself, you may spend 2 spell points to attempt to Counterspell the effect as part of the action to use Defend Other.",
+   "options": []
+  },
+  {
+   "id": "guardian/tactical-patrol-combat",
+   "name": "Tactical Patrol",
+   "kind": "feat",
+   "sphere": "Guardian",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Guardian sphere ((patrol) package); Warleader sphere ((tactic) package).",
+   "source": "The Player's Guide to Skybourne",
+   "status": "current",
+   "url": "Spheres-Of-Power/Feats/Combat-Feats#tactical-patrol-combat",
+   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n**Prerequisites:** Guardian sphere ((patrol) package); Warleader sphere ((tactic) package).\n\n**Benefit:** Your *tactic* always includes the area of your *patrol*, even if you centered your *tactic* elsewhere.\n\nIn addition, you gain the following option:\n\n- **Engaging Patrol (dual sphere):** Whenever you *patrol*, you may *engage tactics* as part of that same action. If you do, instead of selecting a (zone) talent, you may select an additional (tactic); the chosen (tactic)'s *tactical presence* and *tactical coordination* apply to the area of your patrol.",
    "options": []
   }
  ]

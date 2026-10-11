@@ -736,24 +736,6 @@
    "options": []
   },
   {
-   "id": "berserker/adrenaline-fueled-frenzy-combat",
-   "name": "Adrenaline-Fueled Frenzy",
-   "kind": "feat",
-   "sphere": "Berserker",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [
-    "Combat"
-   ],
-   "talentTags": [],
-   "prerequisites": "Berserker sphere (any (adrenaline) talent), Duelist sphere (Bloodied Shark’s Frenzy), base attack bonus +3.",
-   "source": "Polished Commander & Warleader",
-   "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#adrenaline-fueled-frenzy-combat",
-   "md": "The shark’s frenzy turns to a churning rage.\n\n**Prerequisites:** Berserker sphere (any (adrenaline) talent), Duelist sphere (Bloodied Shark’s Frenzy), base attack bonus +3.\n\n**Benefit:** Whenever you enter a blood frenzy using the Bloodied Shark’s Frenzy talent, you may also gain the benefits of one (adrenaline) talent you possess for the blood frenzy’s duration. If an (adrenaline) talent requires you to expend your martial focus to use each round, you do not need to expend martial focus when first entering a blood frenzy, but must expend martial focus at the start of each subsequent round to gain the benefits of that (adrenaline).\n\n**Special:** When you successfully make a brutal strike special attack action and deal bleed damage with that attack, you may expend your martial focus as a free action to enter a blood frenzy.",
-   "options": []
-  },
-  {
    "id": "berserker/arcane-carnage-champion-combat",
    "name": "Arcane Carnage",
    "kind": "feat",
@@ -766,7 +748,7 @@
    ],
    "talentTags": [],
    "prerequisites": "Berserker sphere (Advancing Carnage), Spell Attack, casting class feature; any talent with the strike descriptor",
-   "source": "Diamond Spheres: Erudition & Esoterica",
+   "source": "Spheres Apocrypha: Alchemy Poisons 2",
    "status": "current",
    "url": "Spheres-Of-Power/Feats/Champion-Feats#arcane-carnage-champion-combat",
    "md": "**Prerequisites:** Berserker sphere (Advancing Carnage), Spell Attack, casting class feature; any talent with the strike descriptor\n\n**Benefit:** When using the Spell Attack feat as a standard action and taking the -2 penalty to use Advancing Carnage, you may spend an additional spell point or increase the casting time of the sphere effect to a full-round action. The sphere effect applies to each creature (to a maximum of 2 + 1 per 2 caster levels) that you damage as part of the initial attack and the additional attacks granted by Advancing Carnage. If the sphere effect requires concentration, all instances initiated as part of one action count as a single effect for the purpose of concentrating on them.",
@@ -1007,6 +989,24 @@
    "status": "current",
    "url": "Spheres-Of-Might/Berserker/Berserker-Sphere-Feats#true-rage-combat",
    "md": "Your mastery over adrenaline walks hand in hand with anger.\n\n**Prerequisites:** Berserker sphere (any (adrenaline) talent), base attack bonus +6.\n\n**Benefit:** When berserking, when you choose to benefit from an (adrenaline) talent, you do not lose the temporary hit points granted by the base berserking ability. This does not allow you to benefit from two (adrenaline) talents at the same time.\n\n**Normal:** When berserking, a creature who chooses to benefit from an (adrenaline) talent does not gain the temporary hit points from the base berserking ability.",
+   "options": []
+  },
+  {
+   "id": "berserker/adrenaline-fueled-frenzy-combat",
+   "name": "Adrenaline-Fueled Frenzy",
+   "kind": "feat",
+   "sphere": "Berserker",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Berserker sphere (any (adrenaline) talent), Duelist sphere (Bloodied Shark’s Frenzy), base attack bonus +3.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Feats/Combat-Feats#adrenaline-fueled-frenzy-combat",
+   "md": "The shark’s frenzy turns to a churning rage.\n\n**Prerequisites:** Berserker sphere (any (adrenaline) talent), Duelist sphere (Bloodied Shark’s Frenzy), base attack bonus +3.\n\n**Benefit:** Whenever you enter a blood frenzy using the Bloodied Shark’s Frenzy talent, you may also gain the benefits of one (adrenaline) talent you possess for the blood frenzy’s duration. If an (adrenaline) talent requires you to expend your martial focus to use each round, you do not need to expend martial focus when first entering a blood frenzy, but must expend martial focus at the start of each subsequent round to gain the benefits of that (adrenaline).\n\n**Special:** When you successfully make a brutal strike special attack action and deal bleed damage with that attack, you may expend your martial focus as a free action to enter a blood frenzy.",
    "options": []
   }
  ]

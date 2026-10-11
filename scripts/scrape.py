@@ -2299,12 +2299,12 @@ def split_drawbacks(md: str, overview: str = DRAWBACKS_HEADING) -> tuple[str, st
 
 # the shared feat pages whose "Extra ..." feats (more uses or picks of one class's feature) move to
 # that class's own feats page
-EXTRA_FEAT_PAGES = ["extra-feats", "practitioner-feats", "operative-feats"]
+EXTRA_FEAT_PAGES = ["extra-feats", "practitioner-feats", "operative-feats", "champion-feats"]
 # "Extra ..." feats placed by hand: on every class's feats page named (two classes share the feature),
 # on another note that has the feature (under a "Feats" heading), or kept on / moved to the Extra Feats page
-EXTRA_FEAT_OWNERS = {"Extra Enhanced Tactics": ["Advisor", "Commander"]}
+EXTRA_FEAT_OWNERS = {"Extra Enhanced Tactics": ["Advisor", "Commander"], "Extra Adaptation": ["Prodigy"], "Extra Empathy": ["Eliciter"]}
 EXTRA_FEAT_HOMES = {"Extra Boon Of Purpose": "Champion Of The Cause (PaladinAntipaladin Archetype)", "Extra Swarm Enhancement": "Hive"}
-EXTRA_FEATS_SHARED = {"Extra Conspiracy Feature", "Extra Skill Leverage", "Extra Combat Talent", "Extra Ki Power", "Extra Magic Talent", "Extra Spell Points", "Extra Origin Talent", "Extra Skill Talent"}
+EXTRA_FEATS_SHARED = {"Extra Blended Training Talent", "Extra Conspiracy Feature", "Extra Skill Leverage", "Extra Combat Talent", "Extra Ki Power", "Extra Magic Talent", "Extra Spell Points", "Extra Origin Talent", "Extra Skill Talent"}
 EXTRA_FEATS_PAGE = "Extra Feats"
 
 
@@ -2679,6 +2679,100 @@ def distribute_sphere_feats(pages: dict, feats_pages: dict[str, str], derived_no
                     lines[at:at] = [note, ""]
             path.write_text(collapse_dividers("\n".join(lines)), encoding="utf-8")
     print(f"Sphere feats moved: {len(report)}:", "; ".join(report))
+
+
+# Practitioner Feats: feats that go to the feat page for their type (by the tag in their heading), and
+# reprints of Pathfinder feats (on Archives of Nethys) that are simply dropped
+PRACTITIONER_TAG_PAGES = [("combat", "combat-feats"), ("item creation", "item-creation-feats")]
+PRACTITIONER_FEATS_DROP = {"Gunsmithing", "Flyby Attack", "Piranha Strike", "Two-Weapon Rend"}
+NAMED_FEAT_MOVES = [("champion-feats", "Biochemical Brews", "general-feats"), ("champion-feats", "Unarmored Mastery", "general-feats")]
+
+
+def sort_practitioner_feats(pages: dict) -> None:
+    """Practitioner Feats' (Combat) feats join the Combat Feats page and its (Item Creation) feats the
+    Item Creation Feats page, each in name order among that page's entries; PRACTITIONER_FEATS_DROP go.
+    The spheres' compendium lists, which read the practitioner page, read the Combat Feats page too."""
+    level_of = lambda l: len(m.group(1)) if (m := re.match(r"(#{1,6}) ", l)) else 0
+    key = lambda t: re.sub(r"[^a-z0-9 ]", "", re.sub(r"\s*[\[(].*$", "", t).lower().replace("’", "").replace("'", "")).strip()
+    by_slug = {pg.slug: pg for pg in pages.values()}
+    src = by_slug.get("practitioner-feats")
+    path = CONTENT / src.folder / f"{src.filename}.md" if src else None
+    if not (path and path.exists()):
+        return
+    targets = {}
+    for tag, slug in PRACTITIONER_TAG_PAGES:
+        pg = by_slug.get(slug)
+        f = CONTENT / pg.folder / f"{pg.filename}.md" if pg else None
+        if f and f.exists():
+            targets[tag] = (pg, f)
+    for cfg in COMPENDIUM.values():
+        for t in list(cfg.get("pages", [])):
+            if t[0] == src.filename and len(t) > 4 and "combat" in targets and not any(x[0] == targets["combat"][0].filename for x in cfg["pages"]):
+                cfg["pages"].append((targets["combat"][0].filename, "(page)", *t[2:]))
+
+    def insert(f: Path, block: list[str]) -> None:
+        ls = f.read_text(encoding="utf-8").split("\n")
+        levels = [level_of(l) for l in ls if level_of(l) >= 3]
+        mark = "#" * (max(set(levels), key=levels.count) if levels else 4) + " "
+        name = key(block[0].lstrip("#"))
+        starts = [k for k, l in enumerate(ls) if l.startswith(mark)]
+        if any(key(ls[k][len(mark):]) == name for k in starts):
+            return
+        entry = [mark + block[0].lstrip("#").strip(), *block[1:]]
+        while entry and not entry[-1].strip():
+            entry.pop()
+        at = next((k for k in starts if key(ls[k][len(mark):]) > name), None)
+        if at is None:
+            # after the last entry, before the divider and footer that close the page
+            last = starts[-1] if starts else len(ls)
+            at = next((k for k in range(last, len(ls)) if ls[k].strip() == "---"), len(ls))
+        ls[at:at] = [*entry, ""]
+        f.write_text("\n".join(ls), encoding="utf-8")
+
+    lines = path.read_text(encoding="utf-8").split("\n")
+    i, moved, dropped = 0, {}, []
+    while i < len(lines):
+        if not lines[i].startswith("#### "):
+            i += 1
+            continue
+        end = next((j for j in range(i + 1, len(lines)) if 0 < level_of(lines[j]) <= 4 or lines[j].strip() == "---"), len(lines))
+        head = lines[i][5:].strip()
+        name = re.sub(r"\s*[\[(].*$", "", head).rstrip("*").strip()
+        tags = " ".join(re.findall(r"\(([^)]*)\)", head)).lower()
+        tag = next((t for t, _ in PRACTITIONER_TAG_PAGES if t in targets and re.search(rf"(?<![a-z]){t}(?![a-z])", tags)), None)
+        if name in PRACTITIONER_FEATS_DROP:
+            dropped.append(name)
+        elif tag:
+            insert(targets[tag][1], lines[i:end])
+            moved[tag] = moved.get(tag, 0) + 1
+        else:
+            i = end
+            continue
+        lines = lines[:i] + lines[end:]
+    if moved or dropped:
+        note = "*Its combat feats are on the [[Combat Feats]] page, with those of the other Spheres books.*"
+        if moved.get("combat") and note not in lines:
+            at = next((k for k, l in enumerate(lines) if l.startswith("#### ")), None)
+            if at is not None:
+                lines[at:at] = [note, ""]
+        path.write_text(collapse_dividers("\n".join(lines)), encoding="utf-8")
+    # single feats placed by hand: (page they are on, feat, page they belong on)
+    for from_slug, feat, to_slug in NAMED_FEAT_MOVES:
+        a, b = by_slug.get(from_slug), by_slug.get(to_slug)
+        fa = CONTENT / a.folder / f"{a.filename}.md" if a else None
+        fb = CONTENT / b.folder / f"{b.filename}.md" if b else None
+        if not (fa and fb and fa.exists() and fb.exists()):
+            continue
+        ls = fa.read_text(encoding="utf-8").split("\n")
+        at = next((k for k, l in enumerate(ls) if level_of(l) and key(l.lstrip("#")) == key(feat)), None)
+        if at is None:
+            continue
+        lvl = level_of(ls[at])
+        end = next((j for j in range(at + 1, len(ls)) if 0 < level_of(ls[j]) <= lvl or ls[j].strip() == "---"), len(ls))
+        insert(fb, ls[at:end])
+        fa.write_text(collapse_dividers("\n".join(ls[:at] + ls[end:])), encoding="utf-8")
+        dropped.append(f"{feat} -> {b.filename}")
+    print("Practitioner feats by type:", moved, "dropped / placed:", dropped)
 
 
 def drop_pointer_section(pages: dict, slug: str, title: str) -> None:
@@ -8054,6 +8148,7 @@ def convert(with_images: bool) -> None:
     # and put some on class feats pages: a second look, now that they have)
     distribute_extra_feats(pages, class_pages, class_options, derived_notes, create=False)
     distribute_sphere_feats(pages, feats_pages, derived_notes)
+    sort_practitioner_feats(pages)
     drop_pointer_section(pages, "practitioner-feats", "Tinker Sphere Feats")
     print(f"Search types: {tag_search_types()}")
     print(f"Compendium entries: {build_compendium()}")

@@ -76,6 +76,22 @@ In addition, you may summon or manifest your eidolon or phantom as a full-round 
 
 **Note:** A “similar ability” is an ability with a limited number of uses per day used to teleport your companion, eidolon, phantom, or other similar creature to your side. The unchained summoner and spiritualist are the two primary examples of this ability.
 
+#### Biochemical Brews
+
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
+
+**Prerequisites:** Alchemy sphere ((toxin) package)); either the Barroom sphere or Nature sphere.
+
+**Benefit:** You gain the following benefits, depending on the spheres you possess:
+
+*Mutagenic Suffusion (Alchemy sphere ((toxin) package, Nature sphere (Instill Spirit))*: You can spend 1 spell point as an immediate action to use Instill Spirit on a mutagen within your geomancing range. As per usual, if you do not have the ability to grant spirit effects to other creatures, the instilled spirit effect can only benefit you. Also, you can have up to two spirit effects instilled within a mutagen instead of just one, although each requires their own separate casting.
+
+*Same Burn, Same Taste (Alchemy sphere ((toxin) package, Barroom sphere):* You ignore a mutagen’s toxicity effect as long as you are drunk when you would be subject to it. You also gain the following (drunk) ability:
+
+- **Feel the Burn (drunk):** You can expend the drunk status as part of imbibing (or otherwise being subject to) a mutagen to treat your Craft (alchemy) ranks as being 2 higher for determining its effects. Additionally, you can benefit from the mutagen with no repercussions even if you had benefitted from it within the last hour.
+
+Lastly, you treat mutagens as an alcoholic beverage—if you already do so, the drunk status lasts twice as long when imbibing an alcoholic mutagen.
+
 #### Cantrips
 
 **Prerequisite:** Basic Magic Training or casting class feature.
@@ -777,6 +793,12 @@ If your transformation would grant you additional legs, you may instead gain the
 **Prerequisites:** Heal 1 rank; casting class feature or ki pool class feature
 
 **Benefit:** You may spend a spell point or ki point to treat deadly wounds on a creature as a full-round action as per the Heal skill. You may do this even if the creature that has already received such treatment that day.
+
+#### Unarmored Mastery
+
+**Prerequisites:** Unarmored Training, +8 base attack bonus or 8 ranks in Acrobatics.
+
+Your mastery of unarmored combat is so great that even changes to your body do not impede you. You no longer lose the benefits of Unarmored Training when under any polymorph effect.
 
 #### Versed Student
 

@@ -1070,25 +1070,6 @@
    "options": []
   },
   {
-   "id": "gladiator/booming-boast-combat-dual-sphere",
-   "name": "Booming Boast",
-   "kind": "feat",
-   "sphere": "Gladiator",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [
-    "Combat",
-    "Dual Sphere"
-   ],
-   "talentTags": [],
-   "prerequisites": "Gladiator sphere, Warleader sphere ((shout) package).",
-   "source": "Polished Commander & Warleader",
-   "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#booming-boast-combat-dual-sphere",
-   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*Confident and loud.*\n\n**Prerequisites:** Gladiator sphere, Warleader sphere ((shout) package).\n\n**Benefit:** Whenever you *boast*, you may instead *shout*. Enemies affected by your *shouts* are treated as being demoralized for the purposes of your Gladiator (demoralization) talents.",
-   "options": []
-  },
-  {
    "id": "gladiator/awesome-transformation-champion",
    "name": "Awesome Transformation",
    "kind": "feat",
@@ -1321,6 +1302,25 @@
    "status": "current",
    "url": "Spheres-Of-Might/Gladiator/Gladiator-Sphere-Drawbacks#showboater",
    "md": "You do not gain the strike fear ability. You gain either Distracting Display or Performance Fighter as a bonus talent. If you also select the Huge Personality drawback, you can take the Gladiator sphere using a [utility] talent slot as if both drawbacks had the [utility start] tag.",
+   "options": []
+  },
+  {
+   "id": "gladiator/booming-boast-combat-dual-sphere",
+   "name": "Booming Boast",
+   "kind": "feat",
+   "sphere": "Gladiator",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [
+    "Combat",
+    "Dual Sphere"
+   ],
+   "talentTags": [],
+   "prerequisites": "Gladiator sphere, Warleader sphere ((shout) package).",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Feats/Combat-Feats#booming-boast-combat-dual-sphere",
+   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*Confident and loud.*\n\n**Prerequisites:** Gladiator sphere, Warleader sphere ((shout) package).\n\n**Benefit:** Whenever you *boast*, you may instead *shout*. Enemies affected by your *shouts* are treated as being demoralized for the purposes of your Gladiator (demoralization) talents.",
    "options": []
   }
  ]

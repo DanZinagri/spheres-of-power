@@ -14,6 +14,14 @@ Most of these feats are available on the appropriate class pages, but they are a
 
 ---
 
+#### Extra Blended Training Talent (Champion)
+
+**Prerequisites:** Casting class feature, martial focus.
+
+**Benefit:** You gain one additional magic or combat sphere, or one talent from a magic or combat sphere you possess.
+
+**Special:** You may take this feat multiple times. The effects stack.
+
 #### Extra Combat Talent (combat)
 
 Your knowledge of combat is easily expanded.

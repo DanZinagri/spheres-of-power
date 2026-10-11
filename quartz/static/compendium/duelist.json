@@ -788,24 +788,6 @@
    "options": []
   },
   {
-   "id": "duelist/adrenaline-fueled-frenzy-combat",
-   "name": "Adrenaline-Fueled Frenzy",
-   "kind": "feat",
-   "sphere": "Duelist",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [
-    "Combat"
-   ],
-   "talentTags": [],
-   "prerequisites": "Berserker sphere (any (adrenaline) talent), Duelist sphere (Bloodied Shark’s Frenzy), base attack bonus +3.",
-   "source": "Polished Commander & Warleader",
-   "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#adrenaline-fueled-frenzy-combat",
-   "md": "The shark’s frenzy turns to a churning rage.\n\n**Prerequisites:** Berserker sphere (any (adrenaline) talent), Duelist sphere (Bloodied Shark’s Frenzy), base attack bonus +3.\n\n**Benefit:** Whenever you enter a blood frenzy using the Bloodied Shark’s Frenzy talent, you may also gain the benefits of one (adrenaline) talent you possess for the blood frenzy’s duration. If an (adrenaline) talent requires you to expend your martial focus to use each round, you do not need to expend martial focus when first entering a blood frenzy, but must expend martial focus at the start of each subsequent round to gain the benefits of that (adrenaline).\n\n**Special:** When you successfully make a brutal strike special attack action and deal bleed damage with that attack, you may expend your martial focus as a free action to enter a blood frenzy.",
-   "options": []
-  },
-  {
    "id": "duelist/bloodrunner",
    "name": "Bloodrunner",
    "kind": "feat",
@@ -819,24 +801,6 @@
    "status": "current",
    "url": "Spheres-Of-Might/Practitioner-Feats#bloodrunner",
    "md": "**Prerequisites:** Blood sphere or Duelist sphere, character level 7th.\n\n**Benefit:** Your body has grown a tolerance for the blood of others, and you have learned to use it to your advantage. You ignore any detriment from traversing on bloody terrain, such as difficult terrain or the terrain being considered slippery (as long as blood is the only reason that terrain is detrimental), and you gain a +2 bonus on all saving throws against bleed effects and any effect from the Blood sphere. You can distinctly tell the difference between the blood of any two creatures, and can identify the blood of creatures you have witnessed before. You can attempt a Knowledge check to identify a creature by merely witnessing its blood, as if you had seen the creature by sight, but only if the blood was shed within an hour of you attempting to identify it.",
-   "options": []
-  },
-  {
-   "id": "duelist/hunting-party-combat",
-   "name": "Hunting Party",
-   "kind": "feat",
-   "sphere": "Duelist",
-   "system": "Spheres of Might",
-   "group": "General",
-   "tags": [
-    "Combat"
-   ],
-   "talentTags": [],
-   "prerequisites": "Warleader sphere 5 associated skill ranks; Duelist sphere; Warleader sphere.",
-   "source": "Polished Commander & Warleader",
-   "status": "current",
-   "url": "Spheres-Of-Might/Practitioner-Feats#hunting-party-combat",
-   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*Blood draws a crowd, and a crowd draws blood.*\n\n**Prerequisites:** Warleader sphere 5 associated skill ranks; Duelist sphere; Warleader sphere.\n\n**Benefit:** You and allies benefitting from your Warleader sphere effects gain a +2 bonus on critical confirmation rolls against bleeding targets and a +2 bonus on Perception and Survival checks made against bleeding targets. These bonuses increase to +4 at 10 associated skill ranks.\n\nIn addition, you gain the following option:",
    "options": []
   },
   {
@@ -973,6 +937,42 @@
    "status": "current",
    "url": "Spheres-Of-Might/Duelist/Duelist-Sphere-Feats#great-iaijutsu",
    "md": "**Prerequisites:** Duelist sphere (Iai Slash (bleed)), base attack bonus +5.\n\n**Benefit:** When utilizing your Iai Slash talent, you may expend your martial focus to additionally apply the effects of one (bleed) talent other than Iai Slash to a single creature struck as part of the talent. If you have more than one martial focus, you may expend two martial focuses to instead apply that (bleed) talent to all creatures struck.",
+   "options": []
+  },
+  {
+   "id": "duelist/adrenaline-fueled-frenzy-combat",
+   "name": "Adrenaline-Fueled Frenzy",
+   "kind": "feat",
+   "sphere": "Duelist",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Berserker sphere (any (adrenaline) talent), Duelist sphere (Bloodied Shark’s Frenzy), base attack bonus +3.",
+   "source": "Ultimate Spheres of Power",
+   "status": "current",
+   "url": "Spheres-Of-Power/Feats/Combat-Feats#adrenaline-fueled-frenzy-combat",
+   "md": "The shark’s frenzy turns to a churning rage.\n\n**Prerequisites:** Berserker sphere (any (adrenaline) talent), Duelist sphere (Bloodied Shark’s Frenzy), base attack bonus +3.\n\n**Benefit:** Whenever you enter a blood frenzy using the Bloodied Shark’s Frenzy talent, you may also gain the benefits of one (adrenaline) talent you possess for the blood frenzy’s duration. If an (adrenaline) talent requires you to expend your martial focus to use each round, you do not need to expend martial focus when first entering a blood frenzy, but must expend martial focus at the start of each subsequent round to gain the benefits of that (adrenaline).\n\n**Special:** When you successfully make a brutal strike special attack action and deal bleed damage with that attack, you may expend your martial focus as a free action to enter a blood frenzy.",
+   "options": []
+  },
+  {
+   "id": "duelist/hunting-party-combat",
+   "name": "Hunting Party",
+   "kind": "feat",
+   "sphere": "Duelist",
+   "system": "Spheres of Might",
+   "group": "General",
+   "tags": [
+    "Combat"
+   ],
+   "talentTags": [],
+   "prerequisites": "Warleader sphere 5 associated skill ranks; Duelist sphere; Warleader sphere.",
+   "source": "The Player's Guide to Skybourne",
+   "status": "current",
+   "url": "Spheres-Of-Power/Feats/Combat-Feats#hunting-party-combat",
+   "md": "*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*\n\n*Blood draws a crowd, and a crowd draws blood.*\n\n**Prerequisites:** Warleader sphere 5 associated skill ranks; Duelist sphere; Warleader sphere.\n\n**Benefit:** You and allies benefitting from your Warleader sphere effects gain a +2 bonus on critical confirmation rolls against bleeding targets and a +2 bonus on Perception and Survival checks made against bleeding targets. These bonuses increase to +4 at 10 associated skill ranks.\n\nIn addition, you gain the following option:",
    "options": []
   }
  ]

@@ -71,9 +71,9 @@ What the compendium extractor takes from the Open Hand pages (54 entries; approv
 
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
-| [[Practitioner-Feats#pouncing-sweep-combat\|Pouncing Sweep]] | General | (combat) | — | Athletics sphere, Open Hand sphere. | Polished Commander & Warleader |
 | [[Champion-Feats#capoeirista-champion\|Capoeirista]] | General | (Champion) | — | Open Hand sphere, Performance sphere ((dance) package). | Diamond Spheres: Hustle & Bustle |
 | [[Champion-Feats#disciplined-casting-champion-combat\|Disciplined Casting]] | General | (Champion), (Combat) | — | Open Hand sphere, casting. | Diamond Spheres: Hustle & Bustle |
+| [[Combat-Feats#pouncing-sweep-combat\|Pouncing Sweep]] | General | (combat) | — | Athletics sphere, Open Hand sphere. | Polished Commander & Warleader |
 
 ## Drawbacks (5)
 

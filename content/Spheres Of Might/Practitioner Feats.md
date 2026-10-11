@@ -18,15 +18,7 @@ parent: "[[Spheres Of Might]]"
 
 *Feats that need only one sphere are on that sphere's own feats page (see the home page's sphere lists).*
 
-#### Adrenaline-Fueled Frenzy (Combat)
-
-The shark’s frenzy turns to a churning rage.
-
-**Prerequisites:** Berserker sphere (any (adrenaline) talent), Duelist sphere (Bloodied Shark’s Frenzy), base attack bonus +3.
-
-**Benefit:** Whenever you enter a blood frenzy using the Bloodied Shark’s Frenzy talent, you may also gain the benefits of one (adrenaline) talent you possess for the blood frenzy’s duration. If an (adrenaline) talent requires you to expend your martial focus to use each round, you do not need to expend martial focus when first entering a blood frenzy, but must expend martial focus at the start of each subsequent round to gain the benefits of that (adrenaline).
-
-**Special:** When you successfully make a brutal strike special attack action and deal bleed damage with that attack, you may expend your martial focus as a free action to enter a blood frenzy.
+*Its combat feats are on the [[Combat Feats]] page, with those of the other Spheres books.*
 
 #### Aerial Trip
 
@@ -50,27 +42,11 @@ You may share this battlefield specialty through your Warleader sphere abilities
 
 **Special:** If you possess levels in a class that grants the battlefield specialty class feature, your levels in that class and the class that grants favored terrain stack when determining the effects of your battlefield specialties, including the battlefield specialty granted by this feat (instead of having an effective commander level of 1).
 
-#### Backup Breaker (Combat)
-
-**Prerequisites:** Boxing sphere, Dual Wielding sphere.
-
-**Benefit:** When you ready a counter punch to make a dual attack, you may make only the attack with your primary or off-hand weapon when your counter punch is triggered. If you do, you may make your other attack when another creature would perform an action that would trigger your counter punch before the start of your next turn. You may only apply a (counter) talent to one of these attacks made as part of this counter punch. The bonus damage from a counter punch is applied to both attacks. These counter punches count as attacks in a dual attack for the purposes of Dual Wielding talents.
-
 #### Bloodrunner
 
 **Prerequisites:** Blood sphere or Duelist sphere, character level 7th.
 
 **Benefit:** Your body has grown a tolerance for the blood of others, and you have learned to use it to your advantage. You ignore any detriment from traversing on bloody terrain, such as difficult terrain or the terrain being considered slippery (as long as blood is the only reason that terrain is detrimental), and you gain a +2 bonus on all saving throws against bleed effects and any effect from the Blood sphere. You can distinctly tell the difference between the blood of any two creatures, and can identify the blood of creatures you have witnessed before. You can attempt a Knowledge check to identify a creature by merely witnessing its blood, as if you had seen the creature by sight, but only if the blood was shed within an hour of you attempting to identify it.
-
-#### Booming Boast (Combat, Dual Sphere)
-
-*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
-
-*Confident and loud.*
-
-**Prerequisites:** Gladiator sphere, Warleader sphere ((shout) package).
-
-**Benefit:** Whenever you *boast*, you may instead *shout*. Enemies affected by your *shouts* are treated as being demoralized for the purposes of your Gladiator (demoralization) talents.
 
 #### Brain Consumption
 
@@ -104,22 +80,6 @@ If a catisthenics die is used at the same time as another ability which adds a b
 
 **Benefit:** The time required to wave a banner is reduced by one step (i.e., full-round action becomes a standard action, standard action becomes a move action).
 
-#### Combat Sphere Focus (Combat)
-
-**Benefit:** Choose a combat sphere. You gain a +1 bonus to saving throw DCs for all abilities from that sphere.
-
-**Special:** You may take this feat multiple times. The effects do not stack. Each time it is gained, apply this benefit to a different sphere.
-
-#### Combat Sphere Specialization (combat)
-
-Your knowledge of one particular combat sphere is without peer.
-
-**Prerequisite:** 1 or more combat spheres.
-
-**Benefit:** Select one combat sphere you possess, you treat your base attack bonus as 1 higher for the purposes of its effects, but not for attacks made with talents from that sphere. At 5th level and every 4 levels afterwards, the chosen sphere’s base attack bonus is treated as an additional 1 higher, although the sphere’s effective base attack bonus cannot be higher than your character level.
-
-**Special:** You may select this feat multiple times, each time selecting a different sphere.
-
 #### Consumptive Intuition
 
 **Prerequisite:** Brain Consumption.
@@ -133,39 +93,6 @@ Your knowledge of one particular combat sphere is without peer.
 **Prerequisites:** Consumptive Intuition, Improved Transformation, Transformation, character level 5th.
 
 **Benefit:** You may exchange one or more traits granted by Improved Transformation for any other traits you would qualify for whenever you consume a creature’s brain. These traits must emulate abilities that the consumed creature possessed or that are associated with the creature, subject to GM discretion.
-
-#### Craft Ooze (Item Creation)*
-
-You can use alchemy to create dangerous ooze creatures.
-
-**Prerequisites:** Brew Potion, Craft Wondrous Item, Craft (alchemy) 3 ranks, caster level 5th.
-
-**Benefit:** You can create living oozes as though they were magical items. Creating an ooze creature takes 1 day for each 500 gp in its construction cost. To create an ooze, you must have access to an oozing vat (see below), you must use up raw materials worth the construction cost of the ooze, and you must succeed at a Craft (alchemy) check (DC 10 + 2 × the ooze’s CR). A failed check ruins the materials used, while a check that fails by 5 or more also results in an ooze that attacks its creator for 1d4 rounds before dissipating into useless waste material. A newly created ooze has average hit points for its Hit Dice.
-
-Oozes created with this feat are mindless and uncontrolled, and even normally intelligent oozes like slithering trackers that created this way have no Intelligence score—nor any loyalty to their creator.
-
-While ooze creatures cannot normally be purchased in traditional marketplaces, GMs who wish to include such an option in their games—perhaps with oozes sold as black market commodities— need only double the construction cost of a specific ooze creature in order to figure out a fair market price. The following table lists some of the most commonly crafted oozes and their creation requirements. At the GM’s discretion, other types of ooze creatures can be created with this feat.
-
-| Ooze Type | Cost (gp) | Craft (alchemy) DC |
-| --- | --- | --- |
-| Gelatinous cube | 1,600 | 16 |
-| Gray ooze | 3,600 | 18 |
-| Slithering tracker | 3,600 | 18 |
-| Ochre jelly | 4,900 | 20 |
-| Black pudding | 8,100 | 24 |
-| Magma ooze | 8,100 | 24 |
-| Deathtrap ooze | 8,100 | 26 |
-| Carnivorous crystal | 16,900 | 32 |
-
-#### Cultivate Ki (combat)
-
-**Prerequisites:** Improved Unarmed Strike, base attack bonus +4, martial focus.
-
-**Benefits:** You gain one ki power from the unchained monk’s list of ki powers, treating your base attack bonus as your unchained monk level and using your practitioner modifier in place of your Wisdom modifier when determining the effects of ki powers you gain. Whenever you would gain ki powers that require the unchained monk to be of a specific level or higher before they can be chosen, use your base attack bonus in place of your unchained monk level.
-
-**Special:** If you do not have a ki pool, instead of spending one or more ki points on a ki power, you may instead spend one spell point per ki point required. As long as you have one or more spell points in your spell pool, you are treated as having at least one ki point in your ki pool for the purposes of ki powers.
-
-**Author's Note:** The potential for characters with the ability to temporarily gain combat feats to acquire magic talents via ki powers is an unintended interaction. It is reasonable for GMs to disallow Cultivate Ki to be acquired with temporary combat feats.
 
 #### Customized Bond
 
@@ -185,12 +112,6 @@ Your commander's decorum bonus now also applies to the chosen skills.
 
 **Special:** You are treated as possessing Skill Focus for each skill that decorum grants a bonus towards for the purposes of qualifying for prerequisites and other effects.
 
-#### Determined Defense (combat)
-
-**Prerequisite:** Combat Expertise.
-
-**Benefit:** When using the Combat Expertise feat, you do not suffer Combat Expertise’s penalty on melee attack rolls on the first attack you make each turn. You still suffer the penalty on any additional attacks, including attacks of opportunity.
-
 #### Dragon’s Tattoos
 
 Etching your limbs with exquisite art, your body truly becomes a weapon.
@@ -200,18 +121,6 @@ Etching your limbs with exquisite art, your body truly becomes a weapon.
 **Benefit:** You learn how to adorn yourself with the sacred tattoos that are said to have been first conceived by an ancient monk known only as “the Dragon”. Covering your body in these intricate tattoos etched by your own hand, your limbs, grapples, and unarmed strikes are now treated as masterwork weapons, and may be enhanced just as any other masterwork weapon. Enhancements applied via this ability apply to all unarmed strikes or grapple checks you make, regardless of the limb you choose to use; essentially, your entire body is treated as a single weapon.
 
 **Author's Note:** Dragon's Tattoos applies to all of your unarmed strikes and natural attacks, essentially like an amulet of mighty fists.
-
-#### Drink and Directive (Combat, Dual Sphere)
-
-*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
-
-*The second afternoon scotch was rarely questioned by the men. Despite the slurred speech, his tactical prowess seemed sharper than ever.*
-
-**Prerequisites:** Barroom sphere; Warleader sphere.
-
-**Benefit:** You may use both *hard drinker* and *engage tactics* as part of the same action, using the longer of the two actions required.
-
-In addition, you gain the following option:
 
 #### Dual Wielding Mystic Fusion
 
@@ -227,36 +136,6 @@ If the sphere ability is a ranged attack, it does not provoke an attack of oppor
 
 **Benefit:** When you use dual wielding mystic fusion with a sphere ability, you may deliver the sphere ability with a melee weapon attack. The sphere ability uses its own threat range.
 
-#### Elemental Might (Combat)
-
-You channel the elements through decisive strikes and furtive determination.
-
-**Prerequisites:** Ability to maintain martial focus, base attack bonus +1.
-
-**Benefit:** Whenever you make an attack action or attack of opportunity, you may expend your martial focus and choose acid, cold, electricity, or fire. If you do, your attack deals additional energy damage of the chosen type equal to 1d6 + your base attack bonus.
-
-Whenever you perform an attack action and expend martial focus to deal additional damage with a combat sphere ability (such as with Berserker sphere’s brutal strike or Fencing sphere’s fatal thrust precision damage modified with the Skewer talent), you may choose to have the additional damage be dealt as acid, cold, electricity, or fire damage, chosen when performing the attack action.
-
-**Note:** Fencing sphere fatal thrust damage is still precision damage, even if it would be dealt as energy damage rather than physical damage. Other attack action additional damage is likewise subject to any targeting restrictions or immunities a target might possess.
-
-**Special:** Elemental Might is treated as the Elemental Fist feat (Pathfinder Roleplaying Game: Advanced Player’s Guide) for the purposes of prerequisites. You treat maintaining martial focus as having 1 or more uses of the Elemental Fist feat; if an ability or effect would allow you to expend 1 or more uses of the Elemental Fist feat, you may expend your martial focus instead. Whenever you expend martial focus to deal energy damage with this feat (either with this feat or by converting an attack action’s additional damage), this damage is treated as damage dealt by the Elemental Fist feat for the purposes of other abilities and effects.
-
-#### Escutcheon (Combat)
-
-*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
-
-*A shield can guard a body. Yours guards an army.*
-
-**Prerequisites:** Shield sphere; Warleader sphere (Heraldry) or banner class feature.
-
-**Benefit:** When using your standard as a shield, you increase the radius of your Warleader sphere abilities by 5 feet, +5 feet per enhancement bonus of your shield.
-
-In addition, you gain the following option:
-
-##### Clangorous Shout (deflect) (dual sphere)
-
-**Effect:** When an attack misses a creature benefitting from your *active defense*, you *shout*. A *shout* performed this way only affects a single target within range. If the chosen (shout) affects enemies, you must target the attacking creature that missed.
-
 #### Expanded Battlefield Specialty [plan]
 
 *Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
@@ -267,89 +146,11 @@ In addition, you gain the following option:
 
 **Benefit:** You gain an additional battlefield specialty. In addition, you gain the following plan:
 
-#### Extend Stance (combat)
-
-**Prerequisite:** Any (stance) talent.
-
-**Benefit:** Whenever you successfully damage a creature with an attack action, you may choose to extend the duration of one of your active (stance) talents by 1 round.
-
-#### Flyby Attack (Monster)*
-
-This creature can make an attack before and after it moves while flying.
-
-**Prerequisite:** Fly speed.
-
-**Benefit:** When flying, the creature can take a move action and another standard action at any point during the move. The creature cannot take a second move action during a round when it makes a flyby attack.
-
-**Normal:** Without this feat, the creature takes a standard action either before or after its move.
-
 #### Focused Stamina
 
 **Prerequisites:** Martial focus, combat stamina.
 
 **Benefit:** Whenever you would expend your martial focus, you may instead spend 5 stamina points.
-
-#### Forbidden Consumption Technique (combat)
-
-**Prerequisite:** Base attack bonus +5.
-
-**Benefits:** Whenever you would expend martial focus, you may take 1 point of nonlethal damage per character level instead of expending your martial focus, to a limit of once per action. This damage cannot be healed by any means other than getting a full night’s rest, which removes all associated nonlethal damage. This nonlethal damage cannot be reduced or redirected, and a character incapable of taking nonlethal damage cannot use this feat.
-
-#### Giantslayer (combat)*
-
-Your martial training and natural heartiness are the only tools you need to tackle even the mightiest foes.
-
-**Prerequisites:** Con 13, base attack bonus +5.
-
-**Benefit:** When performing or resisting a combat maneuver against a foe who is at least 1 size category larger than yourself, you gain a bonus to your CMB and CMD equal to +1 per size category larger than yourself the opponent is (for example, a Small character would gain a +4 bonus to resist or perform combat maneuvers against a Gargantuan opponent). In addition, you can use combat maneuvers against targets 1 size larger than would normally be allowed (e.g., although normally a creature cannot drag a target more than 1 size category larger than itself, a character with this feat could drag targets up to two size categories larger than itself).
-
-#### Great Focus (combat)
-
-**Prerequisites:** 2 or more combat spheres, base attack bonus +6 or higher.
-
-**Benefit:** You may maintain a second martial focus. This martial focus is gained and expended independently from the first.
-
-**Wiki Note:** Remember that even with Great Focus, you can only gain Martial Focus once per round.
-
-#### Gunsmithing*
-
-You know the secrets of repairing and restoring firearms.
-
-**Benefit:** If you have access to a gunsmith’s kit, you can create and restore firearms, craft bullets, and mix black powder for all types of firearms. You do not need to make a Craft check to create firearms and ammunition or to restore firearms.
-
-**Crafting Firearms:** You can craft any early firearm for a cost in raw materials equal to half the price of the firearm. At your GM’s discretion, you can craft advanced firearms for a cost in raw materials equal to half the price of the firearm. Crafting a firearm in this way takes 1 day of work for every 1,000 gp of the firearm’s price (minimum 1 day).
-
-**Crafting Ammunition:** You can craft bullets, pellets, and black powder for a cost in raw materials equal to 10% of the price. If you have at least 1 rank in Craft (alchemy), you can craft alchemical cartridges for a cost in raw materials equal to half the price of the cartridge. At your GM’s discretion, you can craft metal cartridges for a cost in raw materials equal to half the cost of the cartridge. Crafting bullets, black powder, or cartridges takes 1 day of work for every 1,000 gp of ammunition (minimum 1 day).
-
-**Restoring a Broken Firearm:** Each day, with an hour’s worth of work, you can use this feat to repair a single firearm with the broken condition. You can take time during a rest period to restore a broken firearm with this feat.
-
-**Special:** If you are a gunslinger, this feat grants the following additional benefit. You can use this feat to repair and restore your initial, battered weapon. It costs 300 gp and 1 day of work to upgrade it to a masterwork firearm of its type.
-
-#### Heroic Resolve (combat)
-
-**Prerequisites:** Ability to gain martial focus, Constitution 13 or higher.
-
-**Benefit:** As a move action, you may expend focus to suppress a single instance of the dazzled, fatigued, shaken, or sickened condition for a number of rounds equal to your Constitution modifier (minimum 1). The duration of these conditions continues to expire while suppressed. You may instead choose to treat the frightened condition as shaken, the nauseated condition as sickened, the exhausted condition as fatigued, or the blinded condition as dazzled for the same duration. You may take this move action even if the condition would normally prevent you from taking move actions. You may only have one condition suppressed at a time; suppressing an additional condition forces you to stop suppressing the previous condition.
-
-If your base attack bonus is +10 or higher, you may suppress the dazed, frightened, nauseated, shaken, staggered, and stunned conditions and treat the panicked condition as shaken, though the duration of the suppression is cut in half (minimum 1 round).
-
-#### Hunting Party (Combat)
-
-*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
-
-*Blood draws a crowd, and a crowd draws blood.*
-
-**Prerequisites:** Warleader sphere 5 associated skill ranks; Duelist sphere; Warleader sphere.
-
-**Benefit:** You and allies benefitting from your Warleader sphere effects gain a +2 bonus on critical confirmation rolls against bleeding targets and a +2 bonus on Perception and Survival checks made against bleeding targets. These bonuses increase to +4 at 10 associated skill ranks.
-
-In addition, you gain the following option:
-
-#### Mixed Coordinator (combat)
-
-**Prerequisites:** Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package.
-
-When you tame a creature or recruit a cohort, you may choose to have its Hit Dice count against both your tame and recruit limits. When doing so, the creature counts as both an animal ally and a cohort for the purpose of talents that grant actions to or are triggered by cohorts and animal allies.
 
 #### Mounted Athlete
 
@@ -379,115 +180,15 @@ Your protective might is delivered on the swift heels of your mount.
 
 **Normal:** You cannot move with your mount as part of your patrol.
 
-#### Muscular Reflexes (combat)
-
-You rely on muscle memory and strength to enhance your reflexes.
-
-**Benefit:** You may make a number of additional attacks of opportunity per round equal to your Strength bonus. With this feat, you may also make attacks of opportunity while flat-footed.
-
-**Normal:** A character without this feat can make only one attack of opportunity per round and can’t make attacks of opportunity while flat-footed.
-
-**Special:** The Muscular Reflexes feat does not allow a rogue to use her opportunist ability more than once per round. The attacks of opportunity from this feat do not stack with those granted by Combat Reflexes or similar feats, but Muscular Reflexes counts as Combat Reflexes when meeting the prerequisites for feats.
-
-#### Perfect Calm (combat)
-
-**Prerequisite:** Martial focus.
-
-**Benefit:** You can expend your martial focus as part of any single Will saving throw or concentration check you make. When you expend your martial focus in this manner, your saving throw or concentration check is treated as if you rolled a 13, similarly to taking 10 on a skill check, except that the number you add to your saving throw or concentration check is 13.
-
-**Special:** This feat counts as having Iron Will for the purposes of meeting prerequisites of feats.
-
-#### Piranha Strike (combat)*
-
-You make a combination of quick strikes, sacrificing accuracy for multiple, minor wounds that prove exceptionally deadly.
-
-**Prerequisites:** Weapon Finesse, base attack bonus +1.
-
-**Benefit:** When wielding a light weapon, you can choose to take a -1 penalty on all melee attack rolls and combat maneuver checks to gain a +2 bonus on all melee damage rolls. This bonus to damage is halved (-50%) if you are making an attack with an off-hand weapon or secondary natural weapon. When your base attack bonus reaches +4, and for every 4 points thereafter, the penalty increases by -1 and the bonus on damage rolls increases by +2. You must choose to use this feat before the attack roll, and its effects last until your next turn. The bonus damage does not apply to touch attacks or effects that do not deal hit point damage. This feat cannot be used in conjunction with the Power Attack feat.
-
-#### Pouncing Sweep (combat)
-
-**Prerequisites:** Athletics sphere, Open Hand sphere.
-
-**Benefits:** Whenever you use the sweep ability of the Open Hand sphere, you may move 5 feet immediately before performing the trip using any movement mode associated with Athletics sphere packages you possess. This movement provokes attacks of opportunity as normal. At +6 base attack bonus and every 5 base attack bonus higher, you may add up to +5 feet of movement to the sweep.
-
-#### Practiced Interruption (combat)
-
-You are adept at anticipating and interrupting spellcasters.
-
-**Prerequisites:** Extra Combat Talent or combat training class feature, base attack bonus +5.
-
-**Benefit:** You may expend your martial focus to ready an attack action to disrupt a spell caster’s casting as a move action. The spellcaster must be within reach or range of your wielded weapon. A single casting attempt cannot trigger more than one readied action to interrupt from you.
-
-**Special:** You may take this feat a second time. If you do, you may instead use this ability as a swift action.
-
-##### Prepare for the Battlefield [plan]
-
-**Effect:** When you reveal this plan, you immediately retrain the battlefield specialty granted by this feat.
-
-You can reveal this plan once per week.
-
 #### Rigorous Student
 
 **Benefit:** Choose a class you have levels in. For the purpose of calculating the DCs of class features based on that class’ level (such as scholar material impositions and thaumaturge invocations), you treat your class level as 4 higher, to a maximum of your character level. This does not improve other effects of the class feature (for example, a character with 18 Intelligence, 5 levels in scholar, and 3 levels in conscript would have a flashbang save DC of 18, but their sulfuric detonation would only add 2d6 damage to their flashbang). This does not affect abilities which use your caster level to calculate the DC.
 
 **Special:** You may select this feat multiple times. The effects of this feat stack if applied to the same class multiple times.
 
-#### Rolling Serpent (combat)
-
-**Prerequisites:** Athletics sphere, Boxing sphere (Shoulder Roll).
-
-**Benefits:** As long as you have martial focus, whenever a creature makes a melee attack against you while you are using a movement mode corresponding to a package you possess, you may use shoulder roll against the attack without it counting towards your one usage per round.
-
-#### Style Synthesis (combat)
-
-**Prerequisites:** Any (stance) talent, any style feat.
-
-**Benefits:** Whenever you spend an action to activate a (stance) talent, you may activate a style feat as part of that action.
-
-#### Tactical Patrol (Combat)
-
-*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
-
-**Prerequisites:** Guardian sphere ((patrol) package); Warleader sphere ((tactic) package).
-
-**Benefit:** Your *tactic* always includes the area of your *patrol*, even if you centered your *tactic* elsewhere.
-
-In addition, you gain the following option:
-
-- **Engaging Patrol (dual sphere):** Whenever you *patrol*, you may *engage tactics* as part of that same action. If you do, instead of selecting a (zone) talent, you may select an additional (tactic); the chosen (tactic)'s *tactical presence* and *tactical coordination* apply to the area of your patrol.
-
 #### Technological Training
 
 **Benefit:** Reduce the penalties you suffer when using technician inventions that are not your own by half. If the technician who made the invention possesses Aesthetic Insight, these penalties are reduced to 0.
-
-#### Through The Long Night (combat)
-
-*Source: [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)*
-
-The night is hard and the night is long, but you know deep down, you can brave it.
-
-**Prerequisites:** Heroic Resolve, ability to gain martial focus, Cha 15 or Con 15, good alignment.
-
-**Benefit:** When you activate heroic resolve and suppress a condition, you may instead suppress it for a number of rounds equal to the highest bonus between your Charisma or Constitution modifier.
-
-If the chosen condition originates from an evil-aligned creature or object or a creature or object with an evil aura or the evil sub-type, you may activate heroic resolve as a swift action.
-
-#### Titan Breaker (combat)*
-
-You are the bane of those who believe they stand atop the world.
-
-**Prerequisites:** Con 15, Giantslayer, base attack bonus +10.
-
-**Benefit:** The bonus granted by your Giantslayer feat when performing or resisting a combat maneuver against a foe who is at least 1 size category larger than yourself increases to +2 per size category larger than yourself the opponent is. In addition, you can now use combat maneuvers against targets 2 size categories larger than would normally be allowed (instead of just 1 size category as allowed by the Giantslayer feat).
-
-#### Two-Weapon Rend (combat)*
-
-Striking with both of your weapons simultaneously, you can use them to deliver devastating wounds.
-
-**Prerequisites:** Dex 17, Double Slice, Improved Two-Weapon Fighting, Two-Weapon Fighting, base attack bonus +11.
-
-**Benefit:** If you hit an opponent with both your primary hand and your off-hand weapon, you deal an additional 1d10 points of damage plus 1-1/2 times your Strength modifier. You can only deal this additional damage once each round.
 
 #### Understand Thy Enemy
 
@@ -496,12 +197,6 @@ Striking with both of your weapons simultaneously, you can use them to deliver d
 **Prerequisites:** Fencing sphere (Read Foe, Parry And Riposte) or Fencing sphere (Read Foe) and opportune parry and riposte deed, Scout sphere.
 
 **Benefit:** Whenever you scout a creature, the next parry and riposte you use against that creature does not cost martial focus, an attack of opportunity, or a panache point. When used in this way, the ability does not require you to have a panache point to perform an attack and you do not regain martial focus.
-
-#### Unorthodox Unarmed Training (combat)
-
-**Prerequisite:** Improved Unarmed Strike, base attack bonus +4.
-
-**Benefit:** Choose two combat spheres that you possess that do not have Improved Unarmed Strike as an associated feat. The talents that you possess with the two chosen spheres count towards your unarmed damage progression. You may take this feat multiple times, choosing an additional two spheres each time.
 
 #### Unseen Terror
 
@@ -520,16 +215,6 @@ If you possess the Dazzling Display feat or Gladiator sphere, whenever you could
 **Benefit:** Choose a class you have levels in. For the purpose of determining class features selected individually at advancing levels you may select (such as alchemist discoveries, shifter bestial traits, striker arts, and witch hexes), you treat your level in that class as 4 higher, to a maximum of your character level. For example, a character with 4 levels in mageknight and 6 levels in shifter who has selected shifter with this feat may select bestial traits as if they were a 10th-level shifter (although they would have a total of three bestial traits, not 5). This does not include advanced rogue talents, grand hexes, and other such abilities which would normally only be selectable starting at higher levels unless you already have access to such abilities from one of your classes. This feat does not grant any such abilities when it is taken, nor does it cause levels in any class to count as levels in other classes for the purpose of determining the effects of class abilities.
 
 **Special:** You may select this feat multiple times. The effects of this feat stack if applied to the same class multiple times.
-
-#### Wiggling Footsies (combat)
-
-**Prerequisites:** Fencing sphere (Footwork), Scout sphere (Calibrating Wiggle).
-
-**Benefits:** Whenever you use the Fencing sphere Footwork talent in response to an attack made against you, you may also scout the attacker. If you successfully avoid the attack (e.g. missing or succeeding at a Reflex saving throw) and you have scouted the attacker (whether previously scouted or as part of this ability), you gain the Scout sphere Calibrating Wiggle’s bonus precision damage on your first successful attack made against the attacker before the end of your next turn, even if you do not make a charge attack against them.
-
-In addition, whenever you deal the Scout sphere Calibrating Wiggle’s bonus precision damage to a target, you may regain martial focus as a free action that can be taken even when it is not your turn.
-
-**Special:** Abilities which function similarly to the Fencing sphere Footwork talent may be used to qualify for this feat in place of the Footwork talent (such as the Warp sphere Emergency Teleport talent, swashbuckler’s dodging panache deed, or other ability subject to GM discretion), and may treat evading an attack with such an abilities as using the Footwork talent for the purposes of this feat.
 
 ---
 
