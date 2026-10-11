@@ -793,11 +793,11 @@ function openRaceSearch() {
       h("label", { class: "row", style: "gap:.25rem" }, heritages, "List subraces and heritages")),
     state.spheresModule ? null : h("p", { class: "note" }, "Spheres races are listed when Spheres is turned on."),
     results)
-  const traitsOf = (r) => RACIAL.list.filter((e) => e.kind === "Standard" && e.race.toLowerCase() === r.name.toLowerCase() && !fieldTrait(e)).map((e) => e.name)
+  const traitsOf = (r) => RACIAL.list.filter((e) => e.kind === "Standard" && traitOfRace(e, r) && !fieldTrait(e)).map((e) => e.name)
   const modsOf = (r) => [fmtMods(r.mods), r.flexMod ? "+2 to one ability score of your choice" : ""].filter(Boolean).join(", ") || "no ability adjustments"
   const all = RACE_DATA.list.filter((r) => isPf(r) || state.spheresModule || r.id === state.race.ref).flatMap((r) => {
     const traits = traitsOf(r)
-    const summaries = RACIAL.list.filter((e) => e.kind === "Standard" && e.race.toLowerCase() === r.name.toLowerCase() && !fieldTrait(e)).map((e) => e.summary ?? "").join(" ")
+    const summaries = RACIAL.list.filter((e) => e.kind === "Standard" && traitOfRace(e, r) && !fieldTrait(e)).map((e) => e.summary ?? "").join(" ")
     const speeds = [`speed ${r.speed} ft.`, ...OTHER_SPEEDS.filter((k) => traits.some((t) => new RegExp(`\\b${k === "fly" ? "fl(y|ight)" : k}`, "i").test(t)))]
     // a row: the race itself, or one of its subraces / heritages with what it trades already counted
     const row = (sub) => {
@@ -808,7 +808,7 @@ function openRaceSearch() {
         .toLowerCase().replace(/−/g, "-")
       return { r, sub, mods, flex, modText, swaps, traits, text, name: sub ? `${r.name}: ${sub.name}` : r.name }
     }
-    const scoreAlts = RACIAL.list.filter((e) => e.kind === "Alternate" && e.race.toLowerCase() === r.name.toLowerCase() && (isPf(e) || state.spheresModule)
+    const scoreAlts = RACIAL.list.filter((e) => e.kind === "Alternate" && traitOfRace(e, r) && (isPf(e) || state.spheresModule)
       && altSlots(e, []).some((sl) => sl.key === ABILITY_SLOT)).map((e) => { const mods = altMods(e, r.mods); return { name: e.name, mods: mods ?? r.mods, choice: !mods, summary: e.summary, altId: e.id, stats: [], alts: [] } })
     return [row(null), ...(r.subraces ?? []).map(row), ...scoreAlts.map(row)]
   })
@@ -897,7 +897,13 @@ const PRIMORDIAL = "Primordial Performer"
 const FIELD_TRAIT = /^(medium|small|large|tiny|medium or small-sized|medium\/small sized|normal speed|slow speed|speed|base speed|slow|fast|languages?)$/i
 // a standard "trait" that only states the size, land speed or languages (the sheet has fields for those)
 const fieldTrait = (e) => e.kind === "Standard" && FIELD_TRAIT.test(e.name.trim())
-const raceTraitsOf = (kind) => { const n = currentRaceName().toLowerCase(); return n ? RACIAL.list.filter((e) => e.kind === kind && e.race.toLowerCase() === n) : [] }
+// a trait is its race's by name; where a Pathfinder race and a Spheres race share a name (cecaelia), each keeps its own system's
+const sharedName = (name) => RACE_DATA.list.filter((x) => x.name.toLowerCase() === name.toLowerCase()).length > 1
+const traitOfRace = (e, r) => e.race.toLowerCase() === r.name.toLowerCase() && (!sharedName(r.name) || isPf(e) === isPf(r))
+const raceTraitsOf = (kind) => {
+  const r = RACE_DATA.byId[state.race.ref] ?? { name: currentRaceName(), system: "Pathfinder 1e" }
+  return r.name ? RACIAL.list.filter((e) => e.kind === kind && (RACE_DATA.byId[state.race.ref] ? traitOfRace(e, r) : e.race.toLowerCase() === r.name.toLowerCase())) : []
+}
 const raceStandardTraits = () => raceTraitsOf("Standard")
 // a trait's name as an alternate's "Replaces" line might put it: "the ifrit's spell-like abilities" -> "spell-like ability"
 function normTrait(text) {
