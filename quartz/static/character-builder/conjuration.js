@@ -5,6 +5,31 @@
 // and companion archetypes (compendium/conjuration-companion.json and conjuration.json).
 "use strict"
 
+// What each companion archetype gives up (shown beside it; the numbers the builder applies are in
+// calc), from the archetype's text; one not listed is read for "does not gain the ... special abilities".
+const ARCHETYPE_REPLACES = {
+  Aquatic: ["20 feet of one of its speeds"],
+  Avatar: ["the base form's ability scores"],
+  Beast: ["its starting Intelligence (reduced to 2)", "Intelligence increases from (form) talents"],
+  "Distinct Kin": [],
+  Familiar: ["half its Hit Dice"],
+  "Guileful Companion": ["either evasion, devotion, multiattack and improved evasion, or all natural attacks granted by its base form"],
+  Mage: ["its base attack bonus progression (becomes poor)", "its Hit Die (becomes d6)", "the choice of its free (form) talent (Magical Companion)", "Climb and Swim as class skills"],
+  "Martial Companion": ["evasion", "devotion", "multiattack", "improved evasion"],
+  Mindless: ["its Intelligence score", "feats", "skill points", "speech"],
+  Puppet: ["acting without your direction"],
+  Unwilling: [],
+  Warrior: ["all natural attacks granted by its base form", "multiattack"],
+}
+// The combinations an archetype's own text forbids. only: the archetypes it may be taken with (the
+// avatar: "can never select other companion archetypes except the aquatic companion archetype");
+// not: the ones it may not ("may not also possess the mindless or puppet companion archetypes").
+const ARCHETYPE_LIMITS = {
+  Avatar: { only: ["Aquatic"] },
+  Beast: { not: ["Mindless", "Puppet"] },
+}
+const givenUp = (text) => (text.match(/does not gain the\s+([^.]+?)\s+special abilit/)?.[1] ?? "")
+  .split(/,\s*(?:and\s+)?|\s+and\s+/).map((x) => x.trim().toLowerCase()).filter(Boolean)
 const CONJ = { data: null, talents: [], archetypes: [] }
 const blankConjuration = () => ({ entry: null, cl: 1, small: false, size: "", increases: [], talents: [], archetypes: [], attackSig: "" })
 const CONJ_SKILLS = ["clm", "fly", "kpl", "ste", "swm"]
@@ -289,9 +314,11 @@ if (VARIANT === "conjuration") {
       .sort((a, b) => a.name.localeCompare(b.name))
     CONJ.archetypes = [
       ...sphere.entries.filter((e) => e.kind === "companion archetype").map((e) => ({ name: e.name, source: e.source, url: `../../${e.url}`,
-        intro: mdToText(e.md), abilities: [{ name: `${e.name} (companion archetype)`, text: mdToText(e.md) }], replaces: [] })),
+        intro: mdToText(e.md), abilities: [{ name: `${e.name} (companion archetype)`, text: mdToText(e.md) }],
+        replaces: ARCHETYPE_REPLACES[e.name] ?? givenUp(mdToText(e.md)), ...(ARCHETYPE_LIMITS[e.name] ?? {}) })),
       ...(data.avatar ? [{ name: "Avatar", source: data.avatar.source, url: `../../${data.avatar.url}`, intro: "Granted by the voidrusher and void conduit: not otherwise available. " + mdToText(data.avatar.text),
-        abilities: [{ name: "Avatar (companion archetype)", text: mdToText(data.avatar.text) }], replaces: [] }] : []),
+        abilities: [{ name: "Avatar (companion archetype)", text: mdToText(data.avatar.text) }],
+        replaces: ARCHETYPE_REPLACES.Avatar, ...ARCHETYPE_LIMITS.Avatar }] : []),
     ].sort((a, b) => a.name.localeCompare(b.name))
     if (state.conjuration.entry) state.conjuration.entry = data.forms.find((f) => f.name === state.conjuration.entry.name) ?? state.conjuration.entry
     syncConjuration()

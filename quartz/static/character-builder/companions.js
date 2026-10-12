@@ -101,15 +101,25 @@ async function openArchetypePicker() {
   const render = () => {
     const q = box.value.trim().toLowerCase()
     const hits = all.filter((a) => !q || a.name.toLowerCase().includes(q) || a.intro.toLowerCase().includes(q))
+    // archetypes whose own rules forbid a combination (an archetype's "only": the ones it may be taken
+    // with; "not": the ones it may not): the chosen one that stands in the way of this one, if any
+    const chosen = () => (kindState().archetypes ?? []).map((x) => all.find((y) => y.name === x.name) ?? x)
+    const barredBy = (a) => chosen().find((c) => c.name !== a.name && ((a.only && !a.only.includes(c.name)) || (c.only && !c.only.includes(a.name))
+      || (a.not ?? []).includes(c.name) || (c.not ?? []).includes(a.name)))?.name ?? ""
     fill(results, ...hits.map((a) => {
       const on = (kindState().archetypes ?? []).some((x) => x.name === a.name)
       const lacks = petCantTake(a)
-      // (one a pet can't take can still be unticked if it was chosen before the familiar became a pet)
-      const cb = h("input", { type: "checkbox", checked: on, disabled: !!lacks && !on })
-      cb.addEventListener("change", () => { cb.checked ? addArchetype(a) : removeArchetype(a.name); if (lacks) render() })
-      return h("label", { class: "picker-item", role: "listitem", style: `cursor:${lacks && !on ? "default" : "pointer"};${lacks && !on ? "opacity:.55" : ""}` },
+      const barred = on ? "" : barredBy(a)
+      const off = (!!lacks || !!barred) && !on
+      // (one that can't be taken can still be unticked if it was chosen earlier)
+      const cb = h("input", { type: "checkbox", checked: on, disabled: off })
+      cb.addEventListener("change", () => { cb.checked ? addArchetype(a) : removeArchetype(a.name); render() })
+      return h("label", { class: "picker-item", role: "listitem", style: `cursor:${off ? "default" : "pointer"};${off ? "opacity:.55" : ""}` },
         h("span", { class: "pi-name" }, cb, " ", a.name, h("span", { class: "pi-meta" }, ` ${a.abilities.map((x) => baseName(x.name)).join(", ")}`)),
         h("span", { class: "pi-pre" }, `${a.replaces.length ? `Replaces ${a.replaces.join(", ")}. ` : ""}${a.source}`),
+        a.only ? h("span", { class: "note", style: "display:block" }, `Can only be combined with ${a.only.join(", ") || "nothing"}.`) : null,
+        a.not?.length ? h("span", { class: "note", style: "display:block" }, `Can't be combined with ${a.not.join(" or ")}.`) : null,
+        barred ? h("span", { class: "warn", style: "display:block" }, `Can't be combined with ${barred}.`) : null,
         lacks ? h("span", { class: "warn", style: "display:block" }, `Not for a pet: it has no ${lacks} to trade.`) : null)
     }),
     hits.length ? null : h("p", { class: "muted" }, all.length ? "No archetypes match." : "Couldn't load the archetypes."))
