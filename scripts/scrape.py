@@ -5219,7 +5219,10 @@ def build_spheres_companion_archetypes() -> int:
         text = re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1", text)
         # what it trades away: "This ability replaces deliver touch spells and improved evasion."
         replaces: list[str] = []
-        for r in re.finditer(r"\b[Tt]his (?:ability )?(?:replaces|alters)\s+([^.\n]+)\.", text):
+        # (or "A martial beast does not gain the evasion, devotion, multiattack, and improved evasion special abilities.")
+        gives_up = [*re.finditer(r"\b[Tt]his (?:ability )?(?:replaces|alters)\s+([^.\n]+)\.", text),
+                    *re.finditer(r"\bdoes not gain the\s+([^.\n]+?)\s+special abilit(?:y|ies)\b", text)]
+        for r in gives_up:
             for part in re.split(r",\s*(?:and\s+)?|\s+and\s+", r.group(1)):
                 part = re.sub(r"^the\s+", "", part.strip().lower()).replace("its own kind", "its kind")
                 if part and part not in replaces:
