@@ -5217,9 +5217,17 @@ def build_spheres_companion_archetypes() -> int:
         text = re.sub(r"^\*Source: .*\*\s*$", "", body, flags=re.M)
         text = re.sub(r"\n---\n+\*Archived: .*$", "", text, flags=re.S).strip()
         text = re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1", text)
+        # what it trades away: "This ability replaces deliver touch spells and improved evasion."
+        replaces: list[str] = []
+        for r in re.finditer(r"\b[Tt]his (?:ability )?(?:replaces|alters)\s+([^.\n]+)\.", text):
+            for part in re.split(r",\s*(?:and\s+)?|\s+and\s+", r.group(1)):
+                part = re.sub(r"^the\s+", "", part.strip().lower()).replace("its own kind", "its kind")
+                if part and part not in replaces:
+                    replaces.append(part)
+        intro = next((p for p in text.split("\n\n") if p.strip() and not p.lstrip().startswith("#")), "")
         out["companion" if m.group(2) == "Animal Companion" else "familiar"].append(
             {"name": m.group(1), "source": src.group(1) if src else "Spheres", "url": _page_url(f),
-             "intro": text.split("\n\n")[0], "abilities": [{"name": f"{m.group(1)} (archetype)", "text": text}], "replaces": []})
+             "intro": intro, "abilities": [{"name": f"{m.group(1)} (archetype)", "text": text}], "replaces": replaces})
     COMPENDIUM_OUT.mkdir(parents=True, exist_ok=True)
     (COMPENDIUM_OUT / "companion-archetypes-spheres.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
     return len(out["companion"]) + len(out["familiar"])
