@@ -27,6 +27,13 @@ const ARCHETYPE_REPLACES = {
 const ARCHETYPE_LIMITS = {
   Avatar: { only: ["Aquatic"] },
   Beast: { not: ["Mindless", "Puppet"] },
+  // (the mage: "cannot be combined with the mindless companion archetype"; unwilling: "cannot possess both
+  // this archetype and the Puppet archetype"; mindless and puppet list the same limits from their side.
+  // Mindless with puppet is allowed: the puppet's text provides for it.)
+  Mage: { not: ["Mindless"] },
+  Unwilling: { not: ["Puppet"] },
+  Mindless: { not: ["Beast", "Mage"] },
+  Puppet: { not: ["Beast", "Unwilling"] },
 }
 const givenUp = (text) => (text.match(/does not gain the\s+([^.]+?)\s+special abilit/)?.[1] ?? "")
   .split(/,\s*(?:and\s+)?|\s+and\s+/).map((x) => x.trim().toLowerCase()).filter(Boolean)
