@@ -407,9 +407,25 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 | **[Warpriest](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Warpriest)** | [[Bastion Of Conviction (Warpriest Archetype)\|Bastion of Conviction]],[[Champion Warpriest (Warpriest Archetype)\|Champion Warpriest]], [[Devoted Disciple (Warpriest Archetype)\|Devoted Disciple]], [[Divine Heretic (Warpriest Archetype)\|Divine Heretic]], [[Divinitech Pilot]], [[Sphere Warpriest]] | [[Warpriest Blessings]] |
 | **[Witch](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Witch)** | [[Hexblade]], [[Sphere Witch]], [[Toilbrook (Witch Archetype)\|Toilbrook]], [[Withering Witch (Witch Archetype)\|Withering Witch]] | [[Shaman and Witch Hexes\|Witch Hexes]] |
 | **[Wizard](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Wizard)** | [[Cosmic Sage (Wizard Archetype)\|Cosmic Sage]], [[Eclectic Researcher (Wizard Archetype)\|Eclectic Researcher]], [[Magitect (Wizard Archetype)\|Magitect]], [[Sphere Wizard]] | [[Arcane Discoveries (DRS)\|Arcane Discoveries]] |
-| **[Animal Companions](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Companion)** | [[Martial Beast (Animal Companion Archetype)\|Martial Beast]] |  |
-| **[Familiars](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Familiar)** | [[Beast Of Omen (Familiar Archetype)\|Beast of Omen]], [[Dream Guide (Familiar Archetype)\|Dream Guide]], [[Shadow Familiar (Familiar Archetype)\|Shadow Familiar]], [[Willing Martyr (Familiar Archetype)\|Willing Martyr]] |  |
 | **Soulknife** | [[Epoch-Walker (Soulknife Archetype)\|Epoch-Walker]] | [[Soulknife Blade Skills]] |
+
+</div>
+
+</div>
+
+<div class="sop-tab" data-tab="companions">
+
+<div class="sop-tab-label">Companions</div>
+
+*Companion and Familiar Archetypes · [[Animal Companion Builder]] · [[Familiar Builder]] · [[Conjuration Companion Builder]]*
+
+<div class="sop-classes">
+
+| For | Archetypes |
+| --- | --- |
+| **[Animal Companions](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Companion)** | [[Martial Beast (Animal Companion Archetype)\|Martial Beast]] |
+| **[Familiars](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Familiar)** | [[Beast Of Omen (Familiar Archetype)\|Beast of Omen]], [[Dream Guide (Familiar Archetype)\|Dream Guide]], [[Shadow Familiar (Familiar Archetype)\|Shadow Familiar]], [[Willing Martyr (Familiar Archetype)\|Willing Martyr]] |
+| **[[Conjuration]] companions** | [[Aquatic (Companion Archetype)\|Aquatic]], [[Bestial (Companion Archetype)\|Bestial]] |
 
 </div>
 

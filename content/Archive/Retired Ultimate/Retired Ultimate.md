@@ -95,6 +95,10 @@ parent: "[[Archive]]"
 
 - [[Nocturnus (Mesmerist Archetype) (Ultimate)|Nocturnus (Mesmerist Archetype)]]
 
+**Companions Classes**
+
+*Nothing retired yet.*
+
 **Prestige Classes**
 
 *Nothing retired yet.*

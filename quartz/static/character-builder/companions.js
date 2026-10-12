@@ -67,6 +67,14 @@ const baseName = (n) => String(n).replace(/\s*\((?:Ex|Su|Sp)\)/g, "").trim().toL
 // what the applied archetypes replace is shown beside each one, and left to the user: nothing comes
 // off the sheet for an archetype (so this is always empty)
 const replacedByArchetypes = () => new Set()
+// A Beastmastery Pet doesn't get these familiar abilities (unless it's an Improved Pet), so it can't
+// take an archetype that trades one of them away: what the archetype can't replace, or "" if it's fine
+const PET_LACKS = ["deliver touch spells", "scry on familiar", "share spells", "speak with animals of its kind", "spell resistance", "intelligence"]
+function petCantTake(a) {
+  if (VARIANT !== "familiar" || state.familiar?.kind !== "pet" || state.familiar?.improved) return ""
+  const missing = PET_LACKS.filter((x) => (a.replaces ?? []).some((r) => String(r).toLowerCase().includes(x)))
+  return missing.map((x) => (x === "intelligence" ? "Intelligence bonus" : x)).join(", ")
+}
 function addArchetype(a) {
   const k = kindState()
   k.archetypes = [...(k.archetypes ?? []).filter((x) => x.name !== a.name), { name: a.name, url: a.url, source: a.source, replaces: a.replaces }]
@@ -84,18 +92,25 @@ async function openArchetypePicker() {
   const box = h("input", { type: "search", placeholder: "Search archetypes", "aria-label": "Search archetypes" })
   const results = h("div", { class: "picker-results", role: "list" }, h("p", { class: "muted" }, "Loading archetypes…"))
   const dlg = openDialog(VARIANT === "familiar" ? "Familiar archetypes" : "Companion archetypes",
-    h("p", { class: "note" }, ARCHETYPE_STACK_NOTE), h("div", { class: "row picker-filters" }, box), results,
+    h("p", { class: "note" }, ARCHETYPE_STACK_NOTE),
+    VARIANT === "familiar" && state.familiar?.kind === "pet" && !state.familiar?.improved
+      ? h("p", { class: "note" }, "A pet doesn't gain an Intelligence bonus, deliver touch spells, scry on familiar, share spells, speak with animals of its kind or spell resistance, so archetypes that replace one of those are greyed out.") : null,
+    h("div", { class: "row picker-filters" }, box), results,
     h("div", { class: "row add-row" }, h("button", { class: "primary", onclick: () => dlg.done() }, "Done")))
   let all = []
   const render = () => {
     const q = box.value.trim().toLowerCase()
     const hits = all.filter((a) => !q || a.name.toLowerCase().includes(q) || a.intro.toLowerCase().includes(q))
     fill(results, ...hits.map((a) => {
-      const cb = h("input", { type: "checkbox", checked: (kindState().archetypes ?? []).some((x) => x.name === a.name) })
-      cb.addEventListener("change", () => (cb.checked ? addArchetype(a) : removeArchetype(a.name)))
-      return h("label", { class: "picker-item", role: "listitem", style: "cursor:pointer" },
+      const on = (kindState().archetypes ?? []).some((x) => x.name === a.name)
+      const lacks = petCantTake(a)
+      // (one a pet can't take can still be unticked if it was chosen before the familiar became a pet)
+      const cb = h("input", { type: "checkbox", checked: on, disabled: !!lacks && !on })
+      cb.addEventListener("change", () => { cb.checked ? addArchetype(a) : removeArchetype(a.name); if (lacks) render() })
+      return h("label", { class: "picker-item", role: "listitem", style: `cursor:${lacks && !on ? "default" : "pointer"};${lacks && !on ? "opacity:.55" : ""}` },
         h("span", { class: "pi-name" }, cb, " ", a.name, h("span", { class: "pi-meta" }, ` ${a.abilities.map((x) => baseName(x.name)).join(", ")}`)),
-        h("span", { class: "pi-pre" }, `${a.replaces.length ? `Replaces ${a.replaces.join(", ")}. ` : ""}${a.source}`))
+        h("span", { class: "pi-pre" }, `${a.replaces.length ? `Replaces ${a.replaces.join(", ")}. ` : ""}${a.source}`),
+        lacks ? h("span", { class: "warn", style: "display:block" }, `Not for a pet: it has no ${lacks} to trade.`) : null)
     }),
     hits.length ? null : h("p", { class: "muted" }, all.length ? "No archetypes match." : "Couldn't load the archetypes."))
   }
@@ -115,7 +130,8 @@ function archetypeCard() {
     h("div", { class: "row" }, h("div", { class: "group-title", style: "margin:0" }, "Archetypes"), h("div", { class: "spacer" }),
       h("button", { class: "small", onclick: () => openArchetypePicker() }, "+ Add archetypes")),
     ...list.map((a) => h("div", { class: "row" }, h("b", {}, a.name), h("span", { class: "muted" }, a.source),
-      a.replaces?.length ? h("span", { class: "note" }, `Replaces ${a.replaces.join(", ")}.`) : null, h("div", { class: "spacer" }),
+      a.replaces?.length ? h("span", { class: "note" }, `Replaces ${a.replaces.join(", ")}.`) : null,
+      petCantTake(a) ? h("span", { class: "warn" }, `⚠ Not for a pet: it has no ${petCantTake(a)} to trade.`) : null, h("div", { class: "spacer" }),
       a.url ? h("a", { href: a.url, target: "_blank", rel: "noopener" }, /^https?:/.test(a.url) ? "On Archives of Nethys" : "On the wiki") : null,
       h("button", { class: "small danger", onclick: () => removeArchetype(a.name) }, "Remove"))),
     h("p", { class: "note" }, list.length

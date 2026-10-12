@@ -391,13 +391,32 @@ def home_class_tabs(md: str) -> str:
         elif cur:
             sections[cur]["body"].append(l)
     tabs = []
+    companions = None
     for heading, label in HOME_CLASS_TABS:
         sec = sections.get(heading)
         if not sec:
             continue
+        # the animal companion and familiar rows leave the Pathfinder table for a tab of their own
+        rows = [l for l in sec["body"] if re.match(r"\| \*\*\[(?:Animal Companions|Familiars)\]", l)]
+        if rows:
+            sec["body"] = [l for l in sec["body"] if l not in rows]
+            companions = rows
         body = "\n".join(sec["body"]).strip()
         head = f"*{heading}" + (f" · {sec['link']}" if sec["link"] else "") + "*"
         tabs.append((label, f"{head}\n\n<div class=\"sop-classes\">\n\n{body}\n\n</div>"))
+    if companions:
+        table = ["| For | Archetypes |", "| --- | --- |"]
+        for row in companions:
+            cells = [c.strip() for c in re.split(r"(?<!\\)\|", row.strip().strip("|"))]
+            table.append(f"| {cells[0]} | {cells[1] if len(cells) > 1 else ''} |")
+        # (a Conjuration sphere companion's archetypes are named "(Companion Archetype)")
+        conj = sorted(f.stem for f in CONTENT.rglob("* (Companion Archetype).md") if ARCHIVE not in f.relative_to(CONTENT).parts)
+        if conj:
+            links = ", ".join("[[" + n + "\\|" + re.sub(r"\s*\(.*\)$", "", n) + "]]" for n in conj)
+            table.append(f"| **[[Conjuration]] companions** | {links} |")
+        tools = [n for n in ("Animal Companion Builder", "Familiar Builder", "Conjuration Companion Builder") if (CONTENT / "Tools" / f"{n}.md").exists()]
+        head = "*Companion and Familiar Archetypes" + "".join(f" · [[{n}]]" for n in tools) + "*"
+        tabs.append(("Companions", head + "\n\n<div class=\"sop-classes\">\n\n" + "\n".join(table) + "\n\n</div>"))
     stop = end
     if pre is not None:
         pend = next((i for i in range(pre + 1, len(lines)) if lines[i].strip() == "</div>"), None)

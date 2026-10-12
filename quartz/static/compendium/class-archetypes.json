@@ -10981,6 +10981,20 @@
     "url": "Archetypes-(Unsorted)/Willing-Martyr-(Familiar-Archetype)",
     "source": ""
    }
+  ],
+  "Conjuration": [
+   {
+    "name": "Aquatic",
+    "system": "Spheres",
+    "url": "Spheres-Of-Power/Aquatic-(Companion-Archetype)",
+    "source": ""
+   },
+   {
+    "name": "Bestial",
+    "system": "Spheres",
+    "url": "Spheres-Of-Power/Bestial-(Companion-Archetype)",
+    "source": ""
+   }
   ]
  }
 }

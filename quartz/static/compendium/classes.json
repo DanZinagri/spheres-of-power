@@ -1252,6 +1252,22 @@
    "complete": true
   },
   {
+   "name": "Conjuration",
+   "system": "Spheres",
+   "group": "Base PF1e Classes",
+   "prestige": false,
+   "url": "Spheres-Of-Power/Conjuration/Conjuration",
+   "source": "Ultimate Spheres of Power",
+   "hd": null,
+   "skills": null,
+   "classSkills": [],
+   "classSkillsText": "",
+   "bab": "med",
+   "caster": "high",
+   "levels": 40,
+   "complete": false
+  },
+  {
    "name": "Aeronaut Captain",
    "system": "Spheres",
    "group": "Prestige Classes",
