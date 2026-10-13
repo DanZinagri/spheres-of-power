@@ -189,8 +189,8 @@ Dragons are among the most powerfully magical creatures in the world - and it's 
 
 **Drawbacks:** Verbal Casting, Focused Casting
 
-**Boons:** Bound Creature1
-1 A user of dragon magic must choose a dragon as their bound creature.
+**Boons:** Bound Creature¹
+¹ A user of dragon magic must choose a dragon as their bound creature.
 **Wiki Note:** This tradition is intended for use with content from The Player's Guide to Skybourne that is outside the scope of this wiki. Those interested in the full version of dragon magic should pick up that book.
 
 ### Dream Casting

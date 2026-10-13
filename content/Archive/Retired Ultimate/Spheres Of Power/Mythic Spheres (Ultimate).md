@@ -215,8 +215,8 @@ You can temporarily increase your powers at the cost of straining your body. As 
 | 2 | 4 | 8 | 64 |
 | 3 | 9 | 9 | 81 |
 | 4 | 16 | 10 | 100 |
-| 5 | 25 | 111 | 121 |
-| 6 | 36 | 121 | 144 |
+| 5 | 25 | 11¹ | 121 |
+| 6 | 36 | 12¹ | 144 |
 
 **1:** While characters cannot normally exceed tier 10 for this power, Mythic Paragon (or, rarely, other effects) may allow a character to do so.
 

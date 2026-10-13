@@ -60,7 +60,7 @@ Every companion comes with one of the following base forms, chosen by the caster
 
 (Note: A companion does not gain power from temporary increases to caster level; i.e., from a thaumaturge’s forbidden lore ability or from certain boons.)
 
-***Avian:*** **Size** Medium; **Speed** 20 ft., Fly1 15 ft. (average); **AC** +2 natural armor; **Saves** Fort (good), Ref (good), Will (bad); **Attack** Bite (primary, 1d4 Medium, 1d3 Small), 2 talons (primary, 1d4 Medium, 1d3 Small, creature must be airborne to use); **Ability Scores** Str 12, Dex 16, Con 13, Int 7, Wis 10, Cha 11
+***Avian:*** **Size** Medium; **Speed** 20 ft., Fly¹ 15 ft. (average); **AC** +2 natural armor; **Saves** Fort (good), Ref (good), Will (bad); **Attack** Bite (primary, 1d4 Medium, 1d3 Small), 2 talons (primary, 1d4 Medium, 1d3 Small, creature must be airborne to use); **Ability Scores** Str 12, Dex 16, Con 13, Int 7, Wis 10, Cha 11
 
 Avian creatures are birds and bird-like magical beasts and outsiders. An avian companion has a head, 2 legs, and 2 wings.
 
@@ -74,7 +74,7 @@ Bipeds are usually humanoids, and begin with 2 legs, 2 arms, and a head.
 
 Ooze creatures are usually oozes, puddings, or other amorphous creatures and lack discernable limbs. An ooze companion may not be tripped unless gaining legs from another source.
 
-***Orb:*** **Size** Medium; **Speed** 5 ft. Hover1 30 ft. (average); **AC** +2 natural armor; **Saves** Fort (bad), Ref (good), Will (good); **Attack** bite or slam (choose 1) (1d6); **Ability Scores** Str 7, Dex 16, Con 13, Int 102, Wis 12, Cha 11.
+***Orb:*** **Size** Medium; **Speed** 5 ft. Hover¹ 30 ft. (average); **AC** +2 natural armor; **Saves** Fort (bad), Ref (good), Will (good); **Attack** bite or slam (choose 1) (1d6); **Ability Scores** Str 7, Dex 16, Con 13, Int 10², Wis 12, Cha 11.
 
 Orb creatures are lantern archons, will-o-wisps, gibbering orbs, and other mystical fey, outsiders, constructs, or aberrations with a floating sphere-like appearance and supernatural movement. An orb lacks any limbs, but may treat its body as a head for the purpose of adding natural attacks. An orb companion may not be tripped unless gaining legs from another source.
 
@@ -561,7 +561,7 @@ Conjuration companions that possess the Battle Creature (form) talent taken twic
 
 In some cases, such as extending gameplay past level 20, using monsters with high Hit Dice and casting abilities, the mindless companion archetype, etc., it is possible to have greater than 20th caster level for the Conjuration sphere or a companion with more than 15 Hit Dice. Refer to the follow table to determine the statistics of a Conjuration sphere companion for such a case. The progression remains the same should the table need extension beyond 40th caster level.
 
-| Caster’s Caster Level | Hit Dice | Base Attack Bonus | Skill Points1 | Feats | Natural Armor Bonus | Good Saves | Bad Saves | Special |
+| Caster’s Caster Level | Hit Dice | Base Attack Bonus | Skill Points¹ | Feats | Natural Armor Bonus | Good Saves | Bad Saves | Special |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 21st | 16 | +16 | 16 | 8 | +8 | +10 | +5 | Ability Score Increase |
 | 22nd | 17 | +17 | 17 | 9 | +8 | +10 | +5 |  |

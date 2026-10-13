@@ -99,7 +99,7 @@ The following is obviously a guideline, and should not be considered a definitiv
 | Circumstance Reputation | Modifier |
 | Allies or minions spread tales of your deeds before you arrive. | +5 |
 | A minstrel spreads tales or songs of your deeds. | +1/4 result of Perform check |
-| You hold a feast in your honor or buy rounds at the tavern, making a display of wealth and power. | Variable1 |
+| You hold a feast in your honor or buy rounds at the tavern, making a display of wealth and power. | Variable¹ |
 | You have enemies in the settlement. | +1 |
 | You own one or more structures in the settlement. | +1 per structure |
 | You don’t speak the primary language of the settlement. | -5 |
@@ -185,7 +185,7 @@ This rarely happens, though, as a crew engaged in ship combat will usually only 
 | Large | 4 |
 | Huge | 3 |
 | Gargantuan | 1 |
-| Colossal1 | -3 |
+| Colossal¹ | -3 |
 
 **1:** When a ship’s hull, dirigible, or sails are multiple Locations large, each Location is considered its own Colossal-sized object. CMB and CMD: A ship possesses a CMB and CMD, just as a creature does. This starting CMB and CMD is dependent on the ship’s total size, according to the chart below.
 
@@ -352,7 +352,7 @@ No matter how large a ship is nor whether or not it possesses sails, all airship
 
 **Wind Severity**
 
-| Severity Level | Wind Speed | Ranged Attacks Normal/Siege Weapons1 | Checked Size2 | Blown Away3 | Fly/Pilot Penalty4 |
+| Severity Level | Wind Speed | Ranged Attacks Normal/Siege Weapons¹ | Checked Size² | Blown Away³ | Fly/Pilot Penalty⁴ |
 | --- | --- | --- | --- | --- | --- |
 | 1 (Light) | 0-10 mph | -/- | - | - | - |
 | 2 (Moderate) | 11-20 mph | -/- | - | - | - |
@@ -1149,13 +1149,13 @@ Every crew and officer possesses a Loyalty score, which is used to determine wha
 | Half rations | -2 |
 | No rations | -6 |
 | Time sailing | -1 for each month without landfall |
-| Charmed1 | +10 vs Mutiny |
-| Dominated1 | +15 vs Mutiny |
+| Charmed¹ | +10 vs Mutiny |
+| Dominated¹ | +15 vs Mutiny |
 | Battles within last month | +2 per victory, -2 per defeat |
 | The captain offers a gift/signing bonus/etc. (per 200 gp value) | +1 (lessens by 1 per month, bonus halved for a medium crew, and halved again for a large crew) |
 | No captain (captain is killed or captured and no PC steps up to take his or her place) | -20 |
-| Head chef bonus2 | 1/10th last Professon (chef) check. |
-| Head entertainer bonus2 | 1/5th last Perform or Profession (courtesan) check |
+| Head chef bonus² | 1/10th last Professon (chef) check. |
+| Head entertainer bonus² | 1/5th last Perform or Profession (courtesan) check |
 
 1: It is difficult to enspell an entire crew, but not unheard of. However, if a crew or officer should ever overcome the charm/domination effect, the bonus instead becomes a permanent penalty of equal amount, making a mutiny all too probable.
 2: A head chef or head entertainer can provide this bonus for only a limited number of people, as described in their entries under ‘Crew Roles’ earlier in this chapter.

@@ -362,7 +362,7 @@ An anima manipulates the very elements around himself.
 - Fire elementals require the Fire geomancing package and a fire of at least the given size.
 - Animated plants require the Plantlife geomancing package and a plant of at least the given size.
 
-| Class Level | Maximum Elemental Size | Minimum 5-ft. Cubes | Minimum Size1 |
+| Class Level | Maximum Elemental Size | Minimum 5-ft. Cubes | Minimum Size¹ |
 | --- | --- | --- | --- |
 | 2nd | Small (halve hp, CR 1/2) | 1/4 | Small |
 | 4th | Small | 1/4 | Small |

@@ -257,13 +257,13 @@ Radiation dangers are organized into four categories: low, medium, high, and sev
 | -273.15 / -459.67 | Absolute zero | 38 / 100 | Desert temperatures |
 | -30/-22 | Arctic temperatures | 100 / 212 | Water boils |
 | 0/32 | Water freezes | 230 / 450 | Tin melts |
-| 0/32 | Creatures with cold subtype1 | 233 / 451 | Flashpoint of paper |
-| 10/40 | Incorporeal undead1 | 500 / 930 | Campfire |
+| 0/32 | Creatures with cold subtype¹ | 233 / 451 | Flashpoint of paper |
+| 10/40 | Incorporeal undead¹ | 500 / 930 | Campfire |
 | 20/70 | Average room temperature | 510 / 950 | Creature with fire subtype1 |
-| 20/70 | Corporeal undead1 | 620 / 1,150 | Wood-fueled forge |
+| 20/70 | Corporeal undead¹ | 620 / 1,150 | Wood-fueled forge |
 | 37/98 | Average human temperature | 1,500 / 2,750 | Iron melts |
 
-1 This is the temperature of an average creature of its type/subtype, and variance within said type/subtype is to be assumed.
+¹ This is the temperature of an average creature of its type/subtype, and variance within said type/subtype is to be assumed.
 
 **Note:** When using a heat sensor, GMs are encouraged to approximate an area’s temperatures. **Table: Temperatures** provides average temperatures of common environments, locations, and creatures as suggestions and points of comparison.
 

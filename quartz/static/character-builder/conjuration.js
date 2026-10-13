@@ -26,6 +26,8 @@ const ARCHETYPE_REPLACES = {
 // not: the ones it may not ("may not also possess the mindless or puppet companion archetypes").
 const ARCHETYPE_LIMITS = {
   Avatar: { only: ["Aquatic"] },
+  // forms: the base forms it may be applied to (the warrior: "may only be applied to bipedal companions")
+  Warrior: { forms: ["Biped"] },
   Beast: { not: ["Mindless", "Puppet"] },
   // (the mage: "cannot be combined with the mindless companion archetype"; unwilling: "cannot possess both
   // this archetype and the Puppet archetype"; mindless and puppet list the same limits from their side.

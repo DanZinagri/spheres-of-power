@@ -494,8 +494,8 @@ The following conditions are emotion effects that can be applied with the emotiv
 
 | Initial Emotion | Second Stage | Third Stage | Fourth Stage |
 | --- | --- | --- | --- |
-| Fascinated1 | – | – | – |
-| Shaken2 | Frightened | Panicked | Cowering |
+| Fascinated¹ | – | – | – |
+| Shaken² | Frightened | Panicked | Cowering |
 | **If Using *Spheres of Guile*** |  |  |  |
 | Angry | Livid | Enraged | Frenzied |
 | Impressed | – | – | – |

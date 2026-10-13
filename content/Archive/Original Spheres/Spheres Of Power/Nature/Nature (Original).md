@@ -247,9 +247,9 @@ Creatures are allowed a Reflex save to avoid being frozen. On a failure, they ar
 
 Some talents are marked (spirit). These talents give the caster ways they have learned to tune their spirit with nature. Each (spirit) talent grants the caster a new ability they may use as a standard action. These abilities only affect the caster.
 
-Some talents are marked (air)1, (plant), (water), (fire), (earth), or (metal)1. You must possess the air, plant, water, fire, earth, or metal geomancing package respectively to gain a talent with its designation. Talents marked (geomancing) give you new geomancing abilities.
+Some talents are marked (air)¹, (plant), (water), (fire), (earth), or (metal)¹. You must possess the air, plant, water, fire, earth, or metal geomancing package respectively to gain a talent with its designation. Talents marked (geomancing) give you new geomancing abilities.
 
-1 SoP Wiki Note: These are not Core packages, and were instead added in supplementary products..
+¹ SoP Wiki Note: These are not Core packages, and were instead added in supplementary products..
 
 ---
 

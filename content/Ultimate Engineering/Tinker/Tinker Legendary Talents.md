@@ -342,7 +342,7 @@ A calibrated turret is piloted as a standard action, and may make a single stand
 
 ##### Table: Turrets
 
-| Size | Damage | Crit | Range | Type1 | Ranks2 | Cost |
+| Size | Damage | Crit | Range | Type¹ | Ranks² | Cost |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tiny | 1d4 | x2 | 50 ft. | B, P, or S | 1 | 5 gp / gizmo level |
 | Small | 1d6 | x2 | 60 ft. | B, P, or S | 3 | 10 gp / gizmo level |

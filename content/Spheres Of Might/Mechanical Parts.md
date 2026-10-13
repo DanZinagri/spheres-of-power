@@ -32,7 +32,7 @@ Once a mechanical part or technological device is created, it can be kept or sol
 
 The value of each harvested mechanical part is listed in the table below:
 
-| Mechanical Part | Cost | Weight1 |
+| Mechanical Part | Cost | Weight¹ |
 | --- | --- | --- |
 | Boiler | 15 gp | 4 lbs. |
 | Capsule | 5 gp | 1 lb. |
@@ -64,12 +64,12 @@ Automaton cores have their own rules for harvesting (see Pathfinder Campaign Set
 
 **Alchemical Constructs**
 **Identify Parts** Knowledge (engineering)
-**Harvestable Parts** Reagents (2), funnel (1d4), tubing (1d6), vial (1d4)
+**Harvestable Parts** Reagents (²), funnel (1d4), tubing (1d6), vial (1d4)
 2: Roll on the Harvestable Reagents table below to determine how many and which reagents are harvestable.
 
 **Harvestable Reagents**
 
-| Alchemical Element3 | Reagents |
+| Alchemical Element³ | Reagents |
 | --- | --- |
 | Acid | Black powder (1d4), brain mold spores (1d4), brimstone (3d4) |
 | Cold | Spirit of wine (5d10), urea (5d8) |

@@ -520,7 +520,7 @@
    "speeds": {
     "land": 5
    },
-   "speedText": "5 ft. Hover1, 30 ft. (average)",
+   "speedText": "5 ft. Hover¹, 30 ft. (average)",
    "natural": 2,
    "saves": {
     "fort": "low",
@@ -546,7 +546,7 @@
     "wis": 12,
     "cha": 11
    },
-   "text": "Orb creatures are lantern archons, will-o-wisps, gibbering orbs, and other mystical fey, outsiders, constructs, or aberrations with a floating sphere-like appearance and supernatural movement. An orb lacks any limbs, but may treat its body as a head for the purpose of adding natural attacks. An orb companion may not be tripped unless gaining legs from another source.\n\n1: An orb may float up to 5 feet plus 5 feet per 5 Hit Dice above the ground, with a horizontal movement speed of 30 feet. When floating this way, Fly checks are not required to hover or change direction. When falling the orb may choose to descend at a slower rate to control its fall and to negate all falling damage it would take. Each round it descends 30 feet, and may move in another direction for 30 feet. It may choose to drift sideways, gliding forwards while descending, or down, safely increasing its rate of descent. It may even choose to drift ‘upwards’ to reduce its rate of descent, even allowing it to negate it entirely and hover midair (though cannot move horizontally if it begins its turn doing so). This is a supernatural ability.\n\n2: The Skillful Companion (form) talent increases Int to 13 if taken."
+   "text": "Orb creatures are lantern archons, will-o-wisps, gibbering orbs, and other mystical fey, outsiders, constructs, or aberrations with a floating sphere-like appearance and supernatural movement. An orb lacks any limbs, but may treat its body as a head for the purpose of adding natural attacks. An orb companion may not be tripped unless gaining legs from another source.\n\n¹: An orb may float up to 5 feet plus 5 feet per 5 Hit Dice above the ground, with a horizontal movement speed of 30 feet. When floating this way, Fly checks are not required to hover or change direction. When falling the orb may choose to descend at a slower rate to control its fall and to negate all falling damage it would take. Each round it descends 30 feet, and may move in another direction for 30 feet. It may choose to drift sideways, gliding forwards while descending, or down, safely increasing its rate of descent. It may even choose to drift ‘upwards’ to reduce its rate of descent, even allowing it to negate it entirely and hover midair (though cannot move horizontally if it begins its turn doing so). This is a supernatural ability.\n\n²: The Skillful Companion (form) talent increases Int to 13 if taken."
   },
   {
    "name": "Quadruped",

@@ -3281,6 +3281,13 @@ def preprocess(body: Tag, soup_factory, excluded: set[str] | None = None,
             wrapper.append(content)
         block.replace_with(wrapper)
 
+    # A plain superscript number (a table or stat line's own note mark: "Hover<sup>1</sup>", "Int 10<sup>2</sup>")
+    # stays a superscript, as the characters for one, so it doesn't run into the number or word before it
+    for sup in body.find_all("sup"):
+        mark = sup.get_text(strip=True)
+        # (and the note itself, which starts "<sup>1:</sup> An orb may float ...")
+        if "footnoteref" not in (sup.get("class") or []) and re.fullmatch(r"\d{1,2}:?", mark):
+            sup.replace_with(NavigableString(mark.translate(str.maketrans("0123456789", "⁰¹²³⁴⁵⁶⁷⁸⁹"))))
     # Footnote refs: <sup class="footnoteref"><a>1</a></sup> -> [^1]
     for sup in body.select("sup.footnoteref"):
         sup.replace_with(NavigableString(f"[^{sup.get_text(strip=True)}]"))

@@ -128,10 +128,10 @@ For example, Perception can be used as Survival to find tracks (but not follow t
 | Circumstance | Check Modifier |
 | --- | --- |
 | Avoid losing your Dexterity bonus to AC or having to attempt further Acrobatics checks to avoid falling when damaged due to balancing until the start of your next turn | –10 |
-| Charge or run while balancing | –201 |
+| Charge or run while balancing | –20¹ |
 | Jump as part of a charge; you can attack your target in midair, but you then land | –5 |
 
-1 Does not stack with penalty for moving at full speed
+¹ Does not stack with penalty for moving at full speed
 
 **Wall Hop (trained only):** After you high jump along a surface too steep to balance on, you can hop off the surface to change direction once, starting a new jump, as a swift action. The DC is 5 + the normal DC for a high or long jump from that point, with a minimum of 25. This jump does not have a running start and counts as traveling twice as far as you actually jump against your movement for the turn.
 
@@ -359,18 +359,18 @@ This new attitude can be improved further. (The GM can also decide that an NPC�
 | --- | --- |
 | Counteroffer as a standard action if a PC would make a request of an NPC successfully, making the request conditional on an equivalent favor from the PC | Opposes Diplomacy |
 | Improve attitude by one step for 1d4 hours (variant DC) | 15 + HD + Cha modifier + Wis modifier + attitude modifier |
-| …Improve attitude indefinitely | +101 |
-| …Improve attitude by two steps instead of one | +51 |
+| …Improve attitude indefinitely | +10¹ |
+| …Improve attitude by two steps instead of one | +5¹ |
 | Influence attitude toward another creature (not yourself) one step up or down, from indifferent | +0 (beyond usual DC including modifier for attitude toward you) |
 | …From friendly or unfriendly | +5 |
 | …From helpful or hostile | +10 |
-| Over 1 hour, persuade NPC to add a new minor motivation | 15 + HD + Cha modifier + Wis modifier + attitude modifier1 |
-| Over 1 hour, persuade NPC to strengthen a long-standing minor motivation to major if you relate it to a major one | 20 + HD + Cha modifier + Wis modifier + attitude modifier1 |
+| Over 1 hour, persuade NPC to add a new minor motivation | 15 + HD + Cha modifier + Wis modifier + attitude modifier¹ |
+| Over 1 hour, persuade NPC to strengthen a long-standing minor motivation to major if you relate it to a major one | 20 + HD + Cha modifier + Wis modifier + attitude modifier¹ |
 | Request | 15 + HD + Cha modifier + Wis modifier + attitude modifier |
-| Costly request | +10 or higher1 |
+| Costly request | +10 or higher¹ |
 | Find loophole as the Linguistics skill, but for any emotion effect (even if not language-dependent) | Save DC or opposed skill check |
 
-1 Impossible without invoking the target’s motivation
+¹ Impossible without invoking the target’s motivation
 
 | Circumstance | Diplomacy Modifier |
 | --- | --- |
@@ -393,13 +393,13 @@ The Disable Device skill can be used to sabotage many common items.
 
 | Circumstance | Check Modifier |
 | --- | --- |
-| Fast sabotage | –81 |
+| Fast sabotage | –8¹ |
 
-1 Can be applied multiple times
+¹ Can be applied multiple times
 
 **Common Sabotage:** Listed below are some common forms of sabotage used by adventurers (see the Disable Device skill in the Pathfinder Roleplaying Game Core Rulebook for rules). If you exceed the DC by 5, creatures examining the device only spot your sabotage if they succeed at an opposed Perception check.
 
-| Device | Disable Device DC1 | Common Sabotage |
+| Device | Disable Device DC¹ | Common Sabotage |
 | --- | --- | --- |
 | Alchemical item | 10 | The item has the broken condition, but seems normal to casual handling. |
 | Armor or shield | 10 + AC bonus | The item breaks after physical attacks hit the wearer or glance off it 1d4 times (missing by an amount less than or equal to the item’s AC bonus). Damage to the sabotaged item ignores 3 of its hardness. A broken shield falls off. |
@@ -409,11 +409,11 @@ The Disable Device skill can be used to sabotage many common items.
 | Trap with a built-in bypass | Trap’s DC | The bypass obviously stops functioning after 1d4 uses. Failing the Craft (traps) check to undo by 5 or more triggers the trap. |
 | Tool or weapon | 15 | The item breaks after 1d4 attacks, uses, or checks. Damage to the sabotaged item ignores 3 of its hardness. |
 
-1 At +5 DC, your check opposes Perception to examine the item.
+¹ At +5 DC, your check opposes Perception to examine the item.
 
 **Disastrous Sabotage:** With exceptional skill, you can sabotage an item to fail in a way that wastes a creature’s action. The DC for disastrous sabotage is 10 higher than simple sabotage and it takes three steps longer to perform: 1 round, 1d4 rounds, 2d4 rounds, 4d4 rounds, 1d4 minutes, 2d4 minutes. If you exceed the DC by 5, not only is the sabotage hard to spot with examination, but even the effects are noticed only with a successful Perception check (unless they are innately obvious).
 
-| Device | Disable Device DC1 | Common Disastrous Sabotage |
+| Device | Disable Device DC¹ | Common Disastrous Sabotage |
 | --- | --- | --- |
 | Alchemical item | 20 | The item is inert, but seems normal with casual handling. |
 | Armor or shield | 20 + AC bonus | The item breaks after physical attacks hit the wearer or glance off it 1d4 times (missing by an amount less than or equal to the item’s AC bonus). After another 1d4 attacks hit or glance off, its AC bonus is reduced by another 2 (minimum +0) while broken. Damage to the sabotaged item ignores 5 of its hardness. A broken shield falls off. |
@@ -425,7 +425,7 @@ The Disable Device skill can be used to sabotage many common items.
 | Vehicle | 25 | The vehicle breaks during the next driving check after 1d4 checks (penalizing that check). After 1d4 driving checks while broken, the vehicle crashes during any subsequent driving check that does not exceed its DC by 10. |
 | Weapon or tool | 25 | The item breaks during the next use after 1d4 uses (penalizing that use). After 1d4 uses with the broken condition, the penalty from the broken condition worsens by 2 during the next use. Damage to the sabotaged item ignores 5 of its hardness. |
 
-1 At +5 DC, your check opposes Perception to examine the item and to notice the effect.
+¹ At +5 DC, your check opposes Perception to examine the item and to notice the effect.
 
 #### Disable Device: Gizmos
 
@@ -460,9 +460,9 @@ The Disguise skill can be used to disguise objects and other creatures as well a
 | Disguise Check Modifiers | Check Modifier |
 | Minor details only, such as an elf and a slim human | +5 |
 | Apply disguise to someone else | +2 |
-| Disguise or fake injury, affliction symptoms, or condition | –21 |
+| Disguise or fake injury, affliction symptoms, or condition | –2¹ |
 | Substantially different body type, such as a burly dwarf and a slim elf | –2 |
-| Age category at least two steps different2 | –2 |
+| Age category at least two steps different² | –2 |
 | Dissimilar but related object (like a statue and a humanoid, or a firearm and a crossbow) | –4 |
 | Different materials (objects, elementals, and constructs only), or adding or covering fur, feathers, or scales | -4 |
 | Different size category or number or arrangement of limbs | –8 |
@@ -474,8 +474,8 @@ The Disguise skill can be used to disguise objects and other creatures as well a
 | Viewer saw you wear the same distinctive article in another identity | +4 |
 | You changed only your accent, voice, or mannerisms | +10 |
 
-1: Allows opposed Heal instead of Perception only to recognize this element of the disguise
-2: The steps are: young (younger than adulthood), adulthood, middle age, old, and venerable.
+¹: Allows opposed Heal instead of Perception only to recognize this element of the disguise
+²: The steps are: young (younger than adulthood), adulthood, middle age, old, and venerable.
 
 **Table: Object Disguise DCs and Modifiers**
 
@@ -483,12 +483,12 @@ The Disguise skill can be used to disguise objects and other creatures as well a
 | --- | --- |
 | Minor details only | +5 |
 | Similar object | +0 |
-| Related object1 | -4 |
-| Unrelated object1 | -10 |
-| Different materials1 | -4 |
-| Disguised as a different size category1 | -8 |
+| Related object¹ | -4 |
+| Unrelated object¹ | -10 |
+| Different materials¹ | -4 |
+| Disguised as a different size category¹ | -8 |
 
-1 These modifiers are cumulative; use any that apply.
+¹ These modifiers are cumulative; use any that apply.
 
 **Table: Object Disguise Time by Size**
 
@@ -656,14 +656,14 @@ The trauma of clinical death deals 1d4 points of ability damage to the patient�
 | Task | DC | Time |
 | --- | --- | --- |
 | Amputate arms, legs, or other appendages | 15 | 2 hours |
-| Amputate head1 | 25 | 8 hours |
+| Amputate head¹ | 25 | 8 hours |
 | Extract sensory organ (eyes, ears) | 20 | 4 hours |
 | Extract internal organ | 20 | 6 hours |
 | Implant object | 15 | 2 hours |
 | Implant object internally (i.e. *prosthetic* organ) | 20 | 4 hours |
 | Implant vital body part (i.e. *prosthetic head*, heart) | 25 | 8 hours |
 
-1 This includes full amputations as well as piecemeal extraction.
+¹ This includes full amputations as well as piecemeal extraction.
 
 **Requirements:** Heal skill uses that amputate limbs, extract organs, or implant them, require 2 uses from a healer’s kit to perform the task. The surgeon takes a -2 penalty for each healer's kit use that they lack. If the surgeon does not have a healer’s kit, the surgeon must incapacitate the patient (render the patient helpless or unconscious).
 
@@ -1436,7 +1436,7 @@ You can take a wide manner of actions quietly and using the Stealth skill.
 | Gently operate a mechanism (pick a lock, open a door) | –10 |
 | Hide a creature or object | –5; use target’s size and appearance |
 | Hidden maneuver (trained only): dirty trick, disarm (item grabbed), or steal | –5 |
-| …drag, grapple1, or overrun | –10 |
+| …drag, grapple¹, or overrun | –10 |
 | …bull rush, disarm (item dropped), reposition, sunder, or trip | –20 |
 | Stifle a noisy action (force a stuck door, weapon attack) | –20 |
 | Creature you hide behind is one size category larger | –4 |
@@ -1447,7 +1447,7 @@ You can take a wide manner of actions quietly and using the Stealth skill.
 | Move at full speed | –10 |
 | Skulk in the open | –20* |
 
-1 If you succeed against the target’s CMD, you can quietly abduct it.
+¹ If you succeed against the target’s CMD, you can quietly abduct it.
 *Does not stack with the penalty for moving faster than half speed.
 
 **Modifiers:** The following modifiers apply to all uses of Stealth.

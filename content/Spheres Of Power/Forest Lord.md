@@ -107,7 +107,7 @@ A cryptwood’s power is derived from a particular power source, such as an arti
 
 **Table: Cryptwood Power Sources**
 
-| d1001 | Strength of Power Source | Diameter of Cryptwood | Number of Manifestations | Example Power Sources |
+| d100¹ | Strength of Power Source | Diameter of Cryptwood | Number of Manifestations | Example Power Sources |
 | --- | --- | --- | --- | --- |
 | 1-30 | weak | 1 mile | 1 | Haunt, powerful magical laboratory |
 | 31-55 | moderate | 5 miles | 1 | Minor artifact, ancient temples |
@@ -131,7 +131,7 @@ These templates are gained when the creature enters the cryptwood, and lost if a
 
 **Table: Cryptwood Manifestations**
 
-| d1001 | Manifestation |
+| d100¹ | Manifestation |
 | --- | --- |
 | 1-8 | fire |
 | 9-16 | ice |

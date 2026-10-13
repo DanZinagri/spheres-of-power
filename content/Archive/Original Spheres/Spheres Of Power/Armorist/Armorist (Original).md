@@ -103,7 +103,7 @@ Summoned equipment gains a +1 enhancement bonus for every 3 armorist levels the 
 
 ## Bound Equipment (Su)
 
-An armorist gains a bond with a specific weapon or shield that is far greater than with her other summoned equipment. Bound equipment is summoned and treated just like summoned equipment, except it does not cost a spell point to summon, cannot be used by anyone other than the armorist herself (the item’s magic does not function in another’s hands), comes with limitless ammunition, and disappears 1 round after leaving the armorist’s hands. She gains another piece of bound equipment at 5th level, 10th level, 15th level, and 20th level and may select a suit of armor beginning at 5th level or a staff1 beginning at 10th level.
+An armorist gains a bond with a specific weapon or shield that is far greater than with her other summoned equipment. Bound equipment is summoned and treated just like summoned equipment, except it does not cost a spell point to summon, cannot be used by anyone other than the armorist herself (the item’s magic does not function in another’s hands), comes with limitless ammunition, and disappears 1 round after leaving the armorist’s hands. She gains another piece of bound equipment at 5th level, 10th level, 15th level, and 20th level and may select a suit of armor beginning at 5th level or a staff¹ beginning at 10th level.
 
 Bound equipment is masterwork quality, and gains a cumulative +1 enhancement bonus for every odd armorist level possessed beyond 1st, increasing to +10 at 20th level. A piece of bound equipment’s enhancement bonus cannot exceed +1 per 3 levels (minimum: +1, maximum: +5); all enhancement bonus beyond this must be traded for special qualities.
 

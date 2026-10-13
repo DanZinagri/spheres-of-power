@@ -463,13 +463,13 @@ You can use the table below to randomly assign an alignment.
 | d% | Alignment of Item |
 | --- | --- |
 | 01–10 | Chaotic good |
-| 11–20 | Chaotic neutral1 |
+| 11–20 | Chaotic neutral¹ |
 | 21–35 | Chaotic evil |
-| 36–45 | Neutral evil1 |
+| 36–45 | Neutral evil¹ |
 | 46–55 | Lawful evil |
 | 56–70 | Lawful good |
-| 71–80 | Lawful neutral1 |
-| 81–90 | Neutral good1 |
+| 71–80 | Lawful neutral¹ |
+| 81–90 | Neutral good¹ |
 | 91–100 | Neutral |
 
 1: The item can also be used by any character whose alignment corresponds to the non-neutral portion of the item’s alignment.
@@ -535,9 +535,9 @@ Each intelligent item should possess at least one power, although more powerful 
 | 01-12 | Cantrips | +1,000 gp | +1 |
 | 13-24 | Spherecasting (CL 2) | +1,200 gp | +1 |
 | 25-38 | Spherecasting (CL 4) | +2,400 gp | +1 |
-| 39-50 | Item has 5 ranks in one skill1 | +2,500 gp | +1 |
+| 39-50 | Item has 5 ranks in one skill¹ | +2,500 gp | +1 |
 | 51-62 | Spherecasting (CL 6) | +6,000 gp | +1 |
-| 63-74 | Item has 10 ranks in one skill1 | +10,000 gp | +2 |
+| 63-74 | Item has 10 ranks in one skill¹ | +10,000 gp | +2 |
 | 75-86 | Item has a fly speed of 30 ft. | +10,000 gp | +2 |
 | 87-98 | Spherecasting (CL 8) | +12,000 gp | +2 |
 | 99-00 | Spherecasting (CL 10) | +24,000 gp | +2 |
@@ -558,7 +558,7 @@ The table below has a number of sample purposes that a magic item might possess.
 
 | d% | Purpose | Ego Modifier |
 | --- | --- | --- |
-| 01–20 | Defeat/slay diametrically opposed alignment1 | +2 |
+| 01–20 | Defeat/slay diametrically opposed alignment¹ | +2 |
 | 21–30 | Defeat/slay arcane casters (including casting monsters and those that use spell-like abilities) | +2 |
 | 31–40 | Defeat/slay divine casters (including divine entities and servitors) | +2 |
 | 41–50 | Defeat/slay non-casters | +2 |
@@ -895,7 +895,7 @@ A charm uses the crafter’s MSB rather than their caster level when determining
 | Grant an enhancement bonus to an ability score | 2x enhancement bonus | Enhancement | +6 | Bonus squared x 1,000 gp |
 | AC bonus (deflection) | 3x bonus | Protection | +5 | Bonus squared x 2,000 gp |
 | AC bonus (natural armor) | 3x bonus | Alteration | +5 | Bonus squared x 2,000 gp |
-| AC bonus (other) | 3x bonus | Various1 | +3 | Bonus squared x 2,500 gp |
+| AC bonus (other) | 3x bonus | Various¹ | +3 | Bonus squared x 2,500 gp |
 | Energy Resistance | 1/2 granted resistance | Protection | +30 | 1,600 x resistance -4,000, resistance 5 minimum |
 | Save bonus (resistance) | 3x bonus | Protection | +5 | Bonus squared x 1,000 gp |
 | Save bonus (other) | 3x bonus | Various* | +3 | Bonus squared x 2,000 gp |

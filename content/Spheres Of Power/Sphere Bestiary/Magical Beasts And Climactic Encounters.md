@@ -769,10 +769,10 @@ Unlike a regular (mantle) sphere effect, a climate creature benefits from (mantl
 | Heat | Fire resistance |
 | Precipitation | N/A |
 | Aridity | DR/– vs. nonlethal |
-| Storm1 | Electricity resistance |
-| Ash2 | DR/slashing |
-| Vog2 | Acid resistance |
-| Fallout3 | N/A |
+| Storm¹ | Electricity resistance |
+| Ash² | DR/slashing |
+| Vog² | Acid resistance |
+| Fallout³ | N/A |
 
 **1** Storm weather conditions are a combination of Wind and Precipitation at severity 4 and higher. A Wind and Precipitation climate creature with 5 or more Hit Dice automatically gains storm as an attuned weather condition.
 **2** Ash and Vog weather conditions are created using the Weather sphere Volcano Lord advanced talent. A climate creature attuned to Ash or Vog is generally also attuned to Heat, due to Ash and Vog being most common in volcanic environments or areas with hot, gaseous geysers, but may be individually attuned to Ash or Vog.

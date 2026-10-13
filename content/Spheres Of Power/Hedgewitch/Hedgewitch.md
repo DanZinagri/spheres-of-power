@@ -888,7 +888,7 @@ This +1 blast vessel cold iron censer hums with eldritch energies when its glowi
 | Black magic | EntanglingUSoP |
 | Charlatanism | UnseenUI |
 | Combat | ImpactUE |
-| Covenant | Anarchic, axiomatic, holy, or unholy1 |
+| Covenant | Anarchic, axiomatic, holy, or unholy¹ |
 | Dreamwalker | Ghost touch |
 | Exorcism | DecisiveUSoP |
 | Font of inspiration | StalkingUE |

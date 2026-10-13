@@ -465,7 +465,7 @@ Multiple weapons or shields may be attached to the *prosthetic* this way (up to 
 | Ranks in Associated Skill | Energy Types |
 | --- | --- |
 | 1 | Acid, cold, electricity, fire |
-| 10 | Sonic1 |
+| 10 | Sonic¹ |
 
 1: An elemental infusion made to do sonic damage is active for 1 round per gizmo level per battery depleted (this is not increased by having an elemental infuser with a gizmo level 10 or higher).
 
@@ -531,10 +531,10 @@ Rather than use a weight limitation, GMs are encouraged to abstract creature and
 
 | Type | Speed | Maneuverability | Duration |
 | --- | --- | --- | --- |
-| Hover1 | 20 ft., +10 ft. per 4 gizmo levels | Perfect | 10 minutes per gizmo level |
+| Hover¹ | 20 ft., +10 ft. per 4 gizmo levels | Perfect | 10 minutes per gizmo level |
 | Floater | 20 ft., +10 ft. per 4 gizmo levels | Good | 1 minute per gizmo level |
 | Spinner | 30 ft., +10 ft. per 4 gizmo levels | Average | 4 rounds per gizmo level |
-| Thruster2 | 40 ft., +20 ft. per 4 gizmo levels | Clumsy | 1 round per gizmo level |
+| Thruster² | 40 ft., +20 ft. per 4 gizmo levels | Clumsy | 1 round per gizmo level |
 
 1: This flight is limited to being up to 3 feet off the ground. When hovering this way, Fly checks are not required to hover or change direction. When not above a solid or liquid surface the user glides down as if using a glider gizmo.
 2: This flight is limited to moving in straight lines each time the movement is used.
@@ -1902,7 +1902,7 @@ A calibrated turret is piloted as a standard action, and may make a single stand
 
 ##### Table: Turrets
 
-| Size | Damage | Crit | Range | Type1 | Ranks2 | Cost |
+| Size | Damage | Crit | Range | Type¹ | Ranks² | Cost |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tiny | 1d4 | x2 | 50 ft. | B, P, or S | 1 | 5 gp / gizmo level |
 | Small | 1d6 | x2 | 60 ft. | B, P, or S | 3 | 10 gp / gizmo level |

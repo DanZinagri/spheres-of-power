@@ -35,7 +35,7 @@ At 14th level, the draugr’s rage improves, gaining the barbarian’s greater r
 
 This replaces the draugr’s haunt path.
 
-**Raging Spirit:** The draugr may select rage powers and (champion) feats1 in place of wraith haunts, treating his class level as his barbarian level for the purpose of meeting prerequisites.
+**Raging Spirit:** The draugr may select rage powers and (champion) feats¹ in place of wraith haunts, treating his class level as his barbarian level for the purpose of meeting prerequisites.
 1: See Champions of the Spheres
 
 **Mighty Rage:** At 20th level, the draugr gains the mighty rage ability of the barbarian.

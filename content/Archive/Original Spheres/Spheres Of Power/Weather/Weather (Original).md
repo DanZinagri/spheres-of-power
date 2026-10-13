@@ -70,7 +70,7 @@ All flames are extinguished. All ranged attacks are impossible (even with siege 
 
 **Table: Wind**
 
-| Severity Level | Wind Speed | Ranged Attacks Normal/Siege Weapons1 | Checked Size2 | Blown Away Size3 | Fly Penalty |
+| Severity Level | Wind Speed | Ranged Attacks Normal/Siege Weapons¹ | Checked Size² | Blown Away Size³ | Fly Penalty |
 | --- | --- | --- | --- | --- | --- |
 | 1 (Light) | 0–10 mph | —/— | — | — | — |
 | 2 (Moderate) | 11–20 mph | —/— | — | — | — |
@@ -80,9 +80,9 @@ All flames are extinguished. All ranged attacks are impossible (even with siege 
 | 6 (Hurricane) | 75–174 mph | Impossible/–8 | Large | Medium | –12 |
 | 7 (Tornado) | 175–300 mph | Impossible/impossible | Huge | Large | –16 |
 
-1 The siege weapon category includes ballista and catapult attacks as well as boulders tossed by giants.
-2 Checked Size: Creatures of this size or smaller are unable to move forward against the force of the wind unless they succeed on a DC 10 Strength check (if on the ground) or a DC 20 Fly skill check if airborne.
-3 Blown Away Size: Creatures on the ground are knocked prone and rolled 1d4 × 10 feet, taking 1d4 points of nonlethal damage per 10 feet, unless they make a DC 15 Strength check. Flying creatures are blown back 2d6 × 10 feet and take 2d6 points of nonlethal damage due to battering and buffeting, unless they succeed on a DC 25 Fly skill check.
+¹ The siege weapon category includes ballista and catapult attacks as well as boulders tossed by giants.
+² Checked Size: Creatures of this size or smaller are unable to move forward against the force of the wind unless they succeed on a DC 10 Strength check (if on the ground) or a DC 20 Fly skill check if airborne.
+³ Blown Away Size: Creatures on the ground are knocked prone and rolled 1d4 × 10 feet, taking 1d4 points of nonlethal damage per 10 feet, unless they make a DC 15 Strength check. Flying creatures are blown back 2d6 × 10 feet and take 2d6 points of nonlethal damage due to battering and buffeting, unless they succeed on a DC 25 Fly skill check.
 
 ### Other Wind Effects
 

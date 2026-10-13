@@ -945,9 +945,9 @@ Each intelligent item should possess at least one power, although more powerful 
 | 01-12 | Cantrips | +1,000 gp | +1 |
 | 13-24 | Spherecasting (CL 2nd) | +1,200 gp | +1 |
 | 25-38 | Spherecasting (CL 4th) | +2,400 gp | +1 |
-| 39-50 | Item has 5 ranks in one skill1 | +2,500 gp | +1 |
+| 39-50 | Item has 5 ranks in one skill¹ | +2,500 gp | +1 |
 | 51-62 | Spherecasting (CL 6th) | +6,000 gp | +1 |
-| 63-74 | Item has 10 ranks in one skill1 | +10,000 gp | +2 |
+| 63-74 | Item has 10 ranks in one skill¹ | +10,000 gp | +2 |
 | 75-86 | Item has a fly speed of 30 ft. | +10,000 gp | +2 |
 | 87-98 | Spherecasting (CL 8th) | +12,000 gp | +2 |
 | 99-00 | Spherecasting (CL 10th) | +24,000 gp | +2 |
@@ -1123,10 +1123,10 @@ A charm uses the crafter’s MSB rather than their caster level when determining
 | Grant an enhancement bonus to an ability score | 2x enhancement bonus | Enhancement | +6 | Bonus squared x 1,000 gp |
 | AC bonus (deflection) | 3x bonus | Protection | +5 | Bonus squared x 2,000 gp |
 | AC bonus (natural armor) | 3x bonus | Alteration | +5 | Bonus squared x 2,000 gp |
-| AC bonus (other) | 3x bonus | Various1 | +3 | Bonus squared x 2,500 gp |
+| AC bonus (other) | 3x bonus | Various¹ | +3 | Bonus squared x 2,500 gp |
 | Energy Resistance | 1/2 granted resistance | Protection | +30 | 1,600 x resistance -4,000, resistance 5 minimum |
 | Save bonus (resistance) | 3x bonus | Protection | +5 | Bonus squared x 1,000 gp |
-| Save bonus (other) | 3x bonus | Various1 | +3 | Bonus squared x 2,000 gp |
+| Save bonus (other) | 3x bonus | Various¹ | +3 | Bonus squared x 2,000 gp |
 | Skill bonus (competence) | 1x competence bonus | Mind | +20 | Bonus squared x 100 gp |
 | Spell resistance | 1/2 granted resistance | Protection | - | 10,000 gp per point over SR 12, SR 13 minimum |
 | CMB/CMD (competence, one combat maneuver) | 3x bonus | Enhancement | +5 | Bonus squared x 1,000 gp |

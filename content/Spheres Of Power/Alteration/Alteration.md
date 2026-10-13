@@ -555,7 +555,7 @@ Avian Transformation offers the following traits, which you may apply to any for
 #### Dragon Transformation (transformation)
 
 You may grant the form of a dragon with your shapeshift.
-**Limbs:** 1 head, 4 legs (front 2 end in hands1), 1 tail
+**Limbs:** 1 head, 4 legs (front 2 end in hands¹), 1 tail
 **Speech:** Yes; **Hands:** Yes
 **Speed:** 40 ft. land speed
 **Natural weapons:** bite (primary, 1d6 Medium, 1d4 Small)

@@ -101,7 +101,7 @@ Creatures with entirely racial Hit Dice tend to have more Hit Dice than a player
 | Creature Type | Spherecasting Progression |
 | --- | --- |
 | Aberration | Mid-Caster |
-| Animal | Low-Caster1 |
+| Animal | Low-Caster¹ |
 | Construct | High-Caster |
 | Dragon | High-Caster |
 | Fey | Mid-Caster |
@@ -112,7 +112,7 @@ Creatures with entirely racial Hit Dice tend to have more Hit Dice than a player
 | Outsider | Mid-Caster |
 | Plant | Mid-Caster |
 | Undead | Mid-Caster |
-| Vermin | Low-Caster1 |
+| Vermin | Low-Caster¹ |
 
 **1:** Animals and Vermin will usually have 2 or less Intelligence. While spherecasting may be present on one, it is generally recommended to use sphere-like abilities instead.
 

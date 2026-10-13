@@ -2462,14 +2462,14 @@ When drawing in the notebook, the artist must attempt a Craft (painting) check, 
 
 **Table: Created Creature**
 
-| Hit Dice/Levels1 | DC | Materials Fee | Crafting Time |
+| Hit Dice/Levels¹ | DC | Materials Fee | Crafting Time |
 | --- | --- | --- | --- |
 | 1/2 | 10 | 2 cp | 5 minutes |
 | 1 | 15 | 5 gp | 20 minutes |
 | 2 | 20 | 10 gp | 1 hour |
 | 3 | 25 | 25 gp | 3 hours |
 | 4 | 30 | 50 gp | 8 hours (1 day) |
-| +12 | 35 | +50 gp | +1 day |
+| +1² | 35 | +50 gp | +1 day |
 
 **1:** Trees, small animals with less than 1 Hit Dice, and level 1 commoners count as possessing 1/2 a Hit Dice. For higher levels, NPC classes count as their level -1 for determining their effective Hit Dice, while commoners count as their level -2 for determining their effective Hit Dice.
 **2:** Every +1 added to the created creature’s Hit Dice above 4 increases the target DC, materials cost, and crafting time by the listed amount. The effects are cumulative.

@@ -403,11 +403,11 @@ Refer to the following table for which spheres or effects should qualify as a ce
 | Conjuration (teleportation) | Effects that instantly relocate creatures or objects, Warp |
 | Conjuration (calling, summoning) | Conjuration (and the Calling advanced talent) |
 | Divination | Divination |
-| Evocation1 | Various1 |
+| Evocation¹ | Various¹ |
 | Enchantment | Mind |
 | Illusion | Illusion |
 | Necromancy | Death, Blood |
-| Transmutation | Enhancement, Fallen Fey2, Weather |
+| Transmutation | Enhancement, Fallen Fey², Weather |
 | Transmutation (polymorph) | Alteration |
 | Transmutation (earth, air, fire, water) | Nature’s specific packages |
 | Universal | Mana |
@@ -471,7 +471,7 @@ If using the hero points optional system from the Advanced Player’s Guide, add
 
 Prior to attempting the Knowledge check, attempt a free Spellcraft check DC 10. Succeeding at this check will allow you to determine the casting tradition category, as well as the necessary Knowledge skill required to identify the specific casting tradition of the creature (DC is equal to 10 + the challenge rating of the target). Refer to the table below:
 
-| Casting Tradition Category (Specific Tradition)1 | Knowledge Skill2 |
+| Casting Tradition Category (Specific Tradition)¹ | Knowledge Skill² |
 | --- | --- |
 | Arcane (Apothecary, Artificery, Bardic Magic, Blood Magic, Chomic Traditionalist, Contaminated, Defiler, Demonology, Dragon Magic, Fey Magic, Flame-Blooded, Pact Magic, Sin Wizard, Song Wielder, Shadow Tapper, Sorcerous Blood, Traditional Magic, Water-Magi, Wild-Born, and Wizardry) | Knowledge (arcana) |
 | Divine (Blighter, Bloodletting, Corrupted Apostle, Divine Petitioner, Druidic, Elemental Shaman, Inherent Divinity, Keeper, Mysticism, Nomad Shaman, Runist, Spiritual, Ur-Priest, and Void Priest) | Knowledge (religion) |

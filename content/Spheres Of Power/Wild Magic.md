@@ -84,7 +84,7 @@ Some feats and abilities in this book may be used with the normal Pathfinder mag
 | Conjuration (calling, summoning) | Conjuration |
 | Divination | Divination |
 | Enchantment | Mind |
-| Evocation | Various1 |
+| Evocation | Various¹ |
 | Illusion | Illusion |
 | Necromancy | Death |
 | Transmutation | Enhancement |

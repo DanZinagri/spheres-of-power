@@ -224,7 +224,7 @@ Craft Apparatus, Blood sphere; **Cost** 1,000 gp (least), 4,000 gp (lesser), 8,0
 **Slot** none; **Price** 50,000 gp; **Weight** 4,500 lbs.
 
 **Description**
-A huge cylinder, protecting an array of magically treated focusing crystals, mounted on a wheeled carriage. The doom cannon may be moved, aimed, and fired as a mundane fiendsmouth cannon1, but requires no ammunition or loading. The cannon deals 10d6 untyped damage as per the Disintegration talent with a range of 200 feet with a x2 critical multiplier, or automatically destroys a 10-foot cube of nonliving matter. If a doom cannon with the broken condition experiences a misfire, the blast damage is dealt in a 20-foot radius of the cannon and the weapon is destroyed.
+A huge cylinder, protecting an array of magically treated focusing crystals, mounted on a wheeled carriage. The doom cannon may be moved, aimed, and fired as a mundane fiendsmouth cannon¹, but requires no ammunition or loading. The cannon deals 10d6 untyped damage as per the Disintegration talent with a range of 200 feet with a x2 critical multiplier, or automatically destroys a 10-foot cube of nonliving matter. If a doom cannon with the broken condition experiences a misfire, the blast damage is dealt in a 20-foot radius of the cannon and the weapon is destroyed.
 
 **Construction Requirements**
 Craft Apparatus, Destruction sphere (Disintegrate (advanced, blast type)); **Cost** 25,000 gp

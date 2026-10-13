@@ -184,10 +184,10 @@ A charm uses the crafter’s MSB rather than their caster level when determining
 | Grant an enhancement bonus to an ability score | 2x enhancement bonus | Enhancement | +6 | Bonus squared x 1,000 gp |
 | AC bonus (deflection) | 3x bonus | Protection | +5 | Bonus squared x 2,000 gp |
 | AC bonus (natural armor) | 3x bonus | Alteration | +5 | Bonus squared x 2,000 gp |
-| AC bonus (other) | 3x bonus | Various1 | +3 | Bonus squared x 2,500 gp |
+| AC bonus (other) | 3x bonus | Various¹ | +3 | Bonus squared x 2,500 gp |
 | Energy Resistance | 1/2 granted resistance | Protection | +30 | 1,600 x resistance -4,000, resistance 5 minimum |
 | Save bonus (resistance) | 3x bonus | Protection | +5 | Bonus squared x 1,000 gp |
-| Save bonus (other) | 3x bonus | Various1 | +3 | Bonus squared x 2,000 gp |
+| Save bonus (other) | 3x bonus | Various¹ | +3 | Bonus squared x 2,000 gp |
 | Skill bonus (competence) | 1x competence bonus | Mind | +20 | Bonus squared x 100 gp |
 | Spell resistance | 1/2 granted resistance | Protection | - | 10,000 gp per point over SR 12, SR 13 minimum |
 | CMB/CMD (competence, one combat maneuver) | 3x bonus | Enhancement | +5 | Bonus squared x 1,000 gp |

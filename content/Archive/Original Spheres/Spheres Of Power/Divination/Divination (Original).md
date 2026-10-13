@@ -143,14 +143,14 @@ Traps, poisons, and other potential perils have no alignment. Creatures with ali
 | Creature/Object | Aura Power |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | None | Faint | Moderate | Strong | Overwhelming |
-| Aligned Creature1 (HD) | 4 or lower | 5-10 | 11-25 | 26-50 | 51 or higher |
+| Aligned Creature¹ (HD) | 4 or lower | 5-10 | 11-25 | 26-50 | 51 or higher |
 | Aligned Undead (HD) | - | 2 or lower | 3-8 | 9-20 | 21 or higher |
 | Aligned Outsider (HD) | - | 1 or lower | 2-4 | 5-10 | 11 or higher |
-| Cleric or Paladin of an Aligned Deity2 (class levels) | - | 1 | 2-4 | 5-10 | 11 or higher |
+| Cleric or Paladin of an Aligned Deity² (class levels) | - | 1 | 2-4 | 5-10 | 11 or higher |
 | Aligned Magic Item or Spell (Caster Level) | 5 or lower | 6-10 | 11-15 | 16-20 | 21 or higher |
 
-1 Except for Undead and Outsider, which have their own entries on the table.
-2 Some characters who are not clerics may radiate an aura of equivalent power. The class description will indicate whether this applies.
+¹ Except for Undead and Outsider, which have their own entries on the table.
+² Some characters who are not clerics may radiate an aura of equivalent power. The class description will indicate whether this applies.
 
 #### Divine Fate
 

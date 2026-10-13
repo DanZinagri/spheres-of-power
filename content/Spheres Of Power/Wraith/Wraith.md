@@ -341,7 +341,7 @@ An anima manipulates the very elements around himself.
 - Animated plants require the (plant) package and a plant of at least the given size.
 - Water elementals require the (water) package and a given number of 5-foot cubes of water.
 
-| Class Level | Maximum Elemental Size | Minimum 5-ft. Cubes | Minimum Size1 |
+| Class Level | Maximum Elemental Size | Minimum 5-ft. Cubes | Minimum Size¹ |
 | --- | --- | --- | --- |
 | 2nd | Small (halve hit points, CR 1/2) | 1/4 | Small |
 | 4th | Small | 1/4 | Small |

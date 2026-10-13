@@ -21,7 +21,7 @@ Swarmhearts in swarm form do not threaten creatures, and do not make attacks of 
 
 A swarmheart in swarm form does not gain any special protection from mind-affecting effects.
 
-This is a polymorph effect. The swarmheart gains the shapechanger subtype.The swarmheart counts have possessing the Swarm Transformation1 talent of the [[Alteration]] sphere for the purposes of meeting feat prerequisites. Traits that require being in the form of a swarm may be applied to swarm form.
+This is a polymorph effect. The swarmheart gains the shapechanger subtype.The swarmheart counts have possessing the Swarm Transformation¹ talent of the [[Alteration]] sphere for the purposes of meeting feat prerequisites. Traits that require being in the form of a swarm may be applied to swarm form.
 
 This replaces wraith form, but any feat, haunt, or other ability that would affect the duration or activation of wraith form may instead be applied to swarm form.
 1: Shapeshifter’s Handbook

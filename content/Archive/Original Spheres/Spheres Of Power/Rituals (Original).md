@@ -107,14 +107,14 @@ To turn a spell into a ritual, use the following formulae:
 | Conjuration (calling, summoning) | Conjuration |
 | Divination | Divination |
 | Enchantment | Mind |
-| Evocation | Various1 |
+| Evocation | Various¹ |
 | Illusion | Illusion |
 | Necromancy | Death |
 | Transmutation | Enhancement |
 | Transmutation (polymorph) | Alteration |
 | Transmutation (earth, air, fire, water) | Nature |
 
-1Evocation includes so many different types of spells that a simple conversion isn’t possible. (Light) spells would be the Light sphere, (Darkness) spells would be the Dark sphere, but others could be Destruction, Weather, Mind, or even Creation depending on the spell in question. GMs should use their own good judgment to determine which sphere an Evocation spell should use.
+¹Evocation includes so many different types of spells that a simple conversion isn’t possible. (Light) spells would be the Light sphere, (Darkness) spells would be the Dark sphere, but others could be Destruction, Weather, Mind, or even Creation depending on the spell in question. GMs should use their own good judgment to determine which sphere an Evocation spell should use.
 
 **Material Cost and Casting Times:** Use Table: Material Cost & Casting Time to determine a ritual’s material cost and casting time. If the spell in question has a longer casting time than this, use the spell’s casting time instead. If the spell has a costly material component or focus, this must be supplied in addition to the cost listed on Table: Material Cost & Casting Time. Depending on the ritual and casting tradition of the caster, this material cost could be alchemical supplies, rare herbs, or another form of magical component.
 

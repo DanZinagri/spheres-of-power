@@ -353,10 +353,10 @@ A fey noble’s domain is usually suited to their nature; aquatic fey will rule 
 
 | Hit Dice | Domain Size | Morphic Area |
 | --- | --- | --- |
-| 5-10 | contiguous area with approximately 3-mile radius (or 1 hex1) | 150-ft. radius, 10 ft. deep |
-| 11-15 | 2-10 contiguous hexes1 | 300-ft. radius, 20 ft. deep |
-| 15-20 | 11-40 contiguous hexes1 | 1,000-ft. radius, 50 ft. deep |
-| 21+ | 41+ contiguous hexes1 | 1-mile radius, 100 ft. deep |
+| 5-10 | contiguous area with approximately 3-mile radius (or 1 hex¹) | 150-ft. radius, 10 ft. deep |
+| 11-15 | 2-10 contiguous hexes¹ | 300-ft. radius, 20 ft. deep |
+| 15-20 | 11-40 contiguous hexes¹ | 1,000-ft. radius, 50 ft. deep |
+| 21+ | 41+ contiguous hexes¹ | 1-mile radius, 100 ft. deep |
 
 1: Assuming a 6 mile hex.
 

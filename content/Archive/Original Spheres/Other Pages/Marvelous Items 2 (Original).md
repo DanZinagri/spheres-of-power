@@ -336,7 +336,7 @@ Craft Wondrous Item, Leadership sphere; Cost 250 gp
 #### Foci of the Diviner
 
 **Aura** faint divination; **CL** 2nd;
-**Slot** none; **Price** 150 gp; **Weight** 1 lb.; **Scaling** prize1
+**Slot** none; **Price** 150 gp; **Weight** 1 lb.; **Scaling** prize¹
 This particular focus is made and sold in various different shapes, the most common of which is a wooden box containing either a complete deck of harrow cards or set of runes. If any of the harrow cards or runes move more than 400 ft from the box or becomes damaged those cards or runes rematerialize inside the box undamaged.
 
 - 4th Level – 900 gp: While the owner is touching a harrow card or rune, she gains a +1 enhancement bonus to her caster level with Divination sphere talents and abilities.
@@ -352,7 +352,7 @@ This particular focus is made and sold in various different shapes, the most com
 **Construction Requirements**
 Craft Wondrous Item, Divination Sphere, Enhancement Sphere, Cost 66,000 GP
 
-1 This is a Scaling Item (see Pathfinder Unchained).
+¹ This is a Scaling Item (see Pathfinder Unchained).
 
 #### Hedgewitch’s Cube of Gaming
 
@@ -531,7 +531,7 @@ Craft Wondrous Item, Creation sphere, Expanded Materials; **Cost** 160 gp
 **Aura** faint Death; **CL** 2
 **Slot** none; **Price** 1,600 gp; **Weight** -
 **Description**
-This strip of parchment has transcribed on it various verses of scripture laid out in pentacle form. The white lotus seal has been alchemically treated to work equally well against incorporeal as well as corporeal undead. In place of an attack, the character may make a melee touch attack against an undead creature placing the white lotus seal upon them. Undead who have the seal attached to them must make a Will save DC 10 + character’s Total PA (TPA) within the White Lotus Cult1 (minimum 1). Undead who fail their save become helpless until attacked or the seal is removed as a move action.
+This strip of parchment has transcribed on it various verses of scripture laid out in pentacle form. The white lotus seal has been alchemically treated to work equally well against incorporeal as well as corporeal undead. In place of an attack, the character may make a melee touch attack against an undead creature placing the white lotus seal upon them. Undead who have the seal attached to them must make a Will save DC 10 + character’s Total PA (TPA) within the White Lotus Cult¹ (minimum 1). Undead who fail their save become helpless until attacked or the seal is removed as a move action.
 **Construction Requirements**
 Craft Wondrous Item, Death sphere, Command Undead; **Cost** 800 gp
 1: The White Lotus Cult is an organization discussed in Spheres of Power. This organization can be replaced by any similar organization found within the campaign world. The White Lotus Cult is Product Identity of Drop Dead Studios and referenced here with written permission.
@@ -638,14 +638,14 @@ When drawing in the notebook, the artist must make a Craft (art) check, an Artis
 
 **Table: Created Creature**
 
-| Hit Dice/Levels1 | DC | Materials Fee | Crafting Time |
+| Hit Dice/Levels¹ | DC | Materials Fee | Crafting Time |
 | --- | --- | --- | --- |
 | 1/2 | 10 | 2 cp | 5 minutes |
 | 1 | 15 | 5 gp | 20 minutes |
 | 2 | 20 | 10 gp | 1 hour |
 | 3 | 25 | 25 gp | 3 hours |
 | 4 | 30 | 50 gp | 8 hours (1 day) |
-| +12 | +5 | +50 gp | +1 day |
+| +1² | +5 | +50 gp | +1 day |
 
 1: Trees, small animals with less than 1 Hit Dice, and level 1 commoners count as possessing 1/2 a Hit Dice. For higher levels, NPC classes count as their level -1 for determining their effective Hit Dice, while commoners count as their level -2 for determining their effective Hit Dice.
 

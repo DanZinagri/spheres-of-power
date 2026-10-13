@@ -77,7 +77,7 @@ function petCantTake(a) {
 }
 function addArchetype(a) {
   const k = kindState()
-  k.archetypes = [...(k.archetypes ?? []).filter((x) => x.name !== a.name), { name: a.name, url: a.url, source: a.source, replaces: a.replaces }]
+  k.archetypes = [...(k.archetypes ?? []).filter((x) => x.name !== a.name), { name: a.name, url: a.url, source: a.source, replaces: a.replaces, ...(a.forms ? { forms: a.forms } : {}) }]
   state.features = state.features.filter((f) => f.archetype !== a.name)
   for (const ab of a.abilities) state.features.push(newFeature("misc", { name: ab.name, desc: ab.text, monster: true, archetype: a.name }))
   changed(true)
@@ -106,11 +106,15 @@ async function openArchetypePicker() {
     const chosen = () => (kindState().archetypes ?? []).map((x) => all.find((y) => y.name === x.name) ?? x)
     const barredBy = (a) => chosen().find((c) => c.name !== a.name && ((a.only && !a.only.includes(c.name)) || (c.only && !c.only.includes(a.name))
       || (a.not ?? []).includes(c.name) || (c.not ?? []).includes(a.name)))?.name ?? ""
+    // an archetype for certain base forms only ("forms": the warrior's "may only be applied to bipedal companions")
+    const formOf = () => kindState().entry?.name ?? ""
+    const wrongForm = (a) => (a.forms && formOf() && !a.forms.includes(formOf()) ? formOf() : "")
     fill(results, ...hits.map((a) => {
       const on = (kindState().archetypes ?? []).some((x) => x.name === a.name)
       const lacks = petCantTake(a)
       const barred = on ? "" : barredBy(a)
-      const off = (!!lacks || !!barred) && !on
+      const form = wrongForm(a)
+      const off = (!!lacks || !!barred || !!form) && !on
       // (one that can't be taken can still be unticked if it was chosen earlier)
       const cb = h("input", { type: "checkbox", checked: on, disabled: off })
       cb.addEventListener("change", () => { cb.checked ? addArchetype(a) : removeArchetype(a.name); render() })
@@ -119,6 +123,8 @@ async function openArchetypePicker() {
         h("span", { class: "pi-pre" }, `${a.replaces.length ? `Replaces ${a.replaces.join(", ")}. ` : ""}${a.source}`),
         a.only ? h("span", { class: "note", style: "display:block" }, `Can only be combined with ${a.only.join(", ") || "nothing"}.`) : null,
         a.not?.length ? h("span", { class: "note", style: "display:block" }, `Can't be combined with ${a.not.join(" or ")}.`) : null,
+        a.forms ? h("span", { class: "note", style: "display:block" }, `Only for ${a.forms.map((f) => `the ${f.toLowerCase()} base form`).join(" or ")}.`) : null,
+        form ? h("span", { class: "warn", style: "display:block" }, `Not for the ${form.toLowerCase()} base form.`) : null,
         barred ? h("span", { class: "warn", style: "display:block" }, `Can't be combined with ${barred}.`) : null,
         lacks ? h("span", { class: "warn", style: "display:block" }, `Not for a pet: it has no ${lacks} to trade.`) : null)
     }),
@@ -141,7 +147,9 @@ function archetypeCard() {
       h("button", { class: "small", onclick: () => openArchetypePicker() }, "+ Add archetypes")),
     ...list.map((a) => h("div", { class: "row" }, h("b", {}, a.name), h("span", { class: "muted" }, a.source),
       a.replaces?.length ? h("span", { class: "note" }, `Replaces ${a.replaces.join(", ")}.`) : null,
-      petCantTake(a) ? h("span", { class: "warn" }, `⚠ Not for a pet: it has no ${petCantTake(a)} to trade.`) : null, h("div", { class: "spacer" }),
+      petCantTake(a) ? h("span", { class: "warn" }, `⚠ Not for a pet: it has no ${petCantTake(a)} to trade.`) : null,
+      a.forms && kindState().entry?.name && !a.forms.includes(kindState().entry.name) ? h("span", { class: "warn" }, `⚠ Only for ${a.forms.map((f) => `the ${f.toLowerCase()} base form`).join(" or ")}.`) : null,
+      h("div", { class: "spacer" }),
       a.url ? h("a", { href: a.url, target: "_blank", rel: "noopener" }, /^https?:/.test(a.url) ? "On Archives of Nethys" : "On the wiki") : null,
       h("button", { class: "small danger", onclick: () => removeArchetype(a.name) }, "Remove"))),
     h("p", { class: "note" }, list.length

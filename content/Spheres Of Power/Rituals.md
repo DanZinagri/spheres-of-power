@@ -34,7 +34,7 @@ Once a ritual has been deciphered, the method for using that ritual differs depe
 
 ### Ritual Books
 
-To use a ritual from a magic book, the caster must possess that ritual’s associated base sphere (or must possess the Ritual Caster feat), and their caster level with that sphere must be at least twice the ritual’s level1. In addition, their casting ability score must also be at least 10 + the ritual’s level. If the caster meets all these prerequisites and possesses the ritual’s material components, he may invest the required amount of time and activate the ritual.
+To use a ritual from a magic book, the caster must possess that ritual’s associated base sphere (or must possess the Ritual Caster feat), and their caster level with that sphere must be at least twice the ritual’s level¹. In addition, their casting ability score must also be at least 10 + the ritual’s level. If the caster meets all these prerequisites and possesses the ritual’s material components, he may invest the required amount of time and activate the ritual.
 
 Recording a ritual into a magic book is a process that requires 1 hour per ritual level (0 level rituals take 30 minutes) and requires one page per ritual level (0 level rituals take half a page). A ritual may be copied from another book, a scroll, or created through independent research. If a ritual is copied from a scroll, this expends the scroll. In addition, if a ritual is copied from a scroll or another ritual book, a certain amount of magic (in the form of material components) must be expended to create a working written version, according to the Table: Ritual Cost. This cost does not need to be paid if the ritual was independently researched, as the components were spent during the research itself.
 
@@ -114,7 +114,7 @@ To turn a spell into a ritual, use the following formulae:
 | Conjuration (calling, summoning) | Conjuration |
 | Divination | Divination |
 | Enchantment | Mind |
-| Evocation | Various1 |
+| Evocation | Various¹ |
 | Illusion | Illusion |
 | Necromancy | Death |
 | Transmutation | Enhancement |

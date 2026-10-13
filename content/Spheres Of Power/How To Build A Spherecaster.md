@@ -67,7 +67,7 @@ To make things easier, here's a table introducing each of the spheres.
 
 #### Table: Sphere Introductions
 
-| Sphere/Talent Type | Overview of the Sphere's Talents | Core1 |
+| Sphere/Talent Type | Overview of the Sphere's Talents | Core¹ |
 | --- | --- | --- |
 | Alteration | Alteration focuses on physical transformations, allowing characters to grow new body parts, adjust their size, and generally become what they need. While Alteration's talents aren't separated by category, they do broadly fall into "Transformation" talents (which give new forms and traits) and general talents (which support transforming). | Yes |
 | Bear | The Bear sphere was released for April Fool's in 2019, but is a fully functional Sphere in its own right. This flexible sphere is somewhat better for martial characters. | No |
@@ -100,12 +100,12 @@ To make things easier, here's a table introducing each of the spheres.
 | Motif Talents | Motif talents offer a long-term benefit that can be sacrificed for a larger impact on fate. | No |
 | Word Talents | Word talents allow you to affect a single creature in close range with a positive or negative effect. | Yes |
 | Illusion | Illusion focuses on creating things that aren't real. These can be as simple as minor tricks, or more complex falsifications designed to hid you and fool your enemies. | Yes |
-| Figment Talents | Figments are illusions applied to an area and become transparent when disbelieved. | Yes3 |
-| Glamer Talents | Glamers are illusions applied to a creature or object. The caster and the recipient can see through them. | Yes3 |
+| Figment Talents | Figments are illusions applied to an area and become transparent when disbelieved. | Yes³ |
+| Glamer Talents | Glamers are illusions applied to a creature or object. The caster and the recipient can see through them. | Yes³ |
 | Illusion Talents | Illusion talents provide new ways for you to use your illusions, such as by affecting new senses or covering a larger area. Many previous Illusion talents were errata'd into other categories. | Yes |
-| Sensory Talents | Sensory talents modify other illusions by changing the senses that can be affected. This can make them harder for others to notice or disbelieve. | Yes3 |
+| Sensory Talents | Sensory talents modify other illusions by changing the senses that can be affected. This can make them harder for others to notice or disbelieve. | Yes³ |
 | Shadow Talents | Shadow talents create illusions that are partially real even if disbelieved. | No |
-| Suppression Talents | Suppression talents destroy senses or prevent them from functioning. Most of these are Advanced Talents. | Yes3 |
+| Suppression Talents | Suppression talents destroy senses or prevent them from functioning. Most of these are Advanced Talents. | Yes³ |
 | Life | The Life sphere focuses on healing hit point damage and curing conditions. Additional talents improve the amount of healing done and allow a caster to cure additional effects. (Tip: Get Revitalize) | Yes |
 | Vitality Talents | Vitality talents provide a minor boon when a target is affected by an ability from the Life sphere. | No |
 | Light | The Light sphere focuses on illumination and the many things that can be done with it, from directing the areas to be lit to creating stylish, artistic designs. | Yes |
@@ -119,7 +119,7 @@ To make things easier, here's a table introducing each of the spheres.
 | Spirit Talents | While most talents in the Nature sphere provide additional ways to manipulate an element, Spirit talents allow you to attune yourself with nature and gain benefits like the ability to speak with animals or absorb energy from fire. | Yes |
 | Protection | The Protection sphere is focused on defense, allowing you to increase AC bonuses, ward off elemental damage, and generally survive what your opponents throw at you. | Yes |
 | Aegis Talents | Aegis talents provide a long-lasting defensive bonus. They do stack (except with themselves), so one character can benefit from multiple defenses. | Yes |
-| Succor Talents | Succor talents can be used as an immediate action by sacrificing an aegis. | Yes2 |
+| Succor Talents | Succor talents can be used as an immediate action by sacrificing an aegis. | Yes² |
 | Ward Talents | Ward talents allow you to create a protective barrier that blocks effects over a wide area. | Yes |
 | Technomancy | The Technomancy sphere is a 3PP release, and therefore not official material. It focuses on exerting magical control over technological items (such as golems or futuristic guns). | No |
 | Telekinesis | The Telekinesis sphere focuses on manipulating objects - and people - at range. With the right talents, this is an extremely flexible sphere that allows for everything from deflecting ranged attacks to remotely picking locks (or deliberately setting off traps). | Yes |
