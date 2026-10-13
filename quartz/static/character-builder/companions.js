@@ -109,12 +109,17 @@ async function openArchetypePicker() {
     // an archetype for certain base forms only ("forms": the warrior's "may only be applied to bipedal companions")
     const formOf = () => kindState().entry?.name ?? ""
     const wrongForm = (a) => (a.forms && formOf() && !a.forms.includes(formOf()) ? formOf() : "")
+    // ... or one that needs the base form to have a speed of so many feet ("minSpeed": the aquatic's
+    // "base form that grants a speed of less than 20 feet are not eligible"): the form's best speed, if short
+    const bestSpeed = () => { const e = kindState().entry; return e ? Math.max(0, ...Object.values(e.speeds ?? {}).map(Number), ...[...String(e.speedText ?? "").matchAll(/(\d+)\s*ft/g)].map((m) => Number(m[1]))) : null }
+    const tooSlow = (a) => (a.minSpeed && bestSpeed() !== null && bestSpeed() < a.minSpeed ? bestSpeed() : "")
     fill(results, ...hits.map((a) => {
       const on = (kindState().archetypes ?? []).some((x) => x.name === a.name)
       const lacks = petCantTake(a)
       const barred = on ? "" : barredBy(a)
       const form = wrongForm(a)
-      const off = (!!lacks || !!barred || !!form) && !on
+      const slow = tooSlow(a)
+      const off = (!!lacks || !!barred || !!form || slow !== "") && !on
       // (one that can't be taken can still be unticked if it was chosen earlier)
       const cb = h("input", { type: "checkbox", checked: on, disabled: off })
       cb.addEventListener("change", () => { cb.checked ? addArchetype(a) : removeArchetype(a.name); render() })
@@ -125,6 +130,8 @@ async function openArchetypePicker() {
         a.not?.length ? h("span", { class: "note", style: "display:block" }, `Can't be combined with ${a.not.join(" or ")}.`) : null,
         a.forms ? h("span", { class: "note", style: "display:block" }, `Only for ${a.forms.map((f) => `the ${f.toLowerCase()} base form`).join(" or ")}.`) : null,
         form ? h("span", { class: "warn", style: "display:block" }, `Not for the ${form.toLowerCase()} base form.`) : null,
+        a.minSpeed ? h("span", { class: "note", style: "display:block" }, `Only for a base form with a speed of ${a.minSpeed} ft. or more.`) : null,
+        slow !== "" ? h("span", { class: "warn", style: "display:block" }, `Not for this base form: its best speed is ${slow} ft.`) : null,
         barred ? h("span", { class: "warn", style: "display:block" }, `Can't be combined with ${barred}.`) : null,
         lacks ? h("span", { class: "warn", style: "display:block" }, `Not for a pet: it has no ${lacks} to trade.`) : null)
     }),

@@ -28,6 +28,8 @@ const ARCHETYPE_LIMITS = {
   Avatar: { only: ["Aquatic"] },
   // forms: the base forms it may be applied to (the warrior: "may only be applied to bipedal companions")
   Warrior: { forms: ["Biped"] },
+  // minSpeed: the aquatic takes 20 feet off a speed ("a base form that grants a speed of less than 20 feet" is not eligible)
+  Aquatic: { minSpeed: 20 },
   Beast: { not: ["Mindless", "Puppet"] },
   // (the mage: "cannot be combined with the mindless companion archetype"; unwilling: "cannot possess both
   // this archetype and the Puppet archetype"; mindless and puppet list the same limits from their side.
