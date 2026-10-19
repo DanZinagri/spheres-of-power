@@ -605,6 +605,88 @@ class Page:
         self.filename = ""
 
 
+def drop_duplicate_footnotes() -> int:
+    """A footnote on a link to another page's entry ("[[Weapons#Invisible|Invisible]][^101]") that only
+    repeats what that entry says goes (the link already leads there): its mark and, once no mark is left,
+    its note. Returns the footnotes dropped."""
+    words = lambda t: re.sub(r"[^a-z0-9 ]", " ", re.sub(r"\[\[(?:[^\]|]*\\?\|)?([^\]]*)\]\]", r"\1", t).lower().replace("’", "'")).split()
+    files = {f.stem: f for f in CONTENT.rglob("*.md") if ARCHIVE not in f.relative_to(CONTENT).parts}
+    sections: dict[tuple[str, str], str] = {}
+
+    def section(page: str, head: str) -> str:
+        if (page, head) in sections:
+            return sections[(page, head)]
+        out = ""
+        f = files.get(page)
+        if f:
+            lines = f.read_text(encoding="utf-8").replace("\r", "").split("\n")
+            want = " ".join(words(head))
+            for i, l in enumerate(lines):
+                m = re.match(r"(#{1,6}) (.+)", l)
+                if m and " ".join(words(m.group(2))) == want:
+                    body = []
+                    for l2 in lines[i + 1:]:
+                        m2 = re.match(r"(#{1,6}) ", l2)
+                        if m2 and len(m2.group(1)) <= len(m.group(1)):
+                            break
+                        body.append(l2)
+                    out = " ".join(words(" ".join(body)))
+                    break
+        sections[(page, head)] = out
+        return out
+
+    link = re.compile(r"(\[\[([^\]#|]+)#([^\]|\\]+)(?:\\?\|[^\]]*)?\]\])\[\^(\w+)\]")
+    dropped = 0
+    for f in files.values():
+        text = f.read_text(encoding="utf-8")
+        if "[^" not in text or GENERATED_MARK not in text:
+            continue
+        crlf = "\r\n" in text
+        body = text.replace("\r\n", "\n")
+        notes = dict(re.findall(r"^\[\^(\w+)\]: (.+)$", body, re.M))
+        gone = set()
+
+        def keep_or_drop(m):
+            n, opening = m.group(4), words(notes.get(m.group(4), ""))[:12]
+            if len(opening) >= 6 and " ".join(opening) in section(m.group(2), m.group(3)):
+                gone.add(n)
+                return m.group(1)
+            return m.group(0)
+
+        new = link.sub(keep_or_drop, body)
+        if not gone:
+            continue
+        for n in gone:
+            if f"[^{n}]" not in re.sub(r"^\[\^" + re.escape(n) + r"\]: .*$", "", new, flags=re.M):
+                new = re.sub(r"^\[\^" + re.escape(n) + r"\]: .*\n?", "", new, flags=re.M)
+                dropped += 1
+        f.write_text(new.replace("\n", "\r\n") if crlf else new, encoding="utf-8")
+    return dropped
+
+
+def _heading_for_label(label: str, numbered: str | None, headings) -> str | None:
+    """The heading a cross-page "#tocN" link should land on. Wikidot numbers a page's headings in order,
+    so a link written before entries were added to the target page points N headings off (the Armorist's
+    "Invisible" landing on Weapons' "Dispelling"). A heading named like the link's text wins; otherwise
+    the numbered one stands (a link reading "here" or "Click here" names no heading)."""
+    words = lambda t: re.sub(r"\s*[\[(][^\])]*[\])]", " ", str(t)).lower().replace("’", "'")
+    key = lambda t: " ".join(re.sub(r"[^a-z0-9' ]", " ", words(t)).split())
+    want = key(label)
+    if not want:
+        return numbered
+    if numbered and key(numbered) == want:
+        return numbered
+    heads = list(dict.fromkeys(headings))
+    same = [h for h in heads if key(h) == want]
+    if same:
+        return same[0]
+    # "Reaving" for "Reaving Gravecaller's HB", "Destructive focus" before "Destructive Focus, Greater"
+    starts = sorted((h for h in heads if key(h).startswith(want + " ")), key=lambda h: len(key(h)))
+    if starts:
+        return starts[0]
+    return numbered
+
+
 def internal_slug(href: str) -> str | None:
     """Wikidot page slug an href points to, or None for external/file/anchor links."""
     if not href or href.startswith(("#", "javascript:")):
@@ -649,7 +731,7 @@ class WikiConverter(MarkdownConverter):
             if target:
                 frag = ""
                 if parsed.fragment:
-                    h = target.anchors.get(parsed.fragment)
+                    h = _heading_for_label(text, target.anchors.get(parsed.fragment), target.anchors.values())
                     frag = f"#{h}" if h else ""
                 label = text.replace("|", "\\|").replace("[", "(").replace("]", ")")
                 if not label or (label == target.filename and not frag):
@@ -8291,6 +8373,7 @@ def convert(with_images: bool) -> None:
     write_link_families(pages, derived_notes)
     print(f"Retired Ultimate: {len(retired)} pages")
     print("Citation tags removed, links re-pointed: %d, %d" % strip_citation_tags())
+    print(f"Footnotes that repeated their linked entry, dropped: {drop_duplicate_footnotes()}")
     # (the later steps can bring more "Extra ..." feats to the shared pages,
     # and put some on class feats pages: a second look, now that they have)
     distribute_extra_feats(pages, class_pages, class_options, derived_notes, create=False)

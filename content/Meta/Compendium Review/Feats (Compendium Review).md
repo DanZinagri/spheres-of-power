@@ -32,47 +32,47 @@ What the feat extractor takes from the site (1258 Spheres feats; approved), plus
 | Counterspell | 20 | — |
 | Item Mastery | — | 19 |
 | Gizmo | 17 | — |
-| Faction | — | 17 |
 | Weapon Mastery | — | 17 |
-| Protokinesis | 16 | — |
+| Faction | — | 17 |
 | Stare | — | 16 |
+| Protokinesis | 16 | — |
 | Performance | — | 15 |
 | Companion | 15 | — |
 | Meditation | — | 14 |
 | Shield Mastery | — | 14 |
-| Wild Magic | 12 | — |
-| Necrosis | 12 | — |
-| Proxy | 12 | — |
 | Shield Style | — | 12 |
-| Surreal | 12 | — |
+| Necrosis | 12 | — |
+| Wild Magic | 12 | — |
 | Defiler | 12 | — |
-| Armor Mastery | — | 11 |
-| Channeling | 11 | — |
-| Achievement | — | 11 |
+| Surreal | 12 | — |
+| Proxy | 12 | — |
 | Purring | 11 | — |
+| Channeling | 11 | — |
+| Armor Mastery | — | 11 |
 | Panache | — | 11 |
+| Achievement | — | 11 |
 | Rune | 10 | — |
-| Alignment | — | 9 |
-| Esoteric | — | 9 |
 | Origin | — | 9 |
 | Armor Style | — | 9 |
+| Alignment | — | 9 |
+| Esoteric | — | 9 |
 | Familiar | — | 8 |
 | Blood Hex | — | 8 |
-| Damnation | 3 | 4 |
 | Theurge | 7 | — |
 | Combination | — | 7 |
-| Plague | 6 | — |
-| Trick | — | 6 |
-| Betrayal | — | 6 |
-| Chance | 6 | — |
+| Damnation | 3 | 4 |
 | Anathema | 6 | — |
-| Targeting | — | 4 |
+| Trick | — | 6 |
+| Chance | 6 | — |
+| Betrayal | — | 6 |
+| Plague | 6 | — |
 | Gathlain Court Title | — | 4 |
-| Hero Point | — | 3 |
+| Targeting | — | 4 |
 | Words of Power | — | 3 |
-| Called Shot | — | 2 |
-| Coven | — | 2 |
+| Hero Point | — | 3 |
 | Luck | 2 | — |
+| Coven | — | 2 |
+| Called Shot | — | 2 |
 
 ## Spheres of Power (1023)
 

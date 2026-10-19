@@ -13,6 +13,10 @@ async function mouseEnterHandler(
   if (link.dataset.noPopover === "true") {
     return
   }
+  // a link to somewhere on the page already open (a heading, a footnote) gets no preview of it
+  if (link.pathname.replace(/\/$/, "") === window.location.pathname.replace(/\/$/, "")) {
+    return
+  }
 
   async function setPosition(popoverElement: HTMLElement) {
     const { x, y } = await computePosition(link, popoverElement, {
