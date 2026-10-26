@@ -899,10 +899,23 @@ const FIELD_TRAIT = /^(medium|small|large|tiny|medium or small-sized|medium\/sma
 const fieldTrait = (e) => e.kind === "Standard" && FIELD_TRAIT.test(e.name.trim())
 // a trait is its race's by name; where a Pathfinder race and a Spheres race share a name (cecaelia), each keeps its own system's
 const sharedName = (name) => RACE_DATA.list.filter((x) => x.name.toLowerCase() === name.toLowerCase()).length > 1
-const traitOfRace = (e, r) => e.race.toLowerCase() === r.name.toLowerCase() && (!sharedName(r.name) || isPf(e) === isPf(r))
+const ownTrait = (e, r) => e.race.toLowerCase() === r.name.toLowerCase() && (!sharedName(r.name) || isPf(e) === isPf(r))
+// A race written as another with a few traits changed: the drow noble is a drow whose spell resistance and
+// spell-like abilities are stronger. It has the base race's standard traits (its own in place of any of the
+// same name) and can take the base race's alternate racial traits.
+const RACE_BASES = { "drow noble": "drow" }
+const baseRaceOf = (r) => RACE_BASES[String(r?.name ?? "").toLowerCase()] ?? ""
+const traitOfRace = (e, r) => {
+  if (ownTrait(e, r)) return true
+  const base = baseRaceOf(r)
+  if (!base || e.race.toLowerCase() !== base) return false
+  // a base race's standard trait the race replaces with its own of the same name is not its
+  return e.kind !== "Standard" || !RACIAL.list.some((x) => x.kind === "Standard" && ownTrait(x, r) && x.name.trim().toLowerCase() === e.name.trim().toLowerCase())
+}
 const raceTraitsOf = (kind) => {
   const r = RACE_DATA.byId[state.race.ref] ?? { name: currentRaceName(), system: "Pathfinder 1e" }
-  return r.name ? RACIAL.list.filter((e) => e.kind === kind && (RACE_DATA.byId[state.race.ref] ? traitOfRace(e, r) : e.race.toLowerCase() === r.name.toLowerCase())) : []
+  return r.name ? RACIAL.list.filter((e) => e.kind === kind && (RACE_DATA.byId[state.race.ref] ? traitOfRace(e, r)
+    : e.race.toLowerCase() === r.name.toLowerCase() || (baseRaceOf(r) && e.race.toLowerCase() === baseRaceOf(r)))) : []
 }
 const raceStandardTraits = () => raceTraitsOf("Standard")
 // a trait's name as an alternate's "Replaces" line might put it: "the ifrit's spell-like abilities" -> "spell-like ability"
@@ -910,7 +923,9 @@ function normTrait(text) {
   const race = currentRaceName().toLowerCase()
   let t = String(text ?? "").toLowerCase().replace(/[’`]/g, "'").replace(/\s*\([^)]*\)/g, "").replace(/\bracial traits?\b/g, "").trim()
   t = t.replace(/^the\s+/, "")
-  if (race) t = t.replace(new RegExp(`^${race.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}(?:'s|s')?\\s+`), "")
+  // ("the drow's spell-like abilities" on a drow noble: the base race's name goes too)
+  for (const name of [race, RACE_BASES[race]].filter(Boolean))
+    t = t.replace(new RegExp(`^${name.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}(?:'s|s')?\\s+`), "")
   return t.replace(/abilities/g, "ability").replace(/\s+/g, " ").trim()
 }
 // Primordial Performer trades an elemental affinity and / or a spell-like ability: the ones this race has
