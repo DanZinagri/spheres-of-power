@@ -256,6 +256,8 @@ PAGE_REPLACE = {
     "armor": [(r"(Once per turn as) (swift action)", r"\1 a \2")],
     "quicksilver": [(r"(from his dodge pool as) (swift action)", r"\1 a \2")],
     "sage": [(r"(may spend a ki point as) (swift action)", r"\1 a \2")],
+    # the wiki fixed this on the current tab only; the archived Original keeps the slip
+    "warp": [(r"continues to exists\b", "continues to exist")],
     "collector": [(r"(storage|by an ally) as (swift action)", r"\1 as a \2")],
     "tinker-legendary-talents": [(r"\b(physical or mental|mental) augmentation\b", r"\1 augmentor")],
     "taskmaster": [(r"\b(physical or mental|mental) (?:\*augmentation\*|augmentation\b)", r"\1 augmentor")],
