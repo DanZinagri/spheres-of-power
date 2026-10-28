@@ -37,7 +37,7 @@ This replaces adamant astonishment, but may be replaced by other archetypes.
 
 ## Astral Decoherence (Su)
 
-At 11th level, the quicksilver can spend 40% from his dodge pool as swift action to become decoherent for 2 rounds. While decoherent, the quicksilver takes half damage from non-magical weapons, has a 20% chance to ignore the effects of any corporeal spell or effect that does not cause damage (unless it is a force effect), and can move through an area as small as one-quarter its space without squeezing. Lastly, the quicksilver can use Stealth to hide even while observed—albeit at a -10 penalty—as long as he ends his turn within cover or concealment.
+At 11th level, the quicksilver can spend 40% from his dodge pool as a swift action to become decoherent for 2 rounds. While decoherent, the quicksilver takes half damage from non-magical weapons, has a 20% chance to ignore the effects of any corporeal spell or effect that does not cause damage (unless it is a force effect), and can move through an area as small as one-quarter its space without squeezing. Lastly, the quicksilver can use Stealth to hide even while observed—albeit at a -10 penalty—as long as he ends his turn within cover or concealment.
 
 This replaces improved uncanny dodge.
 

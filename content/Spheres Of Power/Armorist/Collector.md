@@ -25,7 +25,7 @@ If she already possesses the Warp sphere, she gains the Extradimensional Storage
 
 The collector may spend 8 hours bonding with a piece of equipment to claim it as her prize. A collector’s prize must be stored in her extradimensional storage. The collector may claim up to 50 pieces of ammunition as a single prize. Withdrawing or donning a prize from her extradimensional storage is always a swift action.
 
-The collector always knows the direction and distance to each of her prizes as long as they are on the same plane. The collector may return any number of her prizes within long range to her extradimensional storage as swift action. If a prize is in the possession of a hostile creature, that creature gets a Will save (10 + 1/2 her collector level + practitioner modifier) to resist her recall. On a successful save, she fails in recalling her prize and cannot attempt to recall it this way for 1 minute.
+The collector always knows the direction and distance to each of her prizes as long as they are on the same plane. The collector may return any number of her prizes within long range to her extradimensional storage as a swift action. If a prize is in the possession of a hostile creature, that creature gets a Will save (10 + 1/2 her collector level + practitioner modifier) to resist her recall. On a successful save, she fails in recalling her prize and cannot attempt to recall it this way for 1 minute.
 
 After 1 minute per class level, withdrawn prizes automatically return to the collector’s extradimensional storage as long as they are on the same plane. If a prize is in the possession of another creature at the end of this duration, the collector has 1 day per class level to retrieve it and return it to her extradimensional storage. If the prize is not returned in this time, the collector forfeits ownership of the item and it loses all benefits of the prize ability.
 
@@ -109,7 +109,7 @@ The item chosen for this attack roll cannot be an obsessed prize. All prizes ret
 
 #### Precious Loan
 
-The collector may spend a spell point to allow her prizes to retain their enhancement bonuses and special abilities when wielded by an ally. The collector may recall any prize wielded by an ally as swift action (no save).
+The collector may spend a spell point to allow her prizes to retain their enhancement bonuses and special abilities when wielded by an ally. The collector may recall any prize wielded by an ally as a swift action (no save).
 
 #### Ranged Portal
 

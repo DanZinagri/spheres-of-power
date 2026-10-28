@@ -130,7 +130,7 @@ For the full rules on associated feats and associated skills, see [[Using Sphere
 | Step Up | [[Fencing]] (Footwork talent) |
 | Subtle Poisoner | [[Scoundrel]] (Subtle Poisoner talent) |
 | Tangle Feet | [[Athletics]] (Knockdown Tumble (motion) talent) |
-| Technologist | [[Tech]] (Tech Savvy talent) |
+| Technologist | [[Tech]] (Tech Savvy talent), [[Tinker]] (Base) |
 | Throw Anything | [[Barroom]] (Brutal Breaker ability) |
 | Throw Anything | [[Berserker]] (Barbaric Throw talent) |
 | Tower Shield Proficiency | [[Equipment Sphere\|Equipment]] (Shield Training talent) |

@@ -31,8 +31,8 @@ What the feat extractor takes from the site (1258 Spheres feats; approved), plus
 | Grit | — | 21 |
 | Counterspell | 20 | — |
 | Item Mastery | — | 19 |
-| Gizmo | 17 | — |
 | Weapon Mastery | — | 17 |
+| Gizmo | 17 | — |
 | Faction | — | 17 |
 | Stare | — | 16 |
 | Protokinesis | 16 | — |
@@ -40,30 +40,30 @@ What the feat extractor takes from the site (1258 Spheres feats; approved), plus
 | Companion | 15 | — |
 | Meditation | — | 14 |
 | Shield Mastery | — | 14 |
-| Shield Style | — | 12 |
-| Necrosis | 12 | — |
-| Wild Magic | 12 | — |
 | Defiler | 12 | — |
+| Necrosis | 12 | — |
 | Surreal | 12 | — |
+| Shield Style | — | 12 |
+| Wild Magic | 12 | — |
 | Proxy | 12 | — |
-| Purring | 11 | — |
-| Channeling | 11 | — |
-| Armor Mastery | — | 11 |
 | Panache | — | 11 |
+| Armor Mastery | — | 11 |
 | Achievement | — | 11 |
+| Channeling | 11 | — |
+| Purring | 11 | — |
 | Rune | 10 | — |
 | Origin | — | 9 |
-| Armor Style | — | 9 |
 | Alignment | — | 9 |
 | Esoteric | — | 9 |
+| Armor Style | — | 9 |
 | Familiar | — | 8 |
 | Blood Hex | — | 8 |
-| Theurge | 7 | — |
-| Combination | — | 7 |
 | Damnation | 3 | 4 |
-| Anathema | 6 | — |
-| Trick | — | 6 |
+| Combination | — | 7 |
+| Theurge | 7 | — |
 | Chance | 6 | — |
+| Trick | — | 6 |
+| Anathema | 6 | — |
 | Betrayal | — | 6 |
 | Plague | 6 | — |
 | Gathlain Court Title | — | 4 |

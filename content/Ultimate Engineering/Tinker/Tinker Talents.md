@@ -1,7 +1,7 @@
 ---
 title: "Tinker Talents"
 source: https://spheresofpower.wikidot.com/tinker-talents
-updated: 2026-05-23
+updated: 2026-10-20
 parent: "[[Tinker]]"
 searchtype: Talents
 ---
@@ -212,7 +212,7 @@ The user adds twice the physical augmentor’s bonus to the number of drinks the
 
 **Special - Tinker Savvy:** Training or handling another creature to use gizmos is considered a technological skill use, allowing you to make a Tinker sphere associated skill check in place of Handle Animal checks as appropriate.
 
-**Saddle Assistant (gizmo, minor):** The user may mount creatures of any size as swift action without a check. When using fast mount, they may mount creatures of any size they could ride, and may do so as long as they have their move or swift action available. If they fail, they may mount as a move or swift action.
+**Saddle Assistant (gizmo, minor):** The user may mount creatures of any size as a swift action without a check. When using fast mount, they may mount creatures of any size they could ride, and may do so as long as they have their move or swift action available. If they fail, they may mount as a move or swift action.
 
 - **Advanced Gizmo:** The user does not take a penalty for riding bareback and is treated as having the necessary basic equipment to ride and control their mount (such as a bit and bridle for a horse, or other equipment as needed).
 
@@ -1311,9 +1311,9 @@ If a technologically enhanced item consists of multiple pieces, such as a group 
 
 **Example:** If an ecology sensor is adjusted with this ability, it would return signature strength based on the user’s Hit Dice if looking for a creature relative to the user, or could be used to detect for dragons if the user had a dragon to set as the relative variable within their reach, and an armament sensor would return signature strength based an object in the user’s possession (the relative variable relevant to the type of sensor). For *detectors* that search for more nuanced data and information (such as the heat sensor, whose signature strength is based on intensity), determine the signature strength by how many steps difference there is between the relative variable and the detected sources (use the relevant table for that sensor to determine steps from relative variable; such as the user’s own body heat being compared to outside temperatures).
 
-**Transmission: Signal Range, Improved:** The signals created by your gizmos reach further and penetrate deeper. Your *detectors* transmit their detection signal over a medium range and your *transmitters* project their signal over a long range. In addition your *signals* can now penetrate through barriers 5 times deeper (barring other modifications to signal penetration strength, this is generally: 15 feet of wood or dirt, 5 feet of stone, 6 inches of common metal, or a half inch of lead).
+**Transmission: Signal Range, Improved:** The signals created by your gizmos reach further and penetrate deeper. Your *detectors* transmit their detection signal over a medium range and your *transmitters* project their signal over a long range. In addition your *signals* can now penetrate through barriers 5 times deeper (barring other modifications to signal penetration strength, this is generally: 15 feet of wood or dirt, 5 feet of stone, 5 inches of common metal, or a half inch of lead).
 
-**Note:** Multiplicative increases to signal penetration strength are additive, such as gaining an additional “2 times” would stack with this talent to be 4 times penetration.
+**Note:** Multiplicative increases to signal penetration strength are additive, such as gaining an additional “2 times” would stack with this talent to be 6 times penetration.
 
 **Transmission: Signal Repeater (gizmo, minor):** A signal repeater is a *transmitter* that generates a signal that sends no transmission of its own. Other *transmitters* treat a signal repeater’s signal as part of their own signal (connecting their signal to the signal repeater’s signal); this extended signal range may include other signal repeaters. Effects that require line of effect still require line of effect from the base gizmo.
 
@@ -1383,7 +1383,7 @@ If an ejector seat is used to avoid an attack or area effect that would harm the
 
 **Modification: Retractable Cording (gizmo):** This *modification* is attached to a weapon (except ammunition and siege weapons). This *modification’s* cord is worn by the user (such as wearing a bracer with the retractable cording attached). The cord’s length is up to 10 feet, + 5 feet per 2 gizmo levels, determined when crafted (referred to as the “cord length”; minimum 5 feet). The attached weapon cannot move further than the cord’s length from the user unless the *modification* or *modification’s* cord is destroyed, or unless another creature succeeds at a Strength check to snap the cord (DC 10 + 1/2 the gizmo’s level). This *modification’s* cord is not strong enough to bear weight (other than the attached weapon’s weight) and cannot be used as a rope or other similar object.
 
-The user may perform any the following as swift action (or each as a free action once per round):
+The user may perform any of the following as a swift action (or each as a free action once per round):
 
 - **Draw Attached Weapon:** The user may retrieve the attached weapon (if it is in your square or a square within your natural reach), returning it into a free hand. If the attached weapon is on your person and not in a secured container, returning this weapon to your hand is treated as drawing that weapon.
 - **Retrieve Weapon:** The user may also retrieve the attached weapon from up to 10 feet, +5 feet per 2 gizmo levels (this maximum distance is determined when the *modification* is crafted, referred to as “cord length”; minimum 5 feet).

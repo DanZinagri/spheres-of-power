@@ -422,7 +422,7 @@ A suit of sacrificial armor is tied to its wearer’s lifeforce; when its wearer
 
 ### Selfless (armor only)
 
-Selfless armor allows the wearer to give of themselves so that others may follow their example. Once per turn as swift action, the wearer can choose to accept 1d6 hit points of nonlethal damage. This damage can not be healed by any means other than getting a full night’s rest, which removes all of this damage. Whenever the wearer does this, allies other than their self within 30 feet gain a bonus for 1 round. The wearer chooses the bonus, and all allies gain the same bonus. The options are:
+Selfless armor allows the wearer to give of themselves so that others may follow their example. Once per turn as a swift action, the wearer can choose to accept 1d6 hit points of nonlethal damage. This damage can not be healed by any means other than getting a full night’s rest, which removes all of this damage. Whenever the wearer does this, allies other than their self within 30 feet gain a bonus for 1 round. The wearer chooses the bonus, and all allies gain the same bonus. The options are:
 
 - +4 morale bonus on attack rolls with weapons and natural weapons
 - +4 morale bonus on weapon and natural weapon melee damage rolls

@@ -1,7 +1,7 @@
 ---
 title: "Divination"
 source: https://spheresofpower.wikidot.com/divination
-updated: 2026-09-13
+updated: 2026-10-06
 parent: "[[Spheres Of Power]]"
 searchtype: Spheres, Talents
 ---
@@ -549,8 +549,6 @@ You may spend 2 spell points to divine the shortest, most direct physical route 
 For 1 day per caster level, the caster gains knowledge of the destination’s general location and the destination’s distance and direction from the caster. In addition, the caster gains a supernatural sense for any actions which must be taken to reach that destination (such as which corridor in a cavern to take). This sphere effect otherwise functions as the find the path spell for the purposes of interactions with the maze spell.
 
 **Pathfinder Example:** The caster could not specify a specific cabin or home, but could specify the specific logging camp where the structure is located (such as “The Maple Forest Logging Camp”). Subject to GM discretion, sufficiently prominent individual buildings (such as landmarks or a noble’s mansion) may qualify as a prominent destination if it is notable or unique to the location.
-
-[[/div]]
 
 #### Discern Location (divine) [utility]
 

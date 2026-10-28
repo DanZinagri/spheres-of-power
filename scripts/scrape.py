@@ -246,7 +246,17 @@ PAGE_REPLACE = {
     "marvelous-items": [(r"^- Summoning Orbs \(Bonus page[^\n]*\n", "")],
     # Diamond Spheres: Expanded Tinker and Silverminds errata and tags the wiki hadn't applied
     "tinker-talents": TINKER_FIXES,
-    "tinker": TINKER_FIXES,
+    # the class page repeats the talents; the wiki fixed these on Tinker Talents only
+    "tinker": TINKER_FIXES + [
+        (r"perform any the following as swift action", "perform any of the following as a swift action"),
+        (r"(stack with this talent to be) 4 (times penetration)", r"\1 6 \2"),
+        (r"(5 feet of stone,) 6 (inches of common metal)", r"\1 5 \2"),
+    ],
+    # a missing article ("as swift action"), like the wiki's own fix on Tinker Talents
+    "armor": [(r"(Once per turn as) (swift action)", r"\1 a \2")],
+    "quicksilver": [(r"(from his dodge pool as) (swift action)", r"\1 a \2")],
+    "sage": [(r"(may spend a ki point as) (swift action)", r"\1 a \2")],
+    "collector": [(r"(storage|by an ally) as (swift action)", r"\1 as a \2")],
     "tinker-legendary-talents": [(r"\b(physical or mental|mental) augmentation\b", r"\1 augmentor")],
     "taskmaster": [(r"\b(physical or mental|mental) (?:\*augmentation\*|augmentation\b)", r"\1 augmentor")],
     "using-tinker-sphere": [

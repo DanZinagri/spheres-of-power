@@ -177,7 +177,7 @@ The sage gains the ability to channel the damage and other effects of chi gong t
 
 #### Phantom Strike
 
-The sage may spend a ki point as swift action to allow all of their attacks to resolve as touch attacks for one round. A sage must be at least 6th level to select this esotery.
+The sage may spend a ki point as a swift action to allow all of their attacks to resolve as touch attacks for one round. A sage must be at least 6th level to select this esotery.
 
 ### Chakra Disruptor Esoteries
 

@@ -55,7 +55,7 @@ The user adds twice the physical augmentor’s bonus to the number of drinks the
 
 **Special - Tinker Savvy:** Training or handling another creature to use gizmos is considered a technological skill use, allowing you to make a Tinker sphere associated skill check in place of Handle Animal checks as appropriate.
 
-**Saddle Assistant (gizmo, minor):** The user may mount creatures of any size as swift action without a check. When using fast mount, they may mount creatures of any size they could ride, and may do so as long as they have their move or swift action available. If they fail, they may mount as a move or swift action.
+**Saddle Assistant (gizmo, minor):** The user may mount creatures of any size as a swift action without a check. When using fast mount, they may mount creatures of any size they could ride, and may do so as long as they have their move or swift action available. If they fail, they may mount as a move or swift action.
 
 - **Advanced Gizmo:** The user does not take a penalty for riding bareback and is treated as having the necessary basic equipment to ride and control their mount (such as a bit and bridle for a horse, or other equipment as needed).
 
